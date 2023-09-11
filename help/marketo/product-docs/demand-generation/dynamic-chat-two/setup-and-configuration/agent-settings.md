@@ -4,20 +4,24 @@ title: Instellingen agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
 # Instellingen agent {#agent-settings}
 
-In het de configuratietabblad van de Kalender, verbind uw Vooruitzichten of kalender van Gmail voor gebruik in afspraak die in het praatje plant.
+Configureer uw agenda en stel de beschikbaarheid van vergaderingen/livechats in.
+
+![](assets/agent-settings-1.png)
 
 ## Connect-agenda {#connect-calendar}
 
-![](assets/agent-settings-1.png)
+In het de configuratietabblad van de Kalender, verbind uw Vooruitzichten of kalender van Gmail voor gebruik in afspraak die in het praatje plant.
+
+![](assets/agent-settings-2.png)
 
 Zodra de kalender van een gebruiker met Dynamic Chat wordt verbonden, zullen zij aan de rij worden toegevoegd en hun kalender zal voor websitebezoekers beschikbaar zijn om benoemingen te plannen op.
 
@@ -27,7 +31,7 @@ Zodra de kalender van een gebruiker met Dynamic Chat wordt verbonden, zullen zij
 
 De gebruikers kunnen het lichaam van de uitnodiging ook aanpassen die naar de bezoeker wordt verzonden wanneer zij een benoeming op de kalender van de gebruiker plannen. Ze kunnen ook het selectievakje onderaan inschakelen om een koppeling naar Google Meet of Microsoft Teams op te nemen (afhankelijk van de kalender die is verbonden).
 
-![](assets/agent-settings-2.png)
+![](assets/agent-settings-3.png)
 
 >[!TIP]
 >
@@ -52,12 +56,39 @@ Als u configuratie uitvoert met Google, worden de volgende machtigingen aan de D
 
 ## Beschikbaarheid van boekingen voor vergaderingen {#meeting-booking-availability}
 
-Tekst
+Plaats uw tijdzone en tijd/dag van weekbeschikbaarheid om vergaderingsboekingen te ontvangen.
 
-## Lengte en buffertijd van vergadering {#meeting-length-and-buffer-time}
+![](assets/agent-settings-4.png)
 
-Tekst
+<table> 
+ <tbody> 
+  <tr> 
+   <td><b>Duur van vergadering</b></td>
+   <td>Maximale duur van de vergadering. - WAT GEBEURT ER? AUTOMATISCH EINDIGEN?</td>
+  </tr> 
+  <tr> 
+   <td><b>Buffertijd tussen vergaderingen</b></td>
+   <td>Tijd die u instelt als buffer voor na de vergadering. Als u het 30 minuten plaatst, zal niemand een vergadering met u tot 31 minuten na het geplande eind van een vergadering op uw kalender kunnen boeken. - 31 of 30???????????????</td>
+  </tr>
+ </tbody> 
+</table>
+
+>[!TIP]
+>
+>U kunt meerdere blokken tijd selecteren op dezelfde dag (bijvoorbeeld vrijdag van 8a-12p) _en_ 1p-5p) door op de knop **+** teken aan de rechterkant.
 
 ## Live Chat-beschikbaarheid {#live-chat-availability}
 
-Tekst
+Plaats uw tijdzone en tijd/dag van week beschikbaarheid om levende kartels te ontvangen.
+
+![](assets/agent-settings-5.png)
+
+Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet bent aangemeld, ontvangt u een browsermelding (in Google Chrome).
+
+>[!IMPORTANT]
+>
+>De [beschikbaarheidsschakelaar](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal overschrijven** wat u invoert op het tabblad Beschikbaarheid van live chat. Dus als u zoals beschikbaar van 1p-5p gepland maar een snelle onderbreking bij 3p moet nemen, te hoeven u niet om uw agentenmontages te veranderen. De de knevelstatus van de beschikbaarheid zal blijven tot u het manueel verandert, of tot het volgende blok van tijd in uw beschikbaarheid wordt bereikt.
+
+>[!TIP]
+>
+>U kunt meerdere blokken tijd selecteren op dezelfde dag (bijvoorbeeld vrijdag van 8a-12p) _en_ 1p-5p) door op de knop **+** teken aan de rechterkant.

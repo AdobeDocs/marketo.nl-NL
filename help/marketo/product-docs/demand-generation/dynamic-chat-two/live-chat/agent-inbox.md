@@ -4,9 +4,9 @@ title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 >
 >**Dit wordt genegeerd** de [beschikbaarheid van livechat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
 
+>[!NOTE]
+>
+>Als u uw status instelt op niet beschikbaar, heeft dit geen invloed op actieve chats.
+
 ## Live Chat accepteren {#accepting-a-live-chat}
 
 Wanneer een levende praatje aan de agent wordt verpletterd, zullen zij een blauwe banner over de bovenkant van het scherm zien vragend hen om goed te keuren.
@@ -36,7 +40,6 @@ Wanneer een levende praatje aan de agent wordt verpletterd, zullen zij een blauw
 ### Notities {#things-to-note}
 
 * De agenten hebben 45 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden.&quot;
-* BROWSER TIDBIT
 * Er is een grens van 10 levende chats per agent op dit ogenblik
 
 ## Gesprek {#conversations}
@@ -44,6 +47,10 @@ Wanneer een levende praatje aan de agent wordt verpletterd, zullen zij een blauw
 Op de linkerkant van het scherm van Agent Inbox, kunt u verkiezen om slechts de actieve gesprekken, of allen van hen te tonen.
 
 ![](assets/agent-inbox-4.png)
+
+>[!NOTE]
+>
+>Terwijl u vroegere (inactieve) gesprekken van zich en andere agenten kunt zien, zult u slechts uw eigen actieve gesprekken kunnen zien.
 
 ## Bezoekersinformatie {#visitor-information}
 
@@ -61,4 +68,18 @@ Onder de bezoekersinformatie bevindt zich de activiteitengeschiedenis. Bekijk ac
 >
 >Informatie wordt alleen gedurende de afgelopen 90 dagen weergegeven.
 
-Actieve gesprekken - Alle gesprekken - Kalender die de informatie van de Bezoeker deelt - Recente activiteiten van de Dynamic Chat
+## Kalender delen {#calendar-sharing}
+
+Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda van uw of een andere agent kunt delen met de chatbezoeker.
+
+1. Klik op het kalenderpictogram.
+
+   ![](assets/agent-inbox-7.png)
+
+1. Kies de gewenste agentenkalender en klik **Verzenden**.
+
+   ![](assets/agent-inbox-8.png)
+
+1. De bezoeker van de chat zal een vergadering kunnen boeken.
+
+   ![](assets/agent-inbox-9.png)

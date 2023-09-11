@@ -4,9 +4,9 @@ title: Agent Management
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ In het Beheer van de Agent, bekijk een lijst van agenten in uw instantie van de 
 
 ## Medewerkers {#agents}
 
-Dit lusje maakt een lijst van alle agenten in uw instantie van de Dynamic Chat, en omvat zoals hun naam, e-mailadres, Levende status van het Praatje, en meer.
+Dit lusje maakt een lijst van alle agenten in uw instantie van de Dynamic Chat, en omvat dergelijke informatie zoals hun naam, e-mailadres, levende praatjestatus, en meer.
 
 PICC2 - BEHOEFT SCREENSHOT VAN HULPLIJNEN
 
@@ -63,7 +63,7 @@ Selecteer een standaardbericht (systeembericht) of schrijf een aangepast bericht
 
 >[!NOTE]
 >
->De **Optie Vergadering opnemen voor boeken** checkbox zal een vergadering het boeken widget voor de praatjebezoeker produceren.
+>De **Optie Vergadering opnemen voor boeken** checkbox zal de praatjebezoeker de optie geven om een vergadering te boeken wanneer geen agenten beschikbaar zijn om te leven praatje.
 
 >[!TIP]
 >
