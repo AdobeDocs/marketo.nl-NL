@@ -4,9 +4,9 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1024'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,11 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  </tr>
  <tr>
   <td><strong>Aanstellingsplanner</strong></td>
-  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van agenda's weerspiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">de volgende agent in lijn</a>.</td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van agenda's weerspiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">de volgende agent in lijn</a>. Er is ook een optie om kenmerken zoals de naam van de agent of e-mailadres door te geven.</td>
+ </tr>
+ <tr>
+  <td><strong>Vergaderingreservering</strong></td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels.</td>
  </tr>
  <tr>
   <td><strong>Doel</strong></td>
@@ -68,19 +72,19 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
 <table>
  <tr>
   <td><img src="assets/stream-designer-1.png"></td>
-  <td>Hiermee voegt u een raster toe aan de achtergrond voor diegenen die de voorkeur geven aan die weergave</td>
- </tr>
- <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
   <td>Inzoomen, grotere kaarten maken</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td><img src="assets/stream-designer-2.png"></td>
   <td>Uitzoomen, kleinere kaarten maken</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td><img src="assets/stream-designer-3.png"></td>
   <td>Hiermee opent u een venster waarin u uw chat kunt testen (druk op dezelfde knop om te sluiten)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Hiermee kunt u zoeken naar kaarttypen of inhoud in uw stream</td>
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
@@ -211,4 +215,3 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
 >* [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 >* [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
 >* [De documentkaart gebruiken](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"}
-

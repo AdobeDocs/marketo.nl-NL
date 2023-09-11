@@ -4,9 +4,9 @@ title: Criteria voor het publiek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,6 @@ De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer
 
 ## Gebeurtenissen {#events}
 
-![](assets/audience-criteria-2.png)
-
 Met gebeurtenissen kunt u bezoekers aanwijzen op basis van hoeveel ze schuiven of hoe lang ze zich op uw pagina/site bevinden. In het onderstaande voorbeeld richten we ons op bezoekers die al meer dan 20 seconden op een specifieke pagina staan.
 
 1. Pak de **Tijd op pagina** en sleep deze naar rechts.
@@ -40,8 +38,6 @@ Met gebeurtenissen kunt u bezoekers aanwijzen op basis van hoeveel ze schuiven o
    ![](assets/audience-criteria-5.png)
 
 ## Attributen {#attributes}
-
-![](assets/audience-criteria-6.png)
 
 **Bekende personen**
 
@@ -96,6 +92,18 @@ Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw 
 1. _Is_ is standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
    ![](assets/audience-criteria-15.png)
+
+## Lidmaatschap {#membership}
+
+Gebruik de Slimme Lijsten van het Marketo Engage voor het doelpubliek van uw Dialoog.
+
+1. Onder Lidmaatschap, greep **Lid van slimme lijst** en zet het neer op het canvas.
+
+   ![](assets/audience-criteria-15a.png)
+
+1. Selecteer de gewenste slimme lijst.
+
+   ![](assets/audience-criteria-15b.png)
 
 ## Groepen toevoegen {#add-groups}
 

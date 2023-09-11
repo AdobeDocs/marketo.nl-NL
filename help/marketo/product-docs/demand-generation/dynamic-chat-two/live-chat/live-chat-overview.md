@@ -4,7 +4,7 @@ title: Live Chat-overzicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Live chat gebruiken op de [stroomontwerper](/help/marketo/product-docs/demand-ge
 **Aanbevolen procedures**
 
 * Gebruik een vraagkaart vóór de livechatkaart en vraag de bezoeker of ze verbinding willen maken.
-* Nadat de bezoeker de verbinding heeft gemaakt, gebruikt u de opnamekaart voor informatie om bepaalde gegevens op te halen, zoals voornaam/achternaam, e-mailadres, functie, enz. (het wordt aanbevolen om ten minste voornaam en e-mailadres aan te vragen)
+* Nadat de bezoeker de verbinding heeft gemaakt, gebruikt u de kaart voor het vastleggen van gegevens om bepaalde gegevens te verzamelen, zoals voornaam/achternaam, e-mailadres, functie, enz. (We raden u aan ten minste een voornaam en een e-mailadres aan te vragen.)
 
 ## Opties voor live-chatkaart {#live-chat-card-options}
 

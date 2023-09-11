@@ -4,9 +4,9 @@ title: Instellingen voor conversiestromen voor Marketo Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 59a1dfe1a6ca638cdbc18a7163e64dc2bac25bb5
+source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Maak Marketo Engage Forms conversatie door hen met de Stroom van de Gesprek van 
 >[!PREREQUISITES]
 >
 >VOEG HIER PREREQ TOE
+
+>[!AVAILABILITY]
+>
+>Lid van Slimme Lijst of Lid van de criteria van de Lijst vereist de Primeur van de Dynamic Chat.
 
 1. Zoek en selecteer het formulier (of maak een nieuw formulier).
 
