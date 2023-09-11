@@ -4,9 +4,9 @@ title: Beveiligingsinstellingen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,6 @@ In de montages van de Veiligheid, hebt u de capaciteit om domeinen aan een geblo
 1. Selecteer de **Validatie inschakelen** om uw lijst van gewezen personen te activeren. Voer maximaal 50 domeinen in en klik op **Opslaan**.
 
    ![](assets/security-settings-2.png)
-
->[!CAUTION]
->
->Zorg ervoor **NOT** toevoegen `adobeeventlab.com` aan de lijst van gewezen personen of zal het? CHAT UITSCHAKELEN??
 
 ## Toegestane domeinen {#allowed-domains}
 

@@ -4,30 +4,28 @@ title: Een wisselstroom maken
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 720215ea958206931413f2d273a4a058bc051579
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Een wisselstroom maken {#create-a-conversational-flow}
 
-Een gespreksstroom ontwerpen en deze activeren voor elke bezoeker op basis van een specifieke actie (bijvoorbeeld klikken op een knop Bellen naar actie, Bij laden van de pagina, de tijd die op de pagina wordt doorgebracht, enz.).
-
-Zijn er verschillen tussen Dialogen???????????
+Hier is hoe te om een nieuwe Conversationele Stroom te creëren.
 
 1. Klik onder Geautomatiseerde chat op **Conversatiestromen**.
 
-PICC
+   ![](assets/create-a-conversational-flow-1.png)
 
 1. Klikken **Conversale stroom maken**.
 
-PICC
+   ![](assets/create-a-conversational-flow-2.png)
 
 1. Kies een lege Conversationele Stroom, of één van de pre-bevolkte malplaatjes. Voer een naam in (beschrijving is optioneel), wijzig de taal (optioneel) en klik op **Maken**.
 
-PICC
+   ![](assets/create-a-conversational-flow-3.png)
 
 >[!NOTE]
 >
