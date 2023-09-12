@@ -3,9 +3,9 @@ description: Leer hoe u een bestaande overgeërfde instantie van een Marketo Eng
 title: Een overgeërfde Marketo Engage-instantie starten
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,23 @@ ht-degree: 0%
 
 Een nieuwe taak starten of een bestaand exemplaar overnemen van een andere beheerder? Het overnemen van een live instantie die al een tijdje actief is, kan een beetje ontmoedigend lijken, maar deze gids zal u helpen op een bepaald moment aan de slag gaan.
 
-## Te controleren items {#items-to-check-off}
+## Opstelling in de Marketing Nation krijgen {#get-set-up-in-the-marketing-nation}
 
-Zorg ervoor u behoorlijk opstelling met de juiste soorten toegang en informatie bent.
+Zorg ervoor dat je op de juiste manier bent ingesteld in de Marketo Community.
 
-* Bekijk een kort overzicht van **wat Marketo doet** - KG - BETERE VIDEO OF DELETE ZOEKEN
+* **[Uw profiel instellen]** https://nation.marketo.com/){target="_blank"}.
 
-* **Uw profiel instellen** in de [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} community (gebruikersnaam en wachtwoord vereist).
+* [**Uw profiel instellen**](https://nation.marketo.com/){target="_blank"}.
 
-* Lees de tekst [**Richtlijnen voor marketingcommunity**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* **[Uw profiel instellen](https://nation.marketo.com/)**{target="_blank"}.
+
+* **[Uw profiel instellen](https://nation.marketo.com/){target="_blank"}**.
+
+* Lees de tekst [**Communautaire richtlijnen voor het in de handel brengen**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Klikken **[!UICONTROL Your Places]** op het profiel van de Marketo Nation-community voor het uitchecken van de accountpagina van uw bedrijf.
 
 * Leer hoe u [**een steungeval indienen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
-
-* [**Gebruikers beheren**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} en verwijder de personen die uw bedrijf hebben verlaten.
 
 ## Overgenomen Instance Audit Guides {#inherited-instance-audit-guides}
 
