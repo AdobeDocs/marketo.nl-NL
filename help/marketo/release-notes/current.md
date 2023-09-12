@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '951'
 ht-degree: 2%
 
 ---
@@ -328,6 +328,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **Schakel Switch Deprection for Design Studio Assets in of uit**: De knevelschakelaar die gebruikers toestaat om tussen de klassieke interface en de Moderne ervaring van UX voor de Studio van het Ontwerp te schakelen zal, samen met de oude versie van de ervaring van de Studio van het Ontwerp worden verouderd, toestaand gebruikers om aan de Moderne ervaring van UX volledig te migreren.
+* **Schakel Switch Deprection for Design Studio Assets in of uit**: De knevelschakelaar die gebruikers toestaat om tussen de klassieke interface en de Moderne ervaring van UX voor de Studio van het Ontwerp te schakelen zal, samen met de oude versie van de ervaring van de Studio van het Ontwerp worden verouderd, toestaand gebruikers om aan de Moderne ervaring van UX volledig te migreren. [Meer informatie hier](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
 * **_Webinar productrelease_**: Sluit u aan bij ons op 6 september 2023, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} wordt gehost door ons productteam, waar u leert hoe u alle nieuwste productinnovaties kunt gebruiken.

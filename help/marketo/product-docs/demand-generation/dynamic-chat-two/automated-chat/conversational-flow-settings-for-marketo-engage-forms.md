@@ -4,9 +4,9 @@ title: Instellingen voor conversiestromen voor Marketo Engage Forms
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Instellingen voor conversiestromen voor Marketo Engage Forms{#conversational-flow-settings-for-marketo-engage-forms}
 
 Maak Marketo Engage Forms conversatie door hen met de Stroom van de Gesprek van de Dynamic Chat te integreren. Kwalificeer direct lood gebruikend vormgegevens of het Slimme lidmaatschap van de Lijst voor vergaderingsboekingen, de verbindingen van het Witboek, of douanedoelstellingen.
-
->[!PREREQUISITES]
->
->VOEG HIER PREREQ TOE
 
 >[!AVAILABILITY]
 >

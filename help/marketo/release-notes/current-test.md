@@ -4,9 +4,9 @@ title: Huidige test met opmerkingen bij de release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: d84a1183938238a79c5aba61005ae07f7fd902a1
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1212'
 ht-degree: 1%
 
 ---
@@ -117,11 +117,9 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 * meer ruimte
 
-* einde test... VOOR NU
-
 * **Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp**:
 
-<table> 
+<table width="400">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -135,7 +133,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 * **Gebruikt door de Verbeteringen van het Lusje voor de Middelen van de Studio van het Ontwerp**: Het tabblad Gebruikt door versterking biedt een gedetailleerdere weergave van het type en de naam van een element, samen met de locatie waar het wordt gebruikt. Dit is van toepassing voor E-maildetails en details van afbeeldingen en bestanden.
 
-<table> 
+<table width="400px">
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -146,6 +144,12 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
   </tbody>
 </table>
+
+* spatie
+
+* meer ruimte
+
+* einde test... VOOR NU
 
 * **Formule Flow Step-service berekenen**: Compute Formula is een Flow Step Service die is gebaseerd op het IO Runtime-platform van de Adobe voor gebruik met Marketo Engage Slimme Campagnes. De cliënten van de Adobe met runtime IO kunnen de dienst opstellen en het installeren aan hun abonnementen van het Marketo Engage, die hen toestaan om Excel-als formules in de Slimme Campagnes van Marketo gegevens te verwerken.
 
