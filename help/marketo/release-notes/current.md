@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 515821580741449f71df31dbd0652498fd744783
+source-git-commit: 61aa38883d62523449aed77d1dbd2e30f1d31038
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '942'
 ht-degree: 2%
 
 ---
@@ -32,8 +32,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Overzicht van programma-importbibliotheek</a></td>
   </tr>
   </tbody>
 </table>
