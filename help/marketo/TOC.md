@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '9162'
+source-wordcount: '9160'
 ht-degree: 0%
 
 ---
@@ -654,10 +654,9 @@ ht-degree: 0%
          + [Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analyse](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Geautomatiseerde chat {#automated-chat}
-            + [Overzicht van conversiestromen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [Overzicht van conversiesnelheid](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md)
             + [Een wisselstroom maken](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [Conversation Flow Settings for Marketo Engage Forms](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-            + [Gesprek SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
             + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Een dialoogvenster maken](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Criteria voor het publiek](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)

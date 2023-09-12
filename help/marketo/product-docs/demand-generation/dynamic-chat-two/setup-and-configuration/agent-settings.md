@@ -4,9 +4,9 @@ title: Instellingen agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -64,11 +64,11 @@ Plaats uw tijdzone en tijd/dag van weekbeschikbaarheid om vergaderingsboekingen 
  <tbody> 
   <tr> 
    <td><b>Duur van vergadering</b></td>
-   <td>Maximale duur van de vergadering. - WAT GEBEURT ER? AUTOMATISCH EINDIGEN?</td>
+   <td>Maximale duur van de vergadering. - WAT GEBEURT ER? AUTOMATISCH STOPPEN ZOOMEN?</td>
   </tr> 
   <tr> 
    <td><b>Buffertijd tussen vergaderingen</b></td>
-   <td>Tijd die u instelt als buffer voor na de vergadering. Als u het 30 minuten plaatst, zal niemand een vergadering met u tot 31 minuten na het geplande eind van een vergadering op uw kalender kunnen boeken. - 31 of 30???????????????</td>
+   <td>Tijd die u instelt als buffer voor na de vergadering. Als u het 30 minuten plaatst, zal niemand een vergadering met u tot 30 minuten na het geplande eind van een vergadering op uw kalender kunnen boeken.</td>
   </tr>
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Plaats uw tijdzone en tijd/dag van week beschikbaarheid om levende kartels te on
 
 ![](assets/agent-settings-5.png)
 
-Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet bent aangemeld, ontvangt u een browsermelding.
+Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet bent aangemeld, ontvangt u een browsermelding (als u [instellen](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->De [beschikbaarheidsschakelaar](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal overschrijven** wat u invoert op het tabblad Beschikbaarheid van live chat. Dus als u zoals beschikbaar van 1p-5p gepland maar een snelle onderbreking bij 3p moet nemen, te hoeven u niet om uw agentenmontages te veranderen. De de knevelstatus van de beschikbaarheid zal blijven tot u het manueel verandert, of tot het volgende blok van tijd in uw beschikbaarheid wordt bereikt.
+>De [beschikbaarheidsschakelaar](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal overschrijven** wat u invoert op het tabblad Beschikbaarheid van live chat. Dus als u zoals beschikbaar van 1p-5p gepland maar een snelle onderbreking bij 3p moet nemen, te hoeven u niet om uw agentenmontages te veranderen. De van de knevel van de beschikbaarheid status zal blijven tot u het manueel verandert, of tot het volgende tijdblok in uw beschikbaarheid wordt bereikt.
 
 >[!TIP]
 >

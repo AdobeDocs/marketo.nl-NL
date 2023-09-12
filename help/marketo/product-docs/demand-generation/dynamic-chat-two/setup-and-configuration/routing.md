@@ -4,9 +4,9 @@ title: Routering
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,18 @@ Identificeer en upload uw doelaccount en de respectievelijke verkoopeigenaren en
 
 ![](assets/routing-9.png)
 
-Team dat verplettert - DELETE DEZE VERWIJZINGEN VOOR NU
+### Een account toevoegen {#add-an-account}
 
-Lidmaatschap van slimme lijstroutering - MOGELIJK VERTRAAGD
+In dit voorbeeld, zullen wij alle werknemers van Lego rechtstreeks aan agent Steven leiden.
+
+1. In de Rekening die tabel verplettert, klikt u op **+ Account toevoegen**.
+
+   ![](assets/routing-10.png)
+
+   >[!TIP]
+   >
+   >U kunt meerdere accounts tegelijk maken door op **Accountlijst uploaden** en het uploaden van een CSV.
+
+1. Ga de naam van het bedrijf, domein in, en selecteer de gewenste agent.
+
+   ![](assets/routing-11.png)

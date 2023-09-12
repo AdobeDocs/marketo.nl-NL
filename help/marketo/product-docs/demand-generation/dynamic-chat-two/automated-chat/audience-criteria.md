@@ -4,16 +4,16 @@ title: Criteria voor het publiek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
 
 # Criteria voor het publiek {#audience-criteria}
 
-Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende personen als doel instellen met afgeleide, persoon- of bedrijfskenmerken (of een combinatie daarvan).
+Net als bij Slimme lijsten Marketo&#39;s Engage kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) het doelpubliek definiëren. U kunt bekende of onbekende personen als doel instellen met afgeleide, persoon- of bedrijfskenmerken (of een combinatie daarvan).
 
 ## Prioriteit {#priority}
 

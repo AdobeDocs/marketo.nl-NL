@@ -4,16 +4,16 @@ title: Live Chat-overzicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
 # Live Chat-overzicht {#live-chat-overview}
 
-Live chat gebruiken op de [stroomontwerper](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} wanneer u bezoekers wilt chatten met een live agent.
+Live chat gebruiken op de [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"} wanneer u bezoekers wilt chatten met een live agent.
 
 ## Live Chat-kaart gebruiken {#using-the-live-chat-card}
 
@@ -23,7 +23,7 @@ Live chat gebruiken op de [stroomontwerper](/help/marketo/product-docs/demand-ge
 >
 >De live chatkaart moet altijd de laatste kaart in de vertakking zijn. Als de kaart in een willekeurig punt in de tak wordt geplaatst, zou het de bezoeker kunnen verrassen door hen plotseling met een agent te verbinden.
 
-**Aanbevolen procedures**
+### Aanbevolen procedures {#best-practices}
 
 * Gebruik een vraagkaart vóór de livechatkaart en vraag de bezoeker of ze verbinding willen maken.
 * Nadat de bezoeker de verbinding heeft gemaakt, gebruikt u de kaart voor het vastleggen van gegevens om bepaalde gegevens te verzamelen, zoals voornaam/achternaam, e-mailadres, functie, enz. (We raden u aan ten minste een voornaam en een e-mailadres aan te vragen.)
@@ -46,7 +46,7 @@ Als u op de live chatkaart in de stream klikt, kunt u kiezen hoe de bezoeker wor
   </tr>
     <tr> 
    <td><b>Aangepaste regels</b></td>
-   <td>Alle aangepaste regels worden doorlopen wanneer wordt overwogen waar de bezoeker moet worden geleid. Als de bezoeker niet aan een van de criteria voldoet, zullen ze de RULE FALLBACK??</td>
+   <td>Alle aangepaste regels worden doorlopen wanneer wordt overwogen waar de bezoeker moet worden geleid. Als de bezoeker niet in aanmerking komt voor een aangepaste regel, krijgen ze de opdracht <a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">live chat fallback-bericht</a>.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>

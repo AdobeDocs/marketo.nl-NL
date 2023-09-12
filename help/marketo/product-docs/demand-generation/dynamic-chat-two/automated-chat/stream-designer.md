@@ -4,9 +4,9 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
+source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Er zijn _veel_ streamcombinaties mogelijk. Dit artikel bevat een voorbeeld waari
 
 >[!PREREQUISITES]
 >
->Voordat u de documentkaart kunt gebruiken, moet u eerst [instellen](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md){target="_blank"} in uw Adobe account.
+>Voordat u de documentkaart kunt gebruiken, moet u eerst [instellen](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md){target="_blank"} in uw Adobe account.
 
 ## Streaming Designer-kaarten {#stream-designer-cards}
 
@@ -89,6 +89,8 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
 </table>
 
 ## Een stream maken {#create-a-stream}
+
+U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}. In dit voorbeeld maken we er een voor een dialoogvenster.
 
 1. Na u hebt [heeft uw dialoogvenster gemaakt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}klikt u op de knop **Stream Designer** tab.
 
