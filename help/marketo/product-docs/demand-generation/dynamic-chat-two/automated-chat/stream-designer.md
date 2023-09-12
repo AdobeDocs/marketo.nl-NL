@@ -4,9 +4,9 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 863e5e542e2006ee15f44ad949e876e56a9b39e3
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1024'
+source-wordcount: '1084'
 ht-degree: 0%
 
 ---
@@ -39,15 +39,11 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  </tr>
  <tr>
   <td><strong>Gegevens vastleggen</strong></td>
-  <td>Gebruik deze optie wanneer u gegevens wilt verzamelen. De drie velden waaruit u kunt kiezen zijn E-mailadres, Telefoonnummer en Tekst (zodat de bezoeker zijn eigen bericht kan schrijven).</td>
- </tr>
- <tr>
-  <td><strong>Aanstellingsplanner</strong></td>
-  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van agenda's weerspiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">de volgende agent in lijn</a>. Er is ook een optie om kenmerken zoals de naam van de agent of e-mailadres door te geven.</td>
+  <td>Wordt gebruikt wanneer u gegevens wilt verzamelen (bijvoorbeeld naam, e-mailadres, functie, enz.). Nadat u hebt bepaald op welk veld de reactie moet worden toegeschreven, kunt u kiezen of de bezoeker zijn reactie laat typen of opties in een keuzelijst selecteert die u bepaalt (tip: de laatste kan helpen met de schoonheid van de database). U kunt er ook voor kiezen om de gegevens die u momenteel voor hen hebt vermeld, te overschrijven met hun antwoord, of de vraag volledig over te slaan als u al een waarde voor hen hebt.</td>
  </tr>
  <tr>
   <td><strong>Vergaderingreservering</strong></td>
-  <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels.</td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels. Klikken <b>Kenmerk toevoegen</b> als u de naam of het e-mailadres van de agent wilt vastleggen en dit aan de persoonlijke record van de bezoeker van de chat wilt toewijzen voor toekomstig opvragen (tip: maak een <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepast veld</a> om de informatie van de agent aan zoals in kaart te brengen om een standaardgebied van het Marketo Engage niet te beschrijven).</td>
  </tr>
  <tr>
   <td><strong>Doel</strong></td>

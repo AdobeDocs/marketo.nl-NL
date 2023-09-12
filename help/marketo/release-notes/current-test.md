@@ -4,10 +4,10 @@ title: Huidige test met opmerkingen bij de release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
+source-git-commit: 83f9cc2c59815a3df171d703d7069973de325909
 workflow-type: tm+mt
-source-wordcount: '1083'
-ht-degree: 2%
+source-wordcount: '1209'
+ht-degree: 1%
 
 ---
 
@@ -41,8 +41,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 <table>
   <tr> 
-   <td><b>Functie</b></td>
-   <td><strong>Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp</strong>: Met de Marketo Engage Program Reference Library kunnen gebruikers 'example'-programma's en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.</td>
+   <td style="width:20%"><b>Functie</b></td>
+   <td style="width:80%"><strong>Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp</strong>: Met de Marketo Engage Program Reference Library kunnen gebruikers 'example'-programma's en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.</td>
   </tr>
   <tr> 
    <td><b>Status</b></td>
@@ -58,9 +58,9 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Functie</th> 
-   <th>Status</th>
-   <th>Documentatie</th>
+   <th style="width:70%">Functie</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:15%">Documentatie</th>
   </tr> 
   <tr> 
    <td><strong>Marketo Reference Library</strong>: Met de Marketo Engage Program Reference Library kunnen gebruikers 'example'-programma's en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.</td> 
@@ -80,9 +80,44 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
  </tbody> 
 </table>
 
+* spatie
 
+* spatie
 
+* meer ruimte
 
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:65%">Functie</th> 
+   <th style="width:15%">Status</th>
+   <th style="width:20%">Documentatie</th>
+  </tr> 
+  <tr> 
+   <td><strong>Marketo Reference Library</strong>: Met de Marketo Engage Program Reference Library kunnen gebruikers 'example'-programma's en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.</td> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Overzicht van programma-importbibliotheek</a></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp</strong>: Met de Marketo Engage Program Reference Library kunnen gebruikers 'example'-programma's en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+ </tbody> 
+</table>
+
+* spatie
+
+* spatie
+
+* meer ruimte
+
+* einde test... VOOR NU
 
 * **Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp**:
 
