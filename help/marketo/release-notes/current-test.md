@@ -4,7 +4,7 @@ title: Huidige test met opmerkingen bij de release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
+source-git-commit: 8c0a62806d6ef24e75d1e6e2eafe2640a3ebb6e5
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 0%
@@ -22,6 +22,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 septemb
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
 De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **8 september 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
+
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
@@ -85,6 +86,7 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
  </tbody> 
 </table>
+</br>
 
 ### Dynamic Chat {#dynamic-chat}
 
