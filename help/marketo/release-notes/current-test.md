@@ -4,9 +4,9 @@ title: Huidige test met opmerkingen bij de release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 5a46493d1d9f1a56d574f62ce1d316a6238ee870
+source-git-commit: bca573d47314ce8017cbe8a3834c01618ccf601f
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 ## Functies van de release van Agile {#agile-release-features}
 
 Alle onderstaande functies volgen een indeling van Agile en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer de status naast elke functie.
-</br>
+
 <table style="border: none">
  <tbody> 
   <tr> 
@@ -97,8 +97,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr> 
   <tr> 
    <td><strong>Actiekaart in stroomontwerper</strong>: Marketers kunnen actiekaarten in de dialoogstroom gebruiken om verborgen waarden door te geven aan de persoonrecord van het Marketo Engage wanneer bezoekers een dialoogvenster openen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">Streaming Designer-kaarten</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -107,8 +107,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
    <tr> 
    <td><strong>Gesprek Forms met Marketo Engage Forms</strong>: Maak Marketo Engage Forms conversationeel door ze te integreren met Dynamic Chat Conversational Flows. Kwalificeer direct lood gebruikend vormgegevens of het Slimme lidmaatschap van de Lijst voor vergaderingsboekingen, de verbindingen van het Witboek, of douanedoelstellingen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Gesprek Forms</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -117,8 +117,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
     <tr> 
    <td><strong>Gesprek SDK</strong>: Zet om het even welke vorm, landende pagina, of bijna om het even welke Web-pagina in het aanhalen van vergadering het boeken ervaringen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">Gesprek SDK</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -127,8 +127,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
   <tr> 
    <td><strong>Aangepaste instellingen voor vergaderingenreservering</strong>: De agenten kunnen de montages van de douaneverantwoording van de vergadering zoals beschikbaarheid, vergaderingslengte, en "buffertijd"tussen vergaderingen plaatsen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">Aangepaste instellingen voor vergaderingenreservering</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -137,8 +137,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
    <tr> 
    <td><strong>Instellingen voor alternatieven</strong>: Beheerders kunnen aangepaste fallback-instellingen instellen om te bepalen wat bezoekers zien wanneer agents niet beschikbaar zijn om te chatten.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">Regels voor alternatieven</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -147,8 +147,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
     <tr> 
    <td><strong>Global Performance Dashboard</strong>: Bekijk hoe goed uw dialoogvensters presteren, inclusief betrokkenheids- en prestatiegegevens (totaal en over een tijdsverloop), best presterende pagina's en best presterende dialoogvensters.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#global-performance-dashboard" target="_blank">Global Performance Dashboard</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -157,8 +157,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
    <tr> 
    <td><strong>Live Chat</strong>: Webbezoekers kunnen in real-time chatten met verkoopagenten om hun vragen te beantwoorden.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md" target="_blank">Live Chat-overzicht</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -167,8 +167,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
    <tr> 
    <td><strong>Live Chat Performance-dashboard</strong>: Bekijk hoeveel gesprekken uw levende verkoopagenten hadden en welke teams het beste presteerden.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chat Performance-dashboard</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -177,8 +177,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
     <tr> 
    <td><strong>Doel van slimme lijst met Marketo's Engage</strong>: Marketers kunnen zich richten op leden van slimme lijsten met Marketo's Engage in de publiekscriteria van het dialoogvenster.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md#membership" target="_blank">Lidmaatschap</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -187,8 +187,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
   <tr> 
    <td><strong>Dashboard voor vergaderprestaties</strong>: Zie hoeveel vergaderingen worden geboekt en met wie ze worden geboekt.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/analytics.md#meeting-performance-dashboard" target="_blank">Dashboard voor vergaderprestaties</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -197,8 +197,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
    <tr> 
    <td><strong>Nieuwe Dynamics Chat</strong>: Nieuwe activiteiten ter ondersteuning van Conversational Flows, Live Chat en andere nieuwe functies.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md" target="_blank">Dynamic Chat</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -207,8 +207,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
     <tr> 
    <td><strong>Live Chatmeldingen in realtime</strong>: Wanneer bezoekers een live chat aanvragen, ontvangen agenten realtime meldingen in de app en meldingen in de browser.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">Live Chatmeldingen</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -217,8 +217,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
     <tr> 
    <td><strong>Teams</strong>: Maak teams met agents waarnaar bezoekers kunnen worden gerouteerd voor live chat- of vergaderingsboekingen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md#teams" target="_blank">Teams</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -227,8 +227,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
     <tr> 
    <td><strong>Tokens activeren voor nieuwe activiteiten</strong>: Nieuwe triggertokens zijn beschikbaar ter ondersteuning van de nieuwe activiteiten voor Dynamic Chat.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat Trigger Tokens</a></td>
   </tr>
   <tr> 
    <td> </td> 
