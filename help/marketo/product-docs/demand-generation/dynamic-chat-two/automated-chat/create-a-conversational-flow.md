@@ -4,7 +4,7 @@ title: Een wisselstroom maken
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: b894b6fa62c6939ba450fa259b4cf5290b4582f5
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Hier is hoe te om een nieuwe Conversationele Stroom te creëren.
 
 >[!MORELIKETHIS]
 >
->[Conversation Forms - Overzicht](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md){target="_blank"}
+>[Conversation Forms - Overzicht](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-overview.md){target="_blank"}
