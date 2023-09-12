@@ -4,7 +4,7 @@ title: Overzicht van Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '627'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruike
 
 >[!TIP]
 >
->Bezoek [deze pagina](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) om zelfstudievideo&#39;s van Dynamic Chat weer te geven.
+>Bezoek [deze pagina](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} om zelfstudievideo&#39;s van Dynamic Chat weer te geven.
 
 ## Integraties {#integrations}
 
-Een belangrijke component van Dynamic Chat is zijn capaciteit om met uw abonnement van Marketo te communiceren. Als u de volledige mogelijkheden van deze integratie wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalige synchronisatie](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) in.
+Een belangrijke component van Dynamic Chat is zijn capaciteit om met uw abonnement van Marketo te communiceren. Als u de volledige mogelijkheden van deze integratie wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalige synchronisatie](/help/marketo/product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md){target="_blank"} in.
 
 Het volgende wordt gesynchroniseerd:
 
@@ -31,27 +31,27 @@ Het volgende wordt gesynchroniseerd:
 
 ## Dialoogvensters {#dialogues}
 
-Dialoogvensters vertegenwoordigen één chatgesprek. Beschouw het als een container met alle informatie die u nodig hebt om een aansprekende chatdialoog met uw websitebezoekers te voeren. In elk dialoogvenster kunt u opgeven op welke pagina(&#39;s) u het dialoogvenster wilt weergeven, aan wie u het dialoogvenster wilt laten weergeven, en kunt u de inhoud en de stroom van het dialoogvenster zelf opgeven. Bovendien kunt u metriek vinden om te zien hoe goed uw Dialoog presteert. [Meer informatie over dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
+Dialoogvensters vertegenwoordigen één chatgesprek. Beschouw het als een container met alle informatie die u nodig hebt om een aansprekende chatdialoog met uw websitebezoekers te voeren. In elk dialoogvenster kunt u opgeven op welke pagina(&#39;s) u het dialoogvenster wilt weergeven, aan wie u het dialoogvenster wilt laten weergeven, en kunt u de inhoud en de stroom van het dialoogvenster zelf opgeven. Bovendien kunt u metriek vinden om te zien hoe goed uw Dialoog presteert. [Meer informatie over dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md){target="_blank"}.
 
 ## Configuratie {#configuration}
 
-In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialogen aan. Wijzig lettertype, kleuren, responstijd en meer! [Meer informatie over Configuratie](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
+In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialogen aan. Wijzig lettertype, kleuren, responstijd en meer! [Meer informatie over Configuratie](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md){target="_blank"}.
 
 ## Kalender {#calendar}
 
-Verbind uw Vooruitzichten of Gmail kalender voor gebruik in benoeming die in het praatje plant. [Meer informatie over Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
+Verbind uw Vooruitzichten of Gmail kalender voor gebruik in benoeming die in het praatje plant. [Meer informatie over Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## Vergaderingen {#meetings}
 
-Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. [Meer informatie over vergaderingen](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
+Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. [Meer informatie over vergaderingen](/help/marketo/product-docs/demand-generation/dynamic-chat-two/meeting-list.md){target="_blank"}
 
 ## Routering {#routing}
 
-Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Meer informatie over routeren](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Meer informatie over routeren](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md){target="_blank"}
 
 ## Live Chat {#live-chat}
 
-Bied uw gekwalificeerde webbezoekers via [live chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
+Bied uw gekwalificeerde webbezoekers via [live chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/live-chat-overview.md){target="_blank"}.
 
 ## Veelgestelde vragen {#faq}
 

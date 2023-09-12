@@ -4,7 +4,7 @@ title: Chatgebruikers toevoegen of verwijderen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
 ## Chatgebruiker toevoegen {#add-a-chat-user}
 
-1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -71,7 +71,7 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
 
 ## Een chatgebruiker verwijderen {#remove-a-chat-user}
 
-1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -101,5 +101,5 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-gebruikers](https://helpx.adobe.com/enterprise/using/users.html)
->* [Gebruikers afzonderlijk beheren](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
+>* [Adobe Admin Console-gebruikers](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [Gebruikers afzonderlijk beheren](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

@@ -4,9 +4,9 @@ title: Criteria voor het publiek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Net als bij Slimme lijsten Marketo&#39;s Engage kunt u met de kenmerken Audience
 
 ## Prioriteit {#priority}
 
-De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer dan één kwalificeren. Het is vastgesteld bij de eerste [uw dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}. U kunt de prioriteit voor een bestaand dialoogvenster wijzigen door het dialoogvenster te openen en naar **Dialoogdetails** op het tabblad Audience Criteria.
+De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer dan één kwalificeren. Het is vastgesteld bij de eerste [uw dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}. U kunt de prioriteit voor een bestaand dialoogvenster wijzigen door het dialoogvenster te openen en naar **Dialoogdetails** op het tabblad Audience Criteria.
 
 ![](assets/audience-criteria-1.png)
 
@@ -87,7 +87,7 @@ Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw 
 
    >[!NOTE]
    >
-   >Wanneer iemand uw website bezoekt, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies ze en zet ze in het systeem. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
+   >Wanneer iemand uw website bezoekt, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} cookies ze en zet ze in het systeem. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
 
 1. _Is_ is standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
@@ -136,7 +136,5 @@ Uitsluitingen gebruiken om ervoor te zorgen dat uw dialoogvenster dit doet **nie
 
 >[!MORELIKETHIS]
 >
->* [Een dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
->* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
->* [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"}
-
+>* [Een dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}

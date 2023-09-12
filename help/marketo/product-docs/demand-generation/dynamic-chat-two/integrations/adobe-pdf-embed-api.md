@@ -4,7 +4,7 @@ title: Adobe PDF Embed-API
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 2f5b79e9fb0340dd1ed65b00f2ec3ac487b7b7ca
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -45,5 +45,5 @@ Met de documentkaart kunt u PDF-documenten insluiten in dialoogvensters en de ac
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-U kunt nu de Document-kaart in uw dialoogvensters gebruiken. [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)!
+U kunt nu de Document-kaart in uw dialoogvensters gebruiken. [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md){target="_blank"}!
 
