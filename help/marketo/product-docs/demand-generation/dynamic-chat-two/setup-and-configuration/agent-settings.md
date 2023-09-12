@@ -4,9 +4,9 @@ title: Instellingen agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: 5c99dd3394ad09a48b5adbb022a9c4e63b619c81
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Plaats uw tijdzone en tijd/dag van weekbeschikbaarheid om vergaderingsboekingen 
  <tbody> 
   <tr> 
    <td><b>Duur van vergadering</b></td>
-   <td>Maximale duur van de vergadering. - WAT GEBEURT ER? AUTOMATISCH STOPPEN ZOOMEN?</td>
+   <td>Hiermee bepaalt u de tijdsduur die bezoekers in de beschikbare vergaderruimten zien.</td>
   </tr> 
   <tr> 
    <td><b>Buffertijd tussen vergaderingen</b></td>
