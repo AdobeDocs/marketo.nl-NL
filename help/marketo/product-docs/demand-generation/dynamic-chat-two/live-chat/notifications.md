@@ -4,13 +4,19 @@ title: Meldingen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: c2a3e2915c8a205f03c4bf578e6b2479af1206b3
 workflow-type: tm+mt
-source-wordcount: '12'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
 
 # Meldingen {#notifications}
 
-MSI-handelingen voor browser in app
+SNEL KOMEN
+
+Browser
+
+In app
+
+MSI-handelingen
