@@ -4,9 +4,9 @@ title: Overzicht van Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 6682ff8611c0be30599b7bb6f516f9d7ba7ba926
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Overzicht van Dynamic Chat {#dynamic-chat-overview}
 
 Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruikers en accounts die uw website bezoeken, als doel in te stellen. Verzamel relevante inhoud, zoals naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen vergaderingen met uw Team van de Verkoop ook boeken. Gegevens over activiteiten en betrokkenheid van Dynamics Chat kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en kanaalactiviteiten te activeren.
-
->[!NOTE]
->
->Dynamic Chat wordt geleidelijk ingevoerd en is momenteel in beperkte mate beschikbaar. Deze pagina zal met algemene beschikbaarheidsdetails (GA) worden bijgewerkt aangezien zij beschikbaar worden.
 
 >[!TIP]
 >

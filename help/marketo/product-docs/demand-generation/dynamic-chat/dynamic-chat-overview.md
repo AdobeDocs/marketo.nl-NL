@@ -1,22 +1,18 @@
 ---
 description: Overzicht Dynamic Chat - Marketo Docs - Productdocumentatie
-title: Dynamisch chatoverzicht
+title: Overzicht van Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a4fe70e1a95ff382499800049f161d1ad7dec7ab
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '826'
 ht-degree: 1%
 
 ---
 
-# Dynamisch chatoverzicht {#dynamic-chat-overview}
+# Overzicht van Dynamic Chat {#dynamic-chat-overview}
 
 Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruikers en accounts die uw website bezoeken, als doel in te stellen. Verzamel relevante inhoud, zoals naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen vergaderingen met uw Team van de Verkoop ook boeken. Gegevens over activiteiten en betrokkenheid van Dynamics Chat kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en kanaalactiviteiten te activeren.
-
->[!NOTE]
->
->Dynamic Chat wordt geleidelijk ingevoerd en is momenteel in beperkte mate beschikbaar. Deze pagina zal met algemene beschikbaarheidsdetails (GA) worden bijgewerkt aangezien zij beschikbaar worden.
 
 >[!TIP]
 >
@@ -24,7 +20,7 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruike
 
 ## Integraties {#integrations}
 
-Een belangrijke component van Dynamic Chat is zijn capaciteit om met uw abonnement van Marketo te communiceren. Als u de volledige mogelijkheden van deze integratie wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalig synchroniseren](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) om te voltooien.
+Een belangrijke component van Dynamic Chat is zijn capaciteit om met uw abonnement van Marketo te communiceren. Als u de volledige mogelijkheden van deze integratie wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalige synchronisatie](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) in.
 
 Het volgende wordt gesynchroniseerd:
 
@@ -50,7 +46,7 @@ Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschi
 
 ## Routering {#routing}
 
-Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Leer meer over het Verpletteren](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Meer informatie over routeren](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## Veelgestelde vragen {#faq}
 
@@ -68,7 +64,7 @@ Neen, het gebruikt slechts vooraf bepaalde reacties.
 
 **Steunt de Dynamic Chat om het even welke talen behalve Engels?**
 
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees, en Traditioneel Chinees. Meer informatie in het dialoogvenster [sectie hieronder](#changing-the-language).
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in het dialoogvenster [sectie hieronder](#changing-the-language).
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
@@ -100,7 +96,7 @@ Ga als volgt te werk om de taal van uw Dynamic Chat te wijzigen.
 
    >[!NOTE]
    >
-   >Er zijn een paar dozijn talen om uit te kiezen, echter, steunt de Dynamic Chat slechts het volgende: Engels, Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees, en Traditioneel Chinees.
+   >Er zijn een paar dozijn talen om uit te kiezen, echter, steunt slechts het volgende: Engels, Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees, en Traditioneel Chinees.
 
 Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden die u persoonlijk hebt ingevuld (bijvoorbeeld reacties op de stream).
 
@@ -152,7 +148,7 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
  </tr>
  <tr>
   <td>Kaarten</td>
-  <td>Aantal kaarten dat per Dialoogvenster aan het canvas kan worden toegevoegd</td>
+  <td>Het aantal kaarten dat per dialoogvenster aan het canvas kan worden toegevoegd</td>
   <td>500</td>
  </tr>
  <tr>
@@ -176,7 +172,7 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
   <td>90 dagen</td>
  </tr>
  <tr>
-  <td>Bewaarperiode van boekingsactiviteit vergadering</td>
+  <td>Bewaarperiode van boekingsactiviteit van vergadering</td>
   <td>De hoeveelheid tijd die vergadering het boeken activiteit zal in Dynamic Chat worden opgeslagen</td>
   <td>24 maanden</td>
  </tr>
