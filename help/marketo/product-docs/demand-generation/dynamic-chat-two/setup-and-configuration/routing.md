@@ -4,9 +4,9 @@ title: Routering
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 04359fc2bb395d442bb5215118d71de59a881749
+source-git-commit: df719d0db50009180e707b88b53115d4a62f35bf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ In Dynamic Chat geboekte vergaderingen kunnen op twee manieren worden gerouteerd
 Ronde lijn: vergaderingen worden opeenvolgend toegewezen aan agenten. Dus als u vijf agenten hebt en agent drie nam de laatste vergadering, agent vier zal volgende krijgen, gevolgd door agent vijf, dan terug naar agent één.
 
 Aangepaste regel: u kunt specifieke agenten kiezen om vergaderingen te ontvangen op basis van kenmerken die u selecteert.
+
+>[!NOTE]
+>
+>Het Verpletteren van de rekening wordt gegeven de hoogste prioriteit. Wanneer een bezoeker het punt in het gesprek bereikt om of een vergadering te boeken of een levende praatje in werking te stellen, [Account routeren](#account-routing) wordt eerst gecontroleerd alvorens andere verpletterende opties worden overwogen.
 
 ## Een aangepaste regel maken {#create-a-custom-rule}
 
