@@ -4,9 +4,9 @@ title: Beveiligingsinstellingen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 720215ea958206931413f2d273a4a058bc051579
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,15 @@ In de montages van de Veiligheid, hebt u de capaciteit om domeinen aan een geblo
 
 ## Geblokkeerde e-maildomeinen {#blocked-email-domains}
 
+Als er om het even welke bezoekers met e-maildomeinen zijn u uw agenten niet met (b.v., een concurrent) wilt in wisselwerking staan, voeg hun e-maildomein aan de lijst van gewezen personen toe.
+
 1. Selecteer de **Validatie inschakelen** om uw lijst van gewezen personen te activeren. Voer maximaal 50 domeinen in en klik op **Opslaan**.
 
    ![](assets/security-settings-2.png)
 
 ## Toegestane domeinen {#allowed-domains}
+
+Door toegestane domeinen toe te voegen, zorgt u ervoor dat derden het JavaScript-bestand niet van uw site kunnen verwijderen en aan hun eigen site kunnen toevoegen.
 
 1. Selecteer de **Validatie inschakelen** om uw lijst van gewenste personen te activeren. Voer de toegestane domeinen in en klik op **Opslaan**.
 

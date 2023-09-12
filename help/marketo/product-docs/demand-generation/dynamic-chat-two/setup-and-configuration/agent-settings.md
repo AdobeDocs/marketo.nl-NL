@@ -4,9 +4,9 @@ title: Instellingen agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -83,7 +83,7 @@ Plaats uw tijdzone en tijd/dag van week beschikbaarheid om levende kartels te on
 
 ![](assets/agent-settings-5.png)
 
-Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet bent aangemeld, ontvangt u een browsermelding (in Google Chrome).
+Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet bent aangemeld, ontvangt u een browsermelding.
 
 >[!IMPORTANT]
 >

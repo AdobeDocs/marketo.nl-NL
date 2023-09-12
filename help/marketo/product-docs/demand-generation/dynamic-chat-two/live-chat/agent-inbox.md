@@ -4,9 +4,9 @@ title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d22849c01d55dc4c5bca30cbd39bfe66bfaeb473
+source-git-commit: 49421ecf7f8cec6fb94bc138969c0a43b8832537
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,24 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 >[!IMPORTANT]
 >
->**Dit wordt genegeerd** de [beschikbaarheid van livechat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability) u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
+>**Dit wordt genegeerd** de [beschikbaarheid van livechat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
 
 >[!NOTE]
 >
 >Als u uw status instelt op niet beschikbaar, heeft dit geen invloed op actieve chats.
 
-## Live Chat accepteren {#accepting-a-live-chat}
+## Live Chatmeldingen {#live-chat-notifications}
 
-Wanneer een levende praatje aan de agent wordt verpletterd, zullen zij een blauwe banner over de bovenkant van het scherm zien vragend hen om goed te keuren.
+Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blauwe banner over de bovenkant van het scherm zien vragend hen om goed te keuren.
 
 ![](assets/agent-inbox-3.png)
+
+>[!TIP]
+>
+>U kunt ook browsermeldingen instellen, die u waarschuwen als u zich niet bij de Dynamic Chat hebt aangemeld.
+>
+>* Browsermeldingen inschakelen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Browsermeldingen inschakelen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Notities {#things-to-note}
 
