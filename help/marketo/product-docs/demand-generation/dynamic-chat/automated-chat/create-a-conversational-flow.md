@@ -2,7 +2,7 @@
 description: Een wisselstroom maken - Marketo Docs - Productdocumentatie
 title: Een wisselstroom maken
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Hier is hoe te om een nieuwe Conversationele Stroom te creëren.
 
    ![](assets/create-a-conversational-flow-3.png)
 
->[!NOTE]
->
->Hierdoor wordt alleen de taal van de systeemtekst gewijzigd. U bent verantwoordelijk voor het vertalen van inhoud.
+   >[!NOTE]
+   >
+   >Hierdoor wordt alleen de taal van de systeemtekst gewijzigd. U bent verantwoordelijk voor het vertalen van inhoud.
 
 1. Net als in Dialogen is het nu tijd om [een stream maken](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 

@@ -2,7 +2,7 @@
 description: Conversationeel stroomoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van conversiesnelheid
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Dialoogvensters en conversatiestromen hebben verschillende gelijkenissen, maar h
  </tbody> 
 </table>
 
-## Het tabblad Stream Designer {#stream-designer-tab}
+## Tabblad Stream Designer {#stream-designer-tab}
 
 De Ontwerper van de Stroom voor de Stroom van de Gesprek is bijna identiek aan die voor Dialogen. [Meer informatie hierover hier](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
@@ -61,7 +61,7 @@ Weergave van de betrokkenheidsgraad, conversiesnelheid, filter op bekende en/of 
 
 ![](assets/conversational-flow-overview-4.png)
 
-## Het tabblad Instellingen {#settings-tab}
+## Tabblad Instellingen {#settings-tab}
 
 ![](assets/conversational-flow-overview-5.png)
 

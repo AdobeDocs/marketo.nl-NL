@@ -2,7 +2,7 @@
 description: Analyse - Marketo Docs - Productdocumentatie
 title: Analyse
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -43,6 +43,6 @@ Bekijk hoeveel gesprekken uw levende verkoopagenten hadden en welke teams het be
 
 ![](assets/analytics-6.png)
 
-Dialoogvensters weergeven, Gestromen van gesprekken of alles. Selecteer een voorinstelling of een aangepast datumbereik. Exporteer de resultaten door op een knop te klikken.
+Dialoogvensters weergeven, Gestromen van gesprekken of alles. Selecteer een voorinstelling of een aangepast datumbereik. Exporteer de resultaten met een klik op een knop.
 
 ![](assets/analytics-7.png)
