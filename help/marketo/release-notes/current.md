@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
+source-git-commit: 0dce393742df841af88b71614b55c4946c081814
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '902'
 ht-degree: 1%
 
 ---
@@ -41,8 +41,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
   <tr> 
    <td><strong>Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp</strong>: Met de Marketo Engage Program Reference Library kunnen gebruikers 'example'-programma's en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
    <tr> 
    <td> </td> 
@@ -51,8 +51,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
    <tr> 
    <td><strong>Gebruikt door de Verbeteringen van het Lusje voor de Middelen van de Studio van het Ontwerp</strong>: Het tabblad Gebruikt door versterking biedt een gedetailleerdere weergave van het type en de naam van een element, samen met de locatie waar het wordt gebruikt. Dit is van toepassing voor E-maildetails en details van afbeeldingen en bestanden.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
    <tr> 
    <td> </td> 
