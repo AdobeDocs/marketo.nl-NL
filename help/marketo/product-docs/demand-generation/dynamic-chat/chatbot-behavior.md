@@ -1,9 +1,8 @@
 ---
 description: Chatbotgedrag - Marketo Docs - Productdocumentatie
 title: Chatbotgedrag
-exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -76,7 +75,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       <td>
         <p>D1 die slechts voor WP1 wordt gericht</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet</p>
+        <p>V1 klikt op D1 maar heeft niet gereageerd</p>
       </td>
       <td>D1 wordt omgezet in V1</td>
       <td>
@@ -132,7 +131,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       <td>
         <p>D1 gericht voor WP1 slechts, WP2</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet</p>
+        <p>V1 klikt op D1 maar heeft niet gereageerd</p>
         <p>V1 bezoeken WP2</p>
       </td>
       <td>
@@ -182,7 +181,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>D1 die slechts voor WP1 wordt gericht</p>
         <p>D2 alleen gericht op WP2</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet</p>
+        <p>V1 klikt op D1 maar heeft niet gereageerd</p>
         <p>V1 bezoeken WP2</p>
       </td>
       <td>D1 zal op WP1 worden opgelost<br/>
@@ -225,7 +224,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       <td>
         <p>D1 die slechts voor WP1 wordt gericht</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet</p>
+        <p>V1 klikt op D1 maar heeft niet gereageerd</p>
         <p>D1 is niet gepubliceerd</p>
       </td>
       <td>D1 wordt omgezet in V1</td>
@@ -238,12 +237,12 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       <td>
         <p>D1 die slechts voor WP1 wordt gericht</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet</p>
+        <p>V1 klikt op D1 maar heeft niet gereageerd</p>
         <p>D1 is niet gepubliceerd</p>
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>D1 zal voor de eerste keer aan V1 worden opgelost</p>
         <p>Na vernieuwen wordt er geen dialoogvenster opgelost</p>
       </td>
       <td>
@@ -274,12 +273,12 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       <td>
         <p>D1 die slechts voor WP1 wordt gericht</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet</p>
+        <p>V1 klikt op D1 maar heeft niet gereageerd</p>
         <p>D1 wordt gepubliceerd met nieuwe veranderingen</p>
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>D1 zal voor de eerste keer aan V1 worden opgelost</p>
         <p>Na vernieuwen wordt het dialoogvenster met nieuwe wijzigingen opgelost</p>
       </td>
       <td>
@@ -296,7 +295,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>D1 zal voor de eerste keer aan V1 worden opgelost</p>
         <p>Na vernieuwen wordt het dialoogvenster met oude wijzigingen voortgezet</p>
       </td>
       <td>
@@ -310,13 +309,13 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>D1 gericht voor WP1 met 1 prioriteit</p>
         <p>D2 gericht op WP1 met 2 prioriteit</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet</p>
+        <p>V1 klikt op D1 maar heeft niet gereageerd</p>
         <p>D1 is niet gepubliceerd</p>
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
-        <p>Na verfrissen, zal D2 aan V1 worden opgelost</p>
+        <p>D1 zal voor de eerste keer aan V1 worden opgelost</p>
+        <p>Na vernieuwen wordt D2 omgezet in V1</p>
       </td>
       <td>
         <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
@@ -334,8 +333,8 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
-        <p>Na verfrissen, zal D2 aan V1 worden opgelost</p>
+        <p>D1 zal voor de eerste keer aan V1 worden opgelost</p>
+        <p>Na vernieuwen wordt D2 omgezet in V1</p>
         <p>Na het invullen van D1 en D2, ongeacht welke wijzigingen of opnieuw gepubliceerde D1, wordt D2 niet opnieuw weergegeven in V1</p>
       </td>
       <td>
@@ -406,3 +405,4 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
     </tr>
   </tbody>
 </table>
+

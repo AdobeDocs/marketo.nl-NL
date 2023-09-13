@@ -4,9 +4,9 @@ description: Tokens voor interessante momenten activeren - Marketo Docs - Produc
 title: Tokens activeren voor interessante momenten
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
+source-git-commit: f0a38ddec7e42a52f31f22aa114a3f6f0c20baae
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -713,108 +713,253 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 
 ### Dynamic Chat Trigger Tokens {#dynamic-chat-trigger-tokens}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col>
-  <col>
-  <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Page URL}}</code></th> 
-   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
-   <th><code>{{trigger.Conversation Status}}</code></th> 
-   <th><code>{{trigger.Agent Name}}</code></th> 
-   <th><code>{{trigger.Agent Email}}</code></th> 
-   <th><code>{{trigger.Scheduled For}}</code></th> 
-   <th><code>{{trigger.Goal name}}</code></th> 
-   <th><code>{{trigger.Document Name}}</code></th> 
-   <th><code>{{trigger.Document URL}}</code></th>
-   <th><code>{{trigger.Document Opened}}</code></th>
-   <th><code>{{trigger.Document Downloaded}}</code></th>
-  </tr> 
-  <tr> 
-   <td>Bij een dialoogvenster</td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><br></td> 
-   <td></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Geplande vergadering in een Dialoog</td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Dialoogvenster bereikt</td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
+<table>
+<thead>
+  <tr>
+    <th> </th>
+    <th><code>{{trigger.Agent Email}}</code></th>
+    <th><code>{{trigger.Agent Name}}</code></th>
+    <th><code>{{trigger.Conversation Status}}</code></th>
+    <th><code>{{trigger.Conversation Summary}}</code></th>
+    <th><code>{{trigger.Conversation Transcript}}</code></th>
+    <th><code>{{trigger.Document Downloaded}}</code></th>
+    <th><code>{{trigger.Document Name}}</code></th>
+    <th><code>{{trigger.Document Opened}}</code></th>
+    <th><code>{{trigger.Document URL}}</code></th>
+    <th><code>{{trigger.Goal name}}</code></th>
+    <th><code>{{trigger.meeting status}}</code></th>
+    <th><code>{{trigger.Name}}</code></th>
+    <th><code>{{trigger.Page URL}}</code></th>
+    <th><code>{{trigger.routing queue name}}</code></th>
+    <th><code>{{trigger.Scheduled For}}</code></th>
+    <th><code>{{trigger.source name}}</code></th>
+    <th><code>{{trigger.source type}}</code></th>
+    <th><code>{{trigger.Trigger Name}}</code></th>
+    <th><code>{{trigger.ui type}}</code></th>
   </tr>
-  <tr> 
-   <td>Interactie met document in dialoogvenster</td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-   <td><img src="assets/check.png" alt="controleren"></td> 
-  </tr> 
- </tbody> 
+</thead>
+<tbody>
+  <tr>
+    <td>Bij een dialoogvenster</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Gegroepeerd met een gespreksformulier</td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+  </tr>
+  <tr>
+    <td>Betrokken met een Agent in Dialoog</td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Betrokken bij een Agent in Gesprek Vorm</td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Geplande vergadering in dialoogvenster</td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Geplande vergadering in gespreksvorm</td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dialoogvenster bereikt</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Gesprek doel van het Vorm</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interactie met document in dialoogvenster</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Werkt met document in gespreksvorm</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td><img src="assets/check.png" alt="controleren"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
 </table>
 
 ### Overige {#miscellaneous}
