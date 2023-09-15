@@ -3,9 +3,9 @@ description: Leer hoe u een bestaande overgeërfde instantie van een Marketo Eng
 title: Een overgeërfde Marketo Engage-instantie starten
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,9 @@ Een nieuwe taak starten of een bestaand exemplaar overnemen van een andere behee
 
 ## Opstelling in de Marketing Nation krijgen {#get-set-up-in-the-marketing-nation}
 
-Zorg ervoor dat je op de juiste manier bent ingesteld in de Marketo Community.
-
-* **[Uw profiel instellen]** https://nation.marketo.com/){target="_blank"}.
+Zorg ervoor dat u op de juiste wijze bent ingesteld in de Marketing Nation Community.
 
 * [**Uw profiel instellen**](https://nation.marketo.com/){target="_blank"}.
-
-* **[Uw profiel instellen](https://nation.marketo.com/)**{target="_blank"}.
-
-* **[Uw profiel instellen](https://nation.marketo.com/){target="_blank"}**.
 
 * Lees de tekst [**Communautaire richtlijnen voor het in de handel brengen**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
@@ -32,9 +26,9 @@ Zorg ervoor dat je op de juiste manier bent ingesteld in de Marketo Community.
 
 * Leer hoe u [**een steungeval indienen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
-## Overgenomen Instance Audit Guides {#inherited-instance-audit-guides}
+## De overgeërfde instantie controleren  {#audit-your-inherited-instance}
 
-De onderstaande checklists zijn samengesteld met input van Marketo Champions om u te helpen snel aan de slag te gaan. Leer hoe u door de verschillende gebieden van het Marketo Engage kunt navigeren en de verschillende taken kunt uitvoeren die vereist zijn om een controle uit te voeren, met koppelingen naar de aanbevolen Help-documentatie inbegrepen.
+Adobe Professional Services (met input van Marketo Champions) heeft verschillende Marketo Engage Inherited Controlelijsten van de Controle van de Instantie samengesteld om u te helpen snel aan snelheid op komen. Leer hoe u door de verschillende gebieden van het Marketo Engage kunt navigeren en de verschillende taken kunt uitvoeren die vereist zijn om een controle uit te voeren, met koppelingen naar de aanbevolen Help-documentatie inbegrepen.
 
 U kunt de controlelijsten ook downloaden in spreadsheetvorm.
 

@@ -3,22 +3,26 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 hide: true
 hidefromtoc: true
-source-git-commit: 67cfa02b558236bb9e963c2949a70185cc531ef0
+source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1566'
 ht-degree: 0%
 
 ---
 
 # Overgenomen instantie: beheerderscontrolelijst voor sectie {#inherited-instance-admin-section-checklist}
 
-De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld met invoer van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook de checklists downloaden en de voortgang volgen.
+De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook de checklists downloaden en de voortgang volgen.
 
 >[!TIP]
 >
 >Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Woordenlijst Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
+
+>[!NOTE]
+>
+>Dit geldt alleen voor abonnementen op [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Beheer > Gebruikers en rollen.
 
 <table> 
  <tbody> 
@@ -28,23 +32,22 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr> 
   <tr> 
    <td>Abonnement</td> 
-   <td><li>Is uw abonnement op Marketo Engage ingeschakeld <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management-systeem</a> (Adobe IMS) al? 
-<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.  
-<br/>     Zo niet, dan gaat u verder met de <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">oudere gebruikersrollen en toestemmingenervaring</a> in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen totdat uw abonnement wordt verlengd.</li></td>
+   <td><li>Is uw abonnement op Marketo's Engage gemigreerd naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> toch ? 
+<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.</li>
+<li>Hebt u de uitnodiging voor 'Marketo Engage Product Admin' geaccepteerd? De e-mail wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.
+<br/>     Indien niet, zoek naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">welkome e-mail</a> in uw Postvak IN en accepteer de uitnodiging om uw Adobe ID te activeren.</li></td>
   </tr>
   <tr> 
    <td>Productprofiel</td> 
-   <td>(Abonnementen op Adobe IMS <b>alleen</b>)
-<p>
-<li>Hebt u een "Marketo Engage Product Admin"rol in Marketo Engage/Admin/Gebruikers &amp; Rollen gekregen?</li> 
-<li>Hebt u Marketo Engage toegewezen aan alle relevante gebruikersprofielen in de Adobe Admin Console?
-<br/>     Als dat niet het geval is, moet u Marketo Engage toewijzen aan het Adobe IMS-productprofiel voordat u de rollen toewijst aan Marketo Engage/Admin/Users &amp; Roles.</li>
-<p><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: als uw abonnement meer dan 75 gebruikers heeft en net naar Adobe IMS is gemigreerd, kunt u gebruikers selecteren om in batches te migreren en hun Adobe te beheren Identificeer in groepen of alles tegelijk. Meer informatie over wat u kunt verwachten <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-migratiedag</a>.</td>
+   <td><li>Worden alle geschikte gebruikers toegewezen aan het productprofiel van Marketo Engage in Adobe Admin Console?
+<br/>     Indien niet, zorg ervoor dat <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md" target="_blank">gebruikers toevoegen en/of verwijderen</a> van productprofielen van de Marketo Engage in de Adobe Admin Console. U kunt geen gebruikersrollen toewijzen in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen als deze worden toegevoegd aan een productprofiel.</li>
+<p><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: als een ongewenste gebruiker aan meerdere productprofielen wordt toegevoegd, moet u de gebruiker uit alle productprofielen verwijderen. Anders hebben ze nog steeds toegang tot Marketo Engage.</td>
   </tr>
   <tr> 
    <td>Gebruikersbeheer-API</td> 
-   <td><li>Heeft uw abonnement Marketo-gebruikersbeheer-API's gebruikt?
-<br/>     Als dat het geval is, zult u moeten gebruiken <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API's</a> om gebruikers die zich verder verplaatsen uit te nodigen, bij te werken en te verwijderen.</li></td>
+   <td><li>Gebruikt uw abonnement Marketo-gebruikersbeheer-API's?
+<br/>     Als dat het geval is, zult u moeten gebruiken <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API's</a> om gebruikers die zich verder verplaatsen uit te nodigen, bij te werken en te verwijderen.</li>
+<p><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: 'Rolbeheer' blijft in Marketo Engage en Marketo-API's voor gebruikersbeheer kunnen nog steeds worden gebruikt voor rolbeheer.</td>
   </tr>
  </tbody> 
 </table>
@@ -59,8 +62,10 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr> 
   <tr> 
    <td>Gebruikers</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hoeveel gebruikers</a> is dat zo ?</li>
-<li>Zijn er gebruikers die moeten worden verwijderd?</li>
+   <td><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: als uw abonnement al op Adobe IMS is, gaat u naar de volgende gebruikersbeheercontrole in Adobe Admin Console. Anders gaat u naar Beheer &gt; Gebruikers en rollen &gt; Gebruikers in Marketo Engage.
+   <p>
+   <li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hoeveel gebruikers</a> is dat zo ?</li>
+<li>Zijn er om het even welke gebruikers die <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user" target="_blank">verwijderd</a>?</li>
 <li>Heeft uw bedrijf beleid om gebruikers te schrappen?</li> 
 <li>Hoeveel gebruikers hebben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Beheerdersmachtigingen</a>?</li>
 <li>Indien een van deze gebruikers wordt gewijzigd in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andere rollen ?</a></li> 
@@ -68,12 +73,13 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr>
   <tr> 
    <td>Rollen</td> 
-   <td><li>Hoeveel rollen zijn er?</li>  
+   <td><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Of u Marketo met de Identiteit van de Adobe gebruikt of niet, ga met het herzien roltoestemmingen in Marketo Engage onder Admin &gt; Gebruikers &amp; Rollen &gt; Rollen.
+   <p><li>Hoeveel rollen zijn er?</li>  
 <li>Wat <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">machtigingen/toegang</a> heeft elke rol een rol ? Moet dit eventueel worden aangepast?</li>
 <li>Hoeveel gebruikers zijn er per rol?</li>
 <li>Hoe vaak gebruikers zijn <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">aanmelden</a>?</li>
 <li>Heeft elke API-gebruiker een <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">eigen gebruikersrol</a>? Als niet, overweeg het uitvoeren van dit om het oplossen van problemen gemakkelijker te maken.</li> 
-<li>Zijn uw gebruikersrollen en toestemmingen gericht op uw collectieve gegevens <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">privacybeleid</a>?</li></td>
+<li>Zijn uw gebruikersrollen en toestemmingen in overeenstemming met uw beleid van de bedrijfs gegevensprivacy voor regelgevende naleving (b.v., <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>)? Voer de bedrijfsgegevens uit <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">privacybeleid</a> gebruikers toestaan om Marketo Engage gebruikersgegevens te downloaden en te delen? Is de toestemmingszaken noodzakelijk?</li></td>
   </tr>
   <tr> 
    <td>Ondersteuningsgebruikers</td> 
