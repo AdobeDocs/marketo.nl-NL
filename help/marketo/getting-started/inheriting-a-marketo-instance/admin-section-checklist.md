@@ -3,9 +3,9 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 hide: true
 hidefromtoc: true
-source-git-commit: d3a35d669eb54d020228ffdbdd7606a86abd18af
+source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td><li>Is uw abonnement op Marketo's Engage gemigreerd naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> toch ? 
 <br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.</li>
 <li>Hebt u de uitnodiging voor 'Marketo Engage Product Admin' geaccepteerd? De e-mail wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.
-<br/>     Indien niet, zoek naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#" target="_blank">welkome e-mail</a> in uw Postvak IN en accepteer de uitnodiging om uw Adobe ID te activeren.</li></td>
+<br/>     Indien niet, zoek naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">welkome e-mail</a> in uw Postvak IN en accepteer de uitnodiging om uw Adobe ID te activeren.</li></td>
   </tr>
   <tr> 
    <td>Productprofiel</td> 
