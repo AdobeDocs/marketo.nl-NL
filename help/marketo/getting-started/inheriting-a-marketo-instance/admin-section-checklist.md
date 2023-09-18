@@ -3,9 +3,9 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 hide: true
 hidefromtoc: true
-source-git-commit: ea0e8368e83168dd3f14f815f387f8dead0fff11
+source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1564'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <th>Focus controleren</th>
   </tr> 
   <tr> 
-   <td>Abonnement</td> 
+   <td>Abonnement en productbeheerder van Marketo Engage</td> 
    <td><li>Is uw abonnement op Marketo's Engage gemigreerd naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> toch ? 
 <br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.</li>
 <li>Hebt u de uitnodiging voor 'Marketo Engage Product Admin' geaccepteerd? De e-mail wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.
