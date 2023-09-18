@@ -3,9 +3,9 @@ description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Produ
 title: Overgenomen Instance Design Studio Checklist
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '553'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,11 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 <li>Gebruiken de meeste programma's globale of lokale vormen?</li>
 <li>Verzamelen alle vormen de juiste gegevens voor Marketing en Verkoop?</li>
 <li>Worden verborgen waarden op de juiste wijze gebruikt?</li>
-<li>Worden er Marketo's Engage gebruikt op uw website (geen Marketo's Engage van bestemmingspagina's)?</li></td>
+<li>Worden er Marketo's Engage gebruikt op niet-Marketo Engage landingspagina's? Hoe wordt er naar verwezen?</li>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Werk pagina's bij waar u Marketo's Engage formulieren insluit met de nieuwe insluitcode die is geïntroduceerd (hiervoor zijn beveiligde bestemmingspagina's vereist).
+<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+</td>
   </tr>
   <tr> 
    <td>Gegevensstandaardisering</td> 

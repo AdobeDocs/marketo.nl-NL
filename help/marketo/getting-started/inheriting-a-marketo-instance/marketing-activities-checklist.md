@@ -3,7 +3,7 @@ description: Checklist voor overerfde marketingactiviteiten - Marketo Docs - pro
 title: Checklist voor overgenomen marketingactiviteiten
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -16,11 +16,11 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
 
 ## Organisatie {#organization}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Gebied</th> 
-   <th style="width:80%">Focus controleren</th>
+   <th style="width:30%">Gebied</th> 
+   <th style="width:70%">Focus controleren</th>
   </tr> 
   <tr> 
    <td>Naamgevingsconventies</td> 
@@ -61,12 +61,12 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
 
 ## Activa {#assets}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
-  <tr> 
-   <th style="width:20%">Gebied</th> 
-   <th style="width:80%">Focus controleren</th>
-  </tr> 
+  <tr>
+   <th style="width:30%">Gebied</th>
+   <th style="width:70%">Focus controleren</th>
+  </tr>
   <tr> 
    <td>Tokens</td> 
    <td><li>zijn <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> die in uw het meest meestal gebruikte programmatypen worden gebruikt? 
@@ -114,12 +114,12 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
 
 ## Operationele programma&#39;s {#operational-programs}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
-   <th style="width:20%">Gebied</th> 
-   <th style="width:80%">Focus controleren</th>
-  </tr> 
+   <th style="width:30%">Gebied</th> 
+   <th style="width:70%">Focus controleren</th>
+  </tr>
   <tr> 
    <td>Persoonsscore</td> 
    <td><li>Hebt u een gecentraliseerde <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">persoonlijke scores</a> programma is ingesteld?</li>

@@ -3,16 +3,16 @@ description: Overgenomen Instance Document Uw Setup - Marketo Docs - Productdocu
 title: Overgenomen Instance Document Uw Setup
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 18749bdff222980177b46969b105216d7b720db9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 # Overgenomen instantie: Uw instelling documenteren {#inherited-instance-document-your-setup}
 
-Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gevestigd geval hebt geleerd, is de volgende stap documentatie op uw instantieconfiguratie en technologiestapel tot stand te brengen/bij te werken. Of het creëren van het via spreadsheet of een toepassing van het projectbeheer, uw documentatie is een groot middel om vooruitgang te volgen en details te registreren.
+Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gevestigd geval hebt geleerd, is de volgende stap documentatie op uw instantieconfiguratie en technologiestapel tot stand te brengen/bij te werken. Of het creëren van het via spreadsheet of een toepassing van het projectbeheer, uw documentatie zal een groot middel zijn om vooruitgang te volgen en details te registreren, evenals uw instantie gestructureerd en duurzaam te houden.
 
 ## Data {#data}
 
@@ -51,11 +51,12 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
   <tr> 
    <td>Organisatie</td> 
     <td><li>Hebt u robuuste documentatie van hoe uw instantie van het Marketo Engage wordt georganiseerd en waarom?</li>
-   <p><p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Item van handeling: maak documentatie die mapstructuur, naamgevingsconventie en in uw instantie gebruikte kanalen bevat.</td>
+   <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Item van handeling: maak documentatie die mapstructuur, naamgevingsconventie en in uw instantie gebruikte kanalen bevat.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
-    <td><li>Hebt u een verandering waar u kunt documenteren wat in uw instantie verandert en waarom?</li></td>
+    <td><li>Hebt u een verandering waar u kunt documenteren wat in uw instantie verandert en waarom?</li>
+    <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Handeling Item: Download dit voorbeeld om een wijziging aan te brengen en documentwijzigingen aan te brengen in de installatie van de instantie.</td>
   </tr>
   <tr> 
    <td>Afspeelboeken</td> 
@@ -65,7 +66,8 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
   <tr> 
    <td>Gesprek met interne belanghebbenden</td> 
     <td><li>Wat zijn de interne verwachtingen van het Marketing team van uw bedrijf? Komt ze overeen met wat Marketo Engage levert?</li>
-   <li>Welke teams zijn belanghebbenden in uw Marketo Engage-exemplaar?</li></td>
+   <li>Welke teams zijn belanghebbenden in uw Marketo Engage-exemplaar?</li>
+   <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Handelstitem: Deze downloaden <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Interne communicatiegids voor belanghebbenden</a> om de doelstellingen en verwachtingen van uw belangrijkste belanghebbenden te documenteren.</td>
   </tr>
  </tbody> 
 </table>
