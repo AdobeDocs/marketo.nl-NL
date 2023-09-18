@@ -1,10 +1,12 @@
 ---
 description: Een interactief webinar promoten - Marketo Docs - Productdocumentatie
 title: Een interactief webinar promoten
+hide: true
+hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: d747305b4571cfbf8e40c46824d1e4bc148fca7e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -31,4 +33,4 @@ Binnen een paar minuten na registratie wordt de webinar-URL voor het lid ingevul
 
 U kunt tokens gebruiken om Webinar URL aan individuele leden in een e-mailcampagne te omvatten om mee te delen dat zij in de gebeurtenis zijn geregistreerd en aan gebruik verbindende URL om webinar op de geplande tijd in te gaan. De tokens van de kalender kunnen in de zelfde e-mailcampagne worden gebruikt om ervoor te zorgen dat het webinar programma aan de kalenders van de leden kan worden toegevoegd.
 
-Er zijn speciale koppelingen verschaft in het [Overzicht pagina](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) om een bestemmingspagina en een e-mailcampagne te maken. De rest bevorderingen met betrekking tot een gebeurtenis blijven het zelfde als voor partnerwebinars gebruikend de integratie van Launchpoint.
+Er zijn koppelingen opgegeven in het dialoogvenster [Overzicht pagina](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md) om een bestemmingspagina en een e-mailcampagne te maken. De rest bevorderingen met betrekking tot een gebeurtenis blijven het zelfde als partner webinars gebruikend de integratie van Launchpoint.
