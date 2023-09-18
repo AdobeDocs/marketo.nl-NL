@@ -3,9 +3,9 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 hide: true
 hidefromtoc: true
-source-git-commit: ab7173fe39c80d3123dc9bf488d24571661c58b4
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '1564'
+source-wordcount: '1566'
 ht-degree: 0%
 
 ---
@@ -147,7 +147,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <th>Focus controleren</th>
   </tr> 
   <tr> 
-   <td>Instellingen voor slimme campagne</td> 
+   <td>Slimme campagnes</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hebt u een beperking?</a> op grootte van slimme campagne? 
    <br/>     Als dat niet het geval is, kunt u er een toevoegen. We raden u aan de limiet voor slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Hierdoor wordt niet alleen uw merk beschermd, maar wordt ook de prestaties van uw instantie beter beveiligd.</li></td>
   </tr>
@@ -264,7 +264,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (Niet in Marketo)?</li>
+   <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (geen Marketo Engage Landing Page)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Niet bijhouden</a> Browserverzoek ingeschakeld?</li>
 <li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? 
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Als u documentatie mist over de plaats waar de code van de munchkin zich op uw website bevindt, kunt u alle URL's bekijken door een <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport over activiteiten op webpagina</a>.</li></td>

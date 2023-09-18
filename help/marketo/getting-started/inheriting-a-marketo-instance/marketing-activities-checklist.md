@@ -3,9 +3,9 @@ description: Checklist voor overerfde marketingactiviteiten - Marketo Docs - pro
 title: Checklist voor overgenomen marketingactiviteiten
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '826'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
  <tbody> 
   <tr> 
    <th style="width:20%">Gebied</th> 
-   <th>Focus controleren</th>
+   <th style="width:80%">Focus controleren</th>
   </tr> 
   <tr> 
    <td>Naamgevingsconventies</td> 
@@ -32,12 +32,12 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
   </tr>
   <tr> 
    <td>Programma's</td> 
-   <td><li>KG - IS DIT NOG RELEVANT Is er een <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Excellentiecentrum</a> met programmasjablonen? 
-   <br/>     Zo ja, hebben de programmasjablonen zin voor de gebruiksgevallen van de teams?</li>
-<li>Zijn vergelijkbare programmatypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistent gestructureerd</a>?</li>
+   <td><li>Zijn vergelijkbare programmatypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistent gestructureerd</a>?</li>
 <li>zijn <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">tijdskosten</a> op de rails zetten?</li>
 <li>Zijn alle programma's <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">gesynchroniseerd met SFDC-campagnes</a> (indien van toepassing)?</li>
-<li>Hebt u stroomstappen toegewezen aan een <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">overnameprogramma</a> voor mensen?</li></td>
+<li>Hebt u stroomstappen toegewezen aan een <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">overnameprogramma</a> voor mensen?</li>
+<li>Is er een centrale plaatsopstelling voor programmamalplaatjes? 
+   <br/>     Als dat niet het geval is, kunt u kiezen uit verschillende vooraf gebouwde programmavoorbeelden in het menu <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage Program Library</a>.</li></td>
   </tr>
   <tr> 
    <td>Archief</td> 
@@ -45,14 +45,14 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
 <li>Hoe vaak controleert en archiveert uw bedrijf oude programma's?</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Het is goed om elk jaar een revisie uit te voeren.</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Meldingen</td> 
    <td><li>Zijn er campagnerefouten in de <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">Tabblad Meldingen</a> bovenaan in uw exemplaar?</li>
 <li>Bent u <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">geabonneerd op meldingen</a> om de fouten die zich in de toekomst kunnen voordoen, te boven te blijven?</li></td>
   </tr>
   <tr> 
    <td>Abonnementen slimme lijsten 
-   <br/>(Marketingactiviteiten/Abonnementen tabblad)</td> 
+   <br/>(Marketingactiviteiten/Abonnementen)</td> 
    <td><li>Zijn er nog <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Abonnementen voor slimme lijsten</a> in jouw geval? Zo ja, wie gaan ze dan doen?</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Overweeg het instellen van Smart List-abonnementen om naar een team-alias te gaan in plaats van naar een individu. Dit geldt voor het geval dat individuen het kantoor verlaten.</td>
   </tr>
@@ -65,7 +65,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
  <tbody> 
   <tr> 
    <th style="width:20%">Gebied</th> 
-   <th>Focus controleren</th>
+   <th style="width:80%">Focus controleren</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
@@ -79,7 +79,8 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
 <li>Hoeveel <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">mensen zijn uitgeput</a>? 
 <br/>     Als er veel uitgeputte mensen zijn, kunt u <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">inhoud toevoegen</a>.</li>
 <li>Zijn mensen <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">engageren met de inhoud</a>? 
-<br/>     Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li></td>
+<br/>     Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li>
+<li>Hebt u mensen ontmoet in meerdere betrokkenheidsprogramma's? Moeten ze in meer dan één land zijn?</li></td>
   </tr>
   <tr> 
    <td>Batchcampagnes</td> 
@@ -117,7 +118,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
  <tbody> 
   <tr> 
    <th style="width:20%">Gebied</th> 
-   <th>Focus controleren</th>
+   <th style="width:80%">Focus controleren</th>
   </tr> 
   <tr> 
    <td>Persoonsscore</td> 
@@ -151,7 +152,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
   <tr> 
    <td>E-maillevering</td> 
    <td><li>Trek een <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-mailprestatierapport</a> voor verzendingen in de afgelopen maanden. Hoe ziet de e-maillevering eruit?</li>
-<li>Als de e-mailleverbaarheid slecht is, kunt u best best practices voor e-mailleverantie, zoals <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF en DKIM</a>.</li>
+<li>Als uw e-mailleverbaarheid niet zo sterk is als u zou willen, denk na onderzoek en het uitvoeren van beste praktijken van de e-maillevering zoals <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF en DKIM</a>.</li>
 <li>Spreekt u uit aan uw volledige verhandelbare publiek?</li></td>
   </tr>
   <tr> 
