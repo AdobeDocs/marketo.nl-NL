@@ -4,9 +4,9 @@ description: Protocollen configureren voor Marketo - Marketo Docs - Productdocum
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 232895f3d07b2b076100eeaaabaea0ed7560c7b2
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1026'
+source-wordcount: '1028'
 ht-degree: 3%
 
 ---
@@ -108,13 +108,13 @@ Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aa
 
    CompanyDomain vervangen door het hoofddomein van uw website (bijvoorbeeld: &quot;`(company.com/)`&quot;) en CorpIP met het IP-adres van uw e-mailserver van uw bedrijf (bijvoorbeeld &quot;255.255.255.255&quot;). Als u e-mail van veelvoudige domeinen door Marketo gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.
 
-1. Voor DKIM, creeer DNS Verslagen van het Middel voor elk domein wij zouden willen opstelling. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
+1. Voor DKIM, creeer DNS Verslagen van het Middel voor elk domein wij opstelling zouden willen. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
 
    `[DKIMDomain1]`: hostrecord is `[HostRecord1]` en de TXT-waarde is `[TXTValue1]`.
 
    `[DKIMDomain2]`: hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]`.
 
-   Kopieer de waarden HostRecord en TXTV voor elke DKIMDomain die u hebt ingesteld na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
+   Kopieer de waarden HostRecord en TXTV voor elke DKIMDomain u opstelling na het volgen van hebt [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
 
 ## Stap 4: Opstelling MX Verslagen voor Uw Domein {#step-set-up-mx-records-for-your-domain}
 

@@ -3,9 +3,9 @@ description: Overgenomen Instance Document Uw Setup - Marketo Docs - Productdocu
 title: Overgenomen Instance Document Uw Setup
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
   <tr> 
    <td>Changelog</td> 
     <td><li>Hebt u een verandering waar u kunt documenteren wat in uw instantie verandert en waarom?</li>
-    <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Handeling Item: Download dit voorbeeld om een wijziging aan te brengen en documentwijzigingen aan te brengen in de installatie van de instantie.</td>
+    <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Actiepunt: maak een wijziging en documentwijzigingen die u in de instantieconfiguratie hebt aangebracht.</td>
   </tr>
   <tr> 
    <td>Afspeelboeken</td> 
@@ -67,7 +67,7 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
    <td>Gesprek met interne belanghebbenden</td> 
     <td><li>Wat zijn de interne verwachtingen van het Marketing team van uw bedrijf? Komt ze overeen met wat Marketo Engage levert?</li>
    <li>Welke teams zijn belanghebbenden in uw Marketo Engage-exemplaar?</li>
-   <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Handelstitem: Deze downloaden <a href="https://nation.marketo.com/t5/product-blogs/planning-and-communicating-about-your-marketo-onboarding/ba-p/243555?attachment-id=1705" target="_blank">Interne communicatiegids voor belanghebbenden</a> om de doelstellingen en verwachtingen van uw belangrijkste belanghebbenden te documenteren.</td>
+   <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Actiepunt: documenteer de doelstellingen en verwachtingen van uw belangrijkste betrokkenen en werk deze bij terwijl u ze het hele jaar door met uw collega's incheckt.</td>
   </tr>
  </tbody> 
 </table>

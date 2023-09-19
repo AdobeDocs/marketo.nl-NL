@@ -3,9 +3,9 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 hide: true
 hidefromtoc: true
-source-git-commit: 711e8c7ba0249e9c88d146113b1cfae298d35aa3
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
@@ -231,6 +231,21 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td>Aangepaste objecten</td> 
    <td><li>Hoeveel <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">aangepaste objecten</a> is dat zo ? Hoe worden ze gesynchroniseerd met uw CRM?</li>
 <li>Hoe worden deze douanevoorwerpen gebruikt door uw programma's en lijstvragen?</li></td>
+  </tr>
+ </tbody> 
+</table>
+
+## E-mail {#email}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Gebied</th>
+   <th>Focus controleren</th>
+  </tr> 
+  <tr> 
+   <td>Standaardinstellingen voor e-mail</td> 
+   <td><li>In Beheer &gt; E-mail, zijn al uw standaardinstellingen bijgewerkt (bijvoorbeeld, <a href="/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md" target="_blank">E-mail/label "from"</a>, <a href="/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md" target="_blank">merkdomein</a>, <a href="/help/marketo/product-docs/administration/email-setup/edit-the-unsubscribe-message.md" target="_blank">afmelden</a>, enz.)?</li></td>
   </tr>
  </tbody> 
 </table>

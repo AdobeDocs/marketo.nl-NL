@@ -3,7 +3,7 @@ description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Produ
 title: Overgenomen Instance Design Studio Checklist
 hide: true
 hidefromtoc: true
-source-git-commit: 18749bdff222980177b46969b105216d7b720db9
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 0%
@@ -94,6 +94,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   <tr> 
    <td>E-mailtests</td> 
    <td><li>Hoe gebruikt u <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">e-mailtests</a>? Is uw methode nog steeds effectief?</li></td>
+  </tr>
   </tr>
   <tr> 
    <td>Privacy en naleving</td> 

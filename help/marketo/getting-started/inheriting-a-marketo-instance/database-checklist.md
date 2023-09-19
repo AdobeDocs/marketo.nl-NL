@@ -3,9 +3,9 @@ description: Checklist van overgenomen database-instanties - Marketo Docs - Prod
 title: Checklist van overgenomen database-instanties
 hide: true
 hidefromtoc: true
-source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
+source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -74,6 +74,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
   <tr> 
    <td>Slimme lijsten</td> 
    <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Slimme lijsten</a> is dat zo ? Hoe worden ze in dit geval gebruikt?</li>
+   <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: In de sectie van het Gegevensbestand, zijn de Slimme Lijsten van de Groep user-generated en Systeem de Slimme Lijsten zijn standaardlijsten die door Marketo Engage worden gecreeerd.
 <li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? 
 <br/>     Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiveren</a> Slimme lijsten die u niet meer nodig hebt, helpen bij de organisatie en prestaties.</td>
@@ -91,7 +92,8 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
   </tr> 
   <tr> 
    <td>Statische lijsten</td> 
-   <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statische lijsten</a> is dat zo ? Hoe worden ze in dit geval gebruikt?</li></td>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Statische lijsten</a> is dat zo ? Hoe worden ze in dit geval gebruikt?</li>
+   <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: In de sectie van het Gegevensbestand, zijn de Lijsten van de Groep statische Lijsten.</td>
   </tr>
  </tbody> 
 </table>
