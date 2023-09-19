@@ -3,9 +3,9 @@ description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Produ
 title: Overgenomen Instance Design Studio Checklist
 hide: true
 hidefromtoc: true
-source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
+source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 <li>Worden verborgen waarden op de juiste wijze gebruikt?</li>
 <li>Worden er Marketo's Engage gebruikt op niet-Marketo Engage landingspagina's? Hoe wordt er naar verwezen?</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Werk pagina's bij waar u Marketo's Engage formulieren insluit met de nieuwe insluitcode die is geïntroduceerd (hiervoor zijn beveiligde bestemmingspagina's vereist).
-<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<form id="mktoForm_1"></form>
-<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="codeminiatuur"></a>
 </td>
   </tr>
   <tr> 
