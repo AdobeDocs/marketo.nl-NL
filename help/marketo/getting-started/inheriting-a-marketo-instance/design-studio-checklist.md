@@ -3,9 +3,9 @@ description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Produ
 title: Overgenomen Instance Design Studio Checklist
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,31 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
  </tbody> 
 </table>
 
+## Afbeeldingen en bestanden {#images-and-files}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:20%">Gebied</th> 
+   <th>Focus controleren</th>
+  </tr> 
+  <tr> 
+   <td>Naamgevingsconventies</td> 
+   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">afbeeldingen en bestanden</a> Wilt u consistente naamconventies?</li></td>
+  </tr>
+  <tr> 
+   <td>Mapstructuur</td> 
+   <td><li>Dit zijn afbeeldingen en bestanden <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">naar behoren georganiseerd</a> en gemakkelijk te zoeken?</li></td>
+  </tr>
+  <tr> 
+   <td>Afbeeldingen en bestanden</td> 
+   <td><li>Afbeeldingen of bestanden uitvoeren <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">waarnaar wordt verwezen op webpagina's</a> moet worden bijgewerkt? 
+   <p>Voorbeeld: de hardcoded URL-structuur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">moet mogelijk worden bijgewerkt</a>, zoals <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
+   <p>Werk met uw webontwikkelaar om te bepalen waar u updates moet uitvoeren.</li></td>
+  </tr>
+ </tbody> 
+</table>
+
 ## Forms {#forms}
 
 <table style="table-layout:auto"> 
@@ -57,8 +82,8 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 <li>Worden verborgen waarden op de juiste wijze gebruikt?</li>
 <li>Worden er Marketo's Engage gebruikt op niet-Marketo Engage landingspagina's? Hoe wordt er naar verwezen?</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Werk pagina's bij waar u Marketo's Engage formulieren insluit met de nieuwe insluitcode die is geïntroduceerd (hiervoor zijn beveiligde bestemmingspagina's vereist).
-<br/><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
-<br/><form id="mktoForm_1"><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script>
+<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
+<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
 </td>
   </tr>
   <tr> 
@@ -120,31 +145,6 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
  </tbody> 
 </table>
 
-## Afbeeldingen en bestanden {#images-and-files}
-
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:20%">Gebied</th> 
-   <th>Focus controleren</th>
-  </tr> 
-  <tr> 
-   <td>Naamgevingsconventies</td> 
-   <td><li>Do <a href="/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md" target="_blank">afbeeldingen en bestanden</a> Wilt u consistente naamconventies?</li></td>
-  </tr>
-  <tr> 
-   <td>Mapstructuur</td> 
-   <td><li>Dit zijn afbeeldingen en bestanden <a href="/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md" target="_blank">naar behoren georganiseerd</a> en gemakkelijk te zoeken?</li></td>
-  </tr>
-  <tr> 
-   <td>Afbeeldingen en bestanden</td> 
-   <td><li>Afbeeldingen of bestanden uitvoeren <a href="/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md" target="_blank">waarnaar wordt verwezen op webpagina's</a> moet worden bijgewerkt? 
-   <p>Voorbeeld: de hardcoded URL-structuur <a href="https://nation.marketo.com/t5/product-documents/upcoming-changes-to-design-studio-urls/ta-p/306632#_Toc54870361" target="_blank">moet mogelijk worden bijgewerkt</a>, zoals <code>http://na-sj01.marketo.com/rs/123-ABC-456/images/puppy.png</code>. 
-   <p>Werk met uw webontwikkelaar om te bepalen waar u updates moet uitvoeren.</li></td>
-  </tr>
- </tbody> 
-</table>
-
 ## Alle elementen {#all-assets}
 
 <table style="table-layout:auto"> 
@@ -155,7 +155,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   </tr> 
   <tr> 
    <td>Status van element</td> 
-   <td><li>Hoeveel activa in <i>Concept</i> en <i>Goedgekeurd met concept</i> status?
+   <td><li>Hoeveel activa in <i>Concept</i> en <i>Goedgekeurd met concept</i> status (bijvoorbeeld <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">e-mail</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Openingspagina's</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">formulieren</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">fragmenten</a>)?
    <br/>     Als er vele zijn, denk schrappend of goedkeurend hen.</li></td>
   </tr>
   <tr> 
