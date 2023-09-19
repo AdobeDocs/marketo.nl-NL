@@ -3,9 +3,9 @@ description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Produ
 title: Overgenomen Instance Design Studio Checklist
 hide: true
 hidefromtoc: true
-source-git-commit: 30a7b16e20b6abdfe4f7c10000e64d556ba94116
+source-git-commit: e859c6b7c968f93b11bbd8dc281661824236fbaf
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,9 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   </tr> 
   <tr> 
    <td>Algemene bestemmingspagina's</td> 
-   <td><li>Hoeveel wereldwijd <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Openingspagina's</a> is dat zo ? Worden ze door programma's gebruikt?</li></td>
+   <td><li>Hoeveel wereldwijd <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Openingspagina's</a> is dat zo ? Worden ze door programma's gebruikt?</li>
+   <li>Heeft u een <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">abonnementscentrum</a> instellen?
+   <br/>     Als dat niet het geval is, kunt u er een maken.</li></td>
   </tr>
   <tr> 
    <td>Sjablonen</td> 
@@ -82,8 +84,9 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 <li>Worden verborgen waarden op de juiste wijze gebruikt?</li>
 <li>Worden er Marketo's Engage gebruikt op niet-Marketo Engage landingspagina's? Hoe wordt er naar verwezen?</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Werk pagina's bij waar u Marketo's Engage formulieren insluit met de nieuwe insluitcode die is geïntroduceerd (hiervoor zijn beveiligde bestemmingspagina's vereist).
-<br/><pre><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script></pre>
-<br/><pre><form id="mktoForm_1"></form><script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></pre>
+<br/><textarea style="width: 100%; max-width: 100%; height: 80px;"><script src="//example.marketo.com/js/forms2/js/forms2.min.js"></script>
+<form id="mktoForm_1"></form>
+<script>MktoForms2.loadForm("//example.marketo.com", "123-ABC-456", 1);</script></textarea>
 </td>
   </tr>
   <tr> 
