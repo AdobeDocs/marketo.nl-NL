@@ -2,7 +2,7 @@
 description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Productdocumentatie
 title: Overgenomen Instance Design Studio Checklist
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '591'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: Design Studio Checklist {#inherited-instance-design-studio-checklist}
 
-Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldingen en bestanden te maken, worden gegevensfouten tot een minimum beperkt en wordt de workflow van de programmabuild gestroomlijnd. Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
+Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldingen en bestanden te maken, worden gegevensfouten tot een minimum beperkt en wordt de workflow van de programmabuild gestroomlijnd. Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
 
 ## Landingspagina&#39;s {#landing-pages}
 
@@ -83,7 +83,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 <li>Worden verborgen waarden op de juiste wijze gebruikt?</li>
 <li>Worden er Marketo's Engage gebruikt op niet-Marketo Engage landingspagina's? Hoe wordt er naar verwezen?</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Werk pagina's bij waar u Marketo's Engage formulieren insluit met de nieuwe insluitcode die is geïntroduceerd (hiervoor zijn beveiligde bestemmingspagina's vereist).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="codeminiatuur"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="codeminiatuur"></a>
 </td>
   </tr>
   <tr> 
@@ -168,6 +168,6 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 
 <br> 
 
-[◄ Audit an Inherated Instance: Marketing Activiteiten](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[◄ Audit an Inherated Instance: Marketing Activiteiten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
 
-[Een overgeërfde instantie controleren: uw overgeërfde instantie documenteren ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
+[Een overgeërfde instantie controleren: uw overgeërfde instantie documenteren ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

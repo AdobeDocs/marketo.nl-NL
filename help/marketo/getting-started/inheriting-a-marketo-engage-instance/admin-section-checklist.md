@@ -2,7 +2,7 @@
 description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Productdocumentatie
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: beheerderscontrolelijst voor sectie {#inherited-instance-admin-section-checklist}
 
-De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
+De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
 
 >[!TIP]
 >
@@ -364,4 +364,4 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 
 <br> 
 
-[Een overgeërfde instantie controleren: Database ►](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[Een overgeërfde instantie controleren: Database ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

@@ -2,7 +2,7 @@
 description: Checklist van overgenomen database-instanties - Marketo Docs - Productdocumentatie
 title: Checklist van overgenomen database-instanties
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: checklist database {#inherited-instance-database-checklist}
 
-Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwervende bronnen in uw abonnement. Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
+Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwervende bronnen in uw abonnement. Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
 
 ## Slimme systeemlijsten {#system-smart-lists}
 
@@ -117,6 +117,6 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
 
 <br> 
 
-[◄ Audit an Inherated Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+[◄ Audit an Inherated Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
 
-[Een overgeërfde instantie controleren: marketingactiviteiten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+[Een overgeërfde instantie controleren: marketingactiviteiten ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

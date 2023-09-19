@@ -2,7 +2,7 @@
 description: Checklist voor overerfde marketingactiviteiten - Marketo Docs - productdocumentatie
 title: Checklist voor overgenomen marketingactiviteiten
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 2120b700fde80f470b5e221c0212c8d29e3920ae
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: Checklist voor marketingactiviteiten {#inherited-instance-marketing-activities-checklist}
 
-Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen te helpen diverse programma&#39;s binnen uw instantie van het Marketo Engage vinden en beheren en ervoor te zorgen dat de mensen worden verwerkt om van Marketing aan Verkoop over te gaan. Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
+Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen te helpen diverse programma&#39;s binnen uw instantie van het Marketo Engage vinden en beheren en ervoor te zorgen dat de mensen worden verwerkt om van Marketing aan Verkoop over te gaan. Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en de voortgang volgen.
 
 ## Organisatie {#organization}
 
@@ -167,6 +167,6 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
 
 <br> 
 
-[◄ Audit an Inherated Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
+[◄ Audit an Inherated Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
 
-[Een overgeërfde instantie controleren: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+[Een overgeërfde instantie controleren: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
