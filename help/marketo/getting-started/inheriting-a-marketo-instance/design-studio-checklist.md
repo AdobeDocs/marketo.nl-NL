@@ -3,7 +3,7 @@ description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Produ
 title: Overgenomen Instance Design Studio Checklist
 hide: true
 hidefromtoc: true
-source-git-commit: a3f99e113e862010c64568e51f37e55d6c25106c
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   </tr>
   <tr> 
    <td>Sjablonen</td> 
-   <td><li>Hoeveel <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Landingspagina-sjablonen</a> is dat zo ? Worden ze benut?</li></td>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md" target="_blank">Landingspagina-sjablonen</a> is dat zo ? Worden ze benut?</li></td>
   </tr>
   <tr> 
    <td>Groepen testen</td> 
@@ -84,7 +84,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 <li>Worden verborgen waarden op de juiste wijze gebruikt?</li>
 <li>Worden er Marketo's Engage gebruikt op niet-Marketo Engage landingspagina's? Hoe wordt er naar verwezen?</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Werk pagina's bij waar u Marketo's Engage formulieren insluit met de nieuwe insluitcode die is geïntroduceerd (hiervoor zijn beveiligde bestemmingspagina's vereist).
-<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png"><img src="assets/design-studio-checklist-1.png" alt="codeminiatuur"></a>
+<p><a href="/help/marketo/getting-started/inheriting-a-marketo-instance/assets/design-studio-checklist-2.png" target="_blank"><img src="assets/design-studio-checklist-1.png" alt="codeminiatuur"></a>
 </td>
   </tr>
   <tr> 

@@ -3,7 +3,7 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 hide: true
 hidefromtoc: true
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: 46a981c45d3fd7b78e97815193243b4f0d172f30
 workflow-type: tm+mt
 source-wordcount: '1592'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: beheerderscontrolelijst voor sectie {#inherited-instance-admin-section-checklist}
 
-De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook de checklists downloaden en de voortgang volgen.
+De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist-09.2023.xlsx) en de voortgang volgen.
 
 >[!TIP]
 >
