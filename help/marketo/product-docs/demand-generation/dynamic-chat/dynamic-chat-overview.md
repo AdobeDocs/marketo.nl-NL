@@ -2,9 +2,9 @@
 description: Overzicht Dynamic Chat - Marketo Docs - Productdocumentatie
 title: Overzicht van Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 78ca35c105be2fd437da2f783388d5bfaced8c70
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Het JavaScript-fragment voor Dynamics Chat kan op elke website en op elke bestem
 **Hoe lang worden gegevens voor rapportage opgeslagen?**
 
 90 dagen.
-
-**Staat Dynamic Chat live chatten toe?**
-
-Neen, het gebruikt slechts vooraf bepaalde reacties.
 
 **Steunt de Dynamic Chat om het even welke talen behalve Engels?**
 

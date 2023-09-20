@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - september 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - september 2023
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '849'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp</strong>: Met de Marketo Engage Program Reference Library kunnen gebruikers 'example'-programma's en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.</td> 
+   <td><strong>Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp</strong>: De kolom Gebruikt door Aantal voor de Mening van de Lijst in de Studio van het Ontwerp benadrukt het aantal activa die worden gebruikt. Dit is van toepassing op fragmenten, e-mailsjablonen, Forms en landingspaginasjablonen.</td> 
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
