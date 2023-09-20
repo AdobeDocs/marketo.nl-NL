@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: df16b75e0b2fafbd8b671c9e43845937c37e8dd9
+source-git-commit: 362aba77e372ff5ae09878c6a57d6ce97b019421
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <th style="width:20%">Documentatie</th>
   </tr> 
   <tr> 
-   <td><strong>Nieuw ontwerp voor rapportconfiguratie in Modern UX</strong>: Bij het instellen van een rapportelement hebt u een nieuwe elementenstructuur in het configuratiemenu en de mogelijkheid om op gemaakte en gewijzigde datum te filteren.</td> 
+   <td><strong>Nieuw ontwerp voor rapportconfiguratie in Modern UX</strong>: Wanneer u een rapportelement instelt, hebt u een <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nieuwe middelenstructuur</a> in het configuratiemenu evenals de capaciteit om op gecreeerde en gewijzigde datum te filtreren.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
