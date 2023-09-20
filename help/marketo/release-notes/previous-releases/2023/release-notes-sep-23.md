@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - september 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - september 2023
 feature: Release Information
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -52,16 +52,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><strong>Gebruikt door de Verbeteringen van het Lusje voor de Middelen van de Studio van het Ontwerp</strong>: Het tabblad Gebruikt door versterking biedt een gedetailleerdere weergave van het type en de naam van een element, samen met de locatie waar het wordt gebruikt. Dit is van toepassing voor E-maildetails en details van afbeeldingen en bestanden.</td> 
    <td>Verzonden</td>
    <td>nvt</td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr> 
-   <td><strong>Formule Flow Step-service berekenen</strong>: Compute Formula is een Flow Step Service die is gebaseerd op het IO Runtime-platform van de Adobe voor gebruik met Marketo Engage Slimme Campagnes. De cliënten van de Adobe met runtime IO kunnen de dienst opstellen en het installeren aan hun abonnementen van het Marketo Engage, die hen toestaan om Excel-als formules in de Slimme Campagnes van Marketo gegevens te verwerken.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
  </tbody> 
 </table>
