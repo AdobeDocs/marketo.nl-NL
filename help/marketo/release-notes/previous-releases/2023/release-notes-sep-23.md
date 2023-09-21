@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - september 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - september 2023
 feature: Release Information
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '872'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,26 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><strong>Gebruikt door de Verbeteringen van het Lusje voor de Middelen van de Studio van het Ontwerp</strong>: Het tabblad Gebruikt door versterking biedt een gedetailleerdere weergave van het type en de naam van een element, samen met de locatie waar het wordt gebruikt. Dit is van toepassing voor E-maildetails en details van afbeeldingen en bestanden.</td> 
    <td>Verzonden</td>
    <td>nvt</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Lokalisatie voor interactieve webinars</strong>: Hierdoor kunt u de gegevens van het Marketo Interactive Webinar Event Program in de gewenste taal bekijken en de taal van de levering kiezen, zodat deze kan verschillen van de taal van de Marketo-gebruiker die het Event Program heeft gemaakt.</td> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Veelgestelde vragen over interactieve webinars</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong>Gebruikerstoegangsbeheer voor interactieve webinars</strong>: Met het beheer van gebruikerstoegang hebben gebruikers van interactieve webinars alleen toegang tot de gebeurtenisprogramma's die ze mogen uitvoeren. Zo voorkomt u ongeoorloofde toegang.</td> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">Toegang tot gebruikers</a></td>
   </tr>
  </tbody> 
 </table>
