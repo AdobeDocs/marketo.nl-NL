@@ -2,9 +2,9 @@
 description: Overzicht Dynamic Chat - Marketo Docs - Productdocumentatie
 title: Overzicht van Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 93aae6830eba6de393c428e59a1d95da2bb8d413
+source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -55,28 +55,6 @@ Bied uw gekwalificeerde webbezoekers via [live chat](/help/marketo/product-docs/
 
 [Een gesprek ontwerpen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} die kunnen worden geactiveerd door een bezoeker op basis van een actie die u aanwijst (bijvoorbeeld het invullen van een formulier, het klikken op een koppeling, enz.).
 
-## Veelgestelde vragen {#faq}
-
-**Kan ik Dynamic Chat ergens op mijn bedrijfswebsite installeren of werkt het alleen op Marketo landingspagina&#39;s?**
-
-Het JavaScript-fragment voor Dynamics Chat kan op elke website en op elke bestemmingspagina van Marketo worden geïnstalleerd.
-
-**Hoe lang worden gegevens voor rapportage opgeslagen?**
-
-90 dagen.
-
-**Steunt de Dynamic Chat om het even welke talen behalve Engels?**
-
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in het dialoogvenster [sectie hieronder](#changing-the-language).
-
-**Ondersteunt u de AI/NLP-functionaliteit?**
-
-AI/NLP-functionaliteit wordt niet ondersteund.
-
-**Hoe kan ik mij richten op anonieme mensen?**
-
-In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
-
 ## De taal wijzigen {#changing-the-language}
 
 Ga als volgt te werk om de taal van uw Dynamic Chat te wijzigen.
@@ -105,6 +83,8 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
 
 ## Limieten voor gegevensbewaring in Dynamic Chat {#dynamic-chat-data-retention-limits}
 
+Hieronder staan slechts enkele limieten/parameters binnen de Dynamic Chat. Zie het Marketo Engage voor een volledige lijst [Pagina met productbeschrijving](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
 <table>
   <th>Gegevenstype</th>
   <th>Bewaarperiode</th>
@@ -129,3 +109,25 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
   <td>24 maanden</td>
  </tr>
 </table>
+
+## Veelgestelde vragen {#faq}
+
+**Kan ik Dynamic Chat ergens op mijn bedrijfswebsite installeren of werkt het alleen op Marketo landingspagina&#39;s?**
+
+Het JavaScript-fragment voor Dynamics Chat kan op elke website en op elke bestemmingspagina van Marketo worden geïnstalleerd.
+
+**Hoe lang worden gegevens voor rapportage opgeslagen?**
+
+90 dagen. Voor een volledige lijst van limieten/parameters, gelieve het Marketo Engage te bezoeken [Pagina met productbeschrijving](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+
+**Steunt de Dynamic Chat om het even welke talen behalve Engels?**
+
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in het dialoogvenster [sectie hieronder](#changing-the-language).
+
+**Ondersteunt u de AI/NLP-functionaliteit?**
+
+AI/NLP-functionaliteit wordt niet ondersteund.
+
+**Hoe kan ik mij richten op anonieme mensen?**
+
+In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
