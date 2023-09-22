@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - september 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - september 2023
 feature: Release Information
-source-git-commit: c83fcb184c12677c85f34e899907ccb2a8ff9473
+source-git-commit: 1075444e8c23d6d925c3b427ba8835ddeeead5ea
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 0%
@@ -59,7 +59,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td> </td>
   </tr>
    <tr> 
-   <td><strong>Lokalisatie voor interactieve webinars</strong>: Hierdoor kunt u de gegevens van het Marketo Interactive Webinar Event Program in de gewenste taal bekijken en de taal van de levering kiezen, zodat deze kan verschillen van de taal van de Marketo-gebruiker die het Event Program heeft gemaakt.</td> 
+   <td><strong>Lokalisatie voor interactieve webinars</strong>: Hiermee kunt u de details van het Marketo Interactive Webinar Event Program weergeven in de gewenste taal en kunt u de taal van de levering kiezen als u deze andere taal wilt gebruiken dan de taal van de Marketo-gebruiker die het Event Program heeft gemaakt.</td> 
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">Veelgestelde vragen over interactieve webinars</a></td>
   </tr>
