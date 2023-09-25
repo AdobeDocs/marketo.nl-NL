@@ -2,16 +2,16 @@
 description: Overzicht van de betrokkenheidskaart - Marketo Docs - Productdocumentatie
 title: Overzicht van de betrokkenheidskaart
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
 
 # Overzicht van de betrokkenheidskaart {#engagement-map-overview}
 
-Met de betrokkenheidskaart kunt u herbruikbare slimme campagnes bouwen met behulp van intuïtieve beelden. Het biedt volledige achterwaartse verenigbaarheid met alle bestaande Marketo Engage Slimme Campagnes, zonder het verlies van om het even welke huidige eigenschappen.
+Met de betrokkenheidskaart kunt u uw slimme campagnes intuïtief visualiseren. Het biedt volledige achterwaartse verenigbaarheid met alle bestaande Marketo Engage Slimme Campagnes, zonder het verlies van om het even welke huidige eigenschappen aan.
 
 >[!NOTE]
 >
@@ -77,19 +77,15 @@ Nee. Betrokkenheid toewijzen is volledig compatibel met oudere versies. Met de k
 
 **Betekent het hebben van de Kaart van de Betrokkenheid in Marketo Engage dat ik toegang tot de omslagstructuur zal verliezen en zal moeten opnieuw leren hoe te om een Slimme Campagne te bouwen?**
 
-Nee. Het mooie aan Betrokkenheid Kaart is dat het je het beste van beide werelden geeft; het is een aanvulling op de huidige manier waarop je campagnes bouwt. U kunt kiezen als u bestaande UI wilt gebruiken of bouwt/visualiseert in nieuwe UI. Alle gebruikers krijgen nog steeds een krachtige functieset, die nu wordt aangevuld met een visueel ontwerpgereedschap.
+Nee. Het mooie aan Betrokkenheid Kaart is dat het je het beste van beide werelden geeft; het is een aanvulling op de huidige manier waarop je campagnes bouwt. Alle gebruikers krijgen nog steeds een krachtige functieset van het Marketo Engage, nu aangevuld met duidelijke visuele kenmerken.
 
 **Is de kaart van de Betrokkenheid een betaalde toe:voegen-aan?**
 
-Nee. Alle bestaande en nieuwe gebruikers van de Marketo Engage onder alle abonnementen zullen toegang tot deze vleiende eigenschap hebben.
+Nee. Alle bestaande en nieuwe gebruikers in de Marketo Engage onder alle abonnementen hebben toegang tot deze gratis functie.
 
-**Als Marketo Engage-beheerder ben ik verantwoordelijk voor het in- en uitschakelen van de Betrokkenheidskaart?**
+**Als beheerder van het Marketo Engage, ben ik verantwoordelijk voor het uitzetten van de Kaart van de Betrokkenheid aan/uit?**
 
 Nee. Betrokkenheid toewijzen is beschikbaar voor alle gebruikers in hun exemplaar. U kunt deze functie niet in- of uitschakelen voor bepaalde gebruikers, werkruimten, enzovoort.
-
-**Is alles momenteel beschikbaar in Slimme Campagnes ook beschikbaar in de Kaart van de Betrokkenheid?**
-
-Ja. De Kaart van de betrokkenheid heeft volledige eigenschappariteit met Slimme Campagnes.
 
 **Hoe verschilt dit van andere visuele builders?**
 
@@ -99,7 +95,7 @@ Er zijn drie belangrijke dingen die de Kaart van de Betrokkenheid verdelen:
 
 * Functionaliteit: alle beelden zijn uit de doos, waardoor het gemakkelijker te gebruiken is; de geneste structuur stelt u in staat om in te duiken en het hele beeld te krijgen.
 
-* Macht: u behoudt alle bestaande verfijning van Marketo Engage, nu in een visueel formaat.
+* Macht: u behoudt alle bestaande geavanceerde Marketo&#39;s Engage, nu in een visueel formaat.
 
 >[!MORELIKETHIS]
 >

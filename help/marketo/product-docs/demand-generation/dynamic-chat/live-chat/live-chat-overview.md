@@ -2,18 +2,20 @@
 description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
-source-git-commit: 9a8f6fe57b585ba0eac6a577bf99e0419d8818a1
+source-git-commit: 34545817fd35719290a848384e4bc9feba521305
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Live Chat-overzicht {#live-chat-overview}
 
-Live chat gebruiken op de [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} wanneer u bezoekers wilt chatten met een live agent.
+Met Live Chat kunnen websitebezoekers realtime chatgesprekken voeren met uw verkoopagenten.
 
 ## Live Chat-kaart gebruiken {#using-the-live-chat-card}
+
+Live chat gebruiken op de [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} wanneer u bezoekers wilt chatten met een live agent.
 
 ![](assets/live-chat-overview-1.png)
 
