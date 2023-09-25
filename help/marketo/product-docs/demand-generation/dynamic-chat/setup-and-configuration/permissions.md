@@ -4,9 +4,9 @@ title: Machtigingen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: ca158295a492edfa74c97f98196021767364f692
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Machtigingen {#permissions}
 
 De gebruikerstoegang tot de verschillende gebieden in de Dynamic Chat beheren.
+
+## Machtigingen aanpassen {#customize-permissions}
 
 1. In de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klikt u op **Dynamic Chat**.
 
@@ -49,7 +51,7 @@ U kunt dit proces nu voor alle andere gebieden van de Dynamic Chat herhalen.
 
 ## Lijst met machtigingen {#list-of-permissions}
 
-Hieronder vindt u een lijst met alle beschikbare machtigingen die op gebied zijn gesorteerd.
+Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
 
 <table>
 <thead>
@@ -73,8 +75,8 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen die op gebied zijn
     <td><li>Agent Inbox</li>
     <li>Mijn gesprekken weergeven</li>
     <li>Alle gesprekken weergeven</li>
-    <li>Gesprek weergeven<b>*</b></li>
-    <li>Bijgewerkte reacties weergeven<b>*</b></li></td>
+    <li>Gesprek weergeven <b>*</b></li>
+    <li>Bijgewerkte reacties weergeven <b>*</b></li></td>
   </tr>
   <tr>
     <td>Vergaderingen</td>
@@ -96,21 +98,21 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen die op gebied zijn
   </tr>
   <tr>
     <td>Beheerinstellingen</td>
-    <td><li>Werkruimten weergeven<b>*</b></li>
-    <li>Werkruimten beheren (maken, bewerken, verwijderen)<b>*</b></li>
+    <td><li>Werkruimten weergeven <b>*</b></li>
+    <li>Werkruimten beheren (maken, bewerken, verwijderen) <b>*</b></li>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</li>
-    <li>Accountlijst weergeven<b>*</b></li>
-    <li>Accounts beheren (toevoegen, bewerken, verwijderen)<b>*</b></li>
+    <li>Accountlijst weergeven <b>*</b></li>
+    <li>Accounts beheren (toevoegen, bewerken, verwijderen) <b>*</b></li>
     <li>Chatbot-instellingen beheren</li>
     <li>Instellingen voor conversiestromen beheren</li>
     <li>Privacy en beveiliging beheren</li>
     <li>Integraties beheren</li>
-    <li>Talen beheren<b>*</b></li>
+    <li>Talen beheren <b>*</b></li>
     <li>Handelingen beheren</li>
-    <li>Agent-teams weergeven<b>*</b></li>
-    <li>Agent-teams beheren (toevoegen, bewerken, verwijderen)<b>*</b></li>
+    <li>Agent-teams weergeven <b>*</b></li>
+    <li>Agent-teams beheren (toevoegen, bewerken, verwijderen) <b>*</b></li>
     <li>Gebruiksbeperkingen weergeven</li></td>
   </tr>
 </tbody>
