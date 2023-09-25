@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f11e455196cdfb7a6c1054df40344cab5b06772b
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '9106'
+source-wordcount: '9107'
 ht-degree: 0%
 
 ---
@@ -667,6 +667,7 @@ ht-degree: 0%
          + Instellen en configureren {#setup-and-configuration}
             + [Eerste instelling](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Machtigingen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
             + [Configuratie](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
             + [Instellingen agent](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
             + [Agent Management](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
@@ -935,7 +936,7 @@ ht-degree: 0%
             + [Overzicht van tokens](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Dynamische inhoud gebruiken in een bestemmingspagina](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [De URL Builder gebruiken](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + Sociaal {#social}
+      + Social {#social}
          + Sociale handelingen configureren {#configuring-social-actions}
             + [After-Share-vragen configureren](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [Vastleggen van persoon configureren voor een sociale app](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)

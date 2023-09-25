@@ -4,649 +4,116 @@ title: Machtigingen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 18%
+source-wordcount: '299'
+ht-degree: 0%
 
 ---
 
 # Machtigingen {#permissions}
 
-Tabel
+De gebruikerstoegang tot de verschillende gebieden in de Dynamic Chat beheren.
+
+1. In de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klikt u op **Dynamic Chat**.
+
+   ![](assets/permissions-1.png)
+
+1. In de **Productprofielen** selecteert u het profiel dat u wilt bewerken. In dit voorbeeld kiezen we **Live Agent**.
+
+   ![](assets/permissions-2.png)
+
+1. Klik op de knop **Machtigingen** tab.
+
+   ![](assets/permissions-3.png)
+
+1. Selecteer het gebied van de Dynamic Chat dat u wilt bewerken. Omdat we het profiel Live agent hebben gekozen, selecteren we Live Chat. Klik op het potloodpictogram.
+
+   ![](assets/permissions-4.png)
+
+1. Alle beschikbare toestemmingspunten zijn op de linkerzijde. U kunt machtigingen een voor een of alle rechten tegelijk toevoegen. In dit voorbeeld kiezen we alles. Klik op de knop **+ Alles toevoegen** knop.
+
+   ![](assets/permissions-5.png)
+
+   >[!NOTE]
+   >
+   >Als u Automatisch opnemen inschakelt, worden alle machtigingsitems aan de lijst met opgenomen items toegevoegd. Wanneer nieuwe machtigingsitems beschikbaar komen, worden deze automatisch opgenomen voor dat productprofiel.
+
+1. Klikken **Opslaan**.
+
+   ![](assets/permissions-6.png)
+
+U kunt dit proces nu voor alle andere gebieden van de Dynamic Chat herhalen.
+
+![](assets/permissions-7.png)
+
+## Lijst met machtigingen {#list-of-permissions}
+
+Hieronder vindt u een lijst met alle beschikbare machtigingen die op gebied zijn gesorteerd.
 
 <table>
-  <tbody>
-    <tr>
-      <th>S.No.</th>
-      <th>Functienaam</th>
-      <th>Beschrijving</th>
-      <th>Machtigingen</th>
-      <th>Prijspakket</th>
-      <td>Gebruiker van marketing</td>
-      <td>Live Agent</td>
-      <td>Agenda-agent</td>
-      <td>Marketing Admin</td>
-      <td>Verkoopbeheerder</td>
-      <td>GenAI-gebruiker</td>
-      <td>Standaardmachtigingen</td>
-    </tr>
-    <tr>
-      <td>1.</td>
-      <td>Conversatiebeheer</td>
-      <td>De toegang tot dialoogvensters beheren, waaronder handelingen voor weergeven, bewerken en publiceren</td>
-      <td>Dialoogvenster Weergave</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Dialoogvenster beheren (maken, verwijderen)</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Dialoog Publiceren</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td>De toegang tot conversiestromen beheren, waaronder handelingen voor weergeven, bewerken en publiceren</td>
-      <td>Omgekeerde stromen weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Conversiestromen beheren (Maken, Verwijderen)</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Conversiestromen publiceren</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>2.</td>
-      <td>Live Chat</td>
-      <td>De toegang tot agent inbox beheren waar de agenten levende gesprekken met bezoekers kunnen hebben</td>
-      <td>Agent Inbox</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Mijn gesprekken weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Alle gesprekken weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gesprek weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Bijgewerkte reacties weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>3.</td>
-      <td>Generatieve AI</td>
-      <td>De toegang tot workflows voor assistentie op basis van GenAI beheren</td>
-      <td>Responsbibliotheek weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Reactiebibliotheek beheren (bewerken, importeren, verwijderen)</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Nieuwe Q&amp;R's genereren (maken, exporteren)</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Vragen en antwoorden publiceren</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Onbeantwoorde vragen weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Kennisdatabase weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Kennisdatabase beheren (toevoegen, bewerken, verwijderen)</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>4.</td>
-      <td>Vergaderingen</td>
-      <td>De toegang tot informatie over vergaderingen beheren die in Dynamic Chat worden gepland</td>
-      <td>Alle vergaderingen beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Mijn vergaderingen beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>5.</td>
-      <td>Analyse</td>
-      <td>Toegang tot rapporten beheren</td>
-      <td>Global Performance Reports weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Live Chatrapporten weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Vergaderingsrapporten weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Rapporten exporteren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>6.</td>
-      <td>Instellingen agent</td>
-      <td>Toegang inschakelen om profielen en beschikbaarheid van individuele agenten te configureren</td>
-      <td>Live Chat-beschikbaarheid beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Uw agenda verbinden</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Beschikbaarheid van agenda's beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td>7.</td>
-      <td>Beheerinstellingen</td>
-      <td>Toegang tot systeemconfiguraties, -integratie en -branding beheren</td>
-      <td>Werkruimten weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Werkruimten beheren (maken, bewerken, verwijderen)</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Rondleiding weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Aangepaste regels weergeven</p>
-      </td>
-      <td>Opgenomen versie</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Accountlijst weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Accounts beheren (toevoegen, bewerken, verwijderen)</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Chatbot-instellingen beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Instellingen voor conversiestromen beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Algemene AI-instellingen beheren</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Privacy en beveiliging beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Integraties beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Talen beheren</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Handelingen beheren</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Agent-teams weergeven</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Agent-teams beheren (toevoegen, bewerken, verwijderen)</td>
-      <td>Dynamic Chat-premier</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td> </td>
-      <td> </td>
-      <td>Gebruikslimieten weergeven</td>
-      <td>Opgenomen versie</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Nee</td>
-      <td>Ja</td>
-      <td>Ja</td>
-      <td>Nee</td>
-      <td>Nee</td>
-    </tr>
-  </tbody>
+<thead>
+  <tr>
+    <th>Dynamic Chat</th>
+    <th>Machtigingen</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Conversatiebeheer</td>
+    <td><li>Dialoogvensters weergeven</li>
+    <li>Dialoogvensters beheren (maken, verwijderen)</li>
+    <li>Dialoogvensters publiceren</li>
+    <li>Conversale stromen weergeven</li>
+    <li>Conversationele stromen beheren (maken, verwijderen)</li>
+    <li>Conversatiestromen publiceren</li></td>
+  </tr>
+  <tr>
+    <td>Live Chat</td>
+    <td><li>Agent Inbox</li>
+    <li>Mijn gesprekken weergeven</li>
+    <li>Alle gesprekken weergeven</li>
+    <li>Gesprek weergeven<b>*</b></li>
+    <li>Bijgewerkte reacties weergeven<b>*</b></li></td>
+  </tr>
+  <tr>
+    <td>Vergaderingen</td>
+    <td><li>Alle vergaderingen beheren</li>
+    <li>Mijn vergaderingen beheren</li></td>
+  </tr>
+  <tr>
+    <td>Analyse</td>
+    <td><li>Global Performance Reports weergeven</li>
+    <li>Live Chatrapporten weergeven</li>
+    <li>Vergaderingsrapporten weergeven</li>
+    <li>Rapporten exporteren</li></td>
+  </tr>
+  <tr>
+    <td>Instellingen agent</td>
+    <td><li>Beschikbaarheid van live chat beheren</li>
+    <li>Uw agenda verbinden</li>
+    <li>Beschikbaarheid agenda beheren</li></td>
+  </tr>
+  <tr>
+    <td>Beheerinstellingen</td>
+    <td><li>Werkruimten weergeven<b>*</b></li>
+    <li>Werkruimten beheren (maken, bewerken, verwijderen)<b>*</b></li>
+    <li>Ronde lijn weergeven</li>
+    <li>Aangepaste regels weergeven</li>
+    <li>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</li>
+    <li>Accountlijst weergeven<b>*</b></li>
+    <li>Accounts beheren (toevoegen, bewerken, verwijderen)<b>*</b></li>
+    <li>Chatbot-instellingen beheren</li>
+    <li>Instellingen voor conversiestromen beheren</li>
+    <li>Privacy en beveiliging beheren</li>
+    <li>Integraties beheren</li>
+    <li>Talen beheren<b>*</b></li>
+    <li>Handelingen beheren</li>
+    <li>Agent-teams weergeven<b>*</b></li>
+    <li>Agent-teams beheren (toevoegen, bewerken, verwijderen)<b>*</b></li>
+    <li>Gebruiksbeperkingen weergeven</li></td>
+  </tr>
+</tbody>
 </table>
+
+**&#42;** Momenteel alleen beschikbaar voor Dynamic Premier-gebruikers
