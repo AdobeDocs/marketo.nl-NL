@@ -2,9 +2,9 @@
 description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
 feature: Dynamic Chat
-source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
+source-git-commit: d60b506f0c84fc2883054be628817374d3a1a09b
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in d
 
    ![](assets/permissions-6.png)
 
-U kunt dit proces nu herhalen voor alle andere gebieden van de Dynamic Chat.
+U kunt dit proces nu herhalen voor alle/alle andere gebieden van de Dynamic Chat.
 
 ![](assets/permissions-7.png)
 
@@ -75,7 +75,7 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
 <table>
 <thead>
   <tr>
-    <th>Dynamic Chat</th>
+    <th style="width:30%">Dynamic Chat</th>
     <th>Machtigingen</th>
   </tr>
 </thead>
