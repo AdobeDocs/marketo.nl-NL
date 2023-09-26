@@ -1,21 +1,19 @@
 ---
 description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ca158295a492edfa74c97f98196021767364f692
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
 # Machtigingen {#permissions}
 
-De gebruikerstoegang tot de verschillende gebieden in de Dynamic Chat beheren.
+Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in de Dynamic Chat kunt bewerken. U kunt ook een aangepast profiel maken met een aangepaste set machtigingen. Laten we beide overslaan.
 
-## Machtigingen aanpassen {#customize-permissions}
+## Bestaande machtigingen bewerken {#edit-existing-permissions}
 
 1. In de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klikt u op **Dynamic Chat**.
 
@@ -29,11 +27,11 @@ De gebruikerstoegang tot de verschillende gebieden in de Dynamic Chat beheren.
 
    ![](assets/permissions-3.png)
 
-1. Selecteer het gebied van de Dynamic Chat dat u wilt bewerken. Omdat we het profiel Live agent hebben gekozen, selecteren we Live Chat. Klik op het potloodpictogram.
+1. Selecteer het gebied van het profiel dat u wilt bewerken. In dit voorbeeld kiezen we voor Live Chat. Klik op het potloodpictogram.
 
    ![](assets/permissions-4.png)
 
-1. Alle beschikbare toestemmingspunten zijn op de linkerzijde. U kunt machtigingen een voor een of alle rechten tegelijk toevoegen. In dit voorbeeld kiezen we alles. Klik op de knop **+ Alles toevoegen** knop.
+1. De beschikbare machtigingsitems worden links weergegeven. U kunt machtigingen een voor een of alle rechten tegelijk toevoegen. In dit voorbeeld is er slechts één beschikbaar, dus voegen we die toe. Klik op de knop **+** ondertekenen.
 
    ![](assets/permissions-5.png)
 
@@ -45,9 +43,30 @@ De gebruikerstoegang tot de verschillende gebieden in de Dynamic Chat beheren.
 
    ![](assets/permissions-6.png)
 
-U kunt dit proces nu voor alle andere gebieden van de Dynamic Chat herhalen.
+U kunt dit proces nu herhalen voor alle andere gebieden van de Dynamic Chat.
 
 ![](assets/permissions-7.png)
+
+## Een profiel maken {#create-a-profile}
+
+1. In de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klikt u op **Dynamic Chat**.
+
+   ![](assets/permissions-8.png)
+
+1. In de **Productprofielen** tabblad, klikt u op **Nieuw profiel**.
+
+   ![](assets/permissions-9.png)
+
+1. **Naam** uw productprofiel. U kunt er desgewenst een weergavenaam en/of beschrijving van opgeven en gebruikers op de hoogte stellen wanneer ze worden toegevoegd of verwijderd. Klikken **Opslaan** wanneer gereed.
+
+   ![](assets/permissions-10.png)
+
+1. Het nieuwe profiel wordt weergegeven op het tabblad Productprofielen. Selecteer het.
+
+   ![](assets/permissions-11.png)
+
+1. Volg nu stap 3-6 van de [sectie hierboven](#edit-existing-permissions) voor elk gewenst gebied.
+
 
 ## Lijst met machtigingen {#list-of-permissions}
 

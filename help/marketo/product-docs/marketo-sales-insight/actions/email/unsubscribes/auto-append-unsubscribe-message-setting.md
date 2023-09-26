@@ -4,7 +4,7 @@ title: Instelling voor automatisch toevoegen van abonnement op bericht
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: b0f62abfe04efd8e72ed8e92442d4a46ea118f33
+source-git-commit: 8b2eed5e28c46ea9c467fd25dd732c1654a09bed
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Zorg ervoor dat elke verzonden e-mail met het oog op het instellen van een abonn
 
 >[!TIP]
 >
->Als u het toevoegen onbruikbaar maakt unsubscribe bericht plaatsen, adviseren wij toevoegend een unsubscribe footer aan uw malplaatjes om ervoor te zorgen uw mededeling een opt-out optie heeft. U kunt dit doen door uw eigen douanebericht aan elke malplaatje toe te voegen, of door te gebruiken `{{team_unsubscribe}}` dynamisch veld.
+>Als u het toevoegen onbruikbaar maakt unsubscribe bericht plaatsen, adviseren wij toevoegend een unsubscribe footer aan uw malplaatjes om ervoor te zorgen uw mededeling een opt-out optie heeft. U kunt dit doen door uw eigen douanebericht aan elke malplaatje toe te voegen, of door te gebruiken `{{team_unsubscribe}}` [dynamisch veld](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}.
