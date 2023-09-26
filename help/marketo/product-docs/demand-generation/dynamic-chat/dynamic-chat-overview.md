@@ -2,16 +2,16 @@
 description: Overzicht Dynamic Chat - Marketo Docs - Productdocumentatie
 title: Overzicht van Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: 5e413f280b44691336bd724ddc20936e88d53764
+source-git-commit: 0bc016e63626c880238316ff2130f12a31fdd717
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Overzicht van Dynamic Chat {#dynamic-chat-overview}
 
-Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruikers en accounts die uw website bezoeken, als doel in te stellen. Verzamel relevante inhoud, zoals naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen vergaderingen met uw Team van de Verkoop ook boeken. Gegevens over activiteiten en betrokkenheid van Dynamics Chat kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en kanaalactiviteiten te activeren.
+Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruikers en accounts die uw website bezoeken, als doel in te stellen. Verzamel relevante inhoud, zoals naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen ook met een levende agent en zelfs boekvergaderingen met uw Team van de Verkoop chatten. Gegevens over activiteiten en betrokkenheid van Dynamics Chat kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en kanaalactiviteiten te activeren.
 
 >[!TIP]
 >
@@ -122,7 +122,7 @@ Het JavaScript-fragment voor Dynamics Chat kan op elke website en op elke bestem
 
 **Steunt de Dynamic Chat om het even welke talen behalve Engels?**
 
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in het dialoogvenster [sectie hieronder](#changing-the-language).
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in [De taal wijzigen](#changing-the-language).
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
