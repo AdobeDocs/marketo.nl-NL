@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - september 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - september 2023
 feature: Release Information
-source-git-commit: 3d9985127db3a420aca8bed13c9e3241d24b149f
+source-git-commit: 91abb47c44297f3b87646840aebf72d64a9a3a8d
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -265,6 +265,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 <br/>
 
 ## Aankondigingen {#announcements}
+
+* **Marketo Events and Marketo Moments Deprection**: Adobe verwijdert Marketo Events en Marketo Moments vanaf 2 oktober 2023 uit alle App-winkels. Bestaande gebruikers—u kunt deze toepassingen blijven gebruiken totdat u het Marketo Engage-exemplaar naar Adobe Identity migreert. Deze apps bieden geen ondersteuning voor aanmelden met Adobe ID.
 
 * **Schakel Switch Deprection for Design Studio Assets in of uit**: De knevelschakelaar die gebruikers toestaat om tussen de klassieke interface en de Moderne ervaring van UX voor de Studio van het Ontwerp te schakelen zal, samen met de oude versie van de ervaring van de Studio van het Ontwerp worden verouderd, toestaand gebruikers om aan de Moderne ervaring van UX volledig te migreren. [Meer informatie hier](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
