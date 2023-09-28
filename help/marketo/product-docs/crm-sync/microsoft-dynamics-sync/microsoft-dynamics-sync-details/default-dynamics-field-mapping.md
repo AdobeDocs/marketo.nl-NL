@@ -3,7 +3,7 @@ description: Standaarddynamische veldtoewijzing - Marketo Docs - Productdocument
 title: Standaarddynamische veldtoewijzing
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 12%
@@ -136,7 +136,7 @@ Wanneer u uw Marketo-account aanvankelijk synchroniseert met Microsoft, maakt Ma
     <tr>
       <td>Persoonsbeoordeling</td>
       <td>Classificatie</td>
-      <td>leadquality-code</td>
+      <td>leadquality code</td>
     </tr>
     <tr>
       <td>Microsoft-adres 2</td>
@@ -315,7 +315,7 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
     </tr>
     <tr>
       <td>Adres</td>
-      <td>Adres 1: Adres 1</td>
+      <td>Adres 1: Street 1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
@@ -360,12 +360,12 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
     </tr>
     <tr>
       <td>Microsoft-adres 2</td>
-      <td>Adres 1: Adres 2</td>
+      <td>Adres 1: Street 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft-adres 3</td>
-      <td>Adres 1: Adres 3</td>
+      <td>Adres 1: Street 3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -494,7 +494,7 @@ De onderstaande contactvelden worden gesynchroniseerd voor intern gebruik.
     </tr>
     <tr>
       <td>Factuuradres</td>
-      <td>Adres 1: Adres 1</td>
+      <td>Adres 1: Street 1</td>
       <td>address1_line1</td>
     </tr>
     <tr>
@@ -514,12 +514,12 @@ De onderstaande contactvelden worden gesynchroniseerd voor intern gebruik.
     </tr>
     <tr>
       <td>Microsoft-factuuradres 2</td>
-      <td>Adres 1: Adres 2</td>
+      <td>Adres 1: Street 2</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>Microsoft-factureringsadres 3</td>
-      <td>Adres 1: Adres 3</td>
+      <td>Adres 1: Street 3</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -579,8 +579,8 @@ De onderstaande contactvelden worden gesynchroniseerd voor intern gebruik.
     </tr>
     <tr>
       <td>Bedrijf</td>
-      <td>name</td>
       <td>Accountnaam</td>
+      <td>name</td>
     </tr>
     <tr>
       <td>Aantal werknemers</td>
@@ -640,7 +640,7 @@ De onderstaande accountvelden worden gesynchroniseerd voor intern gebruik.
     <tr>
       <td>Werkelijke sluitdatum</td>
       <td>Werkelijke sluitdatum</td>
-      <td>feitelijk gesloten</td>
+      <td>actualclosed</td>
     </tr>
     <tr>
       <td>Naam</td>
@@ -703,7 +703,7 @@ De onderstaande velden worden gemaakt in Marketo, maar kunnen niet worden aangep
     </tr>
     <tr>
       <td>Microsoft-type</td>
-      <td>Lood of contactpersoon. Als de lead leeg is, bestaat deze alleen als een persoon in Marketo</td>
+      <td>Lood of contactpersoon. Indien leeg, bestaat de lead alleen als een persoon in Marketo</td>
     </tr>
     <tr>
       <td>Aanmaakdatum van Microsoft</td>
