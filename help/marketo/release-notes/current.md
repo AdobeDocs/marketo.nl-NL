@@ -3,10 +3,10 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00038ada6a3712ccc06cb638125f2f6fb185a1c6
+source-git-commit: 6440f43ab77e32038964bf8272f350bd28474eec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 3%
+source-wordcount: '329'
+ht-degree: 2%
 
 ---
 
@@ -45,6 +45,17 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Opname downloaden en cohost toewijzen in interactieve webinars</strong>: U kunt nu een externe cohost voor uw webinar toevoegen als de oorspronkelijke host niet beschikbaar is. U kunt nu ook de webinar-opname downloaden.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
  </tbody> 
 </table>
 <br/>
@@ -52,3 +63,5 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 ## Aankondigingen {#announcements}
 
 * **Marketo Engage Forms jQuery 1.x**: In onze release van januari 2024 wordt de jQuery for Marketo Engage Forms bijgewerkt naar jQuery 3.x. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery.
+
+* **Marketo Events and Marketo Moments Deprection**: Adobe verwijdert Marketo Events en Marketo Moments vanaf 2 oktober 2023 uit alle App-winkels. Bestaande gebruikers—u kunt deze toepassingen blijven gebruiken totdat u het Marketo Engage-exemplaar naar Adobe Identity migreert. Deze apps bieden geen ondersteuning voor aanmelden met Adobe ID.

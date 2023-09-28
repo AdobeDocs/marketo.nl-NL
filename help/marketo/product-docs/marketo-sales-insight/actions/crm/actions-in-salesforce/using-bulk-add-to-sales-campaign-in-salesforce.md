@@ -1,7 +1,8 @@
 ---
 description: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce - de Documenten van Marketo - de Documentatie van het Product
 title: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -18,7 +19,7 @@ Leer hoe te om in bulk toe te voegen aan de Campagne van de Verkoop in Salesforc
 
 >[!PREREQUISITES]
 >
->Controleer of u de [Het meest recente Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} in Salesforce.
+>Controleer of u de [Het meest recente verkooppakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} in Salesforce.
 
 ## Bulk toevoegen aan verkoopcampagne in Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
@@ -26,11 +27,11 @@ Leer hoe te om in bulk toe te voegen aan de Campagne van de Verkoop in Salesforc
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 
-1. In de **Weergave** selecteert u de gewenste weergave van leads/contactpersonen die u wilt e-mailen.
+1. In de **Weergave** selecteert u de gewenste weergave van leads/contactpersonen die u per e-mail wilt verzenden.
 
    >[!TIP]
    >
-   >U kunt een nieuwe weergave maken door op het cogopictogram aan de rechterkant te klikken en **Nieuw**. Nadat u de weergave een nieuwe naam hebt gegeven en deze hebt opgeslagen, kunt u op het filterpictogram aan de rechterkant klikken om naar de gewenste set leads/contactpersonen die u wilt e-mailen, te gaan.
+   >U kunt een nieuwe weergave maken door op het cogopictogram rechts te klikken en **Nieuw**. Nadat u de weergave een nieuwe naam hebt gegeven en deze hebt opgeslagen, kunt u op het filterpictogram aan de rechterkant klikken om naar de gewenste set leads/contactpersonen die u wilt e-mailen, te gaan.
 
 1. Kies de gewenste lijst met leads of contactpersonen en klik op de knop **Toevoegen aan verkoopcampagne** knop.
 
@@ -48,11 +49,11 @@ Leer hoe te om in bulk toe te voegen aan de Campagne van de Verkoop in Salesforc
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-4.png)
 
-1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Klik op **Volgende**.
+1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Als dit klaar is, klikt u op **Volgende**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
 
-1. Als uw eerste stap een e-mail is en u deze zodanig hebt geconfigureerd dat u kunt selecteren wanneer de campagne wordt gestart, kunt u het volgende doen: **Nu beginnen** of **Een nieuwe begintijd plannen**. Klik op **Start**.
+1. Als uw eerste stap een e-mail is en u deze zodanig hebt geconfigureerd dat u kunt selecteren wanneer de campagne wordt gestart, kunt u het volgende doen: **Nu beginnen** of **Een nieuwe begintijd plannen**. Als dit is voltooid, klikt u op **Start**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
 
@@ -88,11 +89,11 @@ Nadat u op Start hebt geklikt, wordt er een bevestigingsscherm weergegeven waari
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
-1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Klik op **Volgende**.
+1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Als dit klaar is, klikt u op **Volgende**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
-1. Als uw eerste stap een e-mail is en u deze zodanig hebt geconfigureerd dat u kunt selecteren wanneer de campagne wordt gestart, kunt u het volgende doen: **Nu beginnen** of **Een nieuwe begintijd plannen**. Klik op **Start**.
+1. Als uw eerste stap een e-mail is en u deze zodanig hebt geconfigureerd dat u kunt selecteren wanneer de campagne wordt gestart, kunt u het volgende doen: **Nu beginnen** of **Een nieuwe begintijd plannen**. Als dit is voltooid, klikt u op **Start**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 

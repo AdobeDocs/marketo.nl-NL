@@ -1,7 +1,8 @@
 ---
 description: Worden de meningen, de Klik, en de Reacties van de Ontvangers die in CC en de Sectie BCC van E-mail worden vermeld getraceerd krijgen? - Marketo Docs - Productdocumentatie
 title: Worden de meningen, de Klik, en de Reacties van de Ontvangers die in CC en de Sectie BCC van E-mail worden vermeld getraceerd krijgen?
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 83a76572-7fea-463b-b3fc-b6e9fe58c696
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

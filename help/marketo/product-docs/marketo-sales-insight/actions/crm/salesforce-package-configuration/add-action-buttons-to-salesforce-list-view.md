@@ -1,7 +1,8 @@
 ---
 description: Knoppen voor handelingen toevoegen aan de Salesforce List View - Marketo Docs - Productdocumentatie
 title: Knoppen voor handelingen toevoegen aan de Salesforce-lijstweergave
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+exl-id: 347cc5d2-dd7a-4221-b00f-812cf484938a
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze knopen maken deel uit van het pakket van het Inzicht van de Verkoop. Als u de knoppen die beschikbaar zijn om te worden geïnstalleerd in de lijstweergave niet ziet, moet u [upgrade uitvoeren van uw pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}.
+>Deze knoppen maken deel uit van het pakket Verkoopinzicht. Als u de knoppen die beschikbaar zijn om te worden geïnstalleerd in de lijstweergave niet ziet, moet u [upgrade uitvoeren van uw pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}.
 
 De knoppen voor handelingen die u wilt installeren zijn onder andere:
 

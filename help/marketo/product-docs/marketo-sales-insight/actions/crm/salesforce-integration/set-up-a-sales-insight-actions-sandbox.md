@@ -1,7 +1,8 @@
 ---
 description: Een sandbox Handelingen voor het toezicht op de verkoop instellen - Marketo Docs - Productdocumentatie
 title: Een sandbox Handelingen voor het toezicht op verkopen instellen
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+exl-id: 58af77ef-93ea-4149-be91-f86cdc8f7476
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Voer de onderstaande stappen uit om een instantie Actions in te stellen voor geb
 
 ## Een verzoek indienen voor een instantie Handelingen die moet worden geleverd aan uw Marketo-sandbox {#request=an-actions-instance}
 
-Handelingen voor verkoopinzicht zijn alleen ingeschakeld voor instanties van Marketo Sandbox. Neem contact op met het accountteam van Adobe (uw accountmanager) om een aanvraag in te dienen.
+Handelingen voor verkoopinzicht zijn alleen ingeschakeld voor instanties van Marketo Sandbox. Neem contact op met het accountteam van de Adobe (uw accountmanager) om een aanvraag in te dienen.
 
 ## Account voor handelingen instellen voor Marketo-sandbox {#provision-your-actions-account}
 
@@ -34,7 +35,7 @@ Als Handelingen zijn ingeschakeld voor uw Marketo-sandbox, moet u de onderstaand
 
 1. Meld u aan bij uw Marketo Sandbox-instantie.
 
-1. Navigeren naar **Beheer**.
+1. Navigeren naar **Beheerder**.
 
 1. Selecteren **Verkoopoverzicht**.
 
@@ -44,7 +45,7 @@ Als Handelingen zijn ingeschakeld voor uw Marketo-sandbox, moet u de onderstaand
    >
    >Een e-mailadres kan slechts voor één instantie van Acties over zowel Sandbox als de instanties van de Productie worden gebruikt. Als u een beheerder bent die toegang tot veelvoudige instanties over Productie en Sandbox zal vereisen, moet u een verschillend e-mailadres voor elk gebruiken.
 
-1. Selecteer in de inrichtingskaart de gebruiker die u wilt uitnodigen voor uw exemplaar Handelingen voor het inzicht in de verkoop.
+1. Selecteer in de inrichtingskaart de gebruiker die u wilt uitnodigen voor uw exemplaar Handelingen voor het toezicht op de verkoop.
 
 ## Activeren uw instantie van Acties {#activate-your-actions-instance}
 
@@ -72,7 +73,7 @@ Voor handelingen moet u eerst een nieuwe instantie activeren met een Salesforce-
 
 ## Vraag uw Instantie van Acties worden omgezet om compatibel met Uw zandbak van Salesforce te zijn {#request-your-actions-instance-be-converted}
 
-1. Contact [Marketo Engage-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om uw nieuwe instantie van de Acties van het Inzicht van de Verkoop aan te vragen wordt gevormd om compatibel met Sandbox Salesforce te zijn.
+1. Contact [Ondersteuning voor Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om uw nieuwe instantie van de Acties van het Inzicht van de Verkoop aan te vragen wordt gevormd om compatibel met Sandbox Salesforce te zijn.
 
 1. Test alles op de juiste wijze door u aan te melden met de knop &quot;Aanmelden met Salesforce&quot; op de pagina toutapp.com/login.
 
@@ -82,7 +83,7 @@ Voor handelingen moet u eerst een nieuwe instantie activeren met een Salesforce-
    >
    >Als u op dit moment problemen ondervindt, kunt u een verzoek indienen om het wachtwoord opnieuw in te stellen en een wachtwoord gebruiken om weer toegang te krijgen tot uw account.
 
-Uw instantie kan nu worden gebruikt met uw Salesforce Sandbox-instantie. Als je wilt gebruiken [Automatische aanmelding bij Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} from Salesforce, you can switch back to "Salesforce Only" in your [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+Uw instantie kan nu worden gebruikt met uw Salesforce Sandbox-instantie. Als u wilt gebruiken [Automatische aanmelding bij Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} from Salesforce, you can switch back to "Salesforce Only" in your [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
 >[!NOTE]
 >

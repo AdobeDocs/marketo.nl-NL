@@ -1,7 +1,8 @@
 ---
 description: Bulksgewijs verkoop-e-mail verzenden in Salesforce - Marketo Docs - Productdocumentatie
 title: Verkoop via e-mail verzenden in Salesforce gebruiken
-source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
+exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -18,7 +19,7 @@ Leer hoe u in Salesforce bulksgewijze e-mails kunt verzenden om uw uitgaande com
 
 >[!PREREQUISITES]
 >
->Controleer of u de [Het meest recente Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} in Salesforce.
+>Controleer of u de [Het meest recente verkooppakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} in Salesforce.
 
 ## Bulkmail verzenden in Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 
@@ -30,7 +31,7 @@ Leer hoe u in Salesforce bulksgewijze e-mails kunt verzenden om uw uitgaande com
 
    >[!TIP]
    >
-   >U kunt een nieuwe weergave maken door op het cogopictogram aan de rechterkant te klikken en **Nieuw**. Nadat u de weergave een nieuwe naam hebt gegeven en deze hebt opgeslagen, kunt u op het filterpictogram aan de rechterkant klikken om naar de gewenste set leads/contactpersonen die u wilt e-mailen, te gaan.
+   >U kunt een nieuwe weergave maken door op het cogopictogram rechts te klikken en **Nieuw**. Nadat u de weergave een nieuwe naam hebt gegeven en deze hebt opgeslagen, kunt u op het filterpictogram aan de rechterkant klikken om naar de gewenste set leads/contactpersonen die u wilt e-mailen, te gaan.
 
 1. Kies de gewenste lijst met leads of contactpersonen en klik op de knop **Verkoop-e-mail verzenden** knop.
 
@@ -50,7 +51,7 @@ Leer hoe u in Salesforce bulksgewijze e-mails kunt verzenden om uw uitgaande com
    >
    >Als u een sjabloon wilt aanpassen voor alle ontvangers en u klikt op de optie Alle ontvangers in de zijbalk Samenstellen bulk, kunt u alle gewenste e-mails tegelijk bewerken. Als u een wijziging wilt aanbrengen in een specifiek e-mailbericht, klikt u op de naam of het e-mailbericht van de ontvanger in het zijpaneel Samenstellen bulk. Houd er rekening mee dat als u wijzigingen aanbrengt in een afzonderlijke e-mail en vervolgens wijzigingen aanbrengt terwijl u Alle ontvangers selecteert, de wijzigingen die u aanbrengt in Alle ontvangers de wijzigingen overschrijven die in de afzonderlijke e-mail zijn aangebracht.
 
-1. Selecteren **Verzenden** om de e-mail onmiddellijk te verzenden, of **Schema instellen** om een datum en tijd in te stellen voor het verzenden van de e-mail.
+1. Selecteren **Verzenden** om de e-mail onmiddellijk te verzenden, of **Schema instellen** om een datum en tijd in te stellen voor het verzenden van het e-mailbericht.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-3.png)
 
@@ -86,4 +87,4 @@ Leer hoe u in Salesforce bulksgewijze e-mails kunt verzenden om uw uitgaande com
    >
    >Als u een sjabloon wilt aanpassen voor alle ontvangers en u klikt op de optie Alle ontvangers in de zijbalk Samenstellen bulk, kunt u alle gewenste e-mails tegelijk bewerken. Als u een wijziging wilt aanbrengen in een specifiek e-mailbericht, klikt u op de naam of het e-mailbericht van de ontvanger in het zijpaneel Samenstellen bulk. Houd er rekening mee dat als u wijzigingen aanbrengt in een afzonderlijke e-mail en vervolgens wijzigingen aanbrengt terwijl u Alle ontvangers selecteert, de wijzigingen die u aanbrengt in Alle ontvangers de wijzigingen overschrijven die in de afzonderlijke e-mail zijn aangebracht.
 
-1. Selecteren **Verzenden** om de e-mail onmiddellijk te verzenden, of **Schema instellen** om een datum en tijd in te stellen voor het verzenden van de e-mail.
+1. Selecteren **Verzenden** om de e-mail onmiddellijk te verzenden, of **Schema instellen** om een datum en tijd in te stellen voor het verzenden van het e-mailbericht.

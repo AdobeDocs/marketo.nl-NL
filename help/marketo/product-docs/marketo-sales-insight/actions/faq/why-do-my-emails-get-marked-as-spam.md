@@ -1,7 +1,8 @@
 ---
 description: Waarom worden mijn e-mails gemarkeerd als spam? - Marketo Docs - Productdocumentatie
 title: Waarom worden mijn e-mails gemarkeerd als spam?
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -14,7 +15,7 @@ Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoo
 
 **Uw instellingen controleren**
 
-* Aangepast domein bijhouden: Zo kunt u al uw trackingkoppelingen direct laten weergeven.&quot;uwdomein&quot; in plaats van go.toutapp. Bij e-mailbeveiliging wordt vastgesteld dat de e-mail afkomstig is van &quot;uwdomein&quot;, maar dat de koppeling wordt omgeleid naar go.toutapp. Door een koppeling naar een aangepast domein in te voeren die uw e-mails volgt, ziet deze er legitiem uit en is de kans groter dat de geadresseerde zijn postvak in raakt.
+* Aangepaste domeintracering: hiermee kunt u al uw trackingkoppelingen direct laten weergeven.&quot;uwdomein&quot; in plaats van go.toutapp. Bij e-mailbeveiliging wordt vastgesteld dat de e-mail afkomstig is van &quot;uwdomein&quot;, maar dat de koppeling wordt omgeleid naar go.toutapp. Door een koppeling naar een aangepast domein in te voeren die uw e-mails volgt, ziet deze er legitiem uit en is de kans groter dat de geadresseerde zijn postvak in raakt.
 
 **Controleer uw e-mailgedrag**
 

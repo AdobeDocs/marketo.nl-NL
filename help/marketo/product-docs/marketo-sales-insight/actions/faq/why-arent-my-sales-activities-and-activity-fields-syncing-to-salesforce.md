@@ -1,7 +1,8 @@
 ---
 description: Waarom synchroniseren mijn verkoopactiviteiten en activiteitsvelden niet met Salesforce? - Marketo Docs - Productdocumentatie
 title: Waarom synchroniseren mijn verkoopactiviteiten en activiteitsvelden niet met Salesforce?
-source-git-commit: c50f0f08914076a440026fb368bf38763b282bbf
+exl-id: 0836876d-1b89-4464-a841-81320a6e45fd
+source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 Als u geen e-mail ziet [activiteitskenmerkvelden](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} in Salesforce bijwerken, kan dit te wijten zijn aan beperkingen op de toegankelijkheid van velden van uw team. De veiligheid van het Niveau van het Gebied van Salesforce geeft Salesforce Admins de capaciteit om beperkingen te plaatsen rond welke informatie zichtbaar en editable door gebruikers is. Als gebruikers van Handelingen geen toegang hebben tot de weergave en het bewerken van deze velden, worden deze velden niet bijgewerkt via de activiteitensync van Handelingen.
 
 * Werk samen met uw Salesforce-beheerder om ervoor te zorgen dat deze beveiligingsinstellingen geen invloed hebben op [Handelingen Salesforce-activiteitenvelden](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}.
-* Als u een Admin Salesforce bent, kunt u uw Toegankelijkheid van het Gebied onder de Controles tabel van de Veiligheid zien. De belangrijkste objecten waarmee Handelingen zullen communiceren zijn: Leads, Contacten, Rekeningen, Kansen, en Taak/Activiteiten.
+* Als u een Admin Salesforce bent, kunt u uw Toegankelijkheid van het Gebied onder de Controles tabel van de Veiligheid zien. De belangrijkste objecten waarmee acties zullen communiceren, zijn: Leads, Contacten, Rekeningen, Kansen, en Taak/Activiteiten.
 
 >[!NOTE]
 >
