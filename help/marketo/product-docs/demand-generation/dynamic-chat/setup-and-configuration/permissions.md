@@ -3,7 +3,7 @@ description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 57e5bd8a9968c26c5431484fe06964f696299856
+source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 0%
@@ -154,22 +154,22 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
     <li>Conversatiestromen publiceren</li>
-    <br/>
-    <br/>
+    <br>
     <i>Live Chat</i>
     <li>nvt</li>
     <br>
-    <br/><i>Vergaderingen</i>
+    <i>Vergaderingen</i>
     <li>nvt</li>
     <br>
-    <br><i>Analyse</i>
+    <i>Analyse</i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <br>
-    <br><i>Instellingen agent</i>
+    <i>Instellingen agent</i>
     <li>nvt</li>
-    <br><i>Beheerinstellingen</i>
+    <br>
+    <i>Beheerinstellingen</i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Accountlijst weergeven <b>*</b></li>
@@ -179,27 +179,26 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   <tr>
     <td><b>Live Agent</b></td>
     <td><i>Conversatiebeheer</i>
-    <p>
     <li>Dialoogvensters weergeven</li>
     <li>Conversale stromen weergeven</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>Mijn gesprekken weergeven</li>
-    <p>
-    <p><i>Vergaderingen</i></p>
+    <br>
+    <i>Vergaderingen</i>
     <li>nvt</li>
-    <p>
-    <p><i>Analyse</i></p>
+    <br>
+    <i>Analyse</i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
-    <p>
-    <p><i>Instellingen agent</i></p>
+    <br>
+    <i>Instellingen agent</i>
     <li>Beschikbaarheid van live chat beheren</li>
     <li>Uw agenda verbinden</li>
     <li>Beschikbaarheid agenda beheren</li>
-    <p>
-    <p><i>Beheerinstellingen</i></p>
+    <br>
+    <i>Beheerinstellingen</i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Accountlijst weergeven <b>*</b></li>
@@ -209,26 +208,25 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   <tr>
     <td><b>Agenda-agent</b></td>
     <td><i>Conversatiebeheer</i>
-    <p>
     <li>Dialoogvensters weergeven</li>
     <li>Conversale stromen weergeven</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>nvt</li>
-    <p>
-    <p><i>Vergaderingen</i></p>
+    <br>
+    <i>Vergaderingen</i>
     <li>nvt</li>
-    <p>
-    <p><i>Analyse</i></p>
+    <br>
+    <i>Analyse</i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
-    <p>
-    <p><i>Instellingen agent</i></p>
+    <br>
+    <i>Instellingen agent</i>
     <li>Uw agenda verbinden</li>
     <li>Beschikbaarheid agenda beheren</li>
-    <p>
-    <p><i>Beheerinstellingen</i></p>
+    <br>
+    <i>Beheerinstellingen</i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Accountlijst weergeven <b>*</b></li>
@@ -238,30 +236,29 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   <tr>
     <td><b>Marketing Admin</b></td>
     <td><i>Conversatiebeheer</i>
-    <p>
     <li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
     <li>Dialoogvensters publiceren</li>
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
     <li>Conversatiestromen publiceren</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>nvt</li>
-    <p>
-    <p><i>Vergaderingen</i></p>
+    <br>
+    <i>Vergaderingen</i>
     <li>nvt</li>
-    <p>
-    <p><i>Analyse</i></p>
+    <br>
+    <i>Analyse</i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <li>Rapporten exporteren</li>
-    <p>
-    <p><i>Instellingen agent</i></p>
+    <br>
+    <i>Instellingen agent</i>
     <li>nvt</li>
-    <p>
-    <p><i>Beheerinstellingen</i></p>
+    <br>
+    <i>Beheerinstellingen</i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</li>
@@ -277,29 +274,28 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   <tr>
     <td><b>Verkoopbeheerder</b></td>
     <td><i>Conversatiebeheer</i>
-    <p>
     <li>Dialoogvensters weergeven</li>
     <li>Conversale stromen weergeven</li>
-    <p>
-    <p><i>Live Chat</i></p>
+    <br>
+    <i>Live Chat</i>
     <li>Mijn gesprekken weergeven</li>
     <li>Alle gesprekken weergeven</li>
-    <p>
-    <p><i>Vergaderingen</i></p>
+    <br>
+    <i>Vergaderingen</i>
     <li>Alle vergaderingen beheren</li>
-    <p>
-    <p><i>Analyse</i></p>
+    <br>
+    <i>Analyse</i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <li>Rapporten exporteren</li>
-    <p>
-    <p><i>Instellingen agent</i></p>
+    <br>
+    <i>Instellingen agent</i>
     <li>Beschikbaarheid van live chat beheren</li>
     <li>Uw agenda verbinden</li>
     <li>Beschikbaarheid agenda beheren</li>
-    <p>
-    <p><i>Beheerinstellingen</i></p>
+    <br>
+    <i>Beheerinstellingen</i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</li>
