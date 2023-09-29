@@ -3,7 +3,7 @@ description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
 feature: Dynamic Chat
 exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: 2dab494bd897bf1030b8c2253831e7626dfe6e67
+source-git-commit: feb7c04d056455c00cfe63a1ada17f7c34b509d3
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 0%
@@ -148,7 +148,6 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   <tr>
     <td>Gebruiker van marketing</td>
     <td><i>Conversatiebeheer</i>
-    <p>
     <li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
     <li>Dialoogvensters publiceren</li>
@@ -156,21 +155,21 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
     <li>Conversatiestromen publiceren</li>
     <p>
-    <p><i>Live Chat</i></p>
+    <i>Live Chat</i>
     <li>nvt</li>
     <p>
-    <p><i>Vergaderingen</i></p>
+    <br/><i>Vergaderingen</i>
     <li>nvt</li>
     <p>
-    <p><i>Analyse</i></p>
+    <br/><i>Analyse</i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <p>
-    <p><i>Instellingen agent</i></p>
+    <br/><i>Instellingen agent</i>
     <li>nvt</li>
     <p>
-    <p><i>Beheerinstellingen</i></p>
+    <br/><i>Beheerinstellingen</i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Accountlijst weergeven <b>*</b></li>
