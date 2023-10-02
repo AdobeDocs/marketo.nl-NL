@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 45bd5bac341e08cdb14c7ae2a08c97a5ebcba73c
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '9107'
+source-wordcount: '9111'
 ht-degree: 0%
 
 ---
@@ -1408,6 +1408,7 @@ ht-degree: 0%
                + [Bericht voor opzeggen van koppeling aanpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Abonnementen synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+               + [E-mailsjablonen voor transactieverkoop](product-docs/marketo-sales-insight/actions/email/unsubscribes/transactional-sales-email-templates.md)
             + Het venster Samenstellen gebruiken {#using-the-compose-window}
                + [Een bijlage of traceerbare inhoud toevoegen aan uw e-mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
                + [Opties voor bulke-mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)

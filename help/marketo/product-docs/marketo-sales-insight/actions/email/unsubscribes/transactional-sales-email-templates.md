@@ -4,9 +4,9 @@ title: E-mailsjablonen voor transactieverkoop
 hide: true
 hidefromtoc: true
 feature: Sales Insight Actions
-source-git-commit: d6a3d95ed42d1c08d69014e1aa013e7436bd06c2
+source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -25,34 +25,32 @@ Als uw team transactie- of niet-commerciële e-mailberichten verzendt, kunt u ee
 
 1. Klik in de kop op **Sjablonen**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-1.png)
 
-1. Zoek naar het malplaatje u wilt bijwerken.
+1. Zoek en selecteer de sjabloon die u wilt bijwerken.
 
-PICC
-
-1. Selecteer de sjabloon.
-
-PICC
+   ![](assets/transactional-sales-email-templates-2.png)
 
 1. Schakel de niet-commerciële e-mailschakeloptie in onder Sjablooninstellingen.
 
-PICC
+   ![](assets/transactional-sales-email-templates-3.png)
 
 ## Een niet-commerciële e-mail verzenden {#send-a-non-commercial-email}
 
-Wanneer een persoon die zich niet heeft geabonneerd is geselecteerd, worden deze oranje gemarkeerd.
+>[!NOTE]
+>
+>Wanneer een persoon die zich niet heeft geabonneerd is geselecteerd, worden deze oranje gemarkeerd.
 
-1. Selecteer in het samenstellingsvenster de niet-commerciële sjabloon die u wilt zien.
+1. Klik in de kop op **Samenstellen**. Zoek en selecteer de gewenste niet-commerciële sjabloon.
 
-PICC
+   ![](assets/transactional-sales-email-templates-4.png)
 
-1. Gebruikers zien een banner die hen laat zien dat zij momenteel een niet-commerciële e-mailsjabloon hebben geselecteerd.
+1. Gebruikers zien een banner waarop ze een niet-commerciële e-mailsjabloon kunnen selecteren.
 
-PICC
+   ![](assets/transactional-sales-email-templates-5.png)
 
 1. Klikken **Verzenden**.
 
-PICC
+   ![](assets/transactional-sales-email-templates-6.png)
 
 Het e-mailbericht wordt ook verzonden als de persoon het abonnement heeft opgezegd.
