@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 01bb763931e875630bbd9e32d0a4ecc200fef61c
+source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
 workflow-type: tm+mt
-source-wordcount: '9111'
+source-wordcount: '9104'
 ht-degree: 0%
 
 ---
@@ -481,7 +481,6 @@ ht-degree: 0%
             + [Personen in uw gebeurtenis controleren via uw tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Gebruikers toegang verlenen tot de Check-in-app](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Voorbereiden op uw gebeurtenis](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [De iPad- of Android-tablet instellen](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo Moments {#marketo-moments}
             + Momenten begrijpen {#understanding-moments}
                + [Marketo-momenten begrijpen](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
