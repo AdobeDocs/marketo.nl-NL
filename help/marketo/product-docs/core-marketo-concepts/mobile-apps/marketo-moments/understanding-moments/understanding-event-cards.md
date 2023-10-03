@@ -4,9 +4,9 @@ description: Werken met gebeurtenissenkaarten - Marketo Docs - Productdocumentat
 title: Gebeurteniskaarten
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Gebeurteniskaarten {#understanding-event-cards}
 
 Gebruik Marketo Moments om uw gebeurtenisprogramma&#39;s weer te geven op uw telefoon of iPad.
+
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Wanneer u op een e-mailprogrammakaart tikt, kunt u:
 

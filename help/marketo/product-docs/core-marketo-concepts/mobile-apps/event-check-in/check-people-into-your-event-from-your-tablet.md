@@ -4,9 +4,9 @@ description: Personen in uw gebeurtenis inchecken via uw tablet - Marketo Docs -
 title: Personen in uw gebeurtenis controleren via uw tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,15 @@ ht-degree: 0%
 
 Wanneer mensen bij de gebeurtenis verschijnen, kunt u hun informatie in de app vinden. Na de inchecking wordt de status Bijgewoond bevorderd wanneer u synchroniseert met Marketo.
 
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 De app werkt op zowel iPad als Android op dezelfde manier, behalve voor kleine layout- en ontwerpverschillen.
 
 >[!PREREQUISITES]
 >
->* Maak een gebeurtenis in Marketo en vul deze met Uitgenodigde en geregistreerde personen.
->* Download de tablet-app voor [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) of [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
+>* Maak een gebeurtenis in Marketo en vul deze met Uitgenodigde en Geregistreerde personen.
 
 ## Geregistreerde gasten inchecken {#check-in-registered-guests}
 
@@ -52,7 +55,7 @@ De app werkt op zowel iPad als Android op dezelfde manier, behalve voor kleine l
 
    >[!NOTE]
    >
-   >Het proces is hetzelfde op iPad en Android, maar de schermen verschillen en de items kunnen zich op verschillende locaties bevinden. Dit artikel heeft de iPad-interface. Vergelijk het Android-scherm in deze sectie ter referentie.
+   >Het proces is hetzelfde op iPad en Android, maar de schermen verschillen en de items kunnen zich op verschillende locaties bevinden. In dit artikel wordt de iPad-interface weergegeven. Vergelijk het Android-scherm in deze sectie ter referentie.
 
    **iPad**
 
@@ -94,7 +97,7 @@ U kunt gasten handmatig toevoegen die geen bestaande personen zijn in uw Marketo
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Vul zoveel mogelijk basisinformatievelden in als u kunt en tik op **Gereed**.
+1. Vul zo veel mogelijk basisinformatievelden in en tik op **Gereed**.
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -146,7 +149,7 @@ De Marketo Events-app werkt onafhankelijk totdat u uw activiteit weer synchronis
 
 1. Open de app op uw tablet en navigeer naar de gebeurtenis.
 
-1. Tikken **Synchroniseren**.
+1. Tikken **Sync**.
 
    Uw gebeurtenis wordt bijgewerkt met nieuwe inchecken in de Marketo-database. De rode teller op de knoop van de Synchronisatie ontruimt, tot u iemand anders binnen controleert.
 
@@ -161,7 +164,7 @@ Sommige locaties hebben slechte internettoegang. U hebt een goede verbinding nod
 * Een gebeurtenis selecteren
 * De app synchroniseren met Marketo
 
-Als u zich zorgen maakt over internettoegang op de locatie, kunt u zich aanmelden bij de Marketo Events-app en uw gebeurtenis vooraf selecteren op een locatie met sterke internettoegang. Op die manier kunt u de app nog steeds offline gebruiken. Wanneer u vervolgens weer een internetverbinding maakt, moet u deze meteen synchroniseren met de Marketo-database.
+Als u zich zorgen maakt over internettoegang op de locatie, kunt u zich aanmelden bij de Marketo Events-app en uw gebeurtenis vooraf selecteren op een locatie met sterke internettoegang. Zo kunt u de app nog steeds offline gebruiken. Wanneer u vervolgens weer een internetverbinding maakt, moet u deze meteen synchroniseren met de Marketo-database.
 
 >[!TIP]
 >

@@ -4,18 +4,22 @@ description: Analysecards - Marketo Docs - Productdocumentatie
 title: Analysecards
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
 # Analysecards {#understanding-analytics-cards}
 
-Aan het begin van elke maand, verstrekt Marketo Moments drie verschillende rapportkaarten: Opgehaalde Leads, Nieuwe Leads en Abonnement. Elk voorbeeld toont je maandelijkse prestaties en de trend over een periode van zes maanden.
+Aan het begin van elke maand, verstrekt Marketo Moments drie verschillende rapportkaarten: Verkregen lood, Nieuwe Leads, en Unsubscribes. Elk voorbeeld toont je maandelijkse prestaties en de trend over een periode van zes maanden.
 
-## Analysecards {#analytics-cards}
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
+## Kaarten voor analyse {#analytics-cards}
 
 Als u op een analysekaart tikt, kunt u:
 
@@ -37,7 +41,7 @@ In dit voorbeeld geeft rood aan dat de waarde is verlaagd over het geselecteerde
 
 ## Opgehaalde leads {#acquired-leads}
 
-De **Opgehaalde leads** op de kaart ziet u een trending month-over-month rapport van het aantal nieuwe leads.
+De **Opgehaalde leads** op de kaart ziet u een trending month-over-month report of the number of new leads.
 
 >[!NOTE]
 >

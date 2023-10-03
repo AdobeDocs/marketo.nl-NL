@@ -4,16 +4,20 @@ description: Slimme camerakaarten begrijpen - Marketo Docs - Productdocumentatie
 title: Slimme camerakaarten
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # Slimme camerakaarten {#understanding-smart-campaign-cards}
 
-Met Marketo Moments kunt u elk programma van uw slimme campagnes bekijken vanaf uw smartphone of iPad. De Marketo Moments Smart Campagne-kaart is één enkele serie campagnes. telkens wanneer de slimme campagne wordt uitgevoerd, wordt een nieuwe kaart weergegeven. De slimme campagnerekaarten zijn duidelijk met een gloeilamp bij de hogere linkerzijde.
+Gebruik Marketo-momenten om elke uitvoering van uw slimme campagnes vanaf uw smartphone of iPad weer te geven. De Marketo Moments Smart Campaign-kaart vertegenwoordigt één campagne. Elke keer dat de Smart Campaign wordt uitgevoerd, wordt er een nieuwe kaart weergegeven. De slimme kaarten van de Campagne worden duidelijk met een gloeilamp bij de hogere linkerzijde.
+
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Voor toekomstige slimme campagnes die gepland zijn maar nog niet zijn uitgevoerd, geeft de Marketo Moments-kaart nog geen campagnestatistieken weer. Ze verschijnen in een toekomstige release.
 
@@ -75,7 +79,7 @@ Het is een goed idee om een e-mail te bekijken voordat het naar buiten gaat. Of 
 
 Kaarten voor niet-bevestigde slimme campagnes zijn grijs totdat u ze bevestigt. Dan worden ze oranje.
 
-1. Tik op het actiemenu met de drie punten om een niet-bevestigde smartcard voor de campagne te bevestigen.
+1. Tik op het driepuntactiemenu om een niet-bevestigde Smart Campagne-kaart te bevestigen.
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -93,7 +97,7 @@ Kaarten voor niet-bevestigde slimme campagnes zijn grijs totdat u ze bevestigt. 
 
 ## Een Smart Campagne-uitvoering annuleren {#canceling-a-smart-campaign-run}
 
-U kunt een bevestigde, geplande slimme campagne annuleren.
+U kunt een bevestigde, geplande uitvoering van een slimme campagne annuleren.
 
 1. Tik op het drie actiemenu voor stippen.
 

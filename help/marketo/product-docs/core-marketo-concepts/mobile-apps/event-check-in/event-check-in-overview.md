@@ -3,18 +3,18 @@ description: Overzicht van inchecken van gebeurtenissen
 title: Overzicht van inchecken van gebeurtenissen
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
 # Overzicht van inchecken van gebeurtenissen {#event-check-in-overview}
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Deze app is niet compatibel met [Adobe Identiteitsverificatie](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} op dat moment.
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}. [Learn more](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Met de Marketo Events-app voor iPad of Android kunt u eenvoudig inchecken wanneer mensen bij uw gebeurtenis aankomen.
 

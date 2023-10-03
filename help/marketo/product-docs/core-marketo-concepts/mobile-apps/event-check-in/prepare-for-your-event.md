@@ -4,9 +4,9 @@ description: Voorbereiden op uw gebeurtenis - Marketo Docs - Productdocumentatie
 title: Voorbereiden op uw gebeurtenis
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,19 @@ ht-degree: 0%
 
 Er zijn verschillende dingen die u moet doen om klaar te zijn voor de gebeurtenis.
 
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 ## Een nieuwe Marketo-rol maken {#create-a-new-marketo-role}
 
 Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [Een nieuwe Marketo-rol maken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) voor iPad- of Android-gebruikers, met toestemming voor toegang tot de mobiele toepassing.
 
 ## Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis {#invite-new-tablet-users-to-the-event}
 
-[Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) en hen de nieuwe rol toewijzen.
+[Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) en hen de nieuwe rol toe te wijzen.
 
-## Nieuw Marketo-gebeurtenisprogramma maken {#create-a-new-marketo-event-program}
+## Een nieuw Marketo-gebeurtenisprogramma maken {#create-a-new-marketo-event-program}
 
 [Een nieuw Marketo-gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) om de status van uw mensen vast te leggen terwijl zij door verschillende fasen vorderen en nauwkeurige metingen van het rendement van uw marketinginitiatieven te krijgen.
 
@@ -41,7 +45,7 @@ Het is een momentopname om uw gebeurtenisdata in te stellen.
 
    >[!CAUTION]
    >
-   >Als de datum van de gebeurtenis meer dan een week voor of na de huidige datum ligt, wordt de gebeurtenis niet weergegeven in de app. **Tip**: Als u deze wilt testen, stelt u de datums tijdelijk in op binnen één week na vandaag. Denk eraan dat u de gebeurtenis terugzet naar de juiste datums nadat u de gebeurtenis hebt getest.
+   >Als de datum van de gebeurtenis meer dan een week voor of na de huidige datum ligt, wordt de gebeurtenis niet weergegeven in de app. **Tip**: Als u deze wilt testen, stelt u de datums tijdelijk in op binnen een week na vandaag. Denk eraan dat u de gebeurtenis terugzet naar de juiste datums nadat u de gebeurtenis hebt getest.
 
 ## Personen aan uw gebeurtenis toevoegen {#add-people-to-your-event}
 

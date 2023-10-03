@@ -4,9 +4,9 @@ description: Werken met e-mailprogrammakaarten - Marketo Docs - Productdocumenta
 title: E-mailprogrammakaarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,17 @@ ht-degree: 0%
 
 Marketo Moments gebruiken om uw e-mailprogramma&#39;s te bekijken vanaf uw telefoon of iPad.
 
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 ## E-mailprogrammakaarten {#email-program-cards}
 
 Wanneer u op een e-mailprogrammakaart tikt, kunt u:
 
 * [Een e-mailadres als favoriet instellen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
 * [Een e-mail markeren zoals deze is voltooid](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Een e-mailmomentkaart delen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Een e-mailgebeurtenissenkaart delen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Op een e-mailprogrammakaart voor een e-mailbericht dat nog niet is verzonden, vindt u informatie over de status en het publiek van dat e-mailprogramma.
 

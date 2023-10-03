@@ -4,9 +4,9 @@ description: Marketo-momenten begrijpen - Marketo-documenten - productdocumentat
 title: Marketo-momenten begrijpen
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 De kracht van Marketo ligt nu letterlijk in uw handen! Geef een voorbeeld van e-mailberichten weer en voer deze opnieuw in vanaf je telefoon of iPad.
 
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+
 >[!NOTE]
 >
->Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om [uw rol bijwerken](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
-
->[!AVAILABILITY]
->
->Deze app is niet compatibel met [Adobe Identiteitsverificatie](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} op dat moment.
+>_Mobiele apps openen_ toestemming is vereist. Neem contact op met uw Marketo-beheerder om [uw rol bijwerken](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 

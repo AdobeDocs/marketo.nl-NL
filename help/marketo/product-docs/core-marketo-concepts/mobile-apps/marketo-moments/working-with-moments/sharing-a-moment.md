@@ -4,16 +4,20 @@ description: Een moment delen - Marketo Docs - Productdocumentatie
 title: Een moment delen
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 # Een moment delen {#sharing-a-moment}
 
-Wilt u uw team bijwerken? U hebt twee opties om delen te selecteren:
+Wilt u uw team bijwerken? U hebt twee opties om delen te selecteren.
+
+>[!IMPORTANT]
+>
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. Tik op de knop **Delen** op de kaart.
 
