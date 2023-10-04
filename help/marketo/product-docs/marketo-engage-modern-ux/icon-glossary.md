@@ -3,9 +3,9 @@ description: Woordenlijst pictogrammen - Marketo Docs - Productdocumentatie
 title: Woordenlijst met pictogrammen
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b635cecbdca47944dd92127b668a956fdc8c9509
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <th>Beschrijving</th> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/account-smart-list.png"></td> 
    <td>Slimme accountlijst</td> 
   </tr>
@@ -51,7 +51,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
    <td><img src="assets/email-program.png"></td> 
-   <td>E-mailprogramma</td> 
+   <td>Email Program</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-template.png"></td> 
@@ -61,7 +61,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
   <tr>
    <td><img src="assets/classic-engagement-program.png"></td> 
    <td><img src="assets/engagement-program.png"></td> 
-   <td>Betrokkenheidsprogramma</td> 
+   <td>Programma voor betrokkenheid</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-event-program.png"></td> 
@@ -84,7 +84,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <td>Filter</td> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/filter-active.png"></td> 
    <td>Filter - actief</td> 
   </tr>
@@ -97,6 +97,11 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <td><img src="assets/classic-archive-folder.png"></td> 
    <td><img src="assets/folder-archive.png"></td> 
    <td>Map - gearchiveerd</td> 
+  </tr>
+  <tr>
+   <td><img src="assets/classic-folder-shared.png"></td> 
+   <td><img src="assets/folder-shared.png"></td> 
+   <td>Map - gedeeld</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-locked-folder.jpg"></td> 
@@ -159,7 +164,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <td>Rapport</td> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/search.png"></td> 
    <td>Zoeken</td> 
   </tr>
@@ -214,7 +219,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <td>Trigger - actief</td> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/trigger-inactive.png"></td> 
    <td>Trigger - inactief</td> 
   </tr>
@@ -273,7 +278,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td> 
    <td><img src="assets/used-by-nurture.png"></td> 
-   <td>Gebruikt door natuur</td> 
+   <td>Gebruikt door Verloop</td> 
   </tr>
  </tbody>
 </table>
@@ -298,7 +303,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <td>Is aangevraagd</td> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/inactive.png"></td> 
    <td>Inactief</td> 
   </tr>
@@ -389,7 +394,7 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <td>Gepauzeerd</td> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/inapp-scheduled.png"></td> 
    <td>Gepland</td> 
   </tr>
@@ -438,17 +443,17 @@ Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. 
    <th>Beschrijving</th> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/approved-under-calculation.png"></td> 
    <td>Goedgekeurd - onder berekening</td> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/approved-under-recalculation.png"></td> 
    <td>Goedgekeurd - onder herberekening</td> 
   </tr>
   <tr>
-   <td><strong>n.v.t.</strong></td> 
+   <td><strong>nvt</strong></td> 
    <td><img src="assets/draft-under-calculation.png"></td> 
    <td>Concept - onderberekening</td> 
   </tr>
