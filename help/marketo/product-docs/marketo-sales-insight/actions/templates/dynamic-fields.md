@@ -3,9 +3,9 @@ description: Dynamische velden - Marketo Docs - Productdocumentatie
 title: Dynamische velden
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{
 
 >[!TIP]
 >
->Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar Handelingen voor het toezicht op de verkoop als naar Salesforce kijken. Dat betekent dat er geen contact bestaat in het [webtoepassing](https://toutapp.com/login)En dan kijken we in Salesforce of we een contact-/lead-record kunnen vinden met een bijbehorend e-mailadres. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
+>Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar Handelingen voor het toezicht op de verkoop als naar Salesforce kijken. Dat betekent dat er geen contact bestaat in het [webtoepassing](https://toutapp.com/login)En dan kijken we in Salesforce of we een contact/lead record kunnen vinden met een bijbehorend e-mailadres. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
 
 ## Een dynamisch veld invoegen in een sjabloon {#insert-a-dynamic-field-into-a-template}
 
@@ -54,14 +54,16 @@ Dit gereedschap wordt gebruikt om `auto-personalize your email` en bespaar u vee
 
 | Dynamisch veld | Voorbeeld van wat er in uw e-mail wordt weergegeven |
 |---|---|
-| `{{company}}` | Marketo |
-| `{{company_friendly}}` | Marketo |
+| `{{company}}` | Adobe |
+| `{{company_friendly}}` | Adobe |
 | `{{first_name}}` | Keith |
-| `{{friendly_unsubscribe}}` | Als je niet meer van mij wilt horen, laat het me hier weten |
-| `{{my_name}}` | Alan Bradley |
+| `{{team_unsubscribe}}` | Klik hier als je geen e-mails meer van ons wilt ontvangen |
+| `{{friendly_unsubscribe}}` | Heb je genoeg van alle e-mails? Laat het me even weten |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.marketo.com |
+| `{{work_website}}` | https://www.adobe.com |
 
 **Notities**:
 
@@ -69,6 +71,7 @@ Dit gereedschap wordt gebruikt om `auto-personalize your email` en bespaar u vee
 * Het verschil tussen `{{company}}` en `{{company_friendly}}` is `{{company_friendly}}` zal om het even welke formele titel, zoals Inc., LLC., enz., van de naam van het bedrijf van uw contact verwijderen.
 * Wanneer u `{{company_friendly}}`, moet u Inc. of Co. scheiden met een komma in de contactgegevens. Dit is hoe de Acties van het Inzicht van de Verkoop weten wat te verwijderen wanneer het trekken in de waarde.
 * U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{{my_name}}` of `{{my_title}}`. Met deze velden kunt u snel naar uzelf verwijzen in uw e-mailsjablonen.
+* Als u het `{{my_signature}}` dynamisch veld, voegt het systeem niet automatisch de handtekening van de gebruiker toe om duplicaten te voorkomen.
 
 >[!TIP]
 >
