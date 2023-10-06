@@ -4,10 +4,10 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 72845f270a3490f273cd833c05ad9aec0549c84c
+source-git-commit: aa7008300a32e3e6e311224ece73200add708e65
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 **Geen**: De maand/jaar van elke vrijgave. Zodra deze beschikbaar is, worden de opmerkingen bij de release gekoppeld in de onderstaande tabel.
 
-**Releasedatum**: Doorgaans begint de rollout op dinsdag van de releaseweek, waarbij het grootste deel van de upgrade vrijdagavond plaatsvindt. Er wordt een e-mail verzonden met specifieke datums en releasedetails. De vermelde datum is voor de vrijdag update.
+**Releasedatum**: Doorgaans wordt de rollout gestart op dinsdag van de releaseweek, waarbij meer van de upgrade plaatsvindt op vrijdagavond. De vermelde datum is voor de vrijdag update.
 
 **Status**:
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 * Bezig - De functies van de release worden momenteel geïmplementeerd
 * Verzonden - De release is voltooid
 
-_Releasedatums kunnen worden gewijzigd_
+_Releasedatums/-functies kunnen worden gewijzigd_
 
 <table> 
  <colgroup> 
