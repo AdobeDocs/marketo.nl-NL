@@ -4,16 +4,16 @@ description: Een veld verbergen en verbergen - Marketo Docs - Productdocumentati
 title: Een veld verbergen en verbergen opheffen
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 7663965cd18d52a7ad452be3076759c4be95bf98
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
 
 # Een veld verbergen en verbergen opheffen {#hide-and-unhide-a-field}
 
-Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruikersinterface zodat het niet meer wordt weergegeven in de toepassing.
+Als u een veld in Marketo Engage niet meer gebruikt, kunt u het verbergen in de gebruikersinterface zodat het niet meer wordt weergegeven in de toepassing.
 
 ## Een veld verbergen {#hide-a-field}
 
@@ -35,7 +35,8 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    >[!NOTE]
    >
-   >Als u een veld wilt verbergen, mag het niet worden gekoppeld aan andere elementen (inclusief gearchiveerde elementen). Verwijder het veld uit alle slimme lijsten, stapsgewijze keuzes, formulieren, e-mails enzovoort voordat u het verbergt.
+   >* Als u een veld wilt verbergen, mag het niet worden gekoppeld aan andere elementen (inclusief gearchiveerde elementen). Zorg ervoor dat u het veld uit alle slimme lijsten, keuzemogelijkheden voor stroomstappen, formulieren, e-mails enzovoort verwijdert voordat u het veld verbergt.
+   >* U kunt standaardvelden (systeemvelden) niet verbergen.
 
 1. Klikken **[!UICONTROL Hide]** ter bevestiging.
 
@@ -59,8 +60,5 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   Geweldig werk! Nu weet u hoe u de velden kunt verbergen en weer zichtbaar kunt maken in de gebruikersinterface van Marketo.
+   Geweldig werk! Nu weet u hoe u velden kunt ontgrendelen en opnieuw zichtbaar kunt maken.
 
-   >[!TIP]
-   >
-   >Wilt u dat een massa voor verbergen/verbergen wordt uitgevoerd? Contact opnemen met Marketo Professional Services: services@marketo.com.
