@@ -4,9 +4,9 @@ description: LinkedIn-leadgen. Forms - Marketo Docs - Productdocumentatie instel
 title: LinkedIn-leadgen. Forms instellen
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ Gebruik LinkedIn Lead Gen Forms om advertentiecampagnes in LinkedIn uit te voere
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar Marketo **Beheer**.
+>[!NOTE]
+>
+>Een lead van LinkedIn komt niet in Marketo Engage als deze overeenkomt met een bestaand persoonrecord in Marketo dat is gekoppeld aan een bedrijfsrecord dat is gemaakt met behulp van Company API&#39;s en het Marketo-abonnement geen verbinding heeft met een CRM.
+
+1. Ga naar Marketo **Beheerder**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
@@ -39,7 +43,7 @@ Gebruik LinkedIn Lead Gen Forms om advertentiecampagnes in LinkedIn uit te voere
 
    ![](assets/linkedin-login.png)
 
-1. Nadat u zich hebt aangemeld bij LinkedIn, gaat u terug naar Marketo en klikt u op **Autoriseren**.
+1. Ga terug naar Marketo nadat u zich hebt aangemeld bij LinkedIn en klik op **Autoriseren**.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
@@ -53,7 +57,7 @@ Gebruik LinkedIn Lead Gen Forms om advertentiecampagnes in LinkedIn uit te voere
 
    >[!CAUTION]
    >
-   >De dienst verloopt automatisch één jaar na vergunning. Om toegang te herstellen klikt u gewoon op **Opnieuw autoriseren**. U moet mogelijk uw LinkedIn-wachtwoord opnieuw invoeren, afhankelijk van uw browserinstellingen.
+   >De dienst verloopt automatisch één jaar na vergunning. Om toegang te herstellen klikt u gewoon op **Opnieuw goedkeuren**. U moet mogelijk uw LinkedIn-wachtwoord opnieuw invoeren, afhankelijk van uw browserinstellingen.
 
 1. Selecteer de account(s) waarvan u wilt dat LinkedIn Lead Gen uit Marketo komt en klik op **Volgende**.
 
