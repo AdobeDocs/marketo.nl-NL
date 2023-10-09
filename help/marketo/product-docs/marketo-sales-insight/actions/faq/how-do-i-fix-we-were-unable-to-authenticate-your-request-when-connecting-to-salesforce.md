@@ -3,9 +3,9 @@ description: Hoe los ik "Wij konden uw verzoek niet voor authentiek verklaren"wa
 title: Hoe bevestig ik "wij konden uw verzoek"niet verklaren wanneer het verbinden met Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: b09bff5fe72e5cce86ab4664e264edb181fa3e5c
+source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Deze fout wijst typisch op u een douanedomein hebt dat wij niet aan kunnen leide
 
 Als de instantie u probeert om met een domein te verbinden Salesforce Sandbox is en u een fout krijgt, zult u door extra stappen moeten gaan om uw instantie bij te werken om Salesforce Sandbox compatibel te zijn. [Meer informatie](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
-## Oauth App Blocked en andere fouttypen oplossen {#resolve-oauth-app-blocked-and-other-error-types}
+## Oauth-app geblokkeerd oplossen {#resolve-oauth-app-blocked}
 
 Als u het foutbericht &quot;We konden uw verzoek niet verifiëren&quot; ontvangt met het fouttype Oauth App Blocked of een ander type in de URL, is er mogelijk een beperking op uw toegang tot de API van Salesforce. Neem contact op met uw Salesforce Admin om te controleren of de volgende functies aanwezig zijn.
 
