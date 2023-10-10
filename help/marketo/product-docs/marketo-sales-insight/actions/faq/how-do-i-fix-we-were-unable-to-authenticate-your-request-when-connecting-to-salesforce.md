@@ -3,7 +3,7 @@ description: Hoe los ik "Wij konden uw verzoek niet voor authentiek verklaren"wa
 title: Hoe bevestig ik "wij konden uw verzoek"niet verklaren wanneer het verbinden met Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: e6d939eca9731dc9df8ea506090a049e8741fa07
+source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Als de instantie u probeert om met een domein te verbinden Salesforce Sandbox is
 
 ## Oauth-app geblokkeerd oplossen {#resolve-oauth-app-blocked}
 
-Als u het foutbericht &quot;We konden uw verzoek niet verifiëren&quot; ontvangt met het fouttype Oauth App Blocked of een ander type in de URL, is er mogelijk een beperking op uw toegang tot de API van Salesforce. Neem contact op met uw Salesforce Admin om te controleren of de volgende functies aanwezig zijn.
+Als u het foutbericht &quot;We konden uw verzoek niet verifiëren&quot; hebt ontvangen met het fouttype Oauth App Blocked (of een ander type) in de URL, is er mogelijk een beperking op uw toegang tot de API van Salesforce. Neem contact op met uw Salesforce Admin om ervoor te zorgen dat de onderstaande zaken aanwezig zijn.
 
 ### API inschakelen in gebruikersmachtigingen {#enable-api-in-user-permissions}
 
