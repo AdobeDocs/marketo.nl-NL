@@ -4,7 +4,7 @@ description: Werken met Standard Smart List Rule Logic - Marketo Docs - Productd
 title: Werken met Standard Smart List Rule Logic
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -13,28 +13,28 @@ ht-degree: 0%
 
 # Werken met Standard Smart List Rule Logic {#using-standard-smart-list-rule-logic}
 
-Mogelijk hebt u de optie Filters gebruiken opgemerkt bij het samenstellen van slimme lijsten voor de campagne. Met deze instelling kunt u bepalen of de filters moeten worden geëvalueerd met een operator AND of OR.
+Mogelijk hebt u de optie Filters gebruiken opgemerkt bij het maken van slimme lijsten voor campagnes. Met deze instelling kunt u bepalen of de filters moeten worden geëvalueerd met een operator AND of OR.
 
-![](assets/image2014-9-22-14-3a12-3a42.png)
+![](assets/using-standard-smart-list-rule-logic-1.png)
 
 >[!NOTE]
 >
 >Het wijzigen van de logica van de regel voor slimme lijsten is alleen van toepassing op filters. **niet** triggers.
 
-Triggers worden altijd geëvalueerd als OR, zelfs als de bovenstaande instelling op ALL is ingesteld.  Hier volgt een voorbeeld:
+Triggers worden altijd geëvalueerd als OR, zelfs als de bovenstaande instelling op ALL is ingesteld. Hier volgt een voorbeeld:
 
-![](assets/image2014-9-22-14-3a12-3a57.png)
+![](assets/using-standard-smart-list-rule-logic-2.png)
 
 De bovenstaande slimme lijst in woorden:
 
 ```box
-IF person fills out My Form
+IF person fills out Great Form
 OR
-IF person visits My Page 
+IF person visits Keith's Landing Page 
 AND 
-Industry is Marketing 
+Industry is Energy 
 AND 
-Country is USA 
+Country is US 
 THEN follow the campaign's flow step(s)
 ```
 
