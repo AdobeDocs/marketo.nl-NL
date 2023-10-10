@@ -4,9 +4,9 @@ description: Een universele id gebruiken voor aanmelding bij een abonnement - Ma
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -55,16 +55,16 @@ Gebruikend een Universele identiteitskaart, kunt u het abonnement zien u wordt g
 
 Wanneer u zich afmeldt en weer inlogt, meldt Marketo u automatisch aan bij het abonnement waar u het laatst bent aangemeld. U kunt desgewenst overschakelen naar een ander abonnement.
 
-## Community-profielen {#community-profiles}
+## Profielen van community {#community-profiles}
 
 Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen. Wij adviseren dat u login kiest die met uw actiefste gemeenschapsprofiel verbonden is.
 
-## Mobiel Platform {#mobile-platform}
+## Mobiel platform {#mobile-platform}
 
-Gebruikers met een Universal ID kunnen hun gegevens op Marketo Moments en de iPad-toepassing voor het inchecken van gebeurtenissen bekijken via het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
+Gebruikers met een Universal ID kunnen hun gegevens zien op [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} uit het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
 
 >[!MORELIKETHIS]
 >
->* [Eén aanmelding toevoegen aan een portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Alleen gebruikersaanmelding beperken tot SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
->* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [Eén aanmelding toevoegen aan een portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
+>* [Alleen gebruikersaanmelding beperken tot SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
