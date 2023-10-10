@@ -4,9 +4,9 @@ description: Een universele id gebruiken voor aanmelding bij een abonnement - Ma
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: b633a81cce39c89d63c2445fa197dbd6d7e6c57c
+source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen
 
 ## Mobiel platform {#mobile-platform}
 
-Gebruikers met een Universal ID kunnen hun gegevens zien op [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} uit het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
+Gebruikers met een Universal ID kunnen hun gegevens zien op [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} van het abonnement waar ze zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
 
 >[!MORELIKETHIS]
 >
