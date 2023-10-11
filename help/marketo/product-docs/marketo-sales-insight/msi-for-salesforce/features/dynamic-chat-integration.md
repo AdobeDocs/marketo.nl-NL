@@ -1,24 +1,26 @@
 ---
 description: Integratie van Dynamics Chat - Marketo Docs - Productdocumentatie
-title: Dynamische chatintegratie
+title: Dynamic Chat-integratie
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
-# Dynamische chatintegratie {#dynamic-chat-integration}
+# Dynamic Chat-integratie {#dynamic-chat-integration}
 
 Meer weten over de integratie van Dynamics Chat met Sales Insight?
 
 >[!PREREQUISITES]
 >
->* Het SFDC-pakket voor het instellen van verkoopgegevens moet een versie zijn [1,9 of hoger](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Het SFDC-pakket voor het instellen van verkoopgegevens moet een versie zijn [2.4.0 of hoger](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* U moet beschikken over de [Dynamic Chat-integratie](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} instellen
+>* U moet beschikken over [Integratie van Dynamics Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} instellen
+>
+>* Zorg ervoor dat je verkoopgegevens worden weergegeven [Operationele instellingen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
@@ -30,7 +32,7 @@ Volg de onderstaande stappen om de integratie van de Dynamic Chat in te schakele
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Selecteer **Gegevens Dynamic Chat inschakelen** selectievakje.
+1. Selecteer de **Gegevens Dynamic Chat inschakelen** selectievakje.
 
    ![](assets/dynamic-chat-integration-2.png)
 
@@ -38,13 +40,13 @@ Volg de onderstaande stappen om de integratie van de Dynamic Chat in te schakele
 
 De volgende activiteiten van de Dynamic Chat kunnen door de gebruikers van het Inzicht van de Verkoop worden gebruikt...
 
-Dialoogvenster Ingesloten: Aangemeld in Marketo en ingevuld in Sales Insight wanneer een bezoeker op een chatbot klikt en de dialoog aansluit.
+Dialoogvenster Ingesloten: Wordt geregistreerd in Marketo en gevuld in Sales Insight wanneer een bezoeker op een chatbot klikt en de dialoog aansluit.
 
 * Dialoognaam
 * Pagina-URL
 * Status (geïnitieerd/verwijderd/voltooid)
 
-Geplande benoeming: Aangemeld in Marketo en ingevuld in Sales Insight wanneer een bezoeker een afspraak via het chatbot heeft gepland.
+Geplande benoeming: Aangemeld in Marketo en ingevuld in Sales Insight wanneer een bezoeker met succes een afspraak plant via het chatbot.
 
 * Dialoognaam
 * Agent
@@ -52,13 +54,13 @@ Geplande benoeming: Aangemeld in Marketo en ingevuld in Sales Insight wanneer ee
 * Gepland op (datum- en tijdstempel invoegen)
 * Status (Gepland, Opnieuw gechedeld, Geannuleerd)
 
-Doel bereikt: Aangemeld in Marketo en ingevuld in Verkoopinzicht wanneer een bezoeker een doel bereikt in een willekeurige dialoogstroom.
+Streepjesdoel bereikt: Wordt geregistreerd in Marketo en gevuld in Verkoopinzicht wanneer een bezoeker een doel bereikt in een willekeurige dialoogstroom.
 
 * Dialoognaam
 * Doelnaam
 * Pagina-URL
 
-Interactie met document: Aangemeld in Marketo en ingevuld in Sales Insight wanneer een bezoeker communiceert met een document dat via het chatbot wordt gedeeld.
+Interactief met document: Wordt geregistreerd in Marketo en gevuld in Sales Insight wanneer een bezoeker communiceert met een document dat via het chatbot wordt gedeeld.
 
 * Dialoognaam
 * Document
