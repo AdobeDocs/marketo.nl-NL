@@ -3,7 +3,7 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 2%
@@ -26,8 +26,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
  <tbody> 
   <tr> 
    <th style="width:65%">Functie</th> 
-   <th style="width:15%">Status</th>
-   <th style="width:20%">Documentatie</th>
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Documentatie</th>
   </tr> 
   <tr> 
    <td><strong>Nieuw ontwerp voor rapportconfiguratie in Modern UX</strong>: Wanneer u een rapportelement instelt, hebt u een <a href="https://nation.marketo.com/t5/product-blogs/analytic-modal-updates/ba-p/340321" target="_blank">nieuwe middelenstructuur</a> in het configuratiemenu evenals de capaciteit om op gecreeerde en gewijzigde datum te filtreren.</td> 
