@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 215f32a43715b0e2d3794890e245675265748f09
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '340'
 ht-degree: 2%
 
 ---
@@ -53,8 +53,9 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
    <tr> 
    <td><strong>Opname downloaden en cohost toewijzen in interactieve webinars</strong>: U kunt nu een externe cohost voor uw webinar toevoegen als de oorspronkelijke host niet beschikbaar is. U kunt nu ook de webinar-opname downloaden.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#webinar-recording" target="_blank">Opname downloaden</a></li>
+   <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md" target="_blank">Een interactief webinar maken</a></li></td>
   </tr>
  </tbody> 
 </table>

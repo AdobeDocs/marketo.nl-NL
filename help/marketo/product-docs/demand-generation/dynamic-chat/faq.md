@@ -2,9 +2,10 @@
 description: Veelgestelde vragen over Dynamics Chat - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over Dynamic Chat
 feature: Dynamic Chat
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
+source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Het JavaScript-fragment voor Dynamics Chat kan op elke website en op elke bestem
 
 **Steunt de Dynamic Chat om het even welke talen behalve Engels?**
 
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in [De taal wijzigen](#changing-the-language).
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in [De taal wijzigen](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
@@ -80,6 +81,10 @@ Dit geeft meestal aan dat de kalenderverbinding opnieuw moet worden geverifieerd
 **Wat is het verschil tussen een Dialoog en een Conversationele Stroom?**
 
 Een dialoog is een gesprek dat automatisch wordt getoond aan Webbezoekers die aan een bepaalde reeks het richten criteria voldoen. Een gespreksstroom wordt alleen weergegeven aan bezoekers die een specifieke handeling op het web uitvoeren, zoals op een knop drukken.
+
+**Is er een manier om Dynamic Chat aan boekvergaderingen direct van een e-mail te gebruiken?**
+
+Ja! [Meer informatie](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **Kan ik Dynamic Chat zonder Marketo Engage gebruiken?**
 
