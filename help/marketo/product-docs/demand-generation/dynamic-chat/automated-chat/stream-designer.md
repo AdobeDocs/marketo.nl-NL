@@ -2,10 +2,10 @@
 description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
-exl-id: 5afc7abd-a57b-467a-9356-5332964f997c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
+source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1107'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  </tr>
  <tr>
   <td><strong>Handeling</strong></td>
-  <td>Net als verborgen velden in een formulier kunt u met de actiekaart elk aanloop- of bedrijfskenmerk vullen met impliciete waarden die u wilt vastleggen op basis van een hoofdrecord. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.</td>
+  <td>Vergelijkbaar met verborgen velden in een formulier, kunt u met de actiekaart elk lead- of bedrijfskenmerk vullen (met een <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">gegevenstype tekenreeks</a>) met impliciete waarden die u wilt vastleggen op basis van een hoofdrecord. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.</td>
  </tr>
  <tr>
   <td><strong>Live Chat</strong></td>
