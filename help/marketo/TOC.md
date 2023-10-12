@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: 639bb1404117607af116122b410479d37ae32fad
 workflow-type: tm+mt
-source-wordcount: '9102'
+source-wordcount: '9094'
 ht-degree: 0%
 
 ---
@@ -192,7 +192,6 @@ ht-degree: 0%
          + [Je Marketo-wachtwoord wijzigen](product-docs/administration/settings/change-your-marketo-password.md)
          + [Beveiligingsinstellingen voor wachtwoord wijzigen](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Een aangepast tabblad maken voor de detailpagina voor personen](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [De URL&#39;s van uw bestemmingspagina aanpassen met een CNAME](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md)
          + [Accountinstellingen bewerken](product-docs/administration/settings/edit-account-settings.md)
          + [Browserondersteuningsinstellingen &quot;Niet bijhouden&quot; bewerken](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Instellingen openingspagina bewerken](product-docs/administration/settings/edit-landing-page-settings.md)
