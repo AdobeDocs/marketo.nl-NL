@@ -4,9 +4,9 @@ description: Voorbereiden op uw gebeurtenis - Marketo Docs - Productdocumentatie
 title: Voorbereiden op uw gebeurtenis
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Er zijn verschillende dingen die u moet doen om klaar te zijn voor de gebeurteni
 
 ## Een nieuwe Marketo-rol maken {#create-a-new-marketo-role}
 
-Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [Een nieuwe Marketo-rol maken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) voor iPad- of Android-gebruikers, met toestemming voor toegang tot de mobiele toepassing.
+Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [Een nieuwe Marketo-rol maken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for [!DNL iPad] of [!DNL Android] gebruikers, met toestemming om de mobiele toepassing te openen.
 
 ## Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis {#invite-new-tablet-users-to-the-event}
 
@@ -39,7 +39,7 @@ Het is een momentopname om uw gebeurtenisdata in te stellen.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Omhoog schuiven om te wijzigen **Tentatief** tot **Bevestigd**.
+1. Omhoog schuiven om te wijzigen **[!UICONTROL Tentative]** tot **[!UICONTROL Confirmed]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
@@ -49,29 +49,29 @@ Het is een momentopname om uw gebeurtenisdata in te stellen.
 
 ## Personen aan uw gebeurtenis toevoegen {#add-people-to-your-event}
 
-Nu ken je de *wanneer*, is het tijd om de *wie*.
+Nu ken je de _wanneer_, is het tijd om de *wie*.
 
-1. Als je al een lijst met personen hebt, klik je in Mijn Marketo op **Database** tegel.
+1. Als je al een lijst met personen hebt, klik je in Mijn Marketo op **[!UICONTROL Database]** tegel.
 
    ![](assets/db.png)
 
-1. Selecteer een lijst met personen en klik op de knop **Mensen** tab.
+1. Selecteer een lijst met personen en klik op de knop **[!UICONTROL People]** tab.
 
    ![](assets/four.png)
 
-1. Selecteer in de lijst de personen voor uw gebeurtenis. Gebruiken **Ctrl** (of **Opdracht** op een Mac) om op meerdere personen te klikken, of **Alles selecteren** om ze allemaal te markeren.
+1. Selecteer in de lijst de personen voor uw gebeurtenis. Gebruiken **[!UICONTROL Ctrl]** (of **[!UICONTROL Command]** op een Mac) om op meerdere personen te klikken, of **[!UICONTROL Select All]** om ze allemaal te markeren.
 
    ![](assets/five.png)
 
-1. Klikken **Persoonlijke handelingen**, aanwijzen **Programma&#39;s** en selecteert u **Programmastatus wijzigen**.
+1. Klikken **[!UICONTROL Person Actions]**, aanwijzen **[!UICONTROL Programs]** en selecteert u **[!UICONTROL Change Program Status]**.
 
    ![](assets/six.png)
 
-1. Klik op de knop **Programma** vervolgkeuzelijst en selecteer uw gebeurtenis.
+1. Klik op de knop **[!UICONTROL Program]** vervolgkeuzelijst en selecteer uw gebeurtenis.
 
    ![](assets/seven.png)
 
-1. Klik op de knop **Nieuwe status** vervolgkeuzelijst en selecteer **Roadshow > Geregistreerd**. Klikken **Nu uitvoeren**.
+1. Klik op de knop **[!UICONTROL New Status]** vervolgkeuzelijst en selecteer **[!UICONTROL Roadshow]>[!UICONTROL Registered]**. Klik op **[!UICONTROL Run Now]**.
 
    ![](assets/eight.png)
 

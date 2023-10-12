@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Middelen importeren met Adobe Experience Manager - Marketo Docs - Productdocumentatie
 title: Middelen importeren met Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 
 >[!AVAILABILITY]
 >
->Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
+>Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 >
 >Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de meest recente versie van Chrome, afhankelijk van de cookie-instellingen van SameSite.
 
-1. Klikken **Design Studio**.
+1. Klik op **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Klik op de vervolgkeuzelijst Nieuw en selecteer **Importeren uit Adobe Experience Manager**.
+1. Klik op de vervolgkeuzelijst Nieuw en selecteer **[!UICONTROL Import from Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -42,7 +42,7 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Kies uw map. Selecteer vervolgens de gewenste afbeeldingen door op de miniatuur te klikken (u kunt maximaal 10 afbeeldingen selecteren). Klikken **Selecteren** wanneer gereed.
+1. Kies uw map. Selecteer vervolgens de gewenste afbeeldingen door op de miniatuur te klikken (u kunt maximaal 10 afbeeldingen selecteren). Klikken **[!UICONTROL Select]** wanneer gereed.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
    >
    >Afbeeldingen mogen niet groter zijn dan 100 MB.
 
-1. Klikken **Importeren** om het proces te voltooien.
+1. Klikken **[!UICONTROL Import]** om het proces te voltooien.
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   En dat is het! Klikken **Sluiten** om aan de Studio van het Ontwerp terug te keren.
+   En dat is het! Klikken **[!UICONTROL Close]** om aan de Studio van het Ontwerp terug te keren.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 

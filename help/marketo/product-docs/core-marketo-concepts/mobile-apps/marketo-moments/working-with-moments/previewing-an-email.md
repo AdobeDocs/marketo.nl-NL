@@ -4,9 +4,9 @@ description: Een voorbeeld bekijken van een e-mail - Marketo Docs - Productdocum
 title: Een voorbeeld van een e-mail weergeven
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen voordat 
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Tikken **E-mail voorvertonen**.
+1. Tik op **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -34,5 +34,3 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen voordat 
    >[!NOTE]
    >
    >Tik op het papieren vliegtuigpictogram rechtsboven om een voorbeeld rechtstreeks vanaf de pagina E-mailvoorbeeld te verzenden.
-
-   Uitstekend!

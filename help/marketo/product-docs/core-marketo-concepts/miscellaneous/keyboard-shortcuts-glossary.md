@@ -3,9 +3,9 @@ unique-page-id: 1147318
 description: Verklarende woordenlijst met sneltoetsen - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Sneltoetsen
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bent u een persoon met sneltoetsen? We hebben je bedekt!
 
-## Navigatie gebied: {#area-navigation}
+## Gebiedsnavigatie {#area-navigation}
 
 | Sneltoets | Gebied |
 |---|---|
@@ -24,11 +24,10 @@ Bent u een persoon met sneltoetsen? We hebben je bedekt!
 | Alt/Opt + F | Globaal zoeken |
 | Alt/Opt + L | Database |
 | Alt/Opt + M | Marketingactiviteiten |
-| Opt + N | Beheer |
+| Opt + N | Beheerder |
 | Opt + O | Mijn Marketo |
-| Alt/Opt + S | Vervolgkeuzelijst Superball |
 
-## Navigatie kalender-/planningweergave:  {#calendar-schedule-view-navigation}
+## Navigatie kalender-/planningweergave  {#calendar-schedule-view-navigation}
 
 | Sneltoets | Handeling |
 |---|---|
@@ -36,7 +35,7 @@ Bent u een persoon met sneltoetsen? We hebben je bedekt!
 | Alt/Opt + Pijl-omlaag | Naar voren in de tijd |
 | Alt/Opt + T | Ga naar &#39;Vandaag&#39; |
 
-## Diversen: {#miscellaneous}
+## Overige {#miscellaneous}
 
 | Sneltoets | Handeling |
 |---|---|

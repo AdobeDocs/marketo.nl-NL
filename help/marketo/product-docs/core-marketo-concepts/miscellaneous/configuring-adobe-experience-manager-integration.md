@@ -6,16 +6,16 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # Adobe Experience Manager-integratie configureren {#configuring-adobe-experience-manager-integration}
 
-Vorm Adobe Experience Manager (AEM) zodat kunt u, AEM activa toegang hebben selecteren en invoeren in de Studio van het Ontwerp van de Marketo Engage.
+Vorm Adobe Experience Manager (AEM) zodat kunt u, AEM activa in de Studio van het Ontwerp van het Marketo Engage toegang hebben selecteren en invoeren.
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ Vorm Adobe Experience Manager (AEM) zodat kunt u, AEM activa toegang hebben sele
 
    ![](assets/two.png)
 
-1. In **Gereedschappen**, klikt u op **Bewerkingen** en selecteert u **Webconsole**.
+1. In **[!UICONTROL Tools]**, klikt u op **[!UICONTROL Operations]** en selecteert u **[!UICONTROL Web Console]**.
 
    ![](assets/2a.png)
 
-1. Zoek in uw browser (ctrl+f in Windows, cmd+f in Mac) naar &quot;Beleid voor het delen van bronnen van Adobe Granite voor kruisoorsprong.&quot;
+1. Zoek in uw browser (ctrl+f in Windows, cmd+f in Mac) naar &quot;Beleid voor het delen van bronnen met verschillende herkomst van graniet Adoben&quot;.
 
    ![](assets/three.png)
 
@@ -47,34 +47,34 @@ Vorm Adobe Experience Manager (AEM) zodat kunt u, AEM activa toegang hebben sele
 
    ![](assets/four.png)
 
-1. In de **Toegestane oorsprong (Regexp)** tekstvak, typen in `https://.*\.marketo\.com` en klik op **Opslaan**.
+1. In de **[!UICONTROL Allowed Origins (Regexp)]** tekstvak, typen in `https://.*\.marketo\.com` en klik op **[!UICONTROL Save]**.
 
    ![](assets/five-psd.png)
 
-1. Klik in de koptekst boven aan de pagina op **Webconsole** en selecteert u **Systeeminformatie**.
+1. Klik in de koptekst boven aan de pagina op **[!UICONTROL Web Console]** en selecteert u **[!UICONTROL System Information]**.
 
    ![](assets/six.png)
 
-1. Klik onder Serverinformatie op de knop **Opnieuw starten** knop.
+1. Klik onder Serverinformatie op de knop **[!UICONTROL Restart]** knop.
 
    ![](assets/seven.png)
 
-1. Klikken **OK** ter bevestiging.
+1. Klikken **[!UICONTROL OK]** ter bevestiging.
 
    ![](assets/eight.png)
 
-1. Klik in Marketo Engage op **Beheer**.
+1. Klik in Marketo Engage op **[!UICONTROL Admin]**.
 
    ![](assets/nine.png)
 
-1. Selecteer onder Integratie **Adobe Experience Manager**.
+1. Selecteer onder Integratie **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 
-1. Klikken **Bewerken**.
+1. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/eleven.png)
 
-1. Voer uw AEM-URL in en klik op **OK**.
+1. Voer uw AEM-URL in en klik op **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

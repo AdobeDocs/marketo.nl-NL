@@ -2,36 +2,35 @@
 description: Privacyverzoeken - Marketo-documenten - productdocumentatie
 title: Privacyverzoeken
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Privacyverzoeken {#privacy-requests}
 
-Dit document biedt een overzicht van het beheer van individuele privacyverzoeken voor gegevens die u naar Marketo Engage kunt verzenden via de Privacy Service-interface en de Privacy Service-API.
+Dit document biedt een overzicht van het beheer van individuele verzoeken om gegevensprivacy die u naar het Marketo Engage kunt verzenden via de gebruikersinterface van de Privacy Service en de Privacy Service-API.
 
 >[!NOTE]
 >
 >De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op het volgende van toepassing:
 >
->* Marketo Engage gebruikers die aan het Systeem van Adobe Identity Management hebben ingezien
+>* Marketo Engage gebruikers die aan het Systeem van de AdobeIdentity Management hebben ingezien
 >
 >**-of-**
 >
->* Marketo Engage-gebruikers die een ander Experience Cloud-product gebruiken dat zich al op het Adobe Identity Management-systeem bevindt (bijvoorbeeld RT-CDP, B2B en B2P Editions, Audience Manager).
-
+>* Gebruikers van Marketo&#39;s Engage die een ander Experience Cloud-product gebruiken dat zich al op het Identity Management-systeem van de Adobe bevindt (bijvoorbeeld RT-CDP, B2B en B2P Editions, Audience Manager).
 
 U kunt individuele verzoeken om tot consumentengegevens van Marketo Engage toegang te hebben en te schrappen op twee manieren voorleggen:
 
-* Via de [UI Privacy Service](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target=&quot;_blank&quot;}.
-* Via de Privacy Service-API. Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} en API-informatie [hier](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
+* Via de [UI PRIVACY SERVICE](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Via de Privacy Service-API. Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-De [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target=&quot;_blank&quot;} ondersteunt twee typen aanvragen: gegevenstoegang en gegevensverwijdering.
+De [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} ondersteunt twee soorten verzoeken: toegang tot gegevens en verwijdering van gegevens.
 
-Zie hoe u aanvragen voor toegang en verwijderen kunt maken.
+Zie hoe u verzoeken van de Toegang en van de Schrapping kunt tot stand brengen.
 
 ## Vereiste opstelling om verzoeken om Marketo Engage te verzenden {#required-setup-to-send-requests-for-marketo-engage}
 
@@ -42,11 +41,11 @@ Om tot Gegevens van de Toegang en van de Schrapping voor Marketo Engage te verzo
    a. IMS Org ID<br/>
 b. E-mailadres van de persoon aan wie u wilt optreden
 
-   Een IMS-organisatie-id is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met @AdobeOrg. Als uw marketingteam of interne beheerder van het Adobe-systeem de IMS Org-id van uw organisatie niet kent, neemt u contact op met de klantenservice van Adobe op gdprsupport@adobe.com. U hebt de IMS Org ID nodig om aanvragen in te dienen bij de Privacy API.
+   Een IMS-organisatie-id is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met @AdobeOrg. Als uw marketingteam of de beheerder van het interne Adobe-systeem de IMS Org-id van uw organisatie niet kent, neemt u contact op met de klantenservice van de Adobe op `gdprsupport@adobe.com`. U hebt de IMS Org ID nodig om aanvragen in te dienen bij de Privacy API.
 
-1. In Privacy Service, kunt u verzoeken van de Toegang en van de Schrapping voorleggen aan Marketo Engage, en de status van bestaande verzoeken controleren.
+1. In Privacy Service, kunt u verzoeken van de Toegang voorleggen en van de Schrapping aan Marketo Engage, en de status van bestaande verzoeken controleren.
 
-## Vereiste veldwaarden in Marketo Engage JSON-verzoeken {#required-field-values-in-marketo-engage-json-requests}
+## Vereiste veldwaarden in JSON-verzoeken van Marketo Engage {#required-field-values-in-marketo-engage-json-requests}
 
 &quot;companyContext&quot;:
 
@@ -55,21 +54,21 @@ b. E-mailadres van de persoon aan wie u wilt optreden
 
 &quot;gebruikers&quot;:
 
-* &quot;actie&quot;: ofwel **toegang** of **delete**
+* &quot;actie&quot;: **toegang** of **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
    * &quot;type&quot;: **standaard**
-   * &quot;waarde&quot;: `<Data Subject’s Email Address>`
+   * &quot;waarde&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot;:
 
-* **marketo** (dit is het product van de Adobe dat op het verzoek van toepassing is)
+* **marketo** (dit is het Adobe product dat van toepassing is op het verzoek)
 
 &quot;verordening&quot;:
 
 * **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, of **nzpa_nzl**  (dit is de privacyverordening die van toepassing is op het verzoek)
 
-## Voorbeeld één: GDPR-verzoek verwijderen {#gdpr-delete-request}
+## Voorbeeld één: GDPR-aanvraag verwijderen {#gdpr-delete-request}
 
 JSON-aanvraag
 

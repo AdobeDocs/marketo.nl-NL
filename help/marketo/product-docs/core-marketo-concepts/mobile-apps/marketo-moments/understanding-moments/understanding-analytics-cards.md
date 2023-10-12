@@ -4,9 +4,9 @@ description: Analysecards - Marketo Docs - Productdocumentatie
 title: Analysecards
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -51,17 +51,15 @@ De **Opgehaalde leads** op de kaart ziet u een trending month-over-month report 
 
 ## Nieuwe leads {#new-leads}
 
-De **Nieuwe leads** Met de kaart kunt u een trending month-over-month rapport weergeven van het totale aantal nieuwe leads in uw exemplaar over de afgelopen zes maanden.
+De **[!UICONTROL New Leads]** Met de kaart kunt u een trending month-over-month rapport weergeven van het totale aantal nieuwe leads in uw exemplaar over de afgelopen zes maanden.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Abonnementen opzeggen {#unsubscribes}
 
-De **Abonnementen opzeggen** op de kaart wordt een maandelijks trending rapport weergegeven van de afmeldingsfrequentie van de afgelopen zes maanden.
+De **[!UICONTROL Unsubscribes]** op de kaart wordt een maandelijks trending rapport weergegeven van de afmeldingsfrequentie van de afgelopen zes maanden.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
-
-Nu weet je het.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Werken met gebeurtenissenkaarten - Marketo Docs - Productdocumentat
 title: Gebeurteniskaarten
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,9 @@ Wanneer u op een e-mailprogrammakaart tikt, kunt u:
 * [Een gebeurtenis markeren zoals deze is uitgevoerd](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Een gebeurtenissenkaart delen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Er zijn twee gebeurteniskaarten. De On-Deck-kaart, die een paar uur voor de gebeurtenis is verzonden, laat zien hoeveel personen zich hebben aangemeld. De kaart van Resultaten, die daarna wordt verzonden, toont hoeveel werkelijk bijgewoond.
+Er zijn twee gebeurteniskaarten. De [!UICONTROL On-Deck] de kaart die enkele uren voor de gebeurtenis is verzonden , laat zien hoeveel personen zich hebben aangemeld . De [!UICONTROL Results] De kaart, die achteraf wordt verzonden, geeft aan hoeveel er daadwerkelijk zijn bijgewoond.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
-
-Je bent goed!
 
 >[!MORELIKETHIS]
 >
