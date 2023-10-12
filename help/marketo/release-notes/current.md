@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60f9c584b0f73b74a1a1db2c0c6b2a030e01412c
+source-git-commit: a69c6955f0390f791d8e45056967e8f0eb4699d7
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -42,8 +42,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
    <tr> 
    <td><strong>Formule Flow Step-service berekenen</strong>: Compute Formule is de dienst van de Stap van de Stroom die op IO Runtime van de Adobe platform voor gebruik met Marketo Engage Slimme Campagnes wordt gebouwd. Diegenen met IO runtime kunnen de dienst opstellen en het installeren aan hun abonnementen van het Marketo Engage, die hen toestaan om Excel-als formules in Marketo Engage Slimme Campagnes gegevens te verwerken.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Gebruikershandleiding voor de formule berekenen</a></td>
   </tr>
   <tr> 
    <td> </td> 
