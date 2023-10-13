@@ -4,32 +4,32 @@ description: Mijn tokens beheren - Marketo Docs - Productdocumentatie
 title: Mijn tokens beheren
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 1%
 
 ---
 
 # Mijn tokens beheren {#managing-my-tokens}
 
-Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mijn tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (aangepaste tokens) in stroomstappen, webhaken, e-mails en landingspagina&#39;s. Zo maak je ze.
+Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mijn tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (aangepaste tokens) in stroomstappen, webhooks, e-mails en bestemmingspagina&#39;s. Zo maak je ze.
 
 >[!TIP]
 >
->Meer informatie over de tokens die al beschikbaar zijn in [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+>Meer informatie over de tokens die al beschikbaar zijn in [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Mijn token maken {#create-a-my-token}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer een programma- of campagnemap. Klikken **Mijn tokens**.
+1. Selecteer een programma- of campagnemap. Klik op **[!UICONTROL My Tokens]**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Selecteer een **Mijn token** type. Sleep het naar het canvas.
+1. Selecteer een **[!UICONTROL My Token]** type. Sleep het naar het canvas.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -37,7 +37,7 @@ Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mi
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
@@ -47,7 +47,7 @@ Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mi
 
 ## Mijn token bewerken {#edit-a-my-token}
 
-1. Dubbelklik op de knop **Mijn token** en breng uw wijzigingen aan. Klikken **Opslaan**.
+1. Dubbelklik op de knop **[!UICONTROL My Token]** en breng uw wijzigingen aan. Klikken **Opslaan**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,16 +57,16 @@ Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mi
 >
 >Wanneer u een Mijn token verwijdert, moet u ervoor zorgen dat er niet naar wordt verwezen in een element. Een lege ruimte wordt weergegeven op elke plaats waarnaar wordt verwezen als deze wordt verwijderd.
 
-1. Klik met de rechtermuisknop op de knop **Mijn token**. Selecteren **Token verwijderen**.
+1. Klik met de rechtermuisknop op de knop **[!UICONTROL My Token]**. Selecteren **[!UICONTROL Delete Token]**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. Klikken **Verwijderen**.
+1. Klik op **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
-   >* [Mijn tokens in een programma begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-   >* [URL&#39;s gebruiken in Mijn tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+   >* [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+   >* [Mijn tokens in een programma begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
+   >* [URL&#39;s gebruiken in Mijn tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}

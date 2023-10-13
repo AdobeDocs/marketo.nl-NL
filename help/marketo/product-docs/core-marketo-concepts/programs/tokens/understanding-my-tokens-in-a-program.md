@@ -4,7 +4,7 @@ description: Mijn tokens in een programma begrijpen - Marketo Docs - Productdocu
 title: Mijn tokens in een programma begrijpen
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Een token is een variabele die u kunt gebruiken in e-mails, bestemmingspagina&#39;s en slimme campagnes om uw leven gemakkelijker te maken.
 
-Naast Mijn tokens, kunt u om het even welke ingebouwde tokens in uw programma&#39;s ook gebruiken. Kijk uit de [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md).
+Naast Mijn tokens kunt u ook alle ingebouwde tokens in uw programma&#39;s gebruiken. Kijk uit de [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Mijn tokens  {#my-tokens}
 
-Mijn tokens zijn aangepaste variabelen die iedereen kan maken. Ze zijn [gemaakt](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) in campagnemappen of -programma&#39;s.
+Mijn tokens zijn aangepaste variabelen die iedereen kan maken. Ze zijn [gemaakt](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in campagnemappen of -programma&#39;s.
 
 Mijn tokens worden als volgt weergegeven: `{{my.Name Of Token}}`
 
@@ -73,7 +73,7 @@ Voorbeelden:
 
 >[!CAUTION]
 >
->Mijn tokens zullen niet oplossen wanneer het verzenden van een e-mail van Sales Insight op of Microsoft Dynamics of Salesforce; alleen standaardtokens worden gevuld (Lead, Company, enz.). Standaardwaarden voor tokens _zal_ werk echter .
+>Mijn tokens zullen niet oplossen wanneer het verzenden van een e-mail van het Inzicht van de Verkoop op of de Dynamiek van Microsoft of Salesforce; slechts standaardtokens zullen bevolken (Lood, Bedrijf, enz.). Standaardwaarden voor tokens _zal_ werk echter .
 
 ## Nesten van tokens {#nesting-tokens}
 
@@ -93,5 +93,5 @@ Het verplaatsen van programma&#39;s en omslagen beïnvloedt ook tokens. Controle
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
->* [Mijn tokens beheren](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
+>* [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [Mijn tokens beheren](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

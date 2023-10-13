@@ -4,9 +4,9 @@ description: Navigeren door de programmaoverzichtsweergave - Marketo Docs - Prod
 title: Navigeren door de programmaweergave
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
 ## De overzichtsweergave zoeken {#find-the-schedule-view}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw programma. Klik op de knop **Weergave** vervolgkeuzelijst. Selecteren **Schema**.
+1. Selecteer uw programma. Klik op de knop **[!UICONTROL View]** vervolgkeuzelijst. Selecteren **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
 ## Wijzigen tussen modi {#changing-between-modes}
 
-1. Klikken op **3 weken** of **Maand** wijzigt u de zichtbare datums in het scherm.
+1. Klikken op **[!UICONTROL 3 Weeks]** of **[!UICONTROL Month]** wijzigt u de zichtbare datums in het scherm.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Geweldig! Nu je weet hoe je je programma kunt bekijken, leren we de andere coole
 
 >[!MORELIKETHIS]
 >
->[Het creëren van een Ingang in de Mening van het Programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
+>[Een vermelding maken in de programmaweergave](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
