@@ -4,7 +4,7 @@ description: Het tabblad Middelen gebruiken - Marketo Docs - Productdocumentatie
 title: Het tabblad Middelen gebruiken
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Het tabblad Middelen gebruiken {#using-the-assets-tab}
 
-Het canvas met elementen is een visuele weergave van uw programma. U kunt het gebruiken om lokale activa toe te voegen evenals met bestaande degenen in wisselwerking te staan.
+Het canvas met elementen is een visuele weergave van uw standaard- of gebeurtenisprogramma. U kunt het gebruiken om lokale activa toe te voegen evenals met bestaande degenen in wisselwerking te staan.
 
 ## Elementen toevoegen {#adding-assets}
 
-Van de **Marketingactiviteiten** gebied, klikt u op **Activa** tab. Kies hieronder een van de elementen en voeg deze toe aan uw programma.
+Klik op de knop **[!UICONTROL Assets]** in het gewenste programma. Kies hieronder een van de elementen en voeg deze toe aan uw programma.
 
 ![](assets/programassets.png)
 
@@ -41,4 +41,4 @@ Elementen die niet lokaal voor uw programma zijn, zien er als volgt uit:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 
-Het tabblad Elementen is een geweldig kleine dashboard voor alles binnen het programma waar naar wordt verwezen.
+Het tabblad Elementen is een geweldig kleine dashboard voor alles wat zich binnen het programma bevindt en waarnaar in het programma wordt verwezen.
