@@ -1,28 +1,28 @@
 ---
 unique-page-id: 10093188
 description: Marketo Custom Objects - Marketo Docs - Productdocumentatie
-title: Aangepaste Marketo-objecten begrijpen
+title: Aangepaste Marketo-objecten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '662'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
 
-# Aangepaste Marketo-objecten begrijpen {#understanding-marketo-custom-objects}
+# Aangepaste Marketo-objecten {#understanding-marketo-custom-objects}
 
 Gebruik aangepaste objecten om metrische gegevens bij te houden die specifiek zijn voor uw bedrijf.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 Gebruik aangepaste objecten als filters en triggers in slimme campagnes. Bijvoorbeeld:
 
 * **Filter**: Alleen e-mails sturen naar eigenaars van specifieke voertuigmerken
-* **Trigger**: Verzend een e-mail wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd.
+* **Trigger**: Stuur een e-mail wanneer een aangepast object aan een persoon of bedrijf wordt toegevoegd.
 
 U kunt aangepaste objecten instellen in een een-op-een-relatie of een veel-op-veel-relatie. Bijvoorbeeld:
 
@@ -63,7 +63,7 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
    >
    >Marketo werkt deze velden automatisch bij, maar u kunt de weergave vernieuwen door op het pictogram in de kolom Records te klikken.
 
-1. Klik op de naam van het object aan de rechterkant om de detailpagina te openen.
+1. Klik op de objectnaam aan de rechterkant om de detailpagina te openen.
 
    ![](assets/understanding-marketo-custom-objects-4.png)
 

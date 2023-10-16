@@ -4,9 +4,9 @@ description: Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven - Marke
 title: Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Iedereen die de invoegtoepassing Marketo Email Outlook wil gebruiken, moet eerst een licentie krijgen. Er zijn twee manieren om de licentie te verstrekken.
 
-* **[Installatie van Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Gebruik deze methode als de vertegenwoordigers van de verkoopafdeling geen beheerrechten hebben voor hun zakelijke laptops en geen plug-ins, software, enz. kunnen installeren. er op. In dit geval geeft Marketo Admin licenties af aan een lijst met geautoriseerde gebruikers. Vervolgens implementeert het IT-team de insteekmodule op afstand op de computers van alle geautoriseerde gebruikers met de Enterprise Key. De gebruiker van de insteekmodule autoriseert deze vervolgens.
+* **[Installatie van Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: Gebruik deze methode als de vertegenwoordigers van de verkoopafdeling geen beheerdersrechten hebben voor hun zakelijke laptops en geen plug-ins, software, enz. kunnen installeren. er op. In dit geval geeft Marketo Admin licenties af aan een lijst met geautoriseerde gebruikers. Vervolgens implementeert het IT-team de insteekmodule op afstand op de computers van alle geautoriseerde gebruikers met de Enterprise Key. De gebruiker van de insteekmodule autoriseert deze vervolgens.
 * **[Installatie van registratiecode](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: Gebruik deze methode wanneer verkoopvertegenwoordigers beheerdersrechten hebben voor hun laptop en plug-ins, software, enz. kunnen installeren. er op. Voor dit proces geeft de Marketo-beheerder licenties af aan een lijst met geautoriseerde gebruikers en stuurt deze gebruikers de registratieberichten rechtstreeks met downloadkoppelingen. De verkoper ontvangt een e-mail met een insteekmodule downloadkoppeling en een unieke registratie-URL.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >

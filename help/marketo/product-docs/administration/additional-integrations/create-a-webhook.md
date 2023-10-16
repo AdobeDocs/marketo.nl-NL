@@ -4,20 +4,20 @@ description: Een [!DNL Webhook] - Marketo Docs - Productdocumentatie
 title: Een [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '203'
 ht-degree: 1%
 
 ---
 
 # Een [!DNL Webhook] {#create-a-webhook}
 
-Gebruiken [!DNL Webhooks] om gebruik te maken van externe webservices voor het verzenden van tekstberichten, het uitbreiden van persoonlijke gegevens en meer.
+Gebruiken [!DNL Webhooks] om gebruik te maken van externe webservices voor het verzenden van tekstberichten, het uitbreiden van persoonlijke gegevens en nog veel meer.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Ga naar de **[!UICONTROL Admin]** gebied.
 
@@ -31,7 +31,7 @@ Gebruiken [!DNL Webhooks] om gebruik te maken van externe webservices voor het v
 
    ![](assets/create-a-webhook-3.png)
 
-1. Naam en vorm uw [!DNL Webhook].
+1. Geef uw naam en configureer uw [!DNL Webhook].
 
    ![](assets/create-a-webhook-4.png)
 
@@ -41,13 +41,13 @@ Gebruiken [!DNL Webhooks] om gebruik te maken van externe webservices voor het v
 
    * **[!UICONTROL URL]**: Voer de URL in die u in uw aanvraag voor de webservice gebruikt. Een token invoegen, zoals het e-mailadres van de persoon (**`{{lead.Email Address}}`**), klikt u in uw verzoek op **[!UICONTROL Insert Token]**.
 
-   * **[!UICONTROL Template]**: Als u informatie in het lichaam van het verzoek wilt overbrengen, ga via het ladingsmalplaatje in. Sjablonen zijn toegestaan voor de volgende aanvraagtypen: POST, DELETE, PATCH of PUT. U kunt gegevensformaten zoals JSON of XML gebruiken. Als u een token wilt invoegen in uw sjabloon, klikt u op **[!UICONTROL Insert Token]**.
+   * **[!UICONTROL Template]**: Als u informatie in het lichaam van het verzoek wilt overbrengen, ga via het ladingsmalplaatje in. Sjablonen zijn toegestaan voor de volgende aanvraagtypen: POST, DELETE, PATCH of PUT. U kunt gegevensindelingen gebruiken, zoals JSON of XML. Als u een token wilt invoegen in uw sjabloon, klikt u op **[!UICONTROL Insert Token]**.
 
    * **[!UICONTROL Request Token Encoding]**: Als de tokenwaarden speciale tekens bevatten (zoals een en-teken &#39;&amp;&#39;), geeft u de indeling van uw verzoek op (**JSON** of **Formulier/URL**).
 
-   * **[!UICONTROL Response type]**: Selecteer het formaat van de reactie u van de dienst ontvangt (**JSON** of **XML**).
+   * **[!UICONTROL Response type]**: Selecteer de indeling van de reactie die u van de service ontvangt (**JSON** of **XML**).
 
-   * **[!UICONTROL Request Type]**: Selecteer de te gebruiken methode van HTTP (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Request Type]**: Selecteer de te gebruiken HTTP-methode (DELETE, GET, PATCH, POST, PUT).
 
 1. Klik op **[!UICONTROL Create]**.
 

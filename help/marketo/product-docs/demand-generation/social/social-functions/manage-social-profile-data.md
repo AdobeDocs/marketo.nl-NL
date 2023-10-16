@@ -4,22 +4,22 @@ description: Gegevens van sociaal profiel beheren - Marketo-documenten - product
 title: Gegevens van sociaal profiel beheren
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '310'
 ht-degree: 5%
 
 ---
 
 # Gegevens van sociaal profiel beheren {#manage-social-profile-data}
 
-Wanneer iemand met een Marketo communiceert [sociale app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)of geeft hun sociale netwerk toestemming om een Marketo-formulier vooraf in te vullen met [sociale formulieren invullen](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), legt Marketo alle gegevens vast die beschikbaar zijn via het sociale profiel. U kunt deze informatie weergeven op het tabblad [Persoonsgegevens, pagina](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md), of voeg het als kolom in een [aangepaste weergave van een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+Wanneer iemand een Marketo gebruikt [sociale app](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)of geeft hun sociale netwerk toestemming om een Marketo-formulier vooraf in te vullen met [sociale formulieren invullen](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), legt Marketo alle gegevens vast die beschikbaar zijn via het sociale profiel. U kunt deze informatie weergeven op het tabblad [Pagina Details persoon](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md), of voeg het als kolom in een [aangepaste weergave van een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
-In sociale formulieren en sociale toepassingen worden enigszins verschillende sets velden vastgelegd. zie de sectie voor elk hieronder.
+In sociale formulieren en sociale toepassingen worden enigszins verschillende sets velden vastgelegd. Zie de sectie voor elke velden hieronder.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 ## Vastgelegd via sociale app {#captured-via-social-app}
 
@@ -29,7 +29,7 @@ Afhankelijk van de privacy-instellingen van het netwerk en de gebruiker worden e
 >
 >De aanvullende informatie van sociale netwerken wordt ongeveer vijf minuten na toestemming van de persoon op de pagina Details persoon weergegeven.
 
-## Uit Twitter: {#from-twitter}
+## Van Twitter: {#from-twitter}
 
 * Voornaam (geparseerd van weergavenaam)
 * Achternaam (geparseerd van weergavenaam)
@@ -58,7 +58,7 @@ Afhankelijk van de privacy-instellingen van het netwerk en de gebruiker worden e
 >
 >Door het sociale formulier vastgelegde gegevens overschrijven overeenkomende velden, tenzij u [blokupdates van deze velden op formulierniveau](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
-## Uit Twitter: {#from-twitter-1}
+## Van Twitter: {#from-twitter-1}
 
 * Voornaam (geparseerd van weergavenaam)
 * Achternaam (geparseerd van weergavenaam)

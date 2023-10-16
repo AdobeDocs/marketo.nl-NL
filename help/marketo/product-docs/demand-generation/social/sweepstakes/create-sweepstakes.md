@@ -3,9 +3,9 @@ unique-page-id: 2359795
 description: Transparante items maken - Marketo Docs - Productdocumentatie
 title: Overtreklijnen maken
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Kies in uw programma de optie **Nieuw** > **Nieuw lokaal element**.
 
@@ -32,7 +32,7 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
 
    >[!TIP]
    >
-   >Als u tijd wilt besparen, kunt u de opdracht **Klonen uit** Hiermee kopieert u alle instellingen van een bestaand zweepveld.
+   >Als u tijd wilt besparen, kunt u de **Klonen uit** Hiermee kopieert u alle instellingen van een bestaand zweepveld.
 
    De sweepstakes-editor wordt in een nieuw venster geopend. De standaardmontages zijn allen goed, maar u moet nog een paar details vormen. In de volgende stappen wordt u uitgelegd hoe u dit doet.
 

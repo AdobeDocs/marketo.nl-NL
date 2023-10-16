@@ -3,9 +3,9 @@ unique-page-id: 2359805
 description: Selecteer Winnaars van Zweedse partij - Marketo Docs - Productdocumentatie
 title: Winners van overvloeiingen selecteren
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Wanneer u [een zweepslagen publiceren](/help/marketo/product-docs/demand-generat
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -32,7 +32,7 @@ Wanneer u [een zweepslagen publiceren](/help/marketo/product-docs/demand-generat
 
    >[!TIP]
    >
-   >Klik op de knop **Deelnemers** tab.
+   >Als u een lijst wilt weergeven met personen die zich hebben aangemeld voor uw transporten, klikt u op de knop **Deelnemers** tab.
 
 1. Kies het aantal winnaars en selecteer **Ik ben klaar om te kiezen** en klik op **Volgende**.
 

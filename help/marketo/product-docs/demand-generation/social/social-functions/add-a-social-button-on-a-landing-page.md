@@ -4,9 +4,9 @@ description: Een sociale knop toevoegen aan een landingspagina - Marketo Docs - 
 title: Een sociale knop toevoegen aan een bestemmingspagina
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Navigeer naar de bestemmingspagina en klik op **Concept bewerken**.
 
@@ -45,11 +45,11 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-Gefeliciteerd.  U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren. U kunt ook [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [sociale knop op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Gefeliciteerd.  U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren. U kunt [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [sociale knop op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
->Als u tijd wilt besparen, kunt u de opdracht **Klonen uit** Hiermee kopieert u alle instellingen van een bestaande sociale knop.
+>Als u tijd wilt besparen, kunt u de **Klonen uit** alle instellingen van een bestaande sociale knop te kopiëren.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Triggers en filters voor sociale activiteiten - Marketo Docs - Prod
 title: Triggers en filters voor sociale activiteiten
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Sociaal gebruiken _triggers_, selecteert u uw slimme campagne en klikt u op de knop **Slimme lijst** tab. Klik rechts op + om uit te vouwen **Triggers** vervolgens **Sociaal**.
 
@@ -29,14 +29,14 @@ Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
 
 1. Verwijs in de onderstaande tabel naar de triggers en filters die bij elke sociale app worden gebruikt.
 
-   | Triggers/filters | Sociale knoppen | Opiniepeilingen | Video&#39;s | Verwijzingsvoorstellen | Sweepstake |
+   | Triggers/filters | Sociale knoppen | Opiniepeiling | Video&#39;s | Verwijzingsvoorstellen | Sweepstake |
    |---|---|---|---|---|---|
    | Resultaat van de verwijzing |  |  |  | ![(tik)](assets/check.png) | |
    | Inhoud delen | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
    | Klik op Gedeelde koppeling | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
-   | Egaliseert items |  |  |  |  | ![(tik)](assets/check.png) |
+   | Egaliseert items niet |  |  |  |  | ![(tik)](assets/check.png) |
    | Verkrijgt ingang in sociale app |  |  |  |  | ![(tik)](assets/check.png) |
-   | Hiermee wordt veiling gestart |  |  |  |  | ![(tik)](assets/check.png) |
+   | Hiermee wordt veeggebaren gestart |  |  |  |  | ![(tik)](assets/check.png) |
    | Verwijst naar de sociale app |  |  |  | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
    | Aanmeldt zich aan voor een doorverwijzing |  |  |  | ![(tik)](assets/check.png) |  |
    | Stemmen in opiniepeiling |  | ![(tik)](assets/check.png) |  |  |  |

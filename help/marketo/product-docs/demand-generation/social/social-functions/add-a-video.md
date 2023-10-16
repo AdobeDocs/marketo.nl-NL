@@ -4,9 +4,9 @@ description: Een video toevoegen - Marketo Docs - Productdocumentatie
 title: Video toevoegen
 exl-id: e704ec2c-07d7-430f-9514-3ee2a4ab66d9
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Navigeer naar de bestemmingspagina en klik op **Concept bewerken**.
 
@@ -41,9 +41,9 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
 >[!TIP]
 >
->Als u tijd wilt besparen, kunt u de opdracht **Klonen uit** Hiermee kopieert u alle instellingen van een bestaande gedeelde video.
+>Als u tijd wilt besparen, kunt u de **Klonen uit** Hiermee kopieert u alle instellingen van een bestaande gedeelde video.
 
-Gefeliciteerd.  U hebt een gedeelde video toegevoegd aan uw openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt ook [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [video delen op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+Gefeliciteerd.  U hebt een gedeelde video toegevoegd aan uw openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [video delen op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >

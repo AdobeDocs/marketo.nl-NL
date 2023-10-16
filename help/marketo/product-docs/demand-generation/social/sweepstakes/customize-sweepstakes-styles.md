@@ -3,9 +3,9 @@ unique-page-id: 2359807
 description: Overzichtsstijlen aanpassen - Marketo Docs - Productdocumentatie
 title: Overtrekstijlen aanpassen
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Wanneer u [een zweepslag maken](/help/marketo/product-docs/demand-generation/soc
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Ga naar **Marketingactiviteiten**.
 

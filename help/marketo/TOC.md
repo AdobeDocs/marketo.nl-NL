@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 639bb1404117607af116122b410479d37ae32fad
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '9094'
 ht-degree: 0%
@@ -276,7 +276,7 @@ ht-degree: 0%
             + [Werken met Standard Smart List Rule Logic](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Handelingen voor stroom {#flow-actions}
             + [Een stroomstap toevoegen aan een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-            + [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
+            + [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [Toevoegen aan lijst](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [Gegevens toevoegen aan een veld](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Bellen Webhaak](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)

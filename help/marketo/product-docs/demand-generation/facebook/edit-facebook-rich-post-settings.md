@@ -4,9 +4,9 @@ description: Facebook Rich Post Settings bewerken - Marketo Docs - Productdocume
 title: Facebook Rich Post-instellingen bewerken
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Pas advertenties aan wanneer mensen je delen op Facebook.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-Marketo [sociale apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) toestaan dat uw leads uw bestemmingspagina&#39;s delen met hun verbindingen op sociale netwerken zoals Facebook, Twitter, enz. Met facebook OpenGraph-tags (OG-tags) kunt u opgeven welke informatie van uw bestemmingspagina wordt opgenomen in Facebook-berichten.
+Marketo [sociale apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) toestaan dat uw leads uw bestemmingspagina&#39;s delen met hun verbindingen op sociale netwerken zoals Facebook, Twitter, enz. Met facebook OpenGraph-tags (OG-tags) kunt u opgeven welke informatie van uw bestemmingspagina wordt opgenomen in Facebook-advertenties.
 
 ## Opties voor rijke berichten selecteren {#select-rich-post-options}
 
@@ -31,11 +31,11 @@ U kunt de typen pagina-informatie opgeven die moeten worden gebruikt in de opgem
 
 1. Selecteer een van de volgende opties voor je Facebook-bericht.
 
-   * Statische inhoud toevoegen: Selecteer deze optie als u de titel, het bijschrift en de beschrijving handmatig wilt invoeren.
+   * Statische inhoud toevoegen: selecteer deze optie om de titel, het bijschrift en de beschrijving handmatig in te voeren.
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Dynamische inhoud toevoegen: Uw sociale app kan de landingspagina&#39;s gebruiken `<TITLE>`, `<CAPTION>`, en `<DESCRIPTION>` tags om je rijke advertentie te vullen.
+   * Dynamische inhoud toevoegen: uw sociale toepassing kan de landingspagina&#39;s gebruiken `<TITLE>`, `<CAPTION>`, en `<DESCRIPTION>` tags om je rijke advertentie te vullen.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -43,7 +43,7 @@ U kunt de typen pagina-informatie opgeven die moeten worden gebruikt in de opgem
    >
    >Deze moeten al in de paginabron staan, maar voor meer controle kunt u specifieke Facebook OG-tags toevoegen aan uw bestemmingspagina.
 
-   * Voeg geen rijke inhoud toe: Hiermee beperkt u de Facebook-berichten van uw bestemmingspagina tot alleen het hoofdbericht en de koppeling.
+   * Voeg geen rijke inhoud toe: beperkt de Facebook-berichten van uw landingspagina tot alleen het hoofdbericht en de koppeling.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 

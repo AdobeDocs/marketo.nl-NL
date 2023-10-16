@@ -4,9 +4,9 @@ description: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap
 title: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ga als volgt te werk om een rapport van de Analyse van het Lidmaatschap van het 
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Start Revenue Explorer.
 
@@ -51,7 +51,7 @@ U kunt snel een doorloopkenmerk toevoegen, zoals _Volledige naam_ om te zien wie
 
 >[!TIP]
 >
->Er zijn genoeg lood/bedrijfattributen om van te kiezen. Bekijk ze!
+>Er zijn genoeg lood/bedrijfattributen om van te kiezen. Bekijk ze eens!
 
 1. Zoeken en dubbelklikken op de knop **Volledige naam** gele stip.
 

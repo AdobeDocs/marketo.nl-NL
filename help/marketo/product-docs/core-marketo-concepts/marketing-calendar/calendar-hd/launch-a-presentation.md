@@ -4,10 +4,10 @@ description: Een presentatie starten - Marketo Docs - Productdocumentatie
 title: Een presentatie starten
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '104'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Als u de weergaven en de rotatiefrequentie voor uw presentatie hebt ingesteld, i
 >[!AVAILABILITY]
 >
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!PREREQUISITES]
 >

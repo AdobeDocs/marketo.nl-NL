@@ -4,9 +4,9 @@ description: Vulling van sociaal formulier inschakelen op een formulier - Market
 title: Vulling van sociaal formulier inschakelen op een formulier
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. U krij
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Ga naar **Marketingactiviteiten**.
 

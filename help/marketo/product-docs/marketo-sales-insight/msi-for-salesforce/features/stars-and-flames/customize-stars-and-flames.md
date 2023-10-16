@@ -4,20 +4,20 @@ description: Sterren en vlammen aanpassen - Marketo Docs - Productdocumentatie
 title: Sterren en vlammen aanpassen
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
 # Sterren en vlammen aanpassen {#customize-stars-and-flames}
 
-Marketo Sales Insight maakt gebruik van sterren en vlammen om leads een prioriteit te geven. Marketo bepaalt automatisch wie 1-2-3 sterren/vlammen krijgt. U kunt de formule echter wijzigen. Hieronder wordt beschreven hoe:
+Marketo Sales Insight gebruikt sterren en vlammen om leads een prioriteit te geven. Marketo bepaalt automatisch wie 1-2-3 sterren/vlammen krijgt. U kunt de formule echter wijzigen. Hieronder wordt beschreven hoe:
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Marketo Sales Insight maakt gebruik van sterren en vlammen om leads een priorite
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Onder de **Instellingen voor toonscore** sectie, klikt u op **Bewerken**.
+1. Onder de **Instellingen voor toonscore** sectie, klikken **Bewerken**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Selecteer **Scoremethode** van uw keuze.
+1. Selecteer de **Scoremethode** van uw keuze.
 
    >[!NOTE]
    >
@@ -39,7 +39,7 @@ Marketo Sales Insight maakt gebruik van sterren en vlammen om leads een priorite
    >
    >**Dynamisch** - Is een percentagewaarde die van wordt afgeleid [relatieve gegevens](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Geweldige dingen. Deze methode wordt aanbevolen.
    >
-   >**Statisch** - Hiermee kunt u exacte score definiëren: geen percentages meer, geen geheime sauzen meer.
+   >**Statisch** - Hiermee kunt u exacte muzieknummers definiëren - geen percentages meer, geen geheime sauzen meer.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 

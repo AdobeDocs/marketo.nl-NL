@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359722
-description: Een video toevoegen aan een openingspagina met vrije vorm - Marketo Docs - Productdocumentatie
+description: Een video toevoegen aan een landingspagina in vrije vorm - Marketo Docs - Productdocumentatie
 title: Een video toevoegen aan een openingspagina met vrije vorm
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Navigeer naar de landingspagina van uw vrije vorm en klik **Concept bewerken**.
 
@@ -33,7 +33,7 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
    >[!NOTE]
    >
-   >De **Nieuw maken** Deze functie wordt alleen weergegeven in marketingactiviteiten. is niet beschikbaar in Design Studio. Alleen al gemaakte video&#39;s zijn beschikbaar in Design Studio. U kunt echter wel een gedeelde video maken _binnen een programma_ door **Nieuw** > **Nieuw lokaal element**. U kunt het dan van drop-down selecteren, zoals hier getoond.
+   >De **Nieuw maken** de eigenschap verschijnt slechts in de Activiteiten van de Marketing; het is niet beschikbaar in de Studio van het Ontwerp. Alleen al gemaakte video&#39;s zijn beschikbaar in Design Studio. U kunt echter wel een gedeelde video maken _binnen een programma_ door **Nieuw** > **Nieuw lokaal element**. U kunt het dan van drop-down selecteren, zoals hier getoond.
 
 1. Voer de URL van de YouTube-video in en geef uw video een naam. Onder de Kloon van drop-down uitgezochte **Geen** en klik vervolgens op **Invoegen**.
 
@@ -41,9 +41,9 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
 >[!TIP]
 >
->Als u tijd wilt besparen, kunt u de opdracht **Klonen uit** Hiermee kopieert u alle instellingen van een bestaande gedeelde video.
+>Als u tijd wilt besparen, kunt u de **Klonen uit** Hiermee kopieert u alle instellingen van een bestaande gedeelde video.
 
-Gefeliciteerd.  U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt ook [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [video delen op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Gefeliciteerd.  U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [video delen op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >

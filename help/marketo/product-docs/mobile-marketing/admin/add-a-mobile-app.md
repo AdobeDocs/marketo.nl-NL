@@ -4,9 +4,9 @@ description: Een mobiele app toevoegen - Marketo Docs - Productdocumentatie
 title: Een mobiele app toevoegen
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 >[!AVAILABILITY]
 >
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. Klikken **Beheer**.
+1. Klikken **Beheerder**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 

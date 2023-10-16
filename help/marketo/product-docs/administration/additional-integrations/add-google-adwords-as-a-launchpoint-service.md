@@ -4,9 +4,9 @@ description: "Toevoegen [!DNL Google AdWords] als [!DNL LaunchPoint] Service - M
 title: "Toevoegen [!DNL Google AdWords] als [!DNL LaunchPoint] Service"
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Meer informatie over [Google, functie voor het importeren van offlineconversies]
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >

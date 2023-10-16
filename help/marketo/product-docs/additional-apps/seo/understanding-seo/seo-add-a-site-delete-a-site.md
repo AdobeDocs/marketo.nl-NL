@@ -4,9 +4,9 @@ description: SEO - Een site toevoegen/een site verwijderen - Marketo Docs - Prod
 title: SEO - Een site toevoegen/een site verwijderen
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 
@@ -53,7 +53,7 @@ Als u meerdere sites bijhoudt, kunt u ook een site verwijderen die u niet meer w
 
    ![](assets/one.png)
 
-1. Klik op de site die u wilt verwijderen.
+1. Klik de plaats u wilt verwijderen.
 
    ![](assets/six.png)
 

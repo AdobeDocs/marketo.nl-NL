@@ -3,9 +3,9 @@ unique-page-id: 2359799
 description: Publiceer een Overtrek - de Documenten van Marketo - de Documentatie van het Product
 title: Een zweepslag publiceren
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Na u [een zweepslag maken](/help/marketo/product-docs/demand-generation/social/s
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Na u [een zweepslag maken](/help/marketo/product-docs/demand-generation/social/s
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Zoek de sectie Elementen invoegen aan de rechterkant van de pagina. Slepen over **Krenkte**.
+1. Zoek de sectie Elementen invoegen rechts op de pagina. Slepen over **Krenkte**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
@@ -38,7 +38,7 @@ Na u [een zweepslag maken](/help/marketo/product-docs/demand-generation/social/s
    >
    >U moet uw transpiratieplaatsen goedkeuren om deze hier beschikbaar te maken.
 
-   Gefeliciteerd.  Goedkeuren van de landingspagina en uw transporten zijn live. U kunt ook [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [de zweepslagen op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Gefeliciteerd.  Goedkeuren van de landingspagina en uw transporten zijn live. U kunt [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [de zweepslagen op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >

@@ -4,9 +4,9 @@ description: Een presentatie aanpassen - Marketo Docs - Productdocumentatie
 title: Een presentatie aanpassen
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Opstelling uw kalenderpresentatie om op de doelstellingen en de activiteiten te 
 >[!AVAILABILITY]
 >
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!PREREQUISITES]
 >
@@ -62,7 +62,7 @@ Als u de gewenste weergaven voor de presentatie hebt weergegeven, stelt u de fre
 
 De kalenderweergave kan worden gewijzigd in een weergave van 3 weken of per maand.
 
-1. Selecteer **[!UICONTROL Calendar Display]** vervolgkeuzelijst en kies tussen **[!UICONTROL 3 weeks]** of één **[!UICONTROL Month]**.
+1. Selecteer de **[!UICONTROL Calendar Display]** vervolgkeuzelijst en kies tussen **[!UICONTROL 3 weeks]** of één **[!UICONTROL Month]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -80,11 +80,11 @@ Nadat de presentatie is geconfigureerd, kunt u deze voorvertonen en starten.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   Ta-da! Zo ziet uw presentatie eruit.
+   da! Zo ziet uw presentatie er mogelijk uit.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   Hou je niet van wat je ziet? Ga terug en gebruik verschillende filterdefinities om de mening tot stand te brengen u houdt van.
+   Hou je niet van wat je ziet? Ga terug en gebruik verschillende filterdefinities om de weergave te creëren u houdt van.
 
 >[!MORELIKETHIS]
 >

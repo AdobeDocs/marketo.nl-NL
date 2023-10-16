@@ -4,9 +4,9 @@ description: Een rapport van Revenue Explorer maken - Marketo Docs - Productdocu
 title: Een rapport van de inkomstenverkenner maken
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Ga naar de **Ontdekkingsreiziger voor inkomsten** gebied.
 
@@ -37,5 +37,5 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 
 >[!MORELIKETHIS]
 >
->[Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Velden toevoegen aan een Indelingsverkenner-rapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >[Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

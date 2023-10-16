@@ -4,10 +4,10 @@ description: Inzicht krijgen in gebeurtenisprogramma's - Marketo Docs - productd
 title: Gebeurtenisprogramma's
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 ## Overzicht {#overview}
 
@@ -36,4 +36,4 @@ Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar-provider](/he
 >
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [Gebeurtenispartners van LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [StartPoint-gebeurtenispartners](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

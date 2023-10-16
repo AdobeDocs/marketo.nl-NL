@@ -4,9 +4,9 @@ description: "Toevoegen [!DNL Google AdWords] als [!DNL Launchpoint] Service wit
 title: "Toevoegen [!DNL Google AdWords] als [!DNL Launchpoint] Service met een beheerdersaccount"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Meer informatie over [Google, functie voor het importeren van offlineconversies]
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Meer informatie over [Google, functie voor het importeren van offlineconversies]
 
    >[!NOTE]
    >
-   >[Automatisch labelen](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} Deze functie werkt alleen als u deze selecteert. Het moet binnen [!DNL AdWords].
+   >[Automatisch labelen](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} Deze functie werkt alleen als u deze selecteert. Het moet binnen worden geactiveerd [!DNL AdWords].
 
 1. Klik op **[!UICONTROL Next]**.
 

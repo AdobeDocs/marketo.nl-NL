@@ -4,9 +4,9 @@ description: Een verwijzingsvoorstel maken - Marketo Docs - Productdocumentatie
 title: Verwijzingsvoorstel maken
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Verwijzing biedt mensen een prikkel om hun vrienden te raadplegen. Creëer doels
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Kies in uw programma de optie **Nieuw** > **Nieuw lokaal element**.
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. In de **Lokale middelengalerie**, klikt u op **Verwijzingsvoorstel**.
+1. In de **Lokale middelengalerie**, klikt u op **Verwijzing voorstel**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,7 +33,7 @@ Verwijzing biedt mensen een prikkel om hun vrienden te raadplegen. Creëer doels
 
    >[!TIP]
    >
-   >Als u tijd wilt besparen, kunt u de opdracht **Klonen uit** Hiermee kopieert u alle instellingen van een bestaand verwijzingsaanbod.
+   >Als u tijd wilt besparen, kunt u de **Klonen uit** Hiermee kopieert u alle instellingen van een bestaand verwijzingsaanbod.
 
    De verwijzingsaanbiedingsredacteur opent in een nieuw venster. De standaardinstellingen zijn allemaal goed, maar u moet een koppeling toevoegen aan de regels van uw aanbieding (voorwaarden). De koppeling wordt onder in de berichtvensters voor delen weergegeven. In de volgende stap wordt u uitgelegd hoe u dit doet.
 

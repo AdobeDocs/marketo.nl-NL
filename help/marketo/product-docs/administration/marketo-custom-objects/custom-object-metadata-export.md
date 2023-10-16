@@ -3,10 +3,10 @@ description: Metagegevens aangepaste objecten exporteren - Marketo Docs - Produc
 title: Metagegevens van aangepast object exporteren
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Als u onze SOAP API of Munchkin API gebruikt, kan het Schema van de Meta-gegeven
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 1. Ga naar de **[!UICONTROL Admin]** gebied.
 
