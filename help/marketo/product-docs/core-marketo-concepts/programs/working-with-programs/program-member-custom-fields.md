@@ -4,28 +4,28 @@ description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumen
 title: Aangepaste velden voor programmalid
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
 # Aangepaste velden voor programmalid {#program-member-custom-fields}
 
-Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens voor elk lid verzamelen. Zij kunnen worden gebruikt in: Marketo-formulieren, slimme lijstfilters en -triggers en slimme-campagnestroomacties. De gegevens kunnen worden weergegeven op het tabblad Leden van het programma.
+Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens voor elk lid verzamelen. U kunt ze gebruiken in: Marketo-formulieren, slimme-lijstfilters en -triggers en slimme-campagnestroomacties. De gegevens kunnen worden weergegeven op het tabblad Leden van het programma.
 
 ## Een aangepast veld voor programmaleden maken {#create-a-program-member-custom-field}
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Klikken **Veldbeheer**.
+1. Klik op **[!UICONTROL Field Management]**.
 
    ![](assets/two.png)
 
-1. Klikken **Nieuw aangepast veld**.
+1. Klik op **[!UICONTROL New Custom Field]**.
 
    ![](assets/three.png)
 
@@ -37,7 +37,7 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
    >
    >Aangepaste velden voor personen en programmaleden kunnen niet dezelfde naam delen.
 
-1. Vul de overige velden in en klik op **Maken**.
+1. Vul de overige velden in en klik op **[!UICONTROL Create]**.
 
    ![](assets/five.png)
 
@@ -60,7 +60,7 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [trigge
 
 ![](assets/six.png)
 
-## Informatie over {#things-to-know}
+## Informatie over dingen {#things-to-know}
 
 * Aangepaste velden voor programmaleden zijn alleen beschikbaar in lokale middelen. Zij worden niet gesteund in de Studio van het Ontwerp omdat er geen manier is om het aan een specifiek programma te binden.
 * U kunt een formulier (of een landingspagina met een formulier) dat aangepaste velden voor programmaleden bevat, niet klonen of verplaatsen naar de Design Studio.
@@ -71,7 +71,7 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [trigge
 * Importeren en exporteren via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} worden ondersteund. Exporteert het werk aan de lijsten van het Lid van het Programma slechts, niet statische lijsten.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 * Wijzigingstype is niet toegestaan in de velden Program Member Info.
-* De beperking &quot;bevat&quot; voor slimme lijsten wordt niet ondersteund voor aangepaste velden voor programmaleden.
+* De beperking &quot;contains&quot; (Slimme lijst bevat) wordt niet ondersteund voor aangepaste velden voor programmaleden.
 
 >[!MORELIKETHIS]
 >

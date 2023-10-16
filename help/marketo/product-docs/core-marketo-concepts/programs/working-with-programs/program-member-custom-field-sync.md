@@ -3,10 +3,10 @@ description: Aangepaste veldsynchronisatie voor programmalid - Marketo Docs - Pr
 title: Aangepaste veldsynchronisatie voor programmalid
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 1%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 ## Salesforce-velden toewijzen aan aangepaste velden voor programmalid {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Klikken **Salesforce** en klik vervolgens op **Bewerken** naast Aangepaste veldsync voor programmalid.
+1. Klikken **[!DNL Salesforce]** en klik vervolgens op **[!UICONTROL Edit]** naast Aangepaste veldsync voor programmalid.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
 1. Voor extra veldtoewijzingen wist u het zoekvak en herhaalt u stap 3 tot en met 5.
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klikken **[!UICONTROL Save]** wanneer gereed.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -59,17 +59,17 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u het gegevenstype van een gebied in Salesforce anders noemt of verandert, zullen wij om het even welke afbeelding van dat gebied met het Gepaste Gebied van het Lid van het Programma verwijderen. U kunt de toewijzing echter na revisie opnieuw toewijzen met het nieuwe veld.
+   >Als u het gegevenstype van een gebied in Salesforce anders noemt of verandert, zullen wij om het even welke afbeelding van dat gebied met het Gepaste Gebied van het Lid van het Programma verwijderen. Maar u kunt deze na revisie opnieuw toewijzen met het nieuwe veld.
 
 ## Salesforce-velden uit aangepaste velden voor programmalid verwijderen {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algemene wijziging wilt aanbrengen, moet u eerst een unmapping uitvoeren. Zo gaat het.
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Klikken **Salesforce** en klik vervolgens op **Bewerken** naast Aangepaste veldsync voor programmalid.
+1. Klikken **[!DNL Salesforce]** en klik vervolgens op **[!UICONTROL Edit]** naast Aangepaste veldsync voor programmalid.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,13 +79,13 @@ Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algem
 
    >[!TIP]
    >
-   >U kunt de **Toegewezen** Schakel het selectievakje in om alleen toegewezen velden weer te geven.
+   >U kunt de **[!UICONTROL Mapped]** Schakel het selectievakje in om alleen toegewezen velden weer te geven.
 
 1. Toewijzing ongedaan maken door op de knop **X** naast het veld.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. De toewijzing is nu verwijderd. Klikken **Opslaan**.
+1. De toewijzing is nu verwijderd. Klik op **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 

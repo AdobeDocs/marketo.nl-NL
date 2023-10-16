@@ -4,20 +4,20 @@ description: Best Practice - Hoe kan ik uw programma's organiseren - Marketo Doc
 title: Beste praktijken - hoe te om uw Programma's te organiseren
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '844'
 ht-degree: 0%
 
 ---
 
-# Beste praktijken: Uw programma&#39;s ordenen {#best-practice-how-to-organize-your-programs}
+# Beste praktijken: Hoe te om uw Programma&#39;s te organiseren {#best-practice-how-to-organize-your-programs}
 
 Er zijn vele manieren om de boom in de Activiteiten van de Marketing evenals de inhoud van één enkel programma te organiseren. Sommige manieren zijn echter beter en zullen mensen in uw marketingafdeling helpen.
 
 >[!TIP]
 >
->Op een dag (wanneer je wordt gepromoveerd!) iemand anders probeert je programma &#39; s te begrijpen . Goede organisatie zal hen helpen snel productief te zijn.
+>Op een dag (wanneer je gepromoveerd wordt!) probeert iemand anders je programma&#39;s te begrijpen. Goede organisatie zal hen helpen snel productief te zijn.
 
 ## Mappen {#folders}
 
@@ -55,7 +55,7 @@ Elk van deze die in het voorbeeld worden vermeld is een omslag. U ziet hoe ze al
 
 >[!TIP]
 >
->De map &quot;Archiveren&quot; is een speciaal soort map waarmee zowel items uit geselecteerde lijsten als rapportage kunnen worden verwijderd. Hierdoor wordt uw systeem sneller uitgevoerd. Meer informatie [meer informatie over mappen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md).
+>De map &quot;Archiveren&quot; is een speciaal soort map waarmee zowel items uit geselecteerde lijsten als rapportage kunnen worden verwijderd. Hierdoor wordt uw systeem sneller uitgevoerd. Meer informatie [meer informatie over mappen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 U kunt zeker meer mappen toevoegen als u dat wilt. Houd er rekening mee dat toekomstige generaties van marketers in uw bedrijf met uw beslissingen zullen leven over hoe u dingen kunt benoemen/organiseren.
 
@@ -75,7 +75,7 @@ Naamgeving is essentieel, omdat Marketo-functies allemaal een gemeenschappelijke
 >1. NL 2015-06 Nieuwsbrief
 >1. WBN 2015-12-01 Webinar-onderwerp hier
 
-Programmanamen moeten uniek zijn in uw abonnement, zelfs in verschillende [werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Voor de lokale middelen binnen programma&#39;s is de regel: **de naam eenvoudig houden**. Noem enkel een uitnodiging &quot;Uitnodiging,&quot;in tegenstelling tot &quot;Uitnodiging van de Webinar van 2015 Juni.&quot; Omdat deze zich in een programma bevinden, maakt het bovenliggende programma automatisch deel uit van de naam wanneer u deze elders kiest. Met andere woorden, lokale middelen hoeven alleen binnen het programma uniek te zijn. U kunt honderden elementen met de naam &quot;Uitnodigen&quot; hebben in een ander programma en het zal u niet in de war brengen.
+Programmanamen moeten uniek zijn in uw abonnement, zelfs in verschillende [werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Voor de lokale middelen binnen programma&#39;s is de regel: **de naam eenvoudig houden**. Noem enkel een uitnodiging &quot;Uitnodiging,&quot;in tegenstelling tot &quot;Uitnodiging van de Webinar van 2015 Juni.&quot; Omdat deze zich in een programma bevinden, maakt het bovenliggende programma automatisch deel uit van de naam wanneer u deze elders kiest. Met andere woorden, lokale middelen hoeven alleen binnen het programma uniek te zijn. U kunt honderden elementen met de naam &quot;Uitnodigen&quot; hebben in een ander programma en het zal u niet in de war brengen.
 
 ## Tokens {#tokens}
 
@@ -91,13 +91,13 @@ Met de hierboven vermelde organisatie kunt u tokens in de map Event plaatsen, zo
 
 ## Gebeurtenissen {#events}
 
-Een gebeurtenis heeft gewoonlijk veel bewegende onderdelen, zoals: uitnodigingen, bestemmingspagina&#39;s, formulieren, sociale widgets en slimme campagnes. De beste manier om deze voor gebruiksgemak te organiseren is door de fase van de gebeurtenis. Hier ziet u een voorbeeld van hoe de mappenstructuur naar een gebeurtenis moet zoeken.
+Een gebeurtenis heeft meestal veel bewegende onderdelen, zoals uitnodigingen, bestemmingspagina&#39;s, formulieren, sociale widgets en slimme campagnes. De beste manier om deze voor gebruiksgemak te organiseren is door de fase van de gebeurtenis. Hier ziet u een voorbeeld van hoe de mappenstructuur naar een gebeurtenis moet zoeken.
 
 ![](assets/capture.png)
 
 ## Betrokkenheidsprogramma&#39;s {#engagement-programs}
 
-Meer informatie [alles over betrokkenheidsprogramma&#39;s](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md). De beste manier om uw betrokkenheidsprogramma te organiseren is met mappen. Maak een map voor elke stream en plaats de e-mails of programma&#39;s in die map. Neem in elke stream een archiefmap op wanneer de inhoud wordt verkocht en u wilt deze verwijderen.
+Meer informatie [alles over betrokkenheidsprogramma&#39;s](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. De beste manier om uw betrokkenheidsprogramma te organiseren is met mappen. Maak een map voor elke stream en plaats de e-mails of programma&#39;s in die map. Neem in elke stream een archiefmap op wanneer de inhoud wordt verkocht en u wilt deze verwijderen.
 
 ## Operationele programma&#39;s {#operational-programs}
 
@@ -117,8 +117,8 @@ Een van de mooiste functies van Marketo is de mogelijkheid om programma&#39;s te
 >
 >Let op de gebeurtenissjablonen in het voorbeeld bovenaan. Plaats daar uw verschillende soorten gebeurtenissen voor eenvoudig klonen.
 
-Sommige mensen onttrekken zelfs het grootste deel van de tekst in de e-mails en plaatsen pagina&#39;s in tokens. Hierdoor kunt u de tokens klonen en vervolgens bewerken. Tot slot ga naar de mening van het programmaprogramma en pas de data aan en u wordt gebeëindigd. Voila!
+Sommige mensen onttrekken zelfs het grootste deel van de tekst in de e-mails en plaatsen pagina&#39;s in tokens. Hierdoor kunt u de tokens klonen en vervolgens bewerken. Tot slot ga naar de mening van het programmaprogramma en pas de data aan en u wordt gebeëindigd. Voilà!
 
 ## Samenvatting {#summary}
 
-Zoals je ziet, is er veel macht in Marketo. We hebben de basisbeginselen hier besproken, maar denk aan een aantal [aanvullende services van Marketo Experts](https://www.marketo.com/services/) om te perfectioneren en jezelf op te richten voor succes.
+Zoals je ziet, is er veel macht in Marketo. We hebben hier de basisbeginselen besproken, maar overwegen aanvullende diensten van [Deskundigen Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} om te verfijnen en jezelf op te richten voor succes.

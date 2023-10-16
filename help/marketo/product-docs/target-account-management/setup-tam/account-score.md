@@ -4,7 +4,7 @@ description: Accountscore - Marketo-documenten - productdocumentatie
 title: Accountscore
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Het Scoren van de rekening is een essentieel deel van het Beheer van de Rekening
 
 Het is een systematische benadering die wordt ontworpen om verkoop en marketing teams te helpen de bedrijven (met inbegrip van vooruitzichten) identificeren en voorrang geven die het meest waarschijnlijk om een aankoop zullen maken.
 
-In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon een aankoopbeslissing neemt. Er zijn vaak verschillende rollen mee gemoeid, elk met zijn eigen behoeften. Bij het maken van een score op basis van accounts wordt hiermee rekening gehouden door de leadscores van meerdere leads samen te voegen en een score op accountniveau te leveren.
+In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één individu een aankoopbeslissing neemt. Het gaat vaak om verschillende rollen, elk met eigen behoeften. Bij het maken van een score op basis van accounts wordt hiermee rekening gehouden door de leadscores van meerdere leads samen te voegen en een score op accountniveau te leveren.
 
 ## Algemene voorbeelden {#common-examples}
 
@@ -40,7 +40,7 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon
  </tbody>
 </table>
 
-## Hoe te om de Score van de Rekening te vormen {#how-to-configure-account-score}
+## Accountscore configureren {#how-to-configure-account-score}
 
 >[!NOTE]
 >
@@ -57,9 +57,9 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon
 
 Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
-1. Klikken **Beheer**.
+1. Klikken **Beheerder**.
 
-   ![](assets/one-1.png)
+   ![](assets/account-score-1.png)
 
 1. Klikken **Doelaccountbeheer**.
 
@@ -75,12 +75,12 @@ Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
 1. Voer de naam van de accountscore in en klik op de knop **Persoonsscore selecteren** en selecteer de corresponderende score.
 
-   ![](assets/four.png)
+   ![](assets/account-score-4.png)
 
-1. Klikken **+Toevoegen** om meer scores toe te voegen.
+1. Klikken **+Toevoegen** voor meer scores.
 
-   ![](assets/five.png)
+   ![](assets/account-score-5.png)
 
 1. Voeg alle gewenste scores toe. Klikken **Opslaan** wanneer gereed.
 
-   ![](assets/six.png)
+   ![](assets/account-score-6.png)

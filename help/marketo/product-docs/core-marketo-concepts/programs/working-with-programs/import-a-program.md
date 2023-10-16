@@ -4,9 +4,9 @@ description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
 
 ## Een programma importeren {#importing-a-program}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]**.
 
    ![](assets/import-a-program-1.png)
 
-1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Importprogramma**.
+1. Klik op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL Import Program]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -31,19 +31,19 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
    >
    >Als u een sandboxaccount wilt koppelen aan uw live abonnement, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Een Marketo selecteren **Abonnement** en een invoerprogramma. Klikken **Volgende**.
+1. Een Marketo selecteren **[!UICONTROL Subscription]** en een invoerprogramma. Klik op **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Geef een **Campagnemap** voor het geïmporteerde programma. Klikken **Volgende.**
+1. Geef een **[!UICONTROL Campaign Folder]** voor het geïmporteerde programma. Klik op **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Controleer of **Standaardconflict gebruiken** Er zijn regels geselecteerd. Conflictregels zijn nodig wanneer u programma&#39;s importeert in een instantie met elementen met dezelfde naam.
+   >Controleer of **[!UICONTROL Use default conflict]** Er zijn regels geselecteerd. Conflictregels zijn nodig wanneer u programma&#39;s importeert in een instantie met elementen met dezelfde naam.
 
-1. Kies de gewenste conflictdetails en klik op **Volgende**.
+1. Kies de gewenste conflictdetails en klik op **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -51,7 +51,7 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
    >
    >Het invoeren van een programma dat de Stappen van de Stroom van de Douane, of de Slimme regels van de Lijst gebruikt die van de Dienst van de Stap van de Stroom in een bestemmingsinstantie worden afgeleid waar er meer dan één compatibele dienstverlener is, zal de het invoeren gebruiker worden ertoe aangezet om stappen of regels aan de correcte dienstverlener in de bestemmingsinstantie toe te wijzen.
 
-1. Details voorvertonen en **Importeren** het programma.
+1. Details voorvertonen en **[!UICONTROL Import]** het programma.
 
    ![](assets/import-a-program-6.png)
 
@@ -75,7 +75,7 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, de malplaat
 
 >[!CAUTION]
 >
->Afbeeldingstype mijn tokens worden niet ondersteund voor het importeren van programma&#39;s. Als een programma met afbeeldingstype mijn tokens wordt geïmporteerd, **nee** tokens zullen doorkomen .
+>Afbeeldingstype mijn tokens worden niet ondersteund voor het importeren van programma&#39;s. Als een programma met afbeeldingstype mijn tokens wordt geïmporteerd, _nee_ tokens zullen doorkomen .
 
 **Programmatags:** U kunt collisieregels gebruiken om te controleren hoe de programmamarkeringen die niet in de bestemmingsrekening bestaan zullen worden behandeld. Als u de standaardregel gebruikt, worden de programmacodes gemaakt of kunt u de codes negeren.
 

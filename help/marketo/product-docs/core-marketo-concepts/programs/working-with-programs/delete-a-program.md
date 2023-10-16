@@ -4,9 +4,9 @@ description: Een programma verwijderen - Marketo Docs - Productdocumentatie
 title: Een programma verwijderen
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Je kunt een programma archiveren, maar soms wil je er gewoon permanent van af. Z
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Klikken **Programmaacties**. Klikken **Verwijderen**.
+1. Klik op de knop **[!UICONTROL Program Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selecteer de optie Alles verwijderen. Bekijk de bijwerkingen van de verwijdering van het programma en klik vervolgens op **Verwijderen** ter bevestiging.
+1. Selecteer het keuzerondje Alles verwijderen... Controleer de effecten van het verwijderen van het programma en klik vervolgens op **[!UICONTROL Delete]** ter bevestiging.
 
 >[!TIP]
 >
->**Archiveringsprogramma&#39;s** houdt de programmagegevens maar plaatst het programma uit uw weg. Selecteer die optie en klik op **Volgende** voor meer informatie over archivering.
+>Bij het archiveren van programma&#39;s blijven de programmagegevens behouden, maar wordt het programma uit uw weg gezet. Selecteer die optie en klik op **[!UICONTROL Next]** voor meer informatie over archivering.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -37,13 +37,13 @@ Gereed. Het is alsof het programma nooit bestond.
 
 Programma&#39;s kunnen elementen bevatten die elders in het systeem worden gebruikt. Hierdoor kunt u geen programma verwijderen.
 
-Mogelijk moet u naar beneden bogen en verwijderen om het probleem op te lossen. Voer de volgende stappen uit.
+Mogelijk hebt u een boor-down- en een verwijderfunctie nodig om het probleem op te lossen. Voer de volgende stappen uit.
 
 1. Klik op de koppeling om naar het element te gaan.
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klikken **Gebruikt door** om te zien waar het actief in gebruik is.
+1. Klikken **[!UICONTROL Used By]** om te zien waar het actief in gebruik is.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
