@@ -4,7 +4,7 @@ description: Een stap toevoegen aan een slimme campagne - Marketo Docs - Product
 title: Een stroomstap toevoegen aan een slimme campagne
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,7 +33,7 @@ De stappen van de stroom vertellen Marketo Engage wat u met een groep mensen wil
 
 >[!NOTE]
 >
->De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [De stroomstappen opnieuw ordenen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} om ervoor te zorgen dat ze in de juiste volgorde zitten.
+>De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [De stroomstappen opnieuw ordenen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} om ervoor te zorgen dat ze in de juiste volgorde zitten.
 
 >[!TIP]
 >
@@ -44,4 +44,4 @@ Geweldig! Zorg ervoor dat u [de slimme campagne controleren en valideren](/help/
 >[!MORELIKETHIS]
 >
 >* [Keuze toevoegen in een stroomstap gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
