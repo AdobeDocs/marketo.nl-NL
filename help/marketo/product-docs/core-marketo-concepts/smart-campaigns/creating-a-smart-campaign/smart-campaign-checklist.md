@@ -4,9 +4,9 @@ description: Smart Campagne Checklist - Marketo Docs - Productdocumentatie
 title: Controlelijst voor slimme campagne
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Voer de onderstaande stappen uit om ervoor te zorgen dat de slimme campagne prob
 
 ## ID van slimme lijstfouten ophalen {#get-rid-of-smart-list-errors}
 
-Klik in uw slimme campagne op **Slimme lijst**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten op te lossen.
+Klik in uw slimme campagne op **[!UICONTROL Smart List]**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten op te lossen.
 
 ![](assets/smart-campaign-checklist-1.png)
 
@@ -25,15 +25,15 @@ Klik in uw slimme campagne op **Slimme lijst**. Verwijder alle rode kronkelige l
 >
 >Rode kronkelige lijnen geven fouten of ontbrekende informatie aan. Als de campagne niet wordt gecorrigeerd, is deze ongeldig en wordt deze niet uitgevoerd.
 >
->Ook, **dingen eenvoudig houden**. Als je tientallen of honderden filters hebt, is het moeilijk om ze te onderhouden en bij te houden. Minder filters zijn ook sneller te laden.
+>Houd de zaken ook eenvoudig. Als je tientallen of honderden filters hebt, is het moeilijk om ze te onderhouden en bij te houden. Minder filters zijn ook sneller te laden.
 
 >[!NOTE]
 >
->Gebruiken **Lid van slimme lijst** kan fouten in die andere lijst hebben. Kijk daar ook.
+>Gebruiken **[!UICONTROL Member of Smart List]** kan fouten in die andere lijst hebben. Kijk daar ook.
 
 ## Rid van stroomfouten ophalen {#get-rid-of-flow-errors}
 
-Klik in uw slimme campagne op **Stroom**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten te corrigeren.
+Klik in uw slimme campagne op **[!UICONTROL Flow]**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten te corrigeren.
 
 ![](assets/smart-campaign-checklist-2.png)
 
@@ -43,13 +43,13 @@ Klik in uw slimme campagne op **Stroom**. Verwijder alle rode kronkelige lijnen 
 
 ## Het tabblad Planning bekijken {#review-the-schedule-tab}
 
-In de **Schema** tab, check **Slim** **Lijst** **Status** voor eventuele fouten in de slimme campagne die moeten worden gecorrigeerd.
+In de **[!UICONTROL Schedule]** tab, check **[!UICONTROL Smart List Status]** voor eventuele fouten in de slimme campagne die moeten worden gecorrigeerd.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Limiet personenbeperkingen controleren {#check-person-restrictions-limit}
 
-In de **Schema** , moet u ervoor zorgen dat het aantal gekwalificeerde personen de beperking voor personen niet overschrijdt.
+In de **[!UICONTROL Schedule]** , moet u ervoor zorgen dat het aantal gekwalificeerde personen de beperking voor personen niet overschrijdt.
 
 ![](assets/smart-campaign-checklist-4.png)
 

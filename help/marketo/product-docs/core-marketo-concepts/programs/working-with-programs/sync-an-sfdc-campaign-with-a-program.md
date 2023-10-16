@@ -4,9 +4,9 @@ description: Een SFDC-campagne synchroniseren met een programma - Marketo Docs -
 title: Een SFDC-campagne synchroniseren met een programma
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce
 
 >[!PREREQUISITES]
 >
->U moet [enable [!DNL Salesforce] campagnecorrectie](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) eerst.
+>U moet [enable [!DNL Salesforce] campagnecorrectie](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} eerst.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Selecteren **[!UICONTROL Create New]** of kies een bestaande Salesforce-campagne.
+1. Selecteren **[!UICONTROL Create New]** of kies een bestaande [!DNL Salesforce] campagne.
 
    >[!TIP]
    >
-   >Als u een bestaande Salesforce-campagne selecteert, moet u [in overeenstemming zijn met de status van het programma van de Salesforce-campagne en het Marketo-programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Als u een bestaande [!DNL Salesforce] campagne, zorg ervoor [overeenkomen met de programmastatussen van de [!DNL Salesforce] campagne en het Marketo-programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
 
 1. Voer een naam in voor de nieuwe campagne en klik op **[!UICONTROL Save]**.
 

@@ -4,10 +4,10 @@ description: Webhaak bellen - Marketo Docs - Productdocumentatie
 title: Bellen Webhaak
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Webhaak maken](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md)
+>[Webhaak maken](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
 ## Overzicht {#overview}
 
@@ -25,11 +25,11 @@ Met webhaks kunt u communiceren met services van derden. Verzend/ontvang informa
 
 >[!NOTE]
 >
->Meer weten over de vele fascinerende dingen die [Webhaken](https://developers.marketo.com/documentation/webhooks/) kan voor jou.
+>Meer weten over de vele fascinerende dingen die [Webhaken](https://developers.marketo.com/documentation/webhooks/){target="_blank"} kan voor jou.
 
 ## Gebruik {#usage}
 
-Selecteer een **Webhaak** in de vervolgkeuzelijst.
+Selecteer een Webhaak van drop-down.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
@@ -37,4 +37,4 @@ Dat is alles! Uw webhaak wordt nu aangeroepen wanneer mensen de slimme-campagnes
 
 >[!MORELIKETHIS]
 >
->[Een webhaak gebruiken in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
+>[Een webhaak gebruiken in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md){target="_blank"}

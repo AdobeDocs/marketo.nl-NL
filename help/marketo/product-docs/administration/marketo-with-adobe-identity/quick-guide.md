@@ -3,7 +3,7 @@ description: Snelle gids - Marketo Docs - Productdocumentatie
 title: Snelle gids
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Snelle gids {#quick-guide}
 
-Met de onderstaande artikelen kunt u Marketo Engage met Adobe Identity Management instellen en leren gebruiken.
+Met de onderstaande artikelen kunt u Marketo Engage instellen en leren met Adobe Identity Management.
 
 ## Systeembeheerinstellingen {#system-admin-setup}
 
@@ -32,7 +32,7 @@ Gebruikers toevoegen en verwijderen. Voltooid door Productbeheerder (of Systeemb
 
 ## Alleen API-gebruiker in Marketo Engage {#api-only-user-in-marketo-engage}
 
-Gebruikers met alleen Marketo Engage-API moeten worden gemaakt en beheerd in Marketo Engage.
+Gebruikers met alleen Marketo Engage-API moeten in Marketo Engage worden gemaakt en beheerd.
 
 [Alleen API-gebruiker toevoegen voor door Adobe IMS ingeschakelde abonnementen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
@@ -42,8 +42,8 @@ Gebruikers met alleen Marketo Engage-API moeten worden gemaakt en beheerd in Mar
 
 ## Aanmelden door gebruiker {#user-sign-in}
 
-[Aanmelden bij Adobe ID](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+[Aanmelden door gebruiker bij Adobe ID](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 
 ## Veelgestelde vragen {#faq}
 
-[Veelgestelde vragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target="_blank"}
+[Veelgestelde vragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}

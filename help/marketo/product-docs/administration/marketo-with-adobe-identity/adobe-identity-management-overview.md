@@ -1,37 +1,41 @@
 ---
-description: Adobe Identity Management - Overzicht - Marketo Docs - Productdocumentatie
-title: Adobe Identity Management - Overzicht
+description: Adobe Identity Management - Overzicht - Marketo Docs - de Documentatie van het Product
+title: Overzicht van Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '1087'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 
-# Adobe Identity Management - Overzicht {#adobe-identity-management-overview}
+# Overzicht van Adobe Identity Management {#adobe-identity-management-overview}
 
-Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met het Adobe-accountteam (uw accountmanager) als u dit doet.
+Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met het accountteam van de Adobe (uw accountmanager) om te weten te komen of u dit doet.
 
-Bestaande Marketo-abonnementen zullen in de tweede helft van 2023 worden gemigreerd naar het Adobe Identity Management-systeem.
+Bestaande Marketo-abonnementen zullen in de tweede helft van 2023 worden gemigreerd naar het Adobe Identity Management System.
+
+Als u een [nieuwe account](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (niet alleen een nieuw exemplaar voor een bestaande account) met Adobe Marketo Engage vanaf 15 februari 2022, wordt het mogelijk geïntegreerd met het Adobe Identity Management System (IMS), afhankelijk van het aangeschafte productpakket. Neem contact op met het accountteam van de Adobe (uw accountmanager) om te weten te komen of u dit doet.
+
+Bestaande Marketo-abonnementen zullen eind 2023 worden gemigreerd naar het Adobe Identity Management System. Deze migraties kunnen in eerste instantie pas plaatsvinden nadat u uw Marketo-abonnement opnieuw hebt gecontracteerd. De Adobe is voornemens rond medio 2024 Marketo-gebruikers te gaan migreren buiten de uitbestedingsactiviteiten.
 
 >[!NOTE]
 >
->Marketo Support kan geen updates voor Adobe IMS-migratie leveren. Het accountteam van Adobe bereikt het geschatte tijdpad in de komende maanden.
+>Marketo Support kan geen updates bieden voor de migratie naar Adobe IMS. Het accountteam van de Adobe zal de komende maanden het geschatte tijdpad bereiken. Zie voor meer informatie [dit artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## Profielniveaus {#profile-levels}
 
-Adobe Marketo Engage-abonnementen op het Adobe Identity Management-systeem ondersteunen verschillende profielen. Hier volgen de typen gebruikersprofielen die relevant zijn voor deze integratie.
+Adobe Marketo Engage-abonnementen op het Adobe Identity Management System ondersteunen verschillende profielen. Hier volgen de typen gebruikersprofielen die relevant zijn voor deze integratie.
 
 <table>
  <tr>
   <td><strong>Adobe Admin Console System Admin</strong></td>
-  <td>Verantwoordelijk voor het opzetten van identiteitsconcepten voor de Adobe org en het Marketo Engage product in de Adobe Admin Console. Toegewezen rol bij de opstelling van de organisatie van Adobe.</td>
+  <td>Verantwoordelijk voor het opzetten van identiteitsconcepten voor de Adobe org en het product van de Marketo Engage in Adobe Admin Console. Toegewezen rol bij de opstelling van de Adobe organisatie.</td>
  </tr>
  <tr>
   <td><strong>Adobe Admin Console-productbeheerder</strong></td>
-  <td>Verantwoordelijk voor het recht van gebruikers op het product Marketo Engage in de Adobe Admin Console. Toegewezen rol in Adobe Admin Console.</td>
+  <td>Verantwoordelijk voor het recht van gebruikers op het product van de Marketo Engage in de Adobe Admin Console. Toegewezen rol in Adobe Admin Console.</td>
  </tr>
  <tr>
   <td><strong>Adobe Admin Console-productprofielbeheer</strong></td>
@@ -39,94 +43,18 @@ Adobe Marketo Engage-abonnementen op het Adobe Identity Management-systeem onder
 </td>
  </tr>
  <tr>
-  <td><strong>Marketo Engage-productbeheerder</strong></td>
-  <td>Een persoon die toegang heeft gekregen tot Marketo Engage met administratieve voorrechten. Toegewezen rol in Marketo Engage, niet in Adobe Admin Console.</td>
+  <td><strong>Admin voor Marketo Engage</strong></td>
+  <td>Een persoon die toegang heeft gekregen tot een Marketo Engage met administratieve voorrechten. Toegewezen rol in Marketo Engage, niet in Adobe Admin Console.</td>
  </tr>
  <tr>
-  <td><strong>Marketo Engage-gebruiker</strong></td>
+  <td><strong>Gebruiker van Marketo Engage</strong></td>
   <td>Een persoon die toegang heeft gekregen tot Marketo Engage. Geen beheerdersrechten.</td>
  </tr>
 </table>
 
 ## Veelgestelde vragen {#faq}
 
-**Wat is Adobe Identity?**
-
-Adobe Identity Management System bestaat uit drie componenten.
-
-* [!DNL Adobe Identity Service]: Verwerkt verificatie en validatie van de eindgebruiker, inclusief federatie en runtime Single-Sign-On (SSO).
-
-* Adobe Admin Console: De Admin Console biedt een centrale locatie voor het beheer van de rechten van Adobe in uw gehele organisatie. Het behandelt gebruikersbeheer, de wolkendienst, Desktoplicentierechten, federatieconfiguratie, en verstrekt de veiligheidseigenschappen van de verliespreventie.
-
-* Adobe-gebruikersbeheer-API (UMAPI): Hiermee kunnen organisaties gebruikers en rechten van ondernemingen in de Adobe Admin Console op API-niveau beheren.
-
-**Wanneer worden bestaande Marketo Engage-abonnementen geïntegreerd met IMS?**
-
-Bestaande Marketo-abonnementen zullen later dit jaar naar het Adobe Identity Management-systeem worden gemigreerd. Marketo Support kan geen updates voor Adobe IMS-migratie leveren. Het accountteam van Adobe bereikt het geschatte tijdpad in de komende maanden.
-
-**Wat is het verschil tussen een Adobe-productbeheerder en een Marketo Engage-beheerder?**
-
-* Adobe Product Admin is een nieuwe rol in het Marketo-platform.
-* Adobe Product Admin-rol wordt toegekend aan gebruikers die als productbeheerder in Adobe Admin Console zijn toegevoegd
-* Adobe Product Admin is een alleen-lezen rol en kan niet worden bewerkt of verwijderd uit Marketo Engage.
-* Adobe Product Admin heeft dezelfde rechten en rechten als standaard Marketo Admin.
-* De rol van Marketo Engage Admin is nog steeds Admin en wordt toegekend aan een gebruiker in Marketo Engage.
-
-**Is er een wijziging in de ondersteuning van de gebruikersbeheer-API-client?**
-
-Ja. Degenen die aan Adobe IMS zijn aangemeld, kunnen niet alle bestaande Marketo-API&#39;s voor gebruikersbeheer gebruiken. Voor het uitnodigen, bijwerken en verwijderen van handelingen van gebruikers, de Adobe [IMS API&#39;s](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"} te gebruiken. Voor rolbeheer zijn de Marketo-API&#39;s voor gebruikersbeheer nog steeds van toepassing. Daarnaast zijn er geen andere wijzigingen in de Marketo REST API-clientondersteuning.
-
-**Wie nemen we contact op voor ondersteuning als we geïntegreerd zijn met IMS?**
-
-U zou de standaardprocedure voor het contacteren volgen [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
-
-**Als ik een Identiteit van de Adobe gebruik om tot andere toepassingen van de Adobe toegang te hebben, kan ik dat gebruiken om tot Marketo toegang te hebben?**
-
-Zelfs als u andere Adobe-producten hebt, hebt u geen toegang tot Marketo met Adobe Identity totdat het abonnement is gemigreerd naar IMS.
-
-**Zijn Marketo-gebruikersrollen (binnen werkruimten) beheerd in Adobe Admin Console?**
-
-Nee. Het beheer van de Rol van de gebruiker (binnen werkruimten) wordt voltooid in Marketo Engage.
-
-**Ik ben Marketo Admin in een geïntegreerd IMS-abonnement en heb geen toegang tot de Admin Console. Hoe krijg ik toegang?**
-
-Om het even welk Systeem van de Adobe of Admin van het Product dat toegang tot de Admin Console van uw organisatie heeft kan u toegang geven. Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer [Adobe Klantenservice](https://helpx.adobe.com/contact.html){target="_blank"}.
-
-**Hoe kan een beheerder gebruikers toevoegen aan Marketo [!DNL Sales Connect]?**
-
-Terwijl er een productkaart in Admin Console is voor [!DNL Sales Connect], mag Admin Console niet worden gebruikt om gebruikers toe te voegen/te beheren. Met de volgende koppeling kunnen beheerders gebruikers beheren via Marketo [!DNL Sales Connect]: [https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
-
-**Waar kan ik meer leren over de Adobe Admin Console?**
-
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}.
-
-**Ga ik nog steeds naar de sectie Admin in Marketo om wijzigingen aan te brengen in gebruikersaccounts voor mijn account?**
-
-Nee, u moet naar [account.adobe.com](https://account.adobe.com){target="_blank"}.
-
-**Hoe werkt dit met Marketo Universal ID?**
-
-De gebruikers aan boord van een Adobe-identiteit hebben naadloos toegang tot alle abonnementen voor IMS via de abonnementsschakelaar in het product.
-
-**Werkt dit met SSO?**
-
-Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. [Meer informatie hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
-
-**Hoe werkt apparaatautorisatie?**
-
-Adobe IMS biedt momenteel geen ondersteuning voor functies voor het autoriseren van Marketo-apparaten.
-
-**Is het nog mogelijk om de functie &quot;Aanmelden bij gebruiker uitnodigen&quot; te gebruiken om de aanmelding van een gebruiker uniek te maken via e-mail?**
-
-Nee. De uitnodigingsworkflow van de gebruiker is niet meer actief wanneer een abonnement op IMS is ingeschakeld, zodat de functie niet langer geldig is. Voor een Adobe-identiteit moet de identiteit van de gebruiker door het e-mailbericht worden gestuurd.
-
-**Voor Adobe IMS, hebben wij de optie om Adobe ID, Enterprise ID, of Federated ID te gebruiken?**
-
-Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Hier vindt u meer informatie: [Identiteitsoverzicht](https://helpx.adobe.com/enterprise/using/identity.html) en hier: [Identiteit instellen](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
-
-**Welke productkaarten worden ondersteund in de Adobe Admin Console?**
-
-De ondersteunde productkaarten zijn: Handelingen Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect en Marketo Sales Insight.
+Veelgestelde vragen [hier te vinden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Begrijpingsperiode kosten - Marketo-documenten - productdocumentati
 title: Kosten voor tijdrekening
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Periode-kosten hebben betrekking op het geld dat u in een bepaalde maand aan een
 >
 >Als je $1000 besteedt aan het huren van een illustrator voor een eBook dat in juli wordt gestart - dan kost het eBook-programma in juli $1000.
 >
->Als je $200 per maand besteedt aan Google Adwords, kost het Google Adwords-programma $200 **elke maand**.
+>Als je $200 per maand besteedt aan [!DNL Google Adwords] - de [!DNL Google Adwords] programma zou een periode kosten van $200 hebben _elke maand_.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    ![](assets/graph1.png)
 
-   ...contacten die in maanden vóór en na zullen worden toegevoegd *alleen* tel naar maart.
+   ...contactpersonen toegevoegd in de maanden ervoor en erna *alleen* tel naar maart.
 
    ![](assets/graph2.png)
 
@@ -55,7 +55,7 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    ![](assets/graph5.png)
 
-   ...de contacten die in de maanden januari tot en met maart worden toegevoegd, zullen naar januari tellen. Contacten die in de maanden april en mei zijn toegevoegd, zullen tot april tellen.
+   ...contacten die in de maanden januari tot en met maart zijn toegevoegd, zullen naar januari tellen. Contacten die in de maanden april en mei zijn toegevoegd, zullen tot april tellen.
 
    ![](assets/graph6.png)
 
