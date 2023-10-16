@@ -4,32 +4,32 @@ description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 797ae74a76674a0ad2b05ff22cd1c084068299fd
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
 
 # Een programma importeren {#import-a-program}
 
-Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Bovendien kunt u een vooraf gebouwd programma importeren uit de Marketo Program Library.
+Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Bovendien kunt u een vooraf gebouwd programma importeren vanuit de [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 ## Een programma importeren {#importing-a-program}
 
-1. Ga naar **Marketingactiviteiten.**
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/import-a-program-1.png)
 
-1. Klikken **Nieuw** vervolgkeuzelijst. Selecteren **Importprogramma**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Importprogramma**.
 
    ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
-   >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [het beheren van gebruikersrollen en toestemmingen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [gebruikersrollen en machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Als u een sandboxaccount wilt koppelen aan uw live abonnement, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Als u een sandboxaccount wilt koppelen aan uw live abonnement, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Een Marketo selecteren **Abonnement** en een invoerprogramma. Klikken **Volgende**.
 
@@ -61,15 +61,15 @@ U ontvangt een e-mailbevestiging zodra het importeren is voltooid.
 >
 >U moet geïmporteerde batchcampagnes opnieuw plannen en triggercampagnes activeren. Het systeem deactiveert automatisch campagnematerialen en activeert campagnes in het geïmporteerde programma.
 
-## Gevolgen voor externe activa tijdens programmainvoer {#impact-on-external-assets-during-program-imports}
+## Gevolgen voor externe activa tijdens de invoer van het programma {#impact-on-external-assets-during-program-imports}
 
-De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende paginasjablonen, beelden, vormen, tekenen, en programmalabels. U kunt configureren hoe sjablonen voor landingspagina&#39;s en programmacodes worden verwerkt, en Marketo beheert automatisch de rest.
+De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, de malplaatjes van de Landing van de Pagina, beelden, vormen, tekenen, en programmamarkeringen. U kunt configureren hoe de sjablonen en programmatags voor de bestemmingspagina worden verwerkt en Marketo beheert de rest automatisch.
 
 **Sjablonen voor e-mail- en landingspagina:** De sjablonen voor e-mail- en landingspagina worden geïmporteerd in de Design Studio. U kunt collisieregels gebruiken om gedrag te vormen wanneer een malplaatje met de zelfde naam bestaat. Met de standaardregel wordt een getal toegevoegd aan een sjabloon als er een bestaat met dezelfde naam. Als u bijvoorbeeld al een sjabloon hebt met de naam &quot;Standaardsjabloon&quot;, krijgt de nieuwe sjabloon de naam &quot;Standaardsjabloon - 1&quot;.
 
-**Openingspagina&#39;s/Forms:** Als een formulier of landingspagina met dezelfde naam bestaat in Design Studio, worden deze nog steeds geïmporteerd, maar wordt er een nummer aan de naam toegevoegd (bijvoorbeeld: Openingspagina - 1).
+**Openingspagina&#39;s/Forms:** Als een formulier of bestemmingspagina met dezelfde naam bestaat in Design Studio, worden deze nog steeds geïmporteerd, maar met een nummer dat aan de naam wordt toegevoegd (bijvoorbeeld: bestemmingspagina - 1).
 
-**Afbeeldingen:** Afbeeldingen die door bestemmingspagina&#39;s worden gebruikt, worden in de ontwerpstudio geïmporteerd, tenzij er een met dezelfde naam bestaat.
+**Afbeeldingen:** Afbeeldingen die door Landing Pages worden gebruikt, worden in de ontwerpstudio geïmporteerd tenzij er een met dezelfde naam bestaat.
 
 **Tokens:** Tokens die buiten een programma leven, worden tijdens het importeren omgezet in lokale tokens.
 
@@ -81,4 +81,4 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende pa
 
 >[!CAUTION]
 >
->Bij het importeren van een programma worden pagina&#39;s met e-mails/landingen die [dynamische inhoud](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) wordt overgeslagen.
+>Bij het importeren van een programma worden e-mails/bestemmingspagina&#39;s met [dynamische inhoud](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} wordt overgeslagen.
