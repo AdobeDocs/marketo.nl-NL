@@ -4,10 +4,10 @@ description: Crediteren aan Referrer - Marketo Docs - Productdocumentatie
 title: Crediteren aan referentie
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 1%
+source-wordcount: '134'
+ht-degree: 2%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 1%
 
 ## Overzicht {#overview}
 
-Wanneer u een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of [zweten](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), kunt u de referentie op verschillende manieren crediteren:
+Wanneer u een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, kunt u de referentie op verschillende manieren crediteren:
 
 * Doorverwezen bezoeken
-* Aanwijzingen
+* Aangewezen Sign-Ups
 * **Smart List Trigger**
 * Aangepaste JavaScript-gebeurtenis
 
@@ -34,6 +34,6 @@ Als u ervoor kiest om de **Smart List Trigger** als u een doel wilt opgeven, moe
 
    >[!NOTE]
    >
-   >Controleer of uw sociale app is geconfigureerd voor gebruik van Smart List Trigger. Zie  [Doel voor doorverwijzing opgeven](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) voor meer informatie.
+   >Controleer of uw sociale app is geconfigureerd voor gebruik van Smart List Trigger. Zie [Doel voor doorverwijzing opgeven](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} voor meer informatie.
 
 Uitstekend! Elke persoon die met deze stap wordt verwerkt, zal nu zijn referentie crediteren.

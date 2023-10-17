@@ -3,9 +3,9 @@ description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,17 @@ Campagne uitvoeren is een verbetering van [Campagne aanvragen](/help/marketo/pro
 
 ## Een uitvoerbare campagne maken {#how-to-create-an-executable-campaign}
 
-1. Klik met de rechtermuisknop op het gewenste programma en selecteer **Nieuwe slimme campagne**.
+1. Klik met de rechtermuisknop op het gewenste programma en selecteer **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Geef het een naam, selecteer **Uitvoerbaar** selectievakje en klik op **Maken**.
+1. Geef het een naam, selecteer **[!UICONTROL Executable]** selectievakje en klik op **[!UICONTROL Create]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definieer de slimme lijst en stroom, net als elke andere slimme campagne.
 
-U kunt ook een bestaande slimme campagne klonen. Als u een bestaande uitvoerbare campagne kloont, zult u nog moeten selecteren **Uitvoerbaar** Schakel het selectievakje in nadat u het een naam hebt gegeven.
+U kunt ook een bestaande slimme campagne klonen. Als u een bestaande uitvoerbare campagne kloont, zult u nog moeten selecteren **[!UICONTROL Executable]** Schakel het selectievakje in nadat u het een naam hebt gegeven.
 
 >[!NOTE]
 >
@@ -73,11 +73,11 @@ Bij gebruik van Planning of Request-campagne [in de API](https://developers.mark
 
 >[!CAUTION]
 >
->Laat uw slimme lijsten voor uitvoerbare campagnes nooit ongeldig, anders **niemand** hiervoor in aanmerking komen. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
+>Laat uw slimme lijsten voor uitvoerbare campagnes nooit ongeldig, anders _niemand_ hiervoor in aanmerking komen. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
 
 ## Voorbeeld van overerving van token {#token-inheritance-example}
 
-Hieronder ziet u een visueel voorbeeld van Overerving token in één uitvoerbare campagne en twee bovenliggende campagnes: één met tokencontext ingesteld op **Waar**, de andere **Onwaar**.
+Hieronder ziet u een visueel voorbeeld van Overerving token in één uitvoerbare campagne en twee bovenliggende campagnes: één met tokencontext ingesteld op **[!UICONTROL True]**, de andere **[!UICONTROL False]**.
 
 Onderliggende campagne met een verkapte Change Score.
 
@@ -87,7 +87,7 @@ De onderliggende campagne is Mijn Tokens.
 
 ![](assets/execute-campaign-4.png)
 
-**Voorbeeld één - waar**
+### Voorbeeld één - waar {#example-one-true}
 
 In de de stroomstap van de Campagne van de Uitvoeren van de eerste oudercampagne, wordt &quot;de TokenContext van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **Waar**.
 
@@ -101,7 +101,7 @@ De resultaten: de score is met +10 gewijzigd.
 
 ![](assets/execute-campaign-7.png)
 
-**Voorbeeld twee: Onwaar**
+### Voorbeeld twee: Onwaar {#example-two-false}
 
 In de de stroomstap van de Campagne van de Uitvoeren van de tweede oudercampagne, wordt &quot;de TokenContext van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **Onwaar**.
 

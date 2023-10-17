@@ -4,9 +4,9 @@ description: Waarschuwing verzenden - Marketo-documenten - productdocumentatie
 title: Waarschuwing verzenden
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Marketo kan een e-mailbericht met persoonlijke gegevens naar iedereen sturen - de eigenaar van de verkoop, een partner of iemand anders. Gebruik de **Waarschuwing verzenden** stap Stroom.
+Marketo kan een e-mailbericht met persoonlijke gegevens naar iedereen sturen - de eigenaar van de verkoop, een partner of iemand anders. Gebruik de &quot;[!UICONTROL Send Alert]&quot;.
 
 ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Marketo kan een e-mailbericht met persoonlijke gegevens naar iedereen sturen - d
 
    >[!NOTE]
    >
-   >Uw e-mailwaarschuwing moet alle koptekstgegevens bevatten en in het **Goedgekeurd** status.
+   >Uw e-mailwaarschuwing moet alle koptekstgegevens bevatten en in het **[!UICONTROL Approved]** status.
 
 1. U kunt op het voorvertoningspictogram klikken om te controleren of u het juiste e-mailadres hebt geselecteerd.
 
@@ -35,9 +35,9 @@ Marketo kan een e-mailbericht met persoonlijke gegevens naar iedereen sturen - d
 
    >[!NOTE]
    >
-   >Zorg ervoor dat u de **Waarschuwingsgegevens verzenden** in uw e-mail.
+   >Zorg ervoor dat u de &quot;[!UICONTROL Send Alert Info]&quot;token in je e-mail.
 
-1. Selecteer de ontvanger van de waarschuwing. Je kunt de eigenaar van de verkoper of de eigenaar van de account kiezen.
+1. Selecteer de ontvanger van de waarschuwing. U kunt kiezen [!UICONTROL Sales Owner] of [!UICONTROL Account Owner].
 
    ![](assets/four-2.png)
 
@@ -47,10 +47,8 @@ Marketo kan een e-mailbericht met persoonlijke gegevens naar iedereen sturen - d
 
    >[!TIP]
    >
-   >In triggercampagnes kunt u tokens gebruiken in **Naar andere e-mails** zoals `{{lead.Territory Owner}}` of `{{my.Alert Recipient}}` als de waarden geldige e-mailadressen zijn. Tokens in **Naar andere e-mails** werkt niet in een batchcampagne.
-
-Dat is het! Nu weet u hoe u de **Waarschuwing verzenden** stap Stroom.
+   >In triggercampagnes kunt u tokens gebruiken in **[!UICONTROL To Other Emails]** zoals `{{lead.Territory Owner}}` of `{{my.Alert Recipient}}` als de waarden geldige e-mailadressen zijn. Tokens in **[!UICONTROL To Other Emails]** werkt niet in een batchcampagne.
 
 >[!MORELIKETHIS]
 >
->[Een e-mail maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>[Een e-mail maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}

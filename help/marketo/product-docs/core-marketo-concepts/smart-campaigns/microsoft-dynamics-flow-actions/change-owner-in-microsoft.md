@@ -4,7 +4,7 @@ description: Eigenaar wijzigen in Microsoft - Marketo Docs - Productdocumentatie
 title: Eigenaar wijzigen in Microsoft
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Als u bestaande mensen hebt die reeds aan een eigenaar worden toegewezen, kunt u
 
 >[!NOTE]
 >
->Deze stroomstap zal **werkt alleen bij gebruik met triggers**, niet filters, in uw slimme campagne.
+>Deze stroomstap zal _werkt alleen bij gebruik met triggers_, niet filters, in uw slimme campagne.
 
 ![](assets/one-1.png)
 

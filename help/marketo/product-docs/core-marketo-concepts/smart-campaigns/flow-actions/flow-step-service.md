@@ -3,26 +3,26 @@ description: Flow Step Service - Marketo Docs - Productdocumentatie
 title: Stroom Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1206'
 ht-degree: 0%
 
 ---
 
 # Stroom Step Service {#flow-step-service}
 
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo&#39;s Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor meer informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 
-Voor het installeren van een aangepaste flowstap zijn beheerdersmachtigingen in Marketo vereist (**Webhaken beheren** in de 21ste release van januari, Wijzend in de release van 11 maart). Behalve de installatie-URL kunnen alle andere aspecten van een service worden bewerkt nadat de eerste instapprocedure is voltooid. Hieronder wordt u geboord in het scherm met servicegegevens van het raster Serviceproviders.
+Voor het installeren van een aangepaste flowstap zijn beheerdersmachtigingen in Marketo vereist. Behalve de installatie-URL kunnen alle andere aspecten van een service worden bewerkt nadat de eerste instapprocedure is voltooid. Hieronder wordt u geboord in het scherm met servicegegevens van het raster Serviceproviders.
 
 ## Installatie-URL {#installation-url}
 
 Als u wilt beginnen met de installatie, moet u eerst de URL opvragen van het OpenAPI-document dat uw service definieert. Uw serviceprovider moet dit aan u kunnen aanbieden en heeft doorgaans een URL die eindigt in `/openapi.json`. Volledige URL&#39;s zien er ongeveer als volgt uit `https://www.example.com/OpenAPI.json`. Zodra u deze URL hebt, ga naar het menu van Dienstverleners in uw Sectie Admin.
 
-Klikken **Volgende** om naar de sectie Enter Service Credentials te gaan.
+Klikken **[!UICONTROL Next]** om naar de sectie Enter Service Credentials te gaan.
 
 ![](assets/flow-step-service-1.png)
 
@@ -46,9 +46,9 @@ Om gegevens van een bepaald loodveld te ontvangen of te retourneren, moet dat ve
 
 Optionele veldtoewijzingen kunnen worden uitgeschakeld zonder onderbreking van de service, maar vereiste toewijzingen kunnen niet volledig worden verwijderd of gedeactiveerd.
 
-## Op service gebaseerde appings {#service-driven-mappings}
+## Servicedesgestuurde afbeeldingen {#service-driven-mappings}
 
-Services met een vaste set inputs en outputs, zoals een stap voor de registratiestroom van gebeurtenissen, gebruiken **Op service gebaseerde appings**. Voor dit type van afbeelding, zal de dienstverlener zowel een datatype als een wenk in de vorm van een API naam verstrekken. Als de hint overeenkomt met de API-naam van een bestaand lead-veld, wordt dat veld automatisch ingevuld in de toewijzingssectie. Voor velden zonder overeenkomende hint moet u de toewijzing handmatig invullen in de lijst met velden met het overeenkomende gegevenstype. Toewijzingen die vereist zijn, moeten worden ingevuld om het instappen te voltooien.
+Services met een vaste set inputs en outputs, zoals een stap voor de registratiestroom van gebeurtenissen, gebruiken **Servicedesgestuurde afbeeldingen**. Voor dit type van afbeelding, zal de dienstverlener zowel een datatype als een wenk in de vorm van een API naam verstrekken. Als de hint overeenkomt met de API-naam van een bestaand lead-veld, wordt dat veld automatisch ingevuld in de toewijzingssectie. Voor velden zonder overeenkomende hint moet u de toewijzing handmatig invullen in de lijst met velden met het overeenkomende gegevenstype. Toewijzingen die vereist zijn, moeten worden ingevuld om het instappen te voltooien.
 
 ![](assets/flow-step-service-2.png)
 
@@ -78,7 +78,7 @@ Om overgangen naar nieuwe of alternatieve versies van de dienst te vergemakkelij
 
 ## Servicedespring {#service-deprecation}
 
-Soms zullen de dienstverleners de diensten van de stroomstap als normaal deel van de softwarelevenscyclus moeten verwerpen. Wanneer een dienstverlener dit aankondigt, zullen de Datum en het Bericht van de Verdringing in de het netmening van Dienstverleners worden bevolkt. Als u een service blijft gebruiken die is afgekeurd, kan dit leiden tot een onderbreking van de service als deze niet meer op de verwachte manier reageert of als u geen aanvragen meer accepteert van Marketo Smart Campaigns, dus moet u zorgvuldig letten op alle meldingen over servicedescriptie die u ontvangt en de juiste stappen nemen om alle stappen van de service die nog in gebruik zijn, af te schaffen of te vervangen.
+Soms zullen de dienstverleners de diensten van de stroomstap als normaal deel van de softwarelevenscyclus moeten verwerpen. Wanneer een dienstverlener dit aankondigt, zullen de Datum en het Bericht van de Verdringing in de het netmening van Dienstverleners worden bevolkt. Als u een service blijft gebruiken die is afgekeurd, kan dit leiden tot een onderbreking van de service als deze niet meer op de verwachte manier reageert of als u geen aanvragen meer accepteert van Marketo Smart Campaigns, dus moet u zorgvuldig letten op alle meldingen over servicedruk die u ontvangt en de juiste stappen nemen om alle stappen van de service die nog in gebruik zijn, af te schaffen of te vervangen.
 
 ## Stappen voor Derde en Aangepaste Stroom gebruiken {#using-third-party-and-custom-flow-steps}
 

@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1146980
 description: Kies Toevoegen in een stroomstap - Marketo-documenten - Productdocumentatie
-title: Kies toevoegen in een stroomstap gebruiken
+title: Keuze toevoegen in een stroomstap gebruiken
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# Kies toevoegen in een stroomstap gebruiken {#use-add-choice-in-a-flow-step}
+# Keuze toevoegen in een stroomstap gebruiken {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >
->[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-**Keuze toevoegen** Hiermee kunt u een stap in de flow gebruiken en zeggen &quot;Dit hangt af&quot; wanneer u de details kiest.
+Met de optie Keuze toevoegen kunt u een stap-stap gebruiken en zeggen dat dit afhankelijk is wanneer u de details kiest.
 
-1. Onder de **Stroom** tabblad van de slimme campagne, voegt u eventuele stappen toe en klikt u op **Keuze toevoegen**.
+1. Onder de **[!UICONTROL Flow]** tabblad van de slimme campagne, voegt u een eventuele stap toe en klikt u op **[!UICONTROL Add Choice]**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-11-3a58-3a50.png)
 
-1. Kies de keuzerondje en voer een keuzevrijheid in. Dit bepaalt uw criteria of keus.
+1. Kies de keuzerondje en voer een keuzevrijheid in. Hiermee stelt u uw criteria of keuze in.
 
    ![](assets/image2014-9-22-11-3a58-3a54.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Tokens worden **niet** werk in het voorwaardendeel van een keuzestap.
+   >Tokens worden _niet_ werk in het voorwaardendeel van een keuzestap.
 
 1. Herhaal bovenstaande stappen om meerdere opties toe te voegen en voeg vervolgens de standaardwaarde toe of pas deze aan.
 
@@ -49,10 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe u  [&quot;Keuze toevoegen&quot; opnieuw ordenen in een stroomactie](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
+   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe u [&quot;Keuze toevoegen&quot; opnieuw ordenen in een stroomactie](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Geweldig! U kunt nu één slimme campagne maken met keuzemogelijkheden voor stap doorlopen in plaats van meerdere slimme campagnes voor elke keuze te maken.
+   Geweldig! U kunt nu één slimme campagne maken met keuzemogelijkheden voor de stap Snel in plaats van meerdere slimme campagnes voor elke keuze te maken.
 
    >[!MORELIKETHIS]
    >
-   >[Opnieuw rangschikken Keuze toevoegen in een stroomstap](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
+   >[Opnieuw rangschikken Keuze toevoegen in een stroomstap](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}

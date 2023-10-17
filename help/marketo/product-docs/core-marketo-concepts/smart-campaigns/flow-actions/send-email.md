@@ -4,10 +4,10 @@ description: E-mail verzenden - Marketo Docs - Productdocumentatie
 title: E-mail verzenden
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-De **E-mail verzenden** De stap flow kan worden gebruikt als onderdeel van campagnes of als één enkele stroomstap om e-mails naar uw mensen te verzenden.
+De &quot;[!UICONTROL Send Email]&quot; U kunt de stap Stroom gebruiken als onderdeel van campagnes of als een enkele stap Stroom om e-mails naar uw mensen te verzenden.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 
@@ -35,4 +35,4 @@ U kunt een voorvertoning van de geselecteerde e-mail weergeven in de stap Stroom
 
    ![](assets/image2014-9-22-10-3a8-3a22.png)
 
-Er wordt een nieuw tabblad/venster geopend waarin u de e-mail kunt zien.
+Er wordt een nieuw tabblad/venster geopend waarin u het e-mailbericht kunt zien.

@@ -4,9 +4,9 @@ description: De stroomstappen opnieuw ordenen in een slimme campagne - Marketo D
 title: De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
 feature: Smart Campaigns
-source-git-commit: 17662d6c45ced21053fe18506ee79bb4b8f10c10
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -19,12 +19,10 @@ De stroomstappen worden van boven naar beneden uitgevoerd. Hieronder wordt besch
 >
 >[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. Sleep in het tabblad Stroom van de slimme campagne de stap Stroom naar de gewenste positie.
+1. In uw slimme campagne **[!UICONTROL Flow]** slepen en neerzetten.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 
 >[!NOTE]
 >
 >De stroomstappen worden uitgevoerd in de volgorde waarin ze in de flow worden weergegeven.
-
-Sommige dingen zijn simpel. Sleep n&#39; drop away!

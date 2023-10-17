@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Naast het uitvoeren van enige stroomacties van binnen een Slimme Lijst, kunt u hen ook direct op een pagina van het Detail van de Persoon in werking stellen.
 
-1. Klikken **Database**.
+1. Klik op **[!UICONTROL Database]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,14 +24,14 @@ Naast het uitvoeren van enige stroomacties van binnen een Slimme Lijst, kunt u h
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Klik op de knop **Persoonlijke handelingen** en selecteert u de gewenste stroomstap. In dit voorbeeld gebruiken we [E-mail verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Klik op de knop **[!UICONTROL Person Actions]** en selecteert u de gewenste stroomstap. In dit voorbeeld gebruiken we [E-mail verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Selecteer het gewenste e-mailbericht en klik op **Nu uitvoeren**.
+1. Selecteer het gewenste e-mailbericht en klik op **[!UICONTROL Run Now]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
 >[!NOTE]
 >
->Als uw instantie werkruimten/partities bevat en u rechtstreeks (dus via koppeling) naar een pagina met persoonlijke gegevens navigeert in plaats van uit een pagina/element te komen dat aan een werkruimte is gekoppeld, moet u ook een werkruimte kiezen in stap 4.
+>Als uw instantie werkruimten/partities bevat en u rechtstreeks (bijvoorbeeld via koppeling) naar een pagina met persoonlijke gegevens navigeert in plaats van uit een pagina/element te komen dat aan een werkruimte is gekoppeld, moet u ook een werkruimte kiezen in stap 4.

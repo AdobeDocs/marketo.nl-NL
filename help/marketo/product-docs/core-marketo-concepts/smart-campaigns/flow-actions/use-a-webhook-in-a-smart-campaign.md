@@ -4,28 +4,28 @@ description: Een webhaak gebruiken in een slimme campagne - Marketo Docs - Produ
 title: Een webhaak gebruiken in een slimme campagne
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Een webhaak gebruiken in een slimme campagne {#use-a-webhook-in-a-smart-campaign}
 
-Een [webhaak](https://developers.marketo.com/documentation/webhooks/), voegt u deze toe aan een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) als een flowactie.
+Een [webhaak](https://developers.marketo.com/documentation/webhooks/){target="_blank"}, add it to a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} als een flowactie.
 
 >[!AVAILABILITY]
 >
 >Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. [Een slimme campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [Een slimme campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
    >Webhaken kunnen alleen worden gebruikt in triggercampagnes.
 
-1. Ga naar de **Stroom** en sleep in de **Bellen Webhaak** Handeling flow.
+1. Ga naar de **[!UICONTROL Flow]** en sleep in de **[!UICONTROL Call Webhook]** Handeling flow.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -33,10 +33,10 @@ Een [webhaak](https://developers.marketo.com/documentation/webhooks/), voegt u d
 
    ![](assets/image2014-9-22-15-3a8-3a5.png)
 
-1. U kunt ook Webhooks in een slimme lijst gebruiken.
+1. U kunt ook Webhooks gebruiken in een slimme lijst.
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. Tot slot kunt u Webhooks gebruiken in **Keuze toevoegen** in een flowstap.
+1. Tot slot kunt u Webhooks gebruiken in **[!UICONTROL Add Choice]** in een flowstap.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)

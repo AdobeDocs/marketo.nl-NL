@@ -4,9 +4,9 @@ description: Herordend Add Keuze in een Stroom Stap - de Documenten van Marketo 
 title: Opnieuw rangschikken Keuze toevoegen in een stroomstap
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -19,20 +19,20 @@ Aangezien alleen de eerste keuze voor overeenkomsten op een persoon van toepassi
 
    ![](assets/one.png)
 
-1. Laten we keuze 3 boven keuze 2 verplaatsen. Klikken op **Keuze 3** klik vervolgens op **Omhoog**.
-
-   >[!NOTE]
-   >
-   >Bij het opnieuw ordenen kunt u **Omhoog**, **Omlaag**, of **Verplaatsen naar**.
+1. In dit voorbeeld, laten wij Keus 3 omhoog boven Keus 2 bewegen. Klikken op **[!UICONTROL Choice 3]** klik vervolgens op **[!UICONTROL Move Up]**.
 
    ![](assets/two.png)
 
-   Mooi werk! Nu weet u hoe u een keuze in stappen omhoog of omlaag kunt verplaatsen. Dat is het! Het is zo eenvoudig om de volgorde van de keuzemogelijkheden voor de stappen in de flow te herschikken.
+   >[!NOTE]
+   >
+   >Bij het opnieuw ordenen kunt u **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]**, of **[!UICONTROL Move To]**.
+
+   Mooi werk! Nu weet u hoe u een keuze in stappen omhoog of omlaag kunt verplaatsen.
 
    ![](assets/three.png)
 
-1. Als u veel mogelijkheden hebt en één niveau omhoog of omlaag moet verplaatsen, kunt u deze alternatieve methode gebruiken om tijd te besparen. Klik op de keuze die u wilt verplaatsen en vervolgens onder **Verplaatsen naar** Sleep de schuifregelaar naar de positie waarnaar u de keuze wilt verplaatsen.
+**OPTIONELE STAP**: Als u veel mogelijkheden hebt en één niveau omhoog of omlaag moet verplaatsen, kunt u deze alternatieve methode gebruiken om tijd te besparen. Klik op de keuze die u wilt verplaatsen en vervolgens onder **[!UICONTROL Move To]** Sleep de schuifregelaar naar de positie waarnaar u de keuze wilt verplaatsen.
 
-   ![](assets/four.png)
+![](assets/four.png)
 
 Het is zo eenvoudig om de volgorde van de keuzemogelijkheden voor de stappen in de flow te herschikken.
