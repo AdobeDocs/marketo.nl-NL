@@ -4,9 +4,9 @@ description: Abonnement op opzeggen - Marketo Docs - Productdocumentatie
 title: Abonnement begrijpen
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Abonnement begrijpen {#understanding-unsubscribe}
 
 In Marketo zijn er verschillende soorten ingebouwde afmeldingsprogramma&#39;s. Ze worden allemaal vertegenwoordigd door velden op het object person, net als Voornaam.
-
->[!NOTE]
->
->Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en de Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
 Al deze velden zijn ingebouwd in uw Marketo-abonnement. Ze zijn allemaal van het type Boolean (selectievakje). Ze kunnen in Forms of [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) stroomstappen.
 

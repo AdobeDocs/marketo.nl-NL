@@ -4,37 +4,37 @@ description: Leden van slimme campagnes weergeven - Marketo Docs - Productdocume
 title: Leden van slimme campagnes weergeven
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Leden van slimme campagnes weergeven {#view-smart-campaign-members}
 
-Personen weergeven die al door de slimme-campagnestroom zijn gelopen; leden van slimme campagnes.
+Bekijk de personen die al door de slimme-campagnestroom zijn gelopen, dat wil zeggen: leden van de slimme campagne.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]**.
 
 ![](assets/login-marketing-activities.png)
 
-1. Klik in uw slimme campagne op **Campagneleden weergeven**.
+1. Klik in uw slimme campagne op **[!UICONTROL View Campaign Members]**.
 
    ![](assets/changescore-hands.png)
 
 >[!TIP]
 >
->U kunt campagnegeleden van overal binnen een slimme campagne bekijken.
+>U kunt campagnegeleden van overal binnen een Slimme Campagne bekijken.
 
-1. De **Campagneleden** toont de mensen die reeds door de slimme campagnestroom lopen.
+1. De **[!UICONTROL Campaign Members]** toont mensen die reeds door de Slimme stroom van de Campagne lopen.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
    >[!NOTE]
    >
-   >De lijst van de Campagneleden zal aanvankelijk leeg zijn wanneer de slimme campagne niet op om het even welke mensen heeft gelopen.
+   >De lijst Campagneleden is aanvankelijk leeg wanneer de slimme campagne niet op personen is uitgevoerd.
 
    >[!MORELIKETHIS]
    >
-   >[Geblokkeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+   >[Geblokkeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}

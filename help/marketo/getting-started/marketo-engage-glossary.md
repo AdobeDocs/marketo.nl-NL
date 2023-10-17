@@ -4,9 +4,9 @@ description: Verklarende woordenlijst Marketo's Engage - Marketo Docs - Productd
 title: Woordenlijst Marketo Engage
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 feature: Getting Started
-source-git-commit: 096936c8bc94bbbfc5213a6b45913b300f547b90
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '4176'
+source-wordcount: '4128'
 ht-degree: 0%
 
 ---
@@ -118,10 +118,6 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en de Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
 ## C {#c}
 

@@ -4,22 +4,22 @@ description: Resultaten van slimme campagnes exporteren naar Excel - Marketo Doc
 title: Resultaten van slimme campagnes exporteren naar Excel
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Resultaten van slimme campagnes exporteren naar Excel {#export-smart-campaign-results-to-excel}
 
-Exporteer uw slimme-campagneresultaten naar Excel voor gebruik buiten Marketo.
+Exporteer de resultaten van uw slimme campagne naar Excel voor gebruik buiten Marketo.
 
-1. Klik in uw slimme campagne op **Resultaten** en vervolgens het exportpictogram onderaan.
+1. Klik in uw slimme campagne op de knop **[!UICONTROL Results]** en vervolgens het exportpictogram onderaan.
 
    ![](assets/exportexcel-hands.png)
 
-   Uw resultaten worden geëxporteerd en klaar voor gebruik.
+   Uw resultaten worden geëxporteerd en klaar voor gebruik!
 
    >[!NOTE]
    >

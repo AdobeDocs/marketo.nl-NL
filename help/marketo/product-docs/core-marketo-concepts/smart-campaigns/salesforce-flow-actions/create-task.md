@@ -4,9 +4,9 @@ description: Taak maken - Marketo Docs - Productdocumentatie
 title: Taak maken
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Als markator, hebt u informatie die verkoop in het sluiten van overeenkomsten ka
 
 >[!NOTE]
 >
->Wanneer de Marketo Sync-gebruiker taken maakt, **Eind** is een vereist gebied voor de taak die in Salesforce moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde is.
+>Wanneer de Marketo Sync-gebruiker taken maakt, **[!UICONTROL Due In]** is een vereist gebied voor de taak die in Salesforce moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde is.
 
 Standaard ziet de flowstap er als volgt uit:
 
@@ -31,4 +31,4 @@ Pas alle velden aan om de taak op de gewenste manier te maken.
 
 >[!TIP]
 >
->U kunt `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` en `{{system.tokens}}` in de **Onderwerp** en **Beschrijving**. Zie [Tokens voor stroomstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) voor meer informatie .
+>U kunt `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` en `{{system.tokens}}` in de **[!UICONTROL Subject]** en **[!UICONTROL Description]**. Zie [Tokens voor stroomstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} voor meer informatie .

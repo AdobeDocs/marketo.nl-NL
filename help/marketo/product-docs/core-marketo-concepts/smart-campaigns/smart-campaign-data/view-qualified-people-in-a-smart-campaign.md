@@ -4,26 +4,26 @@ description: Gekwalificeerde personen weergeven in een slimme campagne - Marketo
 title: Gekwalificeerde personen weergeven in een slimme campagne
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
 # Gekwalificeerde personen weergeven in een slimme campagne {#view-qualified-people-in-a-smart-campaign}
 
-Bekijk mensen die in aanmerking komen om door de stroom te gaan wanneer u een slimme campagne voert.
+Bekijk mensen die in aanmerking komen om door de flow te gaan wanneer u een slimme campagne uitvoert.
 
-1. Klik in uw slimme campagne op Schema. Klik in de status Slimme lijst op de eerste koppeling.
+1. Klik in uw slimme campagne op de knop **[!UICONTROL Schedule]** tab. Klik in de status Slimme lijst op de eerste koppeling.
 
 ![](assets/qualifedpeople-hands.png)
 
 >[!NOTE]
 >
->De slimme campagnes van de trekker tonen geen gekwalificeerde mensen, aangezien zij op levende gebeurtenissen lopen.
+>Trigger Campagnes tonen geen gekwalificeerde mensen, aangezien zij op levende gebeurtenissen lopen.
 
-1. De **Gekwalificeerde personen** bevat een lijst met de personen die in aanmerking komen om door de flow te gaan wanneer de campagne wordt uitgevoerd.
+1. De **[!UICONTROL Qualified People]** bevat een lijst met de personen die in aanmerking komen om door de flow te gaan wanneer de campagne wordt uitgevoerd.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,12 +33,12 @@ Bekijk mensen die in aanmerking komen om door de stroom te gaan wanneer u een sl
 
    >[!NOTE]
    >
-   >Het aantal gekwalificeerde mensen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe u [kwalificatieregels bewerken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Het aantal gekwalificeerde personen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe u [kwalificatieregels bewerken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Zoet! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom zouden kunnen gaan alvorens u een slimme campagne in werking stelt.
+Mooi! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom zouden kunnen gaan alvorens u een Slimme Campagne in werking stelt.
 
 >[!MORELIKETHIS]
 >
->* [Leden van slimme campagnes weergeven](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
->* [Geblokkeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
->* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>* [Leden van slimme campagnes weergeven](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+>* [Geblokkeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+>* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
