@@ -4,26 +4,26 @@ description: Kwalificatieregels bewerken in een slimme campagne - Marketo Docs -
 title: Kwalificatieregels bewerken in een slimme campagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # Kwalificatieregels bewerken in een slimme campagne {#edit-qualification-rules-in-a-smart-campaign}
 
-De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme campagne kan lopen. Zelfs als iemand een slimme campagne meerdere keren activeert, worden deze standaard slechts eenmaal door de flow verzonden. Hieronder wordt beschreven hoe u deze instellingen wijzigt.
+De regels van de erkenning bepalen hoe vaak iemand door de stroom in een Slimme Campagne kan lopen. Zelfs als iemand meerdere keren een slimme campagne start, worden deze standaard slechts eenmaal door de flow verzonden. Hieronder wordt beschreven hoe u deze instellingen wijzigt.
 
-1. Klik in uw slimme campagne op de knop **Schema** en vervolgens **Instellingen bewerken**.
+1. Klik in uw slimme campagne op de knop **[!UICONTROL Schedule]** en vervolgens **[!UICONTROL Edit Settings]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >U kunt ook op **Bewerken** rechts van &quot;Instellingen voor slimme campagne&quot;.
+   >U kunt ook op **[!UICONTROL Edit]** rechts van &quot;Instellingen voor slimme campagne&quot;.
 
-1. Kies hoe vaak u uw mensen door de slimme campagnestroom wilt leiden: **slechts één keer**, **elke keer**, of **om de # dagen**/**weken**/**maanden**.
+1. Kies hoe vaak u uw mensen door de Slimme stroom van de Campagne wilt leiden: **[!UICONTROL only once]**, **[!UICONTROL every time]**, of **om de # dagen**/**weken**/**maanden**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 
@@ -33,10 +33,10 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme 
 
    >[!NOTE]
    >
-   >Communicatielimieten worden standaard niet toegepast op slimme campagnes. Leer hoe u [communicatielimieten toepassen op een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
+   >Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe u [communicatielimieten toepassen op een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}.
 
    >[!NOTE]
    >
-   >[Communicatielimieten toepassen op slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+   >[Communicatielimieten toepassen op slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"}
 
 Opdracht voltooid! U weet nu hoe u kwalificatieregels kunt beheren in een slimme campagne.

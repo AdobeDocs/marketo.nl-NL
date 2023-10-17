@@ -4,37 +4,37 @@ description: Campagne-acties - Een slimme campagne verwijderen - Marketo Docs - 
 title: Campagnehandelingen - Een slimme campagne verwijderen
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Campagne: Een slimme campagne verwijderen {#campaign-actions-delete-a-smart-campaign}
+# Campagnehandelingen: een slimme campagne verwijderen {#campaign-actions-delete-a-smart-campaign}
 
-Als je een oude slimme campagne hebt die je niet meer nodig hebt, kun je deze verwijderen. Zo gaat het.
+Als u een oude Slimme Campagne hebt die u niet meer nodig hebt, kunt u het schrappen. Zo gaat het.
 
 >[!CAUTION]
 >
 >Zorg ervoor voordat u gaat verwijderen. Als u eenmaal een slimme campagne hebt verwijderd, kan deze niet meer worden hersteld.
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar de **[!UICONTROL Marketing Activities]** gebied.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigeer naar uw inactieve slimme campagne. In de **Campagne** **Handelingen** vervolgkeuzelijst, selecteert u **Verwijderen**.
+1. Navigeer naar uw inactieve slimme campagne. In de **[!UICONTROL Campaign Actions]** vervolgkeuzelijst, selecteert u **[!UICONTROL Delete]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Als u de verwerking van een actieve slimme campagne wilt annuleren zonder deze volledig te verwijderen, leert u hoe u [een slimme campagne afbreken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Leer hoe te om verwerking van een actieve Slimme Campagne te annuleren zonder het volledig te schrappen [Een slimme campagne afbreken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-1. Klikken **Verwijderen** ter bevestiging.
+1. Klikken **[!UICONTROL Delete]** ter bevestiging.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >
-   >Do **NOT** Verwijder een actieve slimme campagne met mensen in de flowstappen. De campagne wordt waarschijnlijk nog steeds uitgevoerd.
+   >Verwijder GEEN actieve slimme campagne met mensen in de flowstappen. De campagne zal waarschijnlijk nog steeds worden uitgevoerd.
