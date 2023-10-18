@@ -4,22 +4,22 @@ description: Geüploade afbeeldingen en bestanden doorzoeken - Marketo Docs - Pr
 title: Geüploade afbeeldingen en bestanden doorzoeken
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Geüploade afbeeldingen en bestanden doorzoeken {#search-uploaded-images-and-files}
 
-In Marketo is het zoeken naar afbeeldingen en bestanden een bries.
+Leer hoe u naar een afbeelding of bestand zoekt.
 
-1. Ga naar de **Design Studio**.
+1. Ga naar de **[!UICONTROL Design Studio]**.
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Klikken **Afbeeldingen en bestanden** voor de volledige lijst van alle geüploade bestanden.
+1. Klikken **[!UICONTROL Images and Files]** voor de volledige lijst van alle geüploade bestanden.
 
    ![](assets/search-uploaded-images-and-files-2.png)
 

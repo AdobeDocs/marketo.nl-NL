@@ -4,50 +4,46 @@ description: Een geüploade afbeelding of bestand vervangen - Marketo Docs - Pro
 title: Een geüploade afbeelding of bestand vervangen
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
 # Een geüploade afbeelding of bestand vervangen {#replace-an-uploaded-image-or-file}
 
-1. Ga naar de **Design Studio**.
+1. Ga naar de **[!UICONTROL Design Studio]**.
 
-   ![](assets/designstudio-6.png)
+   ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Klikken **Afbeeldingen en bestanden** Selecteer vervolgens het bestand dat u wilt vervangen.
+1. Klik op **[!UICONTROL Images and Files]**.
 
-   ![](assets/image2014-9-16-11-3a21-3a48.png)
+   ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-   >[!TIP]
-   >
-   >U kunt ook [geüploade afbeeldingen of bestanden zoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
+1. Selecteer het element dat u wilt vervangen. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Replace image or file]**.
 
-1. Klikken **Bestandshandelingen** en selecteert u **Afbeelding of bestand vervangen**.
+   ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-   ![](assets/image2014-9-16-11-3a21-3a55.png)
+1. Sleep of blader naar de computer voor het vervangende bestand.
 
-1. Blader naar het bestand op uw computer dat het huidige bestand vervangt en selecteer het.
-
-   ![](assets/image2014-9-16-11-3a22-3a2.png)
+   ![](assets/replace-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >Als u geen bestand uit een gedeelde map kunt selecteren, slaat u dat bestand op de vaste schijf op en kiest u het.
+   >Het vervangende bestandstype moet hetzelfde zijn als het origineel (bijvoorbeeld .jpg)
 
-1. Controleer of het bestand naast **Bestand kiezen** is correct, dan klik **Vervangen**.
+1. Nadat u het vervangingsdossier hebt geselecteerd, klik **[!UICONTROL Replace]**.
 
-   ![](assets/image2014-9-16-11-3a22-3a12.png)
+   ![](assets/replace-an-uploaded-image-or-file-5.png)
 
->[!NOTE]
->
->De naam van het vervangende bestand wordt gewijzigd zodat deze overeenkomt met de vorige bestandsnaam.
+   >[!NOTE]
+   >
+   >De naam van het vervangende bestand wordt gewijzigd zodat deze overeenkomt met de naam van het vorige bestand.
 
-Je hebt het gedaan!
+Goed gedaan!
 
 >[!MORELIKETHIS]
 >
->* [Geüploade afbeeldingen en bestanden zoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
->* [De URL van een geüploade afbeelding of bestand zoeken](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Geüploade afbeeldingen en bestanden doorzoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [De URL van een geüploade afbeelding of bestand zoeken](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
