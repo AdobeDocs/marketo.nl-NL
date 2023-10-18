@@ -1,39 +1,37 @@
 ---
 unique-page-id: 2359862
 description: Geüploade afbeeldingen en bestanden doorzoeken - Marketo Docs - Productdocumentatie
-title: Geüploade afbeeldingen en bestanden zoeken
+title: Geüploade afbeeldingen en bestanden doorzoeken
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 929d2eff975c491b29b93cef96a5c59a1f833474
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# Geüploade afbeeldingen en bestanden zoeken {#search-uploaded-images-and-files}
+# Geüploade afbeeldingen en bestanden doorzoeken {#search-uploaded-images-and-files}
 
 In Marketo is het zoeken naar afbeeldingen en bestanden een bries.
 
 1. Ga naar de **Design Studio**.
 
-   ![](assets/designstudio-1.png)
+   ![](assets/search-uploaded-images-and-files-1.png)
 
-1. Klikken **Afbeeldingen en bestanden** om een volledige lijst met alle geüploade bestanden weer te geven.
+1. Klikken **Afbeeldingen en bestanden** voor de volledige lijst van alle geüploade bestanden.
 
-   ![](assets/image2014-9-16-11-3a44-3a4.png)
+   ![](assets/search-uploaded-images-and-files-2.png)
 
-1. In de **Snel zoeken** onder aan het scherm typt u de naam van het gewenste bestand en klikt u op **Enter**.
+1. Typ in het vak Zoeken het woord waarmee het bestand begint en kies **Enter**.
 
-   ![](assets/image2014-9-16-11-3a46-3a32.png)
+   ![](assets/search-uploaded-images-and-files-3.png)
 
->[!TIP]
+>[!NOTE]
 >
->Als u een nieuwe zoekopdracht wilt starten, klikt u op de knop **x** in de **Snel zoeken** doos.
-
-Pak je voeten op, je bent klaar!
+>Bij het zoeken naar afbeeldingen en bestanden wordt alleen de functie &quot;Beginnen met&quot; gebruikt.
 
 >[!MORELIKETHIS]
 >
->* [Een geüploade afbeelding of bestand vervangen](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
->* [Uw afbeeldingen en bestanden ordenen met mappen](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Een geüploade afbeelding of bestand vervangen](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Uw afbeeldingen en bestanden ordenen met mappen](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
