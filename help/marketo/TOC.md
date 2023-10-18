@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '9094'
+source-wordcount: '9098'
 ht-degree: 0%
 
 ---
@@ -766,6 +766,7 @@ ht-degree: 0%
             + [reCAPTCHA v3 instellen](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
             + [CAPTCHA inschakelen in Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + Afbeeldingen en bestanden {#images-and-files}
+         + [Nieuwe afbeeldingendocument toevoegen](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Afbeeldingen en bestanden toevoegen aan Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Een geüploade afbeelding of bestand verwijderen](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [De URL van een geüploade afbeelding of bestand zoeken](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)

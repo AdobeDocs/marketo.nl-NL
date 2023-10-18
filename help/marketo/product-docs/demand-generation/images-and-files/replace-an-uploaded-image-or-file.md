@@ -4,10 +4,10 @@ description: Een geüploade afbeelding of bestand vervangen - Marketo Docs - Pro
 title: Een geüploade afbeelding of bestand vervangen
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
-1. Sleep of blader naar de computer voor het vervangende bestand.
+1. Sleep of blader naar de computer voor de vervangende afbeelding of het vervangende bestand.
 
    ![](assets/replace-an-uploaded-image-or-file-4.png)
 
@@ -33,7 +33,7 @@ ht-degree: 1%
    >
    >Het vervangende bestandstype moet hetzelfde zijn als het origineel (bijvoorbeeld .jpg)
 
-1. Nadat u het vervangingsdossier hebt geselecteerd, klik **[!UICONTROL Replace]**.
+1. Nadat u de vervangende afbeelding/het vervangende bestand hebt geselecteerd, klikt u op **[!UICONTROL Replace]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
