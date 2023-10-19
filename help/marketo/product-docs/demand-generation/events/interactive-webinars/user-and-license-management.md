@@ -3,7 +3,7 @@ description: Gebruikers- en licentiebeheer - Marketo Docs - Productdocumentatie
 title: Gebruiker- en licentiebeheer
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -67,32 +67,32 @@ Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenisse
    ![](assets/user-and-license-management-11.png)
 
 <table> 
-  <tr> 
-   <td><b>Begindatum</b></td>
+  <tr>
+   <td width="20%"><b>Begindatum</b></td>
    <td>De datum waarop de licentie begint.</td>
   </tr>
   <tr> 
-   <td><b>Vervaldatum</b></td>
+   <td width="20%"><b>Vervaldatum</b></td>
    <td>De vervaldatum van de licentie.</td>
   </tr>
   <tr> 
-   <td><b>Type</b></td>
+   <td width="20%"><b>Type</b></td>
    <td>Het type licentie dat is aangeschaft. Er zijn drie typen beschikbaar: licentie voor gedeelde gebeurtenissen, licentie voor gedeelde ruimten, extra opslaglicentie.</td>
   </tr>
   <tr> 
-   <td><b>Gebeurteniscapaciteit</b></td>
+   <td width="20%"><b>Gebeurteniscapaciteit</b></td>
    <td>Het maximumaantal deelnemers dat in een gebeurtenis kan worden opgenomen.</td>
   </tr>
   <tr> 
-   <td><b>Totaal aantal gebeurtenissen</b></td>
+   <td width="20%"><b>Totaal aantal gebeurtenissen</b></td>
    <td>Het totale aantal gebeurtenissen dat is voorzien van deze licentie.</td>
   </tr>
   <tr> 
-   <td><b>Verbruikte gebeurtenissen</b></td>
+   <td width="20%"><b>Verbruikte gebeurtenissen</b></td>
    <td>Het totale aantal voltooide gebeurtenissen.</td>
   </tr>
   <tr> 
-   <td><b>Opslagcapaciteit</b></td>
+   <td width="20%"><b>Opslagcapaciteit</b></td>
    <td>Bedrag van de opslagruimte die beschikbaar is voor het opslaan van opnamen, zekerheden, hero images, documentatie en andere activa.</td>
   </tr>
   </tbody>

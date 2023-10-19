@@ -3,9 +3,9 @@ description: Interactieve webinars - Overzicht van Marketo Docs - Productdocumen
 title: Overzicht van interactieve webinars
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -47,3 +47,7 @@ Ja, u kunt bepalen welke Marketo-gebruikers toestemming krijgen om interactieve 
 **Moet ik webinar aangedreven door Adobe Connect terug naar het Interactive Webinar Event Programma zoals met de Programma&#39;s van de Gebeurtenis van Launchpoint associëren?**
 
 Nr, maken de Interactieve Programma&#39;s van de Gebeurtenis Webinar de vereniging voor u.
+
+**Worden mijn interactieve webinars automatisch opgenomen?**
+
+Dat zijn ze niet. Nadat uw webinar begint, klik drop-down naast de naam van webinar en selecteer **Recordsessie**.

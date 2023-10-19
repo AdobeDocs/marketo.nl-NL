@@ -4,14 +4,93 @@ description: Afbeeldingen en bestanden toevoegen aan Marketo - Marketo-documente
 title: Afbeeldingen en bestanden toevoegen aan Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # Afbeeldingen en bestanden toevoegen aan Marketo {#add-images-and-files-to-marketo}
+
+U hebt meerdere opties om nieuwe bestanden/afbeeldingen toe te voegen aan uw opslagplaats voor afbeeldingen en bestanden.
+
+## Afbeelding of bestand uploaden {#upload-image-or-file}
+
+1. Ga naar de **Design Studio**.
+
+   ![](assets/add-images-and-files-to-marketo-1.png)
+
+1. Selecteren **[!UICONTROL Images and Files]**
+
+   ![](assets/add-images-and-files-to-marketo-2.png)
+
+1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Upload image or file]**.
+
+   ![](assets/add-images-and-files-to-marketo-3.png)
+
+1. Sleep de gewenste afbeelding of het gewenste bestand of blader naar de computer.
+
+   ![](assets/add-images-and-files-to-marketo-4.png)
+
+1. Klik op **Uploaden**.
+
+   ![](assets/add-images-and-files-to-marketo-5.png)
+
+## Afbeelding of bestand importeren {#import-image-or-file}
+
+U hebt drie opties voor het importeren van een afbeelding. Laten we ze allemaal bespreken.
+
+### Importeren van het web {#import-from-the-web}
+
+Tekst
+
+1. Stap 1 en 2 volgen [van boven](#upload-image-or-file).
+
+1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
+
+   ![](assets/add-images-and-files-to-marketo-6.png)
+
+1. Selecteer de **Web** -optie.
+
+   ![](assets/add-images-and-files-to-marketo-7.png)
+
+1. 
+
+PICC
+
+### Importeren uit vak {#import-from-box}
+
+Tekst
+
+1. Stap 1 en 2 volgen [van boven](#upload-image-or-file).
+
+1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
+
+PICC
+
+1. Tekst
+
+### Importeren uit Adobe Experience Manager {#import-from-adobe-experience-manager}
+
+Tekst
+
+1. Stap 1 en 2 volgen [van boven](#upload-image-or-file).
+
+1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
+
+PICC
+
+1. Tekst
+
+
+
+
+
+
+
+
+OUDE DOC....
 
 U kunt eenvoudig meerdere afbeeldingen en bestanden tegelijk toevoegen.
 
@@ -45,9 +124,9 @@ U kunt eenvoudig meerdere afbeeldingen en bestanden tegelijk toevoegen.
 
    >[!TIP]
    >
-   >Marketo scant alle bestanden voordat ze worden geüpload. geïnfecteerde bestanden worden overgeslagen.
+   >Marketo scant alle bestanden voordat ze worden geüpload. Besmette bestanden worden overgeslagen.
 
-1. Wanneer het uploaden is voltooid, klikt u op **Voltooien**.
+1. Wanneer het uploaden is voltooid, klikt u **Voltooien**.
 
    ![](assets/image2014-9-15-18-3a8-3a34.png)
 

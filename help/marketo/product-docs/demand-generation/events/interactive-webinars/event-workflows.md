@@ -3,9 +3,9 @@ description: Workflows voor gebeurtenissen - Marketo Docs - Productdocumentatie
 title: Workflows voor gebeurtenissen
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: f085eb0169b7eabc7e4290f56a8805fc9048f761
+source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,7 @@ Ga naar het tabblad Overzicht om de opgenomen webinar weer te geven, krijg de ko
 
 >[!NOTE]
 >
+>* Interactieve webinars worden niet automatisch opgenomen. Nadat uw webinar begint, klik drop-down naast de naam van webinar en selecteer **Recordsessie**.
 >* De opname wordt gedownload in de MP4-indeling.
 >* Wanneer het delen van de opname zal het door iedereen kunnen bekijken die de verbinding heeft, zodat wordt het gedeeld met het voorgenomen publiek.
 
