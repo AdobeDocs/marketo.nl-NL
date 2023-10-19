@@ -4,9 +4,9 @@ title: Nieuwe afbeeldingendocument toevoegen
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,23 @@ U hebt meerdere opties om nieuwe bestanden/afbeeldingen toe te voegen aan uw ops
 
 1. Ga naar de **Design Studio**.
 
-SCREENSHOT
+   ![](assets/add-images-and-files-to-marketo-1.png)
 
 1. Selecteren **[!UICONTROL Images and Files]**
 
-SCREENSHOT
+   ![](assets/add-images-and-files-to-marketo-2.png)
 
 1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Upload image or file]**.
 
-SCREENSHOT
+   ![](assets/add-images-and-files-to-marketo-3.png)
 
 1. Sleep de gewenste afbeelding of het gewenste bestand of blader naar de computer.
 
-SCREENSHOT
+   ![](assets/add-images-and-files-to-marketo-4.png)
 
 1. Klik op **Uploaden**.
 
-SCREENSHOT
+   ![](assets/add-images-and-files-to-marketo-5.png)
 
 ## Afbeelding of bestand importeren {#import-image-or-file}
 
@@ -45,10 +45,40 @@ U hebt drie opties voor het importeren van een afbeelding. Laten we ze allemaal 
 
 Tekst
 
+1. Stap 1 en 2 volgen [van boven](#upload-image-or-file).
+
+1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
+
+   ![](assets/add-images-and-files-to-marketo-6.png)
+
+1. Selecteer de **Web** -optie.
+
+   ![](assets/add-images-and-files-to-marketo-7.png)
+
+1. Tekst
+
+PICC
+
 ### Importeren uit vak {#import-from-box}
 
 Tekst
 
+1. Stap 1 en 2 volgen [van boven](#upload-image-or-file).
+
+1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
+
+PICC
+
+1. Tekst
+
 ### Importeren uit Adobe Experience Manager {#import-from-adobe-experience-manager}
 
 Tekst
+
+1. Stap 1 en 2 volgen [van boven](#upload-image-or-file).
+
+1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
+
+PICC
+
+1. Tekst
