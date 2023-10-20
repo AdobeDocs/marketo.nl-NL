@@ -4,9 +4,9 @@ description: Een aangepaste DKIM-handtekening instellen - Marketo Docs - Product
 title: Een aangepaste DKIM-handtekening instellen
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 9e731fa02cd20b34f48c7f85241b97f4c507d4a9
+source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
 
 1. Klik op de knop **SPF/DKIM** dan **Domein toevoegen**.
 
-![](assets/set-up-a-custom-dkim-signature-3.png)
+   ![](assets/set-up-a-custom-dkim-signature-3.png)
 
 1. Voer het domein dat u gebruikt in Marketo-e-mails in als Van-adres. Kies een kiezer en een sleutelgrootte. Klikken **Toevoegen** wanneer gereed.
 
@@ -45,6 +45,18 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
    >
    >* We raden een sleutellengte van 2048 aan.
    >* Als u een ander domein in uw Van Adres gebruikt, zullen wij de Marketo gedeelde handtekening DKIM gebruiken.
+
+   <table> 
+   <tr>
+   <td width="20%"><b>Kiezer</b></td>
+   <td>Een unieke tekenreeks/id die wordt gebruikt om het openbare-sleutelgedeelte van het DKIM-record te zoeken. Het kan een willekeurige tekenreeks zijn, of een unieke id om het doel van die DKIM-sleutel/-record te scheiden en te identificeren.</td>
+   </tr>
+   <tr> 
+   <td width="20%"><b>Grootte sleutel</b></td>
+   <td>Het beveiligingsniveau waarmee uw DKIM-handtekening moet worden gecodeerd.</td>
+   </tr>
+   </tbody>
+   </table>
 
 1. Verzend de **Hostrecord** en **TXT-waarde** aan uw IT. Vraag hen om het verslag voor u tot stand te brengen en ervoor te zorgen het aan alle nameservers verbonden aan het van domein verspreidt. De verificatie van DKIM van Marketo vereist dat de sleutel DKIM aan alle nameservers verbonden aan het domein wordt verspreid die DKIM-ondertekend.
 
