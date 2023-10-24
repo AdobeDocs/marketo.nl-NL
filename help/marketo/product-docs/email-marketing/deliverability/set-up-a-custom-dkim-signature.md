@@ -4,7 +4,7 @@ description: Een aangepaste DKIM-handtekening instellen - Marketo Docs - Product
 title: Een aangepaste DKIM-handtekening instellen
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: aed161086948aa2cec0199771ba5b3b1491600f9
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -57,6 +57,8 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
    </tr>
    </tbody>
    </table>
+
+   <p>
 
 1. Verzend de **Hostrecord** en **TXT-waarde** aan uw IT. Vraag hen om het verslag voor u tot stand te brengen en ervoor te zorgen het aan alle nameservers verbonden aan het van domein verspreidt. De verificatie van DKIM van Marketo vereist dat de sleutel DKIM aan alle nameservers verbonden aan het domein wordt verspreid die DKIM-ondertekend.
 

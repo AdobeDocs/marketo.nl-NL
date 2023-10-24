@@ -4,9 +4,9 @@ description: Persoonlijke beperkingen in een slimme campagne negeren - Marketo D
 title: Persoonlijke beperkingen in een slimme campagne negeren
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Met Marketo Engage kunt u het maximumaantal personen instellen dat in aanmerking
 >
 >Zorg ervoor dat u [persoonlijke beperkingen voor slimme campagnes inschakelen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} in Marketo Admin.
 
-1. Ga bij Marketingactiviteiten naar uw slimme campagne en klik op **Schema**.
+1. In **[!UICONTROL Marketing Activities]**, ga naar uw slimme campagne en klik op **[!UICONTROL Schedule]**.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
@@ -39,4 +39,4 @@ Met Marketo Engage kunt u het maximumaantal personen instellen dat in aanmerking
 
    >[!CAUTION]
    >
-   >Wees voorzichtig met deze functie, zodat u niet per ongeluk te veel personen opneemt.
+   >Wees voorzichtig met deze functie, zodat u niet per ongeluk te veel mensen opneemt.

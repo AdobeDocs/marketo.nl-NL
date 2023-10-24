@@ -4,9 +4,9 @@ description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop di
 title: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "de Campagne wordt gevraagd"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3916413a90e52a3423a8d7f78ad1c9eb45c2a219
+source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -24,21 +24,21 @@ Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerker
 >
 >Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe het op!
 
-1. Een **Slimme campagne.**
+1. Maak een slimme campagne.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Zoek en sleep de **Campagne is aangevraagd** activeren op het canvas.
+1. Zoek en sleep de **[!UICONTROL Campaign is Requested]** activeren op het canvas.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. De bronkeuzen geven aan welk soort verzoek wordt uitgevoerd. Voor Salesforce-functionaliteit moet u **Verkoop** **Inzicht**.
+1. De bronkeuzen geven aan welk soort verzoek wordt uitgevoerd. Voor Salesforce-functionaliteit moet u **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >De bronoperatoren zijn bedoeld voor beveiliging. U kunt de campagne beperken tot verzoeken die alleen door specifieke bronnen worden gemaakt, zoals andere slimme campagnes of ontwikkelaars. Kies **Is om het even welk** in het eerste vak als u aanvragen van alle bronnen wilt toestaan.
+   >De bronoperatoren zijn bedoeld voor beveiliging. U kunt de campagne beperken tot verzoeken die alleen door specifieke bronnen worden gemaakt, zoals andere slimme campagnes of ontwikkelaars. Kies **[!UICONTROL Is Any]** in het eerste vak als u aanvragen van alle bronnen wilt toestaan.
    >
-   >**Herinneren** Door Verkoopinzicht te kiezen, wordt dit op magische wijze weergegeven in de verkoopverpakking. Maak het niet te veel. Te veel worden genegeerd.
+   >_Herinneren_ Door Verkoopinzicht te kiezen, wordt dit op magische wijze weergegeven in de verkoopverpakking. Maak het niet te veel. Te veel worden genegeerd.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
