@@ -4,10 +4,10 @@ description: Persoon toevoegen aan Lijst van gewezen personen - Marketo Docs - P
 title: Persoon toevoegen aan Lijst van gewezen personen
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 4%
 
 ---
 
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspondentie niet ontvangen.
 
-1. [Een nieuw standaardprogramma maken](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) en noem deze **Toevoegen aan Lijst van gewezen personen**.
+1. Een nieuwe [standaardprogramma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} en noem het &quot;Toevoegen aan Lijst van gewezen personen.&quot;
 
-1. Klikken **Nieuw** en selecteert u **Nieuw lokaal element**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Local Asset]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Selecteren **Slimme lijst**.
+1. Selecteren **[!UICONTROL Smart List]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. Geef uw lijst een naam en klik op **Maken**.
+1. Geef uw lijst een naam en klik op **[!UICONTROL Create]**.
 
    ![](assets/add-person-to-blocklist-3.png)
 
-1. Voeg alle mensen toe aan uw **Slimme lijst** u wilt toevoegen aan uw Lijst van gewezen personen.
+1. Voeg alle mensen aan uw Slimme Lijst toe u aan uw Lijst van gewezen personen wilt toevoegen.
 
    ![](assets/add-person-to-blocklist-4.png)
 
@@ -41,15 +41,15 @@ Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspond
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Klikken **Nieuw** en selecteert u **Nieuwe slimme campagne**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
-1. Geef de naam **Nieuwe slimme campagne**. Klikken **Maken**.
+1. Geef de nieuwe slimme campagne een naam. Klik op **[!UICONTROL Create]**.
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Slepen en slepen **Lid van slimme lijst**.
+1. Slepen en slepen **[!UICONTROL Member of Smart List]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspond
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Klik op de knop **Stroom** tab. Sleep de **Gegevenswaarde wijzigen** Flow-actie.
+1. Klik op de knop **[!UICONTROL Flow]** tab. Sleep de **[!UICONTROL Change Data Value]** Flow-actie.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. In de **Kenmerk** vervolgkeuzelijst **Aangeboden blokkeren** en instellen **Nieuwe waarde** tot **true**.
+1. In de **[!UICONTROL Attribute]** vervolgkeuzelijst **[!UICONTROL Block Listed]** en instellen **[!UICONTROL New Value]** tot **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Klik op de knop **Schema** en selecteert u **Eenmaal uitvoeren**.
+1. Klik op de knop **[!UICONTROL Schedule]** en selecteert u **[!UICONTROL Run Once]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Selecteren **Nu uitvoeren** en klik op **Uitvoeren**.
+1. Selecteren **[!UICONTROL Run Now]** en klik op **[!UICONTROL Run]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Klikken **Uitvoeren** opnieuw.
+1. Klikken **[!UICONTROL Run]** opnieuw.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Deze mensen zullen geen e-mails meer ontvangen.
 
 >[!TIP]
 >
->Een [slimme campagne activeren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) gebruiken **Gegevenswaarde wijzigen** with **Blok aangeboden is waar** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van gewezen personen.
+>Een [Trigger-campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} gebruiken **Gegevenswaarde wijzigen** with **Blok aangeboden is waar** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van gewezen personen.
