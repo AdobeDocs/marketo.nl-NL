@@ -4,7 +4,7 @@ description: Aanbevolen procedures voor slimme lijsten - Marketo Docs - Productd
 title: Beste praktijken voor Slimme Lijsten
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
-source-git-commit: 0e68da238100f3816c2e64e1fbe4a5a2892bb3e1
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Slimme lijsten zijn het krachtigste zoekprogramma in het marketinguniversum. Ze vinden de mensen die je zoekt met magische snelheid en gemak.
 
-Om hen gemakkelijk te maken om met en prestaties te werken te optimaliseren, hebben wij een lijst van goede praktijken gecreeerd. Veel plezier!
+Om hen gemakkelijk te maken om met en prestaties te werken te optimaliseren, hebben wij een lijst van beste praktijken gecreeerd. Veel plezier!
 
 >[!NOTE]
 >

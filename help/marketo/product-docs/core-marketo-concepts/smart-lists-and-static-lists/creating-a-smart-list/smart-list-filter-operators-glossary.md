@@ -4,16 +4,16 @@ description: Verklarende woordenlijst van slimme-lijstfilteroperatoren - Marketo
 title: Verklarende woordenlijst voor slimme-lijstfilteroperatoren
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '592'
 ht-degree: 0%
 
 ---
 
 # Verklarende woordenlijst voor slimme-lijstfilteroperatoren {#smart-list-filter-operators-glossary}
 
-Een operator maakt deel uit van de slimme lijst om u te helpen specifieke taken uit te voeren. Hiermee kunt u het filter of de trigger in een eenvoudige taal beschrijven. De beschikbare operatoren zijn verschillend voor elk type veld.
+Een exploitant is een deel van de Slimme Lijst die u helpt specifiek worden. Hiermee kunt u het filter of de trigger in een eenvoudige taal beschrijven. De beschikbare operatoren verschillen per veldtype.
 
 Hier volgt een verklarende woordenlijst die elke reeks exploitanten beschrijft.
 
@@ -31,7 +31,7 @@ Wanneer u een operator kiest, verandert de rechterzijde dynamisch.
 | in het verleden | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
 | in het verleden | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
 | in de toekomst | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
-| in de toekomst na | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
+| later | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
 | in tijdkader | Voorinstellingen (afgelopen kwartaal, gisteren, enz.) | Gedefinieerd in picklist |
 | na | Enkele datum | Alle records na de opgegeven datum |
 | voor | Enkele datum | Alle records voor de opgegeven record |
@@ -52,11 +52,11 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!NOTE]
 >
->&quot;In het verleden&quot; **doet** neem de dag op (tot de tijd, niet daarna) waarop u uw slimme lijst maakt.
+>&quot;In het verleden&quot; _doet_ neem de dag op (tot de tijd, niet daarna) u creeert uw Slimme Lijst.
 
 >[!CAUTION]
 >
->Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de beperkingen gebruikt **voor**, **op of voor**, of **in het verleden**, bevat de slimme lijst ook personen die geen waarde hebben in het opgegeven datumveld.
+>Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de beperkingen gebruikt **[!UICONTROL before]**, **[!UICONTROL on or before]**, of **[!UICONTROL in past before]** bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
 
 Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrijpen.
 
@@ -68,15 +68,15 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
 >
 >Datumvelden kunnen lastig worden wanneer u met gebeurtenissen uit het verleden en de toekomst werkt. Hier zijn een paar voorbeelden.
 >
->**In het verleden**
+>**[!UICONTROL In past before]**
 >
 >Gebruik deze operator voor je nieuwe aanbieding om alleen e-mails te verzenden aan mensen die zich niet binnen een jaar hebben geabonneerd op of verlengd van je service of die nog nooit een abonnement hebben genomen.
 >
->**In de toekomst na**
+>**[!UICONTROL In future after]**
 >
 >Zeg u klanten wilt zien die voor vernieuwing in 90 dagen omhoog zijn. Er worden twee afzonderlijke filters gebruikt. Gebruik eerst &quot;In Future After 90 days&quot; en daarna &quot;In Future 91 Days&quot;. Dat zou datgene vastleggen wat over 90 dagen een datum heeft.
 
-## Tekenreeksvelden {#string-fields}
+## Reeksvelden {#string-fields}
 
 ![](assets/image2014-9-10-17-3a16-3a6.png)
 
@@ -86,7 +86,7 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
 | is niet | Alles behalve exact overeenkomen |
 | begint met | Eerste tekenreeksletters |
 | begint niet met | Eerste letters van tekenreeks KOMEN NIET overeen |
-| contains | Alle letters in de tekenreeks komen overeen (voorbeeld: california, fortuin, daarvoor) |
+| contains | Alle letters in de tekenreeks komen overeen (bijvoorbeeld: california, fortune, daarvoor) |
 | bevat niet | Geen letters in de tekenreeks komen overeen. (reverse van &quot;contains&quot;) |
 | is leeg | Records die geen waarde hebben (NULL) |
 | is niet leeg | Records met ANY-waarde |

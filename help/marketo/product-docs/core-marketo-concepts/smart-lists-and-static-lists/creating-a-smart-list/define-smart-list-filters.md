@@ -4,9 +4,9 @@ description: Slimme lijstfilters definiëren - Marketo Docs - Productdocumentati
 title: Slimme lijstfilters definiëren
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,35 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een slimme lijst maken](create-a-smart-list.md)
->* [Filters zoeken en toevoegen aan slimme lijsten](find-and-add-filters-to-a-smart-list.md)
+>* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [Filters zoeken en toevoegen aan slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Nu hebt u [een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) en [toegevoegde filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) Laten we de filters definiëren. Zo gaat het.
+Nu hebt u [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} and [added filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} Laten we de filters definiëren. Zo gaat het.
 
 Als we ons voorbeeld voortzetten, definiëren we deze filters om alle mensen in Californië te vinden met een score van meer dan 50.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de slimme lijst en klik op de knop **Slimme lijst** tab.
+1. Selecteer de slimme lijst en klik op de knop **[!UICONTROL Smart List]** tab.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Zoeken en selecteren **CA** voor de **Staat** filter.
+1. Zoek en selecteer &quot;CA&quot; voor de **[!UICONTROL State]** filter.
 
    ![](assets/smartlistdefinefilters.png)
 
    >[!NOTE]
    >
-   >U kunt beide opslaan **California** en **CA**. Als u voor beide waarden wilt filteren, neemt u _alles_ mensen uit Californië leren hoe te  [meerdere waarden toevoegen aan een slim lijstfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >U kunt zowel &quot;Californië&quot;als &quot;CA opslaan.&quot; Als u voor beide waarden wilt filteren, neemt u _alles_ mensen uit Californië leren hoe te  [meerdere waarden toevoegen aan een filter Slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"}.
 
-1. Kies de optie **groter dan** operator en enter **50**.
+1. Kies de optie **[!UICONTROL greater than]** -operator en &quot;50&quot; invullen.
 
    ![](assets/smartlistfilter-personscore.png)
 
 >[!TIP]
 >
->Als u denkt dat uw database enkele records bevat die onvolledige e-mailadressen bevatten (bijvoorbeeld alleen &quot;@adobe.com&quot;), gebruikt u **twee** De filters van het E-mailadres wanneer u de &quot;bevat&quot;exploitant gebruikt. Eén filter met &quot;bevat @adobe.com&quot; en een afzonderlijk filter met &quot;bevat adobe.com&quot; (het @-symbool blijft behouden).
+>Als u denkt dat uw database enkele records bevat die onvolledige e-mailadressen bevatten (bijvoorbeeld alleen &quot;@adobe.com&quot;), gebruikt u twee filters voor e-mailadressen wanneer u de operator &quot;contains&quot; gebruikt. Eén filter met &quot;bevat @adobe.com&quot; en een afzonderlijk filter met &quot;bevat adobe.com&quot; (het @-symbool wordt weggelaten).
 
 U weet nu hoe u een slimme lijst maakt en filters toevoegt/definieert.
