@@ -3,16 +3,16 @@ description: Campagne synchroniseren inschakelen - Marketo Docs - Productdocumen
 title: Campagne synchroniseren inschakelen
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Campagne synchroniseren inschakelen {#enable-campaign-sync}
 
-Met deze optie kan Marketo leden toevoegen aan en verwijderen uit de campagne voor dynamiek van MS.
+Met deze optie kan Marketo Engage leden toevoegen aan en verwijderen uit de campagne voor dynamiek van MS.
 
 >[!PREREQUISITES]
 >
@@ -22,19 +22,19 @@ Met deze optie kan Marketo leden toevoegen aan en verwijderen uit de campagne vo
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik in Mijn Marketo op **Beheer**.
+1. Klik in Mijn Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/enable-campaign-sync-1.png)
 
-1. Klikken **Microsoft Dynamics**.
+1. Klik op **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Klik onder Synchronisatieopties op **Bewerken**.
+1. Klik onder Synchronisatieopties op **[!UICONTROL Edit]**.
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Selecteer **Synchronisatie van Microsoft Dynamics-campagne inschakelen** selectievakje en klik op **Opslaan**.
+1. Selecteer de **[!UICONTROL Enable Microsoft Dynamics Campaign Sync]** selectievakje en klik op **[!UICONTROL Save]**.
 
    ![](assets/enable-campaign-sync-4.png)
 

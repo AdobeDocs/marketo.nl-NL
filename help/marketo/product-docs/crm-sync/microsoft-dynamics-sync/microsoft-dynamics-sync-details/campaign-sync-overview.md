@@ -3,9 +3,9 @@ description: Overzicht van de synchronisatie van campagnes - Marketo Docs - Prod
 title: Overzicht Campagne Sync
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ Als onderdeel van Campagne Sync, kunnen de gebruikers opstelling automatisering 
 
 >[!PREREQUISITES]
 >
->Update naar de nieuwste versie van de insteekmodule Dynamics voor Marketo.
+>Update aan de recentste versie van het elektrische toestel van de Dynamiek voor Marketo Engage.
 
 De volgende stroomhandelingen zijn beschikbaar:
 
-* Toevoegen aan Microsoft-campagne
-* Verwijderen uit Microsoft-campagne
+* [!UICONTROL Add to Microsoft Campaign]
+* [!UICONTROL Remove from Microsoft Campaign]
 
 >[!NOTE]
 >
->**Verwijderen uit Microsoft-campagne** Hiermee verwijdert u alleen personen die zijn toegevoegd met behulp van flowhandelingen in Marketo.
+>**[!UICONTROL Remove from Microsoft Campaign]** Hiermee verwijdert u alleen personen die zijn toegevoegd via flowhandelingen in Marketo.
 
 Er zijn ook twee triggers:
 
-* Toegevoegd aan Microsoft-campagne
-* Verwijderd uit Microsoft-campagne
+* [!UICONTROL Added to Microsoft Campaign]
+* [!UICONTROL Removed from Microsoft Campaign]
 
-De triggers worden uitgevoerd op basis van acties van de Marketo Flow-actie &quot;Toevoegen aan Microsoft-campagne&quot; en &quot;Verwijderd uit Microsoft-campagne&quot;.
+De triggers worden uitgevoerd op basis van acties van de Marketo Flow-actie &quot;[!UICONTROL Add to Microsoft Campaign]&quot; en &quot;[!UICONTROL Removed from Microsoft Campaign].&quot;
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ De triggers worden uitgevoerd op basis van acties van de Marketo Flow-actie &quo
 
 >[!MORELIKETHIS]
 >
->* [Campagne synchroniseren inschakelen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
->* [Voeg of verwijder Mensen van uw Campagne van de Dynamiek toe](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
+>* [Campagne synchroniseren inschakelen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
+>* [Voeg of verwijder Mensen van uw Campagne van de Dynamiek toe](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

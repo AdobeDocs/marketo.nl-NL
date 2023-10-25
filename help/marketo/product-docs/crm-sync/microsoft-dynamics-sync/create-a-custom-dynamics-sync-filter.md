@@ -4,9 +4,9 @@ description: Een aangepast synchronisatiefilter voor dynamiek maken - Marketo Do
 title: Een filter voor aangepaste dynamicasynchronisatie maken
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Marketo zoekt naar dit veld tijdens de automatische achtergrondsynchronisatie en
 
 ## SyncToMkto-veld maken {#create-synctomkto-field}
 
-1. Log in Dynamics CRM. Klikken **Instellingen** en klik vervolgens op **Aanpassingen**.
+1. Log in je Dynamics CRM. Klikken **Instellingen** en klik vervolgens op **Aanpassingen**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
@@ -67,7 +67,7 @@ Marketo zoekt naar dit veld tijdens de automatische achtergrondsynchronisatie en
 
    >[!NOTE]
    >
-   >Kies een willekeurige weergavenaam voor dit veld, maar het veld Naam moet exact **new_synctomkto**. U moet **new** als het standaardvoorvoegsel. Als u de standaardinstelling hebt gewijzigd, gaat u hier naar [het standaardvoorvoegsel voor aangepaste veldnamen opnieuw instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md). U kunt deze instelling wijzigen nadat u de nieuwe velden hebt gemaakt.
+   >Kies een willekeurige weergavenaam voor dit veld, maar het veld Naam moet exact **new_synctomkto**. U moet **new** als het standaardvoorvoegsel. Als u de standaard hebt gewijzigd, gaat u hier naar [het standaardvoorvoegsel voor aangepaste veldnamen opnieuw instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. U kunt deze instelling wijzigen nadat u de nieuwe velden hebt gemaakt.
 
    >[!NOTE]
    >
@@ -79,15 +79,15 @@ Marketo zoekt naar dit veld tijdens de automatische achtergrondsynchronisatie en
 
 Zelfs als u uw eerste synchronisatie al hebt uitgevoerd, gaat u binnen en selecteert u de velden die met Marketo moeten worden gesynchroniseerd.
 
-1. Ga naar Beheerder en selecteer **Microsoft Dynamics**.
+1. Ga naar Beheerder en selecteer **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klikken **Bewerken** op Veldsynchronisatiedetails.
+1. Klikken **[!UICONTROL Edit]** op veld Sync details.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klikken **Opslaan**.
+1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
@@ -103,7 +103,7 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 >
 >Een workflow voor dynamiek werkt alleen voor nieuwe records die u maakt en niet voor historische gegevens. Gebruik een batchupdate om over bestaande records te navigeren.
 
-1. Ga naar Dynamics CRM. Klikken **Instellingen** klik vervolgens op **Processen**.
+1. Ga naar je Dynamics CRM. Klikken **Instellingen** vervolgens **Processen**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
@@ -115,7 +115,7 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Maak regels om een waarde waar of onwaar toe te wijzen aan de **SyncToMkto** op basis van de voorkeur van uw organisatie. Klikken **Opslaan en sluiten**.
+1. Maak regels om een waarde waar of onwaar aan de **SyncToMkto** op basis van de voorkeur van uw organisatie. Klikken **Opslaan en sluiten**.
 
    ![](assets/setsynctomkto-fix.png)
 
@@ -129,26 +129,26 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    >[!TIP]
    >
-   >Zie [Aangepaste filterregels voor synchronisatie voor een e-mailadres](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md) om regels in te stellen voor het synchroniseren van alleen records voor mensen met e-mailadressen.
+   >Zie [Aangepaste filterregels voor synchronisatie voor een e-mailadres](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} om regels in te stellen voor het synchroniseren van alleen records voor mensen met e-mailadressen.
 
 ## Details van filter synchroniseren {#sync-filter-details}
 
 Hier volgen enkele implementatiedetails die u volgens ons moet weten:
 
-1. Synchronisatiebewerking starten
+* Synchronisatiebewerking starten
 
-   Wanneer de **SyncToMkto** waarde verandert van **Nee** tot **Ja** Dynamics waarschuwt Marketo onmiddellijk om deze record te synchroniseren. Als de record al bestaat, wordt deze door Marketo bijgewerkt. Anders maakt Marketo de record.
+  Wanneer de **SyncToMkto** waarde verandert van **Nee** tot **Ja** Dynamics waarschuwt Marketo onmiddellijk om deze record te synchroniseren. Als de record al bestaat, wordt deze door Marketo bijgewerkt. Anders maakt Marketo de record.
 
-   >[!TIP]
-   >
-   >A `Create [StartSync]` bewerking wordt toegevoegd aan het Marketo-logboek wanneer dit gebeurt.
+  >[!TIP]
+  >
+  >A `Create [StartSync]` bewerking wordt toegevoegd aan het Marketo-logboek wanneer dit gebeurt.
 
-1. Synchronisatiebewerking stoppen
+* Synchronisatiebewerking stoppen
 
-   Wanneer een record de waarde SyncToMkto wijzigt van Ja in Nee, wordt Marketo een melding gestuurd dat de synchronisatie van deze record moet worden gestopt. De record wordt echter niet verwijderd, maar houdt op met het ophalen van updates en wordt &#39;stale&#39;.
+  Wanneer een record de waarde SyncToMkto wijzigt van Ja in Nee, wordt Marketo een melding gestuurd dat de synchronisatie van deze record moet worden gestopt. De record wordt echter niet verwijderd, maar houdt op met het ophalen van updates en wordt &#39;stale&#39;.
 
 >[!MORELIKETHIS]
 >
->* [Filter Microsoft Dynamics Sync: Kwalificeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
->* [Filter Microsoft Dynamics Sync: Samenvoegen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
->* [Aangepaste filterregels voor synchronisatie voor een e-mailadres](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
+>* [Filter voor synchronisatie met Microsoft-dynamiek: kwalificeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Filter voor synchronisatie bij Microsoft: samenvoegen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [Aangepaste filterregels voor synchronisatie voor een e-mailadres](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

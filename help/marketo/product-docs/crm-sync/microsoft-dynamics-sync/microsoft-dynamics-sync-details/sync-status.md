@@ -4,9 +4,9 @@ description: Synchronisatiestatus - Marketo Docs - Productdocumentatie
 title: Synchronisatiestatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ U kunt tabs op de tabbladen Synchronisatiestatus en Fouten synchroniseren gebrui
 
 ## Tabblad Synchronisatiestatus {#sync-status-tab}
 
-1. Klikken **Beheer** en **Microsoft Dynamics**.
+1. Klikken **[!UICONTROL Admin]** vervolgens **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klik op de knop **Synchronisatiestatus** tab.
+1. Klik op de knop **[!UICONTROL Sync Status]** tab.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
-   In deze tabel wordt voor elk object aangegeven met welke gegevens de invoegingen en updates nog niet zijn gesynchroniseerd.
+   In deze tabel wordt voor elk object een overzicht weergegeven van de ingevoegde en bijgewerkte gegevens die nog niet zijn gesynchroniseerd.
 
 1. Dubbelklik op een rij om de opportuniteitsgegevens weer te geven.
 
@@ -35,7 +35,7 @@ U kunt tabs op de tabbladen Synchronisatiestatus en Fouten synchroniseren gebrui
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klik op de knop **Weergave:** vervolgkeuzelijst en selecteer **Laatste uur** om doorvoerinformatie te bekijken.
+1. Klik op de knop **[!UICONTROL View]** vervolgkeuzelijst en selecteer **[!UICONTROL Last Hour]** om doorvoerinformatie te bekijken.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,4 +55,4 @@ Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesy
 
 >[!MORELIKETHIS]
 >
->[Typen meldingen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+>[Typen meldingen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

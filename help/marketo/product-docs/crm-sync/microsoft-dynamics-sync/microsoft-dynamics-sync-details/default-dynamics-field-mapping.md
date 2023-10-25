@@ -3,16 +3,16 @@ description: Standaarddynamische veldtoewijzing - Marketo Docs - Productdocument
 title: Standaarddynamische veldtoewijzing
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09c70bb891f5cc93553c1f8dd0fb58dfd407fa81
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '830'
 ht-degree: 12%
 
 ---
 
 # Standaarddynamische veldtoewijzing {#default-dynamics-field-mapping}
 
-Wanneer u uw Marketo-account aanvankelijk synchroniseert met Microsoft, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde velden Dynamics en Marketo.  Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
+Wanneer u uw Marketo Engage-account voor het eerst synchroniseert met Microsoft, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde velden Dynamics en Marketo.  Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
 
 ## Loodvelden {#lead-fields}
 
@@ -244,7 +244,7 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar </td>
+      <td>Eigenaar</td>
       <td>eigenaar</td>
     </tr>
     <tr>
@@ -431,7 +431,7 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
     <tr>
       <td>Personen</td>
       <td>Beschrijving</td>
-      <td>beschrijving </td>
+      <td>beschrijving</td>
     </tr>
     <tr>
       <td>Person score</td>
@@ -441,7 +441,7 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
     <tr>
       <td>Personen</td>
       <td>Beschrijving</td>
-      <td>beschrijving </td>
+      <td>beschrijving</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,7 @@ De onderstaande contactvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar </td>
+      <td>Eigenaar</td>
       <td>eigenaar</td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ De onderstaande accountvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar </td>
+      <td>Eigenaar</td>
       <td>eigenaar</td>
     </tr>
     <tr>
@@ -673,7 +673,7 @@ De onderstaande accountvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar </td>
+      <td>Eigenaar</td>
       <td>eigenaar</td>
     </tr>
     <tr>

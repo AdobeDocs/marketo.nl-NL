@@ -4,16 +4,16 @@ description: Microsoft Dynamics Sync -User Sync - Marketo Docs - Productdocument
 title: Microsoft Dynamics Sync - User Sync
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics Sync: Gebruikerssynchronisatie {#microsoft-dynamics-sync-user-sync}
+# Microsoft Dynamics Sync: User Sync {#microsoft-dynamics-sync-user-sync}
 
-Wist u dat Marketo uw gehele database synchroniseert met Dynamics? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn sommige details over hoe Marketo de Rekeningen van de Dynamiek specifiek behandelt.
+Wist u dat Marketo Engage uw volledige database synchroniseert met Dynamics? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn sommige details over hoe Marketo de Rekeningen van de Dynamiek specifiek behandelt.
 
 Voor de integratie hebt u een speciale Microsoft Dynamics CRM-gebruiker nodig. Deze gebruiker wordt de synchronisatiegebruiker genoemd.
 
@@ -27,4 +27,4 @@ Nee. Marketo kan geen gebruikers maken in Dynamics.
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#which-fields-will-sync-to-marketo}
 
-U kunt [te synchroniseren velden selecteren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) tijdens installatie. Maar Marketo synchroniseert alleen de velden waartoe de gebruiker van het Dynamic Sync toegang heeft.
+U kunt [te synchroniseren velden selecteren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} tijdens installatie. Maar Marketo synchroniseert alleen de velden waartoe de gebruiker van het Dynamic Sync toegang heeft.
