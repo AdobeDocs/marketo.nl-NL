@@ -4,32 +4,32 @@ description: Ingebouwde/systeem slimme lijsten gebruiken - Marketo Docs - Produc
 title: Ingebouwde/systeemslimme lijsten gebruiken
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # Ingebouwde/systeemslimme lijsten gebruiken {#use-built-in-system-smart-lists}
 
-Marketo heeft een aantal zeer nuttige ingebouwde slimme lijsten. Laten we ze eens uitchecken!
+Marketo Engage heeft een aantal zeer nuttige ingebouwde slimme lijsten. Laten we ze eens uitchecken!
 
-1. Ga naar de **Database**.
+1. Ga naar de **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. Open de **Slimme systeemlijsten** om de verzameling weer te geven.
+1. Open de **[!UICONTROL System Smart Lists]** om de verzameling weer te geven.
 
    ![](assets/two.png)
 
-1. Een voorbeeld bekijken: Selecteren **Alle personen** en klik vervolgens op de knop **Mensen** tab.
+1. Een voorbeeld bekijken: Selecteren **[!UICONTROL All People]** en klik vervolgens op de knop **[!UICONTROL People]** tab.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >De filters in slimme systeemlijsten hoeven niet op elke slimme lijst/campagne te worden toegepast. De inhoud ervan wordt automatisch herkend.
+   >De filters in de Slimme Lijsten van het Systeem te hoeven niet om op elke Slimme Lijst/Campagne worden toegepast. De inhoud ervan wordt automatisch herkend.
 
 Hier volgt een overzicht van wat de ingebouwde slimme lijsten doen:
 
@@ -44,8 +44,8 @@ Hier volgt een overzicht van wat de ingebouwde slimme lijsten doen:
 
 >[!NOTE]
 >
->De slimme lijsten van het systeem kunnen niet worden geschrapt. Met uitzondering van de lijst Mogelijke duplicaten, kunnen deze ook niet worden bewerkt.
+>De slimme Lijsten van het systeem kunnen niet worden geschrapt. Met uitzondering van de lijst Mogelijke duplicaten, kunnen deze ook niet worden bewerkt.
 
 >[!MORELIKETHIS]
 >
->[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

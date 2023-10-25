@@ -4,9 +4,9 @@ description: Weergaven voor lijsten en slimme lijsten maken en wijzigen - Market
 title: Weergaven voor lijsten en slimme lijsten maken en wijzigen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 ## Een weergave maken {#create-a-view}
 
-1. Ga naar een lijst of slimme lijst, klik op de knop **Mensen** en klikt u op **Maken** **Weergave** onder de **Weergave** vervolgkeuzelijst.
+1. Ga naar een lijst of slimme lijst, klik op de knop **[!UICONTROL People]** en klikt u op **[!UICONTROL Create View]** onder de **[!UICONTROL View]** vervolgkeuzelijst.
 
    ![](assets/smartlist-createview.png)
 
-1. Geef een naam op voor de weergave en zoek naar de kolom die u wilt toevoegen of verwijderen.
+1. Geef de weergave een naam en zoek naar de kolom die u wilt toevoegen of verwijderen.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-1. Voeg/verwijder uw gewenste kolommen toe, dan klik **Maken**.
+1. Voeg/verwijder uw gewenste kolommen toe, dan klik **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
 >[!TIP]
 >
->Als u snel wilt zoeken, gebruikt u de opdracht **Zoeken** doos.
+>Als u snel wilt zoeken, gebruikt u de **Zoeken** doos.
 
 ## Weergaven omwisselen {#switch-views}
 
-1. Klik op de knop **Weergave** en selecteert u de gewenste weergave. Schakel indien nodig heen en weer tussen de weergaven.
+1. Klik op de knop **[!UICONTROL View]** en selecteert u de gewenste weergave. Schakel indien nodig heen en weer tussen de weergaven.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -45,25 +45,25 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 ## Een weergave bewerken {#edit-a-view}
 
-1. Controleer of de weergave die u wilt bewerken is geselecteerd in het dialoogvenster **Weergave** vervolgkeuzelijst.
+1. Controleer of de weergave die u wilt bewerken is geselecteerd in het dialoogvenster **[!UICONTROL View]** vervolgkeuzelijst.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Klik op de knop **Bewerken** optie.
+1. Klik op de knop **[!UICONTROL Edit]** -optie.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Breng de gewenste wijzigingen aan en klik op **Opslaan**.
+1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
 ## Een weergave verwijderen {#delete-a-view}
 
-1. Selecteer **Bewerken** voor de weergave die u wilt verwijderen uit het dialoogvenster **Weergave** vervolgkeuzelijst.
+1. Selecteer de **[!UICONTROL Edit]** voor de weergave die u uit het dialoogvenster **[!UICONTROL View]** vervolgkeuzelijst.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Klikken **Verwijderen**.
+1. Klik op **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
@@ -71,5 +71,5 @@ Alleen u kunt de aangepaste weergaven zien die u maakt in de vervolgkeuzelijst W
 
 >[!MORELIKETHIS]
 >
->* [Ingebouwde/systeemslimme lijsten gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
->* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Ingebouwde/systeemslimme lijsten gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

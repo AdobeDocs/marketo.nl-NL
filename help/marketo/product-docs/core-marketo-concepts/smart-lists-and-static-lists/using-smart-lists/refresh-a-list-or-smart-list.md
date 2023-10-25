@@ -4,9 +4,9 @@ description: Een lijst of slimme lijst vernieuwen - Marketo Docs - Productdocume
 title: Lijst of slimme lijst vernieuwen
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Als u een slimme lijst hebt uitgevoerd en een paar minuten zijn verstreken, kunn
 
 ## Resultaten vernieuwen {#refresh-results}
 
-1. Gegevens bijwerken in het dialoogvenster **Mensen** klikt u op het pictogram Vernieuwen.
+1. Gegevens bijwerken in het dialoogvenster **[!UICONTROL People]** klikt u op het pictogram Vernieuwen.
 
    ![](assets/refreshbutton.png)
 
-1. De slimme lijst wordt opnieuw uitgevoerd en toont u een recentere resultaatreeks.
+1. De slimme Lijst hervat en toont u een recentere resultaatreeks.
 
    ![](assets/loadingrefresh.png)
 
@@ -31,4 +31,4 @@ Als u een slimme lijst hebt uitgevoerd en een paar minuten zijn verstreken, kunn
 
 >[!MORELIKETHIS]
 >
->[Personen vanuit een lijst of slimme lijst exporteren naar Excel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
+>[Personen vanuit een lijst of slimme lijst exporteren naar Excel](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

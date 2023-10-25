@@ -4,9 +4,9 @@ description: Het filter Gegevenswaarde gewijzigd gebruiken in een slimme lijst -
 title: Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -17,22 +17,22 @@ Waarden worden voortdurend gewijzigd en bijgewerkt in uw Marketo-database. Soms 
 
 >[!PREREQUISITES]
 >
->[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar de **[!UICONTROL Marketing Activities]** gebied.
 
    ![](assets/ma.png)
 
-1. Selecteer de slimme lijst en klik op de knop **Slimme lijst** tab.
+1. Selecteer de slimme lijst en klik op **[!UICONTROL Smart List]** tab.
 
    ![](assets/two-1.png)
 
-1. Zoek de **Gewijzigde gegevenswaarde** en sleep het naar het canvas.
+1. Zoek de **[!UICONTROL Data Value Changed]** en sleep het naar het canvas.
 
    ![](assets/three-1.png)
 
-1. Set **Kenmerk** in het veld waarin u de gegevenswaarde wilt wijzigen.
+1. Set **[!UICONTROL Attribute]** in het veld waarin u de gegevenswaarde wilt wijzigen.
 
    ![](assets/four.png)
 
-Dit filter zoekt naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als je nog meer verancier wilt worden, probeer dan [een beperking toevoegen aan een filter voor een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
+Met dit filter zoekt u naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als je nog meer verancier wilt worden, probeer dan [een beperking toevoegen aan een filter Slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

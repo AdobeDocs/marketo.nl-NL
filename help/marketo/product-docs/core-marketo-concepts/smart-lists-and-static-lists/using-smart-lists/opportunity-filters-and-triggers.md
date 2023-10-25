@@ -4,7 +4,7 @@ description: Opportuniteitsfilters en -triggers - Marketo Docs - Productdocument
 title: Opportuniteitsfilters en -triggers
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opportuniteitsfilters en -triggers {#opportunity-filters-and-triggers}
 
-Met opportuniteitsfilters en -triggers kunt u opportuniteitsgebeurtenissen van Salesforce volgen. Ze zijn iets anders dan andere filters en triggers.
+Met opportuniteitsfilters en -triggers kunt u opportuniteitsgebeurtenissen bijhouden vanuit Salesforce. Ze zijn iets anders dan andere filters en triggers.
 
 ## Opportuniteitsfilters {#opportunity-filters}
 
@@ -39,8 +39,8 @@ Met deze filters, kunt u lood vinden die op het totale aantal, het bedrag, of de
 
 Als u naar leads zoekt die mogelijkheden hebben gebaseerd op een combinatie van criteria, gebruikt u de opdracht **Heeft mogelijkheid**, **Is toegevoegd aan opportunity**, of **Is verwijderd uit opportunity** filter. Ze vertellen je:
 
-* **Heeft mogelijkheid**: Als deze lead momenteel een passende kans heeft
-* **Is toegevoegd aan opportunity**: Als deze lead ooit is toegevoegd aan een matching Opportunity
+* **Heeft mogelijkheid**: Als deze lead momenteel een overeenkomende mogelijkheid heeft
+* **Is toegevoegd aan opportunity**: Als deze lead ooit aan een matching Opportunity is toegevoegd
 * **Is verwijderd uit opportunity**: Als deze lead ooit uit een matching opportunity is verwijderd
 
 De zoekcriteria toevoegen als **Restricties** op het filter. Tot de beperkingen behoren uw opportuniteitsnorm en aangepaste velden:
@@ -49,7 +49,7 @@ De zoekcriteria toevoegen als **Restricties** op het filter. Tot de beperkingen 
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Stel bijvoorbeeld dat je naar leads wilt zoeken die open kansen hebben van minstens $5.000. Sleep in de **Heeft mogelijkheid** filter en gebruik de **Is gesloten** en **Hoeveelheid** beperkingen:
+Stel bijvoorbeeld dat je naar leads wilt zoeken die open kansen hebben van minstens $5.000. Sleep in het dialoogvenster **Heeft mogelijkheid** filter en gebruik de **Is gesloten** en **Hoeveelheid** beperkingen:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
