@@ -4,14 +4,14 @@ description: Werken met het SEO-dashboard -SEO Snapshot - Marketo Docs - Product
 title: SEO-dashboard begrijpen - SEO-momentopname
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
-# Het SEO-dashboard begrijpen: SEO-opname {#understanding-the-seo-dashboard-seo-snapshot}
+# SEO-dashboard begrijpen: SEO-momentopname {#understanding-the-seo-dashboard-seo-snapshot}
 
 Gebruik het dashboard om een mening op hoog niveau van te krijgen hoe de sleutelwoordrang trending is en hoe goed uw plaats voor SEO wordt geoptimaliseerd.
 
@@ -35,7 +35,9 @@ In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop
 >
 >U kunt ook zien hoe een [specifieke lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van trefwoorden wordt uitgevoerd. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
 
-Roteren! Laten we doorgaan.
+>[!NOTE]
+>
+>Gegevens worden alleen weergegeven voor trefwoorden met de ranglijst 1-100.
 
 ## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
@@ -59,7 +61,7 @@ De [!UICONTROL Keyword Rank Trends] de grafiek trekt uw sleutelwoorden met de vi
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Laten we nu eens kijken naar de [!UICONTROL Recommendations] van dit dashboard.
+Laten we de [!UICONTROL Recommendations] van dit dashboard.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: SEO - Trefwoorden begrijpen - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden begrijpen
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ De [!UICONTROL Keywords] in deze sectie ziet u hoe succesvol uw site is om dit t
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Trefwoordgroep</span></td> 
+   <td colspan="1" rowspan="1"><span class="uicontrol">Trefwoordwoordgroep</span></td> 
    <td colspan="1" rowspan="1">Het trefwoord in kwestie.</td> 
   </tr> 
   <tr> 
@@ -46,11 +46,15 @@ De [!UICONTROL Keywords] in deze sectie ziet u hoe succesvol uw site is om dit t
    <td colspan="1" rowspan="1">Hoeveel onderzoeken gebeuren per maand op het sleutelwoord. Deze gegevens zijn gebaseerd op exacte overeenkomsten en zijn alleen beschikbaar voor Google-US over een periode van twaalf maanden. </td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><span class="uicontrol">Hoogste URL voor trefwoordwoordwoordwoordgroep</span></td>
+   <td colspan="1" rowspan="1"><span class="uicontrol">Hoogste URL voor trefwoordwoordwoordwoordwoordgroep</span></td>
    <td colspan="1" rowspan="1">Van uw URL's, de hoogste voor het trefwoord.</td> 
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Gegevens worden alleen weergegeven voor trefwoorden met de ranglijst 1-100.
 
 ## [!UICONTROL Keywords] - Concurrentieweergave {#keywords-competitor-view}
 

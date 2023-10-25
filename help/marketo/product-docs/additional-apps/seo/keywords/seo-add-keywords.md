@@ -4,9 +4,9 @@ description: SEO - Trefwoorden toevoegen - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden toevoegen
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,12 @@ Trefwoorden zijn zinnen die mensen typen in zoekmachines. Voeg de trefwoorden to
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!MORELIKETHIS]
-   >
-   >[Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-
 Goed gedaan! De nieuwe toevoegingen aan de lijst met trefwoorden worden nu weergegeven.
+
+>[!NOTE]
+>
+>Gegevens worden alleen weergegeven voor trefwoorden met de ranglijst 1-100.
+
+>[!MORELIKETHIS]
+>
+>[Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
