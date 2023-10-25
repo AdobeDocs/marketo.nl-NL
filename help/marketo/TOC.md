@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 51a4374cb2ce1995ec8f33eddd4b3470e7ad409e
 workflow-type: tm+mt
-source-wordcount: '9098'
+source-wordcount: '9099'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 0%
             + [SEO - Specifieke pagina&#39;s optimaliseren met doeltrefwoorden](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
             + [SEO - Een trefwoord verwijderen](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
             + [SEO - Trefwoorden begrijpen](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - de Resultaten van het Sleutelwoord van de Mening in de Motor van het Onderzoek](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
+            + [SEO - de Resultaten van het Sleutelwoord van de Mening in een Motor van het Onderzoek](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Pagina&#39;s {#pages}
             + [SEO - Notities toevoegen aan pagina-problemen](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
             + [SEO - Pagina&#39;s toevoegen](product-docs/additional-apps/seo/pages/seo-add-pages.md)
