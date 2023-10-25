@@ -4,9 +4,9 @@ description: Leden van lijst in een slimme lijst gebruiken - Marketo Docs - Prod
 title: Leden van lijst gebruiken in een slimme lijst
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->U kunt personen aan een lijst toevoegen met [Importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of de [Stroom toevoegen aan lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>U kunt personen aan een lijst toevoegen met [Importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of de [Stroom toevoegen aan lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
-Met dit filter kunt u leden uit een andere lijst trekken door ernaar te verwijzen in de slimme-lijstregels. Zo gaat het.
+Met dit filter, kunt u leden van een andere lijst trekken door naar het in uw Slimme regels van de Lijst te verwijzen. Zo gaat het.
 
-1. Selecteer een slimme lijst en klik op de knop **Slimme lijst** tab.
+1. Selecteer een slimme lijst en klik op de knop **[!UICONTROL Smart List]** tab.
 
    ![](assets/smartlist-sltab.png)
 
-1. Zoek en sleep in het venster met filters aan de rechterkant het gereedschap **Lid van de lijst** op het canvas.
+1. Zoek en sleep in het venster met filters aan de rechterkant het gereedschap **[!UICONTROL Member of List]** op het canvas.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
@@ -31,4 +31,4 @@ Met dit filter kunt u leden uit een andere lijst trekken door ernaar te verwijze
 
    ![](assets/memberoflist.png)
 
-   Gereed! In dit voorbeeld richt de slimme lijst zich nu alleen op leden van die lijst en evalueert ze op basis van andere regels die u opneemt.
+   Gereed! In dit voorbeeld richt de Slimme Lijst zich nu slechts op leden van die lijst en evalueert hen die op om het even welke andere regels worden gebaseerd u omvat.

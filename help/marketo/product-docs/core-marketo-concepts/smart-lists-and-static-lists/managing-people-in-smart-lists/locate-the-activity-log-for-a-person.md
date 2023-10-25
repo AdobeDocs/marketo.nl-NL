@@ -4,30 +4,30 @@ description: Zoek het activiteitenlog voor een persoon - Marketo Docs - Productd
 title: Zoek het activiteitenlog voor een persoon
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 # Zoek het activiteitenlog voor een persoon {#locate-the-activity-log-for-a-person}
 
-Het activiteitenlogboek is de ultieme bron van waarheid. Dit is het complete verhaal van de reis van een persoon in Marketo.
+Het activiteitenlogboek is de ultieme bron van waarheid. Dit is het complete verhaal van de reis van een persoon in Marketo Engage.
 
-1. Ga naar de **Database**.
+1. Ga naar de **[!UICONTROL Database]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Selecteren **Alle personen**.
+1. Selecteren **[!UICONTROL All People]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klik op de knop **Mensen** tab. Een persoon selecteren **Id** getal.
+1. Klik op de knop **[!UICONTROL People]** tab. Een persoon selecteren **[!UICONTROL Id]** getal.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Klikken **Activiteitenlogboek**.
+1. Klik op **[!UICONTROL Activity Log]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ Moet het activiteitenlogboek van een persoon naar Excel uitvoeren?
 
    >[!MORELIKETHIS]
    >
-   >Meer informatie over [het filtreren van het activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) specifieke activiteiten van personen te zien.
+   >Meer informatie over [het filtreren van het activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} specifieke activiteiten van personen te zien.

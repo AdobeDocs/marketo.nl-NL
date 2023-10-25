@@ -4,7 +4,7 @@ description: De persoonlijke detailpagina gebruiken - Marketo Docs - Productdocu
 title: De detailpagina voor personen gebruiken
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 13%
@@ -20,7 +20,7 @@ De pagina met persoonlijke details bevat alle informatie die Marketo over een pe
 Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden zijn:
 
 * Van de **Database**, kunt u zoeken in Snel zoeken
-* Willekeurig slim **list** of lijst
+* Alle **Slimme lijst** of lijst
 * **Leden** tabblad van een programma
 * **Campagneleden weergeven** in een slimme campagne
 * Sommige **rapporten**
@@ -41,8 +41,8 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 | Tab | Beschrijving |
 |---|---|
 | Info | Contactgegevens en aangepaste velden voor een persoon. |
-| Bedrijfsinfo | Informatie en adres van het bedrijf van de persoon. |
-| Informatie over opportunity | Opportunity-informatie gesynchroniseerd vanuit Salesforce. |
+| Bedrijfsgegevens | Informatie en adres van het bedrijf van de persoon. |
+| Opportunity-info | Opportunity-informatie gesynchroniseerd vanuit Salesforce. |
 | SFDC Lead Field | Ingebouwde Salesforce-velden. |
 | Aangepast SFDC-veld | Aangepaste Salesforce-velden. |
 | Activiteitenlogboek | Alle activiteiten met betrekking tot de persoon. |
@@ -52,8 +52,8 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 | Tab | Beschrijving |
 |---|---|
 | Info | Contactgegevens en aangepaste velden voor een persoon. |
-| Bedrijfsinfo | Informatie en adres van het bedrijf van de persoon. |
-| Informatie over opportunity | Opportunity-informatie gesynchroniseerd vanuit Microsoft. |
+| Bedrijfsgegevens | Informatie en adres van het bedrijf van de persoon. |
+| Opportunity-info | Opportunity-informatie gesynchroniseerd vanuit Microsoft. |
 | Aangepaste Microsoft-velden | Aangepaste Microsoft-velden. |
 | Microsoft Lead Field | Ingebouwde Microsoft-velden. |
 | Activiteitenlogboek | Alle activiteiten met betrekking tot de persoon. |
@@ -84,8 +84,8 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 | Marketo Social Facebook Foto-URL | Marketo Social Facebook Profile URL | Marketo Social Facebook Reach | Inschrijvingen verwezen naar Marketo Social Facebook | Bezoeken verwezen naar Marketo Social Facebook |
 | Marketo Social Gender | Inschrijving als laatste verwijzing voor Marketo Social | Bezoek van laatst vermelde Marketo Social | Marketo Social LinkedIn Display Name | Marketo Social LinkedIn ID |
 | Marketo Social LinkedIn Foto-URL | Marketo Social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Inschrijvingen verwezen naar Marketo Social LinkedIn | Bezoeken verwezen naar Marketo Social LinkedIn |
-| Marketo Social Syndication ID | Marketo Social Total Vermeld inschrijvingen | Marketo Sociale Totaal bezoeken | Marketo Social Twitter Display Name | Marketo Social Twitter ID |
-| Marketo Social Twitter Foto-URL | Marketo Social Twitter Profile URL | Marketo Social Twitter Reach | Inschrijvingen verwezen naar Marketo Social Twitter | Bezoeken verwezen naar Marketo Social Twitter |
+| Marketo Social Syndication ID | Marketo Social Total Vermeld inschrijvingen | Marketo Sociale Totaal Aangewezen bezoeken | Weergavenaam sociale Twitter van Marketo | Marketo ID sociale Twitter |
+| Marketo Sociale Twitter Foto-URL | Marketo URL profiel voor sociale Twitter | Marketo Social Twitter Reach | Sociale Twitter van Marketo — Inschrijvingen | Bezoeken van de sociale Twitter van Marketo |
 | Tussenvoegsel | Mobiel | Aantal werknemers | Telefoonnummer | Postcode |
 | Prioriteit | Relatieve score | Functie | Aanhef | SIC-code |
 | Vestiging | Staat | Niet geabonneerd | Reden voor niet geabonneerd | Bijgewerkt op |
@@ -100,8 +100,8 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 >* Mogelijkheden voor SFDC-contactpersonen
 >* Bepaalde Marketo-specifieke velden, zoals Aanmaakdatum en Oorspronkelijk brontype.
 >
->Meer informatie over [Door het systeem beheerde velden](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Meer informatie over [Door het systeem beheerde velden](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Een aangepast tabblad maken voor de detailpagina voor personen](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+>[Een aangepast tabblad maken voor de detailpagina voor personen](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

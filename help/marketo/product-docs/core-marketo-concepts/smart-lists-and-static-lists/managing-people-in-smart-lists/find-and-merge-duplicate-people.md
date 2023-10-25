@@ -4,16 +4,16 @@ description: Dubbele personen zoeken en samenvoegen - Marketo Docs - Productdocu
 title: Dubbele personen zoeken en samenvoegen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
 
 # Dubbele personen zoeken en samenvoegen {#find-and-merge-duplicate-people}
 
-Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. Uw CRM heeft echter mogelijk in eerste instantie dubbele gegevens naar Marketo verzonden. Hieronder wordt beschreven hoe u ze samenvoegt.
+Marketo Engage wordt automatisch gedupliceerd wanneer nieuwe personen het systeem betreden. Uw CRM kan echter oorspronkelijk meerdere duplicaten hebben verzonden. Hieronder wordt beschreven hoe u ze samenvoegt.
 
 >[!CAUTION]
 >
@@ -29,7 +29,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 ## Duplicaten zoeken {#find-duplicates}
 
-1. Ga naar de **Database** gebied.
+1. Ga naar de **[!UICONTROL Database]** gebied.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 
@@ -37,21 +37,21 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
    >
    >Het samenvoegen van personen in Marketo werkt mogelijk niet als u een Salesforce Person-account gebruikt. Voeg indien mogelijk de records in Salesforce samen.
 
-1. Selecteer **Mogelijke duplicaten** de slimme lijst van het systeem en klik op **Mensen** tab.
+1. Selecteer de **[!UICONTROL Possible Duplicates]** De slimme Lijst van het systeem en klik op **[!UICONTROL People]** tab.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
-   >U kunt ook [Dubbele mensen zoeken met aangepaste logica](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
+   >U kunt [Dubbele mensen zoeken met aangepaste logica](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Personen handmatig samenvoegen {#merge-people-manually}
 
 >[!CAUTION]
 >
->Als de verliezende persoon bij het samenvoegen van personen een aangepast Marketo-object heeft, wordt **niet** opnieuw aan de winnende persoon worden geassocieerd. Geef het aangepaste object opnieuw het bovenliggende element voordat u het samenvoegt.
+>Als de verliezende persoon bij het samenvoegen van personen een aangepast Marketo-object heeft, wordt _niet_ opnieuw aan de winnende persoon worden geassocieerd. Geef het aangepaste object opnieuw het bovenliggende element voordat u het samenvoegt.
 
-1. Selecteer de duplicaten door Ctrl/Cmd ingedrukt te houden en te klikken en klik vervolgens op **Personen samenvoegen**.
+1. Selecteer de duplicaten door Ctrl/Cmd ingedrukt te houden en te klikken en klik vervolgens op **[!UICONTROL Merge People]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
    >
    >U kunt twee of meer duplicaten hebben voor dezelfde persoon - en deze in één keer selecteren.
 
-1. U ziet de waarden tussen de records die _niet_ match. Selecteer de waarde die u voor elk veld wilt behouden. Klikken **Samenvoegen** wanneer gereed. Als u geen van beide waarden wilt, kunt u controleren **Aangepast** en voer een waarde naar keuze in.
+1. U ziet de waarden tussen de records die _niet_ match. Selecteer de waarde die u voor elk veld wilt behouden. Klikken **[!UICONTROL Merge]** wanneer gereed. Als u geen van beide waarden wilt, kunt u **[!UICONTROL Custom]** en voer een waarde naar keuze in.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -85,4 +85,4 @@ Voor details van Salesforce gedrag wanneer het samenvoegen van Leads of Contacte
 
 ## Bulksamenvoeging {#bulk-merging}
 
-Als u te veel duplicaten hebt om handmatig samen te voegen, neemt u contact op met het Adobe-accountteam (uw accountmanager) om uw opties te bespreken.
+Als u te veel duplicaten hebt om handmatig samen te voegen, neemt u contact op met het accountteam van de Adobe (uw accountmanager) om uw opties te bespreken.
