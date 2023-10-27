@@ -4,9 +4,9 @@ description: Protocollen configureren voor Marketo - Marketo Docs - Productdocum
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0d6507c251e2b7567483af8d75158f6bc6a1ca49
+source-git-commit: f95721d5007fc686a8de7d11233cfe08ccce7237
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '968'
 ht-degree: 3%
 
 ---
@@ -15,13 +15,7 @@ ht-degree: 3%
 
 Als u of uw organisatie restrictieve firewall of proxyserverinstellingen gebruikt, moet u of uw netwerkbeheerder bepaalde domeinen en IP-adresbereiken lijsten van gewenste personen om ervoor te zorgen dat Adobe Marketo Engage naar behoren werkt.
 
-## Aanlandingspagina&#39;s en e-mails met branding {#branded-campaign-landing-pages-and-emails}
-
-Uw marketinggroep maakt gebruik van Marketo om pagina&#39;s en e-mails met brandingcampagne te maken. Om ervoor te zorgen dat die landingspagina&#39;s en e-mails werken, hebben ze een beetje hulp van IT nodig. Stel de volgende protocollen in met de informatie die uw marketinggroep u per e-mail had moeten sturen.
-
-Dit artikel zou met de afdeling van IT van het bedrijf moeten worden gedeeld die deze protocollen willen uitvoeren.
-
-Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt, vraag hen om de volgende domeinen (met inbegrip van de asterisk) toe te voegen om alle middelen en websockets van Marketo toe te staan:
+Deel dit artikel met uw IT-afdeling voor hulp bij het implementeren van de onderstaande protocollen. Als deze webtoegang beperken via een lijst van gewenste personen, moet u ervoor zorgen dat de volgende domeinen (inclusief het sterretje) worden toegevoegd om alle Marketo-bronnen en -websockets toe te staan:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
