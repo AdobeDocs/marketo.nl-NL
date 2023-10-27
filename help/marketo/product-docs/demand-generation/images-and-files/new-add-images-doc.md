@@ -4,9 +4,9 @@ title: Nieuwe afbeeldingendocument toevoegen
 hide: true
 hidefromtoc: true
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 100a12a2d9cafe73b6ce62cecee177da604332d3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -51,11 +51,15 @@ Tekst
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Selecteer de **Web** -optie.
+1. Selecteer de **[!UICONTROL Web]** en klik op **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. Tekst
+1. Typ of plak in de URL naar de gewenste afbeelding en klik op **Volgende**.
+
+PICC
+
+1. Klik op LEEG.
 
 PICC
 
@@ -67,9 +71,27 @@ Tekst
 
 1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
 
-PICC
+   ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Tekst
+1. Selecteer de **[!UICONTROL Box]** en klik op **[!UICONTROL Next]**.
+
+   ![](assets/add-images-and-files-to-marketo-11.png)
+
+   >[!NOTE]
+   >
+   >Als u dit nog niet hebt gedaan, wordt u gevraagd u aan te melden bij uw Box-account om toegang te verlenen.
+
+1. Selecteer de gewenste Box-map en klik op **[!UICONTROL Next]**.
+
+   ![](assets/add-images-and-files-to-marketo-12.png)
+
+1. Selecteer de gewenste afbeelding(en) en klik op **[!UICONTROL Next]**.
+
+   ![](assets/add-images-and-files-to-marketo-13.png)
+
+1. Selecteer de map met Marketo&#39;s Engage waarnaar u de afbeelding wilt opslaan. In dit voorbeeld laten we het als afbeeldingen en bestanden (standaard). Klikken **Importeren**.
+
+   ![](assets/add-images-and-files-to-marketo-14.png)
 
 ### Importeren uit Adobe Experience Manager {#import-from-adobe-experience-manager}
 
@@ -78,6 +100,18 @@ Tekst
 1. Stap 1 en 2 volgen [van boven](#upload-image-or-file).
 
 1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Import image or file]**.
+
+   ![](assets/add-images-and-files-to-marketo-15.png)
+
+1. Tekst
+
+PICC
+
+1. Tekst
+
+PICC
+
+1. Tekst
 
 PICC
 
