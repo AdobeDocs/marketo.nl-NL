@@ -4,14 +4,16 @@ title: Een gebeurtenis maken met Webex
 hide: true
 hidefromtoc: true
 feature: Events
-source-git-commit: 286e1b7b563be70e932206adec6f80b4877b7953
+source-git-commit: eb7bea86a5696ff2699b38b27291deeb5cbe7ab2
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # Een gebeurtenis maken met Webex {#create-an-event-with-webex}
+
+Nadat u een webinar in Webex creeert, zult u uw gebeurtenis met Marketo Engage moeten synchroniseren.
 
 >[!PREREQUISITES]
 >
@@ -19,13 +21,9 @@ ht-degree: 0%
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om betrokkenheid bij te houden
 
-## Webinar plannen {#schedule-a-webinar}
+## Uw webinar plannen {#schedule-your-webinar}
 
-Maak eerst een webinar in [Webex](https://www.webex.com/){target="_blank"}. Marketo Engage only uses specific settings and fields for your integration, which we'll go through shortly. For additional information, please see the [Webex Webinars Help Documentation](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
-
->[!NOTE]
->
->U kiest uw voorkeursinstellingen in Webex, maar alleen de volgende gegevens kunnen in het Marketo Engage worden weergegeven: naam webinar, begin-/einddatum en -tijd, tijdzone en beschrijving.
+U plant uw gebeurtenis en kiest uw voorkeursinstellingen in [Webex](https://www.webex.com/){target="_blank"}. Only the following information is viewable in Marketo: webinar name, start/end date & time, time zone, and description. Additional information about Webex Webinars [can be found here](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}.
 
 ### Basisinformatie {#basic-information}
 
@@ -71,11 +69,9 @@ Maak eerst een webinar in [Webex](https://www.webex.com/){target="_blank"}. Mark
 >
 >De Marketo-Webex-integratie biedt geen ondersteuning voor het verzenden van bevestigingse-mails vanuit Webex. De bevestiging moet via Marketo worden verzonden. Nadat u de gebeurtenis hebt gepland, kopieert u de gebeurtenisinformatie naar het bevestigingsbericht van Marketo en stelt u het e-mailbericht in als _Operationeel_.
 
-Nu zijn we klaar om in Marketo Engage te springen!
-
 ## Uw gebeurtenis synchroniseren met Marketo Engage {#sync-your-event-with-marketo-engage}
 
-1. Zoek in Marketo naar het gebeurtenisprogramma dat u hebt gemaakt en selecteer dit programma. In de **Gebeurtenishandelingen** vervolgkeuzelijst, selecteert u **Gebeurtenisinstellingen**.
+1. Zoek en selecteer het gewenste gebeurtenisprogramma in Marketo. In de **Gebeurtenishandelingen** vervolgkeuzelijst, selecteert u **Gebeurtenisinstellingen**.
 
    ![](assets/create-an-event-with-webex-5.png)
 
@@ -99,7 +95,7 @@ Nu zijn we klaar om in Marketo Engage te springen!
 
    ![](assets/create-an-event-with-webex-9.png)
 
-Uw Webex-gebeurtenis wordt nu gesynchroniseerd met uw Marketo-gebeurtenis. Personen die zich aanmelden voor uw webinar worden via _Programmastatus wijzigen_ De stap van de stroom wanneer de Nieuwe Status aan &quot;Geregistreerd wordt geplaatst.&quot; Geen andere status zal de persoon over duwen. Zorg ervoor dat u _Programmastatus wijzigen_ stap nr. 1 van de stroom, en _E-mail verzenden_ Stroom nr. 2.
+Uw Webex-gebeurtenis wordt nu gesynchroniseerd met uw Marketo-gebeurtenisprogramma. Personen die zich aanmelden voor uw webinar worden via _Programmastatus wijzigen_ stap voor doorloop wanneer de nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg ervoor dat u _Programmastatus wijzigen_ stap nr. 1 van de stroom, en _E-mail verzenden_ Stroom nr. 2.
 
 ## Notities {#things-to-note}
 
