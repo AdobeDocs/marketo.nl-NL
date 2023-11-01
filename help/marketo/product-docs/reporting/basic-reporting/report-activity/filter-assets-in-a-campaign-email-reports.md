@@ -4,16 +4,20 @@ description: Middelen filteren in een campagne-e-mailrapport - Marketo Docs - Pr
 title: Middelen in een campagne-e-mailrapporten filteren
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
 # Middelen in een campagne-e-mailrapporten filteren {#filter-assets-in-a-campaign-email-reports}
 
-Focus op uw [Campagne-e-mailprestaties](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) specifieke [slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde programma&#39;s.
+Focus op uw [E-mailprestaties campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) specifieke [slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde programma&#39;s.
+
+>[!NOTE]
+>
+>Het filteren van elementen in rapporten wordt niet ondersteund in de Satellietmodus (het pictogram &#39;Open in a new window&#39; rechts van de elementdetailpagina).
 
 1. Ga naar **Analyse** (of **Marketingactiviteiten**).
 

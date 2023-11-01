@@ -4,9 +4,9 @@ description: Middelen filteren in een e-mailrapport - Marketo Docs - Productdocu
 title: Middelen in een e-mailrapport filteren
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Middelen in een e-mailrapport filteren {#filter-assets-in-an-email-report}
 
 Focus op uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [Prestaties van e-mailkoppelingen](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e-mailberichten in uw programma&#39;s (&#39;lokale middelen&#39;), in Design Studio (&#39;globale activa&#39;) of in de programma&#39;s die zijn gearchiveerd.
+
+>[!NOTE]
+>
+>Het filteren van elementen in rapporten wordt niet ondersteund in de Satellietmodus (het pictogram &#39;Open in a new window&#39; rechts van de elementdetailpagina).
 
 1. Ga naar **Analyse** (of **Marketingactiviteiten**).
 
@@ -27,8 +31,8 @@ Focus op uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Design Studio-e-mails**: Globale activa, die in de Studio van het Ontwerp worden beheerd.
-   * **E-mails over marketingactiviteiten**: Lokale elementen in programma&#39;s op het tabblad Marketingactiviteiten.
+   * **Design Studio-e-mails**: Algemene elementen, beheerd in de Design Studio.
+   * **E-mails over marketingactiviteiten**: Lokale elementen in programma&#39;s op het tabblad Marketing Activities.
    * **Gearchiveerde e-mails**: Inactieve e-mails met pensioen.
 
 1. Kies de mappen en specifieke e-mails die u in uw rapport wilt opnemen.

@@ -4,16 +4,20 @@ description: Een campagneactiviteitenrapport filteren - Marketo Docs - Productdo
 title: Een campagneactiviteitenrapport filteren
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Een campagneactiviteitenrapport filteren {#filter-a-campaign-activity-report}
 
-Focus op uw [Rapport Campagneactiviteiten](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)specifieke [slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+Focus op uw [Rapport Campagneactiviteiten](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)over specifieke [slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+
+>[!NOTE]
+>
+>Het filteren van elementen in rapporten wordt niet ondersteund in de Satellietmodus (het pictogram &#39;Open in a new window&#39; rechts van de elementdetailpagina).
 
 1. Ga naar **Marketingactiviteiten** (of **Analyse**) en selecteer het activiteitenrapport van uw campagne.
 
