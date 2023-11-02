@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c871be92ce61c37e9a8d198c1b3bae6588f6a94f
+source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1169'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Marketo-productbeheerders zullen:
 
 >[!NOTE]
 >
->Vanwege de complexiteit van de migratie zijn datumwijzigingen beperkt tot maximaal 30 dagen na de geplande datum. Stuur een e-mail naar marketocares@marketo.com als u een latere datum nodig hebt.
+>Vanwege de complexiteit van de migratie zijn datumwijzigingen beperkt tot maximaal 30 dagen na de geplande datum. Een e-mail verzenden naar `marketocares@marketo.com` als u een latere datum nodig hebt.
 
 * Zie een banner in Mijn Marketo die een afrekening naar de Begindatum van de Migratie van de Gebruiker toont.
 
@@ -81,7 +81,7 @@ Als Marketo-productbeheerder wordt u aangeraden ervoor te zorgen dat alle gebrui
 
 ### Wat verwacht u op de migratiedag {#what-to-expect-on-migration-day}
 
-De migratie van gebruikers begint om middernacht van de tijdzone die is ingesteld in het Marketo-abonnement.
+De migratie van gebruikers begint om middernacht Pacific Standard Time of the migration start date.
 
 **Adobe migreert automatisch eerst Marketo Admins**. Wanneer Marketo Admins naar Adobe Identity wordt gemigreerd, krijgen zij de rol van Admin van het Product van de Adobe binnen de toepassing van Marketo samen met om het even welke andere rollen toegewezen zij eerder hadden.
 
@@ -101,4 +101,4 @@ Adobe zal alle systeembeheerders en productbeheerders via e-mail op de hoogte st
 
 ## Ondersteuning {#get-support}
 
-Voor extra ondersteuning met betrekking tot uw abonnement of gebruikersmigratie, stuurt u een e-mail naar marketocares@marketo.com.
+Voor extra ondersteuning met betrekking tot uw abonnement of gebruikersmigratie, kunt u een e-mail `marketocares@marketo.com`.
