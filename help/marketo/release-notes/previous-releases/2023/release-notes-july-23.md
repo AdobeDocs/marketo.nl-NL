@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - juli 2023 - Marketo Docs - Productdocu
 title: Opmerkingen bij de release - juli 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
+source-git-commit: dc13ffb4232b39d702ba835814f272256c153f6a
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -101,7 +101,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tr>
   <tr> 
    <td>Verzonden</td>
-   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Instelling voor automatisch toevoegen van abonnement op bericht</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Instelling voor automatisch toevoegen van abonnement op bericht</a></td>
   </tr>
   </tbody>
 </table>
