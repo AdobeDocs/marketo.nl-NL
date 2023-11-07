@@ -2,10 +2,10 @@
 description: Opmerkingen bij de release - juli 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juli 2023
 feature: Release Information
-exl-id: bda861e3-24a1-4325-9b4c-f65a046d7696
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4056353c-4125-4849-8350-59c58afb9e66
+source-git-commit: 87bc9acec7f998edaf06ecb1880da91513f32214
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '654'
 ht-degree: 1%
 
 ---
@@ -92,7 +92,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 </br>
 
-* **Abonnement op instellingen voor toevoegen opzeggen**: U hebt nu meer controle over uw afmeldingsberichten met nieuwe configuratieopties voor Afmelden toevoegen. De nieuwe mogelijkheden geven Admins controle over wanneer, waar, en wat unsubscribe overseinen in uw verkoop e-mails zal verschijnen.
+* **Abonnement op instellingen voor toevoegen aan verkoopinzicht opheffen**: U hebt nu meer controle over uw afmeldingsberichten met nieuwe configuratieopties voor Afmelden toevoegen. De nieuwe mogelijkheden geven Admins controle over wanneer, waar, en wat unsubscribe overseinen in uw verkoop e-mails zal verschijnen.
 
 <table> 
   <tr> 
@@ -100,13 +100,13 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Instelling voor automatisch toevoegen van abonnement op bericht</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamische veldvragen**: U kunt uw Sales Team nu vragen om specifieke delen van een e-mail nog verder aan te passen met nieuwe Veldherinneringen beschikbaar om aan e-mailmalplaatjes in de Acties van het Inzicht van de Verkoop te worden toegevoegd.
+* **Dynamische Veldvragen voor Handelingen van het Inzicht van de Verkoop**: U kunt uw Sales Team nu vragen om specifieke delen van een e-mail nog verder aan te passen met nieuwe Veldherinneringen beschikbaar om aan e-mailmalplaatjes in de Acties van het Inzicht van de Verkoop te worden toegevoegd.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Standaard dynamische velden**: Met Standaard dynamische velden kunt u een fallback-waarde configureren die door een dynamisch veld kan worden omgezet als er geen waarde beschikbaar is om te worden gevuld. Zo kunt u ervoor zorgen dat e-mails worden verzonden met alle ingevulde personalisatie.
+* **Standaard dynamische velden voor handelingen van het verkoopinzicht**: Met Standaard dynamische velden kunt u een fallback-waarde configureren die door een dynamisch veld kan worden omgezet als er geen waarde beschikbaar is om te worden gevuld. Zo kunt u ervoor zorgen dat e-mails worden verzonden met alle ingevulde personalisatie.
 
 <table> 
   <tr> 
