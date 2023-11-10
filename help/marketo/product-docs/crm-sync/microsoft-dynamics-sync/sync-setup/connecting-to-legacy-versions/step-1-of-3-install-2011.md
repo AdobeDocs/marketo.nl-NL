@@ -4,16 +4,16 @@ description: Stap 1 van 3 - Installeer de Marketo-oplossing (2011 op locatie) - 
 title: Stap 1 van 3 - Installeer de Marketo-oplossing (2011 op locatie)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 0%
+source-wordcount: '258'
+ht-degree: 1%
 
 ---
 
-# Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie) {#step-of-install-the-marketo-solution-on-premises}
+# Stap 1 van 3: Installeer de Marketo-oplossing (2011 op locatie) {#step-of-install-the-marketo-solution-on-premises}
 
-Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u eerst de Marketo-oplossing installeren in Dynamics.
+Voordat u Microsoft Dynamics On-Premises en Marketo Engage kunt synchroniseren, moet u eerst de Marketo-oplossing installeren in Dynamics.
 
 >[!NOTE]
 >
@@ -21,45 +21,45 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
 >[!PREREQUISITES]
 >
->U moet [Implementatie van internetbestanden](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 of 3.0 (ADFS) geconfigureerd. **Opmerking**: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>U moet [Implementatie van internetbestanden](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701){target="_blank"} (IFD) with [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 of 3.0 (ADFS) geconfigureerd. **Opmerking**: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[Download de Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) voordat u begint.
+>[Download de Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} voordat u begint.
 
 >[!NOTE]
 >
->**Beheerdersrechten voor dynamiek vereist.**
+>**Beheerdersrechten voor dynamiek vereist**.
 >
 >U hebt CRM-beheerdersrechten nodig om deze synchronisatie uit te voeren.
 
-1. Aanmelden bij **Dynamiek**, selecteert u **Instellingen** in het menu linksonder.
+1. Log in bij Dynamiek en selecteer **[!UICONTROL Settings]** in het linker onderste menu.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
-1. Selecteren **Oplossingen** in de boom.
+1. Selecteren **[!UICONTROL Solutions]** in de boom.
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. Klikken **Importeren**.
+1. Klik op **[!UICONTROL Import]**.
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klikken **Bladeren**. Selecteer de Marketo Lead Management-oplossing die u wilt [gedownload](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klikken **Volgende**.
+1. Klik op **[!UICONTROL Browse]**. Selecteer de Marketo Lead Management-oplossing [gedownload](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. Bekijk de Informatie van de Oplossing en klik **Details van oplossingspakket weergeven**.
+1. Bekijk de Informatie van de Oplossing en klik **[!UICONTROL View solution package details]**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. Wanneer u alle details hebt gecontroleerd, klikt u op **Sluiten**.
+1. Wanneer u alle details hebt gecontroleerd, klikt u op **[!UICONTROL Close]**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Terug op de pagina van de Informatie van de Oplossing, klik **Volgende**.
+1. Terug op de pagina van de Informatie van de Oplossing, klik **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. Controleer of het selectievakje voor de optie voor SDK-berichten is ingeschakeld. Klikken **Volgende**.
+1. Controleer of het selectievakje voor de optie voor SDK-berichten is ingeschakeld. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 
@@ -71,7 +71,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
-1. Klikken **Sluiten**.
+1. Klik op **[!UICONTROL Close]**.
 
    >[!NOTE]
    >
@@ -83,11 +83,9 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Selecteer Marketo Lead Management en klik op **Alle aanpassingen publiceren.**
+1. Selecteer Marketo Lead Management en klik op **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
-
-Was het niet zo erg? Kom op, ik zal je door de rest blijven lopen.
 
 >[!CAUTION]
 >
@@ -95,4 +93,4 @@ Was het niet zo erg? Kom op, ik zal je door de rest blijven lopen.
 
 >[!MORELIKETHIS]
 >
->[Stap 2 van 3: Marketo Sync User in Dynamics instellen (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[Stap 2 van 3: Marketo Sync User instellen in Dynamics (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}

@@ -3,14 +3,16 @@ description: Toestemming voor klant-id en toepassingsregistratie - Marketo-docum
 title: Toestemming verlenen voor client-id en toepassingsregistratie
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
 # Toestemming verlenen voor client-id en toepassingsregistratie {#grant-consent-for-client-id-and-app-registration}
+
+Volg de onderstaande stappen om te leren hoe u de vereiste toestemming/machtigingen kunt verlenen.
 
 ## Gedelegeerde gebruikersmachtigingen verlenen voor de synchronisatiegebruiker {#grant-delegated-user-permissions-for-the-sync-user}
 
@@ -63,7 +65,7 @@ ht-degree: 0%
    >
    >Als u reeds aan Azure als Admin op een ander lusje wordt aangemeld, zult u een verschillende browser of wijze Incognito moeten gebruiken om als Gebruiker van de Synchronisatie aan te melden.
 
-1. Klikken **Accepteren**.
+1. Klik op **[!UICONTROL Accept]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
@@ -73,15 +75,14 @@ Als beheerder, kunt u aan de gedelegeerde toestemmingen van een toepassing namen
 
 1. Navigeer in uw Azure-portal naar de startpagina van de toepassing.
 
-1. Klik onder Beheren op **API-machtigingen**.
+1. Klik onder Beheren op **[!UICONTROL API Permissions]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Klik op de knop **Toelating beheerder** (voor huurder).
+1. Klik op de knop **[!UICONTROL Grant admin consent]** (voor huurder).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Klikken **Ja** ter bevestiging.
+1. Klikken **[!UICONTROL Yes]** ter bevestiging.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)
-

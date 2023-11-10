@@ -4,16 +4,16 @@ description: Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
 title: Werken met Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Werken met Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
-Marketo en Microsoft Dynamics gaan samen. We houden je verkoop- en marketinggegevens synchroon.
+Marketo Engage en Microsoft Dynamics gaan samen. We houden je verkoop- en marketinggegevens synchroon.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketo en Microsoft Dynamics gaan samen. We houden je verkoop- en marketinggege
 
 >[!CAUTION]
 >
->Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+>Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 ## Hoe synchroniseren werkt {#how-sync-works}
 
@@ -43,7 +43,7 @@ De synchronisatie tussen Marketo en Dynamics is bidirectioneel voor leads en con
 * [Kansen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Aangepaste entiteiten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-De [referenties die u invoert in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) worden gebruikt om gegevens te synchroniseren.
+De [gebruikersgegevens die u invoert in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) worden gebruikt om gegevens te synchroniseren.
 
 >[!NOTE]
 >
