@@ -3,10 +3,10 @@ description: Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2
 title: Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3 installeren
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 0%
+source-wordcount: '464'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Geweldig werk bij het voltooien van de vorige stappen. Laten we hier doorheen ga
 
 >[!PREREQUISITES]
 >
->[Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 1 van 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 1 van 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
 
 ## Een nieuwe gebruiker maken {#create-a-new-user}
 
@@ -24,31 +24,31 @@ Geweldig werk bij het voltooien van de vorige stappen. Laten we hier doorheen ga
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
 
-1. Klikken **Instellingen** en selecteert u **Beveiliging**.
+1. Klik op **[!UICONTROL Settings]** en selecteer **[!UICONTROL Security]**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
 
-1. Klikken **Gebruikers**.
+1. Klik op **[!UICONTROL Users]**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
 
-1. Klikken **Nieuw**.
+1. Klik op **[!UICONTROL New]**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
 
-1. Klikken **Gebruikers toevoegen en licentie geven**. Er moet een nieuw tabblad worden geopend.
+1. Klik op **[!UICONTROL Add and License Users]**. Er moet een nieuw tabblad worden geopend.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
 
-1. Klikken **Beheer** boven aan de pagina. Er moet een ander nieuw tabblad worden geopend.
+1. Klikken **[!UICONTROL Admin]** boven aan de pagina. Er moet een ander nieuw tabblad worden geopend.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
 
-1. Klikken **Een gebruiker toevoegen**.
+1. Klik op **[!UICONTROL Add a user]**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
 
-1. Voer al uw gegevens in. Als u klaar bent, klikt u op **Toevoegen**.
+1. Voer al uw gegevens in. Als u klaar bent, klikt u **[!UICONTROL Add]**.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
 
@@ -62,7 +62,7 @@ Geweldig werk bij het voltooien van de vorige stappen. Laten we hier doorheen ga
 
 ## Een nieuwe clienttoepassing maken {#create-a-new-client-application}
 
-Voer de stappen uit in [dit Microsoft-artikel](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) om een nieuwe Toepassing van de Cliënt tot stand te brengen en toestemmingen te verlenen. Noteer de client-id/-geheim van de Dynamic-clienttoepassing.
+Voer de stappen uit in [dit Microsoft-artikel](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later){target="_blank"} om een nieuwe Toepassing van de Cliënt tot stand te brengen en toestemmingen te verlenen. Noteer de client-id/-geheim van de Dynamic-clienttoepassing.
 
 ## Gebruikersrol synchroniseren toewijzen {#assign-sync-user-role}
 
@@ -70,29 +70,29 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
 >[!NOTE]
 >
->Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Ga voor een upgrade van uw Marketo naar [Upgrade de Marketo-oplossing voor Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Ga voor een upgrade van uw Marketo naar [Upgrade de Marketo-oplossing voor Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->De taalinstelling van de synchronisatiegebruiker [moet worden ingesteld op Engels](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+>De taalinstelling van de synchronisatiegebruiker [moet worden ingesteld op Engels](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}.
 
-1. Onder **Instellingen**, klikt u op **Beveiliging**.
+1. Onder **[!UICONTROL Settings]**, klikt u op **[!UICONTROL Security]**.
 
    ![](assets/assign1.png)
 
-1. Klikken **Gebruikers**.
+1. Klik op **[!UICONTROL Users]**.
 
    ![](assets/assign2.png)
 
-1. Hier wordt een lijst met gebruikers weergegeven. Selecteer de toegewezen Marketo Sync-gebruiker of neem contact op met uw [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS)-beheerder om een specifieke gebruiker voor Marketo te maken.
+1. Hier wordt een lijst met gebruikers weergegeven. Selecteer de toegewezen Marketo Sync-gebruiker of neem contact op met uw [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} (ADFS)-beheerder om een specifieke gebruiker voor Marketo te maken.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. Selecteer de synchronisatiegebruiker. Klikken **Rollen beheren**.
+1. Selecteer de synchronisatiegebruiker. Klik op **[!UICONTROL Manage Roles]**.
 
    ![](assets/assign4.png)
 
-   Controleer Marketo Sync User en klik op OK.
+1. Controleer Marketo Sync User en klik op **[!UICONTROL OK]**.
 
    ![](assets/assign5.png)
 
@@ -102,25 +102,25 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
    >[!NOTE]
    >
-   >Alle updates die door de synchronisatiegebruiker in uw CRM worden aangebracht, worden **niet** worden gesynchroniseerd naar Marketo.
+   >Alle updates die door de synchronisatiegebruiker in uw CRM worden aangebracht, worden _niet_ worden gesynchroniseerd naar Marketo.
 
 ## Marketo-oplossing configureren {#configure-marketo-solution}
 
 Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we naar het volgende artikel gaan.
 
-1. Onder **Instellingen**, klikt u op **Marketo Config**.
+1. Onder **[!UICONTROL Settings]**, klikt u op **[!UICONTROL Marketo Config]**.
 
    ![](assets/configure1.png)
 
    >[!NOTE]
    >
-   >Vernieuw de pagina als Marketo Config ontbreekt. Als het probleem zich blijft voordoen, [De Marketo-oplossing publiceren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md) of probeer het afmelden en weer binnen.
+   >Vernieuw de pagina als Marketo Config ontbreekt. Als het probleem zich blijft voordoen, [De Marketo-oplossing publiceren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"} of probeer het afmelden en weer binnen.
 
-1. Klikken **Standaard**.
+1. Klik op **[!UICONTROL Default]**.
 
    ![](assets/configure2.png)
 
-1. Klik op de knop **Marketo-gebruiker** en selecteer de synchronisatiegebruiker.
+1. Klik op de knop **[!UICONTROL Marketo User]** en selecteer de synchronisatiegebruiker.
 
    ![](assets/configure3.png)
 
@@ -128,16 +128,16 @@ Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we 
 
    ![](assets/configure4.png)
 
-1. Klikken **Alle aanpassingen publiceren**.
+1. Klik op **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/publish-all-customizations1.png)
 
 ## Voordat u verdergaat met stap 3 {#before-proceeding-to-step}
 
-* Als u het aantal records dat u synchroniseert wilt beperken, [een aangepast synchronisatiefilter instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
-* Voer de [Microsoft Dynamics Sync valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) proces. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
+* Als u het aantal records dat u synchroniseert wilt beperken, [een aangepast synchronisatiefilter instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} nu.
+* Voer de [Microsoft Dynamics Sync valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} proces. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
 * Meld u aan bij Marketo Sync User in Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
->[Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 3 van 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+>[Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 3 van 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md){target="_blank"}
