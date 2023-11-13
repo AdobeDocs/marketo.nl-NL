@@ -3,22 +3,16 @@ description: Adobe Identity Management - Overzicht - Marketo Docs - de Documenta
 title: Overzicht van Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Overzicht van Adobe Identity Management {#adobe-identity-management-overview}
 
-Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met het accountteam van de Adobe (uw accountmanager) om te weten te komen of u dit doet.
-
-Bestaande Marketo-abonnementen zullen in de tweede helft van 2023 worden gemigreerd naar het Adobe Identity Management System.
-
-Als u een [nieuwe account](/help/marketo/product-docs/administration/marketo-with-adobe-identity/quick-guide.md){target="_blank"} (niet alleen een nieuw exemplaar voor een bestaande account) met Adobe Marketo Engage vanaf 15 februari 2022, wordt het mogelijk geïntegreerd met het Adobe Identity Management System (IMS), afhankelijk van het aangeschafte productpakket. Neem contact op met het accountteam van de Adobe (uw accountmanager) om te weten te komen of u dit doet.
-
-Bestaande Marketo-abonnementen zullen eind 2023 worden gemigreerd naar het Adobe Identity Management System. Deze migraties kunnen in eerste instantie pas plaatsvinden nadat u uw Marketo-abonnement opnieuw hebt gecontracteerd. De Adobe is voornemens rond medio 2024 Marketo-gebruikers te gaan migreren buiten de uitbestedingsactiviteiten.
+Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden geïntegreerd met het Adobe Identity Management System. Bestaande Marketo-abonnementen worden momenteel gemigreerd naar het Adobe Identity Management System bij vernieuwings- en/of uitbestedingsgebeurtenissen. Migraties buiten een gebeurtenis voor vernieuwing of uitbesteding worden momenteel niet ondersteund.
 
 >[!NOTE]
 >

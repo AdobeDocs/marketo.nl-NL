@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: cc7f5880dba926349ddf763e5b28fc4a922aa26d
+source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: '1189'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Tijdens de migratie gaan uw abonnement en gebruikersbeheer van de Marketo-toepas
 * **Gebruikers zullen zich aanmelden met Adobe-id**. Adobe migreert bestaande gebruikers naar de Adobe Admin Console. Gebruikers zullen zich aanmelden bij hun Marketo-abonnementen met hun nieuwe Adobe Identity - een Adobe ID- of Adobe Federated ID (SSO).
 
 * **Er is geen wijziging in de manier waarop u alle andere functies beheert** binnen de toepassing van het Marketo Engage zelf, met inbegrip van beheer van eigenschappen, gebruikersrollen, werkruimten, functionaliteit, en gedrag.
-
 
 ## Tijdlijn migratiepad {#migration-journey-timeline}
 
@@ -81,7 +80,7 @@ Als Marketo-productbeheerder wordt u aangeraden ervoor te zorgen dat alle gebrui
 
 ### Wat verwacht u op de migratiedag {#what-to-expect-on-migration-day}
 
-De migratie van gebruikers begint om middernacht Pacific Standard Time of the migration start date.
+Alle Marketo-abonnementen met een Amerikaanse tijdzone worden gemigreerd vanaf middernacht, Pacific Standard Time, van de startdatum van de migratie. De migratie van de gebruiker voor alle andere abonnementen zal om middernacht van gespecificeerde timezone van het abonnement beginnen.
 
 **Adobe migreert automatisch eerst Marketo Admins**. Wanneer Marketo Admins naar Adobe Identity wordt gemigreerd, krijgen zij de rol van Admin van het Product van de Adobe binnen de toepassing van Marketo samen met om het even welke andere rollen toegewezen zij eerder hadden.
 
@@ -93,7 +92,9 @@ De migratie van gebruikers begint om middernacht Pacific Standard Time of the mi
 >
 >Tijdens de migratie van gebruikers zal de toegang tot het product niet verloren gaan. Als een gebruiker tijdens de tijd het programma wordt geopend hun gebruiker wordt gemigreerd, zal de gebruiker worden geregistreerd uit en ertoe aangezet om binnen notulen terug te verbinden gebruikend de Identiteit van de Adobe nadat de migratie volledig is.
 
-Terwijl gebruikers worden gemigreerd, ontvangen ze een e-mail van de Adobe waarin ze op de hoogte worden gesteld van de wijziging in de manier waarop ze zich aanmelden bij Marketo. Gebruikers worden uitgenodigd een uitnodiging om zich voor het eerst aan te melden met Adobe Identity te accepteren, door zich aan te melden met een bestaande Adobe ID of door een nieuwe Adobe ID in te stellen met hetzelfde e-mailadres. Meer informatie vindt u in onze [Aanmelden door gebruiker met Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} artikel.
+Terwijl gebruikers worden gemigreerd, ontvangen ze een e-mail van de Adobe waarin ze op de hoogte worden gesteld van de wijziging in de manier waarop ze zich aanmelden bij Marketo. Gebruikers worden uitgenodigd een uitnodiging om zich voor het eerst aan te melden met Adobe Identity te accepteren, door zich aan te melden met een bestaande Adobe ID of door een nieuwe Adobe ID in te stellen met hetzelfde e-mailadres.
+
+Meer informatie vindt u in [Aanmelden door gebruiker met Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## Migratie van gebruiker voltooid {#user-migration-complete}
 
