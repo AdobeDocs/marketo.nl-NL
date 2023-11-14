@@ -3,24 +3,24 @@ description: E-mailverificatie - Marketo Docs - Productdocumentatie
 title: E-mailverificatie
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
 
 # E-mailverificatie {#email-verification}
 
-Adobe Marketo Engage-abonnementen vereisen dat alle gebruikers die geen API gebruiken, inclusief Marketo Engage-beheerders, hun e-mailadres verifiëren. Aan gebruikers met een SSO (Single Sign-On) die geen beheerrol hebben toegewezen of die een rol met de machtiging SSO omzeilen hebben toegewezen, wordt hun e-mail automatisch geverifieerd wanneer hun abonnement is ingeschakeld met de functie E-mailverificatie.
+Adobe Marketo Engage-abonnementen vereisen dat alle gebruikers die geen API gebruiken, inclusief beheerders van Marketo&#39;s Engage, hun e-mailadres verifiëren.
 
 ## Waarom deze functie is geïntroduceerd {#why-this-feature-was-introduced}
 
-Marketo Engage gaat door met de uitrol van e-mailverificatie ter voorbereiding op het migreren van klanten naar het Adobe Business Platform, inclusief de migratie van gebruikers naar Adobe-id&#39;s. Deze functie verbetert de beveiliging van bestaande Marketo Engage-gebruikersaccounts. Om ervoor te zorgen dat een Marketo Engage-gebruiker aan de juiste Adobe ID is gekoppeld, moeten bestaande Marketo Engage-gebruikers hun e-mailadres verifiëren. Een Marketo Engage-gebruiker moet een geverifieerd e-mailadres hebben om naar een Adobe ID te worden gemigreerd. Als een Marketo Engage-gebruiker zijn e-mailadres niet verifieert, kan hij of zij niet naar een Adobe ID migreren en verliest hij of zij toegang tot een Marketo-abonnement nadat de gebruikersmigratie voor het abonnement is voltooid.
+Marketo Engage gaat door met de introductie van e-mailverificatie ter voorbereiding op het migreren van klanten naar het Adobe Business Platform, inclusief de migratie van gebruikers naar Adobe-id&#39;s. Deze functie verbetert de beveiliging van bestaande gebruikersaccounts in de Marketo Engage. Om ervoor te zorgen dat een gebruiker van het Marketo Engage aan de juiste Adobe ID wordt gekoppeld, moeten bestaande gebruikers van het Marketo Engage hun e-mailadres verifiëren. Een gebruiker van een Marketo Engage moet een geverifieerd e-mailadres hebben om naar een Adobe ID te worden gemigreerd. Als een gebruiker van het Marketo Engage zijn e-mailadres niet verifieert, kan hij of zij niet naar een Adobe ID worden gemigreerd en verliest hij of zij de toegang tot een Marketo-abonnement nadat de gebruikersmigratie voor het abonnement is voltooid.
 
 ## Uitnodiging gebruiker {#user-invite}
 
-Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch geverifieerd zodra hij op de uitnodigingskoppeling klikt. SSO-gebruikers waaraan de beheerdersrol niet is toegewezen, worden automatisch geverifieerd.
+Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch geverifieerd zodra hij op de uitnodigingskoppeling klikt.
 
 ## Verificatiebericht {#verification-email}
 
@@ -48,7 +48,7 @@ In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** In de kolom E-mailsta
 
 ## Meerdere aanmeldings-id&#39;s voor gebruikers {#multiple-user-login-ids}
 
-Er kan slechts één gebruikersaccount aan één e-mailadres worden gekoppeld. Als er meerdere gebruikersaccounts zijn gekoppeld aan één e-mailadres, vereist Marketo Engage dat het conflict wordt opgelost en dat alle gebruikersaanmeldingen worden weergegeven die aan het e-mailadres zijn gekoppeld, en drie oplossingsopties:
+Er kan slechts één gebruikersaccount aan één e-mailadres worden gekoppeld. Als er meerdere gebruikersaccounts zijn gekoppeld aan één e-mailadres, moet het Marketo Engage het conflict oplossen en alle gebruikersaanmeldingen weergeven die aan het e-mailadres zijn gekoppeld, alsmede drie resolutieopties:
 
 * Huidige e-mail gebruiken voor de huidige gebruikersnaam
 * Nieuwe e-mail gebruiken voor de huidige gebruikersnaam
