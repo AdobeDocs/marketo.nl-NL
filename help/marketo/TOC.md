@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9103'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 0%
       + [Stappen instellen](getting-started/setup/setup-steps.md)
       + [Controlelijst instellen](getting-started/setup/setup-checklist.md)
       + [Protocollen voor Marketo configureren](getting-started/setup/configure-protocols-for-marketo.md)
+      + [Bijgewerkte documentatie voor configuratieprotocollen](getting-started/setup/updated-configure-protocols-doc.md)
    + Quick Wins {#quick-wins}
       + [Instellen en een persoon toevoegen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [E-mail verzenden](getting-started/quick-wins/send-an-email.md)
