@@ -4,7 +4,7 @@ title: Bijgewerkte documentatie voor configuratieprotocollen
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 1152e81462fb77dd23ff57e26ded7f9b3c02c258
+source-git-commit: 10458ed8bc6553e11686d00dacc1ba36d683ab56
 workflow-type: tm+mt
 source-wordcount: '2104'
 ht-degree: 2%
@@ -257,7 +257,7 @@ Er zijn twee soorten groepering voor DMARC-uitlijning DKIM en SPF groepering.
 
 * DKIM-align DMARC-Aan opstelling DKIM richt DMARC moet u:
 
-   * Opstelling DKIM voor VAN: Domein van uw bericht. De instructies gebruiken [in dit artikel](help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Opstelling DKIM voor VAN: Domein van uw bericht. De instructies gebruiken [in dit artikel](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Vorm DMARC voor VAN:/DKIM Domein dat vroeger werd gevormd
 
 * DMARC-Uitgelijnde SPF-aan opstelling DMARC gerichte SPF via branded terugkeer-weg, moet u:
