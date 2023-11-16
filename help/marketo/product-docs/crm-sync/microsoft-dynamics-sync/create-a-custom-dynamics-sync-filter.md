@@ -4,9 +4,9 @@ description: Een aangepast synchronisatiefilter voor dynamiek maken - Marketo Do
 title: Een filter voor aangepaste dynamicasynchronisatie maken
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ Wilt u niet alles in uw Dynamics CRM synchroniseren naar Marketo? Maak je geen z
 Een filter voor het synchroniseren van dynamiek instellen:
 
 1. Creeer een douane twee van Opties (booleaanse) gebied genoemd new_synctomkto in uw Dynamica CRM voor om het even welk voorwerp (lood, contact, rekening, kans en andere douaneentiteiten).
-1. Wijs in dit veld een waarde Ja/Nee toe of laat het veld leeg.
+1. Wijs aan dit veld een waarde Ja/Nee toe.
 
->[!NOTE]
+U moet deze veranderingen in Dynamica CRM, niet uw gegevensbestand of Marketo aanbrengen.
+
+>[!CAUTION]
 >
->U moet deze veranderingen in Dynamica CRM, niet uw gegevensbestand of Marketo aanbrengen.
+>Als u het veld niet toewijst en dit leeg laat/NULL, wordt het veld gesynchroniseerd, maar niet bijgewerkt.
 
 Marketo zoekt naar dit veld tijdens de automatische achtergrondsynchronisatie en bepaalt op basis van deze logica welke records moeten worden gesynchroniseerd:
 

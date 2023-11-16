@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 2c293eacb0dd693118efc0260118337eb671c1b9
+source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
 workflow-type: tm+mt
 source-wordcount: '9099'
 ht-degree: 0%
@@ -565,7 +565,7 @@ ht-degree: 0%
             + [Synchronisatiestatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Overzicht Campagne Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Campagne synchroniseren inschakelen](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + Details filter Aangepaste dynamiek synchroniseren {#custom-dynmaics-sync-filter-details}
+         + Details filter Aangepaste dynamiek synchroniseren {#custom-dynamics-sync-filter-details}
             + [Een filter voor aangepaste dynamicasynchronisatie maken](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Aangepaste filterregels voor synchronisatie voor een e-mailadres](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Filter voor synchronisatie bij Microsoft: samenvoegen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
