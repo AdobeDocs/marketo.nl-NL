@@ -4,18 +4,18 @@ description: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan d
 title: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
 
-# Stap 2 van 3: Marketo-oplossing instellen met Server naar Server-verbinding {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
+# Stap 2 van 3: Marketo-oplossing instellen met Server-naar-serververbinding {#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
->[Stap 1 van 3: Marketo-oplossing installeren met Server naar Server-verbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>[Stap 1 van 3: Installeer de Marketo-oplossing met Server naar Server-verbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
 
 ## Clienttoepassing maken in Azure AD {#create-client-application-in-azure-ad}
 
@@ -27,15 +27,15 @@ ht-degree: 0%
 
 1. Beheerder toestemming verlenen door de stappen uit te voeren [in dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
-1. Een clientgeheim genereren in het beheercentrum door op **Certificaten en geheimen**.
+1. Een clientgeheim genereren in het beheercentrum door op **[!UICONTROL Certificates & secrets]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. Klik op de knop **Nieuw clientgeheim** knop.
+1. Klik op de knop **[!UICONTROL New client secret]** knop.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. Voer een beschrijving van een clientgeheim in en klik op **Toevoegen**.
+1. Voer een beschrijving van een clientgeheim in en klik op **[!UICONTROL Add]**.
 
    ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
@@ -65,19 +65,19 @@ Aanvullende verwijzingen [hier te vinden](https://docs.microsoft.com/en-us/azure
 
 Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over de nieuwe gebruiker die is gemaakt.
 
-1. Ga terug naar het gedeelte Geavanceerde instellingen en klik op de knop ![](assets/image2015-5-13-15-3a49-3a19.png) pictogram naast Instellingen en selecteer **Marketo Config**.
+1. Ga terug naar het gedeelte Geavanceerde instellingen en klik op de knop ![](assets/image2015-5-13-15-3a49-3a19.png) pictogram naast Instellingen en selecteer **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Als u het niet ziet **Marketo Config** vernieuwt de pagina in het menu Instellingen. Als dat niet werkt, probeert u [De Marketo-oplossing publiceren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} opnieuw of logout and back in.
+   >Als &quot;Marketo Config&quot; niet wordt weergegeven in het menu Instellingen, vernieuwt u de pagina. Als dat niet werkt, probeert u [De Marketo-oplossing publiceren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"} opnieuw of logout and back in.
 
-1. Klikken **Standaard**.
+1. Klik op **[!UICONTROL Default]**.
 
    ![](assets/fifteen.png)
 
-1. Klik op de knop Zoeken op de knop **Marketo-gebruiker** en selecteer de synchronisatiegebruiker u creeerde.
+1. Klik op de knop Zoeken op de knop **[!UICONTROL Marketo User]** en selecteer de synchronisatiegebruiker u creeerde.
 
    ![](assets/sixteen.png)
 
@@ -89,11 +89,11 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 
    ![](assets/seventeen.png)
 
-1. Klik op de knop ![](assets/image2015-5-13-15-3a49-3a19-1.png) pictogram naast Instellingen en selecteer **Oplossingen**.
+1. Klik op de knop ![](assets/image2015-5-13-15-3a49-3a19-1.png) pictogram naast Instellingen en selecteer **[!UICONTROL Solutions]**.
 
    ![](assets/eighteen.png)
 
-1. Klik op de knop **Alle aanpassingen publiceren** knop.
+1. Klik op de knop **[!UICONTROL Publish All Customizations]** knop.
 
    ![](assets/nineteen.png)
 
@@ -109,5 +109,5 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 
 >[!MORELIKETHIS]
 >
->* [Stap 3 van 3: De Marketo-oplossing aansluiten op de serververbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
+>* [Stap 3 van 3: Verbind de Oplossing van Marketo met de Verbinding van de Server aan](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Dynamische verificatiemethode opnieuw configureren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}

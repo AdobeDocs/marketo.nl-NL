@@ -4,9 +4,9 @@ description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterpr
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[Stap 1 van 3: Voeg Marketo-velden toe aan Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 
 In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en maakt u een Marketo-Salesforce-integratieaccount.
 
 ## Een profiel maken {#create-a-profile}
 
-1. Klikken **Instellen**.
+1. Klik op **[!UICONTROL Setup]**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Typ &quot;profielen&quot; in de navigatiebalk en klik op de knop **Profielen** koppeling.
+1. Typ &quot;profielen&quot; in de navigatiebalk en klik op de knop **[!UICONTROL Profiles]** koppeling.
 
    ![](assets/sfdc-profiles-hands.png)
 
-1. Klikken op **Nieuw**.
+1. Klikken op **[!UICONTROL New]**.
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Selecteren **Standaardgebruiker**, geef het profiel &quot;Marketo-Salesforce Sync&quot; een naam en klik op **Opslaan**.
+1. Selecteren **[!UICONTROL Standard User]**, geef het profiel &quot;Marketo-Salesforce Sync&quot; een naam en klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## Profielmachtigingen instellen {#set-profile-permissions}
 
-1. Klikken **Bewerken** om de beveiligingsmachtigingen in te stellen.
+1. Klikken **[!UICONTROL Edit]** om de beveiligingsmachtigingen in te stellen.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Onder de **Administratieve machtigingen** , controleert u of de volgende vakken zijn ingeschakeld:
+1. Onder de **[!UICONTROL Administrative Permissions]** , controleert u of de volgende vakken zijn ingeschakeld:
 
    * API ingeschakeld
    * HTML-sjablonen bewerken
@@ -58,7 +58,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    >[!TIP]
    >
-   >Controleer de **Wachtwoord verloopt nooit** doos.
+   >Controleer de **[!UICONTROL Password Never Expires]** doos.
 
 1. Controleer of onder de sectie Algemene gebruikersmachtigingen de volgende vakken zijn ingeschakeld:
 
@@ -68,7 +68,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Controleer in de sectie Standaardobjectmachtigingen of de machtigingen Lezen, Maken, Bewerken en Verwijderen zijn ingeschakeld voor:
+1. Controleer in de sectie Standaardobjectmachtigingen of de machtigingen Lezen, Maken, Bewerken en Verwijderen zijn ingeschakeld:
 
    * Accounts
    * Campagnes
@@ -78,11 +78,11 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    >[!NOTE]
    >
-   >Verleen toestemmingen aan de Campagnes, als u van plan bent om de Synchronisatie van de Campagne te gebruiken.
+   >Verleen toestemmingen aan de Campagnes, als u van plan bent te gebruiken de Synchronisatie van de Campagne.
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. Als u klaar bent, klikt u op **Opslaan** onder aan de pagina.
+1. Klik op **[!UICONTROL Save]** onder aan de pagina.
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
@@ -94,7 +94,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
    >
    >Met deze stap voorkomt u dat velden die u niet nodig hebt, worden weergegeven in Marketo, waardoor de synchronisatie minder rommelig wordt en sneller verloopt.
 
-1. Ga op de pagina met profieldetails naar **Beveiliging op veldniveau** sectie. Klikken **Weergave** om de toegankelijkheid voor de objecten te bewerken:
+1. Ga op de pagina met profieldetails naar **[!UICONTROL Field-Level Security]** sectie. Klikken **[!UICONTROL View]** om de toegankelijkheid voor de objecten te bewerken:
 
    * Lood
    * Contact
@@ -107,11 +107,11 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/image2014-12-9-9-3a20-3a14.png)
 
-1. Voor elk object klikt u op **Bewerken**.
+1. Voor elk object klikt u op **[!UICONTROL Edit]**.
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Zoek de overbodige velden en zorg ervoor dat **Leestoegang** en **Toegang bewerken** zijn uitgeschakeld. Klikken **Opslaan** als u klaar bent.
+1. Zoek de overbodige velden en zorg ervoor dat **[!UICONTROL Read Access]** en **[!UICONTROL Edit Access]** zijn uitgeschakeld. Klikken **[!UICONTROL Save]** wanneer gereed.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nadat u alle overbodige velden hebt uitgeschakeld, moet u **Toegang lezen en bewerken** voor de volgende objectvelden. Klikken **Opslaan** als u klaar bent.
+1. Nadat u alle overbodige velden hebt uitgeschakeld, moet u **[!UICONTROL Read Access and Edit Access]** voor de volgende objectvelden. Klikken **[!UICONTROL Save]** wanneer gereed.
 
 <table> 
  <tbody> 
@@ -148,13 +148,13 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 >[!TIP]
 >
->Maak een speciale Salesforce-account (bijv. marketo@yourcompany.com) om onderscheid te maken tussen de wijzigingen die door Marketo en andere Salesforce-gebruikers zijn aangebracht.
+>Een speciale Salesforce-account maken (bijvoorbeeld `marketo@yourcompany.com`) om een onderscheid te maken tussen de wijzigingen die door Marketo en andere Salesforce-gebruikers zijn aangebracht.
 
-1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk Nav en klik op **Gebruikers**. Klikken op **Nieuwe gebruiker**.
+1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk Nav en klik op **[!UICONTROL Users]**. Klik op **[!UICONTROL New User]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Vul de vereiste velden in. Selecteer vervolgens de **Gebruikerslicentie: Salesforce** en het profiel dat u eerder hebt gemaakt. Klikken **Opslaan** als u klaar bent.
+1. Vul de vereiste velden in. Selecteer vervolgens de **[!UICONTROL User License: Salesforce]** en het profiel dat u eerder hebt gemaakt. Klikken **[!UICONTROL Save]** als je klaar bent.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
@@ -162,4 +162,4 @@ Stap 2 van 2 is voltooid.
 
 >[!NOTE]
 >
->[Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}

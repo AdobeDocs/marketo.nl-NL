@@ -4,30 +4,30 @@ description: Bekijk de URL van de Organisatie Service - Marketo Docs - Productdo
 title: De URL van de organisatieservice weergeven
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 5%
 
 ---
 
 # De URL van de organisatieservice weergeven {#view-the-organization-service-url}
 
-Marketo heeft de URL van de Organisatie Service nodig om te synchroniseren met instanties Dynamics. Zo vind je het in Dynamics.
+Marketo Engage heeft de URL van de Organisatie Service nodig om te synchroniseren met MD-instanties. Zo vind je het in Dynamics.
 
-1. Meld u aan bij Dynamiek. Klik op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
+1. Aanmelden bij [!DNL Dynamics]. Klik op het pictogram Instellingen en selecteer **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
-1. Klikken **Instellingen** en selecteert u **Aanpassingen**.
+1. Klik op **[!UICONTROL Settings]** en selecteer **[!UICONTROL Customizations]**.
 
    ![](assets/two.png)
 
-1. Klikken **Bronnen voor ontwikkelaars**.
+1. Klik op **[!UICONTROL Developer Resources]**.
 
    ![](assets/three.png)
 
-1. De URL van de organisatieservice vindt u onder **Service-eindpunten**.
+1. De URL van de organisatieservice vindt u onder **[!UICONTROL Service Endpoints]**.
 
    ![](assets/four.png)
 

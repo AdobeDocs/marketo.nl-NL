@@ -1,20 +1,20 @@
 ---
 description: Salesforce Sync Status - Marketo Docs - Productdocumentatie
-title: Status Salesforce-synchronisatie
+title: Status van Salesforce-synchronisatie
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
 
-# Status Salesforce-synchronisatie {#salesforce-sync-status}
+# Status van Salesforce-synchronisatie {#salesforce-sync-status}
 
 Gebruik het statusdashboard synchroniseren om synchronisatiestatussen weer te geven als onderdeel van de synchronisatiestappen en de successtatus.
 
-De synchronisatiestappen weerspiegelen de bewerkingen van push of pull van elk objecttype voor het objectschema en de gegevens zelf. Statistische gegevens betreffen nieuwe records, updates, verwijderingen en mislukte aantallen tijdens het synchroniseren. Gebruikers kunnen filteren op datum, bewerkingstype of objecttype. Het statusdashboard voor synchronisatie toont de status van synchronisatiecycli in de afgelopen vijf dagen.
+De synchronisatiestappen weerspiegelen de bewerkingen van duw- of trekbewerkingen van elk objecttype voor het objectschema en de gegevens zelf. Statistische gegevens betreffen nieuwe records, updates, verwijderingen en mislukte aantallen tijdens het synchroniseren. Gebruikers kunnen filteren op datum, bewerkingstype of objecttype. Het statusdashboard voor synchronisatie toont de status van synchronisatiecycli in de afgelopen vijf dagen.
 
 >[!NOTE]
 >
@@ -22,33 +22,33 @@ De synchronisatiestappen weerspiegelen de bewerkingen van push of pull van elk o
 
 ## Synchronisatiestatus weergeven {#view-sync-status}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Klik onder Integratie op Salesforce en vervolgens op het tabblad Synchronisatiestatus.
+1. Onder [!UICONTROL Integration], klikt u op **Salesforce** en vervolgens de **[!UICONTROL Sync Status]** tab.
 
    ![](assets/salesforce-sync-status-2.png)
 
-Standaard worden stats gesorteerd op basis van de status die het laatst is gestart. U kunt sorteren op Begonnen bij of Beëindigd bij-van meest recent aan oudst-door het soortpictogram te klikken.
+Standaard worden stats gesorteerd op basis van de status die het laatst is gestart. U kunt sorteren op Begonnen bij of Geëindigd bij (van meest recent aan oudst) door het soortpictogram te klikken.
 
 ![](assets/salesforce-sync-status-3.png)
 
 ## Synchronisatiestatus filter {#filter-sync-status}
 
-1. Als u de gegevens wilt filteren, klikt u op het filterpictogram helemaal rechts van de pagina.
+1. Klik op het filterpictogram helemaal rechts van de pagina om de gegevens te filteren.
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Selecteer uw datum- en tijdbereik en klik vervolgens op de vervolgkeuzelijst(en) om te filteren op Type object, Type bewerking en/of Statustype.
+1. Selecteer uw datum- en tijdbereik en klik op de vervolgkeuzelijst of -namen waarop u wilt filteren [!UICONTROL Object Type], [!UICONTROL Operation Type], en/of [!UICONTROL Status Type].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klikken **Toepassen**.
+1. Klik op **[!UICONTROL Apply]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**OPTIONELE STAP**: Als u synchronisatiefouten wilt exporteren, klikt u op **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
+**OPTIONELE STAP**: Als u synchronisatiefouten wilt exporteren, klikt u **[!UICONTROL Export]**. De gegevens worden geëxporteerd als een CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -73,7 +73,7 @@ Standaard worden stats gesorteerd op basis van de status die het laatst is gesta
   </tr>  
   <tr> 
    <td colspan="1">Beëindigd bij</td> 
-   <td colspan="1">De einddatum/tijd van de synchronisatiecyclus (tijdzone van de gebruiker)</td> 
+   <td colspan="1">Einddatum/tijd van synchronisatiecyclus (tijdzone van gebruiker)</td> 
    <td colspan="1"></td> 
   </tr> 
   <tr> 
@@ -205,13 +205,13 @@ Standaard worden stats gesorteerd op basis van de status die het laatst is gesta
    <td colspan="1">Verwijderd, mislukt item of overgeslagen</td>
   </tr>  
   <tr> 
-   <td colspan="1">Updates uitvouwen</td> 
+   <td colspan="1">Updates uitvoeren</td> 
    <td colspan="1">Taak, Persoon (lead), Person (lead) Wachtrij, Contact, Gebeurtenis, Opportunity, Account, Accounttype, Campagne-leden, Aangepaste objecten, Campagnes, Campagne-lidstatus, Gebeurtenissen, Personstatus, Opportunity, Opportunity Contactrol</td> 
    <td colspan="1">Updates of nieuwe records in SFDC gesynchroniseerd met Marketo, Pull Events as Activity</td> 
    <td colspan="1">Nieuw, Bijgewerkt, Mislukt item of Overgeslagen</td>
   </tr>  
   <tr> 
-   <td colspan="1">Nieuw</td> 
+   <td colspan="1">Nieuwe duwen</td> 
    <td colspan="1">Taken, e-mailsjablonen</td> 
    <td colspan="1">Pushtaken (activiteiten)</td> 
    <td colspan="1"></td>
@@ -244,7 +244,7 @@ Standaard worden stats gesorteerd op basis van de status die het laatst is gesta
    <td colspan="1">FKS bijwerken</td> 
    <td colspan="1">Alles</td> 
    <td colspan="1">Externe sleutel van alle objecten bijwerken</td> 
-   <td colspan="1">N.v.t.</td>
+   <td colspan="1">NVT</td>
   </tr>  
  </tbody> 
 </table>

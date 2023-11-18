@@ -4,9 +4,9 @@ description: Picklist-waarden toevoegen/verwijderen - Marketo Docs - Productdocu
 title: Picklist-waarden toevoegen/verwijderen
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Hier volgen een paar zaken over het toevoegen en verwijderen van picklist-waarde
 
 ## Picklist-waarden toevoegen {#adding-picklist-values}
 
-1. Als er in Salesforce een extra waarde wordt toegevoegd aan een keuzelijsttype, ontvangt u een [melding](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) welke vormen dit zal beïnvloeden.
+1. Als er in Salesforce een extra waarde wordt toegevoegd aan een keuzelijsttype, ontvangt u een [melding](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} welke vormen dit zal beïnvloeden.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Ga naar de formuliereditor en [de extra waarde toevoegen](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) aan uw lijst met suggesties.
+1. Ga naar de formuliereditor en [de extra waarde toevoegen](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} aan uw lijst met suggesties.
 
 ## Picklist-waarden verwijderen {#remove-picklist-values}
 
@@ -29,7 +29,7 @@ Wanneer een keuzelijstwaarde wordt verwijderd uit een veld in Salesforce, moet u
 
 >[!NOTE]
 >
->Als een loodveld en een contactveld in Salesforce verschillende waarden hebben, zijn de gemeenschappelijke waarden beschikbaar voor gebruik in Marketo.
+>Als een loodveld en een contactveld in Salesforce verschillende waarden hebben, zijn de gemeenschappelijke waarden beschikbaar voor gebruik in Marketo Engage.
 
 Als een loodveld en een contactveld in Salesforce verschillende waarden hebben:
 
