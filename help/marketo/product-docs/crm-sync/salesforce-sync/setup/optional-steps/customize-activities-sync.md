@@ -4,26 +4,26 @@ description: Activiteitssynchronisatie aanpassen - Marketo-documenten - productd
 title: Activiteiten synchroniseren aanpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
 # Activiteiten synchroniseren aanpassen {#customize-activities-sync}
 
-Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenissen een Salesforce Activity History-overzicht maken. Hier is hoe je ze kunt inschakelen.
+Als u Marketo Sales Insight niet gebruikt, kan het Marketo Engage de Records van de Geschiedenis van de Activiteit Salesforce voor bepaalde gebeurtenissen tot stand brengen. Hier is hoe je ze kunt inschakelen.
 
-1. Ga naar **Beheer**.
+1. Ga naar **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klikken **Salesforce** en klik vervolgens op **Synchronisatieopties bewerken**.
+1. Klikken **[!DNL Salesforce]** en klik vervolgens op **[!UICONTROL Edit Sync Options]**.
 
    ![](assets/two-1.png)
 
-1. Schakel de selectievakjes in naast de activiteiten die u op Marketo wilt uitvoeren en klik op **Opslaan**.
+1. Schakel de selectievakjes in naast de activiteiten die u op Marketo wilt uitvoeren en klik op **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 
@@ -49,11 +49,11 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenis
   </tr> 
   <tr> 
    <td>Toegevoegd aan lijst</td> 
-   <td><p>Stroom: Is toegevoegd aan een statische lijst</p></td> 
+   <td><p>Stroom stap: is toegevoegd aan een statische lijst</p></td> 
   </tr> 
   <tr> 
    <td>E-mail verzonden</td> 
-   <td>Stroom: Is per e-mail verzonden</td> 
+   <td>Stroom: is een e-mail verzonden</td> 
   </tr> 
   <tr> 
    <td>E-mail bezorgd</td> 
@@ -69,11 +69,11 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenis
   </tr> 
   <tr> 
    <td>Verwijderd uit lijst</td> 
-   <td>Stroom: Is verwijderd uit een statische lijst</td> 
+   <td>Stroom stap: is verwijderd uit een statische lijst</td> 
   </tr> 
   <tr> 
    <td>Verwijderen uit stroom</td> 
-   <td>Stroom: Verwijderen uit stroom</td> 
+   <td>Stroom stap: verwijderen uit stroom</td> 
   </tr> 
   <tr> 
    <td>Verkoopemail verzonden</td> 
@@ -88,7 +88,7 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenis
    <td>Klik op een koppeling in een e-mailbericht dat via Marketo Sales Insight is verzonden</td> 
   </tr> 
   <tr> 
-   <td>Verkoop-e-mail ontvangen</td> 
+   <td>Verkoopbericht ontvangen</td> 
    <td>Een e-mail werd ontvangen en door de Verkoper in de Insteekmodule van Vooruitzichten MSI geregistreerd</td> 
   </tr> 
  </tbody> 
@@ -96,8 +96,8 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenis
 
 >[!NOTE]
 >
->&quot;E-mailadres van verkoper ontvangen&quot; doet dit **niet** gemiddeld afgeleverd. De geleverde status wordt niet vastgelegd voor e-mails die via Verkoopcontrole worden verzonden.
+>&quot;E-mailadres van verkoper ontvangen&quot; doet dit _niet_ gemiddeld geleverd. De geleverde status wordt niet vastgelegd voor e-mails die via Verkoopcontrole worden verzonden.
 
 >[!TIP]
 >
->Als je meer Marketo-informatie in Salesforce wilt krijgen, kun je onze [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) product.
+>Als je meer Marketo-informatie in Salesforce wilt krijgen, kun je onze [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} product.

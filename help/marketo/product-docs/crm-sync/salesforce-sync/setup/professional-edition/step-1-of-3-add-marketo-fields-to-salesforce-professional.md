@@ -4,18 +4,18 @@ description: Stap 1 van 3 - voeg Marketo-velden toe aan Salesforce (Professional
 title: Stap 1 van 3 - voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '782'
-ht-degree: 0%
+source-wordcount: '754'
+ht-degree: 1%
 
 ---
 
-# Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
+# Stap 1 van 3: Voeg Marketo-velden toe aan Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
->Uw Salesforce-instantie moet toegang hebben tot de Salesforce API&#39;s om gegevens te synchroniseren tussen Marketo en Salesforce.
+>Uw Salesforce-instantie moet toegang hebben tot de Salesforce API&#39;s om gegevens te synchroniseren tussen Marketo Engage en Salesforce.
 
 Marketo gebruikt een set velden om bepaalde soorten marketinggerelateerde informatie vast te leggen. Volg onderstaande instructies als u deze gegevens in Salesforce wilt bewaren.
 
@@ -29,25 +29,25 @@ Al deze aangepaste velden zijn optioneel en zijn niet vereist voor synchronisati
 
 Voeg drie aangepaste velden toe aan de lead- en contactobjecten in de bovenstaande Salesforce-lijst. Zie de tabel met beschikbare velden aan het einde van deze sectie voor meer informatie.
 
-Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe te voegen. Beginnen met **Score**.
+Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe te voegen. Beginnen met **[!UICONTROL Score]**.
 
-1. Meld u aan bij Salesforce en klik op **Instellen.**
+1. Log in bij Salesforce en klik op **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klik in het menu Build aan de linkerkant op **Aanpassen** en selecteert u **Leads**. Klikken **Velden**.
+1. Klik in het menu Build aan de linkerkant op **[!UICONTROL Customize]** en selecteert u **[!UICONTROL Leads]**. Klik op **[!UICONTROL Fields]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klikken **Nieuw** in de sectie Aangepaste velden en relaties onder aan de pagina.
+1. Klikken **[!UICONTROL New]** in de sectie Aangepaste velden en relaties onder aan de pagina.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Kies het juiste veldtype (voor Score — **getal**; Overnameprogramma — **text**; Aankoopdatum — **Datum/tijd**).
+1. Kies het juiste veldtype (voor Score - **[!UICONTROL number]**; overnameprogramma - **[!UICONTROL text]**; overnamedatum - **Datum/tijd**).
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -106,19 +106,19 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 >
 >Tekst- en nummervelden vereisen een lengte, maar datum-/tijdvelden niet. Een beschrijving is optioneel.
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Geef de toegangsinstellingen op en klik op **Volgende**:
+1. Geef de toegangsinstellingen op en klik op **[!UICONTROL Next]**:
 
-   * Alle rollen instellen op **Zichtbaar** en **Alleen-lezen**
+   * Alle rollen instellen op **[!UICONTROL Visible]** en **[!UICONTROL Read-Only]**
 
-   * Wis de **Alleen-lezen** selectievakje voor het profiel van uw synchronisatiegebruiker:
+   * Wis de **[!UICONTROL Read-Only]** selectievakje voor het profiel van uw synchronisatiegebruiker:
 
-      * Als u een gebruiker met het profiel van een _Systeembeheerder_ als synchronisatiegebruiker, ontruim **Alleen-lezen** selectievakje voor het profiel Systeembeheerder (zoals hieronder wordt weergegeven)
+      * Als u een gebruiker met het profiel van een _Systeembeheerder_ als synchronisatiegebruiker, ontruim **[!UICONTROL Read-Only]** selectievakje voor het profiel Systeembeheerder (zoals hieronder weergegeven)
 
-      * Als u een _aangepast profiel_ voor de synchronisatiegebruiker, ontruim **Alleen-lezen** selectievakje voor dat aangepaste profiel
+      * Als u een _aangepast profiel_ voor de synchronisatiegebruiker, ontruim **[!UICONTROL Read-Only]** selectievakje voor dat aangepaste profiel
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -126,11 +126,11 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klikken **Opslaan en nieuw** om terug te gaan en elk van de andere twee douanegebieden tot stand te brengen. Klikken **Opslaan** samen met jullie zijn alle drie klaar.
+1. Klikken **[!UICONTROL Save & New]** om terug te gaan en elk van de andere twee douanegebieden tot stand te brengen. Klikken **[!UICONTROL Save]** samen met jullie zijn alle drie klaar.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klik in het menu Build aan de linkerkant op **Aanpassen** en selecteert u **Contactpersonen**. Klikken **Velden**.
+1. Klik in het menu Build aan de linkerkant op **[!UICONTROL Customize]** en selecteert u **[!UICONTROL Contacts]**. Klik op **[!UICONTROL Fields]**.
 1. Voer stap 3 door 10 voor de gebieden van de Score, van de Verwervingsdatum, en van het Programma van de Verwerving op het contactvoorwerp uit, enkel zoals u voor het loodvoorwerp deed.
 1. U kunt de bovenstaande procedure ook gebruiken voor extra aangepaste velden uit deze tabel.
 
@@ -231,15 +231,15 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan een contactveld op het contactobject, zodat gegevens worden overgedragen wanneer een conversie plaatsvindt.
 
-1. Klik in de rechterbovenhoek op Instellen.
+1. Klik in de rechterbovenhoek op **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Typ &quot;velden&quot; in de zoekopdracht voor Nav zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klik op Velden onder Leads.
+1. Typ &quot;[!UICONTROL fields]&quot; in de zoekopdracht van Nav zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klik **[!UICONTROL Fields]** onder Leads.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Ga naar de sectie Aangepaste velden en relaties voor lead en klik op Velden voor lead toewijzen.
+1. Ga naar de sectie Aangepaste velden en relaties voor lead en klik op **[!UICONTROL Map Lead Fields]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -253,10 +253,10 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
 
 1. Herhaal bovenstaande stappen voor alle andere velden die u hebt gemaakt.
 
-1. Klik op Opslaan als u klaar bent.
+1. Klikken **[!UICONTROL Save]** als je klaar bent.
 
 Gemakkelijk genoeg, toch?
 
 >[!MORELIKETHIS]
 >
->[Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+>[Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
