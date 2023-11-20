@@ -4,7 +4,7 @@ description: Hoe te om de Statussen van het Programma en de statussen van de Cam
 title: Hoe te om de Statussen van het Programma en de Status van de Campagne Salesforce voorafgaand aan Synchronisatie aan te passen
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Vanuit dit foutbericht kunt u kiezen voor:
 1. U kunt de fout annuleren, de statusfouten herstellen en proberen te synchroniseren zodra de fouten zijn hersteld. Voer een van de volgende handelingen uit om de statusfouten te corrigeren:
 
    * Meld u aan bij Salesforce en verwijder of wijzig de naam van de incompatibele campagnelidstaten om de status van het Marketo-programma toe te wijzen die wordt gebruikt voor het kanaaltype dat is gekoppeld aan uw Marketo-programma.
-   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne Salesforce in kaart te brengen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Zie voor meer informatie [Een programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne Salesforce in kaart te brengen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Zie voor meer informatie [Een programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.

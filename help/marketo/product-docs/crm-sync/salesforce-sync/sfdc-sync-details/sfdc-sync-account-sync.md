@@ -4,16 +4,16 @@ description: SFDC Sync - Account Sync - Marketo Docs - Productdocumentatie
 title: SFDC-synchronisatie - Accountsynchronisatie
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
-# SFDC-synchronisatie: Account synchroniseren {#sfdc-sync-account-sync}
+# SFDC-synchronisatie: accountsynchronisatie {#sfdc-sync-account-sync}
 
-Marketo synchroniseert ook je accountgegevens met Salesforce. Hier zijn een paar specifieke dingen die je zou moeten weten!
+Marketo Engage synchroniseert ook uw accountgegevens met Salesforce. Hier zijn een paar specifieke dingen die je zou moeten weten!
 
 ## Op welke manier wordt de informatie gesynchroniseerd? {#which-way-does-the-information-sync}
 
@@ -29,7 +29,7 @@ Nee. Een account kan vele contactpersonen hebben, een contactpersoon kan slechts
 
 ## Kan ik accounts maken van Marketo? {#can-i-create-accounts-from-marketo}
 
-Meestal nee. Als u echter de opdracht [Persoon omzetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) De stroomstap op een persoon, zal het tot een nieuw Contact, een nieuw Rekening, en een nieuwe Kans leiden.
+Meestal, nee. Als u echter de opdracht [Persoon omzetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} De stroomstap op een persoon, zal het tot een nieuw Contact, een nieuw Rekening, en een nieuwe Kans leiden.
 
 >[!CAUTION]
 >

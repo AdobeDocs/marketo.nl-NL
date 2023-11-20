@@ -4,10 +4,10 @@ description: Een Salesforce-veld verbergen in de Marketo Sync - Marketo Docs - P
 title: Een Salesforce-veld verbergen voor Marketo-synchronisatie
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '157'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatieprestaties optimaliseren door alleen velden op te nemen die u nodig hebt. Zo kun je een veld verbergen voor Marketo.
+Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatieprestaties optimaliseren door alleen velden op te nemen die u nodig hebt. Zo kunt u een veld verbergen voor Marketo Engage.
 
-1. Klik op het menu Naam en selecteer **Instellen**.
+1. Klik op het menu Naam en selecteer **[!UICONTROL Setup]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Enter **profielen** in de zoekbalk en klik op **Profielen** krachtens **Gebruikers beheren**.
+1. Voer &quot;profielen&quot; in op de zoekbalk en klik op **[!UICONTROL Profiles]** krachtens **[!UICONTROL Manage Users]**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatiepr
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Onder de **Beveiliging op veldniveau** sectie, klikt u op **Weergave** naast het object dat het doelveld bevat.
+1. Onder de **[!UICONTROL Field-Level Security]** sectie, klikken **[!UICONTROL View]** naast het object dat het doelveld bevat.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Klikken **Bewerken**.
+1. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Schakel het selectievakje **Zichtbaar** Schakel het selectievakje naast het veld dat u wilt verbergen in. Klikken **Opslaan**.
+1. Schakel het selectievakje **[!UICONTROL Visible]** selectievakje naast het veld dat u wilt verbergen. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatiepr
 
    >[!MORELIKETHIS]
    >
-   >[Een veld verbergen en verbergen opheffen](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
+   >[Een veld verbergen en verbergen opheffen](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

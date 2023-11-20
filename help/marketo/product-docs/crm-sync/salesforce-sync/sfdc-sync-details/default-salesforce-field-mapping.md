@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719314
-description: Standaard Salesforce-veldtoewijzing - Marketo-documenten - productdocumentatie
+description: Standaardtoewijzing van Salesforce-velden - Marketo-documenten - Productdocumentatie
 title: Standaardtoewijzing Salesforce-veld
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '363'
 ht-degree: 33%
 
 ---
 
 # Standaardtoewijzing Salesforce-veld {#default-salesforce-field-mapping}
 
-Als u uw Marketo-account voor het eerst synchroniseert met Salesforce, maakt Marketo automatisch de koppelingen tussen uw ingebouwde Salesforce- en Marketo-velden. Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
+Als u uw Marketo Engage-account eerst synchroniseert met Salesforce, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde Salesforce- en Marketo-velden. Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
 
 ## Loodvelden {#lead-fields}
 
@@ -101,6 +101,6 @@ Deze velden worden gemaakt in Marketo, maar kunnen niet worden aangepast door kl
 | Veld | Beschrijving |
 |---|---|
 | SFDC-id | Salesforce-id van 18 tekens |
-| SFDC-type | Lood of contactpersoon. Als de lead leeg is, bestaat deze alleen als een persoon in Marketo |
+| SFDC-type | Lood of contactpersoon. Indien leeg, bestaat de lead alleen als een persoon in Marketo |
 | Aanmaakdatum SFDC | Datum gemaakt in SFDC (kan anders zijn dan Gemaakt in Marketo) |
 | SFDC is verwijderd | Persoon was in SFDC maar werd verwijderd en woont nu alleen in Marketo |

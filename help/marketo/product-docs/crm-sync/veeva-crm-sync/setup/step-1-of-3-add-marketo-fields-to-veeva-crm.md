@@ -3,22 +3,22 @@ description: Stap 1 van 3 - voeg Marketo-velden toe aan Veeva CRM - Marketo Docs
 title: Stap 1 van 3 - Voeg Marketo-velden toe aan Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 0%
+source-wordcount: '511'
+ht-degree: 1%
 
 ---
 
-# Stap 1 van 3: Marketo-velden toevoegen aan Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Stap 1 van 3: Voeg Marketo-velden toe aan Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
 >Uw Veeva CRM-instantie moet toegang hebben tot de Salesforce API&#39;s om gegevens te synchroniseren tussen Marketo Engage en Veeva CRM.
 
-Marketo Engage gebruikt een reeks velden om bepaalde soorten marketinggerelateerde informatie vast te leggen. Volg onderstaande instructies als u deze gegevens in Veeva CRM wilt gebruiken.
+Marketo Engage gebruikt een set velden om bepaalde soorten marketinggerelateerde informatie vast te leggen. Volg onderstaande instructies als u deze gegevens in Veeva CRM wilt gebruiken.
 
-`1.` Maak een aangepast veld in Veeva CRM op de contactobjecten: Score
+`1.` Een aangepast veld maken in Veeva CRM op de contactobjecten: Score
 
 `2.` U kunt desgewenst aanvullende velden maken (zie de tabel hieronder).
 
@@ -30,35 +30,35 @@ Voeg een aangepast veld toe aan de lead- en contactobjecten in de bovenstaande l
 
 Voer de volgende stappen voor het gebied van de Score uit om het toe te voegen.
 
-1. Meld u aan bij de Veeva CRM en klik op **Instellen**.
+1. Meld u aan bij de Veeva CRM en klik op **[!UICONTROL Setup]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Klik op Objecten en velden en selecteer Objectbeheer.
+1. Klik op **[!UICONTROL Objects and Fields]** en selecteer **[!UICONTROL Object Manager]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
-1. Zoek in de zoekbalk naar Contactpersoon.
+1. Zoek in de zoekbalk naar &quot;Contact&quot;.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Klik op het object Contact.
+1. Klik op de knop **[!UICONTROL Contact]** object.
 
-1. Selecteer Velden en relaties.
+1. Selecteren **[!UICONTROL Fields and Relationships]**.
 
-1. Klikken **Nieuw**.
+1. Klik op **[!UICONTROL New]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
-1. Kies het juiste veldtype (voor Score — getal).
+1. Kies het juiste veldtype (bij Score - nummer).
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Voer het veldlabel, de lengte en de veldnaam voor het veld in, zoals in de onderstaande tabel wordt weergegeven.
+1. Voer de **[!UICONTROL Field Label]**, **[!UICONTROL Length]**, en **[!UICONTROL Field Name]** voor het veld, zoals weergegeven in de onderstaande tabel.
 
 <table>
  <tbody>
@@ -88,11 +88,11 @@ Decimalen 0</td>
 >
 >Tekst- en nummervelden vereisen een lengte, maar datum-/tijdvelden niet. Een beschrijving is optioneel.
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Geef de toegangsinstellingen op en klik op **Volgende**.
+1. Geef de toegangsinstellingen op en klik op **[!UICONTROL Next]**.
 
 1. Stel alle rollen in op Zichtbaar en Alleen-lezen.
 
@@ -105,9 +105,9 @@ Decimalen 0</td>
 
 1. Kies de paginalay-outs die het veld moeten weergeven.
 
-1. Klikken **Opslaan en nieuw** om terug te gaan en elk van de andere twee douanegebieden tot stand te brengen.
+1. Klikken **[!UICONTROL Save & New]** om terug te gaan en elk van de andere twee douanegebieden tot stand te brengen.
 
-1. Klikken **Opslaan** als u klaar bent met alle drie.
+1. Klikken **[!UICONTROL Save]** als je klaar bent met alle drie.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -115,7 +115,7 @@ Decimalen 0</td>
 >
 >Door het veld aan het object Contact toe te voegen, worden deze ook toegevoegd aan het object Person Account.
 
-OPTIONEEL: Gebruik de bovenstaande procedure voor extra aangepaste velden uit de onderstaande tabel.
+OPTIONEEL: gebruik de bovenstaande procedure voor extra aangepaste velden uit de onderstaande tabel.
 
 <table>
  <tbody>

@@ -4,9 +4,9 @@ description: Een bestaand Salesforce-veld toevoegen aan de Marketo Sync - Market
 title: Een bestaand Salesforce-veld toevoegen aan Marketo Sync
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroniseerd met Marketo. Als dat niet het geval is, zijn de velden mogelijk niet zichtbaar voor de Marketo Sync gebruiker. Zo kunt u dit oplossen.
+Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroniseerd met Marketo Engage. Als dat niet het geval is, zijn de velden mogelijk niet zichtbaar voor de Marketo Sync gebruiker. Zo kunt u dit oplossen.
 
-1. Klik op uw naam en selecteer vervolgens **Instellen**.
+1. Klik op uw naam en selecteer vervolgens **[!UICONTROL Setup]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Enter **profiel** in de linkerzoekbalk en klik op **Profielen** krachtens **Gebruikers beheren**.
+1. Voer &quot;profiel&quot; in op de linkerzoekbalk en klik op **[!UICONTROL Profiles]** krachtens **[!UICONTROL Manage Users]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -31,19 +31,19 @@ Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroni
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Onder de **Beveiliging op veldniveau** sectie, klikt u op **Weergave** naast het object dat het veld bevat.
+1. Onder de **[!UICONTROL Field-Level Security]** sectie, klikken **[!UICONTROL View]** naast het object dat het veld bevat.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. Klikken **Bewerken**.
+1. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. Controleer de **Zichtbaar** Schakel het selectievakje in voor het veld dat u aan de synchronisatie wilt toevoegen en klik op **Opslaan**.
+1. Controleer de **[!UICONTROL Visible]** selectievakje voor het veld dat u aan de synchronisatie wilt toevoegen en klik op **[!UICONTROL Save]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
-   Zoet! Bij de volgende synchronisatiecyclus zal Marketo het veld zien en de magie starten.
+   Bij de volgende synchronisatiecyclus zal Marketo het veld zien en de magie starten.
 
    >[!NOTE]
    >
