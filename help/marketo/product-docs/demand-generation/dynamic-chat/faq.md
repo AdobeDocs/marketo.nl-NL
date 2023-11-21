@@ -3,9 +3,9 @@ description: Veelgestelde vragen over Dynamics Chat - Marketo Docs - Productdocu
 title: Veelgestelde vragen over Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: aead0cbadac353df1364ccc094dabfcbafcdac05
+source-git-commit: a7404dc5c3f2014f53d49fd033f7e4002b9b2203
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '781'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Het JavaScript-fragment voor Dynamics Chat kan op elke website en op elke bestem
 
 **Steunt de Dynamic Chat om het even welke talen behalve Engels?**
 
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in [De taal wijzigen](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Spaans, Duits, Japans, Nederlands, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in [De taal wijzigen](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
