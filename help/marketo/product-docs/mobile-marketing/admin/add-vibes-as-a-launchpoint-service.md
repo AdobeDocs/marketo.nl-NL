@@ -4,9 +4,9 @@ description: Vibes toevoegen als een LaunchPoint-service - Marketo Docs - Produc
 title: Vibes toevoegen als een LaunchPoint-service
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,26 @@ U kunt SMS-berichten verzenden naar de mensen in uw lijsten met Vibes en de SMS-
 >
 >U hebt zowel Marketo Admin-machtigingen als een actieve Vibes-account nodig om deze installatie te voltooien. De referenties die in Stap 4 hieronder worden aangevraagd, zijn de referenties van uw Vibes-account.
 
-1. Klik in Mijn Marketo op **Beheer** en vervolgens **LaunchPoint**.
+1. Ga in Mijn Marketo naar **Beheerder** gebied.
 
-   ![](assets/image2016-7-27-9-3a31-3a17.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-1.png)
+
+1. Klikken **LaunchPoint**.
+
+   ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
 1. Klikken **Nieuw** en **Nieuwe service**.
 
-   ![](assets/image2016-7-27-9-3a34-3a25.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
 1. Geef een weergavenaam op en selecteer in de vervolgkeuzelijst de optie **Vibes**.
 
-   ![](assets/new-service-vibes.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
 1. Voer onder Instellingen uw gebruikersnaam, wachtwoord en bedrijfssleutel voor de API in. Klikken **Maken**.
 
-   ![](assets/new-service-vibes-settings-2.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
    De nieuwe SMS-service wordt nu weergegeven in de lijst Geïnstalleerde services.
 
-   ![](assets/image2016-7-27-9-3a45-3a1.png)
+   ![](assets/add-vibes-as-a-launchpoint-service-6.png)
