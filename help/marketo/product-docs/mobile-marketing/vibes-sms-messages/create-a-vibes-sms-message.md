@@ -4,9 +4,9 @@ description: Een SMS-bericht over Vibes maken - Marketo Docs - Productdocumentat
 title: Een SMS-bericht voor Vibes maken
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangekocht. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
+>Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte voorziening moet het product via Adobe worden aangekocht. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >
@@ -61,13 +61,13 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    >[!NOTE]
    >
-   >Als u een token toevoegt, kan het bericht de tekenlimiet overschrijden. Het bericht wordt vervolgens gesplitst, wat extra kosten tot gevolg heeft.
+   >Als u een token toevoegt, kan het bericht de tekenlimiet overschrijden. Het bericht wordt vervolgens gesplitst, wat extra kosten met zich meebrengt.
 
 1. Klikken **Koppeling** in het menu Invoegen om een koppeling naar uw bericht toe te voegen.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Selecteer een koppelingstype. Marketo Landing Page is de standaard. Als u hiermee werkt, moet u de openingspagina selecteren in de vervolgkeuzelijst en op **Invoegen**.
+1. Selecteer een koppelingstype. Marketo Landing Page is de standaardinstelling. Als u hiermee werkt, moet u de openingspagina selecteren in de vervolgkeuzelijst en op **Invoegen**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -75,7 +75,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
    >
    >De twee koppelingen voor reeksspatiëring zijn standaard geselecteerd.
 
-1. Als u in plaats daarvan een externe URL wilt gebruiken, klikt u op de knop **Externe URL** en voert u de URL in het veld URL in. Klikken **Invoegen**.
+1. Als u een externe URL wilt gebruiken, klikt u op de knop **Externe URL** en voert u de URL in het veld URL in. Klikken **Invoegen**.
 
    ![](assets/insert-link-url-hands.jpg)
 

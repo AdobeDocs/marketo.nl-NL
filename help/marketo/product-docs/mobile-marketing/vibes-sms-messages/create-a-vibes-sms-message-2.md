@@ -4,9 +4,9 @@ title: Een SMS-bericht voor Vibes maken
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    >[!NOTE]
    >
-   >De Amerikaanse en Canadese limieten zijn verschillend: respectievelijk 160 en 130 tekens. Als u deze tekenlimieten overschrijdt, kan het bericht worden gesplitst. Terwijl wij tonen wanneer u de Canadese grens overschrijdt, wordt de redacteur geoptimaliseerd voor V.S. en verdeelt het bericht dat op de grens van de V.S. wordt gebaseerd.
+   >De tekenlimiet voor een SMS-bericht is 160 tekens volgens de standaard ASCII-tekenset. Als u meer dan 160 tekens gebruikt, wordt het bericht gesplitst op basis van het totale aantal tekens.
 
 1. Klikken **Token** in het menu Invoegen om een token aan uw bericht toe te voegen.
 
@@ -61,7 +61,13 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    >[!NOTE]
    >
-   >Als u een token toevoegt, kan het bericht de tekenlimiet overschrijden. Het bericht wordt vervolgens gesplitst, wat extra kosten met zich meebrengt.
+   >Als u een token toevoegt, kan het bericht de tekenlimiet overschrijden. Het bericht zal dan, resulterend in extra berichten verdelen.
+
+   >[!IMPORTANT]
+   >
+   >SMS-compatibiliteit: alle uitgaande SMS-berichten moeten de merknaam of programmabeschrijving bevatten. HELP en STOP instructies zouden minstens eens per maand per abonnee voor terugkomende berichtprogramma&#39;s moeten worden verstrekt.
+
+   ????? Als u de URL-stener van Marketo gebruikt, worden X-tekens in uw bericht gebruikt????????
 
 1. Klikken **Koppeling** in het menu Invoegen om een koppeling naar uw bericht toe te voegen.
 
@@ -73,11 +79,16 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    >[!NOTE]
    >
-   >De twee koppelingen voor reeksspatiëring zijn standaard geselecteerd.
+   >* De twee koppelingen voor reeksspatiëring zijn standaard geselecteerd.
+   >* Als u de URL-kiezer van Marketo gebruikt, worden in uw bericht X-tekens gebruikt.???????????????????????????
 
 1. Als u een externe URL wilt gebruiken, klikt u op de knop **Externe URL** en voert u de URL in het veld URL in. Klikken **Invoegen**.
 
    ![](assets/insert-link-url-hands.jpg)
+
+   >[!CAUTION]
+   >
+   >Het wordt aanbevolen _niet_ gebruik URL-kortere weg (bijvoorbeeld, Bitly), aangezien de dragers uw bericht als spam kunnen merken.
 
 1. De koppeling wordt weergegeven in het bericht.
 
@@ -94,3 +105,5 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
    >Het aantal tekens weerspiegelt alleen de tekens in het laagste bericht.
 
 Als u meer dan de grens van de V.S. opneemt, breekt de redacteur uw bericht in secties. Er geldt een absolute limiet van 900 tekens. Na het bereiken van die grens, zal het bericht automatisch worden beknot wanneer het naar zijn publiek wordt verzonden.
+
+LIMIET?????????

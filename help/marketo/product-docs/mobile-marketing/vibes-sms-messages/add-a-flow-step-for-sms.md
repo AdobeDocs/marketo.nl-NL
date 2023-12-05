@@ -4,7 +4,7 @@ description: Een stap toevoegen voor SMS - Marketo Docs - Productdocumentatie
 title: Voeg een Stap van de Stroom voor SMS toe
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 Marketo heeft drie stroomstappen die je kunt gebruiken in je SMS Smart-campagnes:
 
 * **SMS-bericht verzenden** - Deze flowactie verzendt berichten naar mensen van de Marketo-smartlist die zijn geabonneerd op een door de gebruiker geselecteerde Vibes-abonnementenlijst. Het abonnementsproces wordt niet gestart.
-* **Abonneren op lijst met beeldschermen** - Deze flowactie start het SMS-abonnementsproces via een door de gebruiker geselecteerde Vibes Acquisition Campaign. Vibes stuurt vervolgens een bevestigingsbericht; de ontvanger moet hierop reageren om het abonnementsproces te voltooien.
+* **Abonneren op lijst met beeldschermen** - Deze flowactie start het SMS-abonnementsproces via een door de gebruiker geselecteerde Vibes Acquisition Campaign. Vibes verzendt dan een bevestigingsbericht; de ontvanger moet het antwoorden om het abonnementsproces te voltooien.
 * **Abonnement op Vibes List opzeggen** - Met deze flowactie wordt elke persoon losgekoppeld van een door de gebruiker geselecteerde abonnementenlijst met Vibes.
 
 >[!NOTE]
@@ -32,7 +32,7 @@ Hier zijn de grondbeginselen voor het gebruiken van SMS.
 
 1. Klik in Mijn Marketo op **Marketingactiviteiten**.
 
-   ![](assets/image2016-7-28-11-3a41-3a17.png)
+   ![](assets/add-a-flow-step-for-sms-1.png)
 
 1. Zoek de slimme campagne waaraan u de SMS-flow wilt toevoegen. Klik op de knop **Stroom** tab.
 

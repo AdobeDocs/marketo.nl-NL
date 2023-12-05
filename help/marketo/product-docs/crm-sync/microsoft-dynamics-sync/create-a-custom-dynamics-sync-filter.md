@@ -4,16 +4,16 @@ description: Een aangepast synchronisatiefilter voor dynamiek maken - Marketo Do
 title: Een filter voor aangepaste dynamicasynchronisatie maken
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
 
 # Een filter voor aangepaste dynamicasynchronisatie maken {#create-a-custom-dynamics-sync-filter}
 
-Wilt u niet alles in uw Dynamics CRM synchroniseren naar Marketo? Maak je geen zorgen! Met Marketo kunt u een synchronisatiefilter instellen en slechts een deel van uw records synchroniseren.
+Wilt u niet alles in uw Dynamica CRM in Marketo Engage synchroniseren? Maak je geen zorgen! Met Marketo kunt u een synchronisatiefilter instellen en slechts een deel van uw records synchroniseren.
 
 ## Overzicht {#overview}
 
@@ -26,7 +26,7 @@ U moet deze veranderingen in Dynamica CRM, niet uw gegevensbestand of Marketo aa
 
 >[!CAUTION]
 >
->Als u het veld niet toewijst en dit leeg laat/NULL, wordt het veld gesynchroniseerd, maar niet bijgewerkt.
+>Als u het veld niet toewijst en dit leeg laat/NULL, wordt het veld gesynchroniseerd, maar niet bijgewerkt. Records met een veldwaarde van blank/NULL in Dynamics CRM zullen deze veldwaarde in Marketo als &quot;false&quot; weergeven.
 
 Marketo zoekt naar dit veld tijdens de automatische achtergrondsynchronisatie en bepaalt op basis van deze logica welke records moeten worden gesynchroniseerd:
 
