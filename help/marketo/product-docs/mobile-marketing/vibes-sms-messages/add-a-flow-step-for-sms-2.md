@@ -4,20 +4,34 @@ title: Voeg een Stap van de Stroom voor SMS toe
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # Voeg een Stap van de Stroom voor SMS toe {#add-a-flow-step-for-sms}
 
-Marketo Engage heeft drie stroomstappen u in uw Slimme Campagnes van SMS kunt gebruiken:
+Marketo Engage heeft drie Stappen van de Stroom u in uw Slimme Campagnes van SMS kunt gebruiken:
 
-* **SMS-bericht verzenden** - Deze flowactie verzendt berichten naar personen van de Smart List van Marketo die zijn geabonneerd op een door de gebruiker gekozen abonnementenlijst van Vibes. Het abonnementsproces wordt niet gestart.
-* **Abonneren op lijst met beeldschermen** - Deze flowactie start het SMS-abonnementsproces via een door de gebruiker geselecteerde Vibes Acquisition Campaign. Vibes stuurt vervolgens een bevestigingsbericht; de ontvanger moet &quot;Y&quot; antwoorden om de opt-in binnen 24 uur te bevestigen. Nadat de gebruiker zich heeft aangemeld, worden deze lid van de abonnementenlijst met Vibes.
-* **Abonnement op Vibes List opzeggen** - Met deze flowactie wordt elke persoon losgekoppeld van een gebruikerslijst met Vibes-abonnementen. Wanneer een gebruiker &quot;stop&quot;aan uw code schrijft, wordt hun persoonverslag bijgewerkt om erop te wijzen zij niet meer een lid van de Lijst van het Abonnement van Vibes zijn.
+<table>
+<tbody>
+  <tr>
+    <td style="width:25%">SMS-bericht verzenden</td>
+    <td>Deze flowactie verzendt berichten naar mensen van de Smart List van Marketo die zijn geabonneerd op een door de gebruiker gekozen abonnementenlijst van Vibes. Het abonnementsproces wordt niet gestart. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Meer informatie</a>.</td>
+  </tr>
+
+<tr>
+    <td style="width:25%">Abonneren op lijst met beeldschermen</td>
+    <td>Met deze flowactie wordt het SMS-abonnementsproces gestart via een door de gebruiker geselecteerde acquisitiecampagne van Vibes. Vibes stuurt vervolgens een bevestigingsbericht en de ontvanger antwoordt binnen 24 uur met "Y" om de opt-in te bevestigen. Nadat de gebruiker zich heeft aangemeld, worden deze lid van de abonnementenlijst met Vibes.</td>
+  </tr>
+  <tr>
+    <td style="width:25%">Abonnement op Vibes List opzeggen</td>
+    <td>Met deze flowactie wordt elke persoon losgekoppeld van een gebruikerslijst met Vibes-abonnementen. Wanneer een gebruiker "STOP"aan uw code schrijft, wordt hun persoonverslag bijgewerkt om erop te wijzen zij niet meer een lid van de Lijst van het Abonnement van Vibes zijn.</td>
+  </tr>
+  </tbody>
+</table>
 
 >[!NOTE]
 >

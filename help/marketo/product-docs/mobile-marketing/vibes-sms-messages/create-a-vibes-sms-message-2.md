@@ -4,9 +4,9 @@ title: Een SMS-bericht voor Vibes maken
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -19,72 +19,65 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 >
 >Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte voorziening moet het product via Adobe worden aangekocht. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-1.png)
 
-1. Klik met de rechtermuisknop op een programma en selecteer **Nieuw lokaal element**.
+1. Klik met de rechtermuisknop op het gewenste programma en selecteer **[!UICONTROL New Local Asset]**.
 
-   ![](assets/mobile-right-click-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-2.png)
 
-1. Klikken **Nieuw lokaal element**.
+1. Selecteren **SMS-bericht**.
 
-   ![](assets/new-local-asset-hand.jpg)
-
-   >[!TIP]
-   >
-   >U kunt ook op de knop **Nieuw** vervolgkeuzelijst.
-
-1. Klikken **SMS-bericht**.
-
-   ![](assets/new-local-asset-selection-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-3.png)
 
 1. Voer een naam en een optionele beschrijving in voor het nieuwe SMS-bericht en klik op **Maken**.
 
-   ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-4.png)
 
-1. Klikken **Concept bewerken**.
+1. Klik in de editor in de blauwe ballon en voer tekst in.
 
-   ![](assets/edit-draft-hand.jpg)
-
-1. Klik in de berichteneditor in de blauwe ballon en voer tekst in.
-
-   ![](assets/message-text-pencil.jpg)
+   ![](assets/create-a-vibes-sms-message-5.png)
 
    >[!NOTE]
    >
    >De tekenlimiet voor een SMS-bericht is 160 tekens volgens de standaard ASCII-tekenset. Als u meer dan 160 tekens gebruikt, wordt het bericht gesplitst op basis van het totale aantal tekens.
 
-1. Klikken **Token** in het menu Invoegen om een token aan uw bericht toe te voegen.
+1. Om een teken in uw bericht toe te voegen, schrijf een snelle groet en klik **Token**.
 
-   ![](assets/add-token-real-hand.jpg)
+   ![](assets/create-a-vibes-sms-message-6.png)
 
    >[!NOTE]
    >
-   >Als u een token toevoegt, kan het bericht de tekenlimiet overschrijden. Het bericht zal dan, resulterend in extra berichten verdelen.
+   >Als u een token toevoegt, kan het bericht de tekenlimiet overschrijden. Het bericht zou dan worden gesplitst, waardoor een extra bericht ontstaat.
 
    >[!IMPORTANT]
    >
    >SMS-compatibiliteit: alle uitgaande SMS-berichten moeten de merknaam of programmabeschrijving bevatten. HELP en STOP instructies zouden minstens eens per maand per abonnee voor terugkomende berichtprogramma&#39;s moeten worden verstrekt.
 
-   ????? Als u de URL-stener van Marketo gebruikt, worden X-tekens in uw bericht gebruikt????????
+1. Selecteer het gewenste **Token** Voer een optionele **Standaardwaarde** en klik op **Maken**.
 
-1. Klikken **Koppeling** in het menu Invoegen om een koppeling naar uw bericht toe te voegen.
+   ![](assets/create-a-vibes-sms-message-7.png)
 
-   ![](assets/full-message-link-hand.jpg)
+1. Als u een koppeling wilt toevoegen, selecteert u waar in het bericht dat u de koppeling wilt weergeven en klikt u op **Koppeling**.
 
-1. Selecteer een koppelingstype. Marketo Landing Page is de standaardinstelling. Als u hiermee werkt, moet u de openingspagina selecteren in de vervolgkeuzelijst en op **Invoegen**.
+   ![](assets/create-a-vibes-sms-message-8.png)
 
-   ![](assets/insert-link-real-hands.jpg)
+1. Selecteer een koppelingstype. Marketo Landing Page is de standaardinstelling. Als u hiermee werkt, klikt u op de vervolgkeuzelijst Openingspagina en selecteert u de gewenste pagina. Klikken **Invoegen** wanneer gereed.
+
+   ![](assets/create-a-vibes-sms-message-9.png)
 
    >[!NOTE]
    >
-   >* De twee koppelingen voor reeksspatiëring zijn standaard geselecteerd.
-   >* Als u de URL-kiezer van Marketo gebruikt, worden in uw bericht X-tekens gebruikt.???????????????????????????
+   >De twee koppelingen voor reeksspatiëring zijn standaard geselecteerd. Als u alleen Include mkt_tok uitschakelt, kan de koppeling nog wel worden bijgehouden, maar na omleiding bevat de doel-URL niet de parameter van de queryreeks mkt_tok. Deze parameter wordt gebruikt door Marketo Landing Pages en Munchkin om ervoor te zorgen dat de activiteiten van personen op de juiste wijze worden gevolgd (zoals wanneer een persoon uitgaat).
 
-1. Als u een externe URL wilt gebruiken, klikt u op de knop **Externe URL** en voert u de URL in het veld URL in. Klikken **Invoegen**.
+1. Als u een externe URL wilt gebruiken, selecteert u **Externe URL**, voert u de URL in of plakt u deze en klikt u **Invoegen**.
 
-   ![](assets/insert-link-url-hands.jpg)
+   ![](assets/create-a-vibes-sms-message-10.png)
+
+   >[!NOTE]
+   >
+   >Als &quot;Koppeling bijhouden&quot; ingeschakeld blijft, wijzigt Marketo automatisch de URL voor traceringsdoeleinden. Als u het bijhouden van wijzigingen uitschakelt, wordt de URL ongewijzigd in het bericht weergegeven (bijvoorbeeld `www.adobe.com`).
 
    >[!CAUTION]
    >
@@ -92,18 +85,10 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
 1. De koppeling wordt weergegeven in het bericht.
 
-   ![](assets/link-added.jpg)
+   ![](assets/create-a-vibes-sms-message-11.png)
 
    >[!NOTE]
    >
-   >Marketo geeft een voorvertoning weer van de koppelingen naar het trackingdomein van de merken. Als u het selectievakje Markt_tok uitschakelt, wordt de koppeling gewijzigd. Schakel ook het selectievakje Koppeling bijhouden uit en de URL wordt ingekort tot de standaardlengte (bijvoorbeeld www.mygooglepage.com).
+   >Marketo geeft een voorvertoning weer van de koppelingen naar het trackingdomein van de merken. Als u het selectievakje Markt_tok uitschakelt, wordt de koppeling gewijzigd.
 
-   ![](assets/image2016-7-27-16-3a20-3a16.png)
-
-   >[!NOTE]
-   >
-   >Het aantal tekens weerspiegelt alleen de tekens in het laagste bericht.
-
-Als u meer dan de grens van de V.S. opneemt, breekt de redacteur uw bericht in secties. Er geldt een absolute limiet van 900 tekens. Na het bereiken van die grens, zal het bericht automatisch worden beknot wanneer het naar zijn publiek wordt verzonden.
-
-LIMIET?????????
+Als u meer dan 160 tekens invoegt, wordt uw SMS in secties verbroken. Er geldt een algemeen maximum van 900 tekens per bericht. Als u dat overschrijdt, zal het bericht bij levering worden beknot.

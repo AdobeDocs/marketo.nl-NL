@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
 workflow-type: tm+mt
-source-wordcount: '9099'
+source-wordcount: '9267'
 ht-degree: 0%
 
 ---
@@ -776,7 +776,7 @@ ht-degree: 0%
          + [Een geüploade afbeelding of bestand vervangen](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Geüploade afbeeldingen en bestanden doorzoeken](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Afbeeldingen en bestanden uploaden uit vak](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Landingspagina&#39;s {#landing-pages}
+      + Openingspagina&#39;s {#landing-pages}
          + Landingspagina&#39;s {#understanding-landing-pages}
             + [Een bestemmingspagina goedkeuren, goedkeuren of verwijderen](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Prestatierapport voor bestemmingspagina](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -935,7 +935,7 @@ ht-degree: 0%
             + [Overzicht van tokens](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Dynamische inhoud gebruiken in een bestemmingspagina](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [De URL Builder gebruiken](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
-      + Social {#social}
+      + Sociaal {#social}
          + Sociale handelingen configureren {#configuring-social-actions}
             + [After-Share-vragen configureren](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
             + [Vastleggen van persoon configureren voor een sociale app](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
@@ -974,7 +974,7 @@ ht-degree: 0%
             + [LinkedIn Lead Gen Form Filters and Triggers gebruiken in een slimme campagne](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Promo-codes gebruiken voor afhandeling van voorstellen](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Sociale prestaties weergeven](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + Sweepstake {#sweepstakes}
+         + Krenkte {#sweepstakes}
             + [Overtreklijnen maken](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Overtrekstijlen aanpassen](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [Een zweepslag publiceren](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
@@ -1290,7 +1290,7 @@ ht-degree: 0%
             + [Contacten importeren via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Groepen beheren](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Kolommen Personen](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + Telefoonnummer {#phone}
+      + Telefoon {#phone}
          + [De vraag registreert niet aan Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Resultaten bellen](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Redenen voor oproepen](product-docs/marketo-sales-connect/phone/call-reasons.md)
@@ -1460,7 +1460,7 @@ ht-degree: 0%
                + [Contacten importeren via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [Groepen beheren](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Kolommen Personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
-         + Telefoonnummer {#phone}
+         + Telefoon {#phone}
             + [Resultaten bellen](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [Redenen voor oproepen](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
             + [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
@@ -1632,7 +1632,7 @@ ht-degree: 0%
          + [SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalisatie {#personalization}
       + Segmentatie en fragmenten {#segmentation-and-snippets}
-         + Segmentatie {#segmentation}
+         + Segmentering {#segmentation}
             + [Een segmentatie goedkeuren](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [Een segmentatie maken](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [Segmentregels definiëren](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1940,9 +1940,10 @@ ht-degree: 0%
          + [Webcampagnes sorteren op nieuwste of meest presterende](product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
          + [Het gebruiken van de Redacteur van de Tekst van de Personalisatie Rich](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Webcampagnes weergeven op basis van een specifiek label](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
-+ Aanvullende informatie {#release-notes}
++ Opmerkingen bij de release {#release-notes}
    + [Releaseplanning](release-notes/release-schedule.md)
    + [Huidige versie](release-notes/current.md)
+   + [Huidige tijdelijke releasepagina](release-notes/current-temp.md)
    + Eerdere releases {#previous-releases}
       + 2023 {#2023}
          + [Opmerkingen bij de release: januari &#39;23](release-notes/previous-releases/2023/release-notes-jan-23.md)
@@ -1968,28 +1969,28 @@ ht-degree: 0%
          + [Opmerkingen bij de release: juni &#39;20](release-notes/previous-releases/2020/release-notes-june-20.md)
          + [Opmerkingen bij de release: juli &#39;20](release-notes/previous-releases/2020/release-notes-july-20.md)
          + [Opmerkingen bij de release: oktober 20](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019 {#2019}
+      + 19 {#2019}
          + [Opmerkingen bij de release: augustus 19](release-notes/previous-releases/2019/release-notes-august-19.md)
          + [Opmerkingen bij de release: 19 juni](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [Opmerkingen bij de release: lente 19](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [Opmerkingen bij de release: Winter &#39;19](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018 {#2018}
+      + 18 {#2018}
          + [Opmerkingen bij de release: val &#39;18](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [Opmerkingen bij de release: lente 18](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [Opmerkingen bij de release: Winter &#39;18](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017 {#2017}
+      + 17 {#2017}
          + [Opmerkingen bij de release: Verbeteringen ABM in april 17](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [Opmerkingen bij de release: verbeteringen in ABM in augustus &#39;17](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [Opmerkingen bij de release: val &#39;17](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [Opmerkingen bij de release: lente 17](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [Opmerkingen bij de release: zomer 17](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [Opmerkingen bij de release: Winter &#39;17](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016 {#2016}
+      + 16 {#2016}
          + [Opmerkingen bij de release: val &#39;16](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [Opmerkingen bij de release: lente 16](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [Opmerkingen bij de release: zomer 16](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [Opmerkingen bij de release: Winter &#39;16](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015 {#2015}
+      + 15 {#2015}
          + [Opmerkingen bij de release: april 2015](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [Opmerkingen bij de release: val &#39;15](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [Opmerkingen bij de release: februari 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
@@ -1998,7 +1999,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: juni 2015](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [Opmerkingen bij de release: maart 2015](release-notes/previous-releases/2015/release-notes-march-2015.md)
          + [Opmerkingen bij de release: mei 2015](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014 {#2014}
+      + 14 {#2014}
          + [Opmerkingen bij de release: augustus 2014](release-notes/previous-releases/2014/release-notes-august-2014.md)
          + [Opmerkingen bij de release: december 2014](release-notes/previous-releases/2014/release-notes-december-2014.md)
          + [Opmerkingen bij de release: februari 2014](release-notes/previous-releases/2014/release-notes-february-2014.md)
@@ -2008,7 +2009,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: maart 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [Opmerkingen bij de release: mei 2014](release-notes/previous-releases/2014/release-notes-may-2014.md)
          + [Opmerkingen bij de release: oktober 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013 {#2013}
+      + 13 {#2013}
          + [Opmerkingen bij de release: april 2013](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [Opmerkingen bij de release: augustus 2013](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [Opmerkingen bij de release: december 2013](release-notes/previous-releases/2013/release-notes-december-2013.md)
