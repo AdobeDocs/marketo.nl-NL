@@ -2,10 +2,10 @@
 description: Opmerkingen bij de release - september 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - september 2023
 feature: Release Information
-exl-id: fe00a1cf-c4bd-4513-bd39-ed81ea02c23d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -248,8 +248,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   </tr>
     <tr> 
    <td><strong>Conversale-stroomelementpagina</strong>: De pagina van de Activa van de Studio van het Ontwerp maakt nu een lijst van de Conversationele stromen van de Dynamic Chat. Zie welke Stromen in de activa van het Marketo Engage kunnen worden geïntegreerd en direct aan hun redacteur worden ontkoppeld.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
   <tr> 
    <td> </td> 

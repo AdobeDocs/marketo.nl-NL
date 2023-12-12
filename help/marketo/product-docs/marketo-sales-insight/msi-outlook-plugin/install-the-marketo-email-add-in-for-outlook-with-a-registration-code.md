@@ -4,9 +4,9 @@ description: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een 
 title: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
 1. Identificeer uw [Microsoft Outlook-versie](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
-1. Klik op de koppeling om het installatieprogramma te downloaden dat geschikt is voor uw versie van Microsoft Outlook.
+1. Klik op de koppeling om het juiste installatieprogramma voor uw versie van Microsoft Outlook te downloaden.
 
    >[!NOTE]
    >
@@ -41,9 +41,9 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
    | Outlook-versie | 32-bits Outlook | 64-bits Outlook |
    |---|---|---|
-   | Outlook 2000 | Niet ondersteund | N.v.t. |
-   | Outlook 2003 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N.v.t. |
-   | Outlook 2007 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | N.v.t. |
+   | Outlook 2000 | Niet ondersteund | NVT |
+   | Outlook 2003 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | NVT |
+   | Outlook 2007 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | NVT |
    | Outlook 2010 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2013 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2016 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
@@ -52,7 +52,11 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
    | Outlook Web App | Niet ondersteund | Niet ondersteund |
    | Office 365* | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
 
-   *Office 365-versie: Alleen Windows-client (in Windows 10, Enterprise of Pro).
+   *Office 365-versie: alleen Windows-client (Windows 10, Enterprise of Pro).
+
+   >[!IMPORTANT]
+   >
+   >Microsoft heeft een [nieuwe versie van Outlook voor Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Je inschrijvingscode kopiëren {#copy-your-registration-code}
 

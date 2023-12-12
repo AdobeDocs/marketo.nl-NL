@@ -4,9 +4,9 @@ description: De Marketo Add-in voor Outlook installeren met een Enterprise Key -
 title: De Marketo Add-in voor Outlook installeren met een Enterprise Key
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,11 @@ Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams ver
 >
 >De mogelijkheden van Handelingen van het Inzicht van de verkoop, met inbegrip van verzenden Verkoop E-mail, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de e-mailplug-ins van het Inzicht van de Verkoop voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight gebruiken.
 
-1. Klik in Mijn Marketo op **Beheer** en vervolgens **Verkoopoverzicht**.
+>[!IMPORTANT]
+>
+>Microsoft heeft een [nieuwe versie van Outlook voor Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+
+1. Klik in Mijn Marketo op **Beheerder** en vervolgens **Verkoopoverzicht**.
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 

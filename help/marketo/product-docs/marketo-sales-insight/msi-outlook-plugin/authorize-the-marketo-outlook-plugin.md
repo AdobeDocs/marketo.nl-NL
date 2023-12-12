@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377640
-description: Marketo Outlook-insteekmodule autoriseren - Marketo Docs - Productdocumentatie
+description: De Marketo Outlook-insteekmodule autoriseren - Marketo Docs - Productdocumentatie
 title: De Marketo Outlook-insteekmodule autoriseren
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Als u de Marketo MSI-plug-in in Outlook wilt gebruiken, moet u deze autoriseren.
 >[!PREREQUISITES]
 >
 >De insteekmodule moet al zijn geïnstalleerd en u moet door uw Marketo Admin zijn geautoriseerd als gebruiker van een insteekmodule.
+
+>[!IMPORTANT]
+>
+>Microsoft heeft een [nieuwe versie van Outlook voor Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Klik op een van de knoppen voor Marketo-berichten.
 
