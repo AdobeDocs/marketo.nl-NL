@@ -4,9 +4,9 @@ title: Een SMS-bericht verzenden
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8e56b571a34451d6b0436dc041efaf0fd575db36
+source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes
 >
 >* Marketo Engage dedupliceert per telefoonnummer. Dus, als de veelvoudige mensen het zelfde telefoonaantal hebben, slechts zal één persoon het bericht ontvangen als zij een lid van slechts één lijst van het Abonnement van Vibes zijn. De-duping wordt gedaan op het niveau van de Abonnementenlijst van Vibes, niet het het programmaniveau van Marketo.
 >* Marketo zal niet verzenden naar mensen die zijn gevoegd op lijst van gewenste personen of die het in de handel brengen hebben opgeschort.
+>* Een SMS-bericht wordt niet naar iemand verzonden die niet is geabonneerd als deze niet in de lijst Mobiele database van Vibes staat.
 
 ## Een SMS-bericht over een batch verzenden {#send-a-batch-sms}
 
