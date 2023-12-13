@@ -4,7 +4,7 @@ title: Een SMS-bericht verzenden
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: 6731d6fca4b6547f1f709e45f32f766e0e0e30b4
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een SMS-bericht verzenden {#send-a-vibes-sms-message}
 
-Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md)Nu is het tijd om het te sturen. U kunt het verzenden via Campagne of Trigger.
+Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md)Nu is het tijd om het te sturen. U kunt het verzenden via Campagne of Trigger.
 
 >[!NOTE]
 >
