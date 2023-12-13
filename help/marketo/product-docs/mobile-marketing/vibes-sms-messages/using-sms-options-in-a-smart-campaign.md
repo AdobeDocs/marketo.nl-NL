@@ -4,7 +4,7 @@ title: Het gebruiken van de Opties van SMS in een Slimme Campagne
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: c3bad3c7d32259a9989227c1d6fa43bc693dd814
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Het gebruiken van de Opties van SMS in een Slimme Campagne {#using-sms-options-in-a-smart-campaign}
 
-Na u [een SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, zult u Slimme triggers en filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen.
+Na u [een SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message-2.md){target="_blank"}, zult u Slimme triggers en filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen.
 
 >[!NOTE]
 >
