@@ -4,7 +4,7 @@ title: SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: 444a184e48bf7034c6e0ef277c9a4dd1fb33bd86
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Na u [een SMS-bericht voor Vibes maken](/help/marketo/product-docs/mobile-market
 
 1. Klik in Mijn Marketo op **Marketingactiviteiten**.
 
-   ![](assets/use-sms-options-in-smart-list-triggers-and-filters-1.png)
+   ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
 1. Kies een slimme campagne waarin u uw SMS-middelen wilt gebruiken. Sleep over een trigger. In dit voorbeeld gebruiken we **Formulier wordt ingevuld**.
 
