@@ -3,16 +3,16 @@ description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo 
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 # Aangepaste objectsynchronisatie inschakelen/uitschakelen {#enable-disable-custom-object-sync}
 
-Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo Engage. Hieronder wordt beschreven hoe u dit instelt.
+Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van het Marketo Engage. Hier is hoe u het kunt instellen.
 
 ## Aangepaste objectsynchronisatie inschakelen of uitschakelen {#enable-or-disable-the-custom-object-sync}
 
@@ -20,15 +20,15 @@ Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik in Marketo op **Beheer** vervolgens **Veeva-objecten synchroniseren**.
+1. Klik in Marketo op **[!UICONTROL Admin]** vervolgens **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Als dit het eerste aangepaste object is, klikt u op Schema synchroniseren. Als dat niet het geval is, klikt u op **Schema vernieuwen** om ervoor te zorgen dat u over de nieuwste informatie beschikt.
+1. Als dit het eerste aangepaste object is, klikt u op Schema synchroniseren. Als dat niet het geval is, klikt u op **[!UICONTROL Refresh Schema]** om ervoor te zorgen dat u over de nieuwste informatie beschikt.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Als de algemene synchronisatie wordt uitgevoerd, schakelt u deze uit door op **Globale synchronisatie uitschakelen**.
+1. Als de algemene synchronisatie wordt uitgevoerd, schakelt u deze uit door op **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel 
    >
    >Het kan een paar minuten duren om het schema van het aangepaste object van Veeva te synchroniseren.
 
-1. Klikken **Schema vernieuwen**.
+1. Klik op **[!UICONTROL Refresh Schema]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,11 +48,11 @@ Selecteer het object dat u wilt synchroniseren en klik op Synchronisatie inschak
 >
 >Marketo kan een aangepast object alleen synchroniseren als het een directe relatie heeft met het object Contact of Account in Veeva CRM.
 
-1. Klikken **Sync inschakelen** opnieuw.
+1. Klikken **[!UICONTROL Enable Sync]** opnieuw.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Ga terug naar het tabblad Veeva en klik op **Sync inschakelen**.
+1. Ga terug naar het tabblad Veeva en klik op **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Selecteer het object dat u wilt synchroniseren en klik op Synchronisatie inschak
 >
 >U kunt aangepaste objecten niet gebruiken in slimme campagnes met triggers.
 
-1. Sleep in de slimme lijst over het filter &quot;Heeft opportuniteit&quot; en stel dit in op **Waar**.
+1. Sleep in de slimme lijst over het filter &quot;Heeft opportuniteit&quot; en stel dit in op **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 

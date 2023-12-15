@@ -1,41 +1,41 @@
 ---
 unique-page-id: 12980661
 description: Google Customer Match toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
-title: Google Customer Match toevoegen als een LaunchPoint-service
+title: Google Customer Match toevoegen als een opstartpuntservice
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 1%
 
 ---
 
-# Google Customer Match toevoegen als een LaunchPoint-service {#add-google-customer-match-as-a-launchpoint-service}
+# Google Customer Match toevoegen als een opstartpuntservice {#add-google-customer-match-as-a-launchpoint-service}
 
-Met deze integratie kunt u een Marketo-publiek naar Google sturen dat u als doel kunt instellen met Google AdWords en doelpubliek voor YouTube, Search en Gmail.
+Met deze integratie kunt u een publiek van het Marketo Engage naar Google sturen om te worden gericht gebruikend Google AdWords, evenals herdoelpubliek over YouTube, Onderzoek, en Gmail.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Beheer**.
+1. Ga naar **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klikken **LaunchPoint**.
+1. Klik op **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteren **Nieuw** dan **Nieuwe service**.
+1. Selecteren **[!UICONTROL New]** dan **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Voer een **Weergavenaam** en selecteert u **Google Customer Match** van de **Service** vervolgkeuzelijst. Klikken **Maken**.
+1. Voer een **[!UICONTROL Display Name]** en selecteert u **[!UICONTROL Google Customer Match]** van de **[!UICONTROL Service]** vervolgkeuzelijst. Klik op **[!UICONTROL Create]**.
 
    ![](assets/chooseservice.png)
 
-1. Als u een Google AdWords-account wilt verbinden, klikt u op **Autoriseren**.
+1. Als u een Google AdWords-account wilt verbinden, klikt u op **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -47,11 +47,11 @@ Met deze integratie kunt u een Marketo-publiek naar Google sturen dat u als doel
 
    ![](assets/chooseaccount.png)
 
-1. Controleer de aangevraagde machtigingen en klik op **Toestaan**.
+1. Controleer de aangevraagde machtigingen en klik op **[!UICONTROL Allow]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Je Google AdWords-account is nu verbonden met Marketo. Klikken **Maken**.
+1. Je Google AdWords-account is nu verbonden met Marketo. Klik op **[!UICONTROL Create]**.
 
    ![](assets/authorizesuccess.png)
 

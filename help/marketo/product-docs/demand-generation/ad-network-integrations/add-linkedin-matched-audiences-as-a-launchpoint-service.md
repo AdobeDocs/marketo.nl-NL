@@ -4,10 +4,10 @@ description: Voeg aan LinkedIn Gelijke Soorten publiek als Dienst van LaunchPoin
 title: Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 1%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische Marketo-lijst of slimme lijst te gebruiken als een LinkedIn-publiekssegment.
+Sluit uw Marketo Engage-account aan op LinkedIn Matched Publiek om een statische Marketo-lijst of slimme lijst te gebruiken als een LinkedIn-publiekssegment.
 
-1. Ga naar de **Beheer** sectie.
+1. Ga naar de **[!UICONTROL Admin]** sectie.
 
    ![](assets/admin.png)
 
-1. Selecteren **Launchpoint**.
+1. Selecteren **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteren **Nieuw** en **Nieuwe service**.
+1. Selecteren **[!UICONTROL New]** en **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Voer een **Weergavenaam** en kiest u **linkedIn-doelgroepen**. Klikken **Maken**.
+1. Voer een **[!UICONTROL Display Name]** en kiest u **[!UICONTROL LinkedIn Matched Audiences]**. Klik op **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Als u een LinkedIn-account wilt verbinden, klikt u op **Autoriseren**.
+1. Als u een LinkedIn-account wilt verbinden, klikt u op **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount.png)
 
@@ -43,15 +43,15 @@ Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische Market
    >
    >Als u wilt dat Marketo via meerdere LinkedIn Ad Accounts een publiek stuurt, moet de LinkedIn-gebruiker die u in de volgende stappen autoriseert toegang hebben tot *alles* van deze advertentierekeningen in hun campagnebeheer.
 
-1. linkedIn wordt op een nieuw tabblad geopend. Meld u vanaf hier aan bij uw LinkedIn-account.
+1. LinkedIn wordt op een nieuw tabblad geopend. Meld u vanaf hier aan bij uw LinkedIn-account.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Controleer de aangevraagde machtigingen en klik op **Toestaan**.
+1. Controleer de aangevraagde machtigingen en klik op **[!UICONTROL Allow]**.
 
    ![](assets/li-permissions.png)
 
-1. Je LinkedIn-account is nu verbonden met Marketo. Klikken **Maken**.
+1. Je LinkedIn-account is nu verbonden met Marketo. Klik op **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
@@ -61,4 +61,4 @@ Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische Market
 
 >[!MORELIKETHIS]
 >
->[Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}

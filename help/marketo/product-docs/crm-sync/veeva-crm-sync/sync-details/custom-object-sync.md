@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 1%
 
 ---
 
 # Aangepaste objectsynchronisatie {#custom-object-sync}
 
-Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo Engage. Hieronder wordt beschreven hoe u dit instelt.
+Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van het Marketo Engage. Hier is hoe u het kunt instellen.
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel 
 
 ## Aangepast object inschakelen {#enable-custom-object}
 
-1. Klik in Marketo op **Beheer** vervolgens **Veeva-objecten synchroniseren**.
+1. Klik in Marketo op **[!UICONTROL Admin]** vervolgens **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. Als dit uw eerste aangepaste object is, klikt u op **Schema synchroniseren**.
+1. Als dit uw eerste aangepaste object is, klikt u op **[!UICONTROL Sync Schema]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. Klikken **Globale synchronisatie uitschakelen**.
+1. Klik op **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel 
    >
    >Aangepaste objecten moeten unieke namen hebben. Marketo ondersteunt geen twee verschillende aangepaste objecten met dezelfde naam.
 
-1. Klikken **Sync inschakelen**.
+1. Klik op **[!UICONTROL Enable Sync]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Klikken **Sync inschakelen** opnieuw.
+1. Klikken **[!UICONTROL Enable Sync]** opnieuw.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Ga terug naar de **Veeva** tab.
+1. Ga terug naar de **[!UICONTROL Veeva]** tab.
 
    ![](assets/custom-object-sync-7.png)
 
-1. Klikken **Sync inschakelen**.
+1. Klik op **[!UICONTROL Enable Sync]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Als u al uw aangepaste Veeva-objecten wilt weergeven, klikt u op Admin en Veeva Objects Sync.
+1. Als u al uw aangepaste veeva-objecten wilt weergeven, klikt u op **[!UICONTROL Admin]** en **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/custom-object-sync-9.png)
 

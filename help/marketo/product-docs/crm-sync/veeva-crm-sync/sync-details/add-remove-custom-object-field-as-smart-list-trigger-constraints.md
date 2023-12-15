@@ -3,9 +3,9 @@ description: Aangepast objectveld toevoegen/verwijderen als slimme lijst/trigger
 title: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Marketo Engage biedt specifieke controle over de synchronisatie van aangepaste o
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klikken **Beheer** vervolgens **Veeva-objecten synchroniseren**.
+1. Klikken **[!UICONTROL Admin]** vervolgens **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-1.png)
 
@@ -26,7 +26,7 @@ Marketo Engage biedt specifieke controle over de synchronisatie van aangepaste o
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-2.png)
 
-1. Klikken **Zichtbare velden bewerken**.
+1. Klik op **[!UICONTROL Edit Visible Fields]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-3.png)
 
@@ -34,11 +34,11 @@ Marketo Engage biedt specifieke controle over de synchronisatie van aangepaste o
    >
    >Als de knop Zichtbare velden bewerken grijs wordt weergegeven, wordt het object momenteel gebruikt in een slimme lijst of slimme campagne. Verwijder alle koppelingen om door te gaan.
 
-1. Als de globale synchronisatie is ingeschakeld, klikt u op **Globale synchronisatie uitschakelen**.
+1. Als de globale synchronisatie is ingeschakeld, klikt u op **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-4.png)
 
-1. Schakel de vakken naast de gewenste filter-/triggerbeperkingen in en klik op **Opslaan**.
+1. Schakel de selectievakjes naast de gewenste filter-/triggerbeperkingen in en klik op **[!UICONTROL Save]**.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-5.png)
 
@@ -46,15 +46,15 @@ Marketo Engage biedt specifieke controle over de synchronisatie van aangepaste o
    >
    >Alle velden worden standaard geselecteerd als beperkingen op filters.
 
-1. Klik op het tabblad Velden om uw wijzigingen te bevestigen.
+1. Klik op de knop **[!UICONTROL Fields]** om uw wijzigingen te bevestigen.
 
    ![](assets/add-remove-custom-object-field-as-smart-list-trigger-constraints-6.png)
 
 >[!IMPORTANT]
 >
->Vergeet niet uw globale synchronisatie opnieuw in te schakelen!
+>Vergeet niet om uw wereldwijde synchronisatie opnieuw in te schakelen!
 
-Nu hebben uw slimme lijsten en slimme campagnes nog meer macht.
+Uw slimme lijsten en slimme campagnes hebben nu nog meer macht.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Aangepast publiek voor Facebook toevoegen als een opstartpuntservic
 title: Aangepast publiek voor Facebook toevoegen als een opstartpuntservice
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-Met deze integratie kunt u publieksgegevens van statische en slimme lijsten van Marketo naar Facebook verzenden voor gebruik als Aangepast publiek in Facebook Ad Campaigns. Hier is hoe je het instelt.
+Met deze integratie kunt u publieksgegevens van statische en slimme lijsten van het Marketo Engage naar Facebook verzenden die als Aangepast publiek in de Campagnes van Facebook en van de Advertentie worden gebruikt. Hier is hoe u het kunt instellen.
 
-1. Ga naar Marketo **Beheer**.
+1. Ga naar Marketo **[!UICONTROL Admin]**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ga naar **LaunchPoint**, klikt u op **Nieuw** en selecteert u **Nieuwe service**.
+1. Ga naar **[!UICONTROL LaunchPoint]**, klikt u op **[!UICONTROL New]** en selecteert u **[!UICONTROL New Service]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Voer een **Weergavenaam** voor uw service en selecteer de **Aangepast publiek voor facebook** van de **Service** vervolgkeuzelijst.
+1. Voer een **[!UICONTROL Display Name]** voor uw service en selecteer de **[!UICONTROL Facebook Custom Audiences]** van de **[!UICONTROL Service]** vervolgkeuzelijst.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Open een nieuw tabblad in dezelfde browser en ga naar [facebook.com](https://www.facebook.com/). Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
+1. Open een nieuw tabblad in dezelfde browser en ga naar [facebook.com](https://www.facebook.com/){target="_blank"}. Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
 
    >[!CAUTION]
    >
@@ -39,19 +39,19 @@ Met deze integratie kunt u publieksgegevens van statische en slimme lijsten van 
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Ga terug naar Marketo nadat u zich hebt aangemeld bij Facebook. Klikken **Autoriseren**.
+1. Ga terug naar Marketo nadat u zich hebt aangemeld bij Facebook. Klik op **[!UICONTROL Authorize]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >U _moet_ gebruik een Facebook Business Manager-account zodat de integratie met het aangepaste publiek werkt. Raadpleeg voor meer informatie over het instellen van een Business Manager-account [Facebook Help](https://www.facebook.com/business/help/1710077379203657).
+   >U _moet_ gebruik een Facebook Business Manager-account zodat uw aangepaste publiek kan integreren. Raadpleeg voor meer informatie over het instellen van een Business Manager-account [Facebook Help](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
 
-1. Klik desgevraagd op **OK** om de installatie van de Marketo-app in Facebook te accepteren.
+1. Klik desgevraagd op **[!UICONTROL OK]** om de installatie van de Marketo-app in Facebook te accepteren.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. U bent nu geautoriseerd! Selecteer een overeenkomende modus en klik op **Maken**.
+1. U bent nu geautoriseerd! Selecteer een passende wijze en klik **[!UICONTROL Create]**.
 
    >[!NOTE]
    >
@@ -63,10 +63,10 @@ Met deze integratie kunt u publieksgegevens van statische en slimme lijsten van 
 
    >[!CAUTION]
    >
-   >Oh, voordat je gaat, zorg ervoor dat je [Voorwaarden voor aangepast publiek voor Facebook accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in je Facebook-account! Zonder dit te doen, zullen de publieksupdates ontbreken.
+   >Oh, voordat je gaat, zorg ervoor dat je [Voorwaarden voor aangepast publiek voor Facebook accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in je Facebook-account! Zonder dit te doen, zullen de publieksupdates ontbreken.
 
 >[!MORELIKETHIS]
 >
->* [Een aangepast publiek maken in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Een aangepast publiek maken in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
 >
->* [Facebook Lead Ads instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [Facebook Lead Ads instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
