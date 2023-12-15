@@ -4,9 +4,9 @@ description: Werken- en personenpartities begrijpen - Marketo Docs - Productdocu
 title: Werken- en personenpartities begrijpen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoal
 >
 >Een aantal redenen waarom u een werkruimte kunt gebruiken:
 >
->* Geografie: De marketingafdelingen in Europa, Azië en Noord-Amerika krijgen elk een werkruimte
+>* Geografie: de marketingafdelingen in Europa, Azië en Noord-Amerika krijgen elk een werkruimte
 >* Bedrijfseenheid: [!DNL Quicken], [!DNL Quickbooks] en [!DNL TurboTax] elk krijgt een werkruimte
 >
 >In elk geval is de scheiding omdat de marketingactiva totaal verschillend zijn. Als zij marketing activa delen, dan kunnen de werkruimten niet het juiste hulpmiddel voor u zijn.
@@ -38,7 +38,7 @@ De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoal
 
 ## Delen over werkruimten {#sharing-across-workspaces}
 
-Hieronder wordt beschreven hoe u elementen deelt over verschillende werkruimten. Het werkt hetzelfde voor alles dat u wilt delen; in dit voorbeeld ziet u segmentaties.
+Hieronder wordt beschreven hoe u elementen deelt over verschillende werkruimten. Het werkt hetzelfde voor alles wat u wilt delen. In dit voorbeeld ziet u segmentaties.
 
 >[!NOTE]
 >
@@ -84,12 +84,16 @@ U kunt deze items delen in verschillende werkruimten.
 
 ## Klonen in verschillende werkruimten {#cloning-across-workspaces}
 
-Voor activa die geen malplaatjes zijn, zijn best om hen als lokale activa binnen van een programma te klonen.  Met het juiste toegangsniveau kunt u deze elementen naar een andere werkruimte slepen:
+Voor activa die geen malplaatjes zijn, is het best om hen als lokale activa binnen van een programma te klonen. Met het juiste toegangsniveau kunt u deze elementen naar een andere werkruimte slepen:
 
 * Programma&#39;s
 * E-mails
 * Landingspagina&#39;s
 * Forms
+
+>[!IMPORTANT]
+>
+>Alle hierboven vermelde items kunnen worden gekloond op werkruimten, e-mails, formulieren en bestemmingspagina&#39;s _moet zich binnen een programma bevinden_ op het moment van het klonen.
 
 >[!NOTE]
 >
@@ -115,7 +119,7 @@ U kunt partities toewijzen aan personen  [werkruimten](create-a-new-workspace.md
 
 >[!NOTE]
 >
->Redenen waarop u een partitie met personen wilt gebruiken:
+>Redenen waarop u een partitie voor personen wilt gebruiken:
 >
 >* Uw werkruimten hebben niet alleen verschillende middelen, maar delen ook geen personen
 >* U wilt duplicaten om andere zakelijke redenen
