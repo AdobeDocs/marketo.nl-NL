@@ -2,10 +2,10 @@
 description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 feature: Dynamic Chat
-exl-id: 824cd1de-a407-4250-8777-33eec0777361
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
+source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Als u de chatbot op uw website wilt weergeven, moet u eerst het JavaScript-fragm
 
 >[!TIP]
 >
->Als uw site een Content Security Policy gebruikt, moet u mogelijk de volgende URL&#39;s whitelist om de chatbot naar behoren te laten werken:
+>Als uw site een Content Security Policy gebruikt, moet u mogelijk de volgende URL&#39;s lijsten van gewenste personen om de chatbot naar behoren te laten werken:
 >
 >* `*.adoberesources.net`
 >* `*.adobe.io`
