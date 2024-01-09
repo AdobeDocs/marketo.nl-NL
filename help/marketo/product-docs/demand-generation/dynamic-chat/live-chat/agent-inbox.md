@@ -2,10 +2,10 @@
 description: Agent Inbox - Marketo Docs - Productdocumentatie
 title: Agent Inbox
 feature: Dynamic Chat
-exl-id: 656f8716-d982-4c02-8311-17add0fcd924
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -32,21 +32,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 ## Live Chatmeldingen {#live-chat-notifications}
 
-Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blauwe banner over de bovenkant van het scherm zien vragend hen om goed te keuren.
-
-![](assets/agent-inbox-3.png)
-
->[!TIP]
->
->U kunt ook browsermeldingen instellen, die u waarschuwen als u zich niet bij de Dynamic Chat hebt aangemeld.
->
->* Browsermeldingen inschakelen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Browsermeldingen inschakelen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
-
-### Notities {#things-to-note}
-
-* De agenten hebben 45 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden.&quot;
-* Er is een grens van 10 levende chats per agent op dit ogenblik
+Meer informatie over meldingen in het dialoogvenster [Live Chat-overzicht](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Gesprek {#conversations}
 

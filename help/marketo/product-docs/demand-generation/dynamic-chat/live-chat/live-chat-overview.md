@@ -3,9 +3,9 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 870dd6df82c605fffa6681d68867354084988bcd
+source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -65,6 +65,42 @@ Als u op de live chatkaart in de stream klikt, kunt u kiezen hoe de bezoeker wor
   </tr>
  </tbody> 
 </table>
+
+## Live Chatmeldingen {#live-chat-notifications}
+
+Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blauwe banner over de bovenkant van het scherm zien vragend hen om goed te keuren.
+
+![](assets/live-chat-overview-3.png)
+
+>[!TIP]
+>
+>U kunt ook browsermeldingen instellen, die u waarschuwen als u zich niet bij de Dynamic Chat hebt aangemeld.
+>
+>* Browsermeldingen inschakelen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Browsermeldingen inschakelen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Meldingen inschakelen
+
+Als u browsermeldingen voor live chat wilt ontvangen, moeten alle actieve chatagents browsermeldingen voor Dynamic Chat inschakelen wanneer hierom wordt gevraagd.
+
+Live chat-agents zien een banner boven aan het scherm wanneer ze zich aanmelden met de tekst &quot;Schakel browsermeldingen in om live chatmeldingen te ontvangen.&quot; Klikken **Inschakelen**.
+
+![](assets/live-chat-overview-4.png)
+
+Live chat-agents worden vervolgens door de browser gevraagd om meldingen weer te geven. Klikken **Toestaan**.
+
+![](assets/live-chat-overview-5.png)
+
+Als de agenten browser geen berichten zelfs na het toestaan in browser krijgen, kunnen zij berichten voor browser in de OS berichtmontages moeten toelaten:
+
+[Stappen voor Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+
+[Stappen voor Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+
+### Notities {#things-to-note}
+
+* De agenten hebben 45 seconden om vóór de &quot;Accept chat&quot;berichttijden uit te antwoorden
+* Er is een grens van 10 levende chats per agent op dit ogenblik
 
 >[!MORELIKETHIS]
 >
