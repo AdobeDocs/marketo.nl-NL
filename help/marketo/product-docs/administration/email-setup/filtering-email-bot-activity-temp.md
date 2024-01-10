@@ -4,9 +4,9 @@ title: Activiteit e-mailvak filteren
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
+source-git-commit: 0e0db640e8a54773adc0c643af7aedd9e34e8be0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,23 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Kies **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]**, of beide. Kies of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity]. De hoeveelheid seconden instellen voor **Looptijd tussen activiteiten** van 0 tot 3 seconden in lengte (gebrek is 0).
+1. Er zijn twee schuifregelaars waaruit u kunt kiezen. U kunt slechts één of beide inschakelen. Als u **[!UICONTROL Match with IAB List]**, kiest u of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-temp-4.png)
+
+1. Als u **[!UICONTROL Match with Proximity Pattern]**, kiest u of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity]. U kunt ook de hoeveelheid seconden instellen voor **Looptijd tussen activiteiten** (standaardwaarde is 0, max is 3).
+
+   ![](assets/filtering-email-bot-activity-temp-5.png)
 
 >[!NOTE]
 >
 >Met **Looptijd tussen activiteiten** Stel dit in op 0 seconden, dan identificeren we e-mailactiviteiten die precies op dezelfde seconde plaatsvinden. Als er binnen de opgegeven hoeveelheid seconden meerdere e-mailactiviteiten plaatsvinden, wordt deze geïdentificeerd als beide activiteiten.
 
->[!NOTE]
+>[!IMPORTANT]
 >
 >* Als u [!UICONTROL Filter Bot Activity]Er wordt mogelijk een druppel weergegeven in het e-mailbericht en er wordt geklikt omdat onjuiste activiteiten worden uitgespoord.
 
-**OPTIONELE STAP**: U schakelt deze functie uit door gewoon de schuifregelaar(s) uit te schakelen. Als u deze optie uitschakelt, worden de gegevens niet opnieuw ingesteld.
+**OPTIONELE STAP**: Als u een van beide functies wilt uitschakelen, schakelt u gewoon de desbetreffende schuifregelaar uit. Als u dat wel doet, worden de gegevens niet opnieuw ingesteld.
 
 >[!TIP]
 >
