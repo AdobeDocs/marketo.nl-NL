@@ -4,16 +4,16 @@ description: Een samengevoegd tekenreeksveld (Formule) maken en gebruiken - Mark
 title: Een samengevoegd veld String (Formule) maken en gebruiken
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 1%
 
 ---
 
 # Een samengevoegd veld String (Formule) maken en gebruiken {#create-and-use-a-concatenated-string-formula-field}
 
-U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld met Marketo-formule.
+U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld met een formule voor Marketo&#39;s Engage.
 
 1. Ga naar de **[!UICONTROL Admin]** gebied.
 
@@ -53,6 +53,6 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
 >[!NOTE]
 >
->Formulervelden kunnen worden gebruikt bij het landen van pagina&#39;s, e-mails en kolommen met slimme lijsten (deze worden niet geëxporteerd). E-mails met formule-velden kunnen _niet_ worden verzonden via een batchcampagne. Gebruik een [e-mailscripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
+>Formulervelden kunnen worden gebruikt in Landingspagina&#39;s, e-mails en kolommen Slimme lijst. E-mails met formule-velden kunnen _niet_ worden verzonden via een batchcampagne. Gebruik een [e-mailscripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
 
 Goed werk! Nu heb je een slim veld dat weet welke aanhef je moet opnemen op basis van geslacht. Maak hier plezier mee en maak creatief.
