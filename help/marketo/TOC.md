@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 8895c2db94263659f3f9e3e3b5ebfeedcf8cbbd3
+source-git-commit: d635fbd4807890266429d4a257cf7d6588736bb5
 workflow-type: tm+mt
 source-wordcount: '9298'
 ht-degree: 0%
@@ -136,7 +136,8 @@ ht-degree: 0%
          + [Communicatielimieten inschakelen](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Personenbeperkingen voor slimme campagnes inschakelen](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Activiteit e-mailvak filteren](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Tekst voor abonnement verwijderen uit de sectie &quot;Beheer -> E-mail&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [TEMP voor e-mailbootactiviteit filteren](product-docs/administration/email-setup/filtering-email-bot-activity-temp.md)
+         + [Tekst voor abonnement verwijderen](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Veldbeheer {#field-management}
          + [Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Updates van een veld blokkeren](product-docs/administration/field-management/block-updates-to-a-field.md)
