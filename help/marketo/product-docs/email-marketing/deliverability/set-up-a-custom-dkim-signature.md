@@ -4,9 +4,9 @@ description: Een aangepaste DKIM-handtekening instellen - Marketo Docs - Product
 title: Een aangepaste DKIM-handtekening instellen
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,6 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   >[!TIP]
-   >
-   >* We raden een sleutellengte van 2048 aan.
-   >* Als u een ander domein in uw Van Adres gebruikt, zullen wij de Marketo gedeelde handtekening DKIM gebruiken.
-
    <table> 
    <tr>
    <td width="20%"><b>Kiezer</b></td>
@@ -59,6 +54,17 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
    </table>
 
    <p>
+
+   >[!TIP]
+   >
+   >* We raden een sleutellengte van 2048 aan.
+   >* Als u een ander domein in uw Van Adres gebruikt, zullen wij de Marketo gedeelde handtekening DKIM gebruiken.
+
+   >[!IMPORTANT]
+   >
+   >Als u of de Selector DKIM of Grootte van de Encryptie DKIM voor uw domein moet bijwerken, moet u uw bestaand verslag schrappen en het onlangs geproduceerde verslag met de nieuwe waarden opnieuw publiceren.
+   >
+   >Houd er rekening mee dat als u dat doet, DKIM pas wordt ondertekend voor uw domein als uw nieuwe record wordt gepubliceerd en gevalideerd door ons systeem. Plan uw verandering dienovereenkomstig, aangezien het 24 tot 48 uur kan vergen alvorens het nieuwe DKIM verslag volledig over Internet wordt verspreid.
 
 1. Verzend de **Hostrecord** en **TXT-waarde** aan uw IT. Vraag hen om het verslag voor u tot stand te brengen en ervoor te zorgen het aan alle nameservers verbonden aan het van domein verspreidt. De verificatie van DKIM van Marketo vereist dat de sleutel DKIM aan alle nameservers verbonden aan het domein wordt verspreid die DKIM-ondertekend.
 
