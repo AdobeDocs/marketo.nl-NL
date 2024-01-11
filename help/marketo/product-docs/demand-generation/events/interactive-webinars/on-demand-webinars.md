@@ -4,9 +4,9 @@ title: Webinars op aanvraag
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 41298677e9bef49624220dac463388f0cab0ebf6
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Connect, de technologie die interactieve webinars aandrijft, volgt het bez
 
 Marketo biedt de statistieken van de bewaking van On-Demand Webinars op het tabblad Dashboard met behulp van de volgende widgets:
 
-* Overzicht op aanvraag: Dit geeft een dagsgewijs overzicht van het aantal bezoekers (geen presentaties) dat de opname na de gebeurtenis bekijkt.
+* Samenvatting op aanvraag: Dit biedt een overzicht van het aantal bezoekers (geen presentaties) dat de opname na de gebeurtenis op een bepaalde dag of dagen bekijkt
 
 * Statistieken op aanvraag: Deze widget biedt informatie over:
    * Dagen is de opname op aanvraag beschikbaar voor weergave. Hiermee kunnen marketers handelingen uitvoeren, zoals het uitvoeren van e-mailcampagnes vlak bij het einde van de beschikbaarheidsduur van de opname van 30 dagen.

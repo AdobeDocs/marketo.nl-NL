@@ -3,9 +3,9 @@ description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 99798a8d333be43ec8d7e12571a96184fa11c0f0
+source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Leer hoe u de vormgeving van uw venster in het dialoogvenster Chatbot aanpast.
 
-Klik op **Configuratie**.
+Klik op **Chatbot-instellingen** krachtens **Configuratie**.
 
 ![](assets/configuration-1.png)
 
@@ -36,9 +36,9 @@ Met het anker kan uw sitebezoeker het chatbox openen of sluiten. U kunt kiezen o
 
 ![](assets/configuration-4.png)
 
-### Instellingen agent {#agent-settings}
+### Bot-instellingen {#agent-settings}
 
-In de Montages van de Agent, kunt u een etiket aan uw praatbox (ex: &quot;Adobe Bot&quot;) toevoegen die bij de bovenkant van het zal verschijnen. U kunt de reactievertraging (in seconden) ook bepalen, en uw praatjeavatar veranderen. Als u uw eigen avatar-afbeelding wilt uploaden, klikt u op de knop **+** knop.
+In Bot Settings kunt u een label aan uw chatbox toevoegen (bijvoorbeeld &quot;Adobe Assistant&quot;), dat boven aan het venster wordt weergegeven. U kunt de reactievertraging (in seconden) ook bepalen, en uw praatjeavatar veranderen. Als u uw eigen avatar-afbeelding wilt uploaden, klikt u op de knop **+** knop.
 
 ![](assets/configuration-5.png)
 
@@ -64,11 +64,7 @@ Als u de chatbot op uw website wilt weergeven, moet u eerst het JavaScript-fragm
 
 >[!TIP]
 >
->Als uw site een Content Security Policy gebruikt, moet u mogelijk de volgende URL&#39;s lijsten van gewenste personen om de chatbot naar behoren te laten werken:
->
->* `*.adoberesources.net`
->* `*.adobe.io`
->* `*.typekit.net`
+>Ga onder de code voor wat onder om toe te voegen als uw plaats inhoud-veiligheid-Beleid (CSP) gebruikt.
 
 >[!NOTE]
 >
