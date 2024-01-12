@@ -3,10 +3,10 @@ description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdo
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 12%
+source-wordcount: '507'
+ht-degree: 0%
 
 ---
 
@@ -43,15 +43,23 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Kies **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]**, of beide. Kies of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity].
+1. Er zijn twee schuifregelaars waaruit u kunt kiezen. U kunt slechts één of beide inschakelen. Als u **[!UICONTROL Match with IAB List]**, kiest u of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
+1. Als u **[!UICONTROL Match with Proximity Pattern]**, kiest u of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity]. U kunt ook de hoeveelheid seconden instellen voor **Looptijd tussen activiteiten** (standaardwaarde is 0, max is 3).
+
+   ![](assets/filtering-email-bot-activity-5.png)
+
 >[!NOTE]
 >
->Als u [!UICONTROL Filter Bot Activity]Er wordt mogelijk een druppel weergegeven in het e-mailbericht en er wordt geklikt omdat onjuiste activiteiten worden uitgespoord.
+>Met **Looptijd tussen activiteiten** Stel dit in op 0 seconden, dan identificeren we e-mailactiviteiten die precies op dezelfde seconde plaatsvinden. Als er binnen de opgegeven hoeveelheid seconden meerdere e-mailactiviteiten plaatsvinden, wordt deze geïdentificeerd als beide activiteiten.
 
-**OPTIONELE STAP**: U schakelt deze functie uit door gewoon de schuifregelaar(s) uit te schakelen. Als u deze optie uitschakelt, worden de gegevens niet opnieuw ingesteld.
+>[!IMPORTANT]
+>
+>* Als u [!UICONTROL Filter Bot Activity]Er wordt mogelijk een druppel weergegeven in het e-mailbericht en er wordt geklikt omdat onjuiste activiteiten worden uitgespoord.
+
+**OPTIONELE STAP**: Als u een van beide functies wilt uitschakelen, schakelt u gewoon de desbetreffende schuifregelaar uit. Als u dat wel doet, worden de gegevens niet opnieuw ingesteld.
 
 >[!TIP]
 >
@@ -61,57 +69,57 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 
 Wij hebben een lijst van IP adressen gecompileerd die voor het produceren van miljoenen valse overeenkomsten verantwoordelijk zijn, aangezien zulk engagement die van om het even welke volgende IPs wordt ontvangen automatisch wordt gefilterd uit en niet toegevoegd aan uw Instantie van het Marketo Engage. Dit kan leiden tot minder e-mail openen, klikken en andere gerelateerde activiteiten. De onderstaande lijst kan periodiek worden bijgewerkt.
 
-* 40.94.34.52
-* 40.94.34.86
-* 52.34.76.65
-* 54.70.53.60
-* 54.71.187.124
+* 40 94 34 52
+* 40 94 34 86
+* 52 34 76 65
+* 54 70 53 60
+* 54 71 187 124
 * 60.28.2.248
-* 64.235.150.252
-* 64.235.153.10
-* 64.235.153.2
-* 64.235.154.105
-* 64.235.154.109
-* 64.235.154.140
-* 64.74.215.1
-* 64.74.215.100
-* 64.74.215.138
-* 64.74.215.139
-* 64.74.215.142
-* 64.74.215.146
-* 64.74.215.150
-* 64.74.215.154
-* 64.74.215.158
-* 64.74.215.162
-* 64.74.215.164
-* 64.74.215.166
-* 64.74.215.170
-* 64.74.215.174
-* 64.74.215.176
-* 64.74.215.178
-* 64.74.215.51
-* 64.74.215.56
-* 64.74.215.58
-* 64.74.215.59
-* 64.74.215.86
-* 64.74.215.98
-* 65.154.226.101
-* 66.249.91.149
-* 70.42.131.106
-* 74.125.217.116
-* 74.217.90.250
-* 104.129.41.4
-* 104.47.55.126
-* 104.47.58.126
-* 104.47.70.126
-* 104.47.73.126
-* 104.47.73.254
-* 104.47.74.126
-* 128.220.160.1
-* 155.70.39.101
-* 162.129.251.14
-* 162.129.251.42
-* 208.52.157.204
+* 64 235 150 252
+* 64 235 153 10
+* 64 235 153,2
+* 64 235 154 105
+* 64 235 154 109
+* 64 235 154 140
+* 64 74 215,1
+* 64 74 215 100
+* 64 74 215 138
+* 64 74 215 139
+* 64 74 215 142
+* 64 74 215 146
+* 64 74 215 150
+* 64 74 215 154
+* 64 74 215 158
+* 64 74 215 162
+* 64 74 215 164
+* 64 74 215 166
+* 64 74 215 170
+* 64 74 215 174
+* 64 74 215 176
+* 64 74 215 178
+* 64 74 215 51
+* 64 74 215,56
+* 64 74 215,58
+* 64 74 215,59
+* 64 74 215,86
+* 64 74 215,98
+* 65 154 226 101
+* 66 249 91 149
+* 70 42 131 106
+* 74 125 217 116
+* 74 217 90 250
+* 104 129 41,4
+* 104 47 55 126
+* 104 47 58 126
+* 104 47 70 126
+* 104 47 73 126
+* 104 47 73 254
+* 104 47 74 126
+* 128 220 160,1
+* 15.70.39.101
+* 162 129 251,14
+* 162 129 251,42
+* Op 20.52.157.2004
 
 >[!NOTE]
 >

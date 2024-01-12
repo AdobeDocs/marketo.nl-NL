@@ -3,9 +3,9 @@ description: Agent Inbox - Marketo Docs - Productdocumentatie
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 49a75b6aef25787a68554dff3a847279ef8ba12a
+source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,17 @@ Op de rechterkant van het scherm van Agent Inbox, zult u (van boven tot onder) h
 
 ![](assets/agent-inbox-5.png)
 
+## Een sessie beëindigen {#end-a-session}
+
+De agenten hebben de capaciteit een zitting manueel te beëindigen eenvoudig door te klikken **Sessie beëindigen** naast de bezoekersinformatie.
+
+![](assets/agent-inbox-6.png)
+
 ## Activiteitenoverzicht {#activity-history}
 
 Onder de bezoekersinformatie bevindt zich de activiteitengeschiedenis. Bekijk activiteitstypen en datums en bekijk zelfs chattranscripties.
 
-![](assets/agent-inbox-6.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -66,12 +72,12 @@ Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda v
 
 1. Klik op het kalenderpictogram.
 
-   ![](assets/agent-inbox-7.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Kies de gewenste agentenkalender en klik **Verzenden**.
 
-   ![](assets/agent-inbox-8.png)
+   ![](assets/agent-inbox-9.png)
 
 1. De bezoeker van de chat zal een vergadering kunnen boeken.
 
-   ![](assets/agent-inbox-9.png)
+   ![](assets/agent-inbox-10.png)
