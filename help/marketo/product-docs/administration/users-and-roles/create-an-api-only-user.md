@@ -4,16 +4,20 @@ description: Een gebruiker met alleen een API maken - Marketo Docs - Productdocu
 title: Alleen een API-gebruiker maken
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 3%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
 # Alleen een API-gebruiker maken {#create-an-api-only-user}
 
 Als u met Marketo wilt integreren via de [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}, moet u een gebruiker met alleen de API maken. Zo gaat het.
+
+>[!NOTE]
+>
+>Als u alleen API-gebruikers maakt in een abonnement dat is aangesloten op Identiteit Adobe, voert u de volgende stappen uit [hier te vinden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -43,7 +47,7 @@ Als u met Marketo wilt integreren via de [REST API](https://developers.marketo.c
    >
    >Voeg een optionele reden of een vervaldatum toe. De vervaldata van de toegang zijn handig voor kortetermijnwerknemers.
 
-1. Selecteer **[!UICONTROL API Only]** en controleert de **[!UICONTROL API Only]** selectievakje. Klik op **[!UICONTROL Next]**.
+1. Selecteer de **[!UICONTROL API Only]** en controleert de **[!UICONTROL API Only]** selectievakje. Klik op **[!UICONTROL Next]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
@@ -59,4 +63,4 @@ Aldus terecht! Laten we nu de aangepaste service maken.
 
 >[!MORELIKETHIS]
 >
->[Een aangepaste service maken voor gebruik met de ReST-API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[Een aangepaste service maken voor gebruik met REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

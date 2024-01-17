@@ -2,10 +2,10 @@
 description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Productdocumentatie
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
-exl-id: 4840d1a8-306b-4b53-917d-2262ae903a42
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
+source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
 workflow-type: tm+mt
-source-wordcount: '1592'
+source-wordcount: '1832'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 
 >[!NOTE]
 >
->Dit geldt alleen voor abonnementen op [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your Marketo Engage subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Beheer > Gebruikers en rollen.
+>Dit is alleen van toepassing op abonnementen op Marketo&#39;s Engage die aan [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Beheer > Gebruikers en rollen.
 
 <table> 
  <tbody> 
@@ -288,11 +288,31 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td>Webservices</td> 
    <td><li>zijn <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-beperkingen</a> ingeschakeld? Moeten ze dat zijn?</li>
 <li>Welke gebruikers/apps maken API-aanroepen in uw exemplaar?</li>
-<li>Raakt u of bijna aan het bereiken van uw API grens? 
+<li>Raakt u of bijna aan het bereiken van uw API grens?
 <br/>     Als dat het geval is, kunt u overwegen het te verhogen of uw instantie te controleren om die API-aanroepen omlaag te brengen.</li></td>
   </tr>
   <tr> 
-   <td>Marketo Sales Insight (indien van toepassing)</td> 
+   <td>Adobe Dynamic Chat (indien van toepassing)</td> 
+<td><li>Heb je de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat productbeheerder</a> uitnodigen? De e-mail wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten, en u wordt aangewezen als Admin van het Systeem.
+<br/>     Als dat niet het geval is, zoekt u de welkomste-mail in uw Postvak IN en accepteert u de uitnodiging om uw Adobe ID in te stellen.</li>   
+<li>Heb je de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">gewenste gebruikers</a> naar het productprofiel van de Dynamic Chat in Adobe Admin Console?
+<ul>
+<li>Zorg ervoor dat aan de gebruikers die hiervoor in aanmerking komen het productprofiel van de Dynamic Chat is toegevoegd aan hun Adobe-id. U kunt de rollen 'Access Dynamic Chat' niet toewijzen in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen als deze worden toegevoegd aan een productprofiel.</li>
+<li>Lijnt de standaardprofielmachtigingen op het tabblad 'Productprofielen' uit op wat uw organisatie nodig heeft?<br/> 
+Als dat niet het geval is, bewerkt u de machtigingen voor het specifieke profiel. </li>
+<li>Als u meerdere abonnementen hebt, worden uw gebruikers dan toegevoegd aan de juiste abonnementen?</li>
+</ul>
+</li>
+Nadat u de instellingen Gebruikers en rollen hebt gecontroleerd, meldt u zich aan bij de Dynamic Chat om door te gaan met de controle.  
+<li>Is op het tabblad 'Integraties' de synchronisatie van uw Marketo Engage en Dynamic Chat nog steeds ingeschakeld?</li>
+<li>Zijn de vijf standaardprofielen met vooraf bepaalde toestemmingen van toepassing op uw organisatie?<br/> 
+     Zo niet, dan kunt u <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">bewerken in Dynamic Chat</a>. U kunt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">Een aangepast profiel maken</a> met een aangepaste set machtigingen.</li>
+<li>Als u uw gebruikers toegang tot Dynamic Chat wilt geven, hebt u "Access Dynamic Chat" voor de toepasselijke rol van het Marketo Engage ingeschakeld onder Beheer &gt; Gebruikers en rollen &gt; Rollen?
+<br/><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: de rollen 'Admin' en 'Marketing User' moeten toegang hebben tot de Dynamic Chat.</li>
+<li>Heb je <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">De Marketo Engage-instantie verbinden</a> naar Dynamic Chat?</li>
+</td>
+  </tr>
+  <td>Marketo Sales Insight (indien van toepassing)</td> 
    <td><li>heeft de <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-pakket geïnstalleerd</a>?</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">bijgewerkt naar de nieuwste versie van Sales Insight</a>?</li>
 <li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? <br/>     Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
