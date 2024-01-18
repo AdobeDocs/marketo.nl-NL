@@ -3,9 +3,9 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1846'
 ht-degree: 0%
 
 ---
@@ -293,16 +293,16 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (indien van toepassing)</td> 
-<td><li>Heb je de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat productbeheerder</a> uitnodigen? De e-mail wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten, en u wordt aangewezen als Admin van het Systeem.
+<td>Als u de onderstaande stappen volgt, hebt u toegang tot de <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Als u nog geen Adobe ID hebt ingesteld, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">hier leren hoe je dat kunt doen</a>.
+<br/>
+<li>Heb je de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat productbeheerder</a> uitnodigen? De e-mail wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten, en u wordt aangewezen als Admin van het Systeem.
 <br/>     Als dat niet het geval is, zoekt u de welkomste-mail in uw Postvak IN en accepteert u de uitnodiging om uw Adobe ID in te stellen.</li>   
 <li>Heb je de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">gewenste gebruikers</a> naar het productprofiel van de Dynamic Chat in Adobe Admin Console?
-<ul>
 <li>Zorg ervoor dat aan de gebruikers die hiervoor in aanmerking komen het productprofiel van de Dynamic Chat is toegevoegd aan hun Adobe-id. U kunt de rollen 'Access Dynamic Chat' niet toewijzen in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen als deze worden toegevoegd aan een productprofiel.</li>
 <li>Zijn de standaardprofielmachtigingen op het tabblad 'Productprofielen' afgestemd op de behoeften van uw organisatie?<br/> 
 Als dat niet het geval is, bewerkt u de machtigingen voor het specifieke profiel. </li>
 <li>Als u meerdere abonnementen hebt, worden uw gebruikers dan toegevoegd aan de juiste abonnementen?</li>
-</ul>
-</li>
+<br>
 Nadat u de instellingen Gebruikers en rollen hebt gecontroleerd, meldt u zich aan bij de Dynamic Chat om door te gaan met de controle.  
 <li>Heb je <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">De Marketo Engage-instantie verbinden</a> naar Dynamic Chat?</li>
 <li>Zijn de vijf standaardprofielen met vooraf bepaalde toestemmingen van toepassing op uw organisatie?<br/> 
