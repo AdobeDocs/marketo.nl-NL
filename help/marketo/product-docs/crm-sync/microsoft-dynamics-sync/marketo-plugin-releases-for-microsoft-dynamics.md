@@ -4,7 +4,7 @@ description: Marketo Plugin-releases voor Microsoft Dynamics - Marketo Docs - Pr
 title: Marketo Plugin-releases voor Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -36,9 +36,9 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
 <table> 
  <tbody> 
   <tr> 
-   <th>Versie</th> 
-   <th>Releasedatum</th> 
-   <th>Notities</th> 
+   <th style="width:15%">Versie</th> 
+   <th style="width:20%">Releasedatum</th> 
+   <th style="width:65%">Notities</th> 
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
