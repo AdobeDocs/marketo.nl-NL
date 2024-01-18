@@ -3,9 +3,9 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '1832'
+source-wordcount: '1817'
 ht-degree: 0%
 
 ---
@@ -298,18 +298,17 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 <li>Heb je de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user" target="_blank">gewenste gebruikers</a> naar het productprofiel van de Dynamic Chat in Adobe Admin Console?
 <ul>
 <li>Zorg ervoor dat aan de gebruikers die hiervoor in aanmerking komen het productprofiel van de Dynamic Chat is toegevoegd aan hun Adobe-id. U kunt de rollen 'Access Dynamic Chat' niet toewijzen in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen als deze worden toegevoegd aan een productprofiel.</li>
-<li>Lijnt de standaardprofielmachtigingen op het tabblad 'Productprofielen' uit op wat uw organisatie nodig heeft?<br/> 
+<li>Zijn de standaardprofielmachtigingen op het tabblad 'Productprofielen' afgestemd op de behoeften van uw organisatie?<br/> 
 Als dat niet het geval is, bewerkt u de machtigingen voor het specifieke profiel. </li>
 <li>Als u meerdere abonnementen hebt, worden uw gebruikers dan toegevoegd aan de juiste abonnementen?</li>
 </ul>
 </li>
 Nadat u de instellingen Gebruikers en rollen hebt gecontroleerd, meldt u zich aan bij de Dynamic Chat om door te gaan met de controle.  
-<li>Is op het tabblad 'Integraties' de synchronisatie van uw Marketo Engage en Dynamic Chat nog steeds ingeschakeld?</li>
+<li>Heb je <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">De Marketo Engage-instantie verbinden</a> naar Dynamic Chat?</li>
 <li>Zijn de vijf standaardprofielen met vooraf bepaalde toestemmingen van toepassing op uw organisatie?<br/> 
      Zo niet, dan kunt u <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">bewerken in Dynamic Chat</a>. U kunt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">Een aangepast profiel maken</a> met een aangepaste set machtigingen.</li>
 <li>Als u uw gebruikers toegang tot Dynamic Chat wilt geven, hebt u "Access Dynamic Chat" voor de toepasselijke rol van het Marketo Engage ingeschakeld onder Beheer &gt; Gebruikers en rollen &gt; Rollen?
 <br/><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: de rollen 'Admin' en 'Marketing User' moeten toegang hebben tot de Dynamic Chat.</li>
-<li>Heb je <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">De Marketo Engage-instantie verbinden</a> naar Dynamic Chat?</li>
 </td>
   </tr>
   <td>Marketo Sales Insight (indien van toepassing)</td> 

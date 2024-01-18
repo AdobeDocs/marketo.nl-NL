@@ -3,9 +3,9 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 82ff48a227f7f05d49d0189cc48df48c34190622
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '618'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Live Chat-overzicht {#live-chat-overview}
 
 Met Live Chat kunnen websitebezoekers realtime chatgesprekken voeren met uw verkoopagenten.
+
+>[!NOTE]
+>
+>Gespreksende stromen en Levende Chat zijn gedeelde proefeigenschappen die een gecombineerde levensgrens van 100 overeenkomsten voor die op het Uitgezochte Dynamic Chat hebben. Wanneer deze grens wordt bereikt, zullen alle gepubliceerde Stromen van de Gesprek ophouden teweegbrengend en de bezoekers die om met een levende agent verzoeken te chatten zullen het globale reservebericht ontvangen. Neem contact op met uw accountvertegenwoordiger om de upgradeopties voor pakketten te bespreken.
 
 ## Actieve chatagents toevoegen {#add-live-chat-agents}
 

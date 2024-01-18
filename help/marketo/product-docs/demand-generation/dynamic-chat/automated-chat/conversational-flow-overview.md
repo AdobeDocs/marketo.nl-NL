@@ -2,10 +2,10 @@
 description: Conversationeel stroomoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van conversiesnelheid
 feature: Dynamic Chat
-exl-id: a48f78c8-77d6-4c83-9dbd-c905cd9b6b47
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c741886d-d672-471f-8902-208d25898afa
+source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 Een gespreksstroom ontwerpen en deze activeren voor elke bezoeker op basis van een specifieke actie (bijvoorbeeld klikken op een knop Bellen naar actie, Bij laden van de pagina, de tijd die op de pagina wordt doorgebracht, enz.).
 
 ![](assets/conversational-flow-overview-1.png)
+
+>[!NOTE]
+>
+>Gespreksende stromen en Levende Chat zijn gedeelde proefeigenschappen die een gecombineerde levensgrens van 100 overeenkomsten voor die op het Uitgezochte Dynamic Chat hebben. Wanneer deze grens wordt bereikt, zullen alle gepubliceerde Stromen van de Gesprek ophouden teweegbrengend en de bezoekers die om met een levende agent verzoeken te chatten zullen het globale reservebericht ontvangen. Neem contact op met uw accountvertegenwoordiger om de upgradeopties voor pakketten te bespreken.
 
 ## Dialoogvensters versus omgekeerde stromen {#dialogues-vs-conversational-flows}
 
