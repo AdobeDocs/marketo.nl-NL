@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f49158e8b180641c1202b39b091ef8dd4088074e
+source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '683'
 ht-degree: 1%
 
 ---
@@ -177,7 +177,7 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 
 ## Aankondigingen {#announcements}
 
-* **API-update voor lead synchroniseren**: Het gedrag van de API voor leads synchroniseren is enigszins aangepast met betrekking tot updates van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
+* **API-update voor lead synchroniseren**: De [API voor lead synchroniseren](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Het gedrag van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: In onze release van januari 2024 werken we de jQuery for Marketo Engage Forms bij naar jQuery 3.x. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [Meer informatie hier](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
