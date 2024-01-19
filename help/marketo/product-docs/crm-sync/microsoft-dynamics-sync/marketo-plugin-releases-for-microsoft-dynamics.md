@@ -4,9 +4,9 @@ description: Marketo Plugin-releases voor Microsoft Dynamics - Marketo Docs - Pr
 title: Marketo Plugin-releases voor Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 44bbd12ec5c5c213a977b9d99f455eefb99bf275
+source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
   </tr>
   <tr> 
    <td>5.0.2.1</td> 
-   <td>13-10-23</td> 
+   <td>19-01-24</td> 
    <td>Opgeloste problemen: opgeloste problemen die te maken hebben met de synchronisatie van de aangepaste entiteit.</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,9 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
   <tr> 
    <td>5.0.1.8</td> 
    <td>27-03-23</td> 
-   <td>Bugfixatie: hiermee wordt voorkomen dat de plug-in andere aanpassingen in de gebruikersinterface-elementen in MS Dynamics overschrijft.</td> 
+   <td>Bugfixatie: hiermee wordt voorkomen dat de plug-in andere aanpassingen in de gebruikersinterface-elementen in MS Dynamics overschrijft.
+   <p>
+   Opgeloste problemen: opnieuw geïnstalleerde navigatietegels die in 5.0.1.1 ontbraken.</td> 
   </tr> 
   <tr> 
    <td>5.0.1.1</td> 
