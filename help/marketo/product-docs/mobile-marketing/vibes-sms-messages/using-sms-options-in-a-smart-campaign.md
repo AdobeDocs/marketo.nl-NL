@@ -1,10 +1,8 @@
 ---
 description: SMS-opties gebruiken in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Het gebruiken van de Opties van SMS in een Slimme Campagne
-hide: true
-hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 5c6e014224b33310c847c08784a70a08796d971a
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -17,11 +15,11 @@ Na u [een SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-s
 
 >[!NOTE]
 >
->Als je een SMS-bericht wilt verzenden, hebben we een [specifiek artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md) daarvoor.
+>Als je een SMS-bericht wilt verzenden, hebben we een [specifiek artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} daarvoor.
 
 >[!PREREQUISITES]
 >
->SMS-triggers/filters worden alleen weergegeven als de [De service Vibes is ingeschakeld](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md).
+>SMS-triggers/filters worden alleen weergegeven als de [De service Vibes is ingeschakeld](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## SMS-triggers {#sms-triggers}
 
@@ -87,6 +85,6 @@ Er zijn drie SMS-stappen waaruit u kunt kiezen.
 
 >[!MORELIKETHIS]
 >
->* [Een SMS-bericht verzenden](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
->* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+>* [Een SMS-bericht verzenden](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

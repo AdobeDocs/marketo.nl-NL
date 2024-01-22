@@ -4,45 +4,49 @@ description: Vibes toevoegen als een LaunchPoint-service - Marketo Docs - Produc
 title: Vibes toevoegen als een LaunchPoint-service
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 2dc19295bcea7efc38b7bf50ee802335bff8b12c
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 1%
 
 ---
 
 # Vibes toevoegen als een LaunchPoint-service {#add-vibes-as-a-launchpoint-service}
 
-U kunt SMS-berichten verzenden naar de mensen in uw lijsten met Vibes en de SMS-activiteit gebruiken om campagnes te activeren en te filteren. Eerst, moet u Lagen als dienst toevoegen LaunchPoint.
+U kunt SMS-berichten verzenden naar de mensen die u hebt aangemeld voor uw SMS-campagnes van Vibes, waarbij u gebruik maakt van SMS-activiteiten om campagnes op een navitale manier in uw Marketo Engage te activeren en filteren. Eerst, moet u Lagen als dienst toevoegen LaunchPoint.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->U hebt zowel Marketo Admin-machtigingen als een actieve Vibes-account nodig om deze installatie te voltooien. De referenties die in Stap 4 hieronder worden aangevraagd, zijn de referenties van uw Vibes-account.
+>U moet een actieve Vibes-account en een Adobe-licentie voor Vibes SMS hebben.
 
-1. Ga in Mijn Marketo naar **Beheerder** gebied.
+1. Ga in Mijn Marketo naar **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
-1. Klikken **LaunchPoint**.
+1. Klik op **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. Klikken **Nieuw** en **Nieuwe service**.
+1. Klikken **[!UICONTROL New]** vervolgens **[!UICONTROL New Service]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
-1. Geef een weergavenaam op en selecteer in de vervolgkeuzelijst de optie **Vibes**.
+1. Geef een weergavenaam op en selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Vibes]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. Voer onder Instellingen uw gebruikersnaam, wachtwoord en bedrijfssleutel voor de API in. Klikken **Maken**.
+1. Voer onder Instellingen uw beeldschermen in [!UICONTROL Username], [!UICONTROL Password], en [!UICONTROL Company Key] (alles vindt u in uw Vibes-account). Klik op **[!UICONTROL Create]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   De nieuwe SMS-service wordt nu weergegeven in de lijst Geïnstalleerde services.
+   De nieuwe SMS-service wordt nu weergegeven in de [!UICONTROL Installed Services] lijst.
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
+
+>[!MORELIKETHIS]
+>
+>[Videodemo van Vibes](https://vimeo.com/215233767/1ed136adbc)

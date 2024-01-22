@@ -1,19 +1,17 @@
 ---
-description: Doc - Marketo Docs - Productdocumentatie
-title: Doc
-hide: true
-hidefromtoc: true
+description: SMS Glossary - Marketo Docs - Productdocumentatie
+title: SMS Glossary
 feature: Mobile Marketing
-source-git-commit: ce43fe1848bb333caa2f73fde4c6ce8403b3e1e8
+source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
 # SMS Glossary {#sms-glossary}
 
-Hieronder vindt u algemene termen die u tegenkomt wanneer u SMS-berichten van Vibes gebruikt met Marketo Engage.
+Hieronder volgen enkele algemene termen die u zult tegenkomen wanneer u SMS-berichten van Vibes gebruikt met Marketo Engage.
 
 <table>
 <thead>
