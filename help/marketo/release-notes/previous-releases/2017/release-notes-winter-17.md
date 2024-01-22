@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - Winter '17 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -67,13 +67,13 @@ Filter Voorspelende inhoudsonderdelen die zijn ingeschakeld voor E-mail, Rijke m
 
 **[Analyse filteren op bron](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-Analyses van voorspellende inhoud filteren voor specifieke bronnen — E-mail, Rijke media of de balk met aanbevelingen.
+Analyses van voorspellende inhoud filteren voor specifieke bronnen - E-mail, Rijke media of de balk met aanbevelingen.
 
 ![](assets/predictive-content-analytics-by-source.png)
 
 **Redacteur voor voorspellende inhoud**
 
-Er is een verbeterde bewerkingservaring en lay-out waarmee de voorbereiding van inhoud wordt gesplitst naar bron — E-mail, Rijke media of Aanbevelingenbalk.
+Er is een verbeterde bewerkervaring en lay-out waarmee de voorbereiding van inhoud wordt gesplitst naar bron: e-mail, rijke media of de balk met aanbevelingen.
 
 ![](assets/predictive-content-editor.png)
 
@@ -85,7 +85,7 @@ URL en metagegevens van afbeeldingen worden nu gebruikt in het proces voor autom
 
 Ontwikkelaars hebben nu extra controle over de levering van pushberichten met toevoeging van een nieuwe SDK API-aanroep waarmee ontwikkelaars pushtokens kunnen verwijderen.
 
-## [De Integratie van SMS LaunchPoint van Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md) {#vibes-sms-launchpoint-integration}
+## [De Integratie van SMS LaunchPoint van Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Verbeter het richten met een nieuwe filteroptie, &quot;Lid van Lijst van Levendigs.&quot;
 
