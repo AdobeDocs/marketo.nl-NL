@@ -2,7 +2,7 @@
 description: Een SMS-bericht verzenden - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht verzenden
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -75,5 +75,5 @@ Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes
 
 >[!MORELIKETHIS]
 >
->* [Een bericht over een vibes maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}
+>* [Een bericht over een vibes maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [Het gebruiken van de Opties van SMS in een Slimme Campagne](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

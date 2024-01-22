@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - zomer 16 - Marketo Docs - productdocum
 title: Opmerkingen bij de release - zomer 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Zomer 16 {#release-notes-summer}
+# Opmerkingen bij de release: zomer 16 {#release-notes-summer}
 
 De volgende functies zijn opgenomen in de release van zomer 16. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
@@ -39,7 +39,7 @@ Het audittrail biedt een uitgebreide geschiedenis van de wijzigingen die zijn aa
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Maak eenvoudig SMS-berichten in Marketo. Pas uw bericht aan met uw rijke Marketo-gegevens en controleer de prestaties eenvoudig met het SMS-berichtendashboard.
 
