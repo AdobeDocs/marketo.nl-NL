@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 4cde82d9c9af243db698e11c2f91e9969062921e
+source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
 workflow-type: tm+mt
-source-wordcount: '2269'
+source-wordcount: '2270'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ In het gedeelte E-mailverificatie van gebruiker kan een beheerder de huidige sta
 
 Een beheerder kan de verificatiestatus van het abonnement, het percentage gebruikers in het abonnement dat de e-mailverificatie heeft voltooid, en het aantal gebruikers die zijn gemarkeerd als overgeslagen, weergeven. De status wordt gerapporteerd over de status van de e-mailverificatiestatus van alle gebruikers in het abonnement. De beheerder kan op het aantal overgeslagen gebruikers klikken en zal aan het lusje van de Migratie van de Gebruiker worden genavigeerd om de overgeslagen gebruikers te bekijken.
 
-De verificatie-e-mail kan opnieuw worden verzonden door een beheerder op het tabblad Gebruikersmigratie van de migratieconsole en het tabblad Gebruiker en rollen in het gebied Marketo Admin of door de gebruiker in de accountinstellingen. De koppeling in het verificatiebericht verloopt over 3 dagen, net als in e-mails met gebruikersuitnodigingen. Meer informatie over e-mailverificatie vindt u op de [Gemeenschap](nation.marketo.com) en in de [e-mailverificatiedocumentatie](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
+De verificatie-e-mail kan opnieuw worden verzonden door een beheerder op het tabblad Gebruikersmigratie van de migratieconsole en het tabblad Gebruiker en rollen in het gebied Marketo Admin of door de gebruiker in de accountinstellingen. De koppeling in het verificatiebericht verloopt over 3 dagen, net als in e-mails met gebruikersuitnodigingen. Meer informatie over e-mailverificatie vindt u op de [Gemeenschap](https://nation.marketo.com/) en in de [e-mailverificatiedocumentatie](/help/marketo/product-docs/administration/users-and-roles/email-verification.md).
 
 >[!IMPORTANT]
 >
