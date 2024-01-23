@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 06cfbcb6eb8b9f0370f5bc29e0787dedac7267bf
+source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 1%
 
 ---
@@ -176,6 +176,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 <br/>
 
 ## Aankondigingen {#announcements}
+
+* [Januari 2024 de Versie van het Marketo Engage Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
 
 * **API-update voor lead synchroniseren**: De [API voor lead synchroniseren](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Het gedrag van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
 
