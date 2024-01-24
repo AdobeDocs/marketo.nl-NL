@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 13720f1a79ddfb7e26b09c2f9a24b5206401280a
+source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '691'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    </tr>
     <tr> 
    <td><strong>Update voor API voor bulklead</strong>: Het gedrag van de API voor bulklead-import is enigszins aangepast wanneer <b>id</b> wordt opgegeven als de <b>lookupField</b> tijdens het scheppen van banen. Indien een persoon gegevens registreert die verband houden met de verstrekte informatie <b>id</b> niet gevonden in de database van het Marketo Engage. Er vindt geen recordupdate plaats omdat de record niet kan worden gevonden. Het bijgewerkte gedrag omvat nu het verhogen van de telling in <b>numOfRowsFailed</b> eigenschap in de reactie, die aangeeft dat de bewerking in dergelijke gevallen is mislukt.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
    <td>nvt</td>
   </tr>
  </tbody> 
@@ -177,10 +177,10 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 
 ## Aankondigingen {#announcements}
 
-* [Januari 2024 de Versie van het Marketo Engage Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
-
 * **API-update voor lead synchroniseren**: De [API voor lead synchroniseren](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Het gedrag van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: In onze release van januari 2024 werken we de jQuery for Marketo Engage Forms bij naar jQuery 3.x. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [Meer informatie hier](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **E-mailverificatie voor gebruikers met alleen SSO**: Alleen SSO-gebruikers werden automatisch geverifieerd, zodat ze een ontoegankelijk e-mailaccount konden gebruiken. Vanaf medio januari worden alle bestaande gebruikers van alleen SSO&#39;s niet geverifieerd en wordt hun gevraagd hun e-mail opnieuw te verifiëren via een koppeling die we naar het e-mailaccount verzenden. Alle nieuwe gebruikers van SSO slechts zullen hun e-mailadressen moeten verifiëren in de toekomst.
+
+* Kijk naar de [Januari 2024 de Versie van het Marketo Engage Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
