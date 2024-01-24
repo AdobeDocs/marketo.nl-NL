@@ -4,9 +4,9 @@ description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdo
 title: Eén aanmelding toevoegen aan een portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,15 @@ Als u een directoryservice hebt waarmee gebruikers worden geverifieerd, kunt u S
 
 Marketo functioneert als SAML Service Provider (SP) en is afhankelijk van een externe identiteitsprovider (IdP) om gebruikers te verifiëren.
 
-Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestigen. Wanneer een gebruiker de software van Marketo wil gebruiken, verzendt IdP dan een ondertekend bericht van SAML naar Marketo, handelend als SP. Dit bericht vouwt aan Marketo dat de gebruiker wordt gemachtigd om de software van Marketo te gebruiken.
+Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestigen. Wanneer een gebruiker de software van Marketo wenst te gebruiken, verzendt IdP dan een ondertekend bericht van SAML naar Marketo, handelend als SP. Dit bericht vouwt aan Marketo dat de gebruiker wordt gemachtigd om de software van Marketo te gebruiken.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
+
+>[!IMPORTANT]
+>
+>Dit is niet van toepassing op abonnementen op Adobe Identity. Voor abonnementen op Adobe Identity, wordt Single Sign On opstelling op het niveau van de Adobe of van de  in Adobe Admin Console. [Meer informatie hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -41,9 +45,9 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 ## Aanvullende opmerkingen {#additional-notes}
 
 * **Synchronisatietijd** - Voor een nieuwe gebruiker is er ongeveer een vertraging van 10 minuten voordat een eerste SSO-aanvraag wordt verwerkt.
-* **Levering gebruiker** - Gebruikers worden handmatig geleverd door Marketo.
+* **Gebruikersinrichting** - Gebruikers worden handmatig geleverd door Marketo.
 * **Toestemming** - Gebruikersmachtigingen blijven behouden in Marketo.
-* **OAuth-ondersteuning** - Marketo biedt momenteel geen ondersteuning voor OAuth.
+* **OAuth-ondersteuning** - Marketo ondersteunt momenteel geen OAuth.
 * **Automatische doorgave van gebruikers** - Wordt ook wel &#39;Just in Time Provisioning&#39; genoemd. Dit is wanneer de eerste SAML-aanmelding van een gebruiker in staat is de gebruiker te maken in elke webtoepassing waartoe hij of zij toegang heeft (bijvoorbeeld Marketo) en er geen handmatige beheeractie is vereist. Dit wordt momenteel niet ondersteund door Marketo.
 * **Versleuteling** - Marketo biedt momenteel geen ondersteuning voor codering.
 
@@ -67,7 +71,7 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
    >
    >Als u het niet ziet **[!UICONTROL Single Sign-On]** krachtens **[!UICONTROL Admin]**, contact [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Onder de **[!UICONTROL SAML Settings]** sectie, klikt u op **[!UICONTROL Edit]**.
+1. Onder de **[!UICONTROL SAML Settings]** sectie, klikken **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
@@ -89,7 +93,7 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 
 ## Instellingen voor omleiding van pagina bijwerken {#update-redirect-page-settings}
 
-1. Onder de **[!UICONTROL Redirect Pages]** sectie, klikt u op **[!UICONTROL Edit]**.
+1. Onder de **[!UICONTROL Redirect Pages]** sectie, klikken **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 

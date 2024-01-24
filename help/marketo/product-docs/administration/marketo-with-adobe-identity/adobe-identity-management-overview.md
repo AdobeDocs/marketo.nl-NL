@@ -3,9 +3,9 @@ description: Adobe Identity Management - Overzicht - Marketo Docs - de Documenta
 title: Overzicht van Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,15 @@ Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden ge√
 >[!NOTE]
 >
 >Marketo Support kan geen updates bieden voor de migratie naar Adobe IMS. Het accountteam van de Adobe zal de komende maanden het geschatte tijdpad bereiken. Zie voor meer informatie [dit artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+
+Voor abonnementen op Adobe-id wordt de Adobe Admin Console gebruikt voor gebruikersbeheer. Identiteitsgerelateerde concepten, zoals Single Sign On, worden ook beheerd in de Admin Console.
+
+* Meer informatie over de [Adobe Admin Console](https://helpx.adobe.com/nl/enterprise/using/admin-console.html){target="_blank"}.
+* Meer informatie over [uw organisatie voor Adoben instellen voor uw Marketo-abonnement](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
+>[!NOTE]
+>
+>Als u Single Sign On wilt implementeren en uw abonnement is aangemeld bij Adobe Identity zonder SSO ge√Ømplementeerd in de Adobe Org, dient u een ticket in bij [Marketo-ondersteuning](https://nation.marketo.com/){target="_blank"} en specificeer het onderwerp als &quot;Marketo op Admin Console, die SSO uitvoeren.&quot;
 
 ## Profielniveaus {#profile-levels}
 

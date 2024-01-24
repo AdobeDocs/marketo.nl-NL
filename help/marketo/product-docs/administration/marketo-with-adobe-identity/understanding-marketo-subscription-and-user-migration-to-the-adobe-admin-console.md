@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 094a11f9544e0dba75167de229d78e8ff50cf6e8
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '1189'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,11 @@ Systeembeheerders moeten mogelijk een aantal vereiste stappen uitvoeren voordat 
 
 * Als u al andere producten van de Adobe in uw Adobe Admin Console beheert, kan de Adobe uw toestemming vragen om gebruikers automatisch aan uw bestaande console te migreren. Klik op de knop Aan de slag in het e-mailbericht om naar de toestemmingspagina te navigeren.
 
-Er is momenteel geen wijziging in het gebruikersbeheer. Marketo Admins blijft gebruikers beheren in het gebied Marketo Admin en gebruikers blijven zich aanmelden met hun Marketo Identity totdat hun gebruikersmigratie is voltooid.
+Er is momenteel geen wijziging in het gebruikersbeheer. Hoewel Marketo-producten in de Admin Console worden weergegeven, blijven Marketo Admins gebruikers beheren in het gebied Marketo Admin en blijven gebruikers zich aanmelden met hun Marketo Identity totdat hun gebruikersmigratie is voltooid. Gedurende deze tijd kunnen Marketo producten niet in de Admin Console worden toegediend totdat de migratie van de gebruiker begint. Dit omvat de instantie van de Dynamic Chat verbonden aan het abonnement.
+
+>[!NOTE]
+>
+>Als u momenteel geen SSO gebruikt maar aan het uitvoeren van het overweegt, adviseren wij dit te doen alvorens de gebruikersmigratie voorkomt. Als u Single Sign On wilt implementeren en uw abonnement is aangemeld bij Adobe Identity zonder SSO geïmplementeerd in de Adobe Org, dient u een ticket in bij [Marketo-ondersteuning](https://nation.marketo.com/){target="_blank"} en specificeer het onderwerp als &quot;Marketo op Admin Console, die SSO uitvoeren.&quot;
 
 ### Gebruikersmigratie plannen {#schedule-user-migration}
 

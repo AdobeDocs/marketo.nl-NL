@@ -4,9 +4,9 @@ description: Marketo-gebruikers beheren - Marketo Docs - Productdocumentatie
 title: Marketo-gebruikers beheren
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '344'
 ht-degree: 2%
 
 ---
@@ -47,11 +47,11 @@ ht-degree: 2%
    >
    >Wanneer de vervaldatum aankomt, ontvangt de gebruiker een vervalmelding en is zijn account vergrendeld.
 
-1. Selecteer **[!UICONTROL Role]** van uw keuze en klik op **[!UICONTROL Next]**.
+1. Selecteer de **[!UICONTROL Role]** van uw keuze en klik op **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Breng indien nodig wijzigingen aan in het uitnodigingsbericht. Klikken **Seen**.
+1. Bewerk indien nodig het uitnodigingsbericht. Klikken **Seen**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -69,6 +69,10 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 ## Gebruikers verwijderen {#delete-users}
 
+>[!NOTE]
+>
+>Als de gebruiker u wilt schrappen ook een gebruiker van de Dynamic Chat is, moet u [verwijderen uit Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) in de Admin Console voordat u deze in het Marketo Engage kunt verwijderen.
+
 1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-marketo-users-10.png)
@@ -77,7 +81,7 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Selecteer de gebruiker die u wilt verwijderen en klik op **[!UICONTROL Delete User]**.
+1. Selecteer de gebruiker die u wilt verwijderen en klik **[!UICONTROL Delete User]**.
 
    ![](assets/managing-marketo-users-12.png)
 

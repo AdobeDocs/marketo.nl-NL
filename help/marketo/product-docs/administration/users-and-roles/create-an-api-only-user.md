@@ -4,9 +4,9 @@ description: Een gebruiker met alleen een API maken - Marketo Docs - Productdocu
 title: Alleen een API-gebruiker maken
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 6c2f3550f3e95bbfc14730d74bb2fbaa966255db
+source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 Als u met Marketo wilt integreren via de [REST API](https://developers.marketo.com/documentation/rest/){target="_blank"}, moet u een gebruiker met alleen de API maken. Zo gaat het.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->Als u alleen API-gebruikers maakt in een abonnement dat is aangesloten op Identiteit Adobe, voert u de volgende stappen uit [hier te vinden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Als u alleen API-gebruikers maakt in een abonnement dat is aangemeld bij Identiteit Adobe, zijn de stappen anders en [hier te vinden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
