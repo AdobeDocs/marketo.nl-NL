@@ -3,7 +3,7 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8921f2e7608dd1ec1240d39cfeae845f79ae5db2
+source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 1%
@@ -183,4 +183,4 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 
 * **E-mailverificatie voor gebruikers met alleen SSO**: Alleen SSO-gebruikers werden automatisch geverifieerd, zodat ze een ontoegankelijk e-mailaccount konden gebruiken. Vanaf medio januari worden alle bestaande gebruikers van alleen SSO&#39;s niet geverifieerd en wordt hun gevraagd hun e-mail opnieuw te verifiëren via een koppeling die we naar het e-mailaccount verzenden. Alle nieuwe gebruikers van SSO slechts zullen hun e-mailadressen moeten verifiëren in de toekomst.
 
-* Kijk naar de [Januari 2024 de Versie van het Marketo Engage Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* Kijk naar de [Januari 2024 de Versie van het Marketo Engage Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
