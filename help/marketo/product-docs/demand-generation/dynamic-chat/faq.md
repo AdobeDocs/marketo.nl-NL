@@ -3,7 +3,7 @@ description: Veelgestelde vragen over Dynamics Chat - Marketo Docs - Productdocu
 title: Veelgestelde vragen over Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 0%
@@ -89,9 +89,10 @@ Ja! [Meer informatie](https://nation.marketo.com/t5/product-blogs/using-dynamic-
 **Wat betekenen termen als &#39;Betrokken&#39; of &#39;Opgehaalde mensen&#39; precies?**
 
 Er worden meerdere termen gebruikt in Dynamic Chat. Voor veel van deze zaken zijn definities te vinden in de hulpartikelen op hun respectieve gebieden.
-* Analytische termen zoals &quot;Personen verkregen&quot; [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions).
-* Definities van Smart List Trigger/Filter [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions).
-* Beschrijvingen van de diverse kaarten van de Ontwerper van de Stroom [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards).
+
+* Analytische termen zoals &quot;Personen verkregen&quot; [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
+* Definities van Smart List Trigger/Filter [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Beschrijvingen van de diverse kaarten van de Ontwerper van de Stroom [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Kan ik Dynamic Chat zonder Marketo Engage gebruiken?**
 

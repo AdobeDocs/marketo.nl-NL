@@ -3,7 +3,7 @@ description: Analyse - Marketo Docs - Productdocumentatie
 title: Analyse
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
+source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -54,12 +54,12 @@ Dialoogvensters weergeven, Gestromen van gesprekken of alles. Selecteer een voor
 <thead>
 <tbody>
   <tr>
-    <td><b>Voltooid</b></td>
+    <td style="width:25%"><b>Voltooid</b></td>
     <td>Een voltooide gebeurtenis komt voor wanneer een bezoeker de laatste herinnering in een gesprek bereikt <i>of</i> wanneer een bezoeker alle inhoud in een gesprek uitpakt.
     <br>Eén voltooide gebeurtenis per bezoeker, per sessie.</td>
   </tr>
   <tr>
-    <td><b>Verworven personen</b></td>
+    <td style="width:25%"><b>Opgehaalde personen</b></td>
     <td>Vindt plaats wanneer een bezoeker zijn e-mailadres verzendt.
     <br>Eén aanschaf per bezoeker, per sessie.</td>
   </tr>
