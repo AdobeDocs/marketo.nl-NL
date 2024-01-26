@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 40daf5e09aaf66502b1e7e8754b9a374ff0a9fa9
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1108'
 ht-degree: 0%
 
 ---
@@ -24,36 +24,36 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
 
 <table>
  <tr>
-  <td><strong>Bericht</strong></td>
+  <td style="width:25%"><strong>Bericht</strong></td>
   <td>Wordt gebruikt wanneer u een instructie wilt maken zonder dat er een reactie nodig is (bijvoorbeeld: "Hallo! Alle items zijn vandaag 25% korting met code SAVE25").
 </td>
  </tr>
  <tr>
-  <td><strong>Vraag</strong></td>
+  <td style="width:25%"><strong>Vraag</strong></td>
   <td>Wordt gebruikt wanneer u een meerkeuzevraag wilt stellen, waarvoor u de beschikbare antwoorden kunt opgeven (bijvoorbeeld: Welk type voertuig bent u geïnteresseerd? Reacties = SUV, Compact, Truck, enz.).</td>
  </tr>
  <tr>
-  <td><strong>Document</strong></td>
+  <td style="width:25%"><strong>Document</strong></td>
   <td>Hiermee kunt u PDF-documenten insluiten in dialoogvensters en de activiteit van bezoekers in de documentbetrokkenheid bijhouden (hoeveel pagina's zijn weergegeven, of het document is gedownload en/of welke zoektermen zijn gebruikt).</td>
  </tr>
  <tr>
-  <td><strong>Gegevens vastleggen</strong></td>
+  <td style="width:25%"><strong>Gegevens vastleggen</strong></td>
   <td>Wordt gebruikt wanneer u gegevens wilt verzamelen (bijvoorbeeld naam, e-mailadres, functie, enz.). Nadat u hebt bepaald op welk veld de reactie moet worden toegeschreven, kunt u kiezen of de bezoeker zijn reactie laat typen of opties in een keuzelijst selecteert die u bepaalt (tip: de laatste kan helpen met de schoonheid van de database). U kunt er ook voor kiezen om de gegevens die u momenteel voor hen hebt vermeld, te overschrijven met hun antwoord, of de vraag volledig over te slaan als u al een waarde voor hen hebt.</td>
  </tr>
  <tr>
-  <td><strong>Vergaderingreservering</strong></td>
+  <td style="width:25%"><strong>Vergaderingreservering</strong></td>
   <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels. Klikken <b>Kenmerk toevoegen</b> als u de naam of het e-mailadres van de agent wilt vastleggen en dit aan de persoonlijke record van de bezoeker van de chat wilt toewijzen voor toekomstig opvragen (tip: maak een <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepast veld</a> om de informatie van de agent aan zoals in kaart te brengen om een standaardgebied van het Marketo Engage niet te beschrijven).</td>
  </tr>
  <tr>
-  <td><strong>Doel</strong></td>
+  <td style="width:25%"><strong>Doel</strong></td>
   <td>Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: als het verzamelen van de e-mail van de bezoeker uw doel is, plaats de Goal kaart onmiddellijk na Info vangt in de stroom).</td>
  </tr>
  <tr>
-  <td><strong>Handeling</strong></td>
+  <td style="width:25%"><strong>Handeling</strong></td>
   <td>Vergelijkbaar met verborgen velden in een formulier, kunt u met de actiekaart elk lead- of bedrijfskenmerk vullen (met een <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">gegevenstype tekenreeks</a>) met impliciete waarden die u wilt vastleggen op basis van een hoofdrecord. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.</td>
  </tr>
  <tr>
-  <td><strong>Live Chat</strong></td>
+  <td style="width:25%"><strong>Live Chat</strong></td>
   <td>Gebruik de live chatkaart wanneer bezoekers met een live agent willen chatten.
   <li>De live chatkaart moet de laatste kaart in de vertakking zijn.</li>
   <li>Bezoekers worden naar een agent geleid zodra ze deze kaart in de stream bereiken. Het wordt daarom aanbevolen om aan deze kaart een vraagkaart toe te voegen waarin bezoekers wordt gevraagd of ze met een liveagent willen chatten.</li></td>
@@ -66,23 +66,23 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
 
 <table>
  <tr>
-  <td><img src="assets/stream-designer-1.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-1.png"></td>
   <td>Inzoomen, grotere kaarten maken</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-2.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-2.png"></td>
   <td>Uitzoomen, kleinere kaarten maken</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-3.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-3.png"></td>
   <td>Hiermee opent u een venster waarin u uw chat kunt testen (druk op dezelfde knop om te sluiten)</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-4.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-4.png"></td>
   <td>Hiermee kunt u zoeken naar kaarttypen of inhoud in uw stream</td>
  </tr>
  <tr>
-  <td><img src="assets/stream-designer-5.png"></td>
+  <td style="width:10%"><img src="assets/stream-designer-5.png"></td>
   <td>Hiermee rangschikt u alle kaarten in uw stream</td>
  </tr>
 </table>
@@ -161,19 +161,19 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
 
    <table>
     <tr>
-     <td><strong>Type</strong></td>
+     <td style="width:30%"><strong>Type</strong></td>
      <td>Het type informatie dat u wilt vastleggen: Telefoon, Tekst, E-mail.</td>
     </tr>
     <tr>
-     <td><strong>Chatbotbericht</strong></td>
+     <td style="width:30%"><strong>Chatbotbericht</strong></td>
      <td>Het bericht dat de bezoeker ziet hen ertoe aanzetten om de info te verstrekken.</td>
     </tr>
     <tr>
-     <td><strong>Plaatsaanduiding</strong></td>
+     <td style="width:30%"><strong>Plaatsaanduiding</strong></td>
      <td>Voorbeeldtekst waarmee de bezoeker kan zien wat er moet worden ingevoerd.</td>
     </tr>
     <tr>
-     <td><strong>Reactie toewijzen aan kenmerk</strong></td>
+     <td style="width:30%"><strong>Reactie toewijzen aan kenmerk</strong></td>
      <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Person-record in uw Marketo-abonnement.</td>
     </tr>
    </table>

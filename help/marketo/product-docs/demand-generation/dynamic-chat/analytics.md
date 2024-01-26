@@ -2,10 +2,10 @@
 description: Analyse - Marketo Docs - Productdocumentatie
 title: Analyse
 feature: Dynamic Chat
-exl-id: 8a698f2f-fa1b-4d0f-835c-8d65101c36fb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 8130a970-4cf1-4bf6-9403-998460269843
+source-git-commit: b1101617ec670d42aed8c35044b656ba5fa0f9f5
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -47,3 +47,21 @@ Bekijk hoeveel gesprekken uw levende verkoopagenten hadden en welke teams het be
 Dialoogvensters weergeven, Gestromen van gesprekken of alles. Selecteer een voorinstelling of een aangepast datumbereik. Exporteer de resultaten met een klik op een knop.
 
 ![](assets/analytics-7.png)
+
+## Definities {#definitions}
+
+<table>
+<thead>
+<tbody>
+  <tr>
+    <td><b>Voltooid</b></td>
+    <td>Een voltooide gebeurtenis komt voor wanneer een bezoeker de laatste herinnering in een gesprek bereikt <i>of</i> wanneer een bezoeker alle inhoud in een gesprek uitpakt.
+    <br>Eén voltooide gebeurtenis per bezoeker, per sessie.</td>
+  </tr>
+  <tr>
+    <td><b>Verworven personen</b></td>
+    <td>Vindt plaats wanneer een bezoeker zijn e-mailadres verzendt.
+    <br>Eén aanschaf per bezoeker, per sessie.</td>
+  </tr>
+</tbody>
+</table>
