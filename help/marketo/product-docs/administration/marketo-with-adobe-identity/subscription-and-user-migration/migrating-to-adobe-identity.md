@@ -5,28 +5,28 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 368e857c276e4dc19599b5169e82f578ce9becb0
+source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
 workflow-type: tm+mt
-source-wordcount: '2270'
+source-wordcount: '2249'
 ht-degree: 0%
 
 ---
 
 # Migreren naar Adobe-id {#migrating-to-adobe-identity}
 
-Wanneer de Adobe de gebruikersmigratie van een abonnement plant, zullen de productbeheerders van het Marketo Engage toegang tot de Console van de Migratie krijgen, die in het navigatiemenu in het Admin gebied onder het onderwerp van de Integratie kan worden gevonden.
+Wanneer de Adobe de gebruikersmigratie van een abonnement plant, krijgen de de productbeheerders van het Marketo Engage toegang tot de Console van de Migratie, die in het navigatiemenu in het Admin- gebied onder Integratie kan worden gevonden.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-1.png)
 
 ## Pre-migratie {#pre-migration}
 
 Voordat de migratie begint, kan een beheerder de begindatum voor de gebruikersmigratie voor zijn abonnement wijzigen door naar het scherm Pre-Migration in de migratieconsole te navigeren. Als u de datum wilt wijzigen, klikt de beheerder op de knop **Bewerken** knop.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-2.png)
 
 De beheerder kan een datum kiezen tussen 8 en 30 dagen in de toekomst. Wanneer een datum is geselecteerd, moet de beheerder op **Opslaan** om de wijziging aan te brengen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-3.png)
 
 >[!NOTE]
 >
@@ -40,17 +40,17 @@ Adobe migreert automatisch alle Marketo-beheerders eerst met geverifieerde e-mai
 
 **E-mail Marketo-productbeheerder**
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-4.png)
 
 **Marketo Entitlement Email**
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-5.png)
 
 **Als uw Marketo-abonnement minder dan 75 gebruikers heeft**, zal de Adobe automatisch de rest van uw gebruikers migreren. Deze workflow is bedoeld om het hoogste niveau van automatisering te bieden en er is geen actie vereist om de migratie uit te voeren. Na het voltooien van de migratie wordt de Marketo Migration Console niet meer weergegeven in het Marketo Admin-navigatiegebied en kunnen alle gebruikers Marketo openen via een Adobe ID.
 
 **Als uw Marketo-abonnement 75 of meer gebruikers heeft**, Marketo-productbeheerders krijgen toegang tot het Self-Service User Migration-hulpprogramma van de migratieconsole wanneer de migratie naar gebruikers begint en worden via banner gewaarschuwd wanneer ze zich aanmelden op de pagina Mijn Marketo. De beheerder is verantwoordelijk voor het voltooien van de gebruikersmigratie met het Self-Service User Migration-hulpprogramma.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-6.png)
 
 ## Marketo Self-Service-gebruikersmigratie {#marketo-self-service-user-migration}
 
@@ -63,7 +63,7 @@ Het Marketo Self-Service User Migration Console-hulpprogramma bestaat uit twee t
 
 Het tabblad Migratiestatus bevat algemene maatstaven voor de voortgang van de e-mailverificatie van gebruikers, de migratie en activering van gebruikers en de voltooiing van de abonnementmigratie.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-7.png)
 
 Boven aan de Migratiestatus worden het verlopen van de abonnementmigratie en de knop voor het verlengen van de vervaldatum weergegeven. Meer informatie over het verlopen van de migratie vindt u in de [Sectie Verlopen gebruikersmigratie](#user-migration-expiration).
 
@@ -99,11 +99,11 @@ In het gedeelte Migratiebevestiging moet een beheerder bevestigen dat de migrati
 
 Wanneer alle gebruikers in het abonnement zijn aangemeld (gemigreerd of overgeslagen), wordt de knop &#39;Volledige migratie&#39; weergegeven.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-8.png)
 
-De beheerder die migratie uitvoert, moet de migratiebevestiging voltooien door op de knop **Volledige migratie** knop.
+De beheerder die migratie uitvoert, moet de migratiebevestiging voltooien door op de knop **Volledige migratie** knop. Ze worden gevraagd **Bevestigen**.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-9.png)
 
 Nadat de voltooiing van de gebruikersmigratie is bevestigd, wordt de migratieconsole verwijderd uit het navigatiemenu Admin.
 
@@ -111,13 +111,13 @@ Nadat de voltooiing van de gebruikersmigratie is bevestigd, wordt de migratiecon
 
 Adobe vereist dat klanten binnen 30 dagen de migratie voor eigen gebruik voltooien. Beheerders worden niet geblokkeerd voor het migreren van gebruikers of het voltooien van de migratie als de vervaldatum verstreken is. Ze kunnen echter alleen op verzoek gebruikers migreren. Als een beheerder meer tijd nodig heeft, kan hij of zij de vervaldatum van het abonnement verlengen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-10.png)
 
-Klik op de knop **Verlopen verlengen** de datum wordt bijgewerkt naar een week later. Een beheerder kan de looptijd tot drie keer verlengen.
+Als u op de knop **Verlopen verlengen** de datum wordt bijgewerkt naar een week later. Een beheerder kan de looptijd tot drie keer verlengen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-11.png)
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-12.png)
 
 De Adobe zal uitreiken als u de migratie niet voltooit tegen de vervaldatum.
 
@@ -133,17 +133,17 @@ Beheerders kunnen kiezen uit:
 * De gebruikersmigratie voor een bepaalde datum plannen via de knop &#39;Migratie plannen&#39;
 * Alle in aanmerking komende gebruikers naar behoefte migreren (geen gebruikersselectie nodig) via de knop Alle gebruikers migreren
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-13.png)
 
 **E-mail verifiëren**
 
 E-mailverificatie is vereist voor het migreren van een gebruiker naar een Adobe ID. Als er gebruikers zijn die hun e-mailadres niet hebben geverifieerd en die moeten worden gemigreerd, kan de beheerder de verificatie-e-mail activeren om opnieuw naar de gebruiker te worden verzonden. Als u een niet-geverifieerde gebruiker selecteert, wordt op de knop E-mail controleren geklikt.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-14.png)
 
 Wanneer de beheerder op de knop **E-mail verifiëren** ontvangen ze een melding dat het e-mailbericht is verzonden.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-15.png)
 
 **Gebruikersmigratie overslaan en ongedaan maken**
 
@@ -155,13 +155,13 @@ Tijdens gebruikersmigratie moeten alle gebruikers worden gemigreerd of overgesla
 
 Als u een gebruiker wilt overslaan, kan de beheerder de gewenste gebruiker(s) selecteren. Klik op de knop &#39;Migratie overslaan&#39;. Als u op de knop **Migratie overslaan** wordt de pagina vernieuwd en worden de verificatiestatus en migratiestatus van de geselecteerde gebruiker bijgewerkt naar &#39;Overgeslagen&#39;.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-16.png)
 
 Een beheerder kan een eerder overgeslagen gebruiker ongedaan maken, als het wordt bepaald dat de gebruiker moet worden gemigreerd.
 
 Als u het overslaan van een gebruiker ongedaan wilt maken, kan de beheerder de gewenste gebruiker selecteren. Klik op de knop &#39;Migratie ongedaan maken&#39;. Als u op de knop **Migratie ongedaan maken** de pagina wordt vernieuwd.  De verificatiestatus van de geselecteerde gebruiker wordt bijgewerkt naar de huidige status &#39;Verified&#39; of &#39;Unverify&#39; en de migratiestatus van de gebruiker wordt bijgewerkt naar &#39;Not Started&#39;.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-17.png)
 
 >[!NOTE]
 >
@@ -175,17 +175,17 @@ Een beheerder kan bijvoorbeeld een groep &#39;machtsgebruikers&#39; selecteren d
 
 Alle gebruikersmigraties vinden gelijktijdig plaats en moeten binnen zestig seconden met succes worden voltooid. Terwijl de gebruikersmigratie voor een specifieke gebruiker plaatsvindt, zou de gebruiker toegang tot maximaal 1 minuut kunnen verliezen, en dat is slechts als de gebruiker in de toepassing wordt geregistreerd. Na voltooiing van de gebruikersmigratie ontvangt de gebruiker een e-mail over hoe hij zich bij Marketo Engage met een Adobe-id kan aanmelden. De gebruiker moet de uitnodiging accepteren via de knopkoppeling in de e-mail. Nadat de uitnodiging is geaccepteerd, moet de gebruiker zich aanmelden met een Adobe ID. Instructies voor het aanmelden bij Marketo Engage met een Adobe ID [hier te vinden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-18.png)
 
 De migratie van gebruikers wordt onafhankelijk verwerkt. Als de migratie van gebruikers mislukt, wordt de migratie van andere gebruikers voortgezet. Als er een fout optreedt bij de gebruikersmigratie, is er geen actie vereist door een beheerder. De beheerder zal een e-mailbericht over de fout worden verzonden en gealarmeerd dat de Adobe werkt om de kwestie onmiddellijk op te lossen. Als de migratie van een gebruiker mislukt en die gebruiker is aangemeld bij het Marketo Engage, kan de gebruiker de toegang tot de computer gedurende maximaal twee minuten verliezen terwijl er zich migratiepogingen voordoen. Als de migratie van een gebruiker mislukt, kan de gebruiker het Marketo Engage blijven benaderen met zijn Marketo-identiteit totdat hij of zij een e-mail ontvangt met de melding dat de migratie is voltooid en dat hij of zij is uitgenodigd om zich aan te melden bij een Adobe ID.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-19.png)
 
 **Nu migreren**
 
 Een beheerder kan een of meer gebruikers selecteren om op verzoek te migreren. Dit zal de migratie van de gebruikers onmiddellijk teweegbrengen. Als u een of meer gebruikers wilt migreren, kan de beheerder de gewenste gebruiker(s) selecteren en wordt op de knop &#39;Nu migreren&#39; geklikt.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-20.png)
 
 >[!NOTE]
 >
@@ -193,13 +193,13 @@ SCREENSHOT
 
 Als u op de knop **Nu migreren** wordt de beheerder gevraagd de migratie van de geselecteerde gebruiker(s) te bevestigen. Zodra de beheerder bevestigt, zullen de gebruikersmigraties beginnen verwerking zo spoedig mogelijk.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-21.png)
 
 **Migratie plannen**
 
 Een beheerder kan een of meer gebruikers selecteren om de migratie op een latere datum te plannen. Om migratie voor één of meerdere gebruikers te plannen, selecteert de beheerder de gewenste gebruiker(s) en de knoop van de Migratie van het Programma zal klikbaar worden.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-22.png)
 
 >[!NOTE]
 >
@@ -207,7 +207,7 @@ SCREENSHOT
 
 Als u op de knop **Migratie plannen** wordt de beheerder gevraagd de gewenste migratiedatum van de geselecteerde gebruiker(s) te selecteren. De beheerder kan alleen datums selecteren vóór de migratiedatum van het abonnement. Wanneer de beheerder bevestigt, zal (zullen) de gebruikersmigratie(s) gepland zijn om met verwerking op de geselecteerde datum te beginnen.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-23.png)
 
 >[!NOTE]
 >
@@ -217,8 +217,8 @@ SCREENSHOT
 
 Een beheerder kan alle in aanmerking komende gebruikers in een abonnement op elk gewenst moment migreren. Dit zal de migratie van de in aanmerking komende gebruikers onmiddellijk in gang zetten. In aanmerking komende gebruikers zijn gebruikers met geverifieerde e-mails die nog niet zijn gemigreerd.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-24.png)
 
-Als u op de knop **Alle gebruikers migreren** wordt de beheerder gevraagd de migratie van alle in aanmerking komende gebruikers te bevestigen. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
+Als u op de knop **Alle gebruikers migreren** knop, wordt de beheerder gevraagd **Bevestigen** migratie van alle in aanmerking komende gebruikers. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
 
-SCREENSHOT
+![](assets/migrating-to-adobe-identity-25.png)
