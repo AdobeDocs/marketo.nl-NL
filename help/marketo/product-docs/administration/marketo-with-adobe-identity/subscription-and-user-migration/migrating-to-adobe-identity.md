@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 9e77e49507fb14a6eee555850540cf12ae2dab8c
+source-git-commit: b5e10b2820c3091a648510e131e16c03ffe9c564
 workflow-type: tm+mt
 source-wordcount: '2249'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Daarna, zijn er drie secties van de Status die aan admin worden getoond.
 * **Migratie en activering van gebruikers**: migratie van gebruikers en activeringsstatus (migratie en recht op het product van de Marketo Engage) van de gebruikers in het abonnement.
 * **Migratiebevestiging**: migratie voltooid status van het abonnement.
 
-**E-mailverificatie van gebruiker**
+#### E-mailverificatie van gebruiker {#user-email-verification}
 
 In het gedeelte E-mailverificatie van gebruiker kan een beheerder de huidige status van e-mailverificatie voor de gebruikers in het abonnement vinden, voordat er wordt overgeschakeld naar Identiteit Adobe.
 
@@ -87,13 +87,13 @@ De verificatie-e-mail kan opnieuw worden verzonden door een beheerder op het tab
 >
 >Als een gebruiker van het Marketo Engage zijn e-mailadres niet verifieert, kan hij of zij niet naar een Adobe ID worden gemigreerd en verliest hij of zij de toegang tot het Marketo-abonnement nadat de migratie is voltooid. Om toegang te krijgen, moet een Marketo-productbeheerder deze als nieuwe gebruiker toevoegen.
 
-**Migratie en activering van gebruikers**
+#### Migratie en activering van gebruikers {#user-migration-and-activation}
 
 In de sectie Gebruikersmigratie en -activering kan een beheerder de huidige status van de totale gebruikersmigratie en de machtiging voor de Adobe Identity Management System vinden.
 
 Een beheerder kan het percentage gebruikers in hun abonnement bekijken dat naar een Adobe ID is gemigreerd of als Overgeslagen is gemarkeerd. De status wordt gerapporteerd over de status van de migratiestatus van alle gebruikers naar een Adobe ID in het abonnement, of wordt gemarkeerd als Overgeslagen en wordt niet gemigreerd. Wanneer gebruikers worden gemigreerd en recht hebben op Marketo Engage of worden overgeslagen, wordt deze status bijgewerkt.
 
-**Migratiebevestiging**
+#### Migratiebevestiging {#migration-confirmation}
 
 In het gedeelte Migratiebevestiging moet een beheerder bevestigen dat de migratie van gebruikers is voltooid voor het abonnement.
 
