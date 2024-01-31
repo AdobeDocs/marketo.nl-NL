@@ -3,9 +3,9 @@ description: E-mailverificatie - Marketo Docs - Productdocumentatie
 title: E-mailverificatie
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: f4d2e7acaaf1ad59d716c831c7b1a2ed340a5a24
+source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Marketo Engage gaat door met de introductie van e-mailverificatie ter voorbereid
 ## Uitnodiging gebruiker {#user-invite}
 
 Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch geverifieerd zodra hij op de uitnodigingskoppeling klikt.
+
+>[!IMPORTANT]
+>
+>De uitzondering op het bovenstaande is dat Admins in een SSO-abonnement een nieuwe gebruikersuitnodiging ontvangt, maar niet-Admins niet. Niet-beheerders moeten het e-mailverificatieproces doorlopen om migratie van hun gebruikersrecords te garanderen. Een beheerder kan de koppeling voor e-mailverificatie verzenden door op de knop **E-mailverificatie opnieuw verzenden** naast hun gebruikersnaam.
 
 ## Verificatiebericht {#verification-email}
 
