@@ -5,9 +5,9 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
+source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
 workflow-type: tm+mt
-source-wordcount: '1674'
+source-wordcount: '1644'
 ht-degree: 0%
 
 ---
@@ -69,54 +69,54 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 * Schakel de herinnering voor de opname in de voorkeuren voor Ruimte in als u de sessie wilt opnemen. De herinnering verschijnt 5 minuten in de vergadering als de opname niet is gestart.
 
 * Schakel het gebied Gastheer en Presentator in en stel het in met relevante pods. Dit gebied is alleen zichtbaar voor gastheren en presentatoren en kan worden gebruikt voor samenwerking in het achterstadium. Hier kunt u enkele pods opnemen:
-   * Betrokkenheidsdashboard om de betrokkenheid van deelnemers in real-time te controleren. [Klik hier](https://www.youtube.com/watch?v=gf5fu0JK9Hk) voor een korte video over het gebruik van het dashboard Betrokkenheid.
+   * Betrokkenheidsdashboard om de betrokkenheid van deelnemers in real-time te controleren. [Klik hier](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} voor een korte video over het gebruik van het dashboard Betrokkenheid.
    * Chatpod om persoonlijke gesprekken tussen leden van presentatieteams toe te staan.
    * Notitiepod om herinneringsberichten, vragen voor de presentator of standaardvraagantwoorden te posten die u kunt kopiëren en plakken voor snelle antwoorden op veelvoorkomende vragen.
 
-HIER GESTOPT BEWERKEN
+* Aangepaste pods zijn apps van derden die kunnen worden gebruikt om de functionaliteit van een Adobe Connect-ruimte uit te breiden. Aangepaste pods kunnen worden gedownload van `apps.adobeconnect.com` als .pod- of .zip-bestanden die vervolgens kunnen worden gedeeld in de pod Delen.
+   * Sommige populaire aangepaste pods zijn Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
+   * Klik hier voor een korte video over het gebruik van aangepaste pods.
 
-* Aangepaste pods zijn apps van derden die kunnen worden gebruikt om de functionaliteit van een Adobe Connect-ruimte uit te breiden. U kunt aangepaste pods downloaden van apps.adobeconnect.com als pod- of zip-bestanden, die u vervolgens kunt delen in de pod Delen.
+**Privacy: controleer de onderstaande instellingen om de deelnemersgegevens vertrouwelijk te houden:**
 
-o Sommige populaire aangepaste pods zijn Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler. o Klik hier voor een korte video over het gebruik van aangepaste pods.
+* **Activiteitenteller**: Activiteitenticker geeft informatie weer over wie momenteel spreekt en geeft een waarschuwing wanneer aanwezigen de ruimte betreden of verlaten. U kunt de activiteitsmarkering verwijderen door Activiteitenmarkering tonen uit te schakelen onder de sectie &quot;Menubalk&quot; in de voorkeuren voor ruimten.
 
-* Privacy: controleer de onderstaande instellingen om de deelnemersgegevens vertrouwelijk te houden:
+* **Vragen en antwoorden Pod**: De naam van de deelnemer die de vraag heeft ingediend en de naam van de gastheer/presentator die heeft geantwoord, kunnen beide worden verborgen. Dit kan worden bereikt door de privacyopties uit te schakelen onder de sectie &quot;Pod Vragen en antwoorden&quot; in de voorkeuren voor Ruimte.
 
-o Activity Ticker: Activiteitenticker geeft informatie weer over wie op dit moment spreekt en geeft waarschuwingen over deelnemers die de ruimte betreden of verlaten. U kunt de activiteitsmarkering verwijderen door Activiteitenmarkering tonen uit te schakelen onder de sectie &#39;Menubalk&#39; in de voorkeuren voor ruimten.
+* **Deelvenster Chatten**: Chatdeelvenster is een chatgebied dat geen deel uitmaakt van sessieopnamen. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. [Klik hier](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} voor meer informatie over het gebruik van het deelvenster Chat.
 
-o Pod Vragen en antwoorden: De naam van de deelnemer die de vraag heeft ingediend en de naam van de gastheer/presentator die de vraag heeft beantwoord, kunnen beide worden verborgen. Dit kan worden bereikt door de privacyopties uit te schakelen onder de sectie &#39;Pod Vragen en antwoorden&#39; in de voorkeuren voor Ruimte.
+* **Privéchat**: Schakel privéchat uit om te voorkomen dat deelnemers een andere deelnemer kunnen pingelen. Dit kan worden bereikt door de optie &quot;Deelnemers toestaan privéchatten&quot; uit te schakelen onder de sectie &quot;Chat&quot; in de voorkeuren voor Ruimte.
 
-o Chatdeelvenster: het chatvenster is een chatgebied dat geen deel uitmaakt van de sessieopnamen. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. Klik hier voor meer informatie over het gebruik van het deelvenster Chat.
+* **Pod aanwezigen**: Verplaats de pod Deelnemers naar het gebied Gastheer en Presentator.
 
-o Privéchat: Schakel privéchat uit om te voorkomen dat deelnemers een andere deelnemer kunnen pingelen. Dit kan worden bereikt door de optie Deelnemers toestaan privé te chatten uit te schakelen onder de sectie Chat in de voorkeuren voor ruimten.
+## Aflevering {#delivery}
 
-o Pod Deelnemers: verplaats de pod Deelnemers naar de ruimte Gastheer en Presentator.
+* Voer een paar droge looppas uit om uw audio/videoopstelling te testen en met Adobe Connect vertrouwd te worden als u het niet eerder hebt gebruikt. Vergeet niet ook uw presentatoren en co-hosts op te nemen wanneer u een repetitie uitvoert.
 
-B. Levering
+* Vraag gastheren en presentatoren om ten minste 30 minuten voor de begintijd bij de klant te zijn en zorg ervoor dat alles correct werkt.
+   * Bepaal wie de pods Vragen en antwoorden en Chatten zal matigen.
+   * Vul de pods Vragen en antwoorden en Chatten met eventuele zaadvragen/chatberichten.
 
-* Voer een paar droge tests uit om de audio-video-instelling te testen en om Adobe Connect te leren kennen als u deze nog niet eerder hebt gebruikt. Vergeet niet ook uw presentatoren en co-hosts op te nemen wanneer u een repetitie uitvoert.
+* Zorg dat programma&#39;s die u deelt, zijn geopend voor het juiste venster en klaar om te demonstreren. U kunt programma&#39;s niet starten en aanmelden tijdens het delen van schermen.
 
-* Vraag gastheren en presentatoren om ten minste 30 minuten voor de begintijd aan te komen en zorg ervoor dat alles correct werkt en dat de uiteindelijke coördinatie plaatsvindt.
+* Deelnemers kunnen de ruimte 15 minuten voor de geplande start betreden. Schakel 15 minuten voor de geplande start over naar de lobby-indeling voor deelnemers die vroeg aankomen.
 
-o Bepaal wie de pods Vragen en antwoorden en Chat zal matigen.
+* Gebruik de host en het Presenter-gebied als een backstage-gebied voor persoonlijke coördinatie. [Klik hier](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om een korte video te bekijken over de Gastheer en het gebied van de Presentator.
 
-o Vul de pods Vragen en antwoorden en Chatten met alle vragen en chatten.
-
-* Zorg dat programma&#39;s die u deelt, voor het juiste venster zijn geopend en klaar zijn om te demonstreren. Zorg dat u zich niet aanmeldt bij programma&#39;s tijdens het delen van schermen.
-
-* Deelnemers kunnen de ruimte 15 minuten voor de geplande start betreden. Schakel 15 minuten voor de geplande start over naar de lobby-indeling voor deelnemers die vroeg aankomen. ・ Gebruik de host en het Presenter-gebied als een backstage-gebied om privé te coördineren. Klik hier voor een korte video in het gebied Host en Presenter. ・ Gebruik de modus Voorbereiden om wijzigingen op het laatste moment persoonlijk aan te brengen. Klik hier voor een korte video over de voorbereidingsmodus.
+* Gebruik de modus Voorbereiden om wijzigingen op het laatste moment persoonlijk aan te brengen. [Klik hier](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} om een korte video te bekijken in de voorbereidingsmodus.
 
 * Gebruik het dashboard Betrokkenheid om een tab op deelnemersniveau te houden. Ga naar een opiniepeiling, stel een vraag die u accepteert/niet deelt, voeg een vraag toe in de chatpod of gebruik de aangepaste Word Cloud-pod om reacties van deelnemers te vragen en de betrokkenheidsniveaus te verhogen.
 
-* Houd een tab op de presentatorchat (chatpod in het gebied Gastheer en Presentator) om uw team voortdurend te coördineren.
+* Houd een tab op de presentatorchat (chatpod in het gebied Gastheer en Presentator) om voortdurend te coördineren met uw team.
 
-C. Post Delivery — Nilesh
+## Nalevering {#post-delivery}
 
-* Nadat het webinar is afgeleverd, worden de gegevens over de betrokkenheid en de registratie in Marketo over het algemeen binnen een periode van 1 tot 2 uur beschikbaar gesteld. Valideer de opname en bevestig of de volledige webinar video-uitvoer correct is vastgelegd, zodat hetzelfde kan worden gebruikt om met het publiek te delen en webinar-gegevens op aanvraag bij te houden.
+* Nadat het webinar is afgeleverd, worden de betrokkenheidsgegevens samen met de opname in het Marketo Engage over het algemeen binnen 1 tot 2 uur beschikbaar gesteld. Valideer de opname en bevestig of de volledige webinar video-uitvoer correct is vastgelegd, zodat hetzelfde kan worden gebruikt om met het publiek te delen en webinar-gegevens op aanvraag bij te houden.
 
-* Creëer verfrisscampagnes om de leiders van de aanwezige verder te kwalificeren die op hun betrokkenheid worden gebaseerd gebruikend de Interactieve filters en trekkers Webinars en u hebt Dank u Ontbroken u Campagnes om meer informatie van de gebeurtenis te verstrekken, verbinding, gebeurtenisstatistieken en toekomstige gebeurtenissen registreren om te dringen op niet-toont om met de organisatie terug te verbinden. Activiteiten voor No-Show die de opname bezoeken kunnen als deel van Webinars op bestelling worden gevolgd en verdere verduurzamingscampagnes kunnen voor No-Show door de filters en de trekkers van Webinars van de Op bestelling worden gecreeerd.
+* Creeer de Campagnes van de Nurtuur om de deelnemerleiders verder te kwalificeren die op hun overeenkomst gebruikend Interactieve filters/trekkers Webinars worden gebaseerd en hebben Dank u/Gemiste Campagnes u om meer informatie van de gebeurtenis, de registratiekoppeling, gebeurtenisstatistieken, en toekomstige gebeurtenissen hebben te verstrekken om ertoe aan te sporen geen-toont om met de organisatie terug te verbinden. Activiteiten voor No-Show die de opname bezoeken kunnen als deel van Webinars op bestelling worden gevolgd en verdere campagnes van de Nurtuur kunnen voor geen-toont door de filters/trekkers van Webinars op bestelling worden gecreeerd.
 
 * Gebruik de gegevens van het activiteitenlog voor elk lid op het tabblad Leden om te kijken naar de betrokkenheidsactiviteiten die door verschillende deelnemers tijdens het webinar worden uitgevoerd.
 
 * Download de opname en publiceer deze naar verschillende bestemmingspagina&#39;s, microsites of portalen voor een groter publiek.
 
-* Gebruik het dashboard om een bijeengevoegde mening van de webinar prestaties in termen van de Status van het Programma, de distributie van de Aanwezigheid, opiniereacties evenals dossierdownloads en verbindingskliks te verkrijgen. Identificeer de positieve en verbeteringsgebieden tijdens het webinar en zorg ervoor dat de lessen kunnen worden gebruikt in het volgende webinar dat zal worden uitgevoerd.
+* Gebruik het dashboard om een bijeengevoegde mening van de webinar prestaties in termen van de Status van het Programma, de distributie van de Aanwezigheid, opiniereacties, dossierdownloads, en verbindingskliks te verkrijgen. Identificeer de positieve en verbeteringsgebieden tijdens het webinar en zorg ervoor de lessen in volgende webinar kunnen worden gebruikt.
