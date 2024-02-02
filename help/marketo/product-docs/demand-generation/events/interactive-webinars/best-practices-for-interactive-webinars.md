@@ -5,9 +5,9 @@ exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
+source-git-commit: 0d3a6b025e2e0205a309eaa376ae5a265dce0455
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1674'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * Gebruik Adobe Connect-ruimten opnieuw als u dezelfde inhoud later opnieuw levert. Navigeren naar **Inhoud uit pods wissen** in het menu Pods om de chatgeschiedenis te wissen en de resultaten van de opiniepeiling/quiz van de laatste sessie. Hiermee wordt alleen de inhoud van de ruimte gewist. Alle gegevens van vorige sessies blijven beschikbaar in Marketo Engage.
 
-* Plan back-to-back-sessies niet. Zorg ervoor dat u ten minste 30 minuten voorbereidingstijd hebt voordat u met uw webinar begint. Zo kunt u laatste wijzigingen in presentaties uploaden, uw microfoon en camera aanpassen en nieuwe presentatoren op de hoogte brengen van de interface.
+* Plan back-to-back-sessies niet. Zorg ervoor dat u ten minste 30 minuten voorbereidingstijd hebt voordat u met uw webinar begint. Zo kunt u laatste wijzigingen in de presentatie uploaden, uw microfoon en camera aanpassen en nieuwe presentatoren op de hoogte brengen van de interface.
 
 * Rollen toewijzen aan uw teamleden. Voeg deze toe als cohosts en presentatoren. Gastheren en presentatoren kunnen de ruimte betreden voordat deelnemers deelnemen.
 
@@ -38,9 +38,9 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * Ontwerp uw registratieformulier eenmaal en probeer het opnieuw te gebruiken in verschillende webinars om de omtrek consistent te houden.
 
-* Verzend e-mails naar uw doelgroep. In de e-mail moet kort de hoofdwaardepositie voor de gebruikers worden gemarkeerd. Gebruik relevante tokens om de gebeurtenisdetails op te slaan zodat deze in meerdere e-mailcampagnes kunnen worden hergebruikt. Gebruik kalendertokens voor datum en tijd van de gebeurtenis, evenals het delen van webinar die URL na registratie verbindt.
+* Verzend e-mails naar uw doelgroep. In de e-mail moet kort het voorstel voor de hoofdwaarde worden gemarkeerd. Gebruik relevante tokens om de gebeurtenisdetails op te slaan zodat deze in meerdere e-mailcampagnes kunnen worden hergebruikt. Gebruik kalendertokens voor datum en tijd van de gebeurtenis, evenals het delen van webinar die URL na registratie verbindt.
 
-* E-mails met vervolguitnodigingen instellen. Experimenteer met het onderwerp van de e-mail (bijv. &quot;Mis niet uit&quot; of &quot;Zitten vullen&quot;).
+* E-mails met vervolguitnodigingen instellen. Experimenteer met de onderwerpregel van de e-mail (bijv. &quot;Mis niet uit&quot; of &quot;Zitten vullen&quot;).
 
 * Gebruik uw website/blog, sociale media, betaalde advertenties en promoties van partners om een groter publiek te bereiken en registraties te stimuleren.
 
@@ -48,37 +48,38 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 ### Een ruimte ontwerpen {#designing-a-room}
 
-・ Maak een &quot;lobby&quot;-indeling die de deelnemers zien wanneer ze de gebeurtenis betreden voordat ze beginnen. Gebruik deze &quot;lobby&quot; om deelnemers relevante informatie te verstrekken, zoals marketingzekerheden. Laat je publiek betrokken raken bij ijsbrekers of chatten met anderen. Speel een geschikte achtergrondmuziek en vermijd de opvallende stilte. Opiniepeilingen en chatten kunnen worden gebruikt om meer gegevens te verzamelen over de deelnemers zoals hun demografie, verwachtingen van de sessie.
+* Maak een &quot;lobby&quot;-indeling die de deelnemers zien wanneer ze de gebeurtenis betreden voordat deze wordt gestart. Gebruik deze lobby om de deelnemers relevante informatie te verschaffen, zoals marketingzekerheden. Laat je publiek betrokken raken bij ijsbrekers of chatten met anderen. Speel geschikte achtergrondmuziek om opvallende stilte te helpen voorkomen. Opiniepeilingen en chatten kunnen worden gebruikt om meer gegevens te verzamelen over de deelnemers, zoals hun demografie of verwachtingen van de sessie.
 
-・ Gebruik lay-outs om beweging te structureren en toe te voegen aan een sessie. Een ruimte kan bijvoorbeeld de volgende indelingen hebben: lobby, agenda en inleiding van de spreker, presentatie van één spreker, paneldiscussies, brainstormsessies, vragen en antwoorden, Samenvatting.
+* Gebruik lay-outs om beweging te structureren en toe te voegen aan een sessie. Een ruimte kan bijvoorbeeld de volgende indelingen hebben: lobby, agenda en inleiding van de spreker, presentatie van één spreker, paneldiscussies, brainstormsessies, vragen en antwoorden, Samenvatting.
 
-・ Plan interacties om de betrokkenheid te vergroten. Opiniepeilingen, vragen en antwoorden, chatten en quizzen kunnen de betrokkenheid verhogen en tegelijk gegevens van de eerste partij genereren.
+* Plan interacties om de betrokkenheid te verhogen. Opiniepeilingen, vragen en antwoorden, chatten en quizzen kunnen de betrokkenheid verhogen en tegelijkertijd gegevens van de eerste partij genereren.
 
-・ Als u een grote opkomst verwacht, kan het nuttig zijn om een paar medegastheren de verantwoordelijkheid te laten nemen om vragen over de pod Vragen en antwoorden te beantwoorden. U kunt verschillende onderwerpgebieden voor specifieke co-gastheren zelfs toewijzen, als nodig.
+* Als u een grote opkomst verwacht, kan het nuttig zijn om een paar medegastheren te hebben de verantwoordelijkheid nemen om vragen op de pod Vragen en antwoorden te beantwoorden. U kunt verschillende onderwerpgebieden voor specifieke co-gastheren zelfs toewijzen, als nodig.
 
-・ Upload inhoud naar een pod Delen in plaats van het scherm te delen, indien mogelijk. Ondersteunde bestandstypen die kunnen worden gedeeld en weergegeven in een pod Delen zijn onder andere PPT, PPTX, PDF, MP3, MP4, JPG, PNG, POD (voor aangepaste pods) en gecomprimeerde pakketten (ZIP) die geldige inhoud bevatten. De inhoud blijft in de ruimte beschikbaar. Dit vermindert ook de internetbandbreedte die nodig is om het scherm te delen.
+* Upload inhoud waar mogelijk naar een pod Delen in plaats van scherm te delen. Ondersteunde bestandstypen die kunnen worden gedeeld en weergegeven in een pod Delen zijn onder andere: PPT, PPTX, PDF, MP3, MP4, JPG, PNG, POD (voor aangepaste pods) en gecomprimeerde pakketten (ZIP) die geldige inhoud bevatten. De inhoud blijft in de ruimte aanwezig en is gemakkelijk beschikbaar. Dit vermindert ook de internetbandbreedte die nodig is om het scherm te delen.
 
-・ Als u meer dan 100 deelnemers verwacht, kunt u overwegen van een open dialoog (chatpod) over te schakelen op een gematigde dialoog (pod Vragen en antwoorden). Bij een groter publiek kan een levendige chat moeilijk door de gastheer worden gecontroleerd.
+* Als u meer dan 100 deelnemers verwacht, overschakelt u van een open dialoog (chatpod) naar een gematigde dialoog (pod Vragen en antwoorden). Bij een groter publiek kan een levendige chat moeilijk door de gastheer worden gecontroleerd.
 
-・ Voeg een pod Bestanden toe aan de laatste layout om bestanden te delen die u wilt downloaden (zoals brochures en whitepapers).
+* Voeg een pod Bestanden toe aan de laatste layout om bestanden te delen die u wilt downloaden (bijv. brochures, whitepapers).
 
-・ Gebruik de pod Webkoppelingen om URL&#39;s met deelnemers te delen. U kunt deze koppelingen ook naar deelnemers sturen zodat deze voor iedereen in een browser kunnen worden gestart. Dit kan handig zijn als u een feedbackenquête wilt starten, als u zich bij de proefversie van het product wilt aanmelden of een registratieformulier wilt openen voor de volgende gebeurtenis aan het einde van een sessie.
+* Gebruik een pod Webkoppelingen om URL&#39;s met deelnemers te delen. U kunt deze koppelingen ook naar deelnemers sturen zodat deze voor iedereen in een browser kunnen worden gestart. Dit kan handig zijn als u een feedbackenquête, een registratie van de proefversie van het product of een registratieformulier wilt starten voor de volgende gebeurtenis aan het einde van een sessie.
 
-・ Plaats een ruimteachtergrond van de Voorkeur van de Ruimte om een persoonlijkheid aan uw ruimte toe te voegen. Dit kan een achtergrond met uw merklogo zijn. Gebruik de uitlijningsopties om het logo uit te lijnen met een hoek.
+* Plaats een ruimteachtergrond van de Voorkeur van de Ruimte om persoonlijkheid aan uw ruimte toe te voegen. Dit kan een achtergrond met uw merklogo zijn. Gebruik de uitlijningsopties om het logo uit te lijnen met een hoek.
 
-・ Schakel de herinnering voor de opname in via de voorkeuren voor de ruimte als u de sessie wilt opnemen. De herinnering verschijnt 5 minuten in de vergadering als de opname niet is gestart.
+* Schakel de herinnering voor de opname in de voorkeuren voor Ruimte in als u de sessie wilt opnemen. De herinnering verschijnt 5 minuten in de vergadering als de opname niet is gestart.
 
-・ Schakel het gebied Gastheer en Presentator in en stel het in met relevante pods. Dit gebied is alleen zichtbaar voor gastheer en presentator en kan worden gebruikt om in het achterstadium samen te werken. Sommige pods die hier moeten worden opgenomen, zijn: o Betrokkenheidsdashboard om de betrokkenheid van deelnemers in real-time te controleren. Klik hier voor een korte video over het gebruik van het dashboard Betrokkenheid.
+* Schakel het gebied Gastheer en Presentator in en stel het in met relevante pods. Dit gebied is alleen zichtbaar voor gastheren en presentatoren en kan worden gebruikt voor samenwerking in het achterstadium. Hier kunt u enkele pods opnemen:
+   * Betrokkenheidsdashboard om de betrokkenheid van deelnemers in real-time te controleren. [Klik hier](https://www.youtube.com/watch?v=gf5fu0JK9Hk) voor een korte video over het gebruik van het dashboard Betrokkenheid.
+   * Chatpod om persoonlijke gesprekken tussen leden van presentatieteams toe te staan.
+   * Notitiepod om herinneringsberichten, vragen voor de presentator of standaardvraagantwoorden te posten die u kunt kopiëren en plakken voor snelle antwoorden op veelvoorkomende vragen.
 
-o Chatpod om persoonlijke gesprekken tussen leden van presentatieteams toe te staan.
+HIER GESTOPT BEWERKEN
 
-o Pod Notitie om herinneringsberichten, vragen voor de presentator, of standaardvraagreacties te posten die u kunt kopiëren en plakken voor snelle antwoorden op veelvoorkomende vragen.
-
-・ Aangepaste pods zijn apps van derden die kunnen worden gebruikt om de functionaliteit van een Adobe Connect-ruimte uit te breiden. U kunt aangepaste pods downloaden van apps.adobeconnect.com als pod- of zip-bestanden, die u vervolgens kunt delen in de pod Delen.
+* Aangepaste pods zijn apps van derden die kunnen worden gebruikt om de functionaliteit van een Adobe Connect-ruimte uit te breiden. U kunt aangepaste pods downloaden van apps.adobeconnect.com als pod- of zip-bestanden, die u vervolgens kunt delen in de pod Delen.
 
 o Sommige populaire aangepaste pods zijn Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler. o Klik hier voor een korte video over het gebruik van aangepaste pods.
 
-・ Privacy: controleer de onderstaande instellingen om de deelnemersgegevens vertrouwelijk te houden:
+* Privacy: controleer de onderstaande instellingen om de deelnemersgegevens vertrouwelijk te houden:
 
 o Activity Ticker: Activiteitenticker geeft informatie weer over wie op dit moment spreekt en geeft waarschuwingen over deelnemers die de ruimte betreden of verlaten. U kunt de activiteitsmarkering verwijderen door Activiteitenmarkering tonen uit te schakelen onder de sectie &#39;Menubalk&#39; in de voorkeuren voor ruimten.
 
@@ -92,30 +93,30 @@ o Pod Deelnemers: verplaats de pod Deelnemers naar de ruimte Gastheer en Present
 
 B. Levering
 
-・ Voer een paar droge tests uit om de audio-video-instelling te testen en om Adobe Connect te leren kennen als u deze nog nooit hebt gebruikt. Vergeet niet ook uw presentatoren en co-hosts op te nemen wanneer u een repetitie uitvoert.
+* Voer een paar droge tests uit om de audio-video-instelling te testen en om Adobe Connect te leren kennen als u deze nog niet eerder hebt gebruikt. Vergeet niet ook uw presentatoren en co-hosts op te nemen wanneer u een repetitie uitvoert.
 
-・ Vraag gastheren en presentatoren om ten minste 30 minuten voor de begintijd aan te komen en zorg ervoor dat alles correct werkt en dat de uiteindelijke coördinatie plaatsvindt.
+* Vraag gastheren en presentatoren om ten minste 30 minuten voor de begintijd aan te komen en zorg ervoor dat alles correct werkt en dat de uiteindelijke coördinatie plaatsvindt.
 
 o Bepaal wie de pods Vragen en antwoorden en Chat zal matigen.
 
 o Vul de pods Vragen en antwoorden en Chatten met alle vragen en chatten.
 
-・ Zorg dat programma&#39;s die u deelt, zijn geopend voor het juiste venster en klaar zijn om te demonstreren - vermijd het starten en aanmelden bij programma&#39;s tijdens het delen van schermen.
+* Zorg dat programma&#39;s die u deelt, voor het juiste venster zijn geopend en klaar zijn om te demonstreren. Zorg dat u zich niet aanmeldt bij programma&#39;s tijdens het delen van schermen.
 
-・ Deelnemers kunnen de ruimte 15 minuten voor de geplande start betreden. Schakel 15 minuten voor de geplande start over naar de lobby-indeling voor deelnemers die vroeg aankomen. ・ Gebruik de host en het Presenter-gebied als een backstage-gebied om privé te coördineren. Klik hier voor een korte video in het gebied Host en Presenter. ・ Gebruik de modus Voorbereiden om wijzigingen op het laatste moment persoonlijk aan te brengen. Klik hier voor een korte video over de voorbereidingsmodus.
+* Deelnemers kunnen de ruimte 15 minuten voor de geplande start betreden. Schakel 15 minuten voor de geplande start over naar de lobby-indeling voor deelnemers die vroeg aankomen. ・ Gebruik de host en het Presenter-gebied als een backstage-gebied om privé te coördineren. Klik hier voor een korte video in het gebied Host en Presenter. ・ Gebruik de modus Voorbereiden om wijzigingen op het laatste moment persoonlijk aan te brengen. Klik hier voor een korte video over de voorbereidingsmodus.
 
-・ Gebruik het dashboard Betrokkenheid om een tab te houden op de interesseniveaus van deelnemers. Ga naar een opiniepeiling, stel een vraag die u accepteert/niet deelt, voeg een vraag toe in de chatpod of gebruik de aangepaste Word Cloud-pod om reacties van deelnemers te vragen en de betrokkenheidsniveaus te verhogen.
+* Gebruik het dashboard Betrokkenheid om een tab op deelnemersniveau te houden. Ga naar een opiniepeiling, stel een vraag die u accepteert/niet deelt, voeg een vraag toe in de chatpod of gebruik de aangepaste Word Cloud-pod om reacties van deelnemers te vragen en de betrokkenheidsniveaus te verhogen.
 
-・ Houd een tab op de presentatorchat (chatpod in het gebied Gastheer en Presentator) om uw team voortdurend te coördineren.
+* Houd een tab op de presentatorchat (chatpod in het gebied Gastheer en Presentator) om uw team voortdurend te coördineren.
 
 C. Post Delivery — Nilesh
 
-・ Nadat het webinar is afgeleverd, worden de gegevens over de betrokkenheid en de opname in Marketo over het algemeen binnen een periode van 1 tot 2 uur beschikbaar gesteld. Valideer de opname en bevestig of de volledige webinar video-uitvoer correct is vastgelegd, zodat hetzelfde kan worden gebruikt om met het publiek te delen en webinar-gegevens op aanvraag bij te houden.
+* Nadat het webinar is afgeleverd, worden de gegevens over de betrokkenheid en de registratie in Marketo over het algemeen binnen een periode van 1 tot 2 uur beschikbaar gesteld. Valideer de opname en bevestig of de volledige webinar video-uitvoer correct is vastgelegd, zodat hetzelfde kan worden gebruikt om met het publiek te delen en webinar-gegevens op aanvraag bij te houden.
 
-・ Creëer verfrisscampagnes om de aanwezige leiders verder te kwalificeren op basis van hun betrokkenheid gebruikend de Interactieve filters en trekkers van Webinars en u hebt bedankt u Campagnes gemist om meer informatie over de gebeurtenis te verstrekken, verbinding, gebeurtenisstatistieken en toekomstige gebeurtenissen te registreren om te dringen op niet-toont om met de organisatie terug te verbinden. Activiteiten voor No-Show die de opname bezoeken kunnen als deel van Webinars op bestelling worden gevolgd en verdere verduurzamingscampagnes kunnen voor No-Show door de filters en de trekkers van Webinars van de Op bestelling worden gecreeerd.
+* Creëer verfrisscampagnes om de leiders van de aanwezige verder te kwalificeren die op hun betrokkenheid worden gebaseerd gebruikend de Interactieve filters en trekkers Webinars en u hebt Dank u Ontbroken u Campagnes om meer informatie van de gebeurtenis te verstrekken, verbinding, gebeurtenisstatistieken en toekomstige gebeurtenissen registreren om te dringen op niet-toont om met de organisatie terug te verbinden. Activiteiten voor No-Show die de opname bezoeken kunnen als deel van Webinars op bestelling worden gevolgd en verdere verduurzamingscampagnes kunnen voor No-Show door de filters en de trekkers van Webinars van de Op bestelling worden gecreeerd.
 
-・ Gebruik de gegevens van het activiteitenlog voor elk lid op het tabblad Leden om te kijken naar de betrokkenheidsactiviteiten die door verschillende deelnemers tijdens het webinar worden uitgevoerd.
+* Gebruik de gegevens van het activiteitenlog voor elk lid op het tabblad Leden om te kijken naar de betrokkenheidsactiviteiten die door verschillende deelnemers tijdens het webinar worden uitgevoerd.
 
-・ Download de opname en publiceer deze naar verschillende bestemmingspagina&#39;s, microsites of portalen voor een groter publiek.
+* Download de opname en publiceer deze naar verschillende bestemmingspagina&#39;s, microsites of portalen voor een groter publiek.
 
-・ Gebruik het dashboard om een samengevoegde mening van de webinar prestaties in termen van de Status van het Programma, de distributie van de Aanwezigheid, opiniereacties evenals dossierdownloads en verbindingskliks te verkrijgen. Identificeer de positieve en verbeteringsgebieden tijdens het webinar en zorg ervoor dat de lessen kunnen worden gebruikt in het volgende webinar dat zal worden uitgevoerd.
+* Gebruik het dashboard om een bijeengevoegde mening van de webinar prestaties in termen van de Status van het Programma, de distributie van de Aanwezigheid, opiniereacties evenals dossierdownloads en verbindingskliks te verkrijgen. Identificeer de positieve en verbeteringsgebieden tijdens het webinar en zorg ervoor dat de lessen kunnen worden gebruikt in het volgende webinar dat zal worden uitgevoerd.
