@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '718'
 ht-degree: 1%
 
 ---
@@ -176,6 +176,8 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 <br/>
 
 ## Aankondigingen {#announcements}
+
+* **Een-klik lijst-unsubscribe Update**: Gmail en Yahoo hebben verschillende nieuwe afzendervereisten geïmplementeerd die op 1 februari 2024 van kracht werden. Meer informatie [wat zij zijn en hoe zij u beïnvloeden](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
 * **API-update voor lead synchroniseren**: De [API voor lead synchroniseren](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Het gedrag van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
 
