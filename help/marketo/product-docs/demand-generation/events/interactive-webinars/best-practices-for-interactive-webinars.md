@@ -4,9 +4,9 @@ title: Beste praktijken voor Interactieve Webinars
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d65eb1814cbc5fa15b49a0ccd14a9016301d8bcb
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1648'
+source-wordcount: '1650'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * Aangepaste pods zijn apps van derden die kunnen worden gebruikt om de functionaliteit van een Adobe Connect-ruimte uit te breiden. Aangepaste pods kunnen worden gedownload van `apps.adobeconnect.com` als .pod- of .zip-bestanden die vervolgens kunnen worden gedeeld in de pod Delen.
    * Sommige populaire aangepaste pods zijn Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * Klik hier voor een korte video over het gebruik van aangepaste pods.
+   * [Klik hier](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} om een korte video te bekijken over het gebruik van aangepaste pods.
 
 **Privacy: controleer de onderstaande instellingen om de deelnemersgegevens vertrouwelijk te houden:**
 

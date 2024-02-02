@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
 workflow-type: tm+mt
-source-wordcount: '1289'
+source-wordcount: '1301'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ Alle Marketo-abonnementen met een Amerikaanse tijdzone worden gemigreerd vanaf m
 
 Terwijl gebruikers worden gemigreerd, ontvangen ze een e-mail van de Adobe waarin ze op de hoogte worden gesteld van de wijziging in de manier waarop ze zich aanmelden bij Marketo. Gebruikers worden uitgenodigd een uitnodiging om zich voor het eerst aan te melden met Adobe Identity te accepteren, door zich aan te melden met een bestaande Adobe ID of door een nieuwe Adobe ID in te stellen met hetzelfde e-mailadres.
 
-Meer informatie vindt u in [Aanmelden door gebruiker met Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+Meer informatie vindt u in [Migreren naar Adobe-id](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [User Sign-in with Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, and [Adobe Identity Management FAQ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 ## Migratie van gebruiker voltooid {#user-migration-complete}
 
@@ -107,3 +107,9 @@ Adobe zal alle systeembeheerders en productbeheerders via e-mail op de hoogte st
 ## Ondersteuning {#get-support}
 
 Voor extra ondersteuning met betrekking tot uw abonnement of gebruikersmigratie, kunt u een e-mail `marketocares@marketo.com`.
+
+>[!MORELIKETHIS]
+>
+>* [Migreren naar Adobe-id](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
+>* [Aanmelden door gebruiker met Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
+>* [Adobe Identity Management - Veelgestelde vragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
