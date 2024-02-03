@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b981134dd5fbf70db2e350a5c5b5cf8128bf013c
+source-git-commit: ce8b46126478fe9b2afcf9d475607ee71f64e111
 workflow-type: tm+mt
 source-wordcount: '9267'
 ht-degree: 0%
@@ -183,9 +183,9 @@ ht-degree: 0%
          + [Een gebruiker toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Veelgestelde vragen](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Aanmelden door gebruiker bij Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + [Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
          + Abonnement en gebruikersmigratie {#subscription-and-user-migration}
             + [Migreren naar Adobe-id](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
+            + [Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Instellingen {#settings}
          + [Bulkexport-API-informatie](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campagne-controle](product-docs/administration/settings/campaign-inspector.md)
