@@ -3,7 +3,7 @@ description: Adobe Identity Management - Overzicht - Marketo Docs - de Documenta
 title: Overzicht van Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: 6f9790c2243407f2622970d228c9de6be7697df6
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden geÃ
 
 >[!NOTE]
 >
->Marketo Support kan geen updates bieden voor de migratie naar Adobe IMS. Het accountteam van de Adobe zal de komende maanden het geschatte tijdpad bereiken. Zie voor meer informatie [dit artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo Support kan geen updates bieden voor de migratie naar Adobe IMS. Het accountteam van de Adobe zal de komende maanden het geschatte tijdpad bereiken. Zie voor meer informatie [dit artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, and the [Frequently Asked Questions](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 Voor abonnementen op Adobe-id wordt de Adobe Admin Console gebruikt voor gebruikersbeheer. Identiteitsgerelateerde concepten, zoals Single Sign On, worden ook beheerd in de Admin Console.
 
