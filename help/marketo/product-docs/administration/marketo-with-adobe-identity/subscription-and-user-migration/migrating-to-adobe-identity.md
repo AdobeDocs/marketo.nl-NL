@@ -3,9 +3,9 @@ description: Migreren naar Adobe Identity - Marketo Docs - Productdocumentatie
 title: Migreren naar Adobe-id
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 1663f2e5fab9c5d5157d0e50d20fe527bd57d31a
+source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
 workflow-type: tm+mt
-source-wordcount: '2253'
+source-wordcount: '2230'
 ht-degree: 0%
 
 ---
@@ -167,7 +167,7 @@ Als u het overslaan van een gebruiker ongedaan wilt maken, kan de beheerder de g
 
 ### Marketo-gebruikers migreren naar Adobe-id&#39;s {#migrating-marketo-users-to-adobe-ids}
 
-Voor wie meer controle tijdens het gebruikersmigratieproces wenst, steunt Marketo een Zelfbediening benadering voor abonnementen met 75 of meer gebruikers. Marketo-productbeheerders kunnen gebruikers selecteren voor migratie in batches of voor alle in aanmerking komende gebruikers tegelijk. Als gebruikers zijn geselecteerd, hebben beheerders de optie &quot;Nu migreren&quot; of &quot;Migratie plannen&quot; voor een latere datum, zodat beheerders flexibel zijn en zelf kunnen bepalen welke gebruikers worden gemigreerd en wanneer. Beheerders krijgen ook de optie &quot;Alle gebruikers migreren&quot; in een abonnement te zien.
+Marketo-productbeheerders kunnen gebruikers selecteren voor migratie in batches of voor alle in aanmerking komende gebruikers tegelijk. Als gebruikers zijn geselecteerd, hebben beheerders de optie &quot;Nu migreren&quot; of &quot;Migratie plannen&quot; voor een latere datum, zodat beheerders flexibel zijn en zelf kunnen bepalen welke gebruikers worden gemigreerd en wanneer. Beheerders krijgen ook de optie &quot;Alle gebruikers migreren&quot; in een abonnement te zien.
 
 Een beheerder kan bijvoorbeeld een groep &#39;machtsgebruikers&#39; selecteren die ze eerst willen migreren. Wanneer deze gebruikersmigraties zijn voltooid, kunnen ze verschillende groepen gebruikers selecteren op basis van variabelen zoals werkruimte/bedrijf of functie/rol om de migratie van gebruikers verder te beperken tot batchgebruikers. Of ze kunnen besluiten om de rest van de gebruikers in de abonnementen te migreren nadat de eerste batch is geslaagd. Het doel is de meeste flexibiliteit te bieden bij het implementeren van Adobe-id&#39;s voor gebruikers.
 
