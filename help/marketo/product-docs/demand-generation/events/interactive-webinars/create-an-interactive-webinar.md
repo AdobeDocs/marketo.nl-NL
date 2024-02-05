@@ -3,9 +3,9 @@ description: Een interactief webinar maken - Marketo Docs - Productdocumentatie
 title: Een interactief webinar maken
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 9eb715104155f063da049b25b2a28661df65f25f
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -50,13 +50,29 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-Uw interactief webinar wordt gecreeerd. U kunt presentatoren en/of co-hosts toevoegen.
+Uw interactief webinar wordt gecreeerd. U kunt nu een webinar team toevoegen.
 
-![](assets/create-an-interactive-webinar-8.png)
+## Webinar Team {#webinar-team}
+
+Een webinar Team in Interactieve Webinars bestaat uit alle rollen die tot de succesvolle levering van webinar in Adobe Connect bijdragen. Dit geldt zowel voor presentatoren als voor co-hosts.
 
 >[!NOTE]
 >
->Medehosts en presentatoren kunnen externe gebruikers zijn en hoeven geen toegang tot het Marketo Engage te hebben. U hoeft ze alleen de Webinar-URL te geven.
+>Presentatoren en cohosts in Marketo wijzen de rollen van presentator en cohost tijdens de webinar-levering in Adobe Connect exact toe.
+
+De presentator is een externe rol die deelneemt aan het leveren van de webinar ervaring, terwijl co-hosts als presentator kunnen optreden en administratieve aspecten van webinar levering kunnen behandelen. Cohosts kunnen zowel intern als extern zijn. Externe co-hosts hebben geen toegang tot de interactieve Webinar-gebeurtenisprogramma&#39;s in Marketo, maar hebben machtigingen voor co-host tijdens levering in Adobe Connect. Interne cohosts hebben tijdens de levering toegang tot zowel het interactieve webinar-gebeurtenisprogramma in Marketo als tot machtigingen voor co-host. Dit helpt ervoor zorgen dat de interne co-hosts de rijen van het Interactive Webinar-gebeurtenisprogramma kunnen nemen wanneer de oorspronkelijke maker van het Interactive Webinar-programma geen deel meer uitmaakt van de gebruikersset van Interactive Webinars of zelfs geen Marketo-gebruiker is.
+
+### Een webinar-team toevoegen {#adding-a-webinar-team}
+
+Als u een cohost of presentator wilt toevoegen, klikt u op **Co-hosts toevoegen** of **Presentatoren toevoegen** op het scherm Overzicht.
+
+![](assets/create-an-interactive-webinar-8.png)
+
+Na klikken **Presentatoren toevoegen**, wordt u gevraagd hun voornaam, achternaam en e-mailadres in te voeren. Deze informatie wordt tijdens webinar-levering beschikbaar gesteld aan Adobe Connect, zodat de juiste gegevens automatisch kunnen worden ingevuld zonder dat de gebruiker ze tijdens de vermelding voor webinar-levering hoeft in te voeren. Een bij elkaar horende URL wordt gevuld voor alle presentatoren en kan door de maker worden gedeeld.
+
+Na klikken **Co-hosts toevoegen**, wordt u gevraagd een interne of een externe gebruiker toe te voegen. Als u intern selecteert, kunt u de gewenste gebruiker van de lijst van alle gebruikers selecteren die als Interactieve Webinars gebruikers in Marketo Engage zijn toegevoegd. Als u een externe toepassing selecteert, wordt u gevraagd om de voornaam, achternaam en e-mailadres toe te voegen (vergelijkbaar met het toevoegen van een presentator). U kunt ook de toetredende URL&#39;s verkrijgen waarmee zowel interne als externe gebruikers kunnen worden gedeeld.
+
+Nadat u een webinar team hebt toegevoegd, kunt u op het kopieerpictogram naast elke gebruiker klikken om de URL&#39;s die aan het team deelnemen te kopiëren (en deze vervolgens te delen).
 
 <br>
 

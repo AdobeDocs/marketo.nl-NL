@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 60da79f1d2a9baffddc407e448b7b5da3cf52526
+source-git-commit: 33c67217b57c4dced059488edec9f78d0759e72b
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '780'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <th style="width:65%">Functie</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
-  </tr> 
   </tr>
     <tr> 
    <td><strong>Webinars op aanvraag voor interactieve webinars</strong>: Met webinars op aanvraag kunt u de webinar-opname publiceren en de bezoeken/stalen bijhouden. Dit zal u helpen meer lood door registranten verkrijgen die niet webinar (niet-show) bijwoonden maar in het vinden van meer details en het bekijken van de opname nog geinteresseerd zijn.</td> 
@@ -40,8 +39,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-  </tr>
     <tr> 
    <td><strong>Conversiebestemmingspagina's</strong>: Sluit een Dynamic Chat-omzettingsstroom rechtstreeks in een Marketo Engage-landingspagina in, zodat bezoekers een vergadering kunnen plannen via een Dynamic Chat zonder dat ze een formulier hoeven in te vullen of met een chatbot moeten werken.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
@@ -52,8 +49,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
-   </tr>
     <tr> 
    <td><strong>Activiteit e-mailvak filteren</strong>: Hiermee verbetert u de opname van beide activiteiten voor de betrokkenheid bij e-mail door te kiezen hoe agressief het filteren van de activiteit moet zijn.</td> 
    <td>Verzonden</td>
@@ -63,11 +58,29 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
    </tr>
     <tr> 
    <td><strong>Update voor API voor bulklead</strong>: Het gedrag van de API voor bulklead-import is enigszins aangepast wanneer <b>id</b> wordt opgegeven als de <b>lookupField</b> tijdens het scheppen van banen. Indien een persoon gegevens registreert die verband houden met de verstrekte informatie <b>id</b> niet gevonden in de database van het Marketo Engage. Er vindt geen recordupdate plaats omdat de record niet kan worden gevonden. Het bijgewerkte gedrag omvat nu het verhogen van de telling in <b>numOfRowsFailed</b> eigenschap in de reactie, die aangeeft dat de bewerking in dergelijke gevallen is mislukt.</td> 
+   <td>Verzonden</td>
+   <td>nvt</td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+   </tr>
+  <tr> 
+   <td><strong>Medehosts voor interactieve webinars</strong>: Co-hosts in de sectie Webinar Team van Interactieve Webinars staan de maker van de gebeurtenis toe om interne of externe gebruikers aan het Interactieve Webinars-programma toe te voegen om administratieve en leveringsverantwoordelijkheden te delen.</td> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Een webinar-team toevoegen</a></td>
+  </tr>
+  <tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+    <tr> 
+   <td><strong>Een gebruiker verwijderen in interactieve webinars</strong>: Een Marketo Engage Admin kan nu een of meer specifieke gebruikers in interactieve webinars verwijderen.</td> 
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
