@@ -4,9 +4,9 @@ title: Opmerkingen bij de huidige release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: a5b711284ffb3c5e41bca5135cd28da4c65f6d80
+source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Metagegevens API-activiteit</strong>: Metagegevens zoals gebruikersagent, platform, browser en apparaat worden nu opgenomen in <i>alles</i> browsergebaseerde activiteiten, die helpen consistente inzichten te verschaffen in browsergebaseerde activiteiten via de Marketo REST API.</td> 
+   <td><strong>Metagegevens API-activiteit</strong>: Metagegevens zoals Gebruikersagent, Platform en Apparaat zijn nu opgenomen in web- en e-mailactiviteiten en zorgen voor consistente inzichten in deze activiteiten via de Marketo REST API.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
