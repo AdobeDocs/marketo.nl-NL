@@ -4,9 +4,9 @@ title: Opmerkingen bij de huidige release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 35c73cf04563cc2cd7b3124ed2ba0bc00b720993
+source-git-commit: 83cd2466d7be84d3f1dceb7fae17ca0cb53d7408
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '260'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,27 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
   </tr>
+  <tr> 
+   <td><strong>Advanced Conversated Flow Logic</strong>: Voeg aanvullende velden voor evaluatie toe in één keuze voor de opvolging van de controversiële stroom.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr> 
+   <td><strong>Conversie Flow Logic opnieuw ordenen</strong>: In Marketo Engage Forms kunt u nu de Conversational Flow-keuzes opnieuw ordenen in plaats van deze te verwijderen en weer toe te voegen.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
     <tr> 
    <td><strong>Aangepaste sjablonen in interactieve webinars</strong>: U kunt nu aangepaste sjablonen maken voor de schermindeling van ruimten in interactieve webinars.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
@@ -49,42 +70,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 </table>
 <br/>
 
-## Functies van de release van Agile {#agile-release-features}
-
-Alle onderstaande functies volgen een indeling van Agile en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer de status naast elke functie.
-
-### Dynamic Chat {#dynamic-chat}
-
-<table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">Functie</th> 
-   <th style="width:15%">Status</th>
-   <th style="width:20%">Documentatie</th>
-  </tr> 
-  </tr>
-    <tr> 
-   <td><strong>Advanced Conversated Flow Logic</strong>: Voeg aanvullende velden voor evaluatie toe in één keuze voor de opvolging van de controversiële stroom.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Conversie Flow Logic opnieuw ordenen</strong>: U kunt nu de logica opnieuw rangschikken waarin voorwaardelijke logica voor de Stroom van het Gesprek wordt gevormd, in plaats van het moeten schrappen en lezen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   </tr>
- </tbody> 
-</table>
-<br/>
-
 ## Aankondigingen {#announcements}
 
-* **Insteekmodule-inversie accountgegevens browser**: Adobe verwijdert de [Insteekmodule voor de browser Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md) vanuit de Chrome Web Store op 18 maart 2024. Bestaande gebruikers: u kunt de plug-in blijven gebruiken totdat u de Marketo Engage-instantie migreert naar Adobe Identity en Admin Console.
-
-{target="_blank"}
+* **Insteekmodule-inversie accountgegevens browser**: Adobe verwijdert het beheer van doelaccounts [Insteekmodule voor de browser Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} vanuit de Chrome Web Store op 18 maart 2024. Bestaande gebruikers: u kunt de plug-in blijven gebruiken totdat u de Marketo Engage-instantie migreert naar Adobe Identity en Admin Console.
