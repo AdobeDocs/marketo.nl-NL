@@ -3,9 +3,9 @@ description: Interactieve webinars ontwerpen - Marketo Docs - Productdocumentati
 title: Interactieve webinars ontwerpen
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
+source-git-commit: 815fd7a67d65588c4a0a56ba1f478bd1844d7ee3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 1. Uw webinar voorproef zal verschijnen.
 
    ![](assets/designing-interactive-webinars-4.png)
+
+   >[!NOTE]
+   >
+   >Standaard is de naam van de ruimte in het veld &quot;Naam interactieve webinar ruimte&quot; dezelfde als die in het interactieve webinar-gebeurtenisprogramma. U kunt de naam wijzigen om de titel van het webinar zelf weer te geven, aangezien deze naam zichtbaar is voor uw publiek.
 
    >[!TIP]
    >
