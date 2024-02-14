@@ -4,9 +4,9 @@ description: Een universele id gebruiken voor aanmelding bij een abonnement - Ma
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 6ef584a5f405fd5b62c561b99924b8f169a22118
+source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Alle Marketo-abonnementen worden geleverd met de optionele functie Universele id
 
 Wanneer u zich aanmeldt om een uitnodiging voor een tweede abonnement met een Universal-id te accepteren, wordt de aanmeldingspagina van Inschakelen weergegeven. Hier moet u een selectievakje inschakelen om de voorwaarden te accepteren. Nadat u hebt goedgekeurd, zult u de normale terugstellingspagina, niet deze, voor om het even welke verdere logins zien. Door de voorwaarden en bepalingen te accepteren, staat u Marketo toe om uw basisprofielgegevens (zoals voornaam, achternaam en e-mailadres) naar de datacenters te distribueren op verschillende locaties waar uw abonnement wordt gehost.
 
-![](assets/new-login-reduced-hands-name.png)
+![](assets/using-a-universal-id-for-subscription-login-1.png)
 
 >[!TIP]
 >
@@ -51,7 +51,7 @@ Met een universele id voor meerdere abonnementen kunt u alleen het wachtwoord wi
 
 Gebruikend een Universele identiteitskaart, kunt u het abonnement zien u wordt geregistreerd in, en andere abonnementen selecteren waartot u login toegang hebt. In de meeste gevallen, kunt u tussen hen schakelen zonder het moeten logout en terug binnen.
 
-![](assets/image2016-11-3-15-3a10-3a16.png)
+![](assets/using-a-universal-id-for-subscription-login-2.png)
 
 Wanneer u zich afmeldt en weer inlogt, meldt Marketo u automatisch aan bij het abonnement waar u het laatst bent aangemeld. U kunt desgewenst overschakelen naar een ander abonnement.
 
