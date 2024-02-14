@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '236'
 ht-degree: 3%
 
 ---
@@ -46,16 +46,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><i>Binnenkort beschikbaar</i></td>
    </tr>
   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-    <tr> 
-   <td><strong>Aangepaste sjablonen in interactieve webinars</strong>: U kunt nu aangepaste sjablonen maken voor de schermindeling van ruimten in interactieve webinars.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-   <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>

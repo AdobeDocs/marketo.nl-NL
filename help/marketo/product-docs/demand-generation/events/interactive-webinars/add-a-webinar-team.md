@@ -1,10 +1,8 @@
 ---
 description: Een webinar team toevoegen - Marketo Docs - Productdocumentatie
 title: Een webinar-team toevoegen
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 15dc1923dbd8e50f0975206838b9f77b74f106b2
+source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -17,9 +15,9 @@ Een webinar Team in Interactieve Webinars bestaat uit alle rollen die tot de suc
 
 >[!NOTE]
 >
->Presentatoren en cohosts in Marketo wijzen de rollen van presentator en cohost tijdens de webinar-levering in Adobe Connect exact toe.
+>Presentatoren en co-hosts in Marketo wijzen de rollen van presentator en gastheer tijdens de webinar-levering in Adobe Connect exact toe.
 
-De presentator is een externe rol die deelneemt aan het leveren van de webinar ervaring, terwijl co-hosts als presentator kunnen optreden en administratieve aspecten van webinar levering kunnen behandelen. Cohosts kunnen zowel intern als extern zijn. Externe co-hosts hebben geen toegang tot de interactieve Webinar-gebeurtenisprogramma&#39;s in Marketo, maar hebben machtigingen voor co-host tijdens levering in Adobe Connect. Interne cohosts hebben tijdens de levering toegang tot zowel het interactieve webinar-gebeurtenisprogramma in Marketo als tot machtigingen voor co-host. Dit helpt ervoor zorgen dat de interne co-hosts de rijen van het Interactive Webinar-gebeurtenisprogramma kunnen nemen wanneer de oorspronkelijke maker van het Interactive Webinar-programma geen deel meer uitmaakt van de gebruikersset van Interactive Webinars of zelfs geen Marketo-gebruiker is.
+De presentator is een externe rol die deelneemt aan het leveren van de webinar ervaring, terwijl co-hosts als presentator kunnen optreden en administratieve aspecten van webinar levering kunnen behandelen. Cohosts kunnen zowel intern als extern zijn. Externe co-hosts hebben geen toegang tot de interactieve Webinar-gebeurtenisprogramma&#39;s in Marketo, maar hebben wel hostmachtigingen tijdens levering in Adobe Connect. Interne cohosts hebben tijdens de levering toegang tot zowel het interactieve webinar-gebeurtenisprogramma in Marketo als tot de hostmachtigingen. Dit helpt ervoor zorgen dat de interne co-hosts de rijen van het Interactive Webinar-gebeurtenisprogramma kunnen nemen wanneer de oorspronkelijke maker van het Interactive Webinar-programma geen deel meer uitmaakt van de gebruikersset van Interactive Webinars of zelfs geen Marketo-gebruiker is.
 
 >[!PREREQUISITES]
 >
