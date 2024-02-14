@@ -3,9 +3,9 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 492a43045bdf77243e4600eeb2223e750a35859b
+source-git-commit: b05ae6f1b5a63cdf5a0d5da1cb1a6a3641d973c1
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -105,8 +105,8 @@ Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blau
 
 ### Notities {#things-to-note}
 
-* De agenten hebben 45 seconden om vóór de &quot;Accept chat&quot;berichttijden uit te antwoorden
-* Er is een grens van 10 levende chats per agent op dit ogenblik
+* De agenten hebben 45 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden.&quot; Daarna zullen de bezoekers de [fallback-bericht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Voor Dynamische Primaire abonnees die de verpletterende optie hebben die aan wordt geplaatst **Team**, één meer agent zal worden geprobeerd alvorens het reservebericht verschijnt.
+* Op dit moment geldt een limiet van 10 actieve chats per agent.
 
 >[!MORELIKETHIS]
 >
