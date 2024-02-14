@@ -4,9 +4,9 @@ description: Een universele id gebruiken voor aanmelding bij een abonnement - Ma
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 2bd8a7c2a1fe467cc73460807faee42e39faea5d
+source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -58,10 +58,6 @@ Wanneer u zich afmeldt en weer inlogt, meldt Marketo u automatisch aan bij het a
 ## Profielen van community {#community-profiles}
 
 Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen. Wij adviseren dat u login kiest die met uw actiefste gemeenschapsprofiel verbonden is.
-
-## Mobiel platform {#mobile-platform}
-
-Gebruikers met een Universal ID kunnen hun gegevens zien op [Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md){target="_blank"} and the [event check-in application](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md){target="_blank"} van het abonnement waar ze zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
 
 >[!MORELIKETHIS]
 >
