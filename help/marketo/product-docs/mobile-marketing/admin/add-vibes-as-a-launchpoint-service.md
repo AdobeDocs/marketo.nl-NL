@@ -4,9 +4,9 @@ description: Vibes toevoegen als een LaunchPoint-service - Marketo Docs - Produc
 title: Vibes toevoegen als een LaunchPoint-service
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,9 @@ U kunt SMS-berichten verzenden naar de mensen die u hebt aangemeld voor uw SMS-c
 >
 >**Beheerdersmachtigingen vereist**
 
->[!PREREQUISITES]
+>[!AVAILABILITY]
 >
->U moet een actieve Vibes-account en een Adobe-licentie voor Vibes SMS hebben.
+>U moet een actieve Vibes-account en een Adobe-licentie voor Vibes SMS hebben. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen kan een verbinding via Marketo Webhooks worden gebruikt door [rechtstreeks contact opnemen met Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. Ga in Mijn Marketo naar **[!UICONTROL Admin]** gebied.
 
@@ -49,4 +49,4 @@ U kunt SMS-berichten verzenden naar de mensen die u hebt aangemeld voor uw SMS-c
 
 >[!MORELIKETHIS]
 >
->[Videodemo van Vibes](https://vimeo.com/215233767/1ed136adbc)
+>[Videodemo van Vibes](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
