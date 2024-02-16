@@ -4,9 +4,9 @@ description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocu
 title: Aangepaste objectwijzigingen activeren
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,12 @@ ht-degree: 0%
 >
 >Deze functie is alleen beschikbaar:
 >
->* Voor klanten in de [!DNL Orion] infrastructuur
 >* Alleen voor gebruik met aangepaste Marketo-objecten, niet aangepaste objecten die via het native object zijn gesynchroniseerd [!DNL Salesforce] of [!DNL Microsoft Dynamics] integratie
 >* Als trigger, geen filter
 >
 >Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) als u Aangepaste objectwijzigingstriggers wilt inschakelen.
 
-In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken met een *wijzigen* in een aangepast object als een trigger. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
+In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken met een _wijzigen_ in een aangepast object als een trigger. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
 
 >[!NOTE]
 >
@@ -41,7 +40,7 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Selecteer [!UICONTROL trigger attribute].
+1. Selecteer de [!UICONTROL trigger attribute].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
@@ -56,4 +55,4 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
    >[!NOTE]
    >
    >* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
