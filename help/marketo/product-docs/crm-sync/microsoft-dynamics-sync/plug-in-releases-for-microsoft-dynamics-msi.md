@@ -4,10 +4,10 @@ description: Plug-inreleases voor Microsoft Dynamics MSI - Marketo Docs - Produc
 title: Plug-inreleases voor Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 7%
+source-wordcount: '391'
+ht-degree: 0%
 
 ---
 
@@ -52,66 +52,83 @@ En dat is het! Na de verbetering zult u slechts één Oplossing MSI zien.
 ## Versie-updates {#version-updates}
 
 <table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Releasedatum</th> 
-   <th colspan="1">Versie</th> 
-   <th colspan="1">Notities</th> 
-  </tr> 
-  <tr> 
-   <td colspan="1">02/03/22</td> 
-   <td colspan="1">2.0.0.27</td> 
-   <td colspan="1">Accountlay-out voor inzichten: interessante momenten, Score-wijzigingen, webactiviteiten, e-mailactiviteiten</td> 
+   <th>Releasedatum</th> 
+   <th>Versie</th> 
+   <th>Notities</th> 
   </tr>
   <tr> 
-   <td colspan="1">01/05/22</td> 
-   <td colspan="1">2.0.0.26</td> 
-   <td colspan="1">Programmaadoptiescore voor verzenden van e-mail</td> 
+   <td>14-02-24</td> 
+   <td>2 00,31</td> 
+   <td>Wijzigingen in paginering op anonieme webactiviteit.
+   <p>
+   Gegevens van de beveiligingssleutel worden gecodeerd uit de weergave van de gebruiker. Het wachtwoord moet na het importeren van het nieuwe pakket worden gewijzigd voordat codering plaatsvindt.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/28/21</td> 
-   <td colspan="1">2.0.0.25</td> 
-   <td colspan="1">Metriek van de Score van de Aanneming van het product, nieuw Globaal Dashboard (de Activiteit van het Web, E-mail, Beste Bets)</td> 
+   <td>18-10-23</td> 
+   <td>2 00,30</td> 
+   <td>Het consolideren van MSI-foutenlogboek en het verwijderen van Info-meldingen uit het weergeven op de Marketo-foutentiteit.</td> 
   </tr>
   <tr> 
-   <td colspan="1">02/10/21</td> 
-   <td colspan="1">2.0.0.22</td> 
-   <td colspan="1">Auto controle toegelaten en documentatieveranderingen op oplossing MSI verwijderen</td> 
+   <td>19-05-23</td> 
+   <td>2 00,29</td> 
+   <td>Oplossing voor problemen met de paginering van webactiviteiten en interessante momenten op het algemene dashboard.</td> 
   </tr>
   <tr> 
-   <td colspan="1">10/01/20</td> 
-   <td colspan="1">2.0.0.21</td> 
-   <td colspan="1">Bug Fix: Het toewijzen van toegang tot MSI API configuratiegebieden voor gebruikers met de rol van het Inzicht van de Verkoop</td> 
+   <td>23-03-23</td> 
+   <td>2 00,28</td> 
+   <td>Een <a href="https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip">nieuw pakket</a> voor MSI voor niet-native verbindingen met de CRM.</td> 
+  </tr>
+  <tr> 
+   <td>03-02-22</td> 
+   <td>2.0.0.27.</td> 
+   <td>Accountindeling voor inzichten: interessante momenten, Score-wijzigingen, webactiviteiten, e-mailactiviteiten.</td> 
+  </tr>
+  <tr> 
+   <td>05-01-22</td> 
+   <td>2.0.0.26</td> 
+   <td>Programmaadoptiescore voor verzenden via e-mail.</td> 
+  </tr>
+  <tr> 
+   <td>28-10-21</td> 
+   <td>2.0.0.25.</td> 
+   <td>Metriek van de Score van de Aanneming van het product, nieuw Globaal dashboard (de Activiteit van het Web, E-mail, Beste Bets).</td> 
+  </tr>
+  <tr> 
+   <td>10-02-21</td> 
+   <td>2.0.0.22</td> 
+   <td>Verwijder Auto controle toegelaten en documentatieveranderingen op oplossing MSI.</td> 
+  </tr>
+  <tr> 
+   <td>01-10-20</td> 
+   <td>2.0.0.21</td> 
+   <td>Bug Fix: Het toewijzen van toegang tot MSI API configuratiegebieden voor gebruikers met de rol van het Inzicht van de Verkoop.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
-   <td colspan="1">2.0.0.20</td> 
-   <td colspan="1">Opgeloste fout: een validatiebericht toevoegen voor niet-gesynchroniseerde records</td> 
+   <td>20-07-20</td> 
+   <td>2.0.0.20</td> 
+   <td>Opgeloste fout: voeg een validatiebericht toe voor niet-gesynchroniseerde records.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
-   <td colspan="1">2.0.0.19</td> 
-   <td colspan="1">Opgeloste fout: MSI-wachtwoord verbergen in MSD API-configuratie</td> 
+   <td>12-06-20</td> 
+   <td>2.0.0.19.</td> 
+   <td>Opgeloste fout: MSI-wachtwoord verbergen in MSD API-configuratie.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
-   <td colspan="1">2.0.0.18</td> 
-   <td colspan="1">Foutopsporing: de validatie van de MSI-rol-id wijzigen voor het weergeven van MSI-knoppen</td> 
+   <td>26-05-20</td> 
+   <td>2.0.0.18</td> 
+   <td>Foutopsporing: U wijzigt de validatie van de MSI-rol-id voor de weergave van MSI-knoppen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
-   <td colspan="1">2.0.0.17</td> 
-   <td colspan="1">Foutopsporing: het veld Eigenaar verbergen opheffen en velden niet-verplicht maken</td> 
+   <td>21-05-20</td> 
+   <td>2.0.0.17</td> 
+   <td>Foutopsporing: het veld Eigenaar verbergen opheffen en velden niet-verplicht maken.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
-   <td colspan="1">2.0.0.16</td> 
-   <td colspan="1">Bugfixatie: koppelingsafhankelijkheid verwijderen van MSD CRM sitemap-instelling</td> 
+   <td>28-04-20</td> 
+   <td>2.0.0.16</td> 
+   <td>Opgeloste fout: koppelingsafhankelijkheid verwijderen van MSD CRM-sitemap.</td> 
   </tr> 
  </tbody> 
 </table>
