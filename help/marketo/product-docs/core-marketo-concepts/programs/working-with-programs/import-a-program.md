@@ -4,16 +4,20 @@ description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
 # Een programma importeren {#import-a-program}
 
-Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Bovendien kunt u een vooraf gebouwd programma importeren vanuit de [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Een programma kan van één abonnement van de Marketo Engage aan een andere worden ingevoerd. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Bovendien kunt u een vooraf gebouwd programma importeren vanuit de [Marketo Program Library](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+
+>[!CAUTION]
+>
+>Programma&#39;s met slimme lijsten met een trigger &quot;Aangepast object is bijgewerkt&quot; zullen ertoe leiden dat het importeren mislukt. Verwijder deze trigger uit alle slimme lijsten voordat u de onderstaande stappen uitvoert.
 
 ## Een programma importeren {#importing-a-program}
 
@@ -27,9 +31,9 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
 
    >[!NOTE]
    >
-   >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [gebruikersrollen en machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [gebruikersrollen en machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >Als u een sandboxaccount wilt koppelen aan uw live abonnement, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Als u een sandboxaccount wilt koppelen aan uw live abonnement, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Een Marketo selecteren **[!UICONTROL Subscription]** en een invoerprogramma. Klik op **[!UICONTROL Next]**.
 
