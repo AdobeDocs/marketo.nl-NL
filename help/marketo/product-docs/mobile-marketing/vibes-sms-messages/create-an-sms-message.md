@@ -2,7 +2,7 @@
 description: Een SMS-bericht maken - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht maken
 feature: Mobile Marketing
-source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
+source-git-commit: 5ec5e462d76cf6de45378cc2293bd37e7ac24510
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Hieronder wordt beschreven hoe u een SMS-bericht maakt.
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte voorziening moet het product via Adobe worden aangekocht. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen kan een verbinding via Marketo Webhooks worden gebruikt door [rechtstreeks contact opnemen met Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte voorziening moet het product via Adobe worden aangekocht. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen kan een verbinding via Marketo Webhooks worden gebruikt door [rechtstreeks contact opnemen met Vibes](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >

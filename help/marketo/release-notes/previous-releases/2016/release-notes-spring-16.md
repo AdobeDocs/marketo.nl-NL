@@ -4,20 +4,20 @@ description: Opmerkingen bij de release - lente 16 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - lente '16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '797'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Lente 16 {#release-notes-spring}
+# Opmerkingen bij de release: lente 16 {#release-notes-spring}
 
 De volgende functies zijn opgenomen in de release van lente 16. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
 ## [E-mailinzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-Email Insights is een gloednieuwe historische ervaring met e-mailanalyse van geaggregeerde gegevens: geheel nieuw ontworpen voor bliksemsnelle prestaties als onderdeel van Project Orion. Het is voorzien van een volledig nieuw ontwerp voor de gebruikersinterface dat is geoptimaliseerd voor de behoeften en workflow van e-mailmarketers.
+E-mailinzichten zijn een gloednieuwe historische ervaring met e-mailanalyse van geaggregeerde gegevens: geheel nieuw ontworpen voor bliksemsnelle prestaties. Het is voorzien van een volledig nieuw ontwerp voor de gebruikersinterface dat is geoptimaliseerd voor de behoeften en workflow van e-mailmarketers.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Maak verbluffende berichten in de app voor uw app in Marketo. Definieer precies 
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Geen conceptsnippels](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Geen conceptsfragmenten](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
 Gone is de dagen waarin u alles opnieuw moet goedkeuren telkens als een fragment wordt bijgewerkt! Met Geen concept krijgen alle e-mails en bestemmingspagina&#39;s die een fragment gebruiken, de updates van het fragment en de status van het voorgaande fragment. Elke keer dat u een fragment goedkeurt, hebt u de keuze om Geen concept uit te voeren en alles bij te werken, of concepten te maken. Het is aan jou! Geen concept is beschikbaar voor alle klanten en wordt gecontroleerd door een nieuwe machtiging in Admin.
 
@@ -63,15 +63,15 @@ Vergelijkbaar met de IP voegende op lijst van gewenste personen eigenschap voor 
 
 ## [Nieuwe snelle Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-De nieuwe, snelle dynamische connector, die op Orion-architectuur is gebouwd, biedt snelheden tot 20 keer sneller voor eerste synchronisatie en tot 5 keer sneller voor incrementele synchronisatie. Alle nieuwe klanten zullen aan deze schakelaar op de versiedatum, en wij zullen het geleidelijk aan aan bestaande klanten over het tijdkader van de zomerversie uitrollen.
+De nieuwe high-speed Dynamic-connector biedt snelheden tot 20 keer sneller voor eerste synchronisatie en tot 5 keer sneller voor incrementele synchronisatie. Alle nieuwe klanten zullen aan deze schakelaar op de versiedatum, en wij zullen het geleidelijk aan aan bestaande klanten over het tijdkader van de zomerversie uitrollen.
 
-**Gegevens vernieuwen voor nieuwe velden**: Nu kunt u nieuwe synchronisatievelden op elk ogenblik toelaten en alle gegevenswaarden voor dat gebied zullen van Dynamica CRM in Marketo worden verfrist. U hoeft niet meer alle velden te selecteren tijdens de eerste installatie. Als u een bestaand synchronisatieveld onbruikbaar maakt en het later opnieuw toelaat, zullen alle gegevenswaarden voor dat gebied van Dynamica CRM in Marketo worden vernieuwd.
+**Gegevens vernieuwen voor nieuwe velden**: Nu kunt u nieuwe synchronisatievelden op elk moment inschakelen en alle gegevenswaarden voor dat veld worden vernieuwd van Dynamics CRM in Marketo. U hoeft niet meer alle velden te selecteren tijdens de eerste installatie. Als u een bestaand synchronisatieveld onbruikbaar maakt en het later opnieuw toelaat, zullen alle gegevenswaarden voor dat gebied van Dynamica CRM in Marketo worden vernieuwd.
 
-**Lead synchroniseren als contactpersoon**: De stroomactie &#39;Lead synchroniseren naar Microsoft&#39; heeft een nieuwe optie om te synchroniseren als een lead of contactpersoon.
+**Lead synchroniseren als contactpersoon**: De stroomactie &#39;Lead synchroniseren naar Microsoft&#39; heeft een nieuwe optie voor synchronisatie als lead of contactpersoon.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Tabblad Fouten beheren synchroniseren**: Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesynchroniseerd met details zoals bewerking, richting, foutcode en foutbericht.
+**Tabblad Fouten beheren synchroniseren**: Bladeren, zoeken of exporteren leidt tot gegevensverlies (en andere objecten) die niet kan worden gesynchroniseerd met details zoals bewerking, richting, foutcode en foutbericht.
 
 ![](assets/sync-errors.png)
 
