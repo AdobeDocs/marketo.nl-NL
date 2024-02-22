@@ -4,9 +4,9 @@ description: "Toevoegen [!DNL Munchkin] Code bijhouden op uw website - Marketo D
 title: "Toevoegen [!DNL Munchkin] Code volgen op uw website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '634'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Aangepaste JavaScript-trackingcode voor Marketo, genaamd [!DNL Munchkin], volgt 
 
 >[!NOTE]
 >
->Adobe Experience Cloud-klanten kunnen de integratie met Marketo ook gebruiken in het programma Adobe starten om [!DNL Munchkin] script op hun webpagina&#39;s. De app ophalen [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
+>Adobe Experience Cloud-gebruikers kunnen ook de [Marketo-integratie in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} op te nemen [!DNL Munchkin] script op hun webpagina&#39;s te plaatsen. Als u Adobe starten gebruikt, _de [!DNL Munchkin] script wordt automatisch toegevoegd_, dus hoeft u het niet zelf toe te voegen.
 
 1. Ga naar de **[!UICONTROL Admin]** gebied.
 
@@ -53,13 +53,13 @@ Aangepaste JavaScript-trackingcode voor Marketo, genaamd [!DNL Munchkin], volgt 
    >
    >Plaats trackingcode op de webpagina&#39;s die u wilt bijhouden. Dit kan elke pagina voor kleinere plaatsen, of slechts zeer belangrijke pagina&#39;s op plaatsen zijn die vele dynamisch geproduceerde Web-pagina&#39;s, gebruikersforums, etc. hebben.
 
-   Voor de beste resultaten gebruikt u de [!DNL Munchkin] code en plaats deze in de `<head>` elementen van uw pagina&#39;s. Als u de eenvoudige code gebruikt (niet geadviseerd), is dit recht vóór `</body>` tag.
+   U bereikt de beste resultaten met de asynchrone modus [!DNL Munchkin] code en plaats deze in de `<head>` elementen van uw pagina&#39;s. Als u de eenvoudige code gebruikt (niet geadviseerd), is dit recht vóór `</body>` -tag.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
    >[!TIP]
    >
-   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [Meer informatie](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [Meer informatie](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
 
 ## Trackingcode toevoegen bij gebruik van meerdere werkruimten {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -79,7 +79,7 @@ Als u Workspaces gebruikt in uw Marketo-account, hebt u waarschijnlijk ook apart
 
    >[!NOTE]
    >
-   >Als u de speciale werkruimte niet gebruikt [!DNL Munchkin] code, zullen de mensen aan de standaardverdeling worden toegewezen die werd gecreeerd toen uw rekening opstelling was. De naam is &quot;[!UICONTROL Default]&quot; in eerste instantie, maar je hebt dat wellicht gewijzigd in je eigen Marketo-account.
+   >Als u de speciale werkruimte niet gebruikt [!DNL Munchkin] code, zullen de mensen aan de standaardverdeling worden toegewezen die werd gecreeerd toen uw rekening opstelling was. De naam ervan is &quot;[!UICONTROL Default]&quot; in eerste instantie, maar je hebt dat wellicht gewijzigd in je eigen Marketo-account.
 
 1. Selecteren **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
@@ -111,7 +111,7 @@ Er zijn drie typen [!DNL Munchkin] volgcodes waaruit u kunt kiezen. Elke keer da
 
 1. **[!UICONTROL Simple]**: heeft de minste coderegels, maar is niet geoptimaliseerd voor het laden van webpagina&#39;s. Deze code laadt de jQuery-bibliotheek telkens wanneer een webpagina wordt geladen.
 1. **[!UICONTROL Asynchronous]**: verkort de laadtijd van de webpagina.
-1. **[!UICONTROL Asynchronous jQuery]**: verkort de laadtijd van webpagina&#39;s en verbetert ook de systeemprestaties. In deze code wordt ervan uitgegaan dat u al jQuery hebt en wordt niet gecontroleerd om deze te laden.
+1. **[!UICONTROL Asynchronous jQuery]**: verkort de laadtijd van de webpagina en verbetert ook de systeemprestaties. In deze code wordt ervan uitgegaan dat u al jQuery hebt en wordt niet gecontroleerd om deze te laden.
 
 ## Test of uw [!DNL Munchkin] Code werkt {#test-if-your-munchkin-code-is-working}
 
