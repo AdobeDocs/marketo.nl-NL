@@ -2,10 +2,10 @@
 description: Conversation Flow Settings for Marketo Engage Forms - Marketo Docs - productdocumentatie
 title: Instellingen voor conversiestromen voor Marketo Engage Forms
 feature: Dynamic Chat
-exl-id: 28d509c8-e967-43fa-ba80-c6619c647144
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,19 @@ Maak Marketo Engage Forms conversatie door hen met de Stroom van de Gesprek van 
 
    ![](assets/conversational-flow-settings-1.png)
 
-1. Klikken **Concept bewerken**.
+1. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/conversational-flow-settings-2.png)
 
-1. Klik op de pagina Formulierbewerking op **Formulierinstellingen** vervolgens **Instellingen**.
+1. Klik op de pagina Formulierbewerking op **[!UICONTROL Form Settings]** vervolgens **[!UICONTROL Settings]**.
 
    ![](assets/conversational-flow-settings-3.png)
 
-1. Klik op de knop **Instellingen voor conversie** in te schakelen.
+1. Klik op de knop **[!UICONTROL Conversational Flow Settings]** in te schakelen.
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Er wordt een standaardkeuzemodaal weergegeven. Selecteer uw voorkeur. In dit voorbeeld kiezen we **Conversale stroom gebruiken**.
+1. Er wordt een standaardkeuzemodaal weergegeven. Selecteer uw voorkeur. In dit voorbeeld kiezen we **[!UICONTROL Use Conversational Flow]**.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,6 +54,6 @@ Maak Marketo Engage Forms conversatie door hen met de Stroom van de Gesprek van 
    >
    >De browser van de bezoeker moet vóór het verzenden van het formulier cookie&#39;d zijn als bekende persoon om in aanmerking te komen voor lid van de Static/Smart List.
 
-1. Klikken **Voltooien** wanneer gereed.
+1. Klikken **[!UICONTROL Finish]** wanneer gereed.
 
    ![](assets/conversational-flow-settings-8.png)

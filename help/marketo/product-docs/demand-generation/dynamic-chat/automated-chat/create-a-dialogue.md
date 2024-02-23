@@ -2,11 +2,11 @@
 description: Een dialoogvenster maken - Marketo Docs - Productdocumentatie
 title: Een dialoogvenster maken
 feature: Dynamic Chat
-exl-id: 337fbb0b-9cc9-41ef-be13-b7aa68ede4be
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 1%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Hier is hoe te om een nieuwe Dialoog te creëren.
 
-1. Klikken **Dialoogvensters**.
+1. Klik op **[!UICONTROL Dialogues]**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Klik op de knop **Nieuw maken** knop.
+1. Klik op de knop **[!UICONTROL Create New]** knop.
 
    ![](assets/create-a-dialogue-2.png)
 
-1. Kies een leeg dialoogvenster of een van de vooraf ingevulde sjablonen. Voer een naam in (beschrijving is optioneel), wijzig het prioriteitsniveau (optioneel) en klik op **Maken**.
+1. Kies een leeg dialoogvenster of een van de vooraf ingevulde sjablonen. Voer een naam in (beschrijving is optioneel), wijzig het prioriteitsniveau (optioneel) en klik op **[!UICONTROL Create]**.
 
    ![](assets/create-a-dialogue-3.png)
 

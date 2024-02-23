@@ -3,9 +3,9 @@ description: Criteria voor het publiek - Marketo Docs - Productdocumentatie
 title: Criteria voor het publiek
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 46507c0caab93778e3afe6a39ff5a8e70d492233
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Net als bij Slimme lijsten Marketo&#39;s Engage kunt u met de kenmerken Audience
 
 ## Prioriteit {#priority}
 
-De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer dan één kwalificeren. Het is vastgesteld bij de eerste [uw dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. U kunt de prioriteit voor een bestaand dialoogvenster wijzigen door het dialoogvenster te openen en naar **Dialoogdetails** op het tabblad Audience Criteria.
+De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer dan één kwalificeren. Het is vastgesteld bij de eerste [uw dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. U kunt de prioriteit voor een bestaand dialoogvenster wijzigen door het dialoogvenster te openen en naar **[!UICONTROL Dialogue Details]** op het tabblad Audience Criteria.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer
 
 Met gebeurtenissen kunt u bezoekers aanwijzen op basis van hoeveel ze schuiven of hoe lang ze zich op uw pagina/site bevinden. In het onderstaande voorbeeld richten we ons op bezoekers die al meer dan 20 seconden op een specifieke pagina staan.
 
-1. Pak de **Tijd op pagina** en sleep deze naar rechts.
+1. Pak de **[!UICONTROL Time on Page]** en sleep deze naar rechts.
 
    ![](assets/audience-criteria-3.png)
 
@@ -40,9 +40,9 @@ Met gebeurtenissen kunt u bezoekers aanwijzen op basis van hoeveel ze schuiven o
 
 **Bekende personen**
 
-Er zijn _veel_ te kiezen kenmerkcombinaties. In het onderstaande voorbeeld richten we ons op alle **bekende personen** in Californië, die werken bij een bedrijf met meer dan 50 werknemers.
+Er zijn _veel_ te kiezen kenmerkcombinaties. In het onderstaande voorbeeld richten we ons op alle bekende mensen in Californië die werken bij een bedrijf met meer dan 50 werknemers.
 
-1. Pak de **Persoonsstaat** en sleep het naar rechts.
+1. Pak de **[!UICONTROL Person State]** en sleep het naar rechts.
 
    ![](assets/audience-criteria-7.png)
 
@@ -50,7 +50,7 @@ Er zijn _veel_ te kiezen kenmerkcombinaties. In het onderstaande voorbeeld richt
 
    ![](assets/audience-criteria-8.png)
 
-1. Pak de **Bedrijfsomvang** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
+1. Pak de **[!UICONTROL Company Size]** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
 
    ![](assets/audience-criteria-9.png)
 
@@ -58,7 +58,7 @@ Er zijn _veel_ te kiezen kenmerkcombinaties. In het onderstaande voorbeeld richt
    >
    >U kunt ook een kenmerk kiezen door op het desbetreffende kenmerk te klikken **+** pictogram.
 
-1. Klik op de vervolgkeuzelijst met operatoren en selecteer **Groter dan**.
+1. Klik op de vervolgkeuzelijst met operatoren en selecteer **[!UICONTROL Greater Than]**.
 
    ![](assets/audience-criteria-10.png)
 
@@ -70,17 +70,17 @@ En dat is het!
 
 **Anonieme mensen**
 
-Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alles **anonieme mensen** in het gebied New York.
+Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alle anonieme mensen in het gebied van New York.
 
-1. Pak de **Persoonsbericht** en sleep het naar rechts.
+1. Pak de **[!UICONTROL Person Email]** en sleep het naar rechts.
 
    ![](assets/audience-criteria-12.png)
 
-1. Klik op de vervolgkeuzelijst met operatoren en selecteer **Is leeg**.
+1. Klik op de vervolgkeuzelijst met operatoren en selecteer **[!UICONTROL Is Empty]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Pak de **Overgenomen staat** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
+1. Pak de **[!UICONTROL Inferred State]** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
 
    ![](assets/audience-criteria-14.png)
 
@@ -100,7 +100,7 @@ Gebruik de Slimme Lijsten van het Marketo Engage voor het doelpubliek van uw Dia
 >
 >Lid van Slimme Lijst of Lid van de criteria van de Lijst vereist de Primeur van de Dynamic Chat. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. Onder Lidmaatschap, greep **Lid van slimme lijst** en zet het neer op het canvas.
+1. Onder Lidmaatschap, greep **[!UICONTROL Member of Smart List]** en zet het neer op het canvas.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -133,7 +133,7 @@ Acceptabele indelingen:
 
 **Uitsluitingen**
 
-Uitsluitingen gebruiken om ervoor te zorgen dat uw dialoogvenster dit doet **niet** worden weergegeven op een specifieke pagina of een specifiek gebied van uw site. Uitsluitingen hebben dezelfde indeling als insluitingen.
+Uitsluitingen gebruiken om ervoor te zorgen dat uw dialoogvenster dit doet _niet_ worden weergegeven op een specifieke pagina of een specifiek gebied van uw site. Uitsluitingen hebben dezelfde indeling als insluitingen.
 
 ![](assets/audience-criteria-18.png)
 

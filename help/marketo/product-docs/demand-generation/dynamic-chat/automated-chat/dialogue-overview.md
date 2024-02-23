@@ -2,10 +2,10 @@
 description: Dialoogoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van dialoogvensters
 feature: Dynamic Chat
-exl-id: 13acba58-fe66-4153-ad90-f433ef316342
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,10 @@ Op het tabblad Rapporten kunt u metingen bekijken over de prestaties van uw dial
 
 U kunt alle gepubliceerde dialoogvensters tegelijkertijd uitschakelen (en weer inschakelen).
 
-1. Klik in Dynamic Chat op de knop **Configuratie** tab.
+1. Klik in Dynamic Chat op de knop **[!UICONTROL Configuration]** tab.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Schakelen tussen **Chat ingeschakeld** Schakel uit om alle dialoogvensters uit te schakelen (en weer in om weer in te schakelen).
+1. Schakelen tussen **[!UICONTROL Chat Enabled]** Schakel uit om alle dialoogvensters uit te schakelen (en weer in om weer in te schakelen).
 
    ![](assets/dialogue-overview-5.png)

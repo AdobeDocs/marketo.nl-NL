@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '1108'
+source-wordcount: '1083'
 ht-degree: 0%
 
 ---
@@ -91,15 +91,15 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
 
 U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In dit voorbeeld maken we er een voor een dialoogvenster.
 
-1. Na u hebt [heeft uw dialoogvenster gemaakt](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}klikt u op de knop **Stream Designer** tab.
+1. Na u hebt [heeft uw dialoogvenster gemaakt](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}klikt u op de knop **[!UICONTROL Stream Designer]** tab.
 
    ![](assets/stream-designer-6.png)
 
-1. Sleep de vraagkaart en zet deze neer.
+1. Sleep de [!UICONTROL Question] kaart.
 
    ![](assets/stream-designer-7.png)
 
-1. Geef onder Chatbot Response je vraag hoe je wilt.
+1. Onder [!UICONTROL Chatbot Response]Zeg je vraag hoe je wilt.
 
    ![](assets/stream-designer-8.png)
 
@@ -111,51 +111,51 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
    >
    >Poke is standaard ingesteld op Aan, waardoor de openingsvraag naast het chatpictogram wordt weergegeven zonder dat de bezoeker erop moet klikken om deze te zien. Poke is slechts beschikbaar op de eerste kaart in het gesprek.
 
-1. Voer uw gebruikersreacties in en klik op **Opslaan**.
+1. Voer uw gebruikersreacties in en klik op **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**Opgeslagen waarden bewerken** Dit is een optionele stap voor diegenen die een andere waarde in de database willen opslaan dan wat bezoekers in de chatbot krijgen te zien voor toegewezen kenmerken in de vraagkaart (bezoekers zien bijvoorbeeld &quot;Zoekmachine optimaliseren&quot;, en slaan die waarde op als &quot;SEO.&quot;).
+   >**[!UICONTROL Edit Stored Values]** Dit is een optionele stap voor diegenen die een andere waarde in de database willen opslaan dan wat bezoekers in de chatbot krijgen te zien voor toegewezen kenmerken in de vraagkaart (bezoekers zien bijvoorbeeld &quot;Zoekmachine optimaliseren&quot;, en slaan die waarde op als &quot;SEO.&quot;).
 
 1. Voor &quot;ja&quot;willen wij een benoeming plannen, zodat onder die optie belemmering over de kaart van de Planner van de Benoeming.
 
    ![](assets/stream-designer-10.png)
 
-1. Klik in de rechterkolom op **Opslaan**.
+1. Klik in de rechterkolom op **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Aangezien dat een doel is, sleep de Goal card onder de Planner van de Aanstelling.
+1. Aangezien dat een doel is, sleept u de [!UICONTROL Goal] kaart onder de benoemingsplanner.
 
    ![](assets/stream-designer-12.png)
 
-1. Geef uw doel een naam (of kies een bestaand doel) en klik op **Opslaan**.
+1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Voor &quot;Nee&quot; willen we zien of ze zich bij de mailinglijst voegen. Sleep dus onder deze optie over een andere vraagkaart.
+1. Voor &quot;Nee&quot; willen we zien of ze zich bij de mailinglijst voegen. Sleep dus onder deze optie over een andere lijst [!UICONTROL Question] kaart.
 
    ![](assets/stream-designer-14.png)
 
-1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klikken **Opslaan** wanneer gereed.
+1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klikken **[!UICONTROL Save]** wanneer gereed.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >U kunt meer reacties toevoegen door op **Antwoord toevoegen**.
+   >U kunt meer reacties toevoegen door op **[!UICONTROL Add Response]**.
 
 1. Onder het antwoord &quot;Ja&quot; sleept u over de kaart voor het vastleggen van gegevens, zodat u de e-mail van de bezoeker kunt verzamelen.
 
    ![](assets/stream-designer-16.png)
 
-1. Klik op de knop **Type** vervolgkeuzelijst en selecteer **E-mail**.
+1. Klik op de knop **[!UICONTROL Type]** vervolgkeuzelijst en selecteer **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in Marketo en klik op **Opslaan**.
+1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in Marketo en klik op **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -178,11 +178,11 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
     </tr>
    </table>
 
-1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de Goal-kaart onder Info Vastleggen.
+1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de [!UICONTROL Goal] kaart onder Info vastleggen.
 
    ![](assets/stream-designer-19.png)
 
-1. Geef uw doel een naam (of kies een bestaand doel) en klik op **Opslaan**.
+1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -190,21 +190,21 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
 
    ![](assets/stream-designer-21.png)
 
-1. In dit voorbeeld maken we een nieuw document. Geef deze een naam, voer de URL in naar de PDF die u al hebt gehost en klik op **Opslaan**.
+1. In dit voorbeeld maken we een nieuw document. Geef deze een naam, voer de URL in naar de PDF die u al hebt gehost en klik op **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Selecteer de **Voorvertoning** schakelen om een voorvertoning van het dialoogvenster weer te geven.
+1. Selecteer de **[!UICONTROL Preview]** schakelen om een voorvertoning van het dialoogvenster weer te geven.
 
    ![](assets/stream-designer-23.png)
 
-1. Als u klaar bent om uw dialoogvenster te activeren, klikt u op **Publiceren**.
+1. Als u klaar bent om uw dialoogvenster te activeren, klikt u op **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Voordat u op Publiceren klikt, moet u controleren of u [doel-URL(&#39;s) ingevoerd](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Voordat u klikt [!UICONTROL Publish], vergeet niet om te controleren of u [doel-URL(&#39;s) ingevoerd](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

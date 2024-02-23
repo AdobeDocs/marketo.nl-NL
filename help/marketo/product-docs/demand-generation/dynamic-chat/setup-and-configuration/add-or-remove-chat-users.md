@@ -2,11 +2,11 @@
 description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdocumentatie
 title: Chatgebruikers toevoegen of verwijderen
 feature: Dynamic Chat
-exl-id: d6fd64d5-25ea-4190-bfb8-8ead9b89c4f1
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Klikken **Dynamic Chat**.
+1. Klik op **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -28,11 +28,11 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
    >
    >Als u meerdere Marketo-abonnementen hebt, selecteert u de gewenste abonnement vóór de volgende stap.
 
-1. Klik op de knop **Gebruikers** tab.
+1. Klik op de knop **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Klik op de knop **Gebruiker toevoegen** knop.
+1. Klik op de knop **[!UICONTROL Add User]** knop.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
    ![](assets/add-or-remove-chat-users-6.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-chat-users-7.png)
 
@@ -52,19 +52,19 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
 Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog geen toestemming van de Dynamic Chat heeft, is hier hoe te om het toe te voegen.
 
-1. Klik in Marketo op **Beheerder** en selecteert u **Gebruikers en rollen**.
+1. Klik in Marketo op **[!UICONTROL Admin]** en selecteert u **[!UICONTROL Users & Roles]**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Klik op de knop **Rollen** tab.
+1. Klik op de knop **[!UICONTROL Roles]** tab.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. Selecteer in de lijst de rol die u wilt wijzigen en klik op **Rol bewerken**.
+1. Selecteer in de lijst de rol die u wilt wijzigen en klik op **[!UICONTROL Edit Role]**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Selecteren **Access Dynamic Chat** en klik op **Opslaan**.
+1. Selecteren **[!UICONTROL Access Dynamic Chat]** en klik op **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -74,7 +74,7 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Klikken **Dynamic Chat**.
+1. Klik op **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -82,7 +82,7 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
    >
    >Als u meerdere Marketo-abonnementen hebt, selecteert u de gewenste abonnement vóór de volgende stap.
 
-1. Klik op de knop **Gebruikers** tab.
+1. Klik op de knop **[!UICONTROL Users]** tab.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -90,11 +90,11 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Klik op de knop **Gebruiker verwijderen** knop.
+1. Klik op de knop **[!UICONTROL Remove User]** knop.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. Klikken **Gebruiker verwijderen** ter bevestiging.
+1. Klikken **[!UICONTROL Remove User]** ter bevestiging.
 
    ![](assets/add-or-remove-chat-users-17.png)
 

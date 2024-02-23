@@ -3,9 +3,9 @@ description: Best Bets - Marketo Docs - Productdocumentatie
 title: Beste bieten
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,18 @@ ht-degree: 0%
 
 Het tabblad Best Bets bevat een lijst met al uw hot leads op basis van hun prioriteit, berekend aan de hand van de urgentie en de relatieve score.
 
+>[!CAUTION]
+>
+>Zorg ervoor dat u de 1.000 beste ets niet overschrijdt, anders kan de pagina niet langer worden geladen. Als dit voorkomt, gebruik de filters om uw totaal aantal Beste Bets te versmallen.
+
 **Filteropties**
 
 U kunt op elk van de volgende knoppen klikken om de beste ets weer te geven:
 
-* Leads: U kunt Beste Bets voor alle lood zien die aan u in CRM wordt toegewezen
-* Contactpersonen: U kunt Beste Bets voor alle contacten zien die aan u in CRM worden toegewezen
-* Contactpersonen account: U kunt Beste Bets voor alle contacten zien die tot Rekeningen behoren die aan u in CRM worden toegewezen, zelfs als het contact zelf niet aan u wordt toegewezen
-* Contactpersonen voor opportunity: U kunt Beste Bets voor alle contacten zien die tot Kansen behoren die aan u in CRM worden toegewezen, zelfs als het contact zelf niet aan u wordt toegewezen
+* Leads: Je kunt Beste Bets zien voor alle leads die aan je zijn toegewezen in de CRM
+* Contacten: U kunt Beste Bets voor alle contacten zien die aan u in CRM worden toegewezen
+* De Contacten van de rekening: U kunt Beste Bets voor alle contacten zien die tot Rekeningen behoren die aan u in CRM worden toegewezen, zelfs als het contact zelf niet aan u wordt toegewezen
+* Contacten van de kans: U kunt Beste Bets voor alle contacten zien die tot Kansen behoren die aan u in CRM worden toegewezen, zelfs als het contact zelf niet aan u wordt toegewezen
 
 **Notities**
 
