@@ -3,7 +3,7 @@ description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdo
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Soms kan e-mailactiviteit je e-mail abusievelijk opblazen en op gegevens klikken
 We gebruiken twee verschillende methoden om beide activiteiten te bevestigen:
 
 * Afstemmen met [Interactieve lijst van adverteerders van het Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activiteiten die overeenkomen met alles in de lijst IAB UA/IP (User Agent/IP-adres) worden gemarkeerd als bots.
-* Overeenkomst met nabijheidspatroon: wanneer meer dan twee activiteiten tegelijkertijd plaatsvinden (in minder dan een seconde), worden ze geïdentificeerd als bots. Kenmerken die in aanmerking worden genomen tijdens de vergelijking zijn:
+* Overeenkomst met nabijheidspatroon: wanneer twee of meer activiteiten tegelijkertijd plaatsvinden (in minder dan een seconde), worden ze geïdentificeerd als bots. Kenmerken die in aanmerking worden genomen tijdens de vergelijking zijn:
    * ID lead (moet hetzelfde zijn)
    * E-mailmiddel (moet hetzelfde zijn)
    * Klik op Koppelen of e-mail openen
