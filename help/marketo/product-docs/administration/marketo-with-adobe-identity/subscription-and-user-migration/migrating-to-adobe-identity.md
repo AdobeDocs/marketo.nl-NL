@@ -3,9 +3,9 @@ description: Migreren naar Adobe Identity - Marketo Docs - Productdocumentatie
 title: Migreren naar Adobe-id
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '2230'
+source-wordcount: '2252'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ Adobe migreert automatisch alle Marketo-beheerders eerst met geverifieerde e-mai
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Als uw Marketo-abonnement minder dan 75 gebruikers heeft**, zal de Adobe automatisch de rest van uw gebruikers migreren. Deze workflow is bedoeld om het hoogste niveau van automatisering te bieden en er is geen actie vereist om de migratie uit te voeren. Na het voltooien van de migratie wordt de Marketo Migration Console niet meer weergegeven in het Marketo Admin-navigatiegebied en kunnen alle gebruikers Marketo openen via een Adobe ID.
+**Als uw Marketo-abonnement minder dan 75 gebruikers heeft en geen SSO in Marketo en/of uw Adobe Org**, zal de Adobe automatisch de rest van uw gebruikers migreren. Deze workflow is bedoeld om het hoogste niveau van automatisering te bieden en er is geen actie vereist om de migratie uit te voeren. Na het voltooien van de migratie wordt de Marketo Migration Console niet meer weergegeven in het Marketo Admin-navigatiegebied en kunnen alle gebruikers Marketo openen via een Adobe ID.
 
-**Als uw Marketo-abonnement 75 of meer gebruikers heeft**, Marketo-productbeheerders krijgen toegang tot het Self-Service User Migration-hulpprogramma van de migratieconsole wanneer de migratie naar gebruikers begint en worden via banner gewaarschuwd wanneer ze zich aanmelden op de pagina Mijn Marketo. De beheerder is verantwoordelijk voor het voltooien van de gebruikersmigratie met het Self-Service User Migration-hulpprogramma.
+**Als uw Marketo-abonnement 75 of meer gebruikers heeft of SSO heeft in Marketo en/of uw Adobe Org**, Marketo-productbeheerders krijgen toegang tot het Self-Service User Migration-hulpprogramma van de migratieconsole wanneer de migratie naar gebruikers begint en worden via banner gewaarschuwd wanneer ze zich aanmelden op de pagina Mijn Marketo. De beheerder is verantwoordelijk voor het voltooien van de gebruikersmigratie met het Self-Service User Migration-hulpprogramma.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 

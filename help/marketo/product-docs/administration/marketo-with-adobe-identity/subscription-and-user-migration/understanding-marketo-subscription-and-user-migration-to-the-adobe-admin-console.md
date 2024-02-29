@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 404d2720dec6b4932c99a1f390a88dc0835c7491
+source-git-commit: 179fe78c35c04617df47b61d88322f82feab746a
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1323'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,9 @@ Alle Marketo-abonnementen met een Amerikaanse tijdzone worden gemigreerd vanaf m
 
 **Adobe migreert automatisch eerst Marketo Admins**. Wanneer Marketo Admins naar Adobe Identity wordt gemigreerd, krijgen zij de rol van Admin van het Product van de Adobe binnen de toepassing van Marketo samen met om het even welke andere rollen toegewezen zij eerder hadden.
 
-**Als uw Marketo-abonnement minder dan 75 gebruikers heeft**, zal de Adobe automatisch de rest van uw gebruikers migreren. Deze workflow is bedoeld om het hoogste niveau van automatisering te bieden om overhead voor Adobe Marketo-gebruikers tot een minimum te beperken. Er is geen actie van uw kant vereist om de migratie uit te voeren.
+**Als uw Marketo-abonnement minder dan 75 gebruikers heeft en geen SSO in Marketo en/of uw Adobe Org**, zal de Adobe automatisch de rest van uw gebruikers migreren. Deze workflow is bedoeld om het hoogste niveau van automatisering te bieden om overhead voor Adobe Marketo-gebruikers tot een minimum te beperken. Er is geen actie van uw kant vereist om de migratie uit te voeren.
 
-**Als uw Marketo-abonnement meer dan 75 gebruikers heeft** Marketo Product Admins krijgt toegang tot het gebied Self-Service User Migration van de Marketo Migration Console in het Marketo Admin Area. Voor degenen die meer controle nodig hebben tijdens het migratieproces van gebruikers, kunnen Marketo-productbeheerders beginnen met het selecteren van gebruikers voor migratie in batches of in één keer. Als gebruikers zijn geselecteerd, hebben beheerders de optie &quot;Nu migreren&quot; of &quot;Migratie plannen&quot; voor een latere datum. Hierdoor hebben beheerders de ultieme flexibiliteit en controle over welke gebruikers worden gemigreerd wanneer.
+**Als uw Marketo-abonnement meer dan 75 gebruikers heeft of SSO in Marketo en/of uw Adobe Org heeft** Marketo Product Admins krijgt toegang tot het gebied Self-Service User Migration van de Marketo Migration Console in het Marketo Admin Area. Voor degenen die meer controle nodig hebben tijdens het migratieproces van gebruikers, kunnen Marketo-productbeheerders beginnen met het selecteren van gebruikers voor migratie in batches of in één keer. Als gebruikers zijn geselecteerd, hebben beheerders de optie &quot;Nu migreren&quot; of &quot;Migratie plannen&quot; voor een latere datum. Hierdoor hebben beheerders de ultieme flexibiliteit en controle over welke gebruikers worden gemigreerd wanneer.
 
 >[!NOTE]
 >
