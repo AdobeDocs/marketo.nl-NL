@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360368
-description: Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Productdocumentatie configureren
+description: Leer hoe u Marketo Sales Insight configureert in Salesforce Enterprise/Unlimited-edities.
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
+source-git-commit: 3cbefabe80778b0502eaecd733b5732fd9003316
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 0%
+source-wordcount: '762'
+ht-degree: 1%
 
 ---
 
 # Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
-Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesforce Enterprise/Unlimited Editions te configureren. Laten we beginnen.
+Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities door de volgende stappen uit te voeren.
 
 >[!PREREQUISITES]
 >
@@ -21,19 +21,19 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Beheerdersmachtigingen zijn vereist.**
 
-## Verkoopinzicht configureren in Marketo {#configure-sales-insight-in-marketo}
+## Verkoopcontrole in Marketo Engage configureren {#configure-sales-insight-in-marketo}
 
-1. Vraag uw MSI-gegevens op in Marketo. Ga naar het gebied Beheer en selecteer **Verkoopoverzicht**.
+1. Ga naar de **[!UICONTROL Admin]** gebied en selecteer **[!UICONTROL Sales Insight]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
-1. Klikken **API-configuratie bewerken**.
+1. Klik op **[!UICONTROL Edit API Configuration]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
-1. Voer een door u gekozen API-beveiligingssleutel in en klik op **Opslaan**. Gebruik geen en-teken (&amp;) in de API-beveiligingssleutel.
+1. Voer een door u gekozen API-beveiligingssleutel in en klik op **[!UICONTROL Save]**. Gebruik GEEN ampersand (`&`) in uw API geheime sleutel.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3.png)
 
@@ -41,272 +41,185 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
    >
    >De geheime sleutel van uw API is als een wachtwoord voor uw organisatie en zou veilig moeten zijn.
 
-1. Klikken **Weergave** in het configuratievenster voor de rest-API om de referenties in te vullen.
+1. Als u de referenties wilt vullen, klikt u op **[!UICONTROL View]** in de _[!UICONTROL Rest API Configuration]_deelvenster.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
-1. Er verschijnt een bevestigingspop-up. Klikken **OK**.
+1. Als er een bevestigingsvenster verschijnt, klikt u op **[!UICONTROL OK]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
 
    >[!TIP]
    >
-   >Laat dit venster open. U hebt deze informatie later nodig in Salesforce.
+   >Laat dit venster open. U hebt deze informatie later voor configuratie Salesforce nodig.
 
 ## Verkoopinzicht configureren in Salesforce {#configure-sales-insight-in-salesforce}
 
-1. Klik in Salesforce op **Instellen**.
+1. Klik in Salesforce op **[!UICONTROL Setup]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-6.png)
 
-1. Zoeken naar &quot;externe site&quot; en selecteren **Instellingen voor externe site**.
+1. Zoeken naar &quot;externe site&quot; en selecteren **[!UICONTROL Remote Site Settings]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-7.png)
 
-1. Klikken **Nieuwe externe site**.
+1. Klik op **[!UICONTROL New Remote Site]**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Voer de naam van de externe site in (dit kan bijvoorbeeld &quot;MarketoSoapAPI&quot; zijn). Voer de URL voor de externe site in. Dit is de URL van de Marketo-host in het configuratievenster voor de Soap API in Marketo. Klikken **Opslaan**. U hebt nu externe site-instellingen voor de Soap API gemaakt.
+1. Voer de naam van de externe site in (dit kan iets gelijkaardigs zijn `MarketoSoapAPI`). Voer de URL van de externe site in. Dit is de URL van de Marketo-host in het dialoogvenster _[!UICONTROL Soap API Configuration]_in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de Soap API gemaakt.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
-1. Klikken **Nieuwe externe site** opnieuw.
+1. Klikken **[!UICONTROL New Remote Site]** opnieuw.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Voer de naam van de externe site in (dit kan bijvoorbeeld &quot;MarketoAPI&quot; zijn). Voer de URL van de externe site in. Dit is de API-URL van het configuratievenster voor de rest van de API in Marketo. Klikken **Opslaan**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
+1. Voer de naam van de externe site in (dit kan iets gelijkaardigs zijn `MarketoAPI`). Voer de URL van de externe site in. Dit is de API-URL van _[!UICONTROL Rest API Configuration]_in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
 
    >[!NOTE]
    >
-   >_U_ kies uw **Externe sitenaam** (MarketoAPI wordt hier gebruikt). De **URL externe site** U vindt dit in het veld Marketo-host van het dialoogvenster API-configuratie bewerken in stap 3 in de sectie &quot;Sales Insight configureren in Marketo&quot;.
+   >_U_ kies uw **[!UICONTROL Remote Site Name]** (`MarketoAPI` wordt hier gebruikt). De **[!UICONTROL Remote Site URL]** U vindt dit in het veld Marketo-host van het dialoogvenster API-configuratie bewerken in stap 3 van de sectie &quot;Sales Insight configureren in Marketo&quot;.
 
-## De Toegang van het Profiel van de Gebruikers van het Inzicht van de Verkoop van de Verkoop tot Standaard Salesforce- Voorwerpen {#grant-sales-insight-users-profile-access}
+## De gebruikers van het Inzicht van de Verkoop van de Toekenning toegang tot standaard voorwerpen van Salesforce {#grant-sales-insight-users-profile-access}
 
-Vanwege verbeteringen in de Saleforce-beveiliging kunnen App Exchange-pakketten geen toestemming meer verlenen voor standaardobjecten en moet toegang worden verleend aan de relevante Salesforce-objecten vanuit het profiel van de Salesforce-gebruiker.  Voer de onderstaande stappen uit om de benodigde machtigingen te verlenen.
+Vanwege beveiligingsverbeteringen in Salesforce kunnen pakketten voor AppExchanges geen toestemming meer verlenen voor standaardobjecten en moet toegang worden verleend aan de desbetreffende Salesforce-objecten vanuit het profiel van de Salesforce-gebruiker. Voer de volgende stappen uit om de vereiste machtigingen te verlenen.
 
-1. Klikken **Instellen**.
+1. Klik op **[!UICONTROL Setup]**.
 
 1. Zoek in Snel zoeken naar &quot;Profielen&quot;.
 
-1. Klikken **Bewerken** naast het profiel dat uw Salesforce-gebruikers gebruiken.
+1. Klikken **[!UICONTROL Edit]** naast het profiel dat uw Salesforce-gebruikers gebruiken.
 
-1. Schakel onder de sectie Standaard objectmachtigingen de optie Lezen in voor de volgende objecten: Lead, Contact, Account en Opportunity.
+1. Onder de _[!UICONTROL Standard Object Permission]_sectie, inschakelen **[!UICONTROL Read]**toegang voor de volgende objecten: [!UICONTROL Lead], [!UICONTROL Contact], [!UICONTROL Account], en [!UICONTROL Opportunity].
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
 ## Paginalay-outs aanpassen {#customize-page-layouts}
 
-1. Klikken **Instellen**.
+1. Klik op **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Zoek naar &quot;paginalay-out&quot;en selecteer **Pagina-indeling** krachtens **Leads**.
+1. Zoek naar &quot;paginalay-out&quot;en selecteer **[!UICONTROL Page Layout]** krachtens **[!UICONTROL Leads]**.
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Klikken **Visuale pagina&#39;s** links. Slepen **Sectie** naar de layout onder de sectie Aangepaste koppelingen.
+1. Klikken **[!UICONTROL Visualforce Pages]** links. Slepen **[!UICONTROL Section]** op de layout onder de _[!UICONTROL Custom Links]_sectie.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Voer &quot;Marketo Sales Insight&quot; in als de **Sectienaam**. Selecteren **1 kolom** en klik op **OK**.
+1. Voer &quot;Marketo Sales Insight&quot; in als de **[!UICONTROL Section Name]**, selecteert u **[!UICONTROL 1-Column]** en klik op **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Slepen en slepen **Lood** in de nieuwe sectie.
+1. Slepen en slepen **[!UICONTROL Lead]** in de nieuwe sectie.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
    >[!TIP]
    >
-   >De naam van dit vak wordt gewijzigd op basis van het objecttype. Als u bijvoorbeeld de paginalay-out voor Contactpersonen wijzigt, wordt Contactpersoon weergegeven.
+   >De naam van dit vak verandert op basis van het objecttype. Als u bijvoorbeeld de paginalay-out voor Contactpersonen wijzigt, wordt Contactpersoon weergegeven.
 
-1. Dubbelklik op de knop **Lood** blokkeren die u zojuist hebt toegevoegd.
+1. Dubbelklik op de knop **[!UICONTROL Lead]** blokkeren die u zojuist hebt toegevoegd.
 
    ![](assets/image2014-9-24-17-3a34-3a0.png)
 
-1. Hoogte bewerken tot **450** pixels en klik op **OK**.
+1. Hoogte bewerken tot **450** pixels en klik op **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a34-3a26.png)
 
    >[!NOTE]
    >
-   >Controleren **Schuifbalken tonen** als u toegang tot scroll-through activiteiten nodig hebt.
+   >Controleren **[!UICONTROL Show scrollbars]** als u toegang tot scroll-through activiteiten nodig hebt.
 
    >[!TIP]
    >
-   >We raden een hoogte van 410 pixels aan voor de objecten Accounts en Opportunity.
+   >De aanbevolen hoogte voor de objecten Accounts en Opportunity is 410 pixels.
 
-1. Klikken op **Velden** links. Zoek en sleep vervolgens het gereedschap **Urgentie** in de **Marketo Sales Insight** layout.
+1. Klikken **[!UICONTROL Fields]** links. Zoek en sleep vervolgens het gereedschap **[!UICONTROL Urgency]** in de **[!UICONTROL Marketo Sales Insight]** layout.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
-1. Herhaal de bovenstaande stap ook voor deze velden.
+1. Herhaal bovenstaande stap ook voor deze velden.
 
-   <table> 
-    <tbody> 
-     <tr> 
-      <td>Laatste interessant moment</td> 
-     </tr> 
-     <tr> 
-      <td>Datum laatste interessant moment</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste interessante momentele beschrijving</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste interessante mompbron</td> 
-     </tr> 
-     <tr> 
-      <td>Type laatst interessant moment</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste activiteit per verkoop</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste betrokkenheid bij verkoop</td> 
-     </tr> 
-     <tr> 
-      <td>MSI-contact-id</td> 
-     </tr> 
-     <tr> 
-      <td>Relatieve score</td> 
-     </tr> 
-     <tr> 
-      <td>Relatieve score</td> 
-     </tr> 
-     <tr> 
-      <td>Urgentie</td> 
-     </tr> 
-     <tr> 
-      <td>Urgentiewaarde</td> 
-     </tr> 
-     <tr> 
-      <td>Weergeven in Marketo</td> 
-     </tr> 
-    </tbody> 
-   </table>
+   * Laatste interessant moment
+   * Datum laatste interessant moment
+   * Laatste interessante momentele beschrijving
+   * Laatste interessante mompbron
+   * Type laatst interessant moment
+   * Laatste activiteit per verkoop
+   * Laatste betrokkenheid bij verkoop
+   * MSI-contact-id
+   * Relatieve score
+   * Relatieve score
+   * Urgentie
+   * Urgentiewaarde
+   * Weergeven in Marketo
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klikken **[!UICONTROL Save]** wanneer gereed.
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Herhaal stap 5-7 om Visualforce paginagedeelten en de gebieden van het Inzicht van de Verkoop voor toe te voegen **Contact**, **Account** en **Opportunity**.
+1. Herhaal stap 5-7 om Visualforce paginagedeelten en de gebieden van het Inzicht van de Verkoop voor toe te voegen **[!UICONTROL Contact]**, **[!UICONTROL Account]**, en **[!UICONTROL Opportunity]**.
 
-1. Herhaal stap 8-10 om de gebieden van het Inzicht van de Verkoop van de lijst hieronder toe te voegen voor **Contact**. Sla eventuele wijzigingen op.
+1. Herhaal stap 8-10 om deze velden van het Inzicht van de Verkoop toe te voegen voor **[!UICONTROL Contact]**. Sla eventuele wijzigingen op.
 
-<table> 
-    <tbody> 
-     <tr> 
-      <td>Laatste interessant moment</td> 
-     </tr> 
-     <tr> 
-      <td>Datum laatste interessant moment</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste interessante momentele beschrijving</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste interessante mompbron</td> 
-     </tr> 
-     <tr> 
-      <td>Type laatst interessant moment</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste Marketo-activiteit door verkoop</td> 
-     </tr> 
-     <tr> 
-      <td>Laatste Marketo-betrokkenheid bij verkoop</td> 
-     </tr> 
-     <tr> 
-      <td>MKTO-score voor lead</td> 
-     </tr> 
-     <tr> 
-      <td>Relatieve score</td> 
-     </tr> 
-     <tr> 
-      <td>Relatieve score</td> 
-     </tr> 
-     <tr> 
-      <td>Verkoopinzicht - Opent contact met volledige lijstpagina</td> 
-     </tr> 
-     <tr> 
-      <td>Urgentie</td> 
-     </tr> 
-     <tr> 
-      <td>Urgentiewaarde</td> 
-     </tr> 
-    </tbody> 
-   </table>
+   * Laatste interessant moment
+   * Datum laatste interessant moment
+   * [!UICONTROL Last Interesting Moment Desc]
+   * [!UICONTROL Last Interesting Moment Source]
+   * [!UICONTROL Last Interesting Moment Type]
+   * [!UICONTROL Last Marketo Activity by Sales]
+   * [!UICONTROL Last Marketo Engagement by Sales]
+   * [!UICONTROL MKTO Lead Score]
+   * [!UICONTROL Relative Score]
+   * [!UICONTROL Relative Score Value]
+   * [!UICONTROL Sales Insight] - Opent contact volledige lijstpagina
+   * [!UICONTROL Urgency]
+   * [!UICONTROL Urgency Value]
 
 ## Aangepaste persoonlijke velden toewijzen {#map-custom-person-fields}
 
-Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om ervoor te zorgen dat de conversie goed werkt. Zo gaat het.
+Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om ervoor te zorgen dat de conversie goed werkt. Voer de volgende stappen uit om deze toe te wijzen.
 
-1. Klikken **Instellen**.
+1. Klik op **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
-1. Zoek naar &quot;gebieden&quot;in de onderzoeksbar en klik **Velden** krachtens **Leads**.
+1. Zoek naar &quot;gebieden&quot;in de onderzoeksbar en klik **[!UICONTROL Fields]** krachtens **[!UICONTROL Leads]**.
 
    ![](assets/image2015-6-1-9-3a54-3a50.png)
 
-1. Klikken **Velden met regelafstand toewijzen**.
+1. Klik op **[!UICONTROL Map Lead Fields]**.
 
    ![](assets/image2015-6-1-9-3a58-3a48.png)
 
-1. Klik op het vervolgkeuzemenu rechts voor **Betrokkenheid**.
+1. Klik op het vervolgkeuzemenu rechts voor **[!UICONTROL Engagement]**.
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
-1. Selecteren **Contact.Betrokkenheid** in de lijst.
+1. Selecteren **[!UICONTROL Contact.Engagement]** in de lijst.
 
    ![](assets/image2015-6-1-10-3a12-3a11.png)
 
 1. U kunt deze velden ook herhalen en toewijzen.
 
-   <table> 
-    <tbody> 
-     <tr> 
-      <th colspan="1" rowspan="1">Aangepast veld voor Marketo-persoon</th> 
-      <th colspan="1" rowspan="1">Aangepast veld voor Salesforce-contact</th> 
-     </tr> 
-     <tr> 
-      <td colspan="1" rowspan="1"><p>Betrokkenheid</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Engagement</p></td> 
-     </tr> 
-     <tr> 
-      <td colspan="1" rowspan="1"><p>Relatieve score</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Relatieve score</p></td> 
-     </tr> 
-     <tr> 
-      <td colspan="1" rowspan="1"><p>Urgentiewaarde</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Urence-waarde</p></td> 
-     </tr> 
-     <tr> 
-      <td colspan="1" rowspan="1"><p>Datum laatste interessant moment</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Laatste interessante momentdatum</p></td> 
-     </tr> 
-     <tr> 
-      <td colspan="1" rowspan="1"><p>Laatste interessante momentele beschrijving</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Laatste interessante momentele beschrijving</p></td> 
-     </tr> 
-     <tr> 
-      <td colspan="1" rowspan="1"><p>Laatste interessante mompbron</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Laatste interessante momentele bron</p></td> 
-     </tr> 
-     <tr> 
-      <td colspan="1" rowspan="1"><p>Type laatst interessant moment</p></td> 
-      <td colspan="1" rowspan="1"><p>Contact.Laatste interessante momentype</p></td> 
-     </tr> 
-    </tbody> 
-   </table>
+   | Aangepast veld voor Marketo-persoon | Aangepast veld voor Salesforce-contact |
+   |--- |--- |
+   | `Engagement` | `Contact.Engagement` |
+   | `Relative Score Value` | `Contact.Relative Score Value` |
+   | `Urgency Value` | `Contact.Urgency Value` |
+   | `Last Interesting Moment Date` | `Contact.Last Interesting Moment Date` |
+   | `Last Interesting Moment Desc` | `Contact.Last Interesting Moment Desc` |
+   | `Last Interesting Moment Source` | `Contact.Last Interesting Moment Source` |
+   | `Last Interesting Moment Type` | `Contact.Last Interesting Moment Type` |
 
-1. Klikken **Opslaan** als je klaar bent.
+1. Klikken **[!UICONTROL Save]** als je klaar bent.
 
-## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
+## Het tabblad Marketo Sales Insight-configuratie {#marketo-sales-insight-configuration-tab}
 
-1. Klik in Salesforce op de knop **+** aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
+1. Klik in Salesforce op de knop **+** aan het einde van de tabbalk en klik op **[!UICONTROL Marketo Sales Insight Config]**.
 
 1. Kopieer de referenties vanuit het deelvenster Soap API in [Admin-pagina Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en plak ze in de sectie Soap API van de pagina Configuratie van het Inzicht van de Verkoop Salesforce.
 
@@ -314,11 +227,11 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
-En dat is het! Je moet de velden Marketo Sales Insight voor leads, Contacts, Accounts en Opportunity kunnen bekijken.
+U zou de gebieden van het Inzicht van de Verkoop van Marketo voor Leads, Contacten, Rekeningen, en Kansen moeten kunnen zien.
 
 >[!NOTE]
 >
->Als de diagnostische test mislukt, moet u mogelijk [meer velden toevoegen aan uw pagina-indeling](https://nation.marketo.com/docs/DOC-1115){target="_blank"}.
+>Indien de diagnostische test mislukt, [toevoegen van meer velden aan uw pagina-indeling](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} kan het probleem verhelpen.
 
 >[!NOTE]
 >
