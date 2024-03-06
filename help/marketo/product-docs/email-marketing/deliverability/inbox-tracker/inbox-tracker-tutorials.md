@@ -1,20 +1,24 @@
 ---
-description: Tutorials van Inbox Tracker - Marketo Docs - Productdocumentatie
+description: Test, bewaak en begrijp de problemen met betrekking tot de te leveren items met het PowerPack voor e-maillevering van Marketo's Engage.
 title: Tutorials voor InBox-beheer
 feature: Deliverability
-exl-id: b7c0c315-5255-4b16-b50d-241f018a7da9
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Tutorials voor InBox-beheer {#inbox-tracker-tutorials.md}
+# Tutorials voor InBox-beheer {#inbox-tracker-tutorials}
 
-Test, bewaak en begrijp de problemen met betrekking tot de te leveren items met Marketo Email Deliverability Powerpack, aangedreven door het Inbox Tracker-platform van MessageBird. Inbox Tracker is één toepassing die de intelligentie van uw programma en de vooruitziendheid van e-mail het teruggeven/inbox het testen combineert om de prestaties van uw e-mails te maximaliseren.
+Test, bewaak en begrijp de problemen met betrekking tot de te leveren items met het PowerPack voor e-maillevering van Marketo&#39;s Engage, aangedreven door het Inbox Tracker-platform van Bird (voorheen MessageBird). Inbox Tracker is één toepassing die de intelligentie van uw programma en de vooruitziendheid van e-mail het teruggeven/inbox het testen combineert om de prestaties van uw e-mails te maximaliseren.
 
-MessageBird heeft verschillende trainingsvideo&#39;s gemaakt om u te helpen optimaal te profiteren van deze krachtige tool.
+>[!AVAILABILITY]
+>
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+
+Bird heeft verschillende trainingsvideo&#39;s gemaakt om u te helpen optimaal te profiteren van deze krachtige tool.
 
 ## Overzicht van Postvak In {#inbox-tracker-overview}
 

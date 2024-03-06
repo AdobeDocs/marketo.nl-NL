@@ -4,20 +4,20 @@ description: E-maillevering Power Pack - Een zaadlijst importeren - Marketo-docu
 title: E-maillevering Power Pack - Hoe een zaadlijst importeren
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
 # E-maillevering Power Pack: Een zaadlijst importeren {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbusleveranciers, met inbegrip van de Apps van Google, Hotmail, Yahoo!, enz., die worden gebruikt om het tarief van inbox tegenover spamomslaglevering te benaderen. Hieronder wordt beschreven hoe u die lijst ophaalt in uw Marketo-exemplaar.
+Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbusleveranciers, met inbegrip van de Apps van Google, Hotmail, Yahoo!, enz., die worden gebruikt om het tarief van inbox tegenover spamomslaglevering te benaderen. Zo krijg je die lijst in je Marketo-exemplaar.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Dit artikel is bedoeld voor diegenen die momenteel een actieve Everest-abonnement hebben. Als u Inbox Tracker door Vogel (vroeger MessageBird) gebruikt, uw leerprogramma&#39;s [hier te vinden](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Een zaadlijst importeren {#import-a-seed-list}
 
@@ -41,7 +41,7 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
    >
    >Gebruik de functie Zaadlijst optimaliseren (boven aan de pagina) als u wilt dat de lijst voor u door de Everest wordt geoptimaliseerd.
 
-1. Na het exporteren wordt de lijst weergegeven als een .txt-bestand in de downloadmap van uw browser. wint het op, en [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in uw Marketo-instantie als een statische lijst.
+1. Na het exporteren wordt de lijst weergegeven als een TXT-bestand in de downloadmap van uw browser. wint het op, en [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in uw Marketo-instantie als een statische lijst.
 
    ![](assets/email-deliverability-power-pack-5.png)
 
