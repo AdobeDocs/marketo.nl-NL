@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099077
-description: E-maillevering Power Pack - Een zaadlijst importeren - Marketo-documenten - Productdocumentatie
-title: E-maillevering Power Pack - Hoe een zaadlijst importeren
+description: Leer hoe u een lijst met voorbeelden importeert in een Marketo Engage-instantie.
+title: E-maillevering Power Pack - Een zaadlijst importeren
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 3cb7e5ddef8ec05a7cf8d65dd9f3bafa5dcb7da1
+source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # E-maillevering Power Pack: Een zaadlijst importeren {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbusleveranciers, met inbegrip van de Apps van Google, Hotmail, Yahoo!, enz., die worden gebruikt om het tarief van inbox tegenover spamomslaglevering te benaderen. Zo krijg je die lijst in je Marketo-exemplaar.
+Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbusleveranciers, met inbegrip van de Apps van Google, Hotmail, Yahoo!, enz., die worden gebruikt om het tarief van inbox tegenover spamomslaglevering te benaderen. Hieronder volgen de stappen om die lijst in uw instantie van het Marketo Engage te krijgen.
 
 >[!IMPORTANT]
 >
