@@ -4,16 +4,16 @@ description: Salesforce Diagnostics - Marketo Docs - Productdocumentatie
 title: Salesforce Diagnostics
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1354'
 ht-degree: 0%
 
 ---
 
 # Salesforce Diagnostics {#salesforce-diagnostics}
 
-Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic in de webtoepassing. Deze pagina legt fouten van ontbroken gegevensregistreren aan Salesforce vast. De fouten kunnen nuttig zijn, maar zijn niet altijd leesbaar. Als zodanig maken we een bedriegblad dat de foutberichten helpt verklaren.
+Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic in de webtoepassing. Deze pagina legt fouten van ontbroken gegevensregistreren aan Salesforce vast. De fouten kunnen nuttig zijn, maar zijn niet altijd leesbaar. Als zodanig maken we een bedriegblad dat de foutmeldingen helpt uit te leggen.
 
 **Fout:** API_CURRENTLY_DISABLED\
 **Categorie:** Toegang/validatie\
@@ -42,14 +42,14 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 **Stappen voor probleemoplossing:**
 
 1 - Controleer de trigger die faalt.\
-2 - Biedt schrijftoegang aan de gebruiker voor het object OF schakelt de functie uit die naar het object probeert te schrijven.
+2 - Hiermee verleent u schrijftoegang aan de gebruiker voor het object OF schakelt u de functie uit die naar het object probeert te schrijven.
 
 <br> 
 
 **Fout:** CANNOT_UPDATE_CONVERTED_LEAD\
 **Categorie:** Overige\
 **Bericht:** kan niet verwijzen naar omgezette lead\
-**Wat gebeurt er?** We proberen ons aan te melden bij een geconverteerde lead tijdens de meest recente activiteitenregistratie voor contactpersonen en leads. Ook een paar van deze voor toonhoogte.\
+**Wat gebeurt er?** We proberen ons aan te melden bij een geconverteerde lead tijdens de meest recente activiteitenregistratie voor contactpersonen en leads. Een paar van deze foto&#39;s werden ook gezien voor toonhoogte.\
 **Stappen voor probleemoplossing:** Meld eventuele gevallen hiervan aan onze [ondersteuningsteam](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 <br> 
@@ -64,9 +64,9 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** EXPIRED_ACCESS
 **Categorie:** Verificatie
-**Bericht:** invalid_Grant: verlopen token voor toegang/vernieuwen
+**Bericht:** invalid_Grant: verlopen toegangs-/vernieuwingstoken
 **Wat gebeurt er?** De toegangs- of vernieuwingstoken is verlopen. Tokens verlopen op basis van [sessie-instellingen in Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
-**Stappen voor probleemoplossing:** U moet opnieuw verifiëren. Maak de verbinding met Salesforce los en maak opnieuw verbinding.
+**Stappen voor probleemoplossing:** U moet opnieuw verifiëren. Koppel de Salesforce-verbinding los en maak opnieuw verbinding.
 
 <br> 
 
@@ -96,7 +96,7 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** FIELD_INTEGRITY_EXCEPTION\
 **Categorie:** Toegang/validatie\
-**Bericht:** Het bestaande land/gebied herkent de waarde van de staat voor veld niet: Provincie\
+**Bericht:** Het bestaande land/gebied herkent de waarde van de staat voor veld: Staat/Provinciecode\
 **Wat gebeurt er?** Bestaande onjuiste gegevens in Salesforce die worden afgedwongen bij update.\
 **Stappen voor probleemoplossing:** Zie hierboven.
 
@@ -148,13 +148,13 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** INVALID_GRANT\
 **Categorie:** Verificatie\
-**Bericht:** invalid_Grant: ip beperkt\
+**Bericht:** invalid_Grant: ip restricted\
 **Wat gebeurt er?** Wij proberen om tot uw Salesforce toegang te hebben, maar u hebt IP Beperkingen op zijn plaats die ons verhinderen dit te doen.\
 **Stappen voor probleemoplossing:** Uw Admin van Salesforce zal onze IPs moeten lijsten van gewenste personen. De gebruikers zouden zich moeten uitreiken aan Steun om de IP adressen te krijgen.
 
 **Fout:** INVALID_TYPE\
 **Categorie:** Toegang/validatie\
-**Bericht:** Gemaakt op, (SELECTEER Id UIT taken) VANUIT HOOFDE WAAR E-mail=&#39;emailid&#39;^ERROR op rij:1:Kolomtype:53sObject &#39;Lead&#39; wordt niet ondersteund. Als u een aangepast object wilt gebruiken, moet u &#39;__c&#39; achter de naam van de entiteit plaatsen. Gelieve te verwijzen uw WSDL of beschrijf vraag naar de aangewezen namen
+**Bericht:** Gemaakt op, (SELECTEER Id UIT Taken) VAN regel WAAR E-mail=&#39;emailid&#39;^ERROR op `Row:1:Column:53sObject` Het type Lead wordt niet ondersteund. Als u een aangepast object wilt gebruiken, moet u &#39;__c&#39; achter de naam van de entiteit plaatsen. Gelieve te verwijzen uw WSDL of beschrijf vraag naar de aangewezen namen
 **Wat gebeurt er?** Wij proberen om een objecten type van Salesforce te vragen dat de gebruiker geen toegang tot heeft. Dit heeft waarschijnlijk te maken met het feit dat de gebruiker niet de juiste toegang heeft tot het object Lead.\
 **Stappen voor probleemoplossing:** Of verleent Gelezen en Update toegang tot het voorwerp van de Lood in Salesforce, of zet e-mailregistreren en het Meest Recente registreren van de Activiteit uit om verslagen te leiden.
 
@@ -174,7 +174,7 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 1 - Gelijktijdige aanvraaglimiet overschreden, waarschijnlijk als gevolg van inefficiënte triggercode.\
 2 - Te veel integraties zetten de org voorbij het rolvenster van 24 uur.\
 **Stappen voor probleemoplossing:**
-1 - Controleer bestaande triggers voor de desbetreffende objecten. U kunt roll-uplogboekregistratie voor een of meer objecten uitschakelen.\
+1 - Controleer de bestaande triggers voor de desbetreffende objecten. U kunt roll-uplogboekregistratie voor een of meer objecten uitschakelen.\
 2 - Koop meer API-oproepen van Salesforce. U kunt roll-uplogboekregistratie voor een of meer objecten uitschakelen.
 
 **Fout:** REQUIRED_FIELD_MISSING\
@@ -193,12 +193,12 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 **Categorie:** Toegang/validatie\
 **Bericht:** De gewenste bewerking is niet toegestaan vanwege een beveiligingsbeleid in uw organisatie. Neem contact op met de beheerder.<br/>
 **Wat gebeurt er?** Er is een soort beveiligingsbeperking ingesteld - zie https://developer.salesforce.com/forums/?id=&quot;record-id&quot;\
-**Stappen voor probleemoplossing:** Bespreek met uw Salesforce Admin wat de specifieke beperking kan zijn.
+**Stappen voor probleemoplossing:** Bespreek met uw Salesforce Admin wat de specifieke beperking zou kunnen zijn.
 
 **Fout:** UNABLE_TO_LOCK_ROW\
 **Categorie:** Intermitterend\
 **Bericht:** kan geen exclusieve toegang verkrijgen tot deze record of 1 records: &quot;record-id&quot;\
-**Wat gebeurt er?** Waarschijnlijk is er een trigger die meerdere pogingen tot toegang tot dezelfde record veroorzaakt, mogelijk in het geval van een groepse-e-mail.\
+**Wat gebeurt er?** Waarschijnlijk is er een trigger die meerdere pogingen veroorzaakt om toegang te krijgen tot dezelfde record, mogelijk in het geval van een groepse-e-mail.\
 **Stappen voor probleemoplossing:** Dit moet worden verwerkt in logica voor opnieuw proberen. Als het nog niet werkt, werk met uw Admin van Salesforce om een problematische trekker problemen op te lossen.
 
 **Fout:** UNKNOWN_EXCEPTION
