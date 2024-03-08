@@ -4,9 +4,9 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: ed4c454c89b5579649b0a1184a29ed2dcdfff8f8
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 5%
 
 ---
@@ -40,12 +40,12 @@ _Releasedatums/-functies kunnen worden gewijzigd_
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-jan-24.md">januari '24</a></td>
    <td>12 januari 2024</td>
-   <td>In uitvoering</td>
+   <td>Verzonden</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">24 maart</a></td>
    <td>8 maart 2024</td>
-   <td>Op schema</td>
+   <td>In uitvoering</td>
   </tr>
   <tr> 
    <td>24 april</td>

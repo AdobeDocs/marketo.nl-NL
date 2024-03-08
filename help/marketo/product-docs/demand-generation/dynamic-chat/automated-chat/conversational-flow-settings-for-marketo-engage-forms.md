@@ -3,9 +3,9 @@ description: Conversation Flow Settings for Marketo Engage Forms - Marketo Docs 
 title: Instellingen voor conversiestromen voor Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Maak Marketo Engage Forms conversatie door hen met de Stroom van de Gesprek van 
 
    ![](assets/conversational-flow-settings-5.png)
 
-1. Selecteer het gewenste gespreksverloop en leveringstype.
+1. Selecteer het gewenste **[!UICONTROL Conversational Flow]** en **[!UICONTROL Delivery Type]**.
 
    ![](assets/conversational-flow-settings-6.png)
 
@@ -46,14 +46,26 @@ Maak Marketo Engage Forms conversatie door hen met de Stroom van de Gesprek van 
    >
    >[Meer informatie over conversatiestromen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
-   **OPTIONELE STAP**: U kunt op Keuze toevoegen klikken om chatbezoekers aan te wijzen die aan bepaalde criteria voldoen.
+   **OPTIONELE STAP**: U kunt klikken **[!UICONTROL Add Choice]** om chatbezoekers aan te wijzen die aan specifieke criteria voldoen. U kunt maximaal negen keuzes toevoegen voor een totaal van tien.
 
    ![](assets/conversational-flow-settings-7.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
    >De browser van de bezoeker moet vóór het verzenden van het formulier cookie&#39;d zijn als bekende persoon om in aanmerking te komen voor lid van de Static/Smart List.
 
-1. Klikken **[!UICONTROL Finish]** wanneer gereed.
+   **OPTIONELE STAP**: Klik op de knop **+** onderteken binnen elke stap om meer kenmerken toe te voegen, zodat u uw doelgroep kunt beperken (de beschikbare kenmerken zijn de velden die u voor het formulier hebt gekozen). In dit voorbeeld richten we ons op Adobe Technical Writers in Californië.
 
    ![](assets/conversational-flow-settings-8.png)
+
+   >[!NOTE]
+   >
+   >Criteria Logic ingesteld op &quot;all&quot; betekent dat elk kenmerk moet zijn vervuld om in aanmerking te komen. Criteria Logic ingesteld op &quot;om het even welk&quot;betekent om het even welk van de attributen zal voldoende zijn.
+
+   **OPTIONELE STAP**: Als u twee of meer opties toevoegt, kunt u deze opnieuw ordenen door op de pijl-omhoog of -omlaag te klikken.
+
+   ![](assets/conversational-flow-settings-9.png)
+
+1. Klikken **[!UICONTROL Finish]** wanneer gereed.
+
+   ![](assets/conversational-flow-settings-10.png)

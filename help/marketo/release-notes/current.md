@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: d65903d64d068a6f919df78258654414f3b76426
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '216'
 ht-degree: 3%
 
 ---
@@ -31,8 +31,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
   <tr> 
    <td><strong>Advanced Conversated Flow Logic</strong>: Voeg aanvullende velden voor evaluatie toe in één keuze voor de opvolging van de controversiële stroom.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversation Flow Settings for Marketo Engage Forms</a></td>
   </tr>
    <tr> 
    <td> </td> 
@@ -42,8 +42,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    </tr>
     <tr> 
    <td><strong>Conversie Flow Logic opnieuw ordenen</strong>: In Marketo Engage Forms kunt u nu de Conversational Flow-keuzes opnieuw ordenen in plaats van deze te verwijderen en weer toe te voegen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Conversation Flow Settings for Marketo Engage Forms</a></td>
    </tr>
   <tr> 
    <td> </td> 
