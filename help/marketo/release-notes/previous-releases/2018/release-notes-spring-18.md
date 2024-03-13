@@ -4,18 +4,18 @@ description: Opmerkingen bij de release - lente 18 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - lente '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Lente 18 {#release-notes-spring}
+# Opmerkingen bij de release: lente 18 {#release-notes-spring}
 
 De volgende functies zijn opgenomen in de release van het voorjaar van 18. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
-Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. Opmerking: Aan sommige functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
+Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. Opmerking: aan enkele functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
 ## Marketo Sales Engage-, Launch- en ToutApp-updates {#marketo-sales-engage-launch-and-toutapp-updates}
 
@@ -25,15 +25,15 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!AVAILABILITY]
 >
->Sales Engage is een invoegtoepassing. Neem contact op met uw Marketo-accountmanager of -accountmanager voor een prijsopgave.
+>Sales Engage is een add-on product. Neem contact op met uw Marketo-accountmanager of -accountmanager voor een prijsopgave.
 
 U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden te bieden met de intelligentie, de inhoud, de playbooks en de analysemogelijkheden om meer van uw leads om te zetten in verkoopmogelijkheden. Verkoop Ingenieur voorziet verkoop en marketing van een verenigd platform voor overeenkomst over de klantenreis en laat betere coördinatie door een gedeelde mening van klant toe touchpoints.
 
 **ToutApp**
 
-* **Compatibiliteitskaart**: Zorgen voor naleving van GDPR door de bron van verkoopcontacten en details van klantentoestemming voor het ontvangen van mededelingen te vangen.
-* **Update voor wachtwoordbeleid**: Houd uw gegevens veiliger met strengere vereisten voor het maken, opnieuw instellen en verlopen van wachtwoorden (voldoet aan de nalevingsvereisten voor Soc II - Type 1).
-* **Gestroomlijnde ervaring bij het instellen van accounts**: Uw account wordt sneller ingesteld en verbonden met Gmail, Outlook en andere systemen.
+* **Compatibiliteitskaart**: Zorgt voor naleving van GDPR door de bron van verkoopcontacten en details van klantentoestemming voor het ontvangen van communicatie vast te leggen.
+* **Update voor wachtwoordbeleid**: Behoud uw gegevens veiliger met strengere vereisten voor het maken, opnieuw instellen en verlopen van wachtwoorden (voldoet aan de nalevingsvereisten voor Soc II - Type 1).
+* **Gestroomlijnde ervaring bij het instellen van accounts**: Installeer uw account en maak sneller verbinding met Gmail, Outlook en andere systemen.
 
 ## Marketo Sky Open bèta {#marketo-sky-open-beta}
 
@@ -45,9 +45,9 @@ Open de Marketo Sky-bèta om toegang te krijgen tot meer dan 100 nieuwe producti
 * In-app-hulplijnen en contextafhankelijke Help
 * Elementlabels en flexibelere kalenderweergaven
 
-## Prestatie-inzichten {#performance-insights}
+## Prestatiegegevens {#performance-insights}
 
-[Prestatie-inzichten](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[Prestatiegegevens](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Jaarlijkse vergelijking**
 
@@ -76,10 +76,6 @@ Geoptimaliseerde navigatie en verbeterde workflows geven u inzicht in de criteri
 Stel het doel van het optimalisatiealgoritme voor ContentAI in om meer weergaven, klikken of conversies te sturen.
 
 ## Integratie en API&#39;s {#integration-and-apis}
-
-[Facebook Workplace-integratie](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
-
-Verzend systeemmeldingen en interessante momenten naar Facebook Workplace.
 
 [Statische lijst-API&#39;s](https://developers.marketo.com/rest-api/assets/static-lists/)
 
