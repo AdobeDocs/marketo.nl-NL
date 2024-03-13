@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: abfdda5b42df9d01e1ad723c58fe6128048d4023
 workflow-type: tm+mt
-source-wordcount: '9288'
+source-wordcount: '9282'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 0%
    + Aan de slag met TEMP-gebied {#temp-getting-started-area}
       + [Beheerder](getting-started/temp-getting-started-area/admin.md)
       + [Database](getting-started/temp-getting-started-area/database.md)
+      + [Marketingactiviteiten](getting-started/temp-getting-started-area/marketing-activities.md)
 + Productdocumenten {#product-docs}
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}
@@ -108,7 +109,6 @@ ht-degree: 0%
          + [Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Eén aanmelding toevoegen aan een portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Webex toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-         + [Workplace door Facebook toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Zoomen toevoegen als een opstartpuntservice](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Uw SOAP API-instellingen configureren](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [BrightStorTALK verbinden met Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
