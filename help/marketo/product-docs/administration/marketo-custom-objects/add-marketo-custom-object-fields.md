@@ -4,7 +4,7 @@ description: Aangepaste Marketo-objectvelden toevoegen - Marketo Docs - Productd
 title: Aangepaste Marketo-objectvelden toevoegen
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    ![](assets/add-marketo-custom-object-fields-3.png)
 
-1. De **[!UICONTROL Fields]** dan **[!UICONTROL New Field]**.
+1. Klik op de knop **[!UICONTROL Fields]** dan **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-fields-4.png)
 
@@ -49,7 +49,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
-1. Trek de [!UICONTROL Dedupe] schuifregelaar als u het nieuwe veld wilt gebruiken als een unieke id. Klikken **[!UICONTROL Save]** om af te ronden.
+1. Trek de [!UICONTROL Dedupe] schuifregelaar als u het nieuwe veld wilt gebruiken als een unieke id. Klikken **[!UICONTROL Save]** om te voltooien.
 
    ![](assets/add-marketo-custom-object-fields-7.png)
 
@@ -61,11 +61,11 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    >[!NOTE]
    >
-   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [Aangepaste Marketo-objectkoppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) de koppelingsvelden te maken, en [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie over typen aangepaste objecten.
+   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [Aangepaste Marketo-objectkoppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) de koppelingsvelden te maken, en [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie over typen aangepaste objecten.
 
 >[!MORELIKETHIS]
 >
 >* [Aangepaste Marketo-objectkoppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Een aangepast Marketo-object bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Aangepaste Marketo-objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
