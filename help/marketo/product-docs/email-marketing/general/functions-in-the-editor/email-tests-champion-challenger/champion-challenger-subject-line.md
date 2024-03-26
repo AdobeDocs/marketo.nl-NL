@@ -4,14 +4,14 @@ description: Champion/Challenger - Onderwerpregel - Marketo Docs - Productdocume
 title: Champion/Challenger — Onderwerpregel
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-# Champion/Challenger: Onderwerpregel {#champion-challenger-subject-line}
+# Champion/Challenger: onderwerpregel {#champion-challenger-subject-line}
 
 U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, stuurt u e-mails met de meest effectieve is. Zo doe je het.
 
@@ -25,7 +25,7 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
    >[!NOTE]
    >
-   >In een onderwerptest wordt de eerste onderwerpregel die wordt ingevoerd, aangewezen als de **Champion**. Volgende onderwerpregel wordt **Challengers**.
+   >In een onderwerptest wordt de eerste onderwerpregel die wordt ingevoerd, aangewezen als de **Champion**. De volgende onderwerpregel wordt genoemd **Challengers**.
 
 1. Voer onderwerpregel(s) in voor de **Challengers**.
 
@@ -43,9 +43,9 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
    >
    >**Voorbeeld**
    >
-   >In de bovenstaande verdeling krijgt 10% van het totale publiek dat in de slimme lijst is opgegeven een van de e-mails met de onderwerpregel van de uitdager en 90% ontvangt e-mails met de onderwerpregel van de kampioen. E-mails met meerdere onderwerpreeksen voor passagiers hebben dezelfde 10%. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud.
+   >In de bovenstaande verdeling krijgt 10% van het totale publiek dat is opgegeven in de Smart List een van de e-mails met de onderwerpregel van de uitdager en 90% ontvangt e-mails met de onderwerpregel van de kampioen. E-mails met meerdere onderwerpreeksen voor passagiers hebben dezelfde 10%. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud. Bij triggercampagnes kan het gerealiseerde percentage afwijken van het percentage dat u selecteert, omdat de verdeling mogelijk niet precies overeenkomt met de gekozen percentages. Dit kan gebeuren wanneer één variant een significant aantal niet-geabonneerde personen verwerkt, of wanneer één variant een operationele e-mail is terwijl de andere niet.
 
-   Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten. [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
+   Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten.
 
 1. Klikken **Volgende**.
 

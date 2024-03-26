@@ -4,9 +4,9 @@ description: Champion/Challenger - Van adres - Marketo Docs - Productdocumentati
 title: Champion/Challenger - Van adres
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
    >
    >**Voorbeeld**
    >
-   >In de hierboven getoonde distributie, krijgt 15% van het totale publiek in de slimme lijst één van de e-mails met een bezoeker van Adres en 85% ontvangt de e-mail met de kampioen van Adres. E-mails voor meerdere challenger Van adressen hebben dezelfde waarde als 15%. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud.
+   >In de hierboven getoonde distributie, krijgt 15% van het totale publiek dat in de Slimme Lijst wordt gespecificeerd één van de e-mails met een bezoeker van Adres en 85% ontvangt de e-mail met de kampioen van Adres. E-mails voor meerdere challenger Van adressen hebben dezelfde waarde als 15%. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud. Bij triggercampagnes kan het gerealiseerde percentage afwijken van het percentage dat u selecteert, omdat de verdeling mogelijk niet precies overeenkomt met de gekozen percentages. Dit kan gebeuren wanneer één variant een significant aantal niet-geabonneerde personen verwerkt, of wanneer één variant een operationele e-mail is terwijl de andere niet.
 
-   Om statistisch vertrouwen te winnen, zeker bent u een percentage kiest dat genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten. [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
+   Om statistisch vertrouwen te winnen, zeker bent u een percentage kiest dat genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten.
 
 1. Klikken **Volgende**.
 

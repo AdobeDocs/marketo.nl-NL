@@ -4,14 +4,14 @@ description: Champion/Challenger - Hele e-mails - Marketo Docs - Productdocument
 title: Champion/Challenger — Hele e-mails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Champion/Challenger: Hele e-mails {#champion-challenger-whole-emails}
+# Champion/Challenger: hele e-mails {#champion-challenger-whole-emails}
 
 Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoerder.
 
@@ -25,7 +25,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
    >[!NOTE]
    >
-   >Onthoud: De originele e-mail is de kampioen. De krijgers concurreren er tegen.
+   >Herinner me: De originele e-mail is de kampioen. De krijgers concurreren er tegen.
 
 1. Zoek en selecteer de **Challengers** e-mail(s) en klik vervolgens op **Klonen**.
 
@@ -43,11 +43,9 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
    >
    >**Voorbeeld**
    >
-   >In de bovenstaande distributie krijgt 15% van het totale publiek dat in de slimme lijst is opgegeven, een van de e-mails van de uitdager en 85% ontvangt de champion-e-mail. Meerdere e-mails van meervoudige meerijders delen de 15% gelijkelijk. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud.
+   >In de bovenstaande distributie krijgt 15% van het totale publiek dat is opgegeven in de Smart List een van de e-mails van de uitdager en 85% ontvangt de champion-e-mail. Meerdere e-mails van meervoudige meerijders delen de 15% gelijkelijk. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud. Bij triggercampagnes kan het gerealiseerde percentage afwijken van het percentage dat u selecteert, omdat de verdeling mogelijk niet precies overeenkomt met de gekozen percentages. Dit kan gebeuren wanneer één variant een significant aantal niet-geabonneerde personen verwerkt, of wanneer één variant een operationele e-mail is terwijl de andere niet.
 
    Om statistisch vertrouwen te winnen, zeker ben dat het percentage u aan bezoekers toewijst genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten.
-
-   [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klikken **Volgende**.
 
