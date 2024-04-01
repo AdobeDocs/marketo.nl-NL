@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7359cc95a3e90f228353dc3d21c92712f9d5684
+source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '380'
 ht-degree: 2%
 
 ---
@@ -68,3 +68,70 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
  </tbody> 
 </table>
 <br/>
+
+## Aankondigingen {#announcements}
+
+* **Update voor activiteitenAPI**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en e-mailgebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} eindpunt om kenmerkdetails voor elke activiteit te herzien.
+
+**Webactiviteiten**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Activiteit</th> 
+   <th style="width:70%">Nieuw toegevoegde kenmerken</th>
+   </tr>
+  <tr> 
+   <td>Webpagina bezoeken</td> 
+   <td>Browser, platform, apparaat</td>
+  </tr>
+   <tr> 
+   <td>Formulier invullen</td> 
+   <td>Browser, platform, apparaat</td>
+  </tr>
+  <tr> 
+   <td>Klik op Koppeling</td> 
+   <td>Browser, platform, apparaat</td>
+  </tr>
+ </tbody> 
+</table>
+
+**E-mailactiviteiten**
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th style="width:30%">Activiteit</th> 
+   <th style="width:70%">Nieuw toegevoegde kenmerken</th>
+  </tr>
+   <tr> 
+   <td>E-mail verzenden</td> 
+   <td>Browser, platform, apparaat, gebruikersagent</td>
+  </tr>
+   </tr>
+  <tr> 
+   <td>E-mail bezorgd</td> 
+   <td>Browser, platform, apparaat, gebruikersagent</td>
+  </tr>
+   <tr> 
+   <td>E-mail verzonden</td> 
+   <td>Browser, platform, apparaat, gebruikersagent</td>
+  </tr>
+  <tr> 
+   <td>E-mailadres opzeggen</td> 
+   <td>Browser, platform, apparaat</td>
+  </tr>
+  <tr> 
+   <td>E-mail openen</td> 
+   <td>Browser</td>
+  </tr>
+   <tr> 
+   <td>Klik op E-mail</td> 
+   <td>Browser</td>
+  </tr>
+  <tr> 
+   <td>Door e-mail teruggekaatst</td> 
+   <td>Browser, platform, apparaat, gebruikersagent</td>
+  </tr>
+ </tbody> 
+</table>
