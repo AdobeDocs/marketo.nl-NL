@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 8fb15ae509820fcfcb07c2b4a34b32f6724fe649
+source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
 workflow-type: tm+mt
-source-wordcount: '1101'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
@@ -156,7 +156,7 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
 
    ![](assets/stream-designer-17.png)
 
-1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in Marketo en klik op **[!UICONTROL Save]**.
+1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in het Marketo Engage en klik op **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -175,7 +175,7 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
     </tr>
     <tr>
      <td style="width:30%"><strong>Reactie toewijzen aan kenmerk</strong></td>
-     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Person-record in uw Marketo-abonnement.</td>
+     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Persoonlijke record in uw abonnement op het Marketo Engage.</td>
     </tr>
    </table>
 
