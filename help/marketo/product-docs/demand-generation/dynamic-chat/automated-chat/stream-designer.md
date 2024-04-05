@@ -3,7 +3,7 @@ description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: b31ea2f84b2ac5eb0b6fd0122d8ebadfc451b3a0
+source-git-commit: e2914b37e4557ad20007884f0a17ca88ef85491b
 workflow-type: tm+mt
 source-wordcount: '1103'
 ht-degree: 0%
@@ -49,9 +49,9 @@ De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het pra
   <td>Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: als het verzamelen van de e-mail van de bezoeker uw doel is, plaats de Goal kaart onmiddellijk na Info vangt in de stroom).</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Handeling</strong></td>
+  <td style="width:25%"><strong>Actie*</strong></td>
   <td>Vergelijkbaar met verborgen velden in een formulier, kunt u met de actiekaart elk lead- of bedrijfskenmerk vullen (met een <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">gegevenstype tekenreeks</a>) met impliciete waarden die u wilt vastleggen op basis van een hoofdrecord. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.
-  <p><i>Voor de actiekaart is de Dynamic Chat-premier vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
+  <p>* <i>Voor de actiekaart is de Dynamic Chat-premier vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live Chat</strong></td>
