@@ -4,9 +4,9 @@ description: Sync inschakelen voor een aangepaste entiteit - Marketo Docs - Prod
 title: Sync inschakelen voor een aangepaste entiteit
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 28d8dc35b3f265728c31516e3082fd55a83a045f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Als u de gegevens van de douaneentiteit van Dynamica in Marketo Engage beschikba
    >
    >U moet de algemene synchronisatie tijdelijk uitschakelen om een aangepaste entiteit in of uit te schakelen.
 
-1. Klik onder Databasebeheer op de knop **[!UICONTROL Dynamics Entities Sync]** koppeling.
+1. Klik onder Beheer database op **[!UICONTROL Dynamics Entities Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Klik op de knop **[!UICONTROL Sync schema]** koppeling.
+1. Klik op **[!UICONTROL Sync schema]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
@@ -52,7 +52,7 @@ Als u de gegevens van de douaneentiteit van Dynamica in Marketo Engage beschikba
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Selecteer de velden die u wilt synchroniseren of als [beperkingen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} en/of triggers in slimme lijsten. Klik wanneer gereed **[!UICONTROL Enable Sync]**.
+1. Selecteer de velden die u wilt synchroniseren of als [beperkingen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of triggers (voor toegevoegde records) _niet_ bijgewerkt) in slimme lijsten. Klik wanneer gereed **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
