@@ -1,16 +1,16 @@
 ---
-description: Overzicht - Marketo Docs - Productdocumentatie
-title: Overzicht
+description: Marketo Engage Modern UX-overzicht - Marketo Docs - Productdocumentatie
+title: Marketo Engage Moderne UX - Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
 
-# Overzicht {#overview}
+# Marketo Engage Moderne UX - Overzicht {#overview}
 
 Welkom bij de Adobe Marketo Engage Modern UX (gebruikerservaring), een bijgewerkte interface die verbeterde bruikbaarheid en een nieuwe look and feel biedt op het hele Marketo Engage.
 
