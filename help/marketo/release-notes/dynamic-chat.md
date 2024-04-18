@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: e2fcd5587df8776a07b092cd03f081a88480353e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '1193'
+source-wordcount: '1203'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ De standaardpagina Opmerkingen bij de release voor Marketo Engage [hier te vinde
 
 **Releasedatum: 16 april 2024**
 
-### Conversiestromen zijn nu beschikbaar voor gebruikers in het Select-pakket {#conversational-flows-select-package}
+### Conversatiestromen zijn nu beschikbaar voor alle gebruikers {#conversational-flows-available-to-all-users}
 
-Toen wij vorig jaar de Stroom van het Gesprek losbrachten, konden degenen op het Uitgezochte Dynamic Chat uit het vermogen slechts als proef van 100 levensherschikkingen voordeel halen. Conversiestromen zijn nu volledig beschikbaar voor iedereen in het Select-pakket.
+Maak uw formulieren en bestemmingspagina&#39;s conversatiever en verkort de verkooptrechter door gekwalificeerde leads de mogelijkheid te geven een vergadering of chat met verkoop te boeken direct na een formulierverzending met Conversational Forms, nu volledig beschikbaar&#42; voor alle gebruikers van de Dynamic Chat.
 
-De overeenkomsten van de Stroom van het gesprek zullen op de maandelijkse grens van 250 geëngageerde gesprekken voor gebruikers op het Uitgezochte pakket tellen.
+_&#42;Eerder beschikbaar als proeffunctie met 100 levenscycluscontracten. Conversational Flow-services tellen nu mee voor de maandelijkse limiet van 250 gesprekken die gebruikers in het Select-pakket moeten voeren._
 
 ### Callback-functies {#callback-functions}
 

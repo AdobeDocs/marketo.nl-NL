@@ -3,16 +3,16 @@ description: Adobe Identity Management - Overzicht - Marketo Docs - de Documenta
 title: Overzicht van Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 6f9790c2243407f2622970d228c9de6be7697df6
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # Overzicht van Adobe Identity Management {#adobe-identity-management-overview}
 
-Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden geïntegreerd met het Adobe Identity Management System. Bestaande Marketo-abonnementen worden momenteel gemigreerd naar het Adobe Identity Management System bij vernieuwings- en/of uitbestedingsgebeurtenissen. Migraties buiten een gebeurtenis voor vernieuwing of uitbesteding worden momenteel niet ondersteund.
+Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden geïntegreerd met het Adobe Identity Management System. De bestaande abonnementen van de Marketo Engage worden momenteel gemigreerd aan het Systeem van de Adobe Identity Management op om het even welke verkoopgebeurtenis, die vernieuwingen, terugbestedingsgebeurtenissen, en/of toevoegingen omvat. Migraties buiten een verkoopgebeurtenis worden momenteel niet ondersteund.
 
 >[!NOTE]
 >

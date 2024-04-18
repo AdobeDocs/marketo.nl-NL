@@ -3,9 +3,9 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Met Live Chat kunnen websitebezoekers realtime chatgesprekken voeren met uw verk
 
 >[!NOTE]
 >
->Gespreksende stromen en Levende Chat zijn gedeelde proefeigenschappen die een gecombineerde levensgrens van 100 overeenkomsten voor die op het Uitgezochte Dynamic Chat hebben. Wanneer deze grens wordt bereikt, zullen alle gepubliceerde Stromen van de Gesprek ophouden teweegbrengend en de bezoekers die om met een levende agent verzoeken te chatten zullen het globale reservebericht ontvangen. Neem contact op met uw accountvertegenwoordiger om de upgradeopties voor pakketten te bespreken.
+>Voor de gebruikers in het Dynamic Chat Select-pakket is live chat een proeffunctie met een levenslange limiet van 100 opdrachten. Wanneer deze limiet is bereikt, worden bezoekers die vragen te chatten met een live agent niet verbonden en ontvangen ze in plaats daarvan het algemene fallback-bericht. Neem contact op met uw accountvertegenwoordiger van de Adobe om de upgradeopties voor pakketten te bespreken.
 
 ## Actieve chatagents toevoegen {#add-live-chat-agents}
 
