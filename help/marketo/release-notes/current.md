@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 433aae54a012e6bbf04c90056d8815a88e76498c
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -29,17 +29,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
   </tr>
-   <tr> 
-   <td><strong>Sjablonen voor interactieve webinars</strong>: Bespaar tijd door aangepaste sjablonen te maken voor de lay-outs van de ruimte, voorzien van specificaties die passen bij uw organisatie.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-   <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
      <tr> 
    <td><strong>Verbeteringen voor interactieve webinars</strong>: U kunt gastheren en presentatoren nu de mogelijkheid bieden een webinar-titel toe te voegen, de naam van een ruimte te wijzigen en de betrokkenheidsgegevens handmatig te synchroniseren na de levering van de gebeurtenis.</td> 
    <td><i>Binnenkort beschikbaar</i></td>

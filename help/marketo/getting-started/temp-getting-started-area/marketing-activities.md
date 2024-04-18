@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c9bde944-1724-4521-a57a-e8cef4adb5c8
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -135,7 +135,7 @@ Bij marketingactiviteiten worden alle elementen en inhoud opgeslagen die deel ui
   <tr>
     <td>Privacy en naleving</td>
     <td><li>Maak programma's om ervoor te zorgen dat u voldoet aan de privacy van gegevens en de wetgeving voor spam, zoals <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html">GDPR, CASL, CAN-SPAM, CCPA, enz.</a></li>
-    <br>Opmerking: raadpleeg altijd uw juridische team over deze problemen. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen. </td>
+    <br>Opmerking: raadpleeg altijd uw juridische team over deze problemen. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
   <tr>
     <td>Levenscyclus</td>
