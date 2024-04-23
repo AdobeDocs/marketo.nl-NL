@@ -4,7 +4,7 @@ title: NIEUWE ONTWERPSTUDIO VOOR GEBIED
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -20,8 +20,8 @@ Tekst...
 <table>
 <thead>
   <tr>
-    <th>Gebied</th>
-    <th>Actiepunten</th>
+    <th style="width:20%">Gebied</th>
+    <th style="width:80%">Actiepunten</th>
   </tr>
 </thead>
 <tbody>
@@ -47,8 +47,8 @@ Tekst...
 <table>
 <thead>
   <tr>
-    <th>Gebied</th>
-    <th>Actiepunten</th>
+    <th style="width:20%">Gebied</th>
+    <th style="width:80%">Actiepunten</th>
   </tr>
 </thead>
 <tbody>
@@ -72,8 +72,8 @@ Tekst...
 <table>
 <thead>
   <tr>
-    <th>Gebied</th>
-    <th>Item handeling</th>
+    <th style="width:20%">Gebied</th>
+    <th style="width:80%">Actiepunten</th>
   </tr>
 </thead>
 <tbody>
@@ -98,8 +98,8 @@ Tekst...
 <table>
 <thead>
   <tr>
-    <th>Gebied</th>
-    <th>Item handeling</th>
+    <th style="width:20%">Gebied</th>
+    <th style="width:80%">Actiepunten</th>
   </tr>
 </thead>
 <tbody>
@@ -115,8 +115,8 @@ Tekst...
 <table>
 <thead>
   <tr>
-    <th>Gebied</th>
-    <th>Actiepunten</th>
+    <th style="width:20%">Gebied</th>
+    <th style="width:80%">Actiepunten</th>
   </tr>
 </thead>
 <tbody>
@@ -135,8 +135,8 @@ Tekst...
 <table>
 <thead>
   <tr>
-    <th>Gebied</th>
-    <th>Actiepunten</th>
+    <th style="width:20%">Gebied</th>
+    <th style="width:80%">Actiepunten</th>
   </tr>
 </thead>
 <tbody>

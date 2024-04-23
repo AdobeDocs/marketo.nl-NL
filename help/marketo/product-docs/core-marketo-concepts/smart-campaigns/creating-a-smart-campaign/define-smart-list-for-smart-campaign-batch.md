@@ -4,9 +4,9 @@ description: Slimme lijst definiëren voor slimme campagne | Batch - Marketo-doc
 title: Slimme lijst definiëren voor slimme campagne | Batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Slimme lijst definiëren voor slimme campagne | Batch {#define-smart-list-for-smart-campaign-batch}
 
 De slimme Lijsten zijn het mechanisme door Marketo Engage om &quot;te bepalen wie&quot;(welke mensen) om te omvatten, of het een rapport, een lijst, of een Slimme Campagne is. Hier is hoe te om een Slimme Lijst voor een partijcampagne te bepalen.
+
+>[!CAUTION]
+>
+>Het maken van Slimme Lijst of de Stap van de Stroom geeft aan een actieve campagne kan zijn functionaliteit potentieel breken. Als u dit wilt doen, moet u voorzichtig te werk gaan.
 
 1. Kies een slimme campagne en klik op **[!UICONTROL Smart List]**.
 

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 9f442b64f2e6d012207f79d06298583655db86b7
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,10 @@ Starttekst.
   <tr>
     <td>Rollen</td>
     <td><li>Herzie de prebuilt rollen en bevestig welke toestemmingen/toegang elke rol heeft.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Een nieuwe rol maken</a> of <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">de rollen bewerken</a> op basis van de behoeften van uw organisatie en hoe vaak gebruikers zich aanmelden.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Een nieuwe rol maken</a> of <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">de rollen bewerken</a> op basis van de behoeften van uw organisatie.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Gebruikers toewijzen aan de juiste rollen</a>. De gebruikers moeten aan het abonnement in Adobe Admin Console worden toegevoegd alvorens hun rollen in Roles toe te kennen. Raadpleeg de sectie "Gebruikers" in de checklist "Eerste installatie" [LINK].</li>
-    <li>Nadat u de rollen voor gebruikers hebt toegewezen, controleert u het aantal gebruikers per rol.<br>Implementeer een unieke rol voor elke API-gebruiker voor eenvoudige probleemoplossing.</td>
+    <li>Nadat u de rollen voor gebruikers hebt toegewezen, controleert u het aantal gebruikers per rol.</li>
+    <li>Implementeer een unieke rol voor elke API-gebruiker voor eenvoudige probleemoplossing.</li></td>
   </tr>
   <tr>
     <td>Documentatie</td>
@@ -40,7 +41,7 @@ Starttekst.
   </tr>
   <tr>
     <td>Sandbox (indien van toepassing)</td>
-    <td><li>Controleer de bovenstaande categorieën voor uw sandbox als u er een hebt.</li></td>
+    <td><li>Bekijk bovenstaande rubrieken voor je <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">sandbox</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -58,13 +59,14 @@ Starttekst.
   <tr>
     <td>Werkruimten en partities (indien van toepassing)</td>
     <td><li>Bepaal het aantal van<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html" target="_blank"> werkruimten</a> en/of partities die uw organisatie nodig heeft en <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.html" target="_blank">hoeveel gebruikers toegang hebben tot elke werkruimte.</a></li>
-    <li>Bepaal het primaire doel van elke werkruimte en verdeling.<br>Bepaal de verhouding tussen uw werkruimten en verdelingen.</li></td>
+    <li>Bepaal het primaire doel van elke werkruimte en verdeling.</li>
+    <li>Bepaal de verhouding tussen uw werkruimten en verdelingen.</li></td>
   </tr>
   <tr>
     <td>Documentatie</td>
-    <td><li>Documenteer hoe de werkruimten worden bepaald, en hoe dat met gegevensbestandverdelingen (d.w.z. een Globale werkruimte die iedereen, tegenover bedrijfssectoren ziet) verhoudt.</li>
+    <td><li>Documenteer hoe de werkruimten worden bepaald, en hoe dat op gegevensbestandverdelingen betrekking heeft (b.v., een Globale werkruimte die iedereen tegenover bedrijfssectoren toont).</li>
     <li>Importeer nieuwe records naar de juiste partitie.</li>
-    <li>Bepaal de waarde in CRM die gebruikers in de aangewezen verdeling plaatst.</li></td>
+    <li>Bepaal de waarde in uw CRM die gebruikers in de aangewezen verdeling plaatst.</li></td>
   </tr>
 </tbody>
 </table>
@@ -81,13 +83,7 @@ Starttekst.
 <tbody>
   <tr>
     <td>Instellingen voor slimme campagne</td>
-    <td><li>Voeg een <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">beperking van de grootte van slimme campagnes</a>te voorkomen dat per ongeluk de gehele database wordt gemaild.</li></td>
-  </tr>
-  <tr>
-    <td>Documentatie</td>
-    <td><li>Documenteer hoe de werkruimten worden bepaald, en hoe dat met gegevensbestandverdelingen (d.w.z. een Globale werkruimte die iedereen, tegenover bedrijfssectoren ziet) verhoudt.</li>
-    <li>Importeer nieuwe records naar de juiste partitie.</li>
-    <li>Bepaal de waarde in CRM die gebruikers in de aangewezen verdeling plaatst.</li></td>
+    <td><li>Voeg een <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.html" target="_blank">beperking van de grootte van slimme campagnes</a>te voorkomen dat per ongeluk uw gehele database wordt gemaild.</li></td>
   </tr>
 </tbody>
 </table>
@@ -111,10 +107,6 @@ Starttekst.
     <td>SPF/DKIM</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.html" target="_blank">SPF en DKIM instellen</a> voor e-mailleverbaarheid.</li></td>
   </tr>
-  <tr>
-  </tr>
-  <tr>
-  </tr>
 </tbody>
 </table>
 
@@ -130,8 +122,8 @@ Starttekst.
 <tbody>
   <tr>
     <td>Communicatielimieten</td>
-    <td><li>Plaatsen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank" rel="noopener noreferrer">Communicatielimieten</a>.</li>
-    <li>Bepaal als uw zaken een beleid inzake Communicatie Limieten vereist.</li></td>
+    <td><li>Starten <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html" target="_blank">communicatielimieten</a>.</li>
+    <li>Bepaal als uw zaken een beleid op communicatie grenzen vereisen.</li></td>
   </tr>
 </tbody>
 </table>
@@ -148,15 +140,16 @@ Starttekst.
 <tbody>
   <tr>
     <td>Kanalen</td>
-    <td><li>Bepalen hoe u wilt gebruiken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank" rel="noopener noreferrer">kanalen</a>.</li></td>
+    <td><li>Bepalen hoe u wilt gebruiken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html" target="_blank">kanalen</a>.</li></td>
   </tr>
   <tr>
     <td>Tags</td>
-    <td><li>Bepalen hoe u wilt gebruiken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank" rel="noopener noreferrer">tags</a>.</li></td>
+    <td><li>Bepalen hoe u wilt gebruiken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">tags</a>.</li></td>
   </tr>
   <tr>
     <td>Kalender (indien van toepassing)</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank" rel="noopener noreferrer">Licentieschema's voor marketingkalenders afgeven</a> aan degenen die toegang nodig hebben. <br>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank" rel="noopener noreferrer">Kalender.</a></li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">Licentieschema's voor marketingkalenders afgeven</a> aan degenen die toegang nodig hebben.</li>
+    <li>Stel de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">Kalender</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -173,11 +166,9 @@ Starttekst.
 <tbody>
   <tr>
     <td>Veldbeheer</td>
-    <td><li>Naamgevingsconventie implementeren voor <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank" rel="noopener noreferrer">aangepaste velden.</a> Begin bijvoorbeeld met "MKTO".</li>
+    <td><li>Een naamgevingsconventie implementeren voor <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo.html" target="_blank">aangepaste velden</a> (bijvoorbeeld, beginnend met "MKTO").</li>
     <li>Selecteer de velden die u synchroniseert. Hoe meer velden u synchroniseert, hoe langzamer de synchronisatiecyclus wordt.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank" rel="noopener noreferrer">Updates van velden blokkeren</a> waarnaar u wilt schrijven (bijvoorbeeld oorspronkelijke loden bron, oorspronkelijke loden brongegevens, UTM-velden voor eerste aanraking enz.).</li></td>
-  </tr>
-  <tr>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/block-updates-to-a-field.html" target="_blank">Updates van velden blokkeren</a> u wilt naar één keer schrijven (bijvoorbeeld oorspronkelijke bron, oorspronkelijke brongegevens van de bron, UTM-velden van de eerste aanraking, enz.).</li></td>
   </tr>
   <tr>
     <td>Aangepaste activiteiten</td>
@@ -213,16 +204,17 @@ Starttekst.
   </tr>
   <tr>
     <td>Munchkin</td>
-    <td>NOTA: Als u een klant van het Pak van de Lancering bent, gelieve deze stap over te slaan. Uw consultant zal u in het handboek met instructies voor de installatie van uw IT-afdeling codeinstructies geven. <br><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Munchkin-trackingcode toevoegen</a> naar uw website. Munchkin-code kan <a href="https://developers.marketo.com/javascript-api/lead-tracking/">hard-gecodeerd</a> of geïmplementeerd via Google Tag Manager.  </td>
+    <td>NOTA: Als u een klant van het Pak van de Lancering bent, sla deze stap over. Uw consultant zal u in het handboek met instructies voor de installatie van uw IT-afdeling codeinstructies geven.
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Munchkin-trackingcode toevoegen</a> naar uw website. Munchkin-code kan <a href="https://developers.marketo.com/javascript-api/lead-tracking/">hard-gecodeerd</a> of geïmplementeerd via Google Tag Manager.</li></td>
   </tr>
   <tr>
     <td>Webservices</td>
     <td><li>Bepaal de gebruikers/apps die kunnen maken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API-aanroepen</a> in uw exemplaar.</li>
-    <li>Controleer alle apps die API-aanroepen maken en bepaal of een verhoging of cut nodig is voor de API-aanroepen.</li></td>
+    <li>Controleer alle apps die API-aanroepen maken en bepaal of een toename of afname van API-aanroepen nodig is.</li></td>
   </tr>
   <tr>
     <td>LaunchPoint</td>
-    <td><li>Instellen vereist <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> services voor uw bedrijf. Elk LaunchPoint zou met een unieke API gebruiker aan hulp met het oplossen van problemen moeten worden gecombineerd.</li></td>
+    <td><li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> services voor uw bedrijf. Elk LaunchPoint zou met een unieke API gebruiker aan hulp met het oplossen van problemen moeten worden gecombineerd.</li></td>
   </tr>
   <tr>
     <td>Interactieve webinars (indien van toepassing)</td>
@@ -231,14 +223,14 @@ Starttekst.
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (indien van toepassing)</td>
-    <td>Voor gebruik <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>, het inheemse kanaal van de gespreksautomatisering in Marketo Engage, zult u met de opstelling van de gebruikerstoestemming na de hieronder stappen te werk gaan <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Bevestig of aan u een rol van Admin van het Product van de Adobe door uw Adobe Org Systeembeheerder is toegekend. Contact <a href="https://helpx.adobe.com/contact.html">Klantenservice Adoben</a> om te weten te komen wie bij uw organisatie admin voorrechten in de console heeft. <br>Accepteren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">de uitnodiging voor 'Dynamic Chat Product Admin'</a>. De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">welkome e-mail</a> wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten en u als Admin van het Systeem wordt aangewezen.  <br>Wijs alle relevante gebruikers toe aan het productprofiel van de Dynamic Chat in Adobe Admin Console. <br>Als een ongewenste gebruiker aan meerdere productprofielen wordt toegevoegd, moet u de gebruiker uit alle productprofielen verwijderen. Anders hebben ze nog steeds toegang tot Dynamic Chat. <br>U kunt <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Productprofielen bewerken in Dynamic Chat</a> en maak een aangepast profiel met een aangepaste set van <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">rechten beschikbaar binnen uw abonnement</a>. <br>Gebruikers toewijzen aan <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Rollen 'Access Dynamic Chat'</a> in Marketo Engage/Admin/Users &amp; Roles. </td>
+    <td>Voor gebruik <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>, het native gespreksautomatiseringskanaal in Marketo Engage, ga met de opstelling van de gebruikerstoestemming te werk na de hieronder stappen op het <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Bevestig of aan u een rol van Admin van het Product van de Adobe door uw Adobe Org Systeembeheerder is toegekend. Contact <a href="https://helpx.adobe.com/contact.html">Klantenservice Adoben</a> om te weten te komen wie bij uw organisatie admin voorrechten in de console heeft. <br>Accepteren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">de uitnodiging voor 'Dynamic Chat Product Admin'</a>. De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">welkome e-mail</a> wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten en u als Admin van het Systeem wordt aangewezen.  <br>Wijs alle relevante gebruikers toe aan het productprofiel van de Dynamic Chat in Adobe Admin Console. <br>Als een ongewenste gebruiker aan meerdere productprofielen wordt toegevoegd, moet u de gebruiker uit alle productprofielen verwijderen. Anders hebben ze nog steeds toegang tot Dynamic Chat. <br>U kunt <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Productprofielen bewerken in Dynamic Chat</a> en maak een aangepast profiel met een aangepaste set van <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">rechten beschikbaar binnen uw abonnement</a>. <br>Gebruikers toewijzen aan <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Rollen 'Access Dynamic Chat'</a> in Marketo Engage/Admin/Users &amp; Roles. </td>
   </tr>
   <tr>
     <td>Verkoopoverzicht (indien van toepassing)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Handeling Verkoopinzicht instellen</a> in Sales Insight&gt;Actions Config.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Geef licenties door aan de juiste gebruikers.</a></li>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Handeling Verkoopinzicht instellen</a> in Sales Insight &gt; Actions Config.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Licenties toekennen aan de juiste gebruikers</a>.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">De API configureren</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">Pas de leadscores aan.</a></li></td>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">De leadscores aanpassen</a>.</li></td>
   </tr>
   <tr>
     <td>Verkoopverbinding (indien van toepassing)</td>

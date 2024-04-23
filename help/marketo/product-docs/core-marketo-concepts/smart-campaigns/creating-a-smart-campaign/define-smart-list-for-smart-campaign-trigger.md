@@ -4,9 +4,9 @@ description: Slimme lijst definiëren voor slimme campagne | Trigger - Marketo D
 title: Slimme lijst definiëren voor slimme campagne | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: a9d902bf40e6193838a931ecb96a080bae098d68
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Slimme lijst definiëren voor slimme campagne | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
 Maak een slimme Campagne in werking gesteld op één persoon in een tijd die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen.
+
+>[!CAUTION]
+>
+>Het maken van Slimme Lijst of de Stap van de Stroom geeft aan een actieve campagne kan zijn functionaliteit potentieel breken. Als u dit wilt doen, moet u voorzichtig te werk gaan.
 
 1. Klik in uw slimme campagne op de knop **[!UICONTROL Smart List]** tab.
 
