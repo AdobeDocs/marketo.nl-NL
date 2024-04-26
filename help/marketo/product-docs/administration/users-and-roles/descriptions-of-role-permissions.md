@@ -4,9 +4,9 @@ description: Beschrijvingen van roltoestemmingen - de Documenten van Marketo - d
 title: Beschrijvingen van rolmachtigingen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
+source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1429'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegang tot webhaken - Geeft gebruikers in Admin toegang tot webhooks voor het instellen van details en responstoewijzingen
 * Toegang tot werkruimten en partities - biedt gebruikers toegang tot het maken, bewerken en verwijderen van werkruimten en partities in Admin
 
-_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
+_&#42;Om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
 
 ## API voor toegang  {#access-api}
 
@@ -105,7 +105,7 @@ Biedt gebruikers toegang tot de tabbladen Analytics, Email Insights, Reports en 
 * Rapport verwijderen - Als de controle ongedaan wordt gemaakt, kan de gebruiker rapporten verwijderen
 * Analytische gegevens exporteren - Als de controle ongedaan wordt gemaakt, kan de gebruiker geen analysegegevens exporteren
 
-_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
+_&#42;Om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
 
 ## Toegang tot agenda-Presentations {#access-calendar-presentations}
 
@@ -190,7 +190,7 @@ Bekijk de database en bekijk en bewerk slimme/statische lijsten.
 
 * Opportuniteitsgegevens weergeven - Verbergt de opportuniteitsinformatie op de pagina met persoonlijke details
 
-_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
+_&#42;Om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
 
 ## Toegang tot marketingactiviteiten {#access-marketing-activities}
 
@@ -225,7 +225,7 @@ Toegang tot SEO
 * SEO beheren
 * StandaardSEO
 
-_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
+_&#42;Om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
 
 ## Gericht en persoonlijk tintje {#targeting-and-personalization}
 
