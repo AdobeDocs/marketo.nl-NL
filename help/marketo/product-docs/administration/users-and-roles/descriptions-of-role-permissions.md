@@ -4,9 +4,9 @@ description: Beschrijvingen van roltoestemmingen - de Documenten van Marketo - d
 title: Beschrijvingen van rolmachtigingen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: b3ada10feed3ee2a8adc31f8c5207c4bc4f01e5d
 workflow-type: tm+mt
-source-wordcount: '1137'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,18 @@ Wanneer u [een rol maken of bewerken](/help/marketo/product-docs/administration/
 
 In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen.
 
+* Toegang tot Adobe Connect - geeft gebruikers toegang tot het Adobe Connect-scherm
+* Toegang tot Adobe Experience Manager&#42; - Biedt gebruikers toegang tot het Adobe Experience Manager-scherm
+* Toewijzing organisatie van toegangsorganisatie&#42; - Biedt gebruikers toegang tot het scherm Toewijzing organisatie Adobe
+* Access Admin Audit Trail&#42; - Biedt gebruikers toegang tot het scherm Admin Audit Trail
+* Access Access Audit Trail&#42; - Biedt gebruikers toegang tot Actie Audit Trail
 * Access Audit Trail - geeft gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail
+* Toegang tot CAPTCHA - Toegang tot het scherm CAPTCHA
 * Toegang tot kanalen - Gebruikers hebben alleen toegang om de Kanaaltag te wijzigen, niet andere aangepaste tags
 * Toegang tot communicatielimiet - geeft gebruikers toegang om een communicatielimiet in Admin in te schakelen
 * Toegang CRM - geeft gebruikers toegang tot CRM, zoals [!DNL Salesforce] of [!DNL Microsoft Dynamics], in Admin
-* Toegang [[!DNL Data.com]](https://Data.com) - Biedt gebruikers toegang tot de Data.com-flowactie
-* Toegang tot e-mailbeheerder - Gebruikers krijgen toegang tot e-mailbeheerder om de standaardinstellingen te wijzigen, zoals het afmelden en brandmerken van domeinen
+* Toegang [[!DNL Data.com]](https://data.com) - Biedt gebruikers toegang tot de actie Data.com
+* Toegang tot e-mailbeheerder - Gebruikers hebben toegang tot e-mailbeheerder om de standaardinstellingen te wijzigen, zoals het afmelden en brandmerken van domeinen
 * Access Event Partners - Biedt gebruikers toegang tot LaunchPoint in Admin
 * Toegangsveldbeheer - geeft gebruikers toegang tot veldbeheer in Admin
 * Toegang tot bestanden uploaden - Gebruikers kunnen afbeeldingen en bestanden uploaden naar Design Studio
@@ -44,9 +50,11 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegangslocatie - Gebruikers hebben toegang tot de locatie in Admin voor het instellen van de standaardtaal, -landinstelling, -tijdzone en -valuta
 * Toegangsgeschiedenis voor aanmelding - geeft gebruikers toegang tot registratiegeschiedenis van gebruiker in audittrail
 * De Montages van de Login van de toegang - verleent gebruikers toegang tot Login Montages in Admin voor Veiligheid, IP Beperkingen, en de Slimme montages van het Rapport van de Lijst
+* Toegang tot nieuwe ervaring&#42; - Biedt gebruikers toegang tot het scherm Nieuwe ervaring
 * Toegang tot aangepaste Marketo-activiteiten - geeft gebruikers toegang tot aangepaste Marketo-activiteiten in Admin
 * Toegang tot aangepast Marketo-object - geeft gebruikers toegang tot aangepaste Marketo-objecten in Admin
-* Toegang [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, voor het plaatsen van het volgen van code, persoon het volgen en het toelaten van API configuratie
+* Toegang [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, voor het plaatsen van het volgen code, persoon volgen en het toelaten API configuratie
+* Voorspelend publiek toegang&#42; - Biedt gebruikers toegang tot het scherm Voorspelend publiek
 * De Analyse van de Cyclus van de Opbrengst van de toegang - geeft gebruikers toegang tot de Analytics van de Cyclus van de Opbrengst in Admin, voor het plaatsen van Samenvatting en Attributie van de Synchronisatie
 * De Rollen van de toegang - verleent gebruikers toegang om rollen te beheren en uit te geven, maar niet gebruikers
 * Access Sales Insight - geeft gebruikers toegang tot het beheer van Sales Insight in Admin, voor het instellen van Status, API-configuratie, Person Scores en andere instellingen
@@ -59,6 +67,8 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegang tot webhaken - Geeft gebruikers in Admin toegang tot webhooks voor het instellen van details en responstoewijzingen
 * Toegang tot werkruimten en partities - biedt gebruikers toegang tot het maken, bewerken en verwijderen van werkruimten en partities in Admin
 
+_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
+
 ## API voor toegang  {#access-api}
 
 Biedt gebruikers de **Alleen API** **Rol** toegang tot de afzonderlijke API&#39;s die hieronder worden vermeld.
@@ -69,14 +79,14 @@ Biedt gebruikers de **Alleen API** **Rol** toegang tot de afzonderlijke API&#39;
 * Metagegevens activiteit alleen-lezen
 * Alleen-lezen elementen
 * Alleen-lezen campagne
-* Bedrijf met alleen-lezen
+* Alleen-lezen bedrijf
 * Alleen-lezen aangepast object
 * Alleen-lezen persoon
 * Benoemd account (alleen-lezen)
 * Opportunity, alleen-lezen
 * Alleen-lezen verkoper
 * Leesschrijfactiviteit
-* Metagegevens leesschrijfactiviteit
+* Metagegevens lezen/schrijven-activiteit
 * Read-Write Middelen
 * Campagne voor schrijven
 * Read-Write Bedrijf
@@ -91,8 +101,11 @@ Biedt gebruikers de **Alleen API** **Rol** toegang tot de afzonderlijke API&#39;
 Biedt gebruikers toegang tot de tabbladen Analytics, Email Insights, Reports en de drie onderstaande items, tenzij deze zijn uitgeschakeld.
 
 * De Ontdekkingsreiziger van de Inkomsten van de toegang - Unchecking verwijdert de toegang van de gebruiker tot Ontdekkingsreiziger van de Inkomsten
+* Rapport maken&#42; - Biedt gebruikers toegang tot het maken, klonen, lezen, bijwerken en verplaatsen van Rapportmiddelen in Analytics en Marketing Activity, en de middelen van de Modelfunctie van de inkomstencyclus
 * Rapport verwijderen - Als de controle ongedaan wordt gemaakt, kan de gebruiker rapporten verwijderen
 * Analytische gegevens exporteren - Als de controle ongedaan wordt gemaakt, kan de gebruiker geen analysegegevens exporteren
+
+_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
 
 ## Toegang tot agenda-Presentations {#access-calendar-presentations}
 
@@ -105,7 +118,7 @@ Biedt gebruikers toegang tot kalenderpresentaties - maakt het mogelijk de Presen
 Biedt gebruikers toegang tot het lusje van de Studio van het Ontwerp en mening van de boom, maar niet tot details.
 
 * Toegang tot e-mail
-   * E-mail bewerken - Hiermee geeft u gebruikers toestemming om e-mailberichten te bewerken, te maken en te klonen
+   * E-mail bewerken - Hiermee geeft u gebruikers toestemming om e-mailberichten te bewerken, maken en klonen
       * E-mail operationeel maken - Hiermee geeft u gebruikers toestemming om een e-mail operationeel te maken. Zie: [Een e-mail operationeel maken](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * E-mail goedkeuren - Hiermee kunnen gebruikers e-mailberichten goedkeuren.
@@ -164,8 +177,11 @@ Bekijk de database en bekijk en bewerk slimme/statische lijsten.
    * Segmentering bewerken
 
 * Persoon verwijderen
+* Lijst maken&#42;
+   * Toegang tot het maken van een lijstmiddel in database- en marketingactiviteiten
+   * Toegang tot het maken van een slim lijstmiddel in database- en marketingactiviteiten
 * Lijst verwijderen
-* Persoon bewerken - Hiermee voorkomt u handmatig bewerken en doorlopen van stappen in één stroom. u kunt mensen nog steeds bewerken door campagnes tegen hen uit te voeren
+* Persoon bewerken - Hiermee voorkomt u handmatig bewerken en voert u stappen voor één flow uit. U kunt personen nog steeds bewerken door campagnes tegen hen uit te voeren
 * Persoon exporteren - Werkbladen exporteren vanuit uw databaselijsten
 * Aangepast object importeren
 * Lijst importeren
@@ -173,6 +189,8 @@ Bekijk de database en bekijk en bewerk slimme/statische lijsten.
 * Single Flow-handelingen uitvoeren - Hiermee kunnen gebruikers werken **Gegevenswaarde wijzigen** stap voor doorloop op personen uit de database
 
 * Opportuniteitsgegevens weergeven - Verbergt de opportuniteitsinformatie op de pagina met persoonlijke details
+
+_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
 
 ## Toegang tot marketingactiviteiten {#access-marketing-activities}
 
@@ -197,6 +215,7 @@ Bekijk het tabblad Marketingactiviteiten, campagnes en campagnemappen.
 * Marketing-element verwijderen
 * Campagnebeperkingen bewerken
 * Marketing-element bewerken
+* Campagne exporteren&#42;
 * Importprogramma
 * Lijstimport
 * Batchcampagne plannen
@@ -206,11 +225,13 @@ Toegang tot SEO
 * SEO beheren
 * StandaardSEO
 
+_&#42;Deze toestemming wordt geïntroduceerd in passieve wijze en is op dit ogenblik niet toegankelijk, om verstoring voor bestaande gebruikers te vermijden. We zullen communiceren hoe het moet worden geïmplementeerd wanneer het medio 2024 actief wordt._
+
 ## Gericht en persoonlijk tintje {#targeting-and-personalization}
 
 * Webpersonalisatie beheren
 * CRE-campagneeditor
-* CRE Campaign Launcher
+* CRE-campagne starten
 * Webcampagne-editor
 * Web Campaign Launcher
 
