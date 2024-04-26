@@ -3,7 +3,7 @@ description: Interactieve webinars - Overzicht van Marketo Docs - Productdocumen
 title: Overzicht van interactieve webinars
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: a92ad77514a827e7a227d0548ab75a6a65831220
+source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Nr, maken de Interactieve Programma&#39;s van de Gebeurtenis Webinar de verenigi
 
 Als het veld &quot;voornaam&quot; van de lead leeg is, kunnen ze zich niet registreren voor het webinar. U kunt dit oplossen door een geldige voornaam in te voeren.
 
-**Ik ervaart audio/videokwesties terwijl het voorstellen van een webinar terwijl het toegang tot van VPN van mijn organisatie. Wat doe ik?**
+**Ik ervaart audio/videokwesties wanneer het voorstellen van een webinar terwijl de toegang tot van VPN van mijn organisatie. Wat doe ik?**
 
 Adobe Connect, het leveringsplatform van Interactive Webinars, gebruikt WebRTC voor audio/video/scherm-delen. Het is waarschijnlijk de het netwerkfirewall van uw organisatie blokkeert de IP adressen/de havens die wij voor WebRTC-Gebaseerde mededeling gebruiken. Uw team van IT moet deze havens voor WebRTC toestaan om te werken. [Meer informatie](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
