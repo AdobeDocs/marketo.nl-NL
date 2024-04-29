@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c2c95f36c710ba7a9ac75c2160c72e44b5f81a99
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '9289'
+source-wordcount: '9281'
 ht-degree: 0%
 
 ---
@@ -45,10 +45,6 @@ ht-degree: 0%
       + [Overgenomen instantie: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [Overgenomen instantie: Uw instelling documenteren](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Kernvaardigheden evalueren](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
-   + Aan de slag met TEMP-gebied {#temp-getting-started-area}
-      + [Beheerder](getting-started/temp-getting-started-area/admin.md)
-      + [Database](getting-started/temp-getting-started-area/database.md)
-      + [Marketingactiviteiten](getting-started/temp-getting-started-area/marketing-activities.md)
 + Productdocumenten {#product-docs}
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}

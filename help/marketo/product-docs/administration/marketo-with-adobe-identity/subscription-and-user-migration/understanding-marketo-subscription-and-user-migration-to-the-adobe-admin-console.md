@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d32189021024da48dd8a333f80398cf0d92a4f66
+source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
 workflow-type: tm+mt
-source-wordcount: '1327'
+source-wordcount: '1370'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Tijdens de migratie gaan uw abonnement en gebruikersbeheer van de Marketo-toepas
 
 * **Systeembeheerders beheren abonnementen op Adobe Admin Console**. Bekijk al uw producten van de Adobe in één console.
 
-* **Productbeheerders beheren gebruikers en hun toegang op Adobe Admin Console**. Voeg gebruikers toe en verwijder gebruikers voor al uw Adobe abonnementen.
+* **Productbeheerders beheren gebruikers en hun toegang op Adobe Admin Console**. Voeg gebruikers toe en verwijder gebruikers voor al uw Adobe abonnementen. De Adobe Admin Console biedt geen ondersteuning voor het verlopen van gebruikerstoegang. Gebruikers die toegang tot Marketo&#39;s Engage hebben die volgens de planning na de migratie verlopen, zullen nog steeds worden gemigreerd en niet-vervallende toegang krijgen. Na de migratie moeten ze handmatig worden verwijderd op (of voor) de gewenste vervaldatum.
 
 * **Gebruikers zullen zich aanmelden met Adobe-id**. Adobe migreert bestaande gebruikers naar de Adobe Admin Console. Gebruikers zullen zich aanmelden bij hun Marketo-abonnementen met hun nieuwe Adobe Identity - een Adobe ID- of Adobe Federated ID (SSO).
 
