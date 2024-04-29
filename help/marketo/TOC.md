@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 04544aacaf1eeec4ee60d0c09cae87ad591a1c9c
+source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '9281'
+source-wordcount: '9346'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,24 @@ ht-degree: 0%
       + [Overgenomen instantie: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
       + [Overgenomen instantie: Uw instelling documenteren](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Kernvaardigheden evalueren](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
++ Aan de slag met Marketo 2 {#getting-started-with-marketo-2}
+   + [Wat is Adobe Marketo Engage?](getting-started-2/what-is-adobe-marketo-engage.md)
+   + Eerste instelling {#initial-setup}
+      + [De eerste Taken van de Opstelling](getting-started-2/initial-setup/initial-setup-tasks.md)
+      + [Stappen instellen](getting-started-2/initial-setup/setup-steps.md)
+      + [Gebruikersinstelling](getting-started-2/initial-setup/user-setup.md)
+   + Het uitvoeren van een Nieuwe Instantie van het Marketo Engage {#implementing-a-new-marketo-engage-instance}
+      + [Waar moet worden begonnen?](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
+      + [Nieuwe instantie: Controlelijst voor sectie Admin](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Nieuwe instantie: checklist database](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Nieuwe instantie: checklist marketingactiviteiten](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Nieuwe instantie: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Nieuwe instantie: uw instelling documenteren](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+   + Informatie over dingen {#things-to-know}
+      + [Woordenlijst Marketo Engage](getting-started-2/things-to-know/marketo-engage-glossary.md)
+      + [Woordenlijst met pictogrammen](getting-started-2/things-to-know/icon-glossary.md)
+      + [Verklarende woordenlijst Klassiek pictogram](getting-started-2/things-to-know/classic-icon-glossary.md)
+      + [Help Center](getting-started-2/things-to-know/help-center.md)
 + Productdocumenten {#product-docs}
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}

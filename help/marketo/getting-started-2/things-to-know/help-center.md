@@ -1,11 +1,12 @@
 ---
-description: Help Center - Marketo Docs - Productdocumentatie
+description: Help Center - Marketo Engage Docs - Productdocumentatie
 title: Help Center
+hide: true
+hidefromtoc: true
 feature: Getting Started
-exl-id: 5acb6ae5-73f5-417b-8fbc-e5bbfa37a623
 source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -18,39 +19,39 @@ Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor h
 
 Nadat u zich bij Marketo Engage hebt aangemeld, klikt u op het pictogram Help.
 
-![](assets/help-center-1.png)
+SCREENSHOT
 
 ### Hulplijnen {#guides}
 
 Hulplijnen dienen als snelle doorverwijzingen voor veelgebruikte functies.
 
-![](assets/help-center-2.png)
+SCREENSHOT
 
 1. Klik op de gewenste hulplijn om deze weer te geven.
 
-   ![](assets/help-center-3.png)
+SCREENSHOT
 
 1. Klikken **Aan de slag**.
 
-   ![](assets/help-center-4.png)
+SCREENSHOT
 
 1. Klikken **Volgende** om door te gaan.
 
-   ![](assets/help-center-5.png)
+SCREENSHOT
 
 1. Klikken **Gereed** om de analyse weg te gaan.
 
-   ![](assets/help-center-6.png)
+SCREENSHOT
 
-   >[!TIP]
-   >
-   >De hulplijn op elk gewenst moment afsluiten door op **Afwijzen**.
+>[!TIP]
+>
+>De hulplijn op elk gewenst moment afsluiten door op **Afwijzen**.
 
 ### Nieuwe functies {#whats-new}
 
 Het tabblad Nieuwe functies bevat de volledige details van de meest recente release van het Marketo Engage.
 
-![](assets/help-center-7.png)
+SCREENSHOT
 
 >[!TIP]
 >
@@ -60,4 +61,4 @@ Het tabblad Nieuwe functies bevat de volledige details van de meest recente rele
 
 Het lusje van Middelen geeft u snelle en directe toegang tot diverse manieren u extra hulp met uw instantie van het Marketo Engage kunt krijgen.
 
-![](assets/help-center-8.png)
+SCREENSHOT
