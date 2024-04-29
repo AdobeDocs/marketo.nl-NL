@@ -4,9 +4,9 @@ title: Stappen instellen
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1711'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ Het eerste deel (vet weergegeven) is het `[LandingPageCNAME]`. Je hebt het nodig
 
 Ga naar het beheergebied om de Munchkin-id op te halen die u vervangt door de CNAME van de bestemmingspagina.
 
-![](assets/setup-steps-9.png)
+SCREENSHOT: setup-stappen-9.png
 
 Klikken **Mijn account**.
 
-![](assets/setup-steps-10.png)
+SCREENSHOT: setup-stappen-10.png
 
 De [!UICONTROL Account String] van de instellingen van de bestemmingspagina.
 
-![](assets/setup-steps-11.png)
+SCREENSHOT: setup-stappen-11.png
 
 Dit is het `[Munchkin ID]`. Sla het bestand op. U moet het aan IT in Stap 5 geven.
 
@@ -100,17 +100,17 @@ Het eerste deel is de e-mailtracking CNAME. `[EmailTrackingCNAME]`. U zult het a
 
 Ga naar de **[!UICONTROL Admin]** gebied.
 
-![](assets/setup-steps-12.png)
+SCREENSHOT: setup-stappen-12.png
 
 Klik op **[!UICONTROL Email]**.
 
-![](assets/setup-steps-13.png)
+SCREENSHOT: setup-stappen-13.png
 
 De [!UICONTROL Tracking Link] uit uw e-mailinstellingen.
 
 De [!UICONTROL Tracking Link] in de vorm: `mkto-[a-z][4 digits].com`.
 
-![](assets/setup-steps-14.png)
+SCREENSHOT: setup-stappen-14.png
 
 Dit is uw `[MktoTrackingLink]`. Sla het bestand op. U moet het aan IT in Stap 5 geven.
 
@@ -215,35 +215,35 @@ Nadat de IT-afdeling hun taken heeft voltooid, voert u de volgende stappen uit o
 
 Ga naar de **[!UICONTROL Admin]** gebied voor het toevoegen van de NAAM van uw bestemmingspagina
 
-![](assets/setup-steps-15.png)
+SCREENSHOT: setup-stappen-15.png
 
 Selecteer bestemmingspagina&#39;s en klik **[!UICONTROL Edit]** in de [!UICONTROL Settings] gebied.
 
-![](assets/setup-steps-16.png)
+SCREENSHOT: setup-stappen-16.png
 
 Voer uw nieuwe domeinnaam in het veld in **[!UICONTROL Domain Name for Landing Pages]**. Dit moet de volgende vorm hebben:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
-![](assets/setup-steps-17.png)
+SCREENSHOT: setup-stappen-17.png
 
 In de **[!UICONTROL Fallback]** Voer de URL in waarnaar de mensen moeten gaan als er geen bestemmingspagina beschikbaar is. U kunt de homepage van uw bedrijf gebruiken als u geen reservepagina hebt. In de **[!UICONTROL Homepage]** in, voert u uw bedrijfswebsite in.
 
-![](assets/setup-steps-18.png)
+SCREENSHOT: setup-stappen-18.png
 
 In de [!UICONTROL Admin] gebied, selecteren **[!UICONTROL Email]** om uw e-mailNAAM toe te voegen
 
-![](assets/setup-steps-19.png)
+SCREENSHOT: setup-stappen-19.png
 
 Omlaag schuiven naar [!UICONTROL Branding Domains]. Selecteer uw domein en klik **[!UICONTROL Edit]**.
 
-![](assets/setup-steps-20.png)
+SCREENSHOT: setup-stappen-20.png
 
 Voer in het veld Domein uw domein voor het bijhouden van e-mail in. Dit moet de volgende vorm hebben:
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Klik op **[!UICONTROL Save]**.
 
-![](assets/setup-steps-21.png)
+SCREENSHOT: setup-stappen-21.png
 
 ## Uw CRM integreren {#integrate-your-crm}
 
