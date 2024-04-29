@@ -1,17 +1,17 @@
 ---
 description: Opstelling de sectie van de Studio van het Ontwerp voor uw nieuwe instantie van het Marketo Engage.
-title: Nieuwe instantie - Design Studio Checklist
+title: Nieuwe beste praktijken van de Instantie - de Controlelijst van de Studio van het Ontwerp
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-# Nieuwe instantie: Design Studio Checklist {#new-instance-design-studio-checklist}
+# Nieuwe best practices voor instanties: Design Studio Checklist {#new-instance-best-practices-design-studio-checklist}
 
 De sectie van de Studio van het Ontwerp is waar de herbruikbare &quot;globale activa&quot;zouden moeten verblijven. Maak de algemene elementen die uw organisatie in programma&#39;s wil gebruiken, gebruik een consistente naamgevingsconventie en deel deze in de submappen in voor eenvoudige zoekopdrachten.
 

@@ -1,17 +1,17 @@
 ---
 description: Stel de sectie Admin in voor uw nieuwe Marketo Engage-instantie.
-title: Nieuwe instantie - Controlelijst voor sectie Admin
+title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor sectie Admin
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: '1099'
 ht-degree: 0%
 
 ---
 
-# Nieuwe instantie: Controlelijst voor sectie Admin {#new-instance-admin-section-checklist}
+# Aanbevolen werkwijzen voor nieuwe instanties: Controlelijst voor sectie Admin {#new-instance-best-practices-admin-section-checklist}
 
 Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, pas checklist hieronder toe helpen u door het implementatieproces begeleiden. Net als bij al deze hulplijnen kunt u de checklists downloaden [KOPPELING] en de voortgang volgen.
 

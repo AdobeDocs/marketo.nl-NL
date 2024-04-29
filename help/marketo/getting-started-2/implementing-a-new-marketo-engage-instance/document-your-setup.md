@@ -1,17 +1,17 @@
 ---
 description: Documenteer de opstelling van uw nieuwe instantie van het Marketo Engage.
-title: Nieuwe instantie - Uw instelling documenteren
+title: Aanbevolen werkwijzen voor nieuwe instanties - Uw instellingen documenteren
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
 
-# Nieuwe instantie: uw instelling documenteren {#new-instancei-document-your-setup}
+# Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren {#new-instance-best-practices-document-your-setup}
 
 Nu u de belangrijkste productgebieden aan opstelling voor een nieuwe instantie van het Marketo Engage hebt geleerd, is de volgende stap documentatie voor uw instantieconfiguratie en technologiestapel te creëren. Of het creëren van het via spreadsheet of een toepassing van het projectbeheer, uw documentatie zal een groot middel zijn om vooruitgang te volgen en details te registreren, evenals uw instantie gestructureerd en houdbaar voor toekomstige marketers binnen uw organisatie te houden.
 

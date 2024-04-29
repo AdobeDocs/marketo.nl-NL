@@ -1,17 +1,17 @@
 ---
 description: Opstelling de sectie van het Gegevensbestand voor uw nieuwe instantie van het Marketo Engage.
-title: Nieuwe instantie - Controlelijst voor database
+title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor database
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# Nieuwe instantie: checklist database {#new-instance-database-checklist}
+# Aanbevolen werkwijzen voor nieuwe instanties: checklist database {#new-instance-best-practices-database-checklist}
 
 De sectie van het Gegevensbestand voorziet u van een momentopname van de belangrijkste attributen over de mensen in uw instantie. Leer meer over de noodzakelijke stappen om door verschillende lijsten en segmentaties in uw Gegevensbestand te navigeren, evenals het beheren van personenverslagen.
 

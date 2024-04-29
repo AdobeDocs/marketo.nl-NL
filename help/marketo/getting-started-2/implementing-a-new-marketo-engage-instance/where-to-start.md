@@ -4,9 +4,9 @@ title: Waar moet worden begonnen?
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2edeac3d6111208e454e61a3dccad45e5fd53916
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Welkom bij je nieuwe Adobe Marketo Engage-exemplaar! Krijg klaar om marketing taken en workflows te stroomlijnen, te automatiseren en te meten met krachtige mogelijkheden voor marketingautomatisering.
 
-In deze &quot;Implementatie van een Nieuwe Instantie van het Marketo Engage&quot;gids, leer hoe te om uw instantie naadloos uit te voeren om op lange termijn hygiëne en operationele efficiency te verzekeren. Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik de downloadbare checklists om uw werk onderweg te documenteren voor toekomstige controles en onboarding.
+In deze &quot;Implementatie van een Nieuwe Instantie van het Marketo Engage&quot;gids, leer de beste praktijken voor naadloos het uitvoeren van uw instantie om op lange termijn hygiëne en operationele efficiency te verzekeren. Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik de downloadbare checklists om uw werk onderweg te documenteren voor toekomstige controles en onboarding.
 
 ## Controlelijsten voor beste praktijken voor uw nieuwe instantie van het Marketo Engage {#best-practice-checklists-new-instance}
 

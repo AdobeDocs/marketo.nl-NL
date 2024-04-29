@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9356'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ ht-degree: 0%
       + [Gebruikersinstelling](getting-started-2/initial-setup/user-setup.md)
    + Het uitvoeren van een Nieuwe Instantie van het Marketo Engage {#implementing-a-new-marketo-engage-instance}
       + [Waar moet worden begonnen?](getting-started-2/implementing-a-new-marketo-engage-instance/where-to-start.md)
-      + [Nieuwe instantie: Controlelijst voor sectie Admin](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
-      + [Nieuwe instantie: checklist database](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Nieuwe instantie: checklist marketingactiviteiten](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
-      + [Nieuwe instantie: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
-      + [Nieuwe instantie: uw instelling documenteren](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
+      + [Aanbevolen werkwijzen voor nieuwe instanties: Controlelijst voor sectie Admin](getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
+      + [Aanbevolen werkwijzen voor nieuwe instanties: checklist database](getting-started-2/implementing-a-new-marketo-engage-instance/database-checklist.md)
+      + [Aanbevolen werkwijzen voor nieuwe instanties: checklist voor marketingactiviteiten](getting-started-2/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
+      + [Nieuwe best practices voor instanties: Design Studio Checklist](getting-started-2/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started-2/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
       + [Woordenlijst Marketo Engage](getting-started-2/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started-2/things-to-know/icon-glossary.md)

@@ -1,17 +1,17 @@
 ---
 description: Opstelling de sectie van de Activiteiten van de Marketing voor uw nieuwe instantie van het Marketo Engage.
-title: Nieuwe instantie - Controlelijst voor marketingactiviteiten
+title: Aanbevolen werkwijzen voor nieuwe instanties - Checklist voor marketingactiviteiten
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 2910b81de3eabb0793b9a339eb4fc934d620d525
+source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
 
-# Nieuwe instantie: checklist marketingactiviteiten {#new-instance-marketing-activities-checklist}
+# Aanbevolen werkwijzen voor nieuwe instanties: checklist voor marketingactiviteiten {#new-instance-best-practices-marketing-activities-checklist}
 
 Bij marketingactiviteiten worden alle elementen en inhoud opgeslagen die deel uitmaken van uw geautomatiseerde marketingprogramma&#39;s. Terwijl u een nieuw exemplaar van het Marketo Engage instelt, zorgt een schone en duidelijke organisatie ervoor dat alle gebruikers gemakkelijk diverse programma&#39;s kunnen vinden en beheren.
 
