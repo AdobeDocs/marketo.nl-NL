@@ -3,7 +3,7 @@ description: Opmerkingen bij de release Dynamic Chat - Marketo Docs - Productdoc
 title: Opmerkingen bij de release Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: a3089d4ff390f600f7820110ac5d40872deb4eb0
+source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
 workflow-type: tm+mt
 source-wordcount: '1203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ _&#42;Eerder beschikbaar als proeffunctie met 100 levenscycluscontracten. Conver
 
 ### Callback-functies {#callback-functions}
 
-Met callback-functies kunt u analytische gebeurtenissen voor Dynamics Chat verzamelen in externe systemen, zoals Adobe Analytics of Googles Analytics, terwijl bezoekers gesprekken met Dynamics Chat voeren. U schakelt Dynamic Chat analytics-gebeurtenissen in door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van de betrokkenheid van uw Dynamic Chat hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
+[Callback-functies](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} kunt u Dynamic Chat analytische gebeurtenissen in externe systemen, zoals Adobe Analytics of Googles Analytics, verzamelen aangezien de bezoekers met Dynamic Chat gesprekken in gesprek gaan. U schakelt Dynamic Chat analytics-gebeurtenissen in door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van de betrokkenheid van uw Dynamic Chat hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
 
 ### Beschikbaarheidsvoorwaarden voor actieve agent toegevoegd aan voorwaardelijke vertakking {#live-agent-availability-conditional-branching}
 

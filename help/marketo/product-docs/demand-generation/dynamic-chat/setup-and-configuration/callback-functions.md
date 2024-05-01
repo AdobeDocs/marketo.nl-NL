@@ -1,12 +1,11 @@
 ---
 description: Callback-functies - Marketo Docs - Productdocumentatie
 title: Callback-functies
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 30deeb59cd70b42af38cd1e047833394f9341a5c
+exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
+source-git-commit: 1641d3f7ea96c8898f902d52271fd2bb2116e966
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -78,7 +77,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Het argument &#39;event&#39; in de gebeurtenis is een object met metagegevens die betrekking hebben op een gesprek. U hebt toegang tot de metagegevens via event.data
+De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
 Hieronder ziet u enkele belangrijke waarden voor metagegevens die u kunt gebruiken:
 
@@ -141,7 +140,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Het argument &#39;event&#39; in de gebeurtenis is een object met metagegevens die betrekking hebben op een gesprek. U hebt toegang tot de metagegevens via event.data
+De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
 Hieronder vindt u enkele belangrijke waarden voor metagegevens die u kunt openen.
 
@@ -194,7 +193,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Het argument &#39;event&#39; in de gebeurtenis is een object met metagegevens die betrekking hebben op een gesprek. U hebt toegang tot de metagegevens via event.data
+De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
 Hieronder vindt u enkele belangrijke waarden voor metagegevens die u kunt openen.
 
@@ -295,7 +294,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-Het argument &#39;event&#39; in de gebeurtenis is een object met metagegevens die betrekking hebben op een gesprek. U hebt toegang tot de metagegevens via event.data
+De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
 Hieronder vindt u enkele belangrijke waarden voor metagegevens die u kunt openen.
 
@@ -338,7 +337,7 @@ Hieronder vindt u enkele belangrijke waarden voor metagegevens die u kunt openen
 </tbody>
 </table>
 
-Als u om het even welk van deze gebeurtenissen naar een derdeplatform zoals Adobe Analytics of Googles Analytics wilde verzenden, zou u hun respectieve het volgen vraag binnen deze gebeurtenissen van de Dynamic Chat moeten toevoegen. Het zou er ongeveer zo uitzien als het onderstaande voorbeeld.
+Als u een van deze gebeurtenissen naar een analyseplatform zoals Adobe Analytics of Googles Analytics wilt verzenden, moet u de respectievelijke traceringsaanroep binnen deze Dynamic Chat-gebeurtenissen toevoegen. Het zou er ongeveer zo uitzien als het onderstaande voorbeeld.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
