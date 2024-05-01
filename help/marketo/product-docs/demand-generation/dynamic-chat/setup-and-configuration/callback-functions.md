@@ -3,7 +3,7 @@ description: Callback-functies - Marketo Docs - Productdocumentatie
 title: Callback-functies
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: fd070322b6741268595d460318246abd3768dd3d
+source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Deze gebeurtenis geeft aan dat de widget Dynamic Chat klaar is voor gebruik en w
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
     // code here will execute when chatbot scripts are loaded in a webpage 
-});
+}); 
 ```
 
 ## Gespreksgebeurtenissen {#conversation-events}
@@ -34,11 +34,11 @@ Een gesprek (bijvoorbeeld een dialoog) dat voor een websitebezoeker is bedoeld, 
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
-
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
-// code here will execute when chatbot is loaded for a visitor 
-   });
-});
+ // code here will execute when the chatbot is loaded for a visitor 
+    }); 
+});  
 ```
 
 ### Gesprek {#conversation-engaged}
@@ -47,10 +47,11 @@ Bezoeker heeft de chatbot ingeschakeld (bv. zijn eerste reactie gegeven).
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when visitor engages with chatbot 
-    });
-});
+ // code here will execute when a visitor engages with the chatbot 
+     }); 
+}); 
 ```
 
 ### Gesprek voltooid {#conversation-completed}
@@ -59,10 +60,11 @@ De bezoeker heeft het einde van het gesprek bereikt.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when conversation is completed 
-    });
-});
+ // code here will execute when a conversation is completed 
+     }); 
+}); 
 ```
 
 ### Gesloten gesprek
@@ -71,15 +73,16 @@ De bezoeker heeft het gesprek gesloten alvorens het eind te bereiken.
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when conversation is closed 
-    });
-});
+ // code here will execute when a conversation is closed 
+    }); 
+}); 
 ```
 
 De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
-Hieronder ziet u enkele belangrijke waarden voor metagegevens die u kunt gebruiken:
+Hier volgen enkele belangrijke waarden voor metagegevens die u kunt gebruiken:
 
 <table>
 <thead>
@@ -122,10 +125,11 @@ Deze gebeurtenis wordt teweeggebracht wanneer een bezoeker hun telefoonaantal ti
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
-  // code here will execute when a visitor provides their phone number 
+ // code here will execute when a visitor provides their phone number 
     }); 
-}); 
+});  
 ```
 
 ### E-mailid {#email-id}
@@ -134,15 +138,16 @@ Deze gebeurtenis wordt teweeggebracht wanneer een bezoeker hun e-mailadres tijde
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
  // code here will execute when a visitor provides their email address 
     }); 
-});
+}); 
 ```
 
 De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
-Hieronder vindt u enkele belangrijke waarden voor metagegevens die u kunt openen.
+Hier volgen enkele belangrijke waarden voor metagegevens die u kunt gebruiken:
 
 <table>
 <thead>
@@ -187,15 +192,16 @@ Deze gebeurtenis wordt teweeggebracht wanneer een bezoeker een vergadering op de
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
  // code here will execute when a meeting is booked 
     }); 
-});
+}); 
 ```
 
 De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
-Hieronder vindt u enkele belangrijke waarden voor metagegevens die u kunt openen.
+Hier volgen enkele belangrijke waarden voor metagegevens die u kunt gebruiken:
 
 <table>
 <thead>
@@ -252,10 +258,11 @@ Deze gebeurtenis wordt teweeggebracht wanneer een bezoeker de optie selecteert o
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests for live chat 
+ // code here will execute when a visitor requests a live chat 
     }); 
-});
+}); 
 ```
 
 ### Live chat gestart {#live-chat-initiated}
@@ -264,10 +271,11 @@ Deze gebeurtenis wordt teweeggebracht wanneer een bezoeker de optie selecteert o
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepted the chat 
+ // code here will execute after a live agent accepts the chat 
     }); 
-});
+}); 
 ```
 
 ### Live Chat beëindigd {#live-chat-ended}
@@ -276,10 +284,11 @@ Deze gebeurtenis wordt teweeggebracht wanneer een gesprek tussen een bezoeker en
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
  // code here will execute when a live chat is ended 
     }); 
-});
+}); 
 ```
 
 ### Time-out live chat {#live-chat-timeout}
@@ -288,15 +297,16 @@ Deze gebeurtenis wordt geactiveerd wanneer een live chatsgesprek wordt beëindig
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandoned live chat 
+ // code here will execute when a visitor abandons a live chat 
     }); 
-});
+}); 
 ```
 
 De `event` parameter is een voorwerp met meta-gegevens met betrekking tot het gesprek. U hebt toegang tot deze metagegevens via `event.data`.
 
-Hieronder vindt u enkele belangrijke waarden voor metagegevens die u kunt openen.
+Hier volgen enkele belangrijke waarden voor metagegevens die u kunt gebruiken:
 
 <table>
 <thead>
@@ -341,6 +351,7 @@ Als u een van deze gebeurtenissen naar een analyseplatform zoals Adobe Analytics
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => { 
+    const {addListener, Enum} = window.AdobeDX; 
     addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
  // Enter Adobe Analytics or Google Analytics function here 
     ga('send', 'event', { 
@@ -349,5 +360,5 @@ window.addEventListener('adobedx.conversations.ready', () => {
       eventLabel: event.data.payload.id, 
     }); 
     }); 
-});
+}); 
 ```
