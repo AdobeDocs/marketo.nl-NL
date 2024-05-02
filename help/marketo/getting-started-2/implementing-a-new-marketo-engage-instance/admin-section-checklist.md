@@ -4,9 +4,10 @@ title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor sectie 
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
+source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
 workflow-type: tm+mt
-source-wordcount: '1099'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
     <td>Rollen</td>
     <td><li>Herzie de prebuilt rollen en bevestig welke toestemmingen/toegang elke rol heeft.</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#create-a-new-role" target="_blank">Een nieuwe rol maken</a> of <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html#edit-a-role" target="_blank">de rollen bewerken</a> op basis van de behoeften van uw organisatie.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html%22%20/l%20%22assign-roles-to-a-user" target="_blank">Gebruikers toewijzen aan de juiste rollen</a>. De gebruikers moeten aan het abonnement in Adobe Admin Console worden toegevoegd alvorens hun rollen in Roles toe te kennen. Raadpleeg de sectie "Gebruikers" in de checklist "Eerste installatie" [LINK].</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">Gebruikers toewijzen aan de juiste rollen</a>. De gebruikers moeten aan het abonnement in Adobe Admin Console worden toegevoegd alvorens hun rollen in Roles toe te kennen. Raadpleeg de sectie "Gebruikers" in het dialoogvenster <a href="/help/marketo/getting-started-2/initial-setup/user-setup.md">Checklist voor eerste setup</a>.</li>
     <li>Nadat u de rollen voor gebruikers hebt toegewezen, controleert u het aantal gebruikers per rol.</li>
     <li>Implementeer een unieke rol voor elke API-gebruiker voor eenvoudige probleemoplossing.</li></td>
   </tr>
@@ -198,15 +199,6 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
     <li>Identificeer uw beheerder van CRM voor het oplossen van problemen.</li></td>
   </tr>
   <tr>
-    <td>Landingspagina's</td>
-    <td>NOTA: Ben u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document met instructies voor de IT-installatie geven tijdens uw gesprek. <br>Stel uw landingspagina in met een <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">CNAME</a> en <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/edit-landing-page-settings.html">domein- en paginagegevens invoeren</a>. Dit moet de volgende notatie hebben: [LandingPageCNAME].[CompanyDomain].com <br>Kies een NAAM voor de bestemmingspagina's. Enkele voorbeelden: <br>* * **go**.[CompanyDomain].com <br>* ***www2**.[CompanyDomain].com <br>* * ** lp**.[CompanyDomain].com <br><a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console">Contact opnemen met Marketo-ondersteuning</a> om het proces van levering van een SSL Certificaat te beginnen. Dit proces kan maximaal 3 werkdagen duren. <br>TIP: Houd het kort! Kortere URL's zijn gemakkelijker te onthouden. We stellen voor om "te gaan" als domein. <br>Voeg analytische volgcode (bijvoorbeeld Googles Analytics of Adobe Analytics) toe aan uw sjablonen voor de bestemmingspagina. </td>
-  </tr>
-  <tr>
-    <td>Munchkin</td>
-    <td>NOTA: Als u een klant van het Pak van de Lancering bent, sla deze stap over. Uw consultant zal u in het handboek met instructies voor de installatie van uw IT-afdeling codeinstructies geven.
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.html">Munchkin-trackingcode toevoegen</a> naar uw website. Munchkin-code kan <a href="https://developers.marketo.com/javascript-api/lead-tracking/">hard-gecodeerd</a> of geïmplementeerd via Google Tag Manager.</li></td>
-  </tr>
-  <tr>
     <td>Webservices</td>
     <td><li>Bepaal de gebruikers/apps die kunnen maken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API-aanroepen</a> in uw exemplaar.</li>
     <li>Controleer alle apps die API-aanroepen maken en bepaal of een toename of afname van API-aanroepen nodig is.</li></td>
@@ -222,7 +214,7 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (indien van toepassing)</td>
-    <td>Voor gebruik <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html">Dynamic Chat</a>, het native gespreksautomatiseringskanaal in Marketo Engage, ga met de opstelling van de gebruikerstoestemming te werk na de hieronder stappen op het <a href="https://adminconsole.adobe.com/">Adobe Admin Console</a>. <br>Bevestig of aan u een rol van Admin van het Product van de Adobe door uw Adobe Org Systeembeheerder is toegekend. Contact <a href="https://helpx.adobe.com/contact.html">Klantenservice Adoben</a> om te weten te komen wie bij uw organisatie admin voorrechten in de console heeft. <br>Accepteren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">de uitnodiging voor 'Dynamic Chat Product Admin'</a>. De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">welkome e-mail</a> wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten en u als Admin van het Systeem wordt aangewezen.  <br>Wijs alle relevante gebruikers toe aan het productprofiel van de Dynamic Chat in Adobe Admin Console. <br>Als een ongewenste gebruiker aan meerdere productprofielen wordt toegevoegd, moet u de gebruiker uit alle productprofielen verwijderen. Anders hebben ze nog steeds toegang tot Dynamic Chat. <br>U kunt <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions">Productprofielen bewerken in Dynamic Chat</a> en maak een aangepast profiel met een aangepaste set van <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions">rechten beschikbaar binnen uw abonnement</a>. <br>Gebruikers toewijzen aan <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Rollen 'Access Dynamic Chat'</a> in Marketo Engage/Admin/Users &amp; Roles. </td>
+    <td><li>Gebruikers toewijzen aan <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Rollen 'Access Dynamic Chat'</a> in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen.</li></td>
   </tr>
   <tr>
     <td>Verkoopoverzicht (indien van toepassing)</td>
@@ -235,6 +227,11 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
     <td>Verkoopverbinding (indien van toepassing)</td>
     <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">De juiste beheerders van Marketo's Engage uitnodigen voor de Sales Connect-instantie</a>.</li>
     <li>Voltooi de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">Extra installatie van Sales Connect-beheer</a> in Sales Connect en Salesforce.</li></td>
+  </tr>
+  <tr>
+    <td>Webhaken (indien van toepassing)</td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">Vereiste webhaken maken</a> voor uw bedrijf.</li>
+    </td>
   </tr>
 </tbody>
 </table>
