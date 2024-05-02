@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,9 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
 
 ## Activa {#assets}
 
->[!TIP]
+>[!NOTE]
 >
->Als u marketingmiddelen zoals programma&#39;s, bestemmingspagina&#39;s en e-mails in afzonderlijke gebieden wilt opslaan, raadpleegt u de controlelijst &#39;Beheer&#39;. [KOPPELING] voor meer informatie over het instellen van werkruimten.
+>Als u marketingmiddelen zoals programma&#39;s, bestemmingspagina&#39;s en e-mails in afzonderlijke gebieden wilt opslaan, raadpleegt u de [Controlelijst voor beheerderssectie](/help/marketo/getting-started-2/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) voor meer informatie over het instellen van werkruimten.
 
 <table>
 <thead>

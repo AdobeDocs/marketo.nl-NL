@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,16 @@ Nu u de belangrijkste productgebieden aan opstelling voor een nieuwe instantie v
     <td><li>Documenteer de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">huidige gebruikers</a> om veiligheidsredenen. De volgende gegevens moeten minimaal worden vermeld (en zijn zichtbaar door naar Adobe Admin Console &gt; Users te gaan):</li>
     <br>Naam
     <br>E-mail
-    <br>Type id
-    <br>Productprofiel(en)
-    <p>
-    <li>Als Admin van het Product van het Marketo Engage, ontwikkelt een intern proces om de gebruikerslijst van het Marketo Engage bij een regelmatige kring te controleren en bij te werken. Als u wijzigingen wilt aanbrengen in de lijst met gebruikers in Adobe Admin Console, kunt u <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">bulkacties</a>, zoals het uploaden van een .CSV-bestand met de REST-API voor gebruikersbeheer, enz.</li></td>
-  </tr>
+    <br>Aanmelden
+    <br>Rol
+    <br>Toegangsvervaldatum
+    <br>Door gebruiker aangemaakt op
+    <br>Meest recente aanmeldingsdatum
+
+NOTA: De klanten konden op dit ook uitbreiden om documentatie rond rollen/toestemmingen te omvatten.
+<p>
+<li>Als Admin van het Product van het Marketo Engage, ontwikkelt een intern proces om de gebruikerslijst van het Marketo Engage bij een regelmatige kring te controleren en bij te werken. Als u wijzigingen wilt aanbrengen in de lijst met gebruikers in Adobe Admin Console, kunt u <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">bulkacties</a>, zoals het uploaden van een .CSV-bestand met de REST-API voor gebruikersbeheer, enz.</li></td>
+</tr>
   <tr>
     <td>Organisatie</td>
     <td><li>Documenteer de overeengekomen omslagstructuur, standaard noemende overeenkomsten voor programma's, activa, etc., en de waarom de besluiten werden genomen. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Klik hier voor meer informatie over de beste praktijken.</a></li></td>
