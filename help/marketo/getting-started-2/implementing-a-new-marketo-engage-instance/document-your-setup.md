@@ -4,9 +4,10 @@ title: Aanbevolen werkwijzen voor nieuwe instanties - Uw instellingen documenter
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -55,7 +56,7 @@ Nu u de belangrijkste productgebieden aan opstelling voor een nieuwe instantie v
     <br>Type id
     <br>Productprofiel(en)
     <p>
-    <li>Als Admin van het Product van het Marketo Engage, ontwikkelt een intern proces om de gebruikerslijst van het Marketo Engage bij een regelmatige kring te controleren en bij te werken. Als u wijzigingen wilt aanbrengen in de lijst met gebruikers in Adobe Admin Console, kunt u <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">Het .csv uploaden</a> in bulk.</li></td>
+    <li>Als Admin van het Product van het Marketo Engage, ontwikkelt een intern proces om de gebruikerslijst van het Marketo Engage bij een regelmatige kring te controleren en bij te werken. Als u wijzigingen wilt aanbrengen in de lijst met gebruikers in Adobe Admin Console, kunt u <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">bulkacties</a>, zoals het uploaden van een .CSV-bestand met de REST-API voor gebruikersbeheer, enz.</li></td>
   </tr>
   <tr>
     <td>Organisatie</td>

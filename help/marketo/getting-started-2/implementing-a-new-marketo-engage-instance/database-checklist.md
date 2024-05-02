@@ -4,16 +4,17 @@ title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor databas
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
 # Aanbevolen werkwijzen voor nieuwe instanties: checklist database {#new-instance-best-practices-database-checklist}
 
-De sectie van het Gegevensbestand voorziet u van een momentopname van de belangrijkste attributen over de mensen in uw instantie. Leer meer over de noodzakelijke stappen om door verschillende lijsten en segmentaties in uw Gegevensbestand te navigeren, evenals het beheren van personenverslagen.
+De sectie van het Gegevensbestand is waar u de belangrijkste attributen van de mensen in uw geval zult vinden. Leer meer over de noodzakelijke stappen om door verschillende lijsten en segmentaties in uw Gegevensbestand te navigeren, evenals het beheren van personenverslagen.
 
 De checklists downloaden [KOPPELING] en de voortgang volgen.
 
@@ -38,7 +39,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
   </tr>
   <tr>
     <td>Marketing opgeschort</td>
-    <td><li>Definiëren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html#marketing-suspended" target="_blank">Marketing opgeschort</a> criteria.</li></td>
+    <td><li>Definiëren <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing opgeschort</a> criteria.</li></td>
   </tr>
   <tr>
     <td>Verzonden e-mailadressen </td>
@@ -49,7 +50,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
     <td>Mogelijke duplicaten</td>
     <td><li>Bekijk de personen in de lijst Mogelijke duplicaten.</li> 
     <li>Definieer uw dubbele beheerstrategie om te bepalen of u wilt <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">personen handmatig samenvoegen</a>.</li>  
-    <li>Als u een integratie van CRM hebt, bepaal een proces en een rekening voor <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html#effect-in-salesforce" target="_blank">het effect van het samenvoegen van leads in uw CRM</a>.</li></td>
+    <li>Als u een integratie van CRM hebt, bepaal een proces en een rekening voor <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">het effect van het samenvoegen van leads in uw CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Geen overnameprogramma</td>

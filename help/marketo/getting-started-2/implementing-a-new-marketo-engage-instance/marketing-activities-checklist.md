@@ -4,9 +4,10 @@ title: Aanbevolen werkwijzen voor nieuwe instanties - Checklist voor marketingac
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -29,20 +30,20 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
 <tbody>
   <tr>
     <td>Naamgevingsconventies</td>
-    <td><li>Definieer een consistente naamgevingsconventie voor uw abonnement voordat u de mapstructuur gaat opbouwen.</li></td>
+    <td><li>Een <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes">consistente naamgevingsconventie</a> voor uw abonnement voordat u de mappenstructuur gaat ontwikkelen.</li></td>
   </tr>
   <tr>
     <td>Mapstructuur</td>
-    <td><li>Bouw een verenigbare en gemakkelijk navigable omslagstructuur door naar dit voorbeeld te verwijzen.</td>
+    <td><li>Bouw een verenigbare en gemakkelijk navigable omslagstructuur door van verwijzingen te voorzien <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders">dit voorbeeld</a>.</td>
   </tr>
   <tr>
     <td>Programma's</td>
-    <td><li>Maak programmasjablonen voor elk kanaal dat u in de beheersectie hebt gemaakt. U kunt eenvoudig starten door het programma te importeren vanuit de programmabibliotheek. Zie de specificaties in de tabel "Middelen" hieronder.</li>
-    <li>Bepaal welke stroomstappen van de slimme campagnes in een globaal programma versus een lokaal programma kunnen zijn.</li> <li>Neem de acceptatie, het lidmaatschap en het bijhouden van succes op als onderdeel van uw programmasjabloon om het proces te standaardiseren.</li></td>
+    <td><li>Programmasjablonen maken voor <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">elk kanaal</a> u hebt gemaakt in uw beheersectie. Je kunt beginnen met <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">importeren, programma's</a> uit de programmabibliotheek. Zie de specificaties in de tabel "Middelen" hieronder.</li>
+    <li>Bepalen welke <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign">stroomstappen van de slimme campagnes</a> kan deel uitmaken van een globaal programma versus een lokaal programma.</li> <li>Neem de acceptatie, het lidmaatschap en het bijhouden van succes op als onderdeel van uw programmasjabloon om het proces te standaardiseren.</li></td>
   </tr>
   <tr>
     <td>Archief</td>
-    <td><li>Bepaal een beleid wanneer om programma's en activa te archiveren. Let op: als de gegevens eenmaal zijn gearchiveerd, worden zowel items uit geselecteerde lijsten als uit rapportage verwijderd.</li></td>
+    <td><li>Een beleid bepalen wanneer <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder">archiefprogramma's en middelen</a>. Let op: als de gegevens eenmaal zijn gearchiveerd, worden zowel items uit geselecteerde lijsten als uit rapportage verwijderd.</li></td>
   </tr>
   <tr>
     <td>Meldingen</td>
@@ -52,6 +53,10 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
 </table>
 
 ## Activa {#assets}
+
+>[!TIP]
+>
+>Als u marketingmiddelen zoals programma&#39;s, bestemmingspagina&#39;s en e-mails in afzonderlijke gebieden wilt opslaan, raadpleegt u de controlelijst &#39;Beheer&#39;. [KOPPELING] voor meer informatie over het instellen van werkruimten.
 
 <table>
 <thead>
@@ -65,13 +70,14 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
     <td>Programmotypes</td>
     <td><li>Begrijp het <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs">Vier programmatypen</a>.</li>
     <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program">Programmamonsters importeren</a> van de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview">Programmabibliotheek</a> om te beginnen.</li>
-    <li>E-mailprogramma: Onder het tabblad 'Setup' <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">Communicatielimieten inschakelen</a>(aanbevolen).</li>
-    <li>Een <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">Interactief webinar</a>, het ingebouwde webinar-platform, met behulp van een Event Program en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">een ruimte koppelen aan het interactieve webinar</a> programma (aanbevolen).  <li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">scèneprogramma's</a> om signalen op uw website en met uw inhoud te kopen.</li></td>
+    <li>E-mailprogramma: Onder het tabblad 'Setup' <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits">Communicatielimieten inschakelen</a> (aanbevolen).</li>
+    <li>Een <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar">Interactief webinar</a>, het ingebouwde webinar-platform, met behulp van een Event Program en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars">een ruimte koppelen aan het interactieve webinar</a> (aanbevolen).</li>
+    <li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html">scèneprogramma's</a> om signalen op uw website en met uw inhoud te kopen.</li></td>
   </tr>
   <tr>
     <td>Tokens</td>
-    <td><li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Tokens</a></li>.
-    <li>Gebruik tokens in regelmatig gebruikte programmatypen om de efficiëntie te verhogen. Overweeg tokens uit te voeren die de organisatie regelmatig nodig heeft in de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html#nesting-tokens">algemene map</a>.</li></td>
+    <td><li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html">Tokens</a>.</li>
+    <li>Gebruik tokens in regelmatig gebruikte programmatypen om de efficiëntie te verhogen. Overweeg tokens uit te voeren die de organisatie regelmatig nodig heeft in de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens">algemene map</a>.</li></td>
   </tr>
   <tr>
     <td>Batchcampagnes</td>
@@ -80,7 +86,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
   </tr>
   <tr>
     <td>Trigger-campagnes</td>
-    <td><li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html#trigger-campaign">Slimme campagnes activeren</a> door ten minste één trigger in de sectie Slimme lijst te gebruiken.</li>
+    <td><li>Instellen <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign">Slimme campagnes activeren</a> door ten minste één trigger in de sectie Slimme lijst te gebruiken.</li>
     <li>Activeer de slimme campagnes in het lusje van het "Programma"om de campagneacties in werking te stellen.</li></td>
   </tr>
   <tr>
@@ -120,8 +126,8 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
   </tr>
   <tr>
     <td>Bron persoon</td>
-    <td><li>Een gecentraliseerd programma maken dat waarden toewijst aan de bron van de persoon/persoon in <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management.html" target="_blank"> Door systeem beheerde velden</a></li>.  
-    <li>Een programma voor operationeel gegevensbeheer importeren</a> van de Marketo Program Library naar start.</li></td>
+    <td><li>Creeer een gecentraliseerd programma dat waarden aan lood/persoonbron in de Beheerde gebieden van het Systeem toewijst.</li>  
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management">Een programma voor operationeel gegevensbeheer importeren</a> van de Marketo Program Library naar start.</li></td>
   </tr>
   <tr>
     <td>Gegevensstandaardisering</td>
@@ -131,7 +137,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
   <tr>
     <td>Stuitbeheer</td>
     <td><li>Maak een operationeel programma voor stuiterend beheer om alle stuiterende details te vangen.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.html">Een programma voor leveringsbeheer importeren</a> van de Marketo Program Library naar start.</li></td>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management">Een programma voor leveringsbeheer importeren</a> van de Marketo Program Library naar start.</li></td>
   </tr>
   <tr>
     <td>Privacy en naleving</td>
@@ -153,7 +159,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
   </tr>
   <tr>
     <td>E-maillevering</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html">E-mailprestatierapport maken</a> voor het controleren van het verzenden van e-mail en de ontwikkeling van de leverbaarheid.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report">E-mailprestatierapport maken</a> voor het controleren van het verzenden van e-mail en de ontwikkeling van de leverbaarheid.</li></td>
   </tr>
 </tbody>
 </table>

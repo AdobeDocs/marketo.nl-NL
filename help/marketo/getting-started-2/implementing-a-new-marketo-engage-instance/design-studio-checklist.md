@@ -4,9 +4,10 @@ title: Nieuwe beste praktijken van de Instantie - de Controlelijst van de Studio
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -29,8 +30,8 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
 <tbody>
   <tr>
     <td>Algemene bestemmingspagina's</td>
-    <td><li>Maak algemene bestemmingspagina's (vrije vorm/met instructies).</li>
-    <li>Maak een testpagina naar een A/B-test voor de winnende landingpagina (indien van toepassing).</li></td>
+    <td><li>Maken <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">globale bestemmingspagina's (vrije vorm/geleide)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Een testpagina maken</a> naar A/B test de winnende landingspagina-sjabloon (indien van toepassing).</li></td>
   </tr>
   <tr>
     <td>Sjablonen</td>
@@ -38,7 +39,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
   </tr>
   <tr>
     <td>Privacy en naleving</td>
-    <td><li>Een voettekst maken met <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragmenten</a> of Tokens op uw bestemmingspagina's voor privacynaleving.</li></td>
+    <td><li>Een voettekst maken met <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragmenten</a> of <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> in uw bestemmingspagina's voor privacynaleving.</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,8 +126,8 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
     <td>Naamgevingsconventies</td>
     <td><li>Gebruik consistente naamconventies voor afbeeldingen en bestanden.</li>  
     <br>Voorbeelden:  
-    <br>Bestandsnaamgevingsconventie: naam van het type element (bijv.: whitepaper-evaluatie-cloud-computing-GET-Get-Your-Board-on-board) 
-    <p>Naamgevingsconventie voor afbeeldingen: naam van het type bedrijfsmiddel voor afbeeldingstypen (bijv.: miniatuur-witboek-evaluatie-cloud-computing-GET-GET-Get-Your-Board-on-board)</td>
+    <br><ul><li>Bestandsnaamgevingsconventie: naam van het type element (bijv.: whitepaper-evaluatie-cloud-computing-GET-Get-Your-Board-on-board)</li>
+    <p><li>Naamgevingsconventie voor afbeeldingen: naam van het type bedrijfsmiddel voor afbeeldingstypen (bijv.: miniatuur-witboek-evaluatie-cloud-computing-GET-GET-Get-Your-Board-on-board)</li></td>
   </tr>
 </tbody>
 </table>

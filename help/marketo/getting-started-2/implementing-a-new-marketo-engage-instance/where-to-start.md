@@ -4,9 +4,10 @@ title: Waar moet worden begonnen?
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 47446db902f85e1b4a910d0924efc5beb82bffbe
+exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
+source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 Welkom bij je nieuwe Adobe Marketo Engage-exemplaar! Krijg klaar om marketing taken en workflows te stroomlijnen, te automatiseren en te meten met krachtige mogelijkheden voor marketingautomatisering.
 
-In deze &quot;Implementatie van een Nieuwe Instantie van het Marketo Engage&quot;gids, leer de beste praktijken voor naadloos het uitvoeren van uw instantie om op lange termijn hygiëne en operationele efficiency te verzekeren. Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik de downloadbare checklists om uw werk onderweg te documenteren voor toekomstige controles en onboarding.
+In deze &quot;Implementatie van een Nieuwe Instantie van het Marketo Engage&quot;gids, leer de beste praktijken voor naadloos het uitvoeren van uw instantie om op lange termijn hygiëne en operationele efficiency te verzekeren. Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik de downloadbare checklists om uw werk onderweg te documenteren voor toekomstige controles van instanties en gebruikers aan boord nemen.
 
 ## Controlelijsten voor beste praktijken voor uw nieuwe instantie van het Marketo Engage {#best-practice-checklists-new-instance}
 
@@ -33,4 +34,10 @@ Download de nieuwe Controlelijsten van Admin-implementatie van het Marketo Engag
 
 ## Verbinding maken met uw peers {#connect-with-your-peers}
 
-Ga naar [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} en maak uw gemeenschapsprofiel om uw collega&#39;s te leren en te vragen hoe zij hun exemplaar van het Marketo Engage implementeren en beheren.
+Ga naar [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} om meer over uw Instantie van het Marketo Engage van de werknemers van het Marketo Engage evenals medegebruikers te leren.
+
+Aan de slag in de Marketing Nation Community:
+
+1. Klikken **Doorgaan met Adobe ID** en selecteer uw primaire abonnement op de aanmeldingspagina.
+1. Voltooi uw profiel voor de gebruikersgemeenschap wanneer u zich aanmeldt.
+1. Nadat je de informatie hebt verzonden, kun je op de homepage van de gemeenschap landen en goed gaan!
