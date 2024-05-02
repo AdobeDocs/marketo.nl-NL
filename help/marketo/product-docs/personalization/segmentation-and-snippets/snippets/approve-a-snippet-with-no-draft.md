@@ -4,9 +4,9 @@ description: Een fragment goedkeuren zonder concept - Marketo Docs - Productdocu
 title: Een fragment goedkeuren zonder concept
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,24 @@ ht-degree: 0%
 
 Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. Dit omvat een fragment dat wordt gedeeld door of waarnaar wordt verwezen door elementen in andere werkruimten.
 
-1. Ga naar **Design Studio**.
+1. Ga naar de **Design Studio**.
 
-   ![](assets/go-to-design-studio.png)
+   ![](assets/approve-the-snippet-1.png)
 
-1. Selecteer een fragment en in het dialoogvenster **Fragmenthandelingen** keuzelijst, kies **Goedkeuren**.
+1. Zoek en selecteer het gewenste fragment.
 
-   ![](assets/approve-snippet.png)
+   ![](assets/approve-the-snippet-2.png)
+
+1. In de **Fragmentacties** vervolgkeuzelijst, kies **Concept goedkeuren**.
+
+   ![](assets/approve-the-snippet-3.png)
 
 1. Selecteer een optie in het dialoogvenster Fragment goedkeuren en klik op **Goedkeuren**:
 
-   * **Alles bijwerken**: Met deze optie worden geen concepten van de goedgekeurde elementen gemaakt met het fragment. Alle elementen krijgen de updates en behouden hun eerdere status. Rechtsboven in het scherm wordt een voortgangsmodule weergegeven. het kan te allen tijde worden gesloten . Als u het wilt herstellen, klikt u met de rechtermuisknop op de naam van het fragment en selecteert u Toon goedkeuringsstatus.
+   * **Alles bijwerken**: Met deze optie worden geen concepten van de goedgekeurde elementen gemaakt met het fragment. Alle elementen krijgen de updates en behouden hun eerdere status. Er verschijnt een voortgangsmodule rechtsboven in het scherm. Deze kan op elk gewenst moment worden gesloten. Als u het wilt herstellen, klikt u met de rechtermuisknop op de naam van het fragment en selecteert u Toon goedkeuringsstatus.
    * **Concepten maken**: Met deze optie maakt u concepten van de goedgekeurde elementen met behulp van het fragment. Selecteer deze optie als wijzigingen in fragmenten eerst moeten worden gecontroleerd. Alle concepten moeten handmatig worden goedgekeurd.
 
-   ![](assets/snippet-dialog-box.png)
+   ![](assets/approve-the-snippet-4.png)
 
    >[!NOTE]
    >
@@ -38,8 +42,8 @@ Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. D
 
 >[!CAUTION]
 >
->Deze functie is ontworpen om tijd te besparen met de workflow voor goedkeuring van fragmenten. Er zijn echter een paar beperkingen om op de hoogte te zijn. Zie [dit document](https://nation.marketo.com/docs/DOC-4415) voor meer informatie. Het document bevat ook informatie over foutafhandeling en probleemoplossing.
+>Deze functie is ontworpen om tijd te besparen met de workflow voor goedkeuring van fragmenten. Er zijn echter een paar beperkingen om op de hoogte te zijn. Zie [dit artikel](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->[Niet-concept inschakelen voor fragmenten](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
+>[Niet-concept inschakelen voor fragmenten](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
