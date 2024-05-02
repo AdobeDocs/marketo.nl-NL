@@ -4,9 +4,9 @@ description: Een fragment goedkeuren zonder concept - Marketo Docs - Productdocu
 title: Een fragment goedkeuren zonder concept
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 154e8390916869d79ee6fc96f09bac22b1395220
+source-git-commit: 7ea15136c4557b3e651f5ae8a5cda6fcd6b80d1c
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. Dit omvat een fragment dat wordt gedeeld door of waarnaar wordt verwezen door elementen in andere werkruimten.
 
-1. Ga naar de **Design Studio**.
+1. Ga naar de **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. D
 
    ![](assets/approve-the-snippet-2.png)
 
-1. In de **Fragmentacties** vervolgkeuzelijst, kies **Concept goedkeuren**.
+1. In de **[!UICONTROL Snippet actions]** vervolgkeuzelijst, kies **[!UICONTROL Approve draft]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Selecteer een optie in het dialoogvenster Fragment goedkeuren en klik op **Goedkeuren**:
+1. Selecteer een optie in het dialoogvenster Fragment goedkeuren en klik op **[!UICONTROL Approve]**:
 
-   * **Alles bijwerken**: Met deze optie worden geen concepten van de goedgekeurde elementen gemaakt met het fragment. Alle elementen krijgen de updates en behouden hun eerdere status. Er verschijnt een voortgangsmodule rechtsboven in het scherm. Deze kan op elk gewenst moment worden gesloten. Als u het wilt herstellen, klikt u met de rechtermuisknop op de naam van het fragment en selecteert u Toon goedkeuringsstatus.
-   * **Concepten maken**: Met deze optie maakt u concepten van de goedgekeurde elementen met behulp van het fragment. Selecteer deze optie als wijzigingen in fragmenten eerst moeten worden gecontroleerd. Alle concepten moeten handmatig worden goedgekeurd.
+   * **[!UICONTROL Update all]**: Met deze optie worden geen concepten van de goedgekeurde elementen gemaakt met het fragment. Alle elementen krijgen de updates en behouden hun eerdere status. Er verschijnt een voortgangsmodule rechtsboven in het scherm. Deze kan op elk gewenst moment worden gesloten. Als u het wilt herstellen, klikt u met de rechtermuisknop op de naam van het fragment en selecteert u Toon goedkeuringsstatus.
+   * **[!UICONTROL Create drafts]**: Met deze optie maakt u concepten van de goedgekeurde elementen met behulp van het fragment. Selecteer deze optie als wijzigingen in fragmenten eerst moeten worden gecontroleerd. Alle concepten moeten handmatig worden goedgekeurd.
 
    ![](assets/approve-the-snippet-4.png)
 
