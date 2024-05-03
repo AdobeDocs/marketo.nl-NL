@@ -3,9 +3,9 @@ description: Interactieve webinars ontwerpen - Marketo Docs - Productdocumentati
 title: Interactieve webinars ontwerpen
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
    >* Een kamer is een online ruimte die wordt gebruikt om vergaderingen te houden.
    >
    >* Als u een bestaande Webinar Zaal kiest en het moet anders noemen, eenvoudig klikken **Naam van webinar-ruimte wijzigen** aan de rechterkant.
+   >
+   >* In de vervolgkeuzelijst ziet u alleen bestaande ruimten die u eerder hebt gemaakt, niet andere hosts.
 
 1. Kies een sjabloon.
 

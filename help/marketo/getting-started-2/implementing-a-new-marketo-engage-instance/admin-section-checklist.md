@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: fa5b686aabd3aab2d9020758fde00ed06564c76c
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
   </tr>
   <tr>
     <td>Sandbox (indien van toepassing)</td>
-    <td><li>Bekijk bovenstaande rubrieken voor je <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md">sandbox</a>.</li></td>
+    <td><li>Bekijk bovenstaande rubrieken voor je <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -172,12 +172,12 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
   </tr>
   <tr>
     <td>Aangepaste activiteiten</td>
-    <td><li>Definiëren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html">Aangepaste activiteiten</a> die specifiek zijn voor uw bedrijf.</li></td>
+    <td><li>Definiëren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-activities/understanding-custom-activities.html" target="_blank">Aangepaste activiteiten</a> die specifiek zijn voor uw bedrijf.</li></td>
   </tr>
   <tr>
     <td>Aangepaste objecten</td>
-    <td><li>Aantal controleren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html">Aangepaste objecten</a> dat is nodig.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html">Deze aangepaste objecten synchroniseren met uw CRM</a>.</li></td>
+    <td><li>Aantal controleren <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html" target="_blank">Aangepaste objecten</a> dat is nodig.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.html" target="_blank">Deze aangepaste objecten synchroniseren met uw CRM</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -194,43 +194,43 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
 <tbody>
   <tr>
     <td>CRM </td>
-    <td><li>CRM-synchronisatie starten. Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html">Microsoft Dynamics</a>.</li>
+    <td><li>CRM-synchronisatie starten. Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt: <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html" target="_blank">Salesforce</a> | <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html" target="_blank">Microsoft Dynamics</a>.</li>
     <li>Identificeer het type van toegang u tot uw CRM moet toegang hebben.</li>
     <li>Identificeer uw beheerder van CRM voor het oplossen van problemen.</li></td>
   </tr>
   <tr>
     <td>Webservices</td>
-    <td><li>Bepaal de gebruikers/apps die kunnen maken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html">API-aanroepen</a> in uw exemplaar.</li>
+    <td><li>Bepaal de gebruikers/apps die kunnen maken <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user.html" target="_blank">API-aanroepen</a> in uw exemplaar.</li>
     <li>Controleer alle apps die API-aanroepen maken en bepaal of een toename of afname van API-aanroepen nodig is.</li></td>
   </tr>
   <tr>
     <td>LaunchPoint</td>
-    <td><li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html">LaunchPoint</a> services voor uw bedrijf. Elk LaunchPoint zou met een unieke API gebruiker aan hulp met het oplossen van problemen moeten worden gecombineerd.</li></td>
+    <td><li>Instellen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.html" target="_blank">LaunchPoint</a> services voor uw bedrijf. Elk LaunchPoint zou met een unieke API gebruiker aan hulp met het oplossen van problemen moeten worden gecombineerd.</li></td>
   </tr>
   <tr>
     <td>Interactieve webinars (indien van toepassing)</td>
     <td>NOTA: Interactieve Webinars is slechts provisioned aan de instanties van de Productie.
-    <li>Voor het creëren van Interactieve Webinars, de ingebouwde webinar eigenschap, <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management">gebruikers toevoegen aan de sectie Gebruiker</a> op het tabblad Interactief webinar.</li></td>
+    <li>Voor het creëren van Interactieve Webinars, de ingebouwde webinar eigenschap, <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/user-and-license-management" target="_blank">gebruikers toevoegen aan de sectie Gebruiker</a> op het tabblad Interactief webinar.</li></td>
   </tr>
   <tr>
     <td>Adobe Dynamic Chat (indien van toepassing)</td>
-    <td><li>Gebruikers toewijzen aan <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role">Rollen 'Access Dynamic Chat'</a> in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen.</li></td>
+    <td><li>Gebruikers toewijzen aan <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-dynamic-chat-access-to-marketo-role" target="_blank">Rollen 'Access Dynamic Chat'</a> in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen.</li></td>
   </tr>
   <tr>
     <td>Verkoopoverzicht (indien van toepassing)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account">Handeling Verkoopinzicht instellen</a> in Sales Insight &gt; Actions Config.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions">Licenties toekennen aan de juiste gebruikers</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html">De API configureren</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html">De leadscores aanpassen</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide#set-up-marketo-sales-account" target="_blank">Handeling Verkoopinzicht instellen</a> in Sales Insight &gt; Actions Config.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.html#invite-individual-users-to-msi-actions" target="_blank">Licenties toekennen aan de juiste gebruikers</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.html" target="_blank">De API configureren</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.html" target="_blank">De leadscores aanpassen</a>.</li></td>
   </tr>
   <tr>
     <td>Verkoopverbinding (indien van toepassing)</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance">De juiste beheerders van Marketo's Engage uitnodigen voor de Sales Connect-instantie</a>.</li>
-    <li>Voltooi de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins">Extra installatie van Sales Connect-beheer</a> in Sales Connect en Salesforce.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance" target="_blank">De juiste beheerders van Marketo's Engage uitnodigen voor de Sales Connect-instantie</a>.</li>
+    <li>Voltooi de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins" target="_blank">Extra installatie van Sales Connect-beheer</a> in Sales Connect en Salesforce.</li></td>
   </tr>
   <tr>
     <td>Webhaken (indien van toepassing)</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html">Vereiste webhaken maken</a> voor uw bedrijf.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html" target="_blank">Vereiste webhaken maken</a> voor uw bedrijf.</li>
     </td>
   </tr>
 </tbody>
@@ -248,12 +248,12 @@ Als nieuwe beheerder die een nieuwe instantie van het Marketo Engage navigeert, 
 <tbody>
   <tr>
     <td>Treasure Chest </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html">Schatkest inschakelen</a> om te experimenteren met proefuiteinden.</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/enable-or-disable-treasure-chest-features.html" target="_blank">Schatkest inschakelen</a> om te experimenteren met proefuiteinden.</li>
     <li>Bepaal de functies die u wilt in- of uitschakelen.</li></td>
   </tr>
   <tr>
     <td>Campagne-controle </td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html">Campagnecontrole inschakelen</a> om al uw slimme campagnes tegelijk weer te geven.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/campaign-inspector.html" target="_blank">Campagnecontrole inschakelen</a> om al uw slimme campagnes tegelijk weer te geven.</li></td>
   </tr>
 </tbody>
 </table>

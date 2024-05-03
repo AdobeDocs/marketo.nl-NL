@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 67b9d79482c16b0b513f81b02fe8f237961ac30f
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,13 @@ Welkom bij je nieuwe Adobe Marketo Engage-exemplaar! Krijg klaar om marketing ta
 
 In deze &quot;Implementatie van een Nieuwe Instantie van het Marketo Engage&quot;gids, leer de beste praktijken voor naadloos het uitvoeren van uw instantie om op lange termijn hygiëne en operationele efficiency te verzekeren. Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik de downloadbare checklists om uw werk onderweg te documenteren voor toekomstige controles van instanties en gebruikers aan boord nemen.
 
-## Vereiste stappen
+## Eerste instelling {#initial-setup}
 
-DEZE SECTIE WEERGEVEN EN DE NAAM WIJZIGEN
+Voordat u in de Controlelijsten voor aanbevolen procedures hieronder gaat duiken, moet u de stappen in het gedeelte Begininstelling hebben uitgevoerd.
+
+* [De eerste Taken van de Opstelling](/help/marketo/getting-started-2/initial-setup/initial-setup-tasks.md)
+
+* [Gebruikerslijst](/help/marketo/getting-started-2/initial-setup/user-setup.md)
 
 ## Controlelijsten voor beste praktijken voor uw nieuwe instantie van het Marketo Engage {#best-practice-checklists-new-instance}
 

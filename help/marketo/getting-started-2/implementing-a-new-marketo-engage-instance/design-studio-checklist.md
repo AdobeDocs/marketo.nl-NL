@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 3004885d1b6b986eb30072d2f67c5bd29ad251c7
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
@@ -30,8 +30,8 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
 <tbody>
   <tr>
     <td>Algemene bestemmingspagina's</td>
-    <td><li>Maken <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs">globale bestemmingspagina's (vrije vorm/geleide)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups">Een testpagina maken</a> naar A/B test de winnende landingspagina-sjabloon (indien van toepassing).</li></td>
+    <td><li>Maken <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">globale bestemmingspagina's (vrije vorm/geleide)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Een testpagina maken</a> naar A/B test de winnende landingspagina-sjabloon (indien van toepassing).</li></td>
   </tr>
   <tr>
     <td>Sjablonen</td>
@@ -39,7 +39,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
   </tr>
   <tr>
     <td>Privacy en naleving</td>
-    <td><li>Een voettekst maken met <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page">Fragmenten</a> of <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page">Tokens</a> in uw bestemmingspagina's voor privacynaleving.</li></td>
+    <td><li>Een voettekst maken met <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragmenten</a> of <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> in uw bestemmingspagina's voor privacynaleving.</li></td>
   </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ De checklists downloaden [KOPPELING] en de voortgang volgen.
 <tbody>
   <tr>
     <td>Mapstructuur </td>
-    <td><li>Submappen maken voor elk type element en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders">globale elementen ordenen</a> (bv. conversatiestromen, e-mailsjablonen, e-mails, formulieren, afbeeldingen en bestanden, bestemmingspagina's, sjablonen voor bestemmingspagina's, fragmenten enz.) naar behoren.</li></td>
+    <td><li>Submappen maken voor elk type element en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">globale elementen ordenen</a> (bv. conversatiestromen, e-mailsjablonen, e-mails, formulieren, afbeeldingen en bestanden, bestemmingspagina's, sjablonen voor bestemmingspagina's, fragmenten enz.) naar behoren.</li></td>
   </tr>
 </tbody>
 </table>

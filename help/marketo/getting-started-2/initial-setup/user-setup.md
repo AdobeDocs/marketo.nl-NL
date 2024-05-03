@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: f9bf2082968737277b3c976659802992f975ec9a
+source-git-commit: 97480487268af59aac90ef64bc1ef35ee81db310
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,12 @@ Je nieuwe abonnementen op Marketo&#39;s Engage zijn ingeschakeld voor [Adobe Ide
     <td><li>Een beleid maken voor wanneer <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">een gebruiker maken</a>.</li> <li>Maak een beleid voor het verwijderen van gebruikers.</li>
     <li>Bepalen wie moet hebben <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe System Admin and Marketo Engage Product Admin permissions.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Gebruikers toevoegen</a> naar het gewenste productprofiel.</li>
     <li>Maak één API-gebruiker voor elke API-gebruikscase.</li></td>
+  </tr>
+  <tr>
+    <td>Gebruikersbeheer-API (indien van toepassing)</td>
+    <td><li>Gebruik de <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">Adobe-gebruikersbeheer-API</a> om gebruikers uit te nodigen, bij te werken en te verwijderen.</li>
+    <li>Gebruik de <a href="https://developer.adobe.com/umapi/">Adobe-gebruikersbeheer-API</a> om rollen toe te voegen of te verwijderen (bijvoorbeeld, Beheerders, Admins van de Steun, Ontwikkelaars).</li>
+    </td>
   </tr>
   <tr>
     <td>Beheerder productondersteuning </td>
