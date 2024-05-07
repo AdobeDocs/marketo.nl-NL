@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+source-git-commit: 1679d8fa3d4d58685471c7869a6d73689c9b4a51
 workflow-type: tm+mt
-source-wordcount: '9332'
+source-wordcount: '9329'
 ht-degree: 0%
 
 ---
@@ -1736,7 +1736,6 @@ ht-degree: 0%
             + [Abonneren op een basisrapport](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Abonneren op een slimme lijst](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Rapporttypen {#report-types}
-            + [Rapport Campagneactiviteiten](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Rapport over e-mailprestaties voor campagne](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Webactiviteitenrapport van bedrijf](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapport Personen per status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
