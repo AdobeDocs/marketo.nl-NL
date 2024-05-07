@@ -3,9 +3,9 @@ description: Voordat u naar de nieuwe instantie van het Marketo Engage gaat, moe
 title: Controlelijst voor gebruikersinstellingen
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Je nieuwe abonnementen op Marketo&#39;s Engage zijn ingeschakeld voor [Adobe Ide
     <td>Abonnement en productbeheerder van Marketo Engage</td>
     <td><li>Bevestig dat uw Adobe of systeembeheerder u een Adobe-productbeheerrol heeft toegekend.</li>  
     <ul>
-    <li>Neem contact op met het accountteam van de Adobe (uw accountmanager) of stuur een e-mail naar <code>customercare@marketo.com</code> of stuur een e-mail naar customercare@marketo.comto om te achterhalen wie op uw bedrijf is <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> rechten.</li></ul>
+    <li>Neem contact op met het accountteam van de Adobe (uw accountmanager) of stuur een e-mail naar <code>customercare@marketo.com</code> om te weten te komen wie op uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> rechten.</li></ul>
     <li>Accepteer de uitnodiging 'Marketo Engage Product Admin' om uw Adobe ID te activeren. De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">welkome e-mail</a> wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.</li></td>
   </tr>
   <tr>
