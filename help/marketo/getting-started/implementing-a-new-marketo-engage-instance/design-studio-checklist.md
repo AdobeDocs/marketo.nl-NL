@@ -3,7 +3,7 @@ description: Opstelling de sectie van de Studio van het Ontwerp voor uw nieuwe i
 title: Nieuwe beste praktijken van de Instantie - de Controlelijst van de Studio van het Ontwerp
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De sectie van de Studio van het Ontwerp is waar de herbruikbare &quot;globale activa&quot;zouden moeten verblijven. Maak de algemene elementen die uw organisatie in programma&#39;s wil gebruiken, gebruik een consistente naamgevingsconventie en deel deze in de submappen in voor eenvoudige zoekopdrachten.
 
-Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en de voortgang volgen.
+Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en de voortgang volgen.
 
 ## Landingspagina&#39;s {#landing-pages}
 

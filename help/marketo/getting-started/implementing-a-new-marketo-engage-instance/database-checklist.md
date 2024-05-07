@@ -3,7 +3,7 @@ description: Opstelling de sectie van het Gegevensbestand voor uw nieuwe instant
 title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor database
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De sectie van het Gegevensbestand is waar u de belangrijkste attributen van de mensen in uw geval zult vinden. Leer meer over de noodzakelijke stappen om door verschillende lijsten en segmentaties in uw Gegevensbestand te navigeren, evenals het beheren van personenverslagen.
 
-Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en de voortgang volgen.
+Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en de voortgang volgen.
 
 ## Slimme systeemlijsten {#system-smart-lists}
 

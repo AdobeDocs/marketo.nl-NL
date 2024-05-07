@@ -3,7 +3,7 @@ description: Opstelling de sectie van de Activiteiten van de Marketing voor uw n
 title: Aanbevolen werkwijzen voor nieuwe instanties - Checklist voor marketingactiviteiten
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bij marketingactiviteiten worden alle elementen en inhoud opgeslagen die deel uitmaken van uw geautomatiseerde marketingprogramma&#39;s. Terwijl u een nieuw exemplaar van het Marketo Engage instelt, zorgt een schone en duidelijke organisatie ervoor dat alle gebruikers gemakkelijk diverse programma&#39;s kunnen vinden en beheren.
 
-Herinneren aan [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en de voortgang volgen.
+Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en de voortgang volgen.
 
 ## Organisatie {#organization}
 

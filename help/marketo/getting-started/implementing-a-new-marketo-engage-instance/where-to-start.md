@@ -3,7 +3,7 @@ description: Leer de beste praktijken wanneer het uitvoeren van een nieuw Market
 title: Waar moet worden begonnen?
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Welkom bij je nieuwe Adobe Marketo Engage-exemplaar! Krijg klaar om marketing taken en workflows te stroomlijnen, te automatiseren en te meten met krachtige mogelijkheden voor marketingautomatisering.
 
-In deze &quot;Implementatie van een Nieuwe Instantie van het Marketo Engage&quot;gids, leer de beste praktijken voor naadloos het uitvoeren van uw instantie om op lange termijn hygiëne en operationele efficiency te verzekeren. Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik de [downloadbare checklists](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} om uw werk onderweg te documenteren voor toekomstige controles van instanties en het aan boord nemen van gebruikers.
+In deze &quot;Implementatie van een Nieuwe Instantie van het Marketo Engage&quot;gids, leer de beste praktijken voor naadloos het uitvoeren van uw instantie om op lange termijn hygiëne en operationele efficiency te verzekeren. Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik de [downloadbare checklists](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} om uw werk onderweg te documenteren voor toekomstige controles van instanties en het aan boord nemen van gebruikers.
 
 ## Eerste instelling {#initial-setup}
 
@@ -28,7 +28,7 @@ Voordat u in de Controlelijsten voor aanbevolen procedures hieronder gaat duiken
 
 ## Controlelijsten voor beste praktijken voor uw nieuwe instantie van het Marketo Engage {#best-practice-checklists-new-instance}
 
-De Marketo Engage-instantie downloaden [Nieuwe controlelijsten voor implementatiebeheer](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}of doorloop de onderstaande online handleidingen.
+De Marketo Engage-instantie downloaden [Nieuwe controlelijsten voor implementatiebeheer](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}of doorloop de onderstaande online handleidingen.
 
 * [Sectie Beheer](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
