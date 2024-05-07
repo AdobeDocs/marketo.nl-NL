@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953338
 description: Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics - Marketo Docs - Productdocumentatie
-title: Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics
+title: Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 22385fc545378f8835c36564b1029bedbdbb3848
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
 Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtstreeks vanuit Microsoft Dynamics klikken. Zo gaat het.
 
@@ -39,7 +39,13 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
-   U kunt op **Test-e-mail verzenden** eerst en wordt het e-mailbericht naar u verzonden (primair e-mailadres in Microsoft Dynamics) voordat het e-mailbericht wordt verzonden.
+   >[!TIP]
+   >
+   >U kunt op **Test-e-mail verzenden** eerst en wordt het e-mailbericht naar u verzonden (primair e-mailadres in Microsoft Dynamics) voordat het e-mailbericht wordt verzonden.
+
+   >[!NOTE]
+   >
+   >Je kunt maximaal 2000 Marketo e-mails tegelijk verzenden.
 
 Echt waar! Nu weet je hoe je Marketo bijgehouden e-mails rechtstreeks vanuit Microsoft Dynamics kunt verzenden.
 
