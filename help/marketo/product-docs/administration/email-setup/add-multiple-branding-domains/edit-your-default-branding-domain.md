@@ -4,7 +4,7 @@ description: Uw standaardbrandingdomein bewerken - Marketo Docs - Productdocumen
 title: Uw standaardbrandingdomein bewerken
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat je [opstelling een NAAM in uw DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) voordat u uw brandingdomeinen in Marketo toevoegt.
+>Zorg ervoor dat je [opstelling een NAAM in uw DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) voordat u uw brandingdomeinen in Marketo toevoegt.
 
 1. Ga naar de **[!UICONTROL Admin]** gebied.
 

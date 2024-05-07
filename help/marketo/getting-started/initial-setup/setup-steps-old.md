@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
 workflow-type: tm+mt
 source-wordcount: '2036'
 ht-degree: 0%
@@ -206,7 +206,7 @@ U hebt nu alle informatie die u nodig hebt om uw aanvraag naar de IT-afdeling te
 
 Zodra u alle noodzakelijke informatie hebt verzameld, bent u bereid om een verzoek naar IT te verzenden. U kunt de onderstaande tekst als een sjabloon gebruiken en de vetgedrukte tekst vervangen door uw eigen gegevens.
 
-[Een koppeling naar dit artikel opnemen](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
+[Een koppeling naar dit artikel opnemen](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 Plak deze tekst in het e-mailbericht en vervang de gebrande plaatsaanduidingen:
 
