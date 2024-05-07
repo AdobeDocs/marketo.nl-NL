@@ -3,9 +3,9 @@ description: Een interactief webinar promoten - Marketo Docs - Productdocumentat
 title: Een interactief webinar promoten
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,11 @@ Het bevorderen van een Interactief Webinar is gelijkaardig aan het bevorderen va
 
 Nadat de leden aan het programma zijn toegevoegd of in het programma zijn geïmporteerd, kunt u in het Interactive Webinar Event Program een e-mailcampagne maken om een uitnodiging naar alle programmaleden te verzenden en hun status als &quot;uitgenodigd&quot; wijzigen nadat de e-mail is bezorgd.
 
-Het e-mailbericht kan specifieke details van het programma bevatten, evenals een bestemmingspagina-URL die de ontvanger omleidt naar een specifieke pagina waar meer informatie over het webinar (bijvoorbeeld inhoud, informatie over de presentator, enz.) kan worden toegevoegd. Deze landingspagina kan worden gemaakt als een lokaal middel in het Interactive Webinars Event Program.
+>[!NOTE]
+>
+>Als u een cohost of presentator als publieksleden wilt toevoegen aan het interactieve webinar-gebeurtenisprogramma, moet u een andere e-mailid voor deze personen gebruiken. Als dit niet het geval is, wordt er een fout met de tekst &#39;Deze e-mail is al geregistreerd&#39; weergegeven.
+
+Het e-mailbericht kan specifieke details van het programma bevatten, evenals een URL voor de bestemmingspagina die de ontvanger omleidt naar een specifieke pagina waar meer informatie over het webinar (bijvoorbeeld inhoud, informatie over de presentator, enz.) kan worden toegevoegd. Deze landingspagina kan worden gemaakt als een lokaal element in het Interactive Webinars Event Program.
 
 U kunt registratie voor dit webinar vragen door een formulier op de Openingspagina in te schakelen en de klik van het formulier te koppelen aan ingeschakelde registratie in het Interactive Webinar Event Program. Vervolgens kan een campagne worden gemaakt waarin formulierverzendingen als trigger worden gebruikt en de status van het programma wordt gewijzigd van &quot;uitgenodigd&quot; in &quot;geregistreerd&quot;.
 
