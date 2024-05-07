@@ -3,10 +3,10 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8473c4d59210bb18c3968a56883034febf00c320
+source-git-commit: 0d2416651da183460ad1f60ff5d566cbfc7abd12
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 2%
+source-wordcount: '428'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,18 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Nieuwe gebruikers- en rolmachtigingen</strong>: Er zijn nieuwe machtigingen beschikbaar, waardoor gebruikers meer toegang krijgen tot Marketo Engage in korreligheid. Besturingsonderdelen van Admin die niet eerder zijn opgenomen, zoals New Experience en Predictive Audiences, splitsmachtigingen om toegang tot Asset Audit Trail en Admin Audit Trail afzonderlijk te verlenen en nieuwe aanmaak- en verplaatsingsmachtigingen voor elementen en mappen te gebruiken om te voorkomen dat alleen-lezen gebruikers wijzigingen aanbrengen. Terwijl de nieuwe toestemmingen in uw instantie van het Marketo Engage vanaf 26 April zullen verschijnen, zijn zij passief voor nu en zullen later dit kwart toegankelijk worden.</td> 
+   <td><strong>Nieuwe gebruikers- en rolmachtigingen</strong>: Er zijn nieuwe machtigingen beschikbaar, waardoor gebruikers meer toegang krijgen tot Marketo Engage in korreligheid. Besturingsonderdelen van Admin die niet eerder zijn opgenomen, zoals New Experience en Predictive Audiences, splitsmachtigingen om toegang tot Asset Audit Trail en Admin Audit Trail afzonderlijk te verlenen en nieuwe aanmaak- en verplaatsingsmachtigingen voor elementen en mappen te gebruiken om te voorkomen dat alleen-lezen gebruikers wijzigingen aanbrengen. 
+   <p>Terwijl de nieuwe toestemmingen in uw instantie van het Marketo Engage vanaf 26 April zullen verschijnen, zijn zij passief voor nu en zullen later dit kwart toegankelijk worden.
+   <li>Toegang tot Adobe Experience Manager</li>
+   <li>Toewijzing organisatie van toegangsorganisatie</li>
+   <li>Access Admin Audit Trail</li>
+   <li>Actief assetaudittrail</li>
+   <li>Toegang tot nieuwe ervaring</li>
+   <li>Voorspelend publiek toegang</li>
+   <li>Rapport maken</li>
+   <li>Lijst maken</li>
+   <li>Campagne exporteren</li>
+   </td> 
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beschrijvingen van rolmachtigingen</a></td>
   </tr>
