@@ -1,18 +1,18 @@
 ---
-description: Woordenlijst pictogrammen - Marketo Docs - Productdocumentatie
+description: Verklarende woordenlijst van het pictogram - de Documenten van het Marketo Engage - de Documentatie van het Product
 title: Woordenlijst met pictogrammen
-exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
-feature: Modern UX
+feature: Getting Started
+exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
 
-# Woordenlijst met pictogrammen {#new-icon-glossary}
+# Woordenlijst met pictogrammen voor Marketo&#39;s Engage {#icon-glossary}
 
-Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. Als u naar de Marketo Classic-pictogrammen moet verwijzen, kunnen deze [hier gevonden](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface. Als u naar de Marketo Classic-pictogrammen moet verwijzen, kunnen deze [hier gevonden](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Algemene pictogrammen {#general-icons}
 

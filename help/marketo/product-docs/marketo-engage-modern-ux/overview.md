@@ -3,7 +3,7 @@ description: Marketo Engage Modern UX-overzicht - Marketo Docs - Productdocument
 title: Marketo Engage Moderne UX - Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Er is veel nieuwe functionaliteit in de Moderne UX, die allen wordt ontworpen om
 
 **pictogrammen**
 
-De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer informatie hierover vindt u hier: [Woordenlijst met pictogrammen](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
+De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer informatie hierover vindt u hier: [Woordenlijst met pictogrammen](/help/marketo/product-docs/getting-started/things-to-know/icon-glossary.md).
 
 ![](assets/overview-2.png)
 

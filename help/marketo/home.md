@@ -2,9 +2,9 @@
 title: Marketo-productdocumenten
 description: Marketo Engage Product Docs
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '53'
 ht-degree: 3%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 3%
 
 ## Aan de slag
 
-* [Stappen instellen](/help/marketo/getting-started/setup/setup-steps.md)
+* [Stappen instellen](/help/marketo/getting-started/initial-setup/setup-steps.md)
 * [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-* [Protocollen voor Marketo configureren](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
-* [Woordenlijst Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md)
+* [Protocollen voor Marketo Engage configureren](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md)
+* [Woordenlijst Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
 ## Populaire artikelen
 

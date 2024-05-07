@@ -1,10 +1,12 @@
 ---
 unique-page-id: 11387674
 description: Updates van Marketo Terminology - Marketo Docs - Productdocumentatie
+hide: true
+hidefromtoc: true
 title: Updates van Marketo Terminology
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -73,7 +75,7 @@ Lood en persoon **zijn hetzelfde**.
 
 ## Tokens {#tokens}
 
-Tokens met het woord leiden erin **niet wijzigen**. Onze excuses voor de verwarring. als echter alle tokens worden aangepast aan de nieuwe terminologie , zouden er een hele reeks tokens worden afgebroken die momenteel in gebruik zijn . U ziet dus nog steeds tokens zoals &quot;`{{lead.First Name}}`.&quot; Er zijn geen persoonlijke tokens.
+Tokens met het woord leiden erin **niet wijzigen**. Onze excuses voor de verwarring. Als u echter alle tokens aanpast aan de nieuwe terminologie, worden er veel tokens afgebroken die momenteel in gebruik zijn. U ziet dus nog steeds tokens zoals &quot;`{{lead.First Name}}`.&quot; Er zijn geen persoonlijke tokens.
 
 >[!NOTE]
 >
@@ -108,7 +110,7 @@ Velden die de term lead bevatten, zijn vervangen door Person of het woord Lead i
 
 >[!NOTE]
 >
->Voor een volledige lijst met betrokken veldnamen gaat u naar [Ondersteuningsartikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
+>Voor een volledige lijst met betrokken veldnamen gaat u naar [Ondersteuningsartikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
 ## Real-Time Personalization (RTP) is nu de Personalisatie van het Web {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -137,11 +139,11 @@ Velden die de term lead bevatten, zijn vervangen door Person of het woord Lead i
 
 Naast de naamwijziging bestaat de toepassing nu uit vier verschillende apps:
 
-| **[Webpersonalisatie](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Heeft eigen tegel op thuisscherm |
+| **[Webpersonalisatie](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Heeft eigen tegel op thuisscherm |
 |---|---|
-| **[Webmarketing op basis van account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Toegankelijk via web Personalization tile |
-| **[Gepersonaliseerd opnieuw rangschikken](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Toegankelijk via web Personalization tile |
-| **[Voorspelende inhoud](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Heeft eigen tegel op thuisscherm |
+| **[Webmarketing op basis van account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Toegankelijk via web Personalization tile |
+| **[Gepersonaliseerd opnieuw plaatsen](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Toegankelijk via web Personalization tile |
+| **[Voorspelende inhoud](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Heeft eigen tegel op thuisscherm |
 
 >[!NOTE]
 >

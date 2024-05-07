@@ -2,12 +2,14 @@
 unique-page-id: 1147226
 description: Aan de slag - Marketo Docs - Productdocumentatie
 title: Aan de slag
+hide: true
+hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 9%
+ht-degree: 3%
 
 ---
 
@@ -17,13 +19,13 @@ ht-degree: 9%
 
 Wat is Marketo Engage, vraag je? Geweldige vraag!
 
-[Meer Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Marketo Engage leren](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Instellen ophalen {#get-set-up}
 
 Met een beetje hulp van uw IT-team kunt u het snel doen.
 
-[Setup starten](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
+[Setup starten](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Snel wat gewonnen {#get-some-quick-wins}
 
@@ -42,7 +44,7 @@ Voltooi deze missies om de kerneigenschappen van Marketo Engage te leren.
   </td>
   <td>
       <a href="getting-started/quick-wins/send-an-email.md">
-       <img alt="Importeren" src="getting-started/assets/getting-started-2.png" />
+       <img alt="Importeren" src="getting-started/assets/getting-started.png" />
        </a>
     <div><a href="getting-started/quick-wins/send-an-email.md">2. E-mail verzenden</a>
     </div>
@@ -98,7 +100,7 @@ Voltooi deze missies om de kerneigenschappen van Marketo Engage te leren.
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="Importeren" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Een e-mail aanpassen</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Een e-mail personaliseren</a>
     </div>
     <br>
   </td>

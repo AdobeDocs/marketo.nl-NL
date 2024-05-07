@@ -3,7 +3,7 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 0ca63c52cb255cc41cbb53b2c481e589d08004b3
+source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
 workflow-type: tm+mt
 source-wordcount: '1846'
 ht-degree: 0%
@@ -16,7 +16,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 
 >[!TIP]
 >
->Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Woordenlijst Marketo Engage](/help/marketo/getting-started/marketo-engage-glossary.md){target="_blank"}.
+>Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Woordenlijst Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"}.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
@@ -83,7 +83,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr>
   <tr> 
    <td>Ondersteuningsgebruikers</td> 
-   <td><li>Hebt u de juiste instellingen <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">bevoegde contactpersonen</a> in het ondersteuningsportaal?</li></td>
+   <td><li>Hebt u de juiste instellingen <a href="/help/marketo/getting-started/initial-setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">bevoegde contactpersonen</a> in het ondersteuningsportaal?</li></td>
   </tr>
   <tr> 
    <td>Interne documentatie</td> 
