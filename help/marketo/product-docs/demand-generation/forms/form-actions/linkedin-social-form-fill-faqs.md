@@ -2,11 +2,13 @@
 unique-page-id: 10098238
 description: Veelgestelde vragen over het invullen van sociale formulieren in linkedIn - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over het invullen van sociale formulieren in linkedIn
+hide: true
+hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Voor een herzien API-beleid van linkedIn moesten we LinkedIn Social Form Fill ui
 
 ## Waarom is deze functionaliteit verwijderd uit mijn Marketo-abonnement? {#why-was-this-functionality-removed-from-my-marketo-subscription}
 
-linkedIn heeft een aantal belangrijke wijzigingen aangebracht in hun ontwikkelaarsprogramma. Als onderdeel van deze wijzigingen kan Marketo deze functionaliteit niet meer voor klanten ondersteunen.
+LinkedIn heeft een aantal belangrijke wijzigingen aangebracht in het ontwikkelingsprogramma. Als onderdeel van deze wijzigingen kan Marketo deze functionaliteit niet meer voor klanten ondersteunen.
 
 ## Wat gebeurde er als ik de vullingknoppen voor de LinkedIn Social Form niet had verwijderd uit mijn formulieren waarvoor Social Form was ingeschakeld? {#what-happened-if-i-didnt-remove-the-linkedin-social-form-fill-buttons-from-my-forms-that-had-social-form-enabled}
 
@@ -37,15 +39,15 @@ Voordat we deze wijziging hebben aangebracht, hebben we wekelijkse meldingen ver
 
 Ja. De wijziging is alleen van invloed op de functionaliteit voor het invullen van sociale formulieren in LinkedIn.
 
-## Werken Facebook en Twitter Social Form Fill nog? {#do-facebook-and-twitter-social-form-fill-still-work}
+## Werken Facebook en Vulling van sociaal formulier Twitter nog steeds? {#do-facebook-and-twitter-social-form-fill-still-work}
 
-Ja. Vulling van facebook- en Twitter-sociaal formulier is niet gewijzigd.
+Ja. Vulling van facebook en sociaal formulier van Twitter is niet gewijzigd.
 
 ## Is er iets gebeurd met de gegevens die we al hebben vastgelegd via de LinkedIn Social Form Fill? {#did-anything-happen-to-the-data-we-already-captured-via-linkedin-social-form-fill}
 
 Nee, deze gegevens zijn al opgeslagen in het persoonrecord in Marketo en zijn niet beïnvloed door deze wijziging.
 
-## Waar vind ik meer informatie over het API-beleid van LinkedIn? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
+## Waar kan ik meer informatie vinden over het LinkedIn API-beleid? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
 Volg deze koppeling voor meer informatie over de wijzigingen die LinkedIn heeft aangebracht in het API-beleid: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
@@ -61,11 +63,11 @@ Nee, uw formulieren waarvan we deze functie hebben verwijderd, zijn gepubliceerd
 
 Nee, we verwijderen alleen de LinkedIn-knop uit uw formulier. Telkens wanneer de Vulling van een sociaal formulier op een formulier wordt toegepast, wordt boven het formulier een container gemaakt die de knoppen voor het invullen van het sociale formulier bevat. Vóór 28 april 2016, als LinkedIn de enige optie was, leek de vormgeving van de container op deze afbeelding:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Na 28 april 2016 is er nu een lege container over aan de bovenkant van elk formulier waar de Vulling van het sociale formulier van LinkedIn is verwijderd:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >

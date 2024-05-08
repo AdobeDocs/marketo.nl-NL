@@ -4,9 +4,9 @@ description: LinkedIn-leadgen. Forms - Marketo Docs - Productdocumentatie instel
 title: LinkedIn-leadgen. Forms instellen
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: e1254c8156557b27d066a4482076becbd03fc774
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # LinkedIn-leadgen. Forms instellen {#set-up-linkedin-lead-gen-forms}
 
 Gebruik LinkedIn Lead Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en leads te genereren voor Marketo.
+
+>[!IMPORTANT]
+>
+>LinkedIn voert een upgrade uit van de marketing-API&#39;s die worden gebruikt door de integratie van Marketo Engage LinkedIn. Deze wijzigingen vereisen opnieuw verificatie van alle LinkedIn LaunchPoint-services in uw **Beheerder** > **LaunchPoint** tussen 7 juni en 15 december 2024 om onderbreking van de service te voorkomen. Zie voor meer informatie de [Veelgestelde vragen over migratie](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >

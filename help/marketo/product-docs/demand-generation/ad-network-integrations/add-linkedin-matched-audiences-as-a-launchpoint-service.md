@@ -4,14 +4,18 @@ description: Voeg aan LinkedIn Gelijke Soorten publiek als Dienst van LaunchPoin
 title: Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 1%
+source-wordcount: '210'
+ht-degree: 0%
 
 ---
 
 # Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+
+>[!IMPORTANT]
+>
+>LinkedIn voert een upgrade uit van de marketing-API&#39;s die worden gebruikt door de integratie van Marketo Engage LinkedIn. Deze wijzigingen vereisen opnieuw verificatie van alle LinkedIn LaunchPoint-services in uw **Beheerder** > **LaunchPoint** tussen 7 juni en 15 december 2024 om onderbreking van de service te voorkomen. Zie voor meer informatie de [Veelgestelde vragen over migratie](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
