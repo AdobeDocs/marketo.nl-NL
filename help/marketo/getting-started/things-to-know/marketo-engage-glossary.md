@@ -3,9 +3,9 @@ description: Verklarende woordenlijst Marketo's Engage - Marketo Docs - Productd
 title: Woordenlijst Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 0%
 
 ---
@@ -129,11 +129,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   <tr> 
    <td colspan="1"><strong>Campagne</strong></td> 
    <td colspan="1">"Campagne" zou een paar dingen kunnen betekenen in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagne</a> is een kortere termijn voor slimme campagne. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagnes</a> Dit zijn een reeks meerkanaalse correspondentiestappen. In <strong>Webpersonalisatie</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagnes</a> zijn aangepaste reacties geassocieerd met een specifiek segment.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Rapport Campagneactiviteiten</a></strong></td> 
-   <td colspan="1">Type rapport dat toont hoe <strong>slimme campagnes</strong> uitvoeren.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Rapport over e-mailprestaties voor campagne</a></strong></td> 
    <td colspan="1">Rapporttype waarin de e-mailprestatiemetriek wordt weergegeven gegroepeerd op <strong>slimme campagne</strong>.</td> 

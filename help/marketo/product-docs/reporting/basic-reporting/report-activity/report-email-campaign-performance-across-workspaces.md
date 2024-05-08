@@ -4,16 +4,16 @@ description: E-mail rapporteren, campagneresultaten in verschillende werkruimten
 title: E-mail rapporteren, campagneprestaties in alle werkruimten
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # E-mail rapporteren, campagneprestaties in alle werkruimten {#report-email-campaign-performance-across-workspaces}
 
-Schakel Global Reporting in om gegevens van al uw Marketo op te nemen [werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-mailkoppelingprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), en [Campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) rapporten.
+Schakel Global Reporting in om gegevens van al uw Marketo op te nemen [werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) en [E-mailkoppelingprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporten.
 
 1. Ga naar **Analyse** (of **Marketingactiviteiten**).
 

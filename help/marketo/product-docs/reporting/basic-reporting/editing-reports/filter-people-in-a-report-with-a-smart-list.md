@@ -4,9 +4,9 @@ description: Filter Personen in een rapport met een slimme lijst - Marketo Docs 
 title: Personen in een rapport filteren met een slimme lijst
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,7 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
 * [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Prestaties van e-mailkoppelingen](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Betrokkenheidsstreamprestaties](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [Campagne-e-mailprestaties](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [E-mailprestaties campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [Webactiviteit bedrijf](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Activiteit webpagina](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
@@ -40,7 +39,7 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
 
    ![](assets/image2017-3-27-14-3a13-3a46.png)
 
-1. Configureer het filter.
+1. Vorm de filter.
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
