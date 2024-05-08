@@ -4,7 +4,7 @@ description: Een campagneactiviteitenrapport filteren - Marketo Docs - Productdo
 title: Een campagneactiviteitenrapport filteren
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0a4c889d22232f7da8f4dda2f077bba1873cd1b2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -21,15 +21,15 @@ Focus op uw [Rapport Campagneactiviteiten](/help/marketo/product-docs/reporting/
 
 1. Ga naar **Marketingactiviteiten** (of **Analyse**) en selecteer het activiteitenrapport van uw campagne.
 
-   ![](assets/image2014-9-16-16-3a13-3a56.png)
+   ![](assets/filter-a-campaign-activity-report-1.png)
 
 1. Klik op de knop **Instellen** en dubbelklikken **Campagnes**.
 
-   ![](assets/image2014-9-16-16-3a14-3a1.png)
+   ![](assets/filter-a-campaign-activity-report-2.png)
 
 1. Kies de mappen en specifieke slimme campagnes die u in uw rapport wilt opnemen. Klikken **Toepassen**.
 
-   ![](assets/image2014-9-16-16-3a14-3a11.png)
+   ![](assets/filter-a-campaign-activity-report-3.png)
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ Focus op uw [Rapport Campagneactiviteiten](/help/marketo/product-docs/reporting/
 
 1. Je bent klaar! Klik op de knop **Rapport** tab om te zien _gewoon_ de geselecteerde slimme campagnes in uw rapport.
 
-   ![](assets/image2014-9-16-16-3a14-3a32.png)
+   ![](assets/filter-a-campaign-activity-report-4.png)
 
 >[!MORELIKETHIS]
 >
