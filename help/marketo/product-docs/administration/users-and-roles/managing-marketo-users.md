@@ -4,14 +4,18 @@ description: Marketo-gebruikers beheren - Marketo Docs - Productdocumentatie
 title: Marketo-gebruikers beheren
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab1ea483998d6cb37277b18adf2c1d3371bb40e6
+source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 2%
+source-wordcount: '359'
+ht-degree: 1%
 
 ---
 
 # Marketo-gebruikers beheren {#managing-marketo-users}
+
+>[!IMPORTANT]
+>
+>Dit artikel is alleen bedoeld voor degenen die _niet_ gebruiken [Marketo met Adobe-id](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If you do, please follow the steps in [this article](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} in plaats daarvan.
 
 ## Gebruikers maken {#create-users}
 
@@ -71,7 +75,7 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 >[!NOTE]
 >
->Als de gebruiker u wilt schrappen ook een gebruiker van de Dynamic Chat is, moet u [verwijderen uit Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user) in de Admin Console voordat u deze in het Marketo Engage kunt verwijderen.
+>Als de gebruiker u wilt schrappen ook een gebruiker van de Dynamic Chat is, moet u [verwijderen uit Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} in de Admin Console voordat u deze in het Marketo Engage kunt verwijderen.
 
 1. Ga naar de **[!UICONTROL Admin]** gebied.
 
