@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9349'
 ht-degree: 0%
 
 ---
@@ -657,6 +657,16 @@ ht-degree: 0%
          + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + [Analyse](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Veelgestelde vragen](product-docs/demand-generation/dynamic-chat/faq.md)
+         + Instellen en configureren {#setup-and-configuration}
+            + [Eerste instelling](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
+            + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Machtigingen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
+            + [Configuratie](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
+            + [Instellingen agent](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
+            + [Agent Management](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
+            + [Beveiligingsinstellingen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
+            + [Routering](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
+            + [Callback-functies](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
          + Geautomatiseerde chat {#automated-chat}
             + [Overzicht van conversiesnelheid](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
             + [Een wisselstroom maken](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
@@ -672,16 +682,12 @@ ht-degree: 0%
             + [Live Chat-overzicht](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Agent Inbox](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
             + [Meldingen](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
-         + Instellen en configureren {#setup-and-configuration}
-            + [Eerste instelling](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
-            + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
-            + [Machtigingen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
-            + [Configuratie](product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md)
-            + [Instellingen agent](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md)
-            + [Agent Management](product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md)
-            + [Beveiligingsinstellingen](product-docs/demand-generation/dynamic-chat/setup-and-configuration/security-settings.md)
-            + [Routering](product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md)
-            + [Callback-functies](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
+         + Generatieve AI {#generative-ai}
+            + [Algemeen AI-overzicht](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
+            + [Vragengeneratie](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
+            + [Responsbibliotheek](product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)
+            + [Activiteitenlogboek](product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)
+            + [Onbeantwoorde vragen](product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md)
       + Gebeurtenissen {#events}
          + Gebeurtenissen {#understanding-events}
             + [Leden toevoegen aan een gebeurtenisprogramma](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
