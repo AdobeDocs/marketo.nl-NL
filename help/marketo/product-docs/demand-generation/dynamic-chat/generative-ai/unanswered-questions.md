@@ -4,16 +4,16 @@ title: Onbeantwoorde vragen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # Onbeantwoorde vragen {#unanswered-questions}
 
-Bekijk alle vragen die de chatbot niet kon beantwoorden of die bezoekers gemarkeerd als &quot;niet nuttig&quot; en gebruik deze waardevolle informatie om aanvullende vooraf goedgekeurde antwoorden te maken.
+Bekijk alle vragen die de chatbot niet kon beantwoorden en/of de vragen die als &quot;niet nuttig&quot; waren gemarkeerd en gebruik deze waardevolle informatie om aanvullende vooraf goedgekeurde antwoorden te maken.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Bekijk alle vragen die de chatbot niet kon beantwoorden of die bezoekers gemarke
 
    ![](assets/unanswered-questions-2.png)
 
-1. Selecteer de onbeantwoorde vraag u een antwoord voor wilt produceren.
+1. Selecteer de onbeantwoorde vraag u een antwoord voor wilt tot stand brengen.
 
    ![](assets/unanswered-questions-3.png)
 

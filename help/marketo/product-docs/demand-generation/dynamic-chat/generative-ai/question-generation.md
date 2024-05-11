@@ -4,16 +4,16 @@ title: Vragengeneratie
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
 
 # Vragengeneratie {#question-generation}
 
-Bekijk al uw taken en de bijbehorende details, zoals het tijdstip waarop deze zijn gegenereerd, het totale aantal vragen, de goedkeuringsstatus en nog veel meer.
+Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn gegenereerd, het totale aantal vragen, de goedkeuringsstatus en meer.
 
 ## Vragen genereren {#generate-questions}
 
@@ -37,11 +37,11 @@ Bekijk al uw taken en de bijbehorende details, zoals het tijdstip waarop deze zi
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->De status op de pagina wordt niet in real-time bijgewerkt. Druk op Vernieuwen om te zien wanneer het van &quot;Verwerken&quot; naar &quot;Voltooien&quot; gaat.
+   >[!TIP]
+   >
+   >De status op de pagina wordt niet in real-time bijgewerkt. Druk op Vernieuwen om te zien wanneer het van &quot;Verwerken&quot; naar &quot;Voltooien&quot; gaat.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## Vragen en antwoorden downloaden {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ Bekijk al uw taken en de bijbehorende details, zoals het tijdstip waarop deze zi
 
    ![](assets/question-generation-6.png)
 
-1. Zoek de downloadmap in uw browser en selecteer het bestand. Dit kan er anders uitzien, afhankelijk van uw browser.
+1. Zoek de downloadmap in uw browser en selecteer het bestand. Dit kan er anders uitzien, afhankelijk van de browser die u gebruikt.
 
    ![](assets/question-generation-7.png)
 
