@@ -4,9 +4,9 @@ title: Algemeen AI-overzicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,24 +17,24 @@ Met Generative AI in Adobe Dynamic Chat kunt u sneller campagne maken voor marke
 
 ## Vraaggeneratie {#question-generation}
 
-Verhoog de binnenkomende ervaringen met AI-gesprekken voor bezoekers die een interface gebruiken die is opgeleid voor verkoop, marketing en productkennis.
+[Binnenkomende ervaringen versnellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) met AI-gesprekken voor bezoekers die een interface gebruiken die is opgeleid voor verkoop, marketing en productkennis.
 
-SCREENSHOT
+![](assets/generative-ai-overview-1.png)
 
 ## Responsbibliotheek {#response-library}
 
-Maak een aangepaste verzameling vragen en antwoorden, die u allemaal vooraf hebt goedgekeurd, voor gebruik in de chatcampagnes van Generative AI.
+[Een aangepaste verzameling maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) alle vooraf door u goedgekeurde vragen en antwoorden voor gebruik in de chatcampagnes van Generative AI.
 
-SCREENSHOT
+![](assets/generative-ai-overview-2.png)
 
 ## Activiteitenlogboek {#activity-log}
 
-Zie een lijst van alle taken en hun begeleidende details, met inbegrip van naam, eigenaar, type, en wie hen en toen heeft uitgegeven.
+[Een lijst met alle taken bekijken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) en de bijbehorende gegevens, met inbegrip van naam, eigenaar, type en door wie en wanneer.
 
-SCREENSHOT
+![](assets/generative-ai-overview-3.png)
 
 ## Onbeantwoorde vragen {#unanswered-questions}
 
-Maak aanvullende vooraf goedgekeurde reacties voor uw reactiebibliotheek met gebruik van AI op basis van een opslagplaats van onbeantwoorde vragen van eerdere gesprekken.
+[Aanvullende vooraf goedgekeurde reacties maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) voor uw reactiebibliotheek die AI gebruikt op een bewaarplaats van onbeantwoorde vragen van vorige gesprekken wordt gebaseerd.
 
-SCREENSHOT
+![](assets/generative-ai-overview-4.png)

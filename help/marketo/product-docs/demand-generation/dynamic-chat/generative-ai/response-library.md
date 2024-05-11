@@ -4,9 +4,9 @@ title: Responsbibliotheek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -57,24 +57,49 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
 ## Vragen/antwoorden bulksgewijs bewerken en uploaden {#bulk-edit-and-upload-questions-responses}
 
-1. Tekst
+Hieronder vindt u instructies voor het aanbrengen van bulkbewerkingen in het gedownloade Excel-bestand. Ze kunnen ook worden weergegeven op het tabblad Taakdetails van het bestand.
 
-SCREENSHOT
+<table>
+<thead>
+  <tr>
+    <th>Handeling</th>
+    <th>Instructies</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Een vraag bewerken</td>
+    <td>Voer de nieuwe vraag in de kolom "editedQuestion" (kolom H) in</td>
+  </tr>
+  <tr>
+    <td>Een reactie bewerken</td>
+    <td>Voer de nieuwe reactie in kolom "editedResponse" (kolom I) in</td>
+  </tr>
+  <tr>
+    <td>Nieuwe vraag toevoegen</td>
+    <td>Voer de nieuwe vraag in de kolom "editedQuestion" (kolom H) in en laat questionResponseld leeg. U moet een aangewezen onderwerp in kolom "onderwerpen"(kolom C) en een bronURL in kolom "sourceUr!"ook ingaan</td>
+  </tr>
+  <tr>
+    <td>Een vraag en antwoord toevoegen</td>
+    <td>Voer de nieuwe vraag in de kolom "editedQuestion" (kolom H), de nieuwe reactie in de kolom "editedResponse" (kolom I) in en laat questionResponseld leeg. U moet een aangewezen onderwerp in kolom "onderwerpen"ook ingaan (kolom C)</td>
+  </tr>
+</tbody>
+</table>
 
-1. Tekst
+1. Nadat u alle gewenste wijzigingen hebt aangebracht in het bestand, gaat u terug naar het tabblad Reactiebibliotheek en klikt u op Reacties uploaden.
 
-SCREENSHOT
+   ![](assets/response-library-9.png)
 
-1. Tekst
+1. Voer de toepasselijke taaknaam in. Sleep het bestand en zet het neer of blader er naar op het apparaat en selecteer het. Klikken **Opslaan** wanneer gereed.
 
-SCREENSHOT
+   ![](assets/response-library-10.png)
 
-1. Tekst
+1. De bevestiging verschijnt en u bent allen geplaatst.
 
-SCREENSHOT
+   ![](assets/response-library-11.png)
 
 ## Uw vragen filteren {#filter-your-questions}
 
 Standaard worden vragen op volgorde vermeld op tijd/aanmaakdatum, waarbij de nieuwste vragen als eerste worden weergegeven. Als u een specifieke vraag zoekt, past u filters toe om uw zoekopdracht te verfijnen. Filter op onderwerpen, taaknaam en/of goedkeuringsstatus.
 
-SCREENSHOT
+![](assets/response-library-12.png)
