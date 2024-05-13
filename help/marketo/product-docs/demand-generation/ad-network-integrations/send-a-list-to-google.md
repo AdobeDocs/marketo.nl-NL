@@ -4,16 +4,17 @@ title: Een lijst naar Google verzenden
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
+source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Een lijst naar Google verzenden {#send-a-list-to-google}
 
-Voer de onderstaande stappen uit om een statische lijst naar uw Google-account te verzenden.
+Voor wie Google Customer Match gebruikt, volgt u de onderstaande stappen om een statische lijst met Marketo&#39;s Engage naar uw Google-account te verzenden.
 
 1. Zoek en selecteer de gewenste lijst in het Marketo Engage.
 
@@ -39,7 +40,7 @@ Voer de onderstaande stappen uit om een statische lijst naar uw Google-account t
    >
    >* Selecteren **Zorgen dat uw abonnement synchroon blijft** houdt de lijst bijgewerkt aangezien het in uw geval verandert. We voegen of verwijderen mensen toe aan het publiek wanneer ze aan de statische lijst worden toegevoegd of eruit worden verwijderd.
    >
-   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD.
+   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD. Voor degenen die gegevens willen uploaden voor gebruikers in de Europese Economische Ruimte (EER), heeft Google een lijst opgesteld van [Veelgestelde vragen](https://support.google.com/google-ads/answer/14310715), alsmede aanvullende gegevens over de [EU-beleid inzake instemming van gebruikers](https://www.google.com/about/company/user-consent-policy/).
 
 1. Klikken **Bijwerken**.
 
