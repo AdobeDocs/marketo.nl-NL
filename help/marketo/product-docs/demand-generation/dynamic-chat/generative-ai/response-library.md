@@ -4,9 +4,10 @@ title: Responsbibliotheek
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -17,27 +18,27 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
 ## Handmatig een vraag toevoegen {#manually-add-a-question}
 
-1. Klik onder Generative AI op **Bijgewerkte reacties**.
+1. Klik onder Generative AI op **[!UICONTROL Assisted responses]**.
 
    ![](assets/response-library-1.png)
 
-1. Klik op de knop **Responsbibliotheek** tab.
+1. Klik op de knop **[!UICONTROL Response library]** tab.
 
    ![](assets/response-library-2.png)
 
-1. Klikken **Vraag toevoegen**.
+1. Klik op **[!UICONTROL Add question]**.
 
    ![](assets/response-library-3.png)
 
-1. Voer uw vraag en antwoord in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klikken **Opslaan** wanneer gereed.
+1. Voer uw vraag en antwoord in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klikken **[!UICONTROL Save]** wanneer gereed.
 
    ![](assets/response-library-4.png)
 
-1. Klik op Vernieuwen en uw nieuwe vraag wordt bovenaan weergegeven met de status &quot;Verwerken&quot;.
+1. Klik op Vernieuwen en uw nieuwe vraag wordt bovenaan weergegeven met de status &quot;[!UICONTROL Processing].&quot;
 
    ![](assets/response-library-5.png)
 
-1. Klik na een paar minuten nogmaals en de status verandert in &quot;Goedgekeurd&quot;.
+1. Na een paar minuten vernieuwen en verandert de status in &quot;Goedgekeurd&quot;.
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
 >[!NOTE]
 >
->Aan alle gegenereerde vragen en antwoorden wordt standaard de status &#39;need review&#39; toegewezen. Alleen &quot;goedgekeurde&quot; vragen en antwoorden worden beschikbaar gesteld voor chatbezoekers.
+>Alle gegenereerde vragen en antwoorden krijgen de opdracht &quot;[!UICONTROL need review]&quot; status door gebrek. Alleen &quot;[!UICONTROL approved]&quot; vragen en antwoorden zijn beschikbaar voor chatbezoekers .
 
-1. In de **Responsbibliotheek** klikt u op de gewenste vraag.
+1. In de **[!UICONTROL Response library]** klikt u op de gewenste vraag.
 
    ![](assets/response-library-7.png)
 
-1. Breng de gewenste wijzigingen aan en klik op **Opslaan**.
+1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]**.
 
    ![](assets/response-library-8.png)
 
@@ -77,7 +78,7 @@ Hieronder vindt u instructies voor het aanbrengen van bulkbewerkingen in het ged
   </tr>
   <tr>
     <td>Nieuwe vraag toevoegen</td>
-    <td>Voer de nieuwe vraag in de kolom "editedQuestion" (kolom H) in en laat questionResponseld leeg. U moet een aangewezen onderwerp in kolom "onderwerpen"(kolom C) en een bronURL in kolom "sourceUr!"ook ingaan</td>
+    <td>Voer de nieuwe vraag in de kolom "editedQuestion" (kolom H) in en laat questionResponseld leeg. U moet ook een aangewezen onderwerp in kolom "onderwerpen"(kolom C) en een bronURL in kolom "sourceUr!"ingaan</td>
   </tr>
   <tr>
     <td>Een vraag en antwoord toevoegen</td>
@@ -86,11 +87,11 @@ Hieronder vindt u instructies voor het aanbrengen van bulkbewerkingen in het ged
 </tbody>
 </table>
 
-1. Nadat u alle gewenste wijzigingen hebt aangebracht in het bestand, gaat u terug naar het tabblad Reactiebibliotheek en klikt u op Reacties uploaden.
+1. Nadat u klaar bent met het aanbrengen van de bewerkingen in uw bestand, gaat u terug naar de **[!UICONTROL Response library]** en klik op **[!UICONTROL Upload responses]**.
 
    ![](assets/response-library-9.png)
 
-1. Voer de toepasselijke taaknaam in. Sleep het bestand en zet het neer of blader er naar op het apparaat en selecteer het. Klikken **Opslaan** wanneer gereed.
+1. Voer de toepasselijke taaknaam in. Sleep het bestand en zet het neer of blader er naar op het apparaat en selecteer het. Klikken **[!UICONTROL Save]** wanneer gereed.
 
    ![](assets/response-library-10.png)
 

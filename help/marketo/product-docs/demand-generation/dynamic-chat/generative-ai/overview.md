@@ -4,16 +4,29 @@ title: Algemeen AI-overzicht
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Algemeen AI-overzicht {#generative-ai-overview}
 
-Met Generative AI in Adobe Dynamic Chat kunt u sneller campagne maken voor marketing, de reacties voor live verkoopagenten verbeteren en vrijwel elke vraag beantwoorden met behulp van een opslagplaats voor zelfbeheerde inhoud.
+Generatieve AI in Adobe Dynamic Chat verwerkt intentsignalen, gebruikersvoorkeuren en gedrag in real-time in het verleden om relevante, gepersonaliseerde berichten voor chatbezoekers te genereren.
+
+## Respons-kaart genereren {#generation-response-card}
+
+Creeer een bericht voor de bezoeker voor wanneer zij een bepaald punt in het gesprek bereiken. Stel een aantal vragen die ze kunnen stellen in om de gewenste prestatiekernindicator te bereiken. Voeg maximaal vijf vervolgvragen toe en voeg een fallback-bericht toe als er geen antwoord beschikbaar is op de vraag van een bezoeker.
+
+(assets/generative-ai-overview-1.png
+
+## Overzicht van gesprekken {#conversation-summary}
+
+Typisch om de volledige context van een bezoekersgesprek te krijgen, moet u door de volledige praatjetranscriptie scrollen. Het Samenvatting van de dialoog produceert een samenvatting voor u in real time, en omvat zelfs onderwerpen de bezoeker verklaarde interesse in. Dit is vooral nuttig aan praatjeagenten die snelle context van een gesprek nodig hebben wanneer zij tussen chats met veelvoudige bezoekers schakelen.
+
+(assets/generative-ai-overview-2.png
 
 ## Vraaggeneratie {#question-generation}
 
@@ -35,6 +48,33 @@ Met Generative AI in Adobe Dynamic Chat kunt u sneller campagne maken voor marke
 
 ## Onbeantwoorde vragen {#unanswered-questions}
 
-[Aanvullende vooraf goedgekeurde reacties maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) voor uw reactiebibliotheek die AI gebruikt op een bewaarplaats van onbeantwoorde vragen van vorige gesprekken wordt gebaseerd.
+[Aanvullende vooraf goedgekeurde reacties maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) Voor uw reactiebibliotheek die op een bewaarplaats wordt gebaseerd GEBRUIK VERSCHILLEND WOORD van onbeantwoorde vragen van vorige gesprekken.
 
 ![](assets/generative-ai-overview-4.png)
+
+>[!IMPORTANT]
+>
+>Wanneer u generatieve AI gebruikt, moet u zich houden aan de [Adobe Experience Cloud Generative AI-gebruikersrichtlijnen](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) We kunnen er dus voor zorgen dat Adobe Experience Cloud-functies die generatieve AI bevatten op een veilige en verantwoorde manier worden gebruikt.
+
+## Veelgestelde vragen {#faq}
+
+**Is generatieve AI beschikbaar voor alle gebruikers van de Dynamic Chat?**
+
+Generatieve AI is alleen beschikbaar voor Dynamics Chat-premiers.
+
+**Is er een limiet aan de hoeveelheid vragen en antwoorden die ik kan genereren?**
+
+Ja. Op dit moment is er een levenslange limiet van 1000.
+
+**Welke talen zijn beschikbaar in generatieve AI?**
+
+Momenteel wordt alleen Engels ondersteund in generatieve AI.
+
+
+
+VOOR KG ONDER...
+
+VIDEO - 13:09 - SNELTOETSEN
+
+
+

@@ -4,9 +4,10 @@ title: Onbeantwoorde vragen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
+exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -17,13 +18,13 @@ Bekijk alle vragen die de chatbot niet kon beantwoorden en/of de vragen die als 
 
 >[!NOTE]
 >
->De lijst met onbeantwoorde vragen wordt automatisch vernieuwd om de 24 uur.
+>De lijst met onbeantwoorde vragen wordt automatisch vernieuwd om de 24 uur, om middernacht PST.
 
-1. Klik onder Generative AI op **Bijgewerkte reacties**.
+1. Klik onder Generative AI op **[!UICONTROL Assisted responses]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Klik op de knop **Onbeantwoorde vragen** tab.
+1. Klik op de knop **[!UICONTROL Unanswered questions]** tab.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -31,7 +32,7 @@ Bekijk alle vragen die de chatbot niet kon beantwoorden en/of de vragen die als 
 
    ![](assets/unanswered-questions-3.png)
 
-1. Voer uw reactie in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klikken **Opslaan** wanneer gereed.
+1. Voer uw reactie in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klikken **[!UICONTROL Save]** wanneer gereed.
 
    ![](assets/unanswered-questions-4.png)
 
