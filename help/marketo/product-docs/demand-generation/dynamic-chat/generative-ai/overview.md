@@ -3,9 +3,9 @@ description: Algemeen AI-overzicht - Marketo Docs - Productdocumentatie
 title: Algemeen AI-overzicht
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Typisch om de volledige context van een bezoekersgesprek te krijgen, moet u door
 
 ## Onbeantwoorde vragen {#unanswered-questions}
 
-[Aanvullende vooraf goedgekeurde reacties maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) Voor uw reactiebibliotheek die op een bewaarplaats wordt gebaseerd GEBRUIK VERSCHILLEND WOORD van onbeantwoorde vragen van vorige gesprekken.
+[Aanvullende vooraf goedgekeurde reacties maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) voor uw reactiebibliotheek die AI gebruikt op een bewaarplaats van onbeantwoorde vragen van vorige gesprekken wordt gebaseerd.
 
 ![](assets/generative-ai-overview-8.png)
 
