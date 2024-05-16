@@ -1,13 +1,11 @@
 ---
 description: Vraag genereren - Marketo Docs - Productdocumentatie
 title: Vragengeneratie
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -72,16 +70,51 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
 ## IP Adressen aan Lijst van gewenste personen {#ip-addresses-to-allowlist}
 
-Zorg ervoor dat alle IP-adressen hieronder door uw webteam zijn gevoegd op lijst van gewenste personen om ervoor te zorgen dat de inhoud van uw URL&#39;s kan worden opgehaald tijdens het genereren van vragen en antwoorden.
+Als u het ophalen van inhoud van uw web-URL&#39;s tijdens het genereren van vragen en antwoorden wilt inschakelen, zoekt u hieronder uw regio en zorgt u ervoor dat alle bijbehorende IP-adressen door uw webteam worden gevoegd op lijst van gewenste personen.
 
-<table width="150">
+<table width="450">
+<thead>
   <tr>
-    <td>20 167 0 149</td>
+    <th>Noord-Amerika</th>
+    <th>Europa</th>
+    <th>APAC</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>20.10.235.188</td>
+    <td>20 76 246 248</td>
+    <td>Op 20.167.0.195</td>
   </tr>
   <tr>
-    <td>20 248 129 111</td>
+    <td>20.10.235.189</td>
+    <td>20 76 247,92</td>
+    <td>20 248 128 31</td>
   </tr>
   <tr>
-    <td>20 167 0 146</td>
+    <td>20.10.235.246</td>
+    <td>20 76 247 134</td>
+    <td>20 167 148</td>
   </tr>
+  <tr>
+    <td>20.10.235.248</td>
+    <td>20 76 247 244</td>
+    <td>20 167 163</td>
+  </tr>
+  <tr>
+    <td>20 10 235 255</td>
+    <td>20 93 168 10</td>
+    <td>20 167 192</td>
+  </tr>
+  <tr>
+    <td>20.10.236,96</td>
+    <td>20 93 168,44</td>
+    <td>20 167 1 155</td>
+  </tr>
+  <tr>
+    <td>20 119 144,14</td>
+    <td>20 105 224,16</td>
+    <td>20 211 64 11</td>
+  </tr>
+</tbody>
 </table>

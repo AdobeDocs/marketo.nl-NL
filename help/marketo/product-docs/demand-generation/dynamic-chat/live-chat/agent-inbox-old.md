@@ -1,11 +1,12 @@
 ---
 description: Agent Inbox - Marketo Docs - Productdocumentatie
 title: Agent Inbox
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -56,45 +57,11 @@ De agenten hebben de capaciteit een zitting manueel te beëindigen eenvoudig doo
 
 ![](assets/agent-inbox-6.png)
 
-## Sneltoetsen {#shortcuts}
-
->[!NOTE]
->
->Deze functie maakt deel uit van generatieve AI en is beschikbaar via het abonnement Dynamic Chat Prime. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
-
-Sneltoetsen, aangedreven door de generatieve AI [Responsbibliotheek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), is een geweldige manier om hulp te krijgen wanneer je met een bezoeker praat. Typ gewoon een slash (`/`) in het tekstvak en kies `ask` of `search`.
-
-![](assets/agent-inbox-7.png)
-
-**Vragen** is voor hulp bij het beantwoorden van een vraag.
-
-1. Typ of kies `/ask` in het tekstvak. Typ uw vraag en druk op Enter op het toetsenbord.
-
-   ![](assets/agent-inbox-8.png)
-
-1. Er verschijnt een antwoord. Klik op het kopieerpictogram om het te laten plakken in het tekstvak. U kunt de tekst bewerken voordat u deze naar de bezoeker verzendt.
-
-   ![](assets/agent-inbox-9.png)
-
-**Zoeken** is bedoeld voor het zoeken naar pagina&#39;s die betrekking hebben op specifieke tekst.
-
-1. Typ of kies `/search` in het tekstvak.
-
-   ![](assets/agent-inbox-10.png)
-
-1. Typ wat u wilt zoeken en druk op Enter op het toetsenbord.
-
-   ![](assets/agent-inbox-11.png)
-
-1. Toepasselijke koppelingen worden weergegeven. Klik op het kopieerpictogram om deze in het tekstvak te plakken. U kunt bewerkingen uitvoeren voordat u de gegevens naar de bezoeker verzendt.
-
-   ![](assets/agent-inbox-12.png)
-
 ## Activiteitenoverzicht {#activity-history}
 
 Onder de bezoekersinformatie bevindt zich de activiteitengeschiedenis. Bekijk activiteitstypen en datums en bekijk zelfs chattranscripties.
 
-![](assets/agent-inbox-13.png)
+![](assets/agent-inbox-7.png)
 
 >[!NOTE]
 >
@@ -106,26 +73,13 @@ Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda v
 
 1. Klik op het kalenderpictogram.
 
-   ![](assets/agent-inbox-14.png)
+   ![](assets/agent-inbox-8.png)
 
 1. Kies de gewenste agentenkalender en klik **Verzenden**.
 
-   ![](assets/agent-inbox-15.png)
+   ![](assets/agent-inbox-9.png)
 
 1. De bezoeker van de chat zal een vergadering kunnen boeken.
 
-   ![](assets/agent-inbox-16.png)
+   ![](assets/agent-inbox-10.png)
 
-## Overzicht van gesprekken {#conversation-summary}
-
->[!NOTE]
->
->Deze functie maakt deel uit van generatieve AI en is beschikbaar via het abonnement Dynamic Chat Prime. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
-
-Het Samenvatting van de Gesprek produceert een snelle samenvatting voor u in real time, met inbegrip van onderwerpen de bezoeker in heeft uitgedrukt geïnteresseerd. Deze vindt u rechtsonder in elk chatscherm.
-
-![](assets/agent-inbox-17.png)
-
->[!NOTE]
->
->Een voltooide Samenvatting van de Gesprek kan ook in het activiteitenlogboek van het Verslag van de Persoon van de bezoeker in uw Gegevensbestand van het Marketo Engage worden gevonden.

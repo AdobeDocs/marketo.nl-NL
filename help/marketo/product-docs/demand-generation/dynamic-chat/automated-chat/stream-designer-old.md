@@ -1,11 +1,12 @@
 ---
 description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1187'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
@@ -37,11 +38,11 @@ De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het pra
   <td>Hiermee kunt u PDF-documenten insluiten in dialoogvensters en de activiteit van bezoekers in de documentbetrokkenheid bijhouden (hoeveel pagina's zijn weergegeven, of het document is gedownload en/of welke zoektermen zijn gebruikt).</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Informatie vastleggen</strong></td>
+  <td style="width:25%"><strong>Gegevens vastleggen</strong></td>
   <td>Wordt gebruikt wanneer u gegevens wilt verzamelen (bijvoorbeeld naam, e-mailadres, functie, enz.). Nadat u hebt bepaald op welk veld de reactie moet worden toegeschreven, kunt u kiezen of de bezoeker zijn reactie laat typen of opties in een keuzelijst selecteert die u bepaalt (tip: de laatste kan helpen met de schoonheid van de database). U kunt er ook voor kiezen om de gegevens die u momenteel voor hen hebt vermeld, te overschrijven met hun antwoord, of de vraag volledig over te slaan als u al een waarde voor hen hebt.</td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Boeking van vergadering</strong></td>
+  <td style="width:25%"><strong>Vergaderingreservering</strong></td>
   <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels. Klikken <b>Kenmerk toevoegen</b> als u de naam of het e-mailadres van de agent wilt vastleggen en dit aan de persoonlijke record van de bezoeker van de chat wilt toewijzen voor toekomstig opvragen (tip: maak een <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepast veld</a> om de informatie van de agent aan zoals in kaart te brengen om een standaardgebied van het Marketo Engage niet te beschrijven).</td>
  </tr>
  <tr>
@@ -51,22 +52,13 @@ De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het pra
  <tr>
   <td style="width:25%"><strong>Actie*</strong></td>
   <td>Vergelijkbaar met verborgen velden in een formulier, kunt u met de actiekaart elk lead- of bedrijfskenmerk vullen (met een <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">gegevenstype tekenreeks</a>) met impliciete waarden die u wilt vastleggen op basis van een hoofdrecord. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.
-  <p><i>* Voor deze kaart is de Dynamic Chat-primeur vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
+  <p><i>* Voor de actiekaart is de Dynamic Chat-premier vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Live chatten</strong></td>
+  <td style="width:25%"><strong>Live Chat</strong></td>
   <td>Gebruik de live chatkaart wanneer bezoekers met een live agent willen chatten.
   <li>De live chatkaart moet de laatste kaart in de vertakking zijn.</li>
   <li>Bezoekers worden naar een agent geleid zodra ze deze kaart in de stream bereiken. Het wordt daarom aanbevolen om aan deze kaart een vraagkaart toe te voegen waarin bezoekers wordt gevraagd of ze met een liveagent willen chatten.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Gegenereerde reacties*</strong></td>
-  <td>Creeer een bericht voor de bezoeker voor wanneer zij een bepaald punt in het gesprek bereiken. Stel een aantal vragen die ze kunnen stellen in om de gewenste prestatiekernindicator te bereiken.
-  <p><i>* Voor deze kaart is de Dynamic Chat-primeur vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Voorwaardelijke vertakking</strong></td>
-  <td>U kunt vertakkingen maken in uw dialoogvenster op basis van verschillende voorwaarden. Verschillende inhoud presenteren aan verschillende personen in dezelfde dialoog op basis van de kenmerken van leads en bedrijven in Marketo Engage.</td>
  </tr>
 </table>
 
