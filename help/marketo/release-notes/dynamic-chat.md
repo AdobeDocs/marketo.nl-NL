@@ -3,9 +3,9 @@ description: Opmerkingen bij de release Dynamic Chat - Marketo Docs - Productdoc
 title: Opmerkingen bij de release Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
+source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,44 @@ ht-degree: 0%
 De versies van de Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
 
 De standaardpagina Opmerkingen bij de release voor Marketo Engage [hier te vinden](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Release mei 2024 {#may-release}
+
+**Releasedatum: 15 mei 2024**
+
+### Reactiebibliotheek vooraf goedgekeurd {#pre-approved-response-library}
+
+[Een goedgekeurde bibliotheek maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} van door AI gegenereerde vragen en antwoorden om u te helpen in minuten generatieve AI-chat op te zetten.
+
+![](assets/dynamic-chat-may-2024-release-1.png)
+
+## Onbeantwoorde vragen {#unanswered-questions}
+
+[Een opslagplaats voor onbeantwoorde vragen gebruiken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} van vorige gesprekken om nieuwe vooraf goedgekeurde reacties te produceren die een reactiebibliotheek met de recentste informatie handhaven.
+
+![](assets/dynamic-chat-may-2024-release-2.png)
+
+### Overzichten van gesprekken {#conversation-summaries}
+
+[Geef verkoopagenten samengevatte gesprekken](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} met inzichten over belangrijke discussiepunten vóór de vergaderingen om de prep - tijd te verkorten en betere wapenhandelaars met de meest recente informatie .
+
+![](assets/dynamic-chat-may-2024-release-3.png)
+
+### GenAI-sneltoetsen {#genai-sales-shortcuts}
+
+[Verstrek levende praatjeagenten van snellere manieren](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} om toegang te krijgen tot door AI gegenereerde reacties, bewerkt u bestaande gegenereerde reacties en zoekt u naar aanvullende inhoud die tijdens het gesprek naar kopers moet worden verzonden.
+
+![](assets/dynamic-chat-may-2024-release-4.png)
+
+### Gesprek-hulp {#conversation-assist}
+
+De verkoopagenten van de hulp antwoorden correct tijdens levende gesprekken gebruikend reacties vooraf goedgekeurd door uw marketing team.
+
+### Gesprek {#conversation-nudges}
+
+Zet Webbezoekers met een vraag-aan-actie om gesprekken aan sluiting te drijven.
+
+<p>
 
 ## Release van april 2024 {#april-release}
 
