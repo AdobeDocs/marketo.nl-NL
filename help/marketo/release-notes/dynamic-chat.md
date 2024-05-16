@@ -3,7 +3,7 @@ description: Opmerkingen bij de release Dynamic Chat - Marketo Docs - Productdoc
 title: Opmerkingen bij de release Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
+source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
 workflow-type: tm+mt
 source-wordcount: '1343'
 ht-degree: 0%
@@ -26,7 +26,7 @@ De standaardpagina Opmerkingen bij de release voor Marketo Engage [hier te vinde
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
-## Onbeantwoorde vragen {#unanswered-questions}
+### Onbeantwoorde vragen {#unanswered-questions}
 
 [Een opslagplaats voor onbeantwoorde vragen gebruiken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} van vorige gesprekken om nieuwe vooraf goedgekeurde reacties te produceren die een reactiebibliotheek met de recentste informatie handhaven.
 
