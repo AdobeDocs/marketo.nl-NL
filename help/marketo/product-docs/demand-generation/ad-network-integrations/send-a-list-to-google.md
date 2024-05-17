@@ -1,13 +1,11 @@
 ---
 description: Een lijst verzenden naar Google - Marketo Docs - Productdocumentatie
 title: Een lijst naar Google verzenden
-hide: true
-hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -40,7 +38,7 @@ Voor wie Google Customer Match gebruikt, volgt u de onderstaande stappen om een 
    >
    >* Selecteren **Zorgen dat uw abonnement synchroon blijft** houdt de lijst bijgewerkt aangezien het in uw geval verandert. We voegen of verwijderen mensen toe aan het publiek wanneer ze aan de statische lijst worden toegevoegd of eruit worden verwijderd.
    >
-   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD. Voor degenen die gegevens willen uploaden voor gebruikers in de Europese Economische Ruimte (EER), heeft Google een lijst opgesteld van [Veelgestelde vragen](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD. Voor degenen die gegevens willen uploaden voor gebruikers in de Europese Economische Ruimte (EER), heeft Google een lijst opgesteld van [Veelgestelde vragen](https://support.google.com/google-ads/answer/14310715){target="_blank"}, alsmede aanvullende gegevens over de [EU-beleid inzake instemming van gebruikers](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Klikken **Bijwerken**.
 

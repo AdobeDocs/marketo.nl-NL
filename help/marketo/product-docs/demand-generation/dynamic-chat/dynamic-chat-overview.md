@@ -3,9 +3,9 @@ description: Overzicht Dynamic Chat - Marketo Docs - Productdocumentatie
 title: Overzicht van Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,13 @@ Bied uw gekwalificeerde webbezoekers via [live chat](/help/marketo/product-docs/
 
 [Een gesprek ontwerpen](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} die kunnen worden geactiveerd door een bezoeker op basis van een actie die u aanwijst (bijvoorbeeld het invullen van een formulier, het klikken op een koppeling, enz.).
 
+## Generatieve AI {#generative-ai}
+
+[Generatieve AI](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat verwerkt intentsignalen, gebruikersvoorkeur, en verleden gedrag in echt - tijd om relevante, gepersonaliseerde berichten voor praatjebezoekers te produceren.
+
 ## De taal wijzigen {#changing-the-language}
 
-Ga als volgt te werk om de taal van uw Dynamic Chat te wijzigen.
+Voer de onderstaande stappen uit om de taal van uw Dynamic Chat te wijzigen.
 
 >[!IMPORTANT]
 >
