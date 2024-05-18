@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: c7b46fe06e9bdd2cf3437ee6be741a72c69830b8
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 0%
 
 ---
@@ -1728,7 +1728,6 @@ ht-degree: 0%
             + [Personen of anonieme bezoekers weergeven in webrapporten](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
             + [Omlaag boven in een rapport over de prestaties van het volk](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Een rapport exporteren naar Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
-            + [Een campagneactiviteitenrapport filteren](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Middelen in een campagne-e-mailrapporten filteren](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Middelen in een e-mailrapport filteren](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Personen groeperen op basis van kenmerk](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
@@ -1742,7 +1741,6 @@ ht-degree: 0%
             + [Abonneren op een basisrapport](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Abonneren op een slimme lijst](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Rapporttypen {#report-types}
-            + [Rapport Campagneactiviteiten](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Rapport over e-mailprestaties voor campagne](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Webactiviteitenrapport van bedrijf](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapport Personen per status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
