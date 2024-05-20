@@ -4,16 +4,20 @@ description: Selecteer uw taal, landinstelling en tijdzone - Marketo Docs - Prod
 title: Taal, landinstelling en tijdzone selecteren
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Taal, landinstelling en tijdzone selecteren {#select-your-language-locale-and-time-zone}
 
-Engels is niet jouw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hier is hoe u uw eigen taal, landinstelling en tijdzone wijzigt.
+Engels niet uw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hieronder wordt beschreven hoe u de taal, landinstelling en tijdzone van de instantie van uw Marketo Engage wijzigt.
+
+>[!IMPORTANT]
+>
+>Dit artikel is alleen bedoeld voor degenen die _niet_ gebruiken [Marketo met Adobe-id](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). Als u dat doet, kunt u de instellingen hieronder bekijken in uw [Accountprofiel Adoben](https://account.adobe.com/profile).
 
 ## Ondersteunde talen {#supported-languages}
 
