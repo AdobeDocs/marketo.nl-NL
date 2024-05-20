@@ -4,9 +4,9 @@ description: Wat is Adobe Marketo Engage? - Marketo Docs - Productdocumentatie
 title: Wat is Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,14 @@ Marketo Engage beschikt over tal van geweldige functies om u te helpen uw market
 
 * Formuliereditor
 * Editor voor bestemmingspagina
+* Slimme campagnes
+* Dynamic Chat
+* Geïntegreerde interactieve webinars
 * Sjablonen voor bestemmingspagina met instructies
 * E-maileditor
 * Brillengereedschappen
 * Segmentatie
 * Voorspelende inhoud
-* Dynamic Chat
-* Geïntegreerde interactieve webinars
 * Webinar-integratie van derden
 * Mobiele marketing
 * Synchroniseren met uw CRM (Salesforce of Dynamics)
