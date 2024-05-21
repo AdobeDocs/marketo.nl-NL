@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '257'
 ht-degree: 3%
 
 ---
@@ -42,4 +42,4 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 ## Aankondigingen {#announcements}
 
-* **Opnieuw verifiëren van linkedIn vereist**: LinkedIn werkt aan de upgrade van hun marketing-API&#39;s die worden gebruikt door de integratie van Marketo Engage LinkedIn. Deze wijzigingen vereisen opnieuw verificatie van alle LinkedIn LaunchPoint-services in uw **Beheerder** > **LaunchPoint** tussen 7 juni en 15 december 2024 om onderbreking van de service te voorkomen. U kunt instructies vinden over hoe te om dit te verwezenlijken [Hier voor generaal-leider Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} and [here for Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Lead Gen Form service has a type of "LinkedIn Lead Gen" and Matched Audience service has type of "LinkedIn Matched Audiences." For more information, please see the [Migration FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **Opnieuw verifiëren van linkedIn vereist**: LinkedIn werkt aan de upgrade van hun marketing-API&#39;s die worden gebruikt door de integratie van Marketo Engage LinkedIn. Deze wijzigingen vereisen opnieuw verificatie van alle LinkedIn LaunchPoint-services in uw **Beheerder** > **LaunchPoint** tussen 26 juli en 15 december 2024 om onderbreking van de service te voorkomen. U kunt instructies vinden over hoe te om dit te verwezenlijken [Hier voor generaal-leider Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} en [hier voor passend publiek](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. De lead Gen Form-service heeft het type &quot;LinkedIn Lead Gen&quot; en de Matched Audience-service heeft het type &quot;LinkedIn Matched Audiences&quot;. Zie voor meer informatie de [Veelgestelde vragen over migratie](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
