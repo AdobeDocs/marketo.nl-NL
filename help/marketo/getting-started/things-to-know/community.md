@@ -4,7 +4,7 @@ title: Gemeenschap Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -23,7 +23,7 @@ SCREENSHOT
 
 ## Uw profiel instellen {#set-up-your-profile}
 
-Wanneer u bent aangemeld bij de Marketing Nation, klikt u op het standaard avatar-pictogram en selecteert u Mijn instellingen om uw voorkeuren bij te werken, uw avatar-foto te wijzigen, codering van besturingselementen en meer.
+Wanneer u bent aangemeld bij de Marketing Nation, klikt u op het standaard avatar-pictogram en selecteert u **[!UICONTROL My settings]** om uw voorkeuren bij te werken, wijzigt u uw avatar-foto, bestuurt u de tagging en meer.
 
 SCREENSHOT
 
@@ -45,7 +45,7 @@ SCREENSHOT
 
 ## Blogberichten lezen {#read-blog-posts}
 
-Deze sectie bevat nuttige informatie van zowel de Gebruikers van de Marketo Engage (met inbegrip van verscheidene Champions) als de werknemers van Marketo. Laat opmerkingen aan de onderkant staan wanneer u aanvullende informatie nodig hebt.
+Deze sectie bevat nuttige informatie van zowel gebruikers in de Marketo Engage (waaronder verschillende Champions) als medewerkers van Marketo. Laat opmerkingen aan de onderkant staan wanneer u aanvullende informatie nodig hebt.
 
 SCREENSHOT
 
@@ -57,7 +57,7 @@ SCREENSHOT
 
 ## Marketo-gebruikersgroepen {#marketo-user-groups}
 
-Marketo-gebruikersgroepen (MUG&#39;s) zijn vergaderingen die plaatsvinden in verschillende gebieden over de hele wereld. Zij voorzien u van de kans om te netwerken, recentste tendensen te bespreken, over nieuwe eigenschappen, en meer te leren. Controleer of er een in je gebied is. Als dat niet het geval is, sluit u zich aan bij een virtuele gebruikersgroep!
+Marketo-gebruikersgroepen (MUG&#39;s) zijn vergaderingen die plaatsvinden in verschillende gebieden over de hele wereld. Zij voorzien u van de kans om te netwerken, recentste tendensen te bespreken, over nieuwe eigenschappen, en meer te leren. Controleer of er een in je gebied is. Als dat niet het geval is, kunt u zich aansluiten bij een virtuele gebruikersgroep!
 
 SCREENSHOT
 
@@ -85,6 +85,6 @@ Geef in uw verzoek de volgende gegevens op:
 
 Ons Community team zal over 4 tot 6 werkdagen je Gemeenschapsprofielen samenvoegen. Zodra het is voltooid, ziet u uw betrokkenheidsgeschiedenis in het belangrijkste profiel van de Gemeenschap na login. Als u dit niet doet, meldt u zich af van uw account en meldt u zich opnieuw aan om te bevestigen.
 
-<p>
+<br>
 
 Welkom bij het Marketo Engage en geniet van de Marketing Nation!
