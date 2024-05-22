@@ -3,10 +3,10 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 3%
+source-wordcount: '280'
+ht-degree: 2%
 
 ---
 
@@ -30,6 +30,17 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <th style="width:65%">Functie</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
+  </tr>
+     <tr> 
+   <td><strong>Sjablonen voor interactieve webinars</strong>: Marktdeelnemers hebben nu de mogelijkheid aangepaste sjablonen voor ruimtelay-outs te maken in interactieve webinars.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Overgenomen velden in Forms</strong>: De gegevensbron die wordt gebruikt om afgeleide velden te vullen wanneer een persoon via form-fill wordt gemaakt zonder eerdere webactiviteit, is bijgewerkt en gebruikt dezelfde gegevensbron als andere methoden voor het verzamelen van personen. De gegevens in het afgeleide veld zijn nu consistent in alle verzamelingspunten.</td> 

@@ -4,20 +4,20 @@ description: Werken met e-mailprogramma's - Marketo Docs - Productdocumentatie
 title: E-mailprogramma's
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # E-mailprogramma&#39;s {#understanding-email-programs}
 
-Doe de groeten aan je nieuwe Marketo-vriend, het e-mailprogramma. Verzend e-mails, maak A/B-tests en volg uw resultaten allemaal op één locatie.
+Verzend e-mails, maak A/B-tests en volg uw resultaten allemaal op één locatie.
 
 ## Deelvenster Beheer {#control-panel}
 
-Vier vakken zorgen ervoor dat je gefocust blijft. **Publiek** definieert de &#39;&#39;who&#39;&#39; **E-mail** biedt de &quot;wat&quot; **Schema** definieert &quot;when&quot;, en **Goedkeuring** maakt het klaar om te gaan.
+Vier vakken zorgen ervoor dat je gefocust blijft. **Publiek** definieert de &quot;who&quot; **E-mail** biedt de &quot;wat&quot;, **Schema** definieert &quot;when&quot;, en **Goedkeuring** maakt het klaar om te gaan.
 
 ![](assets/emailprogram.png)
 
