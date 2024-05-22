@@ -4,40 +4,68 @@ title: Gemeenschap Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
 # Gemeenschap Marketo Engage {#marketo-engage-community}
 
-De [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} is de plaats om meer over uw instantie van het Marketo Engage van de werknemers van het Marketo Engage evenals medegebruikers te leren.
+De [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} is de plaats om meer over uw instantie van het Marketo Engage van medegebruikers evenals werknemers van Marketo te leren. Voordat je naar binnen gaat, neem je even de tijd om vertrouwd te raken met de [Communautaire richtsnoeren](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+## Je gebruikersnaam registreren {#register-your-username}
+
+-registering een gebruikersnaam
+
+SCREENSHOT
 
 ## Uw profiel instellen {#set-up-your-profile}
 
--registering a username -adding a photo
+Wanneer u bent aangemeld bij de Marketing Nation, klikt u op het standaard avatar-pictogram en selecteert u Mijn instellingen om uw voorkeuren bij te werken, uw avatar-foto te wijzigen, codering van besturingselementen en meer.
 
-## Een vraag verzenden {#submit-a-question}
-
-Tekst
-
-## Blogberichten lezen {#read-blog-posts}
-
--champions -marketo PMs
-
-## Een idee verzenden {#submit-an-idea}
-
-text
+SCREENSHOT
 
 ## De zoekopdracht gebruiken {#using-the-search}
 
--filtering
+Voordat u een vraag indient, gebruikt u de functie voor robuuste zoekopdrachten om te controleren of de vraag al is gesteld of beantwoord. Gebruik de filteropties om de zoekresultaten te beperken.
+
+SCREENSHOT
+
+>[!TIP]
+>
+>Voor bredere resultaten, gebruik een geconcentreerde sleutelwoordonderzoek in tegenstelling tot lang-staart (bijvoorbeeld, onderzoek &quot;Dynamic Chat&quot;in plaats van &quot;hoe ik een agent in Dynamic Chat toevoegt&quot;)
+
+## Een vraag verzenden {#submit-a-question}
+
+Dit is waar u typisch voor hulp gaat. Begin een discussielijn (of onderzoek naar bestaande) wanneer u terugkoppelt op een bepaalde kwestie zoekt, of in de draad van iemand anders springt om hen met een kwestie te helpen u over deskundig bent.
+
+SCREENSHOT
+
+## Blogberichten lezen {#read-blog-posts}
+
+Deze sectie bevat nuttige informatie van zowel de Gebruikers van de Marketo Engage (met inbegrip van verscheidene Champions) als de werknemers van Marketo. Laat opmerkingen aan de onderkant staan wanneer u aanvullende informatie nodig hebt.
+
+SCREENSHOT
+
+## Een idee verzenden {#submit-an-idea}
+
+Als u ooit met een idee komt dat u denkt dat het Marketo Engage zou verbeteren, leg het in deze sectie voor. U kunt ook stemmen over bestaande ideeën.
+
+SCREENSHOT
+
+## Marketo-gebruikersgroepen {#marketo-user-groups}
+
+Marketo-gebruikersgroepen (MUG&#39;s) zijn vergaderingen die plaatsvinden in verschillende gebieden over de hele wereld. Zij voorzien u van de kans om te netwerken, recentste tendensen te bespreken, over nieuwe eigenschappen, en meer te leren. Controleer of er een in je gebied is. Als dat niet het geval is, sluit u zich aan bij een virtuele gebruikersgroep!
+
+SCREENSHOT
 
 ## Abonneren op de wekelijkse samenvatting {#subscribe-to-the-weekly-digest}
 
 Tekst
+
+SCREENSHOT
 
 ## Marketo&#39;s Engage-abonnementen samenvoegen {#merging-marketo-engage-subscriptions}
 
@@ -57,22 +85,6 @@ Geef in uw verzoek de volgende gegevens op:
 
 Ons Community team zal over 4 tot 6 werkdagen je Gemeenschapsprofielen samenvoegen. Zodra het is voltooid, ziet u uw betrokkenheidsgeschiedenis in het belangrijkste profiel van de Gemeenschap na login. Als u dit niet doet, meldt u zich af van uw account en meldt u zich opnieuw aan om te bevestigen.
 
+<p>
 
-
-Jonathan-bericht:
-
-Welkom bij de Marketing Nation Community!
-
-Als je hier nieuw bent, vergeet dan niet om onze richtlijnen te bekijken om ervoor te zorgen dat je optimaal profiteert van onze gemeenschap.
-
-Nieuw bij het gebruik van Marketo? Stel een vraag op onze pagina met productdiscussies of bezoek onze pagina met ondersteuning om met ons ondersteuningsteam te spreken. U kunt ook de documentatie van ons Marketo Engage of de documentatiepagina&#39;s van Marketo Measure bezoeken om aan de slag te gaan, en vergeet niet om onze onderzoeksbar te gebruiken om te zien of hadden anderen een gelijkaardige vraag eerder!
-
-Onze gebruikersgroepen van Marketo (MUGs) zijn lokale vergaderingen die door passionate leiders van MUG worden georganiseerd om iedereen de kans te bieden aan netwerk te voorzien, recentste tendensen te bespreken, over nieuwe eigenschappen te leren, lokale kansen te posten, en meer. Bekijk de 70+ beschikbare hoofdstukken voor Marketo-gebruikersgroepen en controleer of er een MUG-vergadering in uw gebied is!
-
-Heb je een brandend idee dat ons product zou kunnen verbeteren? Verzend uw idee op onze pagina Ideeën. U kunt ook door ideeën bladeren en daarover stemmen die door uw collega&#39;s zijn ingediend.
-
-Tot slot biedt Marketo een groot aantal verschillende trainingen en certificeringen om uw expertise met ons product te vergroten. Ga naar de pagina Experience League Marketo Engage voor meer informatie.
-
-
-
--Setting up a profile/registering a username -adding a photo-submit a question (cussietreads) -reading champion blogs -submit an idea -using the search (filtering) -subscribing to the week digest (must be ogin)
+Welkom bij het Marketo Engage en geniet van de Marketing Nation!
