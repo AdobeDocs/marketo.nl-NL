@@ -4,9 +4,9 @@ description: Werken met e-mailprogramma's - Marketo Docs - Productdocumentatie
 title: E-mailprogramma's
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,19 @@ Meer informatie over de volgende A/B-tests:
 
 ## Dashboards {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->Sommigen gebruiken e-mailprogramma&#39;s liever dan een e-mail via een slimme campagne te verzenden vanwege het gedetailleerde rapporteringsdashboard van het programma.
+>Voor een juiste rapportage moet u een e-mailbericht dat eerder in een e-mailprogramma is gebruikt, niet opnieuw gebruiken via een slimme campagne of het middel verplaatsen van het gestarte e-mailprogramma naar een nieuw e-mailprogramma. Als u dit doet, worden de rapportnummers toegevoegd aan het dashboard voor het oorspronkelijke e-mailprogramma. Als u dezelfde e-mail opnieuw moet gebruiken, [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan.
 
 Geniet van de vruchten van je werk. De dashboards tonen u e-mailprogramma en A/B testprestaties in een oogopslag.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>Sommigen gebruiken e-mailprogramma&#39;s liever dan een e-mail via een slimme campagne te verzenden vanwege het gedetailleerde rapporteringsdashboard van het programma.
 
 ## Nesten {#nesting}
 

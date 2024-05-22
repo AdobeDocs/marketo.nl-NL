@@ -4,9 +4,9 @@ description: Kies een bestaande e-mail - Marketo Docs - Productdocumentatie
 title: Bestaande e-mail kiezen
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 >
 >* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+
+>[!CAUTION]
+>
+>Voor een juiste rapportage moet u een e-mailbericht dat eerder in een e-mailprogramma is gebruikt, niet opnieuw gebruiken via een slimme campagne of het middel verplaatsen van het gestarte e-mailprogramma naar een nieuw e-mailprogramma. Als u dit doet, worden de rapportnummers toegevoegd aan het dashboard voor het oorspronkelijke e-mailprogramma. Als u dezelfde e-mail opnieuw moet gebruiken, [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan.
 
 Eenmaal [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) en uw publiek te bepalen, zult u willen beslissen welke e-mail u verzendt. U kunt [een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) helemaal opnieuw wordt weergegeven of kiest u een bestaande versie. Hier is hoe je een kiest die al bestaat.
 

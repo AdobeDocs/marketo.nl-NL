@@ -4,9 +4,9 @@ description: Het dashboard voor het e-mailprogramma gebruiken - Marketo Docs - P
 title: Het dashboard voor het e-mailprogramma gebruiken
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Kijk hoe uw e-mailprogramma&#39;s met deze dashboardweergave presteren.
 
+>[!CAUTION]
+>
+>Voor een juiste rapportage moet u een e-mailbericht dat eerder in een e-mailprogramma is gebruikt, niet opnieuw gebruiken via een slimme campagne of het middel verplaatsen van het gestarte e-mailprogramma naar een nieuw e-mailprogramma. Als u dit doet, worden de rapportnummers toegevoegd aan het dashboard voor het oorspronkelijke e-mailprogramma. Als u dezelfde e-mail opnieuw moet gebruiken, [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan.
+
 >[!NOTE]
 >
->Als uw programma een A/B test heeft, controleer uit [E-mailprogrammadashboard - A/B-testweergave](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Als uw programma een A/B test heeft, controleer uit [E-mailprogrammadashboard - A/B-testweergave](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ In dit diagram ziet u het aantal e-mailberichten dat tijdens bepaalde perioden n
 
 ## Samenvatting - Betrokkenheid {#summary-engagement}
 
-Dit toont u het algemene [betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Dit toont u het algemene [betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -77,4 +81,4 @@ Als u de meest actuele gegevens wilt zien, klikt u op het pictogram Vernieuwen o
 
 >[!MORELIKETHIS]
 >
->[Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

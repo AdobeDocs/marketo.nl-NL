@@ -4,7 +4,7 @@ title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor analyse
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ Identificeer rapporten die met verschillende gebruikersgroepen binnen uw organis
     <td>NOTA: Dit rapport vereist dat u uw kanalen, progressiestatus, en successtappen hebt die in <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Beheer &gt; Codes, gebied</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">De effectiviteit van uw marketingtactiek meten</a> binnen selectieve programma's.</li>
     <li>Programmalidmaatschap beheren (met behulp van slimme campagnes het aankoopprogramma, de status en de successtatus bijwerken) volgens de beste praktijken in Marketing Activiteiten.</li>
     <li>Maatregel gebaseerd op de kosten voor het lopende jaar en de lopende twaalf maanden.
-    <ul><li>Vergeet niet dat het handhaven van <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Kosten periode</a> is van essentieel belang voor het benutten van het voortgangsrapport van het programma.</li>
+    <ul><li>Vergeet niet dat het handhaven van <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Kosten periode</a> is van essentieel belang voor het benutten van het voortgangsrapport van het programma.</li></ul>
     <br>TIP: alle elementen samenvoegen en weergeven <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">geïmporteerde lijsten</a> in de Rapporten van de Prestaties van het Programma, zorg ervoor uw teams aangewezen Programma van de Aankoop voor het etiketteren selecteren. Overweeg <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">een standaardprogramma maken</a> om als het Programma van de Aankoop worden geselecteerd wanneer de ingevoerde lijsten niet op om het even welk kanaal van toepassing zijn. Hierdoor wordt gegarandeerd dat elke geïmporteerde persoon een geldig aankoopprogramma heeft dat betrekking heeft op zijn bron, bedrijfseenheid, kanaal, enz. in plaats van een lege waarde.</td>
   </tr>
   <tr>
