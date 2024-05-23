@@ -4,16 +4,16 @@ title: Gemeenschap Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
 
-# Gemeenschap Marketo Engage {#marketo-engage-community}
+# Adobe Marketo Engage Community {#marketo-engage-community}
 
-De [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} is de plaats om meer over uw instantie van het Marketo Engage van medegebruikers evenals werknemers van Marketo te leren. Voordat je naar binnen gaat, neem je even de tijd om vertrouwd te raken met de [Communautaire richtsnoeren](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+De [Adobe Marketo Engage Community](https://nation.marketo.com/) (ook bekend als de Marketing Nation) is de plaats om meer over uw Marketo Engage instantie van medegebruikers evenals werknemers van Marketo te leren. Voordat je naar binnen gaat, neem je even de tijd om vertrouwd te raken met de [Communautaire richtsnoeren](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Je gebruikersnaam registreren {#register-your-username}
 
