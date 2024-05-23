@@ -4,9 +4,9 @@ description: Kies een bestaande e-mail - Marketo Docs - Productdocumentatie
 title: Bestaande e-mail kiezen
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Voor een juiste rapportage moet u een e-mailbericht dat eerder in een e-mailprogramma is gebruikt, niet opnieuw gebruiken via een slimme campagne of het middel verplaatsen van het gestarte e-mailprogramma naar een nieuw e-mailprogramma. Als u dit doet, worden de rapportnummers toegevoegd aan het dashboard voor het oorspronkelijke e-mailprogramma. Als u dezelfde e-mail opnieuw moet gebruiken, [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan.
+>Voor nauwkeurige rapportage dient u _hergebruiken_ een e-mailbericht van een e-mailprogramma door ernaar te verwijzen in een slimme campagne of door het middel van een nieuwe e-mailprogramma te verplaatsen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail opnieuw moet gebruiken, gelieve [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan, aangezien het e-mailbericht wordt gekopieerd maar er een wordt gemaakt met een nieuwe e-mailid.
 
 Eenmaal [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) en uw publiek te bepalen, zult u willen beslissen welke e-mail u verzendt. U kunt [een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) helemaal opnieuw wordt weergegeven of kiest u een bestaande versie. Hier is hoe je een kiest die al bestaat.
 

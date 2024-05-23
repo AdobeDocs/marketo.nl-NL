@@ -4,9 +4,9 @@ description: Het dashboard voor het e-mailprogramma weergeven - Marketo Docs - P
 title: Het dashboard voor het e-mailprogramma weergeven
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
+source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Kijk hoe uw e-mailprogramma (met of zonder een A/B-test) met dit dashboard prest
 
 >[!CAUTION]
 >
->Voor een juiste rapportage moet u een e-mailbericht dat eerder in een e-mailprogramma is gebruikt, niet opnieuw gebruiken via een slimme campagne of het middel verplaatsen van het gestarte e-mailprogramma naar een nieuw e-mailprogramma. Als u dit doet, worden de rapportnummers toegevoegd aan het dashboard voor het oorspronkelijke e-mailprogramma. Als u dezelfde e-mail opnieuw moet gebruiken, [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan.
+>Voor nauwkeurige rapportage dient u _hergebruiken_ een e-mailbericht van een e-mailprogramma door ernaar te verwijzen in een slimme campagne of door het middel van een nieuwe e-mailprogramma te verplaatsen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail opnieuw moet gebruiken, gelieve [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan, aangezien het e-mailbericht wordt gekopieerd maar er een wordt gemaakt met een nieuwe e-mailid.
 
 ## Selecteer uw e-mailprogramma {#select-your-email-program}
 
