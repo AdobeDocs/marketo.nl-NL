@@ -3,7 +3,7 @@ description: Opstelling de sectie van het Gegevensbestand voor uw nieuwe instant
 title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor database
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -84,8 +84,8 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
 <table>
 <thead>
   <tr>
-    <th style="width:20%">Gebied</th>
-    <th style="width:80%">Actiepunten</th>
+    <th style="width:21%">Gebied</th>
+    <th style="width:79%">Actiepunten</th>
   </tr>
 </thead>
 <tbody>

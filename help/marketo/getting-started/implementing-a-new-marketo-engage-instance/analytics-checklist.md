@@ -4,7 +4,7 @@ title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor analyse
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
   <tr>
     <td>Organisatie: Naamgeving, mappen en archivering</td>
     <td><li>Gebruik een rapport noemende overeenkomst om rapporten op het Globale lusje van Rapporten te onderscheiden.</li>
-    <ul>
-    <li>Een voorbeeld van een goede naamgevingsconventie is [Type rapport] [Global vs. BU-Specific Tag] [Beschrijving rapport], zoals [E-mailprestaties]-[Global]-[180 dagen e-mailservice].</li>
-    </ul> 
+    <ul><li>Een voorbeeld van een goede naamgevingsconventie is [Type rapport] [Global vs. BU-Specific Tag] [Beschrijving rapport], zoals [E-mailprestaties]-[Global]-[180 dagen e-mailservice].</li></ul><br>
     <li>Identificeer rapporten die met verschillende gebruikersgroepen binnen uw organisatie (b.v., verkoopteam, marketing leiderschap) zouden moeten worden gedeeld en organiseer de rapporten door omslag binnen de omslag van de Rapporten van de Groep in Analytics voor Globale Rapporten.</li> 
     <li>Archivering moet worden beperkt tot de map Global Reports, aangezien dit altijd actuele rapporten zijn.   <ul>
     <li>Archivering beperken tot organisatorische wijzigingen, zoals het reduceren of toevoegen van relevante bedrijfseenheden als u rapporteert op basis van een bedrijfseenheidsstructuur.</li>
@@ -104,7 +102,7 @@ Identificeer rapporten die met verschillende gebruikersgroepen binnen uw organis
     <td>Rapport over prestaties van mensen</td>
     <td><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Het wordt geadviseerd om een juiste te hebben <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">kanaal- en tagstrategie</a> voor elke implementatie van het Marketo Engage voordat u de aangeschafte personen en het rendement van uw marketinginvesteringen per kanaal kunt bijhouden.
     <p>
-    <li>Bepaal de criteria u zult gebruiken om de prestaties van uw programma's van de loodverwerving te meten en uw op tijd-gebaseerde (huidige jaar, laatste het rollen maandmening, of 180 dagen) standaardrapporten tot stand te brengen die op deze metriek worden gebaseerd:</li> <ul><li>Verwervingsprogramma: Marketo Engage-programma dat wordt gecrediteerd voor het verkrijgen van de persoon.
+    <li>Bepaal de criteria u zult gebruiken om de prestaties van uw programma's van de loodverwerving te meten en uw op tijd-gebaseerde (huidige jaar, laatste het rollen maandmening, of 180 dagen) standaardrapporten tot stand te brengen die op deze metriek worden gebaseerd:</li> <ul><li>Verwervingsprogramma: Marketo Engage-programma dat wordt gecrediteerd voor het verkrijgen van de persoon.</li>
     <li>Bron persoon: De broncategorie voor hoe het verslag aan uw gegevensbestand (dat op de bronlijst van waarden in uw CRM wordt gebaseerd) bekend kwam te zijn
     </li></ul>
     <li>Meet mensen die per week of maand zijn gemaakt. Dit rapport zal u van een maatregel van uw de groeisnelheid van het Gegevensbestand voorzien en of u uw de groottelimiet van het Gegevensbestand nadert.</li>
