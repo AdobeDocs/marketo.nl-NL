@@ -4,9 +4,9 @@ title: Aanbevolen werkwijzen voor nieuwe instanties - Controlelijst voor analyse
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 0%
 
 ---
@@ -117,7 +117,8 @@ Identificeer rapporten die met verschillende gebruikersgroepen binnen uw organis
     <li>Programmalidmaatschap beheren (met behulp van slimme campagnes het aankoopprogramma, de status en de successtatus bijwerken) volgens de beste praktijken in Marketing Activiteiten.</li>
     <li>Maatregel gebaseerd op de kosten voor het lopende jaar en de lopende twaalf maanden.
     <ul><li>Vergeet niet dat het handhaven van <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Kosten periode</a> is van essentieel belang voor het benutten van het voortgangsrapport van het programma.</li></ul>
-    <p><img src="assets/tip-icon.png" alt="notitiepictogram"> TIP: alle elementen samenvoegen en weergeven <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">geïmporteerde lijsten</a> in de Rapporten van de Prestaties van het Programma, zorg ervoor uw teams het aangewezen Programma van de Aankoop voor het etiketteren selecteren. Overweeg <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">een standaardprogramma maken</a> om als het Programma van de Aankoop worden geselecteerd wanneer de ingevoerde lijsten niet op om het even welk kanaal van toepassing zijn. Hierdoor wordt gegarandeerd dat elke geïmporteerde persoon een geldig aankoopprogramma heeft dat betrekking heeft op bron, bedrijfseenheid, kanaal, enz., in plaats van een lege waarde.</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="notitiepictogram"> TIP: alle elementen samenvoegen en weergeven <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">geïmporteerde lijsten</a> in de Rapporten van de Prestaties van het Programma, zorg ervoor uw teams het aangewezen Programma van de Aankoop voor het etiketteren selecteren. Overweeg <a href="https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">een standaardprogramma maken</a> om als het Programma van de Aankoop worden geselecteerd wanneer de ingevoerde lijsten niet op om het even welk kanaal van toepassing zijn. Hierdoor wordt gegarandeerd dat elke geïmporteerde persoon een geldig aankoopprogramma heeft dat betrekking heeft op bron, bedrijfseenheid, kanaal, enz., in plaats van een lege waarde.</td>
   </tr>
   <tr>
     <td>Prestatierapport voor bestemmingspagina</td>
@@ -152,7 +153,7 @@ Sommige rapporten van de Marketo Engage kunnen het best als lokale middelen binn
   <tr>
     <td>Rapport Campagneactiviteiten</td>
     <td><li>Maak de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">Rapport Campagneactiviteiten</a> en kies een periode binnen uw operationele omslag in de Activiteiten van de Marketing.</li>
-    <li>Stel rapporten in om de triggers voor elk gebruiksgeval te controleren en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">campagnecilters toepassen</a> (bv. triggers voor het scoren van gedragingen, kwalificatietriggers voor de levenscyclus, triggers voor interessante momenten).</li></td>
+    <li>Stel rapporten in om de triggers voor elk gebruiksgeval te controleren en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">campagnecilters toepassen</a> (bv. triggers voor het scoren van gedragingen, kwalificatietriggers voor de levenscyclus, triggers voor interessante momenten).</li></td>
   </tr>
   <tr>
     <td>Prestatierapport van de betrokkenheidsstream (indien van toepassing)</td>
@@ -160,4 +161,41 @@ Sommige rapporten van de Marketo Engage kunnen het best als lokale middelen binn
     <li>Gebruik de opdracht <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">"Segmentatie"filter in het lusje van de Opstelling van het rapport</a> en groepeert de rapportageregels door de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segment</a> (bijvoorbeeld persoonlijke bron, industrie) die in uw betrokkenheidsprogramma wordt gebruikt. Hierdoor krijgt u meer inzicht in de betrokkenheidspatronen van elk segment en kunt u strategische wijzigingen doorvoeren om uw betrokkenheidsprogramma te verbeteren (inhoud, stroom, stroomkring, enz.).</li></td>
   </tr>
 </tbody>
+</table>
+
+TABEL MET WERKBULLETS
+
+<table>
+<tbody>
+<tr>
+    <td>Groepsrapporten</td>
+    <td><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: TEXT.
+    <p>
+    <li>TEXT.</li>
+    <li>TEXT.
+    <ul><li>TEXT</li>
+    <li>TEXT</li></ul>
+    <li>TEXT.</li>
+    <li>TEXT.</li>
+    <p><img src="assets/tip-icon.png" alt="notitiepictogram"> TIP: TEXT.</td>
+  </tr>
+  </tbody>
+</table>
+
+TESTREEKS 1
+
+<table>
+<tbody>
+<tr>
+    <td>Rapport over prestaties van mensen</td>
+    <td><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Het wordt geadviseerd om een juiste te hebben <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">kanaal- en tagstrategie</a> voor elke implementatie van het Marketo Engage voordat u de aangeschafte personen en het rendement van uw marketinginvesteringen per kanaal kunt bijhouden.
+    <p>
+    <li>Bepaal de criteria u zult gebruiken om de prestaties van uw programma's van de loodverwerving te meten en uw op tijd-gebaseerde (huidige jaar, laatste het rollen maandmening, of 180 dagen) standaardrapporten tot stand te brengen die op deze metriek worden gebaseerd:</li>
+    <ul><li>Verwervingsprogramma: Marketo Engage dat wordt gecrediteerd voor het verkrijgen van de persoon</li>
+    <li>Bron persoon: De broncategorie voor hoe het verslag aan uw gegevensbestand (dat op de bronlijst van waarden in uw CRM wordt gebaseerd) bekend kwam te zijn</li></ul>
+    <li>Meet mensen die per week of maand zijn gemaakt. Dit rapport zal u van een maatregel van uw de groeisnelheid van het Gegevensbestand voorzien en of u uw de groottelimiet van het Gegevensbestand nadert.</li>
+    <li>Filter de metriek in de Rapporten van de Prestaties van Mensen door <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">het gebruiken van uw Slimme Lijsten als douanekolommen.</a></li>
+    <p><img src="assets/tip-icon.png" alt="notitiepictogram"> TIP: Creeer Slimme Lijsten voor de douanekolommen u aan het Rapport van de Prestaties van Mensen in het Gegevensbestand in plaats van de Activiteiten van de Marketing wilt toevoegen zodat kunt u de Slimme naam van de Lijst behoorlijk en duidelijk zien wanneer het in het rapport wordt geselecteerd.</td>
+  </tr>
+  </tbody>
 </table>
