@@ -2,10 +2,10 @@
 description: Checklist voor overerfde marketingactiviteiten - Marketo Docs - productdocumentatie
 title: Checklist voor overgenomen marketingactiviteiten
 feature: Getting Started
-exl-id: 3a23d7ae-aae9-4138-afcc-1d7830a5aeed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -165,9 +165,3 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ Audit an Inherated Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-
-[Een overgeërfde instantie controleren: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

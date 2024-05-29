@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
       + [Waar moet worden begonnen?](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: Controlelijst voor sectie Admin](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: checklist database](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Aanbevolen werkwijzen voor nieuwe instanties: checklist voor marketingactiviteiten](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Nieuwe best practices voor instanties: Design Studio Checklist](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Aanbevolen werkwijzen voor nieuwe instanties: checklist voor marketingactiviteiten](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
@@ -51,8 +51,8 @@ ht-degree: 0%
       + [Waar moet worden begonnen?](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [Overgenomen instantie: beheerderscontrolelijst voor sectie](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [Overgenomen instantie: checklist database](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [Overgenomen instantie: Checklist voor marketingactiviteiten](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Overgenomen instantie: Design Studio Checklist](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [Overgenomen instantie: Checklist voor marketingactiviteiten](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Overgenomen instantie: Uw instelling documenteren](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Kernvaardigheden evalueren](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Productdocumenten {#product-docs}

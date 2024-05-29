@@ -3,9 +3,9 @@ description: Leer de beste praktijken wanneer het uitvoeren van een nieuw Market
 title: Waar moet worden begonnen?
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ De Marketo Engage-instantie downloaden [Nieuwe controlelijsten voor implementati
 
 * [Database](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [Marketingactiviteiten](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analyse](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [Uw nieuwe instantie-instelling documenteren](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Verbinding maken met uw peers {#connect-with-your-peers}
 
-Ga naar [Marketing Nation Community](https://nation.marketo.com/){target="_blank"} om meer over uw Instantie van het Marketo Engage van de werknemers van het Marketo Engage evenals medegebruikers te leren.
+Ga naar [Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"} (ook gekend als de Marketing Natie) om meer over uw Instantie van het Marketo Engage van de werknemers van het Marketo Engage evenals medegebruikers te leren.
 
-Aan de slag in de Marketing Nation Community:
+Aan de slag in de Gemeenschap:
 
 1. Klikken **Doorgaan met Adobe ID** en selecteer uw primaire abonnement op de aanmeldingspagina.
 1. Voltooi uw profiel voor de gebruikersgemeenschap wanneer u zich aanmeldt.

@@ -2,10 +2,10 @@
 description: Overgenomen Instance Document Uw Setup - Marketo Docs - Productdocumentatie
 title: Overgenomen Instance Document Uw Setup
 feature: Getting Started
-exl-id: 5a3fc755-0d1d-450a-bde6-9e27ea0cae8e
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -71,5 +71,3 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
   </tr>
  </tbody> 
 </table>
-
-[◄ Audit an Inherated Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)

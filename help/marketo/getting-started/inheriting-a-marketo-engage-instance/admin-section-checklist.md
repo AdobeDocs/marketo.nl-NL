@@ -3,9 +3,9 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 
 >[!NOTE]
 >
->Dit is alleen van toepassing op abonnementen op Marketo&#39;s Engage die aan [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Beheer > Gebruikers en rollen.
+>Dit is alleen van toepassing op abonnementen op Marketo&#39;s Engage die aan [Adobe Identity Management System (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Als uw abonnement Adobe IMS nog niet heeft ingeschakeld, gaat u verder met de [oudere gebruikersrollen en toestemmingenervaring](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Beheer > Gebruikers en rollen.
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ Nadat u de instellingen Gebruikers en rollen hebt gecontroleerd, meldt u zich aa
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Een overgeërfde instantie controleren: Database ►](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)

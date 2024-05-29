@@ -2,10 +2,10 @@
 description: Leer hoe u een bestaande overgeërfde instantie van een Marketo Engage optimaliseert en schaalt. Volg de controlelijst aan controle admin montages en handhaaf gegevensbestandhygiëne.
 title: Waar moet worden begonnen?
 feature: Getting Started
-exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Zorg ervoor dat u op de juiste wijze bent ingesteld in de Marketing Nation Commu
 
 * Lees de tekst [**Communautaire richtlijnen voor het in de handel brengen**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* Leer hoe u [**een steungeval indienen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Leer hoe u [**een steungeval indienen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (en bevestig dat je [**instellen als geautoriseerde contactpersoon voor ondersteuning**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## Uw marketingprofiel samenvoegen {#merge-your-marketing-nation-profile}
 
@@ -46,15 +46,15 @@ Adobe, met input van Marketo Champions, heeft verscheidene Marketo Engage Geërf
 
 U kunt [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheetvorm.
 
-* [Sectie Beheer](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [Sectie Beheer](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Marketingactiviteiten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [Marketingactiviteiten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Een document maken van uw overgenomen instantie-instelling](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [Een document maken van uw overgenomen instantie-instelling](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Manieren om hulp te krijgen {#ways-to-get-help}
 
@@ -62,7 +62,7 @@ Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of gebr
 
 * Neem voor technische ondersteuning met iets dat niet goed werkt contact op met **[Klantenondersteuning Marketo Engage](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Maak verbinding met en leer meer van gebruikers in het Marketo Engage in de **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
+* Maak verbinding met en leer meer van gebruikers in het Marketo Engage in de **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
 
 * Voor praktische hulp bij het optimaal benutten van het Marketo Engage **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
