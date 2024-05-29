@@ -4,9 +4,9 @@ title: Gemeenschap Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,17 @@ De [Adobe Marketo Engage Community](https://nation.marketo.com/) (ook bekend als
 
 ## Je gebruikersnaam registreren {#register-your-username}
 
--registering een gebruikersnaam
+1. Meld u aan bij de instantie van uw Marketo Engage.
+
+1. Klik in Mijn Marketo op de communautaire tegel.
+
+1. Als dit de eerste keer is dat u zich aanmeldt, wordt u opgedragen een communautaire gebruikersnaam te registreren.
+
+   >[!NOTE]
+   >
+   >Uw gebruikersnaam kan op elk moment worden gewijzigd, maar moet op dit moment worden geregistreerd.
+
+1. Nadat u uw gebruikersnaam hebt geregistreerd, gaat u naar de communautaire homepage en kunt u in de Gemeenschap communiceren en posten.
 
 SCREENSHOT
 
@@ -87,4 +97,4 @@ Ons Community team zal over 4 tot 6 werkdagen je Gemeenschapsprofielen samenvoeg
 
 <br>
 
-Welkom bij het Marketo Engage en geniet van de Marketing Nation!
+Welkom bij het Marketo Engage en maak graag een verkenning van de Marketing Nation!

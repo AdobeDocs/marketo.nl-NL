@@ -4,9 +4,9 @@ description: Overzicht rapporttype - Marketo Docs - Productdocumentatie
 title: Overzicht rapporttype
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -64,11 +64,7 @@ Wanneer u [een rapport in een programma maken](/help/marketo/product-docs/report
   <tr> 
    <td><strong><a href="web-page-activity-report.md">Activiteit webpagina</a></strong></td> 
    <td>Rapporteer over webactiviteiten naar uw bestemmingspagina's en openbare website.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Sociale invloed</strong></td> 
-   <td>Bekijk de sociale activiteit die je genereert en zie hoe vaak je vrienden over je vertellen.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Prestatierapport voor betrokkenheidsstream</a> </strong></td> 
    <td>Bekijk hoe goed uw <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">betrokkenheidsprogramma</a> werkt.</td> 
