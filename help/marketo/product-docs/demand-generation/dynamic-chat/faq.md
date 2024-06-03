@@ -3,9 +3,9 @@ description: Veelgestelde vragen over Dynamics Chat - Marketo Docs - Productdocu
 title: Veelgestelde vragen over Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Zie hieronder voor antwoorden op een aantal veelgestelde vragen over Dynamic Chat.
 
-**Kan ik Dynamic Chat ergens op mijn bedrijfswebsite installeren of werkt het alleen op Marketo landingspagina&#39;s?**
+**Ik heb geen toegang tot Dynamic Chat. Hoe kan ik het krijgen?**
 
-Het JavaScript-fragment voor Dynamics Chat kan op elke website en op elke bestemmingspagina van Marketo worden geïnstalleerd.
+Neem contact op met de beheerder van uw Marketo Engage en zorg ervoor dat deze [toegevoegd als gebruiker](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in de Adobe Admin Console.
+
+**Kan ik Dynamic Chat overal op mijn bedrijfwebsite installeren of werkt het slechts op Marketo Landing Pages?**
+
+Het JavaScript-fragment Dynamic Chat kan op elke website worden geïnstalleerd, maar ook op Marketo Landing Pages.
 
 **Hoe lang worden gegevens voor rapportage opgeslagen?**
 

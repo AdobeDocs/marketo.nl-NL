@@ -3,9 +3,9 @@ description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdoc
 title: Chatgebruikers toevoegen of verwijderen
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
+source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '241'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 1%
 # Chatgebruikers toevoegen of verwijderen {#add-or-remove-chat-users}
 
 Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijderen.
+
+>[!NOTE]
+>
+>Standaard krijgen alle beheerders van Marketo&#39;s Engage beheerdersrechten in de Dynamic Chat.
 
 ## Chatgebruiker toevoegen {#add-a-chat-user}
 
