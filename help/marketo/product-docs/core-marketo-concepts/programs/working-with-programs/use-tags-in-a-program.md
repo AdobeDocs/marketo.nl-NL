@@ -4,9 +4,9 @@ description: Tags gebruiken in een programma - Marketo Docs - Productdocumentati
 title: Tags gebruiken in een programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,50 +19,50 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
 1. Selecteer uw programma. Klikken **Instellen**.
 
-   ![](assets/image2014-9-23-15-3a45-3a0.png)
+   ![](assets/use-tags-in-a-program-1.png)
 
 1. Sleep een tag naar het canvas.
 
-   ![](assets/image2014-9-23-15-3a45-3a13.png)
+   ![](assets/use-tags-in-a-program-2.png)
 
 1. Selecteer een waarde in de keuzelijst.
 
-   ![](assets/image2014-9-23-15-3a45-3a30.png)
+   ![](assets/use-tags-in-a-program-3.png)
 
 1. Klikken **Opslaan**.
 
-   ![](assets/image2014-9-23-15-3a45-3a36.png)
+   ![](assets/use-tags-in-a-program-4.png)
 
 1. Rechts. De nieuwe tag wordt weergegeven op het canvas.
 
-   ![](assets/image2014-9-23-15-3a45-3a47.png)
+   ![](assets/use-tags-in-a-program-5.png)
 
 ## Een tag bewerken {#edit-a-tag}
 
 1. Ga naar de **Instellen** tab. Klik met de rechtermuisknop op de tag. Selecteren **Bewerken**.
 
-   ![](assets/image2014-9-23-15-3a45-3a53.png)
+   ![](assets/use-tags-in-a-program-6.png)
 
 1. Klik op de vervolgkeuzelijst. Selecteer een nieuwe waarde.
 
-   ![](assets/image2014-9-23-15-3a46-3a12.png)
+   ![](assets/use-tags-in-a-program-7.png)
 
 1. Klikken **Opslaan**.
 
-   ![](assets/image2014-9-23-15-3a46-3a25.png)
+   ![](assets/use-tags-in-a-program-8.png)
 
 1. Geweldig! De bewerkingen worden weerspiegeld in het canvas.
 
-   ![](assets/image2014-9-23-15-3a46-3a35.png)
+   ![](assets/use-tags-in-a-program-9.png)
 
 ## Een tag verwijderen  {#delete-a-tag}
 
 1. Ga naar de **Instellen** tab. Klik met de rechtermuisknop op de tag en selecteer **Verwijderen**.
 
-   ![](assets/image2014-9-23-15-3a46-3a55.png)
+   ![](assets/use-tags-in-a-program-10.png)
 
 1. Klikken **Verwijderen** ter bevestiging.
 
-   ![](assets/image2014-9-23-15-3a47-3a8.png)
+   ![](assets/use-tags-in-a-program-11.png)
 
-Hoogste vijf! Het is weg. Programma&#39;s met consistente labels maken het veel gemakkelijker als u rapporten uitvoert.
+Mooi werk! Programma&#39;s met consistente labels maken het veel gemakkelijker als u rapporten uitvoert.
