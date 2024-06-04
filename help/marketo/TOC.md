@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -410,7 +410,7 @@ ht-degree: 0%
             + [Een SFDC-campagne synchroniseren met een programma](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Kosten voor tijdrekening](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Tags begrijpen](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
-            + [Tags gebruiken in een programma](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags/use-tags-in-a-program.md)
+            + [Tags gebruiken in een programma](product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md)
             + [Periode-kosten in een programma gebruiken](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programmabibliotheek {#program-library}
             + [Overzicht van programma-importbibliotheek](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
