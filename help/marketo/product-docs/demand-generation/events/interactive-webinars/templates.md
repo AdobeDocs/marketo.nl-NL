@@ -4,16 +4,16 @@ title: Sjablonen voor interactieve webinars
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 51ba08f4f38ddbf0f382dbc99b76b4ffd2d60a37
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '61'
+ht-degree: 3%
 
 ---
 
 # Sjablonen voor interactieve webinars {#templates-for-interactive-webinars}
 
-Tekst
+Maak eenvoudig te gebruiken sjablonen in interactieve webinars om inhoud sneller te produceren en/of in overeenstemming te blijven met de richtlijnen voor merken wanneer u aan een team werkt.
 
 ## Een sjabloon maken {#create-a-template}
 
@@ -25,7 +25,7 @@ SCREENSHOT
 
 SCREENSHOT
 
-1. Klik op [!UICONTROL Manage Templates].
+1. Klik op **[!UICONTROL Manage Templates]**.
 
 SCREENSHOT
 
