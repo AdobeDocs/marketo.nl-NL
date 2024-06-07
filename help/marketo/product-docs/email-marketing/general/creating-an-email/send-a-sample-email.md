@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147352
 description: Een voorbeeld-e-mail verzenden - Marketo Docs - Productdocumentatie
-title: Een e-mailvoorbeeld verzenden
+title: Een voorbeeld-e-mail verzenden
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
-# Een e-mailvoorbeeld verzenden {#send-a-sample-email}
+# Een voorbeeld-e-mail verzenden {#send-a-sample-email}
 
 Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Als u een e-mail met dynamische inhoud wilt verzenden, raadpleegt u [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->U moet beschikken over de **Access Database - Single Flow-handelingen uitvoeren** toestemming om voorbeelde-mails te verzenden.
+>U moet beschikken over **Access Database - Single Flow-handelingen uitvoeren** toestemming om voorbeelde-mails te verzenden.
 
-## Een e-mailvoorbeeld verzenden {#send-a-sample-email-1}
+## Een voorbeeld-e-mail verzenden {#send-a-sample-email-1}
 
 1. Zoek en selecteer uw e-mail. Klik op de knop **E-mailhandelingen** vervolgkeuzelijst en selecteer **Voorbeeld verzenden**.\
    ![](assets/one-281-29.jpg)
@@ -56,7 +56,7 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Als u een
 
    >[!NOTE]
    >
-   >Het triggerveld is alleen van toepassing op gebruikers [e-mailscripts](https://developers.marketo.com/documentation/velocity-script/).
+   >Het triggerveld is alleen van toepassing op gebruikers [e-mailscripting](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Een voorbeeld-e-mail verzenden op basis van een segment {#send-a-sample-email-based-on-a-segment}
 

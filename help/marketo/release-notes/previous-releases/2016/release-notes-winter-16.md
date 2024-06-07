@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - Winter '16 - Marketo Docs - Productdoc
 title: Release-aantekeningen -Winter '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -45,27 +45,27 @@ Als u deze functie wilt gebruiken, moet het e-mailprogramma minimaal 12 uur van 
 
 >[!NOTE]
 >
->Deze functie zal geleidelijk worden ingevoerd gedurende een week na de vrijlating van Winter 16. Deze functie is niet beschikbaar voor gebruik met slimme campagnes of de API.
+>Deze functie zal geleidelijk worden ingevoerd gedurende een week na de vrijlating van Winter 16. Het is niet beschikbaar voor gebruik met slimme campagnes of API.
 
 ## [Verbeteringen voor mobiele marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer informatie](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer informatie](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Ondersteuning voor Sandbox-apps**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [Programma-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 U kunt programma&#39;s maken, bijwerken en klonen via de REST API. Hieronder vallen niet het maken of bijwerken van slimme lijsten en slimme campagnes binnen een programma.
 
 ## [Verbeteringen voor Microsoft-dynamiek](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[Synchronisatiestatus](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Houd tabbladen bij de huidige doorvoer en achterstand van het synchronisatieproces. Breek de waarde af op basis van het aantal ingevoegde en bijgewerkte gegevens per object.
+**[Synchronisatiestatus](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Houd tabs op de huidige doorvoer en achterstand van het synchronisatieproces. Breek de waarde af op basis van het aantal ingevoegde en bijgewerkte gegevens per object.
 
 ![](assets/pending-backog-cropped.png)
 
-**[Meldingen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Word op de hoogte gesteld voor algemene synchronisatiefouten, samen met een lijst met leads die die fout hebben.
+**[Meldingen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: Er wordt een melding ontvangen voor algemene synchronisatiefouten, samen met een lijst met leads die die fout hebben.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 

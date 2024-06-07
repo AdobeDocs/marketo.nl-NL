@@ -3,9 +3,9 @@ description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Wanneer ingesteld op true, worden de volgende token-contexten verzonden naar de 
 
 **API-interactie**
 
-Bij gebruik van Planning of Request-campagne [in de API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), allebei laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
+Bij gebruik van Planning of Request-campagne [in de API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), allebei laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
 
 ## Notities {#things-to-note}
 

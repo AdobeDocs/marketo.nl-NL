@@ -4,7 +4,7 @@ description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - 
 title: Triggers en filters voor mobiele slimme campagnes
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '820'
 ht-degree: 0%
@@ -103,7 +103,7 @@ Mobiele app is/is geopend
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U moet met uw ontwikkelaar samenwerken om het volgen van de opstelling te plaatsen [voor Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android){target="_blank"} and [for iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios){target="_blank"}.
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U moet met uw ontwikkelaar samenwerken om het volgen van de opstelling te plaatsen [voor Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [voor iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Heeft mobiele toepassingsactiviteit - trigger
 

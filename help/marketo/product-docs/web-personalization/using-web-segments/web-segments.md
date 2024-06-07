@@ -4,9 +4,9 @@ description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2051'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-Op het tabblad Segmenten worden alle aangepaste gedefinieerde segmenten weergegeven die u instelt op basis van verschillende kenmerken.  **Een segment is een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina &quot;Een segment instellen&quot;.**  Een segment kan bezoekers zijn uit een bepaalde branche, locatie of op basis van de onsite activiteit van de bezoeker.
+Op het tabblad Segmenten worden alle aangepaste gedefinieerde segmenten weergegeven die u instelt op basis van verschillende kenmerken.  **Een segment is een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina &#39;Een segment instellen&#39;.**  Een segment kan bezoekers zijn uit een bepaalde branche, locatie of op basis van de onsite activiteit van de bezoeker.
 
 In Personalisatie van het Web, kan een bezoeker meer dan één segment aanpassen. Als er bijvoorbeeld een segment is voor Amerikaanse bezoekers en een segment voor financiële ondernemingen, zou een webbezoeker van de Bank of America evenaren **beide** het segment voor bezoekers uit de VS en het segment voor financieringsmaatschappijen.
 
@@ -84,7 +84,7 @@ Het segment dat u maakt, voldoet aan de specifieke criteria die u in het dialoog
 
 Een nieuw segment maken
 
-Van de **Segmenten** pagina, klikt u op **Nieuw maken** onder de grafiek. Het volgende scherm verschijnt.
+Van de **Segmenten** pagina, klikt u **Nieuw maken** onder de grafiek. Het volgende scherm verschijnt.
 
 ![](assets/four.png)
 
@@ -92,12 +92,12 @@ Definieer algemene parameters voor uw segment:
 
 * **Naam:**  Geef uw segment een naam.
 * **Omschrijving:**  Geef een gedetailleerdere uitleg van de segmentcriteria.
-* **Domeinen:**  Selecteer het domein of de domeinen u in het segment wilt omvatten.
+* **Domeinen**  Selecteer het domein of de domeinen u in het segment wilt omvatten.
 * **Segmentregellogica:**  Selecteer een EN/OR-logica om elk segmenteringskenmerk te maken
 * **Timing:** Bepaal het niveau van bezoekersbetrokkenheid u in uw campagne wilt
 
-   * **Bij binnenkomst**: Inschakelen van de bezoeker komt op de website
-   * **Na de eerste tot de negende klik**: De bezoeker inschakelen na een bepaalde hoeveelheid klikken op de website
+   * **Bij binnenkomst**: Vraag van bezoeker komt op de website
+   * **Na de eerste tot de negende klik**: Neem de bezoeker in dienst na een bepaalde hoeveelheid klikken op de website
 
 >[!TIP]
 >
@@ -114,15 +114,15 @@ Definieer algemene parameters voor uw segment:
 >    * 1, 2 en 3
 >    * 1 of 2 of 3
 >
->    Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
+>    Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. Bijvoorbeeld &quot;1 of 2 en 3&quot; moet als een van de volgende vermeldingen worden geschreven:
 >
->    * 1 en (2 of 3)
+>    * 1 en 2 of 3
 >    * (1 en 2) of 3
 >
 >    Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
 >
 >    * (1 en 2) of (3 en 4)
->    * 1 en (2 of (3 en 4))
+>    * 1 en 2 of (3 en 4)
 >
 >    Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
 
@@ -134,7 +134,7 @@ De attributen van het Segment van de belemmering en van het daling van de rechte
 
 **Locatie**
 
-Slepen en neerzetten **Locatie** in de segmentredacteur.
+Slepen en slepen **Locatie** in de segmentredacteur.
 
 * Selecteer een van de volgende parameters:
 
@@ -143,13 +143,13 @@ Slepen en neerzetten **Locatie** in de segmentredacteur.
 
 Zodra het land wordt toegevoegd, kunt u de staat, de plaats en de postcode van het segment ook specificeren.
 
-* **Selecteer Staat of Provincie om toe te voegen** - Selecteer in het keuzemenu de Amerikaanse staat of Canadese provincie die u wilt opnemen. U kunt meerdere selecties maken.
+* **Selecteer een staat of provincie die u wilt toevoegen** - Selecteer in het keuzemenu de Amerikaanse staat of Canadese provincie die u wilt opnemen. U kunt meerdere selecties maken.
 * **Postcode** - Voer de postcode in die u in het segment wilt opnemen.
 * **Plaatsen** - Geef de stad of steden op die u wilt opnemen. Gebruik een puntkomma tussen steden.
 
 >[!TIP]
 >
->**Welke segmentvoorwaarden kies ik? &quot;AND&quot; of &quot;OR&quot;?** OR werkt als een extra optie binnen elk gebied. De vooruitzichten behoeven slechts aan één criterium van de veelvoudige criteria te voldoen die binnen elk gebied worden geselecteerd om voor het segment in aanmerking te komen. (De vooruitzichten kunnen bijvoorbeeld van de V.S. zijn. *of* van de defensie-industrie). EN functioneert als een aanvullende verplichte parameter waaraan voor dit segment moet worden voldaan. (De vooruitzichten moeten bijvoorbeeld zowel vanuit de VS als vanuit de defensie-industrie liggen). Binnen elk segmentatieprofiel kan elk afzonderlijk veld functioneren als zowel &quot;AND&quot; als &quot;OR&quot;, afhankelijk van de geselecteerde segmentvoorwaarde.
+>**Welke segmentvoorwaarden kies ik? &#39;AND&#39; of &#39;OR&#39;?** OR werkt als een extra optie binnen elk gebied. De vooruitzichten behoeven slechts aan één criterium van de veelvoudige criteria te voldoen die binnen elk gebied worden geselecteerd om voor het segment in aanmerking te komen. (De vooruitzichten kunnen bijvoorbeeld van de V.S. zijn *of* van de defensie-industrie). EN functioneert als een aanvullende verplichte parameter waaraan voor dit segment moet worden voldaan. (De vooruitzichten moeten bijvoorbeeld zowel vanuit de VS als vanuit de defensie-industrie liggen). Binnen elk segmentatieprofiel kan elk afzonderlijk veld functioneren als zowel &quot;AND&quot; als &quot;OR&quot;, afhankelijk van de geselecteerde segmentvoorwaarde.
 
 **Industrie** Onder de **Profielsegmentatie** sectie, schakel het selectievakje naast **Industrie**.
 
@@ -158,7 +158,7 @@ Zodra het land wordt toegevoegd, kunt u de staat, de plaats en de postcode van h
    * **Inclusief** - Selecteer of u een bedrijfstak wilt opnemen in het segment of uitsluiten.
    * **Toe te voegen industrieën selecteren** - Selecteer de sector die u in het segment wilt opnemen. De industrie verschijnt onder de drop-down doos. U kunt kiezen uit meerdere industrieën.
 
-**Organisatie**
+**Organisatiegroep**
 
 Onder de **Profielsegmentatie** sectie, schakel het selectievakje naast **Organisatie-groep.**
 
@@ -187,7 +187,7 @@ Selecteren in een [Lijst met benoemde accounts](/help/marketo/product-docs/web-p
 
 >[!NOTE]
 >
->Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisatie van het Web [API voor lezen](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisatie van het Web [API voor lezen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP uitsluiten**
 
@@ -199,7 +199,7 @@ Sluit de Dienstverleners van Internet (ISPs) van het segment uit.
 
 De Personalisatie van het Web integreert met uw Gegevensbestand van Marketo, toestaand u om campagnes door bekende persoonattributen en gegevens te segmenteren en te personaliseren.
 
-Selecteer Gegevensbestand, en selecteer een gebied van persoongegevens van drop-down. Selecteer **+** om velden uit de vervolgkeuzelijst toe te voegen.
+Selecteer Gegevensbestand, en selecteer een gebied van persoongegevens van drop-down. Selecteer de **+** om velden uit de vervolgkeuzelijst toe te voegen.
 
 ![](assets/seven.png)
 
@@ -207,7 +207,7 @@ U kunt gegevensvelden voor personen toevoegen of verwijderen uit Account Setting
 
 >[!TIP]
 >
->Maak uw segmentcriteria op basis van alle gegevensvelden van personen van Marketo, zoals Functie; Score; Rol; enz.
+>Uw segmentcriteria maken op basis van alle gegevensvelden van personen uit Marketo, zoals functie, score, rol enz.
 >
 >Eg. &quot;Functie is gelijk aan GMO&quot; en &quot;Score is kleiner dan of gelijk aan 50&quot;
 
@@ -217,7 +217,7 @@ U kunt gegevensvelden voor personen toevoegen of verwijderen uit Account Setting
 
 **Status**
 
-Bepaal uw segment volgens de status van een vooruitzicht: bekend of anoniem.
+Bepaal uw segment volgens de status van een vooruitzicht: gekend of anoniem.
 
 * Bekend - selecteer deze optie van de drop-down doos voor bekende bezoekers. Een bezoeker is bekend wanneer hij of zij een formulier op uw website indient en op de pagina Personen voor webpersonalisatie wordt weergegeven.
 * Anoniem - Selecteer deze optie in het keuzemenu voor anonieme bezoekers.
@@ -286,17 +286,17 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 
 **Context-API van gebruiker**
 
-Web Personalization API call  [lees hier meer over .](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization API call  [lees hier meer over .](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Jokertekens gebruiken -** Wanneer u een zoekterm of URL wilt opnemen die iets in de zoekterm of URL bevat, dat wil zeggen &quot;[google.com](https://google.com)&quot; of &quot;zoekterm product&quot;, noemen we dit een jokerteken en het moet worden ingevoerd met een sterretje - dit kleine kerel&#42; - aan elk uiteinde. Alles wat er van komt [google.com](https://google.com) moet worden ingevoerd zoals &#42; [google.com](https://google.com)&#42;
+>**Jokertekens gebruiken -** Wanneer u een zoekterm of URL wilt opnemen die iets in de zoekopdracht bevat, dat wil zeggen &quot;[google.com](https://google.com)&quot; of &quot;zoekterm product&quot;, noemen we dit een jokerteken en het moet worden ingevoerd met een sterretje - dit kleine kerel&#42; - aan elk uiteinde. Alles wat er van komt [google.com](https://google.com) moet worden ingevoerd zoals &#42; [google.com](https://google.com)&#42;
 
 ## Segmenten bewerken {#edit-segments}
 
 U kunt een segment bewerken dat is gemaakt.
 
-1. Als u een segment wilt bewerken, gaat u naar **Segmenten**.
+1. Ga naar **Segmenten**.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
@@ -314,13 +314,13 @@ U kunt segmenten verwijderen die u hebt gemaakt.
 
 >[!NOTE]
 >
->U kunt geen segment verwijderen dat aan een campagne is gekoppeld. Eerst moet u de campagne en dan het segment schrappen.
+U kunt geen segment verwijderen dat aan een campagne is gekoppeld. Eerst moet u de campagne en dan het segment schrappen.
 
 Geweldig! Nu u de sectie van Segmenten begrijpt, leren wij over campagnes.
 
 >[!MORELIKETHIS]
 >
->* [Een basiswebsegment maken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Nieuwe webcampagne voor dialoog maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Nieuwe webcampagne maken in zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Nieuwe widgetwebcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Een basiswebsegment maken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Een nieuwe webcampagne voor dialoog maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Nieuwe webcampagne maken in zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Nieuwe widgetwebcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

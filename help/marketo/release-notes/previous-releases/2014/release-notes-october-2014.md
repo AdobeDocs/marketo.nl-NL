@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - oktober 2014 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Oktober 2014 {#release-notes-october}
+# Opmerkingen bij de release: oktober 2014 {#release-notes-october}
 
 Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. De documentatie zal op tijd van versie komen.
 
@@ -30,7 +30,7 @@ Gebruik de API om nieuwe activiteiten of wijzigingen aan leads aan te brengen:
 * Activiteitstypen ophalen
 * Paginasken ophalen
 
-Alle details zijn beschikbaar na de release op [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Marketo-e-mail verzenden voor Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Gebruik een nieuwe vraag die de geschiedenis van het bezoek van de bezoeker volg
 * Producten die geïnteresseerd zijn in
 * Welke campagnes RTP hebben gezien
 
-Bezoek [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) voor volledige informatie.
+Bezoek [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige informatie.

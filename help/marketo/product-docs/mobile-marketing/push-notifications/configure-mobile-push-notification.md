@@ -4,9 +4,9 @@ description: Mobiele pushmeldingen configureren - Marketo Docs - Productdocument
 title: Melding van mobiele pushberichten configureren
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Voer een berichttekst in of selecteer het tokenpictogram om tokens toe te voegen. Selecteer vervolgens een **Tikactie**.
+1. Voer een berichttekst in of selecteer het pictogram voor tokens. Selecteer vervolgens een **Tikactie**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -83,17 +83,17 @@ ht-degree: 0%
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
-Gefeliciteerd.  De pushmelding kan nu worden verzonden.
+Gefeliciteerd! De pushmelding kan nu worden verzonden.
 
 ## Diepe koppeling-URI&#39;s {#deep-link-uris}
 
-Wanneer abonnees op een knop in een pushbericht klikken, kunnen ze deze naar de startpagina van uw app of rechtstreeks naar een specifieke pagina in de app sturen. Een diepe koppeling is een unieke verwijzing naar een specifieke pagina in uw app en ziet er veel uit als een websitekoppeling.
+Wanneer abonnees op een knop in een pushbericht klikken, kunnen ze deze naar de homepage van uw app of rechtstreeks naar een specifieke pagina in de app sturen. Een diepe koppeling is een unieke verwijzing naar een specifieke pagina in uw app en ziet er veel uit als een websitekoppeling.
 
-Een diepe verbinding URI bestaat uit drie delen: schemanaam, weg, en herkenningsteken. In het onderstaande voorbeeld is &quot;myappname&quot; het schema. &quot;products&quot; is het pad en &quot;purple-shirt&quot; is de id. Wanneer de klant tikt, worden deze specifiek naar het paarse hemditem op de productpagina&#39;s van uw app geleid.
+Een diepe verbinding URI bestaat uit drie delen: schemanaam, weg, en herkenningsteken. In het onderstaande voorbeeld is &quot;myappname&quot; het schema. &quot;products&quot; is het pad en &quot;purple-shirt&quot; is de id. Wanneer de klant tikt, worden deze specifiek naar het paarse shirt-item op de productpagina&#39;s van uw app geleid.
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [hier vindt u meer informatie](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
+De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [hier vindt u meer informatie](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

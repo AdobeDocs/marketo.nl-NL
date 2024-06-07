@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - maart 2015 - Marketo Docs - Productdoc
 title: Release-aantekeningen -maart 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van maart 2015. Controleer of 
 
 ## Kalender HD {#calendar-hd}
 
-Toon de marketing van uw team acties met de nieuwe presentatiemodus van de kalender. Dit is geweldig voor tv&#39;s of reuzenmonitoren op kantoor! Stel doelen in en geeft deze weer op basis van een slimme lijst of aangepaste meetgegevens.
+Geef de marketingacties van uw team weer met de nieuwe presentatiemodus van de kalender. Dit is geweldig voor tv&#39;s of reuzenmonitoren op kantoor! Stel doelen in en geeft deze weer op basis van een slimme lijst of aangepaste meetgegevens.
 
 >[!NOTE]
 >
@@ -37,9 +37,9 @@ De Ontdekkingsreiziger van de opbrengst heeft een gloednieuwe blik en voelt, eve
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
-[Nieuwe REST-API&#39;s voor middelen](https://developers.marketo.com/)
+[Nieuwe REST-API&#39;s voor middelen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](https://developers.marketo.com/documentation/asset-api)!
+We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
@@ -49,8 +49,8 @@ Nu ondersteund met het nieuwste installatieprogramma [toegankelijk via de app](/
 
 ## RTP - Persoonlijke Betrokkenheid van het Web met Leidingsgegevens {#rtp-personalized-web-engagement-with-lead-data}
 
-De [gegevensvelden voor lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) u hebt u in uw leidende gegevensbestand van Marketo om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
+Gebruik de [gegevensvelden voor lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) u hebt u in uw leidende gegevensbestand van Marketo om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
 
 ## RTP - Personaliseer de Inhoud van het Web door E-mail of de Naam van de Campagne van het Programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [Binnenkomende inhoud aanpassen op basis van e-mailcampagne of -programma](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) naam gebruikt in Marketo&#39;s Marketing Activities.
+Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [Binnenkomende inhoud aanpassen op basis van e-mailcampagne of -programma](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) naam gebruikt in Marketo Marketing Activities.

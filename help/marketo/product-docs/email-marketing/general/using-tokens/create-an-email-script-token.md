@@ -4,9 +4,9 @@ description: E-mailscripttoken maken - Marketo Docs - Productdocumentatie
 title: Een e-mailscripttoken maken
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Geef uw e-mailscripttoken een naam en **klik om te bewerken** de inhoud.
+1. Noem uw e-mailscripttoken en **klik om te bewerken** de inhoud ervan.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. De boomstructuur aan de rechterkant gebruiken om in te slepen **Persoon, opportunity**, of **Aangepast object** tokens.
+1. De boomstructuur aan de rechterkant gebruiken om in te slepen **Persoon, Opportunity**, of **Aangepast object** tokens.
 
    ![](assets/five-2.png)
 
@@ -49,7 +49,7 @@ Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele nuttige bronnen:
 
-   * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
+   * [Marketo Developers Email Scripting Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Gebruikershandleiding voor snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Snelheidsnaslaggids](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

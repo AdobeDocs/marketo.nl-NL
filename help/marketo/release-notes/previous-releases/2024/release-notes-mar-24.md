@@ -3,9 +3,9 @@ description: Opmerkingen bij de release - maart 2024 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - maart 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: fd92f5307880019f54bb2f1778093c110a53ed2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,6 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 ## Aankondigingen {#announcements}
 
-* **API-correctie voor programmalid ophalen**: Onlangs is een wijziging aangebracht om het gedrag van de [Programmaleden ophalen](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Program_members/getProgramMemberUsingGET){target="_blank"} eindpunt. Eerder, bij het gebruiken van `updatedAt` filtertype om een datumwaaier te specificeren, was er een kans dat de verslagen van het programmalidmaatschap binnen die waaier werden bijgewerkt niet inbegrepen in de reactie waren. Bovendien was er een kans dat de verslagen van het programmalidmaatschap die buiten de gespecificeerde datumwaaier worden bijgewerkt die verkeerd in de reactie worden omvat. Beide kwesties zijn opgelost.
+* **API-correctie voor programmalid ophalen**: Onlangs is een wijziging aangebracht om het gedrag van de [Programmaleden ophalen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} eindpunt. Eerder, bij het gebruiken van `updatedAt` filtertype om een datumwaaier te specificeren, was er een kans dat de verslagen van het programmalidmaatschap binnen die waaier werden bijgewerkt niet inbegrepen in de reactie waren. Bovendien was er een kans dat de verslagen van het programmalidmaatschap die buiten de gespecificeerde datumwaaier worden bijgewerkt die verkeerd in de reactie worden omvat. Beide kwesties zijn opgelost.
 
-* **Insteekmodule-inversie accountgegevens browser**: Adobe verwijdert het beheer van doelaccounts [Insteekmodule voor de browser Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} from the Chrome Web Store on April 8, 2024. Existing users: you can continue to use the plug-in until you migrate your Marketo Engage instance to Adobe Identity and Admin Console. This change **will not impact** any other TAM features/data within Marketo Engage or the Chrome and Outlook email plug-ins that work with Sales Insight. [Learn more](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **Insteekmodule-inversie accountgegevens browser**: Adobe verwijdert het beheer van doelaccounts [Insteekmodule voor de browser Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} vanuit de Chrome Web Store op 8 april 2024. Bestaande gebruikers: u kunt de plug-in blijven gebruiken totdat u de Marketo Engage-instantie migreert naar Adobe Identity en Admin Console. Deze wijziging **heeft geen effect** andere TAM-functies/gegevens in Marketo Engage of de e-mailplug-ins Chrome en Outlook die werken met Sales Insight. [Meer informatie](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.

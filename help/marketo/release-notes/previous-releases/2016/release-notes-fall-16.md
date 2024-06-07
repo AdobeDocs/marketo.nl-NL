@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - herfst '16 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - herfst '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Herfst &#39;16 {#release-notes-fall}
+# Opmerkingen bij de release: val &#39;16 {#release-notes-fall}
 
 De volgende functies zijn opgenomen in de Fall &#39;16-release. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
@@ -53,7 +53,7 @@ Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (AB
 
 **REST API**
 
-Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST API. Ga voor meer informatie over de API-bewerkingen naar de [Marketo Developers-website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST API. Ga voor meer informatie over de API-bewerkingen naar de [Marketo Developers-website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Verbeteringen audittrail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -82,13 +82,13 @@ Maak uw iOS Push Notification nog rijker door geluid in te schakelen. Met deze n
 
 ## [Verkoopinzicht compatibel met Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Marktverkoopcontrole is nu compatibel met Salesforce Shield Encryption. Alle klanten van het Inzicht van de Verkoop zouden aan dit recentste beheerde pakket (versie 1.4359.2) moeten bevorderen, dat is [beschikbaar op Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Marktverkoopcontrole is nu compatibel met Salesforce Shield Encryption. Alle klanten van het Inzicht van de Verkoop zouden aan dit recentste beheerde pakket (versie 1.4359.2) moeten bevorderen, dat is [beschikbaar op de Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API&#39;s voor benoemde accounts](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [API&#39;s voor benoemde accounts](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Met deze release kunnen Marketo ABM-gebruikers benoemde accounts beheren via de API voor benoemde accounts. Gebruikers kunnen benoemde accounts maken, bijwerken en verwijderen, en ABM-accountscores lezen en bijwerken.
 
-## [E-maileditor v2.0 API-ondersteuning](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [E-maileditor v2.0 API-ondersteuning](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 U kunt variabelen en modules voor e-mailberichten in v2.0-indeling beheren met de Marketo REST API.
 

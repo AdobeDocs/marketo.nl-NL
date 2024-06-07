@@ -4,9 +4,9 @@ description: "[!DNL Munchkin] - Marketo Docs - Productdocumentatie"
 title: "[!DNL Munchkin]"
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -15,4 +15,4 @@ ht-degree: 0%
 
 [!DNL Munchkin] Dit is het JavaScript-fragment dat u op uw website hebt geplaatst. Er worden bezoeken bijgehouden, er wordt geklikt en er worden formulieren ingevuld. Het heeft ook een rijke API om allerlei leuke dingen te doen.
 
-Kijk uit de [ontwikkelaarspagina op [!DNL Munchkin]](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"} voor meer informatie.
+Kijk uit de [ontwikkelaarspagina op [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking){target="_blank"} voor meer informatie.

@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - januari 2015 - Marketo Docs - Productd
 title: Opmerkingen bij de release - januari 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Drie nieuwe aanroepen voor de API voor leidende informatie en activiteiten:
 * Leads ophalen op basis van programma-id
 * Verwijderde leads ophalen
 
-Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. Alle details zijn beschikbaar na de release op [developers.marketo.com](https://developers.marketo.com)
+Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 **Ondersteuning voor aangepaste objecten voor e-mailscripts**
 
@@ -47,9 +47,9 @@ In de toelichting worden advertenties getoond aan mensen die uw website hebben b
 
 De verbeteringen aan de module Benoemde accounts zullen de percentages en validaties voor gebruikers verbeteren. Toevoegingen zijn:
 
-* Overeenkomende organisaties van uw lijst van de Benoemde Rekening die het e-mailadres van de Leiding gebruikt (ook voor klanten RTP-slechts)
-* Ondersteuning voor maximaal 100 kB records per account
-* CSV-bestandssjabloon om te bekijken en te downloaden
+* Overeenkomende organisaties van uw lijst van de Benoemde Rekening die het e-mailadres van de Leiding (ook voor klanten RTP-slechts) gebruikt
+* Ondersteuning voor maximaal 100.000 records per account
+* CSV-bestandssjabloon voor weergave en downloaden
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
@@ -62,6 +62,6 @@ De opties voor de RTP-tag onder Accountinstellingen zijn zo bijgewerkt dat:
 1. Asynchrone tag zonder CDN
 1. Synchrone tag zonder CDN
 
-Voor de beste prestaties is het raadzaam de tag boven aan de koptekst op uw webpagina te plaatsen na `<head>`. Alle tags staan het gebruik van de [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Voor de beste prestaties is het raadzaam de tag boven aan de koptekst op uw webpagina te plaatsen na `<head>`. Alle tags staan het gebruik van de [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

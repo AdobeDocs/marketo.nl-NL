@@ -3,9 +3,9 @@ description: Verklarende woordenlijst Marketo's Engage - Marketo Docs - Productd
 title: Woordenlijst Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4083'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
    <td>Een webbezoeker die nooit een formulier heeft ingevuld of zijn gegevens op de website heeft achtergelaten.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">Toepassingsprogrammeringsinterface</a> (API)</strong></td> 
+   <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">Toepassingsprogrammeringsinterface</a> (API)</strong></td> 
    <td colspan="1">Een reeks vooraf gedefinieerde protocollen die worden gebruikt voor het uitvoeren van enkelvoudige of massafuncties in een besturingssysteem of toepassing (in dit geval Marketo).</td> 
   </tr> 
   <tr> 
@@ -260,7 +260,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
-   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verschillende typen documenten: productdocumenten (de site waarop u momenteel werkt), <a href="https://developers.marketo.com/" rel="nofollow">Ontwikkelaar</a> documenten, en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Ondersteuning</a> docs.</td> 
+   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verschillende typen documenten: productdocumenten (de site waarop u momenteel werkt), <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">Ontwikkelaar</a> documenten, en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Ondersteuning</a> docs.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domeingebaseerde Message Authentication, Reporting &amp; Compliance (DMARC)</strong></td> 
@@ -443,7 +443,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Bekende persoon</strong></a></td> 
-   <td><p>Alle gegevens van personen in de Marketo <strong>database</strong> wordt beschouwd als gegevens van bekende personen. Er zijn verschillende manieren waarop iemand uw database kan invoeren, zoals: CRM-synchronisatie, het invullen van een formulier, import/handmatige invoer van een lijst, programmatic (rest-API/partnerintegratie) en meer. Webbezoekers zijn in eerste instantie <strong>gekookt</strong> (en zijn anoniem) via Marketo <strong>Munchkin</strong> webtracking en worden vervolgens toegewezen aan de corresponderende bekende persoonrecord wanneer identificeerbare actie plaatsvindt (klik bijvoorbeeld op een bijgehouden koppeling in een Marketo-e-mail, vult een formulier in met hun e-mailadres of wordt handmatig toegewezen via de Marketo-API voor leads in beide <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> en <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociatedLeadUsingPOST">Rest-API</a></p></td> 
+   <td><p>Alle gegevens van personen in de Marketo <strong>database</strong> wordt beschouwd als gegevens van bekende personen. Er zijn verschillende manieren waarop iemand uw database kan invoeren, zoals: CRM-synchronisatie, het invullen van een formulier, import/handmatige invoer van een lijst, programmatic (rest-API/partnerintegratie) en meer. Webbezoekers zijn in eerste instantie <strong>gekookt</strong> (en zijn anoniem) via Marketo <strong>Munchkin</strong> webtracking en worden vervolgens toegewezen aan de corresponderende bekende persoonrecord wanneer identificeerbare actie plaatsvindt (klik bijvoorbeeld op een bijgehouden koppeling in een Marketo-e-mail, vult een formulier in met hun e-mailadres of wordt handmatig toegewezen via de Marketo-API voor leads in beide <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> en <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest-API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -534,7 +534,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
    <td>Ook bekend als MSD. Een van de twee CRM's Marketo heeft een native integratie met (zie <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
    <td>Aangepaste JavaScript-trackingcode voor Marketo. Het volgt alle personen die uw website bezoeken. Dit omvat anonieme bezoekers (samen met hun IP adressen en andere informatie). </td> 
   </tr> 
   <tr> 

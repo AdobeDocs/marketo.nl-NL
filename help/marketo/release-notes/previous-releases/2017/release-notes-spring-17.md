@@ -4,22 +4,22 @@ description: Opmerkingen bij de release - lente 17 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - lente '17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Lente 17 {#release-notes-spring}
+# Opmerkingen bij de release: lente 17 {#release-notes-spring}
 
 De volgende functies zijn opgenomen in de release van het voorjaar van 17. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
-Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Opmerking**: Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
+Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Opmerking**: Als een onderwerp meerdere subkoppen heeft, worden de koppelingen daar geplaatst.
 
-## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) zijn een directere manier voor een bedrijf om leidende generatiecampagnes op LinkedIn te leiden. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de gegevens van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) zijn een directere manier voor een bedrijf om leidende generatiecampagnes op LinkedIn te leiden. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de details van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
 
 De Marketo-integratie met LinkedIn Lead Gen Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe **Vult LinkedIn Lead Gen Form uit** activeren en filteren.
 
@@ -27,7 +27,7 @@ De Marketo-integratie met LinkedIn Lead Gen Forms legt automatisch de informatie
 
 ## [MSI-sjabloon verlopen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
-Gone is de dagen van het schoonmaken van verouderde sjablonen in Sales Insight. Stel een vervaldatum in wanneer u uw e-mailbericht publiceert. Wanneer de vervaldatum doorloopt, wordt de publicatie voor u ongedaan gemaakt.
+Gone is de dagen van het schoonmaken van verouderde sjablonen in Sales Insight. Stel een vervaldatum in wanneer u uw e-mailbericht publiceert en wij zorgen ervoor dat het publiceren van het bericht voor u ongedaan wordt gemaakt wanneer de vervaldatum omslaat.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Gone is de dagen van het schoonmaken van verouderde sjablonen in Sales Insight. 
 
 ![](assets/four-281-29.png)
 
-## [Bulk Extraheren-API&#39;s voor mensen en activiteiten](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [Bulk Extraheren-API&#39;s voor mensen en activiteiten](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Breng eenvoudig grote hoeveelheden personen- en activiteitsgegevens over van Marketo naar uw externe systemen.
 
@@ -49,7 +49,7 @@ Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde acc
 
 De score voor benoemde accounts kan sterk variëren. Marketo ABM berekent nu automatisch een percentiel voor elk van uw scores, zodat u in een oogopslag kunt zien waar elke Benoemde Rekening onder uw andere Benoemde Rekeningen rangschikt.
 
-**[ABM-accountlijst-API&#39;s](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM-accountlijst-API&#39;s](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Profiteer van uitgebreide en robuuste integratie van ABM-partners met verbeterde API-ondersteuning voor benoemde accountlijsten.
 

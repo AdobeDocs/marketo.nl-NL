@@ -4,9 +4,9 @@ description: Een [!DNL Webhook] - Marketo Docs - Productdocumentatie
 title: Een [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---
@@ -55,4 +55,4 @@ Gebruiken [!DNL Webhooks] om gebruik te maken van externe webservices voor het v
 
 >[!NOTE]
 >
->Meer informatie in het dialoogvenster [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} diep duiken.
+>Meer informatie in het dialoogvenster [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} diep duiken.

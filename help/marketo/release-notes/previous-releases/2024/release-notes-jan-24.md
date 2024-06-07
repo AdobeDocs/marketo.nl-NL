@@ -2,7 +2,8 @@
 description: Opmerkingen bij de release - januari 2024 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2024
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 0%
@@ -191,7 +192,7 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 
 * **Een-klik lijst-unsubscribe Update**: Gmail en Yahoo hebben verschillende nieuwe afzendervereisten geïmplementeerd die op 1 februari 2024 van kracht werden. Meer informatie [wat zij zijn en hoe zij u beïnvloeden](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **API-update voor lead synchroniseren**: De [API voor lead synchroniseren](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Het gedrag van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
+* **API-update voor lead synchroniseren**: De [API voor lead synchroniseren](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Het gedrag van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
 
 * **Marketo Engage Forms jQuery 1.x**: In onze release van januari 2024 werken we de jQuery for Marketo Engage Forms bij naar jQuery 3.x. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [Meer informatie hier](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

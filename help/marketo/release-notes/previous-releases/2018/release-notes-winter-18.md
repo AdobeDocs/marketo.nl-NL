@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - Winter '18 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - Winter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van Winter &#39;18. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
-Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Opmerking**: Aan sommige functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
+Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Opmerking**: Aan enkele functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
 ## Campagneprestaties en uitvoerverbeteringen {#campaign-performance-and-throughput-enhancements}
 
@@ -29,7 +29,7 @@ Wij hebben twee verhogingen aan onze integratie van Salesforce CRM:
 
 * [E-mailmeldingen uitschakelen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) aan eigenaars van leads bij toewijzing
 
-Deze verbeteringen zullen in de loop van 2018 worden doorgevoerd.
+Deze verbeteringen zullen in 2018 worden doorgevoerd.
 
 ## [Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
@@ -57,7 +57,7 @@ Het scripting van de snelheid wordt nu gesteund in e-mail gebruikend dynamische 
 
 * **[Maandelijkse hellingshoek](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: We hebben de mogelijkheid toegevoegd om programma&#39;s voor de verzorging op maandbasis te plannen.
 
-* **[Levering stoppen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: U kunt nu om het even welk resterend verzenden midden-looppas.
+* **[Levering stoppen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: U kunt nu alle resterende verzendingen halverwege de uitvoering stoppen.
 
 ## Integratie van advertentienetwerken {#ad-network-integrations}
 
@@ -87,7 +87,7 @@ Inhoud die wordt aanbevolen via Marketo-algoritmen voor geoptimaliseerde Content
 
 ## Integratie {#integration}
 
-**[Campagne-API activeren/deactiveren](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Campagne-API activeren/deactiveren](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren, zodat u nu volledig geautomatiseerde programmasjablonen kunt maken. Maak één keer een programmasjabloon, automatiseer het klonen, verhandel zakelijke updates en activering/planning van slimme campagnes.
 

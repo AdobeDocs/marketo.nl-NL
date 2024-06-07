@@ -2,9 +2,10 @@
 description: Opmerkingen bij de release - april 2024 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - april 2024
 feature: Release Information
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -73,7 +74,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 ## Aankondigingen {#announcements}
 
-* **Update voor activiteitenAPI**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en e-mailgebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [MARKETO REST API](https://developers.marketo.com/rest-api/lead-database/activities/){target="_blank"}. The activities listed below will now include Browser, Platform, Device, and User Agent attributes. Call the [Get Activity Types](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Activities/getAllActivityTypesUsingGET){target="_blank"} eindpunt om kenmerkdetails voor elke activiteit te herzien.
+* **Update voor activiteitenAPI**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en e-mailgebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. De hieronder vermelde activiteiten omvatten nu de kenmerken Browser, Platform, Apparaat en Gebruikersagent. Roep de [Activiteitstypen ophalen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} eindpunt om kenmerkdetails voor elke activiteit te herzien.
 
 **Webactiviteiten**
 

@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - juli 2015 - Marketo Docs - Productdocu
 title: Release-aantekeningen -juli 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ## Marketo Moments {#marketo-moments}
 
-Bij de lunch maar moet u een e-mail opnieuw plannen? De Marketo Moments-app, verkrijgbaar via The App Store of Google Play, biedt u de kracht om te zien hoe uw e-mail- en gebeurtenissencampagnes in real-time presteren en wat er in de toekomst gebeurt, vanaf uw iPhone-, iPad- of Android-telefoon.
+Bij de lunch maar moet u een e-mail opnieuw plannen? De Marketo Moments-app, verkrijgbaar via The App Store of Google Play, geeft u de kracht om te zien hoe uw e-mail- en gebeurteniscampagnes in real-time presteren en wat er in de toekomst gebeurt, vanaf uw iPhone-, iPad- of Android-telefoon.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## RTF-editor bijwerken {#rich-text-editor-update}
 
 Bijgewerkte teksteditor met moderne vormgeving, zoals gestroomlijnde tekstopmaak, beeldbewerking, het invoegen van koppelingen en het bewerken van HTML. In de HTML editor is nu minimale validatie beschikbaar, zodat code minder restrictief kan worden bewerkt.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Deze update wordt automatisch uitgevoerd binnen een paar dagen na de release van juli. Hierna kunt u schakelen tussen de nieuwe en oudere versie van de editor vanuit **Beheer > E-mail > Editor-instellingen bewerken**.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Deze update wordt automatisch uitgevoerd binnen een paar dagen na de release van juli. Daarna, zult u tussen de Nieuwe en Oudere versies van de redacteur van kunnen schakelen **Beheer > E-mail > Editor-instellingen bewerken**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -42,16 +42,16 @@ Wanneer u op de tegel voor e-mailleverbaarheid klikt, hoeft u uw aanmeldingsgege
 
 ## Prioriteit campagne {#campaign-prioritization}
 
-Hebt u opstelling verscheidene gepersonaliseerde campagnes RTP en opgemerkt dat sommige van hen met anderen kunnen overlappen? Ga door en stel een prioriteit vast waarvoor campagnes&#39; RTP over anderen zouden moeten tonen.
+Hebt u opstelling verscheidene gepersonaliseerde campagnes RTP en opgemerkt dat sommige van hen met anderen kunnen overlappen? Ga vooruit en bepaal een prioriteit waarvoor de campagnes RTP over anderen zou moeten tonen.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
 ## Bedrijfs-API {#company-api}
 
-**Toegang tot bedrijfsobjecten via de REST API**: De REST API biedt nu toegang tot de Marketo Company (ook wel bekend als Account). Dit betekent dat u in Marketo gemaakte bedrijfsobjecten kunt lezen, bijwerken en verwijderen en dat u leads aan dergelijke bedrijven kunt koppelen met de bijgewerkte API voor leads.
+**Toegang tot bedrijfsobjecten via de REST API**: De REST API biedt nu toegang tot het object Marketo Company (ook wel Account genoemd). Dit betekent dat u in Marketo gemaakte bedrijfsobjecten kunt lezen, bijwerken en verwijderen en dat u leads aan dergelijke bedrijven kunt koppelen met de bijgewerkte API voor leads.
 
-Meer informatie [meer](https://developers.marketo.com/documentation/company-api/) in onze verwijzingsgids voor het Bedrijf API.
+Meer informatie [meer]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) in onze naslaggids voor de Company API.
 
 ## Toegang tot e-maillevering {#access-email-deliverability}
 
-**Hulpprogramma voor e-maillevering openen**: Met deze nieuwe machtiging kunnen beheerders gebruikers toegang verlenen tot het gereedschap E-maillevering.
+**Hulpprogramma voor e-maillevering openen**: Met deze nieuwe machtiging kunnen beheerders gebruikers toegang geven tot het gereedschap E-maillevering.

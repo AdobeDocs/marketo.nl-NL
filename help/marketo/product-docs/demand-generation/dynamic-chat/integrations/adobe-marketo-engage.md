@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo Docs - Productdocumentatie
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
 
 >[!NOTE]
 >
->Dynamic Chat ondersteunt synchronisatie [Marketo native](https://developers.marketo.com/rest-api/lead-database/fields/list-of-standard-fields/){target="_blank"} en velden voor aangepaste personen en bedrijven.
+>Dynamic Chat ondersteunt synchronisatie [Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} en velden voor aangepaste personen en bedrijven.
 
 1. Klik in Mijn Marketo op de knop **[!UICONTROL Dynamic Chat]** tegel.
 

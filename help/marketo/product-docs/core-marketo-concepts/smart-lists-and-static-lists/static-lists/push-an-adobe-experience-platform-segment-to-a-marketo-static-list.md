@@ -3,7 +3,7 @@ description: Een Adobe Experience Platform-segment verplaatsen naar een statisch
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '608'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform op het Marketo
 
    >[!NOTE]
    >
-   >U kunt attributen van Experience Platform aan om het even welke attributen in kaart brengen die uw organisatie in Marketo Engage toegang heeft tot. Gebruik de [Beschrijf API-aanvraag](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} om kenmerkvelden op te halen waartoe uw organisatie toegang heeft.
+   >U kunt attributen van Experience Platform aan om het even welke attributen in kaart brengen die uw organisatie in Marketo Engage toegang heeft tot. Gebruik de [Beschrijf API-aanvraag](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om kenmerkvelden op te halen waartoe uw organisatie toegang heeft.
 
 1. Wijs de Achternaam en de Naam van het Bedrijf in kaart door te klikken **[!UICONTROL Add New Mapping]** en herhaalt u stap 15 tweemaal, waarbij u **[!UICONTROL lastName]** en vervolgens **[!UICONTROL companyName]**.
 

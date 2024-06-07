@@ -4,9 +4,9 @@ description: Predictieve inhoud voor webrijke media inschakelen - Marketo Docs -
 title: Voorspelende inhoud voor web-rijke media inschakelen
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aange
 
 >[!NOTE]
 >
->U wordt aangeraden meer dan vijf delen inhoud per categorie en per bron (e-mail, rich media, balk) in te schakelen voordat u de preventieve inhoud gaat testen en gebruiken. Meer inhoud geeft u een beter voorspelbaar resultaat.
+>U wordt aangeraden meer dan vijf delen inhoud per categorie en per bron (e-mail, rich media, balk) in te schakelen voordat u de voorspellende inhoud gaat testen en gebruiken. Meer inhoud geeft u een beter voorspelbaar resultaat.
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aange
 
 Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor veelzijdige media, kunt u afzonderlijke of meerdere inhoudsonderdelen inschakelen.
 
-1. Als u een afzonderlijke titel wilt inschakelen, klikt u op een titel om de editor te openen. Klik op Rijke media en controleer vervolgens de **Ingeschakeld voor voorspellende inhoud in rijke media** en klik op **Opslaan**.
+1. Als u een afzonderlijke titel wilt inschakelen, klikt u op een titel om de editor te openen. Klik op Rijke media en controleer vervolgens de knop **Ingeschakeld voor voorspellende inhoud in rijke media** en klik op **Opslaan**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
@@ -47,14 +47,14 @@ Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor 
 
 ## De JavaScript-code aanpassen en in uw website insluiten  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Verwijs naar de documentatie voor het Rich Media Aanbeveling malplaatje [op de Marketo Developers-website](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
+Verwijs naar de documentatie voor het Rich Media Aanbeveling malplaatje [op de Marketo Developers-site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
 
 Plak de JavaScript-code in uw website op de locatie waar u de sjabloon wilt weergeven.
 
 **Sjabloonvoorbeelden**
 
-* Sjabloon1: Drie horizontale inhoudsonderdelen met afbeeldingen, koptekst en beschrijving
-* Sjabloon2: Drie verticale inhoudsonderdelen met afbeeldingen, koptekst en beschrijving
+* Template1: Drie horizontale inhoudsstukken met beelden, kopbal, en beschrijving
+* Template2: Drie verticale inhoudsonderdelen met afbeeldingen, koptekst en beschrijving
 
 Hier is een voorbeeld van Rich Media Recommendation Template1:
 

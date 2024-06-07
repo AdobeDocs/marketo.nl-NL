@@ -4,7 +4,7 @@ description: "Toevoegen [!DNL Munchkin] Code bijhouden op uw website - Marketo D
 title: "Toevoegen [!DNL Munchkin] Code volgen op uw website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: bb9593ab500d57127f22b14757688d7521661e38
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Aangepaste JavaScript-trackingcode voor Marketo, genaamd [!DNL Munchkin], volgt 
 
    >[!TIP]
    >
-   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [Meer informatie](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"}.
+   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [Meer informatie](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}.
 
 ## Trackingcode toevoegen bij gebruik van meerdere werkruimten {#add-tracking-code-when-using-multiple-workspaces}
 

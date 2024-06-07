@@ -4,9 +4,9 @@ description: Aangepaste Marketo-objecten maken - Marketo Docs - Productdocumenta
 title: Aangepaste Marketo-objecten maken
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '619'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 >[!NOTE]
 >
->U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie  [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie .
+>U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie  [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie .
 
 >[!NOTE]
 >
@@ -49,9 +49,9 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en **[!UICONTROL Show in Lead Detail]** schuifregelaar.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en de **[!UICONTROL Show in Lead Detail]** schuifregelaar
 
-1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar om weer te geven **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
+1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar voor weergave **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -63,7 +63,7 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://developers.marketo.com/documentation/rest/).
+   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Een aangepast object maken voor een veel-op-veel-structuur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -91,9 +91,9 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en **[!UICONTROL Show in Lead Detail]** schuifregelaar.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en de **[!UICONTROL Show in Lead Detail]** schuifregelaar
 
-1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar om weer te geven **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
+1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar voor weergave **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,11 +103,11 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://developers.marketo.com/documentation/rest/).
+   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 De volgende stap is dat u een tussenliggend object maakt (zie hieronder). Maar daarvoor moet u een veld maken om er een koppeling naar te maken.
 
-## Een tussentijds object maken {#create-an-intermediary-object}
+## Een tussenliggend object maken {#create-an-intermediary-object}
 
 Gebruik een tussenliggend object om een aangepast object te koppelen aan personen of bedrijven. In dit voorbeeld, wordt het gebruikt om cursussen in uw cursusdouanevoorwerp met mensen of bedrijven in uw gegevensbestand te verbinden.
 
@@ -133,9 +133,9 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en [!UICONTROL Show in Lead Detail] schuifregelaar.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en de [!UICONTROL Show in Lead Detail] schuifregelaar
 
-1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
+1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar voor weergave **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 
@@ -147,4 +147,4 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 >
 >* [Aangepaste Marketo-objectvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
 >* [Aangepaste Marketo-objectkoppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

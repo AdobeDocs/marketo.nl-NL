@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360350
 description: Een aangepaste service maken voor gebruik met de ReST API - Marketo Docs - Productdocumentatie
-title: Een aangepaste service maken voor gebruik met de ReST-API
+title: Een aangepaste service maken voor gebruik met ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
 
-# Een aangepaste service maken voor gebruik met de ReST-API {#create-a-custom-service-for-use-with-rest-api}
+# Een aangepaste service maken voor gebruik met ReST API {#create-a-custom-service-for-use-with-rest-api}
 
 Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst willen tot stand brengen. Zo gaat het.
 
@@ -27,7 +27,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!TIP]
 >
->Raadpleeg de documentatie van onze ontwikkelaars voor meer informatie over de [ReST-API](https://developers.marketo.com/documentation/rest/). We hebben ook de [SOAP API](https://developers.marketo.com/documentation/soap/) als dat is wat je nodig hebt.
+>Raadpleeg de documentatie van onze ontwikkelaars voor meer informatie over de [REST API](https://developer.adobe.com/marketo-apis/). We hebben ook de [SOAP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) als dat is wat je nodig hebt.
 
 ## Aangepaste service maken {#create-custom-service}
 
@@ -43,7 +43,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Voer een **[!UICONTROL Display Name]** voor de dienst. Selecteer **[!UICONTROL API Only User]** [eerder gemaakt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Voer een **[!UICONTROL Display Name]** voor de dienst. Selecteer de **[!UICONTROL API Only User]** [eerder gemaakt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -81,4 +81,4 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!CAUTION]
 >
->Deze gegevens niet delen; het is de achterdeur naar je data . Houd het veilig!
+>Deel deze informatie niet; het is de achterdeur naar je gegevens. Houd het veilig!

@@ -4,9 +4,9 @@ description: Zichtbaarheid van een formulierveld dynamisch in-/uitschakelen - Ma
 title: De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,6 @@ En dat is het! Wanneer mensen dit formulier nu invullen en Verenigde Staten voor
 
 >[!IMPORTANT]
 >
->Het gedrag van formuliervelden werkt naadloos wanneer veldwaarden worden ingesteld/bijgewerkt met behulp van een aangepast script [API-functies](https://developers.marketo.com/javascript-api/forms/){target="_blank"} in Forms 2.0.
+>Het gedrag van formuliervelden werkt naadloos wanneer veldwaarden worden ingesteld/bijgewerkt met behulp van een aangepast script [API-functies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >Voorwaardelijke velden werken mogelijk niet zoals verwacht als veldwaarden worden gewijzigd door andere externe scripts dan de JavaScript-API van Forms 2.0.

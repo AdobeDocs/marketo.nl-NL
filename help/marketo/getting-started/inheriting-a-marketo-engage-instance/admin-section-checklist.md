@@ -3,7 +3,7 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 0%
@@ -281,7 +281,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td>Munchkin</td> 
    <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (geen Marketo Engage Landing Page)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Niet bijhouden</a> Browserverzoek ingeschakeld?</li>
-<li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? 
+<li>Is uw <a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html" target="_blank">Munchkin-API</a> geconfigureerd? 
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Als u documentatie mist over de plaats waar de code van de munchkin zich op uw website bevindt, kunt u alle URL's bekijken door een <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport over activiteiten op webpagina</a>.</li></td>
   </tr>
   <tr> 

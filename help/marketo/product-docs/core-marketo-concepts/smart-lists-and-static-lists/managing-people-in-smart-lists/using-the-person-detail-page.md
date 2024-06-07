@@ -4,9 +4,9 @@ description: De persoonlijke detailpagina gebruiken - Marketo Docs - Productdocu
 title: De detailpagina voor personen gebruiken
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 13%
 
 ---
@@ -60,7 +60,7 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 
 >[!NOTE]
 >
->U kunt ook informatie over opportunity zien [ingevoegd via API](https://developers.marketo.com/rest-api/lead-database/opportunities/) voor instanties die niet zijn gesynchroniseerd met een CRM.
+>U kunt ook informatie over opportunity zien [ingevoegd via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) voor instanties die niet zijn gesynchroniseerd met een CRM.
 
 ## Een veld bewerken {#editing-a-field}
 

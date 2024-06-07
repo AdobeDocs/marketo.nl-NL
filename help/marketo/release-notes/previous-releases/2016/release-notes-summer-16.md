@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - zomer 16 - Marketo Docs - productdocum
 title: Opmerkingen bij de release - zomer 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Eerder waren alle variabelen die in de sjablonen voor e-mail 2.0 werden opgegeve
 
 **Zoeken in code**
 
-Gebruik de nieuwe zoekfunctionaliteit om op efficiënte wijze inhoud in de code van uw e-mail te zoeken en te vervangen. Deze functionaliteit is ook beschikbaar in de E-mailsjablooneditor.
+Gebruik de nieuwe zoekfunctie om op efficiënte wijze inhoud in de e-mailcode te zoeken en te vervangen. Deze functionaliteit is ook beschikbaar in de E-mailsjablooneditor.
 
 ![](assets/2nd-screenshot.png)
 
@@ -100,16 +100,16 @@ Geef een vertraging op voor webcampagnes die moeten reageren op uw website.
 
 Analyses en aanbevelingen voor inhoud offline weergeven.
 
-## [API-ondersteuning voor e-maileditor 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [API-ondersteuning voor e-maileditor 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 Bestaande API&#39;s voor middelen, die voorheen alleen compatibel waren met e-mailberichten en sjablonen van versie 1.0, zijn nu ingeschakeld voor e-mailmiddelen van versie 2.0.
 
-## [Marketo Developers Site](https://developers.marketo.com/) {#marketo-developers-site}
+## [Marketo Developers Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nieuw en verbeterd!
 
 ## [Privacy-instellingen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketers kunnen privacy-instellingen gebruiken om te beslissen of ze bezoekers willen volgen met Munchkin en Web Personalization-functies. Het niveau van het volgen wordt gecontroleerd door browser te gebruiken niet het volgen plaatsen, een opt-out koekje, of een niet-specifieke IP. Deze methoden kunnen van invloed zijn op de waarde en functionaliteit van Marketo in bepaalde gebieden, maar als de markering niets verandert, blijft de Marketo-functionaliteit ongewijzigd.
+Marketers kunnen privacy-instellingen gebruiken om te beslissen of ze bezoekers willen volgen met Munchkin en Web Personalization-functies. Het niveau van het volgen wordt gecontroleerd door browser te gebruiken niet het volgen plaatsen, een opt-out koekje, of een niet-specifieke IP. Deze methoden kunnen van invloed zijn op de Marketo-waarde en -functionaliteit in specifieke gebieden, maar als de markeerteken niets verandert, blijft de Marketo-functionaliteit ongewijzigd.
 
 Dit onderdeel wordt geleidelijk aan over een periode van zes weken aan klanten vrijgegeven. Neem contact op met Marketo Support als je dit meteen nodig hebt.

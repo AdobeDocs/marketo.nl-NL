@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - Winter '17 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - Winter '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Bij Standaard afstemmen worden alleen e-mailadressen gebruikt, maar bij nieuwe g
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API voor importeren van aangepaste objecten](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API voor importeren van aangepaste objecten](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 Deze API biedt een snellere interface voor het synchroniseren van aangepaste objecten in Marketo. U kunt CSV-, TSV- of SSV-spreadsheetbestanden als aangepaste objecten importeren in Marketo.
 
@@ -81,7 +81,7 @@ Er is een verbeterde bewerkervaring en lay-out waarmee de voorbereiding van inho
 
 URL en metagegevens van afbeeldingen worden nu gebruikt in het proces voor automatische detectie van inhoud.
 
-## [Verbeteringen voor SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Verbeteringen voor SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Ontwikkelaars hebben nu extra controle over de levering van pushberichten met toevoeging van een nieuwe SDK API-aanroep waarmee ontwikkelaars pushtokens kunnen verwijderen.
 

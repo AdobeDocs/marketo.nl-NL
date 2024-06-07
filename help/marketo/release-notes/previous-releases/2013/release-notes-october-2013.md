@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - oktober 2013 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Oktober 2013 {#release-notes-october}
+# Opmerkingen bij de release: oktober 2013 {#release-notes-october}
 
 De volgende functies zijn opgenomen in de release van oktober 2013.
 
@@ -21,7 +21,7 @@ De volgende functies zijn opgenomen in de release van oktober 2013.
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.com](https://developers.marketo.com) is voor ontwikkelaars die integratie in Marketo willen bouwen. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Een Java SDK is ook beschikbaar op [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developer.adobe.com](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) is voor ontwikkelaars die integratie in Marketo willen bouwen. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Een Java SDK is ook beschikbaar op [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Bijgewerkte BrightStor Event Adapter {#updated-brighttalk-event-adapter}
 

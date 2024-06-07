@@ -4,9 +4,9 @@ description: Opmerkingen bij de release -December 2014 - Marketo Docs - Productd
 title: Release-aantekeningen -december 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van december 2014. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
 
-## Verkooprapporten {#sales-insight-reports}
+## Verkoop Inzichtsrapporten {#sales-insight-reports}
 
 De [E-mailprestatierapport voor verkoopinzicht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kunt u e-mailgegevens bekijken per e-mail en per verkoper. Deze biedt ondersteuning voor e-mails die worden verzonden via Salesforce, Microsoft Dynamics, de Outlook-plug-in en de Gmail-plug-in.
 
@@ -53,7 +53,7 @@ Koppelingen in e-mailscripts worden nu bijgehouden en beschikbaar in het rapport
 
 ## Instelling codering token {#token-encoding-setting}
 
-We hebben een nieuwe beveiligingsfunctie voor het automatisch HTML coderen van tokens ontwikkeld, die in maart 2015 standaard wordt ingeschakeld. Schakel deze functie in Veldbeheer tot die tijd in om het gedrag te testen. Alle lood- en bedrijfstokens worden gecodeerd wanneer deze in e-mails of landingspagina&#39;s worden ingevoegd. Er zijn ook opties beschikbaar voor afzonderlijke velden.
+We hebben een nieuwe beveiligingsfunctie voor het automatisch HTML coderen van tokens ontwikkeld, die standaard in maart 2015 wordt ingeschakeld. Schakel deze functie in Veldbeheer tot die tijd in om het gedrag te testen. Alle lood- en bedrijfstokens worden gecodeerd wanneer deze in e-mails of landingspagina&#39;s worden ingevoegd. Er zijn ook opties beschikbaar voor afzonderlijke velden.
 
 ## Nieuwe aanroepen van ReST API {#new-rest-api-calls}
 
@@ -65,13 +65,13 @@ Drie nieuwe aanroepen voor de API voor leidende informatie en activiteiten:
 
 ・ Lead samenvoegen
 
-Alle details zijn beschikbaar na de release op [developers.marketo.com](https://developers.marketo.com/)
+Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Verbeterde compatibiliteit met Munchkin JavaScript {#munchkin-javascript-compatibility-enhancements}
 
-Er zijn enkele kleine verbeteringen aangebracht in Munchkin om ervoor te zorgen dat deze functie snel blijft laden en naar behoren functioneert in gevallen waarin andere JavaScript op de pagina wordt gebruikt.
+We hebben Münchkin enkele kleine verbeteringen aangebracht om ervoor te zorgen dat deze snel blijft laden en naar behoren functioneert in gevallen waarin andere JavaScript op de pagina wordt gebruikt.
 
-De introductie wordt medio december gestart en de komende maanden voortgezet.
+De introductie zal medio december worden gestart en de komende maanden worden voortgezet.
 
 ## Opbrengstverkenner - Geüpgraded look and Feel {#revenue-explorer-upgraded-look-and-feel}
 
@@ -81,16 +81,16 @@ De introductie wordt medio december gestart en de komende maanden voortgezet.
 
 ![](assets/image2014-12-5-11-3a8-3a36.png)
 
-## RTP: Module lijst met benoemde accounts {#rtp-named-account-list-module}
+## RTP: Benoemde Module van de Lijst van de Rekening {#rtp-named-account-list-module}
 
-Beheer en controleer uw belangrijkste hoog-rendementsrekeningen op de nieuwe Benoemde pagina van Rekeningen. Upload nieuwe lijsten van genoemde rekeningen om deze organisaties te identificeren en te richten. We hebben het proces geautomatiseerd, zodat u meer controle en flexibiliteit hebt om uw marketingplannen op basis van account te implementeren en uw belangrijkste accounts op verschillende kanalen (web en reclame) kunt afstemmen.
+Beheer en controleer uw belangrijkste hoog-rendementsrekeningen op de nieuwe Benoemde pagina van Rekeningen. Upload nieuwe lijsten van genoemde rekeningen om deze organisaties te identificeren en te richten. We hebben het proces geautomatiseerd, zodat u meer controle en flexibiliteit hebt om uw marketingplannen op basis van account te implementeren en uw belangrijkste accounts op verschillende kanalen (web en reclame) kunt plaatsen.
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
 ![](assets/image2014-12-5-11-3a9-3a10.png)
 
-## RTP: Schuivend effect voor campagnes in zones {#rtp-sliding-effect-for-in-zone-campaigns}
+## RTP: Schuivend effect voor in Gebied campagnes {#rtp-sliding-effect-for-in-zone-campaigns}
 
-Er is een nieuw effect Schuivend toegevoegd voor InZone-campagnes, zodat uw persoonlijke inhoud tijdens het laden van de pagina op de juiste plaats kan worden geplaatst.
+We hebben een nieuw effect Schuivend toegevoegd voor In Zone-campagnes, zodat uw persoonlijke inhoud tijdens het laden van de pagina op de juiste plaats kan worden geplaatst.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)

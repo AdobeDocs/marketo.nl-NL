@@ -4,9 +4,9 @@ description: Verkoopoverzicht voor niet-native Salesforce-integratie - Marketo D
 title: Verkoopoverzicht voor niet-native Salesforce-integratie
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1377'
+source-wordcount: '1230'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
 
 >[!PREREQUISITES]
 >
->* De functie &#39;Niet-native MSI&#39; die is ingeschakeld voor uw Marketo-instantie voordat u MSI instelt. Als dit niet het geval is en u de functie al hebt aangeschaft, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Als u deze functie nog niet hebt aangeschaft, neemt u contact op met het Adobe-accountteam (uw accountmanager).
+>* De functie &#39;Niet-native MSI&#39; die is ingeschakeld voor uw Marketo-instantie voordat u MSI instelt. Als dit niet het geval is en u de functie al hebt aangeschaft, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Neem contact op met het accountteam van de Adobe (uw accountmanager) als u deze functie nog niet hebt aangeschaft.
 >* Een Salesforce-account met [MSI-pakket instellen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* Marketo REST API [correct ingesteld](https://developers.marketo.com/rest-api/){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
+>* MARKETO REST API [met succes ingesteld](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lezen [dit blogbericht](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} om inzicht te krijgen in het object en de relaties.
 >* Stel Salesforce-objecten in om de algemeen unieke id weer te geven voor 18 hoofdletters en kleine letters in plaats van voor 15 hoofdletters en kleine letters.
 
@@ -53,8 +53,8 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody> 
    </table>
 
-   * API-documentatie voor Verkooppersoon: [https://developers.marketo.com/rest-api/lead-database/sales-persons/](https://developers.marketo.com/rest-api/lead-database/sales-persons/){target="_blank"}
-   * API-documentatie voor het synchroniseren van de verkoper: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Personen/syncSalesPersonenUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Sales_Personen/syncSalesPersonenUsingPOST){target="_blank"}
+   * API-documentatie voor Verkooppersoon: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * API-documentatie voor het synchroniseren van de verkoper: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchroniseer de Salesforce-accounts met Marketo.
 
@@ -85,8 +85,8 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody> 
    </table>
 
-   * API-documentatie voor bedrijven: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/){target="_blank"}
-   * API-documentatie voor synchroniserende bedrijven: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST){target="_blank"}
+   * API-documentatie voor bedrijven: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API-documentatie voor synchroniserende bedrijven: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synchroniseer de Salesforce-leads/contactpersonen met Marketo.
 
@@ -122,8 +122,8 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody> 
    </table>
 
-   * API-documentatie voor leads: [https://developers.marketo.com/rest-api/lead-database/leads/](https://developers.marketo.com/rest-api/lead-database/leads/)
-   * API-documentatie voor het synchroniseren van leads: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/syncLeadUsingPOST)
+   * API-documentatie voor leads: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * API-documentatie voor het synchroniseren van leads: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synchroniseer Salesforce Opportunity op Marketo.
 
@@ -159,8 +159,8 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody> 
    </table>
 
-   * API-documentatie voor Opportunity: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * API-documentatie voor synchronisatiemogelijkheden: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST){target="_blank"}
+   * API-documentatie voor Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-documentatie voor synchronisatiemogelijkheden: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer Salesforce-contactrollen naar Marketo.
 
@@ -175,7 +175,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     <tbody> 
      <tr> 
       <td><strong>Marketo Opportunity Role Field</strong></td> 
-      <td><strong>Salesforce-veld Contactrol</strong></td> 
+      <td><strong>Salesforce-veld voor contactrol</strong></td> 
       <td><strong>Beschrijving</strong></td> 
      </tr> 
      <tr> 
@@ -196,8 +196,8 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody> 
    </table>
 
-   * API-documentatie voor Opportunity: [https://developers.marketo.com/rest-api/lead-database/opportunities/](https://developers.marketo.com/rest-api/lead-database/opportunities/){target="_blank"}
-   * API-documentatie voor synchronisatiemogelijkheden: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Opportunity/syncOpportunityUsingPOST){target="_blank"}
+   * API-documentatie voor Opportunity: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API-documentatie voor synchronisatiemogelijkheden: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer de velden Laatste interessant moment/MSI-score naar SFDC.
 
@@ -224,7 +224,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      </tr> 
      <tr> 
       <td>msiLastInterestingMomentType</td> 
-      <td>Label: Type laatst interessant moment<br>Naam: Last_Interesting_Moment_Type__c</td> 
+      <td>Label: type laatste interessant moment<br>Naam: Last_Interesting_Moment_Type__c</td> 
       <td>Type van het laatste interessante moment voor de lead</td> 
      </tr> 
      <tr> 
@@ -234,32 +234,32 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      </tr> 
      <tr> 
       <td>msiLastInterestingMomentDesc</td> 
-      <td><p>Label: Beschrijving van laatste interessant moment</p><p>Naam: Last_Interesting_Moment_Desc__c</p></td> 
+      <td><p>Label: beschrijving laatste interessant moment</p><p>Naam: Last_Interesting_Moment_Desc__c</p></td> 
       <td>Beschrijving van het laatste interessante moment voor de lead</td> 
      </tr> 
      <tr> 
       <td>msiLastInterestingMomentSource</td> 
-      <td><p>Label: Laatste interessante mompbron</p><p>Naam: Last_Interesting_Moment_Source__c</p></td> 
+      <td><p>Label: bron van laatste interessant moment</p><p>Naam: Last_Interesting_Moment_Source__c</p></td> 
       <td>Bron van het laatste interessante moment voor de lead</td> 
      </tr> 
      <tr> 
       <td>prioriteit</td> 
-      <td><p>Label: Betrokkenheid</p><p>Naam: Priority_c</p></td> 
+      <td><p>Label: betrokkenheid</p><p>Naam: Prioriteit__c</p></td> 
       <td>Prioriteit van de lead</td> 
      </tr> 
      <tr> 
       <td>relativeUrency</td> 
-      <td><p>Label: Relatieve urgentiewaarde</p><p>Naam: Urence_Value_c</p></td> 
+      <td><p>Label: relatieve urgentiewaarde</p><p>Naam: Urence_Value__c</p></td> 
       <td>Relatieve urgentie van de leider</td> 
      </tr> 
      <tr> 
       <td>relativeScoring</td> 
-      <td><p>Label: Relatieve score</p><p>Naam: Relative_Score_Value__c</p></td> 
+      <td><p>Label: relatieve score</p><p>Naam: Relative_Score_Value__c</p></td> 
       <td>Relatieve score van de lead</td> 
      </tr> 
     </tbody> 
    </table>
 
-   Documentatie voor de LEIDREST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+   Documentatie voor de LEIDREST API: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}.
 
-   Een correct gebruik van de externe velden is van wezenlijk belang voor een geslaagde niet-native synchronisatie. Als u gegevens in sommige weergaven niet ziet, is het waarschijnlijk dat een bepaald veld niet correct is gesynchroniseerd. Bijvoorbeeld, als de activiteiten van een lood en de interessante momenten niet verschijnen wanneer het kijken in MSI widget onder hun Rekening, is het waarschijnlijk dat of het bedrijf van de lood of de Rekening correct werd gesynchroniseerd. Als u een GET-aanvraag voor deze lead uitvoert terwijl u de externe velden opgeeft, kunt u controleren of de lead correct is gesynchroniseerd. Bovendien moet de e-mail voor de externe verkoper in Marketo overeenkomen met de e-mail voor die gebruiker in Salesforce. Gegevens worden mogelijk niet weergegeven op het tabblad Marketo in Salesforce als de e-mails niet overeenkomen.
+   Een correct gebruik van de externe velden is van wezenlijk belang voor een geslaagde, niet-native synchronisatie. Als u gegevens in sommige weergaven niet ziet, is het waarschijnlijk dat een bepaald veld niet correct is gesynchroniseerd. Bijvoorbeeld, als de activiteiten van een lood en de interessante momenten niet verschijnen wanneer het kijken in MSI widget onder hun Rekening, is het waarschijnlijk dat of het bedrijf van de lood of de Rekening correct werd gesynchroniseerd. Als u een GET-aanvraag voor deze lead uitvoert terwijl u de externe velden opgeeft, kunt u controleren of de lead correct is gesynchroniseerd. Bovendien moet de e-mail voor de externe verkoper in Marketo overeenkomen met de e-mail voor die gebruiker in Salesforce. Gegevens worden mogelijk niet weergegeven op het tabblad Marketo in Salesforce als de e-mails niet overeenkomen.
