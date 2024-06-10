@@ -4,9 +4,9 @@ description: Google Customer Match toevoegen als een LaunchPoint-service - Marke
 title: Google Customer Match toevoegen als een opstartpuntservice
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # Google Customer Match toevoegen als een opstartpuntservice {#add-google-customer-match-as-a-launchpoint-service}
 
 Met deze integratie kunt u een publiek van het Marketo Engage naar Google sturen om te worden gericht gebruikend Google AdWords, evenals herdoelpubliek over YouTube, Onderzoek, en Gmail.
-
->[!IMPORTANT]
->
->Vanwege de recente update van de Google Ads API is de synchronisatiefunctionaliteit tussen Adobe en Google tijdelijk uitgeschakeld. Adobe controleert momenteel de Google-vereisten met betrekking tot de update.
 
 >[!NOTE]
 >
