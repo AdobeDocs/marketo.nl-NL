@@ -4,7 +4,7 @@ description: Overzicht E-mailsjabloonkiezer - Marketo Docs - Productdocumentatie
 title: Overzicht van de E-mailsjabloonkiezer
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer u [een e-mail maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), je hebt verschillende gratis sjablonen waaruit je kunt kiezen. U kunt ook uw eigen sjabloon maken en deze opslaan voor toekomstig gebruik.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **Naam** wordt de naam van het e-mailbericht dat u maakt op basis van de sjabloon, niet de sjabloon zelf. **Beschrijving** geldt ook voor de e-mail en is optioneel.
 
@@ -25,9 +25,9 @@ Als uw e-mail van essentieel belang is en u wilt het Communicatie Limieten omzei
 
 ![](assets/three-2.png)
 
-**Eenvoudige sjablonen** bevat een verzameling kant-en-klare responsieve e-mailsjablonen. U kunt ze ongewijzigd gebruiken of ze naar wens aanpassen.
+**Eenvoudige sjablonen** bevat een verzameling kant-en-klare e-mailsjablonen. U kunt ze ongewijzigd gebruiken of ze naar wens aanpassen.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **Mijn sjablonen** bestaat uit alle sjablonen die u hebt gemaakt. U hebt mogelijk ook mappen.
 
