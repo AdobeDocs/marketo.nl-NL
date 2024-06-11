@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '277'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
      <tr> 
    <td><strong>Sjablonen voor interactieve webinars</strong>: Marktdeelnemers hebben nu de mogelijkheid aangepaste sjablonen voor ruimtelay-outs te maken in interactieve webinars.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Sjablonen</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
      <tr> 
    <td><strong>Overgenomen velden in Forms</strong>: De gegevensbron die wordt gebruikt om afgeleide velden te vullen wanneer een persoon via form-fill wordt gemaakt zonder eerdere webactiviteit, is bijgewerkt en gebruikt dezelfde gegevensbron als andere methoden voor het verzamelen van personen. De gegevens in het afgeleide veld zijn nu consistent in alle verzamelingspunten.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
  </tbody> 
 </table>
