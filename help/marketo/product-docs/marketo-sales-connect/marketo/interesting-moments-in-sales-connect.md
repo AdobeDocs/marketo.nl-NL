@@ -4,9 +4,9 @@ description: Interesserende momenten in Sales Connect - Marketo-documenten - Pro
 title: Interesserende momenten in Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,12 @@ Interesserende momenten zijn de sleutel tot communicatie met uw verkoopteam via 
 >[!AVAILABILITY]
 >
 >Deze zijn beschikbaar voor [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) en alleen Marketo Sales Connect-klanten.
+
+>[!PREREQUISITES]
+>
+>* U moet een [verbinding met de Salesforce CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* U moet de leider of de contacteigenaar in Salesforce zijn
+>* U moet toegang hebben tot [toegang verlenen tot de verbinding met het Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 
 ## Wat is een interessant moment? {#what-is-an-interesting-moment}
 
@@ -41,7 +47,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Schrijf een bericht naar uw verkoopteam in de **Beschrijving** een gebied dat verklaart waarom deze actie van belang is .
+1. Schrijf een bericht naar uw verkoopteam in de **Beschrijving** een terrein dat verklaart waarom deze actie van belang is .
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
