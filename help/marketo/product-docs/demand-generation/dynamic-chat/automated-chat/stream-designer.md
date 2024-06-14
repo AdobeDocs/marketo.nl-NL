@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1187'
+source-wordcount: '1204'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het pra
  <tr>
   <td style="width:25%"><strong>Voorwaardelijke vertakking</strong></td>
   <td>U kunt vertakkingen maken in uw dialoogvenster op basis van verschillende voorwaarden. Verschillende inhoud presenteren aan verschillende personen in dezelfde dialoog op basis van de kenmerken van leads en bedrijven in Marketo Engage.</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Conversatievloeistroom</strong></td>
+  <td>Verstrek meerdere stappen in een stroom binnen uw Dialogen door de Conversationele kaart van de Stroom te gebruiken.</td>
  </tr>
 </table>
 

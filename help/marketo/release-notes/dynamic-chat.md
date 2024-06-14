@@ -3,9 +3,9 @@ description: Opmerkingen bij de release Dynamic Chat - Marketo Docs - Productdoc
 title: Opmerkingen bij de release Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 De versies van de Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
 
 De standaardpagina Opmerkingen bij de release voor Marketo Engage [hier te vinden](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Release juni 2024 {#june-release}
+
+**Releasedatum: 6 juni 2024**
+
+### Conversale stroomkaart {#conversational-flow-card}
+
+Gestroomlijnd veelvoudige stappen in een stroom binnen uw Dialogen door de Conversationele kaart van de Stroom te gebruiken.
+
+Voorbeeld: Als uw doel is registraties voor uw webinar via veelvoudige Dialogs te drijven, zou u de zelfde stroom over alle Dialogen moeten opnieuw creëren die dat doel hebben. En als u om het even welk detail moet bijwerken, zou u elke individuele Dialoog één voor één moeten uitgeven. Dat is niet langer het geval, dankzij de Conversational Flow Card.
+
+Naast het opnieuw gebruiken van stromen over veelvoudige Dialogen, kunt u de zelfde overgangsstroom ook gebruiken om door andere kanalen, zoals vormen en het Landing Pagina&#39;s teweeg te brengen.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Gebruiksbeperkingen {#usage-limits}
+
+Op de pagina Gebruikslimieten wordt belangrijke informatie weergegeven, zoals pakketdetails en de status van uw gebruikslimiet.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## Release mei 2024 {#may-release}
 
