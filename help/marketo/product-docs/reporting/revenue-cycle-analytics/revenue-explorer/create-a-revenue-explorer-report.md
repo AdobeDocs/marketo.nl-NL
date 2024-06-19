@@ -4,9 +4,9 @@ description: Een rapport van Revenue Explorer maken - Marketo Docs - Productdocu
 title: Een rapport van de inkomstenverkenner maken
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 >[!AVAILABILITY]
 >
 >Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+
+>[!IMPORTANT]
+>
+>De prullenmand in Revenue Cycle Explorer is tijdelijk verborgen vanwege een fout. We werken momenteel aan een oplossing en uw bestanden zijn veilig. Neem contact op met [Ondersteuning voor Adobe](https://nation.marketo.com/t5/support/ct-p/Support) als er bestanden zijn die u wilt herstellen.
 
 1. Ga naar de **Ontdekkingsreiziger voor inkomsten** gebied.
 
