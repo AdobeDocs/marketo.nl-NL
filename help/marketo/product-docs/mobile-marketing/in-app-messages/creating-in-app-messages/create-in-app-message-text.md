@@ -4,9 +4,9 @@ description: Berichttekst in de app maken - Marketo Docs - Productdocumentatie
 title: Berichttekst in de app maken
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Berichttekst in de app maken {#create-in-app-message-text}
 
 Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
+
+>[!CAUTION]
+>
+>We raden u aan geen emojis in uw tekst te gebruiken omdat deze momenteel niet volledig worden ondersteund.
 
 1. Klik op de hoofdtekst om deze inline te bewerken.
 
@@ -29,25 +33,25 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    >[!CAUTION]
    >
-   >Als u een te grote tekstgrootte hebt, kan de inhoud langer worden dan de maximaal drie zichtbare tekstregels.
+   >Als u een te grote tekstgrootte hebt, kan het zijn dat de inhoud de maximaal drie zichtbare tekstregels overschrijdt.
 
 1. Kies een optionele tekststijl voor de accenten: **Vet**, _Cursief_ of Onderstrepen.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
-1. Tekstuitlijning kiezen: Links, Gecentreerd, Rechts. Gecentreerd is de standaardinstelling.
+1. Kies tekstuitlijning: Links, Centreren, Rechts. Gecentreerd is de standaardinstelling.
 
    ![](assets/image2016-5-6-10-3a18-3a45.png)
 
    >[!NOTE]
    >
-   >Het tekstlettertype dat in de advertentie wordt weergegeven, is het standaardlettertype voor elk platform: Helvetica voor Apple en Roboto voor Android
+   >Het tekstlettertype dat wordt weergegeven in de advertentie, is het standaardlettertype voor elk platform: Helvetica voor Apple en Roboto voor Android
 
 1. Schakel het selectievakje in om de handeling Teksttik te selecteren.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
-1. Selecteer tikactie voor elk platform: Apple of Android.
+1. Selecteer tikken voor elk platform: Apple of Android.
 
    ![](assets/image2016-5-6-10-3a22-3a12.png)
 
