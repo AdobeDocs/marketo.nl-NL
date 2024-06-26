@@ -4,9 +4,9 @@ title: Verwacht gedrag
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: fb77478cdcd2b455e9f2359e16aca50143ce492c
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ In dit artikel vindt u informatie over het verwachte gedrag dat is gekoppeld aan
    * Prognoses waarschijnlijkheid op loodniveau - [!DNL Sky/Classic]
    * Doelstellingen en reeksspatiëring - [!DNL Sky] alleen
    * Inzichten en aanbevelingen - [!DNL Sky] alleen
-* [Initiële activering](/help/marketo/product-docs/marketo-sky/getting-started-with-predictive-audiences.md) neemt **24-48 uur** voor alle processen om te voltooien nadat PA is toegelaten. Alle voorspellende soorten publiek en voorspellende filters worden weergegeven in de interface, maar het kan tot 24 uur duren voordat deze functies beginnen te werken.
+* Initiële activering **24-48 uur** voor alle processen om te voltooien nadat PA is toegelaten. Alle voorspellende soorten publiek en voorspellende filters worden weergegeven in de interface, maar het kan tot 24 uur duren voordat deze functies beginnen te werken.
 * **Er worden alleen voorspellingen gegenereerd voor nieuwe campagnes die worden gemaakt nadat de functie is geactiveerd.**
 
 **Er zijn enkele aanvullende overwegingen die specifiek zijn voor voorspellende filters**:
@@ -38,15 +38,15 @@ In dit artikel vindt u informatie over het verwachte gedrag dat is gekoppeld aan
 * Predictieve filters zijn niet beschikbaar voor triggercampagnes.
 * Om een slimme campagne te kunnen uitvoeren, moeten waarschijnlijke filters worden gebruikt in combinatie met andere gewone filters.
 * De functie Opgeslagen regels is niet beschikbaar voor gebruik in campagnes die voorspellende filters bevatten.
-* U kunt **maximaal 5** voorspellende filters in een slimme lijst.
+* U kunt **maximaal 5** voorspellende filters in een slimme lijst.
 * Predictieve filters kunnen een **maximaal 1 miljoen gekwalificeerde leads**.
-* U kunt **maximaal 50 actieve programma&#39;s** met voorspellende filters. Een actief programma is elk programma dat voorspellende filters gebruikt en minstens één keer gepland is.
+* U kunt **maximaal 50 actieve programma&#39;s** met voorspellende filters. Een actief programma is elk programma dat voorspellende filters gebruikt en minstens één keer gepland is.
 
 ## Wanneer zijn geplande registraties niet beschikbaar?
 
 Geprojecteerde registraties zijn niet beschikbaar in de volgende gebruiksgevallen:
 
-* als het programma is gemaakt voordat het publiek met een voorspellend publiek werd toegevoegd
+* als het programma is gemaakt voordat het publiek met voorspellingen werd toegevoegd
 * wanneer de status van het programma niet aan systeemstatussen in kaart wordt gebracht
 * wanneer er geen leden van het programma zijn
 * wanneer er in de afgelopen zes maanden geen vergelijkbare programma&#39;s zijn geweest die aan de vereiste criteria voldoen
