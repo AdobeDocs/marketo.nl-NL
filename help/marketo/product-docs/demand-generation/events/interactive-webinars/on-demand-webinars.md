@@ -2,9 +2,10 @@
 description: Webinars op aanvraag - Marketo Docs - Productdocumentatie
 title: Webinars op aanvraag
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ On-Demand Webinars legt de leads vast die voor uw gebeurtenis zijn geregistreerd
 
 Met de Webinar Joining URL die vóór de gebeurtenis met de geregistreerde personen is gedeeld, kunt u de opname op aanvraag bekijken. Wanneer een registrant die de livegebeurtenis niet heeft bijgewoond (bijvoorbeeld een lead met de status &quot;No-Show&quot; van het programma), op de Webinar Joining URL klikt, verandert de status van dat lead van &quot;No-Show&quot; in &quot;Attended On-Demand&quot;. De status van het programma van de leads die de gebeurtenis live hebben bekeken en de status &quot;Bijgewoond&quot; hebben, wordt niet gewijzigd als ze besluiten de URL voor deelname te bezoeken en de opname op aanvraag te bekijken.
 
-Adobe Connect, de technologie die interactieve webinars aandrijft, volgt het bezoek en de wachttijd met betrekking tot de leads die de opname bekijken, en rapporteert de informatie dagelijks aan Marketo. De opname is 30 dagen na de gebeurtenis beschikbaar op de Joining-URL. De duur kan niet worden gewijzigd.
+Adobe Connect, de technologie die interactieve webinars aandrijft, volgt het bezoek en de wachttijd met betrekking tot de leads die de opname bekijken, en rapporteert de informatie dagelijks aan het Marketo Engage. 30 dagen na de gebeurtenis wordt het bijhouden van webinars op aanvraag stopgezet. De duur kan niet worden gewijzigd.
 
-Marketo biedt de statistieken van de bewaking van On-Demand Webinars op het tabblad Dashboard met behulp van de volgende widgets:
+Marketo Engage verstrekt de horloge statistieken voor Webinars op bestelling op het lusje van het Dashboard met behulp van de volgende widgets:
 
 * Samenvatting op aanvraag: Dit biedt een overzicht van het aantal bezoekers (geen presentaties) dat de opname na de gebeurtenis op een bepaalde dag of dagen bekijkt
 
