@@ -3,9 +3,9 @@ description: E-mailverbindingsmogelijkheden - Marketo Docs - Productdocumentatie
 title: Throtting van e-mailverbinding
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,7 @@ ht-degree: 0%
 
 Door uw Sales Connect-account te integreren en via Exchange- of Gmail-providers te verzenden, biedt u een gestroomlijnde installatie en optimaliseert u de e-mailleverbaarheid voor 1:1-verkoopcommunicatie. Om systemen echter gezond te houden en accounts veilig te houden, dwingen Gmail en Exchange beperkingen in het verzenden van e-mail af. Deze limieten kunnen naar eigen goeddunken worden verhoogd of verlaagd.
 
-## E-mailverbindingsThrottling (bèta) {#email-connection-throttling-beta}
-
->[!AVAILABILITY]
->
->Deze functie staat momenteel in bètaversie. Neem contact op met het accountteam van Adobe (uw accountmanager) als u wilt deelnemen.
+## Verbindingsthrottling via e-mail (Beta) {#email-connection-throttling-beta}
 
 Met e-mailverbindingsthrottling kunnen beheerders van Sales Connect de verzendsnelheid van e-mailberichten configureren wanneer ze Gmail of Exchange als leveringskanaal gebruiken, zodat de snelheid waarmee e-mails worden doorgegeven aan de leverancier van het leveringskanaal de afgedwongen limieten niet overschrijdt.
 
@@ -41,7 +37,7 @@ Wanneer de limieten consequent worden overschreden, kan dit soms worden beschouw
 
    ![](assets/email-connection-throttling-2.png)
 
-1. Klik op de draaikaart voor de e-mailverbinding aan de rechterkant op de knop **E-mailrotatie inschakelen** schuifregelaar.
+1. Klik op de draaikaart voor de e-mailverbinding aan de rechterkant op de knop **E-mailrotatie inschakelen** schuifregelaar
 
    ![](assets/email-connection-throttling-3.png)
 

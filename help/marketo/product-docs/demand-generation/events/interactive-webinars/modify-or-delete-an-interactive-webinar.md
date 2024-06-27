@@ -3,7 +3,7 @@ description: Een interactief webinar wijzigen of verwijderen - Marketo Docs - Pr
 title: Een interactief webinar wijzigen of verwijderen
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een interactief webinar wijzigen of verwijderen {#modify-or-delete-an-interactive-webinar}
 
-Leer hoe te om veranderingen in uw Interactief Webinar aan te brengen.
+Leer hoe u wijzigingen aanbrengt in uw interactief webinar.
 
 ## Een interactief webinar wijzigen {#modify-an-interactive-webinar}
 
@@ -64,7 +64,7 @@ Leer hoe te om veranderingen in uw Interactief Webinar aan te brengen.
    >
    >U kunt ook met de rechtermuisknop op het gebeurtenisprogramma in de boomstructuur klikken en **Klonen** vanaf daar.
 
-1. Geef het gekloonde programma een naam, stel de werkruimte en het doel in (als u het programma ergens anders wilt laten wonen) en klik op **Opslaan**.
+1. Geef het gekloonde programma een naam, stel de Workspace en de Bestemming in (als u het programma ergens anders wilt laten wonen) en klik op **Opslaan**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
