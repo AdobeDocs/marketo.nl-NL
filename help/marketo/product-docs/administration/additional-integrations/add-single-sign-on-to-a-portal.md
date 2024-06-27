@@ -4,9 +4,9 @@ description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdo
 title: Eén aanmelding toevoegen aan een portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
+source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 >[!NOTE]
 >
->Ben je [!DNL Microsoft Azure] gebruiker? Bekijk hun [integratiezelfstudie](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. FYI, er is een typefout in Stap 5c van hun zelfstudie. Gebruik `https://<munchkinid>.mktoweb.com`, **_niet_** `https://<munchkinid>.marketo.com`.
+>Ben je [!DNL Microsoft Azure] gebruiker? Bekijk hun [integratiezelfstudie](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. FYI, er is een typefout in Stap 5c van hun zelfstudie. Stel de staat Relais in op `https://<munchkinid>.mktoweb.com`, **_niet_** `https://<munchkinid>.marketo.com`.
 
 ## Hoe te om het Verzoek te verzenden {#how-to-send-the-request}
 
