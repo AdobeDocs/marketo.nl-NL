@@ -3,10 +3,10 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 2%
+source-wordcount: '465'
+ht-degree: 1%
 
 ---
 
@@ -32,9 +32,42 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <th style="width:25%">Documentatie</th>
   </tr>
      <tr> 
+   <td><strong>Betrokkenheidsdashboard voor interactieve webinars</strong>: Verkrijg een geaggregeerde weergave van de webinaire prestaties en een uitgebreide weergave van de betrokkenheid van elke deelnemer tijdens het webinar, zodat u kunt bepalen wat als doel kan dienen met de tools voor het ordenen van Marketo's Engage.</td> 
+    <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Ruimtebeheer voor interactieve webinars</strong>: Toegang tot afzonderlijke ruimten die zijn gemaakt (en breng zo nodig wijzigingen aan), en toegang tot de inhoud en opname (en wis deze indien nodig om de opslag te optimaliseren).</td> 
+    <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Webinar Customization for Interactive Webinars</strong>: Zorg voor een uniforme, door de organisatie goedgekeurde merkervaring door gebruik te maken van een gemeenschappelijke interface, tussenliggende schermen (zoals de achtergrond van het instapscherm van deelnemers) en aangepaste videoachtergronden, zodat de webinar-strategie eenvoudiger kan worden afgestemd op de merkstrategie.</td> 
+    <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
    <td><strong>Wijziging Marketo REST API</strong>: We brengen een kleine wijziging aan in de <a href="https://developers.marketo.com/rest-api/user-management/">Gebruikersbeheer-API</a>. Beide <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Gebruikers doorbladeren</a> en <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Gebruiker verwijderen</a> eindpunten nu ondersteuning <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Doelaccountbeheer</a> gebruikers.</td> 
-   <td><i>binnenkort beschikbaar</i></td>
-   <td><i>binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
  </tbody> 
 </table>
