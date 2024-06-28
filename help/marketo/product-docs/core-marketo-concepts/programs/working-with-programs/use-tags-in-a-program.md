@@ -4,9 +4,9 @@ description: Tags gebruiken in een programma - Marketo Docs - Productdocumentati
 title: Tags gebruiken in een programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Tags gebruiken in een programma {#use-tags-in-a-program}
 
 Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om programmatypen te groeperen in de rapportage.
+
+>[!NOTE]
+>
+>Als u de Ontdekkingsreiziger van de Cyclus van Ontvangsten gebruikt, moet een periodekosten (zelfs als het 0 is) worden bepaald opdat de rapportering voor het programma beschikbaar is.
 
 ## Een tag in een programma gebruiken {#use-a-tag-in-a-program}
 
