@@ -3,7 +3,7 @@ description: Voordat u naar de nieuwe instantie van het Marketo Engage gaat, moe
 title: Controlelijst voor gebruikersinstellingen
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 1d153012aa151ddc787cbcfd03a2f420a7d65e48
+source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -32,9 +32,9 @@ Je nieuwe abonnementen op Marketo&#39;s Engage zijn ingeschakeld voor [Adobe Ide
 <tbody>
   <tr>
     <td>Abonnement en productbeheerder van Marketo Engage</td>
-    <td><li>Bevestig dat uw Adobe of systeembeheerder u een Adobe-productbeheerrol heeft toegekend.</li>  
+    <td><li>Bevestig dat uw Adobe of systeembeheerder u een Adobe-productbeheerrol heeft toegekend.</li> 
     <ul>
-    <li>Neem contact op met het accountteam van de Adobe (uw accountmanager) of stuur een e-mail naar <code>customercare@marketo.com</code> om te weten te komen wie op uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> rechten.</li></ul>
+    <li>Neem contact op met het accountteam van de Adobe (uw accountmanager) of stuur een e-mail naar <code>marketocares@marketo.com</code> om te weten te komen wie op uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> rechten.</li></ul>
     <li>Accepteer de uitnodiging 'Marketo Engage Product Admin' om uw Adobe ID te activeren. De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile">welkome e-mail</a> wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.</li></td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ Te gebruiken [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/usin
   <tr>
     <td>Abonnement en productbeheerder van Dynamic Chat (indien van toepassing)</td>
     <td><li>Bevestig dat uw Adobe of systeembeheerder u een Adobe-productbeheerrol heeft toegekend.</li> 
-    <ul><li>Neem contact op met het accountteam van de Adobe (uw accountmanager) of stuur een e-mail naar <code>customercare@marketo.com</code> om te weten te komen wie op uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> rechten.</li></ul>
+    <ul><li>Neem contact op met het accountteam van de Adobe (uw accountmanager) of stuur een e-mail naar <code>marketocares@marketo.com</code> om te weten te komen wie op uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a> rechten.</li></ul>
     <li>Accepteer de <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Dynamic Chat Product Admin'</a> uitnodigen. De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">welkome e-mail</a> wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten en u als Admin van het Systeem wordt aangewezen.</li></td>
   </tr>
   <tr>
