@@ -3,9 +3,9 @@ description: Vraag genereren - Marketo Docs - Productdocumentatie
 title: Vragengeneratie
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
    >[!IMPORTANT]
    >
    >Om ervoor te zorgen dat Marketo Engage inhoud van verstrekte URLs kan schrapen, moet u verscheidene IP adressen eerst lijsten van gewenste personen. [Zie hieronder voor meer informatie](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >Sites/pagina&#39;s moeten openbaar zijn (d.w.z. niet verborgen achter een aanmelding) om de gegevens te kunnen verwijderen.
 
 1. Op basis van uw inhoud kan het genereren van vragen en antwoorden tot 30 minuten duren. Klik op **[!UICONTROL OK]**.
 
