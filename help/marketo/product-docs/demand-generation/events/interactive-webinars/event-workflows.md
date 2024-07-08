@@ -3,9 +3,9 @@ description: Workflows voor gebeurtenissen - Marketo Docs - Productdocumentatie
 title: Workflows voor gebeurtenissen
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,7 @@ Ga naar het tabblad Overzicht om de opgenomen webinar weer te geven, krijg de ko
 >[!NOTE]
 >
 >* Interactieve webinars worden niet automatisch opgenomen. Nadat uw webinar begint, klik drop-down naast de naam van webinar en selecteer **Recordsessie**.
+>* Als de sessie wordt opgenomen, moet de gastheer de opname handmatig beëindigen of &quot;Eindsessie voor iedereen&quot; selecteren om de opname te stoppen. Anders wordt de opname automatisch gestopt binnen 10 minuten nadat de laatste deelnemer de ruimte heeft verlaten.
 >* De opname wordt gedownload in de MP4-indeling.
 >* Wanneer het delen van de opname zal het door iedereen kunnen bekijken die de verbinding heeft, zodat wordt het gedeeld met het voorgenomen publiek.
 
