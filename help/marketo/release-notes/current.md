@@ -3,7 +3,7 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
+source-git-commit: cb69844d8e9e25cae19bc2d4a91c28376f58eadb
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Opmerkingen bij de release: juli 2024 {#release-notes-july-24}
 
-Hieronder vindt u alle functies die zijn opgenomen in de release van 24 juni. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 24 juli. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 De opmerkingen bij de release specifiek voor Adobe Dynamic Chat [hier te vinden](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
