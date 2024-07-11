@@ -1,11 +1,12 @@
 ---
 description: Stappen instellen - Marketo Docs - Productdocumentatie
+short-description: Ben je gewoon aan de slag met Adobe Marketo Engage? Leer welke stappen u moet voltooien alvorens binnen te duiken.
 title: Stappen instellen
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1684'
 ht-degree: 0%
 
 ---
@@ -261,7 +262,7 @@ Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt.
 >
 >Ben je [!DNL Launch Pack] klant? U kunt deze stap overslaan. Uw consultant zal u [!DNL Munchkin] code instructies in uw document van de de opstellingsinstructies van IT.
 
-Marketo Engage heeft JavaScript voor aangepaste reeksspatiëring (ook wel [!DNL Munchkin]) die u kunt gebruiken om persoonlijke activiteiten op elke webpagina bij te houden. [!DNL Munchkin] is vereist om uw website in Marketo te integreren. Ga als volgt te werk: [Toevoegen [!DNL Munchkin] Code volgen op uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo Engage heeft JavaScript voor aangepaste tracking (ook wel [!DNL Munchkin]) die u kunt gebruiken om persoonlijke activiteiten op elke webpagina bij te houden. [!DNL Munchkin] is vereist om uw website in Marketo te integreren. Ga als volgt te werk: [Toevoegen [!DNL Munchkin] Code volgen op uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -269,7 +270,7 @@ Marketo Engage heeft JavaScript voor aangepaste reeksspatiëring (ook wel [!DNL 
 
 ## Prestatieverwachtingen {#performance-expectations}
 
-Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatieniveaus op gelijke voet met wat in de &quot;Standaard&quot;kolom in verscheidene lijsten verwachten die in worden gevonden in [Productbeschrijving Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatieniveaus op gelijke voet met wat in de &quot;Standaard&quot;kolom in verscheidene lijsten verwachten die in worden gevonden in [Productbeschrijving Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. De kolommen &quot;Prestaties&quot; en &quot;Prestaties Plus&quot; verwijzen naar pakketten met prestatieniveaus die [hogere prestaties](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

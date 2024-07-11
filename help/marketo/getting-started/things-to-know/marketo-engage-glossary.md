@@ -1,11 +1,12 @@
 ---
 description: Verklarende woordenlijst Marketo's Engage - Marketo Docs - Productdocumentatie
+short-description: Leer de termen en definities van Marketo's Engage om u te helpen snel aan de slag te gaan.
 title: Woordenlijst Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 0%
 
 ---
@@ -52,7 +53,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Integratie van advertentienetwerken </strong></a></td> 
-   <td colspan="1">(voorheen Ad Bridge) Een manier om Marketo-gegevens over unieke doelgroepen aan te sluiten op uw betaalmediasystemen, zodat u doelgerichte, gepersonaliseerde digitale advertentiecampagnes kunt uitvoeren.</td> 
+   <td colspan="1">(voorheen Ad Bridge) Een manier om Marketo unieke publieksgegevens aan te sluiten op uw betaalmediasystemen, zodat u meer gerichte, gepersonaliseerde digitale advertentiecampagnes kunt uitvoeren.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
@@ -72,7 +73,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td colspan="1"><strong>Goedgekeurd</strong></td> 
-   <td colspan="1">Wordt gebruikt om te bevestigen dat een <strong>element</strong> is klaar voor consumptie. Activa kunnen pas openbaar worden gemaakt nadat ze zijn goedgekeurd.</td> 
+   <td colspan="1">Wordt gebruikt om te bevestigen dat een <strong>element</strong> is klaar voor consumptie. Assets kan pas openbaar worden gemaakt nadat ze zijn goedgekeurd.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Element</strong></td> 
@@ -128,7 +129,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campagne</strong></td> 
-   <td colspan="1">"Campagne" zou een paar dingen kunnen betekenen in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagne</a> is een kortere termijn voor slimme campagne. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagnes</a> Dit zijn een reeks meerkanaalse correspondentiestappen. In <strong>Webpersonalisatie</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagnes</a> zijn aangepaste reacties geassocieerd met een specifiek segment.</td> 
+   <td colspan="1">"Campagne" zou een paar dingen kunnen betekenen in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagne</a> is een kortere termijn voor slimme campagne. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagnes</a> Dit zijn een reeks meerkanaalse correspondentiestappen. In <strong>Web Personalization</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagnes</a> zijn aangepaste reacties geassocieerd met een specifiek segment.</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Rapport over e-mailprestaties voor campagne</a></strong></td> 
@@ -184,7 +185,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Inhoud analyseren</strong></a></td> 
-   <td colspan="1">Een gebied van <strong>Webpersonalisatie</strong> die ontdekt bestaande inhoud van uw website, evenals inhoudsprestaties toont.</td> 
+   <td colspan="1">Een gebied van <strong>Web Personalization</strong> die ontdekt bestaande inhoud van uw website, evenals inhoudsprestaties toont.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Niveau van betrokkenheid bij inhoud</strong></td> 
@@ -393,8 +394,8 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
    <td><p>De wetgeving van de Europese Unie die op 25 mei 2018 in werking trad, had tot doel de EU-burgers meer controle te geven over hun persoonsgegevens.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Algemene elementen</strong></td> 
-   <td>Elementen die zijn gemaakt in het dialoogvenster <strong>Design Studio</strong> voor gebruik in <strong>programma's</strong> op uw Marketo-exemplaar. </td> 
+   <td><strong>Global Assets</strong></td> 
+   <td>Assets gemaakt in het dialoogvenster <strong>Design Studio</strong> voor gebruik in <strong>programma's</strong> op uw Marketo-exemplaar. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Openingspagina met instructies</strong></td> 
@@ -483,8 +484,8 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
    <td colspan="1">Een verzameling mensen. In Marketo zijn er slimme lijsten en statische lijsten. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">slimme lijst</a> Dit is een dynamische lijst van mensen die constant kunnen veranderen, aangezien het gebaseerd is op filters u bepaalt (b.v., iedereen in uw gegevensbestand die in Californië woont). Wanneer nieuwe personen in aanmerking komen voor de criteria (of bestaande personen niet langer in aanmerking komen) verandert de lijst. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische lijst</a> is statisch. Deze wordt alleen gewijzigd als u handmatig iemand toevoegt/verwijdert.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokale elementen</strong></a></td> 
-   <td><strong>Activa</strong> gebruikt binnen een specifieke <strong>programma</strong>.</td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokale Assets</strong></a></td> 
+   <td><strong>Assets</strong> gebruikt binnen een specifieke <strong>programma</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -861,14 +862,14 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
     <div> 
      <p><strong> Webcampagne</strong></p> 
     </div></td> 
-   <td colspan="1">Een aangepaste reactie die aan een specifiek segment is gekoppeld. In <strong>Webpersonalisatie</strong>, webcampagnes omvatten <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialoogvensters</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">In zones</a>, en <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
+   <td colspan="1">Een aangepaste reactie die aan een specifiek segment is gekoppeld. In <strong>Web Personalization</strong>, webcampagnes omvatten <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialoogvensters</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">In zones</a>, en <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Rapport over activiteiten op webpagina</a></strong></td> 
    <td>Een rapporttype in Marketo. Het stelt je in staat de bekende <i>of</i> anonieme personen die uw website bezoeken.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Webpersonalisatie</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web Personalization</strong></td> 
    <td>Een add-on functie die een doelgericht en personalisatieplatform biedt, waarmee Marketo-gebruikers bekende en anonieme bezoekers in real-time kunnen laten deelnemen op basis van wie ze zijn en wat ze doen.</td> 
   </tr>
   <tr> 
@@ -889,10 +890,10 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td><strong>Jokerteken</strong></td> 
-   <td>Een teken (*) wordt gebruikt in <strong>Webpersonalisatie</strong>) die voor of na een tekenreeks wordt gebruikt ter vervanging van andere tekens in een tekenreeks.</td> 
+   <td>Een teken (*) wordt gebruikt in <strong>Web Personalization</strong>) die voor of na een tekenreeks wordt gebruikt ter vervanging van andere tekens in een tekenreeks.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Werkruimte</a></strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Workspace</a></strong></td> 
    <td>Een afzonderlijk gebied in Marketo dat marketing in de hand houdt <strong>elementen</strong>. U kunt bijvoorbeeld een werkruimte hebben met de naam "Noord-Amerika" die u strikt gebruikt voor marketing naar die regio. Europa, Azië, enz.</td> 
   </tr>  
  </tbody> 

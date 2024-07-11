@@ -1,11 +1,12 @@
 ---
 description: Voordat u naar de nieuwe instantie van het Marketo Engage gaat, moet u een aantal basisstappen uitvoeren voor doorlopend gebruik. Deze stappen omvatten de opstelling van gebruikersrekening, de opstelling van de steunbeheerder, en het intekenen aan aan aan de gang zijnde systeemupdates.
+short-description: Leer na het voltooien van de eerste installatiestappen hoe u basiselementen kunt maken voor een vloeiend, doorlopend gebruik.
 title: Controlelijst voor gebruikersinstellingen
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
