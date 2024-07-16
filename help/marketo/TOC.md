@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 0b54d32a388bd5382332b8f8f3ff73a7dc9a3ce6
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '9339'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
       + [Stappen instellen](getting-started/initial-setup/setup-steps.md)
       + [Protocollen configureren](getting-started/initial-setup/configure-protocols-for-marketo.md)
       + [Gebruikersinstelling](getting-started/initial-setup/user-setup.md)
-   + Het uitvoeren van een Nieuwe Instantie van het Marketo Engage {#implementing-a-new-marketo-engage-instance}
+   + Een nieuwe Marketo Engage-instantie implementeren {#implementing-a-new-marketo-engage-instance}
       + [Waar moet worden begonnen?](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: Controlelijst voor sectie Admin](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: checklist database](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
@@ -28,13 +28,13 @@ ht-degree: 0%
       + [Aanbevolen werkwijzen voor nieuwe instanties: checklist voor marketingactiviteiten](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
-   + Informatie over dingen {#things-to-know}
+   + Kennis van dingen {#things-to-know}
       + [Woordenlijst Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Help Center](getting-started/things-to-know/help-center.md)
       + [Marketing Nation Community](getting-started/things-to-know/community.md)
-   + Quick Wins {#quick-wins}
+   + Snel wint {#quick-wins}
       + [Instellen en een persoon toevoegen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [E-mail verzenden](getting-started/quick-wins/send-an-email.md)
       + [Openingspagina met formulier](getting-started/quick-wins/landing-page-with-a-form.md)
@@ -56,9 +56,9 @@ ht-degree: 0%
       + [Overgenomen instantie: Uw instelling documenteren](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Kernvaardigheden evalueren](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Productdocumenten {#product-docs}
-   + Aanvullende apps {#additional-apps}
+   + Aanvullende toepassingen {#additional-apps}
       + SEO {#seo}
-         + SEO begrijpen {#understanding-seo}
+         + SEO {#understanding-seo}
             + [Optimalisatie van zoekprogramma&#39;s](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
             + [Het SEO-dashboard begrijpen: SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
             + [SEO-dashboard begrijpen: SEO-momentopname](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
@@ -99,7 +99,7 @@ ht-degree: 0%
          + Rapporten {#reports}
             + [SEO - Gebruik van het rapport KW-trends voor de concurrent](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - het Rapport van de Trends van het Sleutelwoord gebruiken](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-   + Administratie {#administration}
+   + Beheer {#administration}
       + Instellen {#setup}
          + [Controleren welke machtigingen u hebt](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Minimale systeemvereisten](product-docs/administration/setup-administration/minimum-system-requirements.md)
@@ -238,7 +238,7 @@ ht-degree: 0%
          + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beschrijvingen van rolmachtigingen](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [Niet-concept inschakelen voor fragmenten](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
-      + Werkruimten en Personen partities {#workspaces-and-person-partitions}
+      + Werkruimten en Personpartities {#workspaces-and-person-partitions}
          + [Werken- en personenpartities begrijpen](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [Gebruikerstoegang tot een Workspace toestaan](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [Personen partities toewijzen aan werkruimten](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
@@ -255,7 +255,7 @@ ht-degree: 0%
       + [Toewijzing organisatie Adobe instellen](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Assets importeren met Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Overzicht Adobe Experience Cloud Interface](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [ het Overzicht van de Interface van Adobe Experience Cloud ](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Core Marketo Concepts {#core-marketo-concepts}
       + Slimme campagnes {#smart-campaigns}
          + [Slimme campagnes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -284,15 +284,15 @@ ht-degree: 0%
             + [Een slimme batchcampagne plannen om later uit te voeren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Een terugkerende batchcampagne plannen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;de Campagne wordt gevraagd&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
-            + [Werken met Standard Smart List Rule Logic](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
-         + Handelingen voor stroom {#flow-actions}
+            + [ Gebruikend Standaard Slimme Logica van de Regel van de Lijst ](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
+         + Stroomhandelingen {#flow-actions}
             + [Een stroomstap toevoegen aan een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [Toevoegen aan lijst](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [Gegevens toevoegen aan een veld](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Bellen Webhaak](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
             + [Gegevenswaarde wijzigen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
-            + [Veldwaarden wissen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
+            + [Veldwaarden wissen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md)
             + [Partitie persoon wijzigen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [Opbrengstfase wijzigen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
             + [Score wijzigen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
@@ -314,24 +314,24 @@ ht-degree: 0%
             + [Een webhaak gebruiken in een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Keuze toevoegen in een stroomstap gebruiken](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
             + [Tokens gebruiken in stappen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
-            + Wachten {#wait}
+            + Wacht {#wait}
                + [Overzicht wachten](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview.md)
                + [Een Date Token gebruiken in een Wachten Flow-stap](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
                + [Gebruik een Duur in een Stap van de Stroom van de Wacht](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
                + [Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-         + Programma-stroomacties {#program-flow-actions}
+         + Program Flow Actions {#program-flow-actions}
             + [Toevoegen aan betrokkenheidsprogramma](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
             + [Cadre van het Programma van de Aanwezigheid van de Verandering](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
             + [Betrokkenheidsprogrammastroom wijzigen](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)
             + [Programmastatus wijzigen](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Programma is gewijzigd](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
             + [Gegevens van programmalid wijzigen](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
-         + Handelingen voor stroom via Microsoft Dynamics {#microsoft-dynamics-flow-actions}
+         + Handelingen voor Microsoft Dynamics Flow {#microsoft-dynamics-flow-actions}
             + [Voeg of verwijder Mensen van uw Campagne van de Dynamiek toe](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Eigenaar wijzigen in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Taak maken in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Persoon synchroniseren naar Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
-         + Salesforce Flow-handelingen {#salesforce-flow-actions}
+         + Handelingen voor Salesforce-stroom {#salesforce-flow-actions}
             + [Toevoegen aan SFDC-campagne](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Eigenaar wijzigen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
             + [Status wijzigen in SFDC-campagne](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
@@ -460,8 +460,8 @@ ht-degree: 0%
             + [Mijn tokens beheren](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [Mijn tokens in een programma begrijpen](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
             + [Aangepaste veldtokens voor programmaleden](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
-      + Verkoopkalender {#marketing-calendar}
-         + Werken met de agenda {#understanding-the-calendar}
+      + Marketingkalender {#marketing-calendar}
+         + De agenda begrijpen {#understanding-the-calendar}
             + [Licentie voor een marketingkalender uitgeven/intrekken](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
             + [Navigeren door de marketingkalender](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
             + [Programmafocus begrijpen/inschakelen](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)
@@ -491,7 +491,7 @@ ht-degree: 0%
             + [Personen in uw gebeurtenis controleren via uw tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Gebruikers toegang verlenen tot de Check-in-app](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Voorbereiden op uw gebeurtenis](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-         + Marketo Moments {#marketo-moments}
+         + Marketo-momenten {#marketo-moments}
             + Momenten begrijpen {#understanding-moments}
                + [Marketo-momenten begrijpen](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
                + [Analysecards](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
@@ -505,7 +505,7 @@ ht-degree: 0%
                + [Een voorbeeld van een e-mail weergeven](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [Een voorbeeld verzenden](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Een moment delen](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
-      + Overige {#miscellaneous}
+      + Diversen {#miscellaneous}
          + [Adobe Experience Manager-integratie configureren](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Nieuwe campagnemap maken](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + [Verklarende woordenlijst Sneltoetsen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -525,7 +525,7 @@ ht-degree: 0%
          + [Modellen en inzichten](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Voorspelende filters](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
          + [Begrijpen van Goal Tracking en Geprojecteerde Registraties](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
-   + CRM-synchronisatie {#crm-sync}
+   + CRM Sync {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Werken met Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Marketo Plugin-releases voor Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
@@ -538,16 +538,16 @@ ht-degree: 0%
             + [Dynamische verificatiemethode opnieuw configureren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
             + [Microsoft Dynamics Sync valideren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [De URL van de organisatieservice weergeven](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2016/Dynamics 365 On-Premise  {#microsoft-dynamics-2016-dynamics-365-on-premises}
+            + Microsoft Dynamics 2016/Dynamics 365 On-Premise {#microsoft-dynamics-2016-dynamics-365-on-premises}
                + [Stap 1 van 3: Installeer de Marketo-oplossing - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Stap 2 van 3: Marketo Sync User instellen in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Stap 3 van 3: Connect Marketo en Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 with ROPC Connection{#microsoft-dynamics-365-with-ropc-connection}
+            + Microsoft Dynamics 365 with ROPC Connection {#microsoft-dynamics-365-with-ropc-connection}
                + [Stap 1 van 4: Installeer de Marketo-oplossing met ROPC-verbinding](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [Stap 2 van 4: Opstelling de Oplossing van Marketo met Verbinding ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [Stap 3 van 4: Client-toepassing instellen op MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [Stap 4 van 4: Verbind de Oplossing van Marketo met Verbinding ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-            + Microsoft Dynamics 365 with S2S Connection{#microsoft-dynamics-365-with-s2s-connection}
+            + Microsoft Dynamics 365 with S2S Connection {#microsoft-dynamics-365-with-s2s-connection}
                + [Stap 1 van 3: Installeer de Marketo-oplossing met S2S-verbinding](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [Stap 2 van 3: Opstelling de Oplossing van Marketo met Verbinding S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [Stap 3 van 3: Verbind de Oplossing van Marketo met Verbinding S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
@@ -576,7 +576,7 @@ ht-degree: 0%
             + [Synchronisatiestatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Overzicht Campagne Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Campagne synchroniseren inschakelen](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + Details filter Aangepaste dynamiek synchroniseren {#custom-dynamics-sync-filter-details}
+         + Gegevens over filter Aangepaste dynamiek synchroniseren {#custom-dynamics-sync-filter-details}
             + [Een filter voor aangepaste dynamicasynchronisatie maken](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Aangepaste filterregels voor synchronisatie voor een e-mailadres](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Filter voor synchronisatie bij Microsoft: samenvoegen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
@@ -646,7 +646,7 @@ ht-degree: 0%
          + Veeva CRM Flow-handelingen {#veeva-crm-flow-actions}
             + [Taak maken in Veeva](product-docs/crm-sync/veeva-crm-sync/veeva-crm-flow-actions/create-task-in-veeva.md)
    + Demand Generation {#demand-generation}
-      + Integratie van advertentienetwerken {#ad-network-integrations}
+      + Netwerkintegratie toevoegen {#ad-network-integrations}
          + [Inzicht in ad-netwerkintegratie](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Aangepast publiek voor Facebook toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Google Customer Match toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
@@ -802,12 +802,12 @@ ht-degree: 0%
          + [Geüploade afbeeldingen en bestanden doorzoeken](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Afbeeldingen en bestanden uploaden uit vak](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
       + Openingspagina&#39;s {#landing-pages}
-         + Landingspagina&#39;s {#understanding-landing-pages}
+         + Openingspagina&#39;s {#understanding-landing-pages}
             + [Een bestemmingspagina goedkeuren, goedkeuren of verwijderen](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Prestatierapport voor bestemmingspagina](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
             + [Testgroepen voor landingspagina](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [Werken met vrije vorm en portaalpagina&#39;s met instructies](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-         + Landingspagina&#39;s in vrije vorm {#free-form-landing-pages}
+         + Landingpagina&#39;s met vrije vorm {#free-form-landing-pages}
             + [Voeg een Verbinding aan een Vrije Vorm het Bestaan Beeld van de Pagina toe](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [Een koppeling toevoegen aan een afbeelding in een openstaande pagina](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
             + [Een mobiele weergave toevoegen voor uw openingsbestemmingspagina](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
@@ -821,11 +821,11 @@ ht-degree: 0%
             + [De mobiele weergave aanpassen voor uw openingspagina](product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
             + [Dynamische inhoud gebruiken in een openingspagina met vrije vorm](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
             + [Hulplijnen gebruiken voor ontwerpen vrije bestemmingspagina](product-docs/demand-generation/landing-pages/free-form-landing-pages/use-guides-for-free-form-landing-page-design.md)
-         + Aanvoerpagina&#39;s met instructies {#guided-landing-pages}
+         + Openingspagina&#39;s met instructies {#guided-landing-pages}
             + [Een formulier toevoegen aan een bestemmingspagina met instructies](product-docs/demand-generation/landing-pages/guided-landing-pages/add-a-form-to-a-guided-landing-page.md)
             + [Een afbeelding toevoegen aan een bestemmingspagina met instructies](product-docs/demand-generation/landing-pages/guided-landing-pages/add-an-image-to-a-guided-landing-page.md)
             + [Een bestemmingspagina met instructies maken](product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
-         + Handelingen op bestemmingspagina {#landing-page-actions}
+         + Handelingen voor bestemmingspagina {#landing-page-actions}
             + [Meerdere bestemmingspagina&#39;s tegelijk goedkeuren](product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
             + [De URL van de bestemmingspagina wijzigen](product-docs/demand-generation/landing-pages/landing-page-actions/change-the-landing-page-url.md)
             + [Testgroep voor landingspagina klonen](product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md)
@@ -835,7 +835,7 @@ ht-degree: 0%
             + [Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Een voorvertoning van een bestemmingspagina weergeven](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Marketo-landingspagina omleiden naar een andere pagina](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + Landingspagina-sjablonen {#landing-page-templates}
+         + Landing Page Templates {#landing-page-templates}
             + [Een sjabloon voor vrije bestemmingspagina maken](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Een sjabloon voor een bestemmingspagina met instructies maken](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Een Marketo-sjabloon voor openingspagina bewerken](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -947,7 +947,7 @@ ht-degree: 0%
                + [Sjabloon 20C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20c.md)
                + [Sjabloon 20D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20d.md)
                + [Sjabloon 20E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-20e.md)
-         + Landingspagina&#39;s aanpassen {#personalizing-landing-pages}
+         + Landingpagina&#39;s aanpassen {#personalizing-landing-pages}
             + [Een fragment toevoegen aan een bestemmingspagina](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Aanvullende landingspaginanamen toevoegen](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [SSL toevoegen aan uw bestemmingspagina&#39;s](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
@@ -999,7 +999,7 @@ ht-degree: 0%
             + [LinkedIn Lead Gen Form Filters and Triggers gebruiken in een slimme campagne](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Promo-codes gebruiken voor afhandeling van voorstellen](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Sociale prestaties weergeven](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + Krenkte {#sweepstakes}
+         + Vlekken {#sweepstakes}
             + [Overtreklijnen maken](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Overtrekstijlen aanpassen](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [Publish a Sweepstakes](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
@@ -1016,7 +1016,7 @@ ht-degree: 0%
          + [Gebruik uw specifieke IP Adressen om E-mail te verzenden](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + Inbox-beheer {#inbox-tracker}
             + [Tutorials voor InBox-beheer](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
-      + Drip Nurturturturturing {#drip-nurturing}
+      + Nurturing wegnemen {#drip-nurturing}
          + Een betrokkenheidsprogramma maken {#creating-an-engagement-program}
             + [Een stream toevoegen](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
             + [Inhoud toevoegen aan een stream](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
@@ -1054,7 +1054,7 @@ ht-degree: 0%
          + Een e-mailprogramma maken {#creating-an-email-program}
             + [Een e-mailprogramma maken](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
             + [E-mailprogramma&#39;s](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
-         + Acties e-mailprogramma {#email-program-actions}
+         + Handelingen voor e-mailprogramma {#email-program-actions}
             + [E-mailprogramma afbreken](product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
             + [Een e-mailprogramma goedkeuren/goedkeuren](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
             + [Bestaande e-mail kiezen](product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
@@ -1078,7 +1078,7 @@ ht-degree: 0%
                + [Aflevering van e-mailprogramma&#39;s afbreken die met de tijdzone van de ontvanger zijn gepland](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
                + [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
                + [Tijdzone van ontvanger](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-         + E-mailprogrammagegevens {#email-program-data}
+         + Gegevens van e-mailprogramma {#email-program-data}
             + [E-mailkoppelingprestaties](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
             + [E-mailprestatierapport](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [E-mailprogrammadashboard exporteren naar Excel](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
@@ -1143,7 +1143,7 @@ ht-degree: 0%
             + [Het token voor waarschuwinggegevens verzenden gebruiken](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [URL&#39;s gebruiken in Mijn tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [E-mail CC](product-docs/email-marketing/general/email-cc.md)
-   + Marketo Engage Moderne UX {#marketo-engage-modern-ux}
+   + Moderne UX Marketo Engage {#marketo-engage-modern-ux}
       + [Overzicht](product-docs/marketo-engage-modern-ux/overview.md)
       + [De algemene zoekopdracht gebruiken](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Schakelen tussen schakelen](product-docs/marketo-engage-modern-ux/toggle-switch.md)
@@ -1161,7 +1161,7 @@ ht-degree: 0%
             + [Uw e-mailhandtekening toevoegen](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
             + [Nooit een verificatiebericht ontvangen](product-docs/marketo-sales-connect/getting-started/email-settings/never-received-a-verification-email.md)
             + [Uw e-mail verifiëren](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
-      + Beheerder {#admin}
+      + Admin {#admin}
          + [Aanvullende beheerders](product-docs/marketo-sales-connect/admin/additional-admins.md)
          + [Geblokkeerde domeinen](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Inhoud vergrendelen](product-docs/marketo-sales-connect/admin/content-lockdown.md)
@@ -1170,7 +1170,7 @@ ht-degree: 0%
          + [SSO via SAML 2.0 instellen in Sales Connect](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [Instellingen voor delen](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [Toegangsgegevens gebruiker](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + Analyse {#analytics}
+      + Analytics {#analytics}
          + [Overzicht van pagina Analytics](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [Het tabblad Inhoud](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [De tab Me](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1188,7 +1188,7 @@ ht-degree: 0%
          + [Taken gebruiken in campagnes](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
          + [Lijst met campagnes weergeven als een andere gebruiker](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
-         + Aanpassing Salesforce {#salesforce-customization}
+         + Salesforce-aanpassing {#salesforce-customization}
             + [Veld voor activiteitstypen op taken (Activity Type Field on Tasks — SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
             + [Verkoopknoppen voor Connect aan Salesforce toevoegen](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
             + [Een Salesforce Priority Call-rapport maken met Connect-gegevens voor verkoop](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
@@ -1233,20 +1233,20 @@ ht-degree: 0%
             + [Onverwachte fout in Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + MSC voor Outlook {#msc-for-outlook}
             + [E-mailverbinding voor Outlook-gebruikers](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-            + .NET Verouderde toe:voegen-binnen {#net-legacy-add-in}
+            + .NET Legacy Add-in {#net-legacy-add-in}
                + [.NET toe:voegen-in Overzicht](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Sales Connect verwijderen uit Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365 Add-in {#office-365-add-in}
                + [E-mail toevoegen aan Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
                + [Sales Connect voor Office365 Mac OS, Windows en Online installeren](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
       + E-mail {#email}
-         + Opdrachtcentrum {#command-center}
+         + Command Center {#command-center}
             + [Overzicht van Command Center](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
             + [Taken toewijzen aan teamleden](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
             + [E-mailkolommen en indeling van e-mailpagina](product-docs/marketo-sales-connect/email/command-center/email-columns-and-email-page-layout.md)
             + [Snelle acties gebruiken om uw workflow te versnellen](product-docs/marketo-sales-connect/email/command-center/using-quick-actions-to-speed-up-your-workflow.md)
-         + Veelvoorkomende opvolgvragen {#common-tracking-questions}
+         + Veelvoorkomende vragen over bijhouden {#common-tracking-questions}
             + [Hoe Reageren bijhouden werkt](product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
             + [Aangepast domein bijhouden instellen](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-set-up-custom-domain-tracking.md)
             + [Uw e-mailbijlagen bijhouden](product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md)
@@ -1257,7 +1257,7 @@ ht-degree: 0%
             + [Overzicht van leveringskanaal](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
             + [Throtting van e-mailverbinding](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [Een aangepast leveringskanaal instellen](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + Verkoop een e-mail {#send-a-sales-email}
+         + Verstuur een e-mailbericht {#send-a-sales-email}
             + [Campagne is beëindigd](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC of BCC in e-mails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-mail gemarkeerd als spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
@@ -1305,7 +1305,7 @@ ht-degree: 0%
          + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Verklarende woordenlijst Verkoopactiviteiten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [Triggers en filters voor verkoopactiviteiten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Mensen {#people}
+      + Personen {#people}
          + [Persoonsgegevens weergeven](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect en GDPR-compatibiliteit](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Contacten beheren {#managing-contacts}
@@ -1369,7 +1369,7 @@ ht-degree: 0%
                + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Uw e-mailhandtekening toevoegen of bijwerken](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Identiteit toevoegen](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
-         + Beheerder {#admin}
+         + Admin {#admin}
             + [Automatisch aanmelden bij Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Nieuwe beheerder verbinden met Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1381,7 +1381,7 @@ ht-degree: 0%
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Verkoopgegevens synchroniseren met Marketo en Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Toegangsgegevens gebruiker](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + Analyse {#analytics}
+         + Analytics {#analytics}
             + [Overzicht van pagina Analytics](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [Het tabblad Inhoud](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [De tab Me](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1396,7 +1396,7 @@ ht-degree: 0%
             + [Verzendopties voor verkoopcampagne voor e-mailstappen](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Lijst met campagnes weergeven als een andere gebruiker](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
-            + Aanpassing Salesforce {#salesforce-customization}
+            + Salesforce-aanpassing {#salesforce-customization}
                + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce-integratie {#salesforce-integration}
                + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
@@ -1406,18 +1406,18 @@ ht-degree: 0%
                + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Een sandbox Handelingen voor het toezicht op verkopen instellen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Verkoopactiviteiten synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
-            + Configuratie van Salesforce-pakket {#salesforce-package-configuration}
+            + Configuratie Salesforce-pakket {#salesforce-package-configuration}
                + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Marketo Sales Connect verwijderen uit Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Marketo Sales Connect verwijderen van Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
                + [Knoppen voor handelingen toevoegen aan de Salesforce-lijstweergave](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Veld voor activiteitstypen bijwerken bij aanmelding van activiteiten bij Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
-            + Acties in Salesforce {#actions-in-salesforce}
+            + Handelingen in Salesforce {#actions-in-salesforce}
                + [Verkoop via e-mail verzenden in Salesforce gebruiken](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-mail {#email}
-            + Opdrachtcentrum {#command-center}
+            + Command Center {#command-center}
                + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
                + [Taken toewijzen aan teamleden](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
                + [Overzicht van Command Center](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
@@ -1477,7 +1477,7 @@ ht-degree: 0%
             + [Triggers en filters voor verkoopactiviteiten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Uw Marketo-verbinding instellen](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + Mensen {#people}
+         + Personen {#people}
             + [Persoonsgegevens weergeven](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Handelingen voor het toezicht op de verkoop en naleving van GDPR](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + Contacten beheren {#managing-contacts}
@@ -1494,10 +1494,10 @@ ht-degree: 0%
             + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokale aanwezigheid](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Verstuur een e-mail {#send-a-sales-email}
+         + Verstuur een e-mail over de verkoop {#send-a-sales-email}
             + [Overzicht van e-mailtracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Taken {#tasks}
-            + [Herinnering taaksynchronisatie met Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+            + [ de Synchronisatie van de Taak van de herinnering met Salesforce ](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Sjablonen {#templates}
             + [Hyperlinktekst toevoegen](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Dynamische velden](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
@@ -1533,10 +1533,10 @@ ht-degree: 0%
             + [Vereiste velden voor het synchroniseren van Marketo met dynamiek](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Sterren en vlammen instellen voor lead/contact-records](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
-         + Verwijderen {#uninstalling}
+         + {#uninstalling} verwijderen
             + [Global MS Dynamics Sync uitschakelen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [MSI verwijderen uit de instantie van MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
-         + Bijwerken {#updating}
+         + {#updating} bijwerken
             + [Upgrade de Marketo Sales Insight Solution voor Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI voor Salesforce {#msi-for-salesforce}
          + Installatie {#installation}
@@ -1564,7 +1564,7 @@ ht-degree: 0%
                + [Verkoopsjabloon vergrendelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Publish en e-mail naar Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Test-e-mail verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
-            + Taalondersteuning {#language-support}
+            + Ondersteunde talen {#language-support}
                + [Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo Tab {#marketo-tab}
                + [Beste bieten](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
@@ -1607,7 +1607,7 @@ ht-degree: 0%
    + Marketo Sky {#marketo-sky}
       + [Verwacht gedrag](product-docs/marketo-sky/expected-behavior.md)
    + Mobiele marketing {#mobile-marketing}
-      + Beheerder {#admin}
+      + Admin {#admin}
          + [Een mobiele app toevoegen](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Vibes toevoegen als een LaunchPoint-service](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [Beveiliging mobiele toegang verifiëren](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
@@ -1644,7 +1644,7 @@ ht-degree: 0%
          + [Een voorbeeld voor pushberichten verzenden](product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
          + [Pushberichten](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [Het dashboard voor pushmeldingen weergeven](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
-      + SMS-berichten van Vibes {#vibes-sms-messages}
+      + SMS-berichten weergeven {#vibes-sms-messages}
          + [Een SMS-bericht maken](product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md)
          + [Een SMS-bericht verzenden](product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md)
          + [Het gebruiken van de Opties van SMS in een Slimme Campagne](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
@@ -1652,7 +1652,7 @@ ht-degree: 0%
          + [SMS Glossary](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
    + Personalization {#personalization}
       + Segmentatie en fragmenten {#segmentation-and-snippets}
-         + Segmentering {#segmentation}
+         + Segmentatie {#segmentation}
             + [Een segmentatie goedkeuren](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [Een segmentatie maken](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [Segmentregels definiëren](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1699,7 +1699,7 @@ ht-degree: 0%
          + [Voorspelende inhoud voor e-mails bewerken](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Predictieve inhoud voor rijke media bewerken](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Voorspelende inhoud voor de balk met aanbevelingen bewerken](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Rapportage {#reporting}
+   + Rapporteren {#reporting}
       + [Overzicht van rapporten](product-docs/reporting/reporting-overview.md)
       + Basisrapportage {#basic-reporting}
          + Rapporten maken {#creating-reports}
@@ -1756,7 +1756,7 @@ ht-degree: 0%
          + [E-mailinzichten, snelle grafieken](product-docs/reporting/email-insights/email-insights-quick-charts.md)
          + [E-mailinzichten verzenden overzicht](product-docs/reporting/email-insights/email-insights-sends-overview.md)
          + [Filteren in e-mailinzichten](product-docs/reporting/email-insights/filtering-in-email-insights.md)
-      + Prestatiegegevens {#performance-insights}
+      + Prestatie-inzichten {#performance-insights}
          + [Overzicht van prestatiegegevens](product-docs/reporting/performance-insights/performance-insights-overview.md)
          + [Filteren in prestatie-inzichten](product-docs/reporting/performance-insights/filtering-in-performance-insights.md)
          + [Overzicht van de bijdrage van Performance Insights](product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
@@ -1766,7 +1766,7 @@ ht-degree: 0%
          + [Instellingen voor prestatiegegevens](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [Overzicht van trends voor prestaties](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [Prestatie-inzichten instellen](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-      + Analyse van inkomstencyclus {#revenue-cycle-analytics}
+      + Opbrengstcyclusanalyse {#revenue-cycle-analytics}
          + E-mailanalyse {#email-analysis}
             + [Een e-mailanalyserapport maken waarin de leads worden vermeld](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
             + [Een e-mailanalyserapport maken waarin de programmagegevens worden weergegeven](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
@@ -1777,7 +1777,7 @@ ht-degree: 0%
             + [Een Opportunity Influence Analyzer maken](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
             + [Export Opportunity Influence Analyzer Data](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
             + [Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-         + Programmaanalyse {#program-analytics}
+         + Program Analytics {#program-analytics}
             + [Advanced Program Reporting Overview](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
             + [Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
             + [Een programmaanalyse klonen](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
@@ -1814,7 +1814,7 @@ ht-degree: 0%
             + [SLA-fasen van inkomstenmodel gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Overgangen met inkomstenmodellen gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [De Padanalyse met succes gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
-         + Ontdekkingsreiziger voor inkomsten {#revenue-explorer}
+         + Ontdekkingsreiziger van inkomsten {#revenue-explorer}
             + [Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
             + [Velden toevoegen aan een Indelingsverkenner-rapport](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
             + [Een rapport van de inkomstenverkenner maken](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
@@ -1828,7 +1828,7 @@ ht-degree: 0%
             + [Aangepaste velden synchroniseren met de Indelingsverkenner](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/sync-custom-fields-to-the-revenue-explorer.md)
             + [De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)
             + [Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
-         + Inkomsten {#revenue-tools}
+         + Opbrengstgereedschappen {#revenue-tools}
             + [Kosten voor een bepaalde periode](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [Rapport Personen op omzet](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
@@ -1880,7 +1880,7 @@ ht-degree: 0%
          + [Dimension Benoemd account in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Benoemde accountgegevens](product-docs/target-account-management/measure/named-account-insights.md)
          + [Persoonlijke gegevens gebruiken](product-docs/target-account-management/using-personas.md)
-      + Accountprofielen {#account-profiling}
+      + Accountprofilering {#account-profiling}
          + [Accountprofielen instellen](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
          + [Volgorde en afstemming van accountprofielen](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [Nieuwe accountdetectie](product-docs/target-account-management/account-profiling/new-account-discovery.md)
@@ -1905,19 +1905,19 @@ ht-degree: 0%
          + [RTP implementeren met Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [RTP implementeren met Google-tagbeheer](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [RTP implementeren met behulp van Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
-      + Rapportage voor Web Personalization {#reporting-for-web-personalization}
+      + Rapporteren voor Web Personalization {#reporting-for-web-personalization}
          + [E-mailrapporten](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [Rapportabonnementen in-/uitschakelen](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [Specifieke IP&#39;s uitsluiten van bijhouden](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
          + [Verkoopinformatie](product-docs/web-personalization/reporting-for-web-personalization/sales-intelligence.md)
          + [Het overzichtsrapport](product-docs/web-personalization/reporting-for-web-personalization/understanding-the-summary-report.md)
-         + Web Analytics Integrations {#web-analytics-integrations}
+         + Integraties van webanalyse {#web-analytics-integrations}
             + [Aangepaste RTP-dashboards in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Aangepaste RTP-rapporten in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
             + [Integreer RTP met Googles Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [RTP integreren met Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integreren met Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + Web Personalization begrijpen {#understanding-web-personalization}
+      + Web Personalization {#understanding-web-personalization}
          + [Inhoudsanalyse](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Woordenlijst voor Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Overzicht van Web Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
@@ -1964,7 +1964,7 @@ ht-degree: 0%
    + [Releaseplanning](release-notes/release-schedule.md)
    + [Huidige versie](release-notes/current.md)
    + [Release Dynamic Chat](release-notes/dynamic-chat.md)
-   + Eerdere releases {#previous-releases}
+   + Vorige versies {#previous-releases}
       + 2024 {#2024}
          + [Opmerkingen bij de release: januari &#39;24](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Opmerkingen bij de release: maart &#39;24](release-notes/previous-releases/2024/release-notes-mar-24.md)
@@ -1995,28 +1995,28 @@ ht-degree: 0%
          + [Opmerkingen bij de release: juni &#39;20](release-notes/previous-releases/2020/release-notes-june-20.md)
          + [Opmerkingen bij de release: juli &#39;20](release-notes/previous-releases/2020/release-notes-july-20.md)
          + [Opmerkingen bij de release: oktober 20](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 19 {#2019}
+      + 2019 {#2019}
          + [Opmerkingen bij de release: augustus 19](release-notes/previous-releases/2019/release-notes-august-19.md)
          + [Opmerkingen bij de release: 19 juni](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [Opmerkingen bij de release: lente 19](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [Opmerkingen bij de release: Winter &#39;19](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 18 {#2018}
+      + 2018 {#2018}
          + [Opmerkingen bij de release: val &#39;18](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [Opmerkingen bij de release: lente 18](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [Opmerkingen bij de release: Winter &#39;18](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 17 {#2017}
+      + 2017 {#2017}
          + [Opmerkingen bij de release: Verbeteringen ABM in april 17](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [Opmerkingen bij de release: verbeteringen in ABM in augustus &#39;17](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [Opmerkingen bij de release: val &#39;17](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [Opmerkingen bij de release: lente 17](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [Opmerkingen bij de release: zomer 17](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [Opmerkingen bij de release: Winter &#39;17](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 16 {#2016}
+      + 2016 {#2016}
          + [Opmerkingen bij de release: val &#39;16](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [Opmerkingen bij de release: lente 16](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [Opmerkingen bij de release: zomer 16](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [Opmerkingen bij de release: Winter &#39;16](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 15 {#2015}
+      + 2015 {#2015}
          + [Opmerkingen bij de release: april 2015](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [Opmerkingen bij de release: val &#39;15](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [Opmerkingen bij de release: februari 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
@@ -2025,7 +2025,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: juni 2015](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [Opmerkingen bij de release: maart 2015](release-notes/previous-releases/2015/release-notes-march-2015.md)
          + [Opmerkingen bij de release: mei 2015](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 14 {#2014}
+      + 2014 {#2014}
          + [Opmerkingen bij de release: augustus 2014](release-notes/previous-releases/2014/release-notes-august-2014.md)
          + [Opmerkingen bij de release: december 2014](release-notes/previous-releases/2014/release-notes-december-2014.md)
          + [Opmerkingen bij de release: februari 2014](release-notes/previous-releases/2014/release-notes-february-2014.md)
@@ -2035,7 +2035,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: maart 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [Opmerkingen bij de release: mei 2014](release-notes/previous-releases/2014/release-notes-may-2014.md)
          + [Opmerkingen bij de release: oktober 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 13 {#2013}
+      + 2013 {#2013}
          + [Opmerkingen bij de release: april 2013](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [Opmerkingen bij de release: augustus 2013](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [Opmerkingen bij de release: december 2013](release-notes/previous-releases/2013/release-notes-december-2013.md)
