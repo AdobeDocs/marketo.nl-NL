@@ -2,9 +2,10 @@
 description: Een webinar team toevoegen - Marketo Docs - Productdocumentatie
 title: Een webinar-team toevoegen
 feature: Interactive Webinars
-source-git-commit: 1e5e5a64e2524a65e0f7c75cd87ac2765a5e69e3
+exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -15,17 +16,17 @@ Een webinar Team in Interactieve Webinars bestaat uit alle rollen die tot de suc
 
 >[!NOTE]
 >
->Presentatoren en co-hosts in Marketo wijzen de rollen van presentator en gastheer tijdens de webinar-levering in Adobe Connect exact toe.
+>Presentatoren en co-hosts in Marketo Engage wijzen de rollen van presentator en gastheer tijdens de webinar-levering in Adobe Connect exact toe. Co-hosts kunnen de lay-outs en pods wijzigen, maar presentatoren kunnen dat niet.
 
 De presentator is een externe rol die deelneemt aan het leveren van de webinar ervaring, terwijl co-hosts als presentator kunnen optreden en administratieve aspecten van webinar levering kunnen behandelen. Cohosts kunnen zowel intern als extern zijn. Externe co-hosts hebben geen toegang tot de interactieve Webinar-gebeurtenisprogramma&#39;s in Marketo, maar hebben wel hostmachtigingen tijdens levering in Adobe Connect. Interne cohosts hebben tijdens de levering toegang tot zowel het interactieve webinar-gebeurtenisprogramma in Marketo als tot de hostmachtigingen. Dit helpt ervoor zorgen dat de interne co-hosts de rijen van het Interactive Webinar-gebeurtenisprogramma kunnen nemen wanneer de oorspronkelijke maker van het Interactive Webinar-programma geen deel meer uitmaakt van de gebruikersset van Interactive Webinars of zelfs geen Marketo-gebruiker is.
 
 >[!PREREQUISITES]
 >
->[Een interactief webinar maken](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
 
 ## Een cohost toevoegen {#add-a-co-host}
 
-1. Klik op de pagina Overzicht interactief webinar op **Co-hosts toevoegen**.
+1. In de Interactieve pagina van het Overzicht van Webinar, klik **co-hosts** toevoegen.
 
    ![](assets/add-a-webinar-team-1.png)
 
@@ -35,9 +36,9 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
    >[!NOTE]
    >
-   >Als u **Interne interactieve webinar gebruiker**, u zult eenvoudig moeten klikken **Beschikbare hosts** en kies uit de lijst van mensen die als Interactieve Webinars gebruikers in Marketo Engage zijn toegevoegd.
+   >Als u **Interne Interactieve Woordenaar gebruiker** selecteert, zult u eenvoudig de **Beschikbare gastheren** drop-down moeten klikken en van de lijst van mensen kiezen die als Interactieve Windars gebruikers in Marketo Engage zijn toegevoegd.
 
-1. Voer de voornaam, achternaam en het e-mailadres van de gewenste co-host in. Klikken **Toevoegen**.
+1. Voer de voornaam, achternaam en het e-mailadres van de gewenste co-host in. Klik **toevoegen**.
 
    ![](assets/add-a-webinar-team-3.png)
 
@@ -47,11 +48,11 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
 ## Een presentator toevoegen {#add-a-presenter}
 
-1. Klik op de pagina Overzicht interactief webinar op **Presentatoren toevoegen**.
+1. In de Interactieve pagina van het Overzicht van Webinar, voegt de klik **presentatoren** toe.
 
    ![](assets/add-a-webinar-team-5.png)
 
-1. Voer de voornaam, achternaam en het e-mailadres van de gewenste presentator in. Klikken **Toevoegen**.
+1. Voer de voornaam, achternaam en het e-mailadres van de gewenste presentator in. Klik **toevoegen**.
 
    ![](assets/add-a-webinar-team-6.png)
 
@@ -69,4 +70,4 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
 >[!MORELIKETHIS]
 >
->[Een interactief webinar maken](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)

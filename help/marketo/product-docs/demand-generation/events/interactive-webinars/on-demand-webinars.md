@@ -3,9 +3,9 @@ description: Webinars op aanvraag - Marketo Docs - Productdocumentatie
 title: Webinars op aanvraag
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage verstrekt de horloge statistieken voor Webinars op bestelling op 
    * Gemiddelde controleduur in minuten voor alle bezoekers: geeft de marketers een idee hoeveel van de opname wordt bekeken en welke slimme campagnes kunnen worden gebruikt om leads boven een bepaalde controleduur te richten.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>Weergaven worden alleen geteld wanneer de duur van het horloge langer is dan één minuut.
 
 De filters en triggers voor interactieve webinars zijn aangepast om rekening te houden met On-Demand Webinars. De trigger &quot;Gebeurtenis bijwonen&quot; en het filter &quot;Gebeurtenis heeft bijgewoond&quot; worden toegevoegd met een extra beperking (&quot;Gebeurtenismodus&quot;), waarbij een markeerteken kan kiezen of het doel een live-publiek of een on-demand-publiek is. Als de beperking Gebeurtenismodus niet is geselecteerd, wordt zowel het actieve als het on-demand-publiek als doelgroep gekozen. Andere beperkingen, zoals &quot;Datum van het Controle&quot;en &quot;Duur van het Controle,&quot;zouden met de &quot;op bestelling&quot;gebeurteniswijze kunnen worden gebruikt. Het inactiviteitsfilter &quot;Heeft geen gebeurtenis bijgewoond&quot; kan ook worden gebruikt voor webinars op aanvraag met de gebeurtenismodus &quot;Op aanvraag&quot;.
