@@ -4,9 +4,9 @@ description: Veldwaarden wissen - Marketo Docs - Productdocumentatie
 title: Veldwaarden wissen
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/clear-field-values-1.png)
 
-1. Boom! Ik wed dat je dat niet wist! Nadat de flowstap is voltooid, wordt de waarde van het veld dat u hebt gekozen, gewist.
+1. Nadat de flowstap is voltooid, wordt de waarde van het veld dat u hebt gekozen, gewist.
 
    ![](assets/clear-field-values-2.png)
 

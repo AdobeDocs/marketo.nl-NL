@@ -4,25 +4,21 @@ description: Partitie wijzigen - Marketo Docs - Productdocumentatie
 title: Partitie persoon wijzigen
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 2%
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
 # Partitie persoon wijzigen {#change-person-partition}
 
-## Overzicht {#overview}
+Als u [ werkruimten en verdelingen ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"} gebruikt, zult u slimme campagnes willen bouwen om mensen van één verdeling naar een andere te bewegen.
 
-Als u [werkruimten en partities](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}, wilt u slimme campagnes maken om mensen van de ene partitie naar de andere te verplaatsen.
-
-![](assets/one-3.png)
-
-## Gebruik {#usage}
+![](assets/change-person-partition-1.png)
 
 1. Selecteer de partitie waarnaar u uw personen wilt verplaatsen.
 
-![](assets/two-3.png)
+![](assets/change-person-partition-2.png)
 
 Zo eenvoudig is het!

@@ -4,7 +4,7 @@ description: Een Date Token gebruiken in een Wachten Flow-stap - Marketo Docs - 
 title: Een Date Token gebruiken in een Wachten Flow-stap
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -19,17 +19,17 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 >
 >Dit geldt alleen voor triggercampagnes. U kunt deze functie niet gebruiken in Batch-campagnes.
 
-1. In uw slimme campagne **[!UICONTROL Flow]** tab, sleep over de **[!UICONTROL Wait]** stap Stroom.
+1. Sleep over de stap **[!UICONTROL Wait]** flow in de tab Slimme campagne **[!UICONTROL Flow]** .
 
-   ![](assets/image2014-9-22-14-3a8-3a22.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
 1. Klik op het tandwielpictogram.
 
-   ![](assets/image2014-9-22-14-3a8-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Van de **[!UICONTROL Type]** vervolgkeuzelijst, selecteert u **[!UICONTROL Date Token]**.
+1. Selecteer **[!UICONTROL Date Token]** in de vervolgkeuzelijst **[!UICONTROL Type]** .
 
-   ![](assets/image2014-9-22-14-3a8-3a41.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
 1. Kies een teken van de Datum om te specificeren wanneer de wachtende stap zou moeten beëindigen:
 
@@ -38,11 +38,11 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
    * `{{company.______}}`
    * `{{system._______}}`
 
-   ![](assets/image2014-9-22-14-3a9-3a33.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-4.png)
 
 1. Als u wilt wachten tot de volgende verjaardag van de datum die in het huidige of volgende kalenderjaar voorkomt, schakelt u het selectievakje in.
 
-   ![](assets/image2014-9-22-14-3a9-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-5.png)
 
    >[!TIP]
    >
@@ -50,17 +50,17 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 
 1. U kunt desgewenst de einddatum met een opgegeven aantal dagen wijzigen.
 
-   ![](assets/image2014-9-22-14-3a9-3a57.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
-   >U kunt ook het aantal dagen opgeven met een `{{lead.` of `{{company.` token dat staat voor een veld met gehele getallen, of een `{{my.` token of number type.
+   >U kunt ook het aantal dagen opgeven met een token `{{lead.` of `{{company.` dat een veld met gehele getallen of een token van het type getal vertegenwoordigt. `{{my.`
 
 1. Klik op **[!UICONTROL Save]**.
 
-   ![](assets/image2014-9-22-14-3a11-3a3.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Gebruik een Duur in een Stap van de Stroom van de Wacht](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
-   >* [Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
+   >* [ Gebruik een Duur in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [ gebruik een Specifieke Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

@@ -4,16 +4,14 @@ description: Gegevenswaarde wijzigen - Marketo Docs - Productdocumentatie
 title: Gegevenswaarde wijzigen
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # Gegevenswaarde wijzigen {#change-data-value}
-
-## Overzicht {#overview}
 
 U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebruikt u de **[!UICONTROL Change Data Value]** flow-actie.
 
@@ -22,8 +20,6 @@ U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebru
 >[!NOTE]
 >
 >U kunt ook blokkeren dat een veld wordt bijgewerkt. Zie [ Updates van het Blok aan een Gebied ](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md){target="_blank"} voor details.
-
-## Gebruik {#usage}
 
 1. Zoek en selecteer het veld waarvan u de waarde wilt wijzigen.
 

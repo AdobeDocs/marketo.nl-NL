@@ -4,7 +4,7 @@ description: Tokens gebruiken in stroomstappen - Marketo Docs - Productdocumenta
 title: Tokens gebruiken in stappen
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-Een token is een variabele. U gebruikt het in e-mails, Landing Pages, en Slimme Campagnes om uw leven gemakkelijker te maken. U kunt [Mijn tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (aangepaste tokens) in stroomstappen, webhaken, e-mails en landingspagina&#39;s. U kunt tokens gebruiken om veranderlijke inhoud in deze stroomstappen te omvatten:
+Een token is een variabele. U gebruikt het in e-mails, Landing Pages, en Slimme Campagnes om uw leven gemakkelijker te maken. U kunt [ Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (douanetokens) in stroomstappen, webhooks, e-mail, en landende pagina&#39;s gebruiken. U kunt tokens gebruiken om veranderlijke inhoud in deze stroomstappen te omvatten:
 
 * Gegevenswaarde wijzigen
 * Gegevens van programmalid wijzigen
@@ -26,17 +26,17 @@ Een token is een variabele. U gebruikt het in e-mails, Landing Pages, en Slimme 
 * Taak maken
 * Waarschuwing verzenden (alleen in triggercampagnes)
 
-1. Begin met typen in de flowstap `{{` om tokencategorieën op te halen.
+1. In de flowstap typt u `{{` om tokencategorieën op te halen.
 
-   ![](assets/image2014-9-22-14-3a3-3a17.png)
+   ![](assets/use-tokens-in-flow-steps-1.png)
 
    >[!NOTE]
    >
-   >Uitchecken [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} voor een lijst met verschillende beschikbare tokens.
+   >Controle uit [ Tokens Overzicht ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} voor een lijst van verscheidene beschikbare tokens.
 
 1. Blijf typen totdat u het gewenste token hebt gevonden en klik om dit te selecteren.
 
-   ![](assets/image2014-9-22-14-3a3-3a48.png)
+   ![](assets/use-tokens-in-flow-steps-2.png)
 
    >[!TIP]
    >
@@ -50,5 +50,5 @@ Een token is een variabele. U gebruikt het in e-mails, Landing Pages, en Slimme 
 
    >[!MORELIKETHIS]
    >
-   >* [Mijn tokens beheren](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
-   >* [Mijn tokens in een programma begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
+   >* [ het leiden Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+   >* [ Begrijpend Mijn Tokens in een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}

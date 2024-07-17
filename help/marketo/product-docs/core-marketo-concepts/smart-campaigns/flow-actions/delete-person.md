@@ -4,9 +4,9 @@ description: Persoon verwijderen - Marketo-documenten - Productdocumentatie
 title: Persoon verwijderen
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -15,26 +15,20 @@ ht-degree: 0%
 
 Soms komen onjuiste mensen in uw database terecht. De stap Person-flow verwijderen kan deze verwijderen.
 
-## Overzicht {#overview}
-
-Gebruik de flowstap in een slimme campagne.
-
-![](assets/one-4.png)
+![](assets/delete-person-1.png)
 
 >[!CAUTION]
 >
 >Wanneer u een persoon verwijdert, worden ook alle historische RCE-gegevens verwijderd. Het kan niet ongedaan worden gemaakt.
 
-## Gebruik {#usage}
+1. Wanneer u in de stroomstap sleept, zal het automatisch worden geplaatst om van uw CRM eveneens te schrappen.
 
-Wanneer u in de stroomstap sleept, zal het automatisch om van uw CRM ook worden geplaatst te schrappen.
+   ![](assets/delete-person-2.png)
 
-![](assets/two-4.png)
+1. U kunt uit Marketo Engage en niet uit uw CRM schrappen, als zo:
 
-U kunt uit Marketo Engage en niet uit uw CRM schrappen, als zo:
-
-![](assets/three-3.png)
+   ![](assets/delete-person-3.png)
 
 >[!NOTE]
 >
->De persoon uit uw CRM verwijderen _werkt alleen met[!DNL Salesforce]_. Als u een persoon uit Marketo verwijdert en ervoor kiest om deze in te houden [!DNL Salesforce], worden ze in Marketo opnieuw gemaakt als hun [!DNL Salesforce] record wordt ooit bijgewerkt.
+>Het verwijderen van de persoon uit uw CRM _werkt alleen met[!DNL Salesforce]_ . Als u een persoon uit Marketo verwijdert en ervoor kiest deze in [!DNL Salesforce] te houden, worden ze opnieuw gemaakt in Marketo als de [!DNL Salesforce] -record ooit wordt bijgewerkt.

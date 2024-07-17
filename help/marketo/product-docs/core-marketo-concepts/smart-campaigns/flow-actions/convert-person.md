@@ -4,41 +4,35 @@ description: Persoon converteren - Marketo Docs - Productdocumentatie
 title: Persoon omzetten
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Persoon omzetten {#convert-person}
 
+Gebruik deze stroomstap om een persoon in [!DNL Salesforce] om te zetten in een contactpersoon. U kunt besluiten wie om het contact aan toe te wijzen, een bericht naar de eigenaar te verzenden, en een omgezette status te plaatsen.
+
 >[!NOTE]
 >
->Alleen beschikbaar bij integratie met [!DNL Salesforce].
+>Dit is alleen beschikbaar als het is geïntegreerd met [!DNL Salesforce] .
 
-## Overzicht {#overview}
-
-Gebruik deze stroomstap om een persoon om te zetten in een contactpersoon [!DNL Salesforce]. U kunt besluiten wie om het contact aan toe te wijzen, een bericht naar de eigenaar te verzenden, en een omgezette status te plaatsen.
-
-![](assets/one-2.png)
-
-## Gebruik {#usage}
+![](assets/convert-person-1.png)
 
 1. Selecteer aan wie u de resulterende contactpersoon, account en opportuniteit wilt toewijzen.
 
-   ![](assets/two-2.png)
+   ![](assets/convert-person-2.png)
 
    >[!CAUTION]
    >
-   >Als u een persoon in Marketo converteert, krijgt u een nieuwe account en krijgt u de kans om [!DNL Salesforce]. Als u geen dubbele rekeningen wilt, gebruik [!DNL Salesforce] om te zetten.
+   >Het converteren van een persoon in Marketo resulteert in een nieuwe account en in een nieuwe mogelijkheid in [!DNL Salesforce] . Als u geen dubbele accounts wilt, gebruikt u [!DNL Salesforce] om te converteren.
 
-1. Kies of u een **[!UICONTROL notification]** naar de eigenaar worden gestuurd of niet.
+1. Kies of u een **[!UICONTROL notification]** naar de eigenaar wilt sturen of niet.
 
-   ![](assets/three-2.png)
+   ![](assets/convert-person-3.png)
 
-1. Selecteer de **[!UICONTROL converted status]**.
+1. Selecteer de **[!UICONTROL converted status]** .
 
-   ![](assets/four-3.png)
-
-En daar ga je!
+   ![](assets/convert-person-4.png)

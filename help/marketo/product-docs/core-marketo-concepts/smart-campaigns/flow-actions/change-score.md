@@ -4,40 +4,36 @@ description: Score wijzigen - Marketo Docs - Productdocumentatie
 title: Score wijzigen
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '92'
+ht-degree: 0%
 
 ---
 
 # Score wijzigen {#change-score}
 
-## Overzicht {#overview}
+Het noteren van mensen is gemakkelijk en krachtig en helpt uw verkoopteam voorrang geven aan.
 
-Het noteren van mensen is gemakkelijk en krachtig om uw verkoopteam te helpen voorrang geven aan.
-
-![](assets/flowstep-changescore.png)
-
-## Gebruik {#usage}
+![](assets/change-score-1.png)
 
 1. Kies het scoreveld dat u wilt wijzigen.
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
-   >U kunt meerdere scorevelden maken. Zie [Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} voor meer informatie.
+   >U kunt meerdere scorevelden maken. Zie [ een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} voor details creëren.
 
 1. Voer de gewenste score in.
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    Wijzigingen:
 
    * **+5** naar verhogen
-   * **-5** wordt verlaagd (negatieve getallen zijn toegestaan)
-   * **=5** maakt de score exact zo hoog
-   * **=-5** Hiermee wordt de score exact zo negatief als
+   * **-5** neemt af (negatieve getallen zijn toegestaan)
+   * **=5** zal de score maken dat nauwkeurige aantal
+   * **=-5** zal de score maken die exact negatief aantal
 
-U kunt snel basisscoring instellen en de resultaten na verloop van tijd aanpassen. Dat is wat we deden!
+U kunt snel basisscoring instellen en de resultaten na verloop van tijd aanpassen.

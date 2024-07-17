@@ -4,38 +4,34 @@ description: Interessant moment - Marketo-documenten - productdocumentatie
 title: Interessant moment
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 0%
 
 ---
 
 # Interessant moment {#interesting-moment}
 
-## Overzicht {#overview}
+Als u het Inzicht van de Verkoop van Marketo hebt, kunt u de **Interesserende Stroom van het Moment** gebruiken om uw het teamzicht van de verkoop in de koele dingen te geven uw mensen doen.
 
-Als je Marketo Sales Insight hebt, kun je de **Interessant moment** stap om uw verkoopteam inzicht te geven in de coole dingen die uw mensen doen.
+![](assets/interesting-moment-1.png)
 
-![](assets/image2016-1-27-11-3a0-3a21.png)
+1. Selecteer het interessante moment **[!UICONTROL type]** dat u wilt gebruiken.
 
-## Gebruik {#usage}
+   ![](assets/interesting-moment-2.png)
 
-1. Selecteer het interessante moment **[!UICONTROL type]** wilt gebruiken.
+1. Maak een **[!UICONTROL description]** die het interessante moment aan uw verkoopteam uitlegt.
 
-   ![](assets/image2014-9-22-10-3a49-3a51.png)
-
-1. Een **[!UICONTROL description]** dat verklaart het interessante moment aan uw verkoopteam.
-
-   ![](assets/image2014-9-22-10-3a49-3a55.png)
+   ![](assets/interesting-moment-3.png)
 
    >[!TIP]
    >
-   >_Minder is meer_. Werk samen met uw verkoopteam om ervoor te zorgen dat interessante momenten eigenlijk interessant zijn.
+   >_minder is meer_. Werk samen met uw verkoopteam om ervoor te zorgen dat interessante momenten eigenlijk interessant zijn.
 
-U kunt ook [tokens in interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} om werkelijk nuttige dynamische beschrijvingen te maken.
+U kunt [ tokens in interessante momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} ook gebruiken om werkelijk nuttige dynamische beschrijvingen te maken.
 
 >[!MORELIKETHIS]
 >
->* [Interesserende momenten gebruiken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
->* [Tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}
+>* [ Gebruikend Interesserende Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
+>* [ Tokens voor het Interesten Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}

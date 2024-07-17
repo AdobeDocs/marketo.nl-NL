@@ -4,10 +4,10 @@ description: Webhaak bellen - Marketo Docs - Productdocumentatie
 title: Bellen Webhaak
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: '74'
+ht-degree: 0%
 
 ---
 
@@ -17,8 +17,6 @@ ht-degree: 1%
 >
 >[ creeer een Webhaak ](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
-## Overzicht {#overview}
-
 Met webhaks kunt u communiceren met services van derden. Verzend/ontvang informatie door een webhaak in een slimme campagnestroom te roepen.
 
 ![](assets/call-webhook-1.png)
@@ -27,9 +25,7 @@ Met webhaks kunt u communiceren met services van derden. Verzend/ontvang informa
 >
 >Leer over de vele fascinerende dingen die [ Webhooks ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks) {target="_blank"} voor u kunnen doen.
 
-## Gebruik {#usage}
-
-Selecteer een Webhaak van drop-down.
+1. Selecteer een Webhaak van drop-down.
 
 ![](assets/call-webhook-2.png)
 

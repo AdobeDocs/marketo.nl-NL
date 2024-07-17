@@ -4,9 +4,9 @@ description: Herordend Add Keuze in een Stroom Stap - de Documenten van Marketo 
 title: Opnieuw rangschikken Keuze toevoegen in een stroomstap
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,22 +17,22 @@ Aangezien alleen de eerste keuze voor overeenkomsten op een persoon van toepassi
 
 1. Zoek naar de stroomstap u de orde van een keus voor wilt veranderen.
 
-   ![](assets/one.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-1.png)
 
-1. In dit voorbeeld, laten wij Keus 3 omhoog boven Keus 2 bewegen. Klikken op **[!UICONTROL Choice 3]** klik vervolgens op **[!UICONTROL Move Up]**.
+1. In dit voorbeeld, laten wij Keus 3 omhoog boven Keus 2 bewegen. Klik op **[!UICONTROL Choice 3]** en klik vervolgens op **[!UICONTROL Move Up]** .
 
-   ![](assets/two.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-2.png)
 
    >[!NOTE]
    >
-   >Bij het opnieuw ordenen kunt u **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]**, of **[!UICONTROL Move To]**.
+   >Bij het opnieuw ordenen kunt u **[!UICONTROL Move Up]** , **[!UICONTROL Move Down]** of **[!UICONTROL Move To]** gebruiken.
 
    Mooi werk! Nu weet u hoe u een keuze in stappen omhoog of omlaag kunt verplaatsen.
 
-   ![](assets/three.png)
+   ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
-**OPTIONELE STAP**: Als u veel mogelijkheden hebt en één niveau omhoog of omlaag moet verplaatsen, kunt u deze alternatieve methode gebruiken om tijd te besparen. Klik op de keuze die u wilt verplaatsen en vervolgens onder **[!UICONTROL Move To]** Sleep de schuifregelaar naar de positie waarnaar u de keuze wilt verplaatsen.
+**OPTIONELE STAP**: Als u vele keuzen hebt en één veelvoudige niveaus omhoog of neer moet bewegen, kunt u deze afwisselende methode gebruiken om wat tijd te besparen. Klik op de keuze die u wilt verplaatsen en sleep de schuifregelaar onder **[!UICONTROL Move To]** naar de positie waarnaar u de keuze wilt verplaatsen.
 
-![](assets/four.png)
+![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
 Het is zo eenvoudig om de volgorde van de keuzemogelijkheden voor de stappen in de flow te herschikken.

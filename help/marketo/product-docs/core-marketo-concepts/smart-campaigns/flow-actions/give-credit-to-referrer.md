@@ -4,36 +4,32 @@ description: Crediteren aan Referrer - Marketo Docs - Productdocumentatie
 title: Crediteren aan referentie
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Crediteren aan referentie {#give-credit-to-referrer}
 
-## Overzicht {#overview}
-
-Wanneer u een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} or a [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, kunt u de referentie op verschillende manieren crediteren:
+Wanneer het runnen van a [ verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} of a [ sweepstakes ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, kunt u krediet aan de verwijzer geven gebruikend verschillende methodes:
 
 * Doorverwezen bezoeken
 * Aangewezen Sign-Ups
-* **Smart List Trigger**
-* Aangepaste JavaScript-gebeurtenis
+* **Slimme Trigger van de Lijst**
+* Custom JavaScript Event
 
-Als u ervoor kiest om de **Smart List Trigger** als u een doel wilt opgeven, moet u de optie **Crediteren aan referentie** stap Stroom.
+Als u verkoos om de **Slimme optie van de Lijst te gebruiken Trigger** om een doel te specificeren, zult u **moeten gebruiken Geef Krediet aan de stap van de Verwijzer**.
 
-![](assets/image2014-9-22-15-3a59-3a18.png)
+![](assets/give-credit-to-referrer-1.png)
 
-## Gebruik {#usage}
+1. Nadat u de campagne hebt gemaakt en hebt bepaald op welke actie u wilt activeren, zoekt en selecteert u gewoon de sociale app die u de referentie wilt toekennen.
 
-1. Als u eenmaal uw campagne hebt gemaakt en hebt besloten op welke actie u wilt starten, zoekt en selecteert u gewoon de sociale app die u de referentie wilt toekennen.
-
-   ![](assets/image2014-9-22-15-3a59-3a39.png)
+   ![](assets/give-credit-to-referrer-2.png)
 
    >[!NOTE]
    >
-   >Controleer of uw sociale app is geconfigureerd voor gebruik van Smart List Trigger. Zie [Doel voor doorverwijzing opgeven](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} voor meer informatie.
+   >Controleer of uw sociale app is geconfigureerd voor gebruik van Smart List Trigger. Zie [ Doel voor Verwijzing aanbieden ](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"} voor details specificeren.
 
 Uitstekend! Elke persoon die met deze stap wordt verwerkt, zal nu zijn referentie crediteren.

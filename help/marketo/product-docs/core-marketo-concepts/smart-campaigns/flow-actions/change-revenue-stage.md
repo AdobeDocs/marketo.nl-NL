@@ -4,30 +4,26 @@ description: Opbrengstfase wijzigen - Marketo-documenten - productdocumentatie
 title: Opbrengstfase wijzigen
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 1%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
 # Opbrengstfase wijzigen {#change-revenue-stage}
 
-## Overzicht {#overview}
+Als u de Cyclus van de Opbrengst Modeler gebruikt en een goedgekeurd model hebt, kunt u besluiten om mensen manueel van één stadium aan een andere te bewegen. Deze stap helpt.
 
-Als u de Modellen van de Cyclus van de Opbrengst gebruikt en een goedgekeurd model hebt, kunt u besluiten om mensen manueel van één stadium aan een andere te bewegen. Deze stap helpt.
+![](assets/change-revenue-stage-1.png)
 
-![](assets/image2014-9-22-17-3a4-3a59.png)
+1. Selecteer de **[!UICONTROL Model]** .
 
-## Gebruik {#usage}
+   ![](assets/change-revenue-stage-2.png)
 
-1. Selecteer de **[!UICONTROL Model]**.
+1. Selecteer de **[!UICONTROL New Stage]** die u wilt toewijzen en u bent klaar!
 
-   ![](assets/image2014-9-22-17-3a5-3a4.png)
-
-1. Selecteer de **[!UICONTROL New Stage]** U wilt toewijzen en u bent klaar!
-
-   ![](assets/image2014-9-22-17-5-8.png)
+   ![](assets/change-revenue-stage-3.png)
 
    >[!CAUTION]
    >

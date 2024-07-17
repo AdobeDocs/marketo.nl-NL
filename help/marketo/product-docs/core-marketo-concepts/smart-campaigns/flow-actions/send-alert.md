@@ -4,51 +4,47 @@ description: Waarschuwing verzenden - Marketo-documenten - productdocumentatie
 title: Waarschuwing verzenden
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # Waarschuwing verzenden {#send-alert}
 
-## Overzicht {#overview}
+Marketo Engage kan een e-mailalarm met persooninformatie naar iedereen - de verkoopeigenaar, een partner, of iemand anders verzenden. Gebruik de stap &quot;[!UICONTROL Send Alert]&quot;-stroom.
 
-Marketo kan een e-mailbericht met persoonlijke gegevens naar iedereen sturen - de eigenaar van de verkoop, een partner of iemand anders. Gebruik de &quot;[!UICONTROL Send Alert]&quot;.
-
-![](assets/one-1.png)
-
-## Gebruik {#usage}
+![](assets/send-alert-1.png)
 
 1. Zoek en selecteer het e-mailbericht dat u wilt verzenden.
 
-   ![](assets/two-1.png)
+   ![](assets/send-alert-2.png)
 
    >[!NOTE]
    >
-   >Uw e-mailwaarschuwing moet alle koptekstgegevens bevatten en in het **[!UICONTROL Approved]** status.
+   >Uw e-mailwaarschuwing moet alle koptekstgegevens bevatten en de status **[!UICONTROL Approved]** hebben.
 
 1. U kunt op het voorvertoningspictogram klikken om te controleren of u het juiste e-mailadres hebt geselecteerd.
 
-   ![](assets/three-1.png)
+   ![](assets/send-alert-3.png)
 
    >[!NOTE]
    >
-   >Zorg ervoor dat u de &quot;[!UICONTROL Send Alert Info]&quot;token in je e-mail.
+   >Gebruik de token &quot;[!UICONTROL Send Alert Info]&quot; in uw e-mail.
 
-1. Selecteer de ontvanger van de waarschuwing. U kunt kiezen [!UICONTROL Sales Owner] of [!UICONTROL Account Owner].
+1. Selecteer de ontvanger van de waarschuwing. U kunt [!UICONTROL Sales Owner] of [!UICONTROL Account Owner] kiezen.
 
-   ![](assets/four-2.png)
+   ![](assets/send-alert-4.png)
 
 1. Voeg desgewenst andere e-mailadressen toe (gescheiden door een komma of een puntkomma).
 
-   ![](assets/five.png)
+   ![](assets/send-alert-5.png)
 
    >[!TIP]
    >
-   >In triggercampagnes kunt u tokens gebruiken in **[!UICONTROL To Other Emails]** zoals `{{lead.Territory Owner}}` of `{{my.Alert Recipient}}` als de waarden geldige e-mailadressen zijn. Tokens in **[!UICONTROL To Other Emails]** werkt niet in een batchcampagne.
+   >In triggercampagnes kunt u tokens gebruiken in **[!UICONTROL To Other Emails]** zoals `{{lead.Territory Owner}}` of `{{my.Alert Recipient}}` als de waarden geldige e-mailadressen zijn. Tokens in **[!UICONTROL To Other Emails]** werken niet in een batchcampagne.
 
 >[!MORELIKETHIS]
 >
->[Een e-mail maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}
+>[ creeer een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}
