@@ -4,9 +4,9 @@ description: Status wijzigen in SFDC-campagne - Marketo Docs - Productdocumentat
 title: Status wijzigen in SFDC-campagne
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,12 @@ Met deze flowstap kunt u de status van leads voor het lid van de Salesforce-camp
 
 Als een leiding niet bestaat in Salesforce of nog geen lid is van de campagne, wordt deze automatisch gesynchroniseerd en met de juiste status toegevoegd aan de Salesforce-campagne.
 
-![](assets/image2014-9-22-15-3a13-3a54.png)
+![](assets/change-status-in-sfdc-campaign-1.png)
 
-## Gebruik {#usage}
+1. Zoek eerst de Salesforce **[!UICONTROL Campaign]** in en selecteer deze.
 
-1. Zoek en selecteer eerst de Salesforce **[!UICONTROL Campaign]** de staat van dienst.
+   ![](assets/change-status-in-sfdc-campaign-2.png)
 
-   ![](assets/image2014-9-22-15-3a13-3a58.png)
+1. Selecteer vervolgens de **[!UICONTROL New Status]** die u wilt instellen en u bent klaar!
 
-1. Selecteer vervolgens de optie **[!UICONTROL New Status]** Je wilt instellen, en je bent klaar!
-
-   ![](assets/image2014-9-22-15-3a14-3a0.png)
+   ![](assets/change-status-in-sfdc-campaign-3.png)

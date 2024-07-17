@@ -4,18 +4,18 @@ description: Verwijderen uit SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Verwijderen uit SFDC-campagne
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
 # Verwijderen uit SFDC-campagne {#remove-from-sfdc-campaign}
 
-Net als hoe je kunt [Toevoegen aan SFDC-campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} and [Change Status in SFDC Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}U kunt ook mensen of leads verwijderen uit een Salesforce-campagne.
+Enkel als hoe u aan de Campagne van SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} kunt toevoegen en [ Status van de Verandering in Campagne SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}, kunt u mensen of lood uit een campagne van Salesforce ook verwijderen.[
 
-![](assets/image2014-9-22-15-3a54-3a34.png)
+![](assets/remove-from-sfdc-campaign-1.png)
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Net als hoe je kunt [Toevoegen aan SFDC-campagne](/help/marketo/product-docs/cor
 
 1. Nadat u in de stap Stroom hebt gesleept, zoekt en selecteert u de Salesforce-campagne waaruit u de persoon of de lead wilt verwijderen.
 
-   ![](assets/image2014-9-22-15-3a54-3a39.png)
+   ![](assets/remove-from-sfdc-campaign-2.png)
 
    >[!TIP]
    >
