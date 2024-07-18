@@ -4,32 +4,32 @@ description: Leden van slimme campagnes weergeven - Marketo Docs - Productdocume
 title: Leden van slimme campagnes weergeven
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # Leden van slimme campagnes weergeven {#view-smart-campaign-members}
 
-Bekijk de personen die al door de slimme-campagnestroom zijn gelopen, dat wil zeggen: leden van de slimme campagne.
+Personen weergeven die al door de slimme-campagnestroom zijn gelopen.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
-![](assets/login-marketing-activities.png)
+   ![](assets/view-smart-campaign-members-1.png)
 
-1. Klik in uw slimme campagne op **[!UICONTROL View Campaign Members]**.
+1. Klik in de slimme campagne op **[!UICONTROL View Campaign Members]** .
 
-   ![](assets/changescore-hands.png)
+   ![](assets/view-smart-campaign-members-2.png)
 
->[!TIP]
->
->U kunt campagnegeleden van overal binnen een Slimme Campagne bekijken.
+   >[!TIP]
+   >
+   >U kunt campagnegeleden van overal binnen een Slimme Campagne bekijken.
 
-1. De **[!UICONTROL Campaign Members]** toont mensen die reeds door de Slimme stroom van de Campagne lopen.
+1. Op het tabblad **[!UICONTROL Campaign Members]** worden mensen weergegeven die de slimme-campagnestroom al hebben doorlopen.
 
-   ![](assets/smartcampaignheader-complete.jpg)
+   ![](assets/view-smart-campaign-members-3.png)
 
    >[!NOTE]
    >
@@ -37,4 +37,4 @@ Bekijk de personen die al door de slimme-campagnestroom zijn gelopen, dat wil ze
 
    >[!MORELIKETHIS]
    >
-   >[Geblokkeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+   >[ Geblokkeerde Mensen van de Mening in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
