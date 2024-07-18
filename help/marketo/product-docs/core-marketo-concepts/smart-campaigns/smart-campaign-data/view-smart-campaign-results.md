@@ -4,7 +4,7 @@ description: Resultaten van slimme campagnes weergeven - Marketo Docs - Productd
 title: Resultaten van slimme campagnes weergeven
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -15,28 +15,28 @@ ht-degree: 0%
 
 Wilt u een einde zien aan alles wat er in een slimme campagne is gebeurd? Zo gaat het.
 
-1. Klik in uw slimme campagne op **[!UICONTROL Results]**.
+>[!TIP]
+>
+>U kunt de lijst van mensen zien die door de Slimme Campagne door [ leden van de Campagne van de Mening te klikken ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"} werden verwerkt.
+
+1. Klik in de slimme campagne op **[!UICONTROL Results]** .
+
+   ![](assets/view-smart-campaign-results-1.png)
 
    >[!TIP]
    >
-   >U kunt de lijst met personen zien die zijn verwerkt door de slimme campagne door op [Campagneleden weergeven](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
+   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe te [ de resultaten van de filter Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
 
-   ![](assets/image2014-9-22-11-38-10.jpg)
+1. Klik op een **[!UICONTROL ID]** om meer details over die bepaalde activiteit weer te geven.
 
-   >[!TIP]
-   >
-   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe u [resultaten van slimme campagnes filteren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
-
-1. Klik op een **[!UICONTROL ID]** voor meer informatie over die specifieke activiteit.
-
-   ![](assets/image2014-9-22-11-39-22.jpg)
+   ![](assets/view-smart-campaign-results-2.png)
 
    >[!TIP]
    >
    >Persoonsgegevens weergeven door op de naam van de persoon te klikken.
 
-   Dig in de resultaten om te zien wat uw campagne eigenlijk deed, of eenvoudig [resultaten van slimme campagnes exporteren naar Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Dig in de resultaten om te zien wat uw campagne eigenlijk deed, of eenvoudig [ de slimme resultaten van de Campagne van de uitvoer naar Excel ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >[Resultaten van slimme campagnes filteren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}
+   >[ de Slimme Resultaten van de Campagne van de Filter Slimme ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}

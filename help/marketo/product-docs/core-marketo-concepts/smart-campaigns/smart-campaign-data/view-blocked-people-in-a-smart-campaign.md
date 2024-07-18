@@ -4,9 +4,9 @@ description: Geblokkeerde personen weergeven in een slimme campagne - Marketo Do
 title: Geblokkeerde personen weergeven in een slimme campagne
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Geblokkeerde personen in de database Marketo Engage worden gemarkeerd als op de lijst met ongewenste personen staan, afgemeld, marketing opgeschort en/of hebben een ongeldig of leeg e-mailbericht.
 
-1. Klik in uw slimme campagne op **[!UICONTROL Schedule]**. Onder **[!UICONTROL Smart List Status]** klikt u op de tweede koppeling.
+1. Klik in de slimme campagne op **[!UICONTROL Schedule]** . Klik onder **[!UICONTROL Smart List Status]** op de tweede koppeling.
 
-   ![](assets/image2014-9-22-16-3a47-3a38.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
    >[!NOTE]
    >
-   >Personen die hun communicatielimieten hebben bereikt, kunnen ook worden verhinderd om berichten te ontvangen. Leer hoe u [communicatielimieten bewerken](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de sectie Beheer.
+   >Personen die hun communicatielimieten hebben bereikt, kunnen ook worden verhinderd om berichten te ontvangen. Leer hoe te [ communicatielimieten ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de Admin sectie uitgeven.
 
    Op het tabblad Geblokkeerde personen worden personen weergegeven die mogelijk geen berichten ontvangen.
 
-   ![](assets/image2014-9-22-16-3a48-3a11.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -33,9 +33,7 @@ Geblokkeerde personen in de database Marketo Engage worden gemarkeerd als op de 
 
    >[!MORELIKETHIS]
    >
-   >* [Kwalificatieregels bewerken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}
-   >* [Communicatielimieten inschakelen](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
-   >* [Leden van slimme campagnes weergeven](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
-   >* [Gekwalificeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}
-
-Daar ga je! Nu kunt u zich bewust zijn van wie niet de berichten zou kunnen ontvangen.
+   >* [ geeft de Regels van de Kwalificatie uit ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}
+   >* [ laat Communicatie Limieten ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} toe
+   >* [ Leden van de Campagne van de Mening Slimme ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+   >* [ Mening Gekwalificeerde Mensen in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}

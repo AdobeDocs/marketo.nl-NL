@@ -4,7 +4,7 @@ description: Een slimme lijst maken - Marketo Docs - Productdocumentatie
 title: Een slimme lijst maken
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -15,28 +15,28 @@ ht-degree: 0%
 
 Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvoudige filters. Zo maak je er een.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-smart-list-1.png)
 
 1. Selecteer het programma waarin u de slimme lijst wilt maken.
 
-   ![](assets/image2014-8-11-10-3a17-3a8.png)
+   ![](assets/create-a-smart-list-2.png)
 
-1. Onder **[!UICONTROL New]**, klikt u op **[!UICONTROL New Local Asset]**.
+1. Klik onder **[!UICONTROL New]** op **[!UICONTROL New Local Asset]** .
 
-   ![](assets/image2014-9-9-16-3a26-3a28.png)
+   ![](assets/create-a-smart-list-3.png)
 
-1. Selecteren **[!UICONTROL Smart List]**.
+1. Selecteer **[!UICONTROL Smart List]** .
 
-   ![](assets/image2014-9-9-16-3a27-3a18.png)
+   ![](assets/create-a-smart-list-4.png)
 
-1. Voer een **[!UICONTROL Name]** en klik op **[!UICONTROL Create]**.
+1. Voer een **[!UICONTROL Name]** in en klik op **[!UICONTROL Create]** .
 
-   ![](assets/image2014-9-9-16-3a27-3a39.png)
+   ![](assets/create-a-smart-list-5.png)
 
    Ta-da, geweldig werk! Laten we nu enkele filters toevoegen en definiëren.
 
    >[!MORELIKETHIS]
    >
-   >[Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+   >[ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe

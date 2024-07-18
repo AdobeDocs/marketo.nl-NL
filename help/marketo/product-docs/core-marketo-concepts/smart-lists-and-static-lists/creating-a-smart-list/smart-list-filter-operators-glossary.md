@@ -4,9 +4,9 @@ description: Verklarende woordenlijst van slimme-lijstfilteroperatoren - Marketo
 title: Verklarende woordenlijst voor slimme-lijstfilteroperatoren
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 198d7d7fd4c1c312aeb30fa922fd89863ac87f81
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -19,28 +19,90 @@ Hier volgt een verklarende woordenlijst die elke reeks exploitanten beschrijft.
 
 ## Datumvelden {#date-fields}
 
-![](assets/image2014-9-10-17-3a15-3a47.png)
+![](assets/smart-list-filter-operators-glossary-1.png)
 
 Wanneer u een operator kiest, verandert de rechterzijde dynamisch.
 
-| Operator | Rechterkant | Beschrijving |
-|---|---|---|
-| is | Enkele datum | Exacte datumovereenkomst |
-| is niet | Enkele datum | Elke datum behalve de opgegeven datum |
-| Tussen | Twee datumvelden | Elke datum met en tussen twee opgegeven data |
-| in het verleden | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
-| in het verleden | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
-| in de toekomst | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
-| later | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
-| in tijdkader | Voorinstellingen (afgelopen kwartaal, gisteren, enz.) | Gedefinieerd in picklist |
-| na | Enkele datum | Alle records na de opgegeven datum |
-| voor | Enkele datum | Alle records voor de opgegeven record |
-| op of na | Enkele datum | Gelijk aan &quot;after&quot; maar inclusief |
-| op of voor | Enkele datum | Gelijk aan &quot;before&quot; maar inclusief |
-| is leeg | Geen | Alle records zonder datum |
-| is niet leeg | Geen | Alle records met een willekeurige datum |
+<table><thead>
+  <tr>
+    <th>Operator</th>
+    <th>Rechterkant</th>
+    <th>Beschrijving</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>is</td>
+    <td>Enkele datum</td>
+    <td>Exacte datumovereenkomst</td>
+  </tr>
+  <tr>
+    <td>is niet</td>
+    <td>Enkele datum</td>
+    <td>Elke datum behalve de opgegeven datum</td>
+  </tr>
+  <tr>
+    <td>Tussen</td>
+    <td>Twee datumvelden</td>
+    <td>Elke datum met en tussen twee opgegeven data</td>
+  </tr>
+  <tr>
+    <td>in het verleden</td>
+    <td>Invoer in natuurlijke taal*</td>
+    <td>Zie onderstaande figuur</td>
+  </tr>
+  <tr>
+    <td>in het verleden</td>
+    <td>Invoer in natuurlijke taal*</td>
+    <td>Zie onderstaande figuur</td>
+  </tr>
+  <tr>
+    <td>in de toekomst</td>
+    <td>Invoer in natuurlijke taal*</td>
+    <td>Zie onderstaande figuur</td>
+  </tr>
+  <tr>
+    <td>later</td>
+    <td>Invoer in natuurlijke taal*</td>
+    <td>Zie onderstaande figuur</td>
+  </tr>
+  <tr>
+    <td>in tijdkader</td>
+    <td>Voorinstellingen (afgelopen kwartaal, gisteren, enz.)</td>
+    <td>Gedefinieerd in picklist</td>
+  </tr>
+  <tr>
+    <td>na</td>
+    <td>Enkele datum</td>
+    <td>Alle records na de opgegeven datum</td>
+  </tr>
+  <tr>
+    <td>voor</td>
+    <td>Enkele datum</td>
+    <td>Alle records voor de opgegeven record</td>
+  </tr>
+  <tr>
+    <td>op of na</td>
+    <td>Enkele datum</td>
+    <td>Gelijk aan "after" maar inclusief</td>
+  </tr>
+  <tr>
+    <td>op of voor</td>
+    <td>Enkele datum</td>
+    <td>Gelijk aan "before" maar inclusief</td>
+  </tr>
+  <tr>
+    <td>is leeg</td>
+    <td>Geen</td>
+    <td>Alle records zonder datum</td>
+  </tr>
+  <tr>
+    <td>is niet leeg</td>
+    <td>Geen</td>
+    <td>Alle records met een willekeurige datum</td>
+  </tr>
+</tbody></table>
 
-&#42; Invoer in de natuurlijke taal is cool. Hier volgen enkele voorbeelden van patronen die u kunt invoeren:
+**&#42;** Invoer in de natuurlijke taal is cool. Hier volgen enkele voorbeelden van patronen die u kunt invoeren:
 
 * 1 uur
 * 82 dagen
@@ -52,15 +114,15 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!NOTE]
 >
->&quot;In het verleden&quot; _doet_ neem de dag op (tot de tijd, niet daarna) u creeert uw Slimme Lijst.
+>&quot;In het verleden&quot; _omvat_ de dag (tot de tijd, niet na) u uw Slimme Lijst creeert.
 
 >[!CAUTION]
 >
->Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de beperkingen gebruikt **[!UICONTROL before]**, **[!UICONTROL on or before]**, of **[!UICONTROL in past before]** bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
+>Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de beperkingen **[!UICONTROL before]**, **[!UICONTROL on or before]** of **[!UICONTROL in past before]** gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
 
 Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrijpen.
 
-![](assets/image2014-9-10-17-3a15-3a58.png)
+![](assets/smart-list-filter-operators-glossary-2.png)
 
 >[!NOTE]
 >
@@ -78,18 +140,48 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
 
 ## Reeksvelden {#string-fields}
 
-![](assets/image2014-9-10-17-3a16-3a6.png)
+![](assets/smart-list-filter-operators-glossary-3.png)
 
-| Operator | Beschrijving |
-|---|---|
-| is | Exacte overeenkomst (niet hoofdlettergevoelig) |
-| is niet | Alles behalve exact overeenkomen |
-| begint met | Eerste tekenreeksletters |
-| begint niet met | Eerste letters van tekenreeks KOMEN NIET overeen |
-| contains | Alle letters in de tekenreeks komen overeen (bijvoorbeeld: california, fortune, daarvoor) |
-| bevat niet | Geen letters in de tekenreeks komen overeen. (reverse van &quot;contains&quot;) |
-| is leeg | Records die geen waarde hebben (NULL) |
-| is niet leeg | Records met ANY-waarde |
+<table><thead>
+  <tr>
+    <th>Operator</th>
+    <th>Beschrijving</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>is</td>
+    <td>Exacte overeenkomst (niet hoofdlettergevoelig)</td>
+  </tr>
+  <tr>
+    <td>is niet</td>
+    <td>Alles behalve exact overeenkomen</td>
+  </tr>
+  <tr>
+    <td>begint met</td>
+    <td>Eerste tekenreeksletters</td>
+  </tr>
+  <tr>
+    <td>begint niet met</td>
+    <td>Eerste letters van tekenreeks KOMEN NIET overeen</td>
+  </tr>
+  <tr>
+    <td>contains</td>
+    <td>Alle letters in de tekenreeks komen overeen (bijvoorbeeld: california, fortune, daarvoor)</td>
+  </tr>
+  <tr>
+    <td>bevat niet</td>
+    <td>Geen letters in de tekenreeks komen overeen. (reverse van "contains")</td>
+  </tr>
+  <tr>
+    <td>is leeg</td>
+    <td>Records die geen waarde hebben (NULL)</td>
+  </tr>
+  <tr>
+    <td>is niet leeg</td>
+    <td>Records met ANY-waarde</td>
+  </tr>
+</tbody>
+</table>
 
 >[!TIP]
 >
@@ -97,53 +189,51 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
 
 ## Gehele velden {#integer-fields}
 
-![](assets/image2014-9-10-17-3a16-3a14.png)
+![](assets/smart-list-filter-operators-glossary-4.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Operator</th> 
-   <th colspan="1" rowspan="1">Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">is</td> 
-   <td colspan="1" rowspan="1">De nauwkeurige aantalgelijke ( = 0 zal beide lood met 0 terugkeren <em>en</em> NULL)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">is niet</td> 
-   <td colspan="1" rowspan="1">Alles behalve exact aantal komt overeen</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">Tussen</td> 
-   <td colspan="1" rowspan="1">Definieer twee waarde om iedereen tussen (inclusief) te vinden</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">groter dan</td> 
-   <td colspan="1" rowspan="1">Boven de opgegeven</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">minder dan</td> 
-   <td colspan="1" rowspan="1">Minder dan opgegeven</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">ten minste</td> 
-   <td colspan="1" rowspan="1">Boven het opgegeven (inclusief)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">hoogstens</td> 
-   <td colspan="1" rowspan="1">Kleiner dan opgegeven (inclusief)</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">is leeg</td> 
-   <td colspan="1" rowspan="1">Records die geen waarde hebben (NULL) - nul is een getal, het is <em>niet</em> NULL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">is niet leeg</td> 
-   <td colspan="1" rowspan="1">Records met ANY-waarde (inclusief nul)</td> 
-  </tr> 
- </tbody> 
+<table><thead>
+  <tr>
+    <th>Operator</th>
+    <th>Beschrijving</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>is</td>
+    <td>De nauwkeurige aantalgelijke ( = 0 zal zowel lood met 0 als ONGELDIG terugkeren)</td>
+  </tr>
+  <tr>
+    <td>is niet</td>
+    <td>Alles behalve exact aantal komt overeen</td>
+  </tr>
+  <tr>
+    <td>Tussen</td>
+    <td>Definieer twee waarde om iedereen tussen (inclusief) te vinden</td>
+  </tr>
+  <tr>
+    <td>groter dan</td>
+    <td>Boven de opgegeven</td>
+  </tr>
+  <tr>
+    <td>minder dan</td>
+    <td>Minder dan opgegeven</td>
+  </tr>
+  <tr>
+    <td>ten minste</td>
+    <td>Boven het opgegeven (inclusief)</td>
+  </tr>
+  <tr>
+    <td>hoogstens</td>
+    <td>Kleiner dan opgegeven (inclusief)</td>
+  </tr>
+  <tr>
+    <td>is leeg</td>
+    <td>Records die geen waarde hebben (NULL) - nul is een getal, het is niet NULL</td>
+  </tr>
+  <tr>
+    <td>is niet leeg</td>
+    <td>Records met ANY-waarde (inclusief nul)</td>
+  </tr>
+</tbody>
 </table>
 
 Zoals u ziet, maken deze operatoren het gemakkelijk om Marketo-ese met soepelheid te spreken!
