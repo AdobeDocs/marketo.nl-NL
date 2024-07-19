@@ -2,10 +2,8 @@
 description: Verklarende woordenlijst van het pictogram - de Documenten van het Marketo Engage - de Documentatie van het Product
 title: Woordenlijst met pictogrammen
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
@@ -14,16 +12,16 @@ ht-degree: 2%
 
 # Woordenlijst met pictogrammen voor Marketo&#39;s Engage {#icon-glossary}
 
-Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface. Als u naar de Marketo Classic-pictogrammen moet verwijzen, kunnen deze [hier gevonden](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface. Als u de pictogrammen van Marketo Classic moet van verwijzingen voorzien, kunnen zij [ hier ](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md) worden gevonden.
 
 ## Algemene pictogrammen {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th>
+   <th style="width:25%">Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><strong>nvt</strong></td> 
@@ -228,7 +226,7 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
   <tr>
    <td><img src="assets/classic-workspace.png"></td> 
    <td><img src="assets/workspace.png"></td> 
-   <td>Werkruimte</td> 
+   <td>Workspace</td> 
   </tr>
   <tr>
    <td><img src="assets/classic-youtube.png"></td> 
@@ -243,9 +241,9 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th> 
+   <th style="width:25%"> Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th> 
+   <th style="width:25%"> Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th> 
+   <th style="width:25%"> Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th> 
+   <th style="width:25%"> Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th> 
+   <th style="width:25%"> Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -408,14 +406,14 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
  </tbody>
 </table>
 
-## Activa {#assets}
+## Assets {#assets}
 
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th> 
+   <th style="width:25%"> Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ Hieronder ziet u de pictogrammen voor de huidige Adobe Marketo Engage-interface.
 <table> 
  <tbody>
   <tr>
-   <th>Oud pictogram</th> 
-   <th> Nieuw pictogram</th> 
-   <th>Beschrijving</th> 
+   <th style="width:25%">Oud pictogram</th> 
+   <th style="width:25%"> Nieuw pictogram</th> 
+   <th style="width:50%">Beschrijving</th> 
   </tr>
   <tr>
    <td><strong>nvt</strong></td> 

@@ -2,10 +2,8 @@
 description: Klassieke pictogramwoordenlijst - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Klassiek pictogram
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
@@ -14,15 +12,15 @@ ht-degree: 0%
 
 # Verklarende woordenlijst Klassiek pictogram {#classic-icon-glossary}
 
-Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidige woordenlijst met pictogrammen kan [hier gevonden](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}.
+Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidige pictogramverklarende woordenlijst kan [ hier ](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} worden gevonden.
 
 **Algemene pictogrammen**
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th>
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td> 
@@ -51,7 +49,7 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   <tr> 
    <td><img width="25" src="assets/share-from.png"> 
     </td> 
-   <td>Doelmap die vanuit een andere werkruimte is gedeeld <br>(hangslot geeft aan dat er geen bewerkingen kunnen worden uitgevoerd)</td> 
+   <td>Doelmap die vanuit een andere werkruimte is gedeeld <br> (met Padlock wordt aangegeven dat er geen bewerkingen kunnen worden uitgevoerd)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png"> 
@@ -111,8 +109,8 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th>
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-8-15-3a58-3a8.png"> 
@@ -237,8 +235,8 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th> 
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2014-12-18-16-3a45-3a45.png"> 
@@ -303,7 +301,7 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   <tr> 
    <td><img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </td> 
-   <td>Email Program <br>(Rode markering omlaag = e-mail is nog niet verzonden)</td> 
+   <td>E-mailprogramma <br> (Rode vlag omlaag = e-mail is nog niet verzonden)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/hs-icon.png"> 
@@ -503,8 +501,8 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th> 
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png"> 
@@ -529,7 +527,7 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   <tr> 
    <td><img src="assets/image2015-1-12-10-3a59-3a48.png"> 
     </td> 
-   <td>Publiceren naar Facebook</td> 
+   <td>Publish naar Facebook</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-12-11-3a0-3a49.png"> 
@@ -639,8 +637,8 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th>
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png"> 
@@ -720,8 +718,8 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th> 
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-13-3a53-3a27.png"> 
@@ -771,8 +769,8 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th>
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th>
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a18-3a8.png"> 
@@ -827,8 +825,8 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:10%">Pictogram</th>
-   <th style="width:90%">Naam</th> 
+   <th style="width:15%">Pictogram</th>
+   <th style="width:85%">Naam</th> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-16-3a26-3a11.png"> 
