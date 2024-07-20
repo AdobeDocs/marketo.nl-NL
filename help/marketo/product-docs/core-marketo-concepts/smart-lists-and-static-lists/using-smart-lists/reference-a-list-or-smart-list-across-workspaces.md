@@ -4,9 +4,9 @@ description: Verwijzing naar een lijst of slimme lijst in werkruimten - Marketo 
 title: Verwijzen naar een lijst of slimme lijst in werkruimten
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,33 +17,37 @@ Lijsten en slimme lijsten kunnen worden gedeeld en van verwijzingen voorzien ove
 
 >[!NOTE]
 >
->De verdelingsregels van de persoon zijn van toepassing (Slimme Lijsten en statische lijsten in een werkruimte tonen slechts mensen die allebei lid van de lijst zijn _en_ leden van de huidige werkruimte).
+>De verdelingsregels van de persoon zijn van toepassing (Slimme Lijsten en statische lijsten in een werkruimte tonen slechts mensen die zowel leden van de lijst _als_ leden van de huidige werkruimte zijn).
 
 ## Een lijst of slimme lijst delen {#share-a-list-or-smart-list}
 
-1. Ga naar de **[!UICONTROL Database]**.
+1. Ga naar de **[!UICONTROL Database]** .
 
-   ![](assets/db-1.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Klik met de rechtermuisknop op een campagnemap. Selecteren **Nieuwe map**.
+1. Klik met de rechtermuisknop op een campagnemap. Selecteer **Nieuwe Omslag**.
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
    >[!NOTE]
    >
-   >Elementen kunnen alleen worden gedeeld door werkruimten als ze in een map zijn genest.
+   >Assets kan alleen worden gedeeld door werkruimten als deze in een map zijn genest.
 
-   ![](assets/two-4.png)
+1. Geef de map een naam en klik op **[!UICONTROL Create]** .
+
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
 1. Sleep een lijst of slimme lijst die u wilt delen naar de nieuwe map en zet deze neer.
 
-   ![](assets/three-4.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Klikken met rechtermuisknop **[!UICONTROL New Folder]** en selecteert u **[!UICONTROL Share Folder]**.
+1. Klik met de rechtermuisknop op de nieuwe map en selecteer **[!UICONTROL Share folder]** .
 
-   ![](assets/four-3.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Kies een **[!UICONTROL Workspace]** om mee te delen. Selecteren **[!UICONTROL Save]**.
+1. Kies een **[!UICONTROL Workspace]** die u wilt delen en klik op **[!UICONTROL Save]** .
 
-   ![](assets/image2014-12-9-15-3a37-3a25.png)
+   ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
    Geweldig! Deze lijst is nu beschikbaar in beide werkruimten.
 

@@ -4,7 +4,7 @@ description: Een lijst of slimme lijst klonen - Marketo Docs - Productdocumentat
 title: Een lijst of slimme lijst klonen
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -15,20 +15,16 @@ ht-degree: 0%
 
 In plaats van een slimme lijst helemaal zelf te maken, kunt u wat tijd besparen door een vergelijkbare lijst te klonen en wijzigingen aan te brengen. Zo gaat het.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/clone-a-list-or-smart-list-1.png)
 
-1. Selecteer de slimme lijst die u wilt klonen.
+1. Selecteer de slimme lijst die u wilt klonen. Klik onder **[!UICONTROL List Actions]** op **[!UICONTROL Clone Smart List]** .
 
-   ![](assets/smartlist-find.png)
+   ![](assets/clone-a-list-or-smart-list-2.png)
 
-1. Onder **[!UICONTROL List Actions]**, klikt u op **[!UICONTROL Clone Smart List]**.
+1. Voer een **[!UICONTROL Name]** in en klik op **[!UICONTROL Clone]** .
 
-   ![](assets/clonesmartlist-hands.png)
-
-1. Voer een **[!UICONTROL Name]** en klik op **[!UICONTROL Clone]**.
-
-   ![](assets/supersmartlist-clonewindow.png)
+   ![](assets/clone-a-list-or-smart-list-3.png)
 
 Mooi werk! U kunt gewone lijsten ook op dezelfde manier klonen.
