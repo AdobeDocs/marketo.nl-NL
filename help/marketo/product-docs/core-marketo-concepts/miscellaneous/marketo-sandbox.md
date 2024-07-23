@@ -3,9 +3,9 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - Productdocumentatie
 title: Marketo-sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,9 @@ Een Marketo-sandbox kan niet worden gesynchroniseerd met uw normale CRM-server a
 
 ## Informatie over sandboxen {#things-to-know-about-sandboxes}
 
-* Zodra het Team van de Rekening van de Adobe uw zandbak opstelling heeft en u de uitnodiging verzendt, moet u een verschillend e-mailadres aan login gebruiken dan uw de productieinstantie van Marketo.
-* Als u gebruikers wilt toevoegen, is het proces hetzelfde als [toevoegen van gebruikers in productie](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Ze moeten opnieuw een ander e-mailadres gebruiken als ze al een Marketo-aanmelding hebben.
+* Als u wenst om gebruikers toe te voegen, is het proces het zelfde als [ toevoegend gebruikers in productie ](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). Ze moeten opnieuw een ander e-mailadres gebruiken als ze al een Marketo-aanmelding hebben.
 * De Marketo-sandbox is leeg, maar heeft dezelfde functies als de productie-instantie.
-* Als u een programma maakt in uw sandbox en het wilt verplaatsen naar de productie, kunt u een [programma importeren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md).
+* Als u een programma in uw zandbak creeert en het aan productie wilt bewegen, kunt u de invoer van het a [ programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md) uitvoeren.
 * Sandboxen worden vertraagd, zodat productieinstanties niet worden beïnvloed door testomgevingen. U kunt maximaal 20 e-mails per campagne verzenden.
 
 >[!CAUTION]
@@ -34,7 +33,7 @@ Een Marketo-sandbox kan niet worden gesynchroniseerd met uw normale CRM-server a
 
 ## Instantie kopiëren {#instance-copy}
 
-U kunt een ondersteuningsgeval indienen waarin u een eenmalige instantie-kopie aanvraagt om de sandbox te vullen. Het exemplaar van de instantie wordt niet overgedragen _alles_, echter. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) voor meer informatie.
+U kunt een ondersteuningsgeval indienen waarin u een eenmalige instantie-kopie aanvraagt om de sandbox te vullen. Het instantieexemplaar zal niet _alles_, nochtans brengen. Gelieve te raadplegen [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) voor details.
 
 >[!NOTE]
 >
