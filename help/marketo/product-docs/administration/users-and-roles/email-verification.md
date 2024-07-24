@@ -3,9 +3,9 @@ description: E-mailverificatie - Marketo Docs - Productdocumentatie
 title: E-mailverificatie
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch gever
 
 >[!IMPORTANT]
 >
->De uitzondering op het bovenstaande is: _in een SSO-abonnement_, Admins zal een nieuwe gebruikersuitnodiging ontvangen, maar gebruikers die geen Admin gebruiken zullen niet. Gebruikers die geen beheerder zijn, moeten het e-mailverificatieproces nog steeds doorlopen om migratie van hun records te garanderen. Gebruikers kunnen zichzelf de e-mailverificatiekoppeling sturen door naar **Beheerder** > **Mijn account** > **Accountinstellingen** en klikken **Verificatie opnieuw verzenden**.
+>De uitzondering op het bovenstaande is, _in een SSO-Enige abonnement_, zullen Admins een nieuwe gebruikersuitnodiging ontvangen, maar de gebruikers niet-Admin zullen niet. Gebruikers die geen beheerder zijn, moeten het e-mailverificatieproces nog steeds doorlopen om migratie van hun records te garanderen. De gebruikers kunnen zich de verbinding van de e-mailverificatie verzenden door hun pictogram van het Profiel te klikken en **Mijn Rekening** te gaan > **de Montages van de Rekening** en **te klikken hervat Verificatie**.
 
 ![](assets/email-verification-1.png)
 
@@ -32,17 +32,17 @@ Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch gever
 
 Gebruikers ontvangen de onderstaande e-mail wanneer e-mailverificatie wordt geactiveerd voor een abonnement of als deze wordt geactiveerd door een beheerder/gebruiker.
 
-Een actieve gebruikerssessie is vereist om e-mailverificatie te voltooien. De gebruiker moet zich eerst aanmelden bij zijn Marketo-abonnement via de URL van zijn identiteitsprovider (IdP). Zodra een zitting wordt gevestigd, zouden zij _dan_ klik op **E-mailadres verifiëren** in de e-mail.
+Een actieve gebruikerssessie is vereist om e-mailverificatie te voltooien. De gebruiker moet zich eerst aanmelden bij zijn Marketo-abonnement via de URL van zijn identiteitsprovider (IdP). Zodra een zitting wordt gevestigd, zouden zij _dan_ klikken **verifieer e-mailadres** verbinding in e-mail.
 
 ![](assets/email-verification-2.png)
 
 >[!TIP]
 >
->Als u een verificatiebericht opnieuw wilt verzenden aan een niet-geverifieerde gebruiker, selecteert u gewoon de desbetreffende record en klikt u op de knop **[!UICONTROL Verify Email]** knop.
+>Als u een verificatiebericht opnieuw wilt verzenden naar een niet-geverifieerde gebruiker, selecteert u gewoon de desbetreffende record en klikt u op de knop **[!UICONTROL Verify Email]** .
 
 ## Een e-mailadres wijzigen {#changing-an-email-address}
 
-Wanneer het e-mailadres van een gebruiker wordt gewijzigd, wordt het niet geverifieerd. Er wordt een e-mail naar hen verzonden, zodat ze opnieuw kunnen verifiëren. Gebruikers kunnen de e-mail handmatig opnieuw verzenden door op **[!UICONTROL Resend Verification]**.
+Wanneer het e-mailadres van een gebruiker wordt gewijzigd, wordt het niet geverifieerd. Er wordt een e-mail naar hen verzonden, zodat ze opnieuw kunnen verifiëren. Gebruikers kunnen die e-mail handmatig opnieuw verzenden door op **[!UICONTROL Resend Verification]** te klikken.
 
 ![](assets/email-verification-3.png)
 
@@ -50,7 +50,7 @@ Wanneer het e-mailadres van een gebruiker wordt gewijzigd, wordt het niet geveri
 
 ## Gebruikers en rollen {#users-and-roles}
 
-In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** In de kolom E-mailstatus wordt de verificatiestatus van elke gebruiker weergegeven.
+In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** wordt in de kolom E-mailstatus de verificatiestatus van elke gebruiker weergegeven.
 
 ![](assets/email-verification-5.png)
 

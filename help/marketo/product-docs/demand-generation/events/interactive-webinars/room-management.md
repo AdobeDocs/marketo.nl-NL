@@ -4,34 +4,47 @@ title: Ruimtebeheer
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
 
 # Ruimtebeheer {#room-management}
 
-Interactieve webinarruimten die door Adobe Connect worden aangedreven, zijn ontworpen om aantrekkelijke en gezamenlijke online gebeurtenissen mogelijk te maken. In deze webinars wordt een hoeveelheid inhoud en opnamen opgeslagen in webinarruimten die zijn gemaakt door erkende organisatieleden. Als lid met het recht om een ruimte tot stand te brengen, kunt u tot hen toegang hebben en leiden van een gecentraliseerde plaats.
-
-Gebruik de volgende stappen om de ruimten of opnamen die u hebt gemaakt te beheren en te openen.
-
-1. Selecteer het lusje van de Studio van het Ontwerp van de hoogste menubar.
-1. Selecteer Interactieve webinars Templates > Ruimten beheren in het navigatievenster aan de linkerkant.
-1. Toegang tot en beheer ruimten of opnamen via de bovenste menubalk.
+Interactieve webinarruimten die door Adobe Connect worden aangedreven, zijn ontworpen om aantrekkelijke en gezamenlijke online evenementen mogelijk te maken. In deze webinars wordt een hoeveelheid inhoud en opnamen opgeslagen in webinarruimten die zijn gemaakt door erkende organisatieleden. Als lid met het recht om een ruimte tot stand te brengen, kunt u tot hen toegang hebben en leiden van een gecentraliseerde plaats.
 
 ## Ruimten beheren en openen {#manage-and-access-rooms}
+
+1. Selecteer het lusje van de Studio van het Ontwerp van de hoogste menubar.
+
+1. Selecteer Interactieve webinars > Ruimten beheren in het navigatievenster aan de linkerkant.
+
+1. Toegang tot en beheer ruimten of opnamen via de bovenste menubalk.
+
+NIEUWE KOPTEKST
 
 Een interactieve webinarruimte is een virtuele ruimte die is ontworpen voor het hosten van live, aantrekkelijke online gebeurtenissen, waarbij deelnemers actief kunnen communiceren met de presentator en andere deelnemers. In deze ruimten kunt u de geüploade inhoud en opnamen vinden via webinars.
 
 Als u de lijst met al uw ruimten wilt weergeven, selecteert u Ruimten in de bovenste menubalk. U kunt alle ruimten vinden u samen met geüploade inhoud creeerde (verbind dit waar om inhoud te uploaden wordt verklaard) en opnamen (verbind dit waar de opnamen worden verklaard) in deze ruimten. U kunt ook het aantal opnamen, de bestandsgrootte in de ruimte en de datum bekijken die het laatst is geopend voor de desbetreffende ruimten.
 
-TABEL
-
-* Opnamen: bekijk het aantal opnamen dat beschikbaar is in een ruimte.
-* Bestandsgrootte in de ruimte: bekijk de gecombineerde bestandsgrootte van de inhoud en opnamen die beschikbaar zijn in een ruimte.
-* Laatst geopend op: Geeft de datum weer waarop deze ruimte voor het laatst is geopend. U kunt de gegevens sorteren op basis van de tijdlijn.
+<table><tbody>
+  <tr>
+    <td><b>Opnamen</td>
+    <td>Het aantal opnamen weergeven dat beschikbaar is in een ruimte.</td>
+  </tr>
+  <tr>
+    <td><b>Bestandsgrootte in de ruimte</td>
+    <td>De gecombineerde bestandsgrootte weergeven van inhoud en opnamen die beschikbaar zijn in een ruimte.</td>
+  </tr>
+  <tr>
+    <td><b>Laatst geopend op</td>
+    <td>Geeft de datum weer waarop de ruimte voor het laatst is geopend. U kunt de gegevens sorteren op basis van de tijdlijn.</td>
+  </tr>
+</tbody>
+</table>
 
 SCREENSHOT
 
@@ -94,7 +107,7 @@ U kunt de volgende acties van deze gecentraliseerde hub uitvoeren:
 
 Opnamen zijn waardevolle bronnen, waarin de essentie van live discussies, presentaties en vragen en antwoorden wordt vastgelegd. Ze stellen deelnemers in staat om belangrijke inzichten, gemiste details of complexe concepten in hun eigen tempo te herzien.
 
-Nadat u Opnamen hebt geselecteerd in de bovenste balk, gaat u naar Mijn opnamen, waar u een lijst kunt weergeven met alle opnamen die u hebt geüpload.
+Klik op het tabblad Opnamen om een lijst weer te geven met alle opnamen die u hebt geüpload.
 
 Onder Mijn opname vindt u alle opnamen die beschikbaar zijn in de ruimte die u hebt gemaakt. U kunt ook hun respectievelijke grootte, datum en tijd en duur van opnamen weergeven.
 

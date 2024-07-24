@@ -4,104 +4,117 @@ title: Interactieve webinars aanpassen
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
 
 # Interactieve webinars aanpassen {#interactive-webinars-customization}
 
-Het aanpassen van interactieve webinars is cruciaal voor het creëren van een boeiendere en effectievere ervaring voor deelnemers.
+Het aanpassen van uw webinars is cruciaal voor het creëren van een boeiendere en effectievere ervaring voor deelnemers.
 
-Interactieve webinars bieden talrijke aanpassingsopties om de webinar-omgeving aan uw behoeften aan te passen. Gastheren kunnen de weergave van verschillende schermen aanpassen aan de branding van hun organisatie.
+Interactieve webinars bieden verschillende aanpassingsopties om de webinaire omgeving aan uw behoeften aan te passen. Pas de weergave van verschillende schermen aan aan de branding van uw organisatie.
 
-U kunt de volgende opties voor uw organisatie aanpassen:
-* Kleuren voor de kamer.
-* De achtergrond van de douane om uw organisatie op de ingang, de uitgang, en de wachtende schermen te vertegenwoordigen.
+U kunt de volgende opties aanpassen:
+
+* Merk kleuren voor de kamer
+* Aangepaste achtergrond om uw organisatie weer te geven op de in- en uitgangen en wachtschermen
 * Logo
 * Virtuele videoachtergronden
 
-Gebruik de volgende stappen om de interactieve webinarschermen aan te passen.
+## Interactieve webinarschermen aanpassen {#customize-interactive-webinar-screens}
 
-1. Selecteer het lusje van de Studio van het Ontwerp van de hoogste menubar.
-1. Selecteer Interactieve webinars Templates > Webinars aanpassen in het navigatievenster aan de linkerkant.
+1. Klik **Studio van het Ontwerp**.
+
+1. Klik **Interactieve Webinars** en selecteer **aanpassen Webinars**.
+
 1. Pas de interface van de Zaal, de Directe schermen, of Virtuele videoachtergronden van de menubar aan.
 
-Interface van ruimte aanpassen
+### De interface van de ruimte aanpassen {#customize-the-room-interface}
 
 U kunt de weergave van de sessieruimte aanpassen door het logo, de klikbare omleidingskoppeling en de kleuren te wijzigen. De wijzigingen worden doorgevoerd in alle gebeurtenissen en ruimten in uw organisatie.
 
 Als u de vormgeving van een ruimte wilt aanpassen, selecteert u het tabblad Gebruikersinterface in de menubalk.
 
-Gebruik de volgende stappen om de interface van de Zaal aan te passen.
-
 1. Pas in het rechterdeelvenster de volgende voorkeuren aan:
 
 SCREENSHOT
 
-Aangepast logo: selecteer Logo uploaden en blader door de afbeelding vanaf uw apparaat. De afbeelding mag niet groter zijn dan 50 x 31 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png.
+**Eigen embleem van de Douane**: Selecteer Logo Upload en doorblader het beeld van uw apparaat. De afbeelding mag niet groter zijn dan 50 x 31 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png. U kunt uw logo wijzigen of verwijderen.
 
-Wijzigen selecteren   wijzigen en verwijderen   om het logo te verwijderen.
-Koppeling omleiden: voeg een URL toe om deelnemers om te leiden nadat ze op het logo hebben geklikt.
-Alternatieve tekst: voeg een alternatieve tekst toe voor deelnemers die toegankelijkheidsfuncties gebruiken.
-Kleuren: selecteer kleuren voor de bar van de Zaal, de pictogrammen van de Zaal, de achtergrond van de Zaal, de bar van de Pod, en de tegels &amp; de pictogrammen van de Pod om de kleur van verschillende secties te veranderen.
+**Redirection verbinding**: voeg een URL toe om uw aanwezigen opnieuw te richten nadat zij het embleem klikken.
+
+**Afwisselende tekst**: voeg een afwisselende tekst voor aanwezigen toe gebruikend toegankelijkheidseigenschappen.
+
+**Kleuren**: Selecteer kleuren voor de bar van de Zaal, de pictogrammen van de Zaal, de achtergrond van de Zaal, de bar van de Pod, en de tegels/de pictogrammen van Pod om de kleur van verschillende secties te veranderen.
+
 U kunt ook de HEX-kleurcode invoeren met de optie HEX.
-Selecteer Sjablonen weergeven om het thema van de ruimte te wijzigen.
+
+Selecteer **[!UICONTROL View templates]** om het thema van de ruimte te wijzigen.
+
 Nadat u de wijzigingen hebt aangebracht, kunt u het logo en de kleuren controleren in Voorvertoning.
 
-1. Selecteer Toepassen om de wijzigingen op te slaan.
+1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan.
 
-Selecteer Opnieuw instellen op standaard om de standaardversie-instellingen opnieuw in te stellen.
+>[!NOTE]
+>
+>Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
 
-Tussenschermen aanpassen
+### Tussenschermen aanpassen {#customize-intermediate-screens}
 
-Wijzig de achtergrondafbeelding om de weergave en het gevoel van de entry-, exit- en wachtschermen te wijzigen. De wijzigingen worden doorgevoerd in alle gebeurtenissen en ruimten in uw organisatie.
+Wijzig de achtergrondafbeelding om de vormgeving van de entry-, exit- en wachtschermen te wijzigen. De wijzigingen worden doorgevoerd in alle gebeurtenissen en ruimten in uw organisatie.
 
 Als u de vormgeving van een ruimte wilt aanpassen, selecteert u het tabblad Tussenliggende schermen in de menubalk.
 
-Gebruik de volgende stappen om verschillende tussenliggende schermen aan te passen.
+1. Van het juiste paneel, pas het beeld van de Achtergrond aan door **te selecteren uploadt beeld** en doorblader een beeld voor een embleem. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png. U kunt het logo desgewenst wijzigen of verwijderen.
 
-1. Pas in het rechterdeelvenster de achtergrondafbeelding aan door de optie Afbeelding uploaden te selecteren en door een afbeelding naar een logo te bladeren. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png.
-
-Wijzigen selecteren   wijzigen en verwijderen   om het logo te verwijderen.
-Nadat u de wijzigingen hebt aangebracht, kunt u de achtergrond en in Voorvertoning controleren.
+Nadat u de wijzigingen hebt aangebracht, geeft u de achtergrond weer in Voorvertoning.
 
 SCREENSHOT
 
-Opmerking: de geüploade afbeelding wordt toegepast op de schermen Item, Afsluiten en Wachten.
+>[!NOTE]
+>
+>De geüploade afbeelding wordt toegepast op de schermen Item, Afsluiten en Wachten.
 
-1. Selecteer Toepassen om de wijzigingen op te slaan.
+1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan.
 
-Selecteer Opnieuw instellen op standaard om de standaardversie-instellingen opnieuw in te stellen.
+>[!NOTE]
+>
+>Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
 
-Virtuele videoachtergronden aanpassen
+### Virtuele videoachtergronden aanpassen {#Customize-virtual-video-backgrounds}
 
 Met door de organisatie gedefinieerde achtergronden kunt u tijdens de gebeurtenissen het logo of de merkafbeelding van uw organisatie weergeven op de achtergrond van uw videofeed van de camera. Als u de virtuele achtergronden van uw organisatie wilt toevoegen, selecteert u het tabblad Virtuele videoachtergronden in de menubalk. U kunt ervoor kiezen alleen Aangepaste achtergronden, Adobe Connect-achtergronden of beide weer te geven.
 
-Aangepaste achtergronden
+**Achtergronden van de Douane**
 
 Gebruik de schakeloptie om aangepaste achtergronden toe te staan in uw gebeurtenissen en ruimten.
 
-1. Selecteer Achtergrond uploaden om een aangepaste achtergrond te uploaden. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png.
+1. Selecteer **uploadt achtergrond** om een douaneachtergrond te uploaden. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png.
 
 SCREENSHOT
 
 Houd de muisaanwijzer boven de aangepaste achtergrondafbeelding om deze uit de videoachtergrond te verwijderen.
 
-Nadat u de wijzigingen hebt aangebracht, kunt u de achtergrond controleren in Voorvertoning.
+Nadat u de wijzigingen hebt aangebracht, geeft u de achtergrond weer in Voorvertoning.
 
-U kunt de schuifregelaar in het voorvertoningsscherm gebruiken om in of uit te zoomen om te testen hoe de virtuele achtergrond eruit zou zien als de gebruiker zich dichtbij of ver van de camera bevond. Als er tekst op de achtergrond staat, zou dit helpen te weten of deze onder de richtlijn zou vallen en niet zichtbaar zal zijn.
+U kunt de schuifregelaar in het voorvertoningsscherm gebruiken om in of uit te zoomen om te testen hoe de virtuele achtergrond eruit zou zien als de gebruiker zich dichtbij of ver van de camera bevond. Als er tekst op de achtergrond staat, zou dat helpen om te zorgen dat deze zichtbaar blijft.
 
-1. Selecteer Toepassen om de wijzigingen op te slaan of selecteer Opnieuw instellen om de standaardinstellingen opnieuw in te stellen.
+1. Selecteer **toepassen** om de veranderingen te bewaren.
 
-Adobe Connect-achtergronden
+>[!NOTE]
+>
+>Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
 
-Adobe Connect biedt negen standaardachtergronden die u kunt gebruiken. U kunt de vormgeving van de voorvertoning visualiseren.
+**Adobe Connect achtergronden**
+
+Adobe Connect biedt negen standaardachtergronden die u kunt gebruiken. U kunt de weergave van de voorvertoning bekijken.
 
 Gebruik de schakeloptie om de beschikbaarheid van deze standaardachtergronden in uw gebeurtenissen en ruimten te bepalen.
 
 SCREENSHOT
 
-Selecteer Toepassen om de wijzigingen op te slaan of selecteer Opnieuw instellen om de standaardinstellingen opnieuw in te stellen.
+Selecteer **toepassen** om de veranderingen te bewaren of **Terugstellen te selecteren aan gebrek** om de standaardmontages terug te stellen.

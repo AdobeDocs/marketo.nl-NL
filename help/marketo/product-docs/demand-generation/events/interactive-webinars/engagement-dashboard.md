@@ -4,9 +4,10 @@ title: Betrokkenheidsdashboard
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1754'
+source-wordcount: '1716'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ Interactieve webinars van Adobe Connect gebruiken verschillende pods om deelneme
 
 Bekijk een geconsolideerde weergave van de activiteiten, interacties en betrokkenheid van deelnemers tijdens een gebeurtenis. Als gastheer kunt u de prestaties van live- en on-demand-gebeurtenissen weergeven en na de sessie verschillende rapporten downloaden. Bovendien worden post-webinar rapporten die van het dashboard worden geproduceerd gebruikt om de doeltreffendheid van de zitting te evalueren, toekomstige inhoud te informeren, en de algemene webinar strategie te verbeteren.
 
-Het dashboard volgt verschillende metriek, met inbegrip van opiniepeilingsreacties, praatjeactiviteit, en videointeractie, die waardevolle inzichten in voorkeur en gedrag van deelnemers aanbieden. Het biedt een uitgebreid overzicht van de activiteiten en betrokkenheidsniveaus van deelnemers, zodat gastheren de aanwezigheid, deelname en interacties in real time kunnen controleren.
+Het dashboard volgt verschillende metriek, met inbegrip van opiniepeilingsreacties, praatjeactiviteit, en videointeractie, die waardevolle inzichten in voorkeur en gedrag van deelnemers aanbieden. Het biedt een uitgebreid overzicht van de activiteit en betrokkenheidsniveaus van deelnemers, zodat gastheren de aanwezigheid, deelname en interacties in real time kunnen controleren.
 
 Bekijk de betrokkenheid voor de volgende typen sessies in een interactief webinar.
 
@@ -102,15 +103,15 @@ SCREENSHOT
 
 ### Betrokkenheid {#engagement}
 
-Deze interface biedt een overzicht van de prestaties van een gebeurtenis tijdens de live sessie. Het overzicht bevat belangrijke metriek, betrokkenheid in tijd, en deelnemersinteractie. Het helpt organisatoren het succes van de gebeurtenis te evalueren en gebieden voor verbetering te identificeren.
+Geeft een overzicht van de prestaties van een gebeurtenis tijdens de live sessie. Het overzicht bevat belangrijke metriek, betrokkenheid in tijd, en deelnemersinteractie. Het helpt organisatoren het succes van de gebeurtenis te evalueren en gebieden voor verbetering te identificeren.
 
-Selecteer Betrokkenheid in het linkerdeelvenster om de prestaties van de live sessie weer te geven. Selecteer het overzicht van de Betrokkenheid (PDF) om de prestatiessamenvatting van de levende zitting te downloaden. Het overzicht is geclassificeerd in verschillende secties.
+Selecteer **[!UICONTROL Engagement]** in het linkerdeelvenster om de prestaties van de live sessie weer te geven. **[!UICONTROL Click Engagement summary (PDF)]** om het prestatieoverzicht van de live sessie te downloaden. Het overzicht bevat gegevens in verschillende secties.
 
 SCREENSHOT
 
 **Zeer belangrijke metriek**
 
-U kunt het aantal registraties, deelnemers en betrokkenheid bij de live sessie weergeven op basis van de belangrijkste meetgegevens.
+Bekijk het aantal registraties, deelnemers en betrokkenheid bij de live sessie.
 
 SCREENSHOT
 
@@ -134,14 +135,14 @@ SCREENSHOT
   </tr>
   <tr>
     <td><b>Gemiddelde controleduur in minuten</td>
-    <td>Hiermee geeft u de gemiddelde controleduur in minuten live sessie weer.</td>
+    <td>Hiermee geeft u de gemiddelde controleduur in minuten van de live sessie weer.</td>
   </tr>
 </tbody>
 </table>
 
 **Betrokkenheid over tijd**
 
-Leer over gemiddelde betrokkenheid in tijd tijdens de live sessie uit de betrokkenheidsgrafieken. Gastheren kunnen controleren hoe de betrokkenheidsniveaus fluctueren, zodat ze kritieke momenten van hoge of lage interactie kunnen identificeren. Controleer hoeveel van de gemiddelde betrokkenheidsscore door de betrokken deelnemers in verschillende lay-outs is behaald.
+Leer over gemiddelde betrokkenheid in tijd tijdens de live sessie uit de betrokkenheidsgrafieken. Gastheren kunnen controleren hoe de betrokkenheidsniveaus fluctueren, zodat ze kritieke momenten van hoge of lage interactie kunnen identificeren. Zie hoeveel van de gemiddelde betrokkenheidsscore is behaald door de betrokken deelnemers in verschillende lay-outs.
 
 SCREENSHOT
 
@@ -151,7 +152,7 @@ Als u de cursor boven de grafiek houdt, geeft u de volgende informatie weer:
 * Gemiddelde betrokkenheidsscore op dat moment.
 * Aantal deelnemers op dat moment.
 * Lay-out van de betrokkenheid op dat moment.
-* Selecteer Onmiddellijk weergeven bij opnemen om direct de opname weer te geven waarin de betrokkenheid hoog of laag was.
+* Selecteer **[!UICONTROL View instant in recording]** om het instant in de opname te bekijken waar de betrokkenheid hoog of laag was.
 * Gemiddelde betrokkenheidsscore (%) in de loop van de tijd in de sessie
 * Aanwezigheid tijdens de zitting
 * Betrokkenheid bij verschillende Webinar-lay-outs wordt weergegeven wanneer verschillende lay-outs tijdens de gebeurtenis in de ruimte zijn gebruikt. Het helpt de toename en daling van betrokkenheid in verschillende lay-outs met elkaar in verband te brengen.
@@ -162,28 +163,28 @@ U kunt de interactie van de deelnemers vanuit verschillende pods bekijken. Het v
 
 SCREENSHOT
 
-Selecteer Ga naar interacties om reacties van opiniepeilingen, metriek van QnA en reacties van deelnemers tijdens de sessie te bekijken. U kunt zien hoe deelnemers in verschillende pods werken via Interacties en u kunt interactierapporten downloaden uit de onderstaande sectie.
+Selecteer **[!UICONTROL Go to interactions]** om reacties van opiniepeilingen, metriek van QnA en reacties van aanwezigen tijdens de sessie weer te geven. U kunt zien hoe deelnemers in verschillende pods werken via Interacties en u kunt interactierapporten downloaden uit de onderstaande sectie.
 
 ### Interacties {#interactions}
 
-Bekijk hoe deelnemers communiceren en deelnemen aan de sessie via Interacties. Reacties bijhouden op opiniepeilingen, QnA-meetgegevens, reacties van deelnemers en verwijderde koppelingen en bestanden uit de respectieve pods. Gastheren kunnen ook interactierapporten van deze pods downloaden voor een betere analyse. Door deze interacties te analyseren, identificeer trends en pas hun strategieën aan om een meer interactieve en boeiende omgeving aan te moedigen.
+Bekijk hoe deelnemers communiceren en deelnemen aan de sessie via Interacties. Reacties bijhouden op opiniepeilingen, QnA-meetgegevens, reacties van deelnemers en verwijderde koppelingen en bestanden uit de respectieve pods. Gastheren kunnen ook interactierapporten van deze pods downloaden voor een betere analyse. Door deze interacties te analyseren, kunt u tendensen identificeren en hun strategieën aanpassen om een interactievere en het betreurenswaardige milieu te bevorderen.
 
-Selecteer in het linkerdeelvenster de optie Interacties om te zien hoe deelnemers in verschillende pods betrokken zijn.
+Selecteer in het linkerdeelvenster **[!UICONTROL Interactions]** om te zien hoe deelnemers in verschillende pods worden betrokken.
 
 SCREENSHOT
 
-Selecteer het tabblad Opiniepeilingen in de menubalk om vragen en antwoorden weer te geven die aan de opiniepeiling zijn toegevoegd. Dit tabblad bevat de volgende informatie:
+Selecteer het tabblad **[!UICONTROL Polls]** in de menubalk om vragen en antwoorden weer te geven die aan de opiniepeiling zijn toegevoegd. Dit tabblad bevat de volgende informatie:
 
-* Selecteer Opiniepeilingsrapport (CSV) om het rapport voor interacties te downloaden in de pod Opiniepeiling.
+* Selecteer **[!UICONTROL Poll report (CSV)]** om het rapport voor interacties in de pod met opiniepeilingen te downloaden.
 * Opiniepeilingvraag en het type opiniepeiling.
 * Aantal reacties en de periode waarin de opiniepeilingpod geopend en ingeschakeld was.
-* Selecteer Alle reacties weergeven `<number>` om deze in een dialoogvenster weer te geven.
+* Selecteer **Mening alle `<number>` reacties** om hen in een dialoogdoos te bekijken.
 
-Selecteer het tabblad Overige interacties in de menubalk om de betrokkenheid in andere pods weer te geven en de bijbehorende rapporten te downloaden.
+Selecteer het tabblad **[!UICONTROL Other interactions]** in de menubalk om de betrokkenheid in andere pods weer te geven en de bijbehorende rapporten te downloaden.
 
 SCREENSHOT
 
-Selecteer Interactierapporten downloaden in het bovenste vervolgkeuzemenu om rapporten van verschillende pods te downloaden. Download het rapport QnA, het rapport van Verbindingen &amp; van dossiers, en het rapport van Reacties van hier voor betere het volgen.
+Selecteer **[!UICONTROL Download interaction reports]** in de vervolgkeuzelijst om rapporten van verschillende pods te downloaden. Download het rapport QnA, het rapport van Verbindingen &amp; van dossiers, en het rapport van Reacties van hier voor betere het volgen.
 
 De informatie over de betrokkenheid tussen pods is beschikbaar in verschillende secties.
 
@@ -234,28 +235,28 @@ SCREENSHOT
 
 Bekijk de volgende details in de grafiek:
 
-* Naam van bestanden die aan de pod Bestanden worden toegevoegd.
+* Naam van de bestanden die aan de pod Bestanden worden toegevoegd.
 * Aantal deelnemers dat minstens één bestand heeft gedownload.
 * Trend van unieke downloads op elk bestand dat is toegevoegd aan de pod Weblinks.
 
 ### Activiteiten op aanvraag {#on-demand-activity}
 
-Selecteer Activiteiten op aanvraag in het linkerdeelvenster om het overzicht van de opnamen weer te geven. U kunt ook een rapport downloaden voor activiteiten op aanvraag.
+Selecteer **[!UICONTROL On-demand activity]** in het linkerdeelvenster om het overzicht van de opnamen weer te geven. U kunt ook een rapport downloaden voor activiteiten op aanvraag.
 
 SCREENSHOT
 
 Bekijk de volgende cijfers in de activiteit op aanvraag:
 
-* Selecteer op bestelling rapport (CSV) om de metriek op bestelling te downloaden.
+* Klik op **[!UICONTROL On-demand report (CSV)]** om de gegevens op aanvraag te downloaden.
 * Aantal unieke viewers totdat het dashboard voor het laatst is vernieuwd.
 * Het aantal kijkers dat de opname heeft bekeken maar de webinar niet kon bijwonen.
 * Het aantal kijkers dat de webinar heeft bijgewoond en de opname heeft bekeken. Zij zullen waarschijnlijk de beste vooruitzichten zijn.
-* Aantal viewers dat zich voor sessie op aanvraag heeft geregistreerd.
+* Aantal viewers dat zich voor de sessie op aanvraag heeft geregistreerd.
 * Gemiddelde controleduur van opname in minuten.
 
 ### Deelnemersactiviteit {#participant-activity}
 
-Selecteer in het linkerdeelvenster de optie Deelnemeractiviteit om geconsolideerde informatie over het betrokkenheidsniveau van elke deelnemer weer te geven. Bekijk hoe deze betrokkenheid is geclassificeerd op niveaus van betrokkenheid van deelnemers. Selecteer Gebruikersactiviteitenrapport (CSV) om het rapport te downloaden voor betere tracering.
+Selecteer in het linkerdeelvenster **[!UICONTROL Participant activity]** om geconsolideerde informatie over het betrokkenheidsniveau van elke deelnemer weer te geven. Bekijk hoe deze betrokkenheid is geclassificeerd op niveaus van betrokkenheid van deelnemers. Klik op **[!UICONTROL User activity report (CSV)]** om het rapport te downloaden voor betere tracering.
 
 SCREENSHOT
 
@@ -272,23 +273,26 @@ Bekijk de volgende details in de tabel:
 
 Download rapporten voor verschillende activiteiten en pods vanuit een gecentraliseerde hub als host.
 
-1. Selecteer Rapporten downloaden in het linkerdeelvenster.
-1. Selecteer Alle (.zip) downloaden om rapporten voor alle activiteiten en pods tegelijk te downloaden.
+1. Selecteer **[!UICONTROL Download reports]** in het linkerdeelvenster.
+
+1. Selecteer **[!UICONTROL Download all (.zip)]** om rapporten voor alle activiteiten en pods in één keer te downloaden.
 
 SCREENSHOT
 
-Selecteer pictogram naast elk rapport om hen individueel te downloaden.
+>[!NOTE]
+>
+>Klik op het downloadpictogram naast elk rapport om de rapporten afzonderlijk te downloaden.
 
 ## Deelnemersniveau {#participant-engagement-level}
 
-Organisaties gebruiken Adobe Connect voor het aanbieden van webinars die op maat zijn gemaakt, van merknamen zijn voorzien en onder druk staan van betrokkenheid. Met interactieve gereedschappen zoals opiniepeilingen, chatten, vragen en antwoorden en reacties kunt u deelnemers betrekken en meer verzamelen dan alleen registratie- en aanwezigheidsgegevens. Nadat deelnemers deze interactieve functies hebben gebruikt, worden de betrokkenheidsgegevens gebruikt om deelnemers in te delen in drie betrokkenheidsniveaus: hoog, gemiddeld en laag. Marketers kunnen het betrokkenheidsniveau gebruiken om publiekssegmenten bij te werken, leadscores bij te werken en verkoop te waarschuwen.
+Organisaties gebruiken Adobe Connect voor het aanbieden van webinars die op maat zijn gemaakt, van merknamen zijn voorzien en onder druk staan van betrokkenheid. Met interactieve gereedschappen zoals opiniepeilingen, chatten, vragen en antwoorden en reacties kunt u deelnemers betrekken en meer verzamelen dan alleen registratie- en aanwezigheidsgegevens. Nadat deelnemers deze interactieve functies hebben gebruikt, worden de betrokkenheidsgegevens gebruikt om deelnemers in te delen in drie betrokkenheidsniveaus: hoog, gemiddeld en laag. U kunt het betrokkenheidsniveau gebruiken om publiekssegmenten bij te werken, scores voor personen bij te werken en verkoop te waarschuwen.
 
-Begrijp het criterium voor het classificeren van het betrokkenheidsniveau voor elke deelnemer:
+Begrijp de criteria voor het classificeren van het betrokkenheidsniveau voor elke deelnemer:
 
 <table><thead>
   <tr>
     <th>Betrokkenheidsniveau</th>
-    <th>Classificatiecriterium</th>
+    <th>Classificatiecriteria</th>
   </tr></thead>
 <tbody>
   <tr>
