@@ -3,9 +3,9 @@ description: E-mailverificatie - Marketo Docs - Productdocumentatie
 title: E-mailverificatie
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch gever
 
 >[!IMPORTANT]
 >
->De uitzondering op het bovenstaande is, _in een SSO-Enige abonnement_, zullen Admins een nieuwe gebruikersuitnodiging ontvangen, maar de gebruikers niet-Admin zullen niet. Gebruikers die geen beheerder zijn, moeten het e-mailverificatieproces nog steeds doorlopen om migratie van hun records te garanderen. De gebruikers kunnen zich de verbinding van de e-mailverificatie verzenden door hun pictogram van het Profiel te klikken en **Mijn Rekening** te gaan > **de Montages van de Rekening** en **te klikken hervat Verificatie**.
+>De uitzondering op het bovenstaande is, _in een SSO-Enige abonnement_, zullen Admins een nieuwe gebruikersuitnodiging ontvangen, maar de gebruikers niet-Admin zullen niet. Gebruikers die geen beheerder zijn, moeten het e-mailverificatieproces nog steeds doorlopen om migratie van hun records te garanderen. De gebruikers kunnen zich de verbinding van de e-mailverificatie verzenden door hun &quot;Mijn Profiel&quot;te klikken pictogram en aan **Mijn Rekening** te navigeren > **de Montages van de Rekening** > **opnieuw te verzenden Verificatie**.
 
 ![](assets/email-verification-1.png)
 

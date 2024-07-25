@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1716'
+source-wordcount: '1699'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Bekijk de betrokkenheid voor de volgende typen sessies in een interactief webina
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-1.png)
 
 1. Selecteer de gewenste gebeurtenis.
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-2.png)
 
 1. Klik in het overzicht op **[!UICONTROL View Engagement Dashboard]** .
 
-   SCREENSHOT
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ U kunt de volgende details weergeven in het betrokkenheidsdashboard.
 
 Deze interface biedt een geconsolideerde weergave van de prestaties van de gebeurtenis voor live en on-demand sessies. Selecteer in het linkerdeelvenster het overzicht Gebeurtenis om de algemene metriek weer te geven.
 
-SCREENSHOT
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ Geeft een overzicht van de prestaties van een gebeurtenis tijdens de live sessie
 
 Selecteer **[!UICONTROL Engagement]** in het linkerdeelvenster om de prestaties van de live sessie weer te geven. **[!UICONTROL Click Engagement summary (PDF)]** om het prestatieoverzicht van de live sessie te downloaden. Het overzicht bevat gegevens in verschillende secties.
 
-SCREENSHOT
+![](assets/engagement-dashboard-5.png)
 
 **Zeer belangrijke metriek**
 
 Bekijk het aantal registraties, deelnemers en betrokkenheid bij de live sessie.
 
-SCREENSHOT
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ SCREENSHOT
 
 Leer over gemiddelde betrokkenheid in tijd tijdens de live sessie uit de betrokkenheidsgrafieken. Gastheren kunnen controleren hoe de betrokkenheidsniveaus fluctueren, zodat ze kritieke momenten van hoge of lage interactie kunnen identificeren. Zie hoeveel van de gemiddelde betrokkenheidsscore is behaald door de betrokken deelnemers in verschillende lay-outs.
 
-SCREENSHOT
+![](assets/engagement-dashboard-7.png)
 
 Als u de cursor boven de grafiek houdt, geeft u de volgende informatie weer:
 
@@ -161,7 +161,7 @@ Als u de cursor boven de grafiek houdt, geeft u de volgende informatie weer:
 
 U kunt de interactie van de deelnemers vanuit verschillende pods bekijken. Het verstrekt informatie zoals Beantwoorde opiniepeilingen, Gestelde vragen, Interactie met praatje, klikte minstens één verbinding, en Gedownload minstens één dossier.
 
-SCREENSHOT
+![](assets/engagement-dashboard-8.png)
 
 Selecteer **[!UICONTROL Go to interactions]** om reacties van opiniepeilingen, metriek van QnA en reacties van aanwezigen tijdens de sessie weer te geven. U kunt zien hoe deelnemers in verschillende pods werken via Interacties en u kunt interactierapporten downloaden uit de onderstaande sectie.
 
@@ -171,7 +171,7 @@ Bekijk hoe deelnemers communiceren en deelnemen aan de sessie via Interacties. R
 
 Selecteer in het linkerdeelvenster **[!UICONTROL Interactions]** om te zien hoe deelnemers in verschillende pods worden betrokken.
 
-SCREENSHOT
+![](assets/engagement-dashboard-9.png)
 
 Selecteer het tabblad **[!UICONTROL Polls]** in de menubalk om vragen en antwoorden weer te geven die aan de opiniepeiling zijn toegevoegd. Dit tabblad bevat de volgende informatie:
 
@@ -182,7 +182,7 @@ Selecteer het tabblad **[!UICONTROL Polls]** in de menubalk om vragen en antwoor
 
 Selecteer het tabblad **[!UICONTROL Other interactions]** in de menubalk om de betrokkenheid in andere pods weer te geven en de bijbehorende rapporten te downloaden.
 
-SCREENSHOT
+![](assets/engagement-dashboard-10.png)
 
 Selecteer **[!UICONTROL Download interaction reports]** in de vervolgkeuzelijst om rapporten van verschillende pods te downloaden. Download het rapport QnA, het rapport van Verbindingen &amp; van dossiers, en het rapport van Reacties van hier voor betere het volgen.
 
@@ -192,7 +192,7 @@ De informatie over de betrokkenheid tussen pods is beschikbaar in verschillende 
 
 De volgende kenmerken van de pod Vragen en antwoorden weergeven.
 
-SCREENSHOT
+![](assets/engagement-dashboard-11.png)
 
 * Totaal aantal gestelde vragen.
 * Aantal onbeantwoorde vragen.
@@ -204,7 +204,7 @@ SCREENSHOT
 
 Bekijk de reacties van aanwezigen van hier, zoals instemmen, onenigheid, applaudisseren en lachen tijdens de sessie.
 
-SCREENSHOT
+![](assets/engagement-dashboard-12.png)
 
 Bekijk de volgende details in de grafiek met reacties:
 
@@ -218,7 +218,7 @@ Bekijk de volgende details in de grafiek met reacties:
 
 Koppelingen weergeven die tijdens de sessie aan de pod Webkoppelingen zijn toegevoegd en het aantal klikken op de gedeelde koppeling. Met de pod Weblinks kunt u koppelingen toevoegen van bronnen buiten het webinar om betrokkenheid te genereren.
 
-SCREENSHOT
+![](assets/engagement-dashboard-13.png)
 
 Bekijk de volgende details in de grafiek:
 
@@ -231,7 +231,7 @@ Bekijk de volgende details in de grafiek:
 
 Bekijk de bestanden die tijdens de sessie aan de pod Bestanden zijn toegevoegd en het aantal unieke downloads. Met de pod Bestanden kunt u bestanden toevoegen en bronnen bieden om betrokkenheid te genereren.
 
-SCREENSHOT
+![](assets/engagement-dashboard-14.png)
 
 Bekijk de volgende details in de grafiek:
 
@@ -243,7 +243,7 @@ Bekijk de volgende details in de grafiek:
 
 Selecteer **[!UICONTROL On-demand activity]** in het linkerdeelvenster om het overzicht van de opnamen weer te geven. U kunt ook een rapport downloaden voor activiteiten op aanvraag.
 
-SCREENSHOT
+![](assets/engagement-dashboard-15.png)
 
 Bekijk de volgende cijfers in de activiteit op aanvraag:
 
@@ -258,7 +258,7 @@ Bekijk de volgende cijfers in de activiteit op aanvraag:
 
 Selecteer in het linkerdeelvenster **[!UICONTROL Participant activity]** om geconsolideerde informatie over het betrokkenheidsniveau van elke deelnemer weer te geven. Bekijk hoe deze betrokkenheid is geclassificeerd op niveaus van betrokkenheid van deelnemers. Klik op **[!UICONTROL User activity report (CSV)]** om het rapport te downloaden voor betere tracering.
 
-SCREENSHOT
+![](assets/engagement-dashboard-16.png)
 
 Bekijk de volgende details in de tabel:
 
@@ -277,7 +277,7 @@ Download rapporten voor verschillende activiteiten en pods vanuit een gecentrali
 
 1. Selecteer **[!UICONTROL Download all (.zip)]** om rapporten voor alle activiteiten en pods in één keer te downloaden.
 
-SCREENSHOT
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >
