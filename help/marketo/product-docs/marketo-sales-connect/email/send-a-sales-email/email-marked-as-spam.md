@@ -4,9 +4,9 @@ description: E-mail gemarkeerd als spam - Marketo Docs - Productdocumentatie
 title: E-mail gemarkeerd als spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2c9816c35187e333d9631ddfe76fea298db09da5
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoog blijven. Toch zijn er bepaalde gebruikersgedragingen en instellingen die ertoe kunnen leiden dat uw verzonden e-mails naar de map spam worden omgeleid.
 
-**Uw instellingen controleren**
+**controleer Uw Montages**
 
-* Aangepast domein bijhouden: Zo kunt u al uw trackingkoppelingen direct laten weergeven.&quot;uwdomein&quot; in plaats van go.toutapp. Bij e-mailbeveiliging wordt vastgesteld dat de e-mail afkomstig is van &quot;uwdomein&quot;, maar dat de koppeling wordt omgeleid naar go.toutapp. Door een koppeling naar een aangepast domein in te voeren die uw e-mails volgt, ziet deze er legitiem uit en is de kans groter dat de geadresseerde zijn postvak in raakt.
-* E-mailleveringskanaal: Standaard verzenden uw e-mails via ToutApp-servers. Door uw eigen Gmail of aangepaste SMTP in te stellen, kunt u uw e-mails de beste gelegenheid bieden om in het postvak van een ontvanger te landen. [Klik hier](https://nation.marketo.com/docs/DOC-5080) voor meer informatie over het selecteren van het juiste leveringskanaal voor uw behoeften.
+* Aangepaste domeintracering: hiermee kunt u al uw trackingkoppelingen direct laten weergeven.&quot;uwdomein&quot; in plaats van go.toutapp. Bij e-mailbeveiliging wordt vastgesteld dat de e-mail afkomstig is van &quot;uwdomein&quot;, maar dat de koppeling wordt omgeleid naar go.toutapp. Door een koppeling naar een aangepast domein in te voeren die uw e-mails volgt, ziet deze er legitiem uit en is de kans groter dat de geadresseerde zijn postvak in raakt.
+* E-mailleveringskanaal: standaard verzenden uw e-mails via ToutApp-servers. Door uw eigen Gmail of aangepaste SMTP in te stellen, kunt u uw e-mails de beste gelegenheid bieden om in het postvak van een ontvanger te landen. [ klik hier ](https://nation.marketo.com/docs/DOC-5080) {target="_blank"} om meer over het selecteren van het juiste leveringskanaal voor uw behoeften te lezen.
 
-**Controleer uw e-mailgedrag**
+**controleer Uw E-mailgedrag**
 
 * Houd uw e-mails kort en informeel en plak uw sjablonen als een e-mail die u eerder hebt geschreven.
 
@@ -28,4 +28,4 @@ Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoo
 
 * Zorg ervoor dat u een volledig ingevulde e-mailhandtekening met een fysiek adres hebt.
 
-* Lees dit voor en zorg ervoor dat u voldoet aan [CAN-SPAM-wetten](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Lees omhoog en zorg ervoor u met [ KAN-SPAM wetten ](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business) {target="_blank"} voldoet.
