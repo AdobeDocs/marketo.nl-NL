@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '662'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,17 @@ U kunt de volgende opties aanpassen:
 
 ## Interactieve webinarschermen aanpassen {#customize-interactive-webinar-screens}
 
-1. Klik **Studio van het Ontwerp**.
+1. Ga naar de **Studio van het Ontwerp**.
+
+   ![](assets/interactive-webinars-customization-1.png)
 
 1. Klik **Interactieve Webinars** en selecteer **aanpassen Webinars**.
 
-1. Pas de interface van de Zaal, de Directe schermen, of Virtuele videoachtergronden van de menubar aan.
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. U kunt de interface van de Ruimte, de Onmiddellijke schermen, of Virtuele videoachtergronden aanpassen.
+
+   ![](assets/interactive-webinars-customization-3.png)
 
 ### De interface van de ruimte aanpassen {#customize-the-room-interface}
 
@@ -41,27 +47,25 @@ Als u de vormgeving van een ruimte wilt aanpassen, selecteert u het tabblad Gebr
 
 1. Pas in het rechterdeelvenster de volgende voorkeuren aan:
 
-SCREENSHOT
+   ![](assets/interactive-webinars-customization-4.png)
 
-**Eigen embleem van de Douane**: Selecteer Logo Upload en doorblader het beeld van uw apparaat. De afbeelding mag niet groter zijn dan 50 x 31 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png. U kunt uw logo wijzigen of verwijderen.
+   **Eigen embleem van de Douane**: Selecteer Logo Upload en doorblader het beeld van uw apparaat. De afbeelding mag niet groter zijn dan 50 x 31 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png. U kunt uw logo wijzigen of verwijderen.
 
-**Redirection verbinding**: voeg een URL toe om uw aanwezigen opnieuw te richten nadat zij het embleem klikken.
+   **Redirection verbinding**: voeg een URL toe om uw aanwezigen opnieuw te richten nadat zij het embleem klikken.
 
-**Afwisselende tekst**: voeg een afwisselende tekst voor aanwezigen toe gebruikend toegankelijkheidseigenschappen.
+   **Afwisselende tekst**: voeg een afwisselende tekst voor aanwezigen toe gebruikend toegankelijkheidseigenschappen.
 
-**Kleuren**: Selecteer kleuren voor de bar van de Zaal, de pictogrammen van de Zaal, de achtergrond van de Zaal, de bar van de Pod, en de tegels/de pictogrammen van Pod om de kleur van verschillende secties te veranderen.
+   **Kleuren**: Selecteer kleuren voor de bar van de Zaal, de pictogrammen van de Zaal, de achtergrond van de Zaal, de bar van de Pod, en de tegels/de pictogrammen van Pod om de kleur van verschillende secties te veranderen.
 
-U kunt ook de HEX-kleurcode invoeren met de optie HEX.
+   U kunt ook de HEX-kleurcode invoeren met de optie HEX.
 
-Selecteer **[!UICONTROL View templates]** om het thema van de ruimte te wijzigen.
+   Selecteer **[!UICONTROL View templates]** om het thema van de ruimte te wijzigen.
 
-Nadat u de wijzigingen hebt aangebracht, kunt u het logo en de kleuren controleren in Voorvertoning.
+   Nadat u de wijzigingen hebt aangebracht, kunt u het logo en de kleuren controleren in Voorvertoning.
 
-1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan.
+1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan. Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
 
->[!NOTE]
->
->Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
+   ![](assets/interactive-webinars-customization-5.png)
 
 ### Tussenschermen aanpassen {#customize-intermediate-screens}
 
@@ -71,19 +75,13 @@ Als u de vormgeving van een ruimte wilt aanpassen, selecteert u het tabblad Tuss
 
 1. Van het juiste paneel, pas het beeld van de Achtergrond aan door **te selecteren uploadt beeld** en doorblader een beeld voor een embleem. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png. U kunt het logo desgewenst wijzigen of verwijderen.
 
-Nadat u de wijzigingen hebt aangebracht, geeft u de achtergrond weer in Voorvertoning.
+   ![](assets/interactive-webinars-customization-6.png)
 
-SCREENSHOT
+   >[!NOTE]
+   >
+   >De geüploade afbeelding wordt toegepast op de schermen Item, Afsluiten en Wachten.
 
->[!NOTE]
->
->De geüploade afbeelding wordt toegepast op de schermen Item, Afsluiten en Wachten.
-
-1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan.
-
->[!NOTE]
->
->Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
+1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan. Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
 
 ### Virtuele videoachtergronden aanpassen {#Customize-virtual-video-backgrounds}
 
@@ -91,11 +89,11 @@ Met door de organisatie gedefinieerde achtergronden kunt u tijdens de gebeurteni
 
 **Achtergronden van de Douane**
 
-Gebruik de schakeloptie om aangepaste achtergronden toe te staan in uw gebeurtenissen en ruimten.
+1. Klik op de schakeloptie om aangepaste achtergronden toe te staan in uw gebeurtenissen en ruimten.
+
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Selecteer **uploadt achtergrond** om een douaneachtergrond te uploaden. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png.
-
-SCREENSHOT
 
 Houd de muisaanwijzer boven de aangepaste achtergrondafbeelding om deze uit de videoachtergrond te verwijderen.
 
@@ -103,11 +101,7 @@ Nadat u de wijzigingen hebt aangebracht, geeft u de achtergrond weer in Voorvert
 
 U kunt de schuifregelaar in het voorvertoningsscherm gebruiken om in of uit te zoomen om te testen hoe de virtuele achtergrond eruit zou zien als de gebruiker zich dichtbij of ver van de camera bevond. Als er tekst op de achtergrond staat, zou dat helpen om te zorgen dat deze zichtbaar blijft.
 
-1. Selecteer **toepassen** om de veranderingen te bewaren.
-
->[!NOTE]
->
->Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
+1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan. Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
 
 **Adobe Connect achtergronden**
 
@@ -115,6 +109,6 @@ Adobe Connect biedt negen standaardachtergronden die u kunt gebruiken. U kunt de
 
 Gebruik de schakeloptie om de beschikbaarheid van deze standaardachtergronden in uw gebeurtenissen en ruimten te bepalen.
 
-SCREENSHOT
+![](assets/interactive-webinars-customization-8.png)
 
-Selecteer **toepassen** om de veranderingen te bewaren of **Terugstellen te selecteren aan gebrek** om de standaardmontages terug te stellen.
+Selecteer **toepassen** om de veranderingen te bewaren of **Terugstellen aan gebrek** om aan de standaardmontages terug te stellen.
