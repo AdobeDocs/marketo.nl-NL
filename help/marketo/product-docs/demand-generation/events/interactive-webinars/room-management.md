@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
+source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Als u de lijst met al uw ruimten wilt weergeven, selecteert u **[!UICONTROL Room
 </tbody>
 </table>
 
-SCREENSHOT
+![](assets/room-management-3.png)
 
 U kunt de volgende acties vanuit deze gecentraliseerde interface uitvoeren:
 
@@ -82,7 +82,7 @@ Op het tabblad Inhoud kunt u de geüploade bestanden bekijken, evenals het type,
 </tbody>
 </table>
 
-SCREENSHOT
+![](assets/room-management-4.png)
 
 U kunt de volgende handelingen uitvoeren op het tabblad Inhoud:
 
@@ -96,14 +96,14 @@ U kunt de volgende handelingen uitvoeren op het tabblad Inhoud:
 
 Op het tabblad Opnamen kunt u alle opnamen weergeven die in deze ruimte beschikbaar zijn. Elke opname wordt weergegeven met details zoals grootte, datum en tijd van opname en duur.
 
-SCREENSHOT
+![](assets/room-management-5.png)
 
 U kunt de volgende acties van deze gecentraliseerde hub uitvoeren:
 
 * Klik op de knop **[!UICONTROL Launch room]** om de ruimte te starten en te betreden.
 * Gebruik de zoekbalk om de opname te zoeken die u zoekt.
 * Klik op het pictogram Bestanden downloaden om een bestand op uw apparaat te downloaden. Selecteer twee of meer bestanden die u bulksgewijs wilt downloaden.
-* Klik op het opnamepictogram Kopiëren om de opname-URL te kopiëren.
+* Klik op het pictogram Koppeling voor opname kopiëren om de opname-URL te kopiëren.
 * Klik op het pictogram Opname bewerken om de opname te wijzigen.
 * Klik op het pictogram Verwijderen om de opname te verwijderen. Wanneer een opname wordt verwijderd, kan deze niet worden opgehaald.
 * Selecteer een opname om deze af te spelen op het apparaat.
@@ -112,18 +112,17 @@ U kunt de volgende acties van deze gecentraliseerde hub uitvoeren:
 
 Opnamen zijn waardevolle bronnen, waarin de essentie van live discussies, presentaties en vragen en antwoorden wordt vastgelegd. Ze stellen deelnemers in staat om belangrijke inzichten, gemiste details of complexe concepten in hun eigen tempo te herzien.
 
-Klik het **lusje van Opnamen** om een lijst van alle opnamen te zien u hebt geupload.
+Klik op het tabblad **[!UICONTROL Recordings]** om een lijst weer te geven met alle opnamen die u hebt geüpload.
 
-Onder Mijn opname vindt u alle opnamen die beschikbaar zijn in de ruimte die u hebt gemaakt. U kunt ook hun respectievelijke grootte, datum en tijd en duur van opnamen weergeven.
+Onder **[!UICONTROL My recordings]** vindt u alle opnamen die beschikbaar zijn in de ruimte die u hebt gemaakt. U kunt ook hun respectievelijke grootte, datum en tijd en duur van opnamen weergeven.
 
-SCREENSHOT
+![](assets/room-management-6.png)
 
 U kunt de volgende acties van deze gecentraliseerde hub uitvoeren:
 
 * Gebruik de zoekbalk om de opname te zoeken die u zoekt. U kunt ook in een tijdlijn zoeken door een datumbereik te selecteren.
-* Koppeling voor kopiëren opnieuw coderen selecteren   om de opname-URL te kopiëren.
-* Bewerk de opname. (voeg een koppeling toe om de opname te bewerken op het woord &#39;&#39;bewerken&#39;&#39;)
-* Selecteer Opname bewerken om de opname te wijzigen. (voeg een koppeling toe om de opname te bewerken op het woord &#39;&#39;bewerken&#39;&#39;)
-* Gekoppelde pagina tonen   om de informatie weer te geven over de ruimte waar de geselecteerde opname beschikbaar is.
-* Gebruik Ruimte verwijderen om de opname te verwijderen. Als een opname eenmaal is verwijderd, kan deze niet worden opgehaald.
+* Klik op het pictogram Koppeling voor opname kopiëren om de opname-URL te kopiëren.
+* Klik op het pictogram Opname bewerken om de opname te wijzigen.
+* Klik op het pictogram Gekoppelde pagina weergeven om de informatie weer te geven over de ruimte waar de geselecteerde opname beschikbaar is.
+* Klik op het pictogram Verwijderen om de opname te verwijderen. Wanneer een opname wordt verwijderd, kan deze niet worden opgehaald.
 * Selecteer een opname om deze af te spelen op het apparaat.
