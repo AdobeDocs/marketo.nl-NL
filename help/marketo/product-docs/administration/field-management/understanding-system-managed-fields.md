@@ -4,66 +4,196 @@ description: Werken met systeembeheerde velden - Marketo Docs - Productdocumenta
 title: Werken met door het systeem beheerde velden
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 1%
 
 ---
 
 # Werken met door het systeem beheerde velden {#understanding-system-managed-fields}
 
-U zou kunnen opgemerkt hebben dat [detailpagina van persoon](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} heeft een reeks niet-bewerkbare velden die door Marketo zijn gemaakt. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
+U zou kunnen opgemerkt hebben dat de [ pagina van het persoondetail ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} een reeks niet-editable gebieden heeft die door Marketo worden gecreeerd. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
 
 ## Veldtypen {#field-types}
 
-| **Veldnaam** | **Definitie** |
-|---|---|
-| Oorspronkelijk brontype | De locatie waar een persoon of websitebezoeker voor het eerst is aangetroffen (bijvoorbeeld: Importeren van lijst, webpaginabezoek) |
-| Originele broninformatie | Specificaties over die locatie (voorbeeld: Naam van de lijst, URL van de webpagina) |
-| Originele zoekengine | Indien van toepassing, de zoekmachine die de persoon naar de oorspronkelijke bron van binnenkomst heeft verwezen |
-| Oorspronkelijke zoekterm | Indien van toepassing, de gebruikte zoekterm die de persoon naar de oorspronkelijke bron van binnenkomst verwees |
-| Oorspronkelijke verwijzing | URL die de oorspronkelijke invoerbron heeft gehost |
-| Brontype van registratie | De locatie waar een activiteit voor het eerst een persoon werd (voorbeeld: Importeren van lijst, webpaginabezoek) |
-| Informatie over registratiefron | Specificaties over die locatie (voorbeeld: Naam van de lijst, URL van de webpagina) |
-| Anoniem IP-adres | Geeft het IP-adres van een persoon aan |
-| Afgeleid bedrijf | Marketo raadt het bedrijf van de persoon het beste raden (op basis van IP) |
-| Overgenomen stad | De beste schatting van de stad van de persoon (op basis van IP) door Marketo |
-| Gebied van de betrokken staat | Marketo kan het beste raden (op basis van IP) van de staat of regio van de persoon |
-| Postcode | Marketo geeft de beste schatting (op basis van IP) van de postcode van de persoon |
-| Afgeleid land | Marketo geeft de beste schatting (gebaseerd op IP) van het land van de persoon |
-| Overgenomen metropolitaans gebied | Marketo geeft de beste schatting (gebaseerd op IP) van het metropolitane gebied van de persoon |
-| Gebiedscode afgeleide telefoon | Marketo kan het beste raden (op basis van IP) van de gebiedscode van de persoon |
+<table><thead>
+  <tr>
+    <th>Veldnaam</th>
+    <th>Definitie</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Oorspronkelijk Source-type</td>
+    <td>De locatie waar een persoon of websitebezoeker voor het eerst is aangetroffen (bijvoorbeeld: Lijstimport, webpaginabezoek)</td>
+  </tr>
+  <tr>
+    <td>Originele Source-informatie</td>
+    <td>Specificaties over die locatie (bijvoorbeeld: naam van de lijst, URL van de webpagina)</td>
+  </tr>
+  <tr>
+    <td>Originele zoekengine</td>
+    <td>Indien van toepassing, de zoekmachine die de persoon naar de oorspronkelijke bron van binnenkomst heeft verwezen</td>
+  </tr>
+  <tr>
+    <td>Oorspronkelijke zoekterm</td>
+    <td>Indien van toepassing, de gebruikte zoekterm die de persoon naar de oorspronkelijke bron van binnenkomst verwees</td>
+  </tr>
+  <tr>
+    <td>Oorspronkelijke verwijzing</td>
+    <td>URL die de oorspronkelijke invoerbron heeft gehost</td>
+  </tr>
+  <tr>
+    <td>Source-type registratie</td>
+    <td>De locatie waar een activiteit voor het eerst een persoon werd (Voorbeeld: List Import, Web Page Visit)</td>
+  </tr>
+  <tr>
+    <td>Source-informatie registreren</td>
+    <td>Specificaties over die locatie (bijvoorbeeld: naam van de lijst, URL van de webpagina)</td>
+  </tr>
+  <tr>
+    <td>Anoniem IP-adres</td>
+    <td>Geeft het IP-adres van een persoon aan</td>
+  </tr>
+  <tr>
+    <td>Afgeleid bedrijf</td>
+    <td>Marketo raadt het bedrijf van de persoon het beste raden (op basis van IP)</td>
+  </tr>
+  <tr>
+    <td>Overgenomen stad</td>
+    <td>De beste schatting van de stad van de persoon (op basis van IP) door Marketo</td>
+  </tr>
+  <tr>
+    <td>Gebied van de betrokken staat</td>
+    <td>Marketo kan het beste raden (op basis van IP) van de staat of regio van de persoon</td>
+  </tr>
+  <tr>
+    <td>Postcode</td>
+    <td>Marketo geeft de beste schatting (op basis van IP) van de postcode van de persoon</td>
+  </tr>
+  <tr>
+    <td>Afgeleid land</td>
+    <td>Marketo geeft de beste schatting (gebaseerd op IP) van het land van de persoon</td>
+  </tr>
+  <tr>
+    <td>Overgenomen metropolitaans gebied</td>
+    <td>Marketo geeft de beste schatting (op basis van IP) van het metropolitane gebied van de persoon</td>
+  </tr>
+  <tr>
+    <td>Gebiedscode afgeleide telefoon</td>
+    <td>Marketo kan het beste raden (op basis van IP) van de gebiedscode van de persoon</td>
+  </tr>
+</tbody></table>
 
-## Mogelijke waarden voor het brontype Origineel en Registratie {#possible-values-for-original-and-registration-source-type}
+## Mogelijke waarden voor het Source-type Origineel en Registratie {#possible-values-for-original-and-registration-source-type}
 
 Hieronder staan enkele mogelijke waarden en wat ze betekenen.
 
-| **Oorspronkelijk brontype** | **Definitie** |
-|---|---|
-| Salesforce.com | Persoon is ontdekt van een [!DNL Webhook] synchroniseren |
-| Bezoekingen webpagina | Persoon is aangetroffen op een webpagina |
-| Invullen webformulier | De persoon is ontdekt na het invullen van een formulier |
-| Lijstimport | De persoon is gevonden uit een lijstimport |
-| Nieuwe persoon | De persoon is handmatig in de database ingevoerd |
-| Webkoppeling klikken | Persoon is gevonden nadat op een koppeling is geklikt |
-| Verkoope-mail | De persoon is per e-mail verzonden via [!DNL Sales Insight] E-mailinvoegtoepassing |
-| Persoon | Persoon is gesynchroniseerd van [!DNL Salesforce] als persoon |
-| Contact | Persoon is gesynchroniseerd van [!DNL Webhook] als contactpersoon |
-| [!DNL Munchkin] API | Persoon is ontdekt door de Marketo Engage [!DNL Munchkin] API |
-| Sociale app | Persoon is ontdekt door een sociale widget |
-| Webservice-API | Persoon is aangetroffen door een webservice-API |
-| Gebeurtenispartner | Persoon is ontdekt via een gesynchroniseerde webinarservice |
-| Associate Lead | Persoon die is samengevoegd via een koppelings-API-aanroep |
+<table><thead>
+  <tr>
+    <th>Oorspronkelijk Source-type</th>
+    <th>Definitie</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Persoon is gevonden bij Salesforce-synchronisatie</td>
+  </tr>
+  <tr>
+    <td>Bezoekingen webpagina</td>
+    <td>Persoon is aangetroffen op een webpagina</td>
+  </tr>
+  <tr>
+    <td>Invullen webformulier</td>
+    <td>De persoon is ontdekt na het invullen van een formulier</td>
+  </tr>
+  <tr>
+    <td>Lijstimport</td>
+    <td>De persoon is gevonden uit een lijstimport</td>
+  </tr>
+  <tr>
+    <td>Nieuwe persoon</td>
+    <td>De persoon is handmatig in de database ingevoerd</td>
+  </tr>
+  <tr>
+    <td>Webkoppeling klikken</td>
+    <td>Persoon is gevonden na klikken op een koppeling</td>
+  </tr>
+  <tr>
+    <td>Verkoope-mail</td>
+    <td>De persoon is per e-mail verzonden via de e-mailinvoegtoepassing voor het verkoopinzicht</td>
+  </tr>
+  <tr>
+    <td>Persoon</td>
+    <td>Persoon is als persoon gesynchroniseerd van Salesforce</td>
+  </tr>
+  <tr>
+    <td>Contact</td>
+    <td>De persoon is via Webhaak gesynchroniseerd als een contactpersoon</td>
+  </tr>
+  <tr>
+    <td>Munchkin-API</td>
+    <td>Persoon is aangetroffen door de Marketo Engage Munchkin-API</td>
+  </tr>
+  <tr>
+    <td>Sociale app</td>
+    <td>Persoon is ontdekt door een sociale widget</td>
+  </tr>
+  <tr>
+    <td>Webservice-API</td>
+    <td>Persoon is aangetroffen door een webservice-API</td>
+  </tr>
+  <tr>
+    <td>Gebeurtenispartner</td>
+    <td>Persoon is ontdekt via een gesynchroniseerde webinarservice</td>
+  </tr>
+  <tr>
+    <td>Associate Lead</td>
+    <td>Persoon die is samengevoegd via een koppelings-API-aanroep</td>
+  </tr>
+</tbody></table>
 
-| **Brontype van registratie** | **Definitie** |
-|---|---|
-| Lijstimport | Een persoon worden via een lijstimport |
-| Salesforce.com | Een persoon worden via een [!DNL Webhook] synchroniseren |
-| Invullen webformulier | Een persoon worden na het invullen van een formulier |
-| Verkoope-mail | De persoon is per e-mail verzonden via [!DNL Webhook] E-mailinvoegtoepassing |
-| Webservice-API | De persoon is gemaakt via de API SOAP/REST |
-| Nieuwe persoon | De persoon is handmatig in de database ingevoerd |
-| [!DNL Munchkin] API | Word een persoon via Marketo [!DNL Munchkin] API |
-| Sociale app | Een persoon worden via een sociale widget |
-| Gebeurtenispartner | Een persoon worden via een gekoppelde webinar-service |
+<table><thead>
+  <tr>
+    <th>Source-type registratie</th>
+    <th>Definitie</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Lijstimport</td>
+    <td>Een persoon worden via een lijstimport</td>
+  </tr>
+  <tr>
+    <td>Salesforce.com</td>
+    <td>Iemand worden via Salesforce-synchronisatie</td>
+  </tr>
+  <tr>
+    <td>Invullen webformulier</td>
+    <td>Een persoon worden na het invullen van een formulier</td>
+  </tr>
+  <tr>
+    <td>Verkoope-mail</td>
+    <td>De persoon is per e-mail verzonden via de e-mailinvoegtoepassing voor het verkoopinzicht</td>
+  </tr>
+  <tr>
+    <td>Webservice-API</td>
+    <td>Persoon is gemaakt via SOAP/REST API</td>
+  </tr>
+  <tr>
+    <td>Nieuwe persoon</td>
+    <td>De persoon is handmatig in de database ingevoerd</td>
+  </tr>
+  <tr>
+    <td>Munchkin-API</td>
+    <td>Word een persoon via de Marketo Munchkin-API</td>
+  </tr>
+  <tr>
+    <td>Sociale app</td>
+    <td>Een persoon worden via een sociale widget</td>
+  </tr>
+  <tr>
+    <td>Gebeurtenispartner</td>
+    <td>Een persoon worden via een gekoppelde webinar-service</td>
+  </tr>
+</tbody>
+</table>
