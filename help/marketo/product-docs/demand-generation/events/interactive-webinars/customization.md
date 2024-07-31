@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '662'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,43 @@ U kunt de volgende opties aanpassen:
 * Logo
 * Virtuele videoachtergronden
 
+## Rechten verlenen {#grant-permissions}
+
+Voordat gebruikers in uw organisatie uw interactieve webinars kunnen aanpassen, moet een beheerder van een Marketo Engage eerst toegang toevoegen aan de gewenste rol(s).
+
+1. Klik in Marketo Engage op **[!UICONTROL Admin]** .
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. Klik op **[!UICONTROL Users & Roles]** en vervolgens op de tab **[!UICONTROL Roles]** .
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Dubbelklik op de rol waaraan u de machtigingen wilt toevoegen.
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. Klik om **[!UICONTROL Access Design Studio]** te openen.
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. Schakel het selectievakje **[!UICONTROL Access Interactive Webinars Customization]** in.
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## Interactieve webinarschermen aanpassen {#customize-interactive-webinar-screens}
 
 1. Ga naar de **Studio van het Ontwerp**.
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. Klik **Interactieve Webinars** en selecteer **aanpassen Webinars**.
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. U kunt de interface van de Ruimte, de Onmiddellijke schermen, of Virtuele videoachtergronden aanpassen.
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### De interface van de ruimte aanpassen {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ Als u de vormgeving van een ruimte wilt aanpassen, selecteert u het tabblad Gebr
 
 1. Pas in het rechterdeelvenster de volgende voorkeuren aan:
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **Eigen embleem van de Douane**: Selecteer Logo Upload en doorblader het beeld van uw apparaat. De afbeelding mag niet groter zijn dan 50 x 31 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png. U kunt uw logo wijzigen of verwijderen.
 
@@ -65,7 +89,7 @@ Als u de vormgeving van een ruimte wilt aanpassen, selecteert u het tabblad Gebr
 
 1. Selecteer **[!UICONTROL Apply]** om de wijzigingen op te slaan. Klik op **[!UICONTROL Reset to default]** om de standaardinstellingen te herstellen.
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### Tussenschermen aanpassen {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ Als u de vormgeving van een ruimte wilt aanpassen, selecteert u het tabblad Tuss
 
 1. Van het juiste paneel, pas het beeld van de Achtergrond aan door **te selecteren uploadt beeld** en doorblader een beeld voor een embleem. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png. U kunt het logo desgewenst wijzigen of verwijderen.
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ Met door de organisatie gedefinieerde achtergronden kunt u tijdens de gebeurteni
 
 1. Klik op de schakeloptie om aangepaste achtergronden toe te staan in uw gebeurtenissen en ruimten.
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. Selecteer **uploadt achtergrond** om een douaneachtergrond te uploaden. De afbeelding mag niet groter zijn dan 1920 x 1080 pixels en kan verschillende bestandsindelingen hebben: .svg, .gif, .jpg en .png.
 
@@ -109,6 +133,6 @@ Adobe Connect biedt negen standaardachtergronden die u kunt gebruiken. U kunt de
 
 Gebruik de schakeloptie om de beschikbaarheid van deze standaardachtergronden in uw gebeurtenissen en ruimten te bepalen.
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 Selecteer **toepassen** om de veranderingen te bewaren of **Terugstellen aan gebrek** om aan de standaardmontages terug te stellen.

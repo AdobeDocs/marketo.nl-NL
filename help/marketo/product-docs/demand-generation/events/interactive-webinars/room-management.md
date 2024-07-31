@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
 
 # Ruimtebeheer {#room-management}
 
-Interactieve webinarruimten die door Adobe Connect worden aangedreven, zijn ontworpen om aantrekkelijke en gezamenlijke online evenementen mogelijk te maken. In deze webinars wordt een hoeveelheid inhoud en opnamen opgeslagen in webinarruimten die zijn gemaakt door erkende organisatieleden. Als lid met het recht om een ruimte tot stand te brengen, kunt u tot hen toegang hebben en leiden van een gecentraliseerde plaats.
+Interactieve webinarruimten die door Adobe Connect worden aangedreven, zijn ontworpen om aantrekkelijke en gezamenlijke online evenementen mogelijk te maken. In deze webinars worden inhoud en opnamen opgeslagen die tijdens het webinar zijn gemaakt en gebruikt. Als lid met het recht om een ruimte tot stand te brengen, kunt u tot hen van een centrale plaats toegang hebben en leiden.
+
+>[!NOTE]
+>
+>U hebt alleen toegang tot de ruimten die u voor een webinar hebt gemaakt en niet tot ruimten van andere leden in uw organisatie.
 
 ## Ruimten en opnamen beheren en openen {#manage-and-access-rooms-and-recordings}
 
