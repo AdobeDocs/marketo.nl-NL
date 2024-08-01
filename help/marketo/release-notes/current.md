@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
      <tr> 
    <td><strong> Dashboard van de Betrokkenheid voor Interactieve Webinars </strong>: Verkrijg een gezamenlijke webinar prestatiesmening evenals een uitvoerige mening van betrokkenheid voor elke aanwezige tijdens webinar zodat kunt u beslissen wat tot doel door de hulpmiddelen van de Orchestratie van het Marketo Engage leidt.</td> 
-    <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+    <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Betrokkenheidsdashboard</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
      <tr> 
    <td><strong> Beheer van de Zaal voor Interactieve Webinars </strong>: De toegang individuele die ruimten (en maakt wijzigingen indien nodig) worden gecreeerd evenals toegang tot de inhoud en de opname (en ontruim hen indien nodig om opslag te optimaliseren).</td> 
-    <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+    <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Ruimtebeheer</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
      <tr> 
    <td><strong> Aanpassing Webinar voor Interactieve Webinars </strong>: Verstrek een eenvormige organisatie-goedgekeurde branded ervaring door het gebruik van een gemeenschappelijke ruimteinterface, intermediaire schermen (zoals het scherm van de deelnemersingang achtergronden), evenals douanevideoachtergronden, zodat de webinar strategie zich gemakkelijker op merkstrategie kan richten.</td> 
-    <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+    <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Interactieve webinars aanpassen</a></td>
   </tr>
   <tr> 
    <td> </td> 
