@@ -3,7 +3,7 @@ description: Handelingen voor het toezicht op de verkoop Gebruikershandleiding v
 title: Handleiding voor het toezicht op de verkoop
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions is een webtoepassing die via de [Marketo Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van het Inzicht van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van het Inzicht van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Nieuwe gebruikers moeten de onderstaande stappen volgen.
 
-1. Klik in de welkomstmail op **Aan de slag**.
+1. In welkome e-mail, klik **Begonnen krijgen**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. Klikken **Account activeren met Salesforce**.
+1. Klik **activeren Rekening met Salesforce**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
@@ -39,31 +39,31 @@ Nieuwe gebruikers moeten de onderstaande stappen volgen.
 >
 >Je e-mailadres en e-mailadres van je verkoopaccount moeten hetzelfde zijn.
 
-1. Klikken **Toestaan**.
+1. Klik **toestaan**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. Klikken **Start**.
+1. Klik **Begin**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. Klikken **Volgende**.
+1. Klik **daarna**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
-1. Kies de e-mailclient die u gebruikt (Gmail of Outlook) en klik op **Volgende**.
+1. Kies de e-mailcliënt u gebruikt (Gmail of Vooruitzichten) en klik **daarna**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-7.png)
 
-1. Voer uw e-mailadres in en klik op **Volgende**.
+1. Ga uw e-mailadres in en klik **daarna**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-8.png)
 
-1. Voer uw wachtwoord in en klik op **Volgende**.
+1. Ga uw wachtwoord in en klik **daarna**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. Klikken **Doorgaan**.
+1. Klik **verdergaan**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -75,19 +75,19 @@ Nieuwe gebruikers moeten de onderstaande stappen volgen.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. Voer uw aangepaste handtekening in en klik op **Opslaan** (als u dit later via de profielpagina wilt doen, klikt u op **Overslaan**).
+1. Ga uw douanehandtekening in en klik **sparen** (als u dit later door uw profielpagina wilt doen, klik **Overslaan**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. Klikken **Voltooien**.
+1. Klik **Afwerking**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Je ziet de optie om een korte inleiding op Marketo-verkoopacties te bekijken. Klikken **Volgende** om te bekijken, of **Niet nu** opslaan voor later.
+1. Je ziet de optie om een korte inleiding op Marketo-verkoopacties te bekijken. Klik **daarna** aan mening, of **niet nu** om voor later te bewaren.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. Als u klaar bent met de tour of als u deze hebt overgeslagen, kiest u of u zich rechtstreeks bij de webtoepassing of bij uw Salesforce-account aanmeldt, zodat u toegang hebt tot alle functies in het deelvenster MSI (in dit voorbeeld kiezen wij **Salesforce starten**).
+1. Wanneer u met de tour wordt gedaan, of als u het overslaat, verkies of om rechtstreeks aan de Webtoepassing of uw rekening van Salesforce te registreren waar u tot alle eigenschappen van het paneel kunt toegang hebben MSI (in dit voorbeeld kiezen wij **Lancering Salesforce**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

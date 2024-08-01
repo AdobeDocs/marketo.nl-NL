@@ -3,7 +3,7 @@ description: Handelingen voor het toezicht op de gebruiker op instapkaarten - Ma
 title: Handelingen voor het toezicht op de verkoop Gebruiker aan boord
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Handelingen voor het toezicht op de verkoop Gebruiker aan boord {#sales-insight-actions-user-onboarding-checklist}
 
-Als je bronnen zoekt over hoe je aan de slag kunt met Marketo Sales Insight Actions, [de onboarding checklist downloaden](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx).
+Als u middelen op hoe te beginnen met de Acties van het Inzicht van de Verkoop van Marketo zoekt, gelieve [ de onboarding checklist ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx) te downloaden.
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions is een webtoepassing die via de [Marketo Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van het Inzicht van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van het Inzicht van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 [![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
 

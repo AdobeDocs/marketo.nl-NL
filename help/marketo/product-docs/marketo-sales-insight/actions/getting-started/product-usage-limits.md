@@ -3,10 +3,10 @@ description: Limieten voor productgebruik - Marketo-documenten - productdocument
 title: Limieten voor productgebruik
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 11%
+source-wordcount: '233'
+ht-degree: 12%
 
 ---
 
@@ -16,7 +16,7 @@ Hieronder vindt u de limieten die gelden voor het gebruik van de uitgebreide mog
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions is een webtoepassing die via de [Marketo Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van het Inzicht van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van het Inzicht van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 <table>
   <th>Functionaliteit</th>
@@ -30,7 +30,7 @@ Hieronder vindt u de limieten die gelden voor het gebruik van de uitgebreide mog
  <tr>
   <td>Verkoop-e-mailverzendingen</td>
   <td>per gebruiker/per dag</td>
-  <td>1,000</td>
+  <td>1.000</td>
  </tr>
  <tr>
   <td>Bulkverkoop-e-mail</td>
@@ -40,7 +40,7 @@ Hieronder vindt u de limieten die gelden voor het gebruik van de uitgebreide mog
  <tr>
   <td>E-mailsjablonen</td>
   <td>per instantie</td>
-  <td>2,000</td>
+  <td>2.000</td>
  </tr>
  <tr>
   <td>E-mailsjablooncategorieën</td>
