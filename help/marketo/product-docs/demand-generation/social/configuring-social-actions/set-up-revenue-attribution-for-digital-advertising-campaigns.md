@@ -1,19 +1,23 @@
 ---
 unique-page-id: 10098812
-description: Ontvangsten toewijzen voor digitale reclamecampagnes - Marketo-documenten - productdocumentatie
-title: Ontvangsten toewijzen voor digitale reclamecampagnes instellen
+description: Ontvangsten toewijzen voor digitale Advertising-campagnes - Marketo Docs - Productdocumentatie
+title: Ontvangsten toewijzen voor digitale Advertising-campagnes instellen
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '854'
 ht-degree: 0%
 
 ---
 
-# Ontvangsten toewijzen voor digitale reclamecampagnes instellen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Ontvangsten toewijzen voor digitale Advertising-campagnes instellen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
 
 Hieronder wordt beschreven hoe u inkomstentoewijzing voor digitale reclamekanalen en campagnes instelt. Nadat u het hebt opgezet, kunt u eerste-aanraak en multi-aanraak opbrengstattributie voor digitale advertenties doen het zelfde als in andere programma&#39;s van Marketo.
+
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 Nadat u uw eerste advertentieprogramma hebt ingesteld in Marketo, kunt u het klonen en bijwerken voor andere kanalen. U kunt bijvoorbeeld een LinkedIn-programma klonen naar een Facebook-programma.
 
@@ -21,7 +25,7 @@ Met afzonderlijke programma&#39;s, kunt u dan het aantal omzettingen van elkaar 
 
 >[!PREREQUISITES]
 >
->* Een kanaaltag instellen met statuswaarden en succes van programma (bijvoorbeeld Digital Advertising of Social Paid en PPC)
+>* Een kanaaltag instellen met statuswaarden en succes van programma (bijvoorbeeld Digitale Advertising of Sociale Betaald en PPC)
 >* Een formulier maken of bewerken om een queryreeks door te geven aan de persoon
 >* Zorg ervoor dat u toegang hebt tot bepaalde mogelijkheden voor de analyse van de opbrengstcyclus om te rapporteren over uw advertentiekanalen en campagnes
 
@@ -29,15 +33,15 @@ Met afzonderlijke programma&#39;s, kunt u dan het aantal omzettingen van elkaar 
 
 In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor een bepaalde periode kunnen lopen, zijn de standaardprogramma&#39;s altijd ingeschakeld.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Klikken **Nieuw** en selecteert u **Nieuw programma**.
+1. Klik **Nieuw** en selecteer **Nieuw Programma**.
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Als u al een programma hebt, kunt u [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Als u reeds een programma op zijn plaats hebt, kunt u [ het ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) klonen.
 
    >[!TIP]
    >
@@ -53,9 +57,9 @@ In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor e
    >
    >U kunt een methodologie van het vraagkoord tot stand brengen die alle variabelen omvat u wilt meten. Marketo gebruikt deze variabelen om mensen aan uw verschillende programma&#39;s toe te voegen.
    >
-   >U kunt bijvoorbeeld Kanaaltype_Channel__Asset__Region gebruiken. Dat zou er als volgt kunnen uitzien: SP_FB_NewGuide_US. **Opmerking**: afkortingen besparen ruimte.
+   >U kunt bijvoorbeeld Kanaaltype_Channel__Asset__Region gebruiken. Dat zou als kunnen kijken: SP_FB_NewGuide_US. **Nota**: de afkortingen bewaren ruimte.
    >
-   >Of stel de waarde in als Channel_Adsource_AssetName_Region_UniqueIdNumber. Dat zou er als volgt kunnen uitzien: Social-Paid_Facebook_NewGuide_NA_123.
+   >Of stel de waarde in als Channel_Adsource_AssetName_Region_UniqueIdNumber. Dat zou als kunnen kijken: Social-Paid_Facebook_NewGuide_NA_123.
 
 ## Een slimme campagne maken voor nieuwe namen {#create-a-smart-campaign-for-new-names}
 
@@ -65,9 +69,9 @@ In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor e
 
    >[!NOTE]
    >
-   >De querytekenreeks die wordt gebruikt in de twee triggers en de **Programma met vastgelegde naam** is uniek voor u. De hier weergegeven querytekenreeksen zijn bijvoorbeeld alleen. Als u het veld hebt gekloond, vervangt u deze velden gewoon.
+   >Het vraagkoord dat in de twee trekkers wordt gebruikt en het **Programma dat de gevangen filter van de Naam** uniek aan u is. De hier weergegeven querytekenreeksen zijn bijvoorbeeld alleen. Als u het veld hebt gekloond, vervangt u deze velden gewoon.
 
-1. Een flowstap maken om het kenmerk te wijzigen in **Overnameprogramma** en stel de Nieuwe waarde in op de waarde die u voor betaalde sociale campagnes hebt gedefinieerd.
+1. Creeer een stroomstap om de attributen in **Programma van de Aankoop** te veranderen en de Nieuwe Waarde te plaatsen aan de waarde u voor betaalde sociale campagnes hebt bepaald.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
@@ -77,7 +81,7 @@ In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor e
 
 U hebt een tweede slimme campagne nodig om de status van mensen te wijzigen, zodat ze het succes van het programma kunnen bereiken en kunnen worden opgenomen in berekeningen voor inkomstentoewijzing.
 
-1. In de **Formulier wordt ingevuld** trigger, voert u de naam van het programma in de queryreeks in. Als u het programma kloont, vervang enkel de oude naam van het vraagkoord met nieuwe.
+1. In de **Vult uit de trekker van de Vorm**, ga de programmanaam in het vraagkoord in. Als u het programma kloont, vervang enkel de oude naam van het vraagkoord met nieuwe.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -87,15 +91,15 @@ U hebt een tweede slimme campagne nodig om de status van mensen te wijzigen, zod
 
    >[!NOTE]
    >
-   >Het bovenstaande voorbeeld toont **Omgezet**, maar dit hangt af van uw status/succeswaarden.
+   >Het voorbeeld hierboven toont **Omgezet**, maar dit hangt van uw status/succeswaarden af.
 
 1. Plan en activeer de campagne.
 
 ## Je advertentie maken {#create-your-ad}
 
-Nadat u het programma en de campagnes hebt ingesteld, maakt u de nieuwe advertentie.
+Maak de nieuwe advertentie nadat u het programma en de campagnes hebt ingesteld.
 
-1. Ga naar het kanaal; bv. LinkedIn of Facebook.
+1. Ga naar het kanaal, bijvoorbeeld LinkedIn of Facebook.
 1. Maak een nieuwe advertentie.
 1. Selecteer een Marketo landende pagina als bestemming voor Vraag aan Actie in de campagne.
 1. Voeg de queryreeks toe aan de URL.
@@ -104,20 +108,20 @@ Nadat u het programma en de campagnes hebt ingesteld, maakt u de nieuwe adverten
    >
    >**Voorbeeld**
    >
-   >Hieronder wordt beschreven hoe u alle informatie die u hebt ingesteld, kunt toevoegen aan een werkelijke URL. De items worden gescheiden door een en-teken (&amp;):
+   >Hieronder wordt beschreven hoe u alle informatie die u hebt ingesteld, kunt toevoegen aan een werkelijke URL. De items worden van elkaar gescheiden door een en-teken (&amp;):
    >
    >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >* **bron** Is de Bron van de Persoon die als kanaalherkenningsteken wordt gebruikt
-   >* **opmerking** is de unieke id die voor elk programma is gemaakt
-   >* **kamp** is de campagne in Facebook, LinkedIn of Google
-   >* **kk** is de trefwoord- of elementnaam die u wilt vastleggen
+   >* **bron** is de Persoon Source die als kanaalherkenningsteken wordt gebruikt
+   >* **commentaar** is het unieke herkenningsteken dat voor elk programma wordt gecreeerd
+   >* **kamp** is de campagne in Facebook, LinkedIn, of Google
+   >* **kk** is het sleutelwoord of activa naam u wilt vangen
    >
-   >**Deze vier termen moeten allemaal in kleine letters staan en de URL mag geen spaties bevatten om deze gegevens vast te leggen.**
+   >**deze vier termijnen moeten allen in kleine letters zijn en er kunnen geen ruimten in URL voor deze te vangen informatie zijn.**
 
-## Aanbevolen werkwijzen {#best-practices}
+## Aanbevolen procedures {#best-practices}
 
-Gebruik één kanaalmarkering om alle digitale reclame te vertegenwoordigen, of gebruik veelvoudige kanaalmarkeringen als u meer korrelige vergelijkingen met uw andere marketing kanalen (bijvoorbeeld, sociaal-Betaalde, Onderzoek-Betaalde, Vertoning, het Terugkeren) wilt.
+U kunt één kanaaltag gebruiken om alle digitale Advertising weer te geven of meerdere kanaaltags gebruiken als u meer korrelige vergelijkingen wilt maken met andere marketingkanalen (bijvoorbeeld Sociale media, Betaald zoeken, Weergeven, Opnieuw plaatsen).
 
 Stel vervolgens verschillende programma&#39;s in voor elke rapportweergave die u nodig hebt. Gebruik een gemeenschappelijke identiteitskaart als parameter in URL (BC, bijvoorbeeld) in het vraagkoord als u 10 gebieden hebt die een &quot;Grote Campagne&quot;samen lanceren en resultaten over gebieden willen kunnen bekijken.
 

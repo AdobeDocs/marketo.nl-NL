@@ -4,9 +4,9 @@ description: Sociale aanmelding/Share Flow configureren - Marketo Docs - Product
 title: Maatschappelijke aanmelding/workflow delen configureren
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,21 @@ ht-degree: 0%
 
 Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk configureren en aangeven dat een gebruiker een melding krijgt wanneer hij of zij zich aanmeldt.
 
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
 ## Netwerken selecteren voor delen {#select-networks-for-sharing}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/ma-1.png)
 
-1. Selecteer de app en klik op **Concept bewerken**.
+1. Selecteer app, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2014-9-22-13-3a57-3a43.png)
 
-1. Klik in de sociale app-editor op **Registratie** > **Sociale netwerken**.
+1. In de sociale app redacteur, klik **Teken-op Stroom** > **Sociale Netwerken**.
 
    ![](assets/three.png)
 
@@ -35,7 +39,7 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
 ## Facebook-bericht configureren {#configure-the-facebook-message}
 
-1. Ga naar **Registratie** > **Berichten delen**.
+1. Ga naar **Sign-Up Stroom** > **Berichten van het Aandeel**.
 
    ![](assets/five.png)
 
@@ -47,47 +51,47 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
    >
    >In een gedeelde video wordt de miniatuur automatisch gegenereerd.
 
-   Als u **Dynamische inhoud toevoegen**, de waarden van de pagina&#39;s **OpenGraph** -tags (og:title, og:caption en og:description) en de miniaturen worden automatisch toegevoegd aan Facebook-posts. Zie de volgende stap.
+   Als u **kiest voeg Dynamische inhoud** toe, worden de waarden van de 2} OpenGraph **markeringen van de pagina (og:titel, ga:titel, en ga:beschrijving) en de duimnagel automatisch toegevoegd aan de posten van Facebook.** Zie de volgende stap.
 
-   Als u **Statische inhoud toevoegen**, voert u de titel, het bijschrift, de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
+   Als u **kiest voeg Statische inhoud** toe, ga de titel, de titel, de beschrijving in, en upload een beeld. Zie de volgende twee stappen.
 
-1. Klik in het venster Weergave en bewerken op **Bewerkingen tonen** en bewerk de gedeelde vraag en het bericht dat in Facebook-berichten wordt weergegeven.
+1. In het venster van de Mening &amp; geeft uit, klik **geeft uit** en geeft de aandeelherinnering en het bericht uit dat in de posten van Facebook zullen verschijnen.
 
    >[!TIP]
    >
-   >Zie voor meer informatie [Facebook Rich Post-instellingen bewerken](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
+   >Voor meer informatie, zie [ de Rijke Montages van Post van Facebook ](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md) uitgeven.
 
    ![](assets/image2014-9-22-13-3a59-3a57.png)
 
    >[!NOTE]
    >
-   >De [delen, URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle gedeelde berichten.
+   >Het [ aandeel URL ](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle aandeelberichten.
 
-1. Als u **Statische inhoud toevoegen** hierboven, bewerk de titel, het bijschrift en de beschrijving en upload een aangepaste afbeelding (vanuit uw [**Marketo-afbeeldingen en -bestanden**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
+1. Als u **koos voeg Statische inhoud** hierboven toe, geef de titel, de titel, de titel, en de beschrijving uit, en upload een douanebeeld (van uw [**Beelden en Dossiers van Marketo**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
    ![](assets/image2014-9-22-14-3a1-3a11.png)
 
-   Zie [Afbeeldingen en bestanden toevoegen aan Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Zie [ Afbeeldingen en Dossiers aan Marketo ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toevoegen.
 
    >[!NOTE]
    >
    >Als u een afbeelding uploadt, wordt deze hier pas weergegeven wanneer u de editor voor de sociale app sluit en weer opent.
 
-1. Klikken **Volgende**.
+1. Klik **daarna**.
 
 Als u de waarden van de paginatags (og:title, og:caption en og:description) kiest, worden de miniaturen automatisch toegevoegd aan Facebook-posts. Zie de volgende stap.
 
-## Twitter-bericht configureren {#configure-the-twitter-message}
+## Het bericht Twitter configureren {#configure-the-twitter-message}
 
-1. Bewerk de gedeelde vraag en het bericht dat wordt weergegeven in Twitter-tweets.
+1. Bewerk de gedeelde vraag en het bericht dat worden weergegeven in Twitter-tweets.
 
    ![](assets/image2014-9-22-14-3a2-3a31.png)
 
    >[!TIP]
    >
-   >Gebruiken {html_title} in uw tweetekst om automatisch de titel van de pagina weer te geven.
+   >Gebruik {html_title} in de tweetekst om automatisch de titel van de pagina weer te geven.
 
-1. Klikken **Volgende**.
+1. Klik **daarna**.
 
 ## LinkedIn-bericht configureren {#configure-the-linkedin-message}
 
@@ -95,19 +99,19 @@ Als u de waarden van de paginatags (og:title, og:caption en og:description) kies
 
    ![](assets/image2014-9-22-14-3a3-3a8.png)
 
-   Als u **Dynamische inhoud toevoegen**, worden de waarden van de paginatags (titel en beschrijving) en de miniatuur automatisch toegevoegd aan LinkedIn-advertenties. Zie de volgende stap.
+   Als u **kiest voeg Dynamische inhoud** toe, worden de waarden van de paginatags (titel en beschrijving), en de duimnagel, automatisch toegevoegd aan de posten van LinkedIn. Zie de volgende stap.
 
-   Als u **Statische inhoud toevoegen**, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
+   Als u **kiest voeg Statische inhoud** toe, ga de titel, de titel, de titel, en de beschrijving in, en upload een beeld. Zie de volgende twee stappen.
 
-1. In de **Weergeven en bewerken** venster, klikt u op **Bewerkingen tonen** en bewerk de gedeelde vraag en het bericht dat in LinkedIn-berichten wordt weergegeven.
+1. In het **Mening &amp; geeft** venster uit, klik **geeft** uit en geeft de aandeelherinnering en het bericht uit dat in LinkedIn posten zullen verschijnen.
 
    ![](assets/image2014-9-22-14-3a4-3a6.png)
 
    >[!TIP]
    >
-   >Gebruiken {html_title} in je berichttekst om automatisch de titel van de pagina weer te geven.
+   >Gebruik {html_title} in de berichttekst om de titel van de pagina automatisch weer te geven.
 
-1. Als u **Statische inhoud toevoegen** hierboven, bewerk de titel en beschrijving en upload een aangepaste afbeelding (vanuit uw [**Marketo-afbeeldingen en -bestanden**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
+1. Als u **kiest voeg Statische inhoud** hierboven toe, geef de titel en de beschrijving uit, en upload een douanebeeld (van uw [**Beelden en Dossiers van Marketo**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 
    ![](assets/image2014-9-22-13-3a55-3a17.png)
 
@@ -117,4 +121,4 @@ Als u de waarden van de paginatags (og:title, og:caption en og:description) kies
 
 >[!MORELIKETHIS]
 >
->Klik op Volgende **Voltooien** > **Goedkeuren en Sluiten** en zet uw sociale app op een landingspagina. U kunt ook configureren [vastleggen, persoon](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md) of de [opnieuw delen, prompt](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md).
+>Daarna, kunt u **Afwerking** klikken > **goedkeuren en sluit** en uw sociale app op een het landen pagina zetten. U kunt [ persoon ook vormen vangt ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md) of [ herdeel herinnering ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md).

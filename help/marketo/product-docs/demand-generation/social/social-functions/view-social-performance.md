@@ -4,9 +4,9 @@ description: Sociale prestaties weergeven - Marketo Docs - Productdocumentatie
 title: Sociale prestaties weergeven
 exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,15 @@ ht-degree: 0%
 
 Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het sociale dashboard geeft u inzicht in de verschillende sociale interacties die worden gegenereerd door uw sociale apps, en stelt u in staat de prestaties van een sociale app te volgen.
 
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
 >[!AVAILABILITY]
 >
 >Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,7 +31,7 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 
    ![](assets/image2014-9-23-17-3a10-3a13.png)
 
-1. Klikken **Datum van activiteit**.
+1. Klik **Datum van Activiteit**.
 
    ![](assets/image2014-9-23-17-3a10-3a22.png)
 
@@ -37,15 +41,15 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 
    >[!NOTE]
    >
-   >Als u **Afgelopen 24 uur**, worden de meetwaarden per uur berekend, boven aan het uur. Voor alle andere intervallen, worden de metriek in werking gesteld dagelijks, om middernacht van de vorige dag.
+   >Als u **{24 uren** selecteert, worden de metriek berekend per uur, bij de bovenkant van het uur. Voor alle andere intervallen, worden de metriek in werking gesteld dagelijks, om middernacht van de vorige dag.
 
-1. Gebruik de **Sociaal Trechter** om de sociale vooruitgang en effectiviteit van je aanbieding te bekijken.
+1. Gebruik het **Sociale Kanaal** om de sociale vooruitgang en de doeltreffendheid van uw bevordering te herzien.
 
-   * **Campagnebezoeken**: Het aantal keren dat perspectief een pagina laadt die uw sociale app bevat.
-   * **Interacties**: Het aantal keren dat er interactie is geweest met uw sociale app, zoals aanmelden voor een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), stemming in een [opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [een video delen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), enz.
-   * **Aandelen**: Het aantal keren dat de vooruitzichten een boodschap delen naar hun sociale netwerk vanuit uw sociale app.
-   * **Resulterende klikken**: Het aantal keren dat er op koppelingen in shares is geklikt vanuit uw sociale app.
-   * **Registratie**: Het aantal mogelijke gebruikers dat zich aanmeldt voor uw speciale actie na het volgen van een gedeelde koppeling naar uw app.
+   * **Bebezoeken van de Campagne**: Het aantal tijden dat de vooruitzichten een pagina laden die uw sociale app bevat.
+   * **Interacties**: Het aantal tijden de vooruitzichten hebben met uw sociale app in wisselwerking gestaan, zoals het ondertekenen omhoog voor a [ verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), het stemmen in a [ opiniepeiling ](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [ het delen van een video ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), enz.
+   * **Delen**: Het aantal tijden de vooruitzichten delen een bericht aan hun sociaal netwerk van uw sociale app.
+   * **Resulterende Kliks**: Het aantal tijden klikte verbindingen in aandelen van uw sociale app.
+   * **Registratie**: Het aantal vooruitzichten die zich voor uw bevordering na het volgen van een gedeelde verbinding terug naar uw app aanmelden.
 
    >[!NOTE]
    >
@@ -53,23 +57,23 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. Gebruik de **Publiek** om te zien hoe je vooruitzichten je helpen om het woord te krijgen.
+1. Gebruik het **paneel van het Publiek** om te herzien hoe uw vooruitzichten u helpen het woord uit krijgen.
 
-   * **Totaal aantal profielen**: Het totale aantal vooruitzichten dat zich vanaf uw sociale app heeft aangemeld bij sociale netwerken.
-   * **Influencers**: Het aantal perspectieven dat ten minste één klik heeft opgeleverd na het delen van een app.
-   * **Sociaal bereik**: De som van alle perspectiefverbindingen. Voor vooruitzichten die aan sociale netwerken delen, is dit het aantal vrienden die zij op het tijdstip hebben gehad zij van uw sociale app deelden. Voor het delen van e-mail is dit het aantal ontvangers van de e-mail die zij genereren via uw app.
-   * **Sociale indrukkingen**: Het totale aantal keren dat uw sociale app is weergegeven in de feeds van perspectiefverbindingen.
+   * **Totale Profielen**: Het totale aantal vooruitzichten die binnen aan sociale netwerken van uw sociale app hebben ondertekend.
+   * **Influencers**: Het aantal vooruitzichten die minstens één resulterend klik van een app aandeel hebben geproduceerd.
+   * **Sociale Bereik**: De som van alle vooruitzichten&#39; verbindingen. Voor vooruitzichten die aan sociale netwerken delen, is dit het aantal vrienden die zij op het tijdstip hebben gehad zij van uw sociale app deelden. Voor het delen van e-mail is dit het aantal ontvangers van de e-mail die zij genereren via uw app.
+   * **Sociale Impressies**: Het totale aantal tijden dat uw sociale app in het voer van vooruitzichten&#39; verbindingen verscheen.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
-1. Gebruik de **Metrisch delen** voor een overzicht van de geaggregeerde sociale activiteiten die door uw sociale app worden gegenereerd.
+1. Gebruik het **paneel van Metriek van het Aandeel** om de bijeengevoegde sociale activiteit te herzien die door uw sociale app wordt geproduceerd.
 
-   * **Share Rate**: Het percentage bezoeken aan uw app dat een aandeel genereert.
-   * **Clickback-snelheid**: Het aantal resulterende klikken per aandeel.
-   * **Sociaal optillen**: De verhouding tussen bezoeken aan uw app (afkomstig van de koppeling in aandelen) en het aantal niet-sociale bezoeken (afkomstig van andere bronnen dan uw sociale app).
+   * **Tarief van het Aandeel**: Het percentage bezoeken aan uw app die een aandeel produceren.
+   * **Clickback Tarief**: Het aantal resulterende kliks per aandeel.
+   * **Sociale Lift**: De verhouding van bezoeken aan uw app (die uit de verbinding in aandelen komen) aan het aantal niet-sociale bezoeken (uit bronnen buiten uw sociale app).
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
 >[!MORELIKETHIS]
 >
->U kunt ook triggers en filters gebruiken om te zien wie uw inhoud deelt en met uw sociale apps werkt, zodat u op die interacties kunt reageren. Zie [Triggers en filters gebruiken voor sociale activiteiten](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>U kunt ook triggers en filters gebruiken om te zien wie uw inhoud deelt en met uw sociale apps werkt, zodat u op die interacties kunt reageren. Zie [ Trekkers en Filters van het Gebruik voor Sociale Activiteiten ](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).

@@ -3,9 +3,9 @@ unique-page-id: 2359795
 description: Transparante items maken - Marketo Docs - Productdocumentatie
 title: Overtreklijnen maken
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,19 @@ ht-degree: 0%
 
 Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertellen van hun vrienden over je. U kunt het op bestemmingspagina&#39;s, uw website, en zelfs Facebook laten vallen.
 
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
 >[!AVAILABILITY]
 >
 >Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. Kies in uw programma de optie **Nieuw** > **Nieuw lokaal element**.
+1. Binnen uw programma, uitgezochte **Nieuw** > **Nieuwe Lokale Activa**.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. Klik in de lokale middelengalerie op **Krenkte**.
+1. In de Lokale Galerij van Activa, klik **Overbodig**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -32,11 +36,11 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
 
    >[!TIP]
    >
-   >Als u tijd wilt besparen, kunt u de **Klonen uit** Hiermee kopieert u alle instellingen van een bestaand zweepveld.
+   >Om tijd te besparen, kunt u de **Kloon van** optie gebruiken om alle montages van een bestaande transporten te kopiëren.
 
-   De sweepstakes-editor wordt in een nieuw venster geopend. De standaardmontages zijn allen goed, maar u moet nog een paar details vormen. In de volgende stappen wordt u uitgelegd hoe u dit doet.
+   De sweepstakes-editor wordt in een nieuw venster geopend. De standaardmontages zijn allen goed, maar u moet nog een paar details vormen. In de volgende stappen laten we u zien hoe u dat doet.
 
-1. Klikken **Details van sweepstakes**.
+1. Klik **Details van de Zeggen**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -48,7 +52,7 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
    >
    >Voor dagelijkse en wekelijkse tekeningen worden de begin- en eindtijd vastgesteld op respectievelijk 12.00 uur en 11.59 uur. Voor een eenmalige tekening kunt u uw eigen begin- en eindtijd kiezen.
 
-1. Klikken **Geavanceerde opties**.
+1. Klik **Geavanceerde Opties**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -60,24 +64,24 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
 
    >[!NOTE]
    >
-   >Op dit scherm kunt u ook een koppeling naar het privacybeleid toevoegen. Zie [Uw privacybeleid toevoegen aan een sociale app](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Op dit scherm kunt u ook een koppeling naar het privacybeleid toevoegen. Zie [ Uw Beleid van de Privacy aan een Sociale app ](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md) toevoegen.
 
-1. Klikken **Voltooien**.
+1. Klik **Afwerking**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik **goedkeuren en sluiten**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Als u de standaardinstellingen in uw transporten wilt wijzigen, klikt u op **Vorige**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten**.
+   >Om om het even welke gebreken in uw transporten te veranderen, klik **terug**. Om uw werk voor later te bewaren zonder goed te keuren, klik **dicht**.
 
 Als er problemen zijn in de transporten, wordt u gevraagd deze te verhelpen voordat de transpiratieaanvallen zijn goedgekeurd.
 
-Gefeliciteerd.  U hebt een truc gemaakt.
+Gefeliciteerd! U hebt een truc gemaakt.
 
 >[!MORELIKETHIS]
 >
->De volgende stap is: [uw zweepslagen publiceren](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), maar u kunt de weergave en de instellingen van uw transporten wijzigen. Beginnen met [overweldigende stijlen aanpassen](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>De volgende stap moet [ uw transporten ](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md) publiceren, maar u kunt de verschijning en de montages van uw transporten veranderen. Begin met [ het aanpassen van uw transporten stijlen ](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

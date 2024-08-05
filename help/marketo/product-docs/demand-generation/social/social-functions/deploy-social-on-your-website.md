@@ -4,9 +4,9 @@ description: Sociaal implementeren op uw website - Marketo Docs - Productdocumen
 title: Sociaal op uw website implementeren
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,25 @@ ht-degree: 0%
 
 Sociale apps insluiten op niet-Marketo-pagina&#39;s.
 
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
 >[!AVAILABILITY]
 >
->Neem contact op met je verkoper voor meer informatie.
+>Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en iedereen in het grotere gesprek op sociale netwerken te brengen. Wanneer mensen uw aanbiedingen en inhoud delen met vrienden op sociale netwerken, genereert u meer verkeer op uw site.
+U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en iedereen in het grotere gesprek op sociale netwerken te brengen. Wanneer mensen uw aanbiedingen en inhoud delen met hun vrienden op sociale netwerken, genereert u meer verkeer op uw site.
 
 1. Selecteer een goedgekeurde sociale app, zoals een YouTube Video of Social Button.
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Selecteren **Code insluiten** uit handelingen voor sociale toepassingen.
+1. Selecteer **bed Code** van de Acties van de Sociale Toepassing in.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Kopieer de code voor de paginakoptekst van uw site (`<head>`) en het lichaam (`<body>`).
+1. Kopieer de code voor de paginakoptekst (`<head>`) en de hoofdtekst (`<body>`) van uw site.
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +45,7 @@ U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en 
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Als u het formaat van de sociale app wilt instellen op specifieke afmetingen op de pagina, voegt u de opdracht **outerHeight** en **outerWidth** opties voor het tweede codefragment. U kunt bijvoorbeeld `options='{"outerHeight":400, "outerWidth":600}'`, zoals in:
+1. Als u de grootte van sociale app aan specifieke afmetingen op uw pagina moet plaatsen, voeg **outerHeight** en **outerWidth** opties aan het tweede codefragment toe. U kunt bijvoorbeeld `options='{"outerHeight":400, "outerWidth":600}'` toevoegen, zoals in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -49,6 +53,6 @@ U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en 
 
    >[!MORELIKETHIS]
    >
-   >* [De knop Sociale app aanpassen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Vereiste voor sociaal delen instellen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [Openingspagina&#39;s naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [ pas Sociale App Knoop ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) aan
+   >* [ plaats de Vereiste van het Sociale Aandeel ](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [ Publish die Pagina&#39;s aan Facebook ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) landt

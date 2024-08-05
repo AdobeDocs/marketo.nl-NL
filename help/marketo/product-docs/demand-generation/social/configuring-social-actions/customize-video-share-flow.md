@@ -4,26 +4,30 @@ description: Video Share Flow aanpassen - Marketo Docs - Productdocumentatie
 title: Stroom voor delen van video aanpassen
 exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Stroom voor delen van video aanpassen {#customize-video-share-flow}
 
-Wanneer u [een gedeelde video maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)kunt u aanpassen wanneer en waar de gedeelde vraag verschijnt.
+Wanneer u [ een videoaandeel ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) creeert, kunt u aanpassen wanneer en waar de aandeelherinnering verschijnt.
 
-1. Ga naar **Marketingactiviteiten**.
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer de app en klik op **Concept bewerken**.
+1. Selecteer app, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Ga in de video-editor naar **App-instellingen** > **Geavanceerde opties**.
+1. In de video delen redacteur, ga **>** Geavanceerde Opties van de Toepassing **.**
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +37,4 @@ Wanneer u [een gedeelde video maken](/help/marketo/product-docs/demand-generatio
 
 >[!MORELIKETHIS]
 >
->De volgende stap is: [configureren wat er gebeurt na het delen van video](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>De volgende stap moet [ vormen wat na videoaandeel ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md) gebeurt.

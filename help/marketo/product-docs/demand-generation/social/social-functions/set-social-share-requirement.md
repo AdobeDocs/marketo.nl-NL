@@ -4,26 +4,30 @@ description: Vereisten voor sociaal delen instellen - Marketo-documenten - produ
 title: Vereiste voor sociaal delen instellen
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # Vereiste voor sociaal delen instellen {#set-social-share-requirement}
 
-Wanneer u [een verwijzingsaanbod maken](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), kunt u van personen verlangen dat zij het voorstel delen om u aan te melden, of kunt u het optioneel maken.
+Wanneer u [ een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u mensen vereisen om de aanbieding te delen om omhoog te ondertekenen, of het facultatief te maken.
 
-1. Ga naar **Marketingactiviteiten**.
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/ma-1.png)
 
-1. Selecteer het verwijzingsaanbod en klik op **Concept bewerken**.
+1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Ga in de verwijzingsofferte-editor naar **App-instellingen** en vervolgens **Stappen voor aanmelden**.
+1. In de verwijzingsaanbiedingsredacteur, ga naar **Montages van de Toepassing** en dan **de Stappen van de Stroom van de Registratie**.
 
    ![](assets/three.png)
 
@@ -31,9 +35,9 @@ Wanneer u [een verwijzingsaanbod maken](/help/marketo/product-docs/demand-genera
 
    ![](assets/four.png)
 
-   * **Persoon legt** > **Delen**: Persoon kan het delen overslaan en zich gewoon aanmelden.
-   * **Delen** > **Persoon legt**: De persoon moet delen om u aan te melden.
+   * **Vangst van de Persoon** > **Aandeel**: De persoon kan het delen overslaan en enkel omhoog ondertekenen.
+   * **Aandeel** > **Persoon vangt**: De persoon moet delen om omhoog te ondertekenen.
 
-1. Voor elke optie, zie de voorproef in **Weergeven en bewerken** venster.
+1. Voor elke optie, zie de voorproef in het **Mening &amp; geeft** venster uit.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

@@ -4,9 +4,9 @@ description: After-Share Prompts configureren - Marketo Docs - Productdocumentat
 title: After-Share-vragen configureren
 exl-id: bfa6063b-24f3-4abf-b149-989780dfc448
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -15,30 +15,34 @@ ht-degree: 0%
 
 In apps voor sociale knoppen, video delen en opiniepeilingen kunt u kiezen wat er gebeurt nadat iemand uw inhoud op zijn sociale netwerk heeft gedeeld.
 
-1. Ga naar **Marketingactiviteiten**.
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer de app en klik op **Concept bewerken**.
+1. Selecteer app, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Ga in de sociale-app-editor naar **App-instellingen** en vervolgens **Geavanceerde opties**.
+1. In de sociale app redacteur, ga naar **Montages van de Toepassing** en dan **Geavanceerde Opties**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Voor **Na delen** selecteert u het gewenste gedrag.
+1. Voor **na Aandeel**, selecteer het gedrag u wilt.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Bevestigingsbericht:** Nadat de persoon heeft gedeeld, geeft u een bevestiging weer.
-   * **E-mailvastlegging:** Nadat de persoon heeft gedeeld, vraagt u zijn e-mailadres aan.
+   * **Bericht van de Bevestiging:** Zodra de persoon heeft gedeeld, toon een bevestiging.
+   * **E-mailVangst:** Zodra de persoon heeft gedeeld, verzoek hun e-mailadres.
 
    >[!NOTE]
    >
-   >Als u **E-mailvastlegging**, wordt het verzoek alleen weergegeven als de persoon zijn informatie nog niet heeft verstrekt.
+   >Als u **E-mailVangst** kiest, wordt het verzoek slechts getoond als de persoon niet reeds hun informatie heeft verstrekt.
 
-1. Als u **Bevestigingsbericht:** Ga naar **Stroom delen** en vervolgens **Bevestigingsbericht**.
+1. Als u **Bericht van de Bevestiging koos:** ga naar **Stroom van het Aandeel** en toen **Bericht van de Bevestiging**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +50,11 @@ In apps voor sociale knoppen, video delen en opiniepeilingen kunt u kiezen wat e
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Als u **E-mailvastlegging** (in plaats van bevestiging): Ga naar **Stroom delen** en vervolgens **E-mailvastlegging**.
+1. Als u **E-mailVangst** (in plaats van bevestiging) koos: Ga naar **Stroom van het Aandeel** en dan **E-mailVangst**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Kies of u een marketingprompt wilt opnemen en of dat selectievakje standaard is ingeschakeld (**Weigeren**) of niet (**Aanmelden**).
+1. Kies of om een marketing herinnering te omvatten, en of dat checkbox door gebrek wordt geselecteerd (**uit**) of niet (**Opt**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 

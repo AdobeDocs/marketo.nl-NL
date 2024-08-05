@@ -4,9 +4,9 @@ description: Promo-codes gebruiken voor het uitvoeren van aanbiedingen - Marketo
 title: Promo-codes gebruiken voor afhandeling van voorstellen
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,25 @@ ht-degree: 0%
 
 Wanneer u een verwijzingsvoorstel of een zweepslag maakt, kunt u elke winnaar een promotiecode (coupon) sturen. Om hun beloning terug te betalen, gebruiken zij de code, bijvoorbeeld, op de checkout pagina van een aankoop op uw plaats.
 
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+
 ## Promo-codes uploaden {#upload-promo-codes}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het verwijzingsaanbod en klik op **Concept bewerken**.
+1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Ga in de verwijzingsofferte-editor naar **App-instellingen** en vervolgens **Aanbiedingsgegevens**.
+1. In de verwijzingsaanbiedingsredacteur, ga naar **Montages van de Toepassing** en dan **Details van de Aanbieding**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. Selecteer onder E-mails de optie **Promo-codes gebruiken** en onder Upload Codes klikt u op **Bladeren** om het bestand met promcodes op uw systeem te selecteren.
+1. Onder E-mail, uitgezocht **Codes van de Aanbieding van het Gebruik**, en onder Upload Codes, doorbladert de klik **** om het dossier van de promotiecodes van uw systeem te selecteren.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -51,16 +55,16 @@ Als deelnemers eenmaal beginnen met het verdienen van je aanbiedingsuitkering, k
 
 >[!NOTE]
 >
->Alleen Marketo-gebruikers met _Toegangsonderscheidingen_ toegang tot deze informatie. Zie  [Gebruikersrollen en -machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Slechts hebben de gebruikers van Marketo met _toestemming van de Vergunning van de Toegang_ toegang tot deze informatie. Zie [ het Leiden Rollen van de Gebruiker en Toestemmingen ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het verwijzingsvoorstel of de zweepslagen en klik op de knop **Deelnemers** tab.
+1. Selecteer uw verwijzingsaanbieding of transporten, en klik de **Deelnemers** tabel.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Hier ziet u wat items. Klik op het nummer in het dialoogvenster **Aanbiedingscodes** kolom om de promocodes te zien die naar die deelnemer zijn verzonden, en wanneer.
+1. Hier ziet u wat items. Klik het aantal in de **kolom van de Codes van de Bevordering** om de bevorderingscodes te zien die werden verzonden naar die deelnemer, en wanneer.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

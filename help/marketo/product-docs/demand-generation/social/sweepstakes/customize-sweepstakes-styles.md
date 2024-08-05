@@ -3,30 +3,34 @@ unique-page-id: 2359807
 description: Overzichtsstijlen aanpassen - Marketo Docs - Productdocumentatie
 title: Overtrekstijlen aanpassen
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
 # Overtrekstijlen aanpassen {#customize-sweepstakes-styles}
 
-Wanneer u [een zweepslag maken](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), kunt u aanpassen hoe het op uw landingspagina kijkt.
+Wanneer u [ creeert een transporten ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), kunt u aanpassen hoe het op uw het landen pagina kijkt.
+
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 >[!AVAILABILITY]
 >
 >Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de overgangen en klik op **Concept bewerken**.
+1. Selecteer de transporten, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Ga in de Zweedse redacteur naar **App-instellingen** > **Weergave**.
+1. In de redacteur van de Vegen, ga **Montages van de Toepassing** > **Verschijning**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -38,15 +42,15 @@ Wanneer u [een zweepslag maken](/help/marketo/product-docs/demand-generation/soc
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Voorbeeld-CSS voor **Knop Enter**:
+   Voorbeeld CSS voor **gaat Knoop** binnen:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Voorbeeldafbeelding voor **Knop Enter**:
+   Het Beeld van het voorbeeld voor **gaat Knoop** binnen:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Als u een afbeelding gebruikt met tekst erop, vergeet dan niet de tekst uit het palet **Knop Enter** veld onder Tekst hierboven.
+   >Als u een beeld met tekst op het gebruikt, herinner me om de tekst uit **binnen te verwijderen Knoop** gebied onder Tekst hierboven.
 
 1. Terwijl u elke wijziging aanbrengt, wordt het resultaat weergegeven in de voorvertoning Weergave en Bewerken.
 
@@ -58,4 +62,4 @@ Wanneer u [een zweepslag maken](/help/marketo/product-docs/demand-generation/soc
 
    >[!MORELIKETHIS]
    >
-   >De volgende stap bestaat uit toevoegen [e-mails over aanmelden en voldoen aan uw wensen](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >De volgende stap is [ teken-up en vervulling e-mails aan uw transporten ](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) toe te voegen.

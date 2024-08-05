@@ -4,40 +4,44 @@ description: E-mails gebruiken in sociale aanbiedingen - Marketo Docs - Productd
 title: E-mails gebruiken in sociale aanbiedingen
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
 # E-mails gebruiken in sociale aanbiedingen {#use-emails-in-social-promotions}
 
-Wanneer u een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of [zweten](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), kun je e-mails opnemen die je kunt sturen wanneer de persoon zich aanmeldt, en opnieuw wanneer de persoon de beloning heeft gewonnen.
+Wanneer u a [ verwijzingsaanbod ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of a [ transporten ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) creeert, kunt u e-mails omvatten om te verzenden wanneer de persoon omhoog ondertekent, en opnieuw wanneer de persoon de beloning heeft gewonnen.
+
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 >[!TIP]
 >
->Als u een e-mail wilt maken, raadpleegt u [Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md).
+>Om een e-mail tot stand te brengen, zie [ een E-mailschoen ](/help/marketo/getting-started/quick-wins/send-an-email.md) verzenden.
 
 Gebruik in de e-mails de volgende tokens:
 
-* **E-mail aanmelden**: Gebruiken **`{{social.Share Url}}`** iedere deelnemer een persoonlijke koppeling sturen.
+* **Teken-up e-mail**: Gebruik **`{{social.Share Url}}`** om elke deelnemende persoon een gepersonaliseerde aandeelverbinding te verzenden.
 
-* **E-mailadres voor afhandeling**: Gebruiken **`{{social.Promo Code}}`** om elke winnaar een [promotiecode](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
+* **e-mail van de vervulling**: Gebruik **`{{social.Promo Code}}`** om elke winnaar te verzenden a [ promo code ](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
 
 >[!PREREQUISITES]
 >
->Voordat u een e-mail kunt toevoegen aan een sociale app, moet deze _operationeel_ en _goedgekeurd_. Zie [Instellingen voor een e-mail bewerken](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Alvorens u een e-mail aan een sociale app kunt toevoegen, moet het _operationeel_ zijn en _goedgekeurd_. Zie [ Montages voor e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) uitgeven.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer de app en klik op **Concept bewerken**.
+1. Selecteer app, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. Ga in de sociale-app-editor naar **App-instellingen > Details voorstel** (of **Details van sweepstakes**).
+1. In de sociale app redacteur, ga naar **Montages van de Toepassing > de Details van het Aanbod** (of **Details van het Aanbod**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -59,16 +63,16 @@ Gebruik in de e-mails de volgende tokens:
 
 >[!NOTE]
 >
->In een zweepslagen wordt de e-mail over het voldoen altijd automatisch verzonden wanneer u [de winnaar selecteren](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>In een truc, wordt de vervulling e-mail altijd verzonden automatisch wanneer u [ de winnaar ](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md) selecteert.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->* **auto-on-doel**: Het e-mailbericht voor afhandeling wordt automatisch verzonden wanneer elke deelnemer het doel bereikt.
->* **handmatig verzenden**: Zodra de mensen beginnen het doel te ontmoeten, terugkeer naar uw verwijzingsaanbod aan manueel [verzend het afhandelingsbericht](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **auto op doel**: De vervulling e-mail wordt verzonden automatisch aangezien elke deelnemer het doel ontmoet.
+>* **verzendt manueel**: Zodra de mensen beginnen het doel te ontmoeten, terugkeer naar uw verwijzingsaanbieding aan manueel [ verzendt de vervulling e-mail ](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
 
 >[!MORELIKETHIS]
 >
->Vervolgens kunt u [Kies de gedeelde URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) of, in uw verwijzingsvoorstel, kunt u [uploaden van de promotiecodes](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) je verzendt het.
+>Daarna, kunt u [ het aandeel URL ](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) kiezen of, in uw verwijzingsaanbieding, kunt u [ de bevorderingscodes ](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) uploaden u uit zult verzenden.

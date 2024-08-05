@@ -4,30 +4,34 @@ description: E-mail opnieuw delen en vragen voor een sociale app configureren - 
 title: E-mail opnieuw delen en vragen voor een sociale app configureren
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 # E-mail opnieuw delen en vragen voor een sociale app configureren {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Wanneer u een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of [zweten](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), kunt u deelnemers uitnodigen om uw voorstel te delen met meer vrienden als onderdeel van het aanmeldingsproces en u kunt standaardtekst opgeven voor het gedeelde e-mailbericht.
+Wanneer u a [ verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of a [ sweepstakes ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) creeert, kunt u deelnemers uitnodigen om uw aanbieding met meer vrienden als deel van het sign-up proces te delen, evenals standaardtekst voor het aandeel e-mail te verstrekken.
+
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 >[!NOTE]
 >
->In een verwijzingsvoorstel kunt u ook [het delen van het aanbod verplicht stellen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) om u aan te melden.
+>In een verwijzingsaanbieding, kunt u ook [ maken delend de aanbieding een vereiste ](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) om omhoog te ondertekenen.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het verwijzingsaanbod en klik op **Concept bewerken**.
+1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. Ga in de verwijzingsofferte-editor naar **Registratie** > **Vragen opnieuw delen**.
+1. In de verwijzingsaanbiedingsredacteur, ga naar **Sign-Up Stroom** > **Wederaandeel Vragen**.
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,10 +41,10 @@ Wanneer u een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/s
    >
    >Het e-mailbericht bevat automatisch de unieke URL voor delen van uw deelnemer.
 
-1. In de **Weergeven en bewerken** venster, klikt u op **Bewerkingen tonen** en bewerk de uitnodiging om te delen en de instructies voor het volgen van de voortgang.
+1. In de **Mening &amp; geeft** venster uit, klik **geeft** uit en geeft de uitnodiging om evenals de spoor-vooruitgang instructies te delen uit.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->Vervolgens kunt u de [voortgangsstroom bijhouden in een verwijzingsaanbod](configure-track-progress-flow-for-a-referral-offer.md)of klik op **Voltooien** > **Goedkeuren en Sluiten** tot [je verwijzingsvoorstel publiceren](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) of [zweten](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md).
+>Daarna, kunt u de [ spoorvooruitgangsstroom in een verwijzingsaanbieding ](configure-track-progress-flow-for-a-referral-offer.md) vormen, of **Afwerking** > **goedkeuren en sluiten** om [ uw verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) of [ sweepstakes ](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) te publiceren.

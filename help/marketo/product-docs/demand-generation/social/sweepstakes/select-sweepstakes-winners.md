@@ -3,22 +3,26 @@ unique-page-id: 2359805
 description: Selecteer Winnaars van Zweedse partij - Marketo Docs - Productdocumentatie
 title: Winners van overvloeiingen selecteren
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # Winners van overvloeiingen selecteren {#select-sweepstakes-winners}
 
-Wanneer u [een zweepslagen publiceren](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), moet u voor elke tekening winnaars selecteren. Als u dat doet, [e-mail voor afhandeling](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatisch naar hen wordt verzonden.
+Wanneer u [ een transporten ](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md) publiceert, moet u winnaars voor elke tekening selecteren. Wanneer u doet, wordt uw [ vervulling e-mail ](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatisch verzonden naar hen.
+
+>[!IMPORTANT]
+>
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 >[!AVAILABILITY]
 >
 >Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -26,23 +30,23 @@ Wanneer u [een zweepslagen publiceren](/help/marketo/product-docs/demand-generat
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Klikken **Winners kiezen**.
+1. Klik **de Winners van de Keuze**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >Als u een lijst wilt weergeven met personen die zich hebben aangemeld voor uw transporten, klikt u op de knop **Deelnemers** tab.
+   >Om een lijst van mensen te zien die omhoog voor uw transporten hebben ondertekend, klik de **Deelnemers** tabel.
 
-1. Kies het aantal winnaars en selecteer **Ik ben klaar om te kiezen** en klik op **Volgende**.
+1. Kies het aantal winnaars, uitgezochte **ik ben bereid** te plukken, en **daarna** te klikken.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Als u 0 winnaars kiest voor een bepaalde tekening, wordt die informatie niet weergegeven op het tabblad **Winnaars** tab.
+   >Als u 0 winnaars voor een bepaalde tekening kiest, wordt die informatie niet getoond op de **winnaars** tabel.
 
-1. Klikken **Voltooien** om de [e-mail voor afhandeling](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) aan de genoteerde winnaars.
+1. Klik **Afwerken** om [ vervulling e-mail ](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) naar de vermelde winnaars te verzenden.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
@@ -50,4 +54,4 @@ Wanneer u [een zweepslagen publiceren](/help/marketo/product-docs/demand-generat
    >
    >U kunt winnaars deskwalificeren voordat u op Voltooien klikt. Als je dat doet, komen ze nog steeds in aanmerking voor andere tekeningen in deze transporten.
 
-Gefeliciteerd.  Je hebt deze run van je sweepstakes aanbieding voltooid, de willekeurige winnaars gekozen en ze e-mailberichten gestuurd.
+Gefeliciteerd! Je hebt deze run van je sweepstakes aanbieding voltooid, de willekeurige winnaars gekozen en ze e-mailberichten gestuurd.
