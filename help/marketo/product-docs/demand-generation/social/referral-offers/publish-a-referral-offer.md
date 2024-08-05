@@ -4,9 +4,9 @@ description: Publish een verwijzingsaanbod - Marketo Docs - Productdocumentatie
 title: Publish een verwijzingsvoorstel
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Nadat u [ een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generati
 
 >[!IMPORTANT]
 >
->Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. Er kunnen geen nieuwe elementen meer worden gemaakt. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 1. Navigeer naar de bestemmingspagina en open deze voor bewerking.
 

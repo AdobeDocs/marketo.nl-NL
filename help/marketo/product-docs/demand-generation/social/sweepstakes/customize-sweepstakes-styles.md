@@ -3,9 +3,9 @@ unique-page-id: 2359807
 description: Overzichtsstijlen aanpassen - Marketo Docs - Productdocumentatie
 title: Overtrekstijlen aanpassen
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Wanneer u [ creeert een transporten ](/help/marketo/product-docs/demand-generati
 
 >[!IMPORTANT]
 >
->Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. Er kunnen geen nieuwe elementen meer worden gemaakt. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 >[!AVAILABILITY]
 >

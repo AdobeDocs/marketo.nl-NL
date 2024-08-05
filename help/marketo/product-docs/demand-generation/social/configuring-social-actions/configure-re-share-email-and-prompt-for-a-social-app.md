@@ -4,9 +4,9 @@ description: E-mail opnieuw delen en vragen voor een sociale app configureren - 
 title: E-mail opnieuw delen en vragen voor een sociale app configureren
 exl-id: 169cd423-d9e3-4dba-bce5-d6bd329d5afa
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wanneer u a [ verwijzingsaanbieding ](/help/marketo/product-docs/demand-generati
 
 >[!IMPORTANT]
 >
->Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. Er kunnen geen nieuwe elementen meer worden gemaakt. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Verstuur een e-mail met het verzoek om uitvoering van een verwijzin
 title: Verzenden van e-mail met uitvoeringsvoorstel voor verwijzing
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht 
 
 >[!IMPORTANT]
 >
->Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. Er kunnen geen nieuwe elementen meer worden gemaakt. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 >[!PREREQUISITES]
 >

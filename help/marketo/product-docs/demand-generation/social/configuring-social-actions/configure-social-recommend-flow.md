@@ -4,9 +4,9 @@ description: De sociaal aanbevolen stroom configureren - Marketo Docs - Productd
 title: Vorm Sociale Aanbevolen Stroom
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
 >[!IMPORTANT]
 >
->Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. Er kunnen geen nieuwe elementen meer worden gemaakt. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 ## Netwerken selecteren voor delen {#select-networks-for-sharing}
 

@@ -4,9 +4,9 @@ description: Uw privacybeleid toevoegen aan een sociale app - Marketo Docs - Pro
 title: Uw privacybeleid toevoegen aan een sociale app
 exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Wanneer u een sociale app maakt, kunt u een koppeling toevoegen aan het privacyb
 
 >[!IMPORTANT]
 >
->Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. Er kunnen geen nieuwe elementen meer worden gemaakt. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 1. Ga naar **de Marketing Activiteiten**.
 

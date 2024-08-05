@@ -4,9 +4,9 @@ description: Opiniepeilingsinstellingen aanpassen - Marketo Docs - Productdocume
 title: Opiniepeilingsinstellingen aanpassen
 exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wanneer u [ een opiniepeiling ](/help/marketo/product-docs/demand-generation/soc
 
 >[!IMPORTANT]
 >
->Op 31 juli 2024 begonnen we met het afschaffen van deze functie. U kunt geen nieuwe elementen maken. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+>Op 31 juli 2024 begonnen we met het afschaffen van deze functie. Er kunnen geen nieuwe elementen meer worden gemaakt. Bestaande activa blijven werken tot 31 januari 2025. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 1. Ga naar **de Marketing Activiteiten**.
 
