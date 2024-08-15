@@ -2,7 +2,7 @@
 description: Een interactief webinar leveren - Marketo Docs - Productdocumentatie
 title: Een interactief webinar leveren
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ Uw interactieve webinar is klaar om te gaan. Ontdek alles wat je nodig hebt om h
 
 1. Als u een co-host of presentator bent, klikt u op de persoonlijke koppeling in de e-mail die u voor het webinar hebt ontvangen.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. Selecteer uw audio/videovoorkeur en klik **binnengaan Ruimte**.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. Selecteer de lay-out die aan vroege verbindingspunten moet worden getoond.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ Uw interactieve webinar is klaar om te gaan. Ontdek alles wat je nodig hebt om h
 
 1. U kunt de sessie indien nodig opnemen. Selecteer **zitting van het Verslag** van het ruimtemenu. Opname kan later vanuit hetzelfde menu worden gestopt.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. Uw sessie begint op het aangegeven tijdstip.
 
 1. Klik op de naam van de ruimte. In drop-down, uitgezochte **Gastheer &amp; het gebied van de Presentator** aan praatje of aandeelnota&#39;s met het presentatieteam backstage. De host en het presentatorgebied worden aan de rechterkant van het scherm geopend. Alleen gastheren/co-hosts en presentatoren kunnen dit gedeelte van het scherm zien.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. Wanneer de zitting volledig is, klik het rode pijlpictogram en selecteer **zitting van het Eind voor allen**.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ Deelnemers kunnen deelnemen aan het webinar door op de gepersonaliseerde koppeli
 
 1. Deelnemers die de koppeling naar de gebeurtenis meer dan 15 minuten voor de geplande start starten, zien een bestemmingspagina waarop ze moeten wachten totdat de gebeurtenis wordt gestart.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. Deelnemers moeten hun audiovoorkeuren selecteren en vervolgens op Ruimte betreden klikken. Deelnemers die voor het eerst een Adobe Connect-ruimte betreden, zien ook een browserpop-up voor microfoonmachtiging. Adobe Connect heeft deze toegang nodig voor deelnemers om hun microfoon later in de ruimte te kunnen gebruiken.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ Discussies in de chatpods worden altijd opgenomen. Als de chatdiscussies dus waa
 
 Discussie in het deelvenster Chat wordt niet opgenomen. Het deelvenster Chat maakt ook het onroerend goed vrij dat zou zijn bezet door chatpod in de lay-out. Dus als de chatdiscussies geen toegevoegde waarde zullen hebben voor het opnemen van viewers, gebruikt u het deelvenster Chat in plaats van chatpods bij het ontwerpen van de ruimte.
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 Leer meer over [ het Comité van het Praatje ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel) {target="_blank"}.
 
@@ -115,7 +113,7 @@ De voorbereidingsmodus gebruiken:
 
 1. Klik op het moersleutelpictogram onder aan het deelvenster Lay-outs.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. Kies in het deelvenster Lay-outs de lay-out die u wilt aanpassen. U kunt pods naar wens verplaatsen, verbergen of weergeven. U kunt de inhoud in pods ook bijwerken, zoals een nieuwe versie van de presentatie uploaden in een pod Delen.
 
