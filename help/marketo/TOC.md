@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
+source-wordcount: '9348'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 0%
 + Aan de slag met Marketo Engage {#getting-started}
    + [Wat is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + Eerste instelling {#initial-setup}
-      + [Stappen instellen](getting-started/initial-setup/setup-steps.md)
+      + [Stappen voor instellingen](getting-started/initial-setup/setup-steps.md)
       + [Protocollen configureren](getting-started/initial-setup/configure-protocols-for-marketo.md)
-      + [Gebruikersinstelling](getting-started/initial-setup/user-setup.md)
+      + [Gebruiker instellen](getting-started/initial-setup/user-setup.md)
    + Een nieuwe Marketo Engage-instantie implementeren {#implementing-a-new-marketo-engage-instance}
       + [Waar moet worden begonnen?](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: Controlelijst voor sectie Admin](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
@@ -29,10 +29,10 @@ ht-degree: 0%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Kennis van dingen {#things-to-know}
-      + [Woordenlijst Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
-      + [Help Center](getting-started/things-to-know/help-center.md)
+      + [Helpcentrum](getting-started/things-to-know/help-center.md)
       + [Marketing Nation Community](getting-started/things-to-know/community.md)
    + Snel wint {#quick-wins}
       + [Instellen en een persoon toevoegen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
@@ -658,7 +658,7 @@ ht-degree: 0%
          + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Lijst met vergaderingen](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [Analyse](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [Analytics](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [Veelgestelde vragen](product-docs/demand-generation/dynamic-chat/faq.md)
          + Instellen en configureren {#setup-and-configuration}
             + [Eerste instelling](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
@@ -726,6 +726,7 @@ ht-degree: 0%
             + [Een interactief webinar maken](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Een webinar-team toevoegen](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Interactieve webinars ontwerpen](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Een interactief webinar leveren](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Sjablonen](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Aanpassing](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [Ruimtebeheer](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1814,7 +1815,7 @@ ht-degree: 0%
             + [Indelingsmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Opbrengstmodelstatussen gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Opbrengstmodelinventarisatiestadia gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [SLA-fasen van inkomstenmodel gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [SLA-fasen met inkomstenmodel gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Overgangen met inkomstenmodellen gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [De Padanalyse met succes gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Ontdekkingsreiziger van inkomsten {#revenue-explorer}
