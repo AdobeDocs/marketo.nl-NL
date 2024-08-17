@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Tijdens de migratie gaan uw abonnement en gebruikersbeheer van de Marketo-toepas
 
 * **de Gebruikers zullen binnen met de Identiteit van de Adobe** ondertekenen. Adobe migreert bestaande gebruikers naar de Adobe Admin Console. Gebruikers zullen zich aanmelden bij hun Marketo-abonnementen met hun nieuwe Adobe Identity - een Adobe ID- of Adobe Federated ID (SSO).
 
-* **URLs zal verschillend na migratie** kijken. De id-nummers van uw elementen blijven echter ongewijzigd. Eerder opgeslagen bladwijzers brengen u nog steeds naar de juiste locatie. Bespreek met uw IT-team en zorg ervoor dat ze het onderstaande domein (inclusief de asterisk) toevoegen om alle bronnen van Marketo&#39;s Engage en websockets toe te staan:
+* **URLs zal verschillend na migratie** kijken. Na de migratie gaat Marketo Engage van experience.adobe.com naar Adobe Experience Cloud. U zult met uw team van IT moeten werken om alle vermelde domeinen van de Adobe [ bij de bovenkant van dit artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} te lijsten van gewenste personen om verstoring aan de toegang van het Marketo Engage te verhinderen.
 
-_*.experience.adobe.com_
+De id-nummers van uw elementen blijven ongewijzigd. En vorige verbindingen en referenties aan de activa van het Marketo Engage op het engage-xx.marketo.com domein _zullen_ blijven functioneren. U moet zich echter eerst aanmelden bij de instantie Marketo Engage voor de URL waarnaar u navigeert. Als u bijvoorbeeld naar een bladwijzer voor een slimme campagne wilt navigeren, bijvoorbeeld met Munchkin-id 123-ABC-456, moet u zich eerst aanmelden bij de instantie Marketo Engage met Munchkin-id 123-ABC-456.
 
 ## Wat verandert er niet? {#what-is-not-changing}
 
