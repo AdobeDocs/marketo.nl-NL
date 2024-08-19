@@ -1,12 +1,10 @@
 ---
 description: Aan de slag met interactieve webinars - Marketo Docs - Productdocumentatie
 title: Aan de slag met interactieve webinars
-hide: true
-hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: fefe046ca3bcb61ecdffa7a0b9c8477d050aa704
+source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,6 +12,8 @@ ht-degree: 0%
 # Aan de slag met interactieve webinars {#get-started-with-interactive-webinars}
 
 Zo, hebt u het [ Interactieve Overzicht van Webinars ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} gelezen en is klaar om binnen te duiken. Volg de onderstaande stappen om aan de slag te gaan.
+
+![](assets/get-started-with-interactive-webinars-1.png)
 
 <p>
 
@@ -29,10 +29,10 @@ Zo, hebt u het [ Interactieve Overzicht van Webinars ](/help/marketo/product-doc
 
 **Stap Zes**: [ lever Uw Interactieve Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — Alles u over het voorstellen van uw webinar moet weten.
 
-<p>
+<br>
 
-Dat is het! Nadat uw webinar over is, zie hoe het gebruikend het nuttige [ Dashboard van de Betrokkenheid ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"} presteerde.
+Dat is het! Nadat uw webinar over is, zie hoe het gebruikend het nuttige dashboard in het scherm van het Overzicht van de gebeurtenis presteerde. U kunt gedetailleerde overeenkomst van uw publiek in het [ dashboard van de Betrokkenheid zien ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. U kunt uit de webinar overeenkomst voordeel halen om het publiek op een gepersonaliseerde manier door Slimme Filters en Trekkers in [ de Werkschema&#39;s van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} te richten. En leer hoe te om uw prestaties op bestelling door [ Webinars op bestelling ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"} te volgen.
 
-Wij hebben verscheidene meer hulpartikelen over dit onderwerp, met inbegrip van [ Beste praktijken voor Interactieve Webinars ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, hoe te [ uw webinars ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} aanpassen om op uw behoeften/branding, en meer te wijzen.
+Wij hebben meer hulpartikelen over dit onderwerp, met inbegrip van [ Beste praktijken voor Interactieve Webinars ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, hoe te [ uw webinars ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} aanpassen om op uw behoeften/branding te wijzen, creërend organisatie-brede malplaatjes door [ Malplaatjes voor Interactieve Webinars ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} te gebruiken, en hoe te om ruimten en opnamen in [ het Beheer van de Zaal ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"} te beheren.
 
 Geniet van interactieve webinars (aangedreven door Adobe Connect)!
