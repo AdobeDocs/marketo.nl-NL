@@ -4,9 +4,9 @@ description: De taal van een formulier wijzigen - Marketo Docs - Productdocument
 title: De taal van een formulier wijzigen
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,35 @@ ht-degree: 0%
 
 Leer hoe u de taal van uw formulier kunt wijzigen.
 
-1. Ga naar **Marketingactiviteiten**.
+>[!IMPORTANT]
+>
+>Als u de stappen in dit artikel volgt, worden de taal van de Marketo-standaardvelden gewijzigd, evenals de tekst die wordt gebruikt in het label Knop Verzenden. Het zal niet [ douanegebieden ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} vertalen.
+
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/change-the-language-of-a-form-1.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer uw vorm en klik **uitgeven Vorm**.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. Klikken **Formulierinstellingen** en selecteert u **Instellingen**.
+1. Klik **Montages van de Vorm** en selecteer **Montages**.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. Selecteer het gewenste **Formuliertaal**.
+1. Selecteer de gewenste **Taal van de Vorm**.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
-   OPTIONELE STAP: Kies de landinstelling/regio van de geselecteerde taal.
+   OPTIONELE STAP: kies de landinstelling/regio van de geselecteerde taal.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Klikken **Voltooien**.
+1. Klik **Afwerking**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. Klikken **Goedkeuren en Sluiten** om wijzigingen toe te passen en op te slaan.
+1. Klik **goedkeuren en sluit** om veranderingen toe te passen en te bewaren.
 
    ![](assets/change-the-language-of-a-form-7.png)
 
@@ -49,7 +53,7 @@ Leer hoe u de taal van uw formulier kunt wijzigen.
 
    >[!TIP]
    >
-   >Herinneren aan [de landingspagina goedkeuren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) concepten die zijn gemaakt door de formulierwijzigingen.
+   >Herinner me om [ goed te keuren het het Landing van Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ontwerp dat door de vormveranderingen wordt gecreeerd.
 
 Het formulier weerspiegelt nu de taal die u hebt geselecteerd.
 
