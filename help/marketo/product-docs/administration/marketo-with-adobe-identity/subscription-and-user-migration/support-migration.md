@@ -2,19 +2,17 @@
 description: Migratie van ondersteuning van Marketo's Engage - Marketo Docs - Productdocumentatie
 title: Migratie van Marketo Engage-ondersteuning
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
 
 # Migratie van Marketo Engage-ondersteuning {#marketo-engage-support-migration}
 
-Meer weten over de komende wijzigingen in je Adobe Marketo Engage Support-ervaring? De wijzigingen zijn ontworpen om uw gebruikerservaring te verbeteren en uw beheertaken te stroomlijnen.
+Klik hier als je meer wilt weten over de aanstaande wijzigingen in je Adobe Marketo Engage Support-proces. De updates zijn ontworpen om uw beheertaken te stroomlijnen en uw algemene ervaring te verbeteren.
 
 ## Admin Console Marketo Engage {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ De tweede update verbetert aanzienlijk de manier waarop u ondersteuningstickets 
 
 ## Hoe weet ik wanneer de migratie van de Steun is voltooid? {#support-migration-has-been-completed}
 
-De migratie naar ondersteuning vindt plaats nadat de migratie van uw gebruiker voor alle abonnementen is voltooid. Als u als PSA als deel van de Migratie van de Steun bent toegevoegd, zult u een e-mail ontvangen nadat de migratie van de Gebruiker volledig is, erop wijzend dat u als Admin van de Steun bent toegevoegd om Steun voor die specifieke abonnementen te contacteren. Hierdoor wordt de marketingafdeling automatisch omgeleid van de Marketing Nation naar Adobe Experience League voor alle aanvragen. Blijf ondersteuningszaken indienen via de Marketing Nation totdat de automatische omleiding is geactiveerd.
+De migratie naar ondersteuning vindt plaats nadat de migratie van uw gebruiker voor alle abonnementen is voltooid. Als u als PSA als deel van de Migratie van de Steun bent toegevoegd, zult u een e-mail ontvangen nadat de migratie van de Gebruiker volledig is, erop wijzend dat u als Admin van de Steun bent toegevoegd om de Steun voor die specifieke abonnementen te contacteren. Hierdoor wordt de marketingafdeling automatisch omgeleid van de Marketing Nation naar Adobe Experience League voor alle aanvragen. Blijf ondersteuningszaken indienen via de Marketing Nation totdat de automatische omleiding is geactiveerd.
 
 ## Aanvullende bronnen {#additional-resources}
 
