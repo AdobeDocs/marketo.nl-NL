@@ -3,9 +3,9 @@ description: Veelgestelde vragen over Dynamics Chat - Marketo Docs - Productdocu
 title: Veelgestelde vragen over Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: ed833219e5074ae646e07db599e7da50665c453b
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -14,90 +14,90 @@ ht-degree: 0%
 
 Zie hieronder voor antwoorden op een aantal veelgestelde vragen over Dynamic Chat.
 
-**Ik heb geen toegang tot Dynamic Chat. Hoe kan ik het krijgen?**
+**ik schijnen geen toegang tot Dynamic Chat te hebben. Hoe kan ik het krijgen?**
 
-Neem contact op met de beheerder van uw Marketo Engage en zorg ervoor dat deze [toegevoegd als gebruiker](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in de Adobe Admin Console.
+Gelieve te bereiken uit aan uw Marketo Engage Admin en ervoor te zorgen zij u als gebruiker ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in Adobe Admin Console hebben toegevoegd.[
 
-**Kan ik Dynamic Chat overal op mijn bedrijfwebsite installeren of werkt het slechts op Marketo Landing Pages?**
+**kan ik Dynamic Chat overal op mijn bedrijfwebsite installeren of werkt het slechts op Marketo het Landing Pages?**
 
-Het JavaScript-fragment Dynamic Chat kan op elke website worden geïnstalleerd, maar ook op Marketo Landing Pages.
+Het JavaScript-fragment van de Dynamic Chat kan op elke website en op Marketo Landing Pages worden geïnstalleerd.
 
-**Hoe lang worden gegevens voor rapportage opgeslagen?**
+**hoe lang wordt het gegeven voor het melden opgeslagen?**
 
-90 dagen. Voor een volledige lijst van limieten/parameters, gelieve het Marketo Engage te bezoeken [Pagina met productbeschrijving](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html) te bezoeken {target="_blank"}.
 
-**Steunt de Dynamic Chat om het even welke talen behalve Engels?**
+**steunt de Dynamic Chat om het even welke talen naast Engels?**
 
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Spaans, Duits, Japans, Nederlands, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Meer informatie in [De taal wijzigen](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Spaans, Duits, Japans, Nederlands, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Leer meer in [ Veranderend de Taal ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
-**Ondersteunt u de AI/NLP-functionaliteit?**
+**steunt u functionaliteit AI/NLP?**
 
 AI/NLP-functionaliteit wordt niet ondersteund.
 
-**Hoe kan ik mij richten op anonieme mensen?**
+**hoe kan ik anonieme mensen richten?**
 
-In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
+In uw dialoog, zou u _E-mail van de Persoon moeten gebruiken is Lege_ attributen.
 
-**Wat kwalificeert zich als een betrokken gesprek?**
+**wat kwalificeert als geëngageerd gesprek?**
 
 Een betrokken gesprek komt voor zodra een bezoeker op de bot in een Dialoog of een Conversationele Stroom antwoordt. Als de bezoeker het gesprek opent maar niet op de beide reageert (bijvoorbeeld een reactie selecteren of informatie verzenden), telt het niet als een betrokkenheid.
 
-**Wat gebeurt er als ik mijn maandelijkse gesprekslimiet bereikt?**
+**wat gebeurt als ik mijn maandelijkse geëngageerde gespreksgrens aansloeg?**
 
 Wanneer u uw maandelijkse betreffende gespreksgrens bereikt, zullen alle gepubliceerde Dialogen en de Conversationele Stromen ophouden teweegbrengend tot u uw grens of uw grensterugstellen aan het begin van de volgende maand verhoogt.
 
-**Hoe weet ik wanneer ik mijn gesprekslimiet nadert?**
+**Hoe zal ik weten wanneer ik mijn betreffende gespreksgrens nazie?**
 
 Wanneer u 90% van uw betreffende gespreksgrens hebt bereikt, zullen de beheerders van de Dynamic Chat een e-mailbericht ontvangen en alle gebruikers zullen een bannerbericht in Dynamic Chat zien.
 
-**Als een bezoeker een dialoogvenster opent en vervolgens verbinding maakt met een live agent, telt dat dan als één of twee overeenkomsten?**
+**als een bezoeker met een Dialoog in dienst neemt en dan met een levende agent verbindt, telt dat als één overeenkomst of twee?**
 
 Voor klanten met het Select-pakket telt dit als twee aparte contracten: een voor de Dialog-service en een voor de live chat-service. Voor klanten met het Primaire pakket worden livechatovereenkomsten niet afzonderlijk geteld, zodat dit slechts als één service wordt beschouwd.
 
-**Hoe vaak wordt de betreffende gespreksgrens teruggesteld?**
+**hoe vaak wordt de aangegane gespreksgrens teruggesteld?**
 
 De betreffende gespreksgrens wordt teruggesteld op de eerste van elke kalendermaand.
 
-**Waarom komt het praatje niet terug nadat ik een gesprek heb afgesloten?**
+**waarom komt het praatbot niet terug nadat ik een gesprek heb gebeëindigd?**
 
 Dialoogvensters zijn ontworpen om slechts eenmaal aan een bezoeker te worden getoond. Zodra een bezoeker het einde van een bepaalde vertakking in een dialoogvenster bereikt, wordt die dialoog als voltooid beschouwd en nooit meer getoond aan die bezoeker.
 
-**Wanneer ik op de tegel Dynamic Chat in My Marketo klik en me aanmeld bij Adobe Experience Cloud, waarom krijg ik het volgende bericht? &quot;_Het lijkt erop dat je Adobe ID niet is gekoppeld aan je Adobe Experience Cloud Solution-accounts_.&quot;**
+**wanneer ik de tegel van de Dynamic Chat in Mijn Marketo en login aan Adobe Experience Cloud klik, waarom krijg ik het volgende bericht? &quot;_het schijnt dat uw Adobe ID niet met uw de oplossingsrekeningen van Adobe Experience Cloud_ wordt verbonden.&quot;**
 
 Dit geeft meestal aan dat u niet als gebruiker van een Dynamic Chat in de Adobe Admin Console bent toegevoegd. Gelieve te contacteren of een systeembeheerder voor uw Adobe org of een productbeheerder voor Dynamic Chat om toegang tot Dynamic Chat te verzoeken.
 
-**Hoe heb ik toegang tot de transcriptie voor een betrokken gesprek?**
+**hoe ik tot de transcriptie voor een betrokken gesprek toegang heb?**
 
-De transcripties van de Dynamic Chat kunnen voor om het even welke bekende lood worden betreden die met een Dialoog van de Dynamic Chat via de activiteit &quot;Betrokken met Dialoog&quot;in Marketo Engage heeft geëngageerd.
+De transcripties van de Dynamic Chat kunnen voor om het even welke bekende lood worden betreden die met een Dialoog van de Dynamic Chat via de activiteit &quot;Betrokken met Dialoog&quot;in Marketo Engage heeft geëngageerd, en de waarvan Status van de Gesprek of &quot;Voltooid&quot;of &quot;Gedropte&quot;is.
 
-**Als een bezoeker een dialoogvenster opent, kunnen ze dan het gesprek opnieuw starten of teruggaan naar een vorige vraag?**
+**Zodra een bezoeker in een Dialoog aangaat, kunnen zij het gesprek opnieuw beginnen of naar een vorige vraag teruggaan?**
 
 Er is momenteel geen systematische manier om een gesprek opnieuw te beginnen of naar een vorig punt terug te gaan, maar dit is op de routekaart van de Dynamic Chat.
 
-**Is Dynamic Chat geïntegreerd met Salesforce?**
+**integreert Dynamic Chat met Salesforce?**
 
 Dynamic Chat integreert met Salesforce via de integratie van het Marketo Engage Salesforce.
 
-**Mijn kalender is verbonden in Dynamic Chat en ik ben inbegrepen in de verpletterende regels, zodat waarom krijg ik geen vergaderingen?**
+**Mijn kalender wordt verbonden in Dynamic Chat en ik ben inbegrepen in de verpletterende regels, zodat waarom ik geen vergaderingen krijg?**
 
 Dit geeft meestal aan dat de kalenderverbinding opnieuw moet worden geverifieerd. Dit gebeurt het vaakst wanneer u uw wachtwoord voor uw kalenderleverancier verandert en de Dynamic Chat verbinding verliest. U kunt eenvoudig naar de pagina van de Montages van de Agent in Dynamic Chat gaan en &quot;Reauthenticate kalender.&quot;klikken
 
-**Wat is het verschil tussen een Dialoog en een Conversationele Stroom?**
+**wat is het verschil tussen een Dialoog en een Conversationele Stroom?**
 
 Een dialoog is een gesprek dat automatisch wordt getoond aan Webbezoekers die aan een bepaalde reeks het richten criteria voldoen. Een gespreksstroom wordt alleen weergegeven aan bezoekers die een specifieke handeling op het web uitvoeren, zoals op een knop drukken.
 
-**Is er een manier om Dynamic Chat aan boekvergaderingen direct van een e-mail te gebruiken?**
+**is er een manier om Dynamic Chat aan boekvergaderingen van e-mail direct te gebruiken?**
 
-Ja! [Meer informatie](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Ja! [ leer hoe ](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936) {target="_blank"}.
 
-**Wat betekenen termen als &#39;Betrokken&#39; of &#39;Opgehaalde mensen&#39; precies?**
+**wat precies termen als &quot;Behoefte&quot;of &quot;Verkregen Mensen&quot;betekenen?**
 
 Er worden meerdere termen gebruikt in Dynamic Chat. Voor veel van deze zaken zijn definities te vinden in de hulpartikelen op hun respectieve gebieden.
 
-* Analytische termen zoals &quot;Personen verkregen&quot; [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
-* Definities van Smart List Trigger/Filter [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
-* Beschrijvingen van de diverse kaarten van de Ontwerper van de Stroom [hier te vinden](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
+* De termijnen van de analyse zoals &quot;Verkregen Mensen&quot;[ kunnen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"} worden gevonden.
+* De slimme Trekker van de Lijst/de definities van de Filter [ kunnen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"} worden gevonden.
+* De beschrijvingen van de diverse kaarten van Designer van de Stroom [ kunnen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} worden gevonden.
 
-**Kan ik Dynamic Chat zonder Marketo Engage gebruiken?**
+**kan ik Dynamic Chat zonder Marketo Engage gebruiken?**
 
 Nee. Terwijl Dynamic Chat een afzonderlijke toepassing is van Marketo Engage, zijn beide onlosmakelijk met elkaar verbonden.
