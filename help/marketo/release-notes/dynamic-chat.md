@@ -1,24 +1,86 @@
 ---
 description: Opmerkingen bij de release Dynamic Chat - Marketo Docs - Productdocumentatie
-title: Opmerkingen bij de release Dynamic Chat
+title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1472'
-ht-degree: 0%
+source-wordcount: '1869'
+ht-degree: 2%
 
 ---
 
-# Opmerkingen bij de release Dynamic Chat {#dynamic-chat-release}
+# Aanvullende informatie over Dynamic Chat {#dynamic-chat-release}
 
 De versies van de Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
 
-De standaardpagina Opmerkingen bij de release voor Marketo Engage [hier te vinden](/help/marketo/release-notes/current.md){target="_blank"}.
+De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [ kan hier ](/help/marketo/release-notes/current.md){target="_blank"} worden gevonden.
 
-## Release juni 2024 {#june-release}
+## Release van augustus 2024 {#august-release}
 
-**Releasedatum: 6 juni 2024**
+**Releasedatum: zaterdag 23 augustus 2024**
+
+### Aangepaste indeling voor uw gespreksberichten {#custom-format-conversation-messages}
+
+De ontwerpers van de stroom steunen nu [ het opnemen van HTML ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} om de blik en het gevoel van uw gesprekken aan te passen.
+
+![](assets/dynamic-chat-aug-2024-release-1.png)
+
+### Chatbot naar beneden schuiven {#chatbot-scroll-to-bottom}
+
+Er is een pictogram toegevoegd aan het chatvak zodat webbezoekers direct naar het laatste bericht kunnen gaan. Dit helpt bezoekers die door de tekst scrollen om aan het gesprek snel terug te komen.
+
+![](assets/dynamic-chat-aug-2024-release-2.png)
+
+### Kernpulsmeldingen {#core-pulse-notifications}
+
+De gebruikers krijgen nu een [ e-mailbericht ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} wanneer een vergadering het boeken of een levende praatje ontbreekt.
+
+![](assets/dynamic-chat-aug-2024-release-3.png)
+
+### Ondersteuning voor meerdere gesprekken {#support-for-multiple-conversations}
+
+De chatbot ondersteunt nu meerdere conversaties. Websitebezoekers kunnen op verschillende pagina&#39;s tegelijk verschillende gesprekken voeren, waarbij ze van elkaar kunnen wisselen.
+
+![](assets/dynamic-chat-aug-2024-release-4.png)
+
+### Standaardsortering voor inhoud {#default-sorting-for-content}
+
+Door gebrek, worden uw gesprekslogboeken, onbeantwoorde vragen, en de lijsten van de vraaggeneratie gesorteerd door gecreeerde datum (van meest recente aan oudste).
+
+### Resolutie van lead in realtime {#real-time-lead-resolution}
+
+Tijdens een gesprek met een anonieme lead en een e-mailid is opgegeven, lossen we op of er een bekende lead-record met die e-mailid bestaat en gebruiken we die record voor personalisatie in real-time. Als wij veelvoudige verslagen vinden, voegen wij hen in real time samen. Dit gedrag wordt geïmplementeerd voor zowel Dialoogvensters als Conversationele stromen.
+
+### Logbestanden synchroniseren zonder cookies van Marketo Engage {#syncing-leads-without-cookies}
+
+Eerder, toen de synchronisatie van het Marketo Engage werd geactiveerd, synchroniseerde de Dynamic Chat slechts bekende lood met één of meerdere koekjesidentiteitskaart van Marketo Engage. Alle bekende leads (cookie-id aanwezig of niet) worden nu gesynchroniseerd naar Dynamic Chat en kunnen worden gebruikt voor de personalisatie van gesprekken.
+
+### Aanvullende bezoekersgegevens doorgeven aan Conversatiestromen {#pass-additional-visitor-data}
+
+Als u bezoekersinformatie via andere kanalen, zoals formulieren of aanmelding, vastlegt, kunt u deze informatie nu rechtstreeks doorgeven aan de Dynamic Chat.
+
+![](assets/dynamic-chat-aug-2024-release-5.png)
+
+### Gereviseerde afgeleide gegevens {#refreshed-inferred-data}
+
+De meeste gesprekken op een website zijn met anonieme bezoekers. U kunt hen nog door gevolgde gegevens richten, die op bezoekers IPs baseert. Wij hebben ons gegevensbestand van IPs en respectieve afgeleide gegevens bijgewerkt die nu vier keer meer IPs steunen.
+
+### Geluid toegevoegd aan browsermelding van agent {#sound-added-to-agent-browser-notification}
+
+Wanneer een levende praatje aan een agent wordt toegewezen, krijgen zij een browser bericht. Maar af en toe zien ze ze niet. We hebben een berichtgeluid toegevoegd om te voorkomen dat gemiste meldingen worden verzonden.
+
+![](assets/dynamic-chat-aug-2024-release-6.png)
+
+### Leadprofiel bijwerken tijdens livechat {#update-lead-profile-during-live-chat}
+
+Tijdens een live chat willen de agenten informatie over de bezoeker vastleggen en het respectieve profiel bijwerken. Er is nu een optie om kenmerkwaarden van lood en bedrijfvoorwerpen bij te werken.
+
+![](assets/dynamic-chat-aug-2024-release-7.png)
+
+## Release van juni 2024 {#june-release}
+
+**Releasedatum: vrijdag 6 juni 2024**
 
 ### Conversale stroomkaart {#conversational-flow-card}
 
@@ -36,31 +98,31 @@ Op de pagina Gebruikslimieten wordt belangrijke informatie weergegeven, zoals pa
 
 ![](assets/dynamic-chat-june-2024-release-2.png)
 
-## Release mei 2024 {#may-release}
+## Release van mei 2024 {#may-release}
 
-**Releasedatum: 15 mei 2024**
+**Releasedatum: donderdag 15 mei 2024**
 
 ### Reactiebibliotheek vooraf goedgekeurd {#pre-approved-response-library}
 
-[Een goedgekeurde bibliotheek maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} van door AI gegenereerde vragen en antwoorden om u te helpen in minuten generatieve AI-chat op te zetten.
+[ creeer een marketing-goedgekeurde bibliotheek ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} van AI-Gegenereerde vraag en antwoorden om opstelling generatieve AI praatje in notulen te helpen.
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### Onbeantwoorde vragen {#unanswered-questions}
 
-[Een opslagplaats voor onbeantwoorde vragen gebruiken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} van vorige gesprekken om nieuwe vooraf goedgekeurde reacties te produceren die een reactiebibliotheek met de recentste informatie handhaven.
+[ Gebruik een bewaarplaats van onbeantwoorde vragen ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} van vorige gesprekken om nieuwe vooraf goedgekeurde reacties te produceren die een reactiebibliotheek met de recentste informatie handhaven.
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### Overzichten van gesprekken {#conversation-summaries}
 
-[Geef verkoopagenten samengevatte gesprekken](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} met inzichten over belangrijke discussiepunten vóór de vergaderingen om de prep - tijd te verkorten en betere wapenhandelaars met de meest recente informatie .
+[ geef verkoopagenten samengevatte gesprekken ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} met inbegrip van inzichten over zeer belangrijke besprekingsonderwerpen vóór vergaderingen om prep tijd en betere wapenverkoopagenten met de recentste informatie te verminderen.
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### GenAI-sneltoetsen {#genai-sales-shortcuts}
 
-[Verstrek levende praatjeagenten van snellere manieren](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} om toegang te krijgen tot door AI gegenereerde reacties, bewerkt u bestaande gegenereerde reacties en zoekt u naar aanvullende inhoud die tijdens het gesprek naar kopers moet worden verzonden.
+[ verstrek levende praatjeagenten van snellere manieren ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} om tot AI-Gegenereerde reacties toegang te hebben, bestaande geproduceerde reacties uit te geven en naar extra inhoud te zoeken om naar kopers tijdens gesprek te verzenden.
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -76,17 +138,17 @@ Zet Webbezoekers met een vraag-aan-actie om gesprekken aan sluiting te drijven.
 
 ## Release van april 2024 {#april-release}
 
-**Releasedatum: 23 april 2024**
+**Releasedatum: woensdag 23 april 2024**
 
 ### Conversatiestromen zijn nu beschikbaar voor alle gebruikers {#conversational-flows-available-to-all-users}
 
-Maak uw formulieren en bestemmingspagina&#39;s conversatiever en verkort de verkooptrechter door gekwalificeerde leads de mogelijkheid te geven een vergadering of chat met verkoop te boeken direct na een formulierverzending met Conversational Forms, nu volledig beschikbaar&#42; voor alle gebruikers van de Dynamic Chat.
+Maak uw formulieren en bestemmingspagina&#39;s conversationeler en verkort de verkooptrechter door gekwalificeerde leads toe te staan om een vergadering of een praatje met Verkoop onmiddellijk na een vormvoorlegging met Conversational Forms te boeken, nu volledig beschikbaar &#42; voor alle gebruikers van de Dynamic Chat.
 
-_&#42;Eerder beschikbaar als proeffunctie met 100 levenscycluscontracten. Conversational Flow-services tellen nu mee voor de maandelijkse limiet van 250 gesprekken die gebruikers in het Select-pakket moeten voeren._
+_&#42;eerder beschikbaar als proefeigenschap met 100 levenovereenkomsten. De overeenkomsten van de Stroom van het gesprek zullen nu op de maandelijkse grens van 250 geëngageerde gesprekken voor gebruikers op het Uitgezochte pakket tellen._
 
 ### Callback-functies {#callback-functions}
 
-[Callback-functies](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} kunt u Dynamic Chat analytische gebeurtenissen in externe systemen, zoals Adobe Analytics of Googles Analytics, verzamelen aangezien de bezoekers met Dynamic Chat gesprekken in gesprek gaan. U schakelt Dynamic Chat analytics-gebeurtenissen in door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van de betrokkenheid van uw Dynamic Chat hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
+[ Callback functies ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} staan u toe om de gebeurtenissen van de Dynamic Chat te verzamelen analyseert in externe systemen, zoals Adobe Analytics of Googles Analytics, aangezien de bezoekers met de gesprekken van de Dynamic Chat in dienst nemen. U schakelt Dynamic Chat analytics-gebeurtenissen in door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van de betrokkenheid van uw Dynamic Chat hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
 
 ### Beschikbaarheidsvoorwaarden voor actieve agent toegevoegd aan voorwaardelijke vertakking {#live-agent-availability-conditional-branching}
 
@@ -177,7 +239,7 @@ Toen wij Dynamic Chat in 2022 vrijgaven, was er geen steun voor levende praatje,
 
 ## Release van februari 2024 {#february-release}
 
-**Releasedatum: 22 februari 2024**
+**Releasedatum: vrijdag 22 februari 2024**
 
 ### Pagina Conversaties {#conversations-page}
 
@@ -193,9 +255,9 @@ U hebt het gevraagd en we hebben het afgeleverd. U kunt nu de gegevens over de b
 
 Met voorwaardelijke vertakking kunt u vertakkingen maken in uw dialoogvenster op basis van verschillende voorwaarden. U kunt nu verschillende inhoud presenteren aan verschillende personen in dezelfde dialoog op basis van de kenmerken van leads en bedrijven in Marketo Engage.
 
-## Release januari 2024 {#january-release}
+## Release van januari 2024 {#january-release}
 
-**Releasedatum: 24 januari 2024**
+**Releasedatum: donderdag 24 januari 2024**
 
 ### Gelijktijdige instelling voor chatlimiet in agentbeheer {#Concurrent-live-chat-limit-setting}
 

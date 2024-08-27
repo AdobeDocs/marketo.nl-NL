@@ -3,9 +3,9 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Met Live Chat kunnen websitebezoekers realtime chatgesprekken voeren met uw verk
 
 ## Actieve chatagents toevoegen {#add-live-chat-agents}
 
-Om met levende praatje te beginnen, zult u uw levende praatjeagenten moeten toevoegen als [gebruikers in de Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Nadat dit wordt gedaan, kunt u dan toevoegen [live chatkaart](#using-the-live-chat-card) naar een nieuwe of bestaande dialoog.
+Om met levend praatje begonnen te worden, zult u uw levende praatjeagenten als [ gebruikers in Adobe Admin Console ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} moeten toevoegen en hen de [ Levende toestemming van het Praatje ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} geven. Nadat dit wordt gedaan, kunt u a [ levende praatjekaart ](#using-the-live-chat-card) aan een nieuwe of bestaande Dialoog dan toevoegen.
 
-Wanneer bezoekers vragen om met een agent door uw Dialoog te chatten, zullen de agenten veelvoudige [meldingsopties](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} waar ze met de bezoeker kunnen beginnen te praten .
+Wanneer de bezoekers om met een agent door uw Dialoog verzoeken te babbelen, zullen de agenten veelvoudige [ berichtopties ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"} hebben. Wanneer zij op het bericht klikken, zullen zij aan hun [ Agent Inbox ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} worden genomen waar zij met de bezoeker kunnen beginnen te chatten.
 
 >[!NOTE]
 >
->De live agent avatar gebruikt het profielbeeld van het de rekeningsprofiel van de Adobe van de agent. Als u de afbeelding wilt bijwerken, volgt u [deze stappen](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>De live agent avatar gebruikt het profielbeeld van het de rekeningsprofiel van de Adobe van de agent. Om het beeld bij te werken, volg [ deze stappen ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html) {target="_blank"}.
 
 ## Live Chat-kaart gebruiken {#using-the-live-chat-card}
 
-Live chat gebruiken op de [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} wanneer u bezoekers wilt chatten met een live agent.
+Gebruik de levende praatjekaart in de [ Stream Designer ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} wanneer u bezoekers met een levende agent wilt chatten.
 
 ![](assets/live-chat-overview-1.png)
 
@@ -61,7 +61,7 @@ Als u op de live chatkaart in de stream klikt, kunt u kiezen hoe de bezoeker wor
   </tr>
     <tr> 
    <td><b>Aangepaste regels</b></td>
-   <td>Alle aangepaste regels worden doorlopen wanneer wordt overwogen waar de bezoeker moet worden geleid. Als de bezoeker niet in aanmerking komt voor een aangepaste regel, krijgen ze de opdracht <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">live chat fallback-bericht</a>.</td>
+   <td>Alle aangepaste regels worden doorlopen wanneer wordt overwogen waar de bezoeker moet worden geleid. Als de bezoeker niet voor om het even welke douaneregel kwalificeert, krijgen zij het <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank"> levende bericht van de praatjefallback </a>.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>
@@ -78,19 +78,19 @@ Als u op de live chatkaart in de stream klikt, kunt u kiezen hoe de bezoeker wor
 
 ### Meldingen inschakelen {#enabling-notifications}
 
-Live chat-agents zien een banner boven aan het scherm wanneer ze zich aanmelden met de tekst &quot;Schakel browsermeldingen in om live chatmeldingen te ontvangen.&quot; Klikken **Inschakelen**.
+Live chat-agents zien een banner boven aan het scherm wanneer ze zich aanmelden met de tekst &quot;Schakel browsermeldingen in om live chatmeldingen te ontvangen.&quot; Klik **toelaten**.
 
 ![](assets/live-chat-overview-4.png)
 
-Live chat-agents worden vervolgens door de browser gevraagd om meldingen weer te geven. Klikken **Toestaan**.
+Live chat-agents worden vervolgens door de browser gevraagd om meldingen weer te geven. Klik **toestaan**.
 
 ![](assets/live-chat-overview-5.png)
 
 Als de agenten browser geen berichten zelfs na het toestaan in browser krijgen, kunnen zij berichten voor browser in de OS berichtmontages moeten toelaten:
 
-[Stappen voor Mac](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[ Stappen voor Mac ](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac) {target="_blank"}
 
-[Stappen voor Windows](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+[ Stappen voor Vensters ](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e) {target="_blank"}
 
 ### Wanneer een Levende Chat aan een Agent wordt verpletterd {#when-a-live-chat-is-routed-to-an-agent}
 
@@ -102,14 +102,20 @@ Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blau
 >
 >U kunt ook browsermeldingen instellen, die u waarschuwen als u zich niet bij de Dynamic Chat hebt aangemeld.
 >
->* Browsermeldingen inschakelen in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Browsermeldingen inschakelen in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+>* Laat browser berichten in [ Google Chrome ](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop) toe {target="_blank"}
+>* Laat browser berichten in [ Mozilla Firefox ](https://support.mozilla.org/en-US/kb/push-notifications-firefox) {target="_blank"} toe
+
+### Mislukte meldingen van handelingen {#failed-action-notifications}
+
+Wanneer een handeling zoals het boeken van een vergadering of een live chat mislukt, worden gebruikers via e-mail op de hoogte gesteld.
+
+![](assets/live-chat-overview-6.png)
 
 ### Notities {#things-to-note}
 
-* De agenten hebben 45 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden.&quot; Daarna zullen de bezoekers de [fallback-bericht](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Voor de Eerste abonnees van de Dynamic Chat die de verpletterende optie hebben die aan wordt geplaatst **Team**, één meer agent zal worden geprobeerd alvorens het reservebericht verschijnt.
+* De agenten hebben 45 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden.&quot; Na dat, zullen de bezoekers het [ fallback bericht ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"} ontvangen. Voor de eerste abonnees van de Dynamic Chat die de verpletterende optie hebben die aan **wordt geplaatst Team**, zal één meer agent worden geprobeerd alvorens het reservebericht verschijnt.
 * Op dit moment geldt een limiet van 10 actieve chats per agent.
 
 >[!MORELIKETHIS]
 >
->[Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
+>[ Agent Inbox ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}
