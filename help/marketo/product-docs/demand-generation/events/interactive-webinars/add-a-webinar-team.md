@@ -3,9 +3,9 @@ description: Een webinar team toevoegen - Marketo Docs - Productdocumentatie
 title: Een webinar-team toevoegen
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
    >[!NOTE]
    >
-   >Als u **Interne Interactieve Woordenaar gebruiker** selecteert, zult u eenvoudig de **Beschikbare gastheren** drop-down moeten klikken en van de lijst van mensen kiezen die als Interactieve Windars gebruikers in Marketo Engage zijn toegevoegd.
+   >Als u **Interne Interactieve Woordenaar gebruiker** selecteert, zult u eenvoudig de **Beschikbare gastheren** drop-down moeten klikken en van de lijst van mensen kiezen die als Interactieve Windars gebruikers in Marketo Engage zijn toegevoegd. Bestaande gastheren zien zichzelf niet in deze vervolgkeuzelijst, omdat ze al gastheren zijn.
 
 1. Voer de voornaam, achternaam en het e-mailadres van de gewenste co-host in. Klik **toevoegen**.
 
