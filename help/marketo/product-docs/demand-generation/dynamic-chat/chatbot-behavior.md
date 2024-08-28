@@ -3,9 +3,9 @@ description: Chatbotgedrag - Marketo Docs - Productdocumentatie
 title: Chatbotgedrag
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1680'
 ht-degree: 0%
 
 ---
@@ -185,7 +185,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 klikt op D1 maar heeft niet gereageerd</p>
         <p>V1 bezoeken WP2</p>
       </td>
-      <td>D1 zal op WP1 worden opgelost<br/>
+      <td>D1 zal op WP1 <br/> worden opgelost
       D2 zal op WP2 worden opgelost</td>
       <td>
         <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
@@ -200,7 +200,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 klikt op D1 en voltooit D1</p>
         <p>V1 bezoeken WP2</p>
       </td>
-      <td>D1 zal op WP1 en na voltooiing worden opgelost<br/>D2 zal op WP2 worden opgelost</td>
+      <td>D1 zal op WP1 worden opgelost en op post-voltooiing <br/> D2 zal op WP2 worden opgelost</td>
       <td>
         <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 worden met 1 verhoogd</p>
         <p>Het aantal triggers voor D2 wordt met 1 verhoogd</p>
@@ -215,7 +215,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP2</p>
         <p>V1 klikt op D2 levert de eerste reactie</p>
       </td>
-      <td>D1 zal op WP1 en na voltooiing worden opgelost<br/>D2 zal op WP2 worden opgelost</td>
+      <td>D1 zal op WP1 worden opgelost en op post-voltooiing <br/> D2 zal op WP2 worden opgelost</td>
       <td>
         <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 worden met 1 verhoogd</p>
         <p>Het aantal triggers en contracten voor D2 wordt met 1 verhoogd</p>
@@ -329,7 +329,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>D2 gericht op WP1 met 2 prioriteit</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
         <p>V1 klikt op D1 en voltooit D1</p>
-        <p>V1 verfrist WP1 en zie D2<br/>V1 klikt op D2 en voltooit D2</p>
+        <p>V1 verfrist WP1 en zie D2 <br/> V1 klikt op D2 en voltooit D2</p>
         <p>Marketer heeft wijzigingen aangebracht in D1 en opnieuw gepubliceerd</p>
         <p>V1 vernieuwt WP1</p>
       </td>
@@ -406,3 +406,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
     </tr>
   </tbody>
 </table>
+
+## Resolutie van lead in realtime {#real-time-lead-resolution}
+
+Tijdens een gesprek met een anonieme lead en een e-mailid is opgegeven, lossen we op of er een bekende lead-record met die e-mailid bestaat en gebruiken we die record voor personalisatie in real-time. Als wij veelvoudige verslagen vinden, voegen wij hen in real time samen. Dit gedrag wordt geïmplementeerd voor zowel Dialoogvensters als Conversationele stromen.

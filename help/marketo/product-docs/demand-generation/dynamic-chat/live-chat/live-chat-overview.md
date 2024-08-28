@@ -3,9 +3,9 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -94,7 +94,7 @@ Als de agenten browser geen berichten zelfs na het toestaan in browser krijgen, 
 
 ### Wanneer een Levende Chat aan een Agent wordt verpletterd {#when-a-live-chat-is-routed-to-an-agent}
 
-Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blauwe banner over de bovenkant van het scherm zien vragend hen om goed te keuren.
+Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blauwe banner over de bovenkant van het scherm zien die hen vragen om goed te keuren, evenals een berichtgeluid helpen gemiste berichten verhinderen.
 
 ![](assets/live-chat-overview-3.png)
 
