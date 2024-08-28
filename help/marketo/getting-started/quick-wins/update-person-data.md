@@ -4,27 +4,27 @@ description: Persgegevens bijwerken - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens bijwerken
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 # Persoonsgegevens bijwerken {#update-person-data}
 
-## Opdracht: De contactgegevens of andere gegevens van een persoon bijwerken {#mission-update-a-persons-contact-info-or-other-data}
+## Opdracht: contactgegevens of andere gegevens van een persoon bijwerken {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
->* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>* [ de Invoer een Lijst van Mensen ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens gaf. Hier is hoe te om persoongegevens bij te werken.
 
 ## Zoek de persoon die u wilt bijwerken {#find-the-person-you-need-to-update}
 
-1. Ga naar uw **[!UICONTROL Database]**.
+1. Ga naar de **[!UICONTROL Database]** .
 
    ![](assets/update-person-data-1.png)
 
@@ -42,13 +42,19 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
    >[!TIP]
    >
-   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [ een Lijst van Mensen ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} invoeren en [ de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## De persoonlijke gegevens bijwerken {#update-the-person-data}
 
 1. Typ de nieuwe informatie die u hebt ontvangen en sluit het tabblad.
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* Zorg ervoor dat e-mailadressen alleen ASCII-tekens bevatten.
+>
+>* Marketo steunt **niet** e-mailadressen die emojis bevatten.
 
 >[!NOTE]
 >
@@ -62,4 +68,4 @@ Mooi werk! Je hebt je persoonlijke gegevens bijgewerkt.
 
 [◄ Missie 8: Waarschuwing voor verkoper](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Missie 10: Een bestemmingspagina omleiden ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Mission 10: Redirect a Landing Page ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
