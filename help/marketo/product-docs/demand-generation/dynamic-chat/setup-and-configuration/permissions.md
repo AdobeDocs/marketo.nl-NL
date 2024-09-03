@@ -2,10 +2,10 @@
 description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in d
 
 ## Bestaande machtigingen bewerken {#edit-existing-permissions}
 
-1. In de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klikt u op **Dynamic Chat**.
+1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/) {target="_blank"}, klik **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
-1. In de **Productprofielen** selecteert u het profiel dat u wilt bewerken. In dit voorbeeld kiezen we **Live Agent**.
+1. In het **lusje van de Profielen van het Product**, selecteer het profiel u wilt uitgeven. In dit voorbeeld, kiezen wij **Levende Agent**.
 
    ![](assets/permissions-2.png)
 
-1. Klik op de knop **Machtigingen** tab.
+1. Klik de **Toestemmingen** tabel.
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in d
 
    ![](assets/permissions-4.png)
 
-1. De beschikbare machtigingsitems worden links weergegeven. U kunt machtigingen een voor een of alle rechten tegelijk toevoegen. In dit voorbeeld is er slechts één beschikbaar, dus voegen we die toe. Klik op de knop **+** ondertekenen.
+1. De beschikbare machtigingsitems worden links weergegeven. U kunt machtigingen een voor een of alle rechten tegelijk toevoegen. Klik op het **+** -teken.
 
    ![](assets/permissions-5.png)
 
@@ -40,7 +40,7 @@ Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in d
    >
    >Als u Automatisch opnemen inschakelt, worden alle machtigingsitems aan de lijst met opgenomen items toegevoegd. Wanneer nieuwe machtigingsitems beschikbaar komen, worden deze automatisch opgenomen voor dat productprofiel.
 
-1. Klikken **Opslaan**.
+1. Klik **sparen**.
 
    ![](assets/permissions-6.png)
 
@@ -50,15 +50,15 @@ U kunt dit proces nu herhalen voor alle/alle andere gebieden van de Dynamic Chat
 
 ## Een profiel maken {#create-a-profile}
 
-1. In de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, klikt u op **Dynamic Chat**.
+1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/) {target="_blank"}, klik **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 
-1. In de **Productprofielen** tabblad, klikt u op **Nieuw profiel**.
+1. In het **lusje van de Profielen van het Product**, klik **Nieuw profiel**.
 
    ![](assets/permissions-9.png)
 
-1. **Naam** uw productprofiel. U kunt er desgewenst een weergavenaam en/of beschrijving van opgeven en gebruikers op de hoogte stellen wanneer ze worden toegevoegd of verwijderd. Klikken **Opslaan** wanneer gereed.
+1. **Naam** uw productprofiel. U kunt er desgewenst een weergavenaam en/of beschrijving van opgeven en gebruikers op de hoogte stellen wanneer ze worden toegevoegd of verwijderd. Klik **sparen** wanneer gedaan.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ U kunt dit proces nu herhalen voor alle/alle andere gebieden van de Dynamic Chat
 
    ![](assets/permissions-11.png)
 
-1. Volg nu stap 3-6 van de [sectie hierboven](#edit-existing-permissions) voor elk gewenst gebied.
+1. Nu volg stappen 3-6 van de [ sectie hierboven ](#edit-existing-permissions) voor elk gewenst gebied.
 
 ## Lijst met machtigingen {#list-of-permissions}
 
@@ -84,10 +84,10 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
     <td>Conversatiebeheer</td>
     <td><li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
-    <li>Dialoogvensters publiceren</li>
+    <li>Publish-dialoogvensters</li>
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
-    <li>Conversatiestromen publiceren</li></td>
+    <li>Publish Conversation Flows</li></td>
   </tr>
   <tr>
     <td>Live Chat</td>
@@ -99,7 +99,7 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
     <td><li>Alle vergaderingen beheren</li>
   </tr>
   <tr>
-    <td>Analyse</td>
+    <td>Analytics</td>
     <td><li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
@@ -117,7 +117,7 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
     <li>Aangepaste regels weergeven</li>
     <li>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</li>
     <li>Accountlijst weergeven <b>*</b></li>
-    <li>Accounts beheren (toevoegen, bewerken, verwijderen) <b>*</b></li>
+    <li>Accounts beheren (toevoegen, bewerken, verwijderen) <b>* </b></li>
     <li>Chatbot-instellingen beheren</li>
     <li>Instellingen voor conversiestromen beheren</li>
     <li>Privacy en beveiliging beheren</li>
@@ -129,7 +129,7 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
 </tbody>
 </table>
 
-**&#42;** Momenteel alleen beschikbaar voor Dynamic Premier-gebruikers
+**&#42;** Momenteel alleen beschikbaar voor Dynamic Premiers
 
 <p>
 
@@ -147,29 +147,29 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
 <tbody>
   <tr>
     <td>Gebruiker van marketing</td>
-    <td><i>Conversatiebeheer</i>
+    <td><i> het Beheer van gesprekken </i>
     <li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
-    <li>Dialoogvensters publiceren</li>
+    <li>Publish-dialoogvensters</li>
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
-    <li>Conversatiestromen publiceren</li>
+    <li>Publish Conversation Flows</li>
     <br>
-    <i>Live Chat</i>
+    <i> Levende Chat </i>
     <li>nvt</li>
     <br>
-    <i>Vergaderingen</i>
+    <i> Vergaderingen </i>
     <li>nvt</li>
     <br>
-    <i>Analyse</i>
+    <i> Analytics </i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <br>
-    <i>Instellingen agent</i>
+    <i> Montages van de Agent </i>
     <li>nvt</li>
     <br>
-    <i>Beheerinstellingen</i>
+    <i> Admin Montages </i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Accountlijst weergeven <b>*</b></li>
@@ -178,27 +178,27 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   </tr>
   <tr>
     <td><b>Live Agent</b></td>
-    <td><i>Conversatiebeheer</i>
+    <td><i> het Beheer van gesprekken </i>
     <li>Dialoogvensters weergeven</li>
     <li>Conversale stromen weergeven</li>
     <br>
-    <i>Live Chat</i>
+    <i> Levende Chat </i>
     <li>Mijn gesprekken weergeven</li>
     <br>
-    <i>Vergaderingen</i>
+    <i> Vergaderingen </i>
     <li>nvt</li>
     <br>
-    <i>Analyse</i>
+    <i> Analytics </i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <br>
-    <i>Instellingen agent</i>
+    <i> Montages van de Agent </i>
     <li>Beschikbaarheid van live chat beheren</li>
     <li>Uw agenda verbinden</li>
     <li>Beschikbaarheid agenda beheren</li>
     <br>
-    <i>Beheerinstellingen</i>
+    <i> Admin Montages </i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Accountlijst weergeven <b>*</b></li>
@@ -207,26 +207,26 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   </tr>
   <tr>
     <td><b>Agenda-agent</b></td>
-    <td><i>Conversatiebeheer</i>
+    <td><i> het Beheer van gesprekken </i>
     <li>Dialoogvensters weergeven</li>
     <li>Conversale stromen weergeven</li>
     <br>
-    <i>Live Chat</i>
+    <i> Levende Chat </i>
     <li>nvt</li>
     <br>
-    <i>Vergaderingen</i>
+    <i> Vergaderingen </i>
     <li>nvt</li>
     <br>
-    <i>Analyse</i>
+    <i> Analytics </i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <br>
-    <i>Instellingen agent</i>
+    <i> Montages van de Agent </i>
     <li>Uw agenda verbinden</li>
     <li>Beschikbaarheid agenda beheren</li>
     <br>
-    <i>Beheerinstellingen</i>
+    <i> Admin Montages </i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Accountlijst weergeven <b>*</b></li>
@@ -235,35 +235,35 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   </tr>
   <tr>
     <td><b>Marketing Admin</b></td>
-    <td><i>Conversatiebeheer</i>
+    <td><i> het Beheer van gesprekken </i>
     <li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
-    <li>Dialoogvensters publiceren</li>
+    <li>Publish-dialoogvensters</li>
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
-    <li>Conversatiestromen publiceren</li>
+    <li>Publish Conversation Flows</li>
     <br>
-    <i>Live Chat</i>
+    <i> Levende Chat </i>
     <li>nvt</li>
     <br>
-    <i>Vergaderingen</i>
+    <i> Vergaderingen </i>
     <li>nvt</li>
     <br>
-    <i>Analyse</i>
+    <i> Analytics </i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <li>Rapporten exporteren</li>
     <br>
-    <i>Instellingen agent</i>
+    <i> Montages van de Agent </i>
     <li>nvt</li>
     <br>
-    <i>Beheerinstellingen</i>
+    <i> Admin Montages </i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</li>
     <li>Accountlijst weergeven <b>*</b></li>
-    <li>Accounts beheren (toevoegen, bewerken, verwijderen) <b>*</b></li>
+    <li>Accounts beheren (toevoegen, bewerken, verwijderen) <b>* </b></li>
     <li>Chatbot-instellingen beheren</li>
     <li>Instellingen voor conversiestromen beheren</li>
     <li>Privacy en beveiliging beheren</li>
@@ -273,34 +273,34 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
   </tr>
   <tr>
     <td><b>Verkoopbeheerder</b></td>
-    <td><i>Conversatiebeheer</i>
+    <td><i> het Beheer van gesprekken </i>
     <li>Dialoogvensters weergeven</li>
     <li>Conversale stromen weergeven</li>
     <br>
-    <i>Live Chat</i>
+    <i> Levende Chat </i>
     <li>Mijn gesprekken weergeven</li>
     <li>Alle gesprekken weergeven</li>
     <br>
-    <i>Vergaderingen</i>
+    <i> Vergaderingen </i>
     <li>Alle vergaderingen beheren</li>
     <br>
-    <i>Analyse</i>
+    <i> Analytics </i>
     <li>Global Performance Reports weergeven</li>
     <li>Live Chatrapporten weergeven</li>
     <li>Vergaderingsrapporten weergeven</li>
     <li>Rapporten exporteren</li>
     <br>
-    <i>Instellingen agent</i>
+    <i> Montages van de Agent </i>
     <li>Beschikbaarheid van live chat beheren</li>
     <li>Uw agenda verbinden</li>
     <li>Beschikbaarheid agenda beheren</li>
     <br>
-    <i>Beheerinstellingen</i>
+    <i> Admin Montages </i>
     <li>Ronde lijn weergeven</li>
     <li>Aangepaste regels weergeven</li>
     <li>Aangepaste regels beheren (toevoegen, bewerken, verwijderen)</li>
     <li>Accountlijst weergeven <b>*</b></li>
-    <li>Accounts beheren (toevoegen, bewerken, verwijderen) <b>*</b></li>
+    <li>Accounts beheren (toevoegen, bewerken, verwijderen) <b>* </b></li>
     <li>Handelingen beheren</li>
     <li>Agent-teams weergeven <b>*</b></li>
     <li>Agent-teams beheren <b>*</b></li>
@@ -309,4 +309,4 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
 </tbody>
 </table>
 
-**&#42;** Momenteel alleen beschikbaar voor Dynamic Premier-gebruikers
+**&#42;** Momenteel alleen beschikbaar voor Dynamic Premiers
