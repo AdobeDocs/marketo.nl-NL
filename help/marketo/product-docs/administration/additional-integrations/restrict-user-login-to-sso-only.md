@@ -4,30 +4,30 @@ description: Alleen aanmelding door gebruiker beperken tot SSO - Marketo Docs - 
 title: Alleen gebruikersaanmelding beperken tot SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
 # Alleen gebruikersaanmelding beperken tot SSO {#restrict-user-login-to-sso-only}
 
-Als je [SSO gebruiken](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) en willen ervoor zorgen dat gebruikers de SSO-beveiliging niet kunnen omzeilen, volgt u deze instructies.
+Als u [ SSO ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) gebruikt en gebruikers wilt verzekeren kan niet de veiligheid omzeilen SSO, deze instructies volgen.
 
 >[!IMPORTANT]
 >
->Dit artikel is niet van toepassing op [Adobe IMS ingeschakeld](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo-abonnementen.
+>Dit artikel is niet op [ toe:laten 1} Marketo abonnementen van Adobe IMS {van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Klikken **[!UICONTROL Login Setting]s**.
+1. Klik **[!UICONTROL Login Setting]s**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
@@ -35,26 +35,26 @@ Als je [SSO gebruiken](/help/marketo/product-docs/administration/additional-inte
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. Breid uit **[!UICONTROL Advanced]** instellingen, controleren **[!UICONTROL Require SSO]** en klik op **[!UICONTROL Save]**.
+1. Vouw de **[!UICONTROL Advanced]** -instellingen uit, controleer **[!UICONTROL Require SSO]** en klik op **[!UICONTROL Save]** .
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->De beste manier is om de gebruiker(s) uit te nodigen en de uitnodiging te accepteren. _Na_ de uitnodiging is geaccepteerd, dienen beheerders deze in te stellen op &quot;[!UICONTROL Require SSO].&quot;
+>De beste manier is om de gebruiker(s) uit te nodigen en de uitnodiging te accepteren. _nadat_ de uitnodiging wordt goedgekeurd, zouden Admins hen dan aan &quot;[!UICONTROL Require SSO]&quot; moeten plaatsen.
 
 >[!TIP]
 >
->Als u **[!UICONTROL Require SSO]**, kunt u een [gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking door **[!UICONTROL Bypass Single Sign-On]** tijdens het instellen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Admin-gebruikers moeten zich bijvoorbeeld nog steeds via het aanmeldingsscherm aanmelden bij Marketo.
+>Als u **[!UICONTROL Require SSO]** selecteert, kunt u a [ gebruikersrol ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door de **[!UICONTROL Bypass Single Sign-On]** optie te controleren terwijl vestiging de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds via het aanmeldingsscherm moeten aanmelden bij Marketo. Als zowel SSO als Universal ID zijn ingeschakeld, moet u de machtiging Enkelvoudige aanmelding omzeilen hebben ingesteld om te kunnen schakelen tussen abonnementen.
 
 >[!CAUTION]
 >
->Als nieuwe gebruikers worden uitgenodigd, ontvangen ze e-mailuitnodigingen. Als **[!UICONTROL Require SSO]** is geselecteerd, ontvangen ze deze e-mailberichten niet, tenzij ze zijn toegewezen aan een rol die is ingesteld op **[!UICONTROL Bypass Single Sign-On]**.
+>Wanneer nieuwe gebruikers worden uitgenodigd, ontvangen zij uitnodigingse-mails. Als **[!UICONTROL Require SSO]** echter is geselecteerd, ontvangen deze geen e-mailberichten, tenzij ze zijn toegewezen aan een rol die is ingesteld op **[!UICONTROL Bypass Single Sign-On]** .
 
 Dat is het! Nu zullen alle gebruikers (behalve gebruikers met toestemming om enig teken-op te mijden) worden beperkt tot het gebruiken van slechts login SSO.
 
 >[!MORELIKETHIS]
 >
->* [Eén aanmelding toevoegen aan een portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
->* [Een universele id gebruiken voor aanmelding bij een abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [ voeg Enige Sign-On aan een Portaal ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) toe
+>* [ Gebruikend een Universele identiteitskaart voor de Login van het Abonnement ](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

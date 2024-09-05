@@ -4,9 +4,9 @@ description: Een universele id gebruiken voor aanmelding bij een abonnement - Ma
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,9 @@ Met een universele id voor meerdere abonnementen kunt u alleen het wachtwoord wi
 
 ## Schakelen tussen abonnementen {#switching-between-subscriptions}
 
-Gebruikend een Universele identiteitskaart, kunt u het abonnement zien u wordt geregistreerd in, en andere abonnementen selecteren waartot u login toegang hebt. In de meeste gevallen, kunt u tussen hen schakelen zonder het moeten logout en terug binnen.
+Met een Universal-id kunt u het abonnement zien waarin u bent aangemeld en andere abonnementen selecteren waartoe u aanmeldingstoegang hebt. In de meeste gevallen, kunt u tussen hen schakelen zonder het moeten logout en terug binnen.
+
+Als zowel [ Enige Teken ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) en Universele identiteitskaart worden toegelaten, moet u de &quot;Enige Ondertekende die&quot;toestemming hebben van de Bypass wordt geplaatst om tussen abonnementen van een knevel te voorzien.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 
@@ -61,6 +63,6 @@ Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen
 
 >[!MORELIKETHIS]
 >
->* [Eén aanmelding toevoegen aan een portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"}
->* [Alleen gebruikersaanmelding beperken tot SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [ voeg Enige Sign-On aan een Portaal ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"} toe
+>* [ Beperk het Login van de Gebruiker tot SSO slechts ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122) {target="_blank"}
