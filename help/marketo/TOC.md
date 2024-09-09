@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
+source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
 workflow-type: tm+mt
-source-wordcount: '9353'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -1488,7 +1488,6 @@ ht-degree: 0%
             + Contacten beheren {#managing-contacts}
                + [Bulkacties op personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-               + [Contacten importeren via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [Groepen beheren](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Kolommen Personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefoon {#phone}
