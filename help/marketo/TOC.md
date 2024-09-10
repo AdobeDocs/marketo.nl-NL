@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '9341'
 ht-degree: 0%
 
 ---
@@ -1460,7 +1460,6 @@ ht-degree: 0%
             + [Hoe bevestig ik &quot;wij konden uw verzoek&quot;niet voor authentiek verklaren wanneer het verbinden met Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Hoe voorkom ik zelfweergaven?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Hoe werkt het bijhouden van locaties?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [Hoe verwerken de Handelingen van het Inzicht van de Verkoop E-mail het-Dupliceren?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [Ik ben buiten mijn account gezet. Wat doe ik?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Is de Acties van het Inzicht van de Verkoop verenigbaar met Salesforce Bliksem?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Welke browsers steunt de Acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
@@ -1487,7 +1486,6 @@ ht-degree: 0%
             + [Handelingen voor het toezicht op de verkoop en naleving van GDPR](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + Contacten beheren {#managing-contacts}
                + [Bulkacties op personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-               + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [Groepen beheren](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Kolommen Personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefoon {#phone}
@@ -1974,6 +1972,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: maart &#39;24](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [Opmerkingen bij de release: april &#39;24](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [Opmerkingen bij de release: juni &#39;24](release-notes/previous-releases/2024/release-notes-june-24.md)
+         + [Opmerkingen bij de release: juli &#39;24](release-notes/previous-releases/2024/release-notes-july-24.md)
       + 2023 {#2023}
          + [Opmerkingen bij de release: januari &#39;23](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Opmerkingen bij de release: maart &#39;23](release-notes/previous-releases/2023/release-notes-mar-23.md)

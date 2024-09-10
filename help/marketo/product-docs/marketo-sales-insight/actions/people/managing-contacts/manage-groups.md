@@ -3,9 +3,9 @@ description: Groepen beheren - Marketo Docs - Productdocumentatie
 title: Groepen beheren
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
   </tr> 
   <tr> 
    <td>Dynamische groepen</td> 
-   <td>Mijn contactpersonen: Alle contacten u bezit.<br>Abonnement opzeggen: Contacten die ervoor hebben gekozen geen correspondentie te ontvangen.</td> 
+   <td>Mijn Contacten: Alle contacten u bezit.<br> Unsubscribes: Contacten die verkiesden-uit het ontvangen van correspondentie hebben.</td> 
   </tr> 
   <tr> 
    <td>Mijn groepen</td> 
@@ -47,11 +47,11 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
 ## Een groep maken {#create-a-group}
 
-1. Klik op de pagina Personen op de knop **+** naast Groepen.
+1. Klik op de pagina Personen op **+** naast Groepen.
 
    ![](assets/manage-groups-1.png)
 
-1. Geef uw groep een naam en klik op **Maken**.
+1. Noem uw groep en klik **creeer**.
 
    ![](assets/manage-groups-2.png)
 
@@ -63,15 +63,11 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
    ![](assets/manage-groups-3.png)
 
-1. Klikken **Handelingen groeperen** en selecteert u **Contactpersoon maken en toevoegen aan groep**.
+1. Klik **de Acties van de Groep** en selecteer **tot Contact leiden en aan Groep** toevoegen.
 
    ![](assets/manage-groups-4.png)
 
-   >[!NOTE]
-   >
-   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [deze stappen](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
-
-1. Vul de contactgegevens in en klik op **Maken** (of **Nieuw maken en toevoegen** om een andere toe te voegen).
+1. Vul de informatie van het contact uit en klik **creeer** (of **creeer en voeg Nieuw** toe om een andere toe te voegen).
 
    ![](assets/manage-groups-5.png)
 
@@ -87,15 +83,15 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
    ![](assets/manage-groups-6.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Delen**.
+1. Klik de gegevens (drie verticale punten) en selecteer **Aandeel**.
 
    ![](assets/manage-groups-7.png)
 
-1. Klik op de vervolgkeuzelijst, kies het team waarmee u de groep wilt delen en klik op **Delen**.
+1. Klik drop-down, kies het team u de groep met wilt delen en **Aandeel** klikken.
 
    ![](assets/manage-groups-8.png)
 
-   U bent nog steeds eigenaar van de groep, maar deze wordt nu onder _Teamgroepen_.
+   U bezit nog de groep, maar het zal nu onder _Groepen van het Team_ verschijnen.
 
 ## Delen van een groep opheffen {#unshare-a-group}
 
@@ -103,11 +99,11 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
    ![](assets/manage-groups-9.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Delen**.
+1. Klik de gegevens (drie verticale punten) en selecteer **Aandeel**.
 
    ![](assets/manage-groups-10.png)
 
-1. Klik op de knop **X** naast het team u de groep met deelde, dan klik uit modaal.
+1. Klik **X** naast het team u de groep met deelde, dan klik uit modaal.
 
    ![](assets/manage-groups-11.png)
 
@@ -119,11 +115,11 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
    ![](assets/manage-groups-12.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Bewerken**.
+1. Klik de gegevens (drie verticale punten) en selecteer **uitgeven**.
 
    ![](assets/manage-groups-13.png)
 
-1. Typ de nieuwe naam en klik op **Opslaan**.
+1. Het type in de nieuwe naam en klikt **sparen**.
 
    ![](assets/manage-groups-14.png)
 
@@ -133,10 +129,10 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
    ![](assets/manage-groups-15.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Verwijderen**.
+1. Klik de gegevens (drie verticale punten) en selecteer **Schrapping**.
 
    ![](assets/manage-groups-16.png)
 
-1. Klikken **Verwijderen** ter bevestiging.
+1. Klik **Schrapping** om te bevestigen.
 
    ![](assets/manage-groups-17.png)
