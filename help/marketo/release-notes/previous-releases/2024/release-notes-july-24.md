@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - juli 2024 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juli 2024
 feature: Release Information
-source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
+source-git-commit: 9087709e0572687b80022b73a1fde0dca8dc1a7e
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '521'
 ht-degree: 1%
 
 ---
@@ -65,8 +65,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
      <tr> 
    <td><strong> Marketo REST API Verandering </strong>: Wij introduceren een minder belangrijke verandering in het <a href="https://developers.marketo.com/rest-api/user-management/"> Beheer API van de Gebruiker </a>. Zowel doorbladeren de <a href="https://developers.marketo.com/rest-api/user-management/#browse_users"> Gebruikers </a> en <a href="https://developers.marketo.com/rest-api/user-management/#delete_user"> schrapt eindpunten van de Gebruiker </a> steunen nu <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md"> de gebruikers van het Beheer van de Rekening van het Doel </a>.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
  </tbody> 
 </table>
