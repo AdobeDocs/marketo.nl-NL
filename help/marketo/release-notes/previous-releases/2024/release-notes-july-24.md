@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - juli 2024 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juli 2024
 feature: Release Information
-source-git-commit: 3881c6e327dc7edc072fd3e7e3d4f6f5b78347dc
+source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '522'
 ht-degree: 1%
 
 ---
@@ -88,4 +88,4 @@ Gebruikers kunnen deze sociale functies niet meer in Marketo Engage maken, klone
 
 * **Token van de Toegang in de Afschrijving van de Parameter van de Vraag**: De steun voor authentificatie die toegangstokens in een vraagparameter van een Marketo Engage REST API vraag gebruikt zal in een toekomstige versie (specifieke datum TBD) worden verwijderd. De bestaande integratie zouden aan gebruik van de kopbal van de Vergunning moeten migreren [ die hier ](https://developers.marketo.com/rest-api/authentication/) wordt beschreven {target="_blank"}. De nieuwe ontwikkeling zou de kopbal van de Vergunning voor authentificatie met Marketo Engage slechts moeten gebruiken.
 
-* **Vereiste de re-authentificatie van LinkedIn**: LinkedIn bevordert hun Marketing APIs die door de integratie van LinkedIn van het Marketo Engage worden gebruikt. Deze veranderingen zullen re-authentificatie van alle diensten van LinkedIn LaunchPoint in uw **Admin** > **LaunchPoint** menu tussen 26 en 15 december 2024 vereisen, om de dienstonderbreking te vermijden. U kunt instructies op vinden hoe te om dit [ hier voor Leider Gen Forms ](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} en [ hier voor Gelijke Soorten publiek ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"} te verwezenlijken. De lead Gen Form-service heeft het type &quot;LinkedIn Lead Gen&quot; en de Matched Audience-service heeft het type &quot;LinkedIn Matched Audiences&quot;. Voor meer informatie, gelieve te zien [ Veelgestelde vragen van de Migratie ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794) {target="_blank"}.
+* **Vereiste de re-authentificatie van LinkedIn**: LinkedIn bevordert hun Marketing APIs die door de integratie van LinkedIn van het Marketo Engage worden gebruikt. Deze veranderingen zullen re-authentificatie van alle diensten van LinkedIn LaunchPoint in uw **Admin** > **LaunchPoint** menu tussen 26 en 15 december 2024 vereisen, om de dienstonderbreking te vermijden. U kunt instructies op vinden hoe te om dit [ hier voor Leider Gen Forms ](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} en [ hier voor Gelijke Soorten publiek ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"} te verwezenlijken. De lead Gen Form-service heeft het type &quot;LinkedIn Lead Gen&quot; en de Matched Audience-service heeft het type &quot;LinkedIn Matched Audiences&quot;. Voor meer informatie, bezoek de [ Veelgestelde vragen van de Migratie ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794) {target="_blank"}.
