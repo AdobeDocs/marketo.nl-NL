@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
+source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '303'
 ht-degree: 3%
 
 ---
@@ -71,3 +71,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
  </tbody> 
 </table>
 <br/>
+
+## Aankondigingen {#announcements}
+
+Op 17 september, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van het Marketo Engage die &quot;Munchkin Beta&quot;plaatsen hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
