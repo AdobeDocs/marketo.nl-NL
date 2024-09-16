@@ -3,10 +3,10 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86dae90f24c948da8824ac2b8662072756fa2601
+source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 3%
+source-wordcount: '363'
+ht-degree: 2%
 
 ---
 
@@ -74,4 +74,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-Op 17 september, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van het Marketo Engage die &quot;Munchkin Beta&quot;plaatsen hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
+* **Nieuwe Versie van Munchkin**: Op 17 September, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van het Marketo Engage die &quot;Munchkin Beta&quot;hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
+
+* **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik te deactiveren, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van het Marketo Engage.
