@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9346'
 ht-degree: 0%
 
 ---
@@ -1748,6 +1748,7 @@ ht-degree: 0%
             + [Rapport Personen per status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Rapport over prestaties van mensen](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Overzicht rapporttype](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [Salesforce Sync Observability Metrics Dashboard](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Rapport over activiteiten op webpagina](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-mailinzichten {#email-insights}
