@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
+source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '420'
 ht-degree: 2%
 
 ---
@@ -74,6 +74,10 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **Nieuwe Versie van Munchkin**: Op 17 September, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van het Marketo Engage die &quot;Munchkin Beta&quot;hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
-
 * **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik te deactiveren, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van het Marketo Engage.
+
+* **de Veranderingen van Munchkin**
+
+   * **Nieuwe Versie**: Op 17 September, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van het Marketo Engage die &quot;Munchkin Beta&quot;plaatsen hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
+
+   * **Karakters van Verwijderde URL**: &quot;Bezoekt Web-pagina&quot;en de &quot;Klik Verbinding&quot;activiteiten die door Munchkin JS worden gecreeerd zullen niet-URL gecodeerde controlekarakters van alle gebieden URL nu verwijderen. Deze verandering wordt ontworpen om fouten met betrekking tot propagatie van die types van karakters in systemen te verhinderen die hen niet steunen, en geen geldig gebruik binnen Marketo Engage hebben.
