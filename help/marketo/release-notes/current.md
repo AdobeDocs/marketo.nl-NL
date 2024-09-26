@@ -1,5 +1,5 @@
 ---
-description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
+description: Huidige aanvullende informatie - Documentatie voor Marketo - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information

@@ -1,5 +1,5 @@
 ---
-description: Opmerkingen bij de release Dynamic Chat - Marketo Docs - Productdocumentatie
+description: Aanvullende informatie voor Dynamic Chat - Documentatie voor Marketo - Productdocumentatie
 title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d

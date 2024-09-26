@@ -1,13 +1,13 @@
 ---
-description: Stappen instellen - Marketo Docs - Productdocumentatie
-short-description: Ben je gewoon aan de slag met Adobe Marketo Engage? Leer welke stappen u moet voltooien alvorens binnen te duiken.
+description: Installatiestappen - Marketo-documentatie - Productdocumentatie
+short-description: Bent u net aan de slag gegaan met Adobe Marketo Engage? Leer welke stappen u moet voltooien voordat u aan de slag kunt.
 title: Stappen voor instellingen
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1681'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -102,7 +102,7 @@ Kies een NAAM voor de bestemmingspagina&#39;s. Enkele voorbeelden:
 
 Het eerste deel (vet weergegeven) is de `[LandingPageCNAME]` . Je hebt het nodig in Stap 5.
 
-Om identiteitskaart terug te winnen Munchkin die u met uw landende pagina CNAME zult vervangen, ga naar het **Admin** gebied.
+Om identiteitskaart terug te winnen van Munchkin die u met uw het landen pagina CNAME zult vervangen, ga naar het **Admin** gebied.
 
 ![](assets/setup-steps-4.png)
 
@@ -140,7 +140,7 @@ Beste IT-beheerder,
 
 Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communiceren. Voor een goede e-mailleverbaarheid moeten we de volgende wijzigingen aanbrengen:
 
-`1)` voor onze het landen pagina&#39;s, voeg een DNS Ingang (CNAME) voor **[LandingPageCNAME]** toe.**[CompanyDomain]**.com, wijzend aan **[Munchkin identiteitskaart]** .mktoweb.com.
+`1)` voor onze het landen pagina&#39;s, voeg een DNS Ingang (CNAME) voor **[LandingPageCNAME]** toe.**[CompanyDomain]**.com, wijzend aan **[identiteitskaart van Munchkin]** .mktoweb.com.
 
 `2)` voor onze het volgen verbindingen in e-mail, voeg een DNS Ingang (CNAME) voor **[EmailTrackingCNAME]** toe.**[CompanyDomain]**.com, wijzend aan **[MktoTrackingLink]**.
 
