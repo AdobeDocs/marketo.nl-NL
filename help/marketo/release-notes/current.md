@@ -3,7 +3,7 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 2%
@@ -32,7 +32,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
     <tr> 
-   <td><strong> Verbeterde Gegevens van de Registratie in het Dashboard van de Betrokkenheid voor Interactieve Webinars </strong>: TheYou kan nu zien welke bedrijven de meeste aanwezigheid hebben gehad en het bedrijf, de titel, en de industrie krijgen bijgewerkt op loodniveau in rapporten beschikbaar in het Dashboard van de Betrokkenheid.</td> 
+   <td><strong> Verbeterde Gegevens van de Registratie in het Dashboard van de Betrokkenheid voor Interactieve Webinars </strong>: U kunt nu zien welke bedrijven de meeste aanwezigheid hebben gehad en het bedrijf, de titel, en de industrie krijgen bijgewerkt op een lood-niveau in rapporten beschikbaar in het Dashboard van de Betrokkenheid.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
