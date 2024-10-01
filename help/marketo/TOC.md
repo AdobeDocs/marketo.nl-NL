@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9345'
 ht-degree: 0%
 
 ---
@@ -627,6 +627,7 @@ ht-degree: 0%
          + [De Salesforce-synchronisatie inschakelen/uitschakelen](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Impliciete Salesforce-acties](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Aanmelden met OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce Sync Backlog Metrics](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce-synchronisatiefouten](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Status van Salesforce-synchronisatie](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Persoonlijke accounts gebruiken](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 0%
             + [Rapport Personen per status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Rapport over prestaties van mensen](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Overzicht rapporttype](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Salesforce Sync Observability Metrics Dashboard](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Rapport over activiteiten op webpagina](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-mailinzichten {#email-insights}
