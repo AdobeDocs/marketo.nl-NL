@@ -3,10 +3,10 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '513'
+ht-degree: 1%
 
 ---
 
@@ -65,6 +65,34 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
    <tr> 
    <td><strong> Mijn knoop van de Rekening in navigatiespoor </strong>: Voor degenen die naar het Systeem van Identity Management van de Adobe zijn gemigreerd, staat een nieuwe "Mijn knoop van de Rekening"in de linkernavigatiespoor het vormen van uw tijdzone en de toegang tot abonnementsdetails toe.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong> de Metriek van de Achtergrond van de Synchronisatie van Salesforce </strong>: U kunt synchronisatieproductie en backlogtrends nu controleren om de updates van CRM voor een optimale synchronisatieervaring te plannen en te plannen.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong> de Verbeteringen van het Rapport van Prestaties van de E-mail </strong>: De veelvoudige verbeteringen zijn aangebracht aan e-mail rapporterend metriek en activiteit die, extra inzichten aanbieden en nauwkeurigheid verbeteren.
+   <ul>
+   <li>Verwijderde en samengevoegde personen filteren van e-mailprestatiegegevens</li>
+   <li>E-mail nu geclassificeerd als <i> geaborteerd </i> na het wachten drie dagen voor reactieactiviteit</li>
+   <li>E-mailadres voor account wordt geopend op campagnereniveau</li>
+   <li>Verbeterde e-mailactiviteitstracering dankzij verfijning van de locatie van de volgende pixel</li>
+   </td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
