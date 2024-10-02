@@ -3,10 +3,10 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 1%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 
@@ -72,18 +72,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong> de Metriek van de Achtergrond van de Synchronisatie van Salesforce </strong>: U kunt synchronisatieproductie en backlogtrends nu controleren om de updates van CRM voor een optimale synchronisatieervaring te plannen en te plannen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong> de Verbeteringen van het Rapport van Prestaties van de E-mail </strong>: De veelvoudige verbeteringen zijn aangebracht aan e-mail rapporterend metriek en activiteit die, extra inzichten aanbieden en nauwkeurigheid verbeteren.
