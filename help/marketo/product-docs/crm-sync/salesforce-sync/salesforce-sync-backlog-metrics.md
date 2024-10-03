@@ -4,7 +4,7 @@ title: Salesforce Sync Backlog Metrics
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Of de update aan de zijde van het Marketo Engage of aan de zijde van CRM wordt g
 
 Wanneer een grote hoeveelheid updates wordt gemaakt (zoals van een veranderend gebied), worden vele verslagen veranderd, veroorzakend nieuwe SysModStamps. Een groot aantal updates van het persoonrecord moet dan opnieuw worden gesynchroniseerd tussen Marketo Engage en uw CRM, waardoor soms een kortstondige achterstand ontstaat.
 
-## Aanbevolen procedures voor het beheren van synchronisatiebacklogs {#best-practices-for-managing-sync-backlogs}
+## Aanbevolen procedures voor het beheren van synchronisatiebacklogs {#best-practices}
 
 **Gebieden onder synchronisatie**: Zorg ervoor de gebieden onder synchronisatie slechts die zijn die moeten worden gesynchroniseerd. Door wijzigingen in velden neemt de synchronisatieachterstand toe en velden met lagere prioriteit worden mogelijk minder belangrijke velden gesynchroniseerd of vertraagd. Bereik uit aan [ de Steun van het Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"} om gebieden onder synchronisatie te verwijderen.
 
@@ -105,4 +105,4 @@ Wanneer een grote hoeveelheid updates wordt gemaakt (zoals van een veranderend g
 
 **bulkupdates van het Programma tijdens niet-kritieke uren**: Herzie uw patronen van de gegevenssynchronisatie om niet-kritieke periodes te identificeren. Controleer of bulkupdates tijdens deze niet-kritieke perioden kunnen worden gepland.
 
-Als u alle beste praktijken hierboven volgt en u nog significante backlogs ervaart, contacteer [ de Steun van het Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"}.
+Als u alle bovengenoemde beste praktijken volgt en nog significante backlogs ervaren, contacteer [ de Steun van het Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"}.

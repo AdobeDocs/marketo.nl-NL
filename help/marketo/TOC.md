@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
-source-wordcount: '9345'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1099,6 +1099,11 @@ ht-degree: 0%
          + De e-maileditor begrijpen {#understanding-the-email-editor}
             + [Logboekregistratie van e-mailgebeurtenissen](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [De Rich Text Editor gebruiken](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+         + Beta Nieuwe e-maileditor {#beta-new-email-editor}
+            + [Een e-mail maken](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
+            + [Een e-mailsjabloon maken](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
+            + [Hoe te om tot een E-mail toegang te hebben](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+            + [ hoe te om tot een E-mailmalplaatje ](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md) toegang te hebben
          + Een e-mail maken {#creating-an-email}
             + [Een e-mail goedkeuren](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Een e-mail met alleen tekst maken](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1231,7 +1236,7 @@ ht-degree: 0%
             + [E-mailverbinding voor Gmail-gebruikers](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail niet in handtekening van Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [Een sjabloon toevoegen](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-            + [De ToutApp Browser-extensie installeren](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
+            + [De insteekmodule Sales Connect Email voor Gmail installeren](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
             + [E-mail verzenden vanuit Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Sales Connect verwijderen van Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1246,7 +1251,7 @@ ht-degree: 0%
                + [Sales Connect verwijderen uit Outlook](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365 Add-in {#office-365-add-in}
                + [E-mail toevoegen aan Salesforce (Office 365)](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Sales Connect voor Office365 Mac OS, Windows en Online installeren](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [De e-mailplug-in Sales Connect voor Outlook (Online, Mac en Windows) installeren](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + E-mail {#email}
          + Command Center {#command-center}
             + [Overzicht van Command Center](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
