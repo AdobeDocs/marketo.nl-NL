@@ -4,19 +4,19 @@ description: E-mailprestatierapport - Marketo Docs - Productdocumentatie
 title: E-mailprestatierapport
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
 
 # E-mailprestatierapport {#email-performance-report}
 
-Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopende, geklikte, enz., maakt u een e-mailprestatierapport.
+Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopende, geklikt, enz., maakt u een e-mailprestatierapport.
 
-1. [Een rapport maken in een programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteert u de **E-mailprestaties** [Rapporttype](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Het tijdkader van het rapport wijzigen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op de knop **Rapport** tab.
+1. [ creeer een Rapport in een Programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **E-mailPrestaties** [ Type van Rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [ verander het Kader van de Tijd van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **Rapport** tabel.
 1. Je bent er! Bekijk nu het rapport om te zien hoe uw e-mail(s) zijn uitgevoerd.
 
    >[!NOTE]
@@ -31,37 +31,65 @@ Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopend
 
    >[!NOTE]
    >
-   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik de **Slimme lijst** tab naar [een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) voor het verslag. Als u niet op om het even welk specifiek gebied filtreert, plaats de filter E-mailadres aan: **is niet leeg**.
+   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik het **Slimme lusje van de Lijst** om [ tot een slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) voor het rapport te leiden. Als u niet op om het even welk specifiek gebied filtreert, plaats de filter E-mail van het Adres aan: **is niet leeg**.
 
-   [Rapportkolommen selecteren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een e-mailprestatierapport:
+   [ Uitgezochte de Kolommen van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mailrapport van Prestaties omvatten:
 
-   | Kolom | Beschrijving |
-   |---|---|
-   | Hard geprononceerd | E-mail is geweigerd vanwege een permanente voorwaarde, zoals een niet-bestaand e-mailadres. |
-   | Zacht gebogen | E-mail is geweigerd vanwege een tijdelijke voorwaarde, zoals het uitvallen van een server of een volledig inbox. |
-   | In behandeling | Dit aantal wordt berekend door het aantal geleverde e-mails, afgeschreven berichten en zachte afrekeningen af te trekken van het totale aantal verzonden. |
-   | Klikte koppeling | Aantal e-mailontvangers dat op een koppeling in de e-mail heeft geklikt. |
-   | Niet geabonneerd | Aantal e-mailontvangers dat op het **Abonnement opzeggen** in de e-mail en het formulier invullen. |
-
-   >[!NOTE]
-   >
-   >Koppelingen en e-mailadressen waarop wordt geklikt opzeggen, worden niet geregistreerd onder Geklikte koppelingen in het rapport.
-
-Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mailbericht heeft geklikt, heeft hij of zij het e-mailbericht eerst geopend. We volgen deze specifieke regels voor het e-mailprestatierapport:
-
-* **Artikel 1**: Elke e-mailactiviteitenrecord is ingesteld op één van de volgende en slechts één van de volgende records: _Geleverd_, _Hard geprononceerd_, _Zacht gebogen_, of _In behandeling_.
-
-* **Artikel 2**: Als de e-mailrecord wordt weergegeven *Geopend*, wordt het meegeteld als *Geleverd*.
-
-* **Artikel 3**: Als de e-mailrecord wordt weergegeven _Op e-mail geklikt_ of _Abonnement opgezegd_, wordt het meegeteld als _Geleverd_ en _Geopend_.
-
-* **Artikel 4**: Als het e-mailbericht _Geopend_, worden grenzen genegeerd. Als het e-mailbericht niet is geopend, _Hard geprononceerd_ heeft voorrang boven _Zacht gebogen_ en _Geleverd_.
+   <table><thead>
+<tr>
+    <th>Kolom</th>
+    <th>Beschrijving</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Hard geprononceerd</td>
+    <td>E-mail is geweigerd vanwege een permanente voorwaarde, zoals een niet-bestaand e-mailadres.</td>
+  </tr>
+  <tr>
+    <td>Zacht gebogen</td>
+    <td>E-mail is geweigerd vanwege een tijdelijke voorwaarde, zoals het uitvallen van een server of een volledig inbox.</td>
+  </tr>
+  <tr>
+    <td>In behandeling</td>
+    <td>Dit aantal wordt berekend door het aantal geleverde e-mails, afgeschreven berichten en zachte afrekeningen af te trekken van het totale aantal verzonden.</td>
+  </tr>
+  <tr>
+    <td>Klikte koppeling</td>
+    <td>Aantal e-mailontvangers dat op een koppeling in de e-mail heeft geklikt.</td>
+  </tr>
+  <tr>
+    <td>Niet geabonneerd</td>
+    <td>Aantal e-mailontvangers dat op de koppeling Abonnement opzeggen in de e-mail heeft geklikt en het formulier heeft ingevuld.</td>
+  </tr>
+  <tr>
+    <td>Afgebroken</td>
+    <td>Aantal e-mails dat niet kon worden bezorgd en er is geen stuitgebeurtenis ontvangen. Een e-mailbericht wordt automatisch afgebroken genoemd als een antwoord niet binnen drie dagen na het verzenden van het e-mailbericht is ontvangen.</td>
+  </tr>
+</tbody></table>
 
 >[!NOTE]
 >
->Meervoudig verzendt van dezelfde campagne naar dezelfde persoon wordt slechts eenmaal geteld.
+>Koppelingen en e-mailadressen waarop wordt geklikt opzeggen, worden niet geregistreerd onder Geklikte koppelingen in het rapport.
+
+Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mailbericht heeft geklikt, heeft hij of zij het e-mailbericht eerst geopend. We volgen deze specifieke regels voor het e-mailprestatierapport:
+
+* **Regel 1**: Elk e-mailactiviteitenverslag wordt geplaatst aan één, en slechts één, van het volgende: _Geleverde_, _Vaste Begoten_, _Zachte Begoten_, of _Hangende_.
+
+* **Regel 2**: Als het e-mailverslag *Geopend* toont, wordt het geteld als *Geleverd*.
+
+* **Regel 3**: Als het e-mailverslag _Geklikte E-mail_ of _Geabonneerd_ toont, wordt het geteld als _Geleverd_ en _Geopend_.
+
+* **Regel 4**: Als e-mail _wordt geopend_, worden de stuitingen genegeerd. Als e-mail niet is geopend, _Vaste Omgeslagen_ neemt belangrijkheid over _Zacht die_ en _wordt teruggestuurd_.
+
+* **Regel 5**: Als geen e-mailactiviteit drie dagen nadat het werd verzonden wordt ontvangen, wordt het _Geaborteerd_ verondersteld.
+
+>[!NOTE]
+>
+>* Meervoudig verzendt van de zelfde campagne naar de zelfde persoon wordt slechts één keer geteld.
+>
+>* Meerdere verzendingen van verschillende campagnes naar dezelfde persoon worden afzonderlijk geteld.
 
 >[!MORELIKETHIS]
 >
->* [Middelen filteren in e-mailrapporten voor campagnes](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [E-mailkoppelingsprestatierapport](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [ de Filter Assets in Campagne E-mailRapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [ Rapport van de Prestaties van de Verbinding E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
