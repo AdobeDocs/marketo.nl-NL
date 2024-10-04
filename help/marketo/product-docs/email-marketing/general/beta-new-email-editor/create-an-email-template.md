@@ -4,9 +4,9 @@ title: Een e-mailsjabloon maken
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -39,13 +39,21 @@ ELKE STAP AANBIEDEN TOTDAT JE NAAR MARKETO GET?
 
 ## Uw sjabloon ontwerpen {#design-your-template}
 
-In het ontwerpscherm kunt u een aantal opties kiezen. Ontwerp helemaal zelf, importeer uw eigen HTML of kies een opgeslagen sjabloon (een van onze of een van uw eigen voorbeelden).
+In het ontwerp van uw sjabloonpagina kunt u een aantal opties kiezen. Ontwerp helemaal zelf, importeer uw eigen HTML of selecteer een bestaande sjabloon (een van onze voorbeelden of een sjabloon die u al hebt opgeslagen).
 
 >[!BEGINTABS]
 
 >[!TAB  Ontwerp van kras ]
 
-1. Selecteer **Ontwerp van kras**.
+Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met eenvoudige acties voor slepen en neerzetten.
+
+## Ontwerpen vanaf nul {#design-from-scratch}
+
+1. In het Ontwerp uw malplaatjepagina, uitgezochte **Ontwerp van kras**.
+
+   SCREENSHOT
+
+1. tekst.
 
    SCREENSHOT
 
@@ -55,13 +63,39 @@ In het ontwerpscherm kunt u een aantal opties kiezen. Ontwerp helemaal zelf, imp
 
 >[!TAB  HTML van de Invoer ]
 
-1. Selecteer HTML importeren.
+U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De inhoud kan zijn:
+
+* Een HTML-bestand met een opgenomen stijlblad
+
+* Een zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
+
+>[!NOTE]
+>
+>Er gelden geen beperkingen voor de .zip-bestandsstructuur. Verwijzingen moeten echter relatief zijn en passen bij de boomstructuur van de ZIP-map.
+
+## HTML importeren {#import-your-html}
+
+1. In het Ontwerp uw malplaatjepagina, uitgezochte **HTML van de Invoer**.
 
    SCREENSHOT
 
-1. Tekst.
+1. De belemmering en laat vallen het gewenste HTML of .zip dossier en klikt **Invoer**.
 
    SCREENSHOT
+
+   >[!CAUTION]
+   >
+   >Als u een `<table>` -tag als eerste laag in een HTML-bestand gebruikt, kan dit leiden tot stijlverlies, zoals de achtergrond- en breedte-instellingen in de bovenste laagtag.
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+IN TESTACCOUNT: INSTELLINGEN/STIJLEN/HTML-CONVERTER
 
 >[!TAB  malplaatjes van de Steekproef ]
 

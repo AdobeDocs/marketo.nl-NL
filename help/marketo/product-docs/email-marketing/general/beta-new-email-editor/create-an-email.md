@@ -4,9 +4,9 @@ title: Een e-mail maken
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Hier tekst starten.
 
    SCREENSHOT??
 
-ELKE STAP BIJLAGEN TOT JE NAAR MARKETO GET??
+   ELKE STAP BIJLAGEN TOT JE NAAR MARKETO GET??
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
@@ -37,4 +37,104 @@ ELKE STAP BIJLAGEN TOT JE NAAR MARKETO GET??
 
    ![](assets/create-an-email-4.png)
 
-Uw e-mailadres is gemaakt. Nu is het tijd om het te ontwerpen. KOPPELING
+## Uw e-mail ontwerpen {#design-your-email}
+
+1. Klik in het net gemaakte e-mailbericht op **+ E-mailinhoud toevoegen** .
+
+   SCREENSHOT
+
+1. De pagina &#39;Uw e-mailadres maken&#39; wordt geladen. U kunt uit een paar opties kiezen:
+
+* [Ontwerpen vanaf nul](#design-from-scratch)
+
+* [Uw eigen HTML importeren](#import-html)
+
+* [ selecteer een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds bewaarde)
+
+### Ontwerpen vanaf nul {#design-from-scratch}
+
+Korte intro
+
+1. Tekst
+
+   SCREENSHOT
+
+1. Tekst
+
+   SCREENSHOT
+
+1. Tekst
+
+   SCREENSHOT
+
+### HTML importeren {#import-html}
+
+U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De inhoud kan zijn:
+
+* Een HTML-bestand met een opgenomen stijlblad
+
+* Een zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
+
+>[!NOTE]
+>
+>Er gelden geen beperkingen voor de .zip-bestandsstructuur. Verwijzingen moeten echter relatief zijn en passen bij de boomstructuur van de ZIP-map.
+
+1. In het Ontwerp uw malplaatjepagina, uitgezochte **HTML van de Invoer**.
+
+   SCREENSHOT
+
+1. De belemmering en laat vallen het gewenste HTML of .zip dossier en klikt **Invoer**.
+
+   SCREENSHOT
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+### Een sjabloon kiezen {#choose-a-template}
+
+Er zijn twee typen sjablonen waaruit u kunt kiezen.
+
+* Voorbeeldsjablonen: Marketo Engage bevat vier e-mailsjablonen die buiten de box vallen.
+
+* Opgeslagen sjablonen: dit zijn geheel nieuwe sjablonen die u hebt gemaakt via het menu Sjablonen of via een e-mail die u hebt gemaakt en die u als sjabloon hebt opgeslagen.
+
+>[!BEGINTABS]
+
+>[!TAB  malplaatjes van de Steekproef ]
+
+Kies een van de vier out-of-the-box sjablonen voor een head start in uw e-mailontwerp.
+
+1. Selecteer Voorbeeldsjablonen op de pagina Uw e-mailbericht maken.
+
+   SCREENSHOT
+
+1. Selecteer de gewenste sjabloon.
+
+   SCREENSHOT
+
+1. Er wordt een voorbeeld weergegeven. Om uw selectie te bevestigen, klik **Gebruik dit malplaatje**.
+
+   SCREENSHOT
+
+>[!TAB  Bewaarde malplaatjes ]
+
+Kies een van de eerder gemaakte sjablonen.
+
+1. Selecteer Opgeslagen sjablonen op de pagina Uw e-mailbericht maken.
+
+   SCREENSHOT
+
+1. Selecteer de gewenste sjabloon.
+
+   SCREENSHOT
+
+1. Er wordt een voorbeeld weergegeven. Om uw selectie te bevestigen, klik **Gebruik dit malplaatje**.
+
+   SCREENSHOT
+
+>[!ENDTABS]
