@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9379'
 ht-degree: 0%
 
 ---
@@ -1737,6 +1737,7 @@ ht-degree: 0%
             + [Een campagneactiviteitenrapport filteren](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [Assets filteren in een campagne-e-mailrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [Assets filteren in een e-mailrapport](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [Verwijderde/samengevoegde records filteren in een e-mailprestatierapport](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [Personen groeperen op basis van kenmerk](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [E-mail rapporteren, campagneprestaties in alle werkruimten](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [Een model delen over werkruimten](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
