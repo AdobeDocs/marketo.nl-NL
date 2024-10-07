@@ -4,9 +4,9 @@ title: Een e-mailsjabloon maken
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Hier tekst starten.
 >
 >Dit artikel is alleen bedoeld voor leden van de gesloten bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
 
-1. Login aan [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/).
-
-   SCREENSHOT
-
-ELKE STAP AANBIEDEN TOTDAT JE NAAR MARKETO GET?
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
@@ -45,13 +41,9 @@ ELKE STAP AANBIEDEN TOTDAT JE NAAR MARKETO GET?
 
 In het ontwerp van uw sjabloonpagina kunt u een aantal opties kiezen. Ontwerp helemaal zelf, importeer uw eigen HTML of selecteer een bestaande sjabloon (een van onze voorbeelden of een sjabloon die u al hebt opgeslagen).
 
->[!BEGINTABS]
-
->[!TAB  Ontwerp van kras ]
+### Ontwerpen vanaf nul {#design-from-scratch}
 
 Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met eenvoudige acties voor slepen en neerzetten.
-
-## Ontwerpen vanaf nul {#design-from-scratch}
 
 1. In het Ontwerp uw malplaatjepagina, uitgezochte **Ontwerp van kras**.
 
@@ -77,7 +69,7 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
 >
 >Er gelden geen beperkingen voor de .zip-bestandsstructuur. Verwijzingen moeten echter relatief zijn en passen bij de boomstructuur van de ZIP-map.
 
-## HTML importeren {#import-your-html}
+### HTML importeren {#import-your-html}
 
 1. In het Ontwerp uw malplaatjepagina, uitgezochte **HTML van de Invoer**.
 
@@ -99,9 +91,19 @@ Once the HTML content is uploaded, your content will be in Compatibility mode.
 In this mode, you can only personalize your text, add links, or include assets to your content.
 ```
 
-IN TESTACCOUNT: INSTELLINGEN/STIJLEN/HTML-CONVERTER
+### Een sjabloon kiezen {#choose-a-template}
+
+Er zijn twee typen sjablonen waaruit u kunt kiezen.
+
+* Voorbeeldsjablonen: Marketo Engage bevat vier e-mailsjablonen die buiten de box vallen.
+
+* Opgeslagen sjablonen: dit zijn geheel nieuwe sjablonen die u hebt gemaakt via het menu Sjablonen of via een e-mail die u hebt gemaakt en die u als sjabloon hebt opgeslagen.
+
+>[!BEGINTABS]
 
 >[!TAB  malplaatjes van de Steekproef ]
+
+Kies een van de vier out-of-the-box sjablonen voor een head start in uw sjabloonontwerp voor e-mail.
 
 1. Selecteer Voorbeeldsjablonen.
 

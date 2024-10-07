@@ -4,9 +4,9 @@ title: Een e-mail maken
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ Hier tekst starten.
 >
 >Dit artikel is alleen bedoeld voor leden van de gesloten bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
 
-1. Login aan [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/).
-
-   SCREENSHOT??
-
-   ELKE STAP BIJLAGEN TOT JE NAAR MARKETO GET??
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
