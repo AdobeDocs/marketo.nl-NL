@@ -4,10 +4,10 @@ title: Overzicht
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
@@ -15,14 +15,18 @@ ht-degree: 5%
 
 Hier tekst starten.
 
-BELANGRIJKE TAG: Beta docs, niet verspreiden
+>[!IMPORTANT]
+>
+>Dit artikel is alleen bedoeld voor leden van de gesloten bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
 
-KOPPELEN AAN ALLE DOCS
+**Beschikbare artikelen**
 
-* [ creeer een e-mail ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}
+* [ creeer een e-mail ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}: Leer hoe te om een e-mail in de nieuwe redacteur tot stand te brengen en te ontwerpen.
 
-* [ hoe te om tot e-mail ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"} toegang te hebben
+* [ hoe te om tot een e-mail ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"} toegang te hebben: Leer hoe te om tot uw nieuwe redacteurs e-mails van Marketo Engage toegang te hebben.
 
-* [ creeer een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}
+* [ creeer een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: Leer hoe te om een e-mailmalplaatje in de nieuwe redacteur tot stand te brengen en te ontwerpen.
 
-* [ hoe te om tot een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"} toegang te hebben
+* [ hoe te om tot een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"} toegang te hebben: Leer hoe te om tot uw nieuwe redacteurs e-mails van Marketo Engage toegang te hebben.
+
+^^^ IS DIT LAATSTE DOC NOODZAKELIJK?

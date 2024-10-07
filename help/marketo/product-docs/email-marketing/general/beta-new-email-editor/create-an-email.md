@@ -4,9 +4,9 @@ title: Een e-mail maken
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Een e-mail maken {#create-an-email}
 
 Hier tekst starten.
+
+>[!IMPORTANT]
+>
+>Dit artikel is alleen bedoeld voor leden van de gesloten bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
 
 1. Login aan [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/).
 
@@ -36,6 +40,8 @@ Hier tekst starten.
 1. Voer een e-mailnaam en een onderwerpregel in. Klik **creëren**.
 
    ![](assets/create-an-email-4.png)
+
+Dat is het. Nu is het tijd om je e-mail te ontwerpen.
 
 ## Uw e-mail ontwerpen {#design-your-email}
 
@@ -138,3 +144,7 @@ Kies een van de eerder gemaakte sjablonen.
    SCREENSHOT
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[ hoe te om tot e-mail ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"} toegang te hebben
