@@ -3,9 +3,9 @@ description: Een webinar team toevoegen - Marketo Docs - Productdocumentatie
 title: Een webinar-team toevoegen
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Een webinar-team toevoegen {#add-a-webinar-team}
 
 Een webinar Team in Interactieve Webinars bestaat uit alle rollen die tot de succesvolle levering van webinar in Adobe Connect bijdragen. Dit geldt zowel voor presentatoren als voor co-hosts.
+
+>[!IMPORTANT]
+>
+>Het wordt hoogst geadviseerd dat u [ uw webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _ontwerpt alvorens_ presentatoren of co-hosts toevoegt.
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
 >[!PREREQUISITES]
 >
->[ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [ Ontwerp uw Interactieve Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Een cohost toevoegen {#add-a-co-host}
 
@@ -70,4 +76,4 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
 >[!MORELIKETHIS]
 >
->[ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}

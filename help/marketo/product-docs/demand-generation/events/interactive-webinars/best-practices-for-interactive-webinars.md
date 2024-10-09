@@ -3,9 +3,9 @@ description: Aanbevolen procedures voor interactieve webinars - Marketo Docs - P
 title: Beste praktijken voor Interactieve Webinars
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '1691'
+source-wordcount: '1704'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * Plan back-to-back-sessies niet. Zorg ervoor dat u ten minste 30 minuten voorbereidingstijd hebt voordat u met uw webinar begint. Zo kunt u laatste wijzigingen in de presentatie uploaden, uw microfoon en camera aanpassen en nieuwe presentatoren op de hoogte brengen van de interface.
 
-* Rollen toewijzen aan uw teamleden. Voeg deze toe als cohosts en presentatoren. Gastheren en presentatoren kunnen de ruimte betreden voordat deelnemers deelnemen.
+* Rollen toewijzen aan uw teamleden. Voeg deze toe als cohosts en presentatoren. Gastheren en presentatoren kunnen de ruimte betreden voordat deelnemers deelnemen. Maar ben zeker aan [ ontwerp uw Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _alvorens_ toe te voegen co-gastheren en Presentatoren.
 
 ### Uw gebeurtenis promoten {#promoting-your-event}
 
