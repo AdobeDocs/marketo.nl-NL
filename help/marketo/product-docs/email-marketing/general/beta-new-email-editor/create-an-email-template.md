@@ -4,9 +4,9 @@ title: Een e-mailsjabloon maken
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Hier tekst starten.
 >[!IMPORTANT]
 >
 >Dit artikel is alleen bedoeld voor leden van de gesloten bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
+
+>[!NOTE]
+>
+>E-mailsjablonen in de nieuwe e-maileditor kunnen alleen worden gebruikt om e-mailberichten te maken in de nieuwe e-maileditor. In de oude e-maileditor kan niet naar deze instellingen worden verwezen.
 
 1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
 
@@ -79,17 +83,19 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
 
    SCREENSHOT
 
+   >[!NOTE]
+   >
+   >Wanneer de HTML-inhoud wordt geüpload, wordt de inhoud in de compatibiliteitsmodus uitgevoerd. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
+
+1. Als u de Designer-inhoudsonderdelen voor e-mail wilt gebruiken, opent u het tabblad HTML converter en klikt u op Converteren.
+
+   SCREENSHOT
+
    >[!CAUTION]
    >
    >Als u een `<table>` -tag als eerste laag in een HTML-bestand gebruikt, kan dit leiden tot stijlverlies, zoals de achtergrond- en breedte-instellingen in de bovenste laagtag.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+U kunt het geïmporteerde bestand nu naar wens aanpassen met de visuele e-maileditor.
 
 ### Een sjabloon kiezen {#choose-a-template}
 
@@ -124,7 +130,3 @@ Kies een van de vier out-of-the-box sjablonen voor een head start in uw sjabloon
    SCREENSHOT
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[ hoe te om tot een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"} toegang te hebben

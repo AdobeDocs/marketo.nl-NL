@@ -4,30 +4,22 @@ title: Hoe te om tot een E-mail toegang te hebben
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # Hoe te om tot een E-mail toegang te hebben {#how-to-access-an-email}
 
-Hier tekst starten.
+Nadat u een e-mail in de nieuwe redacteur hebt gecreeerd, kunt u het in Slimme Campagnes of Slimme Lijsten dan van verwijzingen voorzien.
 
 >[!IMPORTANT]
 >
 >Dit artikel is alleen bedoeld voor leden van de gesloten bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
 
-1. Login aan [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/).
-
-   SCREENSHOT
-
-   ELKE STAP AANBIEDEN TOTDAT JE NAAR MARKETO GET?
-
-1. Selecteer Design Studio in Mijn Marketo.
-
-   SCREENSHOT
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
 
 1. Tekst
 
