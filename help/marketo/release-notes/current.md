@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '487'
 ht-degree: 2%
 
 ---
@@ -78,7 +78,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <ul>
    <li>Verwijderde en samengevoegde personen filteren van e-mailprestatiegegevens</li>
    <li>E-mail nu geclassificeerd als <i> geaborteerd </i> na het wachten drie dagen voor reactieactiviteit</li>
-   <li>E-mailadres voor account wordt geopend op campagnereniveau</li>
+   <li>E-mail wordt beschouwd als een unieke opening voor elke slimme campagne</li>
    <li>Verbeterde e-mailactiviteitstracering dankzij verfijning van de locatie van de volgende pixel</li>
    </td> 
    <td>Verzonden</td>

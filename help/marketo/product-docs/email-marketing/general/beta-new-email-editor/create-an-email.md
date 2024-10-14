@@ -4,9 +4,9 @@ title: Een e-mail maken
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,7 @@ SCREENSHOT
 
 ## Verwijzen naar een e-mail {#reference-an-email}
 
-Nadat u een e-mail in de nieuwe redacteur hebt gecreeerd, kunt u het in Slimme Campagnes of Slimme Lijsten van verwijzingen voorzien zoals u met een andere e-mail zou willen.
+Nadat u een e-mail in de nieuwe redacteur hebt gecreeerd, kunt u het in Slimme Campagnes en/of Slimme Lijsten van verwijzingen voorzien zoals u met een andere e-mail.
 
 * Verwijzing het in een Slimme Lijst door [ na de gebruikelijke stappen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
