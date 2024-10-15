@@ -4,27 +4,27 @@ title: Overzicht
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 2%
+source-wordcount: '60'
+ht-degree: 3%
 
 ---
 
 # Overzicht {#overview}
 
-Hier tekst starten.
+Starttekst.
 
 >[!IMPORTANT]
 >
->Dit artikel is alleen bedoeld voor leden van de gesloten bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
+>Dit artikel is alleen van toepassing op leden van de bètaversie van de Nieuwe Marketo Engage-e-maileditor. Verspreid niet.
+
+```
+DO WE WANT TO ADD A DESCRIPTIVE INTRO HERE?
+```
 
 **Beschikbare artikelen**
 
-* [ creeer een e-mail ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}: Leer hoe te om een e-mail in de nieuwe redacteur tot stand te brengen en te ontwerpen.
+* [ E-mail authoring ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe redacteur tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
 
-* [ hoe te om tot een e-mail ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"} toegang te hebben: Leer hoe te om tot uw nieuwe redacteurs e-mails van Marketo Engage toegang te hebben.
-
-^^^ TOEVOEGEN AAN HOOFDDOC KAN BETER ZIJN
-
-* [ creeer een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: Leer hoe te om een e-mailmalplaatje in de nieuwe redacteur tot stand te brengen en te ontwerpen.
+* [ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
