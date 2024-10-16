@@ -4,16 +4,16 @@ title: E-mailontwerp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 0%
 
 ---
 
 # E-mailontwerp {#email-authoring}
 
-Hier tekst starten.
+Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe Marketo Engage-e-mailtoepassing Designer.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Fouten verhinderen dat u de e-mail verzendt of test totdat deze is opgelost:
 
 * **E-mailversie van het bericht is leeg**: Deze fout komt voor wanneer de e-mailinhoud niet is gevormd.
 
-## Uw e-mail testen
+## Uw e-mail testen {#test-your-email}
 
 Wanneer de inhoud van uw bericht is gedefinieerd, kunt u testprofielen gebruiken om deze voor te vertonen, proefdrukken te verzenden en om te bepalen hoe deze wordt weergegeven in populaire desktops, mobiele clients en webclients. Als u gepersonaliseerde inhoud opnam, kunt u controleren hoe het in het bericht wordt getoond gebruikend de gegevens van het testprofiel.
 
