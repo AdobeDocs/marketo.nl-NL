@@ -4,9 +4,9 @@ title: E-mailontwerp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1457'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -141,7 +141,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
    >
    >Selecteer de n:n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 1. Sleep in het gedeelte Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
 
-   SCREENSHOT
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Elke component kan worden aangepast via de tabbladen Instellingen of Stijl. Wijzig het lettertype, de tekststijl, de marge en meer.
-
-SCREENSHOT
 
 ### Assets toevoegen {#add-assets}
 
@@ -261,11 +259,13 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
 
 1. Klik op het pictogram Koppelingen om alle URL&#39;s in uw e-mail weer te geven.
 
-   SCREENSHOT
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Klik op het potloodpictogram om de tekstspatiëring voor de gewenste koppelingen te bewerken.
 
-   SCREENSHOT
+1. Klik het **Volgen Type** drop-down en maak uw selectie.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ Wanneer de inhoud van uw bericht is gedefinieerd, kunt u testprofielen gebruiken
 
 Om uw e-mailinhoud voor te vertonen, klik **inhoud** simuleren, dan voeg een testprofiel toe om uw bericht te controleren gebruikend de gegevens van het testprofiel.
 
-SCREENSHOT
+![](assets/test-your-email-1.png)
 
 ## Verwijzen naar een e-mail {#reference-an-email}
 

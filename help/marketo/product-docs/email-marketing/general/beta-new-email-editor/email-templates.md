@@ -4,9 +4,9 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1655'
+source-wordcount: '1711'
 ht-degree: 0%
 
 ---
@@ -149,8 +149,6 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 1. Elke component kan worden aangepast via de tabbladen Instellingen of Stijl. Wijzig het lettertype, de tekststijl, de marge en meer.
 
-SCREENSHOT
-
 ### Assets toevoegen {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
 ### Inhoud personaliseren {#personalize-content}
 
-Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het pictogram ziet er anders uit.
+Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het pictogram ziet er anders uit. In het onderstaande voorbeeld wordt een voornaamtoken toegevoegd met terugvaltekst.
 
-1. Selecteer de tekstcomponent en klik **verpersoonlijking** pictogram toevoegen.
+1. Selecteer de tekstcomponent. Plaats de curseur waar u het teken wilt verschijnen en **klikken verpersoonlijking** pictogram toevoegt.
 
-   SCREENSHOT
+   ![](assets/personalize-content-1.png)
 
 1. Klik het gewenste [ symbolische type ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/personalize-content-2.png)
 
-1. Klik op + of ... om een token toe te voegen aan de lege ruimte.
+1. Zoek het gewenste token en klik op het pictogram **...** (als u op het pictogram + klikt, wordt in plaats daarvan een token zonder terugvaltekst toegevoegd).
 
-   SCREENSHOT
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >De &quot;tekst van de reserve&quot;is de nieuwe redacteurstermijn voor standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}``
+   >De &quot;tekst van de reserve&quot;is de nieuwe redacteurstermijn voor standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}`` . Het wordt aanbevolen als er geen waarde is voor de persoon in het veld dat u kiest.
 
-1. Klik **sparen** wanneer gedaan.
+1. Plaats uw reservetekst en klik **toevoegen**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Klik **sparen**.
 
 ### URL-tracking bewerken {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
 
 1. Klik op het pictogram Koppelingen om alle URL&#39;s in uw e-mail weer te geven.
 
-   SCREENSHOT
+   ![](assets/edit-url-tracking-1.png)
 
 1. Klik op het potloodpictogram om de tekstspatiëring voor de gewenste koppelingen te bewerken.
 
-   SCREENSHOT
+1. Klik het **Volgen Type** drop-down en maak uw selectie.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?
