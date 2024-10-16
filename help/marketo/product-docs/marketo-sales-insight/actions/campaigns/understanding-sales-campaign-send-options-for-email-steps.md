@@ -3,7 +3,7 @@ description: Een goed begrip van de verzendopties voor verkoopcampagne voor e-ma
 title: Verzendopties voor verkoopcampagne voor e-mailstappen
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -77,3 +77,4 @@ Voor alle volgende dagen/stappen in uw verkoopcampagne hebt u de volgende opties
 >[ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >[De Types van Stap van de Campagne van de verkoop en de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[De Montages van de Campagne van de verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+

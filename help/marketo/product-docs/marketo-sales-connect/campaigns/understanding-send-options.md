@@ -4,7 +4,7 @@ description: Werken met verzendopties - Marketo Docs - Productdocumentatie
 title: Opties voor verzenden
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ Voor alle volgende dagen/stappen in uw campagne hebt u de volgende opties:
 **Verbind deze e-mail met vorige e-mail**
 
 * Deze verzendoptie is een &#39;follow-up&#39; van uw vorige e-mail en voegt de vorige e-mailtekst onder aan deze e-mail toe.
+

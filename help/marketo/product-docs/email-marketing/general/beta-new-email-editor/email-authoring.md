@@ -4,9 +4,9 @@ title: E-mailontwerp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1457'
 ht-degree: 0%
 
 ---
@@ -196,14 +196,38 @@ Klik, indien gereed, op Opslaan
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten voor meer korrelige het uitgeven toegang te hebben.
+Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten voor meer korrelige het uitgeven toegang te hebben. Klik op het pictogram Navigatieboom om toegang te krijgen.
 
-1. Klik op het pictogram Navigatieboom om toegang te krijgen.
+![](assets/authoring-layers-settings-styles-1.png)
 
-SCREENSHOT
+In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen van de opvulling en de verticale uitlijning binnen een structuurcomponent die uit kolommen bestaat.
 
+1. Selecteer de kolom in de structuurcomponent direct in het canvas of gebruikend de _boom van de Navigatie_ die bij de linkerzijde wordt getoond.
 
+1. Klik in de kolomwerkbalk op het gereedschap _[!UICONTROL Select a column]_en kies het gereedschap dat u wilt bewerken.
 
+   U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_en_[!UICONTROL Styles]_ rechts.
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_aan de rechterkant en wijzigt u deze naar wens:
+
+   * Wijzig voor **[!UICONTROL Background]** de achtergrondkleur zo nodig.
+
+     Schakel het selectievakje voor een transparante achtergrond uit. Schakel de instelling **[!UICONTROL Background image]** in om een afbeelding te gebruiken als achtergrond in plaats van als een effen kleur.
+
+   * Voor **[!UICONTROL Alignment]**, selecteer de _Hoogste_, _Midden_, of _Onderste_ pictogram.
+   * Definieer bij **[!UICONTROL Padding]** de opvulling voor alle zijden.
+
+     Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot {om synchronisatie te breken.
+
+   * Vouw de sectie **[!UICONTROL Advanced]** uit om inline stijlen voor de kolom te definiëren.
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. Herhaal deze stappen zo nodig om de uitlijning en opvulling voor de andere kolommen in de component aan te passen.
+
+1. Sla uw wijzigingen op.
 
 ### Inhoud personaliseren {#personalize-content}
 
