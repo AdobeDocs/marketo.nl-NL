@@ -4,9 +4,9 @@ title: E-mailontwerp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,9 @@ Dat is het. Nu is het tijd om je e-mail te ontwerpen.
 
 ## Kies uw inhoudstype {#choose-your-content-type}
 
-1. Klik in het net gemaakte e-mailbericht op **+ E-mailinhoud toevoegen** .
+1. In e-mail u enkel creeerde, klik **toevoegen e-mailinhoud**.
 
-   SCREENSHOT
+   ![](assets/choose-your-content-type-1.png)
 
 1. _creeer uw e-mail_ pagina laadt. U kunt uit een paar opties kiezen:
 
@@ -83,11 +83,9 @@ U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan
 
 1. In het Ontwerp uw malplaatjepagina, uitgezochte **HTML van de Invoer**.
 
-   SCREENSHOT
+1. De belemmering en laat vallen het gewenste HTML of .zip dossier (of selecteert een dossier van uw computer) en klikt **de Invoer**.
 
-1. De belemmering en laat vallen het gewenste HTML of .zip dossier en klikt **Invoer**.
-
-   SCREENSHOT
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ Er zijn twee typen sjablonen waaruit u kunt kiezen.
 
 >[!TAB  malplaatjes van de Steekproef ]
 
-Kies een van onze out-of-the-box sjablonen voor een head start in uw e-mailontwerp.
+Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwerp voor e-mail.
 
-1. In Create uw e-mailpagina, uitgezochte **malplaatjes van de Steekproef**.
+1. Het tabblad Voorbeeldsjablonen is standaard geopend.
 
-   SCREENSHOT
+1. Selecteer de sjabloon die u wilt gebruiken.
 
-1. Selecteer de gewenste sjabloon.
+   ![](assets/authoring-sample-templates-1.png)
 
-   SCREENSHOT
+1. Klik **Gebruik dit malplaatje**.
 
-1. Er wordt een voorbeeld weergegeven. Om uw selectie te bevestigen, klik **Gebruik dit malplaatje**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   SCREENSHOT
+1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
 >[!TAB  Bewaarde malplaatjes ]
 
-Kies een van de eerder gemaakte sjablonen.
+1. Klik het **Bewaarde malplaatjes** lusje en selecteer het gewenste malplaatje.
 
-1. In Create uw e-mailpagina, uitgezochte **Bewaarde malplaatjes**.
+   ![](assets/authoring-saved-templates-1.png)
 
-   SCREENSHOT
+1. Klik **Gebruik dit malplaatje**.
 
-1. Selecteer de gewenste sjabloon.
+   ![](assets/authoring-saved-templates-2.png)
 
-   SCREENSHOT
-
-1. Er wordt een voorbeeld weergegeven. Om uw selectie te bevestigen, klik **Gebruik dit malplaatje**.
-
-   SCREENSHOT
+1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ SCREENSHOT
 
 ### Inhoud personaliseren {#personalize-content}
 
-Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het pictogram ziet er anders uit.
+Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het pictogram ziet er anders uit. In het onderstaande voorbeeld wordt een voornaamtoken toegevoegd met terugvaltekst.
 
-1. Selecteer de tekstcomponent en klik **verpersoonlijking** pictogram toevoegen.
+1. Selecteer de tekstcomponent. Plaats de curseur waar u het teken wilt verschijnen en **klikken verpersoonlijking** pictogram toevoegt.
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Klik het gewenste [ symbolische type ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Klik op + of ... om een token toe te voegen aan de lege ruimte.
+1. Zoek het gewenste token en klik op het pictogram **...** (als u op het pictogram + klikt, wordt in plaats daarvan een token zonder terugvaltekst toegevoegd).
 
-   SCREENSHOT
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >De &quot;tekst van de reserve&quot;is de nieuwe redacteurstermijn voor standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}``
+   >De &quot;tekst van de reserve&quot;is de nieuwe redacteurstermijn voor standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}`` . Het wordt aanbevolen als er geen waarde is voor de persoon in het veld dat u kiest.
 
-1. Klik **sparen** wanneer gedaan.
+1. Plaats uw reservetekst en klik **toevoegen**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Klik **sparen**.
 
 ### URL-tracking bewerken {#edit-url-tracking}
 

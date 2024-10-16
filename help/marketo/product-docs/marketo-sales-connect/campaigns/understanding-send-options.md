@@ -4,9 +4,9 @@ description: Werken met verzendopties - Marketo Docs - Productdocumentatie
 title: Opties voor verzenden
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
@@ -19,43 +19,47 @@ Als het uw eerste stap en de eerste dag in uw Campagne is, zult u de volgende op
 
 ![](assets/image2019-10-25-10-43-19.png)
 
-Ik kies wanneer ik deze e-mail verstuur
+**ik zal kiezen wanneer om deze e-mail** te verzenden
 
 * Met deze optie kunt u de tijd &#39;Verzenden op&#39; kiezen voor de eerste e-mail in uw campagne wanneer u de campagne afbreekt door mensen toe te voegen.
 
-Deze e-mail op het volgende moment verzenden
+**verzend deze e-mail op de volgende tijd**
 
 * Wanneer u uw campagne start door er mensen aan toe te voegen, plannen we de e-mail voor deze keer.
 * U hebt altijd de optie om een nieuw &quot;verzend bij&quot;tijdstip te kiezen wanneer u van uw Campagne schopt.
 
-Een taak creëren; Ik stuur deze e-mail zelf
+**creeer een taak; ik zal deze e-mail zelf verzenden**
 
 * Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
 * Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne start, zullen wij deze taken omhoog voor u in het Centrum van het Bevel en Levend Feed in de rij plaatsen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
-   * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen.
+   * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de gekozen sjabloon.
    * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.
 
 Voor alle volgende dagen/stappen in uw campagne hebt u de volgende opties:
 
-Deze e-mail verzenden op hetzelfde moment als de vorige e-mail in deze campagne
+**verzend deze e-mail tezelfdertijd zoals vorige e-mail in deze Campagne**
 
 * Met deze optie wordt het e-mailbericht tegelijk met het e-mailbericht direct vóór het bericht verzonden.
 * Het zal nog verzenden op de dag het met wordt geassocieerd.
 
-Deze e-mail op het volgende moment verzenden
+>[!IMPORTANT]
+>
+>Het verzenden van een e-mailbericht tegelijk met het vorige e-mailbericht wordt niet ondersteund voor e-mails die op dezelfde dag worden verzonden. In plaats daarvan wordt het e-mailbericht verzonden op het moment dat het van de vorige dag is verzonden. Als deze optie is geselecteerd voor een e-mail op de eerste dag van de campagne (niet aanbevolen), wordt die e-mail direct verzonden aan het begin van de campagne.
+
+**verzend deze e-mail op de volgende tijd**
 
 * Wanneer u uw campagne start door er mensen aan toe te voegen, plannen we de e-mail voor deze keer.
 * U hebt altijd de optie om een nieuw &quot;verzend bij&quot;tijdstip te kiezen wanneer u van uw Campagne schopt.
 
-Een taak creëren; Ik stuur deze e-mail zelf
+**creeer een taak; ik zal deze e-mail zelf verzenden**
 
 * Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
 * Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne start, zal Tout deze taken omhoog voor u in het Centrum van het Bevel en Levende Diervoed in de rij plaatsen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
-   * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen.
+   * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de gekozen sjabloon.
    * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.
 
-Deze e-mail naar de vorige e-mail verzenden
+**Verbind deze e-mail met vorige e-mail**
 
 * Deze verzendoptie is een &#39;follow-up&#39; van uw vorige e-mail en voegt de vorige e-mailtekst onder aan deze e-mail toe.

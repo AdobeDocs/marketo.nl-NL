@@ -4,16 +4,16 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1592'
 ht-degree: 0%
 
 ---
 
 # E-mailsjablonen {#email-templates}
 
-Hier tekst starten.
+Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjablonen maken om aangepaste inhoud eenvoudig te hergebruiken.
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ Hier tekst starten.
 
 In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [ Ontwerp van kras ](#design-from-scratch), [ voert uw eigen HTML ](#import-html) in, of [ selecteert een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
 
+![](assets/design-your-template-1.png)
+
 ### Ontwerpen vanaf nul {#design-from-scratch}
 
 Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met eenvoudige acties voor slepen en neerzetten.
 
 1. In het _Ontwerp uw malplaatje_ pagina, uitgezocht **Ontwerp van kras**.
-
-   SCREENSHOT
 
 1. Voeg [ structuur en inhoud ](#add-structure-and-content) toe.
 
@@ -71,11 +71,9 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
 
 1. In het _Ontwerp uw malplaatje_ pagina, uitgezochte **HTML van de Invoer**.
 
-   SCREENSHOT
+1. De belemmering en laat vallen het gewenste HTML of .zip dossier (of selecteert een dossier van uw computer) en klikt **de Invoer**.
 
-1. De belemmering en laat vallen het gewenste HTML of .zip dossier en klikt **Invoer**.
-
-   SCREENSHOT
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ Er zijn twee typen sjablonen waaruit u kunt kiezen.
 
 >[!TAB  malplaatjes van de Steekproef ]
 
-Kies een van de vier out-of-the-box sjablonen voor een head start in uw sjabloonontwerp voor e-mail.
+Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwerp voor e-mail.
 
-1. Selecteer Voorbeeldsjablonen.
+1. Het tabblad Voorbeeldsjablonen is standaard geopend.
 
-   SCREENSHOT
+1. Selecteer de sjabloon die u wilt gebruiken.
 
-1. Tekst.
+   ![](assets/sample-templates-1.png)
 
-   SCREENSHOT
+1. Klik **Gebruik dit malplaatje**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
 >[!TAB  Bewaarde malplaatjes ]
 
-1. Selecteer Opgeslagen sjablonen.
+1. Klik het **Bewaarde malplaatjes** lusje en selecteer het gewenste malplaatje.
 
-   SCREENSHOT
+   ![](assets/saved-templates-1.png)
 
-1. Tekst.
+1. Klik **Gebruik dit malplaatje**.
 
-   SCREENSHOT
+   ![](assets/saved-templates-2.png)
+
+1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ Kies een van de vier out-of-the-box sjablonen voor een head start in uw sjabloon
    >
    >Selecteer de n:n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ Kies een van de vier out-of-the-box sjablonen voor een head start in uw sjabloon
 
 1. Sleep in het gedeelte Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
 
-   SCREENSHOT
+   ![](assets/add-structure-and-content-2.png)
 
 1. Elke component kan worden aangepast via de tabbladen Instellingen of Stijl. Wijzig het lettertype, de tekststijl, de marge en meer.
 
@@ -194,6 +198,30 @@ Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten v
 
 SCREENSHOT
 
+
+In het onderstaande voorbeeld wordt beschreven hoe u opvulling en verticale uitlijning kunt aanpassen binnen een structuurcomponent die uit drie kolommen bestaat.
+
+Selecteer de structuurcomponent rechtstreeks in de e-mail of met behulp van de navigatiestructuur die beschikbaar is in het menu aan de linkerkant.
+
+Klik in de werkbalk op Een kolom selecteren en kies de kolom die u wilt bewerken. U kunt deze ook selecteren in de boomstructuur.
+
+De bewerkbare parameters voor die kolom worden weergegeven op het tabblad Stijlen.
+
+
+
+Selecteer Boven, Midden of Onder Uitlijning onder.
+
+
+
+Definieer onder Opvulling de opvulling voor alle zijden.
+
+Selecteer Verschillende opvulling voor elke zijde als u de opvulling wilt verfijnen. Klik op het vergrendelingspictogram om de synchronisatie te verbreken.
+
+
+
+Ga op dezelfde manier te werk om de uitlijning en opvulling van de andere kolommen aan te passen.
+
+Sla uw wijzigingen op.
 
 
 
