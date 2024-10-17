@@ -2,9 +2,9 @@
 description: Salesforce Sync Backlog Metrics - Marketo Docs - Productdocumentatie
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Wanneer een grote hoeveelheid updates wordt gemaakt (zoals van een veranderend g
 
 ## Aanbevolen procedures voor het beheren van synchronisatiebacklogs {#best-practices}
 
-**Gebieden zichtbaar aan de Gebruiker van de Synchronisatie**: Zorg ervoor dat de gebieden zichtbaar aan synchronisatie slechts die zijn die moeten worden gesynchroniseerd en waarde aan marketing inspanningen hebben. Bij elke update van een record in Salesforce die het laatst gewijzigde tijdstempel bijwerkt, wordt een record in de wachtrij geplaatst van de synchronisatieachterstand. Hierdoor kan het langer duren voordat belangrijke velden gesynchroniseerd raken. Als de onnodige velden verborgen zijn voor de synchronisatiegebruiker, wordt bij het bijwerken van deze velden een overgeslagen waarde weergegeven die veel sneller is dan bij een update. Werk hier samen met uw Salesforce-beheerder de aanbevolen procedures bij en werk bij welke velden zichtbaar zijn voor de Marketo Sync-gebruiker.
+**Gebieden zichtbaar aan de Gebruiker van de Synchronisatie**: Zorg ervoor dat de gebieden zichtbaar aan synchronisatie slechts die zijn die moeten worden gesynchroniseerd en waarde aan marketing inspanningen hebben. Bij elke update van een record in Salesforce die het laatst gewijzigde tijdstempel bijwerkt, wordt een record in de wachtrij geplaatst van de synchronisatieachterstand. Hierdoor kan het langer duren voordat belangrijke velden gesynchroniseerd raken. Als de onnodige velden verborgen zijn voor de synchronisatiegebruiker, wordt bij het bijwerken van deze velden een overgeslagen waarde weergegeven die veel sneller is dan bij een update. Het werk met uw Admin van Salesforce om beste praktijken [ hier ](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449) {target="_blank"} te herzien en bij te werken welke gebieden aan de Gebruiker van de Synchronisatie van Marketo zichtbaar zijn.
 
 **Verberg of filter onnodige verslagen**: Als een verslag niet verhandelbaar is, kan het synchronisatiemiddelen verspillen. Als de synchronisatiegebruiker het niet kan zien, verspilt het geen middelen die proberen om het te synchroniseren. [ de Steun van het Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support#_blank) {target="_blank"} kan opstelling helpen een synchronisatiefilter om verslagen te remmen die op extra criteria worden gebaseerd. Meer informatie over vestiging een Filter van de Synchronisatie van de Douane [ kan hier ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758) worden gevonden {target="_blank"}. Het wordt sterk geadviseerd om indexgebieden binnen Salesforce te gebruiken (contactverkopers voor verdere informatie).
 
