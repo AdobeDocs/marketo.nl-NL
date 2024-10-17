@@ -4,7 +4,7 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1711'
 ht-degree: 0%
@@ -93,9 +93,9 @@ U kunt het geïmporteerde bestand nu naar wens aanpassen met de visuele e-mailed
 
 Er zijn twee typen sjablonen waaruit u kunt kiezen.
 
-* Voorbeeldsjablonen: Marketo Engage bevat vier e-mailsjablonen die buiten de box vallen.
+* **malplaatjes van de Steekproef**: Marketo Engage biedt vier uit-van-de-doos e-mailmalplaatjes aan.
 
-* Opgeslagen sjablonen: dit zijn geheel nieuwe sjablonen die u hebt gemaakt via het menu Sjablonen of via een e-mail die u hebt gemaakt en die u als sjabloon hebt opgeslagen.
+* **Bewaarde malplaatjes**: Dit zijn malplaatjes u van kras gebruikend het menu van Malplaatjes creeerde, of e-mail u creeerde en verkoos om als malplaatje te bewaren.
 
 >[!BEGINTABS]
 
