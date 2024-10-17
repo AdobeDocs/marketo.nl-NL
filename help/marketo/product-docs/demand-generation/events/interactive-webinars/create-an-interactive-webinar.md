@@ -3,9 +3,9 @@ description: Een interactief webinar maken - Marketo Docs - Productdocumentatie
 title: Een interactief webinar maken
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Maak een interactief webinar in een paar eenvoudige stappen.
    >* U kunt een webinar-titel niet opnieuw gebruiken. Elke moet uniek zijn in je Marketo-exemplaar.
    >
    >* U kunt de webinar titel desgewenst in een later stadium wijzigen.
+   >
+   >* Als u een testwebinar creeert, moet het vóór zijn begintijd worden geschrapt om ervoor te zorgen dat de vergunning voor dat webinar niet wordt gebruikt.
 
 1. Plan de datum/de tijd van uw webinar en klik **creëren**.
 

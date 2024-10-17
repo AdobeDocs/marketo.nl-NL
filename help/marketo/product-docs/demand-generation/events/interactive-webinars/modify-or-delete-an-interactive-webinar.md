@@ -3,9 +3,9 @@ description: Een interactief webinar wijzigen of verwijderen - Marketo Docs - Pr
 title: Een interactief webinar wijzigen of verwijderen
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Leer hoe u wijzigingen aanbrengt in uw interactief webinar.
 
 ## Een interactief webinar wijzigen {#modify-an-interactive-webinar}
 
-1. Selecteer het gewenste gebeurtenisprogramma en klik op **Ruimte/sjabloon wijzigen**.
+1. Selecteer het gewenste Programma van de Gebeurtenis en klik **Zaal/Malplaatje van de Verandering**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. De kamer wordt geladen. Als u de ruimte wilt wijzigen, selecteert u een ruimte in de vervolgkeuzelijst Ruimten. Klik op **Ruimte gebruiken**.
+1. De kamer wordt geladen. Als u de ruimte wilt wijzigen, selecteert u een ruimte in de vervolgkeuzelijst Ruimten. Om enkel uw malplaatje bij te werken, klik {de Ruimte van het 0} Gebruik **.**
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -28,15 +28,15 @@ Leer hoe u wijzigingen aanbrengt in uw interactief webinar.
 >
 >Het wijzigen van de ruimte is optioneel en is niet vereist om de sjabloon bij te werken.
 
-1. Klikken **Uw webinar nu verfijnen**.
+1. Klik **verfijnen nu Uw Webinar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. Selecteer uw voorkeuren voor audio/video en klik op **Ruimte betreden**.
+1. Selecteer uw audio/videovoorkeur en klik **binnengaan Ruimte**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. Wanneer u klaar bent met het aanbrengen van uw wijzigingen, klik **Ruimte verlaten**.
+1. Wanneer u wordt gedaan die uw wijzigingen aanbrengt, klik **Ruimte van de Uitgang**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -46,7 +46,7 @@ Leer hoe u wijzigingen aanbrengt in uw interactief webinar.
 
    ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
-1. Klik op het kalenderpictogram, kies de nieuwe datum/tijd en klik op **Opslaan**.
+1. Klik het kalenderpictogram, kies de nieuwe datum/de tijd, en klik **sparen**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
@@ -56,19 +56,19 @@ Leer hoe u wijzigingen aanbrengt in uw interactief webinar.
 
    ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. Klik op de vervolgkeuzelijst Programmaacties en selecteer **Klonen**.
+1. Klik de drop-down Acties van het Programma en selecteer **Kloon**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-9.png)
 
    >[!TIP]
    >
-   >U kunt ook met de rechtermuisknop op het gebeurtenisprogramma in de boomstructuur klikken en **Klonen** vanaf daar.
+   >U kunt ook met de rechtermuisknop op het Programma van de Gebeurtenis in de boom klikken en **Kloon** van daar selecteren.
 
-1. Geef het gekloonde programma een naam, stel de Workspace en de Bestemming in (als u het programma ergens anders wilt laten wonen) en klik op **Opslaan**.
+1. Geef het gekloonde programma een naam, plaats Workspace en de Bestemming (als u het programma wilt elders leven), en klik **sparen**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Klikken **Volgende**.
+1. Klik **daarna**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 
@@ -76,25 +76,29 @@ Leer hoe u wijzigingen aanbrengt in uw interactief webinar.
    >
    >U kunt op dit moment alleen een gekloond interactief webinar opslaan als een interactief webinar. Een gekloonde webinar opslaan als een Partner Webinar (bijvoorbeeld Zoomen, ON24, enz.) is binnenkort beschikbaar.
 
-1. Kies de instellingen voor uw gekloonde webinar en klik op **Klonen**.
+1. Kies de montages voor uw gekloonde webinar en klik **Kloon**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## Een interactief webinar verwijderen {#delete-an-interactive-webinar}
 
+>[!NOTE]
+>
+>Als u een testwebinar creeert, moet het vóór zijn begintijd worden geschrapt om ervoor te zorgen dat de vergunning voor dat webinar niet wordt gebruikt.
+
 1. Selecteer het gewenste gebeurtenisprogramma.
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
 
-1. Klik op de vervolgkeuzelijst Programmaacties en selecteer **Verwijderen**.
+1. Klik de drop-down Acties van het Programma en selecteer **Schrapping**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-14.png)
 
    >[!TIP]
    >
-   >U kunt ook met de rechtermuisknop op het gebeurtenisprogramma in de boomstructuur klikken en **Verwijderen** vanaf daar.
+   >U kunt ook met de rechtermuisknop op het Programma van de Gebeurtenis in de boom klikken en **Schrapping** van daar selecteren.
 
-1. Klikken **Verwijderen**.
+1. Klik **Schrapping**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-15.png)
 
