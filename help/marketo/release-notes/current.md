@@ -3,10 +3,10 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
+source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 2%
+source-wordcount: '515'
+ht-degree: 1%
 
 ---
 
@@ -83,6 +83,17 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    </td> 
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-mailprestatierapport</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr> 
+   <td><strong> de Metriek van de Achtergrond van de Synchronisatie van Salesforce </strong>: De synchrone productie en de tendensen van de backlog van de monitor om de updates van CRM voor een optimale synchronisatieervaring te plannen en te plannen.
+   </td> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync Backlog Metrics</a></td>
   </tr>
  </tbody> 
 </table>
