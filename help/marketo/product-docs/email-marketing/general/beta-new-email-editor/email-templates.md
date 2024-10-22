@@ -4,7 +4,7 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1711'
 ht-degree: 0%
@@ -156,7 +156,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
 ```
 
 1. Klik op het pictogram Asset Selector om uw afbeeldingen te openen.
@@ -187,7 +187,7 @@ Klik, indien gereed, op Opslaan
 ### Lagen, instellingen en stijlen {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH IS CHECKING
 ```
 
 Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten voor meer korrelige het uitgeven toegang te hebben. Klik op het pictogram Navigatieboom om toegang te krijgen.
@@ -266,7 +266,7 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
    ```
    LABEL?
    
-   TAGS?
+   TAGS? - NILESH IS LOOKING INTO IT
    ```
 
    <table><tbody>
@@ -342,7 +342,7 @@ Deze actie kan worden uitgevoerd op:
 * De _e-mailmalplaatjes_ lijst pagina - klik het Meer actiepictogram (drie punten) van het gewenste e-mailmalplaatje en kies uitgeven.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
 ```
 
 Deze actie neemt u aan het _Ontwerp uw malplaatje_ pagina of de visuele pagina van de inhoudsredacteur die op het laatste bewaarde statuut van het e-mailmalplaatje wordt gebaseerd. Vanaf hier kunt u de inhoud van uw e-mailsjabloon naar wens bewerken. Zie E-mailsjablonen maken voor informatie over de bewerkingsopties.

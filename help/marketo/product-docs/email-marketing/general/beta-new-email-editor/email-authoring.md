@@ -4,7 +4,7 @@ title: E-mailontwerp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 0%
@@ -160,7 +160,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
 ```
 
 1. Klik op het pictogram Asset Selector om uw afbeeldingen te openen.
@@ -191,7 +191,7 @@ Klik, indien gereed, op Opslaan
 ### Lagen, instellingen en stijlen {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH WILL CHECK
 ```
 
 Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten voor meer korrelige het uitgeven toegang te hebben. Klik op het pictogram Navigatieboom om toegang te krijgen.
@@ -268,9 +268,9 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
    ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
-   LABEL?
+   LABEL? - just what URL shows as (ex: my site)
    
-   TAGS?
+   TAGS? - NILESH WILL CHECK ON HOW THEY WORK
    ```
 
    <table><tbody>
