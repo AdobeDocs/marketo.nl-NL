@@ -4,20 +4,20 @@ description: Sync inschakelen voor een aangepaste entiteit - Marketo Docs - Prod
 title: Sync inschakelen voor een aangepaste entiteit
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
 # Sync inschakelen voor een aangepaste entiteit {#enable-sync-for-a-custom-entity}
 
-Als u de gegevens van de douaneentiteit van Dynamica in Marketo Engage beschikbaar moet zijn, is hier hoe te om de synchronisatie voor het toe te laten.
+Als u de gegevens van de douaneentiteit van Dynamica in Marketo Engage beschikbaar moet zijn, is hier hoe te om de synchronisatie voor het toe te laten. {de toestemmingen van 0} Admin worden vereist **.**
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**Vereiste Bevoegdheden Admin**
+>Om een douanevoorwerp te gebruiken, moet het aan a [ lood ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}, [ contact ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"}, of [ rekening ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"} voorwerp in Microsoft Dynamics worden geassocieerd.
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Als u de gegevens van de douaneentiteit van Dynamica in Marketo Engage beschikba
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Selecteer de gebieden u als [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of trekkers (voor toegevoegde verslagen, _niet_ bijgewerkt) in Slimme Lijsten wilt synchroniseren of gebruiken. Klik op **[!UICONTROL Enable Sync]** als u klaar bent.
+1. Selecteer de gebieden u als [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} en/of trekkers (voor toegevoegde verslagen, _niet_ bijgewerkt) in Slimme Lijsten wilt synchroniseren of gebruiken. Klik op **[!UICONTROL Enable Sync]** als u klaar bent.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
