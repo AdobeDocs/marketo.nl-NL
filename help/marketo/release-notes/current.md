@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d6cdd3063d22e0b9f132eaa828695f1d2fdc634
+source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '559'
 ht-degree: 1%
 
 ---
@@ -100,6 +100,9 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 <br/>
 
 ## Aankondigingen {#announcements}
+
+* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
+
 
 * **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik te deactiveren, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van het Marketo Engage.
 
