@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
+source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
 workflow-type: tm+mt
 source-wordcount: '9370'
 ht-degree: 0%
@@ -1099,10 +1099,10 @@ ht-degree: 0%
          + De e-maileditor begrijpen {#understanding-the-email-editor}
             + [Logboekregistratie van e-mailgebeurtenissen](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [De Rich Text Editor gebruiken](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Beta Nieuwe e-maileditor {#beta-new-email-editor}
-            + [Overzicht nieuwe e-maileditor (bètaversie)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
-            + [E-mailontwerp](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
-            + [E-mailsjablonen](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
+         + Beta New Email Designer {#beta-new-email-designer}
+            + [Overzicht van de nieuwe e-mailontwerper (bèta)](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+            + [E-mailontwerp](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+            + [E-mailsjablonen](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + Een e-mail maken {#creating-an-email}
             + [Een e-mail goedkeuren](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Een e-mail met alleen tekst maken](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
