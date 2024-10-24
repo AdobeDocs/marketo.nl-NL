@@ -4,9 +4,9 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1758'
+source-wordcount: '1738'
 ht-degree: 0%
 
 ---
@@ -330,12 +330,6 @@ SCREENSHOT
 Deze actie kan worden uitgevoerd op:
 
 * Het detaillusje - klik **uitgeeft e-mailmalplaatje**.
-
-* De _e-mailmalplaatjes_ lijst pagina - klik het Meer actiepictogram (drie punten) van het gewenste e-mailmalplaatje en kies uitgeven.
-
-```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
-```
 
 Deze actie neemt u aan het _Ontwerp uw malplaatje_ pagina of de visuele pagina van de inhoudsredacteur die op het laatste bewaarde statuut van het e-mailmalplaatje wordt gebaseerd. Vanaf hier kunt u de inhoud van uw e-mailsjabloon naar wens bewerken. Zie E-mailsjablonen maken voor informatie over de bewerkingsopties.
 

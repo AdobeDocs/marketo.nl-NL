@@ -3,16 +3,16 @@ description: Flow Step Service - Marketo Docs - Productdocumentatie
 title: Stroom Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1233'
 ht-degree: 0%
 
 ---
 
 # Stroom Step Service {#flow-step-service}
 
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo&#39;s Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor meer informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo&#39;s Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie bij het schrijven van en het publiceren van uw eigen dienst, gelieve te verwijzen naar de [ bewaarplaats GitHub voor de Interface van Service Provider ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface) {target="_blank"}. Een proef-van-Concept implementatie van de Lijst van de Opzoeklijst kan [ hier ](https://github.com/adobe/mkto-flow-lookup) {target="_blank"} worden gevonden.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 
@@ -20,17 +20,21 @@ Voor het installeren van een aangepaste flowstap zijn beheerdersmachtigingen in 
 
 ## Installatie-URL {#installation-url}
 
-Als u wilt beginnen met de installatie, moet u eerst de URL opvragen van het OpenAPI-document dat uw service definieert. Uw serviceprovider moet dit aan u kunnen aanbieden en heeft doorgaans een URL die eindigt in `/openapi.json`. Volledige URL&#39;s zien er ongeveer als volgt uit `https://www.example.com/OpenAPI.json`. Zodra u deze URL hebt, ga naar het menu van Dienstverleners in uw Sectie Admin.
+Als u wilt beginnen met de installatie, moet u eerst de URL opvragen van het OpenAPI-document dat uw service definieert. Dit moet uw servicebureau kunnen geven. De URL eindigt gewoonlijk in `/openapi.json` . Volledige URL&#39;s zien er ongeveer als volgt uit: `https://www.example.com/OpenAPI.json` . Zodra u deze URL hebt, ga naar het menu van Dienstverleners in uw Sectie Admin.
 
-Klikken **[!UICONTROL Next]** om naar de sectie Enter Service Credentials te gaan.
+Klik op **[!UICONTROL Next]** om naar de sectie Servicereferenties invoeren te gaan.
 
 ![](assets/flow-step-service-1.png)
 
 ## Voer servicekredieten in {#enter-service-credentials}
 
-Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API-sleutel** dat slechts één invoerveld heeft, **Basisverificatie** waarvoor een gebruikersnaam en wachtwoord vereist zijn en waarvoor mogelijk ook een veld met de naam Realm vereist is, en **OAuth2** met de _Client Credentials_ subsidie, waarvoor een _Client-id_ en _Clientgeheim_.
+Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API Sleutel** die slechts één inputgebied heeft, **BasisAuthentificatie** die een gebruikersbenaming en wachtwoord vereist en ook een gebied genoemd Realm, en **OAuth2** gebruikend de _Toestemming van de Cliënt_ toelage vereist, die identiteitskaart van a _Cliënt 9} en en en en vereist_ Geheim van de Cliënt _._
 
 Wanneer u uw geloofsbrieven bewaart, zal Marketo proberen om het statuseindpunt van de dienst te roepen om te verifiëren dat zij geldig zijn. Als de opgegeven referenties ongeldig zijn, wordt een fout weergegeven die dit aangeeft.
+
+>[!CAUTION]
+>
+>Als een Serviceleverancier wordt gemaakt en verwijderd, kunt u de serviceleverancier, API, trigger of filternaam niet opnieuw gebruiken.
 
 ## Handleiding aan boord (optioneel) {#onboarding-guide}
 
@@ -38,7 +42,7 @@ Sommige serviceproviders nemen een optionele stap voor de on-boarding Guide. Dez
 
 ## Veldtoewijzing {#field-mapping}
 
-Om gegevens van een bepaald loodveld te ontvangen of te retourneren, moet dat veld worden toegewezen. Terwijl de afbeelding een vereiste stap tijdens het instappen is, kunt u altijd terugkeren om de afbeeldingen later te veranderen. Er zijn twee soorten afbeeldingen die in afzonderlijke schermen zijn geconfigureerd: **Uitgaande velden**, die naar de service worden verzonden wanneer Marketo de flowstap aanroept, en **Binnenkomende velden** Dit zijn velden die gegevens van de service kunnen ontvangen wanneer deze gegevens naar Marketo terugstuurt.
+Om gegevens van een bepaald loodveld te ontvangen of te retourneren, moet dat veld worden toegewezen. Terwijl de afbeelding een vereiste stap tijdens het instappen is, kunt u altijd terugkeren om de afbeeldingen later te veranderen. Er zijn twee soorten afbeeldingen die in afzonderlijke schermen worden gevormd: **Uitgaande Gebieden**, die naar de dienst worden verzonden wanneer Marketo de stroomstap aanhaalt, en **Binnenkomende Gebieden** die gebieden zijn die gegevens van de dienst kunnen ontvangen wanneer het gegevens aan Marketo terugkeert.
 
 >[!NOTE]
 >
@@ -48,13 +52,13 @@ Optionele veldtoewijzingen kunnen worden uitgeschakeld zonder onderbreking van d
 
 ## Servicedesgestuurde afbeeldingen {#service-driven-mappings}
 
-Services met een vaste set inputs en outputs, zoals een stap voor de registratiestroom van gebeurtenissen, gebruiken **Servicedesgestuurde afbeeldingen**. Voor dit type van afbeelding, zal de dienstverlener zowel een datatype als een wenk in de vorm van een API naam verstrekken. Als de hint overeenkomt met de API-naam van een bestaand lead-veld, wordt dat veld automatisch ingevuld in de toewijzingssectie. Voor velden zonder overeenkomende hint moet u de toewijzing handmatig invullen in de lijst met velden met het overeenkomende gegevenstype. Toewijzingen die vereist zijn, moeten worden ingevuld om het instappen te voltooien.
+De diensten die een vaste reeks input en output, als een stap van de gebeurtenisregistratie hebben, gebruiken **dienst-Gedreven Toewijzingen**. Voor dit type van afbeelding, zal de dienstverlener zowel een datatype als een wenk in de vorm van een API naam verstrekken. Als de hint overeenkomt met de API-naam van een bestaand lead-veld, wordt dat veld automatisch ingevuld in de toewijzingssectie. Voor velden zonder overeenkomende hint moet u de toewijzing handmatig invullen in de lijst met velden met het overeenkomende gegevenstype. Toewijzingen die vereist zijn, moeten worden ingevuld om het instappen te voltooien.
 
 ![](assets/flow-step-service-2.png)
 
 ## Door gebruiker gestuurde toewijzingen {#user-driven-mappings}
 
-Services die geen vaste set invoer en uitvoer hebben, zoals een service voor datumnotatie, gebruiken **Door gebruiker gestuurde toewijzingen**. Dit betekent dat elk inkomend en uitgaand gebied door Admin moet worden gevormd.
+De diensten die geen vaste reeks input en output, als datum-formatterende dienst hebben, gebruiken **Gebruiker-Gedreven Toewijzingen**. Dit betekent dat elk inkomend en uitgaand gebied door Admin moet worden gevormd.
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +78,7 @@ Sommige services hebben optionele of vereiste globale configuratieopties. Als er
 
 ## Een service intrekken {#retiring-a-service}
 
-Om overgangen naar nieuwe of alternatieve versies van de dienst te vergemakkelijken, zonder actief gebruik te verstoren, kunnen de diensten van het menu van Dienstverleners worden gepensioneerd. **Een service intrekken** Hiermee verwijdert u de corresponderende flowstap uit het Slim campagnewisselingstrookje, zodat er geen nieuwe toepassingen van kunnen worden gemaakt. In de meeste gevallen, zou u een vervangingsdienst klaar moeten hebben om bestaande te vervangen wanneer u verkiest om de dienst met pensioen te gaan.
+Om overgangen naar nieuwe of alternatieve versies van de dienst te vergemakkelijken, zonder actief gebruik te verstoren, kunnen de diensten van het menu van Dienstverleners worden gepensioneerd. **terugkerend de Dienst** verwijdert de overeenkomstige stroomstap uit het Slimme Pallet van de Stroom van de Campagne, zodat geen nieuwe gebruik van het kan worden gecreeerd. In de meeste gevallen, zou u een vervangingsdienst klaar moeten hebben om bestaande te vervangen wanneer u verkiest om de dienst met pensioen te gaan.
 
 ## Servicedespring {#service-deprecation}
 
