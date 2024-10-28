@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - Productdocumentatie
 title: Adobe Identity Management - Veelgestelde vragen
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1484'
 ht-degree: 0%
 
 ---
@@ -129,6 +129,10 @@ Wanneer abonnementen aan de Identiteit van de Adobe worden geregistreerd, wordt 
 **ik heb meer dan één abonnement, maar niet allen toegelaten Enig Teken hebben. Wat gebeurt er na de migratie van de Identiteit van de Adobe?**
 
 Wanneer abonnementen aan de Identiteit van de Adobe worden geregistreerd, wordt Enige Sign On (SSO) opstelling op het niveau van de Organisatie van de Adobe. Dit betekent dat SSO van toepassing is op alle productinstanties in de Adobe Org. Als SSO is ingesteld, geldt deze voor alle Marketo-instanties in die Adobe Org. Eerder ondersteunde Marketo deze instelling op instantieniveau. Dit wordt niet ondersteund door Adobe Identity Management System.
+
+**zijn om het even welke veranderingen nodig aan CNAMEs, SPF, of DKIM wij momenteel voor Marketo Engage na de migratie van de Identiteit van de Adobe gebruiken?**
+
+Nee, er zijn geen gevolgen voor deze configuraties.
 
 **ik moet nu in Experience Cloud navigeren om tot Marketo Engage toegang te hebben. Is er een manier om deze stroom te stroomlijnen?**
 
