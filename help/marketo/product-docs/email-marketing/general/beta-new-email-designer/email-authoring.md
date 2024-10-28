@@ -4,9 +4,9 @@ title: E-mailontwerp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1507'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -155,38 +155,23 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 ### Assets toevoegen {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>U kunt alleen afbeeldingen toevoegen in de nieuwe ontwerper, momenteel geen andere bestandstypen.
 
 1. Klik op het pictogram Asset Selector om uw afbeeldingen te openen.
 
-   SCREENSHOT
+   ![](assets/authoring-add-assets-1.png)
 
 1. Sleep de gewenste afbeelding naar een structuurcomponent.
 
-   SCREENSHOT
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >Om een bestaand beeld te vervangen, selecteer het, dan klik **selecteer een activa** in het lusje van Montages op het recht.
-
-Klik op Voorwaardelijke inhoud inschakelen om dynamische inhoud toe te voegen en de inhoud aan te passen aan de doelprofielen op basis van voorwaardelijke regels.
-
-
-
-Indien nodig, kunt u uw e-mail verder personaliseren door Overschakelen naar code redacteur van het geavanceerde menu te klikken. Op deze manier kunt u de broncode van de e-mail bewerken, bijvoorbeeld door tags voor bijhouden of aangepaste HTML toe te voegen.
-
-VOORZIENING
-U kunt niet terugkeren naar de visuele ontwerper voor deze e-mail na het schakelen naar de coderedacteur.
-
-Wanneer de inhoud gereed is, klikt u op de knop Inhoud simuleren om de rendering te controleren. U kunt kiezen voor de weergave Computer of Mobiel.
-
-Klik, indien gereed, op Opslaan
 
 ### Lagen, instellingen en stijlen {#layers-settings-styles}
 
