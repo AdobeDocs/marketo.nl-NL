@@ -4,7 +4,7 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1666'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # E-mailsjablonen {#email-templates}
 
-Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjablonen maken om aangepaste inhoud eenvoudig te hergebruiken.
+Voor een versneld en verbeterd ontwerpproces kunt u zelfstandige e-mailsjablonen maken om eenvoudig aangepaste inhoud te hergebruiken.
 
 >[!IMPORTANT]
 >
->Dit artikel is alleen van toepassing op leden van de New Marketo Engage Email Designer beta. Verspreid niet.
+>Dit artikel is alleen van toepassing op leden van de nieuwe Marketo Engage Email Designer beta. Verspreid niet.
 
 >[!NOTE]
 >
@@ -45,11 +45,11 @@ Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjab
 
 ## Uw sjabloon ontwerpen {#design-your-template}
 
-In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [ Ontwerp van kras ](#design-from-scratch), [ voert uw eigen HTML ](#import-html) in, of [ selecteert een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
+In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [ Ontwerp van kras ](#design-from-scratch), [ voer uw eigen HTML ](#import-html) in, of [ selecteer een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
 
 ![](assets/design-your-template-1.png)
 
-### Ontwerpen vanaf nul {#design-from-scratch}
+### Ontwerpen vanuit niets {#design-from-scratch}
 
 Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met eenvoudige acties voor slepen en neerzetten.
 
@@ -85,11 +85,11 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
    >
    >Als u een `<table>` -tag als eerste laag in een HTML-bestand gebruikt, kan dit leiden tot stijlverlies, zoals de achtergrond- en breedte-instellingen in de bovenste laagtag.
 
-U kunt uw geïmporteerde bestand nu naar wens aanpassen met de visuele e-maileditor.
+U kunt het geïmporteerde bestand nu naar wens aanpassen met de visuele e-maileditor.
 
 ### Een sjabloon kiezen {#choose-a-template}
 
-Er zijn twee soorten sjablonen waaruit u kunt kiezen.
+Er zijn twee typen sjablonen waaruit u kunt kiezen.
 
 * **malplaatjes van de Steekproef**: Marketo Engage biedt vier uit-van-de-doos e-mailmalplaatjes aan.
 
@@ -103,7 +103,7 @@ Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsja
 
 1. Het tabblad Voorbeeldsjablonen is standaard geopend.
 
-1. Selecteer de gewenste sjabloon.
+1. Selecteer de sjabloon die u wilt gebruiken.
 
    ![](assets/sample-templates-1.png)
 
@@ -111,11 +111,11 @@ Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsja
 
    ![](assets/sample-templates-2.png)
 
-1. Bewerk de inhoud naar wens met de visuele contentontwerper.
+1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
 >[!TAB  Bewaarde malplaatjes ]
 
-1. Klik het **Bewaarde malplaatjes** lusje en selecteer het gewenste malplaatje.
+1. Klik het **Opgeslagen malplaatjes** lusje en selecteer het gewenste malplaatje.
 
    ![](assets/saved-templates-1.png)
 
@@ -123,17 +123,17 @@ Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsja
 
    ![](assets/saved-templates-2.png)
 
-1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
+1. Bewerk de inhoud naar wens met de visuele contentontwerper.
 
 >[!ENDTABS]
 
 ## Structuur en inhoud toevoegen {#add-structure-and-content}
 
-1. Als u wilt beginnen met het maken of wijzigen van inhoud, sleept u een item van Structuren naar het canvas. Bewerk de instellingen in het rechterdeelvenster.
+1. Als u wilt beginnen met het maken of wijzigen van inhoud, sleept u een item van Structuren naar het canvas. Bewerk de instellingen in het deelvenster aan de rechterkant.
 
    >[!TIP]
    >
-   >Selecteer de component n:n om het aantal kolommen van uw keuze te definiëren (tussen drie en tien). U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
+   >Selecteer de n:n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
 
    ![](assets/add-structure-and-content-1.png)
 
@@ -141,7 +141,7 @@ Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsja
    >
    >Elke kolomgrootte mag niet kleiner zijn dan 10% van de totale breedte van de structuurcomponent. Alleen lege kolommen kunnen worden verwijderd.
 
-1. Sleep in de sectie Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
+1. Sleep in het gedeelte Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
 
    ![](assets/add-structure-and-content-2.png)
 
@@ -153,7 +153,7 @@ Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/
 
 >[!NOTE]
 >
->U kunt op dit moment alleen afbeeldingen toevoegen in de nieuwe ontwerper, geen andere bestandstypen.
+>U kunt alleen afbeeldingen toevoegen in de nieuwe ontwerper, momenteel geen andere bestandstypen.
 
 1. Klik op het pictogram Asset Selector om uw afbeeldingen te openen.
 
@@ -165,11 +165,11 @@ Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/
 
    >[!NOTE]
    >
-   >Om een bestaand beeld te vervangen, selecteer het, dan klik **selecteer een activa** in het lusje van Montages op het recht.
+   >Om een bestaand beeld te vervangen, selecteer het, dan klik **Uitgezocht een activa** in het lusje van Montages op het recht.
 
 ### Lagen, instellingen en stijlen {#layers-settings-styles}
 
-Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten voor meer korrelige het uitgeven toegang te hebben. Klik op het pictogram Navigatieboom om toegang te krijgen.
+Open de boomstructuur om toegang te krijgen tot specifieke structuren en hun kolommen/componenten voor meer gedetailleerde bewerkingen. Klik op het pictogram Navigatieboom om toegang te krijgen.
 
 ![](assets/layers-settings-styles-1.png)
 
@@ -238,7 +238,7 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
 
 1. Klik op het potloodpictogram om de tekstspatiëring voor de gewenste koppelingen te bewerken.
 
-1. Klik het **Volgend Type** drop-down en maak uw selectie.
+1. Klik het **Volgen Type** drop-down en maak uw selectie.
 
    ![](assets/edit-url-tracking-2.png)
 
@@ -280,11 +280,11 @@ Van **Meer** opties in de inhoudsredacteur, kunt u de volgende acties nemen:
 
 ![](assets/more-options-1.png)
 
-* **malplaatje van het Terugstellen**: Selecteer dit om het visuele e-maildesigner canvas aan een lege plaats te ontruimen en de bouwend inhoud opnieuw te beginnen.
+* **malplaatje van het Terugstellen**: Selecteer dit om het visuele e-maildesigner canvas aan een lege lei te ontruimen en de bouwende inhoud opnieuw te beginnen.
 
-* **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals geschetst in het [ Ontwerp uw malplaatje ](#design-your-template) sectie voeren.
+* **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals die in [ wordt geschetst Ontwerp uw malplaatje ](#design-your-template) sectie.
 
-* **de HTML van de Uitvoer**: Download de inhoud in het visuele canvas aan uw lokaal systeem in HTML formaat dat als ZIP dossier wordt verpakt.
+* **de Uitvoer HTML**: Download de inhoud in het visuele canvas aan uw lokaal systeem in HTML formaat dat als zip dossier wordt verpakt.
 
 ## Sjabloondetails weergeven {#view-template-details}
 
@@ -300,11 +300,11 @@ Als er actieve waarschuwingen zijn (fouten/waarschuwingen voor de e-mailsjabloon
 
 >[!NOTE]
 >
->Hoewel deze waarschuwingen het gebruik van de e-mailsjabloon voor het maken van e-mail niet verbieden, biedt de informatie inzicht in wat mogelijk niet werkt en in de updates die nodig zijn voordat de e-mail kan worden gebruikt voor levering.
+>Hoewel deze waarschuwingen het gebruik van de e-mailsjabloon voor het maken van e-mail niet belemmeren, geeft de informatie inzicht in wat mogelijk niet werkt en in de updates die nodig zijn voordat de e-mail kan worden gebruikt voor levering.
 
-## E-mailsjabloon weergeven die wordt gebruikt door verwijzingen {#email-template-used-by-references}
+## E-mailsjabloon gebruikt door verwijzingen weergeven {#email-template-used-by-references}
 
-In de samenvatting van het e-mailmalplaatje, klik **Gebruikt door** tabel om details van te bekijken waar dit e-mailmalplaatje binnen Marketo Engage is gebruikt.
+In de samenvatting van het e-mailmalplaatje, klik **Gebruikt door** lusje om details te bekijken van waar dit e-mailmalplaatje binnen Marketo Engage is gebruikt.
 
 ![](assets/email-template-used-by-references-1.png)
 
@@ -312,7 +312,7 @@ In de samenvatting van het e-mailmalplaatje, klik **Gebruikt door** tabel om det
 
 Deze actie kan worden uitgevoerd op:
 
-* Het detaillusje - klik **uitgeeft e-mailmalplaatje**.
+* Het detaillusje - klik **geeft e-mailmalplaatje** uit.
 
 Deze actie neemt u aan het _Ontwerp uw malplaatje_ pagina of de visuele pagina van de inhoudsredacteur die op het laatste bewaarde statuut van het e-mailmalplaatje wordt gebaseerd. Vanaf hier kunt u de inhoud van uw e-mailsjabloon naar wens bewerken. Zie E-mailsjablonen maken voor informatie over de bewerkingsopties.
 

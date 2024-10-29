@@ -1,23 +1,23 @@
 ---
-description: E-mailontwerp - Marketo Docs - Productdocumentatie
-title: E-mailontwerp
+description: E-mailauthoring - Marketo Docs - Productdocumentatie
+title: E-mailauthoring
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1438'
 ht-degree: 0%
 
 ---
 
-# E-mailontwerp {#email-authoring}
+# E-mailauthoring {#email-authoring}
 
-Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe Marketo Engage-e-mailtoepassing Designer.
+Leer hoe je e-mails maakt, personaliseert en bekijkt in het nieuwe Marketo Engage E-mail Designer.
 
 >[!IMPORTANT]
 >
->Dit artikel is alleen van toepassing op leden van de New Marketo Engage Email Designer beta. Verspreid niet.
+>Dit artikel is alleen van toepassing op leden van de nieuwe Marketo Engage Email Designer beta. Verspreid niet.
 
 ## Een e-mail maken {#create-an-email}
 
@@ -47,7 +47,7 @@ Dat is het. Nu is het tijd om je e-mail te ontwerpen.
 
    ![](assets/choose-your-content-type-1.png)
 
-1. _creeer uw e-mail_ pagina laadt. U kunt uit een paar opties kiezen:
+1. De _creeer uw e-mail_ pagina laadt. U kunt uit een aantal opties kiezen:
 
 * [ Ontwerp van kras ](#design-from-scratch) gebruikend de visuele e-mailredacteur
 
@@ -95,7 +95,7 @@ U kunt gewenste veranderingen in de ingevoerde inhoud aanbrengen gebruikend de [
 
 ### Een sjabloon kiezen {#choose-a-template}
 
-Er zijn twee typen sjablonen waaruit u kunt kiezen.
+Er zijn twee soorten sjablonen waaruit u kunt kiezen.
 
 * **malplaatjes van de Steekproef**: Marketo Engage biedt vier uit-van-de-doos e-mailmalplaatjes aan.
 
@@ -109,7 +109,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 1. Het tabblad Voorbeeldsjablonen is standaard geopend.
 
-1. Selecteer de sjabloon die u wilt gebruiken.
+1. Selecteer de gewenste sjabloon.
 
    ![](assets/authoring-sample-templates-1.png)
 
@@ -117,7 +117,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
    ![](assets/authoring-sample-templates-2.png)
 
-1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
+1. Bewerk de inhoud naar wens met de visuele contentontwerper.
 
 >[!TAB  Bewaarde malplaatjes ]
 
@@ -135,11 +135,11 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 ## Structuur en inhoud toevoegen {#add-structure-and-content}
 
-1. Als u wilt beginnen met het maken of wijzigen van inhoud, sleept u een item van Structuren naar het canvas. Bewerk de instellingen in het deelvenster aan de rechterkant.
+1. Als u wilt beginnen met het maken of wijzigen van inhoud, sleept u een item van Structuren naar het canvas. Bewerk de instellingen in het rechterdeelvenster.
 
    >[!TIP]
    >
-   >Selecteer de n:n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
+   >Selecteer de component n:n om het aantal kolommen van uw keuze te definiëren (tussen drie en tien). U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -147,7 +147,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
    >
    >Elke kolomgrootte mag niet kleiner zijn dan 10% van de totale breedte van de structuurcomponent. Alleen lege kolommen kunnen worden verwijderd.
 
-1. Sleep in het gedeelte Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
+1. Sleep in de sectie Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
 
    ![](assets/authoring-add-structure-and-content-2.png)
 
@@ -159,7 +159,7 @@ Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/
 
 >[!NOTE]
 >
->U kunt alleen afbeeldingen toevoegen in de nieuwe ontwerper, momenteel geen andere bestandstypen.
+>U kunt op dit moment alleen afbeeldingen toevoegen in de nieuwe ontwerper, geen andere bestandstypen.
 
 1. Klik op het pictogram Asset Selector om uw afbeeldingen te openen.
 
@@ -193,10 +193,10 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
    * Wijzig voor **[!UICONTROL Background]** de achtergrondkleur zo nodig.
 
-     Schakel het selectievakje voor een transparante achtergrond uit. Schakel de instelling **[!UICONTROL Background image]** in om een afbeelding te gebruiken als achtergrond in plaats van als een effen kleur.
+     Schakel het selectievakje voor een transparante achtergrond uit. Schakel de instelling **[!UICONTROL Background image]** in om een afbeelding als achtergrond te gebruiken in plaats van als een effen kleur.
 
    * Voor **[!UICONTROL Alignment]**, selecteer de _Hoogste_, _Midden_, of _Onderste_ pictogram.
-   * Definieer bij **[!UICONTROL Padding]** de opvulling voor alle zijden.
+   * Definieer voor **[!UICONTROL Padding]** de opvulling voor alle zijden.
 
      Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot {om synchronisatie te breken.
 
@@ -210,7 +210,7 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
 ### Inhoud personaliseren {#personalize-content}
 
-Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het pictogram ziet er anders uit. In het onderstaande voorbeeld wordt een voornaamtoken toegevoegd met terugvaltekst.
+In de nieuwe editor werken tokens op dezelfde manier als in de oude, maar het pictogram ziet er anders uit. In het onderstaande voorbeeld ziet u hoe u een voornaamtoken met terugvaltekst toevoegt.
 
 1. Selecteer de tekstcomponent. Plaats de curseur waar u het teken wilt verschijnen en **klikken verpersoonlijking** pictogram toevoegt.
 
@@ -244,7 +244,7 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
 
 1. Klik op het potloodpictogram om de tekstspatiëring voor de gewenste koppelingen te bewerken.
 
-1. Klik het **Volgen Type** drop-down en maak uw selectie.
+1. Klik het **Volgend Type** drop-down en maak uw selectie.
 
    ![](assets/authoring-edit-url-tracking-2.png)
 
@@ -255,7 +255,7 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
      </tr>
      <tr>
        <td><b>Bijhouden met mkt_tok</b></td>
-       <td>Activeert het volgen op URL met gebruik van de markt_tok parameter van het vraagkoord in bestemmingsURL</td>
+       <td>Hiermee wordt het bijhouden van wijzigingen op de URL geactiveerd met gebruik van de parameter voor de query market_tok in de doel-URL</td>
      </tr>
      <tr>
        <td><b>Niet bijhouden</b></td>
@@ -288,7 +288,7 @@ De waarschuwingen verwijzen naar aanbevelingen en beste praktijken zoals:
 
 * **Lege verbinding is aanwezig in e-maillichaam**: Verifieer alle verbindingen in uw e-mail correct zijn.
 
-* **e-mailgrootte heeft de grens van 100KB** overschreden: Voor optimale levering, zorg ervoor de grootte van uw e-mail niet 100KB overschrijdt.
+* **E-mailgrootte heeft de grens van 100KB** overschreden: voor optimale levering, zorg ervoor de grootte van uw e-mail niet 100KB overschrijdt.
 
 **Fouten**
 
@@ -300,7 +300,7 @@ Fouten verhinderen dat u de e-mail verzendt of test totdat deze is opgelost:
 
 ## Uw e-mail testen {#test-your-email}
 
-Wanneer de inhoud van uw bericht is gedefinieerd, kunt u testprofielen gebruiken om deze voor te vertonen, proefdrukken te verzenden en om te bepalen hoe deze wordt weergegeven in populaire desktops, mobiele clients en webclients. Als u gepersonaliseerde inhoud opnam, kunt u controleren hoe het in het bericht wordt getoond gebruikend de gegevens van het testprofiel.
+Wanneer uw berichtinhoud is gedefinieerd, kunt u testprofielen gebruiken om een voorvertoning ervan weer te geven, proefdrukken te verzenden en om te bepalen hoe de inhoud wordt weergegeven in populaire desktop-, mobiele en webclients. Als u gepersonaliseerde inhoud hebt ingevoegd, kunt u met behulp van testprofielgegevens controleren hoe deze inhoud in het bericht wordt weergegeven.
 
 Om uw e-mailinhoud voor te vertonen, klik **inhoud** simuleren, dan voeg een testprofiel toe om uw bericht te controleren gebruikend de gegevens van het testprofiel.
 
