@@ -4,7 +4,7 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
+source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
 workflow-type: tm+mt
 source-wordcount: '1666'
 ht-degree: 0%
@@ -63,7 +63,7 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
 
 * Een HTML-bestand met een opgenomen stijlblad
 
-* Een zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
+* Een .zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
 
 >[!NOTE]
 >
@@ -85,11 +85,11 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
    >
    >Als u een `<table>` -tag als eerste laag in een HTML-bestand gebruikt, kan dit leiden tot stijlverlies, zoals de achtergrond- en breedte-instellingen in de bovenste laagtag.
 
-U kunt het geïmporteerde bestand nu naar wens aanpassen met de visuele e-maileditor.
+U kunt uw geïmporteerde bestand nu naar wens aanpassen met de visuele e-maileditor.
 
 ### Een sjabloon kiezen {#choose-a-template}
 
-Er zijn twee typen sjablonen waaruit u kunt kiezen.
+Er zijn twee soorten sjablonen waaruit u kunt kiezen.
 
 * **malplaatjes van de Steekproef**: Marketo Engage biedt vier uit-van-de-doos e-mailmalplaatjes aan.
 
@@ -99,11 +99,11 @@ Er zijn twee typen sjablonen waaruit u kunt kiezen.
 
 >[!TAB  malplaatjes van de Steekproef ]
 
-Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwerp voor e-mail.
+Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsjabloonontwerp.
 
 1. Het tabblad Voorbeeldsjablonen is standaard geopend.
 
-1. Selecteer de sjabloon die u wilt gebruiken.
+1. Selecteer de gewenste sjabloon.
 
    ![](assets/sample-templates-1.png)
 
@@ -111,7 +111,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
    ![](assets/sample-templates-2.png)
 
-1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
+1. Bewerk de inhoud naar wens met de visuele contentontwerper.
 
 >[!TAB  Bewaarde malplaatjes ]
 
@@ -129,11 +129,11 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 ## Structuur en inhoud toevoegen {#add-structure-and-content}
 
-1. Als u wilt beginnen met het maken of wijzigen van inhoud, sleept u een item van Structuren naar het canvas. Bewerk de instellingen in het deelvenster aan de rechterkant.
+1. Als u wilt beginnen met het maken of wijzigen van inhoud, sleept u een item van Structuren naar het canvas. Bewerk de instellingen in het rechterdeelvenster.
 
    >[!TIP]
    >
-   >Selecteer de n:n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
+   >Selecteer de component n:n om het aantal kolommen van uw keuze te definiëren (tussen drie en tien). U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
 
    ![](assets/add-structure-and-content-1.png)
 
@@ -141,19 +141,19 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
    >
    >Elke kolomgrootte mag niet kleiner zijn dan 10% van de totale breedte van de structuurcomponent. Alleen lege kolommen kunnen worden verwijderd.
 
-1. Sleep in het gedeelte Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
+1. Sleep in de sectie Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
 
    ![](assets/add-structure-and-content-2.png)
 
 1. Elke component kan worden aangepast via de tabbladen Instellingen of Stijl. Wijzig het lettertype, de tekststijl, de marge en meer.
 
-### Assets toevoegen {#add-assets}
+### Elementen toevoegen {#add-assets}
 
 Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >
->U kunt alleen afbeeldingen toevoegen in de nieuwe ontwerper, momenteel geen andere bestandstypen.
+>U kunt op dit moment alleen afbeeldingen toevoegen in de nieuwe ontwerper, geen andere bestandstypen.
 
 1. Klik op het pictogram Asset Selector om uw afbeeldingen te openen.
 
@@ -214,13 +214,13 @@ Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het 
 
    ![](assets/personalize-content-2.png)
 
-1. Zoek het gewenste token en klik op het pictogram **...** (als u op het pictogram + klikt, wordt in plaats daarvan een token zonder terugvaltekst toegevoegd).
+1. Zoek het gewenste token en klik op het pictogram **...** (klik op het pictogram + om een token zonder terugvaltekst toe te voegen).
 
    ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >De &quot;tekst van de reserve&quot;is de nieuwe redacteurstermijn voor standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}`` . Het wordt aanbevolen als er geen waarde is voor de persoon in het veld dat u kiest.
+   >&quot;Tekst voor alternatieven&quot; is de nieuwe editorterm voor de standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}`` . Het wordt aanbevolen als er geen waarde voor de persoon is in het veld dat u kiest.
 
 1. Plaats uw reservetekst en klik **toevoegen**.
 
@@ -238,7 +238,7 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
 
 1. Klik op het potloodpictogram om de tekstspatiëring voor de gewenste koppelingen te bewerken.
 
-1. Klik het **Volgen Type** drop-down en maak uw selectie.
+1. Klik het **Volgend Type** drop-down en maak uw selectie.
 
    ![](assets/edit-url-tracking-2.png)
 
@@ -253,12 +253,12 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
      </tr>
      <tr>
        <td><b>Niet bijhouden</b></td>
-       <td>Hiermee wordt het bijhouden van de URL uitgeschakeld</td>
+       <td>Schakelt het bijhouden van de URL uit</td>
      </tr>
    </tbody>
    </table>
 
-1. U kunt desgewenst een label aan de URL geven of tags toevoegen.
+1. U kunt de URL desgewenst een label geven of tags toevoegen.
 
 1. Klik **sparen** wanneer gedaan.
 
@@ -280,19 +280,19 @@ Van **Meer** opties in de inhoudsredacteur, kunt u de volgende acties nemen:
 
 ![](assets/more-options-1.png)
 
-* **malplaatje van het Terugstellen**: Selecteer dit om het visuele e-maildesigner canvas aan een lege lei te ontruimen en de bouwende inhoud opnieuw te beginnen.
+* **malplaatje van het Terugstellen**: Selecteer dit om het visuele e-maildesigner canvas aan een lege plaats te ontruimen en de bouwend inhoud opnieuw te beginnen.
 
-* **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals die in [ wordt geschetst Ontwerp uw malplaatje ](#design-your-template) sectie.
+* **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals geschetst in het [ Ontwerp uw malplaatje ](#design-your-template) sectie voeren.
 
-* **de Uitvoer HTML**: Download de inhoud in het visuele canvas aan uw lokaal systeem in HTML formaat dat als zip dossier wordt verpakt.
+* **de HTML van de Uitvoer**: Download de inhoud in het visuele canvas aan uw lokaal systeem in HTML formaat dat als ZIP dossier wordt verpakt.
 
 ## Sjabloondetails weergeven {#view-template-details}
 
-In de _E-mail malplaatjes_ het vermelden pagina, klik de naam van een e-mailmalplaatje om zijn details te bekijken.
+In de _E-mail malplaatjes_ lijstpagina, klik de naam van een e-mailmalplaatje om zijn details te bekijken.
 
 (assets/view-template-details-1.png
 
-U kunt basisgegevens zoals naam en beschrijving bewerken. Klik buiten het veld dat u hebt bewerkt om de wijzigingen op te slaan.
+U kunt basisgegevens zoals naam en beschrijving bewerken. Klik buiten het veld dat u hebt bewerkt om uw wijzigingen op te slaan.
 
 Klik **Meer** om uw malplaatje snel te schrappen of te dupliceren.
 
