@@ -3,9 +3,9 @@ description: Een interactief webinar maken - Marketo Docs - Productdocumentatie
 title: Een interactief webinar maken
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
+   >[!CAUTION]
+   >
+   >](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} de activa van het Bericht van de Duw van 0} Mobiele **worden** niet gesteund in Interactieve Webinars.[
+
 1. Geef het programma een naam. Onder Type van Programma, uitgezochte **Gebeurtenis**.
 
    ![](assets/create-an-interactive-webinar-3.png)
@@ -37,10 +41,6 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 1. Kies **Interactieve Webinars** en klik **daarna**.
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >Hier vindt u informatie over webinars van partners.
 
 1. Geef je webinar een titel. Stel de maximale doelgrootte in en de duur ervan.
 
