@@ -4,9 +4,10 @@ title: E-mail Open Tracking op Campagneniveau
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
+source-git-commit: 6e60b39f12c75269b186573db4120e7dccb119c0
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -42,7 +43,7 @@ Met deze functie kunt u beheren dat e-mails worden geopend voor elke keer dat ze
   </tr>
   <tr>
     <td><b>Uitgeschakeld</b></td>
-    <td>E-mail wordt geopend wordt bijgehouden..</td>
+    <td>E-mail wordt geopend wordt geteld op basis van het feit dat een unieke persoon wordt geopend.</td>
   </tr>
 </tbody>
 </table>
