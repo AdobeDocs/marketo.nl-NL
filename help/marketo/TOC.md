@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9376'
 ht-degree: 0%
 
 ---
@@ -111,8 +111,8 @@ ht-degree: 0%
          + [Google AdWords toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
          + [GoToWebinar toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
          + [Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
-         + [Munchkin-trackingcode toevoegen aan uw website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-         + [Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
+         + [Trackingcode voor Munchkin toevoegen aan uw website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+         + [Veelgestelde vragen over Munchkin-tracking van de volgende generatie](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [Eén aanmelding toevoegen aan een portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Webex toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Zoomen toevoegen als een opstartpuntservice](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
@@ -144,6 +144,7 @@ ht-degree: 0%
          + [Het bericht &quot;Weergeven als webpagina&quot; bewerken](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [Communicatielimieten inschakelen](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Personenbeperkingen voor slimme campagnes inschakelen](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [E-mail Open Tracking op Campagneniveau](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Activiteit e-mailvak filteren](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [Tekst voor abonnement verwijderen](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Veldbeheer {#field-management}
@@ -326,17 +327,17 @@ ht-degree: 0%
             + [Programmastatus wijzigen](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
             + [Programma is gewijzigd](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-success.md)
             + [Gegevens van programmalid wijzigen](product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md)
-         + Handelingen voor Microsoft Dynamics Flow {#microsoft-dynamics-flow-actions}
+         + Microsoft Dynamics Flow-handelingen {#microsoft-dynamics-flow-actions}
             + [Voeg of verwijder Mensen van uw Campagne van de Dynamiek toe](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Eigenaar wijzigen in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Taak maken in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
             + [Persoon synchroniseren naar Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
-         + Handelingen voor Salesforce-stroom {#salesforce-flow-actions}
+         + Salesforce Flow-handelingen {#salesforce-flow-actions}
             + [Toevoegen aan SFDC-campagne](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Eigenaar wijzigen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
             + [Status wijzigen in SFDC-campagne](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md)
             + [Taak maken](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)
-            + [Persoon verwijderen uit SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
+            + [Persoon uit SFDC verwijderen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)
             + [Verwijderen uit SFDC-campagne](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md)
             + [Persoon synchroniseren naar SFDC](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
          + Gegevens slimme campagne {#smart-campaign-data}
@@ -542,12 +543,12 @@ ht-degree: 0%
                + [Stap 1 van 3: Installeer de Marketo-oplossing - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Stap 2 van 3: Marketo Sync User instellen in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Stap 3 van 3: Connect Marketo en Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 with ROPC Connection {#microsoft-dynamics-365-with-ropc-connection}
+            + Microsoft Dynamics 365 met ROPC Verbinding {#microsoft-dynamics-365-with-ropc-connection}
                + [Stap 1 van 4: Installeer de Marketo-oplossing met ROPC-verbinding](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [Stap 2 van 4: Opstelling de Oplossing van Marketo met Verbinding ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [Stap 3 van 4: Client-toepassing instellen op MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [Stap 4 van 4: Verbind de Oplossing van Marketo met Verbinding ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-            + Microsoft Dynamics 365 with S2S Connection {#microsoft-dynamics-365-with-s2s-connection}
+            + Microsoft Dynamics 365 met S2S-verbinding {#microsoft-dynamics-365-with-s2s-connection}
                + [Stap 1 van 3: Installeer de Marketo-oplossing met S2S-verbinding](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [Stap 2 van 3: Opstelling de Oplossing van Marketo met Verbinding S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [Stap 3 van 3: Verbind de Oplossing van Marketo met Verbinding S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
@@ -561,7 +562,7 @@ ht-degree: 0%
                + [Stap 1 van 3: Installeer de Marketo-oplossing in Dynamics (2015 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
                + [Stap 2 van 3: Sync User for Marketo instellen (2015 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
                + [Stap 3 van 3: Connect Marketo en Dynamics (2015 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
-         + Details Microsoft Dynamics Sync {#microsoft-dynamics-sync-details}
+         + Microsoft Dynamics Sync Details {#microsoft-dynamics-sync-details}
             + [Standaarddynamische veldtoewijzing](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Account Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics Sync: Contact opnemen met Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -579,8 +580,8 @@ ht-degree: 0%
          + Gegevens over filter Aangepaste dynamiek synchroniseren {#custom-dynamics-sync-filter-details}
             + [Een filter voor aangepaste dynamicasynchronisatie maken](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Aangepaste filterregels voor synchronisatie voor een e-mailadres](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Filter voor synchronisatie bij Microsoft: samenvoegen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Filter voor synchronisatie met Microsoft-dynamiek: kwalificeren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Microsoft Dynamics-synchronisatiefilter: samenvoegen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Microsoft Dynamics-synchronisatiefilter: kwalificeren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Een standaardvoorvoegsel voor een aangepast veld instellen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registreer een app bij Azure om uw client-id/app-id op te halen](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Een lead of contactpersoon verwijderen](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
@@ -588,11 +589,11 @@ ht-degree: 0%
          + [Werken met Salesforce Sync](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
          + Instellen {#setup}
             + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
-               + [Stap 1 van 3: Voeg Marketo-velden toe aan Salesforce (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+               + [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-               + [Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+               + [Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
             + Professional Edition {#professional-edition}
-               + [Stap 1 van 3: Voeg Marketo-velden toe aan Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+               + [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
                + [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
                + [Stap 3 van 3: Connect Marketo en Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
             + Optionele stappen {#optional-steps}
@@ -605,31 +606,31 @@ ht-degree: 0%
                + [Niet-Engelse aangepaste objectsynchronisatie inschakelen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [Achternaam en bedrijfsnaam voor standaardpersoon instellen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [E-mailberichten uitschakelen naar eigenaar van lead](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-         + SFDC-synchronisatiedetails {#sfdc-sync-details}
+         + SFDC Sync Details {#sfdc-sync-details}
             + [Een bestaand Salesforce-veld toevoegen aan Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-            + [Standaardtoewijzing Salesforce-veld](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
-            + [Een Salesforce-veld verbergen voor Marketo-synchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
-            + [Hoe te om de Statussen van het Programma en de Status van de Campagne Salesforce voorafgaand aan Synchronisatie aan te passen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-            + [SFDC-synchronisatie: accountsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [Standaard Salesforce-veldtoewijzing](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
+            + [Een Salesforce-veld verbergen bij Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [Hoe te om de Statussen van het Programma en de Status van de Campagne van Salesforce voorafgaand aan Synchronisatie aan te passen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+            + [SFDC Sync: Account Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
             + [SFDC Sync: Activity Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-            + [SFDC-synchronisatie: Campagne synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-            + [SFDC-synchronisatie: contact opnemen met Synchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+            + [SFDC Sync: Campagne Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [SFDC Sync: Contact opnemen met Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
             + [SFDC Sync: Een lead converteren naar een contactpersoon in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-            + [SFDC-synchronisatie: Aangepaste objectsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [SFDC Sync: Aangepast object synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
             + [SFDC-synchronisatie: een lead/contactpersoon verwijderen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-            + [SFDC-synchronisatie: veldsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+            + [SFDC Sync: Field Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
             + [SFDC Sync: Lead/Account Owner Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-            + [SFDC-synchronisatie: Wachtrij leiden](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+            + [SFDC Sync: Wachtrij leiden](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
             + [SFDC Sync: Lead Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-            + [SFDC-synchronisatie: een lead/contactpersoon/persoon samenvoegen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [SFDC Sync: Een lead/contact/persoon samenvoegen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
             + [SFDC Sync: Opportunity Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
          + [Picklist-waarden toevoegen/verwijderen](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-         + [De Salesforce-synchronisatie inschakelen/uitschakelen](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-         + [Impliciete Salesforce-acties](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce Sync in-/uitschakelen](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [Impliciete Salesforce-handelingen](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Aanmelden met OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
          + [Salesforce Sync Backlog Metrics](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce-synchronisatiefouten](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-         + [Status van Salesforce-synchronisatie](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Salesforce Sync Status](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Persoonlijke accounts gebruiken](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veeva CRM Sync {#veeva-crm-sync}
          + [Werken met de Veeva CRM Sync](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
@@ -1199,37 +1200,37 @@ ht-degree: 0%
          + [Lijst met campagnes weergeven als een andere gebruiker](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
          + Salesforce-aanpassing {#salesforce-customization}
-            + [Veld voor activiteitstypen op taken (Activity Type Field on Tasks — SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
-            + [Verkoopknoppen voor Connect aan Salesforce toevoegen](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
-            + [Een Salesforce Priority Call-rapport maken met Connect-gegevens voor verkoop](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
+            + [Veld voor activiteitstypen op taken (SFDC)](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
+            + [Verkoopknoppen voor Connect toevoegen aan Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
+            + [Een Salesforce Priority Call-rapport maken met Sales Connect-gegevens](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
             + [Workflowregels maken in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/creating-workflow-rules-in-salesforce.md)
             + [Aanpassingsversies](product-docs/marketo-sales-connect/crm/salesforce-customization/customization-versions.md)
             + [Toegankelijkheid Salesforce-veld bewerken](product-docs/marketo-sales-connect/crm/salesforce-customization/edit-salesforce-field-accesibility.md)
             + [Verkoopverbinding maken met uw Salesforce-sandbox](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
-            + [Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
-            + [Verkoopknoppen voor Connect installeren in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
-            + [Een Salesforce-id importeren in Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
+            + [Aanpassingen installeren in uw Salesforce-sandbox](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+            + [Verkoopknoppen in Salesforce installeren](product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)
+            + [Salesforce-id importeren in Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [Verkoop Connect-gebeurtenisvelden installeren in activiteitenoverzicht](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
-            + [Aanpassing van Salesforce voor klanten van de Professional Edition installeren](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
+            + [Salesforce-aanpassingen installeren voor Professional Edition-klanten](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
             + [Push to Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
-            + [Rapporterende dashboards in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
+            + [Dashboards rapporteren in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [Aanpassingen voor verkoop Connect voor CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Bulkhandelingen gebruiken in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Bulkhandelingen gebruiken in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
             + [Marketo Sales Connect verwijderen uit Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
             + [Marketo Sales Connect verwijderen van Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + Salesforce-integratie {#salesforce-integration}
-            + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-            + [Verbind Uw Verkoop Connect Rekening met Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
-            + [Salesforce loskoppelen van uw Connect-account voor verkoop](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
-            + [Hoe te om &quot;Wij konden niet uw verzoek&quot;bevestigen wanneer het verbinden met Salesforce bevestigen](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
+            + [Aanpassing van Salesforce-activiteitsgegevens configureren](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
+            + [Verbinding maken met Salesforce voor uw Sales Connect-account](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+            + [Verbinding met Salesforce verbreken van uw Connect-account](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
+            + [&quot;We konden uw aanvraag niet verifiëren&quot; bij verbinding met Salesforce oplossen](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Logboekregistratie beantwoorden](product-docs/marketo-sales-connect/crm/salesforce-integration/reply-logging.md)
             + [Salesforce Diagnostics](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
-            + [Instellingen voor Salesforce Sync](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+            + [Salesforce-instellingen synchroniseren](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [Tekstactiviteit niet weergegeven](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
       + E-mailplug-ins {#email-plugins}
          + Gmail {#gmail}
-            + [E-mail toevoegen aan Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
+            + [E-mailadres toevoegen aan Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [Een stuk inhoud bijvoegen](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [Kalenderfunctionaliteit](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
             + [E-mailverbinding voor Gmail-gebruikers](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
@@ -1335,7 +1336,7 @@ ht-degree: 0%
          + [Niet aanmelden bij activiteitenoverzicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Niet aangemeld bij Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Schakel Call Recording in](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+         + [Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Telefoonnummer internationale oproep](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokale aanwezigheid op verkooptelefoon](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [Overzicht van verkooptelefonie](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
@@ -1343,8 +1344,8 @@ ht-degree: 0%
          + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + Taken {#tasks}
          + [Herinneringstaken maken en toewijzen](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
-         + [Herinnering taaksynchronisatie met Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
-         + [De Taken van de Verbinding van de Verkoop met Salesforce voor de eerste keer synchroniseren](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+         + [Taaksynchronisatie met Salesforce herinneren](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+         + [Sales Connect-taken voor het eerst synchroniseren met Salesforce](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Sjablonen {#templates}
          + [Automatisch afmelden aan een sjabloon toevoegen](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [Hyperlinktekst toevoegen](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
@@ -1382,7 +1383,7 @@ ht-degree: 0%
                + [Uw e-mailhandtekening toevoegen of bijwerken](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Identiteit toevoegen](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Admin {#admin}
-            + [Automatisch aanmelden bij Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
+            + [Automatisch aanmelden vanuit Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Nieuwe beheerder verbinden met Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
             + [Inhoud vergrendelen](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1411,21 +1412,21 @@ ht-degree: 0%
             + Salesforce-aanpassing {#salesforce-customization}
                + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce-integratie {#salesforce-integration}
-               + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
-               + [Sluit uw account voor Handelingen in het kader van Handelingen in het kader van Verkoopoverzicht aan op Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-               + [Salesforce loskoppelen van acties voor verkoopinzicht](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [Aanpassing van Salesforce-activiteitsgegevens configureren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
+               + [Je account voor Handelingen in het Verkoopoverzicht verbinden met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+               + [Salesforce loskoppelen van Handelingen van Verkoopcontrole](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Logboekregistratie beantwoorden](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Een sandbox Handelingen voor het toezicht op verkopen instellen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Verkoopactiviteiten synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
-            + Configuratie Salesforce-pakket {#salesforce-package-configuration}
-               + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+            + Salesforce-pakketconfiguratie {#salesforce-package-configuration}
+               + [Configuratie van Verkoopcontroleacties in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Knoppen voor handelingen toevoegen aan de Salesforce-lijstweergave](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
-               + [Veld voor activiteitstypen bijwerken bij aanmelding van activiteiten bij Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+               + [Knoppen voor handelingen toevoegen aan de lijstweergave van Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
+               + [Veld voor activiteitstypen bijwerken bij aanmelding bij Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
             + Handelingen in Salesforce {#actions-in-salesforce}
-               + [Verkoop via e-mail verzenden in Salesforce gebruiken](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
-               + [Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
+               + [Onthoud: Verkoop-e-mail verzenden in Salesforce gebruiken](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+               + [Opsomming toevoegen aan verkoopcampagne in Salesforce gebruiken](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-mail {#email}
             + Command Center {#command-center}
                + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1462,21 +1463,21 @@ ht-degree: 0%
             + [Worden de meningen, de Klik, en de Reacties van de Ontvangers die in CC en de Sectie BCC van E-mail worden vermeld getraceerd krijgen?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Heeft een iPhone- of Android-app voor Sales Insight-acties?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Hoe kan ik de Acties van het Inzicht van de Verkoop van de Lijst van gewenste personen op Mijn Server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
-            + [Hoe bevestig ik &quot;wij konden uw verzoek&quot;niet voor authentiek verklaren wanneer het verbinden met Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
+            + [Hoe kan ik &quot;We konden uw verzoek niet verifiëren&quot; herstellen wanneer ik verbinding maakte met Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Hoe voorkom ik zelfweergaven?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Hoe werkt het bijhouden van locaties?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Ik ben buiten mijn account gezet. Wat doe ik?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
-            + [Is de Acties van het Inzicht van de Verkoop verenigbaar met Salesforce Bliksem?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [Is het Handelingen van het Inzicht van de Verkoop compatibel met de Bliksem van Salesforce?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Welke browsers steunt de Acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [Wat zijn de voorwaarden van de Acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Waarom worden geen van mijn Contacten die aan de Acties van het Inzicht van de Verkoop worden geduwd?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Waarom vullen mijn dynamische velden niet uit?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
-            + [Waarom synchroniseren mijn verkoopactiviteiten en activiteitsvelden niet met Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
+            + [Waarom synchroniseren mijn verkoopactiviteiten en activiteitenvelden niet met Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Waarom kan ik geen contactpersoon verwijderen?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Waarom werden niet al mijn contacten geduwd op de acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Waarom worden mijn e-mails gemarkeerd als spam?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [Waarom is mijn campagne beëindigd?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
-            + [Waarom wordt de activiteit van het volgen niet getoond in salesforce activiteit?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+            + [Waarom wordt de activiteit van het volgen niet getoond in de activiteit van Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integraties {#integrations}
             + [Integratie van kenmerken](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
@@ -1496,7 +1497,7 @@ ht-degree: 0%
          + Telefoon {#phone}
             + [Resultaten bellen](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
             + [Redenen voor oproepen](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
-            + [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+            + [Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
             + [Schakel Call Recording in](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
             + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokale aanwezigheid](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
@@ -1536,9 +1537,9 @@ ht-degree: 0%
             + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
             + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + Instellen en gebruiken {#setting-up-and-using}
-            + [Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+            + [Een lead/contactpersoon toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Vereiste velden voor het synchroniseren van Marketo met dynamiek](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Verstuur een Marketo-verkoopbericht vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Sterren en vlammen instellen voor lead/contact-records](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + {#uninstalling} verwijderen
             + [Global MS Dynamics Sync uitschakelen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
@@ -1549,7 +1550,7 @@ ht-degree: 0%
          + Installatie {#installation}
             + [Marketo Sales Insight Package installeren in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Configuratie {#configuration}
-            + [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+            + [Marketo Sales Insight in Salesforce Enterprise configureren/Onbeperkt](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Marketo Sales Insight configureren in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Configuratie voor bestaande klanten](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
@@ -1558,8 +1559,8 @@ ht-degree: 0%
             + [Toestemming voor verkoopinzicht toevoegen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Toegang tot verkoopinzicht verwijderen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [Toegang tot verkoopinzicht toevoegen aan profielen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
-            + [Knoppen voor bulkacties toevoegen aan Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
-            + [Bulkacties in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
+            + [Bulkactieknoppen toevoegen aan Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
+            + [Bulkhandelingen in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
          + Functies {#features}
             + [Overzicht van MSI-functies](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Overzicht van dashboardfuncties voor inzichten](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
@@ -1594,8 +1595,8 @@ ht-degree: 0%
             + [Beste ets in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
             + [Marketo Sales Insight installeren en configureren in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Interesserende momenten in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
-            + [Diervoeders voor voorloopvogels in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
-            + [Handelingen voor Marketo-e-mail, -campagne en -controlelijst verzenden in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+            + [Diervoeders voor leads bekijken in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
+            + [Handelingen via e-mail, campagne en controlelijst voor Marketo verzenden in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + Bijwerken {#upgrading}
             + [Een upgrade uitvoeren van uw MSI-pakket](product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
       + Insteekmodule MSI Outlook {#msi-outlook-plugin}
