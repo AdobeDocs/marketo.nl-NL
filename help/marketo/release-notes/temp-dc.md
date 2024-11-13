@@ -4,9 +4,9 @@ title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '495'
 ht-degree: 2%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 2%
 
 Er zijn verschillende verbeteringen aangebracht in het dashboard Analytics, waaronder:
 
-* Totaal aangevraagd aantal actieve chatberichten: aantal bezoekers dat is aangevraagd voor een &quot;Chat met agent&quot;
+* Totaal aangevraagd aantal actieve chatberichten: aantal bezoekers dat is aangevraagd voor een &quot;chat met agent&quot;
 
-* Totaal verbonden livechat: aantal verbonden bezoekers vs. totaal aangevraagd voor een &quot;Chat met agent&quot;
+* Totaal verbonden livechat: aantal verbonden bezoekers vs. totaal aangevraagd voor een &quot;chat met agent&quot;
 
-* Totaal aantal gemiste livechatverzoeken: aantal onbeheerde bezoekers versus totaal aangevraagd voor een &quot;Chat met agent&quot;
+* Totaal aantal gemiste livechatverzoeken: aantal onbeheerde bezoekers versus totaal aangevraagd voor een &quot;chat met agent&quot;
 
 * Gemiddelde chatlengte in minuten: analyseren &quot;gemiddelde chatlengte&quot; tussen bezoekers en uw agenten
 
-* Gemiddelde responstijd van de agent in seconden: analyseer de &quot;gemiddelde tijd die door de agents wordt genomen&quot; om te reageren op hun livechat Q&amp;A
+* Gemiddelde Responstijd van de agent in seconden: analyseer de &quot;gemiddelde tijd die door agenten wordt genomen&quot;om op hun levende chat Q&amp;A te antwoorden
 
 * Dagelijks dashboard: livechatverzoeken zijn met succes verbonden, livechatverzoeken zijn overgeslagen, sorteren en filteren recente live chatactiviteiten
 
@@ -45,7 +45,7 @@ Kwaneer uw lood op de kwaliteit van hun praatjeinteractie en gebruik die metrisc
 
 * De muziekwaarde ligt tussen 0, 1, 2 en 3 (standaardwaarde is null)
 
-* Als de conversatie eenmaal is voltooid of verbroken, slaat u in de activiteit de waarde van de scoring op en plaatst u deze niet???????????????????????????????????? (wat betekent dit)
+* Nadat het gesprek is voltooid of gestopt, slaat u in de activiteit de waarde van de score op en post die u niet kunt bewerken???? (wat betekent deze zin)
 
 * Een score instellen:
 
@@ -63,7 +63,7 @@ SCREENSHOT
 
 Als een lead een formulier invult met de e-mail `abc@test.com` en als xyz wordt gekookt, wordt later hetzelfde formulier ingevuld met de e-mail `def@test.com` , wordt een nieuwe lead gemaakt, maar wordt cookie xyz gekoppeld aan de nieuwe lead en verwijderd uit lead `abc@test.com` .
 
-Vanaf dat moment is `abc@test.com` een lead zonder cookie. ANON LEAD?
+Vanaf dat moment is `abc@test.com` een lead zonder cookie. ANONIEME LEIDING?
 
 Dus wanneer een bezoeker met cookie abc op een pagina landt en een e-mailadres opgeeft als `abc@p.com` :
 
@@ -83,6 +83,12 @@ GIF
 
 ### Optie om lettertype over te nemen {#option-to-inherit-font}
 
-Als gebruiker wil ik mijn chatsessie inschakelen om het lettertype rechtstreeks over te nemen van de webpagina waar het wordt geladen in plaats van mijn merklettertype te beheren in de Dynamic Chat
+U kunt de chatbot nu inschakelen om het lettertype rechtstreeks over te nemen van de webpagina waarop het wordt gehost, in plaats van het merklettertype in de Dynamic Chat te beheren. Wanneer u deze optie inschakelt, neemt de chatbot het lettertype dat is gedefinieerd op de `<body>` -tag van de pagina.
 
-Opmerking: als u deze optie eenmaal hebt ingeschakeld, neemt Chatbot het lettertype over dat is gedefinieerd op de body-tag van de pagina
+SCREENSHOT
+
+### Integratie van de eisen met Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+De veeleisende gebruikers kunnen hun eigen vergunning van Demandbase brengen en de integratie activeren. De attributen van de de vraagbasis van het gebruik voor dialoog het richten, voorwaardelijke branding, en douane het verpletteren.
+
+De resolutie van deze kenmerkwaarden ten opzichte van een lead wordt in realtime uitgevoerd en wordt opgeslagen in het desbetreffende hoofdprofiel.
