@@ -4,9 +4,9 @@ description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Prod
 title: Champion/Challenger - Bepaal de criteria van Champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
 >[!PREREQUISITES]
 >
->[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
 ## Standaardkampioencriteria {#standard-champion-criteria}
 
-1. Kies een van de beschikbare opties **Champion-criteria**.
+1. Kies één van de beschikbare **Criteria van de Champion**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
    >
    >We volgen deze norm en sturen je een rapport met de gegevens per e-mail.
 
-1. Als u een van de standaardinstellingen hebt gekozen **Champion-criteria**, ga verder [Champion/Challenger: Rapportwaarschuwingen configureren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Als u één van standaard **Criteria van de Champion** koos, ga vooruit en ga op [ het vormen rapportalarm ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts) te werk!
 
-## Aangepaste miniatuurcriteria {#custom-champion-criteria}
+## Aangepaste Champion-criteria {#custom-champion-criteria}
 
-1. Als je leuk wilt worden, kun je naar eigen voorkeur gaan door **Aangepaste omzetting** en klikken **Bewerken**.
+1. Als u fantasie wilt krijgen, kunt u douane gaan door **de Omzetting van de Douane te selecteren** en **te klikken geeft** uit.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -45,13 +45,13 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
    ![](assets/image2014-9-15-13-3a3-3a38.png)
 
-1. Definieer de trigger.
+1. Geef de trigger op.
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
    Marketo staat alleen triggers toe voor mensen die het e-mailbericht van dit e-mailprogramma hebben ontvangen. U hoeft het filter &#39;&#39;Is verzonden via e-mail&#39;&#39; niet toe te voegen.
 
-1. Klikken **Sluiten**.
+1. Klik **dicht**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
@@ -59,4 +59,4 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Rapportwaarschuwingen configureren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[ Champion/Challenger: Analytics ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)

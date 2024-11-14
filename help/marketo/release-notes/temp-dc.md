@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -46,7 +46,7 @@ Kwaneer uw lood op de kwaliteit van hun praatjeinteractie en gebruik die metrisc
 
 * De muziekwaarde ligt tussen 0, 1, 2 en 3 (standaardwaarde is null)
 
-* Nadat het gesprek is voltooid of gestopt, slaat u in de activiteit de waarde van de score op en post die u niet kunt bewerken???? (wat betekent deze zin)
+* Zodra het gesprek wordt voltooid of gelaten vallen, in de activiteit sparen de het schrapen waarde en post dat het niet kan worden uitgegeven   ???? (wat betekent deze zin)
 
 * Een score instellen:
 
