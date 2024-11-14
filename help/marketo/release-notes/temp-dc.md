@@ -4,7 +4,8 @@ title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
+exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
+source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -65,7 +66,7 @@ Als een lead een formulier invult met de e-mail `abc@test.com` en als xyz wordt 
 
 Vanaf dat moment is `abc@test.com` een lead zonder cookie. ANONIEME LEIDING?
 
-Dus wanneer een bezoeker met cookie abc op een pagina landt en een e-mailadres opgeeft als `abc@p.com` :
+Dus wanneer een bezoeker met cookie abc op een pagina landt en een e-mailadres opgeeft als `abc@test.com` :
 
 TABEL
 
