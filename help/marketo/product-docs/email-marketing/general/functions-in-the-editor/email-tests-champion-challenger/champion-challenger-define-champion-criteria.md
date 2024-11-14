@@ -4,7 +4,7 @@ description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Prod
 title: Champion/Challenger - Bepaal de criteria van Champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
    >
    >We volgen deze norm en sturen je een rapport met de gegevens per e-mail.
 
-1. Als u één van standaard **Criteria van de Champion** koos, ga vooruit en ga op [ het vormen rapportalarm ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts) te werk!
+1. Als u één van standaard **Criteria van de Champion** koos, ga vooruit en ga op [ het vormen rapportalarm ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) te werk!
 
 ## Aangepaste Champion-criteria {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
    >[!MORELIKETHIS]
    >
-   >[ Champion/Challenger: Analytics ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[ Champion/Challenger: Analytics ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
