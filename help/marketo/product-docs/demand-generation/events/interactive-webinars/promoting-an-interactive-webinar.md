@@ -3,9 +3,9 @@ description: Een interactief webinar promoten - Marketo Docs - Productdocumentat
 title: Een interactief webinar promoten
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -41,3 +41,22 @@ De verbindingen zijn beschikbaar op de rechterkant van het lusje van het Overzic
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 Met interactieve webinars kunt u registratie aanvragen voor, tijdens of na een webinar. In alle gevallen, zou u eenvoudig Webinar URL met het lood moeten delen. Als u op de koppeling klikt voordat het webinar begint, worden de koppelingen naar een pre-webinar landingpagina verzonden. Als u erop klikt tijdens het webinar, gaat u naar het webinar dat wordt uitgevoerd. Als u erop klikt na het webinar, wordt het webinar opgenomen.
+
+## Interactieve webinars Tokens {#interactive-webinars-tokens}
+
+Gebruik tokens om interactieve webinars in e-mails en bestemmingspagina&#39;s te promoten zonder handmatig de webinar-details toe te voegen. Dit verbetert de algehele efficiëntie, aangezien eventuele wijzigingen in de webinar-metagegevens (zoals de titel van het webinar, de begindatum, enzovoort) automatisch in uw elementen worden doorgevoerd.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**Lijst van tokens**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle

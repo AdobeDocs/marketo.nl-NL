@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '507'
 ht-degree: 1%
 
 ---
@@ -32,19 +32,9 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
     <tr> 
-   <td><strong> Verbeterde Gegevens van de Registratie in het Dashboard van de Betrokkenheid voor Interactieve Webinars </strong>: U kunt nu zien welke bedrijven de meeste aanwezigheid hebben gehad en het bedrijf, de titel, en de industrie krijgen bijgewerkt op een lood-niveau in rapporten beschikbaar in het Dashboard van de Betrokkenheid.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-    <tr> 
    <td><strong> Tokenization voor Interactive Webinars </strong>: U kunt nu tokens gebruiken om Interactieve Webinars in e-mails en Openende Pagina's te bevorderen zonder het moeten de webinar details manueel toevoegen.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Een interactief webinar promoten</a></td>
   </tr>
   <tr> 
    <td> </td> 
