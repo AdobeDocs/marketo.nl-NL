@@ -3,9 +3,9 @@ description: Aanvullende informatie voor Dynamic Chat - Documentatie voor Market
 title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '2427'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,134 @@ ht-degree: 2%
 De versies van de Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
 
 De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [ kan hier ](/help/marketo/release-notes/current.md){target="_blank"} worden gevonden.
+
+## Release september/oktober 2024 {#sep-oct-release}
+
+### Verbeterde live chatanalyse {#enhanced-live-chat-analytics}
+
+Er zijn verschillende verbeteringen aangebracht in het dashboard Analytics, waaronder:
+
+* Totaal aangevraagd aantal actieve chatberichten: aantal bezoekers dat is aangevraagd voor een &quot;chat met agent&quot;
+
+* Totaal verbonden livechat: aantal verbonden bezoekers vs. totaal aangevraagd voor een &quot;chat met agent&quot;
+
+* Totaal aantal gemiste livechatverzoeken: aantal onbeheerde bezoekers versus totaal aangevraagd voor een &quot;chat met agent&quot;
+
+* Gemiddelde chatlengte in minuten: analyseren &quot;gemiddelde chatlengte&quot; tussen bezoekers en uw agenten
+
+* Gemiddelde Responstijd van de agent in seconden: analyseer de &quot;gemiddelde tijd die door agenten wordt genomen&quot;om op hun levende chat Q&amp;A te antwoorden
+
+* Dagelijks dashboard: livechatverzoeken zijn met succes verbonden, livechatverzoeken zijn overgeslagen, sorteren en filteren recente live chatactiviteiten
+
+![](assets/dynamic-chat-sep-oct-2024-release-1.png)
+
+### Gesprek {#conversation-scoring}
+
+Kwaneer uw lood op de kwaliteit van hun praatjeinteractie en gebruik die metrisch als Trekker/Filter in Marketo Engage Slimme Campagnes. Gebruik de nieuwe attribuut _gespreksscore_ op de volgende activiteiten:
+
+* Bij een dialoogvenster
+* Behoefte aan een gespreksstroom
+* Betrokken bij een agent
+
+**Dingen aan nota te nemen:**
+
+* De muziekwaarde ligt tussen 0, 1, 2 en 3 (standaardwaarde is null)
+
+* Wanneer het gesprek wordt voltooid of gelaten vallen, kan de het schrapen waarde niet worden uitgegeven
+
+* Een score instellen:
+
+   * In de agent inbox - tijdens een levende praatje, kan de agent een score voor het gesprek bijwerken of plaatsen, dat in de gespreksactiviteit wordt opgeslagen
+
+   * In de stroomontwerper - in de doelkaart, kan de gebruiker een score voor het gesprek bijwerken of plaatsen
+
+![](assets/dynamic-chat-sep-oct-2024-release-2.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-3.png)
+
+![](assets/dynamic-chat-sep-oct-2024-release-4.png)
+
+### Nieuwe logica voor het maken van leads {#new-lead-creation-logic}
+
+Als een lead een formulier invult met de e-mail `abc@test.com` en als xyz wordt gekookt, wordt later hetzelfde formulier ingevuld met de e-mail `def@test.com` , wordt een nieuwe persoonrecord gemaakt, maar wordt cookie xyz gekoppeld aan de nieuwe persoon en verwijderd van de persoon `abc@test.com` .
+
+Dus wanneer een bezoeker met cookie abc op een pagina landt en een e-mailadres opgeeft als `abc@test.com` :
+
+<table><thead>
+  <tr>
+    <th>Bezoeker</th>
+    <th>Cookie</th>
+    <th>E-mail verstrekt</th>
+    <th>Verwacht gedrag</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Anoniem</td>
+    <td>abc</td>
+    <td>Is niet aanwezig in database</td>
+    <td>Een nieuwe persoon maken</td>
+  </tr>
+  <tr>
+    <td>Anoniem</td>
+    <td>abc</td>
+    <td>Bestaat in database</td>
+    <td>Een persoon samenvoegen</td>
+  </tr>
+  <tr>
+    <td>Anoniem</td>
+    <td>xyz</td>
+    <td>Bestaat in database</td>
+    <td>Een persoon samenvoegen</td>
+  </tr>
+  <tr>
+    <td>Bekende persoon</td>
+    <td>abc</td>
+    <td>Zelfde als bestaande persoon</td>
+    <td>Personen bijwerken</td>
+  </tr>
+  <tr>
+    <td>Bekende persoon</td>
+    <td>abc</td>
+    <td>Verschil met bestaande persoon</td>
+    <td>Als er al een bekende persoon bestaat, verzendt u het cookie en lost u dat profiel op. Als er geen persoon bestaat met deze e-mail, maakt u een nieuwe persoonrecord en draagt u de cookie over</td>
+  </tr>
+  <tr>
+    <td>Bekende persoon</td>
+    <td>xyz</td>
+    <td>Zelfde als bestaande persoon</td>
+    <td>Nieuwe cookie toevoegen aan dezelfde persoon</td>
+  </tr>
+  <tr>
+    <td>Bekende persoon</td>
+    <td>xyz</td>
+    <td>Verschil met bestaande persoon</td>
+    <td>dit scenario is niet mogelijk alsof het een nieuwe cookie is van   standaard beschouwd als nieuw anoniem profiel</td>
+  </tr>
+</tbody></table>
+
+### Geoptimaliseerde de ladingstijd van de gespreksstroom {#optimized-conversation-flow-load-time}
+
+Om de gebruikerservaring te verbeteren, wordt nu een shimmer lader getoond in plaats van een lege ruimte terwijl de Omroepstroom laadt.
+
+**vóór**
+
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
+
+**na**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
+
+### Optie om lettertype over te nemen {#option-to-inherit-font}
+
+U kunt de chatbot nu inschakelen om het lettertype rechtstreeks over te nemen van de webpagina waarop het wordt gehost, in plaats van het merklettertype in de Dynamic Chat te beheren. Wanneer u deze optie inschakelt, neemt de chatbot het lettertype dat is gedefinieerd op de `<body>` -tag van de pagina.
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+
+### Integratie van de eisen met Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+De veeleisende gebruikers kunnen hun eigen vergunning van Demandbase brengen en de integratie activeren. De attributen van de de vraagbasis van het gebruik voor dialoog het richten, voorwaardelijke branding, en douane het verpletteren.
+
+De resolutie van deze kenmerkwaarden ten opzichte van een persoon zou in real time worden uitgevoerd en wordt opgeslagen in het respectievelijke persoonlijke profiel.
 
 ## Release van augustus 2024 {#august-release}
 

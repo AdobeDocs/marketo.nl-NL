@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Tijdens de migratie gaan uw abonnement en gebruikersbeheer van de Marketo-toepas
 
 * **URLs zal verschillend na migratie** kijken. Na de migratie gaat Marketo Engage van experience.adobe.com naar Adobe Experience Cloud. U zult met uw team van IT moeten werken om alle vermelde domeinen van de Adobe [ bij de bovenkant van dit artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} te lijsten van gewenste personen om verstoring aan de toegang van het Marketo Engage te verhinderen.
 
-De id-nummers van uw elementen blijven ongewijzigd. En vorige verbindingen en referenties aan de activa van het Marketo Engage op het engage-xx.marketo.com domein _zullen_ blijven functioneren. U moet zich echter eerst aanmelden bij de instantie Marketo Engage voor de URL waarnaar u navigeert. Als u bijvoorbeeld naar een bladwijzer voor een slimme campagne wilt navigeren, bijvoorbeeld met Munchkin-id 123-ABC-456, moet u zich eerst aanmelden bij de instantie Marketo Engage met Munchkin-id 123-ABC-456.
+De id-nummers van uw elementen blijven ongewijzigd. En vorige verbindingen en referenties aan de activa van het Marketo Engage op het engage-xx.marketo.com domein _zullen_ blijven functioneren. U moet zich echter eerst aanmelden bij de instantie Marketo Engage voor de URL waarnaar u navigeert. Als u bijvoorbeeld naar een bladwijzer voor een slimme campagne wilt navigeren, bijvoorbeeld met Munchkin ID 123-ABC-456, moet u zich eerst aanmelden bij de instantie Marketo Engage met Munchkin ID 123-ABC-456.
 
 ## Wat verandert er niet? {#what-is-not-changing}
 
@@ -82,6 +82,8 @@ Als Marketo-productbeheerder wordt u aangeraden ervoor te zorgen dat alle gebrui
 
 * Controle [ e-mailverificatie ](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"} status voor alle gebruikers in het gebied van Admin van Marketo. Moedig gebruikers die hun e-mailadres niet hebben geverifieerd aan om dit te doen en help gebruikers eventuele problemen op te lossen bij het voltooien van het verificatieproces.
 
+* Zoek in uw e-mailpostvak naar &#39;vergrendelde&#39; gebruikersmeldingen. Vraag gebruikers die zijn vergrendeld, hun wachtwoord opnieuw in te stellen om de toegang tot het Marketo Engage voor de migratiedag te herstellen.
+
 * Alle gebruikers voorbereiden op de volgende migratie naar Adobe-id.
 
 >[!NOTE]
@@ -90,7 +92,7 @@ Als Marketo-productbeheerder wordt u aangeraden ervoor te zorgen dat alle gebrui
 
 >[!IMPORTANT]
 >
->Als een gebruiker van het Marketo Engage zijn e-mailadres niet verifieert, wordt hij of zij niet naar een Adobe ID gemigreerd en verliest hij of zij de toegang tot het Marketo-abonnement nadat de migratie voor het abonnement is voltooid. Om toegang te krijgen, moet een Marketo-productbeheerder deze als nieuwe gebruiker toevoegen.
+>Als een gebruiker van het Marketo Engage zijn e-mailadres niet verifieert of op het moment van de gebruikersmigratie is vergrendeld, wordt hij of zij niet naar een Adobe ID gemigreerd en verliest hij of zij de toegang tot het Marketo-abonnement nadat de migratie voor het abonnement is voltooid. Om toegang te krijgen, moet een Marketo-productbeheerder deze als nieuwe gebruiker toevoegen.
 
 ### Wat verwacht u op de migratiedag {#what-to-expect-on-migration-day}
 
