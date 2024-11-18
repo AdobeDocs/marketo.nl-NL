@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '546'
 ht-degree: 1%
 
 ---
@@ -89,6 +89,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 <br/>
 
 ## Aankondigingen {#announcements}
+
+* **Bulk extraheerde API Update**: Wij bevestigden een kwestie in het Bulk Uittreksel API die de columnHeaderNames optie impliceert, die u de namen van de douanekolomkopbal in het uitgevoerde dossier laat specificeren. Eerder konden kolomkopnamen die niet-ASCII-tekens bevatten, beschadigd raken.
 
 * **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
 
