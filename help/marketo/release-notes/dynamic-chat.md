@@ -3,7 +3,7 @@ description: Aanvullende informatie voor Dynamic Chat - Documentatie voor Market
 title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 2%
@@ -120,29 +120,29 @@ Dus wanneer een bezoeker met cookie abc op een pagina landt en een e-mailadres o
   </tr>
 </tbody></table>
 
-### Geoptimaliseerde de ladingstijd van de gespreksstroom {#optimized-conversation-flow-load-time}
-
-Om de gebruikerservaring te verbeteren, wordt nu een shimmer lader getoond in plaats van een lege ruimte terwijl de Omroepstroom laadt.
-
-**vóór**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**na**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### Optie om lettertype over te nemen {#option-to-inherit-font}
 
 U kunt de chatbot nu inschakelen om het lettertype rechtstreeks over te nemen van de webpagina waarop het wordt gehost, in plaats van het merklettertype in de Dynamic Chat te beheren. Wanneer u deze optie inschakelt, neemt de chatbot het lettertype dat is gedefinieerd op de `<body>` -tag van de pagina.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Integratie van de eisen met Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
 De veeleisende gebruikers kunnen hun eigen vergunning van Demandbase brengen en de integratie activeren. De attributen van de de vraagbasis van het gebruik voor dialoog het richten, voorwaardelijke branding, en douane het verpletteren.
 
 De resolutie van deze kenmerkwaarden ten opzichte van een persoon zou in real time worden uitgevoerd en wordt opgeslagen in het respectievelijke persoonlijke profiel.
+
+### Geoptimaliseerde de ladingstijd van de gespreksstroom {#optimized-conversation-flow-load-time}
+
+Om de gebruikerservaring te verbeteren, wordt nu een shimmer lader getoond in plaats van een lege ruimte terwijl de Omroepstroom laadt.
+
+**vóór**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**na**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## Release van augustus 2024 {#august-release}
 
