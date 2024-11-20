@@ -3,20 +3,20 @@ description: Een interactief webinar promoten - Marketo Docs - Productdocumentat
 title: Een interactief webinar promoten
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Een interactief webinar promoten {#promoting-an-interactive-webinar}
 
-Het bevorderen van een Interactief Webinar is gelijkaardig aan het bevorderen van een partner webinar via Launchpoint. Wanneer u een interactief webinar-gebeurtenisprogramma maakt, kunt u leden aan een programma toevoegen door een campagne uit te voeren of door leden naar het programma te importeren. Als u de leden wilt controleren die aan het Interactive Webinars Event Program zijn toegevoegd, klikt u op het tabblad Leden.
+Het bevorderen van een Interactief Webinar is gelijkaardig aan het bevorderen van een partner webinar via Launchpoint. Wanneer u een interactief webinar-gebeurtenisprogramma maakt, kunt u leden toevoegen door een campagne uit te voeren of door leden naar het programma te importeren. Om de leden te controleren die aan het Interactieve Programma van de Gebeurtenis van Webinars zijn toegevoegd, klik de **Leden** tabel.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Nadat de leden aan het programma zijn toegevoegd of in het programma zijn geïmporteerd, kunt u in het Interactive Webinar Event Program een e-mailcampagne maken om een uitnodiging naar alle programmaleden te verzenden en hun status als &quot;uitgenodigd&quot; wijzigen nadat de e-mail is bezorgd.
+Nadat de leden zijn toegevoegd of geïmporteerd, kunt u in het Interactive Webinar Event Program een e-mailcampagne maken om een uitnodiging naar alle programmaleden te verzenden en hun status te wijzigen in &quot;uitgenodigd&quot; zodra de e-mail is bezorgd.
 
 >[!NOTE]
 >
