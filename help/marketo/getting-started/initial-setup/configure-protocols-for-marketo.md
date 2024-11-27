@@ -4,9 +4,9 @@ description: Protocollen voor Marketo Engage configureren - Marketo's Engage - p
 title: Protocollen voor Marketo Engage configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -86,9 +86,9 @@ Sommige anti-anti-spamsystemen gebruiken het terug-weg van e-mail gebied in plaa
 >
 >Postini gebruikt een unieke technologie en vereist voegende op lijst van gewenste personen IP waaiers. Zie [ Voegend op lijst van gewenste personen met Postini ](https://nation.marketo.com/docs/DOC-1066).
 
-## Stap 3: Opstelling SPF en DKIM {#step-set-up-spf-and-dkim}
+## Stap 3: SPF en DKIM instellen {#step-set-up-spf-and-dkim}
 
-Uw marketingteam had u ook DKIM (Domain Keys Identified Mail)-informatie moeten sturen die aan uw DNS-resourcerecord (ook hieronder vermeld) moet worden toegevoegd. Volg de stappen om DKIM en SPF (het Kader van het Beleid van de Afzender) met succes te vormen, dan uw marketing team mee te delen dat dit is bijgewerkt.
+Uw marketingteam had u ook DKIM (Domain Keys Identified Mail)-informatie moeten sturen die u wilt toevoegen aan uw DNS-resourcerecord (ook hieronder vermeld). Volg de stappen om met succes DKIM en SPF (het Kader van het Beleid van de Afzender) te vormen, dan uw marketing team mee te delen dat dit is bijgewerkt.
 
 1. Aan opstelling SPF, voeg de volgende lijn aan onze DNS ingangen toe:
 
@@ -100,17 +100,17 @@ Uw marketingteam had u ook DKIM (Domain Keys Identified Mail)-informatie moeten 
 
    Vervang CompanyDomain met het belangrijkste domein van uw website (ex: &quot;`(company.com/)`&quot;) en CorpIP met het IP adres van uw collectieve e-mailserver (ex. &quot;25.255.255.255&quot;). Als u e-mail van veelvoudige domeinen door Marketo Engage gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.
 
-1. Voor DKIM, creeer DNS Verslagen van het Middel voor elk domein wij opstelling zouden willen. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
+1. Voor DKIM, creeer DNS de Verslagen van het Middel voor elk domein wij opstelling zouden willen. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
 
    `[DKIMDomain1]`: Hostrecord is `[HostRecord1]` en de TXT-waarde is `[TXTValue1]` .
 
    `[DKIMDomain2]`: Hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]` .
 
-   Kopieer HostRecord en TXTValue voor elke DKIMDomain u opstelling na het volgen van de [ instructies hier ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"} hebt. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
+   Kopieer HostRecord en TXTValue voor elke DKIMDomain u opstelling na het volgen van de [ instructies hier ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"} hebt. Vergeet niet elk domein te verifiëren in Beheer > E-mail > DKIM nadat uw IT-personeel deze stap heeft voltooid.
 
 ## Stap 4: DMARC instellen {#set-up-dmarc}
 
-DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) is een verificatieprotocol dat wordt gebruikt om organisaties te helpen hun domein te beschermen tegen ongeoorloofd gebruik. DMARC breidt de bestaande authentificatieprotocollen, zoals SPF en DKIM uit, om ontvankelijke servers te informeren over welke acties zij zouden moeten nemen als een mislukking in authentificatie op hun domein voorkomt. Hoewel DMARC momenteel optioneel is, wordt het ten zeerste aanbevolen omdat het uw merk en reputatie van uw organisatie beter beschermt. Belangrijke leveranciers zoals Google en Yahoo zullen het gebruik van DMARC voor bulkafzenders vanaf februari 2024 vereisen.
+DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) is een verificatieprotocol dat wordt gebruikt om organisaties te helpen hun domein te beschermen tegen ongeoorloofd gebruik. DMARC breidt de bestaande authentificatieprotocollen, zoals SPF en DKIM uit, om ontvankelijke servers te informeren over welke acties zij zouden moeten ondernemen als een mislukking in authentificatie op hun domein voorkomt. Hoewel DMARC momenteel optioneel is, wordt het ten zeerste aanbevolen omdat het uw merk en reputatie van uw organisatie beter beschermt. Belangrijke leveranciers zoals Google en Yahoo zullen het gebruik van DMARC voor bulkafzenders vanaf februari 2024 vereisen.
 
 DMARC werkt alleen als u ten minste een van de volgende DNS TXT-records hebt:
 
@@ -127,11 +127,11 @@ Als beste praktijken, wordt het geadviseerd om de implementatie van DMARC langza
 
    I. Analyseer terugkoppelen en de rapporten u (p=none) ontvangt en gebruikt, die de ontvanger vertelt om geen acties tegen berichten uit te voeren die authentificatie ontbreken, maar nog e-mailrapporten naar de afzender verzenden.
 
-   II. Het overzicht en lost kwesties met SPF/DKIM op als de wettige berichten authentificatie ontbreken.
+   II. De controle en lost kwesties met SPF/DKIM op als de wettige berichten authentificatie ontbreken.
 
-   III. Bepaal of SPF of DKIM is uitgelijnd en of verificatie voor alle legitieme e-mailadressen wordt doorgestuurd.
+   III. Bepaal of SPF of DKIM is uitgelijnd en of verificatie voor alle geldige e-mailberichten wordt doorgestuurd.
 
-   IV. De rapporten van het overzicht om de resultaten te verzekeren zijn wat u op uw SPF/DKIM beleid baseert.
+   IV. Revisierapporten om ervoor te zorgen dat de resultaten datgene zijn wat u verwacht op basis van uw SPF/DKIM-beleid.
 
 1. Ga verder om het beleid aan (p=quarantaine) aan te passen, dat de ontvangende e-mailserver aan quarantaine e-mail vertelt die authentificatie ontbreekt (dit betekent typisch het plaatsen van die berichten in de spamomslag).
 
@@ -194,7 +194,7 @@ DMARC-records hebben meerdere componenten, DMARC-tags genoemd. Elke tag heeft ee
     <td>Staat de domeineigenaar toe om rapporteringsopties te specificeren.</td>
     <td>0: Rapport genereren als alles mislukt 
     <br> 1: produceer rapport als om het even wat ontbreekt 
-    <br> d: Genereer rapport als DKIM mislukt 
+    <br> d: Rapport genereren als DKIM mislukt 
     <br> s: Genereer rapport als SPF ontbreekt</td>
     <td>1 (aanbevolen voor DMARC-rapporten)</td>
   </tr>
@@ -229,7 +229,7 @@ DMARC-records hebben meerdere componenten, DMARC-tags genoemd. Elke tag heeft ee
   <tr>
     <td>adkim</td>
     <td>Optioneel</td>
-    <td>Kan strikt (s) of Relaxed ® zijn. Relaxed alignment betekent dat het domein dat wordt gebruikt in de DKIM-handtekening een subdomein kan zijn van het adres 'Van'. Strikte uitlijning betekent dat het domein dat wordt gebruikt in de DKIM-handtekening een exacte overeenkomst moet zijn met het domein dat wordt gebruikt in het Van-adres.</td>
+    <td>Kan strikt (s) of Relaxed ® zijn. Relaxed alignment betekent dat het domein dat wordt gebruikt in de DKIM-handtekening een subdomein van het adres 'Van' kan zijn. Strikte uitlijning houdt in dat het domein dat wordt gebruikt in de DKIM-handtekening een exacte overeenkomst moet zijn met het domein dat wordt gebruikt in het Van-adres.</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
@@ -247,15 +247,15 @@ Voor volledige details rond DMARC en al zijn opties, gelieve te bezoeken [ https
 
 ### DMARC en Marketo Engage {#dmarc-and-marketo-engage}
 
-Er zijn twee soorten groepering voor DMARC-DKIM groepering en SPF groepering.
+Er zijn twee typen uitlijning voor DMARC: DKIM-uitlijning en SPF-uitlijning.
 
 >[!NOTE]
 >
 >Aanbevolen wordt om DMARC-uitlijning uit te voeren op DKIM versus SPF voor Marketo Engage.
 
-* DMARC-uitgelijnd DKIM: als u DKIM uitgelijnde DMARC wilt instellen, moet u:
+* DMARC uitgelijnd op DKIM—Als u DKIM uitgelijnde DMARC wilt instellen, moet u:
 
-   * Opstelling DKIM voor VAN: Domein van uw bericht. Gebruik de instructies [ in dit artikel ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Stel DKIM in voor het bericht FROM: Domein van uw bericht. Gebruik de instructies [ in dit artikel ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configureer DMARC voor het FROM:/DKIM-domein dat eerder was geconfigureerd
 
 * DMARC-Uitgelijnde SPF-aan opstelling DMARC richt SPF via branded terugkeer-weg, moet u:
@@ -369,13 +369,20 @@ De volgende lijsten behandelen alle servers van het Marketo Engage die uitgaande
    <tr>
    <td>54 237 141 197</td>
   </tr>
+  <tr>
+   <td>124 47 174 193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130 248 168,16</td>
-  </tr>
   </tr>
    <tr>
    <td>130 248 168 17</td>
+  </tr>
+  <tr>
+   <td>199 15 213 245</td>
+  </tr>
+  <tr>
+   <td>199 15 215 245</td>
   </tr>
  </tbody>
 </table>
