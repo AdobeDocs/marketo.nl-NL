@@ -4,9 +4,9 @@ description: Advanced Smart List Rule Logic - Marketo Docs - Productdocumentatie
 title: Advanced Smart List Rule Logic gebruiken
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ U kunt de nauwkeurige mensen vinden u door Slimme de regellogica van de Lijst op
 
 >[!PREREQUISITES]
 >
->* [Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
->* [Slimme lijstfilters definiëren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+>* [ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
+>* [ bepaalt Slimme Filters van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,25 +26,25 @@ U kunt de nauwkeurige mensen vinden u door Slimme de regellogica van de Lijst op
 
 ## Logica toevoegen aan een slimme lijst {#add-logic-to-a-smart-list}
 
-Standaard vindt uw slimme lijst de overeenkomende personen **[!UICONTROL ALL]** filters (filters 1 _en_ 2 _en_ 3). U kunt de regellogica wijzigen en zoeken naar personen die overeenkomen **[!UICONTROL ANY]** van de gedefinieerde filters (filters 1 _of_ 2 _of_ 3), of gebruik geavanceerde filters (filters 1 _en_ 2 _of_ 3).
+Door gebrek, zal uw Slimme Lijst de mensen vinden die **[!UICONTROL ALL]** filters (filters 1 _en_ 2 _en_ 3) aanpassen. U kunt de regellogica veranderen om mensen te vinden die **[!UICONTROL ANY]** van de bepaalde filters (filters 1 _of_ 2 _of_ 3) aanpassen, of geavanceerde filters (filters 1 _en_ 2 _of_ 3) gebruiken.
 
-In dit voorbeeld wil je mensen zoeken in Californië _en_ met een score van ten minste 50 punten _of_ met de status &quot;Gekwalificeerde verkoop&quot;.
+In dit voorbeeld, zeggen wij u mensen in Californië _en_ met een score van minstens 50 punten _of_ met een status van &quot;Verkoop Gekwalificeerd.&quot;
 
-1. Selecteren **[!UICONTROL Use Advanced filters]** in de vervolgkeuzelijst.
+1. Selecteer **[!UICONTROL Use Advanced filters]** in de vervolgkeuzelijst.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
-   >Gebruiken **[!UICONTROL Advanced]** de filters verminderen de behoefte om Slimme Lijsten met het Lid van Slimme filter van de Lijst tot stand te brengen. Hierdoor worden de prestaties geoptimaliseerd.
+   >Het gebruik van **[!UICONTROL Advanced]** -filters vermindert de noodzaak om slimme lijsten te maken met het lid van het filter Slimme lijst. Hierdoor worden de prestaties geoptimaliseerd.
 
-1. De **[!UICONTROL Advanced filters]** in het tekstvak wordt &#39;&#39;en&#39;&#39; weergegeven als de standaardwaarde tussen al uw filters.
+1. In het tekstvak **[!UICONTROL Advanced filters]** wordt &quot;en&quot; weergegeven als de standaardwaarde tussen al uw filters.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. Typ een paar haakjes rond &quot;2 en 3.&quot;
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ In dit voorbeeld wil je mensen zoeken in Californië _en_ met een score van ten 
 
 1. Wijzig de &quot;and&quot; tussen &quot;2 en 3&quot; in &quot;of.&quot;
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## Haakjes gebruiken bij het mengen van &quot;en&quot; en &quot;of {#use-parentheses-when-mixing-and-and-or}
 
 Voor het mixen van logica &#39;and&#39; en &#39;of&#39; moeten ronde haakjes worden gebruikt om uw intentie duidelijk te maken.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## Geneste ronde haakjes gebruiken voor vier of meer filters, indien nodig {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Afhankelijk van uw bedoeling, kunt u genestelde haakjes moeten toevoegen wanneer het gebruiken van vier of meer filters.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >

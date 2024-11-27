@@ -4,9 +4,9 @@ description: Handmatig een persoon maken - Marketo Docs - Productdocumentatie
 title: Handmatig een persoon maken
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -19,16 +19,14 @@ Er zijn vele manieren om een persoon in Marketo Engage te krijgen. Als je er han
 >
 >Marketo ondersteunt geen e-mailadressen die emojis bevatten.
 
-1. Ga naar de **[!UICONTROL Database]**.
+1. Ga naar de **[!UICONTROL Database]** .
 
-   ![](assets/db-1.png)
+   ![](assets/create-a-person-manually-1.png)
 
-1. Onder **[!UICONTROL New]**, klikt u op **[!UICONTROL New Person]**.
+1. Klik onder **[!UICONTROL New]** op **[!UICONTROL New Person]** .
 
-   ![](assets/two-2.png)
+   ![](assets/create-a-person-manually-2.png)
 
-1. Voer de gegevens van de persoon in en klik op **[!UICONTROL Create]**.
+1. Voer de gegevens van de persoon in en klik op **[!UICONTROL Create]** .
 
-   ![](assets/three-2.png)
-
-Dit is een snelle en eenvoudige manier om één persoon toe te voegen in Marketo!
+   ![](assets/create-a-person-manually-3.png)
