@@ -4,9 +4,9 @@ short-description: Nadat u de eerste installatiestappen hebt voltooid, leert u h
 title: Controlelijst voor gebruikersinstellingen
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '823'
 ht-degree: 6%
 
 ---
@@ -48,6 +48,7 @@ Uw nieuwe abonnementen van het Marketo Engage worden in kaart gebracht aan [ het
   <tr>
     <td>Gebruikers</td>
     <td><li>Creeer een beleid wanneer om <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html"> een gebruiker </a> tot stand te brengen.</li> <li>Maak een beleid voor het verwijderen van gebruikers.</li>
+    <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: U moet een Admin van het Systeem zijn om gebruikers te verwijderen.
     <li>Bepaal wie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html"> Admin van het Systeem van de Adobe en de toestemmingen van Admin van het Product van de Marketo Engage zou moeten hebben.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> voeg gebruikers </a> aan het gewenste Profiel van het Product toe.</li>
     <li>Maak één API-gebruiker voor elke API-gebruikscase.</li></td>
   </tr>
