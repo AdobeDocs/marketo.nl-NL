@@ -3,9 +3,9 @@ description: Een interactief webinar promoten - Marketo Docs - Productdocumentat
 title: Een interactief webinar promoten
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Met interactieve webinars kunt u registratie aanvragen voor, tijdens of na een w
 
 ## Interactieve webinars Tokens {#interactive-webinars-tokens}
 
-Gebruik tokens om interactieve webinars in e-mails en bestemmingspagina&#39;s te promoten zonder handmatig de webinar-details toe te voegen. Dit verbetert de algehele efficiëntie, aangezien eventuele wijzigingen in de webinar-metagegevens (zoals de titel van het webinar, de begindatum, enzovoort) automatisch in uw elementen worden doorgevoerd.
+Gebruik tokens om interactieve webinars in e-mails en bestemmingspagina&#39;s te promoten zonder handmatig webinar-details toe te voegen. Dit verbetert de algehele efficiëntie, aangezien eventuele wijzigingen in de webinar-metagegevens (zoals de titel van het webinar, de begindatum, enzovoort) automatisch in uw elementen worden doorgevoerd.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 
