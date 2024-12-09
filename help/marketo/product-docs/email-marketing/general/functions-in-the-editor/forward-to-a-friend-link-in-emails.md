@@ -4,7 +4,7 @@ description: Doorsturen naar een vriendenlink in e-mails - Marketo Docs - Produc
 title: Doorsturen naar een vriendenkoppeling in e-mails
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Doorsturen naar een vriendenkoppeling in e-mails {#forward-to-a-friend-link-in-emails}
 
-Als u de koppeling &quot;Doorsturen naar vriend&quot; toevoegt aan uw e-mails, kunt u personen volgen die via deze koppeling een e-mailbericht hebben ontvangen en deze automatisch toevoegen als een nieuwe persoon als deze nog niet in de database aanwezig is.
+Als u de koppeling &#39;Doorsturen naar vriend&#39; toevoegt aan uw e-mails, kunt u personen volgen die via deze koppeling een e-mailbericht hebben ontvangen en deze automatisch toevoegen als een nieuwe persoon als deze nog niet in de database staat.
 
-Stel bijvoorbeeld dat Keith de koppeling &quot;Doorsturen naar vriend&quot; gebruikt om het e-mailbericht door te sturen naar een onbekende persoon, Mark. Mark wordt automatisch toegevoegd als een nieuwe persoon, krijgt zijn eigen cookie toegewezen en zijn e-mail- en webactiviteiten zijn aan hem gekoppeld. Nochtans, als Keith de voorwaartse knoop in zijn e-mailcliënt gebruikt, wordt Mark verkeerd gekookt als Keith, en zijn activiteit wordt geregistreerd als Keith.
+Bijvoorbeeld, zeg gebruikt Keith de &quot;Vooruit aan Vriend&quot;verbinding om e-mail naar een onbekende persoon, Mark door te sturen. Mark wordt automatisch toegevoegd als een nieuwe persoon, krijgt zijn eigen cookie toegewezen en zijn e-mail- en webactiviteiten zijn aan hem gekoppeld. Nochtans, als Keith de voorwaartse knoop in zijn e-mailcliënt gebruikt, wordt Mark verkeerd gekookt als Keith, en zijn activiteit wordt geregistreerd als Keith.
 
 ## De koppeling toevoegen aan een e-mailsjabloon {#add-the-link-to-an-email-template}
 
-1. Ga naar de **Design Studio**.
+1. Ga naar de **Studio van het Ontwerp**.
 
    ![](assets/one-8.png)
 
-1. Zoek en selecteer de e-mailsjabloon waaraan u de koppeling wilt toevoegen. Klikken **Concept bewerken**.
+1. Zoek en selecteer de e-mailsjabloon waaraan u de koppeling wilt toevoegen. Klik **uitgeven Ontwerp**.
 
    ![](assets/two-7.png)
 
 1. Plak de volgende HTML-code op de plaats waar u de koppeling Doorsturen naar vriend wilt weergeven (als u hulp nodig hebt met dit onderdeel, kunt u contact opnemen met uw webontwikkelaar):
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -42,9 +42,9 @@ Stel bijvoorbeeld dat Keith de koppeling &quot;Doorsturen naar vriend&quot; gebr
 
    >[!CAUTION]
    >
-   >We raden u niet aan de stijl te gebruiken **positie:relatief** in uw e-mailsjabloon. Het kan problemen veroorzaken met de positie en weergave van het vak &quot;Doorsturen naar vriend&quot;.
+   >Wij adviseren niet gebruikend het stileren **positie:relatief** in uw e-mailmalplaatje. Het kan problemen veroorzaken met de positie en weergave van het vak &#39;Doorsturen naar vriend&#39;.
 
-1. Klikken **Concept voorvertonen** om ervoor te zorgen dat de sjabloon er naar wens uitziet.
+1. Klik **Concept van de Voorproef** om ervoor te zorgen het malplaatje de manier kijkt u het wilt.
 
    ![](assets/four-5.png)
 
@@ -52,7 +52,7 @@ Stel bijvoorbeeld dat Keith de koppeling &quot;Doorsturen naar vriend&quot; gebr
    >
    >Vergeet niet het sjabloonconcept goed te keuren om de wijzigingen toe te passen.
 
-   Alle e-mails die van die sjabloon gebruikmaken, hebben nu de koppeling Doorsturen naar vriend. Wanneer de e-mailontvanger erop klikt, wordt hij of zij doorgestuurd naar een webversie van het e-mailbericht met het vak &quot;Doorsturen naar een vriend&quot;:
+   Alle e-mails die van die sjabloon gebruikmaken, hebben nu de koppeling Doorsturen naar vriend. Wanneer de e-mailontvanger erop klikt, wordt hij of zij doorgestuurd naar een webversie van de e-mail met het vak &#39;Doorsturen naar een vriend&#39;:
 
    ![](assets/f2afbox.png)
 
@@ -64,27 +64,27 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
    ![](assets/five-4.png)
 
-1. Plaats de cursor op de gewenste locatie voor de koppeling en klik op de knop **Token invoegen** knop.
+1. Plaats de curseur waar u de verbinding wilt verschijnen en de **Symbolische knoop van het Tussenvoegsel** klikken.
 
    ![](assets/six-2.png)
 
-1. Selecteer **`{{system.forwardToFriendLink}}`** token.
+1. Selecteer het token **`{{system.forwardToFriendLink}}`** .
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >Dit token is de URL van de webversie van de e-mail met het vak &quot;Doorsturen naar vriend&quot;.
+   >Dit token is de URL van de webversie van de e-mail met het vak &#39;Doorsturen naar vriend&#39;.
 
 1. Schrijf uit wat u wilt dat de weergavetekst van de koppeling is (bijvoorbeeld &quot;Doorsturen naar een vriend&quot;).
 
    ![](assets/seven-1.png)
 
-1. Knip de **`{{system.forwardToFriendLink}}`** gebruiken met Ctrl+X (Windows) of Cmd+X (Mac). Markeer &quot;Doorsturen naar een vriend&quot; en klik op de knop **Koppeling invoegen/bewerken** knop.
+1. Knip het token **`{{system.forwardToFriendLink}}`** met Ctrl+X (Windows) of Cmd+X (Mac). Markeer &quot;door:sturen aan een vriend&quot;en klik **Tussenvoegsel/geef Verbinding** knoop uit.
 
    ![](assets/eight-1.png)
 
-1. Plak de **`{{system.forwardToFriendLink}}`** token in de **URL** gebruiken met Ctrl/Cmd+V en vervolgens op **Invoegen**.
+1. Plak het **`{{system.forwardToFriendLink}}`** teken in het **URL** vakje gebruikend Ctrl/Cmd+V, dan klik **Tussenvoegsel**.
 
    ![](assets/nine.png)
 
@@ -94,13 +94,13 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
    >[!NOTE]
    >
-   >Nieuwe personen die worden toegevoegd via een e-mailbericht &quot;Doorsturen naar een vriend&quot;, worden standaard niet meer geabonneerd op marketingberichten.
+   >Nieuwe personen die worden toegevoegd via een e-mailbericht &#39;Doorsturen naar een vriend&#39;, worden standaard niet meer geabonneerd op marketingberichten.
 
 ## Doorgestuurde activiteiten weergeven {#view-forwarding-activity}
 
-U kunt zien wie de e-mails heeft doorgestuurd en ontvangen in het activiteitenlog van de persoon.
+U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestuurd en ontvangen.
 
-1. Ga naar de **`Database`**.
+1. Ga naar de **`Database`** .
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ U kunt zien wie de e-mails heeft doorgestuurd en ontvangen in het activiteitenlo
 
    ![](assets/fourteen.png)
 
-1. Ga naar de **Activiteitenlogboek** tab. Dubbelklikken **E-mail doorgestuurd naar vriend** of **Verzonden naar e-mail voor vriend** voor meer informatie.
+1. Ga naar het **Logboek van de Activiteit** lusje. Dubbelklik **Ontvangen door:sturen aan Vriend E-mail** of **verzonden door:sturen naar Vriend E-mail** om details te zien.
 
    ![](assets/fifteen.png)
 
@@ -122,24 +122,24 @@ U kunt zien wie de e-mails heeft doorgestuurd en ontvangen in het activiteitenlo
 
    ![](assets/sixteen.png)
 
-1. Als u een persoon op ID wilt weergeven, kopieert en plakt u de **Persoon-id** aan het einde van de URL (het begin van de opgegeven URL is afhankelijk van uw Marketo-exemplaar):
+1. Om een persoon door identiteitskaart te bekijken, kopieer en plak **identiteitskaart van de Persoon** aan het eind van URL (het begin van URL zal van uw instantie van Marketo afhangen):
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
-   >Wij zullen de **Persoon-id** klikbaar en verbind rechtstreeks met de persoon in een aanstaande flard.
+   >Wij zullen **identiteitskaart van de Persoon** klikbaar maken en direct met de persoon in een aanstaande flard verbinden.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Als de vriend die de voorwaartse persoon ontvangt een onbekende persoon is, wordt een nieuwe persoon gecreeerd met &quot;Vooruit aan Vriend&quot;gemerkt als persoon **Bron**.
-   >Als de e-mail een lokaal middel van een programma is, wordt het programma gemarkeerd als het **Overnameprogramma**.
+   >Als de vriend die voorwaarts ontvangen een onbekende persoon is, wordt een nieuwe persoon gecreeerd met &quot;Vooruit aan Vriend&quot;duidelijk zoals de persoon **Source**.
+   >Als e-mail een lokaal bezit van een programma is, is het programma duidelijk als het van de persoon **Verwerving Programma**.
 
 ## Trigger of filter die de Door:sturen Activiteit gebruiken {#trigger-or-filter-using-forwarding-activity}
 
-Er zijn zes triggers/filters die u kunt gebruiken om flowhandelingen te activeren of om personen te filteren door de activiteit &quot;Doorsturen naar vriend&quot; te verzenden en ontvangen.
+Er zijn zes triggers/filters die u kunt gebruiken om flowhandelingen te activeren of om mensen te filteren door de activiteit &#39;Doorsturen naar vriend&#39; te verzenden en ontvangen.
 
 Als u op &#39;forward&#39; zoekt in de slimme lijst van een slimme campagne, vindt u de beschikbare triggers en filters.
 
@@ -147,4 +147,4 @@ Als u op &#39;forward&#39; zoekt in de slimme lijst van een slimme campagne, vin
 
 ## Test door naar vriend {#test-forward-to-friend}
 
-Als u &quot;Doorsturen naar vriend&quot; wilt testen, stuurt u uzelf een e-mail met de koppeling Volgende. Zorg ervoor dat u het object via de **E-mail verzenden** stroomstap, *niet* doorheen **Test-e-mail verzenden**.
+Als u &#39;Doorsturen naar vriend&#39; wilt testen, stuurt u uzelf een e-mail met de koppeling Volgende. Zorg ervoor u het door **verzendt verzendt e-mail** stroomstap, *niet* door **verzendt e-mail van de Test**.

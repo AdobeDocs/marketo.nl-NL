@@ -4,7 +4,7 @@ description: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken v
 title: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -17,27 +17,27 @@ Dit kan op twee plaatsen worden gedaan, de Redacteur van het Malplaatje en de he
 
 ## Upgrade uitvoeren vanuit de Sjablooneditor {#upgrade-from-the-template-editor}
 
-1. Ga naar de **Design Studio**.
+1. Ga naar de **Studio van het Ontwerp**.
 
    ![](assets/designstudio-1.png)
 
-1. Selecteren **Sjablonen**.
+1. Selecteer **Malplaatjes**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Selecteer een sjabloon waar **Compatibel met mobiele apparaten** is **Nee**.
+1. Selecteer een malplaatje waar **Mobiel Compatibel** **Nr** is.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klikken **Concept bewerken**.
+1. Klik **uitgeven Ontwerp**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klikken **Mobiel compatibel maken**.
+1. Klik **maken Mobiel Compatibel**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klikken **Upgrade**.
+1. Klik **Verbetering**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -53,7 +53,7 @@ Dit kan op twee plaatsen worden gedaan, de Redacteur van het Malplaatje en de he
 
 Geweldige vragen! Uw sjabloon moet de volgende tags hebben:
 
-`<pre data-theme="Confluence">Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV></pre>`
+`Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
 
 Als alles er goed uitziet, ziet u dit bericht.
 
@@ -69,11 +69,11 @@ Als u wijzigingen aanbrengt in de sjabloon, klikt u op Sjabloonhandelingen en se
 
 Wanneer u een bestemmingspagina uitgeeft en u op het mobiele lusje klikt, zult u soms merken het malplaatje niet is bevorderd. Vrees niet! U kunt het daar upgraden.
 
-1. Klik op de knop **Mobiel** tab.
+1. Klik het **Mobiele** lusje.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Klik op het selectievakje en klik op **Activeren**.
+1. Klik de controledoos en klik **activeren**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 
@@ -81,4 +81,4 @@ Wanneer u een bestemmingspagina uitgeeft en u op het mobiele lusje klikt, zult u
    >
    >Als u de mobiele versie van een sjabloon activeert, worden concepten gemaakt van alle bestemmingspagina&#39;s die deze gebruiken.
 
-Geweldig! U kunt nu [de mobiele weergave aanpassen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) van alle bestemmingspagina&#39;s die deze sjabloon gebruiken.
+Geweldig! U kunt nu [ de mobiele mening ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) van al uw het landen pagina&#39;s aanpassen die dit malplaatje gebruiken.

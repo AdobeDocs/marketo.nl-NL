@@ -3,10 +3,10 @@ description: Klassieke pictogramwoordenlijst - Marketo Docs - Productdocumentati
 title: Verklarende woordenlijst Klassiek pictogram
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -74,7 +74,7 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   <tr> 
    <td><img src="assets/image2015-1-9-10-3a37-3a40.png"> 
     </td> 
-   <td>Gemeenschap</td> 
+   <td>Community</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-10-3a38-3a59.png"> 
@@ -351,7 +351,7 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a42-3a29.png"> 
     </td> 
-   <td>Social</td> 
+   <td>Sociaal</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a43-3a17.png"> 
@@ -739,7 +739,7 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (ook voor alle SFDC-gerelateerde items)</td> 
+   <td>Salesforce (ook voor alle aan SFDC gerelateerde objecten)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png"> 
@@ -790,7 +790,7 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (ook voor alle SFDC-gerelateerde items)</td> 
+   <td>Salesforce (ook voor alle aan SFDC gerelateerde objecten)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png"> 
@@ -885,3 +885,4 @@ Hieronder staan de oude pictogrammen van de Marketo Classic-interface. De huidig
   </tr> 
  </tbody> 
 </table>
+ 

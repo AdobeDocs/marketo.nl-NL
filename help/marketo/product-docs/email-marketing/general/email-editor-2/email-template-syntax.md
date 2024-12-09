@@ -4,22 +4,22 @@ description: E-mailsjabloonsyntaxis - Marketo Docs - Productdocumentatie
 title: E-mailsjabloonsyntaxis
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '2423'
+source-wordcount: '2449'
 ht-degree: 0%
 
 ---
 
 # E-mailsjabloonsyntaxis {#email-template-syntax}
 
-In de nieuwe Marketo 2.0-ervaring bestaan e-mailsjablonen uit een willekeurige combinatie van elementen, variabelen, modules of containers. Elk wordt bepaald door Marketo-specifieke syntaxis aan uw HTML toe te voegen. Oude (v1.0) e-mailsjablonen worden ondersteund in E-maileditor 2.0; echter, zullen zij niet alle eigenschappen van de nieuwe Redacteur omvatten.
+In de nieuwe Marketo 2.0-ervaring bestaan e-mailsjablonen uit een willekeurige combinatie van elementen, variabelen, modules of containers. Elk wordt bepaald door Marketo-specifieke syntaxis aan uw HTML toe te voegen. Oude (v1.0) e-mailsjablonen worden ondersteund in E-maileditor 2.0, maar ze bevatten niet alle functies van de nieuwe Editor.
 
-De Marketo-syntaxis voor e-mail werkt alleen in sjablonen en afzonderlijke e-mails. het **niet** werken als deze zijn ingesloten in fragmenten of RTF-tokens.
+De e-mailsyntaxis van Marketo werkt slechts in malplaatjes en individuele e-mails; het werkt **niet** als ingebed in fragmenten of de tokens van de Tekst van de Rich.
 
 >[!NOTE]
 >
->Marketo Support is niet ingesteld als hulpmiddel bij CSS/HTML. Raadpleeg uw ontwikkelaar als u niet bekend bent met CSS/HTML.
+>Marketo Support is niet ingesteld als hulpmiddel bij CSS/HTML. Als u niet bekend bent met CSS/HTML, neemt u contact op met uw ontwikkelaar.
 
 >[!CAUTION]
 >
@@ -36,20 +36,20 @@ Elementen zijn inhoudsgebieden die u in uw e-mailsjabloon definieert als bewerkb
 
 ## RTF {#rich-text}
 
-Als u een gebied definieert als RTF-tekst, kunnen gebruikers de inhoud ervan bewerken [Marketo Rich Text Editor gebruiken](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Er zijn twee manieren om een Rich Text-element binnen een e-mailsjabloon te definiëren: mktEditable en mktoText. Een Rich Text-element kan altijd vanuit de e-maileditor worden omgezet in een fragment.
+Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [ kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Er zijn twee manieren om een Rich Text-element in een e-mailsjabloon te definiëren: mktEditable en mktoText. Een Rich Text-element kan altijd vanuit de e-maileditor worden omgezet in een fragment.
 
 ### Optie 1 - marktEditable {#option-mkteditable}
 
-Omdat e-maileditor 2.0 compatibel is met oudere versies, kunnen sommige oude e-mailsjablonen tekstelementen met tekstopmaak opgeven door class=&quot;mktEditable&quot; toe te voegen aan elk HTML-element. Dit wordt nog steeds ondersteund en de id van het element is de id die wordt gebruikt als weergavenaam in de e-maileditor.
+Omdat e-maileditor 2.0 compatibel is met oudere versies, kunnen sommige oude e-mailsjablonen tekstelementen met tekstopmaak opgeven door class=&quot;mktEditable&quot; toe te voegen aan elk HTML-element. Dit wordt nog steeds ondersteund en de id van het element is de id die wordt gebruikt als de weergavenaam in de e-maileditor.
 
 Vereiste kenmerken
 
-* **class**: &quot;mktEditable&quot;.
-* **id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+* **klasse**: &quot;mktEditable&quot;.
+* **identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
 
 Optionele kenmerken
 
-* **mktoName** : Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **mktoName** : Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Standaardwaarde
 
@@ -57,7 +57,7 @@ De inhoud binnen het HTML-element (indien aanwezig) met class=&quot;mktEditable&
 
 Voorbeeld:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### Optie 2 - mktoText {#option-mktotext}
 
@@ -65,9 +65,9 @@ Het wordt aanbevolen RTF-elementen op te geven met de syntaxis class=&quot;mktoT
 
 Vereiste kenmerken
 
-* **class**: &quot;mktoText&quot;
-* **id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-* **mktoName** : Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **klasse**: &quot;mktoText&quot;
+* **identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+* **mktoName** : Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Standaardwaarde
 
@@ -75,40 +75,40 @@ De inhoud binnen het HTML-element (indien aanwezig) met class=&quot;mktoText&quo
 
 Voorbeeld:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## Afbeeldingen {#images}
 
-U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt beide `<div>`, die een container opgeeft die `<img>` wordt ingevoegd in, of `<img>` tag. Als de eindgebruiker gewoon een afbeelding wil kiezen die de afbeeldings-URL retourneert (in tegenstelling tot het DOM), raadpleegt u &quot;afbeeldingsvariabelen&quot; in de onderstaande sectie. De volgende twee opties voegen een HTML in `<img>` element.
+U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt een `<div>` -tag gebruiken, waarmee een container wordt opgegeven waarin `<img>` wordt ingevoegd, of een `<img>` -tag. Als de eindgebruiker gewoon een afbeelding wil kiezen die de afbeeldings-URL retourneert (in tegenstelling tot het DOM), raadpleegt u &quot;afbeeldingsvariabelen&quot; in de onderstaande sectie. Met de volgende twee opties wordt een HTML `<img>` -element ingevoegd.
 
-### Optie 1 - Een `<div>` {#option-use-a-div}
+### Optie 1 - Een `<div>` gebruiken {#option-use-a-div}
 
 Vereiste kenmerken
 
 * **klasse:** &quot;mktoImg&quot;.
-* **id:** ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-* **mktoName :** Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart:** koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+* **mktoName:** Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **mktoImgClass:** Tekenreeks. De waarde hier wordt toegevoegd aan het klassenkenmerk van het dialoogvenster `<img>` -element in het div-element.
-* **mktoImgSrc:** Wordt gebruikt als standaardwaarde voor de afbeelding die binnen dit div-element wordt geplaatst. Er wordt een tijdelijke aanduiding gebruikt als deze wordt weggelaten.
-* **mktoImgLink:** Geef aan dat de `<img>` moet worden omgeven door een `<a>` -tag met deze doel-URL. De gebruiker kan dit wijzigen in de e-maileditor.
-* **mktoImgLinkTarget:** Geef aan dat de `<a>` -tag uit het kenmerk mktoImgLink moet dit doel gebruiken. Heeft geen effect als mktoImgLink niet ook wordt gebruikt.
-* **mktoImgWidth:** Wordt gebruikt als de breedte op het omsluitende gebied `<img>`.
-* **mktoImgHeight:** Wordt gebruikt als de hoogte op de omsloten ruimte `<img>`.
-* **mktoLockImgSize:** Wordt gebruikt om de `<img>` de hoogte- en breedte-eigenschap van het element zodat de eindgebruiker deze kan wijzigen (de standaardinstelling is waar als deze wordt weggelaten).
-* **mktoLockImgStyle:** Wordt gebruikt om het `<img>` de stijleigenschap van het element (de standaardwaarde is false).
+* **mktoImgClass:** Koord. De waarde hier wordt toegevoegd aan het klassenkenmerk van het element `<img>` binnen de div.
+* **mktoImgSrc:** als standaardwaarde voor het beeld moet worden gebruikt dat binnen dit div wordt geplaatst. Er wordt een tijdelijke aanduiding gebruikt als deze wordt weggelaten.
+* **mktoImgLink:** wijs erop dat `<img>` door een `<a>` markering met deze bestemmingsURL zou moeten worden omringd. De gebruiker kan dit wijzigen in de e-maileditor.
+* **mktoImgLinkTarget:** wijs erop dat de `<a>` markering van het mktoImgLink attribuut dit doel zou moeten gebruiken. Heeft geen effect als mktoImgLink niet ook wordt gebruikt.
+* **mktoImgWidth:** Gebruikt als breedte op ingesloten `<img>`.
+* **mktoImgHeight:** Gebruikt als hoogte op ingesloten `<img>`.
+* **mktoLockImgSize:** Gebruikt om het `<img>` bezit van de de hoogte en breedte van het element te ontgrendelen zodat de eindgebruiker kan wijzigen (gebrek is waar als weggelaten).
+* **mktoLockImgStyle:** Gebruikt om het `<img>` de stijleigenschap van het element te sluiten (het gebrek is vals).
 
 Standaardwaarde (optioneel)
 
-**`<img>`**: Te gebruiken als de `<img>` -element waarin de afbeelding wordt geplaatst. Nuttig als u inline opmaak aan de afbeelding wilt toevoegen. Omringende elementen opnemen `<a> </a>` -tags, dus als de gebruiker een koppeling toevoegt, wordt de stijl niet verwijderd!
+**`<img>`**: te gebruiken als het `<img>` -element waarin de afbeelding wordt geplaatst. Nuttig als u inline opmaak aan de afbeelding wilt toevoegen. Denk eraan dat u de omringende `<a> </a>` -tags opneemt, dus als de gebruiker een koppeling toevoegt, wordt de opmaak niet verwijderd!
 
 Voorbeeld:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
-### Optie 2 - Een \&lt;img> {#option-use-an-img}
+### Optie 2 - Een \&lt;img\> gebruiken {#option-use-an-img}
 
 >[!NOTE]
 >
@@ -117,52 +117,52 @@ Voorbeeld:
 Vereiste kenmerken
 
 * **klasse:** &quot;mktoImg&quot;.
-* **id:** ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-* **mktoName:** Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.  Standaardwaarde (optioneel)
-* **src:** Wordt gebruikt als standaardwaarde voor de afbeelding. Er wordt een tijdelijke aanduiding gebruikt als deze wordt weggelaten.
-* **mktoLockImgSize:** Wordt gebruikt om de `<img>` de hoogte- en breedte-eigenschap van het element zodat de eindgebruiker deze kan wijzigen (de standaardinstelling is waar als deze wordt weggelaten).
-* **mktoLockImgStyle:** Wordt gebruikt om het `<img>` de stijleigenschap van het element (de standaardwaarde is false).
+* **identiteitskaart:** koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+* **mktoName:** Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.  Standaardwaarde (optioneel)
+* **src:** als standaardwaarde voor het beeld worden gebruikt. Er wordt een tijdelijke aanduiding gebruikt als deze wordt weggelaten.
+* **mktoLockImgSize:** Gebruikt om het `<img>` bezit van de de hoogte en breedte van het element te ontgrendelen zodat de eindgebruiker kan wijzigen (gebrek is waar als weggelaten).
+* **mktoLockImgStyle:** Gebruikt om het `<img>` de stijleigenschap van het element te sluiten (het gebrek is vals).
 
 Voorbeeld:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 ## Fragmenten {#snippets}
 
-Als u een gebied definieert als een fragment, kunnen eindgebruikers kiezen welke goedgekeurd [Fragment](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)ze willen graag in deze regio inbrengen . Hoewel RTF-elementen vanuit de e-maileditor kunnen worden omgezet in fragmenten, kan een gebied dat u specifiek als een fragment definieert, niet worden omgezet in RTF-tekst. U kunt een gebied van het Fragment specificeren gebruikend een `<div>` with class=&quot;mktoSnippet&quot;
+Als u een gebied als Fragment bepaalt, zullen de eindgebruikers kunnen kiezen welk goedgekeurd [ Fragment ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) zij in dit gebied willen opnemen. Hoewel RTF-elementen vanuit de e-maileditor kunnen worden omgezet in fragmenten, kan een gebied dat u specifiek als een fragment definieert, niet worden omgezet in RTF-tekst. U kunt een fragmentgebied opgeven met een `<div>` met class=&quot;mktoSnippet&quot;
 
 Vereiste kenmerken
 
-* **id:** ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-* **mktoName:** Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart:** koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+* **mktoName:** Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Standaardwaarde (optioneel)
 
-**mktoDefaultSnippetId**: De numerieke id van het Marketo-fragment dat standaard moet worden weergegeven (werkt alleen als een fragment met die id bestaat en in die werkruimte is goedgekeurd).
+**mktoDefaultSnippetId**: De numerieke identiteitskaart van het Fragment van Marketo dat door gebrek zou moeten verschijnen (zal slechts werken als een Fragment met die identiteitskaart bestaat en in die werkruimte goedgekeurd is).
 
 Voorbeeld:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## Video {#video}
 
-Als u een gebied definieert als een video, kunnen eindgebruikers een YouTube- of Vimeo-URL invoegen die wordt weergegeven als een miniatuurafbeelding (met de knop Afspelen) in de e-mail. U kunt een videogebied opgeven met een `<div>` with class=&quot;mktoVideo&quot;
+Als u een gebied definieert als een video, kunnen eindgebruikers een YouTube- of Vimeo-URL invoegen die wordt weergegeven als een miniatuurafbeelding (met de knop Afspelen) in de e-mail. U kunt een videogebied opgeven met een `<div>` met class=&quot;mktoVideo&quot;
 
 Vereiste kenmerken
 
-* **id:** ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-* **mktoName:** Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart:** koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+* **mktoName:** Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **mktoImgClass:** Tekenreeks. De waarde hier wordt toegevoegd aan het klassenkenmerk van de videominiatuur `<img>` in de div.
+* **mktoImgClass:** Koord. De waarde wordt hier toegevoegd aan het klassenkenmerk van de videominiatuur `<img>` in het div-element.
 
 Voorbeeld:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## Variabelen {#variables}
 
-Variabelen zijn als tokens. U definieert deze eerst in het dialoogvenster `<head>` gedeelte van je e-mailtemplate met `<meta>` tags, en deze zo vaak als u wilt gebruiken in de hele sjabloon. Omdat de waarden in de sjabloon zijn gedefinieerd, kan de eindgebruiker de waarden volgens zijn eigen regels wijzigen. Merk op dat u een variabele als lokaal of globaal in werkingsgebied kunt bepalen. Als u een variabele binnen een &quot;Module&quot;gebruikt (zie hieronder), en een eindgebruiker die module dupliceert, zullen de lokale variabelen onafhankelijke waarden hebben, terwijl globale variabelen op beide modules van toepassing zullen zijn.
+Variabelen zijn vergelijkbaar met tokens. U definieert ze eerst binnen de sectie `<head>` van uw e-mailsjabloon met `<meta>` -tags en gebruikt ze vervolgens zo vaak als u wilt in de hele sjabloon. Omdat zij in het malplaatje worden bepaald, zal de eindgebruiker hun waarden volgens hun regels kunnen wijzigen. Merk op dat u een variabele als lokaal of globaal in werkingsgebied kunt bepalen. Als u een variabele binnen een &quot;Module&quot;gebruikt (zie hieronder), en een eindgebruiker die module dupliceert, zullen de lokale variabelen onafhankelijke waarden hebben, terwijl globale variabelen op beide modules van toepassing zullen zijn.
 
 ## String {#string}
 
@@ -170,22 +170,22 @@ Als u een variabele opgeeft als een tekenreeks, kan de eindgebruiker tekst invoe
 
 Vereiste kenmerken
 
-* **id:** Hoe u verwijst naar de variabele in uw e-mailsjabloon.
-* **mktoName:** Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart:** hoe u de variabele binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName:** Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **allowHTML:** Booleaans. Controls if the variable&#39;s value is HTML-escaped. De standaardwaarde is False als dit wordt weggelaten.
-* **default**: Standaardwaarde voor de tekenreeks. Blanco indien weggelaten.
-* **mktoModuleScope**: Booleaans. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
+* **allowHTML:** Van Boole. Controls if the variable&#39;s value is HTML-escaped. De standaardwaarde is False als dit wordt weggelaten.
+* **gebrek**: Standaardwaarde voor het koord. Blanco indien weggelaten.
+* **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
 
 Voorbeelddeclaratie:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 Voorbeeld:
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## Lijst {#list}
 
@@ -193,22 +193,22 @@ Als u een variabele opgeeft als een List, kan de eindgebruiker kiezen uit een se
 
 Vereiste kenmerken
 
-* **id**: Hoe u verwijst naar de variabele in uw e-mailsjabloon.
-* **mktoName:** Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
-* **waarden:** Door komma&#39;s gescheiden lijst met waarden. Moet ten minste één tekenreeks hebben.
+* **identiteitskaart**: Hoe u de variabele binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName:** Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **waarden:** komma gescheiden lijst van waarden. Moet ten minste één tekenreeks hebben.
 
 Optionele kenmerken
 
-* **standaard:** Standaardwaarde van het geselecteerde vervolgkeuzemenu. Indien weggelaten, wordt de eerste waarde van het kenmerk &quot;values&quot; gebruikt.
-* **mktoModuleScope**: Booleaans. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
+* **gebrek:** Standaardwaarde van uitgezochte dropdown. Indien weggelaten, wordt de eerste waarde van het kenmerk &quot;values&quot; gebruikt.
+* **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
 
 Voorbeelddeclaratie:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 Voorbeeld:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## Getal {#number}
 
@@ -216,25 +216,25 @@ Als u een variabele opgeeft als een Getal, kan de eindgebruiker een getal invoer
 
 Vereiste kenmerken
 
-* **id**: Hoe u verwijst naar de variabele in uw e-mailsjabloon.
-* **mktoName**: Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
-* **standaard:** Standaardnumerieke waarde voor de variabele.
+* **identiteitskaart**: Hoe u de variabele binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName**: Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **gebrek:** Standaard numerieke waarde voor de variabele.
 
 Optionele kenmerken
 
-* **min.:** Min. geaccepteerde waarde.
-* **max.:** Maximaal toegestane waarde.
-* **eenheden:** Eenheden die aan de getalwaarde moeten worden toegevoegd (ex: px, pt, em, enz.) in de e-maileditor en in de resulterende code worden weergegeven.
-* **stap:** Hoeveel eenheden moet de getalvariabele met (0,1, 1, 10, enz.) verhogen/verlagen. Als deze waarde wordt weggelaten, wordt standaard ingesteld op 1.
-* **mktoModuleScope**: Booleaans. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
+* **min:** Min toegelaten waarde.
+* **maximum:** Max toegelaten waarde.
+* **eenheden:** eenheden die aan de aantalwaarde (ex: px, pt, em, enz.) moeten worden toegevoegd wanneer getoond in de E-mailredacteur, evenals in de resulterende code.
+* **stap:** hoeveel eenheden de aantalvariabele zou moeten verhogen/verminderen door (0.1, 1, 10, enz.). Als deze waarde wordt weggelaten, wordt standaard ingesteld op 1.
+* **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
 
 Voorbeelddeclaratie:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 Voorbeeld:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## Kleur {#color}
 
@@ -242,21 +242,21 @@ Als u een variabele opgeeft als een kleur, kan de eindgebruiker een hexadecimale
 
 Vereiste kenmerken
 
-* **id**: Hoe u verwijst naar de variabele in uw e-mailsjabloon.
-* **mktoName**: Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart**: Hoe u de variabele binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName**: Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **standaard:** Standaardwaarde voor de kleur. Hexadecimale 6-cijferige kleurcode. Voorbeeld: #ffffff.
-* **mktoModuleScope**: Booleaans. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
+* **gebrek:** Standaardwaarde voor de kleur. Hexadecimale 6-cijferige kleurcode. Voorbeeld: #ffffff.
+* **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
 
 Voorbeelddeclaratie:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 Voorbeeld:
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## Boolean {#boolean}
 
@@ -264,47 +264,47 @@ Als u een variabele opgeeft als een Booleaanse waarde, kan de eindgebruiker de o
 
 Vereiste kenmerken
 
-* **id**: Hoe u verwijst naar de variabele in uw e-mailsjabloon.
-* **mktoName**: Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart**: Hoe u de variabele binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName**: Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **standaard:** Booleaanse waarde die de standaardstatus van de schakeloptie bepaalt. Onwaar indien weggelaten.
-* **false_value:** Waarde die moet worden ingevoegd wanneer de schakeloptie zich in de uit-stand bevindt. Onwaar indien weggelaten.
-* **true_value:** Waarde die moet worden ingevoegd wanneer de schakeloptie is ingeschakeld. Waar als weggelaten.
+* **gebrek:** waarde Van Boole die de standaardstaat van de knevelschakelaar bepaalt. Onwaar indien weggelaten.
+* **false_value:** Waarde die moet worden opgenomen wanneer de knevel in OFF positie is. Onwaar indien weggelaten.
+* **true_value:** Waarde die moet worden opgenomen wanneer de knevel in OP positie is. Waar als weggelaten.
 * **false_value_name:** UI die in knevel wordt getoond wanneer in uit positie. Onwaar indien weggelaten.
-* **true_value_name:** UI die in de knevel wordt getoond wanneer op positie. Waar als weggelaten.
-* **mktoModuleScope**: Booleaans. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
+* **true_value_name:** UI die in knevel wordt getoond wanneer binnen op positie. Waar als weggelaten.
+* **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
 
 Voorbeelddeclaratie:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 Voorbeeld:
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## HTML-blok {#html-block}
 
-Als u een variabele opgeeft als een HTML-blok, kan de eindgebruiker letterlijke HTML invoeren in de e-maileditor. U geeft een HTML Block-variabele op met `<meta>` with class=&quot;mktoHTML&quot;
+Als u een variabele opgeeft als een HTML-blok, kan de eindgebruiker letterlijke HTML invoeren in de e-maileditor. U geeft een HTML Block-variabele op met `<meta>` met class=&quot;mktoHTML&quot;
 
 Vereiste kenmerken
 
-* **id**: Hoe u verwijst naar de variabele in uw e-mailsjabloon.
-* **mktoName**: Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart**: Hoe u de variabele binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName**: Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **standaard:** Met HTML gecodeerde waarde die als standaardinhoud van het blok fungeert.
-* **mktoModuleScope**: Booleaans. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
+* **gebrek:** HTML gecodeerde waarde om als standaardinhoud van het blok te dienen.
+* **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
 
 Voorbeelddeclaratie:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 Voorbeeld:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## Afbeeldingsvariabele {#image-variable}
 
@@ -312,21 +312,21 @@ Als u een variabele opgeeft als een afbeelding, kan de eindgebruiker een afbeeld
 
 Vereiste kenmerken
 
-* **id**: Hoe u verwijst naar de variabele in uw e-mailsjabloon.
-* **mktoName**: Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart**: Hoe u de variabele binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName**: Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **standaard:** Standaardafbeeldings-URL voor het element.
-* **mktoModuleScope**: Booleaans. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
+* **gebrek:** Standaard beeld URL voor het element.
+* **mktoModuleScope**: Boolean. Controls whether the variable is local (true) or global (false) when used in a module. De standaardwaarde is False als dit wordt weggelaten.
 
 Voorbeelddeclaratie:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 Voorbeeld:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## Modules {#modules}
 
@@ -334,25 +334,25 @@ Modules zijn sjabloonsecties die op sjabloonniveau zijn gedefinieerd en die word
 
 >[!IMPORTANT]
 >
->Wanneer een e-mail van een e-mailmalplaatje wordt geproduceerd dat bepaalde modulecomponenten bevat, zullen om het even welke veranderingen die in de modules van het malplaatje worden aangebracht **niet** naar die e-mail worden gestuurd.
+>Wanneer een e-mail van een e-mailmalplaatje wordt geproduceerd dat bepaalde modulecomponenten bevat, zullen om het even welke veranderingen die aan de modules van het malplaatje worden aangebracht **niet** worden geduwd aan bovengenoemde e-mail.
 
-**Voor containers van het type `<table>`, `<tbody>`, `<thead>`, of `<tfoot>`:**
+**voor containers van type `<table>`, `<tbody>`, `<thead>`, of `<tfoot>`:**
 
 Opgegeven met `<tr>` with class=&quot;mktoModule&quot;
 
-**Voor containers van het type `<td>`:**
+**voor containers van type `<td>`:**
 
 Opgegeven met `<table>` with class=&quot;mktoModule&quot;
 
 Vereiste kenmerken
 
-* **id**: Hoe u in uw e-mailsjabloon naar de module verwijst.
-* **mktoName**: Tekenreeks. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
+* **identiteitskaart**: Hoe u de module binnen uw e-mailmalplaatje van verwijzingen voorziet.
+* **mktoName**: Koord. Dit is de weergavenaam die wordt weergegeven in E-maileditor 2.0. U kunt het beste een beschrijvende naam gebruiken.
 
 Optionele kenmerken
 
-* **mktoActive:** Bepaalt of deze module in de lijst van modules binnen de e-mailredacteur verschijnt. Heeft als standaardwaarde true. Indien onwaar, kan de module niet door een eindgebruiker aan een e-mail worden toegevoegd.
-* **mktoAddByDefault:** Hiermee bepaalt u of deze module zich op het canvas bevindt van een nieuwe e-mail waarin deze sjabloon bij het maken wordt gebruikt. De standaardwaarde is true (als mktoActive false is, wordt deze waarde genegeerd).
+* **mktoActive:** bepaalt of deze module in de lijst van modules binnen de e-mailredacteur verschijnt. Heeft als standaardwaarde true. Indien onwaar, kan de module niet door een eindgebruiker aan een e-mail worden toegevoegd.
+* **mktoAddByDefault:** bepaalt of deze module in het canvas van een nieuwe e-mail zal zijn die dit malplaatje op verwezenlijking gebruikt. De standaardwaarde is true (als mktoActive false is, wordt deze waarde genegeerd).
 
 >[!NOTE]
 >
@@ -362,11 +362,11 @@ Optionele kenmerken
 
 Een container houdt Modules en bepaalt waar zij kunnen worden geplaatst. Wanneer eindgebruikers modules opnieuw bestellen en in hun e-mail opnemen, controleert de container waar zij kunnen gaan.
 
-**Opgegeven met `<table>`, `<tbody>`, `<thead>`, `<tfoot>` of `<td>` with class=&quot;mktoContainer&quot;**
+**specificeerde gebruikend of `<table>`, `<tbody>`, `<thead>`, `<tfoot>` of `<td>` met class= &quot;mktoContainer&quot;**
 
 Vereiste kenmerken
 
-**id**: Hoe u in uw e-mailsjabloon naar de module verwijst.
+**identiteitskaart**: Hoe u de module binnen uw e-mailmalplaatje van verwijzingen voorziet.
 
 >[!CAUTION]
 >

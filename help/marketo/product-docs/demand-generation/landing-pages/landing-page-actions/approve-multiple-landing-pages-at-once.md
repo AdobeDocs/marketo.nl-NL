@@ -4,38 +4,38 @@ description: Meerdere landingspagina's tegelijk goedkeuren - Marketo Docs - Prod
 title: Meerdere bestemmingspagina's tegelijk goedkeuren
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 # Meerdere bestemmingspagina&#39;s tegelijk goedkeuren {#approve-multiple-landing-pages-at-once}
 
-1. Ga naar **Design Studio**.
+1. Ga naar **Studio van het Ontwerp**.
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik **het Bestaan Pagina&#39;s**.
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. Houd Ctrl (Windows) of Command (Mac) ingedrukt en klik om meerdere bestemmingspagina&#39;s te selecteren.
+1. Selecteer de gewenste bestemmingspagina&#39;s.
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
    >Klik niet op de werkelijke naam van de bestemmingspagina. Dit zijn koppelingen en u gaat naar de pagina zelf.
 
-1. Selecteer de bestemmingspagina&#39;s en ga naar **Handelingen op bestemmingspagina** en klik op **Goedkeuren**.
+1. Met uw het Landen geselecteerde Pagina&#39;s, klik **het Bestaan van de Acties van de Pagina** drop-down en selecteer **goedkeuren**.
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   Daar ga je! U kunt nu snel en eenvoudig meerdere bestemmingspagina&#39;s goedkeuren.
+1. Klik **goedkeuren**.
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >
