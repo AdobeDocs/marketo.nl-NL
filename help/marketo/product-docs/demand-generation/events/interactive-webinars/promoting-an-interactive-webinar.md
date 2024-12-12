@@ -3,7 +3,7 @@ description: Een interactief webinar promoten - Marketo Docs - Productdocumentat
 title: Een interactief webinar promoten
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
+source-git-commit: 88c1e40734a980b54f9d7f056399cf9ec2e0e100
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Het bevorderen van een Interactief Webinar is gelijkaardig aan het bevorderen va
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-Nadat de leden zijn toegevoegd of geïmporteerd, kunt u in het Interactive Webinar Event Program een e-mailcampagne maken om een uitnodiging naar alle programmaleden te verzenden en hun status te wijzigen in &quot;uitgenodigd&quot; zodra de e-mail is bezorgd.
+Nadat de leden zijn toegevoegd of geïmporteerd, kunt u in het Interactive Webinar-gebeurtenisprogramma een e-mailcampagne maken om een uitnodiging naar alle programmaleden te verzenden en hun status te wijzigen in &quot;uitgenodigd&quot; nadat de e-mail is bezorgd.
 
 >[!NOTE]
 >
