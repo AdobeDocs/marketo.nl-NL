@@ -3,7 +3,7 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 2%
@@ -41,23 +41,21 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong> Unregister Registrants van een Gebeurtenis in Interactieve Webinars </strong>: Nu als u geen registrant in uw webinar om het even welke reden wilt, kunt u hen unregister. De workflow verwijdert de registrant uit zowel het Marketo-gebeurtenisprogramma als Adobe Connect.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong> maak Campagnes op Archief </strong> onbruikbaar: maak actieve trekkercampagnes onbruikbaar en annuleer om het even welke geplande partijlooppas van campagnes in een omslag wanneer het wordt gearchiveerd. Aangezien er een extra toestemmingencontrole voor het archiveren omslagen is die actieve campagnes (activeer de Campagne van de Campagne van de Tejaar en de Campagne van de Partij van het Programma) bevatten, wordt deze eigenschap gehandicapt door gebrek met deze versie en kan worden toegelaten door aan <b> Admin </b> &gt; <b> de Chest van de Schat </b> in uw Marketo Engage te navigeren.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
