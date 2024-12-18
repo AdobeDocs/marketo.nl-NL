@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b97888aba47d98e26f9a7c6afb7d7fc60a3eb31b
+source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9383'
 ht-degree: 0%
 
 ---
@@ -1982,6 +1982,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: april &#39;24](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [Opmerkingen bij de release: juni &#39;24](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [Opmerkingen bij de release: juli &#39;24](release-notes/previous-releases/2024/release-notes-july-24.md)
+         + [Opmerkingen bij de release: oktober &#39;24](release-notes/previous-releases/2024/release-notes-oct-24.md)
       + 2023 {#2023}
          + [Opmerkingen bij de release: januari &#39;23](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Opmerkingen bij de release: maart &#39;23](release-notes/previous-releases/2023/release-notes-mar-23.md)
