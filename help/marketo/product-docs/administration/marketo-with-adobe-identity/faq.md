@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - Productdocumentatie
 title: Adobe Identity Management - Veelgestelde vragen
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
+source-wordcount: '1521'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Ja. Degenen die aan Adobe IMS zijn aangemeld, kunnen niet alle bestaande Marketo
 
 * Voltooiing van migratie na ondersteuning: beheerders van productondersteuning kunnen zaken indienen via de portal voor ondersteuning van Experiencen League.
 
-Als u Ultimate Success hebt, hebt u toegang tot Admin Console Migration White Glove Service. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor hulp.
+Als je Ultimate Success hebt, heb je toegang tot Admin Console Migration White Glove Service. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor hulp.
 
 **als ik een Identiteit van de Adobe om tot andere toepassingen van de Adobe gebruik, kan ik dat gebruiken om tot Marketo toegang te hebben?**
 
@@ -133,6 +133,10 @@ Wanneer abonnementen aan de Identiteit van de Adobe worden geregistreerd, wordt 
 **zijn om het even welke veranderingen nodig aan CNAMEs, SPF, of DKIM wij momenteel voor Marketo Engage na de migratie van de Identiteit van de Adobe gebruiken?**
 
 Nee, er zijn geen gevolgen voor deze configuraties.
+
+**Hoe kan ik zittingen verhinderen uit timing?**
+
+In [ Geavanceerde Montages ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings), kunt u het gewenste maximumzittingsleven (de toestemmingen van Admin van het Systeem vereiste) aanpassen. Het wordt aanbevolen deze instelling in te stellen na de migratie van het product, maar vóór de migratie van de gebruiker.
 
 **ik moet nu in Experience Cloud navigeren om tot Marketo Engage toegang te hebben. Is er een manier om deze stroom te stroomlijnen?**
 
