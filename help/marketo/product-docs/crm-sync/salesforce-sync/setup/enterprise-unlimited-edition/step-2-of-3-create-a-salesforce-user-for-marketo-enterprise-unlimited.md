@@ -4,7 +4,7 @@ description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterpr
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -158,7 +158,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
-Stap 2 van 2 is voltooid.
+Stap 2 van 3 is voltooid.
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ description: Adobe Identity Management FAQ - Marketo Docs - Productdocumentatie
 title: Adobe Identity Management - Veelgestelde vragen
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '1521'
 ht-degree: 0%
@@ -136,7 +136,7 @@ Nee, er zijn geen gevolgen voor deze configuraties.
 
 **Hoe kan ik zittingen verhinderen uit timing?**
 
-In [ Geavanceerde Montages ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings), kunt u het gewenste maximumzittingsleven (de toestemmingen van Admin van het Systeem vereiste) aanpassen. Het wordt aanbevolen deze instelling in te stellen na de migratie van het product, maar vóór de migratie van de gebruiker.
+In [ Geavanceerde Montages ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) {target="_blank"}, kunt u het gewenste maximumzittingsleven (de toestemmingen van Admin van het Systeem vereiste) aanpassen. Het wordt aanbevolen deze instelling in te stellen na de migratie van het product, maar vóór de migratie van de gebruiker.
 
 **ik moet nu in Experience Cloud navigeren om tot Marketo Engage toegang te hebben. Is er een manier om deze stroom te stroomlijnen?**
 
