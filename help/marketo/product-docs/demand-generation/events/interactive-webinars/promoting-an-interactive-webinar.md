@@ -2,9 +2,10 @@
 description: Een interactief webinar promoten - Marketo Docs - Productdocumentatie
 title: Een interactief webinar promoten
 feature: Interactive Webinars
-source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 0%
 Het bevorderen van een Interactief Webinar is gelijkaardig aan het bevorderen van een partner webinar via Launchpoint. Wanneer u een interactief webinar-gebeurtenisprogramma maakt, kunt u leden toevoegen door een campagne uit te voeren of door leden naar het programma te importeren. Als u de leden wilt controleren die aan het Interactive Webinars Event Program zijn toegevoegd, klikt u op het tabblad **[!UICONTROL Members]** .
 
 ![](assets/promoting-an-interactive-webinar-1.png)
+
+## Overzicht {#overview}
 
 Nadat de leden zijn toegevoegd of geïmporteerd, kunt u in het Interactive Webinar-gebeurtenisprogramma een e-mailcampagne maken om een uitnodiging naar alle programmaleden te verzenden en hun status te wijzigen in &quot;uitgenodigd&quot; nadat de e-mail is bezorgd.
 
