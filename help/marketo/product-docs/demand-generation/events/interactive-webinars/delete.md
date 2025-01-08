@@ -2,16 +2,17 @@
 description: Een interactief webinar promoten - Marketo Docs - Productdocumentatie
 title: Een interactief webinar promoten
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Een interactief webinar promoten {#promoting-an-interactive-webinar}
 
-Het bevorderen van een Interactief Webinar is gelijkaardig aan het bevorderen van een partner webinar via Launchpoint. Wanneer u een interactief webinar-gebeurtenisprogramma maakt, kunt u leden toevoegen door een campagne uit te voeren of door leden naar het programma te importeren. Als u de leden wilt controleren die aan het Interactive Webinars Event Program zijn toegevoegd, klikt u op het tabblad **[!UICONTROL Members]** .
+Het bevorderen van een Interactief Webinar is gelijkaardig aan het bevorderen van een partner webinar via Launchpoint. Wanneer u een interactief webinar-gebeurtenisprogramma maakt, kunt u leden toevoegen door een campagne uit te voeren of door leden naar het programma te importeren. Om de leden te controleren die aan het Interactieve Programma van de Gebeurtenis van Webinars zijn toegevoegd, klik de **Leden** tabel.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ Gebruik tokens om interactieve webinars in e-mails en bestemmingspagina&#39;s te
 
 **Lijst van tokens**
 
-<table><thead>
-  <tr>
-    <th>Token</th>
-    <th>Definitie</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>Het maximumaantal deelnemers dat kan deelnemen aan het interactieve webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>De duur waarvoor het interactieve webinar gepland is.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>De einddatum voor het geplande interactieve webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>De geplande eindtijd van het interactieve webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>De generieke opname-URL die kan worden gedeeld met het publiek na het webinar. Deze URL is niet bedoeld om live te worden gevolgd bij het webinar en houdt de activiteit van het publiek niet bij.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>De taal waarin het webinar wordt gehouden.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>De startdatum van het geplande interactieve webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>De geplande begintijd van het interactieve webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>De tijdzone waarin Interactive Webinar is gepland.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>De titel van het interactieve webinar dat zichtbaar is voor het publiek op de Webinar Entry Screens.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
