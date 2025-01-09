@@ -3,10 +3,10 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 2%
+source-wordcount: '471'
+ht-degree: 3%
 
 ---
 
@@ -61,6 +61,16 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 <br/>
 
 ## Aankondigingen {#announcements}
+
+* **Sociale Veroudering van Eigenschappen**: Op Woensdag, 31 Juli, 2024, begon Marketo Engage de veroudering van de volgende Sociale eigenschappen binnen het product:
+
+   * Opiniepeiling
+   * Sociale knop
+   * Aanbieding via verwijzing
+   * Video delen
+   * Sweepstake
+
+Vanaf dat moment konden gebruikers geen van deze sociale functies in Marketo Engage maken, klonen of insluiten. Bestaande sociale voorzieningen blijven werken tot 31 januari 2025. Op 1 februari 2025 zullen de sociale activa niet meer functioneren. Sociale functies die zijn ingesloten in bestemmingspagina&#39;s, moeten worden verwijderd. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 * **krijgt de Update van de Update van de Leden van het Programma**: Wij hebben [ verbeterd krijgen de Leden van het Programma ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query) {target="_blank"} API om de capaciteit te steunen om het herkenningsteken van programmaleden terug te winnen. Hiervoor voegt u id toe aan de lijst met velden die is opgegeven in de parameter fields van de API-aanvraag.
 
