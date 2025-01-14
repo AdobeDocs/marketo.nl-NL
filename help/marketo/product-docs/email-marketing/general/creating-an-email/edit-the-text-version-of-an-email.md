@@ -4,9 +4,9 @@ description: De tekstversie van een e-mail bewerken - Marketo Docs - Productdocu
 title: De tekstversie van een e-mail bewerken
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Wanneer u een e-mailbericht maakt, wilt u mogelijk dat de tekstversie anders wor
 
 >[!NOTE]
 >
->Dit is geen artikel over het maken van een e-mail met alleen tekst. Zie voor meer informatie hierover [Een e-mail met alleen tekst maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>Dit is geen artikel over het maken van een e-mail met alleen tekst. Voor informatie over dat, zie [ een tekst-Enige E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) creëren.
 
-1. Klik in de e-maileditor op de knop **Tekst** onder aan de e-mail.
+1. In de e-mailredacteur, klik het **lusje van de Tekst** bij de bodem van e-mail.
 
    ![](assets/one-5.png)
 
-1. Uitschakelen **Automatisch kopiëren uit HTML** om wijzigingen aan te brengen.
+1. Uncheck **kopieert automatisch van HTML** om veranderingen aan te brengen.
 
    ![](assets/two-5.png)
 
@@ -39,4 +39,6 @@ Wanneer u een e-mailbericht maakt, wilt u mogelijk dat de tekstversie anders wor
 
    ![](assets/five-3.png)
 
-Nu weet je het!
+>[!CAUTION]
+>
+>Het selecteren van **Exemplaar van HTML**, of het opnieuw selecteren **kopieert automatisch van HTML** in e-mails die dynamische inhoud bevatten zal de Gereviseerde vlag aan _waar_ voor alle segmenten in zowel de HTML als de versies van de Tekst van e-mail plaatsen.
