@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
+source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1511'
 ht-degree: 0%
 
 ---
@@ -86,10 +86,6 @@ Als Marketo-productbeheerder wordt u aangeraden ervoor te zorgen dat alle gebrui
 
 * Alle gebruikers voorbereiden op de volgende migratie naar Adobe-id.
 
->[!NOTE]
->
->Terwijl gebruikers migreren, ontvangen ze een e-mail van de Adobe waarin ze op de hoogte worden gesteld van de wijziging in de manier waarop ze zich aanmelden bij Marketo. Gebruikers worden uitgenodigd een uitnodiging om zich voor het eerst aan te melden met Adobe Identity te accepteren, door zich aan te melden met een bestaande Adobe ID of door een nieuwe uitnodiging in te stellen met hetzelfde e-mailadres.
-
 >[!IMPORTANT]
 >
 >Als een gebruiker van het Marketo Engage zijn e-mailadres niet verifieert of op het moment van de gebruikersmigratie is vergrendeld, wordt hij of zij niet naar een Adobe ID gemigreerd en verliest hij of zij de toegang tot het Marketo-abonnement nadat de migratie voor het abonnement is voltooid. Om toegang te krijgen, moet een Marketo-productbeheerder deze als nieuwe gebruiker toevoegen.
@@ -108,7 +104,7 @@ Alle Marketo-abonnementen met een Amerikaanse tijdzone worden gemigreerd vanaf m
 >
 >Tijdens de migratie van gebruikers zal de toegang tot het product niet verloren gaan. Als een gebruiker tijdens de tijd het programma wordt geopend hun gebruiker wordt gemigreerd, zal de gebruiker worden geregistreerd uit en ertoe aangezet om binnen notulen terug te verbinden gebruikend de Identiteit van de Adobe nadat de migratie volledig is. De gebruiker moet de uitnodiging accepteren door op de koppeling te klikken in de e-mail met bevoegdheden die wordt verzonden aan het einde van een geslaagde gebruikersmigratie.
 
-Terwijl gebruikers worden gemigreerd, ontvangen ze een e-mail van de Adobe waarin ze op de hoogte worden gesteld van de wijziging in de manier waarop ze zich aanmelden bij Marketo. De gebruikers **moeten** een uitnodiging goedkeuren om binnen het gebruiken van de Identiteit van de Adobe voor het eerst te ondertekenen, of door binnen met bestaande Adobe ID te ondertekenen of door nieuwe Adobe ID te vestigen die het zelfde e-mailadres gebruikt
+Terwijl gebruikers worden gemigreerd, ontvangen ze een e-mail van de Adobe waarin ze op de hoogte worden gesteld van de wijziging in de manier waarop ze zich aanmelden bij Marketo. De gebruikers **moeten** een uitnodiging goedkeuren om binnen het gebruiken van de Identiteit van de Adobe voor het eerst te ondertekenen, of door binnen met bestaande Adobe ID te ondertekenen of door vestiging een nieuwe Adobe ID gebruikend het zelfde e-mailadres.
 
 De meer informatie kan in [ Migrerend aan de Identiteit van de Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}, [ Teken-binnen van de Gebruiker met Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}, en [ Veelgestelde vragen van Identity Management van de Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"} worden gevonden.
 

@@ -3,7 +3,7 @@ description: Migreren naar Adobe Identity - Marketo Docs - Productdocumentatie
 title: Migreren naar Adobe-id
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
+source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
 workflow-type: tm+mt
 source-wordcount: '2317'
 ht-degree: 0%
@@ -181,7 +181,7 @@ Marketo-productbeheerders kunnen gebruikers selecteren voor migratie in batches 
 
 Een beheerder kan bijvoorbeeld een groep &#39;machtsgebruikers&#39; selecteren die ze eerst willen migreren. Wanneer deze gebruikersmigraties zijn voltooid, kunnen ze verschillende groepen gebruikers selecteren op basis van variabelen zoals werkruimte/bedrijf of functie/rol om de migratie van gebruikers verder te beperken tot batchgebruikers. Of ze kunnen besluiten om de rest van de gebruikers in de abonnementen te migreren nadat de eerste batch is geslaagd. Het doel is de meeste flexibiliteit te bieden bij het implementeren van Adobe-id&#39;s voor gebruikers.
 
-Alle gebruikersmigraties vinden gelijktijdig plaats en moeten binnen zestig seconden met succes worden voltooid. Terwijl de gebruikersmigratie voor een specifieke gebruiker plaatsvindt, zou de gebruiker toegang tot maximaal 1 minuut kunnen verliezen, en dat is slechts als de gebruiker in de toepassing wordt geregistreerd. Na voltooiing van de gebruikersmigratie ontvangt de gebruiker een e-mail over hoe hij zich bij Marketo Engage met een Adobe-id kan aanmelden. De gebruiker moet de uitnodiging via de knoopverbinding in e-mail _goedkeuren alvorens_ zij met een Instructies van Adobe ID kunnen ondertekenen op hoe te om in Marketo Engage met Adobe ID [ te ondertekenen kan hier ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) worden gevonden.
+Alle gebruikersmigraties vinden gelijktijdig plaats en moeten binnen zestig seconden met succes worden voltooid. Terwijl de gebruikersmigratie voor een specifieke gebruiker plaatsvindt, zou de gebruiker toegang tot maximaal 1 minuut kunnen verliezen, en dat is slechts als de gebruiker in de toepassing wordt geregistreerd. Na voltooiing van de gebruikersmigratie ontvangt de gebruiker een e-mail over hoe hij zich bij Marketo Engage met een Adobe-id kan aanmelden. De gebruiker moet de uitnodiging via de knoopverbinding in e-mail _goedkeuren alvorens_ zij binnen met een Adobe ID kunnen ondertekenen. De instructies op hoe te om in Marketo Engage met Adobe ID [ te ondertekenen kunnen hier ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) worden gevonden.
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
