@@ -4,20 +4,25 @@ title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1666'
+source-wordcount: '1715'
 ht-degree: 0%
 
 ---
 
 # E-mailsjablonen {#email-templates}
 
-Voor een versneld en verbeterd ontwerpproces kunt u zelfstandige e-mailsjablonen maken om eenvoudig aangepaste inhoud te hergebruiken.
+Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjablonen maken om aangepaste inhoud eenvoudig te hergebruiken.
 
 >[!IMPORTANT]
 >
 >Dit artikel is alleen van toepassing op leden van de nieuwe Marketo Engage Email Designer beta. Verspreid niet.
+
+>[!PREREQUISITES]
+>
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 >[!NOTE]
 >
@@ -45,11 +50,11 @@ Voor een versneld en verbeterd ontwerpproces kunt u zelfstandige e-mailsjablonen
 
 ## Uw sjabloon ontwerpen {#design-your-template}
 
-In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [ Ontwerp van kras ](#design-from-scratch), [ voer uw eigen HTML ](#import-html) in, of [ selecteer een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
+In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [ Ontwerp van kras ](#design-from-scratch), [ voert uw eigen HTML ](#import-html) in, of [ selecteert een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
 
 ![](assets/design-your-template-1.png)
 
-### Ontwerpen vanuit niets {#design-from-scratch}
+### Ontwerpen vanaf nul {#design-from-scratch}
 
 Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met eenvoudige acties voor slepen en neerzetten.
 
@@ -63,7 +68,7 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
 
 * Een HTML-bestand met een opgenomen stijlblad
 
-* Een .zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
+* Een zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
 
 >[!NOTE]
 >
@@ -99,7 +104,7 @@ Er zijn twee typen sjablonen waaruit u kunt kiezen.
 
 >[!TAB  malplaatjes van de Steekproef ]
 
-Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsjabloonontwerp.
+Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwerp voor e-mail.
 
 1. Het tabblad Voorbeeldsjablonen is standaard geopend.
 
@@ -115,7 +120,7 @@ Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsja
 
 >[!TAB  Bewaarde malplaatjes ]
 
-1. Klik het **Opgeslagen malplaatjes** lusje en selecteer het gewenste malplaatje.
+1. Klik het **Bewaarde malplaatjes** lusje en selecteer het gewenste malplaatje.
 
    ![](assets/saved-templates-1.png)
 
@@ -123,7 +128,7 @@ Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsja
 
    ![](assets/saved-templates-2.png)
 
-1. Bewerk de inhoud naar wens met de visuele contentontwerper.
+1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
 >[!ENDTABS]
 
@@ -147,7 +152,7 @@ Kies een van de kant-en-klare sjablonen voor een vliegende start in je e-mailsja
 
 1. Elke component kan worden aangepast via de tabbladen Instellingen of Stijl. Wijzig het lettertype, de tekststijl, de marge en meer.
 
-### Elementen toevoegen {#add-assets}
+### Assets toevoegen {#add-assets}
 
 Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
 
@@ -165,11 +170,11 @@ Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/
 
    >[!NOTE]
    >
-   >Om een bestaand beeld te vervangen, selecteer het, dan klik **Uitgezocht een activa** in het lusje van Montages op het recht.
+   >Om een bestaand beeld te vervangen, selecteer het, dan klik **selecteer een activa** in het lusje van Montages op het recht.
 
 ### Lagen, instellingen en stijlen {#layers-settings-styles}
 
-Open de boomstructuur om toegang te krijgen tot specifieke structuren en hun kolommen/componenten voor meer gedetailleerde bewerkingen. Klik op het pictogram Navigatieboom om toegang te krijgen.
+Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten voor meer korrelige het uitgeven toegang te hebben. Klik op het pictogram Navigatieboom om toegang te krijgen.
 
 ![](assets/layers-settings-styles-1.png)
 
@@ -214,13 +219,13 @@ Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het 
 
    ![](assets/personalize-content-2.png)
 
-1. Zoek het gewenste token en klik op het pictogram **...** (klik op het pictogram + om een token zonder terugvaltekst toe te voegen).
+1. Zoek het gewenste token en klik op het pictogram **...** (als u op het pictogram + klikt, wordt in plaats daarvan een token zonder terugvaltekst toegevoegd).
 
    ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Tekst voor alternatieven&quot; is de nieuwe editorterm voor de standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}`` . Het wordt aanbevolen als er geen waarde voor de persoon is in het veld dat u kiest.
+   >De &quot;tekst van de reserve&quot;is de nieuwe redacteurstermijn voor standaardwaarde. Voorbeeld: ``{{lead.First Name:default=Friend}}`` . Het wordt aanbevolen als er geen waarde is voor de persoon in het veld dat u kiest.
 
 1. Plaats uw reservetekst en klik **toevoegen**.
 
@@ -253,12 +258,12 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
      </tr>
      <tr>
        <td><b>Niet bijhouden</b></td>
-       <td>Schakelt het bijhouden van de URL uit</td>
+       <td>Hiermee wordt het bijhouden van de URL uitgeschakeld</td>
      </tr>
    </tbody>
    </table>
 
-1. U kunt de URL desgewenst een label geven of tags toevoegen.
+1. U kunt desgewenst een label aan de URL geven of tags toevoegen.
 
 1. Klik **sparen** wanneer gedaan.
 
@@ -288,11 +293,11 @@ Van **Meer** opties in de inhoudsredacteur, kunt u de volgende acties nemen:
 
 ## Sjabloondetails weergeven {#view-template-details}
 
-In de _E-mail malplaatjes_ lijstpagina, klik de naam van een e-mailmalplaatje om zijn details te bekijken.
+In de _E-mail malplaatjes_ het vermelden pagina, klik de naam van een e-mailmalplaatje om zijn details te bekijken.
 
 (assets/view-template-details-1.png
 
-U kunt basisgegevens zoals naam en beschrijving bewerken. Klik buiten het veld dat u hebt bewerkt om uw wijzigingen op te slaan.
+U kunt basisgegevens zoals naam en beschrijving bewerken. Klik buiten het veld dat u hebt bewerkt om de wijzigingen op te slaan.
 
 Klik **Meer** om uw malplaatje snel te schrappen of te dupliceren.
 
@@ -300,11 +305,11 @@ Als er actieve waarschuwingen zijn (fouten/waarschuwingen voor de e-mailsjabloon
 
 >[!NOTE]
 >
->Hoewel deze waarschuwingen het gebruik van de e-mailsjabloon voor het maken van e-mail niet belemmeren, geeft de informatie inzicht in wat mogelijk niet werkt en in de updates die nodig zijn voordat de e-mail kan worden gebruikt voor levering.
+>Hoewel deze waarschuwingen het gebruik van de e-mailsjabloon voor het maken van e-mail niet verbieden, biedt de informatie inzicht in wat mogelijk niet werkt en in de updates die nodig zijn voordat de e-mail kan worden gebruikt voor levering.
 
-## E-mailsjabloon gebruikt door verwijzingen weergeven {#email-template-used-by-references}
+## E-mailsjabloon weergeven die wordt gebruikt door verwijzingen {#email-template-used-by-references}
 
-In de samenvatting van het e-mailmalplaatje, klik **Gebruikt door** lusje om details te bekijken van waar dit e-mailmalplaatje binnen Marketo Engage is gebruikt.
+In de samenvatting van het e-mailmalplaatje, klik **Gebruikt door** tabel om details van te bekijken waar dit e-mailmalplaatje binnen Marketo Engage is gebruikt.
 
 ![](assets/email-template-used-by-references-1.png)
 
@@ -312,7 +317,7 @@ In de samenvatting van het e-mailmalplaatje, klik **Gebruikt door** lusje om det
 
 Deze actie kan worden uitgevoerd op:
 
-* Het detaillusje - klik **geeft e-mailmalplaatje** uit.
+* Het detaillusje - klik **uitgeeft e-mailmalplaatje**.
 
 Deze actie neemt u aan het _Ontwerp uw malplaatje_ pagina of de visuele pagina van de inhoudsredacteur die op het laatste bewaarde statuut van het e-mailmalplaatje wordt gebaseerd. Vanaf hier kunt u de inhoud van uw e-mailsjabloon naar wens bewerken. Zie E-mailsjablonen maken voor informatie over de bewerkingsopties.
 
