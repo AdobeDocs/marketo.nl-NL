@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
 workflow-type: tm+mt
-source-wordcount: '9383'
+source-wordcount: '9388'
 ht-degree: 0%
 
 ---
@@ -802,6 +802,7 @@ ht-degree: 0%
       + Afbeeldingen en bestanden {#images-and-files}
          + [Nieuwe afbeeldingendocument toevoegen](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [Afbeeldingen en bestanden toevoegen aan Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [Assets bewerken met Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [Een geüploade afbeelding of bestand verwijderen](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [De URL van een geüploade afbeelding of bestand zoeken](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [De afbeeldingen ophalen van een webpagina](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
