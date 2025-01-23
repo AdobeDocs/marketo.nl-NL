@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 282c2772ce5ba1be381e91cec7e4041315a7f8c9
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een campagne zichtbaar maken voor verkoopgebruikers](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[ maak een Campagne zichtbaar aan de Gebruikers van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
 
 ## Personen toevoegen aan een campagne {#add-individuals-to-a-campaign}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >Als u iemand vanuit Sales Connect aan een Marketo-campagne wilt toevoegen, moet Sales Connect de Marketo lead-id van die persoon hebben.
 
-1. Klik op de knop **Mensen** Tab.
+1. Klik het **Lusje van Mensen**.
 
    ![](assets/add-to-marketing-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-2.png)
 
-1. Klik op het selectievakje om uw contactpersoon of contactpersonen te selecteren en klik op **Geselecteerde toevoegen aan campagne**.
+1. Klik checkbox om uw contact(en) te selecteren en **te klikken voegt Geselecteerd aan Campagne** toe.
 
    ![](assets/add-to-marketing-campaign-3.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klikken **Volgende** wanneer gereed.
+1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt er echter voor kiezen om meer contactpersonen toe te voegen. Klik op Individuen en typ deze in als u dit wilt. Klik **daarna** wanneer gedaan.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
-1. Klikken **Marketingcampagne**.
+1. Klik **op de markt brengende Campagne**.
 
 PICC
 
@@ -56,17 +56,17 @@ PICC
 >
 >Als u de gewenste werkruimte niet ziet, controleert u of de beheerdersvoorzieningen aanwezig zijn via de pagina Marketo Team Access.
 
-1. Selecteer de gewenste campagne en klik op **Volgende**.
+1. Selecteer de gewenste campagne en klik **daarna**.
 
 PICC
 
-1. U wordt getoond de contacten die kwalificeren. Klikken **Start** om ze toe te voegen.
+1. U wordt getoond de contacten die kwalificeren. Klik **Begin** om hen toe te voegen.
 
 PICC
 
 ## Een groep toevoegen aan een campagne {#add-a-group-to-a-campaign}
 
-1. Klik op de knop **Mensen** Tab.
+1. Klik het **Lusje van Mensen**.
 
 PICC
 
@@ -74,15 +74,15 @@ PICC
 
 PICC
 
-1. Klikken **Groep toevoegen aan campagne**.
+1. Klik **toevoegen Groep aan Campagne**.
 
 PICC
 
-1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klikken **Volgende** wanneer gereed.
+1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt er echter voor kiezen om meer contactpersonen toe te voegen. Klik op Individuen en typ deze in als u dit wilt. Klik **daarna** wanneer gedaan.
 
 PICC
 
-1. Selecteren **Marketingcampagne**.
+1. Selecteer **de Marketing Campagne**.
 
 PICC
 
@@ -98,10 +98,10 @@ PICC
 >
 >Als u de gewenste werkruimte niet ziet, controleert u of de beheerdersvoorzieningen aanwezig zijn via de pagina Marketo Team Access.
 
-1. Selecteer de gewenste campagne en klik op **Volgende**.
+1. Selecteer de gewenste campagne en klik **daarna**.
 
 PICC
 
-1. U wordt getoond de contacten die kwalificeren. Klikken **Start** om ze toe te voegen.
+1. U wordt getoond de contacten die kwalificeren. Klik **Begin** om hen toe te voegen.
 
 PICC
