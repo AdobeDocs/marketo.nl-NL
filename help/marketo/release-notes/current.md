@@ -3,10 +3,10 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 3%
+source-wordcount: '551'
+ht-degree: 2%
 
 ---
 
@@ -32,8 +32,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
     <tr> 
-   <td><strong> Nieuwe E-mail Designer </strong>: Creeer moderne en efficiënte e-mails gebruikend nieuwe inheemse E-mail Designer in Marketo Engage. Open een van de vooraf ontworpen out-of-the-box e-mailsjablonen of maak eenvoudig uw eigen sjablonen. Gebruik dynamische inhoud en open afbeeldingen van Adobe Experience Manager-cloudservices.
-   <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview"> Systeem van Identity Management van de Adobe (IMS) </a> worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of <a href="https://nation.marketo.com/t5/support/ct-p/Support"> Steun van Marketo </a> te contacteren.</td> 
+   <td><strong> Nieuwe E-mail Designer </strong>: Creeer moderne en efficiënte e-mails gebruikend nieuwe inheemse E-mail Designer in Marketo Engage. Open een van de vooraf ontworpen out-of-the-box e-mailsjablonen of maak eenvoudig uw eigen sjablonen. Gebruik dynamische inhoud en open afbeeldingen van Adobe Experience Manager-cloudservices. Met de Gen-AI-functionaliteit voor Content Accelerator kunt u innovatieve en krachtige e-mails op schaal maken.
+   <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview"> Systeem van Identity Management van de Adobe (IMS) </a> worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of <a href="https://nation.marketo.com/t5/support/ct-p/Support"> Steun van Marketo </a> te contacteren. Neem contact op met het accountteam van de Adobe voor toegang tot de Gen-AI-functionaliteit voor Content Accelerator.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
