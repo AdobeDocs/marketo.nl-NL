@@ -3,9 +3,9 @@ description: Een marketingcampagne zichtbaar maken in Handelingen voor verkoopin
 title: Een marketingcampagne zichtbaar maken in Handelingen van het verkoopinzicht
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Met Handelingen van het Inzicht van de Verkoop, zullen de gebruikers toegang tot
 
    >[!NOTE]
    >
-   >Als u de marketing campagne aan gebruikers wilt tonen die _toevoegen aan de Campagne van de Marketing_ van toutapp.com (dit omvat ook als u Webtoepassing hebt ingebed in CRM via het voorwerp van de Verkoop van Marketo Outbox), plaats het aan &quot;de Dienst API van het Web.&quot; Als u wilt dat de marketingcampagne wordt weergegeven wanneer een gebruiker de acties in het MSI-deelvenster in Salesforce gebruikt op de lead, contact, accountpagina of de bulkactieknoppen in de lijst met leads en contactpersonen, werkt u deze bij naar &quot;Sales Insight&quot;
+   >Als u de marketing campagne aan gebruikers wilt tonen die _toevoegen aan de Campagne van de Marketing_ van toutapp.com (dit omvat ook als u Webtoepassing hebt ingebed in CRM via het voorwerp van de Verkoop van Marketo Outbox), plaats de Ontgevraagde bron van de Campagne aan &quot;de Dienst API van het Web.&quot; Als u wilt dat de marketingcampagne wordt weergegeven wanneer een gebruiker de acties in het MSI-deelvenster in Salesforce gebruikt op de lead, contact, accountpagina of de bulkactieknoppen in de weergaven van de lead- en contactlijst, werkt u de gevraagde bron van de campagne bij naar &quot;Sales Insight&quot;
 
 1. Klik de **Stroom** tabel.
 
