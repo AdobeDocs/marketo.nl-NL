@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: 03d6ff3567910ac12898c9b428d14f5d60323039
 workflow-type: tm+mt
-source-wordcount: '9388'
+source-wordcount: '9391'
 ht-degree: 0%
 
 ---
@@ -740,6 +740,7 @@ ht-degree: 0%
             + [Webinars op aanvraag](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [Workflows voor gebeurtenissen](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [Betrokkenheidsdashboard](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
+            + [MSI voor IW](product-docs/demand-generation/events/interactive-webinars/msi-for-iw.md)
       + Facebook {#facebook}
          + [Leads toevoegen aan een aangepast publiek in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Een aangepast publiek maken in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
