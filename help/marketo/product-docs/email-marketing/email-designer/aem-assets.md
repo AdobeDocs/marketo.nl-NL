@@ -3,7 +3,7 @@ title: Werken met Experience Manager Assets
 description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslagplaats kunt gebruiken bij het ontwerpen van inhoud in Adobe Marketo Engage.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%

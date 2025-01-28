@@ -3,7 +3,7 @@ title: Fragmenten
 description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2336'
 ht-degree: 0%
@@ -76,13 +76,13 @@ SCREENSHOT
 
 ### De lijst met fragmenten filteren {#filter-the-fragments-list}
 
-Gebruik de zoekbalk om een fragment op naam te zoeken. Klik het _pictogram van de Filter_ ( ![ tonen of verbergen filterpictogram ](../assets/do-not-localize/icon-filter.svg)) om de beschikbare filteropties te tonen en de gewenste montages te kiezen.
+Gebruik de zoekbalk om een fragment op naam te zoeken. Klik het _pictogram van de Filter_ ( ![ tonen of verbergen filterpictogram ](assets/icon-filter.svg)) om de beschikbare filteropties te tonen en de gewenste montages te kiezen.
 
 SCREENSHOT
 
 ### De kolomweergave aanpassen {#customize-the-column-display}
 
-Pas de kolommen aan u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![ aanpassen lijstpictogram ](../assets/do-not-localize/icon-column-settings.svg)) bij het hoogste recht.
+Pas de kolommen aan u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![ aanpassen lijstpictogram ](assets/icon-column-settings.svg)) bij het hoogste recht.
 
 Selecteer de gewenste kolommen in het dialoogvenster en klik op **[!UICONTROL Apply]** .
 
