@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '9394'
+source-wordcount: '9406'
 ht-degree: 0%
 
 ---
@@ -1061,6 +1061,12 @@ ht-degree: 0%
             + [Beschikbaarheid van stroominhoud bewerken](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [Stroominhoud prioriteren](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Stream-inhoud verwijderen](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + Designer e-mailen {#email-designer}
+         + [Overzicht](product-docs/email-marketing/email-designer/overview.md)
+         + [E-mailontwerp](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [E-mailsjablonen](product-docs/email-marketing/email-designer/email-templates.md)
+         + [Werken met AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [Fragmenten](product-docs/email-marketing/email-designer/fragments.md)
       + E-mailprogramma&#39;s {#email-programs}
          + Een e-mailprogramma maken {#creating-an-email-program}
             + [Een e-mailprogramma maken](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

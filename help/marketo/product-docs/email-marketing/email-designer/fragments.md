@@ -3,27 +3,27 @@ title: Fragmenten
 description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '2465'
+source-wordcount: '2336'
 ht-degree: 0%
 
 ---
 
 # Fragmenten
 
-Een fragment is een herbruikbare component waarnaar in een of meer e-mailsjablonen kan worden verwezen. Het is doorgaans een blok inhoud (tekst, afbeelding of beide) dat u kunt maken en snel kunt invoegen in een e-mailsjabloon. Met deze functionaliteit kunt u meerdere aangepaste inhoudsblokken vooraf samenstellen voor gebruik door uw leden van uw marketingteam om e-mailinhoud samen te stellen voor een verbeterd ontwerpproces. Veelvoorkomende gebruiksgevallen zijn inhoudsblokken voor kop- en voetteksten voor e-mail, uitnodigingsbanners voor gebeurtenissen, seizoensgebonden berichten en meer.
+Een fragment is een herbruikbare component waarnaar in een of meer e-mailsjablonen kan worden verwezen. Het is doorgaans een blok inhoud (tekst, afbeelding of beide) dat u kunt maken en snel in uw project kunt invoegen. Met deze functionaliteit kunt u meerdere aangepaste inhoudsblokken vooraf samenstellen voor gebruik door uw leden van uw marketingteam om e-mailinhoud samen te stellen voor een verbeterd ontwerpproces. Veelvoorkomende gebruiksgevallen zijn inhoudsblokken voor kop- en voetteksten voor e-mail, uitnodigingsbanners voor gebeurtenissen, seizoensgebonden berichten en meer.
 
 U kunt zo veel mogelijk gebruikmaken van fragmenten in uw workflows:
 
 * _creeer uw eigen fragmenten_ - creeer visuele fragmenten, of van kras of door inhoud als fragment van de visuele inhoudsredacteur op te slaan.
 * _hergebruik fragmenten_ - gebruik hen zo vele tijden zoals nodig in uw inhoud.
 
-## Visuele fragmenten
+## Visuele fragmenten {#visual-fragments}
 
 Visuele fragmenten zijn vooraf gedefinieerde visuele blokken die zijn gemaakt met de visuele inhoudeditor die u kunt hergebruiken in meerdere e-mails of e-mailsjablonen.
 
-## Fragmenten openen en beheren
+## Fragmenten openen en beheren {#access-and-manage-fragments}
 
 Ga naar de linkernavigatie en klik op **[!UICONTROL Content Management]** > **[!UICONTROL Fragments]** om visuele fragmenten te openen. Met deze actie opent u een pagina met lijsten met alle fragmenten die in de instantie in een tabel zijn gemaakt.
 
@@ -49,7 +49,7 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mail- of e-ma
   </td>
   <tr>
     <td><b>Gepubliceerd</b></td>
-    <td>Wanneer u een fragment publiceert, wordt dit beschikbaar voor gebruik in een e-mail- of e-mailsjabloon. Een gepubliceerde fragmentinhoud kan niet worden gewijzigd in de visuele ontwerper.
+    <td>Wanneer u een fragment publiceert, wordt dit beschikbaar voor gebruik in een e-mail- of e-mailsjabloon. Gepubliceerde fragmentinhoud kan niet worden gewijzigd in de visuele ontwerper.
     <p>Beschikbare acties:
     <li>Beschrijving bewerken</li>
     <li>Toevoegen aan een e-mail of sjabloon</li>
@@ -74,38 +74,31 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mail- of e-ma
 
 SCREENSHOT
 
->[!IMPORTANT]
->
->Fragmentstatus is geïntroduceerd in de Journey Optimizer B2B edition Augustus release. Alle fragmenten die vóór deze versie worden gecreeerd hebben de _status van het Ontwerp_, zelfs als zij in een e-mail of een malplaatje worden gebruikt. Als u wijzigingen aanbrengt in deze fragmenten, moet u het fragment publiceren om de wijzigingen door te geven.
+### De lijst met fragmenten filteren {#filter-the-fragments-list}
 
-### De lijst met fragmenten filteren
-
-Als u naar een fragment op naam wilt zoeken, voert u in de zoekbalk een tekenreeks in voor een overeenkomst. Klik het _pictogram van de Filter_ ( ![ tonen of verbergen filterpictogram ](../assets/do-not-localize/icon-filter.svg)) om de beschikbare filteropties te tonen en de montages te veranderen om de getoonde punten volgens uw gespecificeerde criteria te filtreren.
+Gebruik de zoekbalk om een fragment op naam te zoeken. Klik het _pictogram van de Filter_ ( ![ tonen of verbergen filterpictogram ](../assets/do-not-localize/icon-filter.svg)) om de beschikbare filteropties te tonen en de gewenste montages te kiezen.
 
 SCREENSHOT
 
-### De kolomweergave aanpassen
+### De kolomweergave aanpassen {#customize-the-column-display}
 
-Pas de kolommen aan die u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![ aanpassen lijstpictogram ](../assets/do-not-localize/icon-column-settings.svg)) bij het hoogste recht.
+Pas de kolommen aan u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![ aanpassen lijstpictogram ](../assets/do-not-localize/icon-column-settings.svg)) bij het hoogste recht.
 
-Selecteer in het dialoogvenster de kolommen die u wilt weergeven en klik op **[!UICONTROL Apply]** .
+Selecteer de gewenste kolommen in het dialoogvenster en klik op **[!UICONTROL Apply]** .
 
 SCREENSHOT
 
-## Fragmenten maken
+## Fragmenten maken {#create-fragments}
 
-U kunt nieuwe visuele fragmenten maken in Journey Optimizer B2B edition door op **[!UICONTROL Create fragment]** rechtsboven te klikken.
+Maak een nieuw visueel fragment door op **[!UICONTROL Create fragment]** rechtsboven te klikken.
 
-1. Voer in het dialoogvenster _[!UICONTROL Create fragment]_een handige **[!UICONTROL Name]**en **[!UICONTROL Description]**(optioneel) in.
+1. Voer in het dialoogvenster _[!UICONTROL Create fragment]_een **[!UICONTROL Name]**en een optioneel **[!UICONTROL Description]**in.
 
    Fragmentvereisten:
 
-   * Naam - maximaal 100 tekens, moet uniek en hoofdlettergevoelig zijn
-
-   * Beschrijving - Maximaal 300 tekens
-
-   * Alpha, numerieke tekens en speciale tekens zijn toegestaan
-
+   * Naam - max. 100 tekens, moet uniek en hoofdlettergevoelig zijn
+   * Beschrijving - max. 300 tekens
+   * Alpha, numerieke tekens en speciale tekens zijn oké
    * Gereserveerde karakters zijn **_niet toegestaan_**: `\ / : * ? " < > |`
 
 SCREENSHOT
@@ -126,7 +119,7 @@ SCREENSHOT
 
 1. Als u het fragment beschikbaar wilt maken voor gebruik in een e-mailsjabloon of e-mailsjabloon, klikt u op **[!UICONTROL Publish]** .
 
-### Structuur en inhoud toevoegen {#design-fragment}
+### Structuur en inhoud toevoegen {#add-structure-and-content}
 
 >[!CONTEXTUALHELP]
 >id="ajo-b2b_structure_components_fragment"
@@ -156,13 +149,13 @@ SCREENSHOT
 
 {{$include /help/_includes/content-design-links.md}}
 
-## Fragmentdetails weergeven
+## Fragmentdetails weergeven {#view-fragment-details}
 
 Klik op de naam van een fragment in de lijstpagina om de pagina met fragmentdetails te openen. U kunt het fragment bewerken, de naam van het fragment wijzigen of de fragmentbeschrijving bijwerken. Voer updates uit en klik buiten het naam- of beschrijvingsveld om wijzigingen automatisch op te slaan.
 
 >[!NOTE]
 >
->Als een gepubliceerd fragment wordt gebruikt door een e-mailsjabloon, kunt u de naam niet wijzigen of de inhoud niet bewerken. U kunt een conceptversie maken als u wijzigingen in het fragment wilt aanbrengen.
+>Als een gepubliceerd fragment wordt gebruikt door een e-mailsjabloon, kunt u de naam van het fragment niet wijzigen of de inhoud ervan bewerken. U kunt een conceptversie maken als u wijzigingen in het fragment wilt aanbrengen.
 
 SCREENSHOT
 
@@ -170,23 +163,23 @@ Klik op **[!UICONTROL Edit fragment]** om het fragment te openen in de visuele i
 
 Ga de mening op elk ogenblik weg door de _Achter_ pijl bij de hoogste linkerzijde te klikken, die u aan de _pagina van de de 3} lijst van Fragmenten {terugkeert._
 
-## Fragment weergeven dat wordt gebruikt door verwijzingen
+## Fragment weergeven dat wordt gebruikt door verwijzingen {#view-fragment-used-by-references}
 
-Klik op het tabblad **[!UICONTROL Used By]** op de pagina met fragmentdetails om details weer te geven over waar het fragment momenteel wordt gebruikt in Journey Optimizer B2B edition, in e-mails, e-mailsjablonen en fragmenten.
+Klik op de pagina met fragmentdetails op het tabblad **[!UICONTROL Used By]** om details weer te geven van de plaats waar het fragment wordt gebruikt in het Marketo Engage.
 
 >[!IMPORTANT]
 >
->Elk fragment dat momenteel wordt gebruikt door een e-mailsjabloon of e-mailsjabloon, kan niet worden verwijderd.
+>Een fragment dat momenteel wordt gebruikt door een e-mailsjabloon of e-mailsjabloon kan niet worden verwijderd.
 
-De verwijzingen worden getoond volgens categorie: _E-mail_ of _E-mailmalplaatje_. E-mails in Journey Optimizer B2B edition worden ingesloten en geschreven binnen accountreizen. De bovenliggende reis van de e-mail die het fragment gebruikt, wordt daarom weergegeven in verwijzingen.
+De verwijzingen worden getoond volgens categorie: _E-mail_ of _E-mailmalplaatje_. E-mails in Journey Optimizer B2B edition worden ingesloten en geschreven binnen accountreizen. De bovenliggende reis van de e-mail die het fragment gebruikt, wordt daarom weergegeven in verwijzingen. &lt;— OVER DIT ONDERDEEL, NILESH
 
 SCREENSHOT
 
 Klik op de koppeling om de bijbehorende sjabloon voor e-mail of e-mail te openen waarin het fragment wordt gebruikt.
 
-## Fragmenten verwijderen
+## Fragmenten verwijderen {#delete-fragments}
 
-Om het even welk fragment dat momenteel in gebruik door om het even welk e-mail of e-mailmalplaatje is kan niet worden geschrapt, zodat controleert u _gebruikt-door_ verwijzingen alvorens een fragmentverwijdering in werking te stellen. Een verwijdering kan ook niet ongedaan worden gemaakt. Controleer dit voordat u een verwijderactie start.
+Omdat een fragment dat momenteel in gebruik door een e-mail of e-mailmalplaatje is niet kan worden geschrapt, ben zeker om _te controleren gebruikt-door_ verwijzingen alvorens een fragmentverwijdering in werking te stellen. Een verwijdering kan ook niet ongedaan worden gemaakt. Controleer dit voordat u een verwijderactie start.
 
 U kunt een fragment op een van de volgende manieren verwijderen:
 
@@ -194,10 +187,6 @@ U kunt een fragment op een van de volgende manieren verwijderen:
 * Klik op de aanbiedingspagina van _[!UICONTROL Fragments]_op de ovaal naast het fragment en kies **[!UICONTROL Delete]**.
 
 Met deze handeling wordt een bevestigingsvenster geopend. U kunt het proces afbreken door op **[!UICONTROL Cancel]** te klikken of op **[!UICONTROL Delete]** te klikken om het verwijderen te bevestigen.
-
-SCREENSHOT
-
-Als het fragment momenteel in gebruik is, wordt een informatief dialoogvenster geopend waarin u wordt gewaarschuwd dat het fragment niet kan worden verwijderd. Klik op **[!UICONTROL OK]** om het verwijderen af te breken.
 
 SCREENSHOT
 
@@ -217,7 +206,7 @@ Bewerkingen aan een fragment zijn afhankelijk van de huidige status:
 
    Er wordt een voorvertoning van de visuele inhoud weergegeven, met de fragmentdetails aan de rechterkant.
 
-1. Wijzig de gewenste details, zoals de naam en beschrijving.
+1. Breng de gewenste wijzigingen aan.
 
 SCREENSHOT
 
@@ -295,7 +284,7 @@ De inhoud bijwerken:
 
 >[!ENDTABS]
 
-## Fragmenten dupliceren
+## Fragmenten dupliceren {#duplicate-fragments}
 
 U kunt een fragment op een van de volgende manieren dupliceren:
 
@@ -304,17 +293,17 @@ U kunt een fragment op een van de volgende manieren dupliceren:
 
 SCREENSHOT
 
-Voer in het dialoogvenster een nuttige naam (uniek) en beschrijving in. Klik op **[!UICONTROL Duplicate]** om de handeling te voltooien.
+Voer in het dialoogvenster een unieke naam en een optionele beschrijving in. Klik op **[!UICONTROL Duplicate]** om de handeling te voltooien.
 
 SCREENSHOT
 
-Het gedupliceerde (nieuwe) fragment verschijnt dan in de _lijst van Fragmenten_.
+Het gedupliceerde fragment verschijnt dan in de _lijst van Fragmenten_.
 
-## Een nieuw fragment opslaan vanuit e-mail- of sjablooninhoud
+## Een nieuw fragment opslaan vanuit e-mail- of sjablooninhoud {#save-a-new-fragment-from-email-or-template-content}
 
 Wanneer u een e-mail- of e-mailsjabloon maakt/bewerkt in de visuele inhoudeditor, kunt u de inhoud geheel of gedeeltelijk opslaan als een fragment, zodat deze opnieuw kan worden gebruikt.
 
-1. Wanneer u inhoud als een fragment wilt opslaan, klikt u op **[!UICONTROL More]** en kiest u **[!UICONTROL Save as Fragment]** .
+1. Als u inhoud als een fragment wilt opslaan, klikt u op **[!UICONTROL More]** en kiest u **[!UICONTROL Save as Fragment]** .
 
 1. Selecteer de verschillende elementen die u in het fragment wilt opnemen.
 
@@ -324,19 +313,21 @@ Wanneer u een e-mail- of e-mailsjabloon maakt/bewerkt in de visuele inhoudeditor
 
 1. Selecteer de inhoud en klik op **[!UICONTROL Create]** rechtsboven.
 
-1. Voer in het dialoogvenster een nuttige naam en beschrijving voor het fragment in. Klik vervolgens op **[!UICONTROL Create]** .
+1. Voer in het dialoogvenster een naam en een optionele beschrijving voor het fragment in. Klik vervolgens op **[!UICONTROL Create]** .
 
-   Het nieuwe fragment wordt dan getoond in de _Fragmenten_ het vermelden pagina en is ook beschikbaar voor gebruik binnen e-mail en e-mailmalplaatjes.
+   Het fragment wordt dan getoond in de _Fragmenten_ het vermelden pagina en is ook beschikbaar voor gebruik binnen e-mail en e-mailmalplaatjes.
 
-## Visuele fragmenten toevoegen aan uw e-mail- of sjablooninhoud
+## Visuele fragmenten toevoegen aan uw e-mail- of sjablooninhoud {#add-visual-fragments-to-your-email-or-template-content}
 
-Fragmenten zijn ontworpen voor hergebruik en kunnen worden ingevoegd voor het ontwerpen van sjablonen voor e-mail en e-mail. U kunt maximaal 30 fragmenten in een e-mail of sjabloon toevoegen. Fragmenten kunnen tot één niveau worden genest.
+Fragmenten zijn ontworpen voor hergebruik en u kunt maximaal 30 fragmenten toevoegen in een e-mailsjabloon of e-mailsjabloon. Fragmenten kunnen tot één niveau worden genest.
 
 >[!BEGINTABS]
 
 >[!TAB  voegt fragmenten aan e-mail ] toe
 
-1. Navigeer naar **[!UICONTROL Account Journeys]** en open een bestaande reis of maak een nieuwe reis.
+1. Navigeer naar **[!UICONTROL Account Journeys]** en open een bestaande reis of maak een nieuwe reis. &lt;— DUBBELE CONTROLE
+
+—HIER GESTOPT BEWERKEN—
 
 1. Creeer een [_[!UICONTROL Send Email]_knoop ](./email-authoring.md#add-an-email-action-in-an-account-journey).
 
