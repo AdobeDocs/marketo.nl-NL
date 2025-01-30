@@ -3,9 +3,10 @@ title: Fragmenten
 description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2337'
+source-wordcount: '2280'
 ht-degree: 0%
 
 ---
@@ -25,13 +26,13 @@ Visuele fragmenten zijn vooraf gedefinieerde visuele blokken die zijn gemaakt me
 
 ## Fragmenten openen en beheren {#access-and-manage-fragments}
 
-Ga naar de linkernavigatie en klik op **[!UICONTROL Content Management]** > **[!UICONTROL Fragments]** om visuele fragmenten te openen. Met deze actie opent u een pagina met lijsten met alle fragmenten die in de instantie in een tabel zijn gemaakt.
+Ga naar de Design Studio voor toegang tot visuele fragmenten. Klik in de boomstructuur links op **[!UICONTROL Fragments (New)]** .
 
 SCREENSHOT
 
-De tabel wordt gesorteerd op de kolom _[!UICONTROL Modified]_, waarbij de meest recente bijgewerkte fragmenten standaard bovenaan staan. Klik op de kolomtitel om te schakelen tussen oplopend en aflopend.
+Standaard wordt de tabel gesorteerd op de kolom _[!UICONTROL Modified]_, met de laatst bijgewerkte fragmenten bovenaan. Klik op andere kolomtitels om het sorteren te wijzigen. Klik nogmaals om te schakelen tussen oplopend en aflopend.
 
-### Fragmentstatus en levenscyclus
+### Fragmentstatus {#fragment-status}
 
 De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mail- of e-mailsjabloon en de wijzigingen die u daarin kunt aanbrengen.
 
@@ -121,17 +122,7 @@ SCREENSHOT
 
 ### Structuur en inhoud toevoegen {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Structuurcomponenten toevoegen"
->abstract="Structuurcomponenten definiëren de indeling van het fragment. De belemmering en laat vallen component van de a **Structuur** in het canvas beginnen de inhoud van uw fragment te ontwerpen."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="Informatie over inhoudscomponenten"
->abstract="Inhoudscomponenten zijn lege plaatsaanduidingen voor inhoud die u kunt gebruiken om de lay-out van een fragment te maken."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Elementen toevoegen
 

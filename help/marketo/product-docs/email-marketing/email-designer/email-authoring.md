@@ -4,9 +4,10 @@ title: E-mailontwerp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1469'
+source-wordcount: '1594'
 ht-degree: 0%
 
 ---
@@ -20,6 +21,12 @@ Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe M
 >Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ## Een e-mail maken {#create-an-email}
+
+E-mails van de e-mail Designer kunnen alleen worden gemaakt in de Design Studio en worden vermeld in Slimme campagnes/lijsten, of worden op dit moment gemaakt/gebruikt in e-mailprogramma&#39;s.
+
+>[!BEGINTABS]
+
+>[!TAB  Studio van het Ontwerp ]
 
 1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
 
@@ -38,6 +45,28 @@ Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe M
 1. Voer een e-mailnaam en een onderwerpregel in. Klik **creëren**.
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB  E-mailprogramma ]
+
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
+
+1. Uw e-mailprogramma zoeken en selecteren (of maken).
+
+   ![](assets/create-an-email-5.png)
+
+1. U hebt twee opties om een nieuwe e-mail te maken. Klik op de naam van uw E-mailprogramma met de rechtermuisknop aan en selecteer **Nieuwe lokale activa**, of klik **+ Nieuwe E-mail** knoop in het E-mailvakje op het dashboard. In dit voorbeeld doen we het eerste.
+
+   ![](assets/create-an-email-6.png)
+
+1. Selecteer **E-mail (Nieuwe Redacteur)**.
+
+   ![](assets/create-an-email-7.png)
+
+1. Voer een e-mailnaam en een onderwerpregel in. Klik **creëren**.
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 Dat is het. Nu is het tijd om je e-mail te ontwerpen.
 
@@ -308,7 +337,7 @@ Om uw e-mailinhoud voor te vertonen, klik **inhoud** simuleren, dan voeg een tes
 
 ## Verwijzen naar een e-mail {#reference-an-email}
 
-Nadat u een e-mail in de nieuwe redacteur hebt gecreeerd, kunt u het in Slimme Campagnes en/of Slimme Lijsten van verwijzingen voorzien zoals u met een andere e-mail.
+Als u uw e-mail hebt gemaakt in een e-mailprogramma, kan deze alleen in dat programma worden gebruikt. Als u uw e-mail in de Studio van het Ontwerp creeerde, kan het van Slimme Campagnes en/of Slimme Lijsten worden van verwijzingen voorzien zoals u met een andere e-mail zou doen.
 
 * Verwijzing het in een Slimme Lijst door [ na de gebruikelijke stappen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
@@ -320,4 +349,4 @@ Nadat u een e-mail in de nieuwe redacteur hebt gecreeerd, kunt u het in Slimme C
 
 >[!MORELIKETHIS]
 >
->[ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe ontwerper te leiden te ontwerpen en toegang te hebben.
+>[ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe ontwerper te leiden te ontwerpen en toegang te hebben.
