@@ -3,14 +3,14 @@ description: E-mailsjablonen - Marketo Docs - Productdocumentatie
 title: E-mailsjablonen
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
 workflow-type: tm+mt
-source-wordcount: '1823'
+source-wordcount: '1824'
 ht-degree: 0%
 
 ---
 
-# E-mailsjablonen {#email-templates}
+# E-mailsjabloonontwerp {#email-template-authoring}
 
 Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjablonen maken om aangepaste inhoud eenvoudig te hergebruiken.
 
