@@ -4,9 +4,9 @@ description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruik
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2304'
+source-wordcount: '2305'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Visuele fragmenten zijn vooraf gedefinieerde visuele blokken die zijn gemaakt (m
 
 Ga naar de Design Studio voor toegang tot visuele fragmenten. Klik in de boomstructuur links op **[!UICONTROL Fragments (New)]** .
 
-SCREENSHOT
+![ fragmenten van de Toegang ](assets/fragments-1.png){width="600" zoomable="yes"}
 
 Standaard wordt de tabel gesorteerd op de kolom _[!UICONTROL Modified]_. Klik op andere kolomtitels om te wijzigen waarop de tabel wordt gesorteerd. Klik nogmaals om te schakelen tussen oplopend en aflopend.
 
