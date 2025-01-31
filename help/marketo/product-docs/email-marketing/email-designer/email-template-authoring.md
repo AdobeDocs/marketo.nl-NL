@@ -1,106 +1,66 @@
 ---
-description: E-mailontwerp - Marketo Docs - Productdocumentatie
-title: E-mailontwerp
+description: E-mailsjablonen - Marketo Docs - Productdocumentatie
+title: E-mailsjablonen
 hide: true
 hidefromtoc: true
 feature: Email Editor
-exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '1720'
+source-wordcount: '1823'
 ht-degree: 0%
 
 ---
 
-# E-mailontwerp {#email-authoring}
+# E-mailsjablonen {#email-templates}
 
-Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe Marketo Engage-e-mailtoepassing Designer.
+Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjablonen maken om aangepaste inhoud eenvoudig te hergebruiken.
 
 >[!PREREQUISITES]
 >
 >Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
-## Een e-mail maken {#create-an-email}
+>[!NOTE]
+>
+>E-mailsjablonen in de nieuwe e-mailontwerper kunnen alleen worden gebruikt om e-mails te maken in de nieuwe e-mailontwerper. In de oude e-maileditor kan niet naar deze instellingen worden verwezen.
 
-E-mails van de e-mail Designer kunnen alleen worden gemaakt in de Design Studio en worden vermeld in Slimme campagnes/lijsten, of worden op dit moment gemaakt/gebruikt in e-mailprogramma&#39;s.
-
->[!BEGINTABS]
-
->[!TAB  Studio van het Ontwerp ]
+## Een e-mailsjabloon maken {#create-an-email-template}
 
 1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
-   ![](assets/create-an-email-1.png)
+   ![](assets/create-an-email-template-1.png)
 
-1. In de boom, uitgezochte **E-mail (Nieuwe Redacteur)**.
+1. In de boom, uitgezochte **E-mailMalplaatjes (Nieuwe Redacteur)**.
 
-   ![](assets/create-an-email-2.png)
+   ![](assets/create-an-email-template-2.png)
 
-1. Klik **creëren e-mail** knoop.
+1. Klik **creeer malplaatje** knoop.
 
-   ![](assets/create-an-email-3.png)
+   ![](assets/create-an-email-template-3.png)
 
-1. Voer een e-mailnaam en een onderwerpregel in. Klik **creëren**.
+1. Voer een sjabloonnaam en een optionele beschrijving in. Klik **creëren**.
 
-   ![](assets/create-an-email-4.png)
+   ![](assets/create-an-email-template-4.png)
 
->[!TAB  E-mailprogramma ]
+## Uw sjabloon ontwerpen {#design-your-template}
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
+In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [ Ontwerp van kras ](#design-from-scratch), [ voert uw eigen HTML ](#import-html) in, of [ selecteert een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
 
-1. Uw e-mailprogramma zoeken en selecteren (of maken).
-
-   ![](assets/create-an-email-5.png)
-
-1. U hebt twee opties om een nieuwe e-mail te maken. Klik op de naam van uw E-mailprogramma met de rechtermuisknop aan en selecteer **Nieuwe lokale activa**, of klik **+ Nieuwe E-mail** knoop in het E-mailvakje op het dashboard. In dit voorbeeld doen we het eerste.
-
-   ![](assets/create-an-email-6.png)
-
-1. Selecteer **E-mail (Nieuwe Redacteur)**.
-
-   ![](assets/create-an-email-7.png)
-
-1. Voer een e-mailnaam en een onderwerpregel in. Klik **creëren**.
-
-   ![](assets/create-an-email-8.png)
-
->[!ENDTABS]
-
-Dat is het. Nu is het tijd om je e-mail te ontwerpen.
-
-## Kies uw inhoudstype {#choose-your-content-type}
-
-1. In e-mail u enkel creeerde, klik **toevoegen e-mailinhoud**.
-
-   ![](assets/choose-your-content-type-1.png)
-
-1. _creeer uw e-mail_ pagina laadt. U kunt uit een paar opties kiezen:
-
-* [ Ontwerp van kras ](#design-from-scratch) gebruikend de visuele e-mailredacteur
-
-* [ voer uw eigen HTML ](#import-html) via een HTML of zip dossier in
-
-* [ selecteer een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds bewaarde)
+![](assets/design-your-template-1.png)
 
 ### Ontwerpen vanaf nul {#design-from-scratch}
 
-Wanneer u helemaal niets begint in de e-maileditor, gebruikt u de onderstaande opties om uw inhoud te definiëren.
+Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met eenvoudige acties voor slepen en neerzetten.
 
-1. In _creeer uw e-mail_ pagina, uitgezocht **Ontwerp van kras**.
+1. In het _Ontwerp uw malplaatje_ pagina, uitgezocht **Ontwerp van kras**.
 
-1. Voeg [ structuur en inhoud ](#add-structure-and-content) aan uw e-mail toe.
+1. Voeg [ structuur en inhoud ](#add-structure-and-content) toe.
 
-1. Voeg [ beelden ](#add-assets) toe.
+### HTML importeren {#import-your-html}
 
-1. [ Personaliseer ](#personalize-content) uw inhoud.
-
-1. De verbindingen van het overzicht en [ geven het volgen ](#edit-url-tracking) uit.
-
-### HTML importeren {#import-html}
-
-U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan zijn:
+U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De inhoud kan zijn:
 
 * Een HTML-bestand met een opgenomen stijlblad
 
@@ -110,17 +70,23 @@ U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan
 >
 >Er gelden geen beperkingen voor de .zip-bestandsstructuur. Verwijzingen moeten echter relatief zijn en passen bij de boomstructuur van de ZIP-map.
 
-1. In het Ontwerp uw malplaatjepagina, uitgezochte **HTML van de Invoer**.
+1. In het _Ontwerp uw malplaatje_ pagina, uitgezochte **HTML van de Invoer**.
 
 1. De belemmering en laat vallen het gewenste HTML of .zip dossier (of selecteert een dossier van uw computer) en klikt **de Invoer**.
 
-   ![](assets/authoring-import-your-html-1.png)
+   ![](assets/import-your-html-1.png)
 
->[!NOTE]
->
->Wanneer de HTML-inhoud wordt geüpload, wordt de inhoud in de compatibiliteitsmodus uitgevoerd. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
+   >[!NOTE]
+   >
+   >Wanneer de HTML-inhoud wordt geüpload, wordt de inhoud in de compatibiliteitsmodus uitgevoerd. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
 
-U kunt gewenste veranderingen in de ingevoerde inhoud aanbrengen gebruikend de [ visuele e-mailredacteurshulpmiddelen ](#add-structure-and-content).
+1. Om hefboomwerking te kunnen gebruiken de de inhoudscomponenten van Designer E-mail, klik de **converter van de HTML** tabel en klik **Omzetten**.
+
+   >[!CAUTION]
+   >
+   >Als u een `<table>` -tag als eerste laag in een HTML-bestand gebruikt, kan dit leiden tot stijlverlies, zoals de achtergrond- en breedte-instellingen in de bovenste laagtag.
+
+U kunt het geïmporteerde bestand nu naar wens aanpassen met de visuele e-maileditor.
 
 ### Een sjabloon kiezen {#choose-a-template}
 
@@ -140,11 +106,11 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 1. Selecteer de sjabloon die u wilt gebruiken.
 
-   ![](assets/authoring-sample-templates-1.png)
+   ![](assets/sample-templates-1.png)
 
 1. Klik **Gebruik dit malplaatje**.
 
-   ![](assets/authoring-sample-templates-2.png)
+   ![](assets/sample-templates-2.png)
 
 1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
@@ -152,11 +118,11 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 1. Klik het **Bewaarde malplaatjes** lusje en selecteer het gewenste malplaatje.
 
-   ![](assets/authoring-saved-templates-1.png)
+   ![](assets/saved-templates-1.png)
 
 1. Klik **Gebruik dit malplaatje**.
 
-   ![](assets/authoring-saved-templates-2.png)
+   ![](assets/saved-templates-2.png)
 
 1. Bewerk de inhoud naar wens met de visuele ontwerper van de inhoud.
 
@@ -170,7 +136,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
    >
    >Selecteer de n:n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
 
-   ![](assets/authoring-add-structure-and-content-1.png)
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -178,7 +144,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 1. Sleep in het gedeelte Inhoud over de gewenste items en zet deze neer in een of meer structuurcomponenten.
 
-   ![](assets/authoring-add-structure-and-content-2.png)
+   ![](assets/add-structure-and-content-2.png)
 
 1. Elke component kan worden aangepast via de tabbladen Instellingen of Stijl. Wijzig het lettertype, de tekststijl, de marge en meer.
 
@@ -208,11 +174,11 @@ Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/
 
 1. Klik op het pictogram Asset Selector om uw afbeeldingen te openen.
 
-   ![](assets/authoring-add-assets-1.png)
+   ![](assets/add-assets-1.png)
 
 1. Sleep de gewenste afbeelding naar een structuurcomponent.
 
-   ![](assets/authoring-add-assets-2.png)
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
@@ -222,7 +188,7 @@ Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/
 
 Open de navigatieboom om tot specifieke structuren en hun kolommen/componenten voor meer korrelige het uitgeven toegang te hebben. Klik op het pictogram Navigatieboom om toegang te krijgen.
 
-![](assets/authoring-layers-settings-styles-1.png)
+![](assets/layers-settings-styles-1.png)
 
 In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen van de opvulling en de verticale uitlijning binnen een structuurcomponent die uit kolommen bestaat.
 
@@ -232,7 +198,7 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
    U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_en_[!UICONTROL Styles]_ rechts.
 
-   ![](assets/authoring-layers-settings-styles-2.png)
+   ![](assets/layers-settings-styles-2.png)
 
 1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_aan de rechterkant en wijzigt u deze naar wens:
 
@@ -247,7 +213,7 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
    * Vouw de sectie **[!UICONTROL Advanced]** uit om inline stijlen voor de kolom te definiëren.
 
-   ![](assets/authoring-layers-settings-styles-3.png)
+   ![](assets/layers-settings-styles-3.png)
 
 1. Herhaal deze stappen zo nodig om de uitlijning en opvulling voor de andere kolommen in de component aan te passen.
 
@@ -259,15 +225,15 @@ Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het 
 
 1. Selecteer de tekstcomponent. Plaats de curseur waar u het teken wilt verschijnen en **klikken verpersoonlijking** pictogram toevoegt.
 
-   ![](assets/authoring-personalize-content-1.png)
+   ![](assets/personalize-content-1.png)
 
 1. Klik het gewenste [ symbolische type ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
-   ![](assets/authoring-personalize-content-2.png)
+   ![](assets/personalize-content-2.png)
 
 1. Zoek het gewenste token en klik op het pictogram **...** (als u op het pictogram + klikt, wordt in plaats daarvan een token zonder terugvaltekst toegevoegd).
 
-   ![](assets/authoring-personalize-content-3.png)
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
@@ -275,7 +241,7 @@ Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het 
 
 1. Plaats uw reservetekst en klik **toevoegen**.
 
-   ![](assets/authoring-personalize-content-4.png)
+   ![](assets/personalize-content-4.png)
 
 1. Klik **sparen**.
 
@@ -285,13 +251,13 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
 
 1. Klik op het pictogram Koppelingen om alle URL&#39;s in uw e-mail weer te geven.
 
-   ![](assets/authoring-edit-url-tracking-1.png)
+   ![](assets/edit-url-tracking-1.png)
 
 1. Klik op het potloodpictogram om de tekstspatiëring voor de gewenste koppelingen te bewerken.
 
 1. Klik het **Volgen Type** drop-down en maak uw selectie.
 
-   ![](assets/authoring-edit-url-tracking-2.png)
+   ![](assets/edit-url-tracking-2.png)
 
    <table><tbody>
      <tr>
@@ -313,56 +279,94 @@ Soms wilt u de URL voor het bijhouden van Marketo niet inschakelen voor een kopp
 
 1. Klik **sparen** wanneer gedaan.
 
-## Waarschuwingen controleren {#check-alerts}
+### Weergaveopties {#view-options}
 
-Terwijl u de inhoud ontwerpt, worden waarschuwingen rechtsboven op het scherm weergegeven wanneer er geen toetseninstellingen aanwezig zijn.
+Gebruik de opties voor weergave- en inhoudsvalidatie die beschikbaar zijn in de visuele e-maileditor.
 
-Er zijn twee typen waarschuwingen:
+* Zoom in of uit op de inhoud met behulp van vooraf ingestelde zoomopties.
 
-**Waarschuwingen**
+* Geef de inhoud weer op desktopcomputers, mobiele apparaten en tekstvelden.
 
-De waarschuwingen verwijzen naar aanbevelingen en beste praktijken zoals:
+   * Klik op het pictogram van de live weergave (oog) voor de voorvertoning van inhoud op verschillende apparaten.
 
-* **de opt-out verbinding is niet aanwezig in het e-maillichaam**: Terwijl unsubscribe verbindingen een vereiste zijn, is het toevoegen van hen aan het lichaam van uw e-mail een beste praktijk.
+   * Selecteer een van de apparaten uit de doos of voer aangepaste afmetingen in om een voorvertoning van uw inhoud weer te geven.
 
->[!NOTE]
->
->Het toevoegen van een unsubscribe optie wordt niet vereist voor [ Operationele E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (niet-marketing).
+### Meer opties {#more-options}
 
-* **de versie van de Tekst van HTML is leeg**: U moet een tekstversie van uw e-maillichaam bepalen voor wanneer de inhoud van de HTML niet kan worden getoond.
+Van **Meer** opties in de inhoudsredacteur, kunt u de volgende acties nemen:
 
-* **Lege verbinding is aanwezig in e-maillichaam**: Verifieer alle verbindingen in uw e-mail correct zijn.
+![](assets/more-options-1.png)
 
-* **e-mailgrootte heeft de grens van 100KB** overschreden: Voor optimale levering, zorg ervoor de grootte van uw e-mail niet 100KB overschrijdt.
+* **malplaatje van het Terugstellen**: Selecteer dit om het visuele e-maildesigner canvas aan een lege lei te ontruimen en de bouwende inhoud opnieuw te beginnen.
 
-**Fouten**
+* **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals die in [ wordt geschetst Ontwerp uw malplaatje ](#design-your-template) sectie.
 
-Fouten verhinderen dat u de e-mail verzendt of test totdat deze is opgelost:
+* **de Uitvoer HTML**: Download de inhoud in het visuele canvas aan uw lokaal systeem in HTML formaat dat als zip dossier wordt verpakt.
 
-* **Onderwerpregel mist**: Een e-mailonderwerpregel wordt vereist.
+## Sjabloondetails weergeven {#view-template-details}
 
-* **E-mailversie van het bericht is leeg**: Deze fout komt voor wanneer de e-mailinhoud niet is gevormd.
+In de _E-mail malplaatjes_ het vermelden pagina, klik de naam van een e-mailmalplaatje om zijn details te bekijken.
 
-## Uw e-mail testen {#test-your-email}
+(assets/view-template-details-1.png
 
-Wanneer de inhoud van uw bericht is gedefinieerd, kunt u testprofielen gebruiken om deze voor te vertonen, proefdrukken te verzenden en om te bepalen hoe deze wordt weergegeven in populaire desktops, mobiele clients en webclients. Als u gepersonaliseerde inhoud opnam, kunt u controleren hoe het in het bericht wordt getoond gebruikend de gegevens van het testprofiel.
+U kunt basisgegevens zoals naam en beschrijving bewerken. Klik buiten het veld dat u hebt bewerkt om de wijzigingen op te slaan.
 
-Om uw e-mailinhoud voor te vertonen, klik **inhoud** simuleren, dan voeg een testprofiel toe om uw bericht te controleren gebruikend de gegevens van het testprofiel.
+Klik **Meer** om uw malplaatje snel te schrappen of te dupliceren.
 
-![](assets/test-your-email-1.png)
-
-## Verwijzen naar een e-mail {#reference-an-email}
-
-Als u uw e-mail hebt gemaakt in een e-mailprogramma, kan deze alleen in dat programma worden gebruikt. Als u uw e-mail in de Studio van het Ontwerp creeerde, kan het van Slimme Campagnes en/of Slimme Lijsten worden van verwijzingen voorzien zoals u met een andere e-mail zou doen.
-
-* Verwijzing het in een Slimme Lijst door [ na de gebruikelijke stappen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
-
-* Verwijzing het in een Slimme Campagne door [ na de gebruikelijke stappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+Als er actieve waarschuwingen zijn (fouten/waarschuwingen voor de e-mailsjabloon), klikt u op Waarschuwingen om de informatie weer te geven.
 
 >[!NOTE]
 >
->Er kan alleen naar opgeslagen e-mails worden verwezen. De nieuwe e-mailontwerper heeft geen status &quot;goedgekeurd&quot;.
+>Hoewel deze waarschuwingen het gebruik van de e-mailsjabloon voor het maken van e-mail niet verbieden, biedt de informatie inzicht in wat mogelijk niet werkt en in de updates die nodig zijn voordat de e-mail kan worden gebruikt voor levering.
+
+## E-mailsjabloon weergeven die wordt gebruikt door verwijzingen {#email-template-used-by-references}
+
+In de samenvatting van het e-mailmalplaatje, klik **Gebruikt door** tabel om details van te bekijken waar dit e-mailmalplaatje binnen Marketo Engage is gebruikt.
+
+![](assets/email-template-used-by-references-1.png)
+
+## E-mailsjablonen bewerken {#edit-email-templates}
+
+Deze actie kan worden uitgevoerd op:
+
+* Het detaillusje - klik **uitgeeft e-mailmalplaatje**.
+
+Deze actie neemt u aan het _Ontwerp uw malplaatje_ pagina of de visuele pagina van de inhoudsredacteur die op het laatste bewaarde statuut van het e-mailmalplaatje wordt gebaseerd. Vanaf hier kunt u de inhoud van uw e-mailsjabloon naar wens bewerken. Zie E-mailsjablonen maken voor informatie over de bewerkingsopties.
+
+## E-mailsjablonen dupliceren {#duplicate-email-templates}
+
+U kunt een e-mailsjabloon op twee manieren dupliceren:
+
+* Van de e-mailmalplaatjedetails op het recht, klik **Meer** en selecteer **Dupliceer**.
+
+  ![](assets/duplicate-email-templates-1.png)
+
+* In de _E-mail malplaatjes_ het vermelden pagina, klik het Meer actiepictogram (drie punten) van het gewenste e-mailmalplaatje en kies **Dupliceer**.
+
+Voer in het dialoogvenster een unieke naam en een optionele beschrijving in. Klik **Dupliceren** wanneer gedaan.
+
+Het gedupliceerde e-mailmalplaatje verschijnt dan in de _E-mailmalplaatjes_ lijstpagina.
+
+## E-mailsjablonen verwijderen {#delete-email-templates}
+
+U kunt een e-mailsjabloon op twee manieren verwijderen.
+
+>[!CAUTION]
+>
+>Het verwijderen van een e-mailsjabloon kan niet ongedaan worden gemaakt.
+
+* Van de e-mailmalplaatjedetails op het recht, klik **Meer** en selecteer **Schrapping**.
+
+  ![](assets/delete-email-templates-1.png)
+
+* In de _E-mail malplaatjes_ het vermelden pagina, klik het Meer actiepictogram (drie punten) van het gewenste e-mailmalplaatje en kies **Schrapping**.
+
+## Bulkacties {#bulk-actions}
+
+Van de _E-mail malplaatjes_ lijst pagina, selecteer veelvoudige malplaatjes door checkboxes aan de linkerzijde te selecteren. Onderaan wordt een banner weergegeven.
+
+**Schrapping**: U kunt een maximum van 20 malplaatjes in één keer schrappen. In een bevestigingsdialoogvenster kunt u de handeling afbreken of de verwijdering bevestigen.
 
 >[!MORELIKETHIS]
 >
->[ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe ontwerper te leiden te ontwerpen en toegang te hebben.
+>[ E-mail authoring ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe ontwerper tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
