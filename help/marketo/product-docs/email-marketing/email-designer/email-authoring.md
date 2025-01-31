@@ -1,11 +1,9 @@
 ---
 description: E-mailontwerp - Marketo Docs - Productdocumentatie
 title: E-mailontwerp
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1720'
 ht-degree: 0%
@@ -22,7 +20,7 @@ Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe M
 
 ## Een e-mail maken {#create-an-email}
 
-E-mails van de e-mail Designer kunnen alleen worden gemaakt in de Design Studio en worden vermeld in Slimme campagnes/lijsten, of worden op dit moment gemaakt/gebruikt in e-mailprogramma&#39;s.
+E-mails van de e-mailontwerper kunnen alleen in de Design Studio worden gemaakt en in Slimme campagnes/Lijsten worden vermeld, of kunnen op dit moment rechtstreeks in e-mailprogramma&#39;s worden gemaakt/gebruikt.
 
 >[!BEGINTABS]
 

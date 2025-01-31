@@ -1,13 +1,11 @@
 ---
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 >
 >Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
-De nieuwe e-mail Designer is de nieuwste vernieuwing in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mailsjablonen en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele drag-and-drop editor te bieden, samen met standaard out-of-the-box sjablonen. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
+De nieuwe e-mailontwerper is de meest recente vernieuwing in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mailsjablonen en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele editor voor slepen en neerzetten samen met standaardsjablonen voor uitchecken. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
 
 E-mails die in de nieuwe ontwerper zijn gemaakt, kunnen worden gebruikt in e-mailprogramma&#39;s en in slimme lijsten/campagnes. De krachtige nieuwe verbeteringen aan de ontwerper komen binnenkort.
 
@@ -55,7 +53,7 @@ sjablonen in de ontwerper, waardoor de behoefte aan externe webontwikkelaars afn
 
 **steunt de nieuwe e-mailontwerper de taal van AMP?**
 
-De basisversie biedt momenteel geen ondersteuning voor AMP.
+Op dit moment is AMP niet ondersteund.
 
 **de dynamische inhoud door attribuut is groot, maar werkt de dynamische inhoud door segment nog?**
 
