@@ -3,7 +3,7 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Ja, de oude (klassieke) e-maileditor zal naast de nieuwe e-mailontwerper bestaan
 
 Nee, er kan niet worden verwezen naar e-mailsjablonen van de klassieke editor in de nieuwe ontwerper. U zult nieuwe malplaatjes in de nieuwe ontwerper moeten creëren. Nochtans, kunt u _HTML van het 1} malplaatje in de nieuwe ontwerper invoeren, dan noodzakelijke tweaks maken._ We werken ook aan een manier om sjablonen eenvoudig te migreren van de klassieke editor naar de nieuwe ontwerper.
 
-**is er een manier om branding (doopvonten, embleem, en kleuren) af te dwingen?**
+**is er een manier om branding (doopvonten, logo&#39;s, en kleuren) af te dwingen?**
 
 De sectie met vergrendelde inhoud maakt deel uit van de nieuwe ontwerper. De vergrendeling van stijlen, kleuren, enzovoort, zal later dit jaar plaatsvinden.
 
