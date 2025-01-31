@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ E-mails die in de nieuwe ontwerper zijn gemaakt, kunnen worden gebruikt in e-mai
 
 * [ E-mail authoring ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe redacteur tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
 
-* [ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
+* [ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
 
 ## Veelgestelde vragen {#faq}
 
@@ -63,4 +63,4 @@ Momenteel, steunt de nieuwe ontwerper slechts attributen, maar wij werken aan he
 
 **Hoe kan ik vertellen of is ons Marketo Engage abonnement gemigreerd aan IMS (Adobe Admin Console)?**
 
-Als u login aan Marketo Engage via [ experience.adobe.com ](experience.adobe.com), uw abonnement is gemigreerd.
+Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}, uw abonnement is gemigreerd.
