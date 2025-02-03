@@ -2,8 +2,10 @@
 description: E-mailsjablonen - Marketo Docs - Productdocumentatie
 title: E-mailsjablonen
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1824'
 ht-degree: 0%
@@ -162,7 +164,7 @@ De editor geeft het fragment weer binnen de sectie/het element van de e-mailstru
 
 Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTROL Used By]_van de pagina met fragmentdetails. Fragmenten die aan een e-mailsjabloon zijn toegevoegd, kunnen niet worden bewerkt in de sjabloon. Het bronfragment definieert de inhoud.
 
-### Assets toevoegen {#add-assets}
+### Elementen toevoegen {#add-assets}
 
 Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
 

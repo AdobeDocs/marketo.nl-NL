@@ -4,9 +4,9 @@ description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruik
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2305'
+source-wordcount: '2311'
 ht-degree: 0%
 
 ---
@@ -314,7 +314,7 @@ Fragmenten zijn ontworpen voor hergebruik en u kunt maximaal 30 fragmenten toevo
 
 >[!TAB  voegt fragmenten aan e-mail ] toe
 
-1. Navigeer naar **[!UICONTROL Account Journeys]** en open een bestaande reis of maak een nieuwe reis. &lt;— DUBBELE CONTROLE
+1. Navigeer naar **[!UICONTROL Account Journeys]** en open een bestaande reis of maak een nieuwe reis. &lt;— ALLEEN INDIEN DEZE ZICH BEVINDT IN DE E-MAIL OF DE E-MAILSJABLOON
 
 —HIER GESTOPT BEWERKEN—
 

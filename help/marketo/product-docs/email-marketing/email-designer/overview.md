@@ -2,10 +2,12 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ E-mails die in de nieuwe ontwerper zijn gemaakt, kunnen worden gebruikt in e-mai
 
 * [ E-mail authoring ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe redacteur tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
 
-* [ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
+* [ malplaatje het auteursrecht van de E-mail ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
 
 ## Veelgestelde vragen {#faq}
 
