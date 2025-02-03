@@ -4,9 +4,9 @@ description: De tekstversie van een e-mail bewerken - Marketo Docs - Productdocu
 title: De tekstversie van een e-mail bewerken
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Wanneer u een e-mailbericht maakt, wilt u mogelijk dat de tekstversie anders wor
 
 >[!CAUTION]
 >
->Het selecteren van **Exemplaar van HTML**, of het opnieuw selecteren **kopieert automatisch van HTML** in e-mails die dynamische inhoud bevatten zal de Gereviseerde vlag aan _waar_ voor alle segmenten in zowel de HTML als de versies van de Tekst van e-mail plaatsen.
+>Het selecteren van **Exemplaar van HTML**, of het opnieuw selecteren **kopieert automatisch van HTML** in e-mails die dynamische inhoud bevatten zal de Gereviseerde vlag aan _waar_ voor alle segmenten (die het groene vinkje veroorzaken dat erop wijst dat het) in zowel de HTML als de versies van de Tekst van e-mail is herzien. Als u een van de bovenstaande handelingen uitvoert, moet u de inhoud controleren voordat u deze verzendt.
