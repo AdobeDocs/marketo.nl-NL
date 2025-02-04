@@ -3,48 +3,57 @@ title: Werken met Experience Manager Assets
 description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslagplaats kunt gebruiken bij het ontwerpen van inhoud in Adobe Marketo Engage.
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
 
 # Werken met Experience Manager-elementen {#work-with-experience-manager-assets}
 
-Wanneer _Adobe Experience Manager Assets as a Cloud Service_ met Adobe Marketo Engage wordt geïntegreerd, kunt u tot digitale activa voor gebruik in uw marketing inhoud gemakkelijk toegang hebben. Terwijl u de inhoud ontwerpt, zijn de elementen toegankelijk via het item _[!UICONTROL Assets]_in de linkernavigatie en wanneer u e-mailinhoud ontwerpt. U kunt activa aan de verbonden_ as a Cloud Service _bewaarplaats van AEM Assets direct van Marketo Engage ook uploaden. &lt;— NILESH WILL CHECK
+Wanneer _Adobe Experience Manager Assets as a Cloud Service_ met Adobe Marketo Engage wordt geïntegreerd, kunt u tot digitale activa voor gebruik in uw marketing inhoud gemakkelijk toegang hebben. Terwijl u de inhoud ontwerpt, zijn de elementen toegankelijk via het item _[!UICONTROL Experience Manager Assets]_in de linkernavigatie.
+
+>[!PREREQUISITES]
+>
+>Verbind MKTO/AEM doc.
 
 >[!NOTE]
 >
->Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. &lt;— NILESH WILL CHECK — Wijzigingen in de activa moeten worden uitgevoerd vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
 
 Wanneer u deze digitale activa gebruikt, verspreiden de recentste veranderingen in _as a Cloud Service Assets_ automatisch aan levende e-mailcampagnes door verbonden verwijzingen. Als de beelden in _as a Cloud Service Adobe Experience Manager Assets_ worden geschrapt, verschijnen de beelden met een gebroken verwijzing in de e-mails. Wanneer elementen die momenteel in Marketo Engage worden gebruikt, worden gewijzigd of verwijderd, krijgen de auteurs van de e-mail een melding over de wijzigingen in de afbeelding. Alle wijzigingen in de activa moeten plaatsvinden in de centrale gegevensbank van Adobe Experience Manager Assets.
 
 ## AEM Assets gebruiken als afbeeldingsbron {#use-aem-assets-as-the-image-source}
 
-Als uw omgeving een of meer Assets-opslagverbindingen heeft, kunt u AEM Assets aanwijzen als bron voor elementen wanneer u gegevens voor een e-mail, e-mailsjabloon of visueel fragment maakt of bekijkt.
+Als uw omgeving een of meer verbindingen met de opslagplaats voor middelen heeft, kunt u AEM Assets aanwijzen als bron voor elementen wanneer u gegevens voor een e-mail, e-mailsjabloon of visueel fragment maakt of bekijkt.
 
 * Wanneer u nieuwe inhoud maakt, kiest u `AEM Assets` als het **[!UICONTROL Image Source]** -item in het dialoogvenster.
 
 ![ Uitgezochte AEM Assets als beeldbron in creeer dialoog ](assets/work-with-experience-manager-assets-1.png){width="400"}
 
-* Wanneer u een bestaande inhoudsbron opent, kiest u `AEM Assets` in het _[!UICONTROL Body]_-deelvenster aan de rechterkant.
+* Wanneer u een bestaande inhoudsbron opent, kiest u `AEM Assets` in de _[!UICONTROL Body]_-sectie aan de rechterkant.
 
 ![ Uitgezochte AEM Assets als beeldbron in de eigenschappen ](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Elementen openen voor ontwerpen
+## Elementen openen voor ontwerpen {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
 >Een beheerder moet gebruikers die toegang tot elementen nodig hebben, toevoegen aan de profielen Assets Consumer Users en/of Assets Users-producten. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-In de visuele inhoudsredacteur, klik het _selecteur van Activa_ pictogram in linkerzijbalk. Hiermee wijzigt u het deelvenster Gereedschappen in een lijst met beschikbare middelen in de geselecteerde opslagplaats.
+In de visuele inhoudsredacteur, klik het _pictogram van de selecteur van Activa van de Experience Manager_ in linkerzijbalk. Hiermee wijzigt u het deelvenster Gereedschappen in een lijst met beschikbare middelen in de geselecteerde opslagplaats.
 
 ![ klik het de selecteurspictogram van Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"} toegang te hebben
 
-Als u meer dan één aangesloten AEM opslagplaats hebt, klikt u op de menupijl voor **[!UICONTROL Repository]** om de opslagplaats te kiezen die u wilt gebruiken.
+Als u meer dan één aangesloten AEM opslagplaats hebt, klikt u op de knop **[!UICONTROL Manage as]** om de opslagplaats te kiezen die u wilt gebruiken.
 
 ![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"} toegang te hebben
+
+Kies de gewenste opslagplaats.
+
+![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-five.png) toegang te hebben
 
 Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuele canvas:
 

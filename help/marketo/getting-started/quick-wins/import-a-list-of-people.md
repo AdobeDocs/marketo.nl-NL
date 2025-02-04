@@ -4,9 +4,9 @@ description: Een lijst met personen importeren - Marketo Docs - Productdocumenta
 title: Een lijst met personen importeren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,8 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
    >* Zorg ervoor dat e-mailadressen alleen ASCII-tekens bevatten.
    >
    >* Marketo steunt **niet** e-mailadressen die emojis bevatten.
+   >
+   >* Het invoeren van `NULL` waarden via CSV kon een &quot;Waarde van Gegevens van de Verandering&quot;voor numerieke gebieden in het 1} activiteitenlogboek van een persoon ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} produceren, _zelfs als de gebieden reeds leeg_ zijn. [ Als u om het even welke [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} gebruikend de &quot;Gewijzigde&quot;filter van de Waarde van Gegevens of &quot;Veranderingen van de Waarde van Gegevens&quot;hebt, ben zeker om [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} te gebruiken om ervoor te zorgen zij niet onnodig worden teweeggebracht wanneer het uitvoeren van invoer.
 
 ## Stap 2: Een programma maken {#step-create-a-program}
 
