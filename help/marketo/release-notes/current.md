@@ -3,7 +3,7 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
+source-git-commit: 6f2c91d31b1d2ea3f2977aa3c9b1ca40e5459a16
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 2%
@@ -34,8 +34,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
     <tr> 
    <td><strong> Nieuwe E-mail Designer </strong>: Creeer moderne en efficiënte e-mails gebruikend nieuwe inheemse E-mail Designer in Marketo Engage. Open een van de vooraf ontworpen out-of-the-box e-mailsjablonen of maak eenvoudig uw eigen sjablonen. Gebruik dynamische inhoud en open afbeeldingen van Adobe Experience Manager-cloudservices. Met de Gen-AI-functionaliteit voor Content Accelerator kunt u innovatieve en krachtige e-mails op schaal maken.
    <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview"> Systeem van Identity Management van de Adobe (IMS) </a> worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of <a href="https://nation.marketo.com/t5/support/ct-p/Support"> Steun van Marketo </a> te contacteren. Neem contact op met het accountteam van de Adobe voor toegang tot de Gen-AI-functionaliteit voor Content Accelerator.</td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Designer-overzicht e-mailen</a></td>
   </tr>
   <tr> 
    <td> </td> 
