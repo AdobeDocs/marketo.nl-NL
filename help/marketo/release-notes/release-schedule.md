@@ -4,10 +4,10 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 47c3750e412f5f21ab5e497edab7edaa1f4abfcb
+source-git-commit: 079ba0f96d40044d19349517159ffe84aa677f39
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 12%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
@@ -33,11 +33,6 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-july-24.md">24 juli</a></td>
-   <td>zaterdag 26 juli 2024</td>
-   <td>Verzonden</td>
-  </tr>
-  <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2024/release-notes-oct-24.md">24 oktober</td>
    <td>zaterdag 4 oktober 2024</td>
    <td>Verzonden</td>
@@ -45,6 +40,31 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">25 januari</td>
    <td>zaterdag 17 januari 2025</td>
+   <td>In uitvoering</td>
+  </tr>
+   <tr> 
+   <td>25 maart</td>
+   <td>zaterdag 28 maart 2025</td>
+   <td>Op schema</td>
+  </tr>
+  <tr> 
+   <td>25 april</td>
+   <td>zaterdag 25 april 2025</td>
+   <td>Op schema</td>
+  </tr>
+  <tr> 
+   <td>mei '25</td>
+   <td>zaterdag 23 mei 2025</td>
+   <td>Op schema</td>
+  </tr>
+  <tr> 
+   <td>25 juni</td>
+   <td>zaterdag 27 juni 2025</td>
+   <td>Op schema</td>
+  </tr>
+  <tr> 
+   <td>25 juli</td>
+   <td>zaterdag 25 juli 2025</td>
    <td>Op schema</td>
   </tr>
  </tbody>
