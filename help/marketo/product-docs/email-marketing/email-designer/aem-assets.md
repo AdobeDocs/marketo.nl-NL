@@ -4,7 +4,7 @@ description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslag
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -53,13 +53,13 @@ Als u meer dan één aangesloten AEM opslagplaats hebt, klikt u op de knop **[!U
 
 Kies de gewenste opslagplaats.
 
-![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-five.png) toegang te hebben
+![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-5.png) toegang te hebben
 
 Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuele canvas:
 
 * Sleep een afbeeldingsminiatuur vanuit de linkernavigatie en zet deze neer.
 
-![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"} toegang te hebben
+![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"} toegang te hebben
 
 * Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_te openen.
 
@@ -67,7 +67,7 @@ Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuel
 
   Er zijn meerdere gereedschappen beschikbaar om u te helpen de middelen te vinden die u nodig hebt.
 
-![ gebruikshulpmiddel in de Uitgezochte dialoog van Assets om een beeldactiva ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"} te vinden en te selecteren
+![ gebruikshulpmiddel in de Uitgezochte dialoog van Assets om een beeldactiva ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"} te vinden en te selecteren
 
 * Wijzig de **[!UICONTROL Repository]** rechtsboven.
 
@@ -83,4 +83,4 @@ Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuel
 
 * Typ tekst in het veld Zoeken om de weergegeven items te filteren op een overeenkomst met de elementnaam.
 
-![ Gebruik de filters en het onderzoeksgebied om van de activa ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"} de plaats te bepalen
+![ Gebruik de filters en het onderzoeksgebied om van de activa ](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"} de plaats te bepalen
