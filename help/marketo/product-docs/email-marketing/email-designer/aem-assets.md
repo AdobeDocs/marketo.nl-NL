@@ -4,16 +4,16 @@ description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslag
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
 
 # Werken met Experience Manager-elementen {#work-with-experience-manager-assets}
 
-Wanneer _Adobe Experience Manager Assets as a Cloud Service_ met Adobe Marketo Engage wordt geïntegreerd, kunt u tot digitale activa voor gebruik in uw marketing inhoud gemakkelijk toegang hebben. Terwijl u de inhoud ontwerpt, zijn de elementen toegankelijk via het item _[!UICONTROL Experience Manager Assets]_in de linkernavigatie.
+Wanneer _Adobe Experience Manager Assets as a Cloud Service_ met Adobe Marketo Engage wordt geïntegreerd, kunt u tot digitale activa voor gebruik in uw marketing inhoud gemakkelijk toegang hebben.
 
 >[!PREREQUISITES]
 >
