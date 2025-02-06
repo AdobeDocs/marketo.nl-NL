@@ -4,9 +4,9 @@ description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruik
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '1955'
+source-wordcount: '1980'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,25 @@ Visuele fragmenten zijn vooraf gedefinieerde visuele blokken die zijn gemaakt (m
 
 ## Fragmenten openen en beheren {#access-and-manage-fragments}
 
-Om tot visuele fragmenten toegang te hebben, ga naar de **Studio van het Ontwerp**. Klik in de boomstructuur links op **[!UICONTROL Fragments (New)]** .
+Om tot visuele fragmenten toegang te hebben, ga naar de **Studio van het Ontwerp** in Marketo Engage. Klik in de boomstructuur links op **[!UICONTROL Fragments (New)]** .
 
-![ fragmenten van de Toegang ](assets/fragments-1.png){width="600" zoomable="yes"}
+![ fragmenten van de Toegang ](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 Standaard wordt de tabel gesorteerd op de kolom _[!UICONTROL Modified]_. Klik op andere kolomtitels om te wijzigen waarop de tabel wordt gesorteerd. Klik nogmaals op dezelfde titel om te schakelen tussen oplopend en aflopend.
+
+### Zoeken en filteren
+
+Gebruik de zoekbalk om een fragment op naam te zoeken. Klik het _pictogram van de Filter_ ( ![ pictogram van de Filter ](assets/icon-filter.svg)) om de beschikbare filteropties te tonen en de gewenste montages te kiezen.
+
+![ filter de getoonde fragmenten ](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### De kolommen aanpassen {#customize-the-column-display}
+
+Pas de kolommen aan u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![ aanpassen lijstpictogram ](assets/icon-column-settings.svg)) bij het hoogste recht.
+
+Selecteer de gewenste kolommen en klik op **[!UICONTROL Apply]** .
+
+![ aanpassen lijst modaal ](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Fragmentstatus {#fragment-status}
 
@@ -73,36 +87,30 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
   </tr>
 </tbody></table>
 
-### De lijst met fragmenten filteren {#filter-the-fragments-list}
-
-Gebruik de zoekbalk om een fragment op naam te zoeken. Klik het _pictogram van de Filter_ ( ![ pictogram van de Filter ](assets/icon-filter.svg)) om de beschikbare filteropties te tonen en de gewenste montages te kiezen.
-
-![ filter de getoonde fragmenten ](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### De kolomweergave aanpassen {#customize-the-column-display}
-
-Pas de kolommen aan u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![ aanpassen lijstpictogram ](assets/icon-column-settings.svg)) bij het hoogste recht.
-
-Selecteer de gewenste kolommen in het dialoogvenster en klik op **[!UICONTROL Apply]** .
-
-SCREENSHOT
-
 ## Fragmenten maken {#create-fragments}
 
-Maak een nieuw visueel fragment door op **[!UICONTROL Create fragment]** rechtsboven te klikken.
+1. Als u een nieuw visueel fragment wilt maken, klikt u op **[!UICONTROL Create fragment]** rechtsboven op de pagina in de lijst met fragmenten.
 
-1. Voer in het dialoogvenster _[!UICONTROL Create fragment]_een **[!UICONTROL Name]**en een optioneel **[!UICONTROL Description]**in.
+   ![ creeer fragmentknoop ](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   Fragmentvereisten:
+1. Geef het fragment een **[!UICONTROL Name]** en een optioneel **[!UICONTROL Description]** .
 
-   * Naam - max. 100 tekens, moet uniek en hoofdlettergevoelig zijn
-   * Beschrijving - max. 300 tekens
-   * Alpha, numerieke tekens en speciale tekens zijn oké
+   _de vereisten van het Fragment_
+
+   * Naam: max. 100 tekens, moet uniek zijn en niet hoofdlettergevoelig
+   * Omschrijving: maximaal 300 tekens
+   * Tekens: alfa, numerieke en speciale tekens zijn oké
    * Gereserveerde karakters zijn **_niet toegestaan_**: `\ / : * ? " < > |`
 
-SCREENSHOT
+   ![ creeer fragment modaal ](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Create]**.
+
+   ![ creeer fragment modaal ](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Het Type van fragment **** kan niet op dit ogenblik worden gewijzigd.
 
    De visuele ontwerper wordt geopend met een leeg canvas.
 

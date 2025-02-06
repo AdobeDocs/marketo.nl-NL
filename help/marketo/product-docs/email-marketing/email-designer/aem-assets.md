@@ -1,12 +1,10 @@
 ---
 title: Werken met Experience Manager Assets
 description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslagplaats kunt gebruiken bij het ontwerpen van inhoud in Adobe Marketo Engage.
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,13 +15,13 @@ Wanneer _Adobe Experience Manager Assets as a Cloud Service_ met Adobe Marketo E
 
 >[!PREREQUISITES]
 >
->Verbind MKTO/AEM doc.
+>[ verbind uw Cloud Servicen van Adobe Experience Manager met uw instantie van Adobe Marketo Engage ](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [ leer meer ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets) {target="_blank"}
 
-Wanneer u deze digitale activa gebruikt, verspreiden de recentste veranderingen in _as a Cloud Service Assets_ automatisch aan levende e-mailcampagnes door verbonden verwijzingen. Als de beelden in _as a Cloud Service Adobe Experience Manager Assets_ worden geschrapt, verschijnen de beelden met een gebroken verwijzing in de e-mails. Wanneer elementen die momenteel in Marketo Engage worden gebruikt, worden gewijzigd of verwijderd, krijgen de auteurs van de e-mail een melding over de wijzigingen in de afbeelding. Alle wijzigingen in de activa moeten plaatsvinden in de centrale gegevensbank van Adobe Experience Manager Assets.
+Wanneer u deze digitale activa gebruikt, verspreiden de recentste veranderingen in _as a Cloud Service Assets_ automatisch aan levende e-mailcampagnes door verbonden verwijzingen. Als de beelden in _as a Cloud Service Adobe Experience Manager Assets_ worden geschrapt, verschijnen de beelden met een gebroken verwijzing in uw e-mails. Wanneer elementen die momenteel in Marketo Engage worden gebruikt, worden gewijzigd of verwijderd, krijgen de auteurs van de e-mail een melding over de wijzigingen in de afbeelding. Alle wijzigingen in de activa moeten plaatsvinden in de centrale gegevensbank van Adobe Experience Manager Assets.
 
 ## AEM Assets gebruiken als afbeeldingsbron {#use-aem-assets-as-the-image-source}
 
@@ -67,7 +65,7 @@ Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuel
 
   Er zijn meerdere gereedschappen beschikbaar om u te helpen de middelen te vinden die u nodig hebt.
 
-![ gebruikshulpmiddel in de Uitgezochte dialoog van Assets om een beeldactiva ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"} te vinden en te selecteren
+![ hulpmiddel van het Gebruik in de Uitgezochte dialoog van Assets om een beeldactiva ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"} te vinden en te selecteren
 
 * Wijzig de **[!UICONTROL Repository]** rechtsboven.
 
