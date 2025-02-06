@@ -3,7 +3,7 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -28,7 +28,7 @@ E-mails die in de nieuwe ontwerper zijn gemaakt, kunnen worden gebruikt in e-mai
 
 * [ malplaatje het auteursrecht van de E-mail ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
 
-* [ Werk met AEM Assets ](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw AEM digitale activa voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
+* [ Werk met AEM Assets ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw AEM digitale activa voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
 
 ## Veelgestelde vragen {#faq}
 
