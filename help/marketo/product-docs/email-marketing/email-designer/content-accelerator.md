@@ -1,18 +1,20 @@
 ---
-title: doc Content Accelerator
-description: Leren hoe...
-hide: true
-hidefromtoc: true
-source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
+solution: Marketo Engage
+product: marketo engage
+title: De AI Assistant-versnelling voor inhoud gebruiken
+description: Gebruik de generatieve AI-technologie van Adobe om handige tekst of verbluffende beelden aan uw e-mails toe te voegen.
+feature: Email Editor
+exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
+source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 # De AI Assistant-versnelling voor inhoud gebruiken {#use-the-ai-assistant-content-accelerator}
 
-De AI Assistant Content Accelerator is een functie in de Marketo Engage-e-mailtoepassing van Designer waarmee u op productieve wijze hedendaagse, krachtige en intuïtieve e-mails kunt maken. Dit wordt bereikt door de generatieve AI-technologie van de Adobe en de snelle bibliotheek, samen met de Firefly voor het genereren van beelden, die helpen bij het creëren van geschikte inhoud voor een bepaalde persoon/inkoopgroep, het marketingstadium, de communicatiestrategie, de toon, enz. U kunt ook speciale merkmiddelen gebruiken om inhoud te maken.
+Met de AI Assistant Content Accelerator in het Marketo Engage-e-mailprogramma Designer kunt u hedendaagse, krachtige en intuïtieve e-mails maken. Dit wordt bereikt door de generatieve AI-technologie van de Adobe en de snelle bibliotheek, samen met de Firefly voor het genereren van beelden, die helpen bij het creëren van geschikte inhoud voor een bepaalde persoon/inkoopgroep, het marketingstadium, de communicatiestrategie, de toon, enz. U kunt ook speciale merkmiddelen gebruiken om inhoud te maken.
 
 >[!PREREQUISITES]
 >
@@ -28,26 +30,24 @@ Er zijn drie hoofdgebruikscenario&#39;s voor de AI Assistant Content Accelerator
 
 Wanneer een e-mailbericht wordt gemaakt met de nieuwe e-mailtoepassing Designer, voert u een tijdelijke onderwerpregel in.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-1.png)
 
 Nadat e-mail is gecreeerd, is de onderwerpregel in de _kolom van Details_ op het recht. Klik de AI hulpknoop ( ![ pictogram van de Filter ](assets/icon-ai-assistant.png)) naast het om hulp te krijgen die tot een nieuwe onderwerpregel leidt gebruikend de functionaliteit van Gen AI.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-2.png)
 
-—HIER GESTOPT BEWERKEN—
-
-Als u al een onderwerpregel hebt gebruikt en u wilt die gebruiken als referentie voor het genereren van een regel, schakelt u de knop &quot;Referentie-inhoud gebruiken&quot; in of uit.
+Laat de **optie van de de verwijzingsinhoud van het Gebruik** voor de AI Hulp Versneller van de Inhoud toe om nieuwe inhoud te personaliseren die op de geselecteerde inhoud wordt gebaseerd.
 
 Voer de vraag in om de onderwerpregel aan te passen. Voer relevante tekstinstellingen in en upload eventuele merkelementen die u als referentie wilt gebruiken om een geschikte onderwerpregel te maken.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-3.png)
 
 De tekstinstellingen zijn:
 
 <table><tbody>
   <tr>
     <td><b>Groep voor kopen</b></td>
-    <td>Specifieke inkoopgroep waarop u zich richt (bijvoorbeeld CEO, Influencer, Beslissingsmaker).</td>
+    <td>Specifieke inkoopgroep waarvoor u zich richt (bijvoorbeeld: Praktijk, Influencer, Besluitvormer).</td>
   </tr>
   <tr>
     <td><b>Handelsfase</b></td>
@@ -72,60 +72,58 @@ De tekstinstellingen zijn:
 </tbody>
 </table>
 
-Hieronder ziet een voorbeeld van een tekstinstelling met vulling er als volgt uit:
+Op klikkend **produceer**, verschijnen de steekproeven voor u om van te kiezen:
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-4.png)
 
-U kunt er ook voor kiezen om een merkelement te uploaden om inhoud in het element te gebruiken als referentie-inhoud om de onderwerpregel te maken.
+U kunt ook een merkmiddel uploaden om inhoud binnen het element als verwijzing te gebruiken om de onderwerpregel tot stand te brengen.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-5.png)
 
-Als u één variant hebt geselecteerd, kunt u ervoor kiezen deze te gebruiken door de variatie in het selectievakje in te schakelen en op Selecteren te klikken. U kunt er ook voor kiezen om het te verfijnen door op Verfijnen te klikken en de instellingen te wijzigen. U kunt ook feedback geven via duim omhoog of omlaag, zodat de Gen-AI-technologie begrijpt wat werkt volgens uw voorkeuren.
+Om een variatie te kiezen, zijn checkbox te selecteren en **Uitgezocht** te klikken. U kunt het ook tweken door **te klikken verfijnen**. Daarnaast kunt u feedback geven door op het pictogram met de duimen omhoog of omlaag te klikken, zodat de Gen-AI-technologie uw voorkeuren leert kennen.
 
-Als u deze optie selecteert, wordt de onderwerpregel ingevuld in uw e-mailgegevens
+Nadat u de selectie hebt aangebracht, wordt de onderwerpregel ingevuld in uw e-maildetails.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-6.png)
 
 ## Inhoud maken voor een specifieke sectie van uw e-mail {#create-content-for-a-specific-section}
 
-Nadat u de e-mail via de AI-assistent hebt gemaakt op basis van een e-mailsjabloon, wilt u wellicht bepaalde delen van de afbeelding wijzigen, zoals e-mail of tekst.
+Nadat u de e-mail hebt gemaakt, kunt u bepaalde secties, afbeeldingen of tekst wijzigen.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-7.png)
 
-Uit de vorige e-mail die is gegenereerd, blijkt dat het beeld van de expert op het gebied van de gezondheidszorg niet helemaal juist is. U kunt de AI-assistent dan ook opdragen om een afbeelding van een expert in de gezondheidszorg te maken, net als een representatie, als u geen echt beeld hebt.
+In dit voorbeeld gebruiken we een gezondheidszorgsjabloon. Als het bestaande beeld van de gezondheidsdeskundige niet aan uw behoeften voldoet, kunt u de AI medewerker opdragen om zijn eigen beeld van een gezondheidsdeskundige te creëren. Selecteer de afbeeldingsinhoud en klik op de AI-assistent.
 
-In dat geval kunt u een gedeelte van de e-mail selecteren en vervolgens de AI-assistent gebruiken om specifiek inhoud voor die sectie te maken. Selecteer de afbeeldingsinhoud en klik op de AI-assistent.
+![](assets/use-the-ai-assistant-content-accelerator-8.png)
 
-SCREENSHOT
+Voer de relevante details in de prompt in, zoals &quot;Een afbeelding genereren voor een expert in de gezondheidszorg&quot;, en voeg de gewenste aanpassingen toe. U kunt de snelle bibliotheek (rechts van de herinnering) ook gebruiken als u niet zeker bent wat om binnen te gaan.
 
-Voer de relevante details in de vraag in, zoals &quot;een afbeelding voor een expert in de gezondheidszorg genereren&quot;, en voeg indien nodig aanpassingen toe. U kunt de snelle bibliotheek op het recht van de herinnering ook gebruiken als u niet van welke herinnering vertrouwt om binnen te gaan.
+Na het klikken **produceer**, worden de veelvoudige varianten gecreeerd voor u om te kiezen van.
 
-Als u op &quot;Genereren&quot; klikt, worden er meerdere varianten gemaakt en kunt u de varianten kiezen die bij de inhoud van de e-mail passen.
+![](assets/use-the-ai-assistant-content-accelerator-9.png)
 
-SCREENSHOT
+Tekstdelen van de e-mail kunnen net als afbeeldingen worden gewijzigd.
 
-Net als bij een afbeelding kunnen ook andere delen van inhoud, zoals tekst, worden gewijzigd.
-
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-10.png)
 
 ## Een volledige e-mail maken op basis van een geselecteerde sjabloon {#create-an-entire-email}
 
-Deze optie is alleen beschikbaar als de e-mail is gemaakt met een bestaande sjabloon. Dit kan een standaardsjabloon zijn die wordt verschaft door de e-mail-Designer, opgeslagen sjabloon die al is gemaakt door een markeerteken of een geïmporteerde sjabloon met de functie HTML importeren. Deze optie is niet beschikbaar als u voor uw e-mail de optie &quot;Ontwerpen vanuit werkruimte&quot; hebt gekozen.
+Deze optie is alleen beschikbaar als de e-mail is gemaakt met een bestaande sjabloon. Dit kan een standaardsjabloon zijn die wordt geboden door de e-mail-Designer, een opgeslagen sjabloon die u al hebt gemaakt of een geïmporteerde sjabloon met de optie HTML importeren. Deze optie is niet beschikbaar als u [ Ontwerp van Scratch ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) voor uw e-mail kiest.
 
-Als u een bepaalde sjabloon selecteert zonder een component in de sjabloon te selecteren, klikt u op de knop AI-assistent in de nieuwe e-mailtoepassing van Designer.
+Selecteer een sjabloon zonder een component in de sjabloon te selecteren en klik op de knop AI-assistent in de e-mailtoepassing Designer.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-11.png)
 
 Voer de relevante prompt in en kies de tekstinstellingen, merkelementen en afbeeldingsinstellingen die u voor uw e-mail wilt gebruiken.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-12.png)
 
-Als u afbeeldingen wilt genereren met Firefly, selecteert u Afbeeldingsinstellingen en schakelt u de schakeloptie &quot;Afbeeldingen genereren met AI&quot; in
+Als u beelden zou willen produceren gebruikend Firefly, selecteer de Montages van het Beeld en selecteer de knevel voor **produceer Beelden gebruikend AI**.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-13.png)
 
-Selecteer de juiste instellingen, zoals Inhoudstype, Kleur en Toon, Belichting en Samenstelling om Gen-AI-afbeeldingen voor uw e-mail te maken. Klik op Genereren om variaties van de e-mail te genereren.
+Selecteer het gewenste _Type van Inhoud_, _Kleur en Toon_, _Verlichting_, en _Samenstelling_ om beelden Gen-AI voor uw e-mail tot stand te brengen. Klik **produceren** wanneer gedaan.
 
-SCREENSHOT
+![](assets/use-the-ai-assistant-content-accelerator-14.png)
 
-Selecteer een van de variaties die u wilt voorvertonen door op Voorvertoning te klikken of pas de variatie toe om de wijziging op het canvas te weerspiegelen.
+Zie hoe een variatie in uw e-mail door **Voorproef** te klikken zal kijken. Kies een variatie door **te klikken toepassen**.
