@@ -3,38 +3,38 @@ title: doc Content Accelerator
 description: Leren hoe...
 hide: true
 hidefromtoc: true
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
 
-# doc Content Accelerator {#connect-experience-manager-doc}
+# De AI Assistant-versnelling voor inhoud gebruiken {#use-the-ai-assistant-content-accelerator}
 
-Inhoudsversnelling (met Gen-AI-mogelijkheden)
+De AI Assistant Content Accelerator is een functie in de Marketo Engage-e-mailtoepassing van Designer waarmee u op productieve wijze hedendaagse, krachtige en intuïtieve e-mails kunt maken. Dit wordt bereikt door de generatieve AI-technologie van de Adobe en de snelle bibliotheek, samen met de Firefly voor het genereren van beelden, die helpen bij het creëren van geschikte inhoud voor een bepaalde persoon/inkoopgroep, het marketingstadium, de communicatiestrategie, de toon, enz. U kunt ook speciale merkmiddelen gebruiken om inhoud te maken.
 
-Content Accelerator of AI Assistant is een functie in de nieuwe e-mailtoepassing van de Designer die marketers helpt om productieve, presterende en intuïtieve e-mails te maken. Dit wordt bereikt door de generatieve AI-technologie van de Adobe en de snelle bibliotheek samen met de Firefly voor het genereren van images, die marketeers helpt om geschikte inhoud te maken voor een bepaalde groep personen/inkoopgroepen, de fase van de marketingreis, de communicatiestrategie, de toon, enzovoort. Specifieke merkmiddelen kunnen ook worden gebruikt om inhoud te maken met behulp van input van deze merkmiddelen.
+>[!PREREQUISITES]
+>
+>De AI Assistant Content Accelerator is niet standaard ingeschakeld. U moet eerst akkoord gaan met de Core Gen-AI-termen en de aanvullende voorwaarden voor het gebruik van de Gen-AI-functionaliteit in de e-mailtoepassing van de Designer. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
 
-Deze functionaliteit is alleen beschikbaar voor klanten die de Core Gen-AI-termen hebben ondertekend en die de aanvullende voorwaarden hebben aangeboden voor het gebruik van de Gen-AI-functionaliteit in de New Email Designer. Neem contact op met uw accountvertegenwoordiger voor toegang tot deze functie. Dit is niet standaard beschikbaar bij de nieuwe e-mailtoepassing Designer.
+Er zijn drie hoofdgebruikscenario&#39;s voor de AI Assistant Content Accelerator:
 
-De Versneller van de inhoud kan voor drie primaire gebruiksgevallen worden gebruikt:
+* [ creeer een onderwerpregel ](#create-a-subject-line) voor uw e-mail
+* [ creeer inhoud voor een specifieke sectie ](#create-content-for-a-specific-section) van uw e-mail
+* [ creeer volledige e-mail ](#create-an-entire-email) van een geselecteerd malplaatje
 
-* Een onderwerpregel voor uw e-mail maken
-* Een volledige e-mail maken op basis van een geselecteerde sjabloon
-* Inhoud maken voor een specifieke sectie van uw e-mail
+## Een onderwerpregel maken {#create-a-subject-line}
 
-## Een onderwerpregel maken {#creating-a-subject-line}
+Wanneer een e-mailbericht wordt gemaakt met de nieuwe e-mailtoepassing Designer, voert u een tijdelijke onderwerpregel in.
 
-Wanneer u een e-mailbericht maakt met de nieuwe e-mailtoepassing Designer, kunt u een tijdelijke onderwerpregel invoeren.
+SCREENSHOT
+
+Nadat e-mail is gecreeerd, is de onderwerpregel in de _kolom van Details_ op het recht. Klik de AI hulpknoop ( ![ pictogram van de Filter ](assets/icon-ai-assistant.png)) naast het om hulp te krijgen die tot een nieuwe onderwerpregel leidt gebruikend de functionaliteit van Gen AI.
 
 SCREENSHOT
 
-Nadat het e-mailbericht is gemaakt, wordt de onderwerpregel weergegeven op het tabblad Details op de rechterspoorstaaf. Naast de Onderwerpregel is een AI hulpknoop die de marketers helpt de Onderwerpregel produceren gebruikend de functionaliteit van Gen AI.
-
-Als u op de knop klikt, wordt het volgende scherm geopend met opties waarmee u het genereren van de onderwerpregel kunt aanpassen.
-
-SCREENSHOT
+—HIER GESTOPT BEWERKEN—
 
 Als u al een onderwerpregel hebt gebruikt en u wilt die gebruiken als referentie voor het genereren van een regel, schakelt u de knop &quot;Referentie-inhoud gebruiken&quot; in of uit.
 
@@ -47,15 +47,15 @@ De tekstinstellingen zijn:
 <table><tbody>
   <tr>
     <td><b>Groep voor kopen</b></td>
-    <td>Specifieke inkoopgroep waarvoor u zich richt, zoals beïnvloedende partij, besluitvormer, enz.</td>
+    <td>Specifieke inkoopgroep waarop u zich richt (bijvoorbeeld CEO, Influencer, Beslissingsmaker).</td>
   </tr>
   <tr>
     <td><b>Handelsfase</b></td>
-    <td>Ontvangers in een bepaalde fase van de marketingreis, zoals Discover, Evaluate, Commit, enz.</td>
+    <td>Ontvangers in een bepaalde fase van de marketingreis (bijvoorbeeld Discover, Evaluate, Commit).</td>
   </tr>
   <tr>
     <td><b>Communicatiestrategie</b></td>
-    <td>Het doel van de mededeling, zoals Urgent, Sociale Bewijs, Informatief, enzovoort</td>
+    <td>De doelstelling van de mededeling (bijvoorbeeld Urgent, Sociale Bewijs, Informatief).</td>
   </tr>
   <tr>
     <td><b>Taal</b></td>
@@ -63,11 +63,11 @@ De tekstinstellingen zijn:
   </tr>
   <tr>
     <td><b>Tint</b></td>
-    <td>Toon waarin u de inhoud wilt genereren zoals Inspirational, Exciting, Humoureuze enzovoort.</td>
+    <td>Toon waarin u de inhoud wilt genereren (bijvoorbeeld Inspirational, Exciting, Humoureuze).</td>
   </tr>
   <tr>
     <td><b>Emojis</b></td>
-    <td>Schakel deze optie in als u emojis wilt opnemen in de generatie.</td>
+    <td>Hiermee kunt u emojis opnemen in de gegenereerde inhoud.</td>
   </tr>
 </tbody>
 </table>
@@ -83,6 +83,28 @@ SCREENSHOT
 Als u één variant hebt geselecteerd, kunt u ervoor kiezen deze te gebruiken door de variatie in het selectievakje in te schakelen en op Selecteren te klikken. U kunt er ook voor kiezen om het te verfijnen door op Verfijnen te klikken en de instellingen te wijzigen. U kunt ook feedback geven via duim omhoog of omlaag, zodat de Gen-AI-technologie begrijpt wat werkt volgens uw voorkeuren.
 
 Als u deze optie selecteert, wordt de onderwerpregel ingevuld in uw e-mailgegevens
+
+SCREENSHOT
+
+## Inhoud maken voor een specifieke sectie van uw e-mail {#create-content-for-a-specific-section}
+
+Nadat u de e-mail via de AI-assistent hebt gemaakt op basis van een e-mailsjabloon, wilt u wellicht bepaalde delen van de afbeelding wijzigen, zoals e-mail of tekst.
+
+SCREENSHOT
+
+Uit de vorige e-mail die is gegenereerd, blijkt dat het beeld van de expert op het gebied van de gezondheidszorg niet helemaal juist is. U kunt de AI-assistent dan ook opdragen om een afbeelding van een expert in de gezondheidszorg te maken, net als een representatie, als u geen echt beeld hebt.
+
+In dat geval kunt u een gedeelte van de e-mail selecteren en vervolgens de AI-assistent gebruiken om specifiek inhoud voor die sectie te maken. Selecteer de afbeeldingsinhoud en klik op de AI-assistent.
+
+SCREENSHOT
+
+Voer de relevante details in de vraag in, zoals &quot;een afbeelding voor een expert in de gezondheidszorg genereren&quot;, en voeg indien nodig aanpassingen toe. U kunt de snelle bibliotheek op het recht van de herinnering ook gebruiken als u niet van welke herinnering vertrouwt om binnen te gaan.
+
+Als u op &quot;Genereren&quot; klikt, worden er meerdere varianten gemaakt en kunt u de varianten kiezen die bij de inhoud van de e-mail passen.
+
+SCREENSHOT
+
+Net als bij een afbeelding kunnen ook andere delen van inhoud, zoals tekst, worden gewijzigd.
 
 SCREENSHOT
 
@@ -107,26 +129,3 @@ Selecteer de juiste instellingen, zoals Inhoudstype, Kleur en Toon, Belichting e
 SCREENSHOT
 
 Selecteer een van de variaties die u wilt voorvertonen door op Voorvertoning te klikken of pas de variatie toe om de wijziging op het canvas te weerspiegelen.
-
-
-## Inhoud maken voor specifieke sectie van uw e-mail {#create-content-for-a-specific-section}
-
-Nadat u de e-mail via de AI-assistent hebt gemaakt op basis van een e-mailsjabloon, wilt u wellicht bepaalde delen van de afbeelding wijzigen, zoals e-mail of tekst.
-
-SCREENSHOT
-
-Uit de vorige e-mail die is gegenereerd, blijkt dat het beeld van de expert op het gebied van de gezondheidszorg niet helemaal juist is. U kunt de AI-assistent dan ook opdragen om een afbeelding van een expert in de gezondheidszorg te maken, net als een representatie, als u geen echt beeld hebt.
-
-In dat geval kunt u een gedeelte van de e-mail selecteren en vervolgens de AI-assistent gebruiken om specifiek inhoud voor die sectie te maken. Selecteer de afbeeldingsinhoud en klik op de AI-assistent.
-
-SCREENSHOT
-
-Voer de relevante details in de vraag in, zoals &quot;een afbeelding voor een expert in de gezondheidszorg genereren&quot;, en voeg indien nodig aanpassingen toe. U kunt de snelle bibliotheek op het recht van de herinnering ook gebruiken als u niet van welke herinnering vertrouwt om binnen te gaan.
-
-Als u op &quot;Genereren&quot; klikt, worden er meerdere varianten gemaakt en kunt u de varianten kiezen die bij de inhoud van de e-mail passen.
-
-SCREENSHOT
-
-Net als bij een afbeelding kunnen ook andere delen van inhoud, zoals tekst, worden gewijzigd.
-
-SCREENSHOT

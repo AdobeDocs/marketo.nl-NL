@@ -2,40 +2,80 @@
 title: Werken met Experience Manager Assets
 description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslagplaats kunt gebruiken bij het ontwerpen van inhoud in Adobe Marketo Engage.
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
 
 # Werken met Experience Manager-elementen {#work-with-experience-manager-assets}
 
-Wanneer _Adobe Experience Manager Assets as a Cloud Service_ met Adobe Marketo Engage wordt geïntegreerd, kunt u tot digitale activa voor gebruik in uw marketing inhoud gemakkelijk toegang hebben.
-
->[!PREREQUISITES]
->
->[ verbind uw Cloud Servicen van Adobe Experience Manager met uw instantie van Adobe Marketo Engage ](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
+Verbind uw _as a Cloud Service van Adobe Experience Manager Assets_ rekening met uw instantie van Adobe Marketo Engage zodat kunt u uw AEM bewaarplaats van Activa in het Marketo Engage e-mail Designer hefboomwerking.
 
 >[!NOTE]
 >
 >Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [ leer meer ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets) {target="_blank"}
 
+## De AI Assistant-versnelling voor inhoud openen {#access-the-ai-assistant-content-accelerator}
+
+Voordat u deze mogelijkheid kunt gebruiken, moet u eerst AEM Cloud Servicen koppelen aan Adobe Marketo Engage.
+
++++Link AEM Cloud Servicen en Marketo Engage
+
+>[!NOTE]
+>
+>**Vereiste Bevoegdheden Admin**
+
+1. In Marketo Engage, ga naar het **Admin** gebied en selecteer **Adobe Experience Manager** in de linkernavigatieboom.
+
+   ![ Uitgezochte Adobe Experience Manager in de Admin sectie ](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
+
+1. Klik **uitgeven** naast _Cloud Servicen van Adobe Experience Manager_.
+
+   ![ klik uitgeven ](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
+
+1. Selecteer een of meer opslagruimten.
+
+   ![ selecteer een bewaarplaats ](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Alleen opslagruimten die zijn gekoppeld in dezelfde IMS-org als uw abonnement op een Marketo Engage, worden weergegeven.
+
+1. U moet het certificaat van de a [ dienstcredentie ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
+
+   ![ voeg een certificaat toe ](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
+
+1. Sleep het certificaat (alleen JSON-bestand) en zet het neer of selecteer het op uw computer. Klik **toevoegen** wanneer gedaan.
+
+   ![ plaats van het certificaat op uw machine ](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
+
+1. De geconfigureerde opslagplaats wordt hieronder samen met de status en de vervaldatum weergegeven. Klik op de knop voor weglatingsteken (**...** ) om het certificaat weer te geven. Anders ben je klaar.
+
+   ![ het certificaat is toegevoegd ](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
+
+Alle afbeeldingen uit de bibliotheek voor digitaal middelenbeheer in die opslagplaats zijn nu toegankelijk via de Marketo Engage-e-mail Designer.
+
++++
+
+## Werken met AEM middelen {#working-with-aem-assets}
+
 Wanneer u deze digitale activa gebruikt, verspreiden de recentste veranderingen in _as a Cloud Service Assets_ automatisch aan levende e-mailcampagnes door verbonden verwijzingen. Als de beelden in _as a Cloud Service Adobe Experience Manager Assets_ worden geschrapt, verschijnen de beelden met een gebroken verwijzing in uw e-mails. Wanneer elementen die momenteel in Marketo Engage worden gebruikt, worden gewijzigd of verwijderd, krijgen de auteurs van de e-mail een melding over de wijzigingen in de afbeelding. Alle wijzigingen in de activa moeten plaatsvinden in de centrale gegevensbank van Adobe Experience Manager Assets.
 
-## AEM Assets gebruiken als afbeeldingsbron {#use-aem-assets-as-the-image-source}
+### AEM Assets gebruiken als afbeeldingsbron {#use-aem-assets-as-the-image-source}
 
 Als uw omgeving een of meer verbindingen met de opslagplaats voor middelen heeft, kunt u AEM Assets aanwijzen als bron voor elementen wanneer u gegevens voor een e-mail, e-mailsjabloon of visueel fragment maakt of bekijkt.
 
 * Wanneer u nieuwe inhoud maakt, kiest u `AEM Assets` als het **[!UICONTROL Image Source]** -item in het dialoogvenster.
 
-![ Uitgezochte AEM Assets als beeldbron in creeer dialoog ](assets/work-with-experience-manager-assets-1.png){width="400"}
+![ Uitgezochte AEM Assets als beeldbron in creeer dialoog ](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
 * Wanneer u een bestaande inhoudsbron opent, kiest u `AEM Assets` in de _[!UICONTROL Body]_-sectie aan de rechterkant.
 
 ![ Uitgezochte AEM Assets als beeldbron in de eigenschappen ](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## Elementen openen voor ontwerpen {#access-assets-for-authoring}
+### Elementen openen voor ontwerpen {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
@@ -51,7 +91,7 @@ Als u meer dan één aangesloten AEM opslagplaats hebt, klikt u op de knop **[!U
 
 Kies de gewenste opslagplaats.
 
-![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-5.png) toegang te hebben
+![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"} toegang te hebben
 
 Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuele canvas:
 
