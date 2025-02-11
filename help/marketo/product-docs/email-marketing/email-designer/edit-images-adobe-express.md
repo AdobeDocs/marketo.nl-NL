@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -44,11 +44,11 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
    >[!NOTE]
    >
-   >* Om de activa door werkruimte en omslag te bekijken, open de structuur door **te klikken toont Omslagen** pictogram bij de hoogste linkerzijde.
+   >* Als u de elementen op werkruimte en map wilt weergeven, opent u de structuur door op het pictogram **[!UICONTROL Show Folders]** linksboven te klikken.
    >
    >* Als u de tabel op een van de kolommen wilt sorteren, klikt u op de kolomtitel. De pijl in de titelrij geeft de huidige sorteerkolom en -volgorde aan.
 
-1. In het beeld _Details_ lusje, klik **uitgeven in Adobe Express**.
+1. In het beeld _Details_ lusje, klik **[!UICONTROL Edit in Adobe Express]**.
 
    SCREENSHOT 3a
 
@@ -64,7 +64,7 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
    >[!NOTE]
    >
-   >* Om de activa door werkruimte en omslag te bekijken, open de structuur door **te klikken toont Omslagen** pictogram bij de hoogste linkerzijde.
+   >* Als u de elementen op werkruimte en map wilt weergeven, opent u de structuur door op het pictogram **[!UICONTROL Show Folders]** linksboven te klikken.
    >
    >* Als u de tabel op een van de kolommen wilt sorteren, klikt u op de kolomtitel. De pijl in de titelrij geeft de huidige sorteerkolom en -volgorde aan.
 
@@ -90,7 +90,7 @@ Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de vol
 >
 >De aangeschafte licentie moet onder dezelfde IMS Org staan als uw Marketo Engage-abonnement om toegang te krijgen tot alle bewerkingsmogelijkheden van Adobe Express. Bovendien moet elke individuele gebruiker een licentie hebben in Adobe Express. De gebruikers [ zonder een vergunning ](#users-without-an-enterprise-license) kunnen tot de snelle acties in Adobe Express slechts toegang hebben.
 
-## Gebruikers zonder Enterprise-licentie {#users-without-an-enterprise-license}
+### Gebruikers zonder Enterprise-licentie {#users-without-an-enterprise-license}
 
 Voor mensen zonder een Enterprise-licentie hebt u nog steeds toegang tot verschillende functies voor snelle bewerking. Deze functies zijn:
 
@@ -103,9 +103,11 @@ De functies zijn toegankelijk in de linkerbovenhoek van de afbeeldingspagina.
 
 SCREENSHOT
 
-### Grootte afbeelding wijzigen {#resize-image}
+#### Grootte afbeelding wijzigen {#resize-image}
 
-Breng uw gewenste veranderingen aan en klik **toepassen** wanneer gedaan.
+1. Klik **Resize Beeld**.
+
+1. Breng uw gewenste veranderingen aan en klik **toepassen** wanneer gedaan.
 
 SCREENSHOT
 
@@ -124,22 +126,42 @@ SCREENSHOT
   </tr>
   <tr>
     <td><b>Zoomen en uitsnijden</b></td>
-    <td>Klik op Zoomen en Uitsnijden om in te zoomen op specifieke gebieden van de afbeelding.</td>
+    <td>Klik <b> Gezoem en Gewas </b> om binnen op specifieke gebieden van het beeld te zoemen.</td>
   </tr>
 </tbody>
 </table>
 
+#### Achtergrond verwijderen {#remove-background}
 
+1. Klik **verwijderen Achtergrond**.
 
-### Achtergrond verwijderen {#remove-background}
+1. Adobe Express geeft de afbeelding zonder achtergrond weer. Klik **toepassen**.
 
-text
+PIC
 
-### Afbeelding uitsnijden {#crop-image}
+>[!TIP]
+>
+>Om de achtergrond te herstellen, selecteer het beeld en selecteer **verwijderen Achtergrond** opnieuw.
 
-Tekst
+#### Afbeelding uitsnijden {#crop-image}
 
-### Omzetten in PNG/JPEG {#convert-to-png-jpeg}
+1. Klik op Afbeelding uitsnijden.
+
+1. Sleep de hoeken van de afbeelding om de gewenste uitsnijding te maken.
+
+SCREENSHOT
+
+1. Klik **toepassen** wanneer gedaan.
+
+#### Omzetten in PNG/JPEG {#convert-to-png-jpeg}
+
+Zet een PNG-bestand om in een JPEG of een JPEG in een PNG-bestand.
+
+1. Klik **Bekeerling in PNG/JPEG**.
+
+1. Klik **toepassen**.
+
+ONDER STUWEN UITSNIJDEN
 
 Klik op de afbeelding Uitsnijden op de pagina.
 
@@ -151,21 +173,10 @@ U kunt een andere update uitvoeren met een andere optie in het linkerdeelvenster
 
 Klik op Opslaan om de handeling te voltooien.
 
-De Editor openen via de pagina Afbeelding en bestanden
-Selecteer op de aanbiedingspagina de afbeelding die u wilt bewerken en klik op de actieknop Afbeelding en bestanden op de pagina.
+## Uw werk opslaan {#save-your-work}
 
-Klik op Bewerken met Adobe Express
+Wanneer u klaar bent met al uw bewerkingen, klikt u op Opslaan om uw werk op te slaan.
 
-De Editor openen via de e-mail-Designer
+SCREENSHOT
 
-Selecteer in de nieuwe e-mailtoepassing een afbeelding die u wilt bewerken.
-
-Er wordt een optie voor Bewerken met Adobe Express weergegeven. Klik op de knop om door te gaan.
-
-Opmerking: deze handeling is beschikbaar voor afbeeldingen die oorspronkelijk afkomstig zijn uit de Marketo Design Studio-opslagplaats.
-
-Als de afbeelding in gebruik is, verschijnt er een waarschuwingsvenster waarin u wordt gewaarschuwd dat wijzigingen die u aanbrengt, van invloed zijn op die inhoud. Klik op Doorgaan om door te gaan naar de Adobe Express-editor.
-
-Uw bewerking op de Adobe Express voltooien
-
-Klik op Opslaan om de handeling te voltooien.  De bewerkte afbeelding wordt opgeslagen in dezelfde map als de oorspronkelijke afbeelding en ook bijgewerkt op het canvas voor het bewerken van e-mail.
+De bewerkte afbeelding wordt opgeslagen in dezelfde map als de oorspronkelijke afbeelding.
