@@ -6,9 +6,10 @@ description: Leer hoe u afbeeldingen in de Adobe Marketo Engage E-maileditor kun
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -81,11 +82,11 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 ## Gebruikers met een Enterprise-licentie {#users-with-an-enterprise-license}
 
-Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de Express Editor. U kunt instellingen zoals de kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van de afbeelding wissen.
+Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen.
 
 >[!IMPORTANT]
 >
->De aangeschafte licentie moet onder dezelfde IMS Org staan als uw Marketo Engage-abonnement om toegang te krijgen tot alle Adobe Express-bewerkingsmogelijkheden. Bovendien moet elke individuele gebruiker een licentie hebben in Adobe Express. De gebruikers [ zonder een vergunning ](#users-without-an-enterprise-license) kunnen tot de snelle acties in Adobe Express slechts toegang hebben.
+>De aangeschafte licentie moet onder dezelfde IMS Org staan als uw Marketo Engage-abonnement om toegang te krijgen tot alle bewerkingsmogelijkheden van Adobe Express. Bovendien moet elke individuele gebruiker een licentie hebben in Adobe Express. De gebruikers [ zonder een vergunning ](#users-without-an-enterprise-license) kunnen tot de snelle acties in Adobe Express slechts toegang hebben.
 
 Klik op Bewerken met Adobe Express om de afbeelding te openen.
 
