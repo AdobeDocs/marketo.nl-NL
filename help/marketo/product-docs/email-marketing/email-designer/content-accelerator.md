@@ -2,10 +2,10 @@
 solution: Marketo Engage
 product: marketo engage
 title: De AI Assistant-versnelling voor inhoud gebruiken
-description: Gebruik de generatieve AI-technologie van Adobe om handige tekst of verbluffende beelden aan uw e-mails toe te voegen.
+description: Gebruik Adobe generatieve AI-technologie om handige tekst en/of afbeeldingen aan uw e-mails toe te voegen.
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 # De AI Assistant-versnelling voor inhoud gebruiken {#use-the-ai-assistant-content-accelerator}
 
-Met de AI Assistant Content Accelerator in het Marketo Engage-e-mailprogramma Designer kunt u hedendaagse, krachtige en intuïtieve e-mails maken. Dit wordt bereikt door de generatieve AI-technologie van de Adobe en de snelle bibliotheek, samen met de Firefly voor het genereren van beelden, die helpen bij het creëren van geschikte inhoud voor een bepaalde persoon/inkoopgroep, het marketingstadium, de communicatiestrategie, de toon, enz. U kunt ook speciale merkmiddelen gebruiken om inhoud te maken.
+Met de AI Assistant Content Accelerator in de Marketo Engage Email Designer kunt u hedendaagse, krachtige en intuïtieve e-mails maken. Dit wordt bereikt door middel van Adobe-generatieve AI-technologie en snelle bibliotheek, samen met Firefly voor het genereren van beelden, die helpen bij het creëren van geschikte inhoud voor een bepaalde groep personen/inkoopgroepen, de fase van de marketingreis, de communicatiestrategie, de toon, enz. U kunt ook speciale merkmiddelen gebruiken om inhoud te maken.
 
 >[!PREREQUISITES]
 >
->De AI Assistant Content Accelerator is niet standaard ingeschakeld. U moet eerst akkoord gaan met de Core Gen-AI-termen en de aanvullende voorwaarden voor het gebruik van de Gen-AI-functionaliteit in de e-mailtoepassing van de Designer. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>De AI Assistant Content Accelerator is niet standaard ingeschakeld. U moet eerst akkoord gaan met de Core Gen-AI-termen en de aanvullende voorwaarden voor het gebruik van de Gen-AI-functionaliteit in de e-mailtoepassing van de Designer. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 Er zijn drie hoofdgebruikscenario&#39;s voor de AI Assistant Content Accelerator:
 
@@ -46,27 +46,27 @@ De tekstinstellingen zijn:
 
 <table><tbody>
   <tr>
-    <td><b>Groep voor kopen</b></td>
+    <td style="width:25%"><b>Groep voor kopen</b></td>
     <td>Specifieke inkoopgroep waarvoor u zich richt (bijvoorbeeld: Praktijk, Influencer, Besluitvormer).</td>
   </tr>
   <tr>
-    <td><b>Handelsfase</b></td>
+    <td style="width:25%"><b>Handelsfase</b></td>
     <td>Ontvangers in een bepaalde fase van de marketingreis (bijvoorbeeld Discover, Evaluate, Commit).</td>
   </tr>
   <tr>
-    <td><b>Communicatiestrategie</b></td>
+    <td style="width:25%"><b>Communicatiestrategie</b></td>
     <td>De doelstelling van de mededeling (bijvoorbeeld Urgent, Sociale Bewijs, Informatief).</td>
   </tr>
   <tr>
-    <td><b>Taal</b></td>
+    <td style="width:25%"><b>Taal</b></td>
     <td>Taal waarin u de onderwerpregel wilt genereren.</td>
   </tr>
   <tr>
-    <td><b>Tint</b></td>
+    <td style="width:25%"><b>Tint</b></td>
     <td>Toon waarin u de inhoud wilt genereren (bijvoorbeeld Inspirational, Exciting, Humoureuze).</td>
   </tr>
   <tr>
-    <td><b>Emojis</b></td>
+    <td style="width:25%"><b>Emojis</b></td>
     <td>Hiermee kunt u emojis opnemen in de gegenereerde inhoud.</td>
   </tr>
 </tbody>

@@ -3,12 +3,11 @@ solution: Marketo Engage
 product: marketo engage
 title: Inhoud in e-mailsjablonen vergrendelen
 description: Leer hoe u inhoud in uw e-mailsjablonen kunt vergrendelen.
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '831'
 ht-degree: 0%
 
 ---
@@ -41,11 +40,9 @@ Het sluiten van de inhoud kan of op het **structuur** niveau, of op het **compon
 
 U kunt contentvergrendeling voor een e-mailsjabloon rechtstreeks inschakelen in de e-mailsjabloon van de Designer. Dit is zowel het geval als het gaat om het maken van een nieuwe sjabloon of het bewerken van een bestaande sjabloon.
 
-—HIER GESTOPT BEWERKEN—
-
 1. Open of maak een e-mailsjabloon en open het scherm voor het bewerken van de inhoud in de e-mail Designer.
 
-1. Schakel in het deelvenster **[!UICONTROL Body]** aan de rechterkant de optie **[!UICONTROL Governance]** in.
+1. Schakel in het deelvenster **[!UICONTROL Body]** rechts de optie **[!UICONTROL Governance]** in.
 
 1. Selecteer in de vervolgkeuzelijst **[!UICONTROL Mode]** de gewenste vergrendelingsmodus voor de sjabloon:
 
@@ -65,7 +62,7 @@ U kunt contentvergrendeling voor een e-mailsjabloon rechtstreeks inschakelen in 
    * [Leer hoe u structuren kunt vergrendelen](#lock-structures)
    * [Leer hoe u componenten kunt vergrendelen](#lock-components)
 
-   Als u de modus **[!UICONTROL Read only]** kiest, kunt u de sjabloon op de gebruikelijke manier voltooien en opslaan.
+   Als u de modus **[!UICONTROL Read only]** kiest, kunt u doorgaan met het voltooien en opslaan van de sjabloon.
 
 U kunt de instellingen van **[!UICONTROL Governance]** op elk gewenst moment tijdens het ontwerpen van de sjabloon aanpassen door de hoofdtekst van de sjabloon te selecteren. Klik hiertoe op de koppeling **[!UICONTROL Body]** in de navigatieregel die zich boven aan het rechterdeelvenster bevindt.
 
@@ -128,16 +125,11 @@ Als u een sjabloon met vergrendelde inhoud gebruikt, wordt het bericht **[!UICON
 
 Afhankelijk van het type vergrendeling dat op de sjabloon wordt toegepast, kunt u verschillende handelingen uitvoeren op de structuren en componenten van de sjabloon. Schakel de optie **[!UICONTROL Highlight editable areas]** in als u snel alle bewerkbare gebieden in de sjabloon wilt identificeren.
 
-In de onderstaande sjabloon zijn bijvoorbeeld alle gebieden bewerkbaar, behalve de bovenste afbeelding die is vergrendeld. Dit betekent dat u deze afbeelding niet kunt bewerken of verwijderen.
+In de onderstaande sjabloon zijn bijvoorbeeld alle gebieden bewerkbaar, behalve de bovenste afbeelding die is vergrendeld. Dit betekent dat u deze niet kunt bewerken of verwijderen.
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
 
-Raadpleeg de volgende secties voor gedetailleerde informatie over de verschillende typen vergrendeling die kunnen worden toegepast:
-
-* [Vergrendelingsstructuren](#lock-structures)
-* [Componenten vergrendelen](#lock-components)
-
-Hier volgen enkele voorbeelden van e-maileditie en de bijbehorende configuratie voor vergrendeling van inhoud die is ingesteld:
+Hier volgen enkele voorbeelden van e-mailversies en de bijbehorende configuratie voor vergrendeling van inhoud die is ingesteld:
 
 <table>
 <thead>

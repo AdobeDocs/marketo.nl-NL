@@ -1,11 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
+source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -14,13 +16,31 @@ ht-degree: 0%
 
 Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 
->[!PREREQUISITES]
->
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
-
-De nieuwe e-mailontwerper is de meest recente vernieuwing in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mailsjablonen en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele editor voor slepen en neerzetten samen met standaardsjablonen voor uitchecken. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
+De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mailsjablonen en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele drag-and-drop editor en standaardsjablonen voor &#39;out-of-the-box&#39; te bieden. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
 
 E-mails die in de nieuwe ontwerper zijn gemaakt, kunnen worden gebruikt in e-mailprogramma&#39;s en in slimme lijsten/campagnes. De krachtige nieuwe verbeteringen aan de ontwerper komen binnenkort.
+
+## Toegang krijgen {#how-to-access}
+
++++Leer hoe u toegang krijgt tot de e-mailontwerper
+
+Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+
+### Gebruikers toevoegen {#add-users}
+
+1. Ga in Marketo Engage naar het **[!UICONTROL Admin]** -gebied en selecteer **[!UICONTROL New Email Designer]** .
+
+   ![ Selecterend Nieuwe E-mail Designer in de linkernav van Admin ](assets/overview-1.png){width="600" zoomable="yes"}
+
+1. Klik op **[!UICONTROL Add Users]**.
+
+   ![ voegt de knoop van Gebruikers ](assets/overview-2.png){width="600" zoomable="yes"} toe
+
+1. Selecteer de gewenste gebruikers in de vervolgkeuzelijst **[!UICONTROL Add New Values]** . Klik op **[!UICONTROL OK]** als u klaar bent.
+
+   ![ Kiezen gebruikers van lijst ](assets/overview-3.png){width="600" zoomable="yes"}
+
++++
 
 ## Beschikbare artikelen {#available-articles}
 
@@ -28,7 +48,11 @@ E-mails die in de nieuwe ontwerper zijn gemaakt, kunnen worden gebruikt in e-mai
 
 * [ malplaatje het auteursrecht van de E-mail ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
 
-* [ Werk met AEM Assets ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw AEM digitale activa voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
+* [ Werk met de activa van AEM ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw digitale activa van AEM voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
+
+* [ gebruik de AI Hulp Versneller van de Inhoud ](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Hefboomwerking generatieve AI technologie van Adobe om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
+
+* [ de inhoud van het Slot in e-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Leer hoe te om inhoud in e-mailmalplaatjes te sluiten, die helpen onopzettelijke uitgeeft of schrappingen verhinderen.
 
 ## Veelgestelde vragen {#faq}
 
@@ -38,7 +62,7 @@ Ja, de oude (klassieke) e-maileditor zal naast de nieuwe e-mailontwerper bestaan
 
 **zullen onze bestaande e-mailmalplaatjes in de nieuwe ontwerper werken? Als niet, moeten wij malplaatjes creëren gebruikend de nieuwe ontwerper zodat beantwoorden alle secties/modules aan hoe wij onze inhoud willen kijken?**
 
-Nee, er kan niet worden verwezen naar e-mailsjablonen van de klassieke editor in de nieuwe ontwerper. U zult nieuwe malplaatjes in de nieuwe ontwerper moeten creëren. Nochtans, kunt u _HTML van het 1} malplaatje in de nieuwe ontwerper invoeren, dan noodzakelijke tweaks maken._ We werken ook aan een manier om sjablonen eenvoudig te migreren van de klassieke editor naar de nieuwe ontwerper.
+Nee, er kan niet worden verwezen naar e-mailsjablonen van de klassieke editor in de nieuwe ontwerper. U zult nieuwe malplaatjes in de nieuwe ontwerper moeten creëren. Nochtans, kunt u _malplaatje HTML in de nieuwe ontwerper invoeren, dan noodzakelijke tweaks maken._ We werken ook aan een manier om sjablonen eenvoudig te migreren van de klassieke editor naar de nieuwe ontwerper.
 
 **is er een manier om branding (doopvonten, logo&#39;s, en kleuren) af te dwingen?**
 
