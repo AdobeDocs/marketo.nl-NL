@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 1. Ga in Marketo Engage naar **[!UICONTROL Design Studio]** en selecteer **[!UICONTROL Images and Files]** .
 
-   ![ Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp ](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![ Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp ](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Selecteer de afbeelding die u wilt bewerken (of maak een nieuwe).
 
-   SCREENSHOT
+   SCREENSHOT 2a
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 1. In het beeld _Details_ lusje, klik **uitgeven in Adobe Express**.
 
-   SCREENSHOT
+   SCREENSHOT 3a
 
    >[!CAUTION]
    >
@@ -60,7 +60,7 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 1. Ga in Marketo Engage naar **[!UICONTROL Design Studio]** en selecteer **[!UICONTROL Images and Files]** .
 
-   ![ Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp ](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![ Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp ](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 1. Schakel het selectievakje naast de afbeelding die u wilt bewerken in.
 
-   SCREENSHOT
+   SCREENSHOT 2b
 
 1. Selecteer **[!UICONTROL Edit in Adobe Express]** in de vervolgkeuzelijst **[!UICONTROL Image and file actions]** .
 
@@ -80,7 +80,9 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 >[!ENDTABS]
 
-## Gebruikers met een Enterprise-licentie {#users-with-an-enterprise-license}
+## Adobe Express Enterprise-licentie {#adobe-express-enterprise-license}
+
+### Gebruikers met een Enterprise-licentie {#users-with-an-enterprise-license}
 
 Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen.
 
@@ -88,25 +90,56 @@ Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de vol
 >
 >De aangeschafte licentie moet onder dezelfde IMS Org staan als uw Marketo Engage-abonnement om toegang te krijgen tot alle bewerkingsmogelijkheden van Adobe Express. Bovendien moet elke individuele gebruiker een licentie hebben in Adobe Express. De gebruikers [ zonder een vergunning ](#users-without-an-enterprise-license) kunnen tot de snelle acties in Adobe Express slechts toegang hebben.
 
-Klik op Bewerken met Adobe Express om de afbeelding te openen.
-
-SCREENSHOT
-
-Voer de vereiste wijzigingen uit en sla het bestand op.
-
-SCREENSHOT
-
-Klik op Opslaan om de handeling te voltooien.
-
 ## Gebruikers zonder Enterprise-licentie {#users-without-an-enterprise-license}
 
 Voor mensen zonder een Enterprise-licentie hebt u nog steeds toegang tot verschillende functies voor snelle bewerking. Deze functies zijn:
 
-* Grootte afbeelding wijzigen
-* Achtergrond verwijderen
-* Afbeelding uitsnijden
-* Omzetten in PNG
-* Omzetten in JPEG
+* [Grootte afbeelding wijzigen](#resize-image)
+* [Achtergrond verwijderen](#remove-background)
+* [Afbeelding uitsnijden](#crop-image)
+* [Omzetten in PNG/JPEG](#convert-to-png-jpeg)
+
+De functies zijn toegankelijk in de linkerbovenhoek van de afbeeldingspagina.
+
+SCREENSHOT
+
+### Grootte afbeelding wijzigen {#resize-image}
+
+Breng uw gewenste veranderingen aan en klik **toepassen** wanneer gedaan.
+
+SCREENSHOT
+
+<table><tbody>
+  <tr>
+    <td><b>Hoogte-breedteverhouding</b></td>
+    <td>In de <b> drop-down verhouding van de Verhouding </b>, kies <b> Standaard </b> aan BLANK, of <b> Douane </b> om uw eigen breedte/hoogte te plaatsen.</td>
+  </tr>
+  <tr>
+    <td><b>Breedte en Hoogte</b></td>
+    <td>Standaard is de hoogte-breedteverhouding vergrendeld, zodat de verhoudingen van de afbeelding hetzelfde blijven wanneer u de grootte aanpast. U kunt desgewenst de vergrendelingsknop selecteren om de hoogte-breedteverhouding te ontgrendelen.</td>
+  </tr>
+  <tr>
+    <td><b>Herstellen</b></td>
+    <td>Klik <b> Terugstellen </b> om het even welke die uitgeeft aan het beeld te verwijderen en het terug te keren aan zijn originele staat.</td>
+  </tr>
+  <tr>
+    <td><b>Zoomen en uitsnijden</b></td>
+    <td>Klik op Zoomen en Uitsnijden om in te zoomen op specifieke gebieden van de afbeelding.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Achtergrond verwijderen {#remove-background}
+
+text
+
+### Afbeelding uitsnijden {#crop-image}
+
+Tekst
+
+### Omzetten in PNG/JPEG {#convert-to-png-jpeg}
 
 Klik op de afbeelding Uitsnijden op de pagina.
 
