@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,9 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
    ![ Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp ](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. Selecteer de afbeelding die u wilt bewerken (of maak een nieuwe).
+1. Selecteer de afbeelding die u wilt bewerken.
 
-   SCREENSHOT 2a
+   ![ klikkend op de naam van het beeld ](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 1. In het beeld _Details_ lusje, klik **[!UICONTROL Edit in Adobe Express]**.
 
-   SCREENSHOT 3a
+   ![ klikkend Edit in de knoop van Adobe Express ](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
    >
    >* Als u de tabel op een van de kolommen wilt sorteren, klikt u op de kolomtitel. De pijl in de titelrij geeft de huidige sorteerkolom en -volgorde aan.
 
-1. Schakel het selectievakje naast de afbeelding die u wilt bewerken in.
+1. Schakel het selectievakje naast de afbeelding die u wilt bewerken in. Selecteer **[!UICONTROL Edit in Adobe Express]** in de vervolgkeuzelijst **[!UICONTROL Image and file actions]** .
 
-   SCREENSHOT 2b
-
-1. Selecteer **[!UICONTROL Edit in Adobe Express]** in de vervolgkeuzelijst **[!UICONTROL Image and file actions]** .
+   ![ Selecterend checkbox naast de beeldnaam en gebruikend de Beelden en de dossieracties drop-down ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Voor mensen zonder een Enterprise-licentie hebt u nog steeds toegang tot verschi
 * [Afbeelding uitsnijden](#crop-image)
 * [Omzetten in PNG/JPEG](#convert-to-png-jpeg)
 
-De functies zijn toegankelijk in de linkerbovenhoek van de afbeeldingspagina.
+De functies zijn toegankelijk links op de afbeeldingspagina.
 
-SCREENSHOT
+![ pagina die van het Beeld Adobe Express toont het uitgeven opties ](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Grootte afbeelding wijzigen {#resize-image}
 
@@ -109,24 +107,24 @@ SCREENSHOT
 
 1. Breng uw gewenste veranderingen aan en klik **toepassen** wanneer gedaan.
 
-SCREENSHOT
+![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>Hoogte-breedteverhouding</b></td>
+    <td style="width:25%"><b>Hoogte-breedteverhouding</b></td>
     <td>In de <b> drop-down verhouding van de Verhouding </b>, kies <b> Standaard </b> aan BLANK, of <b> Douane </b> om uw eigen breedte/hoogte te plaatsen.</td>
   </tr>
   <tr>
-    <td><b>Breedte en Hoogte</b></td>
+    <td style="width:25%"><b>Breedte en Hoogte</b></td>
     <td>Standaard is de hoogte-breedteverhouding vergrendeld, zodat de verhoudingen van de afbeelding hetzelfde blijven wanneer u de grootte aanpast. U kunt desgewenst de vergrendelingsknop selecteren om de hoogte-breedteverhouding te ontgrendelen.</td>
   </tr>
   <tr>
-    <td><b>Herstellen</b></td>
+    <td style="width:25%"><b>Herstellen</b></td>
     <td>Klik <b> Terugstellen </b> om het even welke die uitgeeft aan het beeld te verwijderen en het terug te keren aan zijn originele staat.</td>
   </tr>
   <tr>
-    <td><b>Zoomen en uitsnijden</b></td>
-    <td>Klik <b> Gezoem en Gewas </b> om binnen op specifieke gebieden van het beeld te zoemen.</td>
+    <td style="width:25%"><b>Zoomen en uitsnijden</b></td>
+    <td>Klik <b> Gezoem en Gewas </b> om binnen op specifieke gebieden van het beeld te zoemen. Het klikken <b> past </b> na het zoemen toe gewassen het beeld aan wat momenteel wordt getoond.</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ SCREENSHOT
 
 1. Klik **verwijderen Achtergrond**.
 
-1. Adobe Express geeft de afbeelding zonder achtergrond weer. Klik **toepassen**.
+1. Adobe Express geeft de afbeelding zonder achtergrond weer. Als het aan uw behoeften voldoet, **van toepassing is**.
 
-PIC
+![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### Afbeelding uitsnijden {#crop-image}
 
-1. Klik op Afbeelding uitsnijden.
+1. Klik op **[!UICONTROL Crop Image]**.
 
 1. Sleep de hoeken van de afbeelding om de gewenste uitsnijding te maken.
 
-SCREENSHOT
+![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Klik **toepassen** wanneer gedaan.
+1. Klik op **[!UICONTROL Apply]** als u klaar bent.
 
 #### Omzetten in PNG/JPEG {#convert-to-png-jpeg}
 
-Zet een PNG-bestand om in een JPEG of een JPEG in een PNG-bestand.
+Zet een PNG-bestand om in een JPEG-bestand of een JPEG-bestand in een PNG-bestand.
 
-1. Klik **Bekeerling in PNG/JPEG**.
+1. Klik op **[!UICONTROL Convert to PNG/JPEG]**.
 
-1. Klik **toepassen**.
+![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. Klik op **[!UICONTROL Apply]**.
 
 —UITSNIJDING ONDER—
 
