@@ -4,12 +4,10 @@ product: marketo engage
 title: Afbeeldingen bewerken met Adobe Express
 description: Leer hoe u afbeeldingen in de Adobe Marketo Engage E-maileditor kunt bewerken met Adobe Express.
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '807'
 ht-degree: 0%
 
 ---
@@ -28,7 +26,10 @@ Adobe Marketo Engage kan op een native manier worden geïntegreerd met Adobe Exp
 
 ## De Adobe Express-editor openen {#access-the-adobe-express-editor}
 
-Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
+U kunt de Adobe Express-editor op twee manieren openen:
+
+* Klik op de naam van de afbeelding
+* _Beeld en dossiers acties_ drop-down menu
 
 >[!BEGINTABS]
 
@@ -82,7 +83,7 @@ Er zijn twee manieren om toegang te krijgen tot de Adobe Express-editor.
 
 ### Gebruikers met een Enterprise-licentie {#users-with-an-enterprise-license}
 
-Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen.
+Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen. Bezoek de [ Gids van de Gebruiker van Adobe Express ](https://helpx.adobe.com/express/user-guide.html) {target="_blank"} om over elke het plaatsen te leren.
 
 >[!IMPORTANT]
 >
@@ -107,12 +108,12 @@ De functies zijn toegankelijk links op de afbeeldingspagina.
 
 1. Breng uw gewenste veranderingen aan en klik **toepassen** wanneer gedaan.
 
-![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![ resize beeldvenster dat alle beschikbare opties toont ](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Hoogte-breedteverhouding</b></td>
-    <td>In de <b> drop-down verhouding van de Verhouding </b>, kies <b> Standaard </b> aan BLANK, of <b> Douane </b> om uw eigen breedte/hoogte te plaatsen.</td>
+    <td>In de <b> drop-down Verhouding van de Verhouding </b>, kies <b> Standaard </b> om van vooraf berekende gemeenschappelijke fotogrootten te kiezen, of <b> Douane </b> om uw eigen breedte/hoogte te plaatsen. U kunt ook de standaardgrootte van een specifiek platform voor sociale media kiezen (Pinterest, Snapchat, enz.).</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Breedte en Hoogte</b></td>
@@ -135,11 +136,11 @@ De functies zijn toegankelijk links op de afbeeldingspagina.
 
 1. Adobe Express geeft de afbeelding zonder achtergrond weer. Als het aan uw behoeften voldoet, **van toepassing is**.
 
-![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![ Beeld van enkel afgehaalde hond met achtergrond ](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->Om de achtergrond te herstellen, selecteer het beeld en selecteer **verwijderen Achtergrond** opnieuw.
+>Als u niet met het resultaat tevreden bent, klik eenvoudig **X** om het venster te sluiten.
 
 #### Afbeelding uitsnijden {#crop-image}
 
@@ -147,7 +148,7 @@ De functies zijn toegankelijk links op de afbeeldingspagina.
 
 1. Sleep de hoeken van de afbeelding om de gewenste uitsnijding te maken.
 
-![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![ slepend fotohoeken om het beeld ](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"} uit te snijden
 
 1. Klik op **[!UICONTROL Apply]** als u klaar bent.
 
@@ -157,26 +158,14 @@ Zet een PNG-bestand om in een JPEG-bestand of een JPEG-bestand in een PNG-bestan
 
 1. Klik op **[!UICONTROL Convert to PNG/JPEG]**.
 
-![ TEXTTEXTTEXT ](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![ Bekeerling in venster PNG/JPEG ](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Apply]**.
 
-—UITSNIJDING ONDER—
-
-Klik op de afbeelding Uitsnijden op de pagina.
-
-Voer in de Adobe Express-editor de afbeelding uit en klik op Opslaan.
-
-Opmerking: hiermee wordt de afbeelding niet overschreven, maar wordt de afbeelding voor verdere bewerkingen weergegeven.
-
-U kunt een andere update uitvoeren met een andere optie in het linkerdeelvenster, op Opslaan klikken om de bestaande afbeelding te overschrijven of Opslaan als nieuw element om als een nieuwe afbeelding op te slaan.
-
-Klik op Opslaan om de handeling te voltooien.
-
 ## Uw werk opslaan {#save-your-work}
 
-Wanneer u klaar bent met al uw bewerkingen, klikt u op Opslaan om uw werk op te slaan.
+Wanneer u met al uw uitgeeft wordt gedaan, klik **sparen** om uw werk te bewaren.
 
-SCREENSHOT
+![ sparen knoop ](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 De bewerkte afbeelding wordt opgeslagen in dezelfde map als de oorspronkelijke afbeelding.
