@@ -5,9 +5,9 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,11 @@ Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonn
 
 * [ malplaatje het auteursrecht van de E-mail ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
 
+* [ Fragments ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: Leer om visuele inhoudsfragmenten als herbruikbare componenten voor e-mail en e-mailmalplaatjes tot stand te brengen en te gebruiken.
+
 * [ Werk met de activa van AEM ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw digitale activa van AEM voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
+
+* [ geeft Beelden met Adobe Express ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"} uit: Leer hoe te om beelden in de E-mailredacteur van Adobe Marketo Engage uit te geven gebruikend Adobe Express.
 
 * [ Gebruik de Medewerker AI ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: De generatieve AI technologie van Adobe van de hefboomwerking om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
 
