@@ -1,20 +1,20 @@
 ---
 description: Analyse - Marketo Docs - Productdocumentatie
-title: Analyse
+title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Analyse {#analytics}
+# Analytics {#analytics}
 
 Terwijl de rapportering op dialoogniveau beschikbaar is, controleer algemene betrokkenheid gebruikend de drie hieronder dashboards.
 
-Elk dashboard openen onder **Analyse** in de linkernav.
+Heb toegang tot elk dashboard onder **Analytics** in linkernav.
 
 ![](assets/analytics-1.png)
 
@@ -54,14 +54,22 @@ Dialoogvensters weergeven, Gestromen van gesprekken of alles. Selecteer een voor
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Voltooid</b></td>
-    <td>Een voltooide gebeurtenis komt voor wanneer een bezoeker de laatste herinnering in een gesprek bereikt <i>of</i> wanneer een bezoeker alle inhoud in een gesprek uitpakt.
-    <br>Eén voltooide gebeurtenis per bezoeker, per sessie.</td>
+    <td style="width:30%"><b>Voltooid</b></td>
+    <td>Een voltooide gebeurtenis komt voor wanneer een bezoeker de laatste herinnering in een gesprek <i> bereikt of </i> wanneer een bezoeker al inhoud in een gesprek uitput.
+    <br> Één voltooide gebeurtenis per bezoeker, per zitting.</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Opgehaalde personen</b></td>
+    <td style="width:30%"><b>Opgehaalde personen</b></td>
     <td>Vindt plaats wanneer een bezoeker zijn e-mailadres verzendt.
-    <br>Eén aanschaf per bezoeker, per sessie.</td>
+    <br> Één aanwinst per bezoeker, per zitting.</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Betrokkenheid</b></td>
+    <td>Aantal gebruikers reageerde (eerste invoer door gebruiker)/aantal triggers (chatbot weergegeven).</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Conversiesnelheid</b></td>
+    <td>Door gebruiker opgehaald (nieuwe e-mailberichten vastgelegd)/gebruiker ingeschakeld.</td>
   </tr>
 </tbody>
 </table>
