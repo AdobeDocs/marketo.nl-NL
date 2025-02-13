@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Geparametereerde fragmenten
 description: Leer hoe u fragmenten kunt aanpassen door sommige van de velden bewerkbaar te maken.
 feature: Email Editor
@@ -8,9 +8,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Door geparametereerde fragmenten te gebruiken, kunt u uw inhoud efficiënt beher
 
 Fragmenten met zowel visuele als expressies kunnen worden gemarkeerd als aanpasbaar. Raadpleeg de onderstaande secties voor gedetailleerde instructies over hoe u met elk type fragment kunt doorgaan.
 
-SCREENSHOT
+SCREENSHOT - GIF?
 
 —HIER GESTOPT BEWERKEN—
 
@@ -45,17 +45,17 @@ Voer de volgende stappen uit om gedeelten van een visueel fragment bewerkbaar te
 
    In het onderstaande voorbeeld kunnen we de URL van de knop &quot;Klik hier&quot; bewerken.
 
-SCREENSHOT
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. Klik het **Overzicht** om alle editable gebieden en hun standaardwaarden te controleren.
 
    In dit voorbeeld wordt het veld URL van de knop weergegeven met de standaardwaarde die in de component is gedefinieerd. Deze waarde kan door gebruikers worden aangepast nadat ze het fragment aan hun inhoud hebben toegevoegd.
 
-SCREENSHOT
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. Sla de wijzigingen op als u klaar bent om het fragment bij te werken.
 
-1. Nadat u het fragment in een e-mail hebt toegevoegd, kunnen gebruikers alle bewerkbare velden aanpassen die in het fragment zijn geconfigureerd. [ Leer hoe te om editable gebieden in een visueel fragment aan te passen ](../email/use-visual-fragments.md#customize-fields)
+1. Nadat u het fragment in een e-mail hebt toegevoegd, kunnen gebruikers alle bewerkbare velden aanpassen die in het fragment zijn geconfigureerd.
 
 ## Bewerkbare velden toevoegen in HTML-componenten en expressiefragmenten {#expression}
 
@@ -75,6 +75,6 @@ De onderstaande elementen kunnen bewerkbare velden in een HTML-component worden:
 
 In de onderstaande code kan bijvoorbeeld elk rood gemarkeerd element een eigenschap worden:
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
