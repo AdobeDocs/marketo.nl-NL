@@ -4,32 +4,32 @@ description: Een e-mailscripttoken toevoegen aan uw e-mail - Marketo Docs - Prod
 title: Een e-mailscripttoken toevoegen aan uw e-mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Een e-mailscripttoken toevoegen aan uw e-mail {#add-an-email-script-token-to-your-email}
 
-Nadat u [uw e-mailscript gemaakt](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), wilt u deze toevoegen aan een e-mail om deze in actie te zien. Zo gaat het.
+Nadat u [ uw e-mailmanuscript ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) hebt gecreeerd, zult u het aan e-mail willen toevoegen om het in actie te zien. Zo gaat het.
 
 >[!NOTE]
 >
 >De totale grootte van alle scripttokens die in één e-mail worden ingevoegd, mag niet groter zijn dan 100 kB.
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar het **Op de markt brengende Activiteiten** gebied.
 
    ![](assets/one-2.png)
 
-1. Zoek en selecteer de e-mail waaraan u het token wilt toevoegen en klik op **Concept bewerken**.
+1. Vind en selecteer e-mail u het teken aan wilt toevoegen en **klikken geef Ontwerp** uit.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >U kunt desgewenst ook het token toevoegen aan een e-mailsjabloon.
+   >U kunt desgewenst ook de token aan een e-mailsjabloon toevoegen.
 
 1. Dubbelklik op het bewerkbare gebied waaraan u het token wilt toevoegen.
 
@@ -39,20 +39,16 @@ Nadat u [uw e-mailscript gemaakt](/help/marketo/product-docs/email-marketing/gen
 
    ![](assets/four-2.png)
 
-1. Zoek en selecteer de e-mailscripttoken die u eerder hebt gemaakt en klik op **Invoegen**.
+1. Zoek en selecteer het e-mailmanuscriptteken u eerder creeerde en klik **Tussenvoegsel**.
 
    ![](assets/five-1.png)
 
-   >[!TIP]
-   >
-   >Voeg desgewenst een standaardwaarde toe.
-
-1. Klikken **Opslaan**.
+1. Klik **sparen**.
 
    ![](assets/six.png)
 
 >[!NOTE]
 >
->Vergeet niet om [e-mail goedkeuren](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Vergeet niet [ goed te keuren e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 Dat is het! Wanneer deze e-mail wordt verzonden, wordt het script achter het token uitgevoerd en wordt de inhoud gevuld.
