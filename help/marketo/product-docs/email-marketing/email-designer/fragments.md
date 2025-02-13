@@ -1,12 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 title: Fragmenten
-description: Leer hoe u visuele inhoudsfragmenten maakt/gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
-hide: true
-hidefromtoc: true
+description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
+level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
+source-git-commit: a8e8640a8fe69bd0ae40329a915fe89a3a90854d
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1837'
 ht-degree: 0%
 
 ---
@@ -54,7 +55,7 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
 <tbody>
   <tr>
     <td width="25%"><b>Concept</b></td>
-    <td width="70%">Wanneer u een fragment maakt, bevindt het zich in de conceptstatus. Het blijft een concept totdat u het publiceert voor gebruik in een e-mail- of e-mailsjabloon.
+    <td width="75%">Wanneer u een fragment maakt, bevindt het zich in de conceptstatus. Het blijft een concept totdat u het publiceert voor gebruik in een e-mail- of e-mailsjabloon.
     <p>Beschikbare acties:
     <li>Alle details bewerken</li>
     <li>Bewerken in visuele ontwerper</li>
@@ -74,8 +75,8 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
     </td>
   </tr>
   <tr>
-    <td><b>Gepubliceerd met concept</b></td>
-    <td>Wanneer u een concept maakt op basis van een gepubliceerd fragment, blijft de gepubliceerde versie beschikbaar voor gebruik in een e-mail- of e-mailsjabloon en kan de conceptinhoud worden gewijzigd in de visuele ontwerper. Als u de ontwerp versie publiceert, vervangt het de huidige gepubliceerde versie en de inhoud wordt bijgewerkt in <i> alle </i> e-mails en e-mailmalplaatjes waar het in gebruik is. 
+    <td style="width:25%"><b>Gepubliceerd met concept</b></td>
+    <td style="width:75%">Wanneer u een concept maakt op basis van een gepubliceerd fragment, blijft de gepubliceerde versie beschikbaar voor gebruik in een e-mail- of e-mailsjabloon en kan de conceptinhoud worden gewijzigd in de visuele ontwerper. Als u de ontwerp versie publiceert, vervangt het de huidige gepubliceerde versie en de inhoud wordt bijgewerkt in <i> alle </i> e-mails en e-mailmalplaatjes waar het in gebruik is. 
     <p>Beschikbare acties:
     <li>Beschrijving bewerken</li>
     <li>Toevoegen aan een e-mail of sjabloon</li>
@@ -85,7 +86,8 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
     <li>Verwijderen (indien niet in gebruik)</li>
     </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Fragmenten maken {#create-fragments}
 
