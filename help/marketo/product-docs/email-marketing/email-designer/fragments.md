@@ -1,12 +1,12 @@
 ---
 title: Fragmenten
-description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
+description: Leer hoe u visuele inhoudsfragmenten maakt/gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
+source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
 workflow-type: tm+mt
-source-wordcount: '1837'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,8 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
 <table>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Concept</b></td>
-    <td>Wanneer u een fragment maakt, bevindt het zich in de conceptstatus. Het blijft een concept totdat u het publiceert voor gebruik in een e-mail- of e-mailsjabloon.
+    <td width="25%"><b>Concept</b></td>
+    <td width="70%">Wanneer u een fragment maakt, bevindt het zich in de conceptstatus. Het blijft een concept totdat u het publiceert voor gebruik in een e-mail- of e-mailsjabloon.
     <p>Beschikbare acties:
     <li>Alle details bewerken</li>
     <li>Bewerken in visuele ontwerper</li>
@@ -63,7 +63,7 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
     <li>Verwijderen</li>
   </td>
   <tr>
-    <td style="width:25%"><b>Gepubliceerd</b></td>
+    <td><b>Gepubliceerd</b></td>
     <td>Wanneer u een fragment publiceert, wordt dit beschikbaar voor gebruik in een e-mail- of e-mailsjabloon. Gepubliceerde fragmentinhoud kan niet worden gewijzigd in de visuele ontwerper.
     <p>Beschikbare acties:
     <li>Beschrijving bewerken</li>
@@ -74,7 +74,7 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
     </td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Gepubliceerd met concept</b></td>
+    <td><b>Gepubliceerd met concept</b></td>
     <td>Wanneer u een concept maakt op basis van een gepubliceerd fragment, blijft de gepubliceerde versie beschikbaar voor gebruik in een e-mail- of e-mailsjabloon en kan de conceptinhoud worden gewijzigd in de visuele ontwerper. Als u de ontwerp versie publiceert, vervangt het de huidige gepubliceerde versie en de inhoud wordt bijgewerkt in <i> alle </i> e-mails en e-mailmalplaatjes waar het in gebruik is. 
     <p>Beschikbare acties:
     <li>Beschrijving bewerken</li>
