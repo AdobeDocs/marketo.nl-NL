@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: d5e3438526ca2d5b18fb7d796f76443a8de6b18c
 workflow-type: tm+mt
-source-wordcount: '9418'
+source-wordcount: '9420'
 ht-degree: 0%
 
 ---
@@ -197,6 +197,7 @@ ht-degree: 0%
             + [Migreren naar Adobe-identiteit](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Marketo Engage-supportmigratie](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
+            + [Handleiding voor probleemoplossing](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Instellingen {#settings}
          + [Bulkexport-API-informatie](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campagne-controle](product-docs/administration/settings/campaign-inspector.md)
