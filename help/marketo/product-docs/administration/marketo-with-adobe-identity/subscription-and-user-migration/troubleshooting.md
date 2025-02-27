@@ -5,69 +5,77 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: e5c6ac7df0f8f6e7726de1ced598d390a6cf1deb
+source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # Adobe IMS-gids voor probleemoplossing {#adobe-ims-troubleshooting-guide}
 
-Tijdens het IMS-gebruikersmigratieproces wordt een Adobe-gebruiker gemaakt voor elke Marketo Engage-gebruiker die wordt gemigreerd. Soms, wordt het niet gecreeerd (om diverse redenen, met betrekking tot het verslag van de gebruiker in de Actieve Folder of kwesties met het e-mailadres). Als dit gebeurt, ziet de Marketo Engage-beheerder de redenen in het migratiestatus van de gebruiker op de zelfmigratieconsole. Hieronder ziet u hoe u verschillende problemen met het maken van Adobe-gebruikers kunt oplossen.
+Tijdens het IMS-gebruikersmigratieproces wordt een Adobe-gebruiker gemaakt voor elke Marketo Engage-gebruiker die wordt gemigreerd. Soms, wordt het niet gecreeerd (om diverse redenen, met betrekking tot het verslag van de gebruiker in de Actieve Folder of kwesties met het e-mailadres). Als dit gebeurt, ziet de Marketo Engage-beheerder de reden in het migratiestatus veld van de gebruiker op de zelfmigratieconsole.
 
 ## Foutberichten {#error-messages}
 
-* <a href="#not-in-directory"> niet in Folder </a>
-* <a href="#gmail-invalid-character"> Ongeldig Teken van Gmail </a>
-* <a href="#inactive-user"> Inactieve Gebruiker </a>
-* <a href="#not-in-domain"> niet in Domein </a>
-* <a href="#create-failure"> creeer Mislukking </a>
-* <a href="#type2e-user-failure"> Type2e de Mislukking van de Gebruiker </a>
+Gebruik de sectie &quot;Op deze pagina&quot; aan de rechterkant om rechtstreeks naar een specifieke fout te gaan en te leren hoe u deze kunt oplossen.
 
-<table>
-<thead>
-  <tr>
-    <th style="width:20%">Foutbericht</th>
-    <th style="width:40%">Hoofdoorzaak</th>
-    <th style="width:40%">Resoluties</th>
-  </tr>
-  </thead>
-<tbody>
-  <tr>
-    <td><i><a id="not-in-directory">Niet in directory</a></i></td>
-    <td>De gebruiker bestaat niet in Actieve Folder (AD). Voor organisaties met SSO's waarvoor ADD-synchronisatie is ingeschakeld, kan de gebruiker alleen worden gemaakt via Identiteitsprovider (IdP). Daarom kon de gebruiker niet via Admin Console worden toegevoegd tijdens de gebruikersmigratie.</td>
-    <td>Migrate - de gebruiker moet aan de Actieve Folder met juiste toestemmingen worden toegevoegd. Marketo-beheerder kan de gebruikersmigratie voor deze gebruiker opnieuw uitvoeren vanuit de migratieconsole. 
-    <br> niet migreer - Marketo admin om de gebruiker in de Console van de Migratie over te slaan. De knop "Migratie voltooid" wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de koppeling om het gebruikersmigratieproces te voltooien.</td>
-  </tr>
-  <tr>
-    <td><i><a id="gmail-invalid-character">Ongeldig Gmail-teken</a></i></td>
-    <td>Per Adobe-beveiligingsbeleid '.' en het plusteken (+) zijn niet toegestaan in een e-mailadres van alleen het Gmail-domein  
-    <br> beide speciale karakters worden toegestaan in een niet-Gmail domein e-mailadres. </td>
-    <td>Migreren - Het e-mailadres moet in Marketo Engage worden bijgewerkt om te voldoen aan het beveiligingsbeleid van Adobe. Marketo-beheerder om de gebruikersmigratie voor deze gebruiker vanuit de migratieconsole opnieuw uit te voeren.<br> niet migreer - Marketo admin om de gebruiker in de Console van de Migratie over te slaan. De knop "Migratie voltooid" wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de koppeling om het gebruikersmigratieproces te voltooien.</td>
-  </tr>
-  <tr>
-    <td><i><a id="inactive-user">Inactieve gebruiker</a></i></td>
-    <td>AD Sync is ingeschakeld en het gefedereerde account van de gebruiker bestaat maar in de status inactief/uitgeschakeld.</td>
-    <td>Migreren - De status van de gebruiker en de juiste machtigingen moeten worden hersteld. Marketo-beheerder kan de gebruikersmigratie voor deze gebruiker opnieuw uitvoeren vanuit de migratieconsole.
-    <br> niet migreer - Marketo admin om de gebruiker in de Console van de Migratie over te slaan. De knop "Migratie voltooid" wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de koppeling om het gebruikersmigratieproces te voltooien.</td>
-  </tr>
-  <tr>
-    <td><i><a id="not-in-domain">Niet in domein</a></i></td>
-    <td>Domeinhandhaving is ingeschakeld in Admin Console, maar het domein van het e-mailadres voor de gebruiker is geen van de toegestane domeinen. 
-    <br> het handhavingsbeleid van het Domein wordt geplaatst op het folderniveau.</td>
-    <td>Migreren - Het e-mailadres moet in Marketo Engage worden bijgewerkt om te voldoen aan het beleid voor domeinhandhaving, anders kan de systeembeheerder <a href="https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories"> 
-    verplaats het domein naar een andere gehandicapte folder van de Handhaving van het Domein (DE) </a> of <a href="https://helpx.adobe.com/enterprise/using/set-up-identity.html"> creeer een nieuwe folder </a>, die niet onder HET beleid is. Marketo-beheerder om de gebruikersmigratie voor deze gebruiker vanuit de migratieconsole opnieuw uit te voeren. <br> niet migreer - Marketo admin om de gebruiker in de Console van de Migratie over te slaan. De knop "Migratie voltooid" wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de koppeling om het gebruikersmigratieproces te voltooien.</td>
-  </tr>
-  <tr>
-    <td><i><a id="create-failure">Fout bij maken</a></i></td>
-    <td>Verschillende redenen op de achtergrond.</td>
-    <td>Gelieve een steunzaak in te dienen.</td>
-  </tr>
-  <tr>
-    <td><i><a id="type2e-user-failure">Type2e-gebruikersfout</a></i></td>
-    <td>Verschillende redenen op de achtergrond.</td>
-    <td>Gelieve een steunzaak in te dienen.</td>
-  </tr>
-</tbody>
-</table>
+### Niet in directory {#not-in-directory}
+
+_de oorzaak van de Wortel_: De gebruiker bestaat niet in Actieve Folder (AD). Voor organisaties met een SSO waarvoor de AD-synchronisatie is ingeschakeld, kan de gebruiker alleen worden gemaakt via Identiteitsprovider (IdP). De gebruiker kan daarom niet via Admin Console worden toegevoegd tijdens de migratie naar gebruikers.
+
+_Resoluties_:
+
+Pre-migratie - Marketo Enage-beheerder slaat de gebruiker in de migratieconsole over. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+
+Post-migratie - De gebruiker moet aan de Actieve Folder met juiste toestemmingen worden toegevoegd. Marketo Engage-beheerder om de gebruikersmigratie voor deze gebruiker opnieuw uit te voeren vanuit de migratieconsole.
+
+### Ongeldig Gmail-teken {#gmail-invalid-character}
+
+_Oorzaak van de wortel_: Per het veiligheidsbeleid van Adobe, worden de karakters `.` en `+` niet toegestaan in een Gmail- e-mailadres. Beide tekens zijn alleen toegestaan in niet-Gmail-adressen.
+
+_Resoluties_:
+
+Pre-migratie - Marketo Enage-beheerder slaat de gebruiker in de migratieconsole over. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+
+Na de migratie - Het e-mailadres moet in Marketo Engage worden bijgewerkt om te voldoen aan het beveiligingsbeleid van Adobe. Marketo-beheerder kan de gebruikersmigratie voor deze gebruiker opnieuw uitvoeren vanuit de migratieconsole.
+
+### Inactieve gebruiker {#inactive-user}
+
+_de oorzaak van de wortel_: De Synchronisatie van de ADVERTENTIE wordt toegelaten, en de gefedereerde rekening van de gebruiker bestaat maar in inactief/gehandicapte status.
+
+_Resoluties_:
+
+Pre-migratie - Marketo Enage-beheerder slaat de gebruiker in de migratieconsole over. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+
+Na de migratie: de status van de gebruiker en de juiste machtigingen moeten worden hersteld. Marketo Engage-beheerder om de gebruikersmigratie voor deze gebruiker opnieuw uit te voeren vanuit de migratieconsole.
+
+### Niet in domein {#not-in-domain}
+
+_de oorzaak van de wortel_: De handhaving van het domein wordt toegelaten in Admin Console, maar het domein van het e-mailadres voor de gebruiker is geen één van de toegestane domeinen.
+
+_Resoluties_:
+
+Pre-migratie - Marketo Enage-beheerder slaat de gebruiker in de migratieconsole over. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+
+Na de migratie - Het e-mailadres moet in Marketo Engage worden bijgewerkt om te voldoen aan het beleid voor domeinhandhaving (DE). Alternatief, kan Admin van het Systeem of [ het domein ](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories) bewegen {target="_blank"} aan een andere gehandicapte folder van de Handhaving van het Domein (DE), of [ tot een nieuwe folder ](https://helpx.adobe.com/enterprise/using/set-up-identity.html) {target="_blank"} leiden die niet onder het beleid van DE WIJZE is. Marketo Engage-beheerder om de gebruikersmigratie voor deze gebruiker opnieuw uit te voeren vanuit de migratieconsole.
+
+### Fout bij maken {#create-failure}
+
+_de oorzaak van de wortel_: Deze fout kan door diverse redenen in het achterste eind worden veroorzaakt.
+
+_Resoluties_:
+
+Pre-migratie - gelieve een steungeval voor die [ voor te leggen nog niet gemigreerd ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"}.
+
+Na-migratie - gelieve een steungeval voor die [ reeds gemigreerd ](https://experienceleague.adobe.com/home?support-tab=home#support) voor te leggen {target="_blank"}.
+
+### Type2e-gebruikersfout {#type2e-user-failure}
+
+_de oorzaak van de wortel_: Deze fout kan door diverse redenen in het achterste eind worden veroorzaakt.
+
+_Resoluties_:
+
+Pre-migratie - gelieve een steungeval voor die [ voor te leggen nog niet gemigreerd ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"}.
+
+Na-migratie - gelieve een steungeval voor die [ reeds gemigreerd ](https://experienceleague.adobe.com/home?support-tab=home#support) voor te leggen {target="_blank"}.
