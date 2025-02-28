@@ -5,9 +5,9 @@ title: Fragmenten
 description: Leer hoe u visuele inhoudsfragmenten maakt en gebruikt als herbruikbare componenten voor e-mails en e-mailsjablonen.
 level: Beginner, Intermediate
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '1837'
+source-wordcount: '1839'
 ht-degree: 0%
 
 ---
@@ -299,3 +299,7 @@ Als een fragment aan een e-mailsjabloon of e-mailsjabloon wordt toegevoegd, kan 
 Wanneer u het fragment op de editorpagina selecteert, zijn deze acties beschikbaar bij de contexttoolbar en het eigenschappenpaneel op het recht.
 
 ![ pas acties op het geselecteerde fragment ](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"} toe
+
+>[!MORELIKETHIS]
+>
+>[ Aanpasbare fragmenten ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)

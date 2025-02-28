@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Post-migratie - De gebruiker moet aan de Actieve Folder met juiste toestemmingen
 
 ### Ongeldig Gmail-teken {#gmail-invalid-character}
 
-_Oorzaak van de wortel_: Per het veiligheidsbeleid van Adobe, worden de karakters `.` en `+` niet toegestaan in een Gmail- e-mailadres. Beide tekens zijn alleen toegestaan in niet-Gmail-adressen.
+_Oorzaak van de wortel_: Per het veiligheidsbeleid van Adobe, worden de karakters `.` en `+` niet toegestaan in een Gmail- e-mailadres. Beide tekens zijn toegestaan in e-mailadressen die geen Gmail zijn.
 
 _Resoluties_:
 

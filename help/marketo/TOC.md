@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: d5e3438526ca2d5b18fb7d796f76443a8de6b18c
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '9420'
 ht-degree: 0%
@@ -1069,7 +1069,7 @@ ht-degree: 0%
          + [Werken met AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Afbeeldingen bewerken met Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragmenten](product-docs/email-marketing/email-designer/fragments.md)
-         + [Geparametereerde fragmenten](product-docs/email-marketing/email-designer/parameterized-fragments.md)
+         + [Aanpasbare fragmenten](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [Inhoud vergrendelen](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI-assistent](product-docs/email-marketing/email-designer/ai-assistant.md)
       + E-mailprogramma&#39;s {#email-programs}
