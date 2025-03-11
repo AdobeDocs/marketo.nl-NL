@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: b7e378af0d606202f022848d2a099d5170061024
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,10 @@ sjablonen in de ontwerper, waardoor de behoefte aan externe webontwikkelaars afn
 **steunt de nieuwe e-mailontwerper de taal van AMP?**
 
 Op dit moment is AMP niet ondersteund.
+
+**Kan activa via API in de nieuwe e-mailontwerper worden uitgegeven?**
+
+Assets die wordt bewerkt via de API wordt momenteel niet ondersteund in de nieuwe e-mailontwerper.
 
 **de dynamische inhoud door attribuut is groot, maar werkt de dynamische inhoud door segment nog?**
 
