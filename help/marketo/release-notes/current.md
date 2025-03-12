@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
+source-git-commit: 7a583a482af64290d08644945e569612f4be8ab9
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '438'
 ht-degree: 3%
 
 ---
@@ -33,6 +33,16 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
     <tr> 
    <td><strong> E-mail Designer Beschikbaar in Alle Programma's </strong>: De nieuwe e-mail van Designer e-mail is nu toegankelijk over de Programma's van de Betrokkenheid, Standaard, en van de Gebeurtenis (met de enige uitzondering van Interactieve Webinar Programma's). Eerder waren deze alleen beschikbaar in e-mailprogramma's.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> eigenschappen GenAI in Interactieve Webinars </strong>: U kunt hoofdstukken evenals een samenvatting voor Op bestelling webinars nu produceren. Bewerk en exporteer een HTML-bestand met uw gegevens.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
@@ -70,7 +80,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    * Video delen
    * Sweepstake
 
-Vanaf dat moment konden gebruikers geen van deze sociale functies in Marketo Engage maken, klonen of insluiten. Bestaande sociale voorzieningen blijven werken tot 31 januari 2025. Op 1 februari 2025 zullen de sociale activa niet meer functioneren. Sociale functies die zijn ingesloten in bestemmingspagina&#39;s, moeten worden verwijderd. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
+Vanaf dat moment konden gebruikers geen van deze sociale functies in Marketo Engage maken, klonen of insluiten. Bestaande sociale voorzieningen blijven werken tot 31 januari 2025. Op 1 februari 2025 zijn sociale activa niet langer operationeel. Alle sociale functies die zijn ingesloten in bestemmingspagina&#39;s, moeten worden verwijderd. [ leer meer ](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977) {target="_blank"}
 
 * **Rest API &quot;access_token&quot;de Verdringing van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication) {target="_blank"}.
 
