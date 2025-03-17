@@ -4,9 +4,9 @@ description: Marketo Custom Objects - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objecten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Gebruik aangepaste objecten om metrische gegevens bij te houden die specifiek zi
 
 >[!AVAILABILITY]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 Gebruik aangepaste objecten als filters en triggers in slimme campagnes. Bijvoorbeeld:
 
-* **Filter**: Alleen e-mails sturen naar eigenaars van specifieke voertuigmerken
-* **Trigger**: Stuur een e-mail wanneer een aangepast object aan een persoon of bedrijf wordt toegevoegd.
+* **Filter**: Verzend e-mails slechts aan eigenaars van een specifiek merk van het voertuig
+* **Trekker**: verzend een e-mail wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd.
 
 U kunt aangepaste objecten instellen in een een-op-een-relatie of een veel-op-veel-relatie. Bijvoorbeeld:
 
-* **Een-op-veel**: Eén persoon heeft meerdere auto&#39;s
-* **Velen-aan-velen**: Meerdere studenten zijn ingeschreven voor meerdere cursussen in een cursuscatalogus
+* **één-aan-vele**: Één persoon bezit verscheidene auto&#39;s
+* **vele-aan-vele**: De veelvoudige studenten worden ingeschreven in veelvoudige cursussen van een cursuscatalogus
 
 Een één-op-vele structuur gebruikt één enkel verbindingsgebied om het douanevoorwerp met een persoon of een bedrijf te verbinden.
 
@@ -43,7 +43,7 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 ## Aangepaste Marketo-objecten openen {#accessing-marketo-custom-objects}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
@@ -69,23 +69,27 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 ## Aangepaste objecten weergeven die zijn gekoppeld aan een persoon {#view-custom-objects-associated-to-a-person}
 
-Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifieke gegevens van het douanevoorwerp uploadt, worden de douanevoorwerpen automatisch geassocieerd aan mensen in het gegevensbestand gebruikend het verbindingsgebied in het douanevoorwerp. U kunt informatie weergeven in het dialoogvenster [!UICONTROL Custom Objects] op de pagina met persoonlijke details.
+Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifieke gegevens van het douanevoorwerp uploadt, worden de douanevoorwerpen automatisch geassocieerd aan mensen in het gegevensbestand gebruikend het verbindingsgebied in het douanevoorwerp. U kunt informatie van het lusje [!UICONTROL Custom Objects] op de pagina van persoondetails bekijken.
 
-1. Ga naar **[!UICONTROL Database]**.
+1. Ga naar **[!UICONTROL Database]** .
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Open uw database en klik op de knop **[!UICONTROL People]** tab. Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
+1. Open de database en klik op de tab **[!UICONTROL People]** . Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Klik op de pagina met persoonlijke details op de knop **[!UICONTROL Custom Objects]** tab. Selecteer het object in de vervolgkeuzelijst.
+1. Klik op de pagina met persoonlijke details op de tab **[!UICONTROL Custom Objects]** . Selecteer het object in de vervolgkeuzelijst.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. Nu kunt u een lijst weergeven van alle aangepaste objecten van dat type die aan die persoon zijn gekoppeld.
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >In een persoonrecord kan op het tabblad Aangepast object maximaal 100 records worden weergegeven, gesorteerd op ID in aflopende volgorde.
 
 ## Aangepaste objecten gebruiken met bedrijven {#using-custom-objects-with-companies}
 
@@ -95,13 +99,13 @@ Als u veelvoudige mensen in Marketo hebt die verslagen in CRM of Marketo-slechts
 
 Aangepaste objecten kunnen alleen rechtstreeks aan één record worden gekoppeld. Dit betekent dat wanneer uw type van douaneobjecten door bedrijfgebied wordt verbonden, u zou moeten ervoor zorgen dat uw persoonverslagen aan een bedrijf of gebruikend contactomzetting in uw CRM worden geassocieerd, of gebruikend het externalCompanyId gebied, als u bedrijven beheert die REST APIs van Marketo gebruiken. Voor persoonrecords die niet expliciet aan bedrijfsrecords zijn gekoppeld, worden aangepaste objecten die met bedrijf zijn gekoppeld, willekeurig gekoppeld aan één record, zelfs als de waarde van het bedrijfsveld door veel personen wordt gedeeld.
 
-Zie [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie .
+Zie [ de Gegevens van de Objecten van de Douane van de Invoer ](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste Marketo-objecten maken](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
->* [Een aangepast object goedkeuren](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [Een aangepast Marketo-object bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Aangepaste Marketo-objectvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Aangepaste Marketo-objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
->* [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
+>* [ creeer de Douane Objecten van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [ keur een Voorwerp van de Douane ](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md) goed
+>* [ geef uit en schrap een Voorwerp van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [ geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit
+>* [ de Gegevens van de Objecten van de Invoer van de Douane ](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
