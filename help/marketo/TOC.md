@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
+source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
 workflow-type: tm+mt
-source-wordcount: '9425'
+source-wordcount: '9427'
 ht-degree: 0%
 
 ---
@@ -739,6 +739,7 @@ ht-degree: 0%
             + [Een interactief webinar promoten](product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md)
             + [Een interactief webinar wijzigen of verwijderen](product-docs/demand-generation/events/interactive-webinars/modify-or-delete-an-interactive-webinar.md)
             + [Webinars op aanvraag](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
+            + [GenAI-functies](product-docs/demand-generation/events/interactive-webinars/gen-ai.md)
             + [Workflows voor gebeurtenissen](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [Betrokkenheidsdashboard](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
             + [Interactieve webinars in Marketo Sales Insight](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
