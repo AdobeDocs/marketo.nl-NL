@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 827e5acdf901201c16a4265f35e9be0fc45cdf2f
+source-git-commit: c00d6bbe7b7c4589446a42bbd31087bf6d4e8ddf
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,4 +90,4 @@ Nadat u de gewenste inhoud hebt gekopieerd, plakt u deze in de gewenste editor (
 
 * Als u het webinar verwijdert, wordt ook de GenAI-inhoud verwijderd.
 
-* Neem voor meer informatie of een aanvraag voor het verwijderen van gegevens contact op met het Adobe-accountteam (uw accountmanager) of stuur een e-mail naar: `marketo-webinar-genai-alerts@adobe.com` .
+* Als u de GenAI-inhoud wilt verwijderen zonder het webinar te verwijderen, neemt u contact op met het Adobe-accountteam (uw accountmanager) of stuurt u een aanvraag voor het verwijderen van gegevens naar: `marketo-webinar-genai-alerts@adobe.com` .
