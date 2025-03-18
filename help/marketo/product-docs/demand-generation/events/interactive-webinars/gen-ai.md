@@ -4,7 +4,7 @@ title: GenAI-functies
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 
 1. Klik **produceren**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. Er wordt een nieuw tabblad geopend met door AI gegenereerde hoofdstukken en een tekstoverzicht.
 
@@ -55,14 +55,14 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 
       * Als u meerdere hoofdstukken wilt samenvoegen, moet u twee voor één doen
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![ duimen omhoog pictogram ](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![ duimen neer pictogram ](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![ pictogram van de Vlag ](assets/icon-flag.png) te klikken.
 
-1. Sparen uw veranderingen door **te klikken sparen** knoop in top-left van het scherm.
+1. Sparen uw veranderingen door **te klikken sparen** knoop in het hoogste recht van het scherm.
 
 ## Gegenereerde inhoud gebruiken {#use-generated-content}
 
@@ -88,4 +88,4 @@ Nadat u de gewenste inhoud hebt gekopieerd, plakt u deze in de gewenste editor (
 
 * Als u het webinar verwijdert, wordt ook de GenAI-inhoud verwijderd.
 
-* Neem voor meer informatie of een verzoek om gegevens te verwijderen contact op met het Adobe-accountteam (uw accountmanager) of stuur een e-mail naar ons: `marketo-webinar-genai-alerts@adobe.com` .
+* Neem voor meer informatie of een aanvraag voor het verwijderen van gegevens contact op met het Adobe-accountteam (uw accountmanager) of stuur een e-mail naar: `marketo-webinar-genai-alerts@adobe.com` .
