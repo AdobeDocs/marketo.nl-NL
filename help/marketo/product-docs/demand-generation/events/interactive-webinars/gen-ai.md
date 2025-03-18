@@ -4,9 +4,10 @@ title: GenAI-functies
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: 827e5acdf901201c16a4265f35e9be0fc45cdf2f
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![ duimen omhoog pictogram ](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![ duimen neer pictogram ](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![ pictogram van de Vlag ](assets/icon-flag.png) te klikken.
+   >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![ duimen omhoog pictogram ](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![ duimen neer pictogram ](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![ pictogram van de Vlag ](assets/icon-flag.png) te klikken.
+   >
+   >* Als u niet met de aanvankelijke samenvatting wordt tevredengesteld, kunt u **klikken Regenerate samenvatting** knoop en een andere versie zal worden geproduceerd.
 
 1. Sparen uw veranderingen door **te klikken sparen** knoop in het hoogste recht van het scherm.
 
