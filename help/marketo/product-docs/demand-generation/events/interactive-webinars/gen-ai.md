@@ -4,7 +4,7 @@ title: GenAI-functies
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 
 1. Controleer de gegenereerde hoofdstukken en het overzicht.
 
-2. Als de veranderingen nodig zijn, klik **uitgeven** knoop.
+1. Als de veranderingen nodig zijn, klik **uitgeven** knoop.
 
    Wijzigingen aanbrengen:
 
