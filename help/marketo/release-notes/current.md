@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7a583a482af64290d08644945e569612f4be8ab9
+source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '446'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
     <tr> 
-   <td><strong> E-mail Designer Beschikbaar in Alle Programma's </strong>: De nieuwe e-mail van Designer e-mail is nu toegankelijk over de Programma's van de Betrokkenheid, Standaard, en van de Gebeurtenis (met de enige uitzondering van Interactieve Webinar Programma's). Eerder waren deze alleen beschikbaar in e-mailprogramma's.</td>
+   <td><strong> E-mail Designer Beschikbaar in Alle Programma's </strong>: De nieuwe e-mail van Designer e-mail is nu toegankelijk over de Programma's van de Betrokkenheid, Standaard, en van de Gebeurtenis (met de enige uitzondering van Interactieve Webinar Programma's). Eerder waren deze alleen beschikbaar in e-mailprogramma's. Met deze update wordt ook klonen beschikbaar.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
