@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: c5b05cf7d1131c9d98d89c12a4a8bd04d215886d
+source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ In dit artikel wordt voor gebruikers die zelfmigraties uitvoeren, elk foutberich
 
 >[!NOTE]
 >
->De map-/domeingerelateerde fouten kunnen worden geactiveerd door een andere org/Admin Console waar een directory trust is ingesteld of waar het domein is geclaimd.
+>De map-/domeingerelateerde fouten kunnen worden geactiveerd door een andere org/Admin Console waar een directory trust is ingesteld of het domein is geclaimd.
 
 ## Foutberichten {#error-messages}
 
@@ -69,8 +69,6 @@ _als de gebruiker moet worden gemigreerd_ (en de domeinhandhaving wordt toegelat
 _als de gebruiker moet worden gemigreerd_ (en de domeinhandhaving wordt toegelaten in een andere org) - een systeembeheerder van org waar het domein is geclaimd moet het e-mailadres van de gebruiker aan de uitzonderingslijst toevoegen. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
 _als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
-
-**de volgende foutenmeldingen allen hebben de zelfde worteloorzaak/resolutie...**
 
 ### Maken van gebruiker mislukt {#user-creation-failed}
 
