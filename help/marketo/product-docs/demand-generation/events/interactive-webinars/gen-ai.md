@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -82,7 +82,7 @@ Nadat u de gewenste inhoud hebt gekopieerd, plakt u deze in de gewenste editor (
 
 ## Notities {#things-to-note}
 
-* Het verwijderen of samenvoegen van hoofdstukken heeft alleen invloed op de hoofdstukstapel, niet op de video-inhoud zelf. Deze acties zijn onomkeerbaar
+* Het verwijderen of samenvoegen van hoofdstukken heeft alleen invloed op de hoofdstukstapel, niet op de video-inhoud zelf. Deze acties zijn permanent.
 
 * De GenAI-functies zijn flexibel en kunnen worden gebruikt met verschillende webpagina-editors, niet alleen met de editors in Marketo Engage.
 
