@@ -4,9 +4,9 @@ description: URL's gebruiken in Mijn tokens - Marketo Docs - Productdocumentatie
 title: URL's gebruiken in Mijn tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,31 @@ ht-degree: 0%
 
 Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te voegen in uw e-mails.
 
-1. Selecteer uw programma en klik op **Mijn tokens**.
+1. Selecteer uw programma en klik **Mijn Tokens**.
 
    ![](assets/one-4.png)
 
-1. Selecteer **Tekst** Mijn token, sleep het naar het canvas.
+1. Selecteer de **Tekst** Mijn Token van de Tekst, sleep en laat vallen het op het canvas.
 
    ![](assets/two-4.png)
 
-1. Geef het token een unieke naam, voer een URL in (zonder de map https://) en klik op **Opslaan**.
+1. Geef het teken een unieke naam, ga een URL (zonder https://) in en klik **sparen**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Om ervoor te zorgen dat klikken in uw e-mail worden bijgehouden, doet u **niet** Voer https:// in in de waarde van het token.
+   >**Gebruikend http/https...**
+   >
+   >* Om ervoor te zorgen klikken in uw e-mail worden gevolgd, ga **niet** https:// _binnen_ de waarde van het teken in. Gebruik het buiten het token, zoals getoond in Stap 7.
+   >
+   >* We raden u ten zeerste aan om de http/https niet weg te laten. Dit kon de [ Webversie ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} van uw e-mail veroorzaken om verkeerd terug te geven.
 
 1. Selecteer de e-mail in uw programma.
 
    ![](assets/four-3.png)
 
-1. Klikken **Concept bewerken**.
+1. Klik **uitgeven Ontwerp**.
 
    ![](assets/five-3.png)
 
@@ -43,15 +47,15 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/six-1.png)
 
-1. Typ overal in uw e-mail &quot;https://&quot; (zonder ruimte na te laten) en klik op het pictogram Token invoegen.
+1. Typ overal in uw e-mail `https://` (zonder ruimte na te laten) en klik op het pictogram Token invoegen.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >U kunt natuurlijk ook &quot;https&quot; invoeren als uw site dit gebruikt.
+   >U kunt natuurlijk ook `http://` invoeren als uw site geen https gebruikt.
 
-1. Zoek uw token, selecteer dit en klik op **Invoegen**.
+1. Bepaal de plaats van uw Mijn Token, selecteer het, en klik **Tussenvoegsel**.
 
    ![](assets/eight.png)
 
@@ -63,11 +67,11 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/ten.png)
 
-1. Druk op Ctrl/Cmd+V om de inhoud in de **URL** en klik op **Invoegen**.
+1. Druk CTRL/Cmd+V om de inhoud in **te kleven URL** doos en **Tussenvoegsel** te klikken.
 
    ![](assets/eleven.png)
 
-1. Klikken **Opslaan**.
+1. Klik **sparen**.
 
    ![](assets/twelve.png)
 
