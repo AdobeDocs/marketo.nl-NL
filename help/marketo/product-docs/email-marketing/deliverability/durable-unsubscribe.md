@@ -4,9 +4,9 @@ description: Duurzaam abonnement - Marketo Docs - Productdocumentatie
 title: Duurzaam abonnement opzeggen
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 35f5b33b01462b1cd00e29360daee465c7f18cf0
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo heeft het gedrag van de functie voor het afmelden van abonnementen verbeterd, zodat deze &#39;duurzaam&#39; is. We hebben een e-mailstatus van het stramien toegevoegd, die los staat van de markering voor afmelden die zichtbaar is in de record met persoonlijke gegevens.
 
-Als de markering voor afmelden is ingesteld op false (waar), wordt de status van de e-mailhoofdtelefoon bijgewerkt en wordt de wijziging doorgegeven aan andere personen met hetzelfde e-mailadres. Als een persoon wordt verwijderd en opnieuw gemaakt, of als een nieuw verslag met het zelfde e-mailadres wordt gecreeerd, zal de unsubscribe vlag **niet** worden overschreven.
+Als de markering voor afmelden is ingesteld op false (waar), wordt de status van de e-mailhoofdtelefoon bijgewerkt en wordt de wijziging doorgegeven aan andere personen met hetzelfde e-mailadres. Als een persoon wordt verwijderd en ontspannen, of als een nieuw verslag met het zelfde e-mailadres wordt gecreeerd, zal de unsubscribe vlag **niet** worden beschreven.
 
 >[!NOTE]
 >
@@ -25,15 +25,15 @@ Als de markering voor afmelden is ingesteld op false (waar), wordt de status van
 
 Er zijn verschillende manieren waarop iemand opnieuw kan worden geabonneerd.
 
-In Salesforce **duidelijk** het veld E-mail uitschakelen in de record van de lead/contactpersoon. Dit wordt gesynchroniseerd met Marketo.
+In Salesforce, **ontruim** het E-mailWeigeren gebied op het lood/het verslag van het contact. Dit wordt gesynchroniseerd met Marketo.
 
 ![](assets/one.png)
 
-In Marketo: **duidelijk** het niet-geabonneerde vak op het tabblad Info van de record van de persoon.
+In Marketo, **ontruimen** het unsubscribed vakje in het lusje van Info van het verslag van de persoon.
 
 ![](assets/two.png)
 
-Een **Gegevenswaarde wijzigen** stroomstap zoals hieronder weergegeven bij een of meer personen.
+Stel a **de stroomstap van de Waarde van Gegevens van de Verandering** zoals hieronder getoond op één of vele mensen in werking.
 
 ![](assets/three.png)
 
@@ -47,12 +47,10 @@ Wanneer een nieuwe persoon wordt gemaakt, controleert Marketo deze op de statust
 
 Als u het e-mailadres van een persoon wijzigt in een niet-geabonneerd e-mailadres, wordt het abonnement op die persoon opgezegd. Deze wijziging kan optreden in Marketo of Salesforce.
 
-Als u een niet-geabonneerd e-mailadres wijzigt in een e-mailadres waarop wordt geabonneerd, wordt deze persoon geabonneerd.
-
 ## Opnieuw abonneren {#re-subscribing}
 
 Net zoals een abonnement ertoe zou leiden dat alle mensen met hetzelfde e-mailadres niet meer worden geabonneerd, zou een abonnement elke persoon met hetzelfde e-mailadres opnieuw intekenen.
 
 >[!MORELIKETHIS]
 >
->[Abonnement begrijpen](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[ Begrijpend Unsubscribe ](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
