@@ -4,7 +4,7 @@ description: Duurzaam abonnement - Marketo Docs - Productdocumentatie
 title: Duurzaam abonnement opzeggen
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
+source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -25,15 +25,15 @@ Als de markering voor afmelden is ingesteld op false (waar), wordt de status van
 
 Er zijn verschillende manieren waarop iemand opnieuw kan worden geabonneerd.
 
-In Salesforce, **ontruim** het E-mailWeigeren gebied op het lood/het verslag van het contact. Dit wordt gesynchroniseerd met Marketo.
+Wis in Salesforce het veld E-mail uitschakelen in de record van de lead/contactpersoon. Dit wordt gesynchroniseerd met Marketo.
 
 ![ het scherm van Salesforce ](assets/durable-unsubscribe-1.png)
 
-In Marketo, **ontruimen** het unsubscribed vakje in het lusje van Info van het verslag van de persoon.
+Wis in Marketo het vak voor afmelden op het tabblad Info van de record van de persoon.
 
 ![ ontruimend unsubscribe doos in een persoonverslag ](assets/durable-unsubscribe-2.png)
 
-Stel a **de stroomstap van de Waarde van Gegevens van de Verandering** zoals hieronder getoond op één of vele mensen in werking.
+Stel a _de stroomstap van de Waarde van Gegevens van de Verandering_ zoals hieronder getoond op één of vele mensen in werking.
 
 ![ stap van de de gegevenswaarde van de Verandering ](assets/durable-unsubscribe-3.png)
 
