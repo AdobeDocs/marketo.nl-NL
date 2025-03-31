@@ -4,9 +4,9 @@ description: Duurzaam abonnement - Marketo Docs - Productdocumentatie
 title: Duurzaam abonnement opzeggen
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Er zijn verschillende manieren waarop iemand opnieuw kan worden geabonneerd.
 
 In Salesforce, **ontruim** het E-mailWeigeren gebied op het lood/het verslag van het contact. Dit wordt gesynchroniseerd met Marketo.
 
-![](assets/one.png)
+![ het scherm van Salesforce ](assets/durable-unsubscribe-1.png)
 
 In Marketo, **ontruimen** het unsubscribed vakje in het lusje van Info van het verslag van de persoon.
 
-![](assets/two.png)
+![ ontruimend unsubscribe doos in een persoonverslag ](assets/durable-unsubscribe-2.png)
 
 Stel a **de stroomstap van de Waarde van Gegevens van de Verandering** zoals hieronder getoond op één of vele mensen in werking.
 
-![](assets/three.png)
+![ stap van de de gegevenswaarde van de Verandering ](assets/durable-unsubscribe-3.png)
 
 Een bestaande persoon bijwerken via de SOAP API.
 
