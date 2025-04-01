@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 
 De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mailsjablonen en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele drag-and-drop editor en standaardsjablonen voor &#39;out-of-the-box&#39; te bieden. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
-
-E-mails die in de nieuwe ontwerper zijn gemaakt, kunnen worden gebruikt in e-mailprogramma&#39;s en in slimme lijsten/campagnes. De krachtige nieuwe verbeteringen aan de ontwerper komen binnenkort.
 
 ## Toegang krijgen {#how-to-access}
 
@@ -65,6 +63,10 @@ Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonn
 **zal de oude e-mailredacteur blijven functioneren? Zo ja, voor hoe lang?**
 
 Ja, de oude (klassieke) e-maileditor zal naast de nieuwe e-mailontwerper bestaan. E-mails die in de klassieke editor zijn gemaakt, blijven behouden. Er is geen datum waarop de klassieke redacteur op dit ogenblik zal worden afgekeurd, maar het zal door 2025 blijven functioneren.
+
+**Welke programma&#39;s kan ik de Nieuwe E-mailDesigner e-mail in gebruiken?**
+
+Nieuwe e-mailberichten van Designer via e-mail zijn toegankelijk voor alle programma&#39;s (met uitzondering van interactieve webinar-programma&#39;s). Klonen is ook beschikbaar.
 
 **zullen onze bestaande e-mailmalplaatjes in de nieuwe ontwerper werken? Als niet, moeten wij malplaatjes creëren gebruikend de nieuwe ontwerper zodat beantwoorden alle secties/modules aan hoe wij onze inhoud willen kijken?**
 

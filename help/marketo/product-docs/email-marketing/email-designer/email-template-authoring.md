@@ -3,9 +3,9 @@ description: E-mailsjablonen - Marketo Docs - Productdocumentatie
 title: E-mailsjablonen
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1824'
+source-wordcount: '1821'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjab
 
 >[!PREREQUISITES]
 >
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met 
 
 U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De inhoud kan zijn:
 
-* Een HTML-bestand met een opgenomen stijlblad
+* Een HTML-bestand met een ingebouwde stijlpagina
 
 * Een zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
 
@@ -70,15 +70,15 @@ U kunt bestaande HTML-inhoud importeren om uw e-mailsjablonen te ontwerpen. De i
 
 1. In het _Ontwerp uw malplaatje_ pagina, uitgezochte **HTML van de Invoer**.
 
-1. De belemmering en laat vallen het gewenste HTML of .zip dossier (of selecteert een dossier van uw computer) en klikt **de Invoer**.
+1. Sleep en laat vallen het gewenste HTML of .zip dossier (of selecteer een dossier van uw computer) en klik **de Invoer**.
 
    ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
-   >Wanneer de HTML-inhoud wordt geüpload, wordt de inhoud in de compatibiliteitsmodus uitgevoerd. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
+   >Wanneer de HTML-inhoud wordt geüpload, wordt de compatibiliteitsmodus gebruikt voor uw inhoud. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
 
-1. Om hefboomwerking te kunnen gebruiken de de inhoudscomponenten van Designer E-mail, klik de **converter van de HTML** tabel en klik **Omzetten**.
+1. Om de de inhoudscomponenten van Designer van de E-mail te kunnen hefboomwerking maken, klik de **converter van HTML** tabel en klik **Omzetten**.
 
    >[!CAUTION]
    >
@@ -164,7 +164,7 @@ Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTRO
 
 ### Elementen toevoegen {#add-assets}
 
-Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
+Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >
@@ -299,13 +299,13 @@ Van **Meer** opties in de inhoudsredacteur, kunt u de volgende acties nemen:
 
 * **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals die in [ wordt geschetst Ontwerp uw malplaatje ](#design-your-template) sectie.
 
-* **de Uitvoer HTML**: Download de inhoud in het visuele canvas aan uw lokaal systeem in HTML formaat dat als zip dossier wordt verpakt.
+* **de Uitvoer HTML**: Download de inhoud in het visuele canvas aan uw lokaal systeem in formaat HTML dat als zip dossier wordt verpakt.
 
 ## Sjabloondetails weergeven {#view-template-details}
 
 In de _E-mail malplaatjes_ het vermelden pagina, klik de naam van een e-mailmalplaatje om zijn details te bekijken.
 
-(assets/view-template-details-1.png
+![](assets/view-template-details-1.png)
 
 U kunt basisgegevens zoals naam en beschrijving bewerken. Klik buiten het veld dat u hebt bewerkt om de wijzigingen op te slaan.
 

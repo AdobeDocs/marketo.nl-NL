@@ -3,20 +3,20 @@ description: E-mailontwerp - Marketo Docs - Productdocumentatie
 title: E-mailontwerp
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1720'
+source-wordcount: '1723'
 ht-degree: 0%
 
 ---
 
 # E-mailontwerp {#email-authoring}
 
-Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe Marketo Engage-e-mailtoepassing Designer.
+Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe Marketo Engage Email Designer.
 
 >[!PREREQUISITES]
 >
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ## Een e-mail maken {#create-an-email}
 
@@ -100,7 +100,7 @@ Wanneer u helemaal niets begint in de e-maileditor, gebruikt u de onderstaande o
 
 U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan zijn:
 
-* Een HTML-bestand met een opgenomen stijlblad
+* Een HTML-bestand met een ingebouwde stijlpagina
 
 * Een zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
 
@@ -108,15 +108,15 @@ U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan
 >
 >Er gelden geen beperkingen voor de .zip-bestandsstructuur. Verwijzingen moeten echter relatief zijn en passen bij de boomstructuur van de ZIP-map.
 
-1. In het Ontwerp uw malplaatjepagina, uitgezochte **HTML van de Invoer**.
+1. In het Ontwerp uw malplaatjepagina, uitgezochte **Invoer HTML**.
 
-1. De belemmering en laat vallen het gewenste HTML of .zip dossier (of selecteert een dossier van uw computer) en klikt **de Invoer**.
+1. Sleep en laat vallen het gewenste HTML of .zip dossier (of selecteer een dossier van uw computer) en klik **de Invoer**.
 
    ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
->Wanneer de HTML-inhoud wordt geüpload, wordt de inhoud in de compatibiliteitsmodus uitgevoerd. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
+>Wanneer de HTML-inhoud wordt geüpload, wordt de compatibiliteitsmodus gebruikt voor uw inhoud. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
 
 U kunt gewenste veranderingen in de ingevoerde inhoud aanbrengen gebruikend de [ visuele e-mailredacteurshulpmiddelen ](#add-structure-and-content).
 
@@ -198,7 +198,7 @@ Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTRO
 
 ### Assets toevoegen {#add-assets}
 
-Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
+Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >
@@ -327,7 +327,7 @@ De waarschuwingen verwijzen naar aanbevelingen en beste praktijken zoals:
 >
 >Het toevoegen van een unsubscribe optie wordt niet vereist voor [ Operationele E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (niet-marketing).
 
-* **de versie van de Tekst van HTML is leeg**: U moet een tekstversie van uw e-maillichaam bepalen voor wanneer de inhoud van de HTML niet kan worden getoond.
+* **de versie van de Tekst van HTML is leeg**: U moet een tekstversie van uw e-maillichaam bepalen voor wanneer de inhoud van HTML niet kan worden getoond.
 
 * **Lege verbinding is aanwezig in e-maillichaam**: Verifieer alle verbindingen in uw e-mail correct zijn.
 
@@ -351,7 +351,7 @@ Om uw e-mailinhoud voor te vertonen, klik **inhoud** simuleren, dan voeg een tes
 
 ## Verwijzen naar een e-mail {#reference-an-email}
 
-Als u uw e-mail hebt gemaakt in een e-mailprogramma, kan deze alleen in dat programma worden gebruikt. Als u uw e-mail in de Studio van het Ontwerp creeerde, kan het van Slimme Campagnes en/of Slimme Lijsten worden van verwijzingen voorzien zoals u met een andere e-mail zou doen.
+E-mailberichten van Designer zijn toegankelijk via e-mail-, betrokkenheid-, standaard- en gebeurtenisprogramma&#39;s (met uitzondering van interactieve webinar-programma&#39;s). Als u uw e-mail in de Studio van het Ontwerp creeerde, kan het van Slimme Campagnes en/of Slimme Lijsten worden van verwijzingen voorzien zoals u met een andere e-mail zou doen.
 
 * Verwijzing het in een Slimme Lijst door [ na de gebruikelijke stappen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
