@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # GenAI-functies {#gen-ai-features}
 
 Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webinars, die hen toegankelijker en gemakkelijker maken om voor uw publiek te navigeren.
-
->[!PREREQUISITES]
->
->Voordat u deze functies kunt gebruiken, moet u eerst de Adobe GenAI-voorwaarden accepteren. Als u dit nog niet hebt gedaan, kunt u het Adobe-accountteam (uw accountmanager) raadplegen voor meer informatie.
 
 * **Automatische Generatie van het Hoofdstuk**: De AI-Gerichte technologie leidt hoofdstukken voor uw webinar inhoud.
 
@@ -28,15 +24,25 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 
 * **Gemakkelijke Integratie**: Voeg gemakkelijk hoofdstukken en samenvattingen aan uw het Bestaan Pagina&#39;s toe door de code van HTML aan de webpage redacteur van uw keus te kopiëren.
 
+## GenAI inschakelen {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>Voordat u deze functies kunt gebruiken, moet u eerst de Adobe GenAI-voorwaarden accepteren. Als u dit nog niet hebt gedaan, kunt u het Adobe-accountteam (uw accountmanager) raadplegen voor meer informatie.
+
+Nadat u de Adobe GenAI-voorwaarden hebt geaccepteerd, kunt u deze nu inschakelen voor individuele gebruikers. Ga hiervoor naar **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** en selecteer welke gebruikers toegang moeten hebben tot GenAI.
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## Toegang krijgen {#how-to-access}
 
 1. Navigeer naar de overzichtspagina van het webinar in Marketo Engage Interactive Webinars.
 
 1. Nadat u uw webinar op aanvraag hebt uitgevoerd, wacht u 30 tot 60 minuten tot de AI de opname heeft verwerkt. De Generate knoop zal klikbaar worden wanneer het beschikbaar is.
 
-1. Klik **produceren**.
+1. Klik op **[!UICONTROL Generate]**.
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. Er wordt een nieuw tabblad geopend met door AI gegenereerde hoofdstukken en een tekstoverzicht.
 
@@ -44,7 +50,7 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 
 1. Controleer de gegenereerde hoofdstukken en het overzicht.
 
-1. Als de veranderingen nodig zijn, klik **uitgeven** knoop.
+1. Klik op de knop **[!UICONTROL Edit]** als u wijzigingen wilt aanbrengen.
 
    Wijzigingen aanbrengen:
 
@@ -52,23 +58,23 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 
    * Pas indien nodig tijdstempels aan door de waarden in tijdstempelvelden te bewerken.
 
-   * Schrap ongewenste hoofdstukken door hen te selecteren en **te klikken schrapt**.
+   * Verwijder ongewenste hoofdstukken door deze te selecteren en op **[!UICONTROL Delete]** te klikken.
 
-   * Voeg twee opeenvolgende hoofdstukken samen door hen te selecteren en **te klikken samenvoegen**.
+   * U kunt twee opeenvolgende hoofdstukken samenvoegen door deze te selecteren en op **[!UICONTROL Merge]** te klikken.
 
       * AI genereert een samengesteld hoofdstuk dat bestaat uit de twee geselecteerde hoofdstukken
 
       * Als u meerdere hoofdstukken wilt samenvoegen, moet u twee voor één doen
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![ duimen omhoog pictogram ](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![ duimen neer pictogram ](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![ pictogram van de Vlag ](assets/icon-flag.png) te klikken.
    >
-   >* Als u niet met de aanvankelijke samenvatting wordt tevredengesteld, kunt u **klikken Regenerate samenvatting** knoop en een andere versie zal worden geproduceerd.
+   >* Als u niet tevreden bent met het eerste overzicht, kunt u op de knop **[!UICONTROL Regenerate summary]** klikken en wordt een andere versie gegenereerd.
 
-1. Sparen uw veranderingen door **te klikken sparen** knoop in het hoogste recht van het scherm.
+1. Sla de wijzigingen op door op de knop **[!UICONTROL Save]** rechtsboven in het scherm te klikken.
 
 ## Gegenereerde inhoud gebruiken {#use-generated-content}
 
@@ -76,13 +82,13 @@ Nadat u de gewenste inhoud hebt gekopieerd, plakt u deze in de gewenste editor (
 
 ### Samenvatting {#summary}
 
-**HTML van het Exemplaar** - klik de **knoop van HTML van het Exemplaar** om alle tekst te krijgen, volledig met code die van HTML het binnen van een lijst formatteren.
+**HTML van het Exemplaar** - klik de **[!UICONTROL Copy HTML]** knoop om alle tekst te krijgen, volledig met code die van HTML het binnen van een lijst formatteren.
 
 **Tekst slechts** - als u de tekst slechts wilt, benadruk het en selecteer Cmd+C (of klik met de rechtermuisknop) om te kopiëren.
 
 ### Hoofdstukken {#chapters}
 
-**HTML van het Exemplaar** - klik de **knoop van HTML van het Exemplaar** om alle opname en zijn hoofdstukken te krijgen die binnen van een videospeler worden geformatteerd.
+**HTML van het Exemplaar** - klik de **[!UICONTROL Copy HTML]** knoop om alle opname en zijn hoofdstukken te krijgen die binnen van een videospeler worden geformatteerd.
 
 ## Notities {#things-to-note}
 
