@@ -1,26 +1,24 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Vergelijking van functies voor e-mailontwerper en e-maileditor
-description: Gebruik deze tabel om de beschikbaarheid van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailontwerper te vergelijken.
+title: Vergelijking van Designer- en e-maileditorfuncties
+description: In deze tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailtoepassing Designer.
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
 
 ---
 
-# Vergelijking van functies voor e-mailontwerper/e-maileditor {#feature-comparison}
+# Vergelijking van Designer-/e-maileditorfuncties {#feature-comparison}
 
-Gebruik de onderstaande tabel om de beschikbaarheid van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailontwerper te vergelijken.
+In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -32,7 +30,7 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
 <tbody>
   <tr>
     <td>E-mailsjablonen voor OTB-startprogramma</td>
-    <td>Mogelijkheid om OOTB-sjablonen te gebruiken die worden geleverd door de e-mailontwerper.</td>
+    <td>Mogelijkheid om out-of-the-box sjablonen te gebruiken die door de e-mail Designer worden aangeboden.</td>
     <td>Beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -43,8 +41,8 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
     <td>Beschikbaar</td>
   </tr>
   <tr>
-    <td>Voorbeeld van e-mailsjablonen bekijken</td>
-    <td>Mogelijkheid om een voorbeeld van e-mailsjablonen te bekijken voordat u ze in een e-mail gebruikt.</td>
+    <td>E-mailsjablonen voorvertonen</td>
+    <td>U kunt e-mailsjablonen voorvertonen voordat u ze in een e-mail gebruikt.</td>
     <td>Beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -85,8 +83,8 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
     <td>Beschikbaar</td>
   </tr>
   <tr>
-    <td>Middelen van Design Studio</td>
-    <td>Mogelijkheid om toegang te krijgen tot uw Design Studio-afbeeldingen en -bestanden in de editor/ontwerper.</td>
+    <td>Design Studio Assets</td>
+    <td>Mogelijkheid om toegang te krijgen tot uw afbeeldingen en bestanden van Design Studio in de editor/ontwerper.</td>
     <td>Beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -98,7 +96,7 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
   </tr>
   <tr>
     <td>AI-assistent</td>
-    <td>Mogelijkheid om een onderwerpregel, een gedeelte van de inhoud of een volledige e-mail te genereren via Generative AI-modellen.</td>
+    <td>Mogelijkheid om onderwerpregel, deel van inhoud, of volledige e-mail door <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md"> Generatieve AI </a> modellen te produceren.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -110,7 +108,7 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
   </tr>
   <tr>
     <td>Inhoud vergrendelen</td>
-    <td>Mogelijkheid om inhoud in een e-mailsjabloon te vergrendelen, zodat deze niet kan worden gewijzigd bij het maken van e-mails.</td>
+    <td>Mogelijkheid om inhoud </a> in een e-mailmalplaatje te sluiten <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md"> zodat kan het niet worden gewijzigd wanneer het creëren van e-mails.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -134,7 +132,7 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
   </tr>
   <tr>
     <td>E-mail opslaan als sjabloon</td>
-    <td>Mogelijkheid om een e-mail op te slaan als een e-mailsjabloon.</td>
+    <td>Mogelijkheid om een e-mailbericht op te slaan als een e-mailsjabloon.</td>
     <td>Beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -164,7 +162,7 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
   </tr>
   <tr>
     <td>Integratie met Adobe Express</td>
-    <td>De mogelijkheid om afbeeldingen te maken/wijzigen met Adobe Express.</td>
+    <td>Mogelijkheid om beelden tot stand te brengen/te wijzigen gebruikend <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md"> Adobe Express </a>.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -178,7 +176,7 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
     <td>Modules</td>
     <td>Mogelijkheid om vooraf specifieke structuur- en inhoudsvoorinstellingen te maken die opnieuw kunnen worden gebruikt in e-mails.</td>
     <td>Beschikbaar</td>
-    <td>Beschikbaar als aanpasbaar fragment</td>
+    <td>Beschikbaar als <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md"> Aanpasbaar Fragment </a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service-integratie</td>
@@ -199,8 +197,8 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
     <td>Fragment slepen en neerzetten</td>
   </tr>
   <tr>
-    <td>Wereldwijde thema's</td>
-    <td>Mogelijkheid om goedgekeurde thema's in de hele organisatie toe te passen om consistentie in elementen zoals stijl, kleur, lettergrootte, enz. te garanderen.</td>
+    <td>Algemene thema's</td>
+    <td>Mogelijkheid om goedgekeurde thema's toe te passen binnen de hele organisatie om consistentie te garanderen in elementen zoals stijl, kleur, tekengrootte, enz.</td>
     <td>Niet beschikbaar</td>
     <td>Binnenkort beschikbaar</td>
   </tr>
@@ -223,13 +221,13 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
     <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
-    <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailitems</td>
-    <td>Mogelijkheid om e-mailprogramma's samen met e-mailactiva te verplaatsen, verwijderen en importeren.</td>
+    <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailmiddelen</td>
+    <td>Mogelijkheid om e-mailprogramma's samen met e-mailmiddelen te verplaatsen, te verwijderen en te importeren.</td>
     <td>Beschikbaar</td>
     <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
-    <td>Marketo Template Converter/Importeren</td>
+    <td>Marketo Template Converter/Import</td>
     <td>Mogelijkheid om bestaande Marketo-sjablonen te converteren naar de nieuwe e-mailtoepassing van Designer.</td>
     <td>Niet nodig</td>
     <td>Binnenkort beschikbaar</td>
@@ -241,6 +239,18 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
     <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
+    <td>Snelheidsscripts</td>
+    <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
+    <td>Beschikbaar</td>
+    <td>Niet nodig</td>
+  </tr>
+   <tr>
+    <td>Handlebar Scripting</td>
+    <td>Mogelijkheid om Handlebar-scripts te gebruiken in e-mails.</td>
+    <td>Niet beschikbaar</td>
+    <td>Gepland voor het derde kwartaal van 2015</td>
+  </tr>
+  <tr>
     <td>Litmus-integratie</td>
     <td>Mogelijkheid om met Litmus te integreren om te zien hoe uw e-mails worden weergegeven in verschillende e-mailclients.</td>
     <td>Niet beschikbaar</td>
@@ -248,19 +258,13 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
   </tr>
   <tr>
     <td>Brand Kit</td>
-    <td>Mogelijkheid om e-mails te verbeteren die de merkrichtlijnen weerspiegelen.</td>
-    <td>Niet beschikbaar</td>
-    <td>Gepland voor Q3 '25</td>
-  </tr>
-  <tr>
-    <td>Spam Assassin-integratie</td>
-    <td>Mogelijkheid om de mogelijkheid te detecteren dat e-mails vóór aflevering als spam worden gemarkeerd.</td>
+    <td>Mogelijkheid om e-mails te verbeteren overeenkomstig de richtlijnen voor merknamen.</td>
     <td>Niet beschikbaar</td>
     <td>Gepland voor het derde kwartaal van 2015</td>
   </tr>
   <tr>
-    <td>Handlebar Scripting</td>
-    <td>Mogelijkheid om Handlebar-scripts te gebruiken in e-mails.</td>
+    <td>Integratie van Spam Assassin</td>
+    <td>Mogelijkheid om potentiële e-mails te detecteren die vóór levering als spam zijn gemarkeerd.</td>
     <td>Niet beschikbaar</td>
     <td>Gepland voor het derde kwartaal van 2015</td>
   </tr>
@@ -289,21 +293,16 @@ Kijk op deze pagina (en ook op de [huidige release-opmerkingen](/help/marketo/re
     <td>TBD</td>
   </tr>
   <tr>
-    <td>Code Editor</td>
+    <td>Code-editor</td>
     <td>Mogelijkheid om de HTML-inhoud van e-mails, e-mailsjablonen en fragmenten te wijzigen.</td>
     <td>Beschikbaar</td>
     <td>TBD</td>
   </tr>
   <tr>
-    <td>Voorspellende inhoud</td>
+    <td>Voorspelende inhoud</td>
     <td>Mogelijkheid om inhoud van een kennisbasis binnen e-mail te voorspellen die op het doelpubliek wordt gebaseerd.</td>
     <td>Beschikbaar</td>
     <td>Niet beschikbaar</td>
   </tr>
-  <tr>
-    <td>Snelheidsscripts</td>
-    <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
-    <td>Beschikbaar</td>
-    <td>Niet nodig</td>
-  </tr>
 </tbody></table>
+
