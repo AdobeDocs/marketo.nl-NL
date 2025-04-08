@@ -4,9 +4,9 @@ title: SSL toevoegen aan uw bestemmingspagina's
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -41,8 +41,8 @@ SCREENSHOT
 
 SCREENSHOT
 
-Opmerking:
-
-In de kolom SSL-certificaat in de lijst wordt de SSL-certificaatstatus weergegeven voor alle domeinalias die is gemaakt nadat deze functie is uitgebracht. Als u SSL voor een domein door steun hebt toegelaten dan zal het respectieve SSL certificaat blijven bestaan maar deze lijst weerspiegelt slechts SSL certificaten voor domein dat gebruikend deze eigenschap wordt toegevoegd
-
-Het kan tot 3 minuten voor SSL duren om in LEZEN staat te zijn, en men moet de pagina voor veranderingen verfrissen om op UI te verspreiden.
+>[!NOTE]
+>
+>* In de kolom SSL-certificaat in de lijst wordt de certificaatstatus weergegeven voor alle domeinalias die is gemaakt nadat deze functie is uitgebracht (DATE). Als de SSL voor een domein via Marketo Support is ingeschakeld, blijft het certificaat bestaan, maar wordt het niet weergegeven in de tabel. In deze tabel worden alleen SSL-certificaten weergegeven voor domeinen die zijn toegevoegd met de stappen in dit artikel.
+>
+>* Het kan maximaal drie minuten duren voordat de status van SSL READY is ingeschakeld. De wijzigingen worden alleen weergegeven als u de pagina vernieuwt.

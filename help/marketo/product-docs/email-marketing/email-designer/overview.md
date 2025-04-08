@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -57,6 +57,8 @@ Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonn
 * [ Gebruik de Medewerker AI ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: De generatieve AI technologie van Adobe van de hefboomwerking om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
 
 * [ de inhoud van het Slot in e-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Leer hoe te om inhoud in e-mailmalplaatjes te sluiten, die helpen onopzettelijke uitgeeft of schrappingen verhinderen.
+
+* [ de vergelijking van de Eigenschap ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Vergelijk de beschikbaarheid van eigenschappen in de vorige e-mailredacteur (E-mailRedacteur 2.0) en nieuwe E-mailDesigner.
 
 ## Veelgestelde vragen {#faq}
 
