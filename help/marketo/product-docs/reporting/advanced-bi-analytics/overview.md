@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: a3c3b3d56282092a81b888bdd41969d2b7c3d0d6
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '1014'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 >[!PREREQUISITES]
 >
 >Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+
+>[!NOTE]
+>
+>Als u vragen hebt over deze functie terwijl deze in bèta staat (tot 1 juni 2025), stuurt u een e-mail naar: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com` .
 
 ## Belangrijkste kenmerken en voordelen {#key-features-and-benefits}
 
@@ -36,35 +40,35 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
 ## Een rapport maken {#create-a-report}
 
-1. In uw Mijn Marketo, klik de **Geavanceerde Analytics van BI (Beta)** tegel.
+1. Klik in Mijn Marketo op de tegel **[!UICONTROL Advanced BI Analytics (Beta)]** .
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
-1. In het **lusje van Rapporten**, klik **leiden Rapport**.
+1. Klik op het tabblad **[!UICONTROL Reports]** op **[!UICONTROL Create Report]** .
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 1. Selecteer de gewenste maatregelen.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 1. Selecteer de gewenste afmetingen.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 1. Kies uw gewenste visualisatie.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 1. Voeg filters toe door een dimensiekenmerk te slepen en neer te zetten.
 
-   SCREENSHOT
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
 
 ## Videodemo {#video}
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}{transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
@@ -184,7 +188,7 @@ _tijdens openbare bèta:_
 
   >[!IMPORTANT]
   >
-  >De replicatie van aangepaste rapporten zal in cohorten worden uitgevoerd. Zodra uw aangepaste rapporten aan de nieuwe ervaring worden herhaald, om consistentie tussen de twee ervaringen te verzekeren, zullen om het even welke veranderingen die in de klassieke ervaring worden aangebracht ook manueel op de overeenkomstige rapporten in de nieuwe ervaring moeten worden toegepast. Een informatieve nota over het bovenstaande zal in de klassieke ervaring op de replicatie van uw klantenrapporten oplichten.
+  >De replicatie van aangepaste rapporten zal in groepen worden uitgevoerd. Zodra uw aangepaste rapporten aan de nieuwe ervaring worden herhaald, om consistentie tussen de twee ervaringen te verzekeren, zullen om het even welke veranderingen die in de klassieke ervaring worden aangebracht ook manueel op de overeenkomstige rapporten in de nieuwe ervaring moeten worden toegepast. Een informatieve nota over het bovenstaande zal in de klassieke ervaring op de replicatie van uw klantenrapporten oplichten.
 
    * De dashboards in de klassieke ervaring zijn niet overdraagbaar en zullen in de nieuwe ervaring vereisen. Deze moeten opnieuw worden gemaakt als rapporten in de nieuwe ervaring en de filters in de nieuwe ervaring leiden automatisch tot mogelijke waarden in plaats van dat u alle mogelijke waarden handmatig moet invoeren in de klassieke ervaring.
 
@@ -200,7 +204,7 @@ _tijdens openbare bèta:_
 
 De nieuwe visualisatieervaring wordt geleverd via de ingesloten Power BI-service.
 
-Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [ visuals van het Gebruik in Power BI ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentatie.
+Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [ visuals van het Gebruik in Power BI ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} {target= &quot;_blank&quot;} documentatie. Mogelijk ziet u niet al deze functies in Marketo Engage.
 
 ### Opvallende ervaringswijzigingen {#notable-experience-changes}
 
@@ -223,8 +227,3 @@ Hieronder vindt u wijzigingen in de nieuwe ervaring (Advanced BI Analytics) uit 
 >[!NOTE]
 >
 >U kunt niet meer dan één gebied van de Groep van het Gebied van de Douane in een visueel voor ModelPrestatie Analyse (Leads) rapporterend gebied omvatten.
-
->[!MORELIKETHIS]
->
->[ Metriek en Dimensies ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
