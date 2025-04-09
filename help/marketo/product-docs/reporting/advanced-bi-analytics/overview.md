@@ -1,0 +1,230 @@
+---
+description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
+title: Advanced BI Analytics - overzicht
+hide: true
+hidefromtoc: true
+feature: Reporting
+exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
+source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+workflow-type: tm+mt
+source-wordcount: '969'
+ht-degree: 0%
+
+---
+
+# Advanced BI Analytics - overzicht {#advanced-bi-analytics-overview}
+
+Advanced BI Analytics (voorheen bekend als Revenue Explorer en Advanced Report Builder) biedt een flexibele rapportage- en visualisatie-interface voor Marketo Engage-gegevens, die gedetailleerde informatie biedt over progressie, prestaties en nog veel meer. Deze server biedt een rijkere interactiviteit en visualisatie, snellere prestaties en een naadloze en intuïtievere gebruikerservaring.
+
+Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken, optimalisatie te drijven, en meer dwingende gegevensverhalen met collega&#39;s en belanghebbenden te delen.
+
+>[!PREREQUISITES]
+>
+>Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+
+## Belangrijkste kenmerken en voordelen {#key-features-and-benefits}
+
+* **Krachtige Motor van de Vraag**: Levert 5x snellere prestaties op grote datasets, toelatend snellere gegevensverwerking, snellere rapportlading, en een vlottere analytische ervaring.
+
+* **Rich en het Inschakelen Visualisatie**: Vast, uitgebreide inzameling van ingebouwde visualisatieopties, met inbegrip van grafieken, kaarten, en KPI indicatoren, die dashboards begrijpelijker en impactful maken en beduidend gegevensverhaal verbeteren.
+
+* **Geavanceerde Interactiviteit en het Dynamische Filtreren**: Pas dynamische plakken, dwars-filtreren, en onderling afhankelijke filters over visuals toe. Rapporten met meerdere pagina&#39;s ondersteunen geavanceerde mogelijkheden voor het uitboren, doorboren en doorboren, zodat u probleemloos gegevens kunt verkennen.
+
+* **Intuïtieve Interface van de Authoring van het Rapport**: Een punt-en-klik ervaring vereenvoudigt rapportverwezenlijking, met inbegrip van multi-pagina boor-door rapporten. De interface stelt gebruikers in staat complexe, interactieve rapporten te ontwerpen zonder uitgebreide technische expertise te vereisen.
+
+* **Gemakkelijk delen, met inbegrip van de Uitvoer van PowerPoint**: De ingebouwde delende functionaliteit maakt het delen van inzichten zonder moeite. Gebruikers kunnen onder andere eenvoudig PowerPoint-dia&#39;s voor presentaties genereren.
+
+## Een rapport maken {#create-a-report}
+
+1. In uw Mijn Marketo, klik de **Geavanceerde Analytics van BI (Beta)** tegel.
+
+   SCREENSHOT
+
+1. In het **lusje van Rapporten**, klik **leiden Rapport**.
+
+   SCREENSHOT
+
+1. Selecteer de gewenste maatregelen.
+
+   SCREENSHOT
+
+1. Selecteer de gewenste afmetingen.
+
+   SCREENSHOT
+
+1. Kies uw gewenste visualisatie.
+
+   SCREENSHOT
+
+1. Voeg filters toe door een dimensiekenmerk te slepen en neer te zetten.
+
+   SCREENSHOT
+
+## Videodemo {#video}
+
+Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+
+## Standaardrapporten in Advanced BI Analytics {#standard-reports}
+
+De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten opgenomen.
+
+<table>
+  <thead>
+    <tr>
+      <th>Rapportgebied</th>
+      <th>Rapportnaam</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="8">E-mailanalyse</td>
+      <td>E-mail - Verzonden activiteit (in CST)</td>
+    </tr>
+    <tr>
+      <td>E-mail - Klik Activiteit (in CST)</td>
+    </tr>
+    <tr>
+      <td>E-mail - Open Activiteit (in CST)</td>
+    </tr>
+    <tr>
+      <td>E-mail - Geplikte Tijddistributie (in CST)</td>
+    </tr>
+    <tr>
+      <td>E-mail - Verval voor Open Rate</td>
+    </tr>
+    <tr>
+      <td>E-mail - Opened Time Distribution (in CST)</td>
+    </tr>
+    <tr>
+      <td>E-mail - Prestatiegegevens</td>
+    </tr>
+    <tr>
+      <td>E-mail - klik Verval van Tarief</td>
+    </tr>
+    <tr>
+      <td rowspan="8">Analyse van lead</td>
+      <td>De 10 belangrijkste bronnen op geconverteerde leads</td>
+    </tr>
+    <tr>
+      <td>Meest gebruikte 10 lead-bronnen</td>
+    </tr>
+    <tr>
+      <td>SLA Infractions Report</td>
+    </tr>
+    <tr>
+      <td>Rapport Leadveroudering</td>
+    </tr>
+    <tr>
+      <td>Balansrapport lead</td>
+    </tr>
+    <tr>
+      <td>Conversierapport voor lead</td>
+    </tr>
+    <tr>
+      <td>Rapport voor lead flow</td>
+    </tr>
+    <tr>
+      <td>Tijdrapport voor lead-overgang</td>
+    </tr>
+    <tr>
+      <td rowspan="5">Programmaanalyse</td>
+      <td>De tien belangrijkste programma's zijn geslaagd</td>
+    </tr>
+    <tr>
+      <td>Top 10 van programma's door totale pijpleiding</td>
+    </tr>
+    <tr>
+      <td>Verslag over de omzettingsfase van het programma</td>
+    </tr>
+    <tr>
+      <td>Meest gebruikte 10 overnameprogramma's</td>
+    </tr>
+    <tr>
+      <td>Trend voor investering in marketingkanaal</td>
+    </tr>
+    <tr>
+      <td rowspan="7">Opportuniteitsanalyse</td>
+      <td>Marketing impact op gesloten kansen</td>
+    </tr>
+    <tr>
+      <td>Invloed van marketing op Kansen Gesloten Won</td>
+    </tr>
+    <tr>
+      <td>Marketing Invloed op gemaakte kansen</td>
+    </tr>
+    <tr>
+      <td>(FT) Marketing Invloed op kansen</td>
+    </tr>
+    <tr>
+      <td>(MT) Invloed van de marketing op Kansen Gesloten Won</td>
+    </tr>
+    <tr>
+      <td>(MT) Marketing Invloed op kansen</td>
+    </tr>
+    <tr>
+      <td>(FT) Invloed op de markt voor kansen Gesloten Won</td>
+    </tr>
+    <tr>
+      <td>Opportunity lead-analyse</td>
+      <td>Top 10 van toonaangevende eigenaren door opportunity Won</td>
+    </tr>
+  </tbody>
+</table>
+
+## Notities {#note}
+
+De openbare bètaversie loopt door 1 juni 2025, waarna de klassieke ervaring via &quot;Revenue Explorer&quot; permanent wordt vervangen.
+
+_tijdens openbare bèta:_
+
+* U kunt rapporten in beide richtingen openen, maken, bijwerken en verwijderen.
+* Uw douanerapporten zullen van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen worden herhaald die in [ worden vermeld het Leren van de Nieuwe Ervaring ](#learning-the-new-experience) hieronder sectie.
+
+  >[!IMPORTANT]
+  >
+  >De replicatie van aangepaste rapporten zal in cohorten worden uitgevoerd. Zodra uw aangepaste rapporten aan de nieuwe ervaring worden herhaald, om consistentie tussen de twee ervaringen te verzekeren, zullen om het even welke veranderingen die in de klassieke ervaring worden aangebracht ook manueel op de overeenkomstige rapporten in de nieuwe ervaring moeten worden toegepast. Een informatieve nota over het bovenstaande zal in de klassieke ervaring op de replicatie van uw klantenrapporten oplichten.
+
+   * De dashboards in de klassieke ervaring zijn niet overdraagbaar en zullen in de nieuwe ervaring vereisen. Deze moeten opnieuw worden gemaakt als rapporten in de nieuwe ervaring en de filters in de nieuwe ervaring leiden automatisch tot mogelijke waarden in plaats van dat u alle mogelijke waarden handmatig moet invoeren in de klassieke ervaring.
+
+     >[!NOTE]
+     >
+     >Het dashboard in de nieuwe ervaring is eenvoudig een verzameling rapporten op één pagina. De primaire waarde van het dashboard in de nieuwe ervaring is dat u analytische inzichten kunt presenteren over verschillende rapporteringsgebieden.
+
+* Uw e-mailabonnementen in de klassieke ervaring worden naar de nieuwe ervaring gekopieerd. De e-mailabonnementen in de klassieke ervaring blijven functioneren tot de veroudering van de klassieke ervaring op 1 juni 2025.
+
+* De bestaande gebruikers van de Ontdekkingsreiziger van de Inkomsten hebben automatisch toegang tot de nieuwe Geavanceerde ervaring van de Analyse van BI (Beta).
+
+## De nieuwe ervaring leren {#learning-the-new-experience}
+
+De nieuwe visualisatieervaring wordt geleverd via de ingesloten Power BI-service.
+
+Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [ visuals van het Gebruik in Power BI ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentatie.
+
+### Opvallende ervaringswijzigingen {#notable-experience-changes}
+
+Hieronder vindt u wijzigingen in de nieuwe ervaring (Advanced BI Analytics) uit de klassieke ervaring (Revenue Explorer/Advanced Report Builder).
+
+* De datum-type filter werkt gelijkwaardig; nochtans, de syntaxis voor het specificeren van veranderde waarden. In uw bestaande douanerapporten, worden alle datum-type filterwaarden-behalve &quot;Dag van de Week&quot;automatisch omgezet in hun overeenkomstige equivalenten in de nieuwe ervaring. De ondersteuning voor de waarden voor &quot;Dag van de week&quot; is stopgezet.
+
+* Filters van het type tekenreeks zijn nu hoofdlettergevoelig.
+
+* Het veld Runtimeformule in de klassieke ervaring wordt niet meer ondersteund.
+
+* E-mailabonnement bevat de PDF-export in plaats van de HTML van het rapport. Het nieuwe e-mailabonnement bevat geen rapportdefinitie.
+
+* Diepe koppeling van rapport wordt momenteel niet ondersteund.
+
+* De mapervaring van rapporten is momenteel niet beschikbaar en is tijdelijk vervangen door een platte lijst met vooraf ingestelde zoekopdrachten. De naam van het gerepliceerde rapport bevat het mappad, bijvoorbeeld `/folder1/folder2/report` .
+
+* PDF exporteren is synchroon in de nieuwe ervaring, in vergelijking met asynchroon zijn in de klassieke ervaring.
+
+>[!NOTE]
+>
+>U kunt niet meer dan één gebied van de Groep van het Gebied van de Douane in een visueel voor ModelPrestatie Analyse (Leads) rapporterend gebied omvatten.
+
+>[!MORELIKETHIS]
+>
+>[ Metriek en Dimensies ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
+

@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2359644
-description: Aangepast HTML-formulier tonen voor bekende personen - Marketo Docs - Productdocumentatie
+description: Aangepast HTML-formulier voor bekende personen tonen - Marketo Docs - Productdocumentatie
 title: Aangepast HTML-formulier tonen voor bekende personen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Aangepast HTML-formulier tonen voor bekende personen {#show-custom-html-form-for-known-people}
 
-Als een bezoeker is gekookt (bekende persoon die in het verleden een e-mailadres heeft opgegeven), waarom zou u dan moeite doen met het formulier? Geef ze gewoon de downloadknop. Zo gaat het.
+Als een bezoeker in het verleden zijn volledige naam en e-mailadres heeft opgegeven en u niet wilt dat deze het hele formulier ophalen, leert u hoe u ze een aangepaste HTML kunt tonen (bijvoorbeeld alleen een downloadknop).
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Onder **Marketingactiviteiten** selecteert u het formulier en klikt u op **Formulier bewerken**.
+1. Onder **de Activiteiten van de Marketing**, selecteer uw vorm en klik **uitgeven Vorm**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Onder **Formulierinstellingen**, klikt u op **Instellingen**.
+1. Onder **Montages van de Vorm**, klik op **Montages**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Instellen indien **Bekende bezoeker, tonen**: tot **Aangepaste HTML**.
+1. Plaats als **Bekende Bezoeker, toon**: aan **Eigen HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klik op de knop ![—](assets/image2014-9-25-14-3a1-3a26.png) om de **Aangepaste HTML** dat zal aan de bekende mensen worden getoond .
+1. Klik ![ - ](assets/image2014-9-25-14-3a1-3a26.png) om de **Douane HTML** uit te geven die aan bekende mensen zal worden getoond.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,28 +45,28 @@ Als een bezoeker is gekookt (bekende persoon die in het verleden een e-mailadres
    |---|---|
    | `{{lead.FirstName}}` | Hierdoor wordt de voornaam van de persoon weergegeven. |
    | `{{lead.LastName}}` | Hierdoor wordt de achternaam van de persoon weergegeven. |
-   | `{{form.Button:default=Download}}` | Hiermee wordt de formulierknop weergegeven. Het gebied na de `=` om de knoptekst te wijzigen. |
-   | `{{form.NotYou:default=Not you?}}` | Dit zal een verbinding tonen voor het geval dat de persoon iemand anders is. Het gebied na de `=` om de koppelingstekst te wijzigen. |
+   | `{{form.Button:default=Download}}` | Hiermee wordt de formulierknop weergegeven. Vervang het gebied na `=` om de knoptekst te wijzigen. |
+   | `{{form.NotYou:default=Not you?}}` | Dit zal een verbinding tonen voor het geval de persoon anders is. Vervang het gebied na de `=` om de koppelingstekst te wijzigen. |
 
    >[!CAUTION]
    >
    >Alleen de vier bovenstaande tokens kunnen worden gebruikt. Een ander token werkt hier niet.
 
-1. Klikken **Voltooien**.
+1. Klik **Afwerking**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik **goedkeuren en sluiten**.
 
    >[!NOTE]
    >
-   >Het formulier moet zijn goedgekeurd voor gebruik op de aanlandingspagina&#39;s.
+   >Het formulier moet zijn goedgekeurd voor gebruik op de aanvoerpagina&#39;s.
 
    ![](assets/image2014-9-15-12-3a27-3a53.png)
 
    >[!NOTE]
    >
-   >Herinneren aan [goedkeuren, concept van bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden gemaakt door de formulierwijzigingen.
+   >Herinner me [ goedkeuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
 
    Stukje cake! Kijk wat een persoon zou zien als hij of zij terugkwam naar de zelfde vorm:
 
