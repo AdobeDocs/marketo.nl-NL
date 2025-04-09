@@ -4,16 +4,21 @@ title: SSL toevoegen aan uw bestemmingspagina's
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # SSL toevoegen aan uw bestemmingspagina&#39;s {#add-ssl-to-your-landing-pages}
 
-Leer hoe u de alias van uw merkdomein (bijvoorbeeld `http://business.adobe.com` ) toevoegt aan Landing Pages die in Marketo Engage zijn gemaakt, zodat deze kunnen worden geopend onder hun merkdomeinen.
+Met SSL-codering (Secure Socket Layer) kunt u al uw bestemmingspagina&#39;s voor een Marketo Engage-instantie beveiligen.
+
+Wanneer u een webformulier invult of een bestemmingspagina bezoekt die wordt gehost door Marketo Engage, wordt de informatie standaard verzonden via een niet-beveiligd protocol (HTTP). Volgens het beleid van uw bedrijf wilt u mogelijk de gegevens beveiligen die via HTTPS aan Marketo worden verzonden. Wanneer u bijvoorbeeld `http://info.mydomain.com/` bezoekt, wordt dit nu `https://info.mydomain.com/` .
+
+Marketo Engage houdt standaard &quot;Bezochte webpagina&quot; en &quot;Klik op Koppeling op webpagina&quot; bij via een niet-beveiligd HTTP-protocol. Als u de trackingkoppelingen wilt beveiligen met een eigen certificaat, moet u Marketo een aparte, niet-gedeelde server laten bouwen om deze in te schakelen. Om alle aspecten van de interactie van een contact met u te beveiligen betekent typisch het beveiligen van zowel het Landen Pagina&#39;s als het volgen van verbindingen.
 
 SCREENSHOT
 
@@ -37,7 +42,7 @@ Hiermee wordt automatisch een SSL-certificaat voor dit domein toegevoegd.
 
 SCREENSHOT
 
-## SSL inschakelen voor uw standaarddomein
+## SSL inschakelen voor uw standaarddomein {#enable-ssl-default-domain}
 
 SCREENSHOT
 
