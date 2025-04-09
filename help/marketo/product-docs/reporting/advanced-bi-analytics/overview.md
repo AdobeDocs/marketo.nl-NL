@@ -1,13 +1,11 @@
 ---
 description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
 title: Advanced BI Analytics - overzicht
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: a3c3b3d56282092a81b888bdd41969d2b7c3d0d6
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -42,33 +40,33 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
 1. Klik in Mijn Marketo op de tegel **[!UICONTROL Advanced BI Analytics (Beta)]** .
 
-   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
 1. Klik op het tabblad **[!UICONTROL Reports]** op **[!UICONTROL Create Report]** .
 
-   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Selecteer de gewenste maatregelen.
 
-   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
 1. Selecteer de gewenste afmetingen.
 
-   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
 1. Kies uw gewenste visualisatie.
 
-   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
 1. Voeg filters toe door een dimensiekenmerk te slepen en neer te zetten.
 
-   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}{width=&quot;800&quot; zoomable=&quot;yes&quot;}
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
 ## Videodemo {#video}
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}{transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
@@ -204,7 +202,7 @@ _tijdens openbare bèta:_
 
 De nieuwe visualisatieervaring wordt geleverd via de ingesloten Power BI-service.
 
-Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [ visuals van het Gebruik in Power BI ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} {target= &quot;_blank&quot;} documentatie. Mogelijk ziet u niet al deze functies in Marketo Engage.
+Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [ visuals van het Gebruik in Power BI ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentatie. Mogelijk ziet u niet al deze functies in Marketo Engage.
 
 ### Opvallende ervaringswijzigingen {#notable-experience-changes}
 
@@ -227,3 +225,7 @@ Hieronder vindt u wijzigingen in de nieuwe ervaring (Advanced BI Analytics) uit 
 >[!NOTE]
 >
 >U kunt niet meer dan één gebied van de Groep van het Gebied van de Douane in een visueel voor ModelPrestatie Analyse (Leads) rapporterend gebied omvatten.
+
+>[!MORELIKETHIS]
+>
+>[ Metriek en Dimensies ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
