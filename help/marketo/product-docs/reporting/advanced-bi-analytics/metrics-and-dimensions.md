@@ -3,7 +3,7 @@ description: Metriek en afmetingen - Marketo Docs - Productdocumentatie
 title: Metriek en afmetingen
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 90242f8b08b0c4773ae73134d67f571f66730878
 workflow-type: tm+mt
 source-wordcount: '1040'
 ht-degree: 3%
@@ -12,11 +12,11 @@ ht-degree: 3%
 
 # Metriek en afmetingen {#metrics-and-dimensions}
 
-Hieronder vindt u alle metriek en afmetingen die beschikbaar zijn voor het rapport van de analyse van de inkomstencyclusverkenner.
+Hieronder vindt u alle metriek en dimensies die beschikbaar zijn voor het analyserapport van de Ontdekkingsreiziger van de Inkomenscyclus.
 
 >[!TIP]
 >
->Als een van de tabellen te kras lijkt te zijn, kunt u de weergave uitbreiden door op de linker- (![](assets/icon-left-arrow.png)) en rechter (![](assets/icon-right-arrow.png) ) pijlen naar de bovenkant van deze pagina te klikken, waarbij de linker- en rechterzijbalk worden samengevouwen.
+>Als een van de tabellen te smal lijkt, kunt u de weergave uitbreiden door op de linker- (![](assets/icon-left-arrow.png)) en rechter (![](assets/icon-right-arrow.png) ) pijlen naar de bovenkant van deze pagina te klikken, waarbij de linker- en rechterzijbalk worden samengevouwen.
 
 ## Afmetingen en maatregelen {#dimensions-and-measures}
 
