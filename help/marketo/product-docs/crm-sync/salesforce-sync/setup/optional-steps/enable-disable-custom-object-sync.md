@@ -4,36 +4,36 @@ description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo 
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '199'
+ht-degree: 0%
 
 ---
 
 # Aangepaste objectsynchronisatie inschakelen/uitschakelen {#enable-disable-custom-object-sync}
 
-Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel uitmaken van het Marketo Engage. Hier is hoe u het kunt instellen.
+Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo Engage. Hier is hoe u het kunt instellen.
 
 ## Aangepaste objectsynchronisatie inschakelen/uitschakelen {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**vereiste toestemmingen Admin**
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Klik in het menu Database Management op **[!UICONTROL Salesforce Objects Sync]**.
+1. Klik in het menu Databasebeheer op **[!UICONTROL Salesforce Objects Sync]** .
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Als dit uw eerste aangepaste object is, klikt u op **[!UICONTROL Sync schema]**. Anders klikken **[!UICONTROL Refresh Schema]** om ervoor te zorgen dat u over de nieuwste informatie beschikt.
+1. Klik op **[!UICONTROL Sync schema]** als dit uw eerste aangepaste object is. Klik anders op **[!UICONTROL Refresh Schema]** om ervoor te zorgen dat u de meest recente versie hebt.
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
-1. Als de algemene synchronisatie wordt uitgevoerd, moet u deze uitschakelen door op **[!UICONTROL Disable Global Sync]**.
+1. Als de algemene synchronisatie wordt uitgevoerd, moet u deze uitschakelen door op **[!UICONTROL Disable Global Sync]** te klikken.
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -45,7 +45,7 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Selecteer het object dat u wilt synchroniseren en klik **[!UICONTROL Enable Sync]**.
+1. Selecteer het object dat u wilt synchroniseren en klik op **[!UICONTROL Enable Sync]** .
 
    >[!TIP]
    >
@@ -53,11 +53,11 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Klikken **[!UICONTROL Enable Sync]** opnieuw.
+1. Klik nogmaals op **[!UICONTROL Enable Sync]** .
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Ga terug naar de **[!DNL Salesforce]** en klik op **[!UICONTROL Enable Sync]**.
+1. Ga terug naar de tab **[!DNL Salesforce]** en klik op **[!UICONTROL Enable Sync]** .
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel
 >
 >U kunt geen aangepaste objecten gebruiken in slimme campagnes met triggers.
 
-1. Sleep in de slimme lijst over de **[!UICONTROL Has Opportunity]** filter en instellen op **[!UICONTROL true]**.
+1. Sleep in de slimme lijst over het filter **[!UICONTROL Has Opportunity]** en stel dit in op **[!UICONTROL true]** .
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -79,4 +79,4 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel
 
 >[!MORELIKETHIS]
 >
->[Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[ voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe

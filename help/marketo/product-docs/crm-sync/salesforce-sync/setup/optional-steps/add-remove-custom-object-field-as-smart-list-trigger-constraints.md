@@ -4,30 +4,30 @@ description: Aangepast objectveld toevoegen/verwijderen als slimme lijst/trigger
 title: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 2%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
 # Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engage biedt fijnkorrelige controle over de aangepaste objectsync Salesforce. Op deze manier kunt u de velden selecteren die beschikbaar zijn als beperkingen in aangepaste objectfilters en deze gebruiken als triggers in slimme campagnes.
+Marketo Engage biedt fijnkorrelige controle over het synchroniseren van aangepaste objecten in Salesforce. Op deze manier kunt u de velden selecteren die beschikbaar zijn als beperkingen in aangepaste objectfilters en deze gebruiken als triggers in slimme campagnes.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
-1. Klik op **[!UICONTROL Admin]** en vervolgens op **[!UICONTROL Salesforce Objects Sync]**.
+1. Klik op **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Salesforce Objects Sync]** in de linkerkolom.
+1. **[!UICONTROL Salesforce Objects Sync]** wordt in de linkerkolom weergegeven.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -39,15 +39,15 @@ Marketo Engage biedt fijnkorrelige controle over de aangepaste objectsync Salesf
 
    >[!TIP]
    >
-   >Als de **[!UICONTROL Edit Visible Fields]** is uitgeschakeld, wordt het object momenteel gebruikt in een slimme lijst of een slimme campagne. Verwijder alle koppelingen om door te gaan.
+   >Als de knop **[!UICONTROL Edit Visible Fields]** grijs wordt weergegeven, wordt het object momenteel gebruikt in een slimme lijst of een slimme campagne. Verwijder alle koppelingen om door te gaan.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Als de globale synchronisatie is ingeschakeld, klikt u op **[!UICONTROL Disable Global Sync]**.
+1. Klik op **[!UICONTROL Disable Global Sync]** als de globale synchronisatie is ingeschakeld.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
-1. Schakel de selectievakjes naast de benodigde filter-/triggerbeperkingen in en klik op **[!UICONTROL Save]**.
+1. Schakel de selectievakjes naast de benodigde filter-/triggerbeperkingen in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-12-10-13-3a10-3a47.png)
 
@@ -55,7 +55,7 @@ Marketo Engage biedt fijnkorrelige controle over de aangepaste objectsync Salesf
    >
    >Alle velden worden standaard geselecteerd als beperkingen op filters.
 
-1. Klik op de knop **[!UICONTROL Fields]** om uw wijzigingen te bevestigen.
+1. Klik op het tabblad **[!UICONTROL Fields]** om uw wijzigingen te bevestigen.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
@@ -67,4 +67,4 @@ Uw slimme lijsten en slimme campagnes hebben nu nog meer macht.
 
 >[!MORELIKETHIS]
 >
->[Aangepaste objectsynchronisatie inschakelen/uitschakelen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}
+>[ toelaten/onbruikbaar maken de Synchronisatie van de Objecten van de Douane ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}
