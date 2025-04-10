@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Landing Pages
 exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
-source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
+source-git-commit: c7bf6c7ffca16e95f13a7009897bce6fc39a9ffd
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -20,31 +20,39 @@ Wanneer u een webformulier invult of een bestemmingspagina bezoekt die wordt geh
 
 Marketo Engage houdt standaard &quot;Bezochte webpagina&quot; en &quot;Klik op Koppeling op webpagina&quot; bij via een niet-beveiligd HTTP-protocol. Als u de trackingkoppelingen wilt beveiligen met een eigen certificaat, moet u Marketo een aparte, niet-gedeelde server laten bouwen om deze in te schakelen. Om alle aspecten van de interactie van een contact met u te beveiligen betekent typisch het beveiligen van zowel het Landen Pagina&#39;s als het volgen van verbindingen.
 
-SCREENSHOT
-
 ## SSL-certificering inschakelen {#enable-ssl-certification}
 
 Voeg automatisch SSL toe voor alle domeinaliassen die u maakt als onderdeel van de regels voor de landingspagina.
 
 1. Ga naar het **Admin** gebied.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-1.png)
 
 1. Selecteer **het Bestaan Pagina&#39;s** van de boom. In het **lusje van Regels**, klik **Nieuwe** drop-down en selecteer **Nieuwe Alias van het Domein**.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-2.png)
 
-1. Selecteer **produceren SSL Certificaat** checkbox.
+1. Ga uw _Alias van het Domein_ en _StandaardPagina_ in. Selecteer **produceren SSL Certificaat** checkbox. Klik **creëren** wanneer gedaan.
 
-   SCREENSHOT
+   ![](assets/add-ssl-to-your-landing-pages-3.png)
 
 Hiermee wordt automatisch een SSL-certificaat voor dit domein toegevoegd.
 
-SCREENSHOT
-
 ## SSL inschakelen voor uw standaarddomein {#enable-ssl-default-domain}
 
-SCREENSHOT
+Voer de onderstaande stappen uit om SSL in te schakelen voor uw standaarddomein.
+
+1. Nog in de **Admin** sectie, uitgezochte **Landing Pagina&#39;s**. Klik de oranje **uitgeven** knoop naast _Montages_.
+
+   ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >U kunt desgewenst ook de domeinnaam hier wijzigen (een geldig domein is vereist).
+
+1. Schakel het selectievakje SSL-certificaat genereren in en klik op Opslaan.
+
+   ![](assets/add-ssl-to-your-landing-pages-5.png)
 
 >[!NOTE]
 >
