@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 3%
 
 ---
@@ -56,17 +56,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong> Tokens voor om het even welk Attribuut van de Trekker </strong>: Breidt de lijst van beschikbare trekkertekenen van enkel de lijst in <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank"> dit document </a> uit om het gebruiken van gegevens van om het even welk trekkend activiteitenattribuut op de gebieden van de campagnestroom te steunen. Gegevens van een activiteitskenmerk afdrukken naar een interessant moment of de meest recente transactie-id van een lead instellen van een aangepaste activiteit in een lead-veld.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
