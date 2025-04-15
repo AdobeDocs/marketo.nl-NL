@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -149,6 +149,12 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Beschikbaar</td>
   </tr>
   <tr>
+    <td>E-mailrapportage</td>
+    <td>Mogelijkheid om e-mails weer te geven in Marketo Engage Analytics.</td>
+    <td>Beschikbaar</td>
+    <td>Beschikbaar</td>
+  </tr>
+  <tr>
     <td>Gebruik van e-mails in campagnes en programma's</td>
     <td>Mogelijkheid om de nieuwe Designer-e-mails te gebruiken in campagnes en programma's.</td>
     <td>Beschikbaar</td>
@@ -277,12 +283,6 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
   <tr>
     <td>Experimentatie (A/B-test)</td>
     <td>Mogelijkheid om e-mailberichten te testen voordat ze naar uw publiek worden verzonden.</td>
-    <td>Beschikbaar</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>E-mailrapportage</td>
-    <td>Mogelijkheid om e-mails weer te geven in Marketo Engage Analytics.</td>
     <td>Beschikbaar</td>
     <td>TBD</td>
   </tr>
