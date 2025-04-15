@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
 <tbody>
   <tr>
     <td>E-mailsjablonen voor OTB-startprogramma</td>
-    <td>Mogelijkheid om out-of-the-box sjablonen te gebruiken die door de e-mail Designer worden aangeboden.</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank"> uit-van-de-doos malplaatjes </a> te gebruiken die door E-mail Designer worden verstrekt.</td>
     <td>Beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -72,7 +72,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
   </tr>
   <tr>
     <td>Afbeelding/bestand uploaden</td>
-    <td>De mogelijkheid om een afbeelding te uploaden vanaf uw lokale systeem.</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank"> een beeld </a> van uw lokaal systeem te uploaden.</td>
     <td>Beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -96,7 +96,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
   </tr>
   <tr>
     <td>AI-assistent</td>
-    <td>Mogelijkheid om onderwerpregel, deel van inhoud, of volledige e-mail door <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md"> Generatieve AI </a> modellen te produceren.</td>
+    <td>Mogelijkheid om onderwerpregel, deel van inhoud, of volledige e-mail door <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank"> Generatieve AI </a> modellen te produceren.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -108,7 +108,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
   </tr>
   <tr>
     <td>Inhoud vergrendelen</td>
-    <td>Mogelijkheid om inhoud </a> in een e-mailmalplaatje te sluiten <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md"> zodat kan het niet worden gewijzigd wanneer het creëren van e-mails.</td>
+    <td>Mogelijkheid om inhoud </a> in een e-mailmalplaatje te sluiten <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank"> zodat kan het niet worden gewijzigd wanneer het creëren van e-mails.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -138,7 +138,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
   </tr>
   <tr>
     <td>Inhoud opslaan als fragment</td>
-    <td>Mogelijkheid om een deel van de inhoud op te slaan als een fragment.</td>
+    <td>Mogelijkheid om een gedeelte van de <a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank"> inhoud als fragment </a> te bewaren.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -162,7 +162,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
   </tr>
   <tr>
     <td>Integratie met Adobe Express</td>
-    <td>Mogelijkheid om beelden tot stand te brengen/te wijzigen gebruikend <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md"> Adobe Express </a>.</td>
+    <td>Mogelijkheid om beelden tot stand te brengen/te wijzigen gebruikend <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank"> Adobe Express </a>.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
@@ -176,7 +176,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Modules</td>
     <td>Mogelijkheid om vooraf specifieke structuur- en inhoudsvoorinstellingen te maken die opnieuw kunnen worden gebruikt in e-mails.</td>
     <td>Beschikbaar</td>
-    <td>Beschikbaar als <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md"> Aanpasbaar Fragment </a></td>
+    <td>Beschikbaar als <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank"> Aanpasbaar Fragment </a></td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Service-integratie</td>
