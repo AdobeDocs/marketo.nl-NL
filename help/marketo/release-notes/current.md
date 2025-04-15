@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 618aeadcdc032b005514387eb0a0e5f61990ed5d
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 3%
 
 ---
@@ -53,8 +53,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
   <tr> 
    <td><strong> Globale en Workspace Mijn Tokens </strong>: Vorm mijn tokens zowel op de werkruimte als globaal niveau om verbeterde productiviteit en controle over merk en marketing onderpand over de werkruimten van Marketo Engage en zelfs volledige instanties toe te laten.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
   </tbody> 
 </table>
