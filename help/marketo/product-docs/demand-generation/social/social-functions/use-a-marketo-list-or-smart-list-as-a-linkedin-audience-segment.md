@@ -4,9 +4,9 @@ description: Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audien
 title: Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience-segment
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Integreer uw Marketo Engage-mensen met uw LinkedIn-publiek.
 >
 >[ voegt LinkedIn Gelijke Publiek als Dienst LaunchPoint ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"} toe
 
-1. Ga naar het **Gegevensbestand**.
+1. Ga naar de **[!UICONTROL Database]** .
 
    ![](assets/list-as-a-linkedin-audience-segment-1.png)
 
@@ -27,11 +27,11 @@ Integreer uw Marketo Engage-mensen met uw LinkedIn-publiek.
 
    ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
-1. Klik de **Mensen** tabel.
+1. Klik op de tab **[!UICONTROL People]** .
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Klik **verzenden via Ad Bridge** pictogram ![ - ](assets/image2015-4-20-18-3a18-3a41.png) bij de bodem van de lijst.
+1. Klik _verzenden via Ad Bridge_ pictogram ![ - ](assets/icon-ad-bridge.png) bij de bodem van de lijst.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -39,15 +39,15 @@ Integreer uw Marketo Engage-mensen met uw LinkedIn-publiek.
    >
    >Als u via add-netwerkintegratie een publiek naar LinkedIn stuurt, verzendt Marketo alleen het e-mailadres.
 
-1. Selecteer **LinkedIn** en klik **daarna**.
+1. Selecteer **[!UICONTROL LinkedIn]** en klik op **[!UICONTROL Next]** .
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
-1. Selecteer a **LinkedIn Audience**.
+1. Selecteer a _LinkedIn Audience_.
 
    >[!NOTE]
    >
-   >Als u op **+New Audience** klikt, wordt een publiek gemaakt in LinkedIn Campaign Manager.
+   >Als u op **[!UICONTROL +New Audience]** klikt, wordt een publiek gemaakt in LinkedIn Campaign Manager.
 
    ![](assets/list-as-a-linkedin-audience-segment-6.png)
 
@@ -55,7 +55,7 @@ Integreer uw Marketo Engage-mensen met uw LinkedIn-publiek.
    >
    >LinkedIn heeft de API&#39;s vervangen die in maart 2018 worden gebruikt voor het pushtype &quot;Clear publiek and add lead&quot;. Deze optie is niet meer beschikbaar vanaf de Marketo-versie Q1 2018.
 
-1. Selecteer het Type van de Druk van a ****. Klik **Update**.
+1. Selecteer een _[!UICONTROL Push Type]_. Klik op **[!UICONTROL Update]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
