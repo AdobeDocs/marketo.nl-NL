@@ -4,7 +4,7 @@ description: Een sociale knop toevoegen aan een vrije bestemmingspagina - Market
 title: Een sociale knop toevoegen aan een vrije bestemmingspagina
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -13,46 +13,46 @@ ht-degree: 0%
 
 # Een sociale knop toevoegen aan een vrije bestemmingspagina {#add-a-social-button-to-a-free-form-landing-page}
 
-Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het neer op vrije-vormbestemmingspagina&#39;s, Facebook, en uw website.
+Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het neer op openstaande bestemmingspagina&#39;s, Facebook en uw website.
 
 >[!AVAILABILITY]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-1. Navigeer naar de landingspagina van uw vrije vorm en klik **Concept bewerken**.
+1. Navigeer aan uw vrije-vorm het landen pagina en klik **geef Ontwerp** uit.
 
    ![](assets/scoring.jpg)
 
-1. Slepen over **Sociale knop** van de elementen aan de rechterkant.
+1. Sleep over **Sociale Knoop** van de elementen op het recht.
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Selecteren **Sociale knoppen (met analysemogelijkheden)**.
+1. Selecteer **Sociale Knopen (met Analytics)**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Als de landingspagina actief is, raadpleegt u de activiteit die wordt gegenereerd door de sociale knop (met Analytics) op het tabblad [Sociaal dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Zodra uw het landen pagina actief is, zie de activiteit die door uw _wordt geproduceerd sociale knoop (met Analytics) op het Sociale Dashboard_.
 
-   Als u in plaats daarvan een knop Soorten/Aanbevolen (Lite) toevoegt, raadpleegt u het aantal aandelen in het dialoogvenster [prestatierapport van bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Als u een Soortgelijke/Aanbevolen Knoop (Lite) in plaats daarvan toevoegt, zie het aantal aandelen in het [ landende rapport van de paginaprestaties ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Selecteren **Nieuw maken** in het keuzemenu.
+1. Selecteer **creeer Nieuw** van het drop-down menu.
 
    >[!NOTE]
    >
-   >U kunt ook een sociale knop in een programma maken door **Nieuw** > **Nieuw lokaal element**.
+   >U kunt een sociale knoop binnen een programma ook tot stand brengen door **Nieuw** te selecteren > **Nieuwe Lokale Activa**.
 
-1. Geef uw sociale knop een naam, selecteer **Geen** van **Klonen uit** en klik op **Invoegen**.
+1. Noem uw sociale knoop, uitgezochte **niets** van **Kloon van**, en klik **Tussenvoegsel**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >Als u tijd wilt besparen, kunt u de **Klonen uit** alle instellingen van een bestaande sociale knop te kopiëren.
+   >Om tijd te besparen, kunt u de **Kloon van** optie gebruiken om alle montages van een bestaande sociale knoop te kopiëren.
 
-   [de openingspagina naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [sociale knop op uw website plaatsen](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [ publiceer de het landen pagina aan Facebook ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _zet de sociale knoop op uw website_
 
-Gefeliciteerd.  U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren.
+Gefeliciteerd! U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren.
 
 >[!MORELIKETHIS]
 >
->U bent klaar, maar u kunt de montages van uw sociale knoop indien nodig veranderen. Beginnen met [aanpassen van de knopstijl](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) of  [delen van berichten bewerken](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) het presenteert .
+>U bent klaar, maar u kunt de montages van uw sociale knoop indien nodig veranderen. Begin met _het aanpassen van de knoopstijl_ of _het uitgeven van de aandeelberichten_ het voorstelt.

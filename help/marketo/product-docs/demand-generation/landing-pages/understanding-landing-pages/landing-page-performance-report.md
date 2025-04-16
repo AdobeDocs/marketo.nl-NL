@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359713
-description: Prestatierapport landingspagina - Marketo Docs - Productdocumentatie
+description: Prestatierapport voor landingspagina - Marketo Docs - Productdocumentatie
 title: Prestatierapport voor bestemmingspagina
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,30 +17,26 @@ Zie hoeveel mensen de formulieren op de bestemmingspagina&#39;s hebben ingevuld 
 
 >[!NOTE]
 >
->Als u een verschil in getallen ziet tussen het prestatierapport voor de slimme lijst en de bestemmingspagina, is dit waarschijnlijk omdat slimme lijsten alleen gegevens filteren op Personen, terwijl Prestatierapporten voor bestemmingspagina&#39;s sociaal zijn (Facebook, Google-advertenties, enz.) en anonieme activiteiten, naast de gegevens van People.
+>Als u een discrepantie in aantallen tussen uw Slimme Lijst en het Rapport van de Prestaties van de Landing van de Pagina ziet, is het waarschijnlijk omdat de Slimme Lijsten slechts gegevens op Mensen filtreren, terwijl de Rapporten van de Prestaties van de Openingspagina sociaal (Facebook, Google Advertentie, enz.) en anonieme activiteiten omvatten, naast de gegevens van Mensen.
 
-1. [Een rapport maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer de prestaties van de bestemmingspagina [rapporttype](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Plaats het tijdkader van uw rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad Rapport.
+1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het Landing het rapporttype van de Prestaties van de Pagina [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het lusje van het Rapport.
 1. Dat is het! Verken uw rapport om te beoordelen hoe goed uw bestemmingspagina&#39;s doen.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 
-   Van de kolommen in het prestatierapport van een landingspagina geven Omzettingen en Omzetting % het aantal keren weer dat iemand een formulier heeft ingevuld.
+   Van de kolommen in een prestatierapport van de landingspagina geven Omzettingen en Omzetting % aan hoeveel keer iemand een formulier heeft ingevuld.
 
    >[!TIP]
    >
-   >Pagina&#39;s met het hoogste conversiepercentage zoeken! [Uw rapport sorteren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in die kolom en kies Aflopend sorteren.
+   >Pagina&#39;s met het hoogste conversiepercentage zoeken! [ Soort uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op die kolom en kiest Aflopend Soort.
 
-   Het AB-pictogram in het rapport geeft aan dat de status het totaal is voor alle pagina&#39;s in het rapport [testgroep landingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md).
+   Het pictogram van AB in het rapport wijst op de staten zijn het totaal voor alle pagina&#39;s in dat [ de testgroep van de landingspagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md) is.
 
 1. Blader naar rechts om het aantal bezoeken te zien dat afkomstig is van verschillende sociale media-platforms.
 
    ![](assets/image2014-9-16-15-3a54-3a27.png)
 
->[!NOTE]
->
->Door de [sociale knop met analyse](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) is hier niet opgenomen. Voor deze statussen raadpleegt u de [Sociaal dashboard](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
-
 >[!MORELIKETHIS]
 >
->[Het prestatierapport van de bestemmingspagina filteren](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) door lokale of mondiale activa.
+>[ Filter uw het landen van de paginaprestaties rapport ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md) door lokale of globale activa.

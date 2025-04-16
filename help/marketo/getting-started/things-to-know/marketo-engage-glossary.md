@@ -1,19 +1,19 @@
 ---
 description: Verklarende woordenlijst voor Marketo Engage - Documentatie voor Marketo - Productdocumentatie
 short-description: Leer Marketo Engage-termen en hun definities zodat u snel aan de slag kunt.
-title: Marketo Engage-woordenlijst
+title: 'Marketo Engage-woordenlijst '
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '4098'
-ht-degree: 0%
+source-wordcount: '4065'
+ht-degree: 1%
 
 ---
 
 # Marketo Engage-woordenlijst  {#marketo-engage-glossary}
 
-Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo Engage. Om een termijn aan te vragen wordt toegevoegd, gelieve [ ons een e-mail ](mailto:GRP-Marketo-articlefeedback@adobe.com) te verzenden.
+Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo Engage. Om een termijn aan te vragen wordt toegevoegd, gelieve [ ons een e-mail ](mailto:GRP-Marketo-articlefeedback@adobe.com) te verzenden.
 
 ## A {#a}
 
@@ -25,7 +25,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
  <tbody> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B-tests</a></strong></td>
-   <td colspan="1">Hiermee kunt u onderdelen van uw e-mail wijzigen (bijvoorbeeld onderwerpregel, adres, enz.) en testcriteria instellen om te bepalen welke inhoudset het voordeligst is.</td> 
+   <td colspan="1">Hiermee kunt u onderdelen van uw e-mail (bijvoorbeeld een onderwerpregel, adres, enz.) wijzigen en testcriteria instellen om te bepalen welke inhoudsset duurder wordt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
@@ -184,7 +184,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
    <td colspan="1">(zie <strong><a href="#predictivecontent"> Predictieve Inhoud </a></strong>)</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Inhoud analyseren</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Content Analytics</strong></a></td> 
    <td colspan="1">Een gebied van <strong> Personalization van het Web </strong> dat ontdekte bestaande inhoud van uw website, evenals inhoudsprestaties toont.</td> 
   </tr> 
   <tr> 
@@ -197,7 +197,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Aangepast publiek</a></strong></td> 
-   <td colspan="1">Maak in Facebook een lijst met specifieke, bestaande personen (uit uw Marketo-database) die u rechtstreeks als doelgroep wilt gebruiken.</td> 
+   <td colspan="1">Maak op Facebook een lijst met specifieke, bestaande personen (uit uw Marketo-database) die u rechtstreeks als doelgroep wilt gebruiken.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">Aangepast veld</a></strong></td> 
@@ -265,10 +265,10 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domeingebaseerde Message Authentication, Reporting &amp; Compliance (DMARC)</strong></td> 
-   <td colspan="1">Een op DNS-Gebaseerd e-mailveiligheidsbeleid dat de verrichting en de interpretatie van <strong> SPF </strong> en <strong> DKIM </strong> normaliseert, toestaand brievenbusleveranciers om die post te bevestigen die om van een domein wordt beweerd om uit geldige bronnen voor dat domein afkomstig te zijn. Het staat verder afzenders toe om te specificeren hoe de post die bevestiging ontbreekt zou moeten worden behandeld.</td> 
+   <td colspan="1">Een op DNS-Gebaseerd e-mailveiligheidsbeleid dat de verrichting en de interpretatie van <strong> SPF </strong> en <strong> DKIM </strong> normaliseert, toestaand brievenbusleveranciers om die post te bevestigen die beweert om van een domein uit geldige bronnen voor dat domein afkomstig te zijn. Het staat verder afzenders toe om te specificeren hoe de post die bevestiging ontbreekt zou moeten worden behandeld.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow"> Sleutels van het Domein identificeerde Post </a> (DKIM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow"> Domain Keys Identified Mail </a> (DKIM)</strong></td> 
    <td colspan="1">Een mechanisme van de Authentificatie dat het verzendende domein beveiligt, toelatend afzenders om de domeinnaam in Van Adres met een specifiek e-mailbericht te associëren. Hierdoor kan de ontvanger weten dat de e-mail rechtmatig is verzonden door de eigenaar van het domein. Een afzender zal het e-mailbericht ondertekenen met een digitale handtekening in de berichtkoptekst. De ontvanger kan die handtekening decrypteren gebruikend een openbare sleutel die in DNS door de eigenaar van het domein wordt gepubliceerd om ervoor te zorgen de post wettig door de eigenaar van het domein werd verzonden.</td> 
   </tr> 
   <tr> 
@@ -285,7 +285,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Dynamische inhoud</a></strong></td> 
-   <td colspan="1">Inhoud (bijvoorbeeld afbeeldingen, fragmenten, tekst, enz.) dat in een <strong> e-mail </strong> of <strong> landende pagina </strong> bevolkt die op criteria wordt gebaseerd u specificeert, toestaand u om de ervaring voor de lezer te personaliseren. </td> 
+   <td colspan="1">Inhoud (b.v., beelden, fragmenten, tekst, enz.) die in een <strong> e-mail </strong> of <strong> landende pagina </strong> bevolkt die op criteria wordt gebaseerd u specificeert, toestaand u om de ervaring voor de lezer te personaliseren. </td> 
   </tr> 
  </tbody> 
 </table>
@@ -300,7 +300,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
  <tbody> 
   <tr> 
    <td colspan="1"><strong>E-mail</strong></td> 
-   <td colspan="1">In Marketo, één van de <strong> activa </strong> beschikbaar voor gebruik om met uw klanten te communiceren. E-mails kunnen HTML (afbeeldingen, aangepast lettertype, enz.) of Alleen tekst (normale tekstberichten zonder speciale opmaak) zijn. Alleen HTML-e-mails kunnen "opent" opnemen.</td> 
+   <td colspan="1">In Marketo, één van de <strong> activa </strong> beschikbaar voor gebruik om met uw klanten te communiceren. E-mails kunnen bestaan uit HTML (afbeeldingen, aangepast lettertype, enz.) of Alleen tekst (normale tekstberichten zonder speciale opmaak). Alleen e-mails van HTML kunnen 'opent' opnemen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>E-mail ongeldig</strong></td> 
@@ -429,7 +429,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Interessant moment</strong></a></td> 
-   <td><p>In <strong> het Inzicht van de Verkoop van Marketo </strong>, een voorkomen dat u om van bijzonder belang acht (bijvoorbeeld, wanneer iemand een specifieke pagina op uw plaats bezoekt, klikt een bepaalde verbinding in e-mail, enz.) dat je op de hoogte wilt zijn van je verkoopteam.</p></td> 
+   <td><p>In <strong> de Verkoop Insight van Marketo </strong>, een voorkomen dat u om van bijzonder belang (b.v., wanneer iemand een specifieke pagina op uw plaats bezoekt, klikt een bepaalde verbinding in e-mail, enz.) die u uw Team van de Verkoop wilt bewust zijn.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -527,7 +527,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
    <td>Een add-on, veelzijdig verkoophulpmiddel dat verkopers met vooruitzichten en spoorprestaties helpt in dienst te nemen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Marketo Verkoopoverzicht (MSI)</strong></td> 
+   <td colspan="1"><strong>Marketo Sales Insight (MSI)</strong></td> 
    <td colspan="1">Een toe:voegen-op eigenschap die marketers toestaat om hun verkopers met marketing inzicht van hun <strong> CRM </strong> te machtigen.</td> 
   </tr>
   <tr> 
@@ -578,7 +578,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
  <tbody> 
   <tr> 
    <td><strong>Openen</strong></td> 
-   <td><p>Een open registers wanneer de beelden in een <strong> e-mail </strong> worden gedownload. Zelfs als u geen afbeelding opneemt, voegt Marketo standaard één pixel achter elkaar in alle HTML-e-mails in. E-mails met alleen tekst kunnen geen geopende bestanden registreren.</p></td> 
+   <td><p>Een open registers wanneer de beelden in een <strong> e-mail </strong> worden gedownload. Zelfs als u geen afbeelding opneemt, voegt Marketo standaard één pixel achter elkaar in alle e-mails van HTML in. E-mails met alleen tekst kunnen geen geopende bestanden registreren.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">Operationele e-mail</a></strong></td> 
@@ -633,11 +633,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">In Marketo <strong> het Beheer van de Rekening van het Doel </strong>, zijn de karakters een ondergroep van een publiek, die voor specifieker het richten toestaan.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Pollen</strong></a></td> 
-   <td colspan="1">Een opiniepeiling in Marketo is net als een gewone opiniepeiling. Creeer een onderwerp voor mensen om op te stemmen en het te delen op uw Marketo <strong> landende pagina's </strong>, uw website, en/of sociale media.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 
@@ -849,7 +845,7 @@ Hieronder staan definities voor veel van de termen die u kunt tegenkomen bij het
  </tbody> 
 </table>
 
-## B {#w}
+## W {#w}
 
 <table> 
  <colgroup> 

@@ -1,63 +1,65 @@
 ---
 unique-page-id: 2950555
 description: Facebook Rich Post Settings bewerken - Marketo Docs - Productdocumentatie
-title: Facebook Rich Post-instellingen bewerken
+title: Instellingen Facebook Rich Post bewerken
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+hide: true
+hidefromtoc: true
 feature: Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Facebook Rich Post-instellingen bewerken {#edit-facebook-rich-post-settings}
+# Instellingen Facebook Rich Post bewerken {#edit-facebook-rich-post-settings}
 
 Pas advertenties aan wanneer mensen je delen op Facebook.
 
 >[!AVAILABILITY]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-Marketo [sociale apps](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) toestaan dat uw leads uw bestemmingspagina&#39;s delen met hun verbindingen op sociale netwerken zoals Facebook, Twitter, enz. Met facebook OpenGraph-tags (OG-tags) kunt u opgeven welke informatie van uw bestemmingspagina wordt opgenomen in Facebook-advertenties.
+Marketo _sociale apps_ staat uw lood toe om uw landende pagina&#39;s met hun verbindingen op sociale netwerken zoals Facebook, Twitter, enz. te delen. Met Facebook OpenGraph-tags (OG-tags) kunt u opgeven welke informatie van uw bestemmingspagina in Facebook-berichten wordt opgenomen.
 
 ## Opties voor rijke berichten selecteren {#select-rich-post-options}
 
-U kunt de typen pagina-informatie opgeven die moeten worden gebruikt in de opgemaakte Facebook-berichten die worden gegenereerd door shares van uw bestemmingspagina.
+U kunt de typen paginagegevens opgeven die u wilt gebruiken in de uitgebreide Facebook-berichten die worden gegenereerd door shares van uw bestemmingspagina.
 
-1. Selecteren **Facebook-bericht** in de redacteur voor uw **YouTube** video of sociale knop.
+1. Selecteer **het Bericht van Facebook** in de redacteur voor uw **YouTube** video of sociale knoop.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Selecteer een van de volgende opties voor je Facebook-bericht.
+1. Maak een keuze uit de volgende opties voor uw Facebook-bericht.
 
    * Statische inhoud toevoegen: selecteer deze optie om de titel, het bijschrift en de beschrijving handmatig in te voeren.
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Dynamische inhoud toevoegen: uw sociale toepassing kan de landingspagina&#39;s gebruiken `<TITLE>`, `<CAPTION>`, en `<DESCRIPTION>` tags om je rijke advertentie te vullen.
+   * Dynamische inhoud toevoegen: uw sociale app kan de tags `<TITLE>`, `<CAPTION>` en `<DESCRIPTION>` van uw bestemmingspagina gebruiken om uw rijke advertentie te vullen.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
    >[!NOTE]
    >
-   >Deze moeten al in de paginabron staan, maar voor meer controle kunt u specifieke Facebook OG-tags toevoegen aan uw bestemmingspagina.
+   >Deze zouden al in de paginabron moeten bestaan, maar voor meer controle, kunt u specifieke markeringen van Facebook OG aan uw landende pagina toevoegen.
 
-   * Voeg geen rijke inhoud toe: beperkt de Facebook-berichten van uw landingspagina tot alleen het hoofdbericht en de koppeling.
+   * Voeg geen rijke inhoud toe: beperkt de Facebook-berichten van uw openingspagina tot het hoofdbericht en de koppeling.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## Facebook OG-tags toevoegen aan een bestemmingspagina {#add-facebook-og-tags-to-a-landing-page}
 
-Als u de pagina-elementen wilt beheren die worden opgenomen in de Facebook-shares van uw bestemmingspagina, kunt u Facebook OG-tags (Open Graph) voor titel, bijschrift en beschrijving toevoegen aan uw bestemmingspagina.
+Als u de pagina-elementen wilt beheren die vanaf de bestemmingspagina in de Facebook-shares worden opgenomen, kunt u Facebook OG-tags (Open Graph) voor titel, bijschrift en beschrijving toevoegen aan uw bestemmingspagina.
 
-1. Open de openingspagina met uw **YouTube-video** of sociale knop.
+1. Open de het landen pagina die uw **video van YouTube** of sociale knoop bevat.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   De **Landingspagina Designer** wordt geopend in een nieuw venster.
+   **het Bestaan van de Pagina Designer** opent in een nieuw venster.
 
-1. Selecteren **Handelingen op bestemmingspagina** > **Metacodes van pagina bewerken**.
+1. Selecteer **het Bestaan van de Pagina Acties** > **uitgeven de Markeringen van Meta van de Pagina**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
@@ -73,4 +75,4 @@ Als u de pagina-elementen wilt beheren die worden opgenomen in de Facebook-share
 
 >[!NOTE]
 >
->Let op dat u de juiste syntaxis voor HTML gebruikt wanneer u de OG-tags toevoegt.
+>Let op dat u de juiste HTML-syntaxis gebruikt wanneer u de OG-tags toevoegt.

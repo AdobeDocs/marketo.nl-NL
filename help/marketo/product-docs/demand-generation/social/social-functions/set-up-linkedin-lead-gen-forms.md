@@ -1,96 +1,96 @@
 ---
 unique-page-id: 12976798
-description: LinkedIn-leadgen. Forms - Marketo Docs - Productdocumentatie instellen
-title: LinkedIn-leadgen. Forms instellen
+description: LinkedIn Gen Forms, leider, instellen - Marketo Docs - Productdocumentatie
+title: LinkedIn Gen Forms instellen
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# LinkedIn-leadgen. Forms instellen {#set-up-linkedin-lead-gen-forms}
+# LinkedIn Gen Forms instellen {#set-up-linkedin-lead-gen-forms}
 
-Gebruik LinkedIn Lead Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en leads te genereren voor Marketo.
+Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en leads voor Marketo te genereren.
 
 >[!IMPORTANT]
 >
->LinkedIn voert een upgrade uit van de marketing-API&#39;s die worden gebruikt door de integratie van Marketo Engage LinkedIn. Deze wijzigingen vereisen opnieuw verificatie van alle LinkedIn LaunchPoint-services in uw **Beheerder** > **LaunchPoint** tussen 7 juni en 15 december 2024 om onderbreking van de service te voorkomen. Zie voor meer informatie de [Veelgestelde vragen over migratie](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn voert een upgrade uit van de marketing-API&#39;s die door Marketo Engage LinkedIn-integratie worden gebruikt. Deze veranderingen zullen re-authentificatie van alle diensten LinkedIn LaunchPoint in uw **Admin** > **LaunchPoint** menu tussen 7 Juni en 15 December, 2024 vereisen, om de dienstonderbreking te vermijden. Voor meer informatie, gelieve te zien [ Veelgestelde vragen van de Migratie ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!NOTE]
 >
->Een lead van LinkedIn komt niet in Marketo Engage als deze overeenkomt met een bestaand persoonrecord in Marketo dat is gekoppeld aan een bedrijfsrecord dat is gemaakt met behulp van Company API&#39;s en het Marketo-abonnement geen verbinding heeft met een CRM.
+>Een LinkedIn lood zal niet in Marketo Engage komen als het een bestaand persoonverslag in Marketo aanpast dat met een bedrijfverslag verbonden is dat gebruikend Bedrijf APIs wordt gecreeerd, en het abonnement van Marketo wordt niet verbonden met een CRM.
 
-1. Ga naar Marketo **Beheerder**.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
-   ![](assets/image2016-11-29-10-3a50-3a29.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 
-1. Ga naar **LaunchPoint**, klikt u op **Nieuw** en selecteert u **Nieuwe service**.
+1. Ga naar **[!UICONTROL LaunchPoint]** , klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Service]** .
 
-   ![](assets/image2016-11-29-10-3a51-3a11.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. Voer een **Weergavenaam** voor uw dienst, selecteer **Gen.-linkedIn** van de drop-down dienst, en klik **Volgende**.
+1. Ga a _Naam van de Vertoning_ voor uw dienst in, selecteer de **[!UICONTROL LinkedIn Lead Gen]** dienst van drop-down, en klik **[!UICONTROL Next]**.
 
-   ![](assets/linkedin-lead-gen.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
-1. Marketo opent een nieuw tabblad in dezelfde browser voor [linkedin.com](https://www.linkedin.com). Meld u aan bij LinkedIn met het account dat u voor de integratie wilt gebruiken.
+1. Marketo opent een nieuw lusje in zelfde browser aan [ linkedin.com ](https://www.linkedin.com){target="_blank"}. Meld u aan bij LinkedIn met het account dat u voor de integratie wilt gebruiken.
 
    >[!NOTE]
    >
    >De LinkedIn-account heeft toegang nodig tot alle LinkedIn Business Accounts waarvoor u gesponsorde campagnes maakt.
 
-   ![](assets/linkedin-login.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-4.png)
 
-1. Ga terug naar Marketo nadat u zich hebt aangemeld bij LinkedIn en klik op **Autoriseren**.
+1. Nadat u zich hebt aangemeld bij LinkedIn, keert u terug naar Marketo en klikt u op **[!UICONTROL Authorize]** .
 
-   ![](assets/linkedin-lead-gen-authorize.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-5.png)
 
-1. Klik op **Toestaan** om de installatie van de Marketo-app in LinkedIn te accepteren.
+1. Klik wanneer u daarom wordt gevraagd op **[!UICONTROL Allow]** om de installatie van de Marketo-toepassing in LinkedIn te accepteren.
 
-   ![](assets/linkedin-marketo-allow.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-6.png)
 
-1. Je ziet dat je nu geautoriseerd bent. Klikken **Volgende**.
+1. Je ziet dat je nu geautoriseerd bent. Klik op **[!UICONTROL Next]**.
 
-   ![](assets/image2017-9-28-7-3a55-3a14.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-7.png)
 
    >[!CAUTION]
    >
-   >De dienst verloopt automatisch één jaar na vergunning. Om toegang te herstellen klikt u gewoon op **Opnieuw goedkeuren**. U moet mogelijk uw LinkedIn-wachtwoord opnieuw invoeren, afhankelijk van uw browserinstellingen.
+   >De dienst verloopt automatisch één jaar na vergunning. Klik op **[!UICONTROL Re-Authorize]** om de toegang te herstellen. U kunt uw wachtwoord LinkedIn, afhankelijk van uw browser montages moeten opnieuw ingaan.
 
-1. Selecteer de account(s) waarvan u wilt dat LinkedIn Lead Gen uit Marketo komt en klik op **Volgende**.
+1. Selecteer de account(s) waaruit LinkedIn lead Gen naar Marketo moet komen en klik op **[!UICONTROL Next]** .
 
    >[!TIP]
    >
-   >Als u de zakelijke accounts die u verwacht niet ziet, controleert u of voor de LinkedIn-account van de gebruiker die wordt geautoriseerd, leid-gen-formulierbeheermachtigingen zijn ingesteld voor de zakelijke account in LinkedIn.
+   >Als u niet de BedrijfsRekeningen ziet die u verwacht, zorg ervoor dat de rekening LinkedIn van de gebruiker die wordt gemachtigd Leider de Toestemmingen van de Manager van de Vorm aan de BedrijfsRekening in LinkedIn heeft.
 
-   ![](assets/linkedin-pages-to-capture.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. Als u standaard LinkedIn- naar Marketo-veldtoewijzingen wilt accepteren, klikt u gewoon op **Maken**. Als u de standaardveldtoewijzing wilt wijzigen, een veldtoewijzing wilt verwijderen of een nieuwe veldtoewijzing wilt toevoegen, kunt u dit per veld doen via de onderstaande modus.
+1. Als u standaardtoewijzingen van LinkedIn naar Marketo-velden wilt accepteren, klikt u gewoon op **[!UICONTROL Create]** . Als u de standaardveldtoewijzing wilt wijzigen, een veldtoewijzing wilt verwijderen of een nieuwe veldtoewijzing wilt toevoegen, kunt u dit per veld doen via de onderstaande modus.
 
    >[!CAUTION]
    >
-   >Marketo ondersteunt het toewijzen van twee LinkedIn-velden aan één Marketo-veld. **maar alleen wanneer** de twee LinkedIn-velden bevinden zich niet op hetzelfde formulier. Als u twee velden van hetzelfde LinkedIn-formulier toewijst aan één Marketo-veld, kunnen mensen uw Marketo-database niet invoeren.
+   >Marketo steunt afbeelding twee gebieden LinkedIn aan één enkel gebied van Marketo, _maar slechts wanneer_ de twee gebieden LinkedIn niet op de zelfde vorm zijn. Als u twee velden van hetzelfde LinkedIn-formulier toewijst aan één Marketo-veld, kunnen mensen uw Marketo-database niet invoeren.
 
-   ![](assets/linkedin-lead-gen-mapping.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-9.png)
 
    >[!NOTE]
    >
-   >Alleen LinkedIn-velden die al zijn opgeslagen naar een [formuliersjabloon](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager wordt weergegeven als LinkedIn-velden die kunnen worden toegewezen aan Marketo-velden.
+   >Slechts zullen de gebieden LinkedIn die reeds aan a [ vormmalplaatje ](https://www.linkedin.com/help/lms/answer/79634){target="_blank"} in Manager LinkedIn van de Campagne zijn bewaard verschijnen als Gebieden LinkedIn die aan de gebieden van Marketo kunnen worden in kaart gebracht.
 
-   ![](assets/linkedin-installed-services.png)
+   ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-Echt waar! Mensen die LinkedIn-leadgen-formulieren indienen zullen naar Marketo gaan vliegen terwijl u succesvolle campagnes voert aan de zijde van LinkedIn.
+Echt waar! Personen die LinkedIn Gen-formulieren indienen, gaan naar Marketo wanneer u succesvolle campagnes voert aan de LinkedIn-zijde.
 
 >[!NOTE]
 >
->U kunt slechts één LinkedIn-gebruikersaccount autoriseren. Als u meerdere zakelijke accounts hebt die u aan Marketo wilt koppelen, moet u ervoor zorgen dat de LinkedIn-account van de gebruiker die wordt geautoriseerd, leid-gen-formulierbeheermachtigingen heeft voor de Business Account in LinkedIn.
+>U kunt slechts één LinkedIn-gebruikersaccount autoriseren. Als u meerdere zakelijke accounts hebt die u aan Marketo wilt koppelen, moet u ervoor zorgen dat de LinkedIn-account van de gebruiker die wordt geautoriseerd, leid-Gen Form Manager-machtigingen heeft voor de Business Account in LinkedIn.
 
 >[!MORELIKETHIS]
 >
->[LinkedIn Lead Gen Form Filters and Triggers gebruiken in een slimme campagne](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+>[ Gebruik LinkedIn de Filters en de Trekkers van de Vorm van de Leider van de Leider in een Slimme Campagne ](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}
