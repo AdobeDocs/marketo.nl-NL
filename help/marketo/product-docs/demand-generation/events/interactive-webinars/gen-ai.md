@@ -3,9 +3,9 @@ description: GenAI-functies - Marketo Docs - Productdocumentatie
 title: GenAI-functies
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ Nadat u de gewenste inhoud hebt gekopieerd, plakt u deze in de gewenste editor (
 ### Hoofdstukken {#chapters}
 
 **HTML van het Exemplaar** - klik de **[!UICONTROL Copy HTML]** knoop om alle opname en zijn hoofdstukken te krijgen die binnen van een videospeler worden geformatteerd.
+
+## Uw doelgroep
+
+Gebruik filters en/of triggers voor slimme campagnes/lijsten om te zien wat elke viewer heeft bekeken, hoe vaak, enz., zodat u gepersonaliseerde follow-ups kunt maken.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **Triggers**: _klikt Verbinding op Web-pagina_, _Bezoekt Web-pagina_
+
+* **Filters**: _Geklikte Verbinding op Web-pagina_, _Bezochte Web-pagina_
+
+De &quot;verbinding&quot;is de naam van het hoofdstuk, en de &quot;Web-pagina&quot;is de pagina die uw Op bestelling webinar ontvangt.
+
+>[!TIP]
+>
+>Gebruik [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om uw doelpubliek verder te verfijnen.
 
 ## Notities {#things-to-note}
 
