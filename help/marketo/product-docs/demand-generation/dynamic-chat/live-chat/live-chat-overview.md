@@ -3,7 +3,7 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Met Live Chat kunnen websitebezoekers realtime chatgesprekken voeren met uw verk
 
 >[!NOTE]
 >
->Voor de gebruikers in het Dynamic Chat Select-pakket is live chat een proeffunctie met een levenslange limiet van 100 opdrachten. Wanneer deze limiet is bereikt, worden bezoekers die vragen te chatten met een live agent niet verbonden en ontvangen ze in plaats daarvan het algemene fallback-bericht. Neem contact op met uw accountvertegenwoordiger van de Adobe om de upgradeopties voor pakketten te bespreken.
+>Voor de gebruikers van het Dynamic Chat Select-pakket is live chat een proeffunctie met een levenslange limiet van 100 opdrachten. Wanneer deze limiet is bereikt, worden bezoekers die vragen te chatten met een live agent niet verbonden en ontvangen ze in plaats daarvan het algemene fallback-bericht. Neem contact op met uw Adobe-accountvertegenwoordiger om de upgradeopties voor pakketten te bespreken.
 
 ## Actieve chatagents toevoegen {#add-live-chat-agents}
 
@@ -26,7 +26,7 @@ Wanneer de bezoekers om met een agent door uw Dialoog verzoeken te babbelen, zul
 
 >[!NOTE]
 >
->De live agent avatar gebruikt het profielbeeld van het de rekeningsprofiel van de Adobe van de agent. Om het beeld bij te werken, volg [ deze stappen ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html) {target="_blank"}.
+>De live agent avatar gebruikt de profielafbeelding uit het Adobe-accountprofiel van de agent. Om het beeld bij te werken, volg [ deze stappen ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Live Chat-kaart gebruiken {#using-the-live-chat-card}
 
@@ -88,9 +88,9 @@ Live chat-agents worden vervolgens door de browser gevraagd om meldingen weer te
 
 Als de agenten browser geen berichten zelfs na het toestaan in browser krijgen, kunnen zij berichten voor browser in de OS berichtmontages moeten toelaten:
 
-[ Stappen voor Mac ](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac) {target="_blank"}
+[ Stappen voor Mac ](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[ Stappen voor Vensters ](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e) {target="_blank"}
+[ Stappen voor Vensters ](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 ### Wanneer een Levende Chat aan een Agent wordt verpletterd {#when-a-live-chat-is-routed-to-an-agent}
 
@@ -100,10 +100,10 @@ Wanneer een levende praatje aan een agent wordt verpletterd, zullen zij een blau
 
 >[!TIP]
 >
->U kunt ook browsermeldingen instellen, die u waarschuwen als u zich niet bij de Dynamic Chat hebt aangemeld.
+>U kunt ook browsermeldingen instellen. Hiermee wordt u gewaarschuwd voor het geval u niet bent aangemeld bij Dynamic Chat.
 >
->* Laat browser berichten in [ Google Chrome ](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop) toe {target="_blank"}
->* Laat browser berichten in [ Mozilla Firefox ](https://support.mozilla.org/en-US/kb/push-notifications-firefox) {target="_blank"} toe
+>* Laat browser berichten in [ Google Chrome ](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"} toe
+>* Laat browser berichten in [ Mozilla Firefox ](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"} toe
 
 ### Mislukte meldingen van handelingen {#failed-action-notifications}
 
@@ -113,7 +113,7 @@ Wanneer een handeling zoals het boeken van een vergadering of een live chat misl
 
 ### Notities {#things-to-note}
 
-* De agenten hebben 45 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden.&quot; Na dat, zullen de bezoekers het [ fallback bericht ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"} ontvangen. Voor de eerste abonnees van de Dynamic Chat die de verpletterende optie hebben die aan **wordt geplaatst Team**, zal één meer agent worden geprobeerd alvorens het reservebericht verschijnt.
+* De agenten hebben 100 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden. Na dat, zullen de bezoekers het [ fallback bericht ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"} ontvangen. Voor de abonnees van Dynamic Chat Prime die de verpletterende optie hebben die aan **wordt geplaatst Team**, zal één meer agent worden geprobeerd alvorens het reservebericht verschijnt.
 * Op dit moment geldt een limiet van 10 actieve chats per agent.
 
 >[!MORELIKETHIS]
