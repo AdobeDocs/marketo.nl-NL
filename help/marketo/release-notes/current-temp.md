@@ -4,9 +4,9 @@ title: Opmerkingen bij de huidige release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '429'
 ht-degree: 4%
 
 ---
@@ -43,17 +43,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> TITEL </strong>: Tekst.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong> TITEL </strong>: Tekst.</td> 
+   <td><strong> Veilige Zelfbediening van de Laag van de Contactdoos (SSL) </strong>: SSL de encryptie staat u toe om het Bestaan van Pagina's voor een instantie van Marketo Engage veilig te maken. Als u deze functie inschakelt, hebt u hulp nodig van het Adobe-ondersteuningsteam. Marketo-gebruikers kunnen deze nu zelfstandig inschakelen en kostbare tijd besparen.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
