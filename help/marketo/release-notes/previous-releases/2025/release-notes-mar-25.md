@@ -2,9 +2,10 @@
 description: Opmerkingen bij de release - maart 2025 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - maart 2025
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---
@@ -53,7 +54,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   <tr> 
    <td><strong> Globale en Workspace Mijn Tokens </strong>: Vorm mijn tokens zowel op de werkruimte als globaal niveau om verbeterde productiviteit en controle over merk en marketing onderpand over de werkruimten van Marketo Engage en zelfs volledige instanties toe te laten.</td> 
    <td>Verzonden</td>
-   <td>nvt</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Een algemeen mijn token maken</a></td>
   </tr>
   </tbody> 
 </table>
