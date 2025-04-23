@@ -3,9 +3,9 @@ description: Een interactief webinar maken - Marketo Docs - Productdocumentatie
 title: Een interactief webinar maken
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,13 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. Geef je webinar een titel. Stel de maximale doelgrootte in en de duur ervan.
+1. Geef je webinar een titel en bepaal hoe lang het duurt.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* De titel van het webinar is zichtbaar voor deelnemers wanneer ze zich aansluiten. Het is belangrijk dat de titel verschilt van de naam van het Interactive Webinars Event Program in uw Marketo Engage-instantie en van de naam van de webinar-ruimte.
+   >* De titel van webinar **is** zichtbaar aan deelnemers wanneer zij zich aansluiten. Het is belangrijk dat de titel anders is dan de naam van het Interactive Webinars Event Program in uw Marketo Engage-instantie en de naam van de webinar room.
    >
    >* U kunt een webinar-titel niet opnieuw gebruiken. Elke moet uniek zijn in je Marketo-exemplaar.
    >
@@ -56,7 +56,7 @@ Maak een interactief webinar in een paar eenvoudige stappen.
    >
    >* Als u een testwebinar creeert, moet het vóór zijn begintijd worden geschrapt om ervoor te zorgen dat de vergunning voor dat webinar niet wordt gebruikt.
 
-1. Plan de datum/de tijd van uw webinar en klik **creëren**.
+1. Plan de datum/tijd van uw webinar, verander de tijdzone (indien gewenst), en plaats de maximumpublieksgrootte. Klik **creëren** wanneer gedaan.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
