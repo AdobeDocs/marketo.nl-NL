@@ -2,12 +2,10 @@
 description: Demandbase - Marketo Docs - Productdocumentatie
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -33,6 +31,8 @@ De stappen hieronder moeten _in uw rekening van de Demandbase_ worden gedaan.
 1. Klik **creëren**.
 
 1. Gebruikend het _exemplaar_ pictogram, kopieer het Symbolische koord van API bij de bodem van de pagina.
+
+1. Verzend een kaartje met [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) en verstrek het Symbolische Koord van API om de integratie van de Demandbase te activeren.
 
 >[!NOTE]
 >

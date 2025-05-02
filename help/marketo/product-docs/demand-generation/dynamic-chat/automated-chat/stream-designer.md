@@ -3,7 +3,7 @@ description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Er zijn _vele_ mogelijke stroomcombinaties. Dit artikel bevat een voorbeeld waar
 
 >[!PREREQUISITES]
 >
->Alvorens u de kaart van het Document kunt gebruiken, moet u het eerst [ opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in uw rekening van de Adobe.
+>Alvorens u de kaart van het Document kunt gebruiken, moet u het eerst [ opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in uw rekening van Adobe.
 
 ## Designer-kaarten streamen {#stream-designer-cards}
 
@@ -25,7 +25,7 @@ De stroom Designer bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
 <table>
  <tr>
   <td style="width:25%"><strong>Bericht</strong></td>
-  <td>Wordt gebruikt wanneer u een instructie wilt maken zonder dat er een reactie nodig is (bijvoorbeeld: "Hallo! Alle items zijn vandaag 25% korting met code SAVE25").
+  <td style="width:75%">Wordt gebruikt wanneer u een instructie wilt maken zonder dat er een reactie nodig is (bijvoorbeeld: "Hallo! Alle items zijn vandaag 25% korting met code SAVE25").
 </td>
  </tr>
  <tr>
@@ -42,7 +42,7 @@ De stroom Designer bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  </tr>
  <tr>
   <td style="width:25%"><strong>Boeking van vergadering</strong></td>
-  <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels. Klik <b> voeg Attribuut </b> toe als u de naam of e-mailadres van de agent wilt vangen en het aan het de persoonverslag van de praatjebezoeker voor toekomstig het vragen (uiteinde: creeer a <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank"> douanegebied </a> om de informatie van de agent aan in kaart te brengen zoals om een standaard gebied van het Marketo Engage niet te beschrijven) toe.</td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels. Klik <b> voeg Attribuut </b> toe als u de naam of e-mailadres van de agent wilt vangen en het aan het de persoonverslag van de praatjebezoeker voor toekomstig het vragen (uiteinde: creeer a <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank"> douanegebied </a> om de informatie van de agent aan in kaart te brengen zoals om een standaard gebied van Marketo Engage niet te beschrijven) toe.</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Doel</strong></td>
@@ -51,7 +51,7 @@ De stroom Designer bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  <tr>
   <td style="width:25%"><strong>Actie*</strong></td>
   <td>Gelijkaardig aan verborgen gebieden in een vorm, met de actiekaart kunt u om het even welk lood of bedrijfattribuut (dat a <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string"> type van koordgegevens </a>) met impliciete waarden bevolken die u tegen een loodverslag zou willen vangen. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.
-  <p><i>* Voor deze kaart is de Dynamic Chat-primeur vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
+  <p><i>* Voor deze kaart is Dynamic Chat Prime vereist. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live chatten</strong></td>
@@ -62,7 +62,7 @@ De stroom Designer bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  <tr>
   <td style="width:25%"><strong>Gegenereerde reacties*</strong></td>
   <td>Creeer een bericht voor de bezoeker voor wanneer zij een bepaald punt in het gesprek bereiken. Stel een aantal vragen die ze kunnen stellen in om de gewenste prestatiekernindicator te bereiken.
-  <p><i>* Voor deze kaart is de Dynamic Chat-primeur vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
+  <p><i>* Voor deze kaart is Dynamic Chat Prime vereist. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Voorwaardelijke vertakking</strong></td>
@@ -109,7 +109,7 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
 
    ![](assets/stream-designer-6.png)
 
-1. Sleep de [!UICONTROL Question] -kaart en zet deze neer.
+1. Sleep de _[!UICONTROL Question]_-kaart en zet deze neer.
 
    ![](assets/stream-designer-7.png)
 
@@ -121,7 +121,7 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
    >
    >U kunt de ervaring aanpassen voor chatbezoekers!
    >
-   >* Klik het &quot;tussenvoegsel HTML&quot;pictogram `</>` om uw eigen HTML voor de gewenste blik en het gevoel van het gesprek op te nemen.
+   >* Klik op het pictogram &quot;HTML invoegen&quot; `</>` om uw eigen HTML in te voegen voor de gewenste vormgeving van het gesprek.
    >
    >* Gebruik tokens voor bekende chatsbezoekers om hun ervaring aan te passen (bijvoorbeeld: Hello `{{lead.leadFirstName:""}}`). Klik op het pictogram voor het accolade `{}` en maak een selectie. Voeg een standaardwaarde tussen de aanhalingstekens toe als u wilt dat anonieme bezoekers iets soortgelijks zien (bijvoorbeeld Hello `{{lead.leadFirstName:"there"}}`).
 
@@ -137,7 +137,7 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
    >
    >**[!UICONTROL Edit Stored Values]** is een optionele stap voor gebruikers die een andere waarde in de database willen opslaan dan de waarde die bezoekers in de chatbot krijgen weergegeven voor toegewezen kenmerken in de vraagkaart (bezoekers zien bijvoorbeeld &#39;Zoekmachine optimaliseren&#39;, en slaan die waarde op als &#39;SEO&#39;.)
 
-1. Voor &quot;ja&quot;willen wij een benoeming plannen, zodat onder die optie belemmering over de kaart van de Planner van de Benoeming.
+1. Voor &quot;ja&quot;willen wij een vergadering, zo onder die optie boeken, sleep over de _het boeken van de Vergadering_ kaart.
 
    ![](assets/stream-designer-10.png)
 
@@ -173,7 +173,7 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
 
    ![](assets/stream-designer-17.png)
 
-1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in het Marketo Engage en klik op **[!UICONTROL Save]** .
+1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het desbetreffende veld in Marketo Engage en klik op **[!UICONTROL Save]** .
 
    ![](assets/stream-designer-18.png)
 
@@ -192,7 +192,7 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
     </tr>
     <tr>
      <td style="width:30%"><strong>Reactie toewijzen aan kenmerk</strong></td>
-     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Persoonlijke record in uw abonnement op het Marketo Engage.</td>
+     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Person-record in uw Marketo Engage-abonnement.</td>
     </tr>
    </table>
 
