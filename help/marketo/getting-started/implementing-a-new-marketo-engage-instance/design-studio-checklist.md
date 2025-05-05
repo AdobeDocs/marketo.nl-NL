@@ -28,8 +28,8 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
 <tbody>
   <tr>
     <td>Algemene bestemmingspagina's</td>
-    <td><li>Maken <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">globale bestemmingspagina's (vrije vorm/geleide)</a>.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Een testpagina maken</a> naar A/B test de winnende landingspagina-sjabloon (indien van toepassing).</li></td>
+    <td><li>Maken <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank">globale bestemmingspagina's (vrije vorm/geleide)</a>.</li>
+    <li><a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank">Een testpagina maken</a> naar A/B test de winnende landingspagina-sjabloon (indien van toepassing).</li></td>
   </tr>
   <tr>
     <td>Sjablonen</td>
@@ -37,7 +37,7 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
   </tr>
   <tr>
     <td>Privacy en naleving</td>
-    <td><li>Een voettekst maken met <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragmenten</a> of <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> in uw bestemmingspagina's voor privacynaleving.</li></td>
+    <td><li>Een voettekst maken met <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page" target="_blank">Fragmenten</a> of <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page#add-a-token-to-your-landing-page" target="_blank">Tokens</a> in uw bestemmingspagina's voor privacynaleving.</li></td>
   </tr>
 </tbody>
 </table>
@@ -54,7 +54,7 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
 <tbody>
   <tr>
     <td>Global Forms</td>
-    <td><li>Instellen <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">globale formulieren</a> voor gebruik in gevallen zoals abonnementsvoorkeuren, gedownloade inhoud, demo-aanvragen, webinar-registraties, enz.</li></td>
+    <td><li>Instellen <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form#product-docs" target="_blank">globale formulieren</a> voor gebruik in gevallen zoals abonnementsvoorkeuren, gedownloade inhoud, demo-aanvragen, webinar-registraties, enz.</li></td>
   </tr>
   <tr>
     <td>Privacy en naleving</td>
@@ -62,7 +62,7 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
   </tr>
   <tr>
     <td>Gegevensstandaardisering</td>
-    <td><li>Overweeg picklists toe te passen op <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">formuliervelden</a> in plaats van open tekstvelden om rommelige gegevens te voorkomen.</li></td>
+    <td><li>Overweeg picklists toe te passen op <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank">formuliervelden</a> in plaats van open tekstvelden om rommelige gegevens te voorkomen.</li></td>
   </tr>
 </tbody>
 </table>
@@ -83,13 +83,13 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
   </tr>
   <tr>
     <td>Sjablonen</td>
-    <td><li>Een op een module gebaseerd ontwerp <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">e-mailsjabloon</a> met een ontwerper/ontwikkelaar, of gebruik uw eigen HTML.</li>
+    <td><li>Een op een module gebaseerd ontwerp <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/create-an-email-template" target="_blank">e-mailsjabloon</a> met een ontwerper/ontwikkelaar, of gebruik uw eigen HTML.</li>
     <li>Maak een geteste e-mailsjabloon naar A/B om de winnende sjabloon te testen (indien van toepassing).</li></td>
   </tr>
   <tr>
     <td>Privacy en naleving</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Fragmenten toevoegen</a> naar uw e-mailsjablonen om herbruikbare blokken zoals het copyrightjaar, de algemene locatie en compatibiliteitsspecifieke taal te beheren.</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Tokens toevoegen</a> om inhoud te personaliseren die op het doelpubliek wordt gebaseerd.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank">Fragmenten toevoegen</a> naar uw e-mailsjablonen om herbruikbare blokken zoals het copyrightjaar, de algemene locatie en compatibiliteitsspecifieke taal te beheren.</li>
+    <li><a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank">Tokens toevoegen</a> om inhoud te personaliseren die op het doelpubliek wordt gebaseerd.</li></td>
   </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
 <tbody>
   <tr>
     <td>Fragmenten</td>
-    <td><li>Maken <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Fragmenten</a> voor herbruikbare inhoudsblokken die kunnen worden gebruikt voor meerdere gebruiksgevallen, zoals contactgegevens, links naar sociale media, merkinformatie en privacy- en compatibiliteitsnotities in uw e-mails en Landing Pages.</li></td>
+    <td><li>Maken <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet#product-docs" target="_blank">Fragmenten</a> voor herbruikbare inhoudsblokken die kunnen worden gebruikt voor meerdere gebruiksgevallen, zoals contactgegevens, links naar sociale media, merkinformatie en privacy- en compatibiliteitsnotities in uw e-mails en Landing Pages.</li></td>
   </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ Herinneren aan [checklists downloaden](/help/marketo/getting-started/implementin
 <tbody>
   <tr>
     <td>Mapstructuur </td>
-    <td><li>Submappen maken voor elk type element en <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">globale elementen ordenen</a> (bv. conversatiestromen, e-mailsjablonen, e-mails, formulieren, afbeeldingen en bestanden, bestemmingspagina's, sjablonen voor bestemmingspagina's, fragmenten enz.) naar behoren.</li></td>
+    <td><li>Submappen maken voor elk type element en <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">globale elementen ordenen</a> (bv. conversatiestromen, e-mailsjablonen, e-mails, formulieren, afbeeldingen en bestanden, bestemmingspagina's, sjablonen voor bestemmingspagina's, fragmenten enz.) naar behoren.</li></td>
   </tr>
 </tbody>
 </table>

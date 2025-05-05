@@ -33,7 +33,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   <tr> 
    <td>Abonnement en productbeheerder van Marketo Engage</td> 
    <td><li>Is uw abonnement op Marketo's Engage gemigreerd naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> toch ? 
-<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.</li>
+<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/nl/contact.html" target="_blank">Klantenservice Adoben</a>.</li>
 <li>Hebt u de uitnodiging voor 'Marketo Engage Product Admin' geaccepteerd? De e-mail wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.
 <br/>     Indien niet, zoek naar <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">welkome e-mail</a> in uw Postvak IN en accepteer de uitnodiging om uw Adobe ID te activeren.</li></td>
   </tr>
@@ -293,7 +293,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (indien van toepassing)</td> 
-<td>Als u de onderstaande stappen volgt, hebt u toegang tot de <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Als u nog geen Adobe ID hebt ingesteld, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">hier leren hoe je dat kunt doen</a>.
+<td>Als u de onderstaande stappen volgt, hebt u toegang tot de <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Als u nog geen Adobe ID hebt ingesteld, <a href="https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html" target="_blank">hier leren hoe je dat kunt doen</a>.
 <br/>
 <li>Heb je de <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Dynamic Chat productbeheerder</a> uitnodigen? De e-mail wordt verzonden wanneer de Dynamic Chat in uw instantie van het Marketo Engage wordt toegelaten, en u wordt aangewezen als Admin van het Systeem.
 <br/>     Als dat niet het geval is, zoekt u de welkomste-mail in uw Postvak IN en accepteert u de uitnodiging om uw Adobe ID in te stellen.</li>   

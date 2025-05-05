@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 11E {#template-11e}
 
-Klik met de rechtermuisknop om [downloadsjabloon 11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+Klik met de rechtermuisknop om [downloadsjabloon 11E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=nl-NL)
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+[Sjabloon 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=nl-NL)

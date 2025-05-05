@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Template 6C {#template-6c}
 
-Klik met de rechtermuisknop om [downloadsjabloon 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html?lang=nl-NL)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+[Sjabloon 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html?lang=nl-NL)

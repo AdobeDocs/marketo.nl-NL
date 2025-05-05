@@ -31,7 +31,7 @@ Drie nieuwe aanroepen voor de API voor leidende informatie en activiteiten:
 * Leads ophalen op basis van programma-id
 * Verwijderde leads ophalen
 
-Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home)
 
 **Ondersteuning voor aangepaste objecten voor e-mailscripts**
 
@@ -62,6 +62,6 @@ De opties voor de RTP-tag onder Accountinstellingen zijn zo bijgewerkt dat:
 1. Asynchrone tag zonder CDN
 1. Synchrone tag zonder CDN
 
-Voor de beste prestaties is het raadzaam de tag boven aan de koptekst op uw webpagina te plaatsen na `<head>`. Alle tags staan het gebruik van de [RTP API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Voor de beste prestaties is het raadzaam de tag boven aan de koptekst op uw webpagina te plaatsen na `<head>`. Alle tags staan het gebruik van de [RTP API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

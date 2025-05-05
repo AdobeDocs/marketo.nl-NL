@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Voordat u berichten of pushmeldingen in de app kunt maken, moet de ontwikkelaar de SDK van de Mobile App voor de Android- en iOS-platforms hebben ingesteld en geïnitialiseerd.
 
-* [Instructies voor Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [Instructies voor iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [Instructies voor Android](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Instructies voor iOS](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## SDK-code naar een ontwikkelaar verzenden {#send-sdk-code-to-a-developer-1}
 

@@ -65,7 +65,7 @@ Drie nieuwe aanroepen voor de API voor leidende informatie en activiteiten:
 
 ・ Lead samenvoegen
 
-Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home)
 
 ## Verbeterde compatibiliteit met Munchkin JavaScript {#munchkin-javascript-compatibility-enhancements}
 

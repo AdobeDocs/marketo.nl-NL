@@ -60,4 +60,4 @@ U wordt op de hoogte gesteld wanneer u uw dagelijkse quotum bereikt. De quota wo
 
 >[!NOTE]
 >
->Sommige foutcodes die u ontvangt, worden beschreven in onze [Documentatie voor ontwikkelaars](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Sommige foutcodes die u ontvangt, worden beschreven in onze [Documentatie voor ontwikkelaars](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/error-codes).

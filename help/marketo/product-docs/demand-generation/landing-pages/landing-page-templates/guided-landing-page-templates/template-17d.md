@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 17-D {#template-17d}
 
-Klik met de rechtermuisknop om [downloadsjabloon 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+Klik met de rechtermuisknop om [downloadsjabloon 17-D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=nl-NL)
 
 ![](assets/image2015-8-17-17-3a22-3a19.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+[Sjabloon 17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=nl-NL)

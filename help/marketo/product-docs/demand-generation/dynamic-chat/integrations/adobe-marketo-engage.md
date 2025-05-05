@@ -18,7 +18,7 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
 
 >[!NOTE]
 >
->Dynamic Chat ondersteunt synchronisatie [Marketo native](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} en velden voor aangepaste personen en bedrijven.
+>Dynamic Chat ondersteunt synchronisatie [Marketo native](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} en velden voor aangepaste personen en bedrijven.
 
 1. Klik in Mijn Marketo op de knop **[!UICONTROL Dynamic Chat]** tegel.
 
@@ -28,7 +28,7 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
    >
    >Neem contact op met uw Marketo Admin als u de tegel niet ziet.
 
-1. Als u eerder een toepassing met een Adobe ID hebt betreden, zult u direct aan Dynamic Chat worden genomen. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Als u eerder een toepassing met een Adobe ID hebt betreden, zult u direct aan Dynamic Chat worden genomen. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Selecteer **[!UICONTROL Integrations]**.
 

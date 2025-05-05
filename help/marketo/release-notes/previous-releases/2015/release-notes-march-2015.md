@@ -37,7 +37,7 @@ De Ontdekkingsreiziger van de opbrengst heeft een gloednieuwe blik en voelt, eve
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
-[Nieuwe REST-API&#39;s voor middelen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Nieuwe REST-API&#39;s voor middelen](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/assets)
 
 We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](https://developer.adobe.com/marketo-apis/api/asset/)!
 

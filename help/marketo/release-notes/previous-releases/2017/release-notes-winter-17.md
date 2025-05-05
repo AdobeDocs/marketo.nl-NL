@@ -81,7 +81,7 @@ Er is een verbeterde bewerkervaring en lay-out waarmee de voorbereiding van inho
 
 URL en metagegevens van afbeeldingen worden nu gebruikt in het proces voor automatische detectie van inhoud.
 
-## [Verbeteringen voor SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [Verbeteringen voor SDK](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Ontwikkelaars hebben nu extra controle over de levering van pushberichten met toevoeging van een nieuwe SDK API-aanroep waarmee ontwikkelaars pushtokens kunnen verwijderen.
 

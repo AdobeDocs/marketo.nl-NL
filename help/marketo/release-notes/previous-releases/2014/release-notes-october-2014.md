@@ -30,7 +30,7 @@ Gebruik de API om nieuwe activiteiten of wijzigingen aan leads aan te brengen:
 * Activiteitstypen ophalen
 * Paginasken ophalen
 
-Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+Alle details zijn beschikbaar na de release op [https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Marketo-e-mail verzenden voor Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Gebruik een nieuwe vraag die de geschiedenis van het bezoek van de bezoeker volg
 * Producten die geïnteresseerd zijn in
 * Welke campagnes RTP hebben gezien
 
-Bezoek [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige informatie.
+Bezoek [https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige informatie.

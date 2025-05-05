@@ -66,4 +66,4 @@ Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of gebr
 
 * Voor praktische hulp bij het optimaal benutten van het Marketo Engage **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Controle **[video&#39;s over cursussen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** over verschillende aspecten van het Marketo Engage.
+* Controle **[video&#39;s over cursussen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}** over verschillende aspecten van het Marketo Engage.

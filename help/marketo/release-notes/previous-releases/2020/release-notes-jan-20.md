@@ -57,7 +57,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Marketo Sky {#marketo-sky}
 
-* [ Beeld het Uitgeven van het Beeld ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): Het uitgeven van de Adobe van de toegang mogelijkheden zonder het moeten Marketo Engage verlaten. Dankzij deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in Design Studio aan afbeeldingen toevoegen.
+* [ Beeld het Uitgeven van het Beeld ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=nl-NL#design-studio): Het uitgeven van de Adobe van de toegang mogelijkheden zonder het moeten Marketo Engage verlaten. Dankzij deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in Design Studio aan afbeeldingen toevoegen.
 
 ## Verkoopoverzicht {#sales-insight}
 

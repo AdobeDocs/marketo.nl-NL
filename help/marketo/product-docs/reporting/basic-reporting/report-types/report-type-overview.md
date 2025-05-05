@@ -47,7 +47,7 @@ Wanneer u [een rapport in een programma maken](/help/marketo/product-docs/report
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport Personen op omzet</a></strong></td> 
-   <td>Basisrapportage voor uw inkomstenmodel. Zie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analyse van inkomstencyclus</a> voor een betere rapportage.</td> 
+   <td>Basisrapportage voor uw inkomstenmodel. Zie <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analyse van inkomstencyclus</a> voor een betere rapportage.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestaties van bestemmingspagina</a>  </strong></td> 
@@ -55,7 +55,7 @@ Wanneer u [een rapport in een programma maken](/help/marketo/product-docs/report
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmaprestaties</a>  </strong></td> 
-   <td>Elementaire programma's zoals leden en succes. Zie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analyse van inkomstencyclus</a> voor een betere rapportage.</td> 
+   <td>Elementaire programma's zoals leden en succes. Zie <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analyse van inkomstencyclus</a> voor een betere rapportage.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="company-web-activity-report.md">Webactiviteit bedrijf</a></strong></td> 
@@ -67,11 +67,11 @@ Wanneer u [een rapport in een programma maken](/help/marketo/product-docs/report
   </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Prestatierapport voor betrokkenheidsstream</a> </strong></td> 
-   <td>Bekijk hoe goed uw <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">betrokkenheidsprogramma</a> werkt.</td> 
+   <td>Bekijk hoe goed uw <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">betrokkenheidsprogramma</a> werkt.</td> 
   </tr>
    <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">E-mailprestaties campagne</a> </strong></td> 
-   <td>Bekijk hoe goed uw <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">betrokkenheidsprogramma</a> werkt.</td> 
+   <td>Bekijk hoe goed uw <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">betrokkenheidsprogramma</a> werkt.</td> 
   </tr>
  </tbody> 
 </table>

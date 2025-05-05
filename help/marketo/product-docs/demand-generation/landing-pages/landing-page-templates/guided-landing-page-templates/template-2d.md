@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 2D {#template-2d}
 
-Klik met de rechtermuisknop om [Sjabloon 2D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+Klik met de rechtermuisknop om [Sjabloon 2D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+[Sjabloon 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)

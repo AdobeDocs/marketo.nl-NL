@@ -85,7 +85,7 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * **Pod Vragen en antwoorden**: De naam van deelnemer die de vraag en de naam van de gastheer/presentator indiende die antwoordde kan allebei worden verborgen. Dit kan worden bereikt door de privacyopties uit te schakelen onder de sectie &quot;Pod Vragen en antwoorden&quot; in de voorkeuren voor Ruimte.
 
-* **het Comité van het Praatje**: Het Comité van het Praatje is een praatjegebied dat geen deel van zittingsopnamen uitmaakt. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. [ klik hier ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}  om meer over het gebruiken van het Comité van het Praatje te lezen.
+* **het Comité van het Praatje**: Het Comité van het Praatje is een praatjegebied dat geen deel van zittingsopnamen uitmaakt. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. [ klik hier ](https://helpx.adobe.com/nl/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}  om meer over het gebruiken van het Comité van het Praatje te lezen.
 
 * **Privé Chat**: Draai van privé praatje om deelnemers te verhinderen een andere deelnemer te kunnen pingelen. Dit kan worden bereikt door de optie &quot;Deelnemers toestaan privéchatten&quot; uit te schakelen onder de sectie &quot;Chat&quot; in de voorkeuren voor Ruimte.
 

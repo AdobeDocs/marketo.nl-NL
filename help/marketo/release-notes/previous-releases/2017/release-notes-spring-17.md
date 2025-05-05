@@ -35,7 +35,7 @@ Gone is de dagen van het schoonmaken van verouderde sjablonen in Sales Insight. 
 
 ![](assets/four-281-29.png)
 
-## [Bulk Extraheren-API&#39;s voor mensen en activiteiten](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [Bulk Extraheren-API&#39;s voor mensen en activiteiten](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Breng eenvoudig grote hoeveelheden personen- en activiteitsgegevens over van Marketo naar uw externe systemen.
 
@@ -49,7 +49,7 @@ Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde acc
 
 De score voor benoemde accounts kan sterk variëren. Marketo ABM berekent nu automatisch een percentiel voor elk van uw scores, zodat u in een oogopslag kunt zien waar elke Benoemde Rekening onder uw andere Benoemde Rekeningen rangschikt.
 
-**[ABM-accountlijst-API&#39;s](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[ABM-accountlijst-API&#39;s](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Profiteer van uitgebreide en robuuste integratie van ABM-partners met verbeterde API-ondersteuning voor benoemde accountlijsten.
 

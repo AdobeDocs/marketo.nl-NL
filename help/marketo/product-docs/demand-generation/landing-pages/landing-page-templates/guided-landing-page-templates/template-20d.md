@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 20D {#template-20d}
 
-Klik met de rechtermuisknop om [downloadsjabloon 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Klik met de rechtermuisknop om [downloadsjabloon 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=nl-NL)
 
 ![](assets/template-20d.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+[Sjabloon 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=nl-NL)

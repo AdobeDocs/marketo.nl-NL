@@ -49,13 +49,13 @@ Als u deze functie wilt gebruiken, moet het e-mailprogramma minimaal 12 uur van 
 
 ## [Verbeteringen voor mobiele marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer informatie](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer informatie](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Ondersteuning voor Sandbox-apps**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Programma-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [Programma-API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 U kunt programma&#39;s maken, bijwerken en klonen via de REST API. Hieronder vallen niet het maken of bijwerken van slimme lijsten en slimme campagnes binnen een programma.
 

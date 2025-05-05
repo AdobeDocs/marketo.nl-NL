@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 7D {#template-7d}
 
-Klik met de rechtermuisknop om [Sjabloon 7D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+Klik met de rechtermuisknop om [Sjabloon 7D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=nl-NL)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+[Sjabloon 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=nl-NL)

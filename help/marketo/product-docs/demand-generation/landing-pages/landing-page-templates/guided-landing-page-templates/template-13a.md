@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 13A {#template-13a}
 
-Klik met de rechtermuisknop om [downloadsjabloon 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+Klik met de rechtermuisknop om [downloadsjabloon 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=nl-NL)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+[Sjabloon 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=nl-NL)

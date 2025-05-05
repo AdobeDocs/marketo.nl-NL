@@ -40,11 +40,11 @@ De migratie naar ondersteuning vindt plaats nadat de migratie van uw gebruiker v
 
 ## Aanvullende bronnen {#additional-resources}
 
-* Leer hoe u [ Adobe Admin Console kunt gebruiken om uw rechten van de Adobe ](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"}  over uw volledige organisatie te beheren.
+* Leer hoe u [ Adobe Admin Console kunt gebruiken om uw rechten van de Adobe ](https://helpx.adobe.com/nl/enterprise/using/admin-roles.html){target="_blank"}  over uw volledige organisatie te beheren.
 
 * Meer informatie over hoe te login aan Marketo Engage met Adobe ID [ kan hier worden gevonden ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Leer meer over [ Adobe Experience League ](https://experienceleague.adobe.com/){target="_blank"} .
+* Leer meer over [ Adobe Experience League ](https://experienceleague.adobe.com/nl){target="_blank"} .
 
 ## Heb je nog vragen? {#still-have-questions}
 

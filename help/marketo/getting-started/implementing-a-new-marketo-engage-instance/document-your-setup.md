@@ -26,8 +26,8 @@ Nu u de belangrijkste productgebieden aan opstelling voor een nieuwe instantie v
 <tbody>
   <tr>
     <td>Lijstimport</td>
-    <td><li>Een lijst met gegevensbronnen verzamelen waarvan de records worden opgehaald van naar <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">invoer in Marketo Engage</a>.</li>
-    <li>Als u vanuit meerdere gegevensbronnen importeert, kunt u overwegen Hoofdlijsten te gebruiken of <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">een aangepast veld maken</a> in het persoonsdossier om de gegevensbron te wijzen.</li></td>
+    <td><li>Een lijst met gegevensbronnen verzamelen waarvan de records worden opgehaald van naar <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">invoer in Marketo Engage</a>.</li>
+    <li>Als u vanuit meerdere gegevensbronnen importeert, kunt u overwegen Hoofdlijsten te gebruiken of <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">een aangepast veld maken</a> in het persoonsdossier om de gegevensbron te wijzen.</li></td>
   </tr>
   <tr>
     <td>Database-integratie</td>
@@ -48,7 +48,7 @@ Nu u de belangrijkste productgebieden aan opstelling voor een nieuwe instantie v
 <tbody>
   <tr>
     <td>Gebruikers</td>
-    <td><li>Documenteer de <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">huidige gebruikers</a> om veiligheidsredenen. De volgende details moeten minimaal worden opgenomen (en zijn allemaal zichtbaar door naar Beheer &gt; Gebruikers &amp; rollen te gaan):</li>
+    <td><li>Documenteer de <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">huidige gebruikers</a> om veiligheidsredenen. De volgende details moeten minimaal worden opgenomen (en zijn allemaal zichtbaar door naar Beheer &gt; Gebruikers &amp; rollen te gaan):</li>
     <ul>
     <li>Naam</li>
     <li>E-mail</li>
@@ -59,15 +59,15 @@ Nu u de belangrijkste productgebieden aan opstelling voor een nieuwe instantie v
     <li>Meest recente aanmeldingsdatum</li></ul>
     <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: U kunt op dit ook uitbreiden om documentatie rond rollen/toestemmingen te omvatten.
     <p>
-    <li>Als Admin van het Product van het Marketo Engage, ontwikkelt een intern proces om de gebruikerslijst van het Marketo Engage bij een regelmatige kring te controleren en bij te werken. Als u wijzigingen wilt aanbrengen in de lijst met gebruikers in Adobe Admin Console, kunt u <a href="https://helpx.adobe.com/enterprise/using/users.html" target="_blank">bulkacties</a>, zoals het uploaden van een .CSV-bestand met de REST-API voor gebruikersbeheer, enz.</li></td>
+    <li>Als Admin van het Product van het Marketo Engage, ontwikkelt een intern proces om de gebruikerslijst van het Marketo Engage bij een regelmatige kring te controleren en bij te werken. Als u wijzigingen wilt aanbrengen in de lijst met gebruikers in Adobe Admin Console, kunt u <a href="https://helpx.adobe.com/nl/enterprise/using/users.html" target="_blank">bulkacties</a>, zoals het uploaden van een .CSV-bestand met de REST-API voor gebruikersbeheer, enz.</li></td>
   </tr>
   <tr>
     <td>Organisatie</td>
-    <td><li>Documenteer de overeengekomen omslagstructuur, standaard noemende overeenkomsten voor programma's, activa, etc., en de waarom de besluiten werden genomen. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Klik hier voor meer informatie over de beste praktijken.</a></li></td>
+    <td><li>Documenteer de overeengekomen omslagstructuur, standaard noemende overeenkomsten voor programma's, activa, etc., en de waarom de besluiten werden genomen. <a href="https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Klik hier voor meer informatie over de beste praktijken.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Creeer een verandering waar u kunt documenteren wat in uw instantie en de waarom van de wijzigingen verandert. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Klik hier voor meer informatie over de beste praktijken.</a></li></td>
+    <td><li>Creeer een verandering waar u kunt documenteren wat in uw instantie en de waarom van de wijzigingen verandert. <a href="https://experienceleague.adobe.com/nl/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Klik hier voor meer informatie over de beste praktijken.</a></li></td>
   </tr>
   <tr>
     <td>Afspeelboeken</td>

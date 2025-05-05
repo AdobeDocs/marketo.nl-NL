@@ -21,7 +21,7 @@ Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden geÃ
 Voor abonnementen op Adobe-id wordt de Adobe Admin Console gebruikt voor gebruikersbeheer. Identiteitsgerelateerde concepten, zoals Single Sign On, worden ook beheerd in de Admin Console.
 
 * Vind meer informatie over [ Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html){target="_blank"} .
-* Vind meer informatie over [ vestiging uw organisatie van de Adobe met betrekking tot uw abonnement van Marketo ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} .
+* Vind meer informatie over [ vestiging uw organisatie van de Adobe met betrekking tot uw abonnement van Marketo ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"} .
 
 >[!NOTE]
 >

@@ -104,7 +104,7 @@ Analyses en aanbevelingen voor inhoud offline weergeven.
 
 Bestaande API&#39;s voor middelen, die voorheen alleen compatibel waren met e-mailberichten en sjablonen van versie 1.0, zijn nu ingeschakeld voor e-mailmiddelen van versie 2.0.
 
-## [Marketo Developers Site](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo Developers Site](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nieuw en verbeterd!
 

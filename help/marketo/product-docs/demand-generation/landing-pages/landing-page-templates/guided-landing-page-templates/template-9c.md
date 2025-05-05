@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Template 9C {#template-9c}
 
-Klik met de rechtermuisknop om [downloadsjabloon 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 9C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=nl-NL)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
+[Sjabloon 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=nl-NL)

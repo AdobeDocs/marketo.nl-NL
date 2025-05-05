@@ -25,7 +25,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   <tr> 
    <td>Algemene bestemmingspagina's</td> 
    <td><li>Hoeveel wereldwijd <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">Openingspagina's</a> is dat zo ? Worden ze door programma's gebruikt?</li>
-   <li>Heeft u een <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">abonnementscentrum</a> instellen?
+   <li>Heeft u een <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=nl-NL" target="_blank">abonnementscentrum</a> instellen?
    <br/>     Als dat niet het geval is, kunt u er een maken.</li></td>
   </tr>
   <tr> 

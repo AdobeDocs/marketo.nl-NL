@@ -187,7 +187,7 @@ Selecteren in een [Lijst met benoemde accounts](/help/marketo/product-docs/web-p
 
 >[!NOTE]
 >
->Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisatie van het Web [API voor lezen](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisatie van het Web [API voor lezen](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **ISP uitsluiten**
 
@@ -286,7 +286,7 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 
 **Context-API van gebruiker**
 
-Web Personalization API call  [lees hier meer over .](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Web Personalization API call  [lees hier meer over .](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

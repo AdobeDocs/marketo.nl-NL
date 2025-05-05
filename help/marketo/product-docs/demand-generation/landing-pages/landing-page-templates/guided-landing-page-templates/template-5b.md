@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Template 5B {#template-5b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Klik met de rechtermuisknop om [downloadsjabloon 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=nl-NL)
 
 ![](assets/template-5b.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+[Sjabloon 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=nl-NL)

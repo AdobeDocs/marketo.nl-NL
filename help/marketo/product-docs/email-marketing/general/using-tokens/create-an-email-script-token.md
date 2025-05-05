@@ -49,7 +49,7 @@ Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele nuttige bronnen:
 
-   * [Marketo Developers Email Scripting Documentation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo Developers Email Scripting Documentation](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting)
    * [Gebruikershandleiding voor snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Snelheidsnaslaggids](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

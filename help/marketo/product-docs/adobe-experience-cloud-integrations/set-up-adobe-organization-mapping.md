@@ -36,7 +36,7 @@ Voor synchronisatie met Adobe-toepassingen, zoals Audience Manager, de B2B CDP M
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Voer uw Adobe IMS-organisatie-id in (leer hoe u dat kunt vinden) [hier](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) en klik op **[!UICONTROL OK]**.
+1. Voer uw Adobe IMS-organisatie-id in (leer hoe u dat kunt vinden) [hier](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=nl-NL){target="_blank"}) en klik op **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

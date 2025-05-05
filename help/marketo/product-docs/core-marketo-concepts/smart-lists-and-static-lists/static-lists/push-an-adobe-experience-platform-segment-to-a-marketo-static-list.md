@@ -100,7 +100,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform op het Marketo
 
    >[!NOTE]
    >
-   >U kunt attributen van Experience Platform aan om het even welke attributen in kaart brengen die uw organisatie in Marketo Engage toegang heeft tot. Gebruik de [Beschrijf API-aanvraag](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om kenmerkvelden op te halen waartoe uw organisatie toegang heeft.
+   >U kunt attributen van Experience Platform aan om het even welke attributen in kaart brengen die uw organisatie in Marketo Engage toegang heeft tot. Gebruik de [Beschrijf API-aanvraag](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om kenmerkvelden op te halen waartoe uw organisatie toegang heeft.
 
 1. Wijs de Achternaam en de Naam van het Bedrijf in kaart door te klikken **[!UICONTROL Add New Mapping]** en herhaalt u stap 15 tweemaal, waarbij u **[!UICONTROL lastName]** en vervolgens **[!UICONTROL companyName]**.
 

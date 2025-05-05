@@ -261,7 +261,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
-   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verscheidene verschillende types van documenten: De documenten van het product (de plaats u momenteel) bent, <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow"> ontwikkelaar </a> docs, en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow"> Steun </a> docs.</td> 
+   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verscheidene verschillende types van documenten: De documenten van het product (de plaats u momenteel) bent, <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home" rel="nofollow"> ontwikkelaar </a> docs, en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow"> Steun </a> docs.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domeingebaseerde Message Authentication, Reporting &amp; Compliance (DMARC)</strong></td> 

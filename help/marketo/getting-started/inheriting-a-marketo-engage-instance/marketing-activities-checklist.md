@@ -157,7 +157,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
   </tr>
   <tr> 
    <td>Abonnement/Preferentiecentrum</td> 
-   <td><li>Heeft u een <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Abonnement/Preferentiecentrum</a> instellen? Werkt het zoals het zou moeten?</li></td>
+   <td><li>Heeft u een <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=nl-NL" target="_blank">Abonnement/Preferentiecentrum</a> instellen? Werkt het zoals het zou moeten?</li></td>
   </tr>
   <tr> 
    <td>Interesserende momenten (indien van toepassing)</td> 

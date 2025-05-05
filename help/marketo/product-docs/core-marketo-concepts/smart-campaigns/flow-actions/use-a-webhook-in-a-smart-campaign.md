@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een webhaak gebruiken in een slimme campagne {#use-a-webhook-in-a-smart-campaign}
 
-Om a [ webhaak ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}  te gebruiken, voeg het aan a [ Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} als stroomactie toe.
+Om a [ webhaak ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}  te gebruiken, voeg het aan a [ Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} als stroomactie toe.
 
 >[!AVAILABILITY]
 >

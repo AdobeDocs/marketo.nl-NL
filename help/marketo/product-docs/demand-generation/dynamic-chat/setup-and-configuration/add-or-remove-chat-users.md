@@ -108,5 +108,5 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-gebruikers](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
->* [Gebruikers afzonderlijk beheren](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Adobe Admin Console-gebruikers](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
+>* [Gebruikers afzonderlijk beheren](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}

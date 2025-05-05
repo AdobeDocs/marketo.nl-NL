@@ -63,7 +63,7 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Een aangepast object maken voor een veel-op-veel-structuur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
 
 De volgende stap is dat u een tussenliggend object maakt (zie hieronder). Maar daarvoor moet u een veld maken om er een koppeling naar te maken.
 

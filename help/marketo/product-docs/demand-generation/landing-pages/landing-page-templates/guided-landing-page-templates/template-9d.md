@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 9D {#template-9d}
 
-Klik met de rechtermuisknop om [Sjabloon 9D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+Klik met de rechtermuisknop om [Sjabloon 9D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=nl-NL)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+[Sjabloon 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=nl-NL)

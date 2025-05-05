@@ -29,7 +29,7 @@ De eerste keer dat iemand een Marketo bezoekt [landingspagina](/help/marketo/pro
 
    * Klik op een [koppeling in een Marketo-e-mailbericht](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Hiermee vult u een Marketo in [formulier](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-   * Gebruikt Marketo [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) of [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (voor ontwikkelaars) om een anonieme activiteit te associëren met een bekende record.
+   * Gebruikt Marketo [REST API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/leads) of [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (voor ontwikkelaars) om een anonieme activiteit te associëren met een bekende record.
 
    Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.
 

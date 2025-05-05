@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 9E {#template-9e}
 
-Klik met de rechtermuisknop om [Sjabloon 9E downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+Klik met de rechtermuisknop om [Sjabloon 9E downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html?lang=nl-NL)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+[Sjabloon 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html?lang=nl-NL)

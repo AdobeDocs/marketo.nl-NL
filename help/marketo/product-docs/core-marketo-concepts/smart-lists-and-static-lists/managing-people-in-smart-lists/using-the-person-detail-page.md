@@ -60,7 +60,7 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 
 >[!NOTE]
 >
->U kunt ook informatie over opportunity zien [ingevoegd via API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) voor instanties die niet zijn gesynchroniseerd met een CRM.
+>U kunt ook informatie over opportunity zien [ingevoegd via API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities) voor instanties die niet zijn gesynchroniseerd met een CRM.
 
 ## Een veld bewerken {#editing-a-field}
 

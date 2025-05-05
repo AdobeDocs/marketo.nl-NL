@@ -25,7 +25,7 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 >[!IMPORTANT]
 >
->Dit is niet van toepassing op abonnementen op Adobe Identity. Voor abonnementen op Adobe Identity, wordt Single Sign On opstelling op het niveau van de Adobe of van de  in Adobe Admin Console. Adobe Admin Console ondersteunt momenteel alleen SP-gestarte bestanden. [ leer meer hier ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} .
+>Dit is niet van toepassing op abonnementen op Adobe Identity. Voor abonnementen op Adobe Identity, wordt Single Sign On opstelling op het niveau van de Adobe of van de  in Adobe Admin Console. Adobe Admin Console ondersteunt momenteel alleen SP-gestarte bestanden. [ leer meer hier ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"} .
 
 >[!NOTE]
 >

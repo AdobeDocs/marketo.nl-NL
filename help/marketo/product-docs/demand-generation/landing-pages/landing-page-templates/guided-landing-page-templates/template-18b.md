@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 18B {#template-18b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+Klik met de rechtermuisknop om [downloadsjabloon 18B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=nl-NL)
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+[Sjabloon 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html?lang=nl-NL)

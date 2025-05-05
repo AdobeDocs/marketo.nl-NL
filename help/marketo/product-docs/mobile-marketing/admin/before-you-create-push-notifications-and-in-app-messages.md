@@ -19,11 +19,11 @@ Het is niet moeilijk om pushmeldingen en in-app-berichten te maken, maar u moet 
 
 1. De Marketo Admin [verzendt een codefragment naar de ontwikkelaar](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. De ontwikkelaar downloadt de SDK, inclusief fragmenten en andere methoden, voor [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
+1. De ontwikkelaar downloadt de SDK, inclusief fragmenten en andere methoden, voor [Android](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [iOS](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
 
 1. Standaard worden in-app berichten geactiveerd wanneer uw app wordt geopend. Als u berichten voor andere gebeurtenissen wilt teweegbrengen, zoals wanneer een bepaalde pagina wordt bekeken of een specifieke knoop wordt geduwd, moet de ontwikkelaar douanegebeurtenissen aan de code toevoegen (zie [Aangepaste gebeurtenissen voor In-App-berichten](#CustomEvents) hieronder).
 
-1. De ontwikkelaar [Hiermee worden de API-sleutel en het projectnummer van de server voor Android gegenereerd](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [de certificering en het wachtwoord voor iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) en stuurt het naar de Marketo Admin.
+1. De ontwikkelaar [Hiermee worden de API-sleutel en het projectnummer van de server voor Android gegenereerd](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [de certificering en het wachtwoord voor iOS](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) en stuurt het naar de Marketo Admin.
 
 1. Marketo Admin configureert de toegang tot pushberichten [met de Server API-sleutel (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) of [met het certificaat (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 

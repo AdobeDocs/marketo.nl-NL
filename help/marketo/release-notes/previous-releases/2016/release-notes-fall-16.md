@@ -53,7 +53,7 @@ Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (AB
 
 **REST API**
 
-Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST API. Ga voor meer informatie over de API-bewerkingen naar de [Marketo Developers-website](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST API. Ga voor meer informatie over de API-bewerkingen naar de [Marketo Developers-website](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Verbeteringen audittrail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ Maak uw iOS Push Notification nog rijker door geluid in te schakelen. Met deze n
 
 Marktverkoopcontrole is nu compatibel met Salesforce Shield Encryption. Alle klanten van het Inzicht van de Verkoop zouden aan dit recentste beheerde pakket (versie 1.4359.2) moeten bevorderen, dat is [beschikbaar op de Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API&#39;s voor benoemde accounts](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [API&#39;s voor benoemde accounts](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Met deze release kunnen Marketo ABM-gebruikers benoemde accounts beheren via de API voor benoemde accounts. Gebruikers kunnen benoemde accounts maken, bijwerken en verwijderen, en ABM-accountscores lezen en bijwerken.
 
-## [E-maileditor v2.0 API-ondersteuning](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [E-maileditor v2.0 API-ondersteuning](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 U kunt variabelen en modules voor e-mailberichten in v2.0-indeling beheren met de Marketo REST API.
 

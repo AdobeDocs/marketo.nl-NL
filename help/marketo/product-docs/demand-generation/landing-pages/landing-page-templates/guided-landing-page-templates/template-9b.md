@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Template 9B {#template-9b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
+Klik met de rechtermuisknop om [downloadsjabloon 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html?lang=nl-NL)
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Sjabloon 9B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
+[Sjabloon 9B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html?lang=nl-NL)

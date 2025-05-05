@@ -105,7 +105,7 @@ Gebruikers kunnen nu subdomeinen toevoegen aan hun RTP-accountinstellingen om do
 
 We hebben onze SDK voor Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Ontwikkelaars van Android-apps kunnen nu direct Google gebruiken [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) met deze nieuwe SDK.
 
-* [Instructies voor ontwikkelaars]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Instructies voor ontwikkelaars]https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

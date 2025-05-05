@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Bulkexport-API-informatie {#bulk-export-api-information}
 
-Leer hoe u kunt controleren hoeveel [Bulkextractie-API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} uw instantie van het Marketo Engage heeft de afgelopen zeven dagen capaciteit opgenomen.
+Leer hoe u kunt controleren hoeveel [Bulkextractie-API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} uw instantie van het Marketo Engage heeft de afgelopen zeven dagen capaciteit opgenomen.
 
 >[!NOTE]
 >

@@ -87,7 +87,7 @@ Inhoud die wordt aanbevolen via Marketo-algoritmen voor geoptimaliseerde Content
 
 ## Integratie {#integration}
 
-**[Campagne-API activeren/deactiveren](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Campagne-API activeren/deactiveren](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren, zodat u nu volledig geautomatiseerde programmasjablonen kunt maken. Maak één keer een programmasjabloon, automatiseer het klonen, verhandel zakelijke updates en activering/planning van slimme campagnes.
 
