@@ -51,4 +51,4 @@ Gebruik [!DNL Webhooks] om gebruik te maken van externe webservices voor het ver
 
 >[!NOTE]
 >
->Leer meer in [[!DNL Webhooks] ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks) {target="_blank"} diepe duik.
+>Leer meer in [[!DNL Webhooks] ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}  diepe duik.

@@ -116,7 +116,7 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
 
    >[!NOTE]
    >
-   >Het Type van fragment **** kan niet op dit ogenblik worden gewijzigd.
+   >Het Type van fragment **&#x200B;**&#x200B;kan niet op dit ogenblik worden gewijzigd.
 
    De visuele ontwerper wordt geopend met een leeg canvas.
 
@@ -138,7 +138,7 @@ Klik op de naam van een fragment in de lijstpagina om de pagina met fragmentdeta
 
 Klik op **[!UICONTROL Edit fragment]** om het fragment te openen in de visuele inhoudeditor.
 
-Ga de mening op elk ogenblik weg door de _Achter_ pijl bij de hoogste linkerzijde te klikken, die u aan de _pagina van de de 3} lijst van Fragmenten {terugkeert._
+Ga de mening op elk ogenblik weg door de _Achter_ pijl bij de hoogste linkerzijde te klikken, die u aan de _pagina van de de 3&rbrace; lijst van Fragmenten &lbrace;terugkeert._
 
 ## Fragment weergeven dat wordt gebruikt door verwijzingen {#view-fragment-used-by-references}
 
@@ -159,7 +159,7 @@ Omdat een fragment dat momenteel in gebruik door een e-mail of e-mailmalplaatje 
 U kunt een fragment op een van de volgende manieren verwijderen:
 
 * Klik op **[!UICONTROL Delete]** in de fragmentdetails aan de rechterkant.
-* Klik op de aanbiedingspagina van _[!UICONTROL Fragments]_op de ovaal naast het fragment en kies **[!UICONTROL Delete]**.
+* Klik op de aanbiedingspagina van _[!UICONTROL Fragments]_&#x200B;op de ovaal naast het fragment en kies **[!UICONTROL Delete]**.
 
 Met deze handeling wordt een bevestigingsvenster geopend. U kunt het proces afbreken door op **[!UICONTROL Cancel]** te klikken of op **[!UICONTROL Delete]** te klikken om het verwijderen te bevestigen.
 
@@ -177,7 +177,7 @@ Bewerkingen aan een fragment zijn afhankelijk van de huidige status:
 
 >[!TAB  Ontwerp ]
 
-1. Klik op de aanbiedingspagina van _[!UICONTROL Fragments]_op de fragmentnaam om deze te openen.
+1. Klik op de aanbiedingspagina van _[!UICONTROL Fragments]_&#x200B;op de fragmentnaam om deze te openen.
 
    Er wordt een voorvertoning van de visuele inhoud weergegeven, met de fragmentdetails aan de rechterkant.
 
@@ -193,7 +193,7 @@ Bewerkingen aan een fragment zijn afhankelijk van de huidige status:
 
 >[!TAB  Gepubliceerd ]
 
-1. Klik op de aanbiedingspagina van _[!UICONTROL Fragments]_op de fragmentnaam om deze te openen.
+1. Klik op de aanbiedingspagina van _[!UICONTROL Fragments]_&#x200B;op de fragmentnaam om deze te openen.
 
    Er wordt een voorvertoning van de visuele inhoud weergegeven, met de fragmentdetails aan de rechterkant.
 
@@ -245,7 +245,7 @@ De inhoud bijwerken:
 
 U kunt een fragment op een van de volgende manieren dupliceren:
 
-* Van de _[!UICONTROL Fragments]_lijstpagina, klik het_ Meer _pictogram (**...**) naast de fragmentnaam en kies **[!UICONTROL Duplicate]**.
+* Van de _[!UICONTROL Fragments]_&#x200B;lijstpagina, klik het_ Meer _pictogram (**...**) naast de fragmentnaam en kies **[!UICONTROL Duplicate]**.
 * Klik rechtsboven op de pagina met fragmentdetails op **[!UICONTROL ... More]** en kies **[!UICONTROL Duplicate]** .
 
 ![ dupliceer het fragment ](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
@@ -288,7 +288,7 @@ De inhoud van het fragment wordt dynamisch bijgewerkt binnen de structuur om een
 >
 >Als u wilt dat het fragment de volledige horizontale lay-out binnen de e-mail in beslag neemt, voegt u een [!UICONTROL 1:1 column] -structuur toe en sleept u het fragment er vervolgens in.
 
-Nadat de sjabloon voor e-mail/e-mail is opgeslagen, wordt deze weergegeven op de pagina met fragmentdetails wanneer het tabblad _[!UICONTROL Used By]_is geselecteerd. Toegevoegde fragmenten kunnen niet worden bewerkt in de e-mail of de sjabloon. Het gepubliceerde bronfragment definieert de inhoud.
+Nadat de sjabloon voor e-mail/e-mail is opgeslagen, wordt deze weergegeven op de pagina met fragmentdetails wanneer het tabblad _[!UICONTROL Used By]_&#x200B;is geselecteerd. Toegevoegde fragmenten kunnen niet worden bewerkt in de e-mail of de sjabloon. Het gepubliceerde bronfragment definieert de inhoud.
 
 ## Fragmentacties tijdens het ontwerpen van e-mail- en sjablonen {#fragment-actions-during-email-and-template-authoring}
 

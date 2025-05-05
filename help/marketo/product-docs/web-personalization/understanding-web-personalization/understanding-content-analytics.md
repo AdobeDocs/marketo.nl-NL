@@ -86,7 +86,7 @@ De aanvullende inhoudanalyse omvat:
 
 * **Meningen**: De meningen van dat inhoudsstuk voor het geselecteerde tijdwerkingsgebied
 * **Directe Omzettingen**: De bezoekers van het Web die de inhoud bekeken en een vorm in het zelfde bezoek invulden.
-* **het Tarief van de Omzetting****:** het tarief van de percentageomzetting die door Directe Omzettingen wordt berekend die door Klikken worden gedeeld
+* **het Tarief van de Omzetting**&#x200B;**:** het tarief van de percentageomzetting die door Directe Omzettingen wordt berekend die door Klikken worden gedeeld
 
 **Trends**
 

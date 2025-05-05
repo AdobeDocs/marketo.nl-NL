@@ -17,7 +17,7 @@ Als u [ SSO ](/help/marketo/product-docs/administration/additional-integrations/
 
 >[!IMPORTANT]
 >
->Dit artikel is niet op [ toe:laten 1} Marketo abonnementen van Adobe IMS {van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+>Dit artikel is niet op [ toe:laten 1&rbrace; Marketo abonnementen van Adobe IMS &lbrace;van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
 
 >[!NOTE]
 >

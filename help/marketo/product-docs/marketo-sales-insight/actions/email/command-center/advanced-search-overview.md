@@ -83,13 +83,13 @@ Er zijn drie e-mailstatussen waaruit u kunt kiezen. De type-/activiteitopties ve
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Status: Verzonden**_
+_&#x200B;**Status: Verzonden**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filters op basis van de verzonden e-mailactiviteit. U kunt weergaven/geen weergaven kiezen, klikken/geen klikken, en/of antwoorden/geen antwoorden.
 
-_**Status: In behandeling**_
+_&#x200B;**Status: In behandeling**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtert op alle e-mails die in behandeling zijn.
  </tr>
 </table>
 
-_**Status: Onbevonden**_
+_&#x200B;**Status: Onbevonden**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

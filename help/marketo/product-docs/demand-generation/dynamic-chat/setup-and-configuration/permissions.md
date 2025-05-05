@@ -16,7 +16,7 @@ Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in d
 
 ## Bestaande machtigingen bewerken {#edit-existing-permissions}
 
-1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/) {target="_blank"}, klik **Dynamic Chat**.
+1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} , klik **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
@@ -50,7 +50,7 @@ U kunt dit proces nu herhalen voor alle/alle andere gebieden van de Dynamic Chat
 
 ## Een profiel maken {#create-a-profile}
 
-1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/) {target="_blank"}, klik **Dynamic Chat**.
+1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} , klik **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 

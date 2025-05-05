@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Een gebruiker toevoegen {#add-a-user}
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/) {target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} .
 
    ![](assets/add-or-remove-a-user-1.png)
 
@@ -62,7 +62,7 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij het Market
 >
 >U moet systeembeheerder zijn om een gebruiker te verwijderen.
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/) {target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} .
 
    ![](assets/add-or-remove-a-user-9.png)
 
@@ -90,5 +90,5 @@ De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij g
 
 >[!MORELIKETHIS]
 >
->* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html) {target="_blank"}
->* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html) {target="_blank"}
+>* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"} 
+>* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"} 

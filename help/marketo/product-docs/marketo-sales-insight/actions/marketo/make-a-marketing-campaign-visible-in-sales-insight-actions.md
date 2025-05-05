@@ -52,6 +52,6 @@ Met Handelingen van het Inzicht van de Verkoop, zullen de gebruikers toegang tot
 
    ![](assets/make-a-marketing-campaign-visible-sia-8.png)
 
-1. Klik het **lusje van het 0} Programma {en** activeer **de campagne.**
+1. Klik het **lusje van het 0&rbrace; Programma &lbrace;en** activeer **de campagne.**
 
    ![](assets/make-a-marketing-campaign-visible-sia-9.png)

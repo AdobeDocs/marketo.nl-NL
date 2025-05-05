@@ -101,4 +101,4 @@ Momenteel, steunt de nieuwe ontwerper slechts attributen, maar wij werken aan he
 
 **Hoe kan ik vertellen of is ons Marketo Engage abonnement gemigreerd aan IMS (Adobe Admin Console)?**
 
-Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}, uw abonnement is gemigreerd.
+Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"} , uw abonnement is gemigreerd.

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Stroom Step Service {#flow-step-service}
 
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo&#39;s Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie bij het schrijven van en het publiceren van uw eigen dienst, gelieve te verwijzen naar de [ bewaarplaats GitHub voor de Interface van Service Provider ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface) {target="_blank"}. Een proef-van-Concept implementatie van de Lijst van de Opzoeklijst kan [ hier ](https://github.com/adobe/mkto-flow-lookup) {target="_blank"} worden gevonden.
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo&#39;s Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie bij het schrijven van en het publiceren van uw eigen dienst, gelieve te verwijzen naar de [ bewaarplaats GitHub voor de Interface van Service Provider ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"} . Een proef-van-Concept implementatie van de Lijst van de Opzoeklijst kan [ hier ](https://github.com/adobe/mkto-flow-lookup){target="_blank"}  worden gevonden.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 
@@ -28,7 +28,7 @@ Klik op **[!UICONTROL Next]** om naar de sectie Servicereferenties invoeren te g
 
 ## Voer servicekredieten in {#enter-service-credentials}
 
-Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API Sleutel** die slechts één inputgebied heeft, **BasisAuthentificatie** die een gebruikersbenaming en wachtwoord vereist en ook een gebied genoemd Realm, en **OAuth2** gebruikend de _Toestemming van de Cliënt_ toelage vereist, die identiteitskaart van a _Cliënt 9} en en en en vereist_ Geheim van de Cliënt _._
+Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API Sleutel** die slechts één inputgebied heeft, **BasisAuthentificatie** die een gebruikersbenaming en wachtwoord vereist en ook een gebied genoemd Realm, en **OAuth2** gebruikend de _Toestemming van de Cliënt_ toelage vereist, die identiteitskaart van a _Cliënt 9&rbrace; en en en en vereist_ Geheim van de Cliënt _._
 
 Wanneer u uw geloofsbrieven bewaart, zal Marketo proberen om het statuseindpunt van de dienst te roepen om te verifiëren dat zij geldig zijn. Als de opgegeven referenties ongeldig zijn, wordt een fout weergegeven die dit aangeeft.
 

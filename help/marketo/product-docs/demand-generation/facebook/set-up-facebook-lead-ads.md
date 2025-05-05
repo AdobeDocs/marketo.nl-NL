@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Advertenties voor Facebook-leads instellen {#set-up-facebook-lead-ads}
 
-Het gebruik [ Advertentie van de Lood van Facebook ](https://www.facebook.com/business/ads/ad-objectives/lead-generation) {target="_blank"} om advertentiecampagnes in Facebook in werking te stellen en lood voor Marketo te produceren.
+Het gebruik [ Advertentie van de Lood van Facebook ](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"}  om advertentiecampagnes in Facebook in werking te stellen en lood voor Marketo te produceren.
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Het gebruik [ Advertentie van de Lood van Facebook ](https://www.facebook.com/bu
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Ga de Naam van de a **Vertoning** voor uw dienst in, selecteer de **3} dienst van de Advertentie van de Lood van Facebook {van de drop-down, en klik** creëren **.**
+1. Ga de Naam van de a **Vertoning** voor uw dienst in, selecteer de **3&rbrace; dienst van de Advertentie van de Lood van Facebook &lbrace;van de drop-down, en klik** creëren **.**
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
-1. Open een nieuw lusje in zelfde browser en ga naar [ facebook.com ](https://www.facebook.com) {target="_blank"}. Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
+1. Open een nieuw lusje in zelfde browser en ga naar [ facebook.com ](https://www.facebook.com){target="_blank"} . Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
 
    >[!NOTE]
    >
@@ -81,6 +81,6 @@ Het gebruik [ Advertentie van de Lood van Facebook ](https://www.facebook.com/bu
 
 >[!MORELIKETHIS]
 >
->* [ wijs/verwijder Toestemmingen in de Manager van de Toegang van Leads toe (Facebook) ](https://www.facebook.com/business/help/540596413257598?id=735435806665862) {target="_blank"}
+>* [ wijs/verwijder Toestemmingen in de Manager van de Toegang van Leads toe (Facebook) ](https://www.facebook.com/business/help/540596413257598?id=735435806665862){target="_blank"} 
 >* [ de Filters en de Trekkers van de Advertentie van het Gebruik van het Lood in een Slimme Campagne ](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}
 >* [ de Gebieden van de Aangepaste Kaart aan Marketo ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}

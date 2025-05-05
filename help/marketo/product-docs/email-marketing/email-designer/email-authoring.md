@@ -26,7 +26,7 @@ E-mails van de e-mailontwerper kunnen alleen in de Design Studio worden gemaakt 
 
 >[!TAB  Studio van het Ontwerp ]
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"} .
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
@@ -46,7 +46,7 @@ E-mails van de e-mailontwerper kunnen alleen in de Design Studio worden gemaakt 
 
 >[!TAB  E-mailprogramma ]
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/) {target="_blank"}.
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"} .
 
 1. Uw e-mailprogramma zoeken en selecteren (of maken).
 
@@ -194,7 +194,7 @@ De editor geeft het fragment weer binnen de sectie/het element van de e-mailstru
 >
 >Als u wilt dat het fragment de volledige horizontale lay-out binnen de e-mail in beslag neemt, voegt u een 1:1-kolomstructuur toe en sleept u het fragment er vervolgens in.
 
-Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTROL Used By]_van de pagina met fragmentdetails. Fragmenten die aan een e-mailsjabloon zijn toegevoegd, kunnen niet worden bewerkt in de sjabloon. Het bronfragment definieert de inhoud.
+Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTROL Used By]_&#x200B;van de pagina met fragmentdetails. Fragmenten die aan een e-mailsjabloon zijn toegevoegd, kunnen niet worden bewerkt in de sjabloon. Het bronfragment definieert de inhoud.
 
 ### Assets toevoegen {#add-assets}
 
@@ -226,13 +226,13 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
 1. Selecteer de kolom in de structuurcomponent direct in het canvas of gebruikend de _boom van de Navigatie_ die bij de linkerzijde wordt getoond.
 
-1. Klik in de kolomwerkbalk op het gereedschap _[!UICONTROL Select a column]_en kies het gereedschap dat u wilt bewerken.
+1. Klik in de kolomwerkbalk op het gereedschap _[!UICONTROL Select a column]_&#x200B;en kies het gereedschap dat u wilt bewerken.
 
-   U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_en_[!UICONTROL Styles]_ rechts.
+   U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_&#x200B;en&#x200B;_[!UICONTROL Styles]_ rechts.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_aan de rechterkant en wijzigt u deze naar wens:
+1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_&#x200B;aan de rechterkant en wijzigt u deze naar wens:
 
    * Wijzig voor **[!UICONTROL Background]** de achtergrondkleur zo nodig.
 
@@ -241,7 +241,7 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
    * Voor **[!UICONTROL Alignment]**, selecteer de _Hoogste_, _Midden_, of _Onderste_ pictogram.
    * Definieer bij **[!UICONTROL Padding]** de opvulling voor alle zijden.
 
-     Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot {om synchronisatie te breken.
+     Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot &lbrace;om synchronisatie te breken.
 
    * Vouw de sectie **[!UICONTROL Advanced]** uit om inline stijlen voor de kolom te definiëren.
 

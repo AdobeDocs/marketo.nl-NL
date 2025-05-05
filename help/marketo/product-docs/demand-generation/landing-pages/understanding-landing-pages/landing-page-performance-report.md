@@ -19,7 +19,7 @@ Zie hoeveel mensen de formulieren op de bestemmingspagina&#39;s hebben ingevuld 
 >
 >Als u een discrepantie in aantallen tussen uw Slimme Lijst en het Rapport van de Prestaties van de Landing van de Pagina ziet, is het waarschijnlijk omdat de Slimme Lijsten slechts gegevens op Mensen filtreren, terwijl de Rapporten van de Prestaties van de Openingspagina sociaal (Facebook, Google Advertentie, enz.) en anonieme activiteiten omvatten, naast de gegevens van Mensen.
 
-1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het Landing het rapporttype van de Prestaties van de Pagina [ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het Landing het rapporttype van de Prestaties van de Pagina [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het lusje van het Rapport.
 1. Dat is het! Verken uw rapport om te beoordelen hoe goed uw bestemmingspagina&#39;s doen.
 

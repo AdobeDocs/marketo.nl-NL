@@ -17,9 +17,9 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren.
 
 1. Meld u aan bij uw Google Tag Manager-account.
 
-1. Voeg een nieuwe tag toe > Tagconfiguraties > Aangepaste HTML-tag**.** Roep het **RTP**.
+1. Voeg een nieuwe tag toe > Tagconfiguraties > Aangepaste HTML-tag&#x200B;**.** Roep het **RTP**.
 
-1. Meld u aan bij uw RTP-account**.**
+1. Meld u aan bij uw RTP-account&#x200B;**.**
 
 1. Ga naar **Accountinstellingen**.
 

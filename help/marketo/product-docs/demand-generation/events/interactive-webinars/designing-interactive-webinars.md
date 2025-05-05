@@ -62,7 +62,7 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [ dit artikel van de Adobe hulp ](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings) {target="_blank"}.
+1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [ dit artikel van de Adobe hulp ](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"} .
 
 1. Wanneer u klaar bent met het ontwerpen van uw webinar, klik **Ruimte van de Uitgang**.
 

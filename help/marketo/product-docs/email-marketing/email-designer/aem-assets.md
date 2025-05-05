@@ -15,7 +15,7 @@ Verbind uw _as a Cloud Service van Adobe Experience Manager Assets_ rekening met
 
 >[!NOTE]
 >
->Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [ leer meer ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets) {target="_blank"}
+>Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [ leer meer ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"} 
 
 ## De AI Assistant-versnelling voor inhoud openen {#access-the-ai-assistant-content-accelerator}
 
@@ -99,7 +99,7 @@ Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuel
 
 ![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"} toegang te hebben
 
-* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_te openen.
+* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_&#x200B;te openen.
 
   In het dialoogvenster kunt u een afbeelding kiezen in de geselecteerde opslagplaats.
 

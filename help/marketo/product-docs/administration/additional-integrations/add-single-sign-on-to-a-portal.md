@@ -25,11 +25,11 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 >[!IMPORTANT]
 >
->Dit is niet van toepassing op abonnementen op Adobe Identity. Voor abonnementen op Adobe Identity, wordt Single Sign On opstelling op het niveau van de Adobe of van de  in Adobe Admin Console. Adobe Admin Console ondersteunt momenteel alleen SP-gestarte bestanden. [ leer meer hier ](https://helpx.adobe.com/enterprise/using/set-up-identity.html) {target="_blank"}.
+>Dit is niet van toepassing op abonnementen op Adobe Identity. Voor abonnementen op Adobe Identity, wordt Single Sign On opstelling op het niveau van de Adobe of van de  in Adobe Admin Console. Adobe Admin Console ondersteunt momenteel alleen SP-gestarte bestanden. [ leer meer hier ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} .
 
 >[!NOTE]
 >
->Bent u een [!DNL Microsoft Azure] gebruiker? Controle uit hun [ integratieleerprogramma ](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/) {target="_blank"}. FYI, er is een typefout in Stap 5c van hun zelfstudie. Gelieve te plaatsen de Staat van het Relais aan `https://<munchkinid>.mktoweb.com`, **_niet_** `https://<munchkinid>.marketo.com`.
+>Bent u een [!DNL Microsoft Azure] gebruiker? Controle uit hun [ integratieleerprogramma ](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"} . FYI, er is een typefout in Stap 5c van hun zelfstudie. Gelieve te plaatsen de Staat van het Relais aan `https://<munchkinid>.mktoweb.com`, **_niet_** `https://<munchkinid>.marketo.com`.
 
 ## Hoe te om het Verzoek te verzenden {#how-to-send-the-request}
 
@@ -69,7 +69,7 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 
    >[!NOTE]
    >
-   >Als u niet **[!UICONTROL Single Sign-On]** onder **[!UICONTROL Admin]** ziet, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) {target="_blank"}.
+   >Als u niet **[!UICONTROL Single Sign-On]** onder **[!UICONTROL Admin]** ziet, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} .
 
 1. Klik onder de sectie **[!UICONTROL SAML Settings]** op **[!UICONTROL Edit]** .
 
@@ -117,4 +117,4 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 >
 >* [ Gebruikend een Universele identiteitskaart voor de Login van het Abonnement ](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [ Beperk het Login van de Gebruiker tot SSO slechts ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122) {target="_blank"}
+>* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"} 

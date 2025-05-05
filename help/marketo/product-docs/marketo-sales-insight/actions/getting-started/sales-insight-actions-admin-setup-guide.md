@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Bevestig met het Team van de Rekening van de Adobe (uw Manager van de Rekening) dat de Acties MSI voor uw Rekening van het Marketo Engage zijn toegelaten (als u geen Manager van de Rekening hebt, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"}).
+>* Bevestig met het Team van de Rekening van de Adobe (uw Manager van de Rekening) dat de Acties MSI voor uw Rekening van het Marketo Engage zijn toegelaten (als u geen Manager van de Rekening hebt, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} ).
 >* Uw Marketo/Salesforce-synchronisatie moet zijn ingesteld.
 
 <table>
@@ -120,7 +120,7 @@ De het gebiedssynchronisatie van de gegevenseenmaking voor de Acties van het Inz
 
 >[!CAUTION]
 >
->Zodra u gegevenssynchronisatie in werking stelt, zou u **** niet de originele gebruiker op uw instantie van de Acties van het Inzicht van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
+>Zodra u gegevenssynchronisatie in werking stelt, zou u **&#x200B;**&#x200B;niet de originele gebruiker op uw instantie van de Acties van het Inzicht van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
 
 1. In Marketo, klik **Admin**.
 

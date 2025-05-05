@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een rapport klonen naar groepsrapporten {#clone-a-report-to-group-reports}
 
-Elk rapport in **Mijn Rapporten **is slechts zichtbaar aan u. Wat als u het verslag toegankelijk wilde maken voor alle anderen? Zo kunt u dat doen:
+Elk rapport in **Mijn Rapporten &#x200B;** is slechts zichtbaar aan u. Wat als u het verslag toegankelijk wilde maken voor alle anderen? Zo kunt u dat doen:
 
 1. In de **Analyse** gebied, klik op het gewenste gebied [opgeslagen rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 

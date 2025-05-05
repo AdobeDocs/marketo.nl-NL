@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Helpcentrum {#help-center}
 
-Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [ productdocumentatie ](/help/marketo/home.md){target="_blank"}, [ versieinformatie ](/help/marketo/release-notes/current.md){target="_blank"}, de [ Gemeenschap van de Natie van de Marketing ](https://nation.marketo.com/) {target="_blank"}), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
+Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [ productdocumentatie ](/help/marketo/home.md){target="_blank"}, [ versieinformatie ](/help/marketo/release-notes/current.md){target="_blank"}, de [ Gemeenschap van de Natie van de Marketing ](https://nation.marketo.com/){target="_blank"} ), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
 
 ## Toegang verkrijgen {#how-to-access}
 

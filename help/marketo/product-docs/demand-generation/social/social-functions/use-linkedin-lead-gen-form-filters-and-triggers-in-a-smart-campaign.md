@@ -19,7 +19,7 @@ Wanneer u LinkedIn Gen Forms hebt ingeschakeld, kunt u deze als filters en trigg
 >
 >Wanneer mensen hun informatie verzenden in een LinkedIn Gen-formulier, wordt die informatie direct doorgestuurd naar Marketo, zodat het formulier beschikbaar is in de vervolgkeuzelijst Naam van lead-gen-formulier. Formuliernamen zijn pas zichtbaar nadat ten minste één persoon het formulier heeft verzonden.
 
-1. Gebruik de **Vult uit LinkedIn Gids 1} trekker van de Vorm van de Leider uit om actie onmiddellijk te ondernemen of de** Gevulde uit Vorm LinkedIn Lood Gen **filter voor geplande partijcampagnes of standaard slimme lijst het filtreren.**
+1. Gebruik de **Vult uit LinkedIn Gids 1&rbrace; trekker van de Vorm van de Leider uit om actie onmiddellijk te ondernemen of de** Gevulde uit Vorm LinkedIn Lood Gen **filter voor geplande partijcampagnes of standaard slimme lijst het filtreren.**
 
    ![](assets/use-linkedin-lead-gen-form-filters-and-triggers-1.png)
 

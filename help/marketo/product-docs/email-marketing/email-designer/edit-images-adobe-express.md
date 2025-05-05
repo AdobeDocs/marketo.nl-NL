@@ -83,7 +83,7 @@ U kunt de Adobe Express-editor op twee manieren openen:
 
 ### Gebruikers met een Enterprise-licentie {#users-with-an-enterprise-license}
 
-Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen. Bezoek de [ Gids van de Gebruiker van Adobe Express ](https://helpx.adobe.com/express/user-guide.html) {target="_blank"} om over elke het plaatsen te leren.
+Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen. Bezoek de [ Gids van de Gebruiker van Adobe Express ](https://helpx.adobe.com/express/user-guide.html){target="_blank"}  om over elke het plaatsen te leren.
 
 >[!IMPORTANT]
 >

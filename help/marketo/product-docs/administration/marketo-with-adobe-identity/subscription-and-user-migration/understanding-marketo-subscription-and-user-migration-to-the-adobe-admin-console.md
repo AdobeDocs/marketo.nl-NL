@@ -16,7 +16,7 @@ Adobe verbetert de manier waarop u uw Adobe Marketo Engage-abonnementen en -gebr
 
 >[!TIP]
 >
->Leer hoe u Adobe Admin Console kunt gebruiken om uw rechten van Adobe over uw volledige organisatie met de [ Gids van de Onderneming en van Admin van Teams ](https://helpx.adobe.com/nl/enterprise/admin-guide.html) te beheren {target="_blank"}.
+>Leer hoe u Adobe Admin Console kunt gebruiken om uw rechten van Adobe over uw volledige organisatie met de [ Gids van de Onderneming en van Admin van Teams ](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"} te beheren .
 
 ## Wat verandert er? {#what-is-changing}
 
@@ -56,7 +56,7 @@ Er is momenteel geen wijziging in het gebruikersbeheer. Hoewel Marketo-producten
 
 >[!NOTE]
 >
->Als u momenteel geen SSO gebruikt maar aan het uitvoeren van het overweegt, adviseren wij dit te doen alvorens de gebruikersmigratie voorkomt. Als u Enig Sign wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje voor te leggen aan [ Steun van Marketo ](https://nation.marketo.com/) {target="_blank"} en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
+>Als u momenteel geen SSO gebruikt maar aan het uitvoeren van het overweegt, adviseren wij dit te doen alvorens de gebruikersmigratie voorkomt. Als u Enig Sign wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje voor te leggen aan [ Steun van Marketo ](https://nation.marketo.com/){target="_blank"}  en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
 
 ### Gebruikersmigratie plannen {#schedule-user-migration}
 
@@ -121,4 +121,4 @@ E-mail `marketocares@marketo.com` voor extra ondersteuning met betrekking tot uw
 >* [ migrerend aan het Overzicht van de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [ het Teken van de Gebruiker met Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [ Adobe Identity Management FAQ ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [ Migrerend aan de Leerprogramma van Identity Management van Adobe ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management) {target="_blank"}
+>* [ Migrerend aan de Leerprogramma van Identity Management van Adobe ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"} 

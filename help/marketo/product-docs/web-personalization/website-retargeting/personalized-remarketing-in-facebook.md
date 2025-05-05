@@ -18,7 +18,7 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 >[!PREREQUISITES]
 >
 >* Voltooi de [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) instellen
->* Controleer de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en Opmerking.
+>* Controleer de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en Opmerking.
 
 ## Een publiek maken in Facebook {#creating-an-audience-in-facebook}
 

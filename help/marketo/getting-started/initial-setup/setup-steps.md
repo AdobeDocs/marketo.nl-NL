@@ -44,7 +44,7 @@ Er zijn verschillende maatregelen die u kunt nemen om ervoor te zorgen dat de e-
 * **opstelling een MX verslag voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u van uw collectief domein verzendt, hebt u waarschijnlijk reeds gevormd dit. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
 * **geadviseerde Montages voor Van Adres.** U moet een geldig, bestaand en werkend e-maildomein in Van Adres in alle e-mailcampagnes gebruiken. Het kan nuttig zijn om subdomain van uw collectief domein eerder dan het verzenden van uw collectief domein te vormen. Dit zorgt ervoor dat problemen van uw zakelijke mailstream geen invloed hebben op uw Marketo mailstream en vice versa. Bovendien zorgt het verzenden van post van `something@nonexistentdomain.com` ervoor dat e-mail wordt gefilterd of geblokkeerd. Elk domein dat in het Van Adres van de afzender wordt gebruikt, moet een geldige en werkende postmaster@ en een misbruikaccount hebben.
 
-Als u Google Apps gebruikt om uw bedrijfs e-mail te ontvangen, zult u geen misbruik@ of postmaster@ e-mails onder uw domein kunnen tot stand brengen. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). De gedetailleerde instructies voor het creëren van groepen kunnen [ hier ](https://support.google.com/a/answer/33343#adminconsole) {target="_blank"} worden gevonden.
+Als u Google Apps gebruikt om uw bedrijfs e-mail te ontvangen, zult u geen misbruik@ of postmaster@ e-mails onder uw domein kunnen tot stand brengen. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). De gedetailleerde instructies voor het creëren van groepen kunnen [ hier ](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}  worden gevonden.
 
 Kies een NAAM voor e-mail volgende verbindingen (kies één die _verschillend_ van de het landen pagina CNAME u in Stap 3 koos) is. Enkele voorbeelden:
 
@@ -147,6 +147,7 @@ Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communi
 `3)` Lijst van gewenste personen Marketo.
 
     * Als wij IP adressen in onze Lijst van gewenste personen E-mail gebruiken, voeg hieronder vermelde IPs toe:
+
      199.15.212.0/22
     
      192.28.144.0/20
@@ -270,7 +271,7 @@ Marketo Engage heeft een JavaScript voor aangepaste reeksspatiëring ( [!DNL Mun
 
 ## Prestatieverwachtingen {#performance-expectations}
 
-Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatiesniveaus op gelijke met verwachten wat in de &quot;Standaard&quot;kolom in verscheidene van de lijsten wordt geschetst die in de [ beschrijving van het Product van de Marketo Engage ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html) {target="_blank"} worden gevonden. De &quot;Prestaties&quot;en &quot;Prestaties plus&quot;kolommen verwijzen naar de pakketten van de prestatiesrij die [ hogere prestatiesniveaus ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835) {target="_blank"} verstrekken.
+Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatiesniveaus op gelijke met verwachten wat in de &quot;Standaard&quot;kolom in verscheidene van de lijsten wordt geschetst die in de [ beschrijving van het Product van de Marketo Engage ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}  worden gevonden. De &quot;Prestaties&quot;en &quot;Prestaties plus&quot;kolommen verwijzen naar de pakketten van de prestatiesrij die [ hogere prestatiesniveaus ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}  verstrekken.
 
 >[!MORELIKETHIS]
 >

@@ -17,7 +17,7 @@ Engels niet uw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hieronder 
 
 >[!IMPORTANT]
 >
->Als uw abonnement van het Marketo Engage aan [ Marketo met de Identiteit van de Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, slechts [ tijdzone ](#change-your-time-zone) in dit artikel is op u van toepassing. Om uw taal en/of scène te veranderen, moeten die montages in uw [ profiel van de de rekeningsrekening van de Adobe ](https://account.adobe.com/profile) worden betreden {target="_blank"}.
+>Als uw abonnement van het Marketo Engage aan [ Marketo met de Identiteit van de Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, slechts [ tijdzone ](#change-your-time-zone) in dit artikel is op u van toepassing. Om uw taal en/of scène te veranderen, moeten die montages in uw [ profiel van de de rekeningsrekening van de Adobe ](https://account.adobe.com/profile){target="_blank"} worden betreden .
 
 ## Ondersteunde talen {#supported-languages}
 

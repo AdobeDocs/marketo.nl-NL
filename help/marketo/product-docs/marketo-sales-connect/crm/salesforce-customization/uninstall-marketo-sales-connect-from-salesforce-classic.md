@@ -85,7 +85,7 @@ Hieronder wordt beschreven hoe u het Marketo Sales Connect-pakket verwijdert van
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Naast de Mening van de Lijst van Leads, geeft de klik **** uit.
+1. Naast de Mening van de Lijst van Leads, geeft de klik **&#x200B;**&#x200B;uit.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
@@ -111,7 +111,7 @@ De knoppen in de weergave voor de lijst met leads worden niet meer weergegeven.
 
 1. Vouw in de linkernavigatiebalk onder Build (maar klik niet op) Aanpassen en vervolgens Opportunity uit. Dan, selecteer **Lay-outs van de Pagina**.
 
-1. Naast de Lay-out van de Kanaal, geeft de klik **** uit.
+1. Naast de Lay-out van de Kanaal, geeft de klik **&#x200B;**&#x200B;uit.
 
 1. Herhaal de stappen van alle drie de secties.
 
@@ -125,7 +125,7 @@ De opportuniteitsweergave heeft slechts één knop - &quot;MSE-mail verzenden&qu
 
 1. Vouw in de linkernavigatiebalk onder Build (maar klik niet op) Aanpassen en vervolgens Account. Dan, selecteer **Lay-outs van de Pagina**.
 
-1. Naast de Lay-out van de Rekening, geeft de klik **** uit.
+1. Naast de Lay-out van de Rekening, geeft de klik **&#x200B;**&#x200B;uit.
 
 1. Herhaal de stappen van alle drie de secties.
 

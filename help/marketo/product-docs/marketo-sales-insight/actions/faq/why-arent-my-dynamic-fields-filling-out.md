@@ -22,7 +22,7 @@ Er zijn drie soorten dynamische gebieden in de Acties van het Inzicht van de Ver
 
 Salesforce-velden: bijv. `{{sfdc_account_name}}`
 
-* Zorg ervoor het behoorlijk met de Acties van het Inzicht van de Verkoop wordt verbonden. Ga naar de [Instellingen](https://toutapp.com/login{target="_blank"} pagina en klik op **Beheren** naast uw CRM.
+* Zorg ervoor het behoorlijk met de Acties van het Inzicht van de Verkoop wordt verbonden. Ga naar de [Instellingen] (https://toutapp.com/login{target="_blank"} pagina en klik op **Beheren** naast uw CRM.
 
 **Problemen met basisvelden en aangepaste velden oplossen**
 

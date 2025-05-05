@@ -47,6 +47,6 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 
-1. Klik het **lusje van het 0} Programma {en** activeer **de campagne.**
+1. Klik het **lusje van het 0&rbrace; Programma &lbrace;en** activeer **de campagne.**
 
    ![](assets/make-a-marketing-campaign-visible-msc-9.png)

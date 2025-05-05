@@ -45,11 +45,11 @@ U kunt uw e-mailberichten eenvoudig testen. Eén grote test is de **Hele e-mail*
 
 1. Selecteer uw tweede e-mail.
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Klikken **Toevoegen** om de tweede e-mail toe te passen. Sleep de schuifregelaar om te kiezen welk percentage van het publiek u de A/B-test wilt ontvangen en klik op **Volgende**.
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

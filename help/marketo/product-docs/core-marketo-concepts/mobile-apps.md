@@ -12,4 +12,4 @@ ht-degree: 0%
 
 # Mobiele apps {#mobile-apps}
 
-** ![Inchecken van gebeurtenissen](assets/mobile-checkin-icon.png)Inchecken van gebeurtenissen** [Inchecken van gebeurtenissen maakt klanten via een tablet mogelijk om gebeurtenissen aan te melden.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Marketo Moments](assets/moments-icon.png)Marketo-momenten** [Marketo Moments kijken wat belangrijk is, wanneer het belangrijk is.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**&#x200B; ![Inchecken van gebeurtenissen](assets/mobile-checkin-icon.png)Inchecken van gebeurtenissen** [Inchecken van gebeurtenissen maakt klanten via een tablet mogelijk om gebeurtenissen aan te melden.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **&#x200B; ![Marketo Moments](assets/moments-icon.png)Marketo-momenten** [Marketo Moments kijken wat belangrijk is, wanneer het belangrijk is.](https://docs.marketo.com/display/DOCS/Marketo+Moments)

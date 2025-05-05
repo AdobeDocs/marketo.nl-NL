@@ -16,7 +16,7 @@ Zie hieronder voor antwoorden op een aantal veelgestelde vragen over Dynamic Cha
 
 **ik schijnen geen toegang tot Dynamic Chat te hebben. Hoe kan ik het krijgen?**
 
-Gelieve te bereiken uit aan uw Marketo Engage Admin en ervoor te zorgen zij u als gebruiker ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in Adobe Admin Console hebben toegevoegd.[
+Gelieve te bereiken uit aan uw Marketo Engage Admin en ervoor te zorgen zij u als gebruiker [&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} in Adobe Admin Console hebben toegevoegd.
 
 **kan ik Dynamic Chat overal op mijn bedrijfwebsite installeren of werkt het slechts op Marketo het Landing Pages?**
 
@@ -24,7 +24,7 @@ Het JavaScript-fragment van de Dynamic Chat kan op elke website en op Marketo La
 
 **hoe lang wordt het gegeven voor het melden opgeslagen?**
 
-90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html) te bezoeken {target="_blank"}.
+90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te bezoeken .
 
 **steunt de Dynamic Chat om het even welke talen naast Engels?**
 
@@ -88,7 +88,7 @@ Een dialoog is een gesprek dat automatisch wordt getoond aan Webbezoekers die aa
 
 **is er een manier om Dynamic Chat aan boekvergaderingen van e-mail direct te gebruiken?**
 
-Ja! [ leer hoe ](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936) {target="_blank"}.
+Ja! [ leer hoe ](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"} .
 
 **wat precies termen als &quot;Behoefte&quot;of &quot;Verkregen Mensen&quot;betekenen?**
 

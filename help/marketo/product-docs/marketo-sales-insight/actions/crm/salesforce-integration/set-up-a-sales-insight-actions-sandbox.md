@@ -73,7 +73,7 @@ Voor handelingen moet u eerst een nieuwe instantie activeren met een Salesforce-
 
 ## Vraag uw Instantie van Acties worden omgezet om compatibel met Uw zandbak van Salesforce te zijn {#request-your-actions-instance-be-converted}
 
-1. De Steun van het Marketo Engage van het contact ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"} om uw nieuwe instantie van de Acties van het Inzicht van de Verkoop te verzoeken wordt gevormd om compatibel met Sandbox te zijn Salesforce.[
+1. De Steun van het Marketo Engage van het contact [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}  om uw nieuwe instantie van de Acties van het Inzicht van de Verkoop te verzoeken wordt gevormd om compatibel met Sandbox te zijn Salesforce.
 
 1. Test alles op de juiste wijze door u aan te melden met de knop &quot;Aanmelden met Salesforce&quot; op de pagina toutapp.com/login.
 

@@ -122,9 +122,9 @@ Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Mark
 
 Kies een NAAM voor de bestemmingspagina&#39;s. Enkele voorbeelden:
 
-    * * **go**.[CompanyDomain].com
+    * &#x200B;* **go**.[CompanyDomain].com
     * ***www2**.[CompanyDomain].com
-    * * ** lp**.[CompanyDomain].com
+    * &#x200B;* **&#x200B; lp**.[CompanyDomain].com
 
 >[!TIP]
 >
@@ -227,6 +227,7 @@ Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communi
 `3)` Lijst van gewenste personen Marketo.
 
     * Als wij IP adressen in onze E-mailLijst van gewenste personen gebruiken, voeg hieronder vermelde IPs toe:
+
     199.15.212.0/22
     
     192.28.144.0/20

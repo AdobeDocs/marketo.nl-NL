@@ -43,6 +43,7 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
    1. Selecteer **Account.**
    1. Selecteer **Eigenschap.**
    1. Selecteren **Aangepaste definities** en **Aangepaste Dimension**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Voeg een nieuwe aangepaste dimensie toe. Klikken **+Nieuwe aangepaste Dimension**

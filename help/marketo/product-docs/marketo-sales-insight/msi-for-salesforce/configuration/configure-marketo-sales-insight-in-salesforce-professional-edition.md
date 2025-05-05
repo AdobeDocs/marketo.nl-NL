@@ -45,7 +45,7 @@ Configureer Marketo Sales Insight in Salesforce Professional Edition door de vol
    >
    >De geheime sleutel van uw API is als een wachtwoord voor uw organisatie en zou veilig moeten zijn.
 
-1. Als u de referenties wilt vullen, klikt u op **[!UICONTROL View]** in de _[!UICONTROL Rest API Configuration]_deelvenster.
+1. Als u de referenties wilt vullen, klikt u op **[!UICONTROL View]** in de _[!UICONTROL Rest API Configuration]_&#x200B;deelvenster.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 

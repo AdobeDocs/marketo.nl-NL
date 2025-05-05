@@ -314,13 +314,13 @@ U kunt segmenten verwijderen die u hebt gemaakt.
 
 >[!NOTE]
 >
-U kunt geen segment verwijderen dat aan een campagne is gekoppeld. Eerst moet u de campagne en dan het segment schrappen.
+>U kunt geen segment verwijderen dat aan een campagne is gekoppeld. Eerst moet u de campagne en dan het segment schrappen.
 
 Geweldig! Nu u de sectie van Segmenten begrijpt, leren wij over campagnes.
 
 >[!MORELIKETHIS]
 >
-* [Een basiswebsegment maken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-* [Een nieuwe webcampagne voor dialoog maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Nieuwe webcampagne maken in zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Nieuwe widgetwebcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Een basiswebsegment maken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [Een nieuwe webcampagne voor dialoog maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Nieuwe webcampagne maken in zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Nieuwe widgetwebcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

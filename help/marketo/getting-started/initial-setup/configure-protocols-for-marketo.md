@@ -54,7 +54,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **de Steun van de Adobe van het Contact [ ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
+`4` **de Steun van de Adobe van het Contact [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}  om het proces te beginnen van levering een SSL Certificaat.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 
@@ -243,7 +243,7 @@ DMARC-records hebben meerdere componenten, DMARC-tags genoemd. Elke tag heeft ee
 </tbody>
 </table>
 
-Voor volledige details rond DMARC en al zijn opties, gelieve te bezoeken [ https://dmarc.org/ ](https://dmarc.org/) {target="_blank"}.
+Voor volledige details rond DMARC en al zijn opties, gelieve te bezoeken [ https://dmarc.org/ ](https://dmarc.org/){target="_blank"} .
 
 ### DMARC en Marketo Engage {#dmarc-and-marketo-engage}
 
@@ -266,9 +266,9 @@ Er zijn twee typen uitlijning voor DMARC: DKIM-uitlijning en SPF-uitlijning.
 
    * DMARC configureren voor het domein van het gemerkte return-Path
 
-* Als u post van Marketo Engage door specifieke IP verzendt en niet reeds branded terugkeer-weg, of niet zeker bent als u hebt ingevoerd, te openen gelieve een kaartje met [ Steun van de Adobe ](https://nation.marketo.com/t5/support/ct-p/Support) {target="_blank"}.
+* Als u post van Marketo Engage door specifieke IP verzendt en niet reeds branded terugkeer-weg, of niet zeker bent als u hebt ingevoerd, te openen gelieve een kaartje met [ Steun van de Adobe ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} .
 
-* Als u post van Marketo Engage door een gedeelde pool van IPs verzendt, kunt u zien of kwalificeert u voor Vertrouwde IPs door [ hier van toepassing te zijn ](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) {target="_blank"}. Branded return-path wordt gratis aangeboden aan diegenen die vanuit Marketo Engage Trusted IPs verzenden. Als u dit programma goedkeurt, kunt u contact opnemen met de Adobe Support voor het instellen van een retourpad met branding.
+* Als u post van Marketo Engage door een gedeelde pool van IPs verzendt, kunt u zien of kwalificeert u voor Vertrouwde IPs door [ hier van toepassing te zijn ](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"} . Branded return-path wordt gratis aangeboden aan diegenen die vanuit Marketo Engage Trusted IPs verzenden. Als u dit programma goedkeurt, kunt u contact opnemen met de Adobe Support voor het instellen van een retourpad met branding.
 
    * Vertrouwde IPs: Een gedeelde pool van IPs die voor lagere volumegebruikers wordt gereserveerd die &lt;75K/maand verzenden die niet voor specifieke IP kwalificeren. Deze gebruikers moeten ook aan beste praktijkvereisten voldoen.
 

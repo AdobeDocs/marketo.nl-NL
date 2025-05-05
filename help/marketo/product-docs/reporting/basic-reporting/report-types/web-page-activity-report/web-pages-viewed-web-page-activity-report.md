@@ -17,7 +17,7 @@ Van het rapport van de Activiteit van de Pagina van het a [ Web ](/help/marketo/
 
 >[!PREREQUISITES]
 >
->Om activiteit van uw website in Marketo te vangen, moet u eerst opstelling Munchkin op uw plaats ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).[
+>Om activiteit van uw website in Marketo te vangen, moet u eerst opstelling Munchkin op uw plaats [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. In uw [ rapport van de Activiteit van de Pagina van het Web ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), klik de naam van de persoon.
 

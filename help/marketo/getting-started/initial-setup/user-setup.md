@@ -69,7 +69,7 @@ Uw nieuwe abonnementen van het Marketo Engage worden in kaart gebracht aan [ het
 
 ## Dynamic Chat bij Adobe Identity Management Setup {#dynamic-chat-on-adobe-identity-management}
 
-Om [ Dynamic Chat ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html) te gebruiken, gaat het inheemse kanaal van de gespreksautomatisering in Marketo Engage, met de opstelling van de gebruikerstoestemming na de stappen hieronder in [ Adobe Admin Console ](https://adminconsole.adobe.com/) {target="_blank"} te werk.
+Om [ Dynamic Chat ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html) te gebruiken, gaat het inheemse kanaal van de gespreksautomatisering in Marketo Engage, met de opstelling van de gebruikerstoestemming na de stappen hieronder in [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}  te werk.
 
 <table>
 <thead>

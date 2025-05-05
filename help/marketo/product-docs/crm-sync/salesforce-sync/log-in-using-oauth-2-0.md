@@ -53,14 +53,14 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 >[!PREREQUISITES]
 >
 >* API-toegang moet zijn ingeschakeld voor de Salesforce Sync-gebruiker (als u een Salesforce Professional Edition-gebruiker bent, is deze toegang niet standaard beschikbaar. Neem contact op met de Salesforce Account Executive).
-* Marketo Sync-gebruiker moet worden gemaakt in Salesforce.
-* Voor bestaande klanten is de functie &quot;OAuth inschakelen voor SFDC-synchronisatie&quot; ingeschakeld op het abonnement van de klant.
-* Pop-upblokkeerprogramma&#39;s zijn uitgeschakeld.
-* Connected App is gemaakt en we hebben de Consumer Key en Consumer Secret beschikbaar voor gebruik.
+>* Marketo Sync-gebruiker moet worden gemaakt in Salesforce.
+>* Voor bestaande klanten is de functie &quot;OAuth inschakelen voor SFDC-synchronisatie&quot; ingeschakeld op het abonnement van de klant.
+>* Pop-upblokkeerprogramma&#39;s zijn uitgeschakeld.
+>* Connected App is gemaakt en we hebben de Consumer Key en Consumer Secret beschikbaar voor gebruik.
 
 >[!CAUTION]
 >
-Verberg alle velden die u niet nodig hebt in Marketo door de synchronisatiegebruiker voordat u op **[!UICONTROL Sync Fields]**. Nadat u op Velden synchroniseren hebt geklikt, worden alle velden die de gebruiker kan zien in SFDC permanent gemaakt in Marketo en kunnen deze niet meer worden verwijderd.
+>Verberg alle velden die u niet nodig hebt in Marketo door de synchronisatiegebruiker voordat u op **[!UICONTROL Sync Fields]**. Nadat u op Velden synchroniseren hebt geklikt, worden alle velden die de gebruiker kan zien in SFDC permanent gemaakt in Marketo en kunnen deze niet meer worden verwijderd.
 
 1. Klik in de sectie Marketo Admin op **[!UICONTROL CRM]** vervolgens **[!UICONTROL Sync with Salesforce]**.
 
@@ -76,7 +76,7 @@ Verberg alle velden die u niet nodig hebt in Marketo door de synchronisatiegebru
 
    >[!CAUTION]
    >
-   Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Zie [Marketo instellen met basisverificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, wordt er niet overgeschakeld op Salesforce-gegevens of -abonnement. Als u Oauth 2.0 wilt gebruiken, contacteer aan het Team van de Rekening van de Adobe (uw Manager van de Rekening).
+   >Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Zie [Marketo instellen met basisverificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, wordt er niet overgeschakeld op Salesforce-gegevens of -abonnement. Als u Oauth 2.0 wilt gebruiken, contacteer aan het Team van de Rekening van de Adobe (uw Manager van de Rekening).
 
 1. Er wordt een pop-up weergegeven met de aanmeldingspagina voor verkopers. Sleutel in uw aanmeldingsgegevens voor &quot;Marketo Sync User&quot; (Gebruiker synchroniseren) en meld u aan.
 
@@ -108,7 +108,7 @@ Uw Synchronisatie tussen Marketo en Salesforce is nu aan de gang.
 
 >[!MORELIKETHIS]
 >
-* [Stap 1 van 3: Voeg Marketo-velden toe aan Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
-* [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
-* [Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
-* [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [Stap 1 van 3: Voeg Marketo-velden toe aan Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>* [Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}

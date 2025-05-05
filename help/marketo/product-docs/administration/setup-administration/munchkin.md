@@ -15,4 +15,4 @@ ht-degree: 0%
 
 [!DNL Munchkin] is het JavaScript-fragment dat u op uw website hebt geplaatst. Er worden bezoeken bijgehouden, er wordt geklikt en er worden formulieren ingevuld. Het heeft ook een rijke API om allerlei leuke dingen te doen.
 
-Controle uit de [ ontwikkelaarspagina op  [!DNL Munchkin] ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) {target="_blank"} om meer te leren.
+Controle uit de [ ontwikkelaarspagina op  [!DNL Munchkin] ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}  om meer te leren.
