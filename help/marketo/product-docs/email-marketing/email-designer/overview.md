@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 
 De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mailsjablonen en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele drag-and-drop editor en standaardsjablonen voor &#39;out-of-the-box&#39; te bieden. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
 
+>[!NOTE]
+>
+>Hoewel de e-mail Designer in alle grote browsers kan worden geopend, wordt de volledige functionaliteit in Firefox momenteel niet ondersteund.
+
 ## Toegang krijgen {#how-to-access}
 
 +++Leer hoe u toegang krijgt tot de e-mailontwerper
 
-Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
@@ -101,4 +105,8 @@ Momenteel, steunt de nieuwe ontwerper slechts attributen, maar wij werken aan he
 
 **Hoe kan ik vertellen of is ons Marketo Engage abonnement gemigreerd aan IMS (Adobe Admin Console)?**
 
-Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"} , uw abonnement is gemigreerd.
+Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}, uw abonnement is gemigreerd.
+
+**Welke browsers kan ik met nieuwe E-mail Designer gebruiken?**
+
+Het wordt aanbevolen Google Chrome, Apple Safari of Microsoft Edge te gebruiken. Volledige ondersteuning voor Mozilla Firefox is later beschikbaar.
