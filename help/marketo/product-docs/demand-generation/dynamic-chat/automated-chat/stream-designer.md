@@ -3,9 +3,9 @@ description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1175'
 ht-degree: 0%
 
 ---
@@ -141,15 +141,15 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
 
    ![](assets/stream-designer-10.png)
 
-1. Klik in de kolom aan de rechterkant op **[!UICONTROL Save]** .
+1. Kies uw verpletterende optie en klik **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Aangezien dat een doel is, sleept u de [!UICONTROL Goal] -kaart onder de Planner voor benoemingen.
+1. Aangezien dat een doel is, sleept u de _[!UICONTROL Goal]_-kaart onder de Meeting-boeking.
 
    ![](assets/stream-designer-12.png)
 
-1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]** .
+1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]** . Het toewijzen van een gespreksscore is optioneel.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
    >
    >U kunt meer reacties toevoegen door op **[!UICONTROL Add Response]** te klikken.
 
-1. Onder het antwoord &quot;Ja&quot; sleept u over de kaart voor het vastleggen van gegevens, zodat u de e-mail van de bezoeker kunt verzamelen.
+1. Onder &quot;ja&quot;reactie, sleep over de _kaart van de Vangst van Info_ zodat kunt u e-mail van de bezoeker verzamelen.
 
    ![](assets/stream-designer-16.png)
 
-1. Klik op de vervolgkeuzelijst **[!UICONTROL Type]** en selecteer **[!UICONTROL Email]** .
+1. Klik op de vervolgkeuzelijst en selecteer **[!UICONTROL Email Address]** .
 
    ![](assets/stream-designer-17.png)
 
-1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het desbetreffende veld in Marketo Engage en klik op **[!UICONTROL Save]** .
+1. Voer een chatbotbericht en tijdelijke aanduiding in. Als er al een waarde voor dit attribuut in uw gegevensbestand is, kies of u wilt overslaan, of deze gegevens hebben het overschrijven. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Type</strong></td>
-     <td>Het type informatie dat u wilt vastleggen: Telefoon, Tekst, E-mail.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Chatbotbericht</strong></td>
-     <td>Het bericht dat de bezoeker ziet hen ertoe aanzetten om de info te verstrekken.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Plaatsaanduiding</strong></td>
-     <td>Voorbeeldtekst waarmee de bezoeker kan zien wat er moet worden ingevoerd.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Reactie toewijzen aan kenmerk</strong></td>
-     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Person-record in uw Marketo Engage-abonnement.</td>
-    </tr>
-   </table>
-
-1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de [!UICONTROL Goal] -kaart onder Info Vastleggen.
+1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de _[!UICONTROL Goal]_-kaart onder Info Vastleggen.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
 
    ![](assets/stream-designer-22.png)
 
-1. Selecteer de schakeloptie **[!UICONTROL Preview]** om een voorvertoning van het dialoogvenster weer te geven.
-
-   ![](assets/stream-designer-23.png)
-
 1. Klik op **[!UICONTROL Publish]** als u klaar bent om uw dialoogvenster te activeren.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
