@@ -1,22 +1,22 @@
 ---
 description: Algemeen AI-overzicht - Marketo Docs - Productdocumentatie
-title: Algemeen AI-overzicht
+title: Generatieve AI in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
 
-# Algemeen AI-overzicht {#generative-ai-overview}
+# Generatieve AI in Dynamic Chat {#generative-ai-overview}
 
 Met de generatieve AI-functies in Adobe Dynamic Chat kunt u de productiviteit van uw verkoopagenten optimaliseren, inzicht krijgen in de intentie van uw websitebezoeker en op een veilige manier op bezoekersvragen reageren.
 
 ## Machtigingen {#permissions}
 
-Om generatieve AI te kunnen gebruiken, moet u ervoor zorgen dat de gewenste gebruikers de juiste [machtigingen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+Om generatieve AI te gebruiken, ben zeker om de gewenste gebruikers de aangewezen [ toestemmingen ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) te verlenen.
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -28,7 +28,7 @@ Creeer een bericht voor de bezoeker voor wanneer zij een bepaald punt in het ges
 
 ## Overzicht van gesprekken {#conversation-summary}
 
-Typisch om de volledige context van een bezoekersgesprek te krijgen, moet u door de volledige praatjetranscriptie scrollen. Het Samenvatting van de dialoog produceert een samenvatting voor u in real time, en omvat zelfs onderwerpen de bezoeker verklaarde interesse in. Dit is vooral nuttig aan praatjeagenten die snelle context van een gesprek nodig hebben wanneer zij tussen chats met veelvoudige bezoekers schakelen. Naast het zijn zichtbaar in het de praatjescherm van de Agent Inbox, kunnen de voltooide Samenvattingen van de Gesprek van de Gesprek ook in het activiteitenlogboek van het Verslag van de Persoon van de bezoeker in uw Gegevensbestand van het Marketo Engage worden gevonden.
+Typisch om de volledige context van een bezoekersgesprek te krijgen, moet u door de volledige praatjetranscriptie scrollen. Het Samenvatting van de dialoog produceert een samenvatting voor u in real time, en omvat zelfs onderwerpen de bezoeker verklaarde interesse in. Dit is vooral nuttig aan praatjeagenten die snelle context van een gesprek nodig hebben wanneer zij tussen chats met veelvoudige bezoekers schakelen. Naast het zijn zichtbaar in het de praatjescherm van de Agent Inbox, kunnen de voltooide Samenvattingen van de Gesprek van de Gesprek ook in het activiteitenlogboek van het Verslag van de Persoon van de bezoeker in uw Gegevensbestand van Marketo Engage worden gevonden.
 
 ![](assets/generative-ai-overview-3.png)
 
@@ -40,45 +40,45 @@ Typisch om de volledige context van een bezoekersgesprek te krijgen, moet u door
 
 ## Vraaggeneratie {#question-generation}
 
-[Binnenkomende ervaringen versnellen](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) met AI-gesprekken voor bezoekers die een interface gebruiken die is opgeleid voor verkoop, marketing en productkennis.
+[ verhoog binnenkomende ervaringen ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) met AI-bijgewoonde gesprekken voor bezoekers die een interface gebruiken die met verkoop, marketing, en productkennis wordt opgeleid.
 
 ![](assets/generative-ai-overview-5.png)
 
 ## Responsbibliotheek {#response-library}
 
-[Een aangepaste verzameling maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) alle vooraf door u goedgekeurde vragen en antwoorden voor gebruik in de chatcampagnes van Generative AI.
+[ produceer een aangepaste inzameling ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) van vragen en antwoorden, allen die door u, voor gebruik binnen Generatieve AI praatjecampagnes vooraf worden goedgekeurd.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Activiteitenlogboek {#activity-log}
 
-[Een lijst met alle taken bekijken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) en de bijbehorende gegevens, met inbegrip van naam, eigenaar, type en door wie en wanneer.
+[ zie een lijst van alle taken ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) en hun begeleidende details, met inbegrip van naam, eigenaar, type, en wie hen en toen heeft uitgegeven.
 
 ![](assets/generative-ai-overview-7.png)
 
 ## Onbeantwoorde vragen {#unanswered-questions}
 
-[Aanvullende vooraf goedgekeurde reacties maken](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) voor uw reactiebibliotheek die AI gebruikt op een bewaarplaats van onbeantwoorde vragen van vorige gesprekken wordt gebaseerd.
+[ creeer extra pre-goedgekeurde reacties ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) voor uw antwoordbibliotheek gebruikend AI die op een bewaarplaats van onbeantwoorde vragen van vorige gesprekken wordt gebaseerd.
 
 ![](assets/generative-ai-overview-8.png)
 
 ## Onderwerpen besproken {#discussed-topics}
 
-De besproken Onderwerpen zijn beschikbaar in Slimme trekkers en de filters van de Lijst als beperking, die u toestaan om neer in uw Dynamic Chat inzichten te boren.
+De besproken Onderwerpen zijn beschikbaar in Slimme de trekkers en filters van de Lijst als beperking, die u toestaan om neer in uw inzichten van Dynamic Chat verder te boren.
 
 ![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >
->Wanneer u generatieve AI gebruikt, moet u zich houden aan de [Adobe Experience Cloud Generative AI-gebruikersrichtlijnen](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) We kunnen er dus voor zorgen dat Adobe Experience Cloud-functies die generatieve AI bevatten op een veilige en verantwoorde manier worden gebruikt.
+>Wanneer het gebruiken van generatieve AI, moet u zich aan de [ Generatieve AI Richtlijnen van de Gebruiker van Adobe Experience Cloud ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) houden zodat kunnen wij de eigenschappen verzekeren van Adobe Experience Cloud die generatieve AI opnemen op een veilige en verantwoordelijke manier worden gebruikt.
 
 ## Veelgestelde vragen {#faq}
 
-**Is generatieve AI beschikbaar voor alle gebruikers van de Dynamic Chat?**
+**is generatieve AI beschikbaar aan alle gebruikers van Dynamic Chat?**
 
-Generatieve AI is alleen beschikbaar voor Dynamics Chat-premiers. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+Generative AI is alleen beschikbaar voor Dynamic Chat Prime-abonnees. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-**Is er een limiet aan de hoeveelheid vragen en antwoorden die ik kan genereren?**
+**is er een grens aan de hoeveelheid vragen &amp; antwoorden ik kan geproduceerd hebben?**
 
 Ja. Op dit moment is er een levenslange limiet van 1000.
 
