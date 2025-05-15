@@ -227,6 +227,6 @@ Een beheerder kan alle in aanmerking komende gebruikers in een abonnement op elk
 
 ![](assets/migrating-to-adobe-identity-24.png)
 
-Op het klikken van de **Migreer Alle Gebruikers** knoop, zal de beheerder worden ertoe aangezet **** migratie van alle in aanmerking komende gebruikers bevestigen. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
+Op het klikken van de **Migreer Alle Gebruikers** knoop, zal de beheerder worden ertoe aangezet **&#x200B;**&#x200B;migratie van alle in aanmerking komende gebruikers bevestigen. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
 
 ![](assets/migrating-to-adobe-identity-25.png)
