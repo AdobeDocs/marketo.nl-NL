@@ -3,9 +3,9 @@ description: Adobe Identity Management FAQ - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: a68c843e5f454cc782ee5f7647adb57f56b04548
+source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1645'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Bestaande Marketo Engage-abonnementen worden momenteel gemigreerd naar de Adobe 
 
 **Na migratie, zal Marketo Engage URLs het zelfde blijven?**
 
-Nee. URL&#39;s zien er na de migratie anders uit.
+Nee. URL&#39;s worden na migratie in de volgende indeling weergegeven: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (de XXX&#39;s geven de Munchkin-id aan en @huurderID komt van uw Adobe-org).
 
 **is er om het even wat wij moeten doen voor de verandering voorbereidingen treffen URL?**
 
@@ -36,9 +36,11 @@ Ja. Na de migratie gaat Marketo Engage van experience.adobe.com naar Adobe Exper
 
 De vorige verbindingen en de referenties aan de activa van Marketo Engage op het engage-xx.marketo.com domein _zullen_ blijven functioneren. U moet zich echter eerst aanmelden bij de Marketo Engage-instantie voor de URL waarnaar u navigeert. Als u bijvoorbeeld naar een bladwijzer voor een slimme campagne wilt navigeren, bijvoorbeeld met Munchkin ID 123-ABC-456, moet u zich eerst aanmelden bij de Marketo Engage-instantie met Munchkin ID 123-ABC-456.
 
+Deze omleidingsfunctie kan door toekomstige ontwikkelingswerkzaamheden worden verbroken, maar niet gepland. Om onverwachte onderbrekingen te voorkomen, wordt aangeraden bladwijzers zo snel mogelijk bij te werken.
+
 **werkt dit met SSO?**
 
-Ja. De integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. Nochtans, zijn er verschillen in Marketo Engage IDP-Toegelaten steun in vergelijking met Adobe SP-In werking gestelde steun ([ leren meer hier ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"} ). Als u hulp betreffende SSO verschillen na wordt gemigreerd aan Admin Console nodig hebt, gelieve [&#128279;](https://helpx.adobe.com/nl/contact.html){target="_blank"}  te contacteren van de klantenzorg van 0&rbrace; Adobe.
+Ja. De integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. Nochtans, zijn er verschillen in Marketo Engage IDP-Toegelaten steun in vergelijking met Adobe SP-In werking gestelde steun ([ leren meer hier ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}). Als u hulp betreffende SSO verschillen na wordt gemigreerd aan Admin Console nodig hebt, gelieve [ de Zorg van de Klant van Adobe ](https://helpx.adobe.com/contact.html){target="_blank"} te contacteren.
 
 **wat is het verschil tussen een Admin van het Product van Adobe en een Admin van Marketo Engage?**
 
@@ -51,7 +53,7 @@ Ja. De integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. 
 
 **is er om het even welke verandering in de cliëntsteun van het Beheer van de Gebruiker API?**
 
-Ja. Degenen die aan Adobe IMS zijn aangemeld, kunnen niet alle bestaande Marketo-API&#39;s voor gebruikersbeheer gebruiken. Voor gebruiker nodig, update, en schrappingsacties, zou Adobe [ IMS APIs ](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"}  moeten worden gebruikt. Voor rolbeheer zijn de Marketo-API&#39;s voor gebruikersbeheer nog steeds van toepassing. Daarnaast zijn er geen andere wijzigingen in de Marketo REST API-clientondersteuning.
+Ja. Degenen die aan Adobe IMS zijn aangemeld, kunnen niet alle bestaande Marketo-API&#39;s voor gebruikersbeheer gebruiken. Voor gebruiker nodig, update, en schrappingsacties, zou Adobe [ IMS APIs ](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"} moeten worden gebruikt. Voor rolbeheer zijn de Marketo-API&#39;s voor gebruikersbeheer nog steeds van toepassing. Daarnaast zijn er geen andere wijzigingen in de Marketo REST API-clientondersteuning.
 
 **wie contacteren wij voor steun als wij met IMS geïntegreerd zijn?**
 
@@ -73,19 +75,19 @@ Nee. Gebruikersrolbeheer (binnen werkruimten) wordt voltooid in Marketo Engage.
 
 **ik ben Marketo Admin in een geïntegreerd abonnement IMS en heb geen toegang tot Admin Console. Hoe krijg ik toegang?**
 
-Elke Adobe System of Product Admin die toegang heeft tot de Admin Console van uw organisatie kan u toegang geven. Als u niet zeker bent wie in uw organisatie beheerdervoorrechten in de console heeft, contacteer [&#128279;](https://helpx.adobe.com/nl/contact.html){target="_blank"}  de Zorg van de Klant van 0&rbrace; Adobe.
+Elke Adobe System of Product Admin die toegang heeft tot de Admin Console van uw organisatie kan u toegang geven. Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer [ de Zorg van de Klant van Adobe ](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **hoe Admin gebruikers aan Marketo [!DNL Sales Connect] zou toevoegen?**
 
-Hoewel er een productkaart in Admin Console for [!DNL Sales Connect] wordt weergegeven, mag Admin Console niet worden gebruikt om gebruikers toe te voegen/te beheren. De volgende verbinding zal Admins toestaan om gebruikers via Marketo [!DNL Sales Connect] te beheren: [ https://toutapp.com/next#settings/admin/user-management ](https://toutapp.com/next#settings/admin/user-management){target="_blank"} .
+Hoewel er een productkaart in Admin Console for [!DNL Sales Connect] wordt weergegeven, mag Admin Console niet worden gebruikt om gebruikers toe te voegen/te beheren. De volgende verbinding zal Admins toestaan om gebruikers via Marketo [!DNL Sales Connect] te beheren: [ https://toutapp.com/next#settings/admin/user-management ](https://toutapp.com/next#settings/admin/user-management){target="_blank"}.
 
 **waar kan ik meer over Adobe Admin Console leren?**
 
-[ https://helpx.adobe.com/nl/enterprise/admin-guide.html ](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"} .
+[ https://helpx.adobe.com/enterprise/admin-guide.html ](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"}.
 
 **ga ik nog naar de Admin sectie in Marketo om gebruikersrekeningsveranderingen voor mijn rekening aan te brengen?**
 
-Nr, zou u aan [ account.adobe.com ](https://account.adobe.com){target="_blank"}  moeten navigeren.
+Nr, zou u aan [ account.adobe.com ](https://account.adobe.com){target="_blank"} moeten navigeren.
 
 **hoe werkt dit met universele identiteitskaart van Marketo?**
 
@@ -93,11 +95,11 @@ Degenen die aan de Adobe-identiteit zijn gekoppeld, hebben naadloos toegang tot 
 
 **werkt dit met SSO?**
 
-Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. [ leer meer hier ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"} .
+Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. [ leer hier meer ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **ik ben reeds aan de Identiteit van Adobe ingetekend en nu wil ik SSO uitvoeren. Wat doe ik?**
 
-Als u Enig Sign wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje voor te leggen aan [ Steun van Marketo ](https://nation.marketo.com/){target="_blank"}  en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
+Als u Single Sign On wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje aan [ Steun van Marketo ](https://nation.marketo.com/){target="_blank"} voor te leggen en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
 
 **hoe werkt de apparatenvergunning?**
 
@@ -109,7 +111,7 @@ Nee. De uitnodigingsworkflow van de gebruiker is niet meer actief wanneer een ab
 
 **voor Adobe IMS, hebben wij de optie om Adobe ID, Enterprise ID, of Federated ID te gebruiken?**
 
-Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Meer info kan hier worden gevonden: [ Overzicht van de Identiteit ](https://helpx.adobe.com/nl/enterprise/using/identity.html) en hier: [ Opstelling Identiteit ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"} .
+Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Meer info kan hier worden gevonden: [ Overzicht van de Identiteit ](https://helpx.adobe.com/enterprise/using/identity.html) en hier: [ Opstelling Identiteit ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Welke productkaarten worden gesteund in Adobe Admin Console?**
 
@@ -117,19 +119,19 @@ De ondersteunde productkaarten zijn: Marketo Engage, Marketo Measure, Marketo Dy
 
 **wat als mijn gebruikerslogin niet mijn e-mail aanpast wanneer ik gemigreerd aan een Identiteit van Adobe?**
 
-Huidige Marketo Engage-gebruikers met een andere aanmeldingsnaam dan hun e-mailadres kunnen zich niet meer aanmelden met die referentie als ze eenmaal naar een Adobe Identity zijn gemigreerd. Adobe-identiteiten worden altijd geverifieerd met het e-mailadres van een gebruiker. U kunt een adres van de identiteitskaart van Adobe in [ account.adobe.com ](https://account.adobe.com){target="_blank"} bijwerken .
+Huidige Marketo Engage-gebruikers met een andere aanmeldingsnaam dan hun e-mailadres kunnen zich niet meer aanmelden met die referentie als ze eenmaal naar een Adobe Identity zijn gemigreerd. Adobe-identiteiten worden altijd geverifieerd met het e-mailadres van een gebruiker. U kunt een adres van de identiteitskaart van Adobe op [ account.adobe.com bijwerken ](https://account.adobe.com){target="_blank"}.
 
 **wat gebeurt na de migratie van de Identiteit van Adobe als mijn abonnement IP beperkingsmontages gebruikt?**
 
 Wanneer abonnementen op Adobe Identity worden geregistreerd, worden de instellingen voor IP-beperkingen niet naar de Adobe Admin Console gemigreerd. De de beperkingsmontages van Marketo IP omvatten het toestaan van slechts toegang van specifieke IP adressen, en het blokkeren van specifieke IP adressen van toegang. Op dit moment biedt Adobe Identity Management System geen ondersteuning voor IP-beperkingsfuncties.
 
-Vanaf begin 2025 zal Adobe Identity Management System een functie vrijgeven die alleen specifieke IP-adressen ondersteunt en die een overgang ondersteunt voor Marketo-gebruikers die momenteel gebruikmaken van deze functie. Degenen die deze functie momenteel gebruiken, worden pas door de gebruiker gemigreerd als de functie wordt vrijgegeven. Zodra de functie is geleverd, zullen gebruikers op de hoogte worden gesteld van de geplande migratie. Meer informatie over de functie wordt weergegeven als deze beschikbaar is.
+Medio 2025 zal het Systeem van Adobe Identity Management een eigenschap vrijgeven die slechts specifieke IP adressen toestaat, ondersteunend een overgang voor de gebruikers van Marketo die momenteel deze eigenschap gebruiken. Degenen die deze functie momenteel gebruiken, worden pas door de gebruiker gemigreerd als de functie wordt vrijgegeven. Zodra de functie is geleverd, zullen gebruikers op de hoogte worden gesteld van de geplande migratie. Meer informatie over de functie wordt weergegeven als deze beschikbaar is.
 
 Gebruikers die momenteel de IP-beperking gebruiken en specifieke adressen blokkeren voor toegang, kunnen deze functie niet meer gebruiken nadat ze naar Adobe Identity zijn gemigreerd, omdat deze functie niet wordt ondersteund door Adobe Identity Management System.
 
 **wat gebeurt na de migratie van de Identiteit van Adobe als ik gebruikers met een rol heb die de optie om &quot;het Enige Teken van de Bypass&quot;te mijden heeft?**
 
-Wanneer abonnementen op Adobe Identity worden geregistreerd, wordt Single Sign On (SSO) ingesteld op Adobe-organisatieniveau voor alle gebruikers. Als SSO is ingesteld, wordt deze afgedwongen voor alle Marketo-gebruikers/alle Marketo-instanties in die Adobe Org. Eerder ondersteunde Marketo het toestaan van een gebruikersrol om de optie &#39;Afzonderlijke aanmelding omzeilen&#39; in te stellen. Dit wordt niet ondersteund door Adobe Identity Management System.
+Adobe Admin Console wordt geleverd met een standaard Business ID-directory. Gebruikers buiten de domeinen die worden geclaimd in Federated ID-directory&#39;s in een Adobe Org, worden toegewezen aan deze map met een Adobe ID-identiteitstype. Deze gebruikers kunnen Marketo Engage openen zonder Single Sign On (SSO) en het eigendom van de licentie blijft bij het bedrijf, niet bij de personen.
 
 **ik heb meer dan één abonnement, maar niet allen toegelaten Enig Teken hebben. Wat gebeurt er na de migratie naar Adobe Identity?**
 
@@ -141,10 +143,10 @@ Nee, er zijn geen gevolgen voor deze configuraties.
 
 **Hoe kan ik zittingen verhinderen uit timing?**
 
-In [ Geavanceerde Montages ](https://helpx.adobe.com/nl/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} , kunt u het gewenste maximumzittingsleven (de toestemmingen van Admin van het Systeem vereiste) aanpassen. Het wordt aanbevolen deze instelling in te stellen na de migratie van het product, maar vóór de migratie van de gebruiker.
+In [ Geavanceerde Montages ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, kunt u het gewenste maximumzittingsleven (de toestemmingen van Admin van het Systeem vereiste) aanpassen. Het wordt aanbevolen deze instelling in te stellen na de migratie van het product, maar vóór de migratie van de gebruiker.
 
 **ik moet nu in Experience Cloud navigeren om tot Marketo Engage toegang te hebben. Is er een manier om deze stroom te stroomlijnen?**
 
-Ja. U kunt browser referentie van de verbinding tot stand brengen die na het klikken van de **knoop van de** Lancering &lbrace;op de pagina van de de instantietoegang van Marketo Engage begint om die pagina vooruit te mijden.
+Ja. U kunt browser referentie van de verbinding tot stand brengen die na het klikken van de **knoop van de** Lancering {op de pagina van de de instantietoegang van Marketo Engage begint om die pagina vooruit te mijden.
 
 ![](assets/faq-1.png)

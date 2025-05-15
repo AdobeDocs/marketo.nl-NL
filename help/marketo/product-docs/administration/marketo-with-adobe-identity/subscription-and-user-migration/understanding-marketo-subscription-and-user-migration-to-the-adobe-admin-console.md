@@ -3,9 +3,9 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: d6cf2b994f56a0fa4f2118fb3da3fd874644d8ae
+source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
 workflow-type: tm+mt
-source-wordcount: '1511'
+source-wordcount: '1571'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Adobe verbetert de manier waarop u uw Adobe Marketo Engage-abonnementen en -gebr
 
 >[!TIP]
 >
->Leer hoe u Adobe Admin Console kunt gebruiken om uw rechten van Adobe over uw volledige organisatie met de [ Gids van de Onderneming en van Admin van Teams ](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"} te beheren .
+>Leer hoe u Adobe Admin Console kunt gebruiken om uw rechten van Adobe over uw volledige organisatie met de [ Gids van de Onderneming en van Admin van Teams te beheren ](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"}.
 
 ## Wat verandert er? {#what-is-changing}
 
@@ -28,13 +28,15 @@ Tijdens de migratie gaan uw abonnement en gebruikersbeheer van de Marketo-toepas
 
 * **de Gebruikers zullen binnen met de Identiteit van Adobe** ondertekenen. Adobe migreert bestaande gebruikers naar de Adobe Admin Console. Gebruikers zullen zich aanmelden bij hun Marketo-abonnementen met hun nieuwe Adobe Identity - een Adobe ID of Adobe Federated ID (SSO).
 
-* **URLs zal verschillend na migratie** kijken. Na de migratie gaat Marketo Engage van experience.adobe.com naar Adobe Experience Cloud. U zult met uw team van IT moeten werken om alle vermelde domeinen van Adobe [ bij de bovenkant van dit artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} te lijsten van gewenste personen om verstoring aan de toegang van Marketo Engage te verhinderen.
+* **URLs zal verschillend na migratie** kijken. Marketo Engage gaat van experience.adobe.com naar Adobe Experience Cloud en de URL&#39;s hebben de volgende notatie: `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` (de XXX&#39;s geven de Munchkin-id aan en @huurderID is afkomstig van uw Adobe-org). U zult met uw team van IT moeten werken om alle vermelde domeinen van Adobe [ bij de bovenkant van dit artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} te lijsten van gewenste personen om verstoring aan de toegang van Marketo Engage te verhinderen.
 
 De id-nummers van uw elementen blijven ongewijzigd. En vorige verbindingen en referenties aan de activa van Marketo Engage op het engage-xx.marketo.com domein __ zullen blijven functioneren. U moet zich echter eerst aanmelden bij de Marketo Engage-instantie voor de URL waarnaar u navigeert. Als u bijvoorbeeld naar een bladwijzer voor een slimme campagne wilt navigeren, bijvoorbeeld met Munchkin ID 123-ABC-456, moet u zich eerst aanmelden bij de Marketo Engage-instantie met Munchkin ID 123-ABC-456.
 
+Deze omleidingsfunctie kan door toekomstige ontwikkelingswerkzaamheden worden verbroken, maar niet gepland. Om onverwachte onderbrekingen te voorkomen, wordt aangeraden bladwijzers zo snel mogelijk bij te werken.
+
 ## Wat verandert er niet? {#what-is-not-changing}
 
-* **Er is geen verandering in hoe u alle andere functionaliteit** binnen de toepassing van Marketo Engage zelf, met inbegrip van beheer van eigenschappen, gebruikersrollen, werkruimten, functionaliteit, en gedrag beheert.
+* **Er is geen verandering in hoe u alle andere functionaliteit** binnen de toepassing van Marketo Engage zelf, met inbegrip van beheer van eigenschappen, gebruikersrollen, werkruimten, functionaliteit, en gedrag beheert. Het lokale (API-slechts) gebruikersbeheer blijft op het _Gebruikers en Rollen_ lusje in het gebied van Admin van Marketo.
 
 ## Tijdlijn migratiepad {#migration-journey-timeline}
 
@@ -56,7 +58,7 @@ Er is momenteel geen wijziging in het gebruikersbeheer. Hoewel Marketo-producten
 
 >[!NOTE]
 >
->Als u momenteel geen SSO gebruikt maar aan het uitvoeren van het overweegt, adviseren wij dit te doen alvorens de gebruikersmigratie voorkomt. Als u Enig Sign wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje voor te leggen aan [ Steun van Marketo ](https://nation.marketo.com/){target="_blank"}  en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
+>Als u momenteel geen SSO gebruikt maar aan het uitvoeren van het overweegt, adviseren wij dit te doen alvorens de gebruikersmigratie voorkomt. Als u Single Sign On wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje aan [ Steun van Marketo ](https://nation.marketo.com/){target="_blank"} voor te leggen en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
 
 ### Gebruikersmigratie plannen {#schedule-user-migration}
 
@@ -94,11 +96,11 @@ Als Marketo-productbeheerder wordt u aangeraden ervoor te zorgen dat alle gebrui
 
 Alle Marketo-abonnementen met een Amerikaanse tijdzone worden gemigreerd vanaf middernacht, Pacific Standard Time, van de startdatum van de migratie. De migratie van de gebruiker voor alle andere abonnementen zal om middernacht van gespecificeerde timezone van het abonnement beginnen.
 
-**Adobe zal automatisch Marketo Admins eerst** migreren. Wanneer Marketo Admins naar Adobe Identity wordt gemigreerd, krijgen zij de rol van de Admin van het Product van Adobe binnen de toepassing van Marketo samen met om het even welke andere rollen toegewezen zij eerder hadden.
+**Adobe zal automatisch Marketo Admins (met een standaard rol Admin) eerst** migreren. Wanneer Marketo Admins naar Adobe Identity met een rol van de Beheerder van het Product van Admin Console wordt gemigreerd, zullen zij de rol van de Admin van het Product van Adobe binnen de toepassing van Marketo samen met om het even welke andere rollen worden toegewezen zij eerder hadden.
 
-**als uw Marketo abonnement minder dan 75 gebruikers heeft en geen SSO in Marketo en/of uw Adobe Org** heeft, zal Adobe automatisch de rest van uw gebruikers migreren. Deze workflow is bedoeld om het hoogste niveau van automatisering te bieden om overhead voor Adobe Marketo-gebruikers tot een minimum te beperken. Er is geen actie van uw kant vereist om de migratie uit te voeren.
+**als uw Marketo abonnement geen SSO in Marketo en/of uw Adobe Org** heeft, zal Adobe automatisch de rest van uw gebruikers migreren. Deze workflow is bedoeld om het hoogste niveau van automatisering te bieden om overhead voor Adobe Marketo-gebruikers tot een minimum te beperken. Er is geen actie van uw kant vereist om de migratie uit te voeren.
 
-**als uw Marketo abonnement meer dan 75 gebruikers heeft of SSO in Marketo en/of uw Adobe Org** heeft, zullen de Admins van het Product van Marketo toegang tot het gebied van de Migratie van de Gebruiker van de Zelfbediening van de Console van de Migratie van Marketo krijgen, die in het Gebied van Admin van Marketo wordt gevestigd. Voor degenen die meer controle nodig hebben tijdens het migratieproces van gebruikers, kunnen Marketo-productbeheerders beginnen met het selecteren van gebruikers voor migratie in batches of in één keer. Als gebruikers zijn geselecteerd, hebben beheerders de optie &quot;Nu migreren&quot; of &quot;Migratie plannen&quot; voor een latere datum. Hierdoor hebben beheerders de ultieme flexibiliteit en controle over welke gebruikers worden gemigreerd wanneer.
+**als uw Marketo abonnement SSO in Marketo en/of uw Adobe Org** heeft, zullen de Admins van Marketo toegang tot het gebied van de Migratie van de Gebruiker van de Zelfbediening van de Console van de Migratie van Marketo krijgen, die in het Gebied van Admin van Marketo wordt gevestigd. Voor degenen die meer controle nodig hebben tijdens het migratieproces van gebruikers, kunnen Marketo Admins beginnen met het selecteren van gebruikers om in partijen of allen tegelijk te migreren. Als gebruikers zijn geselecteerd, hebben beheerders de optie &quot;Nu migreren&quot; of &quot;Migratie plannen&quot; voor een latere datum. Hierdoor hebben beheerders de ultieme flexibiliteit en controle over welke gebruikers worden gemigreerd wanneer.
 
 >[!NOTE]
 >
@@ -121,4 +123,4 @@ E-mail `marketocares@marketo.com` voor extra ondersteuning met betrekking tot uw
 >* [ migrerend aan het Overzicht van de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [ het Teken van de Gebruiker met Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [ Adobe Identity Management FAQ ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [ Migrerend aan de Leerprogramma van Identity Management van Adobe ](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"} 
+>* [ migrerend aan Adobe Identity Management Leerprogramma ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
