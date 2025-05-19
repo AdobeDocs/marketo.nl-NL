@@ -2,9 +2,9 @@
 description: Huidige aanvullende informatie - Documentatie voor Marketo - Productdocumentatie
 title: Opmerkingen bij de huidige release
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '408'
 ht-degree: 4%
 
 ---
@@ -31,16 +31,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
   <tr> 
-   <td><strong> de Verenigbaarheid van het Malplaatje voor E-mail Designer </strong>: E-mailmalplaatjes van de klassieke e-mailredacteur zijn nu compatibel met nieuwe <a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md"> E-mailDesigner </a>.</td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
    <td><strong> Veilige Zelfbediening van de Laag van de Contactdoos (SSL) </strong>: SSL de encryptie staat u toe om het Bestaan van Pagina's voor een instantie van Marketo Engage veilig te maken. Als u deze functie inschakelt, hebt u hulp nodig van het Adobe-ondersteuningsteam. Marketo-gebruikers kunnen deze nu zelfstandig inschakelen en kostbare tijd besparen.</td> 
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">SSL toevoegen aan uw bestemmingspagina's</a></td>
@@ -55,9 +45,9 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-* **Rest API &quot;access_token&quot;de Verdringing van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Verdringing van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: De steun voor Marketo SOAP API zal op 31 okt, 2025 beëindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: De steun voor Marketo SOAP API zal op 31 okt, 2025 beëindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
 
 * **Sociale Veroudering van Eigenschappen**: Op Woensdag, 31 Juli, 2024, begon Marketo Engage de veroudering van de volgende Sociale eigenschappen binnen het product:
 

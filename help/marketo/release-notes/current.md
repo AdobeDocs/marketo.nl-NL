@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '331'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,16 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
   <tr> 
+   <td><strong> de Verenigbaarheid van het Malplaatje voor E-mail Designer </strong>: E-mailmalplaatjes van de klassieke e-mailredacteur zijn nu compatibel met nieuwe <a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md"> E-mailDesigner </a>.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
    <td><strong> de tokens van de Trekker voor om het even welk attribuut </strong>: Uitgebreide lijst van trekkertokens om het gebruiken van gegevens van om het even welk activiteitenattribuut in de Slimme gebieden van de Campagne te steunen.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
@@ -46,6 +56,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-* **Rest API &quot;access_token&quot;de Verdringing van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Verdringing van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: De steun voor Marketo SOAP API zal op 31 okt, 2025 beëindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: De steun voor Marketo SOAP API zal op 31 okt, 2025 beëindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
