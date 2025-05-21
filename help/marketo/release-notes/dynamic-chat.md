@@ -3,18 +3,36 @@ description: Aanvullende informatie voor Dynamic Chat - Documentatie voor Market
 title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '2427'
+source-wordcount: '2571'
 ht-degree: 2%
 
 ---
 
 # Aanvullende informatie over Dynamic Chat {#dynamic-chat-release}
 
-De versies van de Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
+De versies van Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
 
 De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [ kan hier ](/help/marketo/release-notes/current.md){target="_blank"} worden gevonden.
+
+## Release april/mei 2025 {#apr-may-25-release}
+
+### Geluid bericht {#message-notification-sound}
+
+U hebt nu de optie om een geluid voor de bezoeker toe te laten telkens als het praatje in een zitting wordt teweeggebracht. Er zijn meerdere geluiden waaruit u kunt kiezen.
+
+### Podberichten inschakelen op mobiele apparaten {#enable-poke-messages-on-mobile}
+
+&quot;Poke,&quot; dat de openingsvraag naast het chatpictogram weergeeft zonder dat de bezoeker erop moet klikken om deze te zien, is nu een optie die bezoekers die een mobiel apparaat gebruiken, kunnen inschakelen.
+
+### Standaardinstelling voor alternatieven {#default-fallback-update}
+
+Voor om het even welke douaneregels/Teams als Levend Chat kaart-als geen agenten beschikbaar zijn (of de praatje kan niet verbinden), zal het terug naar Ronde Robin voor beschikbare agenten vallen (allen die op dat ogenblik beschikbaar zijn ongeacht welke verpletterende logica/regel in de stroom werd gezet).
+
+### Integratie op basis van vereisten {#demandbase-integration}
+
+De veeleisende gebruikers kunnen de eigenschappen van de de gebruikersbenaming van de Demandbase voor dialoog het richten, voorwaardelijke branding, en douane het verpletteren in Dynamic Chat gebruiken.
 
 ## Release september/oktober 2024 {#sep-oct-release}
 
@@ -38,7 +56,7 @@ Er zijn verschillende verbeteringen aangebracht in het dashboard Analytics, waar
 
 ### Gesprek {#conversation-scoring}
 
-Kwaneer uw lood op de kwaliteit van hun praatjeinteractie en gebruik die metrisch als Trekker/Filter in Marketo Engage Slimme Campagnes. Gebruik de nieuwe attribuut _gespreksscore_ op de volgende activiteiten:
+Kwaneer uw lood op de kwaliteit van hun praatjeinteractie en gebruik die metrisch als Trigger/Filter in de Slimme Campagnes van Marketo Engage. Gebruik de nieuwe attribuut _gespreksscore_ op de volgende activiteiten:
 
 * Bij een dialoogvenster
 * Behoefte aan een gespreksstroom
@@ -122,7 +140,7 @@ Dus wanneer een bezoeker met cookie abc op een pagina landt en een e-mailadres o
 
 ### Optie om lettertype over te nemen {#option-to-inherit-font}
 
-U kunt de chatbot nu inschakelen om het lettertype rechtstreeks over te nemen van de webpagina waarop het wordt gehost, in plaats van het merklettertype in de Dynamic Chat te beheren. Wanneer u deze optie inschakelt, neemt de chatbot het lettertype dat is gedefinieerd op de `<body>` -tag van de pagina.
+U kunt de chatbot nu inschakelen om het lettertype rechtstreeks over te nemen van de webpagina waarop het wordt gehost, in plaats van het merklettertype te beheren in Dynamic Chat. Wanneer u deze optie inschakelt, neemt de chatbot het lettertype dat is gedefinieerd op de `<body>` -tag van de pagina.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
@@ -182,11 +200,11 @@ Tijdens een gesprek met een anonieme lead en een e-mailid is opgegeven, lossen w
 
 ### Logbestanden synchroniseren zonder cookies van Marketo Engage {#syncing-leads-without-cookies}
 
-Eerder, toen de synchronisatie van het Marketo Engage werd geactiveerd, synchroniseerde de Dynamic Chat slechts bekende lood met één of meerdere koekjesidentiteitskaart van Marketo Engage. Alle bekende leads (cookie-id aanwezig of niet) worden nu gesynchroniseerd naar Dynamic Chat en kunnen worden gebruikt voor de personalisatie van gesprekken.
+Eerder, toen de Marketo Engage-synchronisatie werd geactiveerd, synchroniseerde Dynamic Chat alleen bekende leads met een of meer cookie-id&#39;s uit Marketo Engage. Alle bekende leads (cookie-id aanwezig of niet) worden nu gesynchroniseerd naar Dynamic Chat en kunnen worden gebruikt voor het personaliseren van gesprekken.
 
 ### Aanvullende bezoekersgegevens doorgeven aan Conversatiestromen {#pass-additional-visitor-data}
 
-Als u bezoekersinformatie via andere kanalen, zoals formulieren of aanmelding, vastlegt, kunt u deze informatie nu rechtstreeks doorgeven aan de Dynamic Chat.
+Als u bezoekersgegevens vastlegt via andere kanalen, zoals formulieren of aanmelding, kunt u deze gegevens nu rechtstreeks doorgeven aan Dynamic Chat.
 
 ![](assets/dynamic-chat-aug-2024-release-5.png)
 
@@ -260,7 +278,7 @@ De verkoopagenten van de hulp antwoorden correct tijdens levende gesprekken gebr
 
 ### Gesprek {#conversation-nudges}
 
-Zet Webbezoekers met een vraag-aan-actie om gesprekken aan sluiting te drijven.
+Zet webbezoekers onder druk met een call-to-action om gesprekken tot een goed einde te brengen.
 
 <p>
 
@@ -270,23 +288,23 @@ Zet Webbezoekers met een vraag-aan-actie om gesprekken aan sluiting te drijven.
 
 ### Conversatiestromen zijn nu beschikbaar voor alle gebruikers {#conversational-flows-available-to-all-users}
 
-Maak uw formulieren en bestemmingspagina&#39;s conversationeler en verkort de verkooptrechter door gekwalificeerde leads toe te staan om een vergadering of een praatje met Verkoop onmiddellijk na een vormvoorlegging met Conversational Forms te boeken, nu volledig beschikbaar &#42; voor alle gebruikers van de Dynamic Chat.
+Maak uw formulieren en bestemmingspagina&#39;s conversationeler en verkort de verkooptrechter door gekwalificeerde leads toe te staan om een vergadering of een chat met Verkoop onmiddellijk na een formulierverzending met Conversational Forms te boeken, nu volledig beschikbaar &#42; voor alle gebruikers van Dynamic Chat.
 
 _&#42;eerder beschikbaar als proefeigenschap met 100 levenovereenkomsten. De overeenkomsten van de Stroom van het gesprek zullen nu op de maandelijkse grens van 250 geëngageerde gesprekken voor gebruikers op het Uitgezochte pakket tellen._
 
 ### Callback-functies {#callback-functions}
 
-[ Callback functies ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} staan u toe om de gebeurtenissen van de Dynamic Chat te verzamelen analyseert in externe systemen, zoals Adobe Analytics of Googles Analytics, aangezien de bezoekers met de gesprekken van de Dynamic Chat in dienst nemen. U schakelt Dynamic Chat analytics-gebeurtenissen in door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van de betrokkenheid van uw Dynamic Chat hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
+[ Callback functies ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} staan u toe om de analysegebeurtenissen van Dynamic Chat in externe systemen, zoals Adobe Analytics of Google Analytics te verzamelen, aangezien de bezoekers met de gesprekken van Dynamic Chat in dienst nemen. U kunt Dynamic Chat-analysegebeurtenissen inschakelen door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van uw Dynamic Chat-betrokkenheid hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
 
 ### Beschikbaarheidsvoorwaarden voor actieve agent toegevoegd aan voorwaardelijke vertakking {#live-agent-availability-conditional-branching}
 
-Naast native velden en aangepaste velden voor Marketo&#39;s Engage kunt u nu voorwaardelijke vertakking gebruiken om vertakkingen te maken op basis van de beschikbaarheid van agents. Dit is handig als u bezoekers alleen de optie wilt geven om met een actieve agent te spreken als er live agents beschikbaar zijn.
+Naast native en aangepaste Marketo Engage-velden kunt u nu voorwaardelijke vertakking gebruiken om vertakkingen te maken op basis van de beschikbaarheid van agents. Dit is handig als u bezoekers alleen de optie wilt geven om met een actieve agent te spreken als er live agents beschikbaar zijn.
 
 ![](assets/dynamic-chat-release-1.png)
 
 ### Voorwaarde voor slimme lijst toegevoegd aan voorwaardelijke vertakking {#smart-list-condition}
 
-Met de toevoeging van de nieuwe voorwaarde van de Lijst van het Marketo Engage Slimme in voorwaardelijk vertakking, kunt u takken tot stand brengen die op reeds bestaand publiek worden gebaseerd u reeds in Marketo Engage eerder dan het bepalen van publiek vertakkende voorwaarden in Dynamic Chat hebt gecreeerd.
+Met de toevoeging van de nieuwe voorwaarde van de Slimme Lijst van Marketo Engage in voorwaardelijk vertakking, kunt u takken tot stand brengen die op reeds bestaand publiek worden gebaseerd u reeds in Marketo Engage eerder dan het bepalen van publiek vertakkende voorwaarden in Dynamic Chat hebt gecreeerd.
 
 ![](assets/dynamic-chat-release-2.png)
 
@@ -296,11 +314,11 @@ Eerder dit jaar hebben we voorwaardelijke vertakking voor Dialogen uitgebracht e
 
 ### Live chatten over conversatiestromen {#live-chat-for-conversational-flows}
 
-We hebben in 2023 live chatfunctionaliteit voor dialoogvensters uitgebracht en nu kunt u ook live chatsopdrachten toevoegen aan uw conversatiestromen. Als u de Stroom van het Gesprek met uw vormen van het Marketo Engage gebruikt, kunt u gekwalificeerde bezoekers nu toestaan om met een levende agent onmiddellijk na de vormverzending te chatten!
+We hebben in 2023 live chatfunctionaliteit voor dialoogvensters uitgebracht en nu kunt u ook live chatsopdrachten toevoegen aan uw conversatiestromen. Als u Conversational Flows gebruikt met uw Marketo Engage-formulieren, kunt u bevoegde bezoekers nu toestaan te chatten met een liveagent direct na het verzenden van het formulier.
 
-### Recente activiteiten van het Marketo Engage in Agent Inbox {#recent-marketo-engage-activities-in-agent-inbox}
+### Recente Marketo Engage-activiteiten in Agent Inbox {#recent-marketo-engage-activities-in-agent-inbox}
 
-Wij hebben recente activiteiten van het Marketo Engage aan de Recente sectie van Activiteiten van de Agent Inbox toegevoegd, zodat wanneer een bezoeker van de plaats om met een agent verzoekt te chatten, de agent snel kan zien of de bezoeker onlangs aan om het even welke volgende activiteiten van het Marketo Engage betrokken was (laatste 25 activiteiten):
+We hebben recente Marketo Engage-activiteiten toegevoegd aan de sectie Recente activiteiten van de Agent Inbox. Wanneer een bezoeker van de site een verzoek indient om te chatten met een agent, kan de agent snel zien of de bezoeker onlangs een van de volgende Marketo Engage-activiteiten heeft uitgevoerd (laatste 25 activiteiten):
 
 * E-mail geopend
 * Bezochte webpagina
@@ -311,7 +329,7 @@ Wij hebben recente activiteiten van het Marketo Engage aan de Recente sectie van
 
 ### De verbindingsstatus van de kalender in het Beheer van de Agent {#calendar-connection-status-in-agent-management}
 
-Beheerders kunnen nu gemakkelijk zien welke agents met boekingsmachtigingen voor vergaderingen hun agenda&#39;s in Dynamic Chat hebben verbonden. Dit staat u toe om uw volledige verkoopteam te verzekeren wordt verbonden en bereid om vergaderingsverzoeken van Dynamic Chat goed te keuren.
+Beheerders kunnen nu gemakkelijk zien welke agents met boekingsmachtigingen voor vergaderingen hun agenda&#39;s in Dynamic Chat hebben verbonden. Op deze manier kunt u ervoor zorgen dat uw volledige verkoopteam is verbonden en klaar is voor het accepteren van vergaderaanvragen van Dynamic Chat.
 
 ![](assets/dynamic-chat-release-4.png)
 
@@ -325,9 +343,9 @@ De gebruikers rapporteerden dat de Webbezoekers vergaderingen op hun kalender me
 
 Sommige gebruikers verklaarden dat zij problemen hadden met het toevoegen en verwijderen van agenten in Dynamische praatje, zodat maakten wij sommige veranderingen om deze kwesties te behandelen.
 
-Wanneer een gebruiker aan Admin Console met levende praatje of vergadering het boeken toestemming wordt toegevoegd, zullen zij onmiddellijk in de lijst van het Beheer van de Agent verschijnen en beschikbaar zijn om aan Dialogi, de Omroepstromen toe te voegen, die regels, en teams verpletteren.
+Wanneer een gebruiker aan Admin Console met levende praatje of vergadering het boeken toestemming wordt toegevoegd, zullen zij onmiddellijk in de lijst van het Beheer van de Agent verschijnen en beschikbaar zijn om aan Dialogen, de Omroepende Stromen, het verpletteren van regels, en teams toe te voegen.
 
-Wanneer een gebruiker met vergadering het boeken of de levende praatjetoestemmingen wordt verwijderd uit Admin Console, zullen zij onmiddellijk worden verwijderd uit Dynamic Chat, zullen niet meer voor levende praatje of vergadering het verpletteren beschikbaar zijn, en zullen niet meer tellen tegen vergunningsgrenzen.
+Wanneer een gebruiker met het boeken van de vergadering of de levende praatjetoestemmingen wordt verwijderd uit Admin Console, zullen zij onmiddellijk worden verwijderd uit Dynamic Chat, zullen niet meer voor levende praatje of vergadering het verpletteren beschikbaar zijn, en zullen niet meer tellen tegen vergunningsgrenzen.
 
 ### Verbeterde prestaties van het conversatieniveau {#improved-conversation-level-report-performance}
 
@@ -361,7 +379,7 @@ Wij veranderden het terugkeer zeer belangrijke gedrag in Agent Inbox, zodat zal 
 
 Maak je geen zorgen! Ronde robin het verpletteren is nog volledig functioneel en werkt de zelfde manier het altijd heeft. Wij hebben enkel de pagina verwijderd die een vaak onnauwkeurige lijst van agenten en hun orde in de ronde robin toonde die rij verplettert.
 
-Toen wij Dynamic Chat in 2022 vrijgaven, was er geen steun voor levende praatje, slechts vergaderingshet boeken, en de ronde robin die pagina verplettert werd ontworpen met enkel vergaderingshet boeken in mening. Met de introductie van levende praatje vorig jaar, werd de ronde robin pagina verouderd aangezien het niet nauwkeurig de complexere aard van ronde robin weerspiegelde die tussen agenten met zowel vergaderingshet boeken als levende praatjetoestemmingen verplettert. We hebben een aantal verschillende opties onderzocht om dit probleem aan te pakken, maar uiteindelijk hebben we besloten dat het volledig verwijderen ervan de beste optie was om verwarring te minimaliseren.
+Toen wij Dynamic Chat in 2022 vrijgaven, was er geen steun voor levende praatje, slechts vergaderingshet boeken, en de ronde robin die pagina verplettert werd ontworpen met enkel vergaderingshet in mening boeken. Met de introductie van levende praatje vorig jaar, werd de ronde robin pagina verouderd aangezien het niet nauwkeurig de complexere aard van ronde robin weerspiegelde die tussen agenten met zowel vergaderingshet boeken als levende praatjetoestemmingen verplettert. We hebben een aantal verschillende opties onderzocht om dit probleem aan te pakken, maar uiteindelijk hebben we besloten dat het volledig verwijderen ervan de beste optie was om verwarring te minimaliseren.
 
 ![](assets/dynamic-chat-release-9.png)
 
@@ -377,11 +395,11 @@ De nieuwe pagina van Gesprek voorziet u van één-stopshop om transcripties voor
 
 ### Het datumbereik in het algemene dashboard is toegenomen van 90 dagen tot 24 maanden {#date-range-in-global-dashboard}
 
-U hebt het gevraagd en we hebben het afgeleverd. U kunt nu de gegevens over de betrokkenheid van Dynamics Chat tot twee jaar bekijken in alle analytische dashboards.
+U hebt het gevraagd en we hebben het afgeleverd. U kunt nu Dynamic Chat-betrokkenheidsgegevens voor maximaal twee jaar bekijken in alle analytische dashboards.
 
 ### Voorwaardelijke vertakking in dialoogvensters {#conditional-branching-in-dialogues}
 
-Met voorwaardelijke vertakking kunt u vertakkingen maken in uw dialoogvenster op basis van verschillende voorwaarden. U kunt nu verschillende inhoud presenteren aan verschillende personen in dezelfde dialoog op basis van de kenmerken van leads en bedrijven in Marketo Engage.
+Met voorwaardelijke vertakking kunt u vertakkingen maken in uw dialoogvenster op basis van verschillende voorwaarden. Nu kunt u verschillende inhoud presenteren aan verschillende personen in dezelfde dialoog op basis van de kenmerken van leads en bedrijven in Marketo Engage.
 
 ## Release van januari 2024 {#january-release}
 
