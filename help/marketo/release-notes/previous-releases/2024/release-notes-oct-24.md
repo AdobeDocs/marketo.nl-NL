@@ -2,7 +2,8 @@
 description: Opmerkingen bij de release - oktober 2024 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2024
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
@@ -17,7 +18,7 @@ De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/h
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met uw Marketo Engage voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -53,7 +54,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
   </tr>
    <tr> 
-   <td><strong> Mijn knoop van de Rekening in navigatiespoor </strong>: Voor degenen die naar het Systeem van Identity Management van de Adobe zijn gemigreerd, staat een nieuwe "Mijn knoop van de Rekening"in de linkernavigatiespoor het vormen van uw tijdzone en de toegang tot abonnementsdetails toe.</td> 
+   <td><strong> Mijn knoop van de Rekening in navigatiespoor </strong>: Voor degenen die naar het Systeem van Adobe Identity Management zijn gemigreerd, staat een nieuwe "Mijn knoop van de Rekening"in de linkernavigatiespoor het vormen van uw tijdzone en de toegang tot abonnementsdetails toe.</td> 
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
@@ -91,13 +92,13 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 * **Bulk extraheerde API Update**: Wij bevestigden een kwestie in het Bulk Uittreksel API die de columnHeaderNames optie impliceert, die u de namen van de douanekolomkopbal in het uitgevoerde dossier laat specificeren. Eerder konden kolomkopnamen die niet-ASCII-tekens bevatten, beschadigd raken.
 
-* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
+* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
 
 
-* **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik te deactiveren, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van het Marketo Engage.
+* **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik af te schaffen, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van Marketo Engage.
 
 * **de Veranderingen van Munchkin**
 
-   * **Nieuwe Versie**: Op 17 September, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van het Marketo Engage die &quot;Munchkin Beta&quot;plaatsen hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
+   * **Nieuwe Versie**: Op 17 September, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van Marketo Engage die &quot;Munchkin Beta&quot;plaatsen hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
 
    * **Karakters van Verwijderde URL**: &quot;Bezoekt Web-pagina&quot;en de &quot;Klik Verbinding&quot;activiteiten die door Munchkin JS worden gecreeerd zullen niet-URL gecodeerde controlekarakters van alle gebieden URL nu verwijderen. Deze verandering wordt ontworpen om fouten met betrekking tot propagatie van die types van karakters in systemen te verhinderen die hen niet steunen, en geen geldig gebruik binnen Marketo Engage hebben.
