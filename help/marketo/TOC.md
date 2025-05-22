@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9259'
 ht-degree: 0%
 
 ---
@@ -526,7 +526,6 @@ ht-degree: 0%
          + [Aan de slag met voorspellend publiek](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modellen en inzichten](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [Voorspelende filters](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-         + [Begrijpen van Goal Tracking en Geprojecteerde Registraties](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM-synchronisatie {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Werken met Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
