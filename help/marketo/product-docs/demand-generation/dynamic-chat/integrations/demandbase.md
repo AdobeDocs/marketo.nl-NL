@@ -3,7 +3,7 @@ description: Demandbase - Marketo Docs - Productdocumentatie
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -19,6 +19,8 @@ De veeleisende gebruikers kunnen de eigenschappen van de de gebruikersbenaming v
 De stappen hieronder moeten _in uw rekening van de Demandbase_ worden gedaan.
 
 1. In Demandbase, klik het _pictogram van Montages_.
+
+   ![](assets/demandbase-1.png)
 
 1. Onder _Integraties_, uitgezochte **Schakelaar van de Rekening**.
 
@@ -42,12 +44,12 @@ De stappen hieronder moeten _in uw rekening van de Demandbase_ worden gedaan.
 
 Richt uw publiek dat op de attributen van de Vraag wordt gebaseerd naast inheemse en douanekenmerken, terwijl het creëren van een dialoog of een gespreksstroom.
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 De Attributen van de Vereiste van het gebruik als voorwaarde in uw voorwaardelijk vertakking, een dialoog, of een gespreksstroom.
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 De Attributen van de Demandbase van het gebruik terwijl het bepalen van om het even welke douane die logica verplettert.
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
