@@ -2,10 +2,10 @@
 description: Routering - Marketo Docs - Productdocumentatie
 title: Routering
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -20,25 +20,25 @@ Aangepaste regel: u kunt specifieke agenten kiezen om vergaderingen te ontvangen
 
 >[!NOTE]
 >
->Het Verpletteren van de rekening wordt gegeven de hoogste prioriteit. Wanneer een bezoeker het punt in het gesprek bereikt om of een vergadering te boeken of een levende praatje in werking te stellen, [Account routeren](#account-routing) wordt eerst gecontroleerd alvorens andere verpletterende opties worden overwogen.
+>Het Verpletteren van de rekening wordt gegeven de hoogste prioriteit. Wanneer een bezoeker het punt in het gesprek bereikt om of een vergadering te boeken of een levend praatje in werking te stellen, [ Rekening die ](#account-routing) verplettert wordt eerst gecontroleerd alvorens andere verpletterende opties worden overwogen.
 
 ## Een aangepaste regel maken {#create-a-custom-rule}
 
 In dit voorbeeld sturen wij alle vergaderingen van de afgeleide staten van CA, OF, en WA naar agent John.
 
-1. Klik onder Configuratie op **Routeringsregels**.
+1. Onder Configuratie, klik **Verpletterend Regels**.
 
    ![](assets/routing-1.png)
 
-1. Klik op de knop **Aangepaste regels** tab.
+1. Het **lusje van de Regels van de Douane** opent door gebrek.
 
    ![](assets/routing-2.png)
 
-1. Klikken **Regel maken**.
+1. Klik **creeer Regel**.
 
    ![](assets/routing-3.png)
 
-1. Geef uw regel een naam. U kunt desgewenst een beschrijving toevoegen en het prioriteitsniveau instellen. Klikken **Volgende**.
+1. Geef uw regel een naam. U kunt desgewenst een beschrijving toevoegen en het prioriteitsniveau instellen. Klik **daarna**.
 
    ![](assets/routing-4.png)
 
@@ -54,7 +54,7 @@ In dit voorbeeld sturen wij alle vergaderingen van de afgeleide staten van CA, O
 
    ![](assets/routing-7.png)
 
-1. Wanneer alle gewenste waarden zijn geselecteerd, klikt u op **Opslaan**.
+1. Wanneer alle gewenste waarden worden geselecteerd, klik **sparen**.
 
    ![](assets/routing-8.png)
 
@@ -68,13 +68,13 @@ Identificeer en upload uw doelaccount en de respectievelijke verkoopeigenaren en
 
 In dit voorbeeld, zullen wij alle werknemers van Lego rechtstreeks aan agent Steven leiden.
 
-1. In de Rekening die tabel verplettert, klikt u op **+ Account toevoegen**.
+1. In de Rekening die tabel verplettert, klikt u op **+ Account toevoegen** .
 
    ![](assets/routing-10.png)
 
    >[!TIP]
    >
-   >U kunt meerdere accounts tegelijk maken door op **Accountlijst uploaden** en het uploaden van een CSV.
+   >U kunt veelvoudige Rekeningen in één keer tot stand brengen door **te klikken uploadt de Lijst van de Rekening** en een CSV te uploaden.
 
 1. Ga de naam van het bedrijf, domein in, en selecteer de gewenste agent.
 
