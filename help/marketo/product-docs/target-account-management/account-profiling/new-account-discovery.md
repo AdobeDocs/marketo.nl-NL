@@ -4,9 +4,9 @@ description: New Account Discovery - Marketo Docs - productdocumentatie
 title: Nieuwe accountdetectie
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,27 @@ ht-degree: 0%
 
 De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te richten door op AI-Gebaseerde aanbevelingen van uw ideale klantenprofiel te gebruiken.
 
+>[!IMPORTANT]
+>
+>Accountprofilering is vanaf 2025 niet meer beschikbaar voor nieuwe gebruikers. Het zal voor bestaande gebruikers blijven werken.
+
 >[!PREREQUISITES]
 >
->[Accountprofielen instellen](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+>[ Profilering van de Rekening van de opstelling ](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
->Het wordt aanbevolen op de knop **Bestaande accounts bijwerken** voordat u een nieuwe accountzoekopdracht uitvoert, zodat u zeker weet dat u naar de meest recente gegevens kijkt. Deze update kan maximaal 24 uur in beslag nemen.
+>Het wordt geadviseerd om de **Update Bestaande Rekeningen** knoop te drukken alvorens een nieuw rekeningsonderzoek uit te voeren om u te verzekeren bekijkt de meest recente gegevens. Deze update kan maximaal 24 uur in beslag nemen.
 
-1. Klik in Mijn Marketo op **Doelaccountbeheer**.
+1. In Mijn Marketo, klik **het Beheer van de Rekening van het Doel**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Klik op de knop **Accountprofielen** tab.
+1. Klik het **Profileren van de Rekening** tabel.
 
    ![](assets/two-2.png)
 
-1. Klik op de knop **Nieuwe accounts** tab.
+1. Klik de **Nieuwe Rekeningen** tabel.
 
    ![](assets/three-1.png)
 
@@ -43,13 +47,13 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    ![](assets/four-1.png)
 
-1. Klikken **Alle opslaan en lijst maken** rechtsonder op de pagina.
+1. Klik **sparen allen &amp; creeer Lijst** op het bodem-recht van de pagina.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Als u slechts een paar accounts ziet die u wilt, kunt u op afzonderlijke accounts klikken en op **Geselecteerde accounts opslaan** wanneer gereed.
+   >Als u slechts een paar rekeningen ziet u wilt, hebt u de optie om op individuele rekeningen te klikken en **te klikken sparen Geselecteerde Rekeningen** wanneer gedaan.
 
 1. Je kunt een lijst maken met je eigen nieuwe account of deze toevoegen aan een bestaande lijst. In dit voorbeeld maken we een nieuwe.
 
@@ -57,20 +61,20 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    >[!NOTE]
    >
-   >Als u de account wilt opslaan in een bestaande accountlijst, selecteert u die optie, klikt u op de vervolgkeuzelijst en selecteert u de gewenste accountlijst. Klik vervolgens op **Volgende**.
+   >Om het aan een bestaande Lijst van de Rekening te bewaren, selecteer die optie, klik drop-down en selecteer de gewenste Lijst van de Rekening, en klik **daarna**.
 
-1. Klikken **Opslaan**.
+1. Klik **sparen**.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >U kunt maximaal 5.000 accounts tegelijk opslaan. Als uw zoekopdracht 10.000 resultaten oplevert, moet u de eerste (bovenste) 5.000 opslaan, vervolgens de filters opnieuw instellen en de volgende 5.000 opslaan. De **totaal** de rekeninglimiet bedraagt 1 miljoen .
+   >U kunt maximaal 5.000 accounts tegelijk opslaan. Als uw zoekopdracht 10.000 resultaten oplevert, moet u de eerste (bovenste) 5.000 opslaan, vervolgens de filters herstellen en de volgende 5.000 opslaan. De **totale** rekeningsgrens is één miljoen.
 
-1. Klikken **OK**.
+1. Klik **OK**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Nadat uw accounts zijn opgeslagen, kunt u een [doelgroep op LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) om ze als doel te hebben.
+   >Nadat uw rekeningen worden bewaard, kunt u a [ aangepast publiek op LinkedIn ](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) gebruiken om hen te richten.
