@@ -4,18 +4,17 @@ product: marketo
 title: Personalization Tokens
 description: Meer informatie over het gebruik van personalisatietokens in de nieuwe Marketo Engage Email Designer
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
+source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Personalization Tokens {#personalization-tokens}
 
-De E-mail Designer heeft een andere indeling dan de klassieke e-maileditor voor tokens voor e-mailpersonalisatie. Deze wijziging is geïmplementeerd om de compatibiliteit met Handlebar-scripts te verbeteren en het maken van e-mail te stroomlijnen.
+De e-mailontwerper heeft een andere indeling dan de klassieke e-maileditor voor tokens voor e-mailpersonalisatie. Deze wijziging is geïmplementeerd om de compatibiliteit met Handlebar-scripts te verbeteren en het maken van e-mail te stroomlijnen.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +22,7 @@ De E-mail Designer heeft een andere indeling dan de klassieke e-maileditor voor 
 
 ## Hoofd-/kleine letters {#primary-use-case}
 
-Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mail Designer ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
+Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
 
 ## Tokenervaring {#token-experience}
 
@@ -37,7 +36,7 @@ In de klassieke e-maileditor kunt u tokens toevoegen met spaties, zoals `lead.An
 
 ### Nieuwe indeling {#new-format}
 
-In de e-mailontwerper, moet u aan [ camel geval ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) aanpassen, of onderstrepingstekens voor tekenen (b.v., `lead.anonymousIP` of `member.registration_code`). De opmaak voor standaardtekst verandert ook in `{%=lead.city ?: "fallback" %}` .
+In de e-mailontwerper, moet u [ camel geval ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) of onderstrepingstekens voor tekenen (b.v., `lead.anonymousIP` of `member.registration_code`) gebruiken. De opmaak voor standaardtekst verandert ook in `{%=lead.city ?: "fallback" %}` .
 
 ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
 
