@@ -2,10 +2,10 @@
 description: Instellingen agent - Marketo Docs - Productdocumentatie
 title: Instellingen agent
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Configureer uw agenda en stel de beschikbaarheid van vergaderingen/livechats in.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor uw agenten aangewezen zijn verleend [machtigingen](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>Zorg ervoor uw agenten de aangewezen [ toestemmingen ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} zijn verleend.
 
 ![](assets/agent-settings-1.png)
 
@@ -49,7 +49,7 @@ Het vormen met Vooruitzichten verleent de volgende toestemmingen aan Dynamic Cha
 * Toegang tot gegevens behouden waartoe u toegang hebt verleend
 * Uw postvakmontages lezen
 
-Als u configuratie uitvoert met Google, worden de volgende machtigingen aan de Dynamic Chat verleend:
+Als u configuratie uitvoert met Google, krijgt Dynamic Chat de volgende machtigingen:
 
 * Kalenders maken, wijzigen of verwijderen
 * Afzonderlijke kalendergebeurtenissen bijwerken
@@ -78,7 +78,7 @@ Plaats uw tijdzone en tijd/dag van weekbeschikbaarheid om vergaderingsboekingen 
 
 >[!TIP]
 >
->U kunt meerdere blokken tijd selecteren op dezelfde dag (bijvoorbeeld vrijdag van 8a-12p) _en_ 1p-5p) door op de knop **+** teken aan de rechterkant.
+>U kunt veelvoudige blokken van tijd op de zelfde dag (b.v., Vrijdag van 8a-12p _en_ 1p-5p) selecteren door **+** teken op het recht te klikken.
 
 ## Live Chat-beschikbaarheid {#live-chat-availability}
 
@@ -86,12 +86,20 @@ Plaats uw tijdzone en tijd/dag van week beschikbaarheid om levende kartels te on
 
 ![](assets/agent-settings-5.png)
 
-Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet bent aangemeld, ontvangt u een browsermelding (als u [instellen](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet het programma wordt geopend, zult u een browser bericht ontvangen (als u [ opstelling hebt die opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->De [beschikbaarheidsschakelaar](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal overschrijven** wat u invoert op het tabblad Beschikbaarheid van live chat. Dus als u zoals beschikbaar van 1p-5p gepland maar een snelle onderbreking bij 3p moet nemen, te hoeven u niet om uw agentenmontages te veranderen. De van de knevel van de beschikbaarheid status zal blijven tot u het manueel verandert, of tot het volgende tijdblok in uw beschikbaarheid wordt bereikt.
+>De [ beschikbaarheidsknevel ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal** met voeten treden wat u in het Levende lusje van de Beschikbaarheid van het Praatje ingaat. Dus als u zoals beschikbaar van 1p-5p gepland maar een snelle onderbreking bij 3p moet nemen, te hoeven u niet om uw agentenmontages te veranderen. De van de knevel van de beschikbaarheid status zal blijven tot u het manueel verandert, of tot het volgende tijdblok in uw beschikbaarheid wordt bereikt.
 
 >[!TIP]
 >
->U kunt meerdere blokken tijd selecteren op dezelfde dag (bijvoorbeeld vrijdag van 8a-12p) _en_ 1p-5p) door op de knop **+** teken aan de rechterkant.
+>U kunt veelvoudige blokken van tijd op de zelfde dag (b.v., Vrijdag van 8a-12p _en_ 1p-5p) selecteren door **+** teken op het recht te klikken.
+
+## Agent Profile Photo
+
+Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html) bij.
+
+>[!NOTE]
+>
+>Het profielbeeld dat in `experience.adobe.com` wordt getoond is **niet** gesteund.

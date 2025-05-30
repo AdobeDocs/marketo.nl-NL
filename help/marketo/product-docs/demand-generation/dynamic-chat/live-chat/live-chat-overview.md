@@ -3,9 +3,9 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Wanneer de bezoekers om met een agent door uw Dialoog verzoeken te babbelen, zul
 
 >[!NOTE]
 >
->De live agent avatar gebruikt de profielafbeelding uit het Adobe-accountprofiel van de agent. Om het beeld bij te werken, volg [ deze stappen ](https://helpx.adobe.com/nl/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>De live agent avatar gebruikt de profielafbeelding uit het Adobe-accountprofiel van de agent. Om het beeld bij te werken, volg [ deze stappen ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Live Chat-kaart gebruiken {#using-the-live-chat-card}
 
@@ -115,6 +115,10 @@ Wanneer een handeling zoals het boeken van een vergadering of een live chat misl
 
 * De agenten hebben 100 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden. Na dat, zullen de bezoekers het [ fallback bericht ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"} ontvangen. Voor de abonnees van Dynamic Chat Prime die de verpletterende optie hebben die aan **wordt geplaatst Team**, zal één meer agent worden geprobeerd alvorens het reservebericht verschijnt.
 * Op dit moment geldt een limiet van 10 actieve chats per agent.
+* Agent Inbox is enkel voor Levende Chatgesprekken. Als het praatje niet door een agent wordt goedgekeurd, zal het niet in de Agent Inbox verschijnen, aangezien het niet als Levende Chat kwalificeert.
+* Het lusje van de Gesprek toont al gesprek, zowel Levend als Geautomatiseerde praatje. Zo als een gesprek niet door de agent wordt goedgekeurd, zal dat in het Lusje van de Gesprek worden vermeld. Er is tot een vertraging van 24 uur in het lusje van de Gesprek, aangezien het geen real time is. Agent Inbox, echter, is realtime.
+* Als er geen praatjeactiviteit na 10 minuten (door of de agent of de bezoeker) is, zal de chat onderbreking.
+* Als een agent hun profielbeeld (in account.adobe.com) _tijdens_ Levende Chat verandert, zal de bezoeker nog het oude beeld zien tot de praatjeeinden. De bezoeker ziet de nieuwe afbeelding wanneer hij of zij de volgende keer inchatt en de agent krijgt.
 
 >[!MORELIKETHIS]
 >
