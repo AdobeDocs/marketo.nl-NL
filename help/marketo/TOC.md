@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9264'
 ht-degree: 0%
 
 ---
@@ -215,6 +215,7 @@ ht-degree: 0%
          + [Persoonlijke URL&#39;s voor uw account inschakelen](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Algemene regels voor formuliervalidatie](product-docs/administration/settings/global-form-validation-rules.md)
          + [Landingspaginakoppen](product-docs/administration/settings/landing-page-headers.md)
+         + [Productverbruiksdashboards](product-docs/administration/settings/product-usage-dashboards.md)
          + [Marketo-aanmeldingen beperken op basis van IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Taal, landinstelling en tijdzone selecteren](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Een terugvalpagina instellen](product-docs/administration/settings/set-a-fallback-page.md)
