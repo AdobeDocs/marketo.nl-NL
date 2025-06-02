@@ -4,16 +4,17 @@ title: Productverbruiksdashboards
 hide: true
 hidefromtoc: true
 feature: Administration
-source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
+exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
+source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '656'
 ht-degree: 0%
 
 ---
 
 # Productverbruiksdashboards {#product-usage-dashboards}
 
-Met de Marketo Engage-productgebruiksdashboards kunt u het product- en platformgebruik bekijken tegen bepaalde limieten of achterstand bij het doorvoeren van gegevens, het gebruik tegen dagelijkse quota en belangrijke meetgegevens voor een abonnement. Infrastructuur wordt toegewezen om prestatiegrenzen te verstrekken die voor de Niveaus van het Product voor bijzondere attributen worden bepaald. Sommige van deze limieten, zoals API-gebruik, worden aangeschaft als onderdeel van uw pakket of productreeks.
+De dashboards van het Gebruik van het Product van Marketo Engage verstrekken de capaciteit om product en platformgebruik tegen bepaalde grenzen of achterstand van gegevens door-output, gebruik tegen dagelijkse quota, en belangrijkste metriek in uw abonnement te bekijken. De infrastructuur wordt toegewezen om prestatiegrenzen te verstrekken die voor productniveaus voor bepaalde attributen worden bepaald. Sommige van deze limieten, zoals API-gebruik, worden aangeschaft als onderdeel van uw pakket of productreeks.
 
 ## Toegang verkrijgen {#how-to-access}
 
@@ -31,7 +32,11 @@ Met de Marketo Engage-productgebruiksdashboards kunt u het product- en platformg
 
 Het dashboard voor het wekelijkse activiteitenverbruik biedt een wekelijkse telling van de typen activiteiten over een schuivende periode van 52 weken. Gemaakte wekelijkse activiteiten zijn een goede indicator van hoeveel marketing je doet in Marketo Engage. De activiteiten dienen als een proxy voor de verschillende systeemprocessen en traceerbare gebeurtenissen die in Marketo plaatsvinden.
 
-De Types van activiteit omvatten zowel tellingen van activiteiten die worden gevangen wanneer mensen die met marketing gebeurtenissen in wisselwerking staan evenals op systeem-gebaseerde activiteiten die door de Acties van de Stroom worden teweeggebracht. Voorbeelden van door personen geïnitieerde activiteiten zijn wanneer iemand een e-mail opent of op een koppeling in een e-mail klikt. Een voorbeeld van systeemgebaseerde activiteiten die door een Flow-actie worden geactiveerd, is &quot;Verzenden naar SFDC&quot; wanneer de trigger wordt gestart. Als u een aantal activiteitstypen voor een bepaalde week wilt weergeven, houdt u de muis boven een week en bekijkt u de telling.
+Activiteitstypen omvatten zowel tellingen van activiteiten die zijn vastgelegd wanneer mensen/leads reageren op marketinggebeurtenissen als systeemgebaseerde activiteiten die worden geactiveerd door Flow Actions. Voorbeelden van door personen geïnitieerde activiteiten zijn wanneer een ontvanger een e-mail opent die u hen hebt verzonden of op een koppeling in een e-mail klikt. Een voorbeeld van een op systeem-gebaseerde activiteit die door een Actie van de Stroom wordt teweeggebracht wordt _verzonden naar SFDC_ wanneer de trekker in werking wordt gesteld.
+
+>[!TIP]
+>
+>Als u een aantal activiteitstypen voor een bepaalde week wilt weergeven, houdt u de muisaanwijzer boven de gewenste week en wordt het aantal weergegeven.
 
 ![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
 
@@ -41,7 +46,7 @@ De Types van activiteit omvatten zowel tellingen van activiteiten die worden gev
 
 Het is afhankelijk van welke activiteiten in de pijplijn zijn opgenomen.
 
-**is zowel gekend als anonieme lood/persoonactiviteit inbegrepen?**
+**is zowel gekend als anonieme persoon/lood inbegrepen activiteit?**
 
 Alleen bekende mensen/leads.
 
@@ -51,21 +56,21 @@ Het aantal activiteiten wordt elke ochtend vernieuwd.
 
 ## Uitsplitsing naar activiteit {#activity-breakdown}
 
-Hier krijgen we tellingen over activiteiten in de afgelopen zeven dagen op basis van betekenisvolle segmenten van de gegevens. Groepeer activiteiten op basis van de meest voorkomende soorten activiteiten die in de afgelopen zeven dagen zijn waargenomen. Dit kunnen categorieën zijn zoals &quot;Gegevenswaarde wijzigen&quot;, &quot;Toevoegen aan lijst&quot; of &quot;E-mail verzenden&quot;. Dit laat u zien welke soorten activiteiten het vaakst in het systeem gebeuren. Het gebruik van Type activiteit is een belangrijke indicator om de groei te bepalen, of als optimalisaties nodig zijn om het gebruik te verminderen.
+Hier krijgen we tellingen over activiteiten in de afgelopen zeven dagen op basis van betekenisvolle segmenten van de gegevens. Groepeer activiteiten op basis van de meest voorkomende soorten activiteiten die in de afgelopen zeven dagen zijn waargenomen. Dit kan categorieën zoals _de Waarde van Gegevens van de Verandering_ omvatten, _toevoegen aan Lijst_, of _verzenden E-mail_. Dit laat u zien welke soorten activiteiten het vaakst in het systeem gebeuren. Het gebruik van Type activiteit is een belangrijke indicator om de groei te bepalen, of als optimalisaties nodig zijn om het gebruik te verminderen.
 
 >[!NOTE]
 >
->* Alle hieronder onderverdelingen zijn een &quot;het rollen zeven-dag&quot;som en **niet** omvatten de huidige dag. Denk er dus aan als &quot;gisteren + zes dagen daarvoor&quot;.
+>* Alle hieronder onderverdelingen zijn een het rollen zeven-dagsom en **omvatten niet** de huidige dag. Denk er dus aan als &quot;gisteren + zes dagen daarvoor&quot;.
 >
 >* Op het dashboard worden alleen de bovenste 20 activiteitstypen weergegeven, terwijl de rest wordt gesorteerd in de categorie &quot;Overige&quot;.
 
 ![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
 
-Activiteitengebruik is een belangrijke indicator van hoeveel marketing wordt uitgevoerd, en helpt de groei te visualiseren ten opzichte van het vastgestelde niveau van het product waarvoor een contract is gesloten. De dashboards kunnen ook als gids worden gebruikt om te bepalen hoeveel optimalisering kan/moet worden gedaan door de gebieden te verminderen die worden bijgewerkt.
+Het gebruik van de activiteit toont u hoeveel marketing wordt uitgevoerd, en helpt groei tegenover geïdentificeerd voor het niveau van product visualiseren gecontracteerd voor. De dashboards kunnen ook als gids worden gebruikt om te bepalen hoeveel optimalisering kan/moet worden gedaan door de gebieden te verminderen die worden bijgewerkt.
 
 ### Op type {#by-type}
 
-Groepeer activiteiten op basis van de meest voorkomende soorten activiteiten die in de afgelopen zeven dagen zijn waargenomen. Dit kan categorieën zoals _de Waarde van Gegevens van de Verandering_ omvatten, _toevoegen aan Lijst_, of _verzenden E-mail_. Dit laat u zien welke soorten activiteiten het vaakst in Marketo Engage plaatsvinden.
+Groepeer activiteiten op basis van de meest voorkomende soorten activiteiten die in de afgelopen zeven dagen zijn waargenomen. Dit kan categorieën zoals _de Waarde van Gegevens van de Verandering_ omvatten, _toevoegen aan Lijst_, of _verzenden E-mail_. Zo kunt u zien welke soorten activiteiten het vaakst in uw Marketo Engage-account plaatsvinden.
 
 ### Op kenmerk Gegevenswaarde wijzigen {#by-change-data-value-attribute}
 
@@ -73,7 +78,7 @@ _de Waarde van Gegevens van de Verandering_ is het gemeenschappelijkste activite
 
 ### Op campagne {#by-campaign}
 
-Groepering waardoor campagnes de meeste activiteiten produceren. Dit biedt insight de mogelijkheid om te zien of je met name &#39;lawaaierige&#39; campagnes hebt die meer activiteit creëren dan nodig is. Snel leren over campagnes die buiten bedrijf moeten worden gesteld, of campagnes die meer werk doen dan bedoeld.
+Groepering waardoor campagnes de meeste activiteiten produceren. Op deze manier kunt u zien of er speciale &#39;lawaaierige&#39; campagnes zijn die meer activiteit creëren dan nodig is. Snel leren over campagnes die buiten bedrijf moeten worden gesteld, of campagnes die meer werk doen dan bedoeld.
 
 ### Op Source (KOMEND) {#by-source}
 
