@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
 title: Advanced BI Analytics - overzicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,6 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 >[!PREREQUISITES]
 >
 >Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
-
->[!NOTE]
->
->Als u vragen hebt over deze functie terwijl deze in bèta staat (tot 1 juni 2025), stuurt u een e-mail naar: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com` .
 
 ## Belangrijkste kenmerken en voordelen {#key-features-and-benefits}
 
@@ -38,7 +34,7 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
 ## Een rapport maken {#create-a-report}
 
-1. Klik in Mijn Marketo op de tegel **[!UICONTROL Advanced BI Analytics (Beta)]** .
+1. Klik in Mijn Marketo op de tegel **[!UICONTROL Advanced BI Analytics]** .
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
@@ -177,11 +173,8 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 
 ## Notities {#note}
 
-De openbare bètaversie loopt door 1 juni 2025, waarna de klassieke ervaring via &quot;Revenue Explorer&quot; permanent wordt vervangen.
+* De klassieke ervaring van de Ontdekkingsreiziger van de Inkomsten zal permanent op 10 juni 2025 worden afgekeurd. In de tussentijd kunt u in beide gevallen rapporten openen, maken, bijwerken en verwijderen.
 
-_tijdens openbare bèta:_
-
-* U kunt rapporten in beide richtingen openen, maken, bijwerken en verwijderen.
 * Uw douanerapporten zullen van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen worden herhaald die in [ worden vermeld het Leren van de Nieuwe Ervaring ](#learning-the-new-experience) hieronder sectie.
 
   >[!IMPORTANT]
@@ -194,9 +187,13 @@ _tijdens openbare bèta:_
      >
      >Het dashboard in de nieuwe ervaring is eenvoudig een verzameling rapporten op één pagina. De primaire waarde van het dashboard in de nieuwe ervaring is dat u analytische inzichten kunt presenteren over verschillende rapporteringsgebieden.
 
-* Uw e-mailabonnementen in de klassieke ervaring worden naar de nieuwe ervaring gekopieerd. De e-mailabonnementen in de klassieke ervaring blijven functioneren tot de veroudering van de klassieke ervaring op 1 juni 2025.
+* Uw e-mailabonnementen in de klassieke ervaring worden naar de nieuwe ervaring gekopieerd. De e-mailabonnementen in de klassieke ervaring blijven functioneren tot de veroudering van de klassieke ervaring op 10 juni 2025.
 
-* De bestaande gebruikers van de Ontdekkingsreiziger van de Inkomsten hebben automatisch toegang tot de nieuwe Geavanceerde ervaring van de Analyse van BI (Beta).
+* De bestaande gebruikers van de Ontdekkingsreiziger van de Opbrengst hebben automatisch toegang tot de nieuwe Geavanceerde ervaring van de Analyse BI.
+
+* U kunt maximaal 700 rapporten maken in Advanced BI Analytics.
+
+* Er geldt een beperking van 1 miljoen rijen per query voor een bepaalde visualisatie. Als uw query deze overschrijdt, ontvangt u de volgende fout: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows` . Om dit te bevestigen, verklein uw datumwaaier, en/of pas de filters in uw rapport aan om het aantal rijen in uw vraagresultaat te verminderen.
 
 ## De nieuwe ervaring leren {#learning-the-new-experience}
 
@@ -217,8 +214,6 @@ Hieronder vindt u wijzigingen in de nieuwe ervaring (Advanced BI Analytics) uit 
 * E-mailabonnement bevat de PDF-export in plaats van de HTML van het rapport. Het nieuwe e-mailabonnement bevat geen rapportdefinitie.
 
 * Diepe koppeling van rapport wordt momenteel niet ondersteund.
-
-* De mapervaring van rapporten is momenteel niet beschikbaar en is tijdelijk vervangen door een platte lijst met vooraf ingestelde zoekopdrachten. De naam van het gerepliceerde rapport bevat het mappad, bijvoorbeeld `/folder1/folder2/report` .
 
 * PDF exporteren is synchroon in de nieuwe ervaring, in vergelijking met asynchroon zijn in de klassieke ervaring.
 
