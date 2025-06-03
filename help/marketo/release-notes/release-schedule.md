@@ -4,9 +4,9 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '138'
 ht-degree: 13%
 
 ---
@@ -53,13 +53,8 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
    <td>In uitvoering</td>
   </tr>
   <tr> 
-   <td>25 juni</td>
-   <td>zaterdag 27 juni 2025</td>
-   <td>Op schema</td>
-  </tr>
-  <tr> 
    <td>25 juli</td>
-   <td>zaterdag 25 juli 2025</td>
+   <td>zaterdag 11 juli 2025</td>
    <td>Op schema</td>
   </tr>
   <tr> 
