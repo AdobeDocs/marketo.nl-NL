@@ -22,7 +22,7 @@ De e-mailontwerper heeft een andere indeling dan de klassieke e-maileditor voor 
 
 ## Hoofd-/kleine letters {#primary-use-case}
 
-Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
+Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
 
 ## Tokenervaring {#token-experience}
 
