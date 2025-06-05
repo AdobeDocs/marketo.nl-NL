@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -64,21 +64,26 @@ Hier krijgen we tellingen over activiteiten in de afgelopen zeven dagen op basis
 >
 >* Op het dashboard worden alleen de bovenste 20 activiteitstypen weergegeven, terwijl de rest wordt gesorteerd in de categorie &quot;Overige&quot;.
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
-
 Het gebruik van de activiteit toont u hoeveel marketing wordt uitgevoerd, en helpt groei tegenover geïdentificeerd voor het niveau van product visualiseren gecontracteerd voor. De dashboards kunnen ook als gids worden gebruikt om te bepalen hoeveel optimalisering kan/moet worden gedaan door de gebieden te verminderen die worden bijgewerkt.
 
 ### Op type {#by-type}
 
 Groepeer activiteiten op basis van de meest voorkomende soorten activiteiten die in de afgelopen zeven dagen zijn waargenomen. Dit kan categorieën zoals _de Waarde van Gegevens van de Verandering_ omvatten, _toevoegen aan Lijst_, of _verzenden E-mail_. Zo kunt u zien welke soorten activiteiten het vaakst in uw Marketo Engage-account plaatsvinden.
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### Op kenmerk Gegevenswaarde wijzigen {#by-change-data-value-attribute}
 
 _de Waarde van Gegevens van de Verandering_ is het gemeenschappelijkste activiteitstype. Hiermee wordt aangegeven wanneer een informatie over een persoon/lead-record wordt bijgewerkt. Hier groeperen wij door de gebieden die het vaakst worden veranderd zodat kunt u bepalen welke informatie voor uw marketing verrichtingen nuttig is, als er mogelijkheden zijn om platformgebruik te optimaliseren, etc.
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### Op campagne {#by-campaign}
 
 Groepering waardoor campagnes de meeste activiteiten produceren. Op deze manier kunt u zien of er speciale &#39;lawaaierige&#39; campagnes zijn die meer activiteit creëren dan nodig is. Snel leren over campagnes die buiten bedrijf moeten worden gesteld, of campagnes die meer werk doen dan bedoeld.
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### Op Source (KOMEND) {#by-source}
 
