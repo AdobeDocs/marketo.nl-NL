@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,3 @@ _de Waarde van Gegevens van de Verandering_ is het gemeenschappelijkste activite
 Groepering waardoor campagnes de meeste activiteiten produceren. Op deze manier kunt u zien of er speciale &#39;lawaaierige&#39; campagnes zijn die meer activiteit creëren dan nodig is. Snel leren over campagnes die buiten bedrijf moeten worden gesteld, of campagnes die meer werk doen dan bedoeld.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Op Source (KOMEND) {#by-source}
-
-Groep door de bron van de activiteiten (_de Synchronisatie van CRM_, _de Actie van de Stroom van de Campagne_, _API uploadt_, _het Bestaan van de Vorm van de Pagina Vulling_, enz.). Dit helpt u begrijpen als de meeste van uw activiteiten door marketing acties, CRM syncs, of door de mensen/de leiders zelf worden veroorzaakt.
