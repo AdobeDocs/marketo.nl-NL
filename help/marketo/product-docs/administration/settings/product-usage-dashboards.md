@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
+source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Activiteitstypen omvatten zowel tellingen van activiteiten die zijn vastgelegd w
 >
 >Als u een aantal activiteitstypen voor een bepaalde week wilt weergeven, houdt u de muisaanwijzer boven de gewenste week en wordt het aantal weergegeven.
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### Veelgestelde vragen {#faq}
 
 **Welke Types van Activiteit worden geteld?**
@@ -70,17 +68,10 @@ Het gebruik van de activiteit toont u hoeveel marketing wordt uitgevoerd, en hel
 
 Groepeer activiteiten op basis van de meest voorkomende soorten activiteiten die in de afgelopen zeven dagen zijn waargenomen. Dit kan categorieën zoals _de Waarde van Gegevens van de Verandering_ omvatten, _toevoegen aan Lijst_, of _verzenden E-mail_. Zo kunt u zien welke soorten activiteiten het vaakst in uw Marketo Engage-account plaatsvinden.
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
-
-
 ### Op kenmerk Gegevenswaarde wijzigen {#by-change-data-value-attribute}
 
 _de Waarde van Gegevens van de Verandering_ is het gemeenschappelijkste activiteitstype. Hiermee wordt aangegeven wanneer een informatie over een persoon/lead-record wordt bijgewerkt. Hier groeperen wij door de gebieden die het vaakst worden veranderd zodat kunt u bepalen welke informatie voor uw marketing verrichtingen nuttig is, als er mogelijkheden zijn om platformgebruik te optimaliseren, etc.
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### Op campagne {#by-campaign}
 
 Groepering waardoor campagnes de meeste activiteiten produceren. Op deze manier kunt u zien of er speciale &#39;lawaaierige&#39; campagnes zijn die meer activiteit creëren dan nodig is. Snel leren over campagnes die buiten bedrijf moeten worden gesteld, of campagnes die meer werk doen dan bedoeld.
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
