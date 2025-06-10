@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde
 
 +++Leer hoe u toegang krijgt tot de e-mailontwerper
 
-Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
@@ -76,11 +76,19 @@ Nieuwe e-mailberichten van Designer via e-mail zijn toegankelijk voor alle progr
 
 **zullen onze bestaande e-mailmalplaatjes in de nieuwe ontwerper werken? Als niet, moeten wij malplaatjes creëren gebruikend de nieuwe ontwerper zodat beantwoorden alle secties/modules aan hoe wij onze inhoud willen kijken?**
 
-Nee, er kan niet worden verwezen naar e-mailsjablonen van de klassieke editor in de nieuwe ontwerper. U zult nieuwe malplaatjes in de nieuwe ontwerper moeten creëren. Nochtans, kunt u _malplaatje HTML in de nieuwe ontwerper invoeren, dan noodzakelijke tweaks maken._ We werken ook aan een manier om sjablonen eenvoudig te migreren van de klassieke editor naar de nieuwe ontwerper.
+Er kan niet worden verwezen naar e-mailsjablonen van de klassieke editor in de nieuwe ontwerper. U zult nieuwe malplaatjes in de nieuwe ontwerper moeten creëren. Nochtans, kunt u _malplaatje HTML in de nieuwe ontwerper invoeren, dan noodzakelijke tweaks maken._ **Nota**: De compatibiliteit van het de redacteursmalplaatje met de nieuwe ontwerper komt binnenkort.
+
+**Kan ik nieuwe designer activa aan een verschillend programma gemakkelijk bewegen?**
+
+Op dit moment niet. Maar die functionaliteit komt binnenkort.
+
+**Kan activa via API in de nieuwe e-mailontwerper worden uitgegeven?**
+
+Assets die wordt bewerkt via de API wordt momenteel niet ondersteund in de nieuwe e-mailontwerper.
 
 **is er een manier om branding (doopvonten, logo&#39;s, en kleuren) af te dwingen?**
 
-De sectie met vergrendelde inhoud maakt deel uit van de nieuwe ontwerper. De vergrendeling van stijlen, kleuren, enzovoort, zal later dit jaar plaatsvinden.
+De sectie met vergrendelde inhoud maakt deel uit van de nieuwe ontwerper. Binnenkort vindt u vergrendelde stijlen, kleuren, enzovoort.
 
 **zal het maken modules voor malplaatjes klantentabeler en scalable zijn?**
 
@@ -88,16 +96,11 @@ Ja, absoluut, beter aanpasbaar met onze WYSIWYG-editor (what-you-see-is-what-you
 
 **hoe werkt het proces van de e-mailmalplaatjeverwezenlijking in de nieuwe ontwerper? Is het WYSIWYG, of vereist het HTML kennis?**
 
-Het is WYSIWYG; HTML-kennis is niet nodig. U kunt gemakkelijk
-sjablonen in de ontwerper, waardoor de behoefte aan externe webontwikkelaars afneemt. U kunt echter nog steeds CSS bijwerken en afzonderlijke secties bewerken via HTML. We werken ook aan een manier om sjablonen eenvoudig te migreren van de klassieke editor naar de nieuwe ontwerper.
+Het is WYSIWYG; HTML-kennis is niet nodig. U kunt gemakkelijk malplaatjes in de ontwerper tot stand brengen, die de behoefte aan externe Webontwikkelaars verminderen. U kunt echter nog steeds CSS bijwerken en afzonderlijke secties bewerken via HTML. We werken ook aan een manier om sjablonen eenvoudig te migreren van de klassieke editor naar de nieuwe ontwerper.
 
 **steunt de nieuwe e-mailontwerper de taal van AMP?**
 
 Op dit moment is AMP niet ondersteund.
-
-**Kan activa via API in de nieuwe e-mailontwerper worden uitgegeven?**
-
-Assets die wordt bewerkt via de API wordt momenteel niet ondersteund in de nieuwe e-mailontwerper.
 
 **de dynamische inhoud door attribuut is groot, maar werkt de dynamische inhoud door segment nog?**
 
