@@ -3,7 +3,7 @@ description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
 title: Advanced BI Analytics - overzicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
+source-git-commit: 4e9b830d350f0c8b50873b359e64be281af226fa
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
 ## Een rapport exporteren {#export-a-report}
 
-Wanneer u een volledig rapport exporteert, zijn de exportopties PDF en PPT. Als u uw gegevens in XLS of CSV nodig hebt, kunt u dit doen door individuele visualisaties uit te voeren ([ zie hieronder ](#export-a-visualization)).
+Wanneer u een volledig rapport exporteert, zijn de exportopties PDF en PPT. Als u uw gegevens in .XLS of .CSV nodig hebt, kunt u dit doen door individuele visualisaties uit te voeren ([ zie hieronder ](#export-a-visualization)).
 
 >[!BEGINTABS]
 
@@ -113,7 +113,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
    >[!NOTE]
    >
    >* _Gegevens met huidige lay-out_ is slechts beschikbaar voor lijst en matrixbeelden.
-   >* _Onderliggende gegevens_ is niet beschikbaar in Marketo Engage.
+   * _Onderliggende gegevens_ is niet beschikbaar in Marketo Engage.
 
 1. Kies de gewenste bestandsindeling (.XLS, .CSV).
 
@@ -125,7 +125,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
