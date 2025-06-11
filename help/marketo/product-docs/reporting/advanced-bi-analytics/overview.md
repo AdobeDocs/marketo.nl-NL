@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
 title: Advanced BI Analytics - overzicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
+source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1138'
 ht-degree: 0%
 
 ---
@@ -58,11 +58,74 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
    ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
+## Een rapport exporteren {#export-a-report}
+
+Wanneer u een volledig rapport exporteert, zijn de exportopties PDF en PPT. Als u uw gegevens in XLS of CSV nodig hebt, kunt u dit doen door individuele visualisaties uit te voeren ([ zie hieronder ](#export-a-visualization)).
+
+>[!BEGINTABS]
+
+>[!TAB  van de pagina van Rapporten ]
+
+1. Voor de pagina van Rapporten, klik het &quot;meer&quot;pictogram (...) van het gewenste rapport en selecteer **Uitvoer**.
+
+   ![](assets/export-a-report-1a.png)
+
+1. Kies PDF of PPT en klik **Uitvoer**.
+
+   ![](assets/export-a-report-2a.png)
+
+>[!TAB  binnen het rapport ]
+
+1. Binnen het rapport zelf, klik het &quot;meer&quot;pictogram (**...**) op het hoger-recht en selecteer **Uitvoer**.
+
+   ![](assets/export-a-report-1b.png)
+
+1. Kies PDF of PPT en klik **Uitvoer**.
+
+   ![](assets/export-a-report-2b.png)
+
+>[!ENDTABS]
+
+### Een visualisatie exporteren {#export-a-visualization}
+
+Leer hoe u specifieke gedeelten van uw rapport exporteert.
+
+1. Kies het gewenste rapport.
+
+   ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
+
+1. Houd de muis boven de weergegeven visualisatie om drie pictogrammen weer te geven.
+
+   ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
+
+1. Klik op het pictogram &#39;Meer&#39; (**...**)
+
+   ![](assets/export-a-visualization-3.png)
+
+1. Selecteer **Gegevens van de Uitvoer**.
+
+   ![](assets/export-a-visualization-4.png)
+
+1. Kies de gewenste gegevensindeling.
+
+   ![](assets/export-a-visualization-5.png)
+
+   >[!NOTE]
+   >
+   >* _Gegevens met huidige lay-out_ is slechts beschikbaar voor lijst en matrixbeelden.
+   * _Onderliggende gegevens_ is niet beschikbaar in Marketo Engage.
+
+1. Kies de gewenste bestandsindeling (.XLS, .CSV).
+
+   ![](assets/export-a-visualization-6.png)
+
+1. Klik **Uitvoer**.
+
 ## Videodemo {#video}
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
