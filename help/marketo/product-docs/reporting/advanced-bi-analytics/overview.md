@@ -113,7 +113,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
    >[!NOTE]
    >
    >* _Gegevens met huidige lay-out_ is slechts beschikbaar voor lijst en matrixbeelden.
-   * _Onderliggende gegevens_ is niet beschikbaar in Marketo Engage.
+   >* _Onderliggende gegevens_ is niet beschikbaar in Marketo Engage.
 
 1. Kies de gewenste bestandsindeling (.XLS, .CSV).
 
