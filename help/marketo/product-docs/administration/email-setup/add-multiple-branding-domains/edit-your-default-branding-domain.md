@@ -4,9 +4,9 @@ description: Uw standaardbrandingdomein bewerken - Marketo Docs - Productdocumen
 title: Uw standaardbrandingdomein bewerken
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
    ![](assets/edit-your-default-branding-domain-4.png)
 
 Nu, kunt u [ om het even welke extra brandende domeinen ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} toevoegen u wenst.
+
+>[!NOTE]
+>
+>Als u bestaande SSL moet bijwerken of verwijderen, te bereiken gelieve uit [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

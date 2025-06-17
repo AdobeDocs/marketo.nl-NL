@@ -4,9 +4,9 @@ description: Een extra brandingdomein toevoegen - Marketo Docs - Productdocument
 title: Een extra brandingdomein toevoegen
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkel 
 
 ## Notities {#things-to-note}
 
-* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
+* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
 
 * **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [ kaartje van de Steun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
 
@@ -86,6 +86,8 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkel 
 * **Eerste-tijd het volgen domein**: De eerste-tijd verwezenlijking van e-mail het volgen verbindingsdomeinen zal handinterventie door [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} vergen. Het volgende subdomein wordt gecreeerd onder het zelfde domein toegestaan in UI.
 
 * **Toevoegend certs aan bestaande domeinen**: Het toevoegen van certs aan bestaande domeinen wordt momenteel niet gesteund. Voor reeds bestaande domeinen, of voor gevallen waar u het SSL certificaatvakje gemist hebt, moet u uit aan [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} reiken om het toegevoegde certificaat te krijgen.
+
+* **het uitgeven of het verwijderen van certs op bestaande domeinen**: Als u moet bijwerken of bestaande SSL verwijderen, gelieve te bereiken uit [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Schrapping van domeinen**: Het schrappen van een domein schrapt automatisch niet het SSL certificaat op dit ogenblik. Deze kwestie zal in een toekomstige versie worden besproken.
 
