@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
 
-## Hoe wordt het gebruikt {how-to-use}
+## Hoe wordt het gebruikt &lbrace;how-to-use&rbrace;
 
 1. Klik in het scherm Inhoud bewerken van uw bericht of in de Designer-e-mail op de knop Inhoud simuleren.
 
