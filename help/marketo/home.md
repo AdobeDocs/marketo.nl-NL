@@ -2,9 +2,9 @@
 title: Marketo-productdocumenten
 description: Leer hoe u uw marketing naar het volgende niveau kunt brengen met deze Marketo-productdocumenten. Ga aan de slag met een Marketo-zelfstudie en lees andere populaire artikelen.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: cfd0eed1c71c7331d089f3e0c19703521082703f
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '152'
 ht-degree: 8%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 8%
 
 ![](assets/marketo-docs-banner.jpg)
 
-De moderne vraag marketing strategieën vereisen van begin tot eind betrokkenheid om de best mogelijke klantenervaringen te leveren. Leer hoe u dit kunt bereiken met Marketo Engage - onderdeel van Adobe Experience Cloud - door ons assortiment van Marketo-documenten, -hulplijnen en -ondersteuning te lezen.
+De moderne vraag marketing strategieën vereisen van begin tot eind betrokkenheid om de best mogelijke klantenervaringen te leveren. Leer hoe u dit kunt bereiken met Marketo Engage, een onderdeel van Adobe Experience Cloud, door ons assortiment documenten, hulplijnen en zelfstudies te bekijken.
 
-Of u nu aan de slag gaat en een inleidende Marketo-zelfstudie wilt, of dat u een ervaren gebruiker bent die meer uit Marketo wil halen, u vindt alle antwoorden die u nodig hebt met de onderstaande koppelingen.
-
-Ontdek het assortiment Marketo-productdocumenten dat u kan helpen aantrekkelijke ervaringen met klanten te bieden.
+Of u nu aan de slag gaat en een inleidende Marketo Engage-zelfstudie wilt, of dat u een ervaren gebruiker bent die meer uit uw abonnement wil halen, u vindt alle antwoorden die u nodig hebt in de Marketo Engage Product Docs.
 
 ## Aan de slag
 
@@ -26,7 +24,7 @@ Ontdek het assortiment Marketo-productdocumenten dat u kan helpen aantrekkelijke
 * [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Marketo Engage-woordenlijst ](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
-## Populaire Marketo-artikelen
+## Populaire Marketo Engage-artikelen
 
 * [Begrijpen van  [!DNL Salesforce]  Synchronisatie](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
@@ -35,6 +33,8 @@ Ontdek het assortiment Marketo-productdocumenten dat u kan helpen aantrekkelijke
 * [Slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
 * [Adobe Dynamic Chat - Overzicht](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+
+* [Designer-overzicht e-mailen](/help/marketo/product-docs/email-marketing/email-designer/overview.md)
 
 ## Aanvullende informatie
 

@@ -5,9 +5,10 @@ title: E-mailrendering testen met Litmus
 description: Marketo Engage-gebruikers kunnen hun Litmus-account integreren, zodat ze naadloos inhoud kunnen testen die in verschillende e-mailclients wordt verzonden.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
 ## Hoe wordt het gebruikt {#how-to-use}
 
-1. In _geef e-mailinhoud_ scherm uit, klik de **Simuleer Inhoud** knoop.
+1. Op _geef e-mailinhoud_ scherm uit, klik de **Simuleer Inhoud** knoop.
 
    ![](assets/test-email-rendering-with-litmus-1.png)
 
@@ -54,10 +55,10 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
    >
    >Leer hoe te [ uw standaard e-mailcliëntlijst ](https://help.litmus.com/article/227-change-your-default-email-clients-list) aanpassen.
 
-1. Wanneer u klaar het testen bent, klik de achterpijl in upper-left van het scherm om aan het _Simulate Inhoud_ scherm terug te keren.
+1. Wanneer u klaar het testen bent, klik de achterste pijl op upper-left om aan het _Simulate Inhoud_ scherm terug te keren.
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **&#x200B;**&#x200B;knoop op het hoger-recht van het scherm van de Straal ook te klikken.
+**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **** knoop op het hoger-recht van het 6} E-mailPreviews _scherm van de Previews {te klikken._
 
 ![](assets/test-email-rendering-with-litmus-7.png)

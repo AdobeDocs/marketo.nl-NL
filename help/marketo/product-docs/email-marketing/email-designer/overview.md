@@ -5,14 +5,14 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '861'
 ht-degree: 0%
 
 ---
 
-# Overzicht {#overview}
+# Designer-overzicht e-mailen {#overview}
 
 Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 
@@ -26,7 +26,7 @@ De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde
 
 +++Leer hoe u toegang krijgt tot de e-mailontwerper
 
-Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
@@ -54,6 +54,8 @@ Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonn
 
 * [ Aanpasbare fragmenten ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Leer hoe te om fragmenten aan te passen door sommige van hun gebieden editable te maken.
 
+* [ de Tokens van Personalization ](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}: Leer over het nieuwe formaat voor personalisatietokens in de nieuwe e-mailontwerper.
+
 * [ Werk met de activa van AEM ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw digitale activa van AEM voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
 
 * [ geeft Beelden met Adobe Express ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"} uit: Leer hoe te om beelden in de E-mailredacteur van Adobe Marketo Engage uit te geven gebruikend Adobe Express.
@@ -61,6 +63,8 @@ Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonn
 * [ Gebruik de Medewerker AI ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: De generatieve AI technologie van Adobe van de hefboomwerking om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
 
 * [ de inhoud van het Slot in e-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Leer hoe te om inhoud in e-mailmalplaatjes te sluiten, die helpen onopzettelijke uitgeeft of schrappingen verhinderen.
+
+* [ het Emailteruggeven van de Test met Litmus ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Hefboomwerking uw rekening van de Leiding in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
 
 * [ de vergelijking van de Eigenschap ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Vergelijk de beschikbaarheid van eigenschappen in de vorige e-mailredacteur (E-mailRedacteur 2.0) en nieuwe E-mailDesigner.
 
@@ -112,4 +116,4 @@ Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experience
 
 **Welke browsers kan ik met nieuwe E-mail Designer gebruiken?**
 
-Het wordt aanbevolen Google Chrome, Apple Safari of Microsoft Edge te gebruiken. Volledige ondersteuning voor Mozilla Firefox is later beschikbaar.
+Het wordt aanbevolen Google Chrome, Apple Safari of Microsoft Edge te gebruiken. Volledige ondersteuning voor Mozilla Firefox is binnenkort beschikbaar.
