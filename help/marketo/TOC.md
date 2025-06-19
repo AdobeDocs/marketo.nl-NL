@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '9269'
+source-wordcount: '9279'
 ht-degree: 0%
 
 ---
@@ -1029,6 +1029,7 @@ ht-degree: 0%
          + [Functievergelijking](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-mailontwerp](product-docs/email-marketing/email-designer/email-authoring.md)
          + [E-mailsjabloonontwerp](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [E-mailrendering testen met Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Werken met AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Afbeeldingen bewerken met Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,6 +1038,7 @@ ht-degree: 0%
          + [GenStudio-integratie voor Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Inhoud vergrendelen](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI-assistent](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [E-mailSpam Rapport met SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + E-mailprogramma&#39;s {#email-programs}
          + Een e-mailprogramma maken {#creating-an-email-program}
             + [Een e-mailprogramma maken](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

@@ -4,8 +4,9 @@ product: marketo
 title: Afbeeldingen bewerken met Adobe Express
 description: Leer hoe u afbeeldingen in de Adobe Marketo Engage E-maileditor kunt bewerken met Adobe Express.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 0%
@@ -83,7 +84,7 @@ U kunt de Adobe Express-editor op twee manieren openen:
 
 ### Gebruikers met een Enterprise-licentie {#users-with-an-enterprise-license}
 
-Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen. Bezoek de [ Gids van de Gebruiker van Adobe Express ](https://helpx.adobe.com/nl/express/user-guide.html){target="_blank"}  om over elke het plaatsen te leren.
+Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen. Bezoek de [ Gids van de Gebruiker van Adobe Express ](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om over elke het plaatsen te leren.
 
 >[!IMPORTANT]
 >

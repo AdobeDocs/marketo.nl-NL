@@ -3,9 +3,9 @@ solution: Marketo Engage
 product: marketo
 description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
-feature: Email Editor
+feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '824'
 ht-degree: 0%
@@ -26,7 +26,7 @@ De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde
 
 +++Leer hoe u toegang krijgt tot de e-mailontwerper
 
-Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 

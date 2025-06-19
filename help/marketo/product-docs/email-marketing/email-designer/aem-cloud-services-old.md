@@ -1,18 +1,20 @@
 ---
-title: Document voor Connect Experience Manager
-description: Leer hoe u Adobe Experience Manager-Cloud Servicen met Adobe Marketo Engage kunt verbinden zodat u uw AEM kunt gebruiken.
+title: Connect Experience Manager-document
+description: Leer hoe u Adobe Experience Manager Cloud Services kunt verbinden met Adobe Marketo Engage zodat u uw AEM-middelen kunt benutten.
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Connect Adobe Experience Manager-Cloud Servicen {#connect-adobe-experience-manager-cloud-services}
+# Connect Adobe Experience Manager Cloud Services {#connect-adobe-experience-manager-cloud-services}
 
-Leer hoe u uw AEM Assets Cloud Servicen-account koppelt aan uw Adobe Marketo Engage-exemplaar zodat u de AEM Asset-opslagplaats in de Marketo Engage-e-mail Designer kunt gebruiken.
+Leer hoe u uw AEM Assets Cloud Services-account koppelt aan uw Adobe Marketo Engage-exemplaar zodat u uw AEM Asset-opslagplaats kunt benutten in de Marketo Engage Email Designer.
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ Leer hoe u uw AEM Assets Cloud Servicen-account koppelt aan uw Adobe Marketo Eng
 
 SCREENSHOT
 
-1. Klik **uitgeven** naast _Cloud Servicen van Adobe Experience Manager_.
+1. Klik **uitgeven** naast _de Diensten van de Wolk van Adobe Experience Manager_.
 
 SCREENSHOT
 
@@ -32,7 +34,7 @@ SCREENSHOT
 
 >[!NOTE]
 >
->Alleen opslagruimten die zijn gekoppeld in dezelfde IMS-org als uw abonnement op een Marketo Engage, worden weergegeven.
+>Alleen opslagplaatsen die zijn gekoppeld in dezelfde IMS-org als uw Marketo Engage-abonnement worden vermeld.
 
 1. U moet het certificaat van de a [ dienstcredentie ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
 
@@ -46,8 +48,8 @@ SCREENSHOT
 
 SCREENSHOT
 
-Alle afbeeldingen uit de bibliotheek voor digitaal middelenbeheer in die opslagplaats zijn nu toegankelijk via de Marketo Engage-e-mail Designer.
+Alle afbeeldingen uit de bibliotheek voor digitaal middelenbeheer in die opslagplaats zijn nu toegankelijk via de Marketo Engage Email Designer.
 
 >[!MORELIKETHIS]
 >
->[ Werk met de activa van de Experience Manager ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)
+>[ Werk met de activa van Experience Manager ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)
