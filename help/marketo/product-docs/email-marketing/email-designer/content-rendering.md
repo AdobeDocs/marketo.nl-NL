@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Editor
 hide: true
 hidefromtoc: true
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: c10984c5c4076103a4ccc81e94d595e0ec41c535
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
 
-## Hoe wordt het gebruikt &lbrace;how-to-use&rbrace;
+## Hoe wordt het gebruikt {#how-to-use}
 
 1. Klik in het scherm Inhoud bewerken van uw bericht of in de Designer-e-mail op de knop Inhoud simuleren.
 
