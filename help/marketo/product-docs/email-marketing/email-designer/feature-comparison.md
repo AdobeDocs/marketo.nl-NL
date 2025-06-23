@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -173,6 +173,12 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Beschikbaar</td>
   </tr>
   <tr>
+    <td>Litmus-integratie</td>
+    <td>Capaciteit om <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank"> met Litmus </a> te integreren om te zien hoe uw e-mails in verschillende e-mailcliënten zullen teruggeven.</td>
+    <td>Niet beschikbaar</td>
+    <td>Beschikbaar</td>
+  </tr>
+  <tr>
     <td>Personalization Editor</td>
     <td>Mogelijkheid om inhoud in e-mailberichten aan te passen met tokens.</td>
     <td>Beschikbaar</td>
@@ -253,12 +259,6 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
    <tr>
     <td>Handlebar Scripting</td>
     <td>Mogelijkheid om Handlebar-scripts te gebruiken in e-mails.</td>
-    <td>Niet beschikbaar</td>
-    <td>Gepland voor het derde kwartaal van 2015</td>
-  </tr>
-  <tr>
-    <td>Litmus-integratie</td>
-    <td>Mogelijkheid om met Litmus te integreren om te zien hoe uw e-mails worden weergegeven in verschillende e-mailclients.</td>
     <td>Niet beschikbaar</td>
     <td>Gepland voor het derde kwartaal van 2015</td>
   </tr>
