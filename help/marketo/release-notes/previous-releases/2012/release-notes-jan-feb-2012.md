@@ -4,20 +4,20 @@ description: Opmerkingen bij de release - jan/feb 2012 - Marketo Docs - Productd
 title: Opmerkingen bij de release - jan/feb 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: jan/feb. 2012 {#release-notes-jan-feb}
+# Opmerkingen bij de release: jan/feb 2012 {#release-notes-jan-feb}
 
 De volgende functies zijn opgenomen in de jan/feb-release. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
 
 ## Geavanceerde dynamische inhoud {#advanced-dynamic-content}
 
-_Beschikbaar voor Pro- en Enterprise-versies_
+_Beschikbaar voor Pro en de Versies van de Onderneming_
 
 Met geavanceerde dynamische inhoud kunt u aansprekende e-mailcommunicatie en bestemmingspagina&#39;s creëren relevant voor uw publiek zonder het moeten veelvoudige activa voor het zelfde bericht tot stand brengen. Met de bijgewerkte voorvertoningen kunt u elke unieke versie in één scherm bekijken.
 
@@ -25,7 +25,7 @@ Met geavanceerde dynamische inhoud kunt u aansprekende e-mailcommunicatie en bes
 
 ## Segmentatie  {#segmentation}
 
-_Beschikbaar voor Pro- en Enterprise-versies_
+_Beschikbaar voor Pro en de Versies van de Onderneming_
 
 De segmentatie is een groep segmenten, die een gerichte groep individuen zijn aan wie u markt. De segmenten worden bepaald door regels die door filtercriteria gelijkend op slimme lijsten worden gedreven. Uw segmenten kunnen worden gebaseerd op demografische gegevens, zoals functie of industrie, of op gedrag zoals bezochte webpagina&#39;s of aangeklikte koppelingen.
 
@@ -33,7 +33,7 @@ De segmentatie is een groep segmenten, die een gerichte groep individuen zijn aa
 
 ## Fragmenten {#snippets}
 
-_Beschikbaar voor Pro- en Enterprise-versies_
+_Beschikbaar voor Pro en de Versies van de Onderneming_
 
 Sla rijke inhoud op die u telkens opnieuw kunt gebruiken om statische of dynamische e-mails en bestemmingspagina&#39;s te maken.
 
@@ -41,7 +41,7 @@ Sla rijke inhoud op die u telkens opnieuw kunt gebruiken om statische of dynamis
 
 ## PURL&#39;s {#purls}
 
-_Beschikbaar voor Pro- en Enterprise-versies_
+_Beschikbaar voor Pro en de Versies van de Onderneming_
 
 Het gebruiken van Persoonlijke URLs (PURLs) marketers kan nu contact-specifieke URLs tot stand brengen, om verpersoonlijking, meetbaarheid en liftreacties in multi-aanraak marketing programma&#39;s voor zowel direct mail als e-mailcampagnes te drijven.
 
@@ -49,7 +49,7 @@ Het gebruiken van Persoonlijke URLs (PURLs) marketers kan nu contact-specifieke 
 
 ## Ondersteuning van de EU-privacyrichtlijn {#eu-privacy-directive-support}
 
-De nieuwe eigenschappen om browser te respecteren &quot;volgen&quot;montages omvatten de capaciteit om het volgen voor anonieme lood onbruikbaar te maken; Hierdoor wordt het gemakkelijker om de strengere EU-regels inzake privacy tracking na te leven.
+De nieuwe functies voor het naleven van de browserinstellingen &quot;Niet bijhouden&quot; omvatten de mogelijkheid om het bijhouden van gegevens voor anonieme leads uit te schakelen, waardoor naleving van de strengere EU-regels voor het bijhouden van privacy gemakkelijker wordt.
 
 ![](assets/image2014-9-23-9-3a51-3a32.png)
 
@@ -61,7 +61,7 @@ Organisaties kunnen nu een naadloze aanmelding bij de Marketo-toepassing onderst
 
 De E-mail- en Landing Page Editors zijn opnieuw ontworpen met een meer uitnodigende interface, intuïtieve navigatie en een aanzienlijk verbeterde gebruikerservaring, waaronder:
 
-Een HTML- en tekstweergave naast elkaar
+Een naast elkaar HTML- en tekstweergave
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -69,10 +69,10 @@ Van Naam, van E-mail, antwoord-aan (NIEUW) en Onderwerp worden getoond in de red
 
 ## Browserondersteuning {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 &amp; 9
-* **Opmerking**: Internet Explorer 7 wordt niet meer ondersteund
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 &amp; 9
+* **Nota**: wij steunen niet meer [!DNL Internet Explorer] 7
 
 ## Programmabeheer {#program-management}
 
@@ -94,8 +94,8 @@ Begrijp marketing bijdrage aan individuele opportuniteitsopbrengst
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## Analyse van de omzettingsfase van het programma {#program-revenue-stage-analysis}
+## Analyse van de omzettingsfase van programma {#program-revenue-stage-analysis}
 
-Verbeter inzicht in de snelheid van de programmaleiding door te begrijpen welke programma&#39;s de fast movers verwierven
+Vergroot insight in de snelheid van de programmavoorsprong door te begrijpen welke programma&#39;s de fast movers kregen
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

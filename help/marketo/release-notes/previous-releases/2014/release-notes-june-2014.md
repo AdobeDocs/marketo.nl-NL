@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - juni 2014 - Marketo Docs - Productdocu
 title: Release-aantekeningen -juni 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ De volgende functies zijn opgenomen in de release van juni 2014. Controleer of d
 
 ## Bijgewerkte gebruikersinterface - Binnenkort beschikbaar! {#updated-ui-coming-soon}
 
-Een nieuwe look and feel, inclusief navigatie voor Marketo Lead Management, komt binnenkort beschikbaar!
+Binnenkort in een latere release wordt een nieuwe look and feel weergegeven, inclusief navigatie voor [!DNL Marketo Lead Management] .
 
-## Insight-plug-in voor Outlook 2013 {#sales-insight-plugin-for-outlook}
+## [!DNL Sales Insight] plug-in voor [!DNL Outlook] 2013 {#sales-insight-plugin-for-outlook}
 
-Hiervoor moet de nieuwe plug-in worden gedownload. U kunt het downloaden van [hier](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+Hiervoor moet de nieuwe plug-in worden gedownload. U kunt het van [ hier ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) downloaden.
 
 ## Tokenresolutie {#token-resolution}
 
-Wanneer u een test-e-mail verzendt vanuit Sales Insight, worden de tokens in de e-mail momenteel niet opgelost en wordt de standaardwaarde verzonden. Deze verbetering zorgt ervoor dat tokens in teste-mails verdwijnen.
+Wanneer u een teste-mailbericht verzendt vanuit [!DNL Sales Insight] , worden de tokens die momenteel in de e-mail staan, niet omgezet en wordt de standaardwaarde verzonden. Deze verbetering zorgt ervoor dat tokens in teste-mails verdwijnen.
 
 ## Percentages aanpassen voor sterren en vlammen {#customize-percentages-for-stars-and-flames}
 
-[Het percentage instellen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) van leads die 1, 2 of 3 sterren en vlammen krijgen.
+[ plaats het percentage ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) van lood dat 1, 2, of 3 sterren en vlammen krijgt.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## ReST-API voor lead {#lead-rest-api}
+## REST-API voor lead {#lead-rest-api}
 
-Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om aan de slag te gaan met ReST moet u [een aangepaste service maken](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Ga vervolgens door naar de knop [ontwikkelaarssite](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) voor meer informatie over het gebruik van deze API.
+Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [ tot de douanedienst ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo leiden. Dan hoofd over aan de [ plaats van ontwikkelaars ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/) voor details bij het gebruiken van dit API.
 
-## Marketo Real-Time Personalization (RTP) campagnes Pagina Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-De Campagnes RTP omvatten nu een nieuw ontwerp met duimnagelmeningen en campagneprestaties. Bovendien kunt u [uw campagnes organiseren](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) op basis van datum of topprestaties.
+De Campagnes RTP omvatten nu een nieuw ontwerp met duimnagelmeningen en campagneprestaties. Bovendien, kunt u [ uw campagnes ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) volgens datum of hoogste prestaties organiseren.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ De Campagnes RTP omvatten nu een nieuw ontwerp met duimnagelmeningen en campagne
 
 Voeg al uw gegevens RTP binnen uw platform van de Webanalyse toe.
 
-De integratie met [Googles Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) is nu standaard ingeschakeld, dus schakel onder Accountinstellingen de switch in waarvoor u gegevens naar aangepaste GA-variabelen en -gebeurtenissen wilt verzenden.
+De integratie met [ Google Analytics ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) wordt nu toegelaten door gebrek, zo onder de Montages van de Rekening zet de schakelaar aan waarvoor de gegevens u door aan GA douanevariabelen en gebeurtenissen wilt verzenden.
 
-We hebben ook de integratie met [Adobe SiteCatalyst](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+Wij voltooiden ook de integratie met [ Adobe SiteCatalyst ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).

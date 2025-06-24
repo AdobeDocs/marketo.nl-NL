@@ -3,10 +3,9 @@ unique-page-id: 14745959
 description: Opmerkingen bij de release - lente 18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -17,55 +16,55 @@ De volgende functies zijn opgenomen in de release van het voorjaar van 18. Raadp
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. Opmerking: aan enkele functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## Marketo Sales Engage-, Launch- en ToutApp-updates {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo [!DNL Sales Engage] -, Launch - en [!DNL ToutApp] Updates {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Starten](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* ToutApp-updates
+* [!DNL ToutApp] Updates
 
 >[!AVAILABILITY]
 >
->Sales Engage is een add-on product. Neem contact op met uw Marketo-accountmanager of -accountmanager voor een prijsopgave.
+>[!DNL Sales Engage] is een invoegtoepassing. Neem contact op met uw Marketo Customer Success Manager of Account Executive voor een prijsopgave.
 
-U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden te bieden met de intelligentie, de inhoud, de playbooks en de analysemogelijkheden om meer van uw leads om te zetten in verkoopmogelijkheden. Verkoop Ingenieur voorziet verkoop en marketing van een verenigd platform voor overeenkomst over de klantenreis en laat betere coördinatie door een gedeelde mening van klant toe touchpoints.
+U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden te bieden met de intelligentie, de inhoud, de playbooks en de analysemogelijkheden om meer van uw leads om te zetten in verkoopmogelijkheden. [!DNL Sales Engage] biedt verkoop en marketing met één centraal platform voor betrokkenheid over de reis van de klant en maakt betere coördinatie mogelijk via een gedeelde weergave van de aanraakpunten van de klant.
 
-**ToutApp**
+**[!DNL ToutApp]**
 
-* **Compatibiliteitskaart**: Zorgt voor naleving van GDPR door de bron van verkoopcontacten en details van klantentoestemming voor het ontvangen van communicatie vast te leggen.
-* **Update voor wachtwoordbeleid**: Behoud uw gegevens veiliger met strengere vereisten voor het maken, opnieuw instellen en verlopen van wachtwoorden (voldoet aan de nalevingsvereisten voor Soc II - Type 1).
-* **Gestroomlijnde ervaring bij het instellen van accounts**: Installeer uw account en maak sneller verbinding met Gmail, Outlook en andere systemen.
+* **Kaart van de Naleving**: Verzeker naleving GDPR door de bron van verkoopcontacten en details van klantentoestemming voor het ontvangen van mededelingen te vangen.
+* **Update van het Beleid van het Wachtwoord**: Houd uw gegevens veiliger met strengere vereisten voor wachtwoordverwezenlijking, terugstellen, en afloop (voldoet aan Soc II - Type 1 nalevingsvereisten).
+* **Gestroomlijnde Ervaring van de Opstelling van de Rekening**: Krijg uw rekeningsopstelling en verbonden met [!DNL Gmail], [!DNL Outlook], en andere systemen sneller.
 
-## Marketo Sky Open bèta {#marketo-sky-open-beta}
+## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open bèta](https://help.marketo.com/)
+[ Marketo Sky Open Beta ](https://help.marketo.com/)
 
-Open de Marketo Sky-bèta om toegang te krijgen tot meer dan 100 nieuwe productiviteitsverhogende mogelijkheden, waaronder:
+Open de Marketo Sky-bètaversie om toegang te krijgen tot meer dan 100 nieuwe productiviteitsverhogende mogelijkheden, waaronder:
 
 * Een bijgewerkt navigatiemenu links, opgeslagen regels voor slimme lijsten en stroomhandelingen, massahandelingen voor het beheer van elementen en een geplande vervaldatum van elementen
 * In-app-hulplijnen en contextafhankelijke Help
 * Elementlabels en flexibelere kalenderweergaven
 
-## Prestatiegegevens {#performance-insights}
+## [!UICONTROL Performance Insights] {#performance-insights}
 
-[Prestatiegegevens](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Jaarlijkse vergelijking**
+**jaar-over-jaar Periode vergelijking**
 
 Verkrijg relevantere inzichten door resultaten te vergelijken met dezelfde periode in het voorgaande jaar.
 
-**Trending voor meerdere kanalen**
+**Trending voor Veelvoudige Kanalen**
 
 Vergelijk de prestaties van meerdere kanalen in de loop der tijd.
 
-**Aangepaste veldsynchronisatie en filteren van opportunity**
+**Synchronisatie en het Filtreren van het Gebied van de Aangepaste van de Kans**
 
 De resultaten van de filter door de Gebieden van de Douane van de Opportunity, als een specifiek verkoopgebied. Voor numerieke velden of valutavelden stelt u minimum- en maximumwaarden in, zoals een minimale opportunity-hoeveelheid, en genereert u inzichten voor specifieke gegevensbereiken.
 
-**Gedeelde snelle grafieken**
+**Gedeelde Snelle Grafieken**
 
-Deel uw snelle grafieken eenvoudig met andere gebruikers van Performance Insights.
+Deel uw Snelle grafieken eenvoudig met andere gebruikers van [!UICONTROL Performance Insights] .
 
-**Verbeterde bruikbaarheid**
+**Verbeteringen van de bruikbaarheid**
 
 Geoptimaliseerde navigatie en verbeterde workflows geven u inzicht in de criteria voor het succes van het programma en in de toegang tot de programmagegevens.
 
@@ -77,12 +76,16 @@ Stel het doel van het optimalisatiealgoritme voor ContentAI in om meer weergaven
 
 ## Integratie en API&#39;s {#integration-and-apis}
 
-[Statische lijst-API&#39;s](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+Integratie van Facebook Workplace
+
+Systeemmeldingen en interessante momenten verzenden naar [!DNL Facebook Workplace] .
+
+Statische lijst-API&#39;s
 
 U kunt lijsten tussen Marketo en andere systemen eenvoudiger beheren met nieuwe bidirectionele API&#39;s voor het op afstand maken, lezen, bijwerken en verwijderen van statische lijsten zonder actie te ondernemen in de Marketo-gebruikersinterface.
 
 ## Verbeteringen op gebied van privacy {#privacy-enhancements}
 
-[Privacy voor webtracering](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+Privacy voor webtracering
 
-Verbeterde Munchkin-tracking voldoet aan de lokale en internationale privacyregels door de IP-adressen van webbezoekers te anonimiseren en hen in staat te stellen zich permanent af te melden voor webtracering.
+Het verbeterde [!DNL Munchkin] bijhouden voldoet aan de lokale en internationale privacyregels door de IP-adressen van webbezoekers te anonimiseren en hen in staat te stellen zich permanent af te melden voor webtracering.

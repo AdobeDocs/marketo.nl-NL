@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - Augustus 2014 - Marketo Docs - Product
 title: Release-aantekeningen -augustus 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ De volgende functies zijn opgenomen in de release van augustus 2014. Raadpleeg d
 
 ## Licenties voor marketingkalender {#marketing-calendar-licenses}
 
-Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Zorg ervoor dat u [Licentie voor een marketingkalender uitgeven/intrekken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aan de gebruikers van uw keus vóór dan voor ononderbroken toegang.
+Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Ben zeker om een Vergunning van de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aan de gebruikers van uw keus vóór dan voor ononderbroken toegang uit te geven/in te trekken.[
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nieuwe gebruikersmachtigingen {#new-user-permissions}
 
@@ -33,9 +33,9 @@ De volgende nieuwe gebruikersmachtigingen zijn toegevoegd:
 | Triggercampagne activeren | Hiermee bepaalt u wie triggercampagnes kan en kan activeren. |
 | Batchcampagne plannen | Controle wie partijcampagnelooppas kan en niet kan plannen. |
 
-## Gebruikers en rollen exporteren vanuit Admin {#export-users-and-roles-from-admin}
+## Gebruikers en rollen exporteren vanuit [!UICONTROL Admin] {#export-users-and-roles-from-admin}
 
-U kunt nu [Een lijst met gebruikers en rollen exporteren](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) uit Marketo. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
+U kunt [ een Lijst van Gebruikers en Rollen ](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) van Marketo nu uitvoeren. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -47,17 +47,17 @@ U kunt nu alle ongebruikte kanalen en statussen verwijderen. Zoals altijd, kunt 
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## Geautomatiseerde DKIM {#automated-dkim}
+## Geautomatiseerd [!DNL DKIM] {#automated-dkim}
 
-Voor een betere leverbaarheid worden alle uitgaande e-mails ondertekend door DKIM (DomainKeys Identified Mail). Standaard wordt voor e-mailberichten een gedeelde DKIM-handtekening van Marketo gebruikt. U kunt deze handtekening aanpassen.
+Voor een betere leverantie worden alle uitgaande e-mails ondertekend door [!DNL DKIM] (DomainKeys Identified Mail). Standaard wordt voor e-mailberichten een gedeelde Marketo-handtekening [!DNL DKIM] gebruikt. U kunt deze handtekening aanpassen.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM wordt langzaam opgestart, u ziet het misschien een paar weken niet.
+>[!DNL DKIM] wordt langzaam uitgevoerd, u ziet het misschien een paar weken niet.
 
-## Updates voor realtime personalisatie {#real-time-personalization-updates}
+## Real-Time Personalization-updates {#real-time-personalization-updates}
 
 We hebben labels aan de campagnepagina toegevoegd, zodat u elementen kunt labelen voor uw harten.
 
@@ -65,7 +65,7 @@ We hebben labels aan de campagnepagina toegevoegd, zodat u elementen kunt labele
 
 ## Mobiele doelen {#mobile-targeting}
 
-U vroeg de gemeenschap en wij leverden die! U kunt nu een specifieke oproep tot actie voor mobiele gebruikers en gebruikers van tablets opnemen, uitsluiten of instellen.
+U vroeg de gemeenschap en wij leverden die! U kunt nu een specifieke call to action voor gebruikers van mobiele apparaten en tablets opnemen, uitsluiten of instellen.
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
@@ -93,6 +93,6 @@ Beheerdergebruikers kunnen gebruikers nu vergrendelen vanwege meerdere mislukte 
 
 ## Besturingselement voor bijhouden {#tracking-control}
 
-U kunt specifieke IPs van al het volgen en het melden in Echt - tijd Personalisatie nu uitsluiten.
+U kunt specifieke IPs van al het volgen en het melden in real time Personalization nu uitsluiten.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)

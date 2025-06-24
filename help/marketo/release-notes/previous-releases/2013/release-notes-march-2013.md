@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - maart 2013 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - maart 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van maart.
 
 ## Marketo-kalenderbestanden {#marketo-calendar-files}
 
-Een kalenderbestand maken als een **Mijn token** te gebruiken voor de bevestiging van gebeurtenissen en herinneringen. Dit geïntegreerde kalenderbestand (bijvoorbeeld het .ics-bestand) rendert alle tokens, inclusief Mijn tokens en de `{{member.webinar URL}}` token.
+Creeer een kalenderdossier als a **Mijn Symbolische** dat in uw gebeurtenisbevestiging en herinneringse-mails moet worden gebruikt. In dit geïntegreerde kalenderbestand (bijvoorbeeld het .ics-bestand) worden alle tokens weergegeven, inclusief Mijn tokens en de `{{member.webinar URL}}` -token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
@@ -35,7 +35,7 @@ Met een zweten krijgen jullie kansen om een prijs te winnen en hun vrienden over
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Aanvullende talen voor foutberichten voor formulieren {#additional-form-error-message-languages}
+## Aanvullende formuliertalen [!UICONTROL Error Message] {#additional-form-error-message-languages}
 
 Er zijn meer dan een dozijn talen toegevoegd aan de foutberichten van het formulier.
 

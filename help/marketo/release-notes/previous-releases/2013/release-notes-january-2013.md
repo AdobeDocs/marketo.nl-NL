@@ -4,20 +4,20 @@ description: Opmerkingen bij de release - januari 2013 - Marketo Docs - Productd
 title: Opmerkingen bij de release - januari 2013
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release: januari 2013 {#release-notes-january}
 
-De release van januari breidt ons sociale aanbod uit met **Verwijzingsvoorstellen**. Bovendien kunnen gebruikers van Marketo Lead Management hun tijdzone, taal en landinstellingen instellen. Houd er rekening mee dat functies gemarkeerd zijn met een &#42; zijn alleen beschikbaar in de Select Edition.
+De versie van Januari breidt ons sociaal aanbieden met **Verwijzingsaanbiedingen** uit. Bovendien kunnen gebruikers van [!DNL Marketo Lead Management] hun tijdzone, taal en landinstellingen instellen. Functies die zijn gemarkeerd met een &#42; , zijn alleen beschikbaar in de Select Edition.
 
 ## Verwijzingsvoorstellen {#referral-offers}
 
-A **Verwijzingsvoorstel** geeft je leads een prikkel om naar je vrienden te verwijzen. Creëer doelstellingen en beloningen voor succesvolle verwijzingen. U kunt het gebruiken op landingspagina&#39;s, uw website, en zelfs Facebook.
+A **Verwijzing Aanbieding** geeft uw lood een prikkel om hun vrienden te verwijzen. Creëer doelstellingen en beloningen voor succesvolle verwijzingen. U kunt het gebruiken op landingspagina&#39;s, uw website, en zelfs Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -29,15 +29,15 @@ U kunt de standaardtijdzone voor uw persoonlijke Marketo-account wijzigen. Zelfs
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Selecteer uw Marketo-beheertaal voor leads {#select-your-marketo-lead-management-language}
+## Selecteer uw [!DNL Marketo Lead Management] taal {#select-your-marketo-lead-management-language}
 
 U kunt de standaardtaal voor uw Marketo-gebruikersaccount wijzigen. Zelfs als het standaardabonnement Engels is, kunt u het in het Duits of Frans voor eigen gebruik wijzigen.
 
 ![](assets/image2014-9-22-15-3a21-3a18.png)
 
-## Foutberichten voor meerdere talen {#multi-lingual-form-error-messages}
+## Meertalig formulierfoutberichten {#multi-lingual-form-error-messages}
 
-Wanneer een lead een Marketo-formulier invult, worden sommige validatieberichten automatisch ingebouwd. U kunt voor deze foutberichten een andere weergavetaal kiezen. We ondersteunen nu Engels, Duits en Frans.
+Wanneer een lead een Marketo-formulier invult, worden sommige validatieberichten automatisch ingebouwd. U kunt voor deze foutberichten een andere weergavetaal kiezen. Wij steunen nu Engels, Duits, en Frans.
 
 ![](assets/image2014-9-22-15-3a21-3a33.png)
 
@@ -45,9 +45,9 @@ Een voorbeeld van een Frans formulier:
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## Selecteer je taal voor het Verkoopoverzicht (alleen Salesforce) {#select-your-sales-insight-language-salesforce-only}
+## Selecteer uw [!DNL Sales Insight] taal ([!DNL Salesforce] slechts) {#select-your-sales-insight-language-salesforce-only}
 
-Als je voorkeur voor de Salesforce-taal is ingesteld op Frans of Duits, wordt deze voorkeur gebruikt voor Marketo Sales Insight. Download het nieuwste MSI-pakket voor deze functionaliteit (beschikbaar in de week van 14 januari).
+Als uw voorkeur voor de [!DNL Salesforce] -taal is ingesteld op Frans of Duits, zal Marketo [!DNL Sales Insight] zich aan deze voorkeur houden. Download het nieuwste MSI-pakket voor deze functionaliteit (beschikbaar in de week van 14 januari).
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
@@ -59,6 +59,6 @@ In veldweergavenamen kan tekst in verschillende talen worden weergegeven (zo wor
 
 ## Programmagegevens wijzigen {#change-program-data}
 
-De de stroomstap van de Gegevens van het Programma van de Verandering staat u toe om de Status van het Succes en de Datum van het Succes van een programmalid manueel door een campagne te veranderen. U kunt deze stroomstap gebruiken om een fout te corrigeren of om handmatig een lid te wijzigen dat mogelijk niet naar wens aan het programma heeft deelgenomen.
+Met de stap [!UICONTROL Change Program Data] flow kunt u de [!UICONTROL Success] status en [!UICONTROL Success Date] van een programmalid handmatig wijzigen via een campagne. U kunt deze stroomstap gebruiken om een fout te corrigeren of om handmatig een lid te wijzigen dat mogelijk niet naar wens aan het programma heeft deelgenomen.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

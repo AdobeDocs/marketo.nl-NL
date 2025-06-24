@@ -4,65 +4,65 @@ description: Opmerkingen bij de release - juli 2010 - Marketo Docs - Productdocu
 title: Opmerkingen bij de release - juli '20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '629'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: 20 juli {#release-notes-july}
+# Opmerkingen bij de release: juli &#39;20 {#release-notes-july}
 
 De volgende functies zijn opgenomen in de release van juli 2010. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
->Houd er rekening mee dat, afhankelijk van het huidige pakket, objecten met een ster ( ![(ster)](assets/yellow-star.png)) moet mogelijk een toegevoegde waarde worden aangeschaft. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Houd er rekening mee dat, afhankelijk van het huidige pakket, items met een ster ( ![ (ster) ](assets/yellow-star.png) ) mogelijk een toegevoegde waarde moeten aanschaffen. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
-**_Kwartaalreleases_** De volgende functies worden vrijgegeven op **31 juli 2020**.
+**_Kwartaalversies_** De volgende eigenschappen zullen op **31 Juli, 2020** worden vrijgegeven.
 
 ## Beheer {#administration}
 
-* **[&quot;Gebruikt door&quot;-export in veldbeheer](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: Beheerders kunnen nu alle koppelingen met de elementen &quot;Gebruikt door&quot; voor een geselecteerd veld exporteren naar een CSV-bestand. Deze verbetering kan zowel beheerders als niet-beheerders helpen ongebruikte velden op te ruimen. Bovendien kunnen elementen nu worden geopend in een nieuw browsertabblad of venster.
+* **[&quot;Gebruikt door&quot;Uitvoer in het Beheer van het Gebied](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: De beheerders kunnen alle &quot;Gebruikt door&quot;activa nu uitvoeren verbindingen voor een geselecteerd gebied in een Csv- dossier. Deze verbetering kan zowel beheerders als niet-beheerders helpen ongebruikte velden op te ruimen. Bovendien kunnen elementen nu worden geopend in een nieuw browsertabblad of venster.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-![(ster)](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
-* **Bijgewerkte gebruikersinterface voor accountprofilering**: Vereenvoudig het maken van uw doelaccountlijst in Accountprofilering met gestroomlijnde stappen in één scherm.
+* **bijgewerkte UI voor het Profileren van de Rekening**: vereenvoudig de verwezenlijking van uw lijst van de doelrekening in het Profileren van de Rekening met gestroomlijnde stappen allen in één enkel scherm.
 
 <br> 
 
-**_Vrijgeven door het Kwartaal_**
+**_vrijstellend door het Kwartaal_**
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
 
-* **Forms Service**: We introduceren een sterkere validatie van formulierveldsyntaxis en de mogelijkheid om gemeenschappelijke botpatronen te blokkeren met nieuwe functies voor beveiligde domeinen voor het laden van pagina&#39;s. Door het blokkeren van botpatronen kunt u de verzending van spamformulieren verminderen en de databasekwaliteit verbeteren.
+* **Dienst van Forms**: Wij introduceren sterkere bevestiging van de de syntaxis van het vormgebied en de capaciteit om gemeenschappelijke bot patronen met nieuwe Beveiligde Domeinen voor het Bestaan van Pagina&#39;s mogelijkheden te blokkeren. Door het blokkeren van botpatronen kunt u de verzending van spamformulieren verminderen en de databasekwaliteit verbeteren.
 
 >[!NOTE]
 >
 >De volledige implementatie van de uitgebreide validatie van de formulierveldsyntaxis is uitgesteld tot na onze release van januari 2021.
 
-* **Toegenomen URI-groottebeperking voor bron-API**: De de formaatgrens van het uniforme middel herkenningsteken (URI) wordt verhoogd van 8KB aan 65KB alvorens &quot;_method&quot;parameter te schrappen. Bij het uitvoeren van lange vraagkoorden, zal deze groottebeperking de gegevens toestaan om gemakkelijker over te gaan. De verwijdering van de parameter &quot;_method&quot; maakt deel uit van een aanstaande veiligheidsverbetering.
+* **Verhoogde Limiet van de Grootte van activa API URI**: De eenvormige grens van de middelherkenningsteken (URI) wordt verhoogd van 8KB aan 65KB voorafgaand aan de verwijdering van &quot;_method&quot;parameter. Bij het uitvoeren van lange vraagkoorden, zal deze groottebeperking de gegevens toestaan om gemakkelijker over te gaan. De verwijdering van de parameter &quot;_method&quot; maakt deel uit van een aanstaande veiligheidsverbetering.
 
-## Verkoopoverzicht {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
-![(ster)](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
-* **[Verkoopinzicht ingeschakeld voor klanten met niet-native integratie van Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (bèta)**: De klanten van de Marketo Engage met niet-inheemse integratie van Salesforce CRM kunnen de Inzicht van de Verkoop nu gebruiken om hun verkoopteams te helpen begrijpen, voorrang geven, en met de meest betrokken lood en de kansen in wisselwerking staan om slimme verkoop en snellere overeenkomsten toe te laten.
+* **[[!DNL Sales Insight] Toegelaten voor Klanten met de Integratie van niet-inheemse  [!DNL Salesforce]  CRM ](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: De klanten van Marketo Engage met de integratie van niet-inheemse [!DNL Salesforce] CRM kunnen [!DNL Sales Insight] nu gebruiken om hun verkoopteams te helpen begrijpen, voorrang geven, en met de meest betrokken lood en kansen in wisselwerking staan om slimme het verkopen en snellere overeenkomsten toe te laten.
 
-## Verkoop Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
-![(ster)](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
-* **[Verbeterde toestemming van twee partijen voor de Vraag van de Verkoop:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Admins hebben nu grotere controle over de configuraties van de vraagopname. [Opnamen van oproepen inschakelen](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) met vertrouwen dat u zich houdt aan de wetgeving inzake wederzijdse instemming. Automatiseer het bericht van de vraag die wordt geregistreerd en activeer audioclips om vóór de vraag worden gespeeld.
+* **[Verbeterde Toestemming van twee partijen voor de Vraag van de Verkoop:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Admins heeft nu grotere controle over de configuraties van de vraagopname. [ laat vraagopnamen ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) met vertrouwen toe dat u de wet van de twee-partijtoestemming in acht neemt. Automatiseer het bericht van de vraag die wordt geregistreerd en activeer audioclips om vóór de vraag worden gespeeld.
 
 <br> 
 
 ## Aankondigingen en afwaarderingen {#announcements-deprecations}
 
-* **Parameter &#39;_method&#39;-parameter voor element-API verwijderen**: Na september 2020, zullen de eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen. Om tegemoet te komen aan verzoeken die deze parameter vereisen, worden de URI-limieten voor de bron-API&#39;s verhoogd van 8 kB naar 65 kB.
-* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Met deze versie van Munchkin JavaScript Client, versie 159, beginnen we met het vervangen van de Munchkin Associate Lead-methode. Als deze wordt aangeroepen, wordt er een waarschuwing weergegeven dat de methode in een toekomstige versie wordt verwijderd. Nadat de methode is verwijderd, is deze niet meer functioneel en wordt geprobeerd deze te gebruiken. Marketo Engage klanten die deze methode onlangs hebben gebruikt, zullen individueel van hun gebruik op de hoogte worden gesteld.
-* **Ondersteuning voor Internet Explorer**: Zoals eerder aangekondigd, eindigt de ondersteuning van Marketo Engage voor Internet Explorer 11 op **31 juli 2020**. We blijven Google Chrome, Mozilla Firefox, Apple Safari en Microsoft Edge ondersteunen.
-* **Standaardeigenschap voor Sky**: De optie die beheerders of gebruikers kunnen instellen als de standaardeleving, wordt in deze release verwijderd ter voorbereiding op een update van de primaire gebruikerservaring. Meer informatie over de update van de primaire ervaring, die voor later dit jaar is gepland, zal in juli beschikbaar zijn. Gebruikers die Marketo Sky als hun standaardervaring hebben geplaatst, of toegang tot Marketo Sky hebben gekregen, kunnen tot Marketo Sky van een tegel op de Mijn homepage van Marketo blijven toegang hebben.
-* **EdgeHTML (non-Chromium) Microsoft Edge-ondersteuning**: Marketo Engage biedt eind 2020 geen ondersteuning meer voor EdgeHTML-versies van Microsoft Edge. Vanaf 1 januari 2021 ondersteunen we alleen de nieuwste Chromium-versie van Microsoft Edge.
+* **Activum API &quot;_method&quot;de Verwijdering van de Parameter**: Na September 2020, zullen de eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in een POST lichaam over te gaan om de lengtebeperkingen van URI te mijden. Om tegemoet te komen aan verzoeken die deze parameter vereisen, worden de URI-limieten voor de bron-API&#39;s verhoogd van 8 KB naar 65 KB.
+* **[[!DNL Munchkin] associate Lood ](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Met deze versie van de Cliënt van Munchkin JavaScript, versie 159, zullen wij met afschrijving van de [!DNL Munchkin] Associate methode van de Lood beginnen. Als deze wordt aangeroepen, wordt er een waarschuwing weergegeven dat de methode in een toekomstige versie wordt verwijderd. Nadat de methode is verwijderd, is deze niet meer functioneel en wordt geprobeerd deze te gebruiken. Marketo Engage-klanten die deze methode onlangs hebben gebruikt, zullen individueel op de hoogte worden gesteld van hun gebruik.
+* **Steun voor Internet Explorer**: Zoals eerder aangekondigd, beëindigt de steun van Marketo Engage voor Internet Explorer 11 op **31 Juli, 2020**. We blijven [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL  Apple Safari] en [!DNL Microsoft Edge] ondersteunen.
+* **Van het Standaard luchtruim Ervaring**: De optie voor beheerders of gebruikers om [!DNL Marketo Sky] als standaardervaring te plaatsen zal in deze versie in voorbereiding op een update aan de primaire gebruikerservaring worden verwijderd. Meer informatie over de update van de primaire ervaring, die voor later dit jaar is gepland, zal in juli beschikbaar zijn. Gebruikers die [!DNL Marketo Sky] als hun standaardervaring hebben ingesteld of toegang hebben gekregen tot [!DNL Marketo Sky] , kunnen [!DNL Marketo Sky] blijven gebruiken via een tegel op de startpagina van Mijn Marketo.
+* **EdgeHTML (niet-Chromium) [!DNL Microsoft Edge] steun**: Marketo Engage zal geen versies EdgeHTML van Microsoft Edge aan het eind van 2020 meer steunen. Vanaf 1 januari 2021 ondersteunen we alleen de nieuwste Chromium-versie van Microsoft Edge.

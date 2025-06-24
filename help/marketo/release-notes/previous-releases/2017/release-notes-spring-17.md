@@ -3,10 +3,9 @@ unique-page-id: 12977439
 description: Opmerkingen bij de release - lente 17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
@@ -15,88 +14,88 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van het voorjaar van 17. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
-Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Opmerking**: Als een onderwerp meerdere subkoppen heeft, worden de koppelingen daar geplaatst.
+Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Nota**: Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [ LinkedIn Lood Gen Forms ](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) zijn een directere manier voor een bedrijf om leidende generatiecampagnes op LinkedIn te leiden. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de details van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
+[[!UICONTROL LinkedIn Lead Gen] Forms ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) is een directere manier voor een bedrijf om lood generatiecampagnes in werking te stellen [!DNL LinkedIn]. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de gegevens van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
 
-De Marketo-integratie met LinkedIn Lead Gen Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe **Vult LinkedIn Lead Gen Form uit** activeren en filteren.
+De Marketo-integratie met [!UICONTROL LinkedIn Lead Gen] Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. De acties en de berichten van de follow-up kunnen dan worden geautomatiseerd gebruikend de nieuwe **Vult uit [!DNL LinkedIn Lead Gen] 2} trekker en filter van de Vorm {uit.**
 
 ![](assets/release-notes-image.png)
 
-## [MSI-sjabloon verlopen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
+## [ vervalt Malplaatje MSI ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
-Gone is de dagen van het schoonmaken van verouderde sjablonen in Sales Insight. Stel een vervaldatum in wanneer u uw e-mailbericht publiceert en wij zorgen ervoor dat het publiceren van het bericht voor u ongedaan wordt gemaakt wanneer de vervaldatum omslaat.
+Gone zijn de dagen van het opschonen van verouderde sjablonen in [!DNL Sales Insight] . Stel een vervaldatum in wanneer u uw e-mailbericht publiceert en wij zorgen ervoor dat het publiceren van het bericht voor u ongedaan wordt gemaakt wanneer de vervaldatum omslaat.
 
 >[!NOTE]
 >
->Door de vervaldatum voor 5/31/17 vast te stellen, wordt de template op 31/17 van het Verkoopoverzicht aan het einde van de dag verwijderd.
+>Als u de vervaldatum 5/31/17 instelt, wordt de sjabloon verwijderd uit [!DNL Sales Insight] aan het einde van de dag op 31/51/17.
 
 ![](assets/four-281-29.png)
 
-## [Bulk Extraheren-API&#39;s voor mensen en activiteiten](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [ Bulk extraheert APIs voor Mensen en Activiteiten ](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
 Breng eenvoudig grote hoeveelheden personen- en activiteitsgegevens over van Marketo naar uw externe systemen.
 
 ## Verbeteringen voor ABM {#abm-enhancements}
 
-**[Aangepaste velden op ABM-benoemde accounts](https://docs.marketo.com/x/1wnG)**
+**[Gebieden van de Douane op ABM Genoemde Rekeningen ](https://docs.marketo.com/x/1wnG)**
 
 Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde accounts. U kunt deze aangepaste velden toewijzen aan velden in uw CRM-accountobject en Marketo ABM synchroniseert de gegevens, zodat u ABM Named Accounts kunt uitbreiden en uw marketing kunt stimuleren.
 
-**[Percentage scores op ABM-benoemde accounts](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Percentile het Scoren op ABM Genoemde Rekeningen ](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 De score voor benoemde accounts kan sterk variëren. Marketo ABM berekent nu automatisch een percentiel voor elk van uw scores, zodat u in een oogopslag kunt zien waar elke Benoemde Rekening onder uw andere Benoemde Rekeningen rangschikt.
 
-**[ABM-accountlijst-API&#39;s](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[ABM Lijst APIs van de Rekening ](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Profiteer van uitgebreide en robuuste integratie van ABM-partners met verbeterde API-ondersteuning voor benoemde accountlijsten.
 
-## Verbeteringen voor webpersonalisatie {#web-personalization-enhancements}
+## Verbeteringen voor Web Personalization {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
-**[Webcampagne tijdens schuiven](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[Campagne van het Web op Schuiven](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-De nieuwe gevolgen van de Campagne van het Web verstrekken uw Webbezoekers een meer gepersonaliseerde ervaring. Stel uw gepersonaliseerde webcampagnes zodanig in dat deze alleen worden weergegeven wanneer een webbezoeker omlaag schuift op uw webpagina. U kunt uw Campagnes van het Web van de Dialoog plaatsen om op scroll te tonen die op wordt gebaseerd:
+De nieuwe gevolgen van de Campagne van het Web verstrekken uw Webbezoekers een meer gepersonaliseerde ervaring. Stel uw gepersonaliseerde weergave [!UICONTROL Web Campaigns] in om alleen weer te geven wanneer een webbezoeker omlaag schuift op uw webpagina. U kunt het dialoogvenster [!UICONTROL Web Campaigns] zo instellen dat het tijdens het schuiven wordt weergegeven op basis van:
 
 * percentage van de pagina dat wordt geschoven
 * pixel bereikt
 * onder de pagina schuiven
 
-**[Webcampagne bij afsluiten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[Campagne van het Web op de Intentie van de Uitgang](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Leg de aandacht van uw bezoeker vast voordat deze de pagina sluit. Stel uw gepersonaliseerde webcampagnes zodanig in dat deze alleen worden weergegeven wanneer een muisbeweging aangeeft dat de bezoeker de pagina verlaat.
+Leg de aandacht van uw bezoeker vast voordat deze de pagina sluit. Stel uw gepersonaliseerde weergave [!UICONTROL Web Campaigns] alleen in als een muisbeweging aangeeft dat de bezoeker de pagina verlaat.
 
-**[Animatie-effecten voor webcampagnes](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[Gevolgen van de Animatie voor[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Plaats de animatie gevolgen voor uw Campagne van het Web van de Dialoog om aan te passen hoe een campagne bij het ingaan van of het weggaan van uw Web-pagina verschijnt. U kunt uit 6 verschillende gevolgen selecteren en de timing en de richting van de dialoog controleren.
 
 ![](assets/animationoptins.png)
 
-**[Dialoogvenster Aanpassing knop sluiten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[de Dialoog sluit de Knoop Aanpassing](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Pas de knop Sluiten voor dialoogvensters aan. Maak een keuze uit een reeks opties die worden gebruikt in de webcampagnes van de stijl van het dialoogvenster Transparant. Selecteer het pictogram, de kleur en de positie voor de knop Sluiten. U kunt ook uw eigen knopafbeelding toevoegen.
+Pas de knop Sluiten voor dialoogvensters aan. Maak een keuze uit een reeks opties die worden gebruikt in de stijl van het dialoogvenster Transparant [!UICONTROL Web Campaigns] . Selecteer het pictogram, de kleur en de positie voor de knop Sluiten. U kunt ook uw eigen knopafbeelding toevoegen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-**[Webcampagnes archiveren](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
+**[Campagnes van het Web van het Archief](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
-Archief is een nieuwe status van de Campagne van het Web die u toestaat om de Campagnes van het Web te archiveren en hen te verbergen van de standaardmening van de Campagne van het Web. Zo kunt u zich richten op uw meest relevante, actieve campagnes en oudere gearchiveerde campagnes op aanvraag ophalen.
+Archief is een nieuwe status van de Campagne van het Web die u toestaat om [!UICONTROL Web Campaigns] te archiveren en hen te verbergen van de standaardmening van de Campagne van het Web. Zo kunt u zich richten op uw meest relevante, actieve campagnes en oudere gearchiveerde campagnes op aanvraag ophalen.
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Lokalisatie](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localization](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 Web Personalization wordt nu aangeboden in alle door Marketo ondersteunde talen (Engels, Japans, Duits, Spaans, Frans en Portugees).
 
 ## Voorspelende verbeteringen {#predictive-enhancements}
 
-**[Lokalisatie](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localization](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
 Voorspelende inhoud wordt nu aangeboden in alle door Marketo ondersteunde talen (Engels, Japans, Duits, Spaans, Frans en Portugees).
 
-## [Verouderde Rich Text Editor en Form Editor 1.0 Deprectie](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [ Verouderde Rich de Redacteur van de Tekst en Redacteur 1.0 van de Vorm Verdringing ](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 Vanaf 1 augustus 2017 zullen klanten die nog steeds de oude Rich Text Editor en de Form Editor 1.0 gebruiken, automatisch overstappen op de nieuwe ervaring.

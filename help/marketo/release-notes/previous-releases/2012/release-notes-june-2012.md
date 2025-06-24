@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - juni 2012 - Marketo Docs - Productdocu
 title: Release-aantekeningen -juni 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Juni 2012 {#release-notes-june}
+# Opmerkingen bij de release: juni 2012 {#release-notes-june}
 
 ## Verbeteringen in Marketo-hoofdbeheer {#marketo-lead-management-enhancements}
 
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 U kunt de naam van uw slimme lijsten, statische lijsten en campagnes wijzigen. Als u deze elementen gebruikt in filters, triggers of stromen, wordt de naam daar ook automatisch bijgewerkt. U hebt de naam van uw e-mails, formulieren en mappen altijd kunnen wijzigen.
 
-En als bonus verbeterden we het invoeren en bekijken van beschrijvende tekst voor activa.
+En, als bonus, verbeterden we het invoeren en bekijken van beschrijvende tekst voor activa.
 
 ![](assets/image2014-9-23-10-3a23-3a10.png)
 
 ## Veld-toewijzing importeren {#import-field-mapping}
 
-We hebben het importeren van een lijst naar Marketo veel eenvoudiger gemaakt! Tijdens het importeren kunt u de naam van het Marketo-veld toewijzen aan de kolomkopnaam in het importbestand. Bovendien kunt u in Admin aliasnamen instellen die zijn toegewezen aan de veldnaam in Marketo, zodat uw gebruikers altijd het juiste veld selecteren.
+We hebben het importeren van een lijst naar Marketo veel eenvoudiger gemaakt! Tijdens het importeren kunt u de naam van het Marketo-veld toewijzen aan de kolomkopnaam in het importbestand. Bovendien kunt u in [!UICONTROL Admin] aliasnamen instellen die zijn toegewezen aan de veldnaam in Marketo, zodat uw gebruikers altijd het juiste veld selecteren.
 
 Als u door gaat met het importeren en toewijzen van velden, onthoudt Marketo de toewijzingen en geeft het deze weer tijdens het importeren, voor meer gebruiksgemak. En om het leven nog gemakkelijker te maken, kunt u de kopbal van de Waarde van de Steekproef klikken om de verschillende waarden te zien die op het gebied zouden bevolken. Zo weet u zeker dat u het juiste veld steeds in kaart brengt!
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## Samenvattingspagina voor slimme lijsten en statische lijsten {#summary-page-for-smart-lists-and-static-lists}
+## [!UICONTROL Summary] Pagina voor slimme lijsten en statische lijsten {#summary-page-for-smart-lists-and-static-lists}
 
 Heb je je ooit afgevraagd waar je lijsten worden gebruikt? Of wie heeft de lijst gemaakt of deze voor het laatst gewijzigd? De nieuwe overzichtspagina beschikbaar op Slimme Lijsten en statische lijsten, zal u van deze belangrijke details voorzien.
 
@@ -41,13 +41,13 @@ Op de bestaande overzichtspagina&#39;s van Programma en van de Campagne, hebben 
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Gebruikt door voor elementen {#used-by-for-assets}
+## [!UICONTROL Used By] voor Assets {#used-by-for-assets}
 
-We hebben een nieuw tabblad toegevoegd aan onze overzichtspagina&#39;s met middelen, de zogenaamde Used by!
+We hebben een nieuw tabblad toegevoegd aan de elementpagina&#39;s [!UICONTROL Summary] met de naam [!UICONTROL Used By] !
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Voorbeeld: Wordt gebruikt door voor statische lijsten
+Voorbeeld: [!UICONTROL Used By] voor statische lijsten
 
 ## Rasterlijnen op de landingspagina {#landing-page-gridlines}
 
@@ -63,21 +63,21 @@ Wanneer het plannen van een campagne, kunt u op de verbinding klikken om de lijs
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Wacht stap - Token en mijn token leiden {#wait-step-lead-token-and-my-token}
+## [!UICONTROL Wait] Stap - Token en mijn token leiden {#wait-step-lead-token-and-my-token}
 
-In onze release van mei hebben we geavanceerde opties toegevoegd aan de stap Wachttijd. Met deze wijzigingen kunt u een werkdag, datum en tijd opgeven. In deze versie, voegden wij de capaciteit toe om een teken in de wachttijdstap te gebruiken. U kunt bijvoorbeeld `{{lead.Birthday}}` om een e-mail op hun Verjaardag te verzenden, of gebruik `{{my.Event Date}}` om een laatste webinar-herinnering te verzenden.
+In onze release van mei hebben we geavanceerde opties toegevoegd aan de stap [!UICONTROL Wait] flow. Met deze wijzigingen kunt u een werkdag, datum en tijd opgeven. In deze versie, voegden wij de capaciteit toe om een teken in de wachttijdstap te gebruiken. U kunt `{{lead.Birthday}}` bijvoorbeeld gebruiken om een e-mail te verzenden op de verjaardag van de geboorte, of `{{my.Event Date}}` gebruiken om een laatste webinar-herinnering te verzenden.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Weergeven als miniaturen in Design Studio {#view-as-thumbnails-in-design-studio}
+## [!UICONTROL View] als [!UICONTROL Thumbnails] in Design Studio {#view-as-thumbnails-in-design-studio}
 
 Schakel de weergave van een lijst met afbeeldingen naar een miniatuurweergave!
 
 ![](assets/image2014-9-23-10-3a26-3a13.png)
 
-Opmerking: Vanaf deze release wordt vorige sortering op slimme-lijstrasters niet toegepast op de volgende slimme lijst die u weergeeft. Als u bijvoorbeeld een slimme lijst sorteert op Bedrijfsnaam, wordt de volgende slimme lijst die door hetzelfde veld wordt weergegeven, niet automatisch gesorteerd.
+Opmerking: vanaf deze release wordt vorige sortering op slimme-lijstrasters niet toegepast op de volgende slimme lijst die u weergeeft. Als u bijvoorbeeld een slimme lijst sorteert op Bedrijfsnaam, wordt de volgende slimme lijst die door hetzelfde veld wordt weergegeven, niet automatisch gesorteerd.
 
-Herinnering: E-mailprestatierapport wordt bijgewerkt.
+Herinnering: de upgrade van het e-mailprestatierapport wordt uitgevoerd.
 
 ## Verbeteringen voor Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics-enhancements}
 

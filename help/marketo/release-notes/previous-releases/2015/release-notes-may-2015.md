@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - mei 2015 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - mei 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Mei 2015 {#release-notes-may}
+# Opmerkingen bij de release: mei 2015 {#release-notes-may}
 
 De volgende functies zijn opgenomen in de release van mei 2015. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
 
@@ -31,20 +31,20 @@ Hebt u op de knop Verzenden geklikt voordat een e-mailprogramma klaar was om uit
 
 ## E-maillevering  {#email-deliverability}
 
-Marketo voert nu wekelijkse geautomatiseerde SPF- en DKIM-controles uit op de toegevoegde domeinen. Houd hier bovenop door uw meldingen te controleren.
+Marketo voert nu wekelijkse geautomatiseerde [!DNL SPF] - en [!DNL DKIM] -controles uit op de toegevoegde domeinen. Houd hier bovenop door uw meldingen te controleren.
 
 ## Gedrag e-mailsjabloon wijzigen {#email-template-behavior-change}
 
 Vanaf deze release zijn geldige HTML-opmerkingen nu toegestaan en niet verwijderd wanneer u nieuwe e-mailberichten maakt.
 
-## RTP: Segmenteditor slepen en neerzetten {#rtp-drag-and-drop-segment-editor}
+## RTP: de Redacteur van het Segment van de belemmering en van de Daling {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Segmenteditor slepen en neerzetten](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [ de Redacteur van het Segment van de Belemmering en van de Daling ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Sleep de criteria naar de gesegmenteerde builder, definieer de waarde en u bent op weg naar het maken van een real-time segment.
 
-## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
+## RTP: Aanbevelingen voor voorspellende inhoud {#rtp-predictive-content-recommendations}
 
-[Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[Aanbevelingen voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 De machine van RTP van het gebruik het leren en voorspellende analysealgoritmen om de juiste inhoud aan het juiste vooruitzicht aan te bevelen. Verbeter uw inhoudselementen visueel met beelden en tekstbeschrijvingen en adviseer meer dan één inhoudsmiddel.

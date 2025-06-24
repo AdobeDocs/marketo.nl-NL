@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - herfst 2015 - Marketo Docs - Productdo
 title: Opmerkingen bij de release - herfst 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Herfst 2015 {#release-notes-fall}
+# Opmerkingen bij de release: herfst 2015 {#release-notes-fall}
 
 De volgende functies zijn opgenomen in de Fall &#39;15-release. Controleer of de Marketo Edition beschikbaar is.
 
@@ -41,17 +41,17 @@ Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel o
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights voor Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights for [!DNL Google Chrome] {#marketo-insights-for-google-chrome}
 
-[Marketo Insights voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights for  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-We zijn blij dat we de release van een update van onze Google Mail Sales Insight-extensie bekend maken. Deze weergeven in het dialoogvenster  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+We zijn blij dat we de release van een update van onze [!DNL Google Mail] [!DNL Sales Insight] -extensie kunnen aankondigen! Bekijk het in [[!DNL Chrome Store] ](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Deze update bevat veel nieuwe functies en functies:
 
-* Voordat verkopers aan de slag gaan, kunnen ze rechtstreeks in Google Mail relevante informatie over hun vooruitzichten zien, zoals functies, twitter-profielen, bedrijfsinformatie, foto&#39;s en nog veel meer.
+* Voordat verkopers aan de slag gaan, kunnen ze relevante informatie over hun vooruitzichten direct binnen [!DNL Google Mail] bekijken, zoals functie- en twitterprofielen, bedrijfsinformatie, foto&#39;s en nog veel meer.
 * Salespeople kunnen in real time zien met welke inhoudsperspectieven over kanalen, zoals e-mails die worden geopend of geklikt, online of persoonlijk bijgewoonde gebeurtenissen, bezochte webpagina&#39;s, gedownloade eBooks en nog veel meer te maken hebben.
-* E-mails die via Google Mail worden verzonden, worden in Marketo aangemeld en in real-time bijgehouden. Dit laat verkopers zien wanneer de vooruitzichten hun e-mails bekijken zodat zij op enkel de juiste tijd kunnen volgen. Met Marketo Sales Insight voor Google Mail kunnen verkopers bovendien eenvoudig sjablonen gebruiken die door marketing zijn gemaakt om prachtige uitnodigingen, aanbiedingen en andere soorten inhoud te verzenden.
+* E-mails die via [!DNL Google Mail] worden verzonden, worden in Marketo aangemeld en in real-time bijgehouden. Dit laat verkopers zien wanneer de vooruitzichten hun e-mails bekijken zodat zij op enkel de juiste tijd kunnen volgen. Met Marketo [!DNL Sales Insight] for [!DNL Google Mail] kunnen verkopers ook eenvoudig sjablonen gebruiken die zijn gemaakt door marketing, zodat ze mooie uitnodigingen, aanbiedingen en andere typen inhoud kunnen verzenden.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -61,11 +61,11 @@ Deze update bevat veel nieuwe functies en functies:
 * [Voorbeeld verzenden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Voorvertoning](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Pushmeldingen eenvoudig aanpassen met [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Pas gemakkelijk pushberichten met [ tokens ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) aan.
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-U kunt ook [voorvertoning](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) of een [monster](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) pushmelding voordat u deze implementeert op klanten.
+U kunt ook [ voorproef ](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) of verzenden a [ steekproef ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) duw bericht alvorens u het aan klanten opstelt.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -84,22 +84,22 @@ Statistische gegevens over e-mailberichten die via slimme campagnes worden verzo
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
-## RTP - Content Analytics en Recommendations {#rtp-content-analytics-and-recommendations}
+## RTP - Content Analytics en aanbevelingen {#rtp-content-analytics-and-recommendations}
 
-[Inhoud analyseren](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) en Recommendations
+[ Content Analytics ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) en Aanbevelingen
 
-De Analyse van de Inhoud RTP toont u de prestaties van uw activa van de Webinhoud van regelmatige Webbezoeken en ook bezoeken die van de motor van de inhoudaanbeveling van RTP worden geproduceerd.
+RTP Content Analytics laat u de prestaties zien van uw webinhoud-elementen die afkomstig zijn van regelmatige webbezoeken en ook bezoeken die worden gegenereerd door de inhoud van RTP-engine.
 
 * Controleren welke inhoud het beste presteert en de beste resultaten oplevert
 * Verhoog uw inhoudsverbruik door inhoud in de vooruitlopende inhoudsmotor van RTP toe te laten om de beste inhoud aan de juiste bezoekers automatisch aan te bevelen
 * Boor neer op elk inhoudsmiddel om meer diepgaande metriek, grafieken, en prestaties te zien
 
-De middelenpagina van RTP wordt nu gesplitst in Content Analytics en Content Recommendations.
+De Assets-pagina van RTP wordt nu gesplitst in Content Analytics en Content Recommendations.
 
-* **Inhoud analyseren:** Toont de weergaven en directe leads van alle gedetecteerde en gedefinieerde webinhoud, zodat u uw best presterende inhoud kunt analyseren
-* **Content Recommendations**: Toont beelden en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt de aanbevelingen voor inhoud van deze pagina ook bewerken en inschakelen voor de [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) en [rijke media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) aanbevelingen.
+* **Content Analytics:** toont de meningen en de directe lood van alle ontdekt en bepaalde Web-inhoud, die u helpt uw best uitvoeren inhoud analyseren
+* **Aanbevelingen van de Inhoud**: Toont impressies en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt inhoudsaanbevelingen van deze pagina voor de [ bar ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) en [ rijke media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) aanbevelingen ook uitgeven en toelaten.
 
-* Alle gegevens over directe leads op deze twee pagina&#39;s zijn retroactief bijgewerkt sinds het begin van het jaar (1 januari 2015).
+* Alle gegevens over directe leads op deze twee pagina&#39;s zijn sinds het begin van het jaar (1 januari 2015) retroactief bijgewerkt.
 
 ## RTP - Kloon en Campagne RTP {#rtp-clone-an-rtp-campaign}
 
@@ -113,7 +113,7 @@ Door een RTP-campagne te klonen, wordt het sneller en efficiënter om meer geper
 
 We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijgewerkte redacteur in juli vrijgaven, ontvingen wij grote terugkoppelen en konden deze veranderingen in deze verbetering werken. De komende maanden is er nog veel meer te doen. Hier volgt een lijst met nieuwe functies in het vierde kwartaal:
 
-* VML wordt nu ondersteund binnen uw HTML-code:
+* VML wordt nu ondersteund in uw HTML-code:
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -125,9 +125,9 @@ We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijge
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* Plaats geen lege tabelcellen met `&nbsp;`
+* Lege tabelcellen niet met `&nbsp;` opvullen
 
-* Knop maximaliseren/minimaliseren die aan de HTML-broneditor is toegevoegd
+* Knop maximaliseren/minimaliseren die is toegevoegd aan de HTML-broneditor
 * Bestaande tabeleigenschappen worden nu geïdentificeerd en weergegeven in het dialoogvenster Tabeleigenschappen
 * Beide rijen knoppen worden nu standaard weergegeven.
 * De redacteur zal nu om het even welk element (zelfs verouderde of niet-standaardelementen) goedkeuren:
@@ -141,9 +141,9 @@ We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijge
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - Sync valideren {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] - Synchronisatie valideren {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - Sync valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] - Synchronisatie valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 Met dit nieuwe beheerprogramma wordt een aantal controles uitgevoerd om te controleren of uw synchronisatieconfiguraties correct zijn ingesteld.
 
@@ -151,7 +151,7 @@ Met dit nieuwe beheerprogramma wordt een aantal controles uitgevoerd om te contr
 
 ## Velden toevoegen aan Aangepaste objectsynchronisatie van CRM {#add-fields-to-crm-custom-object-sync}
 
-U kunt eenvoudig nieuwe velden toevoegen aan aangepaste objecten die zijn gesynchroniseerd via Salesforce en Dynamics. U kunt nu nieuwe velden toevoegen aan de synchronisatie van aangepaste objecten zonder het gehele aangepaste object uit te schakelen en in te schakelen.
+U kunt eenvoudig nieuwe velden toevoegen aan aangepaste objecten die zijn gesynchroniseerd vanuit [!DNL Salesforce] en [!DNL Dynamics] . U kunt nu nieuwe velden toevoegen aan de synchronisatie van aangepaste objecten zonder het gehele aangepaste object uit te schakelen en in te schakelen.
 
 ## Wijzigingen in beveiligingsfuncties {#changes-to-security-features}
 
@@ -160,15 +160,15 @@ U kunt eenvoudig nieuwe velden toevoegen aan aangepaste objecten die zijn gesync
 
 ![](assets/image2015-10-1-15-3a54-3a4.png)
 
-## Ondersteuning voor IE 11 (en afgekeurde ondersteuning voor IE 9) {#ie-support-and-deprecating-support-for-ie}
+## Ondersteuning voor IE 11 (en ondersteuning voor IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-De Microsoft Internet Explorer 11-browser wordt nu officieel ondersteund en de ondersteuning voor de Microsoft Internet Explorer 9-browser wordt verwijderd.
+De [!DNL Microsoft Internet Explorer] 11-browser wordt nu officieel ondersteund en de ondersteuning voor de [!DNL Microsoft Internet Explorer] 9-browser wordt verwijderd.
 
-## Ondersteuning voor blikseminterface voor MSI {#lightning-ui-support-for-msi}
+## Ondersteuning voor bliksemgebruikersinterface voor MSI {#lightning-ui-support-for-msi}
 
-Het nieuwste MSI-pakket voor het uitwisselen van apps werkt met zowel Lightning- als Verouderde versies van de Salesforce-gebruikersinterface.
+Het meest recente MSI-pakket voor het uitwisselen van apps werkt met zowel Lightning- als Verouderde versies van de gebruikersinterface van [!DNL Salesforce] .
 
-## Nieuwe plug-in Dynamiek {#new-dynamics-plug-in}
+## Nieuwe plug-in [!DNL Dynamics] {#new-dynamics-plug-in}
 
 Deze nieuwe insteekmodule voert verschillende handelingen uit in de asynchrone modus om de prestaties te verbeteren.
 

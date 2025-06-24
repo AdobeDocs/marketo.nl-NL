@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - oktober 20 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - okt. 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![](assets/yellow-star.png)) worden vermeld worden betaalde toe:voegen-ons. Neem contact op met uw Marketo Engage voor meer informatie.
+>De eigenschappen die door een ster (![](assets/yellow-star.png)) worden vermeld worden betaalde toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalversies_** De volgende eigenschappen zullen op **16 oktober, 2020** worden vrijgegeven.
 
@@ -33,21 +33,21 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de
 
 ## Websitemarkering {#website-marketing}
 
-* **bed de Automatisering van de Code van de Vorm** in: Verkrijg meer lood met Marketo Engage vormen ingebed in uw beveiligde het landen pagina&#39;s die buiten Marketo worden ontvangen. De insluitcode van het formulier wordt automatisch bijgewerkt zodat deze de domeinnaam van de openingspagina bevat en handmatige taken voor webontwikkelaars worden verwijderd. Het aangepaste domein in de coderingskoppeling verbetert de ervaring met websitenavigatie en het gebruik van formulieren.
+* **bed de Automatisering van de Code van de Vorm** in: Verkrijg meer lood met de vormen van Marketo Engage ingebed in uw beveiligde het landen pagina&#39;s die buiten Marketo worden ontvangen. De insluitcode van het formulier wordt automatisch bijgewerkt zodat deze de domeinnaam van de openingspagina bevat en handmatige taken voor webontwikkelaars worden verwijderd. Het aangepaste domein in de coderingskoppeling verbetert de ervaring met websitenavigatie en het gebruik van formulieren.
 
-## Integratie van Experience Cloud {#experience-cloud-integration}
+## Experience Cloud-integratie {#experience-cloud-integration}
 
-* **Ononderbroken Synchronisatie van het Publiek van Adobe Experience Cloud aan Marketo Engage**: Het doel leidt met Marketo Engage dat op de gegevens van de eerste-partijintentie van Adobe Analytics, Adobe Audience Manager, of Adobe Real-Time CDP wordt gebaseerd. Statische lijsten van Marketo&#39;s Engage automatisch bijwerken via continue synchronisatie, leidt tot betrokkenheid- of e-mailprogramma&#39;s en waarschuwt verkoop als leads gereed zijn.
+* **Ononderbroken Synchronisatie van het Publiek van Adobe Experience Cloud aan Marketo Engage**: Het doel leidt met Marketo Engage die op de gegevens van de eerste-partijintentie van Adobe Analytics, Adobe Audience Manager, of Adobe Real-Time CDP wordt gebaseerd. Werk Marketo Engage statische lijsten automatisch bij via ononderbroken synchronisatie, voeg toe tot betrokkenheid- of e-mailprogramma&#39;s en waarschuwen bij Verkoop wanneer leads gereed zijn.
 
 ## CRM-integratie {#crm-integration}
 
-* **de Synchronisatie van CRM van Salesforce**: Identificeer en bevestig synchronisatiefouten en mislukkingen met twee nieuwe de Synchronisatie en dashboards van de Fouten van Salesforce. Nieuwe record-updates, verwijderingen, mislukken en voltooiing van het synchronisatieproces controleren. Rapporten kunnen worden gefilterd op datum, type bewerking of objecttype.
+* **[!DNL Salesforce]CRM Sync**: Identificeer en verbeter synchronisatiefouten en mislukkingen met twee nieuwe [!DNL Salesforce] dashboards van de Synchronisatie en van Fouten. Nieuwe record-updates, verwijderingen, mislukken en voltooiing van het synchronisatieproces controleren. Rapporten kunnen worden gefilterd op datum, type bewerking of objecttype.
 
-* **Microsoft Dynamics 365 Integratie**: Automatiseer inschrijving van lood en contacten in Microsoft Dynamics 365 campagnes. U kunt eenvoudig Marketo Engage-leads en -contactpersonen toevoegen aan MS Dynamics-campagnes of deze verwijderen met nieuwe acties voor slimme campagnestroom. Geef naadloos leads door van marketing naar verkoop en sluit deals sneller.
+* **[!DNL Microsoft Dynamics 365]Integratie**: Automatiseer het inschrijven van leads en contacten in [!DNL Microsoft Dynamics 365] campagnes. U kunt eenvoudig Marketo Engage-leads en -contactpersonen aan [!DNL MS Dynamics] -campagnes toevoegen of verwijderen met nieuwe acties voor slimme-campagnestroom. Geef naadloos leads door van marketing naar verkoop en sluit deals sneller.
 
 ## Doelstelling voor betaalde media {#paid-media-targeting}
 
-* **de Integraties van de Advertenties van de Lood van Facebook**: De de vorm volgende parameters van Facebook kunnen nu door de dienst van LaunchPoint voor de loodadvertenties van Facebook worden gevangen. Deze verborgen velden kunnen nu worden toegewezen aan Marketo-velden, zodat marketers waardevolle gegevens voor het bijhouden van campagnes kunnen opslaan en gebruiken.
+* **[!DNL Facebook]Integraties van lead-advertenties** : [!DNL Facebook] parameters voor het bijhouden van formulieren kunnen nu worden vastgelegd via de LaunchPoint-service voor [!DNL Facebook] lead-advertenties. Deze verborgen velden kunnen nu worden toegewezen aan Marketo-velden, zodat marketers waardevolle gegevens voor het bijhouden van campagnes kunnen opslaan en gebruiken.
 
 ## Beheer {#administration}
 
@@ -59,21 +59,21 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de
 
 * **Nieuwe Opties van de Uitvoer van Meta-gegevens**: De meta-gegevens van het douanevoorwerp van de uitvoer voor geselecteerde douanevoorwerpen in een spreadsheet voor gemakkelijk het delen. Bovendien kunnen alle of alle abonnementsobjecten worden geëxporteerd, zoals lood, bedrijf, standaard- en aangepaste activiteiten, tags en kanalen. Gegevens kunnen door beheerders worden opgehaald en snel met technische teams worden gedeeld voor analyse- en ontwerpdoeleinden.
 
-* **Gebied van de Douane van de Kans**: Verkrijg meer inzicht in opportuniteitsverslagen met de vertoning van de opportuniteitsgebieden in Marketo Engage. Gegevens van opportuniteitsaangepaste velden weergeven van Salesforce CRM, Microsoft Dynamics 365 CRM, Sales native integratie of via andere API-integratie. Dankzij de volledige zichtbaarheid in opportuniteitsdetails en -pijplijn kunt u uw betrokkenheid in coördinatie met verkoop ordenen, conversies verhogen en deals sneller sluiten.
+* **Gebied van de Douane van de Kans**: Versterking meer insight in opportuniteitsverslagen met de vertoning van de gebieden van de opportuniteit in Marketo Engage. U kunt opportuniteitsgegevens van aangepaste velden weergeven vanuit [!DNL Salesforce] CRM, [!DNL Microsoft Dynamics 365] CRM, geïntegreerde verkoop of via andere API-integratie. Dankzij de volledige zichtbaarheid in opportuniteitsdetails en -pijplijn kunt u uw betrokkenheid in coördinatie met verkoop ordenen, conversies verhogen en deals sneller sluiten.
 
 ## Vrijgeven door het Kwartaal {#releasing-throughout-the-quarter}
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
 
-## Verkoopoverzicht {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![ (star) ](assets/yellow-star.png)
 
-* **de Optimalisering van API en de Nieuwe Opties van de Configuratie van het Beheer**: Verbeter de de gebruikerservaring van het Inzicht van de Verkoop door verbeterde API optimalisering en toegevoegde governancefuncties. De montages van de configuratie laten beheerders toe om te bepalen hoe de campagnes en de gebeurtenissen aan het dashboard van het Inzicht van de Verkoop worden geladen. Met de opties voor de weergave van flexibele kalenderactiviteiten wordt het gebruik van de API verminderd en de algehele ervaring verbeterd.
+* **de Optimalisering van API en de Nieuwe Opties van de Configuratie van de Governance**: Verbeter de [!DNL Sales Insight] gebruikerservaring door verbeterde API optimalisering en toegevoegde bestuurseigenschappen. De montages van de configuratie laten beheerders toe om te bepalen hoe de campagnes en de gebeurtenissen aan het dashboard van Insight van de Verkoop worden geladen. Met de opties voor de weergave van flexibele kalenderactiviteiten wordt het gebruik van de API verminderd en de algehele ervaring verbeterd.
 
 ## Aankondigingen en afwaarderingen {#announcements-deprecations}
 
-* **Nieuwe Marketo Engage kijkt**: De nieuwe versies van lijn, bar, kolom, en cirkelgrafieken verstrekken bijgewerkte visualisaties door Marketo Engage, met inbegrip van de Activiteiten van de Marketing en alle rapporteringseigenschappen evenals gegevensvisualisatie die in de Activiteiten van de Marketing verschijnt. Deze update is bedoeld als reactie op de Flash van de Adobe die op 31 december 2020 haar einde heeft bereikt.
+* **Nieuwe Marketo Engage kijkt**: De nieuwe versies van lijn, bar, kolom, en koeken verstrekken bijgewerkte visualisaties door Marketo Engage, met inbegrip van de Activiteiten van de Marketing en alle rapporteringseigenschappen evenals gegevensvisualisatie die in de Activiteiten van de Marketing verschijnt. Deze update is bedoeld als reactie op Adobe Flash dat op 31 december 2020 aan het einde van de levensduur is aangekomen.
 
 * **Updates aan de Rollen van de Gebruiker en Toestemmingen**: De Geavanceerde toestemming van de Invoer van de Lijst zal in de aanstaande versie worden afgekeurd om rollen en toestemmingenbeheer te vereenvoudigen. Met de bestaande List Import-machtigingen in Marketing Activities en Lead Database kunt u de benodigde importopties voor lijsten in hun respectievelijke app-gebieden inschakelen.
 
@@ -83,4 +83,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Webinar productrelease {#product-release-webinar}
 
-Kijk hier de opname van onze productrelease webinar [&#128279;](https://engage.marketo.com/Oct_20_Release_OnDemand.html).
+Kijk hier de opname van onze productrelease webinar [ ](https://engage.marketo.com/Oct_20_Release_OnDemand.html).

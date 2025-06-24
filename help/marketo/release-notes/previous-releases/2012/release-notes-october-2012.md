@@ -4,16 +4,16 @@ description: Opmerkingen bij de release - oktober 2012 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Oktober 2012 {#release-notes-october}
+# Opmerkingen bij de release: oktober 2012 {#release-notes-october}
 
-De release van oktober bevat spannende nieuwe functies. Sociale functies zijn beschikbaar als invoegtoepassing of als onderdeel van geselecteerde bundels.
+De release van oktober bevat spannende nieuwe functies. Sociale functies zijn beschikbaar als een invoegtoepassing of als onderdeel van geselecteerde bundels.
 
 ## Programma&#39;s importeren en Program Exchange {#import-programs-and-program-exchange}
 
@@ -33,7 +33,7 @@ Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je
 
 ![](assets/image2014-9-23-10-3a46-3a53.png)
 
-## Opiniepeilingen {#polls}
+## Opiniepeiling {#polls}
 
 Maak opiniepeilingen om uw leads te betrekken bij uw inhoud! Ze kunnen voor hun favoriete netwerk of film stemmen en de opiniepeiling delen met vrienden via hun sociale netwerken. U kunt rijke analyses verzamelen over waar uw leads voor hebben gestemd.
 
@@ -47,14 +47,14 @@ Kom te weten wie uw inhoud en stem in uw opiniepeilingen deelt door slimme lijst
 
 ## Sociale profielen {#social-profiles}
 
-U kunt nu informatie over uw leads verzamelen wanneer ze inhoud delen of formulieren invullen met hun sociale profielen. Hieronder vallen Facebook, LinkedIn en Twitter handgrepen, het aantal vrienden dat ze hebben en nog veel meer.
+U kunt nu informatie over uw leads verzamelen wanneer ze inhoud delen of formulieren invullen met hun sociale profielen. Dit zijn onder andere [!DNL Facebook] -, [!DNL LinkedIn] - en [!DNL Twitter] -handgrepen, het aantal vrienden dat ze hebben en nog veel meer.
 
-## Abonnementen van Revenue Explorer-rapport {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Revenue Explorer] Abonnementen rapporteren {#revenue-explorer-report-subscriptions}
 
-Maak rapportabonnementen en verzend regelmatig de rapporten van de Ontdekkingsreiziger van de Inkomsten aan uw belangrijkste belanghebbenden, met inbegrip van gebruikers niet-Marketo. De e-mail bevat een voorproef van uw lijst of grafieken van rapportgegevens, en een spreadsheet van Excel met alle rapportgegevens.
+Maak rapportabonnementen en verzend [!UICONTROL Revenue Explorer] rapporten periodiek aan uw belangrijkste belanghebbenden, met inbegrip van gebruikers niet-Marketo. Het e-mailbericht bevat een voorvertoning van de tabel of grafieken met rapportgegevens en een [!DNL Excel] spreadsheet met alle rapportgegevens.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Alleen beschikbaar voor gebruikers met Revenue Explorer door de Revenue Cycle Analytics te kopen bij de Enterprise of de Select Edition.
+>Alleen beschikbaar voor gebruikers die [!UICONTROL Revenue Explorer] hebben, door Revenue Cycle Analytics aan te schaffen met de Enterprise of de Select Edition.

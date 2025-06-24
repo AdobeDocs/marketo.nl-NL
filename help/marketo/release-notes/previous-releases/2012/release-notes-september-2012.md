@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - september 2012 - Marketo Docs - Produc
 title: Release-aantekeningen -september 2012
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -29,29 +29,29 @@ Pas de deelberichten en de weergave van een nieuwe set knoppen voor sociaal dele
 
 ## Aanmelden bij sociaal netwerk {#social-sign-on}
 
-Verbeter inzicht en verminder wrijving door toe te staan leidt tot prefill vormen met informatie van hun sociale netwerken.
+Vergroot insight en verminder wrijving door toe te staan leidt tot prefill vormen met informatie van hun sociale netwerken.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Openingspagina&#39;s naar Facebook publiceren {#publish-landing-pages-to-facebook}
+## Openingspagina&#39;s publiceren naar [!DNL Facebook] {#publish-landing-pages-to-facebook}
 
-Vergroot het bereik van uw bestemmingspagina&#39;s door deze rechtstreeks naar Facebook te publiceren, compleet met sociale apps, formulieren en de volledige functionaliteit van de bestemmingspagina&#39;s van Marketo.
+Vergroot het bereik van uw bestemmingspagina&#39;s door deze rechtstreeks in [!DNL Facebook] te publiceren, compleet met sociale apps, formulieren en de volledige functionaliteit van de bestemmingspagina&#39;s van Marketo.
 
-## ReadyTalk-gebeurtenisadapter {#readytalk-event-adapter}
+## [!DNL ReadyTalk] Gebeurtenisadapter {#readytalk-event-adapter}
 
-Sluit naadloos een Marketo-gebeurtenis aan op een ReadyTalk-vergadering. Gebruik een Marketo-formulier om geregistreerde personen vast te leggen en deze automatisch te registreren in ReadyTalk. Met een bidirectionele synchronisatie kunnen aanwezigheidsgegevens in Marketo worden ingevuld.
+Sluit naadloos een Marketo-gebeurtenis aan op een [!DNL ReadyTalk] -vergadering. Gebruik een Marketo-formulier om geregistreerde personen vast te leggen en deze automatisch te registreren in [!DNL ReadyTalk] . Met een bidirectionele synchronisatie kunnen aanwezigheidsgegevens in Marketo worden ingevuld.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics on Premise {#microsoft-dynamics-on-premise}
+## Microsoft [!DNL Dynamics] op locatie {#microsoft-dynamics-on-premise}
 
-We ondersteunen nu Microsoft Dynamics 2011 op locatie met een internetgerichte implementatie.
+We ondersteunen nu Microsoft [!DNL Dynamics] 2011 on-premise met een internetgerichte implementatie.
 
 ## Webhaken (schatkist) {#webhooks-treasure-chest}
 
 Een Webhaak is een user-defined callback van HTTP. Het is een goede manier om gegevens van Marketo naar een andere service te verzenden. Deze functie is momenteel beschikbaar in de Schatkist en wordt momenteel alleen ondersteund in triggercampagnes.
 
-Voorbeelden van hoe u Webhooks kunt gebruiken zijn: het posten van gebruikers - en wachtwoordinformatie aan een ander systeem om een proefrekening tot stand te brengen; verzenden van een SMS-tekstbericht wanneer je een nieuwe lead krijgt.
+Voorbeelden van hoe u Webhooks kunt gebruiken zijn: het posten van gebruikers en wachtwoordinformatie aan een ander systeem om een proefrekening tot stand te brengen; het verzenden van een SMS-tekstbericht wanneer u een nieuwe lood krijgt.
 
 ## Bijwerken naar getMultipleLeads-API {#update-to-getmultipleleads-api}
 

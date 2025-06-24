@@ -4,9 +4,9 @@ description: Persgegevens bijwerken - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens bijwerken
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
 ## Zoek de persoon die u wilt bijwerken {#find-the-person-you-need-to-update}
 
-1. Ga naar de **[!UICONTROL Database]** .
+1. Ga naar de [!UICONTROL Database] .
 
    ![](assets/update-person-data-1.png)
 
@@ -66,6 +66,6 @@ Mooi werk! Je hebt je persoonlijke gegevens bijgewerkt.
 
 <br> 
 
-[◄ Missie 8: Waarschuwing voor verkoper](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Opdracht 8: Waarschuwing voor verkoper](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[Mission 10: Redirect a Landing Page ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[Mission 10: Redirect a Landing Page ► (Engelstalig)](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

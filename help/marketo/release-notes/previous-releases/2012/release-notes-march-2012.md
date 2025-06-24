@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - maart 2012 - Marketo Docs - Productdoc
 title: Release-aantekeningen -maart 2012
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Voorvertoning aan Editor:
 
 ## Fragmentvoorvertoning {#snippet-previewer}
 
-Als u &quot;Voorbeeldfragment&quot; in het menu selecteert, kunt u een fragment weergeven zonder dit een concept te maken. Als u bovendien alleen-lezen toegang tot een gedeeld fragment hebt (via werkruimten), kunt u het fragment met deze handeling bekijken
+Als u &#39;&#39;Voorvertoning van fragment&#39;&#39; selecteert in het menu, kunt u een fragment weergeven zonder dat dit een concept is. Als u alleen-lezen toegang hebt tot een gedeeld fragment (via werkruimten), kunt u het fragment bovendien met deze handeling bekijken.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

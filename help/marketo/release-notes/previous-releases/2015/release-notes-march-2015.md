@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - maart 2015 - Marketo Docs - Productdoc
 title: Release-aantekeningen -maart 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,36 +21,36 @@ Geef de marketingacties van uw team weer met de nieuwe presentatiemodus van de k
 
 >[!NOTE]
 >
->Deze functie is niet beschikbaar voor Spark- en Standard-edities.
+>Deze functie is niet beschikbaar voor Spark- en [!DNL Standard] -edities.
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Google Adwords-integratie {#google-adwords-integration}
+## [!DNL Google Adwords] Integratie {#google-adwords-integration}
 
-Koppel uw [Google AdWords-account naar Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om offline conversiegegevens automatisch te uploaden van Marketo naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen, en nieuwe klanten (of welke opbrengststadia resulteerden u wilt volgen).
+Koppel uw [[!DNL Google AdWords]  rekening aan Marketo ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om off-line omzettingsgegevens van Marketo aan [!DNL Google AdWords] automatisch te uploaden. Vervolgens kunt u vanuit de gebruikersinterface van [!DNL AdWords] gemakkelijk zien welke kliks hebben geresulteerd in gekwalificeerde leads, mogelijkheden en nieuwe klanten (of in welke inkomstenstadia u ook wilt bijhouden).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## Herontwerp inkomstenverkenner {#revenue-explorer-redesign}
+## [!UICONTROL Revenue Explorer] Opnieuw ontwerpen {#revenue-explorer-redesign}
 
-De Ontdekkingsreiziger van de opbrengst heeft een gloednieuwe blik en voelt, evenals het nieuwe Zonneburst grafiektype! We gaan dit uitrollen in de eerste twee weken van april.
+[!UICONTROL Revenue Explorer] heeft een gloednieuw uiterlijk en het nieuwe type Sunburst-grafiek! We gaan dit uitrollen in de eerste twee weken van april.
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
-[Nieuwe REST-API&#39;s voor middelen](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/assets)
+[ Nieuwe activa REST APIs ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](https://developer.adobe.com/marketo-apis/api/asset/)!
+Wij hebben nu steun voor het creëren van en het uitgeven van e-mail, malplaatjes, mijn tokens, dossiers, en fragmenten [ via API ](https://developer.adobe.com/marketo-apis/api/asset/)!
 
-## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
+## [!DNL Microsoft Dynamics] 2015 op locatie {#microsoft-dynamics-on-premise}
 
-Nu ondersteund met het nieuwste installatieprogramma [toegankelijk via de app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Ondersteund met het recentste installatieprogramma nu [ toegankelijk door app ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - Persoonlijke Betrokkenheid van het Web met Leidingsgegevens {#rtp-personalized-web-engagement-with-lead-data}
 
-Gebruik de [gegevensvelden voor lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) u hebt u in uw leidende gegevensbestand van Marketo om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
+Hefboomwerking de [ gebieden van loodgegevens ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) u in uw Marketo loodgegevensbestand hebt om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
 
 ## RTP - Personaliseer de Inhoud van het Web door E-mail of de Naam van de Campagne van het Programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [Binnenkomende inhoud aanpassen op basis van e-mailcampagne of -programma](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) naam gebruikt in Marketo Marketing Activities.
+Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [ Personaliseer binnenkomende inhoud die op e-mailcampagne of programma ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) naam wordt gebaseerd in de Marketing Activiteiten van Marketo wordt gebruikt.

@@ -4,72 +4,72 @@ description: Opmerkingen bij de release - december 2012 - Marketo Docs - Product
 title: Opmerkingen bij de release - december 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release: december 2012 {#release-notes-december}
 
-In de release van december is de verwachte hoeveelheid opgenomen **Doorsturen naar vriend** en diverse andere goede dingen! Functies die zijn gemarkeerd met een sterretje (&#42;) zijn alleen beschikbaar in de Select Edition en in RCA (Revenue Cycle Analytics).
+De versie van december omvat de veel verwachte **Vooruit aan Vriend** eigenschap, evenals verscheidene andere godies! Merk op dat de eigenschappen duidelijk met een asterisk (&#42;) slechts in de Uitgezochte Uitgave en in RCA (de Analyse van de Cyclus van de Opbrengst) beschikbaar zijn.
 
 ## Doorsturen naar vriend {#forward-to-friend}
 
-Schakel het delen van inhoud met anderen in door een **Doorsturen naar vriend** link in je e-mails. Door nieuwe filters en triggers toe te voegen, kunt u uw invloeden herkennen, door gebruikers te identificeren die een e-mail hebben doorgestuurd, en gebruikers die de doorgestuurde e-mails hebben ontvangen.
+Laat het delen van inhoud met anderen toe door a **door:sturen aan Vriend** verbinding in uw e-mails te omvatten. Door nieuwe filters en triggers toe te voegen, kunt u uw invloeden herkennen, door gebruikers te identificeren die een e-mail hebben doorgestuurd, en gebruikers die de doorgestuurde e-mails hebben ontvangen.
 
-Als u een **Doorsturen naar vriend** uitnodiging in uw e-mail, open het in de redacteur en neem het op `{{system.forwardToFriendLink}}` token.
+Om a **door:sturen aan Vriend** uitnodiging in uw e-mail te omvatten, open het in de redacteur en neem het `{{system.forwardToFriendLink}}` teken op.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Gebruik de bijbehorende triggers en filters om gebruikers te identificeren die de **Doorsturen naar vriend** en de personen die het e-mailbericht hebben ontvangen.
+Gebruik de overeenkomstige trekkers en de filters om gebruikers te identificeren die **door:sturen aan Vriend** verbinding, en zij die e-mail ontvingen.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
 ## Machtigingen voor granulair beheer {#granular-admin-permissions}
 
-Onze nieuwste release geeft u meer toegang tot en controle over beheerdersrollen door de toegang tot verschillende functies in het Marketo-beheergebied voor elke rol te beheren. Wanneer u een nieuwe rol creeert, kunt u specifieke functies toewijzen Admin die de rol kan toegang hebben.
+Met onze nieuwste release hebt u meer toegang tot en controle over [!UICONTROL Admin] rollen, doordat u de toegang tot verschillende functies in het Marketo [!UICONTROL Admin] -gebied voor elke rol beheert. Wanneer u een nieuwe rol maakt, kunt u specifieke [!UICONTROL Admin] -functies toewijzen waartoe die rol toegang heeft.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->Door gebrek, hebben de bestaande rollen met de toestemming van &quot;Admin van de Toegang&quot;toegang tot alle Admin functies tot en tenzij gewijzigd.
+>Bestaande rollen met de machtiging [!UICONTROL Access Admin] hebben standaard toegang tot alle [!UICONTROL Admin] -functies tot en met tenzij ze worden gewijzigd.
 
-## BrightStor {#brighttalk-adapter}
+## [!UICONTROL BrightTALK] Adapter {#brighttalk-adapter}
 
-Met de Marketo BrightStor-adapter kunt u aanwezigheidsgegevens van een live of on-demand webcast rechtstreeks vastleggen in een Marketo-gebeurtenis!
+Met de Marketo [!UICONTROL BrightTALK] -adapter kunt u aanwezigheidsgegevens van een live of on-demand webcast rechtstreeks vastleggen in een Marketo-gebeurtenis!
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight voor Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## Marketo [!DNL Sales Insight] for [!DNL Microsoft Dynamics] {#marketo-sales-insight-for-microsoft-dynamics}
 
-Het Inzicht van de verkoop is nu beschikbaar aan de klanten van de Dynamica van Microsoft!
+[!DNL Sales Insight] is nu beschikbaar voor [!DNL Microsoft Dynamics] -klanten!
 
-## Opportunity van dynamiek synchroniseren {#dynamics-opportunity-sync}
+## [!DNL Dynamics] Opportunity Sync {#dynamics-opportunity-sync}
 
-Synchroniseer opportuniteitsgegevens tussen Marketo en Microsoft Dynamics.
+Synchroniseer opportuniteitsgegevens tussen Marketo en [!DNL Microsoft Dynamics] .
 
-## Rapport over marketingkansen&#42; {#marketing-influenced-opportunities-report}
+## Het op de markt brengen beïnvloede Rapport van Kansen &#42; {#marketing-influenced-opportunities-report}
 
-Bekijk welk percentage van de pijpleiding en de opbrengst van uw bedrijf door uw marketingprogramma&#39;s werd beïnvloed. In **Ontdekkingsreiziger voor inkomsten** kunt u nu aangepaste rapporten maken met de nieuwe gele punt ‘Door marketing beïnvloed opportuniteit’ in Opportunity Analysis. U kunt ook de volgende twee rapporten gebruiken in de Standaardmap:
+Bekijk welk percentage van de pijpleiding en de opbrengst van uw bedrijf door uw marketingprogramma&#39;s werd beïnvloed. In **[!UICONTROL Revenue Explorer]** kunt u nu aangepaste rapporten maken met de nieuwe gele stip ‘Afgewezen kansen op de markt brengen’ in Opportunity Analysis. U kunt ook de volgende twee rapporten gebruiken in de Standaardmap:
 
 * Marketing Invloed op gemaakte kansen
 * Invloed van marketing op Kansen Gesloten Won
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Aangepaste opportuniteitsvelden in de analyse van programmamogelijkheden&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
+## De Gebieden van de Opportunity van de douane in de Analyse van de Kans van het Programma &#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Voeg de gebieden van de douanemogelijkheid toe om uw rapporten van de Analyse van de Kans van het Programma in de Ontdekkingsreiziger van de Ontvangsten te verrijken.
+Voeg aangepaste opportuniteitsvelden toe om de rapporten van de Program Opportunity Analysis in [!UICONTROL Revenue Explorer] te verrijken.
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Campagnecontrole {#campaign-inspector}
+## Campagne-controle {#campaign-inspector}
 
-Hebt u zich ooit afgevraagd welke campagnes een specifieke stroomactie, zoals de Score van de Verandering of Campagne van het Verzoek gebruiken? Of waar wordt een bepaald filter gebruikt? Met de nieuwe Campagne Inspector (beschikbaar op de Treasure Chest) kunt u deze campagnes identificeren en kunt u actieve campagnes en campagnes met fouten herkennen.
+Hebt u zich ooit afgevraagd welke campagnes een specifieke flowactie gebruiken, zoals [!UICONTROL Change Score] of [!UICONTROL Request Campaign] ? Of waar wordt een bepaald filter gebruikt? Met de nieuwe [!UICONTROL Campaign Inspector] (beschikbaar op de Treasure Chest) kunt u deze campagnes identificeren en kunt u actieve campagnes en campagnes met fouten herkennen.
 
-Ga naar **Beheer** > **Treasure Chest** de **Campagnecontrole**.
+Ga naar **[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]** om **[!UICONTROL Campaign Inspector]** in te schakelen.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

@@ -3,9 +3,9 @@ description: Opmerkingen bij de release - juni 2022 - Marketo Docs - Productdocu
 title: Opmerkingen bij de release - juni 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -16,65 +16,65 @@ Hieronder vindt u alle functies die zijn opgenomen in de release van 22 juni. Ra
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
-De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde uitrol van de resterende kenmerken in de daaropvolgende weken (tenzij anders vermeld).
+De volgende eigenschappen zullen beginnen om op **worden vrijgegeven 24 juni, 2022**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken (tenzij anders gespecificeerd).
 
 ## Omgeving met marketinggegevens {#marketing-data-environment}
 
-* **CreatedAt/UpdatedAt-velden beschikbaar maken voor aangepaste objecten**: Hiermee kunt u deze velden inspecteren in het scherm Persondetails om meer inzicht te krijgen.
+* **stelt CreatedAt/UpdatedAt gebieden voor de Voorwerpen van de Douane** bloot: Geeft u de capaciteit om deze gebieden in het scherm van het Detail van de Persoon te inspecteren om extra insight te bereiken.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Verbeterde bruikbaarheid van Stream Designer voor Dynamic Chat**: Voeg kaarten rechtstreeks toe vanaf het canvas Stream Designer zonder dat u ze hoeft te slepen en neer te zetten. De interface van de Dynamic Chat is ook verbeterd om inhoud in individuele kaarten beter zichtbaar te maken.
+* **Verbeterde Bruto Designer-bruikbaarheid van de Stream voor[!DNL Dynamic Chat]**: voeg direct kaarten toe vanaf het canvas van de Stream Designer zonder dat u deze hoeft te slepen en neer te zetten. De interface van [!DNL Dynamic Chat] is ook verbeterd en biedt een betere zichtbaarheid van inhoud in afzonderlijke kaarten.
 
-* **Geavanceerde benoeming die Regels voor Dynamic Chat verplettert**: de Dynamic Chat biedt meer opties voor gerichte benoeming het verpletteren aan. Specificeer welke agentenbenoemingen zouden moeten worden verpletterd gebaseerd op de attributen van het Marketo Engage, die leiden verzekeren worden verpletterd aan de aangewezen agenten.
+* **Geavanceerde Benoemings Verpletterende Regels voor[!DNL Dynamic Chat]**: [!DNL Dynamic Chat] biedt meer opties voor gerichte benoeming het verpletteren. Specificeer welke agentenbenoemingen op de attributen van Marketo Engage zouden moeten worden verpletterd, die leiden verzekeren aan de aangewezen agenten worden verpletterd.
 
-* **Geavanceerde Dialoograpportering voor Dynamic Chat**: Bekijk de prestaties van uw Dynamic Chat-campagnes gedetailleerder met behulp van alle nieuwe gegevensvisualisaties voor betrokkenheid en conversiemetriek.
+* **Geavanceerde Dialoograpportering voor[!DNL Dynamic Chat]**: Bekijk de prestaties van uw [!DNL Dynamic Chat] campagnes in detail gebruikend alle nieuwe gegevensvisualisaties voor overeenkomst en omzettingsmetriek.
 
-* **Ongebruikte Marketo&#39;s Engage niet synchroniseren voor Dynamic Chat**: synchroniseer de kenmerken van het Marketo Engage uit uw abonnement op de Dynamic Chat die niet worden gebruikt, zodat u de gegevensintegriteit eenvoudiger kunt maken en alternatieve kenmerken naar wens kunnen worden gesynchroniseerd.
+* **Niet-gebruikte Marketo Engage-kenmerken niet synchroniseren voor[!DNL Dynamic Chat]**: synchroniseer Marketo Engage-kenmerken uit uw [!DNL Dynamic Chat] -abonnement die ongebruikt blijven, zodat u de gegevenskwaliteit eenvoudiger kunt maken en alternatieve kenmerken naar wens kunnen worden gesynchroniseerd.
 
 ## Ervaring van de volgende generatie
 
-**Nieuwe weergave schakeloptie**: De onderstaande weergaven zijn nu beschikbaar in de Next Generation Experience:
+**Nieuwe Mening van de Schakelaar van de Wisselen**: De meningen hieronder zijn nu beschikbaar in de Volgende-generatieervaring:
 
-* [E-maildetails weergeven](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [E-maillijstweergave](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [ de Mening van E-maildetails ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [ de Mening van de Lijst E-mail ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Experience Automation {#experience-automation}
 
-* **Uitsluitingen algemene regel voor validatie van formuliervelden**: Sluit specifieke formulieren uit van Global Form Validation Rules, zodat abonnementscentra en andere bedrijfskritieke workflows alle waarden kunnen accepteren.
+* **de Globale Uitsluitingen van de Regel van de Bevestiging van het Gebied van de Vorm**: Sluit specifieke vormen van de Globale Regels van de Bevestiging van de Vorm uit zodat de abonnementscentra en andere bedrijfskritieke werkschema&#39;s alle waarden kunnen goedkeuren.
 
-* **Zelfbedieningsstroomstappen**: Breid connectiviteit tussen Marketo Engage en de rest van uw stapel met de capaciteit uit om aangepaste stroomstappen voor gebruik in Slimme Campagnes te ontwerpen. Zowel gebruikers als partners van Marketo&#39;s Engage kunnen deze functionaliteit gebruiken om het gebruik van externe webservices in Trigger-, Batch- en Executable-campagnes mogelijk te maken, in tegenstelling tot Webhooks, die alleen kunnen worden gebruikt in Trigger-campagnes.
+* **Zelfbediening Stappen van de Stroom**: Breid connectiviteit tussen Marketo Engage en de rest van uw stapel met de capaciteit uit aan auteur aangepaste stroomstappen voor gebruik in Slimme Campagnes. Zowel Marketo Engage-gebruikers als -partners kunnen deze functionaliteit gebruiken om het gebruik van externe webservices in Trigger-, Batch- en Executable-campagnes mogelijk te maken, in tegenstelling tot Webhooks, die alleen kunnen worden gebruikt in Trigger-campagnes.
 
-* **Akoestische koppeling bijhouden Munchkin-protocol**: Breid steun voor het volgen van uit `tel` en `mailto` koppelingen met Munchkin naar een uitgebreide set webgedragingen.
+* **het Akoestische Volgen van de Verbinding van het Protocol van Munchkin**: Breid steun voor het volgen van `tel` en `mailto` verbindingen met Munchkin uit om uitgebreide reeks Webgedrag te volgen.
 
-* **Aanvullende HTTP-methoden voor webhaken**: Specificeer PUT, PATCH, en DELETE als verzoektypes om met de Webdiensten in wisselwerking te staan.
+* **Extra methodes van HTTP voor webhooks**: Specificeer PUT, PATCH, en DELETE als verzoektypes om met de Webdiensten in wisselwerking te staan.
 
-## Verkoopoverzicht {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
-![(ster)](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
-* **Toestemming voor verkoopinzicht ingesteld in Salesforce**: Beheerders kunnen via de machtigingsset Marketo App toegang bieden tot een beperkt aantal personen op gebruikersniveau in plaats van tot het profielniveau. Deze set maakt deel uit van het Salesforce-pakket Verkoopinzicht.
+* **[!DNL Sales Insight]Machtiging ingesteld in[!DNL Salesforce]** : beheerders kunnen [!DNL Sales Insight] toegang bieden tot een beperkte set personen op gebruikersniveau in plaats van op profielniveau via de rechtenset Marketo App, die deel uitmaakt van het [!DNL Sales Insight] [!DNL Salesforce] -pakket.
 
-* **Mijn Marketo Tile-update - Handelingen Verkoopinzicht**: Marketo Admins (en de gebruikers die zij aanwijzen) kunnen nu snel naar hun instantie van de Acties van het Inzicht van de Verkoop via een nieuwe titel van de Acties van het Inzicht van de Verkoop die op de Mijn pagina van Marketo wordt gevestigd.
+* **Mijn Update van de Tegel van Marketo - [!DNL Sales Insight] Acties**: De Admins van Marketo (en de gebruikers die zij aanwijzen) kunnen nu snel aan hun [!DNL Sales Insight] instantie van Acties via een nieuwe [!DNL Sales Insight] tegel van Acties die op de Mijn pagina van Marketo wordt gevestigd.
 
-## Verkoop Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
-![(ster)](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
-* **Update voor Salesforce API**: Met de release van Salesforce Summer &#39;22 wordt API-versie 21-30 niet meer ondersteund door Salesforce. Met deze release van Marketo Engage zijn alle Sales Connect-aanvragen die oudere API-versies gebruiken, bijgewerkt om binnen een ondersteunde versie te blijven. Klik voor meer informatie over de pensioenplannen van de Salesforce API [hier](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
+* **[!DNL Salesforce]API-update**: met de release van [!DNL Salesforce] Summer &#39;22, worden oudere API-versies 21-30 niet meer ondersteund door [!DNL Salesforce] . Met deze Marketo Engage-versie zijn alle [!DNL Sales Connect] -aanvragen die oudere API-versies gebruiken, bijgewerkt om binnen een ondersteunde versie te blijven. Voor volledige details over [!DNL Salesforce] API ouderdomsplannen, klik [ hier ](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
 
 ## API-verbeteringen {#api-enhancements}
 
-* **Nieuwe filtermogelijkheden voor de Extraheren-API voor leden van het Bulkprogramma**: Filter op status van programmalidmaatschap, updateAt, cadence of alle uitgeputte inhoud om de uitgepakte gegevensset te verfijnen.
+* **Nieuwe het filtreren mogelijkheden voor het Bulk Lid van het Programma haalt API**: Filter door de status van het programmalidmaatschap, updateAt, cadence, of uitgeput inhoud om gehaalde gegevensreeks te raffineren.
 
-* **Verbetering van de API voor Extraheren voor leden van het Bulkprogramma**: Geef maximaal 10 programma&#39;s op tijdens het creëren van banen om de productie te verbeteren.
+* **Bulk de verbetering van API van het Lid van het Programma van de Uitvoer**: Specificeer tot 10 programma&#39;s tijdens baanverwezenlijking om productie te verbeteren.
 
 ## Aankondigingen {#announcements}
 
-* **Forms Deprecation - Forms 1.0, lead Capture/save-eindpunt en geen-scriptversies van formulieren**: De steun voor Forms 1.0-middelen zal in oktober 2022 volledig uit Marketo Engage zijn gehaald. Alle bestaande Forms 1.0-middelen zullen niet meer werken. Voor Marketo&#39;s Engage formulieren is JavaScript vereist om te kunnen worden geladen op bestemmingspagina&#39;s en websites.
+* **de Verplaatsing van Forms - Forms 1.0, leiden vangen/sparen eindpunt, en geen-manuscriptversies van vormen**: De steun voor Forms 1.0 activa zal volledig uit Marketo Engage tegen Oktober, 2022 worden verwijderd. Alle bestaande Forms 1.0-middelen zullen niet meer werken. Voor Marketo Engage-formulieren moet JavaScript laden op bestemmingspagina&#39;s en websites.
 
-**_Webinar productrelease_**
+**_Webinar van de Versie van het Product_**
 
-[Release Webinar van juni en augustus 2022 Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[ Juni en Augustus 2022 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
