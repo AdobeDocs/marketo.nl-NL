@@ -43,7 +43,7 @@ Voordat u Microsoft Dynamics 2015 On-Premises kunt synchroniseren met Marketo En
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Klik **[!UICONTROL Browse]** en selecteer de oplossing u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik **[!UICONTROL Browse]** en selecteer de oplossing u [&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
