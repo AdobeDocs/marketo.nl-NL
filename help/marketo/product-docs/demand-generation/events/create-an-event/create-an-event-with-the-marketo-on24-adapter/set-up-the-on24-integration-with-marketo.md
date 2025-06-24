@@ -3,9 +3,9 @@ description: De ON24-integratie instellen met Marketo - Marketo Docs - Productdo
 title: De ON24-integratie met Marketo instellen
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -16,37 +16,37 @@ Hier is hoe te opstelling uw ON24 gebeurtenisintegratie.
 
 ## Een alleen-API rol maken {#create-an-api-only-role}
 
-1. Klik in Mijn Marketo op **Beheer**.
+1. Van Mijn Marketo, klik **Admin**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
-1. Klik onder Beveiliging op **Gebruikers en rollen**.
+1. Onder Veiligheid, klik **Gebruikers &amp; Rollen**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. Klik op de knop **Rollen** en vervolgens **Nieuwe rol**.
+1. Klik het **lusje van Rollen** en dan **Nieuwe Rol**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. Voer een rolnaam in. Open de **API voor toegang** en selecteert u &quot;Read-Write Custom Object&quot; en &quot;Read-Write Person.&quot; Klikken **Maken**.
+1. Voer een rolnaam in. Open het **API van de Toegang** menu en selecteer &quot;Gelezen-Schrijf het Voorwerp van de Douane&quot;en &quot;Gelezen-Schrijf Persoon.&quot; Klik **creëren**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## Een nieuwe gebruiker maken {#create-a-new-user}
 
-1. Blijf in Gebruikers &amp; Rollen, klik **Gebruikers** en klik op **Nieuwe gebruiker uitnodigen**.
+1. Nog in Gebruikers &amp; Rollen, klik het **Gebruikers** lusje en klik **nodigt Nieuwe Gebruiker** uit.
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
-1. Voer de gegevens van de nieuwe gebruiker in en klik op **Volgende**.
+1. Ga de informatie van de nieuwe gebruiker in en klik **daarna**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Selecteer de functie Alleen ON24-API die u zojuist hebt gemaakt. Selecteer **Alleen API** selectievakje. Klikken **Volgende**.
+1. Selecteer de functie Alleen ON24-API die u zojuist hebt gemaakt. Selecteer **slechts API** checkbox. Klik **daarna**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. Klikken **Verzenden**.
+1. Klik **verzenden**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -56,15 +56,15 @@ Hier is hoe te opstelling uw ON24 gebeurtenisintegratie.
 
 ## ON24-verbinding instellen {#set-up-on24-connection}
 
-1. Blijf in de sectie Admin en klik op **LaunchPoint**.
+1. Nog in de Admin sectie, klik **LaunchPoint**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. Klikken **Nieuw** dan **Nieuwe service**.
+1. Klik **Nieuw** toen **Nieuwe Dienst**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Kies een weergavenaam. Klik op de knop **Service** vervolgkeuzelijst en selecteer **Aangepast**. Voer een beschrijving in. Klik op de vervolgkeuzelijst Alleen API-gebruiker en selecteer de gebruiker die u hebt gemaakt [in de bovenstaande stappen](#create-a-new-user). Klikken **Maken**.
+1. Kies een weergavenaam. Klik de **drop-down Dienst** en selecteer **Douane**. Voer een beschrijving in. Klik de slechts drop-down Gebruiker van API en selecteer de gebruiker u [ in de stappen hierboven ](#create-a-new-user) creeerde. Klik **creëren**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -84,4 +84,4 @@ Hier is hoe te opstelling uw ON24 gebeurtenisintegratie.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. Navigeer met uw opgeslagen client-id, clientgeheim en identiteit naar uw ON24-account. De overige stappen worden daar uitgevoerd en zijn [hier beschreven](https://on24support.force.com/Support/s/article/Connect-Marketo-ON24-Connect-Data-Integration#Step6){target="_blank"}.
+1. Navigeer met uw opgeslagen client-id, clientgeheim en identiteit naar uw ON24-account. De rest stappen worden daar uitgevoerd, en kunnen in de [ documentatie ON24 ](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"} worden gevonden.

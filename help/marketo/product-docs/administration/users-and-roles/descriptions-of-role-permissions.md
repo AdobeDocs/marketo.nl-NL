@@ -4,9 +4,9 @@ description: Beschrijvingen van roltoestemmingen - de Documenten van Marketo - d
 title: Beschrijvingen van rolmachtigingen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 
 * Toegang tot Adobe Connect - geeft gebruikers toegang tot het Adobe Connect-scherm
 * Toegang tot Adobe Experience Manager &#42; - geeft gebruikers toegang tot het scherm van Adobe Experience Manager
-* Toewijzing van organisatie van de Adobe van de toegang &#42; - geeft gebruikers toegang tot het scherm van de Toewijzing van de Organisatie van de Adobe
+* Toewijzing Adobe-organisatie benaderen &#42; - geeft gebruikers toegang tot het scherm Toewijzing Adobe-organisatie
 * Access Admin Audit Trail &#42; - geeft gebruikers toegang tot het scherm Admin Audit Trail
 * Access Access Audit Trail &#42; - geeft gebruikers toegang tot Access Audit Trail
 * Access Audit Trail - geeft gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail
@@ -41,10 +41,10 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegang tot kanalen - Gebruikers hebben alleen toegang om de Kanaaltag te wijzigen, niet andere aangepaste tags
 * Toegang tot communicatielimiet - geeft gebruikers toegang om een communicatielimiet in Admin in te schakelen
 * Toegang tot CRM - geeft gebruikers toegang tot de CRM, zoals [!DNL Salesforce] of [!DNL Microsoft Dynamics] , in Admin
-* Toegang [[!DNL Data.com] ](https://data.com) - Biedt gebruikers toegang tot de Data.com-stroomactie
+* Toegang `Data.com` - Biedt gebruikers toegang tot de actie Data.com
 * Toegang tot e-mailbeheerder - Gebruikers hebben toegang tot e-mailbeheerder om de standaardinstellingen te wijzigen, zoals het afmelden en brandmerken van domeinen
 * Access Event Partners - Biedt gebruikers toegang tot LaunchPoint in Admin
-* Toegang tot het delen van publiek in Experience Cloud - Gebruikers hebben toegang tot synchronisatie en publiek van Adobe Experience Cloud naar Marketo Engage
+* Toegang tot delen van Experience Cloud-publiek - geeft gebruikers toegang tot synchronisatie en publiek van Adobe Experience Cloud naar Marketo Engage
 * Toegangsveldbeheer - geeft gebruikers toegang tot veldbeheer in Admin
 * Toegang tot bestanden uploaden - Gebruikers kunnen afbeeldingen en bestanden uploaden naar Design Studio
 * Toegang tot bestemmingspagina&#39;s - geeft gebruikers toegang tot bestemmingspagina&#39;s in Admin
@@ -108,11 +108,11 @@ Biedt gebruikers toegang tot de tabbladen Analytics, Email Insights, Reports en 
 
 _&#42;om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. Wij zullen meedelen hoe te om het uit te voeren wanneer het in midden-2024 actief wordt._
 
-## Toegang tot agenda-Presentations {#access-calendar-presentations}
+## Kalenderpresentaties openen {#access-calendar-presentations}
 
-Biedt gebruikers toegang tot kalenderpresentaties - maakt het mogelijk de Presentations-knop onderaan weer te geven.
+Biedt gebruikers toegang tot kalenderpresentaties - laat vertoning van de knoop van Presentaties bij de bodem toe.
 
-* Kalender Presentations bewerken - Hiermee kunnen gebruikers presentaties bewerken in de agenda
+* Kalenderpresentaties bewerken - Hiermee kunnen gebruikers presentaties bewerken in de agenda
 
 ## Toegang tot Design Studio {#access-design-studio}
 

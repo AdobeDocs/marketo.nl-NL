@@ -2,44 +2,44 @@
 description: Privacybeheer - Marketo-documenten - Productdocumentatie
 title: Privacybeheer
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
 # Privacybeheer {#privacy-management}
 
-Marketo Engage biedt een reeks hulpmiddelen aan om u te helpen aan de verordeningen van de Privacy voldoen.
+Marketo Engage biedt een aantal tools om u te helpen aan de privacyregels te voldoen.
 
 >[!NOTE]
 >
->De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op het volgende van toepassing:
+>Privacy-aanvragen die via de gebruikersinterface van Privacy Service of de API voor Marketo Engage worden ingediend, zijn alleen van toepassing op:
 >
->* Marketo Engage gebruikers die aan het Systeem van de AdobeIdentity Management hebben ingezien
+>* Marketo Engage-gebruikers die zijn aangemeld bij Adobe Identity Management System
 >
->**-of-**
+>**-or-**
 >
->* Gebruikers van Marketo&#39;s Engage die een ander Experience Cloud-product gebruiken dat zich al op het Identity Management-systeem van de Adobe bevindt (bijvoorbeeld RT-CDP, B2B en B2P Editions, Audience Manager).
+>* Marketo Engage-gebruikers die een ander Experience Cloud-product gebruiken dat zich al op het Adobe Identity Management-systeem bevindt (bijvoorbeeld RT-CDP, B2B en B2P Editions, Audience Manager).
 
 ## Regels inzake privacybeheer {#regulations-on-privacy-management}
 
-De mogelijkheden van het Marketo Engage helpen u aan de volgende verordeningen voldoen:
+Met Marketo Engage-mogelijkheden kunt u voldoen aan de volgende regels:
 
-* **[!DNL GDPR]** [Algemene verordening inzake gegevensbescherming](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) is de privacywet van de Europese Unie (EU) die de vereisten inzake gegevensbescherming voor EU-landen harmoniseert en moderniseert.
-* **[!DNL CCPA]** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;titel=1.81.5.&amp;part=4.&amp;hoofdstuk=&amp;artikel=) verleent de inwoners van Californië rechten met betrekking tot hun persoonlijke informatie en legt gegevensbeschermingstaken op aan bepaalde entiteiten die zaken in Californië leiden.
-* **[!DNL PDPA]** [Wet op de bescherming van persoonsgegevens](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) De privacywet harmoniseert en moderniseert de gegevensbeschermingsvereisten voor Thailand.
-* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) met ingang van begin 2021 van kracht voor alle ondernemingen die in Brazilië persoonsgegevens verzamelen of verwerken.
-* **[!DNL NZPA]** [Privacy Act 2020](https://www.privacy.org.nz/privacy-act-2020/privacy-act-2020/) De privacywet harmoniseert en moderniseert de gegevensbeschermingsvereisten voor Nieuw-Zeeland.
+* **[!DNL GDPR]** [ Algemene Verordening van de Bescherming van Gegevens ](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) is de (EU) privacywet van de Europese Unie die de vereisten van de gegevensbescherming voor EU landen harmoniseert en moderniseert.
+* **[!DNL CCPA]** [ de Wet van de Privacy van de Consumentenbescherming van Californië ](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&titel=1.81.5.&part=4.&hoofdstuk=&artikel=) verstrekt de omwonenden van Californië met betrekking tot hun persoonlijke informatie en legt verantwoordelijkheden van de gegevensbescherming aan bepaalde entiteiten op die zaken in Californië leiden.
+* **[!DNL PDPA]** [ de Wet van de Bescherming van Persoonlijke Gegevens ](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) is de privacywet die de vereisten van de gegevensbescherming voor Thailand harmoniseert en moderniseert.
+* **[!DNL LGPD]** [ Lei Geral de Proteção de Dados ](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) efficiënt vanaf begin 2021 voor alle bedrijven die persoonlijke gegevens in Brazilië verzamelen of verwerken.
+* **[!DNL NZPA]** [ Wet van de Privacy 2020 ](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) is de privacywet die de vereisten van de gegevensbescherming voor Nieuw Zeeland harmoniseert en moderniseert.
 
-Alle bovenstaande voorschriften zijn van toepassing op klanten in de Marketo Engage die gegevens bewaren voor gegevensproefpersonen die in de bovengenoemde regio’s of landen (EU, Californië, Thailand, Brazilië, Nieuw-Zeeland) verblijven.
+Alle bovenstaande voorschriften zijn van toepassing op Marketo Engage-klanten die gegevens bewaren voor gegevenssubjecten die in de bovengenoemde regio’s of landen (EU, Californië, Thailand, Brazilië, Nieuw-Zeeland) verblijven.
 
 ## Recht op toegang en recht om te worden vergeten {#right-to-access-and-right-to-be-forgotten}
 
-Om u te helpen uw gereedheid voor privacy gemakkelijker te maken, kunt u met Marketo Engage **toegang** en **delete** verzoeken.
+Om u te helpen uw bereidheid van de Privacy vergemakkelijken, staat Marketo Engage u toe om **toegang** te behandelen en **schrapt** verzoeken.
 
-* De **Recht op toegang** heeft de betrokkene het recht om van de verantwoordelijke voor de verwerking bevestiging te krijgen of er al dan niet persoonsgegevens over hen worden verwerkt, waar en voor welk doel. De gegevensverwerkingsverantwoordelijke verstrekt kosteloos een kopie van de persoonsgegevens in elektronische vorm.
-* Wordt ook wel gegevensgummetje genoemd. **Recht op vergeten** (verzoek tot schrapping) geeft de betrokkene het recht om de verantwoordelijke voor de verwerking van de gegevens zijn/haar persoonsgegevens te laten wissen, de verdere verspreiding van de gegevens te beëindigen en derden mogelijk de verwerking van de gegevens te laten stopzetten.
+* Het **recht op toegang** is het recht voor de Onderwerp van Gegevens om van het Controlemechanisme van Gegevens bevestiging te verkrijgen over al dan niet de persoonlijke gegevens betreffende hen worden verwerkt, waar en voor welk doel. De gegevensverwerkingsverantwoordelijke verstrekt kosteloos een kopie van de persoonsgegevens in elektronische vorm.
+* Ook gekend als het Wissen van Gegevens, het **Recht om** (schrappingsverzoek) te worden vergeten machtigt het Onderwerp van Gegevens om het Controlemechanisme van Gegevens te hebben zijn/haar persoonlijke gegevens wissen, de verdere verspreiding van de gegevens ophouden, en potentieel derde partijen te hebben verwerking van de gegevens tegenhouden.
 
-Als u wilt leren hoe u toegang-/verwijderverzoeken kunt maken en hoe wij deze verwerken, raadpleegt u [dit artikel](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Leren hoe u toegang kunt creëren/verzoeken schrappen en hoe wij hen verwerken, verwijs naar [ dit artikel ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

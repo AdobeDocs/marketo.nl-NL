@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096675
-description: Onderliggende campagnes en lokale middelen maken - Marketo Docs - Productdocumentatie
-title: Onderliggende campagnes en lokale elementen maken
+description: Onderliggende campagnes en lokale Assets maken - Marketo Docs - Productdocumentatie
+title: Onderliggende campagnes en lokale Assets maken
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '665'
 ht-degree: 1%
 
 ---
 
-# Onderliggende campagnes en lokale elementen maken {#create-child-campaigns-and-local-assets}
+# Onderliggende campagnes en lokale Assets maken {#create-child-campaigns-and-local-assets}
 
 Creeer uw kindcampagnes en lokale activa gebruikend de Studio van het Ontwerp.
 
@@ -44,28 +44,28 @@ Gebruik Marketo om het bevestigingsbericht voor uw gebeurtenis te verzenden. Wan
 
 >[!NOTE]
 >
->Gebruik de volgende token in uw e-mail om het bevestigingsbericht te vullen met deze unieke URL: `{{member.webinar url}}`. Wanneer u de bevestiging-URL verzendt, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
+>Gebruik de volgende token in uw e-mail: `{{member.webinar url}}` om het bevestigingsbericht te vullen met deze unieke URL. Wanneer u de bevestiging-URL verzendt, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
 >
->Stel het type bevestigingsbericht in op **Operationeel** ervoor te zorgen dat personen die zich inschrijven hun bevestigingsinformatie ontvangen, zelfs wanneer zij zich niet hebben geabonneerd.
+>Plaats het type van uw bevestigingse-mail aan **Operationeel** om ervoor te zorgen dat de mensen die hun bevestigingsinformatie registreren ontvangen, zelfs als zij unsubscribed zijn.
 
 >[!TIP]
 >
->U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Zie de [ON24 Help-site](https://www.on24.com/live-webcast-elite/){target="_blank"} voor meer informatie .
+>U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Zie de [ ON24 Plaats van de Hulp ](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"} voor meer informatie.
 
 ## Vereisten voor onderliggende campagne registreren {#registration-child-campaign-requirements}
 
 Gebeurtenissen bevatten een of meer onderliggende campagnes die allemaal samenwerken om mensen door de status van het programma te bewegen en u in staat te stellen de prestaties van de gebeurtenis te volgen.
 
-Voorbeelden van kindercampagnes zijn een uitnodigingscampagne, een registratiecampagne en vervolgcampagnes.
+Voorbeelden van kindercampagnes zijn een uitnodigingscampagne, een registratiecampagne en follow-upcampagnes.
 
 >[!CAUTION]
 >
->De adapter kan zijn taak alleen uitvoeren als u een registratiecampagne maakt. Deze campagne moet worden geactiveerd door de persoon die een formulier invult en in de eerste stap moet de status van het programma van de persoon worden gewijzigd in **Geregistreerd**. De campagne stuurt vervolgens een bevestigingsbericht. Zie de rest van dit artikel voor meer informatie.
+>De adapter kan zijn taak alleen uitvoeren als u een registratiecampagne maakt. Deze campagne moet door de persoon worden teweeggebracht die een vorm invult, en de eerste stap moet de het programmastatus van de persoon in **Geregistreerd** veranderen. De campagne stuurt vervolgens een bevestigingsbericht. Zie de rest van dit artikel voor meer informatie.
 
-**Registratie/bevestiging (Trigger-campagne)**
+**Registratie/Bevestiging (de Campagne van de Trekker)**
 
 * Slimme lijst
-* Trigger op basis van **Formulier wordt ingevuld**. Zorg ervoor dat u de landingspagina opneemt waarop het formulier zich bevindt door het te gebruiken **Restrictie toevoegen**, vooral als hetzelfde formulier op meerdere bestemmingspagina&#39;s wordt gebruikt.
+* De trekker die op **wordt gebaseerd vult Vorm** uit. Ben zeker om de het landen pagina te omvatten die de vorm op door **te gebruiken Add Beperking** leeft, vooral als de zelfde vorm op veelvoudige het landen pagina&#39;s wordt gebruikt.
 
 >[!CAUTION]
 >
@@ -73,32 +73,32 @@ Voorbeelden van kindercampagnes zijn een uitnodigingscampagne, een registratieca
 
 >[!NOTE]
 >
->Als u een Marketo-formulier gebruikt op een landingspagina die geen Marketo is, wordt de trigger **Formulier wordt ingevuld** met de naam van het formulier.
+>Als u een vorm van Marketo op een niet-Marketo landende pagina gebruikt, zal uw trekker **Vult Vorm** met de Naam van de Vorm uit.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Stroom**
 
-* **Programmastatus wijzigen** - Instellen op webinar -> Geregistreerd.
+* **Status van het Programma van de Verandering** - reeks aan Webinar -> Geregistreerd.
 
 Deze stroomstap is vereist als de EERSTE STROOMSTAP bij het instellen van uw onderliggende campagne. Wanneer de status van het programma van een persoon verandert in Geregistreerd, plaatst Marketo de registratiegegevens op ON24. Geen andere status zal de persoon over duwen.
 
-* **E-mail verzenden** - Bevestigingse-mail. Deze e-mail instellen op **Operationeel** zodat personen die zich niet hebben ingeschreven deze nog steeds ontvangen.
+* **verzend E-mail** - Bevestigings e-mail. Plaats deze e-mail aan **Operationeel** zodat unsubscribed mensen die nog het hebben geregistreerd ontvangen.
 
-De **E-mail verzenden** De stroomstap MOET de tweede stap zijn. Het bevestigingsbericht bevat de `{{member.webinar url}}`, die wordt gevuld met informatie die vanuit ON24 naar Marketo wordt teruggestuurd.
+De **verzendt E-mail** stroomstap MOET de tweede stap zijn. Het bevestigingsbericht bevat de `{{member.webinar url}}` , die wordt gevuld met informatie die vanuit ON24 naar Marketo wordt verzonden.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->De volgorde van deze stroomstappen is belangrijk vanwege de volgorde waarin acties worden uitgevoerd in Marketo. De **Programmastatus wijzigen** De stap verzendt de persoon naar ON24 om te registreren en een unieke URL wordt geproduceerd. Nadat dit gebeurt, kunt u het bevestigingsbericht met deze unieke URL verzenden gebruikend `{{member.webinar URL}}` token.
+>De volgorde van deze stroomstappen is belangrijk vanwege de volgorde waarin acties worden uitgevoerd in Marketo. De **stap van de Status van het Programma van de Verandering** verzendt de persoon naar ON24 om te registreren en een unieke URL wordt geproduceerd. Hierna kunt u het bevestigingsbericht met deze unieke URL verzenden met de token `{{member.webinar URL}}` .
 >
 >Als de persoon wordt geretourneerd met een registratiefout, wordt de e-mailbevestiging niet ontvangen.
 
-Uw volgende stap is: [De integratie van uw ON24-gebeurtenis testen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
+Uw volgende stap moet [ Uw ON24 gebeurtenisintegratie ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"} testen.
 
 >[!MORELIKETHIS]
 >
->* [Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
->* [Voorbeeld ON24-gebeurtenisintegratie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
->* [Werken met de status van het Webinar-programma](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
+>* [ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [ Voorbeeld ON24 de Integratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [ Begrijpend de Statussen van het Programma Webinar ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
