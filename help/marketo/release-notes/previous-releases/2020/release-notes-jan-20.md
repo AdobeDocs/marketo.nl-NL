@@ -57,7 +57,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [ Beeld het Uitgeven van het Beeld ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): De toegang Adobe het uitgeven mogelijkheden zonder het moeten Marketo Engage verlaten. Met deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in [!UICONTROL Design Studio] tekst toevoegen aan afbeeldingen.
+* [ Beeld het Uitgeven van het Beeld ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=nl-NL#design-studio): De toegang Adobe het uitgeven mogelijkheden zonder het moeten Marketo Engage verlaten. Met deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in [!UICONTROL Design Studio] tekst toevoegen aan afbeeldingen.
 
 ## [!DNL Sales Insight] {#sales-insight}
 

@@ -47,7 +47,7 @@ Naast de marketingkalender waarmee u uw gebeurtenissen en standaardprogramma&#39
 
 ## Bewerkingen weergeven in de REST API {#list-operations-in-the-rest-api}
 
-Wij hebben de hieronder vraag met betrekking tot lijstverrichtingen in ReST toegevoegd. Zie [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) voor de volledige documentatie.
+Wij hebben de hieronder vraag met betrekking tot lijstverrichtingen in ReST toegevoegd. Zie [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) voor de volledige documentatie.
 
 * Lijst ophalen op ID
 * Meerdere lijsten ophalen
@@ -78,7 +78,7 @@ De RTP Vastgestelde pagina van de Campagne nu [ omvat kant-en-klare malplaatjes 
 
 ## RTP: JavaScript API-verbeteringen {#rtp-javascript-api-enhancements}
 
-De nieuwe vraag van RTP API om bezoekersgegevens in real time zoals organisatie, industrie, plaats en segmentcodegelijke te krijgen. Als u de cursor boven een segmentnaam op de pagina Segmenten houdt, wordt bovendien knopinfo met de segmentcode weergegeven. Zie onze [ ontwikkelaarsplaats ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige documentatie.
+De nieuwe vraag van RTP API om bezoekersgegevens in real time zoals organisatie, industrie, plaats en segmentcodegelijke te krijgen. Als u de cursor boven een segmentnaam op de pagina Segmenten houdt, wordt bovendien knopinfo met de segmentcode weergegeven. Zie onze [ ontwikkelaarsplaats ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige documentatie.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

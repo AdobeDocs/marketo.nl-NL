@@ -37,7 +37,7 @@ Koppel uw [[!DNL Google AdWords]  rekening aan Marketo ](/help/marketo/product-d
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
-[ Nieuwe activa REST APIs ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[ Nieuwe activa REST APIs ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/assets)
 
 Wij hebben nu steun voor het creëren van en het uitgeven van e-mail, malplaatjes, mijn tokens, dossiers, en fragmenten [ via API ](https://developer.adobe.com/marketo-apis/api/asset/)!
 
