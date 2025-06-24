@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van augustus 2014. Raadpleeg d
 
 ## Licenties voor marketingkalender {#marketing-calendar-licenses}
 
-Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Ben zeker om een Vergunning van de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aan de gebruikers van uw keus vóór dan voor ononderbroken toegang uit te geven/in te trekken.[
+Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Ben zeker om een Vergunning van de Kalender van de Marketing [&#128279;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aan de gebruikers van uw keus vóór dan voor ononderbroken toegang uit te geven/in te trekken.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 

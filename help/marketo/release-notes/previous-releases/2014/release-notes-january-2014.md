@@ -47,6 +47,6 @@ Gone is het aantal dagen dat HTML-code uit formulieren op Marketo-bestemmingspag
 
 ## Aanvullende velden in de analyse van het programmamandschap {#additional-fields-in-program-membership-analysis}
 
-Nu kunt u uw ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metriek van de Analyse van het Lidmaatschap van het 0} Programma toevoegen en groeperen door lood en bedrijfattributen. [ Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
+Nu kunt u uw [&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metriek van de Analyse van het Lidmaatschap van het 0&rbrace; Programma toevoegen en groeperen door lood en bedrijfattributen.  Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

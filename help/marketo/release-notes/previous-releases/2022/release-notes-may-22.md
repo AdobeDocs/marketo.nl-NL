@@ -23,7 +23,7 @@ De volgende eigenschappen zullen beginnen om op **6 mei, 2022**, met een gefasee
 
 ## Native CRM-integratie {#native-crm-integration}
 
-**[Inheemse Integratie van CRM van 1} (beperkte beschikbaarheid)**: Verbeter betrokkenheid met gezondheidsberoeps door activiteit tussen Veeva CRM en Marketo Engage via inheemse integratie te synchroniseren. ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
+**[Inheemse Integratie van CRM van 1&rbrace; (beperkte beschikbaarheid)**: Verbeter betrokkenheid met gezondheidsberoeps door activiteit tussen Veeva CRM en Marketo Engage via inheemse integratie te synchroniseren. ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 

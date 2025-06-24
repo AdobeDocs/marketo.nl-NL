@@ -50,4 +50,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en zullen
 >
 >**om uw toegang van Marketo Engage te handhaven, gelieve ervoor te zorgen dat alle cliëntsystemen volgzaam TLS 1.2 vóór 13 December, 2019** zijn. De meer gedetailleerde informatie kan [ hier ](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq) worden gevonden.
 
-_**[ sluit zich aan bij ons ](https://engage.marketo.com/August_19_Release_Webinar.html) op 28 augustus bij 1:00PM PT/4:00PM ET voor een levend webinar dat door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.**_
+_&#x200B;**[ sluit zich aan bij ons ](https://engage.marketo.com/August_19_Release_Webinar.html) op 28 augustus bij 1:00PM PT/4:00PM ET voor een levend webinar dat door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.**&#x200B;_
