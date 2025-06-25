@@ -33,7 +33,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   <tr> 
    <td>Abonnement en Marketo Engage-productbeheerder</td> 
    <td><li>Is uw Marketo Engage abonnement gemigreerd aan <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank"> IMS van Adobe </a> nog? 
-<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank"> de Zorg van de Klant van Adobe </a>.</li>
+<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/nl/contact.html" target="_blank"> de Zorg van de Klant van Adobe </a>.</li>
 <li>Heb je de uitnodiging voor 'Marketo Engage Product Admin' geaccepteerd? De e-mail wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.
 <br/>     Als niet, zoek <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank"> welkome e-mail </a> in uw inbox en keur de uitnodiging goed om uw Adobe ID te activeren.</li></td>
   </tr>
@@ -281,7 +281,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td>Munchkin</td> 
    <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank"> het volgen van Munchkin code </a> op uw website (niet een Marketo Engage het Bestaan Pagina)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank"> </a> toegelaten Browser van het Spoor niet Verzoek?</li>
-<li>Is uw <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank"> Munchkin API </a> gevormd? 
+<li>Is uw <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank"> Munchkin API </a> gevormd? 
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Als u documentatie mist waar de munchkin code op uw website is, kunt u alle URLs bekijken door het Rapport van de Activiteit van de Pagina van het a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank"> te creëren </a>.</li></td>
   </tr>
   <tr> 
@@ -293,7 +293,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr>
   <tr> 
    <td>Adobe Dynamic Chat (indien van toepassing)</td> 
-<td>Na de stappen hieronder zullen toegang tot <a href="https://adminconsole.adobe.com/" target="_blank"> Adobe Admin Console </a> vereisen. Als u opstelling nog geen Adobe ID hebt, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank"> leren hoe te om dat hier </a> te doen.
+<td>Na de stappen hieronder zullen toegang tot <a href="https://adminconsole.adobe.com/" target="_blank"> Adobe Admin Console </a> vereisen. Als u opstelling nog geen Adobe ID hebt, <a href="https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html" target="_blank"> leren hoe te om dat hier </a> te doen.
 <br/>
 <li>Hebt u <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank"> Admin van het Product van Dynamic Chat </a> Uitnodiging goedgekeurd? Het e-mailbericht wordt verzonden wanneer Dynamic Chat in uw Marketo Engage-exemplaar is ingeschakeld en u bent aangewezen als System Admin.
 <br/>     Als dat niet het geval is, zoekt u de welkomste-mail in uw Postvak IN en accepteert u de uitnodiging om uw Adobe ID in te stellen.</li>   
