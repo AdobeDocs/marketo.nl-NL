@@ -2,71 +2,71 @@
 description: Privacyverzoeken - Marketo-documenten - productdocumentatie
 title: Privacyverzoeken
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
 
 # Privacyverzoeken {#privacy-requests}
 
-Dit document biedt een overzicht van het beheer van individuele verzoeken om gegevensprivacy die u naar het Marketo Engage kunt verzenden via de gebruikersinterface van de Privacy Service en de Privacy Service-API.
+Dit document biedt een overzicht van het beheer van individuele privacyverzoeken voor gegevens die u naar Marketo Engage kunt verzenden via de gebruikersinterface van Privacy Service en de Privacy Service-API.
 
 >[!NOTE]
 >
->De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op het volgende van toepassing:
+>Privacy-aanvragen die via de gebruikersinterface van Privacy Service of de API voor Marketo Engage worden ingediend, zijn alleen van toepassing op:
 >
->* Marketo Engage gebruikers die aan het Systeem van de AdobeIdentity Management hebben ingezien
+>* Marketo Engage-gebruikers die zijn aangemeld bij Adobe Identity Management System
 >
->**-of-**
+>**-or-**
 >
->* Gebruikers van Marketo&#39;s Engage die een ander Experience Cloud-product gebruiken dat zich al op het Identity Management-systeem van de Adobe bevindt (bijvoorbeeld RT-CDP, B2B en B2P Editions, Audience Manager).
+>* Marketo Engage-gebruikers die een ander Experience Cloud-product gebruiken dat zich al op het Adobe Identity Management-systeem bevindt (bijvoorbeeld RT-CDP, B2B en B2P Editions, Audience Manager).
 
-U kunt individuele verzoeken om tot consumentengegevens van Marketo Engage toegang te hebben en te schrappen op twee manieren voorleggen:
+U kunt individuele verzoeken om toegang tot en verwijdering van consumentengegevens vanuit Marketo Engage op twee manieren verzenden:
 
-* Via de [UI PRIVACY SERVICE](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=nl-NL){target="_blank"}.
-* Via de Privacy Service-API. Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Via de gebruikersinterface van Privacy Service: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Zie de documentatie [ hier ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Via de Privacy Service API. Zie hier de documentatie [ ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} en API informatie [ ](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-De [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL){target="_blank"} ondersteunt twee soorten verzoeken: toegang tot gegevens en verwijdering van gegevens.
+[ Privacy Service ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} steunt twee soorten verzoeken: gegevenstoegang en gegevensschrapping.
 
 Zie hoe u verzoeken van de Toegang en van de Schrapping kunt tot stand brengen.
 
-## Vereiste opstelling om verzoeken om Marketo Engage te verzenden {#required-setup-to-send-requests-for-marketo-engage}
+## Vereiste installatie voor het verzenden van aanvragen voor Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
-Om tot Gegevens van de Toegang en van de Schrapping voor Marketo Engage te verzoeken, moet u:
+Als u een aanvraag wilt indienen om gegevens voor Marketo Engage te openen of te verwijderen, moet u:
 
 1. Vermeld het volgende:
 
-   a. IMS Org ID<br/>
+   a. IMS Org ID <br/>
 b. E-mailadres van de persoon aan wie u wilt optreden
 
-   Een IMS-organisatie-id is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met @AdobeOrg. Als uw marketingteam of de beheerder van het interne Adobe-systeem de IMS Org-id van uw organisatie niet kent, neemt u contact op met de klantenservice van de Adobe op `gdprsupport@adobe.com`. U hebt de IMS Org ID nodig om aanvragen in te dienen bij de Privacy API.
+   Een IMS-organisatie-id is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met @AdobeOrg. Als uw marketingteam of interne Adobe-systeembeheerder de IMS Org-id van uw organisatie niet kent, neemt u contact op met de klantenservice van Adobe op `gdprsupport@adobe.com` . U hebt de IMS Org ID nodig om aanvragen in te dienen bij de Privacy API.
 
-1. In Privacy Service, kunt u verzoeken van de Toegang voorleggen en van de Schrapping aan Marketo Engage, en de status van bestaande verzoeken controleren.
+1. In Privacy Service kunt u aanvragen voor toegang en verwijderen naar Marketo Engage verzenden en de status van bestaande aanvragen controleren.
 
-## Vereiste veldwaarden in JSON-verzoeken van Marketo Engage {#required-field-values-in-marketo-engage-json-requests}
+## Vereiste veldwaarden in Marketo Engage JSON-verzoeken {#required-field-values-in-marketo-engage-json-requests}
 
 &quot;companyContext&quot;:
 
 * &quot;namespace&quot;: **imsOrgID**
-* &quot;waarde&quot;: `<Your IMS Org ID Value>`
+* &quot;value&quot;: `<Your IMS Org ID Value>`
 
 &quot;gebruikers&quot;:
 
-* &quot;actie&quot;: **toegang** of **delete**
+* &quot;actie&quot;: of **toegang** of **schrapping**
 * &quot;userIDs&quot;:
-   * &quot;namespace&quot;: **email**
+   * &quot;namespace&quot;: **e-mail**
    * &quot;type&quot;: **standaard**
-   * &quot;waarde&quot;: `<Data Subject's Email Address>`
+   * &quot;value&quot;: `<Data Subject's Email Address>`
 
 &quot;include&quot;:
 
-* **marketo** (dit is het Adobe product dat van toepassing is op het verzoek)
+* **marktto** (dat het product is van Adobe dat op het verzoek van toepassing is)
 
 &quot;verordening&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, of **nzpa_nzl**  (dit is de privacyverordening die van toepassing is op het verzoek)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, of **nzpa_nzl** (dat de privacyverordening is die op het verzoek van toepassing is)
 
 ## Voorbeeld één: GDPR-aanvraag verwijderen {#gdpr-delete-request}
 
@@ -196,4 +196,4 @@ JSON-reactie
 
 >[!MORELIKETHIS]
 >
->[Privacybeheer](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+>[ het Beheer van de Privacy ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
