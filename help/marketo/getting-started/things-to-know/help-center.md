@@ -3,7 +3,7 @@ description: Help Center - Marketo Engage Docs - Productdocumentatie
 title: Helpcentrum
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 2%
@@ -12,17 +12,17 @@ ht-degree: 2%
 
 # Helpcentrum {#help-center}
 
-Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [ productdocumentatie ](/help/marketo/home.md){target="_blank"}, [ versieinformatie ](/help/marketo/release-notes/current.md){target="_blank"}, de [ Gemeenschap van de Natie van de Marketing ](https://nation.marketo.com/){target="_blank"} ), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
+Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [ productdocumentatie ](/help/marketo/home.md){target="_blank"}, [ versieinformatie ](/help/marketo/release-notes/current.md){target="_blank"}, de [ Gemeenschap van de Natie van de Marketing ](https://nation.marketo.com/){target="_blank"}), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
 
 ## Toegang verkrijgen {#how-to-access}
 
-Er zijn twee verschillende ervaringen, afhankelijk van het feit of uw abonnement al naar Adobe Identity Management System (IMS) is gemigreerd.
+Er zijn twee verschillende ervaringen, afhankelijk van of uw abonnement al naar Adobe Identity Management System (IMS) is gemigreerd.
 
 ### Migratie vóór Adobe IMS {#pre-adobe-ims-integration}
 
-Deze stappen zijn voor de gebruikers van het Marketo Engage die _niet_ aan [ IMS van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) nog gemigreerd zijn.
+Deze stappen zijn voor de gebruikers van Marketo Engage die _niet_ zijn gemigreerd aan [ IMS van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} nog.
 
-[ Login ](http://login.marketo.com/) aan Marketo Engage en klik het pictogram van de Hulp.
+[ Login ](https://login.marketo.com/){target="_blank"} aan Marketo Engage en klik het pictogram van de Hulp.
 
 ![](assets/help-center-1.png)
 
@@ -54,25 +54,25 @@ Hulplijnen dienen als snelle doorverwijzingen voor veelgebruikte functies.
 
 #### Nieuwe functies {#whats-new}
 
-Het tabblad Nieuwe functies bevat de details van de meest recente release van het Marketo Engage.
+Het tabblad Nieuwe functies bevat de details van de laatste release van Marketo Engage.
 
 ![](assets/help-center-7.png)
 
 >[!TIP]
 >
->Klik op het pijlpictogram onderaan om de pagina in het Experience League weer te geven.
+>Klik op het pijlpictogram onderaan om de pagina in Experience League weer te geven.
 
 #### Bronnen {#resources}
 
-Het lusje van Middelen geeft u snelle en directe toegang tot diverse manieren u extra hulp met uw instantie van het Marketo Engage kunt krijgen.
+Op het tabblad Bronnen hebt u snel en rechtstreeks toegang tot verschillende manieren waarop u extra hulp kunt krijgen met uw Marketo Engage-exemplaar.
 
 ![](assets/help-center-8.png)
 
 ### Migratie na Adobe IMS {#post-adobe-ims-integration}
 
-Deze stappen zijn voor de gebruikers van het Marketo Engage die reeds aan [ IMS van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) zijn gemigreerd.
+Deze stappen zijn voor de gebruikers van Marketo Engage die reeds aan [ IMS van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd.
 
-[ Login ](https://experience.adobe.com/) aan Marketo Engage en klik het pictogram van de Hulp.
+[ Login ](https://experience.adobe.com/){target="_blank"} aan Marketo Engage en klik het pictogram van de Hulp.
 
 ![](assets/help-center-9.png)
 
@@ -88,6 +88,6 @@ Het Guide Center heeft twee tabbladen, hulplijnen en nieuwe functies. Hulplijnen
 
 ![](assets/help-center-12.png)
 
-Het tabblad Nieuwe functies bevat de details van de meest recente release van het Marketo Engage.
+Het tabblad Nieuwe functies bevat de details van de laatste release van Marketo Engage.
 
 ![](assets/help-center-13.png)

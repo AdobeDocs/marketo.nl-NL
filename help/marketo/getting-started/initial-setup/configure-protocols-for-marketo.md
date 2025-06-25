@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720433
-description: Protocollen voor Marketo Engage configureren - Marketo's Engage - productdocumentatie
+description: Protocollen configureren voor Marketo Engage - Marketo Engage Docs - Productdocumentatie
 title: Protocollen voor Marketo Engage configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
-source-wordcount: '2148'
+source-wordcount: '2131'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u of uw organisatie restrictieve firewall of proxyserverinstellingen gebruikt, moet u of uw netwerkbeheerder bepaalde domeinen en IP-adresbereiken lijsten van gewenste personen om ervoor te zorgen dat Adobe Marketo Engage naar behoren werkt.
 
-Deel dit artikel met uw IT-afdeling voor hulp bij het implementeren van de onderstaande protocollen. Als zij Webtoegang gebruikend een lijst van gewenste personen beperken, zorg ervoor zij de volgende domeinen (met inbegrip van de asterisk) toevoegen om alle middelen van het Marketo Engage en websockets toe te staan:
+Deel dit artikel met uw IT-afdeling voor hulp bij het implementeren van de onderstaande protocollen. Als deze webtoegang beperken via een lijst van gewenste personen, moet u ervoor zorgen dat de volgende domeinen (inclusief het sterretje) worden toegevoegd om alle Marketo Engage-bronnen en -websockets toe te staan:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ Deel dit artikel met uw IT-afdeling voor hulp bij het implementeren van de onder
 
 **het Volgen CNAMEs van de Verbinding**
 
-Uw marketing team zou u twee verzoeken om nieuwe verslagen van CNAME moeten hebben verzonden. De eerste is voor het landen van pagina URLs, zodat de landende pagina&#39;s in URLs verschijnen die uw domein en niet Marketo Engage (de daadwerkelijke gastheer) weerspiegelen. Het tweede is voor de trackingkoppelingen die zijn opgenomen in de e-mails die ze van Marketo Engage verzenden.
+Uw marketing team zou u twee verzoeken om nieuwe verslagen van CNAME moeten hebben verzonden. De eerste is voor het landen van pagina URLs, zodat de landende pagina&#39;s in URLs verschijnen die uw domein en niet Marketo Engage (de daadwerkelijke gastheer) weerspiegelen. De tweede is voor de trackingkoppelingen die zijn opgenomen in de e-mails die ze van Marketo Engage verzenden.
 
 `1` **voegt NAAM voor het Bestaan van Pagina&#39;s** toe
 
-Voeg de bestemmingspagina CNAME toe die zij u naar uw DNS verslag hebben verzonden, zodat `[YourLandingPageCNAME]` aan het unieke Koord van de Rekening richt dat aan uw Marketo Engage Landing Pagina&#39;s wordt toegewezen. Meld u aan bij de site van uw domeinregistrar en voer de landingspagina CNAME en accounttekenreeks in. Dit betreft meestal drie velden:
+Voeg de bestemmingspagina CNAME toe die zij u naar uw DNS verslag hebben verzonden, zodat `[YourLandingPageCNAME]` aan het unieke Koord van de Rekening richt dat aan uw Marketo Engage het Bestaan Pagina&#39;s wordt toegewezen. Meld u aan bij de site van uw domeinregistrar en voer de landingspagina CNAME en accounttekenreeks in. Dit betreft meestal drie velden:
 
 * Alias: Enter `[YourLandingPageCNAME]` (wordt opgegeven door marketing)
 * Type: CNAME
@@ -54,13 +54,13 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **de Steun van de Adobe van het Contact [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}  om het proces te beginnen van levering een SSL Certificaat.**
+`4` **de Steun van Adobe van het Contact [ ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 
-## Stap 2: Marketo Engage IPs van de Lijst van gewenste personen {#step-allowlist-marketo-ips}
+## Stap 2: Lijst van gewenste personen Marketo Engage IPs {#step-allowlist-marketo-ips}
 
-Als uw marketinggroep Marketo Engage gebruikt om teste-mails te verzenden (een aanbevolen werkwijze voordat e-mailberichten worden verzonden), worden de teste-mails soms geblokkeerd door anti-spamsystemen die afhankelijk zijn van IP-adressen van de afzender om te controleren of de e-mail geldig is. Om ervoor te zorgen dat deze teste-mails aankomen, voegt u Marketo Engage toe aan uw lijst van gewenste personen.
+Als uw marketinggroep Marketo Engage gebruikt om teste-mails te verzenden (een aanbevolen werkwijze voordat e-mailberichten worden verzonden), worden de e-mails over de test soms geblokkeerd door anti-spamsystemen die afhankelijk zijn van IP-adressen van de afzender om te controleren of de e-mail geldig is. Voeg Marketo Engage toe aan uw lijst van gewenste personen om ervoor te zorgen dat deze teste-mails arriveren.
 
 Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 
@@ -80,7 +80,7 @@ Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 
 199.15.212.0/22
 
-Sommige anti-anti-spamsystemen gebruiken het terug-weg van e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen, is de beste benadering lijst van gewenste personen &#39;&#42;.mktomail.com&#39;, aangezien het Marketo Engage verscheidene brievenbussubdomeinen gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&#39;van&#39;) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
+Sommige anti-anti-spamsystemen gebruiken het terug-weg van e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen, is de beste benadering lijst van gewenste personen &#39;&#42;.mktomail.com&#39;, aangezien Marketo Engage verscheidene brievenbussubdomeinen gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&#39;van&#39;) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
 
 >[!NOTE]
 >
@@ -98,7 +98,7 @@ Uw marketingteam had u ook DKIM (Domain Keys Identified Mail)-informatie moeten 
    Als wij reeds een bestaand SPF- verslag in onze DNS ingang hebben, voeg eenvoudig het volgende aan het toe:\
    include: mktomail.com
 
-   Vervang CompanyDomain met het belangrijkste domein van uw website (ex: &quot;`(company.com/)`&quot;) en CorpIP met het IP adres van uw collectieve e-mailserver (ex. &quot;25.255.255.255&quot;). Als u e-mail van veelvoudige domeinen door Marketo Engage gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.
+   Vervang CompanyDomain met het belangrijkste domein van uw website (ex: &quot;`(company.com/)`&quot;) en CorpIP met het IP adres van uw collectieve e-mailserver (ex. &quot;255.255.255.255&quot;). Als u e-mail van veelvoudige domeinen door Marketo Engage gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.
 
 1. Voor DKIM, creeer DNS de Verslagen van het Middel voor elk domein wij opstelling zouden willen. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
 
@@ -243,7 +243,7 @@ DMARC-records hebben meerdere componenten, DMARC-tags genoemd. Elke tag heeft ee
 </tbody>
 </table>
 
-Voor volledige details rond DMARC en al zijn opties, gelieve te bezoeken [ https://dmarc.org/ ](https://dmarc.org/){target="_blank"} .
+Voor volledige details rond DMARC en al zijn opties, gelieve te bezoeken [ https://dmarc.org/ ](https://dmarc.org/){target="_blank"}.
 
 ### DMARC en Marketo Engage {#dmarc-and-marketo-engage}
 
@@ -266,15 +266,15 @@ Er zijn twee typen uitlijning voor DMARC: DKIM-uitlijning en SPF-uitlijning.
 
    * DMARC configureren voor het domein van het gemerkte return-Path
 
-* Als u post van Marketo Engage door specifieke IP verzendt en niet reeds branded terugkeer-weg, of niet zeker bent als u hebt ingevoerd, te openen gelieve een kaartje met [ Steun van de Adobe ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} .
+* Als u post van Marketo Engage door specifieke IP verzendt en reeds branded terugkeer-weg, of niet zeker bent als u hebt ingevoerd, te openen gelieve een kaartje met [ Steun van Adobe ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Als u post van Marketo Engage door een gedeelde pool van IPs verzendt, kunt u zien of kwalificeert u voor Vertrouwde IPs door [ hier van toepassing te zijn ](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"} . Branded return-path wordt gratis aangeboden aan diegenen die vanuit Marketo Engage Trusted IPs verzenden. Als u dit programma goedkeurt, kunt u contact opnemen met de Adobe Support voor het instellen van een retourpad met branding.
+* Als u post van Marketo Engage door een gedeelde pool van IPs verzendt, kunt u zien of kwalificeert u voor Vertrouwde IPs door [ hier van toepassing te zijn ](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Branded return-path wordt gratis aangeboden aan diegenen die van Marketo Engage Trusted IP&#39;s verzenden. Als dit programma is goedgekeurd, vraagt u Adobe Support om een retourpad met branding in te stellen.
 
    * Vertrouwde IPs: Een gedeelde pool van IPs die voor lagere volumegebruikers wordt gereserveerd die &lt;75K/maand verzenden die niet voor specifieke IP kwalificeren. Deze gebruikers moeten ook aan beste praktijkvereisten voldoen.
 
-* Als u post van Marketo Engage door gedeelde IPs verzendt en u niet voor Vertrouwde IPs kwalificeert en meer dan 100.000 berichten per maand verzendt, zult u het Team van de Rekening van de Adobe (uw rekeningsmanager) moeten contacteren om specifieke IP te kopen.
+* Als u post van Marketo Engage door gedeelde IPs verzendt en u niet voor Vertrouwde IPs kwalificeert en meer dan 100.000 berichten per maand verzendt, zult u het Team van de Rekening van Adobe (uw rekeningsmanager) moeten contacteren om een specifieke IP te kopen.
 
-* Strikte SPF-uitlijning wordt niet ondersteund en wordt niet aanbevolen binnen het Marketo Engage.
+* Strikte SPF-uitlijning wordt niet ondersteund en wordt niet aanbevolen in Marketo Engage.
 
 ## Stap 5: Opstelling MX Verslagen voor Uw Domein {#step-set-up-mx-records-for-your-domain}
 
@@ -282,7 +282,7 @@ Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verze
 
 ## Uitgaande IP Adressen {#outbound-ip-addresses}
 
-Een uitgaande verbinding wordt gemaakt door het Marketo Engage naar een server op internet namens u. Sommige partners/verkopers u met, of uw eigen organisatie van IT werkt, kunnen lijsten van gewenste personen gebruiken om toegang tot servers te beperken. Als zo, moet u hen van Marketo Engage uitgaande IP adresblokken voorzien om aan hun lijsten van gewenste personen toe te voegen.
+Een uitgaande verbinding wordt gemaakt door Marketo Engage met een server op internet namens u. Sommige partners/verkopers u met, of uw eigen organisatie van IT werkt, kunnen lijsten van gewenste personen gebruiken om toegang tot servers te beperken. Als zo, moet u hen van uitgaande IP van Marketo Engage adresblokken verstrekken om aan hun lijsten van gewenste personen toe te voegen.
 
 **Webhooks**
 
@@ -290,11 +290,11 @@ Marketo Engage [ Webhooks ](/help/marketo/product-docs/administration/additional
 
 **Synchronisatie van CRM**
 
-Marketo Engage [ de Synchronisatie van CRM van Salesforce CRM ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} en [ de Synchronisatie van Microsoft Dynamics ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd. U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
+De Synchronisatie van Marketo Engage ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} en [ van CRM van Salesforce CRM ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd. [ U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
 
-**Uitgaande IP van het Marketo Engage Blokken van het Adres**
+**Uitgaande IP van Marketo Engage Blokken van het Adres**
 
-De volgende lijsten behandelen alle servers van het Marketo Engage die uitgaande vraag maken. Gebruik de lijsten hieronder als u om het even welke IP lijst van gewenste personen, server, firewall, toegangsbeheerlijst, veiligheidsgroep, of derdedienst vormt om uitgaande verbindingen van Marketo Engage te ontvangen.
+De volgende lijsten behandelen alle servers van Marketo Engage die uitgaande vraag maken. Gebruik de lijsten hieronder als u om het even welke IP lijst van gewenste personen, server, firewall, toegangsbeheerlijst, veiligheidsgroep, of derdedienst vormt om uitgaande verbindingen van Marketo Engage te ontvangen.
 
 <table>
  <tbody>

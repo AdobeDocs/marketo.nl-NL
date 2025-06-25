@@ -4,9 +4,9 @@ description: De lettertypefamilie van het formulier wijzigen - Marketo Docs - Pr
 title: De lettertypefamilie van het formulier wijzigen
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ Google Fonts zijn geweldig en we hebben ze direct in de formuliereditor ingebouw
 >
 >Deze instelling is van invloed op het formulierlabel, de invoertekst en alle RTF-gegevens.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **de Marketing Activiteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer uw vorm en klik **uitgeven Vorm**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Onder **Formulierinstellingen**, selecteert u **Instellingen**.
+1. Onder **Montages van de Vorm**, uitgezochte **Montages**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selecteer **Lettertypefamilie** wilt u.
+1. Selecteer de **Familie van de Doopvont** u wilt.
 
    >[!TIP]
    >
-   >Een hoop [Google-lettertypen](https://www.google.com/fonts) beschikbaar voor gebruik.
+   >Een groep [ de Doopvonten van Google ](https://fonts.google.com/){target="_blank"} zijn beschikbaar voor gebruik.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klikken **Voltooien**.
+1. Klik **Afwerking**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik **goedkeuren en sluiten**.
 
    >[!NOTE]
    >
-   >Het formulier moet zijn goedgekeurd voor gebruik op de aanlandingspagina&#39;s.
+   >Het formulier moet zijn goedgekeurd voor gebruik op de aanvoerpagina&#39;s.
 
    ![](assets/image2014-9-15-16-3a1-3a28.png)
 
@@ -61,4 +61,4 @@ Zie hoe eenvoudig het was om de lettertypefamilie op een formulier te wijzigen? 
 
 >[!MORELIKETHIS]
 >
->[De tekengrootte van het formulier wijzigen](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
+>[ verander de Grootte van de Doopvont van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
