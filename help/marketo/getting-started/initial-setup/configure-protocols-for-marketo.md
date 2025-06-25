@@ -54,7 +54,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **de Steun van Adobe van het Contact [ ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
+`4` **de Steun van Adobe van het Contact [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 
@@ -290,7 +290,7 @@ Marketo Engage [ Webhooks ](/help/marketo/product-docs/administration/additional
 
 **Synchronisatie van CRM**
 
-De Synchronisatie van Marketo Engage ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} en [ van CRM van Salesforce CRM ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd. [ U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
+De Synchronisatie van Marketo Engage [&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} en [ van CRM van Salesforce CRM ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd.  U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
 
 **Uitgaande IP van Marketo Engage Blokken van het Adres**
 
