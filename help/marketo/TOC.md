@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
 workflow-type: tm+mt
-source-wordcount: '9279'
+source-wordcount: '9283'
 ht-degree: 0%
 
 ---
@@ -1958,6 +1958,7 @@ ht-degree: 0%
    + [Releaseplanning](release-notes/release-schedule.md)
    + [Huidige versie](release-notes/current.md)
    + [Dynamic Chat Release](release-notes/dynamic-chat.md)
+   + [Dynamic Chat Release TEMP](release-notes/dynamic-chat-temp.md)
    + Eerdere releases {#previous-releases}
       + 2025 {#2025}
          + [Opmerkingen bij de release: januari &#39;25](release-notes/previous-releases/2025/release-notes-jan-25.md)
