@@ -35,7 +35,7 @@ Wij hebben de levende praatje verpletterend logica in Dynamic Chat vernieuwd om 
 
 * **Verpletterend regel-Specifiek Gedrag**
 
-_**Verpletterende Rekening**_
+_&#x200B;**Verpletterende Rekening**&#x200B;_
 
 Als het e-maildomein van een bezoeker wordt toegewezen aan een bekende account, krijgt de toegewezen agent altijd de prioriteit.
 
@@ -53,7 +53,7 @@ Hiermee keert u terug naar een standaardbericht (worst case).
 
 De kaart-vlakke verpletterende regel (b.v. Team, Douane) wordt slechts overwogen als het Verpletteren van de Rekening niet in aanmerking komt (geen passend domein of agent).
 
-_**Douane/Team die**_ verplettert
+_&#x200B;**Douane/Team die**&#x200B;_ verplettert
 
 Deze regels kunnen meerdere in aanmerking komende agenten teruggeven.
 
@@ -67,7 +67,7 @@ Het systeem toont de agenda van de eerste beproefde agent (als toegelaten), of
 
 Hiermee geeft u het standaardfallback-bericht weer.
 
-_**Rond Robin die**_ verplettert
+_&#x200B;**Rond Robin die**&#x200B;_ verplettert
 
 Wanneer gebruikt als primaire verpletterende regel, het systeem:
 
