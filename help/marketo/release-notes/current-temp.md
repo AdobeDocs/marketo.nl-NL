@@ -4,16 +4,16 @@ title: Opmerkingen bij de huidige release
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '450'
 ht-degree: 2%
 
 ---
 
-# Opmerkingen bij de release: mei 2025 {#release-notes-may-25}
+# Opmerkingen bij de release: juli 2025 {#release-notes-july-25}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 25 mei. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 25 juli. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
@@ -23,12 +23,127 @@ De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/h
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **23 mei, 2025**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken worden vrijgegeven. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **11 juli, 2025**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken worden vrijgegeven. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
 <table style="table-layout:auto"> 
  <tbody>
+ <tr> 
+   <th style="width:65%">Functie</th> 
+   <th style="width:10%">Status</th>
+   <th style="width:25%">Documentatie</th>
+  </tr>
   <tr> 
-   <td><strong> de tokens van de Trekker voor om het even welk attribuut </strong>: Uitgebreide lijst van trekkertokens om het gebruiken van gegevens van om het even welk activiteitenattribuut in de Slimme gebieden van de Campagne te steunen.</td> 
+   <td><strong> E-mail Designer - de Kit van het Merk met AI Medewerker </strong>: Handhaaf merkconsistentie over e-mailactiva door merkactiva zoals kleuren, doopvonten, logo's, thema's, visuele inhoud, nalevingsrichtlijnen, enz. op één plaats op te slaan en te beheren.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - de Steun van CSS van de Douane </strong>: Wanneer het ontwerpen van e-mails, kunt u uw eigen douaneCSS direct binnen E-mailDesigner nu toevoegen.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - Steun van het Verplaatsen van Assets en de Schrapping van het Programma </strong>: Verplaats snel een e-mailmiddel over programma's. U kunt nu ook programma's verwijderen die nieuwe e-mailelementen voor ontwerpers bevatten.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - de Steun van Firefox </strong>: De e-mail Designer wordt nu volledig gesteund in Mozilla Firefox. Houd uw browser altijd up-to-date voor de beste ervaring.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - Simuleer Inhoud van de Pagina van Eigenschappen </strong>: Simuleer inhoud voor e-mailactiva van <i> E-mailEigenschappen </i> zonder het moeten terug in het het uitgeven scherm gaan.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - Op rol-gebaseerde Controle van de Toegang voor Assets </strong>: De versie van mei zag Op rol-gebaseerde Toegangscontrole (RBAC) die voor Edit wordt uitgevoerd, goedkeurt, en schrapt toestemmingen. Leesmachtigingen zijn nu beschikbaar bij deze release.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - geef E-mailEigenschappen voor Gepubliceerde E-mail </strong> uit: Breng veranderingen in <i> E-mailEigenschappen </i> zelfs nadat e-mail wordt gepubliceerd.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - Uitgezochte Brandend Domein en IP van het Domein Configuratie </strong>: U kunt een "brandend domein"en "IP van het Domein configuratie"voor elk e-mailmiddel nu selecteren.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> TITEL </strong>: BESCHRIJVING.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> TITEL </strong>: BESCHRIJVING.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> TITEL </strong>: BESCHRIJVING.</td> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> TITEL </strong>: BESCHRIJVING.</td> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
@@ -38,10 +153,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **Nieuwe Eigenschap van de Analyse - Openbare Beta**: [ Geavanceerde Analytics van BI ](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (vroeger genoemd als Ontdekkingsreiziger van de Opbrengst en Geavanceerde Report Builder) begon uit te rollen aan alle huidige gebruikers van de Ontdekkingsreiziger van de Ontdekkingsreiziger van de Opbrengst midden-April. Dit nieuwe hulpmiddel biedt een flexibele rapportage- en visualisatieinterface voor Marketo Engage-gegevens, die gedetailleerde informatie biedt over progressie, prestaties en meer. Deze server biedt een rijkere interactiviteit en visualisatie, snellere prestaties en een naadloze en intuïtievere gebruikerservaring.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
-
-* **Rest API &quot;access_token&quot;de Verdringing van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 30 Juni, 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-
-* **SOAP API Verdringing**: De steun voor Marketo SOAP API zal op 31 okt, 2025 beëindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
