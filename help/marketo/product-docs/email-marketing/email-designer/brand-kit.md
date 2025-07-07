@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Voer de volgende stappen uit om machtigingen voor merken toe te wijzen:
 
 1. Ga de naam van de gebruiker, e-mailadres in, of kies van de lijst, dan klik **sparen**.
 
-1. Als de gebruiker niet eerder werd gecreeerd, verwijs naar [ deze documentatie ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/users).
+1. Als de gebruiker niet eerder werd gecreeerd, verwijs naar [ deze documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 +++
 
@@ -246,7 +246,7 @@ In de sectie **[!UICONTROL Writing style]** worden de standaarden voor het schri
 
 U past de **[!UICONTROL Writing Style]** als volgt aan:
 
-1. Klik op het tabblad **[!UICONTROL Writing Style]** op ![](assets/do-not-localize/Smock_Add_18_N.svg) om een hulplijn, uitzondering of uitsluiting toe te voegen.
+1. Klik op het tabblad **[!UICONTROL Writing Style]** op DIT PICTOGRAM om een hulplijn, uitzondering of uitsluiting toe te voegen.
 
 1. Voer uw hulplijn, uitzondering of uitsluiting in en klik op **[!UICONTROL Add]** .
 
