@@ -7,9 +7,9 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Bij het ontwerpen van uw e-mailberichten kunt u uw eigen aangepaste CSS rechtstr
 
 Volg onderstaande stappen om aangepaste CSS toe te voegen aan uw e-mailinhoud.
 
-1. Verzeker er wat inhoud die in E-mail Designer wordt bepaald door minstens één [ component ](content-components.md) toe te voegen.
+1. Zorg ervoor dat er inhoud is gedefinieerd in de e-mailtoepassing van Designer door ten minste één component toe te voegen. KOPPELEN - DIT BEHOUDEN?
 
 1. Selecteer **[!UICONTROL Body]** in het vak **[!UICONTROL Navigation tree]** links of boven in het rechtervenster. De sectie **[!UICONTROL CSS styles]** wordt rechts weergegeven.
 
