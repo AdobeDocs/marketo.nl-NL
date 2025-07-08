@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+source-git-commit: 4d6c929bf7dc5b8c825fe7d7ab613dd8fd750aa0
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '667'
 ht-degree: 1%
 
 ---
@@ -30,16 +30,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:65%">Functie</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
-  </tr>
-  <tr> 
-   <td><strong> E-mail Designer - de Kit van het Merk met AI Medewerker </strong>: Handhaaf merkconsistentie over e-mailactiva door merkactiva zoals kleuren, doopvonten, logo's, thema's, visuele inhoud, nalevingsrichtlijnen, enz. op één plaats op te slaan en te beheren.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong> E-mail Designer - de Steun van CSS van de Douane </strong>: Wanneer het ontwerpen van e-mails, kunt u uw eigen douaneCSS direct binnen E-mailDesigner nu toevoegen.</td> 
@@ -162,6 +152,12 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Eind van het Leven van de Identiteit van Marketo Engage**: In Augustus 2025, zal Adobe beginnen phasing out steun voor de Identiteit van Marketo Engage (het programma openen via `login.marketo.com`). Om onderbroken toegang tot Marketo Engage te verhinderen, moet u overgang aan [ Identiteit van Adobe ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} uiterlijk 30 September, 2025.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+   * _IP de Afschrijving van Beperkingen_: Steun voor [ Beperkende Marketo Logins die op IP ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} worden gebaseerd zal op 30 Juli, 2025 beëindigen. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Een nieuwe op locatie-gebaseerde toegangsbeheerfunctie voor Adobe Identity in Adobe Admin Console is bedoeld voor de release van augustus 2025.
+
+   * _Enige Sign-On (SSO) Verdringing_: Steun voor [ Identiteit SSO van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} zal op 30 Juli, 2025 eindigen. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet afzonderlijk worden geconfigureerd. Voor opstellingsstappen, zie [ de identiteit van de Opstelling en Enige Sign-On ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
