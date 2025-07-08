@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
 title: Advanced BI Analytics - overzicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: fbb323d2518bcc8278370a0e1c5ea87143f87a36
+source-git-commit: c5f0e8ef41618ec0723e4c6ca534e6ed3c1ec1f9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1222'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
@@ -254,7 +254,17 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 
 * De bestaande gebruikers van de Ontdekkingsreiziger van de Opbrengst hebben automatisch toegang tot de nieuwe Geavanceerde ervaring van de Analyse BI.
 
-* U kunt maximaal 700 rapporten maken in Advanced BI Analytics.
+* U kunt **tot 700 rapporten** in Geavanceerde Analytics van BI tot stand brengen.
+
+  >[!NOTE]
+  >
+  >Als u meer dan 700 rapporten in de Ontdekkingsreiziger van de Ontvangsten had, zijn sommige rapporten gecombineerd met anderen en geconsolideerd via pagina&#39;s binnen het rapport.
+  >
+  >* Als een rapport een e-mailabonnement had, is het niet gecombineerd.
+  >
+  >* De rest rapporten in de _zelfde omslag_ werden gecombineerd in één of meerdere rapporten, door rapporterend gebied. Indien er meer dan vijf verslagen waren voor het verslaggebied, werden deze samengevoegd tot meer dan één gecombineerd verslag.
+  >
+  >* Elk gecombineerd rapport heeft maximaal vijf pagina&#39;s.
 
 * Er geldt een beperking van 1 miljoen rijen per query voor een bepaalde visualisatie. Als uw query deze overschrijdt, ontvangt u de volgende fout: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows` . Om dit te bevestigen, verklein uw datumwaaier, en/of pas de filters in uw rapport aan om het aantal rijen in uw vraagresultaat te verminderen.
 
