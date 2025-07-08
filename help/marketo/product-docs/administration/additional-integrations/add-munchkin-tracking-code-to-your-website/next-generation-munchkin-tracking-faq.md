@@ -1,17 +1,19 @@
 ---
 unique-page-id: 10096583
-description: "Volgende generatie [!DNL Munchkin] Veelgestelde vragen over bijhouden - Marketo-documenten - productdocumentatie"
-title: "Volgende generatie [!DNL Munchkin] Veelgestelde vragen over bijhouden"
+description: Volgende Generatie  [!DNL Munchkin]  het Volgen Veelgestelde Veelgestelde vragen - de Documenten van Marketo - de Documentatie van het Product
+title: Volgende Generatie  [!DNL Munchkin]  het Volgen Veelgestelde vragen
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+hide: true
+hidefromtoc: true
+source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
 
-# Volgende generatie [!DNL Munchkin] Veelgestelde vragen over bijhouden {#next-generation-munchkin-tracking-faq}
+# Veelgestelde vragen over bijhouden van volgende generatie [!DNL Munchkin] {#next-generation-munchkin-tracking-faq}
 
 We zijn blij om te kunnen aankondigen dat we binnenkort een gefaseerde introductie van onze webtrackingtechnologie van de volgende generatie zullen starten.
 
@@ -19,35 +21,35 @@ Dit zijn de belangrijkste dingen die u moet weten:
 
 * We verwijderen het filter &quot;Is Anoniem&quot; slimme lijst met onze Q1-versie (al klaar)
 * We verhogen het aantal webgebeurtenissen (Bezoek webpagina, Klik op Koppeling op webpagina) dat we kunnen invoeren
-* Uw [!DNL Munchkin] code wordt niet gewijzigd, dus er zijn geen updates voor uw website vereist
+* Uw [!DNL Munchkin] -code wordt niet gewijzigd, dus er zijn geen updates voor uw website vereist
 
-## Wanneer is mijn Marketo-abonnement ingeschakeld [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## Wanneer zal mijn Marketo-abonnement op [!DNL Munchkin] V2 zijn? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 We hebben nog geen exacte datum, maar kom hier terug voor updates.
 
-## Moet ik mijn [!DNL Munchkin] volgen op mijn website? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Moet ik wijzigingen aanbrengen in mijn [!DNL Munchkin] tracking op mijn website? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-Nee. De [!DNL Munchkin] de volgende code blijft hetzelfde. U hoeft geen wijzigingen in uw website aan te brengen.
+Nee. De [!DNL Munchkin] -trackingcode blijft ongewijzigd. U hoeft geen wijzigingen in uw website aan te brengen.
 
 >[!NOTE]
 >
->Deze verandering beïnvloedt geen Personalisatie van het Web (Echt - tijd Personalisatie). Het blijft anonieme en bekende webbezoekers identificeren en inhoud in real-time personaliseren voor deze bezoekers.
+>Deze wijziging heeft geen invloed op Web Personalization (Real-Time Personalization). Het blijft anonieme en bekende webbezoekers identificeren en inhoud in real-time personaliseren voor deze bezoekers.
 
 ## Waarom heeft Marketo het filter &quot;Is Anoniem&quot;uit Slimme Lijsten verwijderd? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
 We veranderden hoe anonieme mensen interageren met slimme campagnes. Vroeger gingen ze door een slimme campagne, net als bekende mensen. Het filter &quot;Is Anoniem&quot;werd gebruikt om te specificeren dat slechts bekende of slechts anonieme mensen door de campagne stromen.
 
-Met [!DNL Munchkin] V2, we zullen alle anonieme activiteiten blijven volgen; u kunt echter geen filters meer toepassen op anonieme personen . Op het moment van omzetting (wanneer de persoon in Marketo bekend wordt) worden alle activiteiten die plaatsvonden toen de persoon anoniem was, toegevoegd aan het activiteitenlogboek van de persoon en op dit moment stromen zij door de campagnes waarvoor zij in aanmerking komen.
+Met [!DNL Munchkin] V2 blijven we alle anonieme activiteiten volgen, maar u kunt geen filters meer toepassen op anonieme personen. Op het moment van omzetting (wanneer de persoon in Marketo bekend wordt) worden alle activiteiten die plaatsvonden toen de persoon anoniem was, toegevoegd aan het activiteitenlogboek van de persoon en op dit moment stromen zij door de campagnes waarvoor zij in aanmerking komen.
 
 Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of een Rapport) gebruikt, wordt het niet automatisch verwijderd uit de Slimme Lijst. Zie hieronder voor meer informatie.
 
 >[!NOTE]
 >
->**Trigger**: Bezoekt de Web-pagina, de Web-pagina is Prijspagina\
->**Stroom**: Score +10 en interessant moment wijzigen
->**Web**: Weergegeven prijspagina
+>**Trekker**: Bezoekt Web-pagina, de Pagina van het Web Prijsingspagina\
+>**Stroom**: Score +10 van de verandering en Interessant Moment
+>>**Web**: Bekeken Prijspagina
 >
->Met [!DNL Munchkin] V2, als een anonieme persoon de prijspagina bezoekt, gaat zij niet onmiddellijk de campagne binnen. Op het moment dat de anonieme persoon bekend wordt, voeren we deze campagne op haar. Ze zal:
+>Met [!DNL Munchkin] V2 voert een anonieme persoon die de prijspagina bezoekt, niet onmiddellijk de campagne in. Op het moment dat de anonieme persoon bekend wordt, voeren we deze campagne op haar. Ze zal:
 >
 >* Een score van 10 halen
 >
@@ -74,20 +76,20 @@ Controleer deze en geef aan waar u &quot;Is anoniem&quot; hebt ingesteld op Waar
 
 Bekijk de volgende koppelingen:
 
-[Overzicht van anonieme leads](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
+[ Anonieme Lood verbetert Overzicht ](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Anonieme lead-upgrades - Wijzigingen in Marketo-gebruikersinterface](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[ anonieme loodverbeteringen - Veranderingen binnen Marketo UI ](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[Anonieme hoofdupgrades - actie van de klant vereist](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
+[ anonieme loodverbeteringen - de Actie van de Klant Nodig ](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[Anonieme lead-upgrades - analyserapporten](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
+[ anonieme loodverbeteringen - de Rapporten van Analytics ](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[Anonieme hoofdupgrades - Releaseschema](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
+[ Anonieme verbeteringen van de Lood - de Lijst van de Versie ](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Anonieme leads - onder de Hout](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[ anonieme loodverbeteringen - onder het Hood ](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[Anonieme lead-promotie voor bekende lead - [!DNL Munchkin] Gedrag V2](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[ Anonieme Loodbevordering aan Bekende Lood -  [!DNL Munchkin]  V2 Gedrag ](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Neem contact op met de [gemeenschap](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Ze zullen graag je vragen beantwoorden.
+Gelieve te bereiken uit op de [ gemeenschap ](https://nation.marketo.com/){target="_blank"}. U kunt [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} ook contacteren. Ze zullen graag je vragen beantwoorden.
