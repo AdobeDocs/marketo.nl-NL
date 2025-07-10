@@ -7,32 +7,31 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
+exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
+source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
 
 # Aangepaste CSS toevoegen aan uw e-mailinhoud {#email-metadata}
 
-Bij het ontwerpen van uw e-mailberichten kunt u uw eigen aangepaste CSS rechtstreeks toevoegen in de Marketo Engage Email Designer. Met deze functie kunt u geavanceerde en specifieke stijlen toepassen, voor meer flexibiliteit en controle over de weergave van uw inhoud.
+Voeg uw eigen aangepaste CSS rechtstreeks toe in de Marketo Engage Email Designer voor geavanceerde en specifieke opmaak.
 
 ## Aangepaste CSS definiëren {#define-custom-css}
 
-Volg onderstaande stappen om aangepaste CSS toe te voegen aan uw e-mailinhoud.
+1. Zorg ervoor dat er inhoud is gedefinieerd in de e-mailtoepassing van Designer door ten minste één component toe te voegen.
 
-1. Zorg ervoor dat er inhoud is gedefinieerd in de e-mailtoepassing van Designer door ten minste één component toe te voegen. KOPPELEN - DIT BEHOUDEN?
-
-1. Selecteer **[!UICONTROL Body]** in het vak **[!UICONTROL Navigation tree]** links of boven in het rechtervenster. De sectie **[!UICONTROL CSS styles]** wordt rechts weergegeven.
+1. Selecteer **[!UICONTROL Body]** in het deelvenster **[!UICONTROL Navigation tree]** aan de linkerkant of in het rechterdeelvenster. **[!UICONTROL CSS styles]** wordt rechts weergegeven.
 
    SCREENSHOT
 
    >[!NOTE]
    >
-   >De sectie **[!UICONTROL CSS styles]** is alleen beschikbaar als er al inhoud in de editor aanwezig is.
+   >De sectie **[!UICONTROL CSS styles]** is alleen beschikbaar wanneer inhoud aanwezig is in de editor.
 
-1. Klik op **[!UICONTROL Add Custom CSS]** .
+1. Klik op **[!UICONTROL + Add custom CSS]** .
 
    >[!NOTE]
    >
@@ -44,27 +43,27 @@ Volg onderstaande stappen om aangepaste CSS toe te voegen aan uw e-mailinhoud.
 
    >[!NOTE]
    >
-   >Wanneer het gebruiken van a [ malplaatje met gesloten inhoud ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md), kunt u geen douane CSS aan uw inhoud toevoegen. Het knoplabel verandert in **[!UICONTROL View custom CSS]** en eventuele aangepaste CSS die al in de inhoud aanwezig is, is alleen-lezen.
+   >U kunt geen douane CSS aan uw inhoud toevoegen wanneer het gebruiken van a [ malplaatje met gesloten inhoud ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). Het knoplabel verandert in **[!UICONTROL View custom CSS]** en elke weergegeven aangepaste CSS is alleen-lezen.
 
-1. Sla uw aangepaste CSS op en controleer of uw aangepaste CSS correct is toegepast op uw inhoud. Als dit niet het geval is, controleer de [ sectie van het Oplossen van problemen ](#troubleshooting).
+1. Sla uw aangepaste CSS op en controleer of deze van toepassing is op uw inhoud. Als het niet, controleer de [ sectie van het Oplossen van problemen ](#troubleshooting).
 
    SCREENSHOT
 
-1. Als u alle inhoud verwijdert, verdwijnt de sectie en wordt de eerder gedefinieerde aangepaste CSS niet meer toegepast.
+   >[!NOTE]
+   >
+   >Als u alle inhoud verwijdert, verdwijnt de sectie en wordt de eerder gedefinieerde aangepaste CSS niet meer toegepast. Voeg inhoud weer toe om de sectie **[!UICONTROL CSS styles]** opnieuw weer te geven. De aangepaste CSS wordt opnieuw toegepast.
 
-1. Voeg inhoud weer toe aan de editor om de sectie **[!UICONTROL CSS styles]** opnieuw weer te geven. De aangepaste CSS wordt opnieuw toegepast.
-
-## Gebruik van geldige CSS {#use-valid-css}
+## Geldige CSS gebruiken {#using-valid-css}
 
 U kunt elke geldige CSS-tekenreeks invoeren in het tekstgebied **[!UICONTROL Add custom CSS]** . CSS met de juiste opmaak wordt direct toegepast op de inhoud.
 
 >[!CAUTION]
 >
->Gebruikers zijn verantwoordelijk voor de beveiliging van hun aangepaste CSS. Zorg ervoor dat uw CSS geen kwetsbaarheden of conflicten met de bestaande inhoud introduceert.
+>U bent verantwoordelijk voor de beveiliging van uw aangepaste CSS. Zorg ervoor dat uw CSS geen kwetsbaarheden of conflicten met de bestaande inhoud introduceert.
 >
->Vermijd het gebruik van CSS die de lay-out of functionaliteit van de inhoud onbedoeld kan onderbreken.
+>Gebruik geen CSS die de lay-out of functionaliteit van de inhoud onbedoeld kan onderbreken.
 
-+++ Voorbeelden van CSS
++++ Voorbeelden van geldige CSS
 
 Hieronder staan voorbeelden van geldige CSS.
 
@@ -138,7 +137,7 @@ Hieronder staan voorbeelden van geldige CSS.
 
 +++ Voorbeelden van ongeldige CSS
 
-Als er ongeldige CSS wordt ingevoerd, wordt een foutbericht weergegeven dat aangeeft dat de CSS niet kan worden opgeslagen. Hieronder staan voorbeelden van ongeldige CSS.
+Als ongeldige CSS wordt ingevoerd, wordt een foutbericht weergegeven dat aangeeft dat de CSS niet kan worden opgeslagen. Hieronder staan voorbeelden van ongeldige CSS.
 
 Het gebruik van `<style>` -tags wordt niet geaccepteerd:
 
@@ -207,17 +206,17 @@ Uw aangepaste CSS wordt aan het einde van de sectie `<head>` toegevoegd als onde
 
 De aangepaste CSS wordt niet geïnterpreteerd of gevalideerd door het deelvenster Designer e-mailen **[!UICONTROL Settings]** . Deze is volledig onafhankelijk en kan alleen worden gewijzigd via de optie **[!UICONTROL Add Custom CSS]** .
 
-### Guardrails - Geïmporteerde inhoud
+### Guardrails - Geïmporteerde inhoud {#guardrails}
 
 Houd rekening met het volgende als u aangepaste CSS wilt gebruiken met inhoud die is geïmporteerd in de e-mailtoepassing Designer:
 
-* Als [ het invoeren van externe HTML ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) inhoud met inbegrip van CSS, tenzij het omzetten van die inhoud, zal het in **[!UICONTROL Compatibility mode]** zijn, waar de **[!UICONTROL CSS styles]** sectie niet beschikbaar is.
+* Als [ het invoeren van externe HTML ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) inhoud met inbegrip van CSS, tenzij u die inhoud omzet, zal het in **[!UICONTROL Compatibility mode]** zijn, waar de **[!UICONTROL CSS styles]** sectie niet beschikbaar is.
 
-* Als u inhoud importeert die is gemaakt met de e-mailtoepassing, inclusief CSS die is toegepast via de optie **[!UICONTROL Add custom CSS]** , worden de eerder toegepaste CSS zichtbaar en bewerkbaar met dezelfde optie.
+* Als bij het importeren van inhoud die is gemaakt met de E-mail-Designer CSS is opgenomen die is toegepast via de optie **[!UICONTROL Add custom CSS]** , is de eerder toegepaste CSS zichtbaar en bewerkbaar met dezelfde optie.
 
 ## Problemen oplossen {#troubleshooting}
 
-Houd rekening met de onderstaande opties als uw aangepaste CSS niet wordt toegepast.
+Als uw aangepaste CSS niet wordt toegepast, probeert u de onderstaande suggesties.
 
 * Zorg ervoor dat uw CSS geldig is en geen syntaxisfouten bevat (zoals ontbrekende accolades, onjuiste eigenschapsnamen). [ leer hoe ](#use-valid-css)
 
@@ -248,3 +247,7 @@ Houd rekening met de onderstaande opties als uw aangepaste CSS niet wordt toegep
      ```
 
 +++
+
+>[!NOTE]
+>
+>Marketo Engage Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste CSS. Raadpleeg een webontwikkelaar voor hulp bij CSS.
