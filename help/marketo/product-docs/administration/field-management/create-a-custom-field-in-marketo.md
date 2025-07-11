@@ -4,10 +4,10 @@ description: Een aangepast veld maken in Marketo - Marketo Docs - Productdocumen
 title: Een aangepast veld maken in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Als u een nieuw aangepast veld in Marketo Engage nodig hebt om gegevens op te slaan/vast te leggen, gaat u als volgt te werk:
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
@@ -31,21 +31,29 @@ Als u een nieuw aangepast veld in Marketo Engage nodig hebt om gegevens op te sl
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. Kies het veldtype. Hiermee wijzigt u de weergave in slimme lijsten en formulieren in Marketo.
-
-   >[!TIP]
-   >
-   >Kijk uit de [Woordenlijst Aangepaste veldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+1. Kies de _[!UICONTROL Object]_.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Voer de [!UICONTROL Name] zoals u het in Marketo wilt verschijnen. De [!UICONTROL API Name] wordt automatisch gegenereerd. U kunt deze aanpassen, maar u kunt de naam ervan niet wijzigen als u de set eenmaal hebt ingesteld. Klikken **[!UICONTROL Create]** wanneer gereed.
+   >[!NOTE]
+   >
+   >Terwijl u niet het _voorwerp van het Bedrijf_ kunt selecteren zelf, kunt u het verzoeken door [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
+
+1. Kies het veld _[!UICONTROL Type]_. Hiermee wijzigt u de weergave in slimme lijsten en formulieren in Marketo.
+
+   >[!TIP]
+   >
+   >Controle uit de [ Verklarende woordenlijst van de Types van Gebied van de Douane ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+
+   ![](assets/create-a-custom-field-in-marketo-5.png)
+
+1. Voer de _[!UICONTROL Name]_in zoals u deze wilt weergeven in Marketo (de_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
 
 >[!CAUTION]
 >
 >Veldnamen mogen niet met de volgende tekens beginnen: **. &amp; +[]**
 
-![](assets/create-a-custom-field-in-marketo-5.png)
+![](assets/create-a-custom-field-in-marketo-6.png)
 
 >[!NOTE]
 >
