@@ -1,23 +1,23 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITEL
+title: Aangepaste CSS toevoegen aan uw e-mailinhoud
 description: Leer hoe u aangepaste CSS rechtstreeks in de e-mailDesigner in Marketo Engage toevoegt aan uw e-mailinhoud.
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '587'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Aangepaste CSS toevoegen aan uw e-mailinhoud {#email-metadata}
+# Aangepaste CSS toevoegen aan uw e-mailinhoud {#custom-css}
 
-Voeg uw eigen aangepaste CSS rechtstreeks toe in de Marketo Engage Email Designer voor geavanceerde en specifieke opmaak.
+Voeg uw eigen aangepaste CSS rechtstreeks toe in de Marketo Engage Email Designer voor geavanceerde, specifieke opmaak.
 
 ## Aangepaste CSS definiëren {#define-custom-css}
 
@@ -25,7 +25,7 @@ Voeg uw eigen aangepaste CSS rechtstreeks toe in de Marketo Engage Email Designe
 
 1. Selecteer **[!UICONTROL Body]** in het deelvenster **[!UICONTROL Navigation tree]** aan de linkerkant of in het rechterdeelvenster. **[!UICONTROL CSS styles]** wordt rechts weergegeven.
 
-   SCREENSHOT
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ Voeg uw eigen aangepaste CSS rechtstreeks toe in de Marketo Engage Email Designe
    >
    >De knop **[!UICONTROL Add custom CSS]** is alleen beschikbaar wanneer **[!UICONTROL Body]** is geselecteerd. U kunt echter aangepaste CSS-stijlen toepassen op alle componenten in uw inhoud.
 
-1. Voer uw CSS-code in in het speciale tekstgebied dat wordt weergegeven. Zorg ervoor dat de aangepaste CSS geldig is en de juiste syntaxis volgt. [Meer informatie](#use-valid-css)
+1. Voer uw CSS-code in in het speciale tekstgebied dat wordt weergegeven. Zorg ervoor de douane CSS [ geldig is en volgt de juiste syntaxis ](#use-valid-css). Klik **sparen** wanneer gedaan.
 
-   SCREENSHOT
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >U kunt geen douane CSS aan uw inhoud toevoegen wanneer het gebruiken van a [ malplaatje met gesloten inhoud ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). Het knoplabel verandert in **[!UICONTROL View custom CSS]** en elke weergegeven aangepaste CSS is alleen-lezen.
 
-1. Sla uw aangepaste CSS op en controleer of deze van toepassing is op uw inhoud. Als het niet, controleer de [ sectie van het Oplossen van problemen ](#troubleshooting).
+1. Zorg ervoor dat de CSS van toepassing is op uw inhoud. Als het niet, controleer de [ sectie van het Oplossen van problemen ](#troubleshooting).
 
-   SCREENSHOT
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
