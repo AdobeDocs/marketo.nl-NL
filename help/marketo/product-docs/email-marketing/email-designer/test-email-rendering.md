@@ -6,9 +6,9 @@ description: Marketo Engage-gebruikers kunnen hun Litmus-account integreren, zod
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
+source-git-commit: e5bb92d007db05fc6d0ee1319cb989ad60063e48
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar voor alle Marketo Engage-gebruikers die een actieve Litmus-account hebben.
+>Deze eigenschap is beschikbaar aan alle gebruikers van Marketo Engage die een actieve [ rekening van de Onderneming van 0} Litmus {hebben.](https://www.litmus.com/enterprise){target="_blank"}
 
 ## Hoe wordt het gebruikt {#how-to-use}
 
@@ -59,6 +59,6 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **&#x200B;**&#x200B;knoop op het hoger-recht van het 6&rbrace; E-mailPreviews _scherm van de Previews &lbrace;te klikken._
+**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **** knoop op het hoger-recht van het 6} E-mailPreviews _scherm van de Previews {te klikken._
 
 ![](assets/test-email-rendering-with-litmus-7.png)
