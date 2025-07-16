@@ -19,7 +19,7 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
 >[!AVAILABILITY]
 >
->Deze eigenschap is beschikbaar aan alle gebruikers van Marketo Engage die een actieve [ rekening van de Onderneming van 0} Litmus {hebben.](https://www.litmus.com/enterprise){target="_blank"}
+>Deze eigenschap is beschikbaar aan alle gebruikers van Marketo Engage die een actieve [ rekening van de Onderneming van 0&rbrace; Litmus &lbrace;hebben.](https://www.litmus.com/enterprise){target="_blank"}
 
 ## Hoe wordt het gebruikt {#how-to-use}
 
@@ -59,6 +59,6 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **** knoop op het hoger-recht van het 6} E-mailPreviews _scherm van de Previews {te klikken._
+**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **&#x200B;**&#x200B;knoop op het hoger-recht van het 6&rbrace; E-mailPreviews _scherm van de Previews &lbrace;te klikken._
 
 ![](assets/test-email-rendering-with-litmus-7.png)
