@@ -61,7 +61,7 @@ ht-degree: 3%
   </tr> 
   <tr> 
    <td><strong><span class="uicontrol">SIC-code</span></strong></td> 
-   <td><span><strong> Standaard van 0} S </strong> I <strong> industriële </strong> C <strong> classificatie - viercijfercode voor het classificeren van industrieën</strong><br></span></td> 
+   <td><span><strong> Standaard van 0&rbrace; S </strong> I <strong> industriële </strong> C <strong> classificatie - viercijfercode voor het classificeren van industrieën</strong><br></span></td> 
   </tr> 
   <tr> 
    <td><strong><span class="uicontrol">Ontvangsten</span></strong></td> 

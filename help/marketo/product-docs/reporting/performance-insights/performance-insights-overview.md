@@ -27,7 +27,7 @@ Als u [!UICONTROL Performance Insights] wilt openen, klikt u op het bijbehorende
 
 ## Bijdrage {#contribution}
 
-Evalueer de 0} bijdrage van de Marketing aan opbrengst [ als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
+Evalueer de 0&rbrace; bijdrage van de Marketing aan opbrengst [ als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
 
 ![](assets/two.png)
 

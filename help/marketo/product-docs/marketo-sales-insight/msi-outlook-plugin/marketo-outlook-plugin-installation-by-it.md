@@ -57,4 +57,4 @@ Gelieve te verwijzen naar [ volledige lijst van Microsoft van schakelaars ](http
 
 >[!MORELIKETHIS]
 >
->[ De Insteekmodule van Marketo  [!DNL Outlook]  {door IT ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md) verwijderen
+>[ De Insteekmodule van Marketo  [!DNL Outlook]  &lbrace;door IT ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md) verwijderen

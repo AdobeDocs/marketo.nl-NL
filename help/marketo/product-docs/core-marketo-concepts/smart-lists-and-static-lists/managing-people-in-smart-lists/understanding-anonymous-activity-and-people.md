@@ -32,7 +32,7 @@ De eerste keer bezoekt iemand een Marketo landende pagina (of een pagina op uw w
 Een anonieme activiteit wordt samengevoegd in een nieuwe of bestaande persoon wanneer iemand:
 
 * Klik a [ verbinding in een e-mail van Marketo ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
-* Vult een Vorm van Marketo [ ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} uit.
+* Vult een Vorm van Marketo [&#128279;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} uit.
 * Gebruikt Marketo [ SOAP ](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} of [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API (voor ontwikkelaars) om een anonieme persoon met een bekend verslag te associëren.
 
 Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.

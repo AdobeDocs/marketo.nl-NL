@@ -37,7 +37,7 @@ U kunt uw persoonrapporten door om het even welke persoon of bedrijfattributen g
 
    >[!TIP]
    >
-   >Als u een kenmerk met een numerieke waarde kiest, zoals _[!UICONTROL Created At]_of_[!UICONTROL Annual Revenue]_ , selecteert u de metriek in de vervolgkeuzelijst **[!UICONTROL Units]** aan de rechterkant.
+   >Als u een kenmerk met een numerieke waarde kiest, zoals _[!UICONTROL Created At]_&#x200B;of&#x200B;_[!UICONTROL Annual Revenue]_ , selecteert u de metriek in de vervolgkeuzelijst **[!UICONTROL Units]** aan de rechterkant.
 
    Dat is het! Klik op de tab **[!UICONTROL Report]** om het rapport dienovereenkomstig te groeperen.
 

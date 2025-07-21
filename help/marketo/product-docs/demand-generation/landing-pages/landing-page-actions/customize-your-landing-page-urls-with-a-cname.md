@@ -65,7 +65,7 @@ Vraag uw personeel van IT om volgende CNAME in te stellen: (Vervang het woord [ 
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Onder de **sectie van Montages**, geeft de klik **** uit.
+1. Onder de **sectie van Montages**, geeft de klik **&#x200B;**&#x200B;uit.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 

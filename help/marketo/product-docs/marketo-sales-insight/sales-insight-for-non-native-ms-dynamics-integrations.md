@@ -107,12 +107,12 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      <tr> 
       <td>externalSalesPersonId</td> 
         <td>MS <span class="dnl"> Dynamiek </span> van de Verkoop - niet-gevoelig globaal uniek herkenningsteken</td> 
-        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van MS <span class="dnl"> Dynamica {die dit Lood/Contact bezit.</span><br><br> verwant ook de Lood met de Persoon van de Verkoop in Marketo. De verkoper moet eerst correct worden gesynchroniseerd.</td> 
+        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van MS <span class="dnl"> Dynamica &lbrace;die dit Lood/Contact bezit.</span><br><br> verwant ook de Lood met de Persoon van de Verkoop in Marketo. De verkoper moet eerst correct worden gesynchroniseerd.</td> 
      </tr> 
      <tr> 
       <td>externalCompanyId</td> 
         <td>MS <span class="dnl"> Dynamica </span> de geval-ongevoelige globaal unieke herkenningsteken van de Rekening</td> 
-        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> dat Lood/Contact tot behoort.<br><br> verwant ook het loodverslag aan een Bedrijf in Marketo. Het wordt mandated dat de 2} rekening van de Dynamica van MS <span class="dnl"> {correct eerst wordt gesynchroniseerd.</span></td> 
+        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> dat Lood/Contact tot behoort.<br><br> verwant ook het loodverslag aan een Bedrijf in Marketo. Het wordt mandated dat de 2&rbrace; rekening van de Dynamica van MS <span class="dnl"> &lbrace;correct eerst wordt gesynchroniseerd.</span></td> 
      </tr> 
     </tbody> 
    </table>
@@ -144,12 +144,12 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      <tr> 
       <td>externalCompanyId</td> 
         <td>MS <span class="dnl"> Dynamica </span> de geval-ongevoelige globaal unieke herkenningsteken van de Rekening</td> 
-        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> waar deze Kans tot behoort. <br><br> het wordt mandated dat de 2} Rekening van de Dynamica van MS <span class="dnl"> correct eerst wordt gesynchroniseerd.</span></td> 
+        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> waar deze Kans tot behoort. <br><br> het wordt mandated dat de 2&rbrace; Rekening van de Dynamica van MS <span class="dnl"> correct eerst wordt gesynchroniseerd.</span></td> 
      </tr> 
      <tr> 
       <td>externalSalesPersonId</td> 
         <td>MS <span class="dnl"> Dynamiek </span> van de Verkoop - niet-gevoelig globaal uniek herkenningsteken</td> 
-        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van de Dynamiek van MS <span class="dnl"> {die deze Kans bezit.</span> </td> 
+        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van de Dynamiek van MS <span class="dnl"> &lbrace;die deze Kans bezit.</span> </td> 
      </tr> 
     </tbody> 
    </table>
@@ -176,16 +176,16 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      <tr> 
       <td>externalOpportunityId</td> 
         <td>MS <span class="dnl"> Dynamiek </span> Kans van de Kans - ongevoelig globaal uniek herkenningsteken</td> 
-      <td>Identificeert de Rol van de Kans van Marketo aan een extern voorwerp van de Kans van de Dynamiek van MS <span class="dnl"> </span>.<br><br> het wordt mandated dat de 2} Kans van de Dynamiek van MS <span class="dnl"> {correct eerst wordt gesynchroniseerd.</span></td> 
+      <td>Identificeert de Rol van de Kans van Marketo aan een extern voorwerp van de Kans van de Dynamiek van MS <span class="dnl"> </span>.<br><br> het wordt mandated dat de 2&rbrace; Kans van de Dynamiek van MS <span class="dnl"> &lbrace;correct eerst wordt gesynchroniseerd.</span></td> 
      </tr> 
      <tr> 
       <td>leadId</td> 
       <td>N.v.t., dit zou een Marketo Lead ID zijn</td> 
-        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde Contact van de Dynamica van MS <span class="dnl"> </span> zijn.<br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u de 2} het geval-ongevoelige globaal unieke herkenningsteken van het Contact van de Dynamica van MS <span class="dnl"> gebruiken {als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</span></td> 
+        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde Contact van de Dynamica van MS <span class="dnl"> </span> zijn.<br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u de 2&rbrace; het geval-ongevoelige globaal unieke herkenningsteken van het Contact van de Dynamica van MS <span class="dnl"> gebruiken &lbrace;als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</span></td> 
      </tr> 
      <tr> 
       <td>rol</td> 
-        <td>Het gebied van de Rol voor het 10} Contact van de Dynamica van MS {<span class="dnl"></span></td> 
+        <td>Het gebied van de Rol voor het 10&rbrace; Contact van de Dynamica van MS &lbrace;<span class="dnl"></span></td> 
       <td>Beschrijft de rol van het contact voor deze kans.</td> 
      </tr> 
     </tbody> 

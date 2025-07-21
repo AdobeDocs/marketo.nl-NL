@@ -79,7 +79,7 @@ U plant uw gebeurtenis en kiest uw aangewezen montages in [ Webex ](https://www.
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar** zijn.
 
-1. In de **drop-down Van de Partner van de Gebeurtenis 0}, uitgezochte** Webex Webinars **.**
+1. In de **drop-down Van de Partner van de Gebeurtenis 0&rbrace;, uitgezochte** Webex Webinars **.**
 
    ![](assets/create-an-event-with-webex-6.png)
 

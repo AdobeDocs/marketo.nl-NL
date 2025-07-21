@@ -120,7 +120,7 @@ Met de Data Unification field sync for Sales Insight Actions kan het systeem per
 
 >[!CAUTION]
 >
->Zodra u gegevenssynchronisatie in werking stelt, zou u **** niet de originele gebruiker op uw instantie van de Acties van Insight van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
+>Zodra u gegevenssynchronisatie in werking stelt, zou u **&#x200B;**&#x200B;niet de originele gebruiker op uw instantie van de Acties van Insight van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
 
 1. Klik in Marketo op **[!UICONTROL Admin]** .
 

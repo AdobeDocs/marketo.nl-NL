@@ -22,7 +22,7 @@ Als u Automatisch aanmelden wilt gebruiken:
 
 * De gebruiker moet de account hebben geactiveerd door zijn [!DNL Salesforce] -account aan te sluiten op zijn [!DNL Sales Insight Actions] -exemplaar
 
-* De gebruikersnaam [!DNL Sales Insight Actions] van de gebruiker moet overeenkomen met de [!DNL Salesforce] gebruikersnaam (of de gebruikersnaam en het e-mailadres van de gebruiker komen overeen)[!DNL Salesforce]
+* De gebruikersnaam [!DNL Sales Insight Actions] van de gebruiker moet overeenkomen met de [!DNL Salesforce] gebruikersnaam (of de gebruikersnaam en het e-mailadres van de gebruiker komen overeen) [!DNL Salesforce]
 
 >[!MORELIKETHIS]
 >

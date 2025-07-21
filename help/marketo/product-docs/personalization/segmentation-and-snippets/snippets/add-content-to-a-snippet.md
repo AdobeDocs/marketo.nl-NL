@@ -21,7 +21,7 @@ U kunt tokens, afbeeldingen, bestanden of tekst met opmaak toevoegen aan een fra
 
 >[!NOTE]
 >
->U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het zal **** niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
+>U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het zal **&#x200B;**&#x200B;niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
 1. Ga naar de **[!UICONTROL Design Studio]** .
 

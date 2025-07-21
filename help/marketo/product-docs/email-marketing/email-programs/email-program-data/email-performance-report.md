@@ -77,9 +77,9 @@ Over het algemeen proberen we het gezond verstand te gebruiken om deze statistie
 
 * **Regel 2**: Als het e-mailverslag *[!UICONTROL Opened]* toont, wordt het geteld als *Geleverd*.
 
-* **Regel 3**: Als het e-mailverslag _[!UICONTROL Clicked Email]_of_[!UICONTROL Unsubscribed]_ toont, wordt het geteld als _Geleverd_ en _Geopend_.
+* **Regel 3**: Als het e-mailverslag _[!UICONTROL Clicked Email]_&#x200B;of&#x200B;_[!UICONTROL Unsubscribed]_ toont, wordt het geteld als _Geleverd_ en _Geopend_.
 
-* **Regel 4**: Als e-mail _[!UICONTROL Opened]_is, worden de grenzen genegeerd. Als e-mail niet is geopend,_ Vaste Omgeslagen _neemt belangrijkheid over_ Zacht die _en_ wordt teruggestuurd _.
+* **Regel 4**: Als e-mail _[!UICONTROL Opened]_&#x200B;is, worden de grenzen genegeerd. Als e-mail niet is geopend,_ Vaste Omgeslagen _neemt belangrijkheid over_ Zacht die _en_ wordt teruggestuurd _.
 
 * **Regel 5**: Als geen e-mailactiviteit drie dagen nadat het werd verzonden wordt ontvangen, wordt het _Geaborteerd_ verondersteld.
 

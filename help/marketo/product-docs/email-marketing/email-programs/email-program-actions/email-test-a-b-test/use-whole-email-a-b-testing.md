@@ -45,11 +45,11 @@ U kunt uw e-mailberichten eenvoudig testen. Één grote test is de **Gehele e-ma
 
 1. Selecteer uw tweede e-mail.
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Klik op **[!UICONTROL Add]** om het tweede e-mailbericht toe te passen. Sleep de schuifregelaar om te kiezen welk percentage van het publiek u de A/B-test wilt ontvangen en klik op **[!UICONTROL Next]** .
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

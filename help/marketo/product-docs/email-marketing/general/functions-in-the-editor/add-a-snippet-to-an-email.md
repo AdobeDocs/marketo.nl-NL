@@ -21,7 +21,7 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
 >[!NOTE]
 >
->U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het **** zal niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
+>U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het **&#x200B;**&#x200B;zal niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
 1. Zoek de e-mail, selecteer deze en klik op **[!UICONTROL Edit Draft]** .
 

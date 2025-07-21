@@ -135,7 +135,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. In de **2} sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
+1. In de **2&rbrace; sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
 
 <table> 
  <thead> 

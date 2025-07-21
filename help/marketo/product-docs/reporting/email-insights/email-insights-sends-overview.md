@@ -29,7 +29,7 @@ Rechts op de pagina vind je verschillende informatie over je verzonden e-mails.
 **[!UICONTROL Recipient]** -nummer is het aantal personen dat de e-mail heeft ontvangen.
 In **[!UICONTROL Delivery Metrics]** kunt u snel zien hoeveel e-mails zijn bezorgd, in behandeling zijn of zijn teruggestuurd.\
 In **[!UICONTROL Engagement Metrics]** kunt u snel zien hoeveel ontvangers een e-mail hebben geopend, erop hebben geklikt en het abonnement hebben opgezegd.
-**[!UICONTROL Score]** is de Score van de Betrokkenheid van uw e-mail [ ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**[!UICONTROL Score]** is de Score van de Betrokkenheid van uw e-mail [&#128279;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 Uw e-mails worden standaard gesorteerd op de meest recente, maar u kunt ze sorteren op elke beschikbare metrische waarde.
 

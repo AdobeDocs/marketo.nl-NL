@@ -39,7 +39,7 @@ ht-degree: 2%
    >
    >U zou reeds [ geïnstalleerd en gevormd moeten hebben ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de oplossing van Marketo alvorens zich vooruit te bewegen.
 
-1. Klik op **[!UICONTROL Browse]**. Selecteer de [!DNL Marketo Sales Insight] oplossing u [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Browse]**. Selecteer de [!DNL Marketo Sales Insight] oplossing u [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 

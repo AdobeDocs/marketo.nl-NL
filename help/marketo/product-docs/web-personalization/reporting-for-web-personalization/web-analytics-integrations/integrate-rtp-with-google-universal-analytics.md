@@ -43,6 +43,7 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
    1. Selecteer de **[!UICONTROL Account].**
    1. Selecteer de **[!UICONTROL Property].**
    1. Selecteer **[!UICONTROL Custom Definitions]** en **[!UICONTROL Custom Dimensions]** .
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Voeg een nieuwe aangepaste dimensie toe. Klikken **[!UICONTROL +New Custom Dimension]**

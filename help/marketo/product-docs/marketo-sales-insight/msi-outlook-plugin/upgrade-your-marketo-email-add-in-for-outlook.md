@@ -38,7 +38,7 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft [
    <th colspan="2">Installatie van Enterprise Key</th> 
   </tr> 
   <tr> 
-   <td><strong><span class="dnl"> Versie van 0} Vooruitzichten {</span></strong></td> 
+   <td><strong><span class="dnl"> Versie van 0&rbrace; Vooruitzichten &lbrace;</span></strong></td> 
    <td><strong>32-bits</strong></td> 
    <td><strong>64-bits</strong></td> 
    <td><strong>32-bits</strong></td> 

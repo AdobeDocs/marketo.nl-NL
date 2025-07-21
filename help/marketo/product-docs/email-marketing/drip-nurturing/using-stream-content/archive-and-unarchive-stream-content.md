@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Stroominhoud archiveren en archiveren {#archive-and-unarchive-stream-content}
 
-Als u niet meer een stuk van inhoud in een stroom wilt gebruiken kunt u of [ ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) het verwijderen of het archiveren. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
+Als u niet meer een stuk van inhoud in een stroom wilt gebruiken kunt u of [&#128279;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) het verwijderen of het archiveren. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
 
 >[!TIP]
 >

@@ -43,7 +43,7 @@ Volg onderstaande installatie-instructies om uw [!UICONTROL RTP tag] te implemen
 
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 
-1. Tot slot zult u **** om het even welke het landen pagina&#39;s opnieuw moeten goedkeuren gebruikend dat malplaatje voor de malplaatjeveranderingen om van kracht te worden. U kunt ze allemaal tegelijk opnieuw goedkeuren vanuit de hoofdsectie van [!UICONTROL Landing Pages] .
+1. Tot slot zult u **&#x200B;**&#x200B;om het even welke het landen pagina&#39;s opnieuw moeten goedkeuren gebruikend dat malplaatje voor de malplaatjeveranderingen om van kracht te worden. U kunt ze allemaal tegelijk opnieuw goedkeuren vanuit de hoofdsectie van [!UICONTROL Landing Pages] .
 
    ![](assets/image2015-4-26-18-3a28-3a49.png)
 

@@ -46,6 +46,6 @@ Er zijn veel redenen om deze gegevens te gebruiken, zoals
 * Een persoonlijke e-mail verzenden met een handtekening van de eigenaar van de verkoop
 * Filter op specifieke verkoopvertegenwoordigers voor marketing of zelfs om doeltreffendheid te analyseren
 * Regels voor toewijzing (en hertoewijzing) in Marketo
-* Gebruik hen in de [ Eigenaar van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, en [ creeer de 5} stroomacties van de Taak {](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
+* Gebruik hen in de [ Eigenaar van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, en [ creeer de 5&rbrace; stroomacties van de Taak &lbrace;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
 Marketo beschikt zeker over een indrukwekkende [!DNL Salesforce] sync. Niemand anders doet het zo goed!
