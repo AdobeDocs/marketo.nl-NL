@@ -1,29 +1,29 @@
 ---
 unique-page-id: 4719310
-description: De Salesforce Sync - Marketo Docs - Productdocumentatie inschakelen/uitschakelen
-title: De Salesforce-synchronisatie inschakelen/uitschakelen
+description: Salesforce Sync - Marketo Docs - Productdocumentatie in-/uitschakelen
+title: Salesforce Sync in-/uitschakelen
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# De Salesforce-synchronisatie inschakelen/uitschakelen {#enable-disable-the-salesforce-sync}
+# De synchronisatie van [!DNL Salesforce] in- en uitschakelen {#enable-disable-the-salesforce-sync}
 
 Wanneer u belangrijke wijzigingen aanbrengt in uw sync- of veldinstellingen, moet u de synchronisatie uitschakelen tijdens het configureren. Hieronder wordt beschreven hoe:
 
-1. Ga naar de **[!UICONTROL Admin]** sectie.
+1. Ga naar de sectie **[!UICONTROL Admin]** .
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 
-1. Onder **[!UICONTROL Salesforce]**, klikt u op **[!UICONTROL Disable Sync]**.
+1. Klik onder **[!UICONTROL Salesforce]** op **[!UICONTROL Disable Sync]** .
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
-1. Synchronisatie in twee richtingen wordt nu uitgeschakeld en inactief totdat u het weer inschakelt. Handelingen voor Salesforce-stroming blijven werken.
+1. Synchronisatie in twee richtingen wordt nu uitgeschakeld en inactief totdat u het weer inschakelt. [!DNL Salesforce] -flowhandelingen blijven werken.
 
    ![](assets/image2014-12-10-13-3a24-3a58.png)
 

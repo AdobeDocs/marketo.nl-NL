@@ -4,9 +4,9 @@ description: Een aangepaste activiteit maken - Marketo Docs - Productdocumentati
 title: Een aangepaste activiteit maken
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---
@@ -17,9 +17,9 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
 
 >[!NOTE]
 >
->De meeste abonnementen hebben een toegewezen grens van 10 types van Activiteit van de Douane.
+>De meeste abonnementen hebben een toegewezen limiet van 10 soorten aangepaste activiteiten.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-a-custom-activity-1.png)
 
@@ -31,22 +31,22 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. Voer een naam en optioneel [!UICONTROL Description]en klik vervolgens op **[!UICONTROL Next]**. De API-naam wordt automatisch ingevuld, maar kan worden aangepast.
+1. Voer een naam en optioneel [!UICONTROL Description] in en klik op **[!UICONTROL Next]** . De API-naam wordt automatisch ingevuld, maar kan worden aangepast.
 
    ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
-   >Als u besluit de API-naam te wijzigen, moet u ervoor zorgen dat de naam geen conflict veroorzaakt met velden in andere aangepaste activiteiten.
+   >Als u besluit om [!UICONTROL API Name] te wijzigen, moet u ervoor zorgen dat de naam geen conflict veroorzaakt met velden in andere aangepaste activiteiten.
 
-1. Definieer uw [!UICONTROL Filter] en [!UICONTROL Trigger] en klik op **[!UICONTROL Next]**.
+1. Definieer de [!UICONTROL Filter] en [!UICONTROL Trigger] en klik op **[!UICONTROL Next]** .
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. Geef uw primaire veld een naam die een overzicht geeft van de aangepaste activiteit.
+1. Geef uw primaire veld een **[!UICONTROL Name]** waarin wordt samengevat waarvoor de aangepaste activiteit is bedoeld.
 
    ![](assets/create-a-custom-activity-6.png)
 
 >[!MORELIKETHIS]
 >
->[Aangepaste activiteiten begrijpen](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
+>[ Begrijpend de Activiteiten van de Douane ](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)

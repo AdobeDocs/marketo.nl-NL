@@ -1,15 +1,15 @@
 ---
-description: Waarom worden geen van mijn Contacten die aan de Acties van het Inzicht van de Verkoop worden geduwd? - Marketo Docs - Productdocumentatie
-title: Waarom worden geen van mijn Contacten die aan de Acties van het Inzicht van de Verkoop worden geduwd?
+description: Waarom worden mijn contacten niet geduwd op verkoop-Insight-acties? - Marketo Docs - Productdocumentatie
+title: Waarom worden mijn contacten niet geduwd op verkoop-Insight-acties?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Waarom worden geen van mijn Contacten die aan de Acties van het Inzicht van de Verkoop worden geduwd? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions}
+# Waarom worden mijn contacten niet geduwd naar [!DNL Sales Insight Actions]? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions}
 
-Als geen contacten werden geduwd over, is het mogelijk u een ongeldige verbinding Salesforce hebt. Ga naar uw [Salesforce-instellingen](https://toutapp.com/login) en verbreekt u de verbinding. Geef het ongeveer 20 minuten om volledig opnieuw in te stellen. Als het daarna nog steeds nul is, gelieve [een zaak indienen](https://nation.marketo.com/t5/Support/ct-p/Support#) naar Marketo Support.
+Als er geen contacten zijn gelegd, is het mogelijk dat u een ongeldige [!DNL Salesforce] verbinding hebt. Ga naar uw [[!DNL Salesforce]  montages ](https://toutapp.com/login) en los dan opnieuw aan. Geef het ongeveer 20 minuten om volledig opnieuw in te stellen. Als het nog nul na dat is, gelieve [ een geval ](https://nation.marketo.com/t5/Support/ct-p/Support#) aan de Steun van Marketo voor te leggen.

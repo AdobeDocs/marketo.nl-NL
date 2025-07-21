@@ -4,40 +4,40 @@ description: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken v
 title: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
-# Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Een bestaande landingspaginasjabloon in vrije vorm maken [!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Dit kan op twee plaatsen worden gedaan, de Redacteur van het Malplaatje en de het Landen Redacteur van de Pagina.
 
 ## Upgrade uitvoeren vanuit de Sjablooneditor {#upgrade-from-the-template-editor}
 
-1. Ga naar de **Studio van het Ontwerp**.
+1. Ga naar de **[!UICONTROL Design Studio]** .
 
    ![](assets/designstudio-1.png)
 
-1. Selecteer **Malplaatjes**.
+1. Selecteer **[!UICONTROL Templates]** .
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Selecteer een malplaatje waar **Mobiel Compatibel** **Nr** is.
+1. Selecteer een sjabloon waarbij **[!UICONTROL Mobile Compatible]** **[!UICONTROL No]** is.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Klik **uitgeven Ontwerp**.
+1. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Klik **maken Mobiel Compatibel**.
+1. Klik op **[!UICONTROL Make Mobile Compatible]**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Klik **Verbetering**.
+1. Klik op **[!UICONTROL Upgrade]**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -49,7 +49,7 @@ Dit kan op twee plaatsen worden gedaan, de Redacteur van het Malplaatje en de he
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## Wat maakt een malplaatje Mobiel Compatibel? {#what-makes-a-template-mobile-compatible}
+## Wat maakt een sjabloon [!UICONTROL Mobile Compatible]? {#what-makes-a-template-mobile-compatible}
 
 Geweldige vragen! Uw sjabloon moet de volgende tags hebben:
 
@@ -63,17 +63,17 @@ Als er iets misgaat, wordt er een foutbericht weergegeven. Klik op Herstellen om
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Als u wijzigingen aanbrengt in de sjabloon, klikt u op Sjabloonhandelingen en selecteert u Mobiele compatibiliteit valideren.
+Als u wijzigingen aanbrengt in de sjabloon, klikt u op [!UICONTROL Template Actions] en selecteert u [!UICONTROL Validate Mobile Compatibility] .
 
 ## Een sjabloon bijwerken vanuit de editor voor vrije bestemmingspagina {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 Wanneer u een bestemmingspagina uitgeeft en u op het mobiele lusje klikt, zult u soms merken het malplaatje niet is bevorderd. Vrees niet! U kunt het daar upgraden.
 
-1. Klik het **Mobiele** lusje.
+1. Klik op de tab **[!UICONTROL Mobile]** .
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Klik de controledoos en klik **activeren**.
+1. Klik op het selectievakje en klik op **[!UICONTROL Activate]** .
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352416
-description: Overzicht van pagina Analytics - Marketo Docs - Productdocumentatie
+description: '[!UICONTROL Analytics] Paginaoverzicht - Marketo Docs - Productdocumentatie'
 title: Overzicht van pagina Analytics
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
 
-# Overzicht van pagina Analytics {#analytics-page-overview}
+# [!UICONTROL Analytics] Paginaoverzicht {#analytics-page-overview}
 
-Op het tabblad Analyse vindt u gegevens over de betrokkenheid van uw e-mails. Zowel individuele gegevens als teamgegevens worden weergegeven. Beheerders kunnen ook filteren op het tabblad Ik.
+Op het tabblad [!UICONTROL Analytics] vindt u gegevens over de betrokkenheid van uw e-mails. Zowel individuele gegevens als teamgegevens worden weergegeven. Beheerders kunnen ook filteren door de gebruiker op het tabblad [!UICONTROL Me] .
 
 ## Hoe vaak werkt het bij? {#how-often-does-it-update}
 
@@ -27,24 +27,24 @@ Alle stats die in de tabel staan, worden berekend door de unieke weergaven, klik
 
 ## Analytische tabs {#analytic-tabs}
 
-We verdelen uw status in drie aparte tabbladen: Ik, Team en Inhoud. Je kunt elk gebruiken om een ander perspectief te krijgen op het inzicht dat we bieden.
+Uw statussen worden opgedeeld in drie aparte tabbladen: [!UICONTROL Me] , [!UICONTROL Team] en [!UICONTROL Content] . Je kunt ze allemaal gebruiken om een ander perspectief te krijgen op de insight die we bieden.
 
 Wanneer u van tab naar tab gaat op de pagina Analytics, kunt u uw status sorteren door op de weergave te klikken, op pictogrammen te klikken of te reageren.
 
-In me en de lusjes van het Team zult u informatie over gesloten overeenkomsten zien. Dit aantal wordt gecontroleerd door hoeveel keer mensen op uw team de gong bellen.
+Op de tabbladen [!UICONTROL Me] en [!UICONTROL Team] wordt informatie over afgesloten deals weergegeven. Dit aantal wordt gecontroleerd door hoeveel keer mensen op uw team de gong bellen.
 
-## Ik Tab {#me-tab}
+## [!UICONTROL Me] Tab {#me-tab}
 
-Het tabblad Me is een uitstekende plaats om de betrokkenheid van uw e-mails, sjablonen en koppelingen te controleren. Als u een beheerder bent in Sales Connect, kunt u door elke gebruiker in uw team filteren om de status te bekijken.
+Het tabblad [!UICONTROL Me] is een uitstekende plaats om de betrokkenheid van uw e-mails, sjablonen en koppelingen te controleren. Als u een beheerder in [!DNL Sales Connect] bent, kunt u door om het even welke gebruiker op uw team filtreren om hun status te zien.
 
-## Tabblad Team {#team-tab}
+## [!UICONTROL Team] Tab {#team-tab}
 
 Hier zie je statistieken en classificaties van je hele team. U kunt ook filteren door de subteams die u hebt gemaakt.
 
-## Tabblad Inhoud {#content-tab}
+## [!UICONTROL Content] Tab {#content-tab}
 
 Het tabblad Inhoud bevat stats over sjablonen, inhoud en koppelingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
 
-Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Gebruik bekijken door op **Sjabloonanalyse**.
+Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Klik op **[!UICONTROL Template Analytics]** om het gebruik ervan weer te geven.
 
 &quot;Klikken op inhoud&quot; worden geteld wanneer een ontvanger op een koppeling in uw e-mail klikt.

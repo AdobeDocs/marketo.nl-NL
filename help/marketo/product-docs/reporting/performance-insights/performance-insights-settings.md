@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795492
 description: Instellingen voor prestatieinzicht - Marketo Docs - Productdocumentatie
-title: Instellingen voor prestatie-inzichten
+title: Instellingen voor prestatiegegevens
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# Instellingen voor prestatie-inzichten {#performance-insights-settings}
+# [!UICONTROL Performance Insights] Instellingen {#performance-insights-settings}
 
 Meer informatie over de verschillende instellingsopties in MPI.
 
@@ -23,7 +23,7 @@ Meer informatie over de verschillende instellingsopties in MPI.
 
 ## Program Success weergeven met {#view-program-success-by}
 
-**Betrokkenheidsdashboard - Bijdrage en trends**
+**[!UICONTROL Engagement]Dashboard - Bijdrage en trend**
 
 <table> 
  <tbody> 
@@ -40,13 +40,13 @@ Meer informatie over de verschillende instellingsopties in MPI.
 
 ## Configuratie vorige periode {#previous-period-configuration}
 
-**Betrokkenheid, pijpleiding, belastingdashboards - alleen Bijdrage**
+**[!UICONTROL Engagement], [!UICONTROL Pipeline] , [!UICONTROL Revenue] Dashboards - Alleen bijdrage**
 
 <table> 
  <tbody> 
   <tr> 
    <td><strong>Kalenderperiode</strong></td> 
-   <td>Stel de vorige periode in op: vorige kalendermaand, kwartaal, of jaar.</td> 
+   <td>Stel de vorige periode in op: vorige kalendermaand, kwartaal of jaar.</td> 
   </tr> 
   <tr> 
    <td><strong>JUISTIJD</strong></td> 
@@ -57,12 +57,12 @@ Meer informatie over de verschillende instellingsopties in MPI.
 
 ## Marketing-Geïmpliceerde Kansen {#marketing-influenced-opportunities}
 
-**Pipetlijndashboard - Bijdrage en trend**
+**[!UICONTROL Pipeline]Dashboard - Bijdrage en trend**
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Eerste aanraking tonen, vóór gemaakte opportuniteit</strong></td> 
+   <td><strong>Eerste aanraking tonen, vóór gemaakte kans</strong></td> 
    <td><p>Wanneer u dit controleert, omvat MPI kansen die met minstens één lood worden geassocieerd dat (first-touch/FT) door een Programma van Marketo werd verworven alvorens de kans werd gecreeerd. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
   </tr> 
   <tr> 
@@ -72,7 +72,7 @@ Meer informatie over de verschillende instellingsopties in MPI.
  </tbody> 
 </table>
 
-**Inkomstendashboard - Bijdrage en ontwikkeling**
+**[!UICONTROL Revenue]Dashboard - Bijdrage en trend**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Meer informatie over de verschillende instellingsopties in MPI.
 
 ## Kostenberekening {#cost-calculation}
 
-**Pijpleiding- en inkomstendashboards - Bijdrage en trends**
+**[!UICONTROL Pipeline]en [!UICONTROL Revenue] Dashboards - Contribution and Trend**
 
 <table> 
  <tbody> 

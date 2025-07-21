@@ -4,9 +4,9 @@ description: Testgroepen voor landingspagina - Marketo-documenten - productdocum
 title: Testgroepen voor landingspagina
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,20 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 
 >[!PREREQUISITES]
 >
->[Twee of meer bestemmingspagina&#39;s samenstellen](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), bij voorkeur met een formulier.
+>[ bouwt twee of meer het landen pagina&#39;s ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), bij voorkeur met een vorm.
 
-1. Klik in de Design Studio op **Nieuw**. Selecteer in het vervolgkeuzemenu de optie **Nieuwe testgroep**.
+1. Klik in de Design Studio op **[!UICONTROL New]** . Selecteer **[!UICONTROL New Test Group]** in het vervolgkeuzemenu.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
    >[!NOTE]
    >
-   >De andere manieren om een Groep van de Test tot stand te brengen zijn:
+   >De andere manieren om een Groep van de Test te creëren zijn:
    >
-   >* Klik met de rechtermuisknop op een openingspagina in de structuur en selecteer **Omzetten in testgroep**
-   >* Maak een testgroep voor landingspagina in een programma door **AB-testgroep** in de **Nieuw lokaal element** menu
+   >* Klik met de rechtermuisknop op een openingspagina in de structuur en selecteer **[!UICONTROL Convert to Test Group]**
+   >* Een testgroep voor landingspagina maken in een programma door **[!UICONTROL AB Test Group]** in het menu **[!UICONTROL New Local Asset]** te kiezen
 
-1. Voer een naam en een optionele beschrijving in. Selecteer de bestemmingspagina&#39;s u wilt testen en klikken **Maken**.
+1. Voer een naam en een optionele beschrijving in. Selecteer de bestemmingspagina&#39;s die u wilt testen en klik op **[!UICONTROL Create]** .
 
    ![](assets/image2015-8-5-13-3a39-3a10.png)
 
@@ -38,11 +38,11 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
    >
    >Alleen niet-goedgekeurde bestemmingspagina&#39;s kunnen worden gekozen.
 
-1. Klik met de rechtermuisknop op elke bestemmingspagina en selecteer **Goedkeuren**.
+1. Klik met de rechtermuisknop op elke bestemmingspagina en selecteer **[!UICONTROL Approve]** .
 
    ![](assets/three-1.png)
 
-1. Klik op de knop **Opties voor testgroep** vervolgkeuzelijst en selecteert u **Testgroep goedkeuren**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Test Group Actions]** en selecteer **[!UICONTROL Approve Test Group]** .
 
    ![](assets/four-1.png)
 
@@ -52,4 +52,4 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 
    >[!TIP]
    >
-   >Als u ooit de Groep van de Test wilt schrappen, eenvoudig klik **Handelingen voor groepen testen** en selecteert u **Testgroep verwijderen**.
+   >Als u de testgroep wilt verwijderen, klikt u gewoon op **[!UICONTROL Test Group Actions]** en selecteert u **[!UICONTROL Delete test group]** .

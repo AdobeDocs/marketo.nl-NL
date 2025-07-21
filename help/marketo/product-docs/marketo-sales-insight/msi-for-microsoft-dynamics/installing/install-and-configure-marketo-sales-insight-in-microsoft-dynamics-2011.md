@@ -4,50 +4,50 @@ description: Marketo Sales Insight installeren en configureren in Microsoft Dyna
 title: Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 0%
+source-wordcount: '331'
+ht-degree: 2%
 
 ---
 
-# Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2011 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Installeren en configureren [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics 2011] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-Marketo Sales Insight is een fantastisch hulpmiddel voor je verkoopteam. Hier volgt de stapsgewijze instructies voor het installeren en configureren van de software in Microsoft Dynamics 2011 On-Premises.
+[!DNL Marketo Sales Insight] is een fantastisch hulpmiddel voor uw verkoopteam. Hier volgt een stapsgewijze instructie over het installeren en configureren van de software in [!DNL Microsoft Dynamics 2011] Op locatie.
 
 >[!PREREQUISITES]
 >
 >Voltooi uw integratie tussen Marketo en Microsoft.
 >
->[Download de juiste oplossing](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van Microsoft Dynamics CRM.
+>[ Download de correcte oplossing ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics] CRM.
 
 ## Oplossing importeren {#import-solution}
 
-1. Meld u aan bij Microsoft Dynamics CRM. Klikken **Instellingen** in het menu linksonder.
+1. Log in bij [!DNL Microsoft Dynamics] CRM. Klik op **[!UICONTROL Settings]** in het menu linksonder.
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. Selecteren **Oplossingen** in de boom.
+1. Selecteer **[!UICONTROL Solutions]** in de structuur.
 
    ![](assets/image2015-5-4-10-3a41-3a56.png)
 
-1. Klikken **Importeren** ( ![](assets/image2015-5-4-10-3a45-3a44.png)).
+1. Klik **Invoer** ( ![](assets/image2015-5-4-10-3a45-3a44.png)).
 
    ![](assets/image2015-5-4-10-3a42-3a38.png)
 
    >[!NOTE]
    >
-   >U moet al [geïnstalleerd en geconfigureerd](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de Marketo-oplossing voordat er vooruitgang wordt geboekt.
+   >U zou reeds [ geïnstalleerd en gevormd moeten hebben ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de oplossing van Marketo alvorens zich vooruit te bewegen.
 
-1. Klikken **Bladeren**. Selecteer de Marketo Sales Insight-oplossing [gedownload](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klikken **Volgende**.
+1. Klik op **[!UICONTROL Browse]**. Selecteer de [!DNL Marketo Sales Insight] oplossing u [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
-1. Controleer de details van de oplossing en klik op **Volgende**.
+1. Controleer de details van de oplossing en klik op **[!UICONTROL Next]** .
 
    ![](assets/image2015-5-4-10-3a57-3a31.png)
 
-1. Controleer of de optie voor het SDK-bericht is ingeschakeld. Klikken **Volgende**.
+1. Controleer of de optie SDK-bericht is ingeschakeld. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-11-3a43-3a37.png)
 
@@ -55,15 +55,15 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor je verkoopteam. Hier vo
 
    ![](assets/image2015-5-4-11-3a0-3a58.png)
 
-1. Klikken **Sluiten**.
+1. Klik op **[!UICONTROL Close]**.
 
    ![](assets/crmhand.png)
 
-1. Marketo Sales Insight wordt nu weergegeven in de lijst met oplossingen. Yay!
+1. [!DNL Marketo Sales Insight] wordt nu weergegeven in de lijst met oplossingen. Yay!
 
    ![](assets/image2015-5-4-11-3a2-3a37.png)
 
-1. Selecteer Marketo Sales Insight en klik op **Alle aanpassingen publiceren** ( ![](assets/image2015-5-4-11-3a7-3a8.png)).
+1. Selecteer [!DNL Marketo Sales Insight] en klik op **publiceren Alle Aanpassingen** ( ![](assets/image2015-5-4-11-3a7-3a8.png)).
 
    ![](assets/image2015-5-4-11-3a8-3a27.png)
 
@@ -71,17 +71,17 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor je verkoopteam. Hier vo
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Meld u aan bij Marketo en klik op **Beheer**.
+1. Meld u aan bij Marketo en klik op **[!UICONTROL Admin]** .
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Onder de **Verkoopoverzicht** sectieklik **API-configuratie bewerken**.
+1. Klik onder de sectie **[!UICONTROL Sales Insight]** op **[!UICONTROL Edit API Configuration]** .
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopieer de **Marketo-host**, **API-URL**, en **API-gebruikersnaam** voor gebruik in een latere stap. Voer een **API-beveiligingssleutel** van uw keuze en klik op **Opslaan**.
+1. Kopieer **[!UICONTROL Marketo Host]** , **[!UICONTROL API URL]** en **[!UICONTROL API User Id]** voor gebruik in een latere stap. Voer een **[!UICONTROL API Secret Key]** van uw keuze in en klik op **[!UICONTROL Save]** .
 
    >[!CAUTION]
    >
@@ -91,23 +91,23 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor je verkoopteam. Hier vo
 
    >[!NOTE]
    >
-   >De volgende velden moeten met Marketo worden gesynchroniseerd voor _Zowel lead als contact_ voor Sales Insight om te werken:
+   >De volgende gebieden moeten met Marketo voor _zowel Lood als Contact_ voor Verkoop Insight worden gesynchroniseerd om te werken:
    >
    >* Prioriteit
    >* Urgentie
    >* Relatieve score
    >
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te verhelpen, voert u [deze procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [ deze procedure ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
-1. Ga terug naar Dynamiek, selecteer **Instellingen**.
+1. Ga terug naar Dynamiek, selecteer **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
-1. Selecteren **Marketo API Config** in de boom.
+1. Selecteer **[!UICONTROL Marketo API Config]** in de structuur.
 
    ![](assets/image2015-5-4-11-3a22-3a41.png)
 
-1. Klikken **Standaardconfiguratie**.
+1. Klik op **[!UICONTROL Default Configuration]**.
 
    ![](assets/image2015-5-4-11-3a26-3a10.png)
 
@@ -115,40 +115,40 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor je verkoopteam. Hier vo
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-4-11-3a28-3a13.png)
 
 ## Gebruikerstoegang instellen {#set-user-access}
 
-De gebruikersrollen van de opstelling om specifieke gebruikers toegang tot het Inzicht van de Verkoop te geven.
+Stel gebruikersrollen in om specifieke gebruikers toegang te geven tot [!DNL Sales Insight] .
 
-1. Selecteren **Instellingen**.
+1. Selecteer **[!UICONTROL Settings]** .
 
    ![](assets/image2015-5-4-11-3a30-3a54.png)
 
-1. Selecteren **Beheer** in de boom.
+1. Selecteer **[!UICONTROL Administration]** in de structuur.
 
    ![](assets/image2015-5-4-11-3a31-3a39.png)
 
-1. Klikken **Gebruikers**.
+1. Klik op **[!UICONTROL Users]**.
 
    ![](assets/image2015-5-4-11-3a32-3a25.png)
 
-1. Selecteer de gebruiker(s) aan wie u toegang wilt verlenen en klik op **Rollen beheren**.
+1. Selecteer de gebruiker(s) aan wie u toegang wilt verlenen en klik op **[!UICONTROL Manage Roles]** .
 
    ![](assets/image2015-5-4-11-3a35-3a8.png)
 
-1. Selecteer **Marketo Sales Insight** rol en klik **OK**.
+1. Selecteer de **[!UICONTROL Marketo Sales Insight]** rol en klik op **[!UICONTROL OK]** .
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   En dat is het! Alle gebruikers hebben toegang zal nu de sectie van het verkoopinzicht in de lood/contactdetailmening kunnen zien.
+   En dat is het! Alle gebruikers hebben nu toegang tot de sectie Sales insight in de detailweergave voor leads/contactpersonen.
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
 
-   Gefeliciteerd. Je hebt nu de kracht van Marketo Sales Insight vrijgemaakt.
+   Gefeliciteerd. U hebt nu de kracht van [!DNL Marketo Sales Insight] ontketend.
 
 >[!MORELIKETHIS]
 >
->[Sterren en vlammen instellen voor lead/contact-records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[ de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

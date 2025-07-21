@@ -4,10 +4,10 @@ description: Een formulier insluiten in een webcampagne - Marketo Docs - Product
 title: Een formulier insluiten in een webcampagne
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 0%
+source-wordcount: '313'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenster, In Zone of Widget).
 
-1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteren **Code insluiten**.
+1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteer **[!UICONTROL Embed Code]** .
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,11 +23,11 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Ga in Persoonlijke webweergave naar **Webcampagnes**.
+1. Ga in [!DNL Web Personalization] naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Klikken **Nieuwe campagne maken**.
+1. Klik op **[!UICONTROL Create New Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,13 +35,13 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/five-1.png)
 
-1. Plak de insluitcode van het formulier in de HTML Source Editor. Klikken **Bijwerken**.
+1. Plak de insluitcode van het formulier in de [!UICONTROL HTML Source Editor] . Klik op **[!UICONTROL Update]**.
 
    ![](assets/six-1.png)
 
 1. Het formulier wordt niet weergegeven in de editorweergave, maar u kunt het voorbeeld bekijken om te zien hoe het in een campagne wordt weergegeven.
 
-1. Klikken **Starten** om de campagne te starten.
+1. Klik op **[!UICONTROL Launch]** om de campagne te starten.
 
    >[!NOTE]
    >
@@ -55,11 +55,11 @@ Als u een achtergrondafbeelding aan het formulier wilt toevoegen, kunt u:
 * Dialoogvenster- of widgetkleuren wijzigen in Campagne instellen
 * CSS-code toevoegen aan het script
 
-Als u de CSS van een formulierthema wilt bewerken, raadpleegt u [dit artikel](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Om CSS van een Thema van de Vorm uit te geven, zie [ dit artikel ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 U wijzigt als volgt de kleur van het dialoogvenster of de widget in de campagne Set:
 
-1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klikken **Opslaan**.
+1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -73,16 +73,16 @@ CSS-code toevoegen aan het script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de HTML Source Editor. Klikken **Bijwerken**.
+1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de [!UICONTROL HTML Source Editor] . Klik op **[!UICONTROL Update]**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Klikken **Voorvertoning** om te zien hoe het in een campagne wordt weergegeven (het formulier wordt niet weergegeven in de editorweergave). Hier volgt een voorbeeld van hoe de bovenstaande formuliercode wordt weergegeven in een campagne met een achtergrondafbeelding.
+1. Klik op **[!UICONTROL Preview]** om te zien hoe het formulier wordt weergegeven in een campagne (het formulier wordt niet weergegeven in de editorweergave). Hier volgt een voorbeeld van hoe de bovenstaande formuliercode wordt weergegeven in een campagne met een achtergrondafbeelding.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [CSS van een formulierthema bewerken](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Bericht met dank weergeven zonder opvolgingspagina](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [ geef CSS van een Thema van de Vorm uit ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [ toon Dank u Bericht zonder een follow-up het landen Pagina ](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [ Forms 2.0 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

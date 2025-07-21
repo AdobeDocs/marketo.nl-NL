@@ -4,9 +4,9 @@ description: Alleen aanmelding door gebruiker beperken tot SSO - Marketo Docs - 
 title: Alleen gebruikersaanmelding beperken tot SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Als u [ SSO ](/help/marketo/product-docs/administration/additional-integrations/
 
 >[!IMPORTANT]
 >
->Dit artikel is niet op [ toe:laten 1&rbrace; Marketo abonnementen van Adobe IMS &lbrace;van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+>Dit artikel is niet op [ toe:laten 1} Marketo abonnementen van Adobe IMS {van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Als u [ SSO ](/help/marketo/product-docs/administration/additional-integrations/
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Klik **[!UICONTROL Login Setting]s**.
+1. Klik op **[!UICONTROL Login Settings]**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 

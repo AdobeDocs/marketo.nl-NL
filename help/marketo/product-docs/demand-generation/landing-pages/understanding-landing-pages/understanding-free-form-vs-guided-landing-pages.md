@@ -4,21 +4,21 @@ description: Werken met gratis formulieren en bestemmingspagina's met instructie
 title: Werken met vrije vorm en portaalpagina's met instructies
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # Werken met vrije vorm en portaalpagina&#39;s met instructies {#understanding-free-form-vs-guided-landing-pages}
 
-De sjabloon die u kiest, bepaalt in welke bewerkingsmodus voor de openingspagina u gaat werken. Er zijn twee mogelijke paden: [vrij](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) en [begeleid](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Hieronder vindt u een korte samenvatting van de belangrijke verschillen.
+De sjabloon die u kiest, bepaalt in welke bewerkingsmodus voor de openingspagina u gaat werken. Er zijn twee mogelijke wegen: [ vrij-vorm ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) en [ geleid ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Hieronder vindt u een korte samenvatting van de belangrijke verschillen.
 
 ## Vrije-vormpagina&#39;s {#free-form-pages}
 
 * Sleep de gewenste inhoud naar de plaats waar u deze wilt plaatsen.
-* De sjabloon is als een SlideMaster in PowerPoint, alleen maar als achtergrond.
+* De sjabloon is als een [!DNL SlideMaster] in [!DNL PowerPoint] , alleen een achtergrond.
 * Maak een eenvoudige mobiele versie van uw pagina met een klik op een knop.
 * Het beste wordt gebruikt wanneer u niet veel tijd of technische middelen tot uw beschikking hebt.
 

@@ -4,9 +4,9 @@ description: Het Rapport van de Activiteit van het Web van het bedrijf - de Docu
 title: Webactiviteitenrapport van bedrijf
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Bekijk welke bedrijven uw website bezoeken. U kunt bekende of anonieme bezoekers weergeven, maar niet beide in hetzelfde rapport.
 
-Een [Rapport Webpaginageactiviteit](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) om de afzonderlijke personen te zien die uw site bezoeken.
+Creeer het rapport van de Activiteit van de Pagina van het a [ Web ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) om de individuele mensen te zien die uw plaats bezoeken.
 
 >[!PREREQUISITES]
 >
->Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst [Munchkin op uw site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om activiteit van uw website in Marketo te vangen, moet u eerst [ opstelling  [!DNL Munchkin]  op uw plaats ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Een rapport maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het Rapport van de Activiteit van het Web van het Bedrijf [rapporttype](report-type-overview.md).
+1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het [!UICONTROL Company Web Activity] Rapport [ rapporttype ](report-type-overview.md).
 
-1. Kies [bekende of anonieme personen weergeven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) in het verslag.
+1. Kies aan [ vertoning gekende of anonieme mensen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md) in het rapport.
 
-1. [Plaats het tijdkader van uw rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op de knop **Rapport** tab.
+1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
 
 1. Dat is het! Controleer uw rapport om te zien welke bedrijven uw site bezoeken.
 
@@ -33,9 +33,9 @@ Een [Rapport Webpaginageactiviteit](/help/marketo/product-docs/reporting/basic-r
 
    >[!TIP]
    >
-   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [uw rapport sorteren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _Paginaweergaven_ kolom en kies **Sorteren op aflopend**.
+   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _[!UICONTROL Page Views]_kolom en kies **[!UICONTROL Sort Descending]**.
 
-   [Kolommen die u kunt selecteren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van het Web van het Bedrijf omvatten:
+   [ Kolommen die u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van het Web van het Bedrijf kunt selecteren omvatten:
 
 <table> 
  <thead> 
@@ -47,11 +47,11 @@ Een [Rapport Webpaginageactiviteit](/help/marketo/product-docs/reporting/basic-r
  <tbody> 
   <tr> 
    <td>Bedrijf</td> 
-   <td>Het bezoekersbedrijf.<br> <strong>Namen in vet</strong> door ten minste één persoon als naam van het bedrijf worden bevestigd.</td> 
+   <td>Het bezoekersbedrijf.<br> <strong> de Namen in vette </strong> worden bevestigd om de bedrijfsnaam door minstens één persoon te zijn.</td> 
   </tr> 
   <tr> 
    <td>Overgenomen bedrijf of ISP</td> 
-   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <br> <strong>Namen in vet</strong> wijs op dit het bedrijf, niet ISP is. </td> 
+   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <br> <strong> Namen in vette </strong> wijzen op dit het bedrijf, niet ISP is. </td> 
   </tr> 
   <tr> 
    <td>Paginaweergaven</td> 
@@ -74,4 +74,4 @@ Een [Rapport Webpaginageactiviteit](/help/marketo/product-docs/reporting/basic-r
 
 >[!MORELIKETHIS]
 >
->[Personen of anonieme bezoekers weergeven in webrapporten](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
+>[ Mensen van de vertoning of Anonieme Bezoekers in de Rapporten van het Web ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)

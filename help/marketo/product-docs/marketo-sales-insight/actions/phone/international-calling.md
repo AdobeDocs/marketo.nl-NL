@@ -3,10 +3,10 @@ description: International Calling - Marketo Docs - Productdocumentatie
 title: International Calling
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 8%
+source-wordcount: '392'
+ht-degree: 4%
 
 ---
 
@@ -32,7 +32,7 @@ Met Verkoopdialer kunt u gemakkelijk internationaal communiceren. Voor klanten d
   </tr> 
   <tr> 
    <td colspan="1">Oostenrijk</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 436998, 436 9989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahama's</td> 
@@ -60,15 +60,15 @@ Met Verkoopdialer kunt u gemakkelijk internationaal communiceren. Voor klanten d
   </tr> 
   <tr> 
    <td>Griekenland </td> 
-   <td>30, 3021</td> 
+   <td>30 3021</td> 
   </tr> 
   <tr> 
    <td>Hongarije</td> 
-   <td>36, 361</td> 
+   <td>36 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Ierland </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">353 3531</td> 
   </tr> 
   <tr> 
    <td>Israël</td> 
@@ -80,7 +80,7 @@ Met Verkoopdialer kunt u gemakkelijk internationaal communiceren. Voor klanten d
   </tr> 
   <tr> 
    <td colspan="1">Kazachstan </td> 
-   <td colspan="1">76, 77</td> 
+   <td colspan="1">76 77</td> 
   </tr> 
   <tr> 
    <td colspan="1">Korea</td> 
@@ -112,7 +112,7 @@ Met Verkoopdialer kunt u gemakkelijk internationaal communiceren. Voor klanten d
   </tr> 
   <tr> 
    <td colspan="1">Polen </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">48 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -120,7 +120,7 @@ Met Verkoopdialer kunt u gemakkelijk internationaal communiceren. Voor klanten d
   </tr> 
   <tr> 
    <td colspan="1">Singapore </td> 
-   <td colspan="1">65, 658, 659</td> 
+   <td colspan="1">65 658 659</td> 
   </tr> 
   <tr> 
    <td colspan="1">Spanje </td> 
@@ -136,25 +136,25 @@ Met Verkoopdialer kunt u gemakkelijk internationaal communiceren. Voor klanten d
   </tr> 
   <tr> 
    <td>Verenigde Staten</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Veelgestelde vragen over internationale oproepen {#international-calling-faq}
 
-**Waarom steunt Handelingen van het Inzicht van de Verkoop geen internationale vraag naar alle landen?**
+**waarom steunt [!DNL Sales Insight Actions] geen internationaal roepend voor alle landen?**
 
 Vandaag, bieden wij internationale vraag aan met de Dialer van de Verkoop voor geen extra kosten. Wij willen het voor u gemakkelijk maken om met uw eigen vooruitzichten en klanten te communiceren, daarom hebben wij steun voor standaard tarief internationale vraag gelanceerd. We bieden 34 landen buiten de VS en Canada dekking voor regio&#39;s in Europa, Azië en andere belangrijke bestemmingen. We zullen blijven uitbreiden op basis van feedback van klanten.
 
-**Als ik buiten de VS ben, welke landen kan ik dan van en naar bellen?**
+**Als ik buiten de V.S. ben, welke landen kan ik van en aan roepen?**
 
 Hier is de lijst met landen die we momenteel niet steunen. Als het land waar u om vraagt wordt gesteund, kunt u elk ander internationaal land noemen dat wij steunen.
 
-**Zijn er specifieke soorten aantallen ik niet met de Dialer van de Verkoop kan roepen?**
+**zijn er specifieke soorten aantallen ik niet met de Dialer van de Verkoop kan roepen?**
 
 Ja. Wij steunen geen vraag aan de telefoonaantallen van de de tariefdienst van het tarief (zoals 900 aantallen in de V.S. en +449 aantallen in V.K.). Over het algemeen, steunen wij het roepen van gedeelde kostentelefoonaantallen evenals een klein aantal andere premieroutes niet.
 
-**Kan ik lokale aanwezigheid gebruiken wanneer ik internationaal bel?**
+**kan ik lokale aanwezigheid gebruiken wanneer het roepen van internationaal?**
 
-Nee. [Lokale aanwezigheid](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) is alleen beschikbaar voor Amerikaanse nummers.
+Nee. [ Lokale aanwezigheid ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) is beschikbaar voor de aantallen van de V.S. slechts.

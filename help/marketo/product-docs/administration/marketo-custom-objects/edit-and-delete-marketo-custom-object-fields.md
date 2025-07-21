@@ -4,9 +4,9 @@ description: Marketo Custom Object Fields bewerken en verwijderen - Marketo Docs
 title: Aangepaste Marketo-objectvelden bewerken en verwijderen
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Soms moet u een veld bewerken dat nog niet is goedgekeurd.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. In de [!UICONTROL Fields] tabblad, klikt u op **[!UICONTROL Field Actions]** en **[!UICONTROL Edit Field]**.
+1. Klik op het tabblad [!UICONTROL Fields] op **[!UICONTROL Field Actions]** en **[!UICONTROL Edit Field]** .
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Breng uw veranderingen aan en klik **[!UICONTROL Save]**.
+1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]** .
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -33,7 +33,7 @@ Soms moet u een veld bewerken dat nog niet is goedgekeurd.
    >
    >U kunt de API-naam niet bewerken.
 
-1. De wijzigingen worden weergegeven in de lijst Velden.
+1. De wijzigingen worden weergegeven in de lijst van **[!UICONTROL Fields]** .
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
@@ -41,7 +41,7 @@ Soms moet u een veld bewerken dat nog niet is goedgekeurd.
 
 Wanneer u geen gebied in een douanevoorwerp meer nodig hebt, kunt u het schrappen.
 
-1. Klik op het tabblad Velden op **[!UICONTROL Field Actions]** en **[!UICONTROL Delete Field]**.
+1. Klik op het tabblad Velden op **[!UICONTROL Field Actions]** en **[!UICONTROL Delete Field]** .
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
@@ -55,4 +55,4 @@ Het is weg!
 
 >[!NOTE]
 >
->[Aangepaste Marketo-objectvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)

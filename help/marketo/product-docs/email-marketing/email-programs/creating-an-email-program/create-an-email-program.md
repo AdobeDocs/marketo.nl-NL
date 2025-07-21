@@ -4,9 +4,9 @@ description: Een e-mailprogramma maken - Marketo Docs - Productdocumentatie
 title: Een e-mailprogramma maken
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Met e-mailprogramma&#39;s kunt u snel en eenvoudig een e-mailbericht naar een groep mensen verzenden.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/one.png)
 
-1. Selecteer de map waarin u het programma wilt maken, klik op de knop **Nieuw** en selecteert u **Nieuw programma**.
+1. Selecteer de map waarin u het programma wilt maken, klik op de vervolgkeuzelijst **[!UICONTROL New]** en selecteer **[!UICONTROL New Program]** .
 
    ![](assets/two.png)
 
-1. Geef een naam op en selecteer **E-mail** als het Type Programma, en klik **Maken**.
+1. Voer een naam in, selecteer **[!UICONTROL Email]** als [!UICONTROL Program Type] en klik op **[!UICONTROL Create]** .
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Als u **E-mail** Als Type Programma, zal het Kanaal automatisch plaatsen aan **E-mail verzenden**. U kunt deze desgewenst wijzigen.
+   >Wanneer u **[!UICONTROL Email]** selecteert als programmeertype, wordt het kanaal automatisch ingesteld op **[!UICONTROL Email Send]** . U kunt deze desgewenst wijzigen.
 
    ![](assets/four.png)
 
@@ -37,5 +37,5 @@ Mooi! Het programma staat nu in de boom en is klaar om te worden gebruikt. De vo
 
 >[!MORELIKETHIS]
 >
->* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [ bepaal een Publiek met een Slimme Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [ bepaal een Publiek door een Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) in te voeren

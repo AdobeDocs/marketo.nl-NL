@@ -3,10 +3,10 @@ description: Sjablonen beheren - Marketo Docs - Productdocumentatie
 title: Sjablonen beheren
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '498'
+ht-degree: 3%
 
 ---
 
@@ -14,25 +14,25 @@ ht-degree: 0%
 
 ## Een sjabloon maken {#create-a-new-template}
 
-1. Ga naar de **Sjablonen** tab.
+1. Ga naar het tabblad **[!UICONTROL Templates]**.
 
    ![](assets/manage-templates-1.png)
 
-1. Klikken **Sjabloon maken**.
+1. Klik op **[!UICONTROL Create Template]**.
 
    ![](assets/manage-templates-2.png)
 
-1. Kies een **Naam** en **Categorie** voor uw e-mailsjabloon klikt u op **Maken**.
+1. Kies een **[!UICONTROL Name]** en **[!UICONTROL Category]** voor uw e-mailsjabloon en klik op **[!UICONTROL Create]** .
 
    ![](assets/manage-templates-3.png)
 
-1. Maak in de sjablooneditor een onderwerpregel voor uw e-mail en typ het gewenste bericht. De bewerkingsgereedschappen gebruiken (lettertype, tekstgrootte, enz.) om de weergave aan te passen. Klikken **Opslaan** om uw wijzigingen te voltooien.
+1. Maak in de sjablooneditor een onderwerpregel voor uw e-mail en typ het gewenste bericht. Gebruik de bewerkingsgereedschappen (lettertype, tekstgrootte, enz.) om de weergave aan te passen. Klik op **[!UICONTROL Save]** om de wijzigingen te voltooien.
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->Typ altijd rechtstreeks tekst in de sjabloon of kopieer tekst uit een normale teksteditor (bijvoorbeeld Kladblok of TextEdit). Het kopiëren en plakken vanuit een RTF-editor (bijvoorbeeld MS Word) kan leiden tot onregelmatigheden in de opmaak.
+>Typ altijd tekst rechtstreeks in de sjabloon of kopieer tekst vanuit een teksteditor zonder opmaak (bijvoorbeeld [!DNL Notepad] of [!DNL TextEdit] ). Het kopiëren en plakken vanuit een RTF-editor (bijvoorbeeld MS [!DNL Word]) kan leiden tot onregelmatigheden in de opmaak.
 
 ## Sjabloondetails weergeven {#view-template-details}
 
@@ -42,19 +42,19 @@ Het gebied Sjabloondetails bevat meerdere tabbladen.
 
 <table>
  <tr>
-  <td><strong>Sjabloon</strong></td>
+  <td><strong>[!UICONTROL Template]</strong></td>
   <td>Reviseren en bewerken, criteria instellen om van de sjabloon een aanbevolen sjabloon te maken, notities toevoegen</td>
  </tr>
  <tr>
-  <td><strong>Analyse</strong></td>
+  <td><strong>Analytics</strong></td>
   <td>Evalueer de betrokkenheidsanalyse voor de sjabloon. Voer een gefilterde zoekopdracht uit.</td>
  </tr>
  <tr>
-  <td><strong>E-mails</strong></td>
+  <td><strong>[!UICONTROL Emails]</strong></td>
   <td>Alle e-mails bekijken die met deze template zijn verzonden. Voer een gefilterde zoekopdracht uit.</td>
  </tr>
  <tr>
-  <td><strong>Campagnes</strong></td>
+  <td><strong>[!UICONTROL Campaigns]</strong></td>
   <td>Zie in welke campagnes de sjabloon wordt gebruikt.</td>
  </tr>
 </table>
@@ -63,7 +63,7 @@ Het gebied Sjabloondetails bevat meerdere tabbladen.
 
 Als u één van onze teamrekeningen gebruikt, zijn al uw malplaatjes nog privé door gebrek.
 
-1. Ga naar de **Sjablonen** tab.
+1. Ga naar het tabblad **[!UICONTROL Templates]**.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ Als u één van onze teamrekeningen gebruikt, zijn al uw malplaatjes nog privé 
 
    ![](assets/manage-templates-6.png)
 
-1. Klik op de knop **Delen** knop.
+1. Klik op **[!UICONTROL Share]** .
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >Sjablonen die met u zijn gedeeld, worden weergegeven onder de **Teamsjablonen** aan de linkerkant van de pagina Sjablonen. Teams zijn alleen beschikbaar voor Premium-gebruikers.
+   >Sjablonen die met u zijn gedeeld, worden links op de pagina **[!UICONTROL Team Templates]** onder de koptekst [!UICONTROL Templates] weergegeven. Teams zijn alleen beschikbaar voor Premium-gebruikers.
 
-1. Klik op de vervolgkeuzelijst Delen met en selecteer het team of de teams waarmee u de bestanden wilt delen.
+1. Klik op de vervolgkeuzelijst [!UICONTROL Share With] en selecteer het team of de teams waarmee u de bestanden wilt delen.
 
    ![](assets/manage-templates-8.png)
 
-1. U kunt de sjabloon in de huidige categorie laten of verplaatsen naar een andere categorie. In dit voorbeeld houden we het in het huidige. Klikken **Delen** wanneer gereed.
+1. U kunt de sjabloon in de huidige categorie laten of verplaatsen naar een andere categorie. In dit voorbeeld houden we het in het huidige. Klik op **[!UICONTROL Share]** als u klaar bent.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Als u één van onze teamrekeningen gebruikt, zijn al uw malplaatjes nog privé 
 
 U kunt sjablonen vanuit elke gewenste categorie toevoegen aan de lijst Favorieten. Hiermee wordt automatisch een nieuwe categorie boven aan de lijst gegenereerd, zodat u snel toegang kunt krijgen tot de sjablonen die u het meest gebruikt.
 
-1. Ga naar de **Sjablonen** tab.
+1. Ga naar het tabblad **[!UICONTROL Templates]**.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ U kunt sjablonen vanuit elke gewenste categorie toevoegen aan de lijst Favoriete
 
 ## Sjabloonweergave aanpassen {#customize-template-view}
 
-Van de **Weergave** vervolgkeuzelijst, kunt u kiezen om te zien: alle sjablonen, uw sjablonen, favoriete sjablonen, gedeelde sjablonen, niet-gedeelde sjablonen of ongebruikte sjablonen (sjablonen die de afgelopen 90 dagen niet zijn gebruikt).
+In de vervolgkeuzelijst **[!UICONTROL View]** kunt u kiezen of u wilt zien: alle sjablonen, uw sjablonen, favoriete sjablonen, gedeelde sjablonen, niet-gedeelde sjablonen of ongebruikte sjablonen (sjablonen die de afgelopen 90 dagen niet zijn gebruikt).
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ Sjablonen archiveren om uw verkoopinhoud overzichtelijk en gefocust te houden zo
 
    ![](assets/manage-templates-14.png)
 
-1. Klikken **Archief**.
+1. Klik op **[!UICONTROL Archive]**.
 
    ![](assets/manage-templates-15.png)
 
-1. Klikken **Archief** ter bevestiging.
+1. Klik op **[!UICONTROL Archive]** om te bevestigen.
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ Voer de onderstaande stappen uit om een sjabloon te verwijderen.
 
    ![](assets/manage-templates-17.png)
 
-1. Klikken **Verwijderen**.
+1. Klik op **[!UICONTROL Delete]**.
 
    ![](assets/manage-templates-18.png)
 
-1. Klikken **Verwijderen** ter bevestiging.
+1. Klik op **[!UICONTROL Delete]** om te bevestigen.
 
    ![](assets/manage-templates-19.png)

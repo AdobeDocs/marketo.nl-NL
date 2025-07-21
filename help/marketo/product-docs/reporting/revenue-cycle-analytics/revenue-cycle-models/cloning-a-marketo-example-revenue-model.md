@@ -4,9 +4,9 @@ description: Een model voor Marketo-voorbeeldinkomsten klonen - Marketo Docs - P
 title: Een Marketo-model met voorbeeldopbrengsten klonen
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo heeft voorbeelden van inkomstenmodellen om u te inspireren. Kloon deze modellen en maak ze zelf. Hieronder wordt beschreven hoe:
 
-1. Ga naar de **Analyse** gebied.
+1. Ga naar het **[!UICONTROL Analytics]** -gebied.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Selecteren **Revenue Cycle Modeler** en klik op **Marketo-voorbeelden**.
+1. Selecteer de map **[!UICONTROL Revenue Cycle Modeler]** en klik op **[!UICONTROL Marketo Examples]** .
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +27,11 @@ Marketo heeft voorbeelden van inkomstenmodellen om u te inspireren. Kloon deze m
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Selecteer bij Modelhandelingen de optie **Kloonmodel**.
+1. Selecteer [!UICONTROL Model Actions] in **[!UICONTROL Clone Model]** .
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Voer een **Naam** en klik op **Klonen**.
+1. Voer een **[!UICONTROL Name]** in en klik op **[!UICONTROL Clone]** .
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

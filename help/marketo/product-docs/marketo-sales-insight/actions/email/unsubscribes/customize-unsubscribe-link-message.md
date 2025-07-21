@@ -3,9 +3,9 @@ description: Abonnementsbericht voor een koppeling aanpassen - Marketo Docs - Pr
 title: Bericht voor opzeggen van koppeling aanpassen
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 >[!NOTE]
 >
->Je kunt een afmeldingskoppeling van een derde met Marketo Sales niet gebruiken omdat deze gegevens niet opnieuw in onze database worden vastgelegd.
+>U kunt een derdeunsubscribe-koppeling met [!DNL Marketo Sales] niet gebruiken omdat deze informatie niet opnieuw in onze database wordt vastgelegd.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. Klik onder Beheerinstellingen op **Abonnementen opzeggen**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL Unsubscribes]** .
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
-1. Bepaal als dit bericht het gebrek voor uw volledig team zal zijn, of als u het team wilt laten hun eigen overseinen tot stand brengen (in dit voorbeeld, kiezen wij standaardoverseinen). Schrijf uw douaneoverseinen in het tekstvakje uit.
+1. Bepaal als dit bericht het gebrek voor uw volledig team zal zijn, of als u het team wilt laten hun eigen overseinen tot stand brengen (in dit voorbeeld, kiezen wij standaardoverseinen). Schrijf uw aangepast bericht in het tekstvak uit.
 
    ![](assets/customize-unsubscribe-link-message-3.png)
 
@@ -38,10 +38,10 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
    >
    >Het maakt niet uit welke URL u invoert. Wanneer het e-mailbericht wordt verzonden, wordt de eerste (of enige) hyperlink automatisch gekoppeld aan de standaardpagina voor het opzeggen van het abonnement.
 
-1. Voer een URL in, bepaal of u de koppeling in het huidige of een nieuw venster wilt openen en klik op **Opslaan**.
+1. Voer een URL in, bepaal of u de koppeling in het huidige of een nieuw venster wilt openen en klik op **[!UICONTROL Save]** .
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Klikken **Opslaan** onderaan om uw wijzigingen op te slaan.
+1. Klik op **[!UICONTROL Save]** onder aan om de wijzigingen op te slaan.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

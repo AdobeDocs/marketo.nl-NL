@@ -4,9 +4,9 @@ description: Instellingen voor tweeledige toestemming - Marketo-documenten - pro
 title: Instellingen voor tweeledige toestemming
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
 >[!PREREQUISITES]
 >
->Voordat u de onderstaande stappen uitvoert, moet u eerst [call opnemen inschakelen](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Alvorens de stappen hieronder te volgen, moet u vraagopname [ eerst ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) toelaten.
 
-1. Klik op het pictogram Instellingen en selecteer **Instellingen**.
+1. Klik op het pictogram Instellingen en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one-1.png)
 
-1. Klik onder Beheerinstellingen op **Algemeen**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL General]** .
 
    ![](assets/two-1.png)
 
-1. Schuif omlaag naar Instellingen van telefoon met verkoopverbinding en klik op **Opnamebericht beheren**.
+1. Schuif omlaag naar [!UICONTROL Sales Connect Phone Settings] en klik op **[!UICONTROL Manage recording notice]** .
 
    ![](assets/three-1.png)
 
-1. Klikken **Opname importeren**.
+1. Klik op **[!UICONTROL Import Recording]**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
    ![](assets/five.png)
 
-1. Als het uploaden is voltooid, selecteert u de gegevens (drie punten) in het bestandsbeheer en klikt u op **Selecteren als kennisgeving van toestemming**. Klikken **OK** wanneer gereed.
+1. Nadat het uploaden is voltooid, selecteert u de gegevens (drie punten) in het bestandsbeheer en klikt u op **[!UICONTROL Select as Consent Notice]** . Klik op **[!UICONTROL OK]** als u klaar bent.
 
    ![](assets/six.png)
 

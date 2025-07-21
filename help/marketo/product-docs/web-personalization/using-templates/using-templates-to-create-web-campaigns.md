@@ -4,38 +4,38 @@ description: Het gebruiken van Malplaatjes om de Campagnes van het Web tot stand
 title: Webcampagnes maken met sjablonen
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 2%
 
 ---
 
 # Webcampagnes maken met sjablonen {#using-templates-to-create-web-campaigns}
 
-Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablonen of door [uw eigen](save-your-campaign-as-a-template.md).
+Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze ingebouwde malplaatjes te gebruiken of door [ uw te bewaren ](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
 >Sjablonen zijn geoptimaliseerd voor alle apparaten en voor zowel desktopcomputers als mobiele apparaten.
 
-1. Ga naar **Webcampagnes**.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klikken **Nieuwe webcampagne maken**.
+1. Klik op **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
-1. Geef uw campagne een naam.
+1. Noem uw campagne.
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Selecteer een doelsegment.
+1. Selecteer een [!UICONTROL Target Segment] .
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klikken **Sjablonen**.
+1. Klik op **[!UICONTROL Templates]**.
 
    ![](assets/templates.png)
 
@@ -43,19 +43,19 @@ Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablon
 
    >[!NOTE]
    >
-   >Er zijn een paar coole sjablonen waaruit je kunt kiezen, en we zullen er in de toekomst meer aan toevoegen.
+   >Er zijn een aantal coole sjablonen waaruit u kunt kiezen, en in de toekomst zullen we er meer aan toevoegen.
 
    ![](assets/select.png)
 
    >[!TIP]
    >
-   >Voor mobiele campagnes selecteert u een sjabloon in het menu **mobiel** sectie.
+   >Voor mobiele campagnes selecteer een malplaatje van de **mobiele** sectie.
 
 1. Pas de sjabloon aan.
 
    ![](assets/customize-template.jpg)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/click-save-hand.jpg)
 
@@ -63,4 +63,4 @@ Echt waar! Heb je gezien hoeveel tijd je hebt bespaard door een sjabloon te gebr
 
 >[!MORELIKETHIS]
 >
->[Een campagne opslaan als een sjabloon](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
+>[ sparen een Campagne als Malplaatje ](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)

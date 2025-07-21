@@ -3,9 +3,9 @@ description: Typen stappen en herinneringstaken voor verkoopcampagne - Marketo D
 title: Typen stappen en herinneringstaken voor verkoopcampagne
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Een sjabloon gebruiken** | Selecteer een van uw bestaande sjablonen |
+| **[!UICONTROL Use a Template]** | Selecteer een van uw bestaande sjablonen |
 |---|---|
-| **Opslaan als sjabloon** | E-mail opslaan die u net hebt samengesteld als een nieuwe sjabloon |
-| **Inhoud toevoegen** | Upload een bestand naar onze server en ontvang een URL (die naar de inhoud verwijst) die in uw e-mail kan worden gevolgd |
-| **Bestanden bijvoegen** | Een bestand vanaf uw computer bijvoegen bij het e-mailbericht (maximaal 23 MB) |
+| **[!UICONTROL Save as Template]** | E-mail opslaan die u net hebt samengesteld als een nieuwe sjabloon |
+| **voeg Inhoud** toe | Upload een bestand naar onze server en ontvang een URL (die naar de inhoud verwijst) die in uw e-mail kan worden gevolgd |
+| **maak Dossiers** vast | Een bestand vanaf uw computer bijvoegen bij het e-mailbericht (maximaal 23 MB) |
 
 >[!TIP]
 >
->Meer informatie over uw [verzendopties](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Leer de details over uw [ verzendende opties ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Bellen {#call}
 
@@ -58,7 +58,7 @@ Taken zijn een krachtig hulpmiddel wanneer u een campagne van de Verkoop naar ee
 
 De taak om een E-mail en een Taak te verzenden om een contact te roepen is het gemeenschappelijkste gebruik voor Taken in de Campagnes van de Verkoop.
 
-U kunt ook een contactpersoon voor &quot;Taak om te e-mailen&quot; maken op LinkedIn als dat onderdeel is van uw workflow. U kunt ook een aangepaste taak uitvoeren om u eraan te herinneren dat u hen kunt uitnodigen voor een gelukkig uur, vragen over hun liefdadigheidsgebeurtenis of inchecken na game 5, enz.
+U kunt een &quot;Taak aan Inmail&quot;een contact op LinkedIn ook maken als dat deel van uw werkschema uitmaakt. U kunt ook een aangepaste taak uitvoeren om u eraan te herinneren dat u hen kunt uitnodigen voor een gelukkig uur, vragen over hun liefdadigheidsgebeurtenis of inchecken na game 5, enz.
 
 >[!NOTE]
 >
@@ -66,4 +66,4 @@ U kunt ook een contactpersoon voor &quot;Taak om te e-mailen&quot; maken op Link
 
 >[!MORELIKETHIS]
 >
->[Een verkoopcampagne maken](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}

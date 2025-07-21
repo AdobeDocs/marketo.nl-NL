@@ -4,10 +4,10 @@ description: Een agendagebeurtenis (.ics) opnemen in een e-mail - Marketo Docs -
 title: Een agendagebeurtenis (.ics) opnemen in een e-mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ Met een token voor het kalenderbestand kunt u een agendagebeurtenis (.ics) toevo
 
 >[!PREREQUISITES]
 >
->[Een agendagebeurtenbestand (.ics) maken](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>[ creeer een Dossier van de Gebeurtenis van de Kalender (.ics) ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. Klik tijdens het bewerken van de e-mail van uw programma op de plaats waar u het token wilt laten gaan en klik vervolgens op de knop Token invoegen.
+1. Terwijl het uitgeven van e-mail van uw programma, klik waar u het teken wilt gaan, dan klik de **Symbolische knoop van het Tussenvoegsel**.
 
 ![](assets/one-6.png)
 
-1. Selecteer de token voor het kalenderbestand en klik op **Invoegen**.
+1. Selecteer de token voor het kalenderbestand en klik op **[!UICONTROL Insert]** .
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/three-5.png)
 

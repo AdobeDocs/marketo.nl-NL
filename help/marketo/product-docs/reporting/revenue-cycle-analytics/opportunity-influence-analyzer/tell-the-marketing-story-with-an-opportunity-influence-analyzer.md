@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2360237
 description: Vertel het Marketing Story met een Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
-title: Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid
+title: Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
-# Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# Vertel het marketingartikel met een [!UICONTROL Opportunity Influence Analyzer] {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in belangrijke kansen te illustreren. Toon hoe marketing een kans beïnvloedde, van eerste aanraking tot opportuniteitsschepping en win, en verder.
+Gebruik een [!UICONTROL Opportunity Influence Analyzer] om de rol van marketing in belangrijke kansen te illustreren. Toon hoe marketing een kans beïnvloedde, van eerste aanraking tot opportuniteitsschepping en win, en verder.
 
 >[!PREREQUISITES]
 >
->[Een Opportunity Influence Analyzer maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[ Een [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) maken
 
-1. Ga naar **Analyse** en selecteert u de **Opportunity Influence Analyzer**.
+1. Ga naar **[!UICONTROL Analytics]** en selecteer de **[!UICONTROL Opportunity Influence Analyzer]** .
 
    ![](assets/analytics-opportunityhand.png)
 
-   De analyse van de Invloed van de Kans is een visuele vertegenwoordiging van de interactie en programma en gebeurtenissuccessen betrokken bij die kans. Laten we de grafiek verkennen:
+   [!UICONTROL Opportunity Influence Analyzer] is een visuele weergave van de interacties en programma- en gebeurtenissuccessen die bij die gelegenheid zijn betrokken. Laten we de grafiek verkennen:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Oranje stippen** Dit zijn interessante momenten in de opportuniteit (e-mails geopend, winkelbezoeken, downloads enz.). Grotere stippen geven meer interacties aan.
+   * ![ - ](assets/image2014-10-3-13-3a43-3a21.png) **Oranje stippen** vertegenwoordigen interessante momenten in de kans (e-mails geopend, handelsbeurtenbezoeken, whitepaper downloads, enz.). Grotere stippen geven meer interacties aan.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Bindingspictogrammen** geeft de resultaten van het programma aan.
+   * ![ - ](assets/image2014-10-3-13-3a44-3a9.png) **de pictogrammen van de Bindder** wijzen op programmasuccessen.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalenderpictogrammen** Gebeurtenis aangeven.
+   * ![ - ](assets/image2014-10-3-13-3a44-3a40.png) **de pictogrammen van de Kalender** wijzen op gebeurtenissuccessen.
 
-   * **Opportuniteitsperiode**. Het groene gebied biedt de mogelijkheid zelf, van het creëren van kansen tot het sluiten van kansen (gewonnen of verloren).
+   * **periode van de Kans**. Het groene gebied biedt de mogelijkheid zelf, van het creëren van kansen tot het sluiten van kansen (gewonnen of verloren).
 
-   * **Levenscyclus van kansen**. De grijze gebieden voor en na de groene opportuniteitsperiode laten de interacties zien die tot de kans hebben geleid en deze hebben gevolgd.
+   * **het levenscyclus van de Kans**. De grijze gebieden voor en na de groene opportuniteitsperiode laten de interacties zien die tot de kans hebben geleid en deze hebben gevolgd.
 
-   De **Instellingen** worden de personen van het account weergegeven:
+   In het deelvenster **[!UICONTROL Settings]** worden de personen van de account weergegeven:
 
-   * De **getal tussen haakjes** is het aantal interactie met die contactpersoon.
+   * Het **aantal tussen haakjes** is het aantal interactie met dat contact.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)De **gele ster** Hiermee wordt de primaire contactpersoon aangegeven.
+   * ![ - ](assets/image2014-10-3-13-3a45-3a9.png) de **gele ster** wijst op het primaire contact.
 
 1. Houd de muisaanwijzer boven een naam om de functie van die persoon en de bron van zijn betrokkenheid bij de kans te zien.
 
@@ -61,4 +61,4 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
    >[!MORELIKETHIS]
    >
-   >[Een Opportunity Influence Analyzer configureren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[ Vorm een [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

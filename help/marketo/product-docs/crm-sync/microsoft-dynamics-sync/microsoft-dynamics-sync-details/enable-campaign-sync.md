@@ -3,26 +3,26 @@ description: Campagne synchroniseren inschakelen - Marketo Docs - Productdocumen
 title: Campagne synchroniseren inschakelen
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
 # Campagne synchroniseren inschakelen {#enable-campaign-sync}
 
-Met deze optie kan Marketo Engage leden toevoegen aan en verwijderen uit de campagne voor dynamiek van MS.
+Met deze optie kan Marketo leden toevoegen aan en verwijderen uit [!DNL MS Dynamics] -campagne.
 
 >[!PREREQUISITES]
 >
->Update naar de nieuwste versie van de insteekmodule Dynamics voor Marketo.
+>Voer een update uit naar de meest recente versie van de [!DNL Dynamics] -plug-in voor Marketo.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Klik in Mijn Marketo op **[!UICONTROL Admin]**.
+1. Klik in de **[!UICONTROL My Marketo]** op **[!UICONTROL Admin]** .
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -30,16 +30,16 @@ Met deze optie kan Marketo Engage leden toevoegen aan en verwijderen uit de camp
 
    ![](assets/enable-campaign-sync-2.png)
 
-1. Klik onder Synchronisatieopties op **[!UICONTROL Edit]**.
+1. Klik onder **[!UICONTROL Sync Options]** op **[!UICONTROL Edit]** .
 
    ![](assets/enable-campaign-sync-3.png)
 
-1. Selecteer de **[!UICONTROL Enable Microsoft Dynamics Campaign Sync]** selectievakje en klik op **[!UICONTROL Save]**.
+1. Selecteer het selectievakje **[!UICONTROL Enable Microsoft Dynamics Campaign Sync]** en klik op **[!UICONTROL Save]** .
 
    ![](assets/enable-campaign-sync-4.png)
 
-Daar heb je het. Geef de synchronisatie gewoon wat tijd om de gegevens van Microsoft Dynamics op te halen en u kunt er goed aan doen.
+Daar heb je het. Geef de synchronisatie gewoon wat tijd om de gegevens van [!DNL Microsoft Dynamics] te halen en u kunt er goed aan doen.
 
 >[!NOTE]
 >
->Het terugstellen van de de controledoos van de Synchronisatie van de Campagne van de Dynamiek zal alle eerder gesynchroniseerde gegevens van de Campagne en de verenigingen met de Lijst van de Marketing in Dynamiek verfrissen.
+>Als u het selectievakje [!DNL Dynamics] Campagne Sync opnieuw instelt, worden alle eerder gesynchroniseerde Campagnegegevens en de koppelingen naar de Marketinglijsten in [!DNL Dynamics] vernieuwd.

@@ -4,16 +4,16 @@ description: De Lead Feed gebruiken - Marketo Docs - Productdocumentatie
 title: De Lead Feed gebruiken
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
 # De Lead Feed gebruiken {#using-the-lead-feed}
 
-De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw leads worden uitgevoerd. U vindt het op de rechterkant wanneer u op het tabblad Marketo klikt. Het is als een RSS- of Twitter-feed - de meest recente updates staan boven aan de lijst. Gebruik dit om naar voorsprong te springen terwijl je nog vers in hun hoofd bent.
+De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw leads worden uitgevoerd. U vindt het op de rechterkant wanneer u op het tabblad Marketo klikt. Het is als een RSS- of [!DNL Twitter] -feed - de meest recente updates staan boven aan de lijst. Gebruik dit om naar voorsprong te springen terwijl je nog vers in hun hoofd bent.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw le
 
 Elk item in de hoofdfeed is een interessant moment - een opmerkelijke activiteit of gebeurtenis in de marketinggeschiedenis van deze lead.
 
-Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
+Wanneer u deze weergeeft in [!DNL Salesforce] , heeft elk item de volgende opties:
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -40,11 +40,11 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
    <td><p>Beschrijving</p></td> 
   </tr> 
   <tr> 
-   <td><p>A. Lead/contactpersoon</p></td> 
+   <td><p>A. Leider/contactpersoon</p></td> 
    <td><p>Persoon die dit interessante moment had</p></td> 
   </tr> 
   <tr> 
-   <td><p>B. Type gebeurtenis</p></td> 
+   <td><p>B. Gebeurtenistype</p></td> 
    <td><p>Categorie voor dit moment — web, e-mail of mijlpaal</p></td> 
   </tr> 
   <tr> 
@@ -56,7 +56,7 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
    <td><p>Wanneer dit interessante moment optrad</p></td> 
   </tr> 
   <tr> 
-   <td><p>E. Gebeurtenisbeschrijving</p></td> 
+   <td><p>E. Beschrijving van gebeurtenis</p></td> 
    <td><p>Reden voor dit interessante moment</p></td> 
   </tr> 
   <tr> 
@@ -64,7 +64,7 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
    <td><p>E-mailmelding ontvangen voor gebeurtenissen als deze</p></td> 
   </tr> 
   <tr> 
-   <td><p>G. Ster</p></td> 
+   <td><p>G. Star</p></td> 
    <td><p>Deze persoon is een Best Bet (hoge prioriteit)</p></td> 
   </tr> 
  </tbody> 
@@ -72,9 +72,9 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
 
 ## RSS-updates ophalen {#getting-rss-updates}
 
-U kunt ook updates voor Diervoeder voor leads ophalen via RSS-feed.  Met een RSS-feed kunt u updates op uw leads ontvangen, zelfs als u niet bent verbonden met Salesforce. Het diervoeder heeft dezelfde informatie als het voeder voor lood in Salesforce en de volgende informatie (indien beschikbaar):
+U kunt ook updates voor Diervoeders voor leads ophalen via RSS-feed.  Met een RSS-feed kunt u updates op uw leads ontvangen, zelfs als u niet bent verbonden met [!DNL Salesforce] . De feed heeft dezelfde informatie als de feed Lead in [!DNL Salesforce] en de volgende informatie (indien beschikbaar):
 
-* e-mailadres
+* mailadres
 * telefoonnummer
 * mobiel nummer
 * faxnummer
@@ -83,7 +83,7 @@ U kunt ook updates voor Diervoeder voor leads ophalen via RSS-feed.  Met een RSS
 
 >[!NOTE]
 >
->De Marketo-beheerder van uw bedrijf moet [RSS-feeds inschakelen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) om dit te laten werken.
+>De beheerder van Marketo van uw bedrijf moet [ het voer van RSS ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
 
 Voor RSS-updates hebt u twee dingen nodig: de RSS-koppeling en een RSS-voederlezer. U kunt de RSS-koppeling ophalen door op het RSS-pictogram in de lead feed te klikken:
 

@@ -4,24 +4,24 @@ description: Groepen beheren - Marketo Docs - Productdocumentatie
 title: Groepen beheren
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Groepen beheren {#manage-groups}
 
-Leer hoe u uw groepen beheert in Sales Connect.
+Leer hoe u uw groepen beheert in [!DNL Sales Connect] .
 
 ## Een groep maken {#create-a-group}
 
-1. Klik op de pagina Personen op de knop **+** naast Groepen.
+1. Klik op de pagina [!UICONTROL People] op **+** naast [!UICONTROL Groups] .
 
    ![](assets/one-4.png)
 
-1. Geef uw groep een naam en klik op **Maken**.
+1. Geef de groep een naam en klik op **[!UICONTROL Create]** .
 
    ![](assets/two-3.png)
 
@@ -29,19 +29,19 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
 ## Contactpersonen toevoegen aan een groep {#add-contacts-to-a-group}
 
-1. Zoek op de pagina Personen naar de groep waaraan u personen wilt toevoegen en selecteer deze groep.
+1. Zoek op de pagina [!UICONTROL People] naar de groep waaraan u personen wilt toevoegen en selecteer deze groep.
 
    ![](assets/three-3.png)
 
-1. Klikken **Handelingen groeperen** en selecteert u **Contactpersoon maken**.
+1. Klik op **[!UICONTROL Group Actions]** en selecteer **[!UICONTROL Create Contact]** .
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [deze stappen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [ deze stappen ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Vul de contactgegevens in en klik op **Maken** (of **Nieuw maken en toevoegen** om een andere toe te voegen).
+1. Vul de contactgegevens in en klik op **[!UICONTROL Create]** (of **[!UICONTROL Create and Add New]** om een andere contactpersoon toe te voegen).
 
    ![](assets/five-3.png)
 
@@ -53,11 +53,11 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
 ## Een groep delen {#share-a-group}
 
-1. Zoek en selecteer op de pagina Personen de groep die u wilt delen.
+1. Zoek op de pagina [!UICONTROL People] naar de groep die u wilt delen en selecteer deze.
 
    ![](assets/six.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Delen**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Share]** .
 
    ![](assets/seven.png)
 
@@ -65,23 +65,23 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    ![](assets/eight.png)
 
-1. Klikken **Delen**.
+1. Klik op **[!UICONTROL Share]**.
 
    ![](assets/nine.png)
 
-   U hebt nog steeds de groep, maar deze wordt nu weergegeven onder Teamgroepen.
+   U hebt nog steeds de groep, maar deze wordt nu onder [!UICONTROL Team Groups] weergegeven.
 
 ## Delen van een groep opheffen {#unshare-a-group}
 
-1. Zoek en selecteer op de pagina Personen de groep waarvan u het delen wilt opheffen.
+1. Zoek op de pagina [!UICONTROL People] naar de groep waarvan u het delen wilt opheffen en selecteer deze.
 
    ![](assets/ten.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Delen**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Share]** .
 
    ![](assets/eleven.png)
 
-1. Klik op de knop **X** naast het team u de groep met deelde, dan klik uit modaal.
+1. Klik **X** naast het team u de groep met deelde, dan klik uit modaal.
 
    ![](assets/twelve.png)
 
@@ -89,11 +89,11 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
 ## De naam van een groep wijzigen {#rename-a-group}
 
-1. Zoek op de pagina Personen naar de groep waarvan u de naam wilt wijzigen en selecteer deze groep.
+1. Zoek op de pagina [!UICONTROL People] naar de groep waarvan u de naam wilt wijzigen en selecteer deze.
 
    ![](assets/six.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Naam wijzigen**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Rename]** .
 
    ![](assets/thirteen.png)
 
@@ -103,14 +103,14 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
 ## Een groep verwijderen {#delete-a-group}
 
-1. Zoek en selecteer op de pagina Personen de groep die u wilt verwijderen.
+1. Zoek op de pagina [!UICONTROL People] naar de groep die u wilt verwijderen en selecteer deze.
 
    ![](assets/fifteen.png)
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer **Verwijderen**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Delete]** .
 
    ![](assets/sixteen.png)
 
-1. Klikken **Verwijderen** ter bevestiging.
+1. Klik op **[!UICONTROL Delete]** om te bevestigen.
 
    ![](assets/seventeen.png)

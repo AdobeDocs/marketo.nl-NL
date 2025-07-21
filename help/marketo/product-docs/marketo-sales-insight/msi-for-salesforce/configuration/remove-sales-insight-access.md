@@ -1,24 +1,24 @@
 ---
-description: Toegang tot verkoopinzicht verwijderen - Marketo-documenten - productdocumentatie
-title: Toegang tot verkoopinzicht verwijderen
+description: Verkoop Insight Access verwijderen - Marketo Docs - Productdocumentatie
+title: Insight-toegang voor verkoop verwijderen
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 1%
 
 ---
 
-# Toegang tot verkoopinzicht verwijderen {#remove-sales-insight-access}
+# Toegang [!DNL Sales Insight] verwijderen {#remove-sales-insight-access}
 
-Gebruik de volgende stappen om toegang tot de eigenschappen van het Inzicht van de Verkoop in Salesforce te verwijderen. Van toepassing op Salesforce Classic en Lightning.
+Gebruik de volgende stappen om de toegang tot [!DNL Sales Insight] -functies in [!DNL Salesforce] te verwijderen. Van toepassing op [!DNL Salesforce] Klassieke en Bliksem.
 
 ## Overzicht {#overview}
 
-Toestemming tot de hieronder vermelde voorwerpen, apex klassen, en visualforce pagina&#39;s wordt vereist om tot alle eigenschappen van het Inzicht van de Verkoop toegang te hebben. Als u deze instellingen verwijdert, wordt de toegang tot Sales Insight verwijderd.
+Toestemming voor de objecten hieronder, apex-klassen en pagina&#39;s met visuele kracht is vereist om toegang te krijgen tot alle [!DNL Sales Insight] -functies. Als u deze verwijdert, wordt de toegang tot [!DNL Sales Insight] verwijderd.
 
-**Objectinstellingen**
+**de Montages van Objecten**
 
 <table> 
  <tbody> 
@@ -27,11 +27,11 @@ Toestemming tot de hieronder vermelde voorwerpen, apex klassen, en visualforce p
    <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
   </tr> 
   <tr> 
-   <td>Gegevens beste biets</td> 
+   <td>[!DNL Best Bets] Details weergeven</td> 
    <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
   </tr> 
   <tr> 
-   <td>Weergaven beste ets</td> 
+   <td>[!DNL Best Bets] Weergaven</td> 
    <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
   </tr> 
   <tr> 
@@ -51,7 +51,7 @@ Toestemming tot de hieronder vermelde voorwerpen, apex klassen, en visualforce p
    <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
   </tr> 
   <tr> 
-   <td>Marketo Sales Insight Config</td> 
+   <td>[!DNL Marketo Sales Insight] Config</td> 
    <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
   </tr> 
   <tr> 
@@ -70,67 +70,67 @@ Toestemming tot de hieronder vermelde voorwerpen, apex klassen, en visualforce p
 </table>
 
 * Toegang tot Apex-klasse: 159 Apex-klassen die beginnen met &quot;mkto_si&quot;
-* Toegang tot visuale pagina: 64 Visuale pagina&#39;s die beginnen met &quot;mkto_si&quot;
-* Definities aangepaste instelling: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
+* Visualforce Page Access: 64 Visualforce-pagina&#39;s die beginnen met &quot;mkto_si&quot;
+* Definities voor aangepaste instellingen: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
 
-## Het verwijderen van Toegang tot het Inzicht van de Verkoop {#removing-access-to-sales-insight}
+## Toegang tot [!DNL Sales Insight] verwijderen {#removing-access-to-sales-insight}
 
-1. Meld u aan bij uw Salesforce-account.
+1. Meld u aan bij uw [!DNL Salesforce] -account.
 
-1. Klikken **Instellen**.
+1. Klik op **[!UICONTROL Setup]**.
 
    ![](assets/remove-sales-insight-access-1.png)
 
-1. Klik onder Beheerder op **Gebruikers beheren** vervolgens **Profielen**.
+1. Klik onder [!UICONTROL Administrator] op **[!UICONTROL Manage Users]** en vervolgens op **[!UICONTROL Profiles]** .
 
-1. Klik op het profiel dat u wilt bijwerken en klik vervolgens op **Bewerken**.
+1. Klik op het profiel dat u wilt bijwerken en klik vervolgens op **[!UICONTROL Edit]** .
 
-1. Blader omlaag naar &quot;Aangepaste tabinstellingen&quot; onder Tabinstellingen.
+1. Schuif omlaag naar &quot;[!UICONTROL Custom Tab Settings]&quot; onder [!UICONTROL Tab Settings] .
 
-1. Selecteer de optie &quot;Tab Hidden&quot; in de vervolgkeuzelijst voor Marketo Sales Insight Config en MSI Marketo Sales Outbox.
+1. Selecteer de optie &quot;[!UICONTROL Tab Hidden]&quot; in de vervolgkeuzelijst voor [!DNL Marketo Sales Insight] Configuratie en MSI [!DNL Marketo Sales] in het Postvak UIT.
 
    ![](assets/remove-sales-insight-access-2.png)
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. Schuif omlaag naar &quot;Aangepaste objectmachtigingen&quot;.
+1. Schuif omlaag naar &quot;[!UICONTROL Custom Object Permissions]&quot;.
 
 1. Verwijder de toegang &quot;Lezen, Maken, Bewerken, Verwijderen&quot; uit de volgende objecten:
 
    * BestBetsCache
-   * Gegevens beste biets
-   * Weergaven beste ets
+   * [!DNL Best Bets] Details weergeven
+   * [!DNL Best Bets] Weergaven
    * EmailActivityCache
    * GetMethodArgus
    * GroupedWebActivityCache
    * InterestingMomentsCache
-   * Marketo Sales Insight Config
+   * [!DNL Marketo Sales Insight] Config
    * ScoringCache
    * Waarden
    * WebActivityCache
 
-1. Blader omlaag naar de sectie &quot;Enabled Apex Class Access&quot;. Klikken **Bewerken**.
+1. Schuif omlaag naar de sectie &quot;[!UICONTROL Enabled Apex Class Access]&quot;. Klik op **[!UICONTROL Edit]**.
 
-1. Selecteer in de sectie &quot;Ingeschakelde Apex-klassen&quot; alle klassen die met &quot;mkto_si&quot; beginnen. Dit zou tot 159 klassen moeten toevoegen.
+1. Selecteer in de sectie &quot;[!UICONTROL Enabled Apex Classes]&quot; alle klassen die met &quot;mkto_si&quot; beginnen. Dit zou tot 159 klassen moeten toevoegen.
 
-1. Klikken **Verwijderen** vervolgens **Opslaan**.
+1. Klik op **[!UICONTROL Remove]** en vervolgens op **[!UICONTROL Save]** .
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. Schuif omlaag naar de sectie &#39;Ingeschakelde visuale paginatoegang&#39;. Klikken **Bewerken**.
+1. Schuif omlaag naar de sectie &quot;[!UICONTROL Enabled Visualforce Page Access]&quot;. Klik op **[!UICONTROL Edit]**.
 
-1. Selecteer in de sectie &quot;Ingeschakelde visuele pagina&#39;s&quot; alle pagina&#39;s die met &quot;mkto_si&quot; beginnen. Dit zou tot 64 pagina&#39;s moeten optellen.
+1. Selecteer in de sectie &quot;[!UICONTROL Enabled Visualforce Pages]&quot; alle pagina&#39;s die met &quot;mkto_si&quot; beginnen. Dit zou tot 64 pagina&#39;s moeten optellen.
 
-1. Klikken **Verwijderen** vervolgens **Opslaan**.
+1. Klik op **[!UICONTROL Remove]** en vervolgens op **[!UICONTROL Save]** .
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. Blader omlaag naar de sectie &quot;Enabled Custom Setting Definitions Access&quot;. Klikken **Bewerken**.
+1. Schuif omlaag naar de sectie &quot;[!UICONTROL Enabled Custom Setting Definitions Access]&quot;. Klik op **[!UICONTROL Edit]**.
 
 1. Selecteer &quot;Marketo Sales Insight.mkto_si.Marketo Settings&quot; en &quot;Marketo Sales Insight.mkto_si.User Preferences&quot;.
 
-1. Klikken **Verwijderen** vervolgens **Opslaan**.
+1. Klik op **[!UICONTROL Remove]** en vervolgens op **[!UICONTROL Save]** .
 
    ![](assets/remove-sales-insight-access-6.png)
 
-Dat is het! Je hebt de toegang tot Verkoopinzicht verwijderd. Herhaal dezelfde stappen voor elk ander profiel waarvoor u toegang wilt verwijderen.
+Dat is het! U hebt de toegang tot [!DNL Sales Insight] verwijderd. Herhaal dezelfde stappen voor elk ander profiel waarvoor u toegang wilt verwijderen.

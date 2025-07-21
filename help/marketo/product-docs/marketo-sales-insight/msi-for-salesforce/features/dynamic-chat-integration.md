@@ -1,52 +1,52 @@
 ---
-description: Integratie van Dynamics Chat - Marketo Docs - Productdocumentatie
+description: Dynamic Chat Integration - Marketo Docs - Productdocumentatie
 title: Dynamic Chat-integratie
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
 
 # Dynamic Chat-integratie {#dynamic-chat-integration}
 
-Meer weten over de integratie van Dynamics Chat met Sales Insight?
+Meer weten over de Dynamic Chat-integratie met Sales Insight?
 
 >[!PREREQUISITES]
 >
->* Het SFDC-pakket voor het instellen van verkoopgegevens moet een versie zijn [2.4.0 of hoger](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Uw pakket van Insight SFDC van de Verkoop moet versie [ 2.4.0 of hoger zijn ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* U moet beschikken over [Integratie van Dynamics Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} instellen
+>* U moet de [ integratie van Dynamic Chat ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} opstelling hebben
 >
->* Zorg ervoor dat je verkoopgegevens worden weergegeven [Operationele instellingen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Zorg ervoor in uw Verkoop Insight [ Operationele Montages ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, hebt u het &quot;Geheime Toegelaten Sleutel van API&quot;gebied. Als u niet, leer hoe te om het [ hier ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"} terug te winnen.
 
-## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight] Tabblad Configuratie {#marketo-sales-insight-configuration-tab}
 
-Volg de onderstaande stappen om de integratie van de Dynamic Chat in te schakelen.
+Voer de onderstaande stappen uit om de [!DNL Dynamic Chat] -integratie in te schakelen.
 
-1. Meld u aan bij uw Salesforce-account, klik op + aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
+1. Meld u aan bij uw [!DNL Salesforce] -account, klik op + aan het einde van de tabbalk en klik op **[!DNL Marketo Sales Insight Config]** .
 
-1. Klik om het deelvenster Visualforce ongedaan te maken.
+1. Klik om &quot;[!UICONTROL Visualforce Panel]&quot;ongedaan te maken.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Selecteer de **Gegevens Dynamic Chat inschakelen** selectievakje.
+1. Schakel het selectievakje **[!UICONTROL Enable Dynamic Chat Data]** in.
 
    ![](assets/dynamic-chat-integration-2.png)
 
 ## Overzicht van functies {#feature-overview}
 
-De volgende activiteiten van de Dynamic Chat kunnen door de gebruikers van het Inzicht van de Verkoop worden gebruikt...
+De volgende [!DNL Dynamic Chat] -activiteiten kunnen worden benut door [!DNL Sales Insight] -gebruikers...
 
-Dialoogvenster Ingesloten: Wordt geregistreerd in Marketo en gevuld in Sales Insight wanneer een bezoeker op een chatbot klikt en de dialoog aansluit.
+Dialoogvenster Ingesloten: Wordt geregistreerd in Marketo en gevuld in [!DNL Sales Insight] wanneer een bezoeker op een chatbot klikt en het dialoogvenster opent.
 
 * Dialoognaam
 * Pagina-URL
 * Status (geïnitieerd/verwijderd/voltooid)
 
-Geplande benoeming: Aangemeld in Marketo en ingevuld in Sales Insight wanneer een bezoeker met succes een afspraak plant via het chatbot.
+Geplande afspraak: aangemeld in Marketo en ingevuld in [!DNL Sales Insight] wanneer een bezoeker een afspraak heeft gepland via het chatbot.
 
 * Dialoognaam
 * Agent
@@ -54,13 +54,13 @@ Geplande benoeming: Aangemeld in Marketo en ingevuld in Sales Insight wanneer ee
 * Gepland op (datum- en tijdstempel invoegen)
 * Status (Gepland, Opnieuw gechedeld, Geannuleerd)
 
-Streepjesdoel bereikt: Wordt geregistreerd in Marketo en gevuld in Verkoopinzicht wanneer een bezoeker een doel bereikt in een willekeurige dialoogstroom.
+Doelstelling bereikt: Wordt aangemeld in Marketo en wordt ingevuld in [!DNL Sales Insight] wanneer een bezoeker een doel bereikt in een willekeurige dialoogstroom.
 
 * Dialoognaam
 * Doelnaam
 * Pagina-URL
 
-Interactief met document: Wordt geregistreerd in Marketo en gevuld in Sales Insight wanneer een bezoeker communiceert met een document dat via het chatbot wordt gedeeld.
+Interactief met document: Wordt geregistreerd in Marketo en wordt ingevuld in [!DNL Sales Insight] wanneer een bezoeker communiceert met een document dat via het chatbot wordt gedeeld.
 
 * Dialoognaam
 * Document
@@ -70,7 +70,7 @@ De activiteiten van het Praatje zijn beschikbaar in het Dashboard van Inzichten.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-Het tabblad Chat is beschikbaar in de deelvensters Lood en Contactpersoon. Het omvat Type van Activiteit, de Naam van de Dialoog en de kolommen van de Datum.
+Het tabblad Chat is beschikbaar in de deelvensters Lood en Contactpersoon. Deze bevat [!UICONTROL Activity Type] -, [!UICONTROL Dialogue Name] - en [!UICONTROL Date] -kolommen.
 
 ![](assets/dynamic-chat-integration-4.png)
 
@@ -78,17 +78,17 @@ U kunt meer over een type activiteit leren door op het te klikken.
 
 ![](assets/dynamic-chat-integration-5.png)
 
-Ook de deelvensters Account en Opportunity bevatten de kolommen Naam, Type activiteit, Naam van dialoogvenster en Datum.
+Op dezelfde manier bevatten de deelvensters Account en Opportunity de kolommen [!UICONTROL Name] , [!UICONTROL Activity Type] , [!UICONTROL Dialogue Name] en [!UICONTROL Date] .
 
 ![](assets/dynamic-chat-integration-6.png)
 
-Het tabblad Chatten vindt u ook op het tabblad Global Marketo. Het omvat drie activiteitstypes (de Geëngageerde Dialoog, Geplande Benoeming, Gebereikt Doel), samen met de volgende kolommen:
+Het tabblad Chatten vindt u ook op het tabblad Global Marketo. Deze omvat drie activiteitstypen ([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal]), samen met de volgende kolommen:
 
-* Persoon
-* Account
-* Type activiteit (dialoog met deelnemers, geplande benoeming, bereikt doel)
-* Dialoognaam
-* Datum- en tijdstempel
+* [!UICONTROL Person]
+* [!UICONTROL Account]
+* [!UICONTROL Activity type] ([!UICONTROL Engaged Dialogue] , [!UICONTROL Scheduled Appointment] , [!UICONTROL Reached Goal])
+* [!UICONTROL Dialogue Name]
+* [!UICONTROL Date]
 
 U kunt meer informatie over een type activiteit krijgen door erop te klikken.
 
@@ -96,7 +96,7 @@ U kunt meer informatie over een type activiteit krijgen door erop te klikken.
 
 >[!NOTE]
 >
->Als het selectievakje Gegevens Dynamic Chat inschakelen is uitgeschakeld, worden de volgende functies uitgeschakeld:
+>Als het selectievakje &quot;[!UICONTROL Enable Dynamic Chat data]&quot; is uitgeschakeld, worden de volgende functies uitgeschakeld:
 >
 >* Rij met chatactiviteiten op het dashboard Inzichten (weergave van slimme rasters en wekelijkse lijsten)
 >* Tabblad Chatten in de deelvensters Lead, Contact, Account en Opportunity

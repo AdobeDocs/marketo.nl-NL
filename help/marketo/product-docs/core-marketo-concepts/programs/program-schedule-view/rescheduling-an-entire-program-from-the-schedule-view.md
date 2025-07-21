@@ -4,9 +4,9 @@ description: Een volledig programma opnieuw instellen vanuit de overzichtsweerga
 title: Het opnieuw bepalen van een Hele Programma van de Mening van het Programma
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Wanneer u een programma of gebeurtenis met datums kloont, wilt u waarschijnlijk 
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Selecteer de vervolgkeuzelijst Gebeurtenisactie. Kies **[!UICONTROL Reschedule Entries]**.
+1. Selecteer de vervolgkeuzelijst Gebeurtenisactie. Kies **[!UICONTROL Reschedule Entries]** .
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Selecteer een ankeritem. Op basis van deze verplaatsing worden alle andere items samen verplaatst.
+1. Selecteer een [!UICONTROL Anchor Entry] . Op basis van deze verplaatsing worden alle andere items samen verplaatst.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. Kies de nieuwe begindatum.
+1. Kies de [!UICONTROL New Start] datum.
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
@@ -41,7 +41,7 @@ Wanneer u een programma of gebeurtenis met datums kloont, wilt u waarschijnlijk 
 
 >[!NOTE]
 >
->Elementen die al zijn uitgevoerd, worden niet verplaatst.
+>Assets die al is gestart, wordt niet verplaatst.
 
 Alles is nu opnieuw gepland. Pas zo nodig specifieke datums aan.
 

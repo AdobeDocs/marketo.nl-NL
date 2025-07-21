@@ -4,9 +4,9 @@ description: Personen in uw gebeurtenis inchecken via uw tablet - Marketo Docs -
 title: Personen in uw gebeurtenis controleren via uw tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Wanneer mensen bij de gebeurtenis verschijnen, kunt u hun informatie in de app v
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-De app werkt op beide manieren hetzelfde [!DNL iPad] en [!DNL Android], behalve voor kleine opmaakverschillen en ontwerpverschillen.
+De app werkt hetzelfde voor zowel [!DNL iPad] als [!DNL Android] , behalve voor kleine layout- en ontwerpverschillen.
 
 >[!PREREQUISITES]
 >
@@ -27,19 +27,19 @@ De app werkt op beide manieren hetzelfde [!DNL iPad] en [!DNL Android], behalve 
 
 ## Geregistreerde gasten inchecken {#check-in-registered-guests}
 
-1. Tik op het pictogram van de app op uw [!DNL iPad] of [!DNL Android] tablet.
+1. Tik op het app-pictogram op uw [!DNL iPad] - of [!DNL Android] -tablet.
 
-1. Tikken **[!UICONTROL Login]** om de Marketo Event-app te starten.
+1. Tik op **[!UICONTROL Login]** om de Marketo Event-app te starten.
 
    ![](assets/1.jpg)
 
-1. Voer uw Marketo-gebruikersnaam en -wachtwoord in en klik op **[!UICONTROL Login]**.
+1. Voer uw Marketo-gebruikersnaam en -wachtwoord in en klik op **[!UICONTROL Login]** .
 
    >[!NOTE]
    >
    >U moet een rol met toegang tot het Gegevensbestand hebben om mensen in app te zien.
 
-1. Selecteer een **[!UICONTROL Event]**.
+1. Selecteer een **[!UICONTROL Event]** .
 
    ![](assets/2.jpg)
 
@@ -55,7 +55,7 @@ De app werkt op beide manieren hetzelfde [!DNL iPad] en [!DNL Android], behalve 
 
    >[!NOTE]
    >
-   >Het proces is hetzelfde op [!DNL iPad] en [!DNL Android], maar de schermen verschillen, en de items kunnen zich op verschillende locaties bevinden. In dit artikel worden de [!DNL iPad] interface. Vergelijk de [!DNL Android] in deze sectie ter referentie.
+   >Het proces is op [!DNL iPad] en [!DNL Android] hetzelfde, maar de schermen verschillen en de items kunnen zich op verschillende locaties bevinden. In dit artikel wordt de interface van [!DNL iPad] weergegeven. Vergelijk het [!DNL Android] -scherm in deze sectie ter referentie.
 
    **[!DNL iPad]**
 
@@ -65,11 +65,11 @@ De app werkt op beide manieren hetzelfde [!DNL iPad] en [!DNL Android], behalve 
 
    ![](assets/image2016-4-15-14-3a50-3a19.png)
 
-1. Tik op de geselecteerde naam en tik in de persoonlijke record op **[!UICONTROL Check-in]**.
+1. Tik op de geselecteerde naam en tik op de naam van de persoon in de record **[!UICONTROL Check-in]** .
 
    ![](assets/img-0068-35-hands.png)
 
-De gast heeft nu de status Bijgewoond, en ontvangt een vinkje. De persoonrecord wordt bijgewerkt wanneer u synchroniseert met Marketo. De rode teller op de knoop van de Synchronisatie stijgt om het aantal controles sinds laatste synchronisatie met Marketo te tonen. De knop Sync ziet er anders uit en bevindt zich op een andere locatie voor [!DNL iPad] en [!DNL Android]:
+De gast heeft nu de status Bijgewoond, en ontvangt een vinkje. De persoonrecord wordt bijgewerkt wanneer u synchroniseert met Marketo. De rode teller op de knoop van de Synchronisatie stijgt om het aantal controles sinds laatste synchronisatie met Marketo te tonen. De knop Sync ziet er anders uit en bevindt zich op een andere locatie voor [!DNL iPad] en [!DNL Android] :
 
 **[!DNL iPad]**
 
@@ -81,7 +81,7 @@ De gast heeft nu de status Bijgewoond, en ontvangt een vinkje. De persoonrecord 
 
 >[!TIP]
 >
->Als een persoon is uitgenodigd maar niet is geregistreerd, kunt u naar de naam zoeken door op **[!UICONTROL Search on Server]**, net onder het vak Zoeken. De status Uitgenodigd verandert in **[!UICONTROL Attended]** voor de gebeurtenis.
+>Als een persoon is uitgenodigd maar niet is geregistreerd, kunt u naar de naam zoeken door op **[!UICONTROL Search on Server]** te klikken, net onder het vak Zoeken. De uitgenodigde status verandert in **[!UICONTROL Attended]** voor de gebeurtenis.
 
 ## Een nieuwe persoon op de tablet maken {#create-a-new-person-on-the-tablet}
 
@@ -97,7 +97,7 @@ U kunt gasten handmatig toevoegen die geen bestaande personen zijn in uw Marketo
 
    ![](assets/image2016-4-15-15-3a2-3a38.png)
 
-1. Vul zo veel mogelijk basisinformatievelden in en tik op **[!UICONTROL Done]**.
+1. Vul zoveel mogelijk basisinformatievelden in als u kunt en tik op **[!UICONTROL Done]** .
 
    ![](assets/image2016-4-15-11-3a33-3a59.png)
 
@@ -113,9 +113,9 @@ De nieuwe persoon is geregistreerd als ingecheckt bij uw gebeurtenis en wordt to
 
 ## Een inchecken omkeren {#reverse-a-check-in}
 
-Als u per ongeluk iemand hebt ingecheckt, _voordat u synchroniseert met Marketo_ kunt u de status Bijgewoond omkeren.
+Als u in een persoon door fout controleerde, _alvorens u met Marketo_ synchroniseerde, kunt u de [!UICONTROL Attended] status terugkeren.
 
-1. Tik op de naam in de lijst en tik in de persoonlijke record op **[!UICONTROL Undo]**.
+1. Tik op de naam in de lijst en tik op **[!UICONTROL Undo]** in de persoonlijke record.
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
@@ -125,17 +125,17 @@ Als u per ongeluk iemand hebt ingecheckt, _voordat u synchroniseert met Marketo_
 
 U kunt gastinformatie, juist bij de gebeurtenis toevoegen en wijzigen!
 
-1. Tik op de naam in de personenlijst en tik op **[!UICONTROL Edit]**.
+1. Tik op de naam in de personenlijst en tik op **[!UICONTROL Edit]** .
 
    ![](assets/image2016-4-15-11-3a43-3a46.png)
 
-1. Bewerk de velden en voeg informatie toe. Tik vervolgens op **[!UICONTROL Done]**.
+1. Bewerk de velden en voeg informatie toe. Tik vervolgens op **[!UICONTROL Done]** .
 
    ![](assets/image2016-4-15-11-3a50-3a18.png)
 
    >[!NOTE]
    >
-   >In [!DNL Android]de **[!UICONTROL Done]** kan verborgen zijn. Schuif omlaag om het te zoeken.
+   >In [!DNL Android] is de knop **[!UICONTROL Done]** mogelijk verborgen. Schuif omlaag om het te zoeken.
 
 De informatie wordt bijgewerkt wanneer u de app synchroniseert met Marketo.
 
@@ -149,7 +149,7 @@ De Marketo Events-app werkt onafhankelijk totdat u uw activiteit weer synchronis
 
 1. Open de app op uw tablet en navigeer naar de gebeurtenis.
 
-1. Tik op **[!UICONTROL Sync]**.
+1. Tik op **[!UICONTROL Sync]** .
 
    Uw gebeurtenis wordt bijgewerkt met nieuwe inchecken in de Marketo-database. De rode teller op de knoop van de Synchronisatie ontruimt, tot u iemand anders binnen controleert.
 

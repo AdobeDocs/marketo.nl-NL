@@ -4,47 +4,47 @@ description: Wat is de integratie van Sales Connect en Highspot? - Marketo Docs 
 title: Wat is de integratie van Sales Connect en Highspot?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Wat is de integratie van Sales Connect en Highspot? {#what-is-the-sales-connect-and-highspot-integration}
+# Wat is de integratie van [!DNL Sales Connect] en [!DNL Highspot] ? {#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect ondersteunt integratie met [Highspot](https://www.highspot.com/), een contentbeheersysteem. Verkoop Connect-klanten die ook Highspot-klanten zijn, hebben vanuit de webtoepassing toegang tot hun Highspot-inhoud.
+[!DNL Sales Connect] steunt integratie met [ Hoogtepunt ](https://www.highspot.com/), een systeem van het inhoudsbeheer. [!DNL Sales Connect] -klanten die ook [!DNL Highspot] -klanten zijn, hebben vanuit de webtoepassing toegang tot hun [!DNL Highspot] -inhoud.
 
 ## Vereisten {#requirements}
 
-U hebt het volgende nodig om de integratie van Sales Connect met Highspot te kunnen gebruiken:
+U hebt het volgende nodig om de [!DNL Sales Connect] -integratie met [!DNL Highspot] te kunnen gebruiken:
 
-* **Browser - Nieuwste versies van Chrome en Safari, Edge, IE of Firefox**
+* **Browser - de recentste versies van [!DNL Chrome] en [!DNL Safari], [!DNL Edge], IE, of Firefox**
 
-Naast het werken in Verkoop Connect in browser, is de integratie van de Highspot beschikbaar in onze cliënt van Vooruitzichten .Net e-mail. De eisen zijn als volgt:
+Naast het werken in [!DNL Sales Connect] in een browser, is de [!DNL Highspot] -integratie beschikbaar in onze [!DNL Outlook .Net] e-mailclient. De eisen zijn als volgt:
 
-* **Outlook.Net en Exchange** - Door Sales Connect ondersteunde versie van Outlook.Net, Exchange Online, Exchange 2016
+* **[!DNL Outlook .Net]&amp;[!DNL Exchange]** - [!DNL Sales Connect] ondersteunde versie van [!DNL Outlook .Net] , [!DNL Exchange Online] , [!DNL Exchange 2016]
 
 >[!NOTE]
 >
->De extensie Sales Connect Gmail biedt momenteel geen ondersteuning voor Highspot-integratie
+>De Gmail-extensie [!DNL Sales Connect] ondersteunt momenteel geen [!DNL Highspot] -integratie
 
-## De integratie van Sales Connect en Highspot inschakelen {#enabling-the-sales-connect-and-highspot-integration}
+## De integratie van [!DNL Sales Connect] en [!DNL Highspot] inschakelen {#enabling-the-sales-connect-and-highspot-integration}
 
-Als u in het toelaten van de Integratie van de Highspot voor uw team geinteresseerd bent, gelieve te contacteren [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support#).
+Als u in het toelaten van de [!DNL Highspot] Integratie voor uw team geinteresseerd bent, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support#) te contacteren.
 
-## Hoe te om de Integratie te gebruiken {#how-to-use-the-integration}
+## Hoe te om de integratie te gebruiken {#how-to-use-the-integration}
 
-Als deze optie eenmaal is ingeschakeld, ziet u hoe u toegang krijgt tot uw Highspot-inhoud in Sales Connect.
+Als deze optie is ingeschakeld, wordt hier uitgelegd hoe u toegang krijgt tot de [!DNL Highspot] -inhoud in [!DNL Sales Connect] .
 
-1. Kies **Inhoud toevoegen**.
+1. Kies [!DNL Sales Connect] wanneer u een e-mailbericht samenstelt in [!DNL Outlook] of **[!UICONTROL Add Content]** .
 
-1. Selecteren **Highspot**.
+1. Selecteer **[!UICONTROL Highspot]** .
 
-1. Voer uw e-mailadres voor uw Highspot-account in en klik op **Doorgaan**.
+1. Voer uw [!DNL Highspot] -account in en klik op **[!UICONTROL Continue]** .
 
-1. Voer het wachtwoord voor uw Highspot-account in en klik op **Aanmelden**.
+1. Voer het wachtwoord voor uw [!DNL Highspot] -account in en klik op **[!UICONTROL Sign In]** .
 
-1. Selecteer de inhoud van Highspot die u in het e-mailbericht of de sjabloon wilt invoegen en klik op **Inhoud toevoegen**.
+1. Selecteer de inhoud uit [!DNL Highspot] die u in het e-mailbericht of de sjabloon wilt invoegen en klik op **[!UICONTROL Add Content]** .
 
 1. De inhoud wordt in de e-mail of sjabloon ingevoegd.

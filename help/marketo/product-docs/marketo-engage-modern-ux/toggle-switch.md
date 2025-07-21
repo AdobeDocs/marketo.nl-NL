@@ -1,32 +1,32 @@
 ---
 description: Schakelen tussen Marketo-documenten - productdocumentatie
-title: Schakelaar schakelen
+title: Schakelen tussen schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# Schakelaar schakelen {#toggle-switch}
+# Schakelen tussen schakelen {#toggle-switch}
 
 Met de schakeloptie schakelt u tussen de klassieke Marketo-interface en de Moderne UX. Het is beschikbaar in alle hieronder gemarkeerde gebieden.
 
 >[!NOTE]
 >
->Als de schakeloptie in-/uitschakelen is geselecteerd, worden alle bestaande workflows automatisch opgeslagen voordat de gebruikersinterface wordt gewijzigd. Als een bewerking al wordt uitgevoerd (bijvoorbeeld: een middel wordt goedgekeurd), zult u een foutenmelding ontvangen die als dusdanig wijst en zou opnieuw moeten proberen nadat de verrichting wordt voltooid.
+>Als de schakeloptie in-/uitschakelen is geselecteerd, worden alle bestaande workflows automatisch opgeslagen voordat de gebruikersinterface wordt gewijzigd. Als een bewerking al wordt uitgevoerd (bijvoorbeeld: een element wordt momenteel goedgekeurd), ontvangt u een foutbericht waarin dit wordt aangegeven. Probeer het opnieuw nadat de bewerking is voltooid.
 
 ## Schakel schakelen tussen voor afzonderlijke rollen {#enable-the-toggle-switch-for-individual-roles}
 
 Schakel de schakeloptie voor afzonderlijke rollen of alle rollen in. Zo gaat het.
 
-1. Klik in Marketo Engage op **Beheer**.
+1. Klik in Marketo Engage op **[!UICONTROL Admin]** .
 
    ![](assets/toggle-switch-1.png)
 
-1. Klikken **Nieuwe ervaring**.
+1. Klik op **[!UICONTROL New Experience]**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -46,11 +46,11 @@ De nieuwe ervaring wordt geladen.
 
 ![](assets/toggle-switch-5.png)
 
-Als u deze wilt inschakelen voor _alles_ klikt u op het tandwielpictogram naast de schakelknop.
+Om het voor _alle_ eigenschappen toe te laten, klik het tandwielpictogram naast de knevelschakelaar.
 
 ![](assets/toggle-switch-6.png)
 
-Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
+Selecteer **[!UICONTROL Enable for all available features]** en klik op **[!UICONTROL OK]** .
 
 ![](assets/toggle-switch-7.png)
 

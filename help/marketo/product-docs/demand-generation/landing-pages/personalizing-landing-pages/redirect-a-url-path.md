@@ -4,9 +4,9 @@ description: Een URL-pad omleiden - Marketo Docs - Productdocumentatie
 title: Een URL-pad omleiden
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,36 +17,36 @@ Met Marketo kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pagina. Z
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Onder **Beheer**, klikt u op **Openingspagina&#39;s**.
+1. Klik onder **[!UICONTROL Admin]** op **[!UICONTROL Landing Pages]** .
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klik op de knop **Regels** tab, en klik vervolgens op **Nieuw** en **Nieuwe omleidingsregel**.
+1. Klik op de tab **[!UICONTROL Rules]** en klik vervolgens op **[!UICONTROL New]** en **[!UICONTROL New Redirect Rule]** .
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Klik op de eerste knop **Oorspronkelijke URL** en selecteer uw Marketo CNAME.
+1. Klik op de eerste vervolgkeuzelijst **[!UICONTROL Original URL]** en selecteer de Marketo CNAME.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
    >[!NOTE]
    >
-   >Je kunt alleen URL&#39;s omleiden die beginnen met je Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+   >Herinner me, kunt u URLs slechts opnieuw richten die met uw Marketo [ CNAME ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
-1. Typ het URL-pad (of de specifieke pagina) dat u in de tweede pagina wilt omleiden **Oorspronkelijke URL** rechts.
+1. Typ het URL-pad (of de specifieke pagina) dat u wilt omleiden in het tweede **[!UICONTROL Original URL]** -veld rechts.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Klikken **Niet-Marketo-bestemmingspagina gebruiken** Typ de pagina waarnaar bezoekers in het dialoogvenster **URL omleiden** en klik op **Maken**.
+1. Klik op **[!UICONTROL Use non-Marketo Landing Page]** , typ de pagina waarnaar u bezoekers wilt omleiden in het veld **[!UICONTROL Redirect URL]** en klik op **[!UICONTROL Create]** .
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   U kunt [Marketo-bestemmingspagina&#39;s gebruiken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) ook als bestemming.
+   U kunt [ gebruiken Marketo landende pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) als bestemming ook.
 
-Gefeliciteerd.  U hebt het URL-pad omgeleid.
+Gefeliciteerd! U hebt het URL-pad omgeleid.
 
 >[!MORELIKETHIS]
 >
->[Marketo-landingspagina omleiden naar een andere pagina](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
+>[ richt een Marketo het Bestaan Pagina aan Een andere Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) opnieuw

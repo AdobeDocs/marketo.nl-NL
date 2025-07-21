@@ -4,32 +4,32 @@ description: Implementatie van RTP op Wordpress Enterprise - Marketo Docs - Prod
 title: RTP implementeren op Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 # RTP implementeren op Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
+Volg onderstaande installatie-instructies om uw [!UICONTROL RTP tag] te implementeren:
 
-1. Ga naar **Accountinstellingen**.
+1. Ga naar **[!UICONTROL Account Settings]** .
 
    a. Als u uw JavaScript-tag al hebt ontvangen van Support, gaat u verder met stap 3.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Zoek onder Domein het relevante domein en klik op **Label genereren**.
+1. Zoek onder [!UICONTROL Domain] het relevante domein op en klik op **[!UICONTROL Generate Tag]** .
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
-1. Kopieer de RTP JavaScript-tag.
+1. Kopieer de JavaScript-tag RTP.
 
-1. Aanmelden bij uw WordPress-account als Admin-gebruiker
+1. Meld u aan bij uw [!DNL WordPress] -account als Admin-gebruiker
 
-   a. Onder **Weergave**, ga naar **Aangepast JavaScript**.
+   a. Ga onder **[!UICONTROL Appearance]** naar **[!UICONTROL Custom JavaScript]** .
 b. Plak de Javascript-tag RTP naar rechts na de bestaande code.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b. Plak de Javascript-tag RTP naar rechts na de bestaande code.
    >
    >Voeg ALLEEN het script in.
 
-1. Klikken **Bijwerken**.
+1. Klik op **[!UICONTROL Update]**.

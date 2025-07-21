@@ -4,16 +4,16 @@ description: Modules toevoegen aan uw e-mail - Marketo Docs - Productdocumentati
 title: Modules toevoegen aan uw e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
 # Modules toevoegen aan uw e-mail {#add-modules-to-your-email}
 
-In E-maileditor 2.0 is een module een sectie van uw e-mailbericht die in de sjabloon is gedefinieerd. Modules kunnen elke combinatie van elementen, variabelen en andere HTML-inhoud bevatten. Het is eenvoudig om deze aan uw e-mail toe te voegen.
+In [!DNL Email Editor 2.0] is een module een sectie van uw e-mail die in het malplaatje wordt bepaald. Modules kunnen elke combinatie van elementen, variabelen en andere HTML-inhoud bevatten. Het is eenvoudig om deze aan uw e-mail toe te voegen.
 
 1. Maak een e-mail. Ben zeker om (of creeer) een malplaatje te kiezen dat modules bevat.
 
@@ -21,9 +21,9 @@ In E-maileditor 2.0 is een module een sectie van uw e-mailbericht die in de sjab
 
    >[!NOTE]
    >
-   >De meeste Marketo Starter-sjablonen bevatten modules. U kunt ook [uw eigen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >Het grootste deel van de Marketo [!UICONTROL Starter Templates] bevat [!UICONTROL Modules] . U kunt ook [ uw eigen ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) creëren.
 
-1. Rechtsboven in de e-mail klikt u op **Modules**.
+1. Klik helemaal rechts van de e-mail op **[!UICONTROL Modules]** .
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Er zijn twee manieren om een module te verplaatsen.
 
    ![](assets/nine-2.png)
 
-1. Klik op het tandwielpictogram en selecteer **Omhoog** of **Omlaag**, afhankelijk van waar u de module wilt gaan.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Move Up]** of **[!UICONTROL Move Down]** , afhankelijk van de plaats waar de module moet komen.
 
    ![](assets/ten-2.png)
 
@@ -67,4 +67,4 @@ Dat is alles wat er aan te pas komt.
 
 >[!MORELIKETHIS]
 >
->[E-mailsjabloonsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

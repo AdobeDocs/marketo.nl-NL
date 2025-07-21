@@ -4,38 +4,38 @@ description: Stap 1 van 3 - Voeg Marketo-velden toe aan Salesforce (Enterprise/U
 title: Stap 1 van 3 - Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '737'
-ht-degree: 0%
+source-wordcount: '719'
+ht-degree: 1%
 
 ---
 
-# Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Stap 1 van 3: Voeg Marketo-velden toe aan [!DNL Salesforce] (Enterprise/Onbeperkt) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
->U moet toegang hebben tot Salesforce API&#39;s om te kunnen synchroniseren tussen Marketo Engage en Salesforce.
+>U moet toegang hebben tot API&#39;s van [!DNL Salesforce] om te kunnen synchroniseren tussen Marketo en [!DNL Salesforce] .
 
-Marketo gebruikt een set velden om bepaalde soorten marketinggerelateerde informatie vast te leggen. Volg onderstaande instructies als je deze gegevens in Salesforce wilt bewaren.
+Marketo gebruikt een set velden om bepaalde soorten marketinggerelateerde informatie vast te leggen. Volg de onderstaande instructies als u deze gegevens in [!DNL Salesforce] wilt opnemen.
 
-1. Maak drie aangepaste velden in Salesforce voor de lead- en contactobjecten: Score, Acquisition Program en Acquisition Date.
-1. Wijs deze douanevelden tussen lood en contacten toe zodat bij omzetting in Salesforce, de waarden overnemen.
+1. Maak drie aangepaste velden in [!DNL Salesforce] voor de lead- en contactobjecten: Score, Acquisition Program en Acquisition Date.
+1. Wijs deze aangepaste velden toe aan leads en contactpersonen, zodat de waarden bij conversie naar [!DNL Salesforce] worden overgedragen.
 1. U kunt desgewenst andere aanvullende velden maken (zie de tabel hieronder).
 
-Al deze aangepaste velden zijn optioneel en zijn niet vereist voor het synchroniseren van Marketo en Salesforce. Als beste praktijken, adviseren wij dat u gebieden voor Score, het Programma van de Aankoop, en de Datum van de Aankoop creeert.
+Al deze aangepaste velden zijn optioneel en zijn niet vereist voor het synchroniseren van Marketo en [!DNL Salesforce] . Als beste praktijken, adviseren wij dat u gebieden voor Score, het Programma van de Aankoop, en de Datum van de Aankoop creeert.
 
-## Marketo-velden toevoegen aan Salesforce {#add-marketo-fields-to-salesforce}
+## Marketo-velden toevoegen aan [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-Voeg drie aangepaste velden toe aan de objecten lead en contact in Salesforce die hierboven worden vermeld. Zie de tabel met beschikbare velden aan het einde van deze sectie voor meer informatie.
+Voeg drie aangepaste velden toe aan de objecten lead en contact in [!DNL Salesforce] hierboven. Zie de tabel met beschikbare velden aan het einde van deze sectie voor meer informatie.
 
 Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe te voegen. Begin met score.
 
-1. Meld u aan bij Salesforce en klik op **[!UICONTROL Setup]** .
+1. Log in bij [!DNL Salesforce] en klik op **[!UICONTROL Setup]** .
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klik in het [!UICONTROL Build] -menu links op **[!UICONTROL Customize]** en selecteer **[!UICONTROL Leads]** . Klik op **[!UICONTROL Fields]**.
+1. Klik in het menu Build aan de linkerkant op **[!UICONTROL Customize]** en selecteer **[!UICONTROL Leads]** . Klik op **[!UICONTROL Fields]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
@@ -98,7 +98,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 >[!NOTE]
 >
->Salesforce voegt __c aan Veldnamen toe wanneer het hen gebruikt om API Namen tot stand te brengen.
+>[!DNL Salesforce] voegt __c aan de Namen van het Gebied toe wanneer het hen gebruikt om API Namen tot stand te brengen.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -129,7 +129,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klik in het menu Build aan de linkerkant op **[!UICONTROL Customize]** en selecteer Contactpersonen. Klik op Velden.
+1. Klik in het menu Build aan de linkerkant op **[!UICONTROL Customize]** en selecteer Contactpersonen. Klik op [!UICONTROL Fields].
 1. Voer stap 3 door 10 voor de gebieden van de Score, van de Verwervingsdatum, en van het Programma van de Verwerving op het contactvoorwerp uit, enkel zoals u voor het loodvoorwerp deed.
 1. U kunt de bovenstaande procedure ook gebruiken voor extra aangepaste velden uit deze tabel.
 
@@ -238,21 +238,21 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 >[!NOTE]
 >
->Waarden in de velden die automatisch door Marketo worden toegewezen, zijn niet direct beschikbaar in Salesforce wanneer het nieuwe veld is gemaakt. Marketo synchroniseert de gegevens met Salesforce bij de volgende update van de record op beide systemen (een update van een van de velden die synchroon is tussen Marketo en Salesforce).
+>Waarden in de velden die automatisch door Marketo worden toegewezen, zijn niet direct beschikbaar in [!DNL Salesforce] wanneer het nieuwe veld is gemaakt. Marketo synchroniseert de gegevens met [!DNL Salesforce] bij de volgende update van de record op beide systemen (een update van een van de velden die synchroon is tussen Marketo en [!DNL Salesforce] ).
 
 ## Aangepaste velden toewijzen voor conversies {#map-custom-fields-for-conversions}
 
-Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan een contactveld op het contactobject, zodat gegevens worden overgedragen wanneer een conversie plaatsvindt.
+Een aangepast veld op het hoofdobject in [!DNL Salesforce] moet worden toegewezen aan een contactveld op het contactobject, zodat gegevens worden overgedragen wanneer een conversie plaatsvindt.
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Setup]** .
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Typ &quot;Velden&quot; in de Nav-zoekopdracht zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klik op **[!UICONTROL Fields]** onder Leads.
+1. Typ &quot;Velden&quot; in de Nav-zoekopdracht zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klik op **[!UICONTROL Fields]** onder [!UICONTROL Leads] .
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Ga naar de sectie Aangepaste velden en relaties voor lead en klik op **[!UICONTROL Map Lead Fields]** .
+1. Ga naar de sectie [!UICONTROL Lead Custom Fields & Relationships] en klik op **[!UICONTROL Map Lead Fields]** .
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,8 +266,10 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
 
 1. Herhaal bovenstaande stappen voor alle andere velden die u hebt gemaakt.
 
-1. Klik op **[!UICONTROL Save]** als u klaar bent.
+1. Klik op **[!UICONTROL Save]** wanneer u klaar bent.
+
+   Gemakkelijk genoeg, toch?
 
 >[!MORELIKETHIS]
 >
->[ Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[ Stap 2 van 3: Creeer a [!DNL Salesforce]  Gebruiker voor Marketo (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

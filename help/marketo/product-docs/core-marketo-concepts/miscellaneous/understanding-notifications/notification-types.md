@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: Meldingstypen - Marketo Docs - Productdocumentatie
 title: Typen meldingen
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -24,13 +24,13 @@ CRM-synchronisatieberichten geven een waarschuwing voor kritieke problemen die z
 
 **[!DNL Microsoft Dynamics]**
 
-Dynamische meldingen worden elke 24 uur verzonden en bevatten aanwijzingen die in die periode niet zijn gesynchroniseerd. Typische oorzaken van een fout zijn dubbele leads (zoals hierboven) of onjuiste afstemmingen in de veldlengte.
+[!DNL Dynamics] -meldingen worden elke 24 uur verzonden en bevatten leads die in die periode niet konden worden gesynchroniseerd. Typische oorzaken van een fout zijn dubbele leads (zoals hierboven) of onjuiste afstemmingen in de veldlengte.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
 **[!DNL Salesforce]**
 
-Als u Salesforce gebruikt, zien synchronisatiefoutenmeldingen er ongeveer zo uit als hieronder. Typische fouten zijn verlopen gegevens en overschrijden de API-limieten.
+Als u [!DNL Salesforce] gebruikt, zien synchronisatiefoutenmeldingen er ongeveer zo uit als hieronder. Typische fouten zijn verlopen gegevens en overschrijden de API-limieten.
 
 ![](assets/salesforcesyncerror.png)
 
@@ -46,11 +46,11 @@ Als u mensen naar Facebook probeert te sturen zonder de servicevoorwaarden te ac
 
 ## Opruimen van campagne voor inactieve Trigger {#idle-trigger-campaign-cleanup}
 
-Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Meer informatie over  [automatische opschooncampagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Leer meer over [ automatische opruiming van de trekkercampagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
-Als Marketo na drie pogingen geen nieuw publiek kan maken, meldt u zich aan of stuurt u per e-mail naar LinkedIn.
+Als Marketo na drie pogingen geen nieuw publiek kan maken, meldt u zich aan of drukt u op e-mails naar LinkedIn.
 
 ![](assets/linkedin.png)
 
@@ -60,4 +60,4 @@ U wordt op de hoogte gesteld wanneer u uw dagelijkse quotum bereikt. De quota wo
 
 >[!NOTE]
 >
->Sommige foutcodes die u ontvangt, worden beschreven in onze [Documentatie voor ontwikkelaars](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/error-codes).
+>Sommige foutencodes u kunt ontvangen worden geschetst in onze [ Documentatie van de Ontwikkelaar ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

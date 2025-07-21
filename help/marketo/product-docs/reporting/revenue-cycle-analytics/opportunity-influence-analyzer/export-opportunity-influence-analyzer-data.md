@@ -4,9 +4,9 @@ description: Export Opportunity Influence Analyzer Data - Marketo Docs - Product
 title: Export Opportunity Influence Analyzer Data
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en deze wilt delen, kunt u elk e-mailadres op een bestaand rapport abonneren.
 
-1. Ga naar **Analyse** en selecteert u **Nieuw** > **Nieuw abonnement op rapport**.
+1. Ga naar **[!UICONTROL Analytics]** en selecteer **[!UICONTROL New]** > **[!UICONTROL New Report Subscription]** .
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Als u zich wilt abonneren op een basisrapport dat u in een programma hebt gemaakt, raadpleegt u [Abonneren op een basisrapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [ aan een BasisRapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) intekenen.
 
-1. Selecteer bij Rapportbron de optie **Ontdekkingsreiziger voor inkomsten**.
+1. Selecteer **[!UICONTROL Report Source]** bij **[!UICONTROL Revenue Explorer]** .
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +45,4 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [al uw rapportabonnementen beheren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats.
+>Leer hoe te [ om al uw rapportabonnementen ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.

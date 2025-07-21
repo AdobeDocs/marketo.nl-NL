@@ -4,75 +4,75 @@ description: E-mailverbinding voor Outlook-gebruikers - Marketo-documenten - Pro
 title: E-mailverbinding voor Outlook-gebruikers
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 1%
 
 ---
 
-# E-mailverbinding voor Outlook-gebruikers {#email-connection-for-outlook-users}
+# E-mailverbinding voor [!DNL Outlook] gebruikers {#email-connection-for-outlook-users}
 
-Leer hoe u uw Sales Connect-account kunt verbinden met Outlook.
+Leer hoe u uw [!DNL Sales Connect] -account kunt verbinden met [!DNL Outlook] .
 
 >[!NOTE]
 >
->Elke gebruiker moet verbinding maken met Outlook vanuit zijn Sales Connect-account.
+>Elke gebruiker moet verbinding maken met [!DNL Outlook] vanuit zijn [!DNL Sales Connect] -account.
 
-## Verbinding maken met Outlook Online {#connecting-to-outlook-online}
+## Verbinding maken met [!DNL Outlook] Online {#connecting-to-outlook-online}
 
-Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het de leveringskanaal van Vooruitzichten, de capaciteit zult ontvangen om e-mails in Vooruitzichten te plannen, en naleving te verzenden.
+Als u verbinding maakt met [!DNL Outlook], ontvangt u tracering van antwoorden, toegang tot het [!DNL Outlook] leveringskanaal, de mogelijkheid om e-mails te plannen in [!DNL Outlook] en de compatibiliteit te verzenden.
 
-1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik in [!DNL Sales Connect] op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer onder Mijn account de optie **[!UICONTROL Email Settings]** .
 
    ![](assets/two.png)
 
-1. Klik op de knop **E-mailverbinding** tab.
+1. Klik op de tab **[!UICONTROL Email Connection]** .
 
    ![](assets/three.png)
 
-1. Klikken **Aan de slag**.
+1. Klik op **[!UICONTROL Get Started]**.
 
    ![](assets/four.png)
 
-1. Selecteren **Ik gebruik Outlook om e-mailberichten te verzenden** en klik op **Volgende**.
+1. Selecteer **[!UICONTROL I use Outlook to send emails]** en klik op **[!UICONTROL Next]** .
 
    ![](assets/five-a.png)
 
-1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Volgende**. In dit voorbeeld kiezen we Outlook Online.
+1. Selecteer de versie van [!DNL Outlook] die u gebruikt en klik op **[!UICONTROL Next]** . In dit voorbeeld kiezen we [!DNL Outlook Online] .
 
    ![](assets/six-a.png)
 
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Wordt ook online genoemd als Exchange</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td> 
+      <td>Ook bekend als [!DNL Exchange Online]</td> 
      </tr>
      <tr>
-      <td><strong>Exchange op locatie</strong></td> 
-      <td>Inclusief Exchange 2013 en 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td> 
+      <td>Omvat [!DNL Exchange] 2013 en 2016</td> 
      </tr>
     </tbody>
    </table>
 
    >[!NOTE]
    >
-   >Marketo biedt momenteel geen ondersteuning voor Hybride Exchange-accounts.
+   >Marketo biedt momenteel geen ondersteuning voor [!DNL Exchange Hybrid] -accounts.
 
-1. Klikken **OK**.
+1. Klik op **[!UICONTROL OK]**.
 
    ![](assets/seven-a.png)
 
-1. Als u niet aan Vooruitzichten het programma wordt geopend, ga uw login info in en klik **Volgende**. Kies in dat geval de account waarmee u verbinding wilt maken en klik op **Volgende**. In dit voorbeeld zijn we al aangemeld.
+1. Als u niet bent aangemeld bij [!DNL Outlook] , voert u uw aanmeldingsgegevens in en klikt u op **[!UICONTROL Next]** . Kies in dat geval de account waarmee u verbinding wilt maken en klik op **[!UICONTROL Next]** . In dit voorbeeld zijn we al aangemeld.
 
    ![](assets/eight-a.png)
 
-1. Klikken **Accepteren**.
+1. Klik op **[!UICONTROL Accept]**.
 
    ![](assets/nine-a.png)
 
@@ -80,59 +80,59 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    >[!NOTE]
    >
-   >De vooruitzichten online (Office365) dwingen zijn eigen verzendende grenzen af. [Meer informatie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >[!DNL Outlook Online (Office365)] handhaaft zijn eigen verzendingsgrenzen. [ leer hier meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
-## Verbinding maken met Exchange op locatie {#connecting-to-exchange-on-premise}
+## Verbinding maken met [!DNL Exchange On-Premise] {#connecting-to-exchange-on-premise}
 
-Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegang tot het de leveringskanaal van Vooruitzichten, de capaciteit zult ontvangen om e-mails in Vooruitzichten te plannen, en naleving te verzenden.
+Als u verbinding maakt met [!DNL Exchange On-Premise], ontvangt u tracering van antwoorden, toegang tot het [!DNL Outlook] leveringskanaal, de mogelijkheid om e-mails te plannen in [!DNL Outlook] en de compatibiliteit te verzenden.
 
-1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik in [!DNL Sales Connect] op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer onder [!UICONTROL My Account] de optie **[!UICONTROL Email Settings]** .
 
    ![](assets/two.png)
 
-1. Klik op de knop **E-mailverbinding** tab.
+1. Klik op de tab **[!UICONTROL Email Connection]** .
 
    ![](assets/three.png)
 
-1. Klikken **Aan de slag**.
+1. Klik op **[!UICONTROL Get Started]**.
 
    ![](assets/four.png)
 
-1. Selecteren **Ik gebruik Outlook om e-mailberichten te verzenden** en klik op **Volgende**.
+1. Selecteer **[!UICONTROL I use Outlook to send emails]** en klik op **[!UICONTROL Next]** .
 
    ![](assets/five-a.png)
 
-1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Volgende**. In dit voorbeeld kiezen wij Uitwisseling op-gebouw.
+1. Selecteer de versie van [!DNL Outlook] die u gebruikt en klik op **[!UICONTROL Next]** . In dit voorbeeld kiezen we [!DNL Exchange On-premise] .
 
    ![](assets/six-b.png)
 
    <table> 
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Wordt ook online genoemd als Exchange</td> 
+      <td><strong>[!DNL Outlook Online]</strong></td> 
+      <td>Ook bekend als [!DNL Exchange Online]</td> 
      </tr>
      <tr>
-      <td><strong>Exchange op locatie</strong></td> 
-      <td>Inclusief Exchange 2013 en 2016</td> 
+      <td><strong>[!DNL Exchange On-premise]</strong></td> 
+      <td>Omvat [!DNL Exchange] 2013 en 2016</td> 
      </tr>
     </tbody>
    </table>
 
-1. Voer uw gegevens in en klik op **Verbinden**.
+1. Voer uw referenties in en klik op **[!UICONTROL Connect]** .
 
    ![](assets/seven-b.png)
 
    >[!NOTE]
    >
-   >Als u Autodiscover in de drop-down van de Versie van de Uitwisseling uitzet, zult u uw afdeling van IT voor de Uitwisseling URL moeten vragen.
+   >Als u Automatisch detecteren uitschakelt in de vervolgkeuzelijst Versie van [!DNL Exchange] , moet u de [!DNL Exchange] URL aan uw IT-afdeling vragen.
 
    U kunt deze verbinding gebruiken om e-mailberichten en ook als leveringskanaal bij te houden.
 
    >[!NOTE]
    >
-   >Wanneer het gebruiken van Uitwisseling On-prem, zal uw Team van IT uw e-mail verzendende grens vestigen.
+   >Wanneer u [!DNL Exchange On-prem] gebruikt, stelt uw IT-team uw limiet voor het verzenden van e-mail vast.

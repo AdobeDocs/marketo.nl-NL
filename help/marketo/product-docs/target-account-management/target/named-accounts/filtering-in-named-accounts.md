@@ -4,14 +4,14 @@ description: Filteren in benoemde accounts - Marketo Docs - Productdocumentatie
 title: Filteren in benoemde accounts
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Filteren in benoemde accounts {#filtering-in-named-accounts}
+# Filteren in [!UICONTROL Named Accounts] {#filtering-in-named-accounts}
 
 Filteren is een geweldige manier om gegevens snel omlaag te brengen.
 
@@ -25,17 +25,17 @@ Filteren is een geweldige manier om gegevens snel omlaag te brengen.
 
    >[!NOTE]
    >
-   >Er zijn verschillende combinaties van zoekparameters. In dit voorbeeld vinden we het volgende: _Industrie = Bankwezen, Land = Verenigde Staten, Max. werknemers = 10000_.
+   >Er zijn verschillende combinaties van zoekparameters. In dit voorbeeld zoeken we: _[!UICONTROL Industry]= Banking, [!UICONTROL Country] = United States, Max [!UICONTROL Employees] = 10000_ .
 
-1. Klik op de knop **Industrie** vervolgkeuzelijst en selecteer **Bankwezen**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Industry]** en selecteer **[!UICONTROL Banking]** .
 
    ![](assets/filter-2.png)
 
-1. Klik op de knop **Land** vervolgkeuzelijst en selecteer **Verenigde Staten**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Country]** en selecteer **[!UICONTROL United States]** .
 
    ![](assets/filter-3.png)
 
-1. Onder **Werknemers**, typt u &quot;0&quot; in het dialoogvenster **Min** veld &quot;10000&quot; in het **Max** veld, klik vervolgens op **Toepassen**.
+1. Onder **[!UICONTROL Employees]**, type &quot;0&quot;op het **Min** gebied, &quot;10000&quot;op het **Max** gebied, dan klik **[!UICONTROL Apply]**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ Filteren is een geweldige manier om gegevens snel omlaag te brengen.
 
    >[!NOTE]
    >
-   >Als u meer filters wilt toevoegen waaruit u kunt kiezen, klikt u op **Filter toevoegen** linksonder in het formulier.
+   >Als u meer filters wilt toevoegen waaruit u kunt kiezen, klikt u op **[!UICONTROL Add Filter]** linksonder in het formulier.

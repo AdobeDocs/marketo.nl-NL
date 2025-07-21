@@ -1,30 +1,30 @@
 ---
 unique-page-id: 3571840
-description: Microsoft Dynamics Sync -User Sync - Marketo Docs - Productdocumentatie
-title: Microsoft Dynamics Sync - User Sync
+description: Microsoft  [!DNL Dynamics]  synchronisatie - gebruikerssynchronisatie - de Documenten van Marketo - de Documentatie van het Product
+title: Microsoft  [!DNL Dynamics]  Synchronisatie - de Synchronisatie van de Gebruiker
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics Sync: User Sync {#microsoft-dynamics-sync-user-sync}
+# Microsoft [!DNL Dynamics] Synchroniseren: gebruikerssynchronisatie {#microsoft-dynamics-sync-user-sync}
 
-Wist u dat Marketo Engage uw volledige database synchroniseert met Dynamics? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn sommige details over hoe Marketo de Rekeningen van de Dynamiek specifiek behandelt.
+Wist u dat Marketo uw gehele database synchroniseert met [!DNL Dynamics] ? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier volgt een aantal details over hoe Marketo [!DNL Dynamics] -accounts specifiek behandelt.
 
-Voor de integratie hebt u een speciale Microsoft Dynamics CRM-gebruiker nodig. Deze gebruiker wordt de synchronisatiegebruiker genoemd.
+Voor de integratie hebt u een speciale Microsoft [!DNL Dynamics] CRM-gebruiker nodig. Deze gebruiker wordt de synchronisatiegebruiker genoemd.
 
 ## Hoe worden de gebruikersdetails gehouden synchroon tussen de twee systemen? {#how-are-user-details-kept-in-sync-between-the-two-systems}
 
-De gebruikerssynchronisatie is in één richting: Dynamics to Marketo. Als u wijzigingen aanbrengt in een gebruiker in Dynamics, worden de wijzigingen doorgevoerd in Marketo.
+De gebruikerssynchronisatie verloopt in één richting: [!DNL Dynamics] naar Marketo. Als u in [!DNL Dynamics] wijzigingen aanbrengt in een gebruiker, worden deze wijzigingen weerspiegeld in Marketo.
 
 ## Kan ik een gebruiker maken met Marketo? {#can-i-create-an-user-using-marketo}
 
-Nee. Marketo kan geen gebruikers maken in Dynamics.
+Nee. Marketo kan geen gebruikers maken in [!DNL Dynamics] .
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#which-fields-will-sync-to-marketo}
 
-U kunt [te synchroniseren velden selecteren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} tijdens installatie. Maar Marketo synchroniseert alleen de velden waartoe de gebruiker van het Dynamic Sync toegang heeft.
+U kunt [ gebieden selecteren om ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) tijdens opstelling te synchroniseren. Maar Marketo synchroniseert alleen de velden waartoe uw [!DNL Dynamics] synchronisatiegebruiker toegang heeft.

@@ -4,9 +4,9 @@ description: E-mails verzenden via Groepse-e-mail - Marketo Docs - Productdocume
 title: E-mailberichten verzenden via e-mail voor groep
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 ## Groeps-e-mailberichten verzenden {#sending-a-group-email}
 
-1. Klik op de knop **Mensen** tab.
+1. Klik op de tab **[!UICONTROL People]** .
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/two-3.png)
 
-1. Klik op de knop Handelingen groeperen en selecteer **E-mailgroep**.
+1. Klik op [!UICONTROL Group Actions] en selecteer **[!UICONTROL Email Group]** .
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 ## Een groepse-e-mail bewerken {#editing-a-group-email}
 
-1. Een groepse-e-mail maken met [Stap 1-3 hierboven](#sending-a-group-email).
+1. Creeer een groep e-mail gebruikend [ Stappen 1-3 hierboven ](#sending-a-group-email).
 
 1. Kies een sjabloon of vul uw e-mail in.
 
@@ -49,7 +49,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/edit-four.png)
 
-1. Klikken **Dynamische velden voorvertonen** en bekijk de voorvertoning aan de rechterkant.
+1. Klik op **[!UICONTROL Preview Dynamic Fields]** en bekijk de voorvertoning aan de rechterkant.
 
    ![](assets/edit-five.png)
 
@@ -59,5 +59,5 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 >[!MORELIKETHIS]
 >
->* [Opties voor bulkverzending](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [Een sjabloon gebruiken in het venster Samenstellen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [ Bulk die Opties ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md) verzendt
+>* [ Gebruikend een Malplaatje in Samenstellen Venster ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

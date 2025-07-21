@@ -4,9 +4,9 @@ description: Een formulier toevoegen aan een bestemmingspagina met instructies -
 title: Een formulier toevoegen aan een bestemmingspagina met instructies
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 >[!PREREQUISITES]
 >
->[Een bestemmingspagina met instructies maken](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[ creeer een Geleide Openende Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/one.png)
 
-1. Zoek en selecteer de bestemmingspagina en klik op **Concept bewerken**.
+1. Zoek en selecteer de bestemmingspagina en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/two.png)
 
@@ -31,7 +31,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
    >
    >De beschikbare elementen in geleide het landen pagina&#39;s worden bepaald door het malplaatje. Als u geen formulier ziet in het deelvenster Elementen, selecteert u een nieuwe sjabloon of neemt u contact op met de sjabloonmaker.
 
-1. Dubbelklik op de knop **Formulier** in het deelvenster Elementen.
+1. Dubbelklik de **Vorm** in het elementenpaneel.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -41,15 +41,15 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 1. U kunt kiezen uit drie opties:
 
-   * Openingspagina - kies een Marketo-landingspagina
-   * Externe URL - kies een gewenste URL
-   * Formulier gedefinieerd - gebruik de instellingen die op formulierniveau zijn gedefinieerd
+   * **[!UICONTROL Landing Page]** - kies een Marketo-landingspagina
+   * **[!UICONTROL External URL]** - kies een gewenste URL
+   * **[!UICONTROL Form Defined]** - gebruik de instellingen die op formulierniveau zijn gedefinieerd
 
    >[!NOTE]
    >
    >De vervolgpagina is de pagina die mensen zien nadat ze het formulier hebben verzonden.
 
-1. In dit voorbeeld gebruiken we Formulier gedefinieerd. Klikken **Invoegen**.
+1. In dit voorbeeld gebruiken we [!UICONTROL Form Defined] . Klik op **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +57,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Sluit nu gewoon de editor voor de bestemmingspagina en [goedkeuren, concept van bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Nu sluit enkel de het landen paginaredacteur en [ keurt het het landen paginaontwerp ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed.

@@ -4,9 +4,9 @@ description: Zoek naar de Campagnes van het Web die een Specifiek Segment - de D
 title: Webcampagnes zoeken die een specifiek segment gebruiken
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Op zoek naar webcampagnes die een specifiek segment gebruiken?
 
-1. Ga naar **Segmenten**.
+1. Ga naar **[!UICONTROL Segments]** .
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Zoeken naar een **Segment**. Selecteer **Segmentnaam**. Klik in het rechterdeelvenster op **Gekoppelde campagnes** om de campagnes te bekijken die dit specifieke segment worden geassocieerd.
+1. Onderzoek naar a **Segment**. Selecteer de **Naam van het Segment**. Klik in het rechterdeelvenster op **[!UICONTROL Associated Campaigns]** om de campagnes weer te geven die aan dit specifieke segment zijn gekoppeld.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. De weergave van **Campagnes** is gekoppeld aan het geselecteerde segment.
+1. Bekijk de **Campagnes** verbonden aan het geselecteerde segment.
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->Meer informatie over [segmenten](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) en hoe [een basissegment maken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>Leer meer over [ segmenten ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) en hoe te [ tot een basissegment ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) leiden.

@@ -4,9 +4,9 @@ description: Campagnegegevens voor webpagina's exporteren - Marketo Docs - Produ
 title: Campagnegegevens exporteren
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Voer de volgende eenvoudige stappen uit om uw webcampagnegegevens te exporteren.
 
-1. Ga naar **Webcampagnes**.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/one-2.png)
 

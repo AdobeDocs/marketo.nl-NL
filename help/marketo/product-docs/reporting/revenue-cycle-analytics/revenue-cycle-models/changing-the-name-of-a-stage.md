@@ -4,31 +4,31 @@ description: De naam van een werkgebied wijzigen - Marketo Docs - Productdocumen
 title: De naam van een werkgebied wijzigen
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
 # De naam van een werkgebied wijzigen {#changing-the-name-of-a-stage}
 
-Je geest veranderen? Geen probleem. De naam van een fase in de inkomstencyclusmodellener wijzigen is eenvoudig.
+Je geest veranderen? Geen probleem. De naam van een fase in de inkomstencyclusmodellener kan eenvoudig worden gewijzigd.
 
-1. Ga naar de **Analyse** gebied.
+1. Ga naar het **[!UICONTROL Analytics]** -gebied.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Selecteer een inkomstencyclusmodel dat u wilt bijwerken. Klikken **Concept bewerken**.
+1. Selecteer een inkomstencyclusmodel dat u wilt bijwerken. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Selecteer het werkgebied dat u wilt bijwerken en voer een nieuw werkgebied in **Naam**.
+1. Selecteer het werkgebied dat u wilt bijwerken en voer een nieuwe **[!UICONTROL Name]** in.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-1. Klikken **Sluiten**.
+1. Klik op **[!UICONTROL Close]**.
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Zie? Eenvoudig! Herinneren aan [Uw model goedkeuren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
+   Zie? Eenvoudig! Herinner me aan [ uw Model ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md) goedkeuren.

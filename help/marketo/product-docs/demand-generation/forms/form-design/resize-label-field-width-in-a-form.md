@@ -4,20 +4,20 @@ description: Formaat van label/veldbreedte wijzigen in een formulier - Marketo D
 title: De grootte van Label/veldbreedte in een formulier wijzigen
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # De grootte van Label/veldbreedte in een formulier wijzigen {#resize-label-field-width-in-a-form}
 
-Er zijn twee manieren om zowel de breedte van het veldlabel als de breedte van het veld zelf te vergroten of te verkleinen.
+Er zijn twee manieren om zowel de breedte van het veldlabel als de breedte zelf te vergroten of te verkleinen.
 
 ## De breedte slepen en neerzetten {#drag-and-drop-the-width}
 
-1. In de [formuliereditor](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)selecteert u het veld waarvan u het formaat wilt wijzigen.
+1. In de [ vormredacteur ](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecteer het gebied u resize.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
@@ -31,7 +31,7 @@ Er zijn twee manieren om zowel de breedte van het veldlabel als de breedte van h
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Voer een pixelwaarde in voor de breedte en/of breedte van het label.
+1. Voer een pixelwaarde in voor de [!UICONTROL Label Width] en/of [!UICONTROL Field Width] .
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

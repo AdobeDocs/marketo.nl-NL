@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360227
-description: Middelen filteren in een campagne-e-mailrapport - Marketo Docs - Productdocumentatie
-title: Middelen in een campagne-e-mailrapporten filteren
+description: Assets filteren in een campagne-e-mailrapport - Marketo Docs - Productdocumentatie
+title: Assets filteren in een campagne-e-mailrapport
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# Middelen in een campagne-e-mailrapporten filteren {#filter-assets-in-a-campaign-email-reports}
+# Assets filteren in een campagne-e-mailrapport {#filter-assets-in-a-campaign-email-reports}
 
-Focus op uw [E-mailprestaties campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) specifieke [slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde programma&#39;s.
+Focus uw [ rapport van de Prestaties van e-mail van de Campagne van 0} {op specifieke ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) slimme campagnes [ in uw programma&#39;s (&quot;lokale activa&quot;) of op die die zijn gearchiveerd.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
 
 >[!NOTE]
 >
 >Het filteren van elementen in rapporten wordt niet ondersteund in de Satellietmodus (het pictogram &#39;Open in a new window&#39; rechts van de elementdetailpagina).
 
-1. Ga naar **Analyse** (of **Marketingactiviteiten**).
+1. Ga naar **Analytics** (of **de in de handel brengende Activiteiten**) gebied.
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -27,12 +27,12 @@ Focus op uw [E-mailprestaties campagne](/help/marketo/product-docs/reporting/bas
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Klik op de knop **Instellen** en sleep over een filter.
+1. Klik op de tab **[!UICONTROL Setup]** en sleep over een filter.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Campagnes**: Actieve slimme campagnes in je Marketo account.
-   * **Gearchiveerde campagnes**: Inactieve, gepensioneerde slimme campagnes.
+   * **[!UICONTROL Campaigns]**: actieve slimme campagnes in uw Marketo-account.
+   * **[!UICONTROL Archived Campaigns]**: Inactieve, gepensioneerde slimme campagnes.
 
 1. Kies de mappen en specifieke slimme campagnes die u in uw rapport wilt opnemen.
 
@@ -42,11 +42,11 @@ Focus op uw [E-mailprestaties campagne](/help/marketo/product-docs/reporting/bas
    >
    >Als u een map selecteert, bevat uw rapport alles wat de map bevat op het moment dat het rapport wordt uitgevoerd.
 
-1. Je bent klaar! Klik op de knop **Rapport** om uw gefilterde rapport te bekijken.
+1. Je bent klaar! Klik op het tabblad **[!UICONTROL Report]** om uw gefilterde rapport te bekijken.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
    >[!MORELIKETHIS]
    >
-   >[Rapport over e-mailprestaties voor campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >[Middelen in een e-mailrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[ Rapport van de Prestaties van e-mail van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

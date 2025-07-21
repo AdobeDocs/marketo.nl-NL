@@ -4,9 +4,9 @@ description: Begrijpingsperiode kosten - Marketo-documenten - productdocumentati
 title: Kosten voor tijdrekening
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Periode-kosten hebben betrekking op het geld dat u in een bepaalde maand aan een
 >
 >**Voorbeeld**
 >
->Als je $1000 besteedt aan het huren van een illustrator voor een eBook dat in juli wordt gestart - dan kost het eBook-programma in juli $1000.
+>Als u $1000 besteedt aan het huren van een illustrator voor een [!DNL eBook] die in juli wordt gestart, kost het [!DNL eBook] -programma in juli $1000.
 >
->Als je $200 per maand besteedt aan [!DNL Google Adwords] - de [!DNL Google Adwords] programma zou een periode kosten van $200 hebben _elke maand_.
+>Als u $200 per maand aan [!DNL Google Adwords] uitgeeft - het [!DNL Google Adwords] programma zou een periodekosten van $200 _elke maand_ hebben.
 
 >[!NOTE]
 >
->[Programma&#39;s begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>[ Begrijpend Programma&#39;s ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Werken met het lidmaatschap van het programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[ Begrijpend het Lidmaatschap van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Hoe de kosten van de periode worden berekend {#how-period-costs-are-calculated}
 
@@ -39,7 +39,7 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    ![](assets/graph1.png)
 
-   ...contactpersonen toegevoegd in de maanden ervoor en erna *alleen* tel naar maart.
+   ...de contacten die in de maanden vóór en na worden toegevoegd zullen *slechts* tellen naar Maart.
 
    ![](assets/graph2.png)
 
@@ -61,9 +61,9 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    >[!NOTE]
    >
-   >Samengevat: maanden zonder bepaalde periode zullen de kosten teruglopen tot de laatste die is gedefinieerd. Als er geen kosten voor de voorgaande periode zijn, worden de maanden &quot;voorwaarts&quot; doorgestuurd naar de volgende periode die is gedefinieerd. Indien geen periode is vastgesteld _alle_ maanden, zal de rapportering in RCE niet beschikbaar voor het programma zijn.
+   >Samengevat: maanden zonder bepaalde periode zullen de kosten teruglopen tot de laatste die is gedefinieerd. Als er geen kosten voor de voorgaande periode zijn, worden de maanden &quot;voorwaarts&quot; doorgestuurd naar de volgende periode die is gedefinieerd. Als een periode kosten niet voor _om het even welke_ maanden is bepaald, zal het melden in RCE niet beschikbaar voor het programma zijn.
 
    >[!MORELIKETHIS]
    >
-   >* [Periode-kosten in een programma gebruiken](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [Een programmarapport filteren op kosten van periode](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >* [ Gebruikend de Kosten van de Periode in een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [ filter een Rapport van het Programma door Periode Kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

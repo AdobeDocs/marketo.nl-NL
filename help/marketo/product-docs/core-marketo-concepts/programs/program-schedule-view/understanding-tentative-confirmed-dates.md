@@ -4,20 +4,20 @@ description: Inzicht krijgen in voorlopige/bevestigde datums - Marketo Docs - Pr
 title: Inzicht krijgen in voorlopige/bevestigde datums
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
 # Inzicht krijgen in voorlopige/bevestigde datums {#understanding-tentative-confirmed-dates}
 
-Slimme campagnes en e-mailprogramma&#39;s hebben een krachtig vermogen om als **[!UICONTROL Tentative]** of **[!UICONTROL Confirmed]**. Zo werken ze.
+Slimme campagnes en e-mailprogramma&#39;s kunnen nu worden gemarkeerd als **[!UICONTROL Tentative]** of **[!UICONTROL Confirmed]** . Zo werken ze.
 
 ## Tentatief {#tentative}
 
-Met negatieve datums wordt de intentie overgebracht. Beschouw dit als _prekken_ iets in de kalender. Alternatieve items worden niet uitgevoerd. Het zijn alleen plaatsaanduidingen.
+Met negatieve datums wordt de intentie overgebracht. Denk van dit als _het bestraffen_ iets in de kalender. Alternatieve items worden niet uitgevoerd. Het zijn alleen plaatsaanduidingen.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -27,7 +27,7 @@ Met negatieve datums wordt de intentie overgebracht. Beschouw dit als _prekken_ 
 
 ## Berichten bevestigen {#confirming-entries}
 
-Dit is net als het goedkeuren van een middel, zodat moeten de ingangen volledig opstelling zijn alvorens u hen kunt bevestigen. Als alle eenden in een rij staan, kunt u vermeldingen bevestigen door de tijdelijke tab naar rechts te schuiven.
+Dit is net als het goedkeuren van een middel, zodat moeten de ingangen volledig opstelling zijn alvorens u hen kunt bevestigen. Zodra alle eenden in een rij staan, kunt u vermeldingen bevestigen door de tab [!UICONTROL Tentative] naar rechts te verschuiven.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -47,7 +47,7 @@ Bevestigde ingangen worden zeker uitgevoerd. Zij hebben regels, goedgekeurde act
 
 ## Voltooid  {#finished}
 
-Voltooide items zijn al uitgevoerd. Ze kunnen alleen in het verleden zijn (uiteraard). Zodra een ingang loopt en is **[!UICONTROL Finished]**, kunt u deze niet verplaatsen of voorlopig maken. (Geen wijziging van de realiteit en verstoring van het continuum van de tijdstream.)
+Voltooide items zijn al uitgevoerd. Ze kunnen alleen in het verleden zijn (uiteraard). Wanneer een item is gestart en **[!UICONTROL Finished]** is, kunt u het niet verplaatsen of activeren. (Geen wijziging van de realiteit en verstoring van het continuum van de tijdstream.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

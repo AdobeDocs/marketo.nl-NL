@@ -4,18 +4,18 @@ description: Een pushmelding maken - Marketo Docs - Productdocumentatie
 title: Een pushmelding maken
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Een pushmelding maken {#create-a-push-notification}
 
-Het is eenvoudig om een pushmelding te maken. Voordat u echter begint, moet uw Marketo Admin en Mobile Apps Developer een aantal zaken hebben ingesteld die u nodig hebt terwijl u dit doet. Zie [Pushberichten](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) voor meer informatie.
+Het is eenvoudig om een pushmelding te maken. Voordat u echter begint, moet uw Marketo Admin en Mobile Apps Developer een aantal zaken hebben ingesteld die u nodig hebt terwijl u dit doet. Zie [ Begrijpend de Berichten van de Duw ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) voor details.
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,16 +23,16 @@ Het is eenvoudig om een pushmelding te maken. Voordat u echter begint, moet uw M
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. Onder **Nieuw**, klikt u op **Nieuw lokaal element**.
+1. Klik onder **[!UICONTROL New]** op **[!UICONTROL New Local Asset]** .
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Selecteren **Pushmelding**.
+1. Selecteer **[!UICONTROL Push Notification]** .
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Voer een **Naam pushmelding** en klik op **Maken**.
+1. Ga de Naam van het a **Push Bericht** in en klik **[!UICONTROL Create]**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Zoet! Nu het pushbericht is gemaakt, gaan we door en [opruimen](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   Zoet! Nu het Duwbericht wordt gecreeerd, gaan vooruit en [ het omhoog kleven ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

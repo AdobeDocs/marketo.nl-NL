@@ -4,9 +4,9 @@ description: Personen- en accountgegevens en -activiteiten weergeven in Google M
 title: Personen- en accountgegevens en -activiteiten weergeven in Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Op het tabblad Personen wordt relevante informatie over de persoon weergegeven, 
 
 ![](assets/1.png)
 
-Op het tabblad Accountactiviteiten worden relevante accountgegevens weergegeven, zoals de bedrijfsnaam, de URL van de website en de locatie. Op het tabblad worden ook de meest recente accountactiviteiten weergegeven. De account wordt geïdentificeerd door het persoonlijke domein. De activiteiten worden weergegeven in de lijst als een gebruiker van het Inzicht van de Verkoop in uw abonnement ooit met hen heeft gecorrespondeerd.
+Op het tabblad Accountactiviteiten worden relevante accountgegevens weergegeven, zoals de bedrijfsnaam, de URL van de website en de locatie. Op het tabblad worden ook de meest recente accountactiviteiten weergegeven. De account wordt geïdentificeerd door het persoonlijke domein. De activiteiten worden weergegeven in de lijst als een Insight-gebruiker voor verkoop in je abonnement ooit met deze gebruikers heeft gecorrespondeerd.
 
 ![](assets/2.png)
 
@@ -39,9 +39,9 @@ Klik op het Marketo-pictogram om het deelvenster uit te vouwen.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Activiteiten weergeven in Google Chrome {#view-activities-in-google-chrome}
+## Activiteiten weergeven in [!DNL Google Chrome] {#view-activities-in-google-chrome}
 
-U kunt het Globale Pane van de Activiteit in Google Chrome ook gebruiken om een volledige lijst van de meest recente activiteiten te zien die voor alle mensen zijn voorgekomen die u onlangs met hebt afgestemd. Dit is een real-time bijgewerkte feed die het aantal ongelezen activiteiten onophoudelijk weergeeft op het pictogram.
+U kunt ook het deelvenster Globale activiteit in [!DNL Google Chrome] gebruiken om een volledige lijst weer te geven van de meest recente activiteiten die zijn uitgevoerd voor alle mensen waarmee u onlangs hebt gecorrespondeerd. Dit is een real-time bijgewerkte feed die het aantal ongelezen activiteiten onophoudelijk weergeeft op het pictogram.
 
 Klik op het Marketo-pictogram om het deelvenster te openen.
 
@@ -49,4 +49,4 @@ Klik op het Marketo-pictogram om het deelvenster te openen.
 
 >[!MORELIKETHIS]
 >
->[Marketo Insights gebruiken voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[ Gebruikend de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

@@ -4,16 +4,16 @@ description: Mobiele toegangsbeveiliging verifiëren - Marketo Docs - Productdoc
 title: Beveiliging mobiele toegang verifiëren
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Beveiliging mobiele toegang verifiëren {#authenticate-mobile-access-security}
 
-Marketo biedt twee nieuwe id&#39;s om de beveiliging voor mobiele gebruikers te verbeteren: de Sleutel van de Toegang en het Geheime toegang. Deze helpen ervoor te zorgen dat gebruikers die zich aanmelden bij uw app, zijn wie ze lijken te zijn.
+Marketo biedt twee nieuwe id&#39;s om de beveiliging voor mobiele gebruikers te verbeteren: de [!UICONTROL Access Key] en de [!UICONTROL Access Secret] . Deze helpen ervoor te zorgen dat gebruikers die zich aanmelden bij uw app, zijn wie ze lijken te zijn.
 
 Als u de id&#39;s wilt inschakelen, moet u de codes aanschaffen en deze aan uw IT-afdeling verstrekken, zodat deze een veilige overeenkomst kunnen instellen.
 
@@ -21,7 +21,7 @@ Als u de id&#39;s wilt inschakelen, moet u de codes aanschaffen en deze aan uw I
 >
 >Om deze functie in te schakelen, neemt u contact op met de ondersteuningsafdeling en vraagt u om &quot;Vespa Secure Mode&quot;.
 
-1. Selecteer in Marketo **Beheer** en klik op **Mobiele apps en apparaten**.
+1. Selecteer **[!UICONTROL Admin]** in Marketo en klik op **[!UICONTROL Mobile Apps & Devices]** .
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,14 +29,14 @@ Als u de id&#39;s wilt inschakelen, moet u de codes aanschaffen en deze aan uw I
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Blader omlaag en klik in het gedeelte Toegangsbeveiliging op **Bewerken**.
+1. Schuif omlaag en klik in de sectie [!UICONTROL Access Security] op **[!UICONTROL Edit]** .
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Controleer de **Beveiliging inschakelen** selectievakje. Klikken **Opslaan**.
+1. Schakel het selectievakje **[!UICONTROL Enable Security]** in. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
-1. In het gebied Toegangsbeveiliging worden nu de twee nieuwe codes weergegeven. Stuur deze naar uw IT-afdeling.
+1. In het gebied [!UICONTROL Access Security] worden nu de twee nieuwe codes weergegeven. Stuur deze naar uw IT-afdeling.
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)

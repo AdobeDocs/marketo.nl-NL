@@ -4,9 +4,9 @@ description: Een e-mail operationeel maken - Marketo Docs - Productdocumentatie
 title: Een e-mail operationeel maken
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ In de operationele e-mailberichten worden de status Niet-geabonneerd en Door Mar
 >
 >Operationele e-mails tellen niet mee voor communicatielimieten. Als iemand bijvoorbeeld maar één e-mail per week kan ontvangen en u hebt hen al een marketingmail gestuurd, kunt u hen desgewenst nog steeds een operationele e-mail sturen.
 
-1. Vind uw e-mail, selecteer het en klik **uitgeven Ontwerp**.
+1. Zoek de e-mail, selecteer deze en klik op **[!UICONTROL Edit Draft]** .
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ In de operationele e-mailberichten worden de status Niet-geabonneerd en Door Mar
 >
 >Gebruik alleen operationele e-mails voor essentiële e-mails en automatisch reagerende gebruikers. Ze zijn niet bedoeld voor het op de markt brengen van e-mails.
 
-1. Zodra de redacteur opent, klik **E-mailmontages**.
+1. Klik op **[!UICONTROL Email Settings]** wanneer de editor wordt geopend.
 
    ![](assets/two-1.png)
 
-1. Controle **Operationele E-mail** en klik **sparen**.
+1. Controleer **[!UICONTROL Operational Email]** en klik op **[!UICONTROL Save]** .
 
    ![](assets/three.png)
 

@@ -4,20 +4,20 @@ description: Personen toevoegen aan een Benoemd account - Marketo Docs - Product
 title: Personen toevoegen aan een benoemde account
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-# Personen toevoegen aan een benoemde account {#add-people-to-a-named-account}
+# Personen toevoegen aan een [!UICONTROL Named Account] {#add-people-to-a-named-account}
 
 Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM manueel toe te voegen.
 
 ## Single Flow-actie {#single-flow-action}
 
-1. Klikken **Database**.
+1. Klik op **[!UICONTROL Database]**.
 
    ![](assets/one-2.png)
 
@@ -25,21 +25,21 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
    ![](assets/two.png)
 
-1. Klik op de persoon om deze te selecteren. Klik op de knop **Persoonlijke handelingen** vervolgkeuzelijst, klikken **Marketing** en selecteert u **Toevoegen aan benoemde account**.
+1. Klik op de persoon om deze te selecteren. Klik op de vervolgkeuzelijst **[!UICONTROL Person Actions]** , klik op **[!UICONTROL Marketing]** en selecteer **[!UICONTROL Add to Named Account...]** .
 
    ![](assets/three.png)
 
-1. Klik op de knop **Benoemd account** selecteert u het gewenste account en klikt u op **Nu uitvoeren**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Named Account]** , selecteer de gewenste [!UICONTROL Named Account] en klik op **[!UICONTROL Run Now]** .
 
    ![](assets/four.png)
 
 ## Stroom van slimme campagne {#smart-campaign-flow-step}
 
-1. Selecteer uw slimme campagne en klik op **Stroom**.
+1. Selecteer uw slimme campagne en klik op **[!UICONTROL Flow]** .
 
    ![](assets/five.png)
 
-1. Voer in het zoekvak &quot;Toevoegen aan benoemde account&quot; in.
+1. Typ &quot;[!UICONTROL Add to Named Account]&quot; in het zoekvak.
 
    ![](assets/six.png)
 
@@ -47,7 +47,7 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
    ![](assets/seven.png)
 
-1. Klik op de knop **Benoemd account** en selecteer het gewenste account met naam.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Named Account]** en selecteer de gewenste [!UICONTROL Named Account] .
 
    ![](assets/eight.png)
 
@@ -55,22 +55,22 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
 ## Lijstimport {#list-import}
 
-1. Selecteer uw lijst, klik **Handelingen weergeven** vervolgkeuzelijst en selecteer **Lijst importeren**.
+1. Selecteer de lijst, klik op de vervolgkeuzelijst **[!UICONTROL List Actions]** en selecteer **[!UICONTROL Import List]** .
 
    ![](assets/nine.png)
 
-1. Nadat u het bestand en de instellingen hebt gekozen, klikt u op **Volgende**.
+1. Klik op **[!UICONTROL Next]** nadat u het bestand en de instellingen hebt gekozen.
 
    ![](assets/ten.png)
 
-1. Wijs de gewenste velden toe. Zorg ervoor dat de **Benoemd account** veld is toegewezen.
+1. Wijs de gewenste velden toe. Controleer of het veld **[!UICONTROL Named Account]** is toegewezen.
 
    ![](assets/eleven.png)
 
-1. Kies de gewenste instellingen en klik op **Importeren**.
+1. Kies de gewenste instellingen en klik op **[!UICONTROL Import]** .
 
    ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
->[Lood naar overeenkomst met account](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[ Lood aan de Vergelijking van de Rekening ](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

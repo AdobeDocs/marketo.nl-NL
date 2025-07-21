@@ -4,9 +4,9 @@ description: Persoonlijke URL's inschakelen voor een bestemmingspagina - Marketo
 title: Persoonlijke URL's inschakelen voor een bestemmingspagina
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 
 >[!PREREQUISITES]
 >
->[Persoonlijke URL&#39;s voor uw account inschakelen](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>[ laat Persoonlijke URLs voor Uw Rekening toe ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. Selecteer een openingspagina en klik op de instellingen voor **Persoonlijke URL**.
+1. Selecteer een openingspagina en klik op de instellingen voor **[!UICONTROL Personalized URL]** .
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. U kunt nu controleren **Persoonlijke URL&#39;s inschakelen** en klik op **Opslaan**.
+1. U kunt nu **[!UICONTROL Enable Personalized URL]** controleren en op **[!UICONTROL Save]** klikken.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

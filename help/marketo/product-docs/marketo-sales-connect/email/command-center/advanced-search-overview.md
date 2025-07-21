@@ -4,10 +4,10 @@ description: Overzicht van geavanceerd zoeken - Marketo Docs - Productdocumentat
 title: Overzicht van geavanceerd zoeken
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 0%
+source-wordcount: '376'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
 ## Toegang tot geavanceerde zoekfunctie {#how-to-access-advanced-search}
 
-1. Klikken **Opdrachtcentrum**.
+1. Klik op **[!UICONTROL Command Center]**.
 
    ![](assets/one.png)
 
-1. Klikken **E-mails**.
+1. Klik op **[!UICONTROL Emails]**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
    ![](assets/three.png)
 
-1. Klikken **Geavanceerd zoeken**.
+1. Klik op **[!UICONTROL Advanced Search]**.
 
    ![](assets/four.png)
 
@@ -37,25 +37,25 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
 **Datum**
 
-Kies het datumbereik voor uw zoekopdracht. De datums met voorinstellingen worden bijgewerkt afhankelijk van de e-mailstatus die u hebt gekozen (Verzenden, Niet bezorgd, In behandeling).
+Kies het datumbereik voor uw zoekopdracht. Datums met voorinstellingen worden bijgewerkt afhankelijk van de e-mailstatus die u kiest ([!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending] ).
 
 ![](assets/date.png)
 
-**Wie**
+**Who**
 
-Filter op e-mailontvanger/afzender in de sectie Who.
+Filter op e-mailontvanger/afzender in de sectie [!UICONTROL Who] .
 
 ![](assets/who.png)
 
 | Vervolgkeuzelijst | Beschrijving |
 |---|---|
-| **Weergeven als** | Filter op een specifieke afzender in uw exemplaar van Sales Connect (deze optie is alleen beschikbaar voor Admins). |
-| **Op groep** | E-mailberichten filteren op een specifieke groep ontvangers. |
-| **Op persoon** | Filteren op een specifieke ontvanger. |
+| **[!UICONTROL View As]** | Filter door een specifieke afzender in uw [!DNL Sales Connect] -instantie (deze optie is alleen beschikbaar voor Admins). |
+| **[!UICONTROL By Group]** | E-mailberichten filteren op een specifieke groep ontvangers. |
+| **[!UICONTROL By Person]** | Filteren op een specifieke ontvanger. |
 
-**Wanneer**
+**wanneer**
 
-Kies op gemaakte datum, geleverde datum, mislukte datum of geplande datum. Welke opties beschikbaar zijn, is afhankelijk van de gekozen e-mailstatus (Verzenden, Niet bezorgd, In behandeling).
+Kies op gemaakte datum, geleverde datum, mislukte datum of geplande datum. Welke opties beschikbaar zijn, is afhankelijk van de e-mailstatus die u kiest ( [!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending] ).
 
 ![](assets/when.png)
 
@@ -77,7 +77,7 @@ Er zijn drie e-mailstatussen waaruit u kunt kiezen. De type-/activiteitopties ve
 
 Filters op basis van de verzonden e-mailactiviteit. U kunt weergaven/geen weergaven kiezen, klikken/geen klikken, en/of antwoorden/geen antwoorden.
 
-***Status: In behandeling***
+***Status: In afwachting van***
 
 ![](assets/status-pending.png)
 
@@ -85,11 +85,11 @@ Filtert op alle e-mails die in behandeling zijn.
 
 | Status | Beschrijving |
 |---|---|
-| **Gepland** | E-mails die zijn gepland vanuit het samenstellingsvenster (Salesforce of de Web App), e-mailplug-ins of een campagne. |
-| **Concepten** | E-mails die zich momenteel in de conceptstatus bevinden. E-mails vereisen een onderwerpregel en een ontvanger om als concept te worden opgeslagen. |
-| **In uitvoering** | E-mails die worden verzonden. E-mails mogen niet langer dan een paar seconden in deze status blijven. |
+| **[!UICONTROL Scheduled]** | E-mails die van het samenstellings venster ([!DNL Salesforce] of Web App), e-mailstop-ins, of een campagne zijn gepland. |
+| **[!UICONTROL Drafts]** | E-mails die zich momenteel in de conceptstatus bevinden. E-mails vereisen een onderwerpregel en een ontvanger om als concept te worden opgeslagen. |
+| **[!UICONTROL In Progress]** | E-mails die worden verzonden. E-mails mogen niet langer dan een paar seconden in deze status blijven. |
 
-***Status: Onbevonden***
+***Status: Niet bezorgd***
 
 ![](assets/status-undelivered.png)
 
@@ -97,19 +97,19 @@ Filters op e-mails die nooit zijn bezorgd.
 
 | Status | Beschrijving |
 |---|---|
-| **Mislukt** | Wanneer een e-mailbericht niet wordt verzonden vanuit Sales Connect (algemene redenen zijn onder andere: e-mails die worden verzonden naar contactpersonen die niet zijn geabonneerd of geblokkeerd, of als er een probleem is met het vullen van dynamische velden). |
-| **Afgekeerd** | Een e-mailbericht wordt gemarkeerd als teruggestuurd wanneer het wordt afgewezen door de server van de ontvanger. Hier worden alleen e-mails weergegeven die via Sales Connect-servers zijn verzonden. |
-| **Spam** | Wanneer het e-mailbericht door de ontvanger is gemarkeerd als spam (algemene term voor ongevraagde e-mail). Hier worden alleen e-mails weergegeven die via Sales Connect-servers zijn verzonden. |
+| **[!UICONTROL Failed]** | Wanneer een e-mailbericht niet wordt verzonden vanuit [!DNL Sales Connect] (algemene redenen zijn onder andere: e-mails die worden verzonden naar contactpersonen waarvoor geen abonnement is genomen of geblokkeerde contactpersonen, of als er een probleem is opgetreden met het vullen van dynamische velden). |
+| **[!UICONTROL Bounced]** | Een e-mailbericht wordt gemarkeerd als teruggestuurd wanneer het wordt afgewezen door de server van de ontvanger. Hier worden alleen e-mails weergegeven die via [!DNL Sales Connect] -servers zijn verzonden. |
+| **[!UICONTROL Spam]** | Wanneer het e-mailbericht door de ontvanger is gemarkeerd als spam (algemene term voor ongevraagde e-mail). Hier worden alleen e-mails weergegeven die via [!DNL Sales Connect] -servers zijn verzonden. |
 
 ## Opgeslagen zoekopdrachten {#saved-searches}
 
 Hieronder wordt beschreven hoe u een opgeslagen zoekopdracht maakt.
 
-1. Klik op **Filters opslaan als**.
+1. Klik op **[!UICONTROL Save Filters As]** nadat alle filters zijn geïnstalleerd.
 
    ![](assets/save-search-1.png)
 
-1. Geef uw zoekopdracht een naam en klik op **Opslaan**.
+1. Geef de zoekopdracht een naam en klik op **[!UICONTROL Save]** .
 
    ![](assets/save-search-2.png)
 

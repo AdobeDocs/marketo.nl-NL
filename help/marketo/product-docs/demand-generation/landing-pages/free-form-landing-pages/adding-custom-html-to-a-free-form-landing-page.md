@@ -4,9 +4,9 @@ description: Aangepaste HTML toevoegen aan een gratis landingspagina - Marketo D
 title: Aangepaste HTML toevoegen aan een openingspagina met vrije vorm
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ U kunt aangepaste scripts, CSS of andere HTML toevoegen om pagina&#39;s te lande
 >
 >Marketo Engage Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Voor hulp van HTML raadpleegt u een webontwikkelaar.
 
-1. Selecteer uw het landen pagina en klik **uitgeven Ontwerp**.
+1. Selecteer de openingspagina en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ U kunt aangepaste scripts, CSS of andere HTML toevoegen om pagina&#39;s te lande
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Ga uw code van douaneHTML in en klik **sparen**.
+1. Voer uw aangepaste HTML-code in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

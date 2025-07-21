@@ -4,7 +4,7 @@ description: Leden uit een werkblad importeren in een programma - Marketo Docs -
 title: Leden uit een werkblad importeren in een programma
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -17,7 +17,7 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
 ## CSV-bestand voorbereiden {#prepare-your-csv-file}
 
-1. Maak een standaard CSV-bestand in Excel, zoals in het onderstaande voorbeeld.
+1. Maak een standaard CSV-bestand in [!DNL Excel], zoals in het onderstaande voorbeeld.
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
@@ -27,7 +27,7 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
 ## CSV importeren in Marketo {#import-your-csv-into-marketo}
 
-1. Ga in uw programma naar de **[!UICONTROL Members]** sectie.
+1. Ga in uw programma naar de sectie **[!UICONTROL Members]** .
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
@@ -35,11 +35,11 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selecteer CSV en klik **[!UICONTROL Next]**.
+1. Selecteer de CSV en klik op **[!UICONTROL Next]** .
 
    ![](assets/importlist1.png)
 
-1. Wijs de gegevenswaarden van de lijst aan hun overeenkomstige Gebieden van Marketo toe en klik **[!UICONTROL Next]**.
+1. Wijs de gegevenswaarden in de lijst toe aan de corresponderende Marketo-velden en klik op **[!UICONTROL Next]** .
 
    ![](assets/importlist12.png)
 
@@ -47,7 +47,7 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
    >
    >Als er velden zijn die u niet wilt importeren, selecteert u **[!UICONTROL IGNORE]** in de vervolgkeuzelijst Marketo-veld.
 
-1. Selecteer de **[!UICONTROL Member Status]** voor uw lijst.
+1. Selecteer **[!UICONTROL Member Status]** voor uw lijst.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
@@ -65,4 +65,4 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
 >[!MORELIKETHIS]
 >
->[Leden beheren en weergeven](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>[ leidt en bekijkt Leden ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}

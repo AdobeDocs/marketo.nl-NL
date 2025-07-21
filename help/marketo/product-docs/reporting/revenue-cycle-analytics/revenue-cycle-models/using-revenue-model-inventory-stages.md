@@ -4,10 +4,10 @@ description: Opbrengstmodelinventarisatiestadia gebruiken - Marketo-documenten -
 title: Opbrengstmodelinventarisatiestadia gebruiken
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 0%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -17,43 +17,43 @@ Alle bekende leads en accounts bevinden zich aanvankelijk in de voorraadfase. De
 
 >[!TIP]
 >
->Het is een goed idee om een praktijkmodel in een grafisch of presentatieprogramma te creëren en het met uw collega&#39;s eerst te bevestigen.
+>Het is een goed idee om een praktijkmodel te maken in een grafisch of presentatieprogramma en dit eerst met uw collega&#39;s te bevestigen.
 
 ## Een inventarisatiegebied toevoegen {#add-an-inventory-stage}
 
-1. Klik op de knop **Analyse** in de **Mijn Marketo** beginscherm.
+1. Als u een nieuwe fase in de Inventaris van de inkomstencyclusmodellen wilt toevoegen, klikt u op de knop **[!UICONTROL Analytics]** in het **[!UICONTROL My Marketo]** -beginscherm.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In de **Analyse** , selecteert u het bestaande model, of [een nieuwe maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. In de **[!UICONTROL Analytics]** sectie, selecteer uw bestaand model, of [ creeer nieuwe ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Klikken **Concept bewerken**.
+1. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Als u een nieuwe inventarisfase wilt toevoegen, klikt u op de knop **Inventaris** en vervolgens naar een willekeurige positie op het canvas slepen.
+1. Als u een nieuw inventariswerkgebied wilt toevoegen, klikt u op de knop **[!UICONTROL Inventory]** en sleept u het werkgebied naar een willekeurige locatie op het canvas.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. U kunt de naam bewerken, een beschrijving toevoegen en het type aanpassen nadat u een werkgebied hebt toegevoegd. U kunt ook **[Tekstspatiëring per account starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** op dat moment.
+1. U kunt de **[!UICONTROL Name]** bewerken, een **[!UICONTROL Description]** toevoegen en de **[!UICONTROL Type]** aanpassen nadat u een werkgebied hebt toegevoegd. U kunt nu ook **[[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** selecteren.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Een inventarisgebied bewerken {#edit-an-inventory-stage}
 
-Als u een voorraadpictogram selecteert, kunt u de optie **Naam**, voegt u een **Beschrijving** of pas de **Type**. U kunt ook [Tekstspatiëring per account starten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Als u een inventarisatiepictogram selecteert, kunt u de **[!UICONTROL Name]** bewerken, een **[!UICONTROL Description]** toevoegen of de **[!UICONTROL Type]** aanpassen. U kunt ook [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) selecteren.
 
-1. Klik op het pictogram Overzicht.
+1. Klik op een pictogram **[!UICONTROL Inventory]** .
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Klik in het dialoogvenster **Naam** en **Beschrijving** velden om de inhoud te bewerken.
+1. Klik in de velden **[!UICONTROL Name]** en **[!UICONTROL Description]** om de inhoud ervan te bewerken.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Selecteer **Type** keuzelijst om te bewerken.
+1. Selecteer de keuzelijst **[!UICONTROL Type]** die u wilt bewerken.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,11 +63,11 @@ Als u een voorraadpictogram selecteert, kunt u de optie **Naam**, voegt u een **
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. U kunt een werkgebied ook verwijderen door erop te klikken en vervolgens in het dialoogvenster **Werkgebiedhandelingen** vervolgkeuzelijst, selecteren **Verwijderen**.
+1. U kunt een werkgebied ook verwijderen door erop te klikken en vervolgens in het vervolgkeuzemenu **[!UICONTROL Stage Actions]** de optie **[!UICONTROL Delete]** te selecteren.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klikken **Verwijderen**.
+1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klik op **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

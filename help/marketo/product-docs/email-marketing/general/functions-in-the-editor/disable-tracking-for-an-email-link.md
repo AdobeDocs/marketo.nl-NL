@@ -4,9 +4,9 @@ description: Bijhouden uitschakelen voor een e-mailkoppeling - Marketo Docs - Pr
 title: Bijhouden uitschakelen voor een e-mailkoppeling
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Soms wilt u niet **het Volgen URL van Marketo** op een verbinding in e-mail toel
 
 Ook, als een e-mail meer dan 365 dagen geleden **werd verzonden en** niemand op om het even welk van zijn verbindingen in de afgelopen 180 dagen heeft geklikt, drukt Marketo Engage de route aan URL van ons gegevensbestand, dat de verbinding zal veroorzaken om te breken. Dus als u de koppeling permanent wilt maken, moet u het bijhouden van koppelingen uitschakelen.
 
-1. Selecteer uw e-mail en klik **uitgeven Ontwerp**.
+1. Selecteer uw e-mail en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/one-7.png)
 
@@ -29,11 +29,11 @@ Ook, als een e-mail meer dan 365 dagen geleden **werd verzonden en** niemand op 
 
    ![](assets/three-6.png)
 
-1. In Edit Verbinding pop-up, uncheck het **checkbox van de Verbinding van het Spoor**.
+1. Schakel in het pop-upvenster Koppeling bewerken het selectievakje **[!UICONTROL Track Link]** uit.
 
    ![](assets/four-4.png)
 
-1. U zult **omvatten mkt_tok doos** verdwijnen. Klik **toepassen**.
+1. U zult merken dat **[!UICONTROL Include mkt_tok]doos** verdwijnt. Klik op **[!UICONTROL Apply]**.
 
    ![](assets/five-3.png)
 
@@ -41,7 +41,7 @@ Ook, als een e-mail meer dan 365 dagen geleden **werd verzonden en** niemand op 
    >
    >Unchecking enkel **omvat mkt_tok** nog zal de verbinding toestaan om worden gevolgd, maar na omleiding, zal bestemmingsURL niet de parameter van het mkt_tok vraagkoord omvatten. Deze parameter wordt gebruikt door Marketo Landing Pages en Munchkin om ervoor te zorgen dat de activiteiten van personen correct worden gevolgd (zoals wanneer een persoon zich afmeldt van een e-mail). Gebruik deze functie niet als u geen afwijkend gedrag op uw website ziet omdat de parameter aanwezig is.
 
-1. Klik **sparen**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

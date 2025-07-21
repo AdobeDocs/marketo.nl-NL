@@ -4,15 +4,15 @@ description: Gmail die niet wordt afgehaald in Sales Connect-handtekening - Mark
 title: Gmail niet in handtekening van Sales Connect
 exl-id: 33edf360-58bf-4d5a-a7a5-4912b717865f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Gmail niet in handtekening van Sales Connect {#gmail-not-pulling-in-sales-connect-signature}
 
-We gebruiken uw Gmail-handtekening in Gmail in plaats van uw [Handtekening van Verkoopverbinding](https://toutapp.com/next#settings).
+Wij gebruiken eigenlijk uw handtekening Gmail in Gmail, in tegenstelling tot het opnemen van uw [[!DNL Sales Connect]  handtekening ](https://toutapp.com/next#settings).
 
-U kunt uw handtekening bewerken in Gmail [hier](https://mail.google.com/mail/u/0/#settings/general).
+U kunt uw handtekening in Gmail [ hier ](https://mail.google.com/mail/u/0/#settings/general) uitgeven.

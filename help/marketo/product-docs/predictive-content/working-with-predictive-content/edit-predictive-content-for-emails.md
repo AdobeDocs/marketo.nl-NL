@@ -4,9 +4,9 @@ description: Predictieve inhoud voor e-mails bewerken - Marketo Docs - Productdo
 title: Voorspelende inhoud voor e-mails bewerken
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
 >[!PREREQUISITES]
 >
->Inhoud moet [goedgekeurd voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
+>De inhoud moet [ voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de [!UICONTROL All Content] pagina worden goedgekeurd.
 
-1. Klik op de pagina Voorspelende inhoud op een titel om de editor te openen.
+1. Klik op de pagina [!UICONTROL Predictive Content] op een titel om de editor te openen.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. De bewerkingspagina wordt geopend. **E-mail** worden standaard weergegeven.
+1. De bewerkingspagina wordt geopend. **[!UICONTROL Email]** wordt standaard weergegeven.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
    >
    >Als u het knoplabel hebt gewijzigd, wordt dit bijgewerkt wanneer u de wijzigingen opslaat of een voorvertoning van de afbeelding weergeeft.
 
-1. Als u de URL van de afbeelding wilt toevoegen of bewerken, klikt u op **Afbeelding bewerken**.
+1. Klik op **[!UICONTROL Edit Image]** om de URL van de afbeelding toe te voegen of te bewerken.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
    >
    >Voor de beste kwaliteit moet de afbeelding 400 x 400 pixels of kleiner zijn.
 
-1. Voeg de URL van de afbeelding in en klik op **Toevoegen**.
+1. Voeg de URL van de afbeelding in en klik op **[!UICONTROL Add]** .
 
    ![](assets/five.png)
 
-1. Klik en sleep de schuifregelaar om de afbeeldingsgrootte te wijzigen. Klik en sleep het uitsnijdvak om het gewenste afbeeldingsgebied te isoleren. Klikken **Voorvertoning** wanneer gereed.
+1. Klik en sleep de schuifregelaar om de afbeeldingsgrootte te wijzigen. Klik en sleep het uitsnijdvak om het gewenste afbeeldingsgebied te isoleren. Klik op **[!UICONTROL Preview]** als u klaar bent.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Klik indien nodig op de knop **Categorieën** en categorieën toevoegen aan de inhoud. De opties zijn afkomstig uit de [rubrieken die je al hebt ingesteld](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Klik indien nodig op het veld **[!UICONTROL Categories]** en voeg categorieën toe aan de inhoud. De opties zijn van de [ categorieën u reeds opstelling ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) hebt.
 
    ![](assets/eight.png)
 
@@ -68,10 +68,10 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
    ![](assets/nine.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >In Marketo Email Editor v2.0 kunt u ook [de lay-outsjablonen weergeven](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) gebruikt u terwijl u de inhoud toelaat.
+   >In Marketo E-mailredacteur v2.0, kunt u de lay-outmalplaatjes [ ook bekijken u gebruikt terwijl u de inhoud toelaat.](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)

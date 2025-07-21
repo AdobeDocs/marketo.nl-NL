@@ -4,24 +4,24 @@ description: Dashboards gebruiken in Revenue Explorer - Marketo Docs - Productdo
 title: Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
-# Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst {#using-dashboards-in-revenue-explorer}
+# Dashboards gebruiken in [!UICONTROL Revenue Explorer] {#using-dashboards-in-revenue-explorer}
 
-Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontvangsten om een snel overzicht van uw lood, campagnes, kansen, en/of modellen te krijgen.
+Een dashboard is een combinatie van [!UICONTROL Revenue Explorer] -rapporten voor een snel overzicht van uw leads, campagnes, mogelijkheden en/of modellen.
 
 ## Een nieuw dashboard maken {#creating-a-new-dashboard}
 
-1. Klikken **Ontdekkingsreiziger voor inkomsten**.
+1. Klik op **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Klikken **Nieuw maken** vervolgens **Dashboard**.
+1. Klik op **[!UICONTROL Create New]** en vervolgens op **[!UICONTROL Dashboard]** .
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    >[!NOTE]
    >
-   >U kunt de weergave van het dashboard verder aanpassen door op **Thema&#39;s** en kies je favoriet.
+   >U kunt de weergave van het dashboard verder aanpassen door op **[!UICONTROL Themes]** te klikken en uw favoriet te kiezen.
 
-1. Klik in de eerste sectie van het dashboard op de knop **Invoegen** pictogram en selecteer **Bestand**.
+1. In de eerste sectie van uw dashboard, klik het **pictogram van het Tussenvoegsel** en selecteer **[!UICONTROL File]**.
 
    ![](assets/four.png)
 
-1. Dubbelklikken **Ontdekkingsreiziger voor inkomsten**.
+1. Dubbelklik op **[!UICONTROL Revenue Explorer]** .
 
    ![](assets/five.png)
 
-1. Dubbelklikken **Alle rapporten en dashboards**.
+1. Dubbelklik op **[!UICONTROL All Reports and Dashboards]** .
 
    ![](assets/six.png)
 
@@ -49,7 +49,7 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/seven.png)
 
-1. Kies uw rapport en klik op **Selecteren**.
+1. Kies uw rapport en klik op **[!UICONTROL Select]** .
 
    ![](assets/eight.png)
 
@@ -57,38 +57,38 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/nine.png)
 
-1. Als u de naam van een sectie wilt wijzigen, klikt u erop om de sectie te selecteren, typt u de gewenste naam onder Titel en klikt u op **Toepassen**. Herhaal deze bewerking voor elke sectie.
+1. Als u de naam van een sectie wilt wijzigen, klikt u erop om de sectie te selecteren, typt u de gewenste naam onder **[!UICONTROL Title]** en klikt u op **[!UICONTROL Apply]** . Herhaal deze bewerking voor elke sectie.
 
    ![](assets/ten.png)
 
-1. Als u wilt opslaan, klikt u op het pictogram Opslaan, voert u een bestandsnaam in, dubbelklikt u op de map Revenue Explorer totdat u naar de gewenste map voor het dashboard gaat en klikt u op **Opslaan**.
+1. Als u het bestand wilt opslaan, klikt u op het pictogram [!UICONTROL Save] , voert u een [!UICONTROL Filename] in, dubbelklikt u op de map [!UICONTROL Revenue Explorer] totdat u naar de gewenste map voor het dashboard gaat en klikt u op **[!UICONTROL Save]** .
 
    ![](assets/eleven.png)
 
 ## Een dashboard bewerken {#editing-a-dashboard}
 
-1. Klikken **Ontdekkingsreiziger voor inkomsten**.
+1. Klik op **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Dubbelklik op de knop **Ontdekkingsreiziger voor inkomsten** map. Navigeer naar de plaats waar uw dashboard woont.
+1. Dubbelklik op de map **[!UICONTROL Revenue Explorer]** . Navigeer naar de plaats waar uw dashboard woont.
 
    ![](assets/thirteen.png)
 
-1. Selecteer het dashboard dat u wilt bewerken en klik op **Bewerken**.
+1. Selecteer het dashboard dat u wilt bewerken en klik op **[!UICONTROL Edit]** .
 
    ![](assets/fourteen.png)
 
 ## Een dashboard verwijderen {#deleting-a-dashboard}
 
-1. Klikken **Ontdekkingsreiziger voor inkomsten**.
+1. Klik op **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Dubbelklik op de knop **Ontdekkingsreiziger voor inkomsten** map. Navigeer naar de plaats waar uw dashboard woont.
+1. Dubbelklik op de map **[!UICONTROL Revenue Explorer]** . Navigeer naar de plaats waar uw dashboard woont.
 
    ![](assets/thirteen.png)
 
-1. Selecteer het dashboard dat u wilt verwijderen en klik op **Verplaatsen naar prullenmand**.
+1. Selecteer het dashboard dat u wilt verwijderen en klik op **[!UICONTROL Move to Trash]** .
 
    ![](assets/fifteen.png)

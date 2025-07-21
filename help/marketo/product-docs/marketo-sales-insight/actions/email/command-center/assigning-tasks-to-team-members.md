@@ -3,9 +3,9 @@ description: Taken toewijzen aan teamleden - Marketo Docs - Productdocumentatie
 title: Taken toewijzen aan teamleden
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 >
 >U kunt alleen taken toewijzen voor gedeelde contactpersonen.
 
-1. Klik in de webtoepassing op **Opdrachtcentrum**.
+1. Klik in de webtoepassing op **[!UICONTROL Command Center]** .
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Klikken **Taak toevoegen**.
+1. Klik op **[!UICONTROL Add Task]**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Voeg alle belangrijke details toe die relevant zijn voor uw teamgenoot (optioneel) en klik op **Maken**.
+1. Voeg alle belangrijke gegevens toe die relevant zijn voor uw teamgenoot (optioneel) en klik op **[!UICONTROL Create]** .
 
    ![](assets/assigning-tasks-to-team-members-9.png)

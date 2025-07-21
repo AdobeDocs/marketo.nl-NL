@@ -4,9 +4,9 @@ description: Algorithm Goal Settings - Marketo Docs - Productdocumentatie
 title: Standaardinstellingen algoritme
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 De Montages van het Doel van het Algoritme staat u toe om het einddoel van het kunstmatige van de Inhoudsintelligentie algoritme te plaatsen om zich aan uw bedrijfsdoelstellingen te richten.
 
-1. Klik in Voorspelende inhoud op de naam van uw aanmelding en selecteer **Inhoudsinstellingen**.
+1. Klik in Voorspelende inhoud op de naam van uw aanmelding en selecteer **[!UICONTROL Content Settings]** .
 
    ![](assets/1.png)
 
-1. Selecteer onder Inhoudsinstellingen de optie **Algorithm**.
+1. Selecteer onder Instellingen voor inhoud de optie **[!UICONTROL Algorithm]** .
 
    ![](assets/two-1.png)
 
@@ -27,10 +27,10 @@ De Montages van het Doel van het Algoritme staat u toe om het einddoel van het k
 
    ![](assets/three-new.png)
 
-   | **Klikken** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk zal maken om erop te klikken |
+   | **[!UICONTROL Clicks]** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk zal maken om erop te klikken |
    |---|---|
-   | **Conversies** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk maakt om een formulier te verzenden |
+   | **[!UICONTROL Conversions]** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk maakt om een formulier te verzenden |
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/four.png)

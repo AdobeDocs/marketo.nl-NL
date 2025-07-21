@@ -4,9 +4,9 @@ description: Betrokkenheidsstroomprestatierapport - Marketo Docs - Productdocume
 title: Prestatierapport voor betrokkenheidsstream
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
 
 ## Het rapport maken {#create-the-report}
 
-1. Zoek en selecteer uw serviceprogramma, dan onder **Nieuw** klikken **Nieuw lokaal element**.
+1. Zoek en selecteer uw betrokkenheidsprogramma en klik vervolgens onder **[!UICONTROL New]** **[!UICONTROL New Local Asset]** .
 
    ![](assets/localassetnutring.jpg)
 
-1. Selecteren **Rapport**.
+1. Selecteer **[!UICONTROL Report]** .
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
    >
    >Het opstellen van het verslag in het kader van het programma beperkt het automatisch tot de inhoud van het programma.
 
-   Selecteer de Prestaties van de Stroom van de Betrokkenheid als rapporttype.
+   Selecteer **[!UICONTROL Engagement Stream Performance]** als het rapport **[!UICONTROL Type]** .
    ![](assets/engagementreportchoose.png)
 
-1. Geef uw rapport een naam en klik op **Maken**.
+1. Geef een naam op voor uw rapport en klik op **[!UICONTROL Create]** .
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,22 +44,22 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Onder de **Instellen** , dubbelklikt u op de knop **E-mail over het betrokkenheidsprogramma** filter.
+1. Dubbelklik op het filter **[!UICONTROL Setup]** onder het tabblad **[!UICONTROL Engagement Program Emails]** .
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Selecteer de e-mail(s) waarop u wilt rapporteren en klik op **Toepassen**.
+1. Selecteer de e-mail(s) die u wilt melden en klik op **[!UICONTROL Apply]** .
 
    ![](assets/engagementfilter.jpg)
 
 ## Rapport uitvoeren {#run-report}
 
-1. Als u het rapport wilt uitvoeren, klikt u op de knop **Rapport** tab.
+1. Als u het rapport wilt uitvoeren, klikt u gewoon op de tab **[!UICONTROL Report]** .
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [De betrokkenheidsscore begrijpen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) voor meer informatie over wat het is.
+   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [ Begrijpend de Score van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) voor details over wat het is.
 
    Geweldig werk! Het rapport is gegroepeerd op betrokkenheidsprogramma.

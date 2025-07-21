@@ -4,9 +4,9 @@ description: Progressieve profilering van formulieren configureren - Marketo Doc
 title: Progressieve profilering van formulieren configureren
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
 
 >[!NOTE]
 >
->Voor een correcte werking van deze functie moet de optie Vooraf invullen van formulier zijn ingeschakeld voor zichtbare velden, en [uitgeschakeld](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) voor verborgen velden.
+>Voor deze eigenschap om behoorlijk te werken, zorg ervoor de Vorm pre-Vulling voor zichtbare gebieden wordt toegelaten, en [ gehandicapt ](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) voor verborgen gebieden.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/ma-1.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Onder **Formulierinstellingen**, klikt u op **Instellingen**.
+1. Klik onder **[!UICONTROL Form Settings]** op **[!UICONTROL Settings]** .
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Set **Progressieve profielen** tot **Ingeschakeld**.
+1. Stel **[!UICONTROL Progressive Profiling]** in op **[!UICONTROL Enabled]** .
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Oké, nu configureren we het. Ga naar **Velddetails**.
+1. Oké, nu configureren we het. Ga naar **[!UICONTROL Field Details]** .
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,23 +49,23 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
 
    >[!NOTE]
    >
-   >De velden buiten de **Progressieve profielen** wordt altijd in het formulier weergegeven, zelfs als deze zijn ingevuld.
+   >De velden buiten het vak **[!UICONTROL Progressive Profiling]** worden altijd in het formulier weergegeven, zelfs als ze zijn ingevuld.
 
-1. Selecteer **Progressieve profielen** doos.
+1. Selecteer het vak **[!UICONTROL Progressive Profiling]** .
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Wees voorzichtig wanneer u vereiste velden gebruikt in Progressieve profielen. Deze velden kunnen nog steeds leeg blijven als de bezoeker een nieuw e-mailadres invoert (waarmee een nieuwe persoon wordt gemaakt) nadat hij eerder gegevens voor de andere velden heeft verzonden, zoals deze op het laatste formulier worden onderdrukt.
+   >Wees voorzichtig wanneer u vereiste velden gebruikt in [!UICONTROL Progressive Profiling] . Deze velden kunnen nog steeds leeg blijven als de bezoeker een nieuw e-mailadres invoert (waarmee een nieuwe persoon wordt gemaakt) nadat hij eerder gegevens voor de andere velden heeft verzonden, zoals deze op het laatste formulier worden onderdrukt.
 
-1. Kies nu hoeveel lege velden u wilt zien in het menu **Progressieve profielen** op een bepaald tijdstip.
+1. Kies nu hoeveel lege gebieden u mensen van het **Progressieve Profilerende** vakje op een bepaald ogenblik wilt zien.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Als u **Getal** **van** **Leeg** **Velden** als 1 ziet de bezoeker de volgende keer dat hij dit formulier ziet:
+   >Als u **[!UICONTROL Number of Blank Fields]** als 1 kiest, ziet de bezoeker de volgende keer dat deze het formulier ziet:
    >
    >* Voornaam (leeg)
    >* Achternaam (leeg)
@@ -86,11 +86,11 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
    >* E-mailadres (vooraf ingevuld)
    >* Land (leeg)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

@@ -4,9 +4,9 @@ description: Mobiele weergave aanpassen voor uw gratis landingspagina - Marketo 
 title: De mobiele weergave aanpassen voor uw openingspagina
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een mobiele weergave toevoegen voor uw openingsbestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[ voeg een Mobiele Mening voor Uw Vrije-Vorm het Landen Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 De mobiele weergave van de openstaande landingspagina is meestal automatisch, maar u kunt de weergave aanpassen. Zo gaat het.
 
@@ -23,17 +23,17 @@ De mobiele weergave van de openstaande landingspagina is meestal automatisch, ma
 
    ![](assets/selectlandingapge.jpg)
 
-1. Klikken **Concept bewerken**.
+1. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klik op de knop **Mobiel** tab.
+1. Klik op de tab **[!UICONTROL Mobile]** .
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## Mobiele vs. desktopweergave {#mobile-vs-desktop-view}
 
-Onder Pagina-elementen ziet u een ![](assets/image2015-1-22-18-3a39-3a53.png) (bureaublad) en een ![](assets/image2015-1-22-18-3a40-3a31.png) (mobiel) pictogram. Hierdoor kunt u verschillende elementen dynamisch tonen/verbergen.
+Onder Pagina-elementen ziet u een pictogram ![](assets/image2015-1-22-18-3a39-3a53.png) (bureaublad) en een pictogram ![](assets/image2015-1-22-18-3a40-3a31.png) (mobiel). Hierdoor kunt u verschillende elementen dynamisch tonen/verbergen.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +83,15 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 
 >[!TIP]
 >
->De mobiele weergave kan ook een andere rangschikking van pagina-elementen hebben. U kunt de objecten verplaatsen op de landingspagina in vrije vorm of de objecten in de lijst onder opnieuw rangschikken **Pagina-elementen** slepen en neerzetten gebruiken.
+>De mobiele weergave kan ook een andere rangschikking van pagina-elementen hebben. Verplaats de objecten op de openingspagina of wijzig de volgorde van de objecten onder **[!UICONTROL Page Elements]** met slepen en neerzetten.
 
 ## Voorbeeld van mobiele weergave {#preview-mobile-view}
 
-1. Klikken **Concept voorvertonen**.
+1. Klik op **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Wil je iets cool zien? Selecteren **Naast elkaar**.
+1. Wil je iets cool zien? Selecteer **[!UICONTROL Side By Side]** .
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Als je het leuk vindt, klik dan op **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]** als je er dol op bent.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -111,4 +111,4 @@ Veel plezier!
 
 >[!MORELIKETHIS]
 >
->[Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[ maak een Bestaand Vrije vorm het Mobiele Compatibele Malplaatje van de Pagina Mobiele ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

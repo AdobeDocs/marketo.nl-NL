@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377640
-description: De Marketo Outlook-insteekmodule autoriseren - Marketo Docs - Productdocumentatie
-title: De Marketo Outlook-insteekmodule autoriseren
+description: Autoriseer de Marketo  [!DNL Outlook]  Insteekmodule - de Documentatie van Marketo -
+title: 'Autoriseer de Insteekmodule van Marketo  [!DNL Outlook] '
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# De Marketo Outlook-insteekmodule autoriseren {#authorize-the-marketo-outlook-plugin}
+# De Marketo-insteekmodule [!DNL Outlook] autoriseren {#authorize-the-marketo-outlook-plugin}
 
-Als u de Marketo MSI-plug-in in Outlook wilt gebruiken, moet u deze autoriseren.
+Als u de Marketo MSI-plug-in [!DNL Outlook] wilt gebruiken, moet u deze autoriseren.
 
 >[!PREREQUISITES]
 >
@@ -21,21 +21,21 @@ Als u de Marketo MSI-plug-in in Outlook wilt gebruiken, moet u deze autoriseren.
 
 >[!IMPORTANT]
 >
->Microsoft heeft een [nieuwe versie van Outlook voor Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft heeft a [ nieuwe versie van Vooruitzichten voor Vensters ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} vrijgegeven. Deze nieuwe versie steunt niet de bestaande stop van Vooruitzichten MSI. De insteekmodule MSI Outlook blijft werken voor Windows-desktops met de klassieke versie van Outlook. Meer over de nieuwe Vooruitzichten voor Vensters voor organisaties leren, [ klik hier ](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Klik op een van de knoppen voor Marketo-berichten.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Klik in het dialoogvenster Marketo-insteekmodule autoriseren op **Aanvraagcode**.
+1. Klik op [!UICONTROL Authorize Marketo Plugin] wanneer het dialoogvenster **[!UICONTROL Request Code]** verschijnt.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
-1. De code wordt verzonden naar uw standaard het e-mailadres van de Rekening van Vooruitzichten.
+1. De code wordt naar het standaard e-mailadres van uw account van [!DNL Outlook] verzonden.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Als het e-mailadres van uw standaard Outlook-account wordt uitgecheckt, ontvangt u een registratiesleutel. Voer deze in het pop-upmenu in en klik op **Verzenden**.
+1. Als uw standaard [!DNL Outlook] e-mailadres van uw account wordt uitgecheckt, ontvangt u een registratiesleutel. Voer deze in het pop-upmenu in en klik op **[!UICONTROL Submit]** .
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

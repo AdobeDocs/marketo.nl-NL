@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: Het begrip van het Lusje van het Team - de Documenten van Marketo - de Documentatie van het Product
-title: Het begrip van het Lusje van het Team
+description: Inzicht krijgen in het tabblad [!UICONTROL Team] - Marketo Docs - Productdocumentatie
+title: Het tabblad [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Het begrip van het Lusje van het Team {#understanding-the-team-tab}
+# Het tabblad [!UICONTROL Team] {#understanding-the-team-tab}
 
-In het Lusje van het Team benadrukken wij drie belangrijke metriek.
+Op het tabblad [!UICONTROL Team] markeren we drie belangrijke meetgegevens.
 
 ## E-mails verzonden met template {#emails-sent-with-template}
 

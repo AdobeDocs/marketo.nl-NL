@@ -1,24 +1,24 @@
 ---
-description: Handelingen Admin Setup-handleiding voor het toezicht op de verkoop - Marketo Docs - Productdocumentatie
-title: Handleiding voor installatie van Admin Setup voor het inzicht in verkoop
+description: Handelingen Insight Handelingen Admin Setup Guide - Marketo Docs - Productdocumentatie
+title: Handleiding Insight Actions Admin Setup Guide
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '604'
 ht-degree: 0%
 
 ---
 
-# Handleiding voor installatie van Admin Setup voor het inzicht in verkoop {#sales-insight-actions-admin-setup-guide}
+# Handleiding Insight Actions Admin Setup Guide {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
->De Acties van het Inzicht van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van het Inzicht van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 >[!PREREQUISITES]
 >
->* Bevestig met het Team van de Rekening van de Adobe (uw Manager van de Rekening) dat de Acties MSI voor uw Rekening van het Marketo Engage zijn toegelaten (als u geen Manager van de Rekening hebt, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} ).
+>* Bevestig met het Team van de Rekening van Adobe (uw Manager van de Rekening) dat de Acties MSI voor uw Rekening van Marketo Engage (als u geen Manager van de Rekening hebt, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}) is toegelaten.
 >* Uw Marketo/Salesforce-synchronisatie moet zijn ingesteld.
 
 <table>
@@ -31,8 +31,8 @@ ht-degree: 0%
   <td>Marketo-verkoopaccount instellen</td>
  </tr>
  <tr>
-  <td>Marketo Admin of <br/> Salesforce Admin</td>
-  <td>Marketo-verkoopaccount verbinden met Salesforce</td>
+  <td>Marketo Admin of <br/>[!DNL Salesforce] Admin</td>
+  <td>Marketo Sales-account verbinden met [!DNL Salesforce]</td>
  </tr>
  <tr>
   <td>Marketo Admin</td>
@@ -47,18 +47,18 @@ ht-degree: 0%
   <td>Gebruikers uitnodigen voor MSI-handelingen</td>
  </tr>
  <tr>
-  <td>Salesforce Admin</td>
-  <td>MSI-pakket installeren/upgraden in Salesforce</td>
+  <td>[!DNL Salesforce] Beheerder</td>
+  <td>MSI-pakket installeren/upgraden in [!DNL Salesforce]</td>
  </tr>
  <tr>
-  <td>Salesforce Admin</td>
-  <td>MSI-acties configureren in Salesforce</td>
+  <td>[!DNL Salesforce] Beheerder</td>
+  <td>MSI-handelingen configureren in [!DNL Salesforce]</td>
  </tr>
 </table>
 
 ## Marketo-verkoopaccount instellen {#set-up-marketo-sales-account}
 
-1. In Marketo, klik **Admin**.
+1. Klik in Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/msi-actions-admin-guide-1.png)
 
@@ -66,7 +66,7 @@ ht-degree: 0%
    >
    >Als u geen identiteitskaart van de Cliënt en Geheim van de Cliënt op de kaart van de Informatie van de Integratie ziet, activeer uw instantie van Acties door de eerste gebruiker uit te nodigen, en u zult Cliënt ID en Geheim verschijnen Cliënt zien.
 
-1. Klik **Inzicht van de Verkoop**, toen **Config van Acties**. Selecteer van een lijst van beheerders van Marketo om uit te nodigen en te klikken **verzendt Uitnodiging**.
+1. Klik **Insight van de Verkoop**, toen **Config van Acties**. Selecteer van een lijst van beheerders van Marketo om uit te nodigen en te klikken **verzendt Uitnodiging**.
 
    ![](assets/msi-actions-admin-guide-2.png)
 
@@ -76,89 +76,89 @@ De gebruiker zal een e-mail met stappen ontvangen om toegang tot de rekening te 
 >
 >Extra gebruikers worden niet toegevoegd via Marketo en worden toegevoegd via de pagina Gebruikersbeheer van verkoopaccount. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} om meer over het toevoegen van extra gebruikers te leren.
 
-## Marketo-verkoopaccount verbinden met Salesforce {#connect-marketo-sales-account-to-salesforce}
+## Marketo-verkoopaccount verbinden met [!DNL Salesforce] {#connect-marketo-sales-account-to-salesforce}
 
-1. In uw rekening van de Verkoop van Marketo, klik het tandwielpictogram en selecteer **Montages**.
+1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. Onder Montages Admin, klik **Salesforce**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL Salesforce]** .
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. In het lusje van Verbindingen &amp; van Aanpassingen, klik **verbinden**.
+1. Klik op het tabblad [!UICONTROL Connections & Customizations] op **[!UICONTROL Connect]** .
 
    ![](assets/msi-actions-admin-guide-5.png)
 
-1. Klik **OK**.
+1. Klik op **[!UICONTROL OK]**.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-Als u al bij Salesforce bent aangemeld, hebt u verbinding. Als je dat niet bent, wordt je gevraagd je aan te melden.
+Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als je dat niet bent, wordt je gevraagd je aan te melden.
 
 ## Marketo verbinden met uw account voor verkoopapps {#connect-marketo-to-your-sales-apps-account}
 
-1. In uw rekening van de Verkoop van Marketo, klik het tandwielpictogram en selecteer **Montages**.
+1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. Onder Montages Admin, klik **Marketo**.
+1. Onder [!UICONTROL Admin Settings], klik **Marketo**.
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. Klik **verbinden**. Uw account wordt dan verbonden.
+1. Klik op **[!UICONTROL connect]**. Uw account wordt dan verbonden.
 
    ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
->Als er geen verbinding wordt gemaakt, kopieert u de gegevens van het Marketo Sales Insight-tabblad &quot;Actions Config&quot; en plakt u deze op het tabblad Set-up.
+>Als er geen verbinding wordt gemaakt, kopieert u de gegevens van het tabblad &quot;Actions Config&quot; van Marketo Sales Insight en plakt u deze op het tabblad Set-up.
 
 ## Gegevenssynchronisatie starten {#initiate-data-sync}
 
-De het gebiedssynchronisatie van de gegevenseenmaking voor de Acties van het Inzicht van de Verkoop laat het systeem toe om persooninformatie van uw gegevensbestand van het Marketo Engage in uw gegevensbestand van de Acties van het Inzicht van de Verkoop te trekken, die uw gegevens van uw mensen bijgewerkt houden en ervoor zorgen de activiteiten aan de juiste verslagen over Marketo en Salesforce worden geregistreerd.
+Met de Data Unification field sync for Sales Insight Actions kan het systeem persoonlijke gegevens uit uw Marketo Engage-database ophalen in uw Sales Insight Actions-database, de gegevens van uw mensen up-to-date houden en ervoor zorgen dat activiteiten worden geregistreerd naar de juiste records in Marketo en [!DNL Salesforce] .
 
 >[!CAUTION]
 >
->Zodra u gegevenssynchronisatie in werking stelt, zou u **&#x200B;**&#x200B;niet de originele gebruiker op uw instantie van de Acties van het Inzicht van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
+>Zodra u gegevenssynchronisatie in werking stelt, zou u **** niet de originele gebruiker op uw instantie van de Acties van Insight van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
 
-1. In Marketo, klik **Admin**.
+1. Klik in Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klik **Inzicht van de Verkoop**.
+1. Klik op **[!UICONTROL Sales Insight]**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klik **Config van Acties** tabel. In de kaart van de Synchronisatie van het Gebied van de Actie, klik **Synchronisatie**.
+1. Klik op de tab **[!UICONTROL Actions Config]** . Klik op de synchronisatiekaart voor het actieveld op **[!UICONTROL Sync]** .
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. U ziet een voorvertoning van de velden die worden gesynchroniseerd. Klik **Synchronisatie van het Begin**.
+1. U ziet een voorvertoning van de velden die worden gesynchroniseerd. Klik op **[!UICONTROL Start Sync]**.
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Persoonsgegevens die in Marketo en Salesforce bestaan, worden gesynchroniseerd met je Marketo Sales Apps-account.
+Persoonlijke records die in Marketo en [!DNL Salesforce] bestaan, worden gesynchroniseerd met je Marketo Sales Apps-account.
 
 >[!NOTE]
 >
->Om meer over te leren hoe de mensen en activiteitengegevens tussen de Acties van het Inzicht van de Verkoop, Marketo, en Salesforce synchroniseren, [ klik hier ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>Om meer over te leren hoe de mensen en activiteitengegevens tussen de Acties van Insight van de Verkoop, Marketo, en Salesforce synchroniseren, [ klik hier ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Individuele gebruikers uitnodigen voor MSI-handelingen {#invite-individual-users-to-msi-actions}
 
-1. In uw rekening van de Verkoop van Marketo, klik het tandwielpictogram en selecteer **Montages**.
+1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. Onder Montages Admin, uitgezochte **Beheer van de Gebruiker**.
+1. Selecteer onder [!UICONTROL Admin Settings] de optie **[!UICONTROL User Management]** .
 
    ![](assets/msi-actions-admin-guide-15.png)
 
-1. Klik **Acties** en selecteer **Uitnodigen Gebruikers**.
+1. Klik op **[!UICONTROL Actions]** en selecteer **[!UICONTROL Invite Users]** .
 
    ![](assets/msi-actions-admin-guide-16.png)
 
-1. Ga het e-mailadres(sen) in en klik **Uitnodiging**.
+1. Voer het e-mailadres of de e-mailadressen in en klik op **[!UICONTROL Invite]** .
 
    ![](assets/msi-actions-admin-guide-17.png)
 
@@ -170,23 +170,23 @@ Je ontvangt een bevestigingsbericht.
 
 ## Gebruikers via CSV uitnodigen voor MSI-handelingen {#invite-users-via-csv-to-msi-actions}
 
-1. In uw rekening van de Verkoop van Marketo, klik het tandwielpictogram en selecteer **Montages**.
+1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. Onder Montages Admin, uitgezochte **Beheer van de Gebruiker**.
+1. Selecteer onder [!UICONTROL Admin Settings] de optie **[!UICONTROL User Management]** .
 
    ![](assets/msi-actions-admin-guide-19.png)
 
-1. Klik **Acties** en selecteer **Gebruikers via CSV** uitnodigen.
+1. Klik op **[!UICONTROL Actions]** en selecteer **[!UICONTROL Invite Users via CSV]** .
 
    ![](assets/msi-actions-admin-guide-20.png)
 
-1. Blader naar CSV op uw computer, selecteer het, en klik **daarna**.
+1. Blader naar de CSV op de computer, selecteer deze en klik op **[!UICONTROL Next]** .
 
    ![](assets/msi-actions-admin-guide-21.png)
 
-1. Bevestig dat de gebieden behoorlijk in kaart worden gebracht en klik **uitnodigen**.
+1. Controleer of de velden correct zijn toegewezen en klik op **[!UICONTROL Invite]** .
 
    ![](assets/msi-actions-admin-guide-22.png)
 

@@ -1,35 +1,35 @@
 ---
 unique-page-id: 2953373
-description: Abonnement op voetteksten opzeggen in Marketo Sales Insight - Marketo Docs - Productdocumentatie configureren
+description: Abonnementsvoetteksten configureren in Marketo Sales Insight - Marketo Docs - Productdocumentatie
 title: Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# Abonnementsvoetteksten configureren in [!DNL Marketo Sales Insight] {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van abonnementen onderaan. U kunt de instellingen echter aan uw wensen aanpassen.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!NOTE]
 >
 >**Definitie**
 >
->**E-mails over verkopen** zijn die verzonden van het Inzicht van de Verkoop (het omvat niet die verzonden van de Insteekmodule van Marketo Outlook).
+>**E-mails van de Verkoop** zijn die verzonden van [!DNL Sales Insight] (het omvat niet die verzonden van de Insteekmodule van Marketo Outlook).
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/one-1.png)
 
-1. Klikken **Verkoopoverzicht** vervolgens **Instellingen bewerken**.
+1. Klik op **[!UICONTROL Sales Insight]** en vervolgens op **[!UICONTROL Edit Settings]** .
 
    ![](assets/two-1.png)
 
@@ -37,19 +37,19 @@ E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van ab
 
    ![](assets/three-1.png)
 
-   * **Geen sjabloon** - Handmatig samengesteld door verkoopgebruiker.
-   * **Standaard-e-mail** - E-mails op basis van een sjabloon.
-   * **Operationele e-mail** - E-mails die Geabonneerde, Op de markt gebrachte Opgeschorste, en Communicatie Limieten negeren (zij verzenden geen kwestie wat).
+   * **[!UICONTROL No Template]** - Handmatig samengesteld door verkoopgebruiker.
+   * **[!UICONTROL Standard Email]** - E-mails op basis van een sjabloon.
+   * **[!UICONTROL Operational Email]** - E-mails waarin de limiet voor abonnementen, marketingonderbreking en communicatie wordt genegeerd (ze verzenden niets).
 
    U kunt voor elk type een ander gedrag instellen.
 
    >[!CAUTION]
    >
-   >**Abonnementsinstellingen respecteren**: niet-geabonneerde leads ontvangen de e-mail NIET, zelfs niet als de gepubliceerde e-mail &quot;operationeel&quot; is
+   >**[!UICONTROL Respect Unsubscribe Settings]**: niet-geabonneerde leads ontvangen de e-mail NIET, zelfs niet als de gepubliceerde e-mail &quot;operationeel&quot; is
    >
-   >**Abonnementsinstellingen negeren**: niet-geabonneerde leads WILL ontvangen de e-mail
+   >**[!UICONTROL Ignore Unsubscribe Settings]**: niet-geabonneerde leads ontvangen het e-mailbericht
 
-1. Breng de gewenste wijzigingen aan en klik op **Opslaan**.
+1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]** .
 
    >[!TIP]
    >

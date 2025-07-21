@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11382815
-description: Installatie van Marketo Outlook-insteekmodule door IT - Marketo-documenten - Productdocumentatie
-title: Installatie van Marketo Outlook-insteekmodule door IT
+description: De Installatie van de Insteekmodule van Marketo  [!DNL Outlook]  door IT - de Documenten van Marketo - de Documentatie van het Product
+title: Installatie van de insteekmodule van Marketo  [!DNL Outlook]  door IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Installatie van Marketo Outlook-insteekmodule door IT {#marketo-outlook-plugin-installation-by-it}
+# Installatie van insteekmodule Marketo [!DNL Outlook] door IT {#marketo-outlook-plugin-installation-by-it}
 
 Soms vereisen bedrijfsbeleid dat hun Team van IT alle software op hun werknemers&#39; computers installeert. In deze gevallen doet IT dit vaak op afstand met behulp van hun eigen implementatiesoftware. Dit document verstrekt de bevellijnen u als input tijdens het plaatsingsproces zou gebruiken om de outlook stop-in ver te installeren.
 
 >[!PREREQUISITES]
 >
->[Instellen](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) de Enterprise-toets.
+>[ opstelling ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) de Sleutel van de Onderneming.
 
 Voer de volgende bevellijn als &quot;Systeem&quot;of een Administratieve gebruikersrekening met de /i schakelaar in werking om te installeren.
 
@@ -53,8 +53,8 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 >
 >De opslaglocatie van het logbestand moet bestaan of de installatie wordt afgebroken.
 
-Zie [Microsoft&#39;s volledige lijst met switches](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Gelieve te verwijzen naar [ volledige lijst van Microsoft van schakelaars ](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
 
 >[!MORELIKETHIS]
 >
->[Marketo Outlook-insteekmodule verwijderd door IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[ De Insteekmodule van Marketo  [!DNL Outlook]  {door IT ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md) verwijderen

@@ -1,22 +1,22 @@
 ---
 description: Hoe voorkom ik zelfweergave - Marketo Docs - Productdocumentatie
-title: Hoe voorkom ik zelfweergaven?
+title: Hoe voorkom ik zelfweergaven
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
 # Hoe voorkom ik zelfweergaven? {#how-do-i-prevent-self-views}
 
-Het krijgen van valse positieven op uw mening het volgen kan tot het melden van inconsistenties leiden. Dit gebeurt vaak wanneer gebruikers van Marketo Sales per ongeluk de volgende pixel aanroepen vanuit hun e-mailclient (we noemen dit een zelfweergave). Hieronder vindt u enkele tips voor het aanzienlijk verkleinen en zelfs verwijderen van zelfmeningen.
+Het krijgen van valse positieven op uw mening het volgen kan tot het melden van inconsistenties leiden. Dit gebeurt vaak wanneer gebruikers van [!DNL Marketo Sales] per ongeluk de volgende pixel aanroepen vanuit hun e-mailclient (we noemen dit een zelfweergave). Hieronder vindt u enkele tips voor het aanzienlijk verkleinen en zelfs verwijderen van zelfmeningen.
 
-## Web (Outlook Web App en Gmail) {#web-outlook-web-app-and-gmail}
+## Web ([!DNL Outlook] Web App en Gmail) {#web-outlook-web-app-and-gmail}
 
-Marketo Sales slaat een cookie op in uw browser om te voorkomen dat weergaven worden bijgehouden wanneer u uw e-mails opent vanuit Outlook Web App en Gmail. Als u nog zelfmeningen ontvangt, adviseren wij het volgende te doen:
+[!DNL Marketo Sales] slaat een cookie op in uw browser om te voorkomen dat weergaven worden bijgehouden wanneer u uw e-mails opent via [!DNL Outlook] Web App en Gmail. Als u nog zelfmeningen ontvangt, adviseren wij het volgende te doen:
 
 * Zorg ervoor dat cookies zijn ingeschakeld op uw computer.
 
@@ -24,48 +24,48 @@ Marketo Sales slaat een cookie op in uw browser om te voorkomen dat weergaven wo
 
 ## Desktop (Windows) {#desktop-windows}
 
-Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te downloaden in uw e-mailclient. U kunt het aantal zelfweergaven in Outlook aanzienlijk verminderen door afbeeldingen die automatisch moeten worden gedownload uit te schakelen. Hieronder volgen de stappen.
+Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te downloaden in uw e-mailclient. U kunt het aantal zelfweergaven in [!DNL Outlook] aanzienlijk verminderen door afbeeldingen uit te schakelen om automatisch te worden gedownload. Hieronder volgen de stappen.
 
-1. Klik in Outlook op **Bestand** in de menubalk.
+1. Klik in Outlook op **[!UICONTROL File]** in de menubalk.
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. Klikken **Opties**.
+1. Klik op **[!UICONTROL Options]**.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. Klik in het dialoogvenster Outlook-opties op **Vertrouwenscentrum**.
+1. Klik in het dialoogvenster [!DNL Outlook] Opties op **[!UICONTROL Trust Center]** .
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. Klik onder Microsoft Outlook Trust Center op **Instellingen Vertrouwenscentrum**.
+1. Klik onder Microsoft [!DNL Outlook] Trust Center op **[!UICONTROL Trust Center Settings]** .
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Klik op Automatisch downloaden in het menu aan de linkerkant en selecteer de optie **Foto&#39;s niet automatisch downloaden in HTML-e-mail of RSS-objecten** selectievakje.
+1. Klik op [!UICONTROL Automatic Download] in het menu links en schakel het selectievakje **[!UICONTROL Don't download pictures automatically in HTML email or RSS items]** in.
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Klikken **OK** in het dialoogvenster Vertrouwenscentrum.
+1. Klik op **[!UICONTROL OK]** in het dialoogvenster [!UICONTROL Trust Center] .
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. Klikken **OK** in het dialoogvenster Outlook-opties.
+1. Klik op **[!UICONTROL OK]** in het dialoogvenster [!DNL Outlook] Opties.
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
 ## Desktop (Mac) {#desktop-mac}
 
-Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te downloaden in uw e-mailclient. U kunt het aantal zelfweergaven in Outlook aanzienlijk verminderen door afbeeldingen die automatisch moeten worden gedownload uit te schakelen. Hieronder volgen de stappen.
+Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te downloaden in uw e-mailclient. U kunt het aantal zelfweergaven in [!DNL Outlook] aanzienlijk verminderen door afbeeldingen uit te schakelen om automatisch te worden gedownload. Hieronder volgen de stappen.
 
-1. Klik in Outlook op **Outlook** in de menubalk en selecteer **Voorkeuren**.
+1. Klik in [!DNL Outlook] op **[!UICONTROL Outlook]** in de menubalk en selecteer **[!UICONTROL Preferences]** .
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. Kies onder E-mail de optie **Lezen**.
+1. Kies onder [!UICONTROL Email] de optie **[!UICONTROL Reading]** .
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. Klik onder Beveiliging op de knop **Nooit** keuzerondje.
+1. Klik onder [!UICONTROL Security] op het keuzerondje **[!UICONTROL Never]** .
 
    ![](assets/how-do-i-prevent-self-views-10.png)

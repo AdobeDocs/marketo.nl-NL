@@ -4,10 +4,10 @@ description: De lettertypefamilie van het formulier wijzigen - Marketo Docs - Pr
 title: De lettertypefamilie van het formulier wijzigen
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 1%
 
 ---
 
@@ -19,19 +19,19 @@ Google Fonts zijn geweldig en we hebben ze direct in de formuliereditor ingebouw
 >
 >Deze instelling is van invloed op het formulierlabel, de invoertekst en alle RTF-gegevens.
 
-1. Ga naar **de Marketing Activiteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw vorm en klik **uitgeven Vorm**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Onder **Montages van de Vorm**, uitgezochte **Montages**.
+1. Selecteer onder **[!UICONTROL Form Settings]** de optie **[!UICONTROL Settings]** .
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selecteer de **Familie van de Doopvont** u wilt.
+1. Selecteer de **[!UICONTROL Font Family]** die u wilt.
 
    >[!TIP]
    >
@@ -39,11 +39,11 @@ Google Fonts zijn geweldig en we hebben ze direct in de formuliereditor ingebouw
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klik **Afwerking**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Klik **goedkeuren en sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

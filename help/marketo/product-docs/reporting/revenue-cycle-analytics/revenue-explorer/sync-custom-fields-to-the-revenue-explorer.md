@@ -4,47 +4,47 @@ description: Aangepaste velden synchroniseren met de Revenue Explorer - Marketo 
 title: Aangepaste velden synchroniseren met de Indelingsverkenner
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Aangepaste velden synchroniseren met de Indelingsverkenner {#sync-custom-fields-to-the-revenue-explorer}
+# Aangepaste velden synchroniseren met de [!UICONTROL Revenue Explorer] {#sync-custom-fields-to-the-revenue-explorer}
 
-De Analyse van de conjunctuurcyclus kan op de gebieden van douaneMarketo rapporteren, om dit te doen moet u de douanevelden plaatsen om worden gesynchroniseerd.
+[!UICONTROL Revenue Cycle Analytics] kan aangepaste Marketo-velden rapporteren. Hiervoor moet u de aangepaste velden instellen die moeten worden gesynchroniseerd.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **Beheer** sectie.
+1. Ga naar de sectie **[!UICONTROL Admin]** .
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Selecteren **Analyse van inkomstencyclus**.
+1. Selecteer **[!UICONTROL Revenue Cycle Analytics]** .
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Klik op de knop **Aangepaste veldsynchronisatie** kiest u het gewenste analysegebied.
+1. Klik op de tab **[!UICONTROL Custom Field Sync]** en kies het gewenste analysegebied.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Selecteer het veld waarvoor u synchronisatie wilt inschakelen en klik op **Synchronisatieoptie bewerken**.
+1. Selecteer het veld waarvoor u synchronisatie wilt inschakelen en klik op **[!UICONTROL Edit Sync Option]** .
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Wijzig de **Synchronisatiestatus** tot **Ingeschakeld**.
+1. Wijzig **[!UICONTROL Sync Status]** in **[!UICONTROL Enabled]** .
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Selecteer **RCA-type** van uw keuze en klik vervolgens op **Opslaan**.
+1. Selecteer de **[!UICONTROL RCA Type]** van uw keuze en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
    >[!TIP]
    >
-   >Zodra toegelaten, zullen de gegevens in de Analyse van de Cyclus van de Opbrengst de volgende dag beschikbaar zijn.
+   >Zodra deze optie is ingeschakeld, zijn de gegevens de volgende dag beschikbaar in [!UICONTROL Revenue Cycle Analytics] .
 
    Mooi werk! Nu weet u hoe te om douanegebieden aan RCA toe te voegen.

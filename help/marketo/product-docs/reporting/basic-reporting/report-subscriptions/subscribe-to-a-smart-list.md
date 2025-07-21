@@ -4,9 +4,9 @@ description: Abonneren op een slimme lijst - Marketo Docs - Productdocumentatie
 title: Abonneren op een slimme lijst
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ Abonneren op slimme lijsten is een goede manier om mensen bij te houden, met rap
 
 U kunt een abonnement op een slimme lijst maken op twee verschillende plaatsen:
 
-* Marketingactiviteiten
-* Database
+* [!UICONTROL Marketing Activities]
+* [!UICONTROL Database]
 
 Abonnementen gebruiken de volledige lijst met personen op het moment dat het abonnement wordt uitgevoerd.
 
-Abonnementen live waar uw slimme lijst woont, in marketingactiviteiten of database.
+Abonnementen worden live weergegeven op de locatie in de slimme lijst, in [!UICONTROL Marketing Activities] of [!UICONTROL Database] .
 
-U kunt meerdere abonnementen maken op basis van dezelfde slimme lijst.
+U kunt meerdere abonnementen maken van dezelfde slimme lijst.
 
 Abonnementen zijn specifiek voor de werkruimte. Deze lijst met abonnementen bevindt zich bijvoorbeeld in een andere werkruimte dan de abonnementen die in de rest van dit artikel worden weergegeven:
 
@@ -36,39 +36,39 @@ Abonnementen zijn specifiek voor de werkruimte. Deze lijst met abonnementen bevi
 
 ## Een abonnement voor een slimme lijst maken {#create-a-smart-list-subscription}
 
-1. Ga naar de **Database** of **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Database]** of **[!UICONTROL Marketing Activities]** .
 
    ![](assets/db.png)
 
-1. Selecteer de slimme lijst waarvoor u een abonnement wilt maken. Klikken **Handelingen weergeven** en selecteert u **Nieuw abonnement voor Smart List**.
+1. Selecteer de slimme lijst waarvoor u een abonnement wilt maken. Klik op **[!UICONTROL List Actions]** en selecteer **[!UICONTROL New Smart List Subscription]** .
 
    ![](assets/three.png)
 
-1. Geef uw abonnement een **Naam** selecteert of voert u vervolgens de e-mailadressen in van de **Ontvangers**.
+1. Geef uw abonnement een **[!UICONTROL Name]** en selecteer of voer de e-mailadressen van de **[!UICONTROL Recipients]** in.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klik op de knop **Frequentie** en selecteer een frequentie.
+1. Klik op de lijst **[!UICONTROL Frequency]** en selecteer een frequentie.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Stel de **Aflevering beëindigen** datum. U kunt **Nooit** of een kalenderdatum.
+1. Stel de **[!UICONTROL End Delivery]** datum in. U kunt **[!UICONTROL Never]** of een kalenderdatum selecteren.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klikken **Indeling** en kiest u een optie in de lijst.
+1. Klik op **[!UICONTROL Format]** en kies in de lijst.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Uw nieuwe abonnement op de slimme lijst wordt boven aan de lijst weergegeven op het tabblad Abonnementen. Klikken **Verzenden** als u nu wilt verzenden en niet tot de geplande e-maillevering wilt wachten.
+1. Uw nieuwe abonnement op de slimme lijst wordt boven aan de lijst weergegeven op het tabblad Abonnementen. Klik op **[!UICONTROL Send]** als u nu wilt verzenden en niet wilt wachten tot de geplande e-maillevering.
 
    ![](assets/eight.png)
 
-1. We raden u aan het selectievakje Actief uit te schakelen om een abonnement op een slimme lijst te deactiveren als er niemand op is geabonneerd.
+1. We raden u aan het selectievakje **[!UICONTROL Active]** uit te schakelen om een abonnement op een slimme lijst te deactiveren als er niemand op is geabonneerd.
 
    ![](assets/nine.png)
 
@@ -80,7 +80,7 @@ Ontvangers ontvangen een e-mail met de mogelijkheid om het rapport te downloaden
 
 >[!NOTE]
 >
->Als de [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) instellen op **Ja**, kunnen alleen personen die toegang hebben tot het Marketo-exemplaar het rapport downloaden.
+>Als het [ Veilige plaatsen van de Abonnement Admin ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) aan **[!UICONTROL Yes]** wordt geplaatst, slechts zullen de mensen met toegang tot de instantie van Marketo het rapport kunnen downloaden.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,11 +96,11 @@ De e-mail bevat ook aanvullende informatie over de filters die zijn gebruikt om 
 
 ## Een abonnement verwijderen {#delete-a-subscription}
 
-Als u een abonnement wilt verwijderen, selecteert u het op het tabblad Abonnementen en klikt u op Abonnement verwijderen.
+Als u een abonnement wilt verwijderen, selecteert u het op het tabblad Abonnementen en klikt u op **[!UICONTROL Delete Subscription]** .
 
 ![](assets/twelve.png)
 
 >[!MORELIKETHIS]
 >
->* [Een abonnement voor een slimme lijst bewerken](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
->* [Beveilig de Plaatsing van Admin van het Abonnement](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [ geef een Slim Abonnement van de Lijst ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md) uit
+>* [ Beveilig het Plaatsen van Admin van het Abonnement ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

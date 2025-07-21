@@ -3,16 +3,16 @@ description: Groepen beheren - Marketo Docs - Productdocumentatie
 title: Groepen beheren
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 # Groepen beheren {#manage-groups}
 
-Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
+Leer hoe u uw groepen beheert in [!DNL Sales Insight Actions] .
 
 ## Groepstypen {#group-types}
 
@@ -27,19 +27,19 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
    <th>Beschrijving</th> 
   </tr> 
   <tr> 
-   <td>Alle personen</td> 
+   <td>[!UICONTROL All People]</td> 
    <td>Alle contacten van alle gebruikers die aan u zichtbaar zijn.</td> 
   </tr> 
   <tr> 
-   <td>Dynamische groepen</td> 
+   <td>[!UICONTROL Dynamic Groups]</td> 
    <td>Mijn Contacten: Alle contacten u bezit.<br> Unsubscribes: Contacten die verkiesden-uit het ontvangen van correspondentie hebben.</td> 
   </tr> 
   <tr> 
-   <td>Mijn groepen</td> 
+   <td>[!UICONTROL My Groups]</td> 
    <td>Groepen die u hebt gemaakt. Zij kunnen uw contacten, of contacten bevatten die met u zijn gedeeld.</td> 
   </tr> 
   <tr> 
-   <td>Teamgroepen</td> 
+   <td>[!UICONTROL Team Groups]</td> 
    <td>Groepen die met en/of door u zijn gedeeld. Zij kunnen contacten uw teamgenoten, of contacten bevatten u met hen hebt gedeeld.</td> 
   </tr> 
  </tbody> 
@@ -47,11 +47,11 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
 ## Een groep maken {#create-a-group}
 
-1. Klik op de pagina Personen op **+** naast Groepen.
+1. Klik op de pagina [!UICONTROL People] op **+** naast [!UICONTROL Groups] .
 
    ![](assets/manage-groups-1.png)
 
-1. Noem uw groep en klik **creeer**.
+1. Geef de groep een naam en klik op **[!UICONTROL Create]** .
 
    ![](assets/manage-groups-2.png)
 
@@ -59,11 +59,11 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
 ## Contactpersonen toevoegen aan een groep {#add-contacts-to-a-group}
 
-1. Zoek op de pagina Personen naar de groep waaraan u personen wilt toevoegen en selecteer deze groep.
+1. Zoek op de pagina [!UICONTROL People] naar de groep waaraan u personen wilt toevoegen en selecteer deze groep.
 
    ![](assets/manage-groups-3.png)
 
-1. Klik **de Acties van de Groep** en selecteer **tot Contact leiden en aan Groep** toevoegen.
+1. Klik op **[!UICONTROL Group Actions]** en selecteer **[!UICONTROL Create Contact and add to Group]** .
 
    ![](assets/manage-groups-4.png)
 
@@ -79,15 +79,15 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
 ## Een groep delen {#share-a-group}
 
-1. Zoek en selecteer op de pagina Personen de groep die u wilt delen.
+1. Zoek op de pagina [!UICONTROL People] naar de groep die u wilt delen en selecteer deze.
 
    ![](assets/manage-groups-6.png)
 
-1. Klik de gegevens (drie verticale punten) en selecteer **Aandeel**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Share]** .
 
    ![](assets/manage-groups-7.png)
 
-1. Klik drop-down, kies het team u de groep met wilt delen en **Aandeel** klikken.
+1. Klik op de vervolgkeuzelijst, kies het team waarmee u de groep wilt delen en klik op **[!UICONTROL Share]** .
 
    ![](assets/manage-groups-8.png)
 
@@ -95,11 +95,11 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
 ## Delen van een groep opheffen {#unshare-a-group}
 
-1. Zoek en selecteer op de pagina Personen de groep waarvan u het delen wilt opheffen.
+1. Zoek op de pagina [!UICONTROL People] naar de groep waarvan u het delen wilt opheffen en selecteer deze.
 
    ![](assets/manage-groups-9.png)
 
-1. Klik de gegevens (drie verticale punten) en selecteer **Aandeel**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Share]** .
 
    ![](assets/manage-groups-10.png)
 
@@ -111,15 +111,15 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
 ## De naam van een groep wijzigen {#rename-a-group}
 
-1. Zoek op de pagina Personen naar de groep waarvan u de naam wilt wijzigen en selecteer deze groep.
+1. Zoek op de pagina [!UICONTROL People] naar de groep waarvan u de naam wilt wijzigen en selecteer deze.
 
    ![](assets/manage-groups-12.png)
 
-1. Klik de gegevens (drie verticale punten) en selecteer **uitgeven**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Edit]** .
 
    ![](assets/manage-groups-13.png)
 
-1. Het type in de nieuwe naam en klikt **sparen**.
+1. Typ de nieuwe naam en klik op **[!UICONTROL Save]** .
 
    ![](assets/manage-groups-14.png)
 
@@ -129,10 +129,10 @@ Leer hoe u uw groepen beheert in Handelingen Verkoopinzicht.
 
    ![](assets/manage-groups-15.png)
 
-1. Klik de gegevens (drie verticale punten) en selecteer **Schrapping**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **[!UICONTROL Delete]** .
 
    ![](assets/manage-groups-16.png)
 
-1. Klik **Schrapping** om te bevestigen.
+1. Klik op **[!UICONTROL Delete]** om te bevestigen.
 
    ![](assets/manage-groups-17.png)

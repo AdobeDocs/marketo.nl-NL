@@ -1,33 +1,33 @@
 ---
 unique-page-id: 14352484
 description: '"We konden uw verzoek niet verifiëren" bij verbinding met Salesforce - Marketo Docs - productdocumentatie'
-title: Hoe te om "Wij konden niet uw verzoek"voor authentiek verklaren wanneer het verbinden met Salesforce
+title: '"We konden uw aanvraag niet verifiëren" bij verbinding met Salesforce oplossen'
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# Hoe te om &quot;Wij konden niet uw verzoek&quot;voor authentiek verklaren wanneer het verbinden met Salesforce {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# &quot;We konden uw verzoek niet verifiëren&quot; herstellen bij verbinding met [!DNL Salesforce] {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Als u het foutbericht &quot;We konden uw verzoek niet verifiëren&quot; ontvangt wanneer u probeert Sales Connect aan te sluiten op Salesforce, is er mogelijk een beperking op uw toegang tot de API van Salesforce. Neem contact op met uw Salesforce Admin om te controleren of de volgende functies aanwezig zijn.
+Als u het foutbericht &quot;Uw verzoek kan niet worden geverifieerd&quot; ontvangt wanneer u probeert een verbinding tot stand te brengen tussen [!DNL Sales Connect] en [!DNL Salesforce] , is het mogelijk dat de toegang tot de API van [!DNL Salesforce] wordt beperkt. Neem contact op met uw [!DNL Salesforce] -beheerder om te controleren of de volgende functies aanwezig zijn.
 
 ## API inschakelen in gebruikersmachtigingen {#enable-api-in-user-permissions}
 
-1. Een Salesforce Admin-aanmelding bij SFDC.
-1. Selecteren **Instellen**.
-1. Selecteren **Gebruikers beheren**.
-1. Selecteren **Profielen**.
-1. Zoek het profiel onder de ToutApp-gebruikers en klik op **Bewerken**.
-1. Omlaag schuiven naar **Administratieve machtigingen** en zorg ervoor **API ingeschakeld** is ingeschakeld.
+1. Een [!DNL Salesforce] Admin-aanmelding bij SFDC laten uitvoeren.
+1. Selecteer **[!UICONTROL Setup]** .
+1. Selecteer **[!UICONTROL Manage Users]** .
+1. Selecteer **[!UICONTROL Profiles]** .
+1. Zoek het profiel onder de ToutApp-gebruikers en klik op **[!UICONTROL Edit]** .
+1. Schuif omlaag naar **[!UICONTROL Administrative Permissions]** en controleer of **[!UICONTROL API Enabled]** is ingeschakeld.
 
-## Controleren of Salesforce de verbinding met Sales Connect blokkeert {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
+## Controleren of [!DNL Salesforce] blokkeert [!DNL Sales Connect] van verbinding {#check-if-salesforce-is-blocking-sales-connect-from-connecting}
 
-1. Een Salesforce Admin-aanmelding bij SFDC.
-1. Selecteren **Instellen**.
-1. Selecteren **Apps beheren**.
-1. Selecteren **OAuth-gebruik van aangesloten apps**.
-1. Zorg ervoor dat in Sales Connect naast de optie Blok wordt weergegeven. Als u &quot;Unblock&quot; ziet, klikt u op de knop om de toegang van Sales Connect tot Salesforce te blokkeren.
+1. U moet zich bij [!DNL Salesforce] Admin aanmelden bij SFDC.
+1. Selecteer **[!UICONTROL Setup]** .
+1. Selecteer **[!UICONTROL Manage Apps]** .
+1. Selecteer **[!UICONTROL Connected Apps OAuth Usage]** .
+1. Zorg ervoor dat [!DNL Sales Connect] &quot;[!UICONTROL Block]&quot;naast het toont. Als &quot;[!UICONTROL Unblock]&quot; wordt weergegeven, klikt u op de knop om de toegang van [!DNL Sales Connect] tot [!DNL Salesforce] te ontgrendelen.

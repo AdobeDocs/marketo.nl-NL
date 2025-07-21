@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode - Marketo Docs - Productdocumentatie
-title: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode
+description: Installeer de toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]  met een Code van de Registratie - de Documentatie van Marketo -
+title: Installeer de toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]  met een Code van de Registratie
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
 
-# De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# De Marketo E-mailinvoegtoepassing voor [!DNL Outlook] installeren met een registratiecode {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Als gebruikers toegang hebben tot de beheerinstellingen op hun laptops, kunt u een registratiecode rechtstreeks naar hen sturen.
 
@@ -39,7 +39,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
    >[!NOTE]
    >
-   >Op dit moment werken de onderstaande koppelingen alleen in Microsoft Edge of door met de rechtermuisknop in Chrome te klikken. Sorry voor enig ongemak.
+   >Op dit moment werken de onderstaande koppelingen alleen in [!DNL Microsoft Edge] of door met de rechtermuisknop te klikken in [!DNL Chrome] . Sorry voor enig ongemak.
 
 <table><thead>
   <tr>
@@ -100,7 +100,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
   </tr>
 </tbody></table>
 
-*Office 365-versie: alleen Windows-client (Windows 10, Enterprise of Pro).
+*[!DNL Office] 365 version: [!DNL Windows] alleen client (op [!DNL Windows] 10, [!DNL Enterprise] of [!DNL Pro]).
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Sluit Microsoft Outlook.
+1. Close [!DNL Microsoft Outlook].
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
    >
    >Als je een beveiligingswaarschuwing krijgt, maak je dan geen zorgen! Enkel klik **Looppas**.
 
-1. Klik **daarna**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Vul **Voornaam**, **Familienaam**, **E-mailadres** in, dan kopieer en kleef de **code van de Registratie** van e-mail in de vorm en klik **daarna**.
+1. Vul **[!UICONTROL First Name]**, **[!UICONTROL Last Name]**, **[!UICONTROL Email Address]** in, kopieer en plak de **[!UICONTROL Registration code]** van de e-mail naar het formulier en klik op **[!UICONTROL Next]** .
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
    >
    >Als de installatie mislukt, raadpleegt u uw IT-afdeling om ervoor te zorgen dat HTTPS-verkeer niet wordt geblokkeerd. Het installatieprogramma vereist dat HTTPS-verkeer is geopend.
 
-1. Klik **daarna** om in de standaardplaats te installeren.
+1. Klik op **[!UICONTROL Next]** om te installeren op de standaardlocatie.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Klik **daarna**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Als u een veiligheidsherinnering over een onbekende uitgever krijgt, klik **ja**.
+   >Klik op **[!UICONTROL Yes]** als er een beveiligingswaarschuwing over een onbekende uitgever verschijnt.
 
-1. De installatie is nu volledig, klik **dicht**.
+1. De installatie is nu voltooid, klik op **[!UICONTROL Close]** .
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Open nu Microsoft Outlook en bekijk de Marketo-knoppen.
+1. Open nu [!DNL Microsoft Outlook] en bekijk de Marketo-knoppen.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

@@ -4,39 +4,39 @@ description: Anonieme activiteiten en mensen begrijpen - Marketo-documenten - pr
 title: Anonieme activiteiten en mensen begrijpen
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # Anonieme activiteiten en mensen begrijpen {#understanding-anonymous-activity-and-people}
 
-De eerste keer dat iemand een Marketo landingspagina bezoekt (of een pagina op uw website die de [Munchkin-trackingcode](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), maakt Marketo een *anonieme activiteit* en gebruikt een browsercookie om het bij te houden. Zodra het wordt geïdentificeerd, wordt het een persoon en de geschiedenis verbonden aan hun browser koekje wordt samengevoegd in.
+De eerste keer bezoekt iemand een Marketo landende pagina (of een pagina op uw website die de [ het Volgen Code van Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} heeft), leidt Marketo tot een *anonieme activiteit* en gebruikt een browser koekje om het te volgen. Zodra het wordt geïdentificeerd, wordt het een persoon en de geschiedenis verbonden aan hun browser koekje wordt samengevoegd in.
 
 >[!IMPORTANT]
 >
->De bètafunctie inschakelen **Munchkin V2 Anonieme replay-activiteit op bekende** zorgt ervoor dat campagnes die worden geactiveerd door anonieme leads altijd worden afgespeeld nadat de anonieme lead is samengevoegd in de bekende record. Als gevolg hiervan blijven aangepaste velden die zijn gewijzigd door de stappen Gegevenswaarde wijzigen in opnieuw afgespeelde campagnes behouden in de bekende record.
+>Als u de Beta-functie **[!DNL Munchkin]V2 Anoniem opnieuw afspelen activeert op Bekende** , zorgt u ervoor dat campagnes die worden geactiveerd door anonieme lead-promotie altijd worden afgespeeld nadat de anonieme lead is samengevoegd in de bekende record. Als gevolg hiervan blijven aangepaste velden die zijn gewijzigd door de stappen Gegevenswaarde wijzigen in opnieuw afgespeelde campagnes behouden in de bekende record.
 
-**Anoniem** activiteit wordt gecreeerd wanneer iemand:
+**Anonieme** activiteit wordt gecreeerd wanneer iemand:
 
 * Bezoekt de eerste keer je Marketo-landingspagina.
-* Bezoek een pagina op uw site die [Munchkin-tracking](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
-* Klik op de knop [Weergeven als webpagina](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} in een Marketo-e-mailbericht.
+* Bezoekt een pagina op uw plaats die [ het volgen van Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} heeft.
+* Klik de [ Mening als Web-pagina ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} verbinding in een e-mail van Marketo.
 
 >[!NOTE]
 >
->In tegenstelling tot andere links in e-mailberichten van Marketo, [Weergeven als webpagina](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} wordt niet bijgehouden als een e-mailklik.
+>In tegenstelling tot andere verbindingen in de e-mail van Marketo, [ Mening als Web-pagina ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} wordt niet gevolgd als e-mailklik.
 
 Een anonieme activiteit wordt samengevoegd in een nieuwe of bestaande persoon wanneer iemand:
 
-* Klik op een [koppeling in een Marketo-e-mailbericht](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
-* Hiermee vult u een Marketo in [Formulier](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}.
-* Gebruikt Marketo [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} or [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API (voor ontwikkelaars) om een anonieme persoon te associëren met een bekende record.
+* Klik a [ verbinding in een e-mail van Marketo ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
+* Vult een Vorm van Marketo [ ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} uit.
+* Gebruikt Marketo [ SOAP ](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} of [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API (voor ontwikkelaars) om een anonieme persoon met een bekend verslag te associëren.
 
 Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.
 
 >[!NOTE]
 >
->Wanneer anonieme records worden samengevoegd in een nieuw of bestaand persoonrecord, worden aangepaste veldwaarden gebruikt *niet* overdracht over.
+>Wanneer de anonieme verslagen in een nieuw of bestaand persoonverslag worden samengevoegd, zullen de waarden van het douanegebied *niet* overdracht over.

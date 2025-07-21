@@ -4,9 +4,9 @@ description: Voeg een e-mailkampioen/challenger toe - Marketo Docs - Productdocu
 title: Een e-mailkampioen/challenger toevoegen
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,14 @@ Zo ga je aan de slag.
 
 >[!PREREQUISITES]
 >
->* [Een programma maken](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Een e-mail maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [ creeer een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [ creeer een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
->E-mails van Champion/Challenger werken alleen met triggercampagnes en betrokkenheidsprogrammastreams. Gebruik voor batchberichten de programma&#39;s [A/B-testfunctionaliteit](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>E-mails van Champion/Challenger werken alleen met triggercampagnes en betrokkenheidsprogrammastreams. Voor batch-berichten gebruikt u de testfunctionaliteit voor A/B van het e-mailprogramma [ .](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities.png)
 
@@ -38,9 +38,9 @@ Zo ga je aan de slag.
 
    >[!NOTE]
    >
-   >Meer informatie over [e-mailprogramma&#39;s](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
+   >Voor éénmalige e-mailontploffingen, leer meer over [ e-mailprogramma&#39;s ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. Onder **E-mailhandelingen**, klikt u op **Nieuwe test**.
+1. Klik onder **[!UICONTROL Email Actions]** op **[!UICONTROL New Test]** .
 
    ![](assets/chmapion2.jpg)
 
@@ -48,6 +48,6 @@ Zo ga je aan de slag.
 
    >[!MORELIKETHIS]
    >
-   >* [Champion/Challenger: Hele e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger: Onderwerpregel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [Champion/Challenger: Van adres](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [ Champion/Challenger: Hele Emails ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+   >* [ Champion/Challenger: Onderwerpregel ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [ Champion/Challenger: Van Adres ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

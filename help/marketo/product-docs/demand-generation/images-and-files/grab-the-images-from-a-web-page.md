@@ -4,9 +4,9 @@ description: De afbeeldingen ophalen van een webpagina - Marketo Docs - Productd
 title: De afbeeldingen ophalen van een webpagina
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Als u afbeeldingen van een webpagina wilt toevoegen, kopieert u het webadres (URL) van de pagina met de gewenste afbeeldingen en voert u de volgende eenvoudige stappen uit.
 
-1. Ga naar **Design Studio**.
+1. Ga naar **[!UICONTROL Design Studio]** .
 
    ![](assets/designstudio-2.png)
 
-1. Klikken op **Nieuw** en **Afbeeldingen ophalen van web**.
+1. Klik op **[!UICONTROL New]** en **[!UICONTROL Grab Images from Web]** .
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Selecteer **Afbeeldingen en bestanden** plakken, plakt u het webadres (URL) in het tekstvak URL en klikt u op **Volgende**.
+1. Selecteer de map **[!UICONTROL Images and Files]** , plak het webadres (URL) in het tekstvak URL en klik op **[!UICONTROL Next]** .
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Als u afbeeldingen van een webpagina wilt toevoegen, kopieert u het webadres (UR
    >
    >Deze functie werkt niet met URL&#39;s die rechtstreeks naar een afbeelding verwijzen. Gebruik de URL van de webpagina die de afbeeldingen bevat.
 
-1. Selecteer de afbeeldingen die u wilt toevoegen en klik op **Importeren**.
+1. Selecteer de afbeeldingen die u wilt toevoegen en klik op **[!UICONTROL Import]** .
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,15 +39,15 @@ Als u afbeeldingen van een webpagina wilt toevoegen, kopieert u het webadres (UR
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. U kunt alle beschikbare afbeeldingen weergeven in **Afbeeldingen en bestanden**.
+1. U kunt alle beschikbare afbeeldingen weergeven in **[!UICONTROL Images and Files]** .
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
-Mooi werk, afbeelding master!
+Mooi werk, beeldmeester!
 
 >[!MORELIKETHIS]
 >
->* [Afbeeldingen en bestanden toevoegen aan Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->* [Uw afbeeldingen en bestanden ordenen met mappen](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [De URL van een geüploade afbeelding of bestand zoeken](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [Afbeeldingen en bestanden uploaden uit vak](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [ voegt Beelden en Dossiers aan Marketo ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toe
+>* [ organiseer Uw Beelden en Dossiers gebruikend Omslagen ](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [ vind URL van een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [ upload Beelden en Dossiers van Doos ](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

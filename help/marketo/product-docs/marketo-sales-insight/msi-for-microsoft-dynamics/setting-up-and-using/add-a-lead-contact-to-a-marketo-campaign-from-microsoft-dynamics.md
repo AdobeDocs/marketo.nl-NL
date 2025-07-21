@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953342
 description: Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics - Marketo Docs - Productdocumentatie
-title: Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics
+title: Een lead/contactpersoon toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
+# Een lead/contactpersoon toevoegen aan een Marketo-campagne vanuit [!DNL Microsoft Dynamics] {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-U kunt snel en eenvoudig rechtstreeks vanuit Microsoft Dynamics leads/contactpersonen toevoegen aan Marketo Smart-campagnes. Zo gaat het.
+U kunt snel en eenvoudig rechtstreeks vanuit [!DNL Microsoft Dynamics] leads/contactpersonen toevoegen aan slimme Marketo-campagnes. Zo gaat het.
 
-1. Ga in Dynamics naar de **Verkoop** gebied.
+1. Ga in [!DNL Dynamics] naar het **[!UICONTROL Sales]** -gebied.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,16 +27,16 @@ U kunt snel en eenvoudig rechtstreeks vanuit Microsoft Dynamics leads/contactper
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Klikken **...** en selecteert u **Toevoegen aan Marketo-campagne**.
+1. Klik op **...** en selecteer **[!UICONTROL Add to Marketo Campaign]** .
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
-1. Selecteer de Marketo-campagne waaraan u de leads of contactpersonen wilt toevoegen en klik op **Toevoegen**.
+1. Selecteer de Marketo-campagne waaraan u de leads of contactpersonen wilt toevoegen en klik op **[!UICONTROL Add]** .
 
    ![](assets/image2014-10-20-12-3a10-3a42.png)
 
    >[!NOTE]
    >
-   >Als u de campagne wilt weergeven in de vervolgkeuzelijst, gebruikt u de opdracht  [**Campagne is aangevraagd** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met Sales Insight als bron, wanneer u de campagne instelt.
+   >Voor de campagne om in drop-down te verschijnen, gebruik de [**Campagne wordt Gevraagd** trekker ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met [!DNL Sales Insight] als bron, wanneer u opstelling de campagne.
 
-En dat zijn allemaal mensen! U hebt nu de kracht van Marketo Smart-campagnes rechtstreeks vanuit Dynamics.
+En dat zijn allemaal mensen! U hebt nu de kracht van Marketo Smart-campagnes rechtstreeks vanuit [!DNL Dynamics] in uw handen.

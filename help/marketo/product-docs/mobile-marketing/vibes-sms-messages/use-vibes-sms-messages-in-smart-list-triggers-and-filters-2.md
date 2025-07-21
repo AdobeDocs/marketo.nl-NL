@@ -4,22 +4,22 @@ title: SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
 
 # SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Na u [een SMS-bericht voor Vibes maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, zult u Slimme triggers en filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
+Nadat u [ een bericht van SMS van Levenben ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} creeert, zult u de Slimme trekkers en de filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
 
-1. Klik in Mijn Marketo op **Marketingactiviteiten**.
+1. Klik in Mijn Marketo op **[!UICONTROL Marketing Activities]** .
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
-1. Kies een slimme campagne waarin u uw SMS-middelen wilt gebruiken. Sleep over een trigger. In dit voorbeeld gebruiken we **Formulier wordt ingevuld**.
+1. Kies een slimme campagne waarin u uw SMS-middelen wilt gebruiken. Sleep over een trigger. In dit voorbeeld gebruiken wij **Vult Vorm** uit.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -42,35 +42,35 @@ EEN SMS-BERICHT VERZENDEN:
 
 Hier volgen enkele voorbeelden:
 
-De **Bounces voor SMS-berichten** activeert een stroom, zoals het verzenden van een e-mail, wanneer een SMS-bericht beweegt.
+De **trekker van de Bounces van het Bericht van SMS** stelt een stroom, zoals het verzenden van een e-mail in werking, wanneer een SMS-bericht stuitert.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-De **Abonneren op lijst met beeldbestanden** trigger start een flow wanneer een persoon zich abonneert.
+De trigger **[!UICONTROL Subscribes to Vibes List]** start een flow wanneer een persoon zich abonneert.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-De **Klik op Koppeling in SMS-bericht** activeert een stroom wanneer een persoon op een verbinding in het bericht van SMS klikt.
+De trigger **[!UICONTROL Clicks Link in SMS Message]** start een flow wanneer iemand op een koppeling in het SMS-bericht klikt.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## SMS-filters {#sms-filters}
 
-U kunt ook Vibes-filters gebruiken in slimme lijsten. De **Geabonneerd op de Levendenlijst** filter zoekt iedereen die *ooit* geabonneerd op Vibes. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
+U kunt ook Vibes-filters gebruiken in slimme lijsten. Het **[!UICONTROL Subscribed to Vibes List]** filter vindt iedereen die ** heeft ingetekend aan Vibes. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-De **Lid van de lijst van Vibes** filtervondsten _iedereen_ momenteel geabonneerd op Vibes en is het meest geschikt voor gebruik in Slimme Campagnes of lijsten.
+Door contrast, vindt het **Lid van de Lijst van Levenben** filter _iedereen_ momenteel geabonneerd aan Levenben en is het meest geschikt voor gebruik in Slimme Campagnes of lijsten.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Alle SMS-filters bevatten de **Datum van activiteit** beperking standaard.
+>Alle SMS-filters bevatten standaard de **[!UICONTROL Date of Activity]** -beperking.
 
-Nadat u Vibes-triggers en -filters hebt ingesteld in uw slimme lijst, kunt u [de flow definiëren](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
+Nadat u opstellingsVeldt trekkers en filters in uw slimme lijst, kunt u [ de stroom ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md) bepalen.
 
 >[!MORELIKETHIS]
 >
->* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [ bepaalt Slimme Lijst voor Slimme Campagne | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) toe

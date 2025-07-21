@@ -4,9 +4,9 @@ description: Taken gebruiken in campagnes - Marketo Docs - Productdocumentatie
 title: Taken gebruiken in campagnes
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Taken zijn een krachtig hulpmiddel wanneer u een campagne naar een contactpersoo
 
 De taak om een E-mail en een Taak te verzenden om een contact te roepen is het gemeenschappelijkste gebruik voor Taken in Campagnes.
 
-U kunt ook een contactpersoon voor &quot;Taak om te e-mailen&quot; maken op LinkedIn als dat onderdeel is van uw workflow. U kunt ook een aangepaste taak uitvoeren om u eraan te herinneren dat u hen kunt uitnodigen voor een gelukkig uur, vragen over hun liefdadigheidsgebeurtenis of inchecken na game 5, enz.
+U kunt een &quot;Taak aan Inmail&quot;een contact op LinkedIn ook maken als dat deel van uw werkschema uitmaakt. U kunt ook een aangepaste taak uitvoeren om u eraan te herinneren dat u hen kunt uitnodigen voor een gelukkig uur, vragen over hun liefdadigheidsgebeurtenis of inchecken na game 5, enz.
 
 >[!NOTE]
 >
@@ -25,4 +25,4 @@ U kunt ook een contactpersoon voor &quot;Taak om te e-mailen&quot; maken op Link
 
 Taken worden altijd gekoppeld aan elk individu in de campagne. Dit betekent dat je in elke persoon moet gaan en de taak moet sluiten om hun individuele campagne voort te zetten.
 
-U kunt uw taken beheren in: het lusje van Taken van uw Campagne in Campagnes 2.0, direct van uw Centrum van het Bevel, of van de sectie van Taken van Levende Diervoeders. Bovendien kunt u uw taken ook beheren vanuit Salesforce.
+U kunt uw taken in beheren: het lusje van Taken van uw Campagne in Campagnes 2.0, direct van uw Centrum van het Bevel, of van de sectie van Taken van Levende Diervoeders. Bovendien kunt u uw taken ook beheren vanuit [!DNL Salesforce] .

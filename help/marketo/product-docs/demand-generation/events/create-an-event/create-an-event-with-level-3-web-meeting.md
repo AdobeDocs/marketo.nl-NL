@@ -1,53 +1,53 @@
 ---
 unique-page-id: 7512328
-description: Een gebeurtenis maken met een webvergadering op niveau 3 - Marketo Docs - Productdocumentatie
-title: Een gebeurtenis maken met een webvergadering van niveau 3
+description: Een gebeurtenis maken met  [!DNL Level 3 Web Meeting]  - Marketo Docs - Productdocumentatie
+title: Een gebeurtenis maken met  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Een gebeurtenis maken met een webvergadering van niveau 3 {#create-an-event-with-level-web-meeting}
+# Een gebeurtenis maken met [!DNL Level 3 Web Meeting] {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
->* [Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
->* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)om betrokkenheid bij te houden
+>* [ voeg  [!DNL Level 3 Web Meeting]  als a [!DNL LaunchPoint]  Dienst ](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md) toe
+>* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
-Maak eerst uw webinar in Niveau 3. Als u hulp nodig hebt, raadpleegt u de [Level 3 Resource Library](https://www.level3.com/en/resource-library/). U zult vinden dat het erg lijkt op BrightStor.  Marketo gebruikt een kleine subset van Niveau 3-velden:
+Maak eerst uw webinar in [!DNL Level 3] . Als u hulp nodig hebt, controleer de [[!DNL Level 3]  Bibliotheek van het Middel ](https://www.level3.com/en/resource-library/). U zult vinden het om zeer gelijkaardig aan [!DNL BrightTalk] te zijn.  Marketo gebruikt een kleine subset van [!DNL Level 3] -velden:
 
-* **Naam** - De naam van de webcast.
-* **Begindatum** - De begindatum voor de webcast.
-* **Einddatum** - De einddatum voor de webcast.
-* **Tijdzone** - De tijdzone die is ingesteld voor de webcast.
-* **Beschrijving** - Beschrijving van de webcast.
+* **Naam** - de naam van webcast.
+* **Datum van het Begin** - de begindatum voor webcast.
+* **Datum van het Eind** - de einddatum voor webcast.
+* **Tijdzone van de Tijd** - de tijdzone die voor webcast wordt geplaatst.
+* **Beschrijving** - de webcast beschrijving.
 
-1. Selecteer uw nieuwe gebeurtenis. Klikken **Gebeurtenishandelingen,** dan **Gebeurtenisinstellingen.**
+1. Selecteer uw nieuwe gebeurtenis. Klik **[!UICONTROL Event Actions],** toen **[!UICONTROL Event Settings].**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. Selecteer onder Gebeurtenispartner **Niveau 3 Webvergadering**.
+1. Selecteer onder [!UICONTROL Event Partner] de optie **[!UICONTROL Level 3 Web Meeting]** .
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. Selecteer bij Aanmelden uw Niveau 3-aanmelding.
+1. Selecteer onder [!UICONTROL Login] uw [!DNL Level 3] -aanmelding.
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. Kies onder Gebeurtenis de gebeurtenis Niveau 3 die u wilt gebruiken.
+1. Kies onder [!UICONTROL Event] de [!DNL Level 3] -gebeurtenis die u wilt gebruiken.
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   Zeer uitstekend! U hebt een verbinding tot stand gebracht met Niveau 3!
+   Zeer uitstekend! U hebt een verbinding tot stand gebracht tussen uw gebeurtenis en [!DNL Level 3]!
 
 ## Het overzicht weergeven  {#viewing-the-schedule}
 

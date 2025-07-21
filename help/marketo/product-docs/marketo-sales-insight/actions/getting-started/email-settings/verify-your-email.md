@@ -3,10 +3,10 @@ description: Verifieer uw e-mail - Marketo Docs - Productdocumentatie
 title: Uw e-mail verifiëren
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 1%
 
 ---
 
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 Voer de onderstaande stappen uit als u een e-mailidentiteit hebt die niet is geverifieerd.
 
-1. Klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Klik op het tandwielpictogram rechtsboven en kies **[!UICONTROL Settings]** .
 
    ![](assets/verify-your-email-1.png)
 
-1. Klik onder Mijn account op **E-mailinstellingen**.
+1. Klik onder [!UICONTROL My Account] op **[!UICONTROL Email Settings]** .
 
    ![](assets/verify-your-email-2.png)
 
-1. Zoek onder Adres en Handtekening het e-mailbericht dat u wilt verifiëren en klik op **Verificatiebericht opnieuw verzenden**. Er wordt een nieuw e-mailverificatiebericht verzonden.
+1. Zoek onder [!UICONTROL Address and Signature] het e-mailbericht dat u wilt controleren en klik op **[!UICONTROL Resend Verification Email]** . Er wordt een nieuw e-mailverificatiebericht verzonden.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klikken **Opnieuw**.
+1. Klik op **[!UICONTROL Resend]**.
 
    ![](assets/verify-your-email-4.png)
 
@@ -36,4 +36,4 @@ Voer de onderstaande stappen uit als u een e-mailidentiteit hebt die niet is gev
 
 >[!NOTE]
 >
->Controleer de spammap als je geen verificatiebericht hebt ontvangen. Als het er niet is, gelieve te contacteren [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Controleer de spammap als je geen verificatiebericht hebt ontvangen. Als het daar niet is, gelieve te contacteren {de Steun van 0} Marketo [.](https://nation.marketo.com/t5/Support/ct-p/Support)

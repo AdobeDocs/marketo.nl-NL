@@ -4,10 +4,10 @@ description: TAM Report Setup - Marketo Docs - Productdocumentatie
 title: TAM Report Setup
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 3%
 
 ---
 
@@ -17,27 +17,27 @@ Het TAM-verkooprapport is een wekelijkse, persoonlijke e-mail die naar het accou
 
 ## Rapportinstelling {#report-setup}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Klikken **Doelaccountbeheer**.
+1. Klik op **[!UICONTROL Target Account Management]**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klik onder Wekelijks rapport op **Bewerken**.
+1. Klik onder [!UICONTROL Weekly Report] op **[!UICONTROL Edit]** .
 
    ![](assets/three-3.png)
 
-1. Klik op de knop **Dag** en selecteer de dag van de week waarop u de e-mail wilt ontvangen.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Day]** en selecteer de dag van de week waarop de ontvangers het e-mailbericht willen ontvangen.
 
    ![](assets/four-4.png)
 
-1. Klik op de knop **Sorteren op** en maak een selectie.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Sort By]** en maak een selectie om de indeling van uw e-mail te bepalen.
 
    ![](assets/five-3.png)
 
-1. Controleer de **Gebruikers** Schakel deze optie in en klik vervolgens op de vervolgkeuzelijst en selecteer wie u de e-mail wilt ontvangen.
+1. Schakel het selectievakje **[!UICONTROL Users]** in, klik op de vervolgkeuzelijst en selecteer wie u de e-mail wilt ontvangen.
 
    ![](assets/six-2.png)
 
@@ -45,7 +45,7 @@ Het TAM-verkooprapport is een wekelijkse, persoonlijke e-mail die naar het accou
    >
    >Meldingen worden alleen verzonden naar eigenaars van accounts of teamleden.
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/seven-2.png)
 
@@ -53,28 +53,28 @@ En dat is het!
 
 ## Abonnement opzeggen {#how-to-unsubscribe}
 
-Elk rapport wordt geleverd met de optie om te weigeren. Hiervoor klikt u op **Abonnement opzeggen** onder aan de e-mail.
+Elk rapport wordt geleverd met de optie om te weigeren. Klik hiertoe op **[!UICONTROL Unsubscribe]** onder aan het e-mailbericht.
 
 ![](assets/eight-1.png)
 
 ## Opnieuw abonneren {#how-to-resubscribe}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/one-3.png)
 
-1. Klikken **Doelaccountbeheer**.
+1. Klik op **[!UICONTROL Target Account Management]**.
 
    ![](assets/tam-report-setup-10.png)
 
-1. Klik onder Wekelijks rapporteren op het nummer dat wordt vermeld als Afgemeld.
+1. Klik onder [!UICONTROL Weekly Report] op het nummer dat wordt vermeld als [!UICONTROL Unsubscribed] .
 
    ![](assets/nine.png)
 
-1. Klik op de knop **Gebruikers** vervolgkeuzelijst.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Users]** .
 
    ![](assets/ten.png)
 
-1. Selecteer de gebruiker die u e-mailberichten wilt ontvangen en klik op **Opnieuw abonneren**.
+1. Selecteer opnieuw de gebruiker die u e-mailberichten wilt ontvangen en klik op **[!UICONTROL Resubscribe]** .
 
    ![](assets/eleven.png)

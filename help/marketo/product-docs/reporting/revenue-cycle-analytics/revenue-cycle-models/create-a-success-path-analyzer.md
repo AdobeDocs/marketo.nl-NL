@@ -4,9 +4,9 @@ description: Een geslaagde padanalyse maken - Marketo Docs - Productdocumentatie
 title: Een padanalyse met succes maken
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -17,37 +17,37 @@ Krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de
 
 >[!PREREQUISITES]
 >
->[Een nieuw inkomstenmodel maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Klik op de knop **Analyse** tegel.
+1. Klik op de tegel **[!UICONTROL Analytics]** .
 
    ![](assets/one.png)
 
-1. Klik op de knop **Padanalyse geslaagd** pictogram.
+1. Klik op het pictogram **[!UICONTROL Success Path Analyzer]** .
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Als u een waarschuwing ontvangt dat er geen gegevens zijn gevonden in het opgegeven tijdsbestek, klikt u op **Sluiten** om uw tijdkader te wijzigen. Als u niet wordt gevraagd, maar u wilt uw tijdkader veranderen, ga naar **Instellen** en dubbelklikken **Tijdschema**.
+   >Als u een waarschuwing ontvangt dat er geen gegevens zijn gevonden in het opgegeven tijdframe, klikt u gewoon op **[!UICONTROL Close]** om het tijdframe te wijzigen. Als u niet wordt gevraagd, maar u wilt uw tijdkader veranderen, ga naar **[!UICONTROL Setup]** en klik tweemaal **[!UICONTROL Time Frame]**.
 
-1. Als u geen gegevens hebt of als u uw tijdkader wilt wijzigen, selecteert u deze in de vervolgkeuzelijst en klikt u op Opslaan.
+1. Als u geen gegevens hebt of als u uw tijdkader wilt wijzigen, selecteert u deze in de vervolgkeuzelijst en klikt u op **[!UICONTROL Save]** .
 
    ![](assets/timeframe.png)
 
    >[!TIP]
    >
-   >Als u een specifiek bereik wilt selecteren, selecteert u **Aangepast** en gebruiken de **Van** en **Naar** velden.
+   >Selecteer **[!UICONTROL Custom]** en gebruik de velden **[!UICONTROL From]** en **[!UICONTROL To]** om een specifiek bereik te selecteren.
 
-1. Als u meer dan één model van de Cyclus van de Opbrengst hebt, selecteer één u van wilt **Instellen** tab.
+1. Als u meer dan één Inkoopcyclusmodel hebt, selecteert u het model dat u wilt gebruiken op het tabblad **[!UICONTROL Setup]** .
 
    ![](assets/four.png)
 
-1. Kies het juiste model en klik op **Toepassen**.
+1. Kies het gewenste model en klik op **[!UICONTROL Apply]** .
 
    ![](assets/five.png)
 
-1. Klik op de knop **Padanalyse geslaagd** tab.
+1. Klik op de tab **[!UICONTROL Success Path Analyzer]** .
 
    ![](assets/success-tab.png)
 
@@ -55,8 +55,8 @@ Nu kunt u de beweging van elk stadium naar het volgende verkennen!
 
 >[!TIP]
 >
->Wilt u uw rapport opslaan? Klik op de knop **Handelingen Analysator** vervolgkeuzelijst en selecteer **Opslaan als**.
+>Wilt u uw rapport opslaan? Klik op de vervolgkeuzelijst **[!UICONTROL Analyzer Actions]** en selecteer **[!UICONTROL Save As]** .
 
 >[!MORELIKETHIS]
 >
->[De Padanalyse met succes gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+>[ Gebruikend de Analysator van de Weg van het Succes ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)

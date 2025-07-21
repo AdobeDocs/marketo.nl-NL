@@ -3,9 +3,9 @@ description: Redenen bellen - Marketo Docs - Productdocumentatie
 title: Redenen voor oproepen
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ Sta uw verkoopteams toe om vraagredenen te selecteren wanneer het maken van vraa
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**vereiste toestemmingen Admin**
 
 ## De Redenen van de Vraag inschakelen {#enable-call-reasons}
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/call-reasons-1.png)
 
-1. Onder beheerinstellingen selecteert u **Dialer**.
+1. Onder [!UICONTROL Admin Settings] selecteert u **[!UICONTROL Dialer]** .
 
    ![](assets/call-reasons-2.png)
 
-1. Selecteren **De Redenen van de Vraag inschakelen**.
+1. Selecteer **[!UICONTROL Enable call reasons]** .
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ Sta uw verkoopteams toe om vraagredenen te selecteren wanneer het maken van vraa
 >
 >U kunt een maximum van 15 Redenen van de Vraag tot stand brengen.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/call-reasons-5.png)
 
-1. Onder beheerinstellingen selecteert u **Dialer**.
+1. Onder [!UICONTROL Admin Settings] selecteert u **[!UICONTROL Dialer]** .
 
    ![](assets/call-reasons-6.png)
 
-1. Klikken **De Redenen van de Vraag beheren**.
+1. Klik op **[!UICONTROL Manage call reasons]**.
 
    ![](assets/call-reasons-7.png)
 
-1. Ga uw gewenste naam van de vraagreden in het tekstgebied in en klik **Toevoegen**.
+1. Ga uw gewenste naam van de vraagreden in het tekstgebied in en klik **[!UICONTROL Add]**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ Zodra vraagredenen zijn toegelaten. De gebruikers kunnen één selecteren terwij
 
    ![](assets/call-reasons-9.png)
 
-1. Ga de vraaginformatie in dialer in en klik **Bellen**.
+1. Ga de vraaginformatie in dialer in en klik **[!UICONTROL Call]**.
 
    ![](assets/call-reasons-10.png)
 
@@ -84,5 +84,5 @@ Zodra vraagredenen zijn toegelaten. De gebruikers kunnen één selecteren terwij
 
 >[!MORELIKETHIS]
 >
->* [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Resultaten bellen](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)
+>* [ Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce ](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [ Resultaten van de Vraag ](/help/marketo/product-docs/marketo-sales-connect/phone/call-outcomes.md)

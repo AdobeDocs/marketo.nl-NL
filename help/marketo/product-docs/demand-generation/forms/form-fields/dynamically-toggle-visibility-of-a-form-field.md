@@ -4,9 +4,9 @@ description: Zichtbaarheid van een formulierveld dynamisch in-/uitschakelen - Ma
 title: De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een lijst met landen toevoegen aan uw formulier](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [ voeg een Picklist van het Land aan uw Vorm toe ](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Een heel leuke functie van Marketo-formulieren is dat u formuliervelden dynamisch kunt verbergen/weergeven of [veldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
+Één werkelijk coole eigenschap van de vormen van Marketo is dat u formuliergebieden of [ gebiedsreeksen ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) dynamisch kunt verbergen/tonen.
 
 >[!NOTE]
 >
 >**Voorbeeld**
 >
->In dit voorbeeld verbergen we de **Staat** veld tenzij **Land** is geselecteerd als &quot;Verenigde Staten&quot;.
+>In dit voorbeeld, verbergen wij het **gebied van de Staat** tenzij **Land** als &quot;Verenigde Staten wordt geselecteerd.&quot;
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/editform-1.png)
 
-1. Selecteer het veld dat u dynamisch wilt verbergen/weergeven en klik op de koppeling voor **Zichtbaarheidsregels**.
+1. Selecteer het veld dat u dynamisch wilt verbergen/weergeven en klik op de koppeling voor **[!UICONTROL Visibility Rules]** .
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -45,7 +45,7 @@ Een heel leuke functie van Marketo-formulieren is dat u formuliervelden dynamisc
 
    >[!TIP]
    >
-   >Dit is cool omdat u vage gelijken als &quot;begint met.&quot; kunt kiezen
+   >Dit is cool omdat u vage gelijken zoals &quot;[!UICONTROL starts with]&quot;kunt kiezen.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -59,9 +59,9 @@ Een heel leuke functie van Marketo-formulieren is dat u formuliervelden dynamisc
 
    >[!NOTE]
    >
-   >We hebben eerder een land omgezet in een veldtype voor een keuzelijst en [alle landen toegevoegd als waarden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Wij hebben eerder Land in een oogst-lijst gebiedstype omgezet en [ toegevoegd alle landen als waarden ](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ En dat is het! Wanneer mensen dit formulier nu invullen en Verenigde Staten voor
 
 >[!IMPORTANT]
 >
->Het gedrag van formuliervelden werkt naadloos wanneer veldwaarden worden ingesteld/bijgewerkt met behulp van een aangepast script [API-functies](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
+>Het gedrag van het gebied van de vorm zal foutloos werken wanneer de gebiedswaarden door douanescript gebruikend [ API functies ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0 worden geplaatst/worden bijgewerkt.
 >
->Voorwaardelijke velden werken mogelijk niet zoals verwacht als veldwaarden worden gewijzigd door andere externe scripts dan de JavaScript-API van Forms 2.0.
+>Voorwaardelijke velden werken mogelijk niet zoals verwacht als veldwaarden worden gewijzigd door andere externe scripts dan de Forms 2.0 JavaScript API.

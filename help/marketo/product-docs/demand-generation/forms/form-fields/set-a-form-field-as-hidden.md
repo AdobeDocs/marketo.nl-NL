@@ -4,26 +4,26 @@ description: Een formulierveld instellen als Verborgen - Marketo-documenten - Pr
 title: Een formulierveld instellen als verborgen
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 
 # Een formulierveld instellen als verborgen {#set-a-form-field-as-hidden}
 
-Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastleggen. Zo werkt het.
+Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastleggen. Zo werkt dit.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Selecteer het veld en stel de **Veldtype** tot **Verborgen.**
+1. Selecteer het veld en stel **[!UICONTROL Field Type]** in op **[!UICONTROL Hidden].**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
@@ -33,4 +33,4 @@ Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastlegg
 
 >[!MORELIKETHIS]
 >
->[De waarde van een verborgen formulierveld instellen](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+>[ plaats een Verborgen Waarde van het Gebied van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)

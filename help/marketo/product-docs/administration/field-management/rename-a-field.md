@@ -4,9 +4,9 @@ description: De naam van een veld wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een veld wijzigen
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt de naam van een aangepast veld wijzigen in Marketo, maar er is één catch: u moet al het gebruik in het systeem verwijderen alvorens u dit doet. Dit zijn formulieren, slimme lijsten en slimme campagnes.
+>U kunt de naam van een aangepast veld in Marketo wijzigen, maar er is één catch: u moet het volledige gebruik van het veld in het systeem verwijderen voordat u dit doet. Dit zijn formulieren, slimme lijsten en slimme campagnes.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/rename-a-field-1.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klik op de knop **[!UICONTROL Used By]** koppeling om te zoeken naar elementen die naar dit veld verwijzen.
+   >Klik op de koppeling **[!UICONTROL Used By]** om te zoeken naar elementen die naar dit veld verwijzen.
 
-1. Naam van veld wijzigen en klikken **[!UICONTROL Save]**.
+1. Wijzig de naam van het veld en klik op **[!UICONTROL Save]** .
 
    ![](assets/rename-a-field-4.png)
 
@@ -45,4 +45,4 @@ Mooi werk! U weet nu hoe u de namen van velden in Marketo kunt wijzigen.
 
 >[!CAUTION]
 >
->Als u de naam van de API wijzigt in Salesforce, maakt Marketo een gloednieuw veld en laat het oude veld achter!
+>Als u de naam van de API wijzigt in [!DNL Salesforce] , maakt Marketo een gloednieuw veld en laat het oude veld achter!

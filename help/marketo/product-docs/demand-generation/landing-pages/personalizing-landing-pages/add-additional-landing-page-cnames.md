@@ -4,9 +4,9 @@ description: Extra landingpagina-CNAME's toevoegen - Marketo Docs - Productdocum
 title: Aanvullende landingspaginanamen toevoegen
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ U kunt landingspagina&#39;s toevoegen om verschillende URL&#39;s toe te staan om
 
 >[!TIP]
 >
->**Hetzelfde topniveaudomein - Goed! Cookies worden gedeeld**.<br/> **gaan**.mijnbedrijf.nl > **info**.mijnbedrijf.nl
+>**Zelfde hoogste niveaudomein - Goed! Cookies worden gedeeld**.<br/> **ga** .mycompany.com > **info** .mycompany.com
 >
->**Verschillende topniveaudomeinen - Slecht! Cookies zijn _niet_ gedeeld**.<br/> gaan.**mijnbedrijf**.com > Ga.**mijnbedrijf**.com
+>**Verschillende hoogste niveaudomeinen - Slecht! De cookies zijn _niet_ gedeeld**.<br/> go.**mijnbedrijf**.com > gaat.**mijnbedrijf**.com
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar het **Admin** gebied.
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. Klikken **Mijn account**.
+1. Klik **Mijn Rekening**.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,33 +43,33 @@ U kunt landingspagina&#39;s toevoegen om verschillende URL&#39;s toe te staan om
 
 ## Verzoek verzenden naar IT {#send-request-to-it}
 
-1. Vraag uw afdeling van IT om volgende CNAME te installeren: (Vervang het woord [CNAME] met de NAAM van uw keuze en [Munchkin-id] met de tekst uit de vorige stap).
+1. Vraag uw afdeling van IT om volgende CNAME te opstelling: (Vervang het woord [ CNAME ] met de NAAM van uw keus en [ identiteitskaart van Munchkin ] met de tekst van de vorige stap).
 
-   [CNAME].YourCompany.com > [Munchkin-id].mktoweb.com
+   [ .YourCompany.com ] identiteitskaart van Munchkin [ .mktoweb.com]
 
 ## Een nieuwe NAAM toevoegen {#add-a-new-cname}
 
-1. Zodra uw afdeling van IT CNAME heeft gecreeerd, ga naar **Beheer** gebied.
+1. Zodra uw afdeling van IT CNAME heeft gecreeerd, ga naar het **Admin** gebied.
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik **het Bestaan Pagina&#39;s**.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Klikken **Nieuw** Selecteer vervolgens **Nieuwe domeinalias**.
+1. Klik op **[!UICONTROL New]** en selecteer vervolgens **[!UICONTROL New Domain Alias]** .
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Voer uw **Domeinalias.** De **Standaardpagina** wordt weergegeven als de bezoeker geen URL plaatst. Voer in dat geval in waar ze naartoe moeten.
+1. Voer uw **[!UICONTROL Domain Alias]in.** De **[!UICONTROL Default Page]** wordt weergegeven als de bezoeker geen URL plaatst. Voer in dat geval in waar ze naartoe moeten.
 
    >[!NOTE]
    >
-   >Voor de standaardpagina kunt u een openingspagina of een externe URL selecteren, zoals uw openbare website.
+   >Voor [!UICONTROL Default Page] kunt u een bestemmingspagina of een externe URL selecteren, zoals uw openbare website.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Voer uw **Standaardpagina** en klik op **Maken**.
+1. Voer uw **[!UICONTROL Default Page]** in en klik op **[!UICONTROL Create]** .
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

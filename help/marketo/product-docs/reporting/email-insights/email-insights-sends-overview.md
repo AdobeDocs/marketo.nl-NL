@@ -4,20 +4,20 @@ description: E-mailinzichten verzenden overzicht - Marketo-documenten - productd
 title: E-mailinzichten verzenden overzicht
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # E-mailinzichten verzenden overzicht {#email-insights-sends-overview}
 
-Controleer op de pagina Verzenden de kenmerken van recente e-mailcommunicatie.
+Controleer op de pagina [!UICONTROL Sends] de kenmerken van recente e-mailcommunicatie.
 
 ![](assets/one.png)
 
-Gebruiken [filteren](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om op te geven welke e-mails u wilt bekijken.
+Gebruik [ het filtreren ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om te specificeren welke e-mails u wilt zien.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ Rechts op de pagina vind je verschillende informatie over je verzonden e-mails.
 
 ![](assets/two-1.png)
 
-**Type** Hiermee wordt het soort gebruikt actief aangegeven.
-**Ontvanger** Het aantal is hoeveel personen het e-mailbericht hebben ontvangen.
-**Leveringscijfers** Hiermee kunt u snel zien hoeveel e-mails zijn bezorgd, in behandeling zijn of zijn teruggestuurd.\
-**Betrokkenheidscijfers** Hiermee kunt u snel zien hoeveel ontvangers een e-mailbericht hebben geopend, erop hebben geklikt en het abonnement hebben opgezegd.
-**Score** is het e-mailadres [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**[!UICONTROL Type]** geeft het type element aan dat wordt gebruikt.
+**[!UICONTROL Recipient]** -nummer is het aantal personen dat de e-mail heeft ontvangen.
+In **[!UICONTROL Delivery Metrics]** kunt u snel zien hoeveel e-mails zijn bezorgd, in behandeling zijn of zijn teruggestuurd.\
+In **[!UICONTROL Engagement Metrics]** kunt u snel zien hoeveel ontvangers een e-mail hebben geopend, erop hebben geklikt en het abonnement hebben opgezegd.
+**[!UICONTROL Score]** is de Score van de Betrokkenheid van uw e-mail [ ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 Uw e-mails worden standaard gesorteerd op de meest recente, maar u kunt ze sorteren op elke beschikbare metrische waarde.
 
@@ -47,4 +47,4 @@ Koel spul!
 
 >[!MORELIKETHIS]
 >
->[Overzicht van e-mailinzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[ E-mail het Overzicht van Analytics van Inzichten ](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

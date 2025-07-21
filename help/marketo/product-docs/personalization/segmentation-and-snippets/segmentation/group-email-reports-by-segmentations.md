@@ -4,45 +4,45 @@ description: E-mailrapporten groeperen per segment - Marketo Docs - Productdocum
 title: E-mailrapporten groeperen per segment
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # E-mailrapporten groeperen per segment {#group-email-reports-by-segmentations}
 
-Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw e-mailprestatierapport ook groeperen per segment.
+Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw e-mailprestatierapport ook groeperen op segmentaties.
 
 >[!PREREQUISITES]
 >
->[Een segmentatie goedkeuren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
+>[ keur een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed
 
-1. Ga naar de **Marketingactiviteiten** (of **Analyse**).
+1. Ga naar het **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ) gebied.
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Selecteer uw **E-mailprestaties** verslag.
+1. Selecteer uw **[!UICONTROL Email Performance]** -rapport.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Klik op de knop **Instellen** tab en sleep over **Groeperen op segmenten**.
+1. Klik op de tab **[!UICONTROL Setup]** en sleep over **[!UICONTROL Group by Segmentations]** .
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Kies een of twee segmentaties die u wilt gebruiken voor het groeperen van uw rapport. Klikken **Toepassen**.
+1. Kies een of twee segmentaties die u wilt gebruiken voor het groeperen van uw rapport. Klik op **[!UICONTROL Apply]**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Dat is het! Klik op de knop **Rapport** tab. Als u één segmentatie gebruikt, toont uw rapport één rij voor elk segment.
+1. Dat is het! Klik op de tab **[!UICONTROL Report]** . Als u één segmentatie gebruikt, toont uw rapport één rij voor elk segment.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Als u twee segmentaties gebruikt, wordt voor elke sectie één rij weergegeven _combinatie_ van segmenten.
+1. Als u twee segmentaties gebruikt, toont het één rij voor elke _combinatie_ van segmenten.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->[Middelen in een e-mailrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

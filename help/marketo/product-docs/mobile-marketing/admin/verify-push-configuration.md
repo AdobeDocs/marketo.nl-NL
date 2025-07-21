@@ -4,9 +4,9 @@ description: Pushconfiguratie controleren - Marketo Docs - Productdocumentatie
 title: Pushconfiguratie verifiëren
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroniseerd.
 
-1. Klikken op **Beheer**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteren **Mobiele apps**.
+1. Selecteer **[!UICONTROL Mobile Apps]** .
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +31,11 @@ Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroni
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klikken **Handelingen voor mobiele toepassingen** en selecteert u **Pushconfiguratie verifiëren**.
+1. Klik op **[!UICONTROL Mobile App Actions]** en selecteer **[!UICONTROL Verify Push Configuration]** .
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Bevestig welke platforms gecontroleerd worden gelezen en klik **Sluiten**.
+1. Bevestig de gecontroleerde platforms die u wilt lezen en klik op **[!UICONTROL Close]** .
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 
@@ -43,4 +43,4 @@ Alles klaar! Nu kunt u beginnen met het verzenden van pushberichten.
 
 >[!MORELIKETHIS]
 >
->[Een pushmelding maken](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>[ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)

@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # Persoonsgegevens weergeven {#person-detail-view}
 
-De weergave Persoonlijke details geeft een gedetailleerd profiel van elke persoon op je Marketo-verkoopaccount.
+De weergave Persoonlijke details biedt een gedetailleerd profiel van elke persoon in uw [!DNL Marketo Sales] -account.
 
 ## Toegang verkrijgen {#how-to-access}
 
-1. Klik op de knop **Mensen** tab.
+1. Klik op de tab **[!UICONTROL People]** om de weergave met persoonsdetails te openen.
 
    ![](assets/person-detail-view-1.png)
 
@@ -36,7 +36,7 @@ Bevat alle contactgegevens van de persoon.
 
 ![](assets/person-detail-view-3.png)
 
-**Contactkaart**
+**Kaart van het Contact**
 
 * Bevat contactgegevens zoals: e-mailadres, naam, bedrijf, titel, telefoonnummer en koppelingen naar sociale media
 
@@ -44,20 +44,20 @@ Bevat alle contactgegevens van de persoon.
 
 * Hiermee wordt weergegeven en beheerd welke groepen deze persoon lid is van
 
-**Accountinformatie**
+**de Informatie van de Rekening**
 
-* Kan iemand toevoegen aan Salesforce
-* Account en informatie over lood en contact van Salesforce opvragen
+* Kan een persoon toevoegen aan [!DNL Salesforce]
+* Account en informatie over lead/contact ophalen vanuit [!DNL Salesforce]
 
-**Aangepaste velden**
+**de Gebieden van de Douane**
 
 * Aangepaste velden toevoegen of verwijderen die kunnen worden gebruikt als dynamische velden in uw sjablonen en campagnes
 
-**Compatibiliteit**
+**Naleving**
 
 * Tekst
 
-**Notities**
+**Nota&#39;s**
 
 * Aangepaste notities maken
 
@@ -67,33 +67,33 @@ Zie hoe deze persoon werkt met je outreach.
 
 PICC
 
-**Verkoopactiviteiten in Marketo**
+**de Verkoop van Marketo Activiteit**
 
 * Bekijk de betrokkenheidsactiviteiten van uw e-mails en campagnes voor verkoop
 
-**Marketing**
+**de Marketing Activiteit**
 
 * Kijk hoe je persoon marketingcampagnes voert
 
 ## Tabblad Historie {#history-tab}
 
-Toont uw outreach-geschiedenis. Bevat e-mails, campagnes en oproepen.
+Geeft je outreachegeschiedenis weer. Bevat e-mails, campagnes en oproepen.
 
 PICC
 
-**Verkoopcampagnes**
+**de Campagnes van de Verkoop**
 
 * Bekijk actieve of voltooide campagnes waartoe deze persoon behoort
 
-**Marketingcampagnes**
+**Marketing Campaigns**
 
 * Zie alle marketingcampagnes waarbij deze persoon lid is van
 
-**Verkoop-e-mails**
+**E-mails van de Verkoop**
 
 * Bekijk alle e-mails die u deze persoon hebt verzonden en de gegevens over de betrokkenheid
 
-**Verkoopgesprekken**
+**de Vraag van de Verkoop**
 
 * Zie om het even welke vraag u aan deze persoon hebt gemaakt
 

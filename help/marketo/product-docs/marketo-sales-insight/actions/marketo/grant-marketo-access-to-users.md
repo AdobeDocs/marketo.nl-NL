@@ -3,32 +3,32 @@ description: Marketo Access to Users - Marketo Docs - Productdocumentatie
 title: Marketo-toegang verlenen aan gebruikers
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
 # Marketo-toegang verlenen aan gebruikers {#grant-marketo-access-to-users}
 
-Volg de stappen in dit artikel om gebruikers van Handelingen van het Inzicht van de Verkoop toegang tot de verbinding van Marketo te verlenen. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
+Voer de stappen in dit artikel uit om uw [!DNL Sales Insight Actions] -gebruikers toegang te verlenen tot de Marketo-verbinding. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
 
-U moet gebruikers uitnodigen om [Handelingen voor het instellen van verkoopgegevens](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) voordat deze zichtbaar zijn op de pagina Marketo > Team Access (in Handelingen voor het toezicht op de verkoop), waar toegang tot de Marketo-verbinding wordt verleend.
+U moet gebruikers uitnodigen naar [[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) voordat deze zichtbaar zijn in Marketo > [!UICONTROL Team Access] page (in [!DNL Sales Insight Actions] ), waar toegang tot de Marketo-verbinding wordt verleend.
 
 >[!CAUTION]
 >
->Wacht tien minuten nadat u Handelingen Verkoopcontrole hebt verbonden met Marketo voordat u deze stappen uitvoert.
+>Wacht tien minuten nadat u verbinding hebt gemaakt met [!DNL Sales Insight Actions] met Marketo voordat u deze stappen uitvoert.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. Klik onder Beheerinstellingen op **Marketo**.
+1. Onder [!UICONTROL Admin Settings], klik **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Klik op de knop **Gebruikerstoegang** tab. Selecteer een of meer gebruikers en klik op **Verbinden**.
+1. Klik op de tab **[!UICONTROL User Access]** . Selecteer een of meer gebruikers en klik op **[!UICONTROL Connect]** .
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,12 +40,12 @@ U moet gebruikers uitnodigen om [Handelingen voor het instellen van verkoopgegev
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **OPTIONELE STAP**: Klik op de vervolgkeuzelijst Werkruimte en selecteer de gewenste werkruimte(n).
+   **OPTIONELE STAP**: Klik de drop-down van Workspace en selecteer uw gewenste werkruimte(n).
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Klikken **Verbinden**.
+1. Klik op **[!UICONTROL Connect]**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-U kunt extra gebruikers van de pagina van het Beheer van het Team toevoegen en de stappen hierboven volgen om hen te krijgen verbonden.
+U kunt extra gebruikers toevoegen vanaf de pagina [!UICONTROL Team Management] en de bovenstaande stappen volgen om ze verbinding te laten maken.

@@ -4,10 +4,10 @@ description: De stijl en kleur van de knop Verzenden wijzigen - Marketo-document
 title: De stijl en kleur van de knop Verzenden wijzigen
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt u kiezen uit een groot aantal gebruiksklare knopstijlen.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Selecteer **Verzenden** en klik op **Bewerken** naast Knopstijl.
+1. Selecteer de knop **[!UICONTROL Submit]** en klik op **[!UICONTROL Edit]** naast Knopstijl.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt 
    >
    >U kunt de kleurcode ook handmatig invoeren.
 
-1. Klikken **Selecteren**.
+1. Klik op **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

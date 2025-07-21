@@ -4,9 +4,9 @@ description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo 
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook dee
 
    >[!NOTE]
    >
-   >Een synchronisatie van het schema van aangepaste Salesforce-objecten kan een paar minuten duren.
+   >Een synchronisatie van het schema voor aangepaste objecten van [!DNL Salesforce] kan een paar minuten duren.
 
 1. Klik op **[!UICONTROL Refresh Schema]**.
 
@@ -49,7 +49,7 @@ Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook dee
 
    >[!TIP]
    >
-   >Marketo kan een aangepast object alleen synchroniseren als het een directe relatie heeft met het object Lead, Contact of Account in Salesforce.
+   >Marketo kan een aangepast object alleen synchroniseren als het een directe relatie heeft met het object Lead, Contact of Account in [!DNL Salesforce] .
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

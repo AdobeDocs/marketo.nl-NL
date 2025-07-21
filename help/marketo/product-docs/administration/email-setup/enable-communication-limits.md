@@ -4,7 +4,7 @@ description: Communicatielimieten inschakelen - Marketo Docs - Productdocumentat
 title: Communicatielimieten inschakelen
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 2%
@@ -17,9 +17,9 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/enable-communication-limits-1.png)
 
@@ -35,25 +35,25 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
    >
    >[!UICONTROL Per Day] is gebaseerd op de kalenderdag in de streek van de abonnementstijd (middernacht-middernacht).
 
-1. Klik op de knop **[!UICONTROL Per Day]** en selecteert u de gewenste limiet. In dit voorbeeld kiezen we 1.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Per Day]** en selecteer de gewenste limiet. In dit voorbeeld kiezen we 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >U kunt ook **[!UICONTROL Custom]** als geen van de vooraf ingestelde opties voor u werkt.
+   >U kunt ook **[!UICONTROL Custom]** kiezen als geen van de vooraf ingestelde opties voor u werkt.
 
-1. Klik op de knop **[!UICONTROL Per 7 Days]** en selecteert u de gewenste limiet. In dit voorbeeld kiezen we 5.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Per 7 Days]** en selecteer de gewenste limiet. In dit voorbeeld kiezen we 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Selecteren **[!UICONTROL Block non-operational emails]**.
+1. Selecteer **[!UICONTROL Block non-operational emails]** .
 
    ![](assets/enable-communication-limits-6.png)
 
    >[!NOTE]
    >
-   >Meer informatie over [operationele e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) zijn.
+   >Leer meer over wat [ operationele e-mails ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) zijn.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -63,7 +63,7 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
    >
    >**Voorbeeld**
    >
-   >De bovenstaande instellingen betekenen dat mensen niet meer dan **1 e-mail per dag** of meer dan **5 in elke periode van zeven dagen**.
+   >De bovengenoemde montages betekenen dat de mensen niet meer dan **e-mail per dag** of meer dan **5 in om het even welke periode van zeven dagen** zullen ontvangen.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 
 >[!MORELIKETHIS]
 >
->[Communicatielimieten toepassen op slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[ pas Communicatie Limieten op  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) toe

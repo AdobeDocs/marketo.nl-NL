@@ -4,9 +4,9 @@ description: Een betrokkenheidsstream testen - Marketo Docs - Productdocumentati
 title: Een betrokkenheidsstream testen
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer testen.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    ![](assets/two.png)
 
-1. Klikken **Programmaacties** en selecteert u **Stream testen**.
+1. Klik op **[!UICONTROL Program Actions]** en selecteer **[!UICONTROL Test Stream]** .
 
    ![](assets/three.png)
 
-1. Selecteer uw persoon in het menu **Testpersoon** vervolgkeuzelijst. Onthoud dat de inhoud daadwerkelijk wordt uitgepakt, dus houd daar rekening mee wanneer u kiest.
+1. Selecteer uw persoon in de vervolgkeuzelijst **[!UICONTROL Test Person]** . Onthoud dat de inhoud daadwerkelijk wordt uitgepakt, dus houd daar rekening mee wanneer u kiest.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +37,12 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    >[!TIP]
    >
-   >Als de testpersoon waarnaar u zoekt niet bestaat, gebruikt u de opdracht **Persoon maken** om er een te maken.
+   >Als de testpersoon waarnaar u zoekt niet bestaat, gebruikt u de optie **[!UICONTROL Create Person]** om er een te maken.
 
-   Klik op Beginstream, selecteer de stream die u wilt testen en klik op Cast uitvoeren.
+   Klik op **[!UICONTROL Initial Stream]**, selecteer de stream die u wilt testen en klik op **[!UICONTROL Run Cast]** .
    ![](assets/five-rubiks.png)
 
-1. Nadat de persoon door het [overgangsregels](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) Als u eerder hebt ingesteld, klikt u op het pictogram Vernieuwen.
+1. Nadat de persoon door de [ overgangsregels ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gaat u eerder opstelling, klikt het Refresh pictogram.
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +54,4 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    >[!NOTE]
    >
-   >Er wordt geen andere inhoud verzonden tenzij u op **Cast opnieuw uitvoeren**.
+   >Er wordt geen andere inhoud verzonden tenzij u op **[!UICONTROL Run Cast again]** klikt.

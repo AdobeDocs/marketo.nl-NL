@@ -4,30 +4,30 @@ description: TAM-hiërarchieën - Marketo Docs - Productdocumentatie
 title: TAM-hiërarchie
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # TAM-hiërarchie {#tam-hierarchies}
 
-De hiërarchieën geven de gebruikers van TAM de capaciteit om de ouder/kindverhoudingen tussen Benoemde Rekeningen in hun CRM te erven.
+De hiërarchieën geven TAM gebruikers de capaciteit om de ouder/kindverhoudingen tussen [!UICONTROL Named Accounts] in hun CRM te erven.
 
 ## Wat zijn TAM-hiërarchieën? {#what-are-tam-hierarchies}
 
-Ondernemingen kunnen meerdere divisies en dochterondernemingen hebben. Die bedrijven organiseren zich vaak door ouder-kind verhoudingen genoemd hiërarchieën. TAM kan deze hiërarchieën van uw integratie van SFDC of MSD erven en u toestaan om met de verschillende afdelingen als één enkele familie te werken.
+Ondernemingen kunnen meerdere divisies en dochterondernemingen hebben. Die bedrijven organiseren zich vaak door ouder-kind verhoudingen genoemd hiërarchieën. TAM kan deze hiërarchieën overerven van uw integratie in SFDC of MSD en u toestaan om met de verschillende afdelingen als één enkele familie te werken.
 
 ## Werken met TAM-hiërarchieën {#working-with-tam-hierarchies}
 
-Met de Hiërarchieën van TAM, kunt u informatie over een volledige hiërarchie of individuele rekeningen in het Benoemde dashboard van de Rekening snel verkrijgen.
+Met TAM-hiërarchieën kunt u snel informatie opvragen over een volledige hiërarchie of afzonderlijke accounts in het [!UICONTROL Named Account] -dashboard.
 
-**Geen hiërarchie gebruiken**
+**het gebruiken van Hiërarchie**
 
 ![](assets/before.png)
 
-**Hiërarchie gebruiken**
+**Gebruikend Hiërarchie**
 
 ![](assets/after.png)
 
@@ -35,6 +35,6 @@ Met de Hiërarchieën van TAM, kunt u informatie over een volledige hiërarchie 
 >
 >De Marketo-interface kan maximaal 10 niveaus omlaag worden weergegeven (onderliggende en onderliggende accounts van de bovenliggende account), maar er is geen limiet aan het aantal onderliggende accounts dat u kunt maken.
 
-Doel en rapport over volledige hiërarchieën met [één klik](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Doel en rapport over volledige hiërarchieën met [ één klik ](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

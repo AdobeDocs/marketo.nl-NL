@@ -4,9 +4,9 @@ description: Aangepaste Marketo-objecten maken - Marketo Docs - Productdocumenta
 title: Aangepaste Marketo-objecten maken
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 >[!NOTE]
 >
->U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie  [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie .
+>U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [ Begrijpend de Voorwerpen van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur van één op vele. Later maakt u een aangepast cursusobject en een tussenliggend object voor gebruik in een veel-op-veel-structuur.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -41,29 +41,29 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >De [!UICONTROL Marketo Custom Objects] worden alle aangepaste objecten aan de rechterkant weergegeven en worden details voor alle goedgekeurde objecten weergegeven, inclusief het aantal records en velden bij de meest recente update.
+   >Op het tabblad [!UICONTROL Marketo Custom Objects] worden alle aangepaste objecten aan de rechterkant weergegeven, evenals details voor goedgekeurde objecten, waaronder het aantal records en velden bij de meest recente update.
 
-1. Voer een [!UICONTROL Display Name]. De [!UICONTROL API Name] en [!UICONTROL Plural Name] automatisch vullen. Voer een [!UICONTROL Description] (optioneel).
+1. Voer een [!UICONTROL Display Name] in. De tekens [!UICONTROL API Name] en [!UICONTROL Plural Name] worden automatisch ingevuld. Voer een [!UICONTROL Description] (optioneel) in.
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en de **[!UICONTROL Show in Lead Detail]** schuifregelaar
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen het veld [!UICONTROL Plural Name] en de schuifregelaar **[!UICONTROL Show in Lead Detail]** bewerken.
 
-1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar voor weergave **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
+1. Trek de schuifregelaar **[!UICONTROL Show in Lead Detail]** over om **[!UICONTROL Show]** weer te geven als u aangepaste objectgegevens wilt weergeven op de databasepagina. Klik op **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
+1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: de status is **[!UICONTROL Draft]** .
 
    ![](assets/create-marketo-custom-objects-6.png)
 
-   De volgende stap bestaat uit het toevoegen van velden aan [een aangepast object maken](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
+   De volgende stap moet gebieden aan [ toevoegen bouwt uw douanevoorwerp ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Een aangepast object maken voor een veel-op-veel-structuur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -73,7 +73,7 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 >
 >Voor een veel-aan-vele verhouding, te hoeven u om geen verbinding in het douanevoorwerp tot stand te brengen. In plaats daarvan voegt u twee koppelingen toe aan het intermediaire object (zie hieronder).
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -85,25 +85,25 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Voer een [!UICONTROL Display Name]. De [!UICONTROL API Name] en [!UICONTROL Plural Name] automatisch vullen. Voer een [!UICONTROL Description] (optioneel).
+1. Voer een [!UICONTROL Display Name] in. De tekens [!UICONTROL API Name] en [!UICONTROL Plural Name] worden automatisch ingevuld. Voer een [!UICONTROL Description] (optioneel) in.
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en de **[!UICONTROL Show in Lead Detail]** schuifregelaar
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen het veld [!UICONTROL Plural Name] en de schuifregelaar **[!UICONTROL Show in Lead Detail]** bewerken.
 
-1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar voor weergave **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
+1. Trek de schuifregelaar **[!UICONTROL Show in Lead Detail]** over om **[!UICONTROL Show]** weer te geven als u aangepaste objectgegevens wilt weergeven op de databasepagina. Klik op **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
+1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: de status is **[!UICONTROL Draft]** .
 
    ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
-   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 De volgende stap is dat u een tussenliggend object maakt (zie hieronder). Maar daarvoor moet u een veld maken om er een koppeling naar te maken.
 
@@ -115,7 +115,7 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 >
 >U hoeft geen intermediair object te maken voor een een-op-veel aangepaste objectstructuur.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
@@ -127,24 +127,24 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Voer een [!UICONTROL Display Name]. De [!UICONTROL API Name] en [!UICONTROL Plural Name] automatisch vullen. Voer een [!UICONTROL Description] (optioneel).
+1. Voer een [!UICONTROL Display Name] in. De tekens [!UICONTROL API Name] en [!UICONTROL Plural Name] worden automatisch ingevuld. Voer een [!UICONTROL Description] (optioneel) in.
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en de [!UICONTROL Show in Lead Detail] schuifregelaar
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen het veld [!UICONTROL Plural Name] en de schuifregelaar [!UICONTROL Show in Lead Detail] bewerken.
 
-1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar voor weergave **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
+1. Trek de **[!UICONTROL Show in Lead Detail]** schuif over aan vertoning **tonen** als u douaneobjecten gegevens op de pagina van het Gegevensbestand wilt bekijken. Klik **sparen**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
+1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: de status is **[!UICONTROL Draft]** .
 
-   De volgende stap is dat u [koppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) om het tussenliggende object te koppelen aan een persoon/bedrijf en een aangepast object.
+   De volgende stap is voor u [ verbindingsgebieden ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) toevoegen om uw intermediair voorwerp met een persoon/bedrijf en een douanevoorwerp te verbinden.
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste Marketo-objectvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Aangepaste Marketo-objectkoppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [ voeg de Gebieden van de Verbinding van de Objecten van Marketo de Douane toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

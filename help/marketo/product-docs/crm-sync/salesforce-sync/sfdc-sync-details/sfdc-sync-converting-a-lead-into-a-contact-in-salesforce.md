@@ -4,28 +4,28 @@ description: SFDC Sync - Een lead converteren naar een contactpersoon in Salesfo
 title: SFDC Sync - Een lead converteren naar een contactpersoon in Salesforce
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-# SFDC Sync: Een lead converteren naar een contactpersoon in Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
+# SFDC Sync: Een lead converteren naar een contactpersoon in [!DNL Salesforce] {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
 
-Stel je drie verschillende scenario&#39;s voor in Salesforce: (geen gebruik maken van de [Stroom van persoon omzetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} in Marketo Engage)
+Stel zich drie verschillende scenario&#39;s in [!DNL Salesforce] voor: (het gebruiken van [ de stap van de de stroom van de Persoon van de Bekeerling ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) in Marketo)
 
-1. Een lead omzetten in een **nieuwe contactpersoon en nieuwe account**
-1. Een lead omzetten in een **nieuwe contactpersoon** in een **bestaande account**
+1. Het omzetten van een Lood in a **nieuw contact en nieuwe rekening**
+1. Het omzetten van een Lood in a **nieuw contact** in een **bestaande rekening**
 
-1. Een lead omzetten in een **bestaande contactpersoon** in een **bestaande account** (dit werkt hetzelfde als [samenvoegen](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md){target="_blank"})
+1. Het omzetten van aLood in een **bestaand contact** in een **bestaande rekening** (dit werkt identiek aan [ het samenvoegen ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md){target="_blank"})
 
-In alle drie gevallen is het resultaat **1 contact en geen lood in Salesforce en 1 contact en geen mensen in Marketo.**
+In alle drie gevallen beëindigt u omhoog met **1 contact en geen lood in [!DNL Salesforce] en 1 contact en geen mensen in Marketo.**
 
-In Marketo heeft de record nu een SFDC Type = Contact.
+In Marketo heeft de record nu het SFDC Type = Contact.
 
 >[!TIP]
 >
->Zorg er bij omzetting in Salesforce voor dat [aangepaste hoofdvelden worden goed toegewezen](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm){target="_blank"}. U wilt geen gegevens verliezen.
+>Wanneer het omzetten in [!DNL Salesforce], zorg ervoor uw [ lood douanegebieden goed ](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm) in kaart worden gebracht. U wilt geen gegevens verliezen.
 
-U kunt de elementen Lead is omgezet en Lead is omgezet activeren en filteren.
+U kunt triggeren en filtreren gebruikend: &quot;[!UICONTROL Lead is Converted]&quot; en &quot;[!UICONTROL Lead was Converted]&quot;.

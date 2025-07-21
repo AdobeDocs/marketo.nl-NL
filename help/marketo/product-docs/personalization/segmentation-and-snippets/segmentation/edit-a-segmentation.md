@@ -4,9 +4,9 @@ description: Een segmentatie bewerken - Marketo Docs - Productdocumentatie
 title: Een segmentatie bewerken
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
 ## Een segmenteringsconcept maken {#create-a-segmentation-draft}
 
-1. Ga naar de **Database**.
+1. Ga naar de **[!UICONTROL Database]** .
 
    ![](assets/db.png)
 
-1. Klik in de segmentatie op **Segmentatiehandelingen** en vervolgens **Concept maken**.
+1. Klik in de segmentatie op **[!UICONTROL Segmentation Actions]** en vervolgens op **[!UICONTROL Create Draft]** .
 
    ![](assets/two.png)
 
-1. De **Status** wijzigingen in Goedgekeurd met concept. A **Concept** wordt in de segmentatie gemaakt.
+1. **[!UICONTROL Status]** verandert in [!UICONTROL Approved with Draft] . Er wordt een **[!UICONTROL Draft]** -map gemaakt in de segmentatie.
 
    ![](assets/three.png)
 
 ## Segmenten toevoegen, bewerken of verwijderen {#add-edit-or-delete-segments}
 
-1. Klik in de segmentatie op **Segmentatiehandelingen** en vervolgens **Segmenten bewerken**.
+1. Klik in de segmentatie op **[!UICONTROL Segmentation Actions]** en vervolgens op **[!UICONTROL Edit Segments]** .
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >U kunt alleen segmenten van een concept bewerken en niet de goedgekeurde segmentatie.
+   >U kunt alleen segmenten van een [!UICONTROL Draft] bewerken en niet de goedgekeurde segmentatie.
 
-1. **Segment toevoegen**, **Bewerken** bestaande (naam wijzigen of volgorde wijzigen) of **Verwijderen** alle segmenten.
+1. **[!UICONTROL Add Segment]** , **[!UICONTROL Edit]** bestaande segmenten (wijzig de naam van de segmenten of wijzig de volgorde) of **[!UICONTROL Delete]** alle segmenten.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,17 +49,17 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
    >[!CAUTION]
    >
-   >Het verwijderen beïnvloedt alle bijbehorende dynamische inhoud in e-mails, Landing Pages, en Fragmenten. **Ongedaan maken is niet mogelijk**. Controleer de **Gebruikt door** om te zien wat dat segment gebruikt.
+   >Het verwijderen beïnvloedt alle bijbehorende dynamische inhoud in e-mails, Landing Pages, en Fragmenten. **Er is geen ongedaan maken**. Controleer het tabblad **[!UICONTROL Used By]** om te zien wat dat segment gebruikt.
 
 ## Segmentregels bewerken {#edit-segment-rules}
 
-1. In uw concept **Segment**, ga naar **Slimme lijst**. Regels toepassen die lijken op [Segmentregels definiëren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. In uw [!UICONTROL Draft] **Segment**, ga naar **[!UICONTROL Smart List]**. Pas regels toe gelijkend op [ het bepalen van de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >U kunt de goedgekeurde segmenten niet bewerken. Klik op Segmenten in de map Concept om deze te bewerken.
+   >U kunt de goedgekeurde segmenten niet bewerken. Klik op Segmenten in de map [!UICONTROL Draft] om deze te bewerken.
 
    >[!NOTE]
    >
@@ -69,4 +69,4 @@ U kunt experimenteren met segmentaties die niet worden gebruikt in dynamische in
 
 >[!MORELIKETHIS]
 >
->[Een segmentatie verwijderen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
+>[ Schrap een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)

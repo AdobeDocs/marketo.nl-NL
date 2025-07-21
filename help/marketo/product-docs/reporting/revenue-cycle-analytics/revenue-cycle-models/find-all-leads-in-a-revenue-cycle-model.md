@@ -4,9 +4,9 @@ description: Alle leads zoeken in een Revenue Cycle Model - Marketo Docs - Produ
 title: Alle leads zoeken in een inkomstencyclusmodel
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -17,31 +17,31 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
 >[!PREREQUISITES]
 >
->[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Selecteer de slimme lijst en klik op de knop **Slimme lijst** tab.
+1. Selecteer de slimme lijst en klik op de tab **[!UICONTROL Smart List]** .
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Zoek de **Lid van het inkomstenmodel** en sleep het naar het canvas.
+1. Zoek het filter **[!UICONTROL Member of Revenue Model]** en sleep het naar het canvas.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Selecteer een **Model**.
+1. Selecteer een **[!UICONTROL Model]** .
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Dit zou je alle leads in dat model geven, ongeacht het werkgebied. Meestal wilt u een specifiek werkgebied. Gebruik in plaats hiervan het volgende filter.
 
-1. Zoek de **Opbrengstfase** en sleep het naar het canvas.
+1. Zoek het filter **[!UICONTROL Revenue Stage]** en sleep het naar het canvas.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selecteer een **Werkgebied**.
+1. Selecteer een **[!UICONTROL Stage]** .
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Ga naar de **Leads** om de resultaten weer te geven.
+1. Ga naar het tabblad **[!UICONTROL Leads]** om de resultaten weer te geven.
 
    ![](assets/2.png)
 

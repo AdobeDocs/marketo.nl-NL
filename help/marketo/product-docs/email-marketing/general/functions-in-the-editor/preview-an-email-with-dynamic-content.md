@@ -4,9 +4,9 @@ description: Een voorbeeld van een e-mail met dynamische inhoud bekijken - Marke
 title: Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Bekijk een voorbeeld van uw e-mail nadat u dynamische inhoud hebt toegevoegd om deze te verifiëren.
 
-1. Selecteer uw e-mail en klik op **E-mail voorvertonen**.
+1. Selecteer uw e-mail en klik op **[!UICONTROL Preview Email]** .
 
    ![](assets/one-3.png)
 
-1. Klik op de vervolgkeuzelijst Weergeven op en selecteer het type dynamische inhoud waarvan u een voorvertoning wilt weergeven.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL View By]** en selecteer het type dynamische inhoud waarvan u een voorvertoning wilt weergeven.
 
    ![](assets/two-3.png)
 
@@ -31,9 +31,9 @@ Bekijk een voorbeeld van uw e-mail nadat u dynamische inhoud hebt toegevoegd om 
 
    ![](assets/four-1.png)
 
-U kunt dynamische inhoud ook rechtstreeks in de e-maileditor bekijken.
+U kunt dynamische inhoud ook rechtstreeks in de e-maileditor voorvertonen.
 
-1. Onder **Inhoud** klikt u op de knop **Dynamisch** tab.
+1. Klik onder **[!UICONTROL Content]** op de tab **[!UICONTROL Dynamic]** .
 
    ![](assets/five-1.png)
 

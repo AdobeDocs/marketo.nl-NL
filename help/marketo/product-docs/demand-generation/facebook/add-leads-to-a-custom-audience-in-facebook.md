@@ -1,46 +1,46 @@
 ---
 unique-page-id: 11376700
 description: Leads toevoegen aan een aangepast publiek in Facebook - Marketo Docs - Productdocumentatie
-title: Leads toevoegen aan een aangepast publiek in Facebook
+title: Leads toevoegen aan een aangepast publiek op Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-# Leads toevoegen aan een aangepast publiek in Facebook {#add-leads-to-a-custom-audience-in-facebook}
+# Regels toevoegen aan een aangepast publiek in [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Hebt u al een aangepast publiek in Facebook en wilt u er meer leads aan toevoegen? Zo gaat het.
+Hebt u al een aangepast publiek in [!DNL Facebook] en wilt u er meer leads aan toevoegen? Zo gaat het.
 
 >[!PREREQUISITES]
 >
->* [Een aangepast publiek maken in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Aangepaste voorwaarden voor Facebook-publiek accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in uw Facebook-account.
+>* [ creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [ keurt {de termijnen van 1} van het douanepubliek  [!DNL Facebook] binnen uw ](https://www.facebook.com/ads/manage/customaudiences/tos.php) rekening goed.[!DNL Facebook]
 >
 
 1. Zoek en selecteer de slimme of statische lijst met de leads die u wilt toevoegen.
 
    ![](assets/one.png)
 
-1. Selecteer **Leads** en klikt u op de knop **Verzenden via Adobe Bridge** aan de onderkant.
+1. Selecteer het **[!UICONTROL Leads]** lusje, dan klik op **verzenden via Ad Bridge** pictogram bij de bodem.
 
    ![](assets/two-1.png)
 
-1. Selecteren **Facebook** en klik op **Volgende**.
+1. Selecteer **[!UICONTROL Facebook]** en klik op **[!UICONTROL Next]** .
 
    ![](assets/three.png)
 
-1. Klik op de knop **Publiek** vervolgkeuzelijst, selecteert u het publiek waaraan u de leads wilt toevoegen en klikt u op **Bijwerken**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Audience]** , selecteer het publiek waaraan u de leads wilt toevoegen en klik op **[!UICONTROL Update]** .
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**leads toevoegen aan publiek**: alleen Facebook-publiek met een aangepast subtype is beschikbaar.\
-   >**Leden van het publiek verwijderen**: Hiermee verwijdert u de leads in uw statische of slimme lijst van een Facebook-publiek.
+   >**[!UICONTROL Add leads to audience]** : alleen [!DNL Facebook] publiek met een aangepast subtype is beschikbaar.\
+   >**[!UICONTROL Remove leads from audience]** : hiermee verwijdert u de leads in uw statische of slimme lijst uit een [!DNL Facebook] -publiek.
 
 1. Als u klaar bent, wordt de status bijgewerkt.
 
@@ -50,4 +50,4 @@ Hebt u al een aangepast publiek in Facebook en wilt u er meer leads aan toevoege
 
    >[!NOTE]
    >
-   >[Een aangepast publiek maken in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[ creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

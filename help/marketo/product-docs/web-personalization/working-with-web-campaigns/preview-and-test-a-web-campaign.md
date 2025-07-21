@@ -4,10 +4,10 @@ description: Een webcampagne voorvertonen en testen - Marketo Docs - Productdocu
 title: Een webcampagne voorvertonen en testen
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 0%
+source-wordcount: '369'
+ht-degree: 1%
 
 ---
 
@@ -21,43 +21,43 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
 ## Een webcampagne voorvertonen op de ontwerppagina {#preview-a-web-campaign-on-the-creation-page}
 
-1. Ga naar **Webcampagnes**.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Klikken **Nieuwe webcampagne maken** of het pictogram om een bestaande campagne te bewerken.
+1. Klik op **[!UICONTROL Create New Web Campaign]** of het pictogram om een bestaande campagne te bewerken.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Voeg de pagina-URL toe in Voorvertoning op de site en klik op **Voorvertoning**. Er wordt een nieuw venster of tabblad geopend met de voorvertoning van de campagne.
+1. Voeg de pagina-URL toe in Voorvertonen op de site en klik op **[!UICONTROL Preview]** . Er wordt een nieuw venster of tabblad geopend met de voorvertoning van de campagne.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Klikken **Delen** om een e-mail met een vaste URL van de campagnevoorvertoning te openen.
+   >Klik op **[!UICONTROL Share]** om een e-mail te openen met een vaste URL van de voorvertoning van de campagne.
 
    >[!NOTE]
    >
-   >U kunt ook een browserplug-in installeren (een van de [Chroom](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor een optimale ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
+   >U hebt ook de optie om een browser stop-binnen (of [[!DNL Chrome] te installeren ](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [[!DNL Firefox] ](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor de beste ervaring previewing uw campagne. Zie de onderstaande paragraaf.
 
 ## Een webcampagne voorvertonen op de pagina Maken met de plug-in Browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Voer stap 1 en 2 uit de bovenstaande sectie uit.
 
-1. Klik op de koppeling naar de browserplug-in (in dit geval gebruiken we Chrome).
+1. Klik op de koppeling naar de browserplug-in (in dit geval gebruiken we [!DNL Chrome] ).
 
    ![](assets/4-1.png)
 
-1. Er wordt een nieuw venster/tabblad geopend. Klikken **Toevoegen aan chroom**.
+1. Er wordt een nieuw venster/tabblad geopend. Klik op **[!UICONTROL Add to Chrome]**.
 
    ![](assets/five.png)
 
-1. Klikken **Extensie toevoegen**.
+1. Klik op **[!UICONTROL Add Extension]**.
 
    ![](assets/six.png)
 
-1. Ga terug naar Marketo. Voeg de pagina-URL toe en klik op **Voorvertoning**.
+1. Ga terug naar Marketo. Voeg de pagina-URL toe en klik op **[!UICONTROL Preview]** .
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
 ## Een webcampagne voorvertonen op de webpagina Campagnes {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Als u de lijst met uw webcampagnes bekijkt, kiest u gewoon een campagne en klikt u op de knop **Voorvertoning** pictogram.
+1. Als u de lijst met uw webcampagnes bekijkt, kiest u gewoon een campagne en klikt u op het pictogram **[!UICONTROL Preview]** .
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -77,17 +77,17 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
 Maak een sandboxsegment en -campagne.
 
-1. Ga naar **Segmenten**.
+1. Ga naar **[!UICONTROL Segments]** .
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klikken **Nieuw maken**.
+1. Klik op **[!UICONTROL Create New]**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Geef het segment een naam.
 
-1. Sleep onder Gedrag de optie Inclusief pagina&#39;s naar het canvas. Voeg de waarde toe &#42;sandbox=1&#42;. Klikken **Campagne opslaan en definiëren**.
+1. Sleep [!UICONTROL Behavioral] onder [!UICONTROL Include Pages] naar het canvas. Voeg de waarde &#42; zandbak=1 &#42; toe. Klik op **[!UICONTROL Save & Define Campaign]**.
 
    ![](assets/segment.png)
 
@@ -95,13 +95,13 @@ Maak een sandboxsegment en -campagne.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Creatieve campagne voltooien en klikken **Starten**.
+1. Voltooi de campagne creatief en klik op **[!UICONTROL Launch]** .
 
    ![](assets/click-launch.jpg)
 
-1. Ga naar uw website en voeg de URL-parameter &quot;?sandbox=1&quot; toe aan het einde van de URL. Voorbeeld: `www.marketo.com?sandbox=1`.
+1. Ga naar uw website en voeg de URL-parameter &quot;?sandbox=1&quot; toe aan het einde van de URL. Voorbeeld: `www.marketo.com?sandbox=1` .
 
-1. Bekijk de campagnereactie op uw website.
+1. Bekijk de actie van de campagne op uw website.
 
 >[!NOTE]
 >
@@ -109,4 +109,4 @@ Maak een sandboxsegment en -campagne.
 
 >[!NOTE]
 >
->Omleidingscampagnes kunnen niet worden voorvertoond. De enige manier om deze te testen is met behulp van een sandboxsegment (dat zich richt op specifieke pagina&#39;s - &#42;sandbox=redirect&#42;)
+>Omleidingscampagnes kunnen niet worden voorvertoond. De enige manier om hen te testen is door een zandbaksegment te gebruiken (dat richt door specifieke pagina&#39;s - &#42; zandbak=redirect &#42;)

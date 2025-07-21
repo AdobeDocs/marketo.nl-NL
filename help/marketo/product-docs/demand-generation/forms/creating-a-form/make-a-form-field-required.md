@@ -4,39 +4,39 @@ description: Formulierveld vereist maken - Marketo Docs - Productdocumentatie
 title: Een formulierveld vereist maken
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
 # Een formulierveld vereist maken {#make-a-form-field-required}
 
-Wanneer [velden toevoegen aan een formulier](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) misschien wilt u er een paar nodig maken voor de persoon die ze invult. Zo gaat het.
+Wanneer [ toevoegend gebieden aan een vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) u een paar van hen kan willen maken die worden vereist aan de persoon die hen invult. Zo gaat het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/editform-2.png)
 
-1. Selecteer het veld dat u verplicht wilt maken en controleer Is vereist.
+1. Selecteer het veld dat u verplicht wilt maken en schakel **[!UICONTROL Is Required]** in.
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Echt waar! Klikken **Voltooien**.
+1. Echt waar! Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->Vergeet niet om [eventuele bestemmingspagina&#39;s goedkeuren](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dit formulier gaat door voor de veranderingen die in het leven moeten worden geroepen .
+>Vergeet niet om het even welke het landen pagina&#39;s [ goed te keuren deze vorm leeft op voor de veranderingen om levend te gaan.](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
 
-Moet u [de velden die u aan het formulier hebt toegevoegd opnieuw ordenen](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+Moet u [ de gebieden opnieuw rangschikken u aan uw vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md) toevoegde?

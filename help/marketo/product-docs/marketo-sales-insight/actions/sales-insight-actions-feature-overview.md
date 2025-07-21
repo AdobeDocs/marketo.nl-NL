@@ -1,24 +1,24 @@
 ---
-description: Overzicht van Sales Insight Actions - Marketo Docs - Productdocumentatie
-title: Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht
+description: Overzicht Insight Actions - Marketo Docs - Productdocumentatie
+title: Overzicht Insight-handelingstaken
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1361'
+source-wordcount: '1305'
 ht-degree: 0%
 
 ---
 
-# Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht {#msi-actions-feature-overview}
+# Overzicht Insight-handelingstaken {#msi-actions-feature-overview}
 
-Versnel de prospectieve inspanningen met marketing-aangedreven intelligentie en betrokkenheidshulpmiddelen in één enkele werkschema gebruikend de Acties van het Inzicht van de Verkoop.
+Versnel de prospectie-inspanningen met marketing-aangedreven intelligentie en betrokkenheidshulpmiddelen in één enkele werkschema gebruikend de Acties van de Insight van de Verkoop.
 
 >[!NOTE]
 >
->De Acties van het Inzicht van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van het Inzicht van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
-Voor een videooverzicht van de Acties van het Inzicht van de Verkoop, [ klik hier ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=nl-NL){target="_blank"} .
+Voor een videooverzicht van de Acties van Insight van de Verkoop, [ klik hier ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -40,7 +40,7 @@ De volgende acties zijn beschikbaar in de vervolgkeuzelijst &quot;Handelingen ki
    * Campagne-activiteiten worden in de persoonlijke gegevens van Marketo geregistreerd
    * Overeenkomende filters en triggers in Marketo Smart Campaigns (zie de volgende details)
 
-* Verkoop Dialer
+* Verkoopmanager
    * Maak verkoopvraag gebruikend dialer binnen CRM
    * Inclusief lokale aanwezigheid, vooraf opgenomen
    * Resultaat van de logboekaanroep, opname van oproepen in het deelvenster en activiteitenhistorie
@@ -50,8 +50,8 @@ De volgende acties zijn beschikbaar in de vervolgkeuzelijst &quot;Handelingen ki
 * Taak toevoegen
    * E-mail, Vraag, InMail, en de taken van de Douane voor uw lood creëren
    * Automatiseer het creëren van taken met de Campagnes van de Verkoop
-   * Taken synchroniseren met Salesforce
-   * Logtaken in de sectie Geschiedenis van Salesforce-activiteiten
+   * Taken synchroniseren met [!DNL Salesforce]
+   * Taken vastleggen in de sectie [!DNL Salesforce] Activiteitenoverzicht
 
 U hebt toegang tot Live Feed door op het pictogram ((0)) in de bovenste nav te klikken. Dit omvat de mogelijkheid om live updates van verkoopactiviteiten te bekijken, samen met mogelijkheden voor schermdocking.
 
@@ -60,7 +60,7 @@ U hebt toegang tot Live Feed door op het pictogram ((0)) in de bovenste nav te k
 De volgende gegevens zijn beschikbaar op de tabbladen in het deelvenster MSI:
 
 * Insights-dashboard
-   * Het Net van de Snelheid van de Aansluiting zal activiteiten van de Verkoop E-mail, de Acties van de Campagne van de Verkoop, en Dialer van de Verkoop omvatten
+   * Het Net van de Snelheid van de Aansluiting zal activiteiten van de Verkoop E-mail, de Acties van de Campagne van de Verkoop, en de Vraag van de Verkoop omvatten
    * Aankomende verkoopcampagnes - Als een lead onderdeel is van een lopende campagne, is deze informatie beschikbaar op het tabblad voor verkoopcampagnes
    * Opkomende Taken - Wanneer er een aanstaande taak met betrekking tot een lood is, zal deze informatie op het aanstaande takenlusje beschikbaar zijn
 
@@ -97,7 +97,7 @@ U hebt toegang tot Live Feed door op het pictogram ((0)) boven in de navigatieba
 De volgende gegevens zijn beschikbaar op de tabbladen:
 
 * Insights-dashboard
-   * De Raster van de Snelheid van de Aansluiting zal activiteiten van de Verkoop E-mail, de Acties van de Campagne van de Verkoop, en Dialer van de Verkoop omvatten
+   * Het Net van de Snelheid van de Aansluiting zal activiteiten van de Verkoop E-mail, de Acties van de Campagne van de Verkoop, en de Vraag van de Verkoop omvatten
    * Aankomende verkoopcampagnes - Wanneer een contact van de account/de mogelijkheid deel uitmaakt van een lopende campagne, is deze informatie beschikbaar op het volgende tabblad voor verkoopcampagnes
    * De komende Taken - wanneer er een aanstaande taak met betrekking tot een contact van de rekening/de kans is, zal deze informatie op het aanstaande takenlusje beschikbaar zijn
 
@@ -113,28 +113,28 @@ De volgende gegevens zijn beschikbaar op de tabbladen:
 
 ## Weergave voor lead- en contactlijst (Bulkhandelingen) {#lead-and-contact-list-view}
 
-* E-mail over verkoop verzenden - Mogelijkheid om gepersonaliseerde of getemplatificeerde e-mails te verzenden met het oog op weergave, klik en antwoord op een lijst met contactpersonen/leads
-* Verzendcampagne - Toevoegen aan verkoopafspeelboeken. Dit is een reeks e-mails en taken aan een lijst met contactpersonen/leads
+* [!UICONTROL Send Sales Email] - Mogelijkheid om gepersonaliseerde of getemplatificeerde e-mails te verzenden met weergave, klik en antwoord bijhouden op een lijst met contactpersonen/leads
+* [!UICONTROL Add to Sales Campaign] - Toevoegen aan verkoopafspeelboeken. Dit is een reeks e-mails en taken aan een lijst met contactpersonen/leads
 
 ## Marketo Global Tab {#marketo-global-tab}
 
-**Beste Bets Lusje**
+**[!UICONTROL Best Bets]Tab**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-De volgende acties voor bulkgoederen zijn beschikbaar in de keuzelijst op het tabblad Best Bets:
+De volgende bulkacties zijn beschikbaar in de keuzelijst op het tabblad [!UICONTROL Best Bets] :
 
-* E-mail over verkoop verzenden - Mogelijkheid om persoonlijke of getypte e-mails te verzenden met weergave, klik en antwoord bijhouden
-* Verkoop campagne verzenden - Voeg leads toe aan verkoopafspeelboeken die een reeks e-mails en taken zijn
+* [!UICONTROL Send Sales Email] - Mogelijkheid om persoonlijke of getemplatificeerde e-mails te verzenden met weergave, klikken en antwoorden bijhouden
+* [!UICONTROL Add to Sales Campaign] - Voeg leads toe aan verkoopafspeelboeken. Dit is een reeks e-mails en taken
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-De volgende inline acties zijn beschikbaar voor individuele lood/contacten op het Beste lusje van Bets:
+De volgende inline acties zijn beschikbaar voor individuele leads/contactpersonen op het tabblad [!UICONTROL Best Bets] :
 
-* E-mail over verkoop verzenden - Mogelijkheid om persoonlijke of getypte e-mails te verzenden met weergave, klik en antwoord bijhouden
-* Verkoop campagne verzenden - Voeg leads toe aan verkoopafspeelboeken die een reeks e-mails en taken zijn
-* Dialer van de verkoop - maak verkoopvraag gebruikend dialer binnen CRM
-* Taak toevoegen - E-mail, vraag, klant of Verbonden taken voor prospectieve leads maken
+* [!UICONTROL Send Sales Email] - Mogelijkheid om persoonlijke of getemplatificeerde e-mails te verzenden met weergave, klikken en antwoorden bijhouden
+* [!UICONTROL Add to Sales Campaign] - Voeg leads toe aan verkoopafspeelboeken. Dit is een reeks e-mails en taken
+* [!UICONTROL Sales Call] - maak verkoopvraag gebruikend dialer binnen CRM
+* [!UICONTROL Add Task] - Maak e-mail, vraag, klant of Verbonden in taken voor prospectieve leads
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
@@ -154,15 +154,15 @@ De volgende inline acties zijn beschikbaar voor individuele lood/contacten op he
 
 * E-mail, Vraag, InMail, en de taken van de Douane die worden gecreeerd en worden voltooid zullen voor taakbeheer op dit lusje beschikbaar zijn. Bevat de mogelijkheid om taak toe te voegen
 * Automatiseer het creëren van taken met de Campagnes van de Verkoop
-* Taken synchroniseren met Salesforce
-* Logtaken in de sectie Geschiedenis van Salesforce-activiteiten
+* Taken synchroniseren met [!DNL Salesforce]
+* Taken vastleggen in de sectie [!DNL Salesforce] Activiteitenoverzicht
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Levend voer**
 
 * Mogelijkheid om live updates van verkoopactiviteiten te bekijken, samen met mogelijkheden voor schermdocking
-* Met de ingesloten knoppen voor e-mail, bellen en schrijven kunnen alle klanten inzicht in de situatie krijgen
+* Met de ingesloten knoppen voor e-mail, bellen en schrijven kunnen alle klanten insight activeren
 
 ## Functies beschikbaar in Marketo {#features-available-in-marketo}
 
@@ -172,18 +172,18 @@ Verkoopactiviteiten die in Marketo worden gevangen:
 * Verkoopbericht openen - Lezing heeft e-mail over verkoop geopend
 * Klik op E-mail verkopen - Lead heeft geklikt op een koppeling in een e-mailbericht over verkopen
 * E-mailadres voor verkoop heeft gereageerd - Lead heeft op een e-mail met verkopen gereageerd
-* Ontvang de Vraag van de Verkoop - Lead ontving een vraag van een verkoper gebruikend Dialer van de Verkoop.
+* Ontvang de Vraag van de Verkoop - Lead ontving een vraag van een verkoper gebruikend de Vraag van de Verkoop.
 * Toevoegen aan verkoopcampagne - Lead is toegevoegd aan een verkoopcampagne die is gemaakt
 * Verwijderd uit verkoopcampagne - Lead is verwijderd uit een gemaakte verkoopcampagne
 
 Tot de filters en triggers behoren:
 
-* Verkoop-e-mail verzenden
-* Geopende e-mail voor verkoop
-* E-mail met geklikte verkoop
-* Reageerd op e-mail over verkoop
-* Ontvangen verkoopoproep
-* Toegevoegd aan verkoopcampagne
-* Verwijderd uit verkoopcampagne
+* [!UICONTROL Is Sent Sales Email]
+* [!UICONTROL Opens Sales Email]
+* [!UICONTROL Clicks Sales Email]
+* [!UICONTROL Replies to Sales Email]
+* [!UICONTROL Receives Sales Call]
+* [!UICONTROL Added to Sales Campaign]
+* [!UICONTROL Removed from Sales Campaign]
 
   ![](assets/sales-insight-actions-feature-overview-7.png)

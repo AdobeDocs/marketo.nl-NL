@@ -4,9 +4,9 @@ description: AB Test Uw Campagne van het Web - de Documenten van Marketo - de Do
 title: AB Test Uw Campagne van het Web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,55 +15,55 @@ ht-degree: 0%
 
 Testen is een uitstekende manier om uw webcampagnes te optimaliseren voor een betere betrokkenheid. Zo ga je aan de slag.
 
-Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes selecteren, hen associëren aan het zelfde **Gesplitste test** en selecteert u **Automatisch afstemmen** om automatisch door te gaan met de best presterende campagne.
+Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer campagnes selecteren, deze aan dezelfde **[!UICONTROL Split Test]** -groep koppelen en **[!UICONTROL Auto Tune]** selecteren om automatisch door te gaan met de best presterende campagne.
 
 >[!TIP]
 >
->Schakel Automatisch afstemmen niet in als u liever handmatig wilt berekenen en wilt zien welke campagne beter functioneert.
+>Schakel [!UICONTROL Auto Tune] niet in als u liever handmatig wilt berekenen en wilt zien welke campagne beter presteert.
 
 ## Een gesplitste A/B-test instellen {#how-to-set-up-a-split-a-b-test}
 
-1. Ga naar webcampagnes.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/web-campaigns-hand-2.jpg)
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden wilt u, gebruik [filterfunctie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Selecteer de eerste campagne u aan test A/B wilt. Klikken **Bewerken**.
+1. Selecteer de eerste campagne u aan test A/B wilt. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Selecteer in de campagnepagina de optie **Gesplitste tests** en klik op **Nieuw maken**.
+1. Selecteer **[!UICONTROL Split Testing]** in de campagnepagina en klik op **[!UICONTROL Create New]** .
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Voer de **Naam testgroep splitsen**, klikt u op **Maken**. Selecteren **Automatisch afstemmen**.
+1. Ga de **Gesplitste Testende Naam van de Groep** in, klik **[!UICONTROL Create]**. Selecteer **[!UICONTROL Auto Tune]** .
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Opslaan** of **Starten** de campagne.
+1. **[!UICONTROL Save]** of **[!UICONTROL Launch]** de campagne.
 
    >[!TIP]
    >
-   >Selecteren **Automatisch afstemmen** staat het platform van de Personalisatie van het Web toe om de beter presterende gespleten testcampagne automatisch te erkennen, en gaat met de hoogste het omzetten campagne voort terwijl het pauzeren van anderen.
+   >Als u **[!UICONTROL Auto Tune]** selecteert, kan het [!DNL Web Personalization] -platform automatisch de beter presterende gesplitste testcampagne herkennen en wordt de campagne voortgezet met de hoogste conversiecampagne terwijl de andere wordt gepauzeerd.
 
 1. Herhaal dit proces met de tweede campagne.
 
-1. Selecteer de tweede campagne die u wilt testen A/B. Klikken **Bewerken**.
+1. Selecteer de tweede campagne die u wilt testen A/B. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. In de **Campagne instellen** pagina, selecteert u **Gesplitste tests** en kiest u **Groep** in de vervolgkeuzelijst. Selecteren **Automatisch afstemmen**.
+1. In de **[!UICONTROL Set Campaign]** pagina, selecteer **Splitsen Testen** en kies de **Groep** van drop-down. Selecteer **[!UICONTROL Auto Tune]** .
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Opslaan** of **Starten** de campagne.
+1. **[!UICONTROL Save]** of **[!UICONTROL Launch]** de campagne.
 
 1. Herhaal dit proces voor een derde of vierde campagne om te testen.
 
-1. In **Webcampagnes** u kunt de gesplitste testcampagnes zien die door het pictogram A/B worden aangeduid.
+1. In **[!UICONTROL Web Campaigns]** kunt u de gesplitste testcampagnes zien die door het pictogram A/B worden aangeduid.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -76,6 +76,6 @@ Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes s
 
 >[!MORELIKETHIS]
 >
->* [Een dialoogcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Een RTP maken in een zonecampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Een RTP-widgetcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

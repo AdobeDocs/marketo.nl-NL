@@ -4,10 +4,10 @@ description: Sjabloonlijst weergeven als een andere gebruiker - Marketo Docs - P
 title: Sjabloonlijst weergeven als een andere gebruiker
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ Als beheerder kunt u sjablonen weergeven als elke gebruiker.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Klikken **Sjablonen**.
+1. Klik op **[!UICONTROL Templates]**.
 
    ![](assets/one.png)
 
-1. Klik op de knop **Weergeven als** en selecteer de gewenste gebruiker.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL View As]** en selecteer de gewenste gebruiker.
 
    ![](assets/two.png)
 
@@ -33,4 +33,4 @@ Als beheerder kunt u sjablonen weergeven als elke gebruiker.
 
    >[!NOTE]
    >
-   >U kunt filters of de onderzoeksfunctie samen met Mening ook gebruiken om te bekijken wat voor u het meest relevant is.
+   >U kunt ook filters of de zoekfunctie gebruiken in combinatie met [!UICONTROL View As] om te zien wat voor u het meest relevant is.

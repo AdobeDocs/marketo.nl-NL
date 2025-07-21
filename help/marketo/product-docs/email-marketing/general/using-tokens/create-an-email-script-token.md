@@ -4,18 +4,18 @@ description: E-mailscripttoken maken - Marketo Docs - Productdocumentatie
 title: Een e-mailscripttoken maken
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
 # Een e-mailscripttoken maken {#create-an-email-script-token}
 
-Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mails. Zo doe je het.
+Voor gevorderde ontwikkelaars, kunt u {de manuscripten van de Snelheid van 0} [ in uw e-mails gebruiken. ](https://velocity.apache.org/engine/1.7/user-guide.html) Zo doe je het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Onder de **Mijn tokens** tabblad, slepen in een **E-mailscript** token.
+1. Sleep onder het tabblad **[!UICONTROL My Tokens]** in een **[!UICONTROL Email Script]** -token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Noem uw e-mailscripttoken en **klik om te bewerken** de inhoud ervan.
+1. Geef uw e-mailscripttoken een naam en **[!UICONTROL Click to Edit]** de bijbehorende inhoud.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. De boomstructuur aan de rechterkant gebruiken om in te slepen **Persoon, Opportunity**, of **Aangepast object** tokens.
+1. Gebruik de boomstructuur aan de rechterkant om tokens **[!UICONTROL Person]** , **[!UICONTROL Opportunity]** of **[!UICONTROL Custom Object]** in te slepen.
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele nuttige bronnen:
 
-   * [Marketo Developers Email Scripting Documentation](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting)
-   * [Gebruikershandleiding voor snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [Snelheidsnaslaggids](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [ de Documentatie van Scripting van de Ontwikkelaars E-mail van Marketo ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [ Gids van de Gebruiker van 0} Snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [ Gids van de Verwijzing van 0} Snelheid](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [ de Hulpmiddelen Javadoc van de Snelheid {](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Wanneer het script is voltooid, klikt u op **Opslaan**.
+1. Klik op **[!UICONTROL Save]** wanneer het script is voltooid.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klikken **Opslaan** nog een keer.
+1. Klik nogmaals op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
@@ -66,4 +66,4 @@ Nu kunt u deze token gebruiken in uw e-mails. Het script wordt uitgevoerd telken
 
 >[!MORELIKETHIS]
 >
->[Een e-mailscripttoken toevoegen aan uw e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[ voeg een Token van het Manuscript E-mail aan Uw E-mail toe ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

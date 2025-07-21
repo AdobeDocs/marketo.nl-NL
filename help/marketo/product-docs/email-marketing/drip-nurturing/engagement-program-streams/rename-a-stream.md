@@ -4,9 +4,9 @@ description: De naam van een stream wijzigen - Marketo Docs - Productdocumentati
 title: De naam van een stream wijzigen
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u georganiseerd wilt blijven, kunt u uw stromen anders noemen. Zo doe je het.
 
-1. Zoek en selecteer uw serviceprogramma en klik vervolgens op **Streams**.
+1. Zoek en selecteer uw betrokkenheidsprogramma en klik vervolgens op **[!UICONTROL Streams]** .
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Als u georganiseerd wilt blijven, kunt u uw stromen anders noemen. Zo doe je het
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Voer de nieuwe stream in **Naam** en klik op **Opslaan**.
+1. Voer de nieuwe stream in **[!UICONTROL Name]** en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

@@ -1,37 +1,37 @@
 ---
 unique-page-id: 11375276
-description: Aangepaste Dimension voor e-mailinzicht - Marketo Docs - Productdocumentatie
-title: Aangepaste Dimension voor e-mailinzichten
+description: Aangepaste afmetingen voor e-mailinzichten - Marketo Docs - Productdocumentatie
+title: Aangepaste afmetingen voor e-mailinzichten
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 1%
 
 ---
 
-# Aangepaste Dimension voor e-mailinzichten {#custom-dimensions-for-email-insights}
+# Aangepaste afmetingen voor e-mailinzichten {#custom-dimensions-for-email-insights}
 
 Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. Aangepaste afmetingen bestaan uit segmentaties en programmatags. Zo voegt u ze toe.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!CAUTION]
 >
->Aangepaste afmetingen **kan** worden verwijderd of vervangen, dus kies de 10 zorgvuldig.
+>De afmetingen van de douane **kunnen niet** worden geschrapt of worden vervangen, zodat kies zorgvuldig uw 10.
 
-1. Klik in Email Insights op het tandwielpictogram rechtsboven op de pagina.
+1. Klik in [!UICONTROL Email Insights] op het tandwielpictogram rechtsboven op de pagina.
 
    ![](assets/cd1.png)
 
-1. Klikken **Systeem**.
+1. Klik op **[!UICONTROL System]**.
 
    ![](assets/cd2.png)
 
-1. Klik op de knop **+** naast **Dimensie toevoegen**.
+1. Klik op **+** naast **[!UICONTROL Add dimension]** .
 
    ![](assets/cd3.png)
 
@@ -41,6 +41,6 @@ Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aange
 
    >[!NOTE]
    >
-   >**Op publiek**: Toont alle goedgekeurde Segmentaties (van binnen het Gegevensbestand)
+   >**[!UICONTROL By Audience]**: geeft alle goedgekeurde segmenten weer (vanuit de database)
    >
-   >**Op inhoud**: Alle programmalabels weergeven
+   >**[!UICONTROL By Content]**: geeft alle programmatags weer

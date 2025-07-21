@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720314
-description: E-mailprestatierapport over verkoopinzicht - Marketo-documenten - productdocumentatie
-title: E-mailprestatierapport voor verkoopinzicht
+description: Insight E-mailprestatierapport voor verkoop - Marketo Docs - Productdocumentatie
+title: Insight E-mailprestatierapport voor verkoop
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
-# E-mailprestatierapport voor verkoopinzicht {#sales-insight-email-performance-report}
+# Insight E-mailprestatierapport voor verkoop {#sales-insight-email-performance-report}
 
-Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynamics of een Gmail- of Outlook-plug-in worden verzonden.
+Geef de prestaties weer van e-mailberichten die via [!DNL Salesforce] , [!DNL Microsoft Dynamics] of een Gmail- of [!DNL Outlook] plug-in worden verzonden.
 
 ## Een rapport genereren {#generate-a-report}
 
-1. Klikken **Analyse**.
+1. Klik op **[!UICONTROL Analytics]**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Klikken **E-mailprestaties van verkoopinzicht**.
+1. Klik op **[!UICONTROL Sales Insight Email Performance]**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Klik op de knop **Instellen** en kiest u de gewenste waarden.
+1. Klik op de tab **[!UICONTROL Setup]** en kies de gewenste waarden.
 
    ![](assets/three.png)
 
-1. Klik op de knop **Rapport** tab.
+1. Klik op de tab **[!UICONTROL Report]** .
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,23 +43,23 @@ Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynami
 >
 >Klik op de naam van een e-mailbericht om het te openen in de e-mailvoorvertoning.
 
-## Groep per vertegenwoordiger {#group-by-sales-rep}
+## Groeperen op [!UICONTROL Sales Rep] {#group-by-sales-rep}
 
 Je kunt dit rapport gegroepeerd op Verkoopvertegenwoordiger bekijken door je instellingen te wijzigen.
 
-1. Klikken **Instellen**. Dubbelklikken **E-mail**.
+1. Klik op **[!UICONTROL Setup]**. Dubbelklik op **[!UICONTROL Email]** .
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. E-mails groeperen door **Verkoopvertegenwoordiger**.
+1. Selecteer E-mails groeperen op **[!UICONTROL Sales Rep]** .
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Klik op de knop **Rapport** tab.
+1. Klik op de tab **[!UICONTROL Report]** .
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

@@ -4,18 +4,18 @@ description: Afbeeldingen en bestanden toevoegen aan Marketo - Marketo-documente
 title: Afbeeldingen en bestanden toevoegen aan Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Afbeeldingen en bestanden toevoegen aan Marketo {#add-images-and-files-to-marketo}
 
-Leer hoe u nieuwe afbeeldingen of bestanden aan uw Marketo Engage-exemplaar toevoegt.
+Leer hoe u nieuwe afbeeldingen of bestanden aan uw Marketo Engage-exemplaar kunt toevoegen.
 
-1. Ga naar de **Design Studio**.
+1. Ga naar de **[!UICONTROL Design Studio]** .
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
@@ -23,7 +23,7 @@ Leer hoe u nieuwe afbeeldingen of bestanden aan uw Marketo Engage-exemplaar toev
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Upload image or file]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Upload image or file]** .
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -35,14 +35,14 @@ Leer hoe u nieuwe afbeeldingen of bestanden aan uw Marketo Engage-exemplaar toev
    >
    >De maximale grootte per bestand is 100 MB.
 
-1. Klik op **Uploaden**.
+1. Nadat de activa is geselecteerd, klik **uploadt**.
 
    ![](assets/add-images-and-files-to-marketo-5.png)
 
    >[!NOTE]
    >
-   >Hoewel Marketo alle bestandstypen accepteert voor uploaden, zijn alleen de belangrijkste afbeeldingstypen (JPG, PNG, GIF, enzovoort) toegestaan werkt in onze e-maileditor.
+   >Hoewel Marketo alle bestandstypen accepteert voor uploaden, werken alleen de belangrijkste afbeeldingstypen (JPG, PNG, GIF, enzovoort) in onze e-maileditor.
 
    >[!MORELIKETHIS]
    >
-   >[Uw afbeeldingen en bestanden ordenen met mappen](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+   >[ organiseer Uw Beelden en Dossiers gebruikend Omslagen ](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

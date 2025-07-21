@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10099389
-description: Marketo Plugin-releases voor Microsoft Dynamics - Marketo Docs - Productdocumentatie
-title: Marketo Plugin-releases voor Microsoft Dynamics
+description: Marketo Plugin-releases voor  [!DNL Microsoft Dynamics]  - Marketo Docs - Productdocumentatie
+title: Marketo-plug-inreleases voor  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
 
-# Marketo Plugin-releases voor Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
+# Marketo-plug-inreleases voor [!DNL Microsoft Dynamics] {#marketo-plugin-releases-for-microsoft-dynamics}
 
-Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de nieuwste versie van de plug-ins voor Marketo. Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
+Wanneer u voor het eerst synchroniseert met [!DNL Microsoft Dynamics] , downloadt u de nieuwste versie van de plug-ins voor Marketo. Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
 
-[De nieuwste insteekmodule downloaden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} komt overeen met uw release Dynamics.
+[ Download de recentste stop ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) die aan uw [!DNL Dynamics] versie beantwoordt.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## Uw oplossing van de Dynamiek bijwerken {#updating-your-dynamics-solution}
+## Uw [!DNL Dynamics] -oplossing bijwerken {#updating-your-dynamics-solution}
 
-1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamics CRM versie 1.4 heeft en de nieuwste versie 1.5 is, importeert u _over_ versie 1.4).
+1. Importeer de recentste versie van de oplossing over de bestaande versie van uw [!DNL Dynamics] CRM (bijvoorbeeld: als uw [!DNL Dynamics] CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u _over_ versie 1.4) invoeren.
 
-1. De volgende pop-up wordt weergegeven. Selecteren **Bijwerken** en **Aanpassingen behouden** en klik vervolgens op **Importeren**.
+1. De volgende pop-up wordt weergegeven. Selecteer **Update** en **handhaaf aanpassingen**, dan klik **de Invoer**.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
@@ -31,7 +31,7 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
 
 >[!NOTE]
 >
->Deze versies werken voor zowel on-premise als online versies van Dynamiek.
+>Deze versies werken voor zowel on-premise als online versies van [!DNL Dynamics].
 
 <table> 
  <tbody> 
@@ -51,31 +51,29 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
    <td>Opgeloste problemen: opgeloste problemen die samenvoegen van contactpersonen op MS Dynamics verhinderden.</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.8</td> 
-   <td>27-03-23</td> 
-   <td>Bugfixatie: hiermee wordt voorkomen dat de plug-in andere aanpassingen in de gebruikersinterface-elementen in MS Dynamics overschrijft.
-   <p>
-   Opgeloste problemen: opnieuw geïnstalleerde navigatietegels die in 5.0.1.1 ontbraken.</td> 
+   <td colspan="1">4.2.0.0</td> 
+   <td colspan="1">16-10-20</td> 
+   <td colspan="1">Toegevoegde ondersteuning voor Campagne Sync met MS [!DNL Dynamics] .</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.1</td> 
-   <td>04-02-21</td> 
-   <td>Ondersteuning voor synchronisatie van optiesvelden met meerdere selecties (deze functie is alleen beschikbaar voor V9.X en hoger).</td> 
+   <td colspan="1">4.0.0.24</td> 
+   <td colspan="1">22-08-18</td> 
+   <td colspan="1">Extra ondersteuning voor 'out-of-box' kwalificeert 'lead in contact'-proces voor [!DNL Microsoft Dynamics] versie 9.x.</td> 
   </tr> 
   <tr> 
-   <td>4.2.0.0</td> 
-   <td>16-10-20</td> 
-   <td>Toegevoegde ondersteuning voor Campagne Sync met MS Dynamics.</td> 
+   <td colspan="1">4.0.0.23</td> 
+   <td colspan="1">27-06-18</td> 
+   <td colspan="1">Opgeloste problemen: Fout tijdens het bedrijfsproces tijdens het installeren van de Marketo Solutions voor [!DNL Dynamics] 2013.</td> 
   </tr> 
   <tr> 
    <td>4.0.0.24</td> 
    <td>22-08-18</td> 
-   <td>Extra ondersteuning voor out-of-box kwalificeert lead in een contactproces voor Microsoft Dynamics versie 9.x.</td> 
+   <td>Extra ondersteuning voor offline kwalificeren leidt tot contactproces voor Microsoft Dynamics versie 9.x.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.23</td> 
-   <td>27-06-18</td> 
-   <td>Opgeloste problemen: Fout tijdens het bedrijfsproces tijdens het installeren van de Marketo Solutions for Dynamics 2013.</td> 
+   <td colspan="1"><p>4.0.0.21</p></td> 
+   <td colspan="1">09-11-16</td> 
+   <td colspan="1">Opgeloste problemen: de plug-in heeft zich niet geabonneerd op gebeurtenissen die de statuswijziging van het aangepaste object vastleggen. Deze correctie geldt specifiek voor [!DNL Dynamics] CRM op locatie 2011. </td> 
   </tr> 
   <tr> 
    <td>4.0.0.22</td> 
@@ -118,14 +116,14 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
    <td>Opgeloste problemen: de klant kon geen lead maken in CRM omdat de aanmeldingsgebruiker geen Marketo Config-toestemming had.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.14</td> 
-   <td>18-01-16</td> 
-   <td>Opgeloste fout: er zijn toegangslimieten gemaakt voor normale Dynamica-gebruikers om beveiligingsproblemen op te lossen.</td> 
+   <td colspan="1">4.0.0.14</td> 
+   <td colspan="1">18-01-16</td> 
+   <td colspan="1">Opgeloste problemen: gemaakte toegangslimieten voor normale [!DNL Dynamics] -gebruikers om beveiligingsproblemen op te lossen.</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.13</td> 
-   <td>30-12-15</td> 
-   <td>Opgeloste problemen: Updates in Dynamics synchroniseerden niet naar Marketo voor stappen en afbeeldingen.</td> 
+   <td colspan="1">4.0.0.13</td> 
+   <td colspan="1">30-12-15</td> 
+   <td>Opgeloste problemen: updates in [!DNL Dynamics] synchroniseerden niet naar Marketo voor stappen en afbeeldingen.</td> 
   </tr> 
   <tr> 
    <td>4.0.0.12</td> 
@@ -137,4 +135,4 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
 
 >[!MORELIKETHIS]
 >
->[Download de Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

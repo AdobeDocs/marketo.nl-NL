@@ -4,18 +4,18 @@ description: Filteren in e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Filteren in e-mailinzichten
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Filteren in e-mailinzichten {#filtering-in-email-insights}
+# Filteren in [!UICONTROL Email Insights] {#filtering-in-email-insights}
 
-In E-mailinzichten zijn er verschillende manieren om uw gegevens te filteren.
+In [!UICONTROL Email Insights] zijn er verschillende manieren om uw gegevens te filteren.
 
-## E-mailinzichten {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 Klik op + om filters toe te voegen. Voeg zoveel toe als u wilt.
 
@@ -41,7 +41,7 @@ Het diagram verandert nadat elk filter is toegepast.
 
 ![](assets/filtered-chart.png)
 
-Als u een categorie wilt verwijderen, klikt u op de X van de categorie.
+Als u een categorie wilt verwijderen, klikt u op de desbetreffende X.
 
 ![](assets/filter1.png)
 
@@ -59,10 +59,10 @@ Kies uit gangbare, vooraf ingestelde datumbereiken, selecteer specifieke datums 
 
 >[!NOTE]
 >
->Datumbereiken zijn van toepassing op zowel de pagina Analytics als de pagina Verzendt. De **Vergelijken** Deze optie is echter alleen van toepassing op de pagina Analytics.
+>Datumbereiken gelden voor zowel de pagina [!UICONTROL Analytics] als de pagina [!UICONTROL Sends] . De **vergelijkings** optie is slechts van toepassing op de [!UICONTROL Analytics] pagina, nochtans.
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-Als u [Doelaccountbeheer](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)Er zijn filters voor u.
+Als u [[!UICONTROL Target Account Management] ](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) gebruikt, zijn er filters specifiek voor u.
 
 ![](assets/abm.png)

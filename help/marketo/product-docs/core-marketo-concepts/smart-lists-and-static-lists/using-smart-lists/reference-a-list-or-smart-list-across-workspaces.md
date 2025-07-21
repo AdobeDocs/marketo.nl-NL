@@ -4,9 +4,9 @@ description: Verwijzing naar een lijst of slimme lijst in werkruimten - Marketo 
 title: Verwijzen naar een lijst of slimme lijst in werkruimten
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Lijsten en slimme lijsten kunnen worden gedeeld en van verwijzingen voorzien ove
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Klik met de rechtermuisknop op een campagnemap. Selecteer **Nieuwe Omslag**.
+1. Klik met de rechtermuisknop op een campagnemap. Selecteer **[!UICONTROL New Folder]** .
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 

@@ -4,9 +4,9 @@ description: Tekst en tokens toevoegen aan een bestemmingspagina - Marketo Docs 
 title: Tekst en tokens toevoegen aan een bestemmingspagina
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Rijke tekst toevoegen aan uw bestemmingspagina {#add-rich-text-to-your-landing-page}
 
-1. Selecteer de openingspagina en klik op **Concept bewerken**.
+1. Selecteer de openingspagina en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >De landende paginaontwerper opent in een nieuw venster.
 
-1. Sleep over de **RTF** element.
+1. Sleep over het element **[!UICONTROL Rich Text]** .
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Voer de gewenste tekst in en klik op **Opslaan**.
+1. Voer de gewenste tekst in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +45,7 @@ Tokens zijn dynamische tekstfragmenten die uw openingspagina kunnen aanpassen.
 >
 >Dingen zoals Voornaam komen uit het persoonsdossier. Andere tokens komen van het Mijn lusje van Tokens in het programma.
 
-1. Selecteer de openingspagina en klik op **Concept bewerken**.
+1. Selecteer de openingspagina en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ Tokens zijn dynamische tekstfragmenten die uw openingspagina kunnen aanpassen.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Voer een **Standaardwaarde** en klik op **Invoegen**.
+1. Voer een **[!UICONTROL Default Value]** in en klik op **[!UICONTROL Insert]** .
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

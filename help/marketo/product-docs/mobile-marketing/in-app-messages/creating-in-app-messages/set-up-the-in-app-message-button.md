@@ -4,26 +4,26 @@ description: De knop Bericht in de app instellen - Marketo Docs - Productdocumen
 title: De knop Bericht in de app instellen
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # De knop Bericht in de app instellen {#set-up-the-in-app-message-button}
 
-U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste knopafbeelding uploaden.
+U kunt het standaardknopontwerp gebruiken, wijzigen of uploaden.
 
-1. Klik op de knop om het tabblad Stijl te openen voor bewerking.
+1. Klik op de knop om het tabblad [!UICONTROL Style] te openen voor bewerking.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Als u de kleur voor de standaardknop wilt wijzigen, klikt u op de knop **Kleur** knop.
+1. Als u de kleur voor de standaardknop wilt wijzigen, klikt u op de knop **[!UICONTROL Color]** .
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. Klik op het vierkantje voor kleurselectie en selecteer de knopkleur door erop te klikken of typ de hexadecimale waarde of de RGB-waarde in de kleurkiezer.
+1. Klik op het vierkantje voor kleurselectie en selecteer de knopkleur door erop te klikken of voer de Hex- of RGB-nummers in op de kleurkiezer.
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
@@ -31,11 +31,11 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Als u uw eigen afbeelding voor een knop wilt gebruiken, klikt u op de knop Afbeelding en klikt u op **Afbeelding selecteren**.
+1. Als u uw eigen afbeelding voor een knop wilt gebruiken, klikt u op de knop **[!UICONTROL Image]** en klikt u op **[!UICONTROL Select Image]** .
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Kies de afbeelding en klik op **Selecteren**.
+1. Kies de afbeelding en klik op **[!UICONTROL Select]** .
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -43,7 +43,7 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
    >
    >Wanneer u een aangepaste afbeelding voor de knop plaatst, kunt u overwegen de plaatsaanduidingstekst erboven te wissen als de afbeelding al tekst bevat.
 
-1. Klik op het vierkantje voor kleurselectie en selecteer de fontkleur door erop te klikken of door Hex- of RGB-nummers in te voeren in de kleurkiezer.
+1. Klik op het vierkantje voor kleurselectie en selecteer de lettertypekleur door erop te klikken of door Hex- of RGB-nummers in te voeren in de kleurkiezer.
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -51,7 +51,7 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Kies een lettertypestijl voor de nadruk: **Vet**, _Cursief_ of Onderstrepen.
+1. Kies doopvontstijl voor nadruk: **Vet**, _Cursief_, of onderstreept.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -69,11 +69,11 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    >[!NOTE]
    >
-   >De knop heeft altijd een tikactie, zodat het selectievakje Actie tikken automatisch is ingeschakeld, met het standaardbericht &quot;Bericht negeren&quot;.
+   >De knoop heeft altijd een tikactie, zodat wordt checkbox van de Actie van de Tik automatisch geselecteerd, met het standaardbericht &quot;[!UICONTROL Dismiss Message]&quot;.
 
-Bijna. Uw laatste stap is: [de achtergrond van uw bericht in de app configureren en de knop Afwijzen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Bijna. Uw laatste stap moet [ uw in-app berichtachtergrond vormen en knoop ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) sluiten.
 
 >[!MORELIKETHIS]
 >
->* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [ Kies een lay-out voor uw [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

@@ -1,16 +1,16 @@
 ---
-description: Taak maken in Veeva - Marketo Docs - Productdocumentatie
-title: Taak maken in Veeva
+description: Taak maken in  [!DNL Veeva]  - Marketo Docs - Productdocumentatie
+title: Taak maken in  [!DNL Veeva]
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# Taak maken in Veeva {#create-task-in-veeva}
+# Taak maken in [!DNL Veeva] {#create-task-in-veeva}
 
 Als markator, hebt u informatie die verkoop in het sluiten van overeenkomsten kan helpen. U kunt taken maken om ze te laten weten wat ze moeten doen en wanneer ze het moeten doen.
 
@@ -18,7 +18,7 @@ Als markator, hebt u informatie die verkoop in het sluiten van overeenkomsten ka
 
 >[!NOTE]
 >
->Wanneer de Marketo Sync-gebruiker taken maakt, **Eind** is een vereist veld voor de in Veeva op te richten taak. Marketo voert standaard vijf dagen in als er geen waarde is.
+>Wanneer de Marketo Sync-gebruiker taken maakt, is **[!UICONTROL Due In]** een vereist veld voor de taak die moet worden gemaakt in [!DNL Veeva] . Marketo voert standaard vijf dagen in als er geen waarde is.
 
 Standaard ziet de flowstap er als volgt uit:
 
@@ -30,4 +30,4 @@ Pas alle velden aan om de taak op de gewenste manier te maken.
 
 >[!TIP]
 >
->U kunt `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` en `{{system.tokens}}` in het onderwerp en de beschrijving. Zie [Tokens voor stroomstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} voor meer informatie .
+>U kunt `{{lead.tokens}}` , `{{company.tokens}}` , `{{campaign.tokens}}` en `{{system.tokens}}` in de [!UICONTROL Subject] en [!UICONTROL Description] gebruiken. Zie [ Tokens voor de Stappen van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} voor meer details.

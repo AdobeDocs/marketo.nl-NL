@@ -4,18 +4,18 @@ description: Een veld verwijderen in een Indelingsverkenner-rapport - Marketo Do
 title: Een veld verwijderen in een Indelingsverkenner-rapport
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Een veld verwijderen in een Indelingsverkenner-rapport {#deleting-a-field-in-a-revenue-explorer-report}
+# Een veld verwijderen in een [!UICONTROL Revenue Explorer] -rapport {#deleting-a-field-in-a-revenue-explorer-report}
 
 Soms sleept u een verkeerd veld naar het rapport. Hieronder wordt beschreven hoe u dit kunt verwijderen:
 
-1. Sleep het veld dat u wilt verwijderen naar de **vuilnis** pictogram in de rechterbenedenhoek van het rapport.
+1. Sleep het gebied u aan het **afval** pictogram bij het bodemrecht van het rapport wilt verwijderen.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ Soms sleept u een verkeerd veld naar het rapport. Hieronder wordt beschreven hoe
 
 >[!MORELIKETHIS]
 >
->[Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[ het Opslaan van a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

@@ -4,9 +4,9 @@ description: Champion/Challenger - Onderwerpregel - Marketo Docs - Productdocume
 title: Champion/Challenger — Onderwerpregel
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
 >[!PREREQUISITES]
 >
->[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
-1. Selecteer in de testeditor voor e-mail de optie **Onderwerpregel** in de **Testtype** vervolgkeuzelijst.
+1. Selecteer **[!UICONTROL Subject Line]** in de vervolgkeuzelijst **[!UICONTROL Test Type]** in de testeditor voor e-mail.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >In een onderwerptest wordt de eerste onderwerpregel die wordt ingevoerd, aangewezen als de **Champion**. De volgende onderwerpregel wordt genoemd **Challengers**.
+   >In een onderwerptest wordt de eerste ingevoerde onderwerpregel aangeduid als de **[!UICONTROL Champion]** . Volgende onderwerpregel wordt **[!UICONTROL Challengers]** genoemd.
 
-1. Voer onderwerpregel(s) in voor de **Challengers**.
+1. Voer een of meer onderwerpregel(s) in voor de **[!UICONTROL Challengers]** .
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
    Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten.
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
@@ -55,4 +55,4 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Champion-criteria definiëren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

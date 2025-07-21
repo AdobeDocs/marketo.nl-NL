@@ -4,30 +4,30 @@ description: Een bestaand Benoemd account toevoegen aan een accountlijst - Marke
 title: Een bestaand benoemd account toevoegen aan een accountlijst
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Een bestaand benoemd account toevoegen aan een accountlijst {#add-an-existing-named-account-to-an-account-list}
+# Een bestaand [!UICONTROL Named Account] toevoegen aan een accountlijst {#add-an-existing-named-account-to-an-account-list}
 
 Het toevoegen van een benoemde account aan een accountlijst is eenvoudig.
 
 >[!NOTE]
 >
->Dit geldt alleen voor accountlijsten. **niet** Dynamische accountlijsten.
+>Dit is slechts op de Lijsten van de Rekening van toepassing, **** geen Dynamische Lijsten van de Rekening.
 
 1. Selecteer de rij van de benoemde account waaraan u wilt toevoegen.
 
    ![](assets/four-1.png)
 
-1. Klik op de knop **Handelingen benoemde account** vervolgkeuzelijst en selecteer **Toevoegen aan accountlijst**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Named Account Actions]** en selecteer **[!UICONTROL Add to Account List]** .
 
    ![](assets/five-1.png)
 
-1. Klik op de knop **Accountlijst** vervolgkeuzelijst, selecteert u de gewenste accountlijst en klikt u op **Toevoegen**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Account List]** , selecteer de gewenste accountlijst en klik op **[!UICONTROL Add]** .
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ Het toevoegen van een benoemde account aan een accountlijst is eenvoudig.
 
 >[!MORELIKETHIS]
 >
->[Een benoemd account maken](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[ Maak een [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

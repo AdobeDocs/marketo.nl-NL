@@ -1,33 +1,33 @@
 ---
 unique-page-id: 4719398
 description: Een nieuwe webcampagne voor dialoog maken - Marketo Docs - Productdocumentatie
-title: Nieuwe webcampagne voor dialoog maken
+title: Een nieuwe webcampagne voor dialoog maken
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
-# Nieuwe webcampagne voor dialoog maken {#create-a-new-dialog-web-campaign}
+# Een nieuwe webcampagne voor dialoog maken {#create-a-new-dialog-web-campaign}
 
-## Een dialoogvenstercampagne maken {#create-a-dialog-web-campaign}
+## Een dialoogvenster voor een webcampagne maken {#create-a-dialog-web-campaign}
 
 Maak een webcampagne om uw webinhoud in real-time aan te passen en de juiste boodschap af te geven aan de juiste gebruiker op het juiste moment.
 
-Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment. De reactie kan een dialoogvenster op uw website zijn, en [vervanging in zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), [widget, functie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) of een e-mailwaarschuwing.
+Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment. De reactie kan een dialoogdoos op uw website, en [ in streekvervanging ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), a [ widgeteigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) of een e-mailalarm zijn.
 
-1. Ga naar **Webcampagnes**.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Selecteren **Nieuwe webcampagne maken**.
+1. Selecteer **[!UICONTROL Create New Web Campaign]** .
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Selecteer **Dialoog** type webcampagne. Ontwerp en voeg creatieve elementen toe in de editor. Klikken **Voorvertoning** om te zien hoe de webcampagne op uw site reageert.
+1. Selecteer het **[!UICONTROL Dialog]** type webcampagne. Ontwerp en voeg creatieve elementen toe in de editor. Klik op **[!UICONTROL Preview]** om te zien hoe de webcampagne op uw site reageert.
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Weergeven ingeschakeld</strong></td> 
-   <td colspan="1">Hiermee kunt u <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">aanpassen wanneer en hoe</a> webcampagneweergaven.</td> 
+   <td colspan="1">Staat u toe om <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow"> aan te passen wanneer en hoe </a> uw vertoningen van de Webcampagne.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Dialoogvensterstijl</strong></td> 
@@ -111,15 +111,15 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
   </tr> 
   <tr> 
    <td colspan="1"><strong>RTF-editor</strong></td> 
-   <td colspan="1"><p>Met de RTF-editor kunt u tekst opmaken, koppelen en afbeeldingen invoegen. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Meer hier lezen</a>.</p></td> 
+   <td colspan="1"><p>Met de RTF-editor kunt u tekst opmaken, koppelen en afbeeldingen invoegen. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md"> hier gelezen meer </a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Voorvertonen op site</strong></td> 
    <td colspan="1">Voorvertoning van campagnes weergeven voordat deze worden gestart.<br> 
     <ul> 
      <li>URL - Voer een voorbeeld-URL in waar de campagne wordt uitgevoerd om een voorbeeld te zien van hoe de campagne er live uitziet.</li> 
-     <li>Apparaat - Voorproef hoe uw campagne door apparaat zal verschijnen: Desktop, mobiel portret, mobiel landschap, tablet-Staand, staand liggend.<br></li> 
-     <li>Voorbeeld - klikken <strong>Voorvertoning </strong>om een nieuw venster van voorbeeldURL te openen om te zien hoe de campagne reageert. </li> 
+     <li>Apparaat - Voorproef hoe uw campagne door apparaat zal verschijnen: Desktop, Mobiel Staand, Mobiel Liggend, het Staand van de Tablet, Staand Staand.<br></li> 
+     <li>Voorproef - klik <strong> Voorproef </strong> om een nieuw venster van voorbeeld URL te openen om te zien hoe de campagne reageert. </li> 
      <li>Delen - Gebruik de knop Delen om een e-mail te sturen naar een collega met een koppeling om de proxycampagne te bekijken.</li> 
     </ul></td> 
   </tr> 
@@ -128,31 +128,31 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
 
 >[!TIP]
 >
->Versnel en vereenvoudig het maken van uw campagne met onze [ingebouwde sjablonen](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) of door [opslaan van uw bestaande campagne](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als een sjabloon voor hergebruik.
+>Versnel en vereenvoudig uw proces van de campagneverwezenlijking door onze [ ingebouwde malplaatjes ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) te gebruiken of door [ uw bestaande campagne ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als malplaatje voor hergebruik op te slaan.
 
 ## Een webcampagne bewerken {#edit-a-web-campaign}
 
-1. Van de **Webcampagnes** pagina, klikt u op **Bewerken** op het web.
+1. Klik op de pagina **[!UICONTROL Web Campaigns]** op **[!UICONTROL Edit]** in de webcampagne.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filterfunctie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Een webcampagne voorvertonen {#preview-a-web-campaign}
 
-1. Van de **Webcampagnes** pagina, klikt u op **Voorvertoning** op de webcampagne die u wilt bekijken.
+1. Klik op de pagina **[!UICONTROL Web Campaigns]** op **[!UICONTROL Preview]** in de webcampagne die u wilt weergeven.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
 ## Een webcampagne klonen {#clone-a-web-campaign}
 
-Zie [Een webcampagne klonen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Zie [ Klonen een Campagne van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Een webcampagne verwijderen {#delete-a-web-campaign}
 
-1. Van de **Webcampagnes** pagina, klikt u op **Verwijderen** op de webcampagne die u wilt verwijderen.
+1. Klik op de pagina **[!UICONTROL Web Campaigns]** op **[!UICONTROL Delete]** in de webcampagne die u wilt verwijderen.
 
    ![](assets/web-campaigns-1-delete-hand.png)
 
@@ -160,5 +160,5 @@ Zie [Een webcampagne klonen](/help/marketo/product-docs/web-personalization/work
 
 >[!MORELIKETHIS]
 >
->* [Een RTP maken in een zonecampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Een RTP-widgetcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

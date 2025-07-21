@@ -1,61 +1,61 @@
 ---
 unique-page-id: 27656223
-description: Aanpassing van Salesforce voor klanten van de Professional Edition installeren - Marketo Docs - Productdocumentatie
-title: Aanpassing van Salesforce voor klanten van de Professional Edition installeren
+description: Installeer  [!DNL Salesforce]  Aanpassing voor de Klanten van de Professionele Uitgave - de Documentatie van Marketo - de Documentatie van het Product
+title: Installeer  [!DNL Salesforce]  Aanpassing voor de Professionele Klanten van de Uitgave
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# Aanpassing van Salesforce voor klanten van de Professional Edition installeren {#install-salesforce-customization-for-professional-edition-customers}
+# [!DNL Salesforce] Aanpassing voor klanten van de Professional Edition installeren {#install-salesforce-customization-for-professional-edition-customers}
 
-Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpassingen te installeren.
+Klanten met [!DNL Salesforce] Professional Edition moeten deze stappen volgen om aanpassingen te installeren.
 
 >[!PREREQUISITES]
 >
->* Sales Connect Admin moet hun Salesforce- en Sales Connect-accounts verbinden.
->* Er moet ruimte zijn voor de installatie van Salesforce Instance om dertien aangepaste activiteitsvelden te kunnen installeren.
+>* [!DNL Sales Connect] Admin moet verbinding maken met zijn [!DNL Salesforce] - en [!DNL Sales Connect] -accounts.
+>* [!DNL Salesforce] Instantie die wordt gebruikt, moet ruimte hebben om dertien aangepaste activiteitsvelden te installeren.
 
 ## Installatie {#installation}
 
-1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
+1. Klik in [!DNL Sales Connect] op het tandwielpictogram rechtsboven en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one-4.png)
 
-1. Klik onder Beheerinstellingen op **Salesforce**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL Salesforce]** .
 
    ![](assets/two-4.png)
 
-1. Controleer of u verbinding hebt met uw Salesforce-account.
+1. Controleer of u verbinding hebt met uw [!DNL Salesforce] -account.
 
    >[!CAUTION]
    >
-   >Als u verbonden bent, zult u een groene &quot;installeren&quot;knoop zien. **NIET** Klik op deze knop en ga verder met stap 4.
+   >Als u wordt verbonden, zult u een groene &quot;[!UICONTROL Install]&quot;knoop zien. **NIET** klik deze knoop, te werk gaat aan stap 4.
 
-1. Meld u aan bij de Salesforce-account waarmee u verbinding hebt en klik op [deze koppeling](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
-1. U wordt naar de pagina voor installatie van Sales Connect verzonden.
+1. Login aan de [!DNL Salesforce] rekening u met wordt verbonden en dan [ klikt deze verbinding ](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. U wordt naar de installatiepagina van [!DNL Sales Connect] verzonden.
 
    ![](assets/install-package.png)
 
-1. Kies de gebruikers u aanpassingen voor wilt installeren: Alleen beheerder, alle gebruikers of specifieke profielen.
-1. Klik op de knop **Installeren** om aanpassing te installeren.
-1. Meld u aan bij uw Salesforce-account om te bevestigen dat de installatie is gelukt.
-1. Klikken **Instellen**, zoek naar &quot;Geïnstalleerde pakketten&quot; in de zoekbalk en klik op **Geïnstalleerde pakketten**.
+1. Kies de gebruikers waarvoor u aanpassingen wilt installeren: alleen Admin, alle gebruikers of specifieke profielen.
+1. Klik op de knop **[!UICONTROL Install]** om de aanpassing te installeren.
+1. Meld u aan bij uw [!DNL Salesforce] -account om te bevestigen dat de installatie is gelukt.
+1. Klik op **[!UICONTROL Setup]** , zoek naar &quot;Geïnstalleerde pakketten&quot; in de zoekbalk en klik op **[!UICONTROL Installed Packages]** .
 
    Hier vindt u Marketo Sales Connect-aanpassingen.
 
-   Om Sales Connect in uw Salesforce-exemplaar te configureren, volgt u de stappen die beginnen in de sectie &quot;CONFIGURING THE SALES ENGAGE SALESFORCE PACKAGE&quot; op pagina 7 van de installatiegids.
+   Als u [!DNL Sales Connect] in uw [!DNL Salesforce] -exemplaar wilt configureren, volgt u de stappen die beginnen bij &quot;CONFIGURING THE SALES ENGAGE SALESFORCE PACKAGE&quot; op pagina 7 van de Installatiegids.
 
    >[!NOTE]
    >
-   >Sales Engage is de vorige naam voor Sales Connect.
+   >[!DNL Sales Engage] is de vorige naam voor [!DNL Sales Connect] .
 
-## Hulplijnen {#guides}
+## Gidsen {#guides}
 
-[Installatiehandleiding voor Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[ Gids van de Installatie voor Klassieke Salesforce ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Installatiehandleiding voor Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[ Gids van de Installatie voor de Bliksem van Salesforce ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

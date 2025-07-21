@@ -4,16 +4,16 @@ description: Overzicht MSI-functies - Marketo Docs - Productdocumentatie
 title: Overzicht van MSI-functies
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: bda95da160c5a27a0a460d26c102e6166c1ddea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
 
 # Overzicht van MSI-functies {#msi-feature-overview}
 
-MSI heeft de volgende eigenschappen beschikbaar in Salesforce Lightning en Classic.
+MSI heeft de volgende functies beschikbaar in [!DNL Salesforce] Lightning en Classic.
 
 >[!NOTE]
 >
@@ -43,17 +43,17 @@ Het deelvenster MSI Visualforce bevat de volgende functies:
 
 Pagina&#39;s visualiseren:
 
-* Lood - Met de optie voor klikken op de hyperlink Ga naar volledige lijst wordt u naar een nieuw tabblad in Salesforce gestuurd, waar het deelvenster MSI wordt weergegeven in een volledige paginalay-out
+* Lood - Met de optie om op de hyperlink &quot;Ga naar volledige lijst&quot; te klikken, wordt u naar een nieuw tabblad in Salesforce gestuurd waar het deelvenster MSI zichtbaar is in een volledige paginalay-out
 * Volledige lijst met leads - De optie Ga naar volledige lijst wordt niet opgenomen
-* Mobiele lead - zichtbaar in de mobiele toepassing van Salesforce
-* Contact opnemen met lead - geeft het deelvenster MSI weer van de contactpersoon die u hebt toegevoegd in het veld MSI-contact-id
+* Mobiele lead - zichtbaar in mobiele Salesforce-toepassing
+* Contactpersoon voor lead Bridge - Hiermee geeft u het deelvenster MSI weer van de contactpersoon die u hebt toegevoegd in het veld MSI-contact-id
 
 Velden:
 
 * Laatste interessant moment
 * Datum laatste interessant moment
 * Laatste interessante momentele beschrijving
-* Laatste interessante mompbron
+* Laatste interessant moment Source
 * Type laatst interessant moment
 * Laatste Marketo-activiteit door verkoop
 * Laatste Marketo-betrokkenheid bij verkoop
@@ -61,16 +61,16 @@ Velden:
 * Relatieve score
 * Urgentie
 * Urgentiewaarde
-* Weergeven in Marketo - Klik op dit veld om een niet-bewerkbare weergave van de lead in Marketo te openen. Omvat: informatie over leads, bedrijfsinfo, SFDC-leidende informatie, aangepaste SFDC-velden, activiteitenlog
-* MSI-contact-id - Voeg een Salesforce-contactpersoon toe aan dit veld en neem het deelvenster &quot;Lood Contact Bridge&quot; op in de hoofdlay-out om het MSI-deelvenster van de contactpersoon weer te geven
+* Weergeven in Marketo - Klik op dit veld om een niet-bewerkbare weergave van de lead in Marketo te openen. Bevat: gegevens over leads, bedrijfsinfo, informatie over SFDC-leads, aangepaste SFDC-velden, activiteitenlogboek
+* MSI-contact-id - Voeg een Salesforce-contactpersoon toe aan dit veld en neem het deelvenster &quot;Lead Contact Bridge&quot; op in de hoofdlayout om het MSI-venster van de contactpersoon te zien
 
 ## Contactlay-out {#contact-layout}
 
 Pagina&#39;s visualiseren:
 
-* Contact - Bevat optie om op hyper &quot;Ga naar Volledige Lijst te klikken,&quot;u zal naar een nieuw lusje in Salesforce worden verzonden waar het paneel MSI in een volledige paginalay-out zichtbaar zal zijn
+* Contact - Bevat optie om op hyperlink &quot;Ga naar volledige lijst,&quot;te klikken zal u naar een nieuw lusje in Salesforce worden verzonden waar het paneel MSI in een volledige paginalay-out zichtbaar zal zijn
 * Volledige lijst contact - De optie Ga naar volledige lijst wordt niet opgenomen
-* Contact opnemen met mobiel - zichtbaar in de mobiele toepassing van Salesforce
+* Contact opnemen met mobiel - zichtbaar in mobiele Salesforce-toepassing
 * Toevoegen aan Marketo Campagne Contact Page - De functie Toevoegen aan Marketo Campagne is beschikbaar in dit deelvenster
 
 Velden:
@@ -78,28 +78,28 @@ Velden:
 * Laatste interessant moment
 * Datum laatste interessant moment
 * Laatste interessante momentele beschrijving
-* Laatste interessante mompbron
+* Laatste interessant moment Source
 * Type laatst interessant moment
 * Laatste Marketo-activiteit door verkoop
 * Relatieve score
 * Relatieve score
 * Urgentie
 * Urgentiewaarde
-* Weergeven in Marketo - Klik op dit veld om een niet-bewerkbare weergave van de lead in Marketo te openen. Omvat: informatie over leads, bedrijfsinfo, SFDC-leidende informatie, aangepaste SFDC-velden, activiteitenlog
+* Weergeven in Marketo - Klik op dit veld om een niet-bewerkbare weergave van de lead in Marketo te openen. Bevat: gegevens over leads, bedrijfsinfo, informatie over SFDC-leads, aangepaste SFDC-velden, activiteitenlogboek
 * Mkto-leadscore
-* Verkoopinzicht - Opent contact met volledige lijstpagina
+* [!DNL Sales Insight] - Opent contact met de volledige lijstpagina
 
 ## Accountlay-out {#account-layout}
 
 Pagina&#39;s visualiseren:
 
-* Account - Deze optie bevat de optie om op het afbreekstreepje &quot;Ga naar volledige lijst&quot; te klikken. U wordt naar een nieuw tabblad in Salesforce gestuurd, waar het deelvenster MSI zichtbaar is in een volledige paginalay-out
+* Account - Hiermee klikt u op het koppelteken &quot;Ga naar volledige lijst&quot;. U gaat naar een nieuw tabblad in Salesforce waar het deelvenster MSI wordt weergegeven in een volledige paginalay-out
 * Volledige lijst account - bevat niet de optie Ga naar volledige lijst
-* Account mobiel - zichtbaar in mobiele toepassing van Salesforce
+* Account mobiel - zichtbaar in mobiele Salesforce-toepassing
 
 Velden:
 
-* Verkoopinzicht - Opent contact met volledige lijstpagina
+* [!DNL Sales Insight] - Opent contact met de volledige lijstpagina
 
 Handelingen:
 
@@ -107,7 +107,7 @@ Handelingen:
 * Marketo-e-mail verzenden
 * Toevoegen/verwijderen uit lijst van te controleren items
 
-De volgende functies zijn **niet beschikbaar** op de pagina Account Layout:
+De volgende eigenschappen zijn **niet beschikbaar** in de pagina van de Lay-out van de Rekening:
 
 * Sterren en lamellen
 
@@ -115,13 +115,13 @@ De volgende functies zijn **niet beschikbaar** op de pagina Account Layout:
 
 Pagina&#39;s visualiseren:
 
-* Opportunity - Deze optie bevat de optie om op het afbreekstreepje &quot;Ga naar volledige lijst&quot; te klikken. U wordt naar een nieuw tabblad in Salesforce gestuurd, waar het MSI-deelvenster zichtbaar is in een volledige paginalay-out
+* Opportunity - Deze optie bevat de optie om op het afbreekstreepje &quot;Ga naar volledige lijst&quot; te klikken. U wordt naar een nieuw tabblad in Salesforce gestuurd waar het deelvenster MSI zichtbaar is in een volledige paginalay-out
 * Volledige lijst opportunity - Bevat niet de optie &quot;Ga naar volledige lijst&quot;
-* Opportunity mobiel - zichtbaar in mobiele toepassing van Salesforce
+* Opportunity Mobile - zichtbaar in mobiele Salesforce-toepassing
 
 Velden:
 
-* Verkoopinzicht - Opent contact met volledige lijstpagina
+* [!DNL Sales Insight] - Opent contact met de volledige lijstpagina
 * Marketo Opportunity Analysis - Opent Opportunity Influence Analyzer in Marketo
 
 Handelingen:
@@ -130,19 +130,19 @@ Handelingen:
 * Marketo-e-mail verzenden
 * Toevoegen/verwijderen uit lijst van te controleren items
 
-De volgende functies zijn **niet beschikbaar** op de pagina Opportunity Layout:
+De volgende eigenschappen zijn **niet beschikbaar** in de pagina van de Lay-out van de Mogelijkheid:
 
 * Sterren en lamellen
 
 ## De mening van de Lood en van de Lijst van het Contact (Bulk Acties) {#lead-and-contact-list-view-bulk-actions}
 
-Salesforce Lightning: Add to Watchlist, Add to Marketo Campaign and Send Marketo Email bulk action buttons in Lead and Contact list view.
+[!DNL Salesforce Lightning]: Voeg toe aan Controlelijst, voeg aan de Campagne van Marketo toe en verzend Marketo E-mail bulkactieknoppen in Lood en de lijstmening van het Contact.
 
-Salesforce Classic: Toevoegen aan lijst van gecontroleerde partijen, Toevoegen aan Marketo-campagne en Handelingsknoppen voor bulkacties voor Marketo-e-mail verzenden in de lijstweergave Lead en Contact.
+[!DNL Salesforce Classic]: Voeg toe aan Controlelijst, voeg aan de Campagne van Marketo toe, en verzend Marketo E-mail - de handelingsknopen van de Actie in Lood en de lijstmening van het Contact.
 
 ## Marketo Tab {#marketo-tab}
 
-* Beste bieten
+* [!DNL Best Bets]
 
    * Deze groep bevat de mogelijkheid weergaven te maken en te bewerken. Mogelijkheid om de beste basisinstellingen te verbergen afhankelijk van de configuratie van de optie Standaard verbergen op de Marketo-configuratiepagina
    * Kolommen - Naam, Account, Laatste interessant moment, Statuskoptekst, Betrokkenheid (sterren en vlammen), Verbergen
@@ -160,7 +160,7 @@ Salesforce Classic: Toevoegen aan lijst van gecontroleerde partijen, Toevoegen a
 * Anonieme webactiviteit
 
    * Bevat de mogelijkheid weergaven te maken en te bewerken, functionaliteit voor tijdframesnelheid
-   * Kolommen - Paginaweergave, Bedrijf, Laatste bezoek, Onderzoek (opent LinkedIn-pagina van het bedrijf)
+   * Kolommen - de Mening van de pagina, Bedrijf, Laatste Bezoek, Onderzoek (opent LinkedIn pagina van het bedrijf)
 
 * Mijn e-mail
 
@@ -176,30 +176,30 @@ Salesforce Classic: Toevoegen aan lijst van gecontroleerde partijen, Toevoegen a
    * Optie Abonneren om e-mailmelding voor dit type gebeurtenis te ontvangen
    * Pictogram met hoge prioriteit waarmee deze persoon wordt getoond is een Best Bet
 
-## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
+## [!DNL Marketo Sales Insight] Tabblad Configuratie {#marketo-sales-insight-configuration-tab}
 
-* Operationele instellingen: bevat Soap- en Rest API-referenties die nodig zijn om MSI in SFDC in te stellen
+* Operationele instellingen: bevat de aanmeldgegevens voor de Soap- en Rest API die nodig zijn voor het instellen van MSI in SFDC
 * MSI-configuratie: omvat de configuratie van het Marketo-tabblad en het MSI-deelvenster voor visuele beveiliging
-* Marketo Sales Insight opnieuw instellen: hiermee kunt u alle configuraties wissen
+* Herstellen [!DNL Marketo Sales Insight]: biedt de mogelijkheid om alle configuraties af te vegen
 
 >[!MORELIKETHIS]
 >
->[Het tabblad Marketo Sales Insight Configuration van Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+>[[!DNL Marketo Sales Insight]  lusje van de Configuratie in  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
-## Rapporten over prestaties van verkoopinzicht {#sales-insight-performance-reports}
+## [!DNL Sales Insight] Prestatierapporten {#sales-insight-performance-reports}
 
-Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynamics of een Gmail- of Outlook-plug-in worden verzonden
+De prestaties weergeven van e-mailberichten die via [!DNL Salesforce] , [!DNL Microsoft Dynamics] of een Gmail- of [!DNL Outlook] plug-in worden verzonden
 
 ## MSI voor mobiele apparaten {#msi-for-mobile}
 
-MSI-functies worden ondersteund in de mobiele toepassing van Salesforce
+MSI-functies worden ondersteund in [!DNL Salesforce] mobiele toepassing
 
 ## Taalondersteuning {#language-support}
 
-Marketo Sales Insight wordt opgeslagen per taal. Dus als u wilt dat het voor meer dan één taal werkt, moet u de referenties voor elke taal afzonderlijk invoeren.
+[!DNL Marketo Sales Insight] wordt opgeslagen op taal. Dus als u wilt dat het voor meer dan één taal werkt, moet u de referenties voor elke taal afzonderlijk invoeren.
 
 >[!NOTE]
 >
 >* Een contact/lood moet in de Standaardverdeling zijn om aan de Controlelijst te worden toegevoegd.
 >
->* Het pakket MSI Salesforce ondersteunt geen aangepaste weergave met afhankelijke velden.
+>* Het pakket MSI [!DNL Salesforce] ondersteunt geen aangepaste weergave met afhankelijke velden.

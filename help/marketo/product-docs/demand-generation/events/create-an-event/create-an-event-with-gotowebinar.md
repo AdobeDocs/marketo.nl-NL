@@ -1,73 +1,73 @@
 ---
 unique-page-id: 2949874
-description: Een gebeurtenis maken met GotoWebinar - Marketo Docs - Productdocumentatie
-title: Een gebeurtenis maken met GotoWebinar
+description: Een gebeurtenis maken met  [!DNL GotoWebinar]  - Marketo Docs - Productdocumentatie
+title: Een gebeurtenis maken met  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
 
-# Een gebeurtenis maken met GotoWebinar {#create-an-event-with-gotowebinar}
+# Een gebeurtenis maken met [!DNL GotoWebinar] {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]
 >
->* [GoToWebinar toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
->* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)om betrokkenheid bij te houden
+>* [ voeg  [!DNL GoToWebinar]  toe als a  [!DNL LaunchPoint]  dienst ](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
-Maak eerst uw webinar in GoToWebinar. Bepaalde instellingen bij het maken van uw GoToWebinar worden gebruikt door Marketo en sommige worden alleen gebruikt door GoToWebinar.
+Maak eerst uw webinar in [!DNL GoToWebinar] . Bepaalde instellingen bij het maken van uw [!DNL GoToWebinar] worden gebruikt door Marketo en sommige worden alleen gebruikt door [!DNL GoToWebinar] .
 
-Nadat u een Marketo-gebeurtenis hebt gemaakt en de GoToWebinar hieraan hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen.
+Nadat u een Marketo-gebeurtenis hebt gemaakt en de [!DNL GoToWebinar] hieraan hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen.
 
 Hieronder volgt een lijst met de instellingen die door Marketo worden gebruikt.
 
 ## Titel en beschrijving {#title-and-description}
 
-**Webinar Name** - voer de naam voor het webinar in. Deze naam wordt weergegeven in Marketo.
+**[!UICONTROL Title]** - voer de naam voor het webinar in. Deze naam wordt weergegeven in Marketo.
 
-**Beschrijving** (optioneel) - voer de beschrijving van het webinar in. De beschrijving kan in Marketo worden weergegeven.
+**[!UICONTROL Description]** (optioneel) - voer de beschrijving voor het webinar in. De beschrijving kan in Marketo worden weergegeven.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## Datum en tijd {#date-time}
 
-Voer de volgende informatie in voor uw webinar en het wordt via de adapter in Marketo geplaatst. Als u deze gegevens wijzigt, moet u op de koppeling &quot;**Vernieuwen vanaf webinar-provider**&quot; onder **Gebeurtenishandelingen**, zodat Marketo de wijzigingen kan zien.
+Voer de volgende informatie in voor uw webinar en het wordt via de adapter in Marketo geplaatst. Als u wijzigingen aanbrengt in deze gegevens, moet u op de koppeling &quot;**[!UICONTROL Refresh from Webinar Provider]**&quot; onder **[!UICONTROL Event Actions]** klikken om de wijzigingen te kunnen zien.
 
-**Begindatum** - voer uw begindatum in. Dit zal in Marketo kunnen worden bekeken.
+**[!UICONTROL Start Date]** - voer uw begindatum in. Dit zal in Marketo kunnen worden bekeken.
 
-**Begintijd** - voer uw begintijd in. Dit zal in Marketo kunnen worden bekeken.
+**[!UICONTROL Start Time]** - voer uw begintijd in. Dit zal in Marketo kunnen worden bekeken.
 
-**Eindtijd** - voer je eindtijd in. Dit zal in Marketo kunnen worden bekeken.
+**[!UICONTROL End Time]** - voer uw eindtijd in. Dit zal in Marketo kunnen worden bekeken.
 
-**Tijdzone** - selecteer de toepasselijke tijdzone. Het zal in Marketo kunnen worden bekeken.
+**[!UICONTROL Webinar Time Zone]** - selecteer de toepasselijke tijdzone. Het zal in Marketo kunnen worden bekeken.
 
-**Type -** instellen op **Eén sessie**.
+**[!UICONTROL Type]** - ingesteld op **[!UICONTROL One Session]** .
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
 >[!NOTE]
 >
->Marketo biedt momenteel geen ondersteuning voor terugkerende webinars. U moet één sessie instellen tussen elke Marketo Event en GoToWebinar webinar.
+>Marketo ondersteunt momenteel geen terugkerende webinars. U moet één sessie instellen tussen elke Marketo-gebeurtenis en [!DNL GoToWebinar] webinar.
 
 >[!TIP]
 >
->Als u extra GoToWebinar hulp nodig hebt, gelieve hun te bezoeken [Help-site](https://support.logmeininc.com/gotowebinar).
+>Als u extra [!DNL GoToWebinar] hulp nodig hebt, gelieve hun [ Plaats van de Hulp ](https://support.logmeininc.com/gotowebinar) te bezoeken.
 
-Laten we nu naar Marketo gaan!
+Laten we nu naar Marketo springen!
 
-1. Selecteer een gebeurtenis. Klikken **Gebeurtenishandelingen** en kiest u **Gebeurtenisinstellingen**.
+1. Selecteer een gebeurtenis. Klik op **[!UICONTROL Event Actions]** en kies **[!UICONTROL Event Settings]** .
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
    >[!NOTE]
    >
-   >Het kanaaltype van de geselecteerde gebeurtenis moet zijn **webinar**.
+   >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar** zijn.
 
-1. Kies **GoToWebinar** van de **Gebeurtenispartner** Lijst.
+1. Kies **[!UICONTROL GoToWebinar]** in de lijst **[!UICONTROL Event Partner]** .
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -79,11 +79,11 @@ Laten we nu naar Marketo gaan!
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Uitstekend! Nu wordt de gebeurtenis gesynchroniseerd en gepland door **GoToWebinar**.
+1. Uitstekend! De gebeurtenis wordt nu gesynchroniseerd en gepland door **[!DNL GoToWebinar]** .
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -93,9 +93,9 @@ Laten we nu naar Marketo gaan!
 
    >[!TIP]
    >
-   >Gebruik de volgende token in uw e-mail om het bevestigingsbericht te vullen met deze unieke URL: `{{member.webinar url}}`. Wanneer de bevestiging-URL wordt verzonden, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
+   >Gebruik de volgende token in uw e-mail: `{{member.webinar url}}` om het bevestigingsbericht te vullen met deze unieke URL. Wanneer de bevestiging-URL wordt verzonden, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
    >
-   >Stel het bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich inschrijven en eventueel worden afgemeld, nog steeds hun bevestigingsinformatie ontvangen.
+   >Plaats uw bevestigingse-mail aan **Operationeel** om ervoor te zorgen dat de mensen die registreren en kunnen worden afgemeld nog hun bevestigingsinformatie ontvangen.
 
    ![](assets/goto-webinar.png)
 
@@ -105,9 +105,9 @@ Laten we nu naar Marketo gaan!
 
    >[!TIP]
    >
-   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als u na het wachten nog steeds niets ziet, selecteert u **Vernieuwen vanaf webinar-provider** in het menu Gebeurtenishandelingen in het dialoogvenster **Samenvatting** tabblad van uw gebeurtenis.
+   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als u na het wachten op deze tijd nog steeds niets ziet, selecteert u **[!UICONTROL Refresh from Webinar Provider]** in het menu [!UICONTROL Event Actions] op het tabblad **[!UICONTROL Summary]** van de gebeurtenis.
 
-Personen die zich aanmelden voor uw webinar, worden via de stap Program Status wijzigen naar uw webinar geduwd wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u in stap 1 van de statusstroom van het programma Wijzigen en stap 2 in de E-mailflow verzendt.
+Personen die zich aanmelden voor uw webinar, worden via de [!UICONTROL Change Program Status] flowstap naar uw webinar gestuurd wanneer [!UICONTROL New Status] is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u [!UICONTROL Change Program Status] stap #1 en [!UICONTROL Send Email] stap #2 uitvoert.
 
 ## Het overzicht weergeven  {#viewing-the-schedule}
 
@@ -115,6 +115,6 @@ Klik in de programmaweergave van het programma op de kalendervermelding voor de 
 
 >[!NOTE]
 >
->Als u uw gebeurtenissenschema wilt wijzigen, moet u het webinar op GoToWebinar bewerken.
+>Als u het gebeurtenissenschema wilt wijzigen, moet u het webinar bewerken op [!DNL GoToWebinar] .
 
 ![](assets/image2015-5-14-15-3a3-3a13.png)

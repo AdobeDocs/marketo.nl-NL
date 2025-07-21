@@ -4,9 +4,9 @@ description: Afbeelding toevoegen aan een bestemmingspagina met instructies - Ma
 title: Een afbeelding toevoegen aan een bestemmingspagina met instructies
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide landingspagina&#39;s vooraf gedefinieerde, vergrendelde ruimten waar u afbeeldingen toevoegt.
 
-1. Selecteer een geleide landingspagina. Klikken **Concept bewerken**.
+1. Selecteer een geleide landingspagina. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide l
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. Selecteer de gewenste afbeelding en klik op **Invoegen**.
+1. Selecteer de gewenste afbeelding en klik op **[!UICONTROL Insert]** .
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 
@@ -31,7 +31,7 @@ In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide l
 
    >[!NOTE]
    >
-   >De manier waarop de afbeelding wordt vergroot of verkleind, is afhankelijk van de sjabloon. Meer informatie over [Sjablonen voor bestemmingspagina met instructies](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >De manier waarop de afbeeldingsgrootte wordt gewijzigd, is afhankelijk van de sjabloon. Leer meer over [ Geleide Begeleidende Malplaatjes van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

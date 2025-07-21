@@ -4,9 +4,9 @@ description: Webcampagnes weergeven van een specifiek label - Marketo Docs - Pro
 title: Webcampagnes weergeven op basis van een specifiek label
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Uw campagnes bekijken en filteren volgens een specifiek etiket?
 
 ## Filteren op bestaande labels {#filter-by-existing-labels}
 
-1. Ga naar **Webcampagnes**.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ Uw campagnes bekijken en filteren volgens een specifiek etiket?
 
 >[!MORELIKETHIS]
 >
->* [Webcampagnes labelen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Segmenten van een specifiek label weergeven](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Segmenten labelen](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [ Etiketteer Uw [!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [ Segmenten van de Mening van een Specifiek Etiket ](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [ Etiket uw Segmenten ](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

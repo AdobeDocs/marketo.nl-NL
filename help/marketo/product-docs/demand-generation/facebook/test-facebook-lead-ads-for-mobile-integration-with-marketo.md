@@ -1,51 +1,51 @@
 ---
 unique-page-id: 10098759
 description: Test Facebook Lead Ads for Mobile Integration met Marketo - Marketo Docs - Productdocumentatie
-title: Facebook Lead Ads testen voor mobiele integratie met Marketo
+title: Advertenties van Facebook testen voor mobiele integratie met Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# Facebook Lead Ads testen voor mobiele integratie met Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
+# Testen [!DNL Facebook] Advertenties voor mobiele integratie met Marketo {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
 Nadat je je advertentie hebt gemaakt, moet je deze testen.
 
 >[!PREREQUISITES]
 >
->U moet [Facebook Lead Ads Integration instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>U moet [ Opstelling de [!UICONTROL Facebook Lead Ads] Integratie ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. Selecteer in de Facebook Power Editor een campagne, een advertentie en klik op **Bewerken**.
+1. Selecteer in [!UICONTROL Facebook Power Editor] een campagne, een advertentie en klik op **[!UICONTROL Edit]** .
 
-1. Onder **Koppelingen** klikt u op de knop **Weergeven op mobiele app** koppeling.
+1. Klik onder **[!UICONTROL Links]** op de koppeling **[!UICONTROL View on mobile app]** .
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. Er wordt een nieuw bericht verzonden naar de Facebook-account dat u via het geautoriseerde account op het mobiele apparaat kunt openen. Klikken **OK**.
+1. Er wordt een nieuw bericht verzonden naar de [!DNL Facebook] -account dat u op het mobiele apparaat kunt openen met het geautoriseerde account. Klik op **[!UICONTROL OK]**.
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. Tik op uw mobiele apparaat **Meldingen** in de mobiele app van Facebook.
+1. Tik op uw mobiele apparaat op **[!UICONTROL Notifications]** in de mobiele app van [!DNL Facebook] .
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
-1. Tik in Meldingen op **Je advertentie is gereed om een voorbeeld te bekijken**.
+1. Tik in Meldingen op **[!UICONTROL Your ad is ready to preview]** .
 
    ![](assets/image2016-3-11-8-3a41-3a59.png)
 
-1. Verzend uw eenheid van de Advertentie van de testlood door uw Vraag aan Actie te tikken en het formulier in te vullen u creeerde.
+1. Verzend de advertentie-eenheid voor de testlead door op de Call to action te tikken en het gemaakte formulier in te vullen.
 
    ![](assets/image2016-3-11-8-3a52-3a20.png)
 
    >[!NOTE]
    >
-   >Dit is slechts een voorbeeld, dat Leer Meer Vraag aan Actie gebruikt. Je oproep van advertentie-eenheid naar actie kan anders zijn.
+   >Dit is slechts een voorbeeld, dat een Learn More Call to action gebruikt. Je advertentie-eenheid Call to action kan anders zijn.
 
-1. Daar gebeurt de magie! Nadat u het formulier hebt verzonden, [een slimme lijst maken in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als onderdeel van een programma of in de hoofddatabase die de **Facebook Lead Ads-formulier invullen** filter. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
+1. Daar gebeurt de magie! Zodra u uw vorm hebt voorgelegd, [ bouwt een slimme lijst in Marketo ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als deel van een programma of in het loodgegevensbestand dat de **[!UICONTROL Filled Out Facebook Lead Ads Form]** filter gebruikt. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -57,4 +57,4 @@ Is dat cool of zo?
 
 >[!NOTE]
 >
->[Facebook Lead Ads inschakelen/uitschakelen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[ In-/uitschakelen [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -4,9 +4,9 @@ description: Prioriteit geven aan stroominhoud - Marketo Docs - Productdocumenta
 title: Stroominhoud prioriteren
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Nadat u inhoud aan uw stroom hebt toegevoegd, kunt u de prioriteit willen veranderen. De inhoud wordt altijd geleverd van de bovenkant neer in elke gietvorm, en geen inhoud wordt verzonden naar de zelfde persoon tweemaal.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/ma.png)
 
-1. Selecteer uw serviceprogramma en klik op de knop **Streams** tab.
+1. Selecteer uw betrokkenheidsprogramma en klik op de tab **[!UICONTROL Streams]** .
 
    ![](assets/cloneasteam-1.jpg)
 

@@ -1,42 +1,42 @@
 ---
-description: Werken met de Veeva CRM Sync - Marketo Docs - Productdocumentatie
-title: Werken met de Veeva CRM Sync
+description: Begrijpen van de  [!DNL Veeva]  Synchronisatie van CRM - de Documenten van Marketo - de Documentatie van het Product
+title: Begrijpen van de  [!DNL Veeva]  Synchronisatie van CRM
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-# Werken met de Veeva CRM Sync {#understanding-the-veeva-crm-sync}
+# De [!DNL Veeva] CRM Sync begrijpen {#understanding-the-veeva-crm-sync}
 
-In een paar eenvoudige stappen is het eenvoudig om een synchronisatie uit te voeren tussen Adobe Marketo Engage en de Veeva CRM.
+In een paar eenvoudige stappen is het eenvoudig om een synchronisatie uit te voeren tussen Adobe Marketo Engage en de [!DNL Veeva] CRM.
 
 ## Hoe de Synchronisatie werkt {#how-the-sync-works}
 
-Marketo Engage synchroniseert de hele dag met Veeva CRM. Elke synchronisatie neemt enige tijd in beslag, pauzeert 5 minuten en start opnieuw.
+Marketo Engage synchroniseert met [!DNL Veeva] CRM de hele dag, elke dag. Elke synchronisatie neemt enige tijd in beslag, pauzeert 5 minuten en start opnieuw.
 
 >[!NOTE]
 >
->De allereerste synchronisatie kan uren of zelfs dagen in beslag nemen omdat Marketo Engage de gehele database van Veeva kopieert. Daarna neemt elke synchronisatie doorgaans minuten (soms seconden) in beslag en worden alleen gegevens gesynchroniseerd die zijn gewijzigd.
+>De allereerste synchronisatie kan uren of zelfs dagen duren omdat Marketo Engage de volledige database kopieert vanuit [!DNL Veeva] . Daarna neemt elke synchronisatie doorgaans minuten (soms seconden) in beslag en worden alleen gegevens gesynchroniseerd die zijn gewijzigd.
 
 ![](assets/understanding-the-veeva-sync-1.png)
 
-De synchronisatie tussen Veva en Marketo Engage is bidirectioneel alleen voor Contactvelden op het Person-accountobject. In deze gevallen, wanneer u veranderingen in of Veeva of Marketo Engage aanbrengt, zullen uw updates in beide systemen worden weerspiegeld. Alle andere synthesen zijn alleen van Veeva naar Marketo Engage. Klik op de onderstaande koppelingen voor meer informatie.
+De synchronisatie tussen [!DNL Veeva] en Marketo Engage is bidirectioneel alleen voor contactvelden in het account-object Person. In deze gevallen geldt dat wanneer u wijzigingen aanbrengt in [!DNL Veeva] of Marketo Engage, de updates worden weerspiegeld in beide systemen. Alle andere syncs zijn van [!DNL Veeva] aan slechts Marketo Engage. Klik op de onderstaande koppelingen voor meer informatie.
 
-## Wat is de Synthese tussen Marketo Engage en Veeva {#what-is-synced-between-marketo-engage-and-veeva}
+## Wat is gesynchroniseerd tussen Marketo Engage en [!DNL Veeva] {#what-is-synced-between-marketo-engage-and-veeva}
 
-* [Persoonlijke accounts](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
+* [ Rekeningen van de Persoon ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Gebruikers
-* [De Vraag en roept Zeer belangrijke Voorwerpen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
-* [Aangepaste objecten](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
+* [ Vraag en de Zeer belangrijke Voorwerpen van de Vraag ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [ de Voorwerpen van de Douane ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## Informatie over dingen {#things-to-know}
 
-* De [aanmeldingsgegevens die u in Marketo Engage voor Veeva hebt ingevoerd](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+* De [ geloofsbrieven u in Marketo Engage voor  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
-* Veeva CRM is gebaseerd op force.com en het rijke Marketo Engage van de ervaring met het platform wordt geërft in deze synchronisatie.
+* [!DNL Veeva] CRM is gebaseerd op force.com en de rijke ervaring die Marketo Engage met het platform heeft, wordt in deze synchronisatie overgeërfd.
 
-* De Veeva CRM toont: Lead, Contact, Accounts, Business Accounts, Opportunity, Campaign en Activity. Ze worden echter niet ondersteund tijdens het synchroniseren met Marketo Engage.
+* De Veeva CRM toont: Lead, Contact, Accounts, Business Accounts, Opportunity, Campaign en Activity. Ze worden echter niet ondersteund tijdens de synchronisatie met Marketo Engage.

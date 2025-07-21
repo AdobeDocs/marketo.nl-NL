@@ -4,22 +4,22 @@ description: Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics - Mark
 title: Verstuur een Marketo-verkoopbericht vanuit Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Verstuur een Marketo-verkoopbericht vanuit Microsoft Dynamics {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# Een [!DNL Marketo Sales] e-mail verzenden vanuit [!DNL Microsoft Dynamics] {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtstreeks vanuit Microsoft Dynamics klikken. Zo gaat het.
+Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtstreeks vanuit [!DNL Microsoft Dynamics] klikken. Zo gaat het.
 
-1. In Dynamiek, ga naar het **gebied van de Verkoop**.
+1. Ga in [!DNL Dynamics] naar het **[!UICONTROL Sales]** -gebied.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Selecteer de Mening van het a **Systeem**.
+1. Selecteer een **[!UICONTROL System View]** .
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Klik **...** lusje, dan klik **verzenden Marketo E-mail**.
+1. Klik op de tab **...** en klik vervolgens op **[!UICONTROL Send Marketo Email]** .
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -35,7 +35,7 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
    >
    >U kunt [ e-mails als malplaatjes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) voor uw verkoopteam publiceren om te gebruiken.
 
-1. Voeg een onderwerp toe, stel uw e-mail samen en klik **verzenden E-mail**. (Kies een sjabloon als u die nodig hebt.)
+1. Voeg een onderwerp toe, stel uw e-mail samen en klik op **[!UICONTROL Send Email]** . (Kies een sjabloon als u die nodig hebt.)
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
@@ -47,8 +47,8 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
    >
    >Je kunt maximaal 300 Marketo e-mails tegelijk verzenden.
 
-Echt waar! Nu weet je hoe je Marketo bijgehouden e-mails rechtstreeks vanuit Microsoft Dynamics kunt verzenden.
+Echt waar! Nu weet u hoe u e-mails die door Marketo zijn bijgehouden, rechtstreeks vanuit [!DNL Microsoft Dynamics] kunt verzenden.
 
 >[!MORELIKETHIS]
 >
->[ voeg een Lood/Contact aan een Campagne van Marketo van Microsoft Dynamics toe ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[ voeg een Lood/Contact aan een Campagne van Marketo van  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) toe

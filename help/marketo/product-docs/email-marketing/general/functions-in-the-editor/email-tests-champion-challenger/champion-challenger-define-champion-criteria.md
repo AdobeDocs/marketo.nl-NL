@@ -4,9 +4,9 @@ description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Prod
 title: Champion/Challenger - Bepaal de criteria van Champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
 ## Standaardkampioencriteria {#standard-champion-criteria}
 
-1. Kies één van de beschikbare **Criteria van de Champion**.
+1. Kies een van de beschikbare **[!UICONTROL Champion Criteria]** .
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
 ## Aangepaste Champion-criteria {#custom-champion-criteria}
 
-1. Als u fantasie wilt krijgen, kunt u douane gaan door **de Omzetting van de Douane te selecteren** en **te klikken geeft** uit.
+1. Als u fantasie wilt krijgen, kunt u aangepaste handelingen uitvoeren door **[!UICONTROL Custom Conversion Ratio]** te selecteren en op **[!UICONTROL Edit]** te klikken.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo staat alleen triggers toe voor mensen die het e-mailbericht van dit e-mailprogramma hebben ontvangen. U hoeft het filter &#39;&#39;Is verzonden via e-mail&#39;&#39; niet toe te voegen.
+   Marketo staat alleen triggers toe voor mensen die het e-mailbericht van dit e-mailprogramma hebben ontvangen. Geen behoefte om &quot;[!UICONTROL Was Sent Email]&quot;filter toe te voegen.
 
-1. Klik **dicht**.
+1. Klik op **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

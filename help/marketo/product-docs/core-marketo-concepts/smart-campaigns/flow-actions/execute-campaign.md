@@ -3,9 +3,9 @@ description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Er zijn veel dingen die je kunt doen met een uitvoerbare campagne. Zij worden on
 
 U kunt ze ook gebruiken wanneer u een aparte flow moet uitvoeren, maar u moet afhangen van de resultaten van die flow in de volgende keuzemogelijkheden voor de stap Stroom (als dit het geval is, moet u dat doen).
 
-Campagne uitvoeren is een verbetering van [Campagne aanvragen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in serie kan lopen, terwijl het laatstgenoemde slechts parallel loopt.
+Uitvoeren Campagne is een verbetering op [ Campagne van het Verzoek ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in-series kan lopen, terwijl laatstgenoemde slechts parallel loopt.
 
 >[!NOTE]
 >
@@ -32,17 +32,17 @@ Campagne uitvoeren is een verbetering van [Campagne aanvragen](/help/marketo/pro
 
 ## Een uitvoerbare campagne maken {#how-to-create-an-executable-campaign}
 
-1. Klik met de rechtermuisknop op het gewenste programma en selecteer **[!UICONTROL New Smart Campaign]**.
+1. Klik met de rechtermuisknop op het gewenste programma en selecteer **[!UICONTROL New Smart Campaign]** .
 
    ![](assets/execute-campaign-1.png)
 
-1. Geef het een naam, selecteer **[!UICONTROL Executable]** selectievakje en klik op **[!UICONTROL Create]**.
+1. Geef deze een naam, selecteer het selectievakje **[!UICONTROL Executable]** en klik op **[!UICONTROL Create]** .
 
    ![](assets/execute-campaign-2.png)
 
 1. Definieer de slimme lijst en stroom, net als elke andere slimme campagne.
 
-U kunt ook een bestaande slimme campagne klonen. Als u een bestaande uitvoerbare campagne kloont, zult u nog moeten selecteren **[!UICONTROL Executable]** Schakel het selectievakje in nadat u het een naam hebt gegeven.
+U kunt ook een bestaande slimme campagne klonen. Als u een bestaande uitvoerbare campagne kloont, moet u het selectievakje **[!UICONTROL Executable]** na de naam nog steeds inschakelen.
 
 >[!NOTE]
 >
@@ -56,28 +56,28 @@ Wanneer ingesteld op true, worden de volgende token-contexten verzonden naar de 
 * Campagne Tokens
 * Programmatokens
 * Member Tokens
-* [Triggertokens](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (indien opgeroepen vanuit een geactiveerd programma)
+* [ de Tokens van de Trekker ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (als geroepen van een Gerichte Campagne)
 
-**API-interactie**
+**API Interactie**
 
-Bij gebruik van Planning of Request-campagne [in de API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), allebei laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
+Wanneer het gebruiken van Programma of de Campagne van het Verzoek [ in API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), zowel laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
 
 ## Notities {#things-to-note}
 
 * De slimme lijst zal uit iedereen filteren die niet kwalificeert. Als een persoon in aanmerking komt, worden de resulterende uitgevoerde activiteitenverslagen van de Campagne vermeld als &quot;Gekwalificeerd: WAAR&quot; (en FALSE als zij niet)
 * De kwalificatieregels van de Campagne van het programma zijn van toepassing (de Slimme Montages van de Campagne onder het lusje van het Programma)
 * Uitvoerbare campagnes kunnen niet worden aangeroepen in verschillende werkruimten
-* Als u het [Verwijderen uit stroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) flowactie die gericht is op een uitvoerbare campagne, richt deze zich op zowel het onderliggende item als het bovenliggende item
+* Als u [ gebruikt verwijder uit Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) stroomactie gericht op een Uitvoerbare Campagne, zal het zowel het kind als de ouder richten
 * Gebruikend uit symbolische overerving - bijvoorbeeld, als u één enkele gemeenschappelijke het scoren stroom hebt die door veelvoudige verschillende activa teweeggebracht, kunt u een gebrek Mijn Symbolische score in de kindcampagne en in de oudercampagne bepalen zodat u de waarde van de kindscore campagnecampagne voor uw oudercampagnes (zie hieronder voor visueel voorbeeld) kunt met voeten treden
 * Uitvoerbare campagnes kunnen tot drie niveaus diep worden opgeroepen (bijvoorbeeld Bovenliggende campagne > Onderliggend element > Onderliggend element > Onderliggend element)
 
 >[!CAUTION]
 >
->Laat uw slimme lijsten voor uitvoerbare campagnes nooit ongeldig, anders _niemand_ hiervoor in aanmerking komen. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
+>Verlaat nooit uw slimme lijsten voor Uitvoerbare Campagnes ongeldig, anders _zal niemand_ voor het kwalificeren. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
 
 ## Voorbeeld van overerving van token {#token-inheritance-example}
 
-Hieronder ziet u een visueel voorbeeld van Overerving token in één uitvoerbare campagne en twee bovenliggende campagnes: één met tokencontext ingesteld op **[!UICONTROL True]**, de andere **[!UICONTROL False]**.
+Hieronder ziet u een visueel voorbeeld van Overerving token in één uitvoerbare campagne en twee bovenliggende campagnes: een met een tokencontext ingesteld op **[!UICONTROL True]** en een met **[!UICONTROL False]** .
 
 Onderliggende campagne met een verkapte Change Score.
 
@@ -89,7 +89,7 @@ De onderliggende campagne is Mijn Tokens.
 
 ### Voorbeeld één - waar {#example-one-true}
 
-In de de stroomstap van de Campagne van de Uitvoeren van de eerste oudercampagne, wordt &quot;de TokenContext van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **Waar**.
+In de Uitvoeren de stroomstap van de Campagne van de eerste oudercampagne, &quot;[!UICONTROL Use Parent Campaign Token Context]&quot;wordt geplaatst aan **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -103,7 +103,7 @@ De resultaten: de score is met +10 gewijzigd.
 
 ### Voorbeeld twee: Onwaar {#example-two-false}
 
-In de de stroomstap van de Campagne van de Uitvoeren van de tweede oudercampagne, wordt &quot;de TokenContext van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **Onwaar**.
+In de Uitvoeren de stroomstap van de Campagne van de tweede oudercampagne, wordt de &quot;TokenContext van de Campagne van het Gebruik van de Ouder&quot;geplaatst aan **Vals**.
 
 ![](assets/execute-campaign-8.png)
 

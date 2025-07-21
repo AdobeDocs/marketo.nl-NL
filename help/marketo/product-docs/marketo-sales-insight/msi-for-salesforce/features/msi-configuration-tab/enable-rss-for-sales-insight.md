@@ -1,37 +1,37 @@
 ---
 unique-page-id: 11377005
-description: RSS inschakelen voor Sales Insight - Marketo Docs - Productdocumentatie
-title: RSS inschakelen voor Sales Insight
+description: RSS inschakelen voor verkoop Insight - Marketo Docs - Productdocumentatie
+title: RSS inschakelen voor verkoop-Insight
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# RSS inschakelen voor Sales Insight {#enable-rss-for-sales-insight}
+# RSS inschakelen voor [!DNL Sales Insight] {#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-Als Marketo-gebruikers hun hoofdfeed niet alleen in Salesforce maar ook in een RSS-feed willen bekijken, moet een Marketo-beheerder deze eerst inschakelen. Het is gemakkelijk.
+Als Marketo-gebruikers hun hoofdfeed niet alleen in [!DNL Salesforce] maar ook in een RSS-feed willen weergeven, moet een Marketo-beheerder deze eerst inschakelen. Het is gemakkelijk.
 
-1. Klik in Mijn Marketo op **Beheer** en vervolgens **Verkoopoverzicht**.
+1. Klik in Mijn Marketo op **[!UICONTROL Admin]** en vervolgens op **[!DNL Sales Insight]** .
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. Klik in Instellingen op **Bewerken**. De RSS-feed wordt weergegeven als **Uitgeschakeld**.
+1. Klik op **[!UICONTROL Edit]** bij Instellingen. De RSS-feed wordt weergegeven als **[!UICONTROL Disabled]** .
 
    ![](assets/rss-settings-tab.png)
 
-1. Schakel in het dialoogvenster Instellingen bewerken het selectievakje **RSS-feed** selectievakje en klik op **Opslaan**.
+1. Schakel in het dialoogvenster [!UICONTROL Edit Settings] het selectievakje **[!UICONTROL RSS feed]** in en klik op **[!UICONTROL Save]** .
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   De RSS-feed wordt nu weergegeven als **Ingeschakeld**.
+   De RSS-feed wordt nu weergegeven als **[!UICONTROL Enabled]** .
 
    ![](assets/rss-final-box.png)
 

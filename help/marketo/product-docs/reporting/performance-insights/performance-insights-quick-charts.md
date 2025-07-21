@@ -4,26 +4,26 @@ description: Prestatie-inzichten in snel overzicht - Marketo Docs - Productdocum
 title: Prestatie-inzichten, snelle grafieken
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Prestatie-inzichten, snelle grafieken {#performance-insights-quick-charts}
+# [!UICONTROL Performance Insights] [!UICONTROL Quick Charts] {#performance-insights-quick-charts}
 
-Snelle grafieken zijn miniaturen die u kunt aanpassen en opslaan, zodat u snel kunt zien welke diagrammen u het meest gebruikt.
+[!UICONTROL Quick Charts] zijn miniaturen die u aanpast en opslaat, zodat u snel grafieken kunt bekijken die u het meest gebruikt.
 
 ## Een nieuwe snelle grafiek maken {#create-a-new-quick-chart}
 
-Snelle grafieken zijn afgeleid van gegevens die u opgeeft. In dit voorbeeld kiezen we het volgende: **nieuwe kansen (eerste aanraking), opportuniteitstype = nieuwe zaken, huidig jaar-aan-datum**.
+[!UICONTROL Quick Charts] is afgeleid van gegevens die u opgeeft. In dit voorbeeld, zullen wij kiezen: **nieuwe kansen (eerste aanraking), opportuniteitstype = nieuwe zaken, huidig jaar-aan-datum**.
 
-1. Klik op het datumfilter en kies **Huidig jaar (YTD)**.
+1. Klik op het datumfilter en kies **[!UICONTROL Current Year (YTD)]** .
 
    ![](assets/1-2.png)
 
-1. Klik op de knop **+** en selecteer uw criteria.
+1. Klik **+** en selecteer uw criteria.
 
    ![](assets/2-2.png)
 
@@ -31,11 +31,11 @@ Snelle grafieken zijn afgeleid van gegevens die u opgeeft. In dit voorbeeld kiez
 
    ![](assets/3-3.png)
 
-1. Klik op het pictogram Exporteren en selecteer **Opslaan als snel diagram**.
+1. Klik op het pictogram Exporteren en selecteer **[!UICONTROL Save as Quick Chart]** .
 
    ![](assets/4-2.png)
 
-1. Geef een naam op voor uw snelle diagram en klik op **Opslaan**.
+1. Geef een naam op voor het Snelle diagram en klik op **[!UICONTROL Save]** .
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ Uw Snelle Grafiek is nu met anderen.
 
 ## Bestaande snelle diagrammen weergeven {#view-existing-quick-charts}
 
-1. Als u uw bestaande snelle grafieken wilt bekijken, klikt u gewoon op de knop **Snelle grafieken** pictogram.
+1. Als u uw bestaande snelle grafieken wilt weergeven, klikt u gewoon op het pictogram **[!UICONTROL Quick Charts]** .
 
    ![](assets/7-1.png)
 
@@ -57,14 +57,14 @@ Uw Snelle Grafiek is nu met anderen.
 
 Als u een Snelle Grafiek moet schrappen, volg deze eenvoudige stappen.
 
-1. Klik op de knop **Snelle grafieken** pictogram.
+1. Klik op het pictogram **[!UICONTROL Quick Charts]** .
 
    ![](assets/8-1.png)
 
-1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik op de knop **X**.
+1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik **X**.
 
    ![](assets/9-2.png)
 
-1. Klikken **Verwijderen**.
+1. Klik op **[!UICONTROL Delete]**.
 
    ![](assets/10-1.png)

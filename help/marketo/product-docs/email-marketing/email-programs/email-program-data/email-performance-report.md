@@ -4,9 +4,9 @@ description: E-mailprestatierapport - Marketo Docs - Productdocumentatie
 title: E-mailprestatierapport
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopende, geklikt, enz., maakt u een e-mailprestatierapport.
 
-1. [ creeer een Rapport in een Programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **E-mailPrestaties** [ Type van Rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [ verander het Kader van de Tijd van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **Rapport** tabel.
+1. [ creeer een Rapport in een Programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL Email Performance]** [ Type van Rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [ verander het Kader van de Tijd van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
 1. Je bent er! Bekijk nu het rapport om te zien hoe uw e-mail(s) zijn uitgevoerd.
 
    >[!NOTE]
@@ -31,7 +31,7 @@ Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopend
 
    >[!NOTE]
    >
-   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik het **Slimme lusje van de Lijst** om [ tot een slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) voor het rapport te leiden. Als u niet op om het even welk specifiek gebied filtreert, plaats de filter E-mail van het Adres aan: **is niet leeg**.
+   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik het **[!UICONTROL Smart List]** lusje aan [ creeer een slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) voor het rapport. Wanneer u niet filtert op een specifiek veld, stelt u het filter E-mailadres in op: **[!UICONTROL is not empty]** .
 
    [ Uitgezochte de Kolommen van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mailrapport van Prestaties omvatten:
 
@@ -75,11 +75,11 @@ Over het algemeen proberen we het gezond verstand te gebruiken om deze statistie
 
 * **Regel 1**: Elk e-mailactiviteitenverslag wordt geplaatst aan één, en slechts één, van het volgende: _Geleverde_, _Vaste Begoten_, _Zachte Begoten_, of _Hangende_.
 
-* **Regel 2**: Als het e-mailverslag *Geopend* toont, wordt het geteld als *Geleverd*.
+* **Regel 2**: Als het e-mailverslag *[!UICONTROL Opened]* toont, wordt het geteld als *Geleverd*.
 
-* **Regel 3**: Als het e-mailverslag _Geklikte E-mail_ of _Geabonneerd_ toont, wordt het geteld als _Geleverd_ en _Geopend_.
+* **Regel 3**: Als het e-mailverslag _[!UICONTROL Clicked Email]_of_[!UICONTROL Unsubscribed]_ toont, wordt het geteld als _Geleverd_ en _Geopend_.
 
-* **Regel 4**: Als e-mail _wordt geopend_, worden de stuitingen genegeerd. Als e-mail niet is geopend, _Vaste Omgeslagen_ neemt belangrijkheid over _Zacht die_ en _wordt teruggestuurd_.
+* **Regel 4**: Als e-mail _[!UICONTROL Opened]_is, worden de grenzen genegeerd. Als e-mail niet is geopend,_ Vaste Omgeslagen _neemt belangrijkheid over_ Zacht die _en_ wordt teruggestuurd _.
 
 * **Regel 5**: Als geen e-mailactiviteit drie dagen nadat het werd verzonden wordt ontvangen, wordt het _Geaborteerd_ verondersteld.
 

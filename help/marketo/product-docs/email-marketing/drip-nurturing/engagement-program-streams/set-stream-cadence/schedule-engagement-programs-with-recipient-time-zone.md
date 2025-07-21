@@ -4,22 +4,22 @@ description: Programma's voor betrokkenheid plannen met tijdzone voor ontvangers
 title: De Programma's van de Betrokkenheid van het programma met Ontvankelijke Tijdzone
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # De Programma&#39;s van de Betrokkenheid van het programma met Ontvankelijke Tijdzone {#schedule-engagement-programs-with-recipient-time-zone}
 
-Wanneer u een stroom van het betrokkenheidsprogramma plant en de ontvankelijke tijdzone actief is, zal de programmagietvorm beginnen bij middernacht in de eerste tijdzone (UTC +14:00). Wij vereisen u om de eerste gietvorm te plannen **ten minste 25 uur** in de toekomst omdat er mensen kunnen zijn die in elke tijdzone over de hele wereld voor de cast in aanmerking komen . Als u op dit moment met de verwerking begint in de eerste tijdzone, bent u er zeker van dat u de e-mail op de geplande datum en tijd voor elke ontvanger verzendt.
+Wanneer u een stroom van het betrokkenheidsprogramma plant en de ontvankelijke tijdzone actief is, zal de programmagietvorm beginnen bij middernacht in de eerste tijdzone (UTC +14 :00). Wij vereisen u om eerste gegoten **minstens 25 uren** in de toekomst te plannen omdat er mensen kunnen zijn die voor de gietvorm in elke tijdzone over de wereld kwalificeren. Als u op dit moment met de verwerking begint in de eerste tijdzone, bent u er zeker van dat u de e-mail op de geplande datum en tijd voor elke ontvanger verzendt.
 
-1. Navigeer in uw betrokkenheidsprogramma naar de **Streams** en klikt u op het corresponderingsschema van een stream om deze te bewerken.
+1. Navigeer in uw betrokkenheidsprogramma naar de tab **[!UICONTROL Streams]** en klik op het cadence-programma van een stream om deze te bewerken.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Aanpassingsinstellingen instellen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) zoals u normaal zou doen, dan controleer **Tijdzone ontvanger** doos. Herinner dat uw eerste gietvorm minstens 25 uren in de toekomst moet zijn. Klikken **Opslaan**.
+1. [ plaats uw montages van de tijdigheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) zoals u normaal zou, dan controleer de **[!UICONTROL Recipient Time Zone]** doos. Herinner dat uw eerste gietvorm minstens 25 uren in de toekomst moet zijn. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
@@ -29,5 +29,5 @@ Wanneer u een stroom van het betrokkenheidsprogramma plant en de ontvankelijke t
 
 >[!MORELIKETHIS]
 >
->* [Tijdzone van ontvanger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Stroomversnelling instellen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [ Begrijpend Ontvankelijke Tijdzone van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [ plaats de Koorden van de Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

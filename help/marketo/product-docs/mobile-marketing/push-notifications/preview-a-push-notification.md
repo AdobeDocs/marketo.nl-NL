@@ -4,18 +4,18 @@ description: Een voorbeeld van een pushmelding bekijken - Marketo Docs - Product
 title: Een voorbeeld van een pushmelding bekijken
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Een voorbeeld van een pushmelding bekijken {#preview-a-push-notification}
 
-Het is eenvoudig om een voorvertoning te bekijken van hoe uw pushmelding eruit ziet voor Android of iOS. Er zijn vier manieren om het te doen.
+Het is eenvoudig om een voorvertoning te bekijken van hoe je pushmelding eruitziet voor Android of iOS. Er zijn vier manieren om het te doen.
 
-Klik in de navigatiestructuur met de rechtermuisknop op het bestand voor de melding die u wilt bekijken en klik op **Voorvertoning**.
+Klik in de navigatiestructuur met de rechtermuisknop op het bestand voor de melding die u wilt voorvertonen en klik op **[!UICONTROL Preview]** .
 
 >[!NOTE]
 >
@@ -23,17 +23,17 @@ Klik in de navigatiestructuur met de rechtermuisknop op het bestand voor de meld
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Of klik op de pagina voor de weergave Push Notification op **Handelingen voor pushmeldingen** en vervolgens **Voorvertoning**. Of klik op **Voorvertoning** uiterst rechts.
+Of klik op de weergavepagina Push Notification op **[!UICONTROL Push Notifications Actions]** en vervolgens op **[!UICONTROL Preview]** . Of klik helemaal rechts op **[!UICONTROL Preview]** .
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Tot slot kunt u in de redacteur, **Concept voorvertonen** in de rechterbovenhoek wanneer u aan het bericht werkt.
+Tot slot kunt u in de redacteur, het **[!UICONTROL Preview Draft]** lusje in het hogere recht klikken terwijl u aan het bericht werkt.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
 ## Android-voorvertoningen {#android-previews}
 
-Klik op het pictogram links om precies te zien waar het pushbericht wordt weergegeven wanneer u het verzendt. Klik of gebruik toetsenbordpijlen om tussen hen van een knevel te voorzien.
+Klik op het pictogram aan de linkerkant om precies te zien waar het pushbericht wordt weergegeven wanneer u het verzendt. Klik of gebruik toetsenbordpijlen om tussen hen van een knevel te voorzien.
 
 Op het Basisscherm verschijnt de melding iets onder de bovenkant, onder de pictogrammen.
 
@@ -45,11 +45,11 @@ Op het scherm van het Slot, springt het omhoog partway, onder de tijd.
 
 >[!NOTE]
 >
->Er is geen Berichtgevingscentrum-weergave in Android.
+>Er is geen Berichtencentrum-weergave in Android.
 
 ## iOS-voorvertoningen {#ios-previews}
 
-Net als bij Android kunt u met de pijltoetsen op het toetsenbord schakelen tussen de weergaven.
+Net als bij Android klikt of gebruikt u pijltoetsen op het toetsenbord om te schakelen tussen de weergaven.
 
 Op het Homescherm verschijnt het bericht bovenaan.
 
@@ -67,5 +67,5 @@ Met de voorvertoning van pushberichten weet u dus altijd wat uw klanten gaan zie
 
 >[!MORELIKETHIS]
 >
->* [Een pushmelding maken](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->* [Melding van mobiele pushberichten configureren](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+>* [ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [ Vorm Mobiel Push Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

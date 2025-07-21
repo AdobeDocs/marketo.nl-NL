@@ -4,26 +4,26 @@ description: Personen pauzeren in een betrokkenheidsprogramma - Marketo Docs - P
 title: Personen pauzeren in een betrokkenheidsprogramma
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 # Personen pauzeren in een betrokkenheidsprogramma {#pause-people-in-an-engagement-program}
 
-Als een persoon lid is van een betrokkenheidsprogramma, ontvangen ze inhoud totdat ze [alle inhoud is opgebruikt](people-who-have-exhausted-content.md). U kunt de [Cadre van het Programma van de Aanwezigheid van de Verandering](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Stroomstap om te voorkomen dat mensen inhoud ontvangen, zelfs als ze nog geen inhoud hebben uitgeput.
+Wanneer een persoon een lid van een betrokkenheidsprogramma is, zullen zij inhoud ontvangen tot zij [ alle inhoud ](people-who-have-exhausted-content.md) hebben uitgeput. U kunt de stap [[!UICONTROL Change Engagement Program Cadence]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Stroom gebruiken om te voorkomen dat mensen inhoud ontvangen, zelfs als ze de inhoud nog niet hebben uitgeput.
 
 1. Selecteer het betrokkenheidsprogramma.
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Selecteren **Gepauzeerd** als de **Nieuwe waarde** om te voorkomen dat de persoon inhoud ontvangt.
+1. Selecteer **[!UICONTROL Paused]** als de **[!UICONTROL New Value]** om te voorkomen dat de persoon inhoud ontvangt.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   U kunt de persoon instellen op **Normaal** als u wilt dat ze opnieuw inhoud ontvangen. Ze zullen hervat worden waar ze weggingen.
+   U kunt de persoon weer instellen op **[!UICONTROL Normal]** als u wilt dat deze opnieuw inhoud ontvangt. Ze zullen hervat worden waar ze weggingen.
 
    >[!NOTE]
    >

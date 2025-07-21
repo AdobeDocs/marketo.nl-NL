@@ -4,9 +4,9 @@ description: Werken met e-mailprogramma's - Marketo Docs - Productdocumentatie
 title: E-mailprogramma's
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Verzend e-mails, maak A/B-tests en volg uw resultaten allemaal op één locatie.
 
-## Deelvenster Beheer {#control-panel}
+## Configuratiescherm  {#control-panel}
 
-Vier vakken zorgen ervoor dat je gefocust blijft. **Publiek** definieert de &quot;who&quot; **E-mail** biedt de &quot;wat&quot;, **Schema** definieert &quot;when&quot;, en **Goedkeuring** maakt het klaar om te gaan.
+Vier vakken zorgen ervoor dat je gefocust blijft. **[!UICONTROL Audience]** definieert &quot;who&quot; **[!UICONTROL Email]** geeft &quot;what&quot; **[!UICONTROL Schedule]** de definitie &quot;when&quot; en **[!UICONTROL Approval]** maakt het klaar om te gaan.
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ Meer informatie over de volgende A/B-tests:
 
 >[!CAUTION]
 >
->Voor nauwkeurige rapportage dient u _hergebruiken_ een e-mailbericht van een e-mailprogramma door ernaar te verwijzen in een slimme campagne of door het middel van een nieuwe e-mailprogramma te verplaatsen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail opnieuw moet gebruiken, gelieve [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan, aangezien het e-mailbericht wordt gekopieerd maar er een wordt gemaakt met een nieuwe e-mailid.
+>Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [ het ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
 
 Geniet van de vruchten van je werk. De dashboards tonen u e-mailprogramma en A/B testprestaties in een oogopslag.
 
@@ -68,7 +68,7 @@ Gebruik een e-mailprogramma in een standaardprogramma om de zaken te organiseren
 
 >[!NOTE]
 >
->E-mailprogramma&#39;s kunnen niet worden genest in [betrokkenheidsprogramma&#39;s](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
+>De e-mailprogramma&#39;s kunnen niet in [ betrokkenheidsprogramma&#39;s ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) worden genest. Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
 
 ## Planningsinstellingen {#schedule-settings}
 
@@ -76,8 +76,8 @@ Nu u e-mailprogramma&#39;s begrijpt, kunt u beginnen met een van de verwante art
 
 >[!MORELIKETHIS]
 >
->* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [ creeer een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
->* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [ bepaal een Publiek met een Slimme Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [ creeer een E-mail voor een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [ Plan Uw E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

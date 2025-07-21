@@ -3,22 +3,22 @@ description: Metagegevens aangepaste objecten exporteren - Marketo Docs - Produc
 title: Metagegevens van aangepast object exporteren
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 1%
 
 ---
 
 # Metagegevens van aangepast object exporteren {#custom-object-metadata-export}
 
-Als u onze SOAP API of Munchkin API gebruikt, kan het Schema van de Meta-gegevens van de Objecten van de Douane worden uitgevoerd. Zo krijg je het.
+Als u de SOAP API of de [!DNL Munchkin] API gebruikt, kunt u het schema met aangepaste objectmetagegevens exporteren. Zo krijg je het.
 
 >[!AVAILABILITY]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/custom-object-metadata-export-1.png)
 
@@ -30,7 +30,7 @@ Als u onze SOAP API of Munchkin API gebruikt, kan het Schema van de Meta-gegeven
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Klik op de knop **[!UICONTROL Custom Object Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Export Object]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Custom Object Actions]** en selecteer **[!UICONTROL Export Object]** .
 
    ![](assets/custom-object-metadata-export-4.png)
 

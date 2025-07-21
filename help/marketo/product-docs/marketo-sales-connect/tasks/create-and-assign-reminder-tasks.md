@@ -3,10 +3,10 @@ description: Herinneringstaken maken en toewijzen - Marketo Docs - Productdocume
 title: Herinneringstaken maken en toewijzen
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 1%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Herinneringstaken zijn een geweldige manier om boven op uw klant en potentiële betrokkenheid te blijven. Voer de volgende stappen uit om een taak te maken.
 
-1. Klikken **Opdrachtcentrum**.
+1. Klik op **[!UICONTROL Command Center]**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Taken worden standaard geopend. Klikken **Taak toevoegen**.
+1. Taken worden standaard geopend. Klik op **[!UICONTROL Add Task]**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. Selecteer het taaktype van E-mail, Vraag, InMail, of de Taak van de Douane.
+1. Selecteer het taaktype in [!UICONTROL Email] , [!UICONTROL Call] , [!UICONTROL InMail] of [!UICONTROL Custom] Taak.
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -46,6 +46,6 @@ Herinneringstaken zijn een geweldige manier om boven op uw klant en potentiële 
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Voeg om het even welke details over de taak toe u beschikbaar aan u wanneer het voltooien van de taak zoals vraag het spreken nota&#39;s, een InMail berichtmalplaatje, of zelfs nota&#39;s over de persoon wilt. Klikken **Maken** wanneer gereed.
+1. Voeg om het even welke details over de taak toe u beschikbaar aan u wanneer het voltooien van de taak zoals vraag het spreken nota&#39;s, een InMail berichtmalplaatje, of zelfs nota&#39;s over de persoon wilt. Klik op **[!UICONTROL Create]** als u klaar bent.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

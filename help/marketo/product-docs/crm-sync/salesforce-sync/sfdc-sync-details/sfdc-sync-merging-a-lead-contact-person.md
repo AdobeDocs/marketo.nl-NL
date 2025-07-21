@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7515133
-description: SFDC-synchronisatie - Een lead/contactpersoon/persoon samenvoegen - Marketo-documenten - Productdocumentatie
-title: SFDC-synchronisatie - Een lead/contactpersoon/persoon samenvoegen
+description: SFDC Sync - Merging a Lead/Contact/Person - Marketo Docs - Productdocumentatie
+title: SFDC Sync - Samenvoegen van een lead/contactpersoon/persoon
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# SFDC-synchronisatie: een lead/contactpersoon/persoon samenvoegen {#sfdc-sync-merging-a-lead-contact-person}
+# SFDC Sync: Een lead/contact/persoon samenvoegen {#sfdc-sync-merging-a-lead-contact-person}
 
 Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 
-* Wanneer u twee leads samenvoegt in **Salesforce** De normale synchronisatie vertelt Marketo Engage en de leads worden automatisch samengevoegd als mensen in Marketo.
-* Twee personen samenvoegen in **Marketo** In feite wordt hetzelfde proces gebruikt als het samenvoegen van de leiders in Salesforce. Het werkt nog steeds automatisch.
-* Een samenvoegen **leiden (persoon) in een contact** werkt op dezelfde manier. U eindigt met één enkel contact aan beide kanten.
+* Wanneer u twee leads samenvoegt in **[!DNL Salesforce]** , geeft de normale synchronisatie aan dat Marketo en de leads automatisch worden samengevoegd als mensen in Marketo.
+* Het samenvoegen van twee mensen in **Marketo** roept eigenlijk het zelfde proces aan zoals het samenvoegen van hen zoals lood in [!DNL Salesforce]. Het werkt nog steeds automatisch.
+* Het samenvoegen van a **lood (persoon) in een contact** werkt de zelfde manier. U eindigt met één enkel contact aan beide kanten.
 * Bij het samenvoegen wordt de standaardscore opgeteld.
 
 >[!NOTE]
@@ -30,4 +30,4 @@ Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 
 >[!NOTE]
 >
->Diep duiken voor meer informatie over [samenvoegen van mensen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Diep duik voor meer informatie over [ het samenvoegen van mensen in Marketo ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

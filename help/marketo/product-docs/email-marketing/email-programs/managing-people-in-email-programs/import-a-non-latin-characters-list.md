@@ -4,9 +4,9 @@ description: Een lijst met niet-Latijnse tekens importeren - Marketo Docs - Prod
 title: Een lijst met niet-Latijnse tekens importeren
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Maar als je het in Marketo importeert, zie je misschien dat de niet-Engelse teke
 
 Dit komt doordat het bestand niet correct is opgeslagen zodat Marketo alle niet-Latijnse tekens herkent. Het goede nieuws is dat er een paar eenvoudige stappen zijn die je kunt volgen om het op te lossen.
 
-1. Selecteren **Opslaan als...** van de **Bestand** in Excel.
+1. Selecteer **[!UICONTROL Save As]...** in het **[!UICONTROL File]** -menu in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Kies **UTF-16 Unicode-tekst (.txt)** als de **Indeling** optie. Hiermee wordt het bestand gecodeerd op de manier waarop Marketo het kan weergeven.
+1. Kies **[!UICONTROL UTF-16 Unicode Text (.txt)]** als de optie **[!UICONTROL Format]** . Hiermee wordt het bestand gecodeerd op de manier waarop Marketo het kan weergeven.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Dit komt doordat het bestand niet correct is opgeslagen zodat Marketo alle niet-
 
    >[!TIP]
    >
-   >U kunt het tekstbestand openen met **Kladblok** als u Windows of **TextEdit** als u een Mac gebruikt.
+   >U kunt het tekstbestand openen met **[!DNL Notepad]** als u Windows gebruikt of **[!DNL TextEdit]** als u een Mac gebruikt.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Dit komt doordat het bestand niet correct is opgeslagen zodat Marketo alle niet-
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Selecteren **Zoeken en vervangen...** van de **Bewerken** -menu.
+1. Selecteer **[!UICONTROL Find and Replace]...** in het menu **[!UICONTROL Edit]** .
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >De equivalente actie voor Windows-gebruikers is: **Bewerken > Vervangen...**
+   >De equivalente actie voor Windows-gebruikers is: **[!UICONTROL Edit]> [!UICONTROL Replace]...**
 
-1. Plak de tab die u in stap 4 hebt gekopieerd in het eerste (te vervangen) vak en typ een komma in het tweede (te vervangen door) vak. en klik op **Alles**.
+1. Plak de tab die u in stap 4 hebt gekopieerd in het eerste (te vervangen) vak en typ een komma in het tweede (te vervangen door) vak. Klik op **[!UICONTROL All]** .
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

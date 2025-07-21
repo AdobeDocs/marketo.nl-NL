@@ -4,32 +4,32 @@ description: Webcampagnes filteren - Marketo Docs - Productdocumentatie
 title: Webcampagnes filteren
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
 # Webcampagnes filteren {#filter-web-campaigns}
 
-Nadat u honderden campagnes van de Personalisatie van het Web hebt gecreeerd, helpt het echt om filters te kunnen gebruiken om slechts degenen te bekijken u in geinteresseerd bent.
+Nadat u honderden [!DNL Web Personalization] campagnes hebt gecreeerd, helpt het echt om filters te kunnen gebruiken om slechts degenen te bekijken u in geinteresseerd bent.
 
-1. Ga naar **Webcampagnes**.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Klik op de pagina Webcampagnes op **Filter**.
+1. Klik op de pagina [!UICONTROL Web Campaigns] op **[!UICONTROL Filter]** .
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Schakel het selectievakje in voor de status en/of het type campagne waarvoor u wilt filteren, bijvoorbeeld **Gepauzeerd** of **Dialoog**. Klikken **Toepassen**.
+1. Schakel het selectievakje in voor de status en/of het type campagne waarvoor u wilt filteren, bijvoorbeeld **[!UICONTROL Paused]** of **[!UICONTROL Dialog]** . Klik op **[!UICONTROL Apply]**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Gebruik de **Alles selecteren** Schakel het selectievakje in om alles of het **Wissen** koppeling om alle selectievakjes te wissen.
+   >Gebruik het selectievakje **[!UICONTROL Select All]** om alle selectievakjes te kiezen of de koppeling **[!UICONTROL Clear]** om alle selectievakjes te wissen.
 
 1. Nu worden alleen campagnes weergegeven die overeenkomen met uw filter.
 

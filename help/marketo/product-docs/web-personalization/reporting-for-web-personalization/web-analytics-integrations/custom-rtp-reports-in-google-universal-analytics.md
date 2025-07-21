@@ -4,10 +4,10 @@ description: Aangepaste RTP-rapporten in Google Universal Analytics - Marketo Do
 title: Aangepaste RTP-rapporten in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 0%
+source-wordcount: '362'
+ht-degree: 1%
 
 ---
 
@@ -15,46 +15,46 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTP integreren met Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Google Universal Analytics (GUA).  De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanerapporten zijn:
 
 * RTP B2B
 * RTP-betrokkenheid
 
-## Een aangepast rapport instellen {#setting-up-a-custom-report}
+## Een [!UICONTROL Custom Report] instellen {#setting-up-a-custom-report}
 
 1. Meld u aan bij Google Analytics.
 
-1. Klikken op **Aanpassing** in het bovenste menu.
+1. Klik op **[!UICONTROL Customization]** in het bovenste menu.
 
-1. Klikken **+Nieuw aangepast rapport**.
+1. Klik op **[!UICONTROL New Custom Report]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B-rapport {#rtp-b-b-report}
 
-1. Geef een naam op voor het rapport **RTP B2B-rapport**.
+1. Noem het rapport **RTP B2B- Rapport**.
 
-1. Geef de naam van het eerste tabblad **Industrie**.
+1. Geef het eerste tabblad een naam **[!UICONTROL Industry]** .
 
 >[!NOTE]
 >
->U zult **Dit tabblad dupliceren** en maak aanvullende vergelijkbare versies - stap 5)
+>U **zult dit lusje** dupliceren en zult extra gelijkaardige degenen - stap 5) creëren
 
-1. Selecteer **Verkenner** rapporttype.
+1. Selecteer het rapporttype **[!UICONTROL Explorer]** .
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. In de **Metrische groepen** , selecteert u de maatstaven die relevant zijn voor uw bedrijf.
+1. Selecteer in de sectie **[!UICONTROL Metric Groups]** de maatstaven die relevant zijn voor uw bedrijf.
 
-   a. We raden het volgende aan:
+   a. Wij bevelen het volgende aan:
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Dit tabblad 4 keer dupliceren en een naam geven:
 
-   1. **Marktsegment**
+   1. **Industrie**
    1. **Groep**
    1. **Categorie**
    1. **ABM**
@@ -62,7 +62,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. In de **Dimension boor downs** in de sectie worden de relevante afmetingen voor elk tabblad hieronder vastgesteld.
+1. In de **sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder.
 
 <table> 
  <thead> 
@@ -73,7 +73,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
     </div></th> 
    <th> 
     <div>
-      Dimension boor downs
+      Dimension Drill downs
     </div></th> 
   </tr> 
  </thead> 
@@ -101,41 +101,41 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
  </tbody> 
 </table>
 
-1. Stel geen filters in en stel dit rapport in op beschikbaar voor **Alle websitegegevens** (of, indien van toepassing, wijzigen voor een specifieke analytische rekening).
+1. Stel geen filters in en stel dit rapport in op beschikbaar voor **[!UICONTROL All Web Site Data]** (of wijzig indien van toepassing voor specifieke analytische account).
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP-betrokkenheidsrapport {#rtp-engagement-report}
 
-1. Geef een naam op voor het rapport **RTP-betrokkenheidsrapport**.
+1. Noem het rapport **RTP Rapport van de Betrokkenheid**.
 
-1. De eerste tabnaam instellen op **Alle betrokkenheid**.
+1. Stel de eerste tabnaam in op **[!UICONTROL All Engagement]** .
 
 >[!NOTE]
 >
 >U dupliceert dit tabblad en maakt aanvullende, vergelijkbare tabbladen (stap 5)
 
-1. Selecteer **Verkenner** rapporttype.
+1. Selecteer het rapporttype **[!UICONTROL Explorer]** .
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Selecteer in de sectie Metrische groepen de maatstaven die relevant zijn voor uw bedrijf. Hier volgt een aanbeveling:
+1. Selecteer in de sectie [!UICONTROL Metric Groups] de maatstaven die relevant zijn voor uw bedrijf. Hier volgt een aanbeveling:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Dit tabblad 4 keer dupliceren en een naam geven:
 
-   1. **Alle betrokkenheid**
-   1. **Betrokkenheid van de industrie**
-   1. **Betrokkenheid per groep**
-   1. **Betrokkenheid per rubriek**
-   1. **Betrokkenheid van ABM**
+   1. **Al Betrokkenheid**
+   1. **Betrokkenheid door Industrie**
+   1. **Betrokkenheid door Groep**
+   1. **Betrokkenheid door Categorie**
+   1. **Betrokkenheid door ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. In de **Dimension boor downs** de relevante afmetingen voor elk tabblad als volgt instellen:
+1. In de **2} sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
 
 <table> 
  <thead> 
@@ -146,7 +146,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
     </div></th> 
    <th> 
     <div>
-      Dimension boor downs 
+      Dimension Drill downs 
     </div></th> 
   </tr> 
  </thead> 
@@ -204,14 +204,14 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
  <tbody> 
   <tr> 
    <td><p>Inclusief</p></td> 
-   <td><p>Gebeurteniscategorie</p></td> 
+   <td><p><span class="uicontrol">Gebeurteniscategorie</span></p></td> 
    <td>Regex</td> 
-   <td>RTP-Campagnes|RTP-Recommendations|RTP-Segmenten</td> 
+   <td>RTP-Campagnes|RTP-Aanbevelingen|RTP-Segmenten</td> 
    <td colspan="1">Hiermee filtert u alle andere aangepaste gebeurtenissen die niet gerelateerd zijn aan RTP</td> 
   </tr> 
   <tr> 
    <td>Uitsluiten</td> 
-   <td>Gebeurtenislabel</td> 
+   <td><span class="uicontrol">Gebeurtenislabel</span></td> 
    <td>Regex</td> 
    <td>Aantal</td> 
    <td colspan="1">Hiermee kunt u vanuit uw rapportencampagne filteren met # in de naam van de campagne</td> 
@@ -219,16 +219,16 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
  </tbody> 
 </table>
 
-1. Dit rapport beschikbaar stellen voor **Alle websitegegevens** (of indien nodig wijzigen).
+1. Stel dit rapport in op beschikbaar voor **[!UICONTROL All Web Site Data]** (of wijzig indien nodig).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
 >[!MORELIKETHIS]
 >
->[RTP integreren met Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Aangepaste RTP-dashboards in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
+>[ de Dashboards van de Douane RTP in Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

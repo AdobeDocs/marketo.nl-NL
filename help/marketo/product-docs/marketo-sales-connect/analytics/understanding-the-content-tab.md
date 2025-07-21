@@ -4,16 +4,16 @@ description: Inzicht krijgen op het tabblad Inhoud - Marketo Docs - Productdocum
 title: Het tabblad Inhoud
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Het tabblad Inhoud {#understanding-the-content-tab}
+# Het tabblad [!UICONTROL Content] {#understanding-the-content-tab}
 
-Het tabblad Inhoud gaat allemaal over de e-mailservice van uw team wanneer u een sjabloon gebruikt. We buigen automatisch drie metriek omhoog die we belangrijk vinden.
+Het tabblad [!UICONTROL Content] gaat allemaal over de e-mailbetrokkenheid van uw team wanneer u een sjabloon gebruikt. We buigen automatisch drie metriek omhoog die we belangrijk vinden.
 
 ## Geheim wapen {#secret-weapon}
 
@@ -27,6 +27,6 @@ Dit is de gedeelde sjabloon die het hoogste niveau van betrokkenheid over de hel
 
 Kan worden gedeeld of niet worden gedeeld, dit is de sjabloon met de minste hoeveelheid betrokkenheid.
 
-Schuif omlaag de pagina om de sectie Sjablonen weer te geven waarin alle sjablonen worden weergegeven die uw team (in dit tijdkader) heeft gebruikt met de meeste weergaven*.*
+Schuif omlaag naar de pagina om de sectie [!UICONTROL Templates] weer te geven waarin alle sjablonen worden weergegeven die uw team (in deze tijdsperiode) heeft gebruikt met de meeste weergaven*.*
 
 U kunt ook de Bovenste Bijlagen zien die uw team heeft verzonden (het krijgen van de meeste meningen), en de Hoogste Verbindingen (het krijgen van de meest kliks).

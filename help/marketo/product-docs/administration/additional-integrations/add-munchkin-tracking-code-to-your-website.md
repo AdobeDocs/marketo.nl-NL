@@ -4,9 +4,9 @@ description: Voeg  [!DNL Munchkin]  het Volgen Code aan Uw Website toe - de Docu
 title: Voeg  [!DNL Munchkin]  het Volgen Code aan Uw Website toe
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Marketo houdt aangepaste JavaScript-trackingcode, [!DNL Munchkin] genaamd, bij w
 
    >[!TIP]
    >
-   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [ leer meer ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [ leer meer ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Trackingcode toevoegen bij gebruik van meerdere werkruimten {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -141,4 +141,4 @@ U kunt als volgt controleren of de [!DNL Munchkin] -code werkt nadat u deze hebt
 
    >[!NOTE]
    >
-   >Als u geen gegevens ziet, wacht u een paar minuten en klikt u op het pictogram Vernieuwen onder aan het scherm.
+   >Als er geen gegevens worden weergegeven, wacht u een paar minuten en klikt u op het pictogram [!UICONTROL refresh] onderaan.

@@ -4,9 +4,9 @@ description: Een formulier instellen voor een pagina met dank aan u - Marketo Do
 title: Een pagina voor bedankt formulier instellen
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ Wat gebeurt er als iemand een formulier invult? Waar worden ze doorgestuurd naar
 
 ## Formulier bewerken {#edit-form}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Onder **Formulierinstellingen** klikken **Instellingen**.
+1. Klik onder **[!UICONTROL Form Settings]** op **[!UICONTROL Settings]** .
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Omlaag schuiven naar de **Dankbriefje** sectie.
+1. Schuif omlaag naar de sectie **[!UICONTROL Thank You Page]** .
 
 ## Op de pagina blijven {#stay-on-page}
 
 Met de optie Op pagina blijven houdt u de bezoeker op dezelfde pagina wanneer het formulier is verzonden.
 
-1. Selecteren **Op de pagina blijven** for **Opvolgen met**.
+1. Selecteer **[!UICONTROL Stay On Page]** voor **[!UICONTROL Follow Up With]** .
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Met de optie Op pagina blijven houdt u de bezoeker op dezelfde pagina wanneer he
 
 Met de instelling Externe URL kunt u elke URL definiëren als de vervolgpagina. Nadat de gebruiker het formulier heeft verzonden, wordt deze naar de opgegeven URL geleid.
 
-1. Selecteren **Externe URL** for **Opvolgen met**.
+1. Selecteer **[!UICONTROL External URL]** voor **[!UICONTROL Follow Up With]** .
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -53,13 +53,13 @@ Met de instelling Externe URL kunt u elke URL definiëren als de vervolgpagina. 
 
 >[!TIP]
 >
->De URL kan die zijn van een bestand dat ergens wordt gehost. Als u dit doet, gedraagt de knop &quot;Verzenden&quot; zich als een knop &quot;Downloaden&quot;.
+>De URL kan die van een dossier zijn ergens wordt ontvangen - als u dit doet, zal &quot;[!UICONTROL Submit]&quot;knoop zich als &quot;[!UICONTROL Download]&quot;knoop gedragen.
 
 ## Openingspagina {#landing-page}
 
 U kunt elke goedgekeurde Marketo-bestemmingspagina selecteren als follow-up.
 
-1. Set **Opvolgen met** tot **Openingspagina**.
+1. Stel **[!UICONTROL Follow Up With]** in op **[!UICONTROL Landing Page]** .
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ U kunt elke goedgekeurde Marketo-bestemmingspagina selecteren als follow-up.
 
 U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende follow-ups te laten zien, afhankelijk van hun reacties.
 
-1. Klikken **Keuze toevoegen**.
+1. Klik op **[!UICONTROL Add Choice]**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Kies de juiste pagina voor **Opvolgen met** type.
+1. Kies de juiste pagina voor **[!UICONTROL Follow Up With]** type.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -103,7 +103,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
    >
    >U moet deze bestemmingspagina&#39;s voor tijd hebben gecreeerd/goedgekeurd.
 
-1. Klik op de knop **+** om een andere keuze toe te voegen.
+1. Klik op het plusteken **+** om een andere keuze toe te voegen.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
@@ -111,7 +111,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
    >
    >U kunt verschillende opties toevoegen. Als u echter te veel toevoegt, kan dit van invloed zijn op de laadsnelheid van het formulier. Voeg dus alleen toe wat u nodig hebt.
 
-1. Doorgaan en instellen **Keuze 2**.
+1. Doorgaan en instellen **[!UICONTROL Choice 2]** .
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -123,7 +123,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
-1. Selecteer de pagina zelf en klik op **Opslaan**.
+1. Selecteer de pagina zelf en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
@@ -131,11 +131,11 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

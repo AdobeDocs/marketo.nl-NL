@@ -4,18 +4,18 @@ description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailinzichten
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
 # Overzicht van e-mailinzichten {#email-insights-overview}
 
-E-mailinzichten bieden krachtige inzichten van historische gegevens voor e-mailmarketers. Het bestaat uit twee afzonderlijke maar bijbehorende secties: Analyses en verzendingen.
+**[!UICONTROL Email Insights]** biedt krachtige inzichten van historische gegevens voor e-mailmarketers. Het bestaat uit twee afzonderlijke, maar gekoppelde secties: [!UICONTROL Analytics] en [!UICONTROL Sends] .
 
-Als u e-mailinzichten wilt openen, klikt u gewoon op de tegel in Mijn Marketo (of het beginscherm van Analytics).
+Als u **[!UICONTROL Email Insights]** wilt openen, klikt u gewoon op de tegel in Mijn Marketo (of in het beginscherm van Analytics).
 
 ![](assets/icon.png)
 
@@ -23,31 +23,31 @@ Als u e-mailinzichten wilt openen, klikt u gewoon op de tegel in Mijn Marketo (o
 >
 >Standaard worden gegevens weergegeven voor elke werkruimte waartoe u toegang hebt. U kunt de selectie van werkruimten opheffen die u niet wilt weergeven. Uw selectie(s) worden in de toekomst onthouden.
 
-## Analyse {#analytics}
+## [!UICONTROL Analytics] {#analytics}
 
-Gebruiken [Analyse](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) om de geaggregeerde tijdreeksgegevens voor e-maillevering en betrokkenheidsgegevens te verkennen.
+Gebruik [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) om de geaggregeerde tijdreeksgegevens voor e-maillevering en betrokkenheidsmetriek te verkennen.
 
 ![](assets/emailanalytics.jpg)
 
 **Filters**
 
-Gebruikt geavanceerd [filters](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om resultaten op Audience, Inhoud, of Platform te verdelen. Dezelfde filters zijn van toepassing op zowel Analytics als Send.
+Gebruikt geavanceerde [ filters ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om resultaten door Publiek, Inhoud, of Platform te onderbreken. Dezelfde filters zijn van toepassing op zowel [!UICONTROL Analytics] als [!UICONTROL Sends] .
 
 ![](assets/filter.png)
 
-**Snelle grafieken**
+**Snelle Grafieken**
 
-[Snelle grafieken](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) Dit zijn miniaturen die u maakt en opslaat en die u een snelle weergave bieden van grafieken die voor u van belang zijn.
+[ Snelle Grafieken ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) zijn duimnagels u creeert en bewaart, die een snelle mening van grafieken verstrekken die voor u belangrijk zijn.
 
 ![](assets/three.png)
 
-## Verzenden {#sends}
+## [!UICONTROL Sends] {#sends}
 
-In de [Verzenden](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) pagina, bekijkt u de kenmerken van recente e-mailcommunicatie.
+Bekijk op de pagina [[!UICONTROL Sends]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) de kenmerken van recente e-mailcommunicatie.
 
 ![](assets/two.png)
 
-**Metrisch**
+**Metriek**
 
 Klik op Metrische balken om de kleuren in getallen om te zetten.
 
@@ -55,13 +55,13 @@ Klik op Metrische balken om de kleuren in getallen om te zetten.
 
 >[!NOTE]
 >
->Het kan maximaal 8 uur duren voordat gegevens in e-mailinzichten worden weergegeven.
+>Het kan tot 8 uur duren voordat gegevens worden weerspiegeld in **[!UICONTROL Email Insights]** .
 
-## Aangepaste Dimension {#custom-dimensions}
+## Aangepaste afmetingen {#custom-dimensions}
 
-Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [Aangepaste afmetingen](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) bestaan uit segmentaties en programmatags.
+Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [ de afmetingen van de Douane ](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) bestaan uit segmentaties en programmamarkeringen.
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van e-mailinzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [E-mailinzichten verzenden overzicht](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>* [ E-mail het Overzicht van Analytics van Inzichten ](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>* [ e-mailInzichten verzendt Overzicht ](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

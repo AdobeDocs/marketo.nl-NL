@@ -1,39 +1,39 @@
 ---
 unique-page-id: 11370892
 description: Test Facebook Lead Ads for Desktop Integration met Marketo - Marketo Docs - Productdocumentatie
-title: Facebook Lead Ads testen voor desktopintegratie met Marketo
+title: Advertenties voor Facebook-leads testen voor Desktopintegratie met Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-# Facebook Lead Ads testen voor desktopintegratie met Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
+# Testen [!DNL Facebook] Advertenties voor desktopintegratie met Marketo {#test-facebook-lead-ads-for-desktop-integration-with-marketo}
 
 Nadat je je advertentie hebt gemaakt, moet je deze testen. Zo doe je het op je bureaublad.
 
 >[!PREREQUISITES]
 >
->U moet [Facebook Lead Ads Integration instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>U moet [ Opstelling de [!UICONTROL Facebook Lead Ads] Integratie ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
-1. Selecteer in de Facebook Power Editor een campagne, een advertentie en klik op **Bewerken**.
+1. Selecteer in de Facebook Power Editor een campagne, een advertentie en klik op **[!UICONTROL Edit]** .
 
-1. Onder **Koppelingen** klikt u op de knop **Weergeven in nieuwsfeed** koppeling.
+1. Klik onder **[!UICONTROL Links]** op de koppeling **[!UICONTROL View in News Feed]** .
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
-1. U wordt in een nieuw tabblad in uw browser naar Facebook geleid. Klik op de oproep tot actie in de Facebook Lead Ad-eenheid.
+1. U wordt op een nieuw tabblad in uw browser naar [!DNL Facebook] geleid. Klik op de [!UICONTROL Call to Action] in de [!DNL Facebook] advertentie-eenheid voor lead.
 
    ![](assets/image2016-5-13-14-3a42-3a45.png)
 
    >[!NOTE]
    >
-   >Dit is slechts een voorbeeld, dat Leer Meer Vraag aan Actie gebruikt. Je oproep van advertentie-eenheid naar actie kan anders zijn.
+   >Dit is slechts een voorbeeld, dat een Learn More Call to action gebruikt. Je advertentie-eenheid Call to action kan anders zijn.
 
-1. Verzend uw testadvertentie-eenheid door het formulier op uw bureaublad in te vullen. Klikken **Verzenden**.
+1. Verzend uw testadvertentie-eenheid door het formulier op uw bureaublad in te vullen. Klik op **[!UICONTROL Submit]**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ Nadat je je advertentie hebt gemaakt, moet je deze testen. Zo doe je het op je b
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Daar gebeurt de magie! Nadat u het formulier hebt verzonden, [een slimme lijst maken in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als onderdeel van een programma of in de database die het filter Facebook Lead Ads-formulier invullen gebruikt. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
+1. Daar gebeurt de magie! Zodra u uw vorm hebt voorgelegd, [ bouwt een slimme lijst in Marketo ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als deel van een programma of in het gegevensbestand dat de Gevulde [!DNL Facebook] filter van de Vorm van de Advertentie van de Lood gebruikt. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Klik nu op de knop **Mensen** om te controleren of de synchronisatie correct werkt.
+1. Klik nu op het tabblad **[!UICONTROL People]** om te controleren of de synchronisatie correct werkt.
 
    ![](assets/people.png)
 
@@ -53,4 +53,4 @@ Nadat je je advertentie hebt gemaakt, moet je deze testen. Zo doe je het op je b
 
 >[!MORELIKETHIS]
 >
->[Facebook Lead Ads instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[ Instellen [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

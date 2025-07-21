@@ -6,9 +6,9 @@ exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Wanneer het runnen van a _verwijzingsaanbieding_ of a _sweepstakes_, kunt u kred
 * **Slimme Trigger van de Lijst**
 * Custom JavaScript Event
 
-Als u verkoos om de **Slimme optie van de Lijst te gebruiken Trigger** om een doel te specificeren, zult u **moeten gebruiken Geef Krediet aan de stap van de Verwijzer**.
+Als u verkoos om de **Slimme optie van de Lijst te gebruiken Trigger** om een doel te specificeren, zult u de **[!UICONTROL Give Credit to Referrer]** stroomstap moeten gebruiken.
 
 ![](assets/give-credit-to-referrer-1.png)
 

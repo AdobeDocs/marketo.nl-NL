@@ -4,9 +4,9 @@ description: Een demontage in een People Performance Report - Marketo Docs - Pro
 title: Omlaag boven in een rapport over de prestaties van het volk
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bor neer in een Rapport van de Prestaties van Mensen om extra persooninformatie te zien.
 
-1. Klik op de knop **Rapport** om bestaande rapporten te bekijken.
+1. Klik op de tab **[!UICONTROL Report]** om een bestaand rapport weer te geven.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Bor neer in een Rapport van de Prestaties van Mensen om extra persooninformatie 
 
    ![](assets/two.png)
 
-1. Klikken op **Boor-neer**.
+1. Klik op **[!UICONTROL Drill-Down]** .
 
    ![](assets/three.png)
 
-1. In de **Boor-neer** selecteert u het kenmerk waarnaar u wilt dieper gaan. Klik vervolgens op **Boor-neer**.
+1. Selecteer in het pop-upvenster **[!UICONTROL Drill-Down]** het kenmerk waarnaar u wilt dieper gaan. Klik vervolgens op **[!UICONTROL Drill-Down]** .
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Bor neer in een Rapport van de Prestaties van Mensen om extra persooninformatie 
 
    ![](assets/five.png)
 
-1. Als u de resultaten wilt opslaan (optioneel), klikt u op de knop **Exporteren** pictogram linksonder.
+1. Als u de resultaten wilt opslaan (optioneel), klikt u op het pictogram **[!UICONTROL Export]** linksonder.
 
    ![](assets/six.png)

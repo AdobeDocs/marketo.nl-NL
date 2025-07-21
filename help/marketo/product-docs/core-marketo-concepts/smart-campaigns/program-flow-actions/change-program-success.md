@@ -4,9 +4,9 @@ description: Programma succesvol wijzigen - Marketo Docs - Productdocumentatie
 title: Programma is gewijzigd
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Als u ooit een groep mensen hebt die verkeerd met het Succes van het Programma w
 
    >[!NOTE]
    >
-   >Als u de instelling van Datum succes op Alles instelt, wordt Succes automatisch ingesteld op true. Als u Succes instelt op true, wordt de succesdatum automatisch ingesteld op de huidige datum.
+   >Als u [!UICONTROL Success Date] op iets instelt, wordt Succes automatisch ingesteld op true. Als u [!UICONTROL Success] instelt op true, wordt de datum van successie automatisch ingesteld op de huidige datum.
 
 1. Stel de **[!UICONTROL New Value]** in op **[!UICONTROL True]** of **[!UICONTROL False]** .
 

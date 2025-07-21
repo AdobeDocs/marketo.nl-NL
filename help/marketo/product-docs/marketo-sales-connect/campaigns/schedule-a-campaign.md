@@ -4,9 +4,9 @@ description: Een campagne plannen - Marketo Docs - Productdocumentatie
 title: Een campagne plannen
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ U kunt elke afzonderlijke e-mailstap van uw campagne plannen om op een bepaald t
 
 U hoeft alleen maar te kiezen wanneer u uw e-mails wilt verzenden wanneer u uw campagne maakt.
 
-Als u uw eerste stap niet had gepland of &quot;moet kiezen verzendt bij&quot;tijd, zal u worden gevraagd om te kiezen wanneer uw Campagne zou moeten worden verzonden, telkens als u een persoon of een groep toevoegt.
+Als u uw eerste stap niet plande of geen &quot;[!UICONTROL Send at]&quot;tijd moet kiezen, zult u worden gevraagd om te kiezen wanneer uw Campagne zou moeten worden verzonden, telkens als u een persoon of een groep toevoegt.
 
-Open de modus Toevoegen aan campagne door personen, groepen of geselecteerde personen toe te voegen en klik op **Volgende**.
+Open het modaal [!UICONTROL Add to Campaign] door personen, een groep of geselecteerde personen toe te voegen en op **[!UICONTROL Next]** te klikken.
 
-Nadat u op **Volgende**, kunt u een voorbeeld van het eerste e-mailbericht bekijken.
+Nadat u op **[!UICONTROL Next]** hebt geklikt, kunt u een voorbeeld van het eerste e-mailbericht weergeven.
 
-Na klikken **Volgende** nogmaals, u zult aan een optie voor worden genomen wanneer u uw campagne wilt gaan. U kunt het nu laten beginnen, of een tijd voor later plannen om de campagne te beginnen.
+Nadat u nogmaals op **[!UICONTROL Next]** hebt geklikt, wordt u naar een optie geleid wanneer u de campagne wilt laten uitvoeren. U kunt het nu laten beginnen, of een tijd voor later plannen om de campagne te beginnen.

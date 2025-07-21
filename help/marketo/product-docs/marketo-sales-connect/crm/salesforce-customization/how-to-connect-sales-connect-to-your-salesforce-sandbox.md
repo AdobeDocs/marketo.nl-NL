@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15368205
-description: Hoe te om Verkoop aan Uw zandbak van Salesforce aan te sluiten - de Documenten van Marketo - de Documentatie van het Product
+description: Verkoopverbinding maken met uw Salesforce-sandbox - Marketo Docs - Productdocumentatie
 title: Verkoopverbinding maken met uw Salesforce-sandbox
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Uw Sales Connect-account kan nog geen verbinding maken met Salesforce wanneer u een verbinding tot stand brengt met de sandbox. Zo ja, [zorg ervoor u losmaakt](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) voordat u de stappen in dit artikel uitvoert.
+>Uw [!DNL  Sales Connect] -account kan nog niet verbonden zijn met [!DNL Salesforce] wanneer u een verbinding tot stand brengt met de sandbox. Als het is, [ zorg ervoor u ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) losmaakt alvorens de stappen in dit artikel te volgen.
 
-1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
+1. Klik in [!DNL Sales Connect] op het tandwielpictogram rechtsboven en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one-2.png)
 
-1. Klik onder Integraties op **CRM**.
+1. Klik onder [!UICONTROL Integrations] op **[!UICONTROL CRM]** .
 
    ![](assets/two-2.png)
 
-1. Klik op de Salesforce-kaart op **Meer informatie**.
+1. Klik op de [!DNL Salesforce] -kaart op **[!UICONTROL More Info]** .
 
    ![](assets/three-2.png)
 
-1. Klik onder aan de pagina op **Verbinding maken met sandbox**.
+1. Klik onder aan de pagina op **[!UICONTROL Connect to Sandbox]** .
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Als u reeds aan uw Salesforce Sandbox rekening wordt het programma geopend, zult u aan een pagina van de Vergunning worden genomen waar u toegang zult moeten verlenen. Als u nog niet bent aangemeld, gaat u verder met stap 5.
+   >Als u al bent aangemeld bij uw [!DNL Salesforce Sandbox] -account, gaat u naar een pagina voor autorisatie waar u toegang moet toestaan. Ga door met Stap 5 als u nog niet bent aangemeld.
 
-1. Voer de gebruikersnaam en het wachtwoord van uw Salesforce Sandbox-account in.
+1. Voer de gebruikersnaam en het wachtwoord van uw [!DNL Salesforce Sandbox] -account in.
 
    ![](assets/five-2.png)
 
 >[!MORELIKETHIS]
 >
->[Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[ hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

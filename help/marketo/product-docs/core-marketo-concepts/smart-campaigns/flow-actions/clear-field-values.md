@@ -4,9 +4,9 @@ description: Veldwaarden wissen - Marketo Docs - Productdocumentatie
 title: Veldwaarden wissen
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [ de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) is groot, maar hoe u _verwijdert_ de waarde volledig? Goede vraag!
 
-1. In de stroomstap, kies het gebied u zou willen ontruimen en in **ONGELDIG** (alle kapitalen) als **Nieuwe Waarde** typen.
+1. Kies in de flowstap het veld dat u wilt wissen en typ **[!UICONTROL NULL]** (alle hoofdletters) als **[!UICONTROL New Value]** .
 
    ![](assets/clear-field-values-1.png)
 

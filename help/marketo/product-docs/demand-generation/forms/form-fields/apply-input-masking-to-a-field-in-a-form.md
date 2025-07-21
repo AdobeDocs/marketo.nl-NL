@@ -4,10 +4,10 @@ description: Invoermaskering toepassen op een veld in een formulier - Marketo Do
 title: Invoermaskering toepassen op een veld in een formulier
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 U kunt de invoer van de bezoeker beperken met behulp van een invoermasker. U wilt bezoekers bijvoorbeeld wellicht alleen telefoonnummers invoeren in een specifieke notatie.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selecteer uw veld en zorg ervoor dat de **Veldtype** is ingesteld op **Tekst**.
+1. Selecteer het veld en zorg ervoor dat **[!UICONTROL Field Type]*** is ingesteld op **[!UICONTROL Text]** .
 
    >[!NOTE]
    >
-   >Invoermaskering werkt alleen met **Typen tekstvelden**.
+   >Invoermaskering werkt alleen met **[!UICONTROL Text Field Types]** .
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klik op de knop **Maskerinvoer** koppeling.
+1. Klik op de koppeling **[!UICONTROL Mask Input]** .
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Voer uw invoermasker in en klik op **Opslaan**.
+1. Voer het invoermasker in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ U kunt de invoer van de bezoeker beperken met behulp van een invoermasker. U wil
    >
    >Let op de maskeringsregels. U kunt invoer beperken tot getallen, letters, beide en/of zelfs het aantal ingevoerde tekens beperken.
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

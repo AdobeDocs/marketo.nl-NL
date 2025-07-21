@@ -3,16 +3,16 @@ description: Het begrip van het Lusje van het Team - de Documenten van Marketo -
 title: Het begrip van het Lusje van het Team
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# Het begrip van het Lusje van het Team {#understanding-the-team-tab}
+# Het tabblad [!UICONTROL Team] {#understanding-the-team-tab}
 
-In het Lusje van het Team benadrukken wij drie belangrijke metriek.
+Op het tabblad [!UICONTROL Team] markeren we drie belangrijke meetgegevens.
 
 ## E-mails verzonden met template {#emails-sent-with-template}
 

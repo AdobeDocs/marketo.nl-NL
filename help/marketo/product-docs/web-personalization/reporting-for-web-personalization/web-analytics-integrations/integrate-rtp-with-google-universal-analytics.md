@@ -4,53 +4,52 @@ description: Integratie van RTP met Google Universal Analytics - Marketo Docs - 
 title: RTP integreren met Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-# RTP integreren met Google Universal Analytics {#integrate-rtp-with-google-universal-analytics}
+# RTP integreren met [!DNL Google Universal Analytics] {#integrate-rtp-with-google-universal-analytics}
 
 ## Intro {#intro}
 
-Hefboomwerking Google Universal Analytics (GUA) met Marketo Real-Time Personalization&#39;s (RTP) firmographic and personalization data om uw online marketinginspanningen beter te meten en te analyseren.
+Gebruik [!DNL Google Universal Analytics] (GUA) met de firmografische en personalisatiegegevens van [!DNL Marketo Real-Time Personalization] (RTP) om uw online marketinginspanningen beter te meten en te analyseren.
 
-In dit artikel wordt uitgelegd hoe u het Marketo Real-Time Personalization (RTP)-platform instelt en integreert met de accounts van Google Universal Analytics (GUA). RTP de gegevens kunnen aan uw rekening worden toegevoegd GUA die u toestaat om de prestaties van organisaties, industrieën, firmographics en segmenten te bekijken RTP die uw website bezoeken.
+In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization] (RTP)-platform instelt en integreert met [!DNL Google Universal Analytics] (GUA)-accounts. RTP de gegevens kunnen aan uw rekening worden toegevoegd GUA die u toestaat om de prestaties van organisaties, industrieën, firmographics en segmenten te bekijken RTP die uw website bezoeken.
 
-**Google Universal Analytics**
+**[!DNL Google Universal Analytics]**
 
-Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de manier waarop B2B-gebruikers met uw online-inhoud werken en helpt u betere resultaten te meten en te behalen uit uw personalisatiecampagnes. [Meer informatie over Google Universal Analytics](https://support.google.com/analytics/answer/2790010/?hl=en&amp;authuser=1).
+[!DNL Google Universal Analytics] met de gegevens van RTP verstrekt u een beter inzicht in hoe de gebruikers van B2B met uw online inhoud in wisselwerking staan en helpen meten en betere resultaten van uw verpersoonlijkingscampagnes krijgen. [ las meer over  [!DNL Google Universal Analytics] ](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
 
 >[!NOTE]
 >
->**Alleen voor gebruikers van Google-tagbeheer**
+>**voor slechts de Gebruikers van de Manager van de Markering van Google**
 >
 >Er hoeft geen codering of speciale configuratie te worden uitgevoerd. Controleer of u de volgende checklist invult:
 >
->* RTP-afmetingen worden gemaakt in Google Universal Analytics
->* [De RTP-tag is correct geïnstalleerd in Google-tagbeheer](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* Google Universal Analytics Integration is ingeschakeld in de accountinstellingen van RTP
->* [Google Universal Analytics-tag is correct geconfigureerd in Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
->* [De tag Google Tag Manager is correct geïnstalleerd op uw website](https://developers.google.com/tag-manager/quickstart)
+>* RTP-afmetingen worden gemaakt in [!DNL Google Universal Analytics]
+>* [ RTP de markering wordt behoorlijk geïnstalleerd in de Manager van de Markering van Google ](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
+>* [!DNL Google Universal Analytics] Integratie is ingeschakeld in de accountinstellingen van RTP
+>* [[!DNL Google Universal Analytics]  de markering wordt behoorlijk gevormd in de Manager van de Markering van Google ](https://support.google.com/tagmanager/answer/6107124?hl=en)
+>* [ de markering van de Manager van de Markering van Google wordt behoorlijk geïnstalleerd uw website ](https://developers.google.com/tag-manager/quickstart)
 
-## Aangepaste Dimension instellen in GUA {#set-up-custom-dimensions-in-gua}
+## Aangepaste afmetingen instellen in GUA {#set-up-custom-dimensions-in-gua}
 
-1. In Google Analytics,
+1. In Google Analytics:
 
-   1. Ga naar **Beheer**
-   1. Selecteer **Account.**
-   1. Selecteer **Eigenschap.**
-   1. Selecteren **Aangepaste definities** en **Aangepaste Dimension**.
-
+   1. Ga naar **[!UICONTROL Admin]**
+   1. Selecteer de **[!UICONTROL Account].**
+   1. Selecteer de **[!UICONTROL Property].**
+   1. Selecteer **[!UICONTROL Custom Definitions]** en **[!UICONTROL Custom Dimensions]** .
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. Voeg een nieuwe aangepaste dimensie toe. Klikken **+Nieuwe aangepaste Dimension**
+1. Voeg een nieuwe aangepaste dimensie toe. Klikken **[!UICONTROL +New Custom Dimension]**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Voeg het volgende toe **Aangepaste Dimension:**
+1. Voeg het volgende toe **[!UICONTROL Custom Dimensions]:**
 
 <table> 
  <tbody> 
@@ -84,43 +83,43 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
 
 >[!NOTE]
 >
->**Aangepaste Dimension-namen** moet exact zijn zoals gedefinieerd in de bovenstaande tabel (anders worden aangepaste RTP-dashboards en -rapporten in GUA niet correct weergegeven)
+>**de Namen van Dimension van de Douane** moeten precies zijn zoals die in de lijst hierboven worden bepaald (anders zullen de de dashboards en rapporten van douane RTP in GUA niet correct tonen)
 
-1. Voeg de **Naam**. Bereik selecteren als **Sessie**. Klikken **Maken**.
+1. Voeg de lus **[!UICONTROL Name]** toe. Selecteer het bereik als **[!UICONTROL Session]** . Klik op **[!UICONTROL Create]**.
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
-Uw lijst Aangepaste Dimension moet er zo uitzien.
+Je lijst Aangepaste Dimension moet er zo uitzien.
 
 ![](assets/image2014-11-29-11-36-50-version-2.png)
 
-Zodra u de Dimension van de Douane in GUA hebt geactiveerd, ga naar het platform RTP om deze dimensies binnen RTP toe te laten.
+Zodra u de Dimensies van de Douane in GUA hebt geactiveerd, ga naar het platform RTP om deze afmetingen binnen RTP toe te laten.
 
 ## Activeer de integratie GUA in uw rekening RTP {#activate-the-gua-integration-in-your-rtp-account}
 
-1. Ga in het platform RTP naar **Accountinstellingen.**
+1. Ga in het platform RTP naar **[!UICONTROL Account Settings].**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Onder **Accountinstellingen**, klikt u op **Domein**.
-1. Onder **Analyse**, klikt u op **Google Universal Analytics**.
-1. Draaien **Aan** de relevante Dimension en Gebeurtenissen van de Douane om deze gegevens van RTP aan Google Universal Analytics toe te voegen.
-1. Voer de **Indexnummer** van de dimensie uitgelijnd met het indexnummer in GUA.
-1. Klikken **Opslaan**.
+1. Klik onder **[!UICONTROL Account Settings]** op **[!UICONTROL Domain]** .
+1. Klik onder **[!UICONTROL Analytics]** op **[!UICONTROL Google Universal Analytics]** .
+1. Draai **[!UICONTROL On]** de relevante afmetingen en gebeurtenissen van de Douane om deze gegevens van RTP aan [!DNL Google Universal Analytics] toe te voegen.
+1. Voer in GUA de **[!UICONTROL Index number]** van de dimensie die is uitgelijnd met het indexnummer in.
+1. Klik op **[!UICONTROL Save]**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
 >[!NOTE]
 >
->Het indexnummer voor de aangepaste Dimension is te vinden in GUA onder Aangepaste Dimension.
+>Het indexnummer voor de aangepaste Dimension is te vinden in GUA onder Aangepaste afmetingen.
 >
 >Voorbeeld: RTP-Industry Index Number is gelijk aan 1, RTP-Organization Index Number is gelijk aan 2.
 
 ## Oude dashboards verwijderen in Google Analytics {#remove-old-dashboards-in-google-analytics}
 
-1. In Google Analytics. Ga naar **Rapportage.**
-1. Klikken op **Dashboards.**
-1. Selecteer een **Dashboard** (RTP B2B- of RTP-prestaties)
-1. Klikken **Dashboard verwijderen**.
+1. In Google Analytics. Ga naar **[!UICONTROL Reporting].**
+1. Klik op **[!UICONTROL Dashboards].**
+1. Selecteer een **[!UICONTROL Dashboard]** (RTP B2B- of RTP-prestaties)
+1. Klik op **[!UICONTROL Delete Dashboard]**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)

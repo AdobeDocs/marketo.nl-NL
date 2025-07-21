@@ -4,14 +4,14 @@ description: Een Benoemd account verwijderen - Marketo Docs - Productdocumentati
 title: Een benoemde account verwijderen
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
-# Een benoemde account verwijderen {#delete-a-named-account}
+# Een [!UICONTROL Named Account] verwijderen {#delete-a-named-account}
 
 Voer de volgende snelle stappen uit om een benoemde account te verwijderen.
 
@@ -23,11 +23,11 @@ Voer de volgende snelle stappen uit om een benoemde account te verwijderen.
    >
    >Houd Ctrl (Windows) of Cmd (Mac) ingedrukt en klik om meerdere benoemde accounts te selecteren.
 
-1. Klik op de knop **Handelingen benoemde account** vervolgkeuzelijst en selecteer **Benoemd account verwijderen**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Named Account Actions]** en selecteer **[!UICONTROL Delete Named Account]** .
 
    ![](assets/eight-1.png)
 
-1. Klikken **Verwijderen**.
+1. Klik op **[!UICONTROL Delete]**.
 
    ![](assets/nine-1.png)
 

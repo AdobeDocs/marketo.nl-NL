@@ -4,32 +4,32 @@ description: Prestatie-inzichten instellen - Marketo Docs - Productdocumentatie
 title: Prestatie-inzichten instellen
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 
-# Prestatie-inzichten instellen {#setting-up-performance-insights}
+# Instellen [!UICONTROL Performance Insights] {#setting-up-performance-insights}
 
 Voer de onderstaande stappen uit om MPI in te stellen.
 
 ## Opportunity instellen {#opportunity-setup}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klikken **Analyse van inkomstencyclus**.
+1. Klik op **[!UICONTROL Revenue Cycle Analytics]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Als u geen RCA hebt, zult u moeten selecteren **Programmaanalyse** voor Stap 2.
+   >Als u geen RCA hebt, moet u **[!UICONTROL Program Analysis]** selecteren voor Stap 2.
 
-1. Klik onder Kenmerk op **Bewerken**.
+1. Klik onder Kenmerk op **[!UICONTROL Edit]** .
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ Voer de onderstaande stappen uit om MPI in te stellen.
    >
    >Zorg ervoor dat alle mogelijkheden de juiste velden hebben:
    >
-   >* Aantal kansen
-   >* Is gesloten
-   >* Is Won
-   >* Aanmaakdatum (deze wordt mogelijk niet ingesteld in uw geval)
-   >* Gesloten datum (dit wordt mogelijk niet ingesteld in je geval)
-   >* Type opportunity
+   >* [!UICONTROL Opportunity Amount]
+   >* [!UICONTROL Is Closed]
+   >* [!UICONTROL Is Won]
+   >* [!UICONTROL Creation Date] (dit wordt mogelijk niet ingesteld in uw geval)
+   >* [!UICONTROL Closed Date] (dit wordt mogelijk niet ingesteld in uw geval)
+   >* [!UICONTROL Opportunity Type]
 
 ## Programma instellen {#program-setup}
 
 Werk de programmakosten ten minste 12 maanden bij. U kunt dit handmatig doen of de programma-API gebruiken. In dit voorbeeld doen we het handmatig.
 
-1. Klikken **Marketingactiviteiten**.
+1. Klik op **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -64,41 +64,41 @@ Werk de programmakosten ten minste 12 maanden bij. U kunt dit handmatig doen of 
 
    ![](assets/select-program.png)
 
-1. Klik op de knop **Instellen** tab.
+1. Klik op de tab **[!UICONTROL Setup]** .
 
    ![](assets/setup-tab.png)
 
-1. Slepen **Kosten periode** op het canvas.
+1. Sleep **[!UICONTROL Period Cost]** naar het canvas.
 
    ![](assets/period-cost.png)
 
-1. Stel de programmamaand ten minste 12 maanden geleden in en klik op **OK**.
+1. Stel de programmamaand minstens 12 maanden geleden in en klik op **[!UICONTROL Ok]** .
 
    ![](assets/set-period.png)
 
-1. Stel de kosten voor de periode in en klik op **Opslaan**.
+1. Stel de kosten voor de periode in en klik op **[!UICONTROL Save]** .
 
    ![](assets/set-cost.png)
 
 Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal moet worden opgenomen in de analyse. Stel het gedrag Analytics (Normaal, Inclusief, Operationeel) in.
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klikken **Tags**.
+1. Klik op **[!UICONTROL Tags]**.
 
    ![](assets/tags.png)
 
-1. Klik op de knop **+** om de lijst Kanaal uit te vouwen.
+1. Klik **+** om de lijst van het Kanaal uit te breiden.
 
    ![](assets/channel.png)
 
-1. Dubbelklik op het gewenste kanaal.
+1. Klik het gewenste kanaal tweemaal.
 
    ![](assets/channel-click.png)
 
-1. Klik op de knop **Analysegedrag** en selecteert u het gewenste gedrag.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Analytics Behavior]** en selecteer het gewenste gedrag.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal mo
 
    ![](assets/success.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/save.png)
 

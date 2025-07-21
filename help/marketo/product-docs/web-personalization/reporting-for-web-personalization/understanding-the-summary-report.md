@@ -4,53 +4,53 @@ description: Een goed begrip van het samenvattingsrapport - Marketo Docs - Produ
 title: Het overzichtsrapport
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
-# Het overzichtsrapport {#understanding-the-summary-report}
+# De [!UICONTROL Summary Report] {#understanding-the-summary-report}
 
-Het overzichtsrapport is een maandelijkse weergave van alle campagnes en aanbevolen prestaties van de inhoud. Het is gebaseerd op het aantal klikken en het aantal leads (direct of ondersteund) dat betrokken was bij de gepersonaliseerde campagne of aanbevolen inhoud en vervolgens een bekende lead werd. Het rapport vergelijkt de resultaten met de vorige maand.
+De [!UICONTROL Summary report] is een maandelijkse weergave van alle campagnes en aanbevolen inhoudsprestaties. Het is gebaseerd op het aantal klikken en het aantal leads (direct of ondersteund) dat betrokken was bij de gepersonaliseerde campagne of aanbevolen inhoud en vervolgens een bekende lead werd. Het rapport vergelijkt de resultaten met de vorige maand.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->Directe omzetting: Een webbezoeker die op een gepersonaliseerde campagne of aanbevolen inhoudsbron klikt en tijdens dezelfde sessie gaat verder met het invullen van elk formulier op de website met het e-mailadres.
+>Directe conversie: een webbezoeker die op een gepersonaliseerde campagne of aanbevolen inhoudsbron klikt en tijdens dezelfde sessie een formulier op de website invult met zijn e-mailadres.
 >
->Ondersteunde conversie: Een webbezoeker die elk formulier op de website invult en zijn e-mailadres verlaat, die tijdens een vorig bezoek (in de laatste zes maanden) op een gepersonaliseerde campagne of aanbevolen inhoudsbestand heeft geklikt.
+>Assisted Conversion: een webbezoeker die alle formulieren op de website invult en zijn e-mailadres verlaat, die tijdens een vorig bezoek (in de laatste zes maanden) op een gepersonaliseerde campagne of aanbevolen inhoudsbron klikte.
 
-Ga in Persoonlijke webweergave naar **Analyse** en **Samenvattingsrapport**.
+Ga in [!UICONTROL Web Personalization] naar **[!UICONTROL Analytics]** en **[!UICONTROL Summary Report]** .
 
 ![](assets/image2016-4-6-10-3a15-3a58.png)
 
-Selecteren **Maand** en klik op **Rapport tonen**.
+Selecteer **Maand** en klik **[!UICONTROL Show Report]**.
 
 ![](assets/2.png)
 
-Het eerste deel van het rapport heeft betrekking op Persoonlijke de campagnes en vertoningen van de Personalisering van het Web:
+Het eerste deel van het rapport heeft betrekking op Persoonlijke campagnes en vertoningen van Personalization van het Web:
 
-* **Klikken** - alle klikken op webpersonalisatiecampagnes
-* **Directe conversies** - alle bezoekers die tijdens het bezoek op een webpersonalisatiecampagne hebben geklikt en een formulier hebben ingevuld
-* **Directe conversiesnelheid** - het percentage bezoekers dat een directe lead werd nadat op een webpersonalisatiecampagne werd geklikt. Directe leads gedeeld door klikken
-* **Bijgewerkte conversies** - alle bezoekers die een formulier hebben ingevuld en tijdens een vorig bezoek (in de afgelopen zes maanden) op een webpersonalisatiecampagne hebben geklikt
-* **Tips** - tips voor het optimaliseren van de prestaties van uw webpersonalisatiecampagnes
-* **Bovenste campagnes** - de campagnes die tijdens de geselecteerde tijdsperiode het meest worden uitgevoerd, geordend door het aantal klikken
+* **[!UICONTROL Clicks]** - alle klikken op Personalization-campagnes op het web
+* **[!UICONTROL Direct Conversions]** - alle bezoekers die tijdens het bezoek op een Personalization-campagne op internet hebben geklikt en een formulier hebben ingevuld
+* **[!UICONTROL Direct Conversion Rate]** - Het percentage bezoekers dat een directe lead werd nadat ze op een Personalization-campagne op het web hadden geklikt. Directe leads gedeeld door klikken
+* **[!UICONTROL Assisted Conversions]** - alle bezoekers die een formulier hebben ingevuld en tijdens een vorig bezoek (in de afgelopen zes maanden) op een campagne voor Web Personalization hebben geklikt.
+* **[!UICONTROL Tip]** - Tips voor het optimaliseren van uw Personalization-campagneprestaties op internet
+* **[!UICONTROL Top Campaigns]** - de campagnes die het beste worden uitgevoerd tijdens de geselecteerde tijdsperiode, geordend door het aantal klikken
 
 ![](assets/3.png)
 
-Het tweede deel van het rapport heeft betrekking op Aanbevolen Inhoud van de motor van de inhoudaanbeveling van de Aanpassing van het Web. Het toont:
+Het tweede deel van het rapport heeft betrekking op Aanbevolen inhoud van de inhoud van Personalization van het Web adviseringsmotor. Het toont:
 
-* **Klikken** - klik op Web Personalization aanbevolen content
-* **Directe conversies** - alle bezoekers die tijdens hun bezoek op aanbevolen inhoud hebben geklikt en een formulier hebben ingevuld
-* **Directe conversiesnelheid** - het percentage bezoekers dat een directe lead werd nadat op aanbevolen inhoud werd geklikt. Directe leads gedeeld door klikken
-* **Bijgewerkte conversies** - alle bezoekers die een formulier hebben ingevuld en tijdens een vorig bezoek (in de afgelopen zes maanden) op aanbevolen inhoud hebben geklikt.
-* **Tips** - tips om te optimaliseren met de Content Recommendation Engine
-* **Top Recommendations** - de best presterende aanbevolen inhoud tijdens de geselecteerde tijdsperiode, geordend door het aantal klikken
+* **[!UICONTROL Clicks]** - klik allemaal op Web Personalization aanbevolen inhoud
+* **[!UICONTROL Direct Conversions]** - alle bezoekers die tijdens hun bezoek op aanbevolen inhoud hebben geklikt en een formulier hebben ingevuld
+* **[!UICONTROL Direct Conversion Rate]** - Het percentage bezoekers dat een directe lead werd nadat op aanbevolen inhoud werd geklikt. Directe leads gedeeld door klikken
+* **[!UICONTROL Assisted Conversions]** - alle bezoekers die een formulier hebben ingevuld en tijdens een vorig bezoek (in de afgelopen 6 maanden) op aanbevolen inhoud hebben geklikt.
+* **[!UICONTROL Tip]** - tips voor optimalisatie met de engine voor aanbevolen inhoud
+* **[!UICONTROL Top Recommendations]** - de best presterende aanbevolen inhoud tijdens de geselecteerde tijdsperiode, geordend door het aantal klikken
 
 >[!NOTE]
 >
->Met Marketo Web Personalization wordt het e-mailadres van de webbezoeker vastgelegd voor elk formulier dat op de website is ingevuld. Dit wordt bekeken in de pagina van de Leidingen van de Personalisatie van het Web en is de lood die in het Samenvattingsrapport wordt gebruikt.
+>Marketo Web Personalization legt het e-mailadres van de webbezoeker vast voor elk formulier dat op de website is ingevuld. Dit wordt bekeken in het Web Personalization Leads pagina en is de lood die in het Samenvattingsrapport wordt gebruikt.

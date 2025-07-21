@@ -4,9 +4,9 @@ description: Een systeemtoken toevoegen als een koppeling in een e-mail - Market
 title: Een systeemtoken toevoegen als een koppeling in een e-mailbericht
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ De volgende tokens kunnen als koppelingen in een e-mailsjabloon of e-mailsjabloo
 
 >[!NOTE]
 >
->Deze tokens **niet** kan worden geklikt, tenzij binnen een ankerkoppeling. Ze kunnen ook **niet** worden ingebed in Mijn Token.
+>Deze tokens zullen **niet** klikbaar zijn tenzij binnen een ankerverbinding. Ook, kunnen zij **niet** in Mijn Token worden ingebed.
 
 Hieronder wordt beschreven hoe u ze aan een e-mail kunt toevoegen:
 
-1. Zoek en selecteer uw e-mail en klik vervolgens op **Concept bewerken**.
+1. Zoek en selecteer uw e-mail en klik vervolgens op **[!UICONTROL Edit Draft]** .
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ Hieronder wordt beschreven hoe u ze aan een e-mail kunt toevoegen:
 
    ![](assets/two-1.png)
 
-1. Markeer de tekst die u wilt omzetten in een koppeling die het token bevat en klik op de knop **Koppeling invoegen/bewerken** knop.
+1. Markeer de tekst die u naar een koppeling wilt converteren die de token zal hebben en klik op de knop **[!UICONTROL Insert/Edit Link]** .
 
    ![](assets/three-1.png)
 
-1. Voer het token in de URL van de koppeling in en klik op **Invoegen**.
+1. Voer het token in de URL van de koppeling in en klik op **[!UICONTROL Insert]** .
 
    ![](assets/four-1.png)
 
@@ -47,16 +47,16 @@ Hieronder wordt beschreven hoe u ze aan een e-mail kunt toevoegen:
    >
    >Kopieer/plak de gewenste token: **`{{system.forwardToFriendLink}}`** of **`{{system.unsubscribeLink}}`** of **`{{system.viewAsWebpageLink}}`**
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 
 >[!IMPORTANT]
 >
->Als u deze benadering gebruikt om het &quot;viewAsWebpageLink&quot;systeemteken toe te voegen, kunt u **niet** Gebruik tokens om deze te negeren. Gebruik in plaats daarvan [Een koppeling Weergeven als webpagina toevoegen aan een e-mailbericht](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) aanpak waarmee u &quot;viewAsWebPageLink&quot; kunt negeren met behulp van tokens.
+>Als u deze benadering gebruikt om het &quot;viewAsWebpageLink&quot;systeemteken toe te voegen, kunt u **niet** het met behulp van tokens met voeten treden. In plaats daarvan, gebruik [ een Mening als Verbinding van de Pagina van het Web aan een e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) benadering toevoegen die u toestaat om &quot;viewAsWebPageLink&quot;met behulp van tokens met voeten te treden.
 
 >[!NOTE]
 >
->Vergeet niet om [uw e-mail goedkeuren](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) wanneer gereed.
+>Vergeet niet [ uw e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goed te keuren wanneer gedaan.
 
 Echt waar! Nu weet u hoe u een systeemtoken als een koppeling in een e-mail kunt toevoegen.

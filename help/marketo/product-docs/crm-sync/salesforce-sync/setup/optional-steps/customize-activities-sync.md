@@ -4,9 +4,9 @@ description: Activiteitssynchronisatie aanpassen - Marketo-documenten - productd
 title: Activiteiten synchroniseren aanpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -48,51 +48,51 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo Engage Salesforce Activit
  </thead> 
  <tbody> 
   <tr> 
-   <td>Formulier invullen</td> 
+   <td>[!UICONTROL Filled out form]</td> 
    <td>Alle Marketo-formulieren invullen</td> 
   </tr> 
   <tr> 
-   <td>Toegevoegd aan lijst</td> 
+   <td>[!UICONTROL Added to list]</td> 
    <td><p>Stroom stap: is toegevoegd aan een statische lijst</p></td> 
   </tr> 
   <tr> 
-   <td>E-mail verzonden</td> 
+   <td>[!UICONTROL Email sent]</td> 
    <td>Stroom: is een e-mail verzonden</td> 
   </tr> 
   <tr> 
-   <td>E-mail bezorgd</td> 
+   <td>[!UICONTROL Email delivered]</td> 
    <td>Een e-mail ontvangen (niet teruggestort)</td> 
   </tr> 
   <tr> 
-   <td>E-mail geopend</td> 
+   <td>[!UICONTROL Email opened]</td> 
    <td>Een e-mail geopend (zonder afbeeldingen te blokkeren)</td> 
   </tr> 
   <tr> 
-   <td>Op koppeling in e-mail klikken</td> 
+   <td>[!UICONTROL Clicked link in email]</td> 
    <td>Klik op een koppeling in een e-mailbericht van Marketo</td> 
   </tr> 
   <tr> 
-   <td>Verwijderd uit lijst</td> 
+   <td>[!UICONTROL Removed from list]</td> 
    <td>Stroom stap: is verwijderd uit een statische lijst</td> 
   </tr> 
   <tr> 
-   <td>Verwijderen uit stroom</td> 
+   <td>[!UICONTROL Remove from flow]</td> 
    <td>Stroom stap: verwijderen uit stroom</td> 
   </tr> 
   <tr> 
-   <td>Verkoopemail verzonden</td> 
+   <td>[!UICONTROL Sales email sent]</td> 
    <td>Is per e-mail verzonden via Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Verkoopbericht geopend</td> 
+   <td>[!UICONTROL Sales email opened]</td> 
    <td>Open een e-mail die via Marketo Sales Insight is verzonden</td> 
   </tr> 
   <tr> 
-   <td>Klik op de koppeling in het e-mailbericht voor verkopen</td> 
+   <td>[!UICONTROL Click link in sales email]</td> 
    <td>Klik op een koppeling in een e-mailbericht dat via Marketo Sales Insight is verzonden</td> 
   </tr> 
   <tr> 
-   <td>Verkoopbericht ontvangen</td> 
+   <td>[!UICONTROL Sales email received]</td> 
    <td>Een e-mail werd ontvangen en door de Verkoper in de Insteekmodule van Vooruitzichten MSI geregistreerd</td> 
   </tr> 
  </tbody> 
@@ -104,4 +104,4 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo Engage Salesforce Activit
 
 >[!TIP]
 >
->Als u in het krijgen van meer informatie van Marketo in Salesforce geinteresseerd bent, controleer ons [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} product van de Verkoop Insight van 0&rbrace; Marketo.
+>Als u in het krijgen van meer informatie van Marketo in Salesforce geinteresseerd bent, controleer ons [ product van de Verkoop Insight van 0} Marketo.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

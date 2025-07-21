@@ -4,7 +4,7 @@ description: Overzicht van Live Feed - Marketo Docs - Productdocumentatie
 title: Overzicht van Live feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -48,7 +48,7 @@ Filter op vandaag, morgen, vandaag *en* morgen, of volgende 7 dagen.
 >
 >U kunt het filter Aangepaste datum niet gebruiken in Live feed, maar wel in de webtoepassing.
 
-Gebruik snelle actieknoppen om snel een vraag te maken, een e-mail te verzenden, of aan het Aaneengeschakelde profiel van een persoon te navigeren.
+Met de knoppen voor snelle actie kunt u snel een oproep doen, een e-mail verzenden of naar het profiel [!DNL Linkedin] van een persoon navigeren.
 
 ## Doeltabblad {#target-tab}
 
@@ -58,7 +58,7 @@ Zie de bovenste mensen (geordend van het hoogste naar het laagste) op basis van 
 
 * Leads worden gegenereerd wanneer de persoon in Marketo een hogere score geeft.
 * We laten de top 50 zien.
-* U zult alleen de mensen zien die in Salesforce aan u zijn toegewezen.
+* U ziet alleen de personen die aan u zijn toegewezen in [!DNL Salesforce] .
 
 ## Woordenlijst met pictogrammen {#icon-glossary}
 
@@ -71,28 +71,28 @@ Zie de bovenste mensen (geordend van het hoogste naar het laagste) op basis van 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Iemand heeft uw e-mail bekeken</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Iemand heeft op een koppeling in uw e-mail geklikt</p></td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td><p>Iemand heeft uw e-mail beantwoord</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
     </div></td> 
    <td colspan="1">Alle meldingen die worden vermeld onder Interesserende momenten, inclusief e-mail, internet en mijlpalen</td> 
   </tr> 

@@ -4,47 +4,47 @@ description: Positie formulierlabel wijzigen - Marketo Docs - Productdocumentati
 title: Positie van formulierlabel wijzigen
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 1%
 
 ---
 
 # Positie van formulierlabel wijzigen {#change-form-label-position}
 
-Wanneer [een formulier maken](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)U kunt de positie van de formulierveldlabels heel eenvoudig wijzigen. Zo gaat het.
+Wanneer [ creërend een vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), kunt u het plaatsen van de etiketten van het vormgebied zeer gemakkelijk veranderen. Zo gaat het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Selecteren **Instellingen**.
+1. Selecteer **[!UICONTROL Settings]** .
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selecteer **Positie van label** wilt u.
+1. Selecteer de **[!UICONTROL Label Position]** die u wilt.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
    U hebt momenteel twee opties:
 
-   * Links (standaard)
-   * Boven
+   * [!UICONTROL Left] (standaardwaarde)
+   * [!UICONTROL Above]
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >
-   >Het formulier moet zijn goedgekeurd voor gebruik op de aanlandingspagina&#39;s.
+   >Het formulier moet zijn goedgekeurd voor gebruik op de aanvoerpagina&#39;s.
 
    ![](assets/image2014-9-15-16-3a17-3a12.png)
 
@@ -56,4 +56,4 @@ Goed gedaan! Zie hoe eenvoudig het was om de labelposities op een formulier te w
 
 >[!MORELIKETHIS]
 >
->[De lettertypefamilie van het formulier wijzigen](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[ verander de Familie van de Doopvont van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

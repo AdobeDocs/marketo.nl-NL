@@ -1,19 +1,19 @@
 ---
 unique-page-id: 17727499
-description: Werkruimten in webpersonalisatie - Marketo Docs - Productdocumentatie
-title: Werkruimten in webpersonalisatie
+description: Werkruimten in Web Personalization - Marketo Docs - Productdocumentatie
+title: Werkruimten in Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Werkruimten in webpersonalisatie {#workspaces-in-web-personalization}
+# Werkruimten in [!UICONTROL Web Personalization] {#workspaces-in-web-personalization}
 
-De Personalisering van het Web steunt veelvoudige werkruimten voor Webcampagnes en Websegmenten.
+[!UICONTROL Web Personalization] ondersteunt meerdere werkruimten voor webcampagnes en websegmenten.
 
 ## Werkruimten wisselen {#switch-workspaces}
 
@@ -21,13 +21,13 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 ![](assets/ss7.png)
 
-## De werkruimte van een segment wijzigen {#change-a-segments-workspace}
+## Workspace van een segment wijzigen {#change-a-segments-workspace}
 
-1. Ga naar de **Segmenten** selecteert u een segment en klikt u op het pictogram Bewerken.
+1. Ga naar de pagina **[!UICONTROL Segments]** , selecteer een segment en klik op het pictogram Bewerken.
 
    ![](assets/ss4.png)
 
-1. Selecteer een andere werkruimte in het menu **Werkruimte** vervolgkeuzelijst.
+1. Selecteer een andere werkruimte in de vervolgkeuzelijst **[!UICONTROL Workspace]** .
 
    ![](assets/ss6.png)
 
@@ -35,4 +35,4 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 >[!NOTE]
 >
->Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Dit is hoe te [een gebruiker toegang geven tot een of meer werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hier is hoe te [ een gebruikerstoegang tot één of meerdere werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md) geven.

@@ -4,9 +4,9 @@ description: Een segment maken met behulp van bekende persoonlijke gegevens - Ma
 title: Een segment maken met bekende persoongegevens
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
 >[!PREREQUISITES]
 >
->[Persoonlijke gegevens beheren](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
+>[ beheert Persoonsgegevens ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. Ga naar **Segmenten**.
+1. Ga naar **[!UICONTROL Segments]** .
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klikken **Nieuw maken**.
+1. Klik op **[!UICONTROL Create New]**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Sleep in Profielsegmentatie **Database** naar het canvas.
+1. Sleep **[!UICONTROL Database]** in Profielsegmentatie over naar het canvas.
 
    ![](assets/four-1.png)
 
@@ -49,15 +49,15 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
 ## Meerdere gegevensvelden selecteren {#selecting-multiple-person-data-fields}
 
-1. Klikken **+** om een gegevensveld voor een andere persoon toe te voegen.
+1. Klik op **+** om een ander gegevensveld voor personen toe te voegen.
 
    ![](assets/eight.png)
 
-1. Selecteer de operator AND/OR. Selecteer het veld dat u wilt toevoegen. Selecteer een gegevensveld voor een persoon. Voer de waarde van de persoonlijke gegevens in.
+1. Selecteer de operator [!UICONTROL AND]/[!UICONTROL OR] . Selecteer het veld dat u wilt toevoegen. Selecteer een gegevensveld voor een persoon. Voer de waarde van de persoonlijke gegevens in.
 
    ![](assets/nine.png)
 
-1. Klikken **Opslaan** om het segment op te slaan of **Campagne opslaan en definiëren** om op te slaan en naar de pagina Campagnes te gaan.
+1. Klik op **[!UICONTROL Save]** om het segment op te slaan of op **[!UICONTROL Save & Define Campaign]** om het op te slaan en naar de [!UICONTROL Campaigns] -pagina te gaan.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

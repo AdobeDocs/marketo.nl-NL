@@ -4,10 +4,10 @@ description: Vulling van sociaal formulier uitschakelen - Marketo Docs - Product
 title: Vulling van sociaal formulier uitschakelen
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 2%
 
 ---
 
@@ -19,15 +19,15 @@ Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal 
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Onder Formulierinstellingen klikt u op **Instellingen**.
+1. Klik onder [!UICONTROL Form Settings] op **[!UICONTROL Settings]** .
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -35,11 +35,11 @@ Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal 
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

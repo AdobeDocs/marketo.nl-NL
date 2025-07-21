@@ -4,9 +4,9 @@ description: Persoonlijke accounts gebruiken - Marketo Docs - Productdocumentati
 title: Persoonlijke accounts gebruiken
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Persoonlijke accounts kunnen in Salesforce worden ingesteld om aan de behoeften 
 
 >[!NOTE]
 >
->De standaardrekeningen van Salesforce zijn bedrijfsrekeningen. Uw Salesforce-beheerder moet persoonlijke accounts afzonderlijk instellen.
+>De standaard [!DNL Salesforce] -accounts zijn zakelijke accounts. Uw [!DNL Salesforce] Admin moet persoonaccounts afzonderlijk instellen.
 
 ## Wat is een persoonaccount? {#what-is-a-person-account}
 
-Een persoonaccount lijkt sterk op het rekeningobject in Salesforce. Een persoonlijke account heeft echter toegang tot zowel accountvelden als contactvelden.
+Een persoonaccount lijkt sterk op het rekeningobject in [!DNL Salesforce] . Een persoonlijke account heeft echter toegang tot zowel accountvelden als contactvelden.
 
 ## Wat gebeurt er als een persoonaccount wordt gesynchroniseerd met Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -35,13 +35,13 @@ Een persoonaccount wordt als bedrijf en als persoon gesynchroniseerd met Marketo
 
 Gebruik het filter &quot;Is Persoonlijke Rekening&quot;in uw Slimme Lijst om persoonrekeningen van standaardbedrijfsrekeningen te scheiden.
 
-## Waar wordt de informatie van mijn persoonlijke accounts weergegeven in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
+## Waar wordt informatie over mijn persoonlijke accounts weergegeven in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-De activiteiten met betrekking tot persoonrekeningen worden weergegeven in de **[!UICONTROL Account]** deelvenster.
+Activiteiten met betrekking tot persoonaccounts worden weergegeven in het deelvenster **[!UICONTROL Account]** .
 
 >[!NOTE]
 >
->Marketo Sales Insight **[!UICONTROL Add to Marketo Campaign]** en **[!UICONTROL Send Email]** er zijn momenteel geen opties beschikbaar voor persoonlijke accounts.
+>De opties Marketo Sales Insight **[!UICONTROL Add to Marketo Campaign]** en **[!UICONTROL Send Email]** zijn momenteel niet beschikbaar voor persoonlijke accounts.
 
 ## Hoe associeer ik kansen aan een persoonrekening? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo is afhankelijk van de rol van het opportuniteitcontact om te bepalen aan
 
 ## Welk e-mailveld moet ik gebruiken voor persoonaccounts? {#which-email-field-should-i-use-for-person-accounts}
 
-Er zijn twee e-mailvelden voor een persoonaccount. Gebruik de **E-mailadres** in uw formulieren (niet de **E-mailadres persoon**) om ervoor te zorgen dat Marketo-deduplicatie en andere e-mailverwerking correct werken.
+Er zijn twee e-mailvelden voor een persoonaccount. Gebruik het veld **[!UICONTROL Email Address]** in uw formulieren (niet in de **[!UICONTROL Person Email Address]** ) om ervoor te zorgen dat Marketo-deduplicatie en andere e-mailverwerking correct werken.

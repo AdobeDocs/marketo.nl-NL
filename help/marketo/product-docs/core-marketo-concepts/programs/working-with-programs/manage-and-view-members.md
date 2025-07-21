@@ -4,9 +4,9 @@ description: Leden beheren en weergeven - Marketo Docs - Productdocumentatie
 title: Leden beheren en weergeven
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ U kunt uw leden in uw programma&#39;s beheren en bekijken gebruikend het lusje v
 
 >[!NOTE]
 >
->Dieper doordringen in [programmalidmaatschap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Dive dieper in [ programmalidmaatschap ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Zoeken naar een lid {#search-for-a-member}
 
 Onder aan de sectie Leden gebruikt u het zoekveld om te zoeken naar de leden van het programma op naam, e-mail, functie of bedrijf.
 
-1. Klik op de knop **[!UICONTROL Members]** van uw programma.
+1. Klik op het tabblad **[!UICONTROL Members]** van uw programma.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,7 +33,7 @@ Onder aan de sectie Leden gebruikt u het zoekveld om te zoeken naar de leden van
 
 ## Het raster Leden exporteren {#export-the-members-grid}
 
-U kunt de lijst met leden exporteren door op het Excel-pictogram naast het zoekveld te klikken.
+U kunt de lijst met leden exporteren door op het pictogram [!DNL Excel] naast het zoekveld te klikken.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
@@ -49,11 +49,11 @@ Klik met de rechtermuisknop op de kolomkop om alfabetisch te sorteren, in oplope
 
 ## Kies welke kolommen zichtbaar zijn in het raster {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klik op de knop **[!UICONTROL View]** vervolgkeuzelijst en selecteer **[!UICONTROL Create View]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL Create View]** .
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Geef de aangepaste weergave een naam. Selecteer kolomtitels. Klikken **[!UICONTROL Add]** en **[!UICONTROL Remove]** om kolommen te verplaatsen en een weergave te maken.
+1. Geef de aangepaste weergave een naam. Selecteer kolomtitels. Klik op **[!UICONTROL Add]** en **[!UICONTROL Remove]** om kolommen te verplaatsen en een weergave te maken.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -63,7 +63,7 @@ Klik met de rechtermuisknop op de kolomkop om alfabetisch te sorteren, in oplope
 
 ## Het raster Leden filteren  {#filter-the-members-grid}
 
-1. Klik op de knop **[!UICONTROL Filter]** en selecteer een progressiestatus waarop u wilt sorteren.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Filter]** en selecteer een progressiestappen waarop u wilt sorteren.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Klik met de rechtermuisknop op de kolomkop om alfabetisch te sorteren, in oplope
 
 U kunt de status van de personen in het ledenraster wijzigen.
 
-1. Onderdrukken **[!UICONTROL Ctrl/Cmd]** en selecteert u de personen.
+1. Houd **[!UICONTROL Ctrl/Cmd]** ingedrukt en selecteer de personen.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klik op de knop **[!UICONTROL Change Status]** en selecteer een status.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Change Status]** en selecteer een status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
@@ -87,4 +87,4 @@ Zoveel functies, maar ze zijn allemaal vrij eenvoudig. Veel plezier!
 
 >[!MORELIKETHIS]
 >
->[Een voortgangsrapport voor het programma maken](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[ creeer een Rapport van de Prestaties van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

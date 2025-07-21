@@ -1,29 +1,29 @@
 ---
 unique-page-id: 17728028
-description: "Toevoegen [!DNL Zoom] als [!DNL LaunchPoint] Service - Marketo Docs - Productdocumentatie"
-title: "Toevoegen [!DNL Zoom] als [!DNL LaunchPoint] Service"
+description: Voeg  [!DNL Zoom]  toe als a [!DNL LaunchPoint]  Dienst - de Documentatie van Marketo - de Documentatie van het Product
+title: Voeg  [!DNL Zoom]  als a [!DNL LaunchPoint]  Dienst toe
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 
-# Toevoegen [!DNL Zoom] als [!DNL LaunchPoint] Service {#add-zoom-as-a-launchpoint-service}
+# [!DNL Zoom] toevoegen als een [!DNL LaunchPoint] -service {#add-zoom-as-a-launchpoint-service}
 
-Marketo beheert uw [!DNL Zoom] registratie en aanwezigheid.
-
->[!NOTE]
->
->**Beheerdersmachtigingen vereist**
+Marketo beheert uw registratie en aanwezigheid van [!DNL Zoom] .
 
 >[!NOTE]
 >
->Een bestaand abonnement op [!DNL Zoom] en voor deze stap zijn administratieve rechten nodig. E-mail en wachtwoord hebben waarmee u zich kunt aanmelden [!DNL Zoom] aan de hand.
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+>[!NOTE]
+>
+>Voor deze stap zijn een bestaand abonnement op [!DNL Zoom] en beheerrechten vereist. U moet het e-mailadres en het wachtwoord hebben waarmee u zich aanmeldt bij [!DNL Zoom].
+
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
@@ -31,11 +31,11 @@ Marketo beheert uw [!DNL Zoom] registratie en aanwezigheid.
 
    ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. Selecteren **[!UICONTROL New]** en vervolgens **[!UICONTROL New Service]**.
+1. Selecteer **[!UICONTROL New]** en vervolgens **[!UICONTROL New Service]** .
 
    ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. Voer een **[!UICONTROL Display Name]**. Selecteer onder **[!UICONTROL Service]** de optie **[!UICONTROL Zoom]**.
+1. Voer een **[!UICONTROL Display Name]** in. Selecteer onder **[!UICONTROL Service]** de optie **[!UICONTROL Zoom]** .
 
    ![](assets/add-zoom-as-a-launchpoint-service-4.png)
 
@@ -43,20 +43,20 @@ Marketo beheert uw [!DNL Zoom] registratie en aanwezigheid.
 
    ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
-1. In de [!DNL Zoom] aanmeldingsvenster, voer uw [!DNL Zoom] referenties en klik op **[!UICONTROL Sign in]**.
+1. Voer in het aanmeldvenster van [!DNL Zoom] uw [!DNL Zoom] referenties in en klik op **[!UICONTROL Sign in]** .
 
    ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** nadat het venster is gesloten.
 
    ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
-Uw [!DNL Zoom] account is nu gesynchroniseerd met Marketo en is te vinden in de [!UICONTROL LaunchPoint] gebied.
+Uw [!DNL Zoom] -account is nu gesynchroniseerd met Marketo en bevindt zich in het [!UICONTROL LaunchPoint] -gebied.
 
 >[!CAUTION]
 >
->Wanneer u uw wachtwoord bijwerkt in Zoomen, moet u uw wachtwoord ook in Marketo bijwerken.
+>Wanneer u uw wachtwoord bijwerkt in [!DNL Zoom] , moet u uw wachtwoord ook in Marketo bijwerken.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [een gebeurtenis maken met [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Leer hoe te om [ een gebeurtenis met  [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) tot stand te brengen.

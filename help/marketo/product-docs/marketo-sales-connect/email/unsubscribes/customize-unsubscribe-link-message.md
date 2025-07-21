@@ -4,9 +4,9 @@ description: Abonnementsbericht voor een koppeling aanpassen - Marketo Docs - Pr
 title: Bericht voor opzeggen van koppeling aanpassen
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 >[!NOTE]
 >
->U kunt een derdeunsubscribe-koppeling met Sales Connect niet gebruiken omdat deze gegevens niet opnieuw in onze database worden vastgelegd.
+>U kunt een derdeunsubscribe-koppeling met [!DNL Sales Connect] niet gebruiken omdat deze informatie niet opnieuw in onze database wordt vastgelegd.
 
 ## Overseinen aanpassen voor uzelf {#customize-messaging-for-yourself}
 
-1. Aanmelden bij de [webtoepassing](https://toutapp.com/login)klikt u op het tandwielpictogram rechtsboven en kiest u **Instellingen**.
+1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **Abonnementen opzeggen**.
+1. Selecteer onder [!UICONTROL My Account] de optie **[!UICONTROL Unsubscribes]** .
 
    ![](assets/two-1.png)
 
-1. Schrijf uw douaneoverseinen in het tekstvakje uit.
+1. Schrijf uw aangepast bericht in het tekstvak uit.
 
    ![](assets/three-1.png)
 
@@ -41,24 +41,24 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
    >
    >Het maakt niet uit wat de URL is die aan hyperlinks wordt gekoppeld. Wanneer het e-mailbericht wordt verzonden, wordt die hyperlink geconverteerd naar onze afmeldingskoppeling.
 
-1. Klikken **OK**.
+1. Klik op **[!UICONTROL OK]**.
 
    ![](assets/five.png)
 
 ## Abonnementsberichten voor uw team instellen {#set-unsubscribe-messaging-for-your-team}
 
-1. Aanmelden bij de [webtoepassing](https://toutapp.com/login)klikt u op het tandwielpictogram rechtsboven en kiest u **Instellingen**.
+1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/six.png)
 
-1. Selecteer onder Beheerinstellingen de optie **Abonnementen opzeggen**.
+1. Selecteer onder [!UICONTROL Admin Settings] de optie **[!UICONTROL Unsubscribes]** .
 
    ![](assets/eight.png)
 
-1. Pas uw overseinen aan en klik **Opslaan** wanneer gereed.
+1. Pas uw overseinen aan en klik **[!UICONTROL Save]** wanneer gedaan.
 
    ![](assets/seven.png)
 
-1. Selecteren **Ik plaats het standaardoverseinen voor mijn team** om het overseinen op alle gebruikers van toepassing te hebben.
+1. Selecteer **[!UICONTROL I am setting the default messaging for my team]** als u het bericht op alle gebruikers wilt toepassen.
 
    ![](assets/eleven.png)

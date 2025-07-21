@@ -4,9 +4,9 @@ description: Inhoud toevoegen aan een stream - Marketo Docs - Productdocumentati
 title: Inhoud toevoegen aan een stream
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de stream(s). U kunt e-mails of programma&#39;s aan een stream toevoegen.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Selecteer uw serviceprogramma en ga naar de **Streams** tab.
+1. Selecteer uw betrokkenheidsprogramma en ga naar de tab **[!UICONTROL Streams]** .
 
    ![](assets/add-content-to-a-stream-2.png)
 
    U kunt inhoud op twee verschillende manieren toevoegen:
 
-**Knop Inhoud toevoegen**
+**voeg de Knoop van de Inhoud** toe
 
-1. Klik op de knop **Inhoud toevoegen** knop.
+1. Klik op **[!UICONTROL Add Content]** .
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Kies **E-mail** _of_ **Programma** Selecteer vervolgens het e-mailbericht of de programma-/slimme campagne die u wilt toevoegen.
+1. Kies **[!UICONTROL Email]** _of_ **[!UICONTROL Program]**, dan selecteer e-mail of programma/slimme campagne u wilt toevoegen.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -41,16 +41,16 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 **+ Pictogram**
 
-1. Klik op de knop **+** pictogram, kies **E-mail** _of_ **Programma** Selecteer vervolgens het e-mailbericht of de programma-/slimme campagne die u wilt toevoegen.
+1. Klik **+** pictogram, kies **[!UICONTROL Email]** _of_ **[!UICONTROL Program]**, dan selecteer e-mail of programma/slimme campagne u wilt toevoegen.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Een slimme campagne moet de **Lid van het betrokkenheidsprogramma** voor het juiste functioneren.
+   >Een slimme campagne moet het filter **[!UICONTROL Member of Engagement Program]** bevatten om het behoorlijk te werken.
 
 Geweldig werk! U weet nu hoe u inhoud kunt toevoegen aan uw programmastromen. Voeg zoveel toe als u nodig hebt voor uw verzorging. Zie het verwante artikel hieronder voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->[Een programma toevoegen aan een betrokkenheidsprogramma](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[ Toevoegend een Programma aan een Stream van het Programma van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

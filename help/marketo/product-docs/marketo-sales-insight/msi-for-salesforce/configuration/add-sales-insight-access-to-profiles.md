@@ -1,82 +1,82 @@
 ---
-description: Toegang tot profielen van verkoopinzicht toevoegen - Marketo-documenten - Productdocumentatie
-title: Toegang tot verkoopinzicht toevoegen aan profielen
+description: Verkoop Insight Access toevoegen aan profielen - Marketo Docs - Productdocumentatie
+title: Insight-toegang voor verkoop toevoegen aan profielen
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# Toegang tot verkoopinzicht toevoegen aan profielen {#add-sales-insight-access-to-profiles}
+# [!DNL Sales Insight] Toegang tot profielen toevoegen {#add-sales-insight-access-to-profiles}
 
-Hier is hoe te om een profiel met toegang tot het Inzicht van de Verkoop te creëren terwijl het verwijderen van toegang voor uw andere profielen. Dit is voor gebruikers die de [AppExchange-pakket voor verkoopinzicht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Hieronder wordt beschreven hoe u een profiel maakt met toegang tot [!DNL Sales Insight] terwijl u de toegang voor andere profielen verwijdert. Dit is voor gebruikers die reeds het [[!DNL Sales Insight]  pakket van AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
 
 >[!IMPORTANT]
 >
->Als u al eerder toegang hebt verleend tot alle profielen via Verkoopcontrole, moet u [toegang tot profielniveau verwijderen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} om deze rechtenset te gebruiken.
+>Als u eerder [!DNL Sales Insight] toegang tot alle profielen hebt verleend, moet u [ de toegang van het profielniveau ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze toestemmingsreeks te gebruiken.
 
-## Een nieuw profiel voor Verkoopinzicht maken {#create-a-new-profile-for-sales-insight}
+## Een nieuw profiel maken voor [!DNL Sales Insight] {#create-a-new-profile-for-sales-insight}
 
-Als u een specifiek profiel voor uw gebruikers van het Inzicht van de Verkoop hebt, kunt u deze stap overslaan.
+Als u een specifiek profiel voor uw [!DNL Sales Insight] -gebruikers hebt, kunt u deze stap overslaan.
 
-1. Ga in Salesforce naar de pagina Setup.
+1. Ga in [!DNL Salesforce] naar de pagina Setup.
 
-1. Zoek naar profielen in Snelle Vondst en selecteer **Profiel** optie.
+1. Zoek naar profielen in Snelle Vondst en selecteer de **[!UICONTROL Profile]** optie.
 
-1. Klik op de knop **Nieuw profiel** boven aan de pagina.
+1. Klik op de knop **[!UICONTROL New Profile]** boven aan de pagina.
 
-1. Kies een profiel om te klonen en geef het een naam (bijv. Gebruiker van het Inzicht van de Verkoop).
+1. Kies een profiel om te klonen en geef dit een naam (bijvoorbeeld Insight-gebruiker verkopen).
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klik op **[!UICONTROL Save]** als u klaar bent.
 
-## Machtigingen voor verkoopinzicht toevoegen {#add-sales-insight-permissions}
+## [!DNL Sales Insight] Machtigingen toevoegen {#add-sales-insight-permissions}
 
-1. Ga terug naar uw profiellijst.
+1. Ga terug naar de lijst met profielen.
 
-1. Klik op de knop **Bewerken** een koppeling maken voor het nieuwe profiel dat u zojuist hebt gemaakt (of een ander bestaand profiel waaraan u toegang tot Sales Insight wilt geven).
+1. Klik op de koppeling **[!UICONTROL Edit]** voor het nieuwe profiel dat u zojuist hebt gemaakt (of op een ander bestaand profiel dat u [!DNL Sales Insight] toegang wilt geven).
 
 1. Op de bewerkingspagina moet u een aantal instellingen wijzigen.
 
-   **Voor profielen die toegang hebben tot Verkoopoverzicht**:
+   **voor profielen die toegang worden verleend[!DNL Sales Insight]**:
 
    * Wijzig in Tabinstellingen de Marketo-tabbladen in Standaard ingeschakeld
-   * Schakel in Aangepaste objectmachtigingen de optie Lezen, Maken, Bewerken en Verwijderen in Marketo Sales Insight Config in (als de gebruiker toegang moet hebben tot de configuratie-instellingen - doorgaans wordt gebruikt voor Admins).
+   * In de Toestemmingen van de Objecten van de Douane, controleer Gelezen, creeer, geef uit, en schrap [!DNL Marketo Sales Insight] Config (als de gebruiker toegang tot de config montages zou moeten hebben - typisch gebruikt voor Admins)
 
-   **Voor profielen die geen toegang tot Verkoopinzicht hebben**:
+   **voor profielen die geen toegang tot[!DNL Sales Insight]** worden toegestaan:
 
-   * Wijzig in Tabinstellingen de tabbladen van Marketo in Tabblad Verborgen
-   * Schakel in Aangepaste objectmachtigingen de optie Lezen, Maken, Bewerken en Verwijderen uit in Marketo Sales Insight Config
+   * Wijzig in Tabinstellingen de tabbladen van Marketo in Tabblad Hidden
+   * Schakel in Aangepaste objectmachtigingen de optie Lezen, Maken, Bewerken en Verwijderen uit in [!DNL Marketo Sales Insight] Configuratie
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klik op **[!UICONTROL Save]** als u klaar bent.
 
-## Lay-out maken voor Verkoopoverzicht {#create-layout-for-sales-insight}
+## Lay-out maken voor [!DNL Sales Insight] {#create-layout-for-sales-insight}
 
-1. Ga naar de pagina van de Opstelling, dan klik **App-instelling** > **Aanpassen** > **Leads** > **Pagina-indelingen**. Klik vervolgens op de knop **Nieuw** knop.
+1. Ga naar de pagina Setup en klik vervolgens op **[!UICONTROL App Setup]** > **[!UICONTROL Customize]** > **[!UICONTROL Leads]** > **[!UICONTROL Page Layouts]** . Klik vervolgens op de knop **[!UICONTROL New]** .
 
-1. Kloont uw lay-out en geeft de lay-out een geschikte naam (bijvoorbeeld: Inzichtsindeling van verkoop).
+1. Kloont de lay-out en geef de lay-out een geschikte naam (bijvoorbeeld Verkoopindeling Insight).
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klik op **[!UICONTROL Save]** als u klaar bent.
 
-1. Herhaal deze stappen voor de paginalay-outs Contacten, Opportunity en Accounts.
+1. Herhaal deze stappen voor de paginalay-outs [!UICONTROL Contacts] , [!UICONTROL Opportunities] en [!UICONTROL Accounts] .
 
 ## Profiel toewijzen aan layout {#assign-profile-to-layout}
 
-1. Ga terug naar de sectie Pagina-indelingen en klik op de knop **Toewijzing paginalayout** knop.
+1. Ga terug naar de sectie Pagina-indelingen en klik op de knop **[!UICONTROL Page Layout Assignment]** .
 
-1. Selecteren **Toewijzing bewerken**.
+1. Selecteer **[!UICONTROL Edit Assignment]** .
 
-1. Selecteer uw profiel van het Inzicht van de Verkoop van de lijst, dan selecteer uw lay-out van het inzicht van de Verkoop van de &quot;Uitgezochte Indeling van de Pagina&quot;drop-down.
+1. Selecteer uw [!DNL Sales Insight] profiel van de lijst, dan selecteer uw [!DNL Sales insight] lay-out van &quot;[!UICONTROL Select Page Layout]&quot;drop-down.
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klik op **[!UICONTROL Save]** als u klaar bent.
 
-1. Herhaal deze stappen voor de paginalay-outs Contacten, Opportunity en Accounts.
+1. Herhaal deze stappen voor de paginalay-outs [!UICONTROL Contacts] , [!UICONTROL Opportunities] en [!UICONTROL Accounts] .
 
 ## Overige wijzigingen {#other-changes}
 
-Hier zijn een paar andere plaatsen waar de voorwerpen van het Inzicht van de Verkoop zouden kunnen verschijnen. U moet ze rechtstreeks verwijderen omdat u geen profielen kunt gebruiken om de toegang te beperken tot:
+Hier zijn enkele andere plaatsen waar [!DNL Sales Insight] -items kunnen worden weergegeven. U moet ze rechtstreeks verwijderen omdat u geen profielen kunt gebruiken om de toegang te beperken tot:
 
-* De knoppen Verkoopinzicht verwijderen uit de zoekindelingen voor contactpersonen, leads en accounts
-* De kolommen van het Inzicht van de Verkoop van Contact en Leidingslijsten verwijderen
+* Verwijder [!DNL Sales Insight] -knoppen uit Zoekindelingen voor [!UICONTROL Contacts] , [!UICONTROL Leads] en [!UICONTROL Accounts]
+* [!DNL Sales Insight] kolommen verwijderen uit lijst met contactpersonen en leads

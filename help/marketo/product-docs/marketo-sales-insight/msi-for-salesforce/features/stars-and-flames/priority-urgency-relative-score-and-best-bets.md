@@ -4,16 +4,16 @@ description: Prioriteit, Urgentie, Relatieve Score en Beste Bets - Marketo Docs 
 title: Prioriteit, Urgentie, Relatieve Score en Beste Bets
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
-# Prioriteit, Urgentie, Relatieve Score en Beste Bets {#priority-urgency-relative-score-and-best-bets}
+# Prioriteit, Urgentie, Relatieve score en [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight toont uw beste leads en contactpersonen op basis van hun prioriteit. De prioriteit van een lead of contactpersoon bestaat uit twee componenten: urgentie en relatieve score.
+[!DNL Marketo Sales Insight] kiest uw beste leads en contactpersonen op basis van hun prioriteit. De prioriteit van een lead of contactpersoon bestaat uit twee componenten: urgentie en relatieve score.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -21,11 +21,11 @@ Deze zijn afgeleid van de leadscore — een maat voor de interesse van de persoo
 
 >[!NOTE]
 >
->U hebt verschillende scoring campagnes nodig om de volledige waarde van prioriteit, urgentie en relatieve score te verkrijgen.  Met te weinig of geen scorecampagnes, zullen deze gebieden niet nuttig zijn.
+>U hebt verschillende scores-campagnes nodig om de volledige waarde van prioriteit, urgentie en relatieve score te verkrijgen.  Met te weinig of geen scorecampagnes, zullen deze gebieden niet nuttig zijn.
 
 ## Urgentie {#urgency}
 
-De vlammen geven urgentie aan — hoeveel de hoofdscore van deze persoon de laatste tijd is veranderd. Een hoge urgentie (meer vlammen) betekent dat de score van deze lead de laatste tijd veel is gestegen; het is een goed teken dat deze lead geïnteresseerd is in je aanbieding . Je moet snel opvolgen met deze persoon!
+De vlammen geven urgentie aan — hoeveel de hoofdscore van deze persoon de laatste tijd is veranderd. Een hoge urgentie (meer vlammen) betekent dat de score van deze lead de laatste tijd veel is gestegen. Het is een goed teken dat deze lead geïnteresseerd is in je aanbod. Je moet snel opvolgen met deze persoon!
 
 Een lead die bijvoorbeeld een demo heeft aangevraagd en verschillende webpagina&#39;s heeft bezocht, zal waarschijnlijk een zeer hoge urgentie hebben. Een lead die uw webpagina niet heeft bezocht of die uw e-mails niet heeft geopend, heeft een lage urgentie. Gebruik de urgentie om te bepalen wie als volgende moet worden benaderd.
 
@@ -37,13 +37,13 @@ De sterren vertegenwoordigen de relatieve score — een maat voor hoe de leadsco
 
 Als twee leiders de zelfde urgentie hebben, kunt u relatieve score gebruiken om te vertellen welke eerst een telefoongesprek verdient. De score met de hogere relatieve score kan gunstiger reageren op uw aanbod dan de lagere.
 
-## Beste bieten {#best-bets}
+## [!DNL Best Bets] {#best-bets}
 
-Uw Beste Bets zijn uw leads en contacten met de hoogste urgentie en de relatieve score. Alleen de leads die u hebt, zijn zichtbaar in die lijst en de lijst wordt bijgewerkt als de doorloopscores veranderen.
+Uw [!DNL Best Bets] zijn uw leads en contacten met de hoogste urgentie en de relatieve score. Alleen de leads die u hebt, zijn zichtbaar in die lijst en de lijst wordt bijgewerkt als de doorloopscores veranderen.
 
 >[!NOTE]
 >
->Als uw beste best niet de beste lood en contacten aanpast u bezit, praat met iemand bij uw bedrijf die toegang tot Marketo heeft over het bijwerken van uw [Scoreregels](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Als uw beste wedden niet de beste lood en de contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [ het Schelen Regels ](/help/marketo/getting-started/quick-wins/simple-scoring.md) heeft.
 
 ### Hoe Urgentie en Relatieve Score worden berekend
 

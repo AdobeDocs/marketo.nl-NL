@@ -1,29 +1,29 @@
 ---
 unique-page-id: 14352473
-description: Verkoopknoppen voor Connect installeren in Salesforce - Marketo Docs - Productdocumentatie
-title: Verkoopknoppen voor Connect installeren in Salesforce
+description: Verkoopknoppen installeren in Salesforce - Marketo Docs - Productdocumentatie
+title: Verkoopknoppen in Salesforce installeren
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 4%
 
 ---
 
-# Verkoopknoppen voor Connect installeren in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
+# Verkoopknoppen in Salesforce installeren {#how-to-install-sales-connect-buttons-in-salesforce}
 
-Installeer Call eenvoudig met Marketo Sales Connect, verzend Marketo Sales E-mail en voeg toe aan Campagne. U hebt beheerdersrechten nodig in Salesforce om deze velden te installeren.
+Installeer Call eenvoudig met Marketo Sales Connect, verzend Marketo Sales Email en voeg toe aan Campagne. U hebt beheerdersrechten nodig in [!DNL Salesforce] om deze velden te installeren.
 
-1. Aanmelden bij [Salesforce.com.](https://salesforce.com)
-1. Klikken **Aanpassen**.
-1. Klikken **Leads**.
-1. Klikken **Pagina-indelingen**.
-1. Klikken **Bewerken** naast Lay-out voor lead waaraan u de knoppen wilt toevoegen.
-1. Klikken **Knoppen**.
-1. Sleep de knop Sales Connect naar de sectie Lead Details.
-1. Klikken **Opslaan**.
+1. Login aan [ Salesforce.com.](https://salesforce.com)
+1. Klik op **[!UICONTROL Customize]**.
+1. Klik op **[!UICONTROL Leads]**.
+1. Klik op **[!UICONTROL Page Layouts]**.
+1. Klik op **[!UICONTROL Edit]** naast [!UICONTROL Lead Layout] waaraan u de knoppen wilt toevoegen.
+1. Klik op **[!UICONTROL Buttons]**.
+1. Sleep de knoppen van [!UICONTROL Sales Connect] naar de sectie [!UICONTROL Lead Details] .
+1. Klik op **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
-   >U kunt deze stappen herhalen om hen aan de Lay-out van het Contact te installeren. Zorg ervoor dat u **Contactpersonen** voor Stap 3.
+   >U kunt deze stappen herhalen om hen aan de Lay-out van het Contact te installeren. Ben zeker om **Contacten** voor Stap 3 te kiezen.

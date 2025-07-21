@@ -4,10 +4,10 @@ description: Een veld in een formulier verwijderen - Marketo Docs - Productdocum
 title: Een veld in een formulier verwijderen
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
@@ -15,26 +15,26 @@ ht-degree: 0%
 
 Als er een veld is dat u niet meer nodig hebt in het formulier, kunt u het gemakkelijk verwijderen. Zo gaat het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Selecteer uw veld en klik op de knop **delete** pictogram.
+1. Selecteer het veld en klik op het pictogram **[!UICONTROL Delete]** .
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
 >[!NOTE]
 >
->Vergeet niet om [goedkeuren, concept van bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden gemaakt door de formulierwijzigingen.
+>Vergeet niet [ goed te keuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.

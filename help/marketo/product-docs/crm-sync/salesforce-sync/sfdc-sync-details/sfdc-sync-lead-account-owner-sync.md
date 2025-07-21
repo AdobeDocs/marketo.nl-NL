@@ -4,16 +4,16 @@ description: SFDC Sync - Lead/Account Owner Sync - Marketo Docs - Productdocumen
 title: SFDC Sync - Lead/Account Owner Sync
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
 # SFDC Sync: Lead/Account Owner Sync {#sfdc-sync-lead-account-owner-sync}
 
-Hiermee wordt de tabel &quot;gebruiker&quot; in Salesforce technisch gesynchroniseerd, maar we zullen deze als de velden Lead/Account Owner noemen.
+Hiermee wordt de tabel &quot;gebruiker&quot; in [!DNL Salesforce] technisch gesynchroniseerd, maar deze wordt de velden Hoofd/Rekeningeigenaar genoemd.
 
 ## Welke velden worden gesynchroniseerd met Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
 
@@ -33,11 +33,11 @@ Voor elke contactpersoon synchroniseren we de bovenstaande vijf velden voor de e
 
 ## Kan ik de hoofdeigenaar in Marketo wijzigen? {#can-i-change-the-lead-owner-in-marketo}
 
-Absoluut, gebruik gewoon de [Eigenaar wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"} Handeling flow.
+Absoluut, gebruik enkel de [ de stroomactie van de Eigenaar van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}.
 
 >[!NOTE]
 >
->U kunt de eigenaargegevens niet wijzigen met de [De detailpagina voor personen gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+>U kunt niet de eigenaarinformatie veranderen gebruikend [ Gebruikend de Pagina van het Detail van de Persoon ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ## Wat kan ik met deze gegevens doen? {#what-can-i-do-with-this-data}
 
@@ -46,6 +46,6 @@ Er zijn veel redenen om deze gegevens te gebruiken, zoals
 * Een persoonlijke e-mail verzenden met een handtekening van de eigenaar van de verkoop
 * Filter op specifieke verkoopvertegenwoordigers voor marketing of zelfs om doeltreffendheid te analyseren
 * Regels voor toewijzing (en hertoewijzing) in Marketo
-* Gebruik ze in het dialoogvenster [Eigenaar wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sync Person to SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, and [Create Task](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} flowhandelingen
+* Gebruik hen in de [ Eigenaar van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, en [ creeer de 5} stroomacties van de Taak {](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
-Marketo heeft zeker een geweldige Salesforce-synchronisatie. Niemand anders doet het zo goed!
+Marketo beschikt zeker over een indrukwekkende [!DNL Salesforce] sync. Niemand anders doet het zo goed!

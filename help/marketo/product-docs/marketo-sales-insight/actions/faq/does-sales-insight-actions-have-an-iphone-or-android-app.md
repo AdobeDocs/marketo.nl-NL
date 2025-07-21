@@ -1,15 +1,15 @@
 ---
-description: Heeft een iPhone- of Android-app voor het instellen van een Sales Insight-actie? - Marketo Docs - Productdocumentatie
-title: Heeft een iPhone- of Android-app voor het instellen van een Sales Insight-actie?
+description: Heeft de Handelingen van Insight van de Verkoop een iPhone of een app van Android? - Marketo Docs - Productdocumentatie
+title: Heeft de Handelingen van Insight van de Verkoop een iPhone of een app van Android?
 exl-id: 2789c76e-a26f-4efd-ae6b-e897197b9f55
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Heeft een iPhone- of Android-app voor het instellen van een Sales Insight-actie? {#does-sales-insight-actions-have-an-iphone-or-android-app}
+# Heeft [!DNL Sales Insight Actions] een iPhone- of Android-toepassing? {#does-sales-insight-actions-have-an-iphone-or-android-app}
 
-Handelingen voor Verkoopcontrole hebben momenteel geen iPhone- of Android-app. Het is iets wat we in de toekomst willen toevoegen.
+[!DNL Sales Insight Actions] heeft momenteel geen iPhone- of Android-app. Het is iets wat we in de toekomst willen toevoegen.

@@ -4,9 +4,9 @@ description: Voordat u pushmeldingen en in-app berichten maakt - Marketo Docs - 
 title: Voordat u pushberichten en in-app-berichten maakt
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -15,30 +15,30 @@ ht-degree: 0%
 
 Het is niet moeilijk om pushmeldingen en in-app-berichten te maken, maar u moet alles klaar hebben voordat u kunt starten. De ontwikkelaar van Marketo Admin en mobiele apps moet de onderstaande stappen volgen om de noodzakelijke integratie voor te bereiden.
 
-1. Ten eerste, de Marketo Admin [voegt een mobiele app toe](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md).
+1. Eerst, voegt Marketo Admin [ een mobiele app ](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) toe.
 
-1. De Marketo Admin [verzendt een codefragment naar de ontwikkelaar](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
+1. Marketo Admin verzendt dan [ een codefragment naar de ontwikkelaar ](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. De ontwikkelaar downloadt de SDK, inclusief fragmenten en andere methoden, voor [Android](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [iOS](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
+1. De ontwikkelaar downloadt SDK, en omvat fragment en andere methodes, voor [ Android ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [ iOS ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
 
-1. Standaard worden in-app berichten geactiveerd wanneer uw app wordt geopend. Als u berichten voor andere gebeurtenissen wilt teweegbrengen, zoals wanneer een bepaalde pagina wordt bekeken of een specifieke knoop wordt geduwd, moet de ontwikkelaar douanegebeurtenissen aan de code toevoegen (zie [Aangepaste gebeurtenissen voor In-App-berichten](#CustomEvents) hieronder).
+1. Standaard worden in-app berichten geactiveerd wanneer uw app wordt geopend. Als u berichten voor andere gebeurtenissen wilt teweegbrengen, zoals wanneer een bepaalde pagina wordt bekeken of een specifieke knoop wordt geduwd, moet de ontwikkelaar douanegebeurtenissen aan de code toevoegen (zie [ Gebeurtenissen van de Douane voor Berichten In-App ](#CustomEvents) hieronder).
 
-1. De ontwikkelaar [Hiermee worden de API-sleutel en het projectnummer van de server voor Android gegenereerd](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [de certificering en het wachtwoord voor iOS](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) en stuurt het naar de Marketo Admin.
+1. De ontwikkelaar [ produceert de sleutel en het projectaantal van de Server API voor Android ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) of [ de certificatie en het wachtwoord voor iOS ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) en verzendt het naar Marketo Admin.
 
-1. Marketo Admin configureert de toegang tot pushberichten [met de Server API-sleutel (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) of [met het certificaat (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
+1. Marketo Admin vormt de toegang van het duw- bericht [ met de Server API sleutel (Android) ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) of [ met het certificaat (iOS) ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 
 >[!TIP]
 >
->Een Marketo Admin kan eenvoudig controleren of uw pushconfiguratie is geverifieerd. Ga gewoon door [hier](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md).
+>Een Marketo Admin kan eenvoudig controleren of uw pushconfiguratie is geverifieerd. Ga enkel [ hier ](/help/marketo/product-docs/mobile-marketing/admin/verify-push-configuration.md).
 
 ## Aangepaste gebeurtenissen voor In-App-berichten {#custom-events-for-in-app-messages}
 
-Voor in-app berichten wordt de weergavemarkering ingesteld op **App openen** standaard. Als u aangepaste gebeurtenissen wilt gebruiken om de weergave van berichten in de app te activeren (bijvoorbeeld **Klik op Toevoegen aan winkelwagentje**, **Pagina met weergaveinstellingen**), maakt u een lijst met gewenste gebeurtenissen en geeft u deze door aan uw ontwikkelaar van mobiele apps. De ontwikkelaar voegt de aangepaste gebeurtenissen vervolgens toe aan de code. Nadat ze zijn goedgekeurd, worden ze weergegeven als weergave-triggers bij het instellen van het publiek. **Waarschuwing**: Het kan enige tijd duren voordat het goedkeuringsproces voor de aangepaste gebeurteniscodering is voltooid.
+Voor in-app berichten wordt de weergavemarkering standaard ingesteld op **[!UICONTROL App Open]** . Als u om het even welke douanegebeurtenissen wilt gebruiken om de vertoning van in-app berichten (bijvoorbeeld, **klikken toevoegen aan Kaart**, **Pagina van de Montages van Weergaven**) teweeg te brengen, creeer een lijst van gewenste gebeurtenissen en geef het aan uw mobiele apps ontwikkelaar. De ontwikkelaar voegt de aangepaste gebeurtenissen vervolgens toe aan de code. Nadat ze zijn goedgekeurd, worden ze weergegeven als weergave-triggers bij het instellen van het publiek. **Voorzichtigheid**: Het proces van de de codeergoedkeuring van de douanegebeurtenis kan wat tijd vergen om te voltooien.
 
 Nadat u al uw voorbereidingen voor in-app berichten en dupmeldingen hebt gedaan, is het tijd om aan de slag te gaan!
 
 >[!MORELIKETHIS]
 >
->* [Een bericht in de app maken](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
+>* [ creeer een Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md)
 >
->* [Een pushmelding maken](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)

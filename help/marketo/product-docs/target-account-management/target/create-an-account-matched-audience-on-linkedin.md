@@ -1,25 +1,25 @@
 ---
 unique-page-id: 26837421
-description: Een vergelijkbaar publiek account maken op LinkedIn - Marketo Docs - Productdocumentatie
-title: Een vergelijkbaar publiek account maken op LinkedIn
+description: Een aan een account gekoppeld publiek maken op  [!DNL LinkedIn]  - Marketo Docs - Productdocumentatie
+title: Creeer een Rekening Gelijke Publiek op  [!DNL LinkedIn]
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Een vergelijkbaar publiek account maken op LinkedIn {#create-an-account-matched-audience-on-linkedin}
+# Een vergelijkbaar publiek account maken op [!DNL LinkedIn] {#create-an-account-matched-audience-on-linkedin}
 
-Gemaakte doelgroepen van uw TAM-accountlijsten maken voor [linkedIn Ad Targeting](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). linkedIn komt overeen met de lijst met accounts in hun systeem en u kunt op basis van die accountlijst een LinkedIn-publiek maken dat via LinkedIn-kanalen kan worden geactiveerd. Dit laat marketers toe om mensen binnen of buiten hun gegevensbestand te richten.
+Creeer rekening aangepast publiek van uw de Rekeninglijsten van TAM voor [[!DNL LinkedIn]  en het richten ](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!DNL LinkedIn] komt overeen met de lijst met accounts in hun systeem en u kunt een [!DNL LinkedIn] Publiek maken op basis van die accountlijst om op alle [!DNL LinkedIn] -kanalen te activeren. Dit laat marketers toe om mensen binnen of buiten hun gegevensbestand te richten.
 
 >[!PREREQUISITES]
 >
->[Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[ voegt  [!DNL LinkedIn]  Gelijke Publiek als Dienst LaunchPoint ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) toe
 
-1. Klik in TAM op de knop **Accountlijsten** tab.
+1. Klik in TAM op de tab **[!UICONTROL Account Lists]** .
 
    ![](assets/create-a-matched-audience-on-linkedin-1.png)
 
@@ -27,28 +27,28 @@ Gemaakte doelgroepen van uw TAM-accountlijsten maken voor [linkedIn Ad Targeting
 
    ![](assets/create-a-matched-audience-on-linkedin-2.png)
 
-1. Klik op de knop **Handelingen in accountlijst** vervolgkeuzelijst en selecteer **Verzenden via AdBridge**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Account List Actions]** en selecteer **[!UICONTROL Send via AdBridge]** .
 
    ![](assets/create-a-matched-audience-on-linkedin-3.png)
 
-1. Kies **linkedIn** en klik op **Volgende**.
+1. Kies **[!DNL LinkedIn]** en klik op **[!UICONTROL Next]** .
 
    ![](assets/create-a-matched-audience-on-linkedin-4.png)
 
-1. Klik op de knop **Publiek** vervolgkeuzelijst. U kunt een bestaand publiek selecteren of een nieuw publiek maken. In dit voorbeeld maken we een nieuwe groep (als u een bestaand publiek selecteert, gaat u verder met stap 7).
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Audience]** . U kunt een bestaand publiek selecteren of een nieuw publiek maken. In dit voorbeeld maken we een nieuwe groep (als u een bestaand publiek selecteert, gaat u verder met stap 7).
 
    ![](assets/create-a-matched-audience-on-linkedin-5.png)
 
-1. Klik op de knop **Advertentierekening** en selecteer het doel en de account.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Ad Account]** en selecteer het doel en account.
 
    ![](assets/create-a-matched-audience-on-linkedin-6.png)
 
-1. Noem uw publiek en klik **Bijwerken**.
+1. Geef een naam op voor de doelgroep en klik op **[!UICONTROL Update]** .
 
    ![](assets/create-a-matched-audience-on-linkedin-7.png)
 
-En dat is het. Je accountlijst is doorgestuurd naar LinkedIn
+En dat is het. Uw lijst met accounts is doorgestuurd naar [!DNL LinkedIn] .
 
 >[!MORELIKETHIS]
 >
->[Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[ Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het a [!DNL LinkedIn]  publiek ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

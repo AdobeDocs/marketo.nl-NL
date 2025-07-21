@@ -4,9 +4,9 @@ description: Aangepaste RTP-dashboards in Google Universal Analytics - Marketo D
 title: Aangepaste RTP-dashboards in Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ In dit artikel wordt uitgelegd hoe u RTP-dashboards kunt instellen in Google Uni
 
 ## Een aangepast dashboard instellen {#setting-up-a-custom-dashboard}
 
-1. Meld u aan bij Googles Analytics. Klik op **Meldend** in het hoogste menu. Klik **dashboards** en **+ Nieuw Dashboard van de Douane**.
+1. Meld u aan bij Google Analytics. Klik op **[!UICONTROL Reporting]** in het bovenste menu. Klik op **[!UICONTROL Dashboards]** en **[!UICONTROL New Dashboard]** .
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Selecteer **Lege Canvas**, voeg de Naam van het a **Dashboard** toe en klik **creeer Dashboard**.
+1. Selecteer **Lege Canvas**, voeg de Naam van het a **Dashboard** toe en klik **[!UICONTROL Create Dashboard]**.
 
-1. Klik **toevoegen Widget** om een nieuwe widget tot stand te brengen.
+1. Klik op **[!UICONTROL Add Widget]** om een nieuwe widget te maken.
 
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
@@ -70,50 +70,50 @@ Het dashboard bestaat uit drie kolommen
    <td> 
     <ul> 
      <li>Naam: sessies per segment en kanaal</li> 
-     <li>Type widget: balk<br></li> 
-     <li>Een staafdiagram maken met de weergave Sessie</li> 
-     <li>Gegroepeerd door: Gebeurtenislabel</li> 
-     <li>Draaien door: standaardkanaalgroepering</li> 
-     <li>Filter: <br> Alleen tonen | Gebeurtenissencategorie (bevattende) RTP-segmenten</li> 
+     <li>Het type van widget: <span class="uicontrol"> Bar </span><br></li> 
+     <li><span class="uicontrol"> creeer een staafdiagram dat </span> toont: <span class="uicontrol"> Zitting </span></li> 
+     <li><span class="uicontrol"> Gegroepeerd door </span>: <span class="uicontrol"> etiket van de Gebeurtenis </span></li> 
+     <li><span class="uicontrol"> Draaien door </span>: <span class="uicontrol"> StandaardGroepering van het Kanaal </span></li> 
+     <li>Filter: <br><span class="uicontrol"> slechts tonen </span> | <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> die </span> bevatten) RTP-Segmenten</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Naam: # van gebruikers die door RTP worden gesegmenteerd</li> 
-     <li>Type: 2.1 metrisch</li> 
-     <li>De volgende meting weergeven: Gebruikers<br></li> 
-     <li>Filter: <br> Alleen tonen | Gebeurtenissencategorie (bevattende) RTP-segmenten</li> 
+     <li>Type: <span class="uicontrol"> 2.1 Metrisch </span></li> 
+     <li><span class="uicontrol"> toon volgende metrisch </span>: <span class="uicontrol"> Gebruikers </span><br></li> 
+     <li>Filter: <br><span class="uicontrol"> slechts tonen </span> | <span class="uicontrol"> Categorie van de Gebeurtenis </span> (die) RTP-Segmenten bevatten</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Naam: Sessies per bedrijfstak</li> 
-     <li>Type: Schijf<br></li> 
-     <li>Een cirkeldiagram maken met de presentatie: sessies</li> 
-     <li>Gegroepeerd door: RTP-Industry</li> 
+     <li>Type: <span class="uicontrol"> Schijf </span><br></li> 
+     <li><span class="uicontrol"> creeer een cirkeldiagram dat </span> toont: <span class="uicontrol"> Sessies </span></li> 
+     <li><span class="uicontrol"> Gegroepeerd door </span> : <span class="uicontrol"> RTP-Industrie </span></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a27.png" data-linked-resource-id="7504250" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <th> 
     <ul> 
      <li><strong>Naam: Sessies op branche en kanalen</strong></li> 
-     <li><strong>Type widget: balk</strong></li> 
-     <li><strong>Een staafdiagram maken met de weergave Sessie</strong></li> 
-     <li><strong>Gegroepeerd door: RTP-Industry</strong></li> 
-     <li><strong>Draaien door: standaardkanaalgroepering</strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
+     <li><strong>Het type van widget: <span class="uicontrol"> Bar </span></strong></li> 
+     <li><strong><span class="uicontrol"> creeer een staafdiagram dat </span> toont: <span class="uicontrol"> Zitting </span></strong></li> 
+     <li><strong><span class="uicontrol"> Gegroepeerd door </span>: <span class="uicontrol"> RTP-Industrie </span></strong></li> 
+     <li><strong><span class="uicontrol"> Draaien door </span>: <span class="uicontrol"> StandaardGroepering van het Kanaal </span></strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
     </ul></th> 
    <th> 
     <ul> 
      <li><strong>Naam: Gesegmenteerde sessies per land</strong></li> 
-     <li><strong>Type: Geomap</strong></li> 
-     <li><strong>Metrisch perceel geselecteerd: Land | Sessies</strong></li> 
-     <li><strong>Selecteer een gebied: De wereld</strong></li> 
-     <li><strong>Filter: Alleen tonen | Gebeurtenissencategorie (bevattende) RTP-segmenten</strong></li> 
+     <li><strong>Type: <span class="uicontrol"> Geomap </span></strong></li> 
+     <li><strong><span class="uicontrol"> Plot selecteerde metrisch </span>: <span class="uicontrol"> Land </span> | <span class="uicontrol"> Sessies </span></strong></li> 
+     <li><strong><span class="uicontrol"> selecteer een gebied </span>: <span class="uicontrol"> De Wereld </span></strong></li> 
+     <li><strong>Filter: <span class="uicontrol"> slechts tonen </span> | <span class="uicontrol"> Categorie van de Gebeurtenis </span> (die) RTP-Segmenten bevatten</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
      <li><strong>Naam: Sessies per RTP-categorie</strong></li> 
-     <li><strong>Type: Schijf</strong></li> 
-     <li><strong>Een cirkeldiagram maken met de presentatie: sessies</strong></li> 
-     <li><strong>Gegroepeerd door: RTP-Categorie</strong></li> 
+     <li><strong>Type: <span class="uicontrol"> Schijf </span></strong></li> 
+     <li><strong><span class="uicontrol"> creeer een cirkeldiagram dat </span> toont: <span class="uicontrol"> Sessies </span></strong></li> 
+     <li><strong><span class="uicontrol"> Gegroepeerd door </span>: <span class="uicontrol"> RTP-Categorie </span></strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a1.png" data-linked-resource-id="7504254" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
@@ -121,10 +121,10 @@ Het dashboard bestaat uit drie kolommen
    <th> 
     <ul> 
      <li>Naam: bovenste doelsegmenten</li> 
-     <li>Type: balk</li> 
-     <li>Een staafdiagram maken met de weergave Gebruikers</li> 
-     <li>Gegroepeerd door: Gebeurtenisactie</li> 
-     <li>Filter: Alleen tonen | Gebeurtenissencategorie (bevattende) RTP-segmenten</li> 
+     <li>Type: <span class="uicontrol"> Bar </span></li> 
+     <li><span class="uicontrol"> creeer een staafdiagram dat </span> toont: <span class="uicontrol"> Gebruikers </span></li> 
+     <li><span class="uicontrol"> Gegroepeerd door </span>: <span class="uicontrol"> Actie van de Gebeurtenis </span></li> 
+     <li>Filter: <span class="uicontrol"> slechts tonen </span> | <span class="uicontrol"> Categorie van de Gebeurtenis </span> (die) RTP-Segmenten bevatten</li> 
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
@@ -193,9 +193,9 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
    <td> 
     <ul> 
      <li>Naam: <strong> CRE - Totale Klikken </strong></li> 
-     <li>Type: <strong> 2.1 Metrisch </strong><br></li> 
-     <li>Toon volgende metrisch: <strong> Pegeviews </strong></li> 
-     <li>Filter: <strong>[alleen tonen] Pagina (met): rcmd </strong></li> 
+     <li>Type: <strong><span class="uicontrol"> 2.1 Metrisch </span></strong><br></li> 
+     <li><span class="uicontrol"> toon volgende metrisch </span>: <strong><span class="uicontrol"> Pieken </span></strong></li> 
+     <li>Filter: <strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Pagina </span> (<span class="uicontrol"> bevattend </span>): rcmd </strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -216,20 +216,20 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
    <td colspan="1"> 
     <ul> 
      <li>Naam: <strong> CRE - Hoogste Geadviseerde Inhoud </strong></li> 
-     <li>Type: <strong> Lijst </strong><br></li> 
-     <li>Toon de volgende kolommen: <br><strong> Titel van de Pagina | Pageviews </strong><br></li> 
-     <li>Filters:<br> Filter: <strong> [tonen slechts] Pagina (die) bevat: rcmd </strong></li> 
+     <li>Type: <strong><span class="uicontrol"> Lijst </span></strong><br></li> 
+     <li><span class="uicontrol"> Vertoning de volgende kolommen </span>: <br><strong> <span class="uicontrol"> Titel van de Pagina </span> | <span class="uicontrol"> Paageviews </span> </strong><br></li> 
+     <li>Filters:<br> Filter: <strong> [<span class="uicontrol"> toont </span> <span class="uicontrol"> slechts Pagina </span> (<span class="uicontrol"> die </span> bevat): rcmd </strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
      <li>Naam: <strong> Pagina's/Zitting (Betrokkenheid) </strong></li> 
-     <li>Type: <strong> 2.1 Metrisch </strong></li> 
-     <li>Toon volgende metrisch: <strong> Pagina's/Zitting </strong></li> 
-     <li>Filters:<br><strong> [tonen slechts] de Categorie van de Gebeurtenis (precies aanpassing): RTP-Campagnes </strong></li> 
-     <li><strong>[alleen tonen] Gebeurtenisactie (exact overeenkomend): impositie</strong></li> 
-     <li><strong>[don't show] Event Label (containing): #</strong></li> 
+     <li>Type: <strong> <span class="uicontrol"> 2.1 Metrisch </span> </strong></li> 
+     <li><span class="uicontrol"> toon volgende metrische </span>: <strong><span class="uicontrol"> Pagina's/Zitting </span></strong></li> 
+     <li>Filters:<br><strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassing </span>): RTP-Campagnes </strong></li> 
+     <li><strong>[<span class="uicontrol"> toont slechts </span>] <span class="uicontrol"> Actie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassend </span>): indruk</strong></li> 
+     <li><strong>[<span class="uicontrol"> toont niet </span>] <span class="uicontrol"> Etiket van de Gebeurtenis </span> (<span class="uicontrol"> die </span> bevatten): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
@@ -246,16 +246,16 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
    <td> 
     <ul> 
      <li>Naam: <strong> Impressies door CTA </strong></li> 
-     <li>Type: <strong> Lijst </strong></li> 
-     <li>Toon de volgende kolommen: <strong> Etiket van de Gebeurtenis | Totaal aantal gebeurtenissen | Gebruikers </strong></li> 
-     <li>Filters:<br><strong> [tonen slechts] de Categorie van de Gebeurtenis (precies aanpassing): RTP-Campagnes </strong><br> <strong> [tonen slechts] de Actie van de Gebeurtenis (exact aanpassing): indruk </strong> <strong> [tonen niet] het Etiket van de Gebeurtenis (die) bevatten: #</strong></li> 
+     <li>Type: <strong><span class="uicontrol"> Lijst </span></strong></li> 
+     <li><span class="uicontrol"> Vertoning de volgende kolommen </span>: <strong> <span class="uicontrol"> Etiket van de Gebeurtenis </span> | <span class="uicontrol"> Totale Gebeurtenissen </span> | <span class="uicontrol"> Gebruikers </span> </strong></li> 
+     <li>Filters:<br><strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassing </span>): RTP-Campagnes </strong><br> <strong> [<span class="uicontrol"> toont slechts </span>] <span class="uicontrol"> Actie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassend </span>): impositie </strong> <strong> 17} toont niet <span class="uicontrol"> </span> Etiket van de Gebeurtenis <span class="uicontrol"> (</span> die <span class="uicontrol"> bevatten): #</span></strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Naam: <strong> Klikthrough door CTA </strong></li> 
-     <li>Type: <strong> Lijst </strong></li> 
-     <li>Toon de volgende kolommen: <strong> Etiket van de Gebeurtenis | Totaal aantal gebeurtenissen | Gebruikers </strong></li> 
-     <li>Filters:<br><strong> [tonen slechts] de Categorie van de Gebeurtenis (precies aanpassing): RTP-Campagnes </strong><br> <strong> [tonen slechts] de Actie van de Gebeurtenis (precies aanpassing): klikt </strong></li> 
+     <li>Type: <strong><span class="uicontrol"> Lijst </span></strong></li> 
+     <li><span class="uicontrol"> Vertoning de volgende kolommen </span>: <strong> <span class="uicontrol"> Etiket van de Gebeurtenis </span> | <span class="uicontrol"> Totale Gebeurtenissen </span> | <span class="uicontrol"> Gebruikers </span> </strong></li> 
+     <li>Filters:<br><strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassing </span>): RTP-Campagnes </strong><br> <strong> [<span class="uicontrol"> toont slechts </span>] <span class="uicontrol"> Actie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassend </span>): klikt </strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 

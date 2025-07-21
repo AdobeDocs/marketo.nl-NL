@@ -4,9 +4,9 @@ description: Een hiërarchie maken - Marketo Docs - Productdocumentatie
 title: Een hiërarchie maken
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De hiërarchieën zijn bedoeld om in CRMs worden gecreeerd. Nochtans als u geen CRM hebt, volg deze stappen om een hiërarchie manueel tot stand te brengen.
 
-1. Klik in Benoemde accounts op de knop **Groeperen op hiërarchie** selectievakje.
+1. Klik in [!UICONTROL Named Accounts] op het selectievakje **[!UICONTROL Group by Hierarchy]** .
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ De hiërarchieën zijn bedoeld om in CRMs worden gecreeerd. Nochtans als u geen 
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Klik op de knop **Handelingen benoemde account** vervolgkeuzelijst en selecteer **Koppeling naar benoemde account**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Named Account Actions]** en selecteer **[!UICONTROL Link to Named Account]** .
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Als u accounts wilt ontkoppelen, voert u de bovenstaande stappen uit, maar kiest u **Koppeling met benoemd account verbreken**.
+   >Als u accounts wilt ontkoppelen, voert u bovenstaande stappen uit, maar kiest u **[!UICONTROL Unlink From Named Account]** .
 
-1. Selecteer een Bovenliggend benoemd account in de keuzelijst en klik op **Koppeling**.
+1. Selecteer een Bovenliggend benoemd account in de keuzelijst en klik op **[!UICONTROL Link]** .
 
    ![](assets/create-a-hierarchy-4.png)
 

@@ -4,10 +4,10 @@ description: Aangepaste veldtokens voor programmaleden - Marketo Docs - Productd
 title: Aangepaste veldtokens voor programmaleden
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 1%
+source-wordcount: '413'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Op de rug van de eigenschappen van de Gebieden van de Douane van het Lid van het
 
 De PMCF-tokens worden ondersteund onder het liddomein van de tokens-familie.
 
-Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Lid van het Programma vallen. Vanaf huidige staat, worden de Tokens van het Lid ook gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. `{{member.webinar url}}` wordt automatisch de unieke bevestiging-URL van de persoon die door de serviceprovider is gegenereerd, opgelost. {{member.registration code}} wordt omgezet in de registratiecode die door de dienstverlener wordt verstrekt.
+Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Lid van het Programma vallen. Vanaf huidige staat, worden de Tokens van het Lid ook gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. `{{member.webinar url}}` -token lost automatisch de unieke bevestiging-URL van de persoon die door het servicebureau is gegenereerd, op. {{member.registration code}} wordt omgezet in de registratiecode die door de serviceprovider is opgegeven.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Li
 >* De Tokens van de Gebieden van het Lid van het programma kunnen niet in worden gebruikt: e-mail preheader, de Tokens van de Datum in Wacht Stappen, of Fragmenten.
 >* De status van het programma Lid wordt niet gesteund in de Tokens van de Lidstaten.
 
-## Aangepaste veldtokens van programmalid gebruiken in elementen {#using-program-member-custom-field-tokens-in-assets}
+## Aangepaste veldtokens voor programmaleden gebruiken in Assets {#using-program-member-custom-field-tokens-in-assets}
 
 U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Bestaan van Pagina&#39;s, SMS, dupberichten en Webhooks opnemen.
 
-**E-mails**
+**E-mail**
 
-1. Selecteer het gewenste e-mailbericht en klik op **[!UICONTROL Edit Draft]**.
+1. Selecteer het gewenste e-mailbericht en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,7 +41,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Zoek en selecteer het gewenste Token van het Gebied van het Lid van het Programma, ga een standaardwaarde in, en klik **[!UICONTROL Insert]**.
+1. Zoek en selecteer het gewenste token voor het aangepaste veld voor programmalid, voer een standaardwaarde in en klik op **[!UICONTROL Insert]** .
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -53,9 +53,9 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 >
 >Vergeet niet uw e-mail goed te keuren.
 
-**Landingspagina&#39;s**
+**het Bestaan Pagina&#39;s**
 
-1. Selecteer uw bestemmingspagina en klik **[!UICONTROL Edit Draft]**.
+1. Selecteer de bestemmingspagina en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -75,7 +75,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Voer een standaardwaarde in en klik op **[!UICONTROL Insert]**.
+1. Voer een standaardwaarde in en klik op **[!UICONTROL Insert]** .
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -85,25 +85,25 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
 **SMS**
 
-1. Selecteer het gewenste SMS en klik op **[!UICONTROL Edit Draft]**.
+1. Selecteer het gewenste SMS en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Klik op de knop **`{{ Token`** knop.
+1. Klik op **`{{ Token`** .
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. Zoek en selecteer de gewenste token voor het aangepaste veld voor programmalid. Voer een standaardwaarde in en klik op Invoegen.
+1. Zoek en selecteer de gewenste token voor het aangepaste veld voor programmalid. Voer een [!UICONTROL default value] in en klik op **[!UICONTROL Insert]** .
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klik op de vervolgkeuzelijst SMS-handelingen en selecteer **[!UICONTROL Approve & Close]**.
+1. Klik op de vervolgkeuzelijst SMS-handelingen en selecteer **[!UICONTROL Approve & Close]** .
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
-**Pushmeldingen**
+**Push Meldingen**
 
-1. Selecteer de gewenste pushmelding en klik op **[!UICONTROL Edit Draft]**.
+1. Selecteer de gewenste pushmelding en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
@@ -115,11 +115,11 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Zoek en selecteer de gewenste token voor het aangepaste veld voor programmalid. Voer een standaardwaarde in en klik op **[!UICONTROL Insert]**.
+1. Zoek en selecteer de gewenste token voor het aangepaste veld voor programmalid. Voer een standaardwaarde in en klik op **[!UICONTROL Insert]** .
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klikken **[!UICONTROL Finish]** om op te slaan en af te sluiten (of **[!UICONTROL Next]** eerst controleren).
+1. Klik op **[!UICONTROL Finish]** om op te slaan en af te sluiten (of op **[!UICONTROL Next]** om als eerste te controleren).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

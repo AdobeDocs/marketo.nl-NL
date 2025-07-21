@@ -4,32 +4,32 @@ description: Een webcampagne klonen - Marketo Docs - Productdocumentatie
 title: Een webcampagne klonen
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Een webcampagne klonen {#clone-a-web-campaign}
 
-Gebruik de klooneigenschap op de pagina van de Campagnes van het Web om de campagnemontages te kopiëren en de inhoud voor gespleten het testen optimalisering te veranderen, of een campagne met de zelfde inhoud te klonen en het te richten naar een verschillend segment. Maak binnen enkele seconden webcampagnes!
+Met de kloonfunctie op de pagina [!UICONTROL Web Campaigns] kunt u de campagne-instellingen kopiëren en de inhoud voor gesplitste testoptimalisatie wijzigen, of een campagne met dezelfde inhoud klonen en deze op een ander segment richten. Maak binnen enkele seconden webcampagnes!
 
 ## Een klooncampagne maken {#create-a-clone-campaign}
 
-1. Ga naar **Webcampagnes**.
+1. Ga naar **[!UICONTROL Web Campaigns]** .
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filterfunctie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Voor de webcampagne klikt u op **Klonen**.
+1. Voor de Webcampagne, klik **Kloon**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde webcampagne heeft de titel: &quot;[CAMPAGNE-NAAM] Kopiëren&quot;.
+1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde Webcampagne is gerechtigd, &quot;[ Exemplaar van de NAAM van 0} CAMPAIGN&quot;.]
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
@@ -39,6 +39,6 @@ Gebruik de klooneigenschap op de pagina van de Campagnes van het Web om de campa
 
 >[!MORELIKETHIS]
 >
->* [Een dialoogcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Een RTP maken in een zonecampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Een RTP-widgetcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

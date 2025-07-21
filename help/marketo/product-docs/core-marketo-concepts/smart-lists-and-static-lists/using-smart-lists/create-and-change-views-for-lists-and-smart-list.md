@@ -4,9 +4,9 @@ description: Weergaven voor lijsten en slimme lijsten maken en wijzigen - Market
 title: Weergaven voor lijsten en slimme lijsten maken en wijzigen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 >[!TIP]
 >
->Om snel te zoeken, gebruik **Vondst** doos.
+>Gebruik het vak **[!UICONTROL Find]** om snel te zoeken.
 
 ## Weergaven omwisselen {#switch-views}
 

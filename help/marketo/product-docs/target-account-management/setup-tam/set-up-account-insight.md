@@ -4,41 +4,41 @@ description: Account Insight instellen - Marketo Docs - Productdocumentatie
 title: Account Insight instellen
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 3%
 
 ---
 
 # Account Insight instellen {#set-up-account-insight}
 
-Hier is hoe te opstellingsRekening Inzicht.
+Hieronder wordt beschreven hoe u Account Insight instelt.
 
 >[!PREREQUISITES]
 >
->TAM-accountscore [moet worden geconfigureerd](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) eerst.
+>De de rekeningsscore van TAM [ moet ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) eerst worden gevormd.
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Klikken **Doelaccountbeheer** in de boom, dan **Verkoop** tab.
+1. Klik op **[!UICONTROL Target Account Management]** in de structuur en klik vervolgens op de tab **[!UICONTROL Sales]** .
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Klikken **Bewerken**.
+1. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/set-up-account-insight-3.png)
 
-1. Klik op de vervolgkeuzelijst om te kiezen hoe benoemde accounts en betrokken personen voorrang krijgen bij het accountinzicht.
+1. Klik op de vervolgkeuzelijst om te bepalen hoe accounts waaraan een naam is toegekend, voorrang krijgen op benoemde accounts en betrokken personen.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Als de [Instellingen voor accountscore](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) worden bijgewerkt, moet de configuratie onder Verkoop door een beheerder worden bijgewerkt om ervoor te zorgen dat de scores de voorkeuren van de gebruiker nauwkeurig weerspiegelen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
+   >Als de [ montages van de Score van de Rekening ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) op om het even welk punt worden bijgewerkt, moet de configuratie onder Verkoop door Admin worden bijgewerkt om ervoor te zorgen de scores nauwkeurig op de voorkeur van de gebruiker wijzen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/five-4.png)

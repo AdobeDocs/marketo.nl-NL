@@ -4,10 +4,10 @@ description: Een abonnement op een slimme lijst bewerken - Marketo Docs - Produc
 title: Een abonnement voor een slimme lijst bewerken
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 U kunt deze kolommen rechtstreeks bewerken op het tabblad Abonnementen, dat wordt weergegeven in Marketingactiviteiten of Database:
 
-* Ontvangers
-* Frequentie
-* Kolommen
-* Aflevering beëindigen
-* Indeling
+* [!UICONTROL Recipients]
+* [!UICONTROL Frequency]
+* [!UICONTROL Columns]
+* [!UICONTROL End Delivery]
+* [!UICONTROL Format]
 
-1. Selecteren **Database** (wij gebruiken het in dit voorbeeld, maar de Activiteiten van de Marketing werken precies het zelfde).
+1. Selecteer **[!UICONTROL Database]** (we gebruiken het in dit voorbeeld, maar marketingactiviteiten werken precies hetzelfde).
 
    ![](assets/db-1.png)
 
@@ -29,15 +29,15 @@ U kunt deze kolommen rechtstreeks bewerken op het tabblad Abonnementen, dat word
 
    ![](assets/two.png)
 
-1. Klik in de kolom Ontvangers en het wordt geopend zodat u meer e-mailadressen kunt invoeren (scheidt hen met een komma).
+1. Klik in de kolom **[!UICONTROL Recipients]** en deze wordt geopend zodat u meer e-mailadressen kunt invoeren (gebruik een komma als scheidingsteken).
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Klik op de knop **Frequentie** om de instelling te kiezen of te wijzigen.
+1. Klik op de kolom **[!UICONTROL Frequency]** om de instelling te kiezen of te wijzigen.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Open de **Kolommen** kolom en gebruik de selecteur om kolommen toe te voegen of te verwijderen uit het rapport. De Kolommen van het rapport bevatten alle beschikbare kolommen en de Kolommen van Marketo tonen slechts die u aan vertoning in uw rapport hebt geselecteerd. Klikken **Opslaan**.
+1. Open de kolom **[!UICONTROL Columns]** en gebruik de kiezer om kolommen toe te voegen of te verwijderen uit het rapport. De Kolommen van het rapport bevatten alle beschikbare kolommen en de Kolommen van Marketo tonen slechts die u aan vertoning in uw rapport hebt geselecteerd. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,10 +45,10 @@ U kunt deze kolommen rechtstreeks bewerken op het tabblad Abonnementen, dat word
    >
    >De kolommen onder Kolommen van Marketo zijn de rapportkolommen, niet degenen die in het het rapportlusje van Abonnementen worden gebruikt.
 
-1. Klik op de knop **Einddatum** om de einddatum te bewerken. Selecteren **Nooit** of **Datum**. Voer de datum in of kies een datum in de kalender. Klikken **Goedkeuren**.
+1. Klik op de kolom **[!UICONTROL End Date]** om de einddatum te bewerken. Selecteer **[!UICONTROL Never]** of **[!UICONTROL Date]** . Voer de datum in of kies een datum in de kalender. Klik op **[!UICONTROL Approve]**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. Het laatste stukje van de puzzel is de indeling. Klik op de knop **Indeling** en selecteert u de gewenste kolom. CSV is de standaardwaarde.
+1. Het laatste stukje van de puzzel is de indeling. Klik op de kolom **[!UICONTROL Format]** en selecteer de gewenste kolom. CSV is de standaardwaarde.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

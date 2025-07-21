@@ -4,29 +4,29 @@ description: Vergrendeling van inhoud - Marketo-documenten - Productdocumentatie
 title: Inhoud vergrendelen
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Inhoud vergrendelen {#content-lockdown}
 
-Als u de inhoud vergrendelt, voorkomt u dat gebruikers van andere leveranciers sjablonen en/of campagnes bewerken. Gebruikers kunnen niet: inhoud delen, klonen, bewerken of verwijderen. Ze hebben ook geen optie om sjablonen te archiveren.
+Als u de inhoud vergrendelt, voorkomt u dat gebruikers van andere leveranciers sjablonen en/of campagnes bewerken. Gebruikers kunnen geen inhoud delen, klonen, bewerken of verwijderen. Ze hebben ook geen optie om sjablonen te archiveren.
 
 >[!NOTE]
 >
->Gebruikers **zal** kan de inhoud van een e-mailbericht nog steeds bewerken op het moment van verzending of het starten van een campagne.
+>De gebruikers **zullen** nog de inhoud van een e-mail kunnen uitgeven op het tijdstip van het verzenden, of wanneer het lanceren van een campagne.
 
-1. Klik in Sales Connect op het pictogram Instellingen en selecteer **Instellingen**.
+1. Klik in [!UICONTROL Sales Connect] op het instellingenpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one-4.png)
 
-1. Klik onder Beheerinstellingen op **Algemeen**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL General]** .
 
    ![](assets/two-4.png)
 
-1. Schuif omlaag naar Vergrendeling van inhoud. Als u een van beide schuifregelaars inschakelt, wordt _disable_ het vermogen van uw teamleden om sjablonen en/of campagnes te maken/bewerken.
+1. Omlaag schuiven naar [!UICONTROL Content Lockdown] . Het draaien van één van beide schuif zal __ onbruikbaar maken uw teamleden&#39; capaciteit om malplaatjes en/of campagnes tot stand te brengen/uit te geven.
 
    ![](assets/three-4.png)

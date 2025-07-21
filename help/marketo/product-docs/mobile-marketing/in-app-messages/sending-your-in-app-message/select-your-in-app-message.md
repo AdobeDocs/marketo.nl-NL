@@ -4,9 +4,9 @@ description: Selecteer uw bericht in de app - Marketo Docs - Productdocumentatie
 title: Uw bericht in de app selecteren
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ Hier selecteert u het bericht dat u hebt gemaakt voor gebruik in het programma.
 
    >[!TIP]
    >
-   >Als u een ander bericht wilt selecteren, verwijdert u dit in het veld Bericht in de app. Vervolgens wordt de koppeling Nieuw bericht in de app geretourneerd. Klik erop en selecteer een ander bericht.
+   >Als u een ander bericht wilt selecteren, verwijdert u dit in het veld [!UICONTROL In-App Message] . De koppeling [!UICONTROL New In-App Message] komt dan terug. Klik erop en selecteer een ander bericht.
 
-Je bent op schema. Tijd tot [plannen om](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+Je bent op schema. Tijd om [ te plannen verzendt ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).

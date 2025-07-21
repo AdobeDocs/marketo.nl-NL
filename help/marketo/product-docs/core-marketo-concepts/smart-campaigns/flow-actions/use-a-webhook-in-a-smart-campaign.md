@@ -4,20 +4,20 @@ description: Een webhaak gebruiken in een slimme campagne - Marketo Docs - Produ
 title: Een webhaak gebruiken in een slimme campagne
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Een webhaak gebruiken in een slimme campagne {#use-a-webhook-in-a-smart-campaign}
 
-Om a [ webhaak ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}  te gebruiken, voeg het aan a [ Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} als stroomactie toe.
+Om a [ webhaak ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} te gebruiken, voeg het aan a [ Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} als stroomactie toe.
 
 >[!AVAILABILITY]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 1. [ creeer een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
@@ -29,7 +29,7 @@ Om a [ webhaak ](https://experienceleague.adobe.com/nl/docs/marketo-developer/ma
 
    ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
-1. Selecteer de Webhaak.
+1. Selecteer de **[!UICONTROL Webhook]** .
 
    ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 

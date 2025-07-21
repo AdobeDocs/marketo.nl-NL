@@ -4,20 +4,20 @@ description: Bekeken Web-pagina's, Web-pagina activiteitenverslag - Marketo Docs
 title: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina {#web-pages-viewed-web-page-activity-report}
 
-Van het rapport van de Activiteit van de Pagina van het a [ Web ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), kunt u de specifieke pagina&#39;s zien die door de mensen in het rapport werden bekeken.
+Van een [[!UICONTROL Web Page Activity] rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), kunt u de specifieke pagina&#39;s zien die door de mensen in het rapport werden bekeken.
 
 >[!PREREQUISITES]
 >
->Om activiteit van uw website in Marketo te vangen, moet u eerst opstelling Munchkin op uw plaats [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Om activiteit van uw website in Marketo te vangen, moet u eerst opstelling [ op uw plaats  [!DNL Munchkin]  eerst.](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
 1. In uw [ rapport van de Activiteit van de Pagina van het Web ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), klik de naam van de persoon.
 

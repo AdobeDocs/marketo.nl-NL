@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11382829
-description: Marketo Outlook-insteekmodule verwijderd door IT - Marketo Docs - Productdocumentatie
-title: Marketo Outlook-insteekmodule verwijderd door IT
+description: Marketo  [!DNL Outlook]  Insteekmodule die door IT - Marketo Docs - Documentatie van het Product wordt verwijderd
+title: Marketo  [!DNL Outlook]  Insteekmodule Uninstall door IT
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-# Marketo Outlook-insteekmodule verwijderd door IT {#marketo-outlook-plugin-uninstall-by-it}
+# Marketo [!DNL Outlook] -insteekmodule verwijderd door IT {#marketo-outlook-plugin-uninstall-by-it}
 
-Zo kan de IT-afdeling de Marketo Outlook-insteekmodule extern verwijderen.
+Hieronder wordt beschreven hoe IT de Marketo [!DNL Outlook] -plug-in extern kan verwijderen.
 
 Voer de volgende bevellijn als zoals &quot;Systeem&quot;of een Administratieve gebruikersrekening met de /x schakelaar in werking om te desinstalleren.
 
@@ -47,6 +47,6 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 
 >[!CAUTION]
 >
->Als u de plug-in extern verwijdert, worden Outlook op de computer van de gebruiker forceerd gesloten.
+>Als u de insteekmodule verwijdert, wordt [!DNL Outlook] op de computer van de gebruiker geforceerd gesloten.
 
-Zie [Microsoft&#39;s volledige lijst met switches](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Gelieve te verwijzen [ volledige lijst van de Microsoft van schakelaars ](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.

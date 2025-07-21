@@ -4,22 +4,22 @@ description: Het goedkeuren van Stages en het toewijzen van Leidingen aan een Mo
 title: Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 0%
+source-wordcount: '303'
+ht-degree: 1%
 
 ---
 
 # Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Uw **Opbrengstmodel** aan de slag door bestaande lood toe te voegen, die toewijzingsregels voor om het even welke nieuwe lood creëren.
+Krijg uw **Model van de Opbrengst** omhoog en lopend door bestaande lood toe te voegen, die toewijzingsregels voor om het even welke nieuwe lood creëren.
 
 ## Fases goedkeuren {#approving-stages}
 
 Wij keuren de stadia van uw model goed alvorens u om het even welke lood toevoegt.
 
-1. Ga naar de **Analyse** gebied.
+1. Ga naar het **[!UICONTROL Analytics]** -gebied.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,11 +27,11 @@ Wij keuren de stadia van uw model goed alvorens u om het even welke lood toevoeg
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Onder **Modelhandelingen**, selecteert u **Fases goedkeuren**.
+1. Selecteer onder **[!UICONTROL Model Actions]** de optie **[!UICONTROL Approve Stages]** .
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. U zult met een alarm worden begroet; klikken **Leads toewijzen**.
+1. U wordt begroet met een waarschuwing. Klik op **[!UICONTROL Assign Leads]** .
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
@@ -39,21 +39,21 @@ Uitstekend! Laten we verder gaan en die leads toewijzen.
 
 ## Bestaande leads toewijzen {#assigning-existing-leads}
 
-[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de leads voor één stadium van uw model in uw Lead-database te identificeren.
+[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de lood voor één stadium van uw model in uw Gegevensbestand van de Lood te identificeren.
 
-1. Eenmaal [uw slimme lijst hebt gemaakt](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)klikt u op de knop **Leads** tab.
+1. Zodra u [ uw Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gecreeerd, klik het **[!UICONTROL Leads]** lusje.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Klikken **Alles selecteren** om de leads te selecteren.
+1. Klik op **[!UICONTROL Select All]** om de leads te selecteren.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Open de **Loodhandelingen** vervolgkeuzelijst en selecteer **Speciaal**. Klikken **Opbrengstfase wijzigen**.
+1. Open de vervolgkeuzelijst **[!UICONTROL Lead Actions]** en selecteer **[!UICONTROL Special]** . Klik op **[!UICONTROL Change Revenue Stage...]**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Selecteer de juiste **Model** en de juiste **Werkgebied**. Klikken **Nu uitvoeren**.
+1. Selecteer de juiste **[!UICONTROL Model]** en de juiste **[!UICONTROL Stage]** . Klik op **[!UICONTROL Run Now]**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
@@ -65,32 +65,32 @@ Geweldig! Om te specificeren hoe de nieuwe lood aan stadia worden toegewezen, cr
 >
 >Als uw model in de Goedgekeurde staat van Stages is, zult u geen gebeurtenissen van het Stadium van de Opbrengst van de Verandering in de de activiteitenlogboeken van de lood zien. Als uw model volledig is goedgekeurd, wordt deze stap overgeslagen als u een lood in het zelfde stadium beweegt het momenteel in is.
 
-## Nieuwe leads: Toewijzingsregels maken  {#new-leads-create-assignment-rules}
+## Nieuwe leads: toewijzingsregels maken  {#new-leads-create-assignment-rules}
 
-1. Klikken **Marketo Home** nogmaals, selecteert u vervolgens **Analyse**.
+1. Klik **Begin van Marketo** opnieuw, dan selecteren **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. Klik op het model in de boomstructuur en klik vervolgens op de knop **Modelhandelingen** menu, selecteren **Toewijzingsregels**.
+1. Klik op het model in de structuur, selecteer vervolgens het menu **[!UICONTROL Model Actions]** en selecteer **[!UICONTROL Assignment Rules]** .
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. Als uw toewijzingsregels meer dan één standaardkeuze bevatten, klikt u op **Werkgebied** selecteert, selecteert u en klikt u op **Keuze toevoegen**.
+1. Als uw toewijzingsregels meer dan één standaardkeuzeklik **[!UICONTROL Stage]** bevatten, maakt u uw selectie en klikt u op **[!UICONTROL Add Choice]** .
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
 ## Voorbeeld van toewijzingsregel {#example-assignment-rule}
 
-Creeer een regel van de Score van de Lood om de nieuwe lood met een minimumscore aan een aangewezen stap toe te wijzen.
+Maak een [!UICONTROL Lead Score] -regel om de nieuwe leads met een minimumscore toe te wijzen aan een geschikte stap.
 
-1. Onder **Indien**, selecteert u **Loodscore**. Kies vervolgens **ten minste**.
+1. Selecteer onder **[!UICONTROL If]** de optie **[!UICONTROL Lead Score]**. Kies vervolgens **[!UICONTROL at least]** .
 
    ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-1. Enter **40** in het veld en selecteer **Verkoopmanager** als een werkgebied. Klikken **Opslaan** om te voltooien.
+1. Ga **40** op het gebied in en selecteer **[!UICONTROL Sales Lead]** als [!UICONTROL Stage]. Klik op **[!UICONTROL Save]** om te voltooien.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
 >[!MORELIKETHIS]
 >
->Lees onze Help-pagina op om uw model goed te keuren **[Goedkeuring en goedkeuring van een inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**.
+>Om uw model goed te keuren, lees onze hulppagina op **[goedkeurend en het Ongoedkeuren van een Model van de Ontvangsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**.

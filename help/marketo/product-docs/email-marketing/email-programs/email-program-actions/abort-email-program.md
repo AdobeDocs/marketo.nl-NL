@@ -4,9 +4,9 @@ description: E-mailprogramma afbreken - Marketo Docs - Productdocumentatie
 title: E-mailprogramma afbreken
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Oeps! Druk op de remmen! Dit e-mailprogramma mag niet worden afgesloten.
 >
 >Dit artikel is bedoeld om te voorkomen dat e-mailberichten worden verzonden voordat ze worden verzonden. Verzonden e-mails kunnen niet worden teruggeroepen.
 
-1. Klik in een e-mailprogramma op **Programma afbreken**.
+1. Klik in een e-mailprogramma op **[!UICONTROL Abort Program]** .
 
    ![](assets/dashboardleads.jpg)
 
-1. Klikken **Afbreken** voor volledige bevestiging.
+1. Klik op **[!UICONTROL Abort]** voor volledige bevestiging.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

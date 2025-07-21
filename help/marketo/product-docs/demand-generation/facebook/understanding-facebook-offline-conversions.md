@@ -1,25 +1,25 @@
 ---
 unique-page-id: 11383945
-description: Facebook Offline conversies begrijpen - Marketo Docs - Productdocumentatie
-title: Facebook Offline conversies begrijpen
+description: Facebook Offline conversies - Marketo Docs - Productdocumentatie
+title: Offlineconversies van Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Facebook Offline conversies begrijpen {#understanding-facebook-offline-conversions}
+# [!DNL Facebook] Offlineconversies begrijpen {#understanding-facebook-offline-conversions}
 
-Met facebook Lead Ads-campagnes worden leads gegenereerd en naar Marketo verzonden voor gebruik in marketingcampagnes. Zonder zichtbaarheid in offline conversies kan de Facebook-adverteerder echter niet weten welke advertenties het meest effectief zijn. Hier is een voorbeeld.
+Facebook-campagnes voor advertenties genereren leads en sturen deze naar Marketo voor gebruik in marketingcampagnes. Zonder zichtbaarheid in offline conversies kan de [!DNL Facebook] -adverteerder echter niet weten welke advertenties het meest effectief zijn. Hier is een voorbeeld.
 
 >[!NOTE]
 >
 >**Voorbeeld**
 >
->Facebook Lead Ads voert drie advertenties uit.
+>[!UICONTROL Facebook Lead Ads] voert drie advertenties uit.
 >
 >* Advertentie 1 genereert 20 leads
 >* Advertentie 2 genereert 30 leads
@@ -27,7 +27,7 @@ Met facebook Lead Ads-campagnes worden leads gegenereerd en naar Marketo verzond
 >
 >Alleen al op basis van deze cijfers lijkt Advertentie 3 het meest effectief.
 >
->Als je echter kijkt naar gegevens aan de Marketo kant, dan ontstaat een ander verhaal.
+>Als je echter kijkt naar gegevens aan de Marketo kant, dan ontstaat er een ander verhaal.
 >
 >* Advertentie 1 genereert 10 verkopen
 >* Advertentie 3 produceert 2 verkopen
@@ -36,12 +36,12 @@ Met facebook Lead Ads-campagnes worden leads gegenereerd en naar Marketo verzond
 >
 >Zonder offline conversies zou de adverteerder waarschijnlijk meer geld investeren in advertentie 3. Met offlineconversiegegevens zal de adverteerder waarschijnlijker investeren in advertentie 1.
 
-U kunt [facebook Offline conversies instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) om offline en prestaties naar Facebook te verzenden.
+U kunt [ opstelling Offline Conversies van Facebook ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) offline en prestaties naar [!DNL Facebook] verzenden.
 
-1. Zorg ervoor dat u [Facebook LaunchPoint-integratie](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) is bijgewerkt.
-1. Stappen in uw inkomstencyclusmodel toewijzen aan offlineconversiefasen in Facebook.
-1. Wanneer een Facebook-lead wordt gegenereerd vanuit een Facebook-advertentie en een toegewezen werkgebied bereikt, stuurt Marketo de gegevens voor offline conversie een aantal keer per dag terug naar Facebook via een beveiligde, geautomatiseerde API. De gegevens worden weergegeven in het rapport Facebook Ads Manager.
+1. Zorg ervoor dat de [[!DNL Facebook] [!UICONTROL LaunchPoint] integratie ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) up-to-date is.
+1. Wijs fasen in uw model van de conjunctuurcyclus aan off-line omzettingsstadia op [!DNL Facebook] toe.
+1. Wanneer een [!DNL Facebook] -lead wordt gegenereerd vanuit een [!DNL Facebook] lead-advertentie en een toegewezen werkgebied bereikt, stuurt Marketo offline conversiegegevens een aantal keren per dag terug naar [!DNL Facebook] via een beveiligde, geautomatiseerde API. De gegevens worden weergegeven in het rapport [!DNL Facebook] Advertentiebeheer.
 
 >[!MORELIKETHIS]
 >
->[Facebook-offlineconversies instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[ Offlineconversies van de opstelling  [!DNL Facebook]  ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

@@ -4,10 +4,10 @@ description: Inzicht krijgen in gebeurtenisprogramma's - Marketo Docs - productd
 title: Gebeurtenisprogramma's
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '97'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 ## Overzicht {#overview}
 
@@ -30,10 +30,10 @@ Een gebeurtenisprogramma is een type programma dat kan worden gebruikt om uw off
 >* Tradeshows
 >* Vergaderingen
 
-Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar-provider](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) en synchroniseren met een [iPad-toepassing voor inchecken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+De gebeurtenissen kunnen automatisch met uw [ webinar leverancier ](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) evenals synchronisatie met a [ iPad controle-binnen app ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) verbinden.
 
 >[!MORELIKETHIS]
 >
->* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [StartPoint-gebeurtenispartners](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [[!DNL LaunchPoint]  Partners van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

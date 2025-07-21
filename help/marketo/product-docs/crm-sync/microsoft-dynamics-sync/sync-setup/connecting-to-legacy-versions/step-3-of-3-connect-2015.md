@@ -4,25 +4,25 @@ description: Marketo for Microsoft Dynamics 2015 op locatie installeren Stap 3 v
 title: Marketo voor Microsoft Dynamics 2015 op locatie installeren Stap 3 van 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
-# Stap 3 van 3: Connect Marketo Dynamics (2015 on-Prem) {#step-of-connect-marketo-dynamics-on-premises-2015}
+# Stap 3 van 3: Connect Marketo [!DNL Dynamics] (2015 op voorgrond) {#step-of-connect-marketo-dynamics-on-premises-2015}
 
 >[!PREREQUISITES]
 >
->* [ installeer Marketo voor Microsoft Dynamics 2015 On-Premises Stap 1 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
->* [ installeer Marketo voor Microsoft Dynamics 2015 On-Premises Stap 2 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+>* [ installeer Marketo voor  [!DNL Microsoft Dynamics]  2015 On-Premises Stap 1 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+>* [ installeer Marketo voor  [!DNL Microsoft Dynamics]  2015 On-Premises Stap 2 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
 
 >[!NOTE]
 >
 >**Vereiste Bevoegdheden Admin**
 
-## Gebruikersgegevens dynamiek synchroniseren invoeren {#enter-dynamics-sync-user-information}
+## Voer [!DNL Dynamics] Gebruikersgegevens synchroniseren in {#enter-dynamics-sync-user-information}
 
 1. Meld u aan bij Marketo en klik op **[!UICONTROL Admin]** .
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Klik op **[!UICONTROL Edit]** in **[!UICONTROL Enter Credentials]** .
+1. Klik op **[!UICONTROL Edit]** in **[!UICONTROL Step 1: Enter Credentials]** .
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
    >
    >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw Marketo-abonnement aanvragen.
 
-1. Ga **[!UICONTROL Username]** in, **[!UICONTROL Password]** een Microsoft Dynamics **[!UICONTROL URL]**, en a **Identiteitskaart van de Cliënt/Geheim**. Klik op **[!UICONTROL Save]** als u klaar bent.
+1. Ga **[!UICONTROL Username]** in, **[!UICONTROL Password]** a [!DNL Microsoft Dynamics] **URL**, en a **[!UICONTROL Client Id]/[!UICONTROL Client Secret]**. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/step-3-of-3-5.png)
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## Te synchroniseren velden selecteren {#select-fields-to-sync}
 
-1. Klik op **[!UICONTROL Edit]** in **[!UICONTROL Select Fields to Sync]** .
+1. Klik op **[!UICONTROL Edit]** in **[!UICONTROL Step 2: Select Fields to Sync]** .
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -70,17 +70,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in Dynamiek schrapt, adviseerden wij het doen dit met [ gehandicapte synchronisatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Dan vernieuw het schema in Marketo door [ Uitgezochte Gebieden uit te geven en op te slaan om ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"} te synchroniseren.
+>Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in [!DNL Dynamics] schrapt, adviseerden wij het doen dit met [ gehandicapte synchronisatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Vernieuw vervolgens het schema in Marketo door het [[!UICONTROL Select Fields to Sync]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te bewerken en op te slaan.
 
 ## Velden synchroniseren voor een aangepast filter {#sync-fields-for-a-custom-filter}
 
 Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe velden selecteren die u wilt synchroniseren met Marketo.
 
-1. Ga naar Beheer en selecteer **[!UICONTROL Microsoft Dynamics]** .
+1. Ga naar [!UICONTROL Admin] en selecteer **[!UICONTROL Microsoft Dynamics]** .
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klik op **[!UICONTROL Edit]** Veldsynchronisatiedetails.
+1. Klik op **[!UICONTROL Edit]** op [!UICONTROL Field Sync Details] .
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -90,13 +90,13 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
 ## Synchronisatie inschakelen {#enable-sync}
 
-1. Klik op **[!UICONTROL Edit]** in **[!UICONTROL Enable Sync]** .
+1. Klik op **[!UICONTROL Edit]** in **[!UICONTROL Step 3: Enable Sync]** .
 
    ![](assets/image2015-3-16-9-52-2.png)
 
    >[!CAUTION]
    >
-   >Marketo wordt niet automatisch gededupliceerd tegen een Microsoft Dynamics-synchronisatie of wanneer u handmatig personen invoert.
+   >Marketo wordt niet automatisch gededupliceerd via een [!DNL Microsoft Dynamics] -synchronisatie of wanneer u handmatig personen invoert.
 
 1. Lees alles in de pop-up, ga uw e-mail in, en klik **[!UICONTROL Start Sync]**.
 

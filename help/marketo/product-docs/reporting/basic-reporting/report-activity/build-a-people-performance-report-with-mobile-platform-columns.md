@@ -4,10 +4,10 @@ description: Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen 
 title: Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen van het Platform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
 ## Mobiele slimme lijsten maken {#create-mobile-smart-lists}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/ma.png)
 
@@ -25,35 +25,35 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
    ![](assets/two-1.png)
 
-1. Onder **Nieuw**, selecteert u **Nieuw lokaal element**.
+1. Selecteer onder **[!UICONTROL New]** de optie **[!UICONTROL New Local Asset]** .
 
    ![](assets/three-1.png)
 
-1. Klikken **Slimme lijst**.
+1. Klik op **[!UICONTROL Smart List]**.
 
    ![](assets/four-1.png)
 
-1. Typ een naam en klik op **Maken**.
+1. Typ een naam en klik op **[!UICONTROL Create]** .
 
    ![](assets/five-1.png)
 
-1. Zoek en sleep het filter Geopende e-mail naar het canvas.
+1. Zoek en sleep het filter [!UICONTROL Opened Email] naar het canvas.
 
    ![](assets/six-1.png)
 
-1. E-mail instellen op **is**.
+1. E-mail instellen op **[!UICONTROL is any]** .
 
    ![](assets/seven.png)
 
-1. Klikken op **Restrictie toevoegen** en selecteert u **Platform**.
+1. Klik op **[!UICONTROL Add Constraint]** en selecteer **[!UICONTROL Platform]** .
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >In dit voorbeeld hebben we het filter Geopende e-mail gebruikt. U kunt ook het geklikte filter E-mail gebruiken aangezien het de Platform beperking heeft.
+   >In dit voorbeeld hebben we het filter [!UICONTROL Opened Email] gebruikt. U kunt het filter [!UICONTROL Clicked Email] ook gebruiken aangezien het de beperking van het Platform heeft.
 
-1. Platform instellen op **iOS**.
+1. Stel [!UICONTROL Platform] in op **[!UICONTROL iOS]** .
 
    ![](assets/nine.png)
 
@@ -65,23 +65,23 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
 ## Een prestatierapport voor mensen maken {#create-a-people-performance-report}
 
-1. Selecteer onder Marketingactiviteiten het programma waarin uw **iOS** en **Android** slimme lijsten.
+1. Selecteer onder Marketingactiviteiten het programma waarin uw **[!UICONTROL iOS]** - en **[!UICONTROL Android]** slimme lijsten zijn opgeslagen.
 
    ![](assets/ten.png)
 
-1. Onder **Nieuw**, selecteert u **Nieuw lokaal element**.
+1. Selecteer onder **[!UICONTROL New]** de optie **[!UICONTROL New Local Asset]** .
 
    ![](assets/eleven.png)
 
-1. Klikken **Rapport**.
+1. Klik op **[!UICONTROL Report]**.
 
    ![](assets/twelve.png)
 
-1. Type instellen op **Prestaties van mensen**.
+1. Stel Type in op **[!UICONTROL People Performance]** .
 
    ![](assets/thirteen.png)
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/fourteen.png)
 
@@ -89,7 +89,7 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
 ## Mobiele slimme lijsten toevoegen als kolommen {#add-mobile-smart-lists-as-columns}
 
-1. Klik in het rapport dat u zojuist hebt gemaakt op **Instellen** en sleep vervolgens **Aangepaste kolommen** op het canvas.
+1. Klik in het rapport dat u zojuist hebt gemaakt op **[!UICONTROL Setup]** en sleep **[!UICONTROL Custom Columns]** naar het canvas.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
    >
    >Standaard wordt in het People Performance Report gekeken naar de laatste 7 dagen. U kunt de tijdlijn wijzigen door erop te dubbelklikken.
 
-1. Zoek en selecteer de slimme lijsten die u eerder hebt gemaakt en klik op **Toepassen**.
+1. Zoek en selecteer de slimme lijsten die u eerder hebt gemaakt en klik op **[!UICONTROL Apply]** .
 
    ![](assets/sixteen.png)
 
-1. Klikken **Rapport** om het rapport uit te voeren en uw gegevens te zien.
+1. Klik op **[!UICONTROL Report]** om het rapport uit te voeren en de gegevens weer te geven.
 
    ![](assets/seventeen.png)
 

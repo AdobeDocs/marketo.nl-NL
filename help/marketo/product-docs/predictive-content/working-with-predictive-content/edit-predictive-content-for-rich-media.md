@@ -4,9 +4,9 @@ description: Predictieve inhoud voor rijke media bewerken - Marketo Docs - Produ
 title: Predictieve inhoud voor rijke media bewerken
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
 >[!PREREQUISITES]
 >
->De inhoud moet [ voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de Al pagina van de Inhoud worden goedgekeurd.
+>De inhoud moet [ voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de [!UICONTROL All Content] pagina worden goedgekeurd.
 
-1. Voor de **Voorspelende pagina van de Inhoud**, klik een titel om de redacteur te openen.
+1. Klik op de pagina **[!UICONTROL Predictive Content]** op een titel om de editor te openen.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Klik **Rijke Media**.
+1. Klik op **[!UICONTROL Rich Media]**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -33,13 +33,13 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
    >[!NOTE]
    >
-   >JPEG-afbeeldingen met het kleurmodel CMYK worden niet ondersteund voor rijke media. JPEG moeten met een kleurprofiel worden omgezet in sRGB. Zorg ervoor dat u deze instelling kiest wanneer u exporteert vanuit de afbeeldingseditor.
+   >JPEG-afbeeldingen met het kleurmodel CMYK worden niet ondersteund voor rijke media. JPEG-bestanden moeten met een kleurprofiel worden omgezet in sRGB. Zorg ervoor dat u deze instelling kiest wanneer u exporteert vanuit de afbeeldingseditor.
 
 1. Type in a **Beschrijving**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Klik de **Categorieën** doos om [ categorieën te selecteren/toe te voegen u reeds opstelling ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatief) hebt.
+1. Klik de **[!UICONTROL Categories]** doos om [ categorieën te selecteren/toe te voegen u reeds opstelling ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatief) hebt.
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
    ![](assets/six-1.png)
 
-1. Klik **sparen**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/save.png)

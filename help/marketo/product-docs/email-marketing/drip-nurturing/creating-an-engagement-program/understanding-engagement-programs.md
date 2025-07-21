@@ -4,9 +4,9 @@ description: Betrokkenheidsprogramma's begrijpen - Marketo Docs - Productdocumen
 title: Betrokkenheidsprogramma's
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,46 +17,46 @@ Betrokkenheidsprogramma&#39;s zijn bedoeld om nieuwe mensen op de markt te breng
 
 >[!NOTE]
 >
->Er is een limiet van 100 **actief** serviceprogramma&#39;s per abonnement.
+>Er is een grens van 100 **actieve** betrokkenheidsprogramma&#39;s per abonnement.
 
-## Betrokkenheidsprogramma {#engagement-program}
+## Programma voor betrokkenheid {#engagement-program}
 
-An **betrokkenheidsprogramma** Dit is een programma dat eenvoudig complexe verpleging kan uitvoeren.
+Een **betrokkenheidsprogramma** is een type van programma dat complexe verpleegkundigen met gemak kan verwezenlijken.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
 >[!MORELIKETHIS]
 >
->[Een betrokkenheidsprogramma maken](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>[ creeer een Programma van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
-## Stream {#stream}
+## Streamen {#stream}
 
-A **stream** is een pool van inhoud met prioriteiten die het betrokkenheidsprogramma zal gebruiken om mensen te voeden.
+A **stroom** is een pool van prioritaire inhoud die het betrokkenheidsprogramma zal gebruiken om mensen te voeden.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
 >[!MORELIKETHIS]
 >
->* [Een stream toevoegen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
->* [Een stream klonen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
+>* [ voeg een Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) toe
+>* [ Kloon een Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## Inhoud {#content}
 
-Er zijn twee typen **content** u kunt aan de stromen van het betrokkenheidsprogramma toevoegen—e-mails en programma&#39;s. E-mails worden op het moment van de cast naar mensen verzonden.
+Er zijn twee soorten **inhoud** u aan de stromen-e-mail en programma&#39;s van het betrokkenheidsprogramma kunt toevoegen. E-mails worden op het moment van de cast naar mensen verzonden.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
->* [Inhoud toevoegen aan een stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
->* [Stroominhoud prioriteren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
->* [Beschikbaarheid van stroominhoud bewerken](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
->* [Stream-inhoud verwijderen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
->* [Stroominhoud archiveren en archiveren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
+>* [ voeg Inhoud aan een Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md) toe
+>* [ Prioritize de Inhoud van de Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
+>* [ geeft Beschikbaarheid van de Inhoud van de Stroom uit ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [ verwijder de Inhoud van de Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+>* [ Inhoud van de Stroom van het Archief en Unarchive ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
-## Cast {#cast}
+## Gegoten {#cast}
 
-A **gieten** Dit is het geval van het verzenden van e-mails van een betrokkenheidsprogramma.
+A **gegoten** is de gebeurtenis om e-mails van een Programma van de Betrokkenheid te verzenden.
 
 >[!NOTE]
 >
@@ -64,29 +64,29 @@ A **gieten** Dit is het geval van het verzenden van e-mails van een betrokkenhei
 
 ## Stream Cadence {#stream-cadence}
 
-U bepaalt wanneer een gietvorm door vestiging gebeurt **stroomkring**. Zo plant u inhoud om met regelmatige intervallen uit te gaan.
+U besluit wanneer een gietvorm door vestiging **stroomkadentie** gebeurt. Zo plant u inhoud om met regelmatige intervallen uit te gaan.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
 >[!MORELIKETHIS]
 >
->[Stroomversnelling instellen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>[ plaats de Koorden van de Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 
 ## Persoon Cadence {#person-cadence}
 
-A **persoonlijkheden** is een status die definieert in hoeverre deze inhoud kan ontvangen van een betrokkenheidsprogramma. U kunt de **Cadre van het Programma van de Aanwezigheid van de Verandering** Stapsgewijs doorlopen om deze waarde te wijzigen in Gepauzeerd of Normaal.
+A **persoonkadentie** is een status die zijn capaciteit bepaalt om inhoud van een betrokkenheidsprogramma te ontvangen. U kunt de stap **[!UICONTROL Change Engagement Program Cadence]** flow gebruiken om deze in [!UICONTROL Paused] of [!UICONTROL Normal] te wijzigen.
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Geëxhausd {#exhausted}
 
-Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, roepen wij de persoon **Geëxhausd**.
+Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, roepen wij de persoon **Uitgedreven**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[Personen die inhoud hebben geëxporteerd](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[ Mensen die inhoud ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md) hebben uitgeput
 
 ## Niveau van betrokkenheid bij inhoud {#content-engagement-level}
 
@@ -94,4 +94,4 @@ Het niveau van de betrokkenheid bij inhoud is een score van 0 tot 100 punten die
 
 >[!MORELIKETHIS]
 >
->[De betrokkenheidsscore begrijpen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
+>[ Begrijpend de Score van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)

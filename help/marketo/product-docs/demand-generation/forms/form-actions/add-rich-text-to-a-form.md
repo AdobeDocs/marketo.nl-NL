@@ -4,10 +4,10 @@ description: Rijke tekst toevoegen aan een formulier - Marketo Docs - Productdoc
 title: Rijke tekst toevoegen aan een formulier
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 3%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen velden toe te voegen. Bekijk het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Klik op de knop **+** ondertekenen.
+1. Klik op het **+** -teken.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Selecteren **RTF**.
+1. Selecteer **[!UICONTROL Rich Text]** .
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
    >
    >Als u een lijnscheidingsteken in het formulier nodig hebt, gebruikt u de knop Horizontale lijn.
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -57,4 +57,4 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
 
 >[!TIP]
 >
->Wist u dat u ook [zichtbaarheidsregels toevoegen](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) naar een tekstblok met tekstopmaak?
+>Wist u u kunt ook [ zichtbaarheidsregels ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok toevoegen?

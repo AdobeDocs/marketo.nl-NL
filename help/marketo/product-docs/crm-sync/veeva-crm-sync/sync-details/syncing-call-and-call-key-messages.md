@@ -3,22 +3,22 @@ description: Het synchroniseren van Vraag en de Zeer belangrijke Berichten van d
 title: Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
 
 # Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten {#syncing-call-and-call-key-messages}
 
-De Vraag en de Zeer belangrijke Voorwerpen van het Bericht van de Vraag in Veeva CRM worden gesynchroniseerd door gebrek in Marketo Engage. Marketo synchroniseert gegevens die tot 6 maanden oud zijn, gebaseerd op Vraag Gemaakt Datum.
+De Vraag en de Zeer belangrijke Voorwerpen van het Bericht van de Vraag in [!DNL Veeva] CRM worden gesynchroniseerd door gebrek in Marketo Engage. Marketo synchroniseert gegevens die tot 6 maanden oud zijn, gebaseerd op Vraag Gemaakt Datum.
 
 >[!NOTE]
 >
 >Marketo behoudt vraaggegevens tot zes maanden vanaf de datum van de Vraag.
 
-**Wat zijn de trekkers/de filters met betrekking tot Vraag en Vraag Zeer belangrijk Bericht?**
+**wat zijn de trekkers/de filters met betrekking tot Vraag en het Zeer belangrijke Bericht van de Vraag?**
 
 Triggers:
 
@@ -74,7 +74,7 @@ De volgende gebieden op Vraag en de Zeer belangrijke berichten van de Vraag word
     <tr>
       <td>Bellen</td>
       <td>Type oproep</td>
-      <td>Type van vraag die systeem wordt gehandhaafd gebaseerd op het type en de inhoud van de vraag. Dit veld wordt gebruikt voor rapportagedoeleinden. Geldige waarden zijn: Alleen details, Details met voorbeeld, Groepsdetails, Groepsdetails met voorbeeld, Alleen voorbeeld. Deze waarden moeten niet worden gewijzigd, maar de vertalingen voor deze picklists kunnen worden gewijzigd. De aanwezigen hebben het zelfde vraagtype zoals de kopbalvraag. Voor een vraag van de Groep met 3 beroeps, hebben alle 4 verslagen het vraagtype van "het Detail van de Groep"</td>
+      <td>Type van vraag die systeem wordt gehandhaafd gebaseerd op het type en de inhoud van de vraag. Dit veld wordt gebruikt voor rapportagedoeleinden. Geldige waarden zijn: Alleen detail, Details met voorbeeld, Groepdetails, Groepdetails met voorbeeld, Alleen voorbeeld. Deze waarden moeten niet worden gewijzigd, maar de vertalingen voor deze picklists kunnen worden gewijzigd. De aanwezigen hebben het zelfde vraagtype zoals de kopbalvraag. Voor een vraag van de Groep met 3 beroeps, hebben alle 4 verslagen het vraagtype van "het Detail van de Groep"</td>
       <td>Call_Type_vod_c</td>
       <td>Picklist</td>
     </tr>
@@ -118,7 +118,7 @@ De volgende gebieden op Vraag en de Zeer belangrijke berichten van de Vraag word
       <td>Bellen</td>
       <td>Opzoeken naar de oproep. Elk zeer belangrijk bericht wordt geassocieerd met een vraag.</td>
       <td>Call2_vod__c</td>
-      <td>Master-Detail (Vraag)</td>
+      <td>Hoofd-Detail (Vraag)</td>
     </tr>
     <tr>
       <td>Bericht met oproepsleutel</td>
@@ -136,7 +136,7 @@ De volgende gebieden op Vraag en de Zeer belangrijke berichten van de Vraag word
     </tr>
     <tr>
       <td>Bericht met oproepsleutel</td>
-      <td>Naam sleutelbericht</td>
+      <td>Naam van sleutelbericht</td>
       <td>Berichtnaam stempelsleutel</td>
       <td>Key_Message_Name_vod_c</td>
       <td>Tekst (80)</td>
@@ -150,7 +150,7 @@ De volgende gebieden op Vraag en de Zeer belangrijke berichten van de Vraag word
     </tr>
     <tr>
       <td>Bericht met oproepsleutel</td>
-      <td>Reactie</a>
+      <td>Reactie </a>
       </td>
       <td>Picklist van reactie op het bericht. Bewerk de keuzelijst om de reactiewaarden te wijzigen.</td>
       <td>Reactie_vod__c</td>

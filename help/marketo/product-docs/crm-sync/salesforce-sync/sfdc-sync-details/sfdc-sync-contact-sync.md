@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2953457
-description: SFDC-synchronisatie - Contactsynchronisatie - Marketo-documenten - Productdocumentatie
-title: SFDC-synchronisatie - Contactsynchronisatie
+description: SFDC Sync - Contact Sync - Marketo Docs - Productdocumentatie
+title: SFDC Sync - Contact opnemen met Sync
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# SFDC-synchronisatie: contact opnemen met Synchronisatie {#sfdc-sync-contact-sync}
+# SFDC Sync: Contact opnemen met Sync {#sfdc-sync-contact-sync}
 
-Wist je dat Marketo Engage je hele database synchroniseert met Salesforce? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn een paar details over hoe Marketo Salesforce Contacten specifiek behandelt.
+Wist u dat Marketo uw gehele database synchroniseert met [!DNL Salesforce] ? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier volgt een aantal details over hoe Marketo [!DNL Salesforce] Contactpersonen specifiek behandelt.
 
 ## Richting synchroniseren {#sync-direction}
 
-De contactsynchronisatie is bidirectioneel. Als u wijzigingen aanbrengt in een contactpersoon in Salesforce of Marketo, worden uw updates weerspiegeld in beide systemen.
+De contactsynchronisatie is bidirectioneel. Als u wijzigingen aanbrengt in een contactpersoon in [!DNL Salesforce] of Marketo, worden de updates weerspiegeld in beide systemen.
 
 ## Wat gebeurt er als beide systemen tegelijkertijd worden gewijzigd? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
-We zijn aardig en laten Salesforce winnen. Het is zeldzaam dat dit soort botsing van gegevens voorkomt.
+We zijn aardig en laten [!DNL Salesforce] winnen. Het is zeldzaam dat dit soort botsing van gegevens voorkomt.
 
 ## Kan ik een persoon omzetten in een contactpersoon in Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Ja, gebruik de **[Persoon omzetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}** Handeling flow.
+Ja, gebruik **[de stroomactie van de Persoon van de Bekeerling](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"}**.
 
 >[!CAUTION]
 >
->Het omzetten van een persoon in Marketo leidt tot een nieuwe account en een nieuwe kans in Salesforce. Als u geen dubbele accounts wilt, gebruikt u Salesforce om te zetten.
+>Het converteren van een persoon in Marketo resulteert in een nieuwe account en in een nieuwe mogelijkheid in [!DNL Salesforce] . Als u geen dubbele accounts wilt, gebruikt u [!DNL Salesforce] om te converteren.
 
 ## Kan ik een synchronisatie van een contact manueel dwingen? {#can-i-manually-force-a-sync-of-a-contact}
 
-Ja, gebruik de **[Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** en wordt in real-time gesynchroniseerd.
+Ja, gebruik de **[Persoon van de Synchronisatie aan SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}** stroomactie en het zal in real time synchroniseren.
 
 ## Synchroniseert elke standaard veld met Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
@@ -43,6 +43,6 @@ Nee, niet alle standaardvelden zijn nuttig. Alle aangepaste velden kunnen onderd
 >
 >Marketo synchroniseert alleen de velden waartoe uw Marketo Sync-gebruiker toegang heeft.
 
-## Zal Marketo de regels voor de validatie van Salesforce naleven? {#will-marketo-respect-the-salesforce-validation-rules}
+## Zal Marketo de validatieregels van [!DNL Salesforce] naleven? {#will-marketo-respect-the-salesforce-validation-rules}
 
 Ja, als er een conflict is zal het het resultaat in het Logboek van de activiteit van de leads registreren.

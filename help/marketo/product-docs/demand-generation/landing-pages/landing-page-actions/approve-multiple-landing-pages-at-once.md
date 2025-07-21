@@ -4,20 +4,20 @@ description: Meerdere landingspagina's tegelijk goedkeuren - Marketo Docs - Prod
 title: Meerdere bestemmingspagina's tegelijk goedkeuren
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
 # Meerdere bestemmingspagina&#39;s tegelijk goedkeuren {#approve-multiple-landing-pages-at-once}
 
-1. Ga naar **Studio van het Ontwerp**.
+1. Ga naar **[!UICONTROL Design Studio]** .
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
-1. Klik **het Bestaan Pagina&#39;s**.
+1. Klik op **[!UICONTROL Landing Pages]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-2.png)
 

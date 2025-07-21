@@ -4,10 +4,10 @@ description: Onverwachte fout in Gmail - Marketo Docs - Productdocumentatie
 title: Onverwachte fout in Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Als u een &quot;Onverwachte Fout&quot; ontvangt in Gmail wanneer u probeert een e-mail te verzenden, moet u waarschijnlijk een reset uitvoeren op uw Gmail-verbinding.
 
-1. Ga naar **Instellingen** > **E-mailtracking** > **Beheren**.
+1. Ga naar **[!UICONTROL Settings]** > **[!UICONTROL Email Tracking]** > **[!UICONTROL Manage]** .
 
-1. Klikken **Verbinding met Gmail verbreken**.
+1. Klik op **[!UICONTROL Disconnect from Gmail]**.
 
-1. Na het verbreken van de verbinding klikt u op **Verbinding maken met Google**.
+1. Na het verbreken van de verbinding klikt u op **[!UICONTROL Connect to Google]** .
 
-   Als u weer verbinding hebt gemaakt, gaat u terug naar Gmail en vernieuwt u de pagina en probeert u uw e-mail opnieuw te verzenden. Als het nog steeds niet werkt, gelieve [een ticket verzenden](https://nation.marketo.com/t5/Support/ct-p/Support) aan ons ondersteuningsteam.
+   Als u weer verbinding hebt gemaakt, gaat u terug naar Gmail en vernieuwt u de pagina en probeert u uw e-mail opnieuw te verzenden. Als het nog niet werkt, gelieve [ een kaartje ](https://nation.marketo.com/t5/Support/ct-p/Support) aan ons Team van de Steun voor te leggen.

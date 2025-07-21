@@ -4,9 +4,9 @@ description: Een fragment toevoegen aan een e-mail - Marketo Docs - Productdocum
 title: Een fragment toevoegen aan een e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
 >[!PREREQUISITES]
 >
->[Een fragment maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[ creeer een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 >[!NOTE]
 >
->U kunt geen [Marketo e-mailsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in fragmenten; zij **niet** werken in een e-mail. Fragmenten moeten alleen inhoud van het lichaam zijn (HTML + TEXT).
+>U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het **** zal niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
-1. Uw e-mail zoeken, deze selecteren en klikken **Concept bewerken**.
+1. Zoek de e-mail, selecteer deze en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/one-2.png)
 
-1. Selecteer het bewerkbare gebied dat u naar een fragment wilt converteren, klik op het tandwielpictogram en selecteer **Vervangen door fragment**.
+1. Selecteer het bewerkbare gebied dat u naar een fragment wilt converteren, klik op het tandwielpictogram en selecteer **[!UICONTROL Replace with Snippet]** .
 
    ![](assets/two-2.png)
 
-1. Selecteer het gewenste fragment en klik op **Opslaan**.
+1. Selecteer het gewenste fragment en klik op **[!UICONTROL Save]** .
 
    ![](assets/three-1.png)
 
@@ -43,6 +43,6 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
    >[!NOTE]
    >
-   >Telkens wanneer u uw fragment bijwerkt en goedkeurt, worden de wijzigingen doorgevoerd in de e-mail. De e-mail wordt opgesteld tenzij u het fragment goedkeurt met [Geen concept](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
+   >Telkens wanneer u uw fragment bijwerkt en goedkeurt, worden de wijzigingen doorgevoerd in de e-mail. E-mail zal worden opgesteld tenzij u het fragment met [ goedkeurt nr-Ontwerp ](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 Dit is een snelle en eenvoudige manier om dynamische inhoud opnieuw te gebruiken.

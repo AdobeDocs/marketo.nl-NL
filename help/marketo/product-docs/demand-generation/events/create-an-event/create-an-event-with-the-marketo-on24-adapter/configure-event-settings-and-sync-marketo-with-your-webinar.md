@@ -4,9 +4,9 @@ description: Gebeurtenisinstellingen configureren en Marketo synchroniseren met 
 title: Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Voer de volgende stappen uit om de Marketo-gebeurtenisinstellingen te configurer
 
 ## De gebeurtenis instellen {#set-the-event}
 
-1. Kies de gebeurtenis die u aan een ON24-webinar wilt koppelen en klik op de knop **Gebeurtenishandelingen** vervolgkeuzelijst en selecteer **Gebeurtenisinstellingen**.
+1. Kies de gebeurtenis die u aan een ON24-webinar wilt koppelen, klik vervolgens op de vervolgkeuzelijst **[!UICONTROL Event Actions]** en selecteer **[!UICONTROL Event Settings]** .
 
    ![](assets/one.png)
 
-1. Selecteer ON24 als Partner van de Gebeurtenis.
+1. Selecteer ON24 als [!UICONTROL Event Partner].
 
    ![](assets/two.png)
 
-1. Selecteer de aanmeldingsaccount (bijvoorbeeld de weergavenaam).
+1. Selecteer de [!UICONTROL Login] -account (bijvoorbeeld de weergavenaam).
 
    ![](assets/three.png)
 
-1. Voer de gebeurtenis-id in (ontvang deze van ON24). Klikken **Opslaan**.
+1. Voer de waarde [!UICONTROL Event Id] in (ontvang deze waarde op ON24). Klik op **[!UICONTROL Save]**.
 
    ![](assets/four.png)
 
@@ -39,22 +39,22 @@ Voer de volgende stappen uit om de Marketo-gebeurtenisinstellingen te configurer
 
 ## Het schema instellen {#set-the-schedule}
 
-Wanneer u opstelling een gebeurtenis die met een ON24 Webinar wordt geassocieerd, bevolkt het gebeurtenisprogramma met gegevens van ON24. Voer de volgende stappen uit om het dialoogvenster Gebeurtenisschema te openen.
+Wanneer u opstelling een gebeurtenis die met een ON24 Webinar wordt geassocieerd, bevolkt het gebeurtenisprogramma met gegevens van ON24. Voer de volgende stappen uit om het dialoogvenster [!UICONTROL Event Schedule] te openen.
 
-1. Selecteer de gebeurtenis. Klik op de knop **Gebeurtenishandelingen** vervolgkeuzelijst en selecteer **Plan.**
+1. Selecteer de gebeurtenis. Klik op de vervolgkeuzelijst **[!UICONTROL Event Actions]** en selecteer **[!UICONTROL Schedule].**
 
    ![](assets/five.png)
 
-1. Kies uw **Begindatum, Einddatum**, en **Tijdzone**. Klikken **Opslaan**.
+1. Kies de **[!UICONTROL Start Date]** , **[!UICONTROL End Date]** en **[!UICONTROL Time Zone]** . Klik op **[!UICONTROL Save]**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Als u gebeurtenisinformatie bijwerkt in ON24, moet u klikken **Vernieuwen vanaf webinar-provider** in het menu Gebeurtenishandelingen om te zien hoe de nieuwe gegevens worden gevuld.
+   >Als u gebeurtenisinformatie bijwerkt in ON24, moet u **[!UICONTROL Refresh from Webinar Provider]** in het [!UICONTROL Event Actions] menu klikken om de nieuwe gegevens te zien vullen.
 
-Nu kunt u verdergaan naar de volgende stap: [het creëren van kindcampagnes en lokale activa](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
+Nu kunt u zich op de volgende stap bewegen: [ creërend kindcampagnes en lokale activa ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Marketo On24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[ Begrip Marketo On24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

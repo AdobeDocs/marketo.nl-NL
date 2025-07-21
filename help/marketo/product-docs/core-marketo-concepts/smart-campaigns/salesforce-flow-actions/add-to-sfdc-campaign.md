@@ -4,26 +4,26 @@ description: Toevoegen aan SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Toevoegen aan SFDC-campagne
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Toevoegen aan SFDC-campagne {#add-to-sfdc-campaign}
 
-Deze flowstap kan worden gebruikt in Marketo&#39;s Engage campagnes of als een enkele flowstap om mensen als leider toe te voegen in een Salesforce-campagne. Als de lead nog niet bestaat in Salesforce, wordt deze automatisch gesynchroniseerd en met de opgegeven status toegevoegd aan de campagne.
+Deze flowstap kan worden gebruikt in Marketo Engage-campagnes of als een enkele flowstap om mensen als leads toe te voegen in een Salesforce-campagne. Als de lead nog niet in Salesforce bestaat, wordt deze automatisch gesynchroniseerd en met de opgegeven status toegevoegd aan de campagne.
 
 >[!NOTE]
 >
->Alleen beschikbaar bij integratie met Salesforce.
+>Alleen beschikbaar bij integratie met [!DNL Salesforce] .
 
 ![](assets/add-to-sfdc-campaign-1.png)
 
 ## Gebruik {#usage}
 
-1. Zoek en selecteer de Salesforce-campagne waaraan u uw leads wilt toevoegen.
+1. Zoek en selecteer de [!DNL Salesforce] -campagne waaraan u uw leads wilt toevoegen.
 
    ![](assets/add-to-sfdc-campaign-2.png)
 
@@ -36,12 +36,12 @@ Deze flowstap kan worden gebruikt in Marketo&#39;s Engage campagnes of als een e
 
    >[!TIP]
    >
-   >U kunt campagne Salesforce gebruiken [ Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} om programma het klonen gemakkelijker te maken.
+   >U kunt de campagne van Salesforce [ Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} gebruiken om programma het klonen gemakkelijker te maken.
 
-1. Selecteer de status van het lid van de Salesforce-campagne dat u wilt toewijzen aan leads wanneer deze worden toegevoegd.
+1. Selecteer de status van het campagnerelid van [!DNL Salesforce] dat u wilt toewijzen aan leads wanneer deze worden toegevoegd.
 
    ![](assets/add-to-sfdc-campaign-3.png)
 
    >[!CAUTION]
    >
-   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden ze overgeslagen en wordt hun status NIET bijgewerkt. U kunt [ gebruiken verandert hun status in een campagne SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"} in plaats daarvan.
+   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden deze overgeslagen en wordt hun status NIET bijgewerkt. U kunt [ gebruiken verandert hun status in een campagne van SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"} in plaats daarvan.

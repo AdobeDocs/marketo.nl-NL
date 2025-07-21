@@ -4,39 +4,39 @@ description: Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales C
 title: Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
-# Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
+# Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met [!DNL Sales Connect] {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
 ## Gebroken Gmail-integratie (waarom verzendt mijn persoonlijke Gmail e-mail) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
 
-De meest voorkomende reden voor een verbroken Gmail-verbinding is een onbedoelde integratie met de persoonlijke account van een gebruiker. Dit kan gebeuren wanneer een gebruiker op &quot;Verbinding maken&quot; klikt of wanneer hij of zij een e-mail probeert te verzenden via zijn of haar persoonlijke account. Dit kan erg verleidelijk zijn, omdat deze optie bestaat wanneer u uw Gmail-account opent in dezelfde versie van Chrome als uw werk-e-mail.
+De meest voorkomende reden voor een verbroken Gmail-verbinding is een onbedoelde integratie met de persoonlijke account van een gebruiker. Dit kan gebeuren wanneer een gebruiker op &quot;Verbinding maken&quot; klikt of wanneer hij of zij een e-mail probeert te verzenden via zijn of haar persoonlijke account. Dit kan zeer verleidelijk zijn om te doen omdat de optie zal bestaan wanneer het toegang tot van uw Gmail- rekening in de zelfde instantie van [!DNL Chrome] zoals uw werk e-mail.
 
-## Waarom probeert Sales Connect zelfs met mijn persoonlijke Gmail te integreren? {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
+## Waarom probeert [!DNL Sales Connect] zelfs met mijn persoonlijke Gmail te integreren? {#why-does-sales-connect-even-try-to-integrate-with-my-personal-gmail}
 
-Sales Connect kan met Gmail worden geïntegreerd via een extensie die in de Chrome-browser is geïnstalleerd. Wanneer de extensie een instantie van Gmail opent, biedt deze een optie om hierin te integreren. Om integratie met uw persoonlijke Gmail- rekening te verhinderen, adviseren wij één van drie dingen...
+[!DNL Sales Connect] integreert met Gmail door een uitbreiding die in [!DNL Chrome] wordt geïnstalleerd browser. Wanneer de extensie een instantie van Gmail opent, biedt deze een optie om hierin te integreren. Om integratie met uw persoonlijke Gmail- rekening te verhinderen, adviseren wij één van drie dingen...
 
-Aanmelden als een andere Chrome-gebruiker (aanbevolen)
+Aanmelden als een andere [!DNL Chrome] gebruiker (aanbevolen)
 
-Klikken [deze koppeling](https://support.google.com/chrome/answer/2364824?hl=en) voor informatie over het maken van een ander Chrome-profiel.
+Klik [ deze verbinding ](https://support.google.com/chrome/answer/2364824?hl=en) om te lezen hoe te om een ander [!DNL Chrome] Profiel tot stand te brengen.
 
-**Pros**: Als u zich aanmeldt als een andere gebruiker, wordt een nieuwe instantie van Chrome geopend. Dit exemplaar is een gloednieuw venster van Chrome, en geen van uw oude uitbreidingen zal in dit bestaan. Het houdt ook cookies bij zodat u zich niet telkens bij Gmail hoeft aan te melden.
+**Pros**: Het ondertekenen binnen als een andere gebruiker zal een nieuw geval van [!DNL Chrome] openen. Deze instantie is een gloednieuw venster van [!DNL Chrome] en geen van uw oude extensies bestaat in deze instantie. Het houdt ook cookies bij zodat u zich niet telkens bij uw Gmail hoeft aan te melden.
 
-**Cons**: Er moeten twee vensters Chrome zijn geopend.
+**Kons**: Moet twee vensters van [!DNL Chrome] open hebben.
 
 Andere browser gebruiken
 
-**Pros:** Als u een andere internetbrowser (IE of Firefox) gebruikt waarop de extensie niet is geïnstalleerd, voorkomt u dat dit gebeurt.
+**Pros:** Gebruikend een andere Internet browser (IE of Firefox) die niet de geïnstalleerde uitbreiding heeft zal dit verhinderen om te gebeuren.
 
-**Cons**: Het gebruik van meerdere browsers kan vervelend zijn.
+**Kons**: Het gebruiken van veelvoudige browsers kan irriterend zijn.
 
 Een Incognito-venster gebruiken
 
-**Pros:** Een incognitovenster is als het openen van een naakte versie van Chrome. Dit betekent dat er geen extensies zijn geïnstalleerd en dat Sales Connect er niet is om verbinding te maken.
+**Pros:** Een incognitovenster is als het openen van een naakte versie van [!DNL Chrome]. Dit betekent dat er geen extensies zijn geïnstalleerd en dat [!DNL Sales Connect] er niet is om verbinding te maken.
 
-**Cons**: U moet zich telkens aanmelden bij Gmail wanneer u uw dag start en opnieuw wanneer u per ongeluk het venster sluit.
+**Kons**: U zult binnen aan Gmail moeten ondertekenen telkens als u uw dag begint, en opnieuw als u toevallig het venster sluit.

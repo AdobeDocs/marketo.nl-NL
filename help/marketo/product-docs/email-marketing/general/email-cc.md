@@ -4,9 +4,9 @@ description: E-mail CC - Marketo-documenten - Productdocumentatie
 title: E-mail CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Deze functie is beschikbaar voor alle e-mailmiddelen van Marketo, ongeacht hoe d
 
 ## E-mail CC instellen {#set-up-email-cc}
 
-1. In Mijn Marketo, klik **Admin**.
+1. Klik in Mijn Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/one.png)
 
-1. In de boom, uitgezochte **E-mail**.
+1. Selecteer **[!UICONTROL Email]** in de structuur.
 
    ![](assets/two.png)
 
-1. Klik **uitgeven de Montages van E-mail CC**.
+1. Klik op **[!UICONTROL Edit Email CC Settings]**.
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ Deze functie is beschikbaar voor alle e-mailmiddelen van Marketo, ongeacht hoe d
 
 ## E-mail CC gebruiken {#using-email-cc}
 
-1. Selecteer uw e-mail en klik **uitgeven Ontwerp**.
+1. Selecteer uw e-mail en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/five.png)
 
-1. Klik **E-mailmontages**.
+1. Klik op **[!UICONTROL Email Settings]**.
 
    ![](assets/six.png)
 

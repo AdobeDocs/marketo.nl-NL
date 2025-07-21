@@ -4,9 +4,9 @@ description: Periode-kosten bepalen - Marketo-documenten - productdocumentatie
 title: Kosten voor een bepaalde periode
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -23,50 +23,50 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
 
 >[!NOTE]
 >
->Bij het begin van een programma worden de geraamde kosten vermeld. Zodra de periode in het Programma voltooit, kunt u de Kosten van de Periode uitgeven en in de daadwerkelijke kosten ingaan. Hiermee krijgt u nauwkeurige rapportresultaten.
+>Bij het begin van een programma worden de geraamde kosten vermeld. Zodra de periode in het Programma voltooit, kunt u [!UICONTROL Period Cost] uitgeven en in de daadwerkelijke kosten ingaan. Dit zal u van nauwkeurige rapporteringsresultaten voorzien.
 
-## Periode-kosten definiëren {#define-a-period-cost}
+## Een [!UICONTROL Period Cost] definiëren {#define-a-period-cost}
 
-1. Toegang krijgen tot **Instellen** van uw programma of gebeurtenis.
+1. Open het tabblad **[!UICONTROL Setup]** van uw programma of gebeurtenis.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Slepen en neerzetten **Kosten periode** op het canvas en de **Nieuwe kosten** wordt weergegeven.
+1. Sleep **[!UICONTROL Period Cost]** naar het canvas en het dialoogvenster **[!UICONTROL New Cost]** .
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Voer de **Programmamaand** u wilt met de bepaalde kosten associëren.
+1. Voer de **[!UICONTROL Program Month]** in die u aan de gedefinieerde kosten wilt koppelen.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Voer een **Kosten periode** als geheel getal zonder decimalen of komma&#39;s (maximumlimiet: (99999999)
+1. Voer een **[!UICONTROL Period Cost]** als geheel getal in zonder decimalen of komma&#39;s (maximale waarde: 9999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
    >[!NOTE]
    >
-   >De valuta (bv. USD, EUR enz.) is een algemene instelling die wordt beheerd door een Marketo Admin
+   >De valuta (bv. USD, EUR, enz.) is een wereldwijde instelling die wordt beheerd door een Marketo Admin
 
-1. Voer een beschrijving in **Opmerking** (optioneel) en klik op **Opslaan**.
+1. Voer een beschrijvende waarde **[!UICONTROL Note]** (optioneel) in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## Periode-kosten bewerken {#edit-a-period-cost}
+## Een [!UICONTROL Period Cost] bewerken {#edit-a-period-cost}
 
-1. Klik met de rechtermuisknop op Kosten periode en selecteer **Bewerken** in het pop-upmenu om het dialoogvenster **Kosten bewerken** in.
+1. Klik met de rechtermuisknop op het dialoogvenster [!UICONTROL Period Cost] en selecteer **[!UICONTROL Edit]** in het pop-upmenu om het dialoogvenster **[!UICONTROL Edit Cost]** te openen.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
-1. Bewerk indien nodig de kosten van de periode
+1. Bewerk indien nodig de tijdskosten
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## Periode-kosten verwijderen {#delete-a-period-cost}
+## Een [!UICONTROL Period Cost] verwijderen {#delete-a-period-cost}
 
-1. Klik met de rechtermuisknop op de kosten voor de periode die u wilt verwijderen en selecteer **Verwijderen** in het pop-upmenu om de **Kosten verwijderen** prompt.
+1. Klik met de rechtermuisknop op de koppeling [!UICONTROL Period Cost] die u wilt verwijderen en selecteer **[!UICONTROL Delete]** in het pop-upmenu om de aanwijzing **[!UICONTROL Delete Cost]** weer te geven.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Klikken **Verwijderen** de kosten van de periode definitief te schrappen, of **Annuleren** om terug te gaan.
+1. Klik op **[!UICONTROL Delete]** om de kosten van de periode definitief te verwijderen of op **[!UICONTROL Cancel]** om terug te gaan.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

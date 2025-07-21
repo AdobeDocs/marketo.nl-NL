@@ -4,10 +4,10 @@ description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruiken. Zo gaat het.
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/one-2.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruik
    >
    >U kunt TAM-machtigingen toevoegen voor een bestaande rol of een geheel nieuwe rol maken. In dit voorbeeld wordt een nieuwe rol gebruikt.
 
-1. Klikken **Rollen** vervolgens **Nieuwe rol**.
+1. Klik op **[!UICONTROL Roles]** en vervolgens op **[!UICONTROL New Role]** .
 
    ![](assets/three-2.png)
 
-1. Voer een rolnaam in en klik op de knop **+** pictogram naast het selectievakje Account Management (Accountbeheer van doel benaderen).
+1. Voer een [!UICONTROL Role Name] in en klik op het pictogram **+** naast het selectievakje **[!UICONTROL Access Target Account Management]** .
 
    ![](assets/permissions-4.png)
 
-1. Als u _alles_ rechten, gewoon de **Toegang tot accountbeheer** selectievakje.
+1. Om _alle_ toestemmingen te selecteren, controleer eenvoudig checkbox. **[!UICONTROL Access Target Account Management]**
 
    ![](assets/permissions-5.png)
 
@@ -43,8 +43,8 @@ U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruik
    >
    >U kunt ook slechts enkele opties selecteren. Doe dat door elk selectievakje afzonderlijk in te schakelen.
 
-1. Klik op de knop **+** om het menu Toegangsbeheer te openen. Controleer de **Toegang tot ABM-beheerder** checkbox (ABM is de vorige naam voor TAM) en klik **Maken**.
+1. Klik op **+** om het menu **[!UICONTROL Access Admin]** te openen. Schakel het selectievakje **[!UICONTROL Access ABM Admin]** (ABM is de vorige naam voor TAM) in en klik op **[!UICONTROL Create]** .
 
    ![](assets/permissions-6.png)
 
-   Uw nieuwe TAM-rol is nu klaar om te worden [toegewezen aan een gebruiker](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
+   Uw nieuwe rol van TAM is nu klaar om [ aan een gebruiker ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) worden toegewezen!

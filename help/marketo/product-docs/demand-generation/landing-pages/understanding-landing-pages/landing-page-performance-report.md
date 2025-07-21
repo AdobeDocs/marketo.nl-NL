@@ -4,9 +4,9 @@ description: Prestatierapport voor landingspagina - Marketo Docs - Productdocume
 title: Prestatierapport voor bestemmingspagina
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ Zie hoeveel mensen de formulieren op de bestemmingspagina&#39;s hebben ingevuld 
 >
 >Als u een discrepantie in aantallen tussen uw Slimme Lijst en het Rapport van de Prestaties van de Landing van de Pagina ziet, is het waarschijnlijk omdat de Slimme Lijsten slechts gegevens op Mensen filtreren, terwijl de Rapporten van de Prestaties van de Openingspagina sociaal (Facebook, Google Advertentie, enz.) en anonieme activiteiten omvatten, naast de gegevens van Mensen.
 
-1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het Landing het rapporttype van de Prestaties van de Pagina [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het lusje van het Rapport.
+1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het [!UICONTROL Landing Page Performance] [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het [!UICONTROL Report] lusje.
 1. Dat is het! Verken uw rapport om te beoordelen hoe goed uw bestemmingspagina&#39;s doen.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

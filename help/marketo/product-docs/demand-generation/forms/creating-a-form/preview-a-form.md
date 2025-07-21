@@ -4,9 +4,9 @@ description: Een voorbeeld van een formulier bekijken - Marketo Docs - Productdo
 title: Een voorbeeld van een formulier bekijken
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Voordat u publiceert, kunt u het formulier bekijken in deze snelle en eenvoudige voorbeeldweergave.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,19 +23,19 @@ Voordat u publiceert, kunt u het formulier bekijken in deze snelle en eenvoudige
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Onder **Formulierhandelingen**, klikt u op **Voorvertoning**.
+1. Klik onder **[!UICONTROL Form Actions]** op **[!UICONTROL Preview]** .
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. De formuliereditor wordt geopend in **voorvertoning** in.
+1. De formuliereditor wordt geopend in de modus **[!UICONTROL preview]** .
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Klikken **Concept bewerken** om terug te gaan naar **bewerken** in.
+1. Klik op **[!UICONTROL Edit Draft]** om terug te keren naar de modus **[!UICONTROL edit]** .
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Eenvoudig terug schakelen door te klikken **Concept voorvertonen**.
+1. Ga eenvoudig terug door op **[!UICONTROL Preview Draft]** te klikken.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

@@ -4,9 +4,9 @@ description: De URL Builder gebruiken - Marketo Docs - Productdocumentatie
 title: De URL Builder gebruiken
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,18 @@ Met de URL Builder kunt u URL&#39;s maken die verborgen formuliervelden van Mark
 
 >[!PREREQUISITES]
 >
->Leer hoe u verborgen velden in formulieren maakt en de instellingen ervan bewerkt in [Een formulierveld instellen als verborgen](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
+>Leer hoe te om verborgen gebieden in vormen tot stand te brengen en hun montages in [ uit te geven plaats een Gebied van de Vorm zoals Verborgen ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Selecteer een openingspagina en klik op **Handelingen op bestemmingspagina**, aanwijzen **URL-gereedschappen** en klik vervolgens op **URL Builder**.
+1. Selecteer een openingspagina, klik op **[!UICONTROL Landing Page Actions]**, houd de cursor boven **[!UICONTROL URL Tools]** en klik op **[!UICONTROL URL Builder]** .
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. Selecteer de velden die u wilt gebruiken, voer de waarde in en klik op **URL bijwerken**.
+1. Selecteer de velden die u wilt gebruiken, voer de waarde in en klik op **[!UICONTROL Update URL]** .
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 
    >[!NOTE]
    >
-   >Als er geen velden worden weergegeven die beschikbaar zijn in de builder, controleert u of uw formulier verborgen velden heeft en of deze [instellen voor accepteren van URL-parameters](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Als u geen gebieden beschikbaar in de bouwer ziet, zorg ervoor dat uw vorm gebieden heeft verborgen en dat zij [ worden geplaatst om Parameters URL ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter) goed te keuren.
 
 Geweldig werk! U kunt nu de URL kopiëren en plakken en deze op het web gebruiken.

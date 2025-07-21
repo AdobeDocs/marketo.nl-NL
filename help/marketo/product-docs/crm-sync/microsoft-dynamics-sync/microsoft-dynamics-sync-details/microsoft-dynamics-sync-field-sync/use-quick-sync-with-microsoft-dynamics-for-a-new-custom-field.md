@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10098379
-description: Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld - Marketo Docs - Productdocumentatie
+description: Snel synchroniseren met Microsoft Dynamics gebruiken voor een nieuw aangepast veld - Marketo Docs - Productdocumentatie
 title: Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '336'
 ht-degree: 1%
 
 ---
 
-# Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+# Snelle synchronisatie gebruiken met [!DNL Microsoft Dynamics] voor een nieuw aangepast veld {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 Marketing of verkoop wil een nieuw veld. Of misschien bent u er één vergeten in de eerste veldselectie. Of uw behoeften zijn gewijzigd. In elk geval kunt u met Snel synchroniseren specifieke velden opnieuw synchroniseren.
 
-Normaal, zult u Snelle Synchronisatie gebruiken om een nieuw gebied toe te voegen en waarden hebben verfrist. Er zijn echter gevallen waarin u een bestaand veld wilt synchroniseren. U kunt de veldsynchronisatie beperken op basis van een bijgewerkt of gemaakt datumbereik. Zie [Geavanceerde synchronisatieopties](#Advanced_Sync_Options) hieronder voor meer informatie.
+Normaal, zult u Snelle Synchronisatie gebruiken om een nieuw gebied toe te voegen en waarden hebben verfrist. Er zijn echter gevallen waarin u een bestaand veld wilt synchroniseren. U kunt de veldsynchronisatie beperken op basis van een bijgewerkt of gemaakt datumbereik. Zie [ Geavanceerde Opties van de Synchronisatie ](#Advanced_Sync_Options) hieronder voor details.
 
-Met Snelle synchronisatie kunt u null-waarden synchroniseren. Als u bijvoorbeeld de waarden A en B gebruikt en een B-waarde in Dynamiek instelt op null, wordt de null-waarde gesynchroniseerd met Marketo.
+Met Snelle synchronisatie kunt u null-waarden synchroniseren. Als u bijvoorbeeld de waarden A en B gebruikt en een B-waarde in [!DNL Dynamics] wijzigt in null, wordt de null-waarde gesynchroniseerd met Marketo.
 
 ## Snelle synchronisatie voor alle records {#quick-sync-for-all-records}
 
 Hieronder wordt beschreven hoe u Snelle synchronisatie gebruikt om te resynchroniseren voor nieuwe velden.
 
-1. Klik in Marketo Engage op **[!UICONTROL Admin]**.
+1. Klik in Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
@@ -31,11 +31,11 @@ Hieronder wordt beschreven hoe u Snelle synchronisatie gebruikt om te resynchron
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. Klik op Details over veldsynchronisatie **[!UICONTROL Edit]**.
+1. Klik op [!UICONTROL Field Sync Details] op **[!UICONTROL Edit]** .
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. Selecteer de velden die u snel wilt synchroniseren en klik op **[!UICONTROL Save]**.
+1. Selecteer de velden die u snel wilt synchroniseren en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -75,13 +75,13 @@ Wat gebeurt er als u een bestaand veld wilt synchroniseren, maar dit alleen wilt
 
 ## Niet-gesynchroniseerde velden corrigeren {#fixing-out-of-sync-fields}
 
-In het zeldzame geval dat een veld van Dynamics en Marketo niet synchroon is, is er een snelle en eenvoudige manier om ze opnieuw te synchroniseren.
+In het zeldzame geval dat een [!DNL Dynamics] - en Marketo-veld niet meer synchroon zijn, is er een snelle en eenvoudige manier om ze opnieuw te synchroniseren.
 
-1. Schakel het veld uit en klik op **[!UICONTROL Save]**.
+1. Hef de selectie van het veld op en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. Selecteer het veld opnieuw en klik op **[!UICONTROL Save]**.
+1. Selecteer het veld opnieuw en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 

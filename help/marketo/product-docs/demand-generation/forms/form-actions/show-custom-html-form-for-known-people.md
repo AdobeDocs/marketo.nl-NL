@@ -4,10 +4,10 @@ description: Aangepast HTML-formulier voor bekende personen tonen - Marketo Docs
 title: Aangepast HTML-formulier tonen voor bekende personen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 55964499f5d49258539492f952513833af5692b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 0%
+source-wordcount: '234'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Als een bezoeker in het verleden zijn volledige naam en e-mailadres heeft opgegeven en u niet wilt dat deze het hele formulier ophalen, leert u hoe u ze een aangepaste HTML kunt tonen (bijvoorbeeld alleen een downloadknop).
 
-1. Ga naar **de Marketing Activiteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Onder **de Activiteiten van de Marketing**, selecteer uw vorm en klik **uitgeven Vorm**.
+1. Selecteer het formulier onder **[!UICONTROL Marketing Activities]** en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Onder **Montages van de Vorm**, klik op **Montages**.
+1. Klik onder **[!UICONTROL Form Settings]** op **[!UICONTROL Settings]** .
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Plaats als **Bekende Bezoeker, toon**: aan **Eigen HTML**.
+1. Stel if **[!UICONTROL Known Visitor, Show]** in op **[!UICONTROL Custom HTML]** .
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klik ![ - ](assets/image2014-9-25-14-3a1-3a26.png) om de **Douane HTML** uit te geven die aan bekende mensen zal worden getoond.
+1. Klik ![ - ](assets/image2014-9-25-14-3a1-3a26.png) om **[!UICONTROL Custom HTML]** uit te geven dat aan bekende mensen zal worden getoond.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ Als een bezoeker in het verleden zijn volledige naam en e-mailadres heeft opgege
    >
    >Alleen de vier bovenstaande tokens kunnen worden gebruikt. Een ander token werkt hier niet.
 
-1. Klik **Afwerking**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Klik **goedkeuren en sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

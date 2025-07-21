@@ -1,70 +1,70 @@
 ---
 unique-page-id: 3571797
-description: Stap 2 van 3 - een Salesforce-gebruiker voor Marketo maken (Professional) - Marketo Docs - Productdocumentatie
+description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Professional) - Marketo Docs - Productdocumentatie
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '344'
+ht-degree: 0%
 
 ---
 
-# Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Stap 2 van 3: Een [!DNL Salesforce] gebruiker voor Marketo (Professional) maken {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
->Deze stappen moeten door een beheerder van Salesforce worden voltooid.
+>Deze stappen moeten worden uitgevoerd door een Salesforce-beheerder.
 
 >[!PREREQUISITES]
 >
->[Stap 1 van 3: Voeg Marketo-velden toe aan Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
+>[ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-In dit artikel past u veldmachtigingen aan met een Salesforce Page Layout en maakt u een Marketo-Salesforce synchronisatiegebruiker.
+In dit artikel past u veldmachtigingen aan met een [!DNL Salesforce] pagina-indeling en maakt u een Marketo- [!DNL Salesforce] -synchronisatiegebruiker.
 
 ## Paginalay-outs instellen {#set-page-layouts}
 
-Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-outs, in tegenstelling tot de profielen van Salesforce Enterprise/Unlimited. Als u deze stappen uitvoert, kan de Marketo-synchronisatiegebruiker de aangepaste velden bijwerken.
+[!DNL Salesforce] Professional stelt toegankelijkheid op veldniveau in met paginalay-outs, in tegenstelling tot [!DNL Salesforce] Profielen van Enterprise/Unlimited. Als u deze stappen uitvoert, kan de Marketo-synchronisatiegebruiker de aangepaste velden bijwerken.
 
-1. Typ &quot;[!UICONTROL page layouts]&quot; in de zoekbalk van Nav zonder op **[!UICONTROL Enter]** en klik op **[!UICONTROL Page Layout]** krachtens **[!UICONTROL Leads]**.
+1. Typ &quot;[!UICONTROL page layouts]&quot; in de zoekbalk Nav zonder op **[!UICONTROL Enter]** te drukken en klik op **[!UICONTROL Page Layout]** onder **[!UICONTROL Leads]** .
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Klikken **[!UICONTROL Edit]** naast Lay-out lead.
+1. Klik op **[!UICONTROL Edit]** naast Lay-out lead.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Klik en sleep een nieuwe **[!UICONTROL Section]** in de pagina-indeling.
+1. Klik en sleep een nieuwe **[!UICONTROL Section]** in de paginalay-out.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Voer &quot;Marketo&quot; in voor **[!UICONTROL Section Name]** en klik op **[!UICONTROL OK]**.
+1. Voer &quot;Marketo&quot; voor **[!UICONTROL Section Name]** in en klik op **[!UICONTROL OK]** .
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klik en sleep het veld **[!UICONTROL Acquisition Date]** in de **Marketo** sectie.
+1. Klik en sleep het gebied **[!UICONTROL Acquisition Date]** in de **Marketo** sectie.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
 1. Herhaal bovenstaande stap voor de volgende velden:
 
-   * Overnameprogramma
-   * Id van overnameprogramma
-   * E-mail uitschakelen
-   * Overgenomen stad
-   * Afgeleid bedrijf
-   * Afgeleid land
-   * Overgenomen metropolitaans gebied
-   * Gebiedscode afgeleide telefoon
-   * Postcode
-   * Gebied van de betrokken staat
-   * Leadscore
-   * Oorspronkelijke verwijzing
-   * Originele zoekengine
-   * Oorspronkelijke zoekterm
-   * Originele broninformatie
-   * Oorspronkelijk brontype
+   * [!UICONTROL Acquisition Program]
+   * [!UICONTROL Acquisition Program Id]
+   * [!UICONTROL Email Opt Out]
+   * [!UICONTROL Inferred City]
+   * [!UICONTROL Inferred Company]
+   * [!UICONTROL Inferred Country]
+   * [!UICONTROL Inferred Metropolitan Area]
+   * [!UICONTROL Inferred Phone Area Code]
+   * [!UICONTROL Inferred Postal Code]
+   * [!UICONTROL Inferred State Region]
+   * [!UICONTROL Lead Score]
+   * [!UICONTROL Original Referrer]
+   * [!UICONTROL Original Search Engine]
+   * [!UICONTROL Original Search Phrase]
+   * [!UICONTROL Original Source Info]
+   * [!UICONTROL Original Source Type]
 
    >[!NOTE]
    >
@@ -74,31 +74,31 @@ Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-ou
    >
    >Maak twee kolommen voor de velden door naar de rechterkant van de pagina te slepen. U kunt velden van de ene naar de andere zijde verplaatsen om de kolomlengte in evenwicht te brengen.
 
-1. Klikken **[!UICONTROL Save]** als u klaar bent met het toevoegen van velden.
+1. Klik op **[!UICONTROL Save]** wanneer u klaar bent met het toevoegen van velden.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Herhaal alle bovenstaande stappen voor de Salesforce **[!UICONTROL Contact Page Layout]**.
+1. Herhaal alle bovenstaande stappen voor de Salesforce **[!UICONTROL Contact Page Layout]** .
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Vergeet niet te klikken **[!UICONTROL Save]** als u klaar bent met de **[!UICONTROL Contact Page Layout]**.
+1. Vergeet niet op **[!UICONTROL Save]** te klikken wanneer u klaar bent met de **[!UICONTROL Contact Page Layout]** .
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Zorg ervoor dat de **[!UICONTROL All-Day Event]** veld is toegevoegd aan de **[!UICONTROL Event Page Layout]**.
+   >Controleer of het veld **[!UICONTROL All-Day Event]** is toegevoegd aan **[!UICONTROL Event Page Layout]** .
 
 ## Synchronisatiegebruiker maken {#create-sync-user}
 
-Marketo heeft aanmeldingsgegevens nodig om toegang te krijgen tot Salesforce. Dit kunt u het beste doen met een toegewijde gebruiker die is gemaakt met de onderstaande stappen.
+Marketo heeft referenties nodig om toegang te krijgen tot [!DNL Salesforce] . Dit kunt u het beste doen met een toegewijde gebruiker die is gemaakt met de onderstaande stappen.
 
 >[!NOTE]
 >
->Als uw organisatie geen extra licenties voor Salesforce heeft, kunt u een bestaande marketinggebruiker gebruiken met het profiel Systeembeheerder.
+>Als uw organisatie geen extra Salesforce-licenties heeft, kunt u een bestaande marketinggebruiker gebruiken met het profiel Systeembeheerder.
 
-1. Voer &quot;gebruikers&quot; in op de zoekbalk Nav en klik op **[!UICONTROL Users]** krachtens **[!UICONTROL Manage Users]**.
+1. Voer &quot;gebruikers&quot; in op de zoekbalk Nav en klik op **[!UICONTROL Users]** onder **[!UICONTROL Manage Users]** .
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
@@ -106,7 +106,7 @@ Marketo heeft aanmeldingsgegevens nodig om toegang te krijgen tot Salesforce. Di
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Vul de vereiste gebieden in, selecteer **[!UICONTROL User License: Salesforce]**, stelt u de **[!UICONTROL Profile: System Administrator]**, controle **[!UICONTROL Marketing User]** en klik op **[!UICONTROL Save]**.
+1. Vul de vereiste velden in, selecteer de **[!UICONTROL User License: Salesforce]** , stel de **[!UICONTROL Profile: System Administrator]** , check **[!UICONTROL Marketing User]** in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -114,8 +114,8 @@ Marketo heeft aanmeldingsgegevens nodig om toegang te krijgen tot Salesforce. Di
    >
    >Controleer of het e-mailadres dat u invoert, geldig is. U moet zich aanmelden als de synchronisatiegebruiker om het wachtwoord opnieuw in te stellen.
 
-Uitstekend! Nu hebt u een account dat Marketo kan gebruiken om verbinding te maken met Salesforce. Laten we het doen.
+Uitstekend! Nu hebt u een account waarmee Marketo verbinding kan maken met [!DNL Salesforce] . Laten we het doen.
 
 >[!MORELIKETHIS]
 >
->[Stap 3 van 3: Connect Marketo en Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}
+>[ Stap 3 van 3: Verbind Marketo en Salesforce (Beroeps) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

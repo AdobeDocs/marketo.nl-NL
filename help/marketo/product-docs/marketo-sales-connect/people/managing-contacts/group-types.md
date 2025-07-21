@@ -4,16 +4,16 @@ description: Groepstypen - Marketo Docs - Productdocumentatie
 title: Groepstypen
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
 # Groepstypen {#group-types}
 
-Meer informatie over de verschillende groepstypen in Sales Connect.
+Meer informatie over de verschillende groepstypen vindt u in [!UICONTROL Sales Connect] .
 
 ![](assets/one-7.png)
 
@@ -28,19 +28,19 @@ Meer informatie over de verschillende groepstypen in Sales Connect.
    <th>Beschrijving</th> 
   </tr> 
   <tr> 
-   <td><p>Alle personen</p></td> 
+   <td><p>[!UICONTROL All People]</p></td> 
    <td>Alle contacten van alle gebruikers die aan u zichtbaar zijn.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p>Dynamische groepen</p></td> 
-   <td colspan="1">Mijn contactpersonen: Alle contacten u bezit.<br>Abonnement opzeggen: Contacten die ervoor hebben gekozen geen correspondentie te ontvangen.</td> 
+   <td colspan="1"><p>[!UICONTROL Dynamic Groups]</p></td> 
+   <td colspan="1">Mijn Contacten: Alle contacten u bezit.<br> Unsubscribes: Contacten die verkiesden-uit het ontvangen van correspondentie hebben.</td> 
   </tr> 
   <tr> 
-   <td><p>Mijn groepen</p></td> 
+   <td><p>[!UICONTROL My Groups]</p></td> 
    <td>Groepen die u hebt gemaakt. Zij kunnen uw contacten, of contacten bevatten die met u zijn gedeeld.</td> 
   </tr> 
   <tr> 
-   <td><p>Teamgroepen</p></td> 
+   <td><p>[!UICONTROL Team Groups]</p></td> 
    <td>Groepen die met en/of door u zijn gedeeld. Zij kunnen contacten uw teamgenoten, of contacten bevatten u met hen hebt gedeeld.</td> 
   </tr> 
  </tbody> 

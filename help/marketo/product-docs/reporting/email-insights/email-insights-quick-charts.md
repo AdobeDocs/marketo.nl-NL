@@ -4,9 +4,9 @@ description: E-mailinzichten, snel overzicht - Marketo Docs - Productdocumentati
 title: E-mailinzichten, snelle grafieken
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Snelle grafieken zijn miniaturen die u kunt aanpassen en opslaan, zodat u snel k
 
 In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de staten Californië en Florida.
 
-1. Klik op het datumfilter rechts van het scherm Analytics.
+1. Klik op het datumfilter rechts van het [!UICONTROL Analytics] -scherm.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
 
    ![](assets/two-2.png)
 
-1. Wanneer uw datumbereik is geselecteerd, klikt u op **Toepassen**.
+1. Klik op **[!UICONTROL Apply]** als het datumbereik is geselecteerd.
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
 
    ![](assets/5.png)
 
-1. Klik rechts van het diagram op het exportpictogram en selecteer **Opslaan als snel diagram**.
+1. Klik rechts van het diagram op het exportpictogram en selecteer **[!UICONTROL Save as Quick Chart]** .
 
    ![](assets/six.png)
 
-1. Geef een naam op voor uw snelle diagram en klik op **Opslaan**.
+1. Geef een naam op voor het Snelle diagram en klik op **[!UICONTROL Save]** .
 
    ![](assets/seven.png)
 
@@ -65,15 +65,15 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
 
 Wilt u een van uw snelle grafieken verwijderen? Het is gemakkelijk!
 
-1. Klik op de knop **Snelle grafieken** pictogram.
+1. Klik op het pictogram **[!UICONTROL Quick Charts]** .
 
    ![](assets/nine.png)
 
-1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik op de knop **X**.
+1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik **X**.
 
    ![](assets/ten.png)
 
-1. Klikken **OK**.
+1. Klik op **[!UICONTROL Ok]**.
 
    ![](assets/eleven.png)
 

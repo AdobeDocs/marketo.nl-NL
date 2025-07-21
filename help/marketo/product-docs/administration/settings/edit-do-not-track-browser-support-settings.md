@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6095047
-description: Browserondersteuningsinstellingen niet bijhouden bewerken - Marketo Docs - Productdocumentatie
+description: Browserondersteuningsinstellingen voor "Niet bijhouden" bewerken - Marketo Docs - Productdocumentatie
 title: Browserondersteuningsinstellingen "Niet bijhouden" bewerken
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '120'
 ht-degree: 1%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!NOTE]
 >
->&quot;Niet bijhouden&quot; wordt standaard ingesteld op Negeren, dus als u dat wilt, hoeft u geen stappen te ondernemen.
+>&#39;Niet bijhouden&#39; wordt standaard ingesteld op **[!UICONTROL Ignore]** , dus als u dat wilt, hoeft u geen stappen te ondernemen.
 
 1. Klik op **[!UICONTROL Admin]**.
 
@@ -31,11 +31,11 @@ ht-degree: 1%
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Onder **[!UICONTROL Person Tracking]**, klikt u op **[!UICONTROL Edit]**.
+1. Klik onder **[!UICONTROL Person Tracking]** op **[!UICONTROL Edit]** .
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Selecteren **[!UICONTROL Support]** en klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Support]** en klik op **[!UICONTROL Save]** .
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
@@ -49,4 +49,4 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Ga voor meer informatie over &quot;Niet bijhouden&quot; en hoe het werkt naar [deze pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
+   >Meer over &quot;volg&quot;niet leren en hoe het werkt, gelieve [ deze pagina ](https://en.wikipedia.org/wiki/Do_Not_Track) te bezoeken.

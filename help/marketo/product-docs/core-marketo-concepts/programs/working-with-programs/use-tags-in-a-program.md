@@ -4,10 +4,10 @@ description: Tags gebruiken in een programma - Marketo Docs - Productdocumentati
 title: Tags gebruiken in een programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
 ## Een tag in een programma gebruiken {#use-a-tag-in-a-program}
 
-1. Selecteer uw programma. Klikken **Instellen**.
+1. Selecteer uw programma. Klik op **[!UICONTROL Setup]**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
 ## Een tag bewerken {#edit-a-tag}
 
-1. Ga naar de **Instellen** tab. Klik met de rechtermuisknop op de tag. Selecteren **Bewerken**.
+1. Ga naar de tab **[!UICONTROL Setup]** . Klik met de rechtermuisknop op de tag. Selecteer **[!UICONTROL Edit]** .
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
 ## Een tag verwijderen  {#delete-a-tag}
 
-1. Ga naar de **Instellen** tab. Klik met de rechtermuisknop op de tag en selecteer **Verwijderen**.
+1. Ga naar de tab **[!UICONTROL Setup]** . Klik met de rechtermuisknop op de tag en selecteer **[!UICONTROL Delete]** .
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Klikken **Verwijderen** ter bevestiging.
+1. Klik op **[!UICONTROL Delete]** om te bevestigen.
 
    ![](assets/use-tags-in-a-program-11.png)
 

@@ -4,10 +4,10 @@ description: Aangepast objectveld toevoegen/verwijderen als slimme lijst/trigger
 title: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Marketo Engage biedt fijnkorrelige controle over het synchroniseren van aangepas
 >
 >**Vereiste Bevoegdheden Admin**
 
-1. Ga naar het **[!UICONTROL Admin]** -gebied.
+1. Klik op **[!UICONTROL Admin].**
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. Klik op **[!UICONTROL Salesforce Objects Sync]**.
+1. Klik op **[!UICONTROL Admin]** en vervolgens op **[!UICONTROL Salesforce Objects Sync].**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
@@ -39,7 +39,7 @@ Marketo Engage biedt fijnkorrelige controle over het synchroniseren van aangepas
 
    >[!TIP]
    >
-   >Als de knop **[!UICONTROL Edit Visible Fields]** grijs wordt weergegeven, wordt het object momenteel gebruikt in een slimme lijst of een slimme campagne. Verwijder alle koppelingen om door te gaan.
+   >Als de knop **[!UICONTROL Edit Visible Fields]** grijs wordt weergegeven, wordt het object momenteel gebruikt in een slimme lijst of slimme campagne. Verwijder alle koppelingen om door te gaan.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 

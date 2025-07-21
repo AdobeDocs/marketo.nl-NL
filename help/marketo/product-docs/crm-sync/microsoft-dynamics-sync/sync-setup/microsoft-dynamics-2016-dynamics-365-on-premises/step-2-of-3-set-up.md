@@ -1,26 +1,26 @@
 ---
-description: Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 2 van 3 - Marketo Docs - Productdocumentatie installeren
-title: Marketo voor Microsoft Dynamics 2016/Dynamics 365 op locatie installeren Stap 2 van 3
+description: Installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/[!DNL Dynamics] 365 On-Premises Stap 2 van 3 - Marketo Docs - de Documentatie van het Product
+title: Installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/[!DNL Dynamics] 365 On-Premises Stap 2 van 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '445'
 ht-degree: 1%
 
 ---
 
-# Stap 2 van 3 Opstelling Marketo for Dynamics (2016 On-Prem/Dynamics 365 On-Premises){#step-of-set-up-for-marketo-on-premises-2016}
+# Stap 2 van 3 Marketo instellen voor [!DNL Dynamics] (2016 On-Prem/[!DNL Dynamics] 365 On-Premises){#step-of-set-up-for-marketo-on-premises-2016}
 
 Geweldig werk bij het voltooien van de vorige stappen. Laten we hier doorheen gaan.
 
 >[!PREREQUISITES]
 >
->[ installeer Marketo voor Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 1 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
+>[ installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/[!DNL Dynamics] 365 op-Premises Stap 1 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## Een nieuwe gebruiker maken {#create-a-new-user}
 
-1. Meld u aan bij Dynamics. Klik op het pictogram Instellingen en selecteer Geavanceerde instellingen.
+1. Meld u aan bij [!DNL Dynamics] . Klik op het pictogram Instellingen en selecteer Geavanceerde instellingen.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
 
@@ -62,7 +62,7 @@ Geweldig werk bij het voltooien van de vorige stappen. Laten we hier doorheen ga
 
 ## Een nieuwe clienttoepassing maken {#create-a-new-client-application}
 
-Volg de stappen in [ dit artikel van Microsoft ](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later){target="_blank"} om een nieuwe Toepassing van de Cliënt tot stand te brengen en toestemmingen te verlenen. Noteer de client-id/-geheim van de Dynamic-clienttoepassing.
+Volg de stappen in [ dit artikel van Microsoft ](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) om een nieuwe Toepassing van de Cliënt tot stand te brengen en toestemmingen te verlenen. Noteer de client-id/geheim van de [!DNL Dynamics] -clienttoepassing.
 
 ## Gebruikersrol synchroniseren toewijzen {#assign-sync-user-role}
 
@@ -70,7 +70,7 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
 >[!NOTE]
 >
->Dit geldt voor Marketo-versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo te bevorderen, zie [ Verbetering de Oplossing van Marketo voor Microsoft Dynamics ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Dit geldt voor Marketo-versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo te bevorderen, zie [ Verbetering de Oplossing van Marketo voor  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
@@ -134,10 +134,10 @@ Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we 
 
 ## Voordat u verdergaat met stap 3 {#before-proceeding-to-step}
 
-* Als u het aantal verslagen wilt beperken u synchroniseert, [ opstelling een filter van de douanesynchronisatie ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} nu.
-* Stel [ in werking bevestigen de Synchronisatie van Microsoft Dynamics ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} proces. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
-* Meld u aan bij Marketo Sync User in Microsoft Dynamics CRM.
+* Als u het aantal verslagen wilt beperken u synchroniseert, [ opstelling een filter van de douanesynchronisatie ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Stel [ in werking bevestigt  [!DNL Microsoft Dynamics]  Synchronisatie ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) proces. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
+* Meld u aan bij Marketo Sync User in [!DNL Microsoft Dynamics] CRM.
 
 >[!MORELIKETHIS]
 >
->[ installeer Marketo voor Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 3 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md){target="_blank"}
+>[ installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/[!DNL Dynamics] 365 On-Premises Stap 3 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)

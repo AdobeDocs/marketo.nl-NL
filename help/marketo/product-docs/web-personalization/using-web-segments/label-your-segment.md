@@ -4,9 +4,9 @@ description: Label uw segment - Marketo Docs - Productdocumentatie
 title: Uw segment labelen
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hebt u zoveel segmenten dat het schuiven omslachtig wordt? Gebruik labels om de 
 
 ## Een segment coderen {#tag-a-segment}
 
-1. Log in bij Web Personalization en ga naar **Segmenten**.
+1. Meld u aan bij [!DNL Web Personalization] en ga naar **[!UICONTROL Segments]** .
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Hebt u zoveel segmenten dat het schuiven omslachtig wordt? Gebruik labels om de 
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Als u een bestaand label wilt gebruiken, klikt u op **Label instellen**, schakelt u een selectievakje in en klikt u op **Toepassen**.
+1. Als u een bestaand label wilt gebruiken, klikt u op **[!UICONTROL Set Label]** , schakelt u een selectievakje in en klikt u op **[!UICONTROL Apply]** .
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Als u een nieuw label wilt maken, klikt u op **Label instellen** voert u de nieuwe labelnaam in en klikt u op **Nieuw maken**.
+1. Of, om een nieuw etiket tot stand te brengen, klik **[!UICONTROL Set Label]**, ga de nieuwe etiketnaam in, en klik **creeer Nieuw**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

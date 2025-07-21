@@ -4,9 +4,9 @@ description: E-mailprogrammadashboard exporteren naar Excel - Marketo-documenten
 title: E-mailprogrammadashboard exporteren naar Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nadat u een e-mailprogramma hebt uitgevoerd en gegevens op het dashboard hebt staan, kunt u die onbewerkte gegevens exporteren en exporteren voor verdere analyse. Zo gaat het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-1.png)
 

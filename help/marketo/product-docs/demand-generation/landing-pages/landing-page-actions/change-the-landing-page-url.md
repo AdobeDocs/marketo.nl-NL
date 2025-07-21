@@ -4,9 +4,9 @@ description: De URL van de bestemmingspagina wijzigen - Marketo Docs - Productdo
 title: De URL van de bestemmingspagina wijzigen
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,14 @@ U kunt de URL van een bestemmingspagina wijzigen. Hierdoor kan de URL gemakkelij
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. Klik op de knop **Handelingen op bestemmingspagina** vervolgkeuzelijst, schuiven naar **URL-gereedschappen** en selecteert u **URL-instellingen**.
+1. Klik **het Landing van de Acties van de Pagina** drop-down, rol aan **Hulpmiddelen URL** en selecteer **Montages URL**.
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Voer de **Nieuwe URL**, kiest u of de oude URL moet worden verwijderd of omgeleid en klikt u op **Opslaan**.
+1. Voer de **[!UICONTROL New URL]** in, kies de oude URL die u wilt verwijderen of omleiden en klik op **[!UICONTROL Save]** .
 
    ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
-   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Meer informatie over [URL-omleidingen](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Leer meer over [ omleiding URL ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

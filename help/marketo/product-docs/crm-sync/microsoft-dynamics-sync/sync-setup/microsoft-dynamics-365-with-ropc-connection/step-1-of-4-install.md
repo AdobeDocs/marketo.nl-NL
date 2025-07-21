@@ -3,21 +3,21 @@ description: Stap 1 van 4 - Installeer de Marketo-oplossing met de Wachtwoordcon
 title: Stap 1 van 4 - Installeer de Marketo-oplossing met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 2eb61d43f2f470d42e1b50ab8edc99e4e25c23cf
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
 
 # Stap 1 van 4: Installeer de Marketo-oplossing met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel {#step-1-of-4-install-the-marketo-solution-ropc}
 
-Voordat u Microsoft Dynamics 365 en Marketo Engage kunt synchroniseren, moet u eerst de Marketo-oplossing installeren in Dynamics. **Dynamische beheerdersmachtigingen zijn vereist**.
+Voordat u [!DNL Microsoft Dynamics] 365 en Marketo kunt synchroniseren, moet u eerst de Marketo-oplossing installeren in [!DNL Dynamics] . **[!DNL Dynamics]Beheerdersmachtigingen zijn vereist.**
 
 >[!CAUTION]
 >
 >* Schakel aangepaste entiteitssynchronisatie niet in voordat de eerste synchronisatie is voltooid. U wordt via e-mail op de hoogte gesteld zodra de eerste synchronisatie is voltooid.
->* Als u Multi-Factor Authentication (MFA) hebt ingeschakeld voor uw Dynamics Sync, moet u deze uitschakelen om Dynamics correct te synchroniseren met Marketo. Neem voor meer informatie contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>* Als u MFA (Multi-Factor Authentication) hebt ingeschakeld voor uw [!DNL Dynamics] -synchronisatie, moet u deze uitschakelen voordat [!DNL Dynamics] correct kan synchroniseren met Marketo. Voor extra informatie, gelieve te contacteren {de Steun van 0} Marketo [.](https://nation.marketo.com/t5/Support/ct-p/Support)
 
 >[!NOTE]
 >
@@ -25,17 +25,17 @@ Voordat u Microsoft Dynamics 365 en Marketo Engage kunt synchroniseren, moet u e
 
 >[!PREREQUISITES]
 >
->[Download de Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. Aanmelden bij **[Microsoft Office 365](https://login.microsoftonline.com/)**.
+1. Login aan **[[!DNL Microsoft Office 365]](https://login.microsoftonline.com/)**.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Klikken ![](assets/image2015-3-16-16-3a1-3a13.png) en selecteert u **[!UICONTROL CRM]**.
+1. Klik op ![](assets/image2015-3-16-16-3a1-3a13.png) en selecteer **[!UICONTROL CRM]** .
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Klikken ![](assets/image2015-5-13-10-3a5-3a8.png) -menu. Selecteer in het keuzemenu **[!UICONTROL Settings]** Selecteer vervolgens **[!UICONTROL Solutions]**.
+1. Klik op ![](assets/image2015-5-13-10-3a5-3a8.png) . Selecteer **[!UICONTROL Settings]** in het vervolgkeuzemenu en selecteer vervolgens **[!UICONTROL Solutions]** .
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
@@ -43,7 +43,7 @@ Voordat u Microsoft Dynamics 365 en Marketo Engage kunt synchroniseren, moet u e
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klik op **[!UICONTROL Choose File]**. Selecteer de Marketo Lead Management-oplossing [gedownload](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Choose File]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -51,7 +51,7 @@ Voordat u Microsoft Dynamics 365 en Marketo Engage kunt synchroniseren, moet u e
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. Wanneer u alle details hebt gecontroleerd, klikt u op **[!UICONTROL Close]**.
+1. Klik op **[!UICONTROL Close]** als u alle details hebt gecontroleerd.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
@@ -59,7 +59,7 @@ Voordat u Microsoft Dynamics 365 en Marketo Engage kunt synchroniseren, moet u e
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. Controleer of het selectievakje voor de SDK-optie is ingeschakeld. Klik op **[!UICONTROL Import]**.
+1. Controleer of het selectievakje SDK is ingeschakeld. Klik op **[!UICONTROL Import]**.
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -83,7 +83,7 @@ Voordat u Microsoft Dynamics 365 en Marketo Engage kunt synchroniseren, moet u e
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Selecteren **[!UICONTROL Marketo Lead Management]** en klik op **[!UICONTROL Publish All Customizations]**.
+1. Selecteer **[!UICONTROL Marketo Lead Management]** en klik op **[!UICONTROL Publish All Customizations]** .
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
@@ -91,4 +91,4 @@ Voordat u Microsoft Dynamics 365 en Marketo Engage kunt synchroniseren, moet u e
 
    >[!MORELIKETHIS]
    >
-   >[Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+   >[ Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}

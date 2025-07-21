@@ -3,9 +3,9 @@ description: Abonnementsoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van abonnement opzeggen
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Het wordt steeds belangrijker voor organisaties om zich aan de wetten van de e-mailprivacy te houden. Om dit te helpen, hebben we een aantal verbeteringen aangebracht in onze ervaring voor afmelden.
 
-* Koppelingen voor abonnementen worden geplaatst op alle e-mails die vanuit Marketo Sales en Salesforce worden verzonden (dit geldt niet voor aangepaste e-mails die vanuit Outlook of Gmail worden verzonden)
+* Koppelingen voor abonnementen worden geplaatst op alle e-mails die vanuit [!DNL Marketo Sales] en [!DNL Salesforce] worden verzonden (dit geldt niet voor aangepaste e-mails die vanuit [!DNL Outlook] of Gmail worden verzonden)
 * Admins kunnen unsubscribe overseinen voor hun volledig team uitgeven
 * Afmeldingsgegevens worden opgeslagen in PDV
-* Abonnementen kunnen handmatig worden uitgevoerd: Klik op Koppeling, Salesforce Sync en Bounce
+* U kunt uw abonnement handmatig opzeggen: klik op Koppeling, [!DNL Salesforce] Synchroniseren en Stuiteren
 * Nieuwe bestemmingspagina voor afmelding van koppeling
 
 ## Abonnement op bestemmingspagina van koppeling opzeggen {#unsubscribe-link-landing-page}
 
-Wanneer iemand op de koppeling voor afmelden klikt, wordt hij of zij doorgestuurd naar een bestemmingspagina waar hij of zij kan selecteren van wie hij of zij afmeldt en waarom.
+Wanneer iemand op de koppeling voor afmelden klikt, wordt hij of zij doorgestuurd naar een bestemmingspagina waar hij of zij kan selecteren van welke persoon hij of zij afmeldt en waarom.
 
 ![](assets/unsubscribe-overview-1.png)
 
@@ -38,17 +38,17 @@ Gebruik de zoekbalk om geabonneerde personen op te zoeken.
 
 ![](assets/unsubscribe-overview-3.png)
 
-Als u een Admin bent, kunt u naar de unsubscribe groep gaan om door Account Unsubscribes te filtreren en alle unsubscribes te zien die in uw personengegevensbestand zijn verzameld.
+Als u een beheerder bent, kunt u naar de groep gaan unsubscribe om door [!UICONTROL Account Unsubscribes] te filtreren en alle unsubscribes te zien die in uw personengegevensbestand zijn verzameld.
 
 ![](assets/unsubscribe-overview-4.png)
 
 ## Historiekaart afmelden {#unsubscribe-history-card}
 
-De kaart van de Geschiedenis Unsubscribe helpt beheerders en de gebruikers contextafhankelijke informatie over hun het afmelden geschiedenis van contacten krijgen. Navigeer daar door naar het lusje van Mensen te gaan en een persoon te selecteren. Het bevindt zich onder aan het tabblad Over in de weergave Details persoon.
+Met de [!UICONTROL Unsubscribe History] -kaart krijgen beheerders en gebruikers contextafhankelijke informatie over de geschiedenis van hun contactpersonen. Navigeer daar door naar het tabblad [!UICONTROL People] te gaan en een persoon te selecteren. Deze bevindt zich onder aan het tabblad [!UICONTROL About] in de weergave Details persoon.
 
 >[!NOTE]
 >
->Er wordt alleen een abonnement op een historie opgezegd als de persoon _geabonneerd_ op een gegeven moment.
+>Er zal slechts een [!UICONTROL Unsubscribe History] kaart zijn als de persoon _resubscribed_ op één of ander punt heeft.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -59,20 +59,20 @@ De kaart van de Geschiedenis Unsubscribe helpt beheerders en de gebruikers conte
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Datum</strong></td> 
+   <td><strong>[!UICONTROL Date]</strong></td> 
    <td><p>Hier wordt de datum weergegeven waarop het abonnement is opgezegd of opnieuw is geabonneerd.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Details</strong></td> 
-   <td><p>Opnieuw plaatsen: Een Sales Connect-beheerder heeft het abonnement handmatig uit de contactrecord verwijderd. Het kan ook enkele details weergeven met betrekking tot waarom de contactpersoon niet is geabonneerd.</p><p>Abonnement opzeggen: De contactpersoon is afgemeld.</p></td> 
+   <td><strong>[!UICONTROL Details]</strong></td> 
+   <td><p>Opnieuw abonneren: een [!DNL Sales Connect] -beheerder heeft het abonnement handmatig uit de contactrecord verwijderd. Het kan ook enkele details weergeven met betrekking tot waarom de contactpersoon niet is geabonneerd.</p><p>Abonnement opzeggen: de contactpersoon is afgemeld.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Bron</strong></td> 
-   <td><p>Salesforce Sync: Unsubscribe is vastgelegd via een synchronisatie van Salesforce.</p><p>Handmatig: De gebruiker heeft op de knop Abonnement opzeggen geklikt om te weigeren.</p><p>Klikte koppeling: De ontvanger van een e-mail klikte de unsubscribe verbinding.</p><p>"Naam beheerder": De naam van een beheerder zal tonen wanneer de actie contacten resubscribe moest. Gebruikers weten wie het abonnement heeft verwijderd.</p></td> 
+   <td><strong>[!UICONTROL Source]</strong></td> 
+   <td><p>[!DNL Salesforce] Sync: Unsubscribe is vastgelegd via een synchronisatie uit [!DNL Salesforce] .</p><p>Handmatig: de gebruiker heeft op de knop Abonnement opzeggen geklikt om te weigeren.</p><p>Klik op Koppeling: de ontvanger van een e-mail heeft op de koppeling voor het opzeggen van het abonnement geklikt.</p><p>"Naam beheerder": de naam van een beheerder wordt weergegeven wanneer de handeling opnieuw contactpersonen moet abonneren. Gebruikers weten wie het abonnement heeft verwijderd.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Bericht voor opzeggen van koppeling aanpassen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+>[ pas Unsubscribe Bericht van de Verbinding ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md) aan

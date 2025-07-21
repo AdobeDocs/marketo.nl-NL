@@ -4,9 +4,9 @@ description: Aangepaste Marketo-objectkoppelingsvelden toevoegen - Marketo Docs 
 title: Aangepaste Marketo-objectkoppelingsvelden toevoegen
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,13 @@ Wanneer u aangepaste objecten maakt, moet u koppelingsvelden opgeven om de aange
 
 >[!IMPORTANT]
 >
->Marketo Engage steunt slechts één enkel randvoorwerp voor elk brugvoorwerp in Velen aan Vele verhouding. In het onderstaande voorbeeld kan elke inschrijving slechts aan één cursus worden gekoppeld. Nochtans, kunnen er vele brugvoorwerpen voor elk randvoorwerp zijn, enkel aangezien er vele studenteninschrijvingen aan elke cursus (vaak-aan-Één verhouding) zijn. Als u de gegevens van uw aangepaste objecten zodanig hebt gestructureerd dat er meer dan één Edge-objectrecord is voor elke Bridge-objectrecord (een-op-veel of een-op-veel), kunt u meerdere Bridge-objectrecords maken die elk naar één Edge-objectrecord verwijzen om die gegevens in Marketo te vertegenwoordigen.
+>Marketo Engage ondersteunt slechts één randobject voor elk bridge-object in de relatie tussen Velen en Velen. In het onderstaande voorbeeld kan elke inschrijving slechts aan één cursus worden gekoppeld. Nochtans, kunnen er vele brugvoorwerpen voor elk randvoorwerp zijn, enkel aangezien er vele studenteninschrijvingen aan elke cursus (vaak-aan-Één verhouding) zijn. Als u de gegevens van uw aangepaste objecten zodanig hebt gestructureerd dat er meer dan één Edge-objectrecord is voor elke Bridge-objectrecord (een-op-een-veel of een-op-veel), kunt u meerdere Bridge-objectrecords maken die elk naar één Edge-objectrecord verwijzen om die gegevens in Marketo te vertegenwoordigen.
 
 ## Een koppelingsveld maken voor een structuur van één tot vele {#create-a-link-field-for-a-one-to-many-structure}
 
 Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast object voor een een-op-een-structuur.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -38,35 +38,35 @@ Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast objec
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. In de **[!UICONTROL Fields]** tabblad, klikt u op **[!UICONTROL New Field]**.
+1. Klik op het tabblad **[!UICONTROL Fields]** op **[!UICONTROL New Field]** .
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Geef het koppelingsveld een naam en voeg een optionele [!UICONTROL Description]. Zorg ervoor dat u de [!UICONTROL Link] gegevenstype.
+1. Geef het koppelingsveld een naam en voeg een optioneel veld toe [!UICONTROL Description] . Selecteer het gegevenstype [!UICONTROL Link] .
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >U kunt niet teruggaan om een [!UICONTROL Link] of [!UICONTROL Dedupe Field] nadat het aangepaste object is goedgekeurd.
+   >U kunt niet terug gaan en een [!UICONTROL Link] of [!UICONTROL Dedupe Field] maken, bewerken of verwijderen als het aangepaste object is goedgekeurd.
 
-1. Selecteer of [!UICONTROL Link Object] is voor een [!UICONTROL lead] (persoon) [!UICONTROL company].
+1. Selecteer of de [!UICONTROL Link Object] voor een [!UICONTROL lead] (persoon) of een [!UICONTROL company] is.
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >Als u [!UICONTROL lead], ziet u Id, e-mailadres en eventuele aangepaste velden in de lijst.
+   >Als u [!UICONTROL lead] kiest, ziet u Id, e-mailadres en eventuele aangepaste velden in de lijst.
    >
-   >Als u [!UICONTROL company], ziet u Id en eventuele aangepaste velden in de lijst.
+   >Als u [!UICONTROL company] kiest, ziet u Id en eventuele aangepaste velden in de lijst.
 
-1. Selecteer de [!UICONTROL Link Field] Als u verbinding wilt maken met het bovenliggende element van het nieuwe veld.
+1. Selecteer de [!UICONTROL Link Field] waarmee u verbinding wilt maken als het bovenliggende element van het nieuwe veld.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
-   >Alleen typen tekenreeksvelden worden ondersteund in het koppelingsveld.
+   >Alleen tekenreeksveldtypen worden ondersteund in de [!UICONTROL Link Field] .
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -80,7 +80,7 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
 >
 >U moet het intermediaire object al hebben gemaakt en alle aangepaste objecten die u wilt koppelen.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
@@ -92,35 +92,35 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. In de **[!UICONTROL Fields]** tabblad, klikt u op **[!UICONTROL New Field]**.
+1. Klik op het tabblad **[!UICONTROL Fields]** op **[!UICONTROL New Field]** .
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. U moet twee koppelingsvelden maken. Maak ze een voor een. Geef eerst het veld een naam voor de leden van de databaselijst (bijvoorbeeld leadID). Een optioneel object toevoegen [!UICONTROL Description]. Zorg ervoor dat u de [!UICONTROL link] [!UICONTROL Data Type].
+1. U moet twee koppelingsvelden maken. Maak ze een voor een. Geef eerst het veld een naam voor de leden van de databaselijst (bijvoorbeeld leadID). Voeg een optionele [!UICONTROL Description] toe. Selecteer de [!UICONTROL link] [!UICONTROL Data Type] .
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >U kunt niet teruggaan om een [!UICONTROL Link] of [!UICONTROL Dedupe Field] nadat het aangepaste object is goedgekeurd.
+   >U kunt niet terug gaan en een [!UICONTROL Link] of [!UICONTROL Dedupe Field] maken, bewerken of verwijderen als het aangepaste object is goedgekeurd.
 
-1. Selecteer de [!UICONTROL Link Object] uit uw database; in dit geval [!UICONTROL Lead].
+1. Selecteer [!UICONTROL Link Object] in de database; in dit geval [!UICONTROL Lead] .
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Selecteer de [!UICONTROL Link Field] u wilt in dit geval verbinding maken met [!UICONTROL Id].
+1. Selecteer de [!UICONTROL Link Field] waarmee u verbinding wilt maken, in dit geval [!UICONTROL Id] .
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >Alleen tekenreeksveldtypen worden ondersteund in het dialoogvenster [!UICONTROL Link Field].
+   >Alleen tekenreeksveldtypen worden ondersteund in de [!UICONTROL Link Field] .
 
 1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Herhaal dit proces voor de tweede koppeling naar uw aangepaste object, in dit voorbeeld, cursusID. De [!UICONTROL Link Object] de naam is een cursus en de [!UICONTROL Link Field] wordt cursusnummer. Aangezien u het aangepaste cursusobject al hebt gemaakt en goedgekeurd, zijn deze selecties beschikbaar in de vervolgkeuzemenu&#39;s.
+1. Herhaal dit proces voor de tweede koppeling naar uw aangepaste object, in dit voorbeeld, cursusID. De naam van [!UICONTROL Link Object] is een cursus en de naam van [!UICONTROL Link Field] is een cursusID. Aangezien u het aangepaste cursusobject al hebt gemaakt en goedgekeurd, zijn deze selecties beschikbaar in de vervolgkeuzemenu&#39;s.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 
@@ -134,7 +134,7 @@ De volgende stap bestaat uit het gebruik van deze aangepaste objecten in filters
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste Marketo-objectvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Een aangepast Marketo-object bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
->* [Aangepaste Marketo-objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [ geef uit en schrap een Voorwerp van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [ geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit

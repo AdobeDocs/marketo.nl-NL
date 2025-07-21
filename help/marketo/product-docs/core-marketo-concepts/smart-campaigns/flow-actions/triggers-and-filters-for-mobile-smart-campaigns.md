@@ -4,9 +4,9 @@ description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - 
 title: Triggers en filters voor mobiele slimme campagnes
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt triggers en filters instellen voor een slimme campagne voor mobiele apps.
 
-Voor de meeste activiteiten zijn er een trigger, een filter en een inactiviteitsfilter. Gebruik inactiviteitsfilters om een handeling bij te houden, zoals tikken op een pushmelding, die _niet_ gebeuren.
+Voor de meeste activiteiten zijn er een trigger, een filter en een inactiviteitsfilter. De inactiviteitsfilters van het gebruik om een actie, zoals het tikken van een duw bericht te volgen, dat _niet_ gebeurde.
 
 * Mobiele app is/is geïnstalleerd
 * Mobiele app is/is geopend
@@ -39,7 +39,7 @@ Gebruik beperkingen met triggers en filters om de gegevens verder te sorteren.
 
 Alle triggers en filters, met uitzondering van het bericht Is pushbericht verzonden, bevatten de volgende twee standaardbeperkingen:
 
-* Apparaattype - iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, Android-smartphone, Android-tablet, onbekend (dit is een lijst met voorinstellingen)
+* Apparaattype - [!DNL iPod], iPhone, [!DNL iPhone 6 Plus] , [!DNL iPad mini], iPad, Android smartphone, Android-tablet, onbekend (dit is een lijst met voorinstellingen)
 
 * Platform - iPhone of Android
 
@@ -47,7 +47,7 @@ Sommige triggers en filters bieden aanvullende beperkingen, zoals:
 
 * Toepassingsversie - Een manier om mensen aan te wijzen die zich niet in de nieuwste versie bevinden. Als de nieuwste versie van de app 2.0 is, kunt u deze bijvoorbeeld gebruiken om te zoeken naar personen die NIET aanwezig zijn in App versie 2.0
 
-* Bron installeren - Momenteel is de enige optie API
+* Source installeren - De enige optie is momenteel API
 
 * Landinstelling - De instelling op het apparaat
 
@@ -57,11 +57,11 @@ Sommige triggers en filters bieden aanvullende beperkingen, zoals:
 
 * Sessieduur (seconden) - Sessietijd wanneer de app op de voorgrond staat
 
-* Is gedrukt - **Waar** betekent dat pushmeldingen kunnen worden verzonden. **Onwaar** betekent dat dit niet mogelijk is. De persoon kan er bijvoorbeeld voor hebben gekozen geen pushberichten meer te ontvangen
+* Is Ingeschakeld van de Duw - **Waar** betekent dat de duw- berichten kunnen worden verzonden. **Vals** betekent dat zij niet kunnen; bijvoorbeeld, kan de persoon uit het ontvangen van dupberichten hebben gekozen
 
 ## Triggers en filters {#triggers-and-filters}
 
-**Heeft mobiele toepassing**
+**heeft Mobiele toepassing**
 
 Gebruik dit filter om te zien wie uw app ooit heeft geïnstalleerd. Deze optie is alleen beschikbaar als filter.
 
@@ -69,7 +69,7 @@ Gebruik dit filter om te zien wie uw app ooit heeft geïnstalleerd. Deze optie i
 >
 >Het filter vindt zowel de huidige als de vorige installatie, omdat Marketo het verwijderen van apps niet bijhoudt.
 
-**Restricties** - Apparaattype, Platform, mobiele toepassing, mobiele toepassingsversie, apparaattype, bron installeren, is pushingeschakeld en Landinstelling
+**Beperkingen** - het Type van Apparaat, Platform, Mobiele App, Mobiele Versie van de Toepassing, het Type van Apparaat, installeert Source, wordt Ingedrukt, en Scène toegelaten
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -85,7 +85,7 @@ Mobiele app is/is geïnstalleerd
 
 * NOT Mobile App geïnstalleerd - inactiviteitsfilter
 
-**Restricties** - Apparaattype, Platform, App-versie, Landinstelling en Installatiebron
+**Beperkingen** - het Type van Apparaat, Platform, de Versie van de App, de Scène, en installeer Source
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -97,13 +97,13 @@ Mobiele app is/is geopend
 
 * NOT Mobile App geopend - inactiviteitsfilter
 
-**Restricties** - Type apparaat en platform
+**Beperkingen** - het Type van Apparaat en Platform
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U moet met uw ontwikkelaar samenwerken om het volgen van de opstelling te plaatsen [voor Android](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [voor iOS](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U zult met uw ontwikkelaar aan opstelling het volgen [ voor Android ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [ voor iOS ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} moeten werken.
 
 * Heeft mobiele toepassingsactiviteit - trigger
 
@@ -111,7 +111,7 @@ Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U
 
 * Geen mobiele toepassingsactiviteit - inactiviteitsfilter
 
-**Restricties** - Apparaattype, Platform, Mobiele App-versie, Landinstelling, Platformversie, plus vijf extra versies:
+**Beperkingen** - het Type van Apparaat, Platform, Mobiele Versie van de Toepassing, Scène, de Versie van het Platform, plus vijf extra degenen:
 
 * Actie - Aangepaste mobiele activiteiten
 
@@ -129,7 +129,7 @@ Met de actievereisten kunt u de trigger en filters gebruiken om mobiele activite
 >
 >**Voorbeeld**
 >
->Onder het actietype *Winkelen* Hier is een zeer specifieke actie, met andere beperkingen die het bepalen:
+>Onder het handelingstype van *het Knippen*, is hier een zeer specifieke actie, met de andere beperkingen die het bepalen:
 >
 >* Een shirt kopen
 >   * Het was rood
@@ -152,7 +152,7 @@ Zo ziet het filter er in Marketo uit:
 >| Details van handeling | Kleur | Kleur |
 >| Metrisch handeling | Prijs | Prijs |
 
-**Heeft/heeft een mobiele App-sessie**
+**heeft/had Mobiele App Zitting**
 
 * Heeft Mobile App-sessie - trigger
 
@@ -160,7 +160,7 @@ Zo ziet het filter er in Marketo uit:
 
 * Geen mobiele App-sessie - inactiviteitsfilter
 
-**Restricties** - Type apparaat, Platform en Sessieduur (seconden)
+**Beperkingen** - het Type van Apparaat, Platform, en de Lengte van de Zitting (seconden)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -172,7 +172,7 @@ Taps/Tapping Push Notification
 
 * Melding van niet-getapte pushmelding - inactiviteitsfilter
 
-**Restricties** - Apparaattype, Platform, Mobiele App-versie, pushmelding en platformversie
+**Beperkingen** - het Type van Apparaat, Platform, de Mobiele Versie van de Toepassing, het Bericht van de Duw, en de Versie van het Platform
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -180,17 +180,17 @@ Taps/Tapping Push Notification
 >
 >Gebruik het filter Inactiviteit van pushmelding niet aangeraakt om te zoeken naar mensen die niet hebben getikt op een pushmelding die onlangs naar hen is verzonden, zodat u deze via e-mail kunt volgen.
 
-**Er is een pushmelding verzonden** Deze activiteit is alleen beschikbaar als filter.
+**werd Verzonden het Bericht van de Duw** Deze activiteit is beschikbaar slechts als filter.
 
 * Er is pushmelding verzonden, filter
 
 * Geen pushmelding verzonden - inactiviteitsfilter
 
-**Restricties** - Push Notification en Mobile App
+**Beperkingen** - het Bericht van de duw en Mobiele App
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
->* [Een restrictie toevoegen aan een slim lijstfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [Inactiviteitsfilters gebruiken in een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [ voeg een Beperking aan een Slimme Filter van de Lijst toe ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [ Filters van de Inactiviteit van het Gebruik in een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

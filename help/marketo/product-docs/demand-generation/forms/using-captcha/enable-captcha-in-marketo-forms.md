@@ -3,38 +3,38 @@ description: CAPTCHA inschakelen in Marketo Forms - Marketo Docs - Productdocume
 title: CAPTCHA inschakelen in Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
 # CAPTCHA inschakelen in Marketo Forms {#enable-captcha-in-marketo-forms}
 
-U kunt CAPTCHA per formulier in- en uitschakelen.
+U kunt [!UICONTROL CAPTCHA] per formulier in-/uitschakelen.
 
-1. Zoek en selecteer het gewenste formulier.
+1. Selecteer het gewenste formulier.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Klikken **Concept bewerken** (Als het formulier al is goedgekeurd, klikt u op Concept maken.)
+1. Klik op **[!UICONTROL Edit Draft]** (als het formulier al is goedgekeurd, klikt u op [!UICONTROL Create Draft] ).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Klikken **Formulierinstellingen** vervolgens **Instellingen**.
+1. Klik op **[!UICONTROL Form Settings]** en vervolgens op **[!UICONTROL Settings]** .
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
-1. Open de vervolgkeuzelijst CAPTCHA en selecteer **Ingeschakeld**.
+1. Open de vervolgkeuzelijst **[!UICONTROL CAPTCHA]** en selecteer **[!UICONTROL Enabled]** .
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 
@@ -46,4 +46,4 @@ Het kan een paar minuten duren voordat wijzigingen in deze lijst worden doorgevo
 
 >[!MORELIKETHIS]
 >
->[reCAPTCHA v3 instellen](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+>[ Vestiging reCAPTCHA v3 ](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)

@@ -3,9 +3,9 @@ description: Instellingen voor tweeledige toestemming - Marketo-documenten - pro
 title: Instellingen voor tweeledige toestemming
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
 >[!PREREQUISITES]
 >
->Voordat u de onderstaande stappen uitvoert, moet u eerst [call opnemen inschakelen](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
+>Alvorens de stappen hieronder te volgen, moet u vraagopname [ eerst ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md) toelaten.
 
-1. Klik op het pictogram Instellingen en selecteer **Instellingen**.
+1. Klik op het pictogram Instellingen en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. Klik onder Beheerinstellingen op **Algemeen**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL General]** .
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. In de kaart van de Opname van de Vraag, klik **Opnamebericht beheren**.
+1. Klik op de [!UICONTROL Call Recording] -kaart op **[!UICONTROL Manage recording notice]** .
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Klikken **Opname importeren**.
+1. Klik op **[!UICONTROL Import Recording]**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Als het uploaden is voltooid, selecteert u de gegevens (drie punten) in het bestandsbeheer en klikt u op **Selecteren als kennisgeving van toestemming**. Klikken **OK** wanneer gereed.
+1. Nadat het uploaden is voltooid, selecteert u de gegevens (drie punten) in het bestandsbeheer en klikt u op **[!UICONTROL Select as Consent Notice]** . Klik op **[!UICONTROL OK]** als u klaar bent.
 
    ![](assets/two-party-consent-settings-6.png)
 

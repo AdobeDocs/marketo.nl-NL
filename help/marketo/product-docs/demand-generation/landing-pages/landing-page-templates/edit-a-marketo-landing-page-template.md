@@ -4,9 +4,9 @@ description: Een Marketo-landingspaginasjabloon bewerken - Marketo Docs - Produc
 title: Een Marketo-sjabloon voor openingspagina bewerken
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '86'
 ht-degree: 1%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 U kunt elke sjabloon van een bestemmingspagina bewerken in Marketo.
 
-1. Ga naar **Design Studio**.
+1. Ga naar **[!UICONTROL Design Studio]** .
 
    ![](assets/designstudio.png)
 
-1. Uitbreiden **Openingspagina&#39;s** om de sjablonen weer te geven.
+1. Vouw **[!UICONTROL Landing Pages]** uit om de sjablonen weer te geven.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selecteer **Sjabloon** wilt bewerken. Klikken **Concept bewerken**.
+1. Selecteer de **[!UICONTROL Template]** die u wilt bewerken. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

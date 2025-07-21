@@ -1,27 +1,27 @@
 ---
 unique-page-id: 17728023
-description: Een gebeurtenis maken met Zoomen - Marketo Docs - Productdocumentatie
-title: Een gebeurtenis met zoomen maken
+description: Een gebeurtenis maken met  [!DNL Zoom]  - Marketo Docs - Productdocumentatie
+title: Een gebeurtenis maken met  [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
 
-# Een gebeurtenis met zoomen maken {#create-an-event-with-zoom}
+# Een gebeurtenis maken met [!DNL Zoom] {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [ voeg Gezoem als Dienst LaunchPoint ](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md) toe
+>* [ voeg  [!DNL Zoom]  als a [!DNL LaunchPoint]  Dienst ](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md) toe
 >* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
-Maak eerst uw webinar in Zoomen. Bepaalde instellingen bij het maken van zoomen worden gebruikt door Marketo en sommige worden alleen gebruikt door Zoomen.
+Maak eerst uw webinar in [!DNL Zoom] . Bepaalde instellingen bij het maken van uw [!DNL Zoom] worden gebruikt door Marketo en sommige worden alleen gebruikt door [!DNL Zoom] .
 
-Nadat u een Marketo-gebeurtenis hebt gemaakt en een zoomwebinar hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen. Voor hulp die tot webinar leiden, zie [ Begonnen het worden met Webinars van het Gezoem ](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
+Nadat u een Marketo-gebeurtenis hebt gemaakt en er een [!DNL Zoom] webinar aan hebt gekoppeld, kunnen de systemen registratie- en aanwezigheidsgegevens delen. Voor hulp die tot webinar leiden, zie [ Begonnen het worden met  [!DNL Zoom]  Webinars ](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
 Voer de volgende informatie in voor uw webinar en het wordt via de adapter in Marketo geplaatst. Als u wijzigingen aanbrengt aan deze gegevens, moet u onder Gebeurtenishandelingen op de koppeling &quot;Vernieuwen van webinar-provider&quot; klikken om de wijzigingen te kunnen zien.
 
@@ -43,21 +43,21 @@ Voer de volgende informatie in voor uw webinar en het wordt via de adapter in Ma
 
 * **Terugkomende Webinar** - houd ongecontroleerd.
 
-* **Registratie** - controleer deze doos om registratie te maken vereist. U gebruikt een Marketo-formulier/landingspagina om registratiegegevens vast te leggen die naar Zoomen worden geduwd.
+* **Registratie** - controleer deze doos om registratie te maken vereist. U gebruikt een Marketo-formulier-/landingspagina om registratiegegevens vast te leggen die naar [!DNL Zoom] worden geduwd.
 
 >[!NOTE]
 >
->Marketo ondersteunt momenteel geen terugkerende webinars. U moet één sessie instellen tussen elke Marketo-gebeurtenis en het zoomwebinar.
+>Marketo ondersteunt momenteel geen terugkerende webinars. U moet één sessie instellen tussen elke Marketo-gebeurtenis en [!DNL Zoom] webinar.
 
 ![](assets/overview2.png)
 
 >[!TIP]
 >
->Er zijn extra gebieden die u in Gezoem zult vormen die NIET de integratie zullen beïnvloeden. Gelieve te verwijzen naar het [ Centrum van de Hulp van Webinar van het Gezoem ](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) voor extra informatie over deze gebieden.
+>Er zijn aanvullende velden die u configureert in [!DNL Zoom] en die GEEN invloed hebben op de integratie. Gelieve te verwijzen naar het [[!DNL Zoom]  Centrum van de Hulp Webinar ](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) voor extra informatie over deze gebieden.
 
 Laten we nu naar Marketo springen!
 
-1. Selecteer een gebeurtenis. Klik **Acties van de Gebeurtenis** en kies **de Montages van de Gebeurtenis**.
+1. Selecteer een gebeurtenis. Klik op **[!UICONTROL Event Actions]** en kies **[!UICONTROL Event Settings]** .
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,11 +65,11 @@ Laten we nu naar Marketo springen!
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar** zijn.
 
-1. Kies **Gezoem** van de **Lijst van de Gebeurtenis** **Partner**.
+1. Kies **[!UICONTROL Zoom]** in de lijst **[!UICONTROL Event Partner]** .
 
    ![](assets/eventsettings1.png)
 
-1. Kies het account Zoomen waaraan u de gebeurtenis wilt koppelen.
+1. Kies de [!DNL Zoom] -account waaraan u de gebeurtenis wilt koppelen.
 
    ![](assets/selectaccount.png)
 
@@ -77,11 +77,11 @@ Laten we nu naar Marketo springen!
 
    ![](assets/selectevent.png)
 
-1. Klik **sparen**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/eventsettingssave.png)
 
-   Uitstekend! De gebeurtenis wordt nu gesynchroniseerd en gepland door Zoomen.
+   Uitstekend! De gebeurtenis wordt nu gesynchroniseerd en gepland door [!DNL Zoom] .
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Laten we nu naar Marketo springen!
    >
    >Plaats uw bevestigingse-mail aan **Operationeel** om ervoor te zorgen dat de mensen die registreren en kunnen worden afgemeld nog hun bevestigingsinformatie ontvangen.
 
-   De mensen die omhoog voor uw webinar ondertekenen zullen worden geduwd aan uw webinar leverancier via de **de stroomstap van de Status van het Programma van de Verandering** wanneer de Nieuwe Status aan &quot;Geregistreerd wordt geplaatst.&quot; Geen andere status zal de persoon over duwen. Ook, ben zeker om **stroomstap #1 van de Status van het Programma van de Verandering te maken**, en **verzendt e-mail** stroomstap #2.
+   Personen die zich aanmelden voor uw webinar, worden via de **[!UICONTROL Change Program Status]** flowstap naar uw webinar gestuurd wanneer [!UICONTROL New Status] is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u **[!UICONTROL Change Program Status]** stap #1 en **[!UICONTROL Send Email]** stap #2 uitvoert.
 
    ![](assets/goto-webinar-1.png)
 

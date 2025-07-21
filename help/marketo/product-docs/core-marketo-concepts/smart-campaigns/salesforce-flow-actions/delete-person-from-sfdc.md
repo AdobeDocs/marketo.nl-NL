@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147031
 description: Persoon verwijderen uit SFDC - Marketo Docs - Productdocumentatie
-title: Persoon verwijderen uit SFDC
+title: Persoon uit SFDC verwijderen
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Persoon verwijderen uit SFDC {#delete-person-from-sfdc}
+# Persoon uit SFDC verwijderen {#delete-person-from-sfdc}
 
-Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als mensen in Marketo Engage verlaat, kunt u de Persoon van de Schrapping van SFDC stroomactie gebruiken.
+Als u een specifieke reeks leads uit Salesforce moet verwijderen maar deze als personen in Marketo Engage wilt behouden, kunt u de actie Person verwijderen uit SFDC-flow gebruiken.
 
 >[!NOTE]
 >
->Alleen beschikbaar bij integratie met Salesforce.
+>Alleen beschikbaar bij integratie met [!DNL Salesforce] .
 
 1. Klik in de database op de persoon die u uit Salesforce wilt verwijderen. Klik vervolgens op **[!UICONTROL Person Actions]** en selecteer **[!DNL Salesforce]** .
 
@@ -31,8 +31,8 @@ Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als men
 
    ![](assets/delete-person-from-sfdc-3.png)
 
-   Na de looppas van de stroomstap, zal uw persoon niet meer een lood in Salesforce zijn maar zal in Marketo blijven.
+   Na de uitvoering van de stap voor de doorloop is uw persoon geen lead meer in [!DNL Salesforce] maar blijft deze in Marketo.
 
    >[!CAUTION]
    >
-   >Als u **[!UICONTROL Delete in Marketo]** instelt op **[!UICONTROL true]** en de mensen uit Marketo en de leads van Salesforce verwijdert, zijn ze voor altijd verdwenen. Dit kan niet ongedaan worden gemaakt.
+   >Als u **[!UICONTROL Delete in Marketo]** instelt op **[!UICONTROL true]** en de mensen uit Marketo en de leads uit Salesforce verwijdert, zijn ze voor altijd verdwenen. Dit kan niet ongedaan worden gemaakt.

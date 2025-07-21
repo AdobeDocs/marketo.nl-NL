@@ -3,9 +3,9 @@ description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdoc
 title: Chatgebruikers toevoegen of verwijderen
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 941fdf08b580bab80c456e3956e965c9e2fa6942
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '233'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
 >[!NOTE]
 >
->Standaard krijgen alle beheerders van Marketo&#39;s Engage beheerdersrechten in de Dynamic Chat.
+>Standaard krijgen alle Marketo Engage Admins beheerdersrechten in Dynamic Chat.
 
 ## Chatgebruiker toevoegen {#add-a-chat-user}
 
-1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -32,19 +32,19 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
    >
    >Als u meerdere Marketo-abonnementen hebt, selecteert u de gewenste abonnement vóór de volgende stap.
 
-1. Klik op de knop **[!UICONTROL Users]** tab.
+1. Klik op de tab **[!UICONTROL Users]** .
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Klik op de knop **[!UICONTROL Add User]** knop.
+1. Klik op **[!UICONTROL Add User]** .
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. Voer de naam, gebruikersgroep of het e-mailadres in van de gebruiker die u wilt toevoegen. Voornaam en achternaam zijn optioneel.
+1. Voer de [!UICONTROL name, user group, or email address] in van de gebruiker die u wilt toevoegen. Voornaam en achternaam zijn optioneel.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. Klik op de knop **+** en selecteer het gewenste productprofiel.
+1. Klik op het pictogram **+** en selecteer het gewenste productprofiel.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -54,31 +54,31 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
    >[!NOTE]
    >
-   >Nadat u een gebruiker in de console Admin van de Adobe toevoegt, kon het tot twee uren voor hen duren om in de pagina van het Beheer van de Agent van de Dynamic Chat te verschijnen.
+   >Nadat u een gebruiker in de Adobe Admin Console toevoegt, zou het tot twee uren voor hen kunnen vergen om op de pagina van het Beheer van de Agent van Dynamic Chat te verschijnen.
 
-## Toegang tot Dynamic Chat toevoegen aan Marketo-rol {#add-dynamic-chat-access-to-marketo-role}
+## Dynamic Chat Access toevoegen aan Marketo Role {#add-dynamic-chat-access-to-marketo-role}
 
-Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog geen toestemming van de Dynamic Chat heeft, is hier hoe te om het toe te voegen.
+Als de nieuwe Marketo-rol van de chatgebruiker nog geen [!DNL Dynamic Chat] -machtiging heeft, gaat u als volgt te werk om deze toe te voegen.
 
-1. Klik in Marketo op **[!UICONTROL Admin]** en selecteert u **[!UICONTROL Users & Roles]**.
+1. Klik in Marketo op **[!UICONTROL Admin]** en selecteer **[!UICONTROL Users & Roles]** .
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Klik op de knop **[!UICONTROL Roles]** tab.
+1. Klik op de tab **[!UICONTROL Roles]** .
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. Selecteer in de lijst de rol die u wilt wijzigen en klik op **[!UICONTROL Edit Role]**.
+1. Selecteer in de lijst de rol die u wilt wijzigen en klik op **[!UICONTROL Edit Role]** .
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Selecteren **[!UICONTROL Access Dynamic Chat]** en klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Access Dynamic Chat]** en klik op **[!UICONTROL Save]** .
 
    ![](assets/add-or-remove-chat-users-11.png)
 
 ## Een chatgebruiker verwijderen {#remove-a-chat-user}
 
-1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -90,7 +90,7 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
    >
    >Als u meerdere Marketo-abonnementen hebt, selecteert u de gewenste abonnement vóór de volgende stap.
 
-1. Klik op de knop **[!UICONTROL Users]** tab.
+1. Klik op de tab **[!UICONTROL Users]** .
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -98,15 +98,15 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Klik op de knop **[!UICONTROL Remove User]** knop.
+1. Klik op **[!UICONTROL Remove User]** .
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. Klikken **[!UICONTROL Remove User]** ter bevestiging.
+1. Klik op **[!UICONTROL Remove User]** om te bevestigen.
 
    ![](assets/add-or-remove-chat-users-17.png)
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console-gebruikers](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
->* [Gebruikers afzonderlijk beheren](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

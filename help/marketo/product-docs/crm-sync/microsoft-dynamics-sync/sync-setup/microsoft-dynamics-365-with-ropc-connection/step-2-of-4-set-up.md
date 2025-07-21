@@ -3,9 +3,9 @@ description: Stap 2 van 4 - Opstelling de Oplossing van Marketo met de Verbindin
 title: Stap 2 van 4 - Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Laten we beginnen met het maken van een gebruikersaccount.
 
 ## Nieuwe gebruiker maken {#create-a-new-user}
 
-1. Meld u aan bij Dynamiek. Klik op het pictogram Instellingen en selecteer **[!UICONTROL Advanced Settings]** .
+1. Meld u aan bij [!DNL Dynamics] . Klik op het pictogram [!UICONTROL Settings] en selecteer **[!UICONTROL Advanced Settings]** .
 
    ![](assets/one.png)
 
@@ -70,13 +70,13 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
 >[!NOTE]
 >
->Dit geldt voor Marketo-versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [ de Oplossing van Marketo van de Verbetering voor Microsoft Dynamics ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Dit geldt voor Marketo-versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [ de Oplossing van Marketo van de Verbetering voor  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >Taal het plaatsen van de Gebruiker van de Synchronisatie [ zou aan Engels ](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"} moeten worden geplaatst.
 
-1. Ga terug naar de tab **[!UICONTROL Enabled Users]** en vernieuw de lijst met gebruikers.
+1. Ga terug naar de tab [!UICONTROL Enabled Users] en vernieuw de lijst met gebruikers.
 
    ![](assets/ten.png)
 
@@ -100,13 +100,13 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
 Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over de nieuwe gebruiker die is gemaakt.
 
-1. Ga terug naar het gedeelte Geavanceerde instellingen, klik op het pictogram ![](assets/image2015-5-13-15-3a49-3a19.png) naast Instellingen en selecteer **[!UICONTROL Marketo Config]** .
+1. Ga terug naar de sectie [!UICONTROL Advanced Settings] , klik op het pictogram ![](assets/image2015-5-13-15-3a49-3a19.png) naast [!UICONTROL Settings] en selecteer **[!UICONTROL Marketo Config]** .
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Vernieuw de pagina als u **[!UICONTROL Marketo Config]** niet ziet in het menu Instellingen. Als dat niet werkt, probeer [ om de Oplossing van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"} opnieuw te publiceren of logout en terug binnen.
+   >Als u **[!UICONTROL Marketo Config]** niet ziet in het menu [!UICONTROL Settings] , vernieuwt u de pagina. Als dat niet werkt, probeer [ om de Oplossing van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) opnieuw te publiceren of logout en terug binnen.
 
 1. Klik op **[!UICONTROL Default]**.
 
@@ -124,7 +124,7 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 
    ![](assets/seventeen.png)
 
-1. Klik op het pictogram ![](assets/image2015-5-13-15-3a49-3a19-1.png) naast Instellingen en selecteer **[!UICONTROL Solutions]** .
+1. Klik op het pictogram ![](assets/image2015-5-13-15-3a49-3a19-1.png) naast [!UICONTROL Settings] en selecteer **[!UICONTROL Solutions]** .
 
    ![](assets/eighteen.png)
 

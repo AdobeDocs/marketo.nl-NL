@@ -4,37 +4,37 @@ description: Persoonlijke opmerkingen in Google - Marketo Docs - Productdocument
 title: Persoonlijke opmerkingen in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '225'
+ht-degree: 2%
 
 ---
 
 # Persoonlijke opmerkingen in Google {#personalized-remarketing-in-google}
 
-De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in werking stellen gebruikend gegevens RTP en de macht van Google Analytics met het bereik van het Netwerk van de Vertoning van Google.
+De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst nemen gebruikend gegevens RTP en de macht van Google Analytics met het bereik van het Netwerk van de Vertoning van Google.
 
 >[!PREREQUISITES]
 >
->* Voltooi de [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) configuratie
->* Controleren [Opmerking met Help voor Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) documentatie.
+>* Voltooi [ het Opnieuw richten met  [!DNL Web Personalization]  Configuratie van Gegevens ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Het overzicht [ Opmerking met de documentatie van de Hulp van Google Analytics ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645).
 
 ## Een opmerkingspubliek maken in Google {#creating-a-remarketing-audience-in-google}
 
-1. Meld u aan bij uw Google Analytics. Klikken **Beheer**, **Account**, **Eigenschap**. Klikken op **Definities van publiek** en **Soorten publiek**.
+1. Meld u aan bij uw Google Analytics. Klik op **[!UICONTROL Admin]** , **[!UICONTROL Account]** , **[!UICONTROL Property]** . Klik op **[!UICONTROL Audience Definitions]** en **[!UICONTROL Audiences]** .
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. Klikken **+Nieuwe doelgroep**.
+1. Klik op **[!UICONTROL +New Audience]**.
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Configuratie koppelen**: Link naar je Google Adwords-account. **Publiek definiëren**: Klikken **Nieuw maken**.
+1. **[!UICONTROL Link Configuration]**: Koppeling maken naar uw [!DNL Google Adwords] -account. **[!UICONTROL Define Audience]**: klik op **[!UICONTROL Create New]** .
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klik in de Audience Builder op **Reeksen** en **Vind de Gegevens RTP** onder Aangepaste Dimension, Aangepaste variabelen, Gebeurtenissen.
+1. Klik in de Audience Builder op **[!UICONTROL Sequences]** en **[!UICONTROL Find the RTP Data]** onder [!UICONTROL Custom Dimensions] , [!UICONTROL [!]UICONTROL Custom Variables] , [!UICONTROL Events] .
 
 >[!TIP]
 >
@@ -42,57 +42,57 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in werking ste
 >
 >In Google Analytics:
 >
->* Aangepaste variabelen: Organisatie, industrie
+>* Aangepaste variabelen: organisatie, industrie
 >* Gebeurteniscategorie: Segment, Insightera-CTA, RTP-Remarketing
->* Gebeurtenislabel: Segmentnaam, naam campagne, segmentnaam publiek
+>* Gebeurtenislabel: segmentnaam, naam van campagne, segmentnaam publiek
 >
 >In Google Universal Analytics:
 >
->* Aangepaste Dimension: Organisatie, Industrie, Categorie (Fortune 500.1000, Globale 2000), Groep (Onderneming, SMB), Lijst ABM (Benoemde Lijst van de Rekening)
->* Gebeurteniscategorie: RTP-Segment, RTP-Campagne RTP-Markketing
->* Gebeurtenislabel: Segmentnaam, naam campagne, segmentnaam publiek
+>* Aangepaste afmetingen: organisatie, industrie, categorie (Fortune 500,1000, Global 2000), groep (Enterprise, SMB), ABM-lijst (benoemde accountlijst)
+>* Gebeurteniscategorie: RTP-Segment, RTP-Campagne RTP-Remarketing
+>* Gebeurtenislabel: segmentnaam, naam van campagne, segmentnaam publiek
 
-**Voorbeeld van het opmerken Publiek van RTP Gesegmenteerde Gegevens van het Publiek**
+**Voorbeeld van de Audience van de Nota&#39;s van de Nota&#39;s van de Opmerking van RTP Gesegmenteerde Gegevens van het Publiek**
 
-1. Klikken **Reeksen.**
-1. Selecteren **Gebeurtenislabel.**
-1. Enter **Naam van gesegmenteerd publiek** (zoals weergegeven in RTP).
-1. Klikken **Toepassen**.
+1. Klik op **[!UICONTROL Sequences].**
+1. Selecteren **[!UICONTROL Event Label].**
+1. Voer **[!UICONTROL Name of Segmented Audience]** in (zoals deze wordt weergegeven in RTP).
+1. Klik op **[!UICONTROL Apply]**.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
-**Voorbeeld van het publiek van de Gegevens van de Industrie RTP**
+**Voorbeeld van Publiek van de Gegevens van de Industrie RTP**
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
-1. Klikken **Reeksen**.
-1. Selecteren **RTP-industrie**.
-1. Enter **Naam van de industrie** (bijv. Financiële diensten, onderwijs...).
-1. Klikken **Toepassen**.
-1. Voer een **Auditienaam**. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Sequences]**.
+1. Selecteer **[!UICONTROL RTP-Industry]** .
+1. Ga **Naam van de Industrie** in (b.v. [!UICONTROL Financial Services], [!UICONTROL Education]...).
+1. Klik op **[!UICONTROL Apply]**.
+1. Voer een **[!UICONTROL Audience Name]** in. Klik op **[!UICONTROL Save]**.
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 
-## Een opmerkingscampagne voor advertenties maken in Google Adwords {#create-a-remarketing-ad-campaign-in-google-adwords}
+## Een campagne voor opmerkingen en advertenties maken in [!DNL Google Adwords] {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. Aanmelden bij **Google Adwords**. Klikken op **Campagnes**, selecteert u **Alleen netwerk weergeven**.
+1. Meld u aan bij **[!DNL Google Adwords]** . Klik op **[!UICONTROL Campaigns]** en selecteer **[!UICONTROL Display Network only]** .
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. Enter **Campagnenaam**, selecteren **Opmerking tekst.**
+1. Enter **[!UICONTROL Campaign Name]**, Select **[!UICONTROL Type Remarketing].**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. Enter **Advertentienaam,** enter **Enhanced CPC**, selecteren **Lijst met opmerkingen**.
+1. Voer **[!UICONTROL Ad Group Name],** enter **[!UICONTROL Enhanced CPC]**, Select **[!UICONTROL Remarketing List]** in.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
-1. Klik op Opslaan en ga verder.
+1. Klik op **[!UICONTROL Save]** en ga verder.
 1. Voeg uw afbeelding of tekstadvertentie toe en start uw campagne voor het opnieuw op de markt brengen van tekst.
 
    ![](assets/image2015-1-15-18-3a47-3a21.png)
 
 >[!MORELIKETHIS]
 >
->* [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [Persoonlijke opmerkingen in Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+>* [ het opnieuw richten met  [!DNL Web Personalization]  Gegevens ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [ Gepersonaliseerde het Merken in  [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)

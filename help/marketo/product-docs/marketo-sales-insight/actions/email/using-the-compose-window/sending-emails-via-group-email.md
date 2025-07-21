@@ -3,9 +3,9 @@ description: E-mails verzenden via Groepse-e-mail - Marketo Docs - Productdocume
 title: E-mailberichten verzenden via e-mail voor groep
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 ## Groeps-e-mailberichten verzenden {#sending-a-group-email}
 
-1. Klik op de knop **Mensen** tab.
+1. Klik op de tab **[!UICONTROL People]** .
 
    ![](assets/sending-emails-via-group-email-1.png)
 
@@ -24,7 +24,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/sending-emails-via-group-email-2.png)
 
-1. Klik op de knop Handelingen groeperen en selecteer **E-mailgroep**.
+1. Klik op [!UICONTROL Group Actions] en selecteer **[!UICONTROL Email Group]** .
 
    ![](assets/sending-emails-via-group-email-3.png)
 
@@ -34,9 +34,9 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 ## Een groepse-e-mail bewerken {#editing-a-group-email}
 
-1. Een groepse-e-mail maken met [Stap 1-3 hierboven](#sending-a-group-email).
+1. Creeer een groep e-mail gebruikend [ Stappen 1-3 hierboven ](#sending-a-group-email).
 
-1. [Een sjabloon kiezen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)of vul uw e-mail in.
+1. [ kies een malplaatje ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md), of vul uw e-mail in.
 
    ![](assets/sending-emails-via-group-email-5.png)
 
@@ -44,7 +44,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. Selecteer de gewenste ontvanger en klik op **Dynamische velden voorvertonen**. Bekijk de voorvertoning aan de rechterkant.
+1. Selecteer de gewenste ontvanger en klik op **[!UICONTROL Preview Dynamic Fields]** . Bekijk de voorvertoning aan de rechterkant.
 
    ![](assets/sending-emails-via-group-email-7.png)
 
@@ -54,5 +54,5 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 >[!MORELIKETHIS]
 >
->* [Opties voor bulkverzending](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
->* [Een sjabloon gebruiken in het venster Samenstellen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [ Bulk die Opties ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md) verzendt
+>* [ Gebruikend een Malplaatje in Samenstellen Venster ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

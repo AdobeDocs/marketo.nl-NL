@@ -3,9 +3,9 @@ description: Toegang tot uw nieuwe exemplaar van Sales Connect - Marketo Docs - 
 title: Toegang tot uw nieuwe Sales Connect-instantie
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist.**
+>**vereiste toestemmingen Admin.**
 
 Zodra Sales Connect is aangeschaft, wordt een nieuwe integratiepagina weergegeven in uw Marketo-exemplaar. Op deze pagina kunt u uw eerste gebruiker uitnodigen en het exemplaar van Sales Connect instellen.
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Klikken **Verkoop Connect**.
+1. Klik op **[!UICONTROL Sales Connect]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Kiezen uit een lijst met Marketo-beheerders die u wilt uitnodigen en klikken **Uitnodiging verzenden**.
+1. Selecteer een optie in de lijst met Marketo-beheerders die u wilt uitnodigen en klik op **[!UICONTROL Send Invite]** .
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 
@@ -34,4 +34,4 @@ De gebruiker ontvangt een e-mail met stappen om toegang te krijgen tot de Sales 
 
 >[!NOTE]
 >
->Extra gebruikers zullen **niet** worden toegevoegd via Marketo en worden toegevoegd via de pagina Gebruikersbeheer van Sales Connect. [Klik hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) voor meer informatie over het toevoegen van extra gebruikers.
+>De extra gebruikers zullen **niet** door Marketo worden toegevoegd en zullen in plaats daarvan door de pagina van het Beheer van de Gebruiker van Connect van de Verkoop worden toegevoegd. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) om meer over het toevoegen van extra gebruikers te leren.

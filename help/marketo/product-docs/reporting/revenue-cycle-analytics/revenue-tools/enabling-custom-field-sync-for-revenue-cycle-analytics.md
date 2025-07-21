@@ -4,30 +4,30 @@ description: Aangepaste veldsynchronisatie inschakelen voor conjunctuuranalyse -
 title: Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
-# Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Aangepaste veldsynchronisatie inschakelen voor [!UICONTROL Revenue Cycle Analytics] {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
-De volgende stappen zullen u toestaan om douanevelden in RCA- rapporten te gebruiken.
+Met de volgende stappen kunt u aangepaste velden gebruiken in RCA-rapporten.
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Klikken **Analyse van inkomstencyclus** vervolgens **Aangepaste veldsynchronisatie**.
+1. Klik op **[!UICONTROL Revenue Cycle Analytics]** en vervolgens op **[!UICONTROL Custom Field Sync]** .
 
    ![](assets/two.png)
 
-1. Selecteer uw **Veldnaam** en klik vervolgens op **Synchronisatieoptie bewerken**.
+1. Selecteer uw **[!UICONTROL Field Name]** en klik op **[!UICONTROL Edit Sync Option]** .
 
    ![](assets/three.png)
 
-1. Selecteer onder Synchronisatiestatus de optie **Ingeschakeld** en klik vervolgens op **Opslaan**.
+1. Selecteer onder **[!UICONTROL Sync Status]** de optie **[!UICONTROL Enabled]** en klik vervolgens op **[!UICONTROL Save]** .
 
    ![](assets/four.png)
 
@@ -39,4 +39,4 @@ De volgende stappen zullen u toestaan om douanevelden in RCA- rapporten te gebru
 
    >[!NOTE]
    >
-   >Nadat het veld is ingeschakeld, zijn de gegevens de volgende dag beschikbaar in de Analyse van de inkomstencyclus.
+   >Nadat het veld is ingeschakeld, zijn de gegevens de volgende dag beschikbaar in [!UICONTROL Revenue Cycle Analytics] .

@@ -4,9 +4,9 @@ description: Werken met het SEO-dashboard -SEO Snapshot - Marketo Docs - Product
 title: SEO-dashboard begrijpen - SEO-momentopname
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Gebruik het dashboard om een mening op hoog niveau van te krijgen hoe de sleutelwoordrang trending is en hoe goed uw plaats voor SEO wordt geoptimaliseerd.
 
-Als u wilt weten waarop u zich moet concentreren om uw SEO-inspanningen te verbeteren, gebruikt u de opdracht [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
+Als u wilt weten waarop u zich wilt concentreren om uw SEO-inspanningen te verbeteren, gebruikt u het gedeelte [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Keyword Rank Summary] {#keyword-rank-summary}
 
-In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop u zich richt](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Deze sectie toont u hoe uw plaats voor de [ sleutelwoorden wordt gerangschikt u ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) richt.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop
 
 >[!TIP]
 >
->U kunt ook zien hoe een [specifieke lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van trefwoorden wordt uitgevoerd. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
+>U kunt ook bekijken hoe a [ specifieke lijst ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden presteert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop
 
 ## [!UICONTROL Average Page Optimization Score] {#average-page-optimization-score}
 
-De gemiddelde score voor paginamoptimalisatie is een eigen Marketo-score die alle pagina&#39;s op uw site op een schaal van 1 tot 100 meet.
+[!UICONTROL Average Page Optimization Score] is een Marketo-score die door eigendomsrechten wordt gebruikt en waarmee alle pagina&#39;s op uw site op een schaal van 1 tot 100 worden gemeten.
 
 Het is gebaseerd op een compilatie van tientallen beste praktijken. Een score van 70 of hoger geeft een goed geoptimaliseerde site aan.
 
@@ -53,7 +53,7 @@ Het is gebaseerd op een compilatie van tientallen beste praktijken. Een score va
 
 ## [!UICONTROL Keyword Rank Trends] {#keyword-rank-trends}
 
-De [!UICONTROL Keyword Rank Trends] de grafiek trekt uw sleutelwoorden met de vijf hoogste maandelijkse onderzoeksvolumes, en grafieken hoe zij in tijd rangschikken.
+De grafiek van [!UICONTROL Keyword Rank Trends] trekt uw sleutelwoorden met de vijf hoogste maandelijkse onderzoeksvolumes, en schetst hoe zij in tijd rangschikken.
 
 >[!TIP]
 >
@@ -61,8 +61,8 @@ De [!UICONTROL Keyword Rank Trends] de grafiek trekt uw sleutelwoorden met de vi
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Laten we de [!UICONTROL Recommendations] van dit dashboard.
+Kijk nu naar de sectie [!UICONTROL Recommendations] van dit dashboard.
 
 >[!MORELIKETHIS]
 >
->[Het dashboard begrijpen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[ Begrijpend het dashboard: De Aanbevelingen van SEO ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

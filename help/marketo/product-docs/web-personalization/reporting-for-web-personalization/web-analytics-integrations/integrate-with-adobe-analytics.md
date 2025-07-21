@@ -4,9 +4,9 @@ description: Integreren met Adobe Analytics - Marketo Docs - Productdocumentatie
 title: Integreren met Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '984'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ## Intro {#intro}
 
-Analyseer uw webanalyses vanuit een B2B-perspectief door de campagnegegevens voor organisatie, industrie en Marketo Real-Time Personalization (RTP) binnen uw Adobe Analytics-account te bekijken.
+Analyseer uw webanalyses vanuit een B2B-perspectief door de gegevens van uw organisatie-, industrie- en [!DNL Marketo Real-Time Personalization] (RTP)-campagne in uw Adobe Analytics-account te bekijken.
 
-Dit document laat de integratie tussen Marketo Real-Time Personalization (RTP) en Adobe Adobe Analytics toe. De gegevens van RTP zullen u toestaan om tendensen in alle industriesegmenten en organisaties te ontdekken en te analyseren die uw plaats bezoeken en de doeltreffendheid van uw campagnes te meten RTP, die de inzichten en de analyse verstrekken om optimale resultaten te bereiken.
+Dit document maakt de integratie mogelijk tussen [!DNL Marketo Real-Time Personalization] (RTP) en Adobe Adobe Analytics. De gegevens van RTP zullen u toestaan om tendensen in alle industriesegmenten en organisaties te ontdekken en te analyseren die uw plaats bezoeken en de doeltreffendheid van uw campagnes te meten RTP, die de inzichten en de analyse verstrekken om optimale resultaten te bereiken.
 
 U kunt dit bereiken door metriek zoals de aantallen nieuwe versus terugkerende bezoekers in elk segment te bekijken, kliktarieven op campagnes te analyseren, en te ontdekken welke industrieën en aangepaste segmenten en in real time campagnes de beste omzettende lood produceerden. Gebruik deze mogelijkheid om het maximale voordeel van uw RTP-account te behalen.
 
@@ -29,7 +29,7 @@ Met de integratie RTP - AA, hebt u een nieuwe dimensie binnen uw interface van d
 1. Aangepaste RTP-segmenten
 1. Lijsten met benoemde accounts (Account-Based Marketing)
 
-Hierdoor worden uw B2B-gegevens verbeterd en kunt u zich richten op relevante bezoekers door het optimaliseren van:
+Hierdoor worden uw B2B-gegevens verbeterd en kunt u zich richten op relevante bezoekers door:
 
 1. Uitgaande kanalen
 1. Inhoud
@@ -51,8 +51,8 @@ De campagnebeelden van RTP van de mening en omzettingen onder de Verbindingen va
 
 Dit rapport van de Verbinding van Douane zal beelden en omzettingen van campagnes onder het volgende noemende formaat tonen:
 
-* Impressie ISegment: [RTP-segmentnaam], ICampaign: [Naam RTP-campagne]
-* Conversie ISegment: [RTP-segmentnaam], ICampaign: [Naam RTP-campagne]
+* De druk ISegment: [ Naam van het Segment RTP ], ICampaign: [ Naam van de Campagne RTP ]
+* Conversie ISegment: {de Naam van het Segment van 0} RTP [, ICampaign: ] Naam van de Campagne RTP []
 
 ![](assets/custom-links-report.png)
 
@@ -62,10 +62,10 @@ De integratie maakt gebruik van de JavaScript API die Adobe Analytics biedt. Aan
 
 Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
-1. Ga naar **Admin Tools** in uw AA-account.
-1. Selecteer **Rapportsuite** te gebruiken bij de integratie.
-1. Onder **Instellingen bewerken**, ga naar **Conversie** en selecteert u **[Conversievariabelen](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Selecteer [Conversievariabele](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) nummer (aanbevolen):
+1. Ga naar **[!UICONTROL Admin Tools]** in uw AA-account.
+1. Selecteer de **[!UICONTROL Report Suite]** die moet worden gebruikt bij de integratie.
+1. Ga onder **[!UICONTROL Edit Settings]** naar **[!UICONTROL Conversion]** en selecteer **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
+   Selecteer het [ Variabele van de Omzetting ](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
 
    1. Evar # 20 for Industry Custom Conversions
    1. Evar # 21 for Organization Custom Conversions
@@ -74,13 +74,13 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
    >
    >Als deze # worden genomen, selecteer een ander beschikbaar aantal. Lijn dit aantal met het groefaantal in de Montages van de Rekening RTP uit.
 
-   1. Status wijzigen in _Ingeschakeld_.
+   1. Status wijzigen in _[!UICONTROL Enabled_].
 
-      1. Naam wijzigen in **Industrie** en **Organisatie**. (Zo wordt dit weergegeven in de rapportsuite.)
+      1. De Naam van de verandering in **Industrie** en **Organisatie**. (Zo wordt dit weergegeven in de rapportsuite.)
 
-      1. Het veld Verlopen na wijzigen in **Bezoek**.
+      1. Wijzig het veld Verlopen na in **[!UICONTROL Visit]** .
 
-1. Onder **Instellingen bewerken** ga naar **Conversie** en selecteert u **[Gebeurtenissen geslaagd](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Onder **[!UICONTROL Edit Settings]** ga naar **[!UICONTROL Conversion]** en selecteer **[[!UICONTROL Success Events]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Selecteer het gebeurtenisnummer Aangepaste succesgebeurtenissen (aanbevolen):
 
@@ -91,18 +91,18 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
       >
       >Als deze # worden genomen, selecteer een ander beschikbaar aantal. Lijn dit aantal met het groefaantal in de Montages van de Rekening RTP uit.
 
-      1. Wijzig de namen van de twee gebeurtenissen in **RTP-campagnes** en **RTP-segmenten**. Dit is de naam die wordt weergegeven in de rapportsuite.
+      1. Verander de twee gebeurtenisnamen in **Campagnes RTP** en **Segmenten RTP**. Dit is de naam die wordt weergegeven in de rapportsuite.
 
-   1. Selecteer het veld Type dat u wilt gebruiken **Teller (geen subrelaties)**
+   1. Selecteer het gebied van het Type om **Teller (geen subrelations) te zijn**
 
-1. Onder **Instellingen bewerken** ga naar **[Verkeer](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** en selecteert u **[Verkeersvariabelen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Onder **[!UICONTROL Edit Settings]** ga naar **[Verkeer ](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** en selecteer **[Variabelen van het Verkeer ](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecteer het bezit van de Variabele van het Verkeer # (wij adviseren):
 
       1. Eigenschap nr. 20 - Naam: RTP Segment Organisation
       1. Eigendomsnummer 21 - Naam: RTP Segment Industry
-      1. Eigendomsnummer 25 - Naam: Campagneorganisatie
-      1. Eigendomsnummer 26 - Naam: RTP-campagne
+      1. Eigenschap nr. 25 - Naam: Campagne-organisatie
+      1. Eigendomsnummer 26 - Naam: RTP Campagne Industry
 
       >[!NOTE]
       >
@@ -110,21 +110,21 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
       1. Wijzig de 4 eigenschapnamen. Dit is de naam die wordt weergegeven in de rapportsuite.
 
-   1. Veld Ingeschakeld selecteren voor **Ingeschakeld**.
+   1. Selecteer [!UICONTROL Enabled] veld naar **[!UICONTROL Enabled]** .
 
-   1. Veld Padrapporten selecteren voor **Ingeschakeld**.
+   1. Selecteer [!UICONTROL Path Reports] veld naar **[!UICONTROL Enabled]** .
 
-## Opstelling in Echte Marketo - tijd Personalisatie (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
+## Instellen in [!DNL Marketo Real-Time Personalization] (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. Ga in het platform RTP naar **Accountinstellingen**.
+1. Ga in het RTP-platform naar **[!UICONTROL Account Settings]** .
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Onder **Accountinstellingen**, klikt u op **Domein**.
-1. Onder **Analytics, klik** **Adobe Analytics**.
-1. Draaien **Aan** de de veranderlijke knevels van de Omzetting, van de Douane en van het Verkeer.
-1. De variabelen Conversie, Gebeurtenis en Verkeer toewijzen **slotnummers** om de groefaantallen aan te passen die in AA worden gecreeerd
-1. Klikken **Opslaan**.
+1. Klik onder **[!UICONTROL Account Settings]** op **[!UICONTROL Domain]** .
+1. Onder **[!UICONTROL Analytics]**, klik **Adobe Analytics**.
+1. Draai **[!UICONTROL On]** de wisselaars van de variabelen Conversion, Custom en Traffic.
+1. Wijs de Conversie, de Variabelen van de Gebeurtenis en van het Verkeer **groefaantallen** toe om de groefaantallen aan te passen die in AA worden gecreeerd
+1. Klik op **[!UICONTROL Save]**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -132,24 +132,24 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 >
 >Onze aanbevolen sleufinstellingen zijn
 >
->**Conversievariabelen**
+>**Variabelen van de Omzetting**
 >
->* Aangepaste industriële conversies - sleuf 20
->* Aangepaste conversies van organisatie - sleuf 21
+>* [!UICONTROL Industry Custom Conversions] - Slot 20
+>* [!UICONTROL Organization Custom Conversions] - Slot 21
 >
->**Aangepaste gebeurtenissen**
+>**Gebeurtenissen van de Douane**
 >
->* Aangepaste gebeurtenis campagne - sleuf 20
->* Aangepaste gebeurtenis segment - sleuf 21
+>* [!UICONTROL Campaign Custom Event] - Slot 20
+>* [!UICONTROL Segment Custom Event] - Slot 21
 >
->**Verkeersvariabelen**
+>**Variabelen van het Verkeer**
 >
->* Segment Organisation Traffic Variable - Slot 20
->* Segment Industry Traffic Variable - Slot 21
->* Verkeersvariabele Campagneorganisatie - Slot 22
->* Campagne Industrie Verkeersvariabele - Slot 23
+>* [!UICONTROL Segment Organization Traffic Variable] - Slot 20
+>* [!UICONTROL Segment Industry Traffic Variable] - Slot 21
+>* [!UICONTROL Campaign Organization Traffic Variable] - Slot 22
+>* [!UICONTROL Campaign Industry Traffic Variable] - Slot 23
 >
->**Zorg ervoor dat deze groefaantallen zich op de variabelen en de gebeurtenisaantallen richten die in aa worden gecreeerd.**
+>**zorg ervoor dat deze groefaantallen met de variabelen en de gebeurtenisaantallen richten die in A worden gecreeerd.**
 
 ## Rapporten {#reports}
 
@@ -162,61 +162,61 @@ Voorbeelden van aangepaste rapporten en dashboards in AA zijn:
 * Per organisatie bekeken pagina&#39;s
 * Prestaties van marketingkanalen volgens organisatie, industrie, segmenten
 
-**-Voorbeelden rapporteren-**
+**-Report Examples-**
 
-**Top Industries Report**
+**Belangrijkste Rapport van de Industrieën**
 
 ![](assets/top-industries-report.png)
 
-**Organisatierapport**
+**Rapport van Organisaties**
 
 ![](assets/image2014-11-29-12-3a29-3a42.png)
 
-**Het RTP-dashboard maken**
+**Creërend het Dashboard RTP**
 
-Een [nieuw dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), aangeroepen **RTP-dashboard**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
+Creeer a [ nieuw dashboard ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **Dashboard RTP**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
 
-1. Klikken **dashboard,** klikken **Dashboard toevoegen**.
+1. Klik op **[!UICONTROL Dashboard]** click **[!UICONTROL Add Dashboard]** .
 
-1. Geef het dashboard een naam **RTP-dashboard**.
+1. Noem het Dashboard **RTP Dashboard**.
 
-1. Selecteer **dashboardgrootte** 3 x 2, 2 x 2.
+1. Selecteer de **dashboardgrootte** 3 x 2, 2 x 2.
 
-1. Maak de [verslag](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en toevoegen [inhoud naar het dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard).
+1. Creeer [ rapportlet ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [ inhoud aan het dashboard ](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) toe.
 
 Het rapport Industrieën toevoegen aan het dashboard
 
-1. Ga naar **Aangepaste conversies**, klikt u op **Industrie**.
+1. Ga naar **[!UICONTROL Custom Conversions]** en klik op **[!UICONTROL Industry]** .
 
-1. Grafiek configureren naar **Cirkeldiagram**.
+1. Vorm Grafiek aan **Schijfgrafiek**.
 
-1. Klikken op **Dashboard**, toevoegen **TeRapporteren**.
+1. Klik op **[!UICONTROL Dashboard]** en voeg **[!UICONTROL Reportlet]** toe.
 
-1. Geef een naam op voor het rapport **Belangrijkste industrieën**.
+1. Noem het rapport **Belangrijkste Industrieën**.
 
-1. Plaatsen in dashboard **RTP-dashboard**.
+1. Plaats in Dashboard **RTP Dashboard**.
 
-1. Maken **Nieuw**.
+1. Creeer **Nieuw**.
 
 De Segmentrapporten toevoegen aan het dashboard
 
-1. Ga naar **Sitegegevens**. Klikken op **Aangepaste gebeurtenissen**, **Segmenten**.
+1. Ga naar **[!UICONTROL Site Metrics]** . Klik op **[!UICONTROL Custom Events]** , **[!UICONTROL Segments]** .
 
-1. Grafiek configureren naar **Verticale balk**.
+1. Vorm Grafiek aan **Verticale Bar**.
 
-1. Klikken op **Dashboard**, toevoegen **TeRapporteren**.
+1. Klik op **[!UICONTROL Dashboard]** en voeg **[!UICONTROL Reportlet]** toe.
 
-1. Geef een naam op voor het rapport **Bovenste segmenten**.
+1. Noem het rapport **Belangrijkste Segmenten**.
 
-1. Plaatsen in dashboard **RTP-dashboard**.
+1. Plaats in Dashboard **RTP Dashboard**.
 
-1. Maken **Nieuw**.
+1. Creeer **Nieuw**.
 
 Uw rapporten worden weergegeven op het dashboard.
 
 ## Afbeeldingen en klikken (conversies) weergeven in Adobe Analytics {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. Klikken **Aangepaste koppelingen**.
+1. Klik op **[!UICONTROL Custom]Koppelingen** .
 
    ![](assets/sitecatalyst1-1.png)
 

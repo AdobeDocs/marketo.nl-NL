@@ -4,9 +4,9 @@ description: Een voorbeeld voor pushmeldingen verzenden - Marketo Docs - Product
 title: Een voorbeeld voor pushberichten verzenden
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ U kunt een voorbeeld verzenden om te controleren of uw pushmelding correct werkt
 
 1. U kunt een voorbeeld op drie manieren verzenden:
 
-   Klik in de structuur links met de rechtermuisknop op het pushmeldingselement en klik op **Voorbeeld verzenden**.
+   Klik in de structuur aan de linkerkant met de rechtermuisknop op het pushmeldingselement en klik op **[!UICONTROL Send Sample]** .
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   Of klik in het menu Acties voor pushmeldingen op **Voorbeeld verzenden**.
+   Of klik in het menu Acties voor pushmeldingen op **[!UICONTROL Send Sample]** .
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   Of klik in de Editor voor pushmeldingen op **Voorbeeld verzenden**.
+   Of klik in de Editor voor pushmeldingen op **[!UICONTROL Send Sample]** .
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,23 +37,23 @@ U kunt een voorbeeld verzenden om te controleren of uw pushmelding correct werkt
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Of klik op **Apparaat toevoegen** tot [een nieuw testapparaat toevoegen](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) om het voorbeeld te verzenden naar.
+   Of, klik **[!UICONTROL Add Device]** aan [ voeg een nieuw testapparaat ](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) toe om de steekproef naar te verzenden.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. U kunt op twee manieren verbinding maken met uw apparaat met de app.
 
-   Klik met de eerste optie op de knop **URL bezoeken met apparaat** , kopieert u de URL van het veld en verzendt u deze in een e-mail- of tekstbericht naar het apparaat. Tik op de URL vanaf het apparaat. Wanneer de status de verbinding weergeeft, klikt u op **Verzenden**.
+   Klik met de eerste optie op de knop **[!UICONTROL Visit URL with device]** , kopieer de URL van het veld en verzend deze in een e-mail- of tekstbericht naar het apparaat. Tik op de URL vanaf het apparaat. Klik op **[!UICONTROL Send]** wanneer de status de verbinding weergeeft.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Of klik bij de tweede optie op de knop **QR-code scannen met apparaat** en scan de QR-code met uw apparaat. Wanneer de status de verbinding weergeeft, klikt u op **Verzenden**.
+   Of klik bij de tweede optie op de knop **[!UICONTROL Scan QR code with device]** en scan de QR-code met het apparaat. Klik op **[!UICONTROL Send]** wanneer de status de verbinding weergeeft.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Nadat u een testapparaat hebt toegevoegd, wordt het niet weergegeven in het dialoogvenster **Verzenden naar** veld? Controleer deze om problemen op te lossen:
+   >Hebt u een testapparaat toegevoegd, maar wordt het niet weergegeven in het veld **[!UICONTROL Send to]** ? Controleer deze om problemen op te lossen:
    >
    >* Pushmeldingen worden ingeschakeld voor de toepassing die aan de pushmelding is gekoppeld.
    >

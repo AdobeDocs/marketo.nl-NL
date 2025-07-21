@@ -3,9 +3,9 @@ description: Triggers en filters voor verkoopactiviteiten - Marketo-documenten -
 title: Triggers en filters voor verkoopactiviteiten
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Volg de onderstaande stappen om te leren hoe u verkoopactiviteitfilters en -trig
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. In de **Slimme lijst** , zoekt u &quot;Sales Apps&quot;.
+1. Zoek op het tabblad **[!UICONTROL Smart List]** naar &quot;[!UICONTROL Sales Apps]&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Volg de onderstaande stappen om te leren hoe u verkoopactiviteitfilters en -trig
 
 >[!NOTE]
 >
->Voor een volledige lijst met activiteiten, beperkingen en definities raadpleegt u onze [Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [[!DNL Sales Insight Actions]  Verklarende woordenlijst van de Activiteit ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

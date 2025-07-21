@@ -1,36 +1,36 @@
 ---
 unique-page-id: 11382593
-description: Het plaatsen van de Persoonlijkheid van het Web om niet te volgen - de Documenten van Marketo - de Documentatie van het Product
-title: Aanpassing van webpagina's niet bijhouden instellen
+description: Web Personalization instellen op Niet bijhouden - Marketo Docs - Productdocumentatie
+title: Web Personalization instellen op Niet bijhouden
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Aanpassing van webpagina&#39;s niet bijhouden instellen {#setting-web-personalization-to-do-not-track}
+# [!UICONTROL Web Personalization] instellen op Niet bijhouden {#setting-web-personalization-to-do-not-track}
 
 Webbezoekers kunnen hun browser zo instellen dat websites niet kunnen bijhouden door &#39;Niet bijhouden&#39; (DNT) te kiezen. Zo voorkomt u dat bepaalde browser en apparaten worden bijgehouden.
 
-In de Personalisatie van het Web en de Voorspelende Inhoud, kan een telleraar een knevel plaatsen om erop te wijzen of om browser te steunen of te negeren niet het Spoor (DNT) plaatsen. De schakeloptie voor accounts is standaard uitgeschakeld. Dit betekent dat de DNT niet door de toepassing wordt uitgevoerd.
+In [!UICONTROL Web Personalization] en [!UICONTROL Predictive Content] kan een markeerteken een schakeloptie instellen om aan te geven of de DNT-instelling (Do Not Track) van de browser moet worden ondersteund of genegeerd. De schakeloptie voor accounts is standaard uitgeschakeld. Dit betekent dat de DNT niet door de toepassing wordt uitgevoerd.
 
 ## In- of uitschakelen {#enable-or-disable-the-toggle}
 
-1. Ga naar **Accountinstellingen**.
+1. Ga naar **[!UICONTROL Account Settings]** .
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Selecteer in Domein- en Domeinconfiguratie de optie **Aan** om de Honor DNT-schakeloptie in te schakelen.
+1. Selecteer [!UICONTROL Domain] in [!UICONTROL Domain Configuration] en **[!UICONTROL On]** om de [!UICONTROL Honor DNT] -schakeloptie in te schakelen.
 
    ![](assets/two-1.png)
 
-   Als de schakeloptie is ingesteld op Aan, respecteert en ondersteunt de webpersonalisatie de instelling Do Not Track (DNT) van de browser en worden webactiviteiten niet bijgehouden en worden er geen campagnes of aanbevelingen voor inhoud op uw website uitgevoerd.
+   Wanneer de schakeloptie is ingesteld op [!UICONTROL On] , zal Web Personalization de instelling Do Not Track (DNT) van de browser respecteren en ondersteunen, en geen webactiviteiten volgen of campagnes of aanbevelingen voor inhoud op uw website uitvoeren.
 
    >[!NOTE]
    >
-   >Als u de schakeloptie instelt op Aan, kan dit van invloed zijn op de waarde en functionaliteit van Marketo in specifieke gebieden.
+   >Als u de schakeloptie instelt op [!UICONTROL On] , kan dit invloed hebben op de waarde en functionaliteit van Marketo in specifieke gebieden.
 
-1. Selecteer de optie Do No Track (DNT) van de browser om de DNT-schakeloptie van het Honor uit te schakelen en deze instelling te negeren **Uit** onder Honor DNT.
+1. Selecteer [!UICONTROL Honor DNT] onder **[!UICONTROL Off]** om de schakeloptie [!UICONTROL Honor DNT] uit te schakelen en de instelling DNT (Do No Track) van de browser te negeren.

@@ -4,10 +4,10 @@ description: E-mailverbinding voor Gmail-gebruikers - Marketo-documenten - Produ
 title: E-mailverbinding voor Gmail-gebruikers
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 1%
 
 ---
 
@@ -17,41 +17,41 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
 >[!CAUTION]
 >
->Als je [gebruiken, filters](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} of regels in uw Gmail-account om e-mails automatisch te markeren als gelezen, kan dit problemen veroorzaken met het bijhouden van antwoorden. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
+>Als u [ filters ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} of regels in uw rekening van Gmail gebruikt om e-mail automatisch te merken zoals gelezen, kan dit kwesties met antwoord het volgen veroorzaken. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
 
-1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik in [!DNL Sales Connect] op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer onder Mijn account de optie **[!UICONTROL Email Settings]** .
 
    ![](assets/two.png)
 
-1. Klik op de knop **E-mailverbinding** tab.
+1. Klik op de tab **[!UICONTROL Email Connection]** .
 
    ![](assets/three.png)
 
-1. Klikken **Aan de slag**.
+1. Klik op **[!UICONTROL Get Started]**.
 
    ![](assets/four.png)
 
-1. Selecteren **Ik gebruik Gmail om e-mails te verzenden** en klik op **Volgende**.
+1. Selecteer **[!UICONTROL I use Gmail to send emails]** en klik op **[!UICONTROL Next]** .
 
    ![](assets/five.png)
 
-1. Klikken **OK**.
+1. Klik op **[!UICONTROL OK]**.
 
    ![](assets/six.png)
 
-1. Als u zich al hebt aangemeld bij Gmail, kiest u de account waarmee u verbinding wilt maken. Als dat niet het geval is, voert u uw Gmail-adres in en klikt u op **Volgende**. In dit voorbeeld zijn we nog niet aangemeld.
+1. Als u zich al hebt aangemeld bij Gmail, kiest u de account waarmee u verbinding wilt maken. Als dat niet het geval is, voert u uw Gmail-adres in en klikt u op **[!UICONTROL Next]** . In dit voorbeeld zijn we nog niet aangemeld.
 
    ![](assets/seven.png)
 
-1. Voer uw wachtwoord in en klik op **Volgende**.
+1. Voer uw wachtwoord in en klik op **[!UICONTROL Next]** .
 
    ![](assets/eight.png)
 
-1. Klikken **Toestaan**.
+1. Klik op **[!UICONTROL Allow]**.
 
    ![](assets/nine.png)
 
@@ -59,4 +59,4 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
 >[!NOTE]
 >
->Gmail dwingt zijn eigen verzendingsgrenzen af. [Meer informatie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+>Gmail dwingt zijn eigen verzendingsgrenzen af. [ leer hier meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

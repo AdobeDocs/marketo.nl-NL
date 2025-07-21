@@ -4,9 +4,9 @@ description: Bijgehouden koppelingen toevoegen aan een tekste-mail - Marketo Doc
 title: Bijgehouden koppelingen toevoegen aan een tekste-mail
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ E-mailkoppelingen naar tekst kunnen worden bijgehouden in Marketo. Laten we eens
 
 1. Selecteer uw e-mail en klik **uitgeven Ontwerp**.
 
-![](assets/one-9.png)
+1. Selecteer uw e-mail en klik op **[!UICONTROL Edit Draft]** .
+
+   ![](assets/one-9.png)
 
 1. Dubbelklik op het bewerkbare gebied waaraan u de koppeling wilt toevoegen.
 

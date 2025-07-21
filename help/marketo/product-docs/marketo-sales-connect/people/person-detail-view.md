@@ -4,9 +4,9 @@ description: Persoonsgegevens weergeven - Marketo-documenten - Productdocumentat
 title: Persoonsgegevens weergeven
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De de detailmening van de persoon verstrekt een gedetailleerd profiel van elke p
 
 ## Toegang verkrijgen {#how-to-access}
 
-1. Klik op de knop **Mensen** tab.
+1. Klik op de tab **[!UICONTROL People]** om de weergave met persoonsdetails te openen.
 
    ![](assets/person-detail-view-1.png)
 
@@ -35,7 +35,7 @@ Bevat alle contactgegevens van de persoon.
 
 ![](assets/person-detail-view-3.png)
 
-**Contactkaart**
+**Kaart van het Contact**
 
 * Bevat contactgegevens zoals: e-mailadres, naam, bedrijf, titel, telefoonnummer en koppelingen naar sociale media
 
@@ -43,16 +43,16 @@ Bevat alle contactgegevens van de persoon.
 
 * Hiermee wordt weergegeven en beheerd welke groepen deze persoon lid is van
 
-**Accountinformatie**
+**de Informatie van de Rekening**
 
-* Kan iemand toevoegen aan Salesforce
-* Account en informatie over lood en contact van Salesforce opvragen
+* Kan een persoon toevoegen aan [!DNL Salesforce]
+* Account en informatie over lead/contact ophalen vanuit [!DNL Salesforce]
 
-**Aangepaste velden**
+**de Gebieden van de Douane**
 
 * Aangepaste velden toevoegen of verwijderen die kunnen worden gebruikt als dynamische velden in uw sjablonen en campagnes
 
-**Notities**
+**Nota&#39;s**
 
 * Aangepaste notities maken
 
@@ -62,33 +62,33 @@ Zie hoe deze persoon werkt met je outreach.
 
 ![](assets/person-detail-view-4.png)
 
-**Verkoop Connect-activiteit**
+**Verkoop verbindt Activiteit**
 
 * Bekijk de betrokkenheidsactiviteiten van uw e-mails en campagnes voor verkoop
 
-**Marketing**
+**de Marketing Activiteit**
 
 * Kijk hoe je persoon marketingcampagnes voert
 
 ## Tabblad Historie {#history-tab}
 
-Toont uw outreach-geschiedenis. Bevat e-mails, campagnes en oproepen.
+Geeft je outreachegeschiedenis weer. Bevat e-mails, campagnes en oproepen.
 
 ![](assets/person-detail-view-5.png)
 
-**Verkoopcampagnes**
+**[!UICONTROL Sales Campaigns]**
 
 * Bekijk actieve of voltooide campagnes waartoe deze persoon behoort
 
-**Marketingcampagnes**
+**[!UICONTROL Marketing Campaigns]**
 
 * Zie alle marketingcampagnes waarbij deze persoon lid is van
 
-**Verkoop-e-mails**
+**[!UICONTROL Sales Emails]**
 
 * Bekijk alle e-mails die u deze persoon hebt verzonden en de gegevens over de betrokkenheid
 
-**Verkoopgesprekken**
+**[!UICONTROL Sales Calls]**
 
 * Zie om het even welke vraag u aan deze persoon hebt gemaakt
 

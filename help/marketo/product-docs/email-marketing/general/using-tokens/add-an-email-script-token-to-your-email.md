@@ -4,9 +4,9 @@ description: Een e-mailscripttoken toevoegen aan uw e-mail - Marketo Docs - Prod
 title: Een e-mailscripttoken toevoegen aan uw e-mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Nadat u [ uw e-mailmanuscript ](/help/marketo/product-docs/email-marketing/gener
 >
 >De totale grootte van alle scripttokens die in één e-mail worden ingevoegd, mag niet groter zijn dan 100 kB.
 
-1. Ga naar het **Op de markt brengende Activiteiten** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/one-2.png)
 
-1. Vind en selecteer e-mail u het teken aan wilt toevoegen en **klikken geef Ontwerp** uit.
+1. Zoek en selecteer de e-mail waaraan u het token wilt toevoegen en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ Nadat u [ uw e-mailmanuscript ](/help/marketo/product-docs/email-marketing/gener
 
    ![](assets/four-2.png)
 
-1. Zoek en selecteer het e-mailmanuscriptteken u eerder creeerde en klik **Tussenvoegsel**.
+1. Zoek en selecteer de e-mailscripttoken die u eerder hebt gemaakt en klik op **[!UICONTROL Insert]** .
 
    ![](assets/five-1.png)
 

@@ -3,9 +3,9 @@ description: Campagnelijst weergeven als een andere gebruiker - Marketo Docs - P
 title: Lijst met campagnes weergeven als een andere gebruiker
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Als beheerder kunt u campagnes weergeven als elke gebruiker.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Klik in de webtoepassing op **Campagnes**.
+1. Klik in de webtoepassing op **[!UICONTROL Campaigns]** .
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. Klik op de knop **Weergeven als** en selecteer de gewenste gebruiker.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL View As]** en selecteer de gewenste gebruiker.
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 
@@ -32,4 +32,4 @@ Als beheerder kunt u campagnes weergeven als elke gebruiker.
 
    >[!NOTE]
    >
-   >U kunt filters of de onderzoeksfunctie samen met Mening ook gebruiken om te bekijken wat voor u het meest relevant is.
+   >U kunt ook filters of de zoekfunctie gebruiken in combinatie met [!UICONTROL View As] om te zien wat voor u het meest relevant is.

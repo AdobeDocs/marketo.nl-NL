@@ -4,9 +4,9 @@ description: Leden toevoegen aan een gebeurtenisprogramma - Marketo Docs - Produ
 title: Leden toevoegen aan een gebeurtenisprogramma
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Dit artikel is alleen van toepassing op gebruikers die gebruikmaken van Gebeurte
 >
 >Als u een lijst met personen rechtstreeks in een gebeurtenisprogramma importeert, worden deze records niet meegeteld in werkelijke registraties in het rapport Goal Tracking en in het rapport Event Cap Progression. Volg de onderstaande instructies om ervoor te zorgen dat uw administratie wordt geteld.
 
-1. Maken en [personen toevoegen aan een statische lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Creeer en [ voeg mensen aan een statische lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md) toe.
 
-1. [Een slimme campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [ creeer een slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. In de Slimme Lijst van de Slimme Campagne u in Stap Twee creeerde, vind en voeg toe **Lid van de lijst** filter.
+1. Zoek in de slimme lijst van de slimme campagne die u in Stap twee hebt gemaakt het filter **[!UICONTROL Member of List]** en voeg dit toe.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Dit artikel is alleen van toepassing op gebruikers die gebruikmaken van Gebeurte
 
    ![](assets/four.png)
 
-1. Zoek in de stroom de **Programmastatus wijzigen** stap Stroom.
+1. Zoek in de stroom de **[!UICONTROL Change Program Status]** flowstap en voeg deze toe.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Dit artikel is alleen van toepassing op gebruikers die gebruikmaken van Gebeurte
 
    ![](assets/seven.png)
 
-1. Klik op het tabblad Schema op **Eenmaal uitvoeren**.
+1. Klik op het tabblad [!UICONTROL Schedule] op **[!UICONTROL Run Once]** .
 
    ![](assets/eight.png)
 
-1. Selecteren **Nu uitvoeren** en klik op **Uitvoeren**.
+1. Selecteer **[!UICONTROL Run Now]** en klik op **[!UICONTROL Run]** .
 
    ![](assets/nine.png)
 

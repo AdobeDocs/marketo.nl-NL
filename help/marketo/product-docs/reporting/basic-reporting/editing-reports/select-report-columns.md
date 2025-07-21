@@ -4,9 +4,9 @@ description: Rapportkolommen selecteren - Marketo Docs - Productdocumentatie
 title: Rapportkolommen selecteren
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
 
-1. Ga naar de **Analyse** (of **Marketingactiviteiten**).
+1. Ga naar het **[!UICONTROL Analytics]** (of **[!UICONTROL Marketing Activities]** ) gebied.
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,10 +23,10 @@ U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klik op de knop **Rapport** klikt u vervolgens op een kolomkop en selecteert u **Kolommen** en kies vervolgens de kolommen die u wilt opnemen.
+1. Klik op het tabblad **[!UICONTROL Report]** , klik op een kolomkop en selecteer **[!UICONTROL Columns]** en kies de kolommen die u wilt opnemen.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
    >[!MORELIKETHIS]
    >
-   >[Rapport sorteren op kolommen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[ Rapport van de Soort op Kolommen ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

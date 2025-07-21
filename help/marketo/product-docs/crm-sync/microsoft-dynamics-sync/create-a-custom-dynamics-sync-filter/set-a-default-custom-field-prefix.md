@@ -4,22 +4,22 @@ description: Een standaardvoorvoegsel voor een aangepast veld instellen - Market
 title: Een standaardvoorvoegsel voor een aangepast veld instellen
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 3%
 
 ---
 
 # Een standaardvoorvoegsel voor een aangepast veld instellen {#set-a-default-custom-field-prefix}
 
-Het standaardvoorvoegsel voor Microsoft Dynamics voor aangepaste velden moet zijn ingesteld op _new_ in Marketo-velden correct te synchroniseren. Hier is hoe te om het standaardvoorvoegsel te veranderen.
+Uw standaard [!DNL Microsoft Dynamics] prefix voor douanevelden moet **nieuw** zijn opdat de merkgebonden gebieden van Marketo correct synchroniseren. Hier is hoe te om het standaardvoorvoegsel te veranderen.
 
-1. Ga naar Instellingen en selecteer **Aanpassingen**.
+1. Ga naar [!UICONTROL Settings] en selecteer **[!UICONTROL Customizations].**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Klikken **Uitgevers**.
+1. Klik op **[!UICONTROL Publishers]**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -27,15 +27,15 @@ Het standaardvoorvoegsel voor Microsoft Dynamics voor aangepaste velden moet zij
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Het voorvoegsel wijzigen in **new**. Klikken **Opslaan en sluiten**.
+1. Verander de prefix in **nieuw**. Klik op **[!UICONTROL Save and Close]**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
-1. Ga naar Instellingen > Oplossingen om de aanpassingen te publiceren.
+1. Ga naar [!UICONTROL Settings] > [!UICONTROL Solutions] om de aanpassingen te publiceren.
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Klikken **Alle aanpassingen publiceren**.
+1. Klik op **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

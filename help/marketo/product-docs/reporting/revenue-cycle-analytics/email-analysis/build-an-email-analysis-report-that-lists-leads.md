@@ -4,9 +4,9 @@ description: Een e-mailanalyserapport maken met leads - Marketo Docs - Productdo
 title: Een e-mailanalyserapport maken waarin de leads worden vermeld
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -17,33 +17,33 @@ Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke le
 
 >[!AVAILABILITY]
 >
->Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
+>Niet iedereen heeft deze functie aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >
 >De gegevensengine die de RCA voor e-mailanalyse ondersteunt, negeert meer dan 12 klikken per persoon als deze afkomstig zijn van dezelfde e-mail en campagne. Hiermee houdt u rekening wanneer u e-mailanalyserapporten vergelijkt met standaard Marketo Analytics-rapporten.
 
-1. Starten **Ontdekkingsreiziger voor inkomsten**.
+1. Start **[!UICONTROL Revenue Explorer]** .
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Klikken **Nieuw maken** dan **Rapport**.
+1. Klik op **[!UICONTROL Create New]** en vervolgens op **[!UICONTROL Report]** .
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Selecteer E-mailanalyse en klik op **OK**.
+1. Selecteer **[!UICONTROL Email Analysis]** en klik op **[!UICONTROL OK]** .
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. De gele punt voor e-mailnamen zoeken, er met de rechtermuisknop op klikken en selecteren **Filter**.
+1. Zoek de **[!UICONTROL Email Name]** gele stip, klik er met de rechtermuisknop op en selecteer **[!UICONTROL Filter...]** .
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Dubbelklik op het e-mailadres van uw keuze in de lijst en klik op **OK**.
+1. Dubbelklik op het e-mailadres van uw keuze in de lijst en klik op **[!UICONTROL OK]** .
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Sleep de **E-mailnaam** gele stip op **Kolommen**.
+1. Sleep de **[!UICONTROL Email Name]** gele stip naar **[!UICONTROL Columns]** .
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke le
    >
    >Er zijn vele lood/bedrijfattributen die u als kolommen kunt toevoegen, controleer hen uit!
 
-1. Zoek de **Volledige naam** gele stip en sleep deze naar **Rijen**.
+1. Zoek de **[!UICONTROL Full Name]** gele stip en sleep deze naar **[!UICONTROL Rows]** .
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Voeg nu de **Maatregelen** u bent geïnteresseerd door erop te dubbelklikken.
+1. Voeg nu de **[!UICONTROL Measures]** toe waarin u geïnteresseerd bent door erop te dubbelklikken.
 
    ![](assets/report-that-lists-leads-8.png)
 

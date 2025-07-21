@@ -4,9 +4,9 @@ description: Heatrasters aanpassen en weergeven - Marketo-documenten - Productdo
 title: Heatrasters aanpassen en weergeven
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Een warmteraster geeft uw gegevens visueel weer in een gekleurd raster, zodat u goede en slechte patronen gemakkelijker en sneller kunt herkennen.
 
-1. Klik in uw rapport op het diagrampictogram en klik vervolgens op **Warmteraster**.
+1. Klik in uw rapport op het diagrampictogram en vervolgens op **[!UICONTROL Heat Grid]** .
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Als u wijzigingen wilt aanbrengen in uw **Warmteraster**, ga naar de **Eigenschappen** gebied.
+1. Ga naar het **[!UICONTROL Heat Grid]** -gebied als u wijzigingen wilt aanbrengen in uw **[!UICONTROL Properties]** .
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Geweldig! U hebt nu uw **Warmteraster**!
+   Geweldig! U hebt nu uw **[!UICONTROL Heat Grid]**!

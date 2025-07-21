@@ -4,35 +4,35 @@ description: Persoon synchroniseren naar SFDC - Marketo Docs - Productdocumentat
 title: Persoon synchroniseren naar SFDC
 exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Persoon synchroniseren naar SFDC {#sync-person-to-sfdc}
 
-Deze stroomstap zal Marketo-gecreeerde mensen als lood in uw Salesforce CRM opnemen.
+Met deze stroomstap worden door Marketo gemaakte mensen als leads ingevoegd in uw Salesforce CRM.
 
 >[!NOTE]
 >
->Alleen beschikbaar bij integratie met Salesforce.
+>Alleen beschikbaar bij integratie met [!DNL Salesforce] .
 
-1. Door gebrek, zal deze die stroomstap aan loodeigenaars toewijzen op de Salesforce auto-toewijzingsregels wordt gebaseerd.
+1. Standaard wordt bij deze stap aan de eigenaars van leads toegewezen op basis van de Salesforce-regels voor automatische toewijzing.
 
    ![](assets/sync-person-to-sfdc-1.png)
 
    >[!TIP]
    >
-   >Voor Salesforce moeten de velden Bedrijf en Achternaam van de persoon zijn ingevuld. Anders wordt de lead record geweigerd.
+   >[!DNL Salesforce] vereist dat de velden Bedrijf en Achternaam van de persoon zijn ingevuld. Anders wordt de lead record geweigerd.
 
-1. U kunt een specifieke gebruiker van Salesforce of een lood rij als lood eigenaar plaatsen.
+1. U kunt een specifieke [!DNL Salesforce] gebruiker- of doorvoerwachtrij instellen als de eigenaar van de lead.
 
    ![](assets/sync-person-to-sfdc-2.png)
 
-   Wanneer u deze flowstap gebruikt, wordt de persoon onmiddellijk gesynchroniseerd als een Salesforce-lead en hoeft deze niet te wachten op de normale synchronisatie.
+   Wanneer u deze flowstap gebruikt, wordt de persoon onmiddellijk gesynchroniseerd als een [!DNL Salesforce] lead en hoeft deze niet te wachten op de normale synchronisatie.
 
    >[!CAUTION]
    >
-   >Salesforce staat niet toe dat &quot;Contacten&quot;worden toegewezen aan loodrijen. In dit geval maakt Marketo een duplicaat van &quot;Lead&quot; in Salesforce.
+   >[!DNL Salesforce] staat niet toe dat &quot;Contacten&quot;worden toegewezen aan loodrijen. In dit geval maakt Marketo een duplicaat van &quot;Lead&quot; in [!DNL Salesforce] .

@@ -4,16 +4,16 @@ description: Een gebeurteniskanaal bewerken - Marketo Docs - Productdocumentatie
 title: Een gebeurteniskanaal bewerken
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 0%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
 # Een gebeurteniskanaal bewerken {#edit-an-event-channel}
 
-U kunt het kanaaltype van de gebeurtenis uitgeven **Samenvatting** of van **Instellen** tab.
+U kunt het kanaaltype van het 0} Summiere **lusje van de gebeurtenis of van zijn** Opstelling **tabel uitgeven.**
 
 >[!NOTE]
 >
@@ -21,47 +21,47 @@ U kunt het kanaaltype van de gebeurtenis uitgeven **Samenvatting** of van **Inst
 
 >[!NOTE]
 >
->Een programma is een specifiek marketinginitiatief. De **kanaal** is bedoeld om het leveringsmechanisme te zijn, zoals Webinar, Tradeshow, of Online Advertentie. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook  [uw eigen kanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>Een programma is een specifiek marketinginitiatief. Het **kanaal** is voorgenomen om het leveringsmechanisme, zoals Webinar, Tradeshow, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [ uw eigen kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) tot stand brengen.
 
-## Van het Summiere Lusje {#from-the-summary-tab}
+## Via het tabblad Overzicht {#from-the-summary-tab}
 
-1. Van **Marketingactiviteiten** selecteert u de gebeurtenis in de boomstructuur.
+1. Selecteer in **[!UICONTROL Marketing Activities]** de gebeurtenis in de boomstructuur.
 
    ![](assets/eventprogramseelct.png)
 
-1. Ga naar de **Samenvatting** weergeven.
+1. Navigeer naar de weergave **[!UICONTROL Summary]** .
 
    ![](assets/eventprogramsummary.png)
 
-1. Onder de **Instellingen** categorie, selecteer de huidige **Kanaal** weergegeven als een hyperlink.
+1. Selecteer onder de categorie **[!UICONTROL Settings]** de huidige **[!UICONTROL Channel]** die als hyperlink wordt weergegeven.
 
    ![](assets/channeltypeevent.png)
 
-1. Selecteer een nieuw kanaal in de vervolgkeuzelijst.
+1. Selecteer een nieuwe **[!UICONTROL Channel]** in de vervolgkeuzelijst.
 
    ![](assets/tradeshowchange.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
-## Van het Lusje van de Opstelling {#from-the-setup-tab}
+## Via het tabblad Setup {#from-the-setup-tab}
 
-Een nieuw kanaaltype kan ook worden toegewezen vanuit de gebeurtenis **Instellen** tab.
+Een nieuw kanaaltype kan ook worden toegewezen vanaf het tabblad **[!UICONTROL Setup]** van de gebeurtenis.
 
 1. Selecteer de gebeurtenis in de boomstructuur.
 
    ![](assets/eventprogramseelct.png)
 
-1. Ga naar de **Instellen** tab. Dubbelklik op de huidige **Kanaal**.
+1. Navigeer naar de tab **[!UICONTROL Setup]** . Dubbelklik het huidige **Kanaal**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Selecteer een nieuwe **Kanaal**.
+1. Selecteer een nieuwe **[!UICONTROL Channel]** .
 
    ![](assets/tradeshowchange.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

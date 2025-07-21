@@ -4,9 +4,9 @@ description: De knop Ontwerpen instellen en het bericht - Marketo Docs - Product
 title: De knop Ontwerpen instellen en het bericht goedkeuren
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De knoop van de Ontkenning heeft vele opties om u het te laten vormen zoals u wi
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
-1. Als u de kleur van de knop wilt wijzigen, klikt u op het vierkantje van de kleurselectie. Selecteer een kleur door erop te klikken of de hexadecimale of RGB-nummers in te voeren in de kleurkiezer. Zwart is de standaardinstelling.
+1. Als u de kleur van de knop wilt wijzigen, klikt u op het vierkantje van de kleurselectie. Selecteer een kleur door erop te klikken of de Hex- of RGB-nummers in te voeren in de kleurkiezer. Zwart is de standaardinstelling.
 
    ![](assets/image2016-5-9-10-3a33-3a17.png)
 
@@ -49,7 +49,7 @@ De knoop van de Ontkenning heeft vele opties om u het te laten vormen zoals u wi
 
 Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslagen. Nu ben je klaar om het werk af te maken.
 
-1. Klik op de knop **Berichthandelingen** vervolgkeuzelijst en selecteer **Voorvertoning**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Message Actions]** en selecteer **[!UICONTROL Preview]** om een voorvertoning van uw bericht in de app weer te geven.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Als u tevreden bent met het bericht in de app, klikt u op **Goedkeuren en sluiten**.
+1. Klik op **[!UICONTROL Approve & Close]** als u tevreden bent met het bericht in de app.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >U kunt ook **Goedkeuren en sluiten** rechtstreeks van de drop-down Acties van het Bericht (zie stap 1), maar waarom niet voorproef het bericht eerst, enkel om veilig te zijn?
+   >U kunt **[!UICONTROL Approve & Close]** ook rechtstreeks selecteren in de vervolgkeuzelijst [!UICONTROL Message Actions] (zie stap 1), maar waarom niet eerst een voorvertoning van het bericht weergeven, alleen om veilig te zijn?
 
 1. Als u de editor wilt sluiten zonder deze goed te keuren, sluit u gewoon het tabblad. Het wordt automatisch opgeslagen, zodat u het later kunt terugkeren en goedkeuren.
 
@@ -71,9 +71,9 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
 Zoveel keuzes, maar nu heb je een geweldige boodschap in de app, klaar om te gaan!
 
-Nu is het tijd om [verzend uw bericht](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Nu is het tijd aan [ uw bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) te verzenden.
 
 >[!MORELIKETHIS]
 >
->* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

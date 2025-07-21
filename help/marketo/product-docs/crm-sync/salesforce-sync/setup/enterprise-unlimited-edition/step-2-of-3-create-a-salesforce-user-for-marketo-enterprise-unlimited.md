@@ -4,24 +4,24 @@ description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterpr
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Stap 2 van 3: Een [!DNL Salesforce] gebruiker voor Marketo maken (Enterprise/Onbeperkt) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
->Deze stappen moeten worden uitgevoerd door een Salesforce-beheerder
+>Deze stappen moeten worden uitgevoerd door een [!DNL Salesforce] beheerder
 
 >[!PREREQUISITES]
 >
->[ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>[ Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en maakt u een Marketo-Salesforce-integratieaccount.
+In dit artikel stelt u gebruikersmachtigingen in in het [!DNL Salesforce] -profiel en maakt u een Marketo- [!DNL Salesforce] -integratieaccount.
 
 ## Een profiel maken {#create-a-profile}
 
@@ -49,10 +49,10 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 1. Controleer of onder de sectie **[!UICONTROL Administrative Permissions]** de volgende vakken zijn ingeschakeld:
 
-   * API ingeschakeld
-   * HTML-sjablonen bewerken
-   * Openbare documenten beheren
-   * Openbare sjablonen beheren
+   * [!UICONTROL API Enabled]
+   * [!UICONTROL Edit HTML Templates]
+   * [!UICONTROL Manage Public Documents]
+   * [!UICONTROL Manage Public Templates]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -60,25 +60,25 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
    >
    >Controleer het vakje **[!UICONTROL Password Never Expires]** .
 
-1. Controleer of onder de sectie Algemene gebruikersmachtigingen de volgende vakken zijn ingeschakeld:
+1. Controleer of onder de sectie [!UICONTROL General User Permissions] de volgende vakken zijn ingeschakeld:
 
-   * Leads omzetten
-   * Gebeurtenissen bewerken
-   * Taken bewerken
+   * [!UICONTROL Convert Leads]
+   * [!UICONTROL Edit Events]
+   * [!UICONTROL Edit Tasks]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Controleer in de sectie Standaardobjectmachtigingen of de machtigingen Lezen, Maken, Bewerken en Verwijderen zijn ingeschakeld:
+1. Controleer in de sectie [!UICONTROL Standard Object Permissions] of [!UICONTROL Read, Create, Edit, and Delete] -machtigingen zijn gecontroleerd op:
 
-   * Accounts
-   * Campagnes
-   * Contactpersonen
-   * Leads
-   * Kansen
+   * [!UICONTROL Accounts]
+   * [!UICONTROL Campaigns]
+   * [!UICONTROL Contacts]
+   * [!UICONTROL Leads]
+   * [!UICONTROL Opportunities]
 
    >[!NOTE]
    >
-   >Verleen toestemmingen aan de Campagnes, als u van plan bent te gebruiken de Synchronisatie van de Campagne.
+   >Rechten verlenen aan de [!UICONTROL Campaigns] als u Campagne Sync wilt gebruiken.
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -96,10 +96,10 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 1. Ga naar de sectie **[!UICONTROL Field-Level Security]** in de pagina met profieldetails. Klik op **[!UICONTROL View]** om de toegankelijkheid voor de objecten te bewerken:
 
-   * Lood
-   * Contact
-   * Account
-   * Opportunity
+   * [!UICONTROL Lead]
+   * [!UICONTROL Contact]
+   * [!UICONTROL Account]
+   * [!UICONTROL Opportunity]
 
    >[!TIP]
    >
@@ -111,7 +111,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Zoek de overbodige velden. Controleer of **[!UICONTROL Read Access]** en **[!UICONTROL Edit Access]** zijn uitgeschakeld. Klik op **[!UICONTROL Save]** als u klaar bent.
+1. Zoek de overbodige velden. Controleer of **[!UICONTROL Read Access]** en **[!UICONTROL Edit Access]** zijn uitgeschakeld. Klik op **[!UICONTROL Save]** wanneer u klaar bent.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nadat u alle overbodige velden hebt uitgeschakeld, moet u **[!UICONTROL Read Access and Edit Access]** controleren op de volgende objectvelden. Klik op **[!UICONTROL Save]** als u klaar bent.
+1. Nadat u alle overbodige velden hebt uitgeschakeld, moet u **[!UICONTROL Read Access and Edit Access]** controleren op de volgende objectvelden. Klik op **[!UICONTROL Save]** wanneer u klaar bent.
 
 <table> 
  <tbody> 
@@ -148,9 +148,9 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 >[!TIP]
 >
->Maak een toegewijde Salesforce-account (bijvoorbeeld `marketo@yourcompany.com` ) om onderscheid te maken tussen de wijzigingen die Marketo aanbrengt en andere Salesforce-gebruikers.
+>Maak een toegewijde [!DNL Salesforce] -account (bijvoorbeeld marketo@yourcompany.com) om onderscheid te maken tussen de wijzigingen die door Marketo en andere [!DNL Salesforce] -gebruikers zijn aangebracht.
 
-1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk Nav en klik op **[!UICONTROL Users]** . Klik op **[!UICONTROL New User]**.
+1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk Nav en klik op **[!UICONTROL Users]** . Klik op **[!UICONTROL New User]** .
 
    ![](assets/sfdc-new-users.png)
 
@@ -162,4 +162,4 @@ Stap 2 van 3 is voltooid.
 
 >[!NOTE]
 >
->[ Stap 3 van 3: Verbind Marketo en Salesforce (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}
+>[ Stap 3 van 3: Verbind Marketo en  [!DNL Salesforce]  (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

@@ -4,26 +4,26 @@ description: Workflowregels maken in Salesforce - Marketo Docs - Productdocument
 title: Workflowregels maken in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
 # Workflowregels maken in Salesforce {#creating-workflow-rules-in-salesforce}
 
-Als tegelijkertijd Marketo Sales Insight (MSI) en Marketo Sales Connect (MSC) worden gebruikt, wordt de functie Best Bets voor MSI in Salesforce niet bijgewerkt. Alle andere MSI-functies werken zoals gewoonlijk (interessante momenten in het iFrame weergeven, e-mail verzenden, aan campagnes toevoegen, enz.). Dit artikel biedt een oplossing om Best Bets weer te laten werken.
+Als u tegelijkertijd Marketo Sales Insight (MSI) en Marketo Sales Connect (MSC) gebruikt, wordt de functie MSI Best Bets in [!DNL Salesforce] niet bijgewerkt. Alle andere MSI-functies werken zoals gewoonlijk (interessante momenten in het iFrame weergeven, e-mail verzenden, aan campagnes toevoegen, enz.). Dit artikel biedt een oplossing om Best Bets weer te laten werken.
 
 >[!NOTE]
 >
->Dit is alleen van invloed op klanten die **beide** MSI en MSE, en die de Beste eigenschap van Bets in MSI willen gebruiken. Als u geen Best Bets nodig hebt/gebruikt, kunt u dit negeren.
+>Dit beïnvloedt slechts klanten die **zowel** MSI als MSE gebruiken, en die de Beste eigenschap van Bets in MSI willen gebruiken. Als u geen Best Bets nodig hebt/gebruikt, kunt u dit negeren.
 
 ## Aan de slag {#getting-started}
 
-De oplossing omvat het maken van nieuwe workflowregels om waarden van nieuwe MSE-velden te kopiëren naar de oude MSI-velden. U zult vier werkschemaregels voor het voorwerp van het Contact en de zelfde vier werkschemaregels voor het voorwerp van de Lood in uw eigen instantie moeten creëren Salesforce. Dit kan u vereisen om de Admin van CRM rechten (afhankelijk van uw rol en opstelling in CRM) te hebben.
+De oplossing omvat het maken van nieuwe workflowregels om waarden van nieuwe MSE-velden te kopiëren naar de oude MSI-velden. U moet vier workflowregels maken voor het object Contact en dezelfde vier workflowregels voor het object Lead in uw eigen [!DNL Salesforce] -instantie. Dit kan u vereisen om de Admin van CRM rechten (afhankelijk van uw rol en opstelling in CRM) te hebben.
 
-Hieronder vindt u de aanbevolen namen van de workflowregels en een beschrijving van de workflowregels. Deze zijn van toepassing op het object Contact en lead:
+Hieronder vindt u de aanbevolen namen van de workflowregels en een beschrijving van de workflowregels. Deze zijn van toepassing op het object [!UICONTROL Contact] en [!UICONTROL Lead] :
 
 <table> 
  <colgroup> 
@@ -33,71 +33,71 @@ Hieronder vindt u de aanbevolen namen van de workflowregels en een beschrijving 
  <tbody> 
   <tr> 
    <td>Interessant momebeschrijving bijwerken</td> 
-   <td><p>Kopiëren van: Laatste Marketo Engagement Desc<br>Kopiëren naar: Laatste interessante momentele beschrijving</p></td> 
+   <td><p>Exemplaar van: Laatste het Exemplaar van Marketo van de Aanwezigheid Desc <br> aan: Laatste het Interesten Desc van het Moment</p></td> 
   </tr> 
   <tr> 
    <td>Het veld Interessentype van moment bijwerken</td> 
-   <td><p>Kopiëren van: Laatste Marketo-servicetype<br>Kopiëren naar: Type laatst interessant moment</p></td> 
+   <td><p>Exemplaar van: Het laatste Type van Betrokkenheid van Marketo <br> Exemplaar aan: Het Laatste Interesserende Type van Momentype</p></td> 
   </tr> 
   <tr> 
-   <td>Veld voor interessante momentenbron bijwerken</td> 
-   <td><p>Kopiëren van: Laatste Marketo-betrokkenheidsbron<br>Kopiëren naar: Laatste interessante mompbron</p></td> 
+   <td>Het veld Interessant moment Source bijwerken</td> 
+   <td><p>Exemplaar van: Het laatste Exemplaar van Marketo Betrokkenheid Source <br> aan: Laatste Interessant Moment Source</p></td> 
   </tr> 
   <tr> 
    <td>Veld voor datum van interessant moment bijwerken</td> 
-   <td><p>Kopiëren van: Laatste Marketo-betrokkenheidsdatum<br>Kopiëren naar: Datum laatste interessant moment</p></td> 
+   <td><p>Exemplaar van: Het laatste Exemplaar van de Datum van de Betrokkenheid van Marketo <br> aan: Laatste het Interesten Datum van de Momentane</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instructies {#instructions}
 
-1. Na klikken **Instellen**, zoeken naar **Workflow** en selecteert u **Workflowregels**.
+1. Na het klikken **[!UICONTROL Setup]**, onderzoek naar **Werkschema** en selecteer **[!UICONTROL Workflow Rules]**.
 
    ![](assets/one-1.png)
 
-1. Selecteren **Nieuwe regel**.
+1. Selecteer **[!UICONTROL New Rule]** .
 
    ![](assets/two-1.png)
 
-1. Klik op de vervolgkeuzelijst Object en selecteer **Lood** en klik vervolgens op **Volgende**.
+1. Klik op de vervolgkeuzelijst [!UICONTROL Object] en selecteer **[!UICONTROL Lead]** en klik vervolgens op **[!UICONTROL Next]** .
 
    ![](assets/three-1.png)
 
-1. Voer &quot;Interessent-momentveld bijwerken&quot; in als naam voor de regel. Het keuzerondje selecteren **en telkens wanneer deze wordt bewerkt**. Selecteer in de vervolgkeuzelijst Regelcriteria de optie **formule levert true op**. Zoek naar en selecteer de ISCHANGED functie. Markeer vervolgens de standaardwaarde van het veld en klik op **Veld invoegen**.
+1. Voer &quot;Interessent momentbeschrijving bijwerken&quot; in als de [!UICONTROL Rule Name] . Selecteer het keuzerondje **[!UICONTROL created, and every time it’s edited]** . Selecteer [!UICONTROL Rule Criteria] in de vervolgkeuzelijst **[!UICONTROL formula evaluates to true]** . Zoek naar en selecteer de ISCHANGED functie. Markeer vervolgens de standaardwaarde van het veld en klik op **[!UICONTROL Insert Field]** .
 
    ![](assets/four-1.png)
 
-1. Kies in het pop-upvenster Veld invoegen de optie **Laatste Marketo Engagement Desc** en klik op **Invoegen**.
+1. Kies [!UICONTROL Insert Field] in het pop-upmenu **[!UICONTROL Last Marketo Engagement Desc]** en klik op **[!UICONTROL Insert]** .
 
    ![](assets/five-1.png)
 
-1. Klikken **Opslaan en volgende**.
+1. Klik op **[!UICONTROL Save & Next]**.
 
    ![](assets/6.png)
 
-1. Selecteer in de vervolgkeuzelijst Workflowactie toevoegen de optie **Nieuwe veldupdate**.
+1. Selecteer [!UICONTROL Add Workflow Action] in de vervolgkeuzelijst **[!UICONTROL New Field Update]** .
 
    ![](assets/seven.png)
 
-1. Voer in het veld Naam het veld &quot;Interesten momentbeschrijving bijwerken&quot; in (de unieke naam wordt automatisch gegenereerd). Kies in het veld dat u wilt bijwerken in de vervolgkeuzelijst de optie **Laatste interessante momentele beschrijving**. Selecteer **Een formule gebruiken om een nieuwe waarde in te stellen** keuzerondje, klik vervolgens op **Formule-editor weergeven**.
+1. Voer in het veld [!UICONTROL Name] het veld &quot;Interesten momentbeschrijving bijwerken&quot; in ([!UICONTROL Unique Name] wordt automatisch gegenereerd). Kies [!UICONTROL Field to Update] in de vervolgkeuzelijst **[!UICONTROL Last Interesting Moment Desc]** . Selecteer het keuzerondje **[!UICONTROL Use a formula to set new value]** en klik op **[!UICONTROL Show Formula Editor]** .
 
    ![](assets/eight.png)
 
-1. Klik op de knop **Veld invoegen** knop.
+1. Klik op **[!UICONTROL Insert Field]** .
 
    ![](assets/9a.png)
 
-1. Selecteren **Laatste Marketo Engagement Desc** en klik op **Invoegen**. Klik op de volgende pagina op **Opslaan**.
+1. Selecteer **[!UICONTROL Last Marketo Engagement Desc]** en klik op **[!UICONTROL Insert]** . Klik op de volgende pagina op **[!UICONTROL Save]** .
 
    ![](assets/nine.png)
 
-1. Klikken **Gereed**.
+1. Klik op **[!UICONTROL Done]**.
 
    ![](assets/twelve.png)
 
-1. Klikken **Activeren** om de workflowregel in te schakelen.
+1. Klik op **[!UICONTROL Activate]** om de workflowregel in te schakelen.
 
    ![](assets/thirteen.png)
 
-   Na de laatste stap kunt u de workflowregel klonen voor de andere velden die worden vermeld in de sectie Aan de slag: Desc, Type, Bron, Datum. Nadat u de vier workflowregels in het object Contact hebt voltooid, herhaalt u hetzelfde voor het object Lead.
+   Na de laatste stap kunt u de workflowregel klonen voor de andere velden die in de sectie [!UICONTROL Getting Started] worden vermeld: Desc, Type, Source, Date. Nadat u de vier workflowregels in het [!UICONTROL Contact] -object hebt voltooid, herhaalt u dezelfde regel voor het [!UICONTROL Lead] -object.

@@ -3,9 +3,9 @@ description: Een sjabloon gebruiken in het venster Samenstellen - Marketo Docs -
 title: Een sjabloon gebruiken in het venster Samenstellen
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Sjablonen zoeken en gebruiken {#finding-and-using-templates}
 
-1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
+1. Maak uw e-mailconcept (hiervoor zijn meerdere manieren, in dit voorbeeld kiezen we **[!UICONTROL Compose]** in de koptekst).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Vul het veld Aan.
+1. Vul het veld [!UICONTROL To].
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Selecteer een categorie waarin u wilt zoeken (of selecteer Alles om in alle categorieën te zoeken).
+1. Selecteer een categorie waarin u wilt zoeken (of selecteer [!UICONTROL All] om in alle categorieën te zoeken).
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## Sjablooncategorieën vastzetten in het venster Samenstellen {#pinning-template-categories-in-the-compose-window}
 
-Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te krijgen tot de meest gebruikte sjablonen.
+Favoriet **tot vijf** specifieke malplaatjecategorieën om snelle toegang tot uw meest gebruikte malplaatjes te krijgen.
 
-1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
+1. Maak uw e-mailconcept (hiervoor zijn meerdere manieren, in dit voorbeeld kiezen we **[!UICONTROL Compose]** in de koptekst).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Klik op de knop **+** naast Favorieten.
+1. Klik op het pictogram **+** naast [!UICONTROL Favorites] .
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Klik op de knop **Een categorie vastzetten** en selecteer de gewenste rubriek.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Pin a Category]** en selecteer de gewenste categorie.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te kr
    >
    >We raden u aan de categorie Alles vast te zetten om u snel toegang te geven tot het zoeken in uw volledige sjabloonbibliotheek, aangezien u vaak door al uw sjablonen moet zoeken om te zoeken naar wat u zoekt. Wanneer u een vastgezette categorie hebt geselecteerd en op het zoekpictogram klikt, wordt de zoekopdracht standaard uitgevoerd op de zoekopdracht in de vastgezette categorie die is geselecteerd.
 
-1. Klikken **Wijzigingen opslaan** wanneer gereed (optioneel): Herhaal Stap 3 om meer toe te voegen).
+1. Klik **sparen Veranderingen** wanneer gedaan (facultatief: herhaal Stap 3 om meer toe te voegen).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -70,6 +70,6 @@ Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te kr
 
    >[!NOTE]
    >
-   >**Favorieten** is er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
+   >**[!UICONTROL Favorites]** is er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
 
    Je geselecteerde rubriek is nu vastgezet.

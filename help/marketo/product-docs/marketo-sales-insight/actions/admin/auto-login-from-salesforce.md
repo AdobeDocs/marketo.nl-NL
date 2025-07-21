@@ -1,29 +1,29 @@
 ---
-description: Automatische aanmelding bij Salesforce - Marketo Docs - Productdocumentatie
-title: Automatische aanmelding van Salesforce
+description: Automatische aanmelding vanuit Salesforce - Marketo Docs - Productdocumentatie
+title: Automatisch aanmelden bij Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Automatische aanmelding van Salesforce {#auto-login-from-salesforce}
+# Automatisch aanmelden vanaf [!DNL Salesforce] {#auto-login-from-salesforce}
 
-Auto-login staat de gebruikers van de Acties van het Inzicht van de Verkoop toe om aan de Acties van het Inzicht van de Verkoop automatisch voor authentiek te verklaren wanneer het werken van Salesforce.
+Met automatische aanmelding kunnen [!DNL Sales Insight Actions] -gebruikers automatisch verifiëren bij [!DNL Sales Insight Actions] werken vanuit [!DNL Salesforce] .
 
 Als u Automatisch aanmelden wilt gebruiken:
 
-* [Aanmeldingsbeheerinstellingen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) moet worden ingesteld op Alleen Salesforce
+* [ Login de montages van het Beheer ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) moeten aan &quot;[!UICONTROL Salesforce Only] worden geplaatst&quot;
 
-* De gebruiker moet de Acties van het Inzicht van de Verkoop hebben uitgenodigd
+* De gebruiker moet zijn uitgenodigd om [!DNL Sales Insight Actions] te gebruiken
 
-* De gebruiker moet de account hebben geactiveerd door zijn Salesforce-account aan te sluiten op zijn exemplaar Handelingen Sales Insight
+* De gebruiker moet de account hebben geactiveerd door zijn [!DNL Salesforce] -account aan te sluiten op zijn [!DNL Sales Insight Actions] -exemplaar
 
-* De gebruikersnaam van de Handelingen van het Inzicht van de Verkoop van de gebruiker moet hun gebruikersnaam Salesforce (of hun gebruikersnaam en e-mail van Salesforce zijn een gelijke) aanpassen
+* De gebruikersnaam [!DNL Sales Insight Actions] van de gebruiker moet overeenkomen met de [!DNL Salesforce] gebruikersnaam (of de gebruikersnaam en het e-mailadres van de gebruiker komen overeen)[!DNL Salesforce]
 
 >[!MORELIKETHIS]
 >
->[Gebruikers en beheerders uitnodigen](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+>[ nodigt Gebruikers en Admins ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md) uit

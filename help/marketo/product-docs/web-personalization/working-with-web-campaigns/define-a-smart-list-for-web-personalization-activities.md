@@ -1,29 +1,29 @@
 ---
 unique-page-id: 10097867
-description: Een slimme lijst definiëren voor personaliseringsactiviteiten voor het web - Marketo Docs - Productdocumentatie
-title: Een slimme lijst definiëren voor activiteiten van webpersonalisatie
+description: Een slimme lijst definiëren voor Personalization-activiteiten op het web - Marketo Docs - Productdocumentatie
+title: Een slimme lijst definiëren voor Personalization-activiteiten op het web
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# Een slimme lijst definiëren voor activiteiten van webpersonalisatie {#define-a-smart-list-for-web-personalization-activities}
+# Een slimme lijst definiëren voor [!DNL Web Personalization] -activiteiten {#define-a-smart-list-for-web-personalization-activities}
 
-U kunt de activiteiten van de Personalisatie van het Web in filters en trekkers gebruiken wanneer u een slimme lijst in een slimme campagne bepaalt. Hier, wilt u iedereen vangen die een vraag van de Personalisatie van het Web aan actie (campagne) klikte.
+U kunt [!DNL Web Personalization] -activiteiten gebruiken in filters en triggers wanneer u een slimme lijst in een slimme campagne definieert. Hier kunt u iedereen vastleggen die op een [!DNL Web Personalization] call to action (campagne) heeft geklikt.
 
-Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een waarde of score op basis van bezoekers die hebben geklikt en een webpersonalisatie-aanroep hebben geactiveerd. U kunt die lood ook filtreren en bekijken die op een vraag van de Personalisatie van het Web aan actie klikte.
+Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een waarde of score op basis van bezoekers die hebben geklikt en geëngageerd met een [!DNL Web Personalization] call to action. U kunt ook de leads filteren en weergeven die op een [!DNL Web Personalization] call to action zijn geklikt.
 
-1. Klik in uw slimme campagne op de knop **Slimme lijst** tab.
+1. Klik in uw slimme campagne op de tab **[!UICONTROL Smart List]** .
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
    >[!NOTE]
    >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Meer informatie in het dialoogvenster [Diepte slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in de [ Slimme Diep Duik van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep de trigger naar het canvas.
 
@@ -41,7 +41,7 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
    >
    >Rode kronkelige lijnen geven een fout aan. Als deze optie niet wordt gecorrigeerd, wordt de campagne ongeldig en wordt deze niet uitgevoerd.
 
-1. Definieer de trigger.
+1. Geef de trigger op.
 
    ![](assets/image2016-6-7-11-3a12-3a23.png)
 
@@ -57,10 +57,10 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
    >
    >Bij meerdere triggers gaat een persoon door naar de flow als een van de triggers wordt geactiveerd.
 
-   Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Om de campagne op een reeks mensen in werking te stellen allen tezelfdertijd, leer hoe te [ bepalen Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md) .
 
    >[!MORELIKETHIS]
    >
-   >* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [ bepaalt Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [ bepaal een Slimme Lijst voor de Activiteiten van de Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

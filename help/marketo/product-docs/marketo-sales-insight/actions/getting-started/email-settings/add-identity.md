@@ -3,10 +3,10 @@ description: Identiteit toevoegen - Marketo-documenten - Productdocumentatie
 title: Identiteit toevoegen
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ Voeg een identiteit toe wanneer u meerdere e-mailadressen hebt om van te verzend
 
    ![](assets/add-identity-1.png)
 
-1. Klikken **E-mailinstellingen**.
+1. Klik op **[!UICONTROL Email Settings]**.
 
    ![](assets/add-identity-2.png)
 
-1. Klikken **Identiteit toevoegen**.
+1. Klik op **[!UICONTROL Add Identity]**.
 
    ![](assets/add-identity-3.png)
 
-1. Voer de gegevens in (e-mail en naam zijn verplichte velden) en klik op **Maken**.
+1. Voer de gegevens in (e-mail en naam zijn verplichte velden) en klik op **[!UICONTROL Create]** .
 
    ![](assets/add-identity-4.png)
 
-1. Vervolgens ontvangt u een e-mail met het bericht &quot;Verifieer het e-mailadres&quot;. Klik op **E-mailadres verifiëren**.
+1. Vervolgens ontvangt u een e-mail met het bericht &quot;Verifieer het e-mailadres&quot;. Klik op **[!UICONTROL Verify Email Address]** om te verifiëren.
 
    ![](assets/add-identity-5.png)
 
@@ -42,8 +42,8 @@ Wanneer u een e-mail verzendt in Marketo Sales en meerdere identiteiten hebt, ku
 
 >[!NOTE]
 >
->Het aantal e-mailidentiteiten dat u kunt instellen, is onbeperkt.
+>Er is geen limiet voor het aantal e-mailidentiteiten dat u kunt instellen.
 
 >[!MORELIKETHIS]
 >
->[Uw e-mailhandtekening toevoegen of bijwerken](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).
+>[ voeg of werk Uw E-mailhandtekening ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md) bij.

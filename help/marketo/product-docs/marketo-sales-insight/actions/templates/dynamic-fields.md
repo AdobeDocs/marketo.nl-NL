@@ -3,32 +3,32 @@ description: Dynamische velden - Marketo Docs - Productdocumentatie
 title: Dynamische velden
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
 
 # Dynamische velden {#dynamic-fields}
 
-U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{{first_name}}` of `{{company}}`. Met deze velden kunt u meerdere contactpersonen per e-mail verzenden en deze velden automatisch aanvullen zonder dat u ze voor elk contact afzonderlijk hoeft in te voeren.
+U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{{first_name}}` of `{{company}}` . Met deze velden kunt u meerdere contactpersonen per e-mail verzenden en deze velden automatisch aanvullen zonder dat u ze voor elk contact afzonderlijk hoeft in te voeren.
 
 >[!TIP]
 >
->Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar Handelingen voor het toezicht op de verkoop als naar Salesforce kijken. Dat betekent dat er geen contact bestaat in het [webtoepassing](https://toutapp.com/login)En dan kijken we in Salesforce of we een contact/lead record kunnen vinden met een bijbehorend e-mailadres. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
+>Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar [!DNL Sales Insight Actions] als naar [!DNL Salesforce] kijken. Dat betekent als een contact niet in de [ Webtoepassing ](https://toutapp.com/login) bestaat, kijken wij binnen [!DNL Salesforce] om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
 
 ## Een dynamisch veld invoegen in een sjabloon {#insert-a-dynamic-field-into-a-template}
 
-1. In **Sjablonen en campagnes**, zoek de sjabloon die u wilt bewerken en klik op **Sjabloon bewerken**.
+1. Zoek in **[!UICONTROL Templates & Campaigns]** de sjabloon die u wilt bewerken en klik op **[!UICONTROL Edit Template]** .
 
-1. Klikken **Dynamisch veld invoegen**.
+1. Klik op **[!UICONTROL Insert Dynamic Field]**.
 
    >[!NOTE]
    >
-   >Wanneer het e-mailen van contacten die in de Acties van het Inzicht van de Verkoop bestaan, kunt u de fundamentele dynamische gebieden gebruiken. Deze zullen zich direct uit het contact trekken.
+   >Bij het e-mailen van contactpersonen in [!DNL Sales Insight Actions] kunt u de standaard dynamische velden gebruiken. Deze zullen zich direct uit het contact trekken.
 
-Als je contacten in Salesforce e-mailt, kun je profiteren van de dynamische velden van Salesforce. Deze beginnen allemaal met &quot;sfdc&quot;. Zolang u een verbinding aan Salesforce hebt, zullen deze gebieden direct aan lood/contact in Salesforce roepen om informatie in het malplaatje te bevolken.
+Als u contactpersonen per e-mail verzendt die in [!DNL Salesforce] voorkomen, kunt u gebruikmaken van de dynamische velden van [!DNL Salesforce] . Deze beginnen allemaal met &quot;sfdc&quot;. Zolang u verbinding hebt met [!DNL Salesforce] , worden deze velden rechtstreeks aangeroepen bij de lead/contactpersoon in [!DNL Salesforce] om informatie in de sjabloon te vullen.
 
 ## Dynamische velden invoegen in een onderwerpregel {#insert-dynamic-fields-in-a-subject-line}
 
@@ -48,9 +48,9 @@ Hiervoor voegt u &quot;|&quot; toe na het dynamische veldlabel en voegt u &quot;
 
 ## Woordenlijst Dynamische velden {#dynamic-fields-glossary}
 
-Bij het creëren van een malplaatje in de Acties van het Inzicht van de Verkoop adviseren wij altijd het integreren van dynamische gebieden, gebruikend **Dynamisch veld invoegen** knop.
+Wanneer u een sjabloon maakt in [!DNL Sales Insight Actions] , raden we u altijd aan dynamische velden te integreren met de knop **[!UICONTROL Insert Dynamic Field]** .
 
-Dit gereedschap wordt gebruikt om `auto-personalize your email` en bespaar u veel tijd met `pulling information from the People page`.
+Met dit gereedschap kunt u `auto-personalize your email` gebruiken en tonnen tijd besparen op `pulling information from the People page` .
 
 | Dynamisch veld | Voorbeeld van wat er in uw e-mail wordt weergegeven |
 |---|---|
@@ -65,14 +65,14 @@ Dit gereedschap wordt gebruikt om `auto-personalize your email` en bespaar u vee
 | `{{title}}` | Senior Technical Writer |
 | `{{work_website}}` | https://www.adobe.com |
 
-**Notities**:
+**Dingen aan nota te nemen**:
 
 * Als de contactgegevens onjuist zijn ingevoerd of ontbreken op de pagina Personen, worden deze niet correct in de sjabloon ingevoerd.
-* Het verschil tussen `{{company}}` en `{{company_friendly}}` is `{{company_friendly}}` zal om het even welke formele titel, zoals Inc., LLC., enz., van de naam van het bedrijf van uw contact verwijderen.
-* Wanneer u `{{company_friendly}}`, moet u Inc. of Co. scheiden met een komma in de contactgegevens. Dit is hoe de Acties van het Inzicht van de Verkoop weten wat te verwijderen wanneer het trekken in de waarde.
-* U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{{my_name}}` of `{{my_title}}`. Met deze velden kunt u snel naar uzelf verwijzen in uw e-mailsjablonen.
-* Het systeem voegt automatisch de handtekening van de gebruiker toe aan elke verzonden e-mail. Als de gebruiker een sjabloon gebruikt met de `{{my_signature}}` dynamisch veld, vult het systeem de handtekening waar het `{{my_signature}}` dynamisch veld is geplaatst. Het is daar alleen toegevoegd om dubbel werk te voorkomen. Het systeem zal `{{team_unsubscribe}}` op dezelfde manier als wanneer de globale instelling voor het opzeggen van het abonnement voor toevoegen is ingeschakeld.
+* Het verschil tussen `{{company}}` en `{{company_friendly}}` is dat `{{company_friendly}}` alle formele titels, zoals Inc., LLC., enz., verwijdert uit de naam van het bedrijf van uw contactpersoon.
+* Als u `{{company_friendly}}` gebruikt, moet u Inc. of Co. scheiden met een komma in de contactgegevens. Zo weet [!DNL Sales Insight Actions] wat te verwijderen wanneer het trekken van in de waarde.
+* U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{{my_name}}` of `{{my_title}}` . Met deze velden kunt u snel naar uzelf verwijzen in uw e-mailsjablonen.
+* Het systeem voegt automatisch de handtekening van de gebruiker toe aan elke verzonden e-mail. Als de gebruiker een sjabloon gebruikt met het dynamische veld `{{my_signature}}` , vult het systeem de handtekening waar het dynamische veld `{{my_signature}}` is geplaatst. Het is daar alleen toegevoegd om dubbel werk te voorkomen. Het systeem verwerkt `{{team_unsubscribe}}` op dezelfde manier als wanneer de instelling Globaal abonnement voor toevoegen is ingeschakeld.
 
 >[!TIP]
 >
->Als de dynamische velden niet worden gevuld, schakelt u deze uit [dit artikel](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
+>Als uw dynamische gebieden niet bevolkt, controleer [ dit artikel ](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).

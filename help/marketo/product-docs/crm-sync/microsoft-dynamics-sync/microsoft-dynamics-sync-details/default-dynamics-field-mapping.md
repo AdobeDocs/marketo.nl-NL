@@ -3,16 +3,16 @@ description: Standaarddynamische veldtoewijzing - Marketo Docs - Productdocument
 title: Standaarddynamische veldtoewijzing
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 12%
+source-wordcount: '332'
+ht-degree: 1%
 
 ---
 
 # Standaarddynamische veldtoewijzing {#default-dynamics-field-mapping}
 
-Wanneer u uw Marketo Engage-account voor het eerst synchroniseert met Microsoft, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde velden Dynamics en Marketo.  Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
+Wanneer u uw Marketo Engage-account aanvankelijk synchroniseert met Microsoft, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde velden Dynamics en Marketo.  Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
 
 ## Loodvelden {#lead-fields}
 
@@ -29,204 +29,204 @@ Wanneer u uw Marketo Engage-account voor het eerst synchroniseert met Microsoft,
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Aanmaakdatum van Microsoft</td>
-      <td>Gemaakt op</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>gemaakt</td>
     </tr>
     <tr>
-      <td>Aanhef</td>
-      <td>Aanhef</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>aanhef</td>
     </tr>
     <tr>
-      <td>Eerste</td>
-      <td>Voornaam</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>Midden</td>
-      <td>Tussenvoegsel</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Laatste</td>
-      <td>Achternaam</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>lastname</td>
     </tr>
     <tr>
-      <td>E-mail</td>
-      <td>E-mail</td>
-      <td>emailaddress1</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
+      <td>e-mailadres1</td>
     </tr>
     <tr>
-      <td>Beroep</td>
-      <td>Functie</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job title]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>Telefoonnummer</td>
-      <td>Zakelijke telefoon</td>
-      <td>telephone1</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
+      <td>phone1</td>
     </tr>
     <tr>
-      <td>Mobiel</td>
-      <td>Mobiele telefoon</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>mobiele telefoon</td>
     </tr>
     <tr>
-      <td>Fax</td>
-      <td>Fax</td>
+      <td>[!UICONTROL Fax]</td>
+      <td>[!UICONTROL Fax]</td>
       <td>fax</td>
     </tr>
     <tr>
-      <td>Adres</td>
-      <td>Adres 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Stad</td>
-      <td>Stad</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Staat</td>
-      <td>Staat/provincie</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL State/Province]</td>
       <td>address1_stateorProvince</td>
     </tr>
     <tr>
-      <td>Land</td>
-      <td>Land/regio</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Postcode</td>
-      <td>Postcode</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Bron persoon</td>
-      <td>Leadbron</td>
+      <td>[!UICONTROL Person Source]</td>
+      <td>[!UICONTROL Lead Source]</td>
       <td>leadsourcecode</td>
     </tr>
     <tr>
-      <td>Status persoon</td>
-      <td>Status</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Reden voor status</td>
-      <td>Reden voor status</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>Personen</td>
-      <td>Beschrijving</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>beschrijving</td>
     </tr>
     <tr>
-      <td>Niet bellen</td>
-      <td>Telefoongesprekken niet toestaan</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Niet geabonneerd</td>
-      <td>Geen e-mail bulksgewijs verzenden</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Persoonsbeoordeling</td>
-      <td>Classificatie</td>
+      <td>[!UICONTROL Person Rating]</td>
+      <td>[!UICONTROL Rating]</td>
       <td>leadquality code</td>
     </tr>
     <tr>
-      <td>Microsoft-adres 2</td>
-      <td>Adres 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft-adres 3</td>
-      <td>Adres 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft verzendt geen e-mail</td>
-      <td>E-mails niet toestaan</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft niet faxen</td>
-      <td>Geen faxen toestaan</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Do Not Allow Faxes]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Microsoft verzendt geen marketingmateriaal</td>
-      <td>Marketingmateriaal</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft Home Phone</td>
-      <td>Telefoon privé</td>
-      <td>telephone2</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
+      <td>phone2</td>
     </tr>
     <tr>
-      <td>Voorkeursmethode van Microsoft</td>
-      <td>Voorkeursmethode voor contact</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method of Contact]</td>
       <td>voorkeurscontactmethodiecode</td>
     </tr>
     <tr>
-      <td>Microsoft-onderwerp</td>
-      <td>Onderwerp</td>
+      <td>[!UICONTROL Microsoft Topic]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>onderwerp</td>
     </tr>
     <tr>
-      <td>Laatste interessante momentdatum</td>
-      <td>Laatste interessante momentdatum</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastInterestingstweenDate</td>
     </tr>
     <tr>
-      <td>Laatste interessante momentele beschrijving</td>
-      <td>Laatste interessante momentele beschrijving</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastInterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>Laatste interactieve tijdbron</td>
-      <td>Laatste interactieve tijdbron</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterestingimpulsource</td>
     </tr>
     <tr>
-      <td>Laatste interessante momentype</td>
-      <td>Laatste interessante momentype</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastInterestingstentype</td>
     </tr>
     <tr>
-      <td>Bedrijf</td>
-      <td>Bedrijfsnaam</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Company Name]</td>
       <td>bedrijfsnaam</td>
     </tr>
     <tr>
-      <td>Relatieve score</td>
-      <td>Relatieve score</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>Prioriteit</td>
-      <td>Prioriteit</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Relatieve urgentie</td>
-      <td>urgentie</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Onderwerp</td>
-      <td>Onderwerp</td>
+      <td>[!UICONTROL Subject]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>onderwerp</td>
     </tr>
     <tr>
-      <td>Jaaromzet</td>
-      <td>Jaaromzet</td>
-      <td>inkomsten</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>omzet</td>
     </tr>
   </tbody>
 </table>
@@ -244,11 +244,11 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar</td>
+      <td>[!UICONTROL Owner] </td>
       <td>eigenaar</td>
     </tr>
     <tr>
-      <td>gemaakt op</td>
+      <td>[!UICONTROL Created On]</td>
       <td>gemaakt</td>
     </tr>
   </tbody>
@@ -269,179 +269,179 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Aanmaakdatum van Microsoft</td>
-      <td>Gemaakt op</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>gemaakt</td>
     </tr>
     <tr>
-      <td>Aanhef</td>
-      <td>Aanhef</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>aanhef</td>
     </tr>
     <tr>
-      <td>Eerste</td>
-      <td>Voornaam</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>Midden</td>
-      <td>Tussenvoegsel</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Laatste</td>
-      <td>Achternaam</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>lastname</td>
     </tr>
     <tr>
-      <td>E-mail</td>
-      <td>E-mail</td>
-      <td>emailaddress1</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
+      <td>e-mailadres1</td>
     </tr>
     <tr>
-      <td>Beroep</td>
-      <td>Beroep</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job Title]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>Telefoonnummer</td>
-      <td>Zakelijke telefoon</td>
-      <td>telephone1</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
+      <td>phone1</td>
     </tr>
     <tr>
-      <td>Mobiel</td>
-      <td>Mobiele telefoon</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>mobiele telefoon</td>
     </tr>
     <tr>
-      <td>Adres</td>
-      <td>Adres 1: Street 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Stad</td>
-      <td>Adres 1: Plaats</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Staat</td>
-      <td>Adres 1: Staat/provincie</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL Address 1: State/Province]</td>
       <td>address1_stateorProvince</td>
     </tr>
     <tr>
-      <td>Land</td>
-      <td>Adres 1: Land/regio</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Postcode</td>
-      <td>Adres 1: Postcode</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Status persoon</td>
-      <td>Status</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Reden voor status</td>
-      <td>Reden voor status</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>Niet bellen</td>
-      <td>Telefoongesprekken niet toestaan</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Niet geabonneerd</td>
-      <td>Geen e-mail bulksgewijs verzenden</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Microsoft-adres 2</td>
-      <td>Adres 1: Street 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft-adres 3</td>
-      <td>Adres 1: Street 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft verzendt geen e-mail</td>
-      <td>E-mails niet toestaan</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft Home Phone</td>
-      <td>Telefoon privé</td>
-      <td>telephone2</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
+      <td>phone2</td>
     </tr>
     <tr>
-      <td>Voorkeursmethode van Microsoft</td>
-      <td>Voorkeursmethode voor contact</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method Of Contact]</td>
       <td>voorkeurscontactmethodiecode</td>
     </tr>
     <tr>
-      <td>Laatste interessante momentdatum</td>
-      <td>Laatste interessante momentdatum</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastInterestingstweenDate</td>
     </tr>
     <tr>
-      <td>Laatste interessante momentype</td>
-      <td>Laatste interessante momentype</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastInterestingstentype</td>
     </tr>
     <tr>
-      <td>Laatste interactieve tijdbron</td>
-      <td>Laatste interactieve tijdbron</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadinterestingimpulsource</td>
     </tr>
     <tr>
-      <td>Laatste interessante momentele beschrijving</td>
-      <td>Laatste interessante momentele beschrijving</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastInterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>Microsoft verzendt geen marketingmateriaal</td>
-      <td>Marketingmateriaal</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft niet faxen</td>
-      <td>Microsoft niet faxen</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Prioriteit</td>
-      <td>Prioriteit</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Relatieve urgentie</td>
-      <td>urgentie</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Relatieve score</td>
-      <td>Relatieve score</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>Personen</td>
-      <td>Beschrijving</td>
-      <td>beschrijving</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>beschrijving </td>
     </tr>
     <tr>
-      <td>Person score</td>
-      <td>Leadscore</td>
+      <td>[!UICONTROL Person Score]</td>
+      <td>[!UICONTROL Lead Score]</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>Personen</td>
-      <td>Beschrijving</td>
-      <td>beschrijving</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>beschrijving </td>
     </tr>
   </tbody>
 </table>
@@ -459,16 +459,16 @@ De onderstaande contactvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar</td>
+      <td>[!UICONTROL Owner] </td>
       <td>eigenaar</td>
     </tr>
     <tr>
-      <td>gemaakt op</td>
+      <td>[!UICONTROL Created On]</td>
       <td>gemaakt</td>
     </tr>
     <tr>
+      <td>[!UICONTROL Company Name]</td>
       <td>ouderdier</td>
-      <td>Bedrijfsnaam</td>
     </tr>
   </tbody>
 </table>
@@ -488,103 +488,103 @@ De onderstaande contactvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Rekening (a)</td>
-      <td>Account</td>
+      <td>[!UICONTROL Account (a)]</td>
+      <td>[!UICONTROL Account]</td>
       <td>verantwoording</td>
     </tr>
     <tr>
-      <td>Factuuradres</td>
-      <td>Adres 1: Street 1</td>
+      <td>[!UICONTROL Billing Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Factuurstad</td>
-      <td>Adres 1: Plaats</td>
+      <td>[!UICONTROL Billing City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Factuurland</td>
-      <td>Adres 1: Land/regio</td>
+      <td>[!UICONTROL Billing Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Factuurpostcode</td>
-      <td>Adres 1: Postcode</td>
+      <td>[!UICONTROL Billing Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Microsoft-factuuradres 2</td>
-      <td>Adres 1: Street 2</td>
+      <td>[!UICONTROL Microsoft Billing Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Microsoft-factureringsadres 3</td>
-      <td>Adres 1: Street 3</td>
+      <td>[!UICONTROL Microsoft Billing Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Telefoon</td>
-      <td>Telefoon</td>
-      <td>telephone1</td>
+      <td>[!UICONTROL Main Phone]</td>
+      <td>[!UICONTROL Main Phone]</td>
+      <td>phone1</td>
     </tr>
     <tr>
-      <td>Bedrijfstype</td>
-      <td>Bedrijfstype</td>
+      <td>[!UICONTROL Business Type]</td>
+      <td>[!UICONTROL Business Type]</td>
       <td>businesstyecode</td>
     </tr>
     <tr>
-      <td>Microsoft-accountnummer</td>
-      <td>Rekeningnummer</td>
+      <td>[!UICONTROL Microsoft Account Number]</td>
+      <td>[!UICONTROL Account Number]</td>
       <td>accountnummer</td>
     </tr>
     <tr>
-      <td>Microsoft Company Status</td>
-      <td>Status</td>
+      <td>[!UICONTROL Microsoft Company Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Jaaromzet</td>
-      <td>Jaaromzet</td>
-      <td>inkomsten</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>omzet</td>
     </tr>
     <tr>
-      <td>Bedrijfsnotities</td>
-      <td>Beschrijving</td>
+      <td>[!UICONTROL Company Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>beschrijving</td>
     </tr>
     <tr>
-      <td>Marktsegment</td>
-      <td>Marktsegment</td>
+      <td>[!UICONTROL Industry]</td>
+      <td>[!UICONTROL Industry]</td>
       <td>industriële code</td>
     </tr>
     <tr>
-      <td>SIC-code</td>
-      <td>SIC-code</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>Website</td>
-      <td>Website</td>
+      <td>[!UICONTROL Website]</td>
+      <td>[!UICONTROL Website]</td>
       <td>website</td>
     </tr>
     <tr>
-      <td>Aantal werknemers</td>
-      <td>Aantal werknemers</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>aantal werknemers</td>
     </tr>
     <tr>
-      <td>SIC-code</td>
-      <td>SIC-code</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>Bedrijf</td>
-      <td>Accountnaam</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Account Name]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>Aantal werknemers</td>
-      <td>Aantal werknemers</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>aantal werknemers</td>
     </tr>
   </tbody>
@@ -603,11 +603,11 @@ De onderstaande accountvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar</td>
+      <td>[!UICONTROL Owner] </td>
       <td>eigenaar</td>
     </tr>
     <tr>
-      <td>gemaakt op</td>
+      <td>[!UICONTROL Created On]</td>
       <td>gemaakt</td>
     </tr>
   </tbody>
@@ -628,33 +628,33 @@ De onderstaande accountvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Probability sluiten</td>
-      <td>waarschijnlijkheid</td>
+      <td>[!UICONTROL Close Probability]</td>
+      <td>[!UICONTROL Probabliity]</td>
       <td>waarschijnlijkheid</td>
     </tr>
     <tr>
-      <td>Werkgebied</td>
-      <td>status</td>
+      <td>[!UICONTROL Stage]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Werkelijke sluitdatum</td>
-      <td>Werkelijke sluitdatum</td>
+      <td>[!UICONTROL Actual Close Date]</td>
+      <td>[!UICONTROL Actual Close Date]</td>
       <td>actualclosed</td>
     </tr>
     <tr>
-      <td>Naam</td>
-      <td>Onderwerp</td>
+      <td>[!UICONTROL Name]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>Geschatte waarde</td>
-      <td>Oost. Ontvangsten</td>
+      <td>[!UICONTROL Estimated Value]</td>
+      <td>[!UICONTROL Est. Revenue]</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
-      <td>Beschrijving</td>
-      <td>Beschrijving</td>
+      <td>[!UICONTROL Description]</td>
+      <td>[!UICONTROL Description]</td>
       <td>beschrijving</td>
     </tr>
   </tbody>
@@ -673,15 +673,15 @@ De onderstaande accountvelden worden gesynchroniseerd voor intern gebruik.
       <th>API-naam MS Dynamics</th>
     </tr>
     <tr>
-      <td>Eigenaar</td>
+      <td>[!UICONTROL Owner] </td>
       <td>eigenaar</td>
     </tr>
     <tr>
-      <td>Opportunity</td>
+      <td>[!UICONTROL Opportunity]</td>
       <td>opportunityId</td>
     </tr>
     <tr>
-      <td>Potentiële klant</td>
+      <td>[!UICONTROL Potential Customer]</td>
       <td>customerId</td>
     </tr>
   </tbody>
@@ -702,15 +702,15 @@ De onderstaande velden worden gemaakt in Marketo, maar kunnen niet worden aangep
       <th>Beschrijving</th>
     </tr>
     <tr>
-      <td>Microsoft-type</td>
+      <td>[!UICONTROL Microsoft Type]</td>
       <td>Lood of contactpersoon. Indien leeg, bestaat de lead alleen als een persoon in Marketo</td>
     </tr>
     <tr>
-      <td>Aanmaakdatum van Microsoft</td>
-      <td>Datum gemaakt in MS Dynamics (kan verschillen van Gemaakt in Marketo)</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>Datum gemaakt in [!DNL MS Dynamics] (kan anders zijn dan Gemaakt in Marketo)</td>
     </tr>
     <tr>
-      <td>Microsoft is verwijderd</td>
+      <td>[!UICONTROL Microsoft is Deleted]</td>
       <td>Persoon was in Microsoft, maar werd verwijderd en woont nu alleen in Marketo</td>
     </tr>
   </tbody>

@@ -4,9 +4,9 @@ description: Rapport over activiteiten op webpagina - Marketo Docs - Productdocu
 title: Rapport over activiteiten op webpagina
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 
    >[!NOTE]
    >
-   >Het kan tot 24 uren voor gegevens vergen om in een Rapport van de Activiteit van de Web-pagina te weerspiegelen.
+   >Het kan tot 24 uur duren voordat gegevens worden weerspiegeld in een [!UICONTROL Web Page Activity] -rapport.
 
    >[!TIP]
    >

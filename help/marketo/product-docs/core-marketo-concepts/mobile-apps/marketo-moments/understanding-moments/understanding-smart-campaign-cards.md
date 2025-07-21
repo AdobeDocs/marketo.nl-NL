@@ -4,9 +4,9 @@ description: Slimme camerakaarten begrijpen - Marketo Docs - Productdocumentatie
 title: Slimme camerakaarten
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Gebruik Marketo-momenten om elke uitvoering van uw slimme campagnes vanaf uw sma
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Voor toekomstige slimme campagnes die gepland zijn maar nog niet zijn uitgevoerd, geeft de Marketo Moments-kaart nog geen campagnestatistieken weer. Ze verschijnen in een toekomstige release.
 
@@ -29,9 +29,9 @@ Voor toekomstige slimme campagnes die gepland zijn maar nog niet zijn uitgevoerd
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. Met de detailkaart hebt u toegang tot informatie over de filters Slimme lijst, Stroom en E-mailoverzicht.
+1. Met de detailkaart hebt u toegang tot informatie over de filters [!UICONTROL Smart List] , [!UICONTROL Flow] en [!UICONTROL Email Summary] .
 
-1. Tikken **Slimme lijst**.
+1. Tik op **[!UICONTROL Smart List]** .
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Voor toekomstige slimme campagnes die gepland zijn maar nog niet zijn uitgevoerd
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tikken **Stroom**.
+1. Tik op **[!UICONTROL Flow]** .
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Voor toekomstige slimme campagnes die gepland zijn maar nog niet zijn uitgevoerd
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klikken **E-mailoverzicht**.
+1. Klik op **[!UICONTROL Email Summary]**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Het is een goed idee om een e-mail te bekijken voordat het naar buiten gaat. Of 
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tikken [Voorbeeld verzenden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) of [E-mail voorvertonen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klik op deze koppelingen voor meer informatie).
+1. Tik op [[!UICONTROL Send Sample]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) of [[!UICONTROL Preview Email]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klik op deze koppelingen voor meer informatie).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Kaarten voor niet-bevestigde slimme campagnes zijn grijs totdat u ze bevestigt. 
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tikken **Bevestigen**.
+1. Tik op **[!UICONTROL Confirm]** .
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tikken **Bevestigen** om de taak te voltooien, of **Nooit denken** als je tweede gedachten hebt.
+1. Tik op **[!UICONTROL Confirm]** om de taak te voltooien, of op **[!UICONTROL Never Mind]** als u tweede gedachten hebt.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,11 +103,11 @@ U kunt een bevestigde, geplande uitvoering van een slimme campagne annuleren.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tikken **Uitvoeren annuleren**.
+1. Tik op **[!UICONTROL Cancel Run]** .
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tikken **Uitvoeren annuleren**. Als u op het laatste moment besluit de uitvoering niet te annuleren, tikt u op **Nooit denken** en de slimme campagne wordt uitgevoerd zoals gepland.
+1. Tik **annuleert Looppas**. Als u op de laatste minuut beslist om de looppas niet te annuleren, tikt **nooit Mind**, en de Slimme Campagne zal zoals gepland lopen.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -119,11 +119,11 @@ U kunt een bevestigde slimme campagne opnieuw plannen die nog niet is gestart.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tikken **Opnieuw plannen**.
+1. Tik op **[!UICONTROL Reschedule]** .
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Selecteer een datum op de kalender en tik op **Opnieuw plannen**.
+1. Selecteer een datum in de kalender en tik op **[!UICONTROL Reschedule]** .
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Net als bij andere Marketo Moments-kaarten kunt u op de drie punten op elke Smar
 
 >[!NOTE]
 >
->U kunt ook op de knop **Delen** pictogram op een Smart Campagne-kaart die u wilt delen, en de **Gereed** en **Favoriet** pictogrammen op de detailkaart.
+>U kunt ook op het pictogram **[!UICONTROL Share]** op een smartcard tikken om te delen, en op de detailkaart op de pictogrammen **[!UICONTROL Done]** en **[!UICONTROL Favorite]** .
 
 ## Snel een Smart Campaign-kaart verwijderen {#quickly-delete-a-smart-campaign-card}
 

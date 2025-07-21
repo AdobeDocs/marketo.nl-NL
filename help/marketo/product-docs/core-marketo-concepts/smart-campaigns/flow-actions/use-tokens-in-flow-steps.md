@@ -4,9 +4,9 @@ description: Tokens gebruiken in stroomstappen - Marketo Docs - Productdocumenta
 title: Tokens gebruiken in stappen
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Een token is een variabele. U gebruikt het in e-mails, Landing Pages, en Slimme 
 * Gegevenswaarde wijzigen
 * Gegevens van programmalid wijzigen
 * Interessant moment
-* Stappen voor Salesforce-campagne (toevoegen, verwijderen, status wijzigen)
+* [!DNL Salesforce] Campagnestappen (toevoegen, verwijderen, status wijzigen)
 * Taak maken
 * Waarschuwing verzenden (alleen in triggercampagnes)
 

@@ -4,9 +4,9 @@ description: Champion/Challenger - Van adres - Marketo Docs - Productdocumentati
 title: Champion/Challenger - Van adres
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
 >[!PREREQUISITES]
 >
->[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
-1. Selecteer in de testeditor voor e-mail de optie **Van adres** in de **Testtype** vervolgkeuzelijst.
+1. Selecteer **[!UICONTROL From Address]** in de vervolgkeuzelijst **[!UICONTROL Test Type]** in de testeditor voor e-mail.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Het eerste Van Adres wordt aangewezen als **Champion**. Volgende adressen worden aangeroepen **Challengers**.
+   >Het eerste Van Adres wordt aangewezen als **[!UICONTROL Champion]**. Volgende adressen worden **[!UICONTROL Challengers]** genoemd.
 
-1. Voer de **Van naam** (links) en **Van adres** (rechts) voor de uitdagers.
+1. Ga **van Naam** (verlaten) in en **van Adres** (juist) voor de uitdagers.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,7 +47,7 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
    Om statistisch vertrouwen te winnen, zeker bent u een percentage kiest dat genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten.
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
@@ -55,4 +55,4 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: Champion-criteria definiëren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

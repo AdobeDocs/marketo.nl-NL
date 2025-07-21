@@ -4,9 +4,9 @@ description: Een sjabloon gebruiken in het venster Samenstellen - Marketo Docs -
 title: Een sjabloon gebruiken in het venster Samenstellen
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Sjablonen zoeken en gebruiken {#finding-and-using-templates}
 
-1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
+1. Maak uw e-mailconcept (hiervoor zijn meerdere manieren, in dit voorbeeld kiezen we **[!UICONTROL Compose]** in de koptekst).
 
    ![](assets/one-6.png)
 
-1. Vul het veld Aan.
+1. Vul het veld [!UICONTROL To].
 
    ![](assets/searching-two.png)
 
@@ -41,21 +41,21 @@ ht-degree: 0%
 
 ## Sjablooncategorieën vastzetten in het venster Samenstellen {#pinning-template-categories-in-the-compose-window}
 
-Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te krijgen tot de meest gebruikte sjablonen.
+Favoriet **tot vijf** specifieke malplaatjecategorieën om snelle toegang tot uw meest gebruikte malplaatjes te krijgen.
 
-1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
+1. Maak uw e-mailconcept (hiervoor zijn meerdere manieren, in dit voorbeeld kiezen we **[!UICONTROL Compose]** in de koptekst).
 
    ![](assets/one-6.png)
 
-1. Klik op de knop **+** naast Favorieten.
+1. Klik op het pictogram **+** naast [!UICONTROL Favorites] .
 
    ![](assets/pinning-two.png)
 
-1. Klik op de knop **Een categorie vastzetten** en selecteer de gewenste rubriek.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Pin a Category]** en selecteer de gewenste categorie.
 
    ![](assets/pinning-three.png)
 
-1. Klikken **Wijzigingen opslaan** wanneer gereed (optioneel): Herhaal Stap 3 om meer toe te voegen).
+1. Klik op **[!UICONTROL Save Changes]** wanneer gereed (optioneel: herhaal stap 3 om meer toe te voegen).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te kr
 
    >[!NOTE]
    >
-   >**Favorieten** is er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
+   >**[!UICONTROL Favorites]** is er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
 
    Je geselecteerde rubriek is nu vastgezet.

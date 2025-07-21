@@ -3,10 +3,10 @@ description: Aangepaste veldsynchronisatie voor programmalid - Marketo Docs - Pr
 title: Aangepaste veldsynchronisatie voor programmalid
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 1%
+source-wordcount: '331'
+ht-degree: 0%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* Aanmaken van [Aangepaste velden voor programmalid](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Een Salesforce-campagne synchroniseren met een programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* Creatie van [ Gebieden van de Douane van het Lid van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [ Synchronisatie a  [!DNL Salesforce]  Campagne met een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ ht-degree: 1%
 
 ## Salesforce-velden toewijzen aan aangepaste velden voor programmalid {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. Klik in Marketo op **[!UICONTROL Admin]**.
+1. Klik in Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Klikken **[!DNL Salesforce]** en klik vervolgens op **[!UICONTROL Edit]** naast Aangepaste veldsync voor programmalid.
+1. Klik op **[!DNL Salesforce]** en klik vervolgens op **[!UICONTROL Edit]** naast Aangepaste veldsync voor programmalid.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Gebruik het zoekvak om de Salesforce-velden te zoeken die u wilt toewijzen. In dit voorbeeld gebruiken we Niet bellen.
+1. Gebruik het zoekvak om de [!DNL Salesforce] -velden te zoeken die u wilt toewijzen. In dit voorbeeld gebruiken we Niet bellen.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,37 +39,37 @@ ht-degree: 1%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Kies het gewenste aangepaste veld voor Marketo-programmalid dat u wilt toewijzen.
+1. Kies de gewenste Marketo [!UICONTROL Program Member Custom Field] die u wilt toewijzen.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >De drop-down zal slechts de Gebieden van de Douane van het Lid van het Programma tonen die het gegevenstype van het gebied Salesforce aanpassen.
+   >In de vervolgkeuzelijst wordt alleen [!UICONTROL Program Member Custom Fields] weergegeven die overeenkomt met het gegevenstype van het veld [!DNL Salesforce] .
 
 1. Voor extra veldtoewijzingen wist u het zoekvak en herhaalt u stap 3 tot en met 5.
 
-1. Klikken **[!UICONTROL Save]** wanneer gereed.
+1. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
    >[!IMPORTANT]
    >
-   >Wijzigingen in de gegevens van de programmaleden in de toegewezen velden worden gesynchroniseerd tussen Marketo en Salesforce.
+   >Wijzigingen in de gegevens van de programmaleden in de toegewezen velden worden gesynchroniseerd tussen Marketo en [!DNL Salesforce] .
 
    >[!NOTE]
    >
-   >Als u het gegevenstype van een gebied in Salesforce anders noemt of verandert, zullen wij om het even welke afbeelding van dat gebied met het Gepaste Gebied van het Lid van het Programma verwijderen. Maar u kunt deze na revisie opnieuw toewijzen met het nieuwe veld.
+   >Als u de naam van een veld wijzigt of het gegevenstype van een veld wijzigt in [!DNL Salesforce] , wordt elke toewijzing van dat veld verwijderd met de instructie [!UICONTROL Program Member Custom Field] . Maar u kunt deze na revisie opnieuw toewijzen met het nieuwe veld.
 
-## Salesforce-velden uit aangepaste velden voor programmalid verwijderen {#unmap-salesforce-fields-from-program-member-custom-fields}
+## De kaart van Salesforce-velden van aangepaste velden voor programmaleden opheffen {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algemene wijziging wilt aanbrengen, moet u eerst een unmapping uitvoeren. Zo gaat het.
 
-1. Klik in Marketo op **[!UICONTROL Admin]**.
+1. Klik in Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Klikken **[!DNL Salesforce]** en klik vervolgens op **[!UICONTROL Edit]** naast Aangepaste veldsync voor programmalid.
+1. Klik op **[!DNL Salesforce]** en klik vervolgens op **[!UICONTROL Edit]** naast Aangepaste veldsync voor programmalid.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algem
 
    >[!TIP]
    >
-   >U kunt de **[!UICONTROL Mapped]** Schakel het selectievakje in om alleen toegewezen velden weer te geven.
+   >U kunt het selectievakje **[!UICONTROL Mapped]** inschakelen om alleen toegewezen velden weer te geven.
 
-1. Toewijzing ongedaan maken door op de knop **X** naast het veld.
+1. Unmap door **X** naast het gebied te klikken.
 
    ![](assets/program-member-custom-field-sync-10.png)
 
@@ -158,6 +158,6 @@ Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algem
 
 >[!MORELIKETHIS]
 >
->* [Gegevens van programmalid wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
->* [Gegevens weergeven op het raster voor programmaleden](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [SFDC Sync - Campagne Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [ Gegevens van het Lid van het Programma van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [ gegevens van de Mening over het net van het Lid van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [ de Synchronisatie van SFDC - de Synchronisatie van de Campagne ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

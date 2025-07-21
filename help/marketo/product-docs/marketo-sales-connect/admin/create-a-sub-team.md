@@ -1,33 +1,33 @@
 ---
 unique-page-id: 14352406
 description: Een subteam maken - Marketo Docs - Productdocumentatie
-title: Subteam maken
+title: Een subteam maken
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
-# Subteam maken {#create-a-sub-team}
+# Een subteam maken {#create-a-sub-team}
 
-## Subteam maken {#create-a-sub-team-1}
+## Een subteam maken {#create-a-sub-team-1}
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one-1.png)
 
-1. Selecteer onder Beheerinstellingen de optie **Teambeheer**.
+1. Selecteer onder [!UICONTROL Admin Settings] de optie **[!UICONTROL Team Management]** .
 
    ![](assets/two-1.png)
 
-1. Klik op de knop **+**.
+1. Naast [!UICONTROL All Teams], klik **+**.
 
    ![](assets/three-1.png)
 
-1. Voer een teamnaam (en optionele beschrijving) in en klik op **Maken**.
+1. Voer een teamnaam (en optionele beschrijving) in en klik op **[!UICONTROL Create]** .
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Personen toevoegen aan uw subteam {#add-people-to-your-sub-team}
 
-1. Nog in het Beheer van het Team, selecteer **Iedereen** groep.
+1. Selecteer de groep [!UICONTROL Team Management] , die zich nog in **[!UICONTROL Everyone]** bevindt.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klikken **Geselecteerde items toevoegen aan teams**.
+1. Klik op **[!UICONTROL Add Selected to Teams]**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Klikken **Toevoegen aan teams** wanneer gereed.
+1. Klik op **[!UICONTROL Add To Teams]** als u klaar bent.
 
    ![](assets/nine.png)

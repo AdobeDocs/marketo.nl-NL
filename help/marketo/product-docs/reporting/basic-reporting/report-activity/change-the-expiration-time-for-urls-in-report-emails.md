@@ -4,10 +4,10 @@ description: Verander de Vervaltijd voor URL's in Rapport Emails - Marketo Docs 
 title: Verander de Vervaltijd voor URLS in de E-mail van het Rapport
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na drie dagen. Voer de volgende stappen uit om de vervaltijd voor deze koppelingen te wijzigen.
 
-1. Onder **Beheer**, klikt u op **Aanmeldingsinstellingen**.
+1. Klik onder **[!UICONTROL Admin]** op **[!UICONTROL Login Settings]** .
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klik op de knop **URL-vervaldatum bewerken** knop.
+1. Klik op de knop **[!UICONTROL Edit URL Expiration]** .
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Selecteer in het keuzemenu hoeveel dagen voordat de koppeling verloopt. Klikken **Opslaan**.
+1. Selecteer in het keuzemenu hoeveel dagen voordat de koppeling verloopt. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

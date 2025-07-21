@@ -3,9 +3,9 @@ description: Je wachtwoord voor verkoop en verbinding wijzigen - Marketo Docs - 
 title: Je wachtwoord voor verkoopverbinding wijzigen
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 
 ## Uw wachtwoord wijzigen bij aanmelden {#change-your-password-while-signed-in}
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. De pagina Mijn profiel wordt standaard geopend. Selecteer onder Accountdetails de optie **Wachtwoord wijzigen** selectievakje.
+1. De pagina [!UICONTROL My Profile] wordt standaard geopend. Selecteer onder [!UICONTROL Account Details] het selectievakje **[!UICONTROL Change password]** .
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Voer uw huidige wachtwoord in. Voer vervolgens de nieuwe in en typ deze opnieuw om er zeker van te zijn dat ze overeenkomen. Klikken **Opslaan** wanneer gereed.
+1. Voer uw huidige wachtwoord in. Voer vervolgens de nieuwe in en typ deze opnieuw om er zeker van te zijn dat ze overeenkomen. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -39,15 +39,15 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 
 ## Wachtwoord wijzigen bij afmelding {#change-your-password-while-signed-out}
 
-1. Ga naar de [Aanmelden bij Sales Connect](https://toutapp.com/login) pagina en klik op **Wachtwoord vergeten**.
+1. Navigeer aan de [ Verkoop Connect login ](https://toutapp.com/login) pagina en klik **[!UICONTROL Forgot password?]**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Voer het e-mailadres in dat aan het account is gekoppeld en klik op **E-mail opnieuw instellen**.
+1. Voer het e-mailadres in dat aan het account is gekoppeld en klik op **[!UICONTROL Send Reset Email]** .
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. We zullen een e-mail verzenden om te controleren of de rekeninghouder het wachtwoord wil wijzigen. Klikken **Wachtwoord opnieuw instellen**.
+1. We zullen een e-mail verzenden om te controleren of de accounteigenaar het wachtwoord wil wijzigen. Klik op **[!UICONTROL Reset Password]**.
 
    ![](assets/change-your-sales-connect-password-6.png)
 
@@ -55,6 +55,6 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
    >
    >Controleer ook uw map Spam, aangezien deze e-mail daar soms kan eindigen.
 
-1. Voer uw nieuwe wachtwoord in en bevestig dit. Klikken **Wachtwoord instellen** wanneer gereed.
+1. Voer uw nieuwe wachtwoord in en bevestig dit. Klik op **[!UICONTROL Set Password]** als u klaar bent.
 
    ![](assets/change-your-sales-connect-password-7.png)

@@ -4,9 +4,9 @@ description: Voeg uw e-mailhandtekening toe - Marketo Docs - Productdocumentatie
 title: Uw e-mailhandtekening toevoegen
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Wij willen dat de e-mail van Sales Connect u een naadloze ervaring geeft wanneer u vanuit uw eigen e-mailclient verzendt. Een goede manier om dit te doen is uw e-mailhandtekening toe te voegen.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer onder [!UICONTROL My Account] de optie **[!UICONTROL Email Settings]** .
 
    ![](assets/add-your-email-signature-2.png)
 
-1. Klikken **Adres en handtekening** en selecteer de e-mailidentiteit waarvoor u een handtekening wilt maken.
+1. Klik op **[!UICONTROL Address and Signature]** en selecteer de e-mailidentiteit waarvoor u een handtekening wilt maken.
 
    ![](assets/add-your-email-signature-3.png)
 
-1. Klik op de handtekeningkaart op **Bewerken**.
+1. Klik op de [!UICONTROL Signature] -kaart op **[!UICONTROL Edit]** .
 
    ![](assets/add-your-email-signature-4.png)
 
-1. Voer de gewenste tekst (of afbeeldingen) in en klik op **Opslaan**.
+1. Voer de gewenste tekst (of afbeeldingen) in en klik op **[!UICONTROL Save]** .
 
    ![](assets/add-your-email-signature-5.png)
 

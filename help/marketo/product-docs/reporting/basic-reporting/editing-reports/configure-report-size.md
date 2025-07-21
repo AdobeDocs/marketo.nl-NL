@@ -4,9 +4,9 @@ description: Rapportgrootte configureren - Marketo-documenten - productdocumenta
 title: Rapportgrootte configureren
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt die limiet wijzigen.
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Instellen** tab.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de tab **[!UICONTROL Setup]** .
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Dubbelklikken **Beschikbare rijen exporteren**.
+1. Dubbelklik op **[!UICONTROL Export Rows Available]** .
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -33,9 +33,9 @@ Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt di
 
    >[!TIP]
    >
-   >Het veranderen van de grens verandert de rapportgrootte zelf, niet alleen het uitgevoerde dossier van Excel, zodat als uw rapport te lang duurt om te produceren, verminder de grens!
+   >Als u de limiet wijzigt, wordt de rapportgrootte zelf gewijzigd en niet alleen het geëxporteerde [!DNL Excel] -bestand. Als uw rapport te lang duurt om te genereren, verlaagt u de limiet!
 
-1. Klikken **Opslaan** om de nieuwe limiet te bevestigen.
+1. Klik op **[!UICONTROL Save]** om de nieuwe limiet te bevestigen.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
@@ -43,4 +43,4 @@ Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt di
 
    >[!MORELIKETHIS]
    >
-   >U kunt [uw rapport exporteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) met de nieuwe limiet.
+   >U kunt [ uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) met de nieuwe grens uitvoeren.

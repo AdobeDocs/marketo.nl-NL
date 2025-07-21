@@ -4,9 +4,9 @@ description: Aangepaste overlays maken in de overzichtsweergave van het programm
 title: Aangepaste overlays maken in de programmaweergave van het programma
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 U kunt aangepaste overlays maken om items weer te geven die relevant zijn voor uw behoeften.
 
-1. Klik op de knop **[!UICONTROL Agenda]** vervolgkeuzelijst.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Agenda]** .
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
-1. Selecteren **[!UICONTROL Overlays]**.
+1. Selecteer **[!UICONTROL Overlays]** .
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
-1. Selecteer de ingstypen die u in de bedekking wilt weergeven.
+1. Selecteer de [!UICONTROL Entry Types] die u in de bedekking wilt weergeven.
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. U kunt ook filteren op [programmatags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. U kunt ook filtreren door [ programmalabels ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

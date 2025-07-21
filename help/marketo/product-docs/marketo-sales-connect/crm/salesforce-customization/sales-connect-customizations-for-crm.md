@@ -1,63 +1,63 @@
 ---
 unique-page-id: 14745793
-description: Aanpassingen voor verkoop Connect voor CRM - Marketo Docs - Productdocumentatie
-title: Aanpassingen voor verkoop Connect voor CRM
+description: '[!DNL Sales Connect] Aanpassingen voor CRM - Marketo Docs - Productdocumentatie'
+title: '[!DNL Sales Connect] Aanpassingen voor CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '658'
 ht-degree: 1%
 
 ---
 
-# Aanpassingen voor verkoop Connect voor CRM {#sales-connect-customizations-for-crm}
+# [!DNL Sales Connect] Aanpassingen voor CRM {#sales-connect-customizations-for-crm}
 
 De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. De instructies [ kunnen hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf) worden gevonden.
 
-## Aanpassingen installeren in Salesforce {#how-to-install-customizations-in-salesforce}
+## Aanpassingen installeren in [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
-1. In Verkoop verbindt, klik het tandwielpictogram en selecteer **Montages**.
+1. Klik in [!DNL Sales Connect] op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one.png)
 
-1. Onder Montages Admin, uitgezochte **Salesforce**.
+1. Selecteer onder [!UICONTROL Admin Settings] de optie **[!UICONTROL Salesforce]** .
 
    ![](assets/two.png)
 
-1. Klik **de Verkoop Connect van Marketo Aanpassingen**.
+1. Klik op **[!UICONTROL Marketo Sales Engage Customizations]**.
 
    ![](assets/three.png)
 
-1. Klik **verbinden met Salesforce**.
+1. Klik op **[!UICONTROL Connect to Salesforce]**.
 
    ![](assets/four.png)
 
-1. Meld u aan bij Salesforce.
+1. Meld u aan bij [!DNL Salesforce] .
 
    ![](assets/five.png)
 
-## Salesforce-aanpassing bijwerken {#update-salesforce-customization}
+## [!DNL Salesforce] Aanpassing bijwerken {#update-salesforce-customization}
 
-Updates van het Salesforce-aanpassingspakket bevatten verbeteringen en foutoplossingen. Volg onderstaande stappen om te controleren of er updates beschikbaar zijn of om deze uit te voeren.
+Updates voor het [!DNL Salesforce] Aanpassingspakket bevatten verbeteringen en foutoplossingen. Volg onderstaande stappen om te controleren of er updates beschikbaar zijn of om deze uit te voeren.
 
 >[!NOTE]
 >
 >**vereiste toestemmingen Admin.**
 
-1. In de [ Webtoepassing ](https://www.toutapp.com), klik het tandwielpictogram en selecteer **Montages**.
+1. In de [ Webtoepassing ](https://www.toutapp.com), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. Onder Montages Admin, klik **Salesforce**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL Salesforce]** .
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Op de Customization Card voor verkoop Connect wordt weergegeven of er updates beschikbaar zijn. Klik **Aanpassingen van de Update**.
+1. De [!DNL Sales Connect] Customization card geeft aan of er updates beschikbaar zijn. Klik op **[!UICONTROL Update Customizations]**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Klik **Verbetering**.
+1. Klik op **[!UICONTROL Upgrade]**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

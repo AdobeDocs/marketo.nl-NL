@@ -4,9 +4,9 @@ description: Pas uw bestemmingspagina-URL's aan met een CNAME - Marketo Docs - P
 title: De URL's van uw bestemmingspagina aanpassen met een CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -31,19 +31,19 @@ Kies een woord om aan het begin van de URL te gaan voor de bestemmingspagina&#39
 
 Het ene woord (plus YourCompany.com) wordt een CNAME genoemd. U hebt dit later nodig, dus noteer het.
 
-## Zoek uw Munchkin-id {#find-your-munchkin-id}
+## Je Munchkin-id zoeken {#find-your-munchkin-id}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar het **Admin** gebied.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Klikken **Mijn account**.
+1. Klik **Mijn Rekening**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
    >[!NOTE]
    >
-   >**Beheerdersmachtigingen vereist**
+   >**Vereiste Bevoegdheden Admin**
 
 1. Blader omlaag naar &quot;Ondersteuningsinformatie&quot; en kopieer uw Munchkin-id.
 
@@ -51,25 +51,25 @@ Het ene woord (plus YourCompany.com) wordt een CNAME genoemd. U hebt dit later n
 
 ## Verzoek verzenden naar IT {#send-request-to-it}
 
-Vraag uw personeel van IT om volgende CNAME te installeren: (Vervang het woord [CNAME] en [Munchkin-id] met de tekst uit de vorige stap.)
+Vraag uw personeel van IT om volgende CNAME in te stellen: (Vervang het woord [ CNAME ] en [ identiteitskaart van Munchkin ] met de tekst van de vorige stap.)
 
-[CNAME].YourCompany.com > [Munchkin-id].mktoweb.com
+[ .YourCompany.com ] identiteitskaart van Munchkin [ .mktoweb.com]
 
 ## CNAME-instelling voltooien {#complete-cname-setup}
 
-1. Als uw IT-afdeling de CNAME heeft gemaakt, gaat u naar de **Beheer** gebied.
+1. Zodra uw IT CNAME heeft gecreeerd, ga naar het **Admin** gebied.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik **het Bestaan Pagina&#39;s**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Onder de **Instellingen** sectie, klikt u op **Bewerken**.
+1. Onder de **sectie van Montages**, geeft de klik **** uit.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Voer uw CNAME in **Domeinnaam voor bestemmingspagina&#39;s**, voer uw **Pagina voor alternatieven**, voer uw **Homepage** en klik op **Opslaan**.
+1. Voer uw CNAME in **[!UICONTROL Domain name for Landing Pages]** in, voer uw **[!UICONTROL Fallback page]** in, voer uw **[!UICONTROL Homepage]** in en klik op **[!UICONTROL Save]** .
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

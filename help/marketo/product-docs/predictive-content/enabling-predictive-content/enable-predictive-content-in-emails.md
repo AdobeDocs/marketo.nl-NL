@@ -4,48 +4,48 @@ description: Predictieve inhoud in e-mails inschakelen - Marketo Docs - Productd
 title: Voorspelende inhoud in e-mails inschakelen
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 
 # Voorspelende inhoud in e-mails inschakelen {#enable-predictive-content-in-emails}
 
-Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring voor elke ontvanger aanpast.
+Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring voor elke ontvanger kunt aanpassen.
 
 >[!NOTE]
 >
->U wordt aangeraden meer dan vijf delen inhoud per categorie en per bron (e-mail, rich media, balk) in te schakelen voordat u de preventieve inhoud gaat testen en gebruiken. Meer inhoud geeft u een beter voorspelbaar resultaat.
+>U wordt aangeraden meer dan vijf delen inhoud per categorie en per bron (e-mail, rich media, balk) in te schakelen voordat u de voorspellende inhoud gaat testen en gebruiken. Meer inhoud geeft u een beter voorspelbaar resultaat.
 
 >[!PREREQUISITES]
 >
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
->* **Voorspelende inhoud voorbereiden**
+>* **bereidt uw Predictieve Inhoud** voor
 >
->   * [Voorspelende inhoud voor e-mails bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} of
->   * [Predictieve inhoud voor rijke media bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} of
->   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>   * [ geef Voorspelende Inhoud voor E-mail ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} uit of
+>   * [ geef Voorspelende Inhoud voor Rijke Media ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} uit of
+>   * [ geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [ keur een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"} goed
 
 ## Voorspelende inhoud toevoegen met de e-maileditor 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Klikken **Marketingactiviteiten**.
+1. Klik op **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Selecteer uw e-mail en klik op **Concept bewerken**.
+1. Selecteer uw e-mail en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/two.png)
 
-1. Klik op de afbeelding die u voorspelbaar wilt maken. Wanneer het tandwielpictogram verschijnt, klikt u erop en selecteert u **ContentAI inschakelen** (ContentAI is de vroegere naam voor voorspellende inhoud).
+1. Klik op de afbeelding die u voorspelbaar wilt maken. Wanneer het tandwielpictogram verschijnt, klikt u erop en selecteert u **[!UICONTROL Enable ContentAI]** (ContentAI is de vroegere naam voor voorspellende inhoud).
 
    ![](assets/three.png)
 
-1. Als u een of meer categorieën wilt selecteren, klikt u op de knop **Categorieën** selecteert, selecteert of selecteert of selecteert of selecteert of klikt **Toepassen**.
+1. Als u een of meer categorieën wilt selecteren, klikt u op de vervolgkeuzelijst **[!UICONTROL Categories]** , selecteert u of selecteert u een of meer categorieën en klikt u op **[!UICONTROL Apply]** .
 
    ![](assets/four.png)
 
@@ -57,19 +57,19 @@ Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring vo
 
    ![](assets/five.png)
 
-1. Klik op **Voorvertoning** in de rechterbovenhoek.
+1. Klik op **[!UICONTROL Preview]** in de rechterbovenhoek om een voorbeeld van uw e-mail weer te geven.
 
    ![](assets/six.png)
 
-1. Klik op **Vernieuwen**.
+1. Klik op **[!UICONTROL Refresh]** als u andere mogelijke afbeeldingen wilt weergeven.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >De afbeelding is niet geselecteerd **_totdat de ontvanger het e-mailbericht opent_**. Wat u in de voorvertoning ziet, is slechts een voorbeeld en hoeft niet noodzakelijkerwijs de afbeelding te zijn die de ontvanger ziet.
+   >Het beeld wordt niet geselecteerd **_tot de ontvanger e-mail_** opent. Wat u in de voorvertoning ziet, is slechts een voorbeeld en hoeft niet noodzakelijkerwijs de afbeelding te zijn die de ontvanger ziet.
 
-1. Klik op de knop **Handelingen voorvertonen** vervolgkeuzelijst en selecteer **Goedkeuren en Sluiten**. Als u nog steeds bewerkingen moet uitvoeren, klikt u op **Concept bewerken** rechts.
+1. Als u klaar bent met het voorvertonen van uw e-mail, klikt u op de vervolgkeuzelijst **[!UICONTROL Preview Actions]** en selecteert u **[!UICONTROL Approve and Close]** . Als u nog steeds bewerkingen moet uitvoeren, klikt u op **[!UICONTROL Edit Draft]** aan de rechterkant.
 
    ![](assets/eight.png)
 
@@ -85,9 +85,9 @@ Nadat u uw e-mail hebt goedgekeurd, wordt deze voorzien van voorspellende inhoud
 
 ## Voorspelende inhoud toevoegen wanneer de e-maileditor 2.0 niet wordt gebruikt {#adding-predictive-content-when-not-using-the-email-editor}
 
-Als u geen [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} kunt u eenvoudig preventieve inhoud aan uw e-mail toevoegen door een afbeelding in uw sjabloon te labelen als een bewerkbaar Marketo-afbeeldingselement.
+Als u geen [ E-mail 2.0 ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} malplaatje gebruikt, kan het toevoegen van Voorspelende Inhoud aan uw e-mail eenvoudig worden gedaan door een beeld in uw malplaatje als bewerkbaar Marketo beeldelement te etiketteren.
 
-Meer informatie over de [Marketo-specifieke syntaxis hier](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
+Leer over de [ Marketo-Specifieke syntaxis hier ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Hier is een voorbeeld van hoe de code eruit moet zien (dit is slechts een voorbeeld, kopieer de onderstaande code niet exact).
 

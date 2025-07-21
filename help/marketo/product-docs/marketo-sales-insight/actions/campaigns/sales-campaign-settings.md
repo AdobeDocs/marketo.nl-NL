@@ -3,10 +3,10 @@ description: Instellingen voor verkoopcampagne - Marketo-documenten - productdoc
 title: Instellingen verkoopcampagne
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
@@ -20,9 +20,9 @@ Schakel overslaan in weekends in, zodat alle stappen die op een weekenddag (zate
 
 >[!NOTE]
 >
->Als Weekends overslaan ingeschakeld is, worden e-mailberichten gepland op basis van een week van 5 dagen. Dit betekent dat wanneer een stap is gepland, weekends worden genegeerd als dagen.
+>Als [!UICONTROL Skip Weekends] is ingeschakeld, worden e-mailberichten gepland op basis van een week van 5 dagen. Dit betekent dat wanneer een stap is gepland, weekends worden genegeerd als dagen.
 
-1. Klikken **Campagnes**.
+1. Klik op **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Schakel overslaan in weekends in, zodat alle stappen die op een weekenddag (zate
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Klik op de knop **Instellingen** tab.
+1. Klik op de tab **[!UICONTROL Settings]** .
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Selecteer **Weekends overslaan** selectievakje.
+1. Schakel het selectievakje **[!UICONTROL Skip Weekends]** in.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Schakel overslaan in weekends in, zodat alle stappen die op een weekenddag (zate
 
 Als u een e-mailverbinding gebruikt, worden er stuiteringen gevonden op basis van het stuiteringsbericht dat naar de gebruikers in het Postvak IN wordt verzonden. Bovendien, kunnen wij mensen uit de Campagnes van de Verkoop verwijderen wanneer een stuit wordt ontdekt.
 
-1. Klikken **Campagnes**.
+1. Klik op **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ Als u een e-mailverbinding gebruikt, worden er stuiteringen gevonden op basis va
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Klik op de knop **Instellingen** tab.
+1. Klik op de tab **[!UICONTROL Settings]** .
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Selecteer **Verwijderen bij stuiteren** selectievakje.
+1. Schakel het selectievakje **[!UICONTROL Remove on Bounce]** in.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## Als een reactie optreedt {#if-a-reply-occurs}
 
-Als u antwoord het volgen voor Gmail of Uitwisseling wordt toegelaten, kunnen wij uw Campagne van de Verkoop automatisch beëindigen als een ontvanger op uw e-mail antwoordt.
+Als voor Gmail of [!DNL Exchange] de functie voor het bijhouden van antwoorden is ingeschakeld, kunnen we uw verkoopcampagne automatisch beëindigen als een ontvanger op uw e-mail reageert.
 
-1. Klikken **Campagnes**.
+1. Klik op **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,16 +70,16 @@ Als u antwoord het volgen voor Gmail of Uitwisseling wordt toegelaten, kunnen wi
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Klik op de knop **Instellingen** tab.
+1. Klik op de tab **[!UICONTROL Settings]** .
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. Onder **Als een reactie optreedt**, maakt de gewenste selectie(s).
+1. Maak onder **[!UICONTROL If a Reply Occurs]** de gewenste selectie(s).
 
    ![](assets/sales-campaign-settings-12.png)
 
 >[!MORELIKETHIS]
 >
->* [Een verkoopcampagne maken](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->* [Verzendopties voor verkoopcampagne voor e-mailstappen](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
->* [Typen stappen en herinneringstaken voor verkoopcampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [ het Begrip van de Campagne van de Verkoop verzendt Opties voor E-mailstappen ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

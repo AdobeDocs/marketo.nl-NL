@@ -3,38 +3,38 @@ description: Uw profiel beheren - Marketo Docs - Productdocumentatie
 title: Uw profiel beheren
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # Uw profiel beheren {#manage-your-profile}
 
-Op de pagina Mijn profiel kunt u uw naam, de taal/landinstelling/tijdzone van uw account bijwerken en ook uw wachtwoord wijzigen.
+Op uw [!UICONTROL My Profile] -pagina kunt u uw naam, de taal/landinstelling/tijdzone van uw account bijwerken en ook uw wachtwoord wijzigen.
 
 ## Accountgegevens {#account-details}
 
 Hier kunt u uw naam en/of wachtwoord bijwerken.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/manage-your-profile-1.png)
 
-1. De pagina Mijn profiel wordt standaard geopend. Als u uw naam wilt bijwerken, typt u gewoon de wijzigingen en klikt u op **Opslaan**.
+1. De pagina Mijn profiel wordt standaard geopend. Als u uw naam wilt bijwerken, typt u de wijzigingen en klikt u op **[!UICONTROL Save]** .
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->Uw e-mailadres is ingesteld op Alleen weergeven. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Uw e-mailadres is ingesteld op Alleen weergeven. Als u dat ook nodig hebt veranderd, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
 
 U kunt uw wachtwoord in deze sectie ook veranderen. De stappen worden beschreven in dit document.
 
 ## Uw integratie {#your-integrations}
 
-Rechts op de pagina wordt in de sectie Uw integratie de status van alle verbindingen van uw account weergegeven.
+Aan de rechterkant van de pagina geeft de sectie [!UICONTROL Your Integrations] de status van alle verbindingen van uw account.
 
 ![](assets/manage-your-profile-3.png)
 
@@ -50,23 +50,23 @@ Hieronder wordt beschreven hoe u de taal, landinstelling en/of tijdzone van uw a
 >
 >Ondersteunde talen: Engels, Frans, Duits, Japans, Portugees, Spaans.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/manage-your-profile-4.png)
 
-1. Als u de taal wilt wijzigen, klikt u op de knop **Taal** en maak uw keuze.
+1. Als u de taal wilt wijzigen, klikt u op de vervolgkeuzelijst **[!UICONTROL Language]** en kiest u deze.
 
    ![](assets/manage-your-profile-5.png)
 
-1. De landinstelling verwijst hier naar de regio waarin die taal wordt gesproken. Klik op de knop **Landinstelling** en maak uw keuze.
+1. De landinstelling verwijst hier naar de regio waarin die taal wordt gesproken. Klik op de vervolgkeuzelijst **[!UICONTROL Locale]** en maak uw keuze.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Klik op de knop **Uw tijdzone** en maak uw keuze.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Your Timezone]** en maak uw keuze.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/manage-your-profile-8.png)
 

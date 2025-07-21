@@ -4,9 +4,9 @@ description: Een e-mailsjabloon maken - Marketo Docs - Productdocumentatie
 title: Een e-mailsjabloon maken
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ Ga als volgt te werk om een nieuwe e-mailsjabloon te maken.
 
 >[!NOTE]
 >
->Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Neem contact op met een webontwikkelaar voor hulp bij HTML.
+>Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Voor hulp van HTML raadpleegt u een webontwikkelaar.
 
 >[!CAUTION]
 >
->In de editor die we gebruiken, worden de waarden van CSS-eigenschappen voor kleur en achtergrondkleur omgezet in kleine letters. Gebruik dus liever geen kamelhoofdletters en gebruik in plaats daarvan kleine letters of afbreekstreepjes.
+>In de editor die we gebruiken, worden de waarden van CSS-eigenschappen voor kleur en achtergrondkleur omgezet in kleine letters. Gebruik dus liever geen hoofdletters en kleine letters en geen afbreekstreepjes.
 
 ## Een nieuwe e-mailsjabloon maken {#create-a-new-email-template}
 
-1. Klikken **Design Studio**.
+1. Klik op **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Klikken **Nieuw** selecteert u vervolgens **Nieuwe e-mailsjabloon**.
+1. Klik op **[!UICONTROL New]** en selecteer vervolgens **[!UICONTROL New Email Template]** .
 
    ![](assets/ds-two.png)
 
-1. Geef uw nieuwe sjabloon een naam en klik op **Maken**.
+1. Geef de nieuwe sjabloon een naam en klik op **[!UICONTROL Create]** .
 
    ![](assets/three-1.png)
 
-1. Klik op **Concept bewerken**.
+1. Klik op **[!UICONTROL Edit Draft]** als u wilt beginnen met het bewerken van de nieuwe sjabloon.
 
    ![](assets/4.png)
 
@@ -49,19 +49,19 @@ Ga als volgt te werk om een nieuwe e-mailsjabloon te maken.
 
 Voer de volgende eenvoudige stappen uit als u een e-mailbericht hebt gemaakt dat u wilt opslaan als sjabloon voor toekomstig gebruik.
 
-1. Klikken **Marketingactiviteiten**.
+1. Klik op **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Zoek en selecteer uw e-mail en klik vervolgens op **Concept bewerken**.
+1. Zoek en selecteer uw e-mail en klik vervolgens op **[!UICONTROL Edit Draft]** .
 
    ![](assets/two-1.png)
 
-1. Klik op de knop **E-mailhandelingen** vervolgkeuzelijst en selecteer **Opslaan als sjabloon**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Email Actions]** en selecteer **[!UICONTROL Save as Template]** .
 
    ![](assets/four-1.png)
 
-1. Klik op de knop **Map** vervolgkeuzelijst, selecteer waar u de sjabloon wilt plaatsen en klik op **Opslaan**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Folder]** , selecteer waar u de sjabloon wilt laten leven en klik op **[!UICONTROL Save]** .
 
    ![](assets/five-1.png)
 
@@ -75,4 +75,4 @@ Als u uw e-mailsjabloon wilt aanpassen, checkt u het onderstaande artikel uit.
 
 >[!MORELIKETHIS]
 >
->[E-mailsjabloonsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

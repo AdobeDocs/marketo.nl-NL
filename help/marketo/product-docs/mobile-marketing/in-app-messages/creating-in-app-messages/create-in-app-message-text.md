@@ -4,9 +4,9 @@ description: Berichttekst in de app maken - Marketo Docs - Productdocumentatie
 title: Berichttekst in de app maken
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
    >
    >Als u een te grote tekstgrootte hebt, kan het zijn dat de inhoud de maximaal drie zichtbare tekstregels overschrijdt.
 
-1. Kies een optionele tekststijl voor de accenten: **Vet**, _Cursief_ of Onderstrepen.
+1. Kies een facultatieve typestijl, voor nadruk: **Vet**, _Cursief_, of onderstreept.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -47,7 +47,7 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
    >
    >Het tekstlettertype dat wordt weergegeven in de advertentie, is het standaardlettertype voor elk platform: Helvetica voor Apple en Roboto voor Android
 
-1. Schakel het selectievakje in om de handeling Teksttik te selecteren.
+1. Schakel het selectievakje in om **[!UICONTROL Text Tap action]** te selecteren.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,7 +57,7 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    >[!NOTE]
    >
-   >Voor tikacties kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld anders afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, kunt u andere in het gebrek verlaten die plaatst of niets selecteert.
+   >Voor tikacties kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld anders afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, kunt u andere in het gebrek plaatsen verlaten of [!UICONTROL None] selecteren.
 
 1. Klik op de ondersteuningstekst om deze inline te bewerken. De tekst werkt op dezelfde manier als de hoofdtekst, maar de standaardtekstgrootte is kleiner.
 
@@ -67,13 +67,13 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Selecteer Mijn token in de keuzelijst, voeg een standaardwaarde toe en klik op **Invoegen**.
+1. Selecteer Mijn token in de keuzelijst, voeg een standaardwaarde toe en klik op **[!UICONTROL Insert]** .
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Alleen Mijn tokens zijn beschikbaar als opties. Als er geen My Tokens zijn ingesteld in het programma, is de keuzelijst Token leeg.
+   >Alleen Mijn tokens zijn beschikbaar als opties. Als het programma geen My Tokens heeft ingesteld, is de vervolgkeuzelijst [!UICONTROL Token] leeg.
 
    >[!TIP]
    >
@@ -81,9 +81,9 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    Wijzigingen die u aanbrengt in tokens die worden gebruikt in een goedgekeurd berichtprogramma in de app, worden pas van kracht in het bericht in de app nadat het programma is gepauzeerd en vervolgens wordt hervat.
 
-Je bent gouden. Vervolgens moet u [in-app-berichtknop instellen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Je bent gouden. Daarna, moet u opstelling uw in-app berichtknoop [.](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md)
 
 >[!MORELIKETHIS]
 >
->* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

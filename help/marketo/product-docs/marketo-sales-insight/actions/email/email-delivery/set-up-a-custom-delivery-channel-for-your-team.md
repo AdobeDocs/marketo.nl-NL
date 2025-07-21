@@ -3,9 +3,9 @@ description: Stel een aangepast leveringskanaal in voor uw team - Marketo Docs -
 title: Stel een aangepast leveringskanaal in voor uw team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!NOTE]
 >
->* Naast het opzetten van uw server SMTP, uw [e-mailidentiteit moet worden geverifieerd](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) voordat je e-mails kunt verzenden.
+>* Naast vestiging uw server SMTP, moet uw [ e-mailidentiteit worden geverifieerd ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) alvorens u e-mails kunt verzenden.
 >* Wij adviseren werkend met uw team van IT of SMTP serververkoper om de juiste servergeloofsbrieven voor uw server te krijgen SMTP.
->* U kunt niet uw server van Gmail en van de Uitwisseling verbinden gebruikend de SMTP servergeloofsbrieven. Gebruik onze E-mailverbindingsservice om deze providers te integreren.
+>* U kunt uw Gmail en [!DNL Exchange] server niet verbinden gebruikend de SMTP servergeloofsbrieven. Gebruik onze E-mailverbindingsservice om deze providers te integreren.
 
-1. Klik op het tandwielpictogram en kies **Instellingen**.
+1. Klik op het tandwielpictogram en kies **[!UICONTROL Settings]** .
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. Klik onder Beheerinstellingen op **Algemeen**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL General]** .
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Klik op de knop **Teamleveringskanaal** tab.
+1. Klik op de tab **[!UICONTROL Team Delivery Channel]** .
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. Ga uw geloofsbrieven van de Server SMTP in en klik **Verbinden**.
+1. Voer uw SMTP-serverreferenties in en klik op **[!UICONTROL Connect]** .
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 
@@ -44,5 +44,5 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [E-mailverbinding voor Gmail-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [E-mailverbinding voor Outlook-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [ E-mailVerbinding voor de Gebruikers van Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+   >* [ E-mailVerbinding voor  [!DNL Outlook]  Gebruikers ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

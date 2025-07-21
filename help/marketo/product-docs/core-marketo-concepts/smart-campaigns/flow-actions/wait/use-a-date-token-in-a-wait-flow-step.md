@@ -4,9 +4,9 @@ description: Een Date Token gebruiken in een Wachten Flow-stap - Marketo Docs - 
 title: Een Date Token gebruiken in een Wachten Flow-stap
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 >
 >Dit geldt alleen voor triggercampagnes. U kunt deze functie niet gebruiken in Batch-campagnes.
 
-1. Sleep over de stap **[!UICONTROL Wait]** flow in de tab Slimme campagne **[!UICONTROL Flow]** .
+1. Sleep over de stap **[!UICONTROL Flow]** flow in de tab Slimme campagne **[!UICONTROL Wait]** .
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
@@ -27,11 +27,11 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Selecteer **[!UICONTROL Date Token]** in de vervolgkeuzelijst **[!UICONTROL Type]** .
+1. Selecteer **[!UICONTROL Type]** in de vervolgkeuzelijst **[!UICONTROL Date Token]** .
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. Kies een teken van de Datum om te specificeren wanneer de wachtende stap zou moeten beëindigen:
+1. Kies een [!UICONTROL Date token] om op te geven wanneer de wachtstap moet worden beëindigd:
 
    * `{{my._____}}`
    * `{{lead.______}}`

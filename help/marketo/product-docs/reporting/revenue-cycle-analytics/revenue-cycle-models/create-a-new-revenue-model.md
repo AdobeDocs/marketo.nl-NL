@@ -4,32 +4,32 @@ description: Een nieuw inkomstenmodel maken - Marketo Docs - Productdocumentatie
 title: Een nieuw inkomstenmodel maken
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Een nieuw inkomstenmodel maken {#create-a-new-revenue-model}
 
-1. Als u een nieuw inkomstencyclusmodel wilt maken, klikt u op de knop **Analyse** in het startscherm van Mijn Marketo.
+1. Klik op de knop **[!UICONTROL Analytics]** in het [!UICONTROL My Marketo] -beginscherm om een nieuw inkomstencyclusmodel te maken.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In de **Analyse** tabblad, klikt u op **Nieuw** en selecteert u **Nieuw inkomstencyclusmodel**.
+1. Klik op het tabblad **[!UICONTROL Analytics]** op **[!UICONTROL New]** en selecteer **[!UICONTROL New Revenue Cycle Model]** .
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. A **Nieuw inkomstencyclusmodel** modaal venster verschijnt. Voer een naam in en klik op **Maken**.
+1. Er wordt een modaal venster van **[!UICONTROL New Revenue Cycle Model]** weergegeven. Voer een naam in en klik op **[!UICONTROL Create]** .
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. Klikken **Concept bewerken** in de weergave Home van uw model.
+1. Klik op **[!UICONTROL Edit Draft]** in de weergave Home van uw model.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. In het nieuwe venster, zult u een model met zes inventarisstadia, vijf overgangen tussen deze stadia en de capaciteit worden voorgesteld om inventaris, SLA en gatefasen toe te voegen.
+1. In het nieuwe venster wordt u een model gepresenteerd met zes inventarisfasen, vijf overgangen tussen deze fasen en de mogelijkheid om inventarisatie, SLA en gatfasen toe te voegen.
 
    ![](assets/image2015-4-27-12-3a31-3a1.png)
 
@@ -37,4 +37,4 @@ Kijk scherp! Je bent net de prachtige wereld van modellering binnengekomen.
 
 >[!MORELIKETHIS]
 >
->Meer informatie over [Opbrengstmodelinventarisatiestadia gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).
+>Leer meer over [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).

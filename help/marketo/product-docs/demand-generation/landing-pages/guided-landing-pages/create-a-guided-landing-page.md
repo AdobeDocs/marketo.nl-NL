@@ -4,9 +4,9 @@ description: Een bestemmingspagina met instructies maken - Marketo Docs - Produc
 title: Een bestemmingspagina met instructies maken
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De modi van de bestemmingspagina worden bepaald door hun sjabloon. [Meer informatie](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informatie over sjablonen voor vrije-vormpagina&#39;s en geleide landingspagina&#39;s.
+>De modi van de bestemmingspagina worden bepaald door hun sjabloon. [ leer meer ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) over vrije-vorm en geleide het landen paginasjablonen.
 
 >[!PREREQUISITES]
 >
->Als u een aangepaste sjabloon wilt gebruiken, moet u eerst [een sjabloon voor een geleide bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>Om een douanemalplaatje te gebruiken, moet u eerst [ een geleide het landen paginamalplaatje ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md) creëren.
 
 ## Een pagina met instructies-landingen maken in een programma {#create-a-guided-landing-page-in-a-program}
 
-Geleide landingspagina&#39;s kunnen als lokale activa van een programma of in de Studio van het Ontwerp worden gecreeerd om globaal te worden gebruikt.
+Geleide landingspagina&#39;s kunnen worden gemaakt als lokale elementen van een programma of in de [!UICONTROL Design Studio] die globaal worden gebruikt.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/one-1.png)
 
@@ -33,42 +33,42 @@ Geleide landingspagina&#39;s kunnen als lokale activa van een programma of in de
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klik op de knop **Nieuw** vervolgkeuzelijst. Selecteren **Nieuw lokaal element**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL New]** . Selecteer **[!UICONTROL New Local Asset]** .
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Selecteren **Openingspagina**.
+1. Selecteer **[!UICONTROL Landing Page]** .
 
    ![](assets/four.png)
 
-1. Geef de landingspagina een naam. Klik op de knop **Sjabloon** vervolgkeuzelijst en selecteer **Sjabloon met instructies**.
+1. Geef de landingspagina een naam. Klik op de vervolgkeuzelijst **[!UICONTROL Template]** en selecteer **[!UICONTROL Guided Template]** .
 
    >[!NOTE]
    >
-   >Geleide landingspagina-sjablonen hebben de ![—](assets/image2015-5-26-9-3a26-3a51.png) naast hen. Sjablonen met instructies zijn gestructureerd zodat ze volledig reageren.
+   >De geleide het landen paginasjablonen hebben ![ - ](assets/image2015-5-26-9-3a26-3a51.png) pictogram naast hen. Sjablonen met instructies zijn gestructureerd zodat ze volledig reageren.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
 ## Een bestemmingspagina maken in Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Ga naar **Design Studio**.
+1. Ga naar **[!UICONTROL Design Studio]** .
 
    ![](assets/six.png)
 
-1. Klik op de knop **Nieuw** vervolgkeuzelijst. Selecteren **Nieuwe bestemmingspagina**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL New]** . Selecteer **[!UICONTROL New Landing Page]** .
 
    ![](assets/seven.png)
 
-1. Geef de landingspagina een naam. Klik op de knop **Sjabloon** vervolgkeuzelijst en selecteer **Sjabloon met instructies**.
+1. Geef de landingspagina een naam. Klik op de vervolgkeuzelijst **[!UICONTROL Template]** en selecteer **[!UICONTROL Guided Template]** .
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->De URL wordt automatisch samengesteld op basis van de naam van het programma en de landingspagina. Als u de URL wilt wijzigen, bewerkt u de **Pagina-URL** veld.
+>De URL wordt automatisch samengesteld op basis van de naam van het programma en de landingspagina. Als u de URL wilt wijzigen, bewerkt u het veld **[!UICONTROL Page URL]** .
 >
->Wis de **Openen in editor** selectievakje als u niet wilt dat de editor direct wordt geopend nadat u op **Maken**.
+>Schakel het selectievakje **[!UICONTROL Open in editor]** uit als u niet wilt dat de editor direct wordt geopend nadat u op **[!UICONTROL Create]** hebt geklikt.

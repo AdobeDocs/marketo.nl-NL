@@ -5,32 +5,32 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
 
 # Aangepaste objectsynchronisatie {#custom-object-sync}
 
-Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van het Marketo Engage. Hier is hoe u het kunt instellen.
+Aangepaste objecten die in uw [!DNL Veeva] CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo Engage. Hier is hoe u het kunt instellen.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**vereiste toestemmingen Admin**
 
 >[!PREREQUISITES]
 >
->Als u een aangepast object wilt gebruiken, moet dit zijn gekoppeld aan een contact- of accountobject in Veeva CRM.
+>Als u een aangepast object wilt gebruiken, moet dit worden gekoppeld aan een contact- of accountobject in [!DNL Veeva] CRM.
 
 ## Aangepast object inschakelen {#enable-custom-object}
 
-1. Klik in Marketo op **[!UICONTROL Admin]** vervolgens **[!UICONTROL Veeva Objects Sync]**.
+1. Klik in Marketo op **[!UICONTROL Admin]** en vervolgens op **[!UICONTROL Veeva Objects Sync]** .
 
    ![](assets/custom-object-sync-1.png)
 
-1. Als dit uw eerste aangepaste object is, klikt u op **[!UICONTROL Sync Schema]**.
+1. Klik op **[!UICONTROL Sync Schema]** als dit uw eerste aangepaste object is.
 
    ![](assets/custom-object-sync-2.png)
 
@@ -40,7 +40,7 @@ Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel 
 
    >[!NOTE]
    >
-   >De eerste synchronisatie van het schema van aangepaste Veeva-objecten kan een paar minuten duren.
+   >De eerste synchronisatie van het schema voor aangepaste objecten van [!DNL Veeva] kan een paar minuten duren.
 
 1. Sleep het aangepaste object dat u wilt synchroniseren naar het canvas.
 
@@ -54,11 +54,11 @@ Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel 
 
    ![](assets/custom-object-sync-5.png)
 
-1. Klikken **[!UICONTROL Enable Sync]** opnieuw.
+1. Klik nogmaals op **[!UICONTROL Enable Sync]** .
 
    ![](assets/custom-object-sync-6.png)
 
-1. Ga terug naar de **[!UICONTROL Veeva]** tab.
+1. Ga terug naar de tab **[!UICONTROL Veeva]** .
 
    ![](assets/custom-object-sync-7.png)
 
@@ -66,7 +66,7 @@ Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel 
 
    ![](assets/custom-object-sync-8.png)
 
-1. Als u al uw aangepaste veeva-objecten wilt weergeven, klikt u op **[!UICONTROL Admin]** en **[!UICONTROL Veeva Objects Sync]**.
+1. Klik op [!DNL Veeva] en **[!UICONTROL Admin]** om al uw aangepaste **[!UICONTROL Veeva Objects Sync]** objecten weer te geven.
 
    ![](assets/custom-object-sync-9.png)
 
@@ -78,5 +78,5 @@ Uitstekend! U kunt nu gegevens uit dit aangepaste object gebruiken in slimme cam
 
 >[!MORELIKETHIS]
 >
->* [Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
->* [Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>* [ synchroniserend Vraag en de Zeer belangrijke Berichten van de Vraag ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [ voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe

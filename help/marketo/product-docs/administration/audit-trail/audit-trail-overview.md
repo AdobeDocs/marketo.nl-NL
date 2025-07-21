@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377945
-description: Overzicht audittrail - Marketo Docs - Productdocumentatie
+description: Audit Trail] Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van audittrail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Met Audittrail hebt u de mogelijkheid om een complete geschiedenis (van zes maan
 
 >[!NOTE]
 >
->De geschiedenis van de gegevens van het audittrail begon op 14 september 2016.
+>De geschiedenis van audittrail begon op 14 september 2016.
 
 ![](assets/audit-trail-overview-1.png)
 
@@ -33,7 +33,7 @@ Wie registreert zich op ons account?
 
 ## Wat wij controleren {#what-we-audit}
 
-Marketo zal de [maken, bewerken en verwijderen](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) acties voor:
+Marketo zal [ ](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) acties creëren uitgeven en schrappen voor:
 
 * Ontwerpstudioactiva
 * Alle Marketo-programma&#39;s
@@ -41,32 +41,32 @@ Marketo zal de [maken, bewerken en verwijderen](/help/marketo/product-docs/admin
 * Lijsten (slim/statisch)
 * Gebruikers (beheerder)
 * Rollen en machtigingen (admin)
-* Werkruimte en partities (admin)
+* Workspace en partities (admin)
 * Aanmeldingsgeschiedenis gebruiker
 
 >[!NOTE]
 >
->Marketo is _niet_ Het controleren van veranderingen die binnen Personalisatie van het Web, Voorspelende Inhoud, of Inzicht van de Verkoop op dit ogenblik worden aangebracht.
+>Marketo is _niet_ controleveranderingen die binnen Personalization van het Web, Voorspelende Inhoud, of Insight van de Verkoop op dit ogenblik worden aangebracht.
 
 ## Componenten van audittrail {#audit-trail-components}
 
 Audittrail bestaat uit drie componenten.
 
-**1) [Asset Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [ Trail van de Controle van Activa](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Zie de activiteiten die zijn uitgevoerd voor specifieke elementen.
 
-**2) [Beheerdersaudittrail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)**
+**[](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)** het Spoor van de Controle Admin 
 
 Op gebruikers gebaseerde gegevens controleren.
 
-**3) [Aanmeldingsgeschiedenis gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**[ Login Geschiedenis van de Gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Zie wie zich heeft aangemeld bij uw abonnement en wanneer. Omvat ook ontbroken login pogingen.
 
 >[!TIP]
 >
->Er is zo veel u kunt controleren gebruikend het Spoor van de Controle, zeker om te gebruiken [Filteren](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)!
+>Er is zo veel u het gebruiken van het Spoor van de Controle kunt controleren, ben zeker om [ het Filtreren ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) te gebruiken!
 
 ## Gegevens exporteren {#exporting-data}
 
@@ -78,8 +78,8 @@ U kunt slechts gegevens van 30 dagen in uw exemplaar bekijken. Gebruik de export
 >
 >**Definitie**
 >
->**Onbekend:** In [!DNL Webhook]kan de naam en het e-mailadres van een gebruiker worden weergegeven als Onbekend. Dit gebeurt wanneer u een verandering in uw picklist waarden in uw CRM aanbrengt. Deze waarden worden weergegeven in Marketo-formulieren en bestemmingspagina&#39;s. Als u deze update uitvoert aan de CRM-zijde, worden uw bestemmingspagina&#39;s die verwijzen naar het formulier automatisch geprogrammeerd. In [!DNL Webhook], zullen wij vangen dat de landingspagina werd opgesteld, maar de naam en de e-mail van de gebruiker zullen tonen als &quot;Onbekend,&quot;aangezien wij niet de gebruikersinformatie van de kant van CRM kunnen vangen.
+>**Onbekend:** In [!DNL Webhook], kunt u de naam en e-mail van een gebruiker zien die als &quot;Onbekend wordt vermeld.&quot; Dit gebeurt wanneer u een verandering in uw picklist waarden in uw CRM aanbrengt. Deze waarden worden weergegeven in Marketo-formulieren en bestemmingspagina&#39;s. Als u deze update uitvoert aan de CRM-zijde, worden uw bestemmingspagina&#39;s die verwijzen naar het formulier automatisch geprogrammeerd. In [!DNL Webhook] wordt vastgelegd dat de bestemmingspagina is opgesteld, maar dat de naam en het e-mailadres van de gebruiker &#39;Onbekend&#39; zijn, omdat we de gebruikersgegevens niet kunnen vastleggen aan de CRM-zijde.
 
 >[!MORELIKETHIS]
 >
->[Audittrail inschakelen](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md)
+>[ laat het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md) toe

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 7511931
 description: Handelingen via e-mail, campagne en controlelijst voor Marketo verzenden in Salesforce1 - Marketo Docs - Productdocumentatie
-title: Handelingen voor Marketo-e-mail, -campagne en -controlelijst verzenden in Salesforce1
+title: Handelingen via e-mail, campagne en controlelijst voor Marketo verzenden in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Handelingen voor Marketo-e-mail, -campagne en -controlelijst verzenden in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Handelingen voor Marketo-e-mail, -campagne en -controlelijst verzenden in [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Ga naar het gebied Regelafstand in Salesforce1 en klik op de knop **Verwante** tab.
+1. Ga naar het gebied Details lead in [!DNL Salesforce1] en klik op de tab **[!UICONTROL Related]** .
 
    ![](assets/one-1.png)
 
-1. Klik op de gegevens (drie kleine stippen). Onder aan kunt u kiezen uit: &quot;Toevoegen aan Marketo-campagne&quot;, &quot;Marketo-e-mail verzenden&quot;, &quot;Weergeven in Marketo&quot;, &quot;Toevoegen/verwijderen uit controlelijst.&quot;
+1. Klik op de gegevens (drie kleine stippen). Bij de bodem kunt u van kiezen: &quot;[!UICONTROL Add to Marketo Campaign]&quot;, &quot;[!UICONTROL Send Marketo Email],&quot; [!UICONTROL View in Marketo],&quot;&quot;[!UICONTROL Add from Watchlist],&quot;&quot;[!UICONTROL Remove from Watchlist].&quot;
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe u een [getriggerde campagne met &quot;Campagne is aangevraagd](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe te opstelling a [ getriggerde campagne gebruikend &quot;Campagne wordt Gevraagd ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Koel, nu kunnen je verkopers actief deelnemen aan de marketingactiviteiten.
 

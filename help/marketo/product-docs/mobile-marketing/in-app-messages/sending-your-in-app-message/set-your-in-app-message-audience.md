@@ -4,9 +4,9 @@ description: Uw berichtvenster in de app instellen - Marketo Docs - Productdocum
 title: Uw publiek voor berichten in de app instellen
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvangen. U moet uw slimme lijst instellen.
 
-1. Klikken **Slimme lijst bewerken**.
+1. Klik op **[!UICONTROL Edit Smart List]**.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
-1. In de slimme lijst wordt de trigger Has Mobile App Activity automatisch gevuld. Klik op de vervolgkeuzelijst en selecteer de app waarin u het bericht wilt plaatsen.
+1. In de slimme lijst wordt de trigger **[!UICONTROL Has Mobile App Activity]** automatisch gevuld. Klik op de vervolgkeuzelijst en selecteer de app waarin u het bericht wilt plaatsen.
 
    ![](assets/image2016-5-9-15-3a18-3a10.png)
 
@@ -27,19 +27,19 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
    >
    >Meerdere waarden voor het veld Mobile App worden momenteel niet ondersteund voor berichtprogramma&#39;s in de app.
 
-1. **App openen** is de standaardinstelling voor Handeling, maar u kunt elke aangepaste gebeurtenis selecteren die u al hebt ingesteld.
+1. **[!UICONTROL App Open]** is de standaardinstelling voor Handeling, maar u kunt elke aangepaste gebeurtenis selecteren die u al hebt ingesteld.
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
    >[!NOTE]
    >
-   >De standaardtrigger (App Open) en eventuele aangepaste triggers die door de ontwikkelaar aan de code zijn toegevoegd, worden automatisch weergegeven in de handelingenselector. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [dit artikel](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie .
+   >De standaardtrigger ([!UICONTROL App Open]) en eventuele aangepaste triggers die door de ontwikkelaar aan de code worden toegevoegd, worden automatisch weergegeven in de [!UICONTROL Action] -kiezer. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [ dit artikel ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
 
-1. Restricties zijn beschikbaar voor de **Heeft mobiele toepassingsactiviteit** trigger als je ze nodig hebt.
+1. Er zijn beperkingen beschikbaar voor de trigger **[!UICONTROL Has Mobile App Activity]** als u deze nodig hebt.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. U kunt filters aan uw slimme lijst toevoegen om te beperken wie uw in-app bericht ontvangt. In dit voorbeeld wordt het **Aankoopdatum** -filter, alleen personen die op 9 juni 2016 zijn aangeschaft, ontvangen het bericht in de app.
+1. U kunt filters aan uw slimme lijst toevoegen om te beperken wie uw in-app bericht ontvangt. In dit voorbeeld wordt met het filter **[!UICONTROL Acquisition Date]** alleen het bericht in de app verzonden aan personen die op 9 juni 2016 zijn aangeschaft.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +49,10 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
 
    >[!NOTE]
    >
-   >De standaardweergavelimiet is **Eén keer per sessie**. Als u wilt dat het bericht niet meer wordt weergegeven nadat de ontvanger heeft gereageerd, selecteert u **Telkens als er wordt getikt**. Als het elke keer moet worden weergegeven, ongeacht wat de ontvanger doet, kiest u **Elke keer**.
+   >De standaardweergavelimiet is **[!UICONTROL Once per session]** . Selecteer **[!UICONTROL Every time until tapped]** als u wilt dat het bericht niet meer wordt weergegeven nadat de ontvanger heeft gereageerd. Kies **[!UICONTROL Every time]** als deze telkens moet worden weergegeven, ongeacht wat de ontvanger doet.
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 Mooi werk! Je hebt je publiek ingesteld. Je hebt de blauwe balk en het groene vinkje verdiend.
 
-Tijd tot [uw bericht in de app selecteren](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Tijd aan [ selecteert uw in-app bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

@@ -1,31 +1,31 @@
 ---
-description: Stap 3 van 4 - Opstelling Clienttoepassing op de Dynamica van MS - de Documentatie van Marketo - de Documentatie van het Product
-title: Stap 3 van 4 - Opstelling Clienttoepassing op de Dynamica van MS
+description: Stap 3 van 4 - De Toepassing van de Cliënt van de Opstelling op MS  [!DNL Dynamics]  - de Documenten van Marketo - de Documentatie van het Product
+title: Stap 3 van 4 - De Toepassing van de Cliënt van de Opstelling op MS  [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-# Stap 3 van 4: Client-toepassing instellen op MS Dynamics {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
+# Stap 3 van 4: Client App instellen op MS [!DNL Dynamics] {#step-3-of-4-set-up-client-app-ms-dynamics-ropc}
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 4: Installeer de Marketo-oplossing met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
->* [Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+>* [ Stap 1 van 4: Installeer de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
+>* [ Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
-1. Hiernaar navigeren [Microsoft-artikel](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
+1. Navigeer aan dit [ artikel van Microsoft ](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
-1. Voer alle stappen uit. Voer bij Stap 3 een relevante toepassingsnaam in (bijvoorbeeld &quot;Marketo Integration&quot;). Selecteer onder Ondersteunde accounttypen alleen Account in deze directory.
+1. Voer alle stappen uit. Voor Stap 3, ga een relevante toepassingsnaam (bijvoorbeeld, &quot;[!DNL Marketo Integration]&quot;) in. Selecteer onder Ondersteunde accounttypen alleen Account in deze directory.
 
 1. Schrijf de toepassings-id (ClientId) op. Je moet het later in Marketo invoeren.
 
-1. Toestemming van beheerder verlenen door de stappen in [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
+1. De toestemming van Admin van de subsidie door de stappen in [ dit artikel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"} te volgen.
 
-1. Een clientgeheim genereren in het beheercentrum door op **[!UICONTROL Certificates & secrets]**.
+1. Genereer een clientgeheim in het beheercentrum door op **[!UICONTROL Certificates & secrets]** te klikken.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-2.png)
 
-1. Een beschrijving van een clientgeheim toevoegen en klikken **[!UICONTROL Add]**.
+1. Voeg een beschrijving van Clientgeheim toe en klik op **[!UICONTROL Add]** .
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-3.png)
 
@@ -43,18 +43,18 @@ ht-degree: 0%
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-4.png)
 
-## Azure AD Federated met AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
+## [!DNL Azure AD] Gecombineerd met [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 
-Federated Azure AD to ADFS Onprem heeft de creatie nodig van een Home Realm Discovery-beleid voor de specifieke toepassing. Met dit beleid, zal Azure AD het authentificatieverzoek aan de dienst van de federatie opnieuw richten. Synchronisatie van wachtwoordhash moet hiervoor worden ingeschakeld in AD Connect. Zie voor meer informatie [OAuth met ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc){target="_blank"} and [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application){target="_blank"}.
+Federated [!DNL Azure] AD to [!DNL ADFS Onprem] heeft de creatie van een beleid van de Ontdekking van het Huis voor de specifieke toepassing nodig. Met dit beleid, [!DNL Azure] AD zal het authentificatieverzoek aan de dienst van de federatie opnieuw richten. Synchronisatie van wachtwoordhash moet hiervoor in [!DNL AD Connect] zijn ingeschakeld. Voor meer informatie, gelieve te zien [[!DNL OAuth]  met  [!DNL ROPC] ](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) en [ plaats een harde beleid voor een toepassing ](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Aanvullende verwijzingen [hier te vinden](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
+De extra verwijzingen [ kunnen hier ](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"} worden gevonden.
 
 ## Voordat u verdergaat met stap 4 {#before-proceeding-to-step-4}
 
-* Als u het aantal records dat u synchroniseert wilt beperken, [een aangepast synchronisatiefilter instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"} nu.
-* Voer de [Microsoft Dynamics Sync valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"} proces. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
-* Meld u aan bij Marketo Sync User in Microsoft Dynamics CRM.
+* Als u het aantal verslagen wilt beperken u synchroniseert, [ opstelling een filter van de douanesynchronisatie ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Stel [ in werking bevestigt  [!DNL Microsoft Dynamics]  Synchronisatie ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) proces. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
+* Meld u aan bij Marketo Sync User in [!DNL Microsoft Dynamics] CRM.
 
 >[!MORELIKETHIS]
 >
->* [Stap 4 van 4: Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md){target="_blank"}
+>* [ Stap 4 van 4: Verbind de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md){target="_blank"}

@@ -1,35 +1,35 @@
 ---
 unique-page-id: 4720796
-description: Opnieuw toewijzen met persoonlijke gegevens op het web - Marketo Docs - Productdocumentatie
-title: Opnieuw toewijzen met webpersonalisatiegegevens
+description: Opnieuw toewijzen met Personalization-gegevens op het web - Marketo Docs - Productdocumentatie
+title: Opnieuw toewijzen met Personalization-gegevens op het web
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '381'
+ht-degree: 1%
 
 ---
 
-# Opnieuw toewijzen met webpersonalisatiegegevens {#retargeting-with-web-personalization-data}
+# Opnieuw toewijzen met [!DNL Web Personalization] gegevens {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->Het opnieuw plaatsen van websites valt nu onder de tegel voor webpersonalisatie. Als u alleen Retargeting hebt aangeschaft, wordt deze tegel weergegeven en kunt u het product voor webpersonalisatie openen met **alleen** Functies voor opnieuw groeperen ingeschakeld. Op deze manier hebt u toegang tot accountinstellingen, de pagina Opnieuw rangschikken, segmenten en extra pagina&#39;s voor bijhouden.
+>Het opnieuw plaatsen van websites valt nu onder de Web Personalization-tegel. Als u slechts het Terugwinnen kocht, zult u deze tegel zien en tot het [!DNL Web Personalization] product met **slechts** toegang hebben toegelaten het opnieuw samenbrengen eigenschappen. Op deze manier hebt u toegang tot accountinstellingen, de pagina Opnieuw rangschikken, segmenten en extra pagina&#39;s voor bijhouden.
 
 Opmerkingen zijn gericht op de vooruitzichten die uw site in het verleden hebben bezocht, met behulp van weergaveadvertenties op basis van wie ze zijn en wat ze hebben gedaan. Speciale doelgroepen richten zich op specifieke doelgroepen met relevante advertenties op basis van de industrie, benoemde accounts en bekende persoongegevens.
 
-De Personalisering van het Web voegt momenteel gegevens aan de volgende remarketing platforms toe:
+Web Personalization voegt momenteel gegevens toe aan de volgende remarketing platforms:
 
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-De Personalisering van het Web verzendt de volgende gegevens door naar de remarketing platforms om publiek tot stand te brengen en remarketing ad campagnes in werking te stellen:
+[!DNL Web Personalization] stuurt de volgende gegevens door naar de wedermarketingplatforms om een publiek te maken en advertentiecampagnes voor opnieuw marketing uit te voeren:
 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">Gegevens voor webpersonalisatie</th> 
+   <th colspan="1">[!DNL Web Personalization] Data</th> 
   </tr> 
   <tr> 
    <th><p>Marktsegment</p></th> 
@@ -54,7 +54,7 @@ De Personalisering van het Web verzendt de volgende gegevens door naar de remark
 
 ## Opmerking configuratie {#remarketing-configuration}
 
-1. Ga naar **Opnieuw rangschikken**.
+1. Ga naar **[!UICONTROL Retargeting]** .
 
    ![](assets/one.png)
 
@@ -62,21 +62,21 @@ De Personalisering van het Web verzendt de volgende gegevens door naar de remark
    >
    >De configuratie voor opnieuw toewijzen is per domein of subdomein. Activeer de andere domeinen als u gegevens van die domeinen door aan het opnieuw richten platform wilt verzenden.
 
-1. Activeer Instellingen voor Google Analytics of Google Universal Analytics per domein.
+1. Activeer Instellingen voor Google Analytics of [!DNL Google Universal Analytics] per domein.
 
    >[!NOTE]
    >
    >De Google-tag voor opnieuw plaatsen moet op uw website zijn geïmplementeerd.
    >
-   >Als u reeds uw Integratie met de Personalisering van het Web en Google Analytics opstelde, te hoeven u niet om dit deel uit te geven aangezien het de zelfde configuratie onder de Montages van de Rekening is.
+   >Als u al een integratie hebt ingesteld met Web Personalization en Google Analytics, hoeft u dit onderdeel niet te bewerken omdat het dezelfde configuratie is onder Accountinstellingen.
 
    ![](assets/two.png)
 
-1. Activeer de configuratie voor Facebook. Klik en vouw de accordeon van Facebook uit, klik **Aan** om de desbetreffende gebeurtenis en gegevens door te sturen naar Facebook Audience Manager. Klikken **Opslaan**.
+1. Activeer de configuratie voor Facebook. Klik op de accordeon [!DNL Facebook] en vouw deze uit. Klik op **[!UICONTROL On]** om de desbetreffende gebeurtenis en gegevens naar Facebook Audience Manager te verzenden. Klik op **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
-   >U moet [Pixel aangepast publiek facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Deze functie werkt pas nadat u uw website hebt geïnstalleerd.
+   >U moet [[!DNL Facebook]  het Pixel van het Publiek van de Douane hebben ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) uw website voor deze eigenschap geïnstalleerd om te werken.
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een pub
 >
 >Er is geen behoefte om een Gesegmenteerd Publiek voor de industrie of andere gegevens tot stand te brengen die reeds door in de Configuratie van het Domein zijn verzonden. Het is best om Gesegmenteerde Publiek voor segmenten te gebruiken die op bekende persoongegevens worden gebaseerd.
 
-1. Klikken **Gesegmenteerd publiek maken**.
+1. Klik op **[!UICONTROL Create Segmented Audience]**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een pub
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
-   U hebt nu de Opnieuw richtende Opstelling in de Personalisering van het Web voltooid, login aan uw het opnieuw richten platforms en creeer uw publiek dat op deze gegevens wordt gebaseerd en opstelling uw het opnieuw richten advertentiecampagnes.
+   U hebt nu de instelling Opnieuw voorbereiden in [!DNL Web Personalization] voltooid, zich aan te melden bij heroriënterende platforms en op basis van deze gegevens een publiek te maken en uw opnieuw gerichte advertentiecampagnes in te stellen.

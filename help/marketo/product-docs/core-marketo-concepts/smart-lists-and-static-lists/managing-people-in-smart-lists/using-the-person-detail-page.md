@@ -4,10 +4,10 @@ description: De persoonlijke detailpagina gebruiken - Marketo Docs - Productdocu
 title: De detailpagina voor personen gebruiken
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 13%
+source-wordcount: '525'
+ht-degree: 14%
 
 ---
 
@@ -19,10 +19,10 @@ De pagina met persoonlijke details bevat alle informatie die Marketo over een pe
 
 Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden zijn:
 
-* Van de **Database**, kunt u zoeken in Snel zoeken
-* Alle **Slimme lijst** of lijst
-* **Leden** tabblad van een programma
-* **Campagneleden weergeven** in een slimme campagne
+* Van het **Gegevensbestand**, kunt u in de Snelle Vondst zoeken
+* Om het even welke **Slimme Lijst** of lijst
+* **Leden** lusje van een programma
+* **de Leden van de Campagne van de Mening** in een Slimme Campagne
 * Sommige **rapporten**
   <br> 
 
@@ -60,7 +60,7 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 
 >[!NOTE]
 >
->U kunt ook informatie over opportunity zien [ingevoegd via API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities) voor instanties die niet zijn gesynchroniseerd met een CRM.
+>U kunt de info van de Kans [ ook zien die via API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) voor instanties wordt opgenomen die niet met CRM worden gesynchroniseerd.
 
 ## Een veld bewerken {#editing-a-field}
 
@@ -80,12 +80,12 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 | Marktsegment | Overgenomen stad | Afgeleid bedrijf | Afgeleid land | Overgenomen metropolitaans gebied |
 | Gebiedscode afgeleide telefoon | Postcode | Gebied van de betrokken staat | Is anoniem | Is klant |
 | Is partner | Beroep | Achternaam | Classificatie | Score |
-| Bron persoon | Status | Telefoon | Marketo Social Facebook Display Name | Marketo Social Facebook ID |
-| Marketo Social Facebook Foto-URL | Marketo Social Facebook Profile URL | Marketo Social Facebook Reach | Inschrijvingen verwezen naar Marketo Social Facebook | Bezoeken verwezen naar Marketo Social Facebook |
-| Marketo Social Gender | Inschrijving als laatste verwijzing voor Marketo Social | Bezoek van laatst vermelde Marketo Social | Marketo Social LinkedIn Display Name | Marketo Social LinkedIn ID |
-| Marketo Social LinkedIn Foto-URL | Marketo Social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Inschrijvingen verwezen naar Marketo Social LinkedIn | Bezoeken verwezen naar Marketo Social LinkedIn |
-| Marketo Social Syndication ID | Marketo Social Total Vermeld inschrijvingen | Marketo Sociale Totaal Aangewezen bezoeken | Weergavenaam sociale Twitter van Marketo | Marketo ID sociale Twitter |
-| Marketo Sociale Twitter Foto-URL | Marketo URL profiel voor sociale Twitter | Marketo Social Twitter Reach | Sociale Twitter van Marketo — Inschrijvingen | Bezoeken van de sociale Twitter van Marketo |
+| Person Source | Status | Telefoon | Marketo Social-weergavenaam [!DNL Facebook] | Marketo Social [!DNL Facebook] ID |
+| Marketo Social-URL [!DNL Facebook] | Marketo Social [!DNL Facebook] Profile URL | Marketo Social [!DNL Facebook] Reach | Marketo Social [!DNL Facebook] (Aangewezen inschrijvingen) | Sociale bezoeken van Marketo [!DNL Facebook] |
+| Marketo Social Gender | Inschrijving als laatste verwijzing voor Marketo Social | Bezoek van laatst vermelde Marketo Social | Marketo Social-weergavenaam [!DNL LinkedIn] | Marketo Social [!DNL LinkedIn] ID |
+| Marketo Social-URL [!DNL LinkedIn] | Marketo Social [!DNL LinkedIn] Profile URL | Marketo Social [!DNL LinkedIn] Reach | Marketo Social [!DNL LinkedIn] (Aangewezen inschrijvingen) | Sociale bezoeken van Marketo [!DNL LinkedIn] |
+| Marketo Social Syndication ID | Marketo Social Total Vermeld inschrijvingen | Marketo Sociale Totaal Aangewezen bezoeken | Marketo Social-weergavenaam [!DNL Twitter] | Marketo Social [!DNL Twitter] ID |
+| Marketo Social-URL [!DNL Twitter] | Marketo Social [!DNL Twitter] Profile URL | Marketo Social [!DNL Twitter] Reach | Marketo Social [!DNL Twitter] (Aangewezen inschrijvingen) | Sociale bezoeken van Marketo [!DNL Twitter] |
 | Tussenvoegsel | Mobiel | Aantal werknemers | Telefoonnummer | Postcode |
 | Prioriteit | Relatieve score | Functie | Aanhef | SIC-code |
 | Vestiging | Staat | Niet geabonneerd | Reden voor niet geabonneerd | Bijgewerkt op |
@@ -93,15 +93,15 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 
 >[!NOTE]
 >
->Sommige velden zijn _niet_ bewerkbaar:
+>Sommige gebieden zijn _niet_ editable:
 >
 >* Activiteitenlogboek
 >* Bedrijfsgegevens
 >* Mogelijkheden voor SFDC-contactpersonen
->* Bepaalde Marketo-specifieke velden, zoals Aanmaakdatum en Oorspronkelijk brontype.
+>* Bepaalde Marketo-specifieke velden, zoals Aanmaakdatum en Oorspronkelijk Source-type.
 >
->Meer informatie over [Door het systeem beheerde velden](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>Leer meer over [ Systeem Beheerde Gebieden ](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Een aangepast tabblad maken voor de detailpagina voor personen](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[ Creërend een Lusje van de Douane voor de Pagina van het Detail van de Persoon ](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

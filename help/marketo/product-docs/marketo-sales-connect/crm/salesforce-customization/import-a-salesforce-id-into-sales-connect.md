@@ -1,22 +1,27 @@
 ---
 unique-page-id: 14352469
 description: Een Salesforce-id importeren in Sales Connect - Marketo Docs - Productdocumentatie
-title: Een Salesforce-id importeren in Sales Connect
+title: Salesforce-id importeren in Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# Een Salesforce-id importeren in Sales Connect {#import-a-salesforce-id-into-sales-connect}
+# Salesforce-id importeren in Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
-Sales Connect gebruikt de contact- of lead-id (ook wel Salesforce-id genoemd) voor een correcte aanmelding bij Salesforce. U kunt uw Salesforce-id op een aantal manieren aan uw contactpersonen in Sales Connect koppelen.
+[!DNL Sales Connect] gebruikt de contact- of lood-id (ook wel [!DNL Salesforce] ID genoemd) om loginformatie correct aan te brengen [!DNL Salesforce] . Er zijn een paar manieren waarop u uw [!DNL Salesforce] id aan uw contacten in [!DNL Sales Connect] kunt vastmaken.
 
-[Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Als u Push to Sales Connect gebruikt, wordt in Sales Connect een contactpersoon gemaakt met alle belangrijke contactgegevens, waaronder de Salesforce-id van de lead/contactpersoon.
+[ Duw aan Verkoop verbindt ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Het gebruiken van Duw aan Verkoop verbindt zal tot een contact binnen leiden
+[!DNL Sales Connect] met alle essentiële contactgegevens, inclusief de lead/contactpersoon
+[!DNL Salesforce] ID.
 
-[Verstuur de Verkoop E-mail van Marketo, voeg aan Campagne toe en klik om Knopen in SFDC te roepen](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): Wanneer u een van deze drie knoppen in Salesforce gebruikt, wordt het contact naar Sales Connect via de Salesforce-id verzonden.
+[ verzendt de Verkoop E-mail van Marketo, voegt aan Campagne toe, en klikt om Knopen in SFDC ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md) te roepen: Wanneer u om het even welk van deze drie knopen in gebruikt
+[!DNL Salesforce] , wordt de contactpersoon naar
+[!DNL Sales Connect] met de
+[!DNL Salesforce] ID.
 
-[CSV importeren](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Als u een lijst met leads/contactpersonen vanuit Salesforce exporteert en u neemt een kolom op met de Salesforce-id, kunt u het veld tijdens het importeren toewijzen aan Sales Connect.
+[ de Invoer CSV ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): Als u een lijst van lood/contacten van Salesforce uitvoert en u een kolom met [!DNL Salesforce] identiteitskaart omvat, kunt u het gebied aan [!DNL Sales Connect] bij de invoer in kaart brengen.

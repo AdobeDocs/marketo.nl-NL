@@ -4,9 +4,9 @@ description: Typen campagnegappen - Marketo Docs - Productdocumentatie
 title: Typen campagneringstap
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 ![](assets/email.png)
 
-| **Een sjabloon gebruiken** | Selecteer een van uw bestaande sjablonen |
+| **Gebruik een Malplaatje** | Selecteer een van uw bestaande sjablonen |
 |---|---|
-| **Opslaan als sjabloon** | E-mail opslaan die u net hebt samengesteld als een nieuwe sjabloon |
-| **Inhoud toevoegen** | Upload een bestand naar onze server en ontvang een URL (die naar de inhoud verwijst) die in uw e-mail kan worden gevolgd |
-| **Bestanden bijvoegen** | Een bestand vanaf uw computer bijvoegen bij het e-mailbericht (maximaal 23 MB) |
+| **sparen als Malplaatje** | E-mail opslaan die u net hebt samengesteld als een nieuwe sjabloon |
+| **voeg Inhoud** toe | Upload een bestand naar onze server en ontvang een URL (die naar de inhoud verwijst) die in uw e-mail kan worden gevolgd |
+| **maak Dossiers** vast | Een bestand vanaf uw computer bijvoegen bij het e-mailbericht (maximaal 23 MB) |
 
 >[!TIP]
 >
->Meer informatie over uw [verzendopties](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Leer de details over uw [ verzendende opties ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Bellen {#call}
 
@@ -41,7 +41,7 @@ Plaats een herinnering aan follow-up met een contact via telefoon. U kunt nota&#
 
 ## InMail {#inmail}
 
-Het volgen op veelvoudige kanalen is een uitstekende manier om met lood te verbinden. Met InMail-taken kunt u een herinnering instellen die u via LinkedIn kunt bereiken.
+Het volgen op veelvoudige kanalen is een uitstekende manier om met lood te verbinden. Met InMail-taken kunt u een herinnering instellen die u via [!DNL LinkedIn] kunt bereiken.
 
 ![](assets/inmail.png)
 

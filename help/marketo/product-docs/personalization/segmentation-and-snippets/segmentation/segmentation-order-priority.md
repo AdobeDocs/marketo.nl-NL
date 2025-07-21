@@ -4,31 +4,31 @@ description: Prioriteit segmentatievolgorde - Marketo-documenten - productdocume
 title: Prioriteit segmentvolgorde
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 0dd2aa60bd1cac141d57188d0e618702143e2671
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 # Prioriteit segmentvolgorde {#segmentation-order-priority}
 
-Het is belangrijk te begrijpen hoe **bestellen** bepaalt de prioriteit voor evaluatie van uw mensen in een segmentatie.
+Het is belangrijk om te begrijpen hoe **orde** de prioriteit voor evaluatie van uw mensen in een segmentatie plaatst.
 
 >[!PREREQUISITES]
 >
->[Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Segmentregels definiëren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>>[Segmentregels definiëren ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >U kunt een segmentatie alleen bewerken in de conceptmodus.
 
-1. Ga naar de **Database**.
+1. Ga naar het **Gegevensbestand**.
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Selecteer uw **Segmentering**. In **Segmentatiehandelingen**, klikt u op **Segmenten bewerken**.
+1. Selecteer uw **Segmentatie**. Klik in **[!UICONTROL Segmentation Actions]** op **[!UICONTROL Edit Segments]** .
 
    ![](assets/segmentation-order-priority-2.png)
 

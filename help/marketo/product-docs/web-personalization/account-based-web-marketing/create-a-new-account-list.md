@@ -4,9 +4,9 @@ description: Een nieuwe accountlijst maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe accountlijst maken
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -17,38 +17,38 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 >[!NOTE]
 >
->Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u Web ABM na september 2016 hebt aangeschaft, volgt u de stappen in [dit artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
+>Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u het Web ABM na September van 2016 verwierf, te volgen gelieve de stappen in [ dit artikel ](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list-1}
 
-1. Ga naar **Accountlijsten**.
+1. Ga naar **[!UICONTROL Account Lists]** .
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Selecteren **Nieuw maken**.
+1. Selecteer **[!UICONTROL Create New]** .
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Selecteren **Bladeren** en uploadt u het CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een **Naam** en **Beschrijving**. Klikken **Opslaan**.
+1. Selecteer **[!UICONTROL Browse]** en upload uw CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een lus **[!UICONTROL List Name]** en **[!UICONTROL Description]** toe. Klik op **[!UICONTROL Save]**.
 
    ![](assets/create-account-list-hands.jpg)
 
    >[!NOTE]
    >
-   >**Wat is de indeling voor het CSV-bestand?**
+   >**wat is het formaat voor het Csv- Dossier?**
    >
    >Zorg ervoor dat het CSV-bestand van de benoemde account aan de volgende vereisten voldoet:
    >
    >* Opgeslagen als CSV-indeling
    >* Niet groter dan 10 MB
-   >* Slechts 4 kolommen met kopkolom A: Naam, kolom B: Domein, kolom C: Land, kolom D: Amerikaanse staat.
+   >* Slechts vier kolommen met de koptekst Kolom A: Naam, Kolom B: Domein, Kolom C: Land, Kolom D: Staat VS.
    >* Het uploaden van een bestand kan maximaal twee werkdagen duren voordat het is goedgekeurd.
    >* U ontvangt een goedkeuringsbericht per e-mail of de status van het bestand op de pagina Benoemde accounts.
    >* Het totale aantal records/rijen dat voor al uw geüploade lijsten is geaccumuleerd, begint bij 10K, met het grootste pakket in totaal 100K.
 
    >[!NOTE]
    >
-   >**Voorbeeld van het CSV-bestand**
+   >**Voorbeeld van het Csv- dossier**
    >
    >* Rij 1 kolom A waarde = Organisatie
    >* Rij 1 kolom B waarde = Domein
@@ -64,11 +64,11 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 ## Een accountlijst bewerken {#edit-an-account-list}
 
-Op de **Accountlijsten** pagina, klikt u op de knop **Bewerken** in de lijst.
+Voor de **pagina van de Lijsten van de Rekening**, klik **uitgeven** pictogram op de lijst.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Selecteren **Bladeren** en uploadt u uw nieuwe CSV-bestand. Dit bestand vervangt het oorspronkelijke bestand. Klikken **Opslaan**. Het nieuwe geüploade bestand bevindt zich in een status die in behandeling is totdat het is goedgekeurd door Marketo Support. In een status die in behandeling is, blijft het oorspronkelijke bestand actief.
+Selecteer **[!UICONTROL Browse...]** en upload uw nieuw CSV-bestand. Dit bestand vervangt het oorspronkelijke bestand. Klik op **[!UICONTROL Save]**. Het nieuwe geüploade bestand bevindt zich in een status die in behandeling is totdat het is goedgekeurd door Marketo Support. In een status die in behandeling is, blijft het oorspronkelijke bestand actief.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,14 +76,14 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 
 ## Een lijst met benoemde accounts verwijderen {#delete-a-named-account-list}
 
-1. Op de **Accountlijsten** klikt u op het pictogram Verwijderen van de lijst die u wilt verwijderen.
+1. Klik op de pagina **[!UICONTROL Account Lists]** op het pictogram Verwijderen van de lijst die u wilt verwijderen.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klikken **OK**.
+1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klik op **[!UICONTROL OK]**.
 
    ![](assets/delete-notification-hand.jpg)
 
 >[!MORELIKETHIS]
 >
->[Een segment maken met een accountlijst](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[ creeer een Segment Gebruikend een Lijst van de Rekening ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

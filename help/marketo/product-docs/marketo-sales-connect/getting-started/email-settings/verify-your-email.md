@@ -4,10 +4,10 @@ description: Verifieer uw e-mail - Marketo Docs - Productdocumentatie
 title: Uw e-mail verifiëren
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Voer de onderstaande stappen uit als u een e-mailidentiteit hebt die niet is geverifieerd.
 
-1. Klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Klik op het tandwielpictogram rechtsboven en kies **[!UICONTROL Settings]** .
 
    ![](assets/verify-your-email-1.png)
 
-1. Klik onder Mijn account op **E-mailinstellingen**.
+1. Klik onder [!UICONTROL My Account] op **[!UICONTROL Email Settings]** .
 
    ![](assets/verify-your-email-2.png)
 
-1. Zoek onder Adres en Handtekening de e-mailidentiteit die u wilt verifiëren en klik op **E-mail verifiëren opnieuw verzenden**. Er wordt een nieuw e-mailverificatiebericht verzonden.
+1. Zoek onder [!UICONTROL Address and Signature] de e-mailidentiteit die u wilt verifiëren en klik op **[!UICONTROL Resend Verify Email]** . Er wordt een nieuw e-mailverificatiebericht verzonden.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klikken **Opnieuw**.
+1. Klik op **[!UICONTROL Resend]**.
 
    ![](assets/verify-your-email-4.png)
 

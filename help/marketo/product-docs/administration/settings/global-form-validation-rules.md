@@ -3,16 +3,16 @@ description: Algemene regels voor formuliervalidatie - Marketo-documenten - prod
 title: Algemene regels voor formuliervalidatie
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 1%
 
 ---
 
 # Algemene regels voor formuliervalidatie {#global-form-validation-rules}
 
-Met deze functie kunt u blokkeren dat bepaalde domeinen formulieren naar een Marketo Engage verzenden.
+Met deze functie kunt u blokkeren dat specifieke domeinen naar Marketo Engage-formulieren verzenden.
 
 ## Hoe te om Toegang toe te laten {#how-to-enable-access}
 
@@ -34,7 +34,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Klik op het **+** -teken naast Access Admin.
+1. Klik **+** teken naast **Admin van de Toegang**.
 
    ![](assets/global-form-validation-rules-5.png)
 
@@ -46,7 +46,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 >[!IMPORTANT]
 >
->Deze regels zijn van toepassing op alle formulieren in uw abonnement(en) op Marketo&#39;s Engage.
+>Deze regels gelden voor alle formulieren in uw Marketo Engage-abonnement(en).
 
 1. Klik in Marketo op **[!UICONTROL Admin]** .
 
@@ -62,7 +62,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
    >[!NOTE]
    >
-   >Met de vervolgkeuzelijst Handelingen formuliervalidatieregel kunt u bestaande regels verwijderen of bewerken.
+   >Met de vervolgkeuzelijst [!UICONTROL Form Validation Rule Actions] kunt u bestaande regels verwijderen of bewerken.
 
 1. Geef de regel een naam, geef deze een optionele beschrijving en voer het foutbericht in dat de bezoekers van het formulier moeten zien. Voer in het vak Regels de domeinen in die u wilt blokkeren, selecteer **[!UICONTROL Activate Rule]** en klik op **[!UICONTROL Create]** .
 
@@ -70,7 +70,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 >[!NOTE]
 >
->Marketo Engage heeft een bepaalde lijst van gewezen personen van vrije consument e-maildomeinen die worden geblokkeerd wanneer het gebruiken van onze vooraf geladen &quot;Lijst van gewezen personen van het Domein van de Consumenten E-mail&quot; regel. [ Mening die lijst hier ](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om te downloaden, zorg ervoor uw browser bijgewerkt is en downloads kan goedkeuren).
+>Marketo Engage heeft een gedefinieerde lijst van gewezen personen met gratis e-maildomeinen voor consumenten die worden geblokkeerd wanneer onze vooraf geladen regel &#39;Consumer Email Domain Lijst van gewezen personen&#39; wordt gebruikt. [ Mening die lijst hier ](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om te downloaden, zorg ervoor uw browser bijgewerkt is en downloads kan goedkeuren).
 
 ## Toegang per formulier uitschakelen{#how-to-disable-access-per-form}
 

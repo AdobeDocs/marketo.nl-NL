@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## Een categorie maken {#create-a-category}
 
-1. Klik op de knop **Sjablonen** tab.
+1. Klik op de tab **[!UICONTROL Templates]** .
 
    ![](assets/manage-template-categories-1.png)
 
-1. Klik op de knop **+** pictogram naast **Categorieën**.
+1. Klik op het pictogram **+** naast **[!UICONTROL Categories]** .
 
    ![](assets/manage-template-categories-2.png)
 
-1. Voer een naam in voor de nieuwe rubriek en klik vervolgens op **Maken**.
+1. Voer een naam in voor de nieuwe categorie en klik op **[!UICONTROL Create]** .
 
    ![](assets/manage-template-categories-3.png)
 
 ## De naam van een sjablooncategorie wijzigen {#rename-a-template-category}
 
-1. Klik op de knop **Sjablonen** tab.
+1. Klik op de tab **[!UICONTROL Templates]** .
 
    ![](assets/manage-template-categories-4.png)
 
-1. Houd de muisaanwijzer boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteren **Naam wijzigen**.
+1. Houd de cursor boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteer **[!UICONTROL Rename]** .
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## Een sjablooncategorie verwijderen {#delete-a-template-category}
 
-1. Klik op de knop **Sjablonen** tab.
+1. Klik op de tab **[!UICONTROL Templates]** .
 
    ![](assets/manage-template-categories-7.png)
 
-1. Houd de muisaanwijzer boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteren **Verwijderen**.
+1. Houd de cursor boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteer **[!UICONTROL Delete]** .
 
    ![](assets/manage-template-categories-8.png)
 
-1. Klikken **Verwijderen** ter bevestiging.
+1. Klik op **[!UICONTROL Delete]** om te bevestigen.
 
    ![](assets/manage-template-categories-9.png)
 

@@ -4,20 +4,20 @@ description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailinzichten
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
 # Overzicht van e-mailinzichten {#email-insights-analytics-overview}
 
-Verken in Analytics geaggregeerde gegevens voor e-maillevering en betrokkenheid. Gebruik het diagram links om gegevens te verkennen, de inzichten aan de rechterkant voor een meer geleide ervaring.
+Verken in [!UICONTROL Analytics] geaggregeerde gegevens voor verzending en betrokkenheid via e-mail. Gebruik het diagram links om gegevens te verkennen, de inzichten aan de rechterkant voor een meer geleide ervaring.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filteren](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is beschikbaar om u te helpen naar beneden voor specifieke metriek boren.
+[ het Filtreren ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is beschikbaar om u te helpen naar beneden voor specifieke metriek boren.
 
 ![](assets/filter-field.png)
 
@@ -41,11 +41,11 @@ De grafiek toont uw gefilterde criteria. Als u een van uw filters wilt verbergen
 
 ![](assets/chart1.png)
 
-...en de metrische waarde verdwijnt uit het diagram. Klik nogmaals op de kleurenbalk om deze opnieuw weer te geven.
+...en de metrische code verdwijnt uit het diagram. Klik nogmaals op de kleurenbalk om deze opnieuw weer te geven.
 
 ![](assets/chart2.png)
 
-Als u een grafiek maakt die u opnieuw wilt gebruiken, maakt u er een [sneldiagram](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het a [ snelle grafiek ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -55,12 +55,12 @@ Aan de rechterkant van de pagina helpen geleide meetgegevens u relevante stuurpr
 
 >[!NOTE]
 >
->Zie je dat Vernieuwen in de rechterbovenhoek? Wanneer u het ziet, zult u het moeten manueel klikken om de module van Inzichten te verfrissen. Dit wordt alleen weergegeven wanneer u een wijziging in filters hebt aangebracht waardoor de huidige waarden ongeldig worden.
+>Zie je dat [!UICONTROL Refresh] rechtsboven? Wanneer u het ziet, zult u het moeten manueel klikken om de module van Inzichten te verfrissen. Dit wordt alleen weergegeven wanneer u een wijziging in filters hebt aangebracht waardoor de huidige waarden ongeldig worden.
 
-U kunt ook opgeven wat u ziet (van links naar rechts): Alles, Publiek, Inhoud en Platform.
+U kunt ook opgeven wat u ziet (van links naar rechts): Alle, Publiek, Inhoud en Platform.
 
 ![](assets/guided-bar.png)
 
 >[!MORELIKETHIS]
 >
->[E-mailinzichten verzenden overzicht](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[ e-mailInzichten verzendt Overzicht ](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

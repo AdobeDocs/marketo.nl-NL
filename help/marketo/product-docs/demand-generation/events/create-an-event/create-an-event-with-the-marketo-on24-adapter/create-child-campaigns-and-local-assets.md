@@ -4,9 +4,9 @@ description: Onderliggende campagnes en lokale Assets maken - Marketo Docs - Pro
 title: Onderliggende campagnes en lokale Assets maken
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '650'
 ht-degree: 1%
 
 ---
@@ -73,25 +73,25 @@ Voorbeelden van kindercampagnes zijn een uitnodigingscampagne, een registratieca
 
 >[!NOTE]
 >
->Als u een vorm van Marketo op een niet-Marketo landende pagina gebruikt, zal uw trekker **Vult Vorm** met de Naam van de Vorm uit.
+>Als u een Marketo-formulier gebruikt op een landingspagina die geen Marketo is, is de trigger **[!UICONTROL Fills out Form]** met de [!UICONTROL Form Name] .
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Stroom**
 
-* **Status van het Programma van de Verandering** - reeks aan Webinar -> Geregistreerd.
+* **[!UICONTROL Change Program Status]** - Instellen op webinar -> Geregistreerd.
 
 Deze stroomstap is vereist als de EERSTE STROOMSTAP bij het instellen van uw onderliggende campagne. Wanneer de status van het programma van een persoon verandert in Geregistreerd, plaatst Marketo de registratiegegevens op ON24. Geen andere status zal de persoon over duwen.
 
-* **verzend E-mail** - Bevestigings e-mail. Plaats deze e-mail aan **Operationeel** zodat unsubscribed mensen die nog het hebben geregistreerd ontvangen.
+* **[!UICONTROL Send Email]** - Bevestigingse-mail. Plaats deze e-mail aan **Operationeel** zodat unsubscribed mensen die nog het hebben geregistreerd ontvangen.
 
-De **verzendt E-mail** stroomstap MOET de tweede stap zijn. Het bevestigingsbericht bevat de `{{member.webinar url}}` , die wordt gevuld met informatie die vanuit ON24 naar Marketo wordt verzonden.
+De **[!UICONTROL Send Email]** -stap MOET de tweede stap zijn. Het bevestigingsbericht bevat de `{{member.webinar url}}` , die wordt gevuld met informatie die vanuit ON24 naar Marketo wordt verzonden.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->De volgorde van deze stroomstappen is belangrijk vanwege de volgorde waarin acties worden uitgevoerd in Marketo. De **stap van de Status van het Programma van de Verandering** verzendt de persoon naar ON24 om te registreren en een unieke URL wordt geproduceerd. Hierna kunt u het bevestigingsbericht met deze unieke URL verzenden met de token `{{member.webinar URL}}` .
+>De volgorde van deze stroomstappen is belangrijk vanwege de volgorde waarin acties worden uitgevoerd in Marketo. De stap **[!UICONTROL Change Program Status]** verzendt de persoon naar ON24 om te registreren en een unieke URL wordt geproduceerd. Hierna kunt u het bevestigingsbericht met deze unieke URL verzenden met de token `{{member.webinar URL}}` .
 >
 >Als de persoon wordt geretourneerd met een registratiefout, wordt de e-mailbevestiging niet ontvangen.
 

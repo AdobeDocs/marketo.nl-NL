@@ -1,18 +1,18 @@
 ---
-description: Standaardveldtoewijzing voor beeldschermen - Marketo Docs - Productdocumentatie
-title: Standaardveldtoewijzing
+description: Standaard  [!DNL Veeva]  Afbeelding van het Gebied - de Documenten van Marketo - de Documentatie van het Product
+title: Standaard  [!DNL Veeva]  Toewijzing van het Gebied
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 27%
+source-wordcount: '253'
+ht-degree: 29%
 
 ---
 
-# Standaardveldtoewijzing {#default-veeva-field-mapping}
+# Standaardveldtoewijzing [!DNL Veeva] {#default-veeva-field-mapping}
 
-Wanneer u uw Marketo Engage-account aanvankelijk synchroniseert met Veeva, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde Veva- en Marketo-velden. Marketo synchroniseert ook uw aangepaste velden op uw accounts en contactpersonen.
+Wanneer u uw Marketo Engage-account voor het eerst synchroniseert met [!DNL Veeva] , maakt Marketo automatisch deze koppelingen tussen uw ingebouwde [!DNL Veeva] - en Marketo-velden. Marketo synchroniseert ook uw aangepaste velden op uw accounts en contactpersonen.
 
 ## Contactvelden {#contact-fields}
 
@@ -34,7 +34,7 @@ Wanneer u uw Marketo Engage-account aanvankelijk synchroniseert met Veeva, maakt
     </tr>
     <tr>
       <td>Aanmaakdatum</td>
-      <td>Aanmaakdatum SFDC</td>
+      <td>Aanmaakdatum van SFDC</td>
     </tr>
     <tr>
       <td>Beschrijving contactpersoon</td>
@@ -192,7 +192,7 @@ Wanneer u uw Marketo Engage-account aanvankelijk synchroniseert met Veeva, maakt
   </tbody>
 </table>
 
-## Veeva-gerelateerde systeemvelden in Marketo (alleen-lezen) {#veeva-related-system-fields-in-marketo}
+## [!DNL Veeva] Verwante systeemvelden in Marketo (alleen-lezen) {#veeva-related-system-fields-in-marketo}
 
 Deze velden worden gemaakt in Marketo, maar kunnen niet worden aangepast door klanten.
 
@@ -209,20 +209,20 @@ Deze velden worden gemaakt in Marketo, maar kunnen niet worden aangepast door kl
   </thead>
   <tbody>
     <tr>
-      <td>Veeva-id</td>
-      <td>Salesforce-id van 18 tekens</td>
+      <td>[!DNL Veeva] Id</td>
+      <td>De id van 18 tekens [!DNL Salesforce]</td>
     </tr>
     <tr>
-      <td>Veeva Type</td>
-      <td>Contact opnemen. Als de lead leeg is, bestaat deze alleen als een persoon in Marketo</td>
+      <td>[!DNL Veeva] Type</td>
+      <td>Contact opnemen. Indien leeg, bestaat de lead alleen als een persoon in Marketo</td>
     </tr>
     <tr>
-      <td>Veeva Gemaakt op</td>
+      <td>[!DNL Veeva] Aanmaakdatum</td>
       <td>Datum gemaakt in SFDC (kan anders zijn dan Gemaakt in Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva wordt verwijderd</td>
-      <td>Persoon was in SFDC maar werd verwijderd en woont nu alleen in Marketo</td>
+      <td>[!DNL Veeva] wordt verwijderd</td>
+      <td>Persoon was in SFDC, maar werd verwijderd en woont nu alleen in Marketo</td>
     </tr>
   </tbody>
 </table>

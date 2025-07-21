@@ -4,20 +4,20 @@ description: Opportuniteitsfilters en -triggers - Marketo Docs - Productdocument
 title: Opportuniteitsfilters en -triggers
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
 # Opportuniteitsfilters en -triggers {#opportunity-filters-and-triggers}
 
-Met opportuniteitsfilters en -triggers kunt u opportuniteitsgebeurtenissen bijhouden vanuit Salesforce. Ze zijn iets anders dan andere filters en triggers.
+Met opportuniteitsfilters en -triggers kunt u opportuniteitsgebeurtenissen bijhouden vanuit [!DNL Salesforce] . Ze zijn iets anders dan andere filters en triggers.
 
 ## Opportuniteitsfilters {#opportunity-filters}
 
-Met opportuniteitsfilters kunt u bogen in uw Salesforce-leads die mogelijkheden hebben. U kunt deze vinden in de map Opportunity van het palet wanneer u een slimme lijst bewerkt. Ze komen in een paar kleven.
+Met opportuniteitsfilters kun je naar Salesforce-leads gaan die mogelijkheden hebben. U kunt deze vinden in de map Opportunity van het palet wanneer u een slimme lijst bewerkt. Ze komen in een paar kleven.
 
 * Aantal opties
 * Totaal aantal opty&#39;s

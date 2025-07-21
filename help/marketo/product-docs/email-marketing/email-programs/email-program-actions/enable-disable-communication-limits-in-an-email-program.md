@@ -4,22 +4,22 @@ description: Communicatielimieten in-/uitschakelen in een e-mailprogramma - Mark
 title: Communicatielimieten in-/uitschakelen in een e-mailprogramma
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
 # Communicatielimieten in-/uitschakelen in een e-mailprogramma {#enable-disable-communication-limits-in-an-email-program}
 
-Als u een e-mailprogramma uitvoert, kunt u ervoor kiezen de [communicatielimieten op beheerniveau](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Zo doe je het.
+Wanneer het runnen van een e-mailprogramma, kunt u verkiezen om de [ communicatielimieten van het adminniveau te negeren of te respecteren ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Zo doe je het.
 
 >[!NOTE]
 >
->Communicatiegrenzen zijn [instellen in de sectie Beheer](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) en helpt u te voorkomen dat u één persoon te veel e-mails stuurt.
+>De communicatielimieten worden [ geplaatst in de Admin sectie ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) en helpen u vermijden verzendend één persoon teveel e-mails.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +27,12 @@ Als u een e-mailprogramma uitvoert, kunt u ervoor kiezen de [communicatielimiete
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Onder de **Instellen** dubbelklikt u op het regelitem voor de communicatielimiet.
+1. Dubbelklik op het regelitem voor de communicatielimiet onder het tabblad **[!UICONTROL Setup]** .
 
    ![](assets/blockoperational.png)
 
-1. Niet-operationele e-mailberichten worden standaard geblokkeerd als de communicatielimieten zijn bereikt, maar als u deze wilt omzeilen, schakelt u het selectievakje uit en klikt u op **Opslaan**.
+1. Niet-operationele e-mailberichten worden standaard geblokkeerd als de communicatielimieten zijn bereikt, maar als u deze wilt omzeilen, schakelt u het selectievakje uit en klikt u op **[!UICONTROL Save]** .
 
    ![](assets/ifaperson.jpg)
 
-   Bladeren **Niet-operationele e-mailberichten blokkeren** Als deze optie is ingeschakeld, wordt het e-mailbericht niet verzonden naar iedereen die meer e-mails heeft ontvangen dan is toegestaan door uw beheerinstellingen.
+   Als u **[!UICONTROL Block non-operational emails]** ingeschakeld laat, wordt het bericht niet verzonden naar iedereen die meer e-mails heeft ontvangen dan is toegestaan door uw beheerinstellingen.

@@ -4,16 +4,16 @@ description: Werken met verzendopties - Marketo Docs - Productdocumentatie
 title: Opties voor verzenden
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
 # Opties voor verzenden {#understanding-send-options}
 
-Wanneer u een campagne maakt, hebt u verschillende opties voor het maken van uw e-mailstappen in Sales Connect. En, afhankelijk van waar uw e-mail in uw Campagne valt, verschillen uw opties ook.
+Wanneer u een campagne maakt, hebt u verschillende opties voor het maken van uw e-mailstappen in [!DNL Sales Connect] . En, afhankelijk van waar uw e-mail in uw Campagne valt, verschillen uw opties ook.
 
 Als het uw eerste stap en de eerste dag in uw Campagne is, zult u de volgende opties hebben:
 
@@ -30,11 +30,11 @@ Als het uw eerste stap en de eerste dag in uw Campagne is, zult u de volgende op
 
 **creeer een taak; ik zal deze e-mail zelf verzenden**
 
-* Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
+* Met deze optie maakt u een [!UICONTROL Email Task] (en synchroniseert u deze met [!DNL Salesforce] ) dat u naar wens kunt verzenden.
 * Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne start, zullen wij deze taken omhoog voor u in het Centrum van het Bevel en Levend Feed in de rij plaatsen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
    * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de gekozen sjabloon.
-   * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.
+   * Als u deze taak opent in [!DNL Gmail] of [!DNL Outlook] , wordt er een native samenstellingsvenster geopend waarin het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen, dynamisch worden ingevuld.
 
 Voor alle volgende dagen/stappen in uw campagne hebt u de volgende opties:
 
@@ -54,11 +54,11 @@ Voor alle volgende dagen/stappen in uw campagne hebt u de volgende opties:
 
 **creeer een taak; ik zal deze e-mail zelf verzenden**
 
-* Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
+* Met deze optie maakt u een [!UICONTROL Email Task] (en synchroniseert u deze met [!DNL Salesforce] ) dat u naar wens kunt verzenden.
 * Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne start, zal Tout deze taken omhoog voor u in het Centrum van het Bevel en Levende Diervoed in de rij plaatsen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
    * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de gekozen sjabloon.
-   * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.
+   * Als u deze taak opent in [!DNL Gmail] of [!DNL Outlook] , wordt er een native samenstellingsvenster geopend waarin het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen, dynamisch worden ingevuld.
 
 **Verbind deze e-mail met vorige e-mail**
 

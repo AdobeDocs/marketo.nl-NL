@@ -3,24 +3,24 @@ description: Toegang verlenen aan gebruikers - Marketo-documenten - Productdocum
 title: Toegang verlenen aan gebruikers
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Toegang verlenen aan gebruikers {#granting-access-to-users}
 
-Voer de stappen in dit artikel uit om uw Sales Connect-gebruikers toegang te verlenen tot de Marketo-verbinding. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
+Voer de stappen in dit artikel uit om uw [!DNL Sales Connect] -gebruikers toegang te verlenen tot de Marketo-verbinding. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
 
-U moet gebruikers uitnodigen voor Sales Connect [hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), voordat deze zichtbaar zijn op de pagina Marketo > Team Access (in Sales Connect), waar toegang tot de Marketo-verbinding wordt verleend.
+U zult gebruikers [!DNL Sales Connect] [ ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) moeten uitnodigen, alvorens zij in Marketo > [!UICONTROL Team Access] pagina (in [!DNL Sales Connect]) zichtbaar zijn, waar de toegang tot de verbinding van Marketo wordt verleend.
 
 >[!CAUTION]
 >
->Wacht tien minuten nadat u Sales Connect met Marketo hebt verbonden voordat u deze stappen uitvoert.
+>Wacht tien minuten nadat u verbinding hebt gemaakt met [!DNL Sales Connect] met Marketo voordat u deze stappen uitvoert.
 
-1. Selecteer een of meer gebruikers en klik op **Verbinden**.
+1. Selecteer een of meer gebruikers en klik op **[!UICONTROL Connect]** .
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ U moet gebruikers uitnodigen voor Sales Connect [hier](/help/marketo/product-doc
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Klik op de vervolgkeuzelijst Werkruimte, selecteer de gewenste werkruimte(n) en klik op **Verbinden**.
+1. Klik op de vervolgkeuzelijst Workspace, selecteer de gewenste werkruimte(n) en klik op **[!UICONTROL Connect]** .
 
    ![](assets/granting-access-to-users-3.png)
 

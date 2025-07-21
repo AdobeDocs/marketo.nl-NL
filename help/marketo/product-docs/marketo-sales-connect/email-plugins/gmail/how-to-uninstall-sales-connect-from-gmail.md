@@ -4,21 +4,21 @@ description: Hoe u Sales Connect kunt verwijderen uit Gmail - Marketo Docs - Pro
 title: Sales Connect verwijderen van Gmail
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
-# Sales Connect verwijderen van Gmail {#how-to-uninstall-sales-connect-from-gmail}
+# [!DNL Sales Connect] verwijderen uit Gmail {#how-to-uninstall-sales-connect-from-gmail}
 
-De insteekmodule Sales Connect voor Gmail wordt via een browserextensie uitgevoerd. U moet dat verwijderen om Sales Connect in Gmail te verwijderen.
+De [!DNL Sales Connect] -insteekmodule voor Gmail wordt via een browserextensie uitgevoerd. U moet dat verwijderen om [!DNL Sales Connect] in Gmail te verwijderen.
 
-1. In **Chroom** Klik op de drie regels in de rechterbovenhoek van het browservenster.
+1. Klik in **[!DNL Chrome]** op de drie regels in de rechterbovenhoek van het browservenster.
 
-1. Klikken **Meer gereedschappen**.
+1. Klik op **[!UICONTROL More Tools]**.
 
-1. Klikken **Extensies**.
+1. Klik op **[!UICONTROL Extensions]**.
 
-1. Klik op het prullenbakpictogram naast **ToutApp voor Chrome**.
+1. Klik op het prullenbakpictogram naast **[!UICONTROL ToutApp for Chrome]** .

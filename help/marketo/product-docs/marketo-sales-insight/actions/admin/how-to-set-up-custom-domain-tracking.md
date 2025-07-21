@@ -3,9 +3,9 @@ description: Aangepaste domeintracering instellen - Marketo Docs - Productdocume
 title: Aangepast domein bijhouden instellen
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Het Volgen van het Domein van de douane staat uw team toe om uw eigen bedrijfsnaam in alle volgbare verbindingen te gebruiken die aan uw verkoope-mail worden toegevoegd. Zodra u deze opstelling hebt, zullen wij om het even welke verbinding lijsten van gewenste personen u in uw e-mail hebt om als go.yourcompany.com te verschijnen, zodat wanneer iemand over een verbinding hangt, het go.yourcompany.com in plaats van go.toutapp.com zal lezen.
 
-U hebt hulp van uw IT-team nodig om een CNAME-record voor uw domein in te stellen dat naar go.toutapp.com verwijst. Deze CNAME wordt weergegeven op alle koppelingen die u wilt bijhouden (bijvoorbeeld go.yourcompany.com).
+U zult hulp van uw team van IT nodig hebben om een verslag van de NAAM voor uw domein op te zetten dat aan go.toutapp.com richt. Deze CNAME wordt weergegeven op alle koppelingen die u wilt bijhouden (bijvoorbeeld go.yourcompany.com).
 
-Zodra u met uw team van IT hebt bevestigd dat CNAME behoorlijk wordt gevormd, kunt u het aan de pagina van het Volgen van het Domein van de Douane in Acties toevoegen.
+Zodra u met uw team van IT hebt bevestigd dat CNAME behoorlijk wordt gevormd, kunt u het aan de [!UICONTROL Custom Domain Tracking] pagina in Acties toevoegen.
 
 >[!NOTE]
 >
@@ -26,16 +26,16 @@ Zodra u met uw team van IT hebt bevestigd dat CNAME behoorlijk wordt gevormd, ku
 
 >[!NOTE]
 >
->**Beheerdersrechten vereist.**
+>**vereiste voorrechten Admin.**
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. Selecteer onder Beheerinstellingen de optie **Tekstspatiëring**.
+1. Selecteer onder [!UICONTROL Admin Settings] de optie **[!UICONTROL Tracking]** .
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. Voer op het tabblad Aangepast domein bijhouden uw CNAME in en klik op **Verbinden**.
+1. Voer op het tabblad [!UICONTROL Custom Domain Tracking] uw CNAME in en klik op **[!UICONTROL Connect]** .
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

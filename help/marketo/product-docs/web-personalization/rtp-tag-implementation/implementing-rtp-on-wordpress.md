@@ -4,43 +4,43 @@ description: Implementatie van RTP op Wordpress - Marketo Docs - Productdocument
 title: RTP implementeren op Wordpress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# RTP implementeren op Wordpress {#implementing-rtp-on-wordpress}
+# RTP implementeren op [!DNL Wordpress] {#implementing-rtp-on-wordpress}
 
-Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
+Volg onderstaande installatie-instructies om uw [!UICONTROL RTP tag] te implementeren:
 
-1. Open de **header.php** bestand van uw **Het thema WordPress**.
+1. Open omhoog het {**dossier 0} header.php van uw** thema **[!DNL WordPress].**
 
-   U kunt een FTP-client gebruiken om toegang te krijgen tot uw server of de themabestanden rechtstreeks vanuit het WordPress-dashboard bewerken. De bestandseditor bevindt zich onder de **Weergave** in het zijbalkmenu.
+   U kunt een FTP-client gebruiken om toegang te krijgen tot uw server of de themabestanden rechtstreeks vanuit het dashboard van [!DNL WordPress] bewerken. De bestandseditor bevindt zich onder het tabblad **[!UICONTROL Appearance]** in het zijbalkmenu.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
-1. Zoek in de lijst met sjabloonbestanden rechts van de teksteditor naar **header.php** en open.
+1. In de lijst van malplaatjedossiers rechts van de tekstredacteur, vind **header.php** en open het.
 
-1. Ga naar **Accountinstellingen**.
+1. Ga naar **[!UICONTROL Account Settings]** .
 
-   a. Als u al een JavaScript-tag hebt ontvangen van Support, gaat u verder met stap 5.
+   a. Als u uw JavaScript-tag al hebt ontvangen van Support, gaat u verder met stap 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. Zoek onder Domein het relevante domein en klik op **Label genereren**.
+1. Zoek onder [!UICONTROL Domain] het relevante domein op en klik op **[!UICONTROL Generate Tag]** .
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
-1. Kopieer de RTP JavaScript-tag en plak deze naar uw websitesjablonen.
+1. Kopieer de JavaScript-tag RTP en plak deze naar uw websitesjablonen.
 
-   a. Zorg ervoor dat dit het eerste script in de koptekst van de pagina is - tussen de **`<head> </head>`** -tags.
+   a. Controleer of dit het eerste script in de koptekst van de pagina is - tussen de **`<head> </head>`** -tags.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
-1. Klikken op **Bestand bijwerken** voor het bestand header.php.
+1. Klik op **[!UICONTROL Update File]** voor het bestand header.php.
 
 1. Controleer of het wordt weergegeven op alle pagina&#39;s, inclusief bestemmingspagina&#39;s en subdomeinen.
 
-   a. U kunt dit doen door met de rechtermuisknop op de pagina van uw website te klikken. Ga naar **Pagina-bron weergeven.** Zoeken naar **RTP** om de tag te zoeken.
+   a. U kunt dit doen door met de rechtermuisknop op de pagina van uw website te klikken. Ga naar **[!UICONTROL View Page Source].** Onderzoek naar **RTP** om van de markering de plaats te bepalen.

@@ -4,9 +4,9 @@ description: Een formulier verwijderen - Marketo Docs - Productdocumentatie
 title: Een formulier verwijderen
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verwijderen. Zo gaat het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Onder **Formulierhandelingen**, klikt u op **Formulier verwijderen**.
+1. Klik onder **[!UICONTROL Form Actions]** op **[!UICONTROL Delete Form]** .
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
    >
    >Vergeet niet het formulier te verwijderen van alle/willekeurige bestemmingspagina&#39;s die het gebruiken. Bevestig ook dat het formulier niet wordt gebruikt op een openbare website.
 
-1. Bevestigen door te klikken **Verwijderen**.
+1. Bevestig door op **[!UICONTROL Delete]** te klikken.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -41,4 +41,4 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
 >[!CAUTION]
 >
->Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg  [archiveren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) in plaats daarvan.
+>Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [ archiverend het ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) in plaats daarvan.

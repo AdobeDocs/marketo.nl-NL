@@ -3,10 +3,10 @@ description: Overzicht van geavanceerd zoeken - Marketo Docs - Productdocumentat
 title: Overzicht van geavanceerd zoeken
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 0%
+source-wordcount: '380'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
 ## Toegang tot geavanceerde zoekfunctie {#how-to-access-advanced-search}
 
-1. Klik in de webtoepassing op **Opdrachtcentrum**.
+1. Klik in de webtoepassing op **[!UICONTROL Command Center]** .
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Klikken **E-mails**.
+1. Klik op **[!UICONTROL Emails]**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -28,7 +28,7 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Klik op Geavanceerd zoeken.
+1. Klik op [!UICONTROL Advanced Search].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -36,13 +36,13 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
 **Datum**
 
-Kies het datumbereik voor uw zoekopdracht. De datums met voorinstellingen worden bijgewerkt afhankelijk van de e-mailstatus die u hebt gekozen (Verzenden, Niet bezorgd, In behandeling).
+Kies het datumbereik voor uw zoekopdracht. Datums met voorinstellingen worden bijgewerkt afhankelijk van de e-mailstatus die u kiest ([!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending] ).
 
 ![](assets/advanced-search-overview-5.png)
 
-**Wie**
+**Who**
 
-Filter op e-mailontvanger/afzender in de sectie Who.
+Filter op e-mailontvanger/afzender in de sectie [!UICONTROL Who] .
 
 ![](assets/advanced-search-overview-6.png)
 
@@ -52,22 +52,22 @@ Filter op e-mailontvanger/afzender in de sectie Who.
   <td><strong>Beschrijving</strong></td>
  </tr>
  <tr>
-  <td><strong>Weergeven als</strong></td>
+  <td><strong>[!UICONTROL View As]</strong></td>
   <td>Filter op een specifieke afzender in uw exemplaar van Sales Connect (deze optie is alleen beschikbaar voor Admins).</td>
  </tr>
  <tr>
-  <td><strong>Op groep</strong></td>
+  <td><strong>[!UICONTROL By Group]</strong></td>
   <td>E-mailberichten filteren op een specifieke groep ontvangers.</td>
  </tr>
  <tr>
-  <td><strong>Op persoon</strong></td>
+  <td><strong>[!UICONTROL By Person]</strong></td>
   <td>Filteren op een specifieke ontvanger.</td>
  </tr>
 </table>
 
-**Wanneer**
+**wanneer**
 
-Kies op gemaakte datum, geleverde datum, mislukte datum of geplande datum. Welke opties beschikbaar zijn, is afhankelijk van de gekozen e-mailstatus (Verzenden, Niet bezorgd, In behandeling).
+Kies op gemaakte datum, geleverde datum, mislukte datum of geplande datum. Welke opties beschikbaar zijn, is afhankelijk van de e-mailstatus die u kiest ( [!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending] ).
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ Er zijn drie e-mailstatussen waaruit u kunt kiezen. De type-/activiteitopties ve
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Status: Verzonden**&#x200B;_
+_**Status: Verzonden**_
 
 ![](assets/advanced-search-overview-10.png)
 
-Filters op basis van de verzonden e-mailactiviteit. U kunt weergaven/geen weergaven kiezen, klikken/geen klikken, en/of antwoorden/geen antwoorden.
+Filters op basis van de verzonden e-mailactiviteit. U kunt [!UICONTROL views] kiezen/[!UICONTROL no views], [!UICONTROL clicks]/[!UICONTROL no clicks], en/of [!UICONTROL replies]/[!UICONTROL no replies].
 
-_&#x200B;**Status: In behandeling**&#x200B;_
+_**Status: In afwachting van**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -101,20 +101,20 @@ Filtert op alle e-mails die in behandeling zijn.
   <td><strong>Beschrijving</strong></td>
  </tr>
  <tr>
-  <td><strong>Gepland</strong></td>
+  <td><strong>[!UICONTROL Scheduled]</strong></td>
   <td>E-mails die zijn gepland vanuit het samenstellingsvenster (Salesforce of de Web App), e-mailplug-ins of een campagne.</td>
  </tr>
  <tr>
-  <td><strong>Concepten</strong></td>
+  <td><strong>[!UICONTROL Drafts]</strong></td>
   <td>E-mails die zich momenteel in de conceptstatus bevinden. E-mails vereisen een onderwerpregel en een ontvanger om als concept te worden opgeslagen.</td>
  </tr>
  <tr>
-  <td><strong>In uitvoering</strong></td>
+  <td><strong>[!UICONTROL In Progress]</strong></td>
   <td>E-mails die worden verzonden. E-mails mogen niet langer dan een paar seconden in deze status blijven.</td>
  </tr>
 </table>
 
-_&#x200B;**Status: Onbevonden**&#x200B;_
+_**Status: Niet bezorgd**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -126,15 +126,15 @@ Filters op e-mails die nooit zijn bezorgd.
   <td><strong>Beschrijving</strong></td>
  </tr>
  <tr>
-  <td><strong>Mislukt</strong></td>
-  <td>Wanneer een e-mailbericht niet wordt verzonden vanuit Sales Connect (algemene redenen zijn onder andere: e-mails die worden verzonden naar contactpersonen die niet zijn geabonneerd of geblokkeerd, of als er een probleem is met het vullen van dynamische velden).</td>
+  <td><strong>[!UICONTROL Failed]</strong></td>
+  <td>Wanneer een e-mailbericht niet kan worden verzonden vanuit Sales Connect (algemene redenen zijn onder andere: e-mails die worden verzonden naar contactpersonen zonder abonnement of geblokkeerde contactpersonen, of als er een probleem is opgetreden bij het vullen van de dynamische velden).</td>
  </tr>
  <tr>
-  <td><strong>Afgekeerd</strong></td>
+  <td><strong>[!UICONTROL Bounced]</strong></td>
   <td>Een e-mailbericht wordt gemarkeerd als teruggestuurd wanneer het wordt afgewezen door de server van de ontvanger. Hier worden alleen e-mails weergegeven die via Sales Connect-servers zijn verzonden.</td>
  </tr>
  <tr>
-  <td><strong>Spam</strong></td>
+  <td><strong>[!UICONTROL Spam]</strong></td>
   <td>Wanneer het e-mailbericht door de ontvanger is gemarkeerd als spam (algemene term voor ongevraagde e-mail). Hier worden alleen e-mails weergegeven die via Sales Connect-servers zijn verzonden.</td>
  </tr>
 </table>
@@ -143,11 +143,11 @@ Filters op e-mails die nooit zijn bezorgd.
 
 Hieronder wordt beschreven hoe u een opgeslagen zoekopdracht maakt.
 
-1. Klik op **Filters opslaan als**.
+1. Klik op **[!UICONTROL Save Filters As]** nadat alle filters zijn geïnstalleerd.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Geef uw zoekopdracht een naam en klik op **Opslaan**.
+1. Geef de zoekopdracht een naam en klik op **[!UICONTROL Save]** .
 
    ![](assets/advanced-search-overview-14.png)
 

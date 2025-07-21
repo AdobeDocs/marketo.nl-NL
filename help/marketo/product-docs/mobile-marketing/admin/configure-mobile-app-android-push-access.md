@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7512432
-description: Mobiele Android-pushtoegang voor apps configureren - Marketo Docs - Productdocumentatie
-title: Android-pushtoegang voor mobiele app configureren
+description: Mobile App Android Push Access - Marketo Docs - Productdocumentatie configureren
+title: Mobile App Android Push Access configureren
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 2%
 
 ---
 
-# Android-pushtoegang voor mobiele app configureren {#configure-mobile-app-android-push-access}
+# Mobile App Android Push Access configureren {#configure-mobile-app-android-push-access}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteren **Mobiele apps**.
+1. Selecteer **[!UICONTROL Mobile Apps]** .
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,20 +25,20 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Onder **Type pushtoegang**, selecteert u **Android** en klik op **Configureren.**
+1. Selecteer **[!UICONTROL Push Access Type]** onder **[!UICONTROL Android]** en klik op **[!UICONTROL Configure]** .
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >U hebt een **Server-API-sleutel** en **Projectnummer** van uw ontwikkelaar van mobiele apps. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij de Google Play Developer Console om uw app te registreren en cloudberichten in te schakelen.
+   >U hebt een **[!UICONTROL Server API Key]** en **[!UICONTROL Project Number]** nodig van uw ontwikkelaar van mobiele apps. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij de [!DNL Google Play Developer Console] om uw app te registreren en cloudberichten in te schakelen.
 
-1. Voer de sleutel voor de server-API en het projectnummer in. Klikken **Opslaan**.
+1. Voer de [!UICONTROL Server API Key] en [!UICONTROL Project Number] in. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
-   Zoet. Configureer de toepassing met iOS.
+   Zoet. Zorg ervoor dat u de app configureert met [!UICONTROL iOS] .
 
 >[!MORELIKETHIS]
 >
->[Mobile App iOS Push Access configureren](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>[ vorm Mobiele App iOS Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

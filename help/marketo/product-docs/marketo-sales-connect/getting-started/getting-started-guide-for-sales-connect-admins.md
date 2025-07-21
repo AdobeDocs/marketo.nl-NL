@@ -1,18 +1,18 @@
 ---
-description: Aan de slag voor Sales Connect-beheerders - Marketo Docs - Productdocumentatie
-title: Aan de slag voor Sales Connect-beheerders
+description: Begonnen Gids voor  [!DNL Sales Connect]  Admins - de Documentatie van Marketo - de Documentatie van het Product
+title: Begonnen Gids voor  [!DNL Sales Connect]  Admins
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
 
-# Aan de slag voor Sales Connect-beheerders {#getting-started-guide-for-sales-connect-admins}
+# Aan de slag voor [!DNL Sales Connect] beheerders {#getting-started-guide-for-sales-connect-admins}
 
-Dit document begeleidt u door de eerste stappen voor het instellen van uw nieuwe exemplaar van Sales Connect. Voor sommige van deze stappen is toegang vereist als Marketo-beheerder, Salesforce-beheerder en Sales Connect-beheerder. Volg de onderstaande hulplijnen om de installatie van de instantie te voltooien.
+Dit document begeleidt u door de eerste stappen voor het instellen van de nieuwe [!DNL Sales Connect] -instantie. Voor sommige van deze stappen zijn Marketo-beheerders, [!DNL Salesforce] -beheerders en [!DNL Sales Connect] -beheerders vereist. Volg de onderstaande hulplijnen om de installatie van de instantie te voltooien.
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ Zodra u uw Marketo Sales Connect-account van Marketo hebt ingericht en uw eerste
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Verbinding maken met Salesforce {#connecting-to-salesforce}
+## Verbinding maken met [!DNL Salesforce] {#connecting-to-salesforce}
 
-Alle gebruikers zullen individueel met Salesforce moeten verbinden om de activiteiten van de logboekverkoop aan verkoop zoals e-mail, vraag, en taken toe te laten. Wanneer u echter verbinding maakt met Salesforce als beheerder, hebt u de gelegenheid om uw instellingen voor activiteitenlogbestanden voor uw gehele team te configureren, zodat algemene loginstellingen worden toegepast op alle Sales Connect-gebruikers.
+Alle gebruikers zullen individueel met [!DNL Salesforce] moeten verbinden om logboekverkoopactiviteiten toe te laten om zoals e-mail, vraag, en taken te verkopen. Wanneer u echter verbinding maakt met Salesforce als beheerder, hebt u de gelegenheid om uw instellingen voor het registreren van activiteiten voor uw gehele team te configureren, zodat algemene loginstellingen worden toegepast op alle [!DNL Sales Connect] -gebruikers.
 
 Om uw exemplaar van de Verkoop aan uw instantie van Salesforce, als Admin of niet-Admin aan te sluiten, volg de stappen in [ dit artikel ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}.
 
@@ -48,7 +48,7 @@ Als je je op Marketo aansluit, kunnen je verkopers gebruikmaken van de kracht va
 
 Meer over leren hoe te met Marketo te verbinden en verkoopgebruikers toegang tot de verbinding te verlenen, [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
 
-## Salesforce-aanpassingspakket installeren {#installing-salesforce-customization-package}
+## [!DNL Salesforce] Aanpassingspakket installeren {#installing-salesforce-customization-package}
 
 Een deel van het ervoor zorgen dat verkoop voor succes wordt toegelaten betekent het hebben van de juiste mogelijkheden in hun primaire werkruimte. Met het aanpassingspakket voor Sales Connect kunnen servicemogelijkheden en belangrijke kenmerken voor verkoopactiviteiten vanuit Salesforce worden benaderd.
 

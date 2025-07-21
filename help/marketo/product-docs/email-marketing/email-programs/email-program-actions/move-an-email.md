@@ -4,9 +4,9 @@ description: Een e-mail verplaatsen - Marketo Docs - Productdocumentatie
 title: Een e-mail verplaatsen
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Wilt u een e-mailbericht van het ene programma naar het andere verplaatsen? Zo gaat het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/move-an-email-1.png)
 
-1. Zoek het e-mailbericht dat u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **Verplaatsen**.
+1. Zoek het e-mailbericht dat u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **[!UICONTROL Move]** .
 
    ![](assets/move-an-email-2.png)
 
-1. Selecteer **Doel**, **Programma** en optioneel **Map**. Selecteren **Verplaatsen**.
+1. Selecteer **[!UICONTROL Destination]**, **[!UICONTROL Program]** en optioneel **[!UICONTROL Folder]** . Selecteer **[!UICONTROL Move]** .
 
    ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
-   >In dit voorbeeld wordt een e-mailbericht verplaatst naar een ander programma, maar u kunt een e-mailbericht ook verplaatsen naar een map in de Design Studio.
+   >In dit voorbeeld wordt een e-mailbericht verplaatst naar een ander programma, maar u kunt een e-mailbericht ook verplaatsen naar een map in de map [!UICONTROL Design Studio] .
 
-   Je ziet je email nu in het andere programma leven.
+   Je ziet je e-mail nu in het andere programma leven.
 
    ![](assets/move-an-email-4.png)
 

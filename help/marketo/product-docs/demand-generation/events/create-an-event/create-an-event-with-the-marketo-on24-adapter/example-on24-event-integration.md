@@ -4,9 +4,9 @@ description: Voorbeeld ON24-gebeurtenisintegratie - Marketo Docs - productdocume
 title: Voorbeeld ON24-gebeurtenisintegratie
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,80 +17,80 @@ Hier is een voorbeeldgebeurtenis, inclusief campagnes, voor een ON24 webinar. Wa
 
 ## Nieuwe gebeurtenis maken in marketingactiviteiten {#create-a-new-event-in-marketing-activities}
 
-1. Selecteren **Nieuw** > **Nieuw programma**.
+1. Selecteer **[!UICONTROL New]** > **[!UICONTROL New Program]** .
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Selecteer een **Campagnemap** waar de gebeurtenis zal plaatsvinden.
+1. Selecteer een **[!UICONTROL Campaign Folder]** locatie waar de gebeurtenis plaatsvindt.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Voer een **Naam** voor de gebeurtenis.
+1. Voer een **[!UICONTROL Name]** in voor de gebeurtenis.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Selecteren **Gebeurtenis** als de **Type programma**.
+1. Selecteer **[!UICONTROL Event]** als de **[!UICONTROL Program Type]** .
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Selecteren **Webinar** als de **Kanaal** voor de gebeurtenis.
+1. Selecteer **[!UICONTROL Webinar]** als de **[!UICONTROL Channel]** voor de gebeurtenis.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
 ## Uitnodigen (batchcampagne)  {#invite-batch-campaign}
 
-* **Slimme lijst** - Bepaal wie u wilt uitnodigen voor de gebeurtenis.
+* **Slimme Lijst** - bepaal wie u aan de gebeurtenis zult uitnodigen.
 * **Stroom**
 
-   * E-mail verzenden - Als dit een e-mail met lokale middelen is, is de volgende naamgevingsconventie van toepassing: EventName.EmailName. Je kunt ook wereldwijde e-mails gebruiken.
+   * E-mail verzenden - Als dit een e-mail met lokale middelen is, heeft deze de volgende naamgevingsconventie: EventName.EmailName. Je kunt ook wereldwijde e-mails gebruiken.
    * Status wijzigen in Progressie - Instellen op Webinar > Uitgenodigd.
 
-* **Schema** - Stel de datum in waarop de uitnodiging moet worden verzonden.
+* **Programma** - plaats de datum voor de te verzenden uitnodiging.
 
 ## Registratie/bevestiging (Trigger-campagne) {#registration-confirmation-trigger-campaign}
 
-* **Slimme lijst**
+* **Slimme Lijst**
 
-   * De campagne activeren op basis van **Formulier wordt ingevuld**. Zorg ervoor dat u de landingspagina opneemt waarop het formulier zich bevindt door het te gebruiken **Restrictie toevoegen**, vooral als het formulier op meerdere bestemmingspagina&#39;s wordt gebruikt.
+   * Trigger de campagne die op **[!UICONTROL Fills Out Form]** wordt gebaseerd. Zorg ervoor dat u de landingspagina opneemt waarop het formulier zich bevindt door **[!UICONTROL Add Constraint]** te gebruiken, vooral als het formulier wordt gebruikt op meerdere bestemmingspagina&#39;s.
 
 >[!CAUTION]
 >
->U moet een Marketo-formulier gebruiken om personen voor de gebeurtenis te registreren, of een niet-Marketo-formulier met de juiste API-integratie om registratiegegevens naar Marketo te verzenden. Dit is kritiek aan het succes van uw integratie van de Partner van de Gebeurtenis. **OPMERKING**: Als u een Marketo-formulier gebruikt op een landingspagina die geen Marketo is, wordt de trigger **Formulier wordt ingevuld** met de naam van het formulier.
+>U moet een Marketo-formulier gebruiken om personen voor de gebeurtenis te registreren, of een niet-Marketo-formulier met de juiste API-integratie om registratiegegevens naar Marketo te verzenden. Dit is essentieel voor het succes van uw [!UICONTROL Event Partner] integratie. **NOTA**: Als u een vorm van Marketo op een niet-Marketo landende pagina gebruikt, zal uw trekker **[!UICONTROL Fills Out Form]** met [!UICONTROL Form Name] zijn.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Stroom**
 
-   * **Status wijzigen in Progressie** - Instellen op Webinar > Geregistreerd. **VOORZIENING**: Deze stroomstap is vereist voor het instellen van uw onderliggende campagne. Wanneer de progressiestatus van een persoon verandert in **Geregistreerd**, plaatst Marketo de registratiegegevens op ON24.
+   * **Status van de Verandering in Progressie** - reeks aan Webinar > Geregistreerd. **VOORZIENING**: Deze stroomstap wordt vereist wanneer vestiging uw kindcampagne. Wanneer de vooruitgangsstatus van een persoon in **Geregistreerde** verandert, drukt Marketo de registratieinformatie aan ON24.
 
-   * **E-mail verzenden** - Bevestigingse-mail (ingesteld op **Operationeel** zodat niet-geabonneerde personen die zich hebben geregistreerd, deze nog steeds ontvangen).
+   * **verzend E-mail** - Bevestiging e-mail (geplaatst aan **Operationeel** zodat unsubscribed mensen die nog het hebben geregistreerd ontvangen).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**OPMERKING**: Als de persoon wordt geretourneerd met een registratiefout, wordt de e-mailbevestiging niet ontvangen.
+**NOTA**: Als de persoon met een registratiefout is teruggekeerd, zullen zij niet de e-mailbevestiging ontvangen.
 
 ## Herinnering (batchcampagne) {#reminder-batch-campaign}
 
-* **Slimme lijst** - Filteren met **Lid van het programma** en stel de status in op **Geregistreerd**.
+* **Slimme Lijst** - filter gebruikend **Lid van Programma** en plaats de status aan **Geregistreerd**.
 
-* **Stroom** - E-mail verzenden (e-mail herinnering).
+* **Stroom** - verzend E-mail (Herinnering E-mail).
 
-**OPMERKING**: U kunt een vergelijkbare campagne gebruiken om een *verschillend* e-mail volgen naar mensen die zijn uitgenodigd maar zich nog niet hebben geregistreerd.
+**NOTA**: U kon een gelijkaardige campagne gebruiken om a *verschillende* follow-up e-mail naar mensen te verzenden die werden uitgenodigd maar nog niet geregistreerd.
 
 ## Follow-upcampagne (campagne voor batchverwerking of activering) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Slimme lijst** - Trigger op basis van wijzigingen in de status van het programma.
+* **Slimme Lijst** - Trekker die op veranderingen in programmastatus wordt gebaseerd.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Stroom** - E-mail verzenden. Gebruik keuzen om verschillende e-mails te verzenden op basis van de status van het programma.
+* **Stroom** - verzend E-mail. Gebruik keuzen om verschillende e-mails te verzenden op basis van de status van het programma.
 
 ![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

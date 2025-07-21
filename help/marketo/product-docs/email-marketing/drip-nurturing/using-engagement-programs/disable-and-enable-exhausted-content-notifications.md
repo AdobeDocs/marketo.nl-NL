@@ -4,9 +4,9 @@ description: Uitgebreide inhoudsmeldingen uitschakelen en inschakelen - Marketo 
 title: Uitgebreide inhoudsmeldingen uitschakelen en inschakelen
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Wanneer mensen alle inhoud in een stroom uitputten, kan Marketo u een bericht sturen. U kunt de meldingen op basis van uw behoeften uitschakelen/inschakelen. Zo gaat het.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer een serviceprogramma en klik op de knop **Instellen** tab.
+1. Selecteer een betrokkenheidsprogramma en klik op de tab **[!UICONTROL Setup]** .
 
    ![](assets/setuptab.jpg)
 
-1. Dubbelklikken **Meldingen over uitgeputte inhoud**.
+1. Dubbelklik op **[!UICONTROL Exhausted Content Notifications]** .
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Selecteren **Uit** (of **Aan**) en klik op **Opslaan**.
+1. Selecteer **[!UICONTROL Off]** (of **[!UICONTROL On]** ) en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

@@ -4,10 +4,10 @@ description: Aangepaste veldgroepen maken met de veldOrganizer - Marketo Docs - 
 title: Aangepaste veldgroepen maken met de veldOrganizer
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '992'
-ht-degree: 0%
+source-wordcount: '951'
+ht-degree: 1%
 
 ---
 
@@ -36,23 +36,23 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - tekenreekseditor {#create-custom-field-group-string-editor}
 
-1. Klikken **Database lead**.
+1. Klik op **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Klikken **Nieuw** en selecteert u **Nieuwe veldOrganizer**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Field Organizer]** .
 
    ![](assets/two.png)
 
-1. Klikken **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Land wordt hier gebruikt.
+1. Klik op **[!UICONTROL Field]** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). [!UICONTROL Country] wordt hier gebruikt.
 
    ![](assets/three.png)
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/four.png)
 
-   De nieuwe douanegroep toont in de boom van het Gegevensbestand van de Leiding die als Naam van het Gebied > de Groep van de Naam van het Gebied wordt vertegenwoordigd (voorbeeld: Land > Landgroep).
+   De nieuwe aangepaste groep wordt weergegeven in de databasestructuur voor leads, weergegeven als Veldnaam > Veldnaamgroep (bijvoorbeeld: Land > Landgroep).
 
    ![](assets/4.5.png)
 
@@ -60,7 +60,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/five.png)
 
-1. Standaard worden alle gegevenswaarden in de subgroep &quot;Overige&quot; geplaatst. Als u de gegevenswaarden wilt indelen, klikt u op **Groep toevoegen** om een subgroep te maken en deze een naam te geven.
+1. Door gebrek, worden alle gegevenswaarden geplaatst in &quot;[!UICONTROL Other]&quot;subgroep. Als u de gegevenswaarden wilt categoriseren, klikt u op **[!UICONTROL Add Group]** om een subgroep te maken en geeft u deze een naam.
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    >[!NOTE]
    >
-   >Als u een subgroep wilt verwijderen, klikt u op de rode X naast de naam van de subgroep. Als de groep gegevenswaarden bevat, worden de gegevenswaarden verplaatst naar de standaardgroep Overige.
+   >Als u een subgroep wilt verwijderen, klikt u op de rode X naast de naam van de subgroep. Als de groep gegevenswaarden bevat, worden de gegevenswaarden verplaatst naar de standaardgroep [!UICONTROL Other] .
 
 1. Markeer een gegevenswaarde(n) op het canvas en sleep de gegevenswaarde(n) naar de juiste subgroep.
 
@@ -92,37 +92,37 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - Integer-editor {#create-custom-field-group-integer-editor}
 
-1. Klikken **Database lead**.
+1. Klik op **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Klikken **Nieuw** en selecteert u **Nieuwe veldOrganizer**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Field Organizer]** .
 
    ![](assets/two.png)
 
-1. Klikken **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). De jaarlijkse ontvangsten worden hier gebruikt.
+1. Klik op **[!UICONTROL Field]** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). [!UICONTROL Annual Revenue] wordt hier gebruikt.
 
    ![](assets/nine.png)
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/9.5.png)
 
-   De nieuwe douanegroep toont in de boom van het Gegevensbestand van de Leiding die als Naam van het Gebied > de Groep van de Naam van het Gebied wordt vertegenwoordigd (voorbeeld: Jaarlijkse inkomsten > Jaarlijkse inkomstengroep).
+   De nieuwe aangepaste groep wordt weergegeven in de databasestructuur voor leads, weergegeven als Veldnaam > Veldnaamgroep (bijvoorbeeld: Jaarlijkse inkomsten > Jaarlijkse inkomstengroep).
 
    ![](assets/9.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klikken **Opslaan**.
+1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klik op **[!UICONTROL Save]**.
 
    ![](assets/eleven.png)
 
-   Met de editor voor gehele getallen kunt u meerdere subgroepen maken om elke subgroep op grootte te definiëren. In dit voorbeeld worden drie groepen gemaakt voor kleine, middelgrote en ondernemingen.
+   Met de editor voor gehele getallen kunt u meerdere subgroepen maken om elke subgroep op grootte te definiëren. In dit voorbeeld worden drie groepen gemaakt voor kleine, Medium- en Enterprise-bedrijven.
 
-1. Als u de eerste groep wilt toevoegen, voert u een naam in het dialoogvenster **Groepsnaam** field (voorbeeld: (Klein) en voer een maximale waarde in in het dialoogvenster **Groepsbereik** field (voorbeeld: 200000). Klikken **Groep toevoegen**.
+1. Als u de eerste groep wilt toevoegen, typt u een naam in het veld **[!UICONTROL Group Name]** (bijvoorbeeld Klein) en geeft u een maximale waarde op in het veld **[!UICONTROL Group Range]** (bijvoorbeeld: 200000). Klik op **[!UICONTROL Add Group]**.
 
    ![](assets/twelve.png)
 
-   Een leeg groepsitem wordt weergegeven onder de zojuist ingevoerde groep. In het onderstaande voorbeeld ziet u een vermelding voor het MKB.
+   Een leeg groepsitem wordt weergegeven onder de zojuist ingevoerde groep. In het onderstaande voorbeeld ziet u een vermelding voor kleine, Medium- en Enterprise-bedrijven.
 
    >[!NOTE]
    >
@@ -134,7 +134,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    >[!NOTE]
    >
-   >Als u een subgroep wilt verwijderen, klikt u op de rode X naast de naam van de subgroep.
+   >Klik op de rode X naast de naam van de subgroep om een subgroep te verwijderen.
 
 1. Controleer uw instellingen op de pagina Overzicht.
 
@@ -146,39 +146,39 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - Datumeditor {#create-custom-field-group-date-editor}
 
-1. Klikken **Database lead**.
+1. Klik op **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Klikken **Nieuw** en selecteert u **Nieuwe veldOrganizer**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Field Organizer]** .
 
    ![](assets/two.png)
 
-1. Klikken **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Aankoopdatum wordt hier gebruikt.
+1. Klik op **[!UICONTROL Field]** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). [!UICONTROL Acquisition Date] wordt hier gebruikt.
 
    ![](assets/fourteen.png)
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/14.5.png)
 
-   De nieuwe douanegroep toont in de boom van het Gegevensbestand van de Leiding die als Naam van het Gebied > de Groep van de Naam van het Gebied wordt vertegenwoordigd (voorbeeld: Verwervingsdatum > Groep verwervingsdatum).
+   De nieuwe aangepaste groep wordt weergegeven in de databasestructuur voor leads, die wordt weergegeven als Veldnaam > Veldnaamgroep (bijvoorbeeld: Verhaaldatum > Groep verwervingsdatum).
 
    ![](assets/14.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klikken **Opslaan**.
+1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klik op **[!UICONTROL Save]**.
 
    ![](assets/fifteen.png)
 
    Met de datumeditor kunt u meerdere subgroepen maken en elke subgroep op datum definiëren. In dit voorbeeld worden drie groepen gemaakt: Q1-15 Leads, Q2-15 Leads en Q3-15 Leads.
 
-1. Als u de eerste groep wilt toevoegen, voert u een naam in het dialoogvenster **Groepsnaam** field (voorbeeld: Q1-15 Leads) en voer in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van het eerste kwartaal van 2015). Klikken **Groep toevoegen**.
+1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **[!UICONTROL Group Name]** in (bijvoorbeeld: Q1-15 leads) en voert u in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van Q1-15). Klik op **[!UICONTROL Add Group]**.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >U kunt maximaal tien subgroepen toevoegen om de gegevenswaarden te categoriseren. Elke ingang van de Waaier van de Groep bouwt op de vorige ingang voort. Als u de laatste ingang van de Waaier van de Groep voor de laatste douanesubgroep leeg verlaat u creeert, wordt een waarde van de einddatum niet geplaatst.
+   >U kunt maximaal tien subgroepen toevoegen om de gegevenswaarden te categoriseren. Elke [!UICONTROL Group Range] -vermelding is gebaseerd op de vorige vermelding. Als u de laatste [!UICONTROL Group Range] -vermelding leeg laat voor de laatste aangepaste subgroep die u maakt, wordt geen einddatumwaarde ingesteld.
 
    In het onderstaande voorbeeld ziet u een vermelding voor de leads van het eerste kwartaal van 2015 tot en met het derde kwartaal.
 

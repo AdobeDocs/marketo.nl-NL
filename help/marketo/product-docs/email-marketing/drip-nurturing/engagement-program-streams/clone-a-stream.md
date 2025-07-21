@@ -4,9 +4,9 @@ description: Een stream klonen - Marketo Docs - Productdocumentatie
 title: Een stream klonen
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 U kunt een stream klonen om verschillende redenen, waaronder verschillende bestellingen en verschillende kadingen.
 
-1. Selecteer uw serviceprogramma en ga naar de **Streams** tab.
+1. Selecteer uw betrokkenheidsprogramma en ga naar de tab **[!UICONTROL Streams]** .
 
    ![](assets/cloneasteam.jpg)
 
-1. Klik op het tandwielpictogram van de stream en klik vervolgens op **Klonen**.
+1. Klik op het tandwielpictogram van de stream en klik vervolgens op **[!UICONTROL Clone]** .
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

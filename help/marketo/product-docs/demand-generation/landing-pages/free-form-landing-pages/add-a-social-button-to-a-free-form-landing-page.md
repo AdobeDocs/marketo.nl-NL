@@ -4,9 +4,9 @@ description: Een sociale knop toevoegen aan een vrije bestemmingspagina - Market
 title: Een sociale knop toevoegen aan een vrije bestemmingspagina
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
 >
 >Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-1. Navigeer aan uw vrije-vorm het landen pagina en klik **geef Ontwerp** uit.
+1. Navigeer naar de landingspagina van de vrije vorm en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/scoring.jpg)
 
-1. Sleep over **Sociale Knoop** van de elementen op het recht.
+1. Sleep over **[!UICONTROL Social Button]** uit de elementen aan de rechterkant.
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Selecteer **Sociale Knopen (met Analytics)**.
+1. Selecteer **[!UICONTROL Social Buttons (with Analytics)]** .
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
    Zodra uw het landen pagina actief is, zie de activiteit die door uw _wordt geproduceerd sociale knoop (met Analytics) op het Sociale Dashboard_.
 
-   Als u een Soortgelijke/Aanbevolen Knoop (Lite) in plaats daarvan toevoegt, zie het aantal aandelen in het [ landende rapport van de paginaprestaties ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Als u a [!UICONTROL Like/Recommend Button (Lite)] in plaats daarvan toevoegt, zie het aantal aandelen in het [ landende rapport van de paginaprestaties ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Selecteer **creeer Nieuw** van het drop-down menu.
+1. Selecteer **[!UICONTROL Create New]** in de vervolgkeuzelijst.
 
    >[!NOTE]
    >
-   >U kunt een sociale knoop binnen een programma ook tot stand brengen door **Nieuw** te selecteren > **Nieuwe Lokale Activa**.
+   >U kunt ook een sociale knop in een programma maken door **[!UICONTROL New]** > **[!UICONTROL New Local Asset]** te selecteren.
 
-1. Noem uw sociale knoop, uitgezochte **niets** van **Kloon van**, en klik **Tussenvoegsel**.
+1. Geef uw sociale knop een naam, selecteer **[!UICONTROL None]** in **[!UICONTROL Clone From]** en klik op **[!UICONTROL Insert]** .
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >Om tijd te besparen, kunt u de **Kloon van** optie gebruiken om alle montages van een bestaande sociale knoop te kopiëren.
+   >Als u tijd wilt besparen, kunt u de optie **[!UICONTROL Clone From]** gebruiken om alle instellingen van een bestaande sociale knop te kopiëren.
 
    [ publiceer de het landen pagina aan Facebook ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _zet de sociale knoop op uw website_
 

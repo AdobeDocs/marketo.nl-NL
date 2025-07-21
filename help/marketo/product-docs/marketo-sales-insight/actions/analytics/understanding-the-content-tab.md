@@ -3,16 +3,16 @@ description: Inzicht krijgen op het tabblad Inhoud - Marketo Docs - Productdocum
 title: Het tabblad Inhoud
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Het tabblad Inhoud {#understanding-the-content-tab}
+# Het tabblad [!UICONTROL Content] {#understanding-the-content-tab}
 
-Het tabblad Inhoud gaat allemaal over de e-mailservice van uw team wanneer u een sjabloon gebruikt. We buigen automatisch drie metriek omhoog die we belangrijk vinden.
+Het tabblad [!UICONTROL Content] gaat allemaal over de e-mailbetrokkenheid van uw team wanneer u een sjabloon gebruikt. We buigen automatisch drie metriek omhoog die we belangrijk vinden.
 
 ## Geheim wapen {#secret-weapon}
 

@@ -3,9 +3,9 @@ description: Toestemming voor klant-id en toepassingsregistratie - Marketo-docum
 title: Toestemming verlenen voor client-id en toepassingsregistratie
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Volg de onderstaande stappen om te leren hoe u de vereiste toestemming/machtigin
 
 ## Gedelegeerde gebruikersmachtigingen verlenen voor de synchronisatiegebruiker {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. Gebruik een schoon tekstprogramma (Kladblok voor Vensters, Tekst geeft voor Mac uit) om een Uniform Herkenningsteken van het Middel (URI) voor vergunning tot stand te brengen door de hieronder tekst te kleven en client_id, redirect_uri, en staatswaarden te substitueren.
+1. Gebruik een schoon tekstprogramma (Kladblok voor Windows, Tekst bewerken voor Mac) om een URI (Uniform Resource Identifier) voor verificatie te maken door de onderstaande tekst te plakken en de waarden `client_id` , `redirect_uri` en `state` te vervangen.
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -71,11 +71,11 @@ Volg de onderstaande stappen om te leren hoe u de vereiste toestemming/machtigin
 
 ## Toestemming verlenen voor alle gebruikers {#grant-consent-for-all-users}
 
-Als beheerder, kunt u aan de gedelegeerde toestemmingen van een toepassing namens alle gebruikers in uw huurder ook toestemming geven. Administratieve toestemming verhindert de toestemmingsdialoog voor elke gebruiker in de huurder te verschijnen, en kan in het Azure portaal door gebruikers met de beheerderrol worden gedaan. Leer welke beheerdersrollen kunnen [toestemming hier voor gedelegeerde machtigingen](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+Als beheerder, kunt u aan de gedelegeerde toestemmingen van een toepassing namens alle gebruikers in uw huurder ook toestemming geven. Administratieve toestemming verhindert de toestemmingsdialoog voor elke gebruiker in de huurder te verschijnen, en kan in het Azure portaal door gebruikers met de beheerderrol worden gedaan. Leer welke beheerderrollen [ toestemming aan gemachtigde toestemmingen hier ](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference) kunnen.
 
 1. Navigeer in uw Azure-portal naar de startpagina van de toepassing.
 
-1. Klik onder Beheren op **[!UICONTROL API Permissions]**.
+1. Klik onder [!UICONTROL Manage] op **[!UICONTROL API Permissions]** .
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
@@ -83,6 +83,6 @@ Als beheerder, kunt u aan de gedelegeerde toestemmingen van een toepassing namen
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Klikken **[!UICONTROL Yes]** ter bevestiging.
+1. Klik op **[!UICONTROL Yes]** om te bevestigen.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

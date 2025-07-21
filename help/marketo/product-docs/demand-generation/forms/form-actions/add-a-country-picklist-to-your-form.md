@@ -4,10 +4,10 @@ description: Een land-pluklijst toevoegen aan uw formulier - Marketo-documenten 
 title: Een lijst met landen toevoegen aan uw formulier
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met een lijst van alle landen.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/editform-1.png)
 
-1. Klik op de knop **+** ondertekenen.
+1. Klik op het **+** -teken.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Zoeken en selecteren **Land**.
+1. Zoeken en selecteren **[!UICONTROL Country]** .
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Met de **Land** veld geselecteerd wijzigt u de **Veldtype** tot **Selecteren**.
+1. Als het veld **[!UICONTROL Country]** is geselecteerd, wijzigt u de waarde **[!UICONTROL Field Type]** in **[!UICONTROL Select]** .
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Bewerken** de **Waarden** om de lijst met landen toe te voegen waaruit gebruikers kunnen kiezen.
+1. **[!UICONTROL Edit]** **[!UICONTROL Values]** om de lijst met landen toe te voegen waaruit gebruikers kunnen kiezen.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klikken **Geavanceerd** **Editor**.
+1. Klik op **[!UICONTROL Advanced Editor]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met 
    >
    >U kunt de lijst bewerken of een andere lijst gebruiken.
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
@@ -77,4 +77,4 @@ Waarom niet meer doen, aangezien dat zo makkelijk was? Hoe zit het met het dynam
 
 >[!MORELIKETHIS]
 >
->[De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+>[ dynamisch Zichtbaarheid van een Gebied van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)

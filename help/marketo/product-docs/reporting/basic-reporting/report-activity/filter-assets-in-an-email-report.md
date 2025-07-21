@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360225
-description: Middelen filteren in een e-mailrapport - Marketo Docs - Productdocumentatie
-title: Middelen in een e-mailrapport filteren
+description: Assets filteren in een e-mailrapport - Marketo Docs - Productdocumentatie
+title: Assets filteren in een e-mailrapport
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Middelen in een e-mailrapport filteren {#filter-assets-in-an-email-report}
+# Assets filteren in een e-mailrapport {#filter-assets-in-an-email-report}
 
-Focus op uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [Prestaties van e-mailkoppelingen](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) e-mailberichten in uw programma&#39;s (&#39;lokale middelen&#39;), in Design Studio (&#39;globale activa&#39;) of in de programma&#39;s die zijn gearchiveerd.
+Focus uw [ Prestaties van de E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [ E-mailPrestaties van de Verbinding ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapport over e-mail in uw programma&#39;s (&quot;lokale activa&quot;), op die in de Studio van het Ontwerp (&quot;globale activa&quot;), of op die die zijn gearchiveerd.
 
 >[!NOTE]
 >
 >Het filteren van elementen in rapporten wordt niet ondersteund in de Satellietmodus (het pictogram &#39;Open in a new window&#39; rechts van de elementdetailpagina).
 
-1. Ga naar **Analyse** (of **Marketingactiviteiten**).
+1. Ga naar **Analytics** (of **de in de handel brengende Activiteiten**) gebied.
 
    ![](assets/image2014-9-16-15-3a53-3a26.png)
 
@@ -27,13 +27,13 @@ Focus op uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Klik op de knop **Instellen** en sleep over een filter.
+1. Klik op de tab **[!UICONTROL Setup]** en sleep over een filter.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **Design Studio-e-mails**: Algemene elementen, beheerd in de Design Studio.
-   * **E-mails over marketingactiviteiten**: Lokale elementen in programma&#39;s op het tabblad Marketing Activities.
-   * **Gearchiveerde e-mails**: Inactieve e-mails met pensioen.
+   * **[!UICONTROL Design Studio Emails]**: Algemene elementen, beheerd in de Design Studio.
+   * **[!UICONTROL Marketing Activities Emails]**: lokale elementen in programma&#39;s op het tabblad Marketing Activities.
+   * **Gearchiveerde e-mails**: Inactieve, gepensioneerde e-mails.
 
 1. Kies de mappen en specifieke e-mails die u in uw rapport wilt opnemen.
 
@@ -43,10 +43,10 @@ Focus op uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-
    >
    >Als u een map selecteert, bevat uw rapport alles wat de map bevat op het moment dat het rapport wordt uitgevoerd.
 
-1. Je bent klaar! Klik op de knop **Rapport** om uw gefilterde rapport te bekijken.
+1. Je bent klaar! Klik op het tabblad **[!UICONTROL Report]** om uw gefilterde rapport te bekijken.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 
 >[!MORELIKETHIS]
 >
->[Middelen in een campagne-e-mailrapporten filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>[ de Filter Assets in een E-mailrapporten van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)

@@ -4,30 +4,30 @@ description: Performance Insights Trend Overview - Marketo Docs - Productdocumen
 title: Overzicht van trends voor prestaties
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Overzicht van trends voor prestaties {#performance-insights-trend-overview}
+# [!UICONTROL Performance Insights] Overzicht van trends {#performance-insights-trend-overview}
 
-De trend toont kanaalprestaties van over een periode.
+In [!UICONTROL Trend] worden de kanaalprestaties over een tijdsperiode weergegeven.
 
-Klik op de knop **Trend** om deze weergave te openen.
+Klik op het tabblad **[!UICONTROL Trend]** om deze weergave te openen.
 
 ![](assets/1.png)
 
-## Trend {#trend}
+## [!UICONTROL Trend] {#trend}
 
 ![](assets/2-1.png)
 
-Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [Eerste aanraking](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zijn verkregen.
 
 ![](assets/3-2.png)
 
-Metrische gegevens worden via twee grafieken weergegeven: donut en lijn.
+Metrische gegevens worden in twee grafieken weergegeven: donut en lijn.
 
 ![](assets/4-1.png)
 

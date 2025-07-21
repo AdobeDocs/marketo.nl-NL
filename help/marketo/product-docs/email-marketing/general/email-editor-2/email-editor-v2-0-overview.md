@@ -4,24 +4,24 @@ description: E-maileditor v2.0 - Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht E-maileditor v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
 
 # Overzicht E-maileditor v2.0 {#email-editor-v2-overview}
 
-Wanneer u besluit de E-maileditor v2.0 te activeren, zult u verschillende nieuwe functies zien.
+Wanneer u besluit om [!DNL Email Editor v2.0] te activeren, zult u verscheidene nieuwe eigenschappen opmerken.
 
-**E-mailsjabloonkiezer**
+**de Plukker van het Malplaatje E-mail**
 
-Wanneer u een nieuwe e-mail maakt, gaat u naar de [E-mailsjabloonkiezer](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Wanneer u nieuwe e-mail creeert, wordt u genomen aan de [ Plukker van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**E-maileditor**
+**E-mailredacteur**
 
 Wanneer u uw e-mail gaat bewerken, ziet u dat de editor een geheel nieuw uiterlijk heeft.
 
@@ -29,19 +29,19 @@ Wanneer u uw e-mail gaat bewerken, ziet u dat de editor een geheel nieuw uiterli
 
 **Modules**
 
-Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe u [Voeg modules aan uw e-mail toe](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe te [ modules aan uw e-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) toevoegen.
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**Tekst versie**
+**Versie van de Tekst**
 
-Het schakelen tussen de versie van de HTML en van de Tekst van uw e-mail is nu in een handig lusje bij de bodem. Leer hoe u [de tekstversie van een e-mail bewerken](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Het schakelen tussen de HTML-versie en de tekstversie van uw e-mailbericht staat nu op een handig tabblad onderaan. Leer hoe te [ de tekstversie van e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md) uitgeven.
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**E-mailkoptekst**
+**E-mailkopbal**
 
-Wilt u meer ontwerpruimte? De koptekst van de e-mail kan worden verborgen nadat u klaar bent [bewerken](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klik gewoon op dit pictogram...
+Wilt u meer ontwerpruimte? De e-mailkopbal kan worden verborgen nadat u [ het ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md) het uitgeven wordt gedaan. Klik gewoon op dit pictogram...
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -49,7 +49,7 @@ Wilt u meer ontwerpruimte? De koptekst van de e-mail kan worden verborgen nadat 
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**Een voorbeeld van uw e-mail bekijken**
+**Voorproef uw E-mail**
 
 Standaard wordt in het e-mailbericht weergegeven hoe het eruitziet op een bureaublad, zoals aangegeven door het gemarkeerde blauwe pictogram. Als u rechts op het pictogram klikt...
 
@@ -59,7 +59,7 @@ Standaard wordt in het e-mailbericht weergegeven hoe het eruitziet op een bureau
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Voor een grotere voorvertoning klikt u op **Voorvertoning** in de rechterbovenhoek van de e-mail.
+Voor een grotere voorvertoning klikt u op **[!UICONTROL Preview]** rechtsboven in het e-mailbericht.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ De standaardweergave daar is bureaublad...
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...maar u kunt ook zien hoe het er op een mobiel apparaat uitziet. U kunt ook een voorvertoning van de tekstversie weergeven. Eenvoudig klikken **Concept bewerken** rechtsboven om het bewerken te hervatten.
+...maar u kunt ook zien hoe het er op een mobiel apparaat uitziet. U kunt ook een voorvertoning van de tekstversie weergeven. Klik gewoon op **[!UICONTROL Edit Draft]** rechtsboven om het bewerken te hervatten.
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**E-mailhandelingen**
+**[!UICONTROL Email Actions]**
 
-Onder **E-mailhandelingen**, zult u enkele nieuwe eigenschappen opmerken. **Een afbeelding of bestand uploaden**, en **Afbeeldingen ophalen van web**. U kunt het e-mailbericht zelf ook opslaan als een nieuwe e-mailsjabloon. Het enige wat je hoeft te doen, is het een naam en een bestemming geven.
+Onder **[!UICONTROL Email Actions]** ziet u enkele nieuwe functies. **[!UICONTROL Upload an Image or File]** en **[!UICONTROL Grab Images from Web]** . U kunt het e-mailbericht zelf ook opslaan als een nieuwe e-mailsjabloon. Het enige wat je hoeft te doen, is het een naam en een bestemming geven.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,28 +83,28 @@ Onder **E-mailhandelingen**, zult u enkele nieuwe eigenschappen opmerken. **Een 
 
 >[!NOTE]
 >
->**[Afbeeldingen ophalen van web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** werkt net zoals in de Design Studio.
+>**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** werkt net zoals in de [!UICONTROL Design Studio] .
 
-**Volgen openen uitschakelen** Onder **E-mailinstellingen** kunt u het openen van het bijhouden desgewenst uitschakelen.
+**[!UICONTROL Disable Open Tracking]** Onder **[!UICONTROL Edit Settings]** kunt u het openen van tekstspatiëring desgewenst uitschakelen.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**E-mailinstellingen**
+**[!UICONTROL Edit Settings]**
 
-U kunt een voorheader toevoegen. Een preheader is de korte samenvattingstekst na de onderwerpregel wanneer e-mails in uw Postvak IN worden weergegeven.
+U kunt desgewenst een [!UICONTROL Preheader] toevoegen. A [!UICONTROL Preheader] is de korte samenvattingstekst na de onderwerpregel wanneer e-mails in uw Postvak IN worden weergegeven.
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->Tokens werken niet in de Preheader wanneer de e-maileditor wordt gebruikt. Als u een token wilt gebruiken in de Preheader, moet dit via uw eigen HTML in een e-mailsjabloon gebeuren.
+>Tokens werken niet in de [!UICONTROL Preheader] wanneer u de e-maileditor gebruikt. Als u een token wilt gebruiken in de [!UICONTROL Preheader] , moet dit via uw eigen HTML in een e-mailsjabloon gebeuren.
 
 Veel geweldige nieuwe functies! Veel plezier!
 
 >[!NOTE]
 >
->Als je nog dieper wilt gaan, kun je dit uitchecken [video](https://nation.marketo.com/videos/1463).
+>Als u nog dieper wilt delven, controleer deze [ video ](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->[E-mailsjabloonsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

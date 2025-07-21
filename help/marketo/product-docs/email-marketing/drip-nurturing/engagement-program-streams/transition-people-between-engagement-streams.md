@@ -4,53 +4,53 @@ description: Overgang mensen tussen betrokkenheidsstromen - Marketo Docs - produ
 title: Overgang mensen tussen betrokkenheidsstromen
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Overgang mensen tussen betrokkenheidsstromen {#transition-people-between-engagement-streams}
 
-Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [een stream toevoegen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), zult u een manier willen bepalen voor mensen om zich van één stroom aan een andere te bewegen. Deze worden **overgangsregels.**
+Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [ een stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) toevoegt, zult u een manier voor mensen willen bepalen om zich van één stroom aan een andere te bewegen. Deze worden genoemd **overgangsregels.**
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/ma.png)
 
-1. Selecteer uw multistreamed-serviceprogramma en ga naar **Streams**.
+1. Selecteer uw serviceprogramma voor meerdere stromen en ga naar **[!UICONTROL Streams]** .
 
    ![](assets/multistream.jpg)
 
-1. Klikken **Overgangsregels** voor de stream waarin u andere streams wilt gebruiken, klikt u op **Overgangsregels bewerken**.
+1. Klik op **[!UICONTROL Transition Rules]** voor de stream waarin u andere streams wilt plaatsen en klik vervolgens op **[!UICONTROL Edit Transition Rules]** .
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
    >[!NOTE]
    >
-   >De overgangsregels trekken zich in een stroom; Definieer altijd de regels voor de stream waarin u wilt plaatsen.
+   >De overgangsregels trekken in een stroom terug; bepalen altijd de regels op de stroom die u wilt trekken.
 
-   Wanneer het venster met de overgangsregel wordt geopend, zoekt en sleept u in de gewenste trigger. In dit geval willen we mensen naar het middelste werkgebied verplaatsen wanneer het aan een kans wordt toegevoegd.
+   Wanneer het venster met de overgangsregel wordt geopend, zoekt en sleept u in de gewenste trigger. In dit geval willen we mensen naar [!UICONTROL Mid Stage] verplaatsen wanneer deze aan een kans wordt toegevoegd.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Laten we de operator instellen op **is** zodat de mensen zich verplaatsen voor elke extra kans.
+1. Stel de operator in op **[!UICONTROL is any]** , zodat de personen naar de andere operator gaan voor extra mogelijkheden.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
    >[!TIP]
    >
-   >U kunt meerdere triggers en filters toevoegen aan een overgangsregel, maar de overgangsregel gebruikt alle filters (alleen met ALLE filters). Als u OF in een overgangsregel moet gebruiken, adviseren wij dat u opstelling een buitenslimme campagne in plaats daarvan.
+   >U kunt meerdere triggers en filters toevoegen aan een overgangsregel, maar de overgangsregel gebruikt alle filters (ALLE filters zijn de enige optie). Als u OF in een overgangsregel moet gebruiken, adviseren wij dat u opstelling een buitenslimme campagne in plaats daarvan.
 
-1. Klikken **Sluiten**.
+1. Klik op **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   Geweldig! Iedereen in uw betrokkenheidsprogramma die aan een opportuniteit is toegevoegd, wordt nu verplaatst naar de middelste werkgebiedstream.
+   Geweldig! Iedereen in uw betrokkenheidsprogramma die aan een opportuniteit is toegevoegd, wordt nu naar de [!UICONTROL Mid Stage] -stream verplaatst.
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 
    >[!NOTE]
    >
-   >De hierboven beschreven stappen *do* van toepassing op personen die [tijdens pauzeren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) ook.
+   >De stappen hierboven geschetst *zijn* van toepassing op mensen die [ op pauze ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) eveneens zijn.

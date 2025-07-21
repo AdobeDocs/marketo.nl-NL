@@ -4,9 +4,9 @@ description: Een aangepast veld maken voor CRM-detectie - Marketo Docs - Product
 title: Een aangepast veld maken voor CRM-detectie
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Voeg aangepaste velden toe aan accounts, wijs deze toe aan uw CRM en gebruik ze voor CRM-accountdetectie in Marketo.
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Klikken **Veldbeheer** vervolgens **Nieuw aangepast veld**.
+1. Klik op **[!UICONTROL Field Management]** en vervolgens op **[!UICONTROL New Custom Field]** .
 
    ![](assets/two-4.png)
 
-1. Klik op de knop **Object** vervolgkeuzelijst en selecteer **Benoemd account**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Object]** en selecteer **[!UICONTROL Named Account]** .
 
    ![](assets/three-3.png)
 
-1. Klik op de knop **Type** en selecteer een type.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Type]** en selecteer een type.
 
    ![](assets/four-3.png)
 
-1. Voer een **Naam** (de API-naam wordt automatisch ingevuld) en klik op **Maken**.
+1. Voer een **[!UICONTROL Name]** in (de API-naam wordt automatisch ingevuld) en klik op **[!UICONTROL Create]** .
 
    ![](assets/five-3.png)
 
-1. Nadat het veld is gemaakt, selecteert u het in de boomstructuur aan de rechterkant. Klik op de knop **Veldhandelingen** vervolgkeuzelijst en selecteer **Toewijzen aan CRM-veld**.
+1. Nadat het veld is gemaakt, selecteert u het in de boomstructuur aan de rechterkant. Klik op de vervolgkeuzelijst **[!UICONTROL Field Actions]** en selecteer **[!UICONTROL Map to CRM Field]** .
 
    ![](assets/six-2.png)
 
-1. Selecteer het de rekeningsgebied van CRM u aan in kaart wilt brengen en klikken **Opslaan**.
+1. Selecteer het veld CRM-account waarnaar u wilt toewijzen en klik op **[!UICONTROL Save]** .
 
    ![](assets/seven-1.png)
 

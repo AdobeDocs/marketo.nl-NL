@@ -1,54 +1,54 @@
 ---
 unique-page-id: 12980105
-description: Gebruikers uitnodigen om hun accountgegevens te openen - Marketo Docs - Productdocumentatie
-title: Gebruikers uitnodigen om accountgegevens te openen
+description: Gebruikers uitnodigen om [!UICONTROL Account Insight] te openen - Marketo Docs - Productdocumentatie
+title: Gebruikers uitnodigen om toegang te krijgen [!UICONTROL Account Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 1%
 
 ---
 
-# Gebruikers uitnodigen om accountgegevens te openen {#invite-users-to-access-account-insight}
+# Gebruikers uitnodigen om toegang te krijgen [!UICONTROL Account Insight] {#invite-users-to-access-account-insight}
 
-Voer de volgende stappen uit om gebruikers toegang te geven tot Account Insight.
+Voer de volgende stappen uit om gebruikers toegang te geven tot [!UICONTROL Account Insight] .
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Klikken **Gebruikers en rollen** in de boom. Klik vervolgens op de knop **Verkopers** tab, en **Nieuwe verkoper uitnodigen**.
+1. Klik op **[!UICONTROL Users & Roles]** in de structuur. Klik vervolgens op de tab **[!UICONTROL Sales Users]** en **[!UICONTROL Invite New Sales User]** .
 
    ![](assets/two-6.png)
 
-   Er zijn twee manieren om gebruikers uit te nodigen: Op CRM of per e-mail. In dit voorbeeld zullen wij Uitnodiging door CRM gebruiken.
+   Er zijn twee manieren om gebruikers uit te nodigen: door CRM of per e-mail. In dit voorbeeld zullen wij Uitnodiging door CRM gebruiken.
 
    >[!NOTE]
    >
    >Wanneer u nieuwe (niet-Marketo) gebruikers uitnodigt via de gebruikerslijst van CRM, kunt u meerdere personen tegelijk uitnodigen. Uitnodigen per e-mail is 1 voor 1.
 
-1. Klik op de knop **CRM-gebruiker** en selecteer de gewenste gebruiker.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL CRM User]** en selecteer de gewenste gebruiker.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Als u **Gebruiker per e-mail uitnodigen** Voer gewoon hun voornaam, achternaam en e-mailadres in en ga verder met stap 4.
+   >Als u **[!UICONTROL Invite User by email]** kiest, voert u gewoon de voornaam, achternaam en het e-mailadres in en gaat u verder met stap 4.
 
 1. Als u een vervaldatum voor de toegang van de gebruiker (optioneel) wilt instellen, klikt u op het kalenderpictogram. Het is standaard ingesteld op &quot;nooit&quot;.
 
    ![](assets/four-5.png)
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/five-5.png)
 
-1. Controleer de **Account Insight** selectievakje en klik op **Volgende**.
+1. Schakel het selectievakje **[!UICONTROL Account Insight]** in en klik op **[!UICONTROL Next]** .
 
    ![](assets/six-3.png)
 
-1. Ga naar het verzendbericht, breng desgewenst wijzigingen aan (optioneel) en klik op **Verzenden**.
+1. Kijk over het verzendbericht, breng desgewenst wijzigingen aan (optioneel) en klik op **[!UICONTROL Send]** .
 
    ![](assets/seven-2.png)

@@ -4,10 +4,10 @@ description: Een formulier goedkeuren - Marketo Docs - Productdocumentatie
 title: Een formulier goedkeuren
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Als u een formulier aan een van uw bestemmingspagina&#39;s wilt toevoegen, moet 
 
 Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is om te worden gebruikt.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Onder **Formulierhandelingen**, klikt u op **Goedkeuren**.
+1. Klik onder **[!UICONTROL Form Actions]** op **[!UICONTROL Approve]** .
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Het is goedgekeurd en klaar om te zijn [toegevoegd aan een bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Het is goedgekeurd en klaar om [ aan een het landen pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden toegevoegd.
 
    >[!NOTE]
    >
@@ -47,12 +47,12 @@ Als u wijzigingen aanbrengt in een formulier, kunt u de pagina rechtstreeks vanu
 
 >[!PREREQUISITES]
 >
->[Een formulier bewerken](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[ geef een Vorm ](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) uit
 
-1. Klikken **Voltooien**.
+1. Klik op **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Klikken **Goedkeuren en Sluiten**.
+1. Klik op **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

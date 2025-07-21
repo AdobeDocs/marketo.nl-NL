@@ -4,33 +4,33 @@ description: Enable Call Recording - Marketo Docs - Productdocumentatie
 title: Schakel Call Recording in
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Schakel Call Recording in {#enable-call-recording}
 
-Als beheerder kunt u vraagopname voor uw Verkoop toelaten Connect vraag. Het registreren van de vraag van uw team kan een grote manier zijn om uw verkoopvertegenwoordigers op de beste roepende praktijken te coderen.
+Als beheerder kunt u vraagopname voor uw [!DNL Sales Connect] vraag toelaten. Het registreren van de vraag van uw team kan een grote manier zijn om uw verkoopvertegenwoordigers op de beste roepende praktijken te coderen.
 
-1. Klik op het pictogram Instellingen en selecteer **Instellingen**.
+1. Klik op het pictogram Instellingen en selecteer **[!UICONTROL Settings]** .
 
    ![](assets/one.png)
 
-1. Klik onder Beheerinstellingen op **Algemeen**.
+1. Klik onder [!UICONTROL Admin Settings] op **[!UICONTROL General]** .
 
    ![](assets/two.png)
 
-1. Schuif omlaag naar de instellingen voor de telefoon van Sales Connect en selecteer de optie **Aanroepopname inschakelen** schakelen.
+1. Schuif omlaag naar [!DNL Sales Connect] Telefooninstellingen en selecteer de schakeloptie **[!UICONTROL Enable call recording]** .
 
    ![](assets/three.png)
 
-1. Als je verkopers de mogelijkheid wilt geven om opgenomen oproepen voor zichzelf in of uit te schakelen, klik je op **Optionele opname voor alle teamleden**. Als u alle vraag wilt automatisch geregistreerd, klik **Alle aanroepen opnemen**.
+1. Als je verkopers de mogelijkheid wilt geven om het opnemen van oproepen voor zichzelf in of uit te schakelen, klik je op **[!UICONTROL Optional recording for all team members]** . Klik op **[!UICONTROL Record all calls]** als u alle aanroepen automatisch wilt laten opnemen.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Instellingen voor twee partijen voor toestemming](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
+>[ Twee Montages van de Toestemming van de Partij ](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

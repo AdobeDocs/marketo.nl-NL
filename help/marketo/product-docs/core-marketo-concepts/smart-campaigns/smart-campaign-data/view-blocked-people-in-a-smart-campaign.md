@@ -4,16 +4,16 @@ description: Geblokkeerde personen weergeven in een slimme campagne - Marketo Do
 title: Geblokkeerde personen weergeven in een slimme campagne
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 # Geblokkeerde personen weergeven in een slimme campagne {#view-blocked-people-in-a-smart-campaign}
 
-Geblokkeerde personen in de database Marketo Engage worden gemarkeerd als op de lijst met ongewenste personen staan, afgemeld, marketing opgeschort en/of hebben een ongeldig of leeg e-mailbericht.
+Geblokkeerde personen in de Marketo Engage-database worden gemarkeerd als op de lijst met ongewenste personen staan, afgemeld, marketing opgeschort en/of hebben een ongeldig of leeg e-mailbericht.
 
 1. Klik in de slimme campagne op **[!UICONTROL Schedule]** . Klik onder **[!UICONTROL Smart List Status]** op de tweede koppeling.
 
@@ -23,7 +23,7 @@ Geblokkeerde personen in de database Marketo Engage worden gemarkeerd als op de 
    >
    >Personen die hun communicatielimieten hebben bereikt, kunnen ook worden verhinderd om berichten te ontvangen. Leer hoe te [ communicatielimieten ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de Admin sectie uitgeven.
 
-   Op het tabblad Geblokkeerde personen worden personen weergegeven die mogelijk geen berichten ontvangen.
+   Op het tabblad **[!UICONTROL Blocked Leads]** worden personen weergegeven die mogelijk geen berichten ontvangen.
 
    ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 

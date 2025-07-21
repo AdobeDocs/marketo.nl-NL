@@ -4,9 +4,9 @@ description: Een rapport vernieuwen - Marketo Docs - Productdocumentatie
 title: Een rapport vernieuwen
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Na het bekijken van een rapport, slaat Marketo het in uw gegevensbestand op zoda
 
    ![](assets/two.png)
 
-1. U kunt het rapport ook vernieuwen door op de knop **Handelingen rapporteren** en selecteren **Rapport vernieuwen**.
+1. U kunt het rapport ook vernieuwen door op het menu **[!UICONTROL Report Actions]** te klikken en **[!UICONTROL Refresh Report]** te selecteren.
 
    ![](assets/three.png)
 

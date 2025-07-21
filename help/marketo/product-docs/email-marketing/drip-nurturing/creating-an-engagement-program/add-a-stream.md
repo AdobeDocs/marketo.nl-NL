@@ -4,10 +4,10 @@ description: Een stream toevoegen - Marketo Docs - Productdocumentatie
 title: Een stream toevoegen
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Betrokkenheidsprogramma&#39;s kunnen meerdere streams bevatten. Hieronder wordt beschreven hoe u een nieuwe toevoegt.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer uw serviceprogramma en klik op de knop **Streams** tab.
+1. Selecteer uw betrokkenheidsprogramma en klik op de tab **[!UICONTROL Streams]** .
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Klikken **Stream toevoegen**.
+1. Klik op **[!UICONTROL Add Stream]**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 

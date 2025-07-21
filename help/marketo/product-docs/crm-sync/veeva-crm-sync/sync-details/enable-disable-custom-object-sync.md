@@ -3,56 +3,56 @@ description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo 
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 # Aangepaste objectsynchronisatie inschakelen/uitschakelen {#enable-disable-custom-object-sync}
 
-Aangepaste objecten die in uw Veeva CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van het Marketo Engage. Hier is hoe u het kunt instellen.
+Aangepaste objecten die in uw [!DNL Veeva] CRM-instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo Engage. Hieronder wordt beschreven hoe u dit instelt.
 
 ## Aangepaste objectsynchronisatie inschakelen of uitschakelen {#enable-or-disable-the-custom-object-sync}
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**vereiste toestemmingen Admin**
 
-1. Klik in Marketo op **[!UICONTROL Admin]** vervolgens **[!UICONTROL Veeva Objects Sync]**.
+1. Klik in Marketo op **[!UICONTROL Admin]** en vervolgens op **[!UICONTROL Veeva Objects Sync]** .
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Als dit het eerste aangepaste object is, klikt u op Schema synchroniseren. Als dat niet het geval is, klikt u op **[!UICONTROL Refresh Schema]** om ervoor te zorgen dat u over de nieuwste informatie beschikt.
+1. Klik op **[!UICONTROL Sync Schema]** als dit uw eerste aangepaste object is. Als dat niet het geval is, klikt u op **[!UICONTROL Refresh Schema]** om te controleren of u het meest recente bestand hebt.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Als de algemene synchronisatie wordt uitgevoerd, schakelt u deze uit door op **[!UICONTROL Disable Global Sync]**.
+1. Als de algemene synchronisatie wordt uitgevoerd, schakelt u deze uit door op **[!UICONTROL Disable Global Sync]** te klikken.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
    >[!NOTE]
    >
-   >Het kan een paar minuten duren om het schema van het aangepaste object van Veeva te synchroniseren.
+   >Een synchronisatie van het schema voor aangepaste objecten van [!DNL Veeva] kan een paar minuten duren.
 
 1. Klik op **[!UICONTROL Refresh Schema]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Selecteer het object dat u wilt synchroniseren en klik op Synchronisatie inschakelen.
+Selecteer het object dat u wilt synchroniseren en klik op **[!UICONTROL Enable Sync]** .
 
 ![](assets/enable-disable-custom-object-sync-5.png)
 
 >[!TIP]
 >
->Marketo kan een aangepast object alleen synchroniseren als het een directe relatie heeft met het object Contact of Account in Veeva CRM.
+>Marketo kan een aangepast object alleen synchroniseren als het een directe relatie heeft met het object Contact of Account in [!DNL Veeva] CRM.
 
-1. Klikken **[!UICONTROL Enable Sync]** opnieuw.
+1. Klik nogmaals op **[!UICONTROL Enable Sync]** .
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Ga terug naar het tabblad Veeva en klik op **[!UICONTROL Enable Sync]**.
+1. Ga terug naar de tab [!UICONTROL Veeva] en klik op **[!UICONTROL Enable Sync]** .
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Selecteer het object dat u wilt synchroniseren en klik op Synchronisatie inschak
 >
 >U kunt aangepaste objecten niet gebruiken in slimme campagnes met triggers.
 
-1. Sleep in de slimme lijst over het filter &quot;Heeft opportuniteit&quot; en stel dit in op **[!UICONTROL True]**.
+1. Sleep in uw [!UICONTROL Smart List] over het filter &quot;**[!UICONTROL Has Opportunity]**&quot; en stel dit in op **[!UICONTROL True]** .
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -70,8 +70,8 @@ Selecteer het object dat u wilt synchroniseren en klik op Synchronisatie inschak
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Uitstekend! U kunt de gegevens van dit aangepaste object nu gebruiken in slimme campagnes en slimme lijsten.
+Uitstekend! U kunt de gegevens van dit aangepaste object nu gebruiken in [!UICONTROL Smart Campaigns] en [!UICONTROL Smart Lists] .
 
 >[!MORELIKETHIS]
 >
->[Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[ voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe

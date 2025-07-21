@@ -4,9 +4,9 @@ description: Account Triggers - Marketo Docs - Productdocumentatie
 title: Accounttriggers
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 U kunt belangrijke gedragsactiviteiten op accountniveau via verschillende kanalen (zoals e-mail, web, advertenties) beluisteren en uitvoeren met behulp van triggers op accountniveau.
 
-Selecteer uw slimme campagne en klik op **[!UICONTROL Smart List]**.
+Selecteer uw slimme campagne en klik op **[!UICONTROL Smart List]** .
 
 ![](assets/one-1.png)
 
-Voer &quot;Benoemd account&quot; in het zoekvak in om beide triggers voor benoemde account te zoeken.
+Voer &quot;[!UICONTROL Named Account]&quot; in het zoekvak in om beide [!UICONTROL Named Account] -triggers te zoeken.
 
 ![](assets/two-1.png)
 
-Sleep de gewenste trigger naar het canvas. In dit voorbeeld gebruiken we _Toegevoegd aan benoemd account_.
+Sleep de gewenste trigger naar het canvas. In dit voorbeeld gebruiken we _[!UICONTROL Added to Named Account]_.
 
 ![](assets/three-1.png)
 
@@ -35,7 +35,7 @@ Klik op de vervolgkeuzelijst benoemde account...
 
 ![](assets/five-1.png)
 
-...en kiest u de gewenste benoemde account(s).
+...en kies de gewenste benoemde account(s).
 
 ![](assets/six-1.png)
 
@@ -43,4 +43,4 @@ Dat is het! Nadat u de rest van uw slimme campagne hebt voltooid, vergeet dan ni
 
 >[!MORELIKETHIS]
 >
->[Accountfilters](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
+>[ de Filters van de Rekening ](/help/marketo/product-docs/target-account-management/engage/account-filters.md)

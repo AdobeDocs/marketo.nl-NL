@@ -4,24 +4,24 @@ description: Een slimme lijst definiëren voor activiteiten met betrekking tot p
 title: Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 # Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud {#define-a-smart-list-for-predictive-content-activities}
 
-U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wanneer u een slimme lijst definieert in een slimme campagne. U kunt een actie activeren voor iedereen die via het dialoogvenster [Rich Media-sjabloon](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)de [De balk met aanbevelingen voor inhoud](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)of in een [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
+U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wanneer u een slimme lijst definieert in een slimme campagne. U kunt een actie voor iedereen teweegbrengen die voorspelbare inhoud via het [ Rijke malplaatje van Media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) klikt, de [ Bar van de Aanbeveling van de Inhoud ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md), of in een [ e-mail ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-1. Navigeer in uw slimme campagne naar de **Slimme lijst** tab.
+1. Navigeer in uw slimme campagne naar het tabblad **[!UICONTROL Smart List]** .
 
    ![](assets/smart-list-1.png)
 
    >[!NOTE]
    >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Meer informatie in het dialoogvenster [diepe duik voor slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in de [ slimme lijst diep duiken ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep deze naar het canvas.
 
@@ -31,15 +31,15 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
    >
    >Een slimme campagne met triggers wordt uitgevoerd in de triggermodus. De functie wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en de filters worden toegevoegd.
 
-1. Klik op de knop **Naam** en selecteert u een operator.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Name]** en selecteer een operator.
 
    ![](assets/smart-list-dropdown-hands.png)
 
-1. Definieer de trigger.
+1. Geef de trigger op.
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Voeg de **Type** beperking.
+1. Voeg de restrictie **[!UICONTROL Type]** toe.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
 
    ![](assets/pc-add-constraint.png)
 
-1. Als u de e-mailbron voor uw voorspellende inhoud gebruikt, voegt u de **Klik op Koppeling in e-mail** trigger. Selecteer uw e-mail en voeg de **Is voorspelbaar** beperking, gedefinieerd als **true**.
+1. Als u de e-mailbron voor uw voorspellende inhoud gebruikt, voegt u de trigger **[!UICONTROL Clicks Link in Email]** toe. Selecteer het e-mailadres en voeg de restrictie **[!UICONTROL Is Predictive]** toe, gedefinieerd als **[!UICONTROL true]** .
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -63,12 +63,12 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
    >
    >Bij meerdere triggers gaat een persoon door naar de flow als een van de triggers wordt geactiveerd.
 
-   Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren [een slimme lijst definiëren voor een &#39;batch smart&#39;-campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Om de campagne op een reeks mensen allen tezelfdertijd in werking te stellen, leer hoe te [ een slimme lijst voor een partij slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md) bepalen.
 
    >[!MORELIKETHIS]
    >
-   >* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [Een slimme lijst definiëren voor activiteiten van webpersonalisatie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
-   >* [Voorspelende inhoud voor web-rijke media inschakelen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-   >* [De balk met aanbevelingen voor inhoud inschakelen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+   >* [ bepaalt Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [ bepaal een Slimme Lijst voor de Activiteiten van Personalization van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+   >* [ laat Voorspelende Inhoud voor Web Rich Media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe
+   >* [ laat de Bar van de Aanbeveling van de Inhoud ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) toe

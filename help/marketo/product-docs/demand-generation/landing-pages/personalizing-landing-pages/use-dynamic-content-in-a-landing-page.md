@@ -4,9 +4,9 @@ description: Dynamische inhoud gebruiken op een bestemmingspagina - Marketo Docs
 title: Dynamische inhoud gebruiken in een bestemmingspagina
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -15,51 +15,51 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Een vrije bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Een nieuw formulier toevoegen aan een openingspagina met vrije vorm](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [ creeer een Vrije-Vorm het Landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [ voeg een Nieuwe Vorm aan een Vrije-Vorm Landing Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen met gerichte informatie ingeschakeld.
 
 ## Segmentering toevoegen {#add-segmentation}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities.png)
 
-   Klik op de bestemmingspagina en klik vervolgens op Concept bewerken.
+   Klik op uw **[!UICONTROL Landing Page]** en vervolgens op **[!UICONTROL Edit Draft]** .
 
    ![](assets/landingpageeditdraft.jpg)
 
-   Klik op Segment op.
+   Klik op **[!UICONTROL Segment By]**.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Voer de naam van de segmentatie in en klik op Opslaan.
+   Voer de naam **[!UICONTROL Segmentation]** in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   Uw segmentatie en zijn segmenten verschijnen onder Dynamisch op het recht.
+   De segmentatie en de bijbehorende segmenten worden rechts onder **[!UICONTROL Dynamic]** weergegeven.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >Alle landende pagina-elementen zijn standaard statisch.
+   >Alle openende pagina-elementen zijn standaard **[!UICONTROL Static]** .
 
 ## Element dynamisch maken {#make-element-dynamic}
 
-1. Elementen slepen en neerzetten van Statisch naar **Dynamisch**.
+1. Sleep elementen van **[!UICONTROL Static]** naar **[!UICONTROL Dynamic]** .
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. U kunt ook elementen statisch of dynamisch maken vanuit het element **Instellingen**.
+1. U kunt ook elementen maken [!UICONTROL Static] of [!UICONTROL Dynamic] vanuit het element **[!UICONTROL Settings]** .
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Dynamische inhoud toepassen {#apply-dynamic-content}
 
-1. Selecteer een element onder een segment en klik op **Bewerken**. Herhaal dit voor elk segment.
+1. Selecteer een element onder een segment en klik op **[!UICONTROL Edit]** . Herhaal dit voor elk segment.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
@@ -75,9 +75,9 @@ Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen me
    >
    >Maak een standaardopeningspagina voordat u de inhoud voor de verschillende segmenten wijzigt.
 
-Voila! U kunt nu de doelinhoud verzenden.
+Voilà! U kunt nu de doelinhoud verzenden.
 
 >[!MORELIKETHIS]
 >
->* [Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Dynamische inhoud gebruiken in een e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [ Voorproef een het Bestaan Pagina met Dynamische Inhoud ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [ Gebruikend Dynamische Inhoud in e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

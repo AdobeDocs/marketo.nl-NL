@@ -4,10 +4,10 @@ description: Goedkeuren/goedkeuren van een inkomstenmodel - Marketo Docs - Produ
 title: Een inkomstenmodel goedkeuren/goedkeuren
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 1%
 
 ---
 
@@ -17,11 +17,11 @@ U kunt op elk moment slechts één goedgekeurd model hebben.
 
 >[!CAUTION]
 >
->[Individuele fasen moeten worden goedgekeurd](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) en personen toegevoegd voordat u een geheel model goedkeurt.
+>[ Individuele stadia moeten worden goedgekeurd ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
 
 ## Goedkeuren {#approve}
 
-1. Ga naar de **Analyse** gebied.
+1. Ga naar het **[!UICONTROL Analytics]** -gebied.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ U kunt op elk moment slechts één goedgekeurd model hebben.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Van de **Modelhandelingen** menu, kiest u **Model goedkeuren**.
+1. Kies **[!UICONTROL Model Actions]** in het menu **[!UICONTROL Approve Model]** .
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Er verschijnt een dialoogvenster waarin u uw keuze kunt bevestigen. Klikken **Goedkeuren**.
+1. Er verschijnt een dialoogvenster waarin u uw keuze kunt bevestigen. Klik op **[!UICONTROL Approve]**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Uw model is nu live!
 >
 >Als u uw model niet goedkeurt, worden al uw mensen verwijderd uit het model, en hun geschiedenis in het model wordt geschrapt!
 
-1. Ga naar de **Analyse** gebied.
+1. Ga naar het **[!UICONTROL Analytics]** -gebied.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ Uw model is nu live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Klik op de knop **Modelhandelingen** en kiest u **Model niet goedkeuren**.
+1. Klik op het menu **[!UICONTROL Model Actions]** en kies **[!UICONTROL Unapprove Model]** .
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. Klik in het dialoogvenster dat wordt weergegeven op **Model niet goedkeuren**.
+1. Klik in het dialoogvenster [!UICONTROL Unapprove Model] dat wordt weergegeven op **[!UICONTROL Unapprove]** .
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

@@ -4,9 +4,9 @@ description: Het dashboard voor het e-mailprogramma weergeven - Marketo Docs - P
 title: Het dashboard voor het e-mailprogramma weergeven
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Kijk hoe uw e-mailprogramma (met of zonder een A/B-test) met dit dashboard prest
 
 >[!CAUTION]
 >
->Voor nauwkeurige rapportage dient u _hergebruiken_ een e-mailbericht van een e-mailprogramma door ernaar te verwijzen in een slimme campagne of door het middel van een nieuwe e-mailprogramma te verplaatsen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail opnieuw moet gebruiken, gelieve [klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan, aangezien het e-mailbericht wordt gekopieerd maar er een wordt gemaakt met een nieuwe e-mailid.
+>Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [ het ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
 
 ## Selecteer uw e-mailprogramma {#select-your-email-program}
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities.png)
 
@@ -41,7 +41,7 @@ Als u een A/B-test hebt toegevoegd aan uw e-mailprogramma en de test momenteel w
 
 ## E-mailprogrammaweergave {#email-program-view}
 
-Als u geen A/B-test hebt toegevoegd *of* als de test voorbij is, moet het volgende worden getoond:
+Alternatief, als u geen A/B test *toevoegde of* als de test over is, zou het volgende moeten worden getoond:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -51,5 +51,5 @@ Als u geen A/B-test hebt toegevoegd *of* als de test voorbij is, moet het volgen
 
 >[!MORELIKETHIS]
 >
->* [Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Het dashboard voor het e-mailprogramma gebruiken](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [ gebruik het Dashboard van het E-mailprogramma - de Mening van de Test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [ Gebruik het Dashboard van het E-mailProgramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

@@ -4,26 +4,26 @@ description: Performance Insights Contribution Overview - Marketo Docs - Product
 title: Overzicht van de bijdrage van Performance Insights
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# Overzicht van de bijdrage van Performance Insights {#performance-insights-contribution-overview}
+# [!UICONTROL Performance Insights] Overzicht van de bijdrage {#performance-insights-contribution-overview}
 
-In Marketo Performance Insights wordt de weergave Bijdrage standaard weergegeven.
+In Marketo [!UICONTROL Performance Insights] wordt de weergave Bijdrage standaard weergegeven.
 
 ![](assets/one-1.png)
 
-Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die u via Multi-Touch hebt verworven in het belastingdashboard.
+Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via **[!UICONTROL Multi-Touch]** in het _[!UICONTROL Revenue]_-dashboard zijn verkregen.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Meer informatie over [First-Touch en Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Meer informatie over [[!UICONTROL First-Touch] en [!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) .
 
 Kies voor welke periode u metriek wilt weergeven. In dit voorbeeld bekijken we het huidige jaar (van jaar tot dag).
 
@@ -31,9 +31,9 @@ Kies voor welke periode u metriek wilt weergeven. In dit voorbeeld bekijken we h
 
 >[!NOTE]
 >
->We hebben tijdelijk de selectie van het vorige jaar verwijderd. U hebt nog steeds de mogelijkheid om de volledige prestatiegegevens van het voorgaande jaar weer te geven met de selectie Aangepast bereik.
+>We hebben de selectie voor het vorige jaar tijdelijk verwijderd. U kunt desondanks de volledige prestatiegegevens van het voorgaande jaar weergeven met de selectie van **[!UICONTROL Custom Range]** .
 
-Metrische gegevens worden via twee grafieken weergegeven: doughnut en bar.
+Metrische gegevens worden in twee grafieken weergegeven: donut en staaf.
 
 ![](assets/four.png)
 
@@ -47,7 +47,7 @@ In het staafdiagram worden de programmaprestaties langs alle kanalen (tien progr
 
 >[!TIP]
 >
->Als u wilt dat de staven in de grafiek worden vergroot terwijl u door de groepen schuift, selecteert u de optie **Y-as passend maken** selectievakje.
+>Als u wilt dat de staven in de grafiek worden vergroot terwijl u door de groepen schuift, schakelt u het selectievakje **[!UICONTROL Scale Y axis to fit]** in.
 
 Plaats de muisaanwijzer op een balk voor meer informatie.
 
@@ -57,16 +57,16 @@ Selecteer een of meer kanalen in het donutdiagram en alle programma&#39;s die bi
 
 ![](assets/eight.png)
 
-Het onderstaande gegevensraster werkt als een spreadsheet, waarin alle beschikbare metriek worden weergegeven onder het gekozen attributiemodel (First-Touch/Multi-Touch). De kolom die de gekozen metrische waarde bevat, wordt gemarkeerd.
+Het gegevensnet hieronder functioneert als een spreadsheet, die alle beschikbare metriek onder het gekozen attributiemodel ([!UICONTROL First-Touch] toont/ [!UICONTROL Multi-Touch]). De kolom die de gekozen metrische waarde bevat, wordt gemarkeerd.
 
 ![](assets/9.png)
 
-| **Opportunity Won** | Het deel van de kredieten (in numerieke waarde) dat het programma heeft ontvangen om de eigen kans te beïnvloeden |
+| **[!UICONTROL Opportunities Won]** | Het deel van de kredieten (in numerieke waarde) dat het programma heeft ontvangen om de eigen kans te beïnvloeden |
 |---|---|
-| **Won-inkomsten** | Het deel van de kredieten (in monetaire waarde) dat het programma heeft ontvangen om de eigen kans te beïnvloeden |
-| **Kosten** | Totale kosten van het programma |
-| **Kosten per verkoopkans** | De verhouding tussen de kosten van het programma en het deel van het krediet (in numerieke waarde) dat het programma heeft ontvangen om het scheppen van nieuwe kansen te beïnvloeden |
-| **Ratio van inkomsten uit inkomsten** | De verhouding tussen het deel van het krediet (in monetaire waarde) dat het programma heeft ontvangen om de eigen kansen en de kosten van het programma te beïnvloeden |
+| **[!UICONTROL Revenue Won]** | Het deel van de kredieten (in monetaire waarde) dat het programma heeft ontvangen om de eigen kans te beïnvloeden |
+| **[!UICONTROL Cost]** | Totale kosten van het programma |
+| **[!UICONTROL Cost Per Opportunity Won]** | De verhouding tussen de kosten van het programma en het deel van het krediet (in numerieke waarde) dat het programma heeft ontvangen om het scheppen van nieuwe kansen te beïnvloeden |
+| **[!UICONTROL Revenue Won To Cost Ratio]** | De verhouding tussen het deel van het krediet (in monetaire waarde) dat het programma heeft ontvangen om de eigen kansen en de kosten van het programma te beïnvloeden |
 
 Breid een kanaal uit om zijn hoogste tien programma&#39;s te zien, met de resterende programma&#39;s gecombineerd.
 
@@ -74,4 +74,4 @@ Breid een kanaal uit om zijn hoogste tien programma&#39;s te zien, met de rester
 
 >[!NOTE]
 >
->Als u op het selectievakje naast een kanaal klikt, wordt het kanaal in de bovenstaande donutgrafiek geactiveerd of gedeactiveerd.
+>Als u op het selectievakje naast een kanaal klikt, wordt het kanaal in de bovenstaande doughnut-grafiek geactiveerd of gedeactiveerd.

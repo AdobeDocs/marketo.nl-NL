@@ -4,9 +4,9 @@ description: Een rapporttijdkader wijzigen - Marketo Docs - Productdocumentatie
 title: Een rapporttijdframe wijzigen
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepaald tijdstip van activiteit kunt concentreren.
 
-1. Ga naar de **Marketingactiviteiten** (of **Analyse**).
+1. Ga naar het **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ) gebied.
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Instellen** tab.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de tab **[!UICONTROL Setup]** .
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
 1. Dubbelklik op het veld voor het tijdframe, anders gelabeld afhankelijk van het rapporttype:
 
-   * **Persoon gemaakt op**, in persoonlijke verslagen
-   * **Verzonden datum**, in e-mailrapporten
-   * **Datum van activiteit** in alle andere verslagen
+   * **[!UICONTROL Person Created At]**, persoonlijk rapporten
+   * **[!UICONTROL Sent Date]**, in e-mailrapporten
+   * **[!UICONTROL Date of Activity]** in alle andere rapporten
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**Persoon gemaakt op** verwijst naar het moment dat de persoon in uw database bekend werd.
+   >**[!UICONTROL Person Created At]** verwijst naar het moment dat de persoon in uw database bekend werd.
 
 1. Kies het aangewezen tijdkader van het drop-down menu.
 
@@ -41,11 +41,11 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
 
    >[!TIP]
    >
-   >Als u specifieke datums wilt instellen, selecteert u **Aangepast** in het keuzemenu en voer de datums in het dialoogvenster **Van** en **Naar** Kalendervelden.
+   >Als u specifieke datums wilt instellen, selecteert u **[!UICONTROL Custom]** in de vervolgkeuzelijst en voert u de datums in de kalendervelden **[!UICONTROL From]** en **[!UICONTROL To]** in.
 
-   Klik op de knop **Rapport** om uw rapport voor het geselecteerde tijdkader te bekijken.\
+   Klik op het tabblad **[!UICONTROL Report]** om uw rapport voor het geselecteerde tijdframe weer te geven.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
    >
-   >Om uw rapport door specifieke persoonattributen te beperken, kunt u [Personen in een rapport filteren met een slimme lijst](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
+   >Om uw rapport door specifieke persoonattributen te beperken, kunt u [ Mensen in een Rapport met een Slimme Lijst ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) filtreren.

@@ -4,9 +4,9 @@ description: E-mails verzenden van de eigenaar van de lead - Marketo Docs - Prod
 title: E-mails verzenden vanuit de eigenaar van de lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat het.
 
-1. Uw e-mail zoeken, deze selecteren en klikken **Concept bewerken**.
+1. Zoek de e-mail, selecteer deze en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/one.png)
 
-1. Klik in het dialoogvenster **Van** (verwijder een bestaande naam) en klik op de knop **Token invoegen** knop.
+1. Klik op het **[!UICONTROL From]** gebied (schrap om het even welke bestaande naam), en klik **Symbolische** knoop van het Tussenvoegsel.
 
    ![](assets/two.png)
 
-1. Begin met typen &quot;`{{lead.Lead Owner`&quot; en selecteert u de **`{{lead.Lead Owner First Name}}`** token.
+1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het token **`{{lead.Lead Owner First Name}}`** .
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Voer een standaardwaarde in als de lead nog geen eigenaar van de lead heeft en klik op **Invoegen**.
+1. Voer een standaardwaarde in voor het geval dat de lead nog geen eigenaar van de lead heeft en klik op **[!UICONTROL Insert]** .
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Klik na het eerste token, voeg een spatie toe en klik vervolgens op de knop **Token invoegen** knop.
+1. Klik na het eerste teken, voeg een ruimte toe, dan klik het **Symbolische** knoop van het Tussenvoegsel.
 
    ![](assets/five.png)
 
-1. Begin met typen &quot;`{{lead.Lead Owner`&quot; en selecteert u de **`{{lead.Lead Owner Last Name}}`** token.
+1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het token **`{{lead.Lead Owner Last Name}}`** .
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Voer een standaardwaarde in als de lead nog geen eigenaar van de lead heeft en klik op **Invoegen**.
+1. Voer een standaardwaarde in voor het geval dat de lead nog geen eigenaar van de lead heeft en klik op **[!UICONTROL Insert]** .
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -47,18 +47,18 @@ Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat he
    >
    >Zorg ervoor dat u ruimte hebt toegevoegd tussen de tokens voor de voornaam en achternaam.
 
-1. Klik in het veld Van e-mail (verwijder een bestaand e-mailadres) en klik op de knop Token invoegen.
+1. Klik op het **[!UICONTROL From Address]** gebied (schrap om het even welk bestaand e-mailadres), en klik de **Symbolische knoop van het Tussenvoegsel**.
 
    ![](assets/eight.png)
 
-1. Begin met typen &quot;`{{lead.Lead Owner`&quot; en selecteert u de **`{{lead.Lead Owner Email Address}}`** token.
+1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het token **`{{lead.Lead Owner Email Address}}`** .
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Voer een standaardwaarde in als de lead nog geen eigenaar van de lead heeft en klik op **Invoegen**.
+1. Voer een standaardwaarde in voor het geval dat de lead nog geen eigenaar van de lead heeft en klik op **[!UICONTROL Insert]** .
 
    ![](assets/ten.png)
 
-1. Zorg ervoor dat de **Antwoord aan** en **Onderwerp** de velden zijn gevuld en u bent klaar!
+1. Zorg ervoor dat de velden **[!UICONTROL Reply-to]** en **[!UICONTROL Subject]** zijn ingevuld en dat u klaar bent!
 
    ![](assets/eleven.png)

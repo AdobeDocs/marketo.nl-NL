@@ -4,9 +4,9 @@ description: Download de Marketo Lead Management Solution - Marketo Docs - Produ
 title: Download de Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,35 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-U moet een Marketo Engage Solution downloaden en installeren in uw Microsoft Dynamics-account om de synchronisatie te starten.
+U moet een Marketo Solution downloaden en installeren in uw [!DNL Microsoft Dynamics] -account om de synchronisatie te starten.
 
 >[!CAUTION]
 >
->U moet de nieuwste Marketo-oplossing absoluut downloaden _voor_ het uitvoeren van om het even welke verbetering.
+>Het is noodzakelijk u de recentste Oplossing van Marketo _alvorens_ om het even welke verbetering uitvoert.
 
 >[!NOTE]
 >
 >Marketo ondersteunt alleen SSL-certificaten die op dit moment compatibel zijn met Java 7.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. Klikken op **[!UICONTROL CRM]**.
+1. Klik op **[!UICONTROL CRM]** .
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Selecteren **[!DNL Microsoft]**.
+1. Selecteer **[!DNL Microsoft]** .
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Selecteren **[!UICONTROL Download Marketo Solution]**.
+1. Selecteer **[!UICONTROL Download Marketo Solution]** .
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Selecteer de geschikte oplossing voor uw versie van Microsoft Dynamics.
+1. Selecteer de geschikte oplossing voor uw [!DNL Microsoft Dynamics] -versie.
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 

@@ -4,9 +4,9 @@ description: Veelgestelde vragen over inhoud en bestandsbijlagen - Marketo-docum
 title: Veelgestelde vragen over inhoud en bestandsbijlage
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## Wat is het verschil tussen inhoud en een dossiergehechtheid? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-A **bestandsbijlage** is net als een bestandsbijlage die u zou gebruiken in uw normale e-mailclient.
+A **dossiergehechtheid** is enkel als een dossiergehechtheid u in uw regelmatige e-mailcliënt zou gebruiken.
 
-**Inhoud** is wat we gebruiken om bestanden te beschrijven (PPT, PDF, Word-document, enz.) dat u wilt worden bijgehouden door Sales Connect.
+**Inhoud** is wat wij gebruiken om het even welke dossiers (PPT, PDF, doc van Word, enz.) te beschrijven die u door [!DNL Sales Connect] zou willen worden gevolgd.
 
 Nadat u op die knop hebt geklikt, kunt u een bestand kiezen dat al is geüpload of een nieuw bestand uploadt om te worden bijgehouden. Vervolgens voegen we een koppeling in de e-mail of template in die u gebruikt.
 
-Aan de ontvangende kant klikt de ontvanger op de koppeling en wordt de inhoud in de browser gevuld. Op deze manier kunnen we elke paginaweergave bijhouden en deze rapporteren aan de gebruiker Sales Connect in de Live feed.
+Aan de ontvangende kant klikt de ontvanger op de koppeling en wordt de inhoud in de browser gevuld. Op deze manier kunnen we elke paginaweergave bijhouden en deze melden aan de gebruiker van [!DNL Sales Connect] in Live Feed.
 
-Bestands- en inhoudsopties zijn beschikbaar in: eenmalige e-mails, sjablonen, campagnes, Outlook (zowel Windows als Mac), Gmail en OWA.
+Bestands- en inhoudsopties zijn beschikbaar in: eenmalige e-mails, sjablonen, campagnes, [!DNL Outlook] (zowel [!DNL Windows] als Mac), Gmail en OWA.
 
 ## Wie beheert de inhoud en waar wordt deze opgeslagen? {#who-manages-the-content-and-where-is-it-stored}
 
-Inhoud kan naar de Sales Connect-opslagplaats worden geüpload door elke gebruiker die sjablonen kan maken. Dit betekent dat gebruikers inhoud van hun keuze kunnen uploaden.
+Inhoud kan naar de [!DNL Sales Connect] -opslagplaats worden geüpload door elke gebruiker die sjablonen kan maken. Dit betekent dat gebruikers inhoud van hun keuze kunnen uploaden.
 
 ## Kunnen inhoud, playbooks, sjablonen, enz. door teams worden gemaakt/georganiseerd? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

@@ -4,36 +4,36 @@ description: Marketo Sales Insight installeren en configureren in Microsoft Dyna
 title: Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2013
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 0%
+source-wordcount: '356'
+ht-degree: 2%
 
 ---
 
-# Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2013 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# Installeren en configureren [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics 2013] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-Marketo Sales Insight is een fantastisch hulpmiddel om uw verkoopteam een &quot;venster&quot; te geven in de schat aan gegevens die het marketingteam heeft. Hier is hoe te om het te installeren en te vormen.
+[!DNL Marketo Sales Insight] is een fantastisch hulpmiddel om uw verkoopteam een &quot;venster&quot;in de rijkdom van gegevens te geven het marketing team heeft. Hier is hoe te om het te installeren en te vormen.
 
 >[!PREREQUISITES]
 >
 >Voltooi uw integratie tussen Marketo en Microsoft.
 >
->[Download de juiste oplossing](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van Microsoft Dynamics CRM.
+>[ Download de correcte oplossing ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics] CRM.
 
 ## Oplossing importeren {#import-solution}
 
-Nu is het tijd om de Marketo Sales Insight-oplossing te importeren in Microsoft Dynamics.
+Nu is het tijd om de [!DNL Marketo Sales Insight] -oplossing te importeren in [!DNL Microsoft Dynamics] .
 
-1. Onder **Microsoft Dynamics CRM** klikken **Instellingen**.
+1. Klik onder **[!UICONTROL Microsoft Dynamics CRM]** op **[!UICONTROL Settings]** .
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. Onder **Instellingen**, klikt u op **Aanpassingen**.
+1. Klik onder **[!UICONTROL Settings]** op **[!UICONTROL Customizations]** .
 
    ![](assets/image2014-12-12-9-3a5-3a6.png)
 
-1. Klikken **Oplossingen**.
+1. Klik op **[!UICONTROL Solutions]**.
 
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
@@ -41,11 +41,11 @@ Nu is het tijd om de Marketo Sales Insight-oplossing te importeren in Microsoft 
    >
    >U had Marketo al geïnstalleerd en geconfigureerd moeten hebben voordat u verdergaat
 
-1. Klikken **Importeren**.
+1. Klik op **[!UICONTROL Import]**.
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. Klik in het nieuwe venster op **Bladeren**.
+1. Klik in het nieuwe venster op **[!UICONTROL Browse]** .
 
    ![](assets/image2014-12-12-9-3a5-3a36.png)
 
@@ -53,19 +53,19 @@ Nu is het tijd om de Marketo Sales Insight-oplossing te importeren in Microsoft 
 
    ![](assets/image2014-12-12-9-3a5-3a45.png)
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. De oplossing wordt geüpload. U kunt de inhoud van het pakket desgewenst weergeven. Klikken **Volgende**.
+1. De oplossing zal uploaden. U kunt de inhoud van het pakket desgewenst weergeven. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
-1. Laat het selectievakje ingeschakeld en klik op **Importeren**.
+1. Zorg dat het selectievakje ingeschakeld blijft en klik op **[!UICONTROL Import]** .
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. U kunt het logbestand vrij downloaden. Klikken **Sluiten**.
+1. U kunt het logbestand vrij downloaden. Klik op **[!UICONTROL Close]**.
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
@@ -75,21 +75,21 @@ Nu is het tijd om de Marketo Sales Insight-oplossing te importeren in Microsoft 
 
 ## Connect Marketo en Sales Insight {#connect-marketo-and-sales-insight}
 
-Laten we je Marketo-exemplaar koppelen aan Sales Insight in Dynamics.
+Laten we uw Marketo-instantie koppelen aan [!DNL Sales Insight] in [!DNL Dynamics] .
 
 >[!NOTE]
 >
 >Beheerdersrechten vereist.
 
-1. Meld u aan bij Marketo en ga naar **Beheer** sectie.
+1. Meld u aan bij Marketo en ga naar de sectie **[!UICONTROL Admin]** .
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Onder de **Verkoopoverzicht** sectieklik **API-configuratie bewerken**.
+1. Klik onder de sectie **[!UICONTROL Sales Insight]** op **[!UICONTROL Edit API Configuration]** .
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopieer de **Marketo-host**, **API-URL**, en **API-gebruikersnaam** voor gebruik in een latere stap. Voer een **API-beveiligingssleutel** van uw keuze en klik op **Opslaan**.
+1. Kopieer **[!UICONTROL Marketo Host]** , **[!UICONTROL API URL]** en **[!UICONTROL API User Id]** voor gebruik in een latere stap. Voer een **[!UICONTROL API Secret Key]** van uw keuze in en klik op **[!UICONTROL Save]** .
 
    >[!CAUTION]
    >
@@ -99,56 +99,56 @@ Laten we je Marketo-exemplaar koppelen aan Sales Insight in Dynamics.
 
    >[!NOTE]
    >
-   >De volgende velden moeten met Marketo worden gesynchroniseerd voor _Zowel lead als contact_ voor Sales Insight om te werken:
+   >De volgende gebieden moeten met Marketo voor _zowel Lood als Contact_ voor Verkoop Insight worden gesynchroniseerd om te werken:
    >
    >* Prioriteit
    >* Urgentie
    >* Relatieve score
    >
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te verhelpen, voert u [deze procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [ deze procedure ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
-1. Terug in Microsoft Dynamics, ga naar **Instellingen**.
+1. Ga terug in [!DNL Microsoft Dynamics] en ga naar **[!UICONTROL Settings]** .
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
-1. Onder **Instellingen**, klikt u op **Marketo API Config**.
+1. Klik onder **[!UICONTROL Settings]** op **[!UICONTROL Marketo API Config]** .
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
-1. Klikken **Nieuw**.
+1. Klik op **[!UICONTROL New]**.
 
    ![](assets/image2014-12-12-9-3a8-3a8.png)
 
-1. Voer de informatie in die je eerder van Marketo hebt ontvangen en klik op **Opslaan**.
+1. Voer de informatie in die u eerder van Marketo hebt ontvangen en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-12-12-9-3a8-3a17.png)
 
 ## Gebruikerstoegang instellen {#set-user-access}
 
-Ten slotte kunt u specifieke gebruikers toegang geven tot Marketo Sales Insight.
+Tot slot kunt u specifieke gebruikers toegang geven tot [!DNL Marketo Sales Insight] .
 
-1. Ga naar **Instellingen**.
+1. Ga naar **[!UICONTROL Settings]** .
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 
-1. Klikken **Gebruikers**.
+1. Klik op **[!UICONTROL Users]**.
 
    ![](assets/image2014-12-12-9-3a8-3a42.png)
 
-1. Selecteer de gebruiker(s) aan wie je toegang wilt geven tot Verkoopoverzicht en klik op **Rollen beheren**.
+1. Selecteer de gebruiker(s) die je toegang wilt geven tot Sales Insight en klik op **[!UICONTROL Manage Roles]** .
 
    ![](assets/image2014-12-12-9-3a9-3a13.png)
 
-1. Selecteer **Marketo Sales Insight** rol en klik **OK**.
+1. Selecteer de **[!UICONTROL Marketo Sales Insight]** rol en klik op **[!UICONTROL OK]** .
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   En jullie moeten allemaal klaar zijn! Tot slot om te testen, login aan Dynamica als gebruiker die toegang tot het Inzicht van de Verkoop van Marketo heeft en bekijk een lood of een contact.
+   En jullie moeten allemaal klaar zijn! Als laatste test, meldt u zich aan bij [!DNL Dynamics] als een gebruiker die toegang heeft tot [!DNL Marketo Sales Insight] en bekijkt u een lead of contactpersoon.
 
    ![](assets/image2014-12-12-9-3a9-3a31.png)
 
-Je hebt nu de kracht van Marketo Sales Insight voor je verkoopteam ontgrendeld.
+U hebt nu de kracht van [!DNL Marketo Sales Insight] voor uw verkoopteam ontgrendeld.
 
 >[!MORELIKETHIS]
 >
->[Sterren en vlammen instellen voor lead/contact-records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[ de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

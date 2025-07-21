@@ -4,16 +4,16 @@ description: SFDC Sync - Custom Object Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Aangepast object synchroniseren
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '277'
 ht-degree: 1%
 
 ---
 
-# SFDC-synchronisatie: Aangepaste objectsynchronisatie {#sfdc-sync-custom-object-sync}
+# SFDC Sync: Aangepast object synchroniseren {#sfdc-sync-custom-object-sync}
 
-Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook deel uitmaken van het Marketo Engage. Hier is hoe u het kunt instellen.
+Aangepaste objecten die in uw [!DNL Salesforce] -instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo.  Hier is hoe u het kunt instellen.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook dee
 
 >[!PREREQUISITES]
 >
->Om een douanevoorwerp te gebruiken, moet het aan a [ lood ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [ contact ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, of [ rekening ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} voorwerp in Salesforce worden geassocieerd.
+>Om een douanevoorwerp te gebruiken, moet het aan a [ lood ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [ contact ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), of [ rekening ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) voorwerp in [!DNL Salesforce] worden geassocieerd.
 
 >[!IMPORTANT]
 >
@@ -43,7 +43,7 @@ Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook dee
 
    >[!NOTE]
    >
-   >Een eerste synchronisatie van het schema voor aangepaste Salesforce-objecten kan een paar minuten duren.
+   >Een eerste synchronisatie van het schema voor aangepaste objecten van [!DNL Salesforce] kan een paar minuten duren.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -67,7 +67,7 @@ Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook dee
    >
    >Vergeet niet om uw wereldwijde synchronisatie opnieuw in te schakelen!
 
-1. Ga terug naar **Salesforce** tabel.
+1. Ga terug naar de tab **[!UICONTROL Salesforce]** .
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,7 +75,7 @@ Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook dee
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Als u al uw aangepaste Salesforce-objecten wilt weergeven, klikt u op **[!UICONTROL Admin]** en de koppeling **[!UICONTROL Salesforce Objects Sync]** (net als in stap 1 hierboven).
+1. Als u al uw [!DNL Salesforce] aangepaste objecten wilt weergeven, klikt u op **[!UICONTROL Admin]** en de koppeling **[!UICONTROL Salesforce Objects Sync]** (dezelfde als in stap 1 hierboven).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

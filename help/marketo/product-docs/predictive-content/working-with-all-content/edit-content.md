@@ -4,29 +4,29 @@ description: Inhoud bewerken - Marketo-documenten - Productdocumentatie
 title: Inhoud bewerken
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 # Inhoud bewerken {#edit-content}
 
-Je kunt enkele wijzigingen aanbrengen in aanbiedingen op de pagina Alle inhoud.
+Je kunt bepaalde bewerkingen uitvoeren op aanbiedingen op de [!UICONTROL All Content] pagina.
 
-1. Op de **Alle inhoud** Houd de muisaanwijzer boven de rij van de titel die u wilt bewerken en klik op het pictogram Bewerken.
+1. Houd de muisaanwijzer boven de rij van de titel die u wilt bewerken op de pagina **[!UICONTROL All Content]** en klik op het pictogram Bewerken.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
-1. Breng wijzigingen aan in de Inhoudstitel en de Inhouds-URL (selectievakje voor queryparameters is optioneel).
+1. Breng wijzigingen aan in het selectievakje [!UICONTROL Content Name] en [!UICONTROL Content URL] (het selectievakje voor queryparameters is optioneel).
 
    ![](assets/edit-content-2.png)
 
-1. Klik op de knop **Categorieën** veld voor het toevoegen/verwijderen van categorieën. Selecteer nieuwe in het keuzemenu. U kunt een momenteel geselecteerde categorie verwijderen door op de categorie te klikken **X**.
+1. Klik op het veld **[!UICONTROL Categories]** om categorieën toe te voegen of te verwijderen. Selecteer nieuwe in het keuzemenu. U kunt een momenteel geselecteerde categorie verwijderen door zijn **X** te klikken.
 
    ![](assets/edit-content-3.png)
 
-1. Controleer de **Goedkeuren voor voorspellende inhoud** om goed te keuren of schakel het selectievakje uit om niet goed te keuren. Klikken **Opslaan** wanneer gereed.
+1. Schakel het selectievakje **[!UICONTROL Approve for Predictive Content]** in om goed te keuren of schakel het selectievakje uit om de goedkeuring ongedaan te maken. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/edit-content-4.png)

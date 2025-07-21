@@ -4,9 +4,9 @@ description: Benoemde accountinzichten - Marketo Docs - productdocumentatie
 title: Benoemde accountgegevens
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -19,52 +19,52 @@ Het dashboard Benoemde account biedt een weergave van 360 graden van een doelacc
 
 ## Dashboard {#dashboard}
 
-Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen binnen een genoemde rekening, zodat het niet nodig is naar elke persoon te gaan om hun vooruitgang te evalueren. U kunt dieper naar de e-mailactiviteiten gaan met [E-mailinzichten](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen binnen een genoemde rekening, zodat het niet nodig is naar elke persoon te gaan om hun vooruitgang te evalueren. U kunt dieper naar e-mailactiviteit boor gebruikend [ E-mailInzichten ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
 >Grafieken tonen inzichten van de afgelopen 90 dagen.
 
-**Betrokkenheid van account in de tijd** Klik op de knop **Weergave** aan de rechterkant om de weergave te wijzigen. Naast de score van de Rekening, kunt u door Totale Ontvangsten bekijken...
+**[!UICONTROL Account Engagement Over Time]** Klik op de vervolgkeuzelijst **[!UICONTROL View]** rechts om de weergave te wijzigen. Naast [!UICONTROL Account Score] kunt u ook weergeven op [!UICONTROL Total Revenue] ...
 
 ![](assets/two-new.png)
 
-...of pijplijn.
+...of [!UICONTROL Pipeline] .
 
 ![](assets/three-new.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Accountscore</strong></td> 
-   <td><p>Zie de wekelijkse betrokkenheid op basis van alle accountscores die u hebt gemaakt in Admin. U kunt deze accountscores naast elkaar vergelijken. Om de wekelijkse betrokkenheid te bepalen, nemen we de maximale betrokkenheid van elke dag van de week.</p></td> 
+   <td><strong><span class="uicontrol">Accountscore</span></strong></td> 
+   <td><p>Zie week-aan-week overeenkomst die op alle rekeningsscores wordt gebaseerd u in <span class="uicontrol"> Admin </span> creeerde. U kunt deze accountscores naast elkaar vergelijken. Om de wekelijkse betrokkenheid te bepalen, nemen we de maximale betrokkenheid van elke dag van de week.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Pijpleiding</strong></td> 
+   <td><strong><span class="uicontrol">Pijpleiding</span></strong></td> 
    <td>Zie de pijpleiding in tijd. Om pijpleiding over tijd door week te bepalen, nemen wij de pijpleiding op de laatste dag.</td> 
   </tr> 
   <tr> 
-   <td><strong>Ontvangsten</strong></td> 
+   <td><strong><span class="uicontrol">Ontvangsten</span></strong></td> 
    <td>Zie inkomsten in de loop der tijd. Om de inkomsten in de loop der tijd per week te bepalen, nemen we de som van alle inkomsten die in die week zijn behaald.</td> 
   </tr> 
  </tbody> 
 </table>
 
-**Interesserende momenten**
+**[!UICONTROL Interesting Moments]**
 
-Beschikbaar voor gebruikers van Marketo Sales Insight, zie de interessante momenten die op accountniveau worden opgerold.
+Beschikbaar voor gebruikers van [!DNL Marketo Sales Insight], zie de interessante momenten opgerold op accountniveau.
 
 ![](assets/int-mom.png)
 
-**Bovenste personen**
+**Hoogste Mensen**
 
-Deze personen worden berekend op basis van prioriteiten die gebaseerd zijn op de recensie of urgentie van personen met een benoemde account (zoals [Beste bieten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in het Inzicht van de Verkoop), of Scores die door de gebruiker worden bepaald. **Prioriteit** is alleen beschikbaar voor gebruikers van Marketo Sales Insight.
+Deze mensen worden berekend gebaseerd op prioriteiten die op recentie of urgentie gebaseerd zijn die door mensen van genoemde rekeningen (het zelfde als [ Beste Bets ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in de Insight van de Verkoop) wordt getoond, of Scores die door de gebruiker worden bepaald. **[!UICONTROL Priority]** is alleen beschikbaar voor gebruikers van [!DNL Marketo Sales Insight] .
 
 ![](assets/top-ten.png)
 
-**Inclusief kinderen**
+**omvat Kinderen**
 
-Klikken **Inclusief kinderen** om de onderliggende accounts van de geselecteerde benoemde account te bekijken en te kiezen en hun samengestelde analyse weer te geven.
+Klik op **[!UICONTROL Includes Children]** om de onderliggende accounts van het geselecteerde benoemde account weer te geven en te kiezen en de samengestelde analyse weer te geven.
 
 ![](assets/abm.png)
 
@@ -78,29 +78,29 @@ Zie waar het geselecteerde benoemde account woont in verhouding tot de hiërarch
 
 ![](assets/hierarchy.png)
 
-## Kansen {#opportunities}
+## [!UICONTROL Opportunities] {#opportunities}
 
 Een roll-up mening van alle open kansen op een rekeningsniveau, die de teams van de Marketing helpt zich op het sluiten van specifieke kansen concentreren.
 
 ![](assets/four-1.png)
 
-## Potentiële mensen {#potential-people}
+## [!UICONTROL Potential People] {#potential-people}
 
-Bij &#39;Lead-to-Account&#39;-overeenkomst wordt gebruikgemaakt van wazige logica om zwakke overeenkomsten te zoeken die kunnen worden opgelost op het tabblad Potentiële personen.
+Bij overeenkomsten van account tot account wordt vage logica gebruikt om zwakke overeenkomsten te zoeken die kunnen worden opgelost op het tabblad [!UICONTROL Potential People] .
 
 ![](assets/five-1.png)
 
 >[!NOTE]
 >
->Als u personen wilt toevoegen aan de lijst, selecteert u deze en klikt u op **Personen toevoegen**.
+>Als u een van de vermelde personen wilt toevoegen, selecteert u deze en klikt u op **[!UICONTROL Add People]** .
 
-## Gebruikt door {#used-by}
+## [!UICONTROL Used By] {#used-by}
 
 Op dit tabblad ziet u welke slimme campagnes, webcampagnes, slimme lijsten of rapporten momenteel verwijzen naar specifieke benoemde accounts of accountlijsten.
 
 ![](assets/six-1.png)
 
-## Accountteam {#account-team}
+## [!UICONTROL Account Team] {#account-team}
 
 Accountteamleden weergeven, leden toevoegen/verwijderen en zelfs een accounteigenaar toewijzen op dit tabblad.
 
@@ -108,10 +108,10 @@ Accountteamleden weergeven, leden toevoegen/verwijderen en zelfs een accounteige
 
 >[!NOTE]
 >
->Klik op de knop **Handelingen in accountteam** vervolgkeuzelijst voor het toevoegen/verwijderen van accountleden of het toewijzen van een accounteigenaar.
+>Klik op de vervolgkeuzelijst **[!UICONTROL Account Team Actions]** om accountleden toe te voegen of te verwijderen of om een accounteigenaar toe te wijzen.
 
-## ICP-indicatoren {#icp-indicators}
+## [!UICONTROL ICP Indicators] {#icp-indicators}
 
-Bekijk de Indicatoren ICP u selecteerde om te exporteren wanneer u [hebt uw model aangepast](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning).
+Bekijk [!UICONTROL ICP Indicators] u selecteerde om uit te voeren wanneer u [ uw model ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) stemde.
 
 ![](assets/eight.png)

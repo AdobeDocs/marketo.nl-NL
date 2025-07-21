@@ -3,16 +3,16 @@ description: Een goed begrip van de verzendopties voor verkoopcampagne voor e-ma
 title: Verzendopties voor verkoopcampagne voor e-mailstappen
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
 
 # Verzendopties voor verkoopcampagne voor e-mailstappen {#understanding-sales-campaign-send-options-for-email-steps}
 
-Wanneer u een campagne van de Verkoop creeert, hebt u verscheidene opties op hoe uw e-mailstappen in de Acties van het Inzicht van de Verkoop worden gecreeerd. En afhankelijk van waar je e-mailadres in je verkoopcampagne valt, verschillen je opties ook.
+Wanneer u een verkoopcampagne maakt, hebt u verschillende opties voor het maken van uw e-mailstappen in [!DNL Sales Insight Actions] . En afhankelijk van waar je e-mailadres in je verkoopcampagne valt, verschillen je opties ook.
 
 ## Verzendopties eerste stap {#first-step-send-options}
 
@@ -31,11 +31,11 @@ Als het uw eerste stap en de eerste dag in uw Verkoop Campagne is, zult u de vol
 
 ### Een taak maken; ik stuur deze e-mail zelf {#first-step-create-a-task}
 
-* Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
+* Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met [!DNL Salesforce] ) die u naar wens kunt verzenden.
 * Zodra u deze selectie hebt gemaakt, wanneer u uw verkoopcampagne start, zullen wij deze taken voor u in de rij zetten in het Opdrachtcentrum en Live feed. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
    * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de gekozen sjabloon.
-   * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.
+   * Als u deze taak opent in Gmail of [!DNL Outlook] , wordt er een native samenstellingsvenster geopend waarin het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen, dynamisch worden ingevuld.
 
 ## Verzendopties volgende stap {#subsequent-step-send-options}
 
@@ -57,11 +57,11 @@ Voor alle volgende dagen/stappen in uw verkoopcampagne hebt u de volgende opties
 
 ### Een taak maken; ik stuur deze e-mail zelf {#subsequent-create-a-task}
 
-* Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
-* Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne van de Verkoop schopt, zullen de Acties van het Inzicht van de Verkoop deze taken voor u in het Centrum van het Bevel en Levende Diervoeders een rij vormen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
+* Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met [!DNL Salesforce] ) die u naar wens kunt verzenden.
+* Zodra u deze selectie hebt gemaakt, wanneer u uw verkoopcampagne start, plaatst [!DNL Sales Insight Actions] deze taken in de wachtrij voor u in Opdrachtcentrum en Live feed. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
    * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de gekozen sjabloon.
-   * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.
+   * Als u deze taak opent in Gmail of [!DNL Outlook] , wordt er een native samenstellingsvenster geopend waarin het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen, dynamisch worden ingevuld.
 
 ### Deze e-mail maken als vervolg op de vorige e-mail in deze campagne {#subsequent-create-this-email}
 
@@ -75,6 +75,6 @@ Voor alle volgende dagen/stappen in uw verkoopcampagne hebt u de volgende opties
 >[!MORELIKETHIS]
 >
 >[ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[De Types van Stap van de Campagne van de verkoop en de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->[De Montages van de Campagne van de verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[De Types van Stap van de Campagne van de verkoop en de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[De Montages van de Campagne van de verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

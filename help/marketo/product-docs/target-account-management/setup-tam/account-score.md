@@ -4,16 +4,16 @@ description: Accountscore - Marketo-documenten - productdocumentatie
 title: Accountscore
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# Accountscore {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
-Het Scoren van de rekening is een essentieel deel van het Beheer van de Rekening van het Doel. Het helpt u de mate van betrokkenheid van uw accounts te bepalen.
+Het noteren van accounts is een essentieel onderdeel van [!UICONTROL Target Account Management] . Het helpt u de mate van betrokkenheid van uw accounts te bepalen.
 
 ## Wat is het Scorebord van de Rekening? {#what-is-account-scoring}
 
@@ -44,7 +44,7 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één individ
 
 >[!NOTE]
 >
->Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo TAM aggregeert automatisch leadscores naar accountscores. Als voorbeeld nemen we twee van de bovenstaande voorbeelden (_Interescore voor product van account_ en _Score voor online betrokkenheid van account_).
+>Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo TAM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden nemen (_Score van de Rente van het Product van de Rekening_ en _Score van de Betrokkenheid van het Web van de Rekening_).
 >
 >Maak eerst loodscore-velden waarin relevante details van elke lead van een doelaccount worden vastgelegd.\
 >Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:\
@@ -57,30 +57,30 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één individ
 
 Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
-1. Klikken **Beheerder**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/account-score-1.png)
 
-1. Klikken **Doelaccountbeheer**.
+1. Klik op **[!UICONTROL Target Account Management]**.
 
    ![](assets/account-score-2.png)
 
-1. Klik in Velden noteren op **Bewerken**.
+1. Klik in [!UICONTROL Scoring Fields] op **[!UICONTROL Edit]** .
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >U kunt maximaal **vijf** velden voor het berekenen van de accountscore.
+   >U kunt tot **vijf** gebieden kiezen om [!UICONTROL Account Score] te berekenen.
 
-1. Voer de naam van de accountscore in en klik op de knop **Persoonsscore selecteren** en selecteer de corresponderende score.
+1. Voer de naam [!UICONTROL Account Score] in, klik op de vervolgkeuzelijst **[!UICONTROL Select Person Score]** en selecteer de corresponderende score.
 
    ![](assets/account-score-4.png)
 
-1. Klikken **+Toevoegen** voor meer scores.
+1. Klik op **[!UICONTROL +Add]** om meer scores toe te voegen.
 
    ![](assets/account-score-5.png)
 
-1. Voeg alle gewenste scores toe. Klikken **Opslaan** wanneer gereed.
+1. Voeg alle gewenste scores toe. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/account-score-6.png)

@@ -4,9 +4,9 @@ description: Wijzig uw wachtwoordbeveiligingsinstellingen - Marketo Docs - Produ
 title: Beveiligingsinstellingen voor wachtwoord wijzigen
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/change-your-password-security-settings-1.png)
 
@@ -27,30 +27,30 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. Onder **[!UICONTROL Security Settings]**, klikt u op **[!UICONTROL Edit]**.
+1. Klik onder **[!UICONTROL Security Settings]** op **[!UICONTROL Edit]** .
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. Selecteer een **[!UICONTROL Template]**. Voor geavanceerde opties klikt u op de knop **[!UICONTROL Advanced]** vervolgkeuzelijst.
+1. Selecteer een **[!UICONTROL Template]** . Klik op de vervolgkeuzelijst **[!UICONTROL Advanced]** voor geavanceerde opties.
 
    ![](assets/change-your-password-security-settings-4.png)
 
    >[!NOTE]
    >
-   >Een sjabloon is slechts een vooraf gebouwde configuratie. Standaard is goed. Hoge veiligheid is de sterkste. Met Aangepast kunt u uw eigen product maken.
+   >Een sjabloon is slechts een vooraf gebouwde configuratie. **[!UICONTROL Standard Security]** is goed. **[!UICONTROL High Security]** is de sterkste. **[!UICONTROL Custom]** laat u uw eigen maken.
 
    >[!TIP]
    >
-   >In **[!UICONTROL Custom]** Schakel de selectievakjes in om aan te geven welke kenmerken gebruikers moeten opnemen wanneer zij wachtwoorden maken.
+   >Schakel in **[!UICONTROL Custom]** de selectievakjes in om aan te geven welke kenmerken gebruikers moeten opnemen wanneer zij wachtwoorden maken.
 
-1. Stel de **[!UICONTROL Expiration]**. Deze functie vereist automatisch dat gebruikers hun wachtwoorden na een bepaalde tijd opnieuw instellen. Dit geldt ook voor de Admin-gebruiker.
+1. Stel de **[!UICONTROL Expiration]** in. Deze functie vereist automatisch dat gebruikers hun wachtwoorden na een bepaalde tijd opnieuw instellen. Dit geldt ook voor de Admin-gebruiker.
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >Bestaande gebruikers worden niet op de hoogte gesteld van de wijzigingen. Set **[!UICONTROL Expiration]** tot 30 dagen om ervoor te zorgen dat iedereen zich heeft bijgewerkt naar de nieuwe instellingen en deze vervolgens weer in uw oorspronkelijke tempo te wijzigen.
+   >Bestaande gebruikers worden niet op de hoogte gesteld van de wijzigingen. Stel **[!UICONTROL Expiration]** in op 30 dagen om ervoor te zorgen dat iedereen de nieuwe instellingen heeft bijgewerkt en verander vervolgens deze terug naar de oorspronkelijke frequentie.
 
-1. Stel de **[!UICONTROL Inactive Session Timeout]**. Hiermee bepaalt u hoe lang een gebruiker inactief kan zijn voordat hij of zij opnieuw moet aanmelden bij Marketo.
+1. Stel de **[!UICONTROL Inactive Session Timeout]** in. Hiermee bepaalt u hoe lang een gebruiker inactief kan zijn voordat hij of zij opnieuw moet aanmelden bij Marketo.
 
    ![](assets/change-your-password-security-settings-6.png)

@@ -1,20 +1,20 @@
 ---
-description: Activiteitenlijst van de Acties van het Inzicht van de Verkoop - de Documenten van Marketo - de Documentatie van het Product
-title: Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop
+description: Handelingen van Insight van de verkoop - Verklarende woordenlijst van de Acties van Marketo - de Documentatie van het Product
+title: Handeling Insight Handelingen Handelingen Verkoop - Woordenlijst
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 3%
 
 ---
 
-# Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop {#sales-insight-actions-activity-glossary}
+# [!DNL Sales Insight Actions] Overzicht van activiteiten {#sales-insight-actions-activity-glossary}
 
-Bij Handelingen in Verkoopinzicht wanneer een verkoper: voegt een lood aan een verkoopcampagne toe, verzendt hen een verkoopmail, of maakt een uitgaande verkoopvraag, zal het onder de de activiteitengeschiedenis van Marketo voor die lood worden geregistreerd. Bovendien, wanneer het lood met e-mail in dienst neemt, opent, klikt, en antwoorden, wordt het ook geregistreerd.
+Wanneer een verkoper in [!DNL Sales Insight Actions] een lead toevoegt aan een verkoopcampagne, een e-mail verstuurt naar de verkoper of een uitgaande verkoopoproep doet, wordt deze geregistreerd onder de Marketo-activiteitengeschiedenis voor die lead. Bovendien, wanneer het lood met e-mail in dienst neemt, opent, klikt, en antwoorden, wordt het ook geregistreerd.
 
-De activiteiten hieronder zullen aan Marketo van de Acties van het Inzicht van de Verkoop worden geregistreerd.
+De onderstaande activiteiten worden vanaf [!DNL Sales Insight Actions] aangemeld bij Marketo.
 
 >[!NOTE]
 >
@@ -28,173 +28,173 @@ De activiteiten hieronder zullen aan Marketo van de Acties van het Inzicht van d
   <th>Kenmerk</th>
  </tr>
  <tr>
-  <th rowspan="9">Verkoop-e-mail verzenden</th>
-  <td>Verzonden door</td>
+  <th rowspan="9">[!UICONTROL Send Sales Email]</th>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Bron</td>
  </tr>
  <tr>
-  <td>Sjabloon-id</td>
+  <td>[!UICONTROL Template ID]</td>
  </tr>
  <tr>
-  <td>URL van verkoopsjabloon</td>
+  <td>[!UICONTROL Sales Template URL]</td>
  </tr>
  <tr>
-  <td>Verkoopcampagne-URL</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Naam verkoopsjabloon</td>
+  <td>[!UICONTROL Sales Template Name]</td>
  </tr>
  <tr>
-  <td>E-mailonderwerp</td>
+  <td>[!UICONTROL Email Subject]</td>
  </tr>
  <tr>
-  <td>Naam verkoopcampagne</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>Marketo-gebruikersnaam</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="9">Verkoopbericht openen</th>
-  <td>Verzonden door</td>
- </tr>
- <tr>
-  <td>Bron</td>
- </tr>
- <tr>
-  <td>Sjabloon-id</td>
- </tr>
- <tr>
-  <td>URL van verkoopsjabloon</td>
- </tr>
- <tr>
-  <td>Verkoopcampagne-URL</td>
- </tr>
- <tr>
-  <td>Naam verkoopsjabloon</td>
- </tr>
- <tr>
-  <td>E-mailonderwerp</td>
- </tr>
- <tr>
-  <td>Naam verkoopcampagne</td>
- </tr>
- <tr>
-  <td>Marketo-gebruikersnaam</td>
- </tr>
- <tr>
-  <th rowspan="10">E-mail met geklikte verkoop</th>
-  <td>Koppeling</td>
- </tr>
- <tr>
-  <td>Verzonden door</td>
+  <th rowspan="9">[!UICONTROL Open Sales Email]</th>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Bron</td>
  </tr>
  <tr>
-  <td>Sjabloon-id</td>
+  <td>[!UICONTROL Template ID]</td>
  </tr>
  <tr>
-  <td>URL van verkoopsjabloon</td>
+  <td>[!UICONTROL Sales Template URL]</td>
  </tr>
  <tr>
-  <td>Verkoopcampagne-URL</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Naam verkoopsjabloon</td>
+  <td>[!UICONTROL Sales Template Name]</td>
  </tr>
  <tr>
-  <td>E-mailonderwerp</td>
+  <td>[!UICONTROL Email Subject]</td>
  </tr>
  <tr>
-  <td>Naam verkoopcampagne</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>Marketo-gebruikersnaam</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="10">[!UICONTROL Clicked Sales Email]</th>
+  <td>[!UICONTROL Link]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sent By]</td>
+ </tr>
+ <tr>
+  <td>Bron</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Template ID]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Template URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Template Name]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Email Subject]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign Name]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
 <tr>
-  <th rowspan="3">Reageerd op e-mail over verkoop</th>
-  <td>Ontvangen door</td>
+  <th rowspan="3">[!UICONTROL Replied to Sales Email]</th>
+  <td>[!UICONTROL Received By]</td>
  </tr>
  <tr>
   <td>Bron</td>
  </tr>
  <tr>
-  <td>Marketo-gebruikersnaam</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="11">Ontvangen verkoopoproep</th>
-  <td>Verkoopoproep gemaakt door</td>
+  <th rowspan="11">[!UICONTROL Received Sales Call]</th>
+  <td>[!UICONTROL Sales Call Made By]</td>
  </tr>
  <tr>
-  <td>Status van verkoopoproep</td>
+  <td>[!UICONTROL Sales Call Status]</td>
  </tr>
  <tr>
-  <td>Onderwerp verkoopoproep</td>
+  <td>[!UICONTROL Sales Call Subject]</td>
  </tr>
  <tr>
-  <td>Naam verkoopcampagne</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>Verkoopcampagne-URL</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Telefoonnummer van verkoper opgevraagd</td>
+  <td>[!UICONTROL Sales Phone Number Called]</td>
  </tr>
  <tr>
   <td>Bron</td>
  </tr>
  <tr>
-  <td>Duur verkoopoproep</td>
+  <td>[!UICONTROL Sales Call Duration]</td>
  </tr>
  <tr>
-  <td>Opname-URL verkoopoproep</td>
+  <td>[!UICONTROL Sales Call Recording URL]</td>
  </tr>
   <tr>
-  <td>Verkoopoproep beantwoord door</td>
+  <td>[!UICONTROL Sales Call Answered By]</td>
  </tr>
  <tr>
-  <td>Marketo-gebruikersnaam</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">Toevoegen aan verkoopcampagne</th>
-  <td>Naam verkoopcampagne</td>
+  <th rowspan="6">[!UICONTROL Add to Sales Campaign]</th>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>Status van verkoopoproep</td>
+  <td>[!UICONTROL Sales Call Status]</td>
  </tr>
  <tr>
-  <td>Verkoopcampagne-URL</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Verzonden door</td>
- </tr>
- <tr>
-  <td>Bron</td>
- </tr>
- <tr>
-  <td>Verkoopcampagne-id</td>
- </tr>
- <tr>
-  <th rowspan="6">Verwijderen uit verkoopcampagne</th>
-  <td>Naam verkoopcampagne</td>
- </tr>
- <tr>
-  <td>Status van verkoopoproep</td>
- </tr>
- <tr>
-  <td>Verkoopcampagne-URL</td>
- </tr>
- <tr>
-  <td>Verzonden door</td>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Bron</td>
  </tr>
  <tr>
-  <td>Verkoopcampagne-id</td>
+  <td>[!UICONTROL Sales Campaign ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="6">[!UICONTROL Remove from Sales Campaign]</th>
+  <td>[!UICONTROL Sales Campaign Name]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Call Status]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sent By]</td>
+ </tr>
+ <tr>
+  <td>Bron</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign ID]</td>
  </tr>
  <tr>
   <th rowspan="5">Bounce voor e-mail verkopen</th>
@@ -223,88 +223,88 @@ De activiteiten hieronder zullen aan Marketo van de Acties van het Inzicht van d
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>Details</strong></td> 
+   <td><strong>[!UICONTROL Details]</strong></td> 
    <td>Bounce error message detail.</td> 
   </tr> 
   <tr> 
-   <td><strong>E-mail</strong></td> 
+   <td><strong>[!UICONTROL Email]</strong></td> 
    <td>E-mailadres dat is teruggestuurd.</td> 
   </tr> 
   <tr> 
-   <td><strong>Koppeling</strong></td> 
+   <td><strong>[!UICONTROL Link]</strong></td> 
    <td>URL waarop is geklikt.</td> 
   </tr> 
   <tr> 
-   <td><strong>Marketo-gebruikersnaam</strong></td> 
-   <td>Unieke id voor persoonrecord in Handelingen van het Inzicht van de Verkoop.</td> 
+   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td> 
+   <td>Unieke id voor persoonrecord in [!DNL Sales Insight Actions] .</td> 
   </tr> 
   <tr> 
-   <td><strong>Ontvangen door</strong></td> 
+   <td><strong>[!UICONTROL Received By]</strong></td> 
    <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkoopoproep beantwoord door</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td> 
    <td>Naam van persoon die de vraag beantwoordde.</td> 
   </tr>
   <tr> 
-   <td><strong>Duur verkoopoproep</strong></td> 
-   <td>De duur van de aanroep in seconden.</td> 
+   <td><strong>[!UICONTROL Sales Call Duration]</strong></td> 
+   <td>Lengte van vraag in seconden.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkoopoproep gemaakt door</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Made By]</strong></td> 
    <td>E-mailadres van de verkoper die de oproep heeft gedaan.</td> 
   </tr>
   <tr> 
-   <td><strong>Opname-URL verkoopoproep</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td> 
    <td>URL van vraagopname.</td> 
   </tr>
   <tr> 
-   <td><strong>Status van verkoopoproep</strong></td> 
-   <td>Zal de definitieve vraagstatus van de vraag bewaren die omvat: voltooid, geen antwoord, geannuleerd, mislukt.</td> 
+   <td><strong>[!UICONTROL Sales Call Status]</strong></td> 
+   <td>Zal de definitieve vraagstatus van de vraag bewaren die omvat: voltooid, geen antwoord, geannuleerd, ontbroken.</td> 
   </tr>
   <tr> 
-   <td><strong>Onderwerp verkoopoproep</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Subject]</strong></td> 
    <td>Het resultaat van de vraag dat door een verkoopgebruiker in dialer wordt geselecteerd.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkoopcampagne-id</strong></td> 
-   <td>Unieke ID voor de activa van de Campagne van de Verkoop in de Acties van het Inzicht van de Verkoop.</td> 
+   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td> 
+   <td>Unieke id voor verkoopcampagne-element in [!DNL Sales Insight Actions] .</td> 
   </tr>
   <tr> 
-   <td><strong>Naam verkoopcampagne</strong></td> 
+   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td> 
    <td>Naam van verkoopcampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>Verkoopcampagne-URL</strong></td> 
-   <td>Handelingen-URL voor verkoopinzicht voor verkoopcampagne.</td> 
+   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td> 
+   <td>[!DNL Sales Insight Actions] URL voor verkoopcampagne.</td> 
   </tr>
   <tr> 
-   <td><strong>E-mailonderwerp verkoop</strong></td> 
-   <td>Onderwerpregel van e-mail gevolgd door een unieke id (bijv.: Mijn onderwerpregel (SIA-12345678)</td> 
+   <td><strong>[!UICONTROL Sales Email Subject]</strong></td> 
+   <td>Onderwerpregel voor e-mail gevolgd door een unieke id (ex: My Subject Line (SIA-12345678)</td> 
   </tr>
   <tr> 
-   <td><strong>Telefoonnummer van verkoper opgevraagd</strong></td> 
+   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td> 
    <td>Telefoonnummer gebeld door Verkoper.</td> 
   </tr>
   <tr> 
-   <td><strong>Naam verkoopsjabloon</strong></td> 
-   <td>Naam van e-mailsjabloon in Handelingen van het Inzicht van de Verkoop.</td> 
+   <td><strong>[!UICONTROL Sales Template Name]</strong></td> 
+   <td>Naam van e-mailsjabloon in [!DNL Sales Insight Actions] .</td> 
   </tr>
   <tr> 
-   <td><strong>URL van verkoopsjabloon</strong></td> 
-   <td>Handelingen-URL voor verkoopinzicht voor e-mailsjabloon.</td> 
+   <td><strong>[!UICONTROL Sales Template URL]</strong></td> 
+   <td>[!DNL Sales Insight Actions] URL voor e-mailsjabloon.</td> 
   </tr>
   <tr> 
-   <td><strong>Verzonden door</strong></td>
+   <td><strong>[!UICONTROL Sent By]</strong></td>
    <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td> 
   </tr> 
   <tr> 
    <td><strong>Bron</strong></td> 
-   <td>Bron van de activiteit. Wordt ingesteld als "Tout" voor activiteiten van Sales Insight vóór de release van oktober 21. Zal "Sales App"voor de Acties van het Inzicht van de Verkoop na de Versie van okt 21 zijn.</td>
+   <td>Source van de activiteit. Wordt ingesteld als "Tout" voor [!DNL Sales Insight Actions] -activiteiten vóór de release van 21 oktober. Wordt ''Sales App'' voor [!DNL Sales Insight Actions] -activiteiten na de release van 21 oktober.</td>
   </tr> 
   <tr> 
-   <td><strong>Sjabloon-id</strong></td> 
-   <td>Als de bron Tout is, is de sjabloon-id de Sjabloon-id voor Marketo Sales Insight-acties. Gebruik deze optie om een specifieke sjabloon te kiezen in plaats van een onderwerpregel, die in meerdere sjablonen kan bestaan.
+   <td><strong>[!UICONTROL Template ID]</strong></td> 
+   <td>Als de bron Tout is, is de sjabloon-id de [!DNL Marketo Sales Insight Actions] sjabloon-id. Gebruik deze optie om een specifieke sjabloon te kiezen in plaats van een onderwerpregel, die in meerdere sjablonen kan bestaan.
 </td> 
   </tr> 
  </tbody> 

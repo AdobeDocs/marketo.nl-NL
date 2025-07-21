@@ -4,22 +4,22 @@ description: Een segment maken met een statische lijst - Marketo Docs - Productd
 title: Een segment maken met een statische lijst
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
 # Een segment maken met een statische lijst {#create-a-segment-using-a-static-list}
 
-Webbezoekers segmenteren die uw website bezoeken op basis van of ze zich in een van uw Marketo bevinden [statische lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md).
+Het segment bekende Webbezoekers wanneer zij uw website bezoeken die op wordt gebaseerd als zij binnen of niet in één van uw Marketo [ statische lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) zijn.
 
-1. Ga naar **Segmenten**.
+1. Ga naar **[!UICONTROL Segments]** .
 
    ![](assets/1.jpg)
 
-1. Klikken **Nieuw maken**.
+1. Klik op **[!UICONTROL Create New]**.
 
    ![](assets/two.png)
 
@@ -27,26 +27,26 @@ Webbezoekers segmenteren die uw website bezoeken op basis van of ze zich in een 
 
    ![](assets/three.png)
 
-1. Sleep in Bekende leads **Statische lijsten** naar het canvas.
+1. Sleep **[!UICONTROL Static Lists]** in Bekende leads over het canvas.
 
    ![](assets/four-2.png)
 
-1. Klik op de vervolgkeuzelijst om deze te selecteren **is** of **is niet** (afhankelijk van wat u wilt), en typ in de naam van uw statische lijst.
+1. Klik op de vervolgkeuzelijst om **[!UICONTROL is]** of **[!UICONTROL is not]** te selecteren (afhankelijk van wat u wilt) en typ de naam van de statische lijst.
 
    ![](assets/five-2.png)
 
-1. Als u meerdere lijsten wilt toevoegen, moet u voor elke lijst een nieuwe regel maken door op de knop **+**. Als u maar één lijst wilt, gaat u verder met [Stap 8](#eight).
+1. Als u veelvoudige lijsten wilt toevoegen, moet u een nieuwe lijn voor elk tot stand brengen door **+** te klikken. Als u slechts één lijst wilt, overslaan aan [ Stap 8 ](#eight).
 
    ![](assets/six-1.png)
 
-1. Herhaal voor meerdere lijsten (of meerdere &quot;is not&quot;-lijsten) de stappen die u hebt geleerd in [Stap 5](#five).
+1. Voor veelvoudige lijsten (of de veelvoudige &quot;is niet&quot;lijsten), herhaal de stappen u in [ Stap 5 ](#five) leerde.
 
    ![](assets/seven-2.png)
 
    >[!NOTE]
    >
-   >De en/of drop-down is enkel dat. Klik erop om te selecteren **en**, **of**, of **en/of**.
+   >De en/of drop-down is enkel dat. Klik erop om **[!UICONTROL and]** , **[!UICONTROL or]** of **[!UICONTROL and/or]** te selecteren.
 
-1. Klikken **Opslaan** om het segment op te slaan of **Campagne opslaan en definiëren** om op te slaan en naar de pagina Campagnes te gaan.
+1. Klik op **[!UICONTROL Save]** om het segment op te slaan of op **[!UICONTROL Save & Define Campaign]** om het op te slaan en naar de [!UICONTROL Campaigns] -pagina te gaan.
 
    ![](assets/eight-1.png)

@@ -4,28 +4,28 @@ description: Stroominhoud archiveren en archiveren - Marketo Docs - Productdocum
 title: Stroominhoud archiveren en archiveren
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Stroominhoud archiveren en archiveren {#archive-and-unarchive-stream-content}
 
-Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u of [remove](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) of archiveer het. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
+Als u niet meer een stuk van inhoud in een stroom wilt gebruiken kunt u of [ ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) het verwijderen of het archiveren. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
 
 >[!TIP]
 >
->Als u deze optie verwijdert, wordt alle bijbehorende geschiedenis vernietigd. archiveren behoudt het.
+>Als u deze optie verwijdert, wordt alle bijbehorende historie vernietigd. Bij archivering blijft de historie behouden.
 
 ## Stream-inhoud archiveren {#archive-stream-content}
 
-1. Selecteer uw serviceprogramma en ga naar de **Streams** tab.
+1. Selecteer uw betrokkenheidsprogramma en ga naar de tab **[!UICONTROL Streams]** .
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Houd de muis boven de e-mail die u wilt archiveren en klik vervolgens onder het tandwielpictogram op **Archief**.
+1. Houd de muis boven de e-mail die u wilt archiveren en klik vervolgens onder het tandwielpictogram op **[!UICONTROL Archive]** .
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,16 +33,16 @@ Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u of [remove]
 
 ## Stream-inhoud verwijderen {#unarchive-stream-content}
 
-1. Selecteer uw serviceprogramma en ga naar de **Streams** tab.
+1. Selecteer uw betrokkenheidsprogramma en ga naar de tab **[!UICONTROL Streams]** .
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Klik op het tandwielpictogram voor uw stream en klik vervolgens op **Gearchiveerde inhoud tonen**.
+1. Klik op het tandwielpictogram voor de stream en klik vervolgens op **[!UICONTROL Show archived content]** .
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Nu u de gearchiveerde inhoud kunt zien, klikt u op het tandwielpictogram voor de inhoud die u wilt verwijderen en klikt u vervolgens op **Unarchive**.
+1. Nu u de gearchiveerde inhoud kunt zien, klikt u op het tandwielpictogram voor de inhoud die u wilt verwijderen en klikt u vervolgens op **[!UICONTROL Unarchive]** .
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   Perfect! Deze inhoud kan nu worden geprioriteerd en geactiveerd.
+   Perfect! Nu is deze inhoud beschikbaar om voorrang te krijgen en geactiveerd.

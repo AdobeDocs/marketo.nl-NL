@@ -1,31 +1,31 @@
 ---
 unique-page-id: 12981204
-description: Overzicht van voorspellende inhoudanalyse - Marketo Docs - Productdocumentatie
-title: Overzicht van voorspellende inhoudanalyse
+description: Voorspelend Content Analytics-overzicht - Marketo Docs - Productdocumentatie
+title: Voorspelend Content Analytics-overzicht
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Overzicht van voorspellende inhoudanalyse {#predictive-content-analytics-overview}
+# Voorspelend Content Analytics-overzicht {#predictive-content-analytics-overview}
 
 Gebruik de inhoudanalyse om meer inzicht te krijgen in uw bestaande inhoud, om te leren (op basis van AI- en voorspellende algoritmen) welke inhoud geschikt is voor uw publiek en om uw rendement te verhogen bij uw marketingactiviteiten.
 
 >[!NOTE]
 >
->Het tabblad Analyse en de functies voor inhoudanalyse zijn uitsluitend beschikbaar bij Marketo Predictive Content.
+>De eigenschappen tab en content analytics van [!UICONTROL Analytics] zijn uitsluitend beschikbaar bij Marketo Predictive Content.
 
 ## Overzicht {#overview}
 
-Klik op de pagina Overzicht op **Analyse**.
+Klik op de pagina Samenvatting op **[!UICONTROL Analytics]** .
 
 ![](assets/one.png)
 
-Analyses bestaan uit verschillende secties: Top Content by Views, Top Content by Conversion Rate, Trending Content, Suggested Content, and Content.
+[!UICONTROL Analytics] bestaat uit verschillende secties: [!UICONTROL Top Content by Views] , [!UICONTROL Top Content by Conversion Rate] , [!UICONTROL Trending Content] , [!UICONTROL Suggested Content] en [!UICONTROL Content] .
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Klik op de knop Exporteren om de resultaten van die sectie te exporteren via Exc
 
 ![](assets/new-3point5.png)
 
-U kunt resultaten filteren op verschillende kenmerken/eigenschappen (bijvoorbeeld ABM-accountlijst, land, enz.).
+U kunt resultaten filteren op verschillende kenmerken/eigenschappen (bijvoorbeeld [!UICONTROL ABM Account List] , [!UICONTROL Country] , enz.).
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ Klik op het kalenderpictogram om de datums van de gereflecteerde gegevens te wij
 
 ![](assets/dates.png)
 
-## Top Content by Views {#top-content-by-views}
+## [!UICONTROL Top Content by Views] {#top-content-by-views}
 
-Hiermee geeft u de bovenste inhoudsonderdelen weer op basis van het aantal weergaven per geselecteerd datumbereik.
+Hiermee geeft u de bovenste inhoudselementen weer op basis van het aantal weergaven per geselecteerd datumbereik.
 
 ![](assets/new-6.png)
 
-## Top Content by Conversion Rate {#top-content-by-conversion-rate}
+## [!UICONTROL Top Content by Conversion Rate] {#top-content-by-conversion-rate}
 
 Hiermee geeft u de bovenste conversie-inhoud weer aan de hand van de conversiesnelheid voor het geselecteerde datumbereik.
 
@@ -61,15 +61,15 @@ Hiermee geeft u de bovenste conversie-inhoud weer aan de hand van de conversiesn
 >
 >**Definitie**
 >
->**Omzetsnelheid**: Een percentage dat wordt berekend door middel van directe omzettingen gedeeld door klikken.
+>**Tarief van de Omzetting**: Een percentage dat door directe omzettingen wordt berekend die door kliks worden verdeeld.
 
-## Trend Content {#trending-content}
+## [!UICONTROL Trending Content] {#trending-content}
 
 Geeft de populariteit van een inhoudsstuk weer door te kijken naar de laatste twee weken grotere weergaven in vergelijking met dezelfde voorgaande periode.
 
 ![](assets/new-8.png)
 
-## Voorgestelde inhoud {#suggested-content}
+## [!UICONTROL Suggested Content] {#suggested-content}
 
 Geeft de inhoud weer die u in uw marketingactiviteiten wilt promoten op basis van het filter dat u hebt gedefinieerd.
 
@@ -81,13 +81,13 @@ Houd de muisaanwijzer boven een afbeelding in Inhoud met suggesties om de beschi
 
 >[!NOTE]
 >
->Zie je die pictogrammen onderaan? Van links naar rechts zijn ze: Inhoud weergeven, Exporteren naar CSV en Inhoud goedkeuren.
+>Zie je die pictogrammen onderaan? Van links naar rechts zijn ze: [!UICONTROL View Content], [!UICONTROL Export to CSV], [!UICONTROL Approve Content] .
 
-## Inhoud {#content}
+## [!UICONTROL Content] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-Zoek naar het gewenste inhoudsstuk en klik het om extra details, met inbegrip van te zien: de bezoekers die het bekijken , nieuw tegenover terugkerende , bekende en anonieme , de toplocaties waar de bezoekers vandaan kwamen bij het bekijken van de inhoud , en de belangrijkste afgeleide industrieën waar ze vandaan komen .
+Zoek naar het gewenste inhoudsstuk en klik het om extra details te zien, met inbegrip van: de bezoekers die het bekijken, nieuw tegenover het terugkeren, gekend en anoniem, de hoogste plaatsen de bezoekers van toen het bekijken van de inhoud kwamen, en de hoogste afgeleide industrieën zij uit komen.
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 

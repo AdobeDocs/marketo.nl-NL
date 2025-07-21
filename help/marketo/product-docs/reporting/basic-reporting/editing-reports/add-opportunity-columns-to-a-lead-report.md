@@ -4,9 +4,9 @@ description: Opportunity-kolommen toevoegen aan een lead-rapport - Marketo Docs 
 title: Opportunity-kolommen toevoegen aan een lead-rapport
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportuniteitskolommen toevoegen.
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/ma.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Instellen** tab.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de tab **[!UICONTROL Setup]** .
 
    ![](assets/two.png)
 
-1. Dubbelklikken **Opportunity-kolommen**.
+1. Dubbelklik op **[!UICONTROL Opportunity Columns]** .
 
    ![](assets/three.png)
 
-1. Selecteren **Weergegeven** in het keuzemenu.
+1. Selecteer **[!UICONTROL Shown]** in de vervolgkeuzelijst.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Klik op de knop **Rapport** om uw rapport met opportuniteitsmetriek te bekijken.
+1. Klik op het tabblad **[!UICONTROL Report]** om uw rapport weer te geven met maatstaven voor mogelijkheden.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
    >
    >Schuif naar rechts om meer kolommen weer te geven.
 
-1. Naar [kolommen toevoegen aan of verwijderen uit het rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), klikt u op een kolomkop en selecteert u **Kolommen**.
+1. Om [ toe te voegen of kolommen te verwijderen uit het rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), om het even welke kolomrubriek te klikken en **[!UICONTROL Columns]** te selecteren.
 
    ![](assets/six.png)
 
@@ -51,21 +51,21 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
 
    | Kolom | Beschrijving |
    |---|---|
-   | Geen kans | Aantal personen *niet* een eerste opportuniteitscontact. |
-   | Dagen niet mogelijk | Gemiddelde leeftijd, in dagen, van mensen die *niet* een primair contact. |
-   | Heeft mogelijkheid | Aantal personen dat een primaire opportuniteitcontact is. |
-   | Heeft opportunity % | Percentage van de personen die een eerste opportuniteitscontact zijn. |
-   | Dagen tot opportuniteit | Gemiddeld aantal dagen voor conversie van persoon naar primaire opportuniteitscontact. |
-   | Totaal opportuniteitsbedrag | Som van alle opportuniteitsbedragen. |
-   | Hoeveelheid gemiddelde opportuniteit | Som van de omvang van de kansen, gedeeld door het aantal kansen. |
-   | Totale opportuniteit | Aantal kansen. |
-   | Gesloten | Aantal kansen die zijn gesloten, gewonnen of verloren. |
-   | Won | Aantal kansen dat is gewonnen. |
-   | % Won | Percentage kansen dat is gewonnen. |
-   | Totaal gewonnen bedrag | Som van de bedragen van de behaalde kans. |
-   | Te sluiten dagen | Gemiddeld aantal dagen om kansen te sluiten. |
-   | Dagen in verkoop | Gemiddelde lengte van de verkoopcyclus (dagen tot opportunity + dagen om te sluiten). |
+   | [!UICONTROL No Opportunity] | Aantal mensen die *niet* een primaire opportuniteitscontact zijn. |
+   | [!UICONTROL Days No Opportunity] | Gemiddelde leeftijd, in dagen, van mensen die *niet* een primair contact zijn. |
+   | [!UICONTROL Has Opportunity] | Aantal personen dat een primaire opportuniteitcontact is. |
+   | [!UICONTROL Has Opportunity %] | Percentage van de personen die een eerste opportuniteitscontact zijn. |
+   | [!UICONTROL Days Until Opportunity] | Gemiddeld aantal dagen voor conversie van persoon naar primaire opportuniteitscontact. |
+   | [!UICONTROL Total Opportunity Amount] | Som van alle opportuniteitsbedragen. |
+   | [!UICONTROL Avg Opportunity Amount] | Som van de omvang van de kansen, gedeeld door het aantal kansen. |
+   | [!UICONTROL Total Opportunity] | Aantal kansen. |
+   | [!UICONTROL Closed] | Aantal kansen die zijn gesloten, gewonnen of verloren. |
+   | [!UICONTROL Won] | Aantal kansen dat is gewonnen. |
+   | [!UICONTROL % Won] | Percentage kansen dat is gewonnen. |
+   | [!UICONTROL Total Won Amount] | Som van de bedragen van de behaalde kans. |
+   | [!UICONTROL Days to Close] | Gemiddeld aantal dagen om kansen te sluiten. |
+   | [!UICONTROL Days in Sales] | Gemiddelde lengte van de verkoopcyclus (dagen tot opportunity + dagen om te sluiten). |
 
    >[!MORELIKETHIS]
    >
-   >Leer hoe u [beheer de grootte van uw rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Leer hoe te [ de grootte van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) beheren.

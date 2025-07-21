@@ -4,9 +4,9 @@ description: Gebruik LinkedIn Gen Form Filters and Triggers in een slimme campag
 title: LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Wanneer u LinkedIn Gen Forms hebt ingeschakeld, kunt u deze als filters en trigg
 >
 >Wanneer mensen hun informatie verzenden in een LinkedIn Gen-formulier, wordt die informatie direct doorgestuurd naar Marketo, zodat het formulier beschikbaar is in de vervolgkeuzelijst Naam van lead-gen-formulier. Formuliernamen zijn pas zichtbaar nadat ten minste één persoon het formulier heeft verzonden.
 
-1. Gebruik de **Vult uit LinkedIn Gids 1&rbrace; trekker van de Vorm van de Leider uit om actie onmiddellijk te ondernemen of de** Gevulde uit Vorm LinkedIn Lood Gen **filter voor geplande partijcampagnes of standaard slimme lijst het filtreren.**
+1. Gebruik de trigger **[!UICONTROL Fills Out LinkedIn Lead Gen Form]** om onmiddellijk actie te ondernemen of het filter **[!UICONTROL Filled Out LinkedIn Lead Gen Form]** voor geplande batchcampagnes of het standaard filteren van slimme lijsten.
 
    ![](assets/use-linkedin-lead-gen-form-filters-and-triggers-1.png)
 

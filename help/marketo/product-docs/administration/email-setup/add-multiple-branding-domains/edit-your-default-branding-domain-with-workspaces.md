@@ -4,16 +4,16 @@ description: Uw standaardbrandingdomein bewerken met Workspaces - Marketo Docs -
 title: Uw standaardbrandingdomein met werkruimten bewerken
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '145'
 ht-degree: 1%
 
 ---
 
 # Uw standaardbrandingdomein met werkruimten bewerken {#edit-your-default-branding-domain-with-workspaces}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. Selecteer in de tabel Brandingdomeinen het huidige algemene domein en klik op Bewerken om dit te wijzigen in het brandingdomein van uw bedrijf.
+1. Selecteer in de tabel [!UICONTROL Branding Domains] het huidige algemene domein en klik op **[!UICONTROL Edit]** om dit te wijzigen in het brandingdomein van uw bedrijf.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 1%
    >
    >U kunt geen extra domein toevoegen tot u eerst het generische domein uitgeeft.
 
-1. Voer de naam van het standaarddomein in en klik op **[!UICONTROL Next]**.
+1. Voer de naam van het standaarddomein in en klik op **[!UICONTROL Next]** .
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
@@ -43,4 +43,4 @@ ht-degree: 1%
 >
 >Wanneer u aanvullende brandingdomeinen toevoegt, kunt u ervoor kiezen dit als primair domein voor een of meer werkruimten te gebruiken. Alle bestaande niet-verzonden e-mails die op &quot;Standaard&quot; zijn ingesteld en alle nieuwe e-mails die u hebt gemaakt, worden standaard ingesteld op het primaire domein. U kunt dit per e-mail overschrijven.
 
-Nu kunt u [extra brandingsdomeinen toevoegen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) u hebt werkruimten nodig.
+Nu, kunt u [ extra brandende domeinen ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.

@@ -4,9 +4,9 @@ description: Beveilig de instelling Abonnementsbeheer - Marketo Docs - Productdo
 title: Beveilig de Plaatsing van Admin van het Abonnement
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 Admin kan verkiezen om login te vereisen om een rapport te bekijken.
 
-1. Klikken **Beheer** en vervolgens **Aanmeldingsinstellingen**.
+1. Klik op **[!UICONTROL Admin]** en vervolgens op **[!UICONTROL Login Settings]** .
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klikken **Bewerken** voor Rapportinstellingen voor slimme lijsten.
+1. Klik op **[!UICONTROL Edit]** voor Rapportinstellingen voor slimme lijsten.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Selecteren **Ja** om een login te vereisen om rapporten te downloaden.
+1. Selecteer **[!UICONTROL Yes]** als u een aanmelding wilt vereisen om rapporten te downloaden.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

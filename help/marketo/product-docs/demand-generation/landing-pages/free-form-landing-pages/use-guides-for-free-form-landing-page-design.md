@@ -4,9 +4,9 @@ description: Hulplijnen gebruiken voor het ontwerpen van vrije bestemmingspagina
 title: Hulplijnen gebruiken voor ontwerpen vrije bestemmingspagina
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Bij het ontwerpen van een openstaande landingspagina kunt u hulplijnen gebruiken
 
 >[!NOTE]
 >
->Hulplijnen zijn alleen beschikbaar op de **Vrije vorm** de pagina-editor openen.
+>Hulplijnen zijn alleen beschikbaar in de bestemmingspagina-editor van **[!UICONTROL Free-form]** .
 
-1. Selecteer een **Openingspagina** en klik op **Concept bewerken**.
+1. Selecteer een **[!UICONTROL Landing Page]** en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klikken **Handelingen op bestemmingspagina** en selecteert u **Hulplijnen tonen**.
+1. Klik op **[!UICONTROL Landing Page Actions]** en selecteer **[!UICONTROL Show Guides]** .
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

@@ -4,37 +4,37 @@ description: Een rapport klonen naar groepsrapporten - Marketo Docs - Productdoc
 title: Een rapport klonen naar groepsrapporten
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 # Een rapport klonen naar groepsrapporten {#clone-a-report-to-group-reports}
 
-Elk rapport in **Mijn Rapporten &#x200B;** is slechts zichtbaar aan u. Wat als u het verslag toegankelijk wilde maken voor alle anderen? Zo kunt u dat doen:
+Een willekeurig rapport in **[!UICONTROL My Reports]** is alleen voor u zichtbaar. Wat als u het verslag toegankelijk wilde maken voor alle anderen? Zo kunt u dat doen:
 
-1. In de **Analyse** gebied, klik op het gewenste gebied [opgeslagen rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. In het **[!UICONTROL Analytics]** gebied, klik op het gewenste [ bewaarde rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >Een opgeslagen rapport kan ook worden gekloond naar **Groepsrapporten** door het rapport naar de map te slepen.
+   >Een opgeslagen rapport kan ook naar **[!UICONTROL Group Reports]** worden gekloond door het rapport naar de map te slepen.
 
-1. Klikken **Handelingen rapporteren** en selecteert u **Kloonrapport**.
+1. Klik op **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Clone Report]** .
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. Klik op de knop **Klonen naar** en selecteert u de groep. Selecteer **Map**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Clone To]** en selecteer de groep. Selecteer de **[!UICONTROL Folder]** .
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Naam** het rapport en klik op **Klonen**.
+1. **[!UICONTROL Name]** het rapport en klik op **[!UICONTROL Clone]** .
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Koel! Uw rapport wordt nu weergegeven in **Groepsrapporten**.
+   Koel! Uw rapport wordt nu weergegeven in **[!UICONTROL Group Reports]** .
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)

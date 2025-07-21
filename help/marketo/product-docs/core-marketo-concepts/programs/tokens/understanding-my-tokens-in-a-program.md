@@ -4,9 +4,9 @@ description: Mijn tokens in een programma begrijpen - Marketo Docs - Productdocu
 title: Mijn tokens in een programma begrijpen
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Voorbeelden:
   </tr> 
   <tr> 
    <td>E-mailscript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td> 
+   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td> 
   </tr> 
   <tr> 
    <td>Number <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -73,7 +73,7 @@ Voorbeelden:
 
 >[!CAUTION]
 >
->Mijn tokens worden niet opgelost wanneer een e-mail van Sales Insight op Microsoft Dynamics of Salesforce wordt verzonden. Alleen standaardtokens worden gevuld (Lead, Company, enz.). De standaardwaarden voor tokens _zullen_ werken, echter.
+>Mijn tokens worden niet opgelost wanneer een e-mail van Sales Insight wordt verzonden op [!DNL Microsoft Dynamics] of [!DNL Salesforce] . Alleen standaardtokens worden gevuld (Lead, Company, enz.). De standaardwaarden voor tokens _zullen_ werken, echter.
 
 ## Nesten van tokens {#nesting-tokens}
 

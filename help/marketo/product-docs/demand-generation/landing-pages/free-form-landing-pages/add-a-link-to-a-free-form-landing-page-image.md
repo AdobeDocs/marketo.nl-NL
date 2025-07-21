@@ -4,9 +4,9 @@ description: Een koppeling toevoegen aan een gratis landingpagina-afbeelding - M
 title: Voeg een Verbinding aan een Vrije Vorm het Bestaan Beeld van de Pagina toe
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een afbeelding toevoegen aan een openingspagina met vrije vorm](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[ voeg een Beeld aan een Vrije-Vorm het Landen Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
 >Dit geldt alleen voor landingspagina&#39;s met vrije vorm.
 
-1. Selecteer de afbeelding die u aan de bestemmingspagina hebt toegevoegd en vouw de **Eigenschappenblad.**
+1. Selecteer de afbeelding die u aan de bestemmingspagina hebt toegevoegd en vouw de **[!UICONTROL Property Sheet]uit.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Typ uw mailto-koppeling in het dialoogvenster **Koppel-URL.**
+1. Typ uw mailto-koppeling in de **[!UICONTROL linkUrl].**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
-# Instellingen Facebook Rich Post bewerken {#edit-facebook-rich-post-settings}
+# [!DNL Facebook] Rich Post Settings bewerken {#edit-facebook-rich-post-settings}
 
-Pas advertenties aan wanneer mensen je delen op Facebook.
+Pas advertenties aan wanneer mensen u delen op [!DNL Facebook] .
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Marketo _sociale apps_ staat uw lood toe om uw landende pagina&#39;s met hun ver
 
 ## Opties voor rijke berichten selecteren {#select-rich-post-options}
 
-U kunt de typen paginagegevens opgeven die u wilt gebruiken in de uitgebreide Facebook-berichten die worden gegenereerd door shares van uw bestemmingspagina.
+U kunt de typen pagina-informatie opgeven die moeten worden gebruikt in de [!DNL Facebook] opgemaakte rijke berichten die worden gegenereerd door shares van uw bestemmingspagina.
 
-1. Selecteer **het Bericht van Facebook** in de redacteur voor uw **YouTube** video of sociale knoop.
+1. Selecteer **[!UICONTROL Facebook Message]** in de redacteur voor uw * *[!DNL YouTube*]* video of sociale knoop.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Maak een keuze uit de volgende opties voor uw Facebook-bericht.
+1. Maak een keuze uit de volgende opties voor uw [!DNL Facebook] -bericht.
 
    * Statische inhoud toevoegen: selecteer deze optie om de titel, het bijschrift en de beschrijving handmatig in te voeren.
 
@@ -43,27 +43,27 @@ U kunt de typen paginagegevens opgeven die u wilt gebruiken in de uitgebreide Fa
 
    >[!NOTE]
    >
-   >Deze zouden al in de paginabron moeten bestaan, maar voor meer controle, kunt u specifieke markeringen van Facebook OG aan uw landende pagina toevoegen.
+   >Deze zouden al in de paginabron moeten bestaan, maar voor meer controle, kunt u specifieke [!DNL Facebook] markeringen van OG aan uw landende pagina toevoegen.
 
-   * Voeg geen rijke inhoud toe: beperkt de Facebook-berichten van uw openingspagina tot het hoofdbericht en de koppeling.
+   * Voeg geen rijke inhoud toe: beperkt de [!DNL Facebook] posten van uw landingspagina tot enkel het belangrijkste bericht en de verbinding.
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## Facebook OG-tags toevoegen aan een bestemmingspagina {#add-facebook-og-tags-to-a-landing-page}
+## [!DNL Facebook] OG-tags toevoegen aan een bestemmingspagina {#add-facebook-og-tags-to-a-landing-page}
 
-Als u de pagina-elementen wilt beheren die vanaf de bestemmingspagina in de Facebook-shares worden opgenomen, kunt u Facebook OG-tags (Open Graph) voor titel, bijschrift en beschrijving toevoegen aan uw bestemmingspagina.
+Als u de pagina-elementen wilt beheren die worden opgenomen in de [!DNL Facebook] -shares van uw bestemmingspagina, kunt u [!DNL Facebook] OG-tags (Open Graph) voor titel, bijschrift en beschrijving toevoegen aan uw bestemmingspagina.
 
-1. Open de het landen pagina die uw **video van YouTube** of sociale knoop bevat.
+1. Open de het landen pagina die uw **[!DNL YouTube]video** of sociale knoop bevat.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   **het Bestaan van de Pagina Designer** opent in een nieuw venster.
+   De **[!UICONTROL Landing Page Designer]** wordt in een nieuw venster geopend.
 
-1. Selecteer **het Bestaan van de Pagina Acties** > **uitgeven de Markeringen van Meta van de Pagina**.
+1. Selecteer **[!UICONTROL Landing Page Actions]** > **[!UICONTROL Edit Page Meta Tags]** .
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. Voeg de HTML toe die og:title, og:caption, en og:description bepaalt. Kopieer en plak deze regels en vervang de plaatsaanduidingstekst:
+1. Voeg HTML toe die begin :title, log :caption, en Logboek :description bepaalt. Kopieer en plak deze regels en vervang de plaatsaanduidingstekst:
 
    `<meta property="og:title" content="My Post Title"/>`
 

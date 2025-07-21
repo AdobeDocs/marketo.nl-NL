@@ -4,18 +4,18 @@ description: E-mailrapporten - Marketo Docs - Productdocumentatie
 title: E-mailrapporten
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
 
 # E-mailrapporten {#email-reports}
 
-Als u wilt aanpassen welk automatisch e-mailrapport de gebruiker ontvangt, raadpleegt u de  [Sectie Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Zie de [[!UICONTROL User Settings] sectie ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) als u wilt aanpassen welk geautomatiseerd e-mailrapport de gebruiker ontvangt.
 
-## E-mailrapporten voor webpersonalisatie {#web-personalization-email-reports}
+## Web Personalization-e-mailrapporten {#web-personalization-email-reports}
 
 Dagelijkse of wekelijkse e-mailrapporten worden verzonden naar het e-mailadres van de gebruiker met de meest recente prestatiegegevens van organisatie, persoon, campagne en middelen.
 
@@ -31,42 +31,42 @@ Het dagelijkse/wekelijkse rapport stuurt de gebruiker een e-mail van de 50 belan
 
 ![](assets/two.png)
 
-In het dagelijkse/wekelijkse personenrapport wordt de gebruiker een e-mail gestuurd van de meest recente 100 personen van de website volgens: het e-mailadres, de naam van de organisatie, de locatie, de staat, de datum van het vastleggen van de persoon en de segmenten waartoe die persoon behoort.
+Het dagelijkse/wekelijkse Rapport van Mensen stuurt de gebruiker een e-mail van de recentste 100 mensen van de website volgens: het e-mailadres van de persoon, de naam van de organisatie, de plaats, de staat, de datum van persoonopname en segmenten die die persoon tot behoort.
 
-## Best presterende realtime campagnes {#top-performing-real-time-campaigns}
+## [!UICONTROL Top Performing Real-time Campaigns] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
 Met het rapport Best Performance Real-Time Campaigns (Meest uitvoerende realtime campagnes) wordt de gebruiker een e-mail gestuurd met de beste uitvoerende campagnes in real time, met daarin de naam van de campagne, de indrukkingen, de kliks, het segment waarop de campagne heeft gereageerd en de conversiesnelheid van de campagne.
 
-## Rapport met best presterende elementen {#top-performing-assets-report}
+## Best presterende Assets-rapport {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-Met het Rapport Best Performance Assets wordt de gebruiker een e-mail gestuurd met de belangrijkste inhoudselementen, waarin de elementnaam en het percentage van overeenkomsten worden weergegeven in vergelijking met andere elementen.
+Met het best presterende Assets-rapport wordt de gebruiker een e-mail gestuurd met de best presterende content-elementen, waarin de elementnaam en het percentage overeenkomsten worden weergegeven in vergelijking met andere middelen.
 
-## Rapport Aanbevolen elementen {#recommended-assets-report}
+## Aanbevolen Assets-rapport {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
-Het Rapport Aanbevolen elementen stuurt de gebruiker een e-mail met alle inhoud en het aantal kliks dat afkomstig is van inhoud die wordt weergegeven in de Content Recommendation Engine.
+Met het rapport Aanbevolen Assets wordt de gebruiker een e-mail gestuurd met alle inhoud en het aantal klikken dat is gegenereerd door inhoud die wordt weergegeven in de Content Recommendation Engine.
 
 ## Samenvattingsrapport {#summary-report}
 
 ![](assets/six.png)
 
-Het overzichtsrapport verstuurt de gebruiker een e-mail (maandelijks of driemaandelijks) van alle campagnes en aanbevolen inhoudsprestaties op basis van het aantal klikken en het aantal personen (direct of geassisteerd) die betrokken waren bij de gepersonaliseerde campagne of aanbevolen inhoud en vervolgens een bekende persoon werden. Het verslag vergelijkt de resultaten met de vorige maand of het vorige kwartaal.
+Het overzichtsrapport verstuurt de gebruiker een e-mail (maandelijks of driemaandelijks) van alle campagnes en de aanbevolen prestaties van de Inhoud op basis van het aantal klikken en het aantal (directe of ondersteunde) personen dat betrokken was bij de Gepersonaliseerde Campagne of Aanbevolen Inhoud en vervolgens bekend werd. Het verslag vergelijkt de resultaten met de vorige maand of het vorige kwartaal.
 
 >[!NOTE]
 >
 >**Definities**
 >
->**Directe omzetting**: Een webbezoeker die op een gepersonaliseerde campagne of aanbevolen inhoudsbron klikt en tijdens dezelfde sessie gaat verder met het invullen van elk formulier op de website met het e-mailadres.
+>**[!UICONTROL Direct Conversions]**: Een webbezoeker die op een gepersonaliseerde campagne of aanbevolen inhoud klikt en die tijdens dezelfde bezoekerssessie een formulier op de website invult, vult het desbetreffende e-mailadres in.
 >
->**Ondersteunde conversie**: Een webbezoeker die elk formulier op de website invult en zijn e-mailadres verlaat terwijl tijdens een vorig bezoek (in de laatste zes maanden) op een gepersonaliseerde campagne of aanbevolen inhoudsbestand werd geklikt.
+>**[!UICONTROL Assisted Conversions]**: Een webbezoeker die elk formulier op de website invult en zijn e-mailadres verlaat terwijl hij tijdens een vorig bezoek (in de laatste zes maanden) op een gepersonaliseerde campagne of een aanbevolen inhoudsbestand heeft geklikt.
 
 >[!NOTE]
 >
->Met Marketo Web Personalization wordt het e-mailadres van de webbezoeker vastgelegd voor elk formulier dat op de website is ingevuld. Dit wordt bekeken in de pagina van de Mensen van de Personalisatie van het Web en is de persoon die in het Samenvattingsrapport wordt gebruikt.
+>Marketo Web Personalization legt het e-mailadres van de webbezoeker vast voor elk formulier dat op de website is ingevuld. Dit wordt weergegeven op de pagina [!UICONTROL Web Personalization] [!UICONTROL People] en is de persoon die wordt gebruikt in het rapport Overzicht.
 
-Als u wilt aanpassen welk automatisch e-mailrapport de gebruiker ontvangt, raadpleegt u de [Sectie Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Om aan te passen welk geautomatiseerd e-mailrapport de gebruiker ontvangt, zie de [ sectie van de Montages van de Gebruiker ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

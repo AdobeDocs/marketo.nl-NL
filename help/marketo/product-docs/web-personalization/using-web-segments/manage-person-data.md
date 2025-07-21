@@ -4,28 +4,28 @@ description: Persoonlijke gegevens beheren - Marketo-documenten - Productdocumen
 title: Persoonlijke gegevens beheren
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 4%
+source-wordcount: '192'
+ht-degree: 5%
 
 ---
 
 # Persoonlijke gegevens beheren {#manage-person-data}
 
-De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het Web door persoongebieden te selecteren in uw segmentatie te gebruiken.
+Gebruik Persongegevens voor [!DNL Web Personalization] door persoonvelden te selecteren die u in de segmentatie wilt gebruiken.
 
-1. Ga naar **Accountinstellingen**.
+1. Ga naar **[!UICONTROL Account Settings]** .
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Ga naar **Database**.
+1. Ga naar **[!UICONTROL Database]** .
 
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Een veld Nieuwe persoon toevoegen {#adding-a-new-person-field}
 
-1. Selecteren **Toe te voegen veld** in de vervolgkeuzelijst om een gegevensveld voor personen aan de lijst toe te voegen.
+1. Selecteer **Gebied om** van drop-down toe te voegen om een gebied van persoongegevens aan de lijst toe te voegen.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,13 +35,13 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
 
 ## Een persoonlijk veld verwijderen {#deleting-a-person-field}
 
-1. Klik op het verwijderpictogram ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) om een veld uit de lijst te verwijderen. Klikken **Ja** om te bevestigen dat u het veld wilt verwijderen.
+1. Klik het schrappingspictogram ( ![ - ](assets/image2015-3-24-13-3a45-3a56.png)) om een gebied uit de lijst te verwijderen. Klik op **[!UICONTROL Yes]** om te bevestigen dat u het veld wilt verwijderen.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
    >[!NOTE]
    >
-   >**De gegevensvelden van uw persoon beheren**
+   >**het Leiden uw gebieden van Gegevens van de Persoon**
    >
    >* Alleen velden met persoonlijke gegevens kunnen worden opgenomen
    >* U kunt maximaal 30 gegevensvelden voor personen toevoegen
@@ -54,7 +54,7 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
   <tr> 
    <th><p>REST API-naam</p></th> 
    <th><p>SOAP API-naam</p></th> 
-   <th><p>Vriendschappelijke naam</p></th> 
+   <th><p>Vriendelijke naam</p></th> 
   </tr> 
   <tr> 
    <td><p>afdeling</p></td> 
@@ -73,7 +73,7 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
   </tr> 
   <tr> 
    <td><p>leadScore</p></td> 
-   <td><p>Loodscore</p></td> 
+   <td><p>LeadScore</p></td> 
    <td><p>Score</p></td> 
   </tr> 
   <tr> 
@@ -99,8 +99,8 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
  </tbody> 
 </table>
 
-De volgende belangrijke gebieden worden verstrekt uit de doos voor nieuwe rekeningen van de Personalisatie van het Web:
+De volgende voorbeeldvelden worden in het vak weergegeven voor nieuwe [!DNL Web Personalization] -accounts:
 
 >[!MORELIKETHIS]
 >
->[Een segment maken met bekende persoongegevens](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[ creeer een Segment Gebruikend Bekende Gegevens van de Persoon ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

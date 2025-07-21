@@ -4,10 +4,10 @@ description: Een mobiele weergave toevoegen voor uw gratis landingspagina - Mark
 title: Een mobiele weergave toevoegen voor uw openingsbestemmingspagina
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 2%
 
 ---
 
@@ -17,9 +17,9 @@ Het is eenvoudig om uw gratis bestemmingspagina&#39;s er goed uit te laten zien 
 
 >[!NOTE]
 >
->De mobiele weergave werkt op schermen met een breedte van 480 px (of minder). Met andere woorden: smartphones. Hier is meer [informatie over apparaatresoluties](https://www.mydevice.io/).
+>De mobiele weergave werkt op schermen met een breedte van 480 px (of minder). Met andere woorden: smartphones. Hier is meer [ info over apparatenresoluties ](https://www.mydevice.io/).
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,26 +27,26 @@ Het is eenvoudig om uw gratis bestemmingspagina&#39;s er goed uit te laten zien 
 
    ![](assets/choose-landing-page.jpg)
 
-1. Klikken **Concept bewerken**.
+1. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Klik op de knop **Mobiel** tab.
+1. Klik op de tab **[!UICONTROL Mobile]** .
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Klikken **Activeren**.
+1. Klik op **[!UICONTROL Activate]**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
    >[!CAUTION]
    >
-   >Mogelijk moet de sjabloon met de vrije vorm worden bijgewerkt. Als u dat bericht ziet, kunt u snel lezen over hoe u [een bestaande sjabloon voor een landingspagina met vrije vorm geschikt maken voor mobiel gebruik](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
+   >Mogelijk moet de sjabloon met de vrije vorm worden bijgewerkt. Als u dat bericht ziet, lees snel over hoe te [ een bestaand vrij-vorm het landen paginamalplaatje mobiel ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md) maken.
 
-1. Geweldig! U hebt nu de mobiele versie van uw bestemmingspagina geactiveerd. Klikken **Sluiten**.
+1. Geweldig! U hebt nu de mobiele versie van uw bestemmingspagina geactiveerd. Klik op **[!UICONTROL Close]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   U kunt nu [uw mobiele weergave aanpassen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
+   U kunt nu [ uw mobiele mening ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aanpassen.
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)

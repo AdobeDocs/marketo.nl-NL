@@ -4,9 +4,9 @@ description: Selecteer een formulierthema - Marketo Docs - Productdocumentatie
 title: Een formulierthema selecteren
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,25 +15,25 @@ ht-degree: 0%
 
 We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het beste?
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken**.
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/editform.png)
 
-1. Ga naar **Formulierinstellingen**.
+1. Ga naar **[!UICONTROL Form Settings]** .
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Schakel heen en weer in om de optie **Formulierthema** van jullie houden.
+1. Schakel heen en weer om de **[!UICONTROL Form Theme]** van uw eigen smaak te kiezen.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
    Momenteel zijn er 7 ingebouwde thema&#39;s:
 
-   * Eenvoudig
+   * eenvoudig
    * Inzet
    * Gloed
    * Rond
@@ -43,9 +43,9 @@ We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het bes
 
    >[!TIP]
    >
-   >U kunt ook [CSS van uw formulierthema bewerken](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+   >U kunt CSS van uw vormthema [ ook ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) uitgeven.
 
-1. Klikken **Volgende** om andere formulieropties te configureren, of klik op **Voltooien** als u alleen het formulierthema wilt wijzigen.
+1. Klik op **[!UICONTROL Next]** om andere formulieropties te configureren of klik op **[!UICONTROL Finish]** als u alleen het formulierthema wilt wijzigen.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
@@ -53,5 +53,5 @@ Hoe makkelijk was dat?! U kunt uw HTML/CSS-boek nu wat stof laten verzamelen.
 
 >[!MORELIKETHIS]
 >
->* [CSS van een formulierthema bewerken](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Een veld toevoegen aan een formulier](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
+>* [ geef CSS van een Thema van de Vorm uit ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [ voeg een Gebied aan een Vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) toe

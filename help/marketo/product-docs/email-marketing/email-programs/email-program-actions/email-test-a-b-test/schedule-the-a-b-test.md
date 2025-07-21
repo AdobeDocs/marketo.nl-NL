@@ -4,9 +4,9 @@ description: Plan de A/B-test - Marketo Docs - Productdocumentatie
 title: De A/B-test plannen
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
 >[!PREREQUISITES]
 >
->[Een A/B-test toevoegen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
 
 >[!NOTE]
 >
 >Voor Datum-/tijdtests hoeft u alleen in te stellen wanneer u de samenvatting van de testresultaten ontvangt.
 
-1. Selecteer **Test verzenden** datum.
+1. Selecteer de **[!UICONTROL Send Test]** datum.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Selecteer **Test verzenden** tijd.
+1. Selecteer de **[!UICONTROL Send Test]** tijd.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -35,7 +35,7 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
    >
    >Test verzenden en Winner verzenden moet ten minste vier uur van elkaar verwijderd zijn. Voor grotere verzendingen wilt u echter misschien 24 uur wachten om voldoende tijd voor goede resultaten te krijgen.
 
-1. Doe hetzelfde voor **Winnaar verzenden**. Ontvangers voor meldingen invoeren (optioneel) en klikken **Volgende**.
+1. Doe hetzelfde voor **[!UICONTROL Send Winner]** . Voer (optioneel) ontvangers van een melding in en klik op **[!UICONTROL Next]** .
 
    >[!NOTE]
    >
@@ -45,13 +45,13 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!NOTE]
    >
-   >Als u een winnaar handmatig wilt declareren, definieert u **Rapport verzenden** datum/tijd in plaats van **Mailing voltooien** datum/tijd.
+   >Als u verkoos om een winnaar manueel te verklaren, zult u **Rapport bepalen verzend** datum/tijd in plaats van **beëindig het Verzenden van** datum/tijd.
 
-   Super! U bent klaar, bekijk enkel de samenvatting en klik Sluiten.
+   Super! U bent klaar, bekijk alleen de samenvatting en klik op **[!UICONTROL Close]** .
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   U zult de **Schema** De tegel wordt nu bijgewerkt.
+   U ziet dat de tegel **[!UICONTROL Schedule]** nu is bijgewerkt.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
@@ -63,4 +63,4 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!MORELIKETHIS]
    >
-   >[Een e-mailprogramma goedkeuren/goedkeuren](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[ keur/keur een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) goed

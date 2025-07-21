@@ -4,9 +4,9 @@ description: Doorsturen naar een vriendenlink in e-mails - Marketo Docs - Produc
 title: Doorsturen naar een vriendenkoppeling in e-mails
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Bijvoorbeeld, zeg gebruikt Keith de &quot;Vooruit aan Vriend&quot;verbinding om 
 
 ## De koppeling toevoegen aan een e-mailsjabloon {#add-the-link-to-an-email-template}
 
-1. Ga naar de **Studio van het Ontwerp**.
+1. Ga naar de **[!UICONTROL Design Studio]** .
 
    ![](assets/one-8.png)
 
-1. Zoek en selecteer de e-mailsjabloon waaraan u de koppeling wilt toevoegen. Klik **uitgeven Ontwerp**.
+1. Zoek en selecteer de e-mailsjabloon waaraan u de koppeling wilt toevoegen. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ Bijvoorbeeld, zeg gebruikt Keith de &quot;Vooruit aan Vriend&quot;verbinding om 
 
    >[!CAUTION]
    >
-   >Wij adviseren niet gebruikend het stileren **positie:relatief** in uw e-mailmalplaatje. Het kan problemen veroorzaken met de positie en weergave van het vak &#39;Doorsturen naar vriend&#39;.
+   >Wij adviseren niet gebruikend het stileren **positie:relative** in uw e-mailmalplaatje. Het kan problemen veroorzaken met de positie en weergave van het vak &#39;Doorsturen naar vriend&#39;.
 
-1. Klik **Concept van de Voorproef** om ervoor te zorgen het malplaatje de manier kijkt u het wilt.
+1. Klik op **[!UICONTROL Preview Draft]** om te controleren of de sjabloon er naar wens uitziet.
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
    ![](assets/eight-1.png)
 
-1. Plak het **`{{system.forwardToFriendLink}}`** teken in het **URL** vakje gebruikend Ctrl/Cmd+V, dan klik **Tussenvoegsel**.
+1. Plak het **`{{system.forwardToFriendLink}}`** teken in het **URL** vakje gebruikend Ctrl/Cmd+V, dan klik **[!UICONTROL Insert]**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
 U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestuurd en ontvangen.
 
-1. Ga naar de **`Database`** .
+1. Ga naar de **[!UICONTROL Database]** .
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestu
 
    ![](assets/fourteen.png)
 
-1. Ga naar het **Logboek van de Activiteit** lusje. Dubbelklik **Ontvangen door:sturen aan Vriend E-mail** of **verzonden door:sturen naar Vriend E-mail** om details te zien.
+1. Ga naar de tab **[!UICONTROL Activity Log]** . Dubbelklik op **[!UICONTROL Received Forward to Friend Email]** of **[!UICONTROL Sent Forward to Friend Email]** om details weer te geven.
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestu
 
    >[!NOTE]
    >
-   >Wij zullen **identiteitskaart van de Persoon** klikbaar maken en direct met de persoon in een aanstaande flard verbinden.
+   >We maken de **[!UICONTROL Person ID]** klikbaar en koppelen deze rechtstreeks aan de persoon in een volgende patch.
 
    ![](assets/seventeen.png)
 

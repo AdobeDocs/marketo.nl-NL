@@ -3,16 +3,16 @@ description: Criteria voor het publiek - Marketo Docs - Productdocumentatie
 title: Criteria voor het publiek
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
 
 # Criteria voor het publiek {#audience-criteria}
 
-Net als bij Slimme lijsten Marketo&#39;s Engage kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) het doelpubliek definiëren. U kunt bekende of onbekende personen als doel instellen met afgeleide, persoon- of bedrijfskenmerken (of een combinatie daarvan).
+Net als in Marketo Engage Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende personen als doel instellen met afgeleide, persoon- of bedrijfskenmerken (of een combinatie daarvan).
 
 ## Prioriteit {#priority}
 
@@ -28,11 +28,11 @@ Met gebeurtenissen kunt u bezoekers aanwijzen op basis van hoeveel ze schuiven o
 
    ![](assets/audience-criteria-3.png)
 
-1. Stel de tijd Groter dan in op 20 seconden.
+1. Stel de tijd &quot;[!UICONTROL Greater Than]&quot; in op 20 seconden.
 
    ![](assets/audience-criteria-4.png)
 
-1. Voeg URL van de gewenste pagina in de [ sectie van het Doel ](#target) toe.
+1. Voeg de URL van de gewenste pagina toe in de sectie [[!UICONTROL Target]](#target) .
 
    ![](assets/audience-criteria-5.png)
 
@@ -46,7 +46,7 @@ Er zijn _vele_ kenmerkcombinaties om van te kiezen. In het onderstaande voorbeel
 
    ![](assets/audience-criteria-7.png)
 
-1. _is_ wordt geplaatst door gebrek. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
+1. _[!UICONTROL Is]_wordt standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,17 +88,17 @@ Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw 
    >
    >Wanneer iemand uw website bezoekt, [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} koekjes hen en hen in het systeem zet. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
 
-1. _is_ wordt geplaatst door gebrek. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
+1. _[!UICONTROL Is]_wordt standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
    ![](assets/audience-criteria-15.png)
 
 ## Lidmaatschap {#membership}
 
-Gebruik de Slimme Lijsten van het Marketo Engage voor het doelpubliek van uw Dialoog.
+Gebruik Marketo Engage Smart Lists voor het doelpubliek van uw dialoogvenster.
 
 >[!AVAILABILITY]
 >
->Lid van de Slimme Lijst of Lid van de criteria van de Lijst vereist Dynamic Chat Prime. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Lid van de Slimme Lijst of Lid van de criteria van de Lijst vereist Dynamic Chat Prime. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 1. Pak **[!UICONTROL Member of Smart List]** onder Lidmaatschap en zet het neer op het canvas.
 
@@ -129,7 +129,7 @@ Acceptabele indelingen:
 
 >[!NOTE]
 >
->* Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Dit betekent dat `https://*.website.com` het dialoogvenster op elke pagina van de site plaatst, inclusief subdomeinen (bijvoorbeeld: `support.website.com` ). En `https://website.com/folder/*` plaatst het dialoogvenster op elke HTML-pagina in de volgende map (bijvoorbeeld: in dit geval is de map &quot;sport&quot;, dus: website.com/sports/baseball.html, website.com/sports/football.html, enz.).
+>* Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Dit betekent dat `https://*.website.com` het dialoogvenster op elke pagina van de site plaatst, inclusief subdomeinen (bijvoorbeeld: `support.website.com` ). En `https://website.com/folder/*` plaatst het dialoogvenster op elke HTML-pagina in de volgende map (in dit geval is de map &quot;sport&quot;, dus: website.com/sports/baseball.html, website.com/sports/football.html, enz.).
 >
 >* URL-parameters worden momenteel niet ondersteund.
 

@@ -4,9 +4,9 @@ description: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkings
 title: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 >
 >U hebt minstens één metrisch in uw rapport nodig, maar het moet niet één van de maatregelen zijn u gebruikt om uw douanemaatregel te bepalen.
 
-1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor meer informatie.
+1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor details.
 
-1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel) en klik op **Door de gebruiker gedefinieerde maat** en selecteert u **Berekende maatregel**.
+1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel), klik op **[!UICONTROL User Defined Measure]** en selecteer **[!UICONTROL Calculated Measure]** .
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -31,7 +31,7 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 
    ![](assets/image2016-1-26-11-3a26-3a23.png)
 
-1. Klik op elk onderdeel dat u links wilt plaatsen en klik op de pijl om het te verplaatsen. Voeg naar wens wiskundige symbolen toe.
+1. Klik op elk onderdeel dat u aan de linkerkant nodig hebt en klik op de pijl om het te verplaatsen. Voeg naar wens wiskundige symbolen toe.
 
    ![](assets/image2016-1-26-11-3a16-3a55.png)
 
@@ -39,7 +39,7 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
    >
    >U kunt de wiskundige symbolen zelf typen of het selectievak gebruiken.
 
-1. Als u klaar bent, klikt u op **OK**.
+1. Klik op **[!UICONTROL OK]** als u klaar bent.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
@@ -49,4 +49,4 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 
    >[!MORELIKETHIS]
    >
-   >[Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

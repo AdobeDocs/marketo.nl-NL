@@ -4,24 +4,24 @@ description: Elementen bewerken in een e-mail - Marketo Docs - Productdocumentat
 title: Elementen bewerken in een e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
 # Elementen bewerken in een e-mail {#edit-elements-in-an-email}
 
-E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, fragmenten en video. Hier is hoe te om elk uit te geven.
+E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, Afbeeldingen, Fragmenten en Video. Hier is hoe te om elk uit te geven.
 
 ## Procedure voor het bewerken van het rijke tekstelement {#how-to-edit-the-rich-text-element}
 
-1. Uw e-mail zoeken, deze selecteren en klikken **Concept bewerken**.
+1. Zoek de e-mail, selecteer deze en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/one-edited.png)
 
-1. De e-maileditor wordt geopend. Selecteer de RTF-tekst, klik op het tandwielpictogram en selecteer **Bewerken**.
+1. De e-maileditor wordt geopend. Selecteer de RTF-tekst, klik op het tandwielpictogram en selecteer **[!UICONTROL Edit]** .
 
    ![](assets/two.png)
 
@@ -29,17 +29,17 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/three.png)
 
-1. Uw tekst toevoegen/bewerken en drukken op **Opslaan**.
+1. Voeg tekst toe of bewerk de tekst en druk op **[!UICONTROL Save]** .
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [De Rich Text Editor gebruiken](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [ Gebruikend de Rijke Redacteur van de Tekst ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
-   >Vermijd het kopiëren en plakken van tekst van een rijke tekstbron, zoals een website of een document van Word. Plak in plaats daarvan eerst rijke tekst in een onbewerkte teksteditor, zoals Kladblok (Windows) of TextEdit (Mac). Als het &#39;schoon&#39; is, kunt u het vervolgens kopiëren vanuit de teksteditor zonder opmaak en plakken in uw e-mail.
+   >Vermijd het kopiëren en plakken van tekst van een rijke tekstbron, zoals een website of een document van Word. Plak in plaats daarvan eerst RTF-tekst in een teksteditor zonder opmaak, zoals [!DNL Notepad] (Windows) of [!DNL TextEdit] (Mac). Als het &#39;schoon&#39; is, kunt u het vervolgens kopiëren vanuit de teksteditor zonder opmaak en plakken in uw e-mail.
 
 ## Het afbeeldingselement bewerken {#how-to-edit-the-image-element}
 
@@ -47,7 +47,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/five.png)
 
-1. Klik op het afbeeldingselement dat u wilt bewerken, klik op het tandwielpictogram en selecteer **Bewerken**.
+1. Klik op het afbeeldingselement dat u wilt bewerken, klik op het tandwielpictogram en selecteer **[!UICONTROL Edit]** .
 
    ![](assets/six.png)
 
@@ -67,13 +67,13 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
    >
    >Gebruik deze optie als u een Marketo-token wilt gebruiken. Houd er rekening mee dat wanneer u een token gebruikt, de afbeelding wordt afgebroken in de editor, maar wordt weergegeven in de modus Voorbeeld en in het e-mailbericht Voorbeeld verzenden.
 
-   Als u een externe URL wilt gebruiken, plakt u eerst in de URL van de afbeelding. Pas de afmetingen aan uw wensen aan en voeg alternatieve tekst (optioneel) toe. Druk vervolgens op **Wisselen**.
+   Als u een externe URL wilt gebruiken, plakt u eerst in de URL van de afbeelding. Pas de afmetingen aan uw wensen aan en voeg enkele [!UICONTROL Alt Text] (optioneel) toe. Druk vervolgens op **[!UICONTROL Swap]** .
 
    ![](assets/eight.png)
 
-   **Deze computer**
+   **Mijn Computer**
 
-   Als u een afbeelding vanaf uw computer wilt uploaden, klikt u op **Bladeren**.
+   Als u een afbeelding vanaf uw computer wilt uploaden, klikt u op **[!UICONTROL Browse]** .
 
    ![](assets/nine.png)
 
@@ -81,21 +81,21 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/ten.png)
 
-   Wijzig de afmetingen naar wens, wijzig de Alt-tekst (optioneel) en druk op **Wisselen**.
+   Wijzig de afmetingen naar wens en wijzig [!UICONTROL Alt Text] (optioneel). Druk vervolgens op **[!UICONTROL Swap]** .
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Als u een afbeelding vervangt, moet u de optie **Bestaande afbeelding overschrijven** onder de URL/naam van de afbeelding.
+   >Als u een afbeelding vervangt, moet u het vakje **[!UICONTROL Overwrite existing image]** inschakelen dat onder de URL/naam van de afbeelding wordt weergegeven.
 
-   **Design Studio**
+   **Studio van het Ontwerp**
 
-   Om een beeld van de Studio van het Ontwerp op te nemen, bepaal de plaats eenvoudig van het...
+   Als u een afbeelding wilt invoegen vanuit de [!UICONTROL Design Studio] , zoekt u deze gewoon...
 
    ![](assets/twelve.png)
 
-   ...en voeg het in. Wijzig de afmetingen naar wens, wijzig de Alt-tekst (optioneel) en druk op **Wisselen**.
+   ...en invoegen. Wijzig de afmetingen naar wens en wijzig [!UICONTROL Alt Text] (optioneel). Druk vervolgens op **[!UICONTROL Swap]** .
 
    ![](assets/thirteen.png)
 
@@ -105,11 +105,11 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/fourteen.png)
 
-1. Klik op het element Fragment, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
+1. Klik op het element Fragment, klik vervolgens op het tandwielpictogram en selecteer **[!UICONTROL Edit]** .
 
    ![](assets/fifteen.png)
 
-1. Zoek het fragment, selecteer het en klik op **Opslaan**.
+1. Zoek het fragment, selecteer het en klik op **[!UICONTROL Save]** .
 
    ![](assets/sixteen.png)
 
@@ -123,11 +123,11 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/nineteen.png)
 
-1. Klik op het element Video, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
+1. Klik op het element Video, klik vervolgens op het tandwielpictogram en selecteer **[!UICONTROL Edit]** .
 
    ![](assets/twenty.png)
 
-1. Plak de video-URL vanuit Vimeo of YouTube. Klik vervolgens buiten het vak URL om de voorvertoning te laden. Wijzig de afmetingen naar wens en voeg Alt-tekst (optioneel) toe. Druk vervolgens op **Invoegen**.
+1. Plak de video-URL vanuit [!DNL Vimeo] of YouTube. Klik vervolgens buiten het vak URL om de voorvertoning te laden. Wijzig de afmetingen naar wens. Voeg [!UICONTROL Alt Text] (optioneel) toe en druk op **[!UICONTROL Insert]** .
 
    ![](assets/twentyone.png)
 

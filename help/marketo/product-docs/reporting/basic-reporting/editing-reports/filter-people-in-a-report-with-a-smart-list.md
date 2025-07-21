@@ -4,9 +4,9 @@ description: Filter Personen in een rapport met een slimme lijst - Marketo Docs 
 title: Personen in een rapport filteren met een slimme lijst
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
 * [Webactiviteit bedrijf](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Activiteit webpagina](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Slimme lijst** tab.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de tab **[!UICONTROL Smart List]** .
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -43,7 +43,7 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Klik op de knop **Rapport** om uw gefilterde rapport te bekijken.
+1. Klik op het tabblad **[!UICONTROL Report]** om uw gefilterde rapport te bekijken.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

@@ -4,9 +4,9 @@ description: Duurzaam abonnement - Marketo Docs - Productdocumentatie
 title: Duurzaam abonnement opzeggen
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Wanneer een nieuwe persoon wordt gemaakt, controleert Marketo deze op de statust
 
 ## Een e-mailadres wijzigen {#changing-an-email-address}
 
-Als u het e-mailadres van een persoon wijzigt in een niet-geabonneerd e-mailadres, wordt het abonnement op die persoon opgezegd. Deze wijziging kan optreden in Marketo of Salesforce.
+Als u het e-mailadres van een persoon wijzigt in een niet-geabonneerd e-mailadres, wordt het abonnement op die persoon opgezegd. Deze wijziging kan optreden in Marketo of [!DNL Salesforce] .
 
 ## Opnieuw abonneren {#re-subscribing}
 

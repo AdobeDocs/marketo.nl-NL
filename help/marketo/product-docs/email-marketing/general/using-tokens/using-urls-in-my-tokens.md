@@ -4,26 +4,26 @@ description: URL's gebruiken in Mijn tokens - Marketo Docs - Productdocumentatie
 title: URL's gebruiken in Mijn tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # URL&#39;s gebruiken in Mijn tokens {#using-urls-in-my-tokens}
 
-Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te voegen in uw e-mails.
+Voer de onderstaande stappen uit om [!UICONTROL My Tokens] te gebruiken om URL&#39;s in te voegen in uw e-mails.
 
-1. Selecteer uw programma en klik **Mijn Tokens**.
+1. Selecteer het programma en klik op **[!UICONTROL My Tokens]** .
 
    ![](assets/one-4.png)
 
-1. Selecteer de **Tekst** Mijn Token van de Tekst, sleep en laat vallen het op het canvas.
+1. Selecteer **[!UICONTROL Text]** Mijn token, sleep het naar het canvas.
 
    ![](assets/two-4.png)
 
-1. Geef het teken een unieke naam, ga een URL (zonder https://) in en klik **sparen**.
+1. Geef de token een unieke naam, voer een URL in (zonder de map https://) en klik op **[!UICONTROL Save]** .
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/four-3.png)
 
-1. Klik **uitgeven Ontwerp**.
+1. Klik op **[!UICONTROL Edit Draft]**.
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
    >
    >U kunt natuurlijk ook `http://` invoeren als uw site geen https gebruikt.
 
-1. Bepaal de plaats van uw Mijn Token, selecteer het, en klik **Tussenvoegsel**.
+1. Zoek uw token, selecteer dit en klik op **[!UICONTROL Insert]** .
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/nine.png)
 
-1. Markeer de tekst die u met de koppeling wilt weergeven en klik op het pictogram Koppeling invoegen/bewerken.
+1. Markeer de tekst die u met de koppeling wilt weergeven en klik op het pictogram [!UICONTROL Insert/Edit Link] .
 
    ![](assets/ten.png)
 
-1. Druk CTRL/Cmd+V om de inhoud in **te kleven URL** doos en **Tussenvoegsel** te klikken.
+1. Druk op Ctrl/Cmd+V om de inhoud in het vak **[!UICONTROL URL]** te plakken en klik op **[!UICONTROL Insert]** .
 
    ![](assets/eleven.png)
 
-1. Klik **sparen**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/twelve.png)
 

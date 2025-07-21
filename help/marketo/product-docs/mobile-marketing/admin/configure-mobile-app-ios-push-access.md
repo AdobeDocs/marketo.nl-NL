@@ -4,20 +4,20 @@ description: Mobile App iOS Push Access - Marketo Docs - Productdocumentatie con
 title: Mobile App iOS Push Access configureren
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 # Mobile App iOS Push Access configureren {#configure-mobile-app-ios-push-access}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteren **Mobiele apps**.
+1. Selecteer **[!UICONTROL Mobile Apps]** .
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,15 +25,15 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Selecteer iOS onder Push Access Type en klik op **Configureren**.
+1. Selecteer onder [!UICONTROL Push Access Type] de optie iOS en klik op **[!UICONTROL Configure]** .
 
    ![](assets/image2016-6-10-11-3a37-3a9.png)
 
    >[!NOTE]
    >
-   >U hebt een **Certificaat** en **Wachtwoord** van uw ontwikkelaar van mobiele apps. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij het Apple Developer Member Center, een pushmeldingcertificaat voor uw app in te stellen en te downloaden en de inhoud te exporteren. De ontwikkelaar stelt het wachtwoord in bij het exporteren. **BELANGRIJK**: Het certificaat moet geschikt zijn voor de omgeving die u gebruikt: Sandbox of Production. Controleer dit met uw ontwikkelaar van Marketo Admin of mobiele apps.
+   >U hebt een **[!UICONTROL Certificate]** en **[!UICONTROL Password]** nodig van uw ontwikkelaar van mobiele apps. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij het Apple Developer Member Center, een pushmeldingcertificaat voor uw app in te stellen en te downloaden en de inhoud te exporteren. De ontwikkelaar stelt het wachtwoord in bij het exporteren. **BELANGRIJK**: Het certificaat zou voor het soort milieu aangewezen moeten zijn u gebruikt — zandbak of Productie. Controleer dit met uw ontwikkelaar van Marketo Admin of mobiele apps.
 
-1. Selecteer uw Certificaat, ga uw Wachtwoord in en klik **Opslaan**.
+1. Selecteer uw [!UICONTROL Certificate] , voer uw [!UICONTROL Password] in en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
@@ -41,4 +41,4 @@ Geweldig werk! Zorg ervoor dat u de app ook configureert met Android.
 
 >[!MORELIKETHIS]
 >
->[Android-pushtoegang voor mobiele app configureren](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>[ vorm Mobiele App Android Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)

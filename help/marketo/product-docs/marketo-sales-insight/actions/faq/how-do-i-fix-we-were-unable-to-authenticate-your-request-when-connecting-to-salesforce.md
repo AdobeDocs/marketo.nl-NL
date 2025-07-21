@@ -1,18 +1,18 @@
 ---
-description: Hoe los ik "Wij konden uw verzoek niet voor authentiek verklaren"wanneer het verbinden met Salesforce - Marketo Docs - productdocumentatie
-title: Hoe bevestig ik "wij konden uw verzoek"niet verklaren wanneer het verbinden met Salesforce
+description: Hoe los ik "We konden uw verzoek niet verifiëren" bij het verbinden met Salesforce - Marketo Docs - productdocumentatie
+title: Hoe kan ik "We konden uw verzoek niet verifiëren" herstellen bij verbinding met Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
 
-# Hoe bevestig ik &quot;wij konden uw verzoek&quot;niet verklaren wanneer het verbinden met Salesforce {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# Hoe kan ik &quot;We konden uw verzoek niet verifiëren&quot; herstellen bij verbinding met [!DNL Salesforce] {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Als u probeert om uw exemplaar van de Verkoop van Marketo aan Salesforce aan te sluiten en u de fout &quot;Wij kunnen uw verzoek niet voor authentiek verklaren&quot;ziet, is het waarschijnlijk verwant aan hoe uw instantie Salesforce wordt gevormd.
+Als u probeert om uw exemplaar van de Verkoop van Marketo aan Salesforce aan te sluiten en u ziet de fout &quot;Wij kunnen uw verzoek niet voor authentiek verklaren&quot;, is het waarschijnlijk verwant aan hoe uw instantie van Salesforce wordt gevormd.
 
 Er zijn twee soorten fouten die deze mislukte verificatiepagina kunnen veroorzaken.
 
@@ -27,27 +27,27 @@ U kunt bepalen welk type u krijgt door URL te controleren.
 
 ## Oplossen van aanmeldfout met beperkt domein {#resolve-login-error-restricted-domain}
 
-Deze fout wijst typisch op u een douanedomein hebt dat wij niet aan kunnen leiden. U lost deze fout op door u aan te melden bij de Salesforce-instantie waarmee u eerst verbinding wilt maken. Voer vervolgens de stappen uit om verbinding te maken met Salesforce.
+Deze fout wijst typisch op u een douanedomein hebt dat wij niet aan kunnen leiden. U lost deze fout op door u aan te melden bij het Salesforce-exemplaar waarmee u eerst verbinding wilt maken. Voer vervolgens de stappen uit om verbinding te maken met Salesforce.
 
-Als de instantie u probeert om met een domein te verbinden Salesforce Sandbox is en u een fout krijgt, zult u door extra stappen moeten gaan om uw instantie bij te werken om Salesforce Sandbox compatibel te zijn. [Meer informatie](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+Als de instantie waarmee u verbinding probeert te maken een Salesforce Sandbox-domein is en u een fout krijgt, moet u aanvullende stappen doorlopen om uw instantie bij te werken zodat deze compatibel is met Salesforce Sandbox. [ leer meer ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Oauth-app geblokkeerd oplossen {#resolve-oauth-app-blocked}
 
-Als u het foutbericht &quot;We konden uw verzoek niet verifiëren&quot; hebt ontvangen met het fouttype Oauth App Blocked (of een ander type) in de URL, is er mogelijk een beperking op uw toegang tot de API van Salesforce. Neem contact op met uw Salesforce Admin om ervoor te zorgen dat de onderstaande zaken aanwezig zijn.
+Als u het foutbericht &quot;We konden uw verzoek niet verifiëren&quot; hebt ontvangen met het fouttype Oauth App Blocked (of een ander type) in de URL, is er mogelijk een beperking op uw toegang tot de Salesforce API. Neem contact op met uw Salesforce Admin om ervoor te zorgen dat de onderstaande onderdelen aanwezig zijn.
 
 ### API inschakelen in gebruikersmachtigingen {#enable-api-in-user-permissions}
 
-1. Laat een Salesforce Admin-aanmelding bij Salesforce.
-1. Selecteren **Instellen**.
-1. Selecteren **Gebruikers beheren**.
-1. Selecteren **Profielen**.
-1. Zoek het profiel onder de ToutApp-gebruikers en klik op **Bewerken**.
-1. Omlaag schuiven naar **Administratieve machtigingen** en zorg ervoor **API ingeschakeld** is ingeschakeld.
+1. Laat Salesforce Admin zich aanmelden bij Salesforce.
+1. Selecteer **Opstelling**.
+1. Selecteer **leiden Gebruikers**.
+1. Selecteer **Profielen**.
+1. Vind het Profiel dat de gebruikers ToutApp onder zijn en klik **uitgeven**.
+1. De rol neer aan **Administratieve Toestemmingen** en zorgt ervoor **Toegelaten API** wordt gecontroleerd.
 
-### Controleren of Salesforce de Acties van het Inzicht van de Verkoop van Verbinding blokkeert {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
+### Controleren of Salesforce Insight-acties voor verkoop blokkeert via verbinding {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
-1. Laat een Salesforce Admin-aanmelding bij Salesforce.
-1. Selecteren **Instellen**.
-1. Selecteren **Apps beheren**.
-1. Selecteren **OAuth-gebruik van aangesloten apps**.
-1. Zorg ervoor dat de Acties van het Inzicht van de Verkoop &quot;Blok&quot;naast het tonen. Als u &quot;Unblock ziet,&quot;klik de knoop om de Acties van het Inzicht van de Verkoop tot Salesforce open te stellen.
+1. Laat Salesforce Admin zich aanmelden bij Salesforce.
+1. Selecteer **Opstelling**.
+1. Selecteer **beheert Apps**.
+1. Selecteer **Verbonden toepassingen OAuth Gebruik**.
+1. Zorg ervoor dat bij Handelingen van Insight verkopen de optie Blokkeren wordt weergegeven. Als je Blokkering opheffen ziet, klik je op de button om de toegang tot Salesforce voor Insight-acties verkopen te ontgrendelen.

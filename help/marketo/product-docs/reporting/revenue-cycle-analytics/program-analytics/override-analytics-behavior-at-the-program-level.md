@@ -4,18 +4,18 @@ description: Gedrag Analytics negeren op programmaniveau - Marketo Docs - Produc
 title: Gedrag Analytics negeren op programmaniveau
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 # Gedrag Analytics negeren op programmaniveau {#override-analytics-behavior-at-the-program-level}
 
-U kunt de [analysegedrag op het niveau van de beheerder op kanalen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) maar u kunt deze ook op programmaniveau overschrijven. Hieronder wordt beschreven hoe:
+U kunt het [ analysegedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen maar u kunt het op het programmaniveau ook met voeten treden. Hieronder wordt beschreven hoe:
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,26 +23,26 @@ U kunt de [analysegedrag op het niveau van de beheerder op kanalen](/help/market
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Onder de **Instellen** Sleep Analysegedrag naar het canvas.
+1. Sleep **[!UICONTROL Setup]** onder de tab [!UICONTROL Analytics Behavior] naar het canvas.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Selecteer het gewenste gedrag Analytics.
+1. Selecteer de [!UICONTROL Analytics Behavior] die u wilt.
 
    >[!NOTE]
    >
    >**Definitie**
    >
-   >* **Inclusief** - Met deze optie zorgt u ervoor dat het programma beschikbaar is voor rapportage in belastingverkenners en -analysatoren, ongeacht of u een periode hebt opgenomen in de kosten.
-   >* **Operationeel** - Deze optie heeft tot gevolg dat het programma niet wordt weergegeven in zowel de belastingverkenner als de analysatoren.
+   >* **Inclusief** - deze optie zal ervoor zorgen dat het programma voor rapportering in opbrengstontdekkingsreiziger en analysatoren ongeacht als u een periode of niet hebt omvat.
+   >* **Operationeel** - deze optie resulteert in het programma niet omhoog in of opbrengstontdekkingsreiziger of analysatoren.
 
    >[!NOTE]
    >
-   >Het standaardgedrag (als deze instelling niet wordt toegepast) is dat het programma wordt opgenomen in Analytics **ALLEEN indien er ten minste één tijdsduur is** zelfs één met 0 dollar toegewezen.
+   >Het standaardgedrag (als dit plaatsen niet wordt toegepast) is het programma inbegrepen in Analytics **ALLEEN als er minstens één periodekosten** is, zelfs met nul toegewezen dollars.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

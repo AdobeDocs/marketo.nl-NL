@@ -4,42 +4,42 @@ description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Product
 title: Abonnementen synchroniseren met Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
 
-# Abonnementen synchroniseren met Salesforce {#syncing-unsubscribes-with-salesforce}
+# Abonnementen synchroniseren met [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
-## Vereisten voor Afmelden voor synchronisatie met Salesforce {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## Vereisten voor Unsubscribes to Sync aan [!DNL Salesforce] {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * Synchronisatie voor afmelden moet zijn ingeschakeld (voor nachtelijke synchronisatie)
-* Het veld Uitschakelen moet in Salesforce zijn geïnstalleerd
-* De persoonlijke records in Sales Connect moeten een Salesforce-id hebben
+* Het veld Uitschakelen moet zijn geïnstalleerd in [!DNL Salesforce]
+* Persoonsrecords in [!DNL Sales Connect] moeten een [!DNL Salesforce] ID hebben
 
-**Abonnement op push opzeggen**
+**duw Unsubscribes**
 
-Wanneer een abonnement wordt opgehaald in Sales Connect, wordt dit in real-time naar Salesforce verzonden en worden de velden voor Weigeren bijgewerkt waarmee u hebt geselecteerd voor synchronisatie. Als u de Salesforce-synchronisatie hebt uitgeschakeld, wordt het abonnement nog steeds doorgestuurd naar de e-mailoptie.
+Wanneer een abonnement wordt opgehaald in [!DNL Sales Connect] , wordt dit in realtime naar [!DNL Salesforce] verplaatst en worden de velden voor Weigeren bijgewerkt waarmee u hebt geselecteerd voor synchronisatie. Als u de synchronisatie van [!DNL Salesforce] hebt uitgeschakeld, wordt de e-mailmelding weer verzonden naar de e-mailoptie Weigeren.
 
-**Synchronisatie opzeggen**
+**Unsubscribe Synchronisatie**
 
-Wanneer u de synchronisatie voor afmelden hebt ingeschakeld (stap 3 hieronder), schakelt u de nachtelijke synchronisatie in. De synchronisatie vindt eenmaal per dag plaats rond 20:00 PST. Het zal bidirectioneel alle unsubscribes in de Verkoop van Marketo met het Opt gebied in Salesforce synchroniseren.
+Wanneer u de synchronisatie voor afmelden hebt ingeschakeld (stap 3 hieronder), schakelt u de nachtelijke synchronisatie in. De synchronisatie vindt eenmaal per dag plaats rond 08.00 uur PST. :00 Alle afmeldingsgegevens in Marketo Sales worden bidirectioneel gesynchroniseerd met het veld Opt Out in Salesforce.
 
-## Synchronisatie van abonnement op Salesforce configureren {#configure-unsubscribe-sync-to-salesforce}
+## Synchronisatie voor afmelden configureren naar [!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 
 Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren met het standaardveld Afmelden via e-mail dat Marketo ook kan synchroniseren met, of ze kunnen synchroniseren met het veld Afmelden bij Marketo zodat Afmelden bij verkoop en Afmelden bij marketing kunnen worden gedifferentieerd.
 
-1. Ga naar de [webtoepassing](https://toutapp.com/login), klikt u op het tandwielpictogram en selecteert u **Instellingen**.
+1. Ga naar de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 
-1. Onder beheerinstellingen selecteert u **Abonnementen opzeggen**.
+1. Onder [!UICONTROL Admin Settings] selecteert u **[!UICONTROL Unsubscribes]** .
 
    ![](assets/two-2.png)
 
-1. Klikken **Synchroniseren met Salesforce** Schakel vervolgens de nachtelijke synchronisatie in.
+1. Klik op **[!UICONTROL Syncing to Salesforce]** en schakel vervolgens de nachtelijke synchronisatie in.
 
    ![](assets/three-2.png)
 
@@ -49,20 +49,20 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
 
    | Veld | Beschrijving |
    |---|---|
-   | **Sync to Salesforce Opt Out field** | Hiermee wordt het veld Salesforce Opt Out standaard alleen bijgewerkt. |
-   | **Het veld Afmelden bij Marketo synchroniseren** | Als je afschriften van verkoop en marketing wilt scheiden, kies dan deze optie om extra [Het veld Marketo Sales Opt Out.](#msoo) |
+   | **[!UICONTROL Sync to Salesforce Opt Out field]** | Hiermee wordt het veld [!DNL Salesforce] Weigeren alleen bijgewerkt. Deze optie is standaard ingeschakeld. |
+   | **[!UICONTROL Sync to Marketo Sales Opt Out field]** | Als u verkoop en Marketing wilt scheiden unsubscribes, verkies deze optie om extra [ de Verkoop van Marketo uit gebied bij te werken.](#msoo) |
 
 ## Het veld Weigeren installeren in de paginalayout {#installing-the-opt-out-field-in-the-page-layout}
 
-**E-mail uitschakelen**
+**E-mail verlaat**
 
-Email Opt Out is een standaardveld in Salesforce dat beschikbaar is om te installeren vanaf Salesforce. U moet een Salesforce Admin zijn om het te installeren.
+E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren vanuit [!DNL Salesforce] . U moet een [!DNL Salesforce] Admin zijn om het te installeren.
 
-1. Ga naar [Salesforce.com](https://salesforce.com) en meld u aan.
+1. Ga naar [ Salesforce.com ](https://salesforce.com) en teken binnen.
 
    ![](assets/five-1.png)
 
-1. Klik op uw gebruikersnaam en selecteer **Instellen**.
+1. Klik op uw gebruikersnaam en selecteer **[!UICONTROL Setup]** .
 
    ![](assets/six-1.png)
 
@@ -70,28 +70,28 @@ Email Opt Out is een standaardveld in Salesforce dat beschikbaar is om te instal
 
    ![](assets/seven-1.png)
 
-1. Selecteren **Pagina-indelingen**.
+1. Selecteer **[!UICONTROL Page Layouts]** .
 
    ![](assets/eight-1.png)
 
-1. Selecteren **Bewerken** naast de pagina-indeling waaraan u het veld wilt toevoegen.
+1. Selecteer **[!UICONTROL Edit]** naast de pagina-indeling waaraan u het veld wilt toevoegen.
 
    ![](assets/nine.png)
 
-1. Selecteren **Velden**.
+1. Selecteer **[!UICONTROL Fields]** .
 
    ![](assets/ten.png)
 
-1. Sleep e-mail Opt-out naar de pagina-indeling.
+1. Sleep [!UICONTROL Email Opt Out] naar de pagina-indeling.
 
    ![](assets/11.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/twelve.png)
 
 ## Marketo-verkoop niet beschikbaar {#marketo-sales-opt-out}
 
-Het veld Marketo Sales Opt Out is een aangepast veld dat beschikbaar is voor gebruikers die Marketo Sales Connect Customizations hebben geïnstalleerd.
+Het veld Marketo Sales Opt Out is een aangepast veld dat beschikbaar is voor gebruikers die Marketo [!DNL Sales Connect] Customizations hebben geïnstalleerd.
 
-Zodra u de Marketo Sales Connect Customizations in Salesforce hebt geïnstalleerd, wordt het veld Marketo Sales Opt Out weergegeven dat voor u beschikbaar is.
+Zodra u de Marketo [!DNL Sales Connect] Customizations in [!DNL Salesforce] hebt geïnstalleerd, ziet u het veld Marketo Sales Opt Out dat voor u beschikbaar is.

@@ -4,9 +4,9 @@ description: Hoe de het Volgen van de Mening werkt - de Documenten van Marketo -
 title: Hoe het Volgen van de Mening werkt
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 We houden het openen van e-mailberichten bij door een onzichtbare afbeelding in de e-mails te plaatsen die u verzendt.
 
-Als iemand op uw e-mail reageert maar Sales Connect zegt dat deze niet is weergegeven, heeft de ontvanger geen afbeeldingen in zijn e-mailclient ingeschakeld (klik dus op het bericht &quot;Klik hier om afbeeldingen te downloaden&quot; in de e-mail).
+Als iemand op uw e-mail reageert maar [!DNL Sales Connect] zegt dat deze niet is weergegeven, heeft de ontvanger geen afbeeldingen in zijn e-mailclient ingeschakeld (klik dus op het bericht &quot;Klik hier om afbeeldingen te downloaden&quot; in de e-mail).
 
 Enkele tips voor het volgen van statistieken in je e-mails:
 
 * Neem een afbeelding op in uw e-mails (zoals een logo), zodat de ontvanger wordt aangeraden om afbeeldingen in staat te stellen uw bericht te bekijken.
 
-* Neem een koppeling op als een oproep tot actie in de e-mail.
+* Neem een koppeling als call to action op in de e-mail.

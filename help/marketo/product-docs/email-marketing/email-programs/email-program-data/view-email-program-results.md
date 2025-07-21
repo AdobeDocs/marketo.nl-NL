@@ -4,18 +4,18 @@ description: Resultaten van e-mailprogramma weergeven - Marketo Docs - Productdo
 title: Resultaten van e-mailprogramma weergeven
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Resultaten van e-mailprogramma weergeven {#view-email-program-results}
 
-Net als op het tabblad Resultaten in slimme campagnes kunt u dezelfde informatie in e-mailprogramma&#39;s zien.
+Net als het tabblad [!UICONTROL Results] in slimme campagnes kunt u dezelfde informatie in e-mailprogramma&#39;s bekijken.
 
-1. Ga naar **Marketingactiviteiten**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ Net als op het tabblad Resultaten in slimme campagnes kunt u dezelfde informatie
    >
    >Als het e-mailprogramma al is gestart, gaat u rechtstreeks naar het dashboard voor het e-mailprogramma.
 
-1. Onder **Weergave**, selecteert u **Deelvenster Beheer**.
+1. Selecteer onder **[!UICONTROL View]** de optie **[!UICONTROL Control Panel]** .
 
    ![](assets/controlpanelview.jpg)
 
-1. Onder de **Publiek** tegel, klikken **Resultaten weergeven**.
+1. Klik onder de **[!UICONTROL Audience]** -tegel op **[!UICONTROL View Results]** .
 
    ![](assets/audiencetile.jpg)
 

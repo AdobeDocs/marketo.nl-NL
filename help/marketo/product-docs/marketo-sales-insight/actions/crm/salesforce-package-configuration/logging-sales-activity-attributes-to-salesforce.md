@@ -1,35 +1,35 @@
 ---
-description: Logboekkenmerken van verkoopactiviteiten aan Salesforce - Marketo Docs - Productdocumentatie
+description: Logboekregistratie van kenmerken van verkoopactiviteiten aan Salesforce - Marketo-documenten - Productdocumentatie
 title: Kenmerken verkoopactiviteit registreren voor Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '225'
+ht-degree: 3%
 
 ---
 
-# Kenmerken verkoopactiviteit registreren voor Salesforce {#logging-sales-activity-attributes-to-salesforce}
+# Kenmerken verkoopactiviteit registreren voor [!DNL Salesforce] {#logging-sales-activity-attributes-to-salesforce}
 
-Salesforce-beheerder kan handmatig aangepaste activiteitsvelden toevoegen aan Salesforce.
+Salesforce-beheerders kunnen handmatig aangepaste activiteitsvelden toevoegen aan [!DNL Salesforce] .
 
-1. Klik in uw Salesforce-account op **Instellen**.
+1. Klik op [!DNL Salesforce] in uw **[!UICONTROL Setup]** -account.
 
 1. Zoek naar de &quot;Velden van de Douane van de Activiteit&quot;in het snelle onderzoeksgebied en klik op het.
 
-1. Klikken **Nieuw**.
+1. Klik op **[!UICONTROL New]**.
 
-1. Selecteer Gegevenstype dat overeenkomt met het veld dat u wilt toevoegen op basis van de onderstaande tabel en klik op **Volgende**.
+1. Selecteer Gegevenstype dat overeenkomt met het veld dat u wilt toevoegen op basis van de onderstaande tabel en klik op **[!UICONTROL Next]** .
 
 1. Voer de veldnaam en het label in die overeenkomen met het veld dat u wilt toevoegen.
 
 Beschrijving van elke kolom in de onderstaande tabel:
 
-* **Veldlabel**: Veldnaam weergegeven in de gebruikersinterface (deze naam kan worden aangepast om de leesbaarheid van het team te verbeteren)
-* **Veldnaam**: Technische naam van het veld (zorg dat de ingevoerde veldnaam overeenkomt met de veldnaam in de onderstaande tabel)
-* **API-naam**: Technische naam van veld voor API (zorg dat de ingevoerde API-naam overeenkomt met de API-naam in de onderstaande tabel)
-* **Gegevenstype**: Type veld
-* **Grootte**: Grootte van het tekstveld
+* **Etiket van het Gebied**: De naam van het Gebied die in UI wordt getoond (deze naam kan worden aangepast om leesbaarheid door uw team te verbeteren)
+* **Naam van het Gebied**: De technische naam van het gebied (zorg ervoor de Naam van het Gebied u ingaat past de Naam van het Gebied in de lijst hieronder aan)
+* **API Naam**: De technische naam van het gebied voor API (zorg ervoor API naam u ingaat past de API naam in de lijst hieronder aan)
+* **Type van Gegevens**: Type van gebied
+* **Grootte**: Grootte van het tekstgebied
 
 <table>
  <tr>
@@ -40,105 +40,105 @@ Beschrijving van elke kolom in de onderstaande tabel:
   <th>Grootte</th>
  </tr>
   <tr>
-  <td>Resultaten bellen</td>
+  <td>[!UICONTROL Call Outcomes]</td>
   <td>mktosales_call_result</td>
   <td>mktosales_call_result_c</td>
   <td>Tekst</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Redenen voor oproepen</td>
+  <td>[!UICONTROL Call Reasons]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason_c</td>
   <td>Tekst</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Lokale aanwezigheid-id van Marketo Sales Call</td>
+  <td>[!UICONTROL Marketo Sales Call Local Presence ID]</td>
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
   <td>Tekst</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Opname-URL Marketo-verkoopoproep</td>
+  <td>[!UICONTROL Marketo Sales Call Recording URL]</td>
   <td>MSE_Call_Recording</td>
   <td>MSE_Call_Recording_c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo-verkoopcampagne</td>
+  <td>[!UICONTROL Marketo Sales Campaign]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign_c</td>
   <td>Tekst</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Huidige stap Marketo-verkoopcampagne</td>
+  <td>[!UICONTROL Marketo Sales Campaign Current Step]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>Tekst</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo Sales Campaign URL</td>
+  <td>[!UICONTROL Marketo Sales Campaign URL]</td>
   <td>MSE_Campaign_Details_Link</td>
   <td>MSE_Campaign_Details_Link_c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Verkoop-e-mailbijlage weergegeven</td>
+  <td>[!UICONTROL Marketo Sales Email Attachment Viewed]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed_c</td>
   <td>Selectievakje</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales-e-mail geklikt</td>
+  <td>[!UICONTROL Marketo Sales Email Clicked]</td>
   <td>MSE_Clicked</td>
   <td>MSE_Clicked_c</td>
   <td>Selectievakje</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales-e-mail gereageerd</td>
+  <td>[!UICONTROL Marketo Sales Email Replied]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied_c</td>
   <td>Selectievakje</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Verkoop-e-mailstatus</td>
+  <td>[!UICONTROL Marketo Sales Email Status]</td>
   <td>MSE_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>Tekst</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales-e-mailsjabloon</td>
+  <td>[!UICONTROL Marketo Sales Email Template]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>Tekst</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>URL Marketo-verkoopsjabloon</td>
+  <td>[!UICONTROL Marketo Sales Email Template URL]</td>
   <td>MSE_Template_Details</td>
   <td>MSE_Template_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Verkoop-e-mailURL</td>
+  <td>[!UICONTROL Marketo Sales Email URL]</td>
   <td>MSE_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Verkoop-e-mail weergegeven</td>
+  <td>[!UICONTROL Marketo Sales Email Viewed]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed_c</td>
   <td>Selectievakje</td>
