@@ -103,7 +103,7 @@ Mobiele app is/is geopend
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U zult met uw ontwikkelaar aan opstelling het volgen [ voor Android ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [ voor iOS ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} moeten werken.
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U zult met uw ontwikkelaar aan opstelling het volgen [ voor Android ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [ voor iOS ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} moeten werken.
 
 * Heeft mobiele toepassingsactiviteit - trigger
 

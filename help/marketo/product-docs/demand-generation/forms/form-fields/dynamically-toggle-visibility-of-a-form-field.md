@@ -69,6 +69,6 @@ En dat is het! Wanneer mensen dit formulier nu invullen en Verenigde Staten voor
 
 >[!IMPORTANT]
 >
->Het gedrag van het gebied van de vorm zal foutloos werken wanneer de gebiedswaarden door douanescript gebruikend [ API functies ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0 worden geplaatst/worden bijgewerkt.
+>Het gedrag van het gebied van de vorm zal foutloos werken wanneer de gebiedswaarden door douanescript gebruikend [ API functies ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0 worden geplaatst/worden bijgewerkt.
 >
 >Voorwaardelijke velden werken mogelijk niet zoals verwacht als veldwaarden worden gewijzigd door andere externe scripts dan de Forms 2.0 JavaScript API.

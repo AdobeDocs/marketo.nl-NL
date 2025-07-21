@@ -100,7 +100,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
    >[!NOTE]
    >
-   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [ beschrijf API verzoek ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
+   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [ beschrijf API verzoek ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
 
 1. Wijs Achternaam en Bedrijfsnaam toe door nogmaals op **[!UICONTROL Add New Mapping]** te klikken en Stap 15 tweemaal te herhalen. Kies vervolgens **[!UICONTROL lastName]** en **[!UICONTROL companyName]** .
 

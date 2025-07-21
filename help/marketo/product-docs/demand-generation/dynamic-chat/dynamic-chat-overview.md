@@ -16,7 +16,7 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken voor zowel 
 
 >[!TIP]
 >
->Bezoek [ deze pagina ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} om zelfstudievideo&#39;s van Dynamic Chat te bekijken.
+>Bezoek [ deze pagina ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=nl-NL){target="_blank"} om zelfstudievideo&#39;s van Dynamic Chat te bekijken.
 
 ## Integraties {#integrations}
 
@@ -88,7 +88,7 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
 
 ## Limieten voor Dynamic Chat-gegevensbewaring {#dynamic-chat-data-retention-limits}
 
-Hieronder staan slechts enkele limieten/parameters in Dynamic Chat. Voor een volledige lijst, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te zien.
+Hieronder staan slechts enkele limieten/parameters in Dynamic Chat. Voor een volledige lijst, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te zien.
 
 <table>
   <th>Gegevenstype</th>

@@ -56,7 +56,7 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Om een dy
 
    >[!NOTE]
    >
-   >Het trekkergebied is slechts van toepassing voor die die [ e-mailscripting ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) gebruiken.
+   >Het trekkergebied is slechts van toepassing voor die die [ e-mailscripting ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting) gebruiken.
 
 ## Een voorbeeld-e-mail verzenden op basis van een segment {#send-a-sample-email-based-on-a-segment}
 

@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Alleen een API-gebruiker maken {#create-an-api-only-user}
 
-Als u met Marketo via [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} wilt integreren, zult u een slechts gebruiker API moeten creëren. Zo gaat het.
+Als u met Marketo via [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} wilt integreren, zult u een slechts gebruiker API moeten creëren. Zo gaat het.
 
 >[!IMPORTANT]
 >
