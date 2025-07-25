@@ -2,9 +2,10 @@
 description: Opmerkingen bij de release - mei 2025 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2025
 feature: Release Information
-source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
+source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -29,16 +30,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:65%">Functie</th> 
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
-  </tr>
-  <tr> 
-   <td><strong> E-mailInhoud Personalization </strong>: Marketo Engage volgt nu de zelfde camel gevalsyntaxis zoals de andere de toepassingstekenen van AEP zodat wordt een verenigbare ervaring verstrekt over de producten van Adobe DX. Alle standaardtokens en Marketo Engage-specifieke tokens zoals Lid, Programma en Mijn tokens zijn beschikbaar in de nieuwe e-mail-Designer.</td> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">Personalization Tokens</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong> Op rol-gebaseerde Controle van de Toegang voor E-mail Designer Assets </strong>: Een nieuwe verbetering aan het op rol-gebaseerde toegangsbeheersysteem (RBAC) verstrekt meer korrelige toestemmingen en beter gebruikersbeheer voor activa aangedreven door nieuwe E-mail Designer.</td> 
@@ -71,12 +62,12 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **de Offline Update van de Integratie van de Omzetting van Facebook Offline**: Op 29 mei, 2025, zal de [ Offline integratie van de Omzetting van Facebook ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} voor Marketo Engage worden gemigreerd aan nieuwe Meta [ Conversies API ](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, wegens Meta&#39;s afleiding van [ Offline Conversies API ](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in lijn met Grafiek API het versioning. Voor meer informatie, te bekijken gelieve de gids van Meta aan [ verzendend off-line gebeurtenissen via Conversies API ](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI voor Off line).
+* **de Offline Update van de Integratie van de Omzetting van Facebook Offline**: Op 29 mei, 2025, zal de [ Offline integratie van de Omzetting van Facebook ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} voor Marketo Engage worden gemigreerd aan nieuwe Meta [ Conversies API ](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, wegens Meta&#39;s afleiding van [ Offline Conversies API ](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in lijn met Grafiek API het versioning. Voor meer informatie, te bekijken gelieve de gids van Meta aan [ verzendend off-line gebeurtenissen via Conversies API ](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI voor Off line).
 
 * **Nieuwe Eigenschap van de Analyse - Openbare Beta**: [ Geavanceerde Analytics van BI ](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (vroeger genoemd als Ontdekkingsreiziger van de Opbrengst en Geavanceerde Report Builder) begon uit te rollen aan alle huidige gebruikers van de Ontdekkingsreiziger van de Ontdekkingsreiziger van de Opbrengst midden-April. Dit nieuwe hulpmiddel biedt een flexibele rapportage- en visualisatieinterface voor Marketo Engage-gegevens, die gedetailleerde informatie biedt over progressie, prestaties en meer. Deze server biedt een rijkere interactiviteit en visualisatie, snellere prestaties en een naadloze en intuïtievere gebruikerservaring.
 
 Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.

@@ -6,7 +6,9 @@ description: Meer informatie over het gebruik van personalisatietokens in de nie
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+hide: true
+hidefromtoc: true
+source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -23,7 +25,7 @@ De e-mailontwerper heeft een andere indeling dan de klassieke e-maileditor voor 
 
 ## Hoofd-/kleine letters {#primary-use-case}
 
-Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
+Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
 
 ## Tokenervaring {#token-experience}
 
