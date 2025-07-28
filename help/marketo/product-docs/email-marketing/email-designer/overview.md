@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde
 
 +++Leer hoe u toegang krijgt tot de e-mailontwerper
 
-Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
@@ -114,4 +114,4 @@ Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experience
 
 **Welke browsers kan ik met nieuwe E-mail Designer gebruiken?**
 
-Het wordt aanbevolen Google Chrome, Apple Safari of Microsoft Edge te gebruiken. Volledige ondersteuning voor Mozilla Firefox is binnenkort beschikbaar.
+Het wordt aanbevolen Google Chrome, Apple Safari, Microsoft Edge of Mozilla Firefox op dit moment te gebruiken.

@@ -3,9 +3,9 @@ description: Instellingen agent - Marketo Docs - Productdocumentatie
 title: Instellingen agent
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,9 @@ Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnen
 
 >[!IMPORTANT]
 >
->De [ beschikbaarheidsknevel ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal** met voeten treden wat u in het Levende lusje van de Beschikbaarheid van het Praatje ingaat. Dus als u zoals beschikbaar van 1p-5p gepland maar een snelle onderbreking bij 3p moet nemen, te hoeven u niet om uw agentenmontages te veranderen. De van de knevel van de beschikbaarheid status zal blijven tot u het manueel verandert, of tot het volgende tijdblok in uw beschikbaarheid wordt bereikt.
+>* De [ beschikbaarheidsknevel ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal** met voeten treden wat in de _Levende praatjebeschikbaarheid_ tabel is ingegaan. Dus als de agent zoals beschikbaar van 1p-5p gepland is maar een snelle onderbreking bij 3p moet nemen, te hoeven zij niet om hun agentenmontages te veranderen. De van de knevel van de beschikbaarheid status zal blijven tot het manueel is veranderd, tot het volgende blok van tijd in de beschikbaarheid van de agent wordt bereikt, of tot middernacht van de gespecificeerde tijdzone van de agent (zie het volgende kogel voor meer info).
+>
+>* Wanneer de agent de beschikbaarheidsknevel gebruikt om hun status in &quot;beschikbaar te veranderen,&quot;hun status stelt automatisch (schakelaars aan niet beschikbaar) bij middernacht van de tijdzone terug die in hun beschikbaarheidsprogramma wordt gespecificeerd. Als er geen tijdzone is opgegeven, wordt standaard UTC (Coordinated Universal Time) gebruikt.
 
 >[!TIP]
 >
@@ -98,7 +100,7 @@ Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnen
 
 ## Agent Profile Photo
 
-Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/nl/manage-account/using/edit-adobe-account-personal-profile.html) bij.
+Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html) bij.
 
 >[!NOTE]
 >
