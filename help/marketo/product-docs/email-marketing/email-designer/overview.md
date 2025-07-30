@@ -26,7 +26,7 @@ De e-mail Designer is de nieuwste innovatie in Marketo Engage die is bedoeld om 
 
 +++Meer informatie over toegang tot de e-mail-Designer
 
-Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
