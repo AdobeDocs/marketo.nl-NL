@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '860'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 
-De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mailsjablonen en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele drag-and-drop editor en standaardsjablonen voor &#39;out-of-the-box&#39; te bieden. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
+De e-mail Designer is de nieuwste innovatie in Marketo Engage die is bedoeld om een vernieuwde ervaring op het gebied van het maken van e-mail- en e-mailsjablonen te bieden om de productiviteit en efficiëntie te verbeteren door een visuele drag-and-drop editor en standaard out-of-the-box sjablonen te bieden. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ De e-mailontwerper is de nieuwste innovatie in Marketo Engage die een vernieuwde
 
 ## Toegang krijgen {#how-to-access}
 
-+++Leer hoe u toegang krijgt tot de e-mailontwerper
++++Meer informatie over toegang tot de e-mail-Designer
 
-Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
@@ -64,13 +64,15 @@ Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonn
 
 * [ het Emailteruggeven van de Test met Litmus ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Hefboomwerking uw rekening van de Leiding in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
 
+* [ Spam Detection met SpamAssassin ](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: Gebruikend SpamAssassin in Marketo Engage, kunt u uw e-mailinhoud testen en de waarschijnlijkheid zien van ISPs/de leveranciers van de Brievenbus die het als spam merken.
+
 * [ de vergelijking van de Eigenschap ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Vergelijk de beschikbaarheid van eigenschappen in de vorige e-mailredacteur (E-mailRedacteur 2.0) en nieuwe E-mailDesigner.
 
 ## Veelgestelde vragen {#faq}
 
 **zal de oude e-mailredacteur blijven functioneren? Zo ja, voor hoe lang?**
 
-Ja, de oude (klassieke) e-maileditor zal naast de nieuwe e-mailontwerper bestaan. E-mails die in de klassieke editor zijn gemaakt, blijven behouden. Er is geen datum waarop de klassieke redacteur op dit ogenblik zal worden afgekeurd, maar het zal door 2025 blijven functioneren.
+Ja, de oude (klassieke) e-maileditor bestaat samen met de nieuwe e-mailtoepassing Designer. E-mails die in de klassieke editor zijn gemaakt, blijven behouden. Er is geen datum waarop de klassieke redacteur op dit ogenblik zal worden afgekeurd, maar het zal door 2025 blijven functioneren.
 
 **Welke programma&#39;s kan ik de Nieuwe E-mailDesigner e-mail in gebruiken?**
 
@@ -82,11 +84,11 @@ Er kan niet worden verwezen naar e-mailsjablonen van de klassieke editor in de n
 
 **Kan ik nieuwe designer activa aan een verschillend programma gemakkelijk bewegen?**
 
-Op dit moment niet. Maar die functionaliteit komt binnenkort.
+Ja!
 
-**Kan activa via API in de nieuwe e-mailontwerper worden uitgegeven?**
+**kunnen de activa via API in nieuwe E-mail Designer worden uitgegeven?**
 
-Assets die wordt bewerkt via de API wordt momenteel niet ondersteund in de nieuwe e-mailontwerper.
+Assets die wordt bewerkt via de API wordt momenteel niet ondersteund in de nieuwe e-mail-Designer.
 
 **is er een manier om branding (doopvonten, logo&#39;s, en kleuren) af te dwingen?**
 
@@ -100,7 +102,7 @@ Ja, absoluut, beter aanpasbaar met onze WYSIWYG-editor (what-you-see-is-what-you
 
 Het is WYSIWYG; HTML-kennis is niet nodig. U kunt gemakkelijk malplaatjes in de ontwerper tot stand brengen, die de behoefte aan externe Webontwikkelaars verminderen. U kunt echter nog steeds CSS bijwerken en afzonderlijke secties bewerken via HTML. We werken ook aan een manier om sjablonen eenvoudig te migreren van de klassieke editor naar de nieuwe ontwerper.
 
-**steunt de nieuwe e-mailontwerper de taal van AMP?**
+**steunt de nieuwe e-mail Designer de taal van AMP?**
 
 Op dit moment is AMP niet ondersteund.
 

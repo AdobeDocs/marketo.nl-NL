@@ -1,21 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Spam Assassin
+title: E-mailspamrapport
 description: Leer hoe u SpamAssassin kunt gebruiken om uw e-mailinhoud te testen en de kans te zien dat deze als spam wordt gemarkeerd.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Spam Assassin {#spam-assassin}
+# E-mailspamrapport {#email-spam-report}
 
 Gebruikend SpamAssassin in Marketo Engage, kunt u uw e-mailinhoud testen en de waarschijnlijkheid zien van ISPs/de leveranciers van de Brievenbus die het als spam merken.
 
@@ -23,24 +21,36 @@ SpamAssassin analyseert uw inhoud en wijst een score toe die op diverse criteria
 
 ## Heb toegang tot het Spam- rapport {#access-the-spam-report}
 
-1. Van het Simuleren scherm, klik het **Spam- rapport** knoop.
+1. In uw e-mail, klik **Simuleer Inhoud**.
 
-SCREENSHOT
+   ![](assets/email-spam-report-1.png){width="600" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Als u nog geen testprofiel hebt toegevoegd, moet u dat meteen na Stap 1 doen.
+
+1. Klik het **Spam- rapport** knoop.
+
+   ![](assets/email-spam-report-2.png)
 
 1. Er wordt een spamrapport gegenereerd.
 
-SCREENSHOT
+   ![](assets/email-spam-report-3.png){width="600" zoomable="yes"}
 
 1. Controleer de scores en beschrijvingen voor elk item.
 
->[!IMPORTANT]
->
->Als de totale score hoger is dan 5, kan je e-mail worden geblokkeerd of gemarkeerd als spam bij levering.
+   >[!IMPORTANT]
+   >
+   >Als de totale score hoger is dan 5, kan je e-mail worden geblokkeerd of gemarkeerd als spam bij levering.
 
-1. Als u de score te hoog vindt, bewerkt u de inhoud in de e-mail-Designer en voert u het Spam-rapport opnieuw uit totdat de score naar wens is.
+1. Als u de score als te hoog beschouwt, geef uw inhoud in E-mail Designer uit op de bevindingen van het rapport en stel dan het **Spam- rapport** opnieuw in werking.
 
-SCREENSHOT
+   ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
+
+Wanneer de score naar je smaak is, kan deze worden verzonden.
+
+![](assets/email-spam-report-5.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
->Spam score wordt afgeleid via SpamAssassin, en de regels zijn niet het eigendom van Adobe. Meer details over deze regels kunnen in de [ documentatie SpamAssassin ](https://spamassassin.apache.org/#_blank) worden gevonden. Een volledige lijst van fouten [ kan hier ](https://spamassassin.apache.org/old/tests_3_0_x.html?utm_source=chatgpt.com) worden gezien.
+>Spam score wordt afgeleid via SpamAssassin, en de regels zijn niet het eigendom van Adobe. Meer details over deze regels kunnen in de [ documentatie SpamAssassin ](https://spamassassin.apache.org/#_blank){target="_blank"} worden gevonden. Een volledige lijst van fouten [ kan hier ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"} worden gezien.
