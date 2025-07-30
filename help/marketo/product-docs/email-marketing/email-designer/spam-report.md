@@ -6,7 +6,7 @@ description: Leer hoe u SpamAssassin kunt gebruiken om uw e-mailinhoud te testen
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
+source-git-commit: 67674c3e1ce7614d7f7c533b0074e2fbc8edfa28
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -43,7 +43,7 @@ SpamAssassin analyseert uw inhoud en wijst een score toe die op diverse criteria
    >
    >Als de totale score hoger is dan 5, kan uw e-mail door de ontvanger worden geblokkeerd, of als spam bij levering worden gemerkt.
 
-1. Als u de score als te hoog beschouwt, geef uw inhoud in E-mail Designer uit op de bevindingen van het rapport en stel dan het **Spam- rapport** opnieuw in werking.
+1. Als u de score als te hoog beschouwt, geef uw inhoud in E-mail Designer uit die op de bevindingen van het rapport wordt gebaseerd en stel dan het **Spam- rapport** opnieuw in werking.
 
    ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
 
