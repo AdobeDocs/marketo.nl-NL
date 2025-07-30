@@ -6,9 +6,9 @@ description: Leer hoe u SpamAssassin kunt gebruiken om uw e-mailinhoud te testen
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Gebruikend SpamAssassin in Marketo Engage, kunt u uw e-mailinhoud testen en de w
 
 SpamAssassin analyseert uw inhoud en wijst een score toe die op diverse criteria wordt gebaseerd. Hoe lager de score, hoe beter. Het is belangrijk om een lage score te behouden, omdat het verzenden van e-mails met een hoge score een negatief effect kan hebben op de algehele prestaties.
 
-## Heb toegang tot het Spam- rapport {#access-the-spam-report}
+## Heb toegang tot het spamrapport {#access-the-spam-report}
 
 1. In uw e-mail, klik **Simuleer Inhoud**.
 
@@ -41,7 +41,7 @@ SpamAssassin analyseert uw inhoud en wijst een score toe die op diverse criteria
 
    >[!IMPORTANT]
    >
-   >Als de totale score hoger is dan 5, kan je e-mail worden geblokkeerd of gemarkeerd als spam bij levering.
+   >Als de totale score hoger is dan 5, kan uw e-mail door de ontvanger worden geblokkeerd, of als spam bij levering worden gemerkt.
 
 1. Als u de score als te hoog beschouwt, geef uw inhoud in E-mail Designer uit op de bevindingen van het rapport en stel dan het **Spam- rapport** opnieuw in werking.
 
@@ -53,4 +53,4 @@ Wanneer de score naar je smaak is, kan deze worden verzonden.
 
 >[!NOTE]
 >
->Spam score wordt afgeleid via SpamAssassin, en de regels zijn niet het eigendom van Adobe. Meer details over deze regels kunnen in de [ documentatie SpamAssassin ](https://spamassassin.apache.org/#_blank){target="_blank"} worden gevonden. Een volledige lijst van fouten [ kan hier ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"} worden gezien.
+>De score van spam wordt afgeleid via SpamAssassin, en **de regels zijn niet bezeten door Adobe**. Meer details over deze regels kunnen in de [ documentatie SpamAssassin ](https://spamassassin.apache.org/#_blank){target="_blank"} worden gevonden. Een volledige lijst van fouten [ kan hier ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"} worden gezien.
