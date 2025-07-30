@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: be29cfb700afad9f3298c8ccd4808780a88712a0
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: '714'
 ht-degree: 1%
 
 ---
@@ -35,6 +35,16 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><strong> E-mail Designer - Eigen CSS </strong>: Wanneer het ontwerpen van e-mails, kunt u uw eigen douaneCSS direct binnen E-mailDesigner nu toevoegen.</td> 
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">Aangepaste CSS toevoegen aan uw e-mailinhoud</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> E-mail Designer - ontdek Spam met SpamAssassin </strong>: Gebruikend SpamAssassin in Marketo Engage, kunt u uw e-mailinhoud testen en de waarschijnlijkheid zien van ISPs/de leveranciers van de Brievenbus die het als spam merken.</td> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">Aangepaste CSS toevoegen aan uw e-mailinhoud</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -142,7 +152,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> Munchkin Cookies en ECIDs zijn Viewable </strong>: U kunt een lijst van de koekjes van Munchkin en (Identiteit Experience Cloud) aantallen ECID in het _Info_ lusje van de Pagina van Details van a <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> nu zien Person </a>, die de afhankelijkheid van API vraag verminderen om die informatie te verkrijgen.</td>
+   <td><strong> Munchkin Cookies en ECIDs zijn Viewable </strong>: U kunt een lijst van de koekjes van Munchkin en (Identiteit Experience Cloud) aantallen ECID in het _Info_ lusje van de Pagina van Details van a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> nu zien Person </a>, die de afhankelijkheid van API vraag verminderen om die informatie te verkrijgen.</td>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
@@ -152,12 +162,12 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **Eind van het Leven van de Identiteit van Marketo Engage**: In Augustus 2025, zal Adobe beginnen phasing out steun voor de Identiteit van Marketo Engage (het programma openen via `login.marketo.com`). Om onderbroken toegang tot Marketo Engage te verhinderen, moet u overgang aan [ Identiteit van Adobe ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} uiterlijk 30 September, 2025.
+* **Eind van het Leven van de Identiteit van Marketo Engage**: In Augustus 2025, zal Adobe beginnen phasing out steun voor de Identiteit van Marketo Engage (het programma openen via `login.marketo.com`). Om onderbroken toegang tot Marketo Engage te verhinderen, moet u overgang aan [ Identiteit van Adobe ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} uiterlijk 30 September, 2025.
 
-   * _IP de Afschrijving van Beperkingen_: Steun voor [ Beperkende Marketo Logins die op IP ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} worden gebaseerd zal op 30 Juli, 2025 beëindigen. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Een nieuwe op locatie-gebaseerde toegangsbeheerfunctie voor Adobe Identity in Adobe Admin Console is bedoeld voor de release van augustus 2025.
+   * _IP de Afschrijving van Beperkingen_: Steun voor [ Beperkende Marketo Logins die op IP ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} worden gebaseerd zal op 30 Juli, 2025 beëindigen. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Een nieuwe op locatie-gebaseerde toegangsbeheerfunctie voor Adobe Identity in Adobe Admin Console is bedoeld voor de release van augustus 2025.
 
-   * _Enige Sign-On (SSO) Verdringing_: Steun voor [ Identiteit SSO van Marketo ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} zal op 30 Juli, 2025 eindigen. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet afzonderlijk worden geconfigureerd. Voor opstellingsstappen, zie [ de identiteit van de Opstelling en Enige Sign-On ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Enige Sign-On (SSO) Verdringing_: Steun voor [ Identiteit SSO van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} zal op 30 Juli, 2025 eindigen. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet afzonderlijk worden geconfigureerd. Voor opstellingsstappen, zie [ de identiteit van de Opstelling en Enige Sign-On ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
