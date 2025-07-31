@@ -3,9 +3,9 @@ description: E-mailverbindingsmogelijkheden - Marketo Docs - Productdocumentatie
 title: Throtting van e-mailverbinding
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 Door uw [!DNL Sales Connect] -account te integreren om via [!DNL Exchange] of Gmail-providers te verzenden, biedt u een gestroomlijnde installatie en optimaliseert u de e-mailleverbaarheid voor 1 :1 -verkoopcommunicatie. Om systemen echter gezond te houden en accounts veilig te houden, moet u door Gmail en [!DNL Exchange] beperkingen voor het verzenden van e-mail afdwingen. Deze limieten kunnen naar eigen goeddunken worden verhoogd of verlaagd.
 
-## Verbindingsthrottling via e-mail (Beta) {#email-connection-throttling-beta}
+## Overzicht {#overview}
 
 Met e-mailverbindingsthrottling kunnen beheerders van Sales Connect de verzendsnelheid van e-mailberichten configureren wanneer ze Gmail of Exchange als leveringskanaal gebruiken, zodat de snelheid waarmee e-mails worden doorgegeven aan de leverancier van het leveringskanaal de afgedwongen limieten niet overschrijdt.
 
 Wanneer de limieten consequent worden overschreden, kan dit soms worden beschouwd als verdacht gedrag van de leverancier van het leveringskanaal, waardoor e-mails mislukken en soms zelfs een account wordt uitgeschakeld.
 
-**Nota&#39;s/Hoogtepunten**
+## Notities {#things-to-note}
 
 * Automatisch ingeschakeld wanneer een gebruiker verbinding maakt met Gmail of [!DNL Exchange]
 * Kan worden aangepast als u de instellingen wilt verhogen of verlagen ten opzichte van de aanbevelingen
 * Vertraagt alleen e-mailberichten die via Gmail of [!DNL Exchange] worden verzonden, niet voor een aangepast leveringskanaal
 * De vertraging bij het verzenden van de e-mailverbinding zorgt ervoor dat elke afzonderlijke gebruiker een e-mail ontvangt omdat elke gebruiker een eigen verbinding heeft met zijn e-mailprovider
 
-**het Vormen van uw Verdraaide Montages van de Verbinding E-mail**
+## Instellingen voor rotatie van de e-mailverbinding configureren {#configuring}
 
 1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Settings]** .
 
@@ -57,7 +57,7 @@ Als de wijzigingen zijn opgeslagen, worden de e-mails van alle gebruikers batchg
 
 ## Limieten voor e-mailproviders {#email-provider-limits}
 
-**[!DNL Outlook 365]**
+### [!DNL Outlook 365] {#outlook}
 
 Zakelijk/Enterprise
 
@@ -67,7 +67,7 @@ Zakelijk/Enterprise
 
 Meer informatie [ kan hier ](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits) worden gevonden.
 
-**Gmail**
+### Gmail {#gmail}
 
 * 2000 per dag (500 voor proefaccounts en accounts met vlag)
 * 2 e-mails per seconde (API-limiet)
@@ -75,7 +75,7 @@ Meer informatie [ kan hier ](https://docs.microsoft.com/en-us/office365/serviced
 
 Meer informatie [ kan hier ](https://support.google.com/a/answer/166852?hl=en) worden gevonden.
 
-**[!DNL Microsoft Exchange Server (2010, 2013)]**
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
 De grenzen worden geplaatst door de afdeling van IT van de organisatie aangezien de server door de organisatie wordt ontvangen. Neem contact op met de netwerk- of systeembeheerder voor aanvullende informatie.
 
