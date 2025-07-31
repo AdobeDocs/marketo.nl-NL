@@ -3,7 +3,7 @@ description: Reactiebibliotheek - Marketo Docs - Productdocumentatie
 title: Responsbibliotheek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -16,11 +16,11 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
 ## Handmatig een vraag toevoegen {#manually-add-a-question}
 
-1. Klik onder Generative AI op **[!UICONTROL Assisted responses]**.
+1. Klik onder Generatieve AI op **[!UICONTROL Assisted responses]** .
 
    ![](assets/response-library-1.png)
 
-1. Klik op de knop **[!UICONTROL Response library]** tab.
+1. Klik op de tab **[!UICONTROL Response library]** .
 
    ![](assets/response-library-2.png)
 
@@ -28,11 +28,11 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
    ![](assets/response-library-3.png)
 
-1. Voer uw vraag en antwoord in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klikken **[!UICONTROL Save]** wanneer gereed.
+1. Voer uw vraag en antwoord in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/response-library-4.png)
 
-1. Klik op Vernieuwen en uw nieuwe vraag wordt bovenaan weergegeven met de status &quot;[!UICONTROL Processing].&quot;
+1. Klik verfrissen en uw nieuwe vraag verschijnt bij de bovenkant met de status van &quot;[!UICONTROL Processing].&quot;
 
    ![](assets/response-library-5.png)
 
@@ -44,19 +44,19 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
 >[!NOTE]
 >
->Alle gegenereerde vragen en antwoorden krijgen de opdracht &quot;[!UICONTROL need review]&quot; status door gebrek. Alleen &quot;[!UICONTROL approved]&quot; vragen en antwoorden zijn beschikbaar voor chatbezoekers .
+>Alle gegenereerde vragen en antwoorden krijgen standaard de status &quot;[!UICONTROL need review]&quot; toegewezen. Alleen &quot;[!UICONTROL approved]&quot;-vragen en -antwoorden worden beschikbaar gesteld voor chatbezoekers.
 
-1. In de **[!UICONTROL Response library]** klikt u op de gewenste vraag.
+1. Klik in **[!UICONTROL Response library]** op de gewenste vraag.
 
    ![](assets/response-library-7.png)
 
-1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]**.
+1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]** .
 
    ![](assets/response-library-8.png)
 
 ## Vragen/antwoorden bulksgewijs bewerken en uploaden {#bulk-edit-and-upload-questions-responses}
 
-Hieronder vindt u instructies voor het aanbrengen van bulkbewerkingen in het gedownloade Excel-bestand. Ze kunnen ook worden weergegeven op het tabblad Taakdetails van het bestand.
+De instructies op hoe te om bulkuitgeeft in het [ gedownloade dossier van Excel ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} te maken zijn hieronder. Ze kunnen ook worden weergegeven op het tabblad Taakdetails van het bestand.
 
 <table>
 <thead>
@@ -85,11 +85,11 @@ Hieronder vindt u instructies voor het aanbrengen van bulkbewerkingen in het ged
 </tbody>
 </table>
 
-1. Nadat u klaar bent met het aanbrengen van de bewerkingen in uw bestand, gaat u terug naar de **[!UICONTROL Response library]** en klik op **[!UICONTROL Upload responses]**.
+1. Nadat u alle gewenste wijzigingen in het bestand hebt aangebracht, gaat u terug naar het tabblad **[!UICONTROL Response library]** en klikt u op **[!UICONTROL Upload responses]** .
 
    ![](assets/response-library-9.png)
 
-1. Voer de toepasselijke taaknaam in. Sleep het bestand en zet het neer of blader er naar op het apparaat en selecteer het. Klikken **[!UICONTROL Save]** wanneer gereed.
+1. Voer de toepasselijke taaknaam in. Sleep het bestand en zet het neer of blader er naar op het apparaat en selecteer het. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/response-library-10.png)
 
