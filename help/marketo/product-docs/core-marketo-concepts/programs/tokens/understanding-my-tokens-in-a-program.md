@@ -4,9 +4,9 @@ description: Mijn tokens in een programma begrijpen - Marketo Docs - Productdocu
 title: Mijn tokens in een programma begrijpen
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Voorbeelden:
   </tr> 
   <tr> 
    <td>E-mailscript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td> 
+   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td> 
   </tr> 
   <tr> 
    <td>Number <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ Wanneer u een nieuw token maakt, kan hiernaar worden verwezen door andere object
 U kunt globale variabelen maken en dan hen met voeten treden op lagere niveaus in de boom.
 
 Het verplaatsen van programma&#39;s en omslagen beïnvloedt ook tokens. Controleer altijd of verwijzingen niet worden verbroken tijdens het verplaatsen.
+
+>[!IMPORTANT]
+>
+>Geneste tokens worden niet gesteund in [ Campagnes van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
