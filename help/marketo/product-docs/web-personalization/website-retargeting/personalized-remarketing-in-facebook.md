@@ -18,7 +18,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 >[!PREREQUISITES]
 >
 >* Voltooi [ opnieuw het richten met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
->* Herzie de [ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
+>* Herzie de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
 
 ## Een publiek maken in [!DNL Facebook] {#creating-an-audience-in-facebook}
 

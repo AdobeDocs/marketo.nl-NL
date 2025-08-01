@@ -21,7 +21,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
 
 >[!NOTE]
 >
->{de toestemmingen van 0} Admin worden vereist.****
+>{de toestemmingen van 0} Admin worden vereist.**&#x200B;**
 
 ## Sales Insight in Marketo Engage configureren {#configure-sales-insight-in-marketo}
 
@@ -41,7 +41,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
    >
    >De geheime sleutel van uw API is als een wachtwoord voor uw organisatie en zou veilig moeten zijn.
 
-1. Klik op **[!UICONTROL View]** in het deelvenster _[!UICONTROL Rest API Configuration]_om de referenties te vullen.
+1. Klik op **[!UICONTROL View]** in het deelvenster _[!UICONTROL Rest API Configuration]_&#x200B;om de referenties te vullen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
@@ -67,7 +67,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoSoapAPI` ). Voer de URL van de externe site in. Dit is de URL van de Marketo-host in het deelvenster _[!UICONTROL Soap API Configuration]_in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de Soap API gemaakt.
+1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoSoapAPI` ). Voer de URL van de externe site in. Dit is de URL van de Marketo-host in het deelvenster _[!UICONTROL Soap API Configuration]_&#x200B;in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de Soap API gemaakt.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +75,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoAPI` ). Voer de URL van de externe site in. Dit is de API-URL vanuit het deelvenster _[!UICONTROL Rest API Configuration]_in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
+1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoAPI` ). Voer de URL van de externe site in. Dit is de API-URL vanuit het deelvenster _[!UICONTROL Rest API Configuration]_&#x200B;in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
 
    >[!NOTE]
    >
@@ -91,7 +91,7 @@ Vanwege beveiligingsverbeteringen in Salesforce kunnen AppExchange-pakketten gee
 
 1. Klik op **[!UICONTROL Edit]** naast het profiel dat uw Salesforce-gebruikers gebruiken.
 
-1. Schakel onder de sectie _[!UICONTROL Standard Object Permission]_**[!UICONTROL Read]**toegang in voor de volgende objecten: [!UICONTROL Lead] , [!UICONTROL Contact] , [!UICONTROL Account] en [!UICONTROL Opportunity] .
+1. Schakel onder de sectie _[!UICONTROL Standard Object Permission]_&#x200B;**[!UICONTROL Read]**&#x200B;toegang in voor de volgende objecten: [!UICONTROL Lead] , [!UICONTROL Contact] , [!UICONTROL Account] en [!UICONTROL Opportunity] .
 
 1. Klik op **[!UICONTROL Save]**.
 

@@ -23,7 +23,7 @@ Configureer Marketo Sales Insight in Salesforce Professional Edition door de vol
 
 >[!NOTE]
 >
->{de toestemmingen van 0} Admin worden vereist.****
+>{de toestemmingen van 0} Admin worden vereist.**&#x200B;**
 
 ## Sales Insight in Marketo Engage configureren {#configure-sales-insight-in-marketo}
 
@@ -45,7 +45,7 @@ Configureer Marketo Sales Insight in Salesforce Professional Edition door de vol
    >
    >De geheime sleutel van uw API is als een wachtwoord voor uw organisatie en zou veilig moeten zijn.
 
-1. Klik op **[!UICONTROL View]** in het deelvenster _[!UICONTROL Rest API Configuration]_om de referenties te vullen.
+1. Klik op **[!UICONTROL View]** in het deelvenster _[!UICONTROL Rest API Configuration]_&#x200B;om de referenties te vullen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4-1.png)
 

@@ -86,7 +86,7 @@ De aanvullende inhoudanalyse omvat:
 
 * **[!UICONTROL Views]**: weergaven van dat inhoudsonderdeel voor het geselecteerde tijdbereik
 * **[!UICONTROL Direct Conversions]**: Webbezoekers die de inhoud hebben bekeken en een formulier tijdens hetzelfde bezoek hebben ingevuld.
-* **[!UICONTROL Conversion Rate]****:** Een door directe conversies berekende procentuele conversiekoers gedeeld door klikken
+* **[!UICONTROL Conversion Rate]**&#x200B;**:** Een door directe conversies berekende procentuele conversiekoers gedeeld door klikken
 
 **[!UICONTROL Trends]**
 

@@ -104,7 +104,7 @@ De ronde reserve van Robin wordt slechts overwogen wanneer geen in aanmerking ko
 
 <p>
 
-_**Verpletterende Rekening**_
+_&#x200B;**Verpletterende Rekening**&#x200B;_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _**Verpletterende Rekening**_
   </tr>
 </tbody></table>
 
-_**Douane Verpletterend**_
+_&#x200B;**Douane Verpletterend**&#x200B;_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _**Douane Verpletterend**_
   </tr>
 </tbody></table>
 
-_**Team dat**_ verplettert
+_&#x200B;**Team dat**&#x200B;_ verplettert
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _**Team dat**_ verplettert
   </tr>
 </tbody></table>
 
-_**Rond Robin die**_ verplettert
+_&#x200B;**Rond Robin die**&#x200B;_ verplettert
 
 <table><thead>
   <tr>

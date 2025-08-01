@@ -33,7 +33,7 @@ Creeer het rapport van de Activiteit van de Pagina van het a [ Web ](/help/marke
 
    >[!TIP]
    >
-   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _[!UICONTROL Page Views]_kolom en kies **[!UICONTROL Sort Descending]**.
+   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _[!UICONTROL Page Views]_&#x200B;kolom en kies **[!UICONTROL Sort Descending]**.
 
    [ Kolommen die u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van het Web van het Bedrijf kunt selecteren omvatten:
 

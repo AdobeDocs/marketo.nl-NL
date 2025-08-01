@@ -104,4 +104,4 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo Engage Salesforce Activit
 
 >[!TIP]
 >
->Als u in het krijgen van meer informatie van Marketo in Salesforce geinteresseerd bent, controleer ons [ product van de Verkoop Insight van 0} Marketo.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>Als u in het krijgen van meer informatie van Marketo in Salesforce geinteresseerd bent, controleer ons [ product van de Verkoop Insight van 0&rbrace; Marketo.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

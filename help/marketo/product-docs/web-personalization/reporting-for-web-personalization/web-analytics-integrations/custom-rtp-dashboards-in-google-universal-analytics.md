@@ -218,7 +218,7 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
      <li>Naam: <strong> CRE - Hoogste Geadviseerde Inhoud </strong></li>
      <li>Type: <strong><span class="uicontrol"> Lijst </span></strong><br></li>
      <li><span class="uicontrol"> Vertoning de volgende kolommen </span>: <br><strong> <span class="uicontrol"> Titel van de Pagina </span> | <span class="uicontrol"> Paageviews </span> </strong><br></li>
-     <li>Filters:<br> Filter: <strong> [<span class="uicontrol"> toont </span> <span class="uicontrol"> slechts Pagina </span> (<span class="uicontrol"> die </span> bevat): rcmd </strong></li>
+     <li>Filters:<br> Filter: <strong> &lbrack;<span class="uicontrol"> toont </span> <span class="uicontrol"> slechts Pagina </span> (<span class="uicontrol"> die </span> bevat): rcmd </strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
   </tr>
   <tr>
@@ -248,7 +248,7 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
      <li>Naam: <strong> Impressies door CTA </strong></li>
      <li>Type: <strong><span class="uicontrol"> Lijst </span></strong></li>
      <li><span class="uicontrol"> Vertoning de volgende kolommen </span>: <strong> <span class="uicontrol"> Etiket van de Gebeurtenis </span> | <span class="uicontrol"> Totale Gebeurtenissen </span> | <span class="uicontrol"> Gebruikers </span> </strong></li>
-     <li>Filters:<br><strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassing </span>): RTP-Campagnes </strong><br> <strong> [<span class="uicontrol"> toont slechts </span>] <span class="uicontrol"> Actie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassend </span>): impositie </strong> <strong> 17} toont niet <span class="uicontrol"> </span> Etiket van de Gebeurtenis <span class="uicontrol"> (</span> die <span class="uicontrol"> bevatten): #</span></strong></li>
+     <li>Filters:<br><strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassing </span>): RTP-Campagnes </strong><br> <strong> [<span class="uicontrol"> toont slechts </span>] <span class="uicontrol"> Actie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassend </span>): impositie </strong> <strong> 17&rbrace; toont niet <span class="uicontrol"> </span> Etiket van de Gebeurtenis <span class="uicontrol"> (</span> die <span class="uicontrol"> bevatten): #</span></strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>

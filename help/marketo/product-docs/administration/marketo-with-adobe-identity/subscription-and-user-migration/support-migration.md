@@ -20,7 +20,7 @@ De eerste update impliceert de introductie van nieuwe [ Adobe Admin Console ](ht
 
 ## Update en migratie van Marketo Engage Support Portal {#marketo-engage-support-portal}
 
-De tweede update verbetert aanzienlijk de manier waarop u ondersteuningstickets verzendt. Eerder, gebruikte u het [ portaal van de Natie van de 0} Marketing om de verzoeken van de Steun voor te leggen. ](https://nation.marketo.com/){target="_blank"} Dit proces wordt verder gestroomlijnd door alle verzendingen voor ondersteuningstickets door te sturen naar de Adobe Experience League. De Marketing Nation blijft voorlopig thuis in de Marketo Engage/Meetlat-gemeenschap. In de nabije toekomst zullen we deze bronnen ook overbrengen naar de Adobe Experience League.
+De tweede update verbetert aanzienlijk de manier waarop u ondersteuningstickets verzendt. Eerder, gebruikte u het [ portaal van de Natie van de 0&rbrace; Marketing om de verzoeken van de Steun voor te leggen. ](https://nation.marketo.com/){target="_blank"} Dit proces wordt verder gestroomlijnd door alle verzendingen voor ondersteuningstickets door te sturen naar de Adobe Experience League. De Marketing Nation blijft voorlopig thuis in de Marketo Engage/Meetlat-gemeenschap. In de nabije toekomst zullen we deze bronnen ook overbrengen naar de Adobe Experience League.
 
 ## Wat verandert er? {#whats-changing}
 
@@ -32,7 +32,7 @@ De tweede update verbetert aanzienlijk de manier waarop u ondersteuningstickets 
 >
 >Geautoriseerde contactpersonen zijn productondersteuningsbeheerders in Adobe.
 
-* **Gewoonlijke Migratie** - de Open gevallen zullen in de Liga van de Ervaring van Adobe zichtbaar zijn en alle eerder gesloten gevallen zullen worden gearchiveerd. Deze migratie zal **** niet het de dienstniveau van uw open geval(en) beïnvloeden.
+* **Gewoonlijke Migratie** - de Open gevallen zullen in de Liga van de Ervaring van Adobe zichtbaar zijn en alle eerder gesloten gevallen zullen worden gearchiveerd. Deze migratie zal **&#x200B;**&#x200B;niet het de dienstniveau van uw open geval(en) beïnvloeden.
 
 ## Hoe weet ik wanneer de migratie van de Steun is voltooid? {#support-migration-has-been-completed}
 

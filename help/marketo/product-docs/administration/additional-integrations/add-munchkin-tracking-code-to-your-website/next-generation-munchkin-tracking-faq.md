@@ -46,8 +46,8 @@ Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of
 >[!NOTE]
 >
 >**Trekker**: Bezoekt Web-pagina, de Pagina van het Web Prijsingspagina
->>**Stroom**: Score +10 en Interessant moment wijzigen
->>**Web**: Bekeken Prijspagina
+>&#x200B;>**Stroom**: Score +10 en Interessant moment wijzigen
+>&#x200B;>**Web**: Bekeken Prijspagina
 >
 >Met [!DNL Munchkin] V2 voert een anonieme persoon die de prijspagina bezoekt, niet onmiddellijk de campagne in. Op het moment dat de anonieme persoon bekend wordt, voeren we deze campagne op haar. Ze zal:
 >
