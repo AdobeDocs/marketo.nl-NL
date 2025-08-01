@@ -1,17 +1,17 @@
 ---
 description: Overzicht van de betrokkenheidskaart - Marketo Docs - Productdocumentatie
 title: Overzicht van de betrokkenheidskaart
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
 
 # Overzicht van de betrokkenheidskaart {#engagement-map-overview}
 
-Met de betrokkenheidskaart kunt u uw slimme campagnes intuïtief visualiseren. Het biedt volledige achterwaartse verenigbaarheid met alle bestaande Marketo Engage Slimme Campagnes, zonder het verlies van om het even welke huidige eigenschappen aan.
+Met de betrokkenheidskaart kunt u uw slimme campagnes intuïtief visualiseren. De toepassing biedt volledige achterwaartse compatibiliteit met alle bestaande Marketo Engage Smart Campagnes, zonder dat de huidige functies verloren gaan.
 
 >[!NOTE]
 >
@@ -21,23 +21,23 @@ Met de betrokkenheidskaart kunt u uw slimme campagnes intuïtief visualiseren. H
 
 ## Betrokkenheid toewijzen {#accessing-engagement-map}
 
-Ga naar een bestaande campagne en klik op de knop **Betrokkenheid toewijzen** knop.
+Navigeer aan om het even welke bestaande campagne en klik de **knoop van de Kaart van de Betrokkenheid**.
 
 ![](assets/engagement-map-overview-2.png)
 
-Eenmaal in de betrokkenheidskaart ziet u twee tabbladen: [Betrokkenheid toewijzen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+Zodra in de Kaart van de Betrokkenheid, zult u twee lusjes zien: [ de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} en [ Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Kaartbeschrijvingen {#card-descriptions}
 
-**Triggers**: In campagnes die triggers bevatten, heeft de kaart een &quot;Trigger Overview&quot;-kaart. Als u op deze optie klikt, wordt een kaart voor elke trigger en een uitschuifvenster met aanvullende informatie weergegeven.
+**Trekkers**: In campagnes die trekkers omvatten, zal de kaart een kaart van het &quot;Overzicht van de Trekker&quot;hebben. Als u op deze optie klikt, wordt een kaart voor elke trigger en een uitschuifvenster met aanvullende informatie weergegeven.
 
 **Filters**: In campagnes die filters omvatten, zal de kaart een kaart van het Overzicht van de Filter bevatten. Als u erop klikt, wordt een uitschuifvenster weergegeven met aanvullende informatie over elk filter.
 
-**Stappen voor stroom**: Elke campagne zal een kaart voor elke stroomstap omvatten. Als u hierop klikt, wordt een venster met uitschuifbare informatie weergegeven.
+**Stappen van de Stroom**: Elke campagne zal een kaart voor elke stroomstap omvatten. Als u hierop klikt, wordt een venster met uitschuifbare informatie weergegeven.
 
-**Keuzen**: Als een flowstap een of meer opties bevat en u klikt op de stroomkaart, wordt voor elke keuze een kaart weergegeven, plus een uitschuifvenster met aanvullende informatie.
+**Keuzen**: Als een stroomstap één of meerdere keuzen omvat, zal het klikken op de debietkaart een kaart voor elke keus, evenals een dia-uit paneel met extra informatie openbaren.
 
 ## Geneste campagnes {#nested-campaigns}
 
@@ -71,23 +71,23 @@ De top nav bevat de volgende functies:
 
 ## Veelgestelde vragen {#faq}
 
-**Moet ik al mijn campagnes opnieuw opbouwen op de Engagement Map?**
+**moet ik al mijn campagnes in de Kaart van de Betrokkenheid herbouwen?**
 
 Nee. Betrokkenheid toewijzen is volledig compatibel met oudere versies. Met de klik van een knoop, zult u elk van uw bestaande campagnes in de visuele interface van de Kaart van de Betrokkenheid kunnen zien.
 
-**Betekent het hebben van de Kaart van de Betrokkenheid in Marketo Engage dat ik toegang tot de omslagstructuur zal verliezen en zal moeten opnieuw leren hoe te om een Slimme Campagne te bouwen?**
+**heeft het hebben van de Kaart van de Betrokkenheid in Marketo Engage betekent ik toegang tot de omslagstructuur zal verliezen en zal moeten opnieuw leren hoe te om een Slimme Campagne te bouwen?**
 
-Nee. Het mooie aan Betrokkenheid Kaart is dat het je het beste van beide werelden geeft; het is een aanvulling op de huidige manier waarop je campagnes bouwt. Alle gebruikers krijgen nog steeds een krachtige functieset van het Marketo Engage, nu aangevuld met duidelijke visuele kenmerken.
+Nee. Het mooie aan Betrokkenheid Kaart is dat het je het beste van beide werelden geeft; het is een aanvulling op de huidige manier waarop je campagnes bouwt. Alle gebruikers krijgen nog steeds een krachtige functieset voor Marketo Engage, die nu wordt aangevuld met duidelijke visuele kenmerken.
 
-**Is de kaart van de Betrokkenheid een betaalde toe:voegen-aan?**
+**Is de Kaart van de Betrokkenheid een betaalde toe:voegen-op?**
 
-Nee. Alle bestaande en nieuwe gebruikers in de Marketo Engage onder alle abonnementen hebben toegang tot deze gratis functie.
+Nee. Alle bestaande en nieuwe Marketo Engage-gebruikers onder alle abonnementen hebben toegang tot deze gratis functie.
 
-**Als beheerder van het Marketo Engage, ben ik verantwoordelijk voor het uitzetten van de Kaart van de Betrokkenheid aan/uit?**
+**als beheerder van Marketo Engage, ben ik verantwoordelijk voor het draaien van de Kaart van de Betrokkenheid aan/uit?**
 
 Nee. Betrokkenheid toewijzen is beschikbaar voor alle gebruikers in hun exemplaar. U kunt deze functie niet in- of uitschakelen voor bepaalde gebruikers, werkruimten, enzovoort.
 
-**Hoe verschilt dit van andere visuele builders?**
+**hoe is dit verschillend van andere visuele bouwers?**
 
 Er zijn drie belangrijke dingen die de Kaart van de Betrokkenheid verdelen:
 
@@ -95,9 +95,9 @@ Er zijn drie belangrijke dingen die de Kaart van de Betrokkenheid verdelen:
 
 * Functionaliteit: alle beelden zijn uit de doos, waardoor het gemakkelijker te gebruiken is; de geneste structuur stelt u in staat om in te duiken en het hele beeld te krijgen.
 
-* Macht: u behoudt alle bestaande geavanceerde Marketo&#39;s Engage, nu in een visueel formaat.
+* Macht: u behoudt alle bestaande geavanceerde mogelijkheden van Marketo Engage, nu in een visuele indeling.
 
 >[!MORELIKETHIS]
 >
->* [Tabblad Betrokkenheid](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
->* [Tabblad Instellingen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}
+>* [ het Lusje van de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [ het Lusje van Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

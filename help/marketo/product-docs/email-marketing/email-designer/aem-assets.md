@@ -4,7 +4,7 @@ description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslag
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: f2f9a3aeae8bd4857675df46ad5522c37154431c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '795'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Verbind uw _Adobe Experience Manager Assets as a Cloud Service_ rekening met uw 
 
 >[!NOTE]
 >
->Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Koppeling maken naar uw AEM Cloud Services {#link-to-your-aem-cloud-services}
 
@@ -45,7 +45,7 @@ Voordat u deze mogelijkheid kunt gebruiken, moet u eerst AEM Cloud Services kopp
    >
    >* Alleen opslagplaatsen die zijn gekoppeld in dezelfde IMS-org als uw Marketo Engage-abonnement worden vermeld.
    >
-   >* Marketo Engage biedt alleen ondersteuning voor opslagplaatsen van de leveringslaag. Als u de rij van de Auteur gebruikt en het zou willen omzetten, gelieve [ de Steun van Adobe Experience Manager ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-manager/content/overview/help-resources) te contacteren.
+   >* Marketo Engage biedt alleen ondersteuning voor opslagplaatsen van de leveringslaag. Als u de rij van de Auteur gebruikt en het zou willen omzetten, gelieve [ de Steun van Adobe Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources) te contacteren.
 
 1. U moet het certificaat van de a [ dienstcredentie ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
 
@@ -83,7 +83,7 @@ Als uw omgeving een of meer verbindingen met de opslagplaats voor middelen heeft
 
 >[!IMPORTANT]
 >
->Een beheerder moet gebruikers die toegang tot elementen nodig hebben, toevoegen aan de profielen Assets Consumer Users en/of Assets Users-producten. [Meer informatie](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Een beheerder moet gebruikers die toegang tot elementen nodig hebben, toevoegen aan de profielen Assets Consumer Users en/of Assets Users-producten. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 In de visuele inhoudsredacteur, klik het _selecteur van Activa van Experience Manager_ pictogram in linkerzijbalk. Hiermee wijzigt u het deelvenster Gereedschappen in een lijst met beschikbare middelen in de geselecteerde opslagplaats.
 
@@ -103,7 +103,7 @@ Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuel
 
 ![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"} toegang te hebben
 
-* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_&#x200B;te openen.
+* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_te openen.
 
   In het dialoogvenster kunt u een afbeelding kiezen in de geselecteerde opslagplaats.
 

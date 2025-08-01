@@ -4,7 +4,7 @@ description: De Rich Text Editor - Marketo Docs - Productdocumentatie gebruiken
 title: De Rich Text Editor gebruiken
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 1%
@@ -41,19 +41,19 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
 
    Als u `<div class=“mktEditable”></div>` in een E-mailsjabloon hebt, wordt het volgende HTML Source-gedrag weergegeven wanneer u de sectie opent en &quot;Tekst gaat hier&quot; in de editor typt:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>Geen</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class="mktEditable"&gt;<br> &lt;p&gt;Tekst gaat hier&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br> &lt;div&gt;Tekst gaat hier&lt;/div&gt; <br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt; <br> Tekst gaat hier <br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>Geen</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class="mktEditable"&gt;<br> &lt;p&gt;Tekst gaat hier&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br> &lt;div&gt;Tekst gaat hier&lt;/div&gt; <br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt; <br> Tekst gaat hier <br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

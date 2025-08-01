@@ -4,7 +4,7 @@ description: Integreren met Adobe Analytics - Marketo Docs - Productdocumentatie
 title: Integreren met Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
 1. Ga naar **[!UICONTROL Admin Tools]** in uw AA-account.
 1. Selecteer de **[!UICONTROL Report Suite]** die moet worden gebruikt bij de integratie.
-1. Ga onder **[!UICONTROL Edit Settings]** naar **[!UICONTROL Conversion]** en selecteer **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Selecteer het [ Variabele van de Omzetting ](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
+1. Ga onder **[!UICONTROL Edit Settings]** naar **[!UICONTROL Conversion]** en selecteer **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
+Selecteer het [ Variabele van de Omzetting ](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
 
    1. Evar # 20 for Industry Custom Conversions
    1. Evar # 21 for Organization Custom Conversions
@@ -220,7 +220,7 @@ Uw rapporten worden weergegeven op het dashboard.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Zoeken naar afbeeldingen om de namen van segmenten en campagnes weer te geven die het aantal indrukken voor de campagne aangeven.\
+1. Zoeken naar afbeeldingen om de namen van segmenten en campagnes weer te geven die het aantal indrukken voor de campagne aangeven.
    ![](assets/sitecatalyst1.png)
 
 1. Zoek naar Omzetting om de namen van Segmenten en van de Campagne te bekijken die het aantal klikken voor de campagne vertegenwoordigen.

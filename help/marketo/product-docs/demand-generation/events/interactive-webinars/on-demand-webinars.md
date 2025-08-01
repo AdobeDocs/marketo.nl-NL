@@ -3,7 +3,7 @@ description: Webinars op aanvraag - Marketo Docs - Productdocumentatie
 title: Webinars op aanvraag
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Webinars op aanvraag {#on-demand-webinars}
 
-On-Demand Webinars legt de leads vast die voor uw gebeurtenis zijn geregistreerd en die u niet hebt bijgewoond, en verfijnen deze. Ze willen echter wel informatie over de gebeurtenis opvragen door de opname te bekijken. Informatie zoals Naam, E-mail-id en Datum/duur van controle kunnen in het Marketo Engage worden vastgelegd en worden gebruikt om deze leads zonder weergave te activeren.
+On-Demand Webinars legt de leads vast die voor uw gebeurtenis zijn geregistreerd en die u niet hebt bijgewoond, en verfijnen deze. Ze willen echter wel informatie over de gebeurtenis opvragen door de opname te bekijken. Informatie zoals Naam, E-mail-id en Datum/duur van controle kunnen in Marketo Engage worden vastgelegd en worden gebruikt om deze leads zonder weergave te activeren.
 
 Met de Webinar Joining URL die vóór de gebeurtenis met de geregistreerde personen is gedeeld, kunt u de opname op aanvraag bekijken. Wanneer een registrant die de livegebeurtenis niet heeft bijgewoond (bijvoorbeeld een lead met de status &quot;No-Show&quot; van het programma), op de Webinar Joining URL klikt, verandert de status van dat lead van &quot;No-Show&quot; in &quot;Attended On-Demand&quot;. De status van het programma van de leads die de gebeurtenis live hebben bekeken en de status &quot;Bijgewoond&quot; hebben, wordt niet gewijzigd als ze besluiten de URL voor deelname te bezoeken en de opname op aanvraag te bekijken.
 
-Adobe Connect, de technologie die interactieve webinars aandrijft, volgt het bezoek en de wachttijd met betrekking tot de leads die de opname bekijken, en rapporteert de informatie dagelijks aan het Marketo Engage. 30 dagen na de gebeurtenis wordt het bijhouden van webinars op aanvraag stopgezet. De duur kan niet worden gewijzigd.
+Adobe Connect, de technologie die interactieve webinars aandrijft, volgt het bezoek en de wachttijd met betrekking tot de leads die de opname bekijken, en rapporteert de informatie dagelijks aan Marketo Engage. 30 dagen na de gebeurtenis wordt het bijhouden van webinars op aanvraag stopgezet. De duur kan niet worden gewijzigd.
 
-Marketo Engage verstrekt de horloge statistieken voor Webinars op bestelling op het lusje van het Dashboard met behulp van de volgende widgets:
+Marketo Engage biedt de statistieken van de bewaking van On-Demand Webinars op het tabblad Dashboard met behulp van de volgende widgets:
 
 * Samenvatting op aanvraag: Dit biedt een overzicht van het aantal bezoekers (geen presentaties) dat de opname na de gebeurtenis op een bepaalde dag of dagen bekijkt
 

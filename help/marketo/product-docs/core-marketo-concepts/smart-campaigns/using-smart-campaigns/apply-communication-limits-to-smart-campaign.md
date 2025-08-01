@@ -4,7 +4,7 @@ description: Communicatielimieten toepassen op slimme campagne - Marketo Docs - 
 title: Communicatielimieten toepassen op slimme campagne
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Communicatielimieten inschakelen](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
+>[ laat Communicatie Limieten ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} toe
 
 Het is geen goed idee om iemand meerdere keren per dag of te vaak per week per e-mail te versturen. Gelukkig heeft Marketo Engage communicatielimieten om te helpen.
 
@@ -23,11 +23,11 @@ Het is geen goed idee om iemand meerdere keren per dag of te vaak per week per e
 >
 >Wanneer iemand de ingestelde communicatielimieten overschrijdt, blokkeert Marketo niet-operationele e-mailberichten (operationele e-mails worden altijd verzonden).
 
-1. Klik in uw slimme campagne op de knop **[!UICONTROL Schedule]** en vervolgens **[!UICONTROL Edit Settings]**.
+1. Klik in uw slimme campagne op de tab **[!UICONTROL Schedule]** en vervolgens op **[!UICONTROL Edit Settings]** .
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Controleer de **[!UICONTROL Block non-operational emails]** selectievakje en klik vervolgens op **[!UICONTROL Save]**.
+1. Schakel het selectievakje **[!UICONTROL Block non-operational emails]** in en klik op **[!UICONTROL Save]** .
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ Het is geen goed idee om iemand meerdere keren per dag of te vaak per week per e
 
 >[!TIP]
 >
->Als u dit de standaard wilt maken, bewerkt u uw [communicatielimieten](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de sectie Beheer.
+>Om dit het gebrek te maken, geef uw [ communicatie grenzen ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de Admin sectie uit.
 
 U kunt er nu zeker van zijn dat u niet per ongeluk te veel e-mails naar uw publiek stuurt.

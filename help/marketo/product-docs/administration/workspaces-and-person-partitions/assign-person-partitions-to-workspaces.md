@@ -4,9 +4,9 @@ description: Personen partities toewijzen aan werkruimten - Marketo Docs - Produ
 title: Personen partities toewijzen aan werkruimten
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 1%
 
 ---
@@ -17,17 +17,17 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!PREREQUISITES]
 >
->[Een nieuwe werkruimte maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>[ creeer een Nieuwe Workspace ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->Werkruimten en Personen-partities kunnen complex zijn. Neem contact op met  [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} voor hulp bij het opzetten ervan.
+>De werkruimten en de Verdelingen van de Persoon kunnen complex zijn. Gelieve te contacteren {de steun van 0} Marketo [ voor hulp in vestiging hen.](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 
@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
    ![](assets/assign-person-partitions-to-workspaces-2.png)
 
-1. Selecteer uw werkruimte en klik op **[!UICONTROL Edit Workspace]**.
+1. Selecteer de werkruimte en klik op **[!UICONTROL Edit Workspace]** .
 
    ![](assets/assign-person-partitions-to-workspaces-3.png)
 
@@ -45,9 +45,9 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
    >[!NOTE]
    >
-   >* De &quot;[!UICONTROL All Person Partitions]&quot; het selectievakje geeft aan dat deze werkruimte toegang heeft tot alle persoonlijke partities in het systeem.
+   >* checkbox &quot;[!UICONTROL All Person Partitions]&quot;wijst erop dat deze werkruimte toegang tot alle persoonverdelingen in het systeem heeft.
    >
-   >* Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Gebruiken [stroomstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [toewijzingsregels](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} om mensen te verplaatsen.
+   >* Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Het gebruik [ stroomstappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [ toewijzingsregels ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} om mensen rond te bewegen.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -61,4 +61,4 @@ U hebt uw werkruimte bewerkt.
 
 >[!MORELIKETHIS]
 >
->[Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>[ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

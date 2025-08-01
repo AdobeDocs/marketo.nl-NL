@@ -4,7 +4,7 @@ description: Een veld verbergen en verbergen - Marketo Docs - Productdocumentati
 title: Een veld verbergen en verbergen opheffen
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 37e6f60d2f26ce2c7a8c7564f33c6121a6a507a1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -19,9 +19,9 @@ Als u een veld in Marketo Engage niet meer gebruikt, kunt u het verbergen in de 
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -29,7 +29,7 @@ Als u een veld in Marketo Engage niet meer gebruikt, kunt u het verbergen in de 
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. Zoek het veld, selecteer het vervolgens onder **[!UICONTROL Field Actions]** klikken **[!UICONTROL Hide Field]**.
+1. Zoek het veld, selecteer het en klik vervolgens onder **[!UICONTROL Field Actions]** klikken **[!UICONTROL Hide Field]** .
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ Als u een veld in Marketo Engage niet meer gebruikt, kunt u het verbergen in de 
    >* U kunt standaardvelden (systeemvelden) niet verbergen.
    >* U kunt de velden voor opportuniteitsinformatie niet verbergen.
 
-1. Klikken **[!UICONTROL Hide]** ter bevestiging.
+1. Klik op **[!UICONTROL Hide]** om te bevestigen.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,7 +49,7 @@ Als u een veld in Marketo Engage niet meer gebruikt, kunt u het verbergen in de 
 
 ## De verbergen van een veld ongedaan maken {#unhide-a-field}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
@@ -57,9 +57,8 @@ Als u een veld in Marketo Engage niet meer gebruikt, kunt u het verbergen in de 
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Het veld zoeken en selecteren. In de [!UICONTROL Field Actions] vervolgkeuzelijst, klikken **[!UICONTROL Unhide Field]**.
+1. Het veld zoeken en selecteren. Klik in de vervolgkeuzelijst [!UICONTROL Field Actions] op **[!UICONTROL Unhide Field]** .
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
    Geweldig werk! Nu weet u hoe u velden kunt ontgrendelen en opnieuw zichtbaar kunt maken.
-

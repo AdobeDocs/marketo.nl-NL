@@ -4,7 +4,7 @@ description: De taal van een formulier wijzigen - Marketo Docs - Productdocument
 title: De taal van een formulier wijzigen
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Leer hoe u de taal van uw formulier kunt wijzigen.
 Het formulier weerspiegelt nu de taal die u hebt geselecteerd.
 
 ![](assets/change-the-language-of-a-form-8.png)
-

@@ -2,7 +2,8 @@
 description: Salesforce Sync Backlog Metrics - Marketo Docs - Productdocumentatie
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
-source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
+exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
@@ -27,7 +28,7 @@ De synchronisatieachterstand is de naam die wordt gebruikt voor de records die m
 
 De trend van de achterstand weerspiegelt veranderingen in de achterstand die in de afgelopen vijf dagen is geregistreerd. De achterstand wordt getoond in een 4-uurs tijdinterval spreidt zich over 5 dagen uit. Daarom zal de grafiek 6 intervallen per dag tijden 5 dagen tonen, die 30 intervallen evenaart.
 
-Backlog wordt waargenomen bij een bepaald 4-uurs tijdinterval op de x-as. Deze waarde is voor alle objecten die gesynchroniseerd zijn. Dit is het totaal van de achterstand in Salesforce en Marketo Engage die wachten op synchronisatie.
+Backlog wordt waargenomen bij een bepaald 4-uurs tijdinterval op de x-as. Deze waarde is voor alle objecten die gesynchroniseerd zijn. Dit is het totaal van de achterstand in Salesforce en Marketo Engage die wacht op synchronisatie.
 
 ![](assets/salesforce-sync-backlog-metrics-3.png)
 
@@ -83,24 +84,24 @@ De statistieken geven de doorvoer en de status van de achterstand weer voor elk 
 
 ## Wat veroorzaakt synchronisatiebacklogs {#what-causes-sync-backlogs}
 
-Of de update aan de zijde van het Marketo Engage of aan de zijde van CRM wordt gemaakt, het zal het verslag teweegbrengen om opnieuw te worden gesynchroniseerd om de informatie aan de andere kant door het regelmatige Marketo Engage aan de synchronisatiecyclus van CRM bij te werken. Wanneer een update aan een verslag op Salesforce wordt gemaakt, produceert het een Stempel van de Tijd van de Wijziging van het Systeem, die als &quot;SysModStamp wordt bedoeld.&quot; Hiermee wordt een synchronisatie-wijziging in de wachtrij geplaatst.
+Ongeacht of de update aan de Marketo Engage-zijde of aan de CRM-zijde wordt uitgevoerd, wordt de record opnieuw gesynchroniseerd om de informatie aan de andere kant via de normale Marketo Engage naar CRM-synchronisatiecyclus bij te werken. Wanneer een update aan een verslag op Salesforce wordt gemaakt, produceert het een Stempel van de Tijd van de Wijziging van het Systeem, die als &quot;SysModStamp wordt bedoeld.&quot; Hiermee wordt een synchronisatie-wijziging in de wachtrij geplaatst.
 
 Wanneer een grote hoeveelheid updates wordt gemaakt (zoals van een veranderend gebied), worden vele verslagen veranderd, veroorzakend nieuwe SysModStamps. Een groot aantal updates van het persoonrecord moet dan opnieuw worden gesynchroniseerd tussen Marketo Engage en uw CRM, waardoor soms een kortstondige achterstand ontstaat.
 
 ## Aanbevolen procedures voor het beheren van synchronisatiebacklogs {#best-practices}
 
-**Gebieden zichtbaar aan de Gebruiker van de Synchronisatie**: Zorg ervoor dat de gebieden zichtbaar aan synchronisatie slechts die zijn die moeten worden gesynchroniseerd en waarde aan marketing inspanningen hebben. Bij elke update van een record in Salesforce die het laatst gewijzigde tijdstempel bijwerkt, wordt een record in de wachtrij geplaatst van de synchronisatieachterstand. Hierdoor kan het langer duren voordat belangrijke velden gesynchroniseerd raken. Als de onnodige velden verborgen zijn voor de synchronisatiegebruiker, wordt bij het bijwerken van deze velden een overgeslagen waarde weergegeven die veel sneller is dan bij een update. Het werk met uw Admin van Salesforce om beste praktijken [ hier ](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}  te herzien en bij te werken welke gebieden aan de Gebruiker van de Synchronisatie van Marketo zichtbaar zijn.
+**Gebieden zichtbaar aan de Gebruiker van de Synchronisatie**: Zorg ervoor dat de gebieden zichtbaar aan synchronisatie slechts die zijn die moeten worden gesynchroniseerd en waarde aan marketing inspanningen hebben. Bij elke update van een record in Salesforce die het laatst gewijzigde tijdstempel bijwerkt, wordt een record in de wachtrij geplaatst van de synchronisatieachterstand. Hierdoor kan het langer duren voordat belangrijke velden gesynchroniseerd raken. Als de onnodige velden verborgen zijn voor de synchronisatiegebruiker, wordt bij het bijwerken van deze velden een overgeslagen waarde weergegeven die veel sneller is dan bij een update. Het werk met uw Admin van Salesforce om beste praktijken [ hier ](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} te herzien en bij te werken welke gebieden aan de Gebruiker van de Synchronisatie van Marketo zichtbaar zijn.
 
-**Verberg of filter onnodige verslagen**: Als een verslag niet verhandelbaar is, kan het synchronisatiemiddelen verspillen. Als de synchronisatiegebruiker het niet kan zien, verspilt het geen middelen die proberen om het te synchroniseren. [ de Steun van het Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}  kan opstelling helpen een synchronisatiefilter om verslagen te remmen die op extra criteria worden gebaseerd. Meer informatie over vestiging een Filter van de Synchronisatie van de Douane [ kan hier ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} worden gevonden . Het wordt sterk geadviseerd om indexgebieden binnen Salesforce te gebruiken (contactverkopers voor verdere informatie).
+**Verberg of filter onnodige verslagen**: Als een verslag niet verhandelbaar is, kan het synchronisatiemiddelen verspillen. Als de synchronisatiegebruiker het niet kan zien, verspilt het geen middelen die proberen om het te synchroniseren. [ de Steun van Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} kan vestiging een synchronisatiefilter helpen om verslagen te remmen die op extra criteria worden gebaseerd synchroniseren. Meer informatie over vestiging kan een Filter van de Synchronisatie van de Douane [ hier worden gevonden ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Het wordt sterk geadviseerd om indexgebieden binnen Salesforce te gebruiken (contactverkopers voor verdere informatie).
 
 **bulkupdates van het Programma tijdens niet-kritieke uren**: Herzie uw patronen van de gegevenssynchronisatie om niet-kritieke periodes te identificeren. Controleer of bulkupdates indien mogelijk in deze niet-kritieke perioden kunnen worden gepland.
 
 **vaak bijgewerkte gebieden**: Sommige gebieden zijn aan frequente updates vatbaar. Bijvoorbeeld valutavelden die aan valutawijzigingen zijn onderworpen. Controleer of deze moeten worden gesynchroniseerd of dat de velden anders moeten worden ontworpen. Als u andere velden hebt die vaak worden bijgewerkt en niet nodig zijn, verbergt u deze voor de synchronisatiegebruiker. Bespreek de integratie met uw SFDC-beheerprogramma&#39;s die mogelijk velden bijwerken.
 
-**de voorwerpen van de Douane**: Herzie periodiek [ douanevoorwerpen ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}  toegelaten om die te synchroniseren en onbruikbaar te maken die niet meer moeten worden gesynchroniseerd.
+**de voorwerpen van de Douane**: Herzie periodiek [ douanevoorwerpen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} toegelaten om die te synchroniseren en onbruikbaar te maken die niet meer moeten worden gesynchroniseerd.
 
-**Activiteiten**: [ Overzicht als om het even welke activiteiten ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}  toegelaten synchronisatie die van synchronisatie kan worden verwijderd.  Deze activiteiten worden slechts eenmaal per dag gesynchroniseerd per lead.
+**Activiteiten**: [ Overzicht als om het even welke activiteiten ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} synchronisatie toeliet die van synchronisatie kan worden verwijderd.  Deze activiteiten worden slechts eenmaal per dag gesynchroniseerd per lead.
 
 **de fouten van de Synchronisatie van het Overzicht**: De behandeling van de uitzondering kan de synchronisatie vertragen. Door gebruikersmeldingen te controleren en fouten op te lossen, kunt u de synchronisatiestatus verbeteren.
 
-**Steun van het Contact**: Als u alle bovengenoemde beste praktijken volgt en nog significante backlogs ervaren, contacteer [ Steun van het Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} .
+**Steun van het Contact**: Als u alle bovengenoemde beste praktijken volgt en nog significante backlogs ervaren, contacteer [ Steun van Marketo Engage ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}.

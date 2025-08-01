@@ -2,160 +2,160 @@
 description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Productdocumentatie
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
-exl-id: 3e09ee4f-be65-4f2b-bdf5-ddd98bb49c1c
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '347'
 ht-degree: 1%
 
 ---
 
 # NUR-YYYY-MM-Simple Nurture {#nur-yyyy-mm-simple-nurture}
 
-Dit is een voorbeeld van eenvoudige programma&#39;s van de Verrichting, die het Programma van de Aansluiting van het Marketo Engage gebruiken, met inhoud aan druppel in tijd aan uw gegevensbestand terwijl het gebruiken van stromen om verslagen door reizen te begeleiden die op gedrag worden gebaseerd.
+Dit is een voorbeeld van eenvoudige programma&#39;s van de Verloop, die het Programma van de Aansluiting van Marketo Engage gebruiken, met inhoud met een kadaast aan druppel in tijd aan uw gegevensbestand terwijl het gebruiken van stromen om verslagen door reizen te leiden die op gedrag worden gebaseerd.
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanaal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanaal</th>
    <th>Lidmaatschapsstatus</th>
    <th>Analysegedrag</th>
    <th>Programmatype</th>
-  </tr> 
-  <tr> 
-   <td>Verloop</td> 
-   <td>01 - Lid 
-<br/>02 - Betrokken - Succes</td>
+  </tr>
+  <tr>
+   <td>Verloop</td>
+   <td>01 - Lid
+<br/> 02 - Behoefte - Succes</td>
    <td>Inclusief</td>
    <td>Betrokkenheid</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Het programma bevat de volgende elementen {#program-contains-the-following-assets}
+## Het programma bevat de volgende Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Sjabloonnaam</th>
    <th>Elementnaam</th>
-  </tr> 
-  <tr> 
-   <td>E-mail</td> 
+  </tr>
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01 - E-mail</td>
   </tr>
-   <tr> 
-   <td>E-mail</td> 
+   <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>02 - E-mail</td>
   </tr>
-   <tr> 
-   <td>E-mail</td> 
+   <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>03 - E-mail</td>
   </tr>
-  <tr> 
-   <td>Lokaal rapport</td> 
+  <tr>
+   <td>Lokaal rapport</td>
    <td> </td>
    <td>E-mailprestaties</td>
   </tr>
-  <tr> 
-   <td>Lokaal rapport</td> 
+  <tr>
+   <td>Lokaal rapport</td>
    <td> </td>
    <td>Betrokkenheidsstreamprestaties</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>01 - Toevoegen aan cultuur</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>02 - Gepauzeerd</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>03 - Hervat de cultuur</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>04 - Betrokken (succes van programma)</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
-   <td>Activa - Houdt alle creatieve activa in huis
-   <br/>(submappen voor e-mails)</td>
+   <td>Assets - Houdt alle creatieve middelen in huis
+   <br/> (submappen voor e-mails)</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Campagnes - Houdt alle Slimme Campagnes</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Rapporten</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nur-yyyy-mm-simple-nurture-1.png)
 
 ## Mijn tokens inbegrepen {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type token</th>
    <th>Tokennaam</th>
    <th>Waarde</th>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Conflictregels {#conflict-rules}
 
-* **Programmatags**
-   * Tags maken in dit abonnement - _Aanbevolen_
+* **de Markeringen van het Programma**
+   * Creeer markeringen in dit abonnement - _Geadviseerde_
    * Negeren
 
-* **Landingspagina-sjabloon met dezelfde naam**
+* **het Bestaan malplaatje van de Pagina met de zelfde naam**
    * Originele sjabloon kopiëren
-   * Doelsjabloon gebruiken - _Aanbevolen_
+   * Het bestemmingsmalplaatje van het gebruik - _geadviseerde_
 
-* **Afbeeldingen met dezelfde naam**
+* **Beelden met de zelfde naam**
    * Beide bestanden behouden
-   * Item in dit abonnement vervangen - _Aanbevolen_
+   * Vervang punt in dit abonnement - _geadviseerde_
 
-* **E-mailsjablonen met dezelfde naam**
+* **E-mailmalplaatjes met de zelfde naam**
    * Beide sjablonen behouden
-   * Bestaande sjabloon vervangen - _Aanbevolen_
+   * Vervang bestaand malplaatje - _geadviseerde_
 
 ## Aanbevolen procedures {#best-practices}
 
@@ -171,4 +171,4 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
 
 >[!TIP]
 >
->Vergeet niet de campagne &quot;04 - Betrokken (Programma Succes)&quot; te activeren om succes te volgen! Doe dit _voor_ je e-mailberichten worden verzonden.
+>Vergeet niet de campagne &quot;04 - Betrokken (Programma Succes)&quot; te activeren om succes te volgen! Doe dit _alvorens_ uw e-mails worden verzonden.

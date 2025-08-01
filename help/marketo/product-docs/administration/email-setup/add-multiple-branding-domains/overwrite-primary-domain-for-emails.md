@@ -4,7 +4,7 @@ description: Primair domein voor e-mails overschrijven - Marketo Docs - Productd
 title: Primair domein voor e-mails overschrijven
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 U kunt per e-mail het primaire branded domein overschrijven. Hiermee wijzigt u de manier waarop de koppelingen worden gemarkeerd wanneer het e-mailbericht wordt verzonden.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. Selecteer een e-mail en klik op **[!UICONTROL Edit Draft]**.
+1. Selecteer een e-mail en klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 
@@ -29,4 +29,4 @@ U kunt per e-mail het primaire branded domein overschrijven. Hiermee wijzigt u d
 
    >[!NOTE]
    >
-   >Niet alle gebruikers hebben machtigingen om het merkdomein per e-mail in te stellen. Neem contact op met uw beheerder als u de [!UICONTROL Branded Domains] vervolgkeuzelijst.
+   >Niet alle gebruikers hebben machtigingen om het merkdomein per e-mail in te stellen. Neem contact op met uw beheerder als de vervolgkeuzelijst [!UICONTROL Branded Domains] niet wordt weergegeven.

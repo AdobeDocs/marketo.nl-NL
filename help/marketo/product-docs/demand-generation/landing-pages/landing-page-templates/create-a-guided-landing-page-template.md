@@ -4,10 +4,10 @@ description: Een sjabloon voor een bestemmingspagina met instructies maken - Mar
 title: Een sjabloon voor een bestemmingspagina met instructies maken
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1254'
-ht-degree: 0%
+source-wordcount: '1263'
+ht-degree: 1%
 
 ---
 
@@ -30,14 +30,14 @@ Elementen worden gedeclareerd door een normaal DOM-element aan de sjabloon toe t
 
 ## Tekst {#text}
 
-Als u een gebied definieert als RTF-tekst, kunnen gebruikers de inhoud ervan bewerken [Marketo Rich Text Editor gebruiken](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [ kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
-Vereiste kenmerken:\
-**class**: &quot;mktoText&quot;\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse**: &quot;mktoText&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
-Optioneel:\
+Optioneel:
 De inhoud van een element met de klasse mktoText (indien opgegeven) wordt gebruikt als standaardwaarde voor het bewerkbare gebied.
 
 Voorbeeld:
@@ -46,31 +46,31 @@ Voorbeeld:
 
 ## Afbeelding {#image}
 
-U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt beide `<div>`, die een container aangeeft waarin de afbeelding wordt ingevoegd, of een `<img>` tag.
+U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt een `<div>` -tag of een `<img>` -tag gebruiken, waarmee u een container opgeeft waarin de afbeelding wordt ingevoegd.
 
-## Optie 1 - Een `<div>` {#option-use-a-div}
+## Optie 1 - Een `<div>` gebruiken {#option-use-a-div}
 
 Vereiste kenmerken:
 
-klasse: &quot;mktoImg&quot;\
-id: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-mktoName : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+klasse: &quot;mktoImg&quot;
+id: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+mktoName : String. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
-Optioneel:\
-mktoImgClass: Tekenreeks. De waarde hier wordt toegevoegd aan het klassenkenmerk van het dialoogvenster `<img>` -element in het div-element.
+Optioneel:
+mktoImgClass: String. De waarde hier wordt toegevoegd aan het klassenkenmerk van het element `<img>` binnen de div.
 
 Voorbeeld:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Optie 2 - Een `<img>` {#option-use-a-img}
+## Optie 2 - Een `<img>` gebruiken {#option-use-a-img}
 
-Vereiste kenmerken:\
-klasse: &quot;mktoImg&quot;\
-id: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-mktoName : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+klasse: &quot;mktoImg&quot;
+id: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+mktoName : String. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
-Optioneel:\
+Optioneel:
 src: URL tekenreeks. Dit wordt gebruikt als standaardwaarde voor de afbeelding.
 
 Voorbeeld:
@@ -79,23 +79,23 @@ Voorbeeld:
 
 >[!NOTE]
 >
->Wanneer u de `<img>` versie, zal de teruggegeven HTML een geproduceerde div omslag rond `<img>` tag. Deze wordt ingesteld op class.&quot;mktoImg.mktoGen&quot; en wordt weergegeven:inline-block.
+>Wanneer u de `<img>` -versie gebruikt, bevat de gerenderde HTML een gegenereerde div-wrapper rond de `<img>` -tag. Deze wordt ingesteld op class.&quot;mktoImg.mktoGen,&quot;en zal vertoning :inline-block zijn.
 
 ## Formulier {#form}
 
-Voorbeeld:Vereiste kenmerken:\
-**class**: &quot;mktoForm&quot;\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Voorbeeld :Required kenmerken:
+**klasse**: &quot;mktoForm&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
 ## Fragment {#snippet}
 
-Vereiste kenmerken:\
-**class**: &quot;mktoSnippet&quot;\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse**: &quot;mktoSnippet&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 Voorbeeld:
 
@@ -103,10 +103,10 @@ Voorbeeld:
 
 ## Knop Delen {#share-button}
 
-Vereiste kenmerken:\
-**class**: &quot;mktoShareButton&quot;\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse**: &quot;mktoShareButton&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 Voorbeeld:
 
@@ -119,9 +119,9 @@ Voorbeeld:
 >Marketo ondersteunt alleen video&#39;s van YouTube wanneer het video-element op een openingspagina wordt gebruikt. Als u een andere service gebruikt, is het raadzaam een RTF-vak te gebruiken en in de insluitcode van de video te plakken.
 
 Vereiste kenmerken:
-**class**: &quot;mktoVideo&quot;
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+**klasse**: &quot;mktoVideo&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 Voorbeeld:
 
@@ -129,10 +129,10 @@ Voorbeeld:
 
 ## Pollen {#poll}
 
-Vereiste kenmerken:\
-**class**: &quot;mktoPoll&quot;\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse**: &quot;mktoPoll&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 Voorbeeld:
 
@@ -140,10 +140,10 @@ Voorbeeld:
 
 ## Verwijzing {#referral}
 
-Vereiste kenmerken:\
-**class**: &quot;mktoReferral&quot;\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse**: &quot;mktoReferral&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 Voorbeeld:
 
@@ -151,10 +151,10 @@ Voorbeeld:
 
 ## Sweepstake {#sweepstakes}
 
-Vereiste kenmerken:\
-**class**: &quot;mktoSweepstakes&quot;\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse**: &quot;mktoSweepstakes&quot;
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 Voorbeeld:
 
@@ -170,20 +170,20 @@ Voorbeeld:
 
 **Verklaring:**
 
-Variabelen worden gedeclareerd als metatags binnen de `<head>` -element van de sjabloon. Er zijn drie typen variabelen beschikbaar voor gebruik: Tekenreeks, Kleur en Boolean.
+Variabelen worden gedeclareerd als metatags binnen het element `<head>` van de sjabloon. Er zijn drie typen variabelen beschikbaar voor gebruik: String, Color en Boolean.
 
 ## String {#string}
 
-Vereiste kenmerken:\
-**class** : &quot;mktoString&quot;,\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse** : &quot;mktoString&quot;,
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
-Optioneel:\
-**default**: Tekenreekswaarde voor het kenmerk. Blanco als er geen informatie is opgegeven.\
-**allowHtml**: &quot;true&quot; of &quot;false&quot;. Bepaalt of de waarde wordt afgedrukt zonder dat de HTML wordt beschermd. De standaardwaarde is &quot;false&quot; als de instelling wordt opgeheven.
+Optioneel:
+**gebrek**: De waarde van het koord voor de attributen. Blanco als er geen informatie is opgegeven.
+**allowHtml**: &quot;waar&quot;of &quot;vals&quot;. Bepaalt of de waarde wordt afgedrukt zonder dat HTML wordt beschermd. De standaardwaarde is &quot;false&quot; als de instelling wordt ongedaan gemaakt.
 
-Eenvoudig voorbeeld:
+Basisvoorbeeld:
 
 `<meta class="mktoString" id="var1" mktoName="My Variable">`
 
@@ -193,15 +193,15 @@ Voorbeeld met alle kenmerken:
 
 ## Kleur {#color}
 
-Vereiste kenmerken:\
-**class** : &quot;mktoColor&quot;,\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse** : &quot;mktoColor&quot;,
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
-Optioneel:\
-**default**: Een HEX-tekenkleurcode van 7 cijfers. Voorbeeld: &quot;#336699&quot;
+Optioneel:
+**gebrek**: Een 7-cijferige het karakterkleurcode van de HEX. Bijvoorbeeld: &quot;#336699&quot;
 
-Eenvoudig voorbeeld:
+Basisvoorbeeld:
 
 `<meta class="mktoColor" id="color1" mktoName="My Color Variable">`
 
@@ -211,19 +211,19 @@ Voorbeeld met alle kenmerken:
 
 ## Boolean {#boolean}
 
-Vereiste kenmerken:\
-**class** : &quot;mktoBoolean&quot;,\
-**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.\
-**mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
+Vereiste kenmerken:
+**klasse** : &quot;mktoBoolean&quot;,
+**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
-Optioneel:\
-**default**: Booleaanse tekenreeks. &quot;true&quot; of &quot;false&quot; als de waarde begint in de aan- of uit-positie. &quot;false&quot; indien niet opgegeven.\
-**false_value**: Tekenreeks. De waarde die voor de variabele moet worden ingevoegd wanneer deze zich in de OFF-positie bevindt. &quot;false&quot; indien niet opgegeven.\
-**true_value**: Tekenreeks. De waarde die voor de variabele moet worden ingevoegd wanneer deze zich op de positie ON bevindt. &quot;true&quot; indien niet opgegeven.\
-**false_value_name**: Tekenreeks. De weergavenaam die wordt weergegeven in de editor voor de bestemmingspagina wanneer de waarde in de uitstand staat. &quot;OFF&quot; indien niet opgegeven.\
-**true_value_name**: Tekenreeks. De weergavenaam die wordt weergegeven in de editor voor de bestemmingspagina wanneer de waarde zich op de positie ON bevindt. &quot;ON&quot; indien niet opgegeven.
+Optioneel:
+**gebrek**: Het koord van Boolean. &quot;true&quot; of &quot;false&quot; als de waarde begint in de aan- of uit-positie. &quot;false&quot; indien niet opgegeven.
+**false_value**: Koord. De waarde die voor de variabele moet worden ingevoegd wanneer deze zich in de uitstand bevindt. &quot;false&quot; indien niet opgegeven.
+**true_value**: Koord. De waarde die voor de variabele moet worden ingevoegd wanneer deze zich op de positie ON bevindt. &quot;true&quot; indien niet opgegeven.
+**false_value_name**: Koord. De weergavenaam die wordt weergegeven in de editor voor de bestemmingspagina wanneer de waarde in de uitstand staat. &quot;OFF&quot; indien niet opgegeven.
+**true_value_name**: Koord. De weergavenaam die wordt weergegeven in de editor voor de bestemmingspagina wanneer de waarde zich op de positie ON bevindt. &quot;ON&quot; indien niet opgegeven.
 
-Eenvoudig voorbeeld:
+Basisvoorbeeld:
 
 `<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 

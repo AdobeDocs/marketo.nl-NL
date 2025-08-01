@@ -3,10 +3,10 @@ description: Opmerkingen bij de release - januari 2023 - Marketo Docs - Productd
 title: Opmerkingen bij de release - januari 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 1%
+source-wordcount: '626'
+ht-degree: 5%
 
 ---
 
@@ -16,41 +16,41 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 januari
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **20 januari 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **Januari 20, 2023**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken worden vrijgegeven. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
 
-### Marketo Engage Moderne UX {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Bijgewerkte schermen in Modern UX**: In Modern UX (voorheen bekend als Next-Generation Experience) bieden we aanvullende, vernieuwde schermen die bijgewerkte ontwerp- en gebruiksverbeteringen bieden die toegankelijk zijn via schakeloptie:
+* **Bijgewerkte Screens in Moderne UX**: In Modern UX (vroeger gekend als Volgende-Generatie Ervaring), leveren wij extra, verfrisste schermen die bijgewerkte ontwerp en bruikbaarheidsverhogingen aanbieden die via knevelschakelaar toegankelijk zijn:
 
    * Fragmentlijstweergave
    * Sjabloonlijst bestemmingspagina
 
-  <table> 
-  <tr> 
+  <table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Schakelen tussen schakelen</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Verbeterd Gebruikt door component voor E-mailsjabloondetails en fragmentdetails**: Het tabblad Nieuw Wordt gebruikt door UI biedt aanvullende informatie over elk van de door elementen gebruikte elementen, zoals wanneer het voor het laatst is gewijzigd en door wie. U kunt analyse door het onderzoek, de soort, en het filtreren mogelijkheden gemakkelijk uitvoeren. Deze nieuwe UI-component wordt opgenomen met ingang van de elementen E-mailsjabloon en Fragment.
+* **Verbeterd die door Component voor de Details van het Malplaatje E-mail en Details van het Fragment** wordt gebruikt: Nieuw die door UI tabel verstrekt extra informatie over elk van Gebruikt door activa, zoals wanneer het het laatst werd gewijzigd en door wie. U kunt analyse door het onderzoek, de soort, en het filtreren mogelijkheden gemakkelijk uitvoeren. Deze nieuwe UI-component wordt opgenomen met ingang van de elementen E-mailsjabloon en Fragment.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
@@ -61,14 +61,14 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Opnieuw ontworpen modules voor rapportelementen**: Nieuw ontwerp voor de modellen van de rapportconfiguratie in Modern UX die een bijgewerkte blik en een gevoel evenals betere toegankelijkheid aanbieden.
+* **Opnieuw ontworpen Modals voor Rapport Assets**: Nieuw ontwerp voor de modellen van de rapportconfiguratie in Modern UX die een bijgewerkte blik aanbieden en evenals betere toegankelijkheid voelen.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
@@ -79,16 +79,16 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Marketo Measure Ultimate**: Maakt volledige B2B-toewijzing mogelijk voor ondernemingen met meerdere CRM- en/of Marketo Engage-instanties en verschillende brongegevensbehoeften. Het verstrekt ook een B2B attributieoplossing voor Adobe RT-CDP via gedeelde gegevens AEP.
+* **Marketo Measure Ultimate**: Laat volledige B2B attributie voor ondernemingen met veelvoudige instanties CRM en/of Marketo Engage en diverse brongegevensbehoeften toe. Het biedt ook een B2B-attributieoplossing voor Adobe RT-CDP via gedeelde AEP-gegevens.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=nl-NL">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -97,14 +97,14 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Het verbeterde lusje van de Diensten van het Web door de Informatie van de Uitvoer van het Bulk toe te voegen API**: U kunt nu de dagelijkse capaciteitstoewijzing voor uw abonnementen bekijken en de hoeveelheid dagelijkse capaciteitstoewijzing bekijken die in de afgelopen 7 dagen is gebruikt.
+* **Verbeterd Lusje van de Diensten van het Web door de Informatie van de Uitvoer van de Bulk toe te voegen API**: U kunt nu de dagelijkse capaciteitstoewijzing voor uw abonnementen bekijken en de hoeveelheid dagelijkse capaciteitstoewijzing bekijken die in de afgelopen 7 dagen is gebruikt.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulkexport-API-informatie</a></td>
   </tr>
@@ -119,70 +119,70 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 </br>
 
-* **Picklist definiëren in Info Capture Card voor Dynamic Chat**: Om ervoor te zorgen dat de gegevens schoon zijn, kunt u picklists definiëren voor kaarten voor het vastleggen van informatie, zodat bezoekers alleen uit een vooraf gedefinieerde lijst met opties kunnen kiezen.
+* **bepaalt Bestellijst in de Kaart van de Vangst van Info voor Dynamic Chat**: helpen gegevenszuiverheid verzekeren, kunt u picklists voor informatie bepalen vangt kaarten zodat kunnen de bezoekers slechts van een vooraf bepaalde lijst van opties selecteren.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Persoonlijke gegevens in vergaderbevestiging voor Dynamic Chat**: Medewerkers kunnen de bevestiging van de e-mail van de vergaderingsboeking personaliseren gebruikend de persoon van het Marketo Engage en bedrijfgebieden om met bezoekers beter in dienst te nemen (bijvoorbeeld: groet bezoekers door hun voornaam in de geautomatiseerde vergadering die bericht van de boekingsmelding).
+* **Personalization in de Bevestiging van de Vergadering voor Dynamic Chat**: De agenten kunnen vergadering het boeken e-mailbevestigingen personaliseren gebruikend de persoon van Marketo Engage en bedrijfgebieden om met bezoekers beter in dienst te nemen (b.v. begroet bezoekers door hun voornaam in de geautomatiseerde vergadering die bericht e-mail van het boeken).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Zoeken in Stream Designer**: U kunt gemakkelijk zoeken naar inhoud in de stroomontwerper om snel inhoud te zoeken op alle kaarten/knooppunten in een stream (bijvoorbeeld &quot;SEO&quot; zoeken en alle knooppunten markeren die die tekenreeks bevatten).
+* **Onderzoek in Stream Designer**: Gemakkelijk onderzoek naar inhoud in de Stroom Designer om inhoud over alle kaarten/knopen in een stroom snel te vinden (b.v.: onderzoek &quot;SEO&quot;en het zal alle knopen benadrukken die dat koord bevatten).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Chatbot Date/Time Picker voor Dynamic Chat**: Webbezoekers kunnen de kalenderkiezer gebruiken om een datum en tijd te kiezen in plaats van de datum handmatig in te voeren.
+* **de Plukker van de Datum/van de Chatbot voor Dynamic Chat**: De bezoekers van het Web kunnen de kalenderkiezer gebruiken om een datum en een tijd eerder dan het ingaan van de datum manueel te kiezen.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Geplande e-mailberichten voor vergaderingen voor Dynamic Chat**: Wanneer een vergadering op de agenda van een agent wordt geboekt, ontvangt de agent een e-mailbericht over de boeking, met inbegrip van gedetailleerde informatie over de betrokkenheid van de Dynamic Chat van de bezoeker.
+* **Geplande E-mailberichten van de Vergadering voor Dynamic Chat**: Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de betrokkenheid van Dynamic Chat van de bezoeker ontvangen.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Vergaderingen</a></td>
   </tr>
@@ -191,6 +191,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **Wijziging van Marketo REST API**: Met de release van oktober 2022 hebben we een kleine wijziging aangebracht in het Marketo REST API-responsbericht. Zie deze [Marketo Nation-post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer informatie .
+* **de verandering van Marketo REST API**: Met de versie van Oktober 2022, introduceerden wij een minder belangrijke verandering in het de reactiebericht van de REST API van Marketo. Gelieve te zien dit [ post van de Natie van Marketo ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer details.
 
-* **_Webinar productrelease_**: [Oktober 2022 en Januari 2023 de Versie Webinar van het Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [ Oktober 2022 en Januari 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

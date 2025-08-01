@@ -4,7 +4,7 @@ description: Een stroomstap verwijderen - Marketo Docs - Productdocumentatie
 title: Een stroomstap verwijderen
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -42,8 +42,8 @@ Laten we eerst de basisbeginselen behandelen. Hier is hoe te om een ongewenste s
    1. **reeds liep ZONDER stappen** te wachten.Geen mensen zullen worden beïnvloed omdat de campagne na het runnen slapend is.
    1. **loopt nu**. Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van het verwijderen. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Voor noodgevallen, leer hoe te [ een lopende Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"} afbreken.
 
-   1. **reeds liep MET wachtende stappen.** Verschillende details over deze.\
-      Wanneer een persoon een wachttijdstap ingaat, sluit de persoon zich aan bij de duur en welke STEP van het GETAL om aan terug te keren. Zie het onderstaande voorbeeld.
+   1. **reeds liep MET wachtende stappen.** Verschillende details over deze.
+Wanneer een persoon een wachttijdstap ingaat, sluit de persoon zich aan bij de duur en welke STEP van het GETAL om aan terug te keren. Zie het onderstaande voorbeeld.
 
    **Trigger Slimme Campagnes**
 

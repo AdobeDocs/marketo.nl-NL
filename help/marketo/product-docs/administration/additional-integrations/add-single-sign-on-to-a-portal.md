@@ -4,7 +4,7 @@ description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdo
 title: Eén aanmelding toevoegen aan een portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 >[!IMPORTANT]
 >
->Dit geldt niet voor abonnementen op Adobe Identity. Voor abonnementen op Adobe Identity wordt Single Sign On ingesteld op Adobe Org-niveau in Adobe Admin Console. Adobe Admin Console ondersteunt momenteel alleen SP-gestarte bestanden. [ leer hier meer ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
+>Dit geldt niet voor abonnementen op Adobe Identity. Voor abonnementen op Adobe Identity wordt Single Sign On ingesteld op Adobe Org-niveau in Adobe Admin Console. Adobe Admin Console ondersteunt momenteel alleen SP-gestarte bestanden. [ leer hier meer ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ description: Vraag genereren - Marketo Docs - Productdocumentatie
 title: Vragengeneratie
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
 ## Vragen genereren {#generate-questions}
 
-1. Klik onder Generative AI op **[!UICONTROL Assisted responses]**.
+1. Klik onder Generatieve AI op **[!UICONTROL Assisted responses]** .
 
    ![](assets/question-generation-1.png)
 
@@ -24,13 +24,13 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
    ![](assets/question-generation-2.png)
 
-1. Geef uw taak een naam en voer een bron-URL (maximaal 10) in waaruit alle inhoud wordt geëxtraheerd. Voer de gewenste onderwerpen/trefwoorden in en druk op Enter op het toetsenbord. Klik wanneer gereed **[!UICONTROL Generate]**.
+1. Geef uw taak een naam en voer een bron-URL (maximaal 10) in waaruit alle inhoud wordt geëxtraheerd. Voer de gewenste onderwerpen/trefwoorden in en druk op Enter op het toetsenbord. Klik op **[!UICONTROL Generate]** als u klaar bent.
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >Om ervoor te zorgen dat Marketo Engage inhoud van verstrekte URLs kan schrapen, moet u verscheidene IP adressen eerst lijsten van gewenste personen. [Zie hieronder voor meer informatie](#ip-addresses-to-allowlist).
+   >Om ervoor te zorgen dat Marketo Engage inhoud van verstrekte URLs kan schrapen, moet u verscheidene IP adressen eerst lijsten van gewenste personen. [ zie hieronder voor details ](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
 >[!NOTE]
 >
->Gegenereerde vragen en antwoorden kunnen ook worden weergegeven in het dialoogvenster [Responsbibliotheek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>De geproduceerde vragen en de antwoorden zijn ook viewable in de [ bibliotheek van de Reactie ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Zoek de gewenste taak en klik op het downloadpictogram naast de naam ervan.
 
@@ -60,15 +60,15 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
    ![](assets/question-generation-7.png)
 
-1. In het Excel-bestand **[!DNL Task details]** Hierin worden verschillende details over de taak weergegeven, waaronder instructies over het toevoegen/bewerken van vragen en/of antwoorden.
+1. In het Excel-bestand toont **[!DNL Task details]** alleen dat, diverse details over de taak, waaronder instructies over het toevoegen/bewerken van vragen en/of antwoorden.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >Als u toch besluit om add-vragen en/of antwoorden in bulk te verzenden/bewerken, [leren hoe u ze hier opnieuw kunt uploaden](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >Als u beslist om vragen en/of antwoorden in bulk toe te voegen/uit te geven, [ leert hoe te om hen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) opnieuw te uploaden.
 
-1. De **[!DNL Q&Rs]** bevat aanvullende details, zoals de gegenereerde vragen en antwoorden.
+1. Het tabblad **[!DNL Q&Rs]** bevat aanvullende details, zoals de gegenereerde vragen en antwoorden.
 
    ![](assets/question-generation-9.png)
 

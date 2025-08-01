@@ -4,7 +4,7 @@ description: Opties voor bulkverzending - Marketo Docs - Productdocumentatie
 title: Opties voor bulkverzending
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -17,41 +17,41 @@ Het bulksgewijs verzenden van e-mails is een geweldige manier om uw betrokkenhei
 
 **E-mail van de Groep vs. Uitgezocht en verzendt**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span> verzend </span> <span> Type </span> </p></th> 
-   <th><p><span> Max Aantal van </span> <span> E </span> <span> post </span> </p></th> 
-   <th><p><span> geïnitieerde </span> <span> verzendt door </span></p></th> 
-   <th><p><span> Bulk </span> <span> geeft E-mail </span> uit </p></th> 
-   <th><p><span> geeft </span> uit <span> elk E-mail </span> <span> uniek </span> </p></th> 
-   <th><p><span> Malplaatje &amp; </span> <span> Dynamische Steun van het Gebied </span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span> E-mail van de Groep </span> </p></td> 
-   <td><p><span> 1.000 </span> </p></td> 
-   <td><p><span> selecteer een groep en klik </span> <span> de </span> <span> "knoop van de Acties van de Groep" </span> <span>, of typ de groepsnaam in aan gebied. </span> </p></td> 
-   <td><p><span> ja </span> </p></td> 
-   <td><p><span> Nr </span> </p></td> 
-   <td><p><span> ja </span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span> Uitgezochte </span> <span> en </span> <span> verzenden </span> </p></td> 
-   <td><p><span> 200 </span> </p></td> 
-   <td><p><span> Uitgezochte mensen in het net en klik de "E-mail Geselecteerde"knoop in de actiebar </span> <span>, of </span> <span> of typeontvangers in bulke-mail </span> <span> sidebar </span> <span>.</span></p></td> 
-   <td><p><span> ja </span> </p></td> 
-   <td><p><span> ja </span> </p></td> 
-   <td><p><span> ja </span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span> verzend </span> <span> Type </span> </p></th>
+   <th><p><span> Max Aantal van </span> <span> E </span> <span> post </span> </p></th>
+   <th><p><span> geïnitieerde </span> <span> verzendt door </span></p></th>
+   <th><p><span> Bulk </span> <span> geeft E-mail </span> uit </p></th>
+   <th><p><span> geeft </span> uit <span> elk E-mail </span> <span> uniek </span> </p></th>
+   <th><p><span> Malplaatje &amp; </span> <span> Dynamische Steun van het Gebied </span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span> E-mail van de Groep </span> </p></td>
+   <td><p><span> 1.000 </span> </p></td>
+   <td><p><span> selecteer een groep en klik </span> <span> de </span> <span> "knoop van de Acties van de Groep" </span> <span>, of typ de groepsnaam in aan gebied. </span> </p></td>
+   <td><p><span> ja </span> </p></td>
+   <td><p><span> Nr </span> </p></td>
+   <td><p><span> ja </span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span> Uitgezochte </span> <span> en </span> <span> verzenden </span> </p></td>
+   <td><p><span> 200 </span> </p></td>
+   <td><p><span> Uitgezochte mensen in het net en klik de "E-mail Geselecteerde"knoop in de actiebar </span> <span>, of </span> <span> of typeontvangers in bulke-mail </span> <span> sidebar </span> <span>.</span></p></td>
+   <td><p><span> ja </span> </p></td>
+   <td><p><span> ja </span> </p></td>
+   <td><p><span> ja </span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Gebruikend E-mail van de Groep**

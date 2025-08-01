@@ -1,8 +1,8 @@
 ---
 description: Tabblad Instellingen - Marketo-documenten - Productdocumentatie
 title: Tabblad Instellingen
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -15,11 +15,11 @@ Het lusje van Montages is huis aan al uw campagnemontages, met inbegrip van de z
 
 Het bevat de volgende drie secties.
 
-* **Kwalificatieregels**: Hiermee bepaalt u hoe vaak elke persoon de slimme-campagnestroom kan doorlopen.
+* **Regels van de Kwalificatie**: Bepaalt hoeveel tijden elke persoon door de Slimme stroom van de Campagne kan lopen.
 
-* **Afzonderlijke regels**: Kan worden gebruikt om enkelvoudige reeksen onmiddellijk of in de toekomst te plannen.
+* **Individuele looppas**: Kan worden gebruikt om enige looppas of in de toekomst te plannen.
 
-* **Herhaling**: Wordt gebruikt om een dagelijkse, wekelijkse of maandelijkse recidive te plannen.
+* **Herhaling**: Gebruikt om een dagelijkse, wekelijkse, of maandelijkse herhaling te plannen.
 
   ![](assets/settings-tab-1.png)
 

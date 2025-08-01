@@ -4,7 +4,7 @@ description: Een SFDC-campagne synchroniseren met een programma - Marketo Docs -
 title: Een SFDC-campagne synchroniseren met een programma
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Een SFDC-campagne synchroniseren met een programma {#sync-an-sfdc-campaign-with-a-program}
 
-Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce] campagnes om dezelfde lijst van personen in beide systemen bij te houden, met inbegrip van hun status. Laten we beginnen!
+Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce] -campagnes om dezelfde lijst met personen op beide systemen bij te houden, inclusief hun status. Laten we beginnen!
 
 >[!PREREQUISITES]
 >
->U moet [enable [!DNL Salesforce] campagnecorrectie](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} eerst.
+>U zult [  [!DNL Salesforce]  campagnecsync ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} eerst moeten toelaten.
 
 >[!CAUTION]
 >
->Wanneer een SFDC-campagne wordt gesynchroniseerd met een Marketo Engage-programma, worden de geïmpliceerde SFDC-acties (bijv. toevoegen aan SFDC-campagne, synchroniseren met SFDC) uitgeschakeld voor onderliggende campagnes van het programma.
+>Wanneer u een SFDC-campagne synchroniseert met een Marketo Engage-programma, worden de impliciete SFDC-acties (bijv. toevoegen aan SFDC-campagne, synchroniseren met SFDC) uitgeschakeld voor onderliggende campagnes van het programma.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,17 +31,17 @@ Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Klikken **[!UICONTROL Program Actions]** selecteert u vervolgens **[!UICONTROL Salesforce Campaign Sync]**.
+1. Klik op **[!UICONTROL Program Actions]** en selecteer vervolgens **[!UICONTROL Salesforce Campaign Sync]** .
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Selecteren **[!UICONTROL Create New]** of kies een bestaande [!DNL Salesforce] campagne.
+1. Selecteer **[!UICONTROL Create New]** of kies een bestaande [!DNL Salesforce] -campagne.
 
    >[!TIP]
    >
-   >Als u een bestaande [!DNL Salesforce] campagne, zorg ervoor [overeenkomen met de programmastatussen van de [!DNL Salesforce] campagne en het Marketo-programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"}.
+   >Als u een bestaande [!DNL Salesforce] campagne selecteert, zorg ervoor [ de programmastatussen van de  [!DNL Salesforce]  campagne en het programma van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} aanpast.
 
-1. Voer een naam in voor de nieuwe campagne en klik op **[!UICONTROL Save]**.
+1. Voer een naam in voor de nieuwe campagne en klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-7-22-8-3a57-3a19.png)
 

@@ -4,7 +4,7 @@ description: Importeren [!UICONTROL Named Accounts] - Marketo Docs - Productdocu
 title: Importeren [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -65,40 +65,40 @@ Beschikt de CSV al over een volledig overzicht van de potentiële doelrekeningen
 
 Scenario&#39;s wanneer u dedupliceert [!UICONTROL by Account Name] :
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Het invoeren van verslag met bestaande <span class="uicontrol"> Benoemde naam van de Rekening </span></strong></td> 
-   <td><p>We zullen de bestaande record bijwerken</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>Het invoeren van verslag met nieuwe <span class="uicontrol"> Benoemde naam van de Rekening </span></strong></td> 
-   <td>We maken een nieuw record</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Het invoeren van verslag met bestaande <span class="uicontrol"> Benoemde naam van de Rekening </span></strong></td>
+   <td><p>We zullen de bestaande record bijwerken</p></td>
+  </tr>
+  <tr>
+   <td><strong>Het invoeren van verslag met nieuwe <span class="uicontrol"> Benoemde naam van de Rekening </span></strong></td>
+   <td>We maken een nieuw record</td>
+  </tr>
+ </tbody>
 </table>
 
 Scenario&#39;s wanneer u dedupliceert [!UICONTROL by Domain Name] :
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Record met een nieuwe accountnaam en een nieuwe domeinnaam importeren</strong></td> 
-   <td>Wij zullen een nieuwe <span class="uicontrol"> Benoemde Rekening </span> met verstrekte info tot stand brengen</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Record importeren met een bestaande accountnaam en bestaande domeinnaam</strong></td> 
-   <td>Wij zullen de bestaande <span class="uicontrol"> Genoemde Rekening </span> bijwerken</td> 
-  </tr> 
-   <tr> 
-   <td><strong>Record importeren met een nieuwe accountnaam en een bestaande domeinnaam</strong></td> 
-   <td>Wij zullen de nieuwe rekeningsnaam aan de bestaande <span class="uicontrol"> Benoemde Rekening </span> toevoegen die de domeinnaam aanpast en andere info (d.w.z. Industrie, Staat, enz.) bijwerkt</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Het invoeren van verslag met bestaand <span class="uicontrol"> Genoemde Naam van de Rekening </span> &amp; nieuwe domeinnaam</strong></td> 
-   <td>Wij zullen de nieuwe domeinnaam aan de bestaande <span class="uicontrol"> Benoemde Rekening </span> toevoegen die de rekeningsnaam aanpast en andere info (d.w.z. Industrie, Staat, enz.) bijwerkt</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Record met een nieuwe accountnaam en een nieuwe domeinnaam importeren</strong></td>
+   <td>Wij zullen een nieuwe <span class="uicontrol"> Benoemde Rekening </span> met verstrekte info tot stand brengen</td>
+  </tr>
+  <tr>
+   <td><strong>Record importeren met een bestaande accountnaam en bestaande domeinnaam</strong></td>
+   <td>Wij zullen de bestaande <span class="uicontrol"> Genoemde Rekening </span> bijwerken</td>
+  </tr>
+   <tr>
+   <td><strong>Record importeren met een nieuwe accountnaam en een bestaande domeinnaam</strong></td>
+   <td>Wij zullen de nieuwe rekeningsnaam aan de bestaande <span class="uicontrol"> Benoemde Rekening </span> toevoegen die de domeinnaam aanpast en andere info (d.w.z. Industrie, Staat, enz.) bijwerkt</td>
+  </tr>
+  <tr>
+   <td><strong>Het invoeren van verslag met bestaand <span class="uicontrol"> Genoemde Naam van de Rekening </span> &amp; nieuwe domeinnaam</strong></td>
+   <td>Wij zullen de nieuwe domeinnaam aan de bestaande <span class="uicontrol"> Benoemde Rekening </span> toevoegen die de rekeningsnaam aanpast en andere info (d.w.z. Industrie, Staat, enz.) bijwerkt</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

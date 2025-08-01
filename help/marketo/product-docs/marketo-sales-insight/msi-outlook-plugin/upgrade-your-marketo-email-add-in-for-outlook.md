@@ -4,7 +4,7 @@ description: Upgrade uw Marketo-invoegtoepassing voor e-mail voor  [!DNL Outlook
 title: Upgrade uw Marketo-invoegtoepassing voor e-mail voor  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -23,98 +23,98 @@ Als er een nieuwe versie van de Marketo E-mailinvoegtoepassing voor [!DNL Outloo
 
 Download het installatieprogramma dat geschikt is voor uw versie van Microsoft [!DNL Outlook] .
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th colspan="2">Uitnodiging voor één gebruiker installeren</th> 
-   <th colspan="2">Installatie van Enterprise Key</th> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="dnl"> Versie van 0&rbrace; Vooruitzichten &lbrace;</span></strong></td> 
-   <td><strong>32-bits</strong></td> 
-   <td><strong>64-bits</strong></td> 
-   <td><strong>32-bits</strong></td> 
-   <td><strong>64-bits</strong></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl"> Vooruitzichten </span> 2000</td> 
-   <td>Niet ondersteund</td> 
-   <td>NVT</td> 
-   <td>Niet ondersteund</td> 
-   <td>NVT</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook 2003</span></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td>NVT</td> 
-   <td>Niet ondersteund</td> 
-   <td>NVT</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl"> Vooruitzichten </span> 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td>NVT</td> 
-   <td>Niet ondersteund</td> 
-   <td>NVT</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl"> Vooruitzichten </span> 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl"> Vooruitzichten </span> 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl"> Vooruitzichten </span> 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl"> Vooruitzichten </span> 2019</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl"> Vooruitzichten </span> voor Mac</td> 
-   <td>Niet ondersteund</td> 
-   <td>Niet ondersteund</td> 
-   <td>Niet ondersteund</td> 
-   <td>Niet ondersteund</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl"> Web App van de Vooruitzichten </span></td> 
-   <td colspan="1">Niet ondersteund</td> 
-   <td colspan="1">Niet ondersteund</td> 
-   <td colspan="1">Niet ondersteund</td> 
-   <td colspan="1">Niet ondersteund</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl"> Bureau </span> 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th colspan="2">Uitnodiging voor één gebruiker installeren</th>
+   <th colspan="2">Installatie van Enterprise Key</th>
+  </tr>
+  <tr>
+   <td><strong><span class="dnl"> Versie van 0} Vooruitzichten {</span></strong></td>
+   <td><strong>32-bits</strong></td>
+   <td><strong>64-bits</strong></td>
+   <td><strong>32-bits</strong></td>
+   <td><strong>64-bits</strong></td>
+  </tr>
+  <tr>
+   <td><span class="dnl"> Vooruitzichten </span> 2000</td>
+   <td>Niet ondersteund</td>
+   <td>NVT</td>
+   <td>Niet ondersteund</td>
+   <td>NVT</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook 2003</span></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td>NVT</td>
+   <td>Niet ondersteund</td>
+   <td>NVT</td>
+  </tr>
+  <tr>
+   <td><span class="dnl"> Vooruitzichten </span> 2007</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td>NVT</td>
+   <td>Niet ondersteund</td>
+   <td>NVT</td>
+  </tr>
+  <tr>
+   <td><span class="dnl"> Vooruitzichten </span> 2010</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl"> Vooruitzichten </span> 2013</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl"> Vooruitzichten </span> 2016</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl"> Vooruitzichten </span> 2019</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl"> Vooruitzichten </span> voor Mac</td>
+   <td>Niet ondersteund</td>
+   <td>Niet ondersteund</td>
+   <td>Niet ondersteund</td>
+   <td>Niet ondersteund</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl"> Web App van de Vooruitzichten </span></td>
+   <td colspan="1">Niet ondersteund</td>
+   <td colspan="1">Niet ondersteund</td>
+   <td colspan="1">Niet ondersteund</td>
+   <td colspan="1">Niet ondersteund</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl"> Bureau </span> 365*</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td>
+  </tr>
+ </tbody>
 </table>
 
 &#42; Bureau 365 versie: De cliënt van vensters slechts (op Vensters 10, Vensters 11, Onderneming, of Pro).

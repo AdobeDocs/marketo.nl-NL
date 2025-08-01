@@ -4,7 +4,7 @@ description: Het gebruiken van Bulkacties in  [!DNL Salesforce]  Klassiek - de D
 title: Het gebruiken van Bulkacties in  [!DNL Salesforce]  Klassiek
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -35,11 +35,11 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 1. Er verschijnt een MSC-e-mailbericht. Het bevat de volgende functies:
 
-   a. &quot;[!UICONTROL To]&quot;gebied toont &quot;[!UICONTROL All Recipients]&quot; - dit beantwoordt aan de lijst van lood u in de Mening van de Lijst van de Leiding hebt gekozen\
-   b. Deze lijst is zichtbaar op het linkerpaneel genoemd &quot;[!UICONTROL Bulk Compose]&quot; - u kunt hier ontvangers toevoegen/verwijderen\
-   c. U kunt een sjabloon kiezen of uw eigen e-mail maken\
-   d. U kunt dynamische velden voorvertonen die in uw e-mail worden ingevuld\
-   e. U kunt het e-mailbericht direct verzenden of plannen om het op een later tijdstip te verzenden
+   a. &quot;[!UICONTROL To]&quot;gebied toont &quot;[!UICONTROL All Recipients]&quot; - dit beantwoordt aan de lijst van lood u in de Mening van de Lijst van de Leiding hebt gekozen
+b. Deze lijst is zichtbaar op het linkerpaneel genoemd &quot;[!UICONTROL Bulk Compose]&quot; - u kunt ontvangers hier toevoegen/verwijderen
+c. U kunt een sjabloon kiezen of uw eigen e-mail maken
+d. U kunt dynamische velden voorvertonen die in uw e-mail worden ingevuld
+e. U kunt het e-mailbericht direct verzenden of plannen om het op een later tijdstip te verzenden
 
    ![](assets/three-4.png)
 

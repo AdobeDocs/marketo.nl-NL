@@ -3,7 +3,7 @@ description: Lijst met vergaderingen - Marketo-documenten - productdocumentatie
 title: Lijst met vergaderingen
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschi
 
 >[!NOTE]
 >
->Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de betrokkenheid van de Dynamic Chat van de bezoeker ontvangen.
+>Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de overeenkomst van Dynamic Chat van de bezoeker ontvangen.
 
 ## Mislukte meldingen van handelingen {#failed-action-notifications}
 

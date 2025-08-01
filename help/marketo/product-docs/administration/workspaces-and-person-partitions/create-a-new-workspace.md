@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360311
-description: Een nieuwe werkruimte maken - Marketo Docs - Productdocumentatie
-title: Een nieuwe werkruimte maken
+description: Een nieuwe Workspace maken - Marketo Docs - Productdocumentatie
+title: Een nieuwe Workspace maken
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
 
-# Een nieuwe werkruimte maken {#create-a-new-workspace}
+# Een nieuwe Workspace maken {#create-a-new-workspace}
 
 De werkruimten zijn nuttig om uw bedrijf te verdelen. De redenen voor het instellen van werkruimten zijn onder meer:
 
@@ -22,17 +22,17 @@ Zo maakt u een nieuwe werkruimte.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!NOTE]
 >
->Eerst begrijpen met [Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Begrijp eerst met [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
->Neem contact op met [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Om meer over de beste praktijken van Workspace te leren, gelieve te contacteren {de Professionele Diensten van 0} Marketo [.](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-a-new-workspace-1.png)
 
@@ -44,15 +44,15 @@ Zo maakt u een nieuwe werkruimte.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Voer een **[!UICONTROL Name]** en selecteert u de **[!UICONTROL Person Partitions]** wilt gebruiken. Kies een **[!UICONTROL Primary Person Partition]**. Zorg ervoor dat [persoonlijke partities maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} als je dat nog niet hebt gedaan.
+1. Voer een **[!UICONTROL Name]** in en selecteer de **[!UICONTROL Person Partitions]** die u wilt gebruiken. Kies een **[!UICONTROL Primary Person Partition]** . Zorg ervoor om [ persoonlijke verdelingen ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} tot stand te brengen als u niet reeds hebt.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* De **[!UICONTROL All Person Partitions]** selectievakje betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
+   >* Het selectievakje **[!UICONTROL All Person Partitions]** betekent dat in deze werkruimte alle partities voor personen in het systeem kunnen worden gebruikt.
    >
-   >* De **[!UICONTROL Primary Person Partition]** fungeert als de standaardinstelling en is waar alle personen worden toegewezen.
+   >* De instructie **[!UICONTROL Primary Person Partition]** fungeert als de standaardinstelling en is de locatie waar alle personen worden toegewezen.
 
    >[!IMPORTANT]
    >

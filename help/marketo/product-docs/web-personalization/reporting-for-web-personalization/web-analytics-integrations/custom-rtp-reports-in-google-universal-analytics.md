@@ -4,7 +4,7 @@ description: Aangepaste RTP-rapporten in Google Universal Analytics - Marketo Do
 title: Aangepaste RTP-rapporten in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 1%
@@ -64,41 +64,41 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
 1. In de **sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Tabnaam 
-    </div></th> 
-   <th> 
+      Tabnaam
+    </div></th>
+   <th>
     <div>
       Dimension Drill downs
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Marktsegment</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Groep</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Categorie</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Organisaties</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Marktsegment</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Groep</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Categorie</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Organisaties</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Stel geen filters in en stel dit rapport in op beschikbaar voor **[!UICONTROL All Web Site Data]** (of wijzig indien van toepassing voor specifieke analytische account).
@@ -135,88 +135,88 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. In de **2&rbrace; sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
+1. In de **2} sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Tabnaam 
-    </div></th> 
-   <th> 
+      Tabnaam
+    </div></th>
+   <th>
     <div>
-      Dimension Drill downs 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Alle betrokkenheid</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Betrokkenheid van ABM</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Betrokkenheid per rubriek</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Betrokkenheid per groep</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Betrokkenheid van de industrie</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Dimension Drill downs
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Alle betrokkenheid</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Betrokkenheid van ABM</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Betrokkenheid per rubriek</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Betrokkenheid per groep</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Betrokkenheid van de industrie</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Stel de volgende filters in:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      Veld 
-    </div></th> 
-   <th> 
+      Veld
+    </div></th>
+   <th>
     <div>
-      Type afstemmen 
-    </div></th> 
-   <th> 
+      Type afstemmen
+    </div></th>
+   <th>
     <div>
-      Waarden 
-    </div></th> 
-   <th colspan="1"> 
+      Waarden
+    </div></th>
+   <th colspan="1">
     <div>
-      Opmerkingen 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>Inclusief</p></td> 
-   <td><p><span class="uicontrol">Gebeurteniscategorie</span></p></td> 
-   <td>Regex</td> 
-   <td>RTP-Campagnes|RTP-Aanbevelingen|RTP-Segmenten</td> 
-   <td colspan="1">Hiermee filtert u alle andere aangepaste gebeurtenissen die niet gerelateerd zijn aan RTP</td> 
-  </tr> 
-  <tr> 
-   <td>Uitsluiten</td> 
-   <td><span class="uicontrol">Gebeurtenislabel</span></td> 
-   <td>Regex</td> 
-   <td>Aantal</td> 
-   <td colspan="1">Hiermee kunt u vanuit uw rapportencampagne filteren met # in de naam van de campagne</td> 
-  </tr> 
- </tbody> 
+      Opmerkingen
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>Inclusief</p></td>
+   <td><p><span class="uicontrol">Gebeurteniscategorie</span></p></td>
+   <td>Regex</td>
+   <td>RTP-Campagnes|RTP-Aanbevelingen|RTP-Segmenten</td>
+   <td colspan="1">Hiermee filtert u alle andere aangepaste gebeurtenissen die niet gerelateerd zijn aan RTP</td>
+  </tr>
+  <tr>
+   <td>Uitsluiten</td>
+   <td><span class="uicontrol">Gebeurtenislabel</span></td>
+   <td>Regex</td>
+   <td>Aantal</td>
+   <td colspan="1">Hiermee kunt u vanuit uw rapportencampagne filteren met # in de naam van de campagne</td>
+  </tr>
+ </tbody>
 </table>
 
 1. Stel dit rapport in op beschikbaar voor **[!UICONTROL All Web Site Data]** (of wijzig indien nodig).

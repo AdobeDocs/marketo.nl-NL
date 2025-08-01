@@ -3,7 +3,7 @@ description: Overzicht Insight Actions - Marketo Docs - Productdocumentatie
 title: Overzicht Insight-handelingstaken
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1305'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Versnel de prospectie-inspanningen met marketing-aangedreven intelligentie en be
 >
 >De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
-Voor een videooverzicht van de Acties van Insight van de Verkoop, [ klik hier ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=nl-NL){target="_blank"}.
+Voor een videooverzicht van de Acties van Insight van de Verkoop, [ klik hier ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

@@ -4,7 +4,7 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 13%
@@ -26,48 +26,48 @@ ht-degree: 13%
 _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
 
 <table>
- <tbody> 
-  <tr> 
+ <tbody>
+  <tr>
    <th width="250px">Geen</th>
    <th width="250px">Releasedatum</th>
    <th width="250px">Status</th>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">25 januari</a></td>
    <td>zaterdag 17 januari 2025</td>
    <td>Verzonden</td>
   </tr>
-   <tr> 
+   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">25 maart</a></td>
    <td>zaterdag 28 maart 2025</td>
    <td>Verzonden</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">25 april</a></td>
    <td>25 april</td>
    <td>Verzonden</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">mei '25</a></td>
    <td>zaterdag 23 mei 2025</td>
    <td>Verzonden</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/current.md">25 juli</a></td>
    <td>zaterdag 11 juli 2025</td>
    <td>In uitvoering</td>
   </tr>
-  <tr> 
+  <tr>
    <td>25 augustus</td>
    <td>zaterdag 22 augustus 2025</td>
    <td>Op schema</td>
   </tr>
-  <tr> 
+  <tr>
    <td>25 september</td>
    <td>zaterdag 19 september 2025</td>
    <td>Op schema</td>
   </tr>
-  <tr> 
+  <tr>
    <td>25 oktober</td>
    <td>zaterdag 17 oktober 2025</td>
    <td>Op schema</td>

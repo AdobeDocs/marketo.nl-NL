@@ -2,98 +2,98 @@
 description: Beheer op afstand - Marketo-documenten - Productdocumentatie
 title: Beheer van OP-lead
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
 # Beheer van OP-lead {#op-lead-management}
 
-Dit is een voorbeeld van de beste praktijkwerkschema&#39;s van het loodbeheer, die een Programma van het Standaard van het Marketo Engage gebruiken, om u bij het beheren van verslagen binnen uw gegevensbestand van het Marketo Engage aan uw CRM te helpen.
+Dit is een voorbeeld van de beste praktijkworkflows van het beheer van leads, waarbij een Marketo Engage Default Program wordt gebruikt, om u te helpen bij het beheren van records in uw Marketo Engage-database naar uw CRM.
 
 >[!NOTE]
 >
->In Marketo Engage, worden de verslagen in uw gegevensbestand bedoeld als mensen/persoon. Het beheer van leads in dit voorbeeld verwijst naar de records in uw CRM.
+>In Marketo Engage worden records in uw database aangeduid als personen/personen. Het beheer van leads in dit voorbeeld verwijst naar de records in uw CRM.
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html) pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanaal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanaal</th>
    <th>Lidmaatschapsstatus</th>
    <th>Analysegedrag</th>
    <th>Programmatype</th>
-  </tr> 
-  <tr> 
-   <td>Operationeel</td> 
+  </tr>
+  <tr>
+   <td>Operationeel</td>
    <td>01-Lid</td>
    <td>Operationeel</td>
    <td>Standaard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Het programma bevat de volgende elementen {#program-contains-the-following-assets}
+## Het programma bevat de volgende Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Sjabloonnaam</th>
    <th>Elementnaam</th>
-  </tr> 
-  <tr> 
-   <td>Slimme campagne</td> 
+  </tr>
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>01 - Nieuwe personen synchroniseren met CRM</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>02 - Marketingkwalificatie</td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01 - E-mail - WAARSCHUWING - MQL</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Campagnes</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>E-mailwaarschuwing</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-lead-management-1.png)
 
 ## Conflictregels {#conflict-rules}
 
-* **Programmatags**
-   * Tags maken in dit abonnement - _Aanbevolen_
+* **de Markeringen van het Programma**
+   * Creeer markeringen in dit abonnement - _Geadviseerde_
    * Negeren
 
-* **Landingspagina-sjabloon met dezelfde naam**
-   * Oorspronkelijke sjabloon kopiëren - _Aanbevolen_
+* **het Bestaan malplaatje van de Pagina met de zelfde naam**
+   * Origineel malplaatje van het exemplaar - _geadviseerde_
    * Doelsjabloon gebruiken
 
-* **Afbeeldingen met dezelfde naam**
-   * Beide bestanden behouden - _Aanbevolen_
+* **Beelden met de zelfde naam**
+   * Houd beide dossiers - _geadviseerde_
    * Item in dit abonnement vervangen
 
-* **E-mailsjablonen met dezelfde naam**
-   * Beide sjablonen behouden - _Aanbevolen_
+* **E-mailmalplaatjes met de zelfde naam**
+   * Houd beide malplaatjes - _geadviseerde_
    * Bestaande sjabloon vervangen
 
 ## Aanbevolen procedures {#best-practices}

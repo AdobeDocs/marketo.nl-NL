@@ -4,7 +4,7 @@ description: Een landingspaginasjabloon in vrije vorm maken - Marketo Docs - Pro
 title: Een sjabloon voor vrije bestemmingspagina maken
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
 
    >[!NOTE]
    >
-   >Selecteer **[!UICONTROL Disable Munchkin Tracking]** als u wilt voorkomen dat formulieren vooraf worden ingevuld, of als u alleen het webgedrag op een bepaalde pagina wilt bijhouden.\
+   >Selecteer **[!UICONTROL Disable Munchkin Tracking]** als u wilt voorkomen dat formulieren vooraf worden ingevuld, of als u alleen het webgedrag op een bepaalde pagina wilt bijhouden.
    >Selecteer **[!UICONTROL Validate Mobile Compatibility]** om ervoor te zorgen dat de code compatibel is met mobiele apparaten.
 
    >[!MORELIKETHIS]

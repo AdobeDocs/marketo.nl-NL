@@ -3,10 +3,10 @@ description: Opmerkingen bij de release - maart 2023 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - maart 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -16,52 +16,52 @@ Hieronder vindt u alle functies die zijn opgenomen in de release van 23 maart. R
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **31 maart 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **31 Maart, 2023**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken worden vrijgegeven. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
 
-### Marketo Engage Moderne UX {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Verbeterd Gebruikt door Component voor de Details van het Malplaatje van de Landingspagina en de Details van de Vorm**: Het tabblad Nieuw Wordt gebruikt door UI bevat aanvullende informatie in Sjabloongegevens voor bestemmingspagina en Formulierdetails, waaronder meer informatie over elementen die een geselecteerd element hebben gebruikt. Analyseer op lange lijsten met middelen door de zoek-, sorteer- en filtermogelijkheden uit te voeren.
+* **Verbeterd die door Component voor de Details van het Malplaatje van de Landing van de Pagina en de Details van de Vorm** wordt gebruikt: Nieuw die door het lusje UI wordt gebruikt verstrekt extra informatie in de Details van het Malplaatje van de Landing van de Pagina en de Details van de Vorm, met inbegrip van meer details betreffende activa die een geselecteerd element hebben gebruikt. Analyseer op lange lijsten met middelen door de zoek-, sorteer- en filtermogelijkheden uit te voeren.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Schakel Schakelaar in- en uitschakelen en Klassieke ervaring uit met het landen van pagina&#39;s**: Dankzij de veroudering van de schakeloptie in-/uitschakelen en de klassieke ervaring voor het porteren van pagina&#39;s kunt u de nieuwe ervaring volledig benutten. Dankzij de nieuwe ervaring kunnen de functies die met deze middelen worden geleverd, volledig worden benut zonder dat er op de oude ervaring moet worden vertrouwd of dat er voortdurend tussen beide ervaringen moet worden gewisseld.
+* **verwijdert de Schakelaar van de Wissel en Klassieke Ervaring van het Aanlanden van Pagina&#39;s**: De Deprecatie van de Schakelaar van de Wissel en de Klassieke Ervaring voor het Aanlanden van Pagina&#39;s zal u helpen de nieuwe ervaring volledig overnemen. Dankzij de nieuwe ervaring kunnen de functies die met deze middelen worden geleverd, volledig worden benut zonder dat er op de oude ervaring moet worden vertrouwd of dat er voortdurend tussen beide ervaringen moet worden gewisseld.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Verbeteringen van de prestaties van structuurknooppunten**: Diegenen met een groot aantal knooppunten zullen de prestaties aanzienlijk verbeteren.
+* **de Verbeteringen van de Prestaties van de Knoop van de Boom**: Die met een groot aantal boomknopen zullen een significante verbetering in prestaties zien.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
@@ -72,14 +72,14 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Upgrade Marketo Facebook Integration voor Facebook Graph API Update**: Met de recente upgrade van Facebook naar Facebook Graph API v15 is er nu een limiet van 500 aangepast publiek dat kan worden gemaakt voor een bepaald advertentieaccount.
+* **Verbetering de Integratie van Marketo Facebook om de Update van de Grafiek API van Facebook te gebruiken**: Met de recente verbetering van Facebook aan de Grafiek API v15 van Facebook, is er nu een grens van 500 douanepubliek die voor een bepaalde advertentierekening kan worden gecreeerd.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
@@ -94,84 +94,84 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 </br>
 
-* **Dialoogbetrokkenheidsrapport voor Dynamic Chat**: Biedt een weergave van de betrokkenheid van dialoogvensters in de loop der tijd, inclusief de mogelijkheid om te filteren op type bezoeker en betrokkenheidstype om gebruikers beter zichtbaar te maken.
+* **het Rapport van de Betrokkenheid van de Dialoog voor Dynamic Chat**: Verstrekt een mening van de betrokkenheid van de Dialoog in tijd, met inbegrip van de capaciteit om door bezoekerstype en betrokkenheidstype te filtreren om betere zichtbaarheid voor gebruikers te verstrekken.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Rollen en machtigingen voor Dynamic Chat**: Introduceert rollen en machtigingen tot Dynamic Chat, zodat beheerders de zichtbaarheid en het gebruik van verschillende delen van de app kunnen beperken tot geselecteerde gebruikerstypen.
+* **Rollen en Toestemmingen voor Dynamic Chat**: Introduceert rollen en toestemmingen aan Dynamic Chat, toestaand beheerders om zicht en gebruik van verschillende gebieden van app aan geselecteerde gebruikerstypes te beperken.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Chatten als programmakanaal voor Dynamic Chat**: Hiermee maakt u een nieuw Chat-programmakanaal om de voortgang van het programma bij te houden voor mensen die door Dynamic Chat zijn aangeschaft. Een markeerteken heeft bijvoorbeeld een programma dat is gekoppeld aan een dialoogvenster Dynamic Chat om nieuwe leads vast te leggen. Ze kunnen dat programma nu toewijzen aan het Chat-kanaal, zodat ze kunnen bijhouden wanneer de leiders lid zijn van het programma en wanneer ze succes hebben geboekt.
+* **Praatje als Kanaal van het Programma voor Dynamic Chat**: Creeert een nieuw &quot;Kanaal van het Programma van het Praatje&quot;om programmavooruitgang voor mensen te volgen die door Dynamic Chat worden verworven. Een markeerteken heeft bijvoorbeeld een programma dat is gekoppeld aan een Dynamic Chat-dialoogvenster om nieuwe leads vast te leggen. Ze kunnen dat programma nu toewijzen aan het Chat-kanaal, zodat ze kunnen bijhouden wanneer de leiders lid zijn van het programma en wanneer ze succes hebben geboekt.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Gecorrigeerde kenmerken voor Dynamic Chat**: Zorgt ervoor dat de afgeleide IP-gegevens (stad, staat, land, enz.) wordt geschreven naar het persoonsregister voor nieuwe personen die door de Dynamic Chat zijn verworven.
+* **Overgenomen Attributen voor Dynamic Chat**: Zorgt ervoor dat de afgeleide IP gegevens (stad, staat, land, enz.) aan het persoonverslag voor nieuwe die mensen door Dynamic Chat worden verworven worden geschreven.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Aanvullende taalondersteuning voor Dynamic Chat**: U kunt nu uit negen ondersteunde talen kiezen om statische inhoud van de Dynamic Chat weer te geven in.
+* **Extra Steun van de Taal voor Dynamic Chat**: U kunt van negen gesteunde talen nu kiezen om statische inhoud van Dynamic Chat in te tonen.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
   </tbody>
 </table>
 
-* **Springen naar knooppunt in Voorvertoning stroomontwerper voor Dynamic Chat**: Springen rechtstreeks naar een knooppunt in Stream Designer vanuit het voorvertoningsvenster.
+* **springen aan Knoop in de Voorproef van Designer van de Stroom voor Dynamic Chat**: Brong direct aan een knoop in de Stroom Designer van het voorproefpaneel.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
+   <td><b>Documentatie-updates</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
@@ -180,4 +180,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar productrelease_**: [Release Webinar Marketo Engage maart en mei 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [ Maart en Mei 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

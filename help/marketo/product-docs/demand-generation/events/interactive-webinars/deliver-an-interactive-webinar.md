@@ -2,7 +2,8 @@
 description: Een interactief webinar leveren - Marketo Docs - Productdocumentatie
 title: Een interactief webinar leveren
 feature: Interactive Webinars
-source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
+exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -83,7 +84,7 @@ Deelnemers kunnen deelnemen aan het webinar door op de gepersonaliseerde koppeli
 
 Het gebied &quot;Gastheer &amp; Presentator&quot; (ook wel &quot;Achtergrond&quot; genoemd) is een privégebied dat zich aan de rechterkant van een vergaderruimte bevindt en dat alleen gastheren en presentatoren kunnen zien. Deze kan worden gebruikt voor samenwerking vóór, tijdens en na een gebeurtenis. Chatten, notities en andere pods gebruiken als achtergrondkanalen in het gebied Host en Presenter.
 
-Om toegang te hebben, selecteer **Gastheer &amp; het gebied van de Presentator** van het ruimte drop-down menu. Leer meer over dit gebied in [ volgend video ](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} .
+Om toegang te hebben, selecteer **Gastheer &amp; het gebied van de Presentator** van het ruimte drop-down menu. Leer meer over dit gebied in [ volgend video ](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}.
 
 ### Besturingselementen voor uitzenden {#broadcast-controls}
 
@@ -91,7 +92,7 @@ De Controle van de uitzending voegt een virtuele groene ruimte aan uw Interactie
 
 De Controles van de uitzending kunnen opstelling zijn beginnen automatisch registrerend nadat u de groene ruimte verlaat. Dit zorgt ervoor dat gastheren niet hoeven te onthouden om de opname handmatig te starten en te stoppen. Als u de uitzending onderbreekt of stopt, wordt de opname ook gepauzeerd of gestopt. Alles is automatisch.
 
-Leer meer over de Controles van de Uitzending [ in deze video ](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"} .
+Leer meer over de Controles van de Uitzending [ in deze video ](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
 
 ### Chatten in opnamen {#chats-in-recordings}
 
@@ -103,7 +104,7 @@ Discussie in het deelvenster Chat wordt niet opgenomen. Het deelvenster Chat maa
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Leer meer over [ het Comité van het Praatje ](https://helpx.adobe.com/nl/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} .
+Leer meer over [ het Comité van het Praatje ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Voorbereidingsmodus {#prepare-mode}
 
@@ -121,21 +122,21 @@ De voorbereidingsmodus gebruiken:
 
 Hiermee schakelt u de voorbereidingsmodus uit en keert u terug naar de actieve indeling.
 
-Leer meer over Voorbereidende Wijze [ in deze video ](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} .
+Leer meer over Voorbereidende Wijze [ in deze video ](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}.
 
 >[!NOTE]
 >
 >* Wijzigingen die worden aangebracht in de live pods worden direct weerspiegeld in de deelnemers.
->* [ het Comité van het Praatje ](https://helpx.adobe.com/nl/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}  maakt geen deel uit van Voorbereidingswijze en om het even welke veranderingen in het zullen onmiddellijk aan de deelnemers nadenken.
+>* [ het Comité van het Praatje ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} maakt geen deel uit van Voorbereidingswijze en om het even welke veranderingen in het zullen onmiddellijk aan de deelnemers nadenken.
 
 ### Toegankelijkheid {#accessibility}
 
 Adobe streeft ernaar presentatoren en deelnemers met een handicap op te nemen door de toegankelijkheid van interactieve webinars te verbeteren. De software wordt voortdurend verbeterd om te voldoen aan de behoeften van alle soorten gebruikers en om te voldoen aan de wereldwijde standaarden, waaronder personen met een visuele, auditieve, mobiliteitsfunctie of andere handicap.
 
-Leer over hoe Adobe Connect hulp voor [ visuele, auditieve, en mobiliteitsbehoeften ](https://helpx.adobe.com/nl/adobe-connect/using/accessibility-features.html){target="_blank"}  verleent.
+Leer over hoe Adobe Connect hulp voor [ visuele, auditieve, en mobiliteitsbehoeften ](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"} verleent.
 
 ### Ondertiteling {#closed-captions}
 
 Ondertiteling is een tekstuele weergave van de audio in een Adobe Connect-ruimte en helpt deelnemers die doof of moeilijk te horen zijn, aan gebeurtenissen deel te nemen. U kunt ondertiteling van audio-inhoud in realtime integreren in gebeurtenissen en deze ondertitels presenteren in de weergave Ondertiteling.
 
-Leer hoe te [ gesloten titels ](https://helpx.adobe.com/nl/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}  toelaten.
+Leer hoe te [ om gesloten titels ](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"} toe te laten.

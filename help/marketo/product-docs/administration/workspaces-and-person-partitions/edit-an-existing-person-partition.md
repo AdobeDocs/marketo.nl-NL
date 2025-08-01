@@ -4,7 +4,7 @@ description: Een bestaande personenpartitie bewerken - Marketo Docs - Productdoc
 title: Een bestaande personenpartitie bewerken
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 1%
@@ -17,13 +17,13 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!PREREQUISITES]
 >
->[Een personenpartitie maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
+>[ creeer een Partitie van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
@@ -31,11 +31,11 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Onder de **[!UICONTROL Person Partitions]** tabblad selecteert u de personenpartitie die u wilt bewerken en klikt u op **[!UICONTROL Edit Person Partition]**.
+1. Selecteer onder het tabblad **[!UICONTROL Person Partitions]** de personenpartitie die u wilt bewerken en klik op **[!UICONTROL Edit Person Partition]** .
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. De personenpartitie invoeren **[!UICONTROL Name]** de **[!UICONTROL Workspaces]** ze horen bij, en klik op **[!UICONTROL Save]**.
+1. Voer de personenpartitie **[!UICONTROL Name]** in, de **[!UICONTROL Workspaces]** waartoe ze behoren en klik op **[!UICONTROL Save]** .
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

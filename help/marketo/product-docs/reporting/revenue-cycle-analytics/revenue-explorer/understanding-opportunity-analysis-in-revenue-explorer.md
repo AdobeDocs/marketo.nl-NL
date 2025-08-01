@@ -4,10 +4,10 @@ description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten -
 title: De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -31,13 +31,13 @@ Hier zijn een paar rapporten u in het gebied van de Analyse van de Kans kunt tot
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. Opportunity gesloten door bron van lead
+1. Opportunity gesloten door Source voor leads
 
    In dit rapport worden alle mogelijkheden die door de loodbron zijn gesloten, verdeeld en krijgt u een duidelijk overzicht van welke bronnen wel en welke niet werken.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Te sluiten tijd op bron
+1. Tijd om te sluiten door Source
 
    In dit verslag wordt de relatie getoond tussen de gemiddelde dagen om een kans te sluiten en de leidende bron.
 
@@ -55,7 +55,7 @@ Hier zijn een paar rapporten u in het gebied van de Analyse van de Kans kunt tot
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimension en maatregelen voor opportuniteitsanalyse {#opportunity-analysis-dimensions-and-measures}
+## Dimensies en maatregelen van opportuniteitsanalyse {#opportunity-analysis-dimensions-and-measures}
 
 De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteitsgerelateerde dimensies en opportuniteitsgerelateerde maatregelen. Gebruik deze dimensies en maatregelen van de opportuniteitsanalyse om specifieke vragen in uw rapport te beantwoorden.
 
@@ -84,8 +84,8 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
    | E-mailadres | E-mailadres van lead |
    | Beroep | Functie van leider |
    | Volledige naam | Volledige naam van lead |
-   | Oorspronkelijk brontype | Origineel brontype van lead |
-   | Brontype registreren | Geregistreerde brontype van lead |
+   | Oorspronkelijk Source-type | Origineel brontype van lead |
+   | Source-type registreren | Geregistreerde brontype van lead |
    | E-mailadres van eigenaar van lead | E-mailadres van eigenaar van lead |
    | Functie van eigenaar van lead | Functie van eigenaar van lead |
    | Naam eigenaar lead | Naam van eigenaar van lead |
@@ -97,9 +97,9 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
    | Dimension | Beschrijving |
    |---|---|
    | Lead gemaakt jaar | Het jaar waarin de lead wordt gemaakt |
-   | Lood gemaakt kwartier | Het kwart wanneer de lead wordt gemaakt |
+   | Lood gemaakt, kwartier | Het kwart wanneer de lead wordt gemaakt |
    | Maand voor lead | De maand waarin de lead wordt gemaakt |
-   | Nieuwe lead-week | De week waarin de lead wordt gemaakt |
+   | Nieuwe lead week | De week waarin de lead wordt gemaakt |
    | Aanmaakdatum lead | De datum waarop de lead wordt gemaakt |
 
 1. Opportuniteitskenmerken
@@ -110,7 +110,7 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
    | Opportunity Forecast-categorie | Opportuniteitsprognoscategorie |
    | Naam opportunity | Naam opportunity |
    | Opportunity Stage | Opportunity-fase |
-   | Type opportunity | Het type Opportunity |
+   | Type opportunity | Type opportunity |
    | Opportunity Won | Is deze kans gesloten en gewonnen? |
    | Door marketing beïnvloed opportuniteit | Deze markering geeft aan of een van de leads/contact is verkregen door of is geslaagd in een marketingprogramma. Alleen programma&#39;s waarvoor een bepaalde periode geldt, worden in aanmerking genomen. |
 
@@ -153,6 +153,6 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
 
 >[!MORELIKETHIS]
 >
->* [Een rapport van de inkomstenverkenner maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [ creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [ Abonneren aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

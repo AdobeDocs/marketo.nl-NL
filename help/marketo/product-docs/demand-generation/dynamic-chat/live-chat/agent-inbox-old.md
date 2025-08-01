@@ -4,7 +4,7 @@ title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 >[!IMPORTANT]
 >
->**Dit wordt genegeerd** de [beschikbaarheid van livechat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
+>**dit zal** met voeten treden de [ levende praatjebeschikbaarheid ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 ## Live Chatmeldingen {#live-chat-notifications}
 
-Meer informatie over meldingen in het dialoogvenster [Live Chat-overzicht](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Leer meer over berichten in het [ Levende Overzicht van het Praatje ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Gesprek {#conversations}
 
@@ -53,7 +53,7 @@ Op de rechterkant van het scherm van Agent Inbox, zult u (van boven tot onder) h
 
 ## Een sessie beëindigen {#end-a-session}
 
-De agenten hebben de capaciteit een zitting manueel te beëindigen eenvoudig door te klikken **Sessie beëindigen** naast de bezoekersinformatie.
+De agenten hebben de capaciteit om een zitting eenvoudig manueel te eindigen door de **zitting van het Eind** knoop naast de bezoekersinformatie te klikken.
 
 ![](assets/agent-inbox-6.png)
 
@@ -75,7 +75,7 @@ Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda v
 
    ![](assets/agent-inbox-8.png)
 
-1. Kies de gewenste agentenkalender en klik **Verzenden**.
+1. Kies de gewenste agentenkalender en klik **verzenden**.
 
    ![](assets/agent-inbox-9.png)
 

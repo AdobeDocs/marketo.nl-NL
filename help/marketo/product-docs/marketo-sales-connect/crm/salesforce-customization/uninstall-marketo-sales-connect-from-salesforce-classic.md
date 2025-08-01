@@ -2,7 +2,7 @@
 description: Marketo Sales Connect verwijderen uit Salesforce Classic - Marketo Docs - Productdocumentatie
 title: Marketo Sales Connect verwijderen uit Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 0%
@@ -255,9 +255,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Laatste marketingservice</td>
   <td>Laatste inkomende betrokkenheid van Marketing</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Gegevens en tijd</td>
  </tr>
@@ -265,9 +265,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Datum laatste marketingservice</td>
   <td>Tijdstempel voor betrokkenheid bij marketing</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Gegevens en tijd</td>
  </tr>
@@ -275,9 +275,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Laatste marketingservice</td>
   <td>Beschrijving van de betrokkenheid</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Tekst</td>
  </tr>
@@ -285,9 +285,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Last Marketing Engagement Source</td>
   <td>Source van marketingovereenkomst</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Tekst</td>
  </tr>
@@ -295,9 +295,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Last Marketing Engagement Type</td>
   <td>Soort betrokkenheid (bijv. webactiviteit)</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Tekst</td>
  </tr>
@@ -305,9 +305,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Laatste activiteit door verkoop</td>
   <td>Laatste uitgaande activiteit uitgevoerd door het verkoopteam</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Gegevens en tijd</td>
  </tr>
@@ -315,9 +315,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Laatste reactie</td>
   <td>Laatste e-mailantwoord op e-mail over verkoop</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Gegevens en tijd</td>
  </tr>
@@ -325,9 +325,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Huidige verkoopcampagne</td>
   <td>Logs naam van de MSC campagne de contact/lood is op</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Tekst</td>
  </tr>
@@ -335,9 +335,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Laatste verkoopservice</td>
   <td>Laatste inkomende betrokkenheid van Sales</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Gegevens en tijd</td>
  </tr>
@@ -345,9 +345,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>MSC - Weigeren</td>
   <td>Veld Weigeren</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
   <td>Selectievakje</td>
  </tr>
@@ -363,9 +363,9 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <td>[!UICONTROL Send MSC Email]</td>
   <td>E-mails over verkopen verzenden van [!DNL Salesforce]</td>
   <td>
-  <p>Account 
-  <p>Contact 
-  <p>Lood 
+  <p>Account
+  <p>Contact
+  <p>Lood
   <p>Opportunity</td>
  </tr>
  <tr>

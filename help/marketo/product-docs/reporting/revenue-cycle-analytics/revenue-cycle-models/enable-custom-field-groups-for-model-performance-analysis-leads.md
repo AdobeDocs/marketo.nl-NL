@@ -4,7 +4,7 @@ description: Aangepaste veldgroepen inschakelen voor modelprestatieanalyse (lead
 title: Aangepaste veldgroepen inschakelen voor analyse van modelprestaties (lead)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -17,27 +17,27 @@ ht-degree: 0%
 >
 >Categoriseer standaard- of aangepaste velden in groepen voor rapportage via de veldOrganizer in Marketo. Voor details, zie [ de Groepen van het Gebied van de Douane via de Organisator van het Gebied ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md) creëren.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="3" rowspan="1"><p align="center"><strong>Hoe beïnvloedt het toelaten van een Groep van het Gebied van de Douane Veelvoudige Analyse Gebieden in de Ontdekkingsreiziger van de Cyclus van de Ontvangsten?</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Wat gebeurt er wanneer?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Hoe het het beïnvloedt de <span class="uicontrol"> ModelAnalyse van Prestaties (leidt tot) </span> Gebied</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Hoe het de Analyse van de Lood, de Analyse van de Campagne, en de Gebieden van de Analyse van de Kans beïnvloedt</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Wat gebeurt wanneer u een groep van het douaneveld toelaat verbonden aan een standaardlood of bedrijfgebied?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>De groep van het douanegebied wordt toegelaten voor het melden in het <span class="uicontrol"> ModelAnalyse van Prestaties (Lood) </span> Gebied</p></td> 
-   <td colspan="1" rowspan="1"><p>Geen effect</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Wat gebeurt wanneer u een groep van het douanegebied toelaat verbonden aan een douanepersoon of bedrijfgebied?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>De groep van het douanegebied wordt toegelaten voor het melden in het <span class="uicontrol"> ModelAnalyse van Prestaties (Lood) </span> Gebied</p></td> 
-   <td colspan="1" rowspan="1"><p>Het douanegebied zelf wordt toegelaten voor rapportering in de Gebieden van de Analyse van de Lood, van de Analyse van de Campagne, en van de Analyse van de Kans.</p><p><strong> NOTA:</strong> de gebiedsgroepen van de Douane worden NIET gesteund op deze analysegebieden, zodat tonen de groepsverenigingen niet in de Ontdekkingsreiziger van de Cyclus van de Opbrengst— <em> slechts </em> het douanegebied.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="3" rowspan="1"><p align="center"><strong>Hoe beïnvloedt het toelaten van een Groep van het Gebied van de Douane Veelvoudige Analyse Gebieden in de Ontdekkingsreiziger van de Cyclus van de Ontvangsten?</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Wat gebeurt er wanneer?</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Hoe het het beïnvloedt de <span class="uicontrol"> ModelAnalyse van Prestaties (leidt tot) </span> Gebied</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Hoe het de Analyse van de Lood, de Analyse van de Campagne, en de Gebieden van de Analyse van de Kans beïnvloedt</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Wat gebeurt wanneer u een groep van het douaneveld toelaat verbonden aan een standaardlood of bedrijfgebied?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>De groep van het douanegebied wordt toegelaten voor het melden in het <span class="uicontrol"> ModelAnalyse van Prestaties (Lood) </span> Gebied</p></td>
+   <td colspan="1" rowspan="1"><p>Geen effect</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Wat gebeurt wanneer u een groep van het douanegebied toelaat verbonden aan een douanepersoon of bedrijfgebied?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>De groep van het douanegebied wordt toegelaten voor het melden in het <span class="uicontrol"> ModelAnalyse van Prestaties (Lood) </span> Gebied</p></td>
+   <td colspan="1" rowspan="1"><p>Het douanegebied zelf wordt toegelaten voor rapportering in de Gebieden van de Analyse van de Lood, van de Analyse van de Campagne, en van de Analyse van de Kans.</p><p><strong> NOTA:</strong> de gebiedsgroepen van de Douane worden NIET gesteund op deze analysegebieden, zodat tonen de groepsverenigingen niet in de Ontdekkingsreiziger van de Cyclus van de Opbrengst— <em> slechts </em> het douanegebied.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 Voer de volgende stappen uit om een aangepaste veldgroep voor rapportage in het [!UICONTROL Model Performance Analysis (Leads)] -gebied in te schakelen.

@@ -4,7 +4,7 @@ description: Veldaliassen bewerken voor het importeren van lijsten - Marketo-doc
 title: Veldaliassen bewerken voor het importeren van lijsten
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Wanneer u een lijst met onbekende koppen importeert, kunt u veldaliassen maken o
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
@@ -31,17 +31,17 @@ Wanneer u een lijst met onbekende koppen importeert, kunt u veldaliassen maken o
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. In de **[!UICONTROL Field Actions]** vervolgkeuzelijst, klikken **[!UICONTROL Edit Import Aliases]**.
+1. Klik in de vervolgkeuzelijst **[!UICONTROL Field Actions]** op **[!UICONTROL Edit Import Aliases]** .
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
-1. Voer een alias in en klik op **[!UICONTROL Save]**.
+1. Voer een alias in en klik op **[!UICONTROL Save]** .
 
    ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
->Klikken **[!UICONTROL Add Another]** en voer desgewenst meer aliassen in.
+>Klik op **[!UICONTROL Add Another]** en voer desgewenst meer aliassen in.
 
 Kijk daar eens naar! Als u nu een spreadsheet met een kolom met de naam &quot;DOB&quot; importeert, herkent Marketo deze automatisch als &quot;Geboortedatum&quot; en importeert het de gegevens in het juiste veld.
 

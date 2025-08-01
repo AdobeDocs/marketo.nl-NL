@@ -4,7 +4,7 @@ description: Sales Connect- en GDPR-compatibiliteit - Marketo-documenten - Produ
 title: Sales Connect en GDPR-compatibiliteit
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1299'
 ht-degree: 0%
@@ -124,44 +124,44 @@ Nadat u het juiste Source-type voor de geselecteerde contactpersonen hebt gesele
 
 U kunt contactgegevens exporteren uit de weergave Details persoon. Bij het exporteren wordt een CSV-bestand met de volgende kolommen gedownload:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL First Name]</td> 
-   <td>[!UICONTROL Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Last Name]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Updated At]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Title]</td> 
-   <td>[!UICONTROL Created At]</td> 
-   <td>[!UICONTROL Exported At]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email ID]</td> 
-   <td>[!UICONTROL Salesforce ID]</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Phone Number]</td> 
-   <td>[!UICONTROL Person ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL First Name]</td>
+   <td>[!UICONTROL Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Last Name]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Updated At]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Title]</td>
+   <td>[!UICONTROL Created At]</td>
+   <td>[!UICONTROL Exported At]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email ID]</td>
+   <td>[!UICONTROL Salesforce ID]</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Phone Number]</td>
+   <td>[!UICONTROL Person ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -180,9 +180,9 @@ Als u contactgegevens wilt exporteren, klikt u op de drie verticale punten in de
 
 Een algemeen verkeerd begrepen gebied van GDPR omvat contacten die van het gegevensbestand van de organisatie afmelden. Om aan nieuwe regels te voldoen rond de bescherming van de gegevens van degenen die verkiezen om af te melden, is de volgende functionaliteit inbegrepen in [!DNL Marketo Sales Connect]:
 
-**Unsubscribe de Verbindingen:** Unsubscribe de verbindingen zullen automatisch aan alle e-mail worden toegevoegd die van de [!DNL Sales Connect] Webtoepassing wordt verzonden om ervoor te zorgen dat de contacten een toegankelijke manier aan opt-out worden gegeven.\
-**Unsubscribe Synchronisatie:** de gebruikers kunnen afmelden aan en van hun CRM ([!DNL Salesforce]) synchroniseren om ervoor te zorgen dat opt-outs bijgewerkt zijn.\
-**Unsubscribe Geschiedenis:** de gebruikers kunnen historische opt-outs en opt-ins in de Mening van het Detail van de Persoon zien.\
+**Unsubscribe de Verbindingen:** Unsubscribe de verbindingen zullen automatisch aan alle e-mail worden toegevoegd die van de [!DNL Sales Connect] Webtoepassing wordt verzonden om ervoor te zorgen dat de contacten een toegankelijke manier aan opt-out worden gegeven.
+**Unsubscribe Synchronisatie:** de gebruikers kunnen afmelden aan en van hun CRM ([!DNL Salesforce]) synchroniseren om ervoor te zorgen dat opt-outs bijgewerkt zijn.
+**Unsubscribe Geschiedenis:** de gebruikers kunnen historische opt-outs en opt-ins in de Mening van het Detail van de Persoon zien.
 **Unsubscribe Verwijderen:** het Opteren van een unsubscribed contact terug binnen vereist de gebruiker om admin voorrechten te hebben en aan te tonen dat het contact nieuwe toestemming heeft gegeven om hen te contacteren.
 
 ## Toekomstige updates {#future-updates}

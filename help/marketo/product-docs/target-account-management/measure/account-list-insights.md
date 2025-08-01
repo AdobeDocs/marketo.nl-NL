@@ -4,7 +4,7 @@ description: Accountlijstinzichten - Marketo Docs - Productdocumentatie
 title: Accountlijstinzichten
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -29,17 +29,17 @@ Als u het dashboard van een accountlijst wilt weergeven, klikt u gewoon op de na
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Pijpleiding</span></strong></td> 
-   <td colspan="1">Zie de pijpleiding in tijd. Om pijpleiding over tijd door week te bepalen, nemen wij de pijpleiding op de laatste dag.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Ontvangsten</span></strong></td> 
-   <td><p>Zie inkomsten in de loop der tijd. Om de inkomsten in de loop der tijd per week te bepalen, nemen we de som van alle inkomsten die in die week zijn behaald.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Pijpleiding</span></strong></td>
+   <td colspan="1">Zie de pijpleiding in tijd. Om pijpleiding over tijd door week te bepalen, nemen wij de pijpleiding op de laatste dag.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Ontvangsten</span></strong></td>
+   <td><p>Zie inkomsten in de loop der tijd. Om de inkomsten in de loop der tijd per week te bepalen, nemen we de som van alle inkomsten die in die week zijn behaald.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Tabblad Benoemde accounts {#named-accounts-tab}

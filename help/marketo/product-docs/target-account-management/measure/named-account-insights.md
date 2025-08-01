@@ -4,7 +4,7 @@ description: Benoemde accountinzichten - Marketo Docs - productdocumentatie
 title: Benoemde accountgegevens
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -33,21 +33,21 @@ Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen bi
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Accountscore</span></strong></td> 
-   <td><p>Zie week-aan-week overeenkomst die op alle rekeningsscores wordt gebaseerd u in <span class="uicontrol"> Admin </span> creeerde. U kunt deze accountscores naast elkaar vergelijken. Om de wekelijkse betrokkenheid te bepalen, nemen we de maximale betrokkenheid van elke dag van de week.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Pijpleiding</span></strong></td> 
-   <td>Zie de pijpleiding in tijd. Om pijpleiding over tijd door week te bepalen, nemen wij de pijpleiding op de laatste dag.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Ontvangsten</span></strong></td> 
-   <td>Zie inkomsten in de loop der tijd. Om de inkomsten in de loop der tijd per week te bepalen, nemen we de som van alle inkomsten die in die week zijn behaald.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Accountscore</span></strong></td>
+   <td><p>Zie week-aan-week overeenkomst die op alle rekeningsscores wordt gebaseerd u in <span class="uicontrol"> Admin </span> creeerde. U kunt deze accountscores naast elkaar vergelijken. Om de wekelijkse betrokkenheid te bepalen, nemen we de maximale betrokkenheid van elke dag van de week.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Pijpleiding</span></strong></td>
+   <td>Zie de pijpleiding in tijd. Om pijpleiding over tijd door week te bepalen, nemen wij de pijpleiding op de laatste dag.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Ontvangsten</span></strong></td>
+   <td>Zie inkomsten in de loop der tijd. Om de inkomsten in de loop der tijd per week te bepalen, nemen we de som van alle inkomsten die in die week zijn behaald.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interesting Moments]**

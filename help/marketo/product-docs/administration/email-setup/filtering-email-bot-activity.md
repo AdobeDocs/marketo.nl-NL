@@ -3,9 +3,9 @@ description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdo
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: f3d0b2be794ca4bb6c38c942cef1fa72fe091d7c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Soms kan e-mailactiviteit je e-mail abusievelijk opblazen en op gegevens klikken
 
 We gebruiken twee verschillende methoden om beide activiteiten te bevestigen:
 
-* Afstemmen met [Interactieve lijst van adverteerders van het Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: Activiteiten die overeenkomen met alles in de lijst IAB UA/IP (User Agent/IP-adres) worden gemarkeerd als bots.
+* De gelijke met [ Interactieve de botLijst van het Bureau van Advertising ](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
 * Overeenkomst met nabijheidspatroon: wanneer twee of meer activiteiten tegelijkertijd plaatsvinden (in minder dan een seconde), worden ze geïdentificeerd als bots. Kenmerken die in aanmerking worden genomen tijdens de vergelijking zijn:
    * ID lead (moet hetzelfde zijn)
    * E-mailmiddel (moet hetzelfde zijn)
@@ -39,27 +39,27 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Klik op de knop **[!UICONTROL Bot Activity]** tab.
+1. Klik op de tab **[!UICONTROL Bot Activity]** .
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Er zijn twee schuifregelaars waaruit u kunt kiezen. U kunt slechts één of beide inschakelen. Als u **[!UICONTROL Match with IAB List]**, kiest u of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity].
+1. Er zijn twee schuifregelaars waaruit u kunt kiezen. U kunt slechts één of beide inschakelen. Als u **[!UICONTROL Match with IAB List]** toelaat, kies of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Als u **[!UICONTROL Match with Proximity Pattern]**, kiest u of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity]. U kunt ook de hoeveelheid seconden instellen voor **Looptijd tussen activiteiten** (standaardwaarde is 0, max is 3).
+1. Als u **[!UICONTROL Match with Proximity Pattern]** toelaat, kies of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity]. U kunt de hoeveelheid seconden voor **Duur tussen Activiteiten** ook plaatsen (gebrek is 0, maximum is 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->Met **Looptijd tussen activiteiten** Stel dit in op 0 seconden, dan identificeren we e-mailactiviteiten die precies op dezelfde seconde plaatsvinden. Als er binnen de opgegeven hoeveelheid seconden meerdere e-mailactiviteiten plaatsvinden, wordt deze geïdentificeerd als beide activiteiten.
+>Met **Duur tussen Activiteiten** geplaatst aan 0 seconden, zullen wij e-mailactiviteiten identificeren die bij de nauwkeurige zelfde seconde gebeuren. Als er binnen de opgegeven hoeveelheid seconden meerdere e-mailactiviteiten plaatsvinden, wordt deze geïdentificeerd als beide activiteiten.
 
 >[!IMPORTANT]
 >
->* Als u [!UICONTROL Filter Bot Activity]Er wordt mogelijk een druppel weergegeven in het e-mailbericht en er wordt geklikt omdat onjuiste activiteiten worden uitgespoord.
+>* Als u [!UICONTROL Filter Bot Activity] kiest, wordt mogelijk een druppel in het e-mailbericht weergegeven en wordt op de knop geklikt omdat de bewerking onwaar is.
 
-**OPTIONELE STAP**: Als u een van beide functies wilt uitschakelen, schakelt u gewoon de desbetreffende schuifregelaar uit. Als u dat wel doet, worden de gegevens niet opnieuw ingesteld.
+**OPTIONELE STAP**: Om één van beide eigenschap onbruikbaar te maken, schrap eenvoudig de resectieve schuif. Als u dat wel doet, worden de gegevens niet opnieuw ingesteld.
 
 >[!TIP]
 >
@@ -67,59 +67,59 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 
 ## IP LIJST VAN GEWEZEN PERSONEN {#ip-blocklist}
 
-Wij hebben een lijst van IP adressen gecompileerd die voor het produceren van miljoenen valse overeenkomsten verantwoordelijk zijn, aangezien zulk engagement die van om het even welke volgende IPs wordt ontvangen automatisch wordt gefilterd uit en niet toegevoegd aan uw Instantie van het Marketo Engage. Dit kan leiden tot minder e-mail openen, klikken en andere gerelateerde activiteiten. De onderstaande lijst kan periodiek worden bijgewerkt.
+Wij hebben een lijst van IP adressen gecompileerd die voor het produceren van miljoenen valse overeenkomsten verantwoordelijk zijn, aangezien zulk engagement die van om het even welke volgende IPs wordt ontvangen automatisch wordt gefilterd uit en niet toegevoegd aan uw Instantie van Marketo Engage. Dit kan leiden tot minder e-mail openen, klikken en andere gerelateerde activiteiten. De onderstaande lijst kan periodiek worden bijgewerkt.
 
-* 40 94 34 52
-* 40 94 34 86
-* 52 34 76 65
-* 54 70 53 60
-* 54 71 187 124
+* 40.94.34.52
+* 40.94.34.86
+* 52.34.76.65
+* 54.70.53.60
+* 54.71.187.124
 * 60.28.2.248
-* 64 235 150 252
-* 64 235 153 10
-* 64 235 153,2
-* 64 235 154 105
-* 64 235 154 109
-* 64 235 154 140
-* 64 74 215,1
-* 64 74 215 100
-* 64 74 215 138
-* 64 74 215 139
-* 64 74 215 142
-* 64 74 215 146
-* 64 74 215 150
-* 64 74 215 154
-* 64 74 215 158
-* 64 74 215 162
-* 64 74 215 164
-* 64 74 215 166
-* 64 74 215 170
-* 64 74 215 174
-* 64 74 215 176
-* 64 74 215 178
-* 64 74 215 51
-* 64 74 215,56
-* 64 74 215,58
-* 64 74 215,59
-* 64 74 215,86
-* 64 74 215,98
-* 65 154 226 101
-* 66 249 91 149
-* 70 42 131 106
-* 74 125 217 116
-* 74 217 90 250
-* 104 129 41,4
-* 104 47 55 126
-* 104 47 58 126
-* 104 47 70 126
-* 104 47 73 126
-* 104 47 73 254
-* 104 47 74 126
-* 128 220 160,1
-* 15.70.39.101
-* 162 129 251,14
-* 162 129 251,42
-* Op 20.52.157.2004
+* 64.235.150.252
+* 64.235.153.10
+* 64.235.153.2
+* 64.235.154.105
+* 64.235.154.109
+* 64.235.154.140
+* 64.74.215.1
+* 64.74.215.100
+* 64.74.215.138
+* 64.74.215.139
+* 64.74.215.142
+* 64.74.215.146
+* 64.74.215.150
+* 64.74.215.154
+* 64.74.215.158
+* 64.74.215.162
+* 64.74.215.164
+* 64.74.215.166
+* 64.74.215.170
+* 64.74.215.174
+* 64.74.215.176
+* 64.74.215.178
+* 64.74.215.51
+* 64.74.215.56
+* 64.74.215.58
+* 64.74.215.59
+* 64.74.215.86
+* 64.74.215.98
+* 65.154.226.101
+* 66.249.91.149
+* 70.42.131.106
+* 74.125.217.116
+* 74.217.90.250
+* 104.129.41.4
+* 104.47.55.126
+* 104.47.58.126
+* 104.47.70.126
+* 104.47.73.126
+* 104.47.73.254
+* 104.47.74.126
+* 128.220.160.1
+* 155.70.39.101
+* 162.129.251.14
+* 162.129.251.42
+* 208.52.157.204
 
 >[!NOTE]
 >

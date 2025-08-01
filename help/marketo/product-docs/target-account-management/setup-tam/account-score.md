@@ -4,7 +4,7 @@ description: Accountscore - Marketo-documenten - productdocumentatie
 title: Accountscore
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -23,19 +23,19 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één individ
 
 ## Algemene voorbeelden {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>Score voor accountbetrokkenheid</strong></td> 
+   <td><strong>Score voor accountbetrokkenheid</strong></td>
    <td>Diepte van betrokkenheid op basis van gedragsactiviteiten die via verschillende kanalen (bijvoorbeeld e-mail, web en advertenties) van personen in specifieke doelaccounts worden bijgehouden.</td>
   </tr>
   <tr>
    <td><strong>Interescore voor product van account</strong></td>
-   <td>Personen van doelaccounts die belangstelling tonen voor de inhoud van een specifiek product (bijvoorbeeld het downloaden van een witboek).</td> 
+   <td>Personen van doelaccounts die belangstelling tonen voor de inhoud van een specifiek product (bijvoorbeeld het downloaden van een witboek).</td>
   </tr>
   <tr>
    <td><strong>Score voor online betrokkenheid van account</strong></td>
-   <td>Personen van doelaccounts die webkanaal bezoeken. Dezelfde score kan worden gemaakt om de betrokkenheid van kanalen via e-mail, advertenties of andere kanalen te meten.</td> 
+   <td>Personen van doelaccounts die webkanaal bezoeken. Dezelfde score kan worden gemaakt om de betrokkenheid van kanalen via e-mail, advertenties of andere kanalen te meten.</td>
   </tr>
  </tbody>
 </table>
@@ -46,10 +46,10 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één individ
 >
 >Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo TAM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden nemen (_Score van de Rente van het Product van de Rekening_ en _Score van de Betrokkenheid van het Web van de Rekening_).
 >
->Maak eerst loodscore-velden waarin relevante details van elke lead van een doelaccount worden vastgelegd.\
->Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:\
->Account Product Interest Score = SUM (Lood Product Interest Score)\
->Account Web Engagement Score = SUM (Lead Web Engagement Score)
+>Maak eerst loodscore-velden waarin relevante details van elke lead van een doelaccount worden vastgelegd.
+>>Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:
+>>Account Product Interest Score = SUM (Lood Product Interest Score)
+>>Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >

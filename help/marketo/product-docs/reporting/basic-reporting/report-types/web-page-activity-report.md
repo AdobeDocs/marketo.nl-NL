@@ -4,7 +4,7 @@ description: Rapport over activiteiten op webpagina - Marketo Docs - Productdocu
 title: Rapport over activiteiten op webpagina
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -38,46 +38,46 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
    >
    >Om te weten te komen wie uw plaats het meest bezoekt, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op de _kolom van de Kijken van de Pagina_ en kies Aflopend Soort.
 
-   [ Marketo voegt anonieme ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} websitebezoekers aan uw gegevensbestand toe en u kunt verkiezen om hen in dit rapport te tonen. Het biedt een schat aan informatie, ook al zijn ze anoniem.\
+   [ Marketo voegt anonieme ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} websitebezoekers aan uw gegevensbestand toe en u kunt verkiezen om hen in dit rapport te tonen. Het biedt een schat aan informatie, ook al zijn ze anoniem.
    [ Kolommen die u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} voor een rapport van de Activiteit van de Web-pagina kunt selecteren omvatten:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Kolom(men)</th> 
-   <th>Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Persoon</td> 
+<table>
+ <thead>
+  <tr>
+   <th>Kolom(men)</th>
+   <th>Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Persoon</td>
    <td>De naam, titel en bedrijf van de bezoeker.<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank"> klik </a></strong> om bezochte pagina's te bekijken.</td>
-  </tr> 
-  <tr> 
-   <td>Eerste/laatste bezoek (tijdzone)</td> 
-   <td>Datum en tijdstip van het eerste/laatste bezoek van iemand van dit bedrijf.</td> 
-  </tr> 
-  <tr> 
-   <td>Paginaweergaven</td> 
+  </tr>
+  <tr>
+   <td>Eerste/laatste bezoek (tijdzone)</td>
+   <td>Datum en tijdstip van het eerste/laatste bezoek van iemand van dit bedrijf.</td>
+  </tr>
+  <tr>
+   <td>Paginaweergaven</td>
    <td>Aantal pagina's dat door deze bezoeker is geladen.</td>
-  </tr> 
-  <tr> 
-   <td>HTTP-referentie</td> 
-   <td>URL van de pagina die de koppeling bevat die de bezoeker op uw pagina heeft gevolgd.</td> 
-  </tr> 
-  <tr> 
-   <td>Itempagina</td> 
-   <td>Eerste pagina van de bezochte persoon </td> 
-  </tr> 
-  <tr> 
-   <td>Overgenomen bedrijf of ISP</td> 
-   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <strong> Namen in vette </strong> wijzen op dit het bedrijf, niet ISP is. </td> 
-  </tr> 
-  <tr> 
-   <td>Overgedragen land, staat/regio &amp; plaats</td> 
-   <td>Geografische locatie van de bezoeker, zoals afgeleid van hun IP-adres.</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>HTTP-referentie</td>
+   <td>URL van de pagina die de koppeling bevat die de bezoeker op uw pagina heeft gevolgd.</td>
+  </tr>
+  <tr>
+   <td>Itempagina</td>
+   <td>Eerste pagina van de bezochte persoon </td>
+  </tr>
+  <tr>
+   <td>Overgenomen bedrijf of ISP</td>
+   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <strong> Namen in vette </strong> wijzen op dit het bedrijf, niet ISP is. </td>
+  </tr>
+  <tr>
+   <td>Overgedragen land, staat/regio &amp; plaats</td>
+   <td>Geografische locatie van de bezoeker, zoals afgeleid van hun IP-adres.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

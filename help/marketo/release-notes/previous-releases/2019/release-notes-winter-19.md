@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Opmerkingen bij de release - Winter '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -102,7 +102,7 @@ Gebruikers kunnen nu subdomeinen toevoegen aan hun RTP-accountinstellingen om do
 
 **Bijgewerkte Kit van de Ontwikkeling van de Software MME (SDK) voor Android**
 
-We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0&rbrace; Firebase Cloud Messaging [&#128279;](https://firebase.google.com/docs/cloud-messaging/) (FCM) van Google gebruiken met deze nieuwe SDK.
+We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0} Firebase Cloud Messaging [ (FCM) van Google gebruiken met deze nieuwe SDK.](https://firebase.google.com/docs/cloud-messaging/)
 
 * [ instructies van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
 * [ Veelgestelde vragen van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)

@@ -4,7 +4,7 @@ description: E-mailkoppelingprestatierapport - Marketo Docs - Productdocumentati
 title: E-mailkoppelingprestaties
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
@@ -41,35 +41,35 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
 [ beschikbare Kolommen ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mail het rapport van de Prestaties van de Verbinding omvatten:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
-   <th colspan="1" rowspan="1">Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
-   <td colspan="1" rowspan="1">Gegroepeerd op e-mailnaam.<br> klik plus (+) om alle verbindingen te zien inbegrepen die e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">Het aantal keren dat op die koppeling is geklikt.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">Van het totaal klikt u op alle koppelingen in die e-mail, percentage op deze koppeling.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">Het aantal unieke personen dat op de koppeling heeft geklikt.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">Percentage van de totale unieke personen die op koppelingen in die e-mail hebben geklikt.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th>
+   <th colspan="1" rowspan="1">Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td>
+   <td colspan="1" rowspan="1">Gegroepeerd op e-mailnaam.<br> klik plus (+) om alle verbindingen te zien inbegrepen die e-mail.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">Het aantal keren dat op die koppeling is geklikt.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">Van het totaal klikt u op alle koppelingen in die e-mail, percentage op deze koppeling.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">Het aantal unieke personen dat op de koppeling heeft geklikt.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">Percentage van de totale unieke personen die op koppelingen in die e-mail hebben geklikt.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

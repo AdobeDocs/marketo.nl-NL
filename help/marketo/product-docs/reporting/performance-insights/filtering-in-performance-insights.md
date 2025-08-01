@@ -4,7 +4,7 @@ description: Filteren in prestatiegegevens - Marketo Docs - Productdocumentatie
 title: Filteren in prestatie-inzichten
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,37 +45,37 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
 
 ## Beschikbare filters {#available-filters}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">ABM-accountlijst</span></strong></td> 
-   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw accountlijsten gesynchroniseerd met MPI en zijn deze zichtbaar via het filter Lijst ABM-account. U kunt een accountlijst selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow"> Leer meer over ABM- rekeningslijsten.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Benoemd ABM-account</span></strong></td> 
-   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw benoemde accounts gesynchroniseerd met MPI en zijn ze zichtbaar via het filter ABM Named Account. U kunt een benoemde account selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow"> leer meer over ABM genoemd rekeningen.</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Aangepast kenmerk</span></strong></td> 
-   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow"> u </a> voor de opportuniteitsanalyse toelaat kan worden gefiltreerd op in de Inzichten van Prestaties.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Beleggingsperiode</span></strong></p></td> 
-   <td colspan="1"><p>Tijdslimiet voor programmamateriaal.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong><span class="uicontrol">Opportunity</span></strong></p></td> 
-   <td colspan="1"><p>Het type van kans zoals opstelling op het voorwerp van de Opportunity in uw opstelling van Salesforce (CRM).</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Programmatag</span></strong></p></td> 
-   <td><p>Tags worden gebruikt om programma's te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow"> Leer hoe te met programmamarkeringen hier te werken.</a></p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Workspace</span></strong></td> 
-   <td><p>Werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen bevatten, zoals programma's, bestemmingspagina's, e-mails en meer. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow"> leer meer over werkruimten hier.</a></p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">ABM-accountlijst</span></strong></td>
+   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw accountlijsten gesynchroniseerd met MPI en zijn deze zichtbaar via het filter Lijst ABM-account. U kunt een accountlijst selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow"> Leer meer over ABM- rekeningslijsten.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Benoemd ABM-account</span></strong></td>
+   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw benoemde accounts gesynchroniseerd met MPI en zijn ze zichtbaar via het filter ABM Named Account. U kunt een benoemde account selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow"> leer meer over ABM genoemd rekeningen.</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Aangepast kenmerk</span></strong></td>
+   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow"> u </a> voor de opportuniteitsanalyse toelaat kan worden gefiltreerd op in de Inzichten van Prestaties.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Beleggingsperiode</span></strong></p></td>
+   <td colspan="1"><p>Tijdslimiet voor programmamateriaal.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong><span class="uicontrol">Opportunity</span></strong></p></td>
+   <td colspan="1"><p>Het type van kans zoals opstelling op het voorwerp van de Opportunity in uw opstelling van Salesforce (CRM).</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Programmatag</span></strong></p></td>
+   <td><p>Tags worden gebruikt om programma's te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow"> Leer hoe te met programmamarkeringen hier te werken.</a></p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Workspace</span></strong></td>
+   <td><p>Werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen bevatten, zoals programma's, bestemmingspagina's, e-mails en meer. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow"> leer meer over werkruimten hier.</a></p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

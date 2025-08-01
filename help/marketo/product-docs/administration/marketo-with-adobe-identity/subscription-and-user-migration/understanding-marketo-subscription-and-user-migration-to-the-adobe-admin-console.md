@@ -3,7 +3,7 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1571'
 ht-degree: 0%
@@ -123,4 +123,4 @@ E-mail `marketocares@marketo.com` voor extra ondersteuning met betrekking tot uw
 >* [ migrerend aan het Overzicht van de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}
 >* [ het Teken van de Gebruiker met Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
 >* [ Adobe Identity Management FAQ ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
->* [ migrerend aan Adobe Identity Management Leerprogramma ](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}
+>* [ migrerend aan Adobe Identity Management Leerprogramma ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management){target="_blank"}

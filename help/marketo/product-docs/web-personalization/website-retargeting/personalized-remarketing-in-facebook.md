@@ -4,7 +4,7 @@ description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocume
 title: Persoonlijke opmerkingen op Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 >[!PREREQUISITES]
 >
 >* Voltooi [ opnieuw het richten met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
->* Herzie de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
+>* Herzie de [ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
 
 ## Een publiek maken in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -58,47 +58,47 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 ## RTP-gegevenspunten in [!DNL Facebook] {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Gebeurtenisnaam</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP Opmerking</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>Parameter</th> 
-        <th>Waarde</th> 
-       </tr> 
-       <tr> 
-        <td>ABM-lijst</td> 
-        <td>(Naam van lijst op basis van account)</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Categorie</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Globaal 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Groep</td> 
-        <td colspan="1"><p>Enterprise</p><p>SMB</p></td> 
-       </tr> 
-       <tr> 
-        <td>Marktsegment</td> 
-        <td><p>Defensie</p><p>Onderwijs</p><p>Financiële diensten</p><p>Overheid</p><p>Gezondheidszorg, Pharma, Biotech</p><p>Software en internet</p><p>enz. (volgens de opties van de Industrie RTP)</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">Gesegmenteerd publiek</td> 
-        <td colspan="1">(Naam van Gesegmenteerde Publiek dat in RTP wordt gecreeerd)</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Gebeurtenisnaam</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP Opmerking</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>Parameter</th>
+        <th>Waarde</th>
+       </tr>
+       <tr>
+        <td>ABM-lijst</td>
+        <td>(Naam van lijst op basis van account)</td>
+       </tr>
+       <tr>
+        <td colspan="1">Categorie</td>
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Globaal 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Groep</td>
+        <td colspan="1"><p>Enterprise</p><p>SMB</p></td>
+       </tr>
+       <tr>
+        <td>Marktsegment</td>
+        <td><p>Defensie</p><p>Onderwijs</p><p>Financiële diensten</p><p>Overheid</p><p>Gezondheidszorg, Pharma, Biotech</p><p>Software en internet</p><p>enz. (volgens de opties van de Industrie RTP)</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">Gesegmenteerd publiek</td>
+        <td colspan="1">(Naam van Gesegmenteerde Publiek dat in RTP wordt gecreeerd)</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Doelgroep voor publiek met advertentie {#target-your-audience-with-an-ad}

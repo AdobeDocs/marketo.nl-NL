@@ -4,9 +4,9 @@ description: Opzetten en een persoon toevoegen - Marketo Docs - Productdocumenta
 title: Instellen en een persoon toevoegen
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Er zijn een paar dingen te doen voordat u de missies begint.
 
-## Stap 1: Aanmelden bij Marketo Engage {#step-log-in-to-marketo}
+## Stap 1: aanmelden bij Marketo Engage {#step-log-in-to-marketo}
 
-1. [ Login aan Marketo Engage ](https://app.marketo.com){target="_blank"}  gebruikend de geloofsbrieven u door e-mail ontving.
+1. [ Login aan Marketo Engage ](https://app.marketo.com){target="_blank"} gebruikend de geloofsbrieven u door e-mail ontving.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 

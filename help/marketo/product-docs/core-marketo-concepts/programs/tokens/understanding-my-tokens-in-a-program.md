@@ -4,7 +4,7 @@ description: Mijn tokens in een programma begrijpen - Marketo Docs - Productdocu
 title: Mijn tokens in een programma begrijpen
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
@@ -28,47 +28,47 @@ Voorbeelden:
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Type token</th> 
-   <th>Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Kalenderbestand <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Gebruik dit teken om <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"> een dossier van de kalendergebeurtenis (.i </a> toe te voegen <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"> cs) </a> aan uw e-mail en landende pagina's.</td> 
-  </tr> 
-  <tr> 
-   <td><p>Datum <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
-   <td>Dit token bevat een datumwaarde. De datum wordt weergegeven als dag van de maand (bijvoorbeeld 2016-05-23).</td> 
-  </tr> 
-  <tr> 
-   <td>E-mailscript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td> 
-  </tr> 
-  <tr> 
-   <td>Number <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
-   <td>Een geheel getal. Het kan zelfs negatief zijn.</td> 
-  </tr> 
-  <tr> 
-   <td>RTF <img alt="—" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Dit is HTML. Gebruik dit in e-mails en landingspagina's.</td> 
-  </tr> 
-  <tr> 
-   <td>Score <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Gebruik dit teken in de <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md"> stap van de veranderingsscore stroom </a>. </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">SFDC-campagne <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td> 
-   <td colspan="1">Gebruik deze token om toe te staan dat leads die onderdeel worden van een Marketo-programma ook worden toegevoegd aan een SFDC-campagne.</td> 
-  </tr> 
-  <tr> 
-   <td>Tekst <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Gewoon wat tekst. Gebruik het als HTML overbelast is. De formaatlimiet voor Text-tokens is 524.288 tekens (UTF-8) of 2 MB.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Type token</th>
+   <th>Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Kalenderbestand <img alt="—" src="assets/image2014-9-25-16-3a44-3a19.png" data-linked-resource-id="3083230" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Gebruik dit teken om <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"> een dossier van de kalendergebeurtenis (.i </a> toe te voegen <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md"> cs) </a> aan uw e-mail en landende pagina's.</td>
+  </tr>
+  <tr>
+   <td><p>Datum <img alt="—" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td>
+   <td>Dit token bevat een datumwaarde. De datum wordt weergegeven als dag van de maand (bijvoorbeeld 2016-05-23).</td>
+  </tr>
+  <tr>
+   <td>E-mailscript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td>
+  </tr>
+  <tr>
+   <td>Number <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
+   <td>Een geheel getal. Het kan zelfs negatief zijn.</td>
+  </tr>
+  <tr>
+   <td>RTF <img alt="—" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Dit is HTML. Gebruik dit in e-mails en landingspagina's.</td>
+  </tr>
+  <tr>
+   <td>Score <img alt="—" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Gebruik dit teken in de <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md"> stap van de veranderingsscore stroom </a>. </td>
+  </tr>
+  <tr>
+   <td colspan="1">SFDC-campagne <img alt="—" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="—"></td>
+   <td colspan="1">Gebruik deze token om toe te staan dat leads die onderdeel worden van een Marketo-programma ook worden toegevoegd aan een SFDC-campagne.</td>
+  </tr>
+  <tr>
+   <td>Tekst <img alt="—" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
+   <td>Gewoon wat tekst. Gebruik het als HTML overbelast is. De formaatlimiet voor Text-tokens is 524.288 tekens (UTF-8) of 2 MB.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!CAUTION]

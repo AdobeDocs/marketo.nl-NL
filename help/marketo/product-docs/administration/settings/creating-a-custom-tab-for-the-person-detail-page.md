@@ -4,7 +4,7 @@ description: Een aangepast tabblad maken voor de persoonlijke detailpagina - Mar
 title: Een aangepast tabblad maken voor de detailpagina voor personen
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u steeds weer op zoek bent naar een specifieke set velden in de details van de persoon, kunt u een aangepaste indeling maken om de zaken eenvoudiger te maken.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
@@ -23,7 +23,7 @@ Als u steeds weer op zoek bent naar een specifieke set velden in de details van 
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Klik op de knop **[!UICONTROL Custom Layout Designer]** tab.
+1. Klik op de tab **[!UICONTROL Custom Layout Designer]** .
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ Als u steeds weer op zoek bent naar een specifieke set velden in de details van 
    >
    >U hebt twee kolommen om mee te werken.
 
-   Als u een veld wilt verwijderen, klikt u met de rechtermuisknop op het veld dat u wilt verwijderen en klikt u op **[!UICONTROL Delete]**.
+   Als u besluit dat u een veld wilt verwijderen, klikt u met de rechtermuisknop op het veld dat u wilt verwijderen en klikt u op **[!UICONTROL Delete]** .
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

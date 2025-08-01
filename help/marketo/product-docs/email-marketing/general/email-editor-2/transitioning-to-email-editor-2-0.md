@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '618'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Standaard worden al uw bestaande e-mails en e-mailsjablonen gemarkeerd als v1.0 
 
 Als uw abonnement v1.0-e-mails heeft voordat u naar [!DNL Email Editor 2.0] gaat, wordt het volgende gedrag ervaren op basis van de huidige status van het element:
 
-**Goedgekeurd** - het klikken &quot;geeft Ontwerp&quot;uit zal tot een v2.0- ontwerp van goedgekeurde e-mail leiden. Als u vervolgens het concept v2.0 goedkeurt, wordt de goedgekeurde status van de e-mail v2.0 en kan niet worden teruggezet naar v1.0.\
+**Goedgekeurd** - het klikken &quot;geeft Ontwerp&quot;uit zal tot een v2.0- ontwerp van goedgekeurde e-mail leiden. Als u vervolgens het concept v2.0 goedkeurt, wordt de goedgekeurde status van de e-mail v2.0 en kan niet worden teruggezet naar v1.0.
 **Ontwerp** - het klikken &quot;geeft Ontwerp&quot;uit zal automatisch dat ontwerp als v2.0 merken. Op dit moment is het niet mogelijk om versie 1.0 te verwijderen en terug te keren omdat er geen goedgekeurde versie van het element is.
 **goedgekeurd met Ontwerp** - het klikken &quot;geeft Ontwerp&quot;zal dan automatisch dat ontwerp als v2.0 merken. Daarom is er ook geen manier om het concept terug te zetten naar versie 1.0.
 
@@ -40,14 +40,14 @@ Als uw abonnement e-mailsjablonen van versie 1.0 heeft voordat u naar [!DNL Emai
 
 Als u een e-mailsjabloon goedkeurt die eerder v1.0 was (in een van de bovenstaande staten), ziet u het volgende gedrag:
 
-Voor bestaande e-mailberichten van versie 1.0 die de (vorige v1.0) sjabloon gebruikten:\
-**Goedgekeurde v1.0 e-mail** - Het ontwerp van A v2.0 zal voor dit e-mail worden gecreeerd, nog gebruikend het onlangs goedgekeurde v2.0 malplaatje. De toepassing ontvangt ook alle sjabloonwijzigingen.\
-**Ontwerp v1.0 e-mail** - het ontwerp zal v1.0 blijven tot u &quot;Concept uitgeeft.&quot;klikt Hierna wordt de code automatisch gemarkeerd als v2.0 en worden eventuele sjabloonwijzigingen ontvangen.\
+Voor bestaande e-mailberichten van versie 1.0 die de (vorige v1.0) sjabloon gebruikten:
+**Goedgekeurde v1.0 e-mail** - Het ontwerp van A v2.0 zal voor dit e-mail worden gecreeerd, nog gebruikend het onlangs goedgekeurde v2.0 malplaatje. De toepassing ontvangt ook alle sjabloonwijzigingen.
+**Ontwerp v1.0 e-mail** - het ontwerp zal v1.0 blijven tot u &quot;Concept uitgeeft.&quot;klikt Hierna wordt de code automatisch gemarkeerd als v2.0 en worden eventuele sjabloonwijzigingen ontvangen.
 **goedgekeurd met Ontwerp v1.0 e-mail** - het ontwerp zal v1.0 blijven tot u &quot;Concept uitgeeft.&quot;klikt Hierna wordt de code automatisch gemarkeerd als v2.0 en worden eventuele sjabloonwijzigingen ontvangen.
 
-Voor bestaande e-mailberichten van v2.0 die de (vorige v1.0) sjabloon gebruikten:\
-**Goedgekeurde v2.0 e-mail** - het ontwerp van A v2.0 zal voor dit e-mail worden gecreeerd, nog &quot;gebruikend&quot;het onlangs goedgekeurde malplaatje, en zal om het even welke malplaatjeveranderingen ontvangen.\
-**Ontwerp v2.0 e-mail** - het ontwerp zal ongewijzigd blijven (v2.0) en om het even welke malplaatjeveranderingen ontvangen.\
+Voor bestaande e-mailberichten van v2.0 die de (vorige v1.0) sjabloon gebruikten:
+**Goedgekeurde v2.0 e-mail** - het ontwerp van A v2.0 zal voor dit e-mail worden gecreeerd, nog &quot;gebruikend&quot;het onlangs goedgekeurde malplaatje, en zal om het even welke malplaatjeveranderingen ontvangen.
+**Ontwerp v2.0 e-mail** - het ontwerp zal ongewijzigd blijven (v2.0) en om het even welke malplaatjeveranderingen ontvangen.
 **Goedgekeurd met Ontwerp v2.0 e-mail** - het ontwerp zal ongewijzigd blijven (v2.0) en om het even welke malplaatjeveranderingen ontvangen.
 
 >[!CAUTION]

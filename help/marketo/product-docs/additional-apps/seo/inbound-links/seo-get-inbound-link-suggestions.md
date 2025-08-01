@@ -4,7 +4,7 @@ description: SEO - Get Inbound Link Suggestis - Marketo Docs - Productdocumentat
 title: SEO - krijg de Binnenkomende Suggesties van de Verbinding
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 4%
@@ -13,9 +13,9 @@ ht-degree: 4%
 
 # SEO - krijg de Binnenkomende Suggesties van de Verbinding {#seo-get-inbound-link-suggestions}
 
-Marketo kan aangeven welke binnenkomende koppelingen voor uw [offpage optimalisatie](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo kan suggereren welke binnenkomende verbindingen aan uw [ off-page optimalisering ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) waardevol zijn.
 
-1. Ga naar de **[!UICONTROL Inbound Links]** sectie.
+1. Ga naar de sectie **[!UICONTROL Inbound Links]** .
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
@@ -33,10 +33,10 @@ Marketo kan aangeven welke binnenkomende koppelingen voor uw [offpage optimalisa
 
    >[!TIP]
    >
-   >Wist u dat u  [uw koppeling toevoegen aan een nieuwe of bestaande lijst](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? Kijk eens!
+   >Wist u u kunt [ uw verbinding aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md) toevoegen? Kijk eens!
 
 Geweldig! Deze toegevoegde koppelingen worden nu bijgehouden.
 
 >[!NOTE]
 >
->[Inkomende koppelingen begrijpen](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>[ Begrijpend Binnenkomende Verbindingen ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 11380986
-description: Een werkruimte bewerken - Marketo Docs - Productdocumentatie
-title: Een werkruimte bewerken
+description: Een Workspace - Marketo-document bewerken - Productdocumentatie
+title: Een Workspace bewerken
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 1%
 
 ---
 
-# Een werkruimte bewerken {#edit-a-workspace}
+# Een Workspace bewerken {#edit-a-workspace}
 
-Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
-
->[!NOTE]
->
->**Beheerdersmachtigingen vereist**
+Soms moet u wijzigingen aanbrengen in een Workspace. Het is gemakkelijk.
 
 >[!NOTE]
 >
->Penseel omhoog op werkruimten met [Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+>[!NOTE]
+>
+>Penseel omhoog op werkruimten met [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/edit-a-workspace-1.png)
 
@@ -31,7 +31,7 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
    ![](assets/edit-a-workspace-2.png)
 
-1. Selecteer de werkruimte die u wilt bewerken en klik op **[!UICONTROL Edit Workspace]**.
+1. Selecteer de werkruimte die u wilt bewerken en klik op **[!UICONTROL Edit Workspace]** .
 
    ![](assets/edit-a-workspace-3.png)
 
@@ -39,17 +39,17 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
    >[!NOTE]
    >
-   >U kunt [meer persoonlijke partities maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} als u ze nodig hebt.
+   >U kunt [ tot meer persoonverdelingen ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} leiden als u hen nodig hebt.
 
    ![](assets/edit-a-workspace-4.png)
 
    >[!NOTE]
    >
-   >De **[!UICONTROL All Person Partitions]** selectievakje betekent dat in deze werkruimte alle leadpartities in het systeem kunnen worden gebruikt.
+   >Het selectievakje **[!UICONTROL All Person Partitions]** betekent dat in deze werkruimte alle partities voor leads in het systeem kunnen worden gebruikt.
 
    >[!NOTE]
    >
-   >De **[!UICONTROL Primary Person Partition]** fungeert als de standaardinstelling en is waar alle personen worden toegewezen.
+   >De instructie **[!UICONTROL Primary Person Partition]** fungeert als de standaardinstelling en is de locatie waar alle personen worden toegewezen.
 
    Als u meerdere domeinen met branding hebt ingeschakeld, kunt u overschakelen op een ander domein met primaire branding. Klik op **[!UICONTROL Save]**.
 
@@ -61,5 +61,5 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
 >[!MORELIKETHIS]
 >
->* [Een nieuwe werkruimte maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
->* [Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}
+>* [ creeer een Nieuwe Workspace ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>* [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}

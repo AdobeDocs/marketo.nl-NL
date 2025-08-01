@@ -3,7 +3,7 @@ description: Dialoogoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van dialoogvensters
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -16,13 +16,13 @@ Dialogen zijn individuele praatjegesprekken. In elke Dialoog, beslist u waar het
 
 ## Criteria voor het publiek {#audience-criteria}
 
-De [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} sectie van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
+De [ sectie van de Criteria van de Publiek ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-De [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} in een dialoogvenster kunt u het gesprek ontwerpen dat u met uw websitebezoekers wilt voeren.
+De [ sectie van Designer van de Stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} van een Dialoog is waar u het gesprek zult ontwerpen dat u met uw websitebezoekers wilt hebben.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -64,10 +64,10 @@ Op het tabblad Rapporten kunt u metingen bekijken over de prestaties van uw dial
 
 U kunt alle gepubliceerde dialoogvensters tegelijkertijd uitschakelen (en weer inschakelen).
 
-1. Klik in Dynamic Chat op de knop **[!UICONTROL Configuration]** tab.
+1. Klik in Dynamic Chat op de tab **[!UICONTROL Configuration]** .
 
    ![](assets/dialogue-overview-4.png)
 
-1. Schakelen tussen **[!UICONTROL Chat Enabled]** Schakel uit om alle dialoogvensters uit te schakelen (en weer in om weer in te schakelen).
+1. Schakel **[!UICONTROL Chat Enabled]** uit om alle dialoogvensters uit te schakelen (en weer in om weer in te schakelen).
 
    ![](assets/dialogue-overview-5.png)

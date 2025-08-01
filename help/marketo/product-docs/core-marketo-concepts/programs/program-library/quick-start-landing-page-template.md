@@ -2,23 +2,23 @@
 description: Sjabloon voor startpagina - Marketo-documenten - productdocumentatie
 title: Sjabloon voor startpagina snel starten
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
 
 # Sjabloon voor startpagina snel starten {#quick-start-landing-page-template}
 
-Sommige starterprogramma&#39;s in de Bibliotheek van de Verwijzing van het Marketo Engage bevatten een eenvoudig, gemakkelijk te gebruiken, en klantgericht malplaatje van de Openingspagina dat voor de snelle verwezenlijking van de Pagina&#39;s van het Aanvoeren over een aantal van marketing gebruiksgevallen toestaat.
+Sommige startprogramma&#39;s in de Marketo Engage Reference Library bevatten een eenvoudig, gebruiksvriendelijk en aanpasbaar sjabloon voor de landingspagina waarmee u snel bestemmingspagina&#39;s kunt maken in een aantal gevallen waarin u marketingmateriaal gebruikt.
 
 >[!TIP]
 >
->Meer informatie over [Sjablonen voor bestemmingspagina met instructies](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>Leer meer over [ Geleide Begeleidende Malplaatjes van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Sectieoverzicht {#sections-summary}
 
@@ -49,7 +49,8 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
 * Alineatekstelement om alineakopie bij te werken
 * Formulierelement dat in een formulier moet worden toegevoegd
 * Tekstelement onder het formulier om tekst en koppelingen in het privacybeleid te bewerken
-* Te bewerken variabelen: achtergrondkleur voor sectie
+* Te bewerken variabelen:
+Achtergrondkleur voor sectie
    * Achtergrondkleur direct achter formulier
    * De straal van de grens voor doos rond vorm (makend het gekromde hoeken of, als reeks aan &quot;0&quot;, vierkant van hoeken heeft)
    * De volledige sectie tonen of verbergen
@@ -79,9 +80,9 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
 
 ### Aanvullende variabelen {#additional-variables}
 
-* **Straal van rand van knop**: hiermee wordt de formulierknop afgerond of rechthoekig gemaakt
-* **Knopkleur**: werkt de kleur van de knop op het formulier bij
-* **Aanwijskleur knop**: wijzigt de kleur van de aanwijsstatus voor de knop op het formulier
-* **Kleur van koppeling**: werkt de kleur van koppelingen op de hele pagina bij
-* **Ruimte boven sectie**: voegt ruimte toe boven elke sectie behalve de logosectie
-* **Ruimte onder**: voegt ruimte toe onder elke sectie behalve de sectie logo&#39;s
+* **de grensstraal van de Knoop**: past de vormknoop aan om of worden rond gemaakt of rechthoekig
+* **kleur van de Knoop**: werkt de kleur van de knoop op de vorm bij
+* **de aanwijskleur van de Knoop**: verandert de kleur van de aanwijsstaat voor de knoop op de vorm
+* **kleur van de Verbinding**: werkt de kleur van verbindingen door de pagina bij
+* **Sectie Hoogste die** plaatst: voegt ruimte boven elke sectie behalve de logosectie toe
+* **Onderste het Tussenruimte van de Sectie**: voegt ruimte onder elke sectie behalve de logosectie toe

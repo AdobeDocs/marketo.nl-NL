@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718654
 description: Inzicht in inkomstenmodellen - Marketo-documenten - productdocumentatie
-title: Inkoopmodellen
+title: Indelingsmodellen
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
 
-# Inkoopmodellen {#understanding-revenue-models}
+# Indelingsmodellen {#understanding-revenue-models}
 
 De modellen van de opbrengstcyclus nemen marketing op het volgende niveau. Zij modelleren alle stadia van uw volledige opbrengsttrechter-van wanneer u eerst met een lood in wisselwerking staat al manier tot de lood een gewonnen klant is.
 
@@ -37,35 +37,35 @@ Door gebrek, begint een nieuw model u met zes opbrengststadia. Dit model is op z
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt de **Pad met succes**. Meer weten over het succespad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd het **Weg van het Succes**. Begrijp meer over de succesweg [ hier ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Staven** zijn de mijlpalen op weg naar de verwezenlijking van hun doelstellingen .
+**de Staven** zijn de mijlpalen op een leidingenvooruitgang in de richting van hun doelstellingen.
 
-**Overgangen** worden weergegeven als pijlen en bepalen hoe lopen tussen de fasen worden verplaatst.
+**de Overgangen** worden getoond als pijlen en zij controleren hoe de lood zich tussen stadia beweegt.
 
 >[!NOTE]
 >
->Het anonieme werkgebied is speciaal. Het zijn alle mensen die uw website bezoeken, maar u weet niet wie ze zijn. U kunt dit werkgebied niet wijzigen.
+>Het anonieme werkgebied is speciaal. Het zijn alle mensen die uw website bezoeken, maar je weet niet zeker wie ze zijn. U kunt dit werkgebied niet wijzigen.
 
 ## Aanpassing {#customization}
 
-Elk bedrijf is anders. U kunt dingen aan het model toevoegen door van bovenrecht te slepen.
+Elk bedrijf is anders. U kunt dingen aan het model toevoegen door vanaf de bovenkant naar rechts te slepen.
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
 ## Voorraadfase {#inventory-stage}
 
-Dit ziet eruit als een doos en is de meest elementaire van stadia. Analytics zal de instroom, de uitstroom en het evenwicht van dit stadium volgen.
+Dit ziet eruit als een doos en is de meest elementaire van stadia. Analytics zal de instroom, de uitstroom en de balans van dit stadium volgen.
 
-## SLA-werkgebied {#sla-stage}
+## SLA Stage {#sla-stage}
 
-Dit is kort voor **Service Level Agreement** in. Het is de bedoeling dat u in bepaalde fasen een tijdslimiet wilt handhaven.
+Dit is kort voor **Service level agreement** stadium. Het is de bedoeling dat u in bepaalde fasen een tijdslimiet wilt handhaven.
 
 >[!NOTE]
 >
 >**Voorbeeld**
 >
->Wanneer een lead een formulier &#39;Contact opnemen&#39; invult en u een waarschuwing stuurt naar een verkoper, wilt u wellicht een SLA van 72 uur. U kunt overtredingen bijhouden en de regelaar verslepen om een goede lead incommunicado te verlaten.
+>Wanneer een lead een formulier met de naam &quot;Contact opnemen&quot; invult en een bericht naar een verkoper verzendt, wilt u wellicht een SLA van 72 uur. U kunt overtredingen bijhouden en de regelaar verslepen om een goede lead incommunicado te verlaten.
 
 ## Gate Stage {#gate-stage}
 
@@ -75,7 +75,7 @@ Een Gate-werkgebied is bedoeld voor situaties waarin u leads wilt filteren in ee
 >
 >**Voorbeeld**
 >
->Een poort kan worden gebruikt voor leads die onderdeel zijn van een **benoemde accountlijst** om dit van het normale proces te scheiden.
+>Een poort zou voor lood kunnen worden gebruikt die deel van a **genoemd rekeningslijst** uitmaken om dit van het normale proces te scheiden.
 
 ## Overgangen {#transitions}
 
@@ -87,7 +87,7 @@ Geef aan hoe een lead precies van het ene stadium naar het andere gaat met behul
 >
 >Een overgang kan worden gedefinieerd door een lead die een formulier invult.
 
-Een werkgebied toevoegen van het pad voor blijvend succes
+Een werkgebied toevoegen van het pad naar geluk
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
@@ -95,14 +95,14 @@ Verloren is een goede om toe te voegen, maar u ziet dat het niet op het groene p
 
 >[!MORELIKETHIS]
 >
->* [Een nieuw inkomstenmodel maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Opbrengstmodelinventarisatiestadia gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Opbrengstmodelstatussen gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [ Gebruikend de Staven van de Staven van de Soort van de Opbrengst Model ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [SLA-fasen van inkomstenmodel gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [ Gebruikend de Stages van SLA van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [Rapport over uw inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [ Rapport over Uw Model van Inkomsten ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
->* [Een inkomstenmodel goedkeuren/goedkeuren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>* [ keur/keurt een Model van de Opbrengst goed ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

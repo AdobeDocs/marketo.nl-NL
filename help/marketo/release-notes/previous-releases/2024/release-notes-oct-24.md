@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - oktober 2024 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
@@ -24,67 +24,67 @@ De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/h
 
 De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **worden vrijgegeven 4 Oktober, 2024**, met een gefaseerde implementatie van resterende eigenschappen in de verdere weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Functie</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Functie</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
   </tr>
-    <tr> 
-   <td><strong> Tokenization voor Interactive Webinars </strong>: U kunt nu tokens gebruiken om Interactieve Webinars in e-mails en Openende Pagina's te bevorderen zonder het moeten de webinar details manueel toevoegen.</td> 
+    <tr>
+   <td><strong> Tokenization voor Interactive Webinars </strong>: U kunt nu tokens gebruiken om Interactieve Webinars in e-mails en Openende Pagina's te bevorderen zonder het moeten de webinar details manueel toevoegen.</td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Een interactief webinar promoten</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong> Slimme Lijst "Reeks om"Telling </strong> te beïnvloeden: Zie hoeveel mensen wanneer het uitgeven van de kwalificatieregels van een Slimme Campagne zullen worden beïnvloed.</td> 
+   <tr>
+   <td><strong> Slimme Lijst "Reeks om"Telling </strong> te beïnvloeden: Zie hoeveel mensen wanneer het uitgeven van de kwalificatieregels van een Slimme Campagne zullen worden beïnvloed.</td>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong> Mijn knoop van de Rekening in navigatiespoor </strong>: Voor degenen die naar het Systeem van Adobe Identity Management zijn gemigreerd, staat een nieuwe "Mijn knoop van de Rekening"in de linkernavigatiespoor het vormen van uw tijdzone en de toegang tot abonnementsdetails toe.</td> 
+   <tr>
+   <td><strong> Mijn knoop van de Rekening in navigatiespoor </strong>: Voor degenen die naar het Systeem van Adobe Identity Management zijn gemigreerd, staat een nieuwe "Mijn knoop van de Rekening"in de linkernavigatiespoor het vormen van uw tijdzone en de toegang tot abonnementsdetails toe.</td>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong> de Verbeteringen van het Rapport van Prestaties van de E-mail </strong>: De veelvoudige verbeteringen zijn aangebracht aan e-mail rapporterend metriek en activiteit die, extra inzichten aanbieden en nauwkeurigheid verbeteren.
    <ul>
    <li>Verwijderde en samengevoegde personen filteren van e-mailprestatiegegevens</li>
    <li>E-mail nu geclassificeerd als <i> geaborteerd </i> na het wachten drie dagen voor reactieactiviteit</li>
    <li>E-mail wordt beschouwd als een unieke opening voor elke slimme campagne</li>
-   </td> 
+   </td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-mailprestatierapport</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong> de Metriek van de Achtergrond van de Synchronisatie van Salesforce </strong>: De synchrone productie en de tendensen van de backlog van de monitor om de updates van CRM voor een optimale synchronisatieervaring te plannen en te plannen.
-   </td> 
+   </td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync Backlog Metrics</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -92,7 +92,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 * **Bulk extraheerde API Update**: Wij bevestigden een kwestie in het Bulk Uittreksel API die de columnHeaderNames optie impliceert, die u de namen van de douanekolomkopbal in het uitgevoerde dossier laat specificeren. Eerder konden kolomkopnamen die niet-ASCII-tekens bevatten, beschadigd raken.
 
-* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
+* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
 
 
 * **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik af te schaffen, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van Marketo Engage.

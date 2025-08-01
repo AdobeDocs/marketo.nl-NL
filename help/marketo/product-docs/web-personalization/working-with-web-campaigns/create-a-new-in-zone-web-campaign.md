@@ -4,7 +4,7 @@ description: Een nieuwe webcampagne voor zones maken - Marketo Docs - Productdoc
 title: Nieuwe webcampagne maken in zone
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
@@ -37,45 +37,45 @@ Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en
    >
    >Vervolgens zoekt u naar de id die is gekoppeld aan deze sectie van de website. Deze id wordt gemarkeerd omdat u dat element inspecteert. Als u bijvoorbeeld met de rechtermuisknop in Chrome klikt en op de gemarkeerde tekst staat `<div id="featured-slider">` , typt u &#39;aanbevolen-schuifregelaar&#39; in de sectie &#39;zone-id&#39;. Doorgaans wordt &quot;div-id&quot; gebruikt, maar elke id kan ook worden gebruikt, zoals h1-id, p-id enzovoort.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Naam</th> 
-   <th colspan="1" rowspan="1">Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> Zone-id </strong></td> 
-   <td colspan="1" rowspan="1"><p>Voer de naam in van de id die u hebt gevonden in de HTML-code van uw website-element dat de campagne vervangt.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Vast </strong></p></td> 
-   <td colspan="1" rowspan="1">Het selectievakje Vaste is standaard ingeschakeld voor de campagne In zone en houdt de campagne In zone in de positie van de zone-id tijdens de sessie van de bezoeker op de website. Het wordt aanbevolen om altijd een In-zone in te stellen op Vaste waarde.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Infaden </strong> </p></td> 
-   <td colspan="1" rowspan="1">Als u het selectievakje Effect gebruiken en Infaden selecteert, krijgt het gebied met zone-id op de website een faduw effect. Als In Zone een grafische banner is, wordt de pagina eerst geladen en wordt de campagne vervolgens geactiveerd met een fazig effect.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Schuivend</strong></td> 
-   <td colspan="1">Als u het selectievakje Effect gebruiken en de optie Schuiven selecteert, wordt een schuifeffect toegepast op het gebied Id van zone op de website. Als In Zone een grafische banner is, wordt de pagina eerst geladen en wordt de campagne vervolgens geactiveerd met een verschuivend effect van links naar rechts.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> RTF-editor  </strong></td> 
-   <td colspan="1">Met de RTF-editor kunt u tekst opmaken, koppelen en afbeeldingen invoegen. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md"> lees meer hier </a>.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Voorvertonen op site   </strong></td> 
-   <td colspan="1">Een voorvertoning weergeven van campagnes voordat deze worden gestart. <br> 
-    <ul> 
-     <li> URL - Voer een voorbeeld-URL in waar de campagne wordt uitgevoerd om een voorbeeld te zien van hoe de campagne er live uitziet.</li> 
-     <li>Apparaat - Voorproef hoe uw campagne door apparaat zal verschijnen: Desktop, Mobiel Staand, Mobiel Liggend, het Staand van de Tablet, Staand Staand.</li> 
-     <li> Voorproef - klik <strong> Voorproef </strong> om een nieuw venster van voorbeeld URL te openen om te zien hoe de campagne reageert.</li> 
-     <li> Delen - Gebruik de knop Delen om een e-mail te sturen naar een collega met een koppeling om de proxycampagne te bekijken.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Naam</th>
+   <th colspan="1" rowspan="1">Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> Zone-id </strong></td>
+   <td colspan="1" rowspan="1"><p>Voer de naam in van de id die u hebt gevonden in de HTML-code van uw website-element dat de campagne vervangt.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Vast </strong></p></td>
+   <td colspan="1" rowspan="1">Het selectievakje Vaste is standaard ingeschakeld voor de campagne In zone en houdt de campagne In zone in de positie van de zone-id tijdens de sessie van de bezoeker op de website. Het wordt aanbevolen om altijd een In-zone in te stellen op Vaste waarde.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Infaden </strong> </p></td>
+   <td colspan="1" rowspan="1">Als u het selectievakje Effect gebruiken en Infaden selecteert, krijgt het gebied met zone-id op de website een faduw effect. Als In Zone een grafische banner is, wordt de pagina eerst geladen en wordt de campagne vervolgens geactiveerd met een fazig effect.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Schuivend</strong></td>
+   <td colspan="1">Als u het selectievakje Effect gebruiken en de optie Schuiven selecteert, wordt een schuifeffect toegepast op het gebied Id van zone op de website. Als In Zone een grafische banner is, wordt de pagina eerst geladen en wordt de campagne vervolgens geactiveerd met een verschuivend effect van links naar rechts.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> RTF-editor  </strong></td>
+   <td colspan="1">Met de RTF-editor kunt u tekst opmaken, koppelen en afbeeldingen invoegen. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md"> lees meer hier </a>.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Voorvertonen op site   </strong></td>
+   <td colspan="1">Een voorvertoning weergeven van campagnes voordat deze worden gestart. <br>
+    <ul>
+     <li> URL - Voer een voorbeeld-URL in waar de campagne wordt uitgevoerd om een voorbeeld te zien van hoe de campagne er live uitziet.</li>
+     <li>Apparaat - Voorproef hoe uw campagne door apparaat zal verschijnen: Desktop, Mobiel Staand, Mobiel Liggend, het Staand van de Tablet, Staand Staand.</li>
+     <li> Voorproef - klik <strong> Voorproef </strong> om een nieuw venster van voorbeeld URL te openen om te zien hoe de campagne reageert.</li>
+     <li> Delen - Gebruik de knop Delen om een e-mail te sturen naar een collega met een koppeling om de proxycampagne te bekijken.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

@@ -4,7 +4,7 @@ description: Integratie van RTP met Google Universal Analytics - Marketo Docs - 
 title: RTP integreren met Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -43,7 +43,6 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
    1. Selecteer de **[!UICONTROL Account].**
    1. Selecteer de **[!UICONTROL Property].**
    1. Selecteer **[!UICONTROL Custom Definitions]** en **[!UICONTROL Custom Dimensions]** .
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Voeg een nieuwe aangepaste dimensie toe. Klikken **[!UICONTROL +New Custom Dimension]**
@@ -52,34 +51,34 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
 
 1. Voeg het volgende toe **[!UICONTROL Custom Dimensions]:**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Aangepaste Dimension-naam</strong></p></td> 
-   <td><p><strong>Toepassingsgebied</strong></p></td> 
-   <td><p><strong>Actief</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-organisatie</strong></p></td> 
-   <td><p>Sessie</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-industrie</strong></p></td> 
-   <td><p>Sessie</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-categorie</strong></p></td> 
-   <td><p>Sessie</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-groep</strong></p></td> 
-   <td><p>Sessie</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Aangepaste Dimension-naam</strong></p></td>
+   <td><p><strong>Toepassingsgebied</strong></p></td>
+   <td><p><strong>Actief</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-organisatie</strong></p></td>
+   <td><p>Sessie</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-industrie</strong></p></td>
+   <td><p>Sessie</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-categorie</strong></p></td>
+   <td><p>Sessie</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-groep</strong></p></td>
+   <td><p>Sessie</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

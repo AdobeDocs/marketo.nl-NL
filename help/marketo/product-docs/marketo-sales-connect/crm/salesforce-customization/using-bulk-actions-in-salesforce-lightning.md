@@ -4,7 +4,7 @@ description: Bulkhandelingen gebruiken in Salesforce Lightning - Marketo Docs - 
 title: Bulkhandelingen gebruiken in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%
@@ -39,10 +39,10 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 1. Er verschijnt een MSC-e-mailbericht. Het bevat de volgende functies:
 
-   a. &quot;[!UICONTROL To]&quot;gebied toont &quot;Alle ontvangstbewijzen&quot; - dit beantwoordt aan de lijst van lood u in de Mening van de Lijst van de Leiding hebt gekozen\
-   b. Deze lijst is zichtbaar in het linkerdeelvenster met de naam &quot;Samenstellen met opsommingstekens&quot;. U kunt hier ontvangers toevoegen of verwijderen\
-   c. U kunt een sjabloon kiezen of uw eigen e-mail maken\
-   d. U kunt het e-mailbericht meteen verzenden of plannen om het later te verzenden
+   a. &quot;[!UICONTROL To]&quot;gebied toont &quot;Alle ontvangstbewijzen&quot; - dit beantwoordt aan de lijst van lood u in de Mening van de Lijst van de Leiding hebt gekozen
+b. Deze lijst is zichtbaar in het linkerdeelvenster met de naam &quot;Samenstellen met opsommingstekens&quot;. U kunt hier ontvangers toevoegen of verwijderen
+c. U kunt een sjabloon kiezen of uw eigen e-mail maken
+d. U kunt het e-mailbericht meteen verzenden of plannen om het later te verzenden
 
    ![](assets/three-5.png)
 

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 0%
@@ -258,7 +258,7 @@ ht-degree: 0%
       + [Toewijzing Adobe-organisatie instellen](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Assets importeren met Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [ het Overzicht van de Interface van Adobe Experience Cloud ](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Overzicht Adobe Experience Cloud Interface](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Core Marketo Concepts {#core-marketo-concepts}
       + Slimme campagnes {#smart-campaigns}
          + [Slimme campagnes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -287,7 +287,7 @@ ht-degree: 0%
             + [Een slimme batchcampagne plannen om later uit te voeren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Een terugkerende batchcampagne plannen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;de Campagne wordt gevraagd&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
-            + [ Gebruikend Standaard Slimme Logica van de Regel van de Lijst ](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
+            + [Werken met Standard Smart List Rule Logic](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Handelingen voor stroom {#flow-actions}
             + [Een stroomstap toevoegen aan een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
@@ -977,7 +977,7 @@ ht-degree: 0%
          + Sociale functies {#social-functions}
             + [LinkedIn Gen Forms instellen](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience-segment](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-            + [ Gebruik LinkedIn de Filters en de Trekkers van de Vorm van de Leider van de Leider in een Slimme Campagne ](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + E-mailmarketing {#email-marketing}
       + Strategie en definitie {#deliverability}
          + [Duurzaam abonnement opzeggen](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
@@ -1489,7 +1489,7 @@ ht-degree: 0%
          + Verstuur een e-mail {#send-a-sales-email}
             + [Overzicht van e-mailtracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Taken {#tasks}
-            + [ de Synchronisatie van de Taak van de herinnering met Salesforce ](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+            + [Taaksynchronisatie met Salesforce herinneren](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Sjablonen {#templates}
             + [Hyperlinktekst toevoegen](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Dynamische velden](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)

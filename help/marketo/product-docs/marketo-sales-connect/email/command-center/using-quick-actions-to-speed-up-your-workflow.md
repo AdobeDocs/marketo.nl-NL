@@ -4,7 +4,7 @@ description: Snelle acties gebruiken om uw workflow te versnellen - Marketo Docs
 title: Snelle acties gebruiken om uw workflow te versnellen
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -28,59 +28,59 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
 
 **Gearchiveerd**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Unarchive]</td> 
-   <td>Hiermee verplaatst u het e-mailbericht terug naar de geleverde map en activeert u de weergave of klikt u op bijhouden.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong> Nota:</strong> de e-mails die als deel van een campagne werden verzonden kunnen niet worden geschrapt.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Unarchive]</td>
+   <td>Hiermee verplaatst u het e-mailbericht terug naar de geleverde map en activeert u de weergave of klikt u op bijhouden.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong> Nota:</strong> de e-mails die als deel van een campagne werden verzonden kunnen niet worden geschrapt.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Ontwerp en Gepland**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Edit]</td> 
-   <td>Hiermee opent u het e-mailbericht in het samenstellingsvenster dat u wilt bewerken.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong> Nota:</strong> de e-mails die als deel van een campagne werden verzonden kunnen niet worden geschrapt.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Edit]</td>
+   <td>Hiermee opent u het e-mailbericht in het samenstellingsvenster dat u wilt bewerken.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong> Nota:</strong> de e-mails die als deel van een campagne werden verzonden kunnen niet worden geschrapt.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **ontbroken, Bounce, en Spam**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Retry Send]</td> 
-   <td>Probeer het e-mailbericht meteen opnieuw te verzenden.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong> Nota:</strong> de e-mails die als deel van een campagne werden verzonden kunnen niet worden geschrapt.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Retry Send]</td>
+   <td>Probeer het e-mailbericht meteen opnieuw te verzenden.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong> Nota:</strong> de e-mails die als deel van een campagne werden verzonden kunnen niet worden geschrapt.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **Follow-up Acties**

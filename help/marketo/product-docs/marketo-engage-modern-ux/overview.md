@@ -1,18 +1,18 @@
 ---
-description: Marketo Engage Modern UX-overzicht - Marketo Docs - Productdocumentatie
-title: Marketo Engage Moderne UX - Overzicht
+description: Marketo Engage Modern UX - Overzicht - Marketo Docs - Productdocumentatie
+title: Marketo Engage Modern UX - Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Marketo Engage Moderne UX - Overzicht {#overview}
+# Marketo Engage Modern UX - Overzicht {#overview}
 
-Welkom bij de Adobe Marketo Engage Modern UX (gebruikerservaring), een bijgewerkte interface die verbeterde bruikbaarheid en een nieuwe look and feel biedt op het hele Marketo Engage.
+Welkom bij de Adobe Marketo Engage Modern UX (gebruikerservaring), een bijgewerkte interface die verbeterde bruikbaarheid en een nieuwe look and feel biedt op het hele Marketo Engage-platform.
 
 >[!PREREQUISITES]
 >
@@ -26,19 +26,19 @@ Welkom bij de Adobe Marketo Engage Modern UX (gebruikerservaring), een bijgewerk
 
 Er is veel nieuwe functionaliteit in de Moderne UX, die allen wordt ontworpen om uw marketing ervaring beduidend te verbeteren.
 
-**pictogrammen**
+**Pictogrammen**
 
 De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit.
 
 ![](assets/overview-2.png)
 
-**Algemene navigatie**
+**Globale Navigatie**
 
-Tot ziens superbal. U hebt nu snel toegang tot alle belangrijkste secties van het Marketo Engage.
+Tot ziens superbal. Je hebt nu snel toegang tot alle belangrijkste Marketo Engage-secties.
 
 ![](assets/overview-5.png)
 
-**Instance-URL**
+**Instantie URL**
 
 U hebt ook snel toegang tot uw insteekmodule-id, die nu wordt weergegeven in de URL van uw exemplaar (nog nuttiger voor gebruikers met meerdere abonnementen).
 
@@ -50,116 +50,116 @@ Er zijn veel nieuwe boomfuncties beschikbaar.
 
 >[!NOTE]
 >
->Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als u na een zoekopdracht uw middel niet kunt vinden, gebruikt u de [Globaal zoeken](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) functie.
+>Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als na een onderzoek u van uw activa niet kunt de plaats bepalen, te gebruiken gelieve de [ Globale functie van het Onderzoek ](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
-**Marketo Classic versus de nieuwe Marketo**
+**Klassieke Marketo vs. Nieuwe Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>Functie</th> 
-   <th>Klassiek</th> 
-   <th>Next-gen</th> 
+   <th>Functie</th>
+   <th>Klassiek</th>
+   <th>Next-gen</th>
   </tr>
   <tr>
-   <td>Meerdere filters tegelijk toepassen</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Meerdere filters tegelijk toepassen</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Knooppunt van concept- en goedkeuringsstructuur</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Knooppunt van concept- en goedkeuringsstructuur</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Lokale elementen maken in programmamappen</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Lokale elementen maken in programmamappen</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Dubbelklikken om boomknooppunten uit of samen te vouwen</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Dubbelklikken om boomknooppunten uit of samen te vouwen</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Slepen en neerzetten van boom naar betrokkenheidsstroom</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>Slepen en neerzetten van boom naar betrokkenheidsstroom</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>Slepen en neerzetten in de boomstructuur</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Slepen en neerzetten in de boomstructuur</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Filteren op elementtype en statussen</td> 
-   <td><i>gedeeltelijk</i></td> 
-   <td><strong>X</strong></td>  
+   <td>Filteren op elementtype en statussen</td>
+   <td><i>gedeeltelijk</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Achtergrond markeren om hiërarchie in focusstatus weer te geven</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Achtergrond markeren om hiërarchie in focusstatus weer te geven</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Trefwoorden markeren tijdens zoeken</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Trefwoorden markeren tijdens zoeken</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Horizontaal schuiven</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Horizontaal schuiven</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Status van aanwijzen van boomknooppunten</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Status van aanwijzen van boomknooppunten</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Hele boomstructuur snel samenvouwen</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Hele boomstructuur snel samenvouwen</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Snel samenvouwen tot hoofdknooppunt</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Snel samenvouwen tot hoofdknooppunt</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Real-time update</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Real-time update</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Residuele boom</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Residuele boom</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Zoeken in gearchiveerde mappen</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Zoeken in gearchiveerde mappen</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Zoektekenreeks opgeslagen bij invoeren van algemene zoekopdracht in boomstructuurzoekopdracht</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Zoektekenreeks opgeslagen bij invoeren van algemene zoekopdracht in boomstructuurzoekopdracht</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Alle werkruimten in één boomstructuur tonen</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Alle werkruimten in één boomstructuur tonen</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Statusbadge en knopinfo</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Statusbadge en knopinfo</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Zoeklogica 'Woord begint met'</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Zoeklogica 'Woord begint met'</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Kijk eens naar de nieuwe Global Nav.
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Geen superball drop-down meer</td> 
+   <td>1</td>
+   <td>Geen superball drop-down meer</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Alle vorige superbalkobjecten weergegeven</td> 
+   <td>2</td>
+   <td>Alle vorige superbalkobjecten weergegeven</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>Als u meerdere abonnementen hebt, klikt u op de subnaam om gemakkelijk over te schakelen naar een andere naam</td> 
+   <td>3</td>
+   <td>Als u meerdere abonnementen hebt, klikt u op de subnaam om gemakkelijk over te schakelen naar een andere naam</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Globale zoekopdracht - u kunt nu uw volledige exemplaar van hier doorzoeken</td> 
+   <td>4</td>
+   <td>Globale zoekopdracht - u kunt nu uw volledige exemplaar van hier doorzoeken</td>
   </tr>
  </tbody>
 </table>

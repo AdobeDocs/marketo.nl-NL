@@ -1,9 +1,9 @@
 ---
-description: Leer hoe u een bestaande overgeërfde instantie van een Marketo Engage optimaliseert en schaalt. Volg de controlelijst aan controle admin montages en handhaaf gegevensbestandhygiëne.
+description: Leer hoe u een bestaande Marketo Engage-instantie die u hebt overgeërfd, optimaliseert en schaalt. Volg de controlelijst aan controle admin montages en handhaaf gegevensbestandhygiëne.
 title: Waar moet worden begonnen?
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
@@ -18,19 +18,19 @@ Begint u een nieuwe baan of neemt over een bestaand geval van een andere beheerd
 
 Zorg ervoor dat u op de juiste wijze bent ingesteld in de Marketing Nation Community.
 
-* [**Uw profiel instellen**](https://nation.marketo.com/){target="_blank"}.
+* [**Opstelling uw profiel** ](https://nation.marketo.com/){target="_blank"}.
 
-* Lees de tekst [**Communautaire richtlijnen voor het in de handel brengen**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+* Lees omhoog op de [**Communautaire richtlijnen van de Marketing** ](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* Leer hoe u [**een steungeval indienen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (en bevestig dat je [**instellen als geautoriseerde contactpersoon voor ondersteuning**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Leer hoe te [**een steungeval** voorleggen ](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (en bevestig u [**opstelling als geoorloofd steuncontact** ](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## Uw marketingprofiel samenvoegen {#merge-your-marketing-nation-profile}
 
 Als u al een profiel van de Natie van de Marketing met een vorig bedrijf hebt, volg deze stappen om die geschiedenis over aan uw nieuw profiel te brengen.
 
-1. Maak een gebruikersnaam-/Gemeenschapsprofiel met uw e-mailadres dat toegang heeft tot uw huidige abonnement op het Marketo Engage.
+1. Maak een gebruikersnaam-/Gemeenschapsprofiel met uw e-mailadres dat toegang heeft tot uw huidige Marketo Engage-abonnement.
 
-1. [Nadat u uw profiel hebt gemaakt](https://nation.marketo.com/){target="_blank"} met uw nieuwe bedrijfsinfo, verzend een verzoek aan `ccare@marketo.com` om de gegevens uit uw oude gemeenschapsprofiel te laten samenvoegen met uw nieuwe profiel.
+1. [ nadat u uw profiel ](https://nation.marketo.com/){target="_blank"} met uw nieuwe bedrijfsinfo creeert, leg een verzoek aan `ccare@marketo.com` voor om de gegevens van uw oud communautair profiel te hebben dat met uw nieuwe wordt samengevoegd.
 
 1. Geef in uw verzoek de volgende gegevens op:
 
@@ -42,28 +42,28 @@ Ons Community team zal over 4 tot 6 werkdagen je Gemeenschapsprofielen samenvoeg
 
 ## Jumpstart Your Inherated Marketo Engage Instance  {#jumpstart-your-inherited-marketo-engage-instance}
 
-Adobe, met input van Marketo Champions, heeft verscheidene Marketo Engage Geërfde controlelijsten van de Controle van de Instantie samengesteld om u te helpen de grond lopen raken. Leer hoe u door de verschillende gebieden van het Marketo Engage kunt navigeren en de verschillende taken kunt uitvoeren die vereist zijn om een controle uit te voeren, met koppelingen naar de aanbevolen Help-documentatie inbegrepen.
+Adobe heeft met input van Marketo Champions verschillende checklists van Marketo Engage Inherited Instance Audit samengesteld om u te helpen de grond te raken die loopt. Leer hoe u door de verschillende gebieden van Marketo Engage kunt navigeren en de verschillende taken kunt uitvoeren die nodig zijn om een audit uit te voeren, met koppelingen naar de aanbevolen Help-documentatie.
 
-U kunt [checklists downloaden](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheetvorm.
+U kunt ook [ de controlelijsten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheetvorm downloaden.
 
-* [Sectie Beheer](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [ Admin sectie ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
+* [ Gegevensbestand ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [ Studio van het Ontwerp ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Marketingactiviteiten](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
+* [ de Marketing Activiteiten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Een document maken van uw overgenomen instantie-instelling](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [ Document uw geërfte instantieopstelling ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Manieren om hulp te krijgen {#ways-to-get-help}
 
-Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of gebruikers van het Marketo Engage.
+Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of Marketo Engage-medegebruikers.
 
-* Neem voor technische ondersteuning met iets dat niet goed werkt contact op met **[Klantenondersteuning Marketo Engage](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
+* Voor technische bijstand met iets dat niet behoorlijk werkt, contacteer **[de Steun van de Klant van Marketo Engage ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Maak verbinding met en leer meer van gebruikers in het Marketo Engage in de **[Adobe Marketo Engage Community](https://nation.marketo.com/){target="_blank"}**.
+* Verbind met en leer van medegebruikers van Marketo Engage in de **[Gemeenschap van Adobe Marketo Engage ](https://nation.marketo.com/){target="_blank"}**.
 
-* Voor praktische hulp bij het optimaal benutten van het Marketo Engage **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Voor hands-on hulp bij het krijgen van het meeste uit uw instantie van Marketo Engage, reik uit aan **[Adobe Professional Services ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Controle **[video&#39;s over cursussen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}** over verschillende aspecten van het Marketo Engage.
+* Bekijk **[gekrulde zelfstudievideo&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** op verschillende aspecten van Marketo Engage.

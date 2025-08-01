@@ -4,7 +4,7 @@ description: Persoonlijke gegevens beheren - Marketo-documenten - Productdocumen
 title: Persoonlijke gegevens beheren
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 5%
@@ -49,54 +49,54 @@ Gebruik Persongegevens voor [!DNL Web Personalization] door persoonvelden te sel
    >* Maximale lengte van tekenreekstypen is 255 tekens
    >* Verborgen velden worden automatisch verwijderd
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST API-naam</p></th> 
-   <th><p>SOAP API-naam</p></th> 
-   <th><p>Vriendelijke naam</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>afdeling</p></td> 
-   <td><p>Afdeling</p></td> 
-   <td><p>Afdeling</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>titel</p></td> 
-   <td><p>Titel</p></td> 
-   <td><p>Beroep</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>beoordeling</p></td> 
-   <td><p>Classificatie</p></td> 
-   <td><p>Classificatie</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadScore</p></td> 
-   <td><p>LeadScore</p></td> 
-   <td><p>Score</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>LeadStatus</p></td> 
-   <td><p>Status</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>prioriteit</p></td> 
-   <td><p>Prioriteit</p></td> 
-   <td><p>Prioriteit</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Functie</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>geabonneerd</p></td> 
-   <td><p>Niet geabonneerd</p></td> 
-   <td><p>Niet geabonneerd</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST API-naam</p></th>
+   <th><p>SOAP API-naam</p></th>
+   <th><p>Vriendelijke naam</p></th>
+  </tr>
+  <tr>
+   <td><p>afdeling</p></td>
+   <td><p>Afdeling</p></td>
+   <td><p>Afdeling</p></td>
+  </tr>
+  <tr>
+   <td><p>titel</p></td>
+   <td><p>Titel</p></td>
+   <td><p>Beroep</p></td>
+  </tr>
+  <tr>
+   <td><p>beoordeling</p></td>
+   <td><p>Classificatie</p></td>
+   <td><p>Classificatie</p></td>
+  </tr>
+  <tr>
+   <td><p>leadScore</p></td>
+   <td><p>LeadScore</p></td>
+   <td><p>Score</p></td>
+  </tr>
+  <tr>
+   <td><p>leadStatus</p></td>
+   <td><p>LeadStatus</p></td>
+   <td><p>Status</p></td>
+  </tr>
+  <tr>
+   <td><p>prioriteit</p></td>
+   <td><p>Prioriteit</p></td>
+   <td><p>Prioriteit</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>LeadRole</p></td>
+   <td><p>Functie</p></td>
+  </tr>
+  <tr>
+   <td><p>geabonneerd</p></td>
+   <td><p>Niet geabonneerd</p></td>
+   <td><p>Niet geabonneerd</p></td>
+  </tr>
+ </tbody>
 </table>
 
 De volgende voorbeeldvelden worden in het vak weergegeven voor nieuwe [!DNL Web Personalization] -accounts:

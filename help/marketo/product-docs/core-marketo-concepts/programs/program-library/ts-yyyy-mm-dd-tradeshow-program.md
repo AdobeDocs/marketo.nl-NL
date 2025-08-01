@@ -2,199 +2,199 @@
 description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Productdocumentatie
 title: TS-YYYY-MM-DD-Tradeshow-programma
 feature: Programs
-exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
 
 # TS-YYYY-MM-DD-Tradeshow-programma {#ts-yyyy-mm-dd-tradeshow-program}
 
-Dit is een voorbeeld van een transactieprogramma met uitnodigingen en follow-up-e-mails die een gebeurtenisprogramma voor Marketo&#39;s Engage gebruiken.
+Dit is een voorbeeld van een transactieprogramma met uitnodigingen en follow-upe-mails die gebruikmaken van een Marketo Engage-gebeurtenisprogramma.
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanaal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanaal</th>
    <th>Lidmaatschapsstatus</th>
    <th>Analysegedrag</th>
    <th>Programmatype</th>
-  </tr> 
-  <tr> 
-   <td>Gebeurtenis</td> 
-   <td>01-Uitgenodigd 
-   <br/>02-Waitlijst
-   <br/>03-Ingeschreven
-   <br/>04-Bezochte Booth
-   <br/>05-Gegroepeerd bij Show - Succes
-   <br/>06-Gegroepeerd bij postshow - Succes</td>
+  </tr>
+  <tr>
+   <td>Gebeurtenis</td>
+   <td>01-Uitgenodigd
+   <br/> 02-Gewacht
+   <br/> 03-Geregistreerd
+   <br/> 04-Bezochte Boek
+   <br/> 05-Gecodeerd bij Show - Succes
+   <br/> 06-Geëngageerd bij de Show van het Post - Succes</td>
    <td>Inclusief</td>
    <td>Gebeurtenis</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Het programma bevat de volgende elementen {#program-contains-the-following-assets}
+## Het programma bevat de volgende Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Sjabloonnaam</th>
    <th>Elementnaam</th>
-  </tr> 
-  <tr> 
-   <td>E-mail</td> 
+  </tr>
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01-E-mail-Dank u</td>
   </tr>
-   <tr> 
-   <td>E-mail</td> 
+   <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>02a- E-mail - Uitnodiging</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Lokaal rapport</td> 
+  <tr>
+   <td>Lokaal rapport</td>
    <td> </td>
    <td>E-mailprestaties</td>
   </tr>
-  <tr> 
-   <td>Lokaal rapport</td> 
+  <tr>
+   <td>Lokaal rapport</td>
    <td> </td>
    <td>Programmaprestaties</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>00 - Programma voor overname van vastleggingen</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>01 - Uitnodiging verzenden</td>
   </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
+   <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>02 - Verstuur vervolgberichten</td>
   </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
+   <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>03 - Betrokken door follow-up-e-mail (geslaagd)</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
-   <td>Activa - Houdt alle creatieve activa in huis 
-<br/>(submappen voor e-mail- en bestemmingspagina's)</td>
+   <td>Assets - Houdt alle creatieve middelen in huis
+<br/> (submappen voor e-mail- en bestemmingspagina's)</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Campagnes - Houdt alle Slimme Campagnes</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Rapporten</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
 ## Mijn tokens inbegrepen {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type token</th>
    <th>Tokennaam</th>
    <th>Waarde</th>
   </tr>
-  <tr> 
-   <td>Kalenderbestand</td> 
+  <tr>
+   <td>Kalenderbestand</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>Dubbelklik voor details</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>RTF</td> 
+   <tr>
+   <td>RTF</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
-   <tr> 
-   <td>Tekst</td> 
+   <tr>
+   <td>Tekst</td>
    <td><code>{{my.Event-City}}</code></td>
    <td><code><--My Event City Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>Handelsversie</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Conflictregels {#conflict-rules}
 
-* **Programmatags**
-   * Tags maken in dit abonnement - _Aanbevolen_
+* **de Markeringen van het Programma**
+   * Creeer markeringen in dit abonnement - _Geadviseerde_
    * Negeren
 
-* **Landingspagina-sjabloon met dezelfde naam**
+* **het Bestaan malplaatje van de Pagina met de zelfde naam**
    * Originele sjabloon kopiëren
-   * Doelsjabloon gebruiken - _Aanbevolen_
+   * Het bestemmingsmalplaatje van het gebruik - _geadviseerde_
 
-* **Afbeeldingen met dezelfde naam**
+* **Beelden met de zelfde naam**
    * Beide bestanden behouden
-   * Item in dit abonnement vervangen - _Aanbevolen_
+   * Vervang punt in dit abonnement - _geadviseerde_
 
-* **E-mailsjablonen met dezelfde naam**
+* **E-mailmalplaatjes met de zelfde naam**
    * Beide sjablonen behouden
-   * Bestaande sjabloon vervangen - _Aanbevolen_
+   * Vervang bestaand malplaatje - _geadviseerde_
 
 ## Aanbevolen procedures {#best-practices}
 
@@ -211,7 +211,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
 
 >[!TIP]
 >
->Vergeet niet de campagne &quot;03 - Betrokken door follow-up-e-mail (Program Success)&quot; te activeren voor het bijhouden van succes! Doe dit _voor_ je e-mailberichten worden verzonden.
+>Vergeet niet de campagne &quot;03 - Betrokken door follow-up-e-mail (Program Success)&quot; te activeren voor het bijhouden van succes! Doe dit _alvorens_ uw e-mails worden verzonden.
 
 >[!IMPORTANT]
 >

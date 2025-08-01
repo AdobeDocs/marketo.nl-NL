@@ -1,8 +1,8 @@
 ---
 description: Tabblad Betrokkenheid - Marketo-documenten - Productdocumentatie
 title: Tabblad Betrokkenheid
-exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
+exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Stappen van de stroom: Als een Stap van de Stroom keuzen omvat, zal deze kaart d
 * Lijst met keuzevoorwaarden die zijn gekoppeld aan de stroomstap
 * Stroom bewerken
 
-Stappen voor stroom: als een Stroom _niet_ Deze kaart bevat alle opties die aan de Flow Step zijn gekoppeld. Als u erop klikt, wordt een uitschuifvenster weergegeven met de volgende informatie:
+Stappen van de stroom: Als een Stap van de Stroom __ geen keuzen omvat, zal deze kaart de attributen tonen verbonden aan de Stap van de Stroom. Als u erop klikt, wordt een uitschuifvenster weergegeven met de volgende informatie:
 
 * Campagne de Stroom Stap behoort tot
 * Lijst met kenmerken die zijn gekoppeld aan de Flow Step
@@ -69,7 +69,7 @@ Stappen voor stroom: als een Stroom _niet_ Deze kaart bevat alle opties die aan 
    * Lijst met keuzevoorwaarden die zijn gekoppeld aan de stroomstap
    * Stroom bewerken
 
-* Als een campagne voor uitvoeren of aanvragen opties bevat, wordt het klikken op de stroomkaart uitgebreid en worden alle opties in de afzonderlijke kaarten weergegeven. Klik op de knop _keuze_ De kaart zal de campagne uitbreiden verbonden aan de specifieke keus evenals zal een diapaneel met de volgende informatie openbaren:
+* Als een campagne voor uitvoeren of aanvragen opties bevat, wordt het klikken op de stroomkaart uitgebreid en worden alle opties in de afzonderlijke kaarten weergegeven. Het klikken op de _keus_ kaart zal de campagne uitbreiden verbonden aan de specifieke keus evenals zal een dia-uit paneel met de volgende informatie openbaren:
 
    * Campagne van de keuze behoort tot
    * Keuze bewerken
@@ -134,7 +134,7 @@ Hieronder ziet u een voorbeeld van een waarschuwing in een Keuzenkaart die u kun
 >
 >Waarschuwingen zijn aanbevelingen om te controleren, maar ze zijn niet indicatief voor fouten in de slimme campagne.
 
-**Fouten in filterkaarten kunnen het volgende omvatten:**
+**de Fouten in filterkaarten kunnen omvatten:**
 
 * Een fout in de slimme lijst die ertoe zal leiden dat gekwalificeerd publiek niet wordt getoond
 

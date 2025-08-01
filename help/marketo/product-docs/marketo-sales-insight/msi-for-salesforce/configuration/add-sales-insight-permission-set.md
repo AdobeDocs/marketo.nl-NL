@@ -3,7 +3,7 @@ description: Insight-machtigingsset voor verkoop toevoegen - Marketo-documenten 
 title: Insight-machtigingsset voor verkoop toevoegen
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 1%
@@ -28,53 +28,53 @@ De machtiging Marketo App maakt deel uit van het pakket [!DNL Sales Insight] [!D
 
 **de Montages van Objecten**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>Gegevens beste biets</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>Weergaven beste ets</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>Marketo [!DNL Sales Insight] Config</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>Waarden</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>Gegevens beste biets</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>Weergaven beste ets</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>Marketo [!DNL Sales Insight] Config</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>Waarden</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Alles lezen, maken, bewerken, verwijderen, bekijken, wijzigen</td>
+  </tr>
+ </tbody>
 </table>
 
 * Toegang tot Apex-klasse: 159 Apex-klassen die beginnen met &quot;mkto_si&quot;

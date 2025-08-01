@@ -4,7 +4,7 @@ description: Performance Insights-dashboards - Marketo Docs - productdocumentati
 title: Dashboards met prestatiegegevens
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -51,33 +51,33 @@ Het dashboard van [!UICONTROL Pipeline] toont kanaalprestaties door middel van e
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Nieuwe mogelijkheden</span></strong></p></td> 
-   <td><p>Het deel van de kredieten dat het programma heeft ontvangen om de schepping van nieuwe kansen te beïnvloeden. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipet gemaakt</span></strong></p></td> 
-   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van kansen te beïnvloeden. Het kan een fractie van het totaal zijn als er meerdere leads bij betrokken waren.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipet open</span></strong></p></td> 
-   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van nog openstaande kansen te beïnvloeden. Het kan een fractie van het totaal zijn als er meerdere leads bij betrokken waren.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Verwachte inkomsten</span></strong></p></td> 
-   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van kansen te beïnvloeden. Verwachte opbrengsten zijn de opportuniteitswaarschijnlijkheid vermenigvuldigd met de opportuniteitswaarde. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Kosten per gemaakte opportunity</span></strong></p></td> 
-   <td><p>Het deel van de kosten van het programma dat de nieuwe kansen beïnvloedde gedeeld door het totale aantal nieuwe kansen die werden gecreëerd.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pijpleiding gemaakt naar kostenverhouding</span></strong></p></td> 
-   <td><p>Het deel van de kredieten dat een programma heeft ontvangen om de creatie van nieuwe kansen te beïnvloeden, gedeeld door het deel van de kosten van het programma dat de schepping van kansen beïnvloedde.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Nieuwe mogelijkheden</span></strong></p></td>
+   <td><p>Het deel van de kredieten dat het programma heeft ontvangen om de schepping van nieuwe kansen te beïnvloeden. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipet gemaakt</span></strong></p></td>
+   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van kansen te beïnvloeden. Het kan een fractie van het totaal zijn als er meerdere leads bij betrokken waren.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipet open</span></strong></p></td>
+   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van nog openstaande kansen te beïnvloeden. Het kan een fractie van het totaal zijn als er meerdere leads bij betrokken waren.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Verwachte inkomsten</span></strong></p></td>
+   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van kansen te beïnvloeden. Verwachte opbrengsten zijn de opportuniteitswaarschijnlijkheid vermenigvuldigd met de opportuniteitswaarde. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Kosten per gemaakte opportunity</span></strong></p></td>
+   <td><p>Het deel van de kosten van het programma dat de nieuwe kansen beïnvloedde gedeeld door het totale aantal nieuwe kansen die werden gecreëerd.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pijpleiding gemaakt naar kostenverhouding</span></strong></p></td>
+   <td><p>Het deel van de kredieten dat een programma heeft ontvangen om de creatie van nieuwe kansen te beïnvloeden, gedeeld door het deel van de kosten van het programma dat de schepping van kansen beïnvloedde.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenue] {#revenue}
@@ -86,23 +86,23 @@ Het dashboard van [!UICONTROL Revenue] toont kanaalprestaties door middel van ee
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Opportunity Won</span></strong></p></td> 
-   <td><p>Het deel van de kredieten dat een programma ontving om een eigen kans te beïnvloeden.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Won-inkomsten</span></strong></p></td> 
-   <td><p>Het deel van het krediet (in monetaire waarde) dat is ontvangen om een eigen kans te beïnvloeden.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Kosten per opportuniteitswoning</span></strong></p></td> 
-   <td><p>Het deel van de kosten van het programma dat de nieuwe kansen beïnvloedde gedeeld door het totale aantal nieuwe kansen die werden gecreëerd.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Wonkosten-batenverhouding</span></strong></p></td> 
-   <td><p>Het deel van de kredieten (in monetaire waarde) dat werd ontvangen om een eigen kans te beïnvloeden, gedeeld door het deel van de kosten van het programma dat nieuwe kansen beïnvloedde.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Opportunity Won</span></strong></p></td>
+   <td><p>Het deel van de kredieten dat een programma ontving om een eigen kans te beïnvloeden.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Won-inkomsten</span></strong></p></td>
+   <td><p>Het deel van het krediet (in monetaire waarde) dat is ontvangen om een eigen kans te beïnvloeden.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Kosten per opportuniteitswoning</span></strong></p></td>
+   <td><p>Het deel van de kosten van het programma dat de nieuwe kansen beïnvloedde gedeeld door het totale aantal nieuwe kansen die werden gecreëerd.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Wonkosten-batenverhouding</span></strong></p></td>
+   <td><p>Het deel van de kredieten (in monetaire waarde) dat werd ontvangen om een eigen kans te beïnvloeden, gedeeld door het deel van de kosten van het programma dat nieuwe kansen beïnvloedde.</p></td>
+  </tr>
+ </tbody>
 </table>

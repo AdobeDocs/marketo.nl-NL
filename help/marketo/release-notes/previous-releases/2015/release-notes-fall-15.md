@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - herfst 2015 - Marketo Docs - Productdo
 title: Opmerkingen bij de release - herfst 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ U kunt meerdere abonnementen maken op een slimme lijst. Per Marketo-exemplaar zi
 
 [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel ondersteunen we de mogelijkheid om een aangepast 1:N-object te maken in Marketo en dit aan te sluiten op een lead of een bedrijf.
+Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel steunen wij de capaciteit om een 1 :N douanevoorwerp in Marketo tot stand te brengen en het met een lood of een bedrijf te verbinden.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijge
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Synchronisatie valideren {#microsoft-dynamics-validate-sync}

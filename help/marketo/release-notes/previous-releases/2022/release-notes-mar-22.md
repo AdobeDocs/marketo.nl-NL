@@ -3,9 +3,9 @@ description: Opmerkingen bij de release - maart 2022 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - maart 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ De volgende eigenschappen zullen beginnen om op **Maart 11, 2022**, met een gefa
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**: maximaliseer elke kans op uw website door zowel leads als accounts aan te spreken met pro-actieve, aansprekende en 1:1 persoonlijke gesprekken. [ Dynamic Chat ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} staat de gebruikers van Marketo Engage toe om praatje als zeer belangrijk deel van geïntegreerde dwars-kanaalervaringen voor B2B marketing en verkoopgebruiksgevallen te beginnen. De eigenschappen omvatten: de capaciteit om vergaderingen direct binnen het praatje te boeken, leiden het verpletteren, aanzetmalplaatjes, belemmering-en-dalingsgespreksverwezenlijking, en nog veel meer. Dynamic Chat is in alle Marketo Engage-pakketten opgenomen en wordt dit jaar aan alle Marketo Engage-gebruikers uitgerold.
+* **[!DNL Dynamic Chat]**: maximaliseer elke kans op uw website door zowel lood als rekeningen met pro-actieve, het in dienst nemen, en 1 :1 gepersonaliseerde gesprekken te richten. [ Dynamic Chat ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} staat de gebruikers van Marketo Engage toe om praatje als zeer belangrijk deel van geïntegreerde dwars-kanaalervaringen voor B2B marketing en verkoopgebruiksgevallen te beginnen. De eigenschappen omvatten: de capaciteit om vergaderingen direct binnen het praatje te boeken, leiden het verpletteren, aanzetmalplaatjes, belemmering-en-dalingsgespreksverwezenlijking, en nog veel meer. Dynamic Chat is in alle Marketo Engage-pakketten opgenomen en wordt dit jaar aan alle Marketo Engage-gebruikers uitgerold.
 
 * **Versterking van het Filtreren van de Activiteit van de Activiteit van de E-mail van de Boot van de Actie van de Actie van de Actie van de Boot**: Als verbetering aan de eerder vrijgegeven [ Filtrerende eigenschap van de Activiteit van de Actie van de E-mail ](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}, kunt u nu opt-in aan logboekactiviteiten die als bots worden geïdentificeerd. U kunt vervolgens handelingen filteren en activeren op basis van activiteiten die door bots worden aangeduid als uitgevoerd.
 
@@ -50,7 +50,7 @@ De volgende eigenschappen zullen beginnen om op **Maart 11, 2022**, met een gefa
 
 * **Terugkeer maakt Open het Volgen Status van E-mail** onbruikbaar: Staat voor het lezen van open het volgen status van e-mails via API toe
 * **wint Dynamische Onderwerplijnen van het Onderwerp van de Inhoud van E-mail** terug: Staat marketers toe om analyse van dynamische onderwerplijnen in de hulpmiddelen van BI uit te voeren
-* **CRUD van de Gebieden van het Lid van het 0&rbrace; Programma van het Lid Douane: Staat marketers toe om programmatically tot de gebieden van de programmalid te leiden**
+* **CRUD van de Gebieden van het Lid van het 0} Programma van het Lid Douane: Staat marketers toe om programmatically tot de gebieden van de programmalid te leiden**
 * **Bulk de Uitvoer van het Voorwerp van de Douane updatedAt Filter**: Staat marktleiders toe om douanevoorwerpen programmatically te synchroniseren
 * **stelt HoofdPlaatsing van het Begin voor E-mailProgramma&#39;s** bloot: Staat marketers toe om e-mailprogramma&#39;s met hoofdbegin via API te vormen
 * **Selectieve Update van de Markering van het Programma**: Staat marketers toe om selectieve markeringsupdates te duwen zonder alle markeringen tezelfdertijd te duwen

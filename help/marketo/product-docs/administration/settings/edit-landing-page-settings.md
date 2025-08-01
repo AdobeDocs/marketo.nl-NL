@@ -4,7 +4,7 @@ description: Instellingen voor openingspagina bewerken - Marketo Docs - Productd
 title: Instellingen openingspagina bewerken
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -17,9 +17,9 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/edit-landing-page-settings-1.png)
 
@@ -27,7 +27,7 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. In de **[!UICONTROL Landing Pages]** sectie, klikken **[!UICONTROL Edit]**.
+1. Klik in de sectie **[!UICONTROL Landing Pages]** op **[!UICONTROL Edit]** .
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,21 +37,21 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
    | Term | Definitie |
    |---|---|
-   | [!UICONTROL Domain name for landing pages] | Dit is uw NAAM. Een CNAME is het eerste deel van URL u mensen voor het landen van pagina&#39;s geeft. Bijvoorbeeld in `https://go.yourCompany.com`, het woord &quot;go&quot; is de CNAME. Je kan meerdere, maar de meeste mensen gebruiken gewoon het ene. |
-   | [!UICONTROL Fallback page] | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Meer informatie over [terugvalpagina&#39;s](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Domain name for landing pages] | Dit is uw NAAM. Een CNAME is het eerste deel van URL u mensen voor het landen van pagina&#39;s geeft. In `https://go.yourCompany.com` is het woord &quot;go&quot; bijvoorbeeld de CNAME. Je kan meerdere, maar de meeste mensen gebruiken gewoon het ene. |
+   | [!UICONTROL Fallback page] | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Leer meer over [ reservepagina&#39;s ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Homepage] | Voer de URL van uw bedrijfssite in. |
 
-1. Controleer de **[!UICONTROL Form Prefill]** Schakel het selectievakje in om formulieren de mogelijkheid te bieden om vooraf gegevens in te vullen voor bekende (gekoelde) personen. Schakel de optie uit om te blokkeren.
+1. Schakel het selectievakje **[!UICONTROL Form Prefill]** in om formulieren de mogelijkheid te bieden om informatie voor bekende (gekoelde) personen vooraf in te vullen. Schakel de optie uit om te blokkeren.
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >Als u de voorvoegsel wilt `<script>` -tag wordt weergegeven aan het einde van de `<head>` tag in de code, controleer de **[!UICONTROL Inject Prefill Script at End of Head]** doos. Laat deze optie uitgeschakeld als u deze aan het begin wilt weergeven.
+   >Als u de tag prefill `<script>` wilt weergeven aan het einde van de tag `<head>` in de code, schakelt u het selectievakje **[!UICONTROL Inject Prefill Script at End of Head]** in. Laat deze optie uitgeschakeld als u deze aan het begin wilt weergeven.
    >
-   >Controleren **[!UICONTROL Remove default favicon links]** om te voorkomen dat Marketo een favicon-koppeling invoegt in de code.
+   >Schakel **[!UICONTROL Remove default favicon links]** in om te voorkomen dat Marketo favicon-koppelingen invoegt in de code.
 
-1. Nadat u de selecties hebt gemaakt, klikt u op **[!UICONTROL Save]**.
+1. Nadat u de selecties hebt gemaakt, klikt u op **[!UICONTROL Save]** .
 
    ![](assets/edit-landing-page-settings-6.png)
 

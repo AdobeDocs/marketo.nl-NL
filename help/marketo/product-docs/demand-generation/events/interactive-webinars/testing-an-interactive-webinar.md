@@ -3,7 +3,7 @@ description: Een interactief webinar testen - Marketo Docs - Productdocumentatie
 title: Een interactief webinar testen
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: f73c052954b182255f53496bd2baadad7482ed1e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '370'
 ht-degree: 0%
@@ -30,4 +30,4 @@ Nadat de webinar is gemaakt en ontworpen, kunnen de gastheer, co-host en/of pres
 
 ## Functies die niet beschikbaar zijn tijdens testen {#features-not-available-when-testing}
 
-Omdat dit een testwebinar is, zijn er weinig dingen die niet beschikbaar voor u zijn die normaal na een levend webinar zouden zijn. Dit omvat: het opnemen van het webinar, het verkrijgen van de betrokkenheidsinzichten voor het webinar in de vorm van het Betrokkenheidsdashboard, of het samengevoegde dashboard op het tabblad Dashboard. De tracering van webinars op aanvraag voor interactieve webinars, die beschikbaar is voor opgenomen webinars, is ook niet beschikbaar. Aangezien er tijdens het webinar van de test geen gegevens over de betrokkenheid worden bijgehouden, zullen er geen gegevens van Adobe Connect naar Marketo Engage worden ontvangen, zodat er geen na het webinar verzorging kan worden uitgevoerd.
+Omdat dit een testwebinar is, zijn er weinig dingen die niet beschikbaar voor u zijn die normaal na een levend webinar zouden zijn. Dit omvat: het opnemen van het webinar, het verkrijgen van de betrokkenheidsinzichten voor het webinar in de vorm van het Betrokkenheidsdashboard, of het samengevoegde dashboard op het tabblad Dashboard. De tracering van webinars op aanvraag voor interactieve webinars, die beschikbaar is voor opgenomen webinars, is ook niet beschikbaar. Aangezien er tijdens het webinar van de test geen gegevens over de betrokkenheid worden bijgehouden, worden er geen gegevens van Adobe Connect naar Marketo Engage ontvangen, zodat er na het webinar geen borstvoeding kan worden gegeven.

@@ -6,7 +6,7 @@ description: Leer hoe u inhoud in uw e-mailsjablonen kunt vergrendelen.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '831'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Een structuur in de sjabloon vergrendelen:
 
 1. Selecteer de structuur die u wilt vergrendelen.
 
-1. Kies **[!UICONTROL Locked]** in de vervolgkeuzelijst **[!UICONTROL Lock type]** .
+1. Kies **[!UICONTROL Lock type]** in de vervolgkeuzelijst **[!UICONTROL Locked]** .
 
    ![](assets/content-locking-3.png){width="800" zoomable="yes"}
 
@@ -89,7 +89,7 @@ Nadat een structuur is vergrendeld, kunnen er geen verdere inhoudcomponenten of 
 
 1. Schakel de optie **[!UICONTROL Use specific locking]** in.
 
-1. Kies **[!UICONTROL Editable]** in de vervolgkeuzelijst **[!UICONTROL Lock type]** . Selecteer **[!UICONTROL Editable content only]** als u het bewerken van inhoud tijdens het vergrendelen van stijlen wilt toestaan. [ leer hoe te om componenten ](#lock-components) te sluiten
+1. Kies **[!UICONTROL Lock type]** in de vervolgkeuzelijst **[!UICONTROL Editable]** . Selecteer **[!UICONTROL Editable content only]** als u het bewerken van inhoud tijdens het vergrendelen van stijlen wilt toestaan. [ leer hoe te om componenten ](#lock-components) te sluiten
 
    ![](assets/content-locking-4.png){width="800" zoomable="yes"}
 

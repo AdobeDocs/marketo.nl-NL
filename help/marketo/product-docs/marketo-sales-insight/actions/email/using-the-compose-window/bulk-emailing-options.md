@@ -3,7 +3,7 @@ description: Opties voor e-mail met bulkobjecten - Marketo Docs - Productdocumen
 title: Opties voor bulke-mail
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 3%
@@ -16,41 +16,41 @@ Het bulksgewijs verzenden van e-mails is een geweldige manier om uw betrokkenhei
 
 **E-mail van de Groep vs. Uitgezocht en verzendt**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Verzendtype</th> 
-   <th>Max. aantal e-mails</th> 
-   <th>Verzenden gestart door</th> 
-   <th>E-mails met bulkbewerking</th> 
-   <th>Elke e-mail afzonderlijk bewerken</th> 
-   <th>Ondersteuning voor sjablonen en dynamische velden</th> 
-  </tr> 
-  <tr> 
-   <td>Groep-e-mail</td> 
-   <td>1.000</td> 
-   <td>Selecteer een groep en klik "[!UICONTROL Group Actions]"knoop, of typ de groepsnaam in het Aan gebied.</td> 
-   <td>Ja</td> 
-   <td>Nee</td> 
-   <td>Ja</td> 
-  </tr> 
-  <tr> 
-   <td>Selecteren en verzenden</td> 
-   <td>200</td> 
-   <td>Selecteer personen in het raster en klik op de knop "[!UICONTROL Email Selected]" op de actiebalk of typ ontvangers in de grote zijbalk van de e-mail.</td> 
-   <td>Ja</td> 
-   <td>Ja</td> 
-   <td>Ja</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Verzendtype</th>
+   <th>Max. aantal e-mails</th>
+   <th>Verzenden gestart door</th>
+   <th>E-mails met bulkbewerking</th>
+   <th>Elke e-mail afzonderlijk bewerken</th>
+   <th>Ondersteuning voor sjablonen en dynamische velden</th>
+  </tr>
+  <tr>
+   <td>Groep-e-mail</td>
+   <td>1.000</td>
+   <td>Selecteer een groep en klik "[!UICONTROL Group Actions]"knoop, of typ de groepsnaam in het Aan gebied.</td>
+   <td>Ja</td>
+   <td>Nee</td>
+   <td>Ja</td>
+  </tr>
+  <tr>
+   <td>Selecteren en verzenden</td>
+   <td>200</td>
+   <td>Selecteer personen in het raster en klik op de knop "[!UICONTROL Email Selected]" op de actiebalk of typ ontvangers in de grote zijbalk van de e-mail.</td>
+   <td>Ja</td>
+   <td>Ja</td>
+   <td>Ja</td>
+  </tr>
+ </tbody>
 </table>
 
 **Gebruikend E-mail van de Groep**

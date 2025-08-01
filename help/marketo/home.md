@@ -2,7 +2,7 @@
 title: Marketo-productdocumenten
 description: Leer hoe u uw marketing naar het volgende niveau kunt brengen met deze Marketo-productdocumenten. Ga aan de slag met een Marketo-zelfstudie en lees andere populaire artikelen.
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 8%

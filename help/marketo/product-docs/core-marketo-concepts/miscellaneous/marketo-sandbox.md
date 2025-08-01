@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - Productdocumentatie
 title: Marketo-sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Marketo-sandbox {#marketo-sandbox}
 
-Een sandbox van een Marketo Engage is een extra instantie die wordt gebruikt voor testdoeleinden voordat deze wordt geïmplementeerd in de productieomgeving.
+Een Marketo Engage-sandbox is een extra instantie die wordt gebruikt voor testdoeleinden voordat deze wordt geïmplementeerd in de productieomgeving.
 
 >[!AVAILABILITY]
 >
->Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet iedereen heeft deze functie aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 Een Marketo-sandbox kan niet worden gesynchroniseerd met uw normale CRM-server als deze al is gesynchroniseerd met uw productieexemplaar. Gebruik de sandbox van uw CRM voor de synchronisatie en voer dezelfde stappen uit als de oorspronkelijke synchronisatie.
 
@@ -29,7 +29,7 @@ Een Marketo-sandbox kan niet worden gesynchroniseerd met uw normale CRM-server a
 
 >[!CAUTION]
 >
->Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met uw Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 ## Instantie kopiëren {#instance-copy}
 

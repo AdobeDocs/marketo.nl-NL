@@ -4,7 +4,7 @@ description: Overzicht van Command Center - Marketo Docs - Productdocumentatie
 title: Overzicht van Command Center
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -23,59 +23,59 @@ In het gedeelte E-mail van [!UICONTROL Command Center] kunt u al uw e-mailactivi
 
 In de sectie E-mail krijgt u een vogeloogweergave in al uw e-mails en wordt de organisatie vereenvoudigd met primaire tabbladen en subtabbladen die fungeren als mappen waarin uw e-mails automatisch worden opgeslagen op basis van hun status.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="Achtergrondkleur: Grijs"><p title=""><strong><span>Primair</span> </strong></p></td> 
-   <td title="Achtergrondkleur: Grijs"><p title=""><strong><span>Secundair</span> </strong></p></td> 
-   <td title="Achtergrondkleur: Grijs"><p title=""><strong><span>Beschrijving</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Blauw"><strong title="">Verzonden</strong></td> 
-   <td title="Achtergrondkleur: Blauw">[!UICONTROL Delivered]</td> 
-   <td title="Achtergrondkleur: Blauw">E-mails die aan de ontvanger zijn bezorgd.</td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Blauw"><br></td> 
-   <td title="Achtergrondkleur: Blauw">[!UICONTROL Archived]</td> 
-   <td title="Achtergrondkleur: Blauw">E-mails die door de gebruiker zijn gearchiveerd om het bijhouden van e-mails uit te schakelen.</td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Grijs"><strong title="">In behandeling</strong></td> 
-   <td title="Achtergrondkleur: Grijs">[!UICONTROL Scheduled]</td> 
-   <td title="Achtergrondkleur: Grijs">E-mailberichten die volgens de planning moeten worden verzonden. Nadat een e-mail is verzonden, wordt deze naar de geleverde map verplaatst.</td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Grijs"><br></td> 
-   <td title="Achtergrondkleur: Grijs">[!UICONTROL Draft]</td> 
-   <td title="Achtergrondkleur: Grijs"><p>E-mails die zijn opgeslagen als concept.<br><strong> Nota:</strong> slechts één enkele e-mail kan als concepten worden bewaard. E-mails met opsommingstekens (e-mails selecteren en verzenden en e-mails per groep) worden niet opgeslagen als concepten.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Grijs"><br></td> 
-   <td title="Achtergrondkleur: Grijs">[!UICONTROL In Progress]</td> 
-   <td title="Achtergrondkleur: Grijs">Dit is een tussenliggende staat waar e-mails naar gaan wanneer ze in de verzendende beweging zijn. E-mails mogen slechts enkele ogenblikken in uitvoering zijn.</td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Blauw"><strong title="">Onbevonden</strong></td> 
-   <td title="Achtergrondkleur: Blauw">[!UICONTROL Failed]</td> 
-   <td title="Achtergrondkleur: Blauw">E-mails die niet zijn geleverd.</td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Blauw"><br></td> 
-   <td title="Achtergrondkleur: Blauw">[!UICONTROL Bounced]</td> 
-   <td title="Achtergrondkleur: Blauw"><p>E-mails die van de e-mailserver van de ontvangers zijn geweigerd. <br><strong> Nota:</strong> dit wordt slechts ontdekt als u een erfenisgebruiker ToutApp bent en toegang tot Servers MSC als leveringskanaal hebt.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Achtergrondkleur: Blauw"><br></td> 
-   <td title="Achtergrondkleur: Blauw">[!UICONTROL Spam]</td> 
-   <td title="Achtergrondkleur: Blauw"><p>E-mails die door de ontvanger handmatig als spam zijn gemarkeerd.<br><strong> Nota:</strong> dit wordt slechts ontdekt als u een erfenisgebruiker ToutApp bent en toegang tot Servers MSC als leveringskanaal hebt.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="Achtergrondkleur: Grijs"><p title=""><strong><span>Primair</span> </strong></p></td>
+   <td title="Achtergrondkleur: Grijs"><p title=""><strong><span>Secundair</span> </strong></p></td>
+   <td title="Achtergrondkleur: Grijs"><p title=""><strong><span>Beschrijving</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Blauw"><strong title="">Verzonden</strong></td>
+   <td title="Achtergrondkleur: Blauw">[!UICONTROL Delivered]</td>
+   <td title="Achtergrondkleur: Blauw">E-mails die aan de ontvanger zijn bezorgd.</td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Blauw"><br></td>
+   <td title="Achtergrondkleur: Blauw">[!UICONTROL Archived]</td>
+   <td title="Achtergrondkleur: Blauw">E-mails die door de gebruiker zijn gearchiveerd om het bijhouden van e-mails uit te schakelen.</td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Grijs"><strong title="">In behandeling</strong></td>
+   <td title="Achtergrondkleur: Grijs">[!UICONTROL Scheduled]</td>
+   <td title="Achtergrondkleur: Grijs">E-mailberichten die volgens de planning moeten worden verzonden. Nadat een e-mail is verzonden, wordt deze naar de geleverde map verplaatst.</td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Grijs"><br></td>
+   <td title="Achtergrondkleur: Grijs">[!UICONTROL Draft]</td>
+   <td title="Achtergrondkleur: Grijs"><p>E-mails die zijn opgeslagen als concept.<br><strong> Nota:</strong> slechts één enkele e-mail kan als concepten worden bewaard. E-mails met opsommingstekens (e-mails selecteren en verzenden en e-mails per groep) worden niet opgeslagen als concepten.</p></td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Grijs"><br></td>
+   <td title="Achtergrondkleur: Grijs">[!UICONTROL In Progress]</td>
+   <td title="Achtergrondkleur: Grijs">Dit is een tussenliggende staat waar e-mails naar gaan wanneer ze in de verzendende beweging zijn. E-mails mogen slechts enkele ogenblikken in uitvoering zijn.</td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Blauw"><strong title="">Onbevonden</strong></td>
+   <td title="Achtergrondkleur: Blauw">[!UICONTROL Failed]</td>
+   <td title="Achtergrondkleur: Blauw">E-mails die niet zijn geleverd.</td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Blauw"><br></td>
+   <td title="Achtergrondkleur: Blauw">[!UICONTROL Bounced]</td>
+   <td title="Achtergrondkleur: Blauw"><p>E-mails die van de e-mailserver van de ontvangers zijn geweigerd. <br><strong> Nota:</strong> dit wordt slechts ontdekt als u een erfenisgebruiker ToutApp bent en toegang tot Servers MSC als leveringskanaal hebt.</p></td>
+  </tr>
+  <tr>
+   <td title="Achtergrondkleur: Blauw"><br></td>
+   <td title="Achtergrondkleur: Blauw">[!UICONTROL Spam]</td>
+   <td title="Achtergrondkleur: Blauw"><p>E-mails die door de ontvanger handmatig als spam zijn gemarkeerd.<br><strong> Nota:</strong> dit wordt slechts ontdekt als u een erfenisgebruiker ToutApp bent en toegang tot Servers MSC als leveringskanaal hebt.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Taken beheren {#manage-tasks}

@@ -4,7 +4,7 @@ title: Betrokkenheid in interactieve webinars
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c1dab337193c23d5c51acad6bd39a96af1b4d3ef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1271'
 ht-degree: 0%
@@ -21,25 +21,25 @@ SCREENSHOT
 
 ### Delen {#share}
 
-Een pod Delen wordt gebruikt om inhoud in de ruimte te delen. U kunt deze functie gebruiken om schermen, documenten en whiteboards te delen. Ondersteunde bestandstypen die kunnen worden gedeeld en weergegeven in een pod Delen zijn presentatie (PPT, PPTX), documenten (PDF), audio (MP3), video (MP4), afbeeldingen (JPG, PNG), aangepaste pod (POD, ZIP). Alle geüploade inhoud blijft in de ruimte aanwezig en is direct beschikbaar. Als u meer wilt weten over de pod Delen, raadpleegt u dit Help-artikel voor Adobe en deze video.
+Een pod Delen wordt gebruikt om inhoud in de ruimte te delen. U kunt deze functie gebruiken om schermen, documenten en whiteboards te delen. Ondersteunde bestandstypen die kunnen worden gedeeld en weergegeven in een pod Delen zijn presentatie (PPT, PPTX), documenten (PDF), audio (MP3), video (MP4), afbeeldingen (JPG, PNG), aangepaste pod (POD, ZIP). Alle geüploade inhoud blijft in de ruimte aanwezig en is direct beschikbaar. Voor meer informatie over de pod Delen raadpleegt u dit Adobe Help-artikel en deze video.
 
 SCREENSHOT
 
 Notities
 
-De gastheer en presentatoren gebruiken de pod Notities om informatie te delen en notities te maken in de ruimte. De klasse ondersteunt RTF-opmaak en de notities kunnen ook (door de gastheer) worden geëxporteerd vanuit het menu van de pod. Als u meer wilt weten over de pod Notities, raadpleegt u dit Help-artikel voor Adobe en deze video.
+De gastheer en presentatoren gebruiken de pod Notities om informatie te delen en notities te maken in de ruimte. De klasse ondersteunt RTF-opmaak en de notities kunnen ook (door de gastheer) worden geëxporteerd vanuit het menu van de pod. Voor meer informatie over de pod Notities raadpleegt u dit Adobe Help-artikel en deze video.
 
 SCREENSHOT
 
 Aanwezigen
 
-De pod Deelnemers wordt gebruikt om deelnemers, hun activiteiten en machtigingen tijdens de gebeurtenis te beheren. Gastheren en presentatoren kunnen de namen, rollen en status van deelnemers (zoals Opgestoken hand of Akkoord) controleren. De pod wordt ook gebruikt om brainstormsessies te beheren. Als u meer wilt weten over de pod Deelnemers, raadpleegt u dit Help-artikel over Adobe en deze video.
+De pod Deelnemers wordt gebruikt om deelnemers, hun activiteiten en machtigingen tijdens de gebeurtenis te beheren. Gastheren en presentatoren kunnen de namen, rollen en status van deelnemers (zoals Opgestoken hand of Akkoord) controleren. De pod wordt ook gebruikt om brainstormsessies te beheren. Meer informatie over de pod Deelnemers vindt u in dit Adobe Help-artikel en in deze video.
 
 SCREENSHOT
 
 Video
 
-De videopod wordt gebruikt om webcamfeeds te delen. De webcams kunnen worden gerangschikt in een raster, filmstrip of weergave met één luidspreker. Voor meer informatie over de pod Video raadpleegt u dit Help-artikel voor Adobe.
+De videopod wordt gebruikt om webcamfeeds te delen. De webcams kunnen worden gerangschikt in een raster, filmstrip of weergave met één luidspreker. Lees dit Adobe Help-artikel voor meer informatie over de pod Video.
 
 SCREENSHOT
 
@@ -47,9 +47,9 @@ Chat
 
 De chatpod wordt gebruikt om te communiceren met andere deelnemers in de ruimte. Chatten in de chatpod blijven bestaan totdat ze worden verwijderd. De chats kunnen naar de gastheer worden gemaild om hen te bewaren. Aanwezigen kunnen de tekengrootte van de chats in hun chatpod aanpassen.
 
-U kunt een chatpod die u hebt toegevoegd in het gebied Gastheer en Presentator, gebruiken om privé te communiceren met het presentatieteam. Als u meer wilt weten over de chatpod, raadpleegt u dit Help-artikel voor Adobe en deze video.
+U kunt een chatpod die u hebt toegevoegd in het gebied Gastheer en Presentator, gebruiken om privé te communiceren met het presentatieteam. Lees dit Adobe Help-artikel en deze video voor meer informatie over de chatpod.
 
-OPMERKING: een chatpod wordt altijd opgenomen. Gebruik een Chatvenster als u niet wilt dat de chats deel uitmaken van de opname. Lees dit Help-artikel voor Adobe voor meer informatie over de chatpod. [Koppel dit aan Chats in de sectie Opname van de nieuwe pagina Interactief webinar leveren].
+OPMERKING: een chatpod wordt altijd opgenomen. Gebruik een Chatvenster als u niet wilt dat de chats deel uitmaken van de opname. Lees dit Adobe Help-artikel voor meer informatie over de chatpod. [ Verbinding dit aan Chatten in de sectie van de Opname van de nieuwe Leverende Interactieve Web-binaire pagina ].
 
 SCREENSHOT
 
@@ -65,13 +65,13 @@ De weergave van de presentator van de pod Vragen en antwoorden kan ook naar de g
 
 SCREENSHOT
 
-Voor meer informatie over de pod Vragen en antwoorden raadpleegt u dit Help-artikel over Adobe en deze video.
+Lees dit Adobe Help-artikel en deze video voor meer informatie over de pod Vragen en antwoorden.
 
 SCREENSHOT
 
 Pollen
 
-De opiniepeilingpod wordt gebruikt om vragen te stellen van deelnemers tijdens de sessie. De pod Opiniepeiling ondersteunt meerkeuzevragen, meerkeuzevragen en open vragen. Gastheren kunnen de resultaten naar de deelnemers uitzenden. Als u meer wilt weten over de pod Opiniepeiling, raadpleegt u dit Help-artikel voor Adobe en deze video.
+De opiniepeilingpod wordt gebruikt om vragen te stellen van deelnemers tijdens de sessie. De pod Opiniepeiling ondersteunt meerkeuzevragen, meerkeuzevragen en open vragen. Gastheren kunnen de resultaten naar de deelnemers uitzenden. Voor meer informatie over de pod Opiniepeiling raadpleegt u dit Adobe Help-artikel en deze video.
 
 SCREENSHOT
 

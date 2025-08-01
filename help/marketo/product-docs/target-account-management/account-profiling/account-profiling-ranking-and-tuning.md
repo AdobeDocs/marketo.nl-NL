@@ -4,7 +4,7 @@ description: Volgorde en afstemming van accountprofielen - Marketo-documenten - 
 title: Volgorde en afstemming van accountprofielen
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -27,37 +27,37 @@ Alle bekende accounts zijn uitgesplitst naar rang. A is de hoogste graad, D is d
 
 We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elke rekening wilt gaan en [ hen manueel ](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) toevoegen, verlaat eenvoudig de doos ongecontroleerd.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Rang</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Rang</span></strong></td>
+   <td>
     <div>
-      Accountnummer gebaseerd op het ideale klantprofiel. A is het best geschikt, D is het minst geschikt. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Propensiteit</span></strong></td> 
-   <td> 
+      Accountnummer gebaseerd op het ideale klantprofiel. A is het best geschikt, D is het minst geschikt.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Propensiteit</span></strong></td>
+   <td>
     <div>
-      Geschatte stijging van de omrekeningskoers in vergelijking met een niet op ICP gebaseerde selectie van rekeningen. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Rekeningen (%)</span></strong></td> 
-   <td> 
+      Geschatte stijging van de omrekeningskoers in vergelijking met een niet op ICP gebaseerde selectie van rekeningen.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Rekeningen (%)</span></strong></td>
+   <td>
     <div>
-      Percentage rekeningen in modelinput die deze rang hebben. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">% van modelbasis</span></strong></td> 
-   <td> 
+      Percentage rekeningen in modelinput die deze rang hebben.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">% van modelbasis</span></strong></td>
+   <td>
     <div>
-      Percentage van de rekeningen op modelbasis met deze rang. 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Percentage van de rekeningen op modelbasis met deze rang.
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Afstemmen model {#model-tuning}
@@ -72,86 +72,86 @@ Er zijn verschillende tabbladen waaruit u kunt kiezen, zodat u deze grondig kunt
 
 **Categorieën van de Indicator**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Naleving</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Naleving</span></strong></td>
+   <td>
     <div>
-      Certificeringen, op naleving betrekking hebbende posities/huur. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Bewerkingen</span></strong></td> 
-   <td> 
+      Certificeringen, op naleving betrekking hebbende posities/huur.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Bewerkingen</span></strong></td>
+   <td>
     <div>
-      Aan activiteiten gerelateerde posities/huur. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">HR</span></strong></td> 
-   <td> 
+      Aan activiteiten gerelateerde posities/huur.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">HR</span></strong></td>
+   <td>
     <div>
       HR- of loonsoftware, HR-gerelateerde posities/huur.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Engineering</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Engineering</span></strong></td>
+   <td>
     <div>
-      Technologieën, raamwerken, met engineering verband houdende posities/huur. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Verkoop</span></strong></td> 
-   <td> 
+      Technologieën, raamwerken, met engineering verband houdende posities/huur.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Verkoop</span></strong></td>
+   <td>
     <div>
-      Oplossingen en software voor verkoop, verkoopgerelateerde posities/huur. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Intentie</span></strong></td> 
-   <td> 
+      Oplossingen en software voor verkoop, verkoopgerelateerde posities/huur.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Intentie</span></strong></td>
+   <td>
     <div>
-      Intentie-indicatoren. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      Intentie-indicatoren.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       Hardware- en softwareoplossingen, technologieën, IT-gerelateerde posities/huur.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Financiën</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Financiën</span></strong></td>
+   <td>
     <div>
-      Financieringssoftware, financiële posities/huur. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Marketing</span></strong></td> 
-   <td> 
+      Financieringssoftware, financiële posities/huur.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Marketing</span></strong></td>
+   <td>
     <div>
-      Marketing technologieën en software, marketinggerelateerde posities/huur. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Bedrijven</span></strong></td> 
-   <td> 
+      Marketing technologieën en software, marketinggerelateerde posities/huur.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Bedrijven</span></strong></td>
+   <td>
     <div>
-      Forbes or Inc aanbiedingen of business partnership. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Klantervaring en -relaties</span></strong></td> 
-   <td> 
+      Forbes or Inc aanbiedingen of business partnership.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Klantervaring en -relaties</span></strong></td>
+   <td>
     <div>
       Het succes van de klant en de posities/de huur van klantenverhoudingen.
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Houd de cursor boven de knopinfo voor een beschrijving van elke kolom.

@@ -1,59 +1,59 @@
 ---
-description: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce - de Documenten van Marketo - de Documentatie van het Product
-title: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce
-exl-id: 49bdd22f-f313-497b-af8d-8308eb905b8f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+description: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce - Marketo Docs - de Documentatie van het Product
+title: Opsomming toevoegen aan verkoopcampagne in Salesforce gebruiken
+exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
 
-# Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
+# Opsomming toevoegen aan verkoopcampagne in Salesforce gebruiken {#using-bulk-add-to-sales-campaign-in-salesforce}
 
-Leer hoe te om in bulk toe te voegen aan de Campagne van de Verkoop in Salesforce helpen uw uitgaande mededeling schalen gebruikend de Acties van de Verkoop.
+Leer hoe u in grote hoeveelheden toevoegt aan verkoopcampagne in Salesforce om uw uitgaande communicatie te schalen met Verkoopacties.
 
 >[!NOTE]
 >
->Salesforce hanteert een limiet van 200 records die tegelijk kunnen worden geselecteerd.
+>Salesforce past een limiet van 200 records toe die tegelijk kunnen worden geselecteerd.
 
 >[!PREREQUISITES]
 >
->Controleer of u de [Het meest recente verkooppakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} in Salesforce.
+>Zorg ervoor u het [ recentste pakket van Insight van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan uw instantie van Salesforce hebt geïnstalleerd en de [ knopen van de Actie ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} op uw contact en de mening van de loodlijst in Salesforce gevormd.
 
-## Bulk toevoegen aan verkoopcampagne in Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
+## Bulksgewijs toevoegen aan verkoopcampagne in Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
-1. Navigeer in Salesforce naar de startpagina voor leads/contactpersonen door op de knop **Leads/contactpersonen** tab.
+1. In Salesforce, navigeer aan de het huispagina van Leads/Contacten door op **te klikken leidt/Contacten** tabel.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 
-1. In de **Weergave** selecteert u de gewenste weergave van leads/contactpersonen die u per e-mail wilt verzenden.
+1. In de **drop-down Mening**, selecteer de gewenste mening van Leads/Contacten u wilt e-mailen.
 
    >[!TIP]
    >
-   >U kunt een nieuwe weergave maken door op het cogopictogram rechts te klikken en **Nieuw**. Nadat u de weergave een nieuwe naam hebt gegeven en deze hebt opgeslagen, kunt u op het filterpictogram aan de rechterkant klikken om naar de gewenste set leads/contactpersonen die u wilt e-mailen, te gaan.
+   >U kunt een nieuwe mening tot stand brengen door het cogapictogram op het recht te klikken en **Nieuw** te selecteren. Nadat u de weergave een nieuwe naam hebt gegeven en deze hebt opgeslagen, kunt u op het filterpictogram aan de rechterkant klikken om naar de gewenste set leads/contactpersonen die u wilt e-mailen, te gaan.
 
-1. Kies de gewenste lijst met leads of contactpersonen en klik op de knop **Toevoegen aan verkoopcampagne** knop.
+1. Kies de gewenste lood of contactenlijst en klik **toevoegen aan de Campagne van de Verkoop** knoop.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-2.png)
 
 1. U zult aan de Modaal van de Campagne van de Verkoop van Acties, met de ontvangers worden genavigeerd u hebt geselecteerd toegevoegd.
 
-1. Breng de gewenste wijzigingen aan om personen of groepen te verwijderen en klik vervolgens op **Volgende**.
+1. Maak om het even welke uitgeeft nodig om mensen of groepen te verwijderen, dan klik **daarna**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-3.png)
 
 1. Selecteer de categorie Verkoopcampagne die u wilt gebruiken in de vervolgkeuzelijst Categorieën.
 
-1. Selecteer de verkoopcampagne waaraan u de geselecteerde personen wilt toevoegen en klik op **Volgende**.
+1. Selecteer de Campagne van de Verkoop u de geselecteerde mensen aan wilt toevoegen en **daarna** klikken.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-4.png)
 
-1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Als dit klaar is, klikt u op **Volgende**.
+1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Zodra dit wordt gedaan, klik **daarna**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
 
-1. Als uw eerste stap een e-mail is en u deze zodanig hebt geconfigureerd dat u kunt selecteren wanneer de campagne wordt gestart, kunt u het volgende doen: **Nu beginnen** of **Een nieuwe begintijd plannen**. Als dit is voltooid, klikt u op **Start**.
+1. Opnieuw, als uw eerste stap een e-mail is en u het vormde om u toe te staan om te selecteren wanneer de campagne lanceert, zult u de optie aan **Begin** of **hebben nu een Nieuwe Tijd van het Begin** plannen. Zodra dit is voltooid, klik **Begin**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
 
@@ -61,11 +61,11 @@ Nadat u op Start hebt geklikt, wordt er een bevestigingsscherm weergegeven waari
 
 ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-7.png)
 
-## Bulk toevoegen aan verkoopcampagne in Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
+## Bulksgewijs toevoegen aan verkoopcampagne in Salesforce Classic {#bulk-add-to-sales-campaign-in-salesforce-classic}
 
-1. Klik in Salesforce op de knop **Leads/contactpersonen** tab.
+1. In Salesforce, klik **Leads/Contacten** tabel.
 
-1. Selecteer in de vervolgkeuzelijst Weergave de gewenste weergave van leads/contactpersonen die u wilt e-mailen en klik op **Ga**.
+1. In de drop-down Mening, selecteer de gewenste mening van Leads/Contacten u wilt e-mailen en **klikken gaat**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-8.png)
 
@@ -73,27 +73,27 @@ Nadat u op Start hebt geklikt, wordt er een bevestigingsscherm weergegeven waari
    >
    >U kunt een nieuwe weergave maken door op Nieuwe weergave maken te klikken en de beschikbare filters te configureren om de lijst met ontvangers die u per e-mail wilt verzenden, te beperken.
 
-1. Kies de gewenste lijst met leads of contactpersonen en klik op de knop **Toevoegen aan verkoopcampagne** knop.
+1. Kies de gewenste lood of contactlijst en klik **toevoegen aan de Campagne van de Verkoop** knoop.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
 
 1. U zult aan de Modaal van de Campagne van de Verkoop van Acties met de geselecteerde mensen worden genavigeerd.
 
-1. Breng de gewenste wijzigingen aan om personen of groepen te verwijderen en klik vervolgens op **Volgende**.
+1. Maak om het even welke uitgeeft nodig om mensen of groepen te verwijderen, dan klik **daarna**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
-1. Selecteer de categorie Verkoopcampagne die u wilt gebruiken in het menu **Categorieën** vervolgkeuzelijst.
+1. Selecteer de categorie van de Campagne van de Verkoop u van de **drop-down Categorieën** wilt gebruiken.
 
-1. Selecteer de verkoopcampagne waaraan u de geselecteerde personen wilt toevoegen en klik op **Volgende**.
+1. Selecteer de Campagne van de Verkoop u de geselecteerde mensen aan wilt toevoegen en **daarna** klikken.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
-1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Als dit klaar is, klikt u op **Volgende**.
+1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Zodra dit wordt gedaan, klik **daarna**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
-1. Als uw eerste stap een e-mail is en u deze zodanig hebt geconfigureerd dat u kunt selecteren wanneer de campagne wordt gestart, kunt u het volgende doen: **Nu beginnen** of **Een nieuwe begintijd plannen**. Als dit is voltooid, klikt u op **Start**.
+1. Opnieuw, als uw eerste stap een e-mail is en u het vormde om u toe te staan om te selecteren wanneer de campagne lanceert, zult u de optie aan **Begin** of **hebben nu een Nieuwe Tijd van het Begin** plannen. Zodra dit is voltooid, klik **Begin**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 

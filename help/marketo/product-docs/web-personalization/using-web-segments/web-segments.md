@@ -4,7 +4,7 @@ description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -23,35 +23,35 @@ In [!DNL Web Personalizatio] kan een bezoeker overeenkomen met meerdere segmente
 
 **GRAFIEK:** de pagina van Segmenten toont een grafiek van het staafdiagram van de geselecteerde segmenten volgens het aantal bezoekers van het segment (y as) en de segmentnaam (x as).
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Naam</th> 
-   <th colspan="1" rowspan="1">Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Naam</strong></td> 
-   <td colspan="1" rowspan="1">De titel van het segment</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Overeenkomsten</strong></p></td> 
-   <td colspan="1" rowspan="1">Het aantal bezoekers dat voldoet aan de aangepaste, gedefinieerde criteria van het segment</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Campagne instellen</strong></td> 
-   <td colspan="1" rowspan="1">Hiermee kunt u een campagne-CTA instellen die is gekoppeld aan de geselecteerde zoekterm</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Bezoekers</strong></td> 
-   <td colspan="1">Een voorvertoning van de tabel met bezoekers die is gekoppeld aan de geselecteerde zoekterm</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Hiermee geeft u een tabel weer met de activiteit en het URL-pad van de bezoeker op de site en de duur van het bezoek aan elke pagina </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Naam</th>
+   <th colspan="1" rowspan="1">Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Naam</strong></td>
+   <td colspan="1" rowspan="1">De titel van het segment</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Overeenkomsten</strong></p></td>
+   <td colspan="1" rowspan="1">Het aantal bezoekers dat voldoet aan de aangepaste, gedefinieerde criteria van het segment</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Campagne instellen</strong></td>
+   <td colspan="1" rowspan="1">Hiermee kunt u een campagne-CTA instellen die is gekoppeld aan de geselecteerde zoekterm</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Bezoekers</strong></td>
+   <td colspan="1">Een voorvertoning van de tabel met bezoekers die is gekoppeld aan de geselecteerde zoekterm</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Hiermee geeft u een tabel weer met de activiteit en het URL-pad van de bezoeker op de site en de duur van het bezoek aan elke pagina </td>
+  </tr>
+ </tbody>
 </table>
 
 Zie [ om segmentetiketten tot stand te brengen en te bekijken ](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
@@ -187,7 +187,7 @@ Selecteer van a [ Benoemde Lijst van de Rekening ](/help/marketo/product-docs/we
 
 >[!NOTE]
 >
->Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [ Gelezen API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [ Gelezen API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **sluit ISP** uit
 
@@ -286,7 +286,7 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 
 **de Context API van de Gebruiker**
 
-De vraag van Personalization API van het Web [ leest meer over het hier.](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+De vraag van Personalization API van het Web [ leest meer over het hier.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

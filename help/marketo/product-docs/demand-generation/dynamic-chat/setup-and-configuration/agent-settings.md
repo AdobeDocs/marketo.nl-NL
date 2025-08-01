@@ -3,7 +3,7 @@ description: Instellingen agent - Marketo Docs - Productdocumentatie
 title: Instellingen agent
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 0%
@@ -63,17 +63,17 @@ Plaats uw tijdzone en tijd/dag van weekbeschikbaarheid om vergaderingsboekingen 
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Duur van vergadering</b></td>
    <td>Hiermee bepaalt u de tijdsduur die bezoekers in de beschikbare vergaderruimten zien.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Buffertijd tussen vergaderingen</b></td>
    <td>Tijd die u instelt als buffer voor na de vergadering. Als u het 30 minuten plaatst, zal niemand een vergadering met u tot 30 minuten na het geplande eind van een vergadering op uw kalender kunnen boeken.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]
@@ -100,7 +100,7 @@ Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnen
 
 ## Agent Profile Photo
 
-Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/nl/manage-account/using/edit-adobe-account-personal-profile.html) bij.
+Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html) bij.
 
 >[!NOTE]
 >

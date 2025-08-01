@@ -4,7 +4,7 @@ description: Overzicht van Web Personalization - Marketo Docs - Productdocumenta
 title: Overzicht van Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '775'
 ht-degree: 0%
@@ -66,13 +66,13 @@ Op het tabblad Organisaties worden alle gegevens (naam, locatie, activiteit en t
 
 Het rechterdeelvenster van de pagina Organisaties bevat de volgende functies en inzichten:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong> pictogram van het Spreadsheet </strong>: In het hoogste recht van het paneel, downloadt het pictogram de lijst van Organisaties in Csv formaat voor off-line gebruik</p><p><strong>[!UICONTROL Set Email Alert]</strong>: stuurt de aangemelde gebruiker elke keer een e-mail wanneer de geselecteerde organisatie de website bezoekt</p><p><strong>[!UICONTROL Leads]</strong>: Hiermee opent u de lijst met leads voor de geselecteerde organisatie</p><p><strong>[!UICONTROL Share]</strong>: Hiermee opent u een pop-upvenster waarin u e-mail kunt verzenden en de gegevens kunt delen van de organisatie die de webpagina heeft bezocht</p><p><strong> Pictogram van de Plaats </strong>: Toont het land en de stad van de geselecteerde organisatie</p><p><strong> Verbindingen </strong>: Jigzag, Wiis, Linkedin, Google, Twitter opent een nieuw venster met extra informatie van de respectieve webpagina die extra insight in de geselecteerde organisatie aanbieden</p><p><strong>[!UICONTROL Search]</strong>: Hiermee geeft u het gebruikte trefwoord weer als de bezoeker via een zoekmachine is aangekomen</p><p><strong>[!UICONTROL Referrers]</strong>: Toont de URL-koppeling van de pagina die het verkeer naar uw site doorverwijst</p><p><strong>[!UICONTROL Visitors]</strong>: Hiermee geeft u het aantal bezoeken weer, het aantal pagina's dat door de geselecteerde organisatie wordt weergegeven en het e-mailadres (als ze een verzendformulier hebben ingevuld) en de tijd en datum van het laatste bezoek</p><p><strong>[!UICONTROL Clickstream]</strong>: Hiermee geeft u een tabel weer met de gebruikersactiviteit en het URL-pad op de site en hoe lang ze elke pagina hebben bezocht</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong> pictogram van het Spreadsheet </strong>: In het hoogste recht van het paneel, downloadt het pictogram de lijst van Organisaties in Csv formaat voor off-line gebruik</p><p><strong>[!UICONTROL Set Email Alert]</strong>: stuurt de aangemelde gebruiker elke keer een e-mail wanneer de geselecteerde organisatie de website bezoekt</p><p><strong>[!UICONTROL Leads]</strong>: Hiermee opent u de lijst met leads voor de geselecteerde organisatie</p><p><strong>[!UICONTROL Share]</strong>: Hiermee opent u een pop-upvenster waarin u e-mail kunt verzenden en de gegevens kunt delen van de organisatie die de webpagina heeft bezocht</p><p><strong> Pictogram van de Plaats </strong>: Toont het land en de stad van de geselecteerde organisatie</p><p><strong> Verbindingen </strong>: Jigzag, Wiis, Linkedin, Google, Twitter opent een nieuw venster met extra informatie van de respectieve webpagina die extra insight in de geselecteerde organisatie aanbieden</p><p><strong>[!UICONTROL Search]</strong>: Hiermee geeft u het gebruikte trefwoord weer als de bezoeker via een zoekmachine is aangekomen</p><p><strong>[!UICONTROL Referrers]</strong>: Toont de URL-koppeling van de pagina die het verkeer naar uw site doorverwijst</p><p><strong>[!UICONTROL Visitors]</strong>: Hiermee geeft u het aantal bezoeken weer, het aantal pagina's dat door de geselecteerde organisatie wordt weergegeven en het e-mailadres (als ze een verzendformulier hebben ingevuld) en de tijd en datum van het laatste bezoek</p><p><strong>[!UICONTROL Clickstream]</strong>: Hiermee geeft u een tabel weer met de gebruikersactiviteit en het URL-pad op de site en hoe lang ze elke pagina hebben bezocht</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **Organisaties van het Aandeel**
@@ -93,35 +93,35 @@ Op de pagina Bezoekers worden alle details en het online gedrag weergegeven van 
 
 Het rechterdeelvenster van de pagina [!UICONTROL Visitors] biedt de volgende inzichten:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Naam</th> 
-   <th colspan="1" rowspan="1">Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Werkbladpictogram</strong></td> 
-   <td colspan="1" rowspan="1">Rechtsboven in het deelvenster bevindt het pictogram zich en downloadt de tabel Bezoekers in CSV-indeling voor offline gebruik</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Naam organisatie</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Campagne instellen</strong></td> 
-   <td colspan="1" rowspan="1">Hiermee kunt u een campagne-CTA instellen die is gekoppeld aan de geselecteerde bezoeker</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Locatie</strong></td> 
-   <td colspan="1">Geeft het land, de staat en de stad van de bezoeker weer</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Hiermee geeft u een tabel weer met de activiteit en het URL-pad van de bezoeker op de site en de duur van het bezoek aan elke pagina</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Naam</th>
+   <th colspan="1" rowspan="1">Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Werkbladpictogram</strong></td>
+   <td colspan="1" rowspan="1">Rechtsboven in het deelvenster bevindt het pictogram zich en downloadt de tabel Bezoekers in CSV-indeling voor offline gebruik</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Naam organisatie</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Campagne instellen</strong></td>
+   <td colspan="1" rowspan="1">Hiermee kunt u een campagne-CTA instellen die is gekoppeld aan de geselecteerde bezoeker</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Locatie</strong></td>
+   <td colspan="1">Geeft het land, de staat en de stad van de bezoeker weer</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Hiermee geeft u een tabel weer met de activiteit en het URL-pad van de bezoeker op de site en de duur van het bezoek aan elke pagina</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Real-time {#real-time}
@@ -134,37 +134,37 @@ Op de pagina Real-Time worden bezoekers van uw website in real-time weergegeven,
 
 De pagina In real time wordt gesplitst in zes informatieve tabellen met gegevens van onsite bezoekers:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Naam</th> 
-   <th colspan="1" rowspan="1">Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
-   <td colspan="1" rowspan="1"> Vertegenwoordigt het aantal bezoekers dat momenteel op uw website staat</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
-   <td colspan="1" rowspan="1"> Een live lijngrafiek die het aantal klikken op uw site per minuut weergeeft</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
-   <td colspan="1" rowspan="1">Een korte versie van de tabel Organisaties</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
-   <td colspan="1">Het aantal bezoekers dat momenteel op de site aanwezig is en dat overeenkomt met de opgegeven segmenten</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
-   <td colspan="1">De URL van de pagina's die momenteel worden weergegeven door onsite bezoekers</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
-   <td colspan="1" rowspan="1">De verwijzings-URL waarmee de bezoeker naar uw site is gegaan</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Naam</th>
+   <th colspan="1" rowspan="1">Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td>
+   <td colspan="1" rowspan="1"> Vertegenwoordigt het aantal bezoekers dat momenteel op uw website staat</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td>
+   <td colspan="1" rowspan="1"> Een live lijngrafiek die het aantal klikken op uw site per minuut weergeeft</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td>
+   <td colspan="1" rowspan="1">Een korte versie van de tabel Organisaties</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td>
+   <td colspan="1">Het aantal bezoekers dat momenteel op de site aanwezig is en dat overeenkomt met de opgegeven segmenten</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td>
+   <td colspan="1">De URL van de pagina's die momenteel worden weergegeven door onsite bezoekers</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td>
+   <td colspan="1" rowspan="1">De verwijzings-URL waarmee de bezoeker naar uw site is gegaan</td>
+  </tr>
+ </tbody>
 </table>

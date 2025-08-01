@@ -4,7 +4,7 @@ description: Werken met systeembeheerde velden - Marketo Docs - Productdocumenta
 title: Werken met door het systeem beheerde velden
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 1%
@@ -97,7 +97,7 @@ Hieronder staan enkele mogelijke waarden en wat ze betekenen.
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>Persoon is gevonden bij Salesforce-synchronisatie</td>
+    <td>Persoon is aangetroffen tijdens Salesforce-synchronisatie</td>
   </tr>
   <tr>
     <td>Bezoekingen webpagina</td>
@@ -121,19 +121,19 @@ Hieronder staan enkele mogelijke waarden en wat ze betekenen.
   </tr>
   <tr>
     <td>Verkoope-mail</td>
-    <td>De persoon is per e-mail verzonden via de e-mailinvoegtoepassing voor het verkoopinzicht</td>
+    <td>Persoon is per e-mail verzonden via e-mailinvoegtoepassing voor verkoop van Insight</td>
   </tr>
   <tr>
     <td>Persoon</td>
-    <td>Persoon is als persoon gesynchroniseerd van Salesforce</td>
+    <td>Persoon is vanuit Salesforce gesynchroniseerd als een persoon</td>
   </tr>
   <tr>
     <td>Contact</td>
     <td>De persoon is via Webhaak gesynchroniseerd als een contactpersoon</td>
   </tr>
   <tr>
-    <td>Munchkin-API</td>
-    <td>Persoon is aangetroffen door de Marketo Engage Munchkin-API</td>
+    <td>MUNCHKIN API</td>
+    <td>Persoon is aangetroffen door de Marketo Engage Munchkin API</td>
   </tr>
   <tr>
     <td>Sociale app</td>
@@ -165,7 +165,7 @@ Hieronder staan enkele mogelijke waarden en wat ze betekenen.
   </tr>
   <tr>
     <td>Salesforce.com</td>
-    <td>Iemand worden via Salesforce-synchronisatie</td>
+    <td>Een persoon worden via Salesforce-synchronisatie</td>
   </tr>
   <tr>
     <td>Invullen webformulier</td>
@@ -173,19 +173,19 @@ Hieronder staan enkele mogelijke waarden en wat ze betekenen.
   </tr>
   <tr>
     <td>Verkoope-mail</td>
-    <td>De persoon is per e-mail verzonden via de e-mailinvoegtoepassing voor het verkoopinzicht</td>
+    <td>Persoon is per e-mail verzonden via e-mailinvoegtoepassing voor verkoop van Insight</td>
   </tr>
   <tr>
     <td>Webservice-API</td>
-    <td>Persoon is gemaakt via SOAP/REST API</td>
+    <td>De persoon is gemaakt via de SOAP/REST-API</td>
   </tr>
   <tr>
     <td>Nieuwe persoon</td>
     <td>De persoon is handmatig in de database ingevoerd</td>
   </tr>
   <tr>
-    <td>Munchkin-API</td>
-    <td>Word een persoon via de Marketo Munchkin-API</td>
+    <td>MUNCHKIN API</td>
+    <td>Word een persoon via de Marketo Munchkin API</td>
   </tr>
   <tr>
     <td>Sociale app</td>

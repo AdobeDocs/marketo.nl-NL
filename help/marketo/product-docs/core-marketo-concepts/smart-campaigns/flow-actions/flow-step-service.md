@@ -3,7 +3,7 @@ description: Flow Step Service - Marketo Docs - Productdocumentatie
 title: Stroom Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1224'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Klik op **[!UICONTROL Next]** om naar de sectie Servicereferenties invoeren te g
 
 ## Voer servicekredieten in {#enter-service-credentials}
 
-Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API Sleutel** die slechts één inputgebied heeft, **BasisAuthentificatie** die een gebruikersbenaming en wachtwoord vereist en ook een gebied genoemd Realm, en **OAuth2** gebruikend de _Toestemming van de Cliënt_ toelage vereist, die identiteitskaart van a _Cliënt 9&rbrace; en en en en vereist_ Geheim van de Cliënt _._
+Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API Sleutel** die slechts één inputgebied heeft, **BasisAuthentificatie** die een gebruikersbenaming en wachtwoord vereist en ook een gebied genoemd Realm, en **OAuth2** gebruikend de _Toestemming van de Cliënt_ toelage vereist, die identiteitskaart van a _Cliënt 9} en en en en vereist_ Geheim van de Cliënt _._
 
 Wanneer u uw geloofsbrieven bewaart, zal Marketo proberen om het statuseindpunt van de dienst te roepen om te verifiëren dat zij geldig zijn. Als de opgegeven referenties ongeldig zijn, wordt een fout weergegeven die dit aangeeft.
 

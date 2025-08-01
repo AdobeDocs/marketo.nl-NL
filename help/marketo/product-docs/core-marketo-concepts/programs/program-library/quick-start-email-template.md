@@ -2,29 +2,29 @@
 description: Quick Start Email Template - Marketo Docs - Productdocumentatie
 title: E-mailsjabloon snel starten
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
 
 # E-mailsjabloon snel starten {#quick-start-email-template}
 
-Sommige starterprogramma&#39;s in de bibliotheek van de Verwijzing van het Marketo Engage bevatten een eenvoudig, gemakkelijk te gebruiken, en klantgerichte e-mailmalplaatje dat voor de snelle verwezenlijking van e-mails over een aantal van marketing gebruiksgevallen toestaat.
+Sommige starterprogramma&#39;s in de Marketo Engage Reference Library bevatten een eenvoudige, gebruiksvriendelijke en aanpasbare e-mailsjabloon waarmee u snel e-mailberichten kunt maken in een aantal gevallen waarin u gebruikmaakt van marketing.
 
-De e-maileditor van het Marketo Engage is uitgerust met functies die u helpen de lay-out te wijzigen en de inhoud van uw e-mails te bewerken.
+De e-maileditor van Marketo Engage is uitgerust met functies die u helpen de lay-out te wijzigen en de inhoud van uw e-mails te bewerken.
 
-* **Modules**: Inhoudsblokken die in de sjabloon kunnen worden gecomprimeerd, kunnen worden versleept/verwijderd. Ze kunnen opnieuw worden ingedeeld en gedupliceerd.
+* **Modules**: Draggable/droppable inhoudsblokken die in het malplaatje worden gecodeerd. Ze kunnen opnieuw worden ingedeeld en gedupliceerd.
 
-* **Tekstelementen**: U kunt de editor gebruiken om het kopiëren bij te werken, lettertypestijlen te wijzigen of koppelingen toe te voegen.
+* **Elementen van de Tekst**: U kunt de redacteur gebruiken om exemplaar bij te werken, doopvontstijlen te veranderen, of verbindingen toe te voegen.
 
-* **Afbeeldingselementen**: Net als bij tekstelementen kunnen afbeeldingen worden omgewisseld, gekoppeld en vergroot of verkleind.
+* **Elementen van het Beeld**: Gelijkaardig aan tekstelementen, kunnen de beelden uit worden geruild, worden verbonden met, en resized.
 
-* **Variabelen**: Als een module is geselecteerd, worden variabelen aan de rechterkant van de editor weergegeven. Deze kunnen worden gebruikt om attributen van de module aan te passen die niet gemakkelijk via beeld of tekstelementen editable zijn.
+* **Variabelen**: Wanneer een module wordt geselecteerd, verschijnen de variabelen op de rechterkant van de redacteur. Deze kunnen worden gebruikt om attributen van de module aan te passen die niet gemakkelijk via beeld of tekstelementen editable zijn.
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Overzicht van modules {#modules-summary}
 
@@ -83,7 +83,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Uitlijning van de tekst (deze kan ook worden bewerkt in de RTF-editor)
 * ![](assets/quick-start-email-template-5.png)
 
-### CTA-module {#cta-module}
+### CTA Module {#cta-module}
 
 * Bevat variabelen die moeten worden beheerd:
    * Opvulling boven in module
@@ -92,9 +92,9 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * CTA-tekstkleur
    * CTA-achtergrondkleur
    * CTA-randkleur
-   * CTA randstraal (om de knopen rond te maken - **Opmerking**: deze functie werkt niet in Microsoft Outlook-e-mailclients)
-   * CTA-URL
-   * CTA tekst
+   * De grensstraal van CTA (om de knopen rond te maken - **Nota**: deze eigenschap werkt niet in de e-mailcliënten van Microsoft Outlook)
+   * CTA URL
+   * CTA-tekst
    * CTA-uitlijning
 * ![](assets/quick-start-email-template-6.png)
 

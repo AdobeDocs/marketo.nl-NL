@@ -3,9 +3,9 @@ description: De Resultaten van de vraag - de Documenten van Marketo - de Documen
 title: Resultaten bellen
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ Sta uw verkoopteams toe om vraagresultaten te selecteren wanneer het maken van v
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**vereiste toestemmingen Admin**
 
 ## Laat de Resultaten van de Vraag toe {#enable-call-outcomes}
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **Montages**.
 
    ![](assets/call-outcomes-1.png)
 
-1. Onder beheerinstellingen selecteert u **Dialer**.
+1. Onder de Montages van Admin selecteren **Dialer**.
 
    ![](assets/call-outcomes-2.png)
 
-1. Selecteren **Laat de Resultaten van de Vraag toe**.
+1. Selecteer **laat de Resultaten van de Vraag** toe.
 
    ![](assets/call-outcomes-3.png)
 
@@ -42,15 +42,15 @@ Sta uw verkoopteams toe om vraagresultaten te selecteren wanneer het maken van v
 >
 >U kunt een maximum van 15 Resultaten van de Vraag tot stand brengen.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik op het tandwielpictogram en selecteer **Montages**.
 
    ![](assets/call-outcomes-5.png)
 
-1. Onder beheerinstellingen selecteert u **Dialer**.
+1. Onder de Montages van Admin selecteren **Dialer**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Klikken **De Resultaten van de Vraag beheren**.
+1. Klik **leiden de Resultaten van de Vraag**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ Sta uw verkoopteams toe om vraagresultaten te selecteren wanneer het maken van v
 
    ![](assets/call-outcomes-8.png)
 
-1. Klik op de vervolgkeuzelijst Beantwoord en kies het resultaattype (in dit voorbeeld kiezen we Beantwoord). Klik vervolgens op **Toevoegen**.
+1. Klik op de vervolgkeuzelijst Beantwoord en kies het resultaattype (in dit voorbeeld kiezen we Beantwoord). Dan klik **toevoegen**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ Zodra de vraagresultaten zijn toegelaten. De gebruikers kunnen één selecteren 
 
    ![](assets/call-outcomes-10.png)
 
-1. Ga de vraaginformatie in dialer in en klik **Bellen**.
+1. Ga de vraaginformatie in dialer in en klik **Vraag**.
 
    ![](assets/call-outcomes-11.png)
 
@@ -88,5 +88,5 @@ Zodra de vraagresultaten zijn toegelaten. De gebruikers kunnen één selecteren 
 
 >[!MORELIKETHIS]
 >
->* [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Redenen voor oproepen](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+>* [ Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [ Redenen van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

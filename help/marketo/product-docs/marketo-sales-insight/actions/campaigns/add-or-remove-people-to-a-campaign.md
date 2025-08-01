@@ -3,7 +3,7 @@ unique-page-id: 14352613
 description: Personen toevoegen aan uw campagne - Marketo Docs - Productdocumentatie
 title: Personen toevoegen aan uw campagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Er zijn meerdere manieren om iemand aan een campagne toe te voegen.
 
-Als u mededeling met een vooruitzicht of een klant begint, kunt u toevoegen aan Campagne van om het even welke pagina in onze Webtoepassing, of van Salesforce gebruiken.
+Als u met een vooruitzicht of een klant begint, kunt u Add aan Campagne van om het even welke pagina in onze Webtoepassing, of van Salesforce gebruiken.
 
-Deze stroom zal u toestaan om, uw eerste e-mail in de Campagne voor te vertonen uit te geven en te plannen, en als uw Campagne met een taak begint, zullen deze taken voor u in uw lijst van Taken in onze Webtoepassing en in Salesforce een rij worden gevormd.
+Met deze workflow kunt u uw eerste e-mailbericht in de campagne voorvertonen, bewerken en plannen. Als uw campagne met een taak begint, worden deze taken in de wachtrij voor u geplaatst in uw lijst Taken in onze webtoepassing en in Salesforce.
 
 Dit kunt u doen via het tabblad Campagnes in onze webtoepassing.
 
@@ -36,7 +36,7 @@ Bovendien kunt u personen uit de campagne zelf verwijderen, personen uit een cam
 
 ### Een persoon rechtstreeks uit een campagne verwijderen {#remove-a-person-directly-from-a-campaign}
 
-1. Klik in Sales Connect op de knop **Campagnes** tab.
+1. In Verkoop verbindt, klik de **Campagnes** tabel.
 
    ![](assets/one.png)
 
@@ -44,21 +44,21 @@ Bovendien kunt u personen uit de campagne zelf verwijderen, personen uit een cam
 
    ![](assets/two.png)
 
-1. Uw campagne wordt rechts weergegeven. Klik ergens op om het te openen.
+1. Uw campagne wordt aan de rechterkant weergegeven. Klik ergens op om het te openen.
 
    ![](assets/three.png)
 
-1. Zoek de persoon die u wilt verwijderen en klik op **Verwijderen**.
+1. Vind de persoon u verwijderde en klik **verwijderen**.
 
    ![](assets/four.png)
 
-1. (OPTIONELE STAP) U kunt ook meerdere personen tegelijk verwijderen door op het selectievakje naast hun naam te klikken en op de knop **Verwijderen** bovenaan.
+1. (OPTIONELE STAP) U kunt veelvoudige mensen tegelijkertijd ook verwijderen door checkboxes naast hun namen te klikken en **te klikken verwijdert** knoop bij de bovenkant.
 
    ![](assets/five.png)
 
 ### Een persoon verwijderen uit een campagne op de pagina Personen {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. Klik in Sales Connect op de knop **Mensen** tab.
+1. In Verkoop verbindt, klik de **Mensen** tabel.
 
    ![](assets/one-a.png)
 
@@ -66,17 +66,17 @@ Bovendien kunt u personen uit de campagne zelf verwijderen, personen uit een cam
 
    ![](assets/two-a.png)
 
-1. Aan de rechterkant wordt het deelvenster Gedetailleerde weergave van hun persoon geopend. Klik op de knop **Historie** gevolgd door de **Verwijderen** knop.
+1. Aan de rechterkant wordt het deelvenster Gedetailleerde weergave van hun persoon geopend. Klik het **lusje van de Geschiedenis** dat door **wordt gevolgd verwijder** knoop.
 
    ![](assets/three-a.png)
 
 ### Een groep personen verwijderen uit een campagne {#remove-a-group-of-people-from-a-campaign}
 
-1. Klik in Sales Connect op de knop **Mensen** tab.
+1. In Verkoop verbindt, klik de **Mensen** tabel.
 
    ![](assets/one-b.png)
 
-1. Zoek en selecteer de groep onder **Mijn groepen**.
+1. Vind en selecteer uw groep onder **Mijn Groepen**.
 
    ![](assets/two-b.png)
 
@@ -84,6 +84,6 @@ Bovendien kunt u personen uit de campagne zelf verwijderen, personen uit een cam
 
    ![](assets/three-b.png)
 
-1. Klikken **Handelingen** en kiest u **Geselecteerde verwijderen uit campagne**.
+1. Klik **Acties** en kies **Geselecteerde van Campagne** verwijderen.
 
    ![](assets/four-b.png)

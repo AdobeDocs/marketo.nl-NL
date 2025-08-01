@@ -4,7 +4,7 @@ description: Bewerk het bericht "Weergeven als webpagina" - Marketo Docs - Produ
 title: Het bericht "Weergeven als webpagina" bewerken
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%

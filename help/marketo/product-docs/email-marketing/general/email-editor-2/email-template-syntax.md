@@ -4,7 +4,7 @@ description: E-mailsjabloonsyntaxis - Marketo Docs - Productdocumentatie
 title: E-mailsjabloonsyntaxis
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # E-mailsjabloonsyntaxis {#email-template-syntax}
 
-In de nieuwe Marketo 2.0-ervaring bestaan e-mailsjablonen uit een willekeurige combinatie van elementen, variabelen, modules of containers. Elk wordt bepaald door Marketo-specifieke syntaxis aan uw HTML toe te voegen. Oude (v1.0) e-mailsjablonen worden ondersteund in E-maileditor 2.0, maar ze bevatten niet alle functies van de nieuwe Editor.
+In de nieuwe Marketo 2.0-ervaring bestaan e-mailsjablonen uit een willekeurige combinatie van elementen, variabelen, modules of containers. Elk object wordt gedefinieerd door Marketo-specifieke syntaxis toe te voegen aan uw HTML. Oude (v1.0) e-mailsjablonen worden ondersteund in E-maileditor 2.0, maar ze bevatten niet alle functies van de nieuwe Editor.
 
 De e-mailsyntaxis van Marketo werkt slechts in malplaatjes en individuele e-mails; het werkt **niet** als ingebed in fragmenten of de tokens van de Tekst van de Rich.
 
 >[!NOTE]
 >
->Marketo Support is niet ingesteld als hulpmiddel bij CSS/HTML. Als u niet bekend bent met CSS/HTML, neemt u contact op met uw ontwikkelaar.
+>Marketo Support is niet ingesteld als hulpmiddel bij CSS/HTML. Raadpleeg uw ontwikkelaar als u niet bekend bent met CSS/HTML.
 
 >[!CAUTION]
 >
@@ -40,7 +40,7 @@ Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [ kun
 
 ### Optie 1 - marktEditable {#option-mkteditable}
 
-Omdat e-maileditor 2.0 compatibel is met oudere versies, kunnen sommige oude e-mailsjablonen tekstelementen met tekstopmaak opgeven door class=&quot;mktEditable&quot; toe te voegen aan elk HTML-element. Dit wordt nog steeds ondersteund en de id van het element is de id die wordt gebruikt als de weergavenaam in de e-maileditor.
+Omdat e-maileditor 2.0 compatibel is met oudere versies, kunnen rijke tekstelementen worden opgegeven door class=&quot;mktEditable&quot; toe te voegen aan elk HTML-element. Dit wordt nog steeds ondersteund en de id van het element is de id die wordt gebruikt als de weergavenaam in de e-maileditor.
 
 Vereiste kenmerken
 
@@ -284,9 +284,9 @@ Voorbeeld:
 
 `${showFooter}`
 
-## HTML-blok {#html-block}
+## HTML Block {#html-block}
 
-Als u een variabele opgeeft als een HTML-blok, kan de eindgebruiker letterlijke HTML invoeren in de e-maileditor. U geeft een HTML Block-variabele op met `<meta>` met class=&quot;mktoHTML&quot;
+Als u een variabele opgeeft als een HTML Block, kan de eindgebruiker letterlijk HTML invoeren in de e-maileditor. U geeft een HTML Block-variabele op met `<meta>` with class=&quot;mktoHTML&quot;
 
 Vereiste kenmerken
 

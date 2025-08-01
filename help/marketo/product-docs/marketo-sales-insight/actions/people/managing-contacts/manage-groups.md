@@ -3,7 +3,7 @@ description: Groepen beheren - Marketo Docs - Productdocumentatie
 title: Groepen beheren
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -16,33 +16,33 @@ Leer hoe u uw groepen beheert in [!DNL Sales Insight Actions] .
 
 ## Groepstypen {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Groep</th> 
-   <th>Beschrijving</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>Alle contacten van alle gebruikers die aan u zichtbaar zijn.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>Mijn Contacten: Alle contacten u bezit.<br> Unsubscribes: Contacten die verkiesden-uit het ontvangen van correspondentie hebben.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>Groepen die u hebt gemaakt. Zij kunnen uw contacten, of contacten bevatten die met u zijn gedeeld.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>Groepen die met en/of door u zijn gedeeld. Zij kunnen contacten uw teamgenoten, of contacten bevatten u met hen hebt gedeeld.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Groep</th>
+   <th>Beschrijving</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>Alle contacten van alle gebruikers die aan u zichtbaar zijn.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>Mijn Contacten: Alle contacten u bezit.<br> Unsubscribes: Contacten die verkiesden-uit het ontvangen van correspondentie hebben.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>Groepen die u hebt gemaakt. Zij kunnen uw contacten, of contacten bevatten die met u zijn gedeeld.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>Groepen die met en/of door u zijn gedeeld. Zij kunnen contacten uw teamgenoten, of contacten bevatten u met hen hebt gedeeld.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Een groep maken {#create-a-group}

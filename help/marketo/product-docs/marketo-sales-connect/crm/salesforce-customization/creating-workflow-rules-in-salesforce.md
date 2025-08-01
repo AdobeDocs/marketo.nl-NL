@@ -4,7 +4,7 @@ description: Workflowregels maken in Salesforce - Marketo Docs - Productdocument
 title: Workflowregels maken in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 1%
@@ -25,29 +25,29 @@ De oplossing omvat het maken van nieuwe workflowregels om waarden van nieuwe MSE
 
 Hieronder vindt u de aanbevolen namen van de workflowregels en een beschrijving van de workflowregels. Deze zijn van toepassing op het object [!UICONTROL Contact] en [!UICONTROL Lead] :
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>Interessant momebeschrijving bijwerken</td> 
-   <td><p>Exemplaar van: Laatste het Exemplaar van Marketo van de Aanwezigheid Desc <br> aan: Laatste het Interesten Desc van het Moment</p></td> 
-  </tr> 
-  <tr> 
-   <td>Het veld Interessentype van moment bijwerken</td> 
-   <td><p>Exemplaar van: Het laatste Type van Betrokkenheid van Marketo <br> Exemplaar aan: Het Laatste Interesserende Type van Momentype</p></td> 
-  </tr> 
-  <tr> 
-   <td>Het veld Interessant moment Source bijwerken</td> 
-   <td><p>Exemplaar van: Het laatste Exemplaar van Marketo Betrokkenheid Source <br> aan: Laatste Interessant Moment Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>Veld voor datum van interessant moment bijwerken</td> 
-   <td><p>Exemplaar van: Het laatste Exemplaar van de Datum van de Betrokkenheid van Marketo <br> aan: Laatste het Interesten Datum van de Momentane</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>Interessant momebeschrijving bijwerken</td>
+   <td><p>Exemplaar van: Laatste het Exemplaar van Marketo van de Aanwezigheid Desc <br> aan: Laatste het Interesten Desc van het Moment</p></td>
+  </tr>
+  <tr>
+   <td>Het veld Interessentype van moment bijwerken</td>
+   <td><p>Exemplaar van: Het laatste Type van Betrokkenheid van Marketo <br> Exemplaar aan: Het Laatste Interesserende Type van Momentype</p></td>
+  </tr>
+  <tr>
+   <td>Het veld Interessant moment Source bijwerken</td>
+   <td><p>Exemplaar van: Het laatste Exemplaar van Marketo Betrokkenheid Source <br> aan: Laatste Interessant Moment Source</p></td>
+  </tr>
+  <tr>
+   <td>Veld voor datum van interessant moment bijwerken</td>
+   <td><p>Exemplaar van: Het laatste Exemplaar van de Datum van de Betrokkenheid van Marketo <br> aan: Laatste het Interesten Datum van de Momentane</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Instructies {#instructions}

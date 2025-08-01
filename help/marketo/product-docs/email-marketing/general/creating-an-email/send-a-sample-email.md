@@ -4,7 +4,7 @@ description: Een voorbeeld-e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een voorbeeld-e-mail verzenden
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Om een dy
 
 ## Een voorbeeld-e-mail verzenden {#send-a-sample-email-1}
 
-1. Zoek en selecteer uw e-mail. Klik op de vervolgkeuzelijst **[!UICONTROL Email Actions]** en selecteer **[!UICONTROL Send Sample]** .\
+1. Zoek en selecteer uw e-mail. Klik op de vervolgkeuzelijst **[!UICONTROL Email Actions]** en selecteer **[!UICONTROL Send Sample]** .
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -56,7 +56,7 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Om een dy
 
    >[!NOTE]
    >
-   >Het trekkergebied is slechts van toepassing voor die die [ e-mailscripting ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting) gebruiken.
+   >Het trekkergebied is slechts van toepassing voor die die [ e-mailscripting ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) gebruiken.
 
 ## Een voorbeeld-e-mail verzenden op basis van een segment {#send-a-sample-email-based-on-a-segment}
 

@@ -2,158 +2,158 @@
 description: WR-YYYY-MM-Web Request Program - Marketo Docs - Productdocumentatie
 title: WR-YYYY-MM-Web Request-programma
 feature: Programs
-exl-id: 539dfd08-eed8-4fac-b976-7fe43f5d24b3
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # WR-YYYY-MM-Web Request-programma {#wr-yyyy-mm-web-request-program}
 
-Dit is een voorbeeldprogramma ideaal voor contactverzoek, citaatverzoek, demoverzoek, of proefverzoekvormen die een Programma van het Standaard van het Marketo Engage gebruiken. Kan worden gebruikt met Marketo-bestemmingspagina&#39;s of als een ingesloten formulier op niet-Marketo bestemmingspagina&#39;s. Bij het verzenden van het formulier wordt een waarschuwingsbericht naar een opgegeven persoon verzonden.
+Dit is een voorbeeldprogramma ideaal voor contactverzoek, citaatverzoek, demoverzoek, of proefverzoekvormen die een StandaardProgramma van Marketo Engage gebruiken. Kan worden gebruikt met Marketo-bestemmingspagina&#39;s of als een ingesloten formulier op niet-Marketo bestemmingspagina&#39;s. Bij het verzenden van het formulier wordt een waarschuwingsbericht naar een opgegeven persoon verzonden.
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanaal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanaal</th>
    <th>Lidmaatschapsstatus</th>
    <th>Analysegedrag</th>
    <th>Programmatype</th>
-  </tr> 
-  <tr> 
-   <td>Webverzoek</td> 
+  </tr>
+  <tr>
+   <td>Webverzoek</td>
    <td>01 - Betrokken - Succes</td>
    <td>Inclusief</td>
    <td>Standaard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Het programma bevat de volgende elementen {#program-contains-the-following-assets}
+## Het programma bevat de volgende Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Sjabloonnaam</th>
    <th>Elementnaam</th>
   </tr>
-  <tr> 
-   <td>Formulier</td> 
+  <tr>
+   <td>Formulier</td>
    <td> </td>
    <td>FM-WebRequestForm</td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>Alert-WebRequest</td>
   </tr>
-  <tr> 
-   <td>Openingspagina</td> 
+  <tr>
+   <td>Openingspagina</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01 - LP - Verzoek</td>
   </tr>
-  <tr> 
-   <td>Openingspagina</td> 
+  <tr>
+   <td>Openingspagina</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>02 - LP - Dank u</td>
   </tr>
-  <tr> 
-   <td>Lokaal rapport</td> 
+  <tr>
+   <td>Lokaal rapport</td>
    <td> </td>
    <td>Prestaties van bestemmingspagina</td>
   </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
+   <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>Nieuwe persoon van webverzoek</td>
   </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
+   <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>Nieuwe persoon van Webinar</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
-   <td>Activa - Houdt alle creatieve activa in huis 
-<br/>(submappen voor waarschuwings- en bestemmingspagina's)</td>
+   <td>Assets - Houdt alle creatieve middelen in huis
+<br/> (submappen voor waarschuwings- en bestemmingspagina's)</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Campagnes - Houdt alle Slimme Campagnes</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Rapporten</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
 ## Mijn tokens inbegrepen {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type token</th>
    <th>Tokennaam</th>
    <th>Waarde</th>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Request-Type}}</code></td>
    <td>Contact opnemen</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.ALERT-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.ALERT-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.ALERT-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.BedanktYouPageURL?zonder de http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Conflictregels {#conflict-rules}
 
-* **Programmatags**
-   * Tags maken in dit abonnement - _Aanbevolen_
+* **de Markeringen van het Programma**
+   * Creeer markeringen in dit abonnement - _Geadviseerde_
    * Negeren
 
-* **Landingspagina-sjabloon met dezelfde naam**
+* **het Bestaan malplaatje van de Pagina met de zelfde naam**
    * Originele sjabloon kopiëren
-   * Doelsjabloon gebruiken - _Aanbevolen_
+   * Het bestemmingsmalplaatje van het gebruik - _geadviseerde_
 
-* **Afbeeldingen met dezelfde naam**
+* **Beelden met de zelfde naam**
    * Beide bestanden behouden
-   * Item in dit abonnement vervangen - _Aanbevolen_
+   * Vervang punt in dit abonnement - _geadviseerde_
 
-* **E-mailsjablonen met dezelfde naam**
+* **E-mailmalplaatjes met de zelfde naam**
    * Beide sjablonen behouden
-   * Bestaande sjabloon vervangen - _Aanbevolen_
+   * Vervang bestaand malplaatje - _geadviseerde_
 
 ## Aanbevolen procedures {#best-practices}
 

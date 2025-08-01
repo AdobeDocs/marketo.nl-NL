@@ -4,7 +4,7 @@ description: Protocollen configureren voor Marketo Engage - Marketo Engage Docs 
 title: Protocollen voor Marketo Engage configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Voeg de bestemmingspagina CNAME toe die zij u naar uw DNS verslag hebben verzond
 
 `2` **voegt NAAM voor E-mail het Volgen Verbindingen** toe
 
-Voeg de e-mailCNAME marketing toe die u, zodat `[YourEmailCNAME]` aan [ MktoTrackingLink ] richt, de standaard het volgen verbinding die Marketo Engage, in het formaat toewees:\
+Voeg de e-mailCNAME marketing toe die u, zodat `[YourEmailCNAME]` aan [ MktoTrackingLink ] richt, de standaard het volgen verbinding die Marketo Engage, in het formaat toewees:
 `[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
 Bijvoorbeeld:
@@ -54,7 +54,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **de Steun van Adobe van het Contact [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
+`4` **de Steun van Adobe van het Contact [ ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 
@@ -92,11 +92,11 @@ Uw marketingteam had u ook DKIM (Domain Keys Identified Mail)-informatie moeten 
 
 1. Aan opstelling SPF, voeg de volgende lijn aan onze DNS ingangen toe:
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   include: mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+include: mktomail.com ~all
 
-   Als wij reeds een bestaand SPF- verslag in onze DNS ingang hebben, voeg eenvoudig het volgende aan het toe:\
-   include: mktomail.com
+   Als wij reeds een bestaand SPF- verslag in onze DNS ingang hebben, voeg eenvoudig het volgende aan het toe:
+include: mktomail.com
 
    Vervang CompanyDomain met het belangrijkste domein van uw website (ex: &quot;`(company.com/)`&quot;) en CorpIP met het IP adres van uw collectieve e-mailserver (ex. &quot;255.255.255.255&quot;). Als u e-mail van veelvoudige domeinen door Marketo Engage gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.
 
@@ -192,9 +192,9 @@ DMARC-records hebben meerdere componenten, DMARC-tags genoemd. Elke tag heeft ee
     <td>fo</td>
     <td>Optioneel</td>
     <td>Staat de domeineigenaar toe om rapporteringsopties te specificeren.</td>
-    <td>0: Rapport genereren als alles mislukt 
-    <br> 1: produceer rapport als om het even wat ontbreekt 
-    <br> d: Rapport genereren als DKIM mislukt 
+    <td>0: Rapport genereren als alles mislukt
+    <br> 1: produceer rapport als om het even wat ontbreekt
+    <br> d: Rapport genereren als DKIM mislukt
     <br> s: Genereer rapport als SPF ontbreekt</td>
     <td>1 (aanbevolen voor DMARC-rapporten)</td>
   </tr>
@@ -290,7 +290,7 @@ Marketo Engage [ Webhooks ](/help/marketo/product-docs/administration/additional
 
 **Synchronisatie van CRM**
 
-De Synchronisatie van Marketo Engage [&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} en [ van CRM van Salesforce CRM ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd.  U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
+De Synchronisatie van Marketo Engage [ en ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} van CRM van Salesforce CRM [ zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd. ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
 
 **Uitgaande IP van Marketo Engage Blokken van het Adres**
 

@@ -2,7 +2,8 @@
 description: SMS Reporting - Marketo Docs - Productdocumentatie
 title: SMS-melding
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,7 +16,7 @@ Het SMS-berichtendashboard biedt handige analyses van uw berichten.
 
 ## Het dashboard openen {#access-the-dashboard}
 
-1. Selecteer het gewenste SMS-bericht om de rapportage weer te geven. Klik op de knop **Weergave** vervolgkeuzelijst en selecteer **Dashboard**.
+1. Selecteer het gewenste SMS-bericht om de rapportage weer te geven. Klik de **drop-down Mening 0} en selecteer** Dashboard **.**
 
    ![](assets/sms-reporting-1.png)
 

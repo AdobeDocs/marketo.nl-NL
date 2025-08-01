@@ -3,7 +3,7 @@ description: Agent Inbox - Marketo Docs - Productdocumentatie
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 >[!IMPORTANT]
 >
->**Dit wordt genegeerd** de [beschikbaarheid van livechat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
+>**dit zal** met voeten treden de [ levende praatjebeschikbaarheid ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 ## Live Chatmeldingen {#live-chat-notifications}
 
-Meer informatie over meldingen in het dialoogvenster [Live Chat-overzicht](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Leer meer over berichten in het [ Levende Overzicht van het Praatje ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Gesprek {#conversations}
 
@@ -52,7 +52,7 @@ Op de rechterkant van het scherm van Agent Inbox, zult u (van boven tot onder) h
 
 ## Een sessie beëindigen {#end-a-session}
 
-De agenten hebben de capaciteit een zitting manueel te beëindigen eenvoudig door te klikken **Sessie beëindigen** naast de bezoekersinformatie.
+De agenten hebben de capaciteit om een zitting eenvoudig manueel te eindigen door de **zitting van het Eind** knoop naast de bezoekersinformatie te klikken.
 
 ![](assets/agent-inbox-6.png)
 
@@ -60,13 +60,13 @@ De agenten hebben de capaciteit een zitting manueel te beëindigen eenvoudig doo
 
 >[!NOTE]
 >
->Deze functie maakt deel uit van generatieve AI en is beschikbaar via het abonnement Dynamic Chat Prime. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Deze functie maakt deel uit van generatieve AI en is beschikbaar via het Dynamic Chat Prime-abonnement. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-Sneltoetsen, aangedreven door de generatieve AI [Responsbibliotheek](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), is een geweldige manier om hulp te krijgen wanneer je met een bezoeker praat. Typ gewoon een slash (`/`) in het tekstvak en kies `ask` of `search`.
+De kortere weg, die door de generatieve AI [ bibliotheek van de Reactie ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) wordt aangedreven, is een grote manier om hulp op de vlucht te krijgen wanneer het babbelen met een bezoeker. Typ gewoon een slash (`/`) in het tekstvak en kies `ask` of `search` .
 
 ![](assets/agent-inbox-7.png)
 
-**Vragen** is voor hulp bij het beantwoorden van een vraag.
+**vraag** is voor hulp met reacties op een vraag.
 
 1. Typ of kies `/ask` in het tekstvak. Typ uw vraag en druk op Enter op het toetsenbord.
 
@@ -76,7 +76,7 @@ Sneltoetsen, aangedreven door de generatieve AI [Responsbibliotheek](/help/marke
 
    ![](assets/agent-inbox-9.png)
 
-**Zoeken** is bedoeld voor het zoeken naar pagina&#39;s die betrekking hebben op specifieke tekst.
+**Onderzoek** is voor hulp het vinden van pagina&#39;s met betrekking tot specifieke tekst.
 
 1. Typ of kies `/search` in het tekstvak.
 
@@ -108,7 +108,7 @@ Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda v
 
    ![](assets/agent-inbox-14.png)
 
-1. Kies de gewenste agentenkalender en klik **Verzenden**.
+1. Kies de gewenste agentenkalender en klik **verzenden**.
 
    ![](assets/agent-inbox-15.png)
 
@@ -120,7 +120,7 @@ Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda v
 
 >[!NOTE]
 >
->Deze functie maakt deel uit van generatieve AI en is beschikbaar via het abonnement Dynamic Chat Prime. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Deze functie maakt deel uit van generatieve AI en is beschikbaar via het Dynamic Chat Prime-abonnement. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 Het Samenvatting van de Gesprek produceert een snelle samenvatting voor u in real time, met inbegrip van onderwerpen de bezoeker in heeft uitgedrukt geïnteresseerd. Deze vindt u rechtsonder in elk chatscherm.
 
@@ -128,4 +128,4 @@ Het Samenvatting van de Gesprek produceert een snelle samenvatting voor u in rea
 
 >[!NOTE]
 >
->Een voltooide Samenvatting van de Gesprek kan ook in het activiteitenlogboek van het Verslag van de Persoon van de bezoeker in uw Gegevensbestand van het Marketo Engage worden gevonden.
+>Een voltooide Samenvatting van de Gesprek kan ook in het activiteitenlogboek van het Persoonsverslag van de bezoeker in uw Gegevensbestand van Marketo Engage worden gevonden.

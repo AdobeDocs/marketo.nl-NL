@@ -1,25 +1,25 @@
 ---
 unique-page-id: 4718648
 description: Kennis van de Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
-title: De Opportunity Influence Analyzer begrijpen
+title: De Opportunity Influence Analyzer
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# De Opportunity Influence Analyzer begrijpen {#understanding-the-opportunity-influence-analyzer}
+# De Opportunity Influence Analyzer {#understanding-the-opportunity-influence-analyzer}
 
 Elke kans is een verhaal. Waar heb je de leiding ontmoet? Welke afzetmogelijkheden hadden zij tijdens het marketing-/verkoopproces?
 
-Met de Opportunity Influence Analyzer kunt u het hele verhaal zien. Het is zelfs beschikbaar in Verkoopoverzicht!
+Met de Opportunity Influence Analyzer kunt u het hele verhaal zien. Het is zelfs beschikbaar in Sales Insight!
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Groene controles bekijken**. Zij wijzen op programmasucces voor één van de namen die op het recht worden gecontroleerd. Het groene gebied geeft het begin en einde van de opportuniteit aan.
+**Merk de groene controles** op. Zij wijzen op programmasucces voor één van de namen die op het recht worden gecontroleerd. Het groene gebied geeft het begin en einde van de opportuniteit aan.
 
 >[!NOTE]
 >
@@ -41,5 +41,5 @@ Als u dit gedrag wilt behouden, kunt u overwegen uw gegevens te dedupliceren in 
 
 >[!MORELIKETHIS]
 >
->* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Een Opportunity Influence Analyzer maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [ vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [ creeer een Analysator van de Invloed van de Opportunity ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

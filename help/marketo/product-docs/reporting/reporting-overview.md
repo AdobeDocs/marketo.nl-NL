@@ -3,7 +3,7 @@ description: Rapportageoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van rapporten
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -16,15 +16,15 @@ Marketo biedt verschillende rapporteringsmodules voor verschillende behoeften.
 
 ## Basisrapportage {#basic-reporting}
 
-U kunt instellen [basisverslagen](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} in programma&#39;s of in het gebied Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
+U kunt opstelling [ basisrapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} binnen programma&#39;s of in het gebied van Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
 
 ## E-mailinzichten {#email-insights}
 
-Analyses en verzendingen gebruiken voor [krachtige inzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} op e-mails van historische gegevens.
+Analytics van het gebruik en verzendt om [ krachtige inzichten ](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} op e-mails van historische gegevens te verkrijgen.
 
-## Prestatie-inzichten {#performance-insights}
+## Prestatiegegevens {#performance-insights}
 
-[Prestatie-inzichten](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} omvat kanaalprestaties en programmaprestaties voor overeenkomst, pijpleiding, en opbrengstgeneratie.
+[ de Inzichten van Prestaties ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} behandelen kanaalprestaties en programmaprestaties voor overeenkomst, pijpleiding, en opbrengstgeneratie.
 
 ## Geavanceerde BI-analyserapportage {#advanced-bi-analytics-reporting}
 
@@ -32,7 +32,7 @@ _(voorheen bekend als Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >
->Niet iedereen heeft Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
+>Niet iedereen heeft Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 Houd de ROI bij uw marketinginitiatieven. Analyseer e-mails, Personen, Programma&#39;s, Kansen, de ModelAnalyse van Prestaties (Bedrijven), en de ModelAnalyse van Prestaties (Leads). In de BI Explorer kunt u aangepaste rapporten maken in het analysegebied en grafieken, grafieken, draaipunten en dashboards maken met uw gegevens.
 
@@ -54,13 +54,13 @@ Tot de voordelen van Advanced BI Analytics Reporting behoren:
 
 ## Geavanceerde reisanalyse {#advanced-journey-analytics}
 
-Opbrengstcyclusmodellen: modelleer alle stadia van uw volledige opbrengsttrechter en hoe zij tussen die stadia overgaan, van wanneer u eerst met een lood in werking stelt helemaal tot de lood een gewonnen klant is.
+De Modellen van de Cyclus van opbrengsten: modelleer alle stadia van uw volledige opbrengsttrechter en hoe zij tussen die stadia, van wanneer u eerst met een lood in werking stelt helemaal tot de lood een gewonnen klant is.
 
-Padanalyse met succes: Krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de Cyclus van de Inkomsten. Voor een geslaagde analyse van paden moet u omzetcyclusmodellen maken.
+Success Path Analyzer: Krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de Cyclus van de Opbrengst. Voor een geslaagde analyse van paden moet u omzetcyclusmodellen maken.
 
-Programmaanalyse: Identificeer snel programma&#39;s die succesvol zijn of niet en richt uw middelen geschikt. Gebruik de programmaanalysator om elke kosten te onderzoeken en te vergelijken en gedetailleerd per programma of per kanaal terug te keren.
+Programmaanalyse: identificeer snel programma&#39;s die succesvol zijn of niet en richt uw middelen op de juiste manier. Gebruik de programmaanalysator om elke kosten te onderzoeken en te vergelijken en gedetailleerd per programma of per kanaal terug te keren.
 
-Opportunity Influence Analyzer: De bijdrage van Marketing bewijzen door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
+Opportunity Influence Analyzer: Bewijs de bijdrage van Marketing door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
 
 >[!NOTE]
 >

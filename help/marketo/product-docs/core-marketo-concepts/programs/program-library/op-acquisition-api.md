@@ -2,8 +2,8 @@
 description: OP-Acquisition-API - Marketo Docs - Productdocumentatie
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -12,72 +12,72 @@ ht-degree: 0%
 
 # OP-Acquisition-API {#op-acquisition-api}
 
-Dit voorbeeldprogramma is voor operationele processen om de verwerving van verslagen van API bronnen te volgen die een Programma van het Standaard van het Marketo Engage gebruiken.
+Dit voorbeeldprogramma is bedoeld voor operationele processen om de aanschaf van records van API-bronnen te volgen aan de hand van een Marketo Engage Default Program.
 
 ## Kanaaloverzicht {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanaal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanaal</th>
    <th>Lidmaatschapsstatus</th>
    <th>Analysegedrag</th>
    <th>Programmatype</th>
-  </tr> 
-  <tr> 
-   <td>Operationeel</td> 
+  </tr>
+  <tr>
+   <td>Operationeel</td>
    <td>01-Lid</td>
    <td>Operationeel</td>
    <td>Standaard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Het programma bevat de volgende elementen {#program-contains-the-following-assets}
+## Het programma bevat de volgende Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Sjabloonnaam</th>
    <th>Elementnaam</th>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>Verwerving instellen - Batch</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>Verwerving instellen - trigger</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Campagnes (bevat alle slimme campagnes)</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-acquisition-api-1.png)
 
 ## Conflictregels {#conflict-rules}
 
-* **Programmatags**
-   * Tags maken in dit abonnement - _Aanbevolen_
+* **de Markeringen van het Programma**
+   * Creeer markeringen in dit abonnement - _Geadviseerde_
    * Negeren
 
-* **Landingspagina-sjabloon met dezelfde naam**
-   * Oorspronkelijke sjabloon kopiëren - _Aanbevolen_
+* **het Bestaan malplaatje van de Pagina met de zelfde naam**
+   * Origineel malplaatje van het exemplaar - _geadviseerde_
    * Doelsjabloon gebruiken
 
-* **Afbeeldingen met dezelfde naam**
-   * Beide bestanden behouden - _Aanbevolen_
+* **Beelden met de zelfde naam**
+   * Houd beide dossiers - _geadviseerde_
    * Item in dit abonnement vervangen
 
-* **E-mailsjablonen met dezelfde naam**
-   * Beide sjablonen behouden - _Aanbevolen_
+* **E-mailmalplaatjes met de zelfde naam**
+   * Houd beide malplaatjes - _geadviseerde_
    * Bestaande sjabloon vervangen
 
 ## Aanbevolen procedures {#best-practices}

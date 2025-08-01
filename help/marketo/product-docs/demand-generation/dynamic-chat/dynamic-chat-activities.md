@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat] Activiteiten - Marketo Docs - Productdocumentatie'
 title: '[!DNL Dynamic Chat] Activiteiten'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td style="width:25%"><b>Gegenereerd met een Stroom/Dialoog van de Gesprek</b></td>
-    <td>Een betrokkenheid vindt plaats wanneer een webbezoeker voor het eerst op een vraag in een Dialoog of Conversationele Stroom klikt (door op een meerkeuzeoptie te klikken, informatie te verzenden, een vergadering te boeken, een document te openen, enz.). Als een bezoeker een Dialoog of een Conversationele Stroom opent, maar niet op een herinnering klikt, wordt een overeenkomst <b> niet </b> geregistreerd. 
+    <td>Een betrokkenheid vindt plaats wanneer een webbezoeker voor het eerst op een vraag in een Dialoog of Conversationele Stroom klikt (door op een meerkeuzeoptie te klikken, informatie te verzenden, een vergadering te boeken, een document te openen, enz.). Als een bezoeker een Dialoog of een Conversationele Stroom opent, maar niet op een herinnering klikt, wordt een overeenkomst <b> niet </b> geregistreerd.
     <br> Één betrokkenheidsgebeurtenis per bezoeker, per zitting.</td>
   </tr>
    <tr>

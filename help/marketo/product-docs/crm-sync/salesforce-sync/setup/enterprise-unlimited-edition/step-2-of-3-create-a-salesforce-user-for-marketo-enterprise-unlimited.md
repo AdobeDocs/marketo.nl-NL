@@ -4,7 +4,7 @@ description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterpr
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -121,25 +121,25 @@ In dit artikel stelt u gebruikersmachtigingen in in het [!DNL Salesforce] -profi
 
 1. Nadat u alle overbodige velden hebt uitgeschakeld, moet u **[!UICONTROL Read Access and Edit Access]** controleren op de volgende objectvelden. Klik op **[!UICONTROL Save]** wanneer u klaar bent.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Object</th> 
-   <th>Velden</th> 
-  </tr> 
-  <tr> 
-   <td>Account</td> 
-   <td>Tekstveld</td> 
-  </tr> 
-  <tr> 
-   <td>Gebeurtenis</td> 
-   <td>Alle velden</td> 
-  </tr> 
-  <tr> 
-   <td>Taak</td> 
-   <td>Alle velden</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Object</th>
+   <th>Velden</th>
+  </tr>
+  <tr>
+   <td>Account</td>
+   <td>Tekstveld</td>
+  </tr>
+  <tr>
+   <td>Gebeurtenis</td>
+   <td>Alle velden</td>
+  </tr>
+  <tr>
+   <td>Taak</td>
+   <td>Alle velden</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

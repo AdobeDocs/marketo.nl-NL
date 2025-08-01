@@ -4,7 +4,7 @@ description: Knopinfo-instructies toevoegen aan een formulierveld - Marketo Docs
 title: Knopinfo-instructies toevoegen aan een formulierveld
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%
@@ -19,9 +19,9 @@ ht-degree: 1%
 >
 >**Definitie**
 >
->De Hints van de vorm **&#x200B;**&#x200B;is tekst die binnen het gebied verdwijnt wanneer de bezoeker op het gebied begint te typen.
+>De Hints van de vorm **** is tekst die binnen het gebied verdwijnt wanneer de bezoeker op het gebied begint te typen.
 >
->De instructies van de vorm **&#x200B;**&#x200B;zijn weinig tooltips die omhoog pop wanneer de bezoeker over het gebied beweegt.
+>De instructies van de vorm **** zijn weinig tooltips die omhoog pop wanneer de bezoeker over het gebied beweegt.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

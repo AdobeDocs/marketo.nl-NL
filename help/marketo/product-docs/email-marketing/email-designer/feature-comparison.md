@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '913'
 ht-degree: 0%
@@ -108,7 +108,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
   </tr>
   <tr>
     <td>Inhoud vergrendelen</td>
-    <td>Mogelijkheid om inhoud </a> in een e-mailmalplaatje te sluiten <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank"> zodat kan het niet worden gewijzigd wanneer het creëren van e-mails.</td>
+    <td>Mogelijkheid om inhoud <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank"> in een e-mailmalplaatje te sluiten </a> zodat kan het niet worden gewijzigd wanneer het creëren van e-mails.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>

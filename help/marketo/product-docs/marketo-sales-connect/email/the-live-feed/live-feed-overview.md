@@ -4,7 +4,7 @@ description: Overzicht van Live Feed - Marketo Docs - Productdocumentatie
 title: Overzicht van Live feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -62,41 +62,41 @@ Zie de bovenste mensen (geordend van het hoogste naar het laagste) op basis van 
 
 ## Woordenlijst met pictogrammen {#icon-glossary}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
-    </div></td> 
-   <td><p>Iemand heeft uw e-mail bekeken</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
-    </div></td> 
-   <td><p>Iemand heeft op een koppeling in uw e-mail geklikt</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
-    </div></td> 
-   <td><p>Iemand heeft uw e-mail beantwoord</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> 
-    <div> 
-     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p> 
-    </div></td> 
-   <td colspan="1">Alle meldingen die worden vermeld onder Interesserende momenten, inclusief e-mail, internet en mijlpalen</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+    </div></td>
+   <td><p>Iemand heeft uw e-mail bekeken</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="—" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+    </div></td>
+   <td><p>Iemand heeft op een koppeling in uw e-mail geklikt</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="—" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+    </div></td>
+   <td><p>Iemand heeft uw e-mail beantwoord</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">
+    <div>
+     <p><img alt="—" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="—"></p>
+    </div></td>
+   <td colspan="1">Alle meldingen die worden vermeld onder Interesserende momenten, inclusief e-mail, internet en mijlpalen</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

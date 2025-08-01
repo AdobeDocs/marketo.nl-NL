@@ -4,9 +4,9 @@ description: Best Practice - Hoe kan ik uw programma's organiseren - Marketo Doc
 title: Beste praktijken - hoe te om uw Programma's te organiseren
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -37,12 +37,12 @@ Bij marketingactiviteiten moet u mappen gebruiken om uw programma&#39;s te organ
 >   * Verloop
 >   * Webinhoud
 >   * Webformulieren
->* Leren
+>* Learning
 >* Operationeel
 >   * Levenscyclus
 >   * Scores
 >   * Gegevensbeheer
->* Verkoopoverzicht
+>* VerkoopInsight
 >   * Interesserende momenten
 >   * Verkoop-e-mails
 >   * Verkoop aangevraagde campagnes
@@ -55,15 +55,15 @@ Elk van deze die in het voorbeeld worden vermeld is een omslag. U ziet hoe ze al
 
 >[!TIP]
 >
->De map &quot;Archiveren&quot; is een speciaal soort map waarmee zowel items uit geselecteerde lijsten als rapportage kunnen worden verwijderd. Hierdoor wordt uw systeem sneller uitgevoerd. Meer informatie [meer informatie over mappen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>De map &quot;Archiveren&quot; is een speciaal soort map waarmee zowel items uit geselecteerde lijsten als rapportage kunnen worden verwijderd. Hierdoor wordt uw systeem sneller uitgevoerd. Leer [ meer over omslagen ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 U kunt zeker meer mappen toevoegen als u dat wilt. Houd er rekening mee dat toekomstige generaties van marketers in uw bedrijf met uw beslissingen zullen leven over hoe u dingen kunt benoemen/organiseren.
 
 ## Naamgevingsschema&#39;s {#naming-schemes}
 
-Naamgeving is essentieel, omdat Marketo-functies allemaal een gemeenschappelijke taal gebruiken om te communiceren. Voor programma&#39;s, zou u hen iets uniek moeten noemen. **Geen twee programma&#39;s kunnen de zelfde naam hebben**. U kunt het beste de volgende indeling gebruiken:
+Naamgeving is essentieel, omdat Marketo-functies allemaal een gemeenschappelijke taal gebruiken om te communiceren. Voor programma&#39;s, zou u hen iets uniek moeten noemen. **Geen twee programma&#39;s kunnen de zelfde naam** hebben. U kunt het beste de volgende indeling gebruiken:
 
-[Afkorting van programmatype] [JJJJ]-[MM]-[Optionele DD] [Korte beschrijving]
+[ Afkorting van het Type van Programma ] [ YYYY ] - [ MM. ] - [ Facultatieve DD ] [ Korte Beschrijving ]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Naamgeving is essentieel, omdat Marketo-functies allemaal een gemeenschappelijke
 >1. NL 2015-06 Nieuwsbrief
 >1. WBN 2015-12-01 Webinar-onderwerp hier
 
-Programmanamen moeten uniek zijn in uw abonnement, zelfs in verschillende [werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Voor de lokale middelen binnen programma&#39;s is de regel: **de naam eenvoudig houden**. Noem enkel een uitnodiging &quot;Uitnodiging,&quot;in tegenstelling tot &quot;Uitnodiging van de Webinar van 2015 Juni.&quot; Omdat deze zich in een programma bevinden, maakt het bovenliggende programma automatisch deel uit van de naam wanneer u deze elders kiest. Met andere woorden, lokale middelen hoeven alleen binnen het programma uniek te zijn. U kunt honderden elementen met de naam &quot;Uitnodigen&quot; hebben in een ander programma en het zal u niet in de war brengen.
+De namen van het programma moeten in uw abonnement, zelfs in verschillende [ werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"} uniek zijn.  Voor de lokale activa binnen programma&#39;s, moet de regel **de naam eenvoudig houden**. Noem enkel een uitnodiging &quot;Uitnodiging,&quot;in tegenstelling tot &quot;Uitnodiging van de Webinar van 2015 Juni.&quot; Omdat deze zich in een programma bevinden, maakt het bovenliggende programma automatisch deel uit van de naam wanneer u deze elders kiest. Met andere woorden, lokale middelen hoeven alleen binnen het programma uniek te zijn. U kunt honderden elementen met de naam &quot;Uitnodigen&quot; hebben in een ander programma en het zal u niet in de war brengen.
 
 ## Tokens {#tokens}
 
@@ -87,7 +87,7 @@ Met de hierboven vermelde organisatie kunt u tokens in de map Event plaatsen, zo
 >
 >**Voorbeeld**
 >
->**Uw bedrijfsadres**. Gebruik een token in plaats van het telkens opnieuw te schrijven. Op die manier kunt u het bestand op één locatie bijwerken zonder dat u veel concepten hoeft te maken. Overschrijf vervolgens zo nodig het token in een map op een lager niveau.
+>**Uw collectief adres**. Gebruik een token in plaats van het telkens opnieuw te schrijven. Op die manier kunt u het bestand op één locatie bijwerken zonder dat u veel concepten hoeft te maken. Overschrijf vervolgens zo nodig het token in een map op een lager niveau.
 
 ## Gebeurtenissen {#events}
 
@@ -97,7 +97,7 @@ Een gebeurtenis heeft meestal veel bewegende onderdelen, zoals uitnodigingen, be
 
 ## Betrokkenheidsprogramma&#39;s {#engagement-programs}
 
-Meer informatie [alles over betrokkenheidsprogramma&#39;s](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. De beste manier om uw betrokkenheidsprogramma te organiseren is met mappen. Maak een map voor elke stream en plaats de e-mails of programma&#39;s in die map. Neem in elke stream een archiefmap op wanneer de inhoud wordt verkocht en u wilt deze verwijderen.
+Leer [ allen over betrokkenheidsprogramma&#39;s ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}. De beste manier om uw betrokkenheidsprogramma te organiseren is met mappen. Maak een map voor elke stream en plaats de e-mails of programma&#39;s in die map. Neem in elke stream een archiefmap op wanneer de inhoud wordt verkocht en u wilt deze verwijderen.
 
 ## Operationele programma&#39;s {#operational-programs}
 
@@ -121,4 +121,4 @@ Sommige mensen onttrekken zelfs het grootste deel van de tekst in de e-mails en 
 
 ## Samenvatting {#summary}
 
-Zoals je ziet, is er veel macht in Marketo. We hebben hier de basisbeginselen besproken, maar overwegen aanvullende diensten van [Deskundigen Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} om te verfijnen en jezelf op te richten voor succes.
+Zoals je ziet, is er veel macht in Marketo. Wij behandelden de grondbeginselen hier, maar overweeg de extra diensten van [ deskundigen van Marketo Engage ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} aan verfijning en opstelling voor succes.

@@ -4,7 +4,7 @@ description: Het Rapport van de Activiteit van het Web van het bedrijf - de Docu
 title: Webactiviteitenrapport van bedrijf
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -33,43 +33,43 @@ Creeer het rapport van de Activiteit van de Pagina van het a [ Web ](/help/marke
 
    >[!TIP]
    >
-   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _[!UICONTROL Page Views]_&#x200B;kolom en kies **[!UICONTROL Sort Descending]**.
+   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _[!UICONTROL Page Views]_kolom en kies **[!UICONTROL Sort Descending]**.
 
    [ Kolommen die u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van het Web van het Bedrijf kunt selecteren omvatten:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Kolom(men)</th> 
-   <th>Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Bedrijf</td> 
-   <td>Het bezoekersbedrijf.<br> <strong> de Namen in vette </strong> worden bevestigd om de bedrijfsnaam door minstens één persoon te zijn.</td> 
-  </tr> 
-  <tr> 
-   <td>Overgenomen bedrijf of ISP</td> 
-   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <br> <strong> Namen in vette </strong> wijzen op dit het bedrijf, niet ISP is. </td> 
-  </tr> 
-  <tr> 
-   <td>Paginaweergaven</td> 
-   <td>Aantal pagina's dat door de bezoekers is geladen.</td> 
-  </tr> 
-  <tr> 
-   <td>Mensen</td> 
-   <td>Aantal personen van dit bedrijf dat uw site heeft bezocht.</td> 
-  </tr> 
-  <tr> 
-   <td>Land, Staat/regio &amp; plaats</td> 
-   <td>Geografische locatie van de onderneming.</td> 
-  </tr> 
-  <tr> 
-   <td>Eerste/laatste bezoek (tijdzone)</td> 
-   <td>Datum en tijdstip van het eerste/laatste bezoek van iemand van dit bedrijf.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Kolom(men)</th>
+   <th>Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Bedrijf</td>
+   <td>Het bezoekersbedrijf.<br> <strong> de Namen in vette </strong> worden bevestigd om de bedrijfsnaam door minstens één persoon te zijn.</td>
+  </tr>
+  <tr>
+   <td>Overgenomen bedrijf of ISP</td>
+   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <br> <strong> Namen in vette </strong> wijzen op dit het bedrijf, niet ISP is. </td>
+  </tr>
+  <tr>
+   <td>Paginaweergaven</td>
+   <td>Aantal pagina's dat door de bezoekers is geladen.</td>
+  </tr>
+  <tr>
+   <td>Mensen</td>
+   <td>Aantal personen van dit bedrijf dat uw site heeft bezocht.</td>
+  </tr>
+  <tr>
+   <td>Land, Staat/regio &amp; plaats</td>
+   <td>Geografische locatie van de onderneming.</td>
+  </tr>
+  <tr>
+   <td>Eerste/laatste bezoek (tijdzone)</td>
+   <td>Datum en tijdstip van het eerste/laatste bezoek van iemand van dit bedrijf.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

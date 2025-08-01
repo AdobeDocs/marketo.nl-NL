@@ -1,193 +1,193 @@
 ---
-description: OA-YYYY-MM-Online Advertising Page - Marketo Docs - Productdocumentatie
-title: Openingspagina Marketo van OA-YYYY-MM-Online Advertising
+description: OA-YYYY-MM-Online Advertising Marketo Landing Page - Marketo Docs - Productdocumentatie
+title: Openingspagina van Advertising Marketo OA-YYYY-MM-Online
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
-# Openingspagina Marketo van OA-YYYY-MM-Online Advertising {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# Openingspagina van Advertising Marketo OA-YYYY-MM-Online {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Dit is een voorbeeld van een online programma voor het bijhouden van advertenties, waaronder een Marketo Landing Page met registratieformulier en een Marketo Default Program. De koppeling naar het aanbod kan worden weergegeven op de pagina Hartelijk dank, in een e-mail met dank of in beide.
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanaal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanaal</th>
    <th>Lidmaatschapsstatus</th>
    <th>Analysegedrag</th>
    <th>Programmatype</th>
-  </tr> 
-  <tr> 
-   <td>Online advertentie</td> 
-   <td>01 - Lid 
-<br/>02 - Betrokken - Succes</td>
+  </tr>
+  <tr>
+   <td>Online Advertising</td>
+   <td>01 - Lid
+<br/> 02 - Behoefte - Succes</td>
    <td>Inclusief</td>
    <td>Standaard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Het programma bevat de volgende elementen {#program-contains-the-following-assets}
+## Het programma bevat de volgende Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Sjabloonnaam</th>
    <th>Elementnaam</th>
-  </tr> 
-  <tr> 
-   <td>Formulier</td> 
+  </tr>
+  <tr>
+   <td>Formulier</td>
    <td> </td>
    <td>Registratie van FM-inhoud</td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01-E-mail-Dank u</td>
   </tr>
-  <tr> 
-   <td>Openingspagina</td> 
+  <tr>
+   <td>Openingspagina</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01 - LP - Registratie</td>
   </tr>
-   <tr> 
-   <td>Openingspagina</td> 
+   <tr>
+   <td>Openingspagina</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>02 - LP - Dank u</td>
   </tr>
-   <tr> 
-   <td>Lokaal rapport</td> 
+   <tr>
+   <td>Lokaal rapport</td>
    <td> </td>
    <td>E-mailprestaties</td>
   </tr>
-  <tr> 
-   <td>Lokaal rapport</td> 
+  <tr>
+   <td>Lokaal rapport</td>
    <td> </td>
    <td>Prestaties van bestemmingspagina</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>00 - Programma voor overname van vastleggingen</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>01 - Formulier invullen</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>02 - Betrokken (succes van programma)</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
-   <td>Middelen - alle creatieve middelen onderbrengen 
-<br/>(submappen voor e-mails en bestemmingspagina's)  </td>
+   <td>Assets - alle creatieve middelen onderbrengen
+<br/> (submappen voor e-mails en bestemmingspagina's)  </td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Campagnes - alle slimme campagnes onderbrengen</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Rapporten</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/oa-yyyy-mm-online-advertising-marketo-landing-page-1.png)
 
 ## Mijn tokens inbegrepen {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type token</th>
    <th>Tokennaam</th>
    <th>Waarde</th>
-  </tr> 
-  <tr> 
-   <td>RTF</td> 
+  </tr>
+  <tr>
+   <td>RTF</td>
    <td><code>{{my.Content-Description}}</code></td>
-   <td>Dubbelklik voor details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Bewerk deze inhoudsbeschrijving op programmaniveau onder het tabblad Mijn tokens. 
-<br/>U leert: 
+   <td>Dubbelklik voor details
+<br/><code><--My Content Description Here--></code>
+<br/> geef deze inhoudsbeschrijving op het programmaniveau, onder het Mijn Tokens lusje uit.
+<br/> u zult leren:
 <li>Opsommingsteken 1</li>
 <li>Opsommingsteken 2</li>
 <li>Opsommingsteken 3</li></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Content-Title}}</code></td>
    <td><code><--My Content Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Content-Type}}</code></td>
    <td><code><--My Content Type Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Content-URL}}</code></td>
    <td>my.ContentURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Tekst</td> 
+  <tr>
+   <td>Tekst</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.BedanktYouPageURL?zonder de http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 SCHERM VAN HET PROGRAMMA
 
 ## Conflictregels {#conflict-rules}
 
-* **Programmatags**
-   * Tags maken in dit abonnement - _Aanbevolen_
+* **de Markeringen van het Programma**
+   * Creeer markeringen in dit abonnement - _Geadviseerde_
    * Negeren
 
-* **Landingspagina-sjabloon met dezelfde naam**
+* **het Bestaan malplaatje van de Pagina met de zelfde naam**
    * Originele sjabloon kopiëren
-   * Doelsjabloon gebruiken - _Aanbevolen_
+   * Het bestemmingsmalplaatje van het gebruik - _geadviseerde_
 
-* **Afbeeldingen met dezelfde naam**
+* **Beelden met de zelfde naam**
    * Beide bestanden behouden
-   * Item in dit abonnement vervangen - _Aanbevolen_
+   * Vervang punt in dit abonnement - _geadviseerde_
 
-* **E-mailsjablonen met dezelfde naam**
+* **E-mailmalplaatjes met de zelfde naam**
    * Beide sjablonen behouden
-   * Bestaande sjabloon vervangen - _Aanbevolen_
+   * Vervang bestaand malplaatje - _geadviseerde_
 
 SCHERM VAN CONFLICTREGELS
 
@@ -198,7 +198,7 @@ SCHERM VAN CONFLICTREGELS
 
 * U kunt overwegen de sjablonen in uw geïmporteerde programma bij te werken om de sjablonen met branding te gebruiken of de nieuw geïmporteerde sjabloon bij te werken naar uw merk door deze toe te voegen in een fragment of door de juiste logo-/voettekstinformatie.
 
-* Met Programmatags kunt u rapporten filteren op basis van verschillende bronnen van online reclame.
+* Met Programmatags kunt u rapporten filteren op verschillende bronnen van Online Advertising.
 
 * U kunt overwegen de naamgevingsconventie van dit programmavoorbeeld bij te werken en deze uit te lijnen met uw naamgevingsconventie.
 
@@ -208,7 +208,7 @@ SCHERM VAN CONFLICTREGELS
 
 >[!TIP]
 >
->Vergeet niet de campagne &quot;02 - Betrokken (succes programma)&quot; te activeren om succes te volgen! Doe dit _voor_ uw formulier is live en e-mails worden verzonden.
+>Vergeet niet de campagne &quot;02 - Betrokken (succes programma)&quot; te activeren om succes te volgen! Doe dit _alvorens_ uw vorm levend is en e-mails worden verzonden.
 
 >[!IMPORTANT]
 >

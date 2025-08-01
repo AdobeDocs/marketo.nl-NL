@@ -4,7 +4,7 @@ description: TAM Sales Report - Marketo Docs - Productdocumentatie
 title: TAM-verkooprapport
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -30,35 +30,35 @@ In het verslag wordt het volgende vermeld:
 
 ## Verkoop rapportnummer {#sales-report-key}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Accountscore</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Accountscore</span></strong></td>
+   <td>
     <div>
-      Wekelijkse trend naar accountscore (geselecteerd in setup), gevolgd door huidige accountscore 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Verkooppijpleiding</span></strong></td> 
-   <td> 
+      Wekelijkse trend naar accountscore (geselecteerd in setup), gevolgd door huidige accountscore
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Verkooppijpleiding</span></strong></td>
+   <td>
     <div>
-      Wekelijkse trend per pijpleiding, gevolgd door de totale huidige pijpleiding en het aantal open kansen 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Paginaweergaven</span></strong></td> 
-   <td> 
+      Wekelijkse trend per pijpleiding, gevolgd door de totale huidige pijpleiding en het aantal open kansen
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Paginaweergaven</span></strong></td>
+   <td>
     <div>
-      Wekelijkse trend van paginaweergaven, gevolgd door totale paginaweergaven en aantal unieke bezoekers 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Interesserende momenten</span></strong></td> 
-   <td> 
+      Wekelijkse trend van paginaweergaven, gevolgd door totale paginaweergaven en aantal unieke bezoekers
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Interesserende momenten</span></strong></td>
+   <td>
     <div>
-      Totaal aantal interessante momenten die zich tijdens de week hebben voorgedaan 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Totaal aantal interessante momenten die zich tijdens de week hebben voorgedaan
+    </div></td>
+  </tr>
+ </tbody>
 </table>

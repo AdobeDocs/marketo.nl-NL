@@ -4,7 +4,7 @@ description: Een aangepaste DKIM-handtekening instellen - Marketo Docs - Product
 title: Een aangepaste DKIM-handtekening instellen
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -41,12 +41,12 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>Kiezer</b></td>
    <td>Een unieke tekenreeks/id die wordt gebruikt om het openbare-sleutelgedeelte van de DKIM-record te zoeken. Het kan een willekeurige tekenreeks zijn, of een unieke id om het doel van die DKIM-sleutel/-record te scheiden en te identificeren.</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>Grootte sleutel</b></td>
    <td>Het beveiligingsniveau waarmee uw DKIM-handtekening moet worden gecodeerd.</td>
    </tr>

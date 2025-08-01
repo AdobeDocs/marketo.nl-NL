@@ -3,7 +3,7 @@ description: Een lijst verzenden naar Google - Marketo Docs - Productdocumentati
 title: Een lijst naar Google verzenden
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # Een lijst naar Google verzenden {#send-a-list-to-google}
 
-Voor wie Google Customer Match gebruikt, volgt u de onderstaande stappen om een statische lijst met Marketo&#39;s Engage naar uw Google-account te verzenden.
+Voor wie Google Customer Match gebruikt, volgt u de onderstaande stappen om een statische Marketo Engage-lijst naar uw Google-account te verzenden.
 
-1. Zoek en selecteer de gewenste lijst in het Marketo Engage.
+1. Zoek en selecteer de gewenste lijst in Marketo Engage.
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. Klik op de knop **Handelingen weergeven** vervolgkeuzelijst en selecteer **Verzenden naar advertentienetwerk**.
+1. Klik de **drop-down Acties van de Lijst** en selecteer **verzenden naar Advertentienetwerk**.
 
    ![](assets/send-a-list-to-google-2.png)
 
-1. Kies Google en klik op **Volgende**.
+1. Kies Google en klik **daarna**.
 
    ![](assets/send-a-list-to-google-3.png)
 
@@ -36,14 +36,14 @@ Voor wie Google Customer Match gebruikt, volgt u de onderstaande stappen om een 
 
    >[!NOTE]
    >
-   >* Selecteren **Zorgen dat uw abonnement synchroon blijft** houdt de lijst bijgewerkt aangezien het in uw geval verandert. We voegen of verwijderen mensen toe aan het publiek wanneer ze aan de statische lijst worden toegevoegd of eruit worden verwijderd.
+   >* Het selecteren **houdt publiekslidmaatschap in synchronisatie** houdt de lijst bijgewerkt aangezien het in uw instantie verandert. We voegen of verwijderen mensen toe aan het publiek wanneer ze aan de statische lijst worden toegevoegd of eruit worden verwijderd.
    >
-   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD. Voor degenen die gegevens willen uploaden voor gebruikers in de Europese Economische Ruimte (EER), heeft Google een lijst opgesteld van [Veelgestelde vragen](https://support.google.com/google-ads/answer/14310715){target="_blank"}, alsmede aanvullende gegevens over de [EU-beleid inzake instemming van gebruikers](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD. Voor degenen die van plan zijn om gegevens voor gebruikers in de Europese Economische Ruimte (EEA) te uploaden, heeft Google een lijst van [ FAQs ](https://support.google.com/google-ads/answer/14310715){target="_blank"} samengesteld, evenals extra details die het [ beleid van de de gebruikersgoedkeuring van de EU ](https://www.google.com/about/company/user-consent-policy/){target="_blank"} schetsen.
 
-1. Klikken **Bijwerken**.
+1. Klik **Update**.
 
    ![](assets/send-a-list-to-google-6.png)
 
-1. Klikken **OK** om af te sluiten.
+1. Klik **O.K.** om weg te gaan.
 
    ![](assets/send-a-list-to-google-7.png)

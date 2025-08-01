@@ -4,10 +4,10 @@ description: Persoon toevoegen aan Lijst van gewezen personen - Marketo Docs - P
 title: Persoon toevoegen aan Lijst van gewezen personen
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 4%
 
 Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspondentie niet ontvangen.
 
-1. Een nieuwe [standaardprogramma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} en noem het &quot;Toevoegen aan Lijst van gewezen personen.&quot;
+1. Creeer een nieuw [ standaardprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} en noem het &quot;toevoegen aan Lijst van gewezen personen.&quot;
 
-1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Local Asset]**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Local Asset]** .
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Selecteren **[!UICONTROL Smart List]**.
+1. Selecteer **[!UICONTROL Smart List]** .
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. Geef uw lijst een naam en klik op **[!UICONTROL Create]**.
+1. Geef een naam op voor de lijst en klik op **[!UICONTROL Create]** .
 
    ![](assets/add-person-to-blocklist-3.png)
 
@@ -41,7 +41,7 @@ Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspond
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Smart Campaign]**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Smart Campaign]** .
 
    ![](assets/add-person-to-blocklist-6.png)
 
@@ -49,7 +49,7 @@ Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspond
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Slepen en slepen **[!UICONTROL Member of Smart List]**.
+1. Sleep **[!UICONTROL Member of Smart List]** .
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspond
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Klik op de knop **[!UICONTROL Flow]** tab. Sleep de **[!UICONTROL Change Data Value]** Flow-actie.
+1. Klik op de tab **[!UICONTROL Flow]** . Sleep de **[!UICONTROL Change Data Value]** Flow-actie en zet deze neer.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. In de **[!UICONTROL Attribute]** vervolgkeuzelijst **[!UICONTROL Block Listed]** en instellen **[!UICONTROL New Value]** tot **[!UICONTROL true]**.
+1. Selecteer **[!UICONTROL Attribute]** in de vervolgkeuzelijst **[!UICONTROL Block Listed]** en stel **[!UICONTROL New Value]** in op **[!UICONTROL true]** .
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Klik op de knop **[!UICONTROL Schedule]** en selecteert u **[!UICONTROL Run Once]**.
+1. Klik op de tab **[!UICONTROL Schedule]** en selecteer **[!UICONTROL Run Once]** .
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Selecteren **[!UICONTROL Run Now]** en klik op **[!UICONTROL Run]**.
+1. Selecteer **[!UICONTROL Run Now]** en klik op **[!UICONTROL Run]** .
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Klikken **[!UICONTROL Run]** opnieuw.
+1. Klik nogmaals op **[!UICONTROL Run]** .
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Deze mensen zullen geen e-mails meer ontvangen.
 
 >[!TIP]
 >
->Een [Trigger-campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} gebruiken **Gegevenswaarde wijzigen** with **Blok aangeboden is waar** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van gewezen personen.
+>Creeer de Campagne van de a [ Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} gebruikend **de Waarde van Gegevens van de Verandering** met **Voorgeschreven Blok is waar** voor alle mensen in de toekomst die lijst van gewezen personen-geschikte attributen hebben.

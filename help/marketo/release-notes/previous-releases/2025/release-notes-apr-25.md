@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - april 2025 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - april 2025
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 2%
@@ -24,19 +24,19 @@ De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/h
 
 De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **worden vrijgegeven 25 april, 2025**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Functie</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Functie</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
   </tr>
-  <tr> 
-   <td><strong> Veilige Zelfbediening van de Laag van de Contactdoos (SSL) </strong>: SSL de encryptie staat u toe om het Bestaan van Pagina's voor een instantie van Marketo Engage veilig te maken. Als u deze functie inschakelt, hebt u hulp nodig van het Adobe-ondersteuningsteam. Marketo-gebruikers kunnen deze nu zelfstandig inschakelen en kostbare tijd besparen.</td> 
+  <tr>
+   <td><strong> Veilige Zelfbediening van de Laag van de Contactdoos (SSL) </strong>: SSL de encryptie staat u toe om het Bestaan van Pagina's voor een instantie van Marketo Engage veilig te maken. Als u deze functie inschakelt, hebt u hulp nodig van het Adobe-ondersteuningsteam. Marketo-gebruikers kunnen deze nu zelfstandig inschakelen en kostbare tijd besparen.</td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">SSL toevoegen aan uw bestemmingspagina's</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -46,9 +46,9 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
 
 * **Sociale Veroudering van Eigenschappen**: Op Woensdag, 31 Juli, 2024, begon Marketo Engage de veroudering van de volgende Sociale eigenschappen binnen het product:
 

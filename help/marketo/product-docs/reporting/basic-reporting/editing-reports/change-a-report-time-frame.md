@@ -4,7 +4,7 @@ description: Een rapporttijdkader wijzigen - Marketo Docs - Productdocumentatie
 title: Een rapporttijdframe wijzigen
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
    >
    >Als u specifieke datums wilt instellen, selecteert u **[!UICONTROL Custom]** in de vervolgkeuzelijst en voert u de datums in de kalendervelden **[!UICONTROL From]** en **[!UICONTROL To]** in.
 
-   Klik op het tabblad **[!UICONTROL Report]** om uw rapport voor het geselecteerde tijdframe weer te geven.\
+   Klik op het tabblad **[!UICONTROL Report]** om uw rapport voor het geselecteerde tijdframe weer te geven.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

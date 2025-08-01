@@ -4,7 +4,7 @@ description: Slimme lijst definiëren voor slimme campagne | Trigger - Marketo D
 title: Slimme lijst definiëren voor slimme campagne | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Maak een slimme Campagne in werking gesteld op één persoon in een tijd die op 
 >
 >Het maken van Slimme Lijst of de Stap van de Stroom geeft aan een actieve campagne kan zijn functionaliteit potentieel breken. Als u dit wilt doen, moet u voorzichtig te werk gaan.
 
-1. Klik in uw slimme campagne op de knop **[!UICONTROL Smart List]** tab.
+1. Klik in de slimme campagne op het tabblad **[!UICONTROL Smart List]** .
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -29,7 +29,7 @@ Maak een slimme Campagne in werking gesteld op één persoon in een tijd die op 
 
    >[!NOTE]
    >
-   >Een slimme campagne met triggers wordt uitgevoerd in _Trigger_ -modus. De functie wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
+   >Een slimme Campagne met trekkerlooppas op _Trigger_ wijze. De functie wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
 
    >[!IMPORTANT]
    >
@@ -53,10 +53,10 @@ Maak een slimme Campagne in werking gesteld op één persoon in een tijd die op 
 
    >[!NOTE]
    >
-   >Bij meerdere triggers gaat een persoon door de flow als _ALLE_ een van de triggers wordt geactiveerd.
+   >Met veelvoudige trekkers, gaat een persoon door de stroom als _OM HET EVEN WELKE_ één van de trekkers wordt geactiveerd.
 
-Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Om de campagne op een reeks mensen in werking te stellen allen tezelfdertijd, leer hoe te [ bepalen Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"} .
 
 >[!MORELIKETHIS]
 >
->[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - april 2024 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - april 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -14,49 +14,50 @@ ht-degree: 0%
 
 Hieronder vindt u alle functies die zijn inbegrepen in de release van 24 april. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
-De opmerkingen bij de release specifiek voor Adobe Dynamic Chat [hier te vinden](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **26 april 2024**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **worden vrijgegeven 26 april, 2024**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Functie</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Functie</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
   </tr>
-     <tr> 
-   <td><strong>Verbeteringen voor interactieve webinars</strong>: U kunt gastheren en presentatoren nu de mogelijkheid bieden een webinar-titel toe te voegen, de naam van een ruimte te wijzigen en de betrokkenheidsgegevens handmatig te synchroniseren na de levering van de gebeurtenis.</td> 
+     <tr>
+   <td><strong> Interactieve de Verbeteringen van Webinars </strong>: U kunt gastheren en presentatoren van de capaciteit nu voorzien om een webinar titel toe te voegen, een ruimte anders te noemen, en manueel betrokkenheidsgegevens na de gebeurtenislevering te synchroniseren.</td>
    <td>Verzonden</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Een interactief webinar maken</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Handmatige synchronisatie</a></li></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Verbeteringen audittrail</strong>: Nieuwe typen acties kunnen nu worden vastgelegd in Audittrail voor wijzigingen die zijn aangebracht in Veldbeheer, wijzigingen die zijn aangebracht in Gebruikers en rollen en het aantal personen dat is geëxporteerd uit lijsten en slimme lijsten.</td> 
+    <tr>
+   <td><strong> Verbeteringen van het Spoor van de Controle </strong>:
+   Nieuwe typen acties kunnen nu worden vastgelegd in Audittrail voor wijzigingen die zijn aangebracht in Veldbeheer, wijzigingen die zijn aangebracht in Gebruikers en rollen en het aantal personen dat is geëxporteerd uit lijsten en slimme lijsten.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Nieuwe gebruikers- en rolmachtigingen</strong>: Er zijn nieuwe machtigingen beschikbaar, waardoor gebruikers meer toegang krijgen tot Marketo Engage in korreligheid. Besturingsonderdelen van Admin die niet eerder zijn opgenomen, zoals New Experience en Predictive Audiences, splitsmachtigingen om toegang tot Asset Audit Trail en Admin Audit Trail afzonderlijk te verlenen en nieuwe aanmaak- en verplaatsingsmachtigingen voor elementen en mappen te gebruiken om te voorkomen dat alleen-lezen gebruikers wijzigingen aanbrengen. 
-   <p>Terwijl de nieuwe toestemmingen in uw instantie van het Marketo Engage vanaf 26 April zullen verschijnen, zijn zij passief voor nu en zullen later dit kwart toegankelijk worden.
+    <tr>
+   <td><strong> Nieuwe Gebruikers &amp; de Toestemmingen van Rollen </strong>: De nieuwe toestemmingen zijn beschikbaar, die gebruikers voorzien van meer korrelige toegang tot Marketo Engage. Besturingsonderdelen van Admin die niet eerder zijn opgenomen, zoals New Experience en Predictive Audiences, splitsmachtigingen om toegang tot Asset Audit Trail en Admin Audit Trail afzonderlijk te verlenen en nieuwe aanmaak- en verplaatsingsmachtigingen voor elementen en mappen te gebruiken om te voorkomen dat alleen-lezen gebruikers wijzigingen aanbrengen.
+   <p>Terwijl de nieuwe toestemmingen in uw instantie van Marketo Engage vanaf 26 April zullen verschijnen, zijn zij passief voor nu en zullen later dit kwart toegankelijk worden.
    <li>Toegang tot Adobe Experience Manager</li>
-   <li>Toewijzing organisatie van toegangsorganisatie</li>
+   <li>Toewijzing Adobe-organisatie openen</li>
    <li>Access Admin Audit Trail</li>
    <li>Actief assetaudittrail</li>
    <li>Toegang tot nieuwe ervaring</li>
@@ -64,77 +65,77 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <li>Rapport maken</li>
    <li>Lijst maken</li>
    <li>Campagne exporteren</li>
-   </td> 
+   </td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Beschrijvingen van rolmachtigingen</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
 ## Aankondigingen {#announcements}
 
-* **Update voor activiteitenAPI**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en e-mailgebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [MARKETO REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. De hieronder vermelde activiteiten omvatten nu de kenmerken Browser, Platform, Apparaat en Gebruikersagent. Roep de [Activiteitstypen ophalen](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} eindpunt om kenmerkdetails voor elke activiteit te herzien.
+* **Activiteiten API Update**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en op e-mail-Gebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [ Marketo REST API ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. De hieronder vermelde activiteiten omvatten nu de kenmerken Browser, Platform, Apparaat en Gebruikersagent. Roep [ krijgt het 1} eindpunt van de Types van Activiteit {om kenmerkdetails voor elke activiteit te herzien.](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"}
 
-**Webactiviteiten**
+**Web-based Activiteiten**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Activiteit</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Activiteit</th>
    <th style="width:70%">Nieuw toegevoegde kenmerken</th>
    </tr>
-  <tr> 
-   <td>Webpagina bezoeken</td> 
+  <tr>
+   <td>Webpagina bezoeken</td>
    <td>Browser, platform, apparaat</td>
   </tr>
-   <tr> 
-   <td>Formulier invullen</td> 
+   <tr>
+   <td>Formulier invullen</td>
    <td>Browser, platform, apparaat</td>
   </tr>
-  <tr> 
-   <td>Klik op Koppeling</td> 
+  <tr>
+   <td>Klik op Koppeling</td>
    <td>Browser, platform, apparaat</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-**E-mailactiviteiten**
+**op e-mail-Gebaseerde Activiteiten**
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:30%">Activiteit</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:30%">Activiteit</th>
    <th style="width:70%">Nieuw toegevoegde kenmerken</th>
   </tr>
-   <tr> 
-   <td>E-mail verzenden</td> 
+   <tr>
+   <td>E-mail verzenden</td>
    <td>Browser, platform, apparaat, gebruikersagent</td>
   </tr>
    </tr>
-  <tr> 
-   <td>E-mail bezorgd</td> 
+  <tr>
+   <td>E-mail bezorgd</td>
    <td>Browser, platform, apparaat, gebruikersagent</td>
   </tr>
-   <tr> 
-   <td>E-mail verzonden</td> 
+   <tr>
+   <td>E-mail verzonden</td>
    <td>Browser, platform, apparaat, gebruikersagent</td>
   </tr>
-  <tr> 
-   <td>E-mailadres opzeggen</td> 
+  <tr>
+   <td>E-mailadres opzeggen</td>
    <td>Browser, platform, apparaat</td>
   </tr>
-  <tr> 
-   <td>E-mail openen</td> 
+  <tr>
+   <td>E-mail openen</td>
    <td>Browser</td>
   </tr>
-   <tr> 
-   <td>Klik op E-mail</td> 
+   <tr>
+   <td>Klik op E-mail</td>
    <td>Browser</td>
   </tr>
-  <tr> 
-   <td>Door e-mail teruggekaatst</td> 
+  <tr>
+   <td>Door e-mail teruggekaatst</td>
    <td>Browser, platform, apparaat, gebruikersagent</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>

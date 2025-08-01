@@ -1,35 +1,35 @@
 ---
 unique-page-id: 7504383
 description: Velden toevoegen aan een Indelingsverkenner-rapport - Marketo Docs - Productdocumentatie
-title: Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst
+title: Velden toevoegen aan een Indelingsverkenner-rapport
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst {#adding-fields-to-a-revenue-explorer-report}
+# Velden toevoegen aan een Indelingsverkenner-rapport {#adding-fields-to-a-revenue-explorer-report}
 
 Pas de rapporten van de opbrengstontdekkingsreiziger door afmeting en metrische gebieden in het canvas te slepen en te laten vallen.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Veldtype</th> 
-   <th>Beschrijving</th> 
-  </tr> 
-  <tr> 
-   <td>Geel veld of Dimension</td> 
-   <td><p>De gele gebieden zijn de afmetingen (rijen en kolommen) van uw rapport.</p><p>U kunt bijvoorbeeld een rapport maken waarin de status van de lead of de aanmaakdatum in kolommen wordt weergegeven.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Blauw veld of meting</td> 
-   <td><p>Blauwe velden zijn metriek die in de gegevens worden geanalyseerd.</p><p>Dit kan bijvoorbeeld de gemiddelde leadscore voor uw leads zijn, of het aantal dagen dat een lead de kans heeft gehad.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Veldtype</th>
+   <th>Beschrijving</th>
+  </tr>
+  <tr>
+   <td>Geel veld of Dimension</td>
+   <td><p>De gele gebieden zijn de afmetingen (rijen en kolommen) van uw rapport.</p><p>U kunt bijvoorbeeld een rapport maken waarin de status van de lead of de aanmaakdatum in kolommen wordt weergegeven.</p></td>
+  </tr>
+  <tr>
+   <td>Blauw veld of meting</td>
+   <td><p>Blauwe velden zijn metriek die in de gegevens worden geanalyseerd.</p><p>Dit kan bijvoorbeeld de gemiddelde leadscore voor uw leads zijn, of het aantal dagen dat een lead de kans heeft gehad.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Zoek de gele velden die u wilt gebruiken en sleep deze naar Rijen.
@@ -50,4 +50,4 @@ Pas de rapporten van de opbrengstontdekkingsreiziger door afmeting en metrische 
 
 >[!MORELIKETHIS]
 >
->[Een veld verwijderen in een Indelingsverkenner-rapport](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[ Deleting a Gebied in een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

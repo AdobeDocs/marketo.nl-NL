@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7512607
-description: "Downloaden [!DNL GoogleAdwords Activity Log] - Marketo Docs - Productdocumentatie"
-title: "Downloaden [!DNL GoogleAdwords Activity Log]"
+description: Download [!DNL GoogleAdwords Activity Log]  - Marketo Docs - Productdocumentatie
+title: Downloaden  [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 2%
 
 ---
 
-# Downloaden [!DNL Google Adwords] Activiteitenlogboek {#download-googleadwords-activity-log}
+# [!DNL Google Adwords] Activiteitenlogboek downloaden {#download-googleadwords-activity-log}
 
 Er gebeurt wat. Soms moet u het activiteitenlogboek downloaden om problemen op te lossen.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/download-googleadwords-activity-log-1.png)
 
@@ -23,7 +23,7 @@ Er gebeurt wat. Soms moet u het activiteitenlogboek downloaden om problemen op t
 
    ![](assets/download-googleadwords-activity-log-2.png)
 
-1. Zoek uw [!DNL Google AdWords] service en klik op **[!UICONTROL Download Activity Log]**.
+1. Zoek de [!DNL Google AdWords] -service en klik op **[!UICONTROL Download Activity Log]** .
 
    ![](assets/download-googleadwords-activity-log-3.png)
 

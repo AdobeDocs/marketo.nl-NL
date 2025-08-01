@@ -3,7 +3,7 @@ description: De wereldwijde zoekfunctie gebruiken - Marketo Docs - Productdocume
 title: De algemene zoekopdracht gebruiken
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,31 +40,31 @@ U wordt rechtstreeks naar de gewenste e-mail geleid.
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Naam van het item/bestemming</td> 
+   <td>1</td>
+   <td>Naam van het item/bestemming</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Pad (broodkruimels) naar het respectieve item/de respectieve bestemming</td> 
+   <td>2</td>
+   <td>Pad (broodkruimels) naar het respectieve item/de respectieve bestemming</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Datum en tijd waarop het item/de bestemming voor het laatst is gewijzigd</td> 
+   <td>3</td>
+   <td>Datum en tijd waarop het item/de bestemming voor het laatst is gewijzigd</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Datum en tijd waarop het item/doel is gemaakt</td> 
+   <td>4</td>
+   <td>Datum en tijd waarop het item/doel is gemaakt</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Gerichte filters implementeren om de zoekresultaten te beperken</td> 
+   <td>5</td>
+   <td>Gerichte filters implementeren om de zoekresultaten te beperken</td>
   </tr>
  </tbody>
 </table>
 
-**OPTIONELE STAP**: Als u filters wilt gebruiken, selecteert u gewoon de gewenste opties.
+**OPTIONELE STAP**: Om het filtreren te gebruiken, selecteer eenvoudig uw gewenste opties.
 
 ![](assets/using-the-global-search-7.png)

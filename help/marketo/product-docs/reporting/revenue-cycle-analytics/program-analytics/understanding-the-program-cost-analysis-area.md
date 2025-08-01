@@ -4,10 +4,10 @@ description: Het begrip van het gebied van de Kostenanalyse van het Programma - 
 title: Het begrip van het gebied van de Analyse van de Kosten van het Programma
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Hoeveel heb ik per programma per maand uitgegeven?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimension en maatregelen voor kostenanalyse van het programma {#program-cost-analysis-dimensions-and-measures}
+## Dimensies en maatregelen voor kostenanalyse van het programma {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ Hoeveel heb ik per programma per maand uitgegeven?
 
 ## Lidmaatschap {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Meetlat</th> 
-   <th>Beschrijving</th> 
-  </tr> 
-  <tr> 
-   <td>% nieuwe namen</td> 
-   <td>Percentage van de door een programma verworven leads</td> 
-  </tr> 
-  <tr> 
-   <td>Leden</td> 
-   <td>Totaal aantal leads in een programma</td> 
-  </tr> 
-  <tr> 
-   <td>Nieuwe namen</td> 
-   <td>Totaal aantal nieuwe namen verkregen door een programma</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Meetlat</th>
+   <th>Beschrijving</th>
+  </tr>
+  <tr>
+   <td>% nieuwe namen</td>
+   <td>Percentage van de door een programma verworven leads</td>
+  </tr>
+  <tr>
+   <td>Leden</td>
+   <td>Totaal aantal leads in een programma</td>
+  </tr>
+  <tr>
+   <td>Nieuwe namen</td>
+   <td>Totaal aantal nieuwe namen verkregen door een programma</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Programmakenmerken {#program-attributes}

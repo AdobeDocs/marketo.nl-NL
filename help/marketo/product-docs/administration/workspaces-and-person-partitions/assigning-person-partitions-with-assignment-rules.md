@@ -4,7 +4,7 @@ description: Personen partities toewijzen met toewijzingsregels - Marketo Docs -
 title: Personen partities toewijzen met toewijzingsregels
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 >[!PREREQUISITES]
 >
->[Een personenpartitie maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[ creeer een Partitie van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak om mensen die van uw CRM aan hun respectieve verdelingen worden gecreeerd te leiden.
 
@@ -27,7 +27,7 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 >
 >Alleen voor personen die in Marketo zijn gemaakt vanuit uw CRM en via de SOAP API, worden toewijzingsregels toegepast.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
@@ -35,11 +35,11 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Onder de **[!UICONTROL Person Partitions]** tabblad, klikt u op **[!UICONTROL Assignment Rules]**.
+1. Klik onder het tabblad **[!UICONTROL Person Partitions]** op **[!UICONTROL Assignment Rules]** .
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Klikken **[!UICONTROL Add Choice]** om voorwaarden toe te voegen voor het verpletteren van mensen in persoonverdelingen.
+1. Klik **[!UICONTROL Add Choice]** om voorwaarden toe te voegen voor het verpletteren van mensen in persoonverdelingen.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 

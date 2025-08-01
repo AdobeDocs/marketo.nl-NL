@@ -2,61 +2,61 @@
 description: Verkoopgegevens synchroniseren met Marketo en Salesforce - Marketo Docs - Productdocumentatie
 title: Verkoopgegevens synchroniseren met Marketo en Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
 
 # Verkoopgegevens synchroniseren met Marketo en Salesforce {#sync-sales-action-data-with-marketo-and-salesforce}
 
-De het gebiedssynchronisatie van de gegevenseenmaking voor de Acties van het Inzicht van de Verkoop laat het systeem toe om persooninformatie van uw gegevensbestand van de Marketo Engage in uw gegevensbestand van de Acties van het Inzicht van de Verkoop te trekken.
+Met de Data Unification field sync for Sales Insight Actions kan het systeem persoongegevens uit uw Marketo Engage-database ophalen in uw Sales Insight Actions-database.
 
-Dit verstrekt bijgewerkte personengegevens in het Web-app van Acties van het Inzicht van de Verkoop en staat het systeem toe om unieke IDs voor overeenkomstige persoonverslagen in Marketo en lood/contact/rekening/opportuniteitsverslagen in Salesforce te verzamelen, zodat kunnen de verslagen behoorlijk voor registreren gegevens worden referenced.
+Dit verstrekt bijgewerkte personengegevens in het Web-app van Acties van de Handelingen van Insight van de Verkoop en staat het systeem toe om unieke IDs voor overeenkomstige persoonverslagen in Marketo en lood/contact/rekening/opportuniteitsverslagen in Salesforce te verzamelen, zodat kunnen de verslagen behoorlijk voor registrerengegevens worden referenced.
 
-Deze synchronisatie kan worden ingeschakeld via het tabblad Configuratie van handelingen voor het instellen van verkoopgegevens in de sectie Beheer van Marketo Engage. Meer informatie vindt u in [Gegevenssynchronisatie starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync).
+Deze synchronisatie kan worden ingeschakeld via het tabblad Configuratie Handelingen van Insight verkopen in de sectie Beheer van Marketo Engage. Voor meer informatiecontrole [ leidt de Synchronisatie van Gegevens ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync) in.
 
 ![](assets/actions-data-sync-faq-1.png)
 
-Het diagram hierboven toont hoe de menselijke activiteit en de taakgegevens tussen systemen kunnen synchroniseren. Een paar dingen om op te merken:
+Het diagram hierboven toont hoe de menselijke activiteit en de taakgegevens tussen systemen kunnen synchroniseren. Een paar dingen:
 
-* De verslagen van het personeel worden gesynchroniseerd aan de Acties van het Inzicht van de Verkoop van Marketo Engage, die Marketo Engage tot de bron van waarheid voor de Acties van het Inzicht van de Verkoop maken de gegevens van de mensen
-* Handelingen voor Marketo Engage- en verkoopcontrole [beschikken over een mechanisme](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) voor het verzamelen en synchroniseren van de afmeldingsstatus bij Salesforce
-* Abonnementsstatus wordt niet gesynchroniseerd van Verkoopacties naar Marketo Engage, maar Handelingen voor Verkoopcontrole kunnen worden geconfigureerd om de status voor afmelden bij Marketo te controleren voordat verkopers een e-mail kunnen verzenden met [Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Personenrecords worden gesynchroniseerd met Verkoopacties van Insight vanuit Marketo Engage, waardoor Marketo Engage de bron van de waarheid wordt voor de gegevens van Sales Insight Actions
+* Zowel hebben de Acties van Marketo Engage als van Insight van de Verkoop [ een mechanisme ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) voor het verzamelen van en het synchroniseren van unsubscript status aan Salesforce
+* De status van Unsubscribe synchroniseert niet van de Acties van de Verkoop aan Marketo Engage, maar de Acties van Insight van de Verkoop kunnen worden gevormd om de status van Marketo te controleren Unsubscribe van mensen alvorens verkopers toe te staan om een e-mail met [ te verzenden Marketo Unsubscribe Controle ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Hieronder volgen enkele veelgestelde vragen over de werking van het synchroniseren van gegevens.
 
-## Welke lood/contacten worden gesynchroniseerd aan de Acties van het Inzicht van de Verkoop? {#what-lead-contacts-are-synced}
+## Welke lood/contacten worden gesynchroniseerd aan de Acties van Insight van de Verkoop? {#what-lead-contacts-are-synced}
 
 ![](assets/actions-data-sync-faq-2.png)
 
 De leiders en de contacten die een verkoopeigenaar hebben aan hen wordt toegewezen zullen in de Acties van de Verkoop worden gesynchroniseerd.
 
-U kunt zien of heeft een lood/contact een verkoopeigenaar in Salesforce door het standaardeigenaargebied te bekijken dat bestaat.
+U kunt zien of heeft een lood/contact een verkoopeigenaar in Salesforce door het standaard eigenaargebied te bekijken dat bestaat.
 
-De eigenaar van de verkoop hoeft niet de synchronisatiegebruiker van Marketo of een specifieke Salesforce- of verkoopgebruiker te zijn. Alles wat we nodig hebben, is dat er een gebruiker is die vermeld staat in het veld voor de eigenaar van de lead en de eigenaar van de contactpersoon in Salesforce, zodat we deze kunnen identificeren als verkooplead en synchroniseren met Handelingen voor het toezicht op de verkoop. Alle updates van de velden waarmee we synchroniseren, worden ook gedetecteerd en bijgewerkt in Handelingen voor Verkoopcontrole.
+De eigenaar van de verkoop hoeft niet de synchronisatiegebruiker van Marketo of een specifieke Salesforce of verkoopgebruiker te zijn. Alles wat we nodig hebben, is dat er een gebruiker wordt vermeld in het veld voor de eigenaar van de lead en de eigenaar van de contactpersoon in Salesforce, zodat we deze kunnen identificeren als verkooplead en synchroniseren met Sales Insight Actions. Alle updates van de velden waarmee we synchroniseren, worden ook gedetecteerd en bijgewerkt in Handelingen van Sales Insight.
 
-## Waar worden de activiteitsgegevens die in het Slimme Net van het Inzicht van de Verkoop worden getoond waar vandaan gehaald? {#where-does-the-activity-data-get-sourced-from}
+## Waar worden de activiteitsgegevens die worden weergegeven in het Smart Grid van Sales Insight vandaan gehaald? {#where-does-the-activity-data-get-sourced-from}
 
 ![](assets/actions-data-sync-faq-3.png)
 
-De activiteitsgegevens zoals e-mail, vraag, interessant moment en Web, zijn allemaal afkomstig uit de database van Marketo Engage. Het slimme Net van het Inzicht van de Verkoop richt een verzoek aan de instantie van de Marketo Engage om dit terug te winnen telkens als een verkoopgebruiker het paneel van het Inzicht van de Verkoop laadt.
+De activiteitsgegevens, zoals email, call, interessant moment en web, zijn allemaal afkomstig uit de Marketo Engage-database. Het Smart Grid van de Verkoop Insight richt een verzoek aan de instantie van Marketo Engage om dit terug te winnen telkens als een verkoopgebruiker het paneel van Insight van de Verkoop laadt.
 
 ![](assets/actions-data-sync-faq-4.png)
 
-Om ervoor te zorgen dat alle activiteitsgegevens van Marketo Engage kunnen worden ingekocht, synchroniseert de Acties van het Inzicht van de Verkoop alle activiteitengegevens aan Marketo Engage.
+Om ervoor te zorgen dat alle activiteitsgegevens van Marketo Engage kunnen worden aangeschaft, synchroniseert Sales Insight Actions alle activiteitsgegevens naar Marketo Engage.
 
-## Welke gebieden met betrekking tot mensen registreren synchronisatie van Marketo Engage aan Handelingen van het Inzicht van de Verkoop? {#what-fields-sync}
+## Welke velden voor persoonrecords synchroniseren van Marketo Engage naar Handelingen voor Insight voor verkoop? {#what-fields-sync}
 
-Er zijn 11 gebieden die van Marketo Engage aan de Acties van het Inzicht van de Verkoop synchroniseren:
+Er zijn 11 velden die worden gesynchroniseerd van Marketo Engage naar Sales Insight Actions:
 
 * Voornaam
 * Achternaam
-* Contactpersoon-id Salesforce
-* lood-id Salesforce
+* Salesforce contact-id
+* Salesforce lead-id
 * Salesforce-account-id
-* ID Salesforce-kans
+* ID Salesforce-opportuniteit
 * Marketo-id
 * Bedrijf
 * Titel
@@ -65,27 +65,27 @@ Er zijn 11 gebieden die van Marketo Engage aan de Acties van het Inzicht van de 
 * Koppeling in URL
 * Bron
 
-## Zijn de gebieden die tussen de Acties van het Inzicht van de Marketo Engage en van de Verkoop configureerbaar? {#are-the-fields-that-sync-configurable}
+## Zijn de gebieden die tussen de Acties van Marketo Engage en van Insight van de Verkoop configureerbaar? {#are-the-fields-that-sync-configurable}
 
-Het vormen welke Marketo Engage gebieden synchroniseren met de Acties van het Inzicht van de Verkoop niet beschikbaar is, noch de capaciteit om gebieden in kaart te brengen. Bij de synchronisatie vanuit Marketo worden standaard Marketo-velden automatisch toegewezen aan standaardvelden in je Verkoopactie-exemplaar.
+Het configureren van welke Marketo Engage-velden worden gesynchroniseerd met Sales Insight Actions is niet beschikbaar en het is ook niet mogelijk om velden toe te wijzen. Bij de synchronisatie vanuit Marketo worden standaard Marketo-velden automatisch toegewezen aan standaardvelden in je Verkoopactie-exemplaar.
 
-## Waarom hebben de Acties van het Inzicht van de Verkoop zijn eigen gegevensbestand? {#why-does-actions-have-its-own-database}
+## Waarom heeft de Acties van Insight van de Verkoop zijn eigen gegevensbestand? {#why-does-actions-have-its-own-database}
 
-Handelingen van het Inzicht van de verkoop hebben zijn eigen Webtoepassing met een specifiek persoon en activiteitengegevensbestand om een geoptimaliseerde werkruimte te verstrekken die voor verkoopteams wordt gebouwd en wordt ontworpen. Dit stelt verkoopmanagers en verkopers in staat om ruimte te hebben om hun betrokkenheidsstrategie uit te bouwen en te beheren zonder toegang of privileges te verlenen aan de primaire werkruimte van de Marketo Engage, die is geoptimaliseerd voor marketingspecialisten.
+De Acties van Insight van de verkoop hebben zijn eigen Webtoepassing met een specifieke persoon en activiteitengegevensbestand om een geoptimaliseerde werkruimte te verstrekken die voor verkoopteams wordt gebouwd en wordt ontworpen. Zo kunnen verkoopmanagers en verkopers over voldoende ruimte beschikken om hun servicestrategie uit te werken en te beheren   zonder toegang of privileges toe te kennen aan de primaire Marketo Engage-werkruimte, die is geoptimaliseerd voor marketingspecialisten.
 
 ## Hoe worden duplicaten afgehandeld? {#how-are-duplicates-handled}
 
-Uw gegevensbestand van de Acties van de Verkoop zal een exemplaar van die gekwalificeerde mensen (lood/contacten met een verkoopeigenaar) zijn die in uw gegevensbestand van de Marketo Engage bestaan. Dit betekent dat als er twee records zijn met hetzelfde e-mailadres dat in Marketo is gemaakt, er een dubbele record wordt gemaakt in Verkoopacties.
+Uw database met verkoopacties bevat een kopie van de gekwalificeerde personen (leads/contacten met een eigenaar van de verkoop) die in uw Marketo Engage-database aanwezig zijn. Dit betekent dat als er twee records zijn met hetzelfde e-mailadres dat in Marketo is gemaakt, er een dubbele record wordt gemaakt in Verkoopacties.
 
 ## Hoe lang duurt het voordat de eerste synchronisatie is voltooid? {#how-long-initial-sync}
 
-Het aanvankelijke proces om al uw gegevens van de verkooplood in een nieuwe instantie van de Acties van het Inzicht van de Verkoop te synchroniseren zal typisch mensen bij ongeveer 1.000 om de 1-2 minuten verwerken. Dit is slechts een schatting en kan variëren.
+Het eerste proces voor het synchroniseren van al uw gegevens van de verkooplood in een nieuwe instantie van de Acties van Insight van de Verkoop zal typisch mensen bij ongeveer 1.000 om de 1-2 minuten verwerken. Dit is slechts een schatting en kan variëren.
 
-Zodra de eerste synchronisatie plaatsvindt en al uw verkoopkansen in uw exemplaar van het Web-app van Acties van het Inzicht van de Verkoop zijn bevolkt, zal er een stijgende synchronisatie zijn die zal lopen telkens als er een update aan één van de gesteunde gebieden is die worden gesynchroniseerd.
+Zodra de eerste synchronisatie plaatsvindt en al uw verkoopinstructies zijn ingevuld in uw exemplaar van de Sales Insight Actions-webapp, wordt er een incrementele synchronisatie uitgevoerd telkens wanneer een update wordt uitgevoerd naar een van de ondersteunde velden die worden gesynchroniseerd.
 
-## Kunnen gebruikers van Handelingen van het Inzicht van de Verkoop personengegevens van het Web van Acties uitgeven? {#can-actions-users-edit-people-data}
+## Kunnen gebruikers van Handelingen van de Handelingen van de Verkoop Insight de gegevens van mensen van de Web app van Acties uitgeven? {#can-actions-users-edit-people-data}
 
-Nee, de mogelijkheid om records voor personen te maken en te bewerken in Handelingen is niet beschikbaar voor zowel gebruikers als beheerders van de webapp Handelingen. Het creëren en het uitgeven van mensen moeten in of Salesforce of Marketo Engage worden gedaan. Handelingen van het Inzicht van de verkoop gebruiken Marketo als bron van waarheidsgegevens voor mensen door nieuwe gegevens onophoudelijk te synchroniseren, zodat als een persoon in Marketo of van een werkschema in Marketo of gesynchroniseerd over van Salesforce wordt bijgewerkt of wordt gecreeerd, zullen die updates aan het Web-app gegevensbestand van Acties van het Inzicht van de Verkoop worden overgegaan.
+Nee, de mogelijkheid om records voor personen te maken en te bewerken in Handelingen is niet beschikbaar voor zowel gebruikers als beheerders van de webapp Handelingen. Het maken en bewerken van mensen moet in Salesforce of Marketo Engage gebeuren. Sales Insight Actions gebruikt Marketo als bron van waarheid voor gegevens van mensen door voortdurend nieuwe gegevens te synchroniseren. Als een persoon in Marketo wordt bijgewerkt of gemaakt op basis van een workflow in Marketo of wordt gesynchroniseerd vanaf Salesforce, worden deze updates doorgegeven aan de database van de Sales Insight Actions-webtoepassing.
 
 ## Meld je verkoopactiviteiten aan bij Marketo? {#do-sales-activities-log-to-marketo}
 
@@ -106,18 +106,18 @@ Hieronder volgt een lijst van de activiteiten die aan Marketo registreren:
 
 ## Meld je verkoopactiviteiten aan bij Salesforce? {#do-sales-activities-log-to-salesforce}
 
-Ja, de activiteiten van de verkoopovereenkomst zullen aan Salesforce als inheemse taken registreren. Deze taken kunnen dan in Salesforce- rapporten aan machtsteam dashboards worden gebruikt die verkoopactiviteiten volgen.
+Ja, de activiteiten van de verkoopovereenkomst zullen aan Salesforce als inheemse taken registreren. Deze taken kunnen dan in de rapporten van Salesforce aan machtsteam dashboards worden gebruikt die verkoopactiviteiten volgen.
 
-De Acties van het Inzicht van de verkoop staan beheerders toe om te vormen welke verkoopactiviteiten aan Salesforce worden geregistreerd. Deze activiteiten omvatten e-mails, oproepen en open herinneringstaken.
+De Acties van Insight van de verkoop staan beheerders toe om te vormen welke verkoopactiviteiten aan Salesforce worden geregistreerd. Deze activiteiten omvatten e-mails, oproepen en open herinneringstaken.
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Het diagram hierboven toont welke informatie aan Salesforce wordt geregistreerd. Activiteiten zoals e-mails en oproepen worden bij Salesforce aangemeld in een [eenzijdige synchronisatie](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Abonnementen opzeggen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) en [Herinneringstaken](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) voortdurend worden gesynchroniseerd. Elk van deze gegevenssyncs is configureerbaar van het Web-app interface van Acties van het Inzicht van de Verkoop.
+Het diagram hierboven toont welke informatie aan Salesforce wordt geregistreerd. De activiteiten zoals e-mail en de vraag worden geregistreerd aan Salesforce in a [ unidirectionele synchronisatie ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [ Unsubscribes ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) en [ de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) worden gehouden bijgewerkt met een 2-wegsynchronisatie. Elk van deze gegevenssyncs is configureerbaar van de Web-app interface van Acties van de Handelingen van de Verkoop.
 
 >[!MORELIKETHIS]
 >
->* [Abonnementen synchroniseren met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
->* [Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Verkoopactiviteiten synchroniseren met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
->* [Herinnering taaksynchronisatie met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [Gegevenssynchronisatie starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+>* [ synchroniserend Unsubscribes met Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+>* [ Marketo Unsubscribe Controle ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+>* [ de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* [ de Synchronisatie van de Taak van de herinnering met Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [ initieert de Synchronisatie van Gegevens ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)

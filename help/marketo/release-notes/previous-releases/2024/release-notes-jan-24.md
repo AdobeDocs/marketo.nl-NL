@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - januari 2024 - Marketo Docs - Productd
 title: Opmerkingen bij de release - januari 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 0%
@@ -16,75 +16,75 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 24 januari
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **12 januari 2024**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **12 Januari, 2024**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken worden vrijgegeven. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Functie</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Functie</th>
    <th style="width:10%">Status</th>
    <th style="width:25%">Documentatie</th>
   </tr>
-    <tr> 
-   <td><strong>Webinars op aanvraag voor interactieve webinars</strong>: Met webinars op aanvraag kunt u de webinar-opname publiceren en de bezoeken/stalen bijhouden. Dit zal u helpen meer lood door registranten verkrijgen die niet webinar (niet-show) bijwoonden maar in het vinden van meer details en het bekijken van de opname nog geinteresseerd zijn.</td> 
+    <tr>
+   <td><strong> Op bestelling Webinars voor Interactieve Webinars </strong>: Op bestelling Webinars staat u toe om de webinar opname te publiceren evenals zijn bezoeken/horloges te volgen. Dit zal u helpen meer lood door registranten verkrijgen die niet webinar (niet-show) bijwoonden maar in het vinden van meer details en het bekijken van de opname nog geinteresseerd zijn.</td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinars op aanvraag</a></td>
   </tr>
-   <tr> 
-   <td> </td> 
+   <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Conversiebestemmingspagina's</strong>: Sluit een Dynamic Chat-omzettingsstroom rechtstreeks in een Marketo Engage-landingspagina in, zodat bezoekers een vergadering kunnen plannen via een Dynamic Chat zonder dat ze een formulier hoeven in te vullen of met een chatbot moeten werken.</td> 
+    <tr>
+   <td><strong> Conversational Landing Pages </strong>: Sluit direct een de Conversationele Stroom van Dynamic Chat in een Marketo Engage Landing Pagina in zodat kunnen de bezoekers een vergadering door Dynamic Chat plannen zonder het moeten een vorm invullen of met een praatbot in wisselwerking staan.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Activiteit e-mailvak filteren</strong>: Hiermee verbetert u de opname van beide activiteiten voor de betrokkenheid bij e-mail door te kiezen hoe agressief het filteren van de activiteit moet zijn.</td> 
+    <tr>
+   <td><strong> Filtrerend de Activiteit van de Boot van de E-mail </strong>: Verbetert het vangen van beide activiteit voor e-mailbetrokkenheid door u toe te staan om te kiezen hoe agressief u het filtreren van de activiteitenidentificatie wilt zijn.</td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Activiteit e-mailvak filteren</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
    </tr>
-    <tr> 
-   <td><strong>Update voor API voor bulklead</strong>: Het gedrag van de API voor bulklead-import is enigszins aangepast wanneer <b>id</b> wordt opgegeven als de <b>lookupField</b> tijdens het scheppen van banen. Indien een persoon gegevens registreert die verband houden met de verstrekte informatie <b>id</b> niet gevonden in de database van het Marketo Engage. Er vindt geen recordupdate plaats omdat de record niet kan worden gevonden. Het bijgewerkte gedrag omvat nu het verhogen van de telling in <b>numOfRowsFailed</b> eigenschap in de reactie, die aangeeft dat de bewerking in dergelijke gevallen is mislukt.</td> 
+    <tr>
+   <td><strong> BulkLood de Update van de Invoer API van de Lood </strong>: Een minder belangrijke aanpassing is gemaakt aan het gedrag van de Invoer van het Lood van het Onduidelijke bevel wanneer <b> identiteitskaart </b> als <b> lookupField </b> tijdens baanverwezenlijking wordt gespecificeerd. Als een persoonverslag verbonden aan verstrekte <b> identiteitskaart </b> niet in het gegevensbestand van Marketo Engage wordt gevonden, zal geen verslagupdate voorkomen, aangezien het verslag niet kan worden gevestigd. Het bijgewerkte gedrag omvat nu het verhogen van de telling in het <b> numOfRowsFailed </b> bezit binnen de reactie, die dat de verrichting in dergelijke gevallen heeft ontbroken.</td>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
    </tr>
-  <tr> 
-   <td><strong>Medehosts voor interactieve webinars</strong>: Co-hosts in de sectie Webinar Team van Interactieve Webinars staan de maker van de gebeurtenis toe om interne of externe gebruikers aan het Interactieve Webinars-programma toe te voegen om administratieve en leveringsverantwoordelijkheden te delen.</td> 
+  <tr>
+   <td><strong> Co-gastheren voor Interactieve Webinars </strong>: De cogastheren in de sectie van het Team Webinar van Interactieve Webinars staan de gebeurtenisschepper toe om interne of externe gebruikers aan het Interactieve programma van Webinars toe te voegen om administratieve en leveringsverantwoordelijkheden te delen.</td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Een webinar-team toevoegen</a></td>
   </tr>
   <tr>
-   <td> </td> 
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Een gebruiker verwijderen in interactieve webinars</strong>: Een Marketo Engage Admin kan nu een of meer specifieke gebruikers in interactieve webinars verwijderen.</td> 
+    <tr>
+   <td><strong> verwijder een Gebruiker in Interactieve Webinars </strong>: Een Admin van Marketo Engage kan een specifieke gebruiker(s) in Interactieve Webinars nu verwijderen.</td>
    <td>Verzonden</td>
    <td>nvt</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -92,110 +92,110 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 Alle onderstaande functies volgen een indeling van Agile en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer de status naast elke functie.
 
-### Handelingen voor het instellen van verkoopgegevens {#sales-insight-actions}
+### Insight-acties voor verkoop {#sales-insight-actions}
 
-![(ster)](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
 <table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">Functie</th> 
+ <tbody>
+  <tr>
+   <th style="width:65%">Functie</th>
    <th style="width:15%">Status</th>
    <th style="width:20%">Documentatie</th>
-  </tr> 
   </tr>
-    <tr> 
-   <td><strong>Uitbreidbaar samenstellingsvenster</strong>: In het e-mailvenster voor samenstellen wordt nu automatisch ongebruikte ruimte gecomprimeerd, zodat er meer ruimte beschikbaar is in de editor. Bovendien kan het venster uitvouwen en nog verder uitvouwen, zodat gebruikers zoveel ruimte hebben als ze nodig hebben om hun e-mailberichten te bewerken.</td> 
+  </tr>
+    <tr>
+   <td><strong> Uitbreidbaar stelt Venster </strong> samen: Het samenstellen e-mailvenster zal nu automatisch ongebruikte ruimte comprimeren, die voor meer ruimte in de redacteur toestaat. Bovendien kan het venster uitvouwen en nog verder uitvouwen, zodat gebruikers zoveel ruimte hebben als ze nodig hebben om hun e-mailberichten te bewerken.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
-  </tbody> 
+  </tbody>
 </table>
 
 ### Dynamic Chat {#dynamic-chat}
 
 <table style="border: 0px">
- <tbody> 
-  <tr> 
-   <th style="width:65%">Functie</th> 
+ <tbody>
+  <tr>
+   <th style="width:65%">Functie</th>
    <th style="width:15%">Status</th>
    <th style="width:20%">Documentatie</th>
-  </tr> 
   </tr>
-    <tr> 
-   <td><strong>Chatbot-gebruikersinterface voor Forms voor gesprekken</strong>: Websitebezoekers kunnen nu een live chat aanvragen in een workflow voor gesprekken.</td> 
+  </tr>
+    <tr>
+   <td><strong> Chatbot UI voor Conversational Forms </strong>: De bezoekers van de website kunnen nu om levend praatje in een Conversationele Stroom verzoeken.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
-   <tr> 
-   <td> </td> 
+   <tr>
    <td> </td>
-   <td> </td>
-  </tr>
-   </tr>
-    <tr> 
-   <td><strong>Opties voor kleur van lettertype Chatbot</strong>: Pas lettertypekleuren aan in een chatbotconfiguratie.</td> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
    <td> </td>
    <td> </td>
   </tr>
    </tr>
-    <tr> 
-   <td><strong>Optie om dialoogvenster te herhalen</strong>: U kunt een dialoogvenster nu opnieuw starten nadat een bezoeker het einde heeft bereikt.</td> 
+    <tr>
+   <td><strong> Opties van de Kleur van de Doopvont van Chatbot </strong>: Pas doopvontkleuren in een praatboconfiguratie aan.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+   </tr>
+    <tr>
+   <td><strong> Optie om Dialoog </strong> te herhalen: U kunt een dialoog aan het begin nu maken opnieuw beginnen nadat een bezoeker het eind heeft bereikt.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
     </tr>
-    <tr> 
-   <td><strong>Handmatige live chatverbinding</strong>: zowel bezoekers als agenten kunnen nu handmatig een live chatsessie beëindigen.</td> 
+    <tr>
+   <td><strong> Hand Levende Beëindiging van het Praatje </strong>: Zowel kunnen de bezoekers als de agenten een levende praatjezitting nu manueel eindigen.</td>
    <td>Verzonden</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Agent Inbox</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
     </tr>
-    <tr> 
-   <td><strong>Recente activiteiten van het Marketo Engage in Agent Inbox</strong>: De recente activiteiten van het Marketo Engage, zoals Geopende E-mail en het Gevulde Vorm, zullen voor lood in de Agent Inbox worden getoond.</td> 
+    <tr>
+   <td><strong> Recente Activiteiten van Marketo Engage in Agent Inbox </strong>: De recente activiteiten van Marketo Engage, zoals Geopende E-mail en Gevulde Vorm, zullen voor lood in de Agent Inbox worden getoond.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
    <td> </td>
    <td> </td>
+   <td> </td>
   </tr>
-    <tr> 
-   <td><strong>Voorwaardelijk vertakken</strong>: U kunt bezoekers verschillende gespreksinhoud nu tonen die op vooraf bepaalde voorwaarden, zoals bezoekersplaats of levende agentenbeschikbaarheid wordt gebaseerd.</td> 
+    <tr>
+   <td><strong> Voorwaardelijke Vertakking </strong>: U kunt bezoekers verschillende gespreksinhoud tonen die op vooraf bepaalde voorwaarden, zoals bezoekersplaats of levende agentenbeschikbaarheid wordt gebaseerd.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
 ## Aankondigingen {#announcements}
 
-* **Een-klik lijst-unsubscribe Update**: Gmail en Yahoo hebben verschillende nieuwe afzendervereisten geïmplementeerd die op 1 februari 2024 van kracht werden. Meer informatie [wat zij zijn en hoe zij u beïnvloeden](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
+* **één-Klik lijst-unsubscribe Update**: Gmail en Yahoo hebben verscheidene nieuwe afzendervereisten uitgevoerd die op 1 Februari, 2024 van kracht werden. Leer [ wat zij zijn en hoe zij u ](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"} beïnvloeden.
 
-* **API-update voor lead synchroniseren**: De [API voor lead synchroniseren](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Het gedrag van de `unsubscribed` veld. Nu, wanneer u gaat `null` is gelijk aan het doorgeven van een waarde van `false`.
+* **de Lood API Update van de Synchronisatie**: Het [ gedrag van de Lood API van de Synchronisatie ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} is lichtjes met betrekking tot updates aan het `unsubscribed` gebied aangepast. Wanneer u `null` nu doorgeeft als waarde, is deze gelijk aan het doorgeven van de waarde `false` .
 
-* **Marketo Engage Forms jQuery 1.x**: In onze release van januari 2024 werken we de jQuery for Marketo Engage Forms bij naar jQuery 3.x. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [Meer informatie hier](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: In onze versie van Januari 2024, zullen wij jQuery voor Marketo Engage Forms aan jQuery 3.x bijwerken. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [ leer hier meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
-* **E-mailverificatie voor gebruikers met alleen SSO**: Alleen SSO-gebruikers werden automatisch geverifieerd, zodat ze een ontoegankelijk e-mailaccount konden gebruiken. Vanaf medio januari worden alle bestaande gebruikers van alleen SSO&#39;s niet geverifieerd en wordt hun gevraagd hun e-mail opnieuw te verifiëren via een koppeling die we naar het e-mailaccount verzenden. Alle nieuwe gebruikers van SSO slechts zullen hun e-mailadressen moeten verifiëren in de toekomst.
+* **E-mailverificatie voor slechts gebruikers SSO**: De gebruikers van SSO slechts werden gebruikt om automatisch worden geverifieerd, toestaand hen om een ontoegankelijke e-mailrekening te gebruiken. Vanaf medio januari worden alle bestaande gebruikers van alleen SSO&#39;s niet geverifieerd en wordt hun gevraagd hun e-mail opnieuw te verifiëren via een koppeling die we naar het e-mailaccount verzenden. Alle nieuwe gebruikers van SSO slechts zullen hun e-mailadressen moeten verifiëren in de toekomst.
 
-* Kijk naar de [Januari 2024 de Versie van het Marketo Engage Webinar](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* Bekijk [ Januari 2024 Marketo Engage Versie Webinar ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.

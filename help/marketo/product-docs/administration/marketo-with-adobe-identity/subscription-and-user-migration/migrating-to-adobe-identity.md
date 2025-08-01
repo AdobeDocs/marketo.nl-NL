@@ -3,7 +3,7 @@ description: Migreren naar Adobe Identity - Marketo Docs - Productdocumentatie
 title: Migreren naar Adobe-identiteit
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2319'
 ht-degree: 0%
@@ -227,6 +227,6 @@ Een beheerder kan alle in aanmerking komende gebruikers in een abonnement op elk
 
 ![](assets/migrating-to-adobe-identity-24.png)
 
-Op het klikken van de **Migreer Alle Gebruikers** knoop, zal de beheerder worden ertoe aangezet **&#x200B;**&#x200B;migratie van alle in aanmerking komende gebruikers bevestigen. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
+Op het klikken van de **Migreer Alle Gebruikers** knoop, zal de beheerder worden ertoe aangezet **** migratie van alle in aanmerking komende gebruikers bevestigen. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
 
 ![](assets/migrating-to-adobe-identity-25.png)

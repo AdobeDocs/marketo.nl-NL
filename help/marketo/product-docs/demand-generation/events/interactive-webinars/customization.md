@@ -3,7 +3,7 @@ description: Interactieve webinars-aanpassing - Marketo Docs - Productdocumentat
 title: Interactieve webinars aanpassen
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '715'
 ht-degree: 0%
@@ -25,7 +25,7 @@ U kunt de volgende opties aanpassen:
 
 ## Rechten verlenen {#grant-permissions}
 
-Voordat gebruikers in uw organisatie uw interactieve webinars kunnen aanpassen, moet een beheerder van een Marketo Engage eerst toegang toevoegen aan de gewenste rol(s).
+Voordat gebruikers in uw organisatie uw interactieve webinars kunnen aanpassen, moet een Marketo Engage-beheerder eerst toegang toevoegen aan de gewenste rol(en).
 
 1. Klik in Marketo Engage op **[!UICONTROL Admin]** .
 

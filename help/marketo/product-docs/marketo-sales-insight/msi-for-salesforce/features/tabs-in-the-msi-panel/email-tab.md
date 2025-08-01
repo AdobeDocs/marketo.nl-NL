@@ -3,7 +3,7 @@ description: Tabblad E-mail - Marketo Docs - Productdocumentatie
 title: Tabblad E-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Een e-mail met het Marketo-pictogram naast de onderwerpregel geeft aan dat e-mai
 
 U kunt op de knoop &quot;[!UICONTROL Check Delivery Status]&quot;klikken om een nieuw lusje te openen dat de leveringsstatus van e-mails toont:
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>E-mails verzonden vanuit Marketo</strong></td>

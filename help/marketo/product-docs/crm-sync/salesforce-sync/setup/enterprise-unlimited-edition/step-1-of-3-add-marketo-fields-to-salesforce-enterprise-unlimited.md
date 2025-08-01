@@ -4,7 +4,7 @@ description: Stap 1 van 3 - Voeg Marketo-velden toe aan Salesforce (Enterprise/U
 title: Stap 1 van 3 - Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 1%
@@ -53,47 +53,47 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 1. Voer de [!UICONTROL Field Label] , [!UICONTROL Length] en [!UICONTROL Field Name] voor het veld in, zoals in de onderstaande tabel wordt getoond.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Veldlabel 
-    </div></th> 
-   <th> 
+      Veldlabel
+    </div></th>
+   <th>
     <div>
-      Veldnaam 
-    </div></th> 
-   <th> 
+      Veldnaam
+    </div></th>
+   <th>
     <div>
-      Gegevenstype 
-    </div></th> 
-   <th> 
+      Gegevenstype
+    </div></th>
+   <th>
     <div>
-      Veldkenmerken 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Score</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>Getal</td> 
-   <td>Lengte 10 <br> Decimale Plaatsen 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Aankoopdatum</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>Datum/tijd</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>Overnameprogramma</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
- </tbody> 
+      Veldkenmerken
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Score</td>
+   <td>mkto71_Lead_Score</td>
+   <td>Getal</td>
+   <td>Lengte 10 <br> Decimale Plaatsen 0 </td>
+  </tr>
+  <tr>
+   <td>Aankoopdatum</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>Datum/tijd</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>Overnameprogramma</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -133,107 +133,107 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 1. Voer stap 3 door 10 voor de gebieden van de Score, van de Verwervingsdatum, en van het Programma van de Verwerving op het contactvoorwerp uit, enkel zoals u voor het loodvoorwerp deed.
 1. U kunt de bovenstaande procedure ook gebruiken voor extra aangepaste velden uit deze tabel.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Veldlabel 
-    </div></th> 
-   <th> 
+      Veldlabel
+    </div></th>
+   <th>
     <div>
-      Veldnaam 
-    </div></th> 
-   <th> 
+      Veldnaam
+    </div></th>
+   <th>
     <div>
-      Gegevenstype 
-    </div></th> 
-   <th> 
+      Gegevenstype
+    </div></th>
+   <th>
     <div>
-      Veldkenmerken 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Id van overnameprogramma</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>Getal</td> 
-   <td>Lengte 18 <br> Decimale Plaatsen 0 </td> 
-  </tr> 
-  <tr> 
-   <td>Oorspronkelijke verwijzing</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Originele zoekengine</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Oorspronkelijke zoekterm</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Originele Source-informatie</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Oorspronkelijk Source-type</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Overgenomen stad</td> 
-   <td>mkto71_Inferred_City</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Afgeleid bedrijf</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Afgeleid land</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Overgenomen metropolitaans gebied</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Gebiedscode afgeleide telefoon</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Postcode</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
-  <tr> 
-   <td>Gebied van de betrokken staat</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>Tekst</td> 
-   <td>Lengte 255</td> 
-  </tr> 
- </tbody> 
+      Veldkenmerken
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Id van overnameprogramma</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>Getal</td>
+   <td>Lengte 18 <br> Decimale Plaatsen 0 </td>
+  </tr>
+  <tr>
+   <td>Oorspronkelijke verwijzing</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Originele zoekengine</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Oorspronkelijke zoekterm</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Originele Source-informatie</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Oorspronkelijk Source-type</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Overgenomen stad</td>
+   <td>mkto71_Inferred_City</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Afgeleid bedrijf</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Afgeleid land</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Overgenomen metropolitaans gebied</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Gebiedscode afgeleide telefoon</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Postcode</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+  <tr>
+   <td>Gebied van de betrokken staat</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>Tekst</td>
+   <td>Lengte 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

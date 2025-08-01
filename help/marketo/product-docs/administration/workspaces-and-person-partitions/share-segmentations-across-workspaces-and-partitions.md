@@ -4,9 +4,9 @@ description: Segmenten delen op werkruimten en partities - Marketo Docs - Produc
 title: Segmenten delen over werkruimten en partities
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -23,30 +23,30 @@ Marketo is geweldig in het uitkiezen van de juiste mensen voor een programma of 
 
 >[!NOTE]
 >
->Meer informatie [hoe te om segmentaties tot stand te brengen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Leer [ hoe te om segmentaties ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) tot stand te brengen.
 
-Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u deze delen in uw werkruimten. Hier zijn een paar goede dingen om te weten:
+Zodra u deze persoonlijkopstelling hebt (_en_ u werkruimten gebruikt), zult u hen over uw werkruimten willen delen. Hier zijn een paar goede dingen om te weten:
 
 ## Regels en tips {#rules-tips}
 
-* Elk Marketo-abonnement kan maximaal 20 segmenten &quot;totaal&quot; bevatten voor meerdere werkruimten (**niet 20 per werkruimte**).
+* Elk Marketo abonnement kan tot 20 Segmentaties &quot;totaal&quot;over veelvoudige werkruimten bevatten (**niet 20 per werkruimte**).
 * U kunt een Segmentatie met werkruimten slechts delen die u toegang tot hebt.
-* Zorg ervoor dat u een **Standaardwerkruimte die in alle partities zichtbaar is**.
+* Zorg ervoor om a **Standaardwerkruimte tot stand te brengen en te gebruiken die zicht in alle verdelingen** heeft.
 
 * De verwerking van de segmentatie loopt slechts op de mensen in de werkruimte waar de Segmentatie wordt gecreeerd.
 
-   * Maak de segmentatie die u wilt delen in de standaardwerkruimte.
+   * Maak de segmentatie die u wilt delen in de standaard-Workspace.
       * De segmentatie goedkeuren
       * De gedeelde werkruimte ziet een vergrendelde map en de segmentatie is alleen-lezen.
       * De gedeelde versie kan niet worden bewerkt. U kunt de oorspronkelijke segmentatie alleen bewerken op de plaats waar deze is gemaakt.
 
    * Wanneer u op een Segment (b.v. Gezondheidszorg) binnen een gedeelde Segmentatie klikt, zullen de mensen u ziet slechts mensen in de verdeling verbonden aan de werkruimte zijn u bekijkt.
-      * Als u een Segmentatie in Werkruimte 1 (WS1) creeert en het met WS2 deelt en WS1 heeft geen toegang tot de verdeling voor WS2, ZAL het NIET de Segmentatie opnieuw berekenen.
+      * Als u een Segmentatie in Workspace 1 (WS1) creeert en het met WS2 deelt en WS1 heeft geen toegang tot de verdeling voor WS2, ZAL het NIET de Segmentatie opnieuw berekenen.
       * Als u een Segmentatie in een werkruimte creeert die verdelingen heeft, en het dan met een andere werkruimte deelt, zal die werkruimte die de gedeelde Segmentatie ontving slechts mensen zien als zij overlappen hebben.
 
 >[!NOTE]
 >
->Sommige van deze regels zijn een beetje complex. De eenvoudigste manier om aan de slag te gaan is met specifieke mensen te testen. Je kunt altijd nieuwe segmentaties maken en oude weghalen.
+>Sommige van deze regels zijn een beetje ingewikkeld. De eenvoudigste manier om aan de slag te gaan is met specifieke mensen te testen. Je kunt altijd nieuwe segmentaties maken en oude weghalen.
 
 ## Voorbeeldscenario&#39;s {#example-scenarios}
 
@@ -56,15 +56,15 @@ Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u d
 
 ## Een segmentatie delen {#share-a-segmentation}
 
-1. Ga naar de **[!UICONTROL Database]**.
+1. Ga naar de **[!UICONTROL Database]** .
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Klikken met rechtermuisknop **[!UICONTROL Segmentations]** en selecteert u **[!UICONTROL New Folder]**.
+1. Klik met de rechtermuisknop **[!UICONTROL Segmentations]** en selecteer **[!UICONTROL New Folder]** .
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Geef een naam op voor de map die u wilt delen in de verschillende werkruimten (bijvoorbeeld: Segmenten delen) en klik op **[!UICONTROL Create]**.
+1. Geef een naam op voor de map die u wilt delen in de verschillende werkruimten (bijvoorbeeld Segmenten delen) en klik op **[!UICONTROL Create]** .
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,7 +72,7 @@ Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u d
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Klik met de rechtermuisknop op de map en selecteer **[!UICONTROL Share Folder]**.
+1. Klik met de rechtermuisknop op de map en selecteer **[!UICONTROL Share Folder]** .
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 

@@ -2,120 +2,120 @@
 description: OP-Deliverability Management - Marketo Docs - Productdocumentatie
 title: OP-Deliverability Management
 feature: Programs
-exl-id: 2c831c7a-f9c9-4308-9610-0e98eeb14288
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
 # OP-Deliverability Management {#op-deliverability-management}
 
-Dit is een voorbeeld van best practices voor het beheer van de leveringszekerheid met behulp van een standaardprogramma voor Marketo&#39;s Engage, om de huidige staat van e-maillevering te beoordelen en chronische stormen en non-responders te beheren.
+Dit is een voorbeeld van workflows voor het beheer van de leveringszekerheid die gebruikmaken van een Marketo Engage Default Program, om de huidige staat van e-maillevering te beoordelen en chronische hindernissen en non-responders te beheren.
 
 >[!NOTE]
 >
->Vereist een aangepast tekenreeksveld &quot;Reden voor marketingonderbreking&quot; om te importeren. [Meer informatie](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
+>Vereist een aangepast tekenreeksveld &quot;Reden voor marketingonderbreking&quot; om te importeren. [ leer meer ](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Kanaal</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Kanaal</th>
    <th>Lidmaatschapsstatus</th>
    <th>Analysegedrag</th>
    <th>Programmatype</th>
-  </tr> 
-  <tr> 
-   <td>Operationeel</td> 
+  </tr>
+  <tr>
+   <td>Operationeel</td>
    <td>01-Lid</td>
    <td>Operationeel</td>
    <td>Standaard</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Vereiste velden {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Vriendelijke naam</th>
    <th>API-naam</th>
   </tr>
-  <tr> 
-   <td>String</td> 
+  <tr>
+   <td>String</td>
    <td>Reden voor schorsing van de verkoop</td>
    <td>MarketingSuspendedReason</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
-## Het programma bevat de volgende elementen {#program-contains-the-following-assets}
+## Het programma bevat de volgende Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Type</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Type</th>
    <th>Sjabloonnaam</th>
    <th>Elementnaam</th>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>Marketing Suspend Chronic Non-Responders</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>Marketingonderbreking van chronische blokkerende e-mails</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>"E-mail ongeldig" opnieuw instellen na e-mailupdate</td>
   </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
+  <tr>
+   <td>Slimme campagne</td>
    <td> </td>
    <td>"Marketing opgeschort" opnieuw instellen na e-mailupdate</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Beheren</td>
   </tr>
-  <tr> 
-   <td>Map</td> 
+  <tr>
+   <td>Map</td>
    <td> </td>
    <td>Controleren</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-deliverability-management-1.png)
 
 ## Conflictregels {#conflict-rules}
 
-* **Programmatags**
-   * Tags maken in dit abonnement - _Aanbevolen_
+* **de Markeringen van het Programma**
+   * Creeer markeringen in dit abonnement - _Geadviseerde_
    * Negeren
 
-* **Landingspagina-sjabloon met dezelfde naam**
-   * Oorspronkelijke sjabloon kopiëren - _Aanbevolen_
+* **het Bestaan malplaatje van de Pagina met de zelfde naam**
+   * Origineel malplaatje van het exemplaar - _geadviseerde_
    * Doelsjabloon gebruiken
 
-* **Afbeeldingen met dezelfde naam**
-   * Beide bestanden behouden - _Aanbevolen_
+* **Beelden met de zelfde naam**
+   * Houd beide dossiers - _geadviseerde_
    * Item in dit abonnement vervangen
 
-* **E-mailsjablonen met dezelfde naam**
-   * Beide sjablonen behouden - _Aanbevolen_
+* **E-mailmalplaatjes met de zelfde naam**
+   * Houd beide malplaatjes - _geadviseerde_
    * Bestaande sjabloon vervangen
 
 ## Aanbevolen procedures {#best-practices}

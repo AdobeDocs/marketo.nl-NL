@@ -4,7 +4,7 @@ description: Een doel-URL toevoegen aan een webcampagne - Marketo Docs - Product
 title: Een doel-URL toevoegen aan een webcampagne
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -29,23 +29,23 @@ Een doel-URL bevindt zich onder de pagina Campagne instellen en definieert de sp
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Naam</th> 
-   <th colspan="1" rowspan="1">Beschrijving</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
-   <td colspan="1" rowspan="1"><p>De campagne mag op elke pagina worden weergegeven.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
-   <td colspan="1" rowspan="1">Voeg URL-parameter toe die overeenkomt met een campagne op URL's, inclusief deze parameter. Eg. campagne=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Naam</th>
+   <th colspan="1" rowspan="1">Beschrijving</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td>
+   <td colspan="1" rowspan="1"><p>De campagne mag op elke pagina worden weergegeven.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td>
+   <td colspan="1" rowspan="1">Voeg URL-parameter toe die overeenkomt met een campagne op URL's, inclusief deze parameter. Eg. campagne=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Meerdere URL&#39;s toevoegen aan doel-URL {#adding-multiple-urls-to-target-url}

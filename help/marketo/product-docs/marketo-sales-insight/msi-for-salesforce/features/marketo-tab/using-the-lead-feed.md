@@ -4,7 +4,7 @@ description: De Lead Feed gebruiken - Marketo Docs - Productdocumentatie
 title: De Lead Feed gebruiken
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -29,45 +29,45 @@ Wanneer u deze weergeeft in [!DNL Salesforce] , heeft elk item de volgende optie
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Item</p></td> 
-   <td><p>Beschrijving</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Leider/contactpersoon</p></td> 
-   <td><p>Persoon die dit interessante moment had</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Gebeurtenistype</p></td> 
-   <td><p>Categorie voor dit moment — web, e-mail of mijlpaal</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Accountnaam</p></td> 
-   <td><p>Bedrijfsnaam</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Tijd</p></td> 
-   <td><p>Wanneer dit interessante moment optrad</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Beschrijving van gebeurtenis</p></td> 
-   <td><p>Reden voor dit interessante moment</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. Abonneren</p></td> 
-   <td><p>E-mailmelding ontvangen voor gebeurtenissen als deze</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Star</p></td> 
-   <td><p>Deze persoon is een Best Bet (hoge prioriteit)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Item</p></td>
+   <td><p>Beschrijving</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Leider/contactpersoon</p></td>
+   <td><p>Persoon die dit interessante moment had</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Gebeurtenistype</p></td>
+   <td><p>Categorie voor dit moment — web, e-mail of mijlpaal</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Accountnaam</p></td>
+   <td><p>Bedrijfsnaam</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Tijd</p></td>
+   <td><p>Wanneer dit interessante moment optrad</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Beschrijving van gebeurtenis</p></td>
+   <td><p>Reden voor dit interessante moment</p></td>
+  </tr>
+  <tr>
+   <td><p>F. Abonneren</p></td>
+   <td><p>E-mailmelding ontvangen voor gebeurtenissen als deze</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Star</p></td>
+   <td><p>Deze persoon is een Best Bet (hoge prioriteit)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## RSS-updates ophalen {#getting-rss-updates}

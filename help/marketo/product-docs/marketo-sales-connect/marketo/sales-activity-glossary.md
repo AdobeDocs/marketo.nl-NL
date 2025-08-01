@@ -3,7 +3,7 @@ description: Verklarende woordenlijst Verkoopactiviteiten - Marketo-documenten -
 title: Verklarende woordenlijst Verkoopactiviteiten
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 3%
@@ -216,96 +216,96 @@ De onderstaande activiteiten worden vanaf [!DNL Sales Connect] aangemeld bij Mar
 
 ## Beschrijvingen {#descriptions}
 
-<table> 
+<table>
  <tr>
   <th>Kenmerk</th>
   <th>Beschrijving</th>
  </tr>
- <tbody> 
- <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td>Bounce error message detail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Email]</strong></td> 
-   <td>E-mailadres dat is teruggestuurd.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Link]</strong></td> 
-   <td>URL waarop is geklikt.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td> 
-   <td>Unieke id voor persoonrecord in [!DNL Sales Connect] .</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Received By]</strong></td> 
-   <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td> 
+ <tbody>
+ <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td>Bounce error message detail.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td> 
-   <td>Naam van persoon die de vraag beantwoordde.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Email]</strong></td>
+   <td>E-mailadres dat is teruggestuurd.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Duration]</strong></td> 
-   <td>Lengte van vraag in seconden.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Link]</strong></td>
+   <td>URL waarop is geklikt.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Made By]</strong></td> 
-   <td>E-mailadres van de verkoper die de oproep heeft gedaan.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td>
+   <td>Unieke id voor persoonrecord in [!DNL Sales Connect] .</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td> 
-   <td>URL van vraagopname.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Received By]</strong></td>
+   <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Status]</strong></td> 
-   <td>Zal de definitieve vraagstatus van de vraag bewaren die omvat: voltooid, geen antwoord, geannuleerd, ontbroken.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td>
+   <td>Naam van persoon die de vraag beantwoordde.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Subject]</strong></td> 
-   <td>Het resultaat van de vraag dat door een verkoopgebruiker in dialer wordt geselecteerd.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Duration]</strong></td>
+   <td>Lengte van vraag in seconden.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td> 
-   <td>Unieke id voor verkoopcampagne-element in [!DNL Sales Connect] .</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Made By]</strong></td>
+   <td>E-mailadres van de verkoper die de oproep heeft gedaan.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td> 
-   <td>Naam van verkoopcampagne.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td>
+   <td>URL van vraagopname.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td> 
-   <td>[!DNL Sales Connect] URL voor verkoopcampagne.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Status]</strong></td>
+   <td>Zal de definitieve vraagstatus van de vraag bewaren die omvat: voltooid, geen antwoord, geannuleerd, ontbroken.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Email Subject]</strong></td> 
-   <td>Onderwerpregel voor e-mail gevolgd door een unieke id (ex: My Subject Line (MSC-12345678)</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Subject]</strong></td>
+   <td>Het resultaat van de vraag dat door een verkoopgebruiker in dialer wordt geselecteerd.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td> 
-   <td>Telefoonnummer gebeld door Verkoper.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td>
+   <td>Unieke id voor verkoopcampagne-element in [!DNL Sales Connect] .</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Template Name]</strong></td> 
-   <td>Naam van e-mailsjabloon in [!DNL Sales Connect] .</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td>
+   <td>Naam van verkoopcampagne.</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Template URL]</strong></td> 
-   <td>[!DNL Sales Connect] URL voor e-mailsjabloon.</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td>
+   <td>[!DNL Sales Connect] URL voor verkoopcampagne.</td>
   </tr>
-  <tr> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Email Subject]</strong></td>
+   <td>Onderwerpregel voor e-mail gevolgd door een unieke id (ex: My Subject Line (MSC-12345678)</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td>
+   <td>Telefoonnummer gebeld door Verkoper.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Template Name]</strong></td>
+   <td>Naam van e-mailsjabloon in [!DNL Sales Connect] .</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Sales Template URL]</strong></td>
+   <td>[!DNL Sales Connect] URL voor e-mailsjabloon.</td>
+  </tr>
+  <tr>
    <td><strong>[!UICONTROL Sent By]</strong></td>
-   <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
+   <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
    <td>Source van de activiteit. Wordt ingesteld als "Tout" voor [!DNL Sales Connect] -activiteiten vóór de release van 21 oktober. Wordt ''Sales App'' voor [!DNL Sales Connect] -activiteiten na de release van 21 oktober.</td>
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Template ID]</strong></td> 
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Template ID]</strong></td>
    <td>Als de bron Tout is, is de sjabloon-id de [!DNL Marketo Sales Connect] sjabloon-id. Gebruik deze optie om een specifieke sjabloon te kiezen in plaats van een onderwerpregel, die in meerdere sjablonen kan bestaan.
-</td> 
-  </tr> 
- </tbody> 
+</td>
+  </tr>
+ </tbody>
 </table>
