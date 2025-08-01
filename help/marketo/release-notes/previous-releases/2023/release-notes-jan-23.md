@@ -88,7 +88,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
   <tr>
    <td>Verzonden</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=nl-NL">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

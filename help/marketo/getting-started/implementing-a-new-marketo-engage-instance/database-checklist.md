@@ -29,26 +29,26 @@ Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/imple
   <tr>
     <td>Alle personen</td>
     <td><li>Bepaal het uitvoeren van een 1:1 synchronisatie met uw CRM of het toepassen van filters om te beperken wie zich van systeem aan systeem beweegt en wanneer.</li>
-    <li>Herzie het totale aantal mensen en verhandelbare mensen in uw <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank"> gegevensbestand van Marketo Engage </a>.</li></td>
+    <li>Herzie het totale aantal mensen en verhandelbare mensen in uw <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=nl-NL" target="_blank"> gegevensbestand van Marketo Engage </a>.</li></td>
   </tr>
   <tr>
     <td>Lijst van gewezen personen</td>
-    <td><li>Definieer de criteria voor lijst van gewezen personen. Overweeg het toevoegen van de domeinen van de concurrent aan uw <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank"> lijst van gewezen personen </a> om hen te verhinderen om het even welk van uw e-mails te ontvangen.</li></td>
+    <td><li>Definieer de criteria voor lijst van gewezen personen. Overweeg het toevoegen van de domeinen van de concurrent aan uw <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=nl-NL" target="_blank"> lijst van gewezen personen </a> om hen te verhinderen om het even welk van uw e-mails te ontvangen.</li></td>
   </tr>
   <tr>
     <td>Marketing opgeschort</td>
-    <td><li>Bepaal <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank"> Vergeschorte Marketing </a> criteria.</li></td>
+    <td><li>Bepaal <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank"> Vergeschorte Marketing </a> criteria.</li></td>
   </tr>
   <tr>
     <td>Verzonden e-mailadressen </td>
     <td><li>Definieer de criteria voor teruggestuurde e-mailadressen.</li>
-    <li>Herzie de mensen in de "Ongeldige E-mail"categorie en bepaal als hun e-mails <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank"> manueel moeten zijn teruggesteld </a>.</li></td>
+    <li>Herzie de mensen in de "Ongeldige E-mail"categorie en bepaal als hun e-mails <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=nl-NL" target="_blank"> manueel moeten zijn teruggesteld </a>.</li></td>
   </tr>
   <tr>
     <td>Mogelijke duplicaten</td>
     <td><li>Bekijk de personen in de lijst Mogelijke duplicaten.</li>
-    <li>Bepaal uw dubbele beheersstrategie om te bepalen als u mensen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank"> manueel wilt samenvoegen </a>.</li>
-    <li>Als u een integratie van CRM hebt, bepaal een proces en rekening voor <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank"> het effect van het samenvoegen van lood in uw CRM </a>.</li></td>
+    <li>Bepaal uw dubbele beheersstrategie om te bepalen als u mensen <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=nl-NL" target="_blank"> manueel wilt samenvoegen </a>.</li>
+    <li>Als u een integratie van CRM hebt, bepaal een proces en rekening voor <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank"> het effect van het samenvoegen van lood in uw CRM </a>.</li></td>
   </tr>
   <tr>
     <td>Geen overnameprogramma</td>
@@ -56,7 +56,7 @@ Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/imple
   </tr>
   <tr>
     <td>Mensen zonder abonnement</td>
-    <td><li>Herzie uw criteria voor <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank"> Geabonneerde Mensen </a>.</li></td>
+    <td><li>Herzie uw criteria voor <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=nl-NL" target="_blank"> Geabonneerde Mensen </a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/imple
 <tbody>
   <tr>
     <td>Segmentatie</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank"> creeer segmentaties </a> die op uw bedrijfsbehoeften worden gebaseerd. Elk abonnement is beperkt tot 20 segmentaties en 100 segmenten binnen elke segmentatie.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html?lang=nl-NL" target="_blank"> creeer segmentaties </a> die op uw bedrijfsbehoeften worden gebaseerd. Elk abonnement is beperkt tot 20 segmentaties en 100 segmenten binnen elke segmentatie.</li></td>
   </tr>
 </tbody>
 </table>

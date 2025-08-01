@@ -91,7 +91,7 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   <tr>
    <td><strong> Marketo + de Integratie van Workfront </strong>: Voor degenen die Marketo en Workfront hebben, kunt u de Malplaatjes van de Fusie van Workfront nu gebruiken om de twee producten te integreren en nieuwe automatiseringswerkschema's te ontgrendelen om campagneuitvoering te stroomlijnen.</td>
    <td>Verzonden</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Blauwdruk bekijken en goedkeuren</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=nl-NL" target="_blank">Blauwdruk bekijken en goedkeuren</a></td>
   </tr>
  </tbody>
 </table>

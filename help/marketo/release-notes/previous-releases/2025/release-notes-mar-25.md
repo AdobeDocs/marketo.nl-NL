@@ -44,7 +44,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   <tr>
    <td><strong> eigenschappen GenAI in Interactieve Webinars </strong>: U kunt hoofdstukken evenals een samenvatting voor Op bestelling webinars nu produceren. Bewerk en exporteer een HTML-bestand met uw gegevens.</td>
    <td>Verzonden</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI-functies</a></td>
+   <td><a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI-functies</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -72,9 +72,9 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 Vanaf dat moment konden gebruikers geen van deze sociale functies in Marketo Engage maken, klonen of insluiten. Bestaande sociale voorzieningen blijven werken tot 31 januari 2025. Op 1 februari 2025 zijn sociale activa niet langer operationeel. Alle sociale functies die zijn ingesloten in bestemmingspagina&#39;s, moeten worden verwijderd. [Meer informatie](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Oktober, 2025 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
 
 * **Nieuwe Eigenschap van de Analyse - Openbare Beta**: [ Geavanceerde Analytics van BI ](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (vroeger genoemd als Ontdekkingsreiziger van de Opbrengst en Geavanceerde Report Builder) begint uit het rollen aan alle huidige gebruikers van de Ontdekkingsreiziger van de Uitwisseling van de Opbrengst medio april. Dit nieuwe hulpmiddel biedt een flexibele rapportage- en visualisatieinterface voor Marketo Engage-gegevens, die gedetailleerde informatie biedt over progressie, prestaties en meer. Deze server biedt een rijkere interactiviteit en visualisatie, snellere prestaties en een naadloze en intuïtievere gebruikerservaring.
 

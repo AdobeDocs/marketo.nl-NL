@@ -40,7 +40,7 @@ Deze omleidingsfunctie kan door toekomstige ontwikkelingswerkzaamheden worden ve
 
 **werkt dit met SSO?**
 
-Ja. De integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. Nochtans, zijn er verschillen in Marketo Engage IDP-Toegelaten steun in vergelijking met Adobe SP-In werking gestelde steun ([ leren meer hier ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}). Als u hulp betreffende SSO verschillen na wordt gemigreerd aan Admin Console nodig hebt, gelieve [ de Zorg van de Klant van Adobe ](https://helpx.adobe.com/contact.html){target="_blank"} te contacteren.
+Ja. De integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. Nochtans, zijn er verschillen in Marketo Engage IDP-Toegelaten steun in vergelijking met Adobe SP-In werking gestelde steun ([ leren meer hier ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}). Als u hulp betreffende SSO verschillen na wordt gemigreerd aan Admin Console nodig hebt, gelieve [ de Zorg van de Klant van Adobe ](https://helpx.adobe.com/nl/contact.html){target="_blank"} te contacteren.
 
 **wat is het verschil tussen een Admin van het Product van Adobe en een Admin van Marketo Engage?**
 
@@ -75,7 +75,7 @@ Nee. Gebruikersrolbeheer (binnen werkruimten) wordt voltooid in Marketo Engage.
 
 **ik ben Marketo Admin in een geïntegreerd abonnement IMS en heb geen toegang tot Admin Console. Hoe krijg ik toegang?**
 
-Elke Adobe System of Product Admin die toegang heeft tot de Admin Console van uw organisatie kan u toegang geven. Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer [ de Zorg van de Klant van Adobe ](https://helpx.adobe.com/contact.html){target="_blank"}.
+Elke Adobe System of Product Admin die toegang heeft tot de Admin Console van uw organisatie kan u toegang geven. Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer [ de Zorg van de Klant van Adobe ](https://helpx.adobe.com/nl/contact.html){target="_blank"}.
 
 **hoe Admin gebruikers aan Marketo [!DNL Sales Connect] zou toevoegen?**
 
@@ -83,7 +83,7 @@ Hoewel er een productkaart in Admin Console for [!DNL Sales Connect] wordt weerg
 
 **waar kan ik meer over Adobe Admin Console leren?**
 
-[ https://helpx.adobe.com/enterprise/admin-guide.html ](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"}.
+[ https://helpx.adobe.com/nl/enterprise/admin-guide.html ](https://helpx.adobe.com/nl/enterprise/admin-guide.html){target="_blank"}.
 
 **ga ik nog naar de Admin sectie in Marketo om gebruikersrekeningsveranderingen voor mijn rekening aan te brengen?**
 
@@ -95,7 +95,7 @@ Degenen die aan de Adobe-identiteit zijn gekoppeld, hebben naadloos toegang tot 
 
 **werkt dit met SSO?**
 
-Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. [ leer hier meer ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. [ leer hier meer ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **ik ben reeds aan de Identiteit van Adobe ingetekend en nu wil ik SSO uitvoeren. Wat doe ik?**
 
@@ -111,7 +111,7 @@ Nee. De uitnodigingsworkflow van de gebruiker is niet meer actief wanneer een ab
 
 **voor Adobe IMS, hebben wij de optie om Adobe ID, Enterprise ID, of Federated ID te gebruiken?**
 
-Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Meer info kan hier worden gevonden: [ Overzicht van de Identiteit ](https://helpx.adobe.com/enterprise/using/identity.html) en hier: [ Opstelling Identiteit ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Meer info kan hier worden gevonden: [ Overzicht van de Identiteit ](https://helpx.adobe.com/nl/enterprise/using/identity.html) en hier: [ Opstelling Identiteit ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Welke productkaarten worden gesteund in Adobe Admin Console?**
 
@@ -143,7 +143,7 @@ Nee, er zijn geen gevolgen voor deze configuraties.
 
 **Hoe kan ik zittingen verhinderen uit timing?**
 
-In [ Geavanceerde Montages ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, kunt u het gewenste maximumzittingsleven (de toestemmingen van Admin van het Systeem vereiste) aanpassen. Het wordt aanbevolen deze instelling in te stellen na de migratie van het product, maar vóór de migratie van de gebruiker.
+In [ Geavanceerde Montages ](https://helpx.adobe.com/nl/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, kunt u het gewenste maximumzittingsleven (de toestemmingen van Admin van het Systeem vereiste) aanpassen. Het wordt aanbevolen deze instelling in te stellen na de migratie van het product, maar vóór de migratie van de gebruiker.
 
 **ik moet nu in Experience Cloud navigeren om tot Marketo Engage toegang te hebben. Is er een manier om deze stroom te stroomlijnen?**
 
