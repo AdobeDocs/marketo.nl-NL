@@ -24,7 +24,7 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 
    >[!CAUTION]
    >
-   >[ de activa van het Bericht van de Duw van 0} Mobiele ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} worden **niet gesteund in Interactieve Webinars.**
+   >[ de activa van het Bericht van de Duw van 0&rbrace; Mobiele ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} worden **niet gesteund in Interactieve Webinars.**
 
 1. Geef het programma een naam. Onder Type van Programma, uitgezochte **Gebeurtenis**.
 
