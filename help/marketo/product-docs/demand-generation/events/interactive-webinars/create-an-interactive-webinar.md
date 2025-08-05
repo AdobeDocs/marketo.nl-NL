@@ -3,9 +3,9 @@ description: Een interactief webinar maken - Marketo Docs - Productdocumentatie
 title: Een interactief webinar maken
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 
    >[!CAUTION]
    >
-   >[&#128279;](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} de activa van het Bericht van de Duw van 0&rbrace; Mobiele **worden** niet gesteund in Interactieve Webinars.
+   >[ de activa van het Bericht van de Duw van 0} Mobiele ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} worden **niet gesteund in Interactieve Webinars.**
 
 1. Geef het programma een naam. Onder Type van Programma, uitgezochte **Gebeurtenis**.
 
@@ -65,11 +65,3 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 >Het wordt aanbevolen twee opeenvolgende gebeurtenissen 30 minuten uit elkaar te houden (tenzij de licentie gelijktijdige webinars ondersteunt) als buffer voor het geval dat de vorige webinar langer dan de geplande tijd loopt.
 
 Nu, is het tijd aan [ ontwerp uw webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
-
->[!IMPORTANT]
->
->Het wordt hoogst geadviseerd dat u uw webinar _ontwerpt alvorens_ presentatoren of medegastheren toe te voegen.
-
->[!MORELIKETHIS]
->
->[ Leer hoe te om presentatoren en/of medegastheren toe te voegen ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

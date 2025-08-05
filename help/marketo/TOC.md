@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 0%
@@ -729,8 +729,8 @@ ht-degree: 0%
             + [Beste praktijken voor Interactieve Webinars](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [Gebruiker- en licentiebeheer](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Een interactief webinar maken](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
-            + [Een webinar-team toevoegen](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Interactieve webinars ontwerpen](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Een webinar-team toevoegen](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Een interactief webinar testen](product-docs/demand-generation/events/interactive-webinars/testing-an-interactive-webinar.md)
             + [Een interactief webinar leveren](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Sjablonen](product-docs/demand-generation/events/interactive-webinars/templates.md)

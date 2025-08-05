@@ -3,7 +3,7 @@ description: Een webinar team toevoegen - Marketo Docs - Productdocumentatie
 title: Een webinar-team toevoegen
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 Een webinar Team in Interactieve Webinars bestaat uit alle rollen die tot de succesvolle levering van webinar in Adobe Connect bijdragen. Dit geldt zowel voor presentatoren als voor co-hosts.
 
->[!NOTE]
->
->Presentatoren en co-hosts in Marketo Engage wijzen de rollen van presentator en gastheer tijdens de webinar-levering in Adobe Connect exact toe. Co-hosts kunnen de lay-outs en pods wijzigen, maar presentatoren kunnen dat niet.
-
-De presentator is een externe rol die deelneemt aan het leveren van de webinar ervaring, terwijl co-hosts als presentator kunnen optreden en administratieve aspecten van webinar levering kunnen behandelen. Cohosts kunnen zowel intern als extern zijn. Externe co-hosts hebben geen toegang tot de interactieve Webinar-gebeurtenisprogramma&#39;s in Marketo, maar hebben wel hostmachtigingen tijdens levering in Adobe Connect. Interne cohosts hebben tijdens de levering toegang tot zowel het interactieve webinar-gebeurtenisprogramma in Marketo als tot de hostmachtigingen. Dit helpt ervoor zorgen dat de interne co-hosts de rijen van het Interactive Webinar-gebeurtenisprogramma kunnen nemen wanneer de oorspronkelijke maker van het Interactive Webinar-programma geen deel meer uitmaakt van de gebruikersset van Interactive Webinars of zelfs geen Marketo-gebruiker is.
-
 >[!PREREQUISITES]
 >
 >* [ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
 >
 >* [ Ontwerp uw Interactieve Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
+
+De presentator is een externe rol die deelneemt aan het leveren van de webinar ervaring, terwijl co-hosts als presentator kunnen optreden en administratieve aspecten van webinar levering kunnen behandelen. Cohosts kunnen zowel intern als extern zijn. Externe co-hosts hebben geen toegang tot de interactieve Webinar-gebeurtenisprogramma&#39;s in Marketo, maar hebben wel hostmachtigingen tijdens levering in Adobe Connect. Interne cohosts hebben tijdens de levering toegang tot zowel het interactieve webinar-gebeurtenisprogramma in Marketo als tot de hostmachtigingen. Dit helpt ervoor zorgen dat de interne co-hosts de rijen van het Interactive Webinar-gebeurtenisprogramma kunnen nemen wanneer de oorspronkelijke maker van het Interactive Webinar-programma geen deel meer uitmaakt van de gebruikersset van Interactive Webinars of zelfs geen Marketo-gebruiker is.
+
+>[!NOTE]
+>
+>Presentatoren en co-hosts in Marketo Engage wijzen de rollen van presentator en gastheer tijdens de webinar-levering in Adobe Connect exact toe. Co-hosts kunnen de lay-outs en pods wijzigen, maar presentatoren kunnen dat niet.
 
 ## Een cohost toevoegen {#add-a-co-host}
 

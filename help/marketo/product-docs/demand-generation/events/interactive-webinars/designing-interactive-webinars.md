@@ -3,9 +3,9 @@ description: Interactieve webinars ontwerpen - Marketo Docs - Productdocumentati
 title: Interactieve webinars ontwerpen
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
    >[!TIP]
    >
-   >Uw webinar zal aan de standaardtaal in uw instantie van het Marketo Engage worden geplaatst, maar u hebt de optie om talen per-webinar basis te veranderen door drop-down boven de voorproef te gebruiken.
+   >Uw webinar zal aan de standaardtaal in uw instantie van Marketo Engage worden geplaatst, maar u hebt de optie om talen per-webinar basis te veranderen door drop-down boven de voorproef te gebruiken.
 
 1. U kunt verschillende lay-outs selecteren voor een voorvertoning. Om te werk te gaan, klik **Malplaatje van het Gebruik**.
 
@@ -62,7 +62,7 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [ dit artikel van de Adobe hulp ](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"} .
+1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [ dit de hulpartikel van Adobe ](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Wanneer u klaar bent met het ontwerpen van uw webinar, klik **Ruimte van de Uitgang**.
 
@@ -75,3 +75,7 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 **Lay-out**: Verwijs naar diverse manieren dat de veelvoudige componenten die worden vereist om het succes van webinar te verzekeren in een bepaald malplaatje worden geschikt. Eén sjabloon kan meerdere lay-outs bevatten waaruit u kunt kiezen. De essentiële componenten van het webinar zouden voor alle sjablonen hetzelfde blijven. De rangschikking die u hebt geselecteerd, is het meest geschikt voor de stijl/behoeften van u of de presentator die het webinar levert.
 
 **Pod**: Een component binnen een malplaatje dat een bepaalde activiteit tijdens webinar uitvoert. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.
+
+>[!MORELIKETHIS]
+>
+>[ Leer hoe te om presentatoren en/of medegastheren toe te voegen ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
