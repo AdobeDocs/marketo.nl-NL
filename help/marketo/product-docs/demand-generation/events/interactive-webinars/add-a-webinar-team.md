@@ -3,9 +3,9 @@ description: Een webinar team toevoegen - Marketo Docs - Productdocumentatie
 title: Een webinar-team toevoegen
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Een webinar-team toevoegen {#add-a-webinar-team}
 
 Een webinar Team in Interactieve Webinars bestaat uit alle rollen die tot de succesvolle levering van webinar in Adobe Connect bijdragen. Dit geldt zowel voor presentatoren als voor co-hosts.
-
->[!IMPORTANT]
->
->Het wordt hoogst geadviseerd dat u [ uw webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _ontwerpt alvorens_ presentatoren of co-hosts toevoegt.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> Het ![ exemplaar co-host pictogram URL ](assets/icon-copy-join-url.png) pictogram kopieert cohost die URL toetreedt, en ![ verzendt cohost een uitnodigingsE-mail ](assets/icon-send-invitation-email.png) pictogram verzendt cohost een uitnodigingsE-mail.
+
 ## Een presentator toevoegen {#add-a-presenter}
 
 1. In de Interactieve pagina van het Overzicht van Webinar, voegt de klik **presentatoren** toe.
@@ -70,9 +70,9 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->Nadat u een webinar team hebt toegevoegd, kunt u op het kopieerpictogram naast elke gebruiker klikken om de URL&#39;s die aan het team deelnemen te kopiëren (en deze vervolgens te delen).
+> Het ![ pictogram van de exemplaarpresentator URL ](assets/icon-copy-join-url.png) kopieert de presentator die URL toetreedt, en ![ verzendt presentator een uitnodigingse-mailpictogram ](assets/icon-send-invitation-email.png) verzendt de presentator een uitnodigingse-mail.
 
 >[!MORELIKETHIS]
 >
