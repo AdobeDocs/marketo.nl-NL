@@ -54,7 +54,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **de Steun van Adobe van het Contact [ ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
+`4` **de Steun van Adobe van het Contact [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 

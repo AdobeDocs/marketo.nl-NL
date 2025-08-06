@@ -75,5 +75,5 @@ Voor alle volgende dagen/stappen in uw verkoopcampagne hebt u de volgende opties
 >[!MORELIKETHIS]
 >
 >[ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->>[De Types van Stap van de Campagne van de verkoop en de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->>[De Montages van de Campagne van de verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>&#x200B;>[De Types van Stap van de Campagne van de verkoop en de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>&#x200B;>[De Montages van de Campagne van de verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

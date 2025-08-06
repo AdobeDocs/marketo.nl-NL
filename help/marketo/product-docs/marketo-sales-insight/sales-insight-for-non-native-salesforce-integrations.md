@@ -181,12 +181,12 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
      <tr>
       <td>externalOpportunityId</td>
         <td><span class="dnl"> Salesforce </span> van de Kans case-insensitive globaal uniek herkenningsteken</td>
-        <td>Identificeert de Rol van de Kans van Marketo aan een extern <span class="dnl"> Salesforce </span> voorwerp van de Kans.<br><br> het wordt mandated dat de <span class="dnl"> 2} Kans van Salesforce {eerst correct wordt gesynchroniseerd.</span></td>
+        <td>Identificeert de Rol van de Kans van Marketo aan een extern <span class="dnl"> Salesforce </span> voorwerp van de Kans.<br><br> het wordt mandated dat de <span class="dnl"> 2&rbrace; Kans van Salesforce &lbrace;eerst correct wordt gesynchroniseerd.</span></td>
      </tr>
      <tr>
       <td>leadId</td>
       <td>N.v.t., dit zou een Marketo Lead ID zijn</td>
-        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde <span class="dnl"> 1} Contact van Salesforce zijn.</span><br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u het <span class="dnl"> geval-ongevoelige van het contact van Salesforce </span> gebruiken globaal uniek herkenningsteken als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</td>
+        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde <span class="dnl"> 1&rbrace; Contact van Salesforce zijn.</span><br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u het <span class="dnl"> geval-ongevoelige van het contact van Salesforce </span> gebruiken globaal uniek herkenningsteken als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</td>
      </tr>
      <tr>
       <td>rol</td>

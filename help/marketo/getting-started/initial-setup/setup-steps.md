@@ -147,6 +147,7 @@ Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communi
 `3)` Lijst van gewenste personen Marketo.
 
     * Als wij IP adressen in onze Lijst van gewenste personen E-mail gebruiken, voeg hieronder vermelde IPs toe:
+
     199.15.212.0/22
     
     192.28.144.0/20

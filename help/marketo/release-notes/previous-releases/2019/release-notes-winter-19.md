@@ -102,7 +102,7 @@ Gebruikers kunnen nu subdomeinen toevoegen aan hun RTP-accountinstellingen om do
 
 **Bijgewerkte Kit van de Ontwikkeling van de Software MME (SDK) voor Android**
 
-We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0} Firebase Cloud Messaging [ (FCM) van Google gebruiken met deze nieuwe SDK.](https://firebase.google.com/docs/cloud-messaging/)
+We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0&rbrace; Firebase Cloud Messaging [ (FCM) van Google gebruiken met deze nieuwe SDK.](https://firebase.google.com/docs/cloud-messaging/)
 
 * [ instructies van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
 * [ Veelgestelde vragen van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
