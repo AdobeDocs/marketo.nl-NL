@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Template 2C {#template-2c}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 2C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 2C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=nl-NL)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 2C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+[ Malplaatje 2C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=nl-NL)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 9F {#template-9f}
 
-Klik met de rechtermuisknop om [ Sjabloon 9F te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+Klik met de rechtermuisknop om [ Sjabloon 9F te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=nl-NL)
 
 ![](assets/image2015-7-28-16-3a1-3a25.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 9F.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html)
+[ Malplaatje 9F.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9f.html?lang=nl-NL)
