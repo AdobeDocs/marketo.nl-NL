@@ -4,16 +4,16 @@ description: Template 5D - Marketo-documenten - Productdocumentatie
 title: Sjabloon 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 5D {#template-5d}
 
-Klik met de rechtermuisknop om [Sjabloon 5D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=nl-NL)
+Klik met de rechtermuisknop om [ Sjabloon 5D te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 5D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=nl-NL)
+[ Malplaatje 5D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)

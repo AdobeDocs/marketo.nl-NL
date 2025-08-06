@@ -4,16 +4,16 @@ description: Sjabloon 13D - Marketo Docs - Productdocumentatie
 title: Sjabloon 13D
 exl-id: 5f889a36-31d1-4a98-a91c-7c1b21b148d6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 13D {#template-13d}
 
-Klik met de rechtermuisknop om [downloadsjabloon 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadMalplaatje 13D ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 13D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=nl-NL)
+[ Malplaatje 13D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)

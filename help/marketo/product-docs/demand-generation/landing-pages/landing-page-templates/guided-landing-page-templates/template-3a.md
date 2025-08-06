@@ -4,16 +4,16 @@ description: Template 3A - Marketo-documenten - Productdocumentatie
 title: Sjabloon 3A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 3A {#template-3a}
 
-Klik met de rechtermuisknop om [downloadsjabloon 3A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 3A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Drie carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html?lang=nl-NL)
+[ Malplaatje 3A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)

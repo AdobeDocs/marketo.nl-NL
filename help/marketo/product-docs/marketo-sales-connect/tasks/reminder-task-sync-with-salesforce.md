@@ -3,7 +3,7 @@ description: Herinnering taaksynchronisatie met Salesforce - Marketo Docs - Prod
 title: Taaksynchronisatie met Salesforce herinneren
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -81,4 +81,4 @@ Om deze synchronisatie aan te zetten, controleer enkel de synchronisatiedoos in 
 
 >[!NOTE]
 >
->Het onderwerpgebied van een taak kan in [!DNL Sales Connect] worden bijgewerkt en die update zal op het [!DNL Salesforce] onderwerpgebied voor de overeenkomstige gesynchroniseerde taak worden gesynchroniseerd, als u het `{{activity_subject}}` dynamische gebied in uw [ montages van de Aanpassing van het Detail van de Activiteit ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) gebruikt. Omgekeerd, zullen om het even welke die updates aan het onderwerpgebied in [!DNL Salesforce] worden aangebracht _niet_ over aan het [!DNL Sales Connect] onderwerponderwerpgebied van de herinneringstaak synchroniseren.
+>Het onderwerpgebied van een taak kan in [!DNL Sales Connect] worden bijgewerkt en die update zal op het [!DNL Salesforce] onderwerpgebied voor de overeenkomstige gesynchroniseerde taak worden gesynchroniseerd, als u het `{{activity_subject}}` dynamische gebied in uw [ montages van de Aanpassing van het Detail van de Activiteit ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) gebruikt. Omgekeerd, zullen om het even welke die updates aan het onderwerpgebied in [!DNL Salesforce] worden aangebracht *niet* over aan het [!DNL Sales Connect] onderwerponderwerpgebied van de herinneringstaak synchroniseren.

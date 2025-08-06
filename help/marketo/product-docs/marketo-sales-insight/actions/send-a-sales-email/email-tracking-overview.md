@@ -3,9 +3,9 @@ description: Overzicht van e-mailtracering - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailtracking
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Voor het bijhouden van antwoorden wordt een bericht-id weergegeven die in elke e
 
 Als [!DNL Sales Connect] het antwoord van uw e-mail met uw vooruitzicht niet kan bijhouden, kan het geen campagne stoppen op basis van antwoorddetectie of logboek dat het antwoord op Salesforce weergeeft. Wat betekent dat elk e-mailadres kan antwoorden?
 
-Dit betekent dat als u een e-mail verzendt naar flynn@flynnsarcade.com en reageert op kevinf@flynnsarcade.com, we het antwoord kunnen volgen. Bovendien, als u flynn@flynnsarcade.com en CC alan@encom.com e-mailt, en Alan u terug schrijft, zal het ook het antwoord ontdekken en de campagne beëindigen.
+Dit betekent dat als u een e-mail <flynn@flynnsarcade.com> verzendt en hij reageert met <kevinf@flynnsarcade.com> , we het antwoord kunnen volgen. Als u bovendien een e-mail verzendt naar <flynn@flynnsarcade.com> en CC <alan@encom.com> en Alan terugschrijft, detecteert het ook het antwoord en beëindigt het de campagne.
 
 ## Uw e-mailbijlagen bijhouden {#how-to-track-your-email-attachments}
 

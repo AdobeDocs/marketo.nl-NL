@@ -4,16 +4,16 @@ description: Sjabloon 10E - Marketo Docs - Productdocumentatie
 title: Sjabloon 10E
 exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 10E {#template-10e}
 
-Klik met de rechtermuisknop om [downloadsjabloon 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=nl-NL)
+Klik met de rechtermuisknop om [ sjabloon 10E te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Drie carrosseriesegmenten (optioneel)
 * Een voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=nl-NL)
+[ Malplaatje 10E.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)

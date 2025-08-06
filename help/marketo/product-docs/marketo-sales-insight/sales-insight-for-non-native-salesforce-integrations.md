@@ -4,7 +4,7 @@ description: '[!DNL Sales Insight] voor Niet-inheemse  [!DNL Salesforce]  Integr
 title: '[!DNL Sales Insight] voor Niet-inheemse  [!DNL Salesforce]  Integraties'
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1200'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
 >
 >* De functie &#39;Niet-native MSI&#39; die is ingeschakeld voor uw Marketo-instantie voordat u MSI instelt. Als het niet is en u reeds de eigenschap kocht, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren. Neem contact op met het Adobe-accountteam (uw accountmanager) als u deze functie nog niet hebt aangeschaft.
 >* Een rekening van Salesforce met [ MSI de opstelling van het Pakket ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
->* Marketo REST API [ met succes opstelling ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
+>* Marketo REST API [ met succes opstelling ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lees [ dit blogbericht ](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} om een begrip van het voorwerp en de verhoudingen te krijgen.
 >* Stel [!DNL Salesforce] -objecten zo in dat de algemeen unieke id voor 18 hoofdletters/kleine letters wordt weergegeven in plaats van de algemeen unieke id voor 15 hoofdletters/kleine letters.
 
@@ -53,12 +53,12 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
     </tbody>
    </table>
 
-   * API documentatie voor Verkoper: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * API documentatie voor Verkoper: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * API documentatie voor het synchroniseren van de Persoon van de Verkoop: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchroniseer de [!DNL Salesforce] -accounts met Marketo.
 
-   Een Marketo Company moet worden bijgewerkt voor de account van [!DNL Salesforce] . De _externalCompanyId_ en _externalSalesPersonId_ gebieden worden mandated voor de invoeging van het Bedrijf.
+   Een Marketo Company moet worden bijgewerkt voor de account van [!DNL Salesforce] . De *externalCompanyId* en *externalSalesPersonId* gebieden worden mandated voor de invoeging van het Bedrijf.
 
    <table>
     <colgroup>
@@ -85,12 +85,12 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
     </tbody>
    </table>
 
-   * API documentatie voor Bedrijven: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API documentatie voor Bedrijven: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * API documentatie voor het synchroniseren van Bedrijven: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. Synchroniseer [!DNL Salesforce] Leads/Contacten met Marketo.
 
-   U moet een Marketo-lead bijwerken voor de [!DNL Salesforce] lead/contactpersoon. De _externalPersonId_, _externalSalesPersonId_, en _externalCompanyId_ gebieden worden mandated voor de bovenkant van Lood.
+   U moet een Marketo-lead bijwerken voor de [!DNL Salesforce] lead/contactpersoon. De *externalPersonId*, *externalSalesPersonId*, en *externalCompanyId* gebieden worden mandated voor de bovenkant van Lood.
 
    <table>
     <colgroup>
@@ -122,12 +122,12 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
     </tbody>
    </table>
 
-   * API documentatie voor Leads: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/leads)
+   * API documentatie voor Leads: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads)
    * API documentatie voor het synchroniseren van Leads: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST)
 
 1. Synchroniseer [!DNL Salesforce] Kansen met Marketo.
 
-   U moet een Marketo Opportunity voor de [!DNL Salesforce] Opportunity invoegen. De _externalOpportunityId_, _externalCompanyId_, en _externalSalesPersonId_ gebieden worden mandated voor de controle van de Kans.
+   U moet een Marketo Opportunity voor de [!DNL Salesforce] Opportunity invoegen. De *externalOpportunityId*, *externalCompanyId*, en *externalSalesPersonId* gebieden worden mandated voor de controle van de Kans.
 
    <table>
     <colgroup>
@@ -159,12 +159,12 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
     </tbody>
    </table>
 
-   * API documentatie voor Kans: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API documentatie voor Kans: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API documentatie voor het synchroniseren van Kansen: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer [!DNL Salesforce] Contactrollen naar Marketo.
 
-   [!DNL Salesforce] Contactrollen voor een [!DNL Salesforce] opportunity kan vervolgens worden gesynchroniseerd via de opportuniteitsrol van Marketo. Het verslag van de Rol van de Kans mandeert _externalOpportunityId_, _rol_, en _leadId_ gebieden.
+   [!DNL Salesforce] Contactrollen voor een [!DNL Salesforce] opportunity kan vervolgens worden gesynchroniseerd via de opportuniteitsrol van Marketo. Het verslag van de Rol van de Kans mandeert *externalOpportunityId*, *rol*, en *leadId* gebieden.
 
    <table>
     <colgroup>
@@ -181,12 +181,12 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
      <tr>
       <td>externalOpportunityId</td>
         <td><span class="dnl"> Salesforce </span> van de Kans case-insensitive globaal uniek herkenningsteken</td>
-        <td>Identificeert de Rol van de Kans van Marketo aan een extern <span class="dnl"> Salesforce </span> voorwerp van de Kans.<br><br> het wordt mandated dat de <span class="dnl"> 2&rbrace; Kans van Salesforce &lbrace;eerst correct wordt gesynchroniseerd.</span></td>
+        <td>Identificeert de Rol van de Kans van Marketo aan een extern <span class="dnl"> Salesforce </span> voorwerp van de Kans.<br><br> het wordt mandated dat de <span class="dnl"> 2} Kans van Salesforce {eerst correct wordt gesynchroniseerd.</span></td>
      </tr>
      <tr>
       <td>leadId</td>
       <td>N.v.t., dit zou een Marketo Lead ID zijn</td>
-        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde <span class="dnl"> 1&rbrace; Contact van Salesforce zijn.</span><br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u het <span class="dnl"> geval-ongevoelige van het contact van Salesforce </span> gebruiken globaal uniek herkenningsteken als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</td>
+        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde <span class="dnl"> 1} Contact van Salesforce zijn.</span><br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u het <span class="dnl"> geval-ongevoelige van het contact van Salesforce </span> gebruiken globaal uniek herkenningsteken als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</td>
      </tr>
      <tr>
       <td>rol</td>
@@ -196,14 +196,14 @@ Als uw Adobe Marketo Engage-account met [!DNL Salesforce] is verbonden via een a
     </tbody>
    </table>
 
-   * API documentatie voor Kans: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API documentatie voor Kans: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API documentatie voor het synchroniseren van Kansen: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer de velden Laatste interessant moment/MSI-score naar SFDC.
 
    Zodra uw [!DNL Salesforce] -objecten correct zijn gesynchroniseerd met Marketo, kunt u de MSI-functies benutten. De velden MSI Last Interesting Moment/Scoring worden weergegeven in de REST API voor leads. Deze velden worden berekend door MSI en zijn alleen-lezen.
 
-   De velden Laatste interessante momenten/scores van een Marketo-lead moeten regelmatig met [!DNL Salesforce] worden gesynchroniseerd met behulp van het eindpunt REST API Lead. Vraag dit eindpunt voor een Lood van Marketo gebruikend _externalPersonId_ als filterType en het overgaan in [!DNL Salesforce] Lood GUID als filterValue.
+   De velden Laatste interessante momenten/scores van een Marketo-lead moeten regelmatig met [!DNL Salesforce] worden gesynchroniseerd met behulp van het eindpunt REST API Lead. Vraag dit eindpunt voor een Lood van Marketo gebruikend *externalPersonId* als filterType en het overgaan in [!DNL Salesforce] Lood GUID als filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|

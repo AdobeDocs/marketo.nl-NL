@@ -4,9 +4,9 @@ description: Voorbereiden op uw gebeurtenis - Marketo Docs - Productdocumentatie
 title: Voorbereiden op uw gebeurtenis
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ Er zijn verschillende dingen die u moet doen om klaar te zijn voor de gebeurteni
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Een nieuwe Marketo-rol maken {#create-a-new-marketo-role}
 
-Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [Een nieuwe Marketo-rol maken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) for [!DNL iPad] of [!DNL Android] gebruikers, met toestemming om de mobiele toepassing te openen.
+Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [ creeer een nieuwe rol van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) voor [!DNL iPad] of [!DNL Android] gebruikers, met toestemming om tot de mobiele toepassing toegang te hebben.
 
 ## Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis {#invite-new-tablet-users-to-the-event}
 
-[Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) en hen de nieuwe rol toe te wijzen.
+[ nodigt nieuwe tabletgebruikers aan de gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) uit en wijst hen de nieuwe rol toe.
 
 ## Een nieuw Marketo-gebeurtenisprogramma maken {#create-a-new-marketo-event-program}
 
-[Een nieuw Marketo-gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) om de status van uw mensen vast te leggen terwijl zij door verschillende fasen vorderen en nauwkeurige metingen van het rendement van uw marketinginitiatieven te krijgen.
+[ creeer een nieuw de gebeurtenisprogramma van Marketo ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) om de status van uw mensen te vangen aangezien zij door verschillende stadia vorderen en nauwkeurige maatregelen van ROI voor uw marketing initiatieven krijgen.
 
 ## Gebeurtenisdatums opgeven {#specify-the-event-dates}
 
@@ -39,39 +39,39 @@ Het is een momentopname om uw gebeurtenisdata in te stellen.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Omhoog schuiven om te wijzigen **[!UICONTROL Tentative]** tot **[!UICONTROL Confirmed]**.
+1. Schuif over om **[!UICONTROL Tentative]** in **[!UICONTROL Confirmed]** te wijzigen.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
    >[!CAUTION]
    >
-   >Als de datum van de gebeurtenis meer dan een week voor of na de huidige datum ligt, wordt de gebeurtenis niet weergegeven in de app. **Tip**: Als u deze wilt testen, stelt u de datums tijdelijk in op binnen een week na vandaag. Denk eraan dat u de gebeurtenis terugzet naar de juiste datums nadat u de gebeurtenis hebt getest.
+   >Als de datum van de gebeurtenis meer dan een week voor of na de huidige datum ligt, wordt de gebeurtenis niet weergegeven in de app. **Uiteinde**: Om het te testen, plaats tijdelijk de data aan binnen één week van vandaag. Denk eraan dat u de gebeurtenis terugzet naar de juiste datums nadat u de gebeurtenis hebt getest.
 
 ## Personen aan uw gebeurtenis toevoegen {#add-people-to-your-event}
 
-Nu ken je de _wanneer_, is het tijd om de *wie*.
+Nu u _kent wanneer_, is het tijd om _toe te voegen wie_.
 
-1. Als je al een lijst met personen hebt, klik je in Mijn Marketo op **[!UICONTROL Database]** tegel.
+1. Als je al een lijst met personen hebt, klik je in Mijn Marketo op de tegel **[!UICONTROL Database]** .
 
    ![](assets/db.png)
 
-1. Selecteer een lijst met personen en klik op de knop **[!UICONTROL People]** tab.
+1. Selecteer een lijst met personen en klik op de tab **[!UICONTROL People]** .
 
    ![](assets/four.png)
 
-1. Selecteer in de lijst de personen voor uw gebeurtenis. Gebruiken **[!UICONTROL Ctrl]** (of **[!UICONTROL Command]** op een Mac) om op meerdere personen te klikken, of **[!UICONTROL Select All]** om ze allemaal te markeren.
+1. Selecteer in de lijst de personen voor uw gebeurtenis. Gebruik **[!UICONTROL Ctrl]** (of **[!UICONTROL Command]** op een Mac) om op meerdere personen te klikken of **[!UICONTROL Select All]** om alle personen te markeren.
 
    ![](assets/five.png)
 
-1. Klikken **[!UICONTROL Person Actions]**, aanwijzen **[!UICONTROL Programs]** en selecteert u **[!UICONTROL Change Program Status]**.
+1. Klik op **[!UICONTROL Person Actions]** , houd de cursor boven **[!UICONTROL Programs]** en selecteer **[!UICONTROL Change Program Status]** .
 
    ![](assets/six.png)
 
-1. Klik op de knop **[!UICONTROL Program]** vervolgkeuzelijst en selecteer uw gebeurtenis.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Program]** en selecteer de gebeurtenis.
 
    ![](assets/seven.png)
 
-1. Klik op de knop **[!UICONTROL New Status]** vervolgkeuzelijst en selecteer **[!UICONTROL Roadshow]>[!UICONTROL Registered]**. Klik op **[!UICONTROL Run Now]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL New Status]** en selecteer **[!UICONTROL Roadshow]>[!UICONTROL Registered]** . Klik op **[!UICONTROL Run Now]**.
 
    ![](assets/eight.png)
 

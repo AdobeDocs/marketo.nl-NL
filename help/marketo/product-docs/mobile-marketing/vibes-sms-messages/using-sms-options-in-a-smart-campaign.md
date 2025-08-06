@@ -2,7 +2,8 @@
 description: SMS-opties gebruiken in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Het gebruiken van de Opties van SMS in een Slimme Campagne
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -11,15 +12,15 @@ ht-degree: 0%
 
 # Het gebruiken van de Opties van SMS in een Slimme Campagne {#using-sms-options-in-a-smart-campaign}
 
-Na u [een SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, zult u Slimme triggers en filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen.
+Nadat u [ een bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} creeert, zult u de Slimme trekkers en de filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen.
 
 >[!NOTE]
 >
->Als je een SMS-bericht wilt verzenden, hebben we een [specifiek artikel](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} daarvoor.
+>Als u een bericht van SMS wilt verzenden, hebben wij a [ specifiek artikel ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} voor dat.
 
 >[!PREREQUISITES]
 >
->SMS-triggers/filters worden alleen weergegeven als de [De service Vibes is ingeschakeld](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
+>De trekkers/de filters van SMS verschijnen slechts als de [ dienst van Lagen ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} is toegelaten.
 
 ## SMS-triggers {#sms-triggers}
 
@@ -32,11 +33,11 @@ Na u [een SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-s
 
 Hier volgen enkele voorbeelden:
 
-De **Bounces voor SMS-berichten** activeert een stroom, zoals het verzenden van een e-mail, wanneer een SMS-bericht beweegt.
+De **trekker van de Bounces van het Bericht van SMS** stelt een stroom, zoals het verzenden van een e-mail in werking, wanneer een SMS-bericht stuitert.
 
-De **Abonneren op lijst met beeldbestanden** trigger start een flow wanneer een persoon zich abonneert.
+**abonneert aan de trekker van de Lijst van Levenben** een stroom in werking stelt wanneer een persoon zich abonneert.
 
-De **Klik op Koppeling in SMS-bericht** activeert een stroom wanneer een persoon op een verbinding in het bericht van SMS klikt.
+De **Klik Verbinding in de trekker van het Bericht van SMS** stelt een stroom in werking wanneer een persoon op een verbinding in het bericht van SMS klikt.
 
 ## SMS-filters {#sms-filters}
 
@@ -47,13 +48,13 @@ De **Klik op Koppeling in SMS-bericht** activeert een stroom wanneer een persoon
   </tr>
 </table>
 
-De **Geabonneerd op de Levendenlijst** filter zoekt iedereen die *ooit* geabonneerd op Vibes. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
+Het **wordt ingetekend aan de filter van de Lijst van Levenben** vindt iedereen die ** heeft ooit ingetekend aan Levenben. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
 
-De **Lid van de lijst van Vibes** filtervondsten _iedereen_ momenteel geabonneerd op Vibes en is het meest geschikt voor gebruik in Slimme Campagnes of lijsten.
+Door contrast, vindt het **Lid van de Lijst van Levenben** filter *iedereen* momenteel geabonneerd aan Levenben en is het meest geschikt voor gebruik in Slimme Campagnes of lijsten.
 
 >[!NOTE]
 >
->Alle SMS-filters bevatten de **Datum van activiteit** beperking standaard.
+>Alle filters van SMS omvatten de **Datum van Activiteit** beperking door gebrek.
 
 ## Stappen voor SMS-stroom {#sms-flow-steps}
 
@@ -65,7 +66,7 @@ Er zijn drie SMS-stappen waaruit u kunt kiezen.
 <tbody>
   <tr>
     <td style="width:20%"><b>SMS-bericht verzenden</b></td>
-    <td>Deze flowactie verzendt berichten naar mensen van de Smart List van Marketo die zijn geabonneerd op een door de gebruiker gekozen abonnementenlijst van Vibes. Het abonnementsproces wordt niet gestart. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">Meer informatie</a>.</td>
+    <td>Deze flowactie verzendt berichten naar mensen van de Smart List van Marketo die zijn geabonneerd op een door de gebruiker gekozen abonnementenlijst van Vibes. Het abonnementsproces wordt niet gestart. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md"> leer meer </a>.</td>
   </tr>
 
 <tr>
@@ -81,10 +82,10 @@ Er zijn drie SMS-stappen waaruit u kunt kiezen.
 
 >[!NOTE]
 >
->De **Abonneren op lijst met beeldschermen** en **Abonnement op Vibes List opzeggen** stromen hebben verschillende vereisten. Voor **Abonneren**, moet u de Vibes-lijst en de Vibes-acquisitiecampagne selecteren. Voor **Abonnement opzeggen**, is alleen de lijst met Vibes vereist.
+>Het **abonnement aan Lijst van Levenben** en **Unsubscribe van de stromen van de Lijst van Levendigs** hebben verschillende vereisten. Voor **Abonneren**, moet u de lijst van Levenben en de de acquisitiecampagne van Levenben selecteren. Voor **Unsubscribe**, slechts wordt de lijst van Lagen vereist.
 
 >[!MORELIKETHIS]
 >
->* [Een SMS-bericht verzenden](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [ verzend een Bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [ bepaalt Slimme Lijst voor Slimme Campagne | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [ bepaalt Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

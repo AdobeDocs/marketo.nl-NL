@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7515993
 description: Template 1C - Marketo-documenten - Productdocumentatie
-title: Template 1C
+title: Sjabloon 1C
 exl-id: 1a4e0a7a-6bf4-4688-be0b-91aa07f900df
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Template 1C {#template-1c}
+# Sjabloon 1C {#template-1c}
 
-Klik met de rechtermuisknop om [downloadsjabloon 1C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 1C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Drie carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=nl-NL)
+[ Malplaatje 1C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)

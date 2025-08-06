@@ -4,16 +4,16 @@ description: Template 15A - Marketo Docs - Productdocumentatie
 title: Sjabloon 15A
 exl-id: 64aeaa61-cd39-487c-9ca5-9b2185dc04a3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 15A {#template-15a}
 
-Klik met de rechtermuisknop om [downloadsjabloon 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 15A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 15A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=nl-NL)
+[ Malplaatje 15A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)

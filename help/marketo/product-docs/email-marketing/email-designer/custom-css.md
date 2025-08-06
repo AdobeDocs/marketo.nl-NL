@@ -6,7 +6,7 @@ description: Leer hoe u aangepaste CSS rechtstreeks in de e-mailDesigner in Mark
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -132,7 +132,6 @@ Hieronder staan voorbeelden van geldige CSS.
 
 +++
 
-
 +++ Voorbeelden van ongeldige CSS
 
 Als ongeldige CSS wordt ingevoerd, wordt een foutbericht weergegeven dat aangeeft dat de CSS niet kan worden opgeslagen. Hieronder staan voorbeelden van ongeldige CSS.
@@ -200,7 +199,6 @@ Uw aangepaste CSS wordt aan het einde van de sectie `<head>` toegevoegd als onde
 ```
 
 +++
-
 
 De aangepaste CSS wordt niet geïnterpreteerd of gevalideerd door het deelvenster Designer e-mailen **[!UICONTROL Settings]** . Deze is volledig onafhankelijk en kan alleen worden gewijzigd via de optie **[!UICONTROL Add Custom CSS]** .
 

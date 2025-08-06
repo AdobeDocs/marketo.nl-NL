@@ -4,16 +4,16 @@ description: Template 11B - Marketo-documenten - Productdocumentatie
 title: Sjabloon 11B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 11B {#template-11b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 11B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 11B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vier carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 11B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html?lang=nl-NL)
+[ Malplaatje 11B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)

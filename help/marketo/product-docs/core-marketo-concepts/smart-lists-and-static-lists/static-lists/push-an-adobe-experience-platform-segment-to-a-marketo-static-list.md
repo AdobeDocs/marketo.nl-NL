@@ -3,7 +3,7 @@ description: Een Adobe Experience Platform-segment verplaatsen naar een statisch
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -44,7 +44,6 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 1. Klik op **[!UICONTROL Configure New Destination]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
-
 
 1. Selecteer onder Accounttype het keuzerondje Bestaande of Nieuwe account (in dit voorbeeld kiezen we **[!UICONTROL Existing Account]** ). Klik op het pictogram Account selecteren.
 
@@ -100,7 +99,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
    >[!NOTE]
    >
-   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [ beschrijf API verzoek ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
+   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [ beschrijf API verzoek ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
 
 1. Wijs Achternaam en Bedrijfsnaam toe door nogmaals op **[!UICONTROL Add New Mapping]** te klikken en Stap 15 tweemaal te herhalen. Kies vervolgens **[!UICONTROL lastName]** en **[!UICONTROL companyName]** .
 

@@ -4,7 +4,7 @@ description: '[!UICONTROL Account Lists] - Marketo Docs - Productdocumentatie'
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!NOTE]
 >
->Deze stappen zijn alleen van toepassing op accountlijsten. _Dynamische_ de rekeningslijsten gebruiken de naam van hun bijbehorende de Rekening van CRM Meningen.
+>Deze stappen zijn alleen van toepassing op accountlijsten. *Dynamische* de rekeningslijsten gebruiken de naam van hun bijbehorende de Rekening van CRM Meningen.
 
 1. Selecteer de account waarvan u de naam wilt wijzigen, klik op de vervolgkeuzelijst **[!UICONTROL Account List Actions]** en selecteer **[!UICONTROL Rename Account List]** .
 

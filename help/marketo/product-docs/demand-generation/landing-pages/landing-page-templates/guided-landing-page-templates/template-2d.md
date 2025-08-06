@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516478
-description: Template 2D - Marketo-documenten - Productdocumentatie
+description: Sjabloon 2D - Marketo-documenten - Productdocumentatie
 title: Sjabloon 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 2D {#template-2d}
 
-Klik met de rechtermuisknop om [Sjabloon 2D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)
+Klik met de rechtermuisknop om [ Template 2D te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Eén hoofdtekstsectie met tekst en opiniepeiling (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)
+[ Malplaatje 2D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

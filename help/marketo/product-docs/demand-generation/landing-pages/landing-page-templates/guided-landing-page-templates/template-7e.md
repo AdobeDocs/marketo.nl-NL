@@ -4,16 +4,16 @@ description: Sjabloon 7E - Marketo-documenten - Productdocumentatie
 title: Sjabloon 7E
 exl-id: 5f15e2c5-8206-4de1-b952-0e85f8864715
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 7E {#template-7e}
 
-Klik met de rechtermuisknop om [downloadsjabloon 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html?lang=nl-NL)
+Klik met de rechtermuisknop om [ Sjabloon 7E te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vier carrosseriesegmenten (optioneel)
 * Een voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html?lang=nl-NL)
+[ Malplaatje 7E.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)

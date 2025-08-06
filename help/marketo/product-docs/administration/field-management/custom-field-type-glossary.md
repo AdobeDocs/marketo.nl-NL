@@ -4,9 +4,9 @@ description: Verklarende woordenlijst Type aangepast veld - Marketo Docs - Produ
 title: Verklarende woordenlijst Type aangepast veld
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -17,122 +17,122 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 >[!PREREQUISITES]
 >
->[Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Afhankelijk van het veldtype, filter/trigger [operatoren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) zal anders zijn.
+>Afhankelijk van gebiedstype, filter/trekker [ exploitanten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) zal verschillend zijn.
 
 >[!NOTE]
 >
->De meeste velden worden niet uitgelijnd op het aantal tekens, maar op het aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **String**, die maximaal 255 tekens bevat.
+>De meeste velden worden niet uitgelijnd op het aantal tekens, maar op het aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **Koord**, dat bij 255 karakters maxes.
 
 ## Boolean {#boolean}
 
-**Voorbeeldnaam:** Is Klant - Tags toewijzen aan uw mensen als klanten
+**Naam van het Voorbeeld:** is Klant - neem uw mensen als klanten in kaart
 
-**Voorbeelden:** Waar (ingeschakeld) / Onwaar (uitgeschakeld)
+**Waarden van het Voorbeeld:** Waar (gecontroleerd)/Onwaar (ongecontroleerd)
 
-**Operatoren**: Geen
+**Operatoren**: niets
 
 ## Valuta {#currency}
 
-**Voorbeeldnaam:** Begroting - Bewaar een getalwaarde voor de begroting van een bedrijf
+**Naam van het Voorbeeld:** Begroting - sla een aantalwaarde voor het budget van een bedrijf op
 
-**Voorbeelden:** 100
+**Waarden van het Voorbeeld:** 100
 
-**Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
+**Operatoren**: is, is niet, tussen, groter dan, minder dan, minstens, is leeg, is niet leeg
 
 ## Datum {#date}
 
-**Voorbeeldnaam:** Verlengingsdatum - Verlengingsdatums voor uw klanten opslaan
+**Naam van het Voorbeeld:** VerlengingsDatum - sla uw klanten vernieuwingsdata op
 
-**Voorbeelden:** 19-08-14
+**Waarden van het Voorbeeld:** 8/19/14
 
-**Operatoren**: is, is niet, tussen, in het verleden, vóór, in de toekomst, na, in tijdkader, nadat, vóór, op of na, op of vóór, leeg is, is niet leeg
+**Operatoren**: is, is niet, tussen, in het verleden, in het verleden vóór, in de toekomst, na, in tijdkader, na, vóór, op of na, op of vóór, leeg is, is niet leeg
 
 ## Datumtijd {#datetime}
 
-**Voorbeeldnaam:** Aanmaakdatum - Sla de datum en het tijdstip op waarop een persoon wordt gemaakt
+**Naam van het Voorbeeld:** Gemaakt Datum - sla de datum en de tijd op waarop een persoon wordt gecreeerd
 
-**Voorbeelden:** 19-08-14 2:00
+**Waarden van het Voorbeeld:** 8/19/14 2 :00
 
-**Operatoren**: is, is niet, tussen, in het verleden, vóór, in de toekomst, na, in tijdkader, nadat, vóór, op of na, op of vóór, leeg is, is niet leeg
+**Operatoren**: is, is niet, tussen, in het verleden, in het verleden vóór, in de toekomst, na, in tijdkader, na, vóór, op of na, op of vóór, leeg is, is niet leeg
 
 ## E-mail {#email}
 
-**Voorbeeldnaam:** Alternatieve e-mail - Houd een alternatief e-mailadres voor uw mensen (kan geen e-mails naar dit veld verzenden, zoals het standaard e-mailadresveld, dat een speciaal adres is)
+**Naam van het Voorbeeld:** Afwisselende E-mail - houd een afwisselend e-mailadres voor uw mensen (kan geen e-mails naar dit gebied zoals het standaard e-mailadresgebied eigenlijk verzenden, dat één speciaal is)
 
-**Voorbeelden:** name@company.com
+**Waarden van het Voorbeeld:** <name@company.com>
 
-**Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
+**Operatoren**: is, begint niet met, begint niet met, bevat, bevat, bevat niet, is leeg, is niet leeg
 
 ## Float {#float}
 
-**Voorbeeldnaam:** Gemiddelde scorepunt - Behoud het gemiddelde van het scorepunt van een persoon of een andere numerieke waarde met decimalen
+**Naam van het Voorbeeld:** het Gemiddelde van het Punt van de Grade - houd het gemiddelde van het de rangspunt van een persoon of een andere numerieke waarde die decimalen heeft
 
-**Voorbeelden:** 2,47
+**Waarden van het Voorbeeld:** 2.47
 
-**Operatoren**: tussen, groter dan, kleiner dan, minstens, is leeg, is niet leeg
+**Operatoren**: tussen, groter dan, minder dan, minstens, is leeg, is niet leeg
 
 ## Formule {#formula}
 
-**Voorbeeldnaam:** Aanhef - gebruik dit speciale veld in een [Oplossing voor de juiste aanhef](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) op basis van geslacht
+**Naam van het Voorbeeld:** Aanpassingen - gebruik dit speciale gebied in a [ oplossing om de juiste aanhef ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) te krijgen die op gender wordt gebaseerd
 
-**Voorbeelden:** controleer de verbonden oplossing
+**Waarden van het Voorbeeld:** controleer de verbonden oplossing
 
 ## Geheel {#integer}
 
-**Voorbeeldnaam:** Aantal Werknemers - sla een aantalwaarde op die decimalen niet vereist
+**Naam van het Voorbeeld:** Aantal Werknemers - sla een aantalwaarde op die decimalen niet vereist
 
-**Voorbeelden:** 600
+**Waarden van het Voorbeeld:** 600
 
-**Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
+**Operatoren**: is, is niet, tussen, groter dan, minder dan, minstens, is leeg, is niet leeg
 
 ## Percentage {#percent}
 
-**Voorbeeldnaam:** Waarschuwing: koop een percentage op (misschien berekend aan de CRM-zijde)
+**Naam van het Voorbeeld:** Waarschijnlijk om te kopen - opslag een percentagewaarde (misschien berekend op de kant van CRM)
 
-**Voorbeelden:** 85%
+**Waarden van het Voorbeeld:** 85%
 
-**Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
+**Operatoren**: is, is niet, tussen, groter dan, minder dan, minstens, is leeg, is niet leeg
 
 ## Telefoonnummer {#phone}
 
-**Voorbeeldnaam:** Alternatieve Telefoon - sla een extra telefoonaantal voor uw mensen op
+**Naam van het Voorbeeld:** Alternatieve Telefoon - sla een extra telefoonaantal voor uw mensen op
 
-**Voorbeeld:** 650-555-5555
+**Waarde van het Voorbeeld:** 650-555-5555
 
-**Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
+**Operatoren**: is, begint niet met, begint niet met, bevat, bevat, bevat niet, is leeg, is niet leeg
 
 ## Score {#score}
 
-**Voorbeeldnaam:** Gedragsscore / Demografische score - meerdere muziekvelden maken om verschillende kenmerken bij te houden
+**Naam van het Voorbeeld:** De Score van het Gedrag/de Demografische Score - creeer veelvoudige scorevelden om spoor van verschillende attributen te houden
 
-**Voorbeeld:** 14
+**Waarde van het Voorbeeld:** 14
 
-**Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
+**Operatoren**: is, is niet, tussen, groter dan, minder dan, minstens, is leeg, is niet leeg
 
 ## String {#string}
 
-**Voorbeeldnaam:** Tweede voornaam - een extra tekstkenmerk opslaan
+**Naam van het Voorbeeld:** Middnaam - sla een extra tekstattribuut op
 
-**Voorbeeld:** Roze
+**Waarde van het Voorbeeld:** Roze
 
-**Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
+**Operatoren**: is, begint niet met, begint niet met, bevat, bevat, bevat niet, is leeg, is niet leeg
 
 ## Tekstgebied {#text-area}
 
-**Voorbeeldnaam:** Opmerkingen - voeg een opmerkingenveld toe aan uw formulieren zodat tekst op meerdere regels kan worden ingevoerd
+**Naam van het Voorbeeld:** Commentaren - voeg een commentaargebied aan uw vormen toe om multi-line tekstingang toe te staan
 
-**Voorbeeld:** Dit artikel is fantastisch!
+**Waarde van het Voorbeeld:** Dit artikel is fantastisch!
 
-**Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
+**Operatoren**: is, begint niet met, begint niet met, bevat, bevat, bevat niet, is leeg, is niet leeg
 
 ## URL {#url}
 
-**Voorbeeldnaam:** Blog - een veld maken voor het opslaan van persoonlijke blogURL&#39;s
+**Naam van het Voorbeeld:** Blog - creeer een gebied om persoonblog URL&#39;s op te slaan
 
-**Voorbeeld:** www.myblog.com
+**Waarde van het Voorbeeld:** &lt;www.myblog.com>
 
-**Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
+**Operatoren**: is, begint niet met, begint niet met, bevat, bevat, bevat niet, is leeg, is niet leeg

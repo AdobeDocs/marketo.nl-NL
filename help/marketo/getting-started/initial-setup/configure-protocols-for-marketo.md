@@ -4,7 +4,7 @@ description: Protocollen configureren voor Marketo Engage - Marketo Engage Docs 
 title: Protocollen voor Marketo Engage configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **de Steun van Adobe van het Contact [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
+`4` **de Steun van Adobe van het Contact [ ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces te beginnen van levering een SSL Certificaat.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 

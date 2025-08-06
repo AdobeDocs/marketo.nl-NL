@@ -4,9 +4,9 @@ description: Integratie van RTP met Google Analytics - Marketo Docs - Productdoc
 title: RTP integreren met Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Meet uw campagnes RTP en correleer hen met uw algemeen plaatsgemiddelde. Leer ho
 
 ## RTP instellen met Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Voeg het e-mailadres rtp.ga2@gmail.com als een gebruiker voor lezen en analyseren toe aan uw GA-account. Voor meer details, zie [ hier ](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Voeg het e-mailbericht <rtp.ga2@gmail.com> toe als gebruiker voor lezen en analyseren naar uw GA-account. Voor meer details, zie [ hier ](https://support.google.com/analytics/answer/2884495?hl=en).
 
 1. In uw RTP-account. Ga naar **[!UICONTROL Account Settings]** .
 

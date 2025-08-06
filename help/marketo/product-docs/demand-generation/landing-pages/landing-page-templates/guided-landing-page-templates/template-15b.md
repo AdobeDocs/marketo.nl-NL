@@ -4,16 +4,16 @@ description: Sjabloon 15B - Marketo Docs - Productdocumentatie
 title: Sjabloon 15B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 15B {#template-15b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 15B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html?lang=nl-NL)
+[ Malplaatje 15B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)

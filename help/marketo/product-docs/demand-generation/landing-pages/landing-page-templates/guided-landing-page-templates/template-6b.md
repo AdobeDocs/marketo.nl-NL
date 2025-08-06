@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783929
 description: Template 6B - Marketo-documenten - Productdocumentatie
-title: Template 6B
+title: Sjabloon 6B
 exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Template 6B {#template-6b}
+# Sjabloon 6B {#template-6b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 6B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vier carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 6B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=nl-NL)
+[ Malplaatje 6B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)

@@ -4,7 +4,7 @@ description: Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Productd
 title: Microsoft Dynamics Sync - Opportunity Sync
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -36,6 +36,5 @@ Het contact/de Rekening kan aan Kans op twee manieren worden geassocieerd:
    * Als de contactwaarde is ingesteld en het account leeg blijft, maakt Marketo een `opportunitycontactrole` -account en wordt de opportuniteit ingesteld op de account van de contactpersoon. Als de contactpersoon geen account heeft, is dit veld leeg.
    * Als de waarde van de account is ingesteld en de contactpersoon leeg blijft, stelt Marketo alleen de account bij gelegenheid in op deze account.
    * Als beide waarden zijn ingesteld, wordt de rekening Dynamics picks gebruikt als de waarde voor customerid, zodat het gedrag hetzelfde zou zijn als hierboven.
-
 
 * Via belanghebbenden: de dynamiek gebruikt verbindingen om kans te verbinden om door belanghebbenden van de kans te contacteren creeert pagina. Hiervoor maken we een `opportunitycontactrole` -record voor elke nieuwe belanghebbende.

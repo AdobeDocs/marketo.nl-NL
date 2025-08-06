@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - herfst '18 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - herfst '18
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Marketo ondersteunt nu het gebruik van velden voor e-mailpositie via de API&#39;
 
 >[!NOTE]
 >
->Als onderdeel van de Q3-release werken we de [!DNL OAuth] -versie voor [!DNL GoToWebinar] bij van 1,0 naar 2,0. Deze wijziging wordt doorgevoerd voordat de ondersteuning voor [!DNL OAuth] 1.0 in januari 2019 door [!DNL GoToWebinar] wordt vervangen. Als u een [!DNL GoToWebinar] -klant bent, moet u de verificatie opnieuw uitvoeren via [!DNL LaunchPoint] (in het [!UICONTROL Admin] -gebied) vóór januari 2019 om ervoor te zorgen dat uw integratie doorgaat.
+>Als onderdeel van de Q3-release werken we de [!DNL OAuth] -versie voor [!DNL GoToWebinar] bij van 1,0 naar 2,0. Deze wijziging wordt doorgevoerd voordat de ondersteuning voor [!DNL GoToWebinar] 1.0 in januari 2019 door [!DNL OAuth] wordt vervangen. Als u een [!DNL GoToWebinar] -klant bent, moet u de verificatie opnieuw uitvoeren via [!DNL LaunchPoint] (in het [!UICONTROL Admin] -gebied) vóór januari 2019 om ervoor te zorgen dat uw integratie doorgaat.
 
 >[!NOTE]
 >

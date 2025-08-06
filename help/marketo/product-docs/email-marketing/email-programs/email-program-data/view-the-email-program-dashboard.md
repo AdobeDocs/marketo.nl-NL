@@ -4,7 +4,7 @@ description: Het dashboard voor het e-mailprogramma weergeven - Marketo Docs - P
 title: Het dashboard voor het e-mailprogramma weergeven
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Als u een A/B-test hebt toegevoegd aan uw e-mailprogramma en de test momenteel w
 
 ## E-mailprogrammaweergave {#email-program-view}
 
-Alternatief, als u geen A/B test *toevoegde of* als de test over is, zou het volgende moeten worden getoond:
+Alternatief, als u geen A/B test _toevoegde of_ als de test over is, zou het volgende moeten worden getoond:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

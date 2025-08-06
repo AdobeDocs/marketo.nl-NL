@@ -3,9 +3,9 @@ description: Dynamische velden - Marketo Docs - Productdocumentatie
 title: Dynamische velden
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,9 @@ Met dit gereedschap kunt u `auto-personalize your email` gebruiken en tonnen tij
 | `{{friendly_unsubscribe}}` | Heb je genoeg van alle e-mails? Laat het me even weten |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn, Senior Technical Writer - Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Senior Technical Writer |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **Dingen aan nota te nemen**:
 

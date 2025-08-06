@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783966
 description: Template 8C - Marketo-documenten - Productdocumentatie
-title: Template 8C
+title: Sjabloon 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# Template 8C {#template-8c}
+# Sjabloon 8C {#template-8c}
 
-Klik met de rechtermuisknop om [downloadsjabloon 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 8C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Een voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=nl-NL)
+[ Malplaatje 8C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)

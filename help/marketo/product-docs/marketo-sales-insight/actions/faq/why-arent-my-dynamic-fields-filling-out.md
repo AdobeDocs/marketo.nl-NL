@@ -3,9 +3,9 @@ description: Waarom vullen mijn dynamische velden niet uit? - Marketo Docs - Pro
 title: Waarom vullen mijn dynamische velden niet uit?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Er zijn drie soorten dynamische gebieden in de Acties van Insight van de Verkoop
 
 [!DNL Salesforce] Velden: bijvoorbeeld `{{sfdc_account_name}}`
 
-* Zorg ervoor dat deze correct is gekoppeld aan Sales Insight Acties. Ga naar [ Montages ] (https://toutapp.com/login {target="_blank"} pagina en klik **leiden** naast uw CRM.
+* Zorg ervoor dat deze correct is gekoppeld aan Sales Insight Acties. Ga naar [ Montages ] (<https://toutapp.com/login{target="_blank"}> pagina en klik **leiden** naast uw CRM.
 
 **Basis van het oplossen van problemen en de Gebieden van de Douane**
 

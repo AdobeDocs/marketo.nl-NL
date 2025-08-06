@@ -4,9 +4,9 @@ description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterpr
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -148,7 +148,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het [!DNL Salesforce] -profi
 
 >[!TIP]
 >
->Maak een toegewijde [!DNL Salesforce] -account (bijvoorbeeld marketo@yourcompany.com) om onderscheid te maken tussen de wijzigingen die door Marketo en andere [!DNL Salesforce] -gebruikers zijn aangebracht.
+>Maak een toegewijde [!DNL Salesforce] -account (bijvoorbeeld <marketo@yourcompany.com> ) om onderscheid te maken tussen de wijzigingen die door Marketo en andere [!DNL Salesforce] -gebruikers zijn aangebracht.
 
 1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk Nav en klik op **[!UICONTROL Users]** . Klik op **[!UICONTROL New User]** .
 

@@ -4,7 +4,7 @@ description: Toevoegen aan SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Toevoegen aan SFDC-campagne
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -31,8 +31,8 @@ Deze flowstap kan worden gebruikt in Marketo Engage-campagnes of als een enkele 
    >
    >Als je geen Salesforce-campagne kunt zien in de campagnemelijst:
    >
-   >  1. Zorg ervoor de [ campagnecsync ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} wordt toegelaten.
-   >  1. Bevestig dat uw [ Gebruiker van de Synchronisatie van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} a [ Marketing Gebruiker ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} in Salesforce is.
+   > 1. Zorg ervoor de [ campagnecsync ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} wordt toegelaten.
+   > 1. Bevestig dat uw [ Gebruiker van de Synchronisatie van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} a [ Marketing Gebruiker ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} in Salesforce is.
 
    >[!TIP]
    >

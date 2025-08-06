@@ -4,7 +4,7 @@ description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocume
 title: Persoonlijke opmerkingen op Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 1%
@@ -18,7 +18,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 >[!PREREQUISITES]
 >
 >* Voltooi [ opnieuw het richten met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
->* Herzie de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
+>* Herzie de [ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
 
 ## Een publiek maken in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -26,35 +26,35 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 1. Klik op **[!UICONTROL Tools]** en selecteer **[!UICONTROL Audiences]** .
 
-   ![](assets/one-1.png)
+![](assets/one-1.png)
 
 1. Klik op **[!UICONTROL Create a Custom Audience]**.
 
-   ![](assets/two-1.png)
+![](assets/two-1.png)
 
 1. Selecteer **[!UICONTROL Website Traffic]** .
 
-   ![](assets/image2015-1-19-16-3a32-3a2.png)
+![](assets/image2015-1-19-16-3a32-3a2.png)
 
 1. Selecteer [!UICONTROL Website traffic] in de lijst **[!UICONTROL Custom Combination]** .
 
-   ![](assets/image2015-1-19-16-3a33-3a21.png)
+![](assets/image2015-1-19-16-3a33-3a21.png)
 
 1. Selecteer **[!UICONTROL Event]** in de lijst Opnemen.
 
-   ![](assets/image2015-1-19-16-3a34-3a9.png)
+![](assets/image2015-1-19-16-3a34-3a9.png)
 
 1. Selecteer [!UICONTROL Event] in de lijst **[!UICONTROL RTP Remarketing]** en selecteer een parameter.
 
-   ![](assets/image2015-1-19-16-3a52-3a29.png)
+![](assets/image2015-1-19-16-3a52-3a29.png)
 
 1. In dit voorbeeld selecteert u [!UICONTROL Industry] om **[!UICONTROL Education]** te bevatten. Voer **[!UICONTROL Education]** in en bewerk **[!UICONTROL In the Last]** om 180 dagen te duren. Ga de Naam van het publiek in: **Onderwijsindustrie**. Klik op **[!UICONTROL Create Audience]**.
 
-   ![](assets/image2015-1-19-16-3a56-3a15.png)
+![](assets/image2015-1-19-16-3a56-3a15.png)
 
 1. U hebt nu een nieuw aangepast publiek gemaakt met RTP-gegevens in [!DNL Facebook] .
 
-   ![](assets/image2015-1-19-16-3a59-3a2.png)
+![](assets/image2015-1-19-16-3a59-3a2.png)
 
 ## RTP-gegevenspunten in [!DNL Facebook] {#rtp-data-points-in-facebook}
 

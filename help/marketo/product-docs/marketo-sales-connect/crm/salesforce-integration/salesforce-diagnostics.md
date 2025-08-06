@@ -4,9 +4,9 @@ description: Salesforce Diagnostics - Marketo Docs - Productdocumentatie
 title: Salesforce Diagnostics
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1324'
+source-wordcount: '1322'
 ht-degree: 0%
 
 ---
@@ -192,7 +192,7 @@ Een deel van onze [!DNL Salesforce] -integratie bestaat uit een [!DNL Salesforce
 **Fout:** TXN_SECURITY_NO_ACCESS
 **Categorie:** Toegang/Bevestiging
 **Bericht:** de verrichting u vroeg wordt niet toegestaan toe te schrijven aan een veiligheidsbeleid in uw organisatie. Neem contact op met de beheerder.<br/>
-**wat gebeurt:** Één of andere soort veiligheidsbeperking is opstelling - zie https://developer.salesforce.com/forums/?id=&quot;verslagidentiteitskaart&quot;
+**wat gebeurt:** Één of andere soort veiligheidsbeperking is opstelling - zie <https://developer.salesforce.com/forums/?id="record> identiteitskaart&quot;
 **Stappen van het Oplossen van problemen:** Bespreek aan uw [!DNL Salesforce] Admin en zie wat de specifieke beperking zou kunnen zijn.
 
 **Fout:** UNABLE_TO_LOCK_ROW

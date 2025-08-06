@@ -4,7 +4,7 @@ description: Ondersteunde browsers - Marketo Docs - Productdocumentatie
 title: Ondersteunde browsers
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 63cd902df11ec13586ab565f0151b7cd47f2b423
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -22,9 +22,8 @@ Marketo biedt momenteel ondersteuning voor de volgende browsers:
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | nieuwste |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/en-us/windows/microsoft-edge){target="_blank"} | nieuwste |
 
-
 >[!NOTE]
 >
->Voor gebruikers die aan [ Marketo met de Identiteit van de Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd, worden alle browsers gesteund op zowel Mac als Vensters, met uitzondering van Microsoft Edge op Strikte wijze.
+>Voor gebruikers die aan [ Marketo met Identiteit Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd, worden alle browsers gesteund op zowel Mac als Vensters, met uitzondering van Microsoft Edge op Strikte wijze.
 
 Voor de beste ervaring, **houd uw browser bijgewerkt**!

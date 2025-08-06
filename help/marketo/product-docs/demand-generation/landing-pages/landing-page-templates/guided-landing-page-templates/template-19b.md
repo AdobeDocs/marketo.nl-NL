@@ -4,16 +4,16 @@ description: Template 19B - Marketo-documenten - Productdocumentatie
 title: Sjabloon 19B
 exl-id: 8224c9ad-b732-4a75-9966-446980db55ef
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 19B {#template-19b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 19B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 19B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)
 
 ![](assets/image2015-9-16-16-3a49-3a50.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 19B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html?lang=nl-NL)
+[ Malplaatje 19B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19b.html)

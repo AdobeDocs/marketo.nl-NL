@@ -4,16 +4,16 @@ description: Sjabloon 18A - Marketo-documenten - Productdocumentatie
 title: Sjabloon 18A
 exl-id: fe3008b5-cef3-4b9e-a0a1-7e596d855a8f
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 18A {#template-18a}
 
-Klik met de rechtermuisknop om [downloadsjabloon 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 18A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=nl-NL)
+[ Malplaatje 18A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)

@@ -3,7 +3,7 @@ description: Lijst met vergaderingen - Marketo-documenten - productdocumentatie
 title: Lijst met vergaderingen
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschi
 Wanneer een handeling zoals het boeken van een vergadering of een live chat mislukt, worden gebruikers via e-mail op de hoogte gesteld.
 
 ![](assets/meeting-list-2.png)
-

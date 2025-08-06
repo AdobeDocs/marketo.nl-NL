@@ -4,7 +4,7 @@ description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -177,7 +177,7 @@ Schakel onder de sectie **[!UICONTROL Profile Segmentation]** het selectievakje 
 * **is van deze bedrijven (specifieke namen)**
 
    * Selecteer een bedrijf dat u als doel wilt instellen in de vervolgkeuzelijst &#39;Bedrijf selecteren om toe te voegen&#39;.
-   * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *It is altijd __ geadviseerd om Benoemde Lijsten van de Rekening in plaats van het typen van de namen manueel voor betere gelijken (zie hieronder) te gebruiken.
+   * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *It is altijd ** geadviseerd om Benoemde Lijsten van de Rekening in plaats van het typen van de namen manueel voor betere gelijken (zie hieronder) te gebruiken.
 
 **Benoemde Lijst van de Rekening**
 
@@ -187,7 +187,7 @@ Selecteer van a [ Benoemde Lijst van de Rekening ](/help/marketo/product-docs/we
 
 >[!NOTE]
 >
->Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [ Gelezen API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [ Gelezen API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **sluit ISP** uit
 
@@ -286,7 +286,7 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 
 **de Context API van de Gebruiker**
 
-De vraag van Personalization API van het Web [ leest meer over het hier.](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+De vraag van Personalization API van het Web [ leest meer over het hier.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

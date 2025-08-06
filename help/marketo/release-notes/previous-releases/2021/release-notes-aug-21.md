@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - augustus 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,8 +63,8 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] Forms-integratie van leidende klasse** : marketers kunnen nu inkomstenattributie uitvoeren op conversies die optreden wanneer [!DNL LinkedIn] formuliervullingen vastlegt via hun leidende gen-Forms en -eenheden. Deze inzichten kunnen dan worden gebruikt om formulierprestaties en betaalde media-investeringen te optimaliseren. [!DNL LinkedIn] Leider-gen Forms is een van de snelst groeiende, betaalbare mediaproducties van [!DNL LinkedIn] en deze nieuwe functionaliteit is inbegrepen bij onze bestaande [!DNL LinkedIn] Advertentieverbinding met [!DNL Bizible] . 
- 
+* **[!DNL Bizible][!DNL LinkedIn] Forms-integratie van leidende klasse** : marketers kunnen nu inkomstenattributie uitvoeren op conversies die optreden wanneer [!DNL LinkedIn] formuliervullingen vastlegt via hun leidende gen-Forms en -eenheden. Deze inzichten kunnen dan worden gebruikt om formulierprestaties en betaalde media-investeringen te optimaliseren. [!DNL LinkedIn] Leider-gen Forms is een van de snelst groeiende, betaalbare mediaproducties van [!DNL LinkedIn] en deze nieuwe functionaliteit is inbegrepen bij onze bestaande [!DNL LinkedIn] Advertentieverbinding met [!DNL Bizible] .
+
 * **Verbeterd dashboard van de Snelheid**: Wij hebben een nieuwe metrische snelheidsfilter en dashboardfilter voor diepere inzichten toegevoegd. Dit dashboard wordt door marketers gebruikt om de toonaangevende positie en opportuniteitssnelheid van de verschillende stadia en de efficiëntie van verschillende vormen van marketing en verkoopbetrokkenheid te begrijpen.
 
 * **Nieuw Dashboard van de Reis van de Waterval van de Cohort**: Dit zal marketers toelaten om de vooruitgang van een geselecteerde cohort door een klassieke reeks van &quot;vraagwaterval&quot;stadia te bekijken, die een snel inzicht in omzettingspercentages en impliciete faseomzetting causaliteit op een stadium-door-stadium verstrekt.

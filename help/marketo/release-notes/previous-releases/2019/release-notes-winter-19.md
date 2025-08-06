@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Opmerkingen bij de release - Winter '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -53,8 +53,8 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 * **E-maildienst**: Geniet betere leverbaarheid plus betere het Volgen van het Antwoord, Geplande E-mailfunctionaliteit, en bulke-mailfunctionaliteit door met [!DNL Microsoft Outlook] (of door Office365 of op-Prem door het lusje van de Verbinding E-mail) te verbinden.
 * **Nieuwe Admin Montages**: Twee admin pagina&#39;s zijn toegevoegd om uw instantie van de Ingenieur van de Verkoop te optimaliseren
 
-   * _Beheer van het Team_ steunt een naadloos proces van de rekeningsopstelling door beheerders toe te staan om abonnementen en teams uit te geven.
-   * _de Montages van Admin van Salesforce_ hulp teams opstelling hun synchronisatie van SFDC sneller en gemakkelijker dan ooit voordien.
+   * *Beheer van het Team* steunt een naadloos proces van de rekeningsopstelling door beheerders toe te staan om abonnementen en teams uit te geven.
+   * *de Montages van Admin van Salesforce* hulp teams opstelling hun synchronisatie van SFDC sneller en gemakkelijker dan ooit voordien.
 
 * **Insteekmodule OWA voor[!DNL Windows]**: Met één enkele toe:voegen-binnen, zullen alle [!DNL Windows Office365] cliënten in de Ingenieur van de Verkoop worden gesteund, die de capaciteit verstrekt om Levende Diervoeders in Vooruitzichten te gebruiken. De nieuwe insteekmodule is beschikbaar in de Microsoft Store.
 * **Pusher van de Activiteiten**: De Ingenieur van de Verkoop van de synchronisatie aan het platform van kernMarketo aan hefboomwerking marketinginzichten in real time.
@@ -102,7 +102,7 @@ Gebruikers kunnen nu subdomeinen toevoegen aan hun RTP-accountinstellingen om do
 
 **Bijgewerkte Kit van de Ontwikkeling van de Software MME (SDK) voor Android**
 
-We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0&rbrace; Firebase Cloud Messaging [ (FCM) van Google gebruiken met deze nieuwe SDK.](https://firebase.google.com/docs/cloud-messaging/)
+We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0} Firebase Cloud Messaging [ (FCM) van Google gebruiken met deze nieuwe SDK.](https://firebase.google.com/docs/cloud-messaging/)
 
 * [ instructies van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
 * [ Veelgestelde vragen van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)

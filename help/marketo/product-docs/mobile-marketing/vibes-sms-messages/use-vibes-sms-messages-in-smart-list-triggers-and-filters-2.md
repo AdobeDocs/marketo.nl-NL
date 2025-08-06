@@ -4,7 +4,7 @@ title: SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -60,7 +60,7 @@ U kunt ook Vibes-filters gebruiken in slimme lijsten. Het **[!UICONTROL Subscrib
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Door contrast, vindt het **Lid van de Lijst van Levenben** filter _iedereen_ momenteel geabonneerd aan Levenben en is het meest geschikt voor gebruik in Slimme Campagnes of lijsten.
+Door contrast, vindt het **Lid van de Lijst van Levenben** filter *iedereen* momenteel geabonneerd aan Levenben en is het meest geschikt voor gebruik in Slimme Campagnes of lijsten.
 
 ![](assets/image001.png)
 

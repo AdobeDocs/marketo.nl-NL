@@ -4,16 +4,16 @@ description: Template 2B - Marketo-documenten - Productdocumentatie
 title: Template 2B
 exl-id: 8ccf9758-e1c4-41e2-8266-44f69f3a9c67
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Template 2B {#template-2b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 2B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Eén hoofdgedeelte met video en tekst (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=nl-NL)
+[ Malplaatje 2B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)

@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - juli 2015 - Marketo Docs - Productdocu
 title: Release-aantekeningen -juli 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Hebt u opstelling verscheidene gepersonaliseerde campagnes RTP en opgemerkt dat 
 
 **de objecten van het Bedrijf toegang via REST API**: REST API verleent nu toegang tot het voorwerp van het Bedrijf van Marketo (a.k.a. Rekening). Dit betekent dat u in Marketo gemaakte bedrijfsobjecten kunt lezen, bijwerken en verwijderen en dat u leads aan dergelijke bedrijven kunt koppelen met de bijgewerkte API van [!DNL Lead] .
 
-Leer [ meer ] https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) in onze verwijzingsgids voor het Bedrijf API.
+Leer [ meer ]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>) in onze verwijzingsgids voor het Bedrijf API.
 
 ## Toegang tot e-maillevering {#access-email-deliverability}
 

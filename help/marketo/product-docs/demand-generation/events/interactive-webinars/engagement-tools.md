@@ -4,9 +4,9 @@ title: Betrokkenheid in interactieve webinars
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ SCREENSHOT
 
 ### Aangepaste pods {#custom-pods}
 
-Met aangepaste pods wordt de functionaliteit van Adobe Connect uitgebreid. Enkele populaire aangepaste pods die gratis beschikbaar zijn, zijn Countdown Timer, Clock, House Keeper, Titler en Word Cloud. U kunt aangepaste pods downloaden van https://apps.adobeconnect.com/ als .pod- of .zip-bestand.
+Met aangepaste pods wordt de functionaliteit van Adobe Connect uitgebreid. Enkele populaire aangepaste pods die gratis beschikbaar zijn, zijn Countdown Timer, Clock, House Keeper, Titler en Word Cloud. U kunt aangepaste pods vanuit <https://apps.adobeconnect.com/> downloaden als .pod- of .zip-bestand.
 
 Een aangepaste pod gebruiken:
 

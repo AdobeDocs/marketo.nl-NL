@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - oktober 2024 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
@@ -92,8 +92,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 * **Bulk extraheerde API Update**: Wij bevestigden een kwestie in het Bulk Uittreksel API die de columnHeaderNames optie impliceert, die u de namen van de douanekolomkopbal in het uitgevoerde dossier laat specificeren. Eerder konden kolomkopnamen die niet-ASCII-tekens bevatten, beschadigd raken.
 
-* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
-
+* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 oktober 2025 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
 
 * **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik af te schaffen, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van Marketo Engage.
 

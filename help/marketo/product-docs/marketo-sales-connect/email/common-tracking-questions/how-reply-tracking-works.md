@@ -4,9 +4,9 @@ description: Hoe Reageren bijhouden werkt - Marketo Docs - Productdocumentatie
 title: Hoe Reageren bijhouden werkt
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Reageren bijhouden wordt uitgevoerd door te kijken naar een bericht-id in elke e
 
 Als [!DNL Sales Connect] het antwoord van uw vooruitzicht op uw e-mail niet kan volgen, zal het niet een campagne kunnen tegenhouden die op antwoordopsporing wordt gebaseerd of logboek dat dat antwoord op [!DNL Salesforce].  Wat betekent dat elk e-mailadres kan antwoorden?
 
-Dit betekent dat als u een e-mail verzendt naar flynn@flynnsarcade.com en hij reageert op kevinf@flynnsarcade.com, we het antwoord kunnen volgen. Bovendien, als u flynn@flynnsarcade.com en CC alan@encom.com e-mailt, en Alan u terug schrijft, zal het ook het antwoord ontdekken en de campagne beëindigen.
+Dit betekent dat als u <flynn@flynnsarcade.com> per e-mail verzendt en hij met <kevinf@flynnsarcade.com> reageert, we het antwoord kunnen volgen. Als u bovendien een e-mail verzendt naar <flynn@flynnsarcade.com> en CC <alan@encom.com> en Alan terugschrijft, detecteert het ook het antwoord en beëindigt het de campagne.

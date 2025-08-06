@@ -4,7 +4,7 @@ description: E-mailprogramma's plannen met tijdzone voor ontvangers - Marketo Do
 title: E-mailprogramma's met tijdzone voor ontvangers plannen
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Dit biedt u twee opties:
 >
 >* **[!UICONTROL Deliver the following day in recipient’s time zone]**: als e-mail om op Dinsdag 9 :00am gepland is te gaan, zullen de gekwalificeerde mensen die in tijdstreken leven waar de geplande tijd reeds heeft overgegaan de e-mail op *Woensdag* bij 9 :00am ontvangen.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: als e-mail om op Dinsdag in 9 :00am gepland is te gaan, zullen de gekwalificeerde mensen die in tijdstreken leven waar de geplande tijd reeds heeft overgegaan e-mail _ontvangen die op uw montages van de de tijdzone van het abonnement_ wordt gebaseerd. Zo, als uw [ montages van de de tijdzone van de abonnementstijd ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aan PDT America/Los Angeles worden geplaatst, zullen deze ontvangers nog e-mail op Dinsdag bij 9 :00am PDT ontvangen (welke tijd die in hun eigen tijdzones kan zijn).
+>* **[!UICONTROL Deliver using the program's default set time]**: als e-mail om op Dinsdag in 9 :00am gepland is te gaan, zullen de gekwalificeerde mensen die in tijdstreken leven waar de geplande tijd reeds heeft overgegaan e-mail *ontvangen die op uw montages van de de tijdzone van het abonnement* wordt gebaseerd. Zo, als uw [ montages van de de tijdzone van de abonnementstijd ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aan PDT America/Los Angeles worden geplaatst, zullen deze ontvangers nog e-mail op Dinsdag bij 9 :00am PDT ontvangen (welke tijd die in hun eigen tijdzones kan zijn).
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Zodra u uw programma goedkeurt, begint het binnen 15 minuten lopen.
 
 >[!NOTE]
 >
->Hoewel het programma het _proces_ van het verzenden van e-mails in 15 minuten zal beginnen, zullen de e-mails niet __ tegelijkertijd worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen **[!UICONTROL Time Zone Settings]** .
+>Hoewel het programma het *proces* van het verzenden van e-mails in 15 minuten zal beginnen, zullen de e-mails niet ** tegelijkertijd worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen **[!UICONTROL Time Zone Settings]** .
 
 ## Scenario 2: Meer dan 25 uur {#scenario-more-than-hours}
 
@@ -81,8 +81,8 @@ Dit betekent dat als u in Amerika/Los Angeles bent en zowel HoofdBegin als Ontva
 
 Kortom, e-mailprogramma&#39;s die met de Ontvankelijke Tijdzone worden gepland, moeten beginnen lopend op de geplande tijd in de vroegste tijdzone (d.w.z., waar het middernacht eerst bereikt) om elke tijdzone aan te passen. Dus als u een e-mailprogramma plant...
 
-* **met een leveringstijd _binnen_ 25 uren**, begint het programma binnen 15 minuten lopen. Ontvangers die al zijn geslaagd voor de geplande tijd ontvangen de e-mail op basis van de instellingen voor de tijdzone die u hebt gekozen.
-* **met een leveringstijd _meer dan_ 25 uren in de toekomst**, begint het programma lopend bij de geplande tijd in de vroegste tijdzone (UTC +14 :00).
+* **met een leveringstijd *binnen* 25 uren**, begint het programma binnen 15 minuten lopen. Ontvangers die al zijn geslaagd voor de geplande tijd ontvangen de e-mail op basis van de instellingen voor de tijdzone die u hebt gekozen.
+* **met een leveringstijd *meer dan* 25 uren in de toekomst**, begint het programma lopend bij de geplande tijd in de vroegste tijdzone (UTC +14 :00).
 * **met het Begin van het Kop**, begint het programma 12 uren voorafgaand aan de geplande tijd in de vroegste tijdzone (UTC +14 :00) te verwerken.
 
 >[!CAUTION]

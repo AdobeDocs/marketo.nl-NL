@@ -4,16 +4,16 @@ description: Template 17C - Marketo Docs - Productdocumentatie
 title: Sjabloon 17C
 exl-id: d9d1079d-2adf-4b6e-befc-42e913ce8b2c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 17C {#template-17c}
 
-Klik met de rechtermuisknop om [downloadsjabloon 17C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 17C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Zes carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 17C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html?lang=nl-NL)
+[ Malplaatje 17C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17c.html)

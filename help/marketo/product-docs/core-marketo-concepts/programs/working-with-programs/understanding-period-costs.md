@@ -4,7 +4,7 @@ description: Begrijpingsperiode kosten - Marketo-documenten - productdocumentati
 title: Kosten voor tijdrekening
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    ![](assets/graph1.png)
 
-   ...de contacten die in de maanden vóór en na worden toegevoegd zullen *slechts* tellen naar Maart.
+   ...de contacten die in de maanden vóór en na worden toegevoegd zullen _slechts_ tellen naar Maart.
 
    ![](assets/graph2.png)
 

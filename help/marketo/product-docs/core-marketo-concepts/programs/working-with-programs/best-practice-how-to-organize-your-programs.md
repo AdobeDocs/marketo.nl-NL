@@ -4,7 +4,7 @@ description: Best Practice - Hoe kan ik uw programma's organiseren - Marketo Doc
 title: Beste praktijken - hoe te om uw Programma's te organiseren
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Bij marketingactiviteiten moet u mappen gebruiken om uw programma&#39;s te organ
 >* Actieve marketingprogramma&#39;s
 >   * E-mails
 >   * Gebeurtenissen
->      * Live gebeurtenissen/presentaties
->      * Tradeshows
->      * Webinars
+>     * Live gebeurtenissen/presentaties
+>     * Tradeshows
+>     * Webinars
 >   * Nieuwsbrieven
 >   * Verloop
 >   * Webinhoud
@@ -48,8 +48,8 @@ Bij marketingactiviteiten moet u mappen gebruiken om uw programma&#39;s te organ
 >   * Verkoop aangevraagde campagnes
 >* **Archief**
 >   * Gebeurtenissen archiveren
->      * Archief 2012
->      * Archief 2013
+>     * Archief 2012
+>     * Archief 2013
 
 Elk van deze die in het voorbeeld worden vermeld is een omslag. U ziet hoe ze allemaal een unieke naam hebben. U kunt dubbele (eenvoudigere) namen van omslagen hebben INSIDE programma&#39;s, maar niet bij de wortel van de boom.
 

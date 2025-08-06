@@ -4,7 +4,7 @@ title: Temp doc
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ### Assets toevoegen {#add-assets}
 
-Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
+Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >
@@ -37,9 +37,7 @@ Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/
 
 Klik op Voorwaardelijke inhoud inschakelen om dynamische inhoud toe te voegen en de inhoud aan te passen aan de doelprofielen op basis van voorwaardelijke regels.
 
-
-
-Indien nodig, kunt u uw e-mail verder personaliseren door Overschakelen naar code redacteur van het geavanceerde menu te klikken. Op deze manier kunt u de broncode van de e-mail bewerken, bijvoorbeeld door tags voor bijhouden of aangepaste HTML toe te voegen.
+Indien nodig, kunt u uw e-mail verder personaliseren door Overschakelen naar code redacteur van het geavanceerde menu te klikken. Op deze manier kunt u de broncode van de e-mail bewerken, bijvoorbeeld door trackingtags of aangepaste HTML-tags toe te voegen.
 
 VOORZIENING
 U kunt niet terugkeren naar de visuele ontwerper voor deze e-mail na het schakelen naar de coderedacteur.

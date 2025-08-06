@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437837
-description: Template 16B - Marketo-documenten - Productdocumentatie
+description: Sjabloon 16B - Marketo-documenten - Productdocumentatie
 title: Sjabloon 16B
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 16B {#template-16b}
 
-Klik met de rechtermuisknop om [downloadsjabloon 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 16B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 
 * Zes carrosseriesegmenten
 
-**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
+**klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[Sjabloon 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=nl-NL)
+[ Malplaatje 16B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

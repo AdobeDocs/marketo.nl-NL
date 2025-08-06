@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Wij hebben de levende praatje verpletterend logica in Dynamic Chat vernieuwd om 
 
 * **Verpletterend regel-Specifiek Gedrag**
 
-_&#x200B;**Verpletterende Rekening**&#x200B;_
+_**Verpletterende Rekening**_
 
 Als het e-maildomein van een bezoeker wordt toegewezen aan een bekende account, krijgt de toegewezen agent altijd de prioriteit.
 
@@ -54,7 +54,7 @@ Als de agent niet beschikbaar is, het systeem:
 
 De kaart-vlakke verpletterende regel (b.v. Team, Douane) wordt slechts overwogen als het Verpletteren van de Rekening niet in aanmerking komt (geen passend domein of agent).
 
-_&#x200B;**Douane/Team die**&#x200B;_ verplettert
+_**Douane/Team die**_ verplettert
 
 Deze regels kunnen meerdere in aanmerking komende agenten teruggeven.
 
@@ -68,7 +68,7 @@ Als geen van beide agenten aangaat:
 -of-
 * Hiermee geeft u het standaardfallback-bericht weer.
 
-_&#x200B;**Rond Robin die**&#x200B;_ verplettert
+_**Rond Robin die**_ verplettert
 
 Wanneer gebruikt als primaire verpletterende regel, het systeem:
 
@@ -78,7 +78,7 @@ Wanneer gebruikt als primaire verpletterende regel, het systeem:
 
 Als Round Robin wordt gebruikt als fallback, wordt deze alleen geactiveerd als er geen agents zijn gevonden op basis van de primaire regel.
 
-_&#x200B;**de Stroom van de Ervaring van de Bezoeker**&#x200B;_
+_**de Stroom van de Ervaring van de Bezoeker**_
 
 Het systeem controleert of het Verpletteren van de Rekening toepasselijk is.
 
@@ -102,7 +102,7 @@ De ronde reserve van Robin wordt slechts overwogen wanneer geen in aanmerking ko
 
 ##### Gebruiksscenario’s {#use-cases}
 
-_&#x200B;**Verpletterende Rekening**&#x200B;_
+_**Verpletterende Rekening**_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _&#x200B;**Verpletterende Rekening**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Douane Verpletterend**&#x200B;_
+_**Douane Verpletterend**_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _&#x200B;**Douane Verpletterend**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team dat**&#x200B;_ verplettert
+_**Team dat**_ verplettert
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _&#x200B;**Team dat**&#x200B;_ verplettert
   </tr>
 </tbody></table>
 
-_&#x200B;**Rond Robin die**&#x200B;_ verplettert
+_**Rond Robin die**_ verplettert
 
 <table><thead>
   <tr>

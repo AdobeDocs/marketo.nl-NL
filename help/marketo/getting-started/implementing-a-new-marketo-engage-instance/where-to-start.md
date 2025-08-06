@@ -3,7 +3,7 @@ description: Leer de beste praktijken wanneer het uitvoeren van een nieuw Market
 title: Waar moet worden begonnen?
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ Aan de slag in de Gemeenschap:
 1. Klik **verdergaan met Adobe ID** en selecteer uw primair abonnement op de login pagina.
 1. Voltooi uw profiel voor de gebruikersgemeenschap wanneer u zich aanmeldt.
 1. Nadat je de informatie hebt verzonden, kun je op de homepage van de gemeenschap landen en goed gaan!
-
