@@ -4,9 +4,9 @@ description: Een formulier maken - Marketo Docs - Productdocumentatie
 title: Een formulier maken
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
+source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,19 @@ Maak en gebruik een formulier op een bestemmingspagina om nieuwe namen te genere
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-form-1.png)
 
-1. Vind en selecteer uw **programma**.
+1. Zoek het gewenste programma. Klik er met de rechtermuisknop op en selecteer **[!UICONTROL New Local Asset]** .
 
-   ![](assets/programseelct.png)
-
-1. Klik onder **[!UICONTROL New]** op **[!UICONTROL New Local Asset]** .
-
-   ![](assets/newlocalasset.png)
+   ![](assets/create-a-form-2.png)
 
 1. Selecteer **[!UICONTROL Form]** .
 
-   ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ![](assets/create-a-form-3.png)
 
 1. Voer een formulier in **[!UICONTROL Name]** en klik op **[!UICONTROL Create]** .
 
-   ![](assets/newformwithhands.png)
+   ![](assets/create-a-form-4.png)
 
 >[!TIP]
 >
