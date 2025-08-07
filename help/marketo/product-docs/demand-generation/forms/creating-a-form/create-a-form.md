@@ -4,20 +4,20 @@ description: Een formulier maken - Marketo Docs - Productdocumentatie
 title: Een formulier maken
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Een formulier maken {#create-a-form}
 
-Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren. Het is heel gemakkelijk - hier is hoe je aan de slag gaat.
+Maak en gebruik een formulier op een bestemmingspagina om nieuwe namen te genereren of de gewenste gegevens vast te leggen.
 
 >[!NOTE]
 >
->Leer wat Marketo doet [ uw vormen veilig ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) houden.
+>Leer wat Marketo Engage doet [ uw vormen veilig ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) houden.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -41,9 +41,7 @@ Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren
 
 >[!TIP]
 >
->De meeste klanten maken een nieuw formulier voor elke bestemmingspagina, maar u kunt ook één formulier maken dat wordt gebruikt met meerdere bestemmingspagina&#39;s. Het is helemaal aan jou!
-
-Zoet! Nu het formulier is gemaakt, gaan we het omhoog kleven.
+>De meeste gebruikers maken een nieuw formulier voor elke bestemmingspagina, maar u kunt ook één formulier maken dat wordt gebruikt met meerdere bestemmingspagina&#39;s. Het is helemaal aan jou!
 
 >[!MORELIKETHIS]
 >
