@@ -18,9 +18,9 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >[!PREREQUISITES]
 >
 >Update naar de nieuwste versie van het [!DNL Sales Connect] -pakket en installeer de bulkactieknoppen in de weergave voor lead/contact.
->* [ Instructies in het Engels ](assets/SF+Guide+for+Lightning-EN)
->* [ Instructies in Japans, Koreaans, Chinees ](assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [ Instructies in Spaans, Frans, Duits, Italiaans, Zweeds ](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [ Instructies in het Engels ] (assets/SF+Guide+for+Lightning-EN)
+>* [ Instructies in Japans, Koreaans, Chinees ] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [ Instructies in Spaans, Frans, Duits, Italiaans, Zweeds ] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
