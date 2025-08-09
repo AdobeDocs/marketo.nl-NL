@@ -3,9 +3,9 @@ description: Gebruikers- en licentiebeheer - Marketo Docs - Productdocumentatie
 title: Gebruiker- en licentiebeheer
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenisse
   </tr>
   <tr>
    <td width="20%"><b>Verbruikte gebeurtenissen</b></td>
-   <td width="80%">Het totale aantal voltooide gebeurtenissen.</td>
+   <td width="80%">Alle voltooide en momenteel geplande gebeurtenissen. <a href="#things-to-note"> leer meer </a></td>
   </tr>
   <tr>
    <td width="20%"><b>Opslagcapaciteit</b></td>
@@ -98,13 +98,13 @@ Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenisse
   </tbody>
 </table>
 
-**Dingen aan Nota**
+### Notities {#things-to-note}
+
+* Telkens wanneer een gebeurtenis wordt gecreeerd, telt het als &quot;verbruikt&quot;van zijn respectieve vergunning (tenzij het een Gedeelde Vergunning van de Ruimte is). De voorkeur wordt gegeven aan &quot;Gedeelde Vergunning van de Gebeurtenis&quot;als er zowel &quot;Vergunning van de Gedeelde Gebeurtenis&quot;als &quot;Vergunning van de Gedeelde Zaal&quot;van de zelfde capaciteit zijn. Als de gebeurtenis niet is afgeleverd en het gebeurtenisprogramma voor de geplande tijd wordt verwijderd, wordt het aantal gebeurtenissen verhoogd. Als de gebeurtenis niet wordt afgeleverd en het gebeurtenisprogramma niet vóór de geplande tijd wordt verwijderd, wordt de gebeurtenis niet opnieuw gevuld.
 
 * Het type &quot;Extra Vergunning van de Opslag&quot;verstrekt enkel opslag, daarom zal de waarde op elk gebied _behalve_ de Capaciteit van de Opslag eenvoudig als &quot;-&quot; worden vermeld.
 
 * Het type &#39;Licentie voor gedeelde ruimte&#39; heeft onbeperkte gebeurtenissen en &#39;Aanvullende opslaglicentie&#39; biedt alleen opslagruimte, zodat het veld Totaal aantal gebeurtenissen voor deze licenties eenvoudig wordt weergegeven als &#39;-&#39;.
-
-* Telkens wanneer een gebeurtenis wordt gecreeerd, zal het als &quot;verbruikt&quot;van zijn respectieve vergunning (tenzij het een Gedeelde Vergunning van de Ruimte is) tellen. De voorkeur wordt gegeven aan &quot;Shared Event License&quot; als er zowel &quot;Shared Event License&quot; als &quot;Shared Room License&quot; met dezelfde capaciteit zijn. Als de gebeurtenis niet is afgeleverd en als het gebeurtenisprogramma voor de geplande tijd wordt verwijderd, wordt het aantal gebeurtenissen verhoogd door een gebeurtenis van de verbruikte gebeurtenissen af te trekken.
 
 * Zodra een licentie is uitgeput, blijft de tegel op het scherm Interactieve webinars in de Admin-sectie met &quot;Totaal aantal gebeurtenissen&quot; en &quot;Verbruikte gebeurtenissen&quot; met dezelfde waarde staan. Alleen wanneer de licentie verloopt, wordt deze van het scherm verwijderd.
 
