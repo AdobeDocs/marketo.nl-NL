@@ -4,9 +4,9 @@ description: Bulkhandelingen gebruiken in Salesforce Lightning - Marketo Docs - 
 title: Bulkhandelingen gebruiken in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
+source-git-commit: 8364c0ebe19bce0d837a96283bea31d593ef4171
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >[!PREREQUISITES]
 >
 >Update naar de nieuwste versie van het [!DNL Sales Connect] -pakket en installeer de bulkactieknoppen in de weergave voor lead/contact.
->* [ Instructies in het Engels ] (assets/SF+Guide+for+Lightning-EN)
->* [ Instructies in Japans, Koreaans, Chinees ] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [ Instructies in Spaans, Frans, Duits, Italiaans, Zweeds ] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [ Instructies in het Engels ](assets/SF+Guide+for+Lightning-EN)
+>* [ Instructies in Japans ](assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
