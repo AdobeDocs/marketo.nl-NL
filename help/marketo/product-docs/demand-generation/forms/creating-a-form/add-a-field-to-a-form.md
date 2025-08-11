@@ -4,28 +4,32 @@ description: Een veld toevoegen aan een formulier - Marketo Docs - Productdocume
 title: Een veld toevoegen aan een formulier
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # Een veld toevoegen aan een formulier {#add-a-field-to-a-form}
 
-Zodra u uw vorm [ hebt gecreeerd en ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) geselecteerd een thema [, kunt u extra gebieden voor mensen willen toevoegen om uit te vullen. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) Zo gaat het.
+Zodra u uw vorm [ hebt gecreeerd en ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} geselecteerd een thema [, kunt u extra gebieden voor mensen willen toevoegen om uit te vullen. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-a-field-to-a-form-1.png)
 
-1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
+1. Selecteer het formulier en klik op **[!UICONTROL Edit Draft]**
 
-   ![](assets/editform-1.png)
+   ![](assets/add-a-field-to-a-form-2.png)
 
-1. Klik op het **+** -teken.
+   >[!NOTE]
+   >
+   >Als de gewenste vorm in de _Goedgekeurde_ staat is, moet u **eerst klikken creeer Ontwerp**.
 
-   ![](assets/image2014-9-15-17-18-17.png)
+1. Klik in het formulier op het **+** -teken.
+
+   ![](assets/add-a-field-to-a-form-3.png)
 
    >[!NOTE]
    >
@@ -33,18 +37,20 @@ Zodra u uw vorm [ hebt gecreeerd en ](/help/marketo/product-docs/demand-generati
 
 1. Zoek en selecteer het veld dat u aan het formulier wilt toevoegen.
 
-   ![](assets/image2014-9-15-17-3a18-3a26.png)
+   ![](assets/add-a-field-to-a-form-4.png)
 
 1. Voeg zoveel velden toe als u nodig hebt en klik op **[!UICONTROL Finish]** .
 
-   ![](assets/image2014-9-15-17-3a18-3a35.png)
+   ![](assets/add-a-field-to-a-form-5.png)
 
-1. Klik nu op **[!UICONTROL Approve and Close]** .
+1. Klik op **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a18-3a43.png)
+   ![](assets/add-a-field-to-a-form-6.png)
 
 >[!NOTE]
 >
 >Vergeet niet alle concepten van de bestemmingspagina goed te keuren die zijn gemaakt als gevolg van de wijzigingen in het formulier.
 
-Helemaal niet slecht. Houd het goede werk bij! Hoe te leren wij hoe te [ een vormgebied te maken vereist ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) daarna?
+>[!MORELIKETHIS]
+>
+>[ maak een vormgebied vereist ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
