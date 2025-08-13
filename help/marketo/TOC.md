@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 1cfb28f47ba3c168292b298e1fc7ab2ff638b412
+source-git-commit: 5ec9477573128617445ce86163001c7b71980b8c
 workflow-type: tm+mt
 source-wordcount: '9296'
 ht-degree: 0%
@@ -1030,7 +1030,7 @@ ht-degree: 0%
          + [E-mailontwerp](product-docs/email-marketing/email-designer/email-authoring.md)
          + [E-mailsjabloonontwerp](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Aangepaste CSS](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Brand Kit](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [Merkthema&#39;s](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Merk toepassen](product-docs/email-marketing/email-designer/apply-brand.md)
          + [E-mailrendering testen met Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
