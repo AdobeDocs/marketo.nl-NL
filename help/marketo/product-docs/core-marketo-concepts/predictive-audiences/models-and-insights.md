@@ -3,9 +3,9 @@ description: Modellen en inzichten - Marketo Docs - Productdocumentatie
 title: Modellen en inzichten
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 785f7ce976e96deaef37e197f6ba772b477aa81c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,14 @@ De prestaties van uw modellen zijn afhankelijk van de kwaliteit en volledigheid 
 
 Hier is hoe je je modelgezondheid kunt beoordelen.
 
-Ga naar de **[!UICONTROL Models and Data Health]** deel onder **[!UICONTROL Predictive Audiences]** in de **[!UICONTROL Admin]** Marketo Engage. Hier zie je al je modellen en hun status.
+Navigeer naar de sectie **[!UICONTROL Models and Data Health]** onder **[!UICONTROL Predictive Audiences]** in het gebied **[!UICONTROL Admin]** van Marketo Engage. Hier zie je al je modellen en hun status.
 
-![Afbeelding één](assets/models-and-insights-1.png)
+![ Beeld Één ](assets/models-and-insights-1.png)
 
-* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Alle modellen die _Verwerking_ kan tot 24 uur duren om af te maken. Voor alle _Mislukt_ modellen, neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
-* **Scorestatus**: Geeft aan of uw model voorspellingen (waarschijnlijkheidspercentages) voor programmaleden actief berekent.
-* **Prestaties**: Indeling van de modelgezondheid op basis van de volledigheid van de gegevens en de gegevenskwaliteit (zie hieronder).
-* **Volledigheid van gegevens**: Percentage gegevenskenmerken die aanwezig/voltooid zijn.
-* **Gegevenskwaliteit**: Percentage kenmerken die goede, bruikbare gegevens bevatten.
+* **de Status van de Opleiding**: Wijst erop of uw model actief opleiding (het verbeteren van voorspellingen) is. De training wordt automatisch elke twee weken gegeven. Om het even welke modellen die _Verwerking_ zijn zouden tot 24 uren kunnen vergen om te beëindigen. Voor om het even welke _Ontbroken_ modellen, gelieve [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} te contacteren.
+* **het Scoreren Status**: Wijst erop of uw model actief voorspellingen (waarschijnlijkheidspercentages) voor programmaleden berekent.
+* **Prestaties**: Categorisatie van uw modelgezondheid die op de Voltooiing van Gegevens en Kwaliteit van Gegevens wordt gebaseerd (zie hieronder).
+* **Voltooiing van Gegevens**: Percentage gegevensattributen die aanwezig/volledig zijn.
+* **Kwaliteit van Gegevens**: Percentage attributen die goede, bruikbare gegevens bevatten.
+
+* **Laatste Getraind**: De datum van het model dat het beste uit de evaluatie tussen het huidige model tegenover het nieuwe model is dat om de twee weken wordt getraind.
