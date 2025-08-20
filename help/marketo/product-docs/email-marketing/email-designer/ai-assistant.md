@@ -1,27 +1,27 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: De AI-assistent gebruiken
+title: AI-assistent gebruiken
 description: Gebruik Adobe generatieve AI-technologie om handige tekst en/of afbeeldingen aan uw e-mails toe te voegen.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
 
-# De AI-assistent gebruiken {#use-the-ai-assistant}
+# AI-assistent gebruiken {#use-ai-assistant}
 
-Met de AI Assistant in de Marketo Engage Email Designer kunt u hedendaagse, krachtige en intuïtieve e-mails maken. Dit wordt bereikt door middel van Adobe-generatieve AI-technologie en snelle bibliotheek, samen met Firefly voor het genereren van beelden, die helpen bij het creëren van geschikte inhoud voor een bepaalde groep personen/inkoopgroepen, de fase van de marketingreis, de communicatiestrategie, de toon, enz. U kunt ook speciale merkmiddelen gebruiken om inhoud te maken.
+Met AI Assistant in de Marketo Engage Email Designer kunt u hedendaagse, krachtige en intuïtieve e-mails maken. Dit wordt bereikt door middel van Adobe-generatieve AI-technologie en snelle bibliotheek, samen met Firefly voor het genereren van beelden, die helpen bij het creëren van geschikte inhoud voor een bepaalde groep personen/inkoopgroepen, de fase van de marketingreis, de communicatiestrategie, de toon, enz. U kunt ook speciale merkmiddelen gebruiken om inhoud te maken.
 
 >[!PREREQUISITES]
 >
->De AI-assistent is niet standaard ingeschakeld. U moet eerst akkoord gaan met de Core Gen-AI-termen en de aanvullende voorwaarden voor het gebruik van de Gen-AI-functionaliteit in de e-mailtoepassing van de Designer. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+>AI Assistant is niet standaard ingeschakeld. U moet eerst akkoord gaan met de Core Gen-AI-termen en de aanvullende voorwaarden voor het gebruik van de Gen-AI-functionaliteit in de e-mailtoepassing van de Designer. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-Voor de AI Assistant zijn er drie hoofdgebruikscenario&#39;s:
+Er zijn drie hoofdgebruikscenario&#39;s voor AI Assistant:
 
 * [ creeer een onderwerpregel ](#create-a-subject-line) voor uw e-mail
 * [ creeer inhoud voor een specifieke sectie ](#create-content-for-a-specific-section) van uw e-mail
@@ -37,7 +37,7 @@ Nadat e-mail is gecreeerd, is de onderwerpregel in de _kolom van Details_ op het
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Laat de **optie van de verwijzingsinhoud van het Gebruik** voor de Medewerker AI toe om nieuwe inhoud te personaliseren die op de geselecteerde inhoud wordt gebaseerd.
+Laat de **optie van de verwijzingsinhoud van het Gebruik** voor AI Medewerker toe om nieuwe inhoud te personaliseren die op de geselecteerde inhoud wordt gebaseerd.
 
 Voer de vraag in om de onderwerpregel aan te passen. Voer relevante tekstinstellingen in en upload eventuele merkelementen die u als referentie wilt gebruiken om een geschikte onderwerpregel te maken.
 
@@ -93,7 +93,7 @@ Nadat u de e-mail hebt gemaakt, kunt u bepaalde secties, afbeeldingen of tekst w
 
 ![](assets/use-the-ai-assistant-7.png)
 
-In dit voorbeeld gebruiken we een gezondheidszorgsjabloon. Als het bestaande beeld van de gezondheidsdeskundige niet aan uw behoeften voldoet, kunt u de AI medewerker opdragen om zijn eigen beeld van een gezondheidsdeskundige te creëren. Selecteer de afbeeldingsinhoud en klik op de AI-assistent.
+In dit voorbeeld gebruiken we een gezondheidszorgsjabloon. Als het bestaande beeld van de gezondheidsdeskundige niet aan uw behoeften voldoet, kunt u AI medewerker opdragen om zijn eigen beeld van een gezondheidsdeskundige te creëren. Selecteer de afbeeldingsinhoud en klik op AI-assistent.
 
 ![](assets/use-the-ai-assistant-8.png)
 

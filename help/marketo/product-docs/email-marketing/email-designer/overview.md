@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ De e-mail Designer is de nieuwste innovatie in Marketo Engage die is bedoeld om 
 
 ## Toegang krijgen {#how-to-access}
 
-+++Meer informatie over toegang tot de e-mail-Designer
++++Leer hoe u toegang krijgt tot de e-mail-Designer
 
-Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
@@ -58,7 +58,7 @@ Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo 
 
 * [ geeft Beelden met Adobe Express ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"} uit: Leer hoe te om beelden in de E-mailredacteur van Adobe Marketo Engage uit te geven gebruikend Adobe Express.
 
-* [ Gebruik de Medewerker AI ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: De generatieve AI technologie van Adobe van de hefboomwerking om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
+* [ Medewerker van het Gebruik AI ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Hefboomwerking generatieve AI technologie van Adobe om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
 
 * [ de inhoud van het Slot in e-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Leer hoe te om inhoud in e-mailmalplaatjes te sluiten, die helpen onopzettelijke uitgeeft of schrappingen verhinderen.
 
