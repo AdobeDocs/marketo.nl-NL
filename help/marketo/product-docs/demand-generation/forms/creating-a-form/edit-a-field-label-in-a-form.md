@@ -4,9 +4,9 @@ description: Een veldlabel bewerken in een formulier - Marketo Docs - Productdoc
 title: Een veldlabel bewerken in een formulier
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
+source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ U kunt het label op een formulier wijzigen in Alles. U kunt zelfs een afbeelding
 
    >[!NOTE]
    >
-   >Als uw vorm nog niet wordt goedgekeurd, klik **ontwerp** uitgeven.
+   >Als uw vorm niet wordt goedgekeurd, klik **ontwerp** uitgeven.
 
 1. Selecteer uw veld en bewerk vervolgens de **[!UICONTROL Label]** . De velden in Formulierinstellingen komen overeen met de ingevoerde labels.
 
