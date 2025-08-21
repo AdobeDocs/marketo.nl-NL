@@ -3,7 +3,7 @@ description: Aanbevolen procedures voor interactieve webinars - Marketo Docs - P
 title: Beste praktijken voor Interactieve Webinars
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cf840cee3be4ee6bb9effca6e85dfa2200153e62
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bij het runnen van virtuele gebeurtenissen, of gericht op een klein of groot publiek, is het kritiek dat de dingen zoals gepland gaan. Met verschillende stappen die nodig zijn om een gebeurtenis te plannen en uit te voeren, van voorbereiding, bevordering, levering, en follow-up, kan het soms als veel voelen.
 
-Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in planning, het ontwerpen, en het produceren van succesvolle en het betreden van webinars kunnen helpen. Deze tips helpen u de nesten uit interactieve webinars die door Adobe Connect worden aangedreven.
+Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in planning, het ontwerpen, en het produceren van succesvolle en het betreden van webinars kunnen helpen. Deze tips helpen u optimaal te profiteren van interactieve webinars die door Adobe Connect worden aangedreven.
 
 ## Voorbereiding van de gebeurtenis {#pre-event-preparation}
 
@@ -85,7 +85,7 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * **Pod Vragen en antwoorden**: De naam van deelnemer die de vraag en de naam van de gastheer/presentator indiende die antwoordde kan allebei worden verborgen. Dit kan worden bereikt door de privacyopties uit te schakelen onder de sectie &quot;Pod Vragen en antwoorden&quot; in de voorkeuren voor Ruimte.
 
-* **het Comité van het Praatje**: Het Comité van het Praatje is een praatjegebied dat geen deel van zittingsopnamen uitmaakt. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. [ klik hier ](https://helpx.adobe.com/nl/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om meer over het gebruiken van het Comité van het Praatje te lezen.
+* **het Comité van het Praatje**: Het Comité van het Praatje is een praatjegebied dat geen deel van zittingsopnamen uitmaakt. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. [ klik hier ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om meer over het gebruiken van het Comité van het Praatje te lezen.
 
 * **Privé Chat**: Draai van privé praatje om deelnemers te verhinderen een andere deelnemer te kunnen pingelen. Dit kan worden bereikt door de optie &quot;Deelnemers toestaan privéchatten&quot; uit te schakelen onder de sectie &quot;Chat&quot; in de voorkeuren voor Ruimte.
 
