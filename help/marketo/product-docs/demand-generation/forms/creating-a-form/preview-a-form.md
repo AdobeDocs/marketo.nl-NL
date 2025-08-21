@@ -4,9 +4,9 @@ description: Een voorbeeld van een formulier bekijken - Marketo Docs - Productdo
 title: Een voorbeeld van een formulier bekijken
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -17,26 +17,24 @@ Voordat u publiceert, kunt u het formulier bekijken in deze snelle en eenvoudige
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
-   ![](assets/login-marketing-activities-6.png)
+   ![](assets/preview-a-form-1.png)
 
-1. Zoek en selecteer het formulier.
+1. Selecteer het formulier en klik op **[!UICONTROL Preview]** .
 
-   ![](assets/image2014-9-15-17-3a45-3a51.png)
+   ![](assets/preview-a-form-2.png)
 
-1. Klik onder **[!UICONTROL Form Actions]** op **[!UICONTROL Preview]** .
+   >[!NOTE]
+   >
+   >Als uw vorm niet wordt goedgekeurd, klik **het ontwerp van de Voorproef**.
 
-   ![](assets/image2014-9-15-17-3a46-3a9.png)
+1. De vormredacteur zal op _voorproef_ wijze openen.
 
-1. De formuliereditor wordt geopend in de modus **[!UICONTROL preview]** .
+   ![](assets/preview-a-form-3.png)
 
-   ![](assets/image2014-9-15-17-3a46-3a17.png)
+1. Klik **[!UICONTROL Edit Draft]** om terug naar _te gaan geef_ wijze uit.
 
-1. Klik op **[!UICONTROL Edit Draft]** om terug te keren naar de modus **[!UICONTROL edit]** .
-
-   ![](assets/image2014-9-15-17-3a46-3a37.png)
+   ![](assets/preview-a-form-4.png)
 
 1. Ga eenvoudig terug door op **[!UICONTROL Preview Draft]** te klikken.
 
-   ![](assets/image2014-9-15-17-3a46-3a45.png)
-
-Was dat niet makkelijk? Nu weet u hoe u een voorbeeld van het formulier kunt bekijken terwijl u wijzigingen aanbrengt.
+   ![](assets/preview-a-form-5.png)
