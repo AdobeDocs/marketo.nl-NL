@@ -1,16 +1,14 @@
 ---
 title: GenStudio-integratie voor Marketo Engage
 description: Leer hoe u GenStudio in Marketo Engage kunt gebruiken.
-hide: true
-hidefromtoc: true
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -19,9 +17,16 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing is een generatieve AI-First-toepassing waarmee u uw eigen advertenties en e-mails kunt maken om onhandige, gepersonaliseerde marketingcampagnes te voeren die aan uw merkstandaarden voldoen en aan uw bedrijfsbeleid voldoen. Het biedt een groot aantal gereedschappen die de complexiteit van het maken van inhoud vereenvoudigen.
 
+>[!AVAILABILITY]
+>
+>Voor het benutten van deze functie:
+>
+>* Uw IMS org moet zijn ingericht met GenStudio for Performance Marketing op dezelfde IMS org als Marketo Engage (neem voor meer informatie contact op met uw accountmanager)
+>* U moet een gebruikersrecht op GenStudio for Performance Marketing hebben (Systeembeheer, Editor of productprofiel voor medewerkers)
+
 >[!INFO]
 >
->Leer meer over [ GenStudio for Performance Marketing ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
+>Leer meer over [ GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
 
 ## GenStudio Capabilities in Marketo Engage benutten {#leverage-genstudio-capabilities}
 
@@ -37,9 +42,9 @@ Exporteer eenvoudig een sjabloon met de richtlijnen van je merk naar GenStudio f
 
    ![ het Exporteren van uw HTML ](assets/genstudio-integration-1.png)
 
-1. [ upload het HTML ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} uitgevoerde malplaatje in GenStudio for Performance Marketing.
+1. [ upload het HTML ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"} uitgevoerde malplaatje in GenStudio for Performance Marketing.
 
-1. In GenStudio, gebruik dit malplaatje om [ verscheidene e-mailvariaties ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} met AI herinneringen tot stand te brengen en hen te bewaren.
+1. In GenStudio, gebruik dit malplaatje om [ verscheidene e-mailvariaties ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"} met AI herinneringen tot stand te brengen en hen te bewaren.
 
 ## GenStudio-ervaringen in Marketo Engage benutten {#leverage-genstudio-experiences}
 
