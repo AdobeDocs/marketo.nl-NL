@@ -3,9 +3,9 @@ description: Adobe IMS-handleiding voor het oplossen van problemen bij gebruiker
 title: Adobe IMS-handleiding voor het oplossen van problemen met gebruikersmigratie
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Gebruik de sectie &quot;Op deze pagina&quot; aan de rechterkant om rechtstreeks 
 
 _als de gebruiker moet worden gemigreerd_ - het e-mailadres moet in Marketo Engage worden bijgewerkt om aan het veiligheidsbeleid van Adobe te voldoen en opnieuw geverifieerd. Marketo-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Gebruiker niet in directory {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Eng
 
 _als de gebruiker moet worden gemigreerd_ - de gebruiker moet aan de Actieve Folder met juiste toestemmingen door een systeembeheerder worden toegevoegd. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Inactieve gebruiker {#inactive-user}
 
@@ -54,7 +54,7 @@ _als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Eng
 
 _als de gebruiker moet worden gemigreerd_ - de status van de gebruiker en de juiste toestemmingen moeten door een systeembeheerder worden hersteld. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Ongeldig domein {#invalid-domain}
 
@@ -62,11 +62,11 @@ _als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Eng
 
 **Resoluties**:
 
-_als de gebruiker moet worden gemigreerd_ (en de domeinhandhaving wordt toegelaten in migrerende org) - het e-mailadres moet in Marketo Engage worden bijgewerkt om aan het beleid van de Handhaving van het Domein (DE) te voldoen. Alternatief, kan Admin van het Systeem of [ het domein ](https://helpx.adobe.com/nl/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} aan een andere gehandicapte folder van de Handhaving van het Domein bewegen (DE), of [ een nieuwe folder ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"} creëren die niet onder het beleid van DE is. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
+_als de gebruiker moet worden gemigreerd_ (en de domeinhandhaving wordt toegelaten in migrerende org) - het e-mailadres moet in Marketo Engage worden bijgewerkt om aan het beleid van de Handhaving van het Domein (DE) te voldoen. Alternatief, kan Admin van het Systeem of [ het domein ](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} aan een andere gehandicapte folder van de Handhaving van het Domein bewegen (DE), of [ een nieuwe folder ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"} creëren die niet onder het beleid van DE is. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
 _als de gebruiker moet worden gemigreerd_ (en de domeinhandhaving wordt toegelaten in een andere org) - een systeembeheerder van org waar het domein is geclaimd moet het e-mailadres van de gebruiker aan de uitzonderingslijst toevoegen. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Type2E-fout {#type2e-failure}
 
@@ -78,15 +78,42 @@ _als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Eng
 1. Voer de gebruikersmigratie opnieuw uit, zodat er voor deze gebruiker een gefedereerde gebruikersaccount wordt gemaakt.
 1. Voeg de gebruiker terug aan de producten zij eerder toegang tot hadden.
 
+### Pendo-migratie mislukt {#pendo-migration-failed}
+
+**de oorzaak van de Wortel**: De gefedereerde rekening van de gebruiker is of inactief/gehandicapt of mist van Actieve Folder (AD).
+
+**Resoluties**:
+
+_als de gebruiker moet worden gemigreerd_
+
+1. Een systeembeheerder moet de de rekeningsstatus en toestemmingen van de gebruiker herstellen.
+
+1. Voor SSO-organisaties met AD-sync:
+
+   * Maak de gebruiker via Identity Provider (IdP).
+   * Gebruikersgegevens synchroniseren met AD.
+
+1. Voor organisaties zonder SSO/AD-sync:
+
+   * Maak de beheerde account opnieuw om de status te herstellen.
+   * Org admin moet rollen en toestemmingen opnieuw toewijzen.
+
+1. Marketo Engage Admin voert de migratie opnieuw uit in de migratieconsole.
+
+1. Als de console ontoegankelijk is, contacteer [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) om de migratie opnieuw uit te voeren.
+
+_als de gebruiker ****niet moet worden gemigreerd_
+
+* De Marketo Engage-beheerder moet de gebruiker in de migratieconsole overslaan.
+* Nadat alle gebruikers zijn gemigreerd of overgeslagen, klikt u op **[!UICONTROL Migration Complete]** om te voltooien.
+* Als de fout voortduurt, voorlegt een steungeval met relevante details aan [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support).
+
+
 ### Maken van gebruiker mislukt {#user-creation-failed}
 
 [Zie hieronder](#failed)
 
 ### Marketo Entitlement Failed {#marketo-entitlement-failed}
-
-[Zie hieronder](#failed)
-
-### Pendo-migratie mislukt {#pendo-migration-failed}
 
 [Zie hieronder](#failed)
 
