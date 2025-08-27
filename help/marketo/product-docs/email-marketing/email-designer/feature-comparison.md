@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -259,11 +259,11 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Snelheidsscripts</td>
     <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
     <td>Beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
+    <td>Niet nodig</td>
   </tr>
   <tr>
-    <td>Brand Kit</td>
-    <td>Mogelijkheid om e-mails te verbeteren overeenkomstig de richtlijnen voor merknamen.</td>
+    <td>Handlebar Scripting</td>
+    <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
     <td>Niet beschikbaar</td>
     <td>Gepland voor het derde kwartaal van 2015</td>
   </tr>
@@ -272,6 +272,12 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Mogelijkheid om goedkeuringswerkstromen voor e-mails in Marketo Engage in te voeren.</td>
     <td>Niet beschikbaar</td>
     <td>Gepland voor het vierde kwartaal van 2025</td>
+  </tr>
+  <tr>
+    <td>Brand Kit</td>
+    <td>Mogelijkheid om e-mails te verbeteren overeenkomstig de richtlijnen voor merknamen.</td>
+    <td>Niet beschikbaar</td>
+    <td>Gepland voor het eerste kwartaal '26</td>
   </tr>
   <tr>
     <td>Experimentatie (A/B-test)</td>
