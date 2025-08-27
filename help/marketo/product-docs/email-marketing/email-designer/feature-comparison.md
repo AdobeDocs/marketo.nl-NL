@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -177,6 +177,17 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Capaciteit om <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank"> met Litmus </a> te integreren om te zien hoe uw e-mails in verschillende e-mailcliënten zullen teruggeven.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
+    <tr>
+    <td>Integratie met GenStudio</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md"> met GenStudio </a> te integreren.</td>
+    <td>Niet beschikbaar</td>
+    <td>Beschikbaar</td>
+  </tr>
+  <tr>
+    <td>Integratie van Spam Assassin</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md"> potentieel van e-mails te ontdekken die duidelijk als Spam </a> vóór levering worden.</td>
+    <td>Niet beschikbaar</td>
+    <td>Beschikbaar</td>
   </tr>
   <tr>
     <td>Personalization Editor</td>
@@ -227,12 +238,6 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
-    <td>Integratie met Gen Studio</td>
-    <td>Vermogen om met Gen Studio te integreren.</td>
-    <td>Niet beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
-  </tr>
-  <tr>
     <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailmiddelen</td>
     <td>Mogelijkheid om e-mailprogramma's samen met e-mailmiddelen te verplaatsen, te verwijderen en te importeren.</td>
     <td>Beschikbaar</td>
@@ -254,23 +259,11 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Snelheidsscripts</td>
     <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
     <td>Beschikbaar</td>
-    <td>Niet nodig</td>
-  </tr>
-   <tr>
-    <td>Handlebar Scripting</td>
-    <td>Mogelijkheid om Handlebar-scripts te gebruiken in e-mails.</td>
-    <td>Niet beschikbaar</td>
-    <td>Gepland voor het derde kwartaal van 2015</td>
+    <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
     <td>Brand Kit</td>
     <td>Mogelijkheid om e-mails te verbeteren overeenkomstig de richtlijnen voor merknamen.</td>
-    <td>Niet beschikbaar</td>
-    <td>Gepland voor het derde kwartaal van 2015</td>
-  </tr>
-  <tr>
-    <td>Integratie van Spam Assassin</td>
-    <td>Mogelijkheid om potentiële e-mails te detecteren die vóór levering als spam zijn gemarkeerd.</td>
     <td>Niet beschikbaar</td>
     <td>Gepland voor het derde kwartaal van 2015</td>
   </tr>
