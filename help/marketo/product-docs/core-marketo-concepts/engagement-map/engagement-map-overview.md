@@ -2,9 +2,9 @@
 description: Overzicht van de betrokkenheidskaart - Marketo Docs - Productdocumentatie
 title: Overzicht van de betrokkenheidskaart
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,17 @@ Navigeer aan om het even welke bestaande campagne en klik de **knoop van de Kaar
 
 ![](assets/engagement-map-overview-2.png)
 
-Zodra in de Kaart van de Betrokkenheid, zult u twee lusjes zien: [ de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} en [ Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In de Kaart van de Betrokkenheid, zijn er twee lusjes: [ de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} en [ Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Kaartbeschrijvingen {#card-descriptions}
 
-**Trekkers**: In campagnes die trekkers omvatten, zal de kaart een kaart van het &quot;Overzicht van de Trekker&quot;hebben. Als u op deze optie klikt, wordt een kaart voor elke trigger en een uitschuifvenster met aanvullende informatie weergegeven.
+**Trekkers**: In campagnes die trekkers omvatten, heeft de kaart een &quot;kaart van het Overzicht van de Trekker&quot;kaart. Als u op deze optie klikt, wordt een kaart voor elke trigger en een uitschuifvenster met aanvullende informatie weergegeven.
 
-**Filters**: In campagnes die filters omvatten, zal de kaart een kaart van het Overzicht van de Filter bevatten. Als u erop klikt, wordt een uitschuifvenster weergegeven met aanvullende informatie over elk filter.
+**Filters**: In campagnes die filters omvatten, bevat de kaart een kaart van het Overzicht van de Filter. Als u erop klikt, wordt een deelvenster met uitschuifbare informatie over elk filter weergegeven.
 
-**Stappen van de Stroom**: Elke campagne zal een kaart voor elke stroomstap omvatten. Als u hierop klikt, wordt een venster met uitschuifbare informatie weergegeven.
+**Stappen van de Stroom**: Elke campagne omvat een kaart voor elke stroomstap. Als u hierop klikt, wordt een venster met uitschuifbare informatie weergegeven.
 
 **Keuzen**: Als een stroomstap één of meerdere keuzen omvat, zal het klikken op de debietkaart een kaart voor elke keus, evenals een dia-uit paneel met extra informatie openbaren.
 
@@ -43,7 +43,7 @@ Zodra in de Kaart van de Betrokkenheid, zult u twee lusjes zien: [ de Kaart van 
 
 * Als een campagne een verzoek bevat of de stap Campagne uitvoeren, kunt u op de flowkaart klikken om details van de aangeroepen campagne en een deelvenster met uitschuifbare informatie weer te geven.
 
-* Als een campagne een verzoek bevat of Campagne uitvoeren stap met keuzen uitvoert, zal het klikken op de debietkaart een kaart voor elke keus, evenals een diapaneel met meer informatie over de keuzen tonen. Als u op elke keuzekaart klikt, worden de details van de campagne weergegeven en ziet u een deelvenster met uitschuifbare informatie.
+* Als een campagne een verzoek bevat of Campagne uitvoeren stap met keuzen uitvoert, zal het klikken op de debietkaart een kaart voor elke keus, evenals een diapaneel met meer informatie over de keuzen tonen. Als u op elke keuzerondje klikt, ziet u meer informatie over de campagne die wordt aangeroepen en een deelvenster voor uitschuivingen.
 
 * Als een of meer geneste campagnes een verzoek hebben of Campagne uitvoeren-flowstap uitvoeren, worden bovendien details van de campagne weergegeven wanneer u op de flowkaart klikt. Hetzelfde geldt wanneer de flowstap keuzen bevat.
 
@@ -57,11 +57,11 @@ De top nav bevat de volgende functies:
 
 * Knop Activeren/Deactiveren voor triggercampagnes
 
-* Slimme lijst bewerken - u gaat naar de interface Slimme lijst op een nieuw tabblad waar u filters en/of triggers kunt toevoegen of bewerken
+* Slimme lijst bewerken - U gaat naar de interface Slimme lijst op een nieuw tabblad waar u filters en/of triggers kunt toevoegen of bewerken
 
 * Stroom bewerken - u gaat naar de Flow-interface op een nieuw tabblad waar u de Stroom kunt toevoegen of bewerken
 
-* Exporteren - Hiermee wordt een afbeelding van de visualisatie van de campagne gedownload. De gedownloade versie weerspiegelt alle vertakkingen die u hebt uitgebreid
+* Exporteren - hiermee wordt een afbeelding van de campagnevisualisatie gedownload. De gedownloade versie weerspiegelt alle vertakkingen die u hebt uitgebreid
 
 * Campagneleden weergeven - Hiermee wordt een nieuw tabblad geopend met de details van het campagnerLid.
 

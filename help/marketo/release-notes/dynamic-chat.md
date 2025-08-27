@@ -3,9 +3,9 @@ description: Aanvullende informatie voor Dynamic Chat - Documentatie voor Market
 title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '3408'
+source-wordcount: '3414'
 ht-degree: 1%
 
 ---
@@ -104,7 +104,7 @@ De ronde reserve van Robin wordt slechts overwogen wanneer geen in aanmerking ko
 
 <p>
 
-_&#x200B;**Verpletterende Rekening**&#x200B;_
+_**Verpletterende Rekening**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Verpletterende Rekening**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Douane Verpletterend**&#x200B;_
+_**Douane Verpletterend**_
 
 <table><thead>
   <tr>
@@ -152,11 +152,11 @@ _&#x200B;**Douane Verpletterend**&#x200B;_
   <tr>
     <td>Geen valagent</td>
     <td>Twee agenten opgelost; noch keurt praatje goed, reserve die aan vergaderingskalender wordt geplaatst.</td>
-    <td>De agenda van de eerste beproefde agent wordt getoond of het standaardreservebericht wordt getoond.</td>
+    <td>De eerste uitgeprobeerde kalender van de agent wordt getoond of het standaardreservebericht wordt getoond.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Team dat**&#x200B;_ verplettert
+_**Team dat**_ verplettert
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Team dat**&#x200B;_ verplettert
   </tr>
 </tbody></table>
 
-_&#x200B;**Rond Robin die**&#x200B;_ verplettert
+_**Rond Robin die**_ verplettert
 
 <table><thead>
   <tr>
@@ -344,7 +344,7 @@ Dus wanneer een bezoeker met cookie abc op een pagina landt en een e-mailadres o
     <td>Bekende persoon</td>
     <td>xyz</td>
     <td>Verschil met bestaande persoon</td>
-    <td>dit scenario is niet mogelijk alsof het een nieuwe cookie is van   standaard beschouwd als nieuw anoniem profiel</td>
+    <td>dit scenario is niet mogelijk alsof het een nieuwe cookie is van   standaard beschouwd als een nieuw anoniem profiel</td>
   </tr>
 </tbody></table>
 

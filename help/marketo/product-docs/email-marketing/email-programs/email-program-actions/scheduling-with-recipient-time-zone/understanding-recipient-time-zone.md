@@ -4,16 +4,16 @@ description: Begrijpen van tijdzone voor ontvangers - Marketo Docs - Productdocu
 title: Tijdzone van ontvanger
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # Tijdzone van ontvanger {#understanding-recipient-time-zone}
 
-E-mail- en betrokkenheidsprogramma&#39;s kunnen zo worden geconfigureerd dat ze worden afgeleverd volgens de tijdzones van de ontvangers, zodat er geen meerdere programma&#39;s hoeven te worden gemaakt—en Marketo houdt de e-mail automatisch bij tot de juiste lokale tijd.
+E-mail- en betrokkenheidsprogramma&#39;s kunnen zo worden geconfigureerd dat ze worden geleverd volgens de tijdzones van de ontvangers, zodat er geen meerdere programma&#39;s hoeven te worden gemaakt—en Marketo houdt de e-mail automatisch bij tot de juiste lokale tijd.
 
 >[!NOTE]
 >
@@ -24,13 +24,13 @@ E-mail- en betrokkenheidsprogramma&#39;s kunnen zo worden geconfigureerd dat ze 
 Er zijn twee primaire scenario&#39;s wanneer [ plannend een e-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md):
 
 1. Het programma wordt binnen 25 uur uitgevoerd.
-1. Het programma wordt gepland voor meer dan 25 uur in de toekomst (dus volgende week).
+1. Het programma is gepland voor meer dan 25 uur in de toekomst (dus volgende week).
 
-Om elke tijdzone aan te passen, e-mailprogramma&#39;s die met [!UICONTROL Recipient Time Zone] worden gepland beginnen bij middernacht in de **eerste/vroegste** tijdzone in de wereld (UTC +14 :00) lopen.
+Om elke tijdzone aan te passen, e-mailprogramma&#39;s die met [!UICONTROL Recipient Time Zone] worden gepland beginnen bij middernacht in **eerste/vroegste** tijdzone in de wereld (UTC +14 :00).
 
 ## Betrokkenheidsprogramma&#39;s {#engagement-programs}
 
-Wanneer u [ een stroom van het betrokkenheidsprogramma ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) plant en [!UICONTROL Recipient Time Zone] actief is, zal de programmagietvorm beginnen bij middernacht in UTC +14 :00. Wij vereisen u om de eerste gietvorm minstens 25 uren in de toekomst (24 uren + wat tijd te plannen om de campagne te beginnen) te plannen omdat de mensen voor de gietvorm in elke tijdzone over de wereld kunnen kwalificeren. Beginnend verwerking op dit ogenblik in UTC +14 :00 garandeert dat wij e-mail op de geplande datum en de tijd voor elke persoon zullen verzenden die voor deze gietvorm in aanmerking komt.
+Wanneer u [ een stroom van het betrokkenheidsprogramma ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) plant en [!UICONTROL Recipient Time Zone] actief is, begint de programmagietvorm bij middernacht in UTC +14 :00 te lopen. Wij vereisen u om de eerste gietvorm minstens 25 uren in de toekomst (24 uren + wat tijd te plannen om de campagne te beginnen) te plannen omdat de mensen voor de gietvorm in elke tijdzone over de wereld kunnen kwalificeren. Beginnend verwerking op dit ogenblik in UTC +14 :00 garandeert dat e-mail op de geplande datum en de tijd voor elke persoon wordt verzonden die voor deze gietvorm in aanmerking komt.
 
 ## Tijdzone berekenen {#calculating-time-zone}
 

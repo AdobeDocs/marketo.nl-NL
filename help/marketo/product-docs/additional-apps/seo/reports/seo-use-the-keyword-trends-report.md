@@ -4,9 +4,9 @@ description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Docume
 title: SEO - het Rapport van de Trends van het Sleutelwoord gebruiken
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
 ## Rapport laden {#load-report}
 
-1. Ga naar **[!UICONTROL Reports]**.
+1. Ga naar **[!UICONTROL Reports]** .
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Klikken op **[!UICONTROL Keyword Rank Trends]**.
+1. Klik op **[!UICONTROL Keyword Rank Trends]** .
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -50,16 +50,12 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
 ## Gegevens exporteren {#exporting-data}
 
->[!TIP]
->
->U kunt dit rapport naar uw bureaublad exporteren.
-
-1. Klikken **[!UICONTROL Export CSV]** of **[!UICONTROL Export PDF]**.
+1. Klik op **[!UICONTROL Export CSV]** of **[!UICONTROL Export PDF]** .
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Geweldig werk! U kunt ook zien hoe u met uw concurrenten in sleutelwoordrangschikking vergelijkt.
+U kunt ook zien hoe u met uw concurrenten in sleutelwoordrangschikking vergelijkt.
 
-   >[!NOTE]
-   >
-   >[Het rapport Concurrerende KW Rank Trends gebruiken](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[ Gebruikend het Concurrerende KW Rank Rapport van Trends ](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

@@ -4,16 +4,16 @@ description: SEO - Inkomende koppelingen begrijpen - Marketo Docs - Productdocum
 title: SEO - Inkomende koppelingen begrijpen
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
 
-# SEO - Begrijpen [!UICONTROL Inbound Links] {#seo-understanding-inbound-links}
+# SEO - Inzicht in [!UICONTROL Inbound Links] {#seo-understanding-inbound-links}
 
-[!UICONTROL Inbound links] geven aan zoekprogramma&#39;s aan dat uw site het vermelden waard is. Dat is goed!
+[!UICONTROL Inbound links] geeft aan zoekprogramma&#39;s aan dat het de moeite waard is naar uw site te verwijzen.
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -28,8 +28,8 @@ ht-degree: 0%
 | [!UICONTROL Links from my site] | Hiermee geeft u aan of uw site een koppeling naar die URL maakt. |
 | [!UICONTROL PageRank] | Hiermee wordt aangegeven dat de paginagrootte van de URL&#39;s in de zoekopdracht loopt (1 - 10) |
 
-Zoet! Nu u binnenkomende verbindingen begrijpt, kunnen wij meer binnenkomende verbindingsmogelijkheden voor uw plaats voorstellen.
+Nu u binnenkomende verbindingen begrijpt, kunnen wij meer binnenkomende verbindingsmogelijkheden voor uw plaats voorstellen.
 
 >[!MORELIKETHIS]
 >
->[Binnenkomende koppelingssuggesties ophalen](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
+>[ krijgt Binnenkomende Suggesties van de Verbinding ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)

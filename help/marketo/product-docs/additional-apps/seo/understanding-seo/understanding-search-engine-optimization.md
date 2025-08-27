@@ -1,60 +1,60 @@
 ---
 unique-page-id: 2949176
 description: Optimalisatie van zoekprogramma's - Marketo Docs - Productdocumentatie
-title: Optimalisatie van zoekprogramma's begrijpen
+title: Optimalisatie van zoekprogramma's
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-# Optimalisatie van zoekprogramma&#39;s begrijpen {#understanding-search-engine-optimization}
+# Optimalisatie van zoekprogramma&#39;s {#understanding-search-engine-optimization}
 
-SEO (Search Engine Optimization, optimalisatie van zoekprogramma&#39;s) is een verzameling aanbevolen procedures die u helpen uw pagina&#39;s voor mensen te laten verschijnen met zoekprogramma&#39;s. De Marketo SEO-app helpt u bij het verbeteren.
+SEO (Search Engine Optimization, optimalisatie van zoekprogramma&#39;s) is een verzameling aanbevolen procedures die u helpen uw pagina&#39;s voor mensen te laten verschijnen met zoekmachines. De Marketo SEO-app helpt u te verbeteren.
 
 Eerst, zou u de grondbeginselen met deze handige verklarende woordenlijst moeten leren.
 
 ## Woordenlijst SEO {#seo-glossary}
 
-**SEO (Search Engine Optimization)**: Een mengeling strategieën en technieken die worden gebruikt om plaatsverkeer te verhogen door een high-ranking plaatsing in de resultatenpagina&#39;s van de onderzoeksmotor (SERP) te verkrijgen.
+**Optimalisering van de Motor van het Onderzoek (SEO)**: Een mengeling strategieën en technieken die worden gebruikt om plaatsverkeer te verhogen door een hoge plaatsing in de resultatenpagina&#39;s van de onderzoeksmotor (SERP) te verkrijgen.
 
-**Trefwoord**: Een trefwoord is het woord of de woordgroep die mensen typen in zoekprogramma&#39;s zoals Google. [!DNL Yahoo] of [!DNL Bing].
+**Sleutelwoord**: Een sleutelwoord is het woord of de uitdrukking dat de mensen in een onderzoeksmotoren zoals Google, [!DNL Yahoo] of [!DNL Bing] typen.
 
-**Binnenkomende koppelingen**: Koppelingen op andere sites die verkeer naar uw site sturen. Hoe hoger de reputatie van de koppelingssite, hoe waardevoller deze inkomende koppeling is.
+**Binnenkomende Verbindingen**: Verbindingen op andere plaatsen die verkeer aan uw plaats leiden. Hoe hoger de reputatie van de koppelingssite, hoe waardevoller deze inkomende koppeling is.
 
-**SERP-classificatie**: Stands voor resultatenpagina van zoekmachine. Zoekprogramma&#39;s retourneren meerdere pagina&#39;s met resultaten. De SERP-positie is de pagina waarop de koppeling wordt weergegeven. Doorgaans zijn er 10 resultaten per pagina.
+**SERP rangschikkend**: De steunen voor de Resultaatpagina van de Motor van het Onderzoek. Zoekprogramma&#39;s retourneren meerdere pagina&#39;s met resultaten. De SERP-positie is de pagina die uw koppeling weergeeft. Doorgaans zijn er 10 resultaten per pagina.
 
-**Zoekmachineweergave**: De manier waarop een computer van een zoekmachine uw site ziet in tegenstelling tot de manier waarop een mens dat doet.
+**Mening van de Motor van het Onderzoek**: De manier een computer van de onderzoeksmotor uw plaats in tegenstelling tot de manier waarneemt die een mens doet.
 
-**Zoekvoorwaarden voor voettekst**: Algemene trefwoorden die een zeer groot net uitwerpen. Zij vertegenwoordigen ongeveer 19% van alle gebruikte zoektermen.
+**de Termen van het Onderzoek van het Kop van het Vetting**: Algemene sleutelwoorden die een zeer groot net werpen. Zij vertegenwoordigen ongeveer 19% van alle gebruikte zoektermen.
 
-(Voorbeeld: Schoenen)
+(Voorbeeld: presentaties)
 
-**Zoekvoorwaarden in het midden**: Specifieke trefwoorden. Deze vertegenwoordigen ongeveer 11% van alle gebruikte zoektermen.
+**de Duidelijke Termen van het MiddenOnderzoek**: Specifieker sleutelwoorden. Deze vertegenwoordigen ongeveer 11% van alle gebruikte zoektermen.
 
-(Voorbeeld: Presentaties worden uitgevoerd)
+(Voorbeeld: Afbeeldingen worden uitgevoerd)
 
-**Zoektermen op lange afstand**: Superspecifieke trefwoorden. Deze worden ongeveer 70% van de tijd gebruikt.
+**Lange Termen van het Onderzoek van het Lusje**: Super specifieke sleutelwoorden. Deze worden ongeveer 70% van de tijd gebruikt.
 
-(Voorbeeld: Minimale vrouwen met schoenen (9)
+(Voorbeeld: Minimale speelschoenen voor vrouwen, grootte 9)
 
-**Optimalisatiescore**: De optimalisatiescore is een eigen Marketo-score die alle pagina&#39;s op uw site op een schaal van 1 tot 100 meet. Het is gebaseerd op een verzameling van tientallen beste praktijken. Een score van 70 of hoger geeft een site aan die goed is geoptimaliseerd.
+**Score van de Optimalisering**: De Score van de Optimalisering is een merkgebonden score van Marketo die alle pagina&#39;s op uw plaats op een schaal van 1 tot 100 meet. Het is gebaseerd op een verzameling van tientallen beste praktijken. Een score van 70 of hoger geeft een site aan die goed is geoptimaliseerd.
 
-**Optimalisatie op pagina**: Maatregelen die rechtstreeks op uw website zelf kunnen worden genomen om zijn positie op de pagina&#39;s van de onderzoeksmachinesultaten te verbeteren.
+**Optimalisering op pagina**: De maatregelen die direct binnen uw website zelf kunnen worden genomen om zijn positie in de pagina&#39;s van de onderzoeksmachinesultaten te verbeteren.
 
-(Voorbeeld: Trefwoorden worden opgenomen in de koptekst van de pagina)
+(Voorbeeld: Trefwoorden opnemen in de koptekst van de pagina)
 
-**Optimalisatie voor andere pagina&#39;s**: Maatregelen die buiten de eigenlijke website kunnen worden genomen om de positie van de website in de zoekresultaten te verbeteren.
+**Optimalisering buiten pagina**: Maatregelen die buiten de daadwerkelijke website kunnen worden genomen om zijn positie in onderzoeksrangschikkingen te verbeteren.
 
-(Voorbeeld: Het aantal binnenkomende koppelingen van hoogwaardige en betrouwbare sites verhogen)
+(Voorbeeld: Het aantal binnenkomende koppelingen verhogen vanaf sites van hoge kwaliteit en met goede reputatie)
 
 ## Hoe begin ik? {#how-do-i-get-started}
 
-1. Ontwikkel uw strategie met [Trefwoorden](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
-1. Bestaande problemen verhelpen in [Pagina&#39;s begrijpen](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
-1. Vergroot uw bereik met [Inkomende koppelingen begrijpen](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
+1. Ontwikkel uw strategie met [ Begrijpende Sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. Verbeter bestaande kwesties in [ Begrijpend Pagina&#39;s ](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. Breid uw bereik door [ Begrip Binnenkomende Verbindingen ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"} uit
 
 Uw doel is om zo dicht bij de eerste pagina (en het eerste resultaat) voor sleutelwoorden te zijn die voor uw zaken van belang zijn.

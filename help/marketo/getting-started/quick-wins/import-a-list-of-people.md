@@ -4,9 +4,9 @@ description: Een lijst met personen importeren - Marketo Docs - Productdocumenta
 title: Een lijst met personen importeren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
    >
    >* Marketo steunt **niet** e-mailadressen die emojis bevatten.
    >
-   >* Het invoeren van `NULL` waarden via CSV kon een &quot;Waarde van Gegevens van de Verandering&quot;voor numerieke gebieden in het 1&rbrace; activiteitenlogboek van een persoon [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} produceren, _zelfs als de gebieden reeds leeg_ zijn.  Als u om het even welke [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} hebt die de &quot;Gewijzigde&quot;filter van de Waarde van Gegevens of &quot;Veranderingen van de Waarde van Gegevens&quot;gebruiken, kon het mensen ertoe brengen om voor die campagnes te kwalificeren alhoewel het gegeven niet eigenlijk verandert. U kunt [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} gebruiken om ervoor te zorgen niemand voor die campagnes op de invoer kwalificeert.
+   >* Het invoeren van `NULL` waarden via CSV kon een &quot;Waarde van Gegevens van de Verandering&quot;voor numerieke gebieden in het 1} activiteitenlogboek van een persoon [ produceren, ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} zelfs als de gebieden reeds leeg _zijn._ Als u om het even welke [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} hebt die de &quot;Gewijzigde&quot;filter van de Waarde van Gegevens of &quot;Veranderingen van de Waarde van Gegevens&quot;gebruiken, kon het mensen ertoe brengen om voor die campagnes te kwalificeren alhoewel het gegeven niet eigenlijk verandert. U kunt [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} gebruiken om ervoor te zorgen niemand voor die campagnes op de invoer kwalificeert.
 
 ## Stap 2: Een programma maken {#step-create-a-program}
 
@@ -141,6 +141,6 @@ Uw deelnemers aan de beurs zijn nu lid van uw Marketo-programma!
 
 <br> 
 
-[◄ Missie 4: Automatische e-mailrespons](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ Opdracht 4: Automatische e-mailrespons](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Missie 6: Drip, Drip, Nurture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Mission 6: Drip, Drip, Nurture ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

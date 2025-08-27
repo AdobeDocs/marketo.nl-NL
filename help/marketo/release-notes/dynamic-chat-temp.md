@@ -5,9 +5,9 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '924'
 ht-degree: 2%
 
 ---
@@ -28,15 +28,15 @@ Wij hebben de levende praatje verpletterend logica in Dynamic Chat vernieuwd om 
 
 * **tot twee verbindingspogingen per zitting**
 
-   * Het systeem zal proberen om met maximaal twee agenten (hoogstens) te verbinden, maar strikt binnen de primaire verpletterende regel.
+   * Het systeem probeert om met maximaal twee agenten (hoogstens) te verbinden, maar strikt binnen de primaire verpletterende regel.
 
-   * Als een agent beschikbaar is maar niet antwoordt (b.v., leidt of mist de praatje), zal het systeem proberen om met een verschillende agent van de zelfde pool te verbinden.
+   * Als een agent beschikbaar is maar niet antwoordt (bijvoorbeeld, ontleedt of mist de praatje), probeert het systeem om met een verschillende agent van de zelfde pool te verbinden.
 
    * De fallback-logica (zoals Round Robin) wordt alleen geactiveerd als er geen in aanmerking komende agents zijn gevonden tijdens de eerste resolutie, niet om het opnieuw te proberen na een mislukte betrokkenheid.
 
 * **Verpletterend regel-Specifiek Gedrag**
 
-_&#x200B;**Verpletterende Rekening**&#x200B;_
+_**Verpletterende Rekening**_
 
 Als het e-maildomein van een bezoeker wordt toegewezen aan een bekende account, krijgt de toegewezen agent altijd de prioriteit.
 
@@ -46,19 +46,18 @@ Als de agent niet beschikbaar is, het systeem:
 
 * Probeert geen andere agent, zelfs als Round Robin is ingeschakeld als fallback.
 
-* In plaats daarvan:
+In plaats daarvan:
 
-   * Toont de vergaderingskalender van de in kaart gebrachte agent (als toegelaten),
--of-
-   * Hiermee keert u terug naar een standaardbericht (worst case).
+* Toont de vergaderingskalender van de in kaart gebrachte agent (indien toegelaten), of:
+* Hiermee keert u terug naar een standaardbericht (worst case).
 
-De kaart-vlakke verpletterende regel (b.v. Team, Douane) wordt slechts overwogen als het Verpletteren van de Rekening niet in aanmerking komt (geen passend domein of agent).
+De kaart-niveau verpletterende regel (bijvoorbeeld, Team, Douane) wordt slechts overwogen als de Verplettering van de Rekening niet (geen passend domein of agent) in aanmerking komt.
 
-_&#x200B;**Douane/Team die**&#x200B;_ verplettert
+_**Douane/Team die**_ verplettert
 
 Deze regels kunnen meerdere in aanmerking komende agenten teruggeven.
 
-Als de eerste beschikbare agent niet in dienst neemt, zal het systeem één meer agent van de zelfde lijst proberen.
+Als de eerste beschikbare agent niet in dienst neemt, probeert het systeem één meer agent van de zelfde lijst.
 
 Round Robin fallback wordt niet geactiveerd alleen omdat één agent niet reageert.
 
@@ -68,7 +67,7 @@ Als geen van beide agenten aangaat:
 -of-
 * Hiermee geeft u het standaardfallback-bericht weer.
 
-_&#x200B;**Rond Robin die**&#x200B;_ verplettert
+_**Rond Robin die**_ verplettert
 
 Wanneer gebruikt als primaire verpletterende regel, het systeem:
 
@@ -78,7 +77,7 @@ Wanneer gebruikt als primaire verpletterende regel, het systeem:
 
 Als Round Robin wordt gebruikt als fallback, wordt deze alleen geactiveerd als er geen agents zijn gevonden op basis van de primaire regel.
 
-_&#x200B;**de Stroom van de Ervaring van de Bezoeker**&#x200B;_
+_**de Stroom van de Ervaring van de Bezoeker**_
 
 Het systeem controleert of het Verpletteren van de Rekening toepasselijk is.
 
@@ -90,9 +89,9 @@ De kaart-vlakke verpletterende regel (Douane, Team, Ronde Robin) wordt geëvalue
 
 * De in aanmerking komende agenten worden gecontroleerd op beschikbaarheid (toestemmingen, status).
 
-* Het systeem treedt één agent in dienst, en probeert indien nodig, een tweede agent van de zelfde regel.
+* Het systeem verbindt één agent, en probeert indien nodig, een tweede agent van de zelfde regel.
 
-* Als geen betrokkenheid slaagt, wordt fallback-logica toegepast:
+* Als geen betrokkenheid slaagt, wordt de fallback-logica toegepast:
 
    * terugvaldatum kalender (indien ingeschakeld),
 -of-
@@ -102,7 +101,7 @@ De ronde reserve van Robin wordt slechts overwogen wanneer geen in aanmerking ko
 
 ##### Gebruiksscenario’s {#use-cases}
 
-_&#x200B;**Verpletterende Rekening**&#x200B;_
+_**Verpletterende Rekening**_
 
 <table><thead>
   <tr>
@@ -119,16 +118,16 @@ _&#x200B;**Verpletterende Rekening**&#x200B;_
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Toegewezen agent is niet beschikbaar, Round Robin fallback is ingeschakeld</td>
-    <td>Het systeem selecteert één beschikbare agent via Round Robin en verbindt hen </td>
+    <td>Het systeem selecteert één beschikbare agent via Round Robin en gaat deze aan </td>
   </tr>
   <tr>
     <td>Geen valagent</td>
     <td>De toegewezen agent is niet beschikbaar, geen Round Robin fallback; het boeken van de vergadering wordt toegelaten</td>
-    <td>Het systeem toont in kaart gebrachte agentenkalender of toont een standaardreservebericht</td>
+    <td>Het systeem toont de kalender van een in kaart gebrachte agent of toont een standaardreservebericht</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Douane Verpletterend**&#x200B;_
+_**Douane Verpletterend**_
 
 <table><thead>
   <tr>
@@ -144,17 +143,17 @@ _&#x200B;**Douane Verpletterend**&#x200B;_
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
-    <td>De regel van de douane lost geen agenten op, wordt de Round Robin fallback toegelaten.</td>
-    <td>Het systeem selecteert één beschikbare agent via Round Robin en verbindt hen.</td>
+    <td>De regel van de douane lost geen agenten op. Round Robin fallback is ingeschakeld.</td>
+    <td>Het systeem selecteert één beschikbare agent via Round Robin en gaat deze aan.</td>
   </tr>
   <tr>
     <td>Geen valagent</td>
     <td>Twee agenten opgelost; noch keurt praatje goed, reserve die aan vergaderingskalender wordt geplaatst.</td>
-    <td>De agenda van de eerste beproefde agent wordt getoond of het standaardreservebericht wordt getoond.</td>
+    <td>Eerste geprobeerd wordt de kalender van de agent getoond of het standaardreservebericht wordt getoond.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Team dat**&#x200B;_ verplettert
+_**Team dat**_ verplettert
 
 <table><thead>
   <tr>
@@ -171,16 +170,16 @@ _&#x200B;**Team dat**&#x200B;_ verplettert
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Er is geen teamagent beschikbaar en Round Robin fallback is ingeschakeld.</td>
-    <td>Het systeem selecteert en verbindt met één agent van Round Robin pool.</td>
+    <td>Het systeem selecteert en verbindt met één agent van de Round Robin pool.</td>
   </tr>
   <tr>
     <td>Geen valagent</td>
     <td>Twee beschikbare agenten, maar geen van beiden verbindt; de terugval van de kalender toegelaten.</td>
-    <td>Het eerste beproefde kalender van de agent wordt getoond of het reservebericht wordt teweeggebracht.</td>
+    <td>Eerst geprobeerd wordt de kalender van de agent getoond of een reservebericht wordt teweeggebracht.</td>
   </tr>
 </tbody></table>
 
-_&#x200B;**Rond Robin die**&#x200B;_ verplettert
+_**Rond Robin die**_ verplettert
 
 <table><thead>
   <tr>
@@ -191,24 +190,24 @@ _&#x200B;**Rond Robin die**&#x200B;_ verplettert
 <tbody>
   <tr>
     <td>Ideaal</td>
-    <td>Round Robin-pool heeft meerdere agents; de tweede agent accepteert chat nadat dit niet het geval is.</td>
-    <td>Chat verbindt met tweede agent.</td>
+    <td>Round Robin-pool heeft meerdere agents; de tweede agent accepteert chat nadat de eerste niet werkt.</td>
+    <td>Chat maakt verbinding met een tweede agent.</td>
   </tr>
   <tr>
     <td>Fallback (Round Robin)</td>
     <td>Geen agenten beschikbaar in de Ronde Groep van Robin; vergaderingskalender wordt toegelaten.</td>
-    <td>De kalender wordt getoond voor eerste agent in de lijst (indien gevormd), of het terugvalbericht getoond.</td>
+    <td>De kalender wordt getoond voor de eerste agent in de lijst (als gevormd), of het reservebericht wordt getoond.</td>
   </tr>
   <tr>
     <td>Geen valagent</td>
     <td>Geen beschikbare agenten; fallback wordt onbruikbaar gemaakt.</td>
-    <td>Het statische terugvalbericht wordt getoond aan de bezoeker.</td>
+    <td>De bezoeker krijgt een statisch fallback-bericht te zien.</td>
   </tr>
 </tbody></table>
 
 ### Pulsmelding {#pulse-notification}
 
-Wanneer een bezoeker om met een agent verzoekt te verbinden, verstrekken wij in-app, browser bericht aan de agent. Maar soms missen agenten deze chats.
+Wanneer een bezoeker om met een agent verzoekt te verbinden, verstrekken wij een in-app, browser bericht aan de agent. Maar soms missen agenten deze chats.
 
 Met deze release krijgt de live agent een e-mail, Slack, in-app en browsermelding wanneer een nieuwe bezoeker geïnteresseerd is in chatten.
 

@@ -4,22 +4,22 @@ description: Creeer een Filter van de Douane  [!DNL Dynamics]  Synchronisatie - 
 title: Creeer een Filter van de Douane  [!DNL Dynamics]  Synchronisatie
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '746'
 ht-degree: 1%
 
 ---
 
 # Een aangepast [!DNL Dynamics] synchronisatiefilter maken {#create-a-custom-dynamics-sync-filter}
 
-Wilt u niet alles in uw Dynamics CRM synchroniseren naar Marketo Engage? Maak je geen zorgen! Met Marketo kunt u een synchronisatiefilter instellen en slechts een deel van uw records synchroniseren.
+Met Marketo kunt u een synchronisatiefilter instellen en slechts een deel van uw records synchroniseren.
 
 ## Overzicht {#overview}
 
 Een [!DNL Dynamics] -synchronisatiefilter instellen:
 
-1. Creeer een douane twee van Opties (booleaanse) gebied genoemd new_synctomkto in uw Dynamica CRM voor om het even welk voorwerp (lood, contact, rekening, kans en andere douaneentiteiten).
+1. Maak een aangepast veld Twee opties (Boolean) met de naam `new_synctomkto` in de Dynamics CRM voor elk object (lead, contact, account, opportunity en andere aangepaste entiteiten).
 1. Wijs aan dit veld een waarde Ja/Nee toe.
 
 U moet deze veranderingen in Dynamica CRM, niet uw gegevensbestand of Marketo aanbrengen.
@@ -113,7 +113,7 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. **&#x200B;**.
+1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. ****.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
@@ -140,10 +140,6 @@ Hier volgen enkele implementatiedetails die u volgens ons moet weten:
 * Synchronisatiebewerking starten
 
   Wanneer de **SyncToMkto** waarde van **Nr** aan **ja** verandert, [!DNL Dynamics] brengt Marketo onmiddellijk op om dit verslag te beginnen synchroniseren. Als de record al bestaat, wordt deze door Marketo bijgewerkt. Anders maakt Marketo de record.
-
-  >[!TIP]
-  >
-  >Wanneer dit gebeurt, wordt een bewerking `Create [StartSync]` toegevoegd aan het Marketo-logboek.
 
 * Synchronisatiebewerking stoppen
 

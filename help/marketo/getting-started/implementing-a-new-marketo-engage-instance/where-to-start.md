@@ -3,9 +3,9 @@ description: Leer de beste praktijken wanneer het uitvoeren van een nieuw Market
 title: Waar moet worden begonnen?
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Bezoek de [ Gemeenschap van Adobe Marketo Engage ](https://nation.marketo.com/){
 
 Aan de slag in de Gemeenschap:
 
-1. Klik **verdergaan met Adobe ID** en selecteer uw primair abonnement op de login pagina.
+1. Klik op **[!UICONTROL Continue with AdobeID]** en selecteer uw primaire abonnement op de aanmeldingspagina.
 1. Voltooi uw profiel voor de gebruikersgemeenschap wanneer u zich aanmeldt.
 1. Nadat je de informatie hebt verzonden, kun je op de homepage van de gemeenschap landen en goed gaan!

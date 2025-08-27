@@ -3,7 +3,7 @@ description: Stap 1 van 3 - voeg de Gebieden van Marketo aan  [!DNL Veeva]  CRM 
 title: Stap 1 van 3 - voeg de Gebieden van Marketo aan  [!DNL Veeva]  CRM toe
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 1%
@@ -18,9 +18,8 @@ ht-degree: 1%
 
 Marketo Engage gebruikt een set velden om bepaalde soorten marketinggerelateerde informatie vast te leggen. Volg onderstaande instructies als u deze gegevens in [!DNL Veeva] CRM wilt gebruiken.
 
-`1.` Een aangepast veld maken in [!DNL Veeva] CRM op de contactobjecten: score
-
-`2.` U kunt desgewenst aanvullende velden maken (zie de onderstaande tabel).
+1. Een aangepast veld maken in [!DNL Veeva] CRM op de contactobjecten: score
+1. U kunt desgewenst aanvullende velden maken (zie de tabel hieronder).
 
 Al deze aangepaste velden zijn optioneel en zijn niet vereist voor het synchroniseren van Marketo Engage en [!DNL Veeva] CRM.
 
