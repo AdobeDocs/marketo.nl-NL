@@ -3,9 +3,9 @@ description: Groepen beheren - Marketo Docs - Productdocumentatie
 title: Groepen beheren
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
+source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -57,26 +57,6 @@ Leer hoe u uw groepen beheert in [!DNL Sales Insight Actions] .
 
    Dat is het!
 
-## Contactpersonen toevoegen aan een {#add-contacts-to-a-}
-
-1. Zoek op de pagina [!UICONTROL People] naar de groep waaraan u personen wilt toevoegen en selecteer deze groep.
-
-
-
-1. Klik op **[!UICONTROL Group Actions]** en selecteer **[!UICONTROL Create Contact and add to Group]** .
-
-   ![](assets/manage-groups-4.png)
-
-1. Vul de informatie van het contact uit en klik **creeer** (of **creeer en voeg Nieuw** toe om een andere toe te voegen).
-
-   ![](assets/manage-groups-5.png)
-
-   En je bent klaar!
-
-   >[!NOTE]
-   >
-   >U zou kunnen moeten raken verfrist zich om het even welke nieuwe toegevoegde contacten te zien.
-
 ## Contactpersonen toevoegen aan een groep {#add-contacts-to-a-group}
 
 1. Onder _Groepen_, uitgezochte **Alle Mensen**.
@@ -98,7 +78,6 @@ Leer hoe u uw groepen beheert in [!DNL Sales Insight Actions] .
 1. Selecteer de groep u hen aan wilt toevoegen en **klikken voegt** toe.
 
    ![](assets/manage-groups-7.png)
-
 
 ## Een groep delen {#share-a-group}
 
