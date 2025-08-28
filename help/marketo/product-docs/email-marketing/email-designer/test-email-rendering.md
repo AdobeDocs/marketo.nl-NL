@@ -61,7 +61,7 @@ De volgende stappen zijn voor gebruikers op het [ Plan van de Onderneming van Li
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **** knoop op het hoger-recht van het 6} E-mailPreviews _scherm van de Previews {te klikken._
+**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **&#x200B;**&#x200B;knoop op het hoger-recht van het 6&rbrace; E-mailPreviews _scherm van de Previews &lbrace;te klikken._
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 
