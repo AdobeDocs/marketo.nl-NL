@@ -6,9 +6,9 @@ description: Marketo Engage-gebruikers kunnen hun Litmus-account integreren, zod
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,11 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
 >[!AVAILABILITY]
 >
->Deze eigenschap is beschikbaar aan alle gebruikers van Marketo Engage die een actieve rekening van de NLS op de [ rekening van het Plan van de Onderneming ](https://www.litmus.com/pricing/enterprise){target="_blank"} hebben.
+>Deze functie is beschikbaar voor alle Marketo Engage-gebruikers die een actieve Litmus-account hebben.
 
-## Hoe wordt het gebruikt {#how-to-use}
+## Litmus Enterprise-gebruikers {#litmus-enterprise}
+
+De volgende stappen zijn voor gebruikers op het [ Plan van de Onderneming van Litmus ](https://www.litmus.com/pricing/enterprise){target="_blank"}.
 
 1. Op _geef e-mailinhoud_ scherm uit, klik de **Simuleer Inhoud** knoop.
 
@@ -59,6 +61,30 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **&#x200B;**&#x200B;knoop op het hoger-recht van het 6&rbrace; E-mailPreviews _scherm van de Previews &lbrace;te klikken._
+**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **** knoop op het hoger-recht van het 6} E-mailPreviews _scherm van de Previews {te klikken._
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Litmus Core-gebruikers {#litmus-core}
+
+De volgende stappen zijn voor gebruikers op het [ Plan van de Kern van Litmus ](https://www.litmus.com/pricing/){target="_blank"}.
+
+1. In uw rekening van de Samenvatting, wint het teste-mailadres terug door het **testadres van het Exemplaar** knoop in het _scherm van de Test_ te klikken.
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. In Marketo Engage, navigeer aan _uitgeeft e-mailinhoud_ scherm van gewenste e-mail en klik de **Simulate Inhoud** knoop.
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. Selecteer uw testende ontvangers en klik **verzenden proefdruk** knoop.
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. Ga het e-mailadres van de Leiding in u in Stap 1 kopieerde en klik **verzendt opnieuw Bewijs**.
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. Controleer het e-mailadres in uw Litmus-account (in de map die overeenkomt met het e-mailadres dat u hebt gekopieerd van Litmus).
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
