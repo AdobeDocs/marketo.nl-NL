@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -259,13 +259,7 @@ Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/hel
     <td>Snelheidsscripts</td>
     <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
     <td>Beschikbaar</td>
-    <td>Niet nodig</td>
-  </tr>
-  <tr>
-    <td>Handlebar Scripting</td>
-    <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
-    <td>Niet beschikbaar</td>
-    <td>Gepland voor het derde kwartaal van 2015</td>
+    <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
     <td>Workflows voor inhoudsgoedkeuring</td>
