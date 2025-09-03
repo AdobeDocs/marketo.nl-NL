@@ -4,9 +4,9 @@ description: SSL toevoegen aan uw bestemmingspagina's - Marketo Docs - Productdo
 title: SSL toevoegen aan uw bestemmingspagina's
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -73,31 +73,35 @@ Hieronder vindt u foutberichten die u samen met de definities kunt ontvangen.
     <th>Details</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>Onverwachte fout aangetroffen tijdens het maken van een domein. Neem contact op met de Technische Ondersteuning voor hulp.</i></td>
-    <td>Er is een onverwachte fout opgetreden. Gelieve te verzamelen logboeken en foutendetails, en escaleer de kwestie aan <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank"> de Steun van Marketo </a>.</td>
-  </tr>
-  <tr>
-    <td><i>Het standaarddomein is niet gevonden. Neem contact op met de Technische Ondersteuning voor hulp.</i></td>
-    <td>Er is een probleem opgetreden bij het zoeken naar het standaarddomein. Neem contact op met de ondersteuningsafdeling zodat ze dit kunnen onderzoeken.</td>
-  </tr>
-  <tr>
-    <td><i>SSL-certificaat is al uitgegeven.</i></td>
-    <td>Er bestaat al een SSL-certificaat voor dit aangepaste domein. Er is geen verdere actie nodig tenzij het certificaat is verlopen of opnieuw moet worden uitgegeven.</td>
+<tr>
+    <td><i>Domein bestaat al.</i></td>
+    <td>Er bestaat al een domein met dezelfde naam.</td>
   </tr>
   <tr>
     <td><i>Domein wordt niet toegewezen aan het standaarddomein.</i></td>
     <td>Het aangepaste domein wordt niet correct toegewezen aan het standaarddomein. Verifieer de instellingen voor domeintoewijzing en zorg ervoor dat de DNS-configuratie naar het juiste standaarddomein wijst.</td>
   </tr>
   <tr>
-    <td><i>Domein bestaat al.</i></td>
-    <td>Er bestaat al een domein met dezelfde naam.</td>
+    <td><i>SSL-certificaten kunnen niet worden uitgegeven vanwege niet-ondersteunde CAA-records. Vraag uw IT om uw CAA-records bij te werken.</i></td>
+    <td>De CAA-records zijn niet bijgewerkt. Voor wie gebruikmaakt van door Marketo Engage beheerde SSL-certificaten, moeten CAA-records worden bijgewerkt naar certificaten die door onze leverancier worden aanbevolen. Neem contact op met uw IT-afdeling om de CAA-records bij te werken. Zie <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246"> deze pagina </a> voor extra details.</td>
+  </tr>
+  <tr>
+    <td><i>SSL-certificaat is al uitgegeven.</i></td>
+    <td>Er bestaat al een SSL-certificaat voor dit aangepaste domein. Er is geen verdere actie nodig tenzij het certificaat is verlopen of opnieuw moet worden uitgegeven.</td>
+  </tr>
+  <tr>
+    <td><i>Het standaarddomein is niet gevonden. Neem contact op met de Technische Ondersteuning voor hulp.</i></td>
+    <td>Er is een probleem opgetreden bij het zoeken naar het standaarddomein. Neem contact op met de ondersteuningsafdeling zodat ze dit kunnen onderzoeken.</td>
+  </tr>
+  <tr>
+    <td><i>Onverwachte fout aangetroffen tijdens het maken van een domein. Neem contact op met de Technische Ondersteuning voor hulp.</i></td>
+    <td>Er is een onverwachte fout opgetreden. Gelieve te verzamelen logboeken en foutendetails, en escaleer de kwestie aan <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank"> de Steun van Marketo </a>.</td>
   </tr>
 </tbody></table>
 
 ## Notities {#things-to-note}
 
-* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
+* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
 
 * **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [ kaartje van de Steun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
 
