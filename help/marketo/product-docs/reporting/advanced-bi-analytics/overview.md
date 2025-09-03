@@ -3,9 +3,9 @@ description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
 title: Advanced BI Analytics - overzicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
@@ -236,23 +236,13 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 
 ## Notities {#note}
 
-* De klassieke ervaring van de Ontdekkingsreiziger van de Inkomsten zal permanent op 10 juni 2025 worden afgekeurd. In de tussentijd kunt u in beide gevallen rapporten openen, maken, bijwerken en verwijderen.
+* Uw douanerapporten zijn herhaald van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen die in [ worden vermeld die de Nieuwe Ervaring ](#learning-the-new-experience) hieronder leren sectie.
 
-* Uw douanerapporten zullen van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen worden herhaald die in [ worden vermeld het Leren van de Nieuwe Ervaring ](#learning-the-new-experience) hieronder sectie.
+* De dashboards in de klassieke ervaring waren niet overdraagbaar en vereiste ontspanning in de nieuwe ervaring. Deze kunnen opnieuw worden gemaakt als rapporten in de nieuwe ervaring en de filters in de nieuwe ervaring genereren automatisch mogelijke waarden.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >De replicatie van aangepaste rapporten zal in groepen worden uitgevoerd. Zodra uw aangepaste rapporten aan de nieuwe ervaring worden herhaald, om consistentie tussen de twee ervaringen te verzekeren, zullen om het even welke veranderingen die in de klassieke ervaring worden aangebracht ook manueel op de overeenkomstige rapporten in de nieuwe ervaring moeten worden toegepast. Een informatieve nota over het bovenstaande zal in de klassieke ervaring op de replicatie van uw klantenrapporten oplichten.
-
-   * De dashboards in de klassieke ervaring zijn niet overdraagbaar en zullen in de nieuwe ervaring vereisen. Deze moeten opnieuw worden gemaakt als rapporten in de nieuwe ervaring en de filters in de nieuwe ervaring leiden automatisch tot mogelijke waarden in plaats van dat u alle mogelijke waarden handmatig moet invoeren in de klassieke ervaring.
-
-     >[!NOTE]
-     >
-     >Het dashboard in de nieuwe ervaring is eenvoudig een verzameling rapporten op één pagina. De primaire waarde van het dashboard in de nieuwe ervaring is dat u analytische inzichten kunt presenteren over verschillende rapporteringsgebieden.
-
-* Uw e-mailabonnementen in de klassieke ervaring worden naar de nieuwe ervaring gekopieerd. De e-mailabonnementen in de klassieke ervaring blijven functioneren tot de veroudering van de klassieke ervaring op 10 juni 2025.
-
-* De bestaande gebruikers van de Ontdekkingsreiziger van de Opbrengst hebben automatisch toegang tot de nieuwe Geavanceerde ervaring van de Analyse BI.
+  >Het dashboard in de nieuwe ervaring is eenvoudig een verzameling rapporten op één pagina. De primaire waarde van het dashboard in de nieuwe ervaring is dat u analytische inzichten kunt presenteren over verschillende rapporteringsgebieden.
 
 * U kunt **tot 700 rapporten** in Geavanceerde Analytics van BI tot stand brengen.
 
@@ -282,13 +272,9 @@ Hieronder vindt u wijzigingen in de nieuwe ervaring (Advanced BI Analytics) uit 
 
 * Filters van het type tekenreeks zijn nu hoofdlettergevoelig.
 
-* Het veld Runtimeformule in de klassieke ervaring wordt niet meer ondersteund.
-
 * E-mailabonnement bevat de PDF-export in plaats van de HTML van het rapport. Het nieuwe e-mailabonnement bevat geen rapportdefinitie.
 
 * Diepe koppeling van rapport wordt momenteel niet ondersteund.
-
-* PDF exporteren is synchroon in de nieuwe ervaring, in vergelijking met asynchroon zijn in de klassieke ervaring.
 
 >[!NOTE]
 >

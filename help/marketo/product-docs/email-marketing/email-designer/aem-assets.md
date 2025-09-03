@@ -4,26 +4,32 @@ description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslag
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
 
 # Werken met Experience Manager-middelen {#work-with-experience-manager-assets}
 
-Verbind uw _Adobe Experience Manager Assets as a Cloud Service_ rekening met uw instantie van Adobe Marketo Engage zodat kunt u hefboomwerking uw bewaarplaats van de Activa van AEM in Marketo Engage e-mail Designer.
+Maak gebruik van Adobe Experience Manager Assets om marketing- en creatieve workflows samen te brengen. Het is native geïntegreerd met Marketo Engage, zodat kunt u tot _Assets as a Cloud Service_ gemakkelijk toegang hebben om digitale activa te ontdekken en te gebruiken om uw berichten te bevolken.
+
+Adobe Experience Manager _Assets as a Cloud Service_ biedt een makkelijk te gebruiken wolkenoplossing voor efficiënt het Beheer van Activa en Dynamische verrichtingen van Media. Leer meer in de [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/overview) documentatie.
+
+>[!PREREQUISITES]
+>
+>* De vergunningen voor _as a Cloud Service van Assets_ en de Dynamische Media worden vereist voor de integratie. Zorg ervoor dat [ Dynamische Media met Open API wordt toegelaten ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Afhankelijk van uw contract en configuratie, kan Adobe Experience Manager _Assets as a Cloud Service_ direct van Marketo Engage worden betreden wanneer het ontwerpen van visuele inhoud.
 
 >[!NOTE]
 >
->Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Koppeling maken naar uw AEM Cloud Services {#link-to-your-aem-cloud-services}
 
 Voordat u deze mogelijkheid kunt gebruiken, moet u eerst AEM Cloud Services koppelen aan Adobe Marketo Engage.
 
-+++Link AEM Cloud Services en Marketo Engage
++++AEM Cloud Services en Marketo Engage koppelen
 
 >[!NOTE]
 >
@@ -45,7 +51,7 @@ Voordat u deze mogelijkheid kunt gebruiken, moet u eerst AEM Cloud Services kopp
    >
    >* Alleen opslagplaatsen die zijn gekoppeld in dezelfde IMS-org als uw Marketo Engage-abonnement worden vermeld.
    >
-   >* Marketo Engage biedt alleen ondersteuning voor opslagplaatsen van de leveringslaag. Als u de rij van de Auteur gebruikt en het zou willen omzetten, gelieve [ de Steun van Adobe Experience Manager ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-manager/content/overview/help-resources) te contacteren.
+   >* Marketo Engage biedt alleen ondersteuning voor opslagplaatsen van de leveringslaag. Als u de rij van de Auteur gebruikt en het zou willen omzetten, gelieve [ de Steun van Adobe Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources) te contacteren.
 
 1. U moet het certificaat van de a [ dienstcredentie ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
 
@@ -83,7 +89,7 @@ Als uw omgeving een of meer verbindingen met de opslagplaats voor middelen heeft
 
 >[!IMPORTANT]
 >
->Een beheerder moet gebruikers die toegang tot elementen nodig hebben, toevoegen aan de profielen Assets Consumer Users en/of Assets Users-producten. [Meer informatie](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Een beheerder moet gebruikers die toegang tot elementen nodig hebben, toevoegen aan de profielen Assets Consumer Users en/of Assets Users-producten. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 In de visuele inhoudsredacteur, klik het _selecteur van Activa van Experience Manager_ pictogram in linkerzijbalk. Hiermee wijzigt u het deelvenster Gereedschappen in een lijst met beschikbare middelen in de geselecteerde opslagplaats.
 
@@ -103,7 +109,7 @@ Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuel
 
 ![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"} toegang te hebben
 
-* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_&#x200B;te openen.
+* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_te openen.
 
   In het dialoogvenster kunt u een afbeelding kiezen in de geselecteerde opslagplaats.
 
