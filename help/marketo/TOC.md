@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '9300'
+source-wordcount: '9304'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gids Marketo {#using}
 
-+ [Home](home.md)
++ [Startpagina](home.md)
 + Aan de slag met Marketo Engage {#getting-started}
    + [Wat is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + Eerste instelling {#initial-setup}
@@ -1970,6 +1970,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: april &#39;25](release-notes/previous-releases/2025/release-notes-apr-25.md)
          + [Opmerkingen bij de release: mei &#39;25](release-notes/previous-releases/2025/release-notes-may-25.md)
          + [Opmerkingen bij de release: juli &#39;25](release-notes/previous-releases/2025/release-notes-july-25.md)
+         + [Opmerkingen bij de release: augustus &#39;25](release-notes/previous-releases/2025/release-notes-aug-25.md)
       + 2024 {#2024}
          + [Opmerkingen bij de release: januari &#39;24](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Opmerkingen bij de release: maart &#39;24](release-notes/previous-releases/2024/release-notes-mar-24.md)

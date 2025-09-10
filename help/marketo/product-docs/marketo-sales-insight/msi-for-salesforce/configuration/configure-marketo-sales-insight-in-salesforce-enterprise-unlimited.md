@@ -4,9 +4,9 @@ description: Leer hoe u Marketo Sales Insight configureert in Salesforce Enterpr
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '803'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
 
 >[!NOTE]
 >
->{de toestemmingen van 0} Admin worden vereist.**&#x200B;**
+>{de toestemmingen van 0} Admin worden vereist.****
 
 ## Sales Insight in Marketo Engage configureren {#configure-sales-insight-in-marketo}
 
@@ -41,7 +41,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
    >
    >De geheime sleutel van uw API is als een wachtwoord voor uw organisatie en zou veilig moeten zijn.
 
-1. Klik op **[!UICONTROL View]** in het deelvenster _[!UICONTROL Rest API Configuration]_&#x200B;om de referenties te vullen.
+1. Klik op **[!UICONTROL View]** in het deelvenster _[!UICONTROL Rest API Configuration]_om de referenties te vullen.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-4.png)
 
@@ -81,7 +81,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoSoapAPI` ). Voer de URL van de externe site in. Dit is de URL van de Marketo-host in het deelvenster _[!UICONTROL Soap API Configuration]_&#x200B;in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de Soap API gemaakt.
+1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoSoapAPI` ). Voer de URL van de externe site in. Dit is de URL van de Marketo-host in het deelvenster _[!UICONTROL Soap API Configuration]_in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de Soap API gemaakt.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -89,7 +89,7 @@ Configureer Marketo Sales Insight in Salesforce Enterprise/Unlimited-edities doo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoAPI` ). Voer de URL van de externe site in. Dit is de API-URL vanuit het deelvenster _[!UICONTROL Rest API Configuration]_&#x200B;in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
+1. Voer de naam van de externe site in (dit kan iets vergelijkbaars zijn als `MarketoAPI` ). Voer de URL van de externe site in. Dit is de API-URL vanuit het deelvenster _[!UICONTROL Rest API Configuration]_in Marketo Engage. Klik op **[!UICONTROL Save]**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ Vanwege beveiligingsverbeteringen in Salesforce kunnen AppExchange-pakketten gee
 
 1. Klik op **[!UICONTROL Edit]** naast het profiel dat uw Salesforce-gebruikers gebruiken.
 
-1. Schakel onder de sectie _[!UICONTROL Standard Object Permission]_&#x200B;**[!UICONTROL Read]**&#x200B;toegang in voor de volgende objecten: [!UICONTROL Lead] , [!UICONTROL Contact] , [!UICONTROL Account] en [!UICONTROL Opportunity] .
+1. Schakel onder de sectie _[!UICONTROL Standard Object Permission]_**[!UICONTROL Read]**toegang in voor de volgende objecten: [!UICONTROL Lead] , [!UICONTROL Contact] , [!UICONTROL Account] en [!UICONTROL Opportunity] .
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -235,9 +235,9 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
 1. Klik in Salesforce op **+** aan het einde van de tabbalk en klik op **[!UICONTROL Marketo Sales Insight Config]** .
 
-1. Kopieer de geloofsbrieven van het Soap API paneel in [ Marketo de pagina van Admin van de Verkoop Insight ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de sectie van Soap API van de [!DNL Salesforce] [!DNL Sales Insight] pagina van de Configuratie.
+1. Kopieer de geloofsbrieven van het Soap API paneel in de [ pagina van Admin van de Verkoop Insight van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de sectie van Soap API van de [!DNL Salesforce] [!DNL Sales Insight] pagina van de Configuratie.
 
-1. Kopieer de geloofsbrieven van het Rest API paneel in [ Marketo de pagina van Admin van de Verkoop Insight ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de Rest API sectie van de [!DNL Salesforce] [!DNL Sales Insight] pagina van de Configuratie.
+1. Kopieer de geloofsbrieven van het Rest API paneel in de [ pagina Admin van de Verkoop Insight van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de Rest API sectie van de [!DNL Salesforce] [!DNL Sales Insight] pagina van de Configuratie.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
