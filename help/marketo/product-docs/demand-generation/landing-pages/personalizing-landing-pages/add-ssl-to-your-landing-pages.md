@@ -4,9 +4,9 @@ description: SSL toevoegen aan uw bestemmingspagina's - Marketo Docs - Productdo
 title: SSL toevoegen aan uw bestemmingspagina's
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
+source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Voer de onderstaande stappen uit om SSL in te schakelen voor uw standaarddomein.
 
 >[!NOTE]
 >
->* In de kolom SSL-certificaat in de lijst wordt de certificaatstatus weergegeven voor alle domeinalias die is gemaakt nadat deze functie is uitgebracht (25 april 2025). Als de SSL voor een domein via Marketo Support is ingeschakeld, blijft het certificaat bestaan, maar wordt het niet weergegeven in de tabel. In deze tabel worden alleen SSL-certificaten weergegeven voor domeinen die zijn toegevoegd met de stappen in dit artikel.
->
->* Het kan maximaal drie minuten duren voordat de status van SSL READY is ingeschakeld. De wijzigingen worden alleen weergegeven als u de pagina vernieuwt.
+>Het kan maximaal drie minuten duren voordat de status van SSL READY is ingeschakeld. De wijzigingen worden alleen weergegeven als u de pagina vernieuwt.
 
 ## Foutberichten {#error-messages}
 
@@ -101,12 +99,10 @@ Hieronder vindt u foutberichten die u samen met de definities kunt ontvangen.
 
 ## Notities {#things-to-note}
 
-* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
+* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
 
 * **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [ kaartje van de Steun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
 
 * **Vooraf bestaande SSLs**: Terwijl het toevoegen van een domein, controleert het systeem reeds bestaande SSLs, die manueel kan zijn gecreeerd vroeger. Als u deze validatie tegenkomt, maakt u uw domein zonder SSL-ontwerp te selecteren en maken we er verbinding mee. [ de Steun van het Contact ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} meer extra details/opties.
 
-* **Toevoegend certs aan bestaande domeinen**: Het toevoegen van certs aan bestaande domeinen wordt momenteel niet gesteund. Voor reeds bestaande domeinen, of voor gevallen waar u het SSL certificaatvakje gemist hebt, moet u uit aan [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} reiken om het toegevoegde certificaat te krijgen.
-
-* **Schrapping van domeinen**: Het schrappen van een domein schrapt automatisch het SSL certificaat.
+* **Schrapping van domeinen**: Automatisch schrappend een domein **schrapt niet** het SSL certificaat. Deze handleiding voorkomt gebruikersfouten die ertoe leiden dat een website geen SSL-certificaten heeft. Als u de SSL certificaten wilt verwijderen, [ contactSteun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
