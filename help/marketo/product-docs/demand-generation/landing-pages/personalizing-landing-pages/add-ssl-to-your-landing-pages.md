@@ -65,7 +65,7 @@ Voer de onderstaande stappen uit om SSL in te schakelen voor uw standaarddomein.
 
 Voer de volgende stappen uit om SSL in te schakelen voor uw bestaande domeinaliassen.
 
-1. Vouw in het gebied _[!UICONTROL Admin]_**[!UICONTROL Integration]**in de linkernavigatie uit en selecteer **[!UICONTROL Landing Pages]**.
+1. Vouw in het gebied _[!UICONTROL Admin]_&#x200B;**[!UICONTROL Integration]**&#x200B;in de linkernavigatie uit en selecteer **[!UICONTROL Landing Pages]**.
 
 1. Selecteer op de pagina de tab **[!UICONTROL Rules]** bovenaan.
 
