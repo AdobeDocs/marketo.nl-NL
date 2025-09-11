@@ -4,9 +4,9 @@ description: SSL toevoegen aan uw bestemmingspagina's - Marketo Docs - Productdo
 title: SSL toevoegen aan uw bestemmingspagina's
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,27 @@ Voer de onderstaande stappen uit om SSL in te schakelen voor uw standaarddomein.
 
 >[!NOTE]
 >
->Het kan maximaal drie minuten duren voordat de status van SSL READY is ingeschakeld. De wijzigingen worden alleen weergegeven als u de pagina vernieuwt.
+>Het kan tot drie minuten duren voor SSL in de READY staat is. Vernieuw de pagina zodat de wijzigingen worden weergegeven.
+
+## SSL&#39;s bewerken voor bestaande domeinaliassen
+
+Voer de volgende stappen uit om SSL in te schakelen voor uw bestaande domeinaliassen.
+
+1. Vouw in het gebied _[!UICONTROL Admin]_**[!UICONTROL Integration]**in de linkernavigatie uit en selecteer **[!UICONTROL Landing Pages]**.
+
+1. Selecteer op de pagina de tab **[!UICONTROL Rules]** bovenaan.
+
+1. Selecteer de domeinaliasrij die u wilt bewerken en klik op **[!UICONTROL Add SSL]** bovenaan.
+
+   ![ Admin gebied - Integratie > het Landen Pagina&#39;s - Regels tabel - uitgezocht domein alias ](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. Klik in het dialoogvenster op **[!UICONTROL Confirm]** .
+
+   ![ voeg SSL toe - bevestig ](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>Het kan tot drie minuten duren voor SSL in de READY staat is. Vernieuw de pagina zodat de wijzigingen worden weergegeven.
 
 ## Foutberichten {#error-messages}
 
@@ -99,7 +119,7 @@ Hieronder vindt u foutberichten die u samen met de definities kunt ontvangen.
 
 ## Notities {#things-to-note}
 
-* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
+* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
 
 * **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [ kaartje van de Steun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
 
