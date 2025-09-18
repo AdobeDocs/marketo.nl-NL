@@ -4,10 +4,10 @@ description: Een sjabloon voor een bestemmingspagina met instructies maken - Mar
 title: Een sjabloon voor een bestemmingspagina met instructies maken
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 0%
 
 ---
 
@@ -126,39 +126,6 @@ Vereiste kenmerken:
 Voorbeeld:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Pollen {#poll}
-
-Vereiste kenmerken:
-**klasse**: &quot;mktoPoll&quot;
-**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
-
-Voorbeeld:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Verwijzing {#referral}
-
-Vereiste kenmerken:
-**klasse**: &quot;mktoReferral&quot;
-**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
-
-Voorbeeld:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Sweepstake {#sweepstakes}
-
-Vereiste kenmerken:
-**klasse**: &quot;mktoSweepstakes&quot;
-**identiteitskaart**: Het koord van identiteitskaart Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
-**mktoName** : Koord. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
-
-Voorbeeld:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Bewerkbare variabelen {#editable-variables}
 
