@@ -34,7 +34,7 @@ Gebruik de sectie &quot;Op deze pagina&quot; aan de rechterkant om rechtstreeks 
 
 _als de gebruiker moet worden gemigreerd_ - het e-mailadres moet in Marketo Engage worden bijgewerkt om aan het veiligheidsbeleid van Adobe te voldoen en opnieuw geverifieerd. Marketo-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Gebruiker niet in directory {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de 
 
 _als de gebruiker moet worden gemigreerd_ - de gebruiker moet aan de Actieve Folder met juiste toestemmingen door een systeembeheerder worden toegevoegd. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Inactieve gebruiker {#inactive-user}
 
@@ -54,7 +54,7 @@ _als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de 
 
 _als de gebruiker moet worden gemigreerd_ - de status van de gebruiker en de juiste toestemmingen moeten door een systeembeheerder worden hersteld. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Ongeldig domein {#invalid-domain}
 
@@ -66,7 +66,7 @@ _als de gebruiker moet worden gemigreerd_ (en de domeinhandhaving wordt toegelat
 
 _als de gebruiker moet worden gemigreerd_ (en de domeinhandhaving wordt toegelaten in een andere org) - een systeembeheerder van org waar het domein is geclaimd moet het e-mailadres van de gebruiker aan de uitzonderingslijst toevoegen. Marketo Engage-beheerder voert de gebruikersmigratie voor deze gebruiker opnieuw uit vanuit de migratieconsole.
 
-_als de gebruiker ****niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
+_als de gebruiker **&#x200B;**&#x200B;niet_ moet worden gemigreerd - Marketo Engage admin om de gebruiker in de Console van de Migratie over te slaan. De knop &quot;Migratie voltooid&quot; wordt weergegeven wanneer alle gebruikers voor de migratie of het overslaan verantwoordelijk zijn. Klik op de knop om het migratieproces van de gebruiker te voltooien.
 
 ### Type2E-fout {#type2e-failure}
 
@@ -106,7 +106,7 @@ _als de gebruiker moet worden gemigreerd_
 
 1. Als de console ontoegankelijk is, contacteer [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) om de migratie opnieuw uit te voeren.
 
-_als de gebruiker ****niet moet worden gemigreerd_
+_als de gebruiker **&#x200B;**&#x200B;niet moet worden gemigreerd_
 
 * De Marketo Engage-beheerder moet de gebruiker in de migratieconsole overslaan.
 * Nadat alle gebruikers zijn gemigreerd of overgeslagen, klikt u op **[!UICONTROL Migration Complete]** om te voltooien.
