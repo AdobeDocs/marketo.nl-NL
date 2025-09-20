@@ -55,7 +55,7 @@ Nee! We maakten een hoop eenvoudige zelfstudies. [ wordt begonnen hier ](/help/m
 
 ## Bestaat er een lijst van dingen die limieten bestrijken, zoals hoeveel e-mails ik per week kan verzenden? {#list-of-limits}
 
-Daar is het. De statische grenzen (en andere parameters) worden geschetst [ in dit artikel ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Daar is het. De statische grenzen (en andere parameters) worden geschetst [ in dit artikel ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Hoe lang houdt Marketo vast aan mijn gegevens? {#data-retention-policy}
 
