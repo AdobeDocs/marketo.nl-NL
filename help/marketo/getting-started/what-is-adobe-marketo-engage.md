@@ -4,7 +4,7 @@ description: Wat is Adobe Marketo Engage? - Marketo Docs - Productdocumentatie
 title: Wat is Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Nee! We maakten een hoop eenvoudige zelfstudies. [ wordt begonnen hier ](/help/m
 
 ## Bestaat er een lijst van dingen die limieten bestrijken, zoals hoeveel e-mails ik per week kan verzenden? {#list-of-limits}
 
-Daar is het. De statische grenzen (en andere parameters) worden geschetst [ in dit artikel ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Daar is het. De statische grenzen (en andere parameters) worden geschetst [ in dit artikel ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Hoe lang houdt Marketo vast aan mijn gegevens? {#data-retention-policy}
 
