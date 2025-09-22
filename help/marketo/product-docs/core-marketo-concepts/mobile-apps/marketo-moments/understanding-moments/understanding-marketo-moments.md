@@ -4,9 +4,9 @@ description: Marketo-momenten begrijpen - Marketo-documenten - productdocumentat
 title: Marketo-momenten begrijpen
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ De kracht van Marketo ligt nu letterlijk in uw handen! Geef een voorbeeld van e-
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 >[!NOTE]
 >
->_Mobiele apps openen_ toestemming is vereist. Neem contact op met uw Marketo-beheerder om [uw rol bijwerken](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_de toestemming wordt van de Toegang Mobiele Apps vereist._ Contacteer uw Admin van Marketo om [ uw rol ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) bij te werken.
 
 ## Streams {#streams}
 
@@ -33,10 +33,10 @@ Hier zijn de verschillende stromen in Moments.
 >
 >**Definitie**
 >
->* [!UICONTROL Moments]: Alles wat net liep of op het punt staat te lopen, gaat hier.
->* [!UICONTROL Favorites]: Alles wat je een favoriet maakt, komt hier.
->* [!UICONTROL Later]: Alles wat later plaatsvindt dan dit moment gaat hier binnen.
->* [!UICONTROL Done]: Alles wat klaar is met rennen of wat u hebt gemarkeerd als voltooid, gaat hier.
+>* [!UICONTROL Moments]: Alles wat zojuist liep of op het punt staat te lopen, gaat hier.
+>* [!UICONTROL Favorites]: alles wat je een favoriet maakt, komt hier.
+>* [!UICONTROL Later]: Alles wat later plaatsvindt dan dit moment komt hier binnen.
+>* [!UICONTROL Done]: Alles wat klaar is met uitvoeren of zoals voltooid is gemarkeerd, wordt hier weergegeven.
 
 Oké, nu we dat uit de weg hebben, laten we even kijken op Marketo Moments aan de telefoon!
 
@@ -44,21 +44,21 @@ Oké, nu we dat uit de weg hebben, laten we even kijken op Marketo Moments aan d
 
 Marketo Moments geeft je drie verschillende kaarten om de voortgang van je e-mail te volgen:
 
-**[!UICONTROL On-Deck]** - Dit e-mailbericht staat op het punt uit te gaan. Het is je laatste kans om het voor te vertonen, een voorbeeld te verzenden of zelfs te annuleren als je het nodig hebt.
+**[!UICONTROL On-Deck]** - Deze e-mail staat op het punt uit te gaan. Het is je laatste kans om het voor te vertonen, een voorbeeld te verzenden of zelfs te annuleren als je het nodig hebt.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heart-beat]** Deze e-mail wordt nu geleverd. En hier zijn ook stats. Ga door en deel het.
+**[!UICONTROL Heart-beat]** - Hee, deze e-mail wordt nu bezorgd! En hier zijn ook stats. Ga door en deel het.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Results]** - Zo deed de e-mail het. Nadat de e-mail volledig is uitgevoerd, geeft de Resultaten-kaart de betrokkenheidsscore en andere status weer.
+**[!UICONTROL Results]** - Zo deed de e-mail het volgende. Nadat de e-mail volledig is uitgevoerd, geeft de Resultaten-kaart de betrokkenheidsscore en andere status weer.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Momentstroom {#moments-stream}
 
-Wanneer u de app voor de eerste keer opent of tikt **[!UICONTROL Moments]** in het menu worden eerst de relevante kaarten weergegeven. Elk initiatief bevat informatie over dat specifieke marketinginitiatief en de algemene prestaties ervan.
+Wanneer u de app voor het eerst opent of op **[!UICONTROL Moments]** tikt in het menu, worden eerst de relevante kaarten weergegeven. Elk initiatief bevat informatie over dat specifieke marketinginitiatief en de algemene prestaties ervan.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Geweldig! Nu, kunt u iets doen gebeuren door te tikken:
 >
 >**Definitie**
 >
->* [!UICONTROL Favorite]: Het is gemakkelijk om aandacht te besteden aan dingen die het meest geschikt en belangrijk zijn als je ze gunstig maakt.
+>* [!UICONTROL Favorite]: Het is eenvoudig om aandacht te besteden aan dingen die het meest geschikt en belangrijk zijn als je ze favorieten maakt.
 >* [!UICONTROL Done]: Klaar haalt het uit de weergave Marketo Moments (maar laat het in Marketo, veilig en geluid).
->* [!UICONTROL Share]: Stuur een afbeelding om uw team te motiveren of te feliciteren.
->* [!UICONTROL Send Sample] (Alleen e-mail): Gebruik deze optie om anderen te laten zien hoe je e-mails eruitzien voordat je ze verzendt.
->* [!UICONTROL Preview Email] (Alleen e-mails): het is altijd een goed idee om je e-mails vooraf te bekijken.
+>* [!UICONTROL Share]: verzend een afbeelding om uw team te motiveren of te feliciteren.
+>* [!UICONTROL Send Sample] (Alleen e-mail): Gebruik deze optie om anderen te laten controleren hoe uw e-mails eruitzien voordat u ze verzendt.
+>* [!UICONTROL Preview Email] (Alleen e-mails): het is altijd een goed idee om uw e-mails van te voren te bekijken.
 
 ## Later momenten {#later-moments}
 
@@ -96,7 +96,7 @@ In het gedeelte Later worden toekomstige activiteiten weergegeven.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tik op **[!UICONTROL Later]**.
+1. Tik op **[!UICONTROL Later]** .
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -134,7 +134,7 @@ De slimme campagnerekaarten vertegenwoordigen één enkele looppas van een campa
 
 ## Een handeling bevestigen of annuleren {#confirm-or-cancel-an-action}
 
-U kunt elke stap van de manier bevestigen of annuleren. Tik gewoon op **[!UICONTROL Never Mind]**.
+U kunt elke stap van de manier bevestigen of annuleren. Tik op **[!UICONTROL Never Mind]** als u van gedachten verandert.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -149,7 +149,7 @@ Klaar om meer te leren?
 
 >[!MORELIKETHIS]
 >
->* [E-mailprogrammakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [Gebeurteniskaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Analysecards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Slimme camerakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [ Begrijpend de Kaarten van het E-mailProgramma ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [ Begrijpend de Kaarten van de Gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [ Begrijpend de Kaarten van Analytics ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [ Begrijpend Slimme Kaarten van de Campagne ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

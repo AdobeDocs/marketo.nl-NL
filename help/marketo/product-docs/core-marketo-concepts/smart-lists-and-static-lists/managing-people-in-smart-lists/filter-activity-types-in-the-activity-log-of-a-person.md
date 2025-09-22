@@ -4,10 +4,10 @@ description: Typen filteractiviteiten in het activiteitenlog van een persoon - M
 title: Typen filteractiviteiten in het activiteitenlog van een persoon
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -17,19 +17,19 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 
 >[!NOTE]
 >
->Meer informatie over [het activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
+>Leer meer over [ het activiteitenlogboek ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Ga naar de pagina Details persoon. Klik op de knop **[!UICONTROL Activity Log]** tab.
+1. Ga naar de pagina Details persoon. Klik op de tab **[!UICONTROL Activity Log]** .
 
    ![](assets/one.png)
 
-1. Selecteer de **[!UICONTROL Filter]** vervolgkeuzelijst.
+1. Selecteer de vervolgkeuzelijst **[!UICONTROL Filter]** .
 
    ![](assets/two-3.png)
 
 ## Aangepaste filters maken {#creating-custom-filters}
 
-1. Klik op de knop **[!UICONTROL Filter]** vervolgkeuzelijst. Selecteren **[!UICONTROL Custom]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Filter]** . Selecteer **[!UICONTROL Custom]**.
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Voer een **[!UICONTROL custom filter name]**. Klik op **[!UICONTROL Save]**.
+1. Voer een **[!UICONTROL custom filter name]** in. Klik op **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)
 
@@ -47,9 +47,9 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 
 ## Verwijzing opgeslagen filters {#reference-saved-filters}
 
-Opgeslagen filters zijn toegankelijk via het dialoogvenster [!UICONTROL Filter] vervolgkeuzelijst.
+Opgeslagen filters zijn toegankelijk via de vervolgkeuzelijst [!UICONTROL Filter] .
 
-1. Klik op de knop **[!UICONTROL Filters]** vervolgkeuzelijst. Selecteren **[!UICONTROL Custom]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Filters]** . Selecteer **[!UICONTROL Custom]**.
 
    ![](assets/seven-1.png)
 

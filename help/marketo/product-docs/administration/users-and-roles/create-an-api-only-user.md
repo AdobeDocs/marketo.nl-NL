@@ -4,7 +4,7 @@ description: Een gebruiker met alleen een API maken - Marketo Docs - Productdocu
 title: Alleen een API-gebruiker maken
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Alleen een API-gebruiker maken {#create-an-api-only-user}
 
-Als u met Marketo via [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} wilt integreren, zult u een slechts gebruiker API moeten creëren. Zo gaat het.
+Als u met Marketo via [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} wilt integreren, zult u een slechts gebruiker API moeten creëren. Zo gaat het.
 
 >[!IMPORTANT]
 >

@@ -4,7 +4,7 @@ description: SEO - Pagina toevoegen/verwijderen uit lijst - Marketo-documenten -
 title: SEO - Pagina toevoegen/verwijderen uit lijst
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
 ## Pagina toevoegen aan een lijst {#add-page-to-a-list}
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
@@ -31,7 +31,7 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
    >[!TIP]
    >
-   >U kunt ook een nieuwe lijst voor uw pagina maken om te gaan. Typ uw gewenste naam in [!UICONTROL Create a new list].
+   >U kunt ook een nieuwe lijst voor uw pagina maken om te gaan. Typ gewoon uw gewenste naam in [!UICONTROL Create a new list] .
 
 1. Klik op de lijst waaraan u zojuist uw pagina hebt toegevoegd.
 
@@ -41,11 +41,11 @@ Yay! Nu wordt de pagina aan de lijst toegevoegd.
 
 ## Pagina uit een lijst verwijderen {#remove-page-from-a-list}
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Op de **[!UICONTROL Pages]** klikt u op de lijst die u wilt opruimen.
+1. Klik op het tabblad **[!UICONTROL Pages]** op de lijst die u wilt opruimen.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 

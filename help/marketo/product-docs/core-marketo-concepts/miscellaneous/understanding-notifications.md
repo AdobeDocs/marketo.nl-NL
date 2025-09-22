@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: Kennisgevingen - Marketo Docs - Productdocumentatie
 title: Kennisgevingen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '202'
 ht-degree: 1%
 
 ---
@@ -28,20 +28,20 @@ Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je
 
 U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
-1. Ga naar meldingen en klik op **[!UICONTROL Subscribe]**.
+1. Ga naar Meldingen en klik op **[!UICONTROL Subscribe]** .
 
    ![](assets/understanding-notifications-3.png)
 
-1. Selecteer het Berichttype en voer het e-mailadres of de e-mailadressen in waarnaar meldingen moeten worden verzonden (gescheiden door een komma). Klikken **[!UICONTROL Subscribe]** wanneer gereed.
+1. Selecteer het Berichttype en voer het e-mailadres of de e-mailadressen in waarnaar meldingen moeten worden verzonden (gescheiden door een komma). Klik op **[!UICONTROL Subscribe]** als u klaar bent.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->De **[!UICONTROL send to]** alleen voor u is om uw e-mail in te voeren. Er wordt geen lijst met bestaande abonnees weergegeven.
+>In het gebied **[!UICONTROL send to]** kunt u alleen uw e-mail invoeren. Er wordt geen lijst met bestaande abonnees weergegeven.
 
-In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het foutbestand van Microsoft Dynamics Sync. Marketo bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
+In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het Microsoft Dynamics Sync Errors-bestand. Marketo bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
 
 >[!TIP]
 >
->Wil je je niet meer abonneren op e-mailberichten? Geen probleem. Klik op de knop **[!UICONTROL unsubscribe from Notifications]** onderaan in de e-mail.
+>Wil je je niet meer abonneren op e-mailberichten? Geen probleem. Klik op de koppeling **[!UICONTROL unsubscribe from Notifications]** onder aan het e-mailbericht.

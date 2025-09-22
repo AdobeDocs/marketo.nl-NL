@@ -4,7 +4,7 @@ description: SFDC Sync - Lead/Account Owner Sync - Marketo Docs - Productdocumen
 title: SFDC Sync - Lead/Account Owner Sync
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -46,6 +46,6 @@ Er zijn veel redenen om deze gegevens te gebruiken, zoals
 * Een persoonlijke e-mail verzenden met een handtekening van de eigenaar van de verkoop
 * Filter op specifieke verkoopvertegenwoordigers voor marketing of zelfs om doeltreffendheid te analyseren
 * Regels voor toewijzing (en hertoewijzing) in Marketo
-* Gebruik hen in de [ Eigenaar van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, en [ creeer de 5&rbrace; stroomacties van de Taak &lbrace;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
+* Gebruik hen in de [ Eigenaar van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, en [ creeer de 5} stroomacties van de Taak {](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
 Marketo beschikt zeker over een indrukwekkende [!DNL Salesforce] sync. Niemand anders doet het zo goed!

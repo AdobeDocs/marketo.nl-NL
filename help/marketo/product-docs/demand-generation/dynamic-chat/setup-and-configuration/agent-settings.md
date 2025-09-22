@@ -3,7 +3,7 @@ description: Instellingen agent - Marketo Docs - Productdocumentatie
 title: Instellingen agent
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 0%
@@ -100,7 +100,7 @@ Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnen
 
 ## Agent Profile Photo
 
-Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/nl/manage-account/using/edit-adobe-account-personal-profile.html) bij.
+Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html) bij.
 
 >[!NOTE]
 >

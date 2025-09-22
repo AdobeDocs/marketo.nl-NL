@@ -4,7 +4,7 @@ description: Een e-mail met alleen tekst maken - Marketo Docs - Productdocumenta
 title: Een e-mail met alleen tekst maken
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Als je alleen e-mails met tekst wilt verzenden, kun je hier een e-mail maken die
 
    ![](assets/two-1.png)
 
-1. Selecteer **[!UICONTROL Email]** .
+1. Selecteer **[!UICONTROL Email]**.
 
    ![](assets/three-1.png)
 

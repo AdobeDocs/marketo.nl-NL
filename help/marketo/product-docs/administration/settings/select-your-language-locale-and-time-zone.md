@@ -4,20 +4,20 @@ description: Selecteer uw taal, landinstelling en tijdzone - Marketo Docs - Prod
 title: Taal, landinstelling en tijdzone selecteren
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Taal, landinstelling en tijdzone selecteren {#select-your-language-locale-and-time-zone}
 
-Engels niet uw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hieronder wordt beschreven hoe u de taal, landinstelling en tijdzone van uw abonnement op Marketo&#39;s Engage wijzigt.
+Engels niet uw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hieronder wordt beschreven hoe u de taal, landinstelling en tijdzone van uw Marketo Engage-abonnement kunt wijzigen.
 
 >[!IMPORTANT]
 >
->Als uw abonnement van het Marketo Engage aan [ Marketo met de Identiteit van de Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, slechts [ tijdzone ](#change-your-time-zone) in dit artikel is op u van toepassing. Om uw taal en/of scène te veranderen, moeten die montages in uw [ profiel van de de rekeningsrekening van de Adobe ](https://account.adobe.com/profile){target="_blank"} worden betreden .
+>Als uw Marketo Engage abonnement aan [ Marketo met de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, slechts [ tijdzone ](#change-your-time-zone) in dit artikel is op u van toepassing. Om uw taal en/of scène te veranderen, moeten die montages in uw [ de rekeningsprofiel van Adobe ](https://account.adobe.com/profile){target="_blank"} worden betreden.
 
 ## Ondersteunde talen {#supported-languages}
 
@@ -36,7 +36,7 @@ Ga als volgt te werk om naar het juiste gebied te gaan en kies welke instelling 
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Selecteer **[!UICONTROL My Account]** .
+1. Selecteer **[!UICONTROL My Account]**.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 

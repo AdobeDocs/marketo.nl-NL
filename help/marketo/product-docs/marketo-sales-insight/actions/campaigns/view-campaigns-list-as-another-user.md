@@ -3,7 +3,7 @@ description: Campagnelijst weergeven als een andere gebruiker - Marketo Docs - P
 title: Lijst met campagnes weergeven als een andere gebruiker
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%

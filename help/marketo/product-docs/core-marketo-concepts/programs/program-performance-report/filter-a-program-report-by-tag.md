@@ -4,26 +4,26 @@ description: Een programmarapport filteren op tag - Marketo Docs - Productdocume
 title: Een programmarapport filteren op tag
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Een programmarapport filteren op tag {#filter-a-program-report-by-tag}
 
-Focus op uw [programmeerprestatierapport](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) over specifieke [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
+Focus uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) op specifieke [ markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
 
-1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]**).
+1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw **[!UICONTROL Program Performance]** verslag.
+1. Selecteer uw **[!UICONTROL Program Performance]** -rapport.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Klik op de knop **[!UICONTROL Setup]** en sleep over een van de **[!UICONTROL Tags]** filters.
+1. Klik op de tab **[!UICONTROL Setup]** en sleep over een van de **[!UICONTROL Tags]** -filters.
 
    ![](assets/prospects.jpg)
 
@@ -35,10 +35,10 @@ Focus op uw [programmeerprestatierapport](/help/marketo/product-docs/core-market
 
    ![](assets/prospect2.jpg)
 
-1. Gereed! Klik op de knop **[!UICONTROL Report]** tab om te zien _gewoon_ de programma&#39;s die overeenkomen met de geselecteerde labels in uw rapport.
+1. Gereed! Klik het **[!UICONTROL Report]** lusje om _te zien enkel_ de programma&#39;s die de geselecteerde markeringen in uw rapport aanpassen.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
 >[!NOTE]
 >
->[Een programmarapport filteren op kosten van periode](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>[ filter een Rapport van het Programma door Periode Kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

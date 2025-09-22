@@ -4,10 +4,10 @@ description: Een bestemmingspagina met instructies maken - Marketo Docs - Produc
 title: Een bestemmingspagina met instructies maken
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -33,11 +33,11 @@ Geleide landingspagina&#39;s kunnen worden gemaakt als lokale elementen van een 
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klik op de vervolgkeuzelijst **[!UICONTROL New]** . Selecteer **[!UICONTROL New Local Asset]** .
+1. Klik op de vervolgkeuzelijst **[!UICONTROL New]** . Selecteer **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Selecteer **[!UICONTROL Landing Page]** .
+1. Selecteer **[!UICONTROL Landing Page]**.
 
    ![](assets/four.png)
 
@@ -55,7 +55,7 @@ Geleide landingspagina&#39;s kunnen worden gemaakt als lokale elementen van een 
 
    ![](assets/six.png)
 
-1. Klik op de vervolgkeuzelijst **[!UICONTROL New]** . Selecteer **[!UICONTROL New Landing Page]** .
+1. Klik op de vervolgkeuzelijst **[!UICONTROL New]** . Selecteer **[!UICONTROL New Landing Page]**.
 
    ![](assets/seven.png)
 

@@ -4,7 +4,7 @@ description: Een voorvertoning van een bestemmingspagina weergeven - Marketo-doc
 title: Een voorvertoning van een bestemmingspagina weergeven
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: SEO - Pagina's toevoegen - Marketo-documenten - Productdocumentatie
 title: SEO - Pagina's toevoegen
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Je hebt pagina&#39;s! Marketo SEO doorloopt automatisch uw site en volgt deze. Als we er een paar gemist hebben, haal ze dan als volgt in de SEO-app:
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
@@ -29,7 +29,7 @@ Je hebt pagina&#39;s! Marketo SEO doorloopt automatisch uw site en volgt deze. A
 
    >[!TIP]
    >
-   >Wist u dat u [uw pagina toevoegen aan een nieuwe of bestaande lijst](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)? Kijk eens!
+   >Wist u u kunt [ uw pagina aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) toevoegen? Kijk eens!
 
    Het kan even duren voordat de paginagegevens zijn geladen. Wacht op het groene waarschuwingsbericht en vernieuw uw pagina om de weergave bij te werken.
 

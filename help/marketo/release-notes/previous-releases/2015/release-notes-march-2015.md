@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - maart 2015 - Marketo Docs - Productdoc
 title: Release-aantekeningen -maart 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Koppel uw [[!DNL Google AdWords]  rekening aan Marketo ](/help/marketo/product-d
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
-[ Nieuwe activa REST APIs ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/assets)
+[ Nieuwe activa REST APIs ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 Wij hebben nu steun voor het creëren van en het uitgeven van e-mail, malplaatjes, mijn tokens, dossiers, en fragmenten [ via API ](https://developer.adobe.com/marketo-apis/api/asset/)!
 

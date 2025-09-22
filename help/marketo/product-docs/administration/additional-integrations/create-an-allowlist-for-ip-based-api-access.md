@@ -4,7 +4,7 @@ description: Creeer een Lijst van gewenste personen voor op IP-Gebaseerde API To
 title: Creeer een Lijst van gewenste personen voor IP-Gebaseerde Toegang API
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 1%
@@ -22,8 +22,8 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 >[!NOTE]
 >
 >Deze eigenschap werkt onafhankelijk van op Marketo Engage IP-Gebaseerde login beperkingen (die door Admin Console IP Lijst van de Toegang worden vervangen*) en zal na de [ migratie van Adobe blijven functioneren IMS ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->&#x200B;> 
->&#x200B;>&#42;De IP toegangslijst algemene beschikbaarheid is gepland voor Q4 2025.
+>> 
+>>&#42;De IP toegangslijst algemene beschikbaarheid is gepland voor Q4 2025.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

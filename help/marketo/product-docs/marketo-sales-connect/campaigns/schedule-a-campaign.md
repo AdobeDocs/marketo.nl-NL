@@ -4,7 +4,7 @@ description: Een campagne plannen - Marketo Docs - Productdocumentatie
 title: Een campagne plannen
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%

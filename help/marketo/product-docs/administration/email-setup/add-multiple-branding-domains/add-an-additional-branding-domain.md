@@ -4,7 +4,7 @@ description: Een extra brandingdomein toevoegen - Marketo Docs - Productdocument
 title: Een extra brandingdomein toevoegen
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkel 
 
 Ga als volgt te werk om SSL in te schakelen voor uw bestaande domeinen.
 
-1. Selecteer in het gebied _[!UICONTROL Admin]_&#x200B;de optie **[!UICONTROL Email]**.
+1. Selecteer in het gebied _[!UICONTROL Admin]_de optie **[!UICONTROL Email]**.
 
-1. Selecteer op het tabblad _[!UICONTROL Domain]_&#x200B;de domeinrij en klik op **[!UICONTROL Add SSL]**.
+1. Selecteer op het tabblad _[!UICONTROL Domain]_de domeinrij en klik op **[!UICONTROL Add SSL]**.
 
    ![ Admin - E-mail - Domein - voeg SSL ](./assets/admin-email-branding-domain-add-ssl.png){width="600"} toe
 
@@ -91,7 +91,7 @@ Ga als volgt te werk om SSL in te schakelen voor uw bestaande domeinen.
 
 ## Notities {#things-to-note}
 
-* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
+* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
 
 * **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [ kaartje van de Steun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
 

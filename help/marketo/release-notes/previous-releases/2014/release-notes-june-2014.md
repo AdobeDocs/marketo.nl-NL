@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - juni 2014 - Marketo Docs - Productdocu
 title: Release-aantekeningen -juni 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Wanneer u een teste-mailbericht verzendt vanuit [!DNL Sales Insight] , worden de
 
 ## REST-API voor lead {#lead-rest-api}
 
-Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [ tot de douanedienst ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo leiden. Dan hoofd over aan de [ plaats van ontwikkelaars ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) voor details bij het gebruiken van dit API.
+Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [ tot de douanedienst ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo leiden. Dan hoofd over aan de [ plaats van ontwikkelaars ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) voor details bij het gebruiken van dit API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

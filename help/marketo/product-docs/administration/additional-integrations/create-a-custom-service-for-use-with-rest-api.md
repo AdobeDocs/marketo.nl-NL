@@ -4,7 +4,7 @@ description: Een aangepaste service maken voor gebruik met de ReST API - Marketo
 title: Een aangepaste service maken voor gebruik met ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 2%
@@ -27,7 +27,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!TIP]
 >
->Controle uit onze ontwikkelaarsdocumentatie voor details op [ REST API ](https://developer.adobe.com/marketo-apis/). Wij hebben ook [ SOAP API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
+>Controle uit onze ontwikkelaarsdocumentatie voor details op [ REST API ](https://developer.adobe.com/marketo-apis/). Wij hebben ook [ SOAP API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
 
 ## Aangepaste service maken {#create-custom-service}
 

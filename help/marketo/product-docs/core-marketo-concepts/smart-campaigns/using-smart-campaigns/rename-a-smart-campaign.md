@@ -4,7 +4,7 @@ description: De naam van een slimme campagne wijzigen - Marketo Docs - Productdo
 title: De naam van een slimme campagne wijzigen
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt de naam van een bestaande slimme campagne wijzigen. Zo gaat het.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/rename-a-smart-campaign-1.png)
 
@@ -27,7 +27,7 @@ U kunt de naam van een bestaande slimme campagne wijzigen. Zo gaat het.
    >
    >De slimme namen van de Campagne binnen programma&#39;s vertalen altijd aan het formaat &quot;ProgramName.CampaignName&quot;.
 
-1. Voer de nieuwe naam voor de slimme campagne in en klik op **[!UICONTROL Save]**.
+1. Voer de nieuwe naam voor de slimme campagne in en klik op **[!UICONTROL Save]** .
 
    ![](assets/rename-a-smart-campaign-3.png)
 

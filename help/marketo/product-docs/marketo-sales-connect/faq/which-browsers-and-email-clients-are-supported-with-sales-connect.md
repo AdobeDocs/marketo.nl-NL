@@ -4,7 +4,7 @@ description: Welke browsers en e-mailclients worden ondersteund met Sales Connec
 title: Welke browsers en e-mailclients worden ondersteund met Sales Connect?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 1%

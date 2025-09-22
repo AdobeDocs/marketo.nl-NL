@@ -4,10 +4,10 @@ description: Een aangepaste activiteit bewerken - Marketo Docs - Productdocument
 title: Een aangepaste activiteit bewerken
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Wilt u wijzigingen aanbrengen in een aangepaste activiteit die u al hebt gemaakt? Zo gaat het.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/edit-a-custom-activity-1.png)
 
@@ -27,7 +27,7 @@ Wilt u wijzigingen aanbrengen in een aangepaste activiteit die u al hebt gemaakt
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Klik op **[!UICONTROL Custom Activity Actions]** en selecteer **[!UICONTROL Edit Activity]**.
+1. Klik op **[!UICONTROL Custom Activity Actions]** en selecteer **[!UICONTROL Edit Activity]** .
 
    ![](assets/edit-a-custom-activity-4.png)
 
@@ -35,7 +35,7 @@ Wilt u wijzigingen aanbrengen in een aangepaste activiteit die u al hebt gemaakt
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. Voer uw nieuwe gegevens in en klik op **[!UICONTROL Submit]**.
+1. Voer uw nieuwe gegevens in en klik op **[!UICONTROL Submit]** .
 
    ![](assets/edit-a-custom-activity-6.png)
 

@@ -3,7 +3,7 @@ description: Limieten voor productgebruik - Marketo-documenten - productdocument
 title: Limieten voor productgebruik
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 12%
@@ -12,11 +12,11 @@ ht-degree: 12%
 
 # Limieten voor productgebruik {#product-usage-limits}
 
-Hieronder vindt u de limieten die gelden voor het gebruik van de uitgebreide mogelijkheden voor verkoopovereenkomst die beschikbaar zijn bij Handelingen voor verkoopinzicht.
+Hieronder vindt u de limieten die gelden voor het gebruik van de uitgebreide mogelijkheden voor verkoopovereenkomsten die beschikbaar zijn bij Sales Insight Actions.
 
 >[!NOTE]
 >
->De Acties van het Inzicht van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van het Inzicht van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 <table>
   <th>Functionaliteit</th>

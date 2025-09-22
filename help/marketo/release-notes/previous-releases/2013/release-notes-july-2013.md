@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - juli 2013 - Marketo Docs - Productdocu
 title: Release-aantekeningen -juli 2013
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,6 @@ Bekijk en sorteer het lidnet tegen de datum dat de lood werd toegevoegd.
 
 ![](assets/image2014-9-22-16-3a32-3a1.png)
 
-## Wijzigingen in spellingcontrole in de WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
+## Wijzigingen in spellingcontrole in WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
-De dienst die door de redacteur WYSIWYG voor spellingcontrole wordt gebruikt werd stopgezet. We hebben de knop Spellingcontrole uit de editor verwijderd totdat we een vervanging vinden.
+De service die de WYSIWYG-editor voor de spellingcontrole heeft gebruikt, is stopgezet. We hebben de knop Spellingcontrole uit de editor verwijderd totdat we een vervanging vinden.

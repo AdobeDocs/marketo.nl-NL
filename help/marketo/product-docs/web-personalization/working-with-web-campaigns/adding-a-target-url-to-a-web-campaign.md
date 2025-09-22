@@ -4,10 +4,10 @@ description: Een doel-URL toevoegen aan een webcampagne - Marketo Docs - Product
 title: Een doel-URL toevoegen aan een webcampagne
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Een doel-URL bevindt zich onder de pagina Campagne instellen en definieert de sp
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selecteer **[!UICONTROL Create New Web Campaign]** .
+1. Selecteer **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
@@ -66,7 +66,7 @@ Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wo
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selecteer **[!UICONTROL Create New Web Campaign]** .
+1. Selecteer **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 

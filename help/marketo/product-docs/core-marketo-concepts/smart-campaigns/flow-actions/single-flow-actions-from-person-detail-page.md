@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -24,14 +24,14 @@ Naast het uitvoeren van enige stroomacties van binnen een Slimme Lijst, kunt u h
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Klik op de knop **[!UICONTROL Person Actions]** en selecteert u de gewenste stroomstap. In dit voorbeeld gebruiken we [E-mail verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Person Actions]** en selecteer de gewenste stap in de flow. In dit voorbeeld zullen wij [ gebruiken verzendt E-mail ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Selecteer het gewenste e-mailbericht en klik op **[!UICONTROL Run Now]**.
+1. Selecteer het gewenste e-mailbericht en klik op **[!UICONTROL Run Now]** .
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 
 >[!NOTE]
 >
->Als uw instantie werkruimten/partities bevat en u rechtstreeks (bijvoorbeeld via koppeling) naar een pagina met persoonlijke gegevens navigeert in plaats van uit een pagina/element te komen dat aan een werkruimte is gekoppeld, moet u ook een werkruimte kiezen in stap 4.
+>Als uw instantie werkruimten/partities bevat en u rechtstreeks naar een pagina met persoonlijke gegevens (bijvoorbeeld via koppeling) navigeert in plaats van uit een pagina/element te komen dat aan een Workspace is gekoppeld, moet u ook een Workspace kiezen in stap 4.

@@ -4,7 +4,7 @@ description: Leden van lijst in een slimme lijst gebruiken - Marketo Docs - Prod
 title: Leden van lijst gebruiken in een slimme lijst
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->U kunt personen aan een lijst toevoegen met [Importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of de [Stroom toevoegen aan lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
+>U kunt mensen aan een lijst toevoegen gebruikend [ de Invoer ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of [ toevoegen aan de stap van de Stroom van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
 Met dit filter, kunt u leden van een andere lijst trekken door naar het in uw Slimme regels van de Lijst te verwijzen. Zo gaat het.
 
-1. Selecteer een slimme lijst en klik op de knop **[!UICONTROL Smart List]** tab.
+1. Selecteer een slimme lijst en klik op de tab **[!UICONTROL Smart List]** .
 
    ![](assets/smartlist-sltab.png)
 
-1. Zoek en sleep in het venster met filters aan de rechterkant het gereedschap **[!UICONTROL Member of List]** op het canvas.
+1. Zoek in het venster met filters aan de rechterkant naar het filter **[!UICONTROL Member of List]** en sleep dit naar het canvas.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

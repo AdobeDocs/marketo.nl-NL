@@ -4,7 +4,7 @@ description: Betrokkenheidsstroomprestatierapport - Marketo Docs - Productdocume
 title: Prestatierapport voor betrokkenheidsstream
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
 
    ![](assets/localassetnutring.jpg)
 
-1. Selecteer **[!UICONTROL Report]** .
+1. Selecteer **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 

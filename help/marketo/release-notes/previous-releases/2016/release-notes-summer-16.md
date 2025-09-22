@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: Opmerkingen bij de release - zomer 16 - Marketo Docs - productdocumentatie
 title: Opmerkingen bij de release - zomer 16
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 0%
@@ -19,7 +19,7 @@ De volgende functies zijn opgenomen in de release van zomer 16. Raadpleeg de Mar
 Op Marketo-account gebaseerde marketing biedt alle basisprincipes in één uniform platform:
 
 * **Doel** - de Ontdekking van de Rekening, Lood-aan-Rekening het Aanpassen, en de Genoemde Lijsten van de Rekening
-* **0&rbrace; Betrokkenheid {bij 1} - Op rekening-gebaseerde Personalization, dwars-kanaalovereenkomst, en rekening-specifieke Workflows**
+* **0} Betrokkenheid {bij 1} - Op rekening-gebaseerde Personalization, dwars-kanaalovereenkomst, en rekening-specifieke Workflows**
 * **Maatregel** - de Inzichten van de Rekening en van het lijstniveau, de Score van de Betrokkenheid van de Rekening, en de Gevolgen van de Pijpleiding &amp; van de Inkomsten
 
 ![](assets/abm-5-acme.png)

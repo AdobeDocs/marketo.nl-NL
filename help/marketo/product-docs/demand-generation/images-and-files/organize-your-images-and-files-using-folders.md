@@ -4,7 +4,7 @@ description: Uw afbeeldingen en bestanden ordenen met mappen - Marketo Docs - Pr
 title: Uw afbeeldingen en bestanden ordenen met mappen
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Als u mappen maakt, kunt u afbeeldingen en bestanden verplaatsen, alleen de gewenste set afbeeldingen bekijken en rechtstreeks naar een specifieke map uploaden.
 
-1. Ga naar de **[!UICONTROL Design Studio]**.
+1. Ga naar de **[!UICONTROL Design Studio]** .
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Klikken met rechtermuisknop aan op **[!UICONTROL Images and Files]** en selecteert u **[!UICONTROL New folder]**.
+1. Klik met de rechtermuisknop op **[!UICONTROL Images and Files]** en selecteer **[!UICONTROL New folder]** .
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Geef uw map een naam en klik op **[!UICONTROL Create]**.
+1. Geef de map een naam en klik op **[!UICONTROL Create]** .
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Ga terug naar **[!UICONTROL Images and Files]** en selecteert u het element dat u wilt verplaatsen. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Move]**.
+1. Ga terug naar **[!UICONTROL Images and Files]** en selecteer het element dat u wilt verplaatsen. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Move]** .
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,10 +35,10 @@ Als u mappen maakt, kunt u afbeeldingen en bestanden verplaatsen, alleen de gewe
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. Klikken **Mverhuizen**.
+1. Klik **M  bewegen**.
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 
 >[!MORELIKETHIS]
 >
->[Geüploade afbeeldingen en bestanden doorzoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>[ Onderzoek Geüploade Beelden en Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}

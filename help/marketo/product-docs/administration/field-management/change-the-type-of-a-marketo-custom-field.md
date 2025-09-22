@@ -4,7 +4,7 @@ description: Het type aangepast Marketo-veld wijzigen - Marketo Docs - Productdo
 title: Het type van een aangepast Marketo-veld wijzigen
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
@@ -27,7 +27,7 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. In de **[!UICONTROL Field Actions]** vervolgkeuzelijst, klikken **[!UICONTROL Change Type]**.
+1. Klik in de vervolgkeuzelijst **[!UICONTROL Field Actions]** op **[!UICONTROL Change Type]** .
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -39,7 +39,7 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. Lees de waarschuwing en klik vervolgens op **[!UICONTROL Change]** ter bevestiging.
+1. Lees de waarschuwing en klik vervolgens op **[!UICONTROL Change]** om te bevestigen.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 
@@ -49,4 +49,4 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    >[!MORELIKETHIS]
    >
-   >[Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)

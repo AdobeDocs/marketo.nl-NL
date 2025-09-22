@@ -3,21 +3,21 @@ description: Productbeheerinstellingen - Marketo-documenten - Productdocumentati
 title: Productbeheerinstellingen
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
 # Productbeheerinstellingen {#product-admin-setup}
 
-1. Nadat u door een Systeembeheerder bent uitgenodigd, zult u een welkome e-mail ontvangen. Klik in die e-mail op **[!UICONTROL Get Started]**.
+1. Nadat u door een Systeembeheerder bent uitgenodigd, zult u een welkome e-mail ontvangen. Klik in die e-mail op **[!UICONTROL Get Started]** .
 
    ![](assets/admin-setup-7.png)
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-8.png)
 
-Zo eenvoudig is het! Productbeheerders zijn primair verantwoordelijk voor het toevoegen van gebruikers. [Leer hier hoe u dat doet](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}.
+Het is zo simpel! Productbeheerders zijn primair verantwoordelijk voor het toevoegen van gebruikers. [ Leer hoe te om dat hier te doen ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}.

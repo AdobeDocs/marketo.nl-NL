@@ -4,7 +4,7 @@ description: SEO - Voeg handmatig een URL voor een binnenkomende koppeling toe -
 title: SEO - voeg manueel een Binnenkomende Verbinding URL toe
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 U kunt binnenkomende Verbindingen manueel toevoegen. Hieronder wordt beschreven hoe:
 
-1. Ga naar de **[!UICONTROL Inbound Links]** sectie.
+1. Ga naar de sectie **[!UICONTROL Inbound Links]** .
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
@@ -29,7 +29,7 @@ U kunt binnenkomende Verbindingen manueel toevoegen. Hieronder wordt beschreven 
 
    >[!TIP]
    >
-   >Wist u dat u [voeg uw binnenkomende verbinding aan een nieuwe of bestaande lijst toe](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? Kijk eens!
+   >Wist u u kunt [ uw binnenkomende verbinding aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"} toevoegen? Kijk eens!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

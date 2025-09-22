@@ -4,7 +4,7 @@ description: Stap 3 van 3 - Connect Marketo en Dynamics (2013 op locatie) - Mark
 title: Stap 3 van 3 - Connect Marketo en Dynamics (2013 op locatie)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Selecteer **[!DNL Microsoft]** .
+1. Selecteer **[!DNL Microsoft]**.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 

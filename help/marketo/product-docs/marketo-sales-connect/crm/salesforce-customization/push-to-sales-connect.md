@@ -4,10 +4,10 @@ description: Push to  [!DNL Sales Connect]  - Marketo Docs - Productdocumentatie
 title: Naar  [!DNL Sales Connect] duwen
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -29,8 +29,8 @@ Met de knop [!UICONTROL Push to Tout] maakt u een lijst met uw leads/contactpers
 1. Schakel over naar de lijstweergave waar u naar wilt duwen [!DNL Sales Connect] naast de knop [!UICONTROL Go] .
 1. Klik op **[!UICONTROL Go]**.
 1. Selecteer alle leads/contactpersonen die u wilt laten afdrukken.
-1. Selecteer **[!UICONTROL Push to MSE]** .
-1. Er wordt een nieuw venster weergegeven waarin het aantal leads/contactpersonen dat u wilt laten aanwijzen, wordt gecontroleerd. Selecteer **[!UICONTROL Proceed to Group]** .[!DNL Sales Connect] drukt geen contactpersonen over die zijn gemarkeerd als [!UICONTROL Email Opt Out] in [!DNL Salesforce] of [!UICONTROL Unsubscribed] in [!DNL Sales Connect] .
+1. Selecteer **[!UICONTROL Push to MSE]**.
+1. Er wordt een nieuw venster weergegeven waarin het aantal leads/contactpersonen dat u wilt laten aanwijzen, wordt gecontroleerd. Selecteer **[!UICONTROL Proceed to Group]**.[!DNL Sales Connect] drukt geen contactpersonen over die zijn gemarkeerd als [!UICONTROL Email Opt Out] in [!DNL Salesforce] of [!UICONTROL Unsubscribed] in [!DNL Sales Connect] .
 
    >[!NOTE]
    >

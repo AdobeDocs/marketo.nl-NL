@@ -4,7 +4,7 @@ description: Aanvankelijke veldtoewijzingen bewerken - Marketo Docs - Productdoc
 title: Aanvankelijke veldtoewijzingen bewerken
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze functie is alleen toegankelijk vóór de eerste synchronisatie met Salesforce. Wanneer de **[!UICONTROL Sync Now]** wordt ingedrukt, kan dit niet meer worden gedaan.
+>Deze functie is alleen toegankelijk voordat u de toepassing voor het eerst synchroniseert met Salesforce. Wanneer op de knop **[!UICONTROL Sync Now]** is geklikt, kan dit niet meer worden gedaan.
 
-Tijdens de eerste synchronisatie met Salesforce combineert Marketo Engage automatisch aangepaste velden met dezelfde naam tot één veld aan Marketo-zijde, zodat de gegevens kunnen worden uitgewisseld met objecten Lead en Contact in de CRM. In dit artikel wordt uitgelegd hoe u deze toewijzingen kunt aanpassen.
+Tijdens de eerste synchronisatie met Salesforce combineert Marketo Engage automatisch aangepaste velden met dezelfde naam tot één veld aan de Marketo-zijde om ervoor te zorgen dat de gegevens kunnen worden uitgewisseld met objecten Lead en Contact in de CRM. In dit artikel wordt uitgelegd hoe u deze toewijzingen kunt aanpassen.
 
 ## Niet-toegewezen velden toewijzen {#map-unmapped-fields}
 
-Wanneer u een veld ziet in het dialoogvenster [!UICONTROL Unmapped Fields] , betekent dit dat het niet is toegewezen aan een vergelijkbaar veld op de lead of contactpersoon in Salesforce. U kunt dat herstellen.
+Wanneer een veld in de map [!UICONTROL Unmapped Fields] wordt weergegeven, betekent dit dat het niet is toegewezen aan een vergelijkbaar veld op de lijst met leads of in Salesforce. U kunt dat herstellen.
 
 1. Klik op **[!UICONTROL Edit Mappings]**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Open de **[!UICONTROL Unmapped Custom Fields]** map.
+1. Open de map **[!UICONTROL Unmapped Custom Fields]** .
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Wanneer u een veld ziet in het dialoogvenster [!UICONTROL Unmapped Fields] , bet
 
    ![](assets/three.png)
 
-1. Klikken **[!UICONTROL Finish Mappings]** als u klaar bent.
+1. Klik op **[!UICONTROL Finish Mappings]** wanneer u klaar bent.
 
    ![](assets/four.png)
 
@@ -51,11 +51,11 @@ Als u velden met dezelfde naam op de lead en het contactobject hebt, wijst Marke
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Een toegewezen veld markeren en klikken **[!UICONTROL Break Mapping]** om de velden te scheiden.
+1. Markeer een toegewezen veld en klik op **[!UICONTROL Break Mapping]** om de velden van elkaar te scheiden.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Klikken **[!UICONTROL Finish Mappings]** als je klaar bent.
+1. Klik op **[!UICONTROL Finish Mappings]** wanneer u klaar bent.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -63,7 +63,7 @@ Als u velden met dezelfde naam op de lead en het contactobject hebt, wijst Marke
 
 ## Schema opnieuw instellen {#reset-schema}
 
-1. Als u enkele wijzigingen aanbrengt in het schema in Salesforce terwijl u aan de toewijzingen werkt, kunt u de wijzigingen terugtrekken door op **[!UICONTROL Reset Schema]**.
+1. Als u in Salesforce wijzigingen aanbrengt in het schema terwijl u aan de toewijzingen werkt, kunt u de wijzigingen terugtrekken door op **[!UICONTROL Reset Schema]** te klikken.
 
    * Alle toewijzingswijzigingen worden opnieuw ingesteld.
    * Als u het schema opnieuw instelt, worden alleen velden toegevoegd en niet verwijderd (zelfs als u deze verbergt voor de synchronisatiegebruiker).

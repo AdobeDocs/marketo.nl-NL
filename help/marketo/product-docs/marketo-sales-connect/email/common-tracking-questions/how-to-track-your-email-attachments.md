@@ -4,7 +4,7 @@ description: Uw e-mailbijlagen bijhouden - Marketo Docs - Productdocumentatie
 title: Uw e-mailbijlagen bijhouden
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. Upload uw bijlage en verzend het uit. Wij ondersteunen PDF&#39;s, [!DNL Word] -documenten en [!DNL Powerpoint] -presentaties.
 
-1. Selecteer **[!UICONTROL Add to Email]** .
+1. Selecteer **[!UICONTROL Add to Email]**.
 
 1. Klik op **[!UICONTROL Send]** en vul uw Live feed in. Ontvangers worden weergegeven terwijl ze worden geopend en door de bijlagen worden gepagineerd.
 

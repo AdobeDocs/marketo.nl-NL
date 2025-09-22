@@ -3,7 +3,7 @@ description: Een verkoopcampagne maken - Marketo Docs - Productdocumentatie
 title: Een verkoopcampagne maken
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -66,5 +66,5 @@ Nu is het tijd om mensen toe te voegen!
 
 >[!MORELIKETHIS]
 >
->* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >* [ de Montages van de Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

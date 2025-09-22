@@ -4,10 +4,10 @@ description: Download de Marketo Lead Management Solution - Marketo Docs - Produ
 title: Download de Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -35,11 +35,11 @@ U moet een Marketo Solution downloaden en installeren in uw [!DNL Microsoft Dyna
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Selecteer **[!DNL Microsoft]** .
+1. Selecteer **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Selecteer **[!UICONTROL Download Marketo Solution]** .
+1. Selecteer **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

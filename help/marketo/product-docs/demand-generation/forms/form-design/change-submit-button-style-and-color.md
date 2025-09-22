@@ -4,7 +4,7 @@ description: De stijl en kleur van de knop Verzenden wijzigen - Marketo-document
 title: De stijl en kleur van de knop Verzenden wijzigen
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 2%

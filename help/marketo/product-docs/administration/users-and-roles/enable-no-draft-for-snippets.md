@@ -4,9 +4,9 @@ description: Geen concept voor fragmenten inschakelen - Marketo Docs - Productdo
 title: Niet-concept inschakelen voor fragmenten
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ No-Draft wordt automatisch toegelaten voor alle rollen van de Beheerder. Een beh
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
@@ -33,26 +33,26 @@ No-Draft wordt automatisch toegelaten voor alle rollen van de Beheerder. Een beh
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Ga naar de **[!UICONTROL Roles]** tab, selecteer een rol en klik vervolgens op **[!UICONTROL Edit Role]**.
+1. Ga naar het tabblad **[!UICONTROL Roles]** , selecteer een rol en klik op **[!UICONTROL Edit Role]** .
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
-1. Breid uit **[!UICONTROL Access Design Studio]** optie.
+1. Vouw de optie **[!UICONTROL Access Design Studio]** uit.
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Breid uit **[!UICONTROL Access Snippet]** optie.
+1. Vouw de optie **[!UICONTROL Access Snippet]** uit.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Breid uit **[!UICONTROL Approve Snippet]** toestemming geven en de **[!UICONTROL No-Draft]** doos. Klik vervolgens op **[!UICONTROL Save]**.
+1. Vouw de machtiging **[!UICONTROL Approve Snippet]** uit en schakel het selectievakje **[!UICONTROL No-Draft]** in. Klik vervolgens op **[!UICONTROL Save]** .
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Als u Geen concept wilt uitschakelen, voert u de stappen 1-4 hierboven uit, schakelt u het selectievakje Geen concept uit en klikt u op **[!UICONTROL Save]**.
+>Als u Geen concept wilt uitschakelen, voert u de bovenstaande stappen 1 tot en met 4 uit, schakelt u het selectievakje Geen concept uit en klikt u op **[!UICONTROL Save]** .
 
 >[!MORELIKETHIS]
 >
->[Een fragment goedkeuren zonder concept](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}
+>[ keur een Fragment met toe:voegen-ontwerp ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"} goed

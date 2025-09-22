@@ -4,7 +4,7 @@ description: Mobiele weergave aanpassen voor uw gratis landingspagina - Marketo 
 title: De mobiele weergave aanpassen voor uw openingspagina
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -91,7 +91,7 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Wil je iets cool zien? Selecteer **[!UICONTROL Side By Side]** .
+1. Wil je iets cool zien? Selecteer **[!UICONTROL Side By Side]**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 

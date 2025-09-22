@@ -4,9 +4,9 @@ description: Aangepaste invoertypen maken - Marketo Docs - Productdocumentatie
 title: Aangepaste invoertypen maken
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 U kunt de types van douaneingang tot stand brengen in uw Mening van het Programma te gebruiken. Hierdoor kun je alle agendapunten volgen die niet van invloed zijn op je programma.
 
-1. Ga naar de **[!UICONTROL Admin]** sectie en klik op **[!UICONTROL Tags]**.
+1. Ga naar de sectie **[!UICONTROL Admin]** en klik op **[!UICONTROL Tags]** .
 
    ![](assets/admintags.png)
 
@@ -23,7 +23,7 @@ U kunt de types van douaneingang tot stand brengen in uw Mening van het Programm
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Klik op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL Entry Type]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL New]** en selecteer **[!UICONTROL Entry Type]** .
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ U kunt de types van douaneingang tot stand brengen in uw Mening van het Programm
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Selecteer een **[!UICONTROL Entry Color]**.
+1. Selecteer een **[!UICONTROL Entry Color]** .
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 

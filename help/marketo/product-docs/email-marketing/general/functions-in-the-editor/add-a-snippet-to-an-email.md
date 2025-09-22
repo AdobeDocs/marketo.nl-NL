@@ -4,7 +4,7 @@ description: Een fragment toevoegen aan een e-mail - Marketo Docs - Productdocum
 title: Een fragment toevoegen aan een e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
 >[!NOTE]
 >
->U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het **&#x200B;**&#x200B;zal niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
+>U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het **** zal niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
 1. Zoek de e-mail, selecteer deze en klik op **[!UICONTROL Edit Draft]** .
 

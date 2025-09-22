@@ -4,7 +4,7 @@ description: Een slimme campagne activeren | Tabblad Planning - Marketo-document
 title: Een slimme campagne activeren | Tabblad Planning
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Het activeren van een Smart Campaign voor trigger is vergelijkbaar met het inschakelen ervan. Dit is wat je moet doen.
 
-1. In de slimme campagne **[!UICONTROL Schedule]** tabblad, klikt u op **[!UICONTROL Activate]**.
+1. Klik op het tabblad **[!UICONTROL Schedule]** van de slimme campagne op **[!UICONTROL Activate]** .
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-1.png)
 
@@ -23,7 +23,7 @@ Het activeren van een Smart Campaign voor trigger is vergelijkbaar met het insch
    >
    >Controleer de slimme campagne voordat u deze activeert.
 
-1. Klikken **[!UICONTROL Activate]** opnieuw.
+1. Klik nogmaals op **[!UICONTROL Activate]** .
 
    ![](assets/activate-a-trigger-smart-campaign-schedule-tab-2.png)
 

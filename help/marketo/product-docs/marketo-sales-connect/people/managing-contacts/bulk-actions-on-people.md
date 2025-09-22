@@ -4,9 +4,9 @@ description: Bulkacties op mensen - Marketo Docs - Productdocumentatie
 title: Bulkacties op personen
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Wij wijzen automatisch een bron aan elk contact toe dat het gegevensbestand inga
 
 ## Toestemming {#authorization}
 
-In overeenstemming met [GDPR](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in werking te stellen ontving.
+In overeenstemming met [ GDPR ](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
 
 ![](assets/authorization.png)
 
@@ -49,6 +49,6 @@ Voer een bulksgewijs abonnement op contacten uit die niet meer correspondentie v
 
 ## Verwijderen {#delete}
 
-Contactpersonen bulksgewijs verwijderen. U vindt alle stappen [hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
+Contactpersonen bulksgewijs verwijderen. De volledige stappen kunnen [ hier ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md) worden gevonden.
 
 ![](assets/delete.png)

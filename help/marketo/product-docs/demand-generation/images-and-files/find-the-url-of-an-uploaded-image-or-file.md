@@ -4,7 +4,7 @@ description: De URL van een geüploade afbeelding of bestand zoeken - Marketo Do
 title: De URL van een geüploade afbeelding of bestand zoeken
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Op zoek naar het webadres (URL) van een afbeelding of bestand dat u hebt geüpload?
 
-1. Ga naar de **[!UICONTROL Design Studio]**.
+1. Ga naar de **[!UICONTROL Design Studio]** .
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
@@ -33,4 +33,4 @@ Op zoek naar het webadres (URL) van een afbeelding of bestand dat u hebt geüplo
 
 >[!MORELIKETHIS]
 >
->[Een geüploade afbeelding of bestand vervangen](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[ vervangt een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

@@ -3,7 +3,7 @@ description: Criteria voor het publiek - Marketo Docs - Productdocumentatie
 title: Criteria voor het publiek
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Er zijn _vele_ kenmerkcombinaties om van te kiezen. In het onderstaande voorbeel
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_&#x200B;wordt standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
+1. _[!UICONTROL Is]_wordt standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw 
    >
    >Wanneer iemand uw website bezoekt, [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} koekjes hen en hen in het systeem zet. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
 
-1. _[!UICONTROL Is]_&#x200B;wordt standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
+1. _[!UICONTROL Is]_wordt standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
    ![](assets/audience-criteria-15.png)
 

@@ -3,7 +3,7 @@ description: Checklist voor overerfde marketingactiviteiten - Marketo Docs - pro
 title: Checklist voor overgenomen marketingactiviteiten
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
 ht-degree: 0%
@@ -157,7 +157,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
   </tr>
   <tr>
    <td>Abonnement/Preferentiecentrum</td>
-   <td><li>Hebt u de opstelling van het Centrum van het Abonnement/van de Voorkeur van a <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=nl-NL" target="_blank"> </a>? Werkt het zoals het zou moeten?</li></td>
+   <td><li>Hebt u de opstelling van het Centrum van het Abonnement/van de Voorkeur van a <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank"> </a>? Werkt het zoals het zou moeten?</li></td>
   </tr>
   <tr>
    <td>Interesserende momenten (indien van toepassing)</td>

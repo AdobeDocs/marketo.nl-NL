@@ -4,7 +4,7 @@ description: Filteren in prestatiegegevens - Marketo Docs - Productdocumentatie
 title: Filteren in prestatie-inzichten
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -64,7 +64,7 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
    <td colspan="1"><p>Tijdslimiet voor programmamateriaal.</p></td>
   </tr>
   <tr>
-   <td colspan="1"><p><strong><span class="uicontrol">Opportunity</span></strong></p></td>
+   <td colspan="1"><p><strong><span class="uicontrol">Kans</span></strong></p></td>
    <td colspan="1"><p>Het type van kans zoals opstelling op het voorwerp van de Opportunity in uw opstelling van Salesforce (CRM).</p></td>
   </tr>
   <tr>

@@ -4,10 +4,10 @@ description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocume
 title: Persoonlijke opmerkingen op Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 >[!PREREQUISITES]
 >
 >* Voltooi [ opnieuw het richten met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
->* Herzie de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
+>* Herzie de [ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
 
 ## Een publiek maken in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
@@ -32,7 +32,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 ![](assets/two-1.png)
 
-1. Selecteer **[!UICONTROL Website Traffic]** .
+1. Selecteer **[!UICONTROL Website Traffic]**.
 
 ![](assets/image2015-1-19-16-3a32-3a2.png)
 

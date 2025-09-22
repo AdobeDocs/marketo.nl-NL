@@ -4,10 +4,10 @@ description: Een pushmelding maken - Marketo Docs - Productdocumentatie
 title: Een pushmelding maken
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Het is eenvoudig om een pushmelding te maken. Voordat u echter begint, moet uw M
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. Selecteer **[!UICONTROL Push Notification]** .
+1. Selecteer **[!UICONTROL Push Notification]**.
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 

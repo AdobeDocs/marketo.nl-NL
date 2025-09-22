@@ -4,7 +4,7 @@ description: Een formulier insluiten op uw website - Marketo Docs - Productdocum
 title: Een formulier insluiten op uw website
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -47,6 +47,6 @@ Geef nu gewoon de insluitcode aan uw webontwikkelaar en laat deze deze toevoegen
 
 >[!NOTE]
 >
->Als uw ontwikkelaar de blik of toegang geavanceerde API functies wil aanpassen, hen tonen [ Forms 2.0 de Pagina van Ontwikkelaars ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Als uw ontwikkelaar de blik of toegang geavanceerde API functies wil aanpassen, hen tonen [ Forms 2.0 de Pagina van Ontwikkelaars ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Geweldig werk! Wilt u [ code inbedden om lichtbakcode ](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) te omvatten? Dat is ook makkelijk!

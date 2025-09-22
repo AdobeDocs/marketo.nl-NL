@@ -4,7 +4,7 @@ description: Gebruik een Duur in een Stap van de Stroom van de Wacht - Marketo D
 title: Gebruik een Duur in een Stap van de Stroom van de Wacht
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een Slimme Campagne voor een bepaalde duur te pauzeren. U kunt ook criteria opgeven voor de dag van de week en het tijdstip waarop deze eindigt.
 
-1. Sleep over de stap **[!UICONTROL Wait]** flow in de tab Slimme campagne **[!UICONTROL Flow]** .
+1. Sleep over de stap **[!UICONTROL Flow]** flow in de tab Slimme campagne **[!UICONTROL Wait]** .
 
    ![](assets/use-a-duration-in-a-wait-flow-step-1.png)
 

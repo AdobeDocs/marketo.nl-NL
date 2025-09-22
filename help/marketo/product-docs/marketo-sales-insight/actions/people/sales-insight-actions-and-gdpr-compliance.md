@@ -3,7 +3,7 @@ description: Handelingen van Insight voor verkoop en naleving van GDPR - Marketo
 title: Insight-acties voor verkoop en GDPR-compatibiliteit
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1307'
 ht-degree: 0%

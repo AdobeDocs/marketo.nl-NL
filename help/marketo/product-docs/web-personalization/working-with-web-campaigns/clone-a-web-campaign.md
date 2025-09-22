@@ -4,7 +4,7 @@ description: Een webcampagne klonen - Marketo Docs - Productdocumentatie
 title: Een webcampagne klonen
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Met de kloonfunctie op de pagina [!UICONTROL Web Campaigns] kunt u de campagne-i
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde Webcampagne is gerechtigd, &quot;[ Exemplaar van de NAAM van 0&rbrace; CAMPAIGN&quot;.]
+1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde Webcampagne is gerechtigd, &quot;[ Exemplaar van de NAAM van 0} CAMPAIGN&quot;.]
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 

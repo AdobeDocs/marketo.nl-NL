@@ -4,10 +4,10 @@ description: Automatische e-mailrespons - Marketo Docs - Productdocumentatie
 title: Automatische reactie e-mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-2.png)
 
-1. Selecteer **[!UICONTROL Email]** .
+1. Selecteer **[!UICONTROL Email]**.
 
    ![](assets/email-auto-response-3.png)
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![](assets/email-auto-response-10.png)
 
-1. Ga naar de tab **[!UICONTROL Smart List]** .
+1. Ga naar het tabblad **[!UICONTROL Smart List]**.
 
    ![](assets/email-auto-response-11.png)
 

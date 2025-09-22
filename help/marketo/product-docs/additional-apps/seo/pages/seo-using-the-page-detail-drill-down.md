@@ -4,9 +4,9 @@ description: SEO - Het gebruiken van de boor van het Detail van de Pagina neer -
 title: SEO - De boor Page Detail Down gebruiken
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina.
 
-## Pagina omlaag zoeken {#find-page-drill-down}
+## Pagina omlaag opzoeken {#find-page-drill-down}
 
 1. Ga naar de **[!UICONTROL Pages]sectie**.
 
@@ -40,13 +40,13 @@ U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina
 | [!UICONTROL Inbound Links Total] | Het totale aantal inkomende koppelingen naar uw website. |
 | [!UICONTROL Inbound Links (unique domains)] | Het aantal andere websites met ten minste één inkomende koppeling naar uw site. |
 | [!UICONTROL Outbound Links] | Het aantal koppelingen dat van deze specifieke pagina naar andere websites gaat. |
-| [!UICONTROL Facebook Shares] | Aantal keren dat deze pagina is gedeeld op [!DNL Facebook]. |
-| [!UICONTROL Facebook Likes] | Aantal keren dat deze pagina-share is gevonden op [!DNL Facebook]. |
+| [!UICONTROL Facebook Shares] | Aantal malen dat deze pagina is gedeeld op [!DNL Facebook] . |
+| [!UICONTROL Facebook Likes] | Aantal keren dat dit delen van de pagina is gevonden op [!DNL Facebook] . |
 | [!UICONTROL Facebook Clicks] | Aantal klikken van [!DNL Facebook share]. |
 
-## [!UICONTROL Keyword(s) that Page is Optimized For] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL Keyword(s) that Page is Optimized For]  {#keyword-s-that-page-is-optimized-for}
 
-Dit is waar u [Selecteer het trefwoord waarvoor u de pagina wilt optimaliseren](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Dit is waar u [ selecteert welk sleutelwoord u probeert om uw pagina voor ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md) te optimaliseren.
 
 >[!NOTE]
 >
@@ -56,10 +56,10 @@ Dit is waar u [Selecteer het trefwoord waarvoor u de pagina wilt optimaliseren](
 
 ## [!UICONTROL Page Optimization Results] {#page-optimization-results}
 
-De [!UICONTROL Page Optimization Results] Hiermee geeft u precies de stappen op die u moet nemen om de optimalisatiescore te verhogen of om beter te kunnen presteren op de zoekactie naar deze pagina.
+In [!UICONTROL Page Optimization Results] worden precies de stappen beschreven die u moet uitvoeren om de optimalisatiescore te verhogen of om de zoekfunctie voor deze pagina te verbeteren.
 
 ![](assets/image2014-9-17-21-3a56-3a41.png)
 
 >[!MORELIKETHIS]
 >
->[Specifieke pagina&#39;s met doeltrefwoorden optimaliseren](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
+>[ optimaliseer Specifieke Pagina&#39;s met gerichte Sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)

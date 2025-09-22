@@ -4,7 +4,7 @@ description: Aangepaste invoertypen verbergen en verbergen - Marketo Docs - Prod
 title: Aangepaste invoertypen verbergen en verbergen
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Aangepaste invoertypen kunnen worden verborgen in de sectie Beheer. Als het invo
 
 ## Type aangepaste invoer verbergen {#hide-a-custom-entry-type}
 
-1. Ga naar de **[!UICONTROL Admin]** sectie en klik op **[!UICONTROL Calendar Entry Types]**.
+1. Ga naar de sectie **[!UICONTROL Admin]** en klik op **[!UICONTROL Calendar Entry Types]** .
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
-1. Klik met de rechtermuisknop op uw aangepaste invoer en klik op **[!UICONTROL Hide]**.
+1. Klik met de rechtermuisknop op de aangepaste invoer en klik op **[!UICONTROL Hide]** .
 
    ![](assets/image2014-9-24-10-3a11-3a54.png)
 
@@ -31,7 +31,7 @@ Aangepaste invoertypen kunnen worden verborgen in de sectie Beheer. Als het invo
 
 Als u een type van douaneingang wilt losmaken, is dat ook gemakkelijk.
 
-1. Klik met de rechtermuisknop op uw invoer en selecteer **[!UICONTROL Unhide]**.
+1. Klik met de rechtermuisknop op de invoer en selecteer **[!UICONTROL Unhide]** .
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 

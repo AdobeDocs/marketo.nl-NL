@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - Feb '20 - Marketo Docs - Productdocume
 title: Opmerkingen bij de release - feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -59,4 +59,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 * **Activum API &quot;_method&quot;Parameter**: Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in een POST lichaam over te gaan om de lengtebeperkingen van URI te mijden. Om tegemoet te komen aan verzoeken die deze parameter vereisten, wordt de URI-limiet voor de bron-API&#39;s verhoogd van 6KiB naar 65KiB, zodat URI&#39;s met lange aanvragen kunnen worden verzonden.
 * **Veroudering van de Steun van Internet Explorer**: Beginnend met onze versie van Juli op 31 Juli, 2020, zal het gebruikersinterface van Marketo Engage niet meer op Internet Explorer worden gesteund.
 
-**_Webinar van de Versie van het Product_** [ sluit zich aan bij ons ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11:00AM PT/2:00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.
+**_Webinar van de Versie van het Product_** [ sluit zich aan bij ons ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11 :00AM PT/2 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.

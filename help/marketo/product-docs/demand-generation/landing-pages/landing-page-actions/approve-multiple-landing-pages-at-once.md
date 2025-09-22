@@ -4,7 +4,7 @@ description: Meerdere landingspagina's tegelijk goedkeuren - Marketo Docs - Prod
 title: Meerdere bestemmingspagina's tegelijk goedkeuren
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 1%

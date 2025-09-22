@@ -4,7 +4,7 @@ description: Formaat van label/veldbreedte wijzigen in een formulier - Marketo D
 title: De grootte van Label/veldbreedte in een formulier wijzigen
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

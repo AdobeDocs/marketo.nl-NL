@@ -4,10 +4,10 @@ description: AB Test Uw Campagne van het Web - de Documenten van Marketo - de Do
 title: AB Test Uw Campagne van het Web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '301'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -39,7 +39,7 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Ga de **Gesplitste Testende Naam van de Groep** in, klik **[!UICONTROL Create]**. Selecteer **[!UICONTROL Auto Tune]** .
+1. Ga de **Gesplitste Testende Naam van de Groep** in, klik **[!UICONTROL Create]**. Selecteer **[!UICONTROL Auto Tune]**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
@@ -55,7 +55,7 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. In de **[!UICONTROL Set Campaign]** pagina, selecteer **Splitsen Testen** en kies de **Groep** van drop-down. Selecteer **[!UICONTROL Auto Tune]** .
+1. In de **[!UICONTROL Set Campaign]** pagina, selecteer **Splitsen Testen** en kies de **Groep** van drop-down. Selecteer **[!UICONTROL Auto Tune]**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 

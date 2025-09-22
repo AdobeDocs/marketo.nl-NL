@@ -4,7 +4,7 @@ description: Persoon verwijderen - Marketo-documenten - Productdocumentatie
 title: Persoon verwijderen
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Soms komen onjuiste mensen in uw database terecht. De stap Person-flow verwijder
 
    ![](assets/delete-person-2.png)
 
-1. U kunt uit Marketo Engage en niet uit uw CRM schrappen, als zo:
+1. U kunt bijvoorbeeld verwijderen uit Marketo Engage en niet uit uw CRM:
 
    ![](assets/delete-person-3.png)
 

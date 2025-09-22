@@ -2,10 +2,10 @@
 description: Beveiligingsinstellingen - Marketo Docs - Productdocumentatie
 title: Beveiligingsinstellingen
 feature: Dynamic Chat
-exl-id: 9d5818ab-d8ab-435e-901e-250334fe2ebf
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 68a53986-6f42-4aa2-86f6-0b2097f94963
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ In de montages van de Veiligheid, hebt u de capaciteit om domeinen aan een geblo
 
 Als er om het even welke bezoekers met e-maildomeinen zijn u uw agenten niet met (b.v., een concurrent) wilt in wisselwerking staan, voeg hun e-maildomein aan de lijst van gewezen personen toe.
 
-1. Selecteer de **Validatie inschakelen** om uw lijst van gewezen personen te activeren. Voer maximaal 50 domeinen in en klik op **Opslaan**.
+1. Selecteer **toelaten de schuif van de Bevestiging** om uw lijst van gewezen personen te activeren. Ga tot 50 domeinen in en klik **sparen**.
 
    ![](assets/security-settings-2.png)
 
@@ -28,6 +28,6 @@ Als er om het even welke bezoekers met e-maildomeinen zijn u uw agenten niet met
 
 Door toegestane domeinen toe te voegen, zorgt u ervoor dat derden het JavaScript-bestand niet van uw site kunnen verwijderen en aan hun eigen site kunnen toevoegen.
 
-1. Selecteer de **Validatie inschakelen** om uw lijst van gewenste personen te activeren. Voer de toegestane domeinen in en klik op **Opslaan**.
+1. Selecteer **toelaten de schuif van de Bevestiging** om uw lijst van gewenste personen te activeren. Ga de toegestane domeinen in en klik **sparen**.
 
    ![](assets/security-settings-3.png)

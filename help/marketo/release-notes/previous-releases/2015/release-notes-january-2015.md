@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - januari 2015 - Marketo Docs - Productd
 title: Opmerkingen bij de release - januari 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Drie nieuwe oproepen voor de Leiding &amp; de REST API van de Activiteit:
 * Leads ophalen op basis van programma-id
 * Verwijderde leads ophalen
 
-Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. De volledige details zullen na de versie in [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) beschikbaar zijn
+Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. De volledige details zullen na de versie in [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) beschikbaar zijn
 
 **E-mailScripting de Steun van het Objecten van de Douane**
 
@@ -62,6 +62,6 @@ De opties voor de RTP-tag onder Accountinstellingen zijn zo bijgewerkt dat:
 1. Asynchrone tag zonder CDN
 1. Synchrone tag zonder CDN
 
-Voor de beste prestaties raden we u aan de tag boven aan de koptekst in uw webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [ RTP API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [ hier ](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Voor de beste prestaties raden we u aan de tag boven aan de koptekst in uw webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [ RTP API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [ hier ](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

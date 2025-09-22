@@ -4,7 +4,7 @@ description: Aangepaste Marketo-objecten maken - Marketo Docs - Productdocumenta
 title: Aangepaste Marketo-objecten maken
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 1%
@@ -63,7 +63,7 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Een aangepast object maken voor een veel-op-veel-structuur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 De volgende stap is dat u een tussenliggend object maakt (zie hieronder). Maar daarvoor moet u een veld maken om er een koppeling naar te maken.
 

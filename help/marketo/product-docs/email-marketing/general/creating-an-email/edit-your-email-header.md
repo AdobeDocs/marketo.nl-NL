@@ -4,7 +4,7 @@ description: Je e-mailkoptekst bewerken - Marketo Docs - Productdocumentatie
 title: Uw e-mailkoptekst bewerken
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%

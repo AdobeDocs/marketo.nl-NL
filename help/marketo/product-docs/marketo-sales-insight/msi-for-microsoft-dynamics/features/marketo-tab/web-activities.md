@@ -3,7 +3,7 @@ description: Webactiviteiten - Marketo Docs - Productdocumentatie
 title: Webactiviteiten
 exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -19,4 +19,4 @@ Bekijk de meest recente webactiviteiten van uw lead en verwijs naar de telling v
 
 ## Anonieme webactiviteiten {#anonymous-web-activities}
 
-Op het tabblad Anonieme webactiviteiten worden alle **anoniem** Webactiviteiten van bezoekers van webpagina&#39;s. Bekijk de meest recente webactiviteiten waarin het aantal paginabezoeken wordt vermeld.
+Het anonieme lusje van de Activiteiten van het Web toont alle **anonieme** Web-pagina bezoekersactiviteiten. Bekijk de meest recente webactiviteiten waarin het aantal paginabezoeken wordt vermeld.

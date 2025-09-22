@@ -4,7 +4,7 @@ description: Persoonlijke opmerkingen in Google - Marketo Docs - Productdocument
 title: Persoonlijke opmerkingen in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 2%
@@ -34,7 +34,7 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klik in de Audience Builder op **[!UICONTROL Sequences]** en **[!UICONTROL Find the RTP Data]** onder [!UICONTROL Custom Dimensions] , [!UICONTROL UICONTROL [ !] Custom Variables] , [!UICONTROL Events] .
+1. Klik in de Audience Builder op **[!UICONTROL Sequences]** en **[!UICONTROL Find the RTP Data]** onder [!UICONTROL Custom Dimensions] , [!UICONTROL [!]UICONTROL Custom Variables] , [!UICONTROL Events] .
 
 >[!TIP]
 >
@@ -66,7 +66,7 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Klik op **[!UICONTROL Sequences]**.
-1. Selecteer **[!UICONTROL RTP-Industry]** .
+1. Selecteer **[!UICONTROL RTP-Industry]**.
 1. Ga **Naam van de Industrie** in (b.v. [!UICONTROL Financial Services], [!UICONTROL Education]...).
 1. Klik op **[!UICONTROL Apply]**.
 1. Voer een **[!UICONTROL Audience Name]** in. Klik op **[!UICONTROL Save]**.

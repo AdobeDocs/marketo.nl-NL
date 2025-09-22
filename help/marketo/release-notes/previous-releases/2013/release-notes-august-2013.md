@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - Augustus 2013 - Marketo Docs - Product
 title: Release-aantekeningen -augustus 2013
 exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van augustus 2013.
 
-**Alleen tekst**
+**Tekst slechts e-mails**
 
-Nu kunt u [alleen de tekstversie](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) van een e-mail. Houd in mening, zullen de verbindingen niet worden versierd wanneer het gebruiken van deze optie.
+Nu kunt u [ enkel de tekstversie ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) van e-mail verzenden. Houd in mening, zullen de verbindingen niet worden versierd wanneer het gebruiken van deze optie.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -25,13 +25,13 @@ Nu kunt u [alleen de tekstversie](/help/marketo/product-docs/email-marketing/gen
 
 ### Uitgebreide inhoud negeren {#ignore-exhausted-content}
 
-Configureer het serviceprogramma om [uitputting negeren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), met inbegrip van de onderdrukking van kennisgevingen.
+Vorm het betrokkenheidsprogramma om uitputting [, met inbegrip van onderdrukking van om het even welke berichten te negeren ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md).
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Testen van betrokkenheidsstream {#engagement-stream-testing}
 
-Gebruik de [nieuwe testfunctie](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) om een gietvorm te simuleren, en nieuw toegevoegde inhoud aan een levende stroom te testen.
+Gebruik [ nieuwe het testen eigenschap ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) om een gietvorm te simuleren, en nieuw toegevoegde inhoud aan een levende stroom te testen.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -43,13 +43,13 @@ Wanneer u een e-mailtest verzendt, kunt u de naam van een lead selecteren om het
 
 ## &quot;E-mail weergeven als webpagina&quot; en &quot;Abonnement opzeggen&quot; {#view-email-as-web-page-and-unsubscribe-system-tokens}
 
-Deze gebruiken [nieuwe tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) om hun plaatsing in e-mails beter te controleren.
+Gebruik deze [ nieuwe tokens ](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md) om grotere controle van hun plaatsing in e-mails te verstrekken.
 
 ![](assets/image2014-9-22-16-3a35-3a38.png)
 
 ## Opruimen van campagne voor automatische activering {#automatic-trigger-campaign-cleanup}
 
-Marketo brengt u nu periodiek op de hoogte en [triggercampagnes automatisch deactiveren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) die in de afgelopen zes maanden niet hebben plaatsgevonden.
+Marketo zal u nu periodiek op de hoogte brengen en [ automatisch trekkercampagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) deactiveren die niet in de afgelopen zes maanden hebben gelopen.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

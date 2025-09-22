@@ -4,7 +4,7 @@ description: Assets filteren in een campagne-e-mailrapport - Marketo Docs - Prod
 title: Assets filteren in een campagne-e-mailrapport
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Assets filteren in een campagne-e-mailrapport {#filter-assets-in-a-campaign-email-reports}
 
-Focus uw [ rapport van de Prestaties van e-mail van de Campagne van 0&rbrace; &lbrace;op specifieke ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) slimme campagnes [ in uw programma&#39;s (&quot;lokale activa&quot;) of op die die zijn gearchiveerd.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
+Focus uw [ rapport van de Prestaties van e-mail van de Campagne van 0} {op specifieke ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) slimme campagnes [ in uw programma&#39;s (&quot;lokale activa&quot;) of op die die zijn gearchiveerd.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
 
 >[!NOTE]
 >

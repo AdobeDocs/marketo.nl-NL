@@ -4,10 +4,10 @@ description: Pushconfiguratie controleren - Marketo Docs - Productdocumentatie
 title: Pushconfiguratie verifiëren
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroni
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer **[!UICONTROL Mobile Apps]** .
+1. Selecteer **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 

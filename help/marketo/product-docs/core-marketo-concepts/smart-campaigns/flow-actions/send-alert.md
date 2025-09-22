@@ -4,7 +4,7 @@ description: Waarschuwing verzenden - Marketo-documenten - productdocumentatie
 title: Waarschuwing verzenden
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Waarschuwing verzenden {#send-alert}
 
-Marketo Engage kan een e-mailalarm met persooninformatie naar iedereen - de verkoopeigenaar, een partner, of iemand anders verzenden. Gebruik de stap &quot;[!UICONTROL Send Alert]&quot;-stroom.
+Marketo Engage kan een e-mailbericht met persoonlijke gegevens naar iedereen sturen - de eigenaar van de verkoop, een partner of iemand anders. Gebruik de stap &quot;[!UICONTROL Send Alert]&quot;-stroom.
 
 ![](assets/send-alert-1.png)
 

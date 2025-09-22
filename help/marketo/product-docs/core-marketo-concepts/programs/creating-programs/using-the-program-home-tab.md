@@ -4,10 +4,10 @@ description: Het programma Home Tab - Marketo Docs - Productdocumentatie gebruik
 title: Het tabblad Start van het programma gebruiken
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
 ## Samenvattingsweergave {#summary-view}
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Klikken **[!UICONTROL Export]** onder aan het rapport Overzicht om het te downloaden.
+1. Klik op **[!UICONTROL Export]** onder aan het rapport Overzicht om het te downloaden.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Wordt gebruikt door weergave {#used-by-view}
 
-1. In **[!UICONTROL Marketing Activities]** selecteert u een programma.
+1. Selecteer een programma in **[!UICONTROL Marketing Activities]** .
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klik op de knop **[!UICONTROL View]** vervolgkeuzelijst. Selecteren **[!UICONTROL Used By]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL View]** . Selecteer **[!UICONTROL Used By]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
 ## Weergave lidmaatschap {#membership-view}
 
-1. In **[!UICONTROL Marketing Activities]** selecteert u een programma.
+1. Selecteer een programma in **[!UICONTROL Marketing Activities]** .
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klik op de knop **[!UICONTROL View]** vervolgkeuzelijst. Selecteren **[!UICONTROL Membership]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL View]** . Selecteer **[!UICONTROL Membership]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    >[!NOTE]
    >
-   >**[!UICONTROL Historical]** geeft aan wie het programma ooit heeft doorlopen, terwijl **[!UICONTROL Current]** alleen personen die momenteel in het programma zijn opgenomen.
+   >**[!UICONTROL Historical]** verwijst naar iedereen die het programma heeft doorlopen, terwijl **[!UICONTROL Current]** alleen personen bevat die momenteel deelnemen aan het programma.
 
    >[!MORELIKETHIS]
    >
-   >[Werken met het lidmaatschap van het programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[ Begrijpend het Lidmaatschap van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

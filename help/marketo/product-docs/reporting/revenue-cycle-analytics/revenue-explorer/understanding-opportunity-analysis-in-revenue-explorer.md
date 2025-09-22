@@ -4,7 +4,7 @@ description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten -
 title: De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 3%

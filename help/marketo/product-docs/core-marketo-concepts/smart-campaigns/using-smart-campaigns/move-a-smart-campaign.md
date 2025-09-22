@@ -4,7 +4,7 @@ description: Een slimme campagne verplaatsen - Marketo Docs - Productdocumentati
 title: Een slimme campagne verplaatsen
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -17,17 +17,17 @@ Verplaats een slimme campagne tussen verschillende programma&#39;s of omslagen d
 
 >[!CAUTION]
 >
->Omdat de regels niet zullen veranderen, als de Slimme Lijst van de campagne of Stappen van de Stroom van de Stroom het originele programma van verwijzingen voorzien, moet u die informatie manueel bijwerken om op zijn nieuw programma te wijzen, aangezien het zal _niet_ automatisch bijwerken.
+>Omdat de regels niet zullen veranderen, als de Slimme Lijst van de campagne of de Stappen van de Stroom van de Stroom het originele programma van verwijzingen voorzien, moet u die informatie manueel bijwerken om op zijn nieuw programma te wijzen, aangezien het _niet_ auto-update zal.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Zoek de slimme campagne die u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **[!UICONTROL Move]**.
+1. Zoek de slimme campagne die u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **[!UICONTROL Move]** .
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Selecteer de **[!UICONTROL To]** (bestemming), **[!UICONTROL Program]**, en optioneel **[!UICONTROL Folder]**. Selecteren **[!UICONTROL Move]**.
+1. Selecteer **[!UICONTROL To]** (doel), **[!UICONTROL Program]** en optioneel **[!UICONTROL Folder]** . Selecteer **[!UICONTROL Move]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

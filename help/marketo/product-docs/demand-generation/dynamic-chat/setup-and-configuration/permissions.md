@@ -3,7 +3,7 @@ description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Machtigingen {#permissions}
 
-Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in de Dynamic Chat kunt bewerken. U kunt ook een aangepast profiel maken met een aangepaste set machtigingen. Laten we beide overslaan.
+Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u kunt bewerken in Dynamic Chat. U kunt ook een aangepast profiel maken met een aangepaste set machtigingen. Laten we beide overslaan.
 
 ## Bestaande machtigingen bewerken {#edit-existing-permissions}
 
-1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} , klik **Dynamic Chat**.
+1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}, klik **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
@@ -44,13 +44,13 @@ Er zijn vijf standaardprofielen met vooraf gedefinieerde machtigingen die u in d
 
    ![](assets/permissions-6.png)
 
-U kunt dit proces nu herhalen voor alle/alle andere gebieden van de Dynamic Chat.
+U kunt dit proces nu herhalen voor alle andere Dynamic Chat-gebieden.
 
 ![](assets/permissions-7.png)
 
 ## Een profiel maken {#create-a-profile}
 
-1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} , klik **Dynamic Chat**.
+1. In [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}, klik **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 
@@ -75,7 +75,7 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
 <table>
 <thead>
   <tr>
-    <th style="width:25%">Dynamic Chat</th>
+    <th style="width:25%">Dynamic Chat Area</th>
     <th>Machtigingen</th>
   </tr>
 </thead>
@@ -84,10 +84,10 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
     <td>Conversatiebeheer</td>
     <td><li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
-    <li>Publish-dialoogvensters</li>
+    <li>Dialoogvensters publiceren</li>
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
-    <li>Publish Conversation Flows</li></td>
+    <li>Conversatiestromen publiceren</li></td>
   </tr>
   <tr>
     <td>Live Chat</td>
@@ -129,7 +129,7 @@ Hieronder vindt u een lijst met alle beschikbare machtigingen voor elk gebied.
 </tbody>
 </table>
 
-**&#42;** Momenteel alleen beschikbaar voor Dynamic Premiers
+**&#42;** Momenteel alleen beschikbaar voor gebruikers van Dynamic Prime
 
 <p>
 
@@ -150,10 +150,10 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
     <td><i> het Beheer van gesprekken </i>
     <li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
-    <li>Publish-dialoogvensters</li>
+    <li>Dialoogvensters publiceren</li>
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
-    <li>Publish Conversation Flows</li>
+    <li>Conversatiestromen publiceren</li>
     <br>
     <i> Levende Chat </i>
     <li>nvt</li>
@@ -238,10 +238,10 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
     <td><i> het Beheer van gesprekken </i>
     <li>Dialoogvensters weergeven</li>
     <li>Dialoogvensters beheren (maken, verwijderen)</li>
-    <li>Publish-dialoogvensters</li>
+    <li>Dialoogvensters publiceren</li>
     <li>Conversale stromen weergeven</li>
     <li>Conversationele stromen beheren (maken, verwijderen)</li>
-    <li>Publish Conversation Flows</li>
+    <li>Conversatiestromen publiceren</li>
     <br>
     <i> Levende Chat </i>
     <li>nvt</li>
@@ -309,4 +309,4 @@ Hieronder staan de vijf standaardprofielen en de toestemmingen die door gebrek w
 </tbody>
 </table>
 
-**&#42;** Momenteel alleen beschikbaar voor Dynamic Premiers
+**&#42;** Momenteel alleen beschikbaar voor gebruikers van Dynamic Prime

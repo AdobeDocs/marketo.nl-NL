@@ -3,7 +3,7 @@ description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdoc
 title: Chatgebruikers toevoegen of verwijderen
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 1%
@@ -108,5 +108,5 @@ Als de nieuwe Marketo-rol van de chatgebruiker nog geen [!DNL Dynamic Chat] -mac
 
 >[!MORELIKETHIS]
 >
->* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
->* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

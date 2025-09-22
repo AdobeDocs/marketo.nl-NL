@@ -3,7 +3,7 @@ description: Adobe Identity Management - Overzicht - Marketo Docs - Productdocum
 title: Adobe Identity Management - Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden geÃ
 Voor abonnementen op Adobe-identiteit wordt de Adobe Admin Console gebruikt voor gebruikersbeheer. Identificatieconcepten, zoals Single Sign On, worden ook beheerd in de Admin Console.
 
 * Vind meer informatie over [ Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html){target="_blank"}.
-* Vind meer informatie over [ vestiging uw organisatie van Adobe met betrekking tot uw abonnement van Marketo ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
+* Vind meer informatie over [ vestiging uw organisatie van Adobe met betrekking tot uw abonnement van Marketo ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Opmerkingen bij de release -August 19 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - augustus 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -50,4 +50,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en zullen
 >
 >**om uw toegang van Marketo Engage te handhaven, gelieve ervoor te zorgen dat alle cliëntsystemen volgzaam TLS 1.2 vóór 13 December, 2019** zijn. De meer gedetailleerde informatie kan [ hier ](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq) worden gevonden.
 
-_&#x200B;**[ sluit zich aan bij ons ](https://engage.marketo.com/August_19_Release_Webinar.html) op 28 augustus bij 1:00PM PT/4:00PM ET voor een levend webinar dat door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.**&#x200B;_
+**__** sluit zich aan bij ons [ op Augustus 28 bij 1 ](https://engage.marketo.com/August_19_Release_Webinar.html) PT/4 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.:00PM

@@ -4,7 +4,7 @@ description: Opmerkingen bij de release -December 2014 - Marketo Docs - Productd
 title: Release-aantekeningen -december 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Drie nieuwe oproepen voor de Leiding &amp; de REST API van de Activiteit:
 
 ・ Lead samenvoegen
 
-De volledige details zullen na de versie in [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) beschikbaar zijn
+De volledige details zullen na de versie in [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) beschikbaar zijn
 
 ## [!DNL Munchkin Javascript] Verbeterde compatibiliteit {#munchkin-javascript-compatibility-enhancements}
 

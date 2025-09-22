@@ -4,7 +4,7 @@ description: Een extra brandingdomein toevoegen met Workspaces - Marketo Docs - 
 title: Een extra brandingdomein toevoegen met werkruimten
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 1%
@@ -17,11 +17,11 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
 
 >[!PREREQUISITES]
 >
->U moet [uw standaardbrandingdomein bewerken](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) eerst.
+>U moet [ uw standaard brandend domein ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) eerst uitgeven.
 >
->U moet eerst [de koppeling voor algemene tracering vervangen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) met een brandingdomein voordat er extra brandingdomeinen worden toegevoegd.
+>U moet eerst [ de generische volgende verbinding ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) met een brandend domein vervangen alvorens extra brandende domeinen toe te voegen.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
@@ -29,7 +29,7 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. Klikken **[!UICONTROL Add]** om een extra brandingdomein toe te voegen.
+1. Klik op **[!UICONTROL Add]** om een extra brandingdomein toe te voegen.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 
@@ -41,6 +41,6 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
    >
    >U kunt ervoor kiezen dit als primair domein voor een of meer werkruimten op te nemen. Alle bestaande niet-verzonden e-mails worden ingesteld op Standaard en alle nieuwe e-mailberichten worden standaard ingesteld op het primaire domein. U kunt dit per e-mail overschrijven.
 
-1. Selecteer het nieuwe brandingdomein en klik op **[!UICONTROL Save]**.
+1. Selecteer het nieuwe brandingdomein en klik op **[!UICONTROL Save]** .
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-5.png)

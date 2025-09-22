@@ -4,7 +4,7 @@ description: Inhoud toevoegen aan een fragment - Marketo Docs - Productdocumenta
 title: Inhoud toevoegen aan een fragment
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -21,7 +21,7 @@ U kunt tokens, afbeeldingen, bestanden of tekst met opmaak toevoegen aan een fra
 
 >[!NOTE]
 >
->U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het zal **&#x200B;**&#x200B;niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
+>U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het zal **** niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
 1. Ga naar de **[!UICONTROL Design Studio]** .
 

@@ -4,7 +4,7 @@ description: SEO - Een binnenkomende URL van een koppeling verwijderen/verwijder
 title: SEO - verwijder/verwijder een Binnenkomende Verbinding URL
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Soms wilt u binnenkomende koppelingen verwijderen. Hieronder wordt beschreven hoe:
 
-1. Ga naar de **[!UICONTROL Inbound Links]** sectie.
+1. Ga naar de sectie **[!UICONTROL Inbound Links]** .
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 

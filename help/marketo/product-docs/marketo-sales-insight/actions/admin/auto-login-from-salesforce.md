@@ -3,7 +3,7 @@ description: Automatische aanmelding vanuit Salesforce - Marketo Docs - Productd
 title: Automatisch aanmelden bij Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Als u Automatisch aanmelden wilt gebruiken:
 
 * De gebruiker moet de account hebben geactiveerd door zijn [!DNL Salesforce] -account aan te sluiten op zijn [!DNL Sales Insight Actions] -exemplaar
 
-* De gebruikersnaam [!DNL Sales Insight Actions] van de gebruiker moet overeenkomen met de [!DNL Salesforce] gebruikersnaam (of de gebruikersnaam en het e-mailadres van de gebruiker komen overeen) [!DNL Salesforce]
+* De gebruikersnaam [!DNL Sales Insight Actions] van de gebruiker moet overeenkomen met de [!DNL Salesforce] gebruikersnaam (of de gebruikersnaam en het e-mailadres van de gebruiker komen overeen)[!DNL Salesforce]
 
 >[!MORELIKETHIS]
 >

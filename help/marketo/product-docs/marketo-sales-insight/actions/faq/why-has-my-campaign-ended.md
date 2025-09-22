@@ -1,8 +1,8 @@
 ---
 description: Waarom is mijn campagne beëindigd? - Marketo Docs - Productdocumentatie
 title: Waarom is mijn campagne beëindigd?
-exl-id: d1d14150-7d50-48f5-abd3-fc40cfe74c98
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

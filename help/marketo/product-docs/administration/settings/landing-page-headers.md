@@ -3,7 +3,7 @@ description: Landingspagina-headers - Marketo Docs - Productdocumentatie
 title: Landingspaginakoppen
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Voer de onderstaande stappen uit om een aantal HTTP-headers in de domeinen van de bestemmingspagina aan te passen.
 
-1. Klik in Marketo op **[!UICONTROL Admin]**.
+1. Klik in Marketo op **[!UICONTROL Admin]** .
 
    ![](assets/landing-page-headers-1.png)
 
@@ -22,11 +22,11 @@ Voer de onderstaande stappen uit om een aantal HTTP-headers in de domeinen van d
 
    ![](assets/landing-page-headers-2.png)
 
-1. Klikken **[!UICONTROL Edit]** naast HTTP-headers van bestemmingspagina.
+1. Klik op **[!UICONTROL Edit]** naast HTTP-headers van bestemmingspagina.
 
    ![](assets/landing-page-headers-3.png)
 
-1. Kies de gewenste instellingen en klik op **[!UICONTROL Save]** wanneer gereed.
+1. Kies de gewenste instellingen en klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/landing-page-headers-4.png)
 

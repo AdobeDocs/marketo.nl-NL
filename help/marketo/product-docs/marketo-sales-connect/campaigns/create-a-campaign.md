@@ -4,7 +4,7 @@ description: Een campagne maken - Marketo Docs - Productdocumentatie
 title: Een campagne maken
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Hoe zet je een campagne op?
    >
    >Maak een nieuwe categorie door op **+** naast **[!UICONTROL Categories]** te klikken.
 
-1. De gekozen rubriek wordt geselecteerd. Als u van mening verandert, klikt u op de vervolgkeuzelijst en selecteert u een andere. Klik op **[!UICONTROL &#x200B; Continue]** als u klaar bent.
+1. De gekozen rubriek wordt geselecteerd. Als u van mening verandert, klikt u op de vervolgkeuzelijst en selecteert u een andere. Klik op **[!UICONTROL  Continue]** als u klaar bent.
 
    ![](assets/three-1.png)
 

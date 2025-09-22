@@ -4,7 +4,7 @@ description: Gebruik LinkedIn Gen Form Filters and Triggers in een slimme campag
 title: LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

@@ -4,7 +4,7 @@ title: E-mailsjablonen
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1819'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjab
 
 >[!PREREQUISITES]
 >
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 >[!NOTE]
 >
@@ -161,7 +161,7 @@ De editor geeft het fragment weer binnen de sectie/het element van de e-mailstru
 >
 >Als u het fragment de volledige horizontale lay-out binnen e-mail wilt bezetten, voeg een 1 :1 kolomstructuur toe en sleep en zet dan het fragment in het.
 
-Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTROL Used By]_&#x200B;van de pagina met fragmentdetails. Fragmenten die aan een e-mailsjabloon zijn toegevoegd, kunnen niet worden bewerkt in de sjabloon. Het bronfragment definieert de inhoud.
+Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTROL Used By]_van de pagina met fragmentdetails. Fragmenten die aan een e-mailsjabloon zijn toegevoegd, kunnen niet worden bewerkt in de sjabloon. Het bronfragment definieert de inhoud.
 
 ### Elementen toevoegen {#add-assets}
 
@@ -193,13 +193,13 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
 1. Selecteer de kolom in de structuurcomponent direct in het canvas of gebruikend de _boom van de Navigatie_ die bij de linkerzijde wordt getoond.
 
-1. Klik in de kolomwerkbalk op het gereedschap _[!UICONTROL Select a column]_&#x200B;en kies het gereedschap dat u wilt bewerken.
+1. Klik in de kolomwerkbalk op het gereedschap _[!UICONTROL Select a column]_en kies het gereedschap dat u wilt bewerken.
 
-   U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_&#x200B;en&#x200B;_[!UICONTROL Styles]_ rechts.
+   U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_en_[!UICONTROL Styles]_ rechts.
 
    ![](assets/layers-settings-styles-2.png)
 
-1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_&#x200B;aan de rechterkant en wijzigt u deze naar wens:
+1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_aan de rechterkant en wijzigt u deze naar wens:
 
    * Wijzig voor **[!UICONTROL Background]** de achtergrondkleur zo nodig.
 
@@ -208,7 +208,7 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
    * Voor **[!UICONTROL Alignment]**, selecteer de _Hoogste_, _Midden_, of _Onderste_ pictogram.
    * Definieer bij **[!UICONTROL Padding]** de opvulling voor alle zijden.
 
-     Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot &lbrace;om synchronisatie te breken.
+     Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot {om synchronisatie te breken.
 
    * Vouw de sectie **[!UICONTROL Advanced]** uit om inline stijlen voor de kolom te definiëren.
 

@@ -4,7 +4,7 @@ description: Een filterdefinitie opslaan in de marketingagenda - Marketo Docs - 
 title: Een filterdefinitie opslaan in de marketingkalender
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
 >[!PREREQUISITES]
 >
->[De marketingkalender filteren](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[ Filtrerend de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
 
 1. Definieer het filter.
 
@@ -35,8 +35,8 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Indien gewenst, kunt u [een kopie verzenden](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} van de definitie voor andere Marketo-gebruikers.
+   Als u wilt, kunt u [ een exemplaar ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} van de definitie naar andere gebruikers van Marketo verzenden.
 
    >[!NOTE]
    >
-   >[Een filterdefinitie delen in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[ het Delen van een Definitie van de Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

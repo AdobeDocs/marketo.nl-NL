@@ -4,7 +4,7 @@ description: Een lijst met niet-Latijnse tekens importeren - Marketo Docs - Prod
 title: Een lijst met niet-Latijnse tekens importeren
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%

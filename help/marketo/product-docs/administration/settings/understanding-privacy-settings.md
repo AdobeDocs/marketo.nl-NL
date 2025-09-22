@@ -4,9 +4,9 @@ description: Privacy-instellingen begrijpen - Marketo Docs - Productdocumentatie
 title: Privacy-instellingen begrijpen
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,21 @@ Marketo biedt marketeers een manier om ervoor te zorgen dat webbezoekers hun toe
 
 Of, kan de telleraar gebruikers volgen, maar gebruik anonymized IP.
 
-Deze methoden kunnen van invloed zijn op de Marketo-waarde en -functionaliteit in specifieke gebieden. Als de markeerteken echter _niet_ Als u iets wilt wijzigen in de Marketo-configuratie, blijft de Marketo-functionaliteit hetzelfde.
+Deze methoden kunnen van invloed zijn op de Marketo-waarde en -functionaliteit in specifieke gebieden. Nochtans, als de telleraar _om het even wat_ verandert in de configuratie van Marketo, blijft de functionaliteit van Marketo het zelfde.
 
 ## Browserinstellingen voor Niet bijhouden {#browser-settings-for-do-not-track}
 
 Webbezoekers kunnen hun browser zo instellen dat websites niet kunnen worden bijgehouden door &#39;&#39;Niet bijhouden&#39;&#39; (DNT) te kiezen. Hierdoor wordt het bijhouden van gegevens voor deze browser en dit apparaat voorkomen. Zie de privacyinstellingen van de browser voor meer informatie.
 
-In [!DNL Munchkin], kan een markeerteken [beslissen of de DNT-instelling van de browser wordt ondersteund of genegeerd](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+In [!DNL Munchkin], kan een teller [ beslissen of om DNT van browser te steunen of te negeren plaatsend ](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
-In de Personalisatie van het Web, kan een teller beslissen of te [de DNT-instelling van de browser ondersteunen of negeren](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
+In Personalization van het Web, kan een teller beslissen of [ steun of het browser het plaatsen van DNT ](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md) negeren.
 
 ## Weigeren van een specifieke website {#opt-out-from-a-specific-website}
 
-U kunt bezoekers van de site ook toestaan om websitetracering van uw website te weigeren, ongeacht of **Browser niet bijhouden** worden instellingen geconfigureerd. Hierdoor kan de bezoeker van de site zijn voorkeuren voor bijhouden rechtstreeks vanaf uw website opgeven.
+U kunt plaatsbezoekers ook toestaan om uit website het volgen van uw website te weigeren, ongeacht of **Browser** montages niet wordt gevormd. Hierdoor kan de bezoeker van de site zijn voorkeuren voor bijhouden rechtstreeks vanaf uw website opgeven.
 
-Hiervoor moet u een parameter toevoegen aan een koppeling om te weigeren op een webpagina die [!DNL Munchkin] tracking ingeschakeld. Dit kan elke webpagina zijn, maar de koppeling naar de webpagina moet de volgende parameter bevatten:
+Hiervoor moet u een parameter toevoegen aan een koppeling om te weigeren op een webpagina waarop [!DNL Munchkin] tracking is ingeschakeld. Dit kan elke webpagina zijn, maar de koppeling naar de webpagina moet de volgende parameter bevatten:
 
 ?marketo_opt_out=true
 
@@ -50,9 +50,9 @@ U kunt een landingspagina maken en publiceren als een vervolgpagina voor wanneer
 
 ![](assets/understanding-privacy-settings-2.png)
 
-Wanneer op de koppeling wordt geklikt, voegt Marketo een cookie met de naam **mkto_opt_out** naar de browser van de bezoeker die [!DNL Munchkin] bijhouden voor de sitebezoeker die op de koppeling met de bovenstaande parameter klikt.
+Wanneer de verbinding wordt geklikt, voegt Marketo een koekje genoemd **mkto_opt_out** aan browser van de bezoeker toe die [!DNL Munchkin] het volgen voor de plaatsbezoeker onbruikbaar maakt die de verbinding met de bovengenoemde parameter klikt.
 
-Als u wilt controleren of de cookie kan worden geplant, controleert u of u een gekoelde lead bent en klikt u op de koppeling. Controleer vervolgens uw browsercookies om te controleren of de **mkto_opt_out** cookie toegevoegd.
+Als u wilt controleren of de cookie kan worden geplant, controleert u of u een gekoelde lead bent en klikt u op de koppeling. Dan controleer uw browser koekjes om te verifiëren dat het **mkto_opt_out** koekje werd toegevoegd.
 
 ![](assets/understanding-privacy-settings-3.png)
 
@@ -66,14 +66,14 @@ Marketers kunnen gebruikers de mogelijkheid bieden zich aan te melden door gebru
 
 ## Het volgen die een Geanonymized IP gebruiken {#tracking-using-an-anonymized-ip}
 
-Marketers kunnen de privacy beschermen door gebruikers met een geanonimiseerd IP-adres te volgen. Om dat te doen, voeg deze code aan RTP toe of [!DNL Munchkin] JavaScript die is ingesloten in de website.
+Marketers kunnen de privacy beschermen door gebruikers met een geanonimiseerd IP-adres te volgen. Hiervoor voegt u deze code toe aan de RTP of [!DNL Munchkin] Javascript die in de website is ingesloten.
 
-* Voor [!DNL Munchkin], voeg enkel {&quot;anonymizeIP&quot;, waar} aan de init functie toe.
+* Voeg voor [!DNL Munchkin] alleen {&quot;anonymizeIP&quot;,true} toe aan de init-functie.
 
   >[!NOTE]
   >
-  >Wanneer deze parameter wordt gebruikt, moet: [!DNL Munchkin] V2 inschakelen. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/community/support_solutions).
+  >Wanneer u deze parameter gebruikt, moet [!DNL Munchkin] V2 zijn ingeschakeld. Om het te krijgen toegelaten voor uw abonnement, gelieve te contacteren {de Steun van 0} Marketo [.](https://nation.marketo.com/community/support_solutions)
 
-* Voor Personalisatie van het Web (RTP), voeg dit aan javascript toe:
+* Voor Web Personalization (RTP), voeg dit aan javascript toe:
 
 `anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`

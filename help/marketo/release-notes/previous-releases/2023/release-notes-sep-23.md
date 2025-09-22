@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - september 2023 - Marketo Docs - Produc
 title: Opmerkingen bij de release - september 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -91,7 +91,7 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
   <tr>
    <td><strong> Marketo + de Integratie van Workfront </strong>: Voor degenen die Marketo en Workfront hebben, kunt u de Malplaatjes van de Fusie van Workfront nu gebruiken om de twee producten te integreren en nieuwe automatiseringswerkschema's te ontgrendelen om campagneuitvoering te stroomlijnen.</td>
    <td>Verzonden</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=nl-NL" target="_blank">Blauwdruk bekijken en goedkeuren</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Blauwdruk bekijken en goedkeuren</a></td>
   </tr>
  </tbody>
 </table>

@@ -4,7 +4,7 @@ description: Bijhouden uitschakelen voor een e-mailkoppeling - Marketo Docs - Pr
 title: Bijhouden uitschakelen voor een e-mailkoppeling
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%

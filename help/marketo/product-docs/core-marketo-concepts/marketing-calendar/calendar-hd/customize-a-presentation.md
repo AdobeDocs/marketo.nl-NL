@@ -4,7 +4,7 @@ description: Een presentatie aanpassen - Marketo Docs - Productdocumentatie
 title: Een presentatie aanpassen
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -76,7 +76,7 @@ De kalenderweergave kan worden gewijzigd in een weergave van 3 weken of per maan
 
 Nadat de presentatie is geconfigureerd, kunt u deze voorvertonen en starten.
 
-1. Selecteer **[!UICONTROL Preview]** .
+1. Selecteer **[!UICONTROL Preview]**.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 

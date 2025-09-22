@@ -4,7 +4,7 @@ description: Een geüploade afbeelding of bestand vervangen - Marketo Docs - Pro
 title: Een geüploade afbeelding of bestand vervangen
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een geüploade afbeelding of bestand vervangen {#replace-an-uploaded-image-or-file}
 
-1. Ga naar de **[!UICONTROL Design Studio]**.
+1. Ga naar de **[!UICONTROL Design Studio]** .
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. Selecteer het element dat u wilt vervangen. Klik op de knop **[!UICONTROL Image and file actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Replace image or file]**.
+1. Selecteer het element dat u wilt vervangen. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Replace image or file]** .
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Het vervangende bestandstype moet hetzelfde zijn als het origineel (bijvoorbeeld .jpg)
 
-1. Nadat u de vervangende afbeelding/het vervangende bestand hebt geselecteerd, klikt u op **[!UICONTROL Replace]**.
+1. Klik op **[!UICONTROL Replace]** nadat u de vervangende afbeelding/het vervangende bestand hebt geselecteerd.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 
@@ -45,5 +45,5 @@ Goed gedaan!
 
 >[!MORELIKETHIS]
 >
->* [Geüploade afbeeldingen en bestanden doorzoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [De URL van een geüploade afbeelding of bestand zoeken](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [ Onderzoek Geüploade Beelden en Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [ vind URL van een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Een lijst verzenden naar Adobe Experience Cloud - Marketo Docs - Pr
 title: Een lijst naar Adobe Experience Cloud verzenden
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 781f1350b4eae731bd77013ed9f238d77a6fcd32
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 1%
@@ -94,9 +94,9 @@ U kunt de lijst op elk gewenst moment niet meer synchroniseren.
 
 ### Delen naar Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Voor gebruikers die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Gelieve te herzien {de documentatie van 0} Adobe Audience Manager [ voor meer informatie over hoe te opstelling dit.](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL){target="_blank"}
+* Voor gebruikers die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Gelieve te herzien {de documentatie van 0} Adobe Audience Manager [ voor meer informatie over hoe te opstelling dit.](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"}
 
-* Nadat een lijst van Marketo aan Adobe Audience Manager wordt geupload, kan het ook door Adobe Target worden betreden. Die configuratie [ moet in Adobe Target ](https://experienceleague.adobe.com/nl/docs/target/using/integrate/audience-manager-target-integration){target="_blank"} worden toegelaten.
+* Nadat een lijst van Marketo aan Adobe Audience Manager wordt geupload, kan het ook door Adobe Target worden betreden. Die configuratie [ moet in Adobe Target ](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"} worden toegelaten.
 
 * Als een lijst leeg is of geen personen met ECID-waarden heeft, wordt er niet naar de lijstnaam verwezen buiten Marketo.
 

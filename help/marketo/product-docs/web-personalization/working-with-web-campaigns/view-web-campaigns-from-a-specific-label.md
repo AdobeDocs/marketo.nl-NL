@@ -4,7 +4,7 @@ description: Webcampagnes weergeven van een specifiek label - Marketo Docs - Pro
 title: Webcampagnes weergeven op basis van een specifiek label
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

@@ -4,7 +4,7 @@ title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/On
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -95,7 +95,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
    * Lood
    * Contact
    * Account
-   * Opportunity
+   * Kans
 
    >[!TIP]
    >

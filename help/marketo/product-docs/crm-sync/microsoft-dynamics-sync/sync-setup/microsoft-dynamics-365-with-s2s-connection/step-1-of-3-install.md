@@ -3,7 +3,7 @@ description: Stap 1 van 3 - Installeer de Marketo-oplossing met Server-naar-serv
 title: Stap 1 van 3 - Installeer de Marketo-oplossing met Server-naar-server verbinding
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 2%
@@ -42,7 +42,7 @@ Voordat u [!DNL Microsoft Dynamics 365] en Marketo kunt synchroniseren, moet u e
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klik op **[!UICONTROL Choose File]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Choose File]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 

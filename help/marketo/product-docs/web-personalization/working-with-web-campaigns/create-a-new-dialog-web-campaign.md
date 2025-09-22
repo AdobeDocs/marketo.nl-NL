@@ -4,7 +4,7 @@ description: Een nieuwe webcampagne voor dialoog maken - Marketo Docs - Productd
 title: Een nieuwe webcampagne voor dialoog maken
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Selecteer **[!UICONTROL Create New Web Campaign]** .
+1. Selecteer **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 

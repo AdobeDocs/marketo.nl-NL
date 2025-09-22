@@ -4,7 +4,7 @@ description: Verkoopverbinding maken met uw Salesforce-sandbox - Marketo Docs - 
 title: Verkoopverbinding maken met uw Salesforce-sandbox
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Uw [!DNL &#x200B; Sales Connect] -account kan nog niet verbonden zijn met [!DNL Salesforce] wanneer u een verbinding tot stand brengt met de sandbox. Als het is, [ zorg ervoor u ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) losmaakt alvorens de stappen in dit artikel te volgen.
+>Uw [!DNL  Sales Connect] -account kan nog niet verbonden zijn met [!DNL Salesforce] wanneer u een verbinding tot stand brengt met de sandbox. Als het is, [ zorg ervoor u ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) losmaakt alvorens de stappen in dit artikel te volgen.
 
 1. Klik in [!DNL Sales Connect] op het tandwielpictogram rechtsboven en selecteer **[!UICONTROL Settings]** .
 

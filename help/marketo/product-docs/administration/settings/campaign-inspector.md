@@ -1,22 +1,22 @@
 ---
 description: Campagne Inspector - Marketo Docs - Productdocumentatie
-title: Campagnecontrole
+title: Campagne-controle
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Campagnecontrole {#campaign-inspector}
+# Campagne-controle {#campaign-inspector}
 
-Met de Campagnecontrole kunt u al uw slimme campagnes op één locatie bekijken of doorzoeken.
+Met de Campagneontwikkelaar kunt u al uw slimme campagnes op één locatie bekijken of doorzoeken.
 
 ## Campagnecontrole inschakelen {#enable-campaign-inspector}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/campaign-inspector-1.png)
 
@@ -24,11 +24,11 @@ Met de Campagnecontrole kunt u al uw slimme campagnes op één locatie bekijken 
 
    ![](assets/campaign-inspector-2.png)
 
-1. Klikken **[!UICONTROL Edit]** naast Campagne Inspector.
+1. Klik op **[!UICONTROL Edit]** naast Campagnecontrole.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Selecteer **[!UICONTROL Enabled]** selectievakje en klik op **[!UICONTROL Save]**.
+1. Selecteer het selectievakje **[!UICONTROL Enabled]** en klik op **[!UICONTROL Save]** .
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ Zodra toegelaten, kan het lusje van de Inspecteur van de Campagne naast het lusj
 
 ![](assets/campaign-inspector-5.png)
 
-Klik op de knop **[!UICONTROL Active Campaigns]** vervolgkeuzelijst om te filteren op verschillende typen campagnes.
+Klik op de vervolgkeuzelijst **[!UICONTROL Active Campaigns]** om te filteren op verschillende typen campagnes.
 
 ![](assets/campaign-inspector-6.png)
 

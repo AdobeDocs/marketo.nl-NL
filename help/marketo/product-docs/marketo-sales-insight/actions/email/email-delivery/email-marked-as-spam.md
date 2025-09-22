@@ -1,9 +1,9 @@
 ---
 description: E-mail gemarkeerd als spam - Marketo Docs - Productdocumentatie
 title: E-mail gemarkeerd als spam
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -12,12 +12,12 @@ ht-degree: 0%
 
 Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoog blijven. Toch zijn er bepaalde gebruikersgedragingen en instellingen die ertoe kunnen leiden dat uw verzonden e-mails naar de map spam worden omgeleid.
 
-**Uw instellingen controleren**
+**controleer Uw Montages**
 
-* Aangepast domein bijhouden: Zo kunt u al uw trackingkoppelingen direct laten weergeven.&quot;uwdomein&quot; in plaats van go.toutapp. Bij e-mailbeveiliging wordt vastgesteld dat de e-mail afkomstig is van &quot;uwdomein&quot;, maar dat de koppeling wordt omgeleid naar go.toutapp. Door een koppeling naar een aangepast domein in te voeren die uw e-mails volgt, ziet deze er legitiem uit en is de kans groter dat de geadresseerde zijn postvak in raakt.
-* E-mailleveringskanaal: Uw team zal de optie hebben om of uw Gmail/Vooruitzichten leveringskanaal te gebruiken of opstelling een douane SMTP. [Klik hier](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) voor meer informatie over het selecteren van het juiste leveringskanaal voor uw behoeften.
+* Aangepaste domeintracering: hiermee kunt u al uw trackingkoppelingen direct laten weergeven.&quot;uwdomein&quot; in plaats van go.toutapp. Bij e-mailbeveiliging wordt vastgesteld dat de e-mail afkomstig is van &quot;uwdomein&quot;, maar dat de koppeling wordt omgeleid naar go.toutapp. Door een koppeling naar een aangepast domein in te voeren die uw e-mails volgt, ziet deze er legitiem uit en is de kans groter dat de geadresseerde zijn postvak in raakt.
+* E-mailleveringskanaal: uw team heeft de optie om uw Gmail/Outlook-leveringskanaal te gebruiken of een aangepaste SMTP in te stellen. [ klik hier ](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) om meer over het selecteren van het juiste leveringskanaal voor uw behoeften te lezen.
 
-**Controleer uw e-mailgedrag**
+**controleer Uw E-mailgedrag**
 
 * Houd uw e-mails kort en informeel en plak uw sjablonen als een e-mail die u eerder hebt geschreven.
 
@@ -25,8 +25,8 @@ Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoo
 
 * Zorg ervoor dat u een volledig ingevulde e-mailhandtekening met een fysiek adres hebt.
 
-* Lees dit voor en zorg ervoor dat u voldoet aan [CAN-SPAM-wetten](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business).
+* Lees omhoog en zorg ervoor u [ KAN-SPAM wetten ](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) naleeft.
 
 >[!MORELIKETHIS]
 >
->[Overzicht van leveringskanaal](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+>[ Overzicht van het Kanaal van de Levering ](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)

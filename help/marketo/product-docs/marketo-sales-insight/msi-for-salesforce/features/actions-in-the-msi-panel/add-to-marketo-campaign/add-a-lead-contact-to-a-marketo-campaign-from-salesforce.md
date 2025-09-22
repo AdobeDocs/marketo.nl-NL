@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10099167
-description: Kies een actie in het Verkoopinzicht - Marketo Docs - Productdocumentatie
-title: Kies een actie in het Verkoopoverzicht
+description: Kies een actie in Sales Insight - Marketo Docs - Productdocumentatie
+title: Een actie kiezen in Verkoopmanager Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# Kies een actie in het Verkoopoverzicht {#choose-an-action-in-sales-insight}
+# Een actie kiezen in Verkoopmanager Insight {#choose-an-action-in-sales-insight}
 
-De volgende acties zijn beschikbaar bij de drop-down van het Inzicht van de Verkoop in Salesforce Classic en Lightning:
+De volgende acties zijn beschikbaar in het vervolgkeuzemenu Sales Insight in Salesforce Classic en Lightning:
 
 * Marketo-e-mail verzenden
 * Toevoegen aan Marketo-campagne
@@ -20,34 +20,35 @@ De volgende acties zijn beschikbaar bij de drop-down van het Inzicht van de Verk
 
 Al deze functies zijn toegankelijk vanaf:
 
-**Pagina-indeling met één handeling**
+**Lay-out van de Pagina met enige actie**
 
-* Deelvenster Lay-out lead: Eén handeling en kan worden beheerd door gebruikersprofiel
-* Deelvenster Contactlayout: Eén handeling en kan worden beheerd door gebruikersprofiel
-* Knop Lay-out lead: Eén handeling en kan niet worden beheerd door gebruikersprofiel
-* Knop Contactlay-out: Eén handeling en kan niet worden beheerd door gebruikersprofiel
+* Deelvenster Lay-out lead: één handeling en kan worden beheerd door gebruikersprofiel
+* Deelvenster Lay-out contact: één handeling en kan worden beheerd door een gebruikersprofiel
+* Knop Lay-out lead: één handeling en kan niet worden beheerd door gebruikersprofiel
+* Knop Contactlayout: één handeling die niet door het gebruikersprofiel kan worden beheerd
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-**Pagina-indeling met groepactie**
+**Lay-out van de Pagina met groepsactie**
 
-Venster Accountlay-out: Groepsactie en kan worden beheerd door het deelvenster Opportunity Layout van gebruikersprofiel: Groepsactie en kan worden beheerd door gebruikersprofiel
+Account Layout Panel: Group action &amp; can be control by user profile
+Deelvenster Opportuniteitsindeling: groepsactie en kan worden beheerd door gebruikersprofiel
 
 ![](assets/-.png)
 
-**Tabblad Best Bets**
+**Beste Bets tabel**
 
-* Tabblad Handelingen in lijst met beste items: Groepsactie en kan worden beheerd door gebruikersprofiel
+* Best Bets Bulk Actions Tab: actie Group &amp; kan worden beheerd door gebruikersprofiel
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-* Tabblad Best Bets In line Actions: Eén handeling en kan worden beheerd door gebruikersprofiel
+* Tabblad Best Bets In line Actions: één handeling en kan worden beheerd door gebruikersprofiel
 
-   ![](assets/-.png)
+  ![](assets/-.png)
 
-**Lijstweergave met bulkactie**
+**Mening van de Lijst met bulkactie**
 
-* Weergave lijst met leads: Bulkactie en kan niet worden beheerd door gebruikersprofiel
+* Weergave lijst met leads: actie Bulk en kan niet worden beheerd door gebruikersprofiel
 * Weergave lijst met contactpersonen: Bulkactie en kan niet worden beheerd door gebruikersprofiel
 
-   ![](assets/-.png)
+  ![](assets/-.png)

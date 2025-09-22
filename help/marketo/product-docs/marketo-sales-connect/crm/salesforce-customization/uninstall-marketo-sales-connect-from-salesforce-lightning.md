@@ -2,10 +2,10 @@
 description: Marketo Sales Connect verwijderen van Salesforce Lightning - Marketo Docs - Productdocumentatie
 title: Marketo Sales Connect verwijderen van Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -290,7 +290,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Gegevens en tijd</td>
  </tr>
  <tr>
@@ -300,7 +300,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Gegevens en tijd</td>
  </tr>
  <tr>
@@ -310,7 +310,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Tekst</td>
  </tr>
  <tr>
@@ -320,7 +320,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Tekst</td>
  </tr>
  <tr>
@@ -330,7 +330,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Tekst</td>
  </tr>
  <tr>
@@ -340,7 +340,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Gegevens en tijd</td>
  </tr>
  <tr>
@@ -350,7 +350,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Gegevens en tijd</td>
  </tr>
  <tr>
@@ -360,7 +360,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Tekst</td>
  </tr>
  <tr>
@@ -370,7 +370,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Gegevens en tijd</td>
  </tr>
  <tr>
@@ -380,7 +380,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
   <td>Selectievakje</td>
  </tr>
 </table>
@@ -398,7 +398,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-exemplaar moeten wo
   <p>Account
   <p>Contact
   <p>Lood
-  <p>Opportunity</td>
+  <p>Kans</td>
  </tr>
  <tr>
   <td>Toevoegen aan MSC-campagne</td>

@@ -4,10 +4,10 @@ description: Marketo Sales Insight installeren en configureren in Salesforce1 - 
 title: Marketo Sales Insight in Salesforce1 installeren en configureren
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] in [!DNL Salesforce1] omvat: [!DNL B test Bets &#x200B;], voer van het Lood, het Interesten Momenten, en voeg aan de Campagne van Marketo toe.
+>[!DNL Marketo Sales Insight] in [!DNL Salesforce1] omvat: [!DNLB test Bets ], voer van het Lood, het Interesten Momenten, en voeg aan de Campagne van Marketo toe.
 
 ## De mobiele toepassing van [!DNL Salesforce1] inschakelen {#enable-the-salesforce1-mobile-app}
 
@@ -57,7 +57,7 @@ ht-degree: 4%
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
-1. Selecteer **[!UICONTROL Mobile Administration]** .
+1. Selecteer **[!UICONTROL Mobile Administration]**.
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
@@ -79,11 +79,11 @@ ht-degree: 4%
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. Selecteer **[!UICONTROL Manage Users]** .
+1. Selecteer **[!UICONTROL Manage Users]**.
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
-1. Selecteer **[!UICONTROL Profiles]** .
+1. Selecteer **[!UICONTROL Profiles]**.
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
@@ -95,7 +95,7 @@ ht-degree: 4%
 
    ![](assets/image2015-5-5-13-3a55-3a36.png)
 
-1. Selecteer **[!UICONTROL Tab Hidden]** .
+1. Selecteer **[!UICONTROL Tab Hidden]**.
 
    ![](assets/image2015-5-5-14-3a2-3a29.png)
 

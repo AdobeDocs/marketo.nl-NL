@@ -4,9 +4,9 @@ description: Personen in een slimme lijst of lijst verwijderen - Marketo Docs - 
 title: Personen in een slimme lijst of lijst verwijderen
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
 >[!PREREQUISITES]
 >
->[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/ma-1.png)
 
-1. Selecteer de lijst/slimme lijst die alle personen bevat die u wilt verwijderen en ga naar de **[!UICONTROL People]** tab.
+1. Selecteer de lijst/slimme lijst met alle personen die u wilt verwijderen en ga naar het tabblad **[!UICONTROL People]** .
 
    ![](assets/two-1.png)
 
@@ -37,13 +37,13 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
    >[!NOTE]
    >
-   >Als de resultaten over meerdere pagina&#39;s worden verdeeld, klikt u op **[!UICONTROL Select All]** Alle personen op alle pagina&#39;s selecteren.
+   >Als de resultaten zich uitstrekken over meerdere pagina&#39;s, worden door te klikken op **[!UICONTROL Select All]** alle personen op alle pagina&#39;s geselecteerd.
 
-1. Als u de personen volledig uit Marketo wilt verwijderen, klikt u op **[!UICONTROL Delete Person]**.
+1. Klik op **[!UICONTROL Delete Person]** om de personen volledig uit Marketo te verwijderen.
 
    ![](assets/four-1.png)
 
-1. Set **[!UICONTROL Remove from CRM]** tot **[!UICONTROL true]** als u de verslagen van uw CRM ook wilt schrappen.
+1. Stel **[!UICONTROL Remove from CRM]** in op **[!UICONTROL true]** als u de records ook van uw CRM wilt verwijderen.
 
    ![](assets/five.png)
 
@@ -59,12 +59,12 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Als u meer dan 50 personen verwijdert, ziet u dit. Typ het aantal personen dat u wilt verwijderen, controleer het **[!UICONTROL Cannot Undo]** en klik vervolgens op **[!UICONTROL Delete]**.
+1. Als u meer dan 50 personen verwijdert, ziet u dit. Typ het aantal personen dat u wilt verwijderen, schakel het selectievakje **[!UICONTROL Cannot Undo]** in en klik op **[!UICONTROL Delete]** .
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Als u de resultaten van de massale verwijdering wilt bekijken, klikt u op **[!UICONTROL View Results]** in het pop-upvenster Handeling voor één stroom rechtsboven in het scherm. De tijden van schrapping kunnen zeer variëren, afhankelijk van veelvoudige factoren.
+   >Klik op **[!UICONTROL View Results]** in het pop-upvenster Handeling voor één stroom rechtsboven in het scherm om de resultaten van de massale verwijdering weer te geven. De tijden van schrapping kunnen zeer variëren, afhankelijk van veelvoudige factoren.
 
    Dit is een fantastische functie, maar wees voorzichtig als u deze gebruikt!

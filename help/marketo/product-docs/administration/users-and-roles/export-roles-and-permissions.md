@@ -3,10 +3,10 @@ description: Rollen en machtigingen exporteren - Marketo-documenten - Productdoc
 title: Rollen en machtigingen exporteren
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -18,15 +18,15 @@ Hier is hoe te om alle rollen en hun toestemmingen uit te voeren.
 >
 >Beheerdersmachtigingen vereist
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/export-roles-and-permissions-1.png)
 
-1. Selecteren **[!UICONTROL Users & Roles]**.
+1. Selecteer **[!UICONTROL Users & Roles]**.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Klik op de knop **[!UICONTROL Roles]** tab.
+1. Klik op de tab **[!UICONTROL Roles]** .
 
    ![](assets/export-roles-and-permissions-3.png)
 

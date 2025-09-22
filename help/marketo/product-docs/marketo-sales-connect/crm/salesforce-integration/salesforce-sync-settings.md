@@ -4,10 +4,10 @@ description: Salesforce Sync Settings - Marketo Docs - Productdocumentatie
 title: Salesforce-instellingen synchroniseren
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -71,9 +71,9 @@ Als uw e-mailadres om een of andere reden niet wordt aangemeld, voert u de volge
 
 1. Meld u aan bij uw [!DNL Salesforce] -instantie.
 1. Zoek de gebruikersnaam in de rechterbovenhoek en selecteer de vervolgkeuzelijst.
-1. Selecteer **[!UICONTROL My Settings]** .
-1. Selecteer **[!UICONTROL Email]** .
-1. Selecteer **[!UICONTROL My Email to Salesforce]** .
+1. Selecteer **[!UICONTROL My Settings]**.
+1. Selecteer **[!UICONTROL Email]**.
+1. Selecteer **[!UICONTROL My Email to Salesforce]**.
 1. Op deze pagina wordt het veld E-mail naar Salesforce-adres weergegeven. Als er niets naast het is bevolkt, scrol neer aan &quot;Mijn Acceptabele E-mailadressen.&quot;
 1. Voer het e-mailadres of de e-mailadressen in die u voor BCC wilt gebruiken.
 1. Klik op **[!UICONTROL Save Changes]**.

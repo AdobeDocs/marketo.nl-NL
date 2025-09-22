@@ -4,7 +4,7 @@ description: Een filterdefinitie delen in de marketingkalender - Marketo Docs - 
 title: Een filterdefinitie delen in de marketingkalender
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -17,12 +17,12 @@ Filters kunnen worden gedeeld door verschillende gebruikers.
 
 >[!PREREQUISITES]
 >
->* [Een filter maken in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
->* [Een filterdefinitie opslaan in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+>* [ creeer een Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [ het Opslaan van een Definitie van de Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 >[!NOTE]
 >
-> Als u een wijziging aanbrengt in een opgeslagen filter, moet u deze opnieuw delen. uw bewerkingen worden pas weerspiegeld voor andere gebruikers als u dat doet.
+> Als u een wijziging aanbrengt in een opgeslagen filter, moet u deze opnieuw delen. Uw bewerkingen worden pas doorgevoerd door andere gebruikers als u dat doet.
 
 1. Selecteer het filter dat u wilt delen.
 

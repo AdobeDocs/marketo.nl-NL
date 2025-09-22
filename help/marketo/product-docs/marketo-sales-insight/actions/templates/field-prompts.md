@@ -1,7 +1,8 @@
 ---
 description: Veldvragen - Marketo Docs - Productdocumentatie
 title: Veldvragen
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -28,4 +29,4 @@ Typ de gewenste tekst om een veldprompt toe te voegen. Plaats een uitroepteken i
 
 >[!NOTE]
 >
->Wanneer het gebruiken van herinneringen met de Campagnes van de Verkoop, is het best om hen met hande-mailstappen te gebruiken. Met deze stappen wijst u een gebruiker een herinneringstaak toe om de e-mail te verzenden, zodat hij of zij de herinneringen kan vervangen door aangepaste tekst. Automatische e-mailstappen in verkoopcampagnes proberen automatisch te verzenden, zonder dat de gebruiker de vragen kan vervangen. Vragen die niet worden vervangen, leiden ertoe dat de e-mails niet worden verzonden.
+>Wanneer het gebruiken van herinneringen met de Campagnes van de Verkoop, is het best om hen met hande-mailstappen te gebruiken. Met deze stappen wijst u een gebruiker een herinneringstaak toe om de e-mail te verzenden, zodat hij of zij de herinneringen kan vervangen door aangepaste tekst. Automatische e-mailstappen in verkoopcampagnes proberen automatisch te verzenden, zonder dat de gebruiker de herinneringen kan vervangen. Prompts die niet worden vervangen, zullen ertoe leiden dat de e-mails niet worden verzonden.

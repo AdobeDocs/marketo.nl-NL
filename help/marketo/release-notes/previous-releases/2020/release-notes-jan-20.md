@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - jan 2020 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [ Beeld het Uitgeven van het Beeld ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=nl-NL#design-studio): De toegang Adobe het uitgeven mogelijkheden zonder het moeten Marketo Engage verlaten. Met deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in [!UICONTROL Design Studio] tekst toevoegen aan afbeeldingen.
+* [ Beeld het Uitgeven van het Beeld ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): De toegang Adobe het uitgeven mogelijkheden zonder het moeten Marketo Engage verlaten. Met deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in [!UICONTROL Design Studio] tekst toevoegen aan afbeeldingen.
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -76,4 +76,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 >
 >* **ITP 2.1+ [!DNL Munchkin] Update**: wegens veranderingen in het koekjesbeleid voor [!DNL Safari], [!DNL Munchkin] de capaciteit om gebruikers over zittingen op het zelfde domein te volgen zal door ITP aan of 1 of 7 dagen worden beperkt die op browser en browser versie worden gebaseerd door de bezoeker wordt gebruikt. Om dit te verklaren, voeren wij een nieuwe Webdienst uit om de koekjes van Munchkin toe te laten om met een reeks-Koekjeskopbal via de reactie van HTTP worden geplaatst. Meer informatie over hoe te om deze nieuwe dienst uit te voeren kan [ hier ](https://nation.marketo.com/docs/DOC-7351) worden gevonden.
 
-**_Webinar van de Versie van het Product_** [ sluit zich aan bij ons ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11:00AM PT/2:00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.
+**_Webinar van de Versie van het Product_** [ sluit zich aan bij ons ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11 :00AM PT/2 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.

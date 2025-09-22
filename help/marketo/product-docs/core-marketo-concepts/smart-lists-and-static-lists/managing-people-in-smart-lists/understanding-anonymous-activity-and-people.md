@@ -4,7 +4,7 @@ description: Anonieme activiteiten en mensen begrijpen - Marketo-documenten - pr
 title: Anonieme activiteiten en mensen begrijpen
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -32,7 +32,7 @@ De eerste keer bezoekt iemand een Marketo landende pagina (of een pagina op uw w
 Een anonieme activiteit wordt samengevoegd in een nieuwe of bestaande persoon wanneer iemand:
 
 * Klik a [ verbinding in een e-mail van Marketo ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
-* Vult een Vorm van Marketo [&#128279;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} uit.
+* Vult een Vorm van Marketo [ ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} uit.
 * Gebruikt Marketo [ SOAP ](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} of [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API (voor ontwikkelaars) om een anonieme persoon met een bekend verslag te associëren.
 
 Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.

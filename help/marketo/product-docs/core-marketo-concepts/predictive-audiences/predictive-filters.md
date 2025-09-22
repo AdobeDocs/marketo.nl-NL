@@ -3,9 +3,9 @@ description: Predictieve filters - Marketo Docs - Productdocumentatie
 title: Voorspelende filters
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Als onderdeel van voorspellende soorten publiek biedt Marketo een groep op AI/ML gebaseerde filters in slimme lijsten binnen slimme campagnes.
 
-![Afbeelding één](assets/predictive-filters-1.png)
+![ Beeld Één ](assets/predictive-filters-1.png)
 
 >[!NOTE]
 >
@@ -22,21 +22,21 @@ Als onderdeel van voorspellende soorten publiek biedt Marketo een groep op AI/ML
 
 ## Waarschijnlijkheid om bij te wonen {#likelihood-to-attend}
 
-Dit filter wordt gebruikt om uw publiek effectief te beperken. Hierdoor kunt u leads zoeken en uitnodigen die een hogere waarschijnlijkheid hebben **bijwonen** uw webinar of gebeurtenis. Merk op dat uw &quot;Waarschijnlijkheid aan programma&quot;uw huidig gebeurtenisprogramma zal zijn.
+Dit filter wordt gebruikt om uw publiek effectief te beperken. Dit helpt u richten en uitnodigen lood die een hogere waarschijnlijkheid van **hebben om** uw webinar of gebeurtenis bij te wonen. Merk op dat uw &quot;Waarschijnlijkheid aan programma&quot;uw huidig gebeurtenisprogramma zal zijn.
 
-![Afbeelding twee](assets/predictive-filters-2.png)
+![ Beeld Twee ](assets/predictive-filters-2.png)
 
 ## Waarschijnlijkheid om te registreren {#likelihood-to-register}
 
-Vergelijkbaar met de _Waarschijnlijkheid om bij te wonen_ filter, gebruik dit filter om uw publiek en doelleads te versmallen die een hogere kans hebben op **registreren** voor uw webinar of gebeurtenis.
+Gelijkaardig aan de _Waarschijnlijkheid om_ filter bij te wonen, gebruik dit filter om uw publiek en doellood te beperken die een hogere waarschijnlijkheid van **hebben registrerend** voor uw webinar of gebeurtenis.
 
-![Afbeelding drie](assets/predictive-filters-3.png)
+![ Beeld Drie ](assets/predictive-filters-3.png)
 
 ## Waarschijnlijkheid om af te melden {#likelihood-to-unsubscribe}
 
 Hierdoor wordt het publiek gefilterd op basis van de vraag of het zeer waarschijnlijk is dat het abonnement de komende twee weken wordt opgezegd. U kunt dit gebruiken om hoog-vermoeiingslood te richten verschillend en effectiever. De drempel voor afmelden is dynamisch en wordt aangestuurd door een AI-model dat rekening houdt met verschillende kenmerken, waaronder de doorlooptijd in de database en de loodactiviteiten.
 
-![Afbeelding vier](assets/predictive-filters-4.png)
+![ Beeld Vier ](assets/predictive-filters-4.png)
 
 >[!NOTE]
 >
@@ -46,11 +46,11 @@ Hierdoor wordt het publiek gefilterd op basis van de vraag of het zeer waarschij
 
 Deze twee filters helpen u uw huidige publiek uitbreiden door extra lood te richten die aan leden van een ander programma of Slimme Lijst gelijkaardig zijn. De Lookalike-filters omvatten meer dan 50 factoren, zoals hoofdkenmerken, e-mailactiviteit, webactiviteit en betrokkenheid.
 
-Klikken **[!UICONTROL Add Constraint]** kiezen voor succescriteria voor de leden van de geselecteerde programma&#39;s.
+Klik op **[!UICONTROL Add Constraint]** om succescriteria te kiezen voor de leden van de geselecteerde programma&#39;s.
 
-Klik op de knop **+** om eenvoudig meerdere programma&#39;s/slimme lijsten aan één filter toe te voegen.
+Klik op het pictogram **+** om eenvoudig meerdere programma&#39;s/slimme lijsten aan één filter toe te voegen.
 
-![Afbeelding vijf](assets/predictive-filters-5.png)
+![ Beeld Vijf ](assets/predictive-filters-5.png)
 
 ## Notities {#things-to-note}
 
@@ -58,6 +58,6 @@ Klik op de knop **+** om eenvoudig meerdere programma&#39;s/slimme lijsten aan �
 * Predictieve filters zijn niet beschikbaar voor triggercampagnes.
 * Het klonen of verplaatsen van campagnes die voorspellende filters bevatten, wordt niet ondersteund.
 * U kunt maximaal vijf voorspellende filters gebruiken in een slimme lijst.
-* Als het Marketo Engage een fout in de evaluatie van vooruitlopende filters ontmoet, zal de campagnelooppas automatisch afbreken en u zult een bericht in het het kennisgevingscentrum van Marketo ontvangen.
+* Als Marketo Engage een fout aantreft in de evaluatie van voorspellende filters, wordt de campagne automatisch afgebroken en ontvangt u een melding in het Marketo-meldingscentrum.
 * Predictieve filters hebben momenteel een invoerlimiet van 1 miljoen gekwalificeerde personen.
 * U kunt maximaal 50 actieve programma&#39;s met voorspellende filters hebben.

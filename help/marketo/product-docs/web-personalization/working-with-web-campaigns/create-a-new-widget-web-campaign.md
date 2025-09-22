@@ -4,7 +4,7 @@ description: Een nieuwe widget webcampagne maken - Marketo Docs - Productdocumen
 title: Nieuwe widgetwebcampagne maken
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Selecteer **[!UICONTROL Create New Web Campaign]** .
+1. Selecteer **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 

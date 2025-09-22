@@ -4,7 +4,7 @@ description: Een aangepast object goedkeuren - Marketo Docs - Productdocumentati
 title: Een aangepast object goedkeuren
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -19,7 +19,7 @@ U moet een aangepast object goedkeuren voordat u het kunt gebruiken. Het proces 
 
 U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/approve-a-custom-object-1.png)
 
@@ -31,23 +31,23 @@ U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Klik op de knop **[!UICONTROL Custom Object Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Approve Object]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Custom Object Actions]** en selecteer **[!UICONTROL Approve Object]** .
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. De status verandert in [!UICONTROL Approved].
+1. De status verandert in [!UICONTROL Approved] .
 
    ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
-   >Een aangepast object dat in een _een-op-een-structuur_ moet ten minste één deduplicerveld, een koppelingsveld, een naam van een gekoppeld object en een gekoppelde veldnaam hebben die moeten worden goedgekeurd.
+   >Een douanevoorwerp dat op a _wordt gebruikt één-aan-vele structuur_ moet minstens één dedupe gebied, een verbindingsgebied, een verbonden objecten naam, en een verbonden te goedkeuren gebiedsnaam hebben.
    >
-   >Een aangepast object dat in een _veel-op-veel-structuur_ **niet** hebt een koppelingsveld, een naam van een gekoppeld object of een gekoppelde veldnaam nodig wanneer u deze goedkeurt (omdat deze in het intermediaire object staan).
+   >Een douanevoorwerp dat in a _wordt gebruikt veel-aan-vele structuur_ **vereist geen** verbindingsgebied, verbonden objecten naam, of een verbonden gebiedsnaam wanneer u het goedkeurt (omdat zij in het intermediaire voorwerp) leven.
    >
-   >Een aangepast object dat als een _tussenliggend object_ vereist een koppelingsveld, een naam van een gekoppeld object en een naam van een gekoppeld veld, maar **niet** vereist een deduplicatieveld.
+   >Een douanevoorwerp dat als _wordt gebruikt intermediair voorwerp_ vereist een verbindingsgebied, een verbonden objecten naam, en een verbonden gebiedsnaam maar **vereist geen** dedupe gebied.
    >
-   >Zie [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie .
+   >Zie [ Begrijpend de Voorwerpen van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de filters en triggers die u in uw campagnes wilt gebruiken.
 
@@ -55,14 +55,14 @@ Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de 
 
 Nadat u een goedgekeurd aangepast object hebt bewerkt, moet u het concept goedkeuren om het aangepaste object terug te brengen naar de status Goedgekeurd.
 
-1. Wanneer u een reeds goedgekeurd douanevoorwerp uitgeeft, ontvangt het [!UICONTROL Approved with Draft] status.
+1. Wanneer u een reeds goedgekeurd douanevoorwerp uitgeeft, ontvangt het een [!UICONTROL Approved with Draft] staat.
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. Als u klaar bent om het concept goed te keuren, klikt u op de knop **[!UICONTROL Custom Object Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Approve Object]**.
+1. Als u klaar bent om het concept goed te keuren, klikt u op de vervolgkeuzelijst **[!UICONTROL Custom Object Actions]** en selecteert u **[!UICONTROL Approve Object]** .
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. In een voorvertoning worden de gewijzigde items in het concept weergegeven. Klik op **[!UICONTROL Approve]**.
+1. In een voorvertoning worden de items weergegeven die in het concept zijn gewijzigd. Klik op **[!UICONTROL Approve]**.
 
    ![](assets/approve-a-custom-object-8.png)

@@ -4,7 +4,7 @@ description: Een universele id gebruiken voor aanmelding bij een abonnement - Ma
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -65,4 +65,4 @@ Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen
 >
 >* [ voeg Enige Sign-On aan een Portaal ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md){target="_blank"} toe
 >* [ Beperk het Login van de Gebruiker tot SSO slechts ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"} 
+>* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

@@ -4,7 +4,7 @@ description: SFDC Sync - Merging a Lead/Contact/Person - Marketo Docs - Productd
 title: SFDC Sync - Samenvoegen van een lead/contactpersoon/persoon
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

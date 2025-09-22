@@ -4,7 +4,7 @@ description: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken v
 title: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Dit kan op twee plaatsen worden gedaan, de Redacteur van het Malplaatje en de he
 
    ![](assets/designstudio-1.png)
 
-1. Selecteer **[!UICONTROL Templates]** .
+1. Selecteer **[!UICONTROL Templates]**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 

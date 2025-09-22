@@ -4,7 +4,7 @@ description: Een slimme campagne activeren uitschakelen | Tabblad Planning - Mar
 title: Een slimme campagne activeren uitschakelen | Tabblad Planning
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -19,14 +19,14 @@ Voer de volgende stappen uit als u een oude triggercampagne hebt die u moet deac
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-1.png)
 
-1. Klik op het tabblad Planning op **[!UICONTROL Deactivate]**.
+1. Klik op **[!UICONTROL Deactivate]** onder het tabblad Planning.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-2.png)
 
-1. Bevestigen door te klikken **[!UICONTROL Deactivate]**.
+1. Bevestig door op **[!UICONTROL Deactivate]** te klikken.
 
    ![](assets/deactivate-a-trigger-smart-campaign-schedule-tab-3.png)
 
 >[!NOTE]
 >
->Hiermee wordt een einde gemaakt _new_ mensen de stroom niet betreden, maar mensen in wachtende stappen of een andere stroomstap zullen zich door de stroom blijven bewegen tot gedaan.
+>Dit zal _nieuwe_ mensen van het ingaan van de stroom tegenhouden, maar de mensen in wachtende stappen of een andere stroomstap zullen zich door de stroom blijven bewegen tot gedaan.

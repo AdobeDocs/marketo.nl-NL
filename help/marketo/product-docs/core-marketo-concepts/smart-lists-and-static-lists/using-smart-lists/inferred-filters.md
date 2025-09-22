@@ -4,7 +4,7 @@ description: Overgenomen filters - Marketo Docs - Productdocumentatie
 title: Overgenomen filters
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Wanneer iemand uw website bezoekt, [ Munchkin ](/help/marketo/product-docs/admin
 >
 >Om ervoor te zorgen dat afgeleide veldwaarden actueel blijven, werken wij periodiek het gegevensbestand bij dat voor IP adresraadplegingen wordt gebruikt. Database-updates kunnen nieuwe afgeleide veldwaarden introduceren die u mogelijk moet toevoegen aan de filterdefinities Slimme lijst.
 >
->De updates van het gegevensbestand kunnen tijdens de versie van het a [ product van het Marketo Engage ](/help/marketo/release-notes/release-schedule.md){target="_blank"} voorkomen. Wanneer een update voorkomt, zullen de [ nota&#39;s van de de versieversie van het Marketo Engage ](/help/marketo/release-notes/current.md){target="_blank"} een verklaring van om het even welke veranderingen in afgeleide gebiedswaarden bevatten.
+>De updates van het gegevensbestand kunnen tijdens a [ Marketo Engage productversie ](/help/marketo/release-notes/release-schedule.md){target="_blank"} voorkomen. Wanneer een update voorkomt, zullen de [ de versienota&#39;s van Marketo Engage ](/help/marketo/release-notes/current.md){target="_blank"} een verklaring van om het even welke veranderingen in afgeleide gebiedswaarden bevatten.
 
 ![](assets/inferred-filters-1.png)
 

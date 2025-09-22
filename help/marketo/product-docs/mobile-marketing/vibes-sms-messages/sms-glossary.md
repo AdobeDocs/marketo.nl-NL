@@ -2,7 +2,8 @@
 description: SMS Glossary - Marketo Docs - Productdocumentatie
 title: SMS Glossary
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # SMS Glossary {#sms-glossary}
 
-Hieronder volgen enkele algemene termen die u zult tegenkomen wanneer u SMS-berichten van Vibes gebruikt met Marketo Engage.
+Hieronder vindt u een aantal algemene termen die u tegenkomt wanneer u SMS-berichten van Vibes gebruikt met Marketo Engage.
 
 <table>
 <thead>
@@ -31,15 +32,15 @@ Hieronder volgen enkele algemene termen die u zult tegenkomen wanneer u SMS-beri
   </tr>
   <tr>
     <td>Bedrijfs Sleutel</td>
-    <td>company_key is een unieke alfanumerieke identificatie voor uw platformrekening. Als u veelvoudige bedrijfrekeningen in het platform van Vibes (zoals kindrekeningen) hebt, kunt u veelvoudige company_keys hebben. Elke instantie van Marketo Engage kan aan slechts één bedrijf worden in kaart gebracht Vibes_key.</td>
+    <td>company_key is een unieke alfanumerieke identificatie voor uw platformrekening. Als u veelvoudige bedrijfrekeningen in het platform van Vibes (zoals kindrekeningen) hebt, kunt u veelvoudige company_keys hebben. Elke instantie van Marketo Engage kan worden toegewezen aan slechts één Vibes company_key.</td>
   </tr>
   <tr>
-    <td>TCLP (oproep tot actie)</td>
+    <td>CTA (call to action)</td>
     <td>Digitale of fysieke handtekening of verbaal script voor het verwerven van abonnees in een terugkerend tekstberichtenprogramma of abonnementenlijst. Kan online worden geplaatst, op sociale media, in e-mails, in gedrukte vorm, enz.</td>
   </tr>
   <tr>
     <td>Aangepast kort domein</td>
-    <td>Als u de koppelingsstener van Vibes gebruikt, zal verkorte URL, door gebrek, onder de korte URL van Vibes verschijnen: https://vbs.cm/xxxxxx. Een aangepast kort domein is een domein dat uniek is voor uw merk. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Meer informatie over aangepaste korte domeinen</a>.<p>
+    <td>Als u de koppelingsstener van Vibes gebruikt, zal verkorte URL, door gebrek, onder de korte URL van Vibes verschijnen: https://vbs.cm/xxxxxx. Een aangepast kort domein is een domein dat uniek is voor uw merk. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain"> leer meer over douane korte domeinen </a>.<p>
     Dit is alleen van toepassing op berichten die vanaf het platform van Vibes worden verzonden, met name de berichten van de aanschafcampagne en de korte code standaardberichten.<p>
     De Marketo URL shortener wordt aanbevolen als u klikgegevens wilt in uw Marketo-programma.</td>
   </tr>
@@ -57,7 +58,7 @@ Hieronder volgen enkele algemene termen die u zult tegenkomen wanneer u SMS-beri
   </tr>
   <tr>
     <td>Gebeurtenis</td>
-    <td>Een gebeurtenis is een gedefinieerde gebeurtenis die naar het Vibes-platform kan worden verzonden en kan worden gebruikt om API-activering te activeren, inclusief het verzenden van berichten. Elke gebeurtenis bevat specifieke gegevens voor de gebeurtenis, waaronder een event_type, dat wordt gebruikt om te bepalen met welke API getriggerde berichtcampagne het overeenkomt. De gebeurtenis-API kan via Webhaak in Marketo Engage worden geactiveerd. Meer weten met onze <a href="https://developer-platform.vibes.com/reference/event-api">Referentie voor API van gebeurtenis</a>.</td>
+    <td>Een gebeurtenis is een gedefinieerde gebeurtenis die naar het Vibes-platform kan worden verzonden en kan worden gebruikt om API-activering te activeren, inclusief het verzenden van berichten. Elke gebeurtenis bevat specifieke gegevens voor de gebeurtenis, waaronder een event_type, dat wordt gebruikt om te bepalen met welke API getriggerde berichtcampagne het overeenkomt. De gebeurtenis-API kan worden geactiveerd via Webhaak in Marketo Engage. Leer meer met onze <a href="https://developer-platform.vibes.com/reference/event-api"> Verwijzing van API van de Gebeurtenis </a>.</td>
   </tr>
   <tr>
     <td>Trefwoord</td>
@@ -81,7 +82,7 @@ Hieronder volgen enkele algemene termen die u zult tegenkomen wanneer u SMS-beri
   </tr>
   <tr>
     <td>Persoonsrecord</td>
-    <td>Een persoonrecord is een verzameling gegevens voor een specifiek mobiel telefoonnummer. Elke persoonrecord krijgt ook een unieke person_key toegewezen ter identificatie. Marketo-id's zijn gekoppeld aan Vibes met behulp van het veld external_person_id. Meer informatie over persoonrecords in <a href="https://developer-platform.vibes.com/reference/person-api">Vibes Person API-documentatie</a>.</td>
+    <td>Een persoonrecord is een verzameling gegevens voor een specifiek mobiel telefoonnummer. Elke persoonrecord krijgt ook een unieke person_key toegewezen ter identificatie. Marketo-id's zijn gekoppeld aan Vibes met behulp van het veld external_person_id. Leer meer over persoonverslagen in <a href="https://developer-platform.vibes.com/reference/person-api"> de documentatie van de Persoon van Vibes </a>.</td>
   </tr>
   <tr>
     <td>Korte code</td>
@@ -101,7 +102,7 @@ Hieronder volgen enkele algemene termen die u zult tegenkomen wanneer u SMS-beri
   </tr>
   <tr>
     <td>Vibes Platform</td>
-    <td>De website u login om uw campagnes te beheren. Ga naar <a href="https://nexus.us.vibes.com/">https://nexus.us.vibes.com/</a> toegang tot het Vibes-platform.</td>
+    <td>De website u login om uw campagnes te beheren. Ga naar <a href="https://nexus.us.vibes.com/"> https://nexus.us.vibes.com/ </a> om tot het platform van Vibes toegang te hebben.</td>
   </tr>
 </tbody>
 </table>

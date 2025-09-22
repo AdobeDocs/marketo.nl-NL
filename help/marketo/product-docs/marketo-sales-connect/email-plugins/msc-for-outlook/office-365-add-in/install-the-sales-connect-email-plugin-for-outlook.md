@@ -4,7 +4,7 @@ description: De e-mailplug-in Sales Connect voor Outlook - Marketo Docs - Produc
 title: De insteekmodule Sales Connect E-mail voor Outlook installeren
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

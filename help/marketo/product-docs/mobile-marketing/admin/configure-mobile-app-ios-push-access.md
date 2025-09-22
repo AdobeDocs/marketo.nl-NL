@@ -4,10 +4,10 @@ description: Mobile App iOS Push Access - Marketo Docs - Productdocumentatie con
 title: Mobile App iOS Push Access configureren
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer **[!UICONTROL Mobile Apps]** .
+1. Selecteer **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 

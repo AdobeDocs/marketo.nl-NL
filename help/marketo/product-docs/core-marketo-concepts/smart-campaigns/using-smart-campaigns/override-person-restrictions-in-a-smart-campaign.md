@@ -4,7 +4,7 @@ description: Persoonlijke beperkingen in een slimme campagne negeren - Marketo D
 title: Persoonlijke beperkingen in een slimme campagne negeren
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Persoonlijke beperkingen in een slimme campagne negeren {#override-person-restrictions-in-a-smart-campaign}
 
-Met Marketo Engage kunt u het maximumaantal personen instellen dat in aanmerking kan komen voor een slimme campagne. Zo voorkomt u dat per ongeluk uw gehele database wordt gemaild. Als u wilt _override_ deze limiet is hoe.
+Met Marketo Engage kunt u het maximumaantal personen instellen dat in aanmerking komt voor een slimme campagne. Zo voorkomt u dat per ongeluk uw gehele database wordt gemaild. Als u __ deze grens wilt met voeten treden, is hier hoe.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat u [persoonlijke beperkingen voor slimme campagnes inschakelen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} in Marketo Admin.
+>Ben zeker om [ persoonlijke beperkingen voor Slimme Campagnes ](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} in Marketo toe te laten Admin.
 
-1. In **[!UICONTROL Marketing Activities]**, ga naar uw slimme campagne en klik op **[!UICONTROL Schedule]**.
+1. Ga in **[!UICONTROL Marketing Activities]** naar uw slimme campagne en klik op **[!UICONTROL Schedule]** .
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Klik in Instellingen voor slimme campagne op **[!UICONTROL Edit]**.
+1. Klik op **[!UICONTROL Edit]** bij Instellingen voor slimme campagne.
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ Met Marketo Engage kunt u het maximumaantal personen instellen dat in aanmerking
    >
    >De standaardlimiet is de limiet die is ingesteld in Beheer.
 
-1. Voer een nieuwe limiet in en klik op **[!UICONTROL Save]**.
+1. Voer een nieuwe limiet in en klik op **[!UICONTROL Save]** .
 
    ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 

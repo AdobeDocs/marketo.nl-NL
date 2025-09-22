@@ -4,10 +4,10 @@ description: Upgrade de Marketo Sales Insight Solution voor Microsoft Dynamics -
 title: Upgrade de Marketo Sales Insight Solution voor Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,7 +27,7 @@ Wanneer nieuwe [!DNL Microsoft Dynamics] -oplossingen worden uitgebracht voor [!
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. Selecteer **[!UICONTROL Download Marketo Solution]** .
+1. Selecteer **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 

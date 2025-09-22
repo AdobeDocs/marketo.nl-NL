@@ -4,7 +4,7 @@ description: Veelgestelde vragen over prestaties - Marketo Docs - Productdocumen
 title: Veelgestelde vragen over prestaties
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1343'
 ht-degree: 0%

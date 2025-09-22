@@ -3,7 +3,7 @@ description: Handelingen Insight voor verkoop - Gebruikershandleiding aan boord 
 title: Handelingen Insight verkopen Handboek voor gebruikers aan boord nemen
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 2%

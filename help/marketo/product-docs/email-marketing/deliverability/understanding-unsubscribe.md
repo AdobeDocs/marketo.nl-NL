@@ -4,9 +4,9 @@ description: Abonnement op opzeggen - Marketo Docs - Productdocumentatie
 title: Abonnement begrijpen
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 In Marketo zijn er verschillende soorten ingebouwde afmeldingsprogramma&#39;s. Ze worden allemaal vertegenwoordigd door velden op het object person, net als Voornaam.
 
-Al deze velden zijn ingebouwd in uw Marketo-abonnement. Ze zijn allemaal van het type Boolean (selectievakje). Ze kunnen in Forms of [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) stroomstappen.
+Al deze velden zijn ingebouwd in uw Marketo-abonnement. Ze zijn allemaal van het type Boolean (selectievakje). Zij kunnen in Forms worden gebruikt of [ de stroomstappen van de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Niet geabonneerd {#unsubscribed}
 
-Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Zij zullen echter [operationele e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Zij zullen, echter, [ operationele e-mails ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ontvangen.
 
 ## Marketing opgeschort {#marketing-suspended}
 
@@ -35,6 +35,6 @@ Deze status verhindert een persoon 24 uur na een harde stuit te zenden. Na 24 uu
 
 ## Gevoegd op lijst van gewenste personen {#blocklisted}
 
-[Gebruik dit voor mensen als concurrenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Iedereen die u wilt ontvangen **nee** e-mails—operationeel, op de markt brengen, enz. Ze krijgen niets!
+[ gebruik dit voor mensen als concurrenten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Iedereen u wilt ontvangen **geen** e-mail-operationeel, marketing, etc. Ze krijgen niets!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

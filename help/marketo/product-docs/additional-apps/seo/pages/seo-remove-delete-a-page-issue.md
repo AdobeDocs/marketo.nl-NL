@@ -4,7 +4,7 @@ description: SEO - Een pagina-probleem verwijderen/verwijderen - Marketo Docs - 
 title: SEO - Een pagina-probleem verwijderen/verwijderen
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -13,13 +13,13 @@ ht-degree: 1%
 
 # SEO - Een pagina-probleem verwijderen/verwijderen {#seo-remove-delete-a-page-issue}
 
-Mogelijk zijn niet alle pagina-problemen nuttig voor u. Zo verwijder je er een.
+Mogelijk zijn niet alle pagina-problemen nuttig voor u. Hier is hoe je er een kunt verwijderen.
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. In de [!UICONTROL Pages] sectie, klikt u op **[!UICONTROL Issues]**.
+1. Klik in de sectie [!UICONTROL Pages] op **[!UICONTROL Issues]** .
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
@@ -27,7 +27,7 @@ Mogelijk zijn niet alle pagina-problemen nuttig voor u. Zo verwijder je er een.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Klikken **[!UICONTROL Delete]** Hiermee verwijdert u deze pagina-uitgave definitief.
+1. Als u op **[!UICONTROL Delete]** klikt, wordt deze pagina-uitgave definitief verwijderd.
 
    >[!CAUTION]
    >

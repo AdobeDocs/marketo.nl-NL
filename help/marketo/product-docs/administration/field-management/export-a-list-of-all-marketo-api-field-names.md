@@ -4,22 +4,22 @@ description: Een lijst met alle Marketo API-veldnamen exporteren - Marketo Docs 
 title: Een lijst met alle Marketo API-veldnamen exporteren
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 1%
 
 ---
 
 # Een lijst met alle Marketo API-veldnamen exporteren {#export-a-list-of-all-marketo-api-field-names}
 
-Als u onze [!DNL SOAP API] of [!DNL Munchkin API] U hebt een lijst met al uw velden en de bijbehorende API-namen nodig. Zo krijg je deze lijst.
+Als u onze [!DNL SOAP API] of [!DNL Munchkin API] gebruikt, hebt u een lijst met al uw velden en hun API-namen nodig. Zo krijg je deze lijst.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-1.png)
 
@@ -27,7 +27,7 @@ Als u onze [!DNL SOAP API] of [!DNL Munchkin API] U hebt een lijst met al uw vel
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-2.png)
 
-1. Klikken **[!UICONTROL Export Field Names]** om het werkblad te downloaden.
+1. Klik op **[!UICONTROL Export Field Names]** om het werkblad te downloaden.
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 

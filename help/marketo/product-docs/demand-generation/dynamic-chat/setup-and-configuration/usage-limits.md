@@ -2,7 +2,8 @@
 description: Beveiligingsinstellingen - Marketo Docs - Productdocumentatie
 title: Beveiligingsinstellingen
 feature: Dynamic Chat
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Ga naar de pagina Gebruikslimieten voor belangrijke informatie, zoals pakketinformatie en status van de gebruikslimiet.
 
-1. Klik onder Configuratie op **[!UICONTROL Usage limits]**.
+1. Klik onder Configuratie op **[!UICONTROL Usage limits]** .
 
    ![](assets/usage-limits-1.png)
 

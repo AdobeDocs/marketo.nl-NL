@@ -4,7 +4,7 @@ description: Stap 1 van 3 - Installeer de Marketo-oplossing (2011 op locatie) - 
 title: Stap 1 van 3 - Installeer de Marketo-oplossing (2011 op locatie)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klik op **[!UICONTROL Browse]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Browse]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 

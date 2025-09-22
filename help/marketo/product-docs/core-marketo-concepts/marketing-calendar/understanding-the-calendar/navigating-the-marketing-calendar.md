@@ -4,7 +4,7 @@ description: Navigeren door de marketingkalender - Marketo Docs - Productdocumen
 title: Navigeren door de marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -17,13 +17,13 @@ U kunt gemakkelijk navigeren door de marketingkalender. Zo gaat het.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat u een [Licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders verschijnt het element Marketing Calendar niet in Mijn Marketo.
+>Zorg ervoor u de vergunning van de Kalender van de a [ op de markt brengt ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
 
 >[!NOTE]
 >
 >Het terugkeren van Slimme Campagnes wordt niet gesteund in de Kalender van de Marketing.
 
-1. Ga naar de **Verkoopkalender**.
+1. Ga naar de **in de handel brengende Kalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -33,7 +33,7 @@ U kunt gemakkelijk navigeren door de marketingkalender. Zo gaat het.
 
 ## Wijzigen tussen modi {#change-between-modes}
 
-1. Klik op de knop **[!UICONTROL 3 weeks]** of **[!UICONTROL Month]** tabs om tussen modi te schakelen.
+1. Klik op de tabbladen **[!UICONTROL 3 weeks]** of **[!UICONTROL Month]** om tussen de modi te schakelen.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ U kunt gemakkelijk navigeren door de marketingkalender. Zo gaat het.
 
 In de weergave Agenda worden al uw items als een lijst weergegeven.
 
-1. Klik op de knop **[!UICONTROL Filter]** vervolgkeuzelijst.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Filter]** .
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selecteer de **[!UICONTROL Agenda]** weergeven.
+1. Selecteer de weergave **[!UICONTROL Agenda]** .
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -71,4 +71,4 @@ Geweldig! Dit zijn de basisbeginselen. U kunt de weergave ook aanpassen met behu
 
 >[!MORELIKETHIS]
 >
->[De marketingkalender filteren](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[ Filtrerend de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

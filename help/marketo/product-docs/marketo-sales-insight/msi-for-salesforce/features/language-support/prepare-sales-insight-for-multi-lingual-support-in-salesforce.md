@@ -4,10 +4,10 @@ description: Insight voor meertalige support voorbereiden op verkoop in Salesfor
 title: Insight voor meertalige support voorbereiden op verkoop in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -55,7 +55,7 @@ Marketo Sales Insight wordt opgeslagen per taal. Dus als u wilt dat het voor mee
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Ga naar Marketo. Zoek de [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**&#x200B;details ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight) .
+1. Ga naar Marketo. Zoek de [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**details ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight) .
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

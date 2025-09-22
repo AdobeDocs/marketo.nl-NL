@@ -4,7 +4,7 @@ description: Een personenpartitie maken - Marketo Docs - Productdocumentatie
 title: Een personenpartitie maken
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 1%

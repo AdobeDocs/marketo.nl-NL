@@ -4,7 +4,7 @@ description: Abonnement opzeggen - Marketo Docs - Productdocumentatie bewerken
 title: Bericht voor afmelden bewerken
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

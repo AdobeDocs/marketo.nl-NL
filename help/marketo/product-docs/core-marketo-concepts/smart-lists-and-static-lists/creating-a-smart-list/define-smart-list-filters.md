@@ -4,7 +4,7 @@ description: Slimme lijstfilters definiëren - Marketo Docs - Productdocumentati
 title: Slimme lijstfilters definiëren
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%

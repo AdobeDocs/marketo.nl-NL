@@ -4,7 +4,7 @@ description: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden - Marke
 title: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sommige trefwoorden gaan heel goed met bepaalde pagina&#39;s. Zo past u het perfecte sleutelwoord aan zijn perfecte pagina aan. Dit zal de meest nauwkeurige gegevens en de beste aanbevelingen voor verbetering verstrekken.
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)
 

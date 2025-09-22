@@ -4,7 +4,7 @@ description: Anonieme activiteiten en personen bijhouden - Marketo-documenten - 
 title: Anonieme activiteiten en personen volgen
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -28,8 +28,8 @@ De eerste keer bezoekt iemand een Marketo [ landende pagina ](/help/marketo/prod
    Een anonieme activiteit wordt samengevoegd in een nieuwe of bestaande persoon wanneer iemand:
 
    * Klik a [ verbinding in een e-mail van Marketo ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Vult een vorm van Marketo [&#128279;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) uit.
-   * Gebruikt Marketo [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/leads) of [ Munchkin ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (voor ontwikkelaars) om een anonieme activiteit met een bekend verslag te associëren.
+   * Vult een vorm van Marketo [ ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) uit.
+   * Gebruikt Marketo [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) of [ Munchkin ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (voor ontwikkelaars) om een anonieme activiteit met een bekend verslag te associëren.
 
    Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.
 

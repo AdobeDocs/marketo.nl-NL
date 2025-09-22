@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - maart 2022 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - maart 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 0%
@@ -50,7 +50,7 @@ De volgende eigenschappen zullen beginnen om op **Maart 11, 2022**, met een gefa
 
 * **Terugkeer maakt Open het Volgen Status van E-mail** onbruikbaar: Staat voor het lezen van open het volgen status van e-mails via API toe
 * **wint Dynamische Onderwerplijnen van het Onderwerp van de Inhoud van E-mail** terug: Staat marketers toe om analyse van dynamische onderwerplijnen in de hulpmiddelen van BI uit te voeren
-* **CRUD van de Gebieden van het Lid van het 0&rbrace; Programma van het Lid Douane: Staat marketers toe om programmatically tot de gebieden van de programmalid te leiden**
+* **CRUD van de Gebieden van het Lid van het 0} Programma van het Lid Douane: Staat marketers toe om programmatically tot de gebieden van de programmalid te leiden**
 * **Bulk de Uitvoer van het Voorwerp van de Douane updatedAt Filter**: Staat marktleiders toe om douanevoorwerpen programmatically te synchroniseren
 * **stelt HoofdPlaatsing van het Begin voor E-mailProgramma&#39;s** bloot: Staat marketers toe om e-mailprogramma&#39;s met hoofdbegin via API te vormen
 * **Selectieve Update van de Markering van het Programma**: Staat marketers toe om selectieve markeringsupdates te duwen zonder alle markeringen tezelfdertijd te duwen

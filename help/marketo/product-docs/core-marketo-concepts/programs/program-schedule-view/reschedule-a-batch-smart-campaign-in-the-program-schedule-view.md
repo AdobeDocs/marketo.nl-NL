@@ -4,7 +4,7 @@ description: Plan een Smart Batch-campagne opnieuw in de programmaweergave - Mar
 title: Plan een Slimme Campagne van de Partij in de Mening van het Programma opnieuw
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -23,10 +23,10 @@ Wilt u een batchcampagne opnieuw plannen? Sleep de bestanden naar de toekomst in
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Geweldig! De slimme campagne is opnieuw gepland. De tijd kan ook worden gewijzigd vanaf **[!UICONTROL Date]** vervolgkeuzelijst in de invoerdetails.
+1. Geweldig! De slimme campagne is opnieuw gepland. De tijd kan ook worden gewijzigd in de vervolgkeuzelijst **[!UICONTROL Date]** in de invoerdetails.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Het opnieuw bepalen van een Hele Programma van de Mening van het Programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[ die een Hele Programma van de Mening van het Programma opnieuw veranderen ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

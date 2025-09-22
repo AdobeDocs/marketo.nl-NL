@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - april 2025 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - april 2025
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 2%
@@ -46,9 +46,9 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 Voor toegang tot deze functie moet u de add-on Advanced BI Analytics hebben aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Januari, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Januari, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Januari, 2026 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Januari, 2026 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
 
 * **Sociale Veroudering van Eigenschappen**: Op Woensdag, 31 Juli, 2024, begon Marketo Engage de veroudering van de volgende Sociale eigenschappen binnen het product:
 

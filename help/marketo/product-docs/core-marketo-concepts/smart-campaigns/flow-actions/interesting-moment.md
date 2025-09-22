@@ -4,7 +4,7 @@ description: Interessant moment - Marketo-documenten - productdocumentatie
 title: Interessant moment
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Interessant moment {#interesting-moment}
 
-Als u het Inzicht van de Verkoop van Marketo hebt, kunt u de **Interesserende Stroom van het Moment** gebruiken om uw het teamzicht van de verkoop in de koele dingen te geven uw mensen doen.
+Als u de Verkoop Insight van Marketo hebt, kunt u **het Interesten Moment** debietstap gebruiken om uw verkoopteam zicht in de koele dingen te geven uw mensen doen.
 
 ![](assets/interesting-moment-1.png)
 

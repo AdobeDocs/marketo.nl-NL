@@ -4,7 +4,7 @@ description: Een rapport van de Ontdekkingsreiziger van de Inkomsten exporteren 
 title: Een rapport van de Ontdekkingsreiziger van de Opbrengst exporteren
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

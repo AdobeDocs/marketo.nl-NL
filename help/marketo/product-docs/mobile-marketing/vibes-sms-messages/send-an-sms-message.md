@@ -2,7 +2,8 @@
 description: Een SMS-bericht verzenden - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht verzenden
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Een SMS-bericht verzenden {#send-a-vibes-sms-message}
 
-Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}Nu is het tijd om het te sturen. U kunt het verzenden via Campagne of Trigger.
+U hebt [ uw bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} gecreeerd, nu is het tijd om het te verzenden. U kunt het verzenden via Campagne of Trigger.
 
 >[!NOTE]
 >
@@ -23,7 +24,7 @@ Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes
 
 ## Een SMS-bericht over een batch verzenden {#send-a-batch-sms}
 
-1. Klik in Mijn Marketo op **Marketingactiviteiten**.
+1. In Mijn Marketo, klik **de Activiteiten van de Marketing**.
 
    ![](assets/send-an-sms-message-1.png)
 
@@ -31,11 +32,11 @@ Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes
 
    ![](assets/send-an-sms-message-2.png)
 
-1. Klik op de knop **Slimme lijst** en definieert u het publiek voor de SMS. In dit voorbeeld, verzenden wij naar iedereen in ons Gegevensbestand dat &quot;Adobe&quot;heeft die als hun bedrijf wordt vermeld.
+1. Klik het **Slimme lusje van de Lijst** en bepaal het publiek voor SMS. In dit voorbeeld sturen we naar iedereen in onze database met &quot;Adobe&quot; als bedrijf.
 
    ![](assets/send-an-sms-message-3.png)
 
-1. In de **Stroom** tab, slepen over **SMS-bericht verzenden**. Selecteer de gewenste lijst van het Bericht van SMS en van Lagen van drop-down.
+1. In het **Stroom** lusje, sleep over **verzend het Bericht van SMS**. Selecteer de gewenste lijst van het Bericht van SMS en van Lagen van drop-down.
 
    ![](assets/send-an-sms-message-4.png)
 
@@ -43,13 +44,13 @@ Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes
    >
    >De kiezer van de Lijst van Levendigheden fungeert als een verder filter voor het publiek dat al in de Slimme Lijst wordt geïdentificeerd om slechts mensen te richten die tot die lijst van Levenben behoren.
 
-1. Klik op de knop **Schema** en plant uw SMS.
+1. Klik het **lusje van het Programma** en programma uw SMS.
 
    ![](assets/send-an-sms-message-5.png)
 
 ## SMS-en naar Trigger sturen {#send-a-trigger-sms}
 
-1. Klik in Mijn Marketo op **Marketingactiviteiten**.
+1. In Mijn Marketo, klik **de Activiteiten van de Marketing**.
 
    ![](assets/send-an-sms-message-6.png)
 
@@ -57,11 +58,11 @@ Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes
 
    ![](assets/send-an-sms-message-7.png)
 
-1. Klik op de knop **Slimme lijst** selecteert u de gewenste trigger en definieert u de waarde ervan. In dit voorbeeld gebruiken we **Formulier wordt ingevuld**.
+1. Klik het **Slimme lusje van de Lijst**, selecteer de gewenste trekker en bepaal zijn waarde. In dit voorbeeld, gebruiken wij **Vult Vorm** uit.
 
    ![](assets/send-an-sms-message-8.png)
 
-1. In de **Stroom** tab, slepen over **SMS-bericht verzenden**. Selecteer de gewenste lijst van het Bericht van SMS en van Lagen van drop-down.
+1. In het **Stroom** lusje, sleep over **verzend het Bericht van SMS**. Selecteer de gewenste lijst van het Bericht van SMS en van Lagen van drop-down.
 
    ![](assets/send-an-sms-message-9.png)
 
@@ -69,11 +70,11 @@ Je hebt [Je SMS-bericht maken](/help/marketo/product-docs/mobile-marketing/vibes
    >
    >De kiezer van de Lijst van Levendigheden fungeert als een verder filter voor het publiek dat al in de Slimme Lijst wordt geïdentificeerd om slechts mensen te richten die tot die lijst van Levenben behoren.
 
-1. Klik op de knop **Schema** dan **Activeren**.
+1. Klik het **Programma** lusje, dan **activeert**.
 
    ![](assets/send-an-sms-message-10.png)
 
 >[!MORELIKETHIS]
 >
->* [Een bericht over een vibes maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [Het gebruiken van de Opties van SMS in een Slimme Campagne](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [ creeer een Bericht van Lagen ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [ Gebruikend de Opties van SMS in een Slimme Campagne ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

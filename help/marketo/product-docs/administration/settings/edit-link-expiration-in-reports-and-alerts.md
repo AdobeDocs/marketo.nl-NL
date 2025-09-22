@@ -4,7 +4,7 @@ description: Vervaldatum koppeling bewerken in rapporten en waarschuwingen - Mar
 title: Vervaldatum koppeling bewerken in rapporten en waarschuwingen
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 3%
@@ -17,9 +17,9 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** sectie.
+1. Ga naar de sectie **[!UICONTROL Admin]** .
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
@@ -37,4 +37,4 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 
 >[!IMPORTANT]
 >
->Deze instelling geldt alleen voor koppelingen in rapporten en waarschuwingen. Het doet het **niet** van toepassing zijn op de e-mail [downloadrapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) e-mails met links of marketingberichten.
+>Deze instelling geldt alleen voor koppelingen in rapporten en waarschuwingen. Het is **niet** van toepassing op de gemailde [ verbinding van het downloadrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) of marketing e-mails.

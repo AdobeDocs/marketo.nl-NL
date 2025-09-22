@@ -4,9 +4,9 @@ description: Werken met gebeurtenissenkaarten - Marketo Docs - Productdocumentat
 title: Gebeurteniskaarten
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Gebruik Marketo Moments om uw gebeurtenisprogramma&#39;s weer te geven op uw tel
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Wanneer u op een e-mailprogrammakaart tikt, kunt u:
 
@@ -25,12 +25,12 @@ Wanneer u op een e-mailprogrammakaart tikt, kunt u:
 * [Een gebeurtenis markeren zoals deze is uitgevoerd](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Een gebeurtenissenkaart delen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Er zijn twee gebeurteniskaarten. De [!UICONTROL On-Deck] de kaart die enkele uren voor de gebeurtenis is verzonden , laat zien hoeveel personen zich hebben aangemeld . De [!UICONTROL Results] De kaart, die achteraf wordt verzonden, geeft aan hoeveel er daadwerkelijk zijn bijgewoond.
+Er zijn twee gebeurteniskaarten. De [!UICONTROL On-Deck] -kaart, die een paar uur voor de gebeurtenis is verzonden, laat zien hoeveel personen zich hebben aangemeld. Op de [!UICONTROL Results] -kaart die u daarna verzendt, wordt weergegeven hoeveel gebruikers daadwerkelijk zijn aangemeld.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 
 >[!MORELIKETHIS]
 >
->* [Marketo-momenten begrijpen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [E-mailprogrammakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [Gebeurtenisprogramma&#39;s](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+>* [ Begrijpend de Momenten van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [ Begrijpend de Kaarten van het E-mailProgramma ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [ Begrijpend de Programma&#39;s van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)

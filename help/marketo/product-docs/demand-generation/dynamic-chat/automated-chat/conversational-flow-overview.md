@@ -3,7 +3,7 @@ description: Conversationeel stroomoverzicht - Marketo Docs - Productdocumentati
 title: Overzicht van conversiesnelheid
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -82,7 +82,7 @@ In de onderste helft van het lusje van Montages, pas de trekker van de Gesprek a
 
 >[!TIP]
 >
->Zie [ Conversations SDK ](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=nl-NL){target="_blank"} in actie!
+>Zie [ Conversations SDK ](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in actie!
 
 >[!MORELIKETHIS]
 >

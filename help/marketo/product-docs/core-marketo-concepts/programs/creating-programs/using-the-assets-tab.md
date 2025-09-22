@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147124
-description: Het tabblad Middelen gebruiken - Marketo Docs - Productdocumentatie
-title: Het tabblad Middelen gebruiken
+description: Het tabblad Assets - Marketo Docs - Productdocumentatie gebruiken
+title: Het tabblad Assets gebruiken
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Het tabblad Middelen gebruiken {#using-the-assets-tab}
+# Het tabblad Assets gebruiken {#using-the-assets-tab}
 
 Het canvas met elementen is een visuele weergave van uw standaard- of gebeurtenisprogramma. U kunt het gebruiken om lokale activa toe te voegen evenals met bestaande degenen in wisselwerking te staan.
 
-## Elementen toevoegen {#adding-assets}
+## Assets toevoegen {#adding-assets}
 
-Klik op de knop **[!UICONTROL Assets]** in het gewenste programma. Kies hieronder een van de elementen en voeg deze toe aan uw programma.
+Klik op de tab **[!UICONTROL Assets]** in het gewenste programma. Kies hieronder een van de elementen en voeg deze toe aan uw programma.
 
 ![](assets/programassets.png)
 
@@ -37,7 +37,7 @@ U kunt met de rechtermuisknop op de koptekst klikken als u met dat element wilt 
 >
 >Sleep en zet de aanwijzer neer om de kolommen met de elementen opnieuw te rangschikken.
 
-Elementen die niet lokaal voor uw programma zijn, zien er als volgt uit:
+Assets die niet lokaal voor uw programma is, ziet er als volgt uit:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 

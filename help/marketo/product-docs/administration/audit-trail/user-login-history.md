@@ -4,9 +4,9 @@ description: Aanmeldingsgeschiedenis gebruiker - Marketo-documenten - Productdoc
 title: Aanmeldingsgeschiedenis gebruiker
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 1%
 
 ---
@@ -24,24 +24,24 @@ De historie van de gebruikersaanmelding identificeert personen die zich aanmelde
 * Aanmeldtijd en -datum
 * Naam en e-mailadres van gebruiker
 * Functie
-* Werkruimte
+* Workspace
 * IP-adres
 
 De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/user-login-history-1.png)
 
-1. Klik onder Beveiliging op **[!UICONTROL Users & Roles]**.
+1. Klik onder Beveiliging op **[!UICONTROL Users & Roles]** .
 
    ![](assets/user-login-history-2.png)
 
-1. Klik op de knop **[!UICONTROL Login History]** tab. De lijst toont de meest recente logins.
+1. Klik op de tab **[!UICONTROL Login History]** . De lijst toont de meest recente logins.
 
    ![](assets/user-login-history-3.png)
 
-1. Gebruik het filter om uw zoekopdracht te verfijnen.
+1. Gebruik het filter om uw zoekopdracht te beperken.
 
    ![](assets/user-login-history-4.png)
 
@@ -53,11 +53,11 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    ![](assets/user-login-history-6.png)
 
-1. Selecteer de gebruikers in het menu **[!UICONTROL Users]** vervolgkeuzelijst.
+1. Selecteer de gebruikers in de vervolgkeuzelijst **[!UICONTROL Users]** .
 
    ![](assets/user-login-history-7.png)
 
-1. Controleer de **[!UICONTROL Only Failed Logins]** om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
+1. Schakel het selectievakje **[!UICONTROL Only Failed Logins]** in om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
 
    ![](assets/user-login-history-8.png)
 
@@ -71,4 +71,4 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    >[!MORELIKETHIS]
    >
-   >[Overzicht van audittrail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[ Overzicht van het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

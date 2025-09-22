@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - 19 juni - Marketo Docs - Productdocume
 title: Release-aantekeningen -juni '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -68,4 +68,4 @@ De volgende functies zullen naar verwachting gedurende het tweede kalenderkwarta
 * **de Integratie van de Drijf**: Begrijp hoe de gesprekken van de Drijving de reis van uw klant beïnvloeden. [!DNL Bizible] haalt ook e-mailadressen van gesprekken om een nieuwe lead te maken of om het aanraakpunt aan een bestaande lead te koppelen.
 * **Localization**: [!DNL Bizible] is nu beschikbaar in alle Marketo-gesteunde talen (Engels, Japans, Duits, Spaans, Frans, en Portugees).
 
-_&#x200B;**Webinar van de Versie van het Product**&#x200B;_ bekijk de opname van ons webinar van de Innovaties van de Versie van juni 19 [ hier ](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webinar van de Versie van het Product**_ bekijk de opname van ons webinar van de Innovaties van de Versie van juni 19 [ hier ](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

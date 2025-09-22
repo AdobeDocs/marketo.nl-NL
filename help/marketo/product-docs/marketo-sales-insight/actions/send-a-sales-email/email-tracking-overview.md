@@ -3,7 +3,7 @@ description: Overzicht van e-mailtracering - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailtracking
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Dit betekent dat als u een e-mail <flynn@flynnsarcade.com> verzendt en hij reage
 
 1. Upload uw bijlage en verzend het uit. Wij ondersteunen PDF&#39;s, [!DNL Word] -documenten en [!DNL Powerpoint] -presentaties.
 
-1. Selecteer **[!UICONTROL Add to Email]** .
+1. Selecteer **[!UICONTROL Add to Email]**.
 
 1. Klik op **[!UICONTROL Send]** en vul uw Live feed in. Ontvangers worden weergegeven terwijl ze worden geopend en door de bijlagen worden gepagineerd.
 

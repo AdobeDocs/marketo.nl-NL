@@ -3,7 +3,7 @@ description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
 title: Advanced BI Analytics - overzicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1038'
 ht-degree: 0%
@@ -98,7 +98,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Klik op het pictogram &#39;Meer&#39; (**...**)
+1. Klik op het pictogram Meer (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
@@ -237,7 +237,6 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 ## Notities {#note}
 
 * Uw douanerapporten zijn herhaald van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen die in [ worden vermeld die de Nieuwe Ervaring ](#learning-the-new-experience) hieronder leren sectie.
-
 * De dashboards in de klassieke ervaring waren niet overdraagbaar en vereiste ontspanning in de nieuwe ervaring. Deze kunnen opnieuw worden gemaakt als rapporten in de nieuwe ervaring en de filters in de nieuwe ervaring genereren automatisch mogelijke waarden.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
   >Als u meer dan 700 rapporten in de Ontdekkingsreiziger van de Ontvangsten had, zijn sommige rapporten gecombineerd met anderen en geconsolideerd via pagina&#39;s binnen het rapport.
   >
   >* Als een rapport een e-mailabonnement had, is het niet gecombineerd.
-  >
   >* De rest rapporten in de _zelfde omslag_ werden gecombineerd in één of meerdere rapporten, door rapporterend gebied. Indien er meer dan vijf verslagen waren voor het verslaggebied, werden deze samengevoegd tot meer dan één gecombineerd verslag.
-  >
   >* Elk gecombineerd rapport heeft maximaal vijf pagina&#39;s.
 
 * Er geldt een beperking van 1 miljoen rijen per query voor een bepaalde visualisatie. Als uw query deze overschrijdt, ontvangt u de volgende fout: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows` . Om dit te bevestigen, verklein uw datumwaaier, en/of pas de filters in uw rapport aan om het aantal rijen in uw vraagresultaat te verminderen.

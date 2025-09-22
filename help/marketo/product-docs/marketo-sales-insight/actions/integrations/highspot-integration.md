@@ -3,7 +3,7 @@ description: Highspot Integration - Marketo Docs - Productdocumentatie
 title: Integratie van kenmerken
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -12,23 +12,23 @@ ht-degree: 0%
 
 # Integratie van kenmerken {#highspot-integration}
 
-De verkoop kan tot de mogelijkheden van de Markering van de Verkoop van de Acties van het Inzicht van de Verkoop toegang hebben en grotere zichtbaarheid, efficiency, en prestaties door de verkoopcyclus bereiken. Gebruikers van Handeling voor verkoopinzicht kunnen verkoopinhoud selecteren die is opgeslagen op het platform voor verkoopactivering van Highspot en deze rechtstreeks invoegen in e-mails, e-mailsjablonen en verkoopcampagnes, terwijl ze inhoud bijhouden en analyses vastleggen in Handelingen voor Marktmelding en Verkoopinzicht.
+De verkoop kan tot de mogelijkheden van de Marktprijs van de Acties van Insight van de Verkoop toegang hebben en grotere zichtbaarheid, efficiency, en prestaties door de verkoopcyclus bereiken. Gebruikers van Sales Insight Action kunnen verkoopinhoud selecteren die is opgeslagen op het platform voor verkoopactivering van Highspot en deze rechtstreeks invoegen in e-mails, e-mailsjablonen en verkoopcampagnes, terwijl ze de inhoud bijhouden en analyses vastleggen in de acties Highspot en Sales Insight.
 
 ## Marktintegratie inschakelen {#enabling-highspot-integration}
 
 >[!NOTE]
 >
->U moet over beheerdersrechten beschikken om Highspot in te schakelen voor uw exemplaar Handelingen in het venster Handelingen in het oog op verkoopgegevens.
+>U moet beheerdersrechten hebben om Highspot in te schakelen voor uw exemplaar van Sales Insight Actions.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik het tandwielpictogram en selecteer **Montages**.
 
    ![](assets/highspot-integration-1.png)
 
-1. Onder **Beheerinstellingen**, selecteert u **Algemeen**.
+1. Onder **Montages Admin**, uitgezochte **Algemeen**.
 
    ![](assets/highspot-integration-2.png)
 
-1. Schuiven naar **Integraties** en klik op de schuifregelaar om Markering in te schakelen.
+1. De rol aan **kaart van de Integratie** en klikt de schuif om Hoogtepunt toe te laten.
 
    ![](assets/highspot-integration-3.png)
 
@@ -38,9 +38,9 @@ Gebruikers zien nu een optie om Markering te selecteren wanneer ze de knop voor 
 
 ## Toegang krijgen tot inhoud van Highspot en inhoud delen via e-mail {#accessing-highspot-content}
 
-U hebt toegang tot Markering en voegt inhoud toe aan uw e-mails vanuit het samenstellingvenster Handelingen voor het instellen van verkoopgegevens, de sjablooneditor en de e-maileditor voor verkoopcampagnes. Hieronder vindt u de stappen voor toegang tot inhoud vanuit het samenstellingsvenster.
+U kunt Markering openen en inhoud toevoegen aan uw e-mailberichten via het samenstellingsvenster, de sjablooneditor en de e-maileditor voor verkoopcampagnes van Sales Insight. Hieronder vindt u de stappen voor toegang tot inhoud vanuit het samenstellingsvenster.
 
-1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld selecteren we **Samenstellen** in de koptekst).
+1. Creeer uw e-mailontwerp (er zijn veelvoudige manieren om dit te doen, in dit voorbeeld selecteren wij **samenstellen** in de kopbal).
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ U hebt toegang tot Markering en voegt inhoud toe aan uw e-mails vanuit het samen
 
    ![](assets/highspot-integration-6.png)
 
-1. Schrijf je bericht. Klik op de plaats in de e-mail waar u de inhoud voor hooglichten wilt invoegen. Klik op de vervolgkeuzelijst met pijlen (naast het afbeeldingspictogram) en selecteer **Highspot**.
+1. Schrijf je bericht. Klik op de plaats in de e-mail waar u de inhoud voor hooglichten wilt invoegen. Klik de pijldrop-down (naast het beeldpictogram) en selecteer **Hoogtepunt**.
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ U hebt toegang tot Markering en voegt inhoud toe aan uw e-mails vanuit het samen
 
    ![](assets/highspot-integration-8.png)
 
-1. Selecteer de gewenste inhoud en klik op de knop **Inhoud toevoegen** knop.
+1. Selecteer uw gewenste inhoud en klik **toevoegen Inhoud** knoop.
 
    ![](assets/highspot-integration-9.png)
 

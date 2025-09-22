@@ -4,7 +4,7 @@ description: SEO - Trefwoorden importeren met een CSV - Marketo Docs - Productdo
 title: SEO - Trefwoorden importeren met een CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 2%
@@ -13,9 +13,9 @@ ht-degree: 2%
 
 # SEO - Trefwoorden importeren met een CSV {#seo-importing-keywords-with-a-csv}
 
-1. U kunt [trefwoorden toevoegen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) handmatig, [trefwoordsuggesties ophalen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) en importeert zelfs trefwoorden uit een CSV-bestand. Hieronder wordt beschreven hoe u het bestand importeert.
+1. U kunt [ sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manueel toevoegen, [ krijgen sleutelwoordsuggesties ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) en zelfs sleutelwoorden van een Csv- dossier invoeren. Hieronder wordt beschreven hoe u het bestand importeert.
 
-1. Ga naar de **[!UICONTROL Keywords]** sectie.
+1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
@@ -49,5 +49,5 @@ ht-degree: 2%
 
    >[!MORELIKETHIS]
    >
-   >* [Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Trefwoorden toevoegen aan of verwijderen uit een lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [ Begrijpend Trefwoorden (Samenvattingsmening) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [ voeg/verwijder Trefwoorden van een Lijst toe ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

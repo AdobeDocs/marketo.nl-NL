@@ -4,7 +4,7 @@ description: Log Inbound Mail from Your Leads in Marketo - Marketo Docs - Produc
 title: Inkomende e-mail van uw leads aanmelden in Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

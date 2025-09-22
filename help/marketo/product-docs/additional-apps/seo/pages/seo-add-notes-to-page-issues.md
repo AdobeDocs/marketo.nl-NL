@@ -4,7 +4,7 @@ description: SEO - Opmerkingen toevoegen aan pagina-problemen - Marketo Docs - P
 title: SEO - Notities toevoegen aan pagina-problemen
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 1%
@@ -13,15 +13,15 @@ ht-degree: 1%
 
 # SEO - Notities toevoegen aan pagina-problemen {#seo-add-notes-to-page-issues}
 
-Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinneringen of teamberichten?
+Wist u dat u notities kunt toevoegen aan pagina-problemen als persoonlijke herinneringen of teamberichten?
 
 ## Notities toevoegen in sectie Paginaproblemen {#adding-notes-in-page-issues-section}
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Klik op het tabblad Pagina&#39;s op **[!UICONTROL Issues]**.
+1. Klik op het tabblad Pagina&#39;s op **[!UICONTROL Issues]** .
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
@@ -35,11 +35,11 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 
 >[!TIP]
 >
->U kunt uw notitie verwijderen door op de knop **x** in de linkerbovenhoek.
+>U kunt uw nota schrappen door de kleine **x** in de hogere linkerhoek te klikken.
 
 ## Notities toevoegen in Gedetailleerde pagina omlaag {#add-notes-in-page-detail-drill-down}
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -47,7 +47,7 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Houd de muisaanwijzer boven de pagina-uitgave waaraan u een notitie wilt toevoegen en klik op **[!UICONTROL Add Note]**.
+1. Houd de muis boven de pagina-uitgave waaraan u een notitie wilt toevoegen en klik op **[!UICONTROL Add Note]** .
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
@@ -55,6 +55,6 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Uw opmerking is toegevoegd!
+   Uw notitie is toegevoegd!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)

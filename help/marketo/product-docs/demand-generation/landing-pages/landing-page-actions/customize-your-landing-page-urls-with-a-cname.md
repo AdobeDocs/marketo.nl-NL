@@ -4,7 +4,7 @@ description: Pas uw bestemmingspagina-URL's aan met een CNAME - Marketo Docs - P
 title: De URL's van uw bestemmingspagina aanpassen met een CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Vraag uw personeel van IT om volgende CNAME in te stellen: (Vervang het woord [ 
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Onder de **sectie van Montages**, geeft de klik **&#x200B;**&#x200B;uit.
+1. Onder de **sectie van Montages**, geeft de klik **** uit.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 

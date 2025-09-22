@@ -4,7 +4,7 @@ description: Slimme campagnes in batch en trigger - Marketo Docs - Productdocume
 title: Slimme campagnes in batch en trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -27,14 +27,14 @@ Batchcampagnes hebben alleen filters in de sectie voor slimme lijsten (geen trig
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Klik op de knop **[!UICONTROL Schedule]** wordt bevestigd dat de slimme campagne is ingesteld op &quot;Batch&quot;.
+Als u op het tabblad **[!UICONTROL Schedule]** klikt, wordt bevestigd dat de slimme campagne is ingesteld op Batch.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
-**Slimme batch-campagnes**
+**Partij Slimme Campagnes**
 
 * Kan worden gepland voor herhalingen, zoals dagelijks, wekelijks en maandelijks. Je kunt ze ook één keer laten draaien.
-* zijn zichtbaar op de [programmaoverzicht](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles na een stap &quot;Wacht&quot; in de slimme campagne wordt niet opgenomen in de weergave.
+* Zijn zichtbaar op de [ mening van het programmaschema ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles na een stap &quot;Wacht&quot; in de slimme campagne wordt niet opgenomen in de weergave.
 
 <br> 
 
@@ -50,15 +50,15 @@ Als voor een slimme campagne ten minste één trigger in de sectie Slimme lijst 
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Klik op de knop **[!UICONTROL Schedule]** wordt bevestigd dat de slimme campagne is ingesteld op &quot;Teweeggebracht&quot;.
+Als u op het tabblad **[!UICONTROL Schedule]** klikt, wordt bevestigd dat de slimme campagne is ingesteld op &quot;Trigered&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
-**Trigger-campagnes**
+**Trigger Campagnes**
 
 * Kan niet worden gepland voor herhalingen. Deze kunnen alleen op actief of inactief worden ingesteld.
 * U kunt meerdere trigger instellen. Als er echter een trigger wordt geactiveerd, worden de campagneacties uitgevoerd.
 
 >[!TIP]
 >
->Gebruik de [activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} om te zien wat stap voor stap binnen uw Slimme Campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.
+>Gebruik het [ activiteitenlogboek ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} om te zien wat geleidelijke binnen uw Slimme Campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.

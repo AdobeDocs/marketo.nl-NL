@@ -4,7 +4,7 @@ description: Tiptekst toevoegen aan een formulierveld - Marketo Docs - Productdo
 title: Hinttekst toevoegen aan een formulierveld
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 1%
@@ -19,9 +19,9 @@ Hints en [ instructies ](/help/marketo/product-docs/demand-generation/forms/form
 >
 >**Definitie**
 >
->De Hints van de vorm **&#x200B;**&#x200B;is tekst binnen het gebied dat verdwijnt wanneer de bezoeker op het gebied begint te typen.
+>De Hints van de vorm **** is tekst binnen het gebied dat verdwijnt wanneer de bezoeker op het gebied begint te typen.
 >
->De instructies van de vorm **&#x200B;**&#x200B;zijn weinig tooltips die tonen wanneer de bezoeker over het gebied beweegt.
+>De instructies van de vorm **** zijn weinig tooltips die tonen wanneer de bezoeker over het gebied beweegt.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

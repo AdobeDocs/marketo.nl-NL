@@ -4,7 +4,7 @@ description: Bijhouden via account starten in de Revenue Modeler - Marketo Docs 
 title: Beginnen met bijhouden op rekening in de Revenue Modeler
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%

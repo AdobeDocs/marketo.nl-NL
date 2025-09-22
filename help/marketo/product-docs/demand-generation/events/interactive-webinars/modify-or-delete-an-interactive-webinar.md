@@ -3,7 +3,7 @@ description: Een interactief webinar wijzigen of verwijderen - Marketo Docs - Pr
 title: Een interactief webinar wijzigen of verwijderen
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Leer hoe u wijzigingen aanbrengt in uw interactief webinar.
 
    >[!NOTE]
    >
-   >U kunt op dit moment alleen een gekloond interactief webinar opslaan als een interactief webinar. Een gekloonde webinar opslaan als een Partner Webinar (bijvoorbeeld Zoomen, ON24, enz.) is binnenkort beschikbaar.
+   >U kunt op dit moment alleen een gekloond interactief webinar opslaan als een interactief webinar. Het opslaan van een gekloonde webinar als Partner Webinar (b.v., Zoom, ON24, enz.) zal binnenkort beschikbaar zijn.
 
 1. Kies de montages voor uw gekloonde webinar en klik **Kloon**.
 

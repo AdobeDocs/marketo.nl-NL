@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - lente 16 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - lente '16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%

@@ -4,9 +4,9 @@ description: Inzicht in het e-mailanalysegebied - Marketo Docs - Productdocument
 title: Het e-mailanalysegebied
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Het gebied van de Analyse E-mail concentreert zich op e-mailmetriek. In dit arti
 
 >[!AVAILABILITY]
 >
->Dit is beschikbaar voor gebruikers met de Select Edition of [Analyse van inkomstencyclus](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) invoegtoepassing. Neem contact op met je verkoper voor meer informatie.
+>Dit is beschikbaar aan gebruikers met de Uitgezochte Uitgave of [ toe:voegen-aan de Analyse van de Cyclus van 0} Inkomsten. ](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) Neem contact op met je verkoper voor meer informatie.
 
 ## E-mail klikken op Activiteit, warmteraster {#email-click-activity-heat-grid}
 

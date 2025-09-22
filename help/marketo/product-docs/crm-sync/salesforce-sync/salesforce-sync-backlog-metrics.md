@@ -3,7 +3,7 @@ description: Salesforce Sync Backlog Metrics - Marketo Docs - Productdocumentati
 title: Salesforce Sync Backlog Metrics
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
@@ -98,9 +98,9 @@ Wanneer een grote hoeveelheid updates wordt gemaakt (zoals van een veranderend g
 
 **vaak bijgewerkte gebieden**: Sommige gebieden zijn aan frequente updates vatbaar. Bijvoorbeeld valutavelden die aan valutawijzigingen zijn onderworpen. Controleer of deze moeten worden gesynchroniseerd of dat de velden anders moeten worden ontworpen. Als u andere velden hebt die vaak worden bijgewerkt en niet nodig zijn, verbergt u deze voor de synchronisatiegebruiker. Bespreek de integratie met uw SFDC-beheerprogramma&#39;s die mogelijk velden bijwerken.
 
-**de voorwerpen van de Douane**: Herzie periodiek [ douanevoorwerpen ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} toegelaten om die te synchroniseren en onbruikbaar te maken die niet meer moeten worden gesynchroniseerd.
+**de voorwerpen van de Douane**: Herzie periodiek [ douanevoorwerpen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} toegelaten om die te synchroniseren en onbruikbaar te maken die niet meer moeten worden gesynchroniseerd.
 
-**Activiteiten**: [ Overzicht als om het even welke activiteiten ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} synchronisatie toeliet die van synchronisatie kan worden verwijderd.  Deze activiteiten worden slechts eenmaal per dag gesynchroniseerd per lead.
+**Activiteiten**: [ Overzicht als om het even welke activiteiten ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} synchronisatie toeliet die van synchronisatie kan worden verwijderd.  Deze activiteiten worden slechts eenmaal per dag gesynchroniseerd per lead.
 
 **de fouten van de Synchronisatie van het Overzicht**: De behandeling van de uitzondering kan de synchronisatie vertragen. Door gebruikersmeldingen te controleren en fouten op te lossen, kunt u de synchronisatiestatus verbeteren.
 

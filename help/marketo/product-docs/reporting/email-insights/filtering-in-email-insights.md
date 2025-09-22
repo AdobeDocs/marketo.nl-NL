@@ -4,7 +4,7 @@ description: Filteren in e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Filteren in e-mailinzichten
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%

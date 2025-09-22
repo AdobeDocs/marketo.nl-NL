@@ -4,7 +4,7 @@ description: Items rechtstreeks maken in de marketingkalender - Marketo Docs - P
 title: Items rechtstreeks maken in de marketingkalender
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -13,18 +13,18 @@ ht-degree: 0%
 
 # Items rechtstreeks maken in de marketingkalender {#create-entries-directly-in-the-marketing-calendar}
 
-Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met de modus voor programmafocus. U kunt de volgende ingstypen maken:
+Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met behulp van de modus voor programmafocus. U kunt de volgende ingstypen maken:
 
 * Basisinvoer
 * Aangepaste items
 * E-mailprogramma&#39;s
 * Slimme campagnes
 
-1. Klik op de knop **[!UICONTROL Calendar]** tegel.
+1. Klik op de tegel **[!UICONTROL Calendar]** .
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Selecteer een vorig item en klik op **[!UICONTROL Show Program Focus]**.
+1. Selecteer een vorige vermelding en klik op **[!UICONTROL Show Program Focus]** .
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -38,7 +38,7 @@ Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met de modus
 
    >[!TIP]
    >
-   >U kunt ook een melding maken **Slimme campagnes**, **E-mailprogramma&#39;s** en **Basisinvoer** op dezelfde manier.
+   >Bericht u kunt **Slimme Campagnes**, **E-mailProgramma&#39;s** en **BasisIngangen** op deze zelfde manier ook tot stand brengen.
 
 1. Sluit de focusmodus van het programma wanneer u klaar bent met bewerken.
 
@@ -46,4 +46,4 @@ Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met de modus
 
 >[!MORELIKETHIS]
 >
->[Items rechtstreeks in de marketingkalender bewerken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[ geef Ingangen direct in de Kalender van de Marketing uit ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

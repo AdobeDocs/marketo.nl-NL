@@ -3,7 +3,7 @@ description: Onbeantwoorde vragen - Marketo Docs - Productdocumentatie
 title: Onbeantwoorde vragen
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Bekijk alle vragen die de chatbot niet kon beantwoorden en/of de vragen die als 
 >
 >De lijst met onbeantwoorde vragen wordt automatisch vernieuwd om de 24 uur, om middernacht PST.
 
-1. Klik onder Generative AI op **[!UICONTROL Assisted responses]**.
+1. Klik onder Generatieve AI op **[!UICONTROL Assisted responses]** .
 
    ![](assets/unanswered-questions-1.png)
 
-1. Klik op de knop **[!UICONTROL Unanswered questions]** tab.
+1. Klik op de tab **[!UICONTROL Unanswered questions]** .
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ Bekijk alle vragen die de chatbot niet kon beantwoorden en/of de vragen die als 
 
    ![](assets/unanswered-questions-3.png)
 
-1. Voer uw reactie in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klikken **[!UICONTROL Save]** wanneer gereed.
+1. Voer uw reactie in. Wijs een onderwerp toe en voeg een facultatieve URL toe die de gebruikers met bezoekers kunnen delen. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/unanswered-questions-4.png)
 

@@ -4,10 +4,10 @@ description: Plaats  [!DNL Google AdWords]  Omzettingen in het Model van de Opbr
 title: Plaats  [!DNL Google AdWords]  Omzettingen in het Model van de Ontvangsten
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '409'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -95,7 +95,7 @@ Pro tip! Er kan een nieuwe [!DNL AdWords] offline conversie worden gemaakt vanui
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Selecteer **[!UICONTROL New Conversion]** .
+1. Selecteer **[!UICONTROL New Conversion]**.
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
@@ -109,7 +109,7 @@ Pro tip! Er kan een nieuwe [!DNL AdWords] offline conversie worden gemaakt vanui
 
 U kunt al uw modelfasen aan uw [!UICONTROL AdWords Conversion] in één plaats associëren gebruikend [!DNL AdWords] Toewijzingen.
 
-1. Selecteer **[!UICONTROL Edit AdWords Mappings]** .
+1. Selecteer **[!UICONTROL Edit AdWords Mappings]**.
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 

@@ -4,7 +4,7 @@ description: Stap 2 van 3 - Synchronisatie van gebruiker voor Marketo configurer
 title: Stap 2 van 3 - Sync User for Marketo configureren (2013 op locatie)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
    ![](assets/image2014-12-11-11-3a13-3a19.png)
 
-1. Selecteer **[!UICONTROL Users]** .
+1. Selecteer **[!UICONTROL Users]**.
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 

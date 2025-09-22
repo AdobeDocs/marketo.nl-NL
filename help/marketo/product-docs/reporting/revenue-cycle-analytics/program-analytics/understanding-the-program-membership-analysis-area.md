@@ -4,10 +4,10 @@ description: Inzicht in het gebied van de Analyse van het Lidmaatschap van het P
 title: Inzicht in het analysegebied van het lidmaatschap van het programma
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ Hoeveel nieuwe namen produceerde elk programma/kanaal per maand?
 
 ![](assets/three-2.png)
 
-## Dimension en maatregelen voor de analyse van programmamakers {#program-membership-analysis-dimensions-and-measures}
+## Dimensies en maatregelen van de analyse van het lidmaatschap van het programma {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >

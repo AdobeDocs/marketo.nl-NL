@@ -4,9 +4,9 @@ description: Problemen met validatie synchroniseren van dynamiek verhelpen - Mar
 title: Problemen met validatie synchroniseren van dynamiek verhelpen
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 ## Resultaten van gereedschap Sync valideren {#validate-sync-tool-results}
 
-Wanneer u de Dynamica in werking stelt bevestigt Synchronisatie, produceert het een rapport. Als er een ![x](assets/delete.png) naast een stap raadpleegt u de onderstaande opties om het probleem te identificeren en op te lossen. Voer vervolgens de validatiestappen opnieuw uit totdat het resultaat alleen groene vinkjes weergeeft.
+Wanneer u de Dynamica in werking stelt bevestigt Synchronisatie, produceert het een rapport. Als er een ![ x ](assets/delete.png) naast een stap is, zie de opties hieronder om het probleem te identificeren en te bevestigen. Voer vervolgens de validatiestappen opnieuw uit totdat het resultaat alleen groene vinkjes weergeeft.
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## URL is geldig {#url-is-valid}
 
-Als u een ![x](assets/delete.png) Controleer hier of de URL geldig is. Vind het hier in de Middelen van de Ontwikkelaar en bekijk de Dienst van de Organisatie. De URL kan om een aantal redenen ongeldig zijn.
+Als u een ![ x ](assets/delete.png) hier hebt, verifieer dat URL geldig is. Vind het hier in de Middelen van de Ontwikkelaar en bekijk de Dienst van de Organisatie. De URL kan om een aantal redenen ongeldig zijn.
 
-1. Meld u aan bij Dynamics. Klik op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
+1. Meld u aan bij Dynamics. Klik het pictogram van Montages en selecteer **Geavanceerde Montages**.
 
    ![](assets/one.png)
 
-1. Klik op Instellingen en selecteer **Aanpassingen**.
+1. Klik Montages en selecteer **Aanpassingen**.
 
    ![](assets/two.png)
 
-1. Klikken **Bronnen voor ontwikkelaars**.
+1. Klik {de Middelen van de Ontwikkelaar 0} **.**
 
    ![](assets/three.png)
 
@@ -41,23 +41,23 @@ Als u een ![x](assets/delete.png) Controleer hier of de URL geldig is. Vind het 
 
 ## Gebruikersnaam en wachtwoord zijn geldig {#username-and-password-are-valid}
 
-Als u een ![x](assets/delete.png) Controleer hier of de gegevens voor Microsoft Dynamics geldig zijn. Voor S2S-verificatie voor de web-API moet de gebruikersnaam in Marketo overeenkomen met de [e-mailadres](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) van de Application User in the CRM. Voor andere typen moet deze overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker.
+Als u een ![ x ](assets/delete.png) hier hebt, verifieer dat uw geloofsbrieven van Microsoft Dynamics geldig zijn. Voor de authentificatie van S2S van het Web API, moet de gebruikersbenaming in Marketo het [ e-mailadres ](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) van de Gebruiker van de Toepassing in CRM aanpassen. Voor andere typen moet deze overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker.
 
 ## De gebruiker synchroniseren wordt toegewezen aan de Marketo Sync-gebruikersrol {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Als u een ![x](assets/delete.png) het zou hier een van de drie onderstaande kwesties kunnen zijn .
+Als u een ![ x ](assets/delete.png) hier hebt, zou het één van de drie hieronder kwesties kunnen zijn.
 
-**Optie één - controleer of de gebruikersrol van Marketo Sync is ingeschakeld in Microsoft Dynamics**:
+**Optie één - verifieer dat de Rol van de Gebruiker van de Synchronisatie van Marketo in Microsoft Dynamics** wordt gecontroleerd:
 
-1. Klik in Dynamics op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
+1. In Dynamiek, klik het pictogram van Montages en selecteer **Geavanceerde Montages**.
 
    ![](assets/one.png)
 
-1. Klikken **Instellingen** en selecteert u **Beveiliging**.
+1. Klik **Montages** en selecteer **Veiligheid**.
 
    ![](assets/six.png)
 
-1. Klikken **Gebruikers.**
+1. Klik **Gebruikers.**
 
    ![](assets/image2015-9-24-9-3a47-3a25.png)
 
@@ -65,31 +65,31 @@ Als u een ![x](assets/delete.png) het zou hier een van de drie onderstaande kwes
 
    ![](assets/seven.png)
 
-1. Klikken **Rollen beheren**.
+1. Klik **leiden Rollen**.
 
    ![](assets/eight.png)
 
-1. Controleer of de gebruikersrol Marketo Sync is ingeschakeld. Zo niet, controleer het en klik op **OK.**
+1. Controleer of de gebruikersrol Marketo Sync is ingeschakeld. Als niet, controleer het en klik **OK.**
 
    ![](assets/image2015-9-24-9-3a59-3a21.png)
 
-**Optie twee - Toestemming voor subsidie bevestigen**:
+**Optie Twee - bevestig Toestemming van de Verlening**:
 
-1. Controleer de [Toestemming verlenen voor client-id en toepassingsregistratie](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) om te bevestigen dat de app beheerderstoestemming heeft om API&#39;s aan te roepen.
+1. Herzie de [ Toestemming van de Verlening voor Identiteitskaart van de Cliënt en Registratie van de Toepassing ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) om app te bevestigen heeft admin toestemming om APIs te roepen.
 
-**Optie drie - Gebruiker synchroniseren**:
+**Optie Drie - de Gebruiker van de Synchronisatie**:
 
 1. Controleer of de synchronisatiegebruiker is toegevoegd aan Marketo Config.
 
 ## Marketo-oplossing is correct geïnstalleerd {#marketo-solution-is-properly-installed}
 
-Als u een ![x](assets/delete.png) Ga hier naar Microsoft Dynamics om te controleren of de installatie van Marketo er is. Zie Stap 1 van de de opstellingsdocumentatie van de Dynamica van Microsoft.
+Als u een ![ x ](assets/delete.png) hier hebt, ga naar Microsoft Dynamics om te verifiëren de installatie van Marketo daar is. Zie Stap 1 van de Microsoft Dynamics-installatiedocumentatie.
 
-1. Klik in Dynamics op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
+1. In Dynamiek, klik het pictogram van Montages en selecteer **Geavanceerde Montages**.
 
    ![](assets/one.png)
 
-1. Klikken **Instellingen** en selecteert u **Oplossingen.**
+1. Klik **Montages** en selecteer **Oplossingen.**
 
    ![](assets/eleven.png)
 
@@ -99,17 +99,17 @@ Als u een ![x](assets/delete.png) Ga hier naar Microsoft Dynamics om te controle
 
 ## Alle stappen in de oplossing worden toegelaten {#all-steps-in-the-solution-are-enabled}
 
-Als u een ![x](assets/delete.png) Controleer hier of geen van de standaardstappen is gedeactiveerd. Alle stappen worden automatisch ingeschakeld bij de installatie, maar kunnen tijdens een aanpassing worden gedeactiveerd.
+Als u een ![ x ](assets/delete.png) hier hebt, verifieer dat geen van de standaardstappen zijn gedeactiveerd. Alle stappen worden automatisch ingeschakeld bij de installatie, maar kunnen tijdens een aanpassing worden gedeactiveerd.
 
 ## De synchronisatiegebruiker wordt toegewezen aan de Marketo-oplossing {#sync-user-is-assigned-to-the-marketo-solution}
 
-Als u een ![x](assets/delete.png) Controleer hier of de synchronisatiegebruiker is toegewezen aan de standaardpagina Marketo in Microsoft Dynamics.
+Als u een ![ x ](assets/delete.png) hier hebt, zorg ervoor de gebruiker van de Synchronisatie op de Standaard pagina van Marketo in Microsoft Dynamics wordt toegewezen.
 
-1. Klik in Dynamics op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
+1. In Dynamiek, klik het pictogram van Montages en selecteer **Geavanceerde Montages**.
 
    ![](assets/one.png)
 
-1. Klikken **Instellingen** en selecteert u **Marketo Config**.
+1. Klik **Montages** en selecteer **Marketo Config**.
 
    ![](assets/thirteen.png)
 
@@ -119,8 +119,8 @@ Als u een ![x](assets/delete.png) Controleer hier of de synchronisatiegebruiker 
 
 ## Gebruikersnamen en wachtwoord synchroniseren {#sync-user-matches-username-and-password}
 
-Als u een ![x](assets/delete.png) hier, ben zeker om de juiste synchronisatiegebruiker op het gebied van de Gebruiker van Marketo in Marketo toe te wijzen Config Standaard opstellingsstap in de Dynamica van Microsoft.
+Als u een ![ x ](assets/delete.png) hier hebt, ben zeker om de juiste synchronisatiegebruiker op het gebied van de Gebruiker van Marketo in de Standaard de opstellingsstap van Marketo Config in Microsoft Dynamics toe te wijzen.
 
 >[!MORELIKETHIS]
 >
->[Microsoft Dynamics Sync valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+>[ bevestigt de Synchronisatie van Microsoft Dynamics ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)

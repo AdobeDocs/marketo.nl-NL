@@ -4,7 +4,7 @@ description: Marketo On24-adaptergebeurtenissen - Marketo Docs - Productdocument
 title: Marketo On24-adaptergebeurtenissen
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -23,4 +23,4 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Beginnen met [Een gebeurtenis maken met de ON24-adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+Klaar om te beginnen? Begin met [ creeer een Gebeurtenis met de Adapter ON24 ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.

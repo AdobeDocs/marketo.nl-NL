@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - Augustus 2014 - Marketo Docs - Product
 title: Release-aantekeningen -augustus 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van augustus 2014. Raadpleeg d
 
 ## Licenties voor marketingkalender {#marketing-calendar-licenses}
 
-Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Ben zeker om een Vergunning van de Kalender van de Marketing [&#128279;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aan de gebruikers van uw keus vóór dan voor ononderbroken toegang uit te geven/in te trekken.
+Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Ben zeker om een Vergunning van de Kalender van de Marketing [ aan de gebruikers van uw keus vóór dan voor ononderbroken toegang uit te geven/in te trekken.](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -69,7 +69,7 @@ U vroeg de gemeenschap en wij leverden die! U kunt nu een specifieke call to act
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Verbeterde 1:1-segmentatie en doelgerichtheid {#enhanced-segmentation-and-targeting}
+## Verbeterde 1 :1 segmentatie en gericht {#enhanced-segmentation-and-targeting}
 
 U kunt nu geavanceerde filteroperatoren gebruiken om bekende bezoekers als doel in te stellen.
 

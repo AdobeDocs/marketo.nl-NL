@@ -4,10 +4,10 @@ description: Tags gebruiken in een programma - Marketo Docs - Productdocumentati
 title: Tags gebruiken in een programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -43,7 +43,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
 ## Een tag bewerken {#edit-a-tag}
 
-1. Ga naar de tab **[!UICONTROL Setup]** . Klik met de rechtermuisknop op de tag. Selecteer **[!UICONTROL Edit]** .
+1. Ga naar de tab **[!UICONTROL Setup]** . Klik met de rechtermuisknop op de tag. Selecteer **[!UICONTROL Edit]**.
 
    ![](assets/use-tags-in-a-program-6.png)
 

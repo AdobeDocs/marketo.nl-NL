@@ -2,7 +2,7 @@
 description: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce - Marketo Docs - de Documentatie van het Product
 title: Opsomming toevoegen aan verkoopcampagne in Salesforce gebruiken
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%

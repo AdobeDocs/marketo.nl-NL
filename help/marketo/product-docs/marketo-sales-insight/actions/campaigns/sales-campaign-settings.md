@@ -3,7 +3,7 @@ description: Instellingen voor verkoopcampagne - Marketo-documenten - productdoc
 title: Instellingen verkoopcampagne
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -82,4 +82,4 @@ Als voor Gmail of [!DNL Exchange] de functie voor het bijhouden van antwoorden i
 >
 >* [ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >* [ het Begrip van de Campagne van de Verkoop verzendt Opties voor E-mailstappen ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
->* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

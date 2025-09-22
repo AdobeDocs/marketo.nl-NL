@@ -4,10 +4,10 @@ description: Marketo for Microsoft Dynamics 2015 op locatie installeren Stap 3 v
 title: Marketo voor Microsoft Dynamics 2015 op locatie installeren Stap 3 van 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Selecteer **[!UICONTROL Microsoft]** .
+1. Selecteer **[!UICONTROL Microsoft]**.
 
    ![](assets/image2015-3-16-9-50-6.png)
 

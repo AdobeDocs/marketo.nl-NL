@@ -3,9 +3,9 @@ description: Aan de slag met voorspellende doelgroepen - Marketo Docs - Productd
 title: Aan de slag met voorspellend publiek
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Het voorspellende publiek (PA) gebruikt AI en machine het leren om u toe te late
 PA bevat de volgende functies:
 
 * Waarden voor registratie en zichtbaarheid van elke lead in een gebeurtenisprogramma
-* [Voorspelende filters](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
-* [Modellen en factoren die van invloed zijn](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
+* [ Predictieve Filters ](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
+* [ Modellen en beïnvloedende factoren ](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * Op AI/ML gebaseerde inzichten
 * Goal Tracking and Projected Registrations - (Goal Tracking is alleen beschikbaar voor diegenen die de moderne UX-schakeloptie hebben ingeschakeld voor gebeurtenisprogramma&#39;s)
 
@@ -30,8 +30,8 @@ De prestaties van de AI/ML-modellen zijn afhankelijk van de gegevens in uw abonn
 
 ## Beschikbaarheid
 
-Het voorspellende publiek wordt automatisch opgenomen en geactiveerd voor instanties die gebruikmaken van de prijsbundels voor de eerste of de laatste. Neem voor meer informatie over het verkrijgen van toegang tot deze functie contact op met het accountteam van Adobe (uw accountmanager).
+Het voorspellende publiek wordt automatisch opgenomen en geactiveerd voor instanties die gebruikmaken van prijsbundels voor Prime of Ultimate. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie over toegang tot deze functie.
 
-1. Als de functie eenmaal aan uw instantie is toegevoegd, navigeert u naar de **[!UICONTROL Predictive Audiences]** pagina in de **[!UICONTROL Admin]** gebied Marketo.
+1. Wanneer de functie aan uw instantie is toegevoegd, navigeert u naar de pagina **[!UICONTROL Predictive Audiences]** in het gebied **[!UICONTROL Admin]** van Marketo.
 
-1. Controleren **[!UICONTROL Enable Predictive Audiences]** om de functie te activeren. Het kan tot 24 uur duren voordat alle processen zijn ingesteld.
+1. Schakel **[!UICONTROL Enable Predictive Audiences]** in om de functie te activeren. Het kan tot 24 uur duren voordat alle processen zijn ingesteld.

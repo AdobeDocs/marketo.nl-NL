@@ -4,7 +4,7 @@ description: Een  [!DNL Webhook]  - Marketo-document maken - Productdocumentatie
 title: Maken a [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 23a7b8cb1cd07c0194c08d30218602a52d03df5b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Gebruik [!DNL Webhooks] om gebruik te maken van externe webservices voor het ver
 
    * **[!UICONTROL Response type]**: Selecteer het formaat van de reactie u van de dienst (**JSON** of **XML**) ontvangt.
 
-   * **[!UICONTROL Request Type]**: selecteer de te gebruiken methode van HTTP (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Request Type]**: selecteer de te gebruiken HTTP-methode (DELETE, GET, PATCH, POST, PUT).
 
 1. Klik op **[!UICONTROL Create]**.
 
@@ -51,4 +51,4 @@ Gebruik [!DNL Webhooks] om gebruik te maken van externe webservices voor het ver
 
 >[!NOTE]
 >
->Leer meer in [[!DNL Webhooks] ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}  diepe duik.
+>Leer meer in de [[!DNL Webhooks] ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} diepe duik.

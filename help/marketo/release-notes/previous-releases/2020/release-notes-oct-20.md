@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - oktober 20 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - okt. 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 0%
@@ -83,4 +83,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Webinar productrelease {#product-release-webinar}
 
-Kijk hier de opname van onze productrelease webinar [&#128279;](https://engage.marketo.com/Oct_20_Release_OnDemand.html).
+Kijk hier de opname van onze productrelease webinar [ ](https://engage.marketo.com/Oct_20_Release_OnDemand.html).

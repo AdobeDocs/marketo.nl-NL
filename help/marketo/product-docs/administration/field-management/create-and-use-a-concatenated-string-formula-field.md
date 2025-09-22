@@ -4,7 +4,7 @@ description: Een samengevoegd tekenreeksveld (Formule) maken en gebruiken - Mark
 title: Een samengevoegd veld String (Formule) maken en gebruiken
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 1%
@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # Een samengevoegd veld String (Formule) maken en gebruiken {#create-and-use-a-concatenated-string-formula-field}
 
-U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld met een formule voor Marketo&#39;s Engage.
+U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een Marketo Engage-formuleringsveld.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
@@ -27,15 +27,15 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Selecteren **[!UICONTROL Formula]** voor de **[!UICONTROL Type]**.
+1. Selecteer **[!UICONTROL Formula]** voor **[!UICONTROL Type]** .
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Voer een **[!UICONTROL Name]** voor uw veld klikt u op **[!UICONTROL Create]**.
+1. Voer een **[!UICONTROL Name]** voor uw veld in en klik op **[!UICONTROL Create]** .
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Zoek en selecteer het gewenste veld en klik op **[!UICONTROL Edit Rules]**.
+1. Zoek en selecteer het gewenste veld en klik op **[!UICONTROL Edit Rules]** .
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
    >[!TIP]
    >
-   >Meer informatie over [tokens voor stroomstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >Leer meer over [ tekenen voor stroomstappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kunt u het formules gebied als teken in een e-mail toevoegen.
 
@@ -53,6 +53,6 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
 >[!NOTE]
 >
->Formulervelden kunnen worden gebruikt in Landingspagina&#39;s, e-mails en kolommen Slimme lijst. E-mails met formule-velden kunnen _niet_ worden verzonden via een batchcampagne. Gebruik een [e-mailscripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
+>Formulervelden kunnen worden gebruikt in Landingspagina&#39;s, e-mails en kolommen Slimme lijst. E-mails met formules kunnen __ niet worden verzonden gebruikend een partijcampagne. Gelieve te gebruiken een [ symbolisch e-mailmanuscript ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
 
 Goed werk! Nu heb je een slim veld dat weet welke aanhef je moet opnemen op basis van geslacht. Maak hier plezier mee en maak creatief.

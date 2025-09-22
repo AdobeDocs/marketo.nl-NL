@@ -4,7 +4,7 @@ description: Predictieve inhoud voor webrijke media inschakelen - Marketo Docs -
 title: Voorspelende inhoud voor web-rijke media inschakelen
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor 
 
 ## De JavaScript-code aanpassen en in uw website insluiten  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Verwijs naar de documentatie voor het Rich malplaatje van de Aanbeveling van Media [ op de plaats van de Ontwikkelaars van Marketo ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
+Verwijs naar de documentatie voor het Rich malplaatje van de Aanbeveling van Media [ op de plaats van de Ontwikkelaars van Marketo ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
 
 Plak de JavaScript-code in uw website op de locatie waar u de sjabloon wilt weergeven.
 

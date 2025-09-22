@@ -4,7 +4,7 @@ description: Het Rapport van de Activiteit van het Web van het bedrijf - de Docu
 title: Webactiviteitenrapport van bedrijf
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Creeer het rapport van de Activiteit van de Pagina van het a [ Web ](/help/marke
 
    >[!TIP]
    >
-   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _[!UICONTROL Page Views]_&#x200B;kolom en kies **[!UICONTROL Sort Descending]**.
+   >Om de bedrijven te vinden die uw plaats het meest bezoeken, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op de _[!UICONTROL Page Views]_kolom en kies **[!UICONTROL Sort Descending]**.
 
    [ Kolommen die u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van het Web van het Bedrijf kunt selecteren omvatten:
 

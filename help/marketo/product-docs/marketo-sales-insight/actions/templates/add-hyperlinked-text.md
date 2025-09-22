@@ -3,7 +3,7 @@ description: Hyperlinktekst toevoegen - Marketo Docs - Productdocumentatie
 title: Hyperlinktekst toevoegen
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Volg de onderstaande stappen om te leren hoe u hyperlinks aan uw e-mailsjablonen
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Voer de URL in waarnaar u een koppeling wilt maken (bijvoorbeeld `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=nl-NL` ). Kies of u de URL in hetzelfde of in een nieuw venster wilt openen en klik op **[!UICONTROL Save]** .
+1. Voer de URL in waarnaar u een koppeling wilt maken (bijvoorbeeld `https://experienceleague.adobe.com/docs/marketo/using/home.html` ). Kies of u de URL in hetzelfde of in een nieuw venster wilt openen en klik op **[!UICONTROL Save]** .
 
    ![](assets/add-hyperlinked-text-4.png)
 

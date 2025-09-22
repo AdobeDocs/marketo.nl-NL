@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380789
-description: Benoemde Account Dimension in RCA - Marketo Docs - Productdocumentatie
-title: Dimension van benoemde account in RCA
+description: Benoemde account Dimension in RCA - Marketo Docs - Productdocumentatie
+title: Benoemde account Dimension in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-# Dimension van benoemde account in RCA {#named-account-dimension-in-rca}
+# Benoemde account Dimension in RCA {#named-account-dimension-in-rca}
 
 Bouw op opbrengst-gebaseerde rapporten gebruikend de TAM-specifieke Benoemde dimensie van de Rekening in de Analyse van de Cyclus van de Ontvangsten.
 
 >[!NOTE]
 >
->**Dimension** - kenmerken (weergegeven door gele stippen) die een verschillend beeld van de metingen geven.
+>**Dimensies** - attributen (die door gele punten worden vertegenwoordigd) die verschillende meningen van de maatregelen geven.
 
 ![](assets/one-2.png)
 

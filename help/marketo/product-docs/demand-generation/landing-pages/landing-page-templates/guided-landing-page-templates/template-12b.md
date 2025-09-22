@@ -4,7 +4,7 @@ description: Sjabloon 12B - Marketo-documenten - Productdocumentatie
 title: Sjabloon 12B
 exl-id: 47d18c27-ff60-4f22-b590-8739e6352b13
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 12B {#template-12b}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 12B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 12B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 12B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html?lang=nl-NL)
+[ Malplaatje 12B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)

@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1487'
+source-wordcount: '1486'
 ht-degree: 0%
 
 ---
 
 # E-mailontwerp {#email-authoring}
 
-Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe Marketo Engage-e-mailtoepassing Designer.
+Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe Marketo Engage Email Designer.
 
 >[!IMPORTANT]
 >
@@ -22,11 +22,11 @@ Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe M
 
 >[!PREREQUISITES]
 >
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw abonnement van het Marketo Engage aan het [ Systeem van Identity Management van de Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van de Adobe (uw rekeningsmanager), of [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ## Een e-mail maken {#create-an-email}
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"} .
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
@@ -78,7 +78,7 @@ Wanneer u helemaal niets begint in de e-maileditor, gebruikt u de onderstaande o
 
 U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan zijn:
 
-* Een HTML-bestand met een opgenomen stijlblad
+* Een HTML-bestand met een ingebouwde stijlpagina
 
 * Een zip-bestand dat een HTML-bestand, de stijlpagina (.css) en afbeeldingen bevat
 
@@ -86,15 +86,15 @@ U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan
 >
 >Er gelden geen beperkingen voor de .zip-bestandsstructuur. Verwijzingen moeten echter relatief zijn en passen bij de boomstructuur van de ZIP-map.
 
-1. In het Ontwerp uw malplaatjepagina, uitgezochte **HTML van de Invoer**.
+1. In het Ontwerp uw malplaatjepagina, uitgezochte **Invoer HTML**.
 
-1. De belemmering en laat vallen het gewenste HTML of .zip dossier (of selecteert een dossier van uw computer) en klikt **de Invoer**.
+1. Sleep en laat vallen het gewenste HTML of .zip dossier (of selecteer een dossier van uw computer) en klik **de Invoer**.
 
    ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
->Wanneer de HTML-inhoud wordt geüpload, wordt de inhoud in de compatibiliteitsmodus uitgevoerd. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
+>Wanneer de HTML-inhoud wordt geüpload, wordt de compatibiliteitsmodus gebruikt voor uw inhoud. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
 
 U kunt gewenste veranderingen in de ingevoerde inhoud aanbrengen gebruikend de [ visuele e-mailredacteurshulpmiddelen ](#add-structure-and-content).
 
@@ -144,7 +144,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
    >[!TIP]
    >
-   >Selecteer de n:n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
+   >Selecteer de n :n kolomcomponent om het aantal kolommen van uw keus (tussen drie en 10) te bepalen. U kunt ook de breedte van elke kolom definiëren door de pijlen onder de kolom te verplaatsen.
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -160,7 +160,7 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 ### Assets toevoegen {#add-assets}
 
-Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van het Marketo Engage worden opgeslagen.
+Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >
@@ -188,13 +188,13 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
 
 1. Selecteer de kolom in de structuurcomponent direct in het canvas of gebruikend de _boom van de Navigatie_ die bij de linkerzijde wordt getoond.
 
-1. Klik in de kolomwerkbalk op het gereedschap _[!UICONTROL Select a column]_&#x200B;en kies het gereedschap dat u wilt bewerken.
+1. Klik in de kolomwerkbalk op het gereedschap _[!UICONTROL Select a column]_en kies het gereedschap dat u wilt bewerken.
 
-   U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_&#x200B;en&#x200B;_[!UICONTROL Styles]_ rechts.
+   U kunt deze ook selecteren in de boomstructuur. De bewerkbare parameters voor die kolom worden weergegeven op de tabbladen _[!UICONTROL Settings]_en_[!UICONTROL Styles]_ rechts.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_&#x200B;aan de rechterkant en wijzigt u deze naar wens:
+1. Als u de kolomeigenschappen wilt bewerken, klikt u op de tab _[!UICONTROL Styles]_aan de rechterkant en wijzigt u deze naar wens:
 
    * Wijzig voor **[!UICONTROL Background]** de achtergrondkleur zo nodig.
 
@@ -203,7 +203,7 @@ In het onderstaande voorbeeld worden de stappen beschreven voor het aanpassen va
    * Voor **[!UICONTROL Alignment]**, selecteer de _Hoogste_, _Midden_, of _Onderste_ pictogram.
    * Definieer bij **[!UICONTROL Padding]** de opvulling voor alle zijden.
 
-     Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot &lbrace;om synchronisatie te breken.
+     Selecteer **[!UICONTROL Different padding for each side]** als u de opvulling wilt aanpassen. Klik het __ pictogram van het Slot {om synchronisatie te breken.
 
    * Vouw de sectie **[!UICONTROL Advanced]** uit om inline stijlen voor de kolom te definiëren.
 
@@ -289,7 +289,7 @@ De waarschuwingen verwijzen naar aanbevelingen en beste praktijken zoals:
 >
 >Het toevoegen van een unsubscribe optie wordt niet vereist voor [ Operationele E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (niet-marketing).
 
-* **de versie van de Tekst van HTML is leeg**: U moet een tekstversie van uw e-maillichaam bepalen voor wanneer de inhoud van de HTML niet kan worden getoond.
+* **de versie van de Tekst van HTML is leeg**: U moet een tekstversie van uw e-maillichaam bepalen voor wanneer de inhoud van HTML niet kan worden getoond.
 
 * **Lege verbinding is aanwezig in e-maillichaam**: Verifieer alle verbindingen in uw e-mail correct zijn.
 

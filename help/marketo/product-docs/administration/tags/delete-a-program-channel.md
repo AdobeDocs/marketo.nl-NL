@@ -4,7 +4,7 @@ description: Een programmakanaal verwijderen - Marketo Docs - Productdocumentati
 title: Een programmakanaal verwijderen
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Programmakanalen zijn een verzameling statussen of controlepunten die door een p
 
 Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwijderen.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/delete-a-program-channel-1.png)
 
@@ -25,7 +25,7 @@ Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwi
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. Selecteer het kanaal dat u wilt verwijderen. In de **[!UICONTROL Tag Actions]** vervolgkeuzelijst, klikken **[!UICONTROL Delete]**.
+1. Selecteer het kanaal dat u wilt verwijderen. Klik in de vervolgkeuzelijst **[!UICONTROL Tag Actions]** op **[!UICONTROL Delete]** .
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwi
 
    ![](assets/delete-a-program-channel-3.png)
 
-U kunt ook [specifieke statussen verwijderen uit kanalen](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
+U kunt specifieke statussen van kanalen [ ook ](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md) schrappen.

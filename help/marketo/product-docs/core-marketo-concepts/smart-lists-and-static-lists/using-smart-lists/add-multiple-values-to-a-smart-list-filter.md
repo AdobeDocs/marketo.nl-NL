@@ -4,7 +4,7 @@ description: Meerdere waarden toevoegen aan een slim lijstfilter - Marketo Docs 
 title: Meerdere waarden toevoegen aan een slim lijstfilter
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%

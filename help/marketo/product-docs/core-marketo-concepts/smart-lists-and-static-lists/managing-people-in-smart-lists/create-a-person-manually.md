@@ -4,7 +4,7 @@ description: Handmatig een persoon maken - Marketo Docs - Productdocumentatie
 title: Handmatig een persoon maken
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Handmatig een persoon maken {#create-a-person-manually}
 
-Er zijn vele manieren om een persoon in Marketo Engage te krijgen. Als je er handmatig een moet maken, is dit hoe je het moet doen.
+Er zijn veel manieren om een persoon naar Marketo Engage te krijgen. Als je er handmatig een moet maken, is dit hoe je het moet doen.
 
 >[!CAUTION]
 >

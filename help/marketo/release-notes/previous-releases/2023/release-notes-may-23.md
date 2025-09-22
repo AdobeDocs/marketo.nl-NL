@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - mei 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 3%
@@ -74,7 +74,7 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang t
   </tr>
   <tr>
    <td>Uitvoeren gestart</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=nl-NL">Overzicht van interactieve webinars</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Overzicht van interactieve webinars</a></td>
   </tr>
   </tbody>
 </table>

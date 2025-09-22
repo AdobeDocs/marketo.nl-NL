@@ -4,7 +4,7 @@ description: Instellingen voor analysegedrag bewerken - Marketo Docs - Productdo
 title: Instellingen van gedrag voor analyse bewerken
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Instellingen van gedrag voor analyse bewerken {#edit-analytics-behavior-settings}
 
-U kunt de [analysegedrag op het niveau van de beheerder op kanalen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, maar u kunt deze ook op programmaniveau bewerken. Zo gaat het.
+U kunt het [ analysegedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} plaatsen, maar u kunt het op het programmaniveau ook uitgeven. Zo gaat het.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ U kunt de [analysegedrag op het niveau van de beheerder op kanalen](/help/market
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. In de **[!UICONTROL Setup]** tab, slepen [!UICONTROL Analytics Behavior] op het canvas.
+1. Sleep **[!UICONTROL Setup]** op het tabblad [!UICONTROL Analytics Behavior] naar het canvas.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ U kunt de [analysegedrag op het niveau van de beheerder op kanalen](/help/market
 >
 >**Definitie**
 >
->**[!UICONTROL Inclusive]** - Met deze optie zorgt u ervoor dat het programma beschikbaar is voor rapportage in de inkomstenverkenner en analyseapparatuur, ongeacht of u kosten voor een periode hebt opgenomen.
+>**[!UICONTROL Inclusive]** - Met deze optie zorgt u ervoor dat het programma beschikbaar is voor rapportage in de inkomstenverkenner en analyseprogramma&#39;s, ongeacht of u kosten voor een periode hebt opgenomen.
 >
->**[!UICONTROL Operational]** - Deze optie heeft tot gevolg dat het programma niet wordt weergegeven in zowel de belastingverkenner als de analysatoren.
+>**[!UICONTROL Operational]** - Deze optie leidt ertoe dat het programma niet in opbrengstexplorator of analysatoren verschijnt.
 
 >[!NOTE]
 >

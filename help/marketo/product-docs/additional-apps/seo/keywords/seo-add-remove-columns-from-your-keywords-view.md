@@ -4,7 +4,7 @@ description: SEO - Kolommen toevoegen/verwijderen uit uw trefwoordenweergave - M
 title: SEO - Kolommen toevoegen/verwijderen uit de trefwoordenweergave
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessantst bent in.
 
-1. Ga naar de **[!UICONTROL Keywords]** sectie.
+1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -37,4 +37,4 @@ U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessant
 
    >[!MORELIKETHIS]
    >
-   >[Trefwoorden begrijpen - Samenvattingsweergave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[ Begrijpend Trefwoorden - Samenvattingsmening ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

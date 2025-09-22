@@ -4,7 +4,7 @@ description: Overzicht rapporttype - Marketo Docs - Productdocumentatie
 title: Overzicht rapporttype
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Wanneer u [ een rapport in een programma ](/help/marketo/product-docs/reporting/
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport Personen op omzet</a></strong></td>
-   <td>Basisrapportage voor uw inkomstenmodel. Zie <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model"> Analytics van de Cyclus van de Opbrengst </a> voor diepere rapportering.</td>
+   <td>Basisrapportage voor uw inkomstenmodel. Zie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model"> Analytics van de Cyclus van de Opbrengst </a> voor diepere rapportering.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestaties van bestemmingspagina</a>  </strong></td>
@@ -55,7 +55,7 @@ Wanneer u [ een rapport in een programma ](/help/marketo/product-docs/reporting/
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmaprestaties</a>  </strong></td>
-   <td>Elementaire programma's zoals leden en succes. Zie <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model"> Analytics van de Cyclus van de Opbrengst </a> voor diepere rapportering.</td>
+   <td>Elementaire programma's zoals leden en succes. Zie <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model"> Analytics van de Cyclus van de Opbrengst </a> voor diepere rapportering.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Webactiviteit bedrijf</a></strong></td>
@@ -67,11 +67,11 @@ Wanneer u [ een rapport in een programma ](/help/marketo/product-docs/reporting/
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Prestatierapport voor betrokkenheidsstream</a> </strong></td>
-   <td>Zie hoe goed uw <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> betrokkenheidsprogramma </a> werkt.</td>
+   <td>Zie hoe goed uw <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> betrokkenheidsprogramma </a> werkt.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">E-mailprestaties campagne</a> </strong></td>
-   <td>Zie hoe goed uw <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> betrokkenheidsprogramma </a> werkt.</td>
+   <td>Zie hoe goed uw <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs"> betrokkenheidsprogramma </a> werkt.</td>
   </tr>
  </tbody>
 </table>

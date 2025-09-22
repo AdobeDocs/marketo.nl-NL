@@ -3,7 +3,7 @@ description: Adobe Marketo Engage - Marketo Docs - Productdocumentatie
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ## Dynamic Chat verbinden {#connecting-dynamic-chat}
 
-Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}, is het tijd om de eenmalige synchronisatie uit te voeren die de Dynamic Chat verbindt met uw Adobe Marketo Engage-abonnement.
+Nadat u de [ aanvankelijke opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} hebt voltooid, is het tijd om eenmalig synchronisatie uit te voeren die Dynamic Chat met uw abonnement van Adobe Marketo Engage verbindt.
 
 >[!NOTE]
 >
->Dynamic Chat ondersteunt synchronisatie [Marketo native](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} en velden voor aangepaste personen en bedrijven.
+>Dynamic Chat steunt het synchroniseren van [ inheemse Marketo ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} en de gebieden van de douanepersoon en bedrijfgebieden.
 
-1. Klik in Mijn Marketo op de knop **[!UICONTROL Dynamic Chat]** tegel.
+1. Klik in Mijn Marketo op de tegel **[!UICONTROL Dynamic Chat]** .
 
    ![](assets/adobe-marketo-engage-1.png)
 
@@ -28,21 +28,21 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
    >
    >Neem contact op met uw Marketo Admin als u de tegel niet ziet.
 
-1. Als u eerder een toepassing met een Adobe ID hebt betreden, zult u direct aan Dynamic Chat worden genomen. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
-1. Selecteer **[!UICONTROL Integrations]**.
+1. Selecteer **[!UICONTROL Integrations]** als u een Marketo-instantie wilt verbinden.
 
    ![](assets/adobe-marketo-engage-2.png)
 
-1. Klik op de Marketo-kaart op **[!UICONTROL Initiate Sync]**.
+1. Klik op de Marketo-kaart op **[!UICONTROL Initiate Sync]** .
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Selecteer maximaal 50 kenmerken (standaard- of aangepaste velden) van uw Marketo-instantie tot synchronisatie met Dynamic Chat voor gebruik bij doelgroepen, gegevenstoewijzing en personalisatie. Klikken **[!UICONTROL Next]** wanneer gereed.
+1. Selecteer maximaal 50 kenmerken (standaard- of aangepaste velden) van uw Marketo-exemplaar voor synchronisatie met Dynamic Chat voor gebruik bij doelgroepen, gegevenstoewijzing en personalisatie. Klik op **[!UICONTROL Next]** als u klaar bent.
 
    ![](assets/adobe-marketo-engage-4.png)
 
-1. Bekijk uw selecties. Klikken **[!UICONTROL Confirm]** om de synchronisatie te starten.
+1. Bekijk uw selecties. Klik op **[!UICONTROL Confirm]** om de synchronisatie te starten.
 
    ![](assets/adobe-marketo-engage-5.png)
 
@@ -54,15 +54,15 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
 
 Na de aanvankelijke synchronisatie, is hier hoe te om extra attributen toe te voegen.
 
-1. In **[!UICONTROL Integrations]**, zorgt u ervoor dat de **[!UICONTROL Adobe Marketo Engage]** is geselecteerd en klikt u op **[!UICONTROL Add Attribute]**.
+1. Controleer in **[!UICONTROL Integrations]** of de tab **[!UICONTROL Adobe Marketo Engage]** is geselecteerd en klik op **[!UICONTROL Add Attribute]** .
 
    ![](assets/adobe-marketo-engage-6.png)
 
-1. Selecteer de kenmerken die u wilt toevoegen en klik op **[!UICONTROL Next]**.
+1. Selecteer de kenmerken die u wilt toevoegen en klik op **[!UICONTROL Next]** .
 
    ![](assets/adobe-marketo-engage-7.png)
 
-1. Bekijk uw selecties en klik op **[!UICONTROL Confirm]**.
+1. Controleer de selecties en klik op **[!UICONTROL Confirm]** .
 
    ![](assets/adobe-marketo-engage-8.png)
 
@@ -74,7 +74,7 @@ Na de aanvankelijke synchronisatie, is hier hoe te om een attribuut te verwijder
 >
 >U zult slechts de optie zien om een attribuut te verwijderen als het momenteel niet in gebruik door enige Dialogs is.
 
-1. In **[!UICONTROL Integrations]**, zorgt u ervoor dat de **[!UICONTROL Adobe Marketo Engage]** is geselecteerd en klikt u op het kenmerk dat u wilt verwijderen.
+1. Controleer in **[!UICONTROL Integrations]** of het tabblad **[!UICONTROL Adobe Marketo Engage]** is geselecteerd en klik op het kenmerk dat u wilt verwijderen.
 
    ![](assets/adobe-marketo-engage-9.png)
 
@@ -84,4 +84,4 @@ Na de aanvankelijke synchronisatie, is hier hoe te om een attribuut te verwijder
 
 >[!MORELIKETHIS]
 >
->[Eerste instelling](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}
+>[ Aanvankelijke Opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}

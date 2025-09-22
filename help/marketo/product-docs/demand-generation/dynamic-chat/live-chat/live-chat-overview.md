@@ -3,7 +3,7 @@ description: Live Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Live Chat-overzicht
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Wanneer de bezoekers om met een agent door uw Dialoog verzoeken te babbelen, zul
 
 >[!NOTE]
 >
->De live agent avatar gebruikt de profielafbeelding uit het Adobe-accountprofiel van de agent. Om het beeld bij te werken, volg [ deze stappen ](https://helpx.adobe.com/nl/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>De live agent avatar gebruikt de profielafbeelding uit het Adobe-accountprofiel van de agent. Om het beeld bij te werken, volg [ deze stappen ](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Live Chat-kaart gebruiken {#using-the-live-chat-card}
 

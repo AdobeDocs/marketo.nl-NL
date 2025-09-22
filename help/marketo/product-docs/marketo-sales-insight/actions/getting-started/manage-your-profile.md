@@ -1,9 +1,9 @@
 ---
 description: Uw profiel beheren - Marketo Docs - Productdocumentatie
 title: Uw profiel beheren
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ Op de pagina Mijn profiel kunt u uw naam, de taal/landinstelling/tijdzone van uw
 
 Hier kunt u uw naam en/of wachtwoord bijwerken.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik het tandwielpictogram en selecteer **Montages**.
 
    ![](assets/manage-your-profile-1.png)
 
-1. De pagina Mijn profiel wordt standaard geopend. Als u uw naam wilt bijwerken, typt u gewoon de wijzigingen en klikt u op **Opslaan**.
+1. De pagina Mijn profiel wordt standaard geopend. Om uw naam bij te werken, eenvoudig typ in de veranderingen en klik **sparen**.
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->Uw e-mailadres is ingesteld op Alleen weergeven. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Uw e-mailadres is ingesteld op Alleen weergeven. Als u dat ook nodig hebt veranderd, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
 
 U kunt uw wachtwoord in deze sectie ook veranderen. De stappen worden beschreven in dit document.
 
@@ -48,23 +48,23 @@ Hieronder wordt beschreven hoe u de taal, landinstelling en/of tijdzone van uw a
 >
 >Ondersteunde talen: Engels, Frans, Duits, Japans, Portugees, Spaans.
 
-1. Klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik het tandwielpictogram en selecteer **Montages**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Als u de taal wilt wijzigen, klikt u op de knop **Taal** en maak uw keuze.
+1. Om uw taal te veranderen, klik de **drop-down Taal** en maak uw keus.
 
    ![](assets/manage-your-profile-5.png)
 
-1. De landinstelling verwijst hier naar de regio waarin die taal wordt gesproken. Als u de taal wijzigt, wordt standaard een taal gekozen, maar als u deze handmatig wilt wijzigen, klikt u op de knop **Landinstelling** en maak uw keuze.
+1. De landinstelling verwijst hier naar de regio waarin die taal wordt gesproken. Één zal door gebrek worden gekozen wanneer u uw taal verandert, maar om het manueel te veranderen, klik de **Slaggids van de Landinstelling** en maak uw keus.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Klik op de knop **Uw tijdzone** en maak uw keuze.
+1. Klik **Uw drop-down Tijdzone** en maak uw keus.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Klikken **Opslaan** wanneer gereed.
+1. Klik **sparen** wanneer gedaan.
 
    ![](assets/manage-your-profile-8.png)
 

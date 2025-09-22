@@ -3,7 +3,7 @@ description: Toegang verlenen aan gebruikers - Marketo-documenten - Productdocum
 title: Toegang verlenen aan gebruikers
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Voer de stappen in dit artikel uit om uw [!DNL Sales Connect] -gebruikers toegang te verlenen tot de Marketo-verbinding. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
 
-U zult gebruikers [!DNL Sales Connect] [&#128279;](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) moeten uitnodigen, alvorens zij in Marketo > [!UICONTROL Team Access] pagina (in [!DNL Sales Connect]) zichtbaar zijn, waar de toegang tot de verbinding van Marketo wordt verleend.
+U zult gebruikers [!DNL Sales Connect] [ ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) moeten uitnodigen, alvorens zij in Marketo > [!UICONTROL Team Access] pagina (in [!DNL Sales Connect]) zichtbaar zijn, waar de toegang tot de verbinding van Marketo wordt verleend.
 
 >[!CAUTION]
 >

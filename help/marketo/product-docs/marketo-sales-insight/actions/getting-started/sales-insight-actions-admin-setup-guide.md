@@ -3,7 +3,7 @@ description: Handelingen Insight Handelingen Admin Setup Guide - Marketo Docs - 
 title: Handleiding Insight Actions Admin Setup Guide
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '604'
 ht-degree: 0%
@@ -120,7 +120,7 @@ Met de Data Unification field sync for Sales Insight Actions kan het systeem per
 
 >[!CAUTION]
 >
->Zodra u gegevenssynchronisatie in werking stelt, zou u **&#x200B;**&#x200B;niet de originele gebruiker op uw instantie van de Acties van Insight van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
+>Zodra u gegevenssynchronisatie in werking stelt, zou u **** niet de originele gebruiker op uw instantie van de Acties van Insight van de Verkoop moeten verwijderen. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
 
 1. Klik in Marketo op **[!UICONTROL Admin]** .
 

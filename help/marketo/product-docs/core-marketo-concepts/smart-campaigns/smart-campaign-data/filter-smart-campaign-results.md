@@ -4,7 +4,7 @@ description: Resultaten van slimme campagnes filteren - Marketo Docs - Productdo
 title: Resultaten van slimme campagnes filteren
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

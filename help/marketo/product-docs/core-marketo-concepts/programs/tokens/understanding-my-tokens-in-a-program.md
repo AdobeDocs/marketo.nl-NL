@@ -4,7 +4,7 @@ description: Mijn tokens in een programma begrijpen - Marketo Docs - Productdocu
 title: Mijn tokens in een programma begrijpen
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Voorbeelden:
   </tr>
   <tr>
    <td>E-mailscript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td>
+   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td>
   </tr>
   <tr>
    <td>Number <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

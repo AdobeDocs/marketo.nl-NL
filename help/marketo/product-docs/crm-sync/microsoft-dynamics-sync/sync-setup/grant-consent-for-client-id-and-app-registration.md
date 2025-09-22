@@ -3,7 +3,7 @@ description: Toestemming voor klant-id en toepassingsregistratie - Marketo-docum
 title: Toestemming verlenen voor client-id en toepassingsregistratie
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%

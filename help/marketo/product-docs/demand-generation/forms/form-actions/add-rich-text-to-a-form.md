@@ -4,10 +4,10 @@ description: Rijke tekst toevoegen aan een formulier - Marketo Docs - Productdoc
 title: Rijke tekst toevoegen aan een formulier
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
@@ -27,7 +27,7 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Selecteer **[!UICONTROL Rich Text]** .
+1. Selecteer **[!UICONTROL Rich Text]**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 

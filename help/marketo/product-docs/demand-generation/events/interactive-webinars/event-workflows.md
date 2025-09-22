@@ -3,7 +3,7 @@ description: Workflows voor gebeurtenissen - Marketo Docs - Productdocumentatie
 title: Workflows voor gebeurtenissen
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
@@ -22,19 +22,19 @@ Nadat uw webinar wordt voltooid, ga naar het lusje van het Dashboard om de bijee
 
 ## Handmatige synchronisatie {#manual-sync}
 
-Met interactieve webinars kunt u de betrokkenheidsgegevens van uw webinar verkrijgen van Adobe Connect als u deze niet automatisch binnen twee uur na voltooiing van het webinar hebt ontvangen. De knop &quot;Nu synchroniseren&quot; wordt weergegeven op de pagina Overzicht. Klikken **Nu synchroniseren** activeert een trek van Adobe Connect om de gegevens in het Marketo Engage te vullen. Nadat de synchronisatie is uitgevoerd, verdwijnt de knop en wordt het tabblad Dashboard gevuld.
+Met interactieve webinars kunt u de betrokkenheidsgegevens van uw webinar verkrijgen van Adobe Connect als u deze niet automatisch binnen twee uur na voltooiing van het webinar hebt ontvangen. De knop &quot;Nu synchroniseren&quot; wordt weergegeven op de pagina Overzicht. Het klikken **Synchronisatie** brengt een trekkracht van Adobe Connect in werking om de gegevens in Marketo Engage te bevolken. Nadat de synchronisatie is uitgevoerd, verdwijnt de knop en wordt het tabblad Dashboard gevuld.
 
 ## Dashboardwidgets {#dashboard-widgets}
 
 Het dashboard bestaat uit vier widgets.
 
-**Status van gebeurtenisprogramma**: Geeft de verschillende statussen van het programma voor die gebeurtenis weer en het aantal leden van het programma dat momenteel de waarde voor de status van dat programma heeft.
+**Status van het Programma van de Gebeurtenis**: Toont de diverse programmastatussen voor die gebeurtenis en het aantal leden van het programma die momenteel die waarde van de programmastatus houden.
 
-**Aanwezigheid** Betreft: De aanwezigheidsduur van verschillende leden die het webinar hebben bijgewoond, wordt uitgedrukt als percentage van de totale webinar-duur.
+**Aanwezigheid**: benadrukt de aanwezigheidsduur van diverse leden die webinar in vergelijking met de algemene webinar duur in termen van percentage hebben bijgewoond.
 
-**Opiniepeilingprestaties**: Hiermee geeft u verschillende opiniepeilingen weer die zijn gestart tijdens het webinar van Adobe Connect en de verdeling van de leden die de opiniepeiling hebben bijgewoond en erop hebben gereageerd.
+**Prestaties van de Opiniepeiling**: Vertoningen diverse opiniepeilingen die tijdens webinar door Adobe Connect en de distributie van de leden worden gelanceerd die aan de opiniepeiling over elk van de antwoorden hebben bijgewoond en gereageerd.
 
-**Klikken en downloaden van bestanden**: Hiermee wordt het downloadaantal weergegeven van bestanden en webkoppelingen die tijdens het webinar van Adobe Connect zijn ingeschakeld door verschillende leden die het webinar hebben bijgewoond en die specifieke actie hebben uitgevoerd.
+**klik en de Activiteit van de Download van het Dossier**: Verstrekt de downloadtelling van dossier en weblinks klikte tijdens webinar aangedreven door Adobe Connect door diverse leden die webinar hebben bijgewoond en die specifieke actie genomen.
 
 ## Webinar-opname {#webinar-recording}
 
@@ -44,7 +44,7 @@ Ga naar het tabblad Overzicht om de opgenomen webinar weer te geven, krijg de ko
 
 >[!NOTE]
 >
->* Interactieve webinars worden niet automatisch opgenomen. Nadat uw webinar begint, klik drop-down naast de naam van webinar en selecteer **Recordsessie**.
+>* Interactieve webinars worden niet automatisch opgenomen. Nadat uw webinar begint, klik drop-down naast de naam van webinar en selecteer **Zitting van het Verslag**.
 >* Als de sessie wordt opgenomen, moet de gastheer de opname handmatig beëindigen of &quot;Eindsessie voor iedereen&quot; selecteren om de opname te stoppen. Anders wordt de opname automatisch gestopt binnen 10 minuten nadat de laatste deelnemer de ruimte heeft verlaten.
 >* De opname wordt gedownload in de MP4-indeling.
 >* Wanneer het delen van de opname zal het door iedereen kunnen bekijken die de verbinding heeft, zodat wordt het gedeeld met het voorgenomen publiek.
@@ -57,22 +57,22 @@ Gebruik interactieve webinar-gerelateerde triggers en filters om specifieke groe
 
 Elke trigger/filter wordt geleverd met extra beperkingen, zodat u een subset met focus van die groep kunt vastleggen.
 
-**Vragen tijdens gebeurtenis** (Filterversie: Heeft vragen gesteld tijdens de gebeurtenis)
+**vraagt vragen tijdens gebeurtenis** (de versie van de Filter: Heeft vragen tijdens gebeurtenis gesteld)
 
 ![](assets/event-workflows-4.png)
 
-**Gebeurtenis bijwonen** (Filterversie: heeft gebeurtenis bijgewoond)
+**voegt gebeurtenis** bij (de versie van de Filter: heeft gebeurtenis bijgewoond)
 
 ![](assets/event-workflows-5.png)
 
-**Klik op een koppeling** (Filterversie: op een koppeling klikken)
+**klikt op een verbinding** (de versie van de Filter: Geklikt op een verbinding)
 
 ![](assets/event-workflows-6.png)
 
-**Middelen downloaden** (Filterversie: Een element gedownload)
+**downloadt activa** (de versie van de Filter: Gedownload een activa)
 
 ![](assets/event-workflows-7.png)
 
-**Reageert op een opiniepeiling** (Filterversie: Op een opiniepeiling gereageerd)
+**antwoordt aan een opiniepeiling** (de versie van de Filter: Responded aan een opiniepeiling)
 
 ![](assets/event-workflows-8.png)

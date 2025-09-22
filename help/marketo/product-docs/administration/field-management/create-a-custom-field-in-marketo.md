@@ -4,10 +4,10 @@ description: Een aangepast veld maken in Marketo - Marketo Docs - Productdocumen
 title: Een aangepast veld maken in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
@@ -47,7 +47,7 @@ Als u een nieuw aangepast veld in Marketo Engage nodig hebt om gegevens op te sl
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Voer de _[!UICONTROL Name]_&#x200B;in zoals u deze wilt weergeven in Marketo (de&#x200B;_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
+1. Voer de _[!UICONTROL Name]_in zoals u deze wilt weergeven in Marketo (de_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
 
 >[!CAUTION]
 >

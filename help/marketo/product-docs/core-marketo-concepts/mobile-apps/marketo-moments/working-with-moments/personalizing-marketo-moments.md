@@ -4,9 +4,9 @@ description: Marketo-momenten aanpassen - Marketo Docs - Productdocumentatie
 title: Marketo-momenten aanpassen
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ Als je veel marketingprogramma&#39;s en slimme campagnes hebt, is het geweldig o
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Inschakelen **[!UICONTROL Show only my moments]** om alleen uw eigen e-mailprogramma&#39;s en slimme campagnes weer te geven.
+Schakel **[!UICONTROL Show only my moments]** in om alleen uw eigen e-mailprogramma&#39;s en slimme campagnes weer te geven.
 
 ![](assets/image2015-7-16-15-3a53-3a24.png)
 
-Of schakel uit **[!UICONTROL Show only my moments]** om alle slimme campagnes en e-mailprogramma&#39;s te bekijken waartoe u toegang hebt.
+U kunt **[!UICONTROL Show only my moments]** ook uitschakelen om alle slimme campagnes en e-mailprogramma&#39;s weer te geven waartoe u toegang hebt.
 
 ![](assets/image2015-7-16-15-3a55-3a29.png)

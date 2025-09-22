@@ -4,32 +4,32 @@ description: Openingspagina met een formulier - Marketo Docs - Productdocumentat
 title: Openingspagina met formulier
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 0%
+source-wordcount: '498'
+ht-degree: 1%
 
 ---
 
 # Openingspagina met formulier {#landing-page-with-a-form}
 
-## Opdracht: Maak een openingspagina met een formulier voor het verkrijgen van nieuwe personen. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
+## Mission: maak een bestemmingspagina met een formulier om nieuwe personen aan te schaffen. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
 >[!PREREQUISITES]
 >
->[Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>[ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md) toe
 
 ## STAP 1: Een programma maken {#step-create-a-program}
 
-1. Ga naar de **[!UICONTROL Marketing Activities]** gebied.
+1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Selecteer **Leren** map gemaakt in het dialoogvenster [vorige quick win](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Onder **[!UICONTROL New]**, klikt u op **[!UICONTROL New Program]**.
+1. Selecteer **het Leren** omslag die in [ vorige snelle win ](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"} wordt gecreeerd. Klik onder **[!UICONTROL New]** op **[!UICONTROL New Program]** .
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. Een programma invoeren **[!UICONTROL Name]** selecteert u een **[!UICONTROL Channel]** en klik op **[!UICONTROL Create]**.
+1. Voer een programma **[!UICONTROL Name]** in, selecteer een **[!UICONTROL Channel]** en klik op **[!UICONTROL Create]** .
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -39,33 +39,33 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Een programma is een specifiek marketinginitiatief. De **kanaal** is bedoeld als leveringsmechanisme, zoals Webinar, Sponsorship, of Online Advertentie. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [uw eigen kanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Sponsorship, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [ uw eigen kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} tot stand brengen.
 
 Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat inhoud.
 
 ## STAP 2: Een formulier maken {#step-create-a-form}
 
-1. Selecteer het programma en klik op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL New Local Asset]**.
+1. Selecteer het programma en klik op de vervolgkeuzelijst **[!UICONTROL New]** en selecteer **[!UICONTROL New Local Asset]** .
 
    ![](assets/landing-page-with-a-form-4.png)
 
-1. Selecteren **[!UICONTROL Form]**.
+1. Selecteer **[!UICONTROL Form]**.
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. Een formulier invoeren **[!UICONTROL Name]** en klik op **[!UICONTROL Create]**.
+1. Voer een formulier in **[!UICONTROL Name]** en klik op **[!UICONTROL Create]** .
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >Zorg ervoor dat de **[!UICONTROL Open in editor]** is ingeschakeld. Als het niet is, zult u moeten klikken **[!UICONTROL Edit Form]** tab.
+   >Zorg ervoor dat het selectievakje **[!UICONTROL Open in editor]** is ingeschakeld. Als dit niet het geval is, moet u op de tab **[!UICONTROL Edit Form]** klikken.
 
    >[!TIP]
    >
-   >Ziet u de formuliereditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Pop-ups inschakelen vanuit `app.marketo.com` in uw browser en klik op Concept bewerken in de bovenste menubalk.
+   >Ziet u de formuliereditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Schakel pop-ups in vanuit `app.marketo.com` in uw browser en klik op Concept bewerken in de bovenste menubalk.
 
-1. Selecteer **[!UICONTROL Email Address]** veld en controle **[!UICONTROL Is Required]**.
+1. Selecteer het veld **[!UICONTROL Email Address]** en schakel **[!UICONTROL Is Required]** in.
 
    ![](assets/landing-page-with-a-form-7.png)
 
@@ -81,7 +81,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. Selecteer onder de sectie Pagina bedankt de optie **[!UICONTROL External URL]** for **[!UICONTROL Follow Up With]**.
+1. Selecteer onder de sectie Dankuwel pagina de optie **[!UICONTROL External URL]** voor **[!UICONTROL Follow Up With]** .
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -91,7 +91,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    >[!NOTE]
    >
-   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie [Een pagina voor bedankt formulier instellen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
+   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie [ plaatsen een Vorm bedankt Pagina ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
 1. Klik op **[!UICONTROL Finish]**.
 
@@ -105,15 +105,15 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 ## STAP 3: Een bestemmingspagina maken en uw formulier toevoegen {#step-create-a-landing-page-and-add-your-form}
 
-1. Selecteer het programma en klik op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL New Local Asset]**.
+1. Selecteer het programma en klik op de vervolgkeuzelijst **[!UICONTROL New]** en selecteer **[!UICONTROL New Local Asset]** .
 
    ![](assets/landing-page-with-a-form-15.png)
 
-1. Selecteren **[!UICONTROL Landing Page]**.
+1. Selecteer **[!UICONTROL Landing Page]**.
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. Een pagina invoeren **[!UICONTROL Name]** selecteert u een sjabloon en klikt u op **[!UICONTROL Create]**.
+1. Voer een pagina in **[!UICONTROL Name]** , selecteer een sjabloon en klik op **[!UICONTROL Create]** .
 
    >[!NOTE]
    >
@@ -121,11 +121,11 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. Wanneer de bestemmingspagina-editor wordt geopend, sleept u de [!UICONTROL Form] op het canvas.
+1. Wanneer de bestemmingspagina-editor wordt geopend, sleept u het [!UICONTROL Form] -element naar het canvas.
 
    ![](assets/landing-page-with-a-form-18.png)
 
-1. Zoek en selecteer het formulier en klik op **[!UICONTROL Insert]**.
+1. Zoek en selecteer het formulier en klik op **[!UICONTROL Insert]** .
 
    ![](assets/landing-page-with-a-form-19.png)
 
@@ -141,7 +141,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 ## STAP 4: Uw bestemmingspagina goedkeuren {#step-approve-your-landing-page}
 
-1. Selecteer de openingspagina en klik op **[!UICONTROL Approve draft]**.
+1. Selecteer de openingspagina en klik op **[!UICONTROL Approve draft]** .
 
    ![](assets/landing-page-with-a-form-22.png)
 
@@ -153,17 +153,17 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/landing-page-with-a-form-23.png)
 
-## STAP 5: Uw formulier testen {#step-test-your-form}
+## STAP 5: Test uw formulier {#step-test-your-form}
 
-1. Selecteer de openingspagina en klik op **[!UICONTROL View Approved Page]**.
+1. Selecteer de openingspagina en klik op **[!UICONTROL View Approved Page]** .
 
    ![](assets/landing-page-with-a-form-24.png)
 
-1. Vul het formulier in met informatie waarvan u weet dat deze uniek is en klik op **[!UICONTROL Submit]**.
+1. Vul het formulier in met informatie waarvan u weet dat deze uniek is en klik op **[!UICONTROL Submit]** .
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Ga naar de **[!UICONTROL Database]** gebied.
+1. Ga naar het **[!UICONTROL Database]** -gebied.
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -179,6 +179,6 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 <br> 
 
-[◄ Missie 1: Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Opdracht 1: een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Missie 3: Eenvoudige scores ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Mission 3: eenvoudige scores ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

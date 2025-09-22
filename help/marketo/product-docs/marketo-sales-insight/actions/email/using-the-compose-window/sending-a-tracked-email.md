@@ -3,7 +3,7 @@ description: Een bijgehouden e-mail verzenden - Marketo Docs - Productdocumentat
 title: Een bijgehouden e-mail verzenden
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -18,15 +18,14 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 >
 >U moet een identiteit laten verifiëren en een e-mailleveringskanaal instellen voordat u een bijgehouden e-mail verzendt.
 >
->* [Verifieer uw e-mailadres](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
->* Een leveringskanaal instellen voor [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [ verifieer uw e-mailadres ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+>* Opstelling een Kanaal van de Levering voor [ Vooruitzichten ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [ Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
-
-1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
+1. Creeer uw e-mailontwerp (er zijn veelvoudige manieren om dit te doen, in dit voorbeeld kiezen wij **samenstellen** in de kopbal).
 
    ![](assets/sending-a-tracked-email-1.png)
 
-1. Voer de naam of het e-mailadres in van een ontvanger in het dialoogvenster **Naar** veld.
+1. Ga de naam of e-mail van een ontvanger op het **in** gebied.
 
    ![](assets/sending-a-tracked-email-2.png)
 
@@ -40,7 +39,7 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 
    >[!NOTE]
    >
-   >Als iemand die CC of BCC is geweest, het e-mailbericht opent, wordt dat geopende bericht opgenomen als een weergave op het overzicht van de persoon in het deelvenster **Naar** veld.
+   >Als iemand die CC of BCC is geweest e-mail opent, zal dat open als mening op het verslag van de persoon op **aan** gebied worden geregistreerd.
 
 1. Voeg een onderwerpregel toe.
 
@@ -48,14 +47,13 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 
    >[!NOTE]
    >
-   >Een onderwerpregel en een ontvanger zijn vereist om de e-mail te verzenden. Wij zullen **uw concept automatisch opslaan** zodra een onderwerpregel en een ontvanger zijn toegevoegd.
+   >Een onderwerpregel en een ontvanger zijn vereist om de e-mail te verzenden. Wij zullen **automatisch uw ontwerp** bewaren zodra een onderwerpregel en een ontvanger zijn toegevoegd.
 
-1. Stel uw e-mail samen met de editor. Klikken **Verzenden** (of [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), als u dat liever hebt) als u klaar bent.
+1. Stel uw e-mail samen met de editor. Klik **verzenden** (of [ Programma ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), als u verkiest) wanneer gedaan.
 
    ![](assets/sending-a-tracked-email-5.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Een e-mail plannen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/scheduling-an-email.md)
-   >* [Sjablonen](/help/marketo/product-docs/marketo-sales-insight/actions/templates/manage-templates.md#create-a-new-template)
-
+   >* [ Plannend een E-mail ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/scheduling-an-email.md)
+   >* [ Malplaatjes ](/help/marketo/product-docs/marketo-sales-insight/actions/templates/manage-templates.md#create-a-new-template)

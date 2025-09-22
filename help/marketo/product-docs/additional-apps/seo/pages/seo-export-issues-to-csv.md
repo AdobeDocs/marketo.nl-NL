@@ -4,7 +4,7 @@ description: SEO - Problemen exporteren naar CSV - Marketo Docs - Productdocumen
 title: SEO - Problemen exporteren naar CSV
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 1%
@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # SEO - Problemen exporteren naar CSV {#seo-export-issues-to-csv}
 
-U kunt uw [paginaprobleem](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) gegevens naar een CSV-bestand als u die gegevens wilt delen met personen buiten Marketo. Zo gaat het.
+U kunt uw [ gegevens van de paginagebeurtenis ](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) naar een Csv- dossier uitvoeren als u die informatie met mensen buiten Marketo wilt delen. Zo gaat het.
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -23,7 +23,7 @@ U kunt uw [paginaprobleem](/help/marketo/product-docs/additional-apps/seo/pages/
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Dit is het [Pagina-detailpagina omlaag](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** is een lijst van alle kwesties met die bepaalde pagina.
+   Dit is de [ Boor van het Detail van de Pagina neer ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** is een lijst van alle kwesties met die bepaalde pagina.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 

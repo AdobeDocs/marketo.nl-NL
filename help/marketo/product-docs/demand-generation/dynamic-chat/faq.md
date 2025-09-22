@@ -3,7 +3,7 @@ description: Dynamic Chat FAQ - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '882'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Het Dynamic Chat JavaScript-fragment kan zowel op elke website als op Marketo La
 
 **hoe lang wordt het gegeven voor het melden opgeslagen?**
 
-90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te bezoeken.
+90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te bezoeken.
 
 **steunt Dynamic Chat om het even welke talen naast Engels?**
 

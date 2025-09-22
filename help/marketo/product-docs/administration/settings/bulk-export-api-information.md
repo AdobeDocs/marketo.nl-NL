@@ -3,7 +3,7 @@ description: Bulkexport-API-informatie - Marketo Docs - Productdocumentatie
 title: Bulkexport-API-informatie
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -12,13 +12,13 @@ ht-degree: 1%
 
 # Bulkexport-API-informatie {#bulk-export-api-information}
 
-Leer hoe u kunt controleren hoeveel [Bulkextractie-API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} uw instantie van het Marketo Engage heeft de afgelopen zeven dagen capaciteit opgenomen.
+Leer hoe te te controleren hoeveel [ Bulk API van het Extraheren ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} capaciteit door uw instantie van Marketo Engage in de afgelopen zeven dagen is opgenomen.
 
 >[!NOTE]
 >
 >Neem contact op met uw accountvertegenwoordiger als u extra capaciteit nodig hebt.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -34,4 +34,4 @@ Leer hoe u kunt controleren hoeveel [Bulkextractie-API](https://experienceleague
 
 >[!NOTE]
 >
->De toewijzing voor uw instantie van het Marketo Engage stelt dagelijks om 12:00 a.m. CST terug.
+>De toewijzing voor uw instantie van Marketo Engage stelt dagelijks om 12 :00 a.m. CST terug.

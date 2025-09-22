@@ -4,10 +4,10 @@ description: Een vrije bestemmingspagina maken - Marketo Docs - Productdocumenta
 title: Een vrije bestemmingspagina maken
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -29,7 +29,7 @@ Lege bestemmingspagina&#39;s kunnen worden gemaakt als lokale elementen van een 
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Klik op **[!UICONTROL New]**. Selecteer **[!UICONTROL New Local Asset]** .
+1. Klik op **[!UICONTROL New]**. Selecteer **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 

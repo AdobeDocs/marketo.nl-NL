@@ -4,9 +4,9 @@ description: Statische lijsten begrijpen - Marketo Docs - Productdocumentatie
 title: Statische lijsten begrijpen
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -23,20 +23,20 @@ Het verschil tussen een Statische en Slimme Lijst is essentieel om te begrijpen.
 
 | Type | Logica |
 |---|---|
-| Slimme lijst | Gebaseerd op **gedefinieerde regels** |
-| Statische lijst | Gebaseerd op **elke persoon toevoegen/verwijderen** |
+| Slimme lijst | Gebaseerd op **bepaalde regels** |
+| Statische lijst | Gebaseerd op **toevoegend/verwijderend elke persoon** |
 
 >[!CAUTION]
 >
->Een van de meest voorkomende fouten is dat u een persoon uit een lijst kunt verwijderen door gewoon de persoon te verwijderen. **Dat klopt niet**. Als u de persoon verwijdert, worden deze verwijderd uit **de gehele database**, niet alleen de lijst.
+>Een van de meest voorkomende fouten is dat u een persoon uit een lijst kunt verwijderen door gewoon de persoon te verwijderen. **dit is verkeerd**. Het schrappen van de persoon zal hen van **het volledige gegevensbestand**, niet alleen de lijst schrappen.
 
 ## Manieren om Personen toe te voegen/te verwijderen uit een lijst {#ways-to-add-remove-people-from-a-list}
 
-1. Stroom van slimme campagne ([Toevoegen aan lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Remove from List](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. De slimme de stroomstap van de Campagne ([ voegt aan Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} toe, [ verwijdert uit Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [Stroom van één handeling](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [ Enige stap van de actiestroom ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Personen naar een lijst in de boomstructuur slepen
-1. [Lijstimport](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+1. [ de invoer van de Lijst ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Bepaalde toepassingen van een statische lijst {#some-uses-of-a-static-list}
 
@@ -48,4 +48,4 @@ Geniet van de kracht van de LIST!
 
 >[!MORELIKETHIS]
 >
->[Een statische lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}
+>[ creeer een Statische Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

@@ -3,7 +3,7 @@ description: Aanvullende informatie voor Dynamic Chat - Documentatie voor Market
 title: Aanvullende informatie over Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '3414'
 ht-degree: 1%
@@ -104,7 +104,7 @@ De ronde reserve van Robin wordt slechts overwogen wanneer geen in aanmerking ko
 
 <p>
 
-_&#x200B;**Verpletterende Rekening**&#x200B;_
+_**Verpletterende Rekening**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Verpletterende Rekening**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Douane Verpletterend**&#x200B;_
+_**Douane Verpletterend**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Douane Verpletterend**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Team dat**&#x200B;_ verplettert
+_**Team dat**_ verplettert
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Team dat**&#x200B;_ verplettert
   </tr>
 </tbody></table>
 
-_&#x200B;**Rond Robin die**&#x200B;_ verplettert
+_**Rond Robin die**_ verplettert
 
 <table><thead>
   <tr>

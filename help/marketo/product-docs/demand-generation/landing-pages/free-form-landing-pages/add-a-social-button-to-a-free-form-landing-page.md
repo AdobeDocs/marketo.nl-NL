@@ -6,7 +6,7 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 9b779bc767b1bda058a9040035e8ca21ccd53e8d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Selecteer **[!UICONTROL Social Buttons (with Analytics)]** .
+1. Selecteer **[!UICONTROL Social Buttons (with Analytics)]**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 

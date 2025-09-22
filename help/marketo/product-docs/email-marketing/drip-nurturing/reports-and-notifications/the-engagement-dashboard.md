@@ -4,7 +4,7 @@ description: Het betrokkenheidsdashboard - Marketo Docs - Productdocumentatie
 title: Het betrokkenheidsdashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -71,4 +71,4 @@ _Nieuwst_ en _Oudst_ zijn gebaseerd op tijd van laatste goedkeuring.
 
 >[!NOTE]
 >
->Leer meer in [ creeer een 1&rbrace; diepe duik van het Programma van de Betrokkenheid &lbrace;.](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>Leer meer in [ creeer een 1} diepe duik van het Programma van de Betrokkenheid {.](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)

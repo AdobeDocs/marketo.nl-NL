@@ -4,7 +4,7 @@ description: Personen toevoegen aan uw campagne - Marketo Docs - Productdocument
 title: Personen toevoegen aan uw campagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Er zijn meerdere manieren om iemand aan een campagne toe te voegen.
 
-Als u mededeling met een vooruitzicht of een klant begint, kunt u toevoegen aan Campagne van om het even welke pagina in onze Webtoepassing, of van Salesforce gebruiken.
+Als u met een vooruitzicht of een klant begint, kunt u Add aan Campagne van om het even welke pagina in onze Webtoepassing, of van Salesforce gebruiken.
 
-Deze stroom zal u toestaan om, uw eerste e-mail in de Campagne voor te vertonen uit te geven en te plannen, en als uw Campagne met een taak begint, zullen deze taken voor u in uw lijst van Taken in onze Webtoepassing en in Salesforce een rij worden gevormd.
+Met deze workflow kunt u uw eerste e-mailbericht in de campagne voorvertonen, bewerken en plannen. Als uw campagne met een taak begint, worden deze taken in de wachtrij voor u geplaatst in uw lijst Taken in onze webtoepassing en in Salesforce.
 
 Dit kunt u doen via het tabblad Campagnes in onze webtoepassing.
 

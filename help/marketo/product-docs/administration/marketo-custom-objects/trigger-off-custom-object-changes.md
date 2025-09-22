@@ -4,7 +4,7 @@ description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocu
 title: Aangepaste objectwijzigingen activeren
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -17,18 +17,18 @@ ht-degree: 0%
 >
 >Deze functie is alleen beschikbaar:
 >
->* Alleen voor gebruik met aangepaste Marketo-objecten, niet aangepaste objecten die via het native object zijn gesynchroniseerd [!DNL Salesforce] of [!DNL Microsoft Dynamics] integratie
+>* Alleen voor gebruik met aangepaste Marketo-objecten, niet aangepaste objecten die via de native [!DNL Salesforce] - of [!DNL Microsoft Dynamics] -integratie zijn gesynchroniseerd
 >* Als trigger, geen filter
 >
->Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) als u Aangepaste objectwijzigingstriggers wilt inschakelen.
+>Gelieve te contacteren {de Steun van 0} Marketo [ om toegelaten de Trekkers van de Verandering van het Voorwerp van de Douane te hebben.](https://nation.marketo.com/t5/Support/ct-p/Support)
 
-In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken met een _wijzigen_ in een aangepast object als een trigger. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
+In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt een slimme lijst ook tot stand brengen die a _verandering_ in een douanevoorwerp als trekker gebruikt. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
 
 >[!NOTE]
 >
 >Een item in het activiteitenlogboek wordt niet gemaakt wanneer een record van een aangepast object wordt gewijzigd.
 
-1. Ga in Marketo Engage naar **[!UICONTROL Marketing Activities]**.
+1. Ga in Marketo Engage naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Selecteer de [!UICONTROL trigger attribute].
+1. Selecteer de [!UICONTROL trigger attribute] .
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
@@ -54,5 +54,5 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
    >[!NOTE]
    >
-   >* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

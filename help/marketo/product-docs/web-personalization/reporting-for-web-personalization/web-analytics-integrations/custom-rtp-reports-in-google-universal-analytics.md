@@ -4,7 +4,7 @@ description: Aangepaste RTP-rapporten in Google Universal Analytics - Marketo Do
 title: Aangepaste RTP-rapporten in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 1%
@@ -135,7 +135,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. In de **2&rbrace; sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
+1. In de **2} sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
 
 <table>
  <thead>

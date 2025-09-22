@@ -4,7 +4,7 @@ description: Functies voor schatkistcontrole in- of uitschakelen - Marketo Docs 
 title: Functies voor schatkist in- of uitschakelen
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 1%
@@ -17,9 +17,9 @@ De Treasure Chest bevat leuke experimentele functies die niet volledig worden on
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 
@@ -27,11 +27,11 @@ De Treasure Chest bevat leuke experimentele functies die niet volledig worden on
 
    ![](assets/enable-or-disable-treasure-chest-features-2.png)
 
-1. Klikken **[!UICONTROL Edit]** voor de functie die u wilt in- of uitschakelen.
+1. Klik op **[!UICONTROL Edit]** voor de functie die u wilt in- of uitschakelen.
 
    ![](assets/enable-or-disable-treasure-chest-features-3.png)
 
-1. Controleer de **[!UICONTROL Enabled]** om in of uit te schakelen en klik op **[!UICONTROL Save]**.
+1. Schakel het selectievakje **[!UICONTROL Enabled]** in of uit om het uit te schakelen en klik op **[!UICONTROL Save]** .
 
    ![](assets/enable-or-disable-treasure-chest-features-4.png)
 

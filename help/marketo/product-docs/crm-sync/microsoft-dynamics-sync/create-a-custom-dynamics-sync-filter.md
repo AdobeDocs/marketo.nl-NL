@@ -4,7 +4,7 @@ description: Creeer een Filter van de Douane  [!DNL Dynamics]  Synchronisatie - 
 title: Creeer een Filter van de Douane  [!DNL Dynamics]  Synchronisatie
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 1%
@@ -113,7 +113,7 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. **&#x200B;**.
+1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. ****.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 

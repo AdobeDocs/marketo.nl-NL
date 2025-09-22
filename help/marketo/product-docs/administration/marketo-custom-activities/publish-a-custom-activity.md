@@ -4,7 +4,7 @@ description: Een aangepaste activiteit publiceren - Marketo Docs - Productdocume
 title: Een aangepaste activiteit publiceren
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Je hebt je aangepaste activiteit precies zoals je die wilt. Nu is het tijd om het te publiceren!
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/publish-a-custom-activity-1.png)
 
@@ -27,15 +27,15 @@ Je hebt je aangepaste activiteit precies zoals je die wilt. Nu is het tijd om he
 
    ![](assets/publish-a-custom-activity-3.png)
 
-1. Klik op de knop **[!UICONTROL Custom Activity Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Publish Activity]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Custom Activity Actions]** en selecteer **[!UICONTROL Publish Activity]** .
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   Je ziet de aangepaste activiteiten [!UICONTROL state] ga van [!UICONTROL Draft]...
+   De aangepaste activiteit [!UICONTROL state] gaat van [!UICONTROL Draft] ...
 
    ![](assets/publish-a-custom-activity-5.png)
 
-   ...tot [!UICONTROL Published].
+   ...tot [!UICONTROL Published] .
 
    ![](assets/publish-a-custom-activity-6.png)
 

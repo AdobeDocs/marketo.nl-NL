@@ -2,9 +2,9 @@
 description: Transactionele e-mailsjablonen voor verkoop - Marketo Docs - Productdocumentatie
 title: E-mailsjablonen voor transactieverkoop
 feature: Marketo Sales Connect
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ Als uw team transactie- of niet-commerciële e-mailberichten verzendt, kunt u ee
 
 ## Notities {#things-to-note}
 
-* Niet-commerciële e-mails gaan voorbij aan abonnementen op verkopen en [Afmeldingscontrole Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, but will not bypass [blocked domains](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}.
+* De niet-commerciële e-mail zal verkoop wegvallen unsubscribes en [ Marketo Engage unsubscribe controle ](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, maar zal [ geblokkeerde domeinen ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"} niet omzeilen.
 
-* Abonnementsberichten worden niet automatisch toegevoegd aan niet-commerciële e-mails, zelfs niet als de [toevoegen, instelling voor afmelden van berichtbeheer](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} is enabled. However, the `{{team_unsubscribe}}` [dynamic field](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} zal uw team nog bevolken unsubscribe bericht.
+* Unsubscribe berichten zullen niet automatisch aan niet-commerciële e-mails worden toegevoegd, zelfs als [ toevoegt unsubscribe bericht admin die ](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} plaatst wordt toegelaten. Nochtans, zal het `{{team_unsubscribe}}` [ dynamische gebied ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} nog uw team bevolken unsubscribe bericht.
 
 ## Een e-mailsjabloon configureren voor niet-commercieel gebruik {#configure-an-email-template-for-non-commercial-use}
 
-1. Klik in de kop op **Sjablonen**.
+1. In de kopbal, klik **Malplaatjes**.
 
    ![](assets/transactional-sales-email-templates-1.png)
 
@@ -39,7 +39,7 @@ Als uw team transactie- of niet-commerciële e-mailberichten verzendt, kunt u ee
 >
 >Wanneer een persoon die zich niet heeft geabonneerd is geselecteerd, worden deze oranje gemarkeerd.
 
-1. Klik in de kop op **Samenstellen**. Zoek en selecteer de gewenste niet-commerciële sjabloon.
+1. In de kopbal, stelt de klik **samen**. Zoek en selecteer de gewenste niet-commerciële sjabloon.
 
    ![](assets/transactional-sales-email-templates-4.png)
 
@@ -47,7 +47,7 @@ Als uw team transactie- of niet-commerciële e-mailberichten verzendt, kunt u ee
 
    ![](assets/transactional-sales-email-templates-5.png)
 
-1. Klikken **Verzenden**.
+1. Klik **verzenden**.
 
    ![](assets/transactional-sales-email-templates-6.png)
 

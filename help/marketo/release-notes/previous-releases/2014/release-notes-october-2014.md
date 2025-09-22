@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - oktober 2014 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Gebruik de API om nieuwe activiteiten of wijzigingen aan leads aan te brengen:
 * Activiteitstypen ophalen
 * Paginasken ophalen
 
-De volledige details zullen na de versie in [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) beschikbaar zijn.
+De volledige details zullen na de versie in [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) beschikbaar zijn.
 
 ## MSI - Marketo-e-mail verzenden voor [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Gebruik een nieuwe vraag die de geschiedenis van het bezoek van de bezoeker volg
 * Producten die geïnteresseerd zijn in
 * Welke campagnes RTP hebben gezien
 
-Bezoek [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige details.
+Bezoek [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige details.

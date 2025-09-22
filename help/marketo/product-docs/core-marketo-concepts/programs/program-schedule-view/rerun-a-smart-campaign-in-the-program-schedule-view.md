@@ -4,7 +4,7 @@ description: Voer een slimme campagne opnieuw uit in de programmaweergave - Mark
 title: Voer een slimme campagne opnieuw uit in de overzichtsweergave van het programma
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt gemakkelijk nieuwe looppas van een bestaande Slimme Campagne direct van de mening van het programmaprogramma tot stand brengen.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -33,6 +33,6 @@ U kunt gemakkelijk nieuwe looppas van een bestaande Slimme Campagne direct van d
 
    >[!TIP]
    >
-   >U kunt dit ook doen vanuit het [programmafocus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >U kunt dit van de [ programmanadruk ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) ook doen.
 
 Boom! Net als dat heb je nog een run gepland voor die Smart Campaign. Als die slimme campagne e-mailstappen bevatte, zult u die ook zien!

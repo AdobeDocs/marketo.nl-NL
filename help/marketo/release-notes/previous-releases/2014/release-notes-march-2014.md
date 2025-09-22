@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - maart 2014 - Marketo Docs - Productdoc
 title: Release-aantekeningen -maart 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Wanneer het gebruiken van het [ rapport van de programmaprestaties ](/help/marke
 
 ## Inclusieve en operationele programma&#39;s voor Analytics {#inclusive-and-operational-programs-for-analytics}
 
-U kunt programma&#39;s zonder periodekosten [&#128279;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in [!UICONTROL Revenue Explorer] en Analysatoren nu omvatten door de optie van het Gedrag van de Analyse aan &quot;Inclusief&quot;te plaatsen wanneer u de Kanalen van het Programma uitgeeft.  U kunt ook operationele programma&#39;s uitsluiten van alle rapporten door &quot;Operationeel&quot; te kiezen.
+U kunt programma&#39;s zonder periodekosten [ in ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) en Analysatoren nu omvatten door de optie van het Gedrag van de Analyse aan &quot;Inclusief&quot;te plaatsen wanneer u de Kanalen van het Programma uitgeeft. [!UICONTROL Revenue Explorer] U kunt ook operationele programma&#39;s uitsluiten van alle rapporten door &quot;Operationeel&quot; te kiezen.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

@@ -4,10 +4,10 @@ description: Download de Marketo Sales Insight Solution voor Microsoft Dynamics 
 title: Download de Marketo Sales Insight Solution voor Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2016-5-3.png)
 
-1. Selecteer **[!UICONTROL Download Marketo Solution]** .
+1. Selecteer **[!UICONTROL Download Marketo Solution]**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 

@@ -3,7 +3,7 @@ description: Ruimtebeheer - Marketo-documenten - Productdocumentatie
 title: Ruimtebeheer
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -58,7 +58,7 @@ U kunt de volgende acties vanuit deze gecentraliseerde interface uitvoeren:
 * Gebruik de zoekbalk om de ruimte te zoeken die u zoekt (u kunt alleen zoeken in de ruimten die u hebt gemaakt).
 * Klik op het pictogram Ruimte verwijderen om de ruimte te verwijderen. Hiermee verwijdert u alle opnamen en bestanden die betrekking hebben op de ruimte.
 
-Wanneer u een ruimte selecteert, kunt u de inhoud of opnamen weergeven die beschikbaar zijn in die ruimte. Op dit scherm, is de informatie beschikbaar binnen twee lusjes: het **lusje van de Inhoud** &lbrace;en **Opnamen** tabel.
+Wanneer u een ruimte selecteert, kunt u de inhoud of opnamen weergeven die beschikbaar zijn in die ruimte. Op dit scherm, is de informatie beschikbaar binnen twee lusjes: het **lusje van de Inhoud** {en **Opnamen** tabel.
 
 **Inhoud tabel**
 

@@ -4,7 +4,7 @@ description: Score-velden instellen die moeten worden gebruikt voor sterren en v
 title: Score-velden instellen die moeten worden gebruikt voor sterren en vlammen in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld **[!UICONTROL Lead Scor
 
 >[!TIP]
 >
->Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [&#128279;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
+>Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [ ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
 
 >[!NOTE]
 >

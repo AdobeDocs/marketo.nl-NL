@@ -4,10 +4,10 @@ description: Een nieuwe programmatag en tagwaarden maken - Marketo Docs - Produc
 title: Nieuwe programmatag- en tagwaarden maken
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-U kunt aangepaste [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor uw programma&#39;s en geef waarden op aan de tag.
+U kunt douane [ markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor uw programma&#39;s tot stand brengen en waarden toewijzen aan de markering.
 
 >[!NOTE]
 >
@@ -25,9 +25,9 @@ U kunt aangepaste [tags](/help/marketo/product-docs/core-marketo-concepts/progra
 >
 >Programmatag: Doelpubliek
 >
->Waarde van programmalabel: SMB, Onderneming, Midden-Markt
+>Waarde van programmalabel: SMB, Enterprise, MidMarket
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
@@ -35,11 +35,11 @@ U kunt aangepaste [tags](/help/marketo/product-docs/core-marketo-concepts/progra
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Tag Type]**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Tag Type]** .
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Voer de **[!UICONTROL Tag Type]** en een tag **[!UICONTROL Value]**. Klik vervolgens op **[!UICONTROL Add Another]**.
+1. Voer de tags **[!UICONTROL Tag Type]** en **[!UICONTROL Value]** in. Klik vervolgens op **[!UICONTROL Add Another]** .
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ U kunt aangepaste [tags](/help/marketo/product-docs/core-marketo-concepts/progra
    >
    >U kunt meerdere programmatypen selecteren. Wanneer een nieuw programma wordt gemaakt, is dit type code beschikbaar.
 
-1. Controleren **[!UICONTROL Required]** en klik op **[!UICONTROL Create]**.
+1. Controleer **[!UICONTROL Required]** en klik op **[!UICONTROL Create]** .
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Als het labeltype **[!UICONTROL Required]**, moeten gebruikers een waarde voor de tag invoeren wanneer ze een nieuw programma maken.
+   >Als het tagtype **[!UICONTROL Required]** is, moeten gebruikers een waarde voor de tag invoeren wanneer ze een nieuw programma maken.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

@@ -4,7 +4,7 @@ description: E-mailprogramma's plannen met tijdzone voor ontvangers - Marketo Do
 title: E-mailprogramma's met tijdzone voor ontvangers plannen
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '792'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Zodra u uw programma goedkeurt, begint het binnen 15 minuten lopen.
 
 >[!NOTE]
 >
->Hoewel het programma het *proces* begint van het verzenden van e-mails in 15 minuten, zullen de e-mails niet **&#x200B; op dat ogenblik worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen &#x200B;** [!UICONTROL Time Zone Settings]** .
+>Hoewel het programma het *proces* begint van het verzenden van e-mails in 15 minuten, zullen de e-mails niet ** op dat ogenblik worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen **[!UICONTROL Time Zone Settings]** .
 
 ## Scenario 2: Meer dan 25 uur {#scenario-more-than-hours}
 

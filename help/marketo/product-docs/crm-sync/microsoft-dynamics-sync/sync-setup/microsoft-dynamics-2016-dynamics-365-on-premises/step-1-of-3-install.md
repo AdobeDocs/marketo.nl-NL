@@ -3,7 +3,7 @@ description: Installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/Dynamics 3
 title: Installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/Dynamics 365 On-Premises Stap 1 van 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
@@ -42,7 +42,7 @@ Voordat u [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 kunt synchronisere
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Klik **[!UICONTROL Browse]** en selecteer de oplossing u [&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik **[!UICONTROL Browse]** en selecteer de oplossing u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 

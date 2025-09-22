@@ -4,7 +4,7 @@ description: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht
 title: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt &quot;[!UICONTROL Wait]&quot;debietstap gebruiken om de reis van een persoon door een Slimme Campagne tot een bepaalde datum te pauzeren.
 
-1. Sleep over de stap **[!UICONTROL Wait]** flow in de tab Slimme campagne **[!UICONTROL Flow]** .
+1. Sleep over de stap **[!UICONTROL Flow]** flow in de tab Slimme campagne **[!UICONTROL Wait]** .
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
@@ -23,7 +23,7 @@ U kunt &quot;[!UICONTROL Wait]&quot;debietstap gebruiken om de reis van een pers
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. Selecteer **[!UICONTROL Date]** in de vervolgkeuzelijst **[!UICONTROL Type]** .
+1. Selecteer **[!UICONTROL Type]** in de vervolgkeuzelijst **[!UICONTROL Date]** .
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 

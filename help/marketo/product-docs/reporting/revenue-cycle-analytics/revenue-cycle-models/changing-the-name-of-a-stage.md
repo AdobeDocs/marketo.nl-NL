@@ -4,7 +4,7 @@ description: De naam van een werkgebied wijzigen - Marketo Docs - Productdocumen
 title: De naam van een werkgebied wijzigen
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 2%

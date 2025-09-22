@@ -4,9 +4,9 @@ description: Attributievoorbeeld 1 - Marketo Docs - Productdocumentatie
 title: Attributievoorbeeld 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Lees het volgende scenario en probeer de aantallen te bepalen die in het net zouden moeten zijn.
 
-* 11 april | Fred is verworven door (Tradeshow)
-* 15 april | Margo-deelnemers (Webinar) - succes
-* 22 april | Fred is gekoppeld (rol) aan de opportuniteit
+* 11 april | Fred is overgenomen door (Tradeshow)
+* 15 april | Margo bezoekt (Webinar) - succes
+* 22 april | Fred is gekoppeld (rol) aan de opportunity
 * 22 april | Opportunity is gemaakt voor $3.000
 
 | Programmanaam | (Handelsversie) | (Webinar) |
@@ -27,19 +27,19 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 | (FT) Opty Won | `<pre>0</pre>` | `<pre>0</pre>` |
 | (FT) Opbrengst | `<pre>0</pre>` | `<pre>0</pre>` |
 
-**Antwoorden tonen**
+**toon Antwoorden**
 
 >[!NOTE]
 >
->**Toelichting**
+>**Verklaring**
 >
 >Ten eerste moet worden begrepen dat sommige soorten COUNTS zijn en andere VALUTA&#39;S. Opty Created is een telling, een geheel getal. Pipeline is een valuta. In Marketo voldoet de valuta aan de landinstellingen van uw beheerder.
 >
->De handelsmaatschappij heeft alle kredieten ontvangen omdat Margo niet betrokken was bij een rol in de kans. Geen rol, geen krediet.
+>De handelsmaatschappij heeft alle kredieten ontvangen omdat Margo niet betrokken was bij een rol in de opportuniteit. Geen rol, geen krediet.
 
 >[!NOTE]
 >
->**Attributieregels**
+>**Regels van de Attributie**
 >
 >1. Krediet is gelijkmatig verdeeld
 >1. Je kunt niet meer krediet geven dan je hebt verdiend
@@ -49,6 +49,6 @@ Probeer alle voorbeelden en je bent een attribuut pro!
 
 >[!MORELIKETHIS]
 >
->* [Attributievoorbeeld 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [Attributievoorbeeld 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->* [Attributievoorbeeld 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [ Voorbeeld van de Attributie 2 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [ Voorbeeld van de Attributie 3 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [ Voorbeeld van de Attributie 4 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)

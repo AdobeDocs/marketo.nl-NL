@@ -3,7 +3,7 @@ description: Admin Setup - Marketo Docs - Productdocumentatie
 title: Beheerdersinstellingen
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Beheerdersinstellingen {#admin-setup}
 
-Nadat u als Admin van het Systeem van de Adobe aan Marketo Engage in een Adobe org wordt toegevoegd, zijn er een paar stappen u zult moeten nemen om de aanvankelijke opstelling te voltooien.
+Nadat u als Admin van het Systeem van Adobe aan Marketo Engage in Adobe org wordt toegevoegd, zijn er een paar stappen u zult moeten nemen om de aanvankelijke opstelling te voltooien.
 
 ## Eerste instelling {#initial-setup}
 
@@ -20,13 +20,13 @@ Nadat u als Admin van het Systeem van de Adobe aan Marketo Engage in een Adobe o
 
    ![](assets/admin-setup-1.png)
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"} .
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
 ## Een productprofiel maken {#create-a-product-profile}
 
-Nadat de systeembeheerder tot de Admin Console toegang heeft, is het tijd om een productprofiel tot stand te brengen. Zo krijgen uw gebruikers/beheerders toegang tot Marketo Engage.
+Nadat de systeembeheerder de Admin Console heeft geopend, is het tijd om een productprofiel te maken. Zo krijgen uw gebruikers/beheerders toegang tot Marketo Engage.
 
 1. In de **[!UICONTROL Overview]** pagina, onder **[!UICONTROL Products and Services]**, klik **Marketo Engage**.
 

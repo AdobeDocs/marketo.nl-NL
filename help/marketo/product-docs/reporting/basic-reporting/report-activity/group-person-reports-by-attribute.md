@@ -4,7 +4,7 @@ description: Groepeer Persrapporten per kenmerk - Marketo Docs - Productdocument
 title: Personen groeperen op basis van kenmerk
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -37,7 +37,7 @@ U kunt uw persoonrapporten door om het even welke persoon of bedrijfattributen g
 
    >[!TIP]
    >
-   >Als u een kenmerk met een numerieke waarde kiest, zoals _[!UICONTROL Created At]_&#x200B;of&#x200B;_[!UICONTROL Annual Revenue]_ , selecteert u de metriek in de vervolgkeuzelijst **[!UICONTROL Units]** aan de rechterkant.
+   >Als u een kenmerk met een numerieke waarde kiest, zoals _[!UICONTROL Created At]_of_[!UICONTROL Annual Revenue]_ , selecteert u de metriek in de vervolgkeuzelijst **[!UICONTROL Units]** aan de rechterkant.
 
    Dat is het! Klik op de tab **[!UICONTROL Report]** om het rapport dienovereenkomstig te groeperen.
 

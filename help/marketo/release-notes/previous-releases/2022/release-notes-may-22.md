@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - mei 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -23,7 +23,7 @@ De volgende eigenschappen zullen beginnen om op **6 mei, 2022**, met een gefasee
 
 ## Native CRM-integratie {#native-crm-integration}
 
-**[Inheemse Integratie van CRM van 1&rbrace; (beperkte beschikbaarheid) ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}: Verbeter betrokkenheid met gezondheidsberoeps door activiteit tussen Veeva CRM en Marketo Engage via inheemse integratie te synchroniseren.** Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
+**[Inheemse Integratie van CRM van 1} (beperkte beschikbaarheid) ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}: Verbeter betrokkenheid met gezondheidsberoeps door activiteit tussen Veeva CRM en Marketo Engage via inheemse integratie te synchroniseren.** Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 

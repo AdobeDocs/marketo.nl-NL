@@ -4,10 +4,10 @@ description: SDK-code verzenden naar een ontwikkelaar - Marketo Docs - Productdo
 title: SDK-code naar een ontwikkelaar verzenden
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Voordat u in-app berichten of pushmeldingen kunt maken, moet uw ontwikkelaar de Mobile App SDK voor de Android- en iOS-platforms hebben ingesteld en geïnitialiseerd.
 
-* [ Instructies voor Android ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
-* [ Instructies voor iOS ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
+* [ Instructies voor Android ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [ Instructies voor iOS ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## SDK-code naar een ontwikkelaar verzenden {#send-sdk-code-to-a-developer-1}
 
@@ -30,7 +30,7 @@ Zo doe je het.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer **[!UICONTROL Mobile Apps]** .
+1. Selecteer **[!UICONTROL Mobile Apps]**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 

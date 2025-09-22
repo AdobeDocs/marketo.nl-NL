@@ -4,10 +4,10 @@ description: Werken met e-mailprogrammakaarten - Marketo Docs - Productdocumenta
 title: E-mailprogrammakaarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 1%
+source-wordcount: '342'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Moments gebruiken om uw e-mailprogramma&#39;s te bekijken vanaf uw telef
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## E-mailprogrammakaarten {#email-program-cards}
 
@@ -41,11 +41,11 @@ Nadat de e-mail is verzonden, geeft de kaart andere waardevolle informatie weer,
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tik op **[!UICONTROL Confirm]**.
+1. Tik op **[!UICONTROL Confirm]** .
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tikken **[!UICONTROL Confirm]** om de taak te voltooien, of **[!UICONTROL Never Mind]** als je tweede gedachten had.
+1. Tik op **[!UICONTROL Confirm]** om de taak te voltooien of op **[!UICONTROL Never Mind]** als u tweede gedachten had.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Nadat de e-mail is verzonden, geeft de kaart andere waardevolle informatie weer,
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tik op **[!UICONTROL Cancel Send]**.
+1. Tik op **[!UICONTROL Cancel Send]** .
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,11 +75,11 @@ Je kunt bevestigde of onbevestigde e-mailkaarten opnieuw plannen.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tik op **[!UICONTROL Reschedule]**.
+1. Tik op **[!UICONTROL Reschedule]** .
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Selecteer een datum op de kalender en tik op **[!UICONTROL Reschedule]**.
+1. Selecteer een datum in de kalender en tik op **[!UICONTROL Reschedule]** .
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -93,11 +93,11 @@ U kunt een voorbeeld van een e-mailmoment rechtstreeks met iemand delen.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tik op **[!UICONTROL Send Sample]**.
+1. Tik op **[!UICONTROL Send Sample]** .
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Voer een e-mailadres in en klik op **[!UICONTROL Send Sample]**.
+1. Voer een e-mailadres in en klik op **[!UICONTROL Send Sample]** .
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,7 +105,7 @@ U kunt een voorbeeld van een e-mailmoment rechtstreeks met iemand delen.
 
 Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen.
 
-1. Tik op **[!UICONTROL Preview Email]**.
+1. Tik op **[!UICONTROL Preview Email]** .
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
@@ -115,6 +115,6 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen.
 
 >[!MORELIKETHIS]
 >
->* [Marketo-momenten begrijpen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Gebeurteniskaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Analysecards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [ Begrijpend de Momenten van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [ Begrijpend de Kaarten van de Gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [ Begrijpend de Kaarten van Analytics ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

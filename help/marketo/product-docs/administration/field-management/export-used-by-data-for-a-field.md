@@ -4,7 +4,7 @@ description: Exporteren gebruikt door gegevens voor een veld - Marketo Docs - Pr
 title: Gebruikt door gegevens exporteren voor een veld
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 1%
@@ -17,9 +17,9 @@ Als Admin, hebt u de capaciteit om verwante activa van een gebied uit te voeren 
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
@@ -31,11 +31,11 @@ Als Admin, hebt u de capaciteit om verwante activa van een gebied uit te voeren 
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Klik op de knop **[!UICONTROL Field Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Export Used By]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Field Actions]** en selecteer **[!UICONTROL Export Used By]** .
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. An [!DNL Excel] wordt geëxporteerd. Open het bestand om de inhoud ervan weer te geven.
+1. Een [!DNL Excel] -bestand wordt geëxporteerd. Open het bestand om de inhoud ervan weer te geven.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

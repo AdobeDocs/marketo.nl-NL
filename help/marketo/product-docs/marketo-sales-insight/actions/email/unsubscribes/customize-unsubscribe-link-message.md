@@ -3,7 +3,7 @@ description: Abonnementsbericht voor een koppeling aanpassen - Marketo Docs - Pr
 title: Bericht voor opzeggen van koppeling aanpassen
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Een programma verwijderen - Marketo Docs - Productdocumentatie
 title: Een programma verwijderen
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -19,11 +19,11 @@ Je kunt een programma archiveren, maar soms wil je er gewoon permanent van af. Z
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Klik op de knop **[!UICONTROL Program Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Delete]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Program Actions]** en selecteer **[!UICONTROL Delete]** .
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selecteer het keuzerondje Alles verwijderen... Controleer de effecten van het verwijderen van het programma en klik vervolgens op **[!UICONTROL Delete]** ter bevestiging.
+1. Selecteer het keuzerondje Alles verwijderen... Controleer de effecten van het verwijderen van het programma en klik vervolgens op **[!UICONTROL Delete]** om te bevestigen.
 
 >[!TIP]
 >
@@ -43,7 +43,7 @@ Mogelijk hebt u een boor-down- en een verwijderfunctie nodig om het probleem op 
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klikken **[!UICONTROL Used By]** om te zien waar het actief in gebruik is.
+1. Klik op **[!UICONTROL Used By]** om te zien waar het element wordt gebruikt.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

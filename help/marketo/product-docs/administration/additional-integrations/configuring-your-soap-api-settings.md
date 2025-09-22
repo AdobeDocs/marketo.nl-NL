@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2360352
-description: Uw SOAP API-instellingen configureren - Marketo Docs - Productdocumentatie
-title: Uw SOAP API-instellingen configureren
+description: SOAP API-instellingen configureren - Marketo Docs - Productdocumentatie
+title: SOAP API-instellingen configureren
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%
 
 ---
 
-# Uw SOAP API-instellingen configureren {#configuring-your-soap-api-settings}
+# SOAP API-instellingen configureren {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
->We raden u aan de REST API te gebruiken. Meer informatie over [developer.adobe.com](https://developer.adobe.com/marketo-apis/).
+>We raden u aan de REST API te gebruiken. Leer meer op [ developer.adobe.com ](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
@@ -29,14 +29,14 @@ ht-degree: 1%
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
-1. Stel de juiste **[!UICONTROL Encryption Key]**, klikt u op **[!UICONTROL Save Changes]** en geeft alle informatie door aan uw ontwikkelaar.
+1. Stel de juiste **[!UICONTROL Encryption Key]** in, klik op **[!UICONTROL Save Changes]** en geef alle informatie door aan uw ontwikkelaar.
 
    ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->Uw SOAP-eindpunt en [!UICONTROL User ID] zal uniek zijn; verzend het screenshot in dit artikel niet naar uw Ontwikkelaar.
+>Het SOAP-eindpunt en [!UICONTROL User ID] zijn uniek. Stuur de schermafbeelding in dit artikel niet naar uw ontwikkelaar.
 
 >[!MORELIKETHIS]
 >
->[Documentatie SOAP API](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api)
+>[ SOAP API Documentatie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

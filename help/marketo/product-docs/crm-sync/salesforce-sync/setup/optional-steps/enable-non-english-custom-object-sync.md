@@ -4,7 +4,7 @@ description: Niet-Engelse aangepaste objectsynchronisatie inschakelen - Marketo 
 title: Niet-Engelse aangepaste objectsynchronisatie inschakelen
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 1%

@@ -4,7 +4,7 @@ description: Een stap toevoegen aan een slimme campagne - Marketo Docs - Product
 title: Een stroomstap toevoegen aan een slimme campagne
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: e7211ff1336e0b7dc730ed113ce8b7cbfe986c70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 De stappen van de stroom vertellen Marketo Engage wat u met een groep mensen wilt gebeuren die kwalificeren.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 
-1. Selecteer uw slimme campagne en klik op **[!UICONTROL Flow]**.
+1. Selecteer uw slimme campagne en klik op **[!UICONTROL Flow]** .
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-2.png)
 
@@ -33,15 +33,15 @@ De stappen van de stroom vertellen Marketo Engage wat u met een groep mensen wil
 
 >[!NOTE]
 >
->De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [De stroomstappen opnieuw ordenen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} om ervoor te zorgen dat ze in de juiste volgorde zitten.
+>De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [ herordent de stroomstappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} om ervoor te zorgen zij in de juiste opeenvolging zijn.
 
 >[!TIP]
 >
 >Een rode kronkellijn verschijnt in het geval van een ongeldige ingang. Houd de muisaanwijzer boven de lijn om te zien hoe u deze kunt corrigeren.
 
-Geweldig! Zorg ervoor dat u [de slimme campagne controleren en valideren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} voordat u het programma plant of activeert.
+Geweldig! Ben zeker om [ te herzien en de Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} te bevestigen alvorens u het plant of activeert.
 
 >[!MORELIKETHIS]
 >
->* [Keuze toevoegen in een stroomstap gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [ Gebruik voegt Keuze in een Stap van de Stroom toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
+>* [ maak de Stappen van de Stroom in een Slimme Campagne opnieuw in orde ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

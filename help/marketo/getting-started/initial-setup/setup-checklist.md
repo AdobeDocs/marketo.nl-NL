@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Controlelijst instellen {#setup-checklist}
 
-Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. Details vindt u in [Stappen instellen](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. De details kunnen in [ Stappen van de Opstelling ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} worden gevonden.
 
 ## Aanmelden bij Marketo en extra gebruikers maken {#log-in-to-marketo-and-create-additional-users}
 
@@ -35,7 +35,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 1. Een e-mailNAAM selecteren voor koppelingen met branding
 1. Vraag IT om opstelling een DNS verslag voor uw e-mailNAAM
 1. IT vragen om Marketo te lijsten van gewenste personen
-1. DKIM en SPF instellen in het dialoogvenster [!UICONTROL Admin] gebied
+1. DKIM en SPF instellen in het gebied [!UICONTROL Admin]
 1. MX instellen voor `[FromDomain1]`
 1. Als u klaar bent met de e-mailNAAM, stelt u uw e-mailNAAM in Marketo in
 
@@ -53,4 +53,4 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 
 >[!MORELIKETHIS]
 >
->[Stappen instellen](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[ Stappen van de Opstelling ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

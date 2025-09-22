@@ -4,7 +4,7 @@ description: Je Marketo-wachtwoord wijzigen - Marketo Docs - Productdocumentatie
 title: Je Marketo-wachtwoord wijzigen
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Wijzig uw Marketo-wachtwoord met deze eenvoudige stappen.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/change-your-marketo-password-1.png)
 
@@ -27,7 +27,7 @@ Wijzig uw Marketo-wachtwoord met deze eenvoudige stappen.
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. Voer het oude wachtwoord en het nieuwe wachtwoord in en klik vervolgens op **[!UICONTROL Save]**.
+1. Voer het oude wachtwoord en het nieuwe wachtwoord in en klik op **[!UICONTROL Save]** .
 
    ![](assets/change-your-marketo-password-4.png)
 

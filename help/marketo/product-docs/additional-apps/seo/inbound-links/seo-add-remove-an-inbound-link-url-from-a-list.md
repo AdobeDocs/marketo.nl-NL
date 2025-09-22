@@ -4,7 +4,7 @@ description: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst
 title: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -17,7 +17,7 @@ U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 
 ## Een binnenkomende URL van een koppeling toevoegen aan een lijst {#add-an-inbound-link-url-to-a-list}
 
-1. Ga naar de **[!UICONTROL Inbound Links]** sectie.
+1. Ga naar de sectie **[!UICONTROL Inbound Links]** .
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
@@ -31,7 +31,7 @@ U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 
 >[!TIP]
 >
->U kunt ook een nieuwe lijst maken voor het trefwoord dat u wilt gebruiken. Typ uw gewenste naam in [!UICONTROL Create a new list].
+>U kunt ook een nieuwe lijst voor uw trefwoord maken. Typ gewoon uw gewenste naam in [!UICONTROL Create a new list] .
 
 ## Een binnenkomende URL van een koppeling uit een lijst verwijderen {#remove-an-inbound-link-url-from-a-list}
 
@@ -41,7 +41,7 @@ Soms zult u een binnenkomende verbinding URL&#39;s uit een lijst willen verwijde
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Klik op de knop **[!UICONTROL Filter by list]** vervolgkeuzelijst. Klik op de lijst die u wilt opruimen.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Filter by list]** . Klik op de lijst die u wilt opruimen.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 

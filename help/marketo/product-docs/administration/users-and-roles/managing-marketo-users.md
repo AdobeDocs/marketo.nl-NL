@@ -4,7 +4,7 @@ description: Marketo-gebruikers beheren - Marketo Docs - Productdocumentatie
 title: Marketo-gebruikers beheren
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 1%
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Dit artikel is alleen bedoeld voor degenen die _niet_ gebruiken [Marketo met Adobe-id](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Als u dat doet, volgt u de stappen in [dit artikel](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Dit artikel is slechts voor degenen die _niet_ gebruiken [ Marketo met de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Als u doet, te volgen gelieve de stappen in [ dit artikel ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Gebruikers maken {#create-users}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/managing-marketo-users-1.png)
 
@@ -31,11 +31,11 @@ ht-degree: 1%
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Voer de **[!UICONTROL Email]**, **[!UICONTROL First Name]**, en **[!UICONTROL Last Name]**.
+1. Voer **[!UICONTROL Email]**, **[!UICONTROL First Name]** en **[!UICONTROL Last Name]** in.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Voer desgewenst een reden voor de uitnodiging in en selecteer een vervaldatum in het dialoogvenster **[!UICONTROL Access Expires]** veld met de datumkiezer.
+1. Voer eventueel een reden voor de uitnodiging in en selecteer een vervaldatum in het veld **[!UICONTROL Access Expires]** met de datumkiezer.
 
    ![](assets/managing-marketo-users-5.png)
 
@@ -51,11 +51,11 @@ ht-degree: 1%
    >
    >Wanneer de vervaldatum aankomt, ontvangt de gebruiker een vervalmelding en is zijn account vergrendeld.
 
-1. Selecteer de **[!UICONTROL Role]** van uw keuze en klik op **[!UICONTROL Next]**.
+1. Selecteer de **[!UICONTROL Role]** van uw keuze en klik op **[!UICONTROL Next]** .
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Bewerk indien nodig het uitnodigingsbericht. Klikken **Seen**.
+1. Bewerk indien nodig het uitnodigingsbericht. Klik **Se  en**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -75,9 +75,9 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 >[!NOTE]
 >
->Als de gebruiker u wilt schrappen ook een gebruiker van de Dynamic Chat is, moet u [verwijderen uit Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} in de Admin Console voordat u deze in het Marketo Engage kunt verwijderen.
+>Als de gebruiker u wilt schrappen ook een gebruiker van Dynamic Chat is, moet u [ hen uit Dynamic Chat ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} in Admin Console verwijderen alvorens u hen in Marketo Engage kunt schrappen.
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/managing-marketo-users-10.png)
 
@@ -85,17 +85,17 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Selecteer de gebruiker die u wilt verwijderen en klik **[!UICONTROL Delete User]**.
+1. Selecteer de gebruiker die u wilt verwijderen en klik op **[!UICONTROL Delete User]** .
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Bevestigen door te klikken **[!UICONTROL OK]**.
+1. Bevestig door op **[!UICONTROL OK]** te klikken.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Gebruikerswachtwoorden opnieuw instellen {#reset-user-passwords}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/managing-marketo-users-14.png)
 
@@ -103,11 +103,11 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Selecteer een gebruiker en klik op **[!UICONTROL Reset Password]**.
+1. Selecteer een gebruiker en klik op **[!UICONTROL Reset Password]** .
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Klikken **[!UICONTROL Close]** om de prompt te negeren.
+1. Klik op **[!UICONTROL Close]** om de vraag te sluiten.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -119,7 +119,7 @@ De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van 
 
 ## Machtigingen wijzigen en Gebruikersgegevens bewerken {#change-permissions-and-edit-user-information}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/managing-marketo-users-18.png)
 
@@ -127,7 +127,7 @@ De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van 
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Selecteer een gebruiker en klik op **[!UICONTROL Edit User]**.
+1. Selecteer een gebruiker en klik op **[!UICONTROL Edit User]** .
 
    ![](assets/managing-marketo-users-20.png)
 

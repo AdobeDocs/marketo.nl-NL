@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%
@@ -34,4 +34,4 @@ Als beheerder kunt u sjablonen weergeven als elke gebruiker.
 
    >[!NOTE]
    >
-   >U kunt ook filters of de zoekfunctie gebruiken in combinatie met _[!UICONTROL View As]_&#x200B;om te zien wat voor u het meest relevant is.
+   >U kunt ook filters of de zoekfunctie gebruiken in combinatie met _[!UICONTROL View As]_om te zien wat voor u het meest relevant is.

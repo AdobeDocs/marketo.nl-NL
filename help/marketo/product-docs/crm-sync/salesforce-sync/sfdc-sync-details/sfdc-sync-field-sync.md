@@ -4,7 +4,7 @@ description: SFDC Sync - Field Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Field Sync
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Opzoekvelden in SFDC synchroniseren de id, maar niet de naam waarnaar wordt verw
 
 ## Hoe zit het met SFDC Formula Fields? {#what-about-sfdc-formula-fields}
 
-De gebieden van de formule worden gesynchroniseerd, echter, worden de updates aan de verwijzingen in de formule niet gesynchroniseerd tot er een update aan de Stempel van de Mod van het Systeem van a [&#128279;](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"} is.
+De gebieden van de formule worden gesynchroniseerd, echter, worden de updates aan de verwijzingen in de formule niet gesynchroniseerd tot er een update aan de Stempel van de Mod van het Systeem van a [ ](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=en_US){target="_blank"} is.
 
 ## Wat gebeurt er als ik een veld uit [!DNL Salesforce] verwijder dat eerder synchroniseerde met Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 

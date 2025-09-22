@@ -3,7 +3,7 @@ description: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding v
 title: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Dit is de laatste stap van de synchronisatie. Je bent er bijna!
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. Selecteer **[!UICONTROL Microsoft]** .
+1. Selecteer **[!UICONTROL Microsoft]**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 

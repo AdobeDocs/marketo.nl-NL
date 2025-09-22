@@ -4,7 +4,7 @@ description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumen
 title: Aangepaste velden voor programmalid
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
 | Object | Beschrijving |
 |---|---|
 | Bedrijf | De naam van de met de persoon verbonden onderneming. |
-| Opportunity | Een mogelijkheid kan met een persoon of account worden geassocieerd als een potentiële toekomstige verkoop. Ze betreden Marketo meestal via een CRM of via API. |
+| Kans | Een mogelijkheid kan met een persoon of account worden geassocieerd als een potentiële toekomstige verkoop. Ze betreden Marketo meestal via een CRM of via API. |
 | Persoon | Een individu in uw Marketo-database waarmee u werkt via marketingcampagnes. |
 | Programmalid | Persoon die ook lid is van een programma |
 
@@ -68,7 +68,7 @@ U kunt hefboomwerking dit programma-specifieke gegevens in slimme lijsten via [ 
 * Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 * Wanneer u een lid van een programma verwijdert, als zij om het even welke gegevens op hun de douanegebied van het Lid van het Programma hebben, zullen de gegevens van dat gebied worden geschaad.
 * Als u de gegevens wilt weergeven, klikt u op het tabblad Leden in het programma en maakt u een aangepaste weergave met de desbetreffende velden.
-* De invoer en de uitvoer via [ lijst ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} en [ API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home){target="_blank"} worden gesteund. Exporteert het werk aan de lijsten van het Lid van het Programma slechts, niet statische lijsten.
+* De invoer en de uitvoer via [ lijst ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} en [ API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} worden gesteund. Exporteert het werk aan de lijsten van het Lid van het Programma slechts, niet statische lijsten.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 * Wijzigingstype is niet toegestaan in de velden Program Member Info.
 * De beperking &quot;contains&quot; (Slimme lijst bevat) wordt niet ondersteund voor aangepaste velden voor programmaleden.

@@ -3,7 +3,7 @@ description: Dynamic Chat - Overzicht - Marketo Docs - Productdocumentatie
 title: Dynamic Chat - Overzicht
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken voor zowel 
 
 >[!TIP]
 >
->Bezoek [ deze pagina ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html?lang=nl-NL){target="_blank"} om zelfstudievideo&#39;s van Dynamic Chat te bekijken.
+>Bezoek [ deze pagina ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} om zelfstudievideo&#39;s van Dynamic Chat te bekijken.
 
 ## Integraties {#integrations}
 
@@ -88,7 +88,7 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
 
 ## Limieten voor Dynamic Chat-gegevensbewaring {#dynamic-chat-data-retention-limits}
 
-Hieronder staan slechts enkele limieten/parameters in Dynamic Chat. Voor een volledige lijst, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te zien.
+Hieronder staan slechts enkele limieten/parameters in Dynamic Chat. Voor een volledige lijst, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te zien.
 
 <table>
   <th>Gegevenstype</th>

@@ -3,7 +3,7 @@ description: Eerste installatie - Marketo-documenten - productdocumentatie
 title: Eerste instelling
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Voer de onderstaande stappen uit om Dynamic Chat in te stellen.
 
    ![](assets/initial-setup-1.png)
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/initial-setup-2.png)
 

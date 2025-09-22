@@ -4,7 +4,7 @@ description: Een voorbeeld van een pushmelding bekijken - Marketo Docs - Product
 title: Een voorbeeld van een pushmelding bekijken
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%

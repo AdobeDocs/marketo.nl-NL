@@ -4,7 +4,7 @@ description: Abonnementsinstellingen bewerken - Marketo Docs - Productdocumentat
 title: Abonnementsinstellingen bewerken
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 2%
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 Als u toegang hebt tot meerdere Marketo-abonnementen en u zeker wilt weten welke abonnementen u gebruikt, probeert u elke abonnement een unieke naam te geven. Die naam wordt vervolgens boven aan de abonnementspagina weergegeven.
 
-Als u bijvoorbeeld zowel in productie- als in sandboxinstanties werkt, kunt u één abonnement een naam geven **Marketo Production** en de andere **Marketo-sandbox**.
+Bijvoorbeeld, als u in zowel productie als zandbakinstanties werkt, kunt u één abonnement **Productie van Marketo** en andere **zandbak van Marketo** noemen.
 
-1. Ga naar **[!UICONTROL Admin]**.
+1. Ga naar **[!UICONTROL Admin]** .
 
    ![](assets/edit-subscription-settings-1.png)
 
@@ -29,6 +29,6 @@ Als u bijvoorbeeld zowel in productie- als in sandboxinstanties werkt, kunt u é
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]**.
+1. Breng de gewenste wijzigingen aan en klik op **[!UICONTROL Save]** .
 
    ![](assets/edit-subscription-settings-4.png)

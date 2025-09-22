@@ -4,7 +4,7 @@ description: Een formulier insluiten in een webcampagne - Marketo Docs - Product
 title: Een formulier insluiten in een webcampagne
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenster, In Zone of Widget).
 
-1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteer **[!UICONTROL Embed Code]** .
+1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteer **[!UICONTROL Embed Code]**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -85,4 +85,4 @@ CSS-code toevoegen aan het script:
 >
 >* [ geef CSS van een Thema van de Vorm uit ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [ toon Dank u Bericht zonder een follow-up het landen Pagina ](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [ Forms 2.0 ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [ Forms 2.0 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

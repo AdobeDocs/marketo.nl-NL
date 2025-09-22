@@ -3,9 +3,9 @@ description: Overzicht Adobe Experience Cloud Interface - Marketo Docs - Product
 title: Overzicht Adobe Experience Cloud Interface
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Met Adobe Experience Cloud Interface wordt de &#39;shell&#39;-look en -feel van 
 
 ## Gebruikersstroom {#user-flow}
 
-Als u nog niet bent aangemeld bij een Adobe Experience Cloud-product, meldt u zich rechtstreeks aan bij [!DNL Marketo Engage] hier: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+Als u niet reeds aan een product van Adobe Experience Cloud wordt het programma geopend, login direct aan [!DNL Marketo Engage] hier: [ https://experience.adobe.com/marketo-engage ](https://experience.adobe.com/marketo-engage).
 
-Als u _zijn_ al aangemeld bij een Adobe Experience Cloud-product, klikt u gewoon op het menupictogram en selecteert u **[!DNL Marketo Engage]**.
+Als u __ reeds het programma wordt geopend aan een product van Adobe Experience Cloud, klik eenvoudig het menupictogram en selecteer **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -30,39 +30,39 @@ Als u _zijn_ al aangemeld bij een Adobe Experience Cloud-product, klikt u gewoon
 
 Naast de bijgewerkte look en feel zult u de volgende functies opmerken:
 
-**Geïntegreerd Help Center**
+**Geïntegreerd Centrum van de Hulp**
 
-Toegang tot verschillende beschikbare Help-bronnen vanuit de [!DNL Marketo Engage] toepassing.
+U kunt vanuit de [!DNL Marketo Engage] -toepassing toegang krijgen tot diverse beschikbare Help-bronnen.
 
 ![](assets/unified-shell-overview-2.png)
 
-**Application Switcher**
+**Schakelaar van de Toepassing**
 
 Diegenen die toegang hebben tot meerdere Adobe-producten kunnen gemakkelijk van elkaar wisselen.
 
 ![](assets/unified-shell-overview-3.png)
 
-**Meldingen en aankondigingen**
+**Meldingen en Mededelingen**
 
-Bekijk en communiceer rechtstreeks in de toepassing met productspecifieke meldingen en algemene productaankondigingen van Adobe.
+Bekijk en communiceer rechtstreeks met productspecifieke meldingen en algemene Adobe-productaankondigingen in de toepassing.
 
 ![](assets/unified-shell-overview-4.png)
 
-**Adobe-instellingen**
+**de Montages van Adobe**
 
-Klik op het profielpictogram om de taal of andere voorkeuren voor de hele Adobe te wijzigen.
+Klik op het profielpictogram om de taal of andere voorkeuren voor Adobe te wijzigen.
 
 ![](assets/unified-shell-overview-5.png)
 
 ## Veelgestelde vragen {#faq}
 
-**Ik kan me niet aanmelden bij [!DNL Marketo Engage] via de interface Experience Cloud. Wat zou het probleem kunnen zijn?**
+**ik kan niet login aan [!DNL Marketo Engage] door de Interface van Experience Cloud. Wat zou de kwestie kunnen zijn?**
 
-Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &quot;Kan pagina niet laden&quot; ziet, kan het probleem zich voordoen in het dialoogvenster [!DNL Marketo Engage] zijde. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp.
+Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &#39;&#39;Kan pagina niet laden&#39;&#39; ziet, kan het probleem zich voordoen op de zijde van [!DNL Marketo Engage] . Gelieve te contacteren {de Steun van 0} Marketo [ voor hulp.](https://nation.marketo.com/t5/support/ct-p/Support)
 
-**Waar zijn de Geschiedenis van de Gebruiker, Globaal Onderzoek, de Meldingen van Marketo, en het taakdienblad gegaan?**
+**waar ging de Geschiedenis van de Gebruiker, Globaal Onderzoek, de Meldingen van Marketo, en het dienblad?**
 
-Deze functies zijn verplaatst van de bovenste nav naar een nieuwe balk aan de linkerkant van de Experience Cloud Interface.
+Deze functies zijn verplaatst van de bovenste nav naar een nieuwe balk links in de Experience Cloud Interface.
 
 ![](assets/unified-shell-overview-6.png)
 

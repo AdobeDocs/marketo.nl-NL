@@ -4,7 +4,7 @@ description: Een testgroep voor landingspagina klonen - Marketo Docs - Productdo
 title: Testgroep voor landingspagina klonen
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Vanuit [!UICONTROL Design Studio] kunt u een testgroep met landingspagina&#39;s zoeken en dupliceren.
 
-1. Klik met de rechtermuisknop op een niet-goedgekeurde pagina. Selecteer **[!UICONTROL Clone]** .
+1. Klik met de rechtermuisknop op een niet-goedgekeurde pagina. Selecteer **[!UICONTROL Clone]**.
 
    ![](assets/image2015-4-27-15-3a11-3a24.png)
 

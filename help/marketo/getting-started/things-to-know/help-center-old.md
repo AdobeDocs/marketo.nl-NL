@@ -4,7 +4,7 @@ title: Helpcentrum
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Helpcentrum {#help-center}
 
-Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [ productdocumentatie ](/help/marketo/home.md){target="_blank"}, [ versieinformatie ](/help/marketo/release-notes/current.md){target="_blank"}, de [ Gemeenschap van de Natie van de Marketing ](https://nation.marketo.com/){target="_blank"} ), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
+Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [ productdocumentatie ](/help/marketo/home.md){target="_blank"}, [ versieinformatie ](/help/marketo/release-notes/current.md){target="_blank"}, de [ Gemeenschap van de Natie van de Marketing ](https://nation.marketo.com/){target="_blank"}), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
 
 ## Toegang verkrijgen {#how-to-access}
 
@@ -49,16 +49,16 @@ Hulplijnen dienen als snelle doorverwijzingen voor veelgebruikte functies.
 
 ### Nieuwe functies {#whats-new}
 
-Het tabblad Nieuwe functies bevat de volledige details van de meest recente release van het Marketo Engage.
+Het tabblad Nieuwe functies bevat alle gegevens over de meest recente versie van Marketo Engage.
 
 ![](assets/help-center-7.png)
 
 >[!TIP]
 >
->Klik op het pijlpictogram onderaan om de pagina in het Experience League weer te geven.
+>Klik op het pijlpictogram onderaan om de pagina in Experience League weer te geven.
 
 ### Bronnen {#resources}
 
-Het lusje van Middelen geeft u snelle en directe toegang tot diverse manieren u extra hulp met uw instantie van het Marketo Engage kunt krijgen.
+Op het tabblad Bronnen hebt u snel en rechtstreeks toegang tot verschillende manieren waarop u extra hulp kunt krijgen met uw Marketo Engage-exemplaar.
 
 ![](assets/help-center-8.png)

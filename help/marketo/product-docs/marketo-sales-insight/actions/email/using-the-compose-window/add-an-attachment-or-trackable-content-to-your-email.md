@@ -3,7 +3,7 @@ description: Voeg een bijlage of traceerbare inhoud toe aan uw e-mail - Marketo 
 title: Een bijlage of traceerbare inhoud toevoegen aan uw e-mail
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%

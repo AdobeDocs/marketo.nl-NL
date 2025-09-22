@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-4.png)
 
-1. Houd de cursor boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteer **[!UICONTROL Rename]** .
+1. Houd de cursor boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteer **[!UICONTROL Rename]**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    ![](assets/manage-template-categories-7.png)
 
-1. Houd de cursor boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteer **[!UICONTROL Delete]** .
+1. Houd de cursor boven de sjabloon waarvan u de naam wilt wijzigen en klik op de gegevens (drie punten). Selecteer **[!UICONTROL Delete]**.
 
    ![](assets/manage-template-categories-8.png)
 

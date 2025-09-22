@@ -4,7 +4,7 @@ description: Een aangepast veld maken voor CRM-detectie - Marketo Docs - Product
 title: Een aangepast veld maken voor CRM-detectie
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

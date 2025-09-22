@@ -3,7 +3,7 @@ description: Overzicht van pagina Analytics - Marketo Docs - Productdocumentatie
 title: Overzicht van pagina Analytics
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%

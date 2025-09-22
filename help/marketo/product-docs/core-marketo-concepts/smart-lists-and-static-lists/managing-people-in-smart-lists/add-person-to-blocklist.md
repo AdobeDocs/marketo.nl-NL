@@ -4,10 +4,10 @@ description: Persoon toevoegen aan Lijst van gewezen personen - Marketo Docs - P
 title: Persoon toevoegen aan Lijst van gewezen personen
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspond
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Selecteer **[!UICONTROL Smart List]** .
+1. Selecteer **[!UICONTROL Smart List]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 

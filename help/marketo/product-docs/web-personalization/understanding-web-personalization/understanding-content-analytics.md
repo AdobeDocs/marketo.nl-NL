@@ -4,7 +4,7 @@ description: Content Analytics - Marketo Docs - Productdocumentatie
 title: Content Analytics begrijpen
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -86,7 +86,7 @@ De aanvullende inhoudanalyse omvat:
 
 * **[!UICONTROL Views]**: weergaven van dat inhoudsonderdeel voor het geselecteerde tijdbereik
 * **[!UICONTROL Direct Conversions]**: Webbezoekers die de inhoud hebben bekeken en een formulier tijdens hetzelfde bezoek hebben ingevuld.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** Een door directe conversies berekende procentuele conversiekoers gedeeld door klikken
+* **[!UICONTROL Conversion Rate]****:** Een door directe conversies berekende procentuele conversiekoers gedeeld door klikken
 
 **[!UICONTROL Trends]**
 

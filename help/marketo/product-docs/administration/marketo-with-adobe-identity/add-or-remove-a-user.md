@@ -3,7 +3,7 @@ description: Een gebruiker toevoegen of verwijderen - Marketo Docs - Productdocu
 title: Een gebruiker toevoegen of verwijderen
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Een gebruiker toevoegen {#add-a-user}
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} .
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-1.png)
 
@@ -50,11 +50,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-8.png)
 
-De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij het Marketo Engage.
+De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo Engage.
 
 >[!NOTE]
 >
->Wanneer de gebruiker via de Adobe Admin Console aan het Marketo Engage wordt toegevoegd, krijgt hij of zij de rol &quot;Standaardgebruiker&quot; binnen de werkruimte Standaard van het abonnement. Als de rol van de gebruiker binnen de werkruimte moet worden aangepast, wordt dat gedaan in Marketo Engage, [ zoals hier beschreven ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Wanneer de gebruiker via de Adobe Admin Console aan Marketo Engage wordt toegevoegd, krijgt hij of zij de rol &quot;Standaardgebruiker&quot; binnen de werkruimte Standaard van het abonnement. Als de rol van de gebruiker binnen de werkruimte moet worden aangepast, wordt dat gedaan in Marketo Engage, [ zoals hier beschreven ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Een gebruiker verwijderen {#remove-a-user}
 
@@ -62,7 +62,7 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij het Market
 >
 >U moet systeembeheerder zijn om een gebruiker te verwijderen.
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} .
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
 
@@ -86,9 +86,9 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij het Market
 
    ![](assets/add-or-remove-a-user-14.png)
 
-De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij geen toegang meer heeft tot het Marketo Engage.
+De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij geen toegang meer heeft tot Marketo Engage.
 
 >[!MORELIKETHIS]
 >
->* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"} 
->* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"} 
+>* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

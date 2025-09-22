@@ -4,7 +4,7 @@ description: Valideer  [!DNL Microsoft Dynamics]  Synchronisatie - de Documenten
 title: Valideer  [!DNL Microsoft Dynamics]  Synchronisatie
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Het is erg belangrijk dat u het gereedschap Synchronisatie valideren uitvoert om
 
    ![](assets/image2015-9-28-16-3a7-3a51.png)
 
-1. Selecteer **[!DNL Microsoft]** .
+1. Selecteer **[!DNL Microsoft]**.
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 

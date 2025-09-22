@@ -4,7 +4,7 @@ description: SEO - Trefwoorden toevoegen/verwijderen uit een lijst - Marketo Doc
 title: SEO - Trefwoorden toevoegen/verwijderen uit een lijst
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
@@ -17,7 +17,7 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
 ## Toevoegen aan lijst {#add-to-a-list}
 
-1. Ga naar de **[!UICONTROL Keywords]** sectie.
+1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
@@ -31,7 +31,7 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
    >[!TIP]
    >
-   >U kunt ook een nieuwe lijst maken voor uw trefwoorden. Typ alleen de naam in **[!UICONTROL Create a new list]**.
+   >U kunt ook een nieuwe lijst maken voor uw trefwoorden. Typ gewoon de naam in **[!UICONTROL Create a new list]** .
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,7 +41,7 @@ Woo hoo! Selecteer de lijst om de nieuwe trefwoorden weer te geven.
 
 U kunt ook trefwoorden uit een lijst verwijderen.
 
-1. Ga naar de **[!UICONTROL Keywords]** sectie.
+1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
@@ -61,4 +61,4 @@ U kunt ook trefwoorden uit een lijst verwijderen.
 
    >[!MORELIKETHIS]
    >
-   >[Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[ Begrijpend Trefwoorden (Samenvattingsmening) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

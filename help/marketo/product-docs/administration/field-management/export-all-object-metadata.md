@@ -3,7 +3,7 @@ description: Alle objectmetagegevens exporteren - Marketo Docs - Productdocument
 title: Alle metagegevens van object exporteren
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 4%
@@ -16,7 +16,7 @@ Met deze functie kunt u alle objecten en de bijbehorende metagegevens exporteren
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
 ## Objecten {#objects}
 
@@ -29,7 +29,7 @@ Met deze functie kunt u alle objecten en de bijbehorende metagegevens exporteren
 
 ## Metagegevens van object exporteren {#export-object-metadata}
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/export-all-object-metadata-1.png)
 
@@ -45,6 +45,6 @@ Met deze functie kunt u alle objecten en de bijbehorende metagegevens exporteren
 >
 >Zorg ervoor dat uw browser pop-ups van Marketo niet blokkeert.
 
-De gegevens worden geëxporteerd als een CSV-bestand.
+De gegevens worden geëxporteerd als een CSV.
 
 ![](assets/export-all-object-metadata-4.png)

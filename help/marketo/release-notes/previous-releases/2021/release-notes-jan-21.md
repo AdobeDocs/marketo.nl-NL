@@ -3,9 +3,9 @@ description: Opmerkingen bij de release - jan 2021 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 * **[Verbeterde de Werkschema&#39;s van e-mail van de Test ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Verhoog de efficiency van uw verkoopteam met verbeterde [!DNL Sales Insight] werkschema&#39;s van de teste-mail. Verkopers kunnen teste-mails naar gekozen e-mailadressen verzenden voordat ze bulksgewijze e-mails naar maximaal 200 ontvangers verzenden.
 * **[Inzichten in E-mailstatus ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: De gebruikers zien een waarschuwingsbericht wanneer zij proberen om een e-mail naar een ongeldige e-mailidentiteitskaart of een unsubscribed e-mailadres te verzenden alvorens een e-mail te verzenden.  De leveringsstatus van e-mails kan worden gecontroleerd op het tabblad E-mail van [!DNL Sales Insight] .
-* **verzend Bulk E-mail van [ Rekening ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) en [ 4&rbrace; panelen van de Kans ([!DNL Salesforce] CRM)**: Verbeter de efficiency van het werkschema van de verkoper en verbind met een volledige rekening of lijst van het opportuniteitcontact door nieuwe bulkactiefuncties te gebruiken. ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) Verzend e-mails of voeg contacten aan de campagnes van Marketo Engage toe door de nieuwe drop-down optie op de rekening of opportuniteits lusjes in plaats van het werken met individuele contacten te gebruiken. Voeg accountcontactpersonen toe aan een lijst met wachtwoorden die u wilt waarschuwen wanneer leads hot worden.
+* **verzend Bulk E-mail van [ Rekening ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) en [ 4} panelen van de Kans (](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) CRM) [!DNL Salesforce]: Verbeter de efficiency van het werkschema van de verkoper en verbind met een volledige rekening of lijst van het opportuniteitcontact door nieuwe bulkactiefuncties te gebruiken.** Verzend e-mails of voeg contacten aan de campagnes van Marketo Engage toe door de nieuwe drop-down optie op de rekening of opportuniteits lusjes in plaats van het werken met individuele contacten te gebruiken. Voeg accountcontactpersonen toe aan een lijst met wachtwoorden die u wilt waarschuwen wanneer leads hot worden.
 * **[[!DNL Sales Insight] voor Niet-inheemse  [!DNL Salesforce]  Integraties van CRM](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: De abonnementen van GA met de integratie van douaneSalesforce CRM kunnen het [!DNL Sales Insight] pakket installeren en de hulp verkoopteams voorrang geven en met de meest veelbelovende lood en kansen in wisselwerking staan.
 * **[Beste Bets Verbeteringen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: Snel contacteer hete lood van het Beste lusje van Bets door hen aan een Campagne van Marketo Engage te e-mailen of toe te voegen. Bekijk een lead in Marketo Engage of voeg deze toe aan je controlelijst. Bulkacties en sorteeropties op het tabblad [!UICONTROL Best Bets] besparen tijd en verbeteren de efficiëntie van het verkoopteam.
 
@@ -69,7 +69,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ![ (star) ](assets/yellow-star.png)
 
-* **Verbeter de Throttling van de Verbinding E-mail (BETA)**: Verbeter uw e-mailleverbaarheid en schaal uw 1:1 verkoopmededeling met het Throttling van de Verbinding E-mail voor [!DNL Sales Connect]. Onze nieuwe vertragingstechnologie beheert automatisch de timing van het verzenden van e-mail om naadloze ervaringen voor [!DNL Exchange] en gebruikers van Gmail te creëren. Verlaag of elimineer het gebruik van externe toepassingen voor het verzenden van grote hoeveelheden e-mail.
+* **Verbeter de Throttling van de Verbinding E-mail (BETA)**: Verbeter uw e-mailleverbaarheid en schaal uw 1 :1 verkoopmededeling met het Throttling van de Verbinding E-mail voor [!DNL Sales Connect]. Onze nieuwe vertragingstechnologie beheert automatisch de timing van het verzenden van e-mail om naadloze ervaringen voor [!DNL Exchange] en gebruikers van Gmail te creëren. Verlaag of elimineer het gebruik van externe toepassingen voor het verzenden van grote hoeveelheden e-mail.
 * **het Stuitvolgen van de Bounce van de Verbinding E-mail**: Versterk insight in lood kwaliteit en e-mailmalplaatjeprestaties met het nieuwe e-mailstuitrapport. [!DNL Exchange] en Gmail-gebruikers kunnen ervoor kiezen om stuitberichten te ontvangen die worden weergegeven bij Live Feed, E-mailmappen, Sjabloonanalyse en Campagneanalyse.
 * **de Configuratie van de Pagina van het Profiel**: Beheer gebruikersvoorkeur met gemak in de nieuwe profielpagina. Wijzig het wachtwoord, bewerk de instellingen voor geolocatie en taal en bekijk de integratiestatus op één locatie.
 * **Beheer van Malplaatjes**: Organiseer verkoop e-mailmalplaatjes in categorieën met een nieuwe belemmering-en-dalingseigenschap om snelle toegang tot relevante malplaatjes te verzekeren en onderzoekstijd te verminderen.
@@ -83,4 +83,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 **_Webinar van de Versie van het Product_**
 
-Wilt u meer weten over deze functies en verbeteringen? Ben zeker om [ nu te registreren ](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) om zich bij ons op 21 Januari bij 1:00 PM PT/4:00 PM ET voor een levende webinar met ons productteam aan te sluiten om een diepere duik in deze innovaties te nemen.
+Wilt u meer weten over deze functies en verbeteringen? Ben zeker om [ nu ](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) te registreren om zich bij ons op 21 Januari bij 1 :00 PM PT/4 :00 PM ET voor een levende webinar met ons productteam aan te sluiten om een diepere duik in deze innovaties te nemen.

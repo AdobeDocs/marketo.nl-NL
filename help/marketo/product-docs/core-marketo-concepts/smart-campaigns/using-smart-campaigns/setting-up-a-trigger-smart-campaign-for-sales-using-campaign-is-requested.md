@@ -4,7 +4,7 @@ description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop di
 title: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "de Campagne wordt gevraagd"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerker
 >
 >Voorbeelden van aan te vragen slimme campagnes:
 >
->1. **Langdurige verzorging** - als ze dit jaar geen budget hebben en je wilt gewoon op de radar blijven
->1. **Actieve verkoopcyclus** - wanneer de verkoper geen berichten aan de persoon behalve hun wil. (gebruik de vlag voor geschorste verkoop om deze tijdelijk af te melden)
+>1. **Lange termijnverpleging** - wanneer zij geen begroting dit jaar hebben en u enkel op radar wilt blijven
+>1. **Actieve verkoopcyclus** - wanneer de verkooppersoon geen berichten aan de persoon behalve hun wil. (gebruik de vlag voor geschorste verkoop om deze tijdelijk af te melden)
 >
 >Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe het op!
 
@@ -28,17 +28,17 @@ Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerker
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Zoek en sleep de **[!UICONTROL Campaign is Requested]** activeren op het canvas.
+1. Zoek en sleep de trigger **[!UICONTROL Campaign is Requested]** naar het canvas.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. De bronkeuzen geven aan welk soort verzoek wordt uitgevoerd. Voor Salesforce-functionaliteit moet u **[!UICONTROL Sales Insight]**.
+1. De bronkeuzen geven aan welk soort verzoek wordt uitgevoerd. Voor Salesforce-functionaliteit moet u **[!UICONTROL Sales Insight]** kiezen.
 
    >[!TIP]
    >
-   >De bronoperatoren zijn bedoeld voor beveiliging. U kunt de campagne beperken tot verzoeken die alleen door specifieke bronnen worden gemaakt, zoals andere slimme campagnes of ontwikkelaars. Kies **[!UICONTROL Is Any]** in het eerste vak als u aanvragen van alle bronnen wilt toestaan.
+   >De bronoperatoren zijn bedoeld voor beveiliging. U kunt de campagne beperken tot verzoeken die alleen door specifieke bronnen worden gemaakt, zoals andere slimme campagnes of ontwikkelaars. Kies **[!UICONTROL Is Any]** in het eerste vak als u aanvragen uit alle bronnen wilt toestaan.
    >
-   >_Herinneren_ Door Verkoopinzicht te kiezen, wordt dit op magische wijze weergegeven in de verkoopverpakking. Maak het niet te veel. Te veel worden genegeerd.
+   >_herinner_, door de Verkoop Insight te kiezen, zal het magisch in de doos voor verkoop verschijnen. Maak het niet te veel. Te veel worden genegeerd.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
@@ -46,4 +46,4 @@ Dit is een goede manier om uw marketing bereik tot andere afdelingen uit te brei
 
 >[!TIP]
 >
->Vergeet niet uw slimme campagnes duidelijk te noemen. Ze worden precies in Verkoopcontrole weergegeven.
+>Vergeet niet uw slimme campagnes duidelijk te noemen. Ze worden precies in Verkoopmanager Insight weergegeven.

@@ -4,7 +4,7 @@ description: Marketo Sales Insight installeren en configureren in Microsoft Dyna
 title: Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 2%
@@ -39,7 +39,7 @@ ht-degree: 2%
    >
    >U zou reeds [ geïnstalleerd en gevormd moeten hebben ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de oplossing van Marketo alvorens zich vooruit te bewegen.
 
-1. Klik op **[!UICONTROL Browse]**. Selecteer de [!DNL Marketo Sales Insight] oplossing u [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Browse]**. Selecteer de [!DNL Marketo Sales Insight] oplossing u [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -123,7 +123,7 @@ ht-degree: 2%
 
 Stel gebruikersrollen in om specifieke gebruikers toegang te geven tot [!DNL Sales Insight] .
 
-1. Selecteer **[!UICONTROL Settings]** .
+1. Selecteer **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-4-11-3a30-3a54.png)
 

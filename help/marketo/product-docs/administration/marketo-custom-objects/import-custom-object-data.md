@@ -4,40 +4,40 @@ description: Aangepaste objectgegevens importeren - Marketo Docs - Productdocume
 title: Aangepaste objectgegevens importeren
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
 # Aangepaste objectgegevens importeren {#import-custom-object-data}
 
-Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren. Als u douanevoorwerpen met bedrijven gebruikt, zie [Aangepaste objecten gebruiken met bedrijven](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) voor meer informatie .
+Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren. Als u douanevoorwerpen met bedrijven gebruikt, zie [ Gebruikend de Voorwerpen van de Douane met Bedrijven ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) voor meer informatie.
 
-1. Ga in Mijn Marketo naar **[!UICONTROL Database]**.
+1. Ga in Mijn Marketo naar **[!UICONTROL Database]** .
 
    ![](assets/import-custom-object-data-1.png)
 
-1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL Import Custom Object Data]**.
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL Import Custom Object Data]** .
 
    ![](assets/import-custom-object-data-2.png)
 
-1. Klikken **[!UICONTROL Browse]** om het gegevensbestand te zoeken. Selecteer de bestandsindeling (door komma&#39;s gescheiden waarden in dit voorbeeld).
+1. Klik op **[!UICONTROL Browse]** om het gegevensbestand te zoeken. Selecteer de bestandsindeling (door komma&#39;s gescheiden waarden in dit voorbeeld).
 
    ![](assets/import-custom-object-data-3.png)
 
-1. Selecteer uw [!UICONTROL custom object].
+1. Selecteer de [!UICONTROL custom object] .
 
    ![](assets/import-custom-object-data-4.png)
 
-1. Selecteer [!UICONTROL Dedupe Mode] in de vervolgkeuzelijst. Klik op **[!UICONTROL Next]**.
+1. Selecteer de [!UICONTROL Dedupe Mode] in de vervolgkeuzelijst. Klik op **[!UICONTROL Next]**.
 
    ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
-   >Gebruik het (de) Dedupeveld(en) als unieke herkenningstekens wanneer u douaneobjecten verslagen creeert of bijwerkt. In dit voorbeeld wordt het veld Dedupe van het dialoogvenster **auto** aangepast object - vin (ID voertuig). Als u alleen aangepaste objectrecords bijwerkt, kunt u de optie [!UICONTROL Marketo Guid] als de [!UICONTROL Dedupe Mode].
+   >Gebruik het (de) Dedupeveld(en) als unieke herkenningstekens wanneer u douaneobjecten verslagen creeert of bijwerkt. Dit voorbeeld gebruikt het gebied van de Dedupe van het **auto** douanevoorwerp - vin (het aantal van identiteitskaart van het voertuig). Als u alleen aangepaste objectrecords bijwerkt, kunt u de [!UICONTROL Marketo Guid] selecteren als de [!UICONTROL Dedupe Mode] .
 
 1. Wijs elke kolom aan een gebied van Marketo toe, dat het van drop-down selecteert.
 
@@ -45,7 +45,7 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
    >[!NOTE]
    >
-   >Zorg ervoor dat de waarden in het bestand overeenkomen met het veldtype waarop u deze aansluit (bijvoorbeeld tekst, geheel getal, enzovoort). Anders wordt het bestand geweigerd.
+   >Zorg ervoor dat de waarden in het bestand overeenkomen met het veldtype waarop u deze aansluit (bijvoorbeeld tekst, geheel getal, enz.). Als dit niet het geval is, wordt het bestand geweigerd.
 
 1. Klik op **[!UICONTROL Next]**.
 
@@ -61,7 +61,7 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
    >[!TIP]
    >
-   >Voer uw e-mailadres in het dialoogvenster **[!UICONTROL Send Alert To]** -veld en Marketo sturen je een e-mail wanneer het importeren is voltooid.
+   >Voer uw e-mailadres in het veld **[!UICONTROL Send Alert To]** in en Marketo stuurt een e-mail wanneer het importeren is voltooid.
 
 1. In de rechterbovenhoek van het scherm ziet u een melding als het importeren wordt uitgevoerd en ziet u de uiteindelijke resultaten als het is voltooid.
 
@@ -71,4 +71,4 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
 >[!MORELIKETHIS]
 >
->[Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

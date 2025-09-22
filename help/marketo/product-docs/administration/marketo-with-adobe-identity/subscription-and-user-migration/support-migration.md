@@ -3,7 +3,7 @@ description: Marketo Engage Support Migration - Marketo Docs - Productdocumentat
 title: Marketo Engage-supportmigratie
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%
@@ -20,7 +20,7 @@ De eerste update impliceert de introductie van nieuwe [ Adobe Admin Console ](ht
 
 ## Update en migratie van Marketo Engage Support Portal {#marketo-engage-support-portal}
 
-De tweede update verbetert aanzienlijk de manier waarop u ondersteuningstickets verzendt. Eerder, gebruikte u het [ portaal van de Natie van de 0&rbrace; Marketing om de verzoeken van de Steun voor te leggen. ](https://nation.marketo.com/){target="_blank"} Dit proces wordt verder gestroomlijnd door alle verzendingen voor ondersteuningstickets door te sturen naar de Adobe Experience League. De Marketing Nation blijft voorlopig thuis in de Marketo Engage/Meetlat-gemeenschap. In de nabije toekomst zullen we deze bronnen ook overbrengen naar de Adobe Experience League.
+De tweede update verbetert aanzienlijk de manier waarop u ondersteuningstickets verzendt. Eerder, gebruikte u het [ portaal van de Natie van de 0} Marketing om de verzoeken van de Steun voor te leggen. ](https://nation.marketo.com/){target="_blank"} Dit proces wordt verder gestroomlijnd door alle verzendingen voor ondersteuningstickets door te sturen naar de Adobe Experience League. De Marketing Nation blijft voorlopig thuis in de Marketo Engage/Meetlat-gemeenschap. In de nabije toekomst zullen we deze bronnen ook overbrengen naar de Adobe Experience League.
 
 ## Wat verandert er? {#whats-changing}
 
@@ -32,7 +32,7 @@ De tweede update verbetert aanzienlijk de manier waarop u ondersteuningstickets 
 >
 >Geautoriseerde contactpersonen zijn productondersteuningsbeheerders in Adobe.
 
-* **Gewoonlijke Migratie** - de Open gevallen zullen in de Liga van de Ervaring van Adobe zichtbaar zijn en alle eerder gesloten gevallen zullen worden gearchiveerd. Deze migratie zal **&#x200B;**&#x200B;niet het de dienstniveau van uw open geval(en) beïnvloeden.
+* **Gewoonlijke Migratie** - de Open gevallen zullen in de Liga van de Ervaring van Adobe zichtbaar zijn en alle eerder gesloten gevallen zullen worden gearchiveerd. Deze migratie zal **** niet het de dienstniveau van uw open geval(en) beïnvloeden.
 
 ## Hoe weet ik wanneer de migratie van de Steun is voltooid? {#support-migration-has-been-completed}
 
@@ -40,11 +40,11 @@ De migratie naar ondersteuning vindt plaats nadat de migratie van uw gebruiker v
 
 ## Aanvullende bronnen {#additional-resources}
 
-* Leer hoe u [ Adobe Admin Console kunt gebruiken om uw rechten van Adobe ](https://helpx.adobe.com/nl/enterprise/using/admin-roles.html){target="_blank"} over uw volledige organisatie te beheren.
+* Leer hoe u [ Adobe Admin Console kunt gebruiken om uw rechten van Adobe ](https://helpx.adobe.com/enterprise/using/admin-roles.html){target="_blank"} over uw volledige organisatie te beheren.
 
 * Meer informatie over hoe te login aan Marketo Engage met Adobe ID [ kan hier worden gevonden ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Leer meer over [ de Liga van de Ervaring van Adobe ](https://experienceleague.adobe.com/nl){target="_blank"}.
+* Leer meer over [ de Liga van de Ervaring van Adobe ](https://experienceleague.adobe.com/){target="_blank"}.
 
 ## Heb je nog vragen? {#still-have-questions}
 

@@ -4,7 +4,7 @@ description: Wat is de integratie van Sales Connect en Highspot? - Marketo Docs 
 title: Wat is de integratie van Sales Connect en Highspot?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Als deze optie is ingeschakeld, wordt hier uitgelegd hoe u toegang krijgt tot de
 
 1. Kies [!DNL Sales Connect] wanneer u een e-mailbericht samenstelt in [!DNL Outlook] of **[!UICONTROL Add Content]** .
 
-1. Selecteer **[!UICONTROL Highspot]** .
+1. Selecteer **[!UICONTROL Highspot]**.
 
 1. Voer uw [!DNL Highspot] -account in en klik op **[!UICONTROL Continue]** .
 

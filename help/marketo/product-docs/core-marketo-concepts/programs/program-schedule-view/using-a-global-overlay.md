@@ -4,7 +4,7 @@ description: Een algemene overlay gebruiken - Marketo Docs - Productdocumentatie
 title: Een algemene overlay gebruiken
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Met de algemene overlay in de programmaweergave van het programma kunt u uw prog
 
 >[!PREREQUISITES]
 >
->U moet een [Licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} om deze functie te gebruiken.
+>U moet de vergunning van de Kalender van de a [ Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} hebben om deze eigenschap te gebruiken.
 
 ## De algemene overlay gebruiken {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ Met de algemene overlay in de programmaweergave van het programma kunt u uw prog
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Selecteren **[!UICONTROL Overlay]** in de rechterbenedenhoek.
+1. Selecteer **[!UICONTROL Overlay]** in de rechterbenedenhoek.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +39,9 @@ Met de algemene overlay in de programmaweergave van het programma kunt u uw prog
 
 ## Een opgeslagen filter gebruiken als overlay {#use-a-saved-filter-as-an-overlay}
 
-Als je [een filter opgeslagen in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, kunt u het als bedekking in de mening van het programmaprogramma gebruiken.
+Als u [ een filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} hebt bewaard, kunt u het als bekleding in de mening van het programmaprogramma gebruiken.
 
-1. Klik op de knop **[!UICONTROL Overlay]** en selecteert u de filterdefinitie.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Overlay]** en selecteer de filterdefinitie.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
@@ -51,4 +51,4 @@ Als je [een filter opgeslagen in de marketingkalender](/help/marketo/product-doc
 
    >[!MORELIKETHIS]
    >
-   >[Aangepaste overlays maken in de programmaweergave van het programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}
+   >[ Creërend de Bedekkingen van de Douane in de Mening van het Programma van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

@@ -4,7 +4,7 @@ description: Bewerkingen in de programmaplanningweergave - Marketo Docs - Produc
 title: Bewerkingangen in de programmaweergave
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -21,7 +21,7 @@ U kunt de verschillende elementen van uw programma in de planningsmening uitgeve
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Typ een nieuwe naam en druk op **[!UICONTROL Enter/Return]** op uw toetsenbord om de wijziging te bevestigen.
+1. Typ een nieuwe naam en druk op **[!UICONTROL Enter/Return]** op het toetsenbord om de wijziging te bevestigen.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 

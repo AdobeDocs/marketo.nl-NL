@@ -3,7 +3,7 @@ description: Verkoop Insight Access toevoegen aan profielen - Marketo Docs - Pro
 title: Insight-toegang voor verkoop toevoegen aan profielen
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Als u een specifiek profiel voor uw [!DNL Sales Insight] -gebruikers hebt, kunt 
 
 1. Ga terug naar de sectie Pagina-indelingen en klik op de knop **[!UICONTROL Page Layout Assignment]** .
 
-1. Selecteer **[!UICONTROL Edit Assignment]** .
+1. Selecteer **[!UICONTROL Edit Assignment]**.
 
 1. Selecteer uw [!DNL Sales Insight] profiel van de lijst, dan selecteer uw [!DNL Sales insight] lay-out van &quot;[!UICONTROL Select Page Layout]&quot;drop-down.
 

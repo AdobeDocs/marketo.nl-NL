@@ -4,10 +4,10 @@ description: Verklarende woordenlijst van slimme-lijstfilteroperatoren - Marketo
 title: Verklarende woordenlijst voor slimme-lijstfilteroperatoren
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -118,7 +118,7 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!CAUTION]
 >
->Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de beperkingen **[!UICONTROL before]**, **[!UICONTROL on or before]** of **[!UICONTROL in past before]** gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
+>Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Gemaakt op SFDC) en de beperkingen **[!UICONTROL before]**, **[!UICONTROL on or before]** of **[!UICONTROL in past before]** gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
 
 Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrijpen.
 

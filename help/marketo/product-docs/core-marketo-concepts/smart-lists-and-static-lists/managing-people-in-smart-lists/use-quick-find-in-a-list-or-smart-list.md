@@ -4,7 +4,7 @@ description: Snel zoeken gebruiken in een lijst of slimme lijst - Marketo Docs -
 title: Snel zoeken gebruiken in een lijst of slimme lijst
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Zoek een persoon uit de resultaten van een lijst of Slimme Lijst gebruikend snel vinden.
 
-1. Ga naar **[!UICONTROL Marketing Activities]**.
+1. Ga naar **[!UICONTROL Marketing Activities]** .
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de slimme lijst die u wilt doorzoeken en klik op de knop **[!UICONTROL People]** tab.
+1. Selecteer de slimme lijst die u wilt doorzoeken en klik op de tab **[!UICONTROL People]** .
 
    ![](assets/smartlistpeople.png)
 
 ## Personen zoeken met persoonlijke informatie {#find-people-using-personal-info}
 
-1. In de **[!UICONTROL Quick Find]** onder aan het scherm typt u een sleutelwoord (**persoonlijke naam**, **mailadres**, of **functie**).
+1. In het **[!UICONTROL Quick Find]** vakje bij de bodem van het scherm, typ een zeer belangrijk woord (**persoonlijke naam**, **e-mailadres**, of **baantitel**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Zoek een persoon uit de resultaten van een lijst of Slimme Lijst gebruikend snel
 
 ## Personen zoeken met een bedrijfsnaam {#find-people-using-a-company-name}
 
-1. Om een bedrijf te vinden, typ `[company]` in het vakje van de Snelle Vondst, gevolgd door om het even welk deel van de bedrijfsnaam u zoekt.
+1. Als u een bedrijf wilt zoeken, typt u `[company]` in het vak Snel zoeken, gevolgd door een gedeelte van de bedrijfsnaam waarnaar u zoekt.
 
    ![](assets/supersmartlistsearch.jpg)
 

@@ -4,14 +4,14 @@ description: Opmerkingen bij de release - juni 2013 - Marketo Docs - Productdocu
 title: Release-aantekeningen -juni 2013
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Juni 2013 {#release-notes-june}
+# Opmerkingen bij de release: juni 2013 {#release-notes-june}
 
 De volgende functies zijn opgenomen in de release van juni.
 
@@ -23,7 +23,7 @@ Bekijk de Marketo Lead Management interface in de taal van uw voorkeur, die nu S
 
 ## Kobalt-gebruikersinterface {#cobalt-user-interface}
 
-In de komende maanden zult u een nieuw thema zien dat in verschillende delen van de toepassing wordt geïntroduceerd; invloed hebben op bijvoorbeeld modale vensters.
+In de komende maanden zult u een nieuw thema zien dat in verschillende delen van de toepassing wordt geïntroduceerd; beïnvloedend bijvoorbeeld modale vensters.
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 

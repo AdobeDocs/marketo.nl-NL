@@ -4,7 +4,7 @@ description: Aflevering van e-mailprogramma's die zijn gepland met de tijdzone v
 title: Aflevering van e-mailprogramma's afbreken die met de tijdzone van de ontvanger zijn gepland
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%

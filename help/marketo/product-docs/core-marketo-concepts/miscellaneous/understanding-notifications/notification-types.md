@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Meldingstypen - Marketo Docs - Productdocumentatie
 title: Typen meldingen
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 1%
@@ -60,4 +60,4 @@ U wordt op de hoogte gesteld wanneer u uw dagelijkse quotum bereikt. De quota wo
 
 >[!NOTE]
 >
->Sommige foutencodes u kunt ontvangen worden geschetst in onze [ Documentatie van de Ontwikkelaar ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/error-codes).
+>Sommige foutencodes u kunt ontvangen worden geschetst in onze [ Documentatie van de Ontwikkelaar ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

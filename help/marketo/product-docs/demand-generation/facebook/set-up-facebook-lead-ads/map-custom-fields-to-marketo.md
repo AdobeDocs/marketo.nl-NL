@@ -4,7 +4,7 @@ description: Aangepaste velden toewijzen aan Marketo - Marketo Docs - Productdoc
 title: Aangepaste velden toewijzen aan Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Mogelijk wilt u meer dan de standaardgegevens verzamelen die [!DNL Facebook] standaard opslaat, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit verwezenlijken door [ het creëren van douanevragen ](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in uw [!DNL Facebook] lood advertenties.
 
-Nochtans, **Marketo zal niet automatisch beginnen deze gegevens** te verzamelen. Opdat Marketo begint de waarden van het douanegebied te vangen, moet u **&#x200B;**&#x200B;die douanegebieden aan een gebied in Marketo in kaart brengen.
+Nochtans, **Marketo zal niet automatisch beginnen deze gegevens** te verzamelen. Opdat Marketo begint de waarden van het douanegebied te vangen, moet u **** die douanegebieden aan een gebied in Marketo in kaart brengen.
 
 Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin.
 

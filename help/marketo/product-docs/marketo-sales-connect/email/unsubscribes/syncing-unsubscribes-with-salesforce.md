@@ -4,10 +4,10 @@ description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Product
 title: Abonnementen synchroniseren met Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -70,7 +70,7 @@ E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren
 
    ![](assets/seven-1.png)
 
-1. Selecteer **[!UICONTROL Page Layouts]** .
+1. Selecteer **[!UICONTROL Page Layouts]**.
 
    ![](assets/eight-1.png)
 
@@ -78,7 +78,7 @@ E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren
 
    ![](assets/nine.png)
 
-1. Selecteer **[!UICONTROL Fields]** .
+1. Selecteer **[!UICONTROL Fields]**.
 
    ![](assets/ten.png)
 

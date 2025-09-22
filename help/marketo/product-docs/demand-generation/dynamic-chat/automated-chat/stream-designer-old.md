@@ -4,7 +4,7 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1103'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Stream Designer {#stream-designer}
 
-Er zijn _veel_ streamcombinaties mogelijk. Dit artikel bevat een voorbeeld waarin de marketeter de sitebezoeker vraagt of hij productvragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Ze krijgen ook een gratis PDF aangeboden. Het uiteindelijke doel is of een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
+Er zijn _vele_ mogelijke stroomcombinaties. Dit artikel bevat een voorbeeld waarin de marketeter de sitebezoeker vraagt of hij productvragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Ze krijgen ook een gratis PDF aangeboden. Het uiteindelijke doel is of een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
 
 >[!PREREQUISITES]
 >
->Voordat u de documentkaart kunt gebruiken, moet u eerst [instellen](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in uw Adobe account.
+>Alvorens u de kaart van het Document kunt gebruiken, moet u het eerst [ opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in uw rekening van Adobe.
 
-## Streaming Designer-kaarten {#stream-designer-cards}
+## Designer-kaarten streamen {#stream-designer-cards}
 
-De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het praatjegesprek te vormen.
+De stroom Designer bevat veelvoudige kaarten u kunt toevoegen om het praatjegesprek te vormen.
 
 <table>
  <tr>
@@ -43,7 +43,7 @@ De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het pra
  </tr>
  <tr>
   <td style="width:25%"><strong>Vergaderingreservering</strong></td>
-  <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels. Klikken <b>Kenmerk toevoegen</b> als u de naam of het e-mailadres van de agent wilt vastleggen en dit aan de persoonlijke record van de bezoeker van de chat wilt toewijzen voor toekomstig opvragen (tip: maak een <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepast veld</a> om de informatie van de agent aan zoals in kaart te brengen om een standaardgebied van het Marketo Engage niet te beschrijven).</td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een vergadering te plannen. Kies de kalenderbeschikbaarheid via ronde lijn, een specifieke agent, of het gebruiken van douaneregels. Klik <b> voeg Attribuut </b> toe als u de naam of e-mailadres van de agent wilt vangen en het aan het de persoonverslag van de praatjebezoeker voor toekomstig het vragen (uiteinde: creeer a <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank"> douanegebied </a> om de informatie van de agent aan in kaart te brengen zoals om een standaard gebied van Marketo Engage niet te beschrijven) toe.</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Doel</strong></td>
@@ -51,8 +51,8 @@ De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het pra
  </tr>
  <tr>
   <td style="width:25%"><strong>Actie*</strong></td>
-  <td>Vergelijkbaar met verborgen velden in een formulier, kunt u met de actiekaart elk lead- of bedrijfskenmerk vullen (met een <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">gegevenstype tekenreeks</a>) met impliciete waarden die u wilt vastleggen op basis van een hoofdrecord. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.
-  <p><i>* Voor de actiekaart is de Dynamic Chat-premier vereist. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.</i></td>
+  <td>Gelijkaardig aan verborgen gebieden in een vorm, met de actiekaart kunt u om het even welk lood of bedrijfattribuut (dat a <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string"> type van koordgegevens </a>) met impliciete waarden bevolken die u tegen een loodverslag zou willen vangen. U kunt de actiekaart op elk punt in het gesprek toevoegen en respectieve attributen met een waarde of inheemse tokens bijwerken die automatisch de respectieve waarde bevolken.
+  <p><i>* Voor de actiekaart is Dynamic Chat Prime vereist. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live Chat</strong></td>
@@ -62,9 +62,9 @@ De Ontwerper van de Stroom bevat veelvoudige kaarten u kunt toevoegen om het pra
  </tr>
 </table>
 
-## Stroom Designer-pictogrammen {#stream-designer-icons}
+## Designer-pictogrammen streamen {#stream-designer-icons}
 
-Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze doen.
+Rechtsboven in de Stream Designer ziet u een handvol pictogrammen. Dit is wat ze doen.
 
 <table>
  <tr>
@@ -91,73 +91,73 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
 
 ## Een stream maken {#create-a-stream}
 
-U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In dit voorbeeld maken we er een voor een dialoogvenster.
+U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In dit voorbeeld maken we er een voor een dialoogvenster.
 
-1. Na u hebt [heeft uw dialoogvenster gemaakt](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}klikt u op de knop **[!UICONTROL Stream Designer]** tab.
+1. Nadat u [ uw Dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} hebt gecreeerd, klik het **[!UICONTROL Stream Designer]** lusje.
 
    ![](assets/stream-designer-6.png)
 
-1. Sleep de [!UICONTROL Question] kaart.
+1. Sleep de [!UICONTROL Question] -kaart en zet deze neer.
 
    ![](assets/stream-designer-7.png)
 
-1. Onder [!UICONTROL Chatbot Response]Zeg je vraag hoe je wilt.
+1. Geef onder [!UICONTROL Chatbot Response] aan hoe u wilt.
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >U kunt de ervaring voor bekende chatsbezoekers aanpassen door tokens te gebruiken (bijvoorbeeld: Hello `{{lead.leadFirstName:""}}`). Klik gewoon op het pictogram voor het accolade rechts en maak een selectie. Voeg een standaardwaarde tussen de quots toe als u anonieme bezoekers iets soorts wilt zien (bijvoorbeeld: Hello `{{lead.leadFirstName:"there"}}`).
+   >U kunt de ervaring voor bekende chatsbezoekers aanpassen door tokens te gebruiken (bijvoorbeeld: Hello `{{lead.leadFirstName:""}}`). Klik gewoon op het pictogram voor het accolade rechts en maak een selectie. Voeg een standaardwaarde tussen de quoates toe als u anonieme bezoekers iets soortgelijks wilt laten zien (bijvoorbeeld: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
    >Poke is standaard ingesteld op Aan, waardoor de openingsvraag naast het chatpictogram wordt weergegeven zonder dat de bezoeker erop moet klikken om deze te zien. Poke is slechts beschikbaar op de eerste kaart in het gesprek.
 
-1. Voer uw gebruikersreacties in en klik op **[!UICONTROL Save]**.
+1. Voer uw gebruikersreacties in en klik op **[!UICONTROL Save]** .
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL Edit Stored Values]** Dit is een optionele stap voor diegenen die een andere waarde in de database willen opslaan dan wat bezoekers in de chatbot krijgen te zien voor toegewezen kenmerken in de vraagkaart (bezoekers zien bijvoorbeeld &quot;Zoekmachine optimaliseren&quot;, en slaan die waarde op als &quot;SEO.&quot;).
+   >**[!UICONTROL Edit Stored Values]** is een optionele stap voor gebruikers die een andere waarde in de database willen opslaan dan de waarde die bezoekers in de chatbot krijgen weergegeven voor toegewezen kenmerken in de vraagkaart (bezoekers zien bijvoorbeeld &#39;Zoekmachine optimaliseren&#39;, en slaan die waarde op als &#39;SEO&#39;.)
 
 1. Voor &quot;ja&quot;willen wij een benoeming plannen, zodat onder die optie belemmering over de kaart van de Planner van de Benoeming.
 
    ![](assets/stream-designer-10.png)
 
-1. Klik in de rechterkolom op **[!UICONTROL Save]**.
+1. Klik in de kolom aan de rechterkant op **[!UICONTROL Save]** .
 
    ![](assets/stream-designer-11.png)
 
-1. Aangezien dat een doel is, sleept u de [!UICONTROL Goal] kaart onder de benoemingsplanner.
+1. Aangezien dat een doel is, sleept u de [!UICONTROL Goal] -kaart onder de Planner voor benoemingen.
 
    ![](assets/stream-designer-12.png)
 
-1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]**.
+1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]** .
 
    ![](assets/stream-designer-13.png)
 
-1. Voor &quot;Nee&quot; willen we zien of ze zich bij de mailinglijst voegen. Sleep dus onder deze optie over een andere lijst [!UICONTROL Question] kaart.
+1. Voor &quot;Nee&quot; willen we zien of ze zich bij de mailinglijst voegen. Sleep dus onder deze optie over een andere [!UICONTROL Question] -kaart.
 
    ![](assets/stream-designer-14.png)
 
-1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klikken **[!UICONTROL Save]** wanneer gereed.
+1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klik op **[!UICONTROL Save]** als u klaar bent.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >U kunt meer reacties toevoegen door op **[!UICONTROL Add Response]**.
+   >U kunt meer reacties toevoegen door op **[!UICONTROL Add Response]** te klikken.
 
 1. Onder het antwoord &quot;Ja&quot; sleept u over de kaart voor het vastleggen van gegevens, zodat u de e-mail van de bezoeker kunt verzamelen.
 
    ![](assets/stream-designer-16.png)
 
-1. Klik op de knop **[!UICONTROL Type]** vervolgkeuzelijst en selecteer **[!UICONTROL Email]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Type]** en selecteer **[!UICONTROL Email]** .
 
    ![](assets/stream-designer-17.png)
 
-1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in het Marketo Engage en klik op **[!UICONTROL Save]**.
+1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het desbetreffende veld in Marketo Engage en klik op **[!UICONTROL Save]** .
 
    ![](assets/stream-designer-18.png)
 
@@ -176,15 +176,15 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
     </tr>
     <tr>
      <td style="width:30%"><strong>Reactie toewijzen aan kenmerk</strong></td>
-     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Persoonlijke record in uw abonnement op het Marketo Engage.</td>
+     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Person-record in uw Marketo Engage-abonnement.</td>
     </tr>
    </table>
 
-1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de [!UICONTROL Goal] kaart onder Info vastleggen.
+1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de [!UICONTROL Goal] -kaart onder Info Vastleggen.
 
    ![](assets/stream-designer-19.png)
 
-1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]**.
+1. Geef uw doel een naam (of kies een bestaand doel) en klik op **[!UICONTROL Save]** .
 
    ![](assets/stream-designer-20.png)
 
@@ -192,24 +192,24 @@ U kunt streams maken voor dialoogvensters of [Gesprek Forms](/help/marketo/produ
 
    ![](assets/stream-designer-21.png)
 
-1. In dit voorbeeld maken we een nieuw document. Geef deze een naam, voer de URL in naar de PDF die u al hebt gehost en klik op **[!UICONTROL Save]**.
+1. In dit voorbeeld maken we een nieuw document. Geef deze een naam, voer de URL in naar de PDF die u al hebt gehost en klik op **[!UICONTROL Save]** .
 
    ![](assets/stream-designer-22.png)
 
-1. Selecteer de **[!UICONTROL Preview]** schakelen om een voorvertoning van het dialoogvenster weer te geven.
+1. Selecteer de schakeloptie **[!UICONTROL Preview]** om een voorvertoning van het dialoogvenster weer te geven.
 
    ![](assets/stream-designer-23.png)
 
-1. Als u klaar bent om uw dialoogvenster te activeren, klikt u op **[!UICONTROL Publish]**.
+1. Klik op **[!UICONTROL Publish]** als u klaar bent om uw dialoogvenster te activeren.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Voordat u klikt [!UICONTROL Publish], vergeet niet om te controleren of u [doel-URL(&#39;s) ingevoerd](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Alvorens [!UICONTROL Publish] te klikken, herinner me om ervoor te zorgen u [ uw doel URL(s) ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} hebt ingegaan.
 
 >[!MORELIKETHIS]
 >
->* [Een dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Adobe PDF Embed-API](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [ creeer een Dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [ Criteria van de Publiek ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [ Adobe PDF bed API ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in

@@ -4,7 +4,7 @@ description: SEO - Een site toevoegen/een site verwijderen - Marketo Docs - Prod
 title: SEO - Een site toevoegen/een site verwijderen
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -17,15 +17,15 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
 >[!AVAILABILITY]
 >
->Niet alle gebruikers van het Marketo Engage hebben deze functionaliteit aangeschaft. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor meer informatie.
+>Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 
-1. Klik op de vervolgkeuzelijst Beheerder en selecteer **[!UICONTROL Admin]**.
+1. Klik op de vervolgkeuzelijst Beheer en selecteer **[!UICONTROL Admin]** .
 
    >[!NOTE]
    >
-   >**Beheerdersmachtigingen vereist**
+   >**Vereiste Bevoegdheden Admin**
 
    ![](assets/one.png)
 
@@ -33,11 +33,11 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
    ![](assets/two.png)
 
-1. Voer de **[!UICONTROL Name],[!UICONTROL Website URL]** en klik op **[!UICONTROL Save]**.
+1. Voer **[!UICONTROL Name],[!UICONTROL Website URL]** in en klik op **[!UICONTROL Save]** .
 
    >[!TIP]
    >
-   >U kunt ook een **[!UICONTROL Blog URL]** als je er een hebt.
+   >U kunt ook een **[!UICONTROL Blog URL]** toevoegen als u er een hebt.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -49,7 +49,7 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
 Als u meerdere sites bijhoudt, kunt u ook een site verwijderen die u niet meer wilt optimaliseren.
 
-1. Klik op de vervolgkeuzelijst Beheerder en selecteer **[!UICONTROL Admin]**.
+1. Klik op de vervolgkeuzelijst Beheer en selecteer **[!UICONTROL Admin]** .
 
    ![](assets/one.png)
 
@@ -61,10 +61,10 @@ Als u meerdere sites bijhoudt, kunt u ook een site verwijderen die u niet meer w
 
    ![](assets/seven.png)
 
-1. Bevestig dat u wilt **[!UICONTROL Delete]**.
+1. Bevestig dat u **[!UICONTROL Delete]** wilt.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >U kunt een site alleen verwijderen als u meerdere sites hebt. Als u slechts één site hebt, kunt u een reset uitvoeren door de site te selecteren en op **[!UICONTROL Reset]**. Als u een site opnieuw instelt, wordt _alle sitegegevens verwijderen_ en maak de site opnieuw.
+   >U kunt een site alleen verwijderen als u meerdere sites hebt. Als u slechts één site hebt, kunt u een reset uitvoeren door de site te selecteren en op **[!UICONTROL Reset]** te klikken. Het terugstellen van een plaats zal _alle plaatsgegevens_ schrappen en de plaats ontspannen.

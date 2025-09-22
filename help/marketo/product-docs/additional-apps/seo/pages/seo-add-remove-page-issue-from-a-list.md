@@ -4,7 +4,7 @@ description: SEO - Pagina-probleem toevoegen/verwijderen uit een lijst - Marketo
 title: SEO - Pagina-uitgave toevoegen/verwijderen uit een lijst
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%
@@ -17,11 +17,11 @@ U kunt uw pagina-uitgaven ordenen in lijsten. U kunt ook pagina-uitgaven uit een
 
 ## Pagina-problemen toevoegen aan een lijst {#add-page-issues-to-a-list}
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Op de **[!UICONTROL Pages]** tabblad, klikt u op **[!UICONTROL Issues]**.
+1. Klik op het tabblad **[!UICONTROL Pages]** op **[!UICONTROL Issues]** .
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
@@ -35,15 +35,15 @@ U kunt uw pagina-uitgaven ordenen in lijsten. U kunt ook pagina-uitgaven uit een
 
    >[!TIP]
    >
-   >U kunt ook een nieuwe lijst maken voor het trefwoord dat u wilt gebruiken. Typ uw gewenste naam in **[!UICONTROL Create a new list]**.
+   >U kunt ook een nieuwe lijst voor uw trefwoord maken. Typ gewoon uw gewenste naam in **[!UICONTROL Create a new list]** .
 
 ## Pagina-uitgave uit een lijst verwijderen {#remove-page-issue-from-a-list}
 
-1. Ga naar de **[!UICONTROL Pages]** sectie.
+1. Ga naar de sectie **[!UICONTROL Pages]** .
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Klik op het tabblad Pagina&#39;s op **[!UICONTROL Issues]**.
+1. Klik op het tabblad Pagina&#39;s op **[!UICONTROL Issues]** .
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 

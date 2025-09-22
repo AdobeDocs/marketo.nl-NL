@@ -4,7 +4,7 @@ description: Personen in uw gebeurtenis inchecken via uw tablet - Marketo Docs -
 title: Personen in uw gebeurtenis controleren via uw tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%

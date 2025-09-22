@@ -4,7 +4,7 @@ description: De insteekmodule Sales Connect Email voor Gmail - Marketo Docs - Pr
 title: De insteekmodule Sales Connect Email voor Gmail installeren
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Leer hoe u de Gmail-plug-in installeert.
 
 >[!IMPORTANT]
 >
->De e-mailplug-ins voor Gmail en Outlook worden alleen ondersteund voor Marketo Sales Connect-gebruikers. Zij worden **niet** gesteund voor de gebruikers van de Acties van het Inzicht van de Verkoop.
+>De e-mailplug-ins voor Gmail en Outlook worden alleen ondersteund voor Marketo Sales Connect-gebruikers. Zij worden **niet** gesteund voor de gebruikers van de Acties van Insight van de Verkoop.
 
 1. In de [ Webtoepassing ](https://toutapp.com/next#settings), klik het tandwielpictogram en klik **[!UICONTROL Settings]**.
 
