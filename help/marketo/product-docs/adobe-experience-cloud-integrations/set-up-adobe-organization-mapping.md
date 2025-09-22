@@ -36,7 +36,7 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Ga uw identiteitskaart van de Org van Adobe IMS in (leer hoe te om dat [ hier ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"} te vinden) en **[!UICONTROL OK]** te klikken.
+1. Ga uw identiteitskaart van de Org van Adobe IMS in (leer hoe te om dat [ hier ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=nl-NL){target="_blank"} te vinden) en **[!UICONTROL OK]** te klikken.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

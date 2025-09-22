@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 1C {#template-1c}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 1C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 1C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=nl-NL)
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 1C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+[ Malplaatje 1C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=nl-NL)

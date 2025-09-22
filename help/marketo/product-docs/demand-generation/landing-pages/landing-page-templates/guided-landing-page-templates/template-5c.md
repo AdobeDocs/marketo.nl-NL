@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Template 5C {#template-5c}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 5C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 5C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=nl-NL)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 5C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
+[ Malplaatje 5C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=nl-NL)

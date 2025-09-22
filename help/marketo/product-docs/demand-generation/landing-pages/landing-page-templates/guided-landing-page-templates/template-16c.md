@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 16C {#template-16c}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 16C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 16C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=nl-NL)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 16C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
+[ Malplaatje 16C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=nl-NL)

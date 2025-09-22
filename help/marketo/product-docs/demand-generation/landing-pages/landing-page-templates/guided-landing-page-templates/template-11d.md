@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 11D {#template-11d}
 
-Klik met de rechtermuisknop aan [ downloadMalplaatje 11D ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+Klik met de rechtermuisknop aan [ downloadMalplaatje 11D ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=nl-NL)
 
 ![](assets/template-11d.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 11D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)
+[ Malplaatje 11D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=nl-NL)

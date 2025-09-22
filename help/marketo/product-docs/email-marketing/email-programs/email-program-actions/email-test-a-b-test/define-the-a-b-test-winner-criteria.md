@@ -40,7 +40,7 @@ Wanneer [ toevoegend een test A/B ](/help/marketo/product-docs/email-marketing/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank"> betrokkenheidsscore </a> helpt u de doeltreffendheid van uw inhoud bepalen.</td>
+   <td>De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=nl-NL" target="_blank"> betrokkenheidsscore </a> helpt u de doeltreffendheid van uw inhoud bepalen.</td>
    </tr>
    </table>
 

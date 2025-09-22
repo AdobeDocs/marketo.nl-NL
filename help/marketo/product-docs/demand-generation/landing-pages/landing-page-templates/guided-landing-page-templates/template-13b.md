@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 13B {#template-13b}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 13B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 13B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=nl-NL)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 13B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
+[ Malplaatje 13B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=nl-NL)

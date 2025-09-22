@@ -86,10 +86,10 @@ Bespaar tijd door creatieve elementen en afbeeldingen op meerdere kanalen in Mar
 
 ## Integratie  {#integration}
 
-**[E-mailVoorproef API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[E-mailVoorproef API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting)**
 
 U kunt nu op afstand een voorbeeld van een e-mailbericht buiten Marketo bekijken, het lokalisatieproces voor e-mailinhoud vereenvoudigen en fouten reduceren.
 
-**[vervangt HTML API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[vervangt HTML API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting)**
 
 Ontwikkelaars kunnen HTML-inhoud van e-mailmiddelen op afstand bijwerken, zodat ze binnen één systeem kunnen werken om elementen te onderhouden.

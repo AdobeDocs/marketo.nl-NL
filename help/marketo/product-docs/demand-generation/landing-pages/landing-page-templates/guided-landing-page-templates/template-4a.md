@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 4A {#template-4a}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 4A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 4A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=nl-NL)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 4A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
+[ Malplaatje 4A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=nl-NL)

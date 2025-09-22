@@ -35,7 +35,7 @@ Wanneer u een teste-mailbericht verzendt vanuit [!DNL Sales Insight] , worden de
 
 ## REST-API voor lead {#lead-rest-api}
 
-Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [ tot de douanedienst ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo leiden. Dan hoofd over aan de [ plaats van ontwikkelaars ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) voor details bij het gebruiken van dit API.
+Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [ tot de douanedienst ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo leiden. Dan hoofd over aan de [ plaats van ontwikkelaars ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) voor details bij het gebruiken van dit API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 

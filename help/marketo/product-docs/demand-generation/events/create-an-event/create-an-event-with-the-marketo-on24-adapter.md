@@ -22,7 +22,7 @@ U moet bekend zijn met de bouwstenen en de aanbevolen volgorde voor het maken va
 
 >[!NOTE]
 >
->Gelieve te verwijzen naar de [ Marketo API documentatie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} voor meer informatie over Marketo APIs.
+>Gelieve te verwijzen naar de [ Marketo API documentatie ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} voor meer informatie over Marketo APIs.
 
 ## Vereisten {#prerequisites}
 

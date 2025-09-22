@@ -24,7 +24,7 @@ Het Dynamic Chat JavaScript-fragment kan zowel op elke website als op Marketo La
 
 **hoe lang wordt het gegeven voor het melden opgeslagen?**
 
-90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te bezoeken.
+90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te bezoeken.
 
 **steunt Dynamic Chat om het even welke talen naast Engels?**
 

@@ -47,7 +47,7 @@ Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor 
 
 ## De JavaScript-code aanpassen en in uw website insluiten  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Verwijs naar de documentatie voor het Rich malplaatje van de Aanbeveling van Media [ op de plaats van de Ontwikkelaars van Marketo ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
+Verwijs naar de documentatie voor het Rich malplaatje van de Aanbeveling van Media [ op de plaats van de Ontwikkelaars van Marketo ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
 
 Plak de JavaScript-code in uw website op de locatie waar u de sjabloon wilt weergeven.
 

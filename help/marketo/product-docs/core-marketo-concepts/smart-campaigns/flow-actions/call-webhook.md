@@ -23,7 +23,7 @@ Met webhaks kunt u communiceren met services van derden. Verzend/ontvang informa
 
 >[!NOTE]
 >
->Leer over de vele fascinerende dingen die [ Webhooks ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} voor u kan doen.
+>Leer over de vele fascinerende dingen die [ Webhooks ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} voor u kan doen.
 
 1. Selecteer een Webhaak van drop-down.
 
