@@ -41,7 +41,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
   </tr>
    <tr>
-   <td><strong> de Compute Dienst van de Stap van de Stroom van de Formule 1}: De computer vormt de dienst van de Stap van de Stroom die op het Runtime van Adobe wordt gebouwd IO voor gebruik met de Slimme Campagnes van Marketo Engage. </strong> Diegenen met IO-runtime kunnen de service implementeren en installeren op hun Marketo Engage-abonnementen, zodat ze Excel-achtige formules kunnen berekenen in Marketo Engage Smart Campaigns.</td>
+   <td><strong> de Compute Dienst van de Stap van de Stroom van de Formule 1&rbrace;: De computer vormt de dienst van de Stap van de Stroom die op het Runtime van Adobe wordt gebouwd IO voor gebruik met de Slimme Campagnes van Marketo Engage. </strong> Diegenen met IO-runtime kunnen de service implementeren en installeren op hun Marketo Engage-abonnementen, zodat ze Excel-achtige formules kunnen berekenen in Marketo Engage Smart Campaigns.</td>
    <td>Verzonden</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Gebruikershandleiding voor de formule berekenen</a></td>
   </tr>

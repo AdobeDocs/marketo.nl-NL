@@ -32,7 +32,7 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    ![](assets/scheduling-an-email-4.png)
 
-1. Nu uw geplande datum/tijd wordt geselecteerd, verzendt de klik **** om e-mail te plannen.
+1. Nu uw geplande datum/tijd wordt geselecteerd, verzendt de klik **&#x200B;**&#x200B;om e-mail te plannen.
 
    ![](assets/scheduling-an-email-5.png)
 

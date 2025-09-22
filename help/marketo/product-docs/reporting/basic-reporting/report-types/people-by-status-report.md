@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Rapport Personen per status {#people-by-status-report}
 
-Bekijk hoe goed u mensen door het proces beweegt door te controleren hoeveel van hen in elke _[!UICONTROL Person Status]_waarde elke maand verschijnen.
+Bekijk hoe goed u mensen door het proces beweegt door te controleren hoeveel van hen in elke _[!UICONTROL Person Status]_&#x200B;waarde elke maand verschijnen.
 
 1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL People by Status]** [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
 1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
 
-1. Geweldig! Nu kun je zien hoeveel mensen er in elke _[!UICONTROL Person Status]_zaten, van maand tot maand.
+1. Geweldig! Nu kun je zien hoeveel mensen er in elke _[!UICONTROL Person Status]_&#x200B;zaten, van maand tot maand.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

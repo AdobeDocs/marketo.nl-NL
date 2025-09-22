@@ -19,9 +19,9 @@ Hints en [ instructies ](/help/marketo/product-docs/demand-generation/forms/form
 >
 >**Definitie**
 >
->De Hints van de vorm **** is tekst binnen het gebied dat verdwijnt wanneer de bezoeker op het gebied begint te typen.
+>De Hints van de vorm **&#x200B;**&#x200B;is tekst binnen het gebied dat verdwijnt wanneer de bezoeker op het gebied begint te typen.
 >
->De instructies van de vorm **** zijn weinig tooltips die tonen wanneer de bezoeker over het gebied beweegt.
+>De instructies van de vorm **&#x200B;**&#x200B;zijn weinig tooltips die tonen wanneer de bezoeker over het gebied beweegt.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

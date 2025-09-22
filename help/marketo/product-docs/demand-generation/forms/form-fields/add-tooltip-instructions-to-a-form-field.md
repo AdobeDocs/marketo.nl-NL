@@ -19,9 +19,9 @@ ht-degree: 1%
 >
 >**Definitie**
 >
->De Hints van de vorm **** is tekst die binnen het gebied verdwijnt wanneer de bezoeker op het gebied begint te typen.
+>De Hints van de vorm **&#x200B;**&#x200B;is tekst die binnen het gebied verdwijnt wanneer de bezoeker op het gebied begint te typen.
 >
->De instructies van de vorm **** zijn weinig tooltips die omhoog pop wanneer de bezoeker over het gebied beweegt.
+>De instructies van de vorm **&#x200B;**&#x200B;zijn weinig tooltips die omhoog pop wanneer de bezoeker over het gebied beweegt.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

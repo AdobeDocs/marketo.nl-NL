@@ -113,7 +113,7 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. ****.
+1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. **&#x200B;**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 

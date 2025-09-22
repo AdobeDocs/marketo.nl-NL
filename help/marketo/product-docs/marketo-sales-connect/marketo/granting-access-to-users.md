@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Voer de stappen in dit artikel uit om uw [!DNL Sales Connect] -gebruikers toegang te verlenen tot de Marketo-verbinding. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
 
-U zult gebruikers [!DNL Sales Connect] [ ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) moeten uitnodigen, alvorens zij in Marketo > [!UICONTROL Team Access] pagina (in [!DNL Sales Connect]) zichtbaar zijn, waar de toegang tot de verbinding van Marketo wordt verleend.
+U zult gebruikers [!DNL Sales Connect] [&#128279;](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) moeten uitnodigen, alvorens zij in Marketo > [!UICONTROL Team Access] pagina (in [!DNL Sales Connect]) zichtbaar zijn, waar de toegang tot de verbinding van Marketo wordt verleend.
 
 >[!CAUTION]
 >

@@ -19,6 +19,6 @@ Door op het menu met puntjes onder de kolom Handelingen te klikken, kunt u betro
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-U kunt ook meerdere leads selecteren op de tab [!DNL Best Bets] en _[!UICONTROL Send Marketo Email]_of_[!UICONTROL Add to Marketo Campaign]_ kiezen.
+U kunt ook meerdere leads selecteren op de tab [!DNL Best Bets] en _[!UICONTROL Send Marketo Email]_&#x200B;of&#x200B;_[!UICONTROL Add to Marketo Campaign]_ kiezen.
 
 ![](assets/best-bets-1.png)

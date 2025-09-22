@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Uw [!DNL  Sales Connect] -account kan nog niet verbonden zijn met [!DNL Salesforce] wanneer u een verbinding tot stand brengt met de sandbox. Als het is, [ zorg ervoor u ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) losmaakt alvorens de stappen in dit artikel te volgen.
+>Uw [!DNL &#x200B; Sales Connect] -account kan nog niet verbonden zijn met [!DNL Salesforce] wanneer u een verbinding tot stand brengt met de sandbox. Als het is, [ zorg ervoor u ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) losmaakt alvorens de stappen in dit artikel te volgen.
 
 1. Klik in [!DNL Sales Connect] op het tandwielpictogram rechtsboven en selecteer **[!UICONTROL Settings]** .
 

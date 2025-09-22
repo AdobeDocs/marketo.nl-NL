@@ -55,7 +55,7 @@ Marketo Sales Insight wordt opgeslagen per taal. Dus als u wilt dat het voor mee
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Ga naar Marketo. Zoek de [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**details ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight) .
+1. Ga naar Marketo. Zoek de [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**&#x200B;details ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight) .
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

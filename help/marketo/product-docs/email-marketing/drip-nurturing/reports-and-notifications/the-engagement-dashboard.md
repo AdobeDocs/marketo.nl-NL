@@ -71,4 +71,4 @@ _Nieuwst_ en _Oudst_ zijn gebaseerd op tijd van laatste goedkeuring.
 
 >[!NOTE]
 >
->Leer meer in [ creeer een 1} diepe duik van het Programma van de Betrokkenheid {.](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>Leer meer in [ creeer een 1&rbrace; diepe duik van het Programma van de Betrokkenheid &lbrace;.](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)

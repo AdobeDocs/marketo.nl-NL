@@ -35,7 +35,7 @@ U kunt gebruikers beperken of toestaan om tot Marketo toegang te hebben die op h
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Kies of u **** **specifieke adressen van het Blok wilt** toestaan of, ingaan het adres(sen), dan klikken **[!UICONTROL Save]**.
+1. Kies of u **&#x200B;**&#x200B;**specifieke adressen van het Blok wilt** toestaan of, ingaan het adres(sen), dan klikken **[!UICONTROL Save]**.
 
    >[!NOTE]
    >

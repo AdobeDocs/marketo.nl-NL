@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Wanneer u een campagne automatiseert, wilt u waarschijnlijk niet dat uw e-mails op zaterdag of zondag verschijnen. Zo niet, dan kunt u weekends overslaan.
 
-1. Klik in [!DNL Sales Connect] op de tab **[!UICONTROL  Campaigns]** .
+1. Klik in [!DNL Sales Connect] op de tab **[!UICONTROL &#x200B; Campaigns]** .
 
    ![](assets/one-2.png)
 

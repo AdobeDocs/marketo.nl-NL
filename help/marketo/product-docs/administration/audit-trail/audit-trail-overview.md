@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: Audit Trail] Overzicht - Marketo Docs - Productdocumentatie
+description: Audit Trail&rbrack; Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van audittrail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
@@ -33,7 +33,7 @@ Wie registreert zich op ons account?
 
 ## Wat wij controleren {#what-we-audit}
 
-Marketo zal [ ](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) acties creëren uitgeven en schrappen voor:
+Marketo zal [&#128279;](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) acties creëren uitgeven en schrappen voor:
 
 * Ontwerpstudioactiva
 * Alle Marketo-programma&#39;s
@@ -56,7 +56,7 @@ Audittrail bestaat uit drie componenten.
 
 Zie de activiteiten die zijn uitgevoerd voor specifieke elementen.
 
-**[](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)** het Spoor van de Controle Admin 
+**[&#128279;](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)** het Spoor van de Controle Admin 
 
 Op gebruikers gebaseerde gegevens controleren.
 

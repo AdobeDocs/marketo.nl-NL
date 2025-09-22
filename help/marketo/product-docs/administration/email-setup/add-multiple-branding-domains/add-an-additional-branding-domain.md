@@ -45,9 +45,9 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkel 
 
 Ga als volgt te werk om SSL in te schakelen voor uw bestaande domeinen.
 
-1. Selecteer in het gebied _[!UICONTROL Admin]_de optie **[!UICONTROL Email]**.
+1. Selecteer in het gebied _[!UICONTROL Admin]_&#x200B;de optie **[!UICONTROL Email]**.
 
-1. Selecteer op het tabblad _[!UICONTROL Domain]_de domeinrij en klik op **[!UICONTROL Add SSL]**.
+1. Selecteer op het tabblad _[!UICONTROL Domain]_&#x200B;de domeinrij en klik op **[!UICONTROL Add SSL]**.
 
    ![ Admin - E-mail - Domein - voeg SSL ](./assets/admin-email-branding-domain-add-ssl.png){width="600"} toe
 

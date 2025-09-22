@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Werkruimten kunnen complex zijn om in te stellen. De Steun van Marketo van het contact [ ](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen als zij voor u juist zijn.
+>Werkruimten kunnen complex zijn om in te stellen. De Steun van Marketo van het contact [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen als zij voor u juist zijn.
 
 De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoals programma&#39;s, landingspagina&#39;s, e-mails en meer bevatten. Ze kunnen door meerdere mensen worden gebruikt. Elke gebruiker heeft toegang tot een of meer werkruimten.
 

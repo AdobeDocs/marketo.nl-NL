@@ -17,7 +17,7 @@ Het toevoegen van een benoemde account aan een accountlijst is eenvoudig.
 
 >[!NOTE]
 >
->Dit is slechts op de Lijsten van de Rekening van toepassing, **** geen Dynamische Lijsten van de Rekening.
+>Dit is slechts op de Lijsten van de Rekening van toepassing, **&#x200B;**&#x200B;geen Dynamische Lijsten van de Rekening.
 
 1. Selecteer de rij van de benoemde account waaraan u wilt toevoegen.
 

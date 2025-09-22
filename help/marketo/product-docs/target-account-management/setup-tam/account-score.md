@@ -47,9 +47,9 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één individ
 >Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo TAM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden nemen (_Score van de Rente van het Product van de Rekening_ en _Score van de Betrokkenheid van het Web van de Rekening_).
 >
 >Maak eerst loodscore-velden waarin relevante details van elke lead van een doelaccount worden vastgelegd.
->>Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:
->>Account Product Interest Score = SUM (Lood Product Interest Score)
->>Account Web Engagement Score = SUM (Lead Web Engagement Score)
+>&#x200B;>Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:
+>&#x200B;>Account Product Interest Score = SUM (Lood Product Interest Score)
+>&#x200B;>Account Web Engagement Score = SUM (Lead Web Engagement Score)
 
 >[!NOTE]
 >

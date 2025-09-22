@@ -23,7 +23,7 @@ Meer informatie over de functies in het dashboard van [!DNL Sales Insights] .
 
 ## Contactlay-out {#contact-layout}
 
-{het Net van de Snelheid van de 10} Betrokkenheid ****
+{het Net van de Snelheid van de 10} Betrokkenheid **&#x200B;**
 
 * Dit slimme raster bevat de afgelopen 90 dagen interessante momenten, e-mail en webactiviteiten
 * De gebruiker kan aan &quot;[!UICONTROL Show Account]&quot;activiteit verkiezen, zal dit al rekeningsniveau het Interesten Momenten, E-mail en Activiteit van het Web in de mening van het contact laag maken
@@ -64,7 +64,7 @@ Gebeurtenis, tabblad:
 
 ## Leidinglayout {#lead-layout}
 
-{het Net van de Snelheid van de 10} Betrokkenheid ****
+{het Net van de Snelheid van de 10} Betrokkenheid **&#x200B;**
 
 * Dit slimme raster bevat de afgelopen 90 dagen interessante momenten, e-mail en webactiviteiten
 * Gebruiker kan specifieke week markeren om activiteiten binnen die week te zien
@@ -105,7 +105,7 @@ Gebeurtenis, tabblad:
 
 ## Accountlay-out {#account-layout}
 
-{het Net van de Snelheid van de 10} Betrokkenheid ****
+{het Net van de Snelheid van de 10} Betrokkenheid **&#x200B;**
 
 * Dit slimme raster bevat interessante momenten, e-mail en webactiviteit in de laatste 90 dagen voor alle contactpersonen in de account
 * Gebruiker kan specifieke week markeren om activiteiten binnen die week te zien
@@ -141,7 +141,7 @@ Gebeurtenis, tabblad:
 
 ## Opportunity-indeling {#opportunity-layout}
 
-{het Net van de Snelheid van de 10} Betrokkenheid ****
+{het Net van de Snelheid van de 10} Betrokkenheid **&#x200B;**
 
 * Dit slimme raster bevat interessante momenten, e-mail en webactiviteit in de afgelopen 90 dagen voor alle contacten in de opportunity
 * Gebruiker kan specifieke week markeren om activiteiten binnen die week te zien
@@ -156,7 +156,7 @@ Gebeurtenis, tabblad:
 * De Wekelijkse Summiere bar zal het Interesten Momenten, E-mail en Activiteit van het Web voor die week tonen. Op elk pictogram kan worden geklikt en het kan worden gebruikt als filters om specifieke activiteit weer te geven
 * Standaardweergave: Dit is een lijst met activiteiten van de huidige weergave
 
-**E-mailcampagnes van 0} de komende E-mailCampagnes en Gebeurtenissen tabel:**
+**E-mailcampagnes van 0&rbrace; de komende E-mailCampagnes en Gebeurtenissen tabel:**
 
 * Bevat campagnes die onderdeel zijn van e-mailprogramma&#39;s of standaardprogramma&#39;s die in de komende 90 dagen zijn gepland
 * Niet specifiek voor de contactpersoon/lead (d.w.z. lijst met campagnes is een algemene lijst met alle e-mailcampagnes die in het Marketo-exemplaar zijn gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk

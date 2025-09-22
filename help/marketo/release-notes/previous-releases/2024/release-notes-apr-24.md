@@ -75,7 +75,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **Activiteiten API Update**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en op e-mail-Gebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [ Marketo REST API ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. De hieronder vermelde activiteiten omvatten nu de kenmerken Browser, Platform, Apparaat en Gebruikersagent. Roep [ krijgt het 1} eindpunt van de Types van Activiteit {om kenmerkdetails voor elke activiteit te herzien.](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"}
+* **Activiteiten API Update**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en op e-mail-Gebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [ Marketo REST API ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. De hieronder vermelde activiteiten omvatten nu de kenmerken Browser, Platform, Apparaat en Gebruikersagent. Roep [ krijgt het 1&rbrace; eindpunt van de Types van Activiteit &lbrace;om kenmerkdetails voor elke activiteit te herzien.](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"}
 
 **Web-based Activiteiten**
 

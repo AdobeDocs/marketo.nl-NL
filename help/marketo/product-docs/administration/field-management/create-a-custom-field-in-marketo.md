@@ -47,7 +47,7 @@ Als u een nieuw aangepast veld in Marketo Engage nodig hebt om gegevens op te sl
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Voer de _[!UICONTROL Name]_in zoals u deze wilt weergeven in Marketo (de_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
+1. Voer de _[!UICONTROL Name]_&#x200B;in zoals u deze wilt weergeven in Marketo (de&#x200B;_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
 
 >[!CAUTION]
 >

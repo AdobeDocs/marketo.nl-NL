@@ -34,7 +34,7 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klik in de Audience Builder op **[!UICONTROL Sequences]** en **[!UICONTROL Find the RTP Data]** onder [!UICONTROL Custom Dimensions] , [!UICONTROL [!]UICONTROL Custom Variables] , [!UICONTROL Events] .
+1. Klik in de Audience Builder op **[!UICONTROL Sequences]** en **[!UICONTROL Find the RTP Data]** onder [!UICONTROL Custom Dimensions] , [!UICONTROL UICONTROL [ !] Custom Variables] , [!UICONTROL Events] .
 
 >[!TIP]
 >

@@ -20,7 +20,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 [[!UICONTROL LinkedIn Lead Gen] Forms ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) is een directere manier voor een bedrijf om lood generatiecampagnes in werking te stellen [!DNL LinkedIn]. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de gegevens van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
 
-De Marketo-integratie met [!UICONTROL LinkedIn Lead Gen] Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. De acties en de berichten van de follow-up kunnen dan worden geautomatiseerd gebruikend de nieuwe **Vult uit [!DNL LinkedIn Lead Gen] 2} trekker en filter van de Vorm {uit.**
+De Marketo-integratie met [!UICONTROL LinkedIn Lead Gen] Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. De acties en de berichten van de follow-up kunnen dan worden geautomatiseerd gebruikend de nieuwe **Vult uit [!DNL LinkedIn Lead Gen] 2&rbrace; trekker en filter van de Vorm &lbrace;uit.**
 
 ![](assets/release-notes-image.png)
 

@@ -19,7 +19,7 @@ De volgende functies zijn opgenomen in de release van zomer 16. Raadpleeg de Mar
 Op Marketo-account gebaseerde marketing biedt alle basisprincipes in één uniform platform:
 
 * **Doel** - de Ontdekking van de Rekening, Lood-aan-Rekening het Aanpassen, en de Genoemde Lijsten van de Rekening
-* **0} Betrokkenheid {bij 1} - Op rekening-gebaseerde Personalization, dwars-kanaalovereenkomst, en rekening-specifieke Workflows**
+* **0&rbrace; Betrokkenheid {bij 1} - Op rekening-gebaseerde Personalization, dwars-kanaalovereenkomst, en rekening-specifieke Workflows**
 * **Maatregel** - de Inzichten van de Rekening en van het lijstniveau, de Score van de Betrokkenheid van de Rekening, en de Gevolgen van de Pijpleiding &amp; van de Inkomsten
 
 ![](assets/abm-5-acme.png)

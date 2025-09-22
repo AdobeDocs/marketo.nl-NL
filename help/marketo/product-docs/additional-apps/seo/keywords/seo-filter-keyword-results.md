@@ -37,7 +37,7 @@ Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   De oranje vierkantjes bepalen de bovenste (linker) en onderste (rechter) limiet. De filterwerken op de rangorde van de TUSSENVOEGSEL van het sleutelwoord [ ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   De oranje vierkantjes bepalen de bovenste (linker) en onderste (rechter) limiet. De filterwerken op de rangorde van de TUSSENVOEGSEL van het sleutelwoord [&#128279;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Schuif de oranje vierkanten naar links/rechts om de resultaten te filteren.
 

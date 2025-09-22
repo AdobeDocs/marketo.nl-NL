@@ -68,4 +68,4 @@ De volgende functies zullen naar verwachting gedurende het tweede kalenderkwarta
 * **de Integratie van de Drijf**: Begrijp hoe de gesprekken van de Drijving de reis van uw klant beïnvloeden. [!DNL Bizible] haalt ook e-mailadressen van gesprekken om een nieuwe lead te maken of om het aanraakpunt aan een bestaande lead te koppelen.
 * **Localization**: [!DNL Bizible] is nu beschikbaar in alle Marketo-gesteunde talen (Engels, Japans, Duits, Spaans, Frans, en Portugees).
 
-_**Webinar van de Versie van het Product**_ bekijk de opname van ons webinar van de Innovaties van de Versie van juni 19 [ hier ](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_&#x200B;**Webinar van de Versie van het Product**&#x200B;_ bekijk de opname van ons webinar van de Innovaties van de Versie van juni 19 [ hier ](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

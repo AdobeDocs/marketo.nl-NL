@@ -58,7 +58,7 @@ U kunt de volgende acties vanuit deze gecentraliseerde interface uitvoeren:
 * Gebruik de zoekbalk om de ruimte te zoeken die u zoekt (u kunt alleen zoeken in de ruimten die u hebt gemaakt).
 * Klik op het pictogram Ruimte verwijderen om de ruimte te verwijderen. Hiermee verwijdert u alle opnamen en bestanden die betrekking hebben op de ruimte.
 
-Wanneer u een ruimte selecteert, kunt u de inhoud of opnamen weergeven die beschikbaar zijn in die ruimte. Op dit scherm, is de informatie beschikbaar binnen twee lusjes: het **lusje van de Inhoud** {en **Opnamen** tabel.
+Wanneer u een ruimte selecteert, kunt u de inhoud of opnamen weergeven die beschikbaar zijn in die ruimte. Op dit scherm, is de informatie beschikbaar binnen twee lusjes: het **lusje van de Inhoud** &lbrace;en **Opnamen** tabel.
 
 **Inhoud tabel**
 

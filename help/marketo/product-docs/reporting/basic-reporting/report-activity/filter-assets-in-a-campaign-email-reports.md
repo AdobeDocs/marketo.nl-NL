@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Assets filteren in een campagne-e-mailrapport {#filter-assets-in-a-campaign-email-reports}
 
-Focus uw [ rapport van de Prestaties van e-mail van de Campagne van 0} {op specifieke ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) slimme campagnes [ in uw programma&#39;s (&quot;lokale activa&quot;) of op die die zijn gearchiveerd.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
+Focus uw [ rapport van de Prestaties van e-mail van de Campagne van 0&rbrace; &lbrace;op specifieke ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) slimme campagnes [ in uw programma&#39;s (&quot;lokale activa&quot;) of op die die zijn gearchiveerd.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
 
 >[!NOTE]
 >

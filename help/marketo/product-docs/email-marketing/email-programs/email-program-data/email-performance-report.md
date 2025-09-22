@@ -76,11 +76,11 @@ Over het algemeen proberen we het gezond verstand te gebruiken om deze statistie
 
 * **Regel 1**: Elk e-mailactiviteitenverslag wordt geplaatst aan één, en slechts één, van het volgende: _Geleverde_, _Vaste Begoten_, _Zachte Begoten_, of _Hangende_.
 
-* **Regel 2**: Als het e-mailverslag _[!UICONTROL Opened]_toont, wordt het geteld als_ Geleverd _.
+* **Regel 2**: Als het e-mailverslag _[!UICONTROL Opened]_&#x200B;toont, wordt het geteld als_ Geleverd _.
 
-* **Regel 3**: Als het e-mailverslag _[!UICONTROL Clicked Email]_of_[!UICONTROL Unsubscribed]_ toont, wordt het geteld als _Geleverd_ en _Geopend_.
+* **Regel 3**: Als het e-mailverslag _[!UICONTROL Clicked Email]_&#x200B;of&#x200B;_[!UICONTROL Unsubscribed]_ toont, wordt het geteld als _Geleverd_ en _Geopend_.
 
-* **Regel 4**: Als e-mail _[!UICONTROL Opened]_is, worden de grenzen genegeerd. Als e-mail niet is geopend,_ Vaste Omgeslagen _neemt belangrijkheid over_ Zacht die _en_ wordt teruggestuurd _.
+* **Regel 4**: Als e-mail _[!UICONTROL Opened]_&#x200B;is, worden de grenzen genegeerd. Als e-mail niet is geopend,_ Vaste Omgeslagen _neemt belangrijkheid over_ Zacht die _en_ wordt teruggestuurd _.
 
 * **Regel 5**: Als geen e-mailactiviteit drie dagen nadat het werd verzonden wordt ontvangen, wordt het _Geaborteerd_ verondersteld.
 

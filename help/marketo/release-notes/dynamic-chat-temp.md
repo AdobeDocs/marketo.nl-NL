@@ -36,7 +36,7 @@ Wij hebben de levende praatje verpletterend logica in Dynamic Chat vernieuwd om 
 
 * **Verpletterend regel-Specifiek Gedrag**
 
-_**Verpletterende Rekening**_
+_&#x200B;**Verpletterende Rekening**&#x200B;_
 
 Als het e-maildomein van een bezoeker wordt toegewezen aan een bekende account, krijgt de toegewezen agent altijd de prioriteit.
 
@@ -53,7 +53,7 @@ In plaats daarvan:
 
 De kaart-niveau verpletterende regel (bijvoorbeeld, Team, Douane) wordt slechts overwogen als de Verplettering van de Rekening niet (geen passend domein of agent) in aanmerking komt.
 
-_**Douane/Team die**_ verplettert
+_&#x200B;**Douane/Team die**&#x200B;_ verplettert
 
 Deze regels kunnen meerdere in aanmerking komende agenten teruggeven.
 
@@ -67,7 +67,7 @@ Als geen van beide agenten aangaat:
 -of-
 * Hiermee geeft u het standaardfallback-bericht weer.
 
-_**Rond Robin die**_ verplettert
+_&#x200B;**Rond Robin die**&#x200B;_ verplettert
 
 Wanneer gebruikt als primaire verpletterende regel, het systeem:
 
@@ -77,7 +77,7 @@ Wanneer gebruikt als primaire verpletterende regel, het systeem:
 
 Als Round Robin wordt gebruikt als fallback, wordt deze alleen geactiveerd als er geen agents zijn gevonden op basis van de primaire regel.
 
-_**de Stroom van de Ervaring van de Bezoeker**_
+_&#x200B;**de Stroom van de Ervaring van de Bezoeker**&#x200B;_
 
 Het systeem controleert of het Verpletteren van de Rekening toepasselijk is.
 
@@ -101,7 +101,7 @@ De ronde reserve van Robin wordt slechts overwogen wanneer geen in aanmerking ko
 
 ##### Gebruiksscenario’s {#use-cases}
 
-_**Verpletterende Rekening**_
+_&#x200B;**Verpletterende Rekening**&#x200B;_
 
 <table><thead>
   <tr>
@@ -127,7 +127,7 @@ _**Verpletterende Rekening**_
   </tr>
 </tbody></table>
 
-_**Douane Verpletterend**_
+_&#x200B;**Douane Verpletterend**&#x200B;_
 
 <table><thead>
   <tr>
@@ -153,7 +153,7 @@ _**Douane Verpletterend**_
   </tr>
 </tbody></table>
 
-_**Team dat**_ verplettert
+_&#x200B;**Team dat**&#x200B;_ verplettert
 
 <table><thead>
   <tr>
@@ -179,7 +179,7 @@ _**Team dat**_ verplettert
   </tr>
 </tbody></table>
 
-_**Rond Robin die**_ verplettert
+_&#x200B;**Rond Robin die**&#x200B;_ verplettert
 
 <table><thead>
   <tr>

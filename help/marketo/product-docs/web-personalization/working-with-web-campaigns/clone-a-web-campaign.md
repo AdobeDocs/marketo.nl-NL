@@ -29,7 +29,7 @@ Met de kloonfunctie op de pagina [!UICONTROL Web Campaigns] kunt u de campagne-i
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde Webcampagne is gerechtigd, &quot;[ Exemplaar van de NAAM van 0} CAMPAIGN&quot;.]
+1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde Webcampagne is gerechtigd, &quot;[ Exemplaar van de NAAM van 0&rbrace; CAMPAIGN&quot;.]
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 

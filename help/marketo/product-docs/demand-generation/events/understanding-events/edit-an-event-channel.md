@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Een gebeurteniskanaal bewerken {#edit-an-event-channel}
 
-U kunt het kanaaltype van het 0} Summiere **lusje van de gebeurtenis of van zijn** Opstelling **tabel uitgeven.**
+U kunt het kanaaltype van het 0&rbrace; Summiere **lusje van de gebeurtenis of van zijn** Opstelling **tabel uitgeven.**
 
 >[!NOTE]
 >

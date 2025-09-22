@@ -83,4 +83,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Webinar productrelease {#product-release-webinar}
 
-Kijk hier de opname van onze productrelease webinar [ ](https://engage.marketo.com/Oct_20_Release_OnDemand.html).
+Kijk hier de opname van onze productrelease webinar [&#128279;](https://engage.marketo.com/Oct_20_Release_OnDemand.html).

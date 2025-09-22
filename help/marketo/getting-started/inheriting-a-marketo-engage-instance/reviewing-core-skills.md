@@ -33,7 +33,7 @@ Als u beperkte tijd hebt om op kernvaardigheden te penselen, is dit wat wij advi
 
 <p>
 
-![ ](assets/reviewing-core-skills-5.png) de Types van Rapport 1} [****](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+![ ](assets/reviewing-core-skills-5.png) de Types van Rapport 1&rbrace; [**&#128279;**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 
 <p>
 

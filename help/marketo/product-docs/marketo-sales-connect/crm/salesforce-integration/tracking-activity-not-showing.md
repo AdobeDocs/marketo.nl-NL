@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # Tekstactiviteit niet weergegeven {#tracking-activity-not-showing}
 
-Als uw traceringsactiviteit niet wordt weergegeven, moet u ervoor zorgen dat de velden met aangepaste activiteiten die [!DNL  Sales Connect] biedt, zichtbaar/bewerkbaar zijn in Salesforce. Als u de velden hebt geïnstalleerd, maar deze niet invult, is er mogelijk Beveiliging op veldniveau om te voorkomen dat informatie wordt gevuld. Neem contact op met uw [!DNL  Salesforce] beheerder.
+Als uw traceringsactiviteit niet wordt weergegeven, moet u ervoor zorgen dat de velden met aangepaste activiteiten die [!DNL &#x200B; Sales Connect] biedt, zichtbaar/bewerkbaar zijn in Salesforce. Als u de velden hebt geïnstalleerd, maar deze niet invult, is er mogelijk Beveiliging op veldniveau om te voorkomen dat informatie wordt gevuld. Neem contact op met uw [!DNL &#x200B; Salesforce] beheerder.
 
 Leer meer over [ gebied-Vlakke Veiligheid ](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5) in Salesforce.

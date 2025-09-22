@@ -33,7 +33,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] in [!DNL Salesforce1] omvat: [!DNLB test Bets ], voer van het Lood, het Interesten Momenten, en voeg aan de Campagne van Marketo toe.
+>[!DNL Marketo Sales Insight] in [!DNL Salesforce1] omvat: [!DNL B test Bets &#x200B;], voer van het Lood, het Interesten Momenten, en voeg aan de Campagne van Marketo toe.
 
 ## De mobiele toepassing van [!DNL Salesforce1] inschakelen {#enable-the-salesforce1-mobile-app}
 

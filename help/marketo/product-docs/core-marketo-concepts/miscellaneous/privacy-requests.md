@@ -26,7 +26,7 @@ Dit document biedt een overzicht van het beheer van individuele privacyverzoeken
 U kunt individuele verzoeken om toegang tot en verwijdering van consumentengegevens vanuit Marketo Engage op twee manieren verzenden:
 
 * Via de gebruikersinterface van Privacy Service: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Zie de documentatie [ hier ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
-* Via de Privacy Service API. Zie hier de documentatie [ ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} en API informatie [ ](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Via de Privacy Service API. Zie hier de documentatie [&#128279;](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} en API informatie [&#128279;](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
 [ Privacy Service ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} steunt twee soorten verzoeken: gegevenstoegang en gegevensschrapping.
 

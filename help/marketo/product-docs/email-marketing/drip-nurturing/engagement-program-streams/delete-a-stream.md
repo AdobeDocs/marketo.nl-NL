@@ -37,4 +37,4 @@ Als u ooit een stream uit uw betrokkenheidsprogramma moet verwijderen, voert u d
 
    >[!NOTE]
    >
-   >Als de stroom mensen in het heeft, zult u worden gevraagd [ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) hen eerst te bewegen.
+   >Als de stroom mensen in het heeft, zult u worden gevraagd [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) hen eerst te bewegen.

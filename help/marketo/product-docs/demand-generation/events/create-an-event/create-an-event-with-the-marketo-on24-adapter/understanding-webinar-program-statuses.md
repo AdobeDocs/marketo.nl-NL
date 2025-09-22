@@ -21,7 +21,7 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 >[!TIP]
 >
->Om statussen manueel bij te werken, verfrist de klik **zich van Webinar Leverancier** in de **3} drop-down Acties van de Gebeurtenis.**
+>Om statussen manueel bij te werken, verfrist de klik **zich van Webinar Leverancier** in de **3&rbrace; drop-down Acties van de Gebeurtenis.**
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 

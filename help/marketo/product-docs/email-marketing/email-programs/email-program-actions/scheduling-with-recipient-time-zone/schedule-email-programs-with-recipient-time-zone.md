@@ -63,7 +63,7 @@ Zodra u uw programma goedkeurt, begint het binnen 15 minuten lopen.
 
 >[!NOTE]
 >
->Hoewel het programma het *proces* begint van het verzenden van e-mails in 15 minuten, zullen de e-mails niet ** op dat ogenblik worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen **[!UICONTROL Time Zone Settings]** .
+>Hoewel het programma het *proces* begint van het verzenden van e-mails in 15 minuten, zullen de e-mails niet **&#x200B; op dat ogenblik worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen &#x200B;** [!UICONTROL Time Zone Settings]** .
 
 ## Scenario 2: Meer dan 25 uur {#scenario-more-than-hours}
 

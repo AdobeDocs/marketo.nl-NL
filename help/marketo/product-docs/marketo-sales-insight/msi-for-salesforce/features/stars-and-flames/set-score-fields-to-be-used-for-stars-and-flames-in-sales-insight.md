@@ -21,7 +21,7 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld **[!UICONTROL Lead Scor
 
 >[!TIP]
 >
->Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [ ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
+>Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [&#128279;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
 
 >[!NOTE]
 >

@@ -147,6 +147,6 @@ In [ Geavanceerde Montages ](https://helpx.adobe.com/enterprise/using/authentica
 
 **ik moet nu in Experience Cloud navigeren om tot Marketo Engage toegang te hebben. Is er een manier om deze stroom te stroomlijnen?**
 
-Ja. U kunt browser referentie van de verbinding tot stand brengen die na het klikken van de **knoop van de** Lancering {op de pagina van de de instantietoegang van Marketo Engage begint om die pagina vooruit te mijden.
+Ja. U kunt browser referentie van de verbinding tot stand brengen die na het klikken van de **knoop van de** Lancering &lbrace;op de pagina van de de instantietoegang van Marketo Engage begint om die pagina vooruit te mijden.
 
 ![](assets/faq-1.png)
