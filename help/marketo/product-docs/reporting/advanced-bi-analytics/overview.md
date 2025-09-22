@@ -125,7 +125,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
