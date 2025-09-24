@@ -4,9 +4,9 @@ description: Dubbele personen zoeken en samenvoegen - Marketo Docs - Productdocu
 title: Dubbele personen zoeken en samenvoegen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage dedupliceert automatisch wanneer nieuwe personen het systeem betr
 
 >[!PREREQUISITES]
 >
->Het vinden en het samenvoegen van duplicaten zal het gebruik van [ ingebouwde/systeem Slimme Lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} impliceren.
+>Het vinden van en het samenvoegen van duplicaten impliceert het gebruik van [ ingebouwde/systeem Slimme Lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ Marketo Engage dedupliceert automatisch wanneer nieuwe personen het systeem betr
    >
    >U kunt twee of meer duplicaten hebben voor dezelfde persoon - en deze in één keer selecteren.
 
-1. U zult de waarden tussen de verslagen zien die _niet_ aanpassen. Selecteer de waarde die u voor elk veld wilt behouden. Klik op **[!UICONTROL Merge]** als u klaar bent. Als u geen van beide waarden wilt, kunt u **[!UICONTROL Custom]** controleren en een waarde van uw keus ingaan.
+1. De waarden tussen records die niet overeenkomen, worden weergegeven. _selecteer de waarde u voor elk gebied_ wilt houden. Klik op **[!UICONTROL Merge]** als u klaar bent. Als u geen van beide waarden wilt, kunt u **[!UICONTROL Custom]** controleren en een waarde van uw keus ingaan.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >Wanneer u handmatig personen samenvoegt, is de eerste geselecteerde persoon de &quot;winnaar&quot;. Dus op het tabblad Personen als u record-id&#39;s 198 en 199 samenvoegt en u toevallig eerst op 199 klikt, wordt 199 de record-id van de samengevoegde personen. Dit geldt ook als meer dan twee records worden samengevoegd.
+   >* In tegenstelling tot Salesforce, wanneer het samenvoegen van mensen in Marketo, zijn hun scores _niet_ samengevat. U selecteert de waarden die u wilt behouden.
+   >
+   >* Wanneer u handmatig personen samenvoegt, is de eerste geselecteerde persoon de &quot;winnaar&quot;. Dus op het tabblad Personen als u record-id&#39;s 198 en 199 samenvoegt en u toevallig eerst op 199 klikt, wordt 199 de record-id van de samengevoegde personen. Dit geldt ook als meer dan twee records worden samengevoegd.
 
    >[!TIP]
    >
