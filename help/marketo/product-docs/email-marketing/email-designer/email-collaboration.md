@@ -19,7 +19,7 @@ Dankzij e-mailsamenwerking en opmerkingen kunnen marketingteams e-mailmiddelen i
 
 ## Machtigingen {#permissions}
 
-Gebruikers die over bewerkingsmachtigingen voor een e-mailmiddel beschikken, kunnen opmerkingen toevoegen, coderen en opmerkingen weergeven. De gebruikers met read-only toestemmingen aan e-mailactiva zullen **** geen commentaren kunnen toevoegen of bekijken.
+Gebruikers die over bewerkingsmachtigingen voor een e-mailmiddel beschikken, kunnen opmerkingen toevoegen, coderen en opmerkingen weergeven. De gebruikers met read-only toestemmingen aan e-mailactiva zullen **&#x200B;**&#x200B;geen commentaren kunnen toevoegen of bekijken.
 
 ## Opmerkingen toevoegen {#add-comments}
 
