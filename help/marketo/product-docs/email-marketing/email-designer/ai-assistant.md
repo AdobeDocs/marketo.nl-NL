@@ -33,7 +33,7 @@ _na_ na de voorwaarde hierboven, moeten de beheerders van Marketo toegang tot sp
 
    ![](assets/use-the-ai-assistant-0b.png)
 
-1. Onder _Studio van het Ontwerp van de Toegang_, selecteer **Hulp AI van de Toegang {** checkbox en klik **sparen**.
+1. Onder _Studio van het Ontwerp van de Toegang_, selecteer **Hulp AI van de Toegang &lbrace;** checkbox en klik **sparen**.
 
    ![](assets/use-the-ai-assistant-0c.png)
 
