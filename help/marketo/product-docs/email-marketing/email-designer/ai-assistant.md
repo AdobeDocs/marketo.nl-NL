@@ -6,10 +6,10 @@ description: Maak gebruik van de generatieve AI-technologie van Adobe om nuttige
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 2%
+source-wordcount: '814'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,33 @@ Met AI Assistant in de Marketo Engage Email Designer kunt u hedendaagse, krachti
 
 >[!PREREQUISITES]
 >
->AI Assistant is niet standaard ingeschakeld. U moet eerst akkoord gaan met de Core Gen-AI-termen en de aanvullende voorwaarden voor het gebruik van de Gen-AI-functionaliteit in de e-mailtoepassing van de Designer. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+>AI Assistant is niet standaard ingeschakeld. U moet eerst met de [ termijnen van de Kern Gen-AI en de supplementaire termijnen ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+
+## Machtigingen instellen {#set-up-permissions}
+
+_na_ na de voorwaarde hierboven, moeten de beheerders van Marketo toegang tot specifieke gebruikers/rollen toepassen alvorens de gebruikers de knopen GenAI zullen zien.
+
+1. In Marketo Engage, klik **Admin** en selecteer **Gebruikers &amp; Rollen**.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. In het **lusje van Rollen**, klik op de gewenste rol tweemaal.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. Onder _Studio van het Ontwerp van de Toegang_, selecteer **Hulp AI van de Toegang {** checkbox en klik **sparen**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Klik op het tabblad Gebruikers en selecteer de gebruiker tot wie u toegang wilt verlenen.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Selecteer de rol die u hebt gekozen in Stap 3 en de gewenste werkruimte (indien van toepassing). Klik **sparen**.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Gebruik hoofdletters {#use-cases}
 
 Er zijn drie hoofdgebruikscenario&#39;s voor AI Assistant:
 
