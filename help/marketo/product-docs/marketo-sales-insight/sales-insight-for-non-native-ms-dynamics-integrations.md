@@ -3,9 +3,9 @@ description: '[!DNL Sales Insight] voor Niet-inheemse Integraties van MS  [!DNL 
 title: '[!DNL Sales Insight] voor Niet-inheemse Integraties van MS  [!DNL Dynamics] '
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
+source-git-commit: 7a57e52b497b271beff95b203bddd0c911e2e6a3
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1262'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
 >* De functie &#39;Niet-native MSI&#39; die is ingeschakeld voor uw Marketo-instantie voordat u MSI instelt. Als het niet is en u reeds de eigenschap kocht, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren. Neem contact op met het Adobe-accountteam (uw accountmanager) als u deze functie nog niet hebt aangeschaft.
 >* Het Pakket van de download [ MSI voor de Synchronisatie van de Douane ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 >* Een abonnement van de Dynamiek van MS met Opstelling MSI (wij steunen online slechts [ Dynamiek ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} op dit ogenblik).
->* Marketo REST API [ met succes opstelling ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
+>* Marketo REST API [ met succes opstelling ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lees [ dit blogbericht ](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} om een begrip van het voorwerp en de verhoudingen te krijgen.
 
 ## Voor een geslaagde externe synchronisatie van MSI is het volgende vereist {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,7 +48,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody>
    </table>
 
-   * [ API documentatie voor de Persoon van de Verkoop ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [ API documentatie voor de Persoon van de Verkoop ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * [ API documentatie voor het synchroniseren van de Persoon van de Verkoop ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchroniseer de MS [!DNL Dynamics] -accounts met Marketo.
@@ -80,7 +80,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody>
    </table>
 
-   * API documentatie voor Bedrijven: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API documentatie voor Bedrijven: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * API documentatie voor het synchroniseren van Bedrijven: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchroniseer de MS [!DNL Dynamics] Leads/Contacts met Marketo.
@@ -107,17 +107,17 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      <tr>
       <td>externalSalesPersonId</td>
         <td>MS <span class="dnl"> Dynamiek </span> van de Verkoop - niet-gevoelig globaal uniek herkenningsteken</td>
-        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van MS <span class="dnl"> Dynamica &lbrace;die dit Lood/Contact bezit.</span><br><br> verwant ook de Lood met de Persoon van de Verkoop in Marketo. De verkoper moet eerst correct worden gesynchroniseerd.</td>
+        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van MS <span class="dnl"> Dynamica {die dit Lood/Contact bezit.</span><br><br> verwant ook de Lood met de Persoon van de Verkoop in Marketo. De verkoper moet eerst correct worden gesynchroniseerd.</td>
      </tr>
      <tr>
       <td>externalCompanyId</td>
         <td>MS <span class="dnl"> Dynamica </span> de geval-ongevoelige globaal unieke herkenningsteken van de Rekening</td>
-        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> dat Lood/Contact tot behoort.<br><br> verwant ook het loodverslag aan een Bedrijf in Marketo. Het wordt mandated dat de 2&rbrace; rekening van de Dynamica van MS <span class="dnl"> &lbrace;correct eerst wordt gesynchroniseerd.</span></td>
+        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> dat Lood/Contact tot behoort.<br><br> verwant ook het loodverslag aan een Bedrijf in Marketo. Het wordt mandated dat de 2} rekening van de Dynamica van MS <span class="dnl"> {correct eerst wordt gesynchroniseerd.</span></td>
      </tr>
     </tbody>
    </table>
 
-   * API documentatie voor Leads: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * API documentatie voor Leads: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * API documentatie voor het synchroniseren van Leads: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. Synchroniseer MS [!DNL Dynamics]-mogelijkheden met Marketo.
@@ -144,17 +144,17 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      <tr>
       <td>externalCompanyId</td>
         <td>MS <span class="dnl"> Dynamica </span> de geval-ongevoelige globaal unieke herkenningsteken van de Rekening</td>
-        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> waar deze Kans tot behoort. <br><br> het wordt mandated dat de 2&rbrace; Rekening van de Dynamica van MS <span class="dnl"> correct eerst wordt gesynchroniseerd.</span></td>
+        <td>Identificeert het externe voorwerp van de Rekening van de Dynamiek van MS <span class="dnl"> </span> waar deze Kans tot behoort. <br><br> het wordt mandated dat de 2} Rekening van de Dynamica van MS <span class="dnl"> correct eerst wordt gesynchroniseerd.</span></td>
      </tr>
      <tr>
       <td>externalSalesPersonId</td>
         <td>MS <span class="dnl"> Dynamiek </span> van de Verkoop - niet-gevoelig globaal uniek herkenningsteken</td>
-        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van de Dynamiek van MS <span class="dnl"> &lbrace;die deze Kans bezit.</span> </td>
+        <td>Identificeert het externe voorwerp van de Gebruiker van de Verkoop van de Dynamiek van MS <span class="dnl"> {die deze Kans bezit.</span> </td>
      </tr>
     </tbody>
    </table>
 
-   * API documentatie voor Kans: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API documentatie voor Kans: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API documentatie voor het synchroniseren van Kansen: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer MS [!DNL Dynamics] Contact Rollen naar Marketo.
@@ -176,22 +176,22 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
      <tr>
       <td>externalOpportunityId</td>
         <td>MS <span class="dnl"> Dynamiek </span> Kans van de Kans - ongevoelig globaal uniek herkenningsteken</td>
-      <td>Identificeert de Rol van de Kans van Marketo aan een extern voorwerp van de Kans van de Dynamiek van MS <span class="dnl"> </span>.<br><br> het wordt mandated dat de 2&rbrace; Kans van de Dynamiek van MS <span class="dnl"> &lbrace;correct eerst wordt gesynchroniseerd.</span></td>
+      <td>Identificeert de Rol van de Kans van Marketo aan een extern voorwerp van de Kans van de Dynamiek van MS <span class="dnl"> </span>.<br><br> het wordt mandated dat de 2} Kans van de Dynamiek van MS <span class="dnl"> {correct eerst wordt gesynchroniseerd.</span></td>
      </tr>
      <tr>
       <td>leadId</td>
       <td>N.v.t., dit zou een Marketo Lead ID zijn</td>
-        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde Contact van de Dynamica van MS <span class="dnl"> </span> zijn.<br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u de 2&rbrace; het geval-ongevoelige globaal unieke herkenningsteken van het Contact van de Dynamica van MS <span class="dnl"> gebruiken &lbrace;als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</span></td>
+        <td>Dit zou identiteitskaart van de Lood van Marketo van het gesynchroniseerde Contact van de Dynamica van MS <span class="dnl"> </span> zijn.<br><br> Zodra het contact in Marketo wordt gesynchroniseerd, kunt u de 2} het geval-ongevoelige globaal unieke herkenningsteken van het Contact van de Dynamica van MS <span class="dnl"> gebruiken {als externalPersonId en vraag voor het Lood van Marketo gebruikend Marketo REST API.</span></td>
      </tr>
      <tr>
       <td>rol</td>
-        <td>Het gebied van de Rol voor het 10&rbrace; Contact van de Dynamica van MS &lbrace;<span class="dnl"></span></td>
+        <td>Het gebied van de Rol voor het 10} Contact van de Dynamica van MS {<span class="dnl"></span></td>
       <td>Beschrijft de rol van het contact voor deze kans.</td>
      </tr>
     </tbody>
    </table>
 
-   * API documentatie voor Kans: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API documentatie voor Kans: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API documentatie voor het synchroniseren van Kansen: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer de velden Laatste interessant moment/MSI-score naar MS [!DNL Dynamics] .
@@ -259,6 +259,6 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
 
    >[!NOTE]
    >
-   >Voor objecttypen Lood/Contacten en Accounts: als u synchroniseert met uw eigen aangepaste velden voor deze verplichte velden, ondersteunen we deze aanpassing bij het uitvoeren van Marketo Sales Insights. Gelieve te bereiken uit [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor hulp met deze aanpassing.
+   >Voor objecttypen Lead/Contacts en Accounts: Marketo biedt ondersteuning voor het gebruik van uw eigen aangepaste velden als externe id-velden bij het gebruik van Marketo Sales Insights. Als u hulp met deze aanpassing nodig hebt, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
    Een correct gebruik van de externe velden is van wezenlijk belang voor een geslaagde, niet-native synchronisatie. Als u gegevens in sommige weergaven niet ziet, is het waarschijnlijk dat een bepaald veld niet correct is gesynchroniseerd. Bijvoorbeeld, als de activiteiten van een lood en de interessante momenten niet verschijnen wanneer het kijken in MSI widget onder hun Rekening, is het waarschijnlijk dat of het bedrijf van de lood of de Rekening correct werd gesynchroniseerd. Als u een GET-aanvraag voor deze lead uitvoert terwijl u de externe velden opgeeft, kunt u controleren of de lead correct is gesynchroniseerd. Bovendien moet de e-mail voor de externe verkoper in Marketo overeenkomen met de e-mail voor die gebruiker in MS Dynamics. Gegevens worden mogelijk niet weergegeven op het tabblad Marketo in MS Dynamics als de e-mails niet overeenkomen.
