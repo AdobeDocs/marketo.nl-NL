@@ -19,7 +19,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
 >* De functie &#39;Niet-native MSI&#39; die is ingeschakeld voor uw Marketo-instantie voordat u MSI instelt. Als het niet is en u reeds de eigenschap kocht, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren. Neem contact op met het Adobe-accountteam (uw accountmanager) als u deze functie nog niet hebt aangeschaft.
 >* Het Pakket van de download [ MSI voor de Synchronisatie van de Douane ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 >* Een abonnement van de Dynamiek van MS met Opstelling MSI (wij steunen online slechts [ Dynamiek ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} op dit ogenblik).
->* Marketo REST API [ met succes opstelling ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
+>* Marketo REST API [ met succes opstelling ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lees [ dit blogbericht ](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} om een begrip van het voorwerp en de verhoudingen te krijgen.
 
 ## Voor een geslaagde externe synchronisatie van MSI is het volgende vereist {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,7 +48,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody>
    </table>
 
-   * [ API documentatie voor de Persoon van de Verkoop ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [ API documentatie voor de Persoon van de Verkoop ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * [ API documentatie voor het synchroniseren van de Persoon van de Verkoop ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchroniseer de MS [!DNL Dynamics] -accounts met Marketo.
@@ -80,7 +80,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody>
    </table>
 
-   * API documentatie voor Bedrijven: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * API documentatie voor Bedrijven: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * API documentatie voor het synchroniseren van Bedrijven: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Synchroniseer de MS [!DNL Dynamics] Leads/Contacts met Marketo.
@@ -117,7 +117,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody>
    </table>
 
-   * API documentatie voor Leads: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * API documentatie voor Leads: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * API documentatie voor het synchroniseren van Leads: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. Synchroniseer MS [!DNL Dynamics]-mogelijkheden met Marketo.
@@ -154,7 +154,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody>
    </table>
 
-   * API documentatie voor Kans: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API documentatie voor Kans: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API documentatie voor het synchroniseren van Kansen: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer MS [!DNL Dynamics] Contact Rollen naar Marketo.
@@ -191,7 +191,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
     </tbody>
    </table>
 
-   * API documentatie voor Kans: [ https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * API documentatie voor Kans: [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * API documentatie voor het synchroniseren van Kansen: [ https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Synchroniseer de velden Laatste interessant moment/MSI-score naar MS [!DNL Dynamics] .
