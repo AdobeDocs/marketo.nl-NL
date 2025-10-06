@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -51,29 +51,29 @@ Voer de volgende stappen uit om gedeelten van een visueel fragment bewerkbaar te
 1. Sla uw wijzigingen op als u klaar bent.
 
 Nadat u het fragment in een e-mail hebt toegevoegd, kunnen gebruikers alle bewerkbare velden aanpassen die in het fragment zijn geconfigureerd.
+<!--
+## Add editable fields in HTML components and expression fragments {#expression}
 
-## Bewerkbare velden toevoegen in HTML-componenten en expressiefragmenten {#expression}
+To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
 
-Als u delen van een HTML-component of een expressiefragment bewerkbaar wilt maken, moet u een specifieke syntaxis gebruiken in de expressie-editor. Dit impliceert het verklaren van a _variabele_ met een standaardwaarde die de gebruikers na het toevoegen van het fragment aan hun inhoud kunnen met voeten treden.
+For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a _unique ID_ (e.g., "color"), and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
 
-Stel dat u een fragment wilt maken om het toe te voegen aan uw e-mails en gebruikers de mogelijkheid wilt geven een specifieke kleur aan te passen die op verschillende locaties wordt gebruikt, zoals de achtergrondkleuren van frames of knoppen. Wanneer het creëren van uw fragment, moet u een variabele met a _unieke identiteitskaart_ (b.v., &quot;kleur&quot;) verklaren, en het roepen bij de gewenste plaatsen in de fragmentinhoud roepen waar u deze kleur wilt toepassen. Wanneer gebruikers het fragment aan hun inhoud toevoegen, kunnen ze de kleur aanpassen die wordt gebruikt op de plaats waar naar de variabele wordt verwezen.
+For HTML components, only specific elements can become editable fields. Expand the section below for more information.
 
-Voor HTML-componenten kunnen alleen specifieke elementen bewerkbare velden worden. Vouw de onderstaande sectie uit voor meer informatie.
++++Editable elements in HTML components:
 
-+++Bewerkbare elementen in HTML-componenten:
+The elements below can become editable fields in an HTML component:
 
-De onderstaande elementen kunnen bewerkbare velden in een HTML-component worden:
+* A portion of text
+* A full URL for link or image (doesn't work with portion of a URL)
+* Entire CSS property (doesn't work with partial property)
 
-* Een deel van tekst
-* Een volledige URL voor koppeling of afbeelding (werkt niet met een gedeelte van een URL)
-* Volledige CSS-eigenschap (werkt niet met een gedeeltelijke eigenschap)
-
-In de onderstaande code kan bijvoorbeeld elk rood gemarkeerd element een eigenschap worden:
+For example, in the code below, each element highlighted in red can become a property:
 
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
-
+-->
 >[!MORELIKETHIS]
 >
 >[ Fragments ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
