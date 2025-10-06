@@ -28,7 +28,7 @@ Voer de volgende stappen uit om gedeelten van een visueel fragment bewerkbaar te
 
 >[!NOTE]
 >
->Bewerkbare gebieden kunnen aan **beeld** worden toegevoegd, **tekst** en **knoop** componenten. Voor **HTML** componenten, worden de editable gebieden toegevoegd gebruikend de verpersoonlijkingsredacteur, gelijkend op uitdrukkingsfragmenten. [ Leer hoe te om editable gebied in de componenten van HTML en uitdrukkingsfragmenten toe te voegen ](#expression)
+>Bewerkbare gebieden kunnen aan **beeld** worden toegevoegd, **tekst** en **knoop** componenten. Voor **HTML** componenten, worden de editable gebieden toegevoegd gebruikend de verpersoonlijkingsredacteur, gelijkend op uitdrukkingsfragmenten. [&#x200B; Leer hoe te om editable gebied in de componenten van HTML en uitdrukkingsfragmenten toe te voegen &#x200B;](#expression)
 
 1. Open het scherm voor de editie van de fragmentinhoud.
 
@@ -76,4 +76,4 @@ For example, in the code below, each element highlighted in red can become a pro
 -->
 >[!MORELIKETHIS]
 >
->[ Fragments ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
+>[&#x200B; Fragments &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
