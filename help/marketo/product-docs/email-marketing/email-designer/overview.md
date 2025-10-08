@@ -26,47 +26,47 @@ De e-mail Designer is de nieuwste innovatie in Marketo Engage die is bedoeld om 
 
 +++Leer hoe u toegang krijgt tot de e-mail-Designer
 
-Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [&#x200B; Systeem van Adobe Identity Management (IMS) worden gemigreerd &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
 1. Ga in Marketo Engage naar het **[!UICONTROL Admin]** -gebied en selecteer **[!UICONTROL New Email Designer]** .
 
-   ![ Selecterend Nieuwe E-mail Designer in de linkernav van Admin ](assets/overview-1.png){width="600" zoomable="yes"}
+   ![&#x200B; Selecterend Nieuwe E-mail Designer in de linkernav van Admin &#x200B;](assets/overview-1.png){width="600" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Add Users]**.
 
-   ![ voegt de knoop van Gebruikers ](assets/overview-2.png){width="600" zoomable="yes"} toe
+   ![&#x200B; voegt de knoop van Gebruikers &#x200B;](assets/overview-2.png){width="600" zoomable="yes"} toe
 
 1. Selecteer de gewenste gebruikers in de vervolgkeuzelijst **[!UICONTROL Add New Values]** . Klik op **[!UICONTROL OK]** als u klaar bent.
 
-   ![ Kiezen gebruikers van lijst ](assets/overview-3.png){width="600" zoomable="yes"}
+   ![&#x200B; Kiezen gebruikers van lijst &#x200B;](assets/overview-3.png){width="600" zoomable="yes"}
 
 +++
 
 ## Beschikbare artikelen {#available-articles}
 
-* [ E-mail authoring ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe redacteur tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
+* [&#x200B; E-mail authoring &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe redacteur tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
 
-* [ malplaatje het auteursrecht van de E-mail ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
+* [&#x200B; malplaatje het auteursrecht van de E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
 
-* [ Fragments ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: Leer om visuele inhoudsfragmenten als herbruikbare componenten voor e-mail en e-mailmalplaatjes tot stand te brengen en te gebruiken.
+* [&#x200B; Fragments &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: Leer om visuele inhoudsfragmenten als herbruikbare componenten voor e-mail en e-mailmalplaatjes tot stand te brengen en te gebruiken.
 
-* [ Aanpasbare fragmenten ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Leer hoe te om fragmenten aan te passen door sommige van hun gebieden editable te maken.
+* [&#x200B; Aanpasbare fragmenten &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: Leer hoe te om fragmenten aan te passen door sommige van hun gebieden editable te maken.
 
-* [ Werk met de activa van AEM ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw digitale activa van AEM voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
+* [&#x200B; Werk met de activa van AEM &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: Leer hoe te om tot uw digitale activa van AEM voor gebruik in Marketo Engage gemakkelijk toegang te hebben.
 
-* [ geeft Beelden met Adobe Express ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"} uit: Leer hoe te om beelden in de E-mailredacteur van Adobe Marketo Engage uit te geven gebruikend Adobe Express.
+* [&#x200B; geeft Beelden met Adobe Express &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"} uit: Leer hoe te om beelden in de E-mailredacteur van Adobe Marketo Engage uit te geven gebruikend Adobe Express.
 
-* [ Medewerker van het Gebruik AI ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Hefboomwerking generatieve AI technologie van Adobe om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
+* [&#x200B; Medewerker van het Gebruik AI &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: Hefboomwerking generatieve AI technologie van Adobe om nuttige tekst en/of beelden aan uw e-mails toe te voegen.
 
-* [ de inhoud van het Slot in e-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Leer hoe te om inhoud in e-mailmalplaatjes te sluiten, die helpen onopzettelijke uitgeeft of schrappingen verhinderen.
+* [&#x200B; de inhoud van het Slot in e-mailmalplaatjes &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: Leer hoe te om inhoud in e-mailmalplaatjes te sluiten, die helpen onopzettelijke uitgeeft of schrappingen verhinderen.
 
-* [ het Emailteruggeven van de Test met Litmus ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Hefboomwerking uw rekening van de Leiding in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
+* [&#x200B; het Emailteruggeven van de Test met Litmus &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: Hefboomwerking uw rekening van de Leiding in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
 
-* [ Spam Detection met SpamAssassin ](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: Gebruikend SpamAssassin in Marketo Engage, kunt u uw e-mailinhoud testen en de waarschijnlijkheid zien van ISPs/de leveranciers van de Brievenbus die het als spam merken.
+* [&#x200B; Spam Detection met SpamAssassin &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: Gebruikend SpamAssassin in Marketo Engage, kunt u uw e-mailinhoud testen en de waarschijnlijkheid zien van ISPs/de leveranciers van de Brievenbus die het als spam merken.
 
-* [ de vergelijking van de Eigenschap ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Vergelijk de beschikbaarheid van eigenschappen in de vorige e-mailredacteur (E-mailRedacteur 2.0) en nieuwe E-mailDesigner.
+* [&#x200B; de vergelijking van de Eigenschap &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: Vergelijk de beschikbaarheid van eigenschappen in de vorige e-mailredacteur (E-mailRedacteur 2.0) en nieuwe E-mailDesigner.
 
 ## Veelgestelde vragen {#faq}
 
@@ -112,7 +112,7 @@ Momenteel, steunt de nieuwe ontwerper slechts attributen, maar wij werken aan he
 
 **Hoe kan ik vertellen of is ons Marketo Engage abonnement gemigreerd aan IMS (Adobe Admin Console)?**
 
-Als u login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}, uw abonnement is gemigreerd.
+Als u login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experiencecloud.adobe.com/){target="_blank"}, uw abonnement is gemigreerd.
 
 **Welke browsers kan ik met nieuwe E-mail Designer gebruiken?**
 
