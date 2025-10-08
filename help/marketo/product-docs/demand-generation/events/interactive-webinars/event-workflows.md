@@ -3,9 +3,9 @@ description: Workflows voor gebeurtenissen - Marketo Docs - Productdocumentatie
 title: Workflows voor gebeurtenissen
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Nadat uw webinar wordt voltooid, ga naar het lusje van het Dashboard om de bijee
 
 ## Handmatige synchronisatie {#manual-sync}
 
-Met interactieve webinars kunt u de betrokkenheidsgegevens van uw webinar verkrijgen van Adobe Connect als u deze niet automatisch binnen twee uur na voltooiing van het webinar hebt ontvangen. De knop &quot;Nu synchroniseren&quot; wordt weergegeven op de pagina Overzicht. Het klikken **Synchronisatie** brengt een trekkracht van Adobe Connect in werking om de gegevens in Marketo Engage te bevolken. Nadat de synchronisatie is uitgevoerd, verdwijnt de knop en wordt het tabblad Dashboard gevuld.
+Met interactieve webinars kunt u de betrokkenheidsgegevens van uw webinar verkrijgen van Adobe Connect als u deze niet automatisch binnen twee uur na voltooiing van het webinar hebt ontvangen. 31 dagen na de Interactieve leveringsdatum van Webinar, verschijnt een &quot;Synchronisatie op bestelling de opties van de Activiteit&quot;op de rechterkant van de kopbal het _dashboard van webinar_. Als u erop klikt, wordt er een trekkracht uit Adobe Connect geactiveerd om de gegevens in Marketo Engage te vullen. Het synchroniseert gegevens van de datum van uw webinar tot de datum u **Synchronisatie op bestelling Activiteit** klikt.
 
 ## Dashboardwidgets {#dashboard-widgets}
 
