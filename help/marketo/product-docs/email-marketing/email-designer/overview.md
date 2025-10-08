@@ -5,9 +5,9 @@ description: Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 title: Overzicht
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
 workflow-type: tm+mt
-source-wordcount: '859'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ De e-mail Designer is de nieuwste innovatie in Marketo Engage die is bedoeld om 
 
 +++Leer hoe u toegang krijgt tot de e-mail-Designer
 
-Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo Engage aan het [ Systeem van Adobe Identity Management (IMS) worden gemigreerd ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ### Gebruikers toevoegen {#add-users}
 
@@ -72,7 +72,7 @@ Om tot nieuwe E-mail Designer toegang te hebben, moet uw abonnement van Marketo 
 
 **zal de oude e-mailredacteur blijven functioneren? Zo ja, voor hoe lang?**
 
-Ja, de oude (klassieke) e-maileditor bestaat samen met de nieuwe e-mailtoepassing Designer. E-mails die in de klassieke editor zijn gemaakt, blijven behouden. Er is geen datum waarop de klassieke redacteur op dit ogenblik zal worden afgekeurd, maar het zal door 2025 blijven functioneren.
+Ja, de oude (klassieke) e-maileditor bestaat samen met de nieuwe e-mailtoepassing Designer. E-mails die in de klassieke editor zijn gemaakt, blijven behouden. Er is geen datum waarop de klassieke redacteur op dit ogenblik zal worden afgekeurd, maar het zal in 2026 blijven functioneren. We zullen enkele maanden van tevoren de oude redacteur aftreden.
 
 **Welke programma&#39;s kan ik de Nieuwe E-mailDesigner e-mail in gebruiken?**
 
