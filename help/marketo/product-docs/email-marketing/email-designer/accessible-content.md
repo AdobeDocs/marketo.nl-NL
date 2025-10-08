@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Toegankelijke inhoud ontwerpen {#accessible-content}
 
-De [ Europese toegankelijkheidswet ](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} is een richtlijn die wordt ontworpen om de interne markt voor toegankelijke producten en diensten te verbeteren door barrières weg te nemen die door verschillende nationale regels in de lidstaten worden veroorzaakt.
+De [&#x200B; Europese toegankelijkheidswet &#x200B;](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} is een richtlijn die wordt ontworpen om de interne markt voor toegankelijke producten en diensten te verbeteren door barrières weg te nemen die door verschillende nationale regels in de lidstaten worden veroorzaakt.
 
 Deze verordening bepaalt dat alle digitale communicatie, inclusief e-mails, nieuwsbrieven, PDF&#39;s en downloadbare inhoud, toegankelijk moet zijn. Wanneer u inhoud maakt voor uw ontvangers, moet u daarom bepaalde richtlijnen volgen, zoals het gebruik van toegankelijke lettertypen en leesbare indelingen, en het aanbieden van alternatieve tekst voor afbeeldingen.
 
@@ -108,7 +108,7 @@ Om leesbaar te zijn, moet uw inhoud duidelijk zijn, goed gestructureerd, en brui
 * Gebruik actieve stem om de zinsstructuur eenvoudiger te houden.
 * Vermijd slang, jargon of regionale woorden die sommige mensen misschien niet kennen.
 
-Om uw e-mailleesbaarheid te evalueren, kunt u de populaire [ test van de Versnelling van de Lezing van de Vlesch gebruiken ](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2){target="_blank"}, die in Microsoft Word kan worden gevonden en berekent hoe gemakkelijk uw inhoud op een schaal van 0-100 moet lezen.
+Om uw e-mailleesbaarheid te evalueren, kunt u de populaire [&#x200B; test van de Versnelling van de Lezing van de Vlesch gebruiken &#x200B;](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2){target="_blank"}, die in Microsoft Word kan worden gevonden en berekent hoe gemakkelijk uw inhoud op een schaal van 0-100 moet lezen.
 
 ## Uw inhoud testen {#test}
 
@@ -116,7 +116,7 @@ Om de toegankelijkheid van uw inhoud te controleren, kunt u de testmogelijkheden
 
 * Geef een voorvertoning van de inhoud weer met testprofielen.
 
-* Gebruik de [ E-mail die ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"} optie teruggeeft die hefboomwerkingen Litmus om uw ontwerpen over belangrijke e-mailcliënten (de Post van Apple, Gmail, Vooruitzichten) te simuleren en te zien of maken de tekst, de kleuren en de beelden uw inhoud toegankelijk. <!--Litmus includes accessibility testing-->
+* Gebruik de [&#x200B; E-mail die &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"} optie teruggeeft die hefboomwerkingen Litmus om uw ontwerpen over belangrijke e-mailcliënten (de Post van Apple, Gmail, Vooruitzichten) te simuleren en te zien of maken de tekst, de kleuren en de beelden uw inhoud toegankelijk. <!--Litmus includes accessibility testing-->
 
 * Verzend proefdrukken om de rendering van uw inhoud te testen voordat u deze naar uw echte publiek stuurt.
 
@@ -124,13 +124,13 @@ Om de toegankelijkheid van uw inhoud te controleren, kunt u de testmogelijkheden
 
 Als u op een meer consistente manier wilt controleren of uw inhoud betrouwbaar toegankelijk is, gaat u naar specifieke externe gereedschappen, zoals:
 
-* De [ contrastcontrole WebAim ](https://webaim.org/resources/contrastchecker/){target="_blank"} en het [ hulpmiddel van de de evaluatie van de Webtoegankelijkheid van de WAVE ](https://wave.webaim.org/){target="_blank"} om contrast en naleving te evalueren;
+* De [&#x200B; contrastcontrole WebAim &#x200B;](https://webaim.org/resources/contrastchecker/){target="_blank"} en het [&#x200B; hulpmiddel van de de evaluatie van de Webtoegankelijkheid van de WAVE &#x200B;](https://wave.webaim.org/){target="_blank"} om contrast en naleving te evalueren;
 
-* De technologieën van de hulp zoals het schermlezers (bijvoorbeeld: [ NVDA ](https://www.nvaccess.org/download/){target="_blank"}, of [ VoiceOver ](https://support.apple.com/en-ie/guide/iphone/iph3e2e415f/ios){target="_blank"} op iPhone) om e-mails van het perspectief van visueel gehandicapte gebruikers te ervaren.
+* De technologieën van de hulp zoals het schermlezers (bijvoorbeeld: [&#x200B; NVDA &#x200B;](https://www.nvaccess.org/download/){target="_blank"}, of [&#x200B; VoiceOver &#x200B;](https://support.apple.com/en-ie/guide/iphone/iph3e2e415f/ios){target="_blank"} op iPhone) om e-mails van het perspectief van visueel gehandicapte gebruikers te ervaren.
 
 ## Donkere modus gebruiken {#dark-mode}
 
-[ Donkere wijze ](/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md){target="_blank"} verbetert visuele toegankelijkheid voor gebruikers met lichtgevoeligheid of visuele bijzondere beperkingen, voor een betere het bekijken ervaring.
+[&#x200B; Donkere wijze &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md){target="_blank"} verbetert visuele toegankelijkheid voor gebruikers met lichtgevoeligheid of visuele bijzondere beperkingen, voor een betere het bekijken ervaring.
 
 <!--![](assets/accessible-dark-mode.png){width="90%"}-->
 
