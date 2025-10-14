@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 84f50f836d4908f0b5547598ad6b60a321b80e98
 workflow-type: tm+mt
-source-wordcount: '9311'
+source-wordcount: '9314'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Helpcentrum](getting-started/things-to-know/help-center.md)
@@ -1029,6 +1029,7 @@ ht-degree: 0%
          + [Functievergelijking](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-mailontwerp](product-docs/email-marketing/email-designer/email-authoring.md)
          + [E-mailsjabloonontwerp](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [Een sjabloon importeren](product-docs/email-marketing/email-designer/import-template.md)
          + [Toegankelijke inhoud ontwerpen](product-docs/email-marketing/email-designer/accessible-content.md)
          + [Aangepaste CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Merkthema&#39;s](product-docs/email-marketing/email-designer/brand-themes.md)
