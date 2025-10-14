@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ maak een Campagne zichtbaar aan de Gebruikers van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+>[&#x200B; maak een Campagne zichtbaar aan de Gebruikers van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
 
 ## Personen toevoegen aan een campagne {#add-individuals-to-a-campaign}
 

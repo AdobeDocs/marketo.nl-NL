@@ -45,7 +45,7 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
    >[!TIP]
    >
-   >Leer meer over [ tekenen voor stroomstappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >Leer meer over [&#x200B; tekenen voor stroomstappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kunt u het formules gebied als teken in een e-mail toevoegen.
 
@@ -53,6 +53,6 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
 >[!NOTE]
 >
->Formulervelden kunnen worden gebruikt in Landingspagina&#39;s, e-mails en kolommen Slimme lijst. E-mails met formules kunnen __ niet worden verzonden gebruikend een partijcampagne. Gelieve te gebruiken een [ symbolisch e-mailmanuscript ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
+>Formulervelden kunnen worden gebruikt in Landingspagina&#39;s, e-mails en kolommen Slimme lijst. E-mails met formules kunnen __ niet worden verzonden gebruikend een partijcampagne. Gelieve te gebruiken een [&#x200B; symbolisch e-mailmanuscript &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
 
 Goed werk! Nu heb je een slim veld dat weet welke aanhef je moet opnemen op basis van geslacht. Maak hier plezier mee en maak creatief.

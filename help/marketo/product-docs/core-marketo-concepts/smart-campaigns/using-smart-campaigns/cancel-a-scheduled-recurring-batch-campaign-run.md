@@ -25,7 +25,7 @@ Als u een terugkerende Campagne hebt van de Partij die u niet meer wilt, kunt u 
 
    >[!TIP]
    >
-   >U kunt één enkele looppas annuleren door op ![ rode x ](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) naast het te klikken. Leer hoe te [ een geplande looppas van de partijcampagne annuleren ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >U kunt één enkele looppas annuleren door op ![&#x200B; rode x &#x200B;](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) naast het te klikken. Leer hoe te [&#x200B; een geplande looppas van de partijcampagne annuleren &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
 1. Stel Planning in op **[!UICONTROL None]** en klik op **[!UICONTROL Save]** .
 
@@ -39,4 +39,4 @@ Als u een terugkerende Campagne hebt van de Partij die u niet meer wilt, kunt u 
 
    >[!MORELIKETHIS]
    >
-   >[ annuleert een Geplande Looppas van de Campagne van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+   >[&#x200B; annuleert een Geplande Looppas van de Campagne van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

@@ -33,5 +33,5 @@ Leer hoe u naar een afbeelding of bestand zoekt.
 
 >[!MORELIKETHIS]
 >
->* [ vervangt een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [ organiseer Uw Beelden en Dossiers gebruikend Omslagen ](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+>* [&#x200B; vervangt een Geüploade Beeld of Dossier &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [&#x200B; organiseer Uw Beelden en Dossiers gebruikend Omslagen &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

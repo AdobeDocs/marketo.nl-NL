@@ -16,13 +16,13 @@ Dialogen zijn individuele praatjegesprekken. In elke Dialoog, beslist u waar het
 
 ## Criteria voor het publiek {#audience-criteria}
 
-De [ sectie van de Criteria van de Publiek ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
+De [&#x200B; sectie van de Criteria van de Publiek &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-De [ sectie van Designer van de Stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} van een Dialoog is waar u het gesprek zult ontwerpen dat u met uw websitebezoekers wilt hebben.
+De [&#x200B; sectie van Designer van de Stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} van een Dialoog is waar u het gesprek zult ontwerpen dat u met uw websitebezoekers wilt hebben.
 
 ![](assets/dialogue-overview-2.png)
 

@@ -17,13 +17,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
->* [ verzend een E-mailschoen ](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
->* [ Drip, Drip, Nurture ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
+>* [&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>* [&#x200B; verzend een E-mailschoen &#x200B;](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
+>* [&#x200B; Drip, Drip, Nurture &#x200B;](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
 
 ## Stap 1: Selecteer een e-mailadres dat u wilt aanpassen {#step-select-an-email-to-personalize}
 
-1. Selecteer één van de verfrissende e-mails die in [ vorige snelle win ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} worden gecreeerd en klik **[!UICONTROL Create draft]**.
+1. Selecteer één van de verfrissende e-mails die in [&#x200B; vorige snelle win &#x200B;](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} worden gecreeerd en klik **[!UICONTROL Create draft]**.
 
    ![](assets/personalize-an-email-1.png)
 
@@ -95,7 +95,7 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
 
 >[!TIP]
 >
->Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [ een E-mailbeslagbal ](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"} verzenden.
+>Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [&#x200B; een E-mailbeslagbal &#x200B;](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"} verzenden.
 
 ### Opdracht voltooid {#mission-complete}
 

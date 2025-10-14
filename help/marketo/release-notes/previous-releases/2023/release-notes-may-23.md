@@ -15,7 +15,7 @@ Hieronder vindt u alle functies die in de release van 23 mei zijn opgenomen. Raa
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -65,7 +65,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 Interactieve webinars vergroten de bestaande gebeurtenissen en webinars door een native en naadloze ervaring voor marketers te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Pas de webinars aan op basis van het type gebeurtenis en voeg desgewenst zelfs presentatoren toe. Verkrijg rijke inzichten van betrokkenheid door de eigenschappen van Adobe Connect zoals levende opiniepeilingen, praatje, Q&amp;A zittingen, Web verbinding klikt, documentdownloads, en meer. Haal de webinar-opname rechtstreeks op in Marketo Engage en evalueer de prestaties ervan via maateenheden op het dashboard.
 
-Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang te verzoeken, te vullen gelieve [ deze vorm ](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang te verzoeken, te vullen gelieve [&#x200B; deze vorm &#x200B;](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table>
   <tr>
@@ -81,4 +81,4 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang t
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar van de Versie van het Product_**: [ Maart en Mei 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [&#x200B; Maart en Mei 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

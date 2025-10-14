@@ -38,7 +38,7 @@ De verpersoonlijking van het Web steunt nu veelvoudige werkruimten.
 
 ## Marketo [!DNL Sky] {#marketo-sky}
 
-Voor meer details en updates, controleer onze [[!DNL Sky]  versienota&#39;s ](https://help.marketo.com).
+Voor meer details en updates, controleer onze [[!DNL Sky]  versienota&#39;s &#x200B;](https://help.marketo.com).
 
 * **Updates van het Systeem van het Ontwerp**
 
@@ -56,7 +56,7 @@ Voor meer details en updates, controleer onze [[!DNL Sky]  versienota&#39;s ](ht
 * De Mening van de Lijst van de Studio van het ontwerp: De gebruikers hebben nu de capaciteit om het landen paginasjablonen en e-mailmalplaatjes in lijst-mening formaat te bekijken, die voor snelle navigatie en bulkacties op één enkel activatype toestaan.
 * De Pagina&#39;s van het Detail van Activa van de Studio van het ontwerp: Bespaar tijd en hoofdpijlers door, acties van het bulkmiddel op alle activa in één plaats te bekijken te organiseren en uit te voeren.
 * **Standaardprogramma&#39;s nu Beschikbaar in Marketo[!DNL Sky]**: Marketo [!DNL Sky] steunt nu standaardprogramma&#39;s, de veelzijdige programmastijl die u toestaat om het even welke campagne tot stand te brengen u zich kunt voorstellen.
-* **E-mailProgramma&#39;s - Fase 1**: U kunt e-mailprogramma&#39;s in [!DNL Sky] nu bekijken. Neem een blik bij het nieuwe ontwerp en [ laat ons weten wat u ](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html) denkt.
+* **E-mailProgramma&#39;s - Fase 1**: U kunt e-mailprogramma&#39;s in [!DNL Sky] nu bekijken. Neem een blik bij het nieuwe ontwerp en [&#x200B; laat ons weten wat u &#x200B;](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html) denkt.
 
 ## Analytics {#analytics}
 

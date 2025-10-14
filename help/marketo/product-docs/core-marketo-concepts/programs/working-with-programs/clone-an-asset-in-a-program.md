@@ -17,7 +17,7 @@ Het klonen van een programmaklonen _alles_. Soms wilt u maar één element klone
 
 >[!NOTE]
 >
->U zult extra stappen moeten uitvoeren om [ een het landen groep van de paginatest ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"} te klonen.
+>U zult extra stappen moeten uitvoeren om [&#x200B; een het landen groep van de paginatest &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"} te klonen.
 
 ## Lokaal element klonen {#clone-a-local-asset}
 
@@ -47,4 +47,4 @@ Het klonen van een programmaklonen _alles_. Soms wilt u maar één element klone
 
    >[!NOTE]
    >
-   >[ Kloon een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md){target="_blank"}
+   >[&#x200B; Kloon een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md){target="_blank"}

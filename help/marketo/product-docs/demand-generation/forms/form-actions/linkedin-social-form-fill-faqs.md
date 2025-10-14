@@ -49,11 +49,11 @@ Nee, deze gegevens zijn al opgeslagen in het persoonrecord in Marketo en zijn ni
 
 ## Waar kan ik meer informatie over het beleid van LinkedIn API vinden? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-Volg deze verbinding om meer over de veranderingen [!DNL LinkedIn] te leren die aan hun API beleid worden aangebracht: [ https://developer.linkedin.com/blog/posts/2015/developer-program-changes ](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+Volg deze verbinding om meer over de veranderingen [!DNL LinkedIn] te leren die aan hun API beleid worden aangebracht: [&#x200B; https://developer.linkedin.com/blog/posts/2015/developer-program-changes &#x200B;](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## Hoe kan ik contact opnemen met [!DNL LinkedIn] met vragen? {#how-can-i-contact-linkedin-with-questions}
 
-Volg deze verbinding aan contact [!DNL LinkedIn] over hun Oplossingen van de Marketing: [ https://business.linkedin.com/marketing-solutions/contact-us ](https://business.linkedin.com/marketing-solutions/contact-us)
+Volg deze verbinding aan contact [!DNL LinkedIn] over hun Oplossingen van de Marketing: [&#x200B; https://business.linkedin.com/marketing-solutions/contact-us &#x200B;](https://business.linkedin.com/marketing-solutions/contact-us)
 
 ## Als Marketo deze functie op 28 april uit mijn formulieren had verwijderd, werden mijn formulieren en de betreffende landingspagina&#39;s dan in de ontwerpmodus gezet? {#if-marketo-removed-this-functionality-from-my-forms-on-april-were-my-forms-and-the-affected-landing-pages-put-into-draft-mode}
 

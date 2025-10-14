@@ -33,12 +33,12 @@ Bekijk mensen die in aanmerking komen om door de flow te gaan wanneer u een slim
 
    >[!NOTE]
    >
-   >Het aantal gekwalificeerde personen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe te [ kwalificatieregels ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"} uitgeven.
+   >Het aantal gekwalificeerde personen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe te [&#x200B; kwalificatieregels &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"} uitgeven.
 
 Mooi! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom zouden kunnen gaan alvorens u een Slimme Campagne in werking stelt.
 
 >[!MORELIKETHIS]
 >
->* [ Leden van de Campagne van de Mening Slimme ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
->* [ Geblokkeerde Mensen van de Mening in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
->* [ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>* [&#x200B; Leden van de Campagne van de Mening Slimme &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+>* [&#x200B; Geblokkeerde Mensen van de Mening in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+>* [&#x200B; voeg een Stap van de Stroom aan een Slimme Campagne toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

@@ -17,11 +17,11 @@ Hier volgen een paar voorbeelden van het toevoegen en verwijderen van waarden vo
 
 ## Picklist-waarden toevoegen {#adding-picklist-values}
 
-1. Als een extra waarde in Salesforce aan een picklist gebiedstype wordt toegevoegd, zult u a [ bericht ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} ontvangen identificerend welke vormen dit zal beïnvloeden.
+1. Als een extra waarde in Salesforce aan een picklist gebiedstype wordt toegevoegd, zult u a [&#x200B; bericht &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} ontvangen identificerend welke vormen dit zal beïnvloeden.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Ga naar de vormredacteur en [ voeg de extra waarde ](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} aan uw lijst van suggesties toe.
+1. Ga naar de vormredacteur en [&#x200B; voeg de extra waarde &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} aan uw lijst van suggesties toe.
 
 ## Picklist-waarden verwijderen {#remove-picklist-values}
 

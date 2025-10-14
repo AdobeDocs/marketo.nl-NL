@@ -36,7 +36,7 @@ U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[ Marketo Sky Open Beta ](https://help.marketo.com/)
+[&#x200B; Marketo Sky Open Beta &#x200B;](https://help.marketo.com/)
 
 Open de Marketo Sky-bètaversie om toegang te krijgen tot meer dan 100 nieuwe productiviteitsverhogende mogelijkheden, waaronder:
 

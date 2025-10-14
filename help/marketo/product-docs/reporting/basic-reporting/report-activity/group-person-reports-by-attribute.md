@@ -29,7 +29,7 @@ U kunt uw persoonrapporten door om het even welke persoon of bedrijfattributen g
 
    >[!NOTE]
    >
-   >U kunt ook [ uw persoonrapporten groeperen door segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >U kunt ook [&#x200B; uw persoonrapporten groeperen door segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Selecteer in het dialoogvenster [!UICONTROL Group People by] de persoon of het bedrijfskenmerk dat u wilt gebruiken voor groeperen.
 
@@ -45,4 +45,4 @@ U kunt uw persoonrapporten door om het even welke persoon of bedrijfattributen g
 
    >[!MORELIKETHIS]
    >
-   >[ voeg de Kolommen van de Douane aan een Rapport van de Persoon toe ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+   >[&#x200B; voeg de Kolommen van de Douane aan een Rapport van de Persoon toe &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

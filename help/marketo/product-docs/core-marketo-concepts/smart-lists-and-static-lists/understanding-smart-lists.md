@@ -20,21 +20,21 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
 
 De belangrijkste stappen voor het maken van een slimme lijst zijn:
 
-1. [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-1. [ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
-1. [ bepaalt Slimme Filters van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+1. [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+1. [&#x200B; vind en voeg Filters aan een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
+1. [&#x200B; bepaalt Slimme Filters van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 Hier is een voorbeeld van hoe een slimme Lijst eruit ziet.
 
 ## Hoofdtabblad {#main-tab}
 
-Hier kunt u [ de Slimme naam van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} uitgeven en informatie over de Slimme Lijst zien.
+Hier kunt u [&#x200B; de Slimme naam van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} uitgeven en informatie over de Slimme Lijst zien.
 
 ![](assets/understanding-smart-lists-1.png)
 
 ## Tab Personen {#people-tab}
 
-Dit is waar u uw resultaten ziet; d.w.z., alle mensen die voor de filters kwalificeren u [ toevoegde en bepaald ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} onder het Slimme lusje van de Lijst.
+Dit is waar u uw resultaten ziet; d.w.z., alle mensen die voor de filters kwalificeren u [&#x200B; toevoegde en bepaald &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} onder het Slimme lusje van de Lijst.
 
 ![](assets/understanding-smart-lists-2.png)
 
@@ -48,5 +48,5 @@ Oké, laten we beginnen!
 
 >[!MORELIKETHIS]
 >
->* [ Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
->* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [&#x200B; Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

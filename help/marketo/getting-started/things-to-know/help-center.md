@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Helpcentrum {#help-center}
 
-Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [ productdocumentatie ](/help/marketo/home.md){target="_blank"}, [ versieinformatie ](/help/marketo/release-notes/current.md){target="_blank"}, de [ Gemeenschap van de Natie van de Marketing ](https://nation.marketo.com/){target="_blank"}), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
+Het Help Center in Adobe Marketo Engage fungeert als een centrale locatie voor hulp. Naast het verbinden uit aan diverse middelen (b.v., [&#x200B; productdocumentatie &#x200B;](/help/marketo/home.md){target="_blank"}, [&#x200B; versieinformatie &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}, de [&#x200B; Gemeenschap van de Natie van de Marketing &#x200B;](https://nation.marketo.com/){target="_blank"}), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
 
 ## Toegang verkrijgen {#how-to-access}
 
@@ -20,9 +20,9 @@ Er zijn twee verschillende ervaringen, afhankelijk van of uw abonnement al naar 
 
 ### Migratie vóór Adobe IMS {#pre-adobe-ims-integration}
 
-Deze stappen zijn voor de gebruikers van Marketo Engage die _niet_ zijn gemigreerd aan [ IMS van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} nog.
+Deze stappen zijn voor de gebruikers van Marketo Engage die _niet_ zijn gemigreerd aan [&#x200B; IMS van Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} nog.
 
-[ Login ](https://login.marketo.com/){target="_blank"} aan Marketo Engage en klik het pictogram van de Hulp.
+[&#x200B; Login &#x200B;](https://login.marketo.com/){target="_blank"} aan Marketo Engage en klik het pictogram van de Hulp.
 
 ![](assets/help-center-1.png)
 
@@ -70,9 +70,9 @@ Op het tabblad Bronnen hebt u snel en rechtstreeks toegang tot verschillende man
 
 ### Migratie na Adobe IMS {#post-adobe-ims-integration}
 
-Deze stappen zijn voor de gebruikers van Marketo Engage die reeds aan [ IMS van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd.
+Deze stappen zijn voor de gebruikers van Marketo Engage die reeds aan [&#x200B; IMS van Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd.
 
-[ Login ](https://experience.adobe.com/){target="_blank"} aan Marketo Engage en klik het pictogram van de Hulp.
+[&#x200B; Login &#x200B;](https://experience.adobe.com/){target="_blank"} aan Marketo Engage en klik het pictogram van de Hulp.
 
 ![](assets/help-center-9.png)
 

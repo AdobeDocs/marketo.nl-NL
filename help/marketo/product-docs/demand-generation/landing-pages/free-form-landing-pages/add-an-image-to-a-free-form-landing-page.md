@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ voegt Beelden en Dossiers aan Marketo ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toe
+>[&#x200B; voegt Beelden en Dossiers aan Marketo &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toe
 
 1. Selecteer de landingspagina van de vrije vorm en klik op **[!UICONTROL Edit Draft]** .
 

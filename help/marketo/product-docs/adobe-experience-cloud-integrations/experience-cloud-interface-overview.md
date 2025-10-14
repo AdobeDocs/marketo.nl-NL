@@ -16,7 +16,7 @@ Met Adobe Experience Cloud Interface wordt de &#39;shell&#39;-look en -feel van 
 
 ## Gebruikersstroom {#user-flow}
 
-Als u niet reeds aan een product van Adobe Experience Cloud wordt het programma geopend, login direct aan [!DNL Marketo Engage] hier: [ https://experience.adobe.com/marketo-engage ](https://experience.adobe.com/marketo-engage).
+Als u niet reeds aan een product van Adobe Experience Cloud wordt het programma geopend, login direct aan [!DNL Marketo Engage] hier: [&#x200B; https://experience.adobe.com/marketo-engage &#x200B;](https://experience.adobe.com/marketo-engage).
 
 Als u __ reeds het programma wordt geopend aan een product van Adobe Experience Cloud, klik eenvoudig het menupictogram en selecteer **[!DNL Marketo Engage]**.
 
@@ -58,7 +58,7 @@ Klik op het profielpictogram om de taal of andere voorkeuren voor Adobe te wijzi
 
 **ik kan niet login aan [!DNL Marketo Engage] door de Interface van Experience Cloud. Wat zou de kwestie kunnen zijn?**
 
-Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &#39;&#39;Kan pagina niet laden&#39;&#39; ziet, kan het probleem zich voordoen op de zijde van [!DNL Marketo Engage] . Gelieve te contacteren {de Steun van 0} Marketo [ voor hulp.](https://nation.marketo.com/t5/support/ct-p/Support)
+Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &#39;&#39;Kan pagina niet laden&#39;&#39; ziet, kan het probleem zich voordoen op de zijde van [!DNL Marketo Engage] . Gelieve te contacteren {de Steun van 0} Marketo [&#x200B; voor hulp.](https://nation.marketo.com/t5/support/ct-p/Support)
 
 **waar ging de Geschiedenis van de Gebruiker, Globaal Onderzoek, de Meldingen van Marketo, en het dienblad?**
 

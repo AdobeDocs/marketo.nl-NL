@@ -31,4 +31,4 @@ Hier selecteert u het bericht dat u hebt gemaakt voor gebruik in het programma.
    >
    >Als u een ander bericht wilt selecteren, verwijdert u dit in het veld [!UICONTROL In-App Message] . De koppeling [!UICONTROL New In-App Message] komt dan terug. Klik erop en selecteer een ander bericht.
 
-Je bent op schema. Tijd om [ te plannen verzendt ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+Je bent op schema. Tijd om [&#x200B; te plannen verzendt &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).

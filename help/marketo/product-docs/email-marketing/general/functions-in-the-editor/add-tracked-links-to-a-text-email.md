@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer slechts een Tekst E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
->* [ geeft Elementen in E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) uit
+>* [&#x200B; creeer slechts een Tekst E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [&#x200B; geeft Elementen in E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) uit
 
 E-mailkoppelingen naar tekst kunnen worden bijgehouden in Marketo. Laten we eens kijken hoe het werkt.
 

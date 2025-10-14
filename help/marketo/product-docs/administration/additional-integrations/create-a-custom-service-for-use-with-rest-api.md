@@ -17,8 +17,8 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!PREREQUISITES]
 >
->* [ creeer een slechtsAPI Rol van de Gebruiker ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [ creeer een slechts Gebruiker API ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [&#x200B; creeer een slechtsAPI Rol van de Gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [&#x200B; creeer een slechts Gebruiker API &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
 
 >[!NOTE]
@@ -27,7 +27,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!TIP]
 >
->Controle uit onze ontwikkelaarsdocumentatie voor details op [ REST API ](https://developer.adobe.com/marketo-apis/). Wij hebben ook [ SOAP API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
+>Controle uit onze ontwikkelaarsdocumentatie voor details op [&#x200B; REST API &#x200B;](https://developer.adobe.com/marketo-apis/). Wij hebben ook [&#x200B; SOAP API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
 
 ## Aangepaste service maken {#create-custom-service}
 
@@ -43,7 +43,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Voer een **[!UICONTROL Display Name]** in voor de service. Selecteer **[!UICONTROL API Only User]** [ eerder gecreeerd ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Voer een **[!UICONTROL Display Name]** in voor de service. Selecteer **[!UICONTROL API Only User]** [&#x200B; eerder gecreeerd &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 

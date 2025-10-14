@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ voeg een Mobiele Mening voor Uw Vrije-Vorm het Landen Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[&#x200B; voeg een Mobiele Mening voor Uw Vrije-Vorm het Landen Pagina toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 De mobiele weergave van de openstaande landingspagina is meestal automatisch, maar u kunt de weergave aanpassen. Zo gaat het.
 
@@ -111,4 +111,4 @@ Veel plezier!
 
 >[!MORELIKETHIS]
 >
->[ maak een Bestaand Vrije vorm het Mobiele Compatibele Malplaatje van de Pagina Mobiele ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[&#x200B; maak een Bestaand Vrije vorm het Mobiele Compatibele Malplaatje van de Pagina Mobiele &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

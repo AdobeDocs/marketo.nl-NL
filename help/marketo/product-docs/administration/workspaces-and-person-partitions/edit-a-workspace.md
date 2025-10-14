@@ -21,7 +21,7 @@ Soms moet u wijzigingen aanbrengen in een Workspace. Het is gemakkelijk.
 
 >[!NOTE]
 >
->Penseel omhoog op werkruimten met [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Penseel omhoog op werkruimten met [&#x200B; Begrijpend Werkruimten en de Verdelingen van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -39,7 +39,7 @@ Soms moet u wijzigingen aanbrengen in een Workspace. Het is gemakkelijk.
 
    >[!NOTE]
    >
-   >U kunt [ tot meer persoonverdelingen ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} leiden als u hen nodig hebt.
+   >U kunt [&#x200B; tot meer persoonverdelingen &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} leiden als u hen nodig hebt.
 
    ![](assets/edit-a-workspace-4.png)
 
@@ -61,5 +61,5 @@ Soms moet u wijzigingen aanbrengen in een Workspace. Het is gemakkelijk.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Nieuwe Workspace ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
->* [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}
+>* [&#x200B; creeer een Nieuwe Workspace &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>* [&#x200B; Begrijpend Werkruimten en de Verdelingen van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}

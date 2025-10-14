@@ -33,5 +33,5 @@ Met betrokkenheidsprogramma&#39;s in Marketo kunt u eenvoudig zorgen voor e-mail
 
    >[!MORELIKETHIS]
    >
-   >* [ voeg Inhoud aan een Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md) toe
-   >* [ plaats de Koorden van de Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [&#x200B; voeg Inhoud aan een Stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md) toe
+   >* [&#x200B; plaats de Koorden van de Stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

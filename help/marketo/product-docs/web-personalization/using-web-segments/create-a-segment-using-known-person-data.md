@@ -17,7 +17,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
 >[!PREREQUISITES]
 >
->[ beheert Persoonsgegevens ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
+>[&#x200B; beheert Persoonsgegevens &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Ga naar **[!UICONTROL Segments]** .
 

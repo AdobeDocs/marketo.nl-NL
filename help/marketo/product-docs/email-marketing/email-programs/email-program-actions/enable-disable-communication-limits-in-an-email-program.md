@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Communicatielimieten in-/uitschakelen in een e-mailprogramma {#enable-disable-communication-limits-in-an-email-program}
 
-Wanneer het runnen van een e-mailprogramma, kunt u verkiezen om de [ communicatielimieten van het adminniveau te negeren of te respecteren ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Zo doe je het.
+Wanneer het runnen van een e-mailprogramma, kunt u verkiezen om de [&#x200B; communicatielimieten van het adminniveau te negeren of te respecteren &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Zo doe je het.
 
 >[!NOTE]
 >
->De communicatielimieten worden [ geplaatst in de Admin sectie ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) en helpen u vermijden verzendend één persoon teveel e-mails.
+>De communicatielimieten worden [&#x200B; geplaatst in de Admin sectie &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) en helpen u vermijden verzendend één persoon teveel e-mails.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

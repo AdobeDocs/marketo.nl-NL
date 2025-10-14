@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn opgenomen in de release van 23 maart. R
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -180,4 +180,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar van de Versie van het Product_**: [ Maart en Mei 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [&#x200B; Maart en Mei 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

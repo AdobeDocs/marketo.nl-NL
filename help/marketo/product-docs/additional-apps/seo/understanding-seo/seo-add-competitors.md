@@ -41,5 +41,5 @@ Als u concurrenten toevoegt, kunt u bijhouden hoe ze voor dezelfde trefwoorden e
 
    >[!MORELIKETHIS]
    >
-   >* [ voeg Sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"} toe
-   >* [ Begrijpend Sleutelwoorden (de Mening van de Concurrent) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+   >* [&#x200B; voeg Sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"} toe
+   >* [&#x200B; Begrijpend Sleutelwoorden (de Mening van de Concurrent) &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}

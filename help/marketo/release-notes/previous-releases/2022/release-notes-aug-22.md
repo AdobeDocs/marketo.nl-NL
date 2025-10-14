@@ -15,7 +15,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 augustu
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 De volgende eigenschappen begonnen een gefaseerde uitrol op **Augustus 26, 2022**.
 
@@ -50,7 +50,7 @@ De volgende eigenschappen begonnen een gefaseerde uitrol op **Augustus 26, 2022*
 
 * **Zichtbaarheid van de Kopbal van de Aangepaste Kopbal van Webhaak**: De douanekopballen van Webhaak worden nu getoond in [!UICONTROL Admin] > [!UICONTROL Webhooks] lusje voor betere zichtbaarheid.
 
-* **CAPTCHA**: Evalueer de geldigheid van vormvoorlegging [ gebruikend reCAPTCHA v3 ](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} om inkomend vormverkeer te scoren. Bouw marketing werkschema&#39;s om verdachte bot verkeer automatisch uit te sluiten, in quarantaine te plaatsen of te schrappen.
+* **CAPTCHA**: Evalueer de geldigheid van vormvoorlegging [&#x200B; gebruikend reCAPTCHA v3 &#x200B;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} om inkomend vormverkeer te scoren. Bouw marketing werkschema&#39;s om verdachte bot verkeer automatisch uit te sluiten, in quarantaine te plaatsen of te schrappen.
 
 * **Toestemming om Vorm** goed te keuren: Nieuwe toestemming om te controleren welke ontwerpers veranderingen in een vorm in lijn met andere [!UICONTROL Design Studio] activa kunnen goedkeuren. Zo voorkomt u dat andere ontwerpers wijzigingen in formulieren doorvoeren zonder dat iemand anders die hiervoor toestemming heeft gekregen, dit controleert.
 
@@ -66,7 +66,7 @@ De volgende eigenschappen begonnen een gefaseerde uitrol op **Augustus 26, 2022*
 
 ## [!DNL Sales Insight] {#sales-insight}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **[[!DNL Sales Insight] Integratie met [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}**: De activiteiten van de mening van [!DNL Dynamic Chat] in het [!DNL Sales Insight] paneel en hefboomwerking dit nieuwe gegevenspunt in uw het prospecteren inspanning.
 
@@ -74,4 +74,4 @@ De volgende eigenschappen begonnen een gefaseerde uitrol op **Augustus 26, 2022*
 
 **_Webinar van de Versie van het Product_**
 
-[ Juni en Augustus 2022 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[&#x200B; Juni en Augustus 2022 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Admins van het 0&rbrace; Systeem &lbrace;wordt slechts gecreeerd op het niveau van Adobe Org.** Als u denkt u meer dan één nodig hebt, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>**Admins van het 0&rbrace; Systeem &lbrace;wordt slechts gecreeerd op het niveau van Adobe Org.** Als u denkt u meer dan één nodig hebt, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ## Een productbeheerder toevoegen {#add-a-product-admin}
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Er moet een beheerder aan een productprofiel worden toegevoegd om toegang tot Marketo Engage te krijgen.
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -70,7 +70,7 @@ De gebruiker ontvangt dan twee e-mails. In de eerste e-mail worden ze op de hoog
 
 ## Admin verwijderen {#remove-a-user}
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 

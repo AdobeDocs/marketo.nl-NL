@@ -39,7 +39,7 @@ Leer hoe u uw groepen beheert in [!DNL Sales Connect] .
 
    >[!NOTE]
    >
-   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [ deze stappen ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [&#x200B; deze stappen &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Vul de contactgegevens in en klik op **[!UICONTROL Create]** (of **[!UICONTROL Create and Add New]** om een andere contactpersoon toe te voegen).
 

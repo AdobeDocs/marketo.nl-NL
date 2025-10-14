@@ -20,7 +20,7 @@ Nadat u als Admin van het Systeem van Adobe aan Marketo Engage in Adobe org word
 
    ![](assets/admin-setup-1.png)
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [&#x200B; opstelling uw Adobe ID &#x200B;](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
@@ -56,4 +56,4 @@ Nadat de systeembeheerder de Admin Console heeft geopend, is het tijd om een pro
 
 >[!MORELIKETHIS]
 >
->[ voeg of verwijder een Admin van het Product toe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>[&#x200B; voeg of verwijder een Admin van het Product toe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}

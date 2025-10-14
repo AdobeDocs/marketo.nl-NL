@@ -22,7 +22,7 @@ Of u nu aan de slag gaat en een inleidende Marketo Engage-zelfstudie wilt, of da
 * [Stappen voor instellingen](/help/marketo/getting-started/initial-setup/setup-steps.md)
 * [Protocollen voor Marketo Engage configureren](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
 * [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
-* [Marketo Engage-woordenlijst ](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
+* [Marketo Engage-woordenlijst &#x200B;](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
 ## Populaire Marketo Engage-artikelen
 

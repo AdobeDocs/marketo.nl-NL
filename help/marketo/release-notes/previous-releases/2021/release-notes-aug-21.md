@@ -43,19 +43,19 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Sales Insight] {#sales-insight}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **Verbeterde zichtbaarheid in Lood, Contact, Rekening &amp; de Activiteiten van de Kans voor de Gebruikers van Salesforce CRM**: Betrokkenheid met vooruitzichten tijdens lange verkoopcycli wordt meer geïnformeerd toe te schrijven aan een verhoogd aantal betrokkenheidsverslagen in [!DNL Sales Insight]. Interesserende momenten, webactiviteit, e-mail en score worden weergegeven met maximaal 400 activiteiten over objecten Lead, Contact, Account en Opportunity.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **de Throttling van de Verbinding van de E-mail (Beta)**: Verbeter e-mailleverbaarheid en schaal gepersonaliseerde verkoopmededeling met de vertraging van de e-mailverbinding voor Verkoop verbindt. Deze nieuwe technologie beheert automatisch de tijdinstellingen voor het verzenden van e-mail, zodat [!DNL Exchange] - en Gmail-gebruikers er probleemloos mee kunnen werken. Verlaag of verwijder het gebruik van grote hoeveelheden e-mailberichten van derden en verzend alle e-mails van [!DNL Sales Connect] met vertrouwen.
 
 >[!NOTE]
 >
->E-mailvertraging is nu beschikbaar in Beta. [ leer meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>E-mailvertraging is nu beschikbaar in Beta. [&#x200B; leer meer &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Verbeterde Inzichten van de Activiteit van de Verkoop**: Vang en activeer gepersonaliseerde overeenkomst die op de vroegere activiteiten van uw verkoopteam wordt gebaseerd. De nieuwe attributen zoals de Verbinding van de Opname van de Vraag van de Verkoop, de Naam van de Campagne van de Verkoop, en Onderwerp van e-mail van de Verkoop kunnen in slimme lijsten van Marketo Engage worden gebruikt.  Deze activiteiten kunnen worden geëxporteerd en gerapporteerd via de Marketo Engage REST API of Bulk Export en zijn beschikbaar op filters en triggers als extra beperkingen voor slimme lijsten.
 
@@ -81,8 +81,8 @@ Deze sectie bevat nieuwe functies voor Bizible-gebruikers die de migratie naar h
 
 ## Aankondigingen {#announcements}
 
-* **Update aan de Montages van de Universele identiteitskaart van het Abonnement**: Om de aanstaande integratie van de Identiteit van Marketo Engage en van Adobe voor bestaande gebruikers te steunen, zullen alle abonnementen van Marketo Engage in enablement van Universele identiteitskaart steun worden verenigd. Meer informatie [ kan hier ](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) worden gevonden.
+* **Update aan de Montages van de Universele identiteitskaart van het Abonnement**: Om de aanstaande integratie van de Identiteit van Marketo Engage en van Adobe voor bestaande gebruikers te steunen, zullen alle abonnementen van Marketo Engage in enablement van Universele identiteitskaart steun worden verenigd. Meer informatie [&#x200B; kan hier &#x200B;](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) worden gevonden.
 
 **_Webinar van de Versie van het Product_**
 
-[ Augustus 2021 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/August21_Release_Webinar.html)
+[&#x200B; Augustus 2021 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/August21_Release_Webinar.html)

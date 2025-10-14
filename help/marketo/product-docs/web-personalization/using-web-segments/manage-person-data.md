@@ -35,7 +35,7 @@ Gebruik Persongegevens voor [!DNL Web Personalization] door persoonvelden te sel
 
 ## Een persoonlijk veld verwijderen {#deleting-a-person-field}
 
-1. Klik het schrappingspictogram ( ![ - ](assets/image2015-3-24-13-3a45-3a56.png)) om een gebied uit de lijst te verwijderen. Klik op **[!UICONTROL Yes]** om te bevestigen dat u het veld wilt verwijderen.
+1. Klik het schrappingspictogram ( ![&#x200B; - &#x200B;](assets/image2015-3-24-13-3a45-3a56.png)) om een gebied uit de lijst te verwijderen. Klik op **[!UICONTROL Yes]** om te bevestigen dat u het veld wilt verwijderen.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -103,4 +103,4 @@ De volgende voorbeeldvelden worden in het vak weergegeven voor nieuwe [!DNL Web 
 
 >[!MORELIKETHIS]
 >
->[ creeer een Segment Gebruikend Bekende Gegevens van de Persoon ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[&#x200B; creeer een Segment Gebruikend Bekende Gegevens van de Persoon &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

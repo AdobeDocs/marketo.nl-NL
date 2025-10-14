@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # E-mailrendering testen met Litmus {#test-email-rendering-with-litmus}
 
-Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
+Hefboomwerking uw [&#x200B; Litmus &#x200B;](https://www.litmus.com/email-testing) rekening in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
 ## Litmus Enterprise-gebruikers {#litmus-enterprise}
 
-De volgende stappen zijn voor gebruikers op het [ Plan van de Onderneming van Litmus ](https://www.litmus.com/pricing/enterprise){target="_blank"}.
+De volgende stappen zijn voor gebruikers op het [&#x200B; Plan van de Onderneming van Litmus &#x200B;](https://www.litmus.com/pricing/enterprise){target="_blank"}.
 
 1. Op _geef e-mailinhoud_ scherm uit, klik de **Simuleer Inhoud** knoop.
 
@@ -55,7 +55,7 @@ De volgende stappen zijn voor gebruikers op het [ Plan van de Onderneming van Li
 
    >[!NOTE]
    >
-   >Leer hoe te [ uw standaard e-mailcliëntlijst ](https://help.litmus.com/article/227-change-your-default-email-clients-list) aanpassen.
+   >Leer hoe te [&#x200B; uw standaard e-mailcliëntlijst &#x200B;](https://help.litmus.com/article/227-change-your-default-email-clients-list) aanpassen.
 
 1. Wanneer u klaar het testen bent, klik de achterste pijl op upper-left om aan het _Simulate Inhoud_ scherm terug te keren.
 
@@ -67,7 +67,7 @@ De volgende stappen zijn voor gebruikers op het [ Plan van de Onderneming van Li
 
 ## Litmus Core-gebruikers {#litmus-core}
 
-De volgende stappen zijn voor gebruikers op het [ Plan van de Kern van Litmus ](https://www.litmus.com/pricing/){target="_blank"}.
+De volgende stappen zijn voor gebruikers op het [&#x200B; Plan van de Kern van Litmus &#x200B;](https://www.litmus.com/pricing/){target="_blank"}.
 
 1. In uw rekening van de Samenvatting, wint het teste-mailadres terug door het **testadres van het Exemplaar** knoop in het _scherm van de Test_ te klikken.
 

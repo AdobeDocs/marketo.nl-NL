@@ -43,4 +43,4 @@ Als uw marketingteam sjablonen voor u beschikbaar heeft gesteld, kunt u deze geb
 
 >[!MORELIKETHIS]
 >
->[ Logboek binnenkomende Post van Uw Leidingen in Marketo ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[&#x200B; Logboek binnenkomende Post van Uw Leidingen in Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

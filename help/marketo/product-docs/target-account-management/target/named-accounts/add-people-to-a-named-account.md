@@ -73,4 +73,4 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
 >[!MORELIKETHIS]
 >
->[ Lood aan de Vergelijking van de Rekening ](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[&#x200B; Lood aan de Vergelijking van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

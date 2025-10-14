@@ -39,7 +39,7 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
    >
    >Schuif naar rechts om meer kolommen weer te geven.
 
-1. Om [ toe te voegen of kolommen te verwijderen uit het rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), om het even welke kolomrubriek te klikken en **[!UICONTROL Columns]** te selecteren.
+1. Om [&#x200B; toe te voegen of kolommen te verwijderen uit het rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), om het even welke kolomrubriek te klikken en **[!UICONTROL Columns]** te selecteren.
 
    ![](assets/six.png)
 
@@ -68,4 +68,4 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
 
    >[!MORELIKETHIS]
    >
-   >Leer hoe te [ de grootte van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) beheren.
+   >Leer hoe te [&#x200B; de grootte van uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) beheren.

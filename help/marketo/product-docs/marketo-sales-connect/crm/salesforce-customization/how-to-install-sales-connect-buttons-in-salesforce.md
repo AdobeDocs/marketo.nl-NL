@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Installeer Call eenvoudig met Marketo Sales Connect, verzend Marketo Sales Email en voeg toe aan Campagne. U hebt beheerdersrechten nodig in [!DNL Salesforce] om deze velden te installeren.
 
-1. Login aan [ Salesforce.com.](https://salesforce.com)
+1. Login aan [&#x200B; Salesforce.com.](https://salesforce.com)
 1. Klik op **[!UICONTROL Customize]**.
 1. Klik op **[!UICONTROL Leads]**.
 1. Klik op **[!UICONTROL Page Layouts]**.

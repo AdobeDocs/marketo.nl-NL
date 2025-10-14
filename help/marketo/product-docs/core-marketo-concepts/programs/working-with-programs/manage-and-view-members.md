@@ -17,7 +17,7 @@ U kunt uw leden in uw programma&#39;s beheren en bekijken gebruikend het lusje v
 
 >[!NOTE]
 >
->Dive dieper in [ programmalidmaatschap ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Dive dieper in [&#x200B; programmalidmaatschap &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Zoeken naar een lid {#search-for-a-member}
 
@@ -87,4 +87,4 @@ Zoveel functies, maar ze zijn allemaal vrij eenvoudig. Veel plezier!
 
 >[!MORELIKETHIS]
 >
->[ creeer een Rapport van de Prestaties van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[&#x200B; creeer een Rapport van de Prestaties van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

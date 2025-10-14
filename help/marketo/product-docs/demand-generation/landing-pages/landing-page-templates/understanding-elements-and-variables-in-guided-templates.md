@@ -26,12 +26,12 @@ Wanneer u een geleide het landen pagina uitgeeft, zullen de elementen verschijne
 * ![—](assets/image2015-5-20-12-3a30-3a48.png) Afbeelding
 * ![—](assets/image2015-5-20-12-3a31-3a33.png) Vorm van Marketo
 * ![—](assets/image2015-5-20-12-3a41-3a21.png) Tekst
-* ![ -](assets/image2015-5-20-12-3a42-3a47.png) Video
-* ![ -](assets/image2015-5-20-12-3a44-3a17.png) Knoop van het Aandeel Marketo
-* ![ -](assets/image2015-5-20-12-3a43-3a21.png) Opiniepeiling van Marketo
+* ![&#x200B; -](assets/image2015-5-20-12-3a42-3a47.png) Video
+* ![&#x200B; -](assets/image2015-5-20-12-3a44-3a17.png) Knoop van het Aandeel Marketo
+* ![&#x200B; -](assets/image2015-5-20-12-3a43-3a21.png) Opiniepeiling van Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png) Verwijzing van Marketo
-* ![ -](assets/image2015-5-20-12-3a44-3a40.png) de Kuipstaken van Marketo
-* ![ -](assets/image2015-5-20-12-3a47-3a45.png) het Fragment van Marketo
+* ![&#x200B; -](assets/image2015-5-20-12-3a44-3a40.png) de Kuipstaken van Marketo
+* ![&#x200B; -](assets/image2015-5-20-12-3a47-3a45.png) het Fragment van Marketo
 
 ## Variabelen {#variables}
 
@@ -60,4 +60,4 @@ Er zijn drie typen variabelen: tekenreeksvariabelen, kleurvariabelen en Booleaan
 
 >[!MORELIKETHIS]
 >
->[ creeer een Geleide het Landen Malplaatje van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[&#x200B; creeer een Geleide het Landen Malplaatje van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

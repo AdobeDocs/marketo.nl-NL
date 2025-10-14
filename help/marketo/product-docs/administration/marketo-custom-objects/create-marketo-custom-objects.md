@@ -17,7 +17,7 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 >[!NOTE]
 >
->U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [ Begrijpend de Voorwerpen van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
+>U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [&#x200B; Begrijpend de Voorwerpen van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 >[!NOTE]
 >
@@ -59,11 +59,11 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    ![](assets/create-marketo-custom-objects-6.png)
 
-   De volgende stap moet gebieden aan [ toevoegen bouwt uw douanevoorwerp ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
+   De volgende stap moet gebieden aan [&#x200B; toevoegen bouwt uw douanevoorwerp &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [&#x200B; API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Een aangepast object maken voor een veel-op-veel-structuur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [ API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
+   >U kunt de Voorwerpen van de Douane van Marketo via een lijstinvoer slechts bevolken, of [&#x200B; API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api).
 
 De volgende stap is dat u een tussenliggend object maakt (zie hieronder). Maar daarvoor moet u een veld maken om er een koppeling naar te maken.
 
@@ -141,10 +141,10 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 
 1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: de status is **[!UICONTROL Draft]** .
 
-   De volgende stap is voor u [ verbindingsgebieden ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) toevoegen om uw intermediair voorwerp met een persoon/bedrijf en een douanevoorwerp te verbinden.
+   De volgende stap is voor u [&#x200B; verbindingsgebieden &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) toevoegen om uw intermediair voorwerp met een persoon/bedrijf en een douanevoorwerp te verbinden.
 
 >[!MORELIKETHIS]
 >
->* [ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [ voeg de Gebieden van de Verbinding van de Objecten van Marketo de Douane toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [&#x200B; voeg de Gebieden van de Objecten van Marketo toe &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [&#x200B; voeg de Gebieden van de Verbinding van de Objecten van Marketo de Douane toe &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [&#x200B; Begrijpend de douanevoorwerpen van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

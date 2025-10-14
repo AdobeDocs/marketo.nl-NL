@@ -16,8 +16,8 @@ In dit artikel configureert u Marketo Engage voor synchronisatie met de geconfig
 
 >[!PREREQUISITES]
 >
->* [ Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"} toe
->* [ Stap 2 van 3: Creeer a [!DNL Veeva]  Gebruiker voor Marketo ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
+>* [&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"} toe
+>* [&#x200B; Stap 2 van 3: Creeer a [!DNL Veeva]  Gebruiker voor Marketo &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ In dit artikel configureert u Marketo Engage voor synchronisatie met de geconfig
 
    >[!NOTE]
    >
-   >Ben zeker om [ alle gebieden te verbergen u niet ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo van de synchronisatiegebruiker nodig hebt alvorens de Gebieden van de Synchronisatie te klikken. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
+   >Ben zeker om [&#x200B; alle gebieden te verbergen u niet &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo van de synchronisatiegebruiker nodig hebt alvorens de Gebieden van de Synchronisatie te klikken. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
 
 1. Klik op **[!UICONTROL Login with Veeva]**.
 
@@ -91,4 +91,4 @@ Marketo geeft statusberichten weer voor de [!DNL Veeva] CRM-synchronisatie in he
 
 >[!MORELIKETHIS]
 >
->[ vorm de Voorwerpen van de Douane ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
+>[&#x200B; vorm de Voorwerpen van de Douane &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}

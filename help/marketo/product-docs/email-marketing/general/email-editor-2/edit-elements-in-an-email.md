@@ -35,7 +35,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, Afbeeldingen, F
 
    >[!NOTE]
    >
-   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [ Gebruikend de Rijke Redacteur van de Tekst ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [&#x200B; Gebruikend de Rijke Redacteur van de Tekst &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >

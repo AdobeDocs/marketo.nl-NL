@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [ creeer een Vrije-Vorm het Landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [ voeg een Nieuwe Vorm aan een Vrije-Vorm Landing Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [&#x200B; creeer een Vrije-Vorm het Landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [&#x200B; voeg een Nieuwe Vorm aan een Vrije-Vorm Landing Pagina toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen met gerichte informatie ingeschakeld.
 
@@ -79,5 +79,5 @@ Voilà! U kunt nu de doelinhoud verzenden.
 
 >[!MORELIKETHIS]
 >
->* [ Voorproef een het Bestaan Pagina met Dynamische Inhoud ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [ Gebruikend Dynamische Inhoud in e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [&#x200B; Voorproef een het Bestaan Pagina met Dynamische Inhoud &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [&#x200B; Gebruikend Dynamische Inhoud in e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

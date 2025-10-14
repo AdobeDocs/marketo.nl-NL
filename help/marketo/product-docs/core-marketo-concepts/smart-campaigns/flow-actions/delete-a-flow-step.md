@@ -40,7 +40,7 @@ Laten we eerst de basisbeginselen behandelen. Hier is hoe te om een ongewenste s
    1. **liep nooit**. Breng alle gewenste wijzigingen aan. Het zal niemand beïnvloeden tot je die campagne voert.
    1. **is een terugkomende Slimme Campagne**. De wijzigingen zijn van invloed op mensen in de toekomst, niet op vorige versies.
    1. **reeds liep ZONDER stappen** te wachten.Geen mensen zullen worden beïnvloed omdat de campagne na het runnen slapend is.
-   1. **loopt nu**. Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van het verwijderen. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Voor noodgevallen, leer hoe te [ een lopende Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"} afbreken.
+   1. **loopt nu**. Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van het verwijderen. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Voor noodgevallen, leer hoe te [&#x200B; een lopende Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"} afbreken.
 
    1. **reeds liep MET wachtende stappen.** Verschillende details over deze.
 Wanneer een persoon een wachttijdstap ingaat, sluit de persoon zich aan bij de duur en welke STEP van het GETAL om aan terug te keren. Zie het onderstaande voorbeeld.

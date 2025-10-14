@@ -58,4 +58,4 @@ U kunt ook zien hoe u met uw concurrenten in sleutelwoordrangschikking vergelijk
 
 >[!NOTE]
 >
->[ Gebruikend het Concurrerende KW Rank Rapport van Trends ](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[&#x200B; Gebruikend het Concurrerende KW Rank Rapport van Trends &#x200B;](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

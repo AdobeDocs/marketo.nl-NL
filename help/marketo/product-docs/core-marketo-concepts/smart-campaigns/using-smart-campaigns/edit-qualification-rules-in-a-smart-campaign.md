@@ -33,10 +33,10 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een Slimme 
 
    >[!NOTE]
    >
-   >Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [ communicatielimieten op een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.
+   >Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [&#x200B; communicatielimieten op een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.
 
    >[!NOTE]
    >
-   >[ pas Communicatie Limieten op Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toe
+   >[&#x200B; pas Communicatie Limieten op Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toe
 
 Opdracht voltooid! U weet nu hoe u kwalificatieregels kunt beheren in een slimme campagne.

@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
->* [ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>* [&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Stap 1: Een scoringcampagne maken {#step-create-a-scoring-campaign}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u de [ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel win voltooide, zou u de vorm moeten hebben. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
+   >Als u de [&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel win voltooide, zou u de vorm moeten hebben. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
 
 1. Klik op de tab **[!UICONTROL Flow]** .
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lees [**de Definitieve Gids aan het Toren van het Lood** ](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
+   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lees [**de Definitieve Gids aan het Toren van het Lood** &#x200B;](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
 1. Klik op de tab **[!UICONTROL Schedule]** en de knop **[!UICONTROL Activate]** .
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 
 ## Stap 2: Vul het formulier in {#step-fill-out-the-form}
 
-1. Selecteer de het landen pagina u in de [ Landing Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint creeerde.
+1. Selecteer de het landen pagina u in de [&#x200B; Landing Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint creeerde.
 
    ![](assets/simple-scoring-14.png)
 

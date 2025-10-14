@@ -17,7 +17,7 @@ Wilt u een afbeelding op uw bestemmingspagina koppelen aan een andere pagina of 
 
 >[!PREREQUISITES]
 >
->[ voeg een Beeld aan een Vrije-Vorm het Landen Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[&#x200B; voeg een Beeld aan een Vrije-Vorm het Landen Pagina toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Klik op de afbeelding waaraan u een koppeling wilt toevoegen.
 
@@ -31,7 +31,7 @@ Wilt u een afbeelding op uw bestemmingspagina koppelen aan een andere pagina of 
 
    ![](assets/add-link.png)
 
-   Gefeliciteerd! U hebt nu met succes een verbinding aan een beeld op uw landende pagina toegevoegd. U kunt nu [ voorproef de pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) om het in actie te zien.
+   Gefeliciteerd! U hebt nu met succes een verbinding aan een beeld op uw landende pagina toegevoegd. U kunt nu [&#x200B; voorproef de pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) om het in actie te zien.
 
 >[!TIP]
 >

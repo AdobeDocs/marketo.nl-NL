@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Een gebruiker toevoegen {#add-a-user}
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-1.png)
 
@@ -54,7 +54,7 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo En
 
 >[!NOTE]
 >
->Wanneer de gebruiker via de Adobe Admin Console aan Marketo Engage wordt toegevoegd, krijgt hij of zij de rol &quot;Standaardgebruiker&quot; binnen de werkruimte Standaard van het abonnement. Als de rol van de gebruiker binnen de werkruimte moet worden aangepast, wordt dat gedaan in Marketo Engage, [ zoals hier beschreven ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Wanneer de gebruiker via de Adobe Admin Console aan Marketo Engage wordt toegevoegd, krijgt hij of zij de rol &quot;Standaardgebruiker&quot; binnen de werkruimte Standaard van het abonnement. Als de rol van de gebruiker binnen de werkruimte moet worden aangepast, wordt dat gedaan in Marketo Engage, [&#x200B; zoals hier beschreven &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Een gebruiker verwijderen {#remove-a-user}
 
@@ -62,7 +62,7 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo En
 >
 >U moet systeembeheerder zijn om een gebruiker te verwijderen.
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
 
@@ -90,5 +90,5 @@ De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij g
 
 >[!MORELIKETHIS]
 >
->* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
->* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [&#x200B; de Gebruikers van Adobe Admin Console &#x200B;](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
+>* [&#x200B; beheert Individueel Gebruikers &#x200B;](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}

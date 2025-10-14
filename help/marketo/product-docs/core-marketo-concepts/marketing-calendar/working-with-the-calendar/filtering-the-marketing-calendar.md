@@ -47,4 +47,4 @@ Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren di
 
    >[!NOTE]
    >
-   >[ het Opslaan van een Definitie van de Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[&#x200B; het Opslaan van een Definitie van de Filter in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

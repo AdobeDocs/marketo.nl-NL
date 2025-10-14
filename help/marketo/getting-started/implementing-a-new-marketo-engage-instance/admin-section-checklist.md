@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Aanbevolen werkwijzen voor nieuwe instanties: Controlelijst voor sectie Admin {#new-instance-best-practices-admin-section-checklist}
 
-Als nieuwe beheerder die door een nieuwe instantie van Marketo Engage navigeert, pas checklist hieronder toe om u door het implementatieproces te begeleiden. Zoals met elk van deze gidsen, kunt u ook [ de controlelijsten ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) downloaden en uw vooruitgang volgen.
+Als nieuwe beheerder die door een nieuwe instantie van Marketo Engage navigeert, pas checklist hieronder toe om u door het implementatieproces te begeleiden. Zoals met elk van deze gidsen, kunt u ook [&#x200B; de controlelijsten &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) downloaden en uw vooruitgang volgen.
 
 ## Rollen {#roles}
 

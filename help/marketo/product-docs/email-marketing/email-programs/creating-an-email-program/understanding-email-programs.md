@@ -38,7 +38,7 @@ Meer informatie over de volgende A/B-tests:
 
 >[!CAUTION]
 >
->Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [ het ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
+>Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [&#x200B; het &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
 
 Geniet van de vruchten van je werk. De dashboards tonen u e-mailprogramma en A/B testprestaties in een oogopslag.
 
@@ -68,7 +68,7 @@ Gebruik een e-mailprogramma in een standaardprogramma om de zaken te organiseren
 
 >[!NOTE]
 >
->De e-mailprogramma&#39;s kunnen niet in [ betrokkenheidsprogramma&#39;s ](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) worden genest. Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
+>De e-mailprogramma&#39;s kunnen niet in [&#x200B; betrokkenheidsprogramma&#39;s &#x200B;](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) worden genest. Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
 
 ## Planningsinstellingen {#schedule-settings}
 
@@ -76,8 +76,8 @@ Nu u e-mailprogramma&#39;s begrijpt, kunt u beginnen met een van de verwante art
 
 >[!MORELIKETHIS]
 >
->* [ creeer een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [&#x200B; creeer een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
->* [ bepaal een Publiek met een Slimme Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [ creeer een E-mail voor een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [ Plan Uw E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [&#x200B; bepaal een Publiek met een Slimme Lijst &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [&#x200B; creeer een E-mail voor een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [&#x200B; Plan Uw E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

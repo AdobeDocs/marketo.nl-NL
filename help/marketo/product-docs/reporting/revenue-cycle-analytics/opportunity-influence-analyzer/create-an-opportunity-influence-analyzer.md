@@ -58,9 +58,9 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 
 >[!TIP]
 >
->U kunt ook op een video over de Analysator van de Invloed van de Mogelijkheid in [ Universiteit van Marketo ](https://learn.marketo.com) letten. (Het ziet er nu een beetje anders uit, maar er is nog veel te leren!)
+>U kunt ook op een video over de Analysator van de Invloed van de Mogelijkheid in [&#x200B; Universiteit van Marketo &#x200B;](https://learn.marketo.com) letten. (Het ziet er nu een beetje anders uit, maar er is nog veel te leren!)
 
 >[!MORELIKETHIS]
 >
->* [ vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [ vorm een Analysator van de Invloed van de Opportunity ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+>* [&#x200B; vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [&#x200B; vorm een Analysator van de Invloed van de Opportunity &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

@@ -36,7 +36,7 @@ Klanten met [!DNL Salesforce] Professional Edition moeten deze stappen volgen om
    >
    >Als u wordt verbonden, zult u een groene &quot;[!UICONTROL Install]&quot;knoop zien. **NIET** klik deze knoop, te werk gaat aan stap 4.
 
-1. Login aan de [!DNL Salesforce] rekening u met wordt verbonden en dan [ klikt deze verbinding ](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Login aan de [!DNL Salesforce] rekening u met wordt verbonden en dan [&#x200B; klikt deze verbinding &#x200B;](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. U wordt naar de installatiepagina van [!DNL Sales Connect] verzonden.
 
    ![](assets/install-package.png)
@@ -56,6 +56,6 @@ Klanten met [!DNL Salesforce] Professional Edition moeten deze stappen volgen om
 
 ## Gidsen {#guides}
 
-[ Gids van de Installatie voor Klassieke Salesforce ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[&#x200B; Gids van de Installatie voor Klassieke Salesforce &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[ Gids van de Installatie voor de Bliksem van Salesforce ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[&#x200B; Gids van de Installatie voor de Bliksem van Salesforce &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

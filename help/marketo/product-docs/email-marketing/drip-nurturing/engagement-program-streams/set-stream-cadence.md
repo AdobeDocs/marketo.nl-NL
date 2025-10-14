@@ -53,7 +53,7 @@ U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: ee
    >
    >U kunt instellen dat de frequentie elke dag wordt uitgevoerd door **[!UICONTROL Repeats]:[!UICONTROL Weekly]** / **[!UICONTROL Every]: 1[!UICONTROL Week]** / **[!UICONTROL On]** : alle dagen te kiezen.
 
-   Kies nu de tijd. Controleer de doos als u [ Ontvankelijke Streek van de Tijd ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (d.w.z., levert volgens lokale tijdstreken) wilt gebruiken, dan klik **[!UICONTROL Save]**.
+   Kies nu de tijd. Controleer de doos als u [&#x200B; Ontvankelijke Streek van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (d.w.z., levert volgens lokale tijdstreken) wilt gebruiken, dan klik **[!UICONTROL Save]**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -109,5 +109,5 @@ Nu weet u hoe u een streamkadentie kunt instellen!
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend Ontvankelijke Tijdzone van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [ Programma&#39;s van de Betrokkenheid van het Programma met de Ontvankelijke Streek van de Tijd ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)
+>* [&#x200B; Begrijpend Ontvankelijke Tijdzone van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [&#x200B; Programma&#39;s van de Betrokkenheid van het Programma met de Ontvankelijke Streek van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)

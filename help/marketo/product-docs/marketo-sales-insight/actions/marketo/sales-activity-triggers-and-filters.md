@@ -34,4 +34,4 @@ Volg de onderstaande stappen om te leren hoe u verkoopactiviteitfilters en -trig
 
 >[!NOTE]
 >
->Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [[!DNL Sales Insight Actions]  Verklarende woordenlijst van de Activiteit ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [[!DNL Sales Insight Actions]  Verklarende woordenlijst van de Activiteit &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

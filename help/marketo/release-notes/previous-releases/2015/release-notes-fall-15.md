@@ -45,7 +45,7 @@ Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel s
 
 [Marketo Insights for  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-We zijn blij dat we de release van een update van onze [!DNL Google Mail] [!DNL Sales Insight] -extensie kunnen aankondigen! Bekijk het in [[!DNL Chrome Store] ](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+We zijn blij dat we de release van een update van onze [!DNL Google Mail] [!DNL Sales Insight] -extensie kunnen aankondigen! Bekijk het in [[!DNL Chrome Store] &#x200B;](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Deze update bevat veel nieuwe functies en functies:
 
@@ -61,11 +61,11 @@ Deze update bevat veel nieuwe functies en functies:
 * [Voorbeeld verzenden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Voorvertoning](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Pas gemakkelijk pushberichten met [ tokens ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) aan.
+Pas gemakkelijk pushberichten met [&#x200B; tokens &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) aan.
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-U kunt ook [ voorproef ](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) of verzenden a [ steekproef ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) duw bericht alvorens u het aan klanten opstelt.
+U kunt ook [&#x200B; voorproef &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) of verzenden a [&#x200B; steekproef &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) duw bericht alvorens u het aan klanten opstelt.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -86,7 +86,7 @@ Statistische gegevens over e-mailberichten die via slimme campagnes worden verzo
 
 ## RTP - Content Analytics en aanbevelingen {#rtp-content-analytics-and-recommendations}
 
-[ Content Analytics ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) en Aanbevelingen
+[&#x200B; Content Analytics &#x200B;](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) en Aanbevelingen
 
 RTP Content Analytics laat u de prestaties zien van uw webinhoud-elementen die afkomstig zijn van regelmatige webbezoeken en ook bezoeken die worden gegenereerd door de inhoud van RTP-engine.
 
@@ -97,7 +97,7 @@ RTP Content Analytics laat u de prestaties zien van uw webinhoud-elementen die a
 De Assets-pagina van RTP wordt nu gesplitst in Content Analytics en Content Recommendations.
 
 * **Content Analytics:** toont de meningen en de directe lood van alle ontdekt en bepaalde Web-inhoud, die u helpt uw best uitvoeren inhoud analyseren
-* **Aanbevelingen van de Inhoud**: Toont impressies en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt inhoudsaanbevelingen van deze pagina voor de [ bar ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) en [ rijke media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) aanbevelingen ook uitgeven en toelaten.
+* **Aanbevelingen van de Inhoud**: Toont impressies en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt inhoudsaanbevelingen van deze pagina voor de [&#x200B; bar &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) en [&#x200B; rijke media &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) aanbevelingen ook uitgeven en toelaten.
 
 * Alle gegevens over directe leads op deze twee pagina&#39;s zijn sinds het begin van het jaar (1 januari 2015) retroactief bijgewerkt.
 

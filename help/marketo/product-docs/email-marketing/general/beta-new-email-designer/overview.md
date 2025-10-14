@@ -22,7 +22,7 @@ Welkom bij de nieuwe Adobe Marketo Engage Email Designer.
 
 >[!PREREQUISITES]
 >
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [&#x200B; Systeem van Identity Management van Adobe (IMS) &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 De nieuwe e-mail Designer is de nieuwste innovatie in Marketo Engage die een vernieuwde ervaring moet bieden voor het maken van e-mail- en e-mailsjablonen om de productiviteit en efficiëntie te verbeteren door een visuele drag-and-drop editor en standaard out-of-the-box sjablonen te bieden. Maak eenvoudig aangepaste e-mailsjablonen zonder geld te hoeven besteden aan leveranciers.
 
@@ -30,6 +30,6 @@ De e-mails die in de nieuwe ontwerper worden gecreeerd kunnen in Slimme Lijsten 
 
 **Beschikbare artikelen**
 
-* [ E-mail authoring ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe redacteur tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
+* [&#x200B; E-mail authoring &#x200B;](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe redacteur tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
 
-* [ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.
+* [&#x200B; E-mailmalplaatjes &#x200B;](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe redacteur te leiden te ontwerpen en toegang te hebben.

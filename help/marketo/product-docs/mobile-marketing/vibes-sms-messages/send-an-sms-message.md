@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een SMS-bericht verzenden {#send-a-vibes-sms-message}
 
-U hebt [ uw bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} gecreeerd, nu is het tijd om het te verzenden. U kunt het verzenden via Campagne of Trigger.
+U hebt [&#x200B; uw bericht van SMS &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} gecreeerd, nu is het tijd om het te verzenden. U kunt het verzenden via Campagne of Trigger.
 
 >[!NOTE]
 >
@@ -76,5 +76,5 @@ U hebt [ uw bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Bericht van Lagen ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [ Gebruikend de Opties van SMS in een Slimme Campagne ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [&#x200B; creeer een Bericht van Lagen &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [&#x200B; Gebruikend de Opties van SMS in een Slimme Campagne &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

@@ -17,7 +17,7 @@ Soms vereisen bedrijfsbeleid dat hun Team van IT alle software op hun werknemers
 
 >[!PREREQUISITES]
 >
->[ opstelling ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) de Sleutel van de Onderneming.
+>[&#x200B; opstelling &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) de Sleutel van de Onderneming.
 
 Voer de volgende bevellijn als &quot;Systeem&quot;of een Administratieve gebruikersrekening met de /i schakelaar in werking om te installeren.
 
@@ -53,8 +53,8 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 >
 >De opslaglocatie van het logbestand moet bestaan of de installatie wordt afgebroken.
 
-Gelieve te verwijzen naar [ volledige lijst van Microsoft van schakelaars ](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Gelieve te verwijzen naar [&#x200B; volledige lijst van Microsoft van schakelaars &#x200B;](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
 
 >[!MORELIKETHIS]
 >
->[ De Insteekmodule van Marketo  [!DNL Outlook]  &lbrace;door IT ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md) verwijderen
+>[&#x200B; De Insteekmodule van Marketo  [!DNL Outlook]  &lbrace;door IT &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md) verwijderen

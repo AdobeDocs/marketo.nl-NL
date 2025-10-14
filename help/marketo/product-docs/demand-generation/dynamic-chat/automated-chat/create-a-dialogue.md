@@ -30,9 +30,9 @@ Hier is hoe te om een nieuwe Dialoog te creëren.
 >
 >De prioriteit bepaalt welke Dialoog aan een bezoeker zal worden getoond wanneer zij voor veelvoudige Dialogen gelijktijdig kwalificeren.
 
-Daarna, leer hoe te [ tot een stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} leiden.
+Daarna, leer hoe te [&#x200B; tot een stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} leiden.
 
 >[!MORELIKETHIS]
 >
->* [ Criteria van de Publiek ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [ stroom Designer ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [&#x200B; Criteria van de Publiek &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [&#x200B; stroom Designer &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

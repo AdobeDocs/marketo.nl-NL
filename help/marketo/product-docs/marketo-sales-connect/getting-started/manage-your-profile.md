@@ -28,7 +28,7 @@ Hier kunt u uw naam en/of wachtwoord bijwerken.
 
 >[!NOTE]
 >
->Uw e-mailadres is ingesteld op Alleen weergeven. Als u dat ook nodig hebt veranderd, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+>Uw e-mailadres is ingesteld op Alleen weergeven. Als u dat ook nodig hebt veranderd, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
 
 U kunt uw wachtwoord in deze sectie ook veranderen. De stappen worden beschreven in dit document.
 

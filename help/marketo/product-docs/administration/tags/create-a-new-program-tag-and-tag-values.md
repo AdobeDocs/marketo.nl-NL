@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Vereiste Bevoegdheden Admin**
 
-U kunt douane [ markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor uw programma&#39;s tot stand brengen en waarden toewijzen aan de markering.
+U kunt douane [&#x200B; markeringen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor uw programma&#39;s tot stand brengen en waarden toewijzen aan de markering.
 
 >[!NOTE]
 >

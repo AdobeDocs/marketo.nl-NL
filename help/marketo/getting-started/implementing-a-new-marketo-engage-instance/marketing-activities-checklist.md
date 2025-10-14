@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bij marketingactiviteiten worden alle elementen en inhoud opgeslagen die deel uitmaken van uw geautomatiseerde marketingprogramma&#39;s. Als u een nieuwe Marketo Engage-instantie instelt, zorgt een schone en duidelijke organisatie ervoor dat alle gebruikers eenvoudig verschillende programma&#39;s kunnen vinden en beheren.
 
-Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
+Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
 
 ## Organisatie {#organization}
 
@@ -55,7 +55,7 @@ Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/imple
 
 >[!NOTE]
 >
->Om marketing activa zoals programma&#39;s, het Aanvoeren Pagina&#39;s, en e-mails in afzonderlijke gebieden op te slaan, gelieve [ te verwijzen Admin sectiecontrolelijst ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) om te leren hoe te opstellingsWerkruimten.
+>Om marketing activa zoals programma&#39;s, het Aanvoeren Pagina&#39;s, en e-mails in afzonderlijke gebieden op te slaan, gelieve [&#x200B; te verwijzen Admin sectiecontrolelijst &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) om te leren hoe te opstellingsWerkruimten.
 
 <table>
 <thead>

@@ -29,4 +29,4 @@ Wilt u een batchcampagne opnieuw plannen? Sleep de bestanden naar de toekomst in
 
 >[!MORELIKETHIS]
 >
->[ die een Hele Programma van de Mening van het Programma opnieuw veranderen ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[&#x200B; die een Hele Programma van de Mening van het Programma opnieuw veranderen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

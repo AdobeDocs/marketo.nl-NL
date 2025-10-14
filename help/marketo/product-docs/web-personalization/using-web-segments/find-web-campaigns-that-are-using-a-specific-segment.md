@@ -29,4 +29,4 @@ Op zoek naar webcampagnes die een specifiek segment gebruiken?
 
 >[!MORELIKETHIS]
 >
->Leer meer over [ segmenten ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) en hoe te [ tot een basissegment ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) leiden.
+>Leer meer over [&#x200B; segmenten &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) en hoe te [&#x200B; tot een basissegment &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) leiden.

@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Aangepaste velden toewijzen aan Marketo {#map-custom-fields-to-marketo}
 
-Mogelijk wilt u meer dan de standaardgegevens verzamelen die [!DNL Facebook] standaard opslaat, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit verwezenlijken door [ het creëren van douanevragen ](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in uw [!DNL Facebook] lood advertenties.
+Mogelijk wilt u meer dan de standaardgegevens verzamelen die [!DNL Facebook] standaard opslaat, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit verwezenlijken door [&#x200B; het creëren van douanevragen &#x200B;](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in uw [!DNL Facebook] lood advertenties.
 
 Nochtans, **Marketo zal niet automatisch beginnen deze gegevens** te verzamelen. Opdat Marketo begint de waarden van het douanegebied te vangen, moet u **&#x200B;**&#x200B;die douanegebieden aan een gebied in Marketo in kaart brengen.
 
@@ -57,7 +57,7 @@ Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin
 
    >[!NOTE]
    >
-   >Als u reeds geen gebied in Marketo hebt om het [!DNL Facebook] gebied in kaart te brengen aan, leer hoe te [ douanegebieden ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
+   >Als u reeds geen gebied in Marketo hebt om het [!DNL Facebook] gebied in kaart te brengen aan, leer hoe te [&#x200B; douanegebieden &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
 
 >[!CAUTION]
 >

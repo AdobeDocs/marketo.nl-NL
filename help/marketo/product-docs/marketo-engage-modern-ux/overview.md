@@ -50,7 +50,7 @@ Er zijn veel nieuwe boomfuncties beschikbaar.
 
 >[!NOTE]
 >
->Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als na een onderzoek u van uw activa niet kunt de plaats bepalen, te gebruiken gelieve de [ Globale functie van het Onderzoek ](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
+>Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als na een onderzoek u van uw activa niet kunt de plaats bepalen, te gebruiken gelieve de [&#x200B; Globale functie van het Onderzoek &#x200B;](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
 **Klassieke Marketo vs. Nieuwe Marketo**
 

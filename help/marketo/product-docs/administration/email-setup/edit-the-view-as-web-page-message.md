@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Het bericht &quot;Weergeven als webpagina&quot; bewerken {#edit-the-view-as-web-page-message}
 
-Als u &quot;[ Mening als Web-pagina ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;tekst moet uitgeven, is hier hoe.
+Als u &quot;[&#x200B; Mening als Web-pagina &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;tekst moet uitgeven, is hier hoe.
 
 >[!NOTE]
 >

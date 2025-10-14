@@ -18,15 +18,15 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!NOTE]
 >
->[!DNL Facebook] heeft nu een Business Manager-account nodig om de integratie met het aangepaste publiek te kunnen gebruiken. Uw [!DNL Facebook] dienst van LaunchPoint *moet* met een rekening van BedrijfsManager worden geassocieerd of **uw integratie zal niet meer na 14 Januari, 2019** werken. Om een rekening van de BedrijfsManager op te zetten, gelieve te verwijzen naar [[!DNL Facebook]  Hulp ](https://www.facebook.com/business/help/1710077379203657).
+>[!DNL Facebook] heeft nu een Business Manager-account nodig om de integratie met het aangepaste publiek te kunnen gebruiken. Uw [!DNL Facebook] dienst van LaunchPoint *moet* met een rekening van BedrijfsManager worden geassocieerd of **uw integratie zal niet meer na 14 Januari, 2019** werken. Om een rekening van de BedrijfsManager op te zetten, gelieve te verwijzen naar [[!DNL Facebook]  Hulp &#x200B;](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft dringt er bij alle online klanten op aan een upgrade uit te voeren naar de nieuwste versie van [!DNL Microsoft Dynamics] . Als u uw instantie van Marketo met [!DNL Dynamics Online] integreert, zult u aan [ verbetering aan de recentste versie van de Oplossing van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) vóór **Januari 31, 2019** moeten verzekeren dat uw integratie zal blijven werkend.
+>Microsoft dringt er bij alle online klanten op aan een upgrade uit te voeren naar de nieuwste versie van [!DNL Microsoft Dynamics] . Als u uw instantie van Marketo met [!DNL Dynamics Online] integreert, zult u aan [&#x200B; verbetering aan de recentste versie van de Oplossing van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) vóór **Januari 31, 2019** moeten verzekeren dat uw integratie zal blijven werkend.
 
 >[!NOTE]
 >
->Marketo voert een upgrade uit van de OAuth-versie voor GoToWebinar van 1.0 naar 2.0. De steun voor OAuth 1.0 wordt in januari 2019 afgekeurd. Als u een klant GoToWebinar bent, zult u uw logins door LaunchPoint (in het Admin gebied) door **31 Januari, 2019** moeten opnieuw voor authentiek verklaren om ervoor te zorgen dat uw integratie zal blijven werkend. Voor meer details, gelieve te verwijzen naar onze [ communautaire pagina ](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
+>Marketo voert een upgrade uit van de OAuth-versie voor GoToWebinar van 1.0 naar 2.0. De steun voor OAuth 1.0 wordt in januari 2019 afgekeurd. Als u een klant GoToWebinar bent, zult u uw logins door LaunchPoint (in het Admin gebied) door **31 Januari, 2019** moeten opnieuw voor authentiek verklaren om ervoor te zorgen dat uw integratie zal blijven werkend. Voor meer details, gelieve te verwijzen naar onze [&#x200B; communautaire pagina &#x200B;](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
 
 ## Verbeteringen voor kernplatform {#core-platform-enhancements}
 
@@ -39,11 +39,11 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 * **Multi-Branding Steun van het Domein voor Activum API:** het goedkeuren en het klonen van activa veroorzaken de zelfde resultaten binnen API en UI.
 * **Steun van de E-mailCC voor Activa API**: De gebruikers klonen, goedkeuren, en verwerken e-mails via API zullen pariteit met de montages handhaven UI.
 
-**[[!DNL Munchkin] v155 (Beta) ](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[[!DNL Munchkin] v155 (Beta) &#x200B;](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **API-Enige Wijze**: De gebruikers kunnen nu bepalen wanneer en hoe te om leden van hun gegevensbestand te volgen door single-page Web apps toe te staan om uitdrukkelijk te roepen wanneer zij een webpaginabezoek willen registreren in plaats van zich op het automatisch volgen van Marketo te baseren.
 * **Opt-uit Beheer**: Beheer gemakkelijk opt-outs door het opt-out koekjesdomein met het [!DNL Munchkin] volgende koekjesdomein aan te passen.
-* **domein-Vlakke Parameter van de Decider**: Tweetalige domeinen (d.w.z. &quot; [ website.io ](https://website.io)&quot;) zullen automatisch in Marketo zonder extra opstellingsvereisten volgen.
+* **domein-Vlakke Parameter van de Decider**: Tweetalige domeinen (d.w.z. &quot; [&#x200B; website.io &#x200B;](https://website.io)&quot;) zullen automatisch in Marketo zonder extra opstellingsvereisten volgen.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
@@ -63,7 +63,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 >[!NOTE]
 >
->[!DNL Marketo Sky] wordt vaker afgespeeld. De volgende functies en verbeteringen zullen naar verwachting beschikbaar komen in het laatste kwartaal van 2004 en begin van het eerste kwartaal. Voor meer details en updates, controleer onze [ documentatie van het Lucht ](https://help.marketo.com/).
+>[!DNL Marketo Sky] wordt vaker afgespeeld. De volgende functies en verbeteringen zullen naar verwachting beschikbaar komen in het laatste kwartaal van 2004 en begin van het eerste kwartaal. Voor meer details en updates, controleer onze [&#x200B; documentatie van het Lucht &#x200B;](https://help.marketo.com/).
 
 * **Facultatieve StandaardErvaring**: De gebruikers van Marketo kunnen [!DNL Marketo Sky] als hun standaardervaring plaatsen als zij toegang door Admin zijn verleend.
 
@@ -102,10 +102,10 @@ Gebruikers kunnen nu subdomeinen toevoegen aan hun RTP-accountinstellingen om do
 
 **Bijgewerkte Kit van de Ontwikkeling van de Software MME (SDK) voor Android**
 
-We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0&rbrace; Firebase Cloud Messaging [ (FCM) van Google gebruiken met deze nieuwe SDK.](https://firebase.google.com/docs/cloud-messaging/)
+We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Android app-ontwikkelaars kunnen nu direct het 0&rbrace; Firebase Cloud Messaging [&#x200B; (FCM) van Google gebruiken met deze nieuwe SDK.](https://firebase.google.com/docs/cloud-messaging/)
 
-* [ instructies van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [ Veelgestelde vragen van de Ontwikkelaar ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [&#x200B; instructies van de Ontwikkelaar &#x200B;](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [&#x200B; Veelgestelde vragen van de Ontwikkelaar &#x200B;](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
@@ -117,4 +117,4 @@ We hebben onze SDK for Android bijgewerkt naar een modern, stabiel en schaalbaar
 
 Naast onze productrelease werkt ons partnerteam aan een nieuw kader dat webinar leveranciers toestaat om hun eigen integraties met Marketo te bouwen en te handhaven, die meer flexibiliteit in het bijwerken en verbeteren van hun oplossingen verstrekken terwijl het toelaten van marketeers om het beste uit hun gekozen integraties te halen.
 
-We zijn van plan om ons nieuwe platform per geval uit te rollen met aanbieders. Voor meer informatie, zie onze [ programmadetails ](https://www.marketo.com/why-marketo/partners/technology/) of reik uit aan uw contact van Marketo.
+We zijn van plan om ons nieuwe platform per geval uit te rollen met aanbieders. Voor meer informatie, zie onze [&#x200B; programmadetails &#x200B;](https://www.marketo.com/why-marketo/partners/technology/) of reik uit aan uw contact van Marketo.

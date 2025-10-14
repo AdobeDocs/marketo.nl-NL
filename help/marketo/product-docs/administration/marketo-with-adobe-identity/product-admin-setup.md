@@ -16,8 +16,8 @@ ht-degree: 0%
 
    ![](assets/admin-setup-7.png)
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als niet, [&#x200B; opstelling uw Adobe ID &#x200B;](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-8.png)
 
-Het is zo simpel! Productbeheerders zijn primair verantwoordelijk voor het toevoegen van gebruikers. [ Leer hoe te om dat hier te doen ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}.
+Het is zo simpel! Productbeheerders zijn primair verantwoordelijk voor het toevoegen van gebruikers. [&#x200B; Leer hoe te om dat hier te doen &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#add-a-user){target="_blank"}.

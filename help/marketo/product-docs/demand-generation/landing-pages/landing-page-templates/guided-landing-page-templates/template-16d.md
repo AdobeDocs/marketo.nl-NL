@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 16D {#template-16d}
 
-Klik met de rechtermuisknop om [ Sjabloon 16D te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=nl-NL)
+Klik met de rechtermuisknop om [&#x200B; Sjabloon 16D te downloaden &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=nl-NL)
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 16D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=nl-NL)
+[&#x200B; Malplaatje 16D.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=nl-NL)

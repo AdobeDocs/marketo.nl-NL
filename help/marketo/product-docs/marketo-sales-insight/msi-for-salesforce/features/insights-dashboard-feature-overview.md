@@ -17,7 +17,7 @@ Meer informatie over de functies in het dashboard van [!DNL Sales Insights] .
 
 >[!PREREQUISITES]
 >
->U moet het recentste pakket MSI SFDC en [ configuratie ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md) hebben.
+>U moet het recentste pakket MSI SFDC en [&#x200B; configuratie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md) hebben.
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 

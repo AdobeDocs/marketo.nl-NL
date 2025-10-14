@@ -59,4 +59,4 @@ Filter op tijdkader, type element, gebruikers, actie uitgevoerd en meer.
 
    >[!MORELIKETHIS]
    >
-   >[ Details van de Verandering in het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[&#x200B; Details van de Verandering in het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

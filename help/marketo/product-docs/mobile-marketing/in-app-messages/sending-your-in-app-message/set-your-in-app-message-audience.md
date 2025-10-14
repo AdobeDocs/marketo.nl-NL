@@ -33,7 +33,7 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
 
    >[!NOTE]
    >
-   >De standaardtrigger ([!UICONTROL App Open]) en eventuele aangepaste triggers die door de ontwikkelaar aan de code worden toegevoegd, worden automatisch weergegeven in de [!UICONTROL Action] -kiezer. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [ dit artikel ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
+   >De standaardtrigger ([!UICONTROL App Open]) en eventuele aangepaste triggers die door de ontwikkelaar aan de code worden toegevoegd, worden automatisch weergegeven in de [!UICONTROL Action] -kiezer. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
 
 1. Er zijn beperkingen beschikbaar voor de trigger **[!UICONTROL Has Mobile App Activity]** als u deze nodig hebt.
 
@@ -55,4 +55,4 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
 
 Mooi werk! Je hebt je publiek ingesteld. Je hebt de blauwe balk en het groene vinkje verdiend.
 
-Tijd aan [ selecteert uw in-app bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Tijd aan [&#x200B; selecteert uw in-app bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

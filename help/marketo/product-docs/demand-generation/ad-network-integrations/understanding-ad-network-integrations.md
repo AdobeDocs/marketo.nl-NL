@@ -36,7 +36,7 @@ Mogelijkheden zijn:
 
    * Bijvoorbeeld, zoekt een persoon, ziet en klikt een advertentie, dan vult een vorm online uit. Daarna, ontvangt hij een demo offline en wordt een kans van CRM. Dat is waar de adverteerder hem aanvalt
 
-* Het opnieuw rangschikken van websitebezoekers, die [ Personalization van het Web ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"} gebruiken, om hen terug naar uw website te drijven
+* Het opnieuw rangschikken van websitebezoekers, die [&#x200B; Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"} gebruiken, om hen terug naar uw website te drijven
 
    * Aanpassen aan segment of verticaal
 
@@ -48,7 +48,7 @@ U kunt integratie gebruiken aan:
 * [Leidingen toevoegen aan een aangepast publiek in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
 * [Creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [Omzettingen van de opstelling  [!DNL Facebook]  off line](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het publiek a [!DNL LinkedIn] ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het publiek a [!DNL LinkedIn] &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | Poortgegevens | Inname van lood | Offlineconversie |
 |---|---|---|---|

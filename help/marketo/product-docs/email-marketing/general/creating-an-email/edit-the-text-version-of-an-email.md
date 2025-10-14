@@ -17,7 +17,7 @@ Wanneer u een e-mailbericht maakt, wilt u mogelijk dat de tekstversie anders wor
 
 >[!NOTE]
 >
->Dit is geen artikel over het maken van een e-mail met alleen tekst. Voor informatie over dat, zie [ een tekst-Enige E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) creëren.
+>Dit is geen artikel over het maken van een e-mail met alleen tekst. Voor informatie over dat, zie [&#x200B; een tekst-Enige E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) creëren.
 
 1. Klik in de e-maileditor op het tabblad **[!UICONTROL Text]** onder aan de e-mail.
 

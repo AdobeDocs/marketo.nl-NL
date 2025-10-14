@@ -17,8 +17,8 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
 >[!PREREQUISITES]
 >
->* [ Stap 1 van 3: Installeer de Oplossing van Marketo (2011 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
->* [ Stap 2 van 3: De Gebruiker van de Synchronisatie van Marketo van de opstelling in  [!DNL Dynamics]  (2011 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>* [&#x200B; Stap 1 van 3: Installeer de Oplossing van Marketo (2011 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+>* [&#x200B; Stap 2 van 3: De Gebruiker van de Synchronisatie van Marketo van de opstelling in  [!DNL Dynamics]  (2011 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
    >[!NOTE]
    >
    >* [!UICONTROL Username] in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user zijn.
-   >* Als u niet URL kent, [ leert hoe te om het hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) te vinden.
+   >* Als u niet URL kent, [&#x200B; leert hoe te om het hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) te vinden.
 
 ## Te synchroniseren velden selecteren {#select-fields-to-sync}
 
@@ -69,7 +69,7 @@ Nu moeten we de velden selecteren waarover we willen synchroniseren.
 
    >[!NOTE]
    >
-   >Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in [!DNL Dynamics] schrapt, adviseerden wij het doen dit met [ gehandicapte synchronisatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Dan vernieuw het schema in Marketo door [ Uitgezochte Gebieden uit te geven en op te slaan om ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te synchroniseren.
+   >Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in [!DNL Dynamics] schrapt, adviseerden wij het doen dit met [&#x200B; gehandicapte synchronisatie &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Dan vernieuw het schema in Marketo door [&#x200B; Uitgezochte Gebieden uit te geven en op te slaan om &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te synchroniseren.
 
 ## Velden synchroniseren voor een aangepast filter {#sync-fields-for-a-custom-filter}
 

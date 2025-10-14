@@ -14,11 +14,11 @@ ht-degree: 1%
 
 Hieronder vindt u alle functies die zijn inbegrepen in de release van 24 april. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
-De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
+De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [&#x200B; kunnen hier &#x200B;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -75,7 +75,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **Activiteiten API Update**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en op e-mail-Gebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [ Marketo REST API ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. De hieronder vermelde activiteiten omvatten nu de kenmerken Browser, Platform, Apparaat en Gebruikersagent. Roep [ krijgt het 1&rbrace; eindpunt van de Types van Activiteit &lbrace;om kenmerkdetails voor elke activiteit te herzien.](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"}
+* **Activiteiten API Update**: Op 26 april, voegen wij verscheidene nieuwe attributen aan web-based en op e-mail-Gebaseerde activiteiten toe die zijn teruggekeerd wanneer u activiteiten terugwint gebruikend [&#x200B; Marketo REST API &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. De hieronder vermelde activiteiten omvatten nu de kenmerken Browser, Platform, Apparaat en Gebruikersagent. Roep [&#x200B; krijgt het 1&rbrace; eindpunt van de Types van Activiteit &lbrace;om kenmerkdetails voor elke activiteit te herzien.](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"}
 
 **Web-based Activiteiten**
 

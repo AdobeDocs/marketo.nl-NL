@@ -72,4 +72,4 @@ Hier volgt een overzicht van wat de ingebouwde slimme lijsten doen:
 
 >[!MORELIKETHIS]
 >
->[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

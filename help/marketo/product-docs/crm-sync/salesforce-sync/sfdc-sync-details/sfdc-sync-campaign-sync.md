@@ -49,30 +49,30 @@ Filters:
 
 ## Kan ik Marketo People toevoegen aan mijn SFDC-campagne? {#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-Ja, gebruik [ toevoegen aan de actie van de de campagnestroom van SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Als deze persoon niet bestaat in [!DNL Salesforce] , maakt Marketo deze in [!DNL Salesforce] en voegt hij/zij deze toe aan de campagne.
+Ja, gebruik [&#x200B; toevoegen aan de actie van de de campagnestroom van SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Als deze persoon niet bestaat in [!DNL Salesforce] , maakt Marketo deze in [!DNL Salesforce] en voegt hij/zij deze toe aan de campagne.
 
 ## Kan ik leden uit mijn SFDC-campagne verwijderen met Marketo? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Ja, gebruik [ verwijderen uit de stroomactie van de Campagne van SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
+Ja, gebruik [&#x200B; verwijderen uit de stroomactie van de Campagne van SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
 
 ## Kan ik de status van een lid van een campagne wijzigen met Marketo? {#can-i-change-campaign-member-status-using-marketo}
 
-Ja, gebruik de [ Status van de Verandering in de stroomactie van de Campagne van SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}.
+Ja, gebruik de [&#x200B; Status van de Verandering in de stroomactie van de Campagne van SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}.
 
 ## Waarom kan ik geen van mijn [!DNL Salesforce] campagnes zien? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 
 Hier volgen enkele zaken die u kunt controleren:
 
-1. Zorg ervoor de [ campagnecsync ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) wordt toegelaten.
-1. Bevestig dat uw [ Gebruiker van de Synchronisatie van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) a [ Marketing Gebruiker ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in [!DNL Salesforce] is.
+1. Zorg ervoor de [&#x200B; campagnecsync &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) wordt toegelaten.
+1. Bevestig dat uw [&#x200B; Gebruiker van de Synchronisatie van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) a [&#x200B; Marketing Gebruiker &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in [!DNL Salesforce] is.
 
 >[!NOTE]
 >
->Als uw [!DNL Salesforce] -campagne en het toegewezen Marketo-programma niet-compatibele programmastatussen hebben, ontvangt u mogelijk een foutbericht. Wij adviseren dat u [ de programmastatussen voorafgaand aan de synchronisatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpast.
+>Als uw [!DNL Salesforce] -campagne en het toegewezen Marketo-programma niet-compatibele programmastatussen hebben, ontvangt u mogelijk een foutbericht. Wij adviseren dat u [&#x200B; de programmastatussen voorafgaand aan de synchronisatie &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpast.
 
 >[!MORELIKETHIS]
 >
->* [ Synchroniseer een Campagne van SFDC met een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
->* [ Begrijpend het Lidmaatschap van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
->* [ toelaten/onbruikbaar maken de Synchronisatie van de Campagne ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
->* [ maak de Gebruiker van de Synchronisatie van Marketo een Gebruiker van de Marketing ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}
+>* [&#x200B; Synchroniseer een Campagne van SFDC met een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [&#x200B; Begrijpend het Lidmaatschap van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [&#x200B; toelaten/onbruikbaar maken de Synchronisatie van de Campagne &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
+>* [&#x200B; maak de Gebruiker van de Synchronisatie van Marketo een Gebruiker van de Marketing &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}

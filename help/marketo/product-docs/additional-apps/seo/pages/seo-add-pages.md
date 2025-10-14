@@ -29,7 +29,7 @@ Je hebt pagina&#39;s! Marketo SEO doorloopt automatisch uw site en volgt deze. A
 
    >[!TIP]
    >
-   >Wist u u kunt [ uw pagina aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) toevoegen? Kijk eens!
+   >Wist u u kunt [&#x200B; uw pagina aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) toevoegen? Kijk eens!
 
    Het kan even duren voordat de paginagegevens zijn geladen. Wacht op het groene waarschuwingsbericht en vernieuw uw pagina om de weergave bij te werken.
 

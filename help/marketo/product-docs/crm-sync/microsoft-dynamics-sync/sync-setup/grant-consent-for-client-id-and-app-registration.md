@@ -71,7 +71,7 @@ Volg de onderstaande stappen om te leren hoe u de vereiste toestemming/machtigin
 
 ## Toestemming verlenen voor alle gebruikers {#grant-consent-for-all-users}
 
-Als beheerder, kunt u aan de gedelegeerde toestemmingen van een toepassing namens alle gebruikers in uw huurder ook toestemming geven. Administratieve toestemming verhindert de toestemmingsdialoog voor elke gebruiker in de huurder te verschijnen, en kan in het Azure portaal door gebruikers met de beheerderrol worden gedaan. Leer welke beheerderrollen [ toestemming aan gemachtigde toestemmingen hier ](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference) kunnen.
+Als beheerder, kunt u aan de gedelegeerde toestemmingen van een toepassing namens alle gebruikers in uw huurder ook toestemming geven. Administratieve toestemming verhindert de toestemmingsdialoog voor elke gebruiker in de huurder te verschijnen, en kan in het Azure portaal door gebruikers met de beheerderrol worden gedaan. Leer welke beheerderrollen [&#x200B; toestemming aan gemachtigde toestemmingen hier &#x200B;](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference) kunnen.
 
 1. Navigeer in uw Azure-portal naar de startpagina van de toepassing.
 

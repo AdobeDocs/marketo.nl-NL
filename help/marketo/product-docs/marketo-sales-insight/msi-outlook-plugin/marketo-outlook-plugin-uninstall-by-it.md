@@ -49,4 +49,4 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 >
 >Als u de insteekmodule verwijdert, wordt [!DNL Outlook] op de computer van de gebruiker geforceerd gesloten.
 
-Gelieve te verwijzen [ volledige lijst van de Microsoft van schakelaars ](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Gelieve te verwijzen [&#x200B; volledige lijst van de Microsoft van schakelaars &#x200B;](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.

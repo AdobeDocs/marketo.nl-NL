@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De sectie van het Gegevensbestand is waar u de belangrijkste attributen van de mensen in uw geval zult vinden. Leer meer over de noodzakelijke stappen om door verschillende lijsten en segmentaties in uw Gegevensbestand te navigeren, evenals het beheren van personenverslagen.
 
-Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
+Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
 
 ## Slimme systeemlijsten {#system-smart-lists}
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een programmarapport filteren op kosten van periode {#filter-a-program-report-by-period-cost}
 
-Focus uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} op een specifieke periode kostentimeframe.
+Focus uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} op een specifieke periode kostentimeframe.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ).
 
@@ -37,4 +37,4 @@ Focus uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-
 
 >[!NOTE]
 >
->[ filter een Rapport van het Programma door Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md){target="_blank"}
+>[&#x200B; filter een Rapport van het Programma door Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md){target="_blank"}

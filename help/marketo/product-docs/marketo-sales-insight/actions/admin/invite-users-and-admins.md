@@ -42,7 +42,7 @@ Het toevoegen van gebruikers of beheerders is snel en eenvoudig!
 
    >[!NOTE]
    >
-   >[ leer meer over Teams ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
+   >[&#x200B; leer meer over Teams &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
 1. Selecteer de Marketo-werkruimte waaraan u de nieuwe gebruikers wilt toevoegen. Als u maar één werkruimte hebt, ziet u Standaard als optie. Klik **Uitnodigen**.
 

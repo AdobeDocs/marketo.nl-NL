@@ -21,7 +21,7 @@ U kunt SMS-berichten verzenden naar de mensen die u hebt aangemeld voor uw SMS-c
 
 >[!AVAILABILITY]
 >
->U moet een actieve Vibes-account en een Adobe-licentie voor Vibes SMS hebben. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen, kan een verbinding via Webhooks van Marketo worden gebruikt door [ direct het contacteren van Lagen ](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>U moet een actieve Vibes-account en een Adobe-licentie voor Vibes SMS hebben. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen, kan een verbinding via Webhooks van Marketo worden gebruikt door [&#x200B; direct het contacteren van Lagen &#x200B;](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
 1. Ga in Mijn Marketo naar het gebied **[!UICONTROL Admin]** .
 
@@ -49,4 +49,4 @@ U kunt SMS-berichten verzenden naar de mensen die u hebt aangemeld voor uw SMS-c
 
 >[!MORELIKETHIS]
 >
->[ Videodemo van Vibes ](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
+>[&#x200B; Videodemo van Vibes &#x200B;](https://vimeo.com/215233767/1ed136adbc){target="_blank"}

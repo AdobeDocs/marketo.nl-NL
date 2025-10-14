@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Stroom Step Service {#flow-step-service}
 
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie bij het schrijven van en het publiceren van uw eigen dienst, gelieve te verwijzen naar de [[!DNL GitHub]  bewaarplaats voor de Interface van Service Provider ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Een proef-van-Concept implementatie van de Lijst van de Opzoeklijst kan [ hier ](https://github.com/adobe/mkto-flow-lookup){target="_blank"} worden gevonden.
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie bij het schrijven van en het publiceren van uw eigen dienst, gelieve te verwijzen naar de [[!DNL GitHub]  bewaarplaats voor de Interface van Service Provider &#x200B;](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Een proef-van-Concept implementatie van de Lijst van de Opzoeklijst kan [&#x200B; hier &#x200B;](https://github.com/adobe/mkto-flow-lookup){target="_blank"} worden gevonden.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 

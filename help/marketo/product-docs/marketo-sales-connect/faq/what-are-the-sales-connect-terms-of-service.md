@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Wat zijn de servicevoorwaarden van [!DNL Sales Connect] ? {#what-are-the-sales-connect-terms-of-service}
 
-De [!DNL Sales Connect] Termen van de Dienst kunnen [ hier ](https://documents.marketo.com/toutapp/terms) worden gevonden.
+De [!DNL Sales Connect] Termen van de Dienst kunnen [&#x200B; hier &#x200B;](https://documents.marketo.com/toutapp/terms) worden gevonden.
 
 >[!NOTE]
 >

@@ -16,7 +16,7 @@ U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{
 
 >[!TIP]
 >
->Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar [!DNL Sales Insight Actions] als naar [!DNL Salesforce] kijken. Dat betekent als een contact niet in de [ Webtoepassing ](https://toutapp.com/login) bestaat, kijken wij binnen [!DNL Salesforce] om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
+>Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar [!DNL Sales Insight Actions] als naar [!DNL Salesforce] kijken. Dat betekent als een contact niet in de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) bestaat, kijken wij binnen [!DNL Salesforce] om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
 
 ## Een dynamisch veld invoegen in een sjabloon {#insert-a-dynamic-field-into-a-template}
 
@@ -75,4 +75,4 @@ Met dit gereedschap kunt u `auto-personalize your email` gebruiken en tonnen tij
 
 >[!TIP]
 >
->Als uw dynamische gebieden niet bevolkt, controleer [ dit artikel ](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
+>Als uw dynamische gebieden niet bevolkt, controleer [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).

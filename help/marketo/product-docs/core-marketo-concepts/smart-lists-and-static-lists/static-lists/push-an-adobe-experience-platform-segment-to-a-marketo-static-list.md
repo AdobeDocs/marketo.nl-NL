@@ -16,12 +16,12 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
 >[!PREREQUISITES]
 >
->* [ geef de API Rol ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} uit om ervoor te zorgen het **lees-schrijf Persoon** toestemming heeft (die onder de toegang API drop-down wordt gevonden).
->* [ creeer een Gebruiker van API ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} in Marketo.
+>* [&#x200B; geef de API Rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} uit om ervoor te zorgen het **lees-schrijf Persoon** toestemming heeft (die onder de toegang API drop-down wordt gevonden).
+>* [&#x200B; creeer een Gebruiker van API &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"} in Marketo.
 >* Ga naar **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]** . Zoek de naam van de rol die u net hebt gemaakt en klik op **[!UICONTROL View Details]** . Kopieer en sla de informatie op in **[!UICONTROL Client ID]** en **[!UICONTROL Client Secret]** , zoals u deze nodig hebt voor stap 7.
 >* Maak in Marketo een statische lijst of zoek en selecteer een lijst die u al hebt gemaakt. Je hebt de id nodig.
 
-1. Login aan [ Adobe Experience Platform ](https://experience.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Experience Platform &#x200B;](https://experience.adobe.com/){target="_blank"}.
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
@@ -99,7 +99,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
    >[!NOTE]
    >
-   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [ beschrijf API verzoek ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
+   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [&#x200B; beschrijf API verzoek &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
 
 1. Wijs Achternaam en Bedrijfsnaam toe door nogmaals op **[!UICONTROL Add New Mapping]** te klikken en Stap 15 tweemaal te herhalen. Kies vervolgens **[!UICONTROL lastName]** en **[!UICONTROL companyName]** .
 

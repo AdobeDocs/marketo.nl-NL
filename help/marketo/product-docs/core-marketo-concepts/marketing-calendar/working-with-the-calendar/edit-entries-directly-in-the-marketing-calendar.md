@@ -67,4 +67,4 @@ Dat is het! Aangezien u kunt zien zijn er veel dingen u direct van de Kalender v
 
 >[!MORELIKETHIS]
 >
->[ Schrap ingangen direct in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[&#x200B; Schrap ingangen direct in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

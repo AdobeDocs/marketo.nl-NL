@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Een token is een variabele die u kunt gebruiken in e-mails, Landing Pages en Slimme campagnes om uw leven eenvoudiger te maken.
 
-Naast Mijn tokens kunt u ook alle ingebouwde tokens in uw programma&#39;s gebruiken. Controle uit het [ Overzicht van Tokens ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+Naast Mijn tokens kunt u ook alle ingebouwde tokens in uw programma&#39;s gebruiken. Controle uit het [&#x200B; Overzicht van Tokens &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Mijn tokens  {#my-tokens}
 
-Mijn tokens zijn aangepaste variabelen die iedereen kan maken. Lokaal, worden zij [ gecreeerd ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in of campagnemappen of programma&#39;s.
+Mijn tokens zijn aangepaste variabelen die iedereen kan maken. Lokaal, worden zij [&#x200B; gecreeerd &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in of campagnemappen of programma&#39;s.
 
 Mijn tokens worden als volgt weergegeven: `{{my.Name Of Token}}`
 
@@ -89,7 +89,7 @@ Het verplaatsen van programma&#39;s en omslagen beïnvloedt ook tokens. Controle
 
 >[!IMPORTANT]
 >
->Geneste tokens worden niet gesteund in [ Campagnes van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
+>Geneste tokens worden niet gesteund in [&#x200B; Campagnes van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
@@ -97,5 +97,5 @@ Het verplaatsen van programma&#39;s en omslagen beïnvloedt ook tokens. Controle
 
 >[!MORELIKETHIS]
 >
->* [ Tokens Overzicht ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
->* [ het leiden Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+>* [&#x200B; Tokens Overzicht &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [&#x200B; het leiden Mijn Tokens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

@@ -23,7 +23,7 @@ Hebt u zoveel campagnes dat het schuiven omslachtig wordt? Gebruik labels om tag
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Selecteer de campagnes die u wilt voorzien van een label.
 
@@ -51,4 +51,4 @@ Koel! U weet nu hoe u labels kunt maken en toewijzen aan campagnes.
 
 >[!MORELIKETHIS]
 >
->[ Etiket een Segment ](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>[&#x200B; Etiket een Segment &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

@@ -71,5 +71,5 @@ Alleen u kunt de aangepaste weergaven zien die u maakt in de vervolgkeuzelijst W
 
 >[!MORELIKETHIS]
 >
->* [ Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
->* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [&#x200B; Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

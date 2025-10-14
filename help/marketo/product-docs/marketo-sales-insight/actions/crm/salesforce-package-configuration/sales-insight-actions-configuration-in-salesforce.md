@@ -13,8 +13,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ installeer ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) of [ Verbetering ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) het Pakket van Insight van de Verkoop in uw [!DNL Salesforce] instantie
->* [ Vorm Insight van de Verkoop van Marketo in  [!DNL Salesforce]  Onderneming/Onbeperkt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [&#x200B; installeer &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) of [&#x200B; Verbetering &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) het Pakket van Insight van de Verkoop in uw [!DNL Salesforce] instantie
+>* [&#x200B; Vorm Insight van de Verkoop van Marketo in  [!DNL Salesforce]  Onderneming/Onbeperkt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## Nieuwe externe site toevoegen in [!DNL Salesforce] {#add-new-remote-site-in-salesforce}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u uw [!UICONTROL API Secrey Key] handig niet hebt, kunt u het vinden door de stappen in [ dit artikel ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) te volgen.
+   >Als u uw [!UICONTROL API Secrey Key] handig niet hebt, kunt u het vinden door de stappen in [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) te volgen.
 
 1. Klik op **[!UICONTROL Save]** als u klaar bent.
 

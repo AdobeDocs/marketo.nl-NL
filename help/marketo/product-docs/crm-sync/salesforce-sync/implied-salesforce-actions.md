@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer een [!DNL Salesforce]-specifieke stroomstap wordt uitgevoerd, worden soms extra stappen automatisch uitgevoerd. Hier zijn de regels, dus weet u:
 
-Deze regels zullen van toepassing zijn wanneer de persoon momenteel niet in [ Salesforce.com ](https://Salesforce.com){target="_blank"} als contact of lood is.
+Deze regels zullen van toepassing zijn wanneer de persoon momenteel niet in [&#x200B; Salesforce.com &#x200B;](https://Salesforce.com){target="_blank"} als contact of lood is.
 
 <table>
  <thead>
@@ -50,4 +50,4 @@ Deze regels zullen van toepassing zijn wanneer de persoon momenteel niet in [ Sa
 
 U kunt SFDC-records in een slimme lijst uitfilteren met het filter **[!UICONTROL SFDC Type]** en de operator &quot;[!UICONTROL is not empty]&quot;. Alle SFDC-records hebben een waarde in dit veld.
 
-Herinner me, gebeuren deze automatische acties slechts als het lood niet momenteel in [ Salesforce.com ](https://salesforce.com){target="_blank"} is
+Herinner me, gebeuren deze automatische acties slechts als het lood niet momenteel in [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"} is

@@ -19,7 +19,7 @@ Een fragment is een herbruikbare component waarnaar in een of meer e-mailsjablon
 
 >[!NOTE]
 >
->De fragmenten zijn het equivalent van [ Fragmenten ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} in de oude E-mailredacteur.
+>De fragmenten zijn het equivalent van [&#x200B; Fragmenten &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} in de oude E-mailredacteur.
 
 U kunt zo veel mogelijk gebruikmaken van fragmenten in uw workflows:
 
@@ -34,23 +34,23 @@ Visuele fragmenten zijn vooraf gedefinieerde visuele blokken die zijn gemaakt (m
 
 Om tot visuele fragmenten toegang te hebben, ga naar de **Studio van het Ontwerp** in Marketo Engage. Klik in de boomstructuur links op **[!UICONTROL Fragments (New)]** .
 
-![ fragmenten van de Toegang ](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
+![&#x200B; fragmenten van de Toegang &#x200B;](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 Standaard wordt de tabel gesorteerd op de kolom _[!UICONTROL Modified]_. Klik op andere kolomtitels om te wijzigen waarop de tabel wordt gesorteerd. Klik nogmaals op dezelfde titel om te schakelen tussen oplopend en aflopend.
 
 ### Zoeken en filteren
 
-Gebruik de zoekbalk om een fragment op naam te zoeken. Klik het _pictogram van de Filter_ ( ![ pictogram van de Filter ](assets/icon-filter.svg)) om de beschikbare filteropties te tonen en de gewenste montages te kiezen.
+Gebruik de zoekbalk om een fragment op naam te zoeken. Klik het _pictogram van de Filter_ ( ![&#x200B; pictogram van de Filter &#x200B;](assets/icon-filter.svg)) om de beschikbare filteropties te tonen en de gewenste montages te kiezen.
 
-![ filter de getoonde fragmenten ](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+![&#x200B; filter de getoonde fragmenten &#x200B;](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
 
 ### De kolommen aanpassen {#customize-the-column-display}
 
-Pas de kolommen aan u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![ aanpassen lijstpictogram ](assets/icon-column-settings.svg)) bij het hoogste recht.
+Pas de kolommen aan u in de lijst wilt tonen door _te klikken aanpassen lijst_ pictogram ( ![&#x200B; aanpassen lijstpictogram &#x200B;](assets/icon-column-settings.svg)) bij het hoogste recht.
 
 Selecteer de gewenste kolommen en klik op **[!UICONTROL Apply]** .
 
-![ aanpassen lijst modaal ](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
+![&#x200B; aanpassen lijst modaal &#x200B;](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Fragmentstatus {#fragment-status}
 
@@ -98,7 +98,7 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
 
 1. Als u een nieuw visueel fragment wilt maken, klikt u op **[!UICONTROL Create fragment]** rechtsboven op de pagina in de lijst met fragmenten.
 
-   ![ creeer fragmentknoop ](assets/create-fragments-1.png){width="700" zoomable="yes"}
+   ![&#x200B; creeer fragmentknoop &#x200B;](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
 1. Geef het fragment een **[!UICONTROL Name]** en een optioneel **[!UICONTROL Description]** .
 
@@ -109,11 +109,11 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
    * Tekens: alfa, numerieke en speciale tekens zijn oké
    * Gereserveerde karakters zijn **_niet toegestaan_**: `\ / : * ? " < > |`
 
-   ![ creeer fragment modaal ](assets/create-fragments-2.png){width="400" zoomable="yes"}
+   ![&#x200B; creeer fragment modaal &#x200B;](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Create]**.
 
-   ![ creeer fragment modaal ](assets/create-fragments-3.png){width="400" zoomable="yes"}
+   ![&#x200B; creeer fragment modaal &#x200B;](assets/create-fragments-3.png){width="400" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -121,7 +121,7 @@ De fragmentstatus bepaalt de beschikbaarheid voor gebruik in een e-mailsjabloon 
 
    De visuele ontwerper wordt geopend met een leeg canvas.
 
-1. Gebruik de [ hulpmiddelen van het inhoudsontwerp ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} om de visuele fragmentinhoud tot stand te brengen.
+1. Gebruik de [&#x200B; hulpmiddelen van het inhoudsontwerp &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} om de visuele fragmentinhoud tot stand te brengen.
 
 1. Klik op **[!UICONTROL Save]** om het conceptfragment op te slaan.
 
@@ -135,7 +135,7 @@ Klik op de naam van een fragment in de lijstpagina om de pagina met fragmentdeta
 >
 >Als een gepubliceerd fragment wordt gebruikt door een e-mailsjabloon, kunt u de naam van het fragment niet wijzigen of de inhoud ervan bewerken. U kunt een conceptversie maken als u wijzigingen in het fragment wilt aanbrengen.
 
-![ de details van de Mening voor een gepubliceerd fragment ](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
+![&#x200B; de details van de Mening voor een gepubliceerd fragment &#x200B;](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
 
 Klik op **[!UICONTROL Edit fragment]** om het fragment te openen in de visuele inhoudeditor.
 
@@ -149,7 +149,7 @@ Klik op de pagina met fragmentdetails op het tabblad **[!UICONTROL Used By]** om
 >
 >Een fragment dat momenteel wordt gebruikt door een e-mailsjabloon of e-mailsjabloon kan niet worden verwijderd.
 
-![ Gebruikt door verwijzingen voor het fragment ](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
+![&#x200B; Gebruikt door verwijzingen voor het fragment &#x200B;](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
 
 Klik op de koppeling om de bijbehorende sjabloon voor e-mail of e-mail te openen waarin het fragment wordt gebruikt.
 
@@ -164,7 +164,7 @@ U kunt een fragment op een van de volgende manieren verwijderen:
 
 Met deze handeling wordt een bevestigingsvenster geopend. U kunt het proces afbreken door op **[!UICONTROL Cancel]** te klikken of op **[!UICONTROL Delete]** te klikken om het verwijderen te bevestigen.
 
-![ de fragmentdialoog van de Schrapping ](assets/fragment-delete-dialog.png){width="400"}
+![&#x200B; de fragmentdialoog van de Schrapping &#x200B;](assets/fragment-delete-dialog.png){width="400"}
 
 ## Fragmenten bewerken {#edit-fragments}
 
@@ -184,7 +184,7 @@ Bewerkingen aan een fragment zijn afhankelijk van de huidige status:
 
 1. Breng de gewenste wijzigingen aan.
 
-   ![ Details voor kader met de status van het Ontwerp ](assets/fragment-draft-details.png){width="600" zoomable="yes"}
+   ![&#x200B; Details voor kader met de status van het Ontwerp &#x200B;](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. Als u de inhoud in de visuele ontwerper wilt wijzigen, klikt u op **[!UICONTROL Edit fragment]** . Klik **sparen** wanneer gedaan.
 
@@ -206,7 +206,7 @@ Bewerkingen aan een fragment zijn afhankelijk van de huidige status:
 
    Klik op **[!UICONTROL OK]** in het dialoogvenster om de conceptversie te openen in de visuele ontwerper. U kunt de `image source` KG - KOPPELING HIER desgewenst wijzigen.
 
-   ![ creeer de dialoog van de ontwerp versie ](assets/fragments-create-draft-version.png){width="300"}
+   ![&#x200B; creeer de dialoog van de ontwerp versie &#x200B;](assets/fragments-create-draft-version.png){width="300"}
 
 1. Klik op **[!UICONTROL Save]** of **[!UICONTROL Save & close]** om terug te keren naar de fragmentdetails.
 
@@ -222,7 +222,7 @@ U kunt de conceptversie op twee manieren openen om te bewerken op de pagina met 
 
 * Klik het _Meer_ pictogram (**..**) naast de fragmentnaam en kies **[!UICONTROL Open draft version]**.
 
-  ![ Open ontwerp versie ](assets/fragments-create-draft-version.png){width="300"}
+  ![&#x200B; Open ontwerp versie &#x200B;](assets/fragments-create-draft-version.png){width="300"}
 
 * Klik op de fragmentnaam om deze te openen. Klik vervolgens rechtsboven op **[!UICONTROL Open draft version]** .
 
@@ -249,11 +249,11 @@ U kunt een fragment op een van de volgende manieren dupliceren:
 * Van de _[!UICONTROL Fragments]_&#x200B;lijstpagina, klik het_ Meer _pictogram (**...**) naast de fragmentnaam en kies **[!UICONTROL Duplicate]**.
 * Klik rechtsboven op de pagina met fragmentdetails op **[!UICONTROL ... More]** en kies **[!UICONTROL Duplicate]** .
 
-![ dupliceer het fragment ](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
+![&#x200B; dupliceer het fragment &#x200B;](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 Voer in het dialoogvenster een unieke naam en een optionele beschrijving in. Klik op **[!UICONTROL Duplicate]**.
 
-![ ga een naam en een beschrijving voor het gedupliceerde fragment ](assets/fragment-duplicate-dialog.png){width="400"} in
+![&#x200B; ga een naam en een beschrijving voor het gedupliceerde fragment &#x200B;](assets/fragment-duplicate-dialog.png){width="400"} in
 
 Het gedupliceerde fragment verschijnt dan in de _lijst van Fragmenten_.
 
@@ -303,8 +303,8 @@ Als een fragment aan een e-mailsjabloon of e-mailsjabloon wordt toegevoegd, kan 
 
 Wanneer u het fragment op de editorpagina selecteert, zijn deze acties beschikbaar bij de contexttoolbar en het eigenschappenpaneel op het recht.
 
-![ pas acties op het geselecteerde fragment ](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"} toe
+![&#x200B; pas acties op het geselecteerde fragment &#x200B;](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"} toe
 
 >[!MORELIKETHIS]
 >
->[ Aanpasbare fragmenten ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
+>[&#x200B; Aanpasbare fragmenten &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)

@@ -47,19 +47,19 @@ Dat doet u niet. Het is gemakkelijk om in Marketo Engage aan de slag te gaan en 
 
 ## Moet ik om het even welke opstelling doen? {#do-i-need-to-do-any-setup}
 
-Ja, zijn er een handvol stappen u moet (of wij adviseren sterk u) doen, en [ zij kunnen hier ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} worden gevonden.
+Ja, zijn er een handvol stappen u moet (of wij adviseren sterk u) doen, en [&#x200B; zij kunnen hier &#x200B;](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} worden gevonden.
 
 ## Moet ik wachten tot de opstelling klaar is om te leren? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nee! We maakten een hoop eenvoudige zelfstudies. [ wordt begonnen hier ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Ze moeten ongeveer een uur duren. U kunt op elk gewenst moment starten.
+Nee! We maakten een hoop eenvoudige zelfstudies. [&#x200B; wordt begonnen hier &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Ze moeten ongeveer een uur duren. U kunt op elk gewenst moment starten.
 
 ## Bestaat er een lijst van dingen die limieten bestrijken, zoals hoeveel e-mails ik per week kan verzenden? {#list-of-limits}
 
-Daar is het. De statische grenzen (en andere parameters) worden geschetst [ in dit artikel ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Daar is het. De statische grenzen (en andere parameters) worden geschetst [&#x200B; in dit artikel &#x200B;](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Hoe lang houdt Marketo vast aan mijn gegevens? {#data-retention-policy}
 
-Gelieve te herzien [ deze Blogpost van de Aantekening van de Marketing ](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} voor details.
+Gelieve te herzien [&#x200B; deze Blogpost van de Aantekening van de Marketing &#x200B;](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} voor details.
 
 <br>
 

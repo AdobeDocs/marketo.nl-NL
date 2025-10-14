@@ -44,7 +44,7 @@ Hoe zet je een campagne op?
 
    ![](assets/four-1.png)
 
-1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen wij [ E-mail ](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
+1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen wij [&#x200B; E-mail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 

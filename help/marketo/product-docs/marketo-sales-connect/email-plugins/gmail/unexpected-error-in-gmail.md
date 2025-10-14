@@ -21,4 +21,4 @@ Als u een &quot;Onverwachte Fout&quot; ontvangt in Gmail wanneer u probeert een 
 
 1. Na het verbreken van de verbinding klikt u op **[!UICONTROL Connect to Google]** .
 
-   Als u weer verbinding hebt gemaakt, gaat u terug naar Gmail en vernieuwt u de pagina en probeert u uw e-mail opnieuw te verzenden. Als het nog niet werkt, gelieve [ een kaartje ](https://nation.marketo.com/t5/Support/ct-p/Support) aan ons Team van de Steun voor te leggen.
+   Als u weer verbinding hebt gemaakt, gaat u terug naar Gmail en vernieuwt u de pagina en probeert u uw e-mail opnieuw te verzenden. Als het nog niet werkt, gelieve [&#x200B; een kaartje &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) aan ons Team van de Steun voor te leggen.

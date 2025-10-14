@@ -17,7 +17,7 @@ Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies
 
 ## Focus op programma in marketingkalender {#program-focus-in-marketing-calendar}
 
-[ creeer en geef ingangen ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) direct van de marketing kalender uit.
+[&#x200B; creeer en geef ingangen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) direct van de marketing kalender uit.
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
@@ -30,21 +30,21 @@ Gebruik de API om nieuwe activiteiten of wijzigingen aan leads aan te brengen:
 * Activiteitstypen ophalen
 * Paginasken ophalen
 
-De volledige details zullen na de versie in [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) beschikbaar zijn.
+De volledige details zullen na de versie in [&#x200B; https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) beschikbaar zijn.
 
 ## MSI - Marketo-e-mail verzenden voor [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[ verzend en spoor verkoope-mails ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) aan lood en contacten van [!DNL Microsoft Dynamics].
+[&#x200B; verzend en spoor verkoope-mails &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) aan lood en contacten van [!DNL Microsoft Dynamics].
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
 ## MSI - Toevoegen aan Marketo-campagnes voor [!DNL Microsoft Dynamics] {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[ voegt lood en contacten aan de slimme campagnes van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direct van binnen [!DNL Microsoft Dynamics] toe. Marketing kan kiezen welke Marketo-campagnes beschikbaar zijn voor verkoop.
+[&#x200B; voegt lood en contacten aan de slimme campagnes van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direct van binnen [!DNL Microsoft Dynamics] toe. Marketing kan kiezen welke Marketo-campagnes beschikbaar zijn voor verkoop.
 
 ## Ondersteuning voor aangepaste entiteit voor [!DNL Microsoft Dynamics] synchroniseren {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[ gegevens van het douaneobjecten van het Gebruik ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) van [!DNL Microsoft Dynamics] voor het filtreren en het teweegbrengen in slimme lijsten, slimme campagnes, programma&#39;s..
+[&#x200B; gegevens van het douaneobjecten van het Gebruik &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) van [!DNL Microsoft Dynamics] voor het filtreren en het teweegbrengen in slimme lijsten, slimme campagnes, programma&#39;s..
 
 ## Shareholder-ondersteuning voor [!DNL Microsoft Dynamics] Sync {#shareholder-support-for-microsoft-dynamics-sync}
 
@@ -60,7 +60,7 @@ Het dashboard wordt nu uitgebreid en bevat nu meer gegevens in één oogopslag:
 
 ## RTP - Nieuwe Mobiele Malplaatjes voor Campagnes {#rtp-new-mobile-templates-for-campaigns}
 
-Snel en gemakkelijk [ creeer mobiele campagnes ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) met deze nieuwe malplaatjes.
+Snel en gemakkelijk [&#x200B; creeer mobiele campagnes &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) met deze nieuwe malplaatjes.
 
 ## RTP - API voor gebruikerscontext {#rtp-user-context-api}
 
@@ -70,4 +70,4 @@ Gebruik een nieuwe vraag die de geschiedenis van het bezoek van de bezoeker volg
 * Producten die geïnteresseerd zijn in
 * Welke campagnes RTP hebben gezien
 
-Bezoek [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige details.
+Bezoek [&#x200B; https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) voor volledige details.

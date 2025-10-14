@@ -31,7 +31,7 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/approve-a-form-3.png)
 
-   Het is goedgekeurd en klaar om [ aan een het landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} worden toegevoegd.
+   Het is goedgekeurd en klaar om [&#x200B; aan een het landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} worden toegevoegd.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ U kunt een formulier rechtstreeks vanuit de formuliereditor goedkeuren.
 
 >[!PREREQUISITES]
 >
->[ geef een Vorm ](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) uit
+>[&#x200B; geef een Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) uit
 
 1. Klik in het formulier op **[!UICONTROL Finish]** .
 

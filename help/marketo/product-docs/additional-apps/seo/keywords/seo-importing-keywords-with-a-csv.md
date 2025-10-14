@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # SEO - Trefwoorden importeren met een CSV {#seo-importing-keywords-with-a-csv}
 
-1. U kunt [ sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manueel toevoegen, [ krijgen sleutelwoordsuggesties ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) en zelfs sleutelwoorden van een Csv- dossier invoeren. Hieronder wordt beschreven hoe u het bestand importeert.
+1. U kunt [&#x200B; sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manueel toevoegen, [&#x200B; krijgen sleutelwoordsuggesties &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) en zelfs sleutelwoorden van een Csv- dossier invoeren. Hieronder wordt beschreven hoe u het bestand importeert.
 
 1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
@@ -49,5 +49,5 @@ ht-degree: 2%
 
    >[!MORELIKETHIS]
    >
-   >* [ Begrijpend Trefwoorden (Samenvattingsmening) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [ voeg/verwijder Trefwoorden van een Lijst toe ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [&#x200B; Begrijpend Trefwoorden (Samenvattingsmening) &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [&#x200B; voeg/verwijder Trefwoorden van een Lijst toe &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

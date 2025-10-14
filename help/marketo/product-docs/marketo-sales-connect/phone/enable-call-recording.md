@@ -33,4 +33,4 @@ Als beheerder kunt u vraagopname voor uw [!DNL Sales Connect] vraag toelaten. He
 
 >[!MORELIKETHIS]
 >
->[ Twee Montages van de Toestemming van de Partij ](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
+>[&#x200B; Twee Montages van de Toestemming van de Partij &#x200B;](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

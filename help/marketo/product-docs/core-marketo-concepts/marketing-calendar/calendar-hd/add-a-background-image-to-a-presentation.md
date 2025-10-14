@@ -17,7 +17,7 @@ Pas een presentatie aan door een achtergrondafbeelding te selecteren.
 
 >[!PREREQUISITES]
 >
->[ creeer een Presentatie ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>[&#x200B; creeer een Presentatie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 1. Klik met de rechtermuisknop op een presentatie en selecteer **[!UICONTROL View Setup]** .
 

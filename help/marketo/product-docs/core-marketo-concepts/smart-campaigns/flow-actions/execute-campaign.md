@@ -24,7 +24,7 @@ Er zijn veel dingen die je kunt doen met een uitvoerbare campagne. Zij worden on
 
 U kunt ze ook gebruiken wanneer u een aparte flow moet uitvoeren, maar u moet afhangen van de resultaten van die flow in de volgende keuzemogelijkheden voor de stap Stroom (als dit het geval is, moet u dat doen).
 
-Uitvoeren Campagne is een verbetering op [ Campagne van het Verzoek ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in-series kan lopen, terwijl laatstgenoemde slechts parallel loopt.
+Uitvoeren Campagne is een verbetering op [&#x200B; Campagne van het Verzoek &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in-series kan lopen, terwijl laatstgenoemde slechts parallel loopt.
 
 >[!NOTE]
 >
@@ -56,18 +56,18 @@ Wanneer ingesteld op true, worden de volgende token-contexten verzonden naar de 
 * Campagne Tokens
 * Programmatokens
 * Member Tokens
-* [ de Tokens van de Trekker ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (als geroepen van een Gerichte Campagne)
+* [&#x200B; de Tokens van de Trekker &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (als geroepen van een Gerichte Campagne)
 
 **API Interactie**
 
-Wanneer het gebruiken van Programma of de Campagne van het Verzoek [ in API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), zowel laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
+Wanneer het gebruiken van Programma of de Campagne van het Verzoek [&#x200B; in API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), zowel laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
 
 ## Notities {#things-to-note}
 
 * De slimme lijst zal uit iedereen filteren die niet kwalificeert. Als een persoon in aanmerking komt, worden de resulterende uitgevoerde activiteitenverslagen van de Campagne vermeld als &quot;Gekwalificeerd: WAAR&quot; (en FALSE als zij niet)
 * De kwalificatieregels van de Campagne van het programma zijn van toepassing (de Slimme Montages van de Campagne onder het lusje van het Programma)
 * Uitvoerbare campagnes kunnen niet worden aangeroepen in verschillende werkruimten
-* Als u [ gebruikt verwijder uit Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) stroomactie gericht op een Uitvoerbare Campagne, zal het zowel het kind als de ouder richten
+* Als u [&#x200B; gebruikt verwijder uit Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) stroomactie gericht op een Uitvoerbare Campagne, zal het zowel het kind als de ouder richten
 * Gebruikend uit symbolische overerving - bijvoorbeeld, als u één enkele gemeenschappelijke het scoren stroom hebt die door veelvoudige verschillende activa teweeggebracht, kunt u een gebrek Mijn Symbolische score in de kindcampagne en in de oudercampagne bepalen zodat u de waarde van de kindscore campagnecampagne voor uw oudercampagnes (zie hieronder voor visueel voorbeeld) kunt met voeten treden
 * Uitvoerbare campagnes kunnen tot drie niveaus diep worden opgeroepen (bijvoorbeeld Bovenliggende campagne > Onderliggend element > Onderliggend element > Onderliggend element)
 

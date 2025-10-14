@@ -29,7 +29,7 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Open het menu Campagnestatus en selecteer **[!UICONTROL Schedule]** .
 

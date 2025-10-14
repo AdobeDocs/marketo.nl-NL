@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Wat is de integratie van [!DNL Sales Connect] en [!DNL Highspot] ? {#what-is-the-sales-connect-and-highspot-integration}
 
-[!DNL Sales Connect] steunt integratie met [ Hoogtepunt ](https://www.highspot.com/), een systeem van het inhoudsbeheer. [!DNL Sales Connect] -klanten die ook [!DNL Highspot] -klanten zijn, hebben vanuit de webtoepassing toegang tot hun [!DNL Highspot] -inhoud.
+[!DNL Sales Connect] steunt integratie met [&#x200B; Hoogtepunt &#x200B;](https://www.highspot.com/), een systeem van het inhoudsbeheer. [!DNL Sales Connect] -klanten die ook [!DNL Highspot] -klanten zijn, hebben vanuit de webtoepassing toegang tot hun [!DNL Highspot] -inhoud.
 
 ## Vereisten {#requirements}
 
@@ -31,7 +31,7 @@ Naast het werken in [!DNL Sales Connect] in een browser, is de [!DNL Highspot] -
 
 ## De integratie van [!DNL Sales Connect] en [!DNL Highspot] inschakelen {#enabling-the-sales-connect-and-highspot-integration}
 
-Als u in het toelaten van de [!DNL Highspot] Integratie voor uw team geinteresseerd bent, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support#) te contacteren.
+Als u in het toelaten van de [!DNL Highspot] Integratie voor uw team geinteresseerd bent, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support#) te contacteren.
 
 ## Hoe te om de integratie te gebruiken {#how-to-use-the-integration}
 

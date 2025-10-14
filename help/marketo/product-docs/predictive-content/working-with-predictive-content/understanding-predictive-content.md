@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Voorspelende inhoud {#understanding-predictive-content}
 
-Nadat u [ een titel voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina [!UICONTROL Predictive Content] worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
+Nadat u [&#x200B; een titel voor vooruitlopende inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina [!UICONTROL Predictive Content] worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 

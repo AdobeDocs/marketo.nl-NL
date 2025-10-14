@@ -27,7 +27,7 @@ Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldin
 >
 >Als u de synchronisatie van uw abonnement hebt uitgeschakeld, moet u het abonnement opzeggen uit ToutApp verwijderen en de optie Weigeren [!DNL Salesforce] uitschakelen om de persoonrecord niet opnieuw te synchroniseren.
 
-1. Ga naar de [ Webtoepassing ](https://toutapp.com/login) en klik **[!UICONTROL People]**.
+1. Ga naar de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) en klik **[!UICONTROL People]**.
 
 1. Selecteer de persoon om de weergave van de persoondetails te openen.
 

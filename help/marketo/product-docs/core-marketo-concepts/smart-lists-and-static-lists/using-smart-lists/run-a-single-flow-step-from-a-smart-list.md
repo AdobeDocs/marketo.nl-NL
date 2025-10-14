@@ -17,7 +17,7 @@ Als u een eenmalige stap wilt uitvoeren, kunt u een enkele stap voor de stroom g
 
 >[!PREREQUISITES]
 >
->[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -39,7 +39,7 @@ Als u een eenmalige stap wilt uitvoeren, kunt u een enkele stap voor de stroom g
    >
    >Als de resultaten zich uitstrekken over meerdere pagina&#39;s, worden door te klikken op **[!UICONTROL Select All]** alle personen op alle pagina&#39;s geselecteerd.
 
-1. Selecteer onder **[!UICONTROL Person Actions]** de gewenste stap voor de stroom. In dit voorbeeld zullen wij [ de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} gebruiken.
+1. Selecteer onder **[!UICONTROL Person Actions]** de gewenste stap voor de stroom. In dit voorbeeld zullen wij [&#x200B; de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"} gebruiken.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 

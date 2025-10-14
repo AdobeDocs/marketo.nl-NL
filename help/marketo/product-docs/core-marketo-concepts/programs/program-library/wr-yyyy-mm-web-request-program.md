@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeldprogramma ideaal voor contactverzoek, citaatverzoek, demoverzoek, of proefverzoekvormen die een StandaardProgramma van Marketo Engage gebruiken. Kan worden gebruikt met Marketo-bestemmingspagina&#39;s of als een ingesloten formulier op niet-Marketo bestemmingspagina&#39;s. Bij het verzenden van het formulier wordt een waarschuwingsbericht naar een opgegeven persoon verzonden.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

@@ -16,16 +16,16 @@ Alle nieuwe Adobe Marketo Engage-abonnementen (31 juli 2023 of hoger) worden geÃ
 
 >[!NOTE]
 >
->Marketo Support kan geen updates bieden voor de migratie naar Adobe IMS. Het Adobe-accountteam zal de komende maanden het geschatte tijdpad bereiken. Voor meer informatie, te zien gelieve [ dit artikel ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, en [ vaak Gestelde Vragen ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+>Marketo Support kan geen updates bieden voor de migratie naar Adobe IMS. Het Adobe-accountteam zal de komende maanden het geschatte tijdpad bereiken. Voor meer informatie, te zien gelieve [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"}, en [&#x200B; vaak Gestelde Vragen &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 Voor abonnementen op Adobe-identiteit wordt de Adobe Admin Console gebruikt voor gebruikersbeheer. Identificatieconcepten, zoals Single Sign On, worden ook beheerd in de Admin Console.
 
-* Vind meer informatie over [ Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html){target="_blank"}.
-* Vind meer informatie over [ vestiging uw organisatie van Adobe met betrekking tot uw abonnement van Marketo ](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
+* Vind meer informatie over [&#x200B; Adobe Admin Console &#x200B;](https://helpx.adobe.com/nl/enterprise/using/admin-console.html){target="_blank"}.
+* Vind meer informatie over [&#x200B; vestiging uw organisatie van Adobe met betrekking tot uw abonnement van Marketo &#x200B;](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Als u Single Sign On wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje aan [ Steun van Marketo ](https://nation.marketo.com/){target="_blank"} voor te leggen en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
+>Als u Single Sign On wilt uitvoeren en uw abonnement aan de Identiteit van Adobe zonder SSO die in Adobe Org wordt uitgevoerd, gelieve een kaartje aan [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/){target="_blank"} voor te leggen en het onderwerp te specificeren zoals &quot;Marketo op Admin Console, die SSO uitvoert.&quot;
 
 ## Profielniveaus {#profile-levels}
 
@@ -57,10 +57,10 @@ Adobe Marketo Engage-abonnementen op het Adobe Identity Management-systeem onder
 
 ## Veelgestelde vragen {#faq}
 
-Veelgestelde Vragen [ kunnen hier ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"} worden gevonden.
+Veelgestelde Vragen [&#x200B; kunnen hier &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"} worden gevonden.
 
 >[!MORELIKETHIS]
 >
->* [ Admin Opstelling ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
->* [ voeg of verwijder een Admin van het Product toe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
->* [ voeg of verwijder een Gebruiker ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} toe
+>* [&#x200B; Admin Opstelling &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
+>* [&#x200B; voeg of verwijder een Admin van het Product toe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>* [&#x200B; voeg of verwijder een Gebruiker &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} toe

@@ -40,4 +40,4 @@ Maak een presentatie om de kalenderweergaven en -doelen van uw team te projecter
 
 >[!MORELIKETHIS]
 >
->[ pas een Presentatie ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md) aan
+>[&#x200B; pas een Presentatie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md) aan

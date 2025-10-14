@@ -41,4 +41,4 @@ ht-degree: 3%
 
 >[!MORELIKETHIS]
 >
->[ vorm Mobiele App iOS Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>[&#x200B; vorm Mobiele App iOS Push Access &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

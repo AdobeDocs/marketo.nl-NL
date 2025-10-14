@@ -27,7 +27,7 @@ Als u [!UICONTROL Performance Insights] wilt openen, klikt u op het bijbehorende
 
 ## Bijdrage {#contribution}
 
-Evalueer de 0&rbrace; bijdrage van de Marketing aan opbrengst [ als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
+Evalueer de 0&rbrace; bijdrage van de Marketing aan opbrengst [&#x200B; als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
 
 ![](assets/two.png)
 
@@ -37,7 +37,7 @@ Standaard weerspiegelen de weergegeven gegevens de prestaties van [!UICONTROL En
 
 ## Trend {#trend}
 
-Ontdek [ langetermijntendensen ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) aan vlek verenigbare het winnen strategieën.
+Ontdek [&#x200B; langetermijntendensen &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) aan vlek verenigbare het winnen strategieën.
 
 ![](assets/4.png)
 
@@ -49,7 +49,7 @@ Klik in de [!UICONTROL Revenue] - en [!UICONTROL Pipeline] -dashboards op het pi
 
 ## Gegevens exporteren {#export-data}
 
-U kunt de gegevens en grafieken in [!DNL PowerPoint] of [!DNL Excel] exporteren. U kunt hen ook opslaan als a [ Snelle Grafiek ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+U kunt de gegevens en grafieken in [!DNL PowerPoint] of [!DNL Excel] exporteren. U kunt hen ook opslaan als a [&#x200B; Snelle Grafiek &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 

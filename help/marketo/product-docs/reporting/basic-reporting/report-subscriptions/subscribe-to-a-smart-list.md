@@ -80,7 +80,7 @@ Ontvangers ontvangen een e-mail met de mogelijkheid om het rapport te downloaden
 
 >[!NOTE]
 >
->Als het [ Veilige plaatsen van de Abonnement Admin ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) aan **[!UICONTROL Yes]** wordt geplaatst, slechts zullen de mensen met toegang tot de instantie van Marketo het rapport kunnen downloaden.
+>Als het [&#x200B; Veilige plaatsen van de Abonnement Admin &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) aan **[!UICONTROL Yes]** wordt geplaatst, slechts zullen de mensen met toegang tot de instantie van Marketo het rapport kunnen downloaden.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -102,5 +102,5 @@ Als u een abonnement wilt verwijderen, selecteert u het op het tabblad Abonnemen
 
 >[!MORELIKETHIS]
 >
->* [ geef een Slim Abonnement van de Lijst ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md) uit
->* [ Beveilig het Plaatsen van Admin van het Abonnement ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [&#x200B; geef een Slim Abonnement van de Lijst &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md) uit
+>* [&#x200B; Beveilig het Plaatsen van Admin van het Abonnement &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

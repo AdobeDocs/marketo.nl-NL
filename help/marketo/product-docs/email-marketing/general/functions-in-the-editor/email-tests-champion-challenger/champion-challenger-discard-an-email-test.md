@@ -17,7 +17,7 @@ Als u op een gegeven moment besluit dat u uw e-mailtest niet wilt uitvoeren, kun
 
 >[!PREREQUISITES]
 >
->[ Champion/Challenger: keur Uw E-mailtest ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md) goed
+>[&#x200B; Champion/Challenger: keur Uw E-mailtest &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md) goed
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -31,4 +31,4 @@ Als u op een gegeven moment besluit dat u uw e-mailtest niet wilt uitvoeren, kun
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   Je bent klaar! Als u ooit besluit wilt u opstelling opnieuw een test, ga vooruit en [ voeg een e-mailkampioen/toerist ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe.
+   Je bent klaar! Als u ooit besluit wilt u opstelling opnieuw een test, ga vooruit en [&#x200B; voeg een e-mailkampioen/toerist &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe.

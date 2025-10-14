@@ -37,4 +37,4 @@ U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessant
 
    >[!MORELIKETHIS]
    >
-   >[ Begrijpend Trefwoorden - Samenvattingsmening ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[&#x200B; Begrijpend Trefwoorden - Samenvattingsmening &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

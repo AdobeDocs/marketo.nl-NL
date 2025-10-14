@@ -34,6 +34,6 @@ Met de knop [!UICONTROL Push to Tout] maakt u een lijst met uw leads/contactpers
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect] zal deze groep getiteld &quot;SFDC-...&quot;aan de pagina van Verhoudingen op de [ Webtoepassing ](https://toutapp.com/login) toevoegen.
+   >[!DNL Sales Connect] zal deze groep getiteld &quot;SFDC-...&quot;aan de pagina van Verhoudingen op de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) toevoegen.
 
 1. Selecteer **[!UICONTROL Email Entire Group]** om deze groep-e-mail te verzenden.

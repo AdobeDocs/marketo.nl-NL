@@ -21,7 +21,7 @@ De volgende functies zijn opgenomen in de release van februari 2015. Controleer 
 
 Geniet! Nu kunt u slimme campagnes in en uit programma&#39;s bewegen gebruikend belemmering en daling of de eigenschap van de Beweging in de boom.
 
-**[[!DNL Dynamics] 2015 (Online) ](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - gesteund!
+**[[!DNL Dynamics] 2015 (Online) &#x200B;](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - gesteund!
 
 **de Veranderingen van het Certificaat HTTPS**
 
@@ -31,9 +31,9 @@ en vervangt momenteel gebruikte beveiligingsprotocollen (SHA-1 en SSL) door veil
 
 * marketo.net (gecodeerd [!DNL Munchkin] verkeer)
 
-* [ marketo.com ](https://marketo.com) (belangrijkste toepassingen SaaS)
+* [&#x200B; marketo.com &#x200B;](https://marketo.com) (belangrijkste toepassingen SaaS)
 
-Dit gebeurt kort na deze release. Het protocol SHA-1 zal tijdelijk op [ mktoapi.com ](https://mktoapi.com) domein tot December, 2015 worden gesteund om eigenaars van erfenissystemen en toepassingen toe te staan om hun systemen met SHA-2 verenigbaarheid bij te werken.
+Dit gebeurt kort na deze release. Het protocol SHA-1 zal tijdelijk op [&#x200B; mktoapi.com &#x200B;](https://mktoapi.com) domein tot December, 2015 worden gesteund om eigenaars van erfenissystemen en toepassingen toe te staan om hun systemen met SHA-2 verenigbaarheid bij te werken.
 
 **Beveiligen[!DNL Munchkin]**
 

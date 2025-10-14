@@ -21,7 +21,7 @@ U kunt het kanaaltype van het 0&rbrace; Summiere **lusje van de gebeurtenis of v
 
 >[!NOTE]
 >
->Een programma is een specifiek marketinginitiatief. Het **kanaal** is voorgenomen om het leveringsmechanisme, zoals Webinar, Tradeshow, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [ uw eigen kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) tot stand brengen.
+>Een programma is een specifiek marketinginitiatief. Het **kanaal** is voorgenomen om het leveringsmechanisme, zoals Webinar, Tradeshow, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [&#x200B; uw eigen kanaal &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) tot stand brengen.
 
 ## Via het tabblad Overzicht {#from-the-summary-tab}
 

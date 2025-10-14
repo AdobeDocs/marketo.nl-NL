@@ -29,4 +29,4 @@ Programma&#39;s zijn een van de belangrijkste elementen van Marketo. Je zult ze 
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend Programma&#39;s ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>[&#x200B; Begrijpend Programma&#39;s &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.

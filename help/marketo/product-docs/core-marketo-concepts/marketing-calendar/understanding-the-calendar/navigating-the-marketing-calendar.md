@@ -17,7 +17,7 @@ U kunt gemakkelijk navigeren door de marketingkalender. Zo gaat het.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u de vergunning van de Kalender van de a [ op de markt brengt ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
+>Zorg ervoor u de vergunning van de Kalender van de a [&#x200B; op de markt brengt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
 
 >[!NOTE]
 >
@@ -71,4 +71,4 @@ Geweldig! Dit zijn de basisbeginselen. U kunt de weergave ook aanpassen met behu
 
 >[!MORELIKETHIS]
 >
->[ Filtrerend de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[&#x200B; Filtrerend de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

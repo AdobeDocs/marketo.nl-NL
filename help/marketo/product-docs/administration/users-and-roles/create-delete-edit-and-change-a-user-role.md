@@ -101,7 +101,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Wilt u het e-mailadres van uw account bijwerken? [ leer hoe hier ](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Wilt u het e-mailadres van uw account bijwerken? [&#x200B; leer hoe hier &#x200B;](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Gebruikersrol wijzigen {#change-a-users-role}
 

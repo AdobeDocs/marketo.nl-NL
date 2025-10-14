@@ -15,7 +15,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Ra
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalversies_**
 
@@ -23,7 +23,7 @@ De volgende eigenschappen zullen beginnen om op **6 mei, 2022**, met een gefasee
 
 ## Native CRM-integratie {#native-crm-integration}
 
-**[Inheemse Integratie van CRM van 1&rbrace; (beperkte beschikbaarheid) ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}: Verbeter betrokkenheid met gezondheidsberoeps door activiteit tussen Veeva CRM en Marketo Engage via inheemse integratie te synchroniseren.** Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
+**[Inheemse Integratie van CRM van 1&rbrace; (beperkte beschikbaarheid) &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}: Verbeter betrokkenheid met gezondheidsberoeps door activiteit tussen Veeva CRM en Marketo Engage via inheemse integratie te synchroniseren.** Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
@@ -65,8 +65,8 @@ In de volgende generatie ervaring bieden we de weergave E-mailsjabloondetails bi
 
 E-mailverificatie voor abonnementen met de functie &quot;[!UICONTROL Login in Invite User Dialog]&quot; of met één e-mail die aan meerdere gebruikers is gekoppeld, valt samen met de release van mei. Abonnementen waaraan één e-mail is gekoppeld aan meerdere gebruikers worden ingeschakeld met e-mailverificatie. Deze gebruikers moeten het conflict oplossen en per gebruiker een unieke e-mail gebruiken. Wanneer de functie Gebruikersdialoogvenster aanmelden is ingeschakeld, moeten gebruikers die via deze functie zijn uitgenodigd een uniek e-mailadres hebben. Voor gebruikers met alleen een API die via deze functie zijn uitgenodigd, hoeft het e-mailadres niet uniek te zijn.
 
-**Verandering van het Gedrag van het Gedrag van de Omslag van het Archief**: Met deze versie, zal de capaciteit om nieuwe activa in de omslagen van het Archief tot stand te brengen niet meer van de menu&#39;s van de boomcontext beschikbaar zijn. Menuopties voor het maken van nieuwe elementen worden voor alle elementen verborgen. [ leer hier meer ](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
+**Verandering van het Gedrag van het Gedrag van de Omslag van het Archief**: Met deze versie, zal de capaciteit om nieuwe activa in de omslagen van het Archief tot stand te brengen niet meer van de menu&#39;s van de boomcontext beschikbaar zijn. Menuopties voor het maken van nieuwe elementen worden voor alle elementen verborgen. [&#x200B; leer hier meer &#x200B;](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_Webinar van de Versie van het Product_**
 
-[ Maart en Mei 2022 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[&#x200B; Maart en Mei 2022 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

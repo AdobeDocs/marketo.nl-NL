@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-mailrapporten {#email-reports}
 
-Zie de [[!UICONTROL User Settings] sectie ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) als u wilt aanpassen welk geautomatiseerd e-mailrapport de gebruiker ontvangt.
+Zie de [[!UICONTROL User Settings] sectie &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) als u wilt aanpassen welk geautomatiseerd e-mailrapport de gebruiker ontvangt.
 
 ## Web Personalization-e-mailrapporten {#web-personalization-email-reports}
 
@@ -69,4 +69,4 @@ Het overzichtsrapport verstuurt de gebruiker een e-mail (maandelijks of driemaan
 >
 >Marketo Web Personalization legt het e-mailadres van de webbezoeker vast voor elk formulier dat op de website is ingevuld. Dit wordt weergegeven op de pagina [!UICONTROL Web Personalization] [!UICONTROL People] en is de persoon die wordt gebruikt in het rapport Overzicht.
 
-Om aan te passen welk geautomatiseerd e-mailrapport de gebruiker ontvangt, zie de [ sectie van de Montages van de Gebruiker ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Om aan te passen welk geautomatiseerd e-mailrapport de gebruiker ontvangt, zie de [&#x200B; sectie van de Montages van de Gebruiker &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

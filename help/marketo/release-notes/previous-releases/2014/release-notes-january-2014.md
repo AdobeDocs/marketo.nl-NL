@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: januari 2014 {#release-notes-january}
 
-De volgende functies zijn opgenomen in de release van januari 2014. Gelieve te controleren uw [ Uitgave van Marketo ](https://www.marketo.com/pricing/) voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van januari 2014. Gelieve te controleren uw [&#x200B; Uitgave van Marketo &#x200B;](https://www.marketo.com/pricing/) voor eigenschapbeschikbaarheid.
 
 ## Forms 2.0 {#forms}
 
@@ -41,12 +41,12 @@ Gone is het aantal dagen dat HTML-code uit formulieren op Marketo-bestemmingspag
 
 ## Communicatielimieten voor e-mailprogramma {#communication-limits-for-email-program}
 
-[ vastgestelde Communicatie Limieten op een e-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) om ervoor te zorgen u niet overdeelt aan uw gegevensbestand. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
+[&#x200B; vastgestelde Communicatie Limieten op een e-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) om ervoor te zorgen u niet overdeelt aan uw gegevensbestand. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Aanvullende velden in de analyse van het programmamandschap {#additional-fields-in-program-membership-analysis}
 
-Nu kunt u uw [ metriek van de Analyse van het Lidmaatschap van het 0&rbrace; Programma toevoegen en groeperen door lood en bedrijfattributen. ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
+Nu kunt u uw [&#x200B; metriek van de Analyse van het Lidmaatschap van het 0&rbrace; Programma toevoegen en groeperen door lood en bedrijfattributen. &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

@@ -17,7 +17,7 @@ Trefwoorden zijn zinnen die mensen typen in zoekmachines. Voeg de trefwoorden to
 
 >[!NOTE]
 >
->Als u veel sleutelwoorden hebt, kunt u [ hen met een Csv- dossier ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md) invoeren.
+>Als u veel sleutelwoorden hebt, kunt u [&#x200B; hen met een Csv- dossier &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md) invoeren.
 
 1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
@@ -41,4 +41,4 @@ Goed gedaan! De nieuwe toevoegingen aan de lijst met trefwoorden worden nu weerg
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend Trefwoorden (Samenvattingsmening) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>[&#x200B; Begrijpend Trefwoorden (Samenvattingsmening) &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

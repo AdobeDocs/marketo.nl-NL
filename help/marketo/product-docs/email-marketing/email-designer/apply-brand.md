@@ -47,13 +47,13 @@ Key Benefits:
 
   Als u de _Handmatige het Stileren_ wijze kiest, zult u geen thema&#39;s kunnen toepassen tenzij u uw e-mail terugstelt.
 
-* [ de Fragmenten ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) zijn niet dwars-compatibel tussen de _Thema&#39;s van het Gebruik_ en _Handmatige het Stileren_ wijzen.
+* [&#x200B; de Fragmenten &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) zijn niet dwars-compatibel tussen de _Thema&#39;s van het Gebruik_ en _Handmatige het Stileren_ wijzen.
 
   Om een fragment in een inhoud te kunnen gebruiken waar een thema wordt toegepast, moet dit fragment op _wijze van de Thema&#39;s van het Gebruik_ worden gecreeerd.
 
-* Als het gebruiken van inhoud die in HTML wordt gecreeerd, zult u op [ verenigbaarheidswijze ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) zijn en kan geen thema&#39;s op deze inhoud toepassen.
+* Als het gebruiken van inhoud die in HTML wordt gecreeerd, zult u op [&#x200B; verenigbaarheidswijze &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) zijn en kan geen thema&#39;s op deze inhoud toepassen.
 
-  Om alle mogelijkheden van e-mail Designer, met inbegrip van thema&#39;s volledig te hefboomwerking, moet u of nieuwe inhoud op _de wijze van de Thema&#39;s van het Gebruik_ tot stand brengen, of uw [ ingevoerde inhoud van HTML ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) omzetten.
+  Om alle mogelijkheden van e-mail Designer, met inbegrip van thema&#39;s volledig te hefboomwerking, moet u of nieuwe inhoud op _de wijze van de Thema&#39;s van het Gebruik_ tot stand brengen, of uw [&#x200B; ingevoerde inhoud van HTML &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) omzetten.
 
 <!--If using a content created in Manual Styling mode or HTML, you cannot apply themes to this content. You must create a new content in Use Themes mode.
 
@@ -63,7 +63,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
 Volg onderstaande stappen om een thema te definiëren dat u in uw toekomstige e-mailinhoud kunt gebruiken.
 
-1. Om begonnen te worden, creeer een nieuw [ e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
+1. Om begonnen te worden, creeer een nieuw [&#x200B; e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
 1. Selecteer de optie **[!UICONTROL Create or edit themes]** .
 
@@ -127,7 +127,7 @@ Volg onderstaande stappen om standaardthema&#39;s of aangepaste opmaakthema&#39;
      >
      >Als u de _Handmatige het Stileren_ wijze kiest, zult u geen thema&#39;s kunnen toepassen tenzij u uw e-mail terugstelt.
      >
-     >Om a [ fragment ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) in _wijze van Thema&#39;s van het Gebruik_ te gebruiken, moet dit fragment zelf gecreeerd zijn gebruikend de _wijze van Thema&#39;s van het Gebruik_.
+     >Om a [&#x200B; fragment &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) in _wijze van Thema&#39;s van het Gebruik_ te gebruiken, moet dit fragment zelf gecreeerd zijn gebruikend de _wijze van Thema&#39;s van het Gebruik_.
 
 1. Klik eenmaal in de e-mail-Designer op de knop **[!UICONTROL Themes]** op de rechtertrack. Het standaardthema of het thema van de sjabloon wordt weergegeven. U kunt schakelen tussen de twee kleurvarianten voor dit thema.
 

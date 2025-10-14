@@ -27,7 +27,7 @@ Geef de marketingacties van uw team weer met de nieuwe presentatiemodus van de k
 
 ## [!DNL Google Adwords] Integratie {#google-adwords-integration}
 
-Koppel uw [[!DNL Google AdWords]  rekening aan Marketo ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om off-line omzettingsgegevens van Marketo aan [!DNL Google AdWords] automatisch te uploaden. Vervolgens kunt u vanuit de gebruikersinterface van [!DNL AdWords] gemakkelijk zien welke kliks hebben geresulteerd in gekwalificeerde leads, mogelijkheden en nieuwe klanten (of in welke inkomstenstadia u ook wilt bijhouden).
+Koppel uw [[!DNL Google AdWords]  rekening aan Marketo &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om off-line omzettingsgegevens van Marketo aan [!DNL Google AdWords] automatisch te uploaden. Vervolgens kunt u vanuit de gebruikersinterface van [!DNL AdWords] gemakkelijk zien welke kliks hebben geresulteerd in gekwalificeerde leads, mogelijkheden en nieuwe klanten (of in welke inkomstenstadia u ook wilt bijhouden).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -37,20 +37,20 @@ Koppel uw [[!DNL Google AdWords]  rekening aan Marketo ](/help/marketo/product-d
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
-[ Nieuwe activa REST APIs ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/assets)
+[&#x200B; Nieuwe activa REST APIs &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/assets/assets)
 
-Wij hebben nu steun voor het creëren van en het uitgeven van e-mail, malplaatjes, mijn tokens, dossiers, en fragmenten [ via API ](https://developer.adobe.com/marketo-apis/api/asset/)!
+Wij hebben nu steun voor het creëren van en het uitgeven van e-mail, malplaatjes, mijn tokens, dossiers, en fragmenten [&#x200B; via API &#x200B;](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## [!DNL Microsoft Dynamics] 2015 op locatie {#microsoft-dynamics-on-premise}
 
-Ondersteund met het recentste installatieprogramma nu [ toegankelijk door app ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Ondersteund met het recentste installatieprogramma nu [&#x200B; toegankelijk door app &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - Persoonlijke Betrokkenheid van het Web met Leidingsgegevens {#rtp-personalized-web-engagement-with-lead-data}
 
-Hefboomwerking de [ gebieden van loodgegevens ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) u in uw Marketo loodgegevensbestand hebt om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
+Hefboomwerking de [&#x200B; gebieden van loodgegevens &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) u in uw Marketo loodgegevensbestand hebt om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
 
 ## RTP - Personaliseer de Inhoud van het Web door E-mail of de Naam van de Campagne van het Programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [ Personaliseer binnenkomende inhoud die op e-mailcampagne of programma ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) naam wordt gebaseerd in de Marketing Activiteiten van Marketo wordt gebruikt.
+Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [&#x200B; Personaliseer binnenkomende inhoud die op e-mailcampagne of programma &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) naam wordt gebaseerd in de Marketing Activiteiten van Marketo wordt gebruikt.

@@ -25,11 +25,11 @@ Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aange
 >
 >* **bereidt uw Predictieve Inhoud** voor
 >
->   * [ geef Voorspelende Inhoud voor E-mail ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} uit of
->   * [ geef Voorspelende Inhoud voor Rijke Media ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} uit of
->   * [ geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>   * [&#x200B; geef Voorspelende Inhoud voor E-mail &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} uit of
+>   * [&#x200B; geef Voorspelende Inhoud voor Rijke Media &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} uit of
+>   * [&#x200B; geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [ keur een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"} goed
+>* [&#x200B; keur een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"} goed
 
 Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor veelzijdige media, kunt u afzonderlijke of meerdere inhoudsonderdelen inschakelen.
 
@@ -47,7 +47,7 @@ Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor 
 
 ## De JavaScript-code aanpassen en in uw website insluiten  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Verwijs naar de documentatie voor het Rich malplaatje van de Aanbeveling van Media [ op de plaats van de Ontwikkelaars van Marketo ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
+Verwijs naar de documentatie voor het Rich malplaatje van de Aanbeveling van Media [&#x200B; op de plaats van de Ontwikkelaars van Marketo &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
 
 Plak de JavaScript-code in uw website op de locatie waar u de sjabloon wilt weergeven.
 

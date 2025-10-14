@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn opgenomen in de release van 22 juni. Ra
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 De volgende eigenschappen zullen beginnen om op **worden vrijgegeven 24 juni, 2022**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken (tenzij anders gespecificeerd).
 
@@ -38,8 +38,8 @@ De volgende eigenschappen zullen beginnen om op **worden vrijgegeven 24 juni, 20
 
 **Nieuwe Mening van de Schakelaar van de Wisselen**: De meningen hieronder zijn nu beschikbaar in de Volgende-generatieervaring:
 
-* [ de Mening van E-maildetails ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [ de Mening van de Lijst E-mail ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [&#x200B; de Mening van E-maildetails &#x200B;](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [&#x200B; de Mening van de Lijst E-mail &#x200B;](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Experience Automation {#experience-automation}
 
@@ -53,7 +53,7 @@ De volgende eigenschappen zullen beginnen om op **worden vrijgegeven 24 juni, 20
 
 ## [!DNL Sales Insight] {#sales-insight}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **[!DNL Sales Insight]Machtiging ingesteld in[!DNL Salesforce]** : beheerders kunnen [!DNL Sales Insight] toegang bieden tot een beperkte set personen op gebruikersniveau in plaats van op profielniveau via de rechtenset Marketo App, die deel uitmaakt van het [!DNL Sales Insight] [!DNL Salesforce] -pakket.
 
@@ -61,9 +61,9 @@ De volgende eigenschappen zullen beginnen om op **worden vrijgegeven 24 juni, 20
 
 ## [!DNL Sales Connect] {#sales-connect}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
-* **[!DNL Salesforce]API-update**: met de release van [!DNL Salesforce] Summer &#39;22, worden oudere API-versies 21-30 niet meer ondersteund door [!DNL Salesforce] . Met deze Marketo Engage-versie zijn alle [!DNL Sales Connect] -aanvragen die oudere API-versies gebruiken, bijgewerkt om binnen een ondersteunde versie te blijven. Voor volledige details over [!DNL Salesforce] API ouderdomsplannen, klik [ hier ](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
+* **[!DNL Salesforce]API-update**: met de release van [!DNL Salesforce] Summer &#39;22, worden oudere API-versies 21-30 niet meer ondersteund door [!DNL Salesforce] . Met deze Marketo Engage-versie zijn alle [!DNL Sales Connect] -aanvragen die oudere API-versies gebruiken, bijgewerkt om binnen een ondersteunde versie te blijven. Voor volledige details over [!DNL Salesforce] API ouderdomsplannen, klik [&#x200B; hier &#x200B;](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}.
 
 ## API-verbeteringen {#api-enhancements}
 
@@ -77,4 +77,4 @@ De volgende eigenschappen zullen beginnen om op **worden vrijgegeven 24 juni, 20
 
 **_Webinar van de Versie van het Product_**
 
-[ Juni en Augustus 2022 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[&#x200B; Juni en Augustus 2022 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

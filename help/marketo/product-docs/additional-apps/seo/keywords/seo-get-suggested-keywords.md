@@ -31,7 +31,7 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
 
    >[!TIP]
    >
-   >Wist u u kunt [ uw sleutelwoord aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
+   >Wist u u kunt [&#x200B; uw sleutelwoord aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
 
 1. Selecteer voorgestelde trefwoorden. Klik op **[!UICONTROL Add Selected]**.
 
@@ -63,7 +63,7 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
 
    >[!TIP]
    >
-   >Wist u u kunt [ uw sleutelwoord aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
+   >Wist u u kunt [&#x200B; uw sleutelwoord aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
 
 1. Selecteer voorgestelde trefwoorden. Klik op **[!UICONTROL Add Selected]**.
 
@@ -75,5 +75,5 @@ Geweldig! Het trefwoord is toegevoegd.
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend Trefwoorden (Samenvattingsmening) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
->* [ voeg/verwijder Trefwoorden van een Lijst toe ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>* [&#x200B; Begrijpend Trefwoorden (Samenvattingsmening) &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [&#x200B; voeg/verwijder Trefwoorden van een Lijst toe &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

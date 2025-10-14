@@ -17,8 +17,8 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->* [ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
->* [ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>* [&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Stap 1: Een e-mail maken {#step-create-an-email}
 
@@ -112,7 +112,7 @@ ht-degree: 2%
 
 ## Stap 3: Vul het formulier in {#step-fill-out-the-form}
 
-1. Selecteer **Mijn Pagina** (dit werd gecreeerd in de [ Aanvoerende Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint) en klik **[!UICONTROL Preview]**.
+1. Selecteer **Mijn Pagina** (dit werd gecreeerd in de [&#x200B; Aanvoerende Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint) en klik **[!UICONTROL Preview]**.
 
    ![](assets/email-auto-response-20.png)
 

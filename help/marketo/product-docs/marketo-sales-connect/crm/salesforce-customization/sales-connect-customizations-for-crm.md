@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # [!DNL Sales Connect] Aanpassingen voor CRM {#sales-connect-customizations-for-crm}
 
-De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. De instructies [ kunnen hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf) worden gevonden.
+De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. De instructies [&#x200B; kunnen hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf) worden gevonden.
 
 ## Aanpassingen installeren in [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
@@ -45,7 +45,7 @@ Updates voor het [!DNL Salesforce] Aanpassingspakket bevatten verbeteringen en f
 >
 >**vereiste toestemmingen Admin.**
 
-1. In de [ Webtoepassing ](https://www.toutapp.com), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
+1. In de [&#x200B; Webtoepassing &#x200B;](https://www.toutapp.com), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 

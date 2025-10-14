@@ -50,7 +50,7 @@ Filter de inhoud door een of meer categorieën te selecteren. Stel vervolgens de
 
 >[!MORELIKETHIS]
 >
->* [ voeg Nieuwe Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md) toe
->* [ Inhoud van de Schrapping ](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
->* [ keur een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
->* [ keurt een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md) niet goed
+>* [&#x200B; voeg Nieuwe Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md) toe
+>* [&#x200B; Inhoud van de Schrapping &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [&#x200B; keur een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
+>* [&#x200B; keurt een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md) niet goed

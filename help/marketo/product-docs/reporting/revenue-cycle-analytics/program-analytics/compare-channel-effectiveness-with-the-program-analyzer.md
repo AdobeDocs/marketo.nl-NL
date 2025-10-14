@@ -17,7 +17,7 @@ Gebruik [!UICONTROL Program Analyzer] om kanaalkosten, lidverwerving, pijpleidin
 
 >[!PREREQUISITES]
 >
->[ Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[&#x200B; Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. Klik op **[!UICONTROL Analytics]** in **Mijn Marketo**.
 
@@ -41,7 +41,7 @@ Gebruik [!UICONTROL Program Analyzer] om kanaalkosten, lidverwerving, pijpleidin
 
    >[!NOTE]
    >
-   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [ verschil tussen FT en MT attributie ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
+   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [&#x200B; verschil tussen FT en MT attributie &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 1. Kies **[!UICONTROL Y Axis]** in de vervolgkeuzelijst **[!UICONTROL (MT) Pipeline Created]** .
 
@@ -83,5 +83,5 @@ In ons voorbeeld zien we dat het Tradeshow-kanaal zowel het duurste (het verst n
 
 >[!MORELIKETHIS]
 >
->* [ Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [ Vergelijk de Doeltreffendheid van het Programma met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [&#x200B; Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [&#x200B; Vergelijk de Doeltreffendheid van het Programma met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

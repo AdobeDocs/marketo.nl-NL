@@ -37,4 +37,4 @@ Kijk scherp! Je bent net de prachtige wereld van modellering binnengekomen.
 
 >[!MORELIKETHIS]
 >
->Leer meer over [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).
+>Leer meer over [&#x200B; Gebruikend de Staven van de Inventaris van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).

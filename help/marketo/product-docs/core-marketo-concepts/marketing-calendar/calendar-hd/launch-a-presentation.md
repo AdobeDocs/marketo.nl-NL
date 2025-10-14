@@ -22,8 +22,8 @@ Als u de weergaven en de rotatiefrequentie voor uw presentatie hebt ingesteld, i
 
 >[!PREREQUISITES]
 >
->* [ creeer een Presentatie ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
->* [ pas een Presentatie ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md) aan
+>* [&#x200B; creeer een Presentatie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [&#x200B; pas een Presentatie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md) aan
 
 >[!TIP]
 >

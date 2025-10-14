@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De sectie van de Studio van het Ontwerp is waar de herbruikbare &quot;globale activa&quot;zouden moeten verblijven. Maak de algemene elementen die uw organisatie in programma&#39;s wil gebruiken, gebruik een consistente naamgevingsconventie en deel deze in de submappen in voor eenvoudige zoekopdrachten.
 
-Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
+Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
 
 ## Landingspagina&#39;s {#landing-pages}
 

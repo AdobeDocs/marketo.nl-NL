@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Overzicht van de E-mailsjabloonkiezer {#email-template-picker-overview}
 
-Wanneer u [ een e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) creeert, hebt u verscheidene vrije malplaatjes om van te kiezen. U kunt ook uw eigen sjabloon maken en deze opslaan voor toekomstig gebruik.
+Wanneer u [&#x200B; een e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) creeert, hebt u verscheidene vrije malplaatjes om van te kiezen. U kunt ook uw eigen sjabloon maken en deze opslaan voor toekomstig gebruik.
 
 ![](assets/email-template-picker-overview-1.png)
 
@@ -21,7 +21,7 @@ Wanneer u [ een e-mail ](/help/marketo/product-docs/email-marketing/general/crea
 
 ![](assets/two-2.png)
 
-Als uw e-mail kritiek is en u het Communicatie Limieten wilt omzeilen, [ maak het operationeel ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) door de doos te controleren. **[!UICONTROL Open in editor]** is standaard geselecteerd. Dit betekent dat u meteen wilt beginnen met het bewerken van uw nieuwe e-mail. **[!UICONTROL Create]** betekent: maak!
+Als uw e-mail kritiek is en u het Communicatie Limieten wilt omzeilen, [&#x200B; maak het operationeel &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) door de doos te controleren. **[!UICONTROL Open in editor]** is standaard geselecteerd. Dit betekent dat u meteen wilt beginnen met het bewerken van uw nieuwe e-mail. **[!UICONTROL Create]** betekent: maak!
 
 ![](assets/three-2.png)
 
@@ -65,5 +65,5 @@ Mooi zo!
 
 >[!MORELIKETHIS]
 >
->* [ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
->* [ creeer een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [&#x200B; creeer een E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

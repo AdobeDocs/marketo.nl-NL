@@ -28,9 +28,9 @@ Deze methoden kunnen van invloed zijn op de Marketo-waarde en -functionaliteit i
 
 Webbezoekers kunnen hun browser zo instellen dat websites niet kunnen worden bijgehouden door &#39;&#39;Niet bijhouden&#39;&#39; (DNT) te kiezen. Hierdoor wordt het bijhouden van gegevens voor deze browser en dit apparaat voorkomen. Zie de privacyinstellingen van de browser voor meer informatie.
 
-In [!DNL Munchkin], kan een teller [ beslissen of om DNT van browser te steunen of te negeren plaatsend ](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+In [!DNL Munchkin], kan een teller [&#x200B; beslissen of om DNT van browser te steunen of te negeren plaatsend &#x200B;](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
-In Personalization van het Web, kan een teller beslissen of [ steun of het browser het plaatsen van DNT ](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md) negeren.
+In Personalization van het Web, kan een teller beslissen of [&#x200B; steun of het browser het plaatsen van DNT &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md) negeren.
 
 ## Weigeren van een specifieke website {#opt-out-from-a-specific-website}
 

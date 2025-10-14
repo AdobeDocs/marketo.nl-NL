@@ -17,7 +17,7 @@ Nadat je je advertentie hebt gemaakt, moet je deze testen.
 
 >[!PREREQUISITES]
 >
->U moet [ Opstelling de [!UICONTROL Facebook Lead Ads] Integratie ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>U moet [&#x200B; Opstelling de [!UICONTROL Facebook Lead Ads] Integratie &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Selecteer in [!UICONTROL Facebook Power Editor] een campagne, een advertentie en klik op **[!UICONTROL Edit]** .
 
@@ -45,7 +45,7 @@ Nadat je je advertentie hebt gemaakt, moet je deze testen.
    >
    >Dit is slechts een voorbeeld, dat een Learn More Call to action gebruikt. Je advertentie-eenheid Call to action kan anders zijn.
 
-1. Daar gebeurt de magie! Zodra u uw vorm hebt voorgelegd, [ bouwt een slimme lijst in Marketo ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als deel van een programma of in het loodgegevensbestand dat de **[!UICONTROL Filled Out Facebook Lead Ads Form]** filter gebruikt. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
+1. Daar gebeurt de magie! Zodra u uw vorm hebt voorgelegd, [&#x200B; bouwt een slimme lijst in Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als deel van een programma of in het loodgegevensbestand dat de **[!UICONTROL Filled Out Facebook Lead Ads Form]** filter gebruikt. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -57,4 +57,4 @@ Is dat cool of zo?
 
 >[!NOTE]
 >
->[ In-/uitschakelen [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[&#x200B; In-/uitschakelen [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

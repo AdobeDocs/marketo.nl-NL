@@ -17,7 +17,7 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
 >[!PREREQUISITES]
 >
->[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
+>[&#x200B; voeg een Kampioen E-mail/Challenger &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
 1. Selecteer **[!UICONTROL From Address]** in de vervolgkeuzelijst **[!UICONTROL Test Type]** in de testeditor voor e-mail.
 
@@ -55,4 +55,4 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
    >[!MORELIKETHIS]
    >
-   >[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[&#x200B; Champion/Challenger: Bepaal Champion Criteria &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

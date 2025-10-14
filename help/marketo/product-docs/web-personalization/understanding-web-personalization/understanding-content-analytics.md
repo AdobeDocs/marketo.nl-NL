@@ -100,5 +100,5 @@ Klik op het verwijderpictogram van de inhoud die u wilt verwijderen op de pagina
 
 >[!MORELIKETHIS]
 >
->* [ laat de Bar van de Aanbeveling van de Inhoud ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) toe
->* [ laat Voorspelende Inhoud voor Web Rich Media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe
+>* [&#x200B; laat de Bar van de Aanbeveling van de Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) toe
+>* [&#x200B; laat Voorspelende Inhoud voor Web Rich Media &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe

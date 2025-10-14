@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Anonieme activiteiten en mensen begrijpen {#understanding-anonymous-activity-and-people}
 
-De eerste keer bezoekt iemand een Marketo landende pagina (of een pagina op uw website die de [ het Volgen Code van Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} heeft), leidt Marketo tot een *anonieme activiteit* en gebruikt een browser koekje om het te volgen. Zodra het wordt geïdentificeerd, wordt het een persoon en de geschiedenis verbonden aan hun browser koekje wordt samengevoegd in.
+De eerste keer bezoekt iemand een Marketo landende pagina (of een pagina op uw website die de [&#x200B; het Volgen Code van Munchkin &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} heeft), leidt Marketo tot een *anonieme activiteit* en gebruikt een browser koekje om het te volgen. Zodra het wordt geïdentificeerd, wordt het een persoon en de geschiedenis verbonden aan hun browser koekje wordt samengevoegd in.
 
 >[!IMPORTANT]
 >
@@ -22,18 +22,18 @@ De eerste keer bezoekt iemand een Marketo landende pagina (of een pagina op uw w
 **Anonieme** activiteit wordt gecreeerd wanneer iemand:
 
 * Bezoekt de eerste keer je Marketo-landingspagina.
-* Bezoekt een pagina op uw plaats die [ het volgen van Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} heeft.
-* Klik de [ Mening als Web-pagina ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} verbinding in een e-mail van Marketo.
+* Bezoekt een pagina op uw plaats die [&#x200B; het volgen van Munchkin &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} heeft.
+* Klik de [&#x200B; Mening als Web-pagina &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} verbinding in een e-mail van Marketo.
 
 >[!NOTE]
 >
->In tegenstelling tot andere verbindingen in de e-mail van Marketo, [ Mening als Web-pagina ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} wordt niet gevolgd als e-mailklik.
+>In tegenstelling tot andere verbindingen in de e-mail van Marketo, [&#x200B; Mening als Web-pagina &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} wordt niet gevolgd als e-mailklik.
 
 Een anonieme activiteit wordt samengevoegd in een nieuwe of bestaande persoon wanneer iemand:
 
-* Klik a [ verbinding in een e-mail van Marketo ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
+* Klik a [&#x200B; verbinding in een e-mail van Marketo &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
 * Vult een Vorm van Marketo [&#128279;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} uit.
-* Gebruikt Marketo [ SOAP ](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} of [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API (voor ontwikkelaars) om een anonieme persoon met een bekend verslag te associëren.
+* Gebruikt Marketo [&#x200B; SOAP &#x200B;](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} of [&#x200B; Munchkin &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} API (voor ontwikkelaars) om een anonieme persoon met een bekend verslag te associëren.
 
 Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.
 

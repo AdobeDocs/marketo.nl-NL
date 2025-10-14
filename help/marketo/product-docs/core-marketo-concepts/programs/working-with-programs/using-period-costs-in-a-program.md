@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Periode-kosten in een programma gebruiken {#using-period-costs-in-a-program}
 
-A [ periode kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} is het bedrag u aan een programma uitgeeft. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
+A [&#x200B; periode kosten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} is het bedrag u aan een programma uitgeeft. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
 
 ## Kosten voor een periode toevoegen  {#add-a-period-cost}
 
@@ -77,5 +77,5 @@ A [ periode kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/w
 
 >[!MORELIKETHIS]
 >
->* [ Begrip de Kosten van de Periode ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
->* [ filter een Rapport van het Programma door Periode Kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>* [&#x200B; Begrip de Kosten van de Periode &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
+>* [&#x200B; filter een Rapport van het Programma door Periode Kosten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

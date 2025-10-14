@@ -15,7 +15,7 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
 >[!CAUTION]
 >
->Als u [ filters ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} of regels in uw rekening van Gmail gebruikt om e-mail automatisch te merken zoals gelezen, kan dit kwesties met antwoord het volgen veroorzaken. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
+>Als u [&#x200B; filters &#x200B;](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} of regels in uw rekening van Gmail gebruikt om e-mail automatisch te merken zoals gelezen, kan dit kwesties met antwoord het volgen veroorzaken. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
 
 1. In de Verkoop van Marketo, klik het tandwielpictogram en selecteer **Montages**.
 
@@ -57,4 +57,4 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
 >[!NOTE]
 >
->Gmail dwingt zijn eigen verzendingsgrenzen af. [ leer hier meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+>Gmail dwingt zijn eigen verzendingsgrenzen af. [&#x200B; leer hier meer &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

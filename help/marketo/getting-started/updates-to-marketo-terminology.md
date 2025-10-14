@@ -110,7 +110,7 @@ Velden die de term lead bevatten, zijn vervangen door Person of het woord Lead i
 
 >[!NOTE]
 >
->Voor een volledige lijst van beïnvloede gebiedsnamen, gelieve dit [ Artikel van de Steun ](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"} te bezoeken.
+>Voor een volledige lijst van beïnvloede gebiedsnamen, gelieve dit [&#x200B; Artikel van de Steun &#x200B;](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"} te bezoeken.
 
 ## Real-Time Personalization (RTP) is nu Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -139,11 +139,11 @@ Velden die de term lead bevatten, zijn vervangen door Person of het woord Lead i
 
 Naast de naamwijziging bestaat de toepassing nu uit vier verschillende apps:
 
-| **[Personalization van het Web ](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Heeft eigen tegel op thuisscherm |
+| **[Personalization van het Web &#x200B;](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | Heeft eigen tegel op thuisscherm |
 |---|---|
-| **[account-Gebaseerde Web Marketing ](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Toegankelijk via Web Personalization tile |
-| **[Gepersonaliseerd opnieuw rangschikken ](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Toegankelijk via Web Personalization tile |
-| **[Predictieve Inhoud ](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Heeft eigen tegel op thuisscherm |
+| **[account-Gebaseerde Web Marketing &#x200B;](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Toegankelijk via Web Personalization tile |
+| **[Gepersonaliseerd opnieuw rangschikken &#x200B;](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Toegankelijk via Web Personalization tile |
+| **[Predictieve Inhoud &#x200B;](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | Heeft eigen tegel op thuisscherm |
 
 >[!NOTE]
 >

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Overgang mensen tussen betrokkenheidsstromen {#transition-people-between-engagement-streams}
 
-Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [ een stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) toevoegt, zult u een manier voor mensen willen bepalen om zich van één stroom aan een andere te bewegen. Deze worden genoemd **overgangsregels.**
+Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [&#x200B; een stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) toevoegt, zult u een manier voor mensen willen bepalen om zich van één stroom aan een andere te bewegen. Deze worden genoemd **overgangsregels.**
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -53,4 +53,4 @@ Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [ een stroom
 
    >[!NOTE]
    >
-   >De stappen hierboven geschetst *zijn* van toepassing op mensen die [ op pauze ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) eveneens zijn.
+   >De stappen hierboven geschetst *zijn* van toepassing op mensen die [&#x200B; op pauze &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) eveneens zijn.

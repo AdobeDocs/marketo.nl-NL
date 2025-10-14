@@ -31,7 +31,7 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 >[!TIP]
 >
->Leer de details over uw [ verzendende opties ](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Leer de details over uw [&#x200B; verzendende opties &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Bellen {#call}
 

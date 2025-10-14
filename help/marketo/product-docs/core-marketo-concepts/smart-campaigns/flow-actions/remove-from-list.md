@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Verwijderen uit lijst {#remove-from-list}
 
-Aangezien u de capaciteit aan [ aan Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} hebt toe te voegen, hebt u ook een manier nodig om mensen uit lijsten te verwijderen.
+Aangezien u de capaciteit aan [&#x200B; aan Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} hebt toe te voegen, hebt u ook een manier nodig om mensen uit lijsten te verwijderen.
 
 ![](assets/remove-from-list-1.png)
 

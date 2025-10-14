@@ -39,7 +39,7 @@ Vanaf deze release zijn geldige HTML-opmerkingen nu toegestaan en niet verwijder
 
 ## RTP: de Redacteur van het Segment van de belemmering en van de Daling {#rtp-drag-and-drop-segment-editor}
 
-RTP: [ de Redacteur van het Segment van de Belemmering en van de Daling ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [&#x200B; de Redacteur van het Segment van de Belemmering en van de Daling &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Sleep de criteria naar de gesegmenteerde builder, definieer de waarde en u bent op weg naar het maken van een real-time segment.
 

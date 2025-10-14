@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Programmafocus begrijpen/inschakelen {#understand-enable-program-focus}
 
-De marketingkalender geeft je een vogelperspectief van dingen, maar biedt ook wat interacties. U kunt [ creëren ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [ uitgeven ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [ schrappen ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, en [ bevestigen ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} ingangen. Als u met items wilt communiceren, moet u zich eerst op een programma concentreren.
+De marketingkalender geeft je een vogelperspectief van dingen, maar biedt ook wat interacties. U kunt [&#x200B; creëren &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [&#x200B; uitgeven &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [&#x200B; schrappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, en [&#x200B; bevestigen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} ingangen. Als u met items wilt communiceren, moet u zich eerst op een programma concentreren.
 
 1. Ga naar de **in de handel brengende Kalender**.
 
@@ -39,7 +39,7 @@ Geweldig! Leer nu om met ingangen te communiceren.
 
 >[!MORELIKETHIS]
 >
->* [ creeer direct Ingangen in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}
->* [ geef Ingangen direct in de Kalender van de Marketing uit ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
->* [ Schrap ingangen direct in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
->* [ bevestig direct Ingangen in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [&#x200B; creeer direct Ingangen in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [&#x200B; geef Ingangen direct in de Kalender van de Marketing uit &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [&#x200B; Schrap ingangen direct in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [&#x200B; bevestig direct Ingangen in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

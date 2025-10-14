@@ -39,7 +39,7 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 
 ## Wachtwoord wijzigen bij afmelding {#change-your-password-while-signed-out}
 
-1. Navigeer aan de [ Login Connect van de Verkoop ](https://toutapp.com/login) pagina. Voer uw e-mailadres in en klik op **[!UICONTROL Login]** .
+1. Navigeer aan de [&#x200B; Login Connect van de Verkoop &#x200B;](https://toutapp.com/login) pagina. Voer uw e-mailadres in en klik op **[!UICONTROL Login]** .
 
    ![](assets/change-your-marketo-sales-password-4.png)
 

@@ -16,7 +16,7 @@ ht-degree: 2%
 
 De versies van Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
 
-De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [ kan hier ](/help/marketo/release-notes/current.md){target="_blank"} worden gevonden.
+De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [&#x200B; kan hier &#x200B;](/help/marketo/release-notes/current.md){target="_blank"} worden gevonden.
 
 ## Release van juni 2025 {#june-2025-release}
 

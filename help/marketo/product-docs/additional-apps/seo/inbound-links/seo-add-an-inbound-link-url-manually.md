@@ -29,7 +29,7 @@ U kunt binnenkomende Verbindingen manueel toevoegen. Hieronder wordt beschreven 
 
    >[!TIP]
    >
-   >Wist u u kunt [ uw binnenkomende verbinding aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"} toevoegen? Kijk eens!
+   >Wist u u kunt [&#x200B; uw binnenkomende verbinding aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"} toevoegen? Kijk eens!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

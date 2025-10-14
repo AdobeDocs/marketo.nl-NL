@@ -21,7 +21,7 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 
 >[!NOTE]
 >
->Deze eigenschap werkt onafhankelijk van op Marketo Engage IP-Gebaseerde login beperkingen (die door Admin Console IP Lijst van de Toegang worden vervangen*) en zal na de [ migratie van Adobe blijven functioneren IMS ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
+>Deze eigenschap werkt onafhankelijk van op Marketo Engage IP-Gebaseerde login beperkingen (die door Admin Console IP Lijst van de Toegang worden vervangen*) en zal na de [&#x200B; migratie van Adobe blijven functioneren IMS &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
 >&#x200B;> 
 >&#x200B;>&#42;De IP toegangslijst algemene beschikbaarheid is gepland voor Q4 2025.
 

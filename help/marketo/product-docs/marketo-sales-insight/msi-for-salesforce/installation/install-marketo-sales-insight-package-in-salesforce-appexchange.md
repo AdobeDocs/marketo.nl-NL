@@ -23,7 +23,7 @@ U moet de app [!DNL Marketo Sales Insight] installeren in uw [!DNL Salesforce] -
 >
 >[!DNL Marketo Sales Insight] is compatibel met [!DNL Salesforce] Platform (Shield) Encryption.
 
-1. Ga naar de [ pagina van AppExchange voor  [!DNL Marketo Sales Insight] ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) en klik **[!UICONTROL Get it Now]**.
+1. Ga naar de [&#x200B; pagina van AppExchange voor  [!DNL Marketo Sales Insight] &#x200B;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) en klik **[!UICONTROL Get it Now]**.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
@@ -77,6 +77,6 @@ Geweldig werk! Nu hebt u [!DNL Marketo Sales Insight] geïnstalleerd en geïmple
 
 >[!MORELIKETHIS]
 >
->* [ vorm  [!DNL Marketo Sales Insight]  in  [!DNL Salesforce]  Professionele Uitgave ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [ vorm  [!DNL Marketo Sales Insight]  in  [!DNL Salesforce]  Onderneming/Onbeperkt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [ voeg de Toegang van Insight van de Verkoop aan Profielen toe ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [&#x200B; vorm  [!DNL Marketo Sales Insight]  in  [!DNL Salesforce]  Professionele Uitgave &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [&#x200B; vorm  [!DNL Marketo Sales Insight]  in  [!DNL Salesforce]  Onderneming/Onbeperkt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [&#x200B; voeg de Toegang van Insight van de Verkoop aan Profielen toe &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

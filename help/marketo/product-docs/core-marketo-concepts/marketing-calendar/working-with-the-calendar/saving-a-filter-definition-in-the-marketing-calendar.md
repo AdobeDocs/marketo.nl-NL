@@ -17,7 +17,7 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
 >[!PREREQUISITES]
 >
->[ Filtrerend de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[&#x200B; Filtrerend de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
 
 1. Definieer het filter.
 
@@ -35,8 +35,8 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Als u wilt, kunt u [ een exemplaar ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} van de definitie naar andere gebruikers van Marketo verzenden.
+   Als u wilt, kunt u [&#x200B; een exemplaar &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} van de definitie naar andere gebruikers van Marketo verzenden.
 
    >[!NOTE]
    >
-   >[ het Delen van een Definitie van de Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[&#x200B; het Delen van een Definitie van de Filter in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

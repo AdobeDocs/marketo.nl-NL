@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 septemb
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -269,6 +269,6 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 
 * **de Gebeurtenissen van Marketo en de Verdringing van de Momenten van Marketo**: Adobe zal de Gebeurtenissen van Marketo en de Momenten van Marketo uit alle toepassingsopslag verwijderen die 2 Oktober, 2023 beginnen. Bestaande gebruikers—u kunt deze apps blijven gebruiken totdat u uw Marketo Engage-exemplaar naar Adobe Identity migreert. Deze apps bieden geen ondersteuning voor aanmelden met Adobe ID.
 
-* **Verdringing van de Schakelaar van de knevel voor de Studio Assets van het Ontwerp**: De knevelschakelaar die gebruikers toestaat om tussen de klassieke interface en de Moderne ervaring van UX voor de Studio van het Ontwerp te schakelen zal, samen met de oude versie van de ervaring van de Studio van het Ontwerp worden afgekeurd, toestaand gebruikers om aan de Moderne ervaring van UX volledig te migreren. [ leer hier meer ](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
+* **Verdringing van de Schakelaar van de knevel voor de Studio Assets van het Ontwerp**: De knevelschakelaar die gebruikers toestaat om tussen de klassieke interface en de Moderne ervaring van UX voor de Studio van het Ontwerp te schakelen zal, samen met de oude versie van de ervaring van de Studio van het Ontwerp worden afgekeurd, toestaand gebruikers om aan de Moderne ervaring van UX volledig te migreren. [&#x200B; leer hier meer &#x200B;](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}.
 
-* **_Webinar van de Versie van het Product_**: [ Juli en September 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [&#x200B; Juli en September 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

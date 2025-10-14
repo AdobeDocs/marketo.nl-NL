@@ -33,4 +33,4 @@ Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwi
 
    ![](assets/delete-a-program-channel-3.png)
 
-U kunt specifieke statussen van kanalen [ ook ](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md) schrappen.
+U kunt specifieke statussen van kanalen [&#x200B; ook &#x200B;](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md) schrappen.

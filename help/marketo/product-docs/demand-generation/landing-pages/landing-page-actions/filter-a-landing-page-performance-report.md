@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een prestatierapport voor de bestemmingspagina filteren {#filter-a-landing-page-performance-report}
 
-Focus uw [ het landen rapport van de paginaprestaties ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in [!UICONTROL Design Studio] (globale activa), of op die die zijn gearchiveerd.
+Focus uw [&#x200B; het landen rapport van de paginaprestaties &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in [!UICONTROL Design Studio] (globale activa), of op die die zijn gearchiveerd.
 
 1. Ga naar **[!UICONTROL Analytics]** (of **[!UICONTROL Marketing Activities]** ).
 

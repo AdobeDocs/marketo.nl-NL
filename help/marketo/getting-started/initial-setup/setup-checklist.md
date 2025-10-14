@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Controlelijst instellen {#setup-checklist}
 
-Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. De details kunnen in [ Stappen van de Opstelling ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} worden gevonden.
+Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. De details kunnen in [&#x200B; Stappen van de Opstelling &#x200B;](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} worden gevonden.
 
 ## Aanmelden bij Marketo en extra gebruikers maken {#log-in-to-marketo-and-create-additional-users}
 
@@ -53,4 +53,4 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 
 >[!MORELIKETHIS]
 >
->[ Stappen van de Opstelling ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[&#x200B; Stappen van de Opstelling &#x200B;](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

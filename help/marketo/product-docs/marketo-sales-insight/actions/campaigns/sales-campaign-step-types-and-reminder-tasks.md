@@ -32,7 +32,7 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 >[!TIP]
 >
->Leer de details over uw [ verzendende opties ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Leer de details over uw [&#x200B; verzendende opties &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Bellen {#call}
 
@@ -66,4 +66,4 @@ U kunt een &quot;Taak aan Inmail&quot;een contact op LinkedIn ook maken als dat 
 
 >[!MORELIKETHIS]
 >
->[ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[&#x200B; creeer een Campagne van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}

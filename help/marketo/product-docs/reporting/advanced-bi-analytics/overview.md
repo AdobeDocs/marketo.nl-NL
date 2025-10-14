@@ -60,7 +60,7 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
 ## Een rapport exporteren {#export-a-report}
 
-Wanneer u een volledig rapport exporteert, zijn de exportopties PDF en PPT. Als u uw gegevens in .XLS of .CSV nodig hebt, kunt u dit doen door individuele visualisaties uit te voeren ([ zie hieronder ](#export-a-visualization)).
+Wanneer u een volledig rapport exporteert, zijn de exportopties PDF en PPT. Als u uw gegevens in .XLS of .CSV nodig hebt, kunt u dit doen door individuele visualisaties uit te voeren ([&#x200B; zie hieronder &#x200B;](#export-a-visualization)).
 
 >[!BEGINTABS]
 
@@ -236,7 +236,7 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 
 ## Notities {#note}
 
-* Uw douanerapporten zijn herhaald van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen die in [ worden vermeld die de Nieuwe Ervaring ](#learning-the-new-experience) hieronder leren sectie.
+* Uw douanerapporten zijn herhaald van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen die in [&#x200B; worden vermeld die de Nieuwe Ervaring &#x200B;](#learning-the-new-experience) hieronder leren sectie.
 * De dashboards in de klassieke ervaring waren niet overdraagbaar en vereiste ontspanning in de nieuwe ervaring. Deze kunnen opnieuw worden gemaakt als rapporten in de nieuwe ervaring en de filters in de nieuwe ervaring genereren automatisch mogelijke waarden.
 
   >[!NOTE]
@@ -259,7 +259,7 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 
 De nieuwe visualisatieervaring wordt geleverd via de ingesloten Power BI-service.
 
-Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [ visuals van het Gebruik in Power BI ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentatie. Mogelijk ziet u niet al deze functies in Marketo Engage.
+Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [&#x200B; visuals van het Gebruik in Power BI &#x200B;](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentatie. Mogelijk ziet u niet al deze functies in Marketo Engage.
 
 ### Opvallende ervaringswijzigingen {#notable-experience-changes}
 
@@ -279,4 +279,4 @@ Hieronder vindt u wijzigingen in de nieuwe ervaring (Advanced BI Analytics) uit 
 
 >[!MORELIKETHIS]
 >
->[ Metriek en Dimensies ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
+>[&#x200B; Metriek en Dimensies &#x200B;](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}

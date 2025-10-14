@@ -18,8 +18,8 @@ Voer de onderstaande stappen uit om uw [!DNL Dynamics] verificatiemethode bij te
 >
 >Stel de toepassing in [!DNL Microsoft Dynamics] en in de actieve map (Azure AD/ADFS) in met de gewenste verificatiemethode in een van de volgende artikelen:
 >
->* [ Stap 2 van 3: De Oplossing van Marketo van de opstelling met Server aan de Verbinding van de Server ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
->* [ Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+>* [&#x200B; Stap 2 van 3: De Oplossing van Marketo van de opstelling met Server aan de Verbinding van de Server &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
+>* [&#x200B; Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
 1. Klik in Marketo op **[!UICONTROL Admin]** .
 
@@ -56,7 +56,7 @@ Voer de onderstaande stappen uit om uw [!DNL Dynamics] verificatiemethode bij te
 
    >[!NOTE]
    >
-   >Als u een ![](assets/red-x.png) ziet, heeft die stap een probleem. Zie [ Vloeiend {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics]  om het probleem (de problemen) te identificeren en te bevestigen. ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
+   >Als u een ![](assets/red-x.png) ziet, heeft die stap een probleem. Zie [&#x200B; Vloeiend {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics]  om het probleem (de problemen) te identificeren en te bevestigen. &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
 
 1. Klik op **[!UICONTROL Confirm]** om door te gaan.
 

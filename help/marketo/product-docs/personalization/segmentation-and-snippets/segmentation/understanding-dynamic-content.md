@@ -19,13 +19,13 @@ Er is veel meer aan personalisatie dan alleen &quot;Hallo `{{First_Name}}`&quot;
 
 ## Segmentatie {#segmentation}
 
-Ten eerste moet u uw mensen opsplitsen in subgroepen. Dit wordt genoemd [ segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+Ten eerste moet u uw mensen opsplitsen in subgroepen. Dit wordt genoemd [&#x200B; segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
 >[!NOTE]
 >
 >**Definitie**
 >
->De segmentatie categoriseert uw publiek in verschillende subgroepen die op de Slimme regel van de Lijst van de a [ worden gebaseerd ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Deze groepen worden segmenten genoemd.
+>De segmentatie categoriseert uw publiek in verschillende subgroepen die op de Slimme regel van de Lijst van de a [&#x200B; worden gebaseerd &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Deze groepen worden segmenten genoemd.
 
 Bijvoorbeeld, als we een segmentatie hebben die Industrie heet, zouden sommige segmenten kunnen zijn: Gezondheidszorg, Technologie, Financiële, Consumentengoederen etc.
 
@@ -39,7 +39,7 @@ Nadat u verschillende segmenten hebt gemaakt, kunt u dynamische inhoudsblokken t
 
 ## Fragmenten {#snippets}
 
-[ Fragmenten ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) zijn een nuttig hulpmiddel in Marketo. Maak het eenmaal en gebruik het op meerdere plaatsen! Als u het fragment bijwerkt, worden alle elementen (bestemmingspagina&#39;s of e-mails) die het fragment gebruiken automatisch bijgewerkt.
+[&#x200B; Fragmenten &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) zijn een nuttig hulpmiddel in Marketo. Maak het eenmaal en gebruik het op meerdere plaatsen! Als u het fragment bijwerkt, worden alle elementen (bestemmingspagina&#39;s of e-mails) die het fragment gebruiken automatisch bijgewerkt.
 
 >[!NOTE]
 >
@@ -52,5 +52,5 @@ Probeer het uit en vertel ons je succesverhaal!
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [ creeer een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [&#x200B; creeer een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)

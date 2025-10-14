@@ -38,7 +38,7 @@ Het **[!UICONTROL Pages]lusje** toont u hoe goed de individuele pagina&#39;s op 
 | [!UICONTROL Title] | Titel en URL van alle pagina&#39;s in uw domein. Verifieer uw domein. |
 | [!UICONTROL Optimization Score] | De geheime saus die wordt gebruikt om u te tonen hoe goed uw pagina voor onderzoek op een schaal van 1 tot 100 wordt geoptimaliseerd. |
 | [!UICONTROL Links] | Aantal verschillende domeinen met minstens 1 inkomende verbinding aan uw plaats. |
-| [!UICONTROL Target Keywords] | De trefwoorden waarvoor u elke pagina optimaliseert. [ dit vereist uw input ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Target Keywords] | De trefwoorden waarvoor u elke pagina optimaliseert. [&#x200B; dit vereist uw input &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## [!UICONTROL Issues] Tab {#issues-tab}
 
@@ -53,4 +53,4 @@ Het **[!UICONTROL Issues]lusje** zal identificeren welke verbeteringen u kunt ma
 | [!UICONTROL Category] | Het type emissie dat wordt gerapporteerd. |
 | [!UICONTROL Status] | Is de taak voltooid of nog open. Nadat u en uw webstramien het probleem op uw site hebben verholpen, verandert de status in opgelost (groene controle). |
 
-Fantastisch, nu u de grondbeginselen van pagina&#39;s kent, controleer uit het [ artikel van de Boor van het Detail van de Pagina neer ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) om meer coole dingen te leren u kunt doen.
+Fantastisch, nu u de grondbeginselen van pagina&#39;s kent, controleer uit het [&#x200B; artikel van de Boor van het Detail van de Pagina neer &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) om meer coole dingen te leren u kunt doen.

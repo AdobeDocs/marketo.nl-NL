@@ -43,7 +43,7 @@ Uw [!DNL Best Bets] zijn uw leads en contacten met de hoogste urgentie en de rel
 
 >[!NOTE]
 >
->Als uw beste wedden niet de beste lood en de contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [ het Schelen Regels ](/help/marketo/getting-started/quick-wins/simple-scoring.md) heeft.
+>Als uw beste wedden niet de beste lood en de contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [&#x200B; het Schelen Regels &#x200B;](/help/marketo/getting-started/quick-wins/simple-scoring.md) heeft.
 
 ### Hoe Urgentie en Relatieve Score worden berekend
 

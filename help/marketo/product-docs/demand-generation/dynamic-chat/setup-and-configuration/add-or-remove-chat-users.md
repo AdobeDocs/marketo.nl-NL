@@ -20,7 +20,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
 ## Chatgebruiker toevoegen {#add-a-chat-user}
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -78,7 +78,7 @@ Als de nieuwe Marketo-rol van de chatgebruiker nog geen [!DNL Dynamic Chat] -mac
 
 ## Een chatgebruiker verwijderen {#remove-a-chat-user}
 
-1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -108,5 +108,5 @@ Als de nieuwe Marketo-rol van de chatgebruiker nog geen [!DNL Dynamic Chat] -mac
 
 >[!MORELIKETHIS]
 >
->* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
->* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [&#x200B; de Gebruikers van Adobe Admin Console &#x200B;](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
+>* [&#x200B; beheert Individueel Gebruikers &#x200B;](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}

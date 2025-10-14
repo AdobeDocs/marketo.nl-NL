@@ -46,7 +46,7 @@ U hebt drie opties voor het importeren van een afbeelding. Laten we ze allemaal 
 
 Tekst
 
-1. Volg Stappen 1 en 2 [ van hierboven ](#upload-image-or-file).
+1. Volg Stappen 1 en 2 [&#x200B; van hierboven &#x200B;](#upload-image-or-file).
 
 1. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Import image or file]** .
 
@@ -68,7 +68,7 @@ PICC
 
 Tekst
 
-1. Volg Stappen 1 en 2 [ van hierboven ](#upload-image-or-file).
+1. Volg Stappen 1 en 2 [&#x200B; van hierboven &#x200B;](#upload-image-or-file).
 
 1. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Import image or file]** .
 
@@ -98,7 +98,7 @@ Tekst
 
 Tekst
 
-1. Volg Stappen 1 en 2 [ van hierboven ](#upload-image-or-file).
+1. Volg Stappen 1 en 2 [&#x200B; van hierboven &#x200B;](#upload-image-or-file).
 
 1. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Import image or file]** .
 

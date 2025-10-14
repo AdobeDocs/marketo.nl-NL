@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Instellen [!UICONTROL reCAPTCHA v3] {#setting-up-recaptcha-v3}
 
-ReCAPTCHA v3 is een frictioneloze ervaring die formulierverzendingen scoort op basis van hoe verdacht ze zijn zonder tekst, afbeeldingen of knopuitdagingen te gebruiken. [ leer meer ](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
+ReCAPTCHA v3 is een frictioneloze ervaring die formulierverzendingen scoort op basis van hoe verdacht ze zijn zonder tekst, afbeeldingen of knopuitdagingen te gebruiken. [&#x200B; leer meer &#x200B;](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
 ## Uw [!UICONTROL Data Center] en [!UICONTROL Munchkin ID] ophalen {#retrieve-your-data-center-and-munchkin-id}
 
@@ -34,7 +34,7 @@ Voor stap 6 in de sectie [!UICONTROL reCAPTCHA v3] Begininstellingen hieronder h
 
 De volgende stappen worden uitgevoerd buiten Marketo.
 
-1. Ga naar [ https://www.google.com/recaptcha/about/ ](https://www.google.com/recaptcha/about/){target="_blank"} en klik op v3 Admin Console.
+1. Ga naar [&#x200B; https://www.google.com/recaptcha/about/ &#x200B;](https://www.google.com/recaptcha/about/){target="_blank"} en klik op v3 Admin Console.
 
 1. Meld u aan bij of meld u aan bij een Google-account.
 
@@ -44,7 +44,7 @@ De volgende stappen worden uitgevoerd buiten Marketo.
 
 1. Kies tekst **[!UICONTROL reCAPTCHA v3]** . Marketo Engage ondersteunt momenteel geen reCAPTCHA v2.
 
-1. Voeg elk domein toe dat in het Marketo Engage-abonnement wordt gebruikt. Domeinen die hier niet zijn ingesteld, retourneren fouten op formulieren waarvoor reCAPTCHA is ingeschakeld. Herinner me om de woorden &quot;datacenter&quot;en &quot;munchkinID&quot;met de [ gegevens in uw abonnement ](#retrieve-your-data-center-and-munchkin-id) te vervangen.
+1. Voeg elk domein toe dat in het Marketo Engage-abonnement wordt gebruikt. Domeinen die hier niet zijn ingesteld, retourneren fouten op formulieren waarvoor reCAPTCHA is ingeschakeld. Herinner me om de woorden &quot;datacenter&quot;en &quot;munchkinID&quot;met de [&#x200B; gegevens in uw abonnement &#x200B;](#retrieve-your-data-center-and-munchkin-id) te vervangen.
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com
@@ -68,7 +68,7 @@ De volgende stappen worden uitgevoerd buiten Marketo.
 
 >[!IMPORTANT]
 >
->Nadat u deze stappen volgt en [ CAPTCHA in uw eerste vorm van Marketo ](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} toelaat, ben zeker om de vorm onmiddellijk te testen aangezien om het even welke soort misconfiguration in de reCAPTCHA opstelling de vorm kan breken.
+>Nadat u deze stappen volgt en [&#x200B; CAPTCHA in uw eerste vorm van Marketo &#x200B;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"} toelaat, ben zeker om de vorm onmiddellijk te testen aangezien om het even welke soort misconfiguration in de reCAPTCHA opstelling de vorm kan breken.
 
 1. Klik in Marketo op **[!UICONTROL Admin]** .
 
@@ -92,4 +92,4 @@ De volgende stappen worden uitgevoerd buiten Marketo.
 
 >[!MORELIKETHIS]
 >
->[ laat CAPTCHA in Marketo Forms toe ](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
+>[&#x200B; laat CAPTCHA in Marketo Forms toe &#x200B;](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)

@@ -21,7 +21,7 @@ Als u wilt weten waarop u zich wilt concentreren om uw SEO-inspanningen te verbe
 
 ## [!UICONTROL Keyword Rank Summary] {#keyword-rank-summary}
 
-Deze sectie toont u hoe uw plaats voor de [ sleutelwoorden wordt gerangschikt u ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) richt.
+Deze sectie toont u hoe uw plaats voor de [&#x200B; sleutelwoorden wordt gerangschikt u &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) richt.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Deze sectie toont u hoe uw plaats voor de [ sleutelwoorden wordt gerangschikt u 
 
 >[!TIP]
 >
->U kunt ook bekijken hoe a [ specifieke lijst ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden presteert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
+>U kunt ook bekijken hoe a [&#x200B; specifieke lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden presteert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
 
 >[!NOTE]
 >
@@ -65,4 +65,4 @@ Bekijk de sectie [!UICONTROL Recommendations] van dit dashboard.
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend het dashboard: De Aanbevelingen van SEO ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[&#x200B; Begrijpend het dashboard: De Aanbevelingen van SEO &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

@@ -23,5 +23,5 @@ Uw [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-s
 
 >[!MORELIKETHIS]
 >
->* [ Interesserende momenten in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [ E-mail- en campagne- en controleacties voor Marketo verzenden in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [&#x200B; Interesserende momenten in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [&#x200B; E-mail- en campagne- en controleacties voor Marketo verzenden in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

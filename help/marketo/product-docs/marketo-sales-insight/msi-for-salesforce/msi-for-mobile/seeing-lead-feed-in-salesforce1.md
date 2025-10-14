@@ -33,6 +33,6 @@ De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw le
 
 >[!MORELIKETHIS]
 >
->* [ Interesserende Momenten in  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [ verzend Marketo E-mail en Campagne en de Acties van de Controlelijst in  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [&#x200B; Interesserende Momenten in  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [&#x200B; verzend Marketo E-mail en Campagne en de Acties van de Controlelijst in  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 >* [[!DNL Best Bets]  in  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

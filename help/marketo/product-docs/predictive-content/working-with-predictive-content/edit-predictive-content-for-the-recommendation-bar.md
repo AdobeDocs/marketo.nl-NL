@@ -17,7 +17,7 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor de Bar van de Aanbevelin
 
 >[!PREREQUISITES]
 >
->De inhoud moet [ voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de Al pagina van de Inhoud worden goedgekeurd.
+>De inhoud moet [&#x200B; voor vooruitlopende inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de Al pagina van de Inhoud worden goedgekeurd.
 
 1. Klik op de pagina **[!UICONTROL Predictive Content]** op een titel om de editor te openen.
 

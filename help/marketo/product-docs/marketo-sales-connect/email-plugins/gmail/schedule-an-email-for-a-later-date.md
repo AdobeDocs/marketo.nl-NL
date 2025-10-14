@@ -27,4 +27,4 @@ Voer de volgende stappen uit om een e-mailbericht van Gmail te plannen.
 
    >[!NOTE]
    >
-   >U kunt op de geplande e-mail in uw **[!UICONTROL Scheduled]** omslag in de [ Webtoepassing ](https://toutapp.com/login) altijd controleren
+   >U kunt op de geplande e-mail in uw **[!UICONTROL Scheduled]** omslag in de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) altijd controleren

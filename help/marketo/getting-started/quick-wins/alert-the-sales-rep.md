@@ -19,7 +19,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
 >[!PREREQUISITES]
 >
->[ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>[&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Stap 1: Een e-mail met een waarschuwing maken {#step-create-an-alert-email}
 
@@ -27,7 +27,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. Selecteer **Mijn Programma** dat u in de [ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint, toen onder **[!UICONTROL New]** klikt **[!UICONTROL New Local Asset]** creeerde.
+1. Selecteer **Mijn Programma** dat u in de [&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint, toen onder **[!UICONTROL New]** klikt **[!UICONTROL New Local Asset]** creeerde.
 
    ![](assets/alert-the-sales-rep-2.png)
 
@@ -61,7 +61,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} is een speciale token voor e-mailmeldingen. Zie [ Gebruik het Send Token van Info van de Waarschuwing ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} om meer te leren.
+   >{{SP_Send_Alert_Info}} is een speciale token voor e-mailmeldingen. Zie [&#x200B; Gebruik het Send Token van Info van de Waarschuwing &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} om meer te leren.
 
 1. Klik op **[!UICONTROL Save]**.
 

@@ -35,4 +35,4 @@ U kunt om het even welk rapport van de opbrengstontdekkingsreiziger uitvoeren en
 
 >[!MORELIKETHIS]
 >
->[ Abonneren aan a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[&#x200B; Abonneren aan a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

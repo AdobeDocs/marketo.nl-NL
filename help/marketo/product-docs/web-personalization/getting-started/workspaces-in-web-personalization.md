@@ -35,4 +35,4 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 >[!NOTE]
 >
->Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hier is hoe te [ een gebruikerstoegang tot één of meerdere werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md) geven.
+>Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hier is hoe te [&#x200B; een gebruikerstoegang tot één of meerdere werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md) geven.

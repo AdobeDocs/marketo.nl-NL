@@ -57,5 +57,5 @@ Wijzigingen melden met de e-maillocatie. Als het e-mailbericht bijvoorbeeld in [
 
 >[!MORELIKETHIS]
 >
->* [ voeg Inhoud aan een Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md) toe
->* [ Begrijpend Programma&#39;s ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>* [&#x200B; voeg Inhoud aan een Stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md) toe
+>* [&#x200B; Begrijpend Programma&#39;s &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

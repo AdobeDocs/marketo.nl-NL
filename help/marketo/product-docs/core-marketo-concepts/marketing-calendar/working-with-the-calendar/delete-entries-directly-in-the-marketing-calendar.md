@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Items rechtstreeks in de marketingkalender verwijderen {#delete-entries-directly-in-the-marketing-calendar}
 
-Naast [ creërend ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} en [ het uitgeven ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} ingangen, kunt u hen direct in de Kalender van de Marketing schrappen. Zo gaat het.
+Naast [&#x200B; creërend &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} en [&#x200B; het uitgeven &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} ingangen, kunt u hen direct in de Kalender van de Marketing schrappen. Zo gaat het.
 
 1. Klik de **MU** tegel.
 
@@ -31,4 +31,4 @@ Afhankelijk van de vermelding moet u mogelijk de verwijdering bevestigen. Maar d
 
 >[!MORELIKETHIS]
 >
->[ bevestig direct Ingangen in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[&#x200B; bevestig direct Ingangen in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

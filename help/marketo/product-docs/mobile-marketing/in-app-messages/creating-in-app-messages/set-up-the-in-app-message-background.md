@@ -67,10 +67,10 @@ Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooi
    >
    >Voor tikacties voor achtergronden kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld anders afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of **[!UICONTROL None]** selecteert.
 
-   Om de baan te beëindigen, is uw laatste stap aan [ opstelling de knoop van de Verwerping ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Om de baan te beëindigen, is uw laatste stap aan [&#x200B; opstelling de knoop van de Verwerping &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >* [ verzend een Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-   >* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+   >* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [&#x200B; verzend een Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [&#x200B; kies een Lay-out voor Uw Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

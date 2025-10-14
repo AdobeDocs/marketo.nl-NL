@@ -17,7 +17,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md) toe
+>[&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md) toe
 
 ## STAP 1: Een programma maken {#step-create-a-program}
 
@@ -25,7 +25,7 @@ ht-degree: 1%
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Selecteer **het Leren** omslag die in [ vorige snelle win ](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"} wordt gecreeerd. Klik onder **[!UICONTROL New]** op **[!UICONTROL New Program]** .
+1. Selecteer **het Leren** omslag die in [&#x200B; vorige snelle win &#x200B;](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"} wordt gecreeerd. Klik onder **[!UICONTROL New]** op **[!UICONTROL New Program]** .
 
    ![](assets/landing-page-with-a-form-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Sponsorship, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [ uw eigen kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} tot stand brengen.
+   >Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Sponsorship, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [&#x200B; uw eigen kanaal &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} tot stand brengen.
 
 Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat inhoud.
 
@@ -91,7 +91,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    >[!NOTE]
    >
-   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie [ plaatsen een Vorm bedankt Pagina ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
+   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie [&#x200B; plaatsen een Vorm bedankt Pagina &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
 1. Klik op **[!UICONTROL Finish]**.
 

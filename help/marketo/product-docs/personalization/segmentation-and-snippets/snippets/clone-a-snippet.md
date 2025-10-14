@@ -31,4 +31,4 @@ Geweldig! Nu kunt u het gekloonde fragment aanpassen aan uw wensen.
 
 >[!MORELIKETHIS]
 >
->[ geeft Fragmenten met Dynamische Inhoud ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md) uit
+>[&#x200B; geeft Fragmenten met Dynamische Inhoud &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md) uit

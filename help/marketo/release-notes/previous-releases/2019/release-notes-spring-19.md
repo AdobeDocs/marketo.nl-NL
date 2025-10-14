@@ -22,9 +22,9 @@ De volgende functies zijn gepubliceerd op 15 maart 2019.
 
 ## Verbeteringen voor kernplatform {#core-platform-enhancements}
 
-* **Gewachtte:** Nieuwe programma/gebeurtenisstatus voor het wachten van een lid wanneer u hen [ op greep ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) wilt zetten tot een vacature opent. Dit is van toepassing op kanalen die zijn gekoppeld aan gebeurtenisprogramma&#39;s in Marketo Classic en zowel Gebeurtenis als Gebeurtenis met webinar programma&#39;s in [!DNL Marketo Sky] . Standaard heeft Waitlist dezelfde stapwaarde als Geregistreerd.
+* **Gewachtte:** Nieuwe programma/gebeurtenisstatus voor het wachten van een lid wanneer u hen [&#x200B; op greep &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) wilt zetten tot een vacature opent. Dit is van toepassing op kanalen die zijn gekoppeld aan gebeurtenisprogramma&#39;s in Marketo Classic en zowel Gebeurtenis als Gebeurtenis met webinar programma&#39;s in [!DNL Marketo Sky] . Standaard heeft Waitlist dezelfde stapwaarde als Geregistreerd.
 * **[Communicatie van de Douane Grens](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Beheerders kunnen douane dagelijkse of wekelijkse communicatie grenzen nu plaatsen.
-* **[Slimme Activa APIs van de Campagne ](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Verrijk uw analyses buiten Marketo met slimme de herwinning van het campagneverslag door bijgewerkte datum en identiteitskaart
+* **[Slimme Activa APIs van de Campagne &#x200B;](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Verrijk uw analyses buiten Marketo met slimme de herwinning van het campagneverslag door bijgewerkte datum en identiteitskaart
 * **HTTPS die Verbindingen voor E-mail volgen:** voor klanten die &quot;Veilige Domeinen voor het Volgen van Verbindingen hebben gekocht,&quot;merkgebonden het volgen verbindingen kunnen nu binnen uw e-mail als HTTPS worden getoond.
 * **de Updates van PowerPack van de Leverbaarheid E-mailE-mail**: Mogelijkheid om op specifieke testresultaten te vlaggen en commentaren, resultaten met belanghebbenden door een URL te delen, en spoorveranderingen te zien om de evolutie van een e-mail aangezien de belanghebbenden inhoud uitgeven.
 
@@ -47,8 +47,8 @@ De volgende functies zullen naar verwachting gedurende het eerste kalenderkwarta
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Verbeterde Controle**: Nieuw zicht in alle mensen, e-mail, en [ inhoud ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in een geval met toegevoegde capaciteit aan [ eind bestaande campagnes ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) die door andere gebruikers worden gecreeerd.
-* **[Unsubscribe Beheer](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximaliseer leverbaarheid en naleving met de capaciteit om [ e-maildomeinen ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) te blokkeren van wordt gecontacteerd. Marketo zal ook de hoofddatabase doorverwijzen naar abonnementen voordat een e-mail wordt verzonden.
+* **Verbeterde Controle**: Nieuw zicht in alle mensen, e-mail, en [&#x200B; inhoud &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) in een geval met toegevoegde capaciteit aan [&#x200B; eind bestaande campagnes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) die door andere gebruikers worden gecreeerd.
+* **[Unsubscribe Beheer](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**: Maximaliseer leverbaarheid en naleving met de capaciteit om [&#x200B; e-maildomeinen &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md) te blokkeren van wordt gecontacteerd. Marketo zal ook de hoofddatabase doorverwijzen naar abonnementen voordat een e-mail wordt verzonden.
 
 ## [!DNL Bizible] door Marketo {#bizible-by-marketo}
 

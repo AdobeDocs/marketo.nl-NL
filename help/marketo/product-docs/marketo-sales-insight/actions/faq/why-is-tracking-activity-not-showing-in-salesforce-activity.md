@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Als uw traceringsactiviteit niet wordt weergegeven, moet u ervoor zorgen dat de velden met aangepaste activiteiten die [!DNL Sales Insight Actions] verschaft, zichtbaar/bewerkbaar zijn in [!DNL Salesforce] . Als u de velden hebt geïnstalleerd, maar deze niet invult, is er mogelijk Beveiliging op veldniveau om te voorkomen dat informatie wordt gevuld. Neem contact op met uw [!DNL Salesforce] beheerder.
 
-Leer meer over [ gebied-Vlakke Veiligheid ](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5) in [!DNL Salesforce].
+Leer meer over [&#x200B; gebied-Vlakke Veiligheid &#x200B;](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5) in [!DNL Salesforce].

@@ -37,4 +37,4 @@ Personen weergeven die al door de slimme-campagnestroom zijn gelopen.
 
    >[!MORELIKETHIS]
    >
-   >[ Geblokkeerde Mensen van de Mening in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+   >[&#x200B; Geblokkeerde Mensen van de Mening in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}

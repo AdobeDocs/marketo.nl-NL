@@ -34,4 +34,4 @@ Volg de onderstaande stappen om te leren hoe u verkoopactiviteitfilters en -trig
 
 >[!NOTE]
 >
->Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [ Verklarende woordenlijst van de Activiteit van de Verkoop ](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [&#x200B; Verklarende woordenlijst van de Activiteit van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

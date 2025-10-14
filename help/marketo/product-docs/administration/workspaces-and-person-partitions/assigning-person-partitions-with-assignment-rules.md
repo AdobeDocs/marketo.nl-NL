@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ creeer een Partitie van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[&#x200B; creeer een Partitie van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak om mensen die van uw CRM aan hun respectieve verdelingen worden gecreeerd te leiden.
 

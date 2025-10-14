@@ -157,5 +157,5 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
 >[!MORELIKETHIS]
 >
->* [ Resultaten van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
->* [ Redenen van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+>* [&#x200B; Resultaten van de Vraag &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+>* [&#x200B; Redenen van de Vraag &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Opnieuw testen {#redpen-test}
 
-Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo Engage. Om een termijn te verzoeken om worden toegevoegd, gelieve [ ons een e-mail ](mailto:GRP-Marketo-articlefeedback@adobe.com) te verzenden.
+Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo Engage. Om een termijn te verzoeken om worden toegevoegd, gelieve [&#x200B; ons een e-mail &#x200B;](mailto:GRP-Marketo-articlefeedback@adobe.com) te verzenden.
 
 Als u Roodsen wilt testen met onjuiste grammatica, schrijft u een alinea die opzettelijk grammaticale fouten bevat. Voer vervolgens het gereedschap Opnieuw tekenen uit om het document te analyseren op fouten. Bekijk de correcties die Opnieuw worden voorgesteld voor elke grammaticale fout.
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mijn rapporten en groepsrapporten begrijpen {#understanding-my-reports-and-group-reports}
 
-U kunt **[!UICONTROL My Reports]** en **[!UICONTROL Group Reports]** van het [ Huis van Analytics ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) tot stand brengen.
+U kunt **[!UICONTROL My Reports]** en **[!UICONTROL Group Reports]** van het [&#x200B; Huis van Analytics &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) tot stand brengen.
 
 **[!UICONTROL My Reports]** zijn alleen zichtbaar voor u.
 
@@ -27,5 +27,5 @@ U kunt **[!UICONTROL My Reports]** en **[!UICONTROL Group Reports]** van het [ H
 
 >[!MORELIKETHIS]
 >
->* [ sparen een Rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [ kloon een Rapport aan de Rapporten van de Groep ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [&#x200B; sparen een Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [&#x200B; kloon een Rapport aan de Rapporten van de Groep &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

@@ -59,4 +59,4 @@ Uw [!DNL Zoom] -account is nu gesynchroniseerd met Marketo en bevindt zich in he
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [ een gebeurtenis met  [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) tot stand te brengen.
+>Leer hoe te om [&#x200B; een gebeurtenis met  [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) tot stand te brengen.

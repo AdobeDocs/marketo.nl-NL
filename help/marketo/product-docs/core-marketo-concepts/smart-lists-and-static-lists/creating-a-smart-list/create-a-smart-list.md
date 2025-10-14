@@ -39,4 +39,4 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
 
    >[!MORELIKETHIS]
    >
-   >[ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
+   >[&#x200B; vind en voeg Filters aan een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe

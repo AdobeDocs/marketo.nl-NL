@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 oktober
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -125,7 +125,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 </br>
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **Integratie van Insight van de Verkoop met Dynamic Chat**: Het dashboard van Inzichten omvat nu de activiteiten van Dynamic Chat in het Slimme Net samen met een wekelijkse samenvatting en detailkaarten.
 

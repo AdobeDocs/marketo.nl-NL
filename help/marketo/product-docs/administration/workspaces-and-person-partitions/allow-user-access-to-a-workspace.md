@@ -21,7 +21,7 @@ De werkruimten kunnen om het even welke reden (zoals bedrijfseenheid of geografi
 
 >[!NOTE]
 >
->Leer meer over [ werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Leer meer over [&#x200B; werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

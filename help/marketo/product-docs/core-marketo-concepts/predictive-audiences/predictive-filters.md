@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Als onderdeel van voorspellende soorten publiek biedt Marketo een groep op AI/ML gebaseerde filters in slimme lijsten binnen slimme campagnes.
 
-![ Beeld Één ](assets/predictive-filters-1.png)
+![&#x200B; Beeld Één &#x200B;](assets/predictive-filters-1.png)
 
 >[!NOTE]
 >
@@ -24,19 +24,19 @@ Als onderdeel van voorspellende soorten publiek biedt Marketo een groep op AI/ML
 
 Dit filter wordt gebruikt om uw publiek effectief te beperken. Dit helpt u richten en uitnodigen lood die een hogere waarschijnlijkheid van **hebben om** uw webinar of gebeurtenis bij te wonen. Merk op dat uw &quot;Waarschijnlijkheid aan programma&quot;uw huidig gebeurtenisprogramma zal zijn.
 
-![ Beeld Twee ](assets/predictive-filters-2.png)
+![&#x200B; Beeld Twee &#x200B;](assets/predictive-filters-2.png)
 
 ## Waarschijnlijkheid om te registreren {#likelihood-to-register}
 
 Gelijkaardig aan de _Waarschijnlijkheid om_ filter bij te wonen, gebruik dit filter om uw publiek en doellood te beperken die een hogere waarschijnlijkheid van **hebben registrerend** voor uw webinar of gebeurtenis.
 
-![ Beeld Drie ](assets/predictive-filters-3.png)
+![&#x200B; Beeld Drie &#x200B;](assets/predictive-filters-3.png)
 
 ## Waarschijnlijkheid om af te melden {#likelihood-to-unsubscribe}
 
 Hierdoor wordt het publiek gefilterd op basis van de vraag of het zeer waarschijnlijk is dat het abonnement de komende twee weken wordt opgezegd. U kunt dit gebruiken om hoog-vermoeiingslood te richten verschillend en effectiever. De drempel voor afmelden is dynamisch en wordt aangestuurd door een AI-model dat rekening houdt met verschillende kenmerken, waaronder de doorlooptijd in de database en de loodactiviteiten.
 
-![ Beeld Vier ](assets/predictive-filters-4.png)
+![&#x200B; Beeld Vier &#x200B;](assets/predictive-filters-4.png)
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Klik op **[!UICONTROL Add Constraint]** om succescriteria te kiezen voor de lede
 
 Klik op het pictogram **+** om eenvoudig meerdere programma&#39;s/slimme lijsten aan één filter toe te voegen.
 
-![ Beeld Vijf ](assets/predictive-filters-5.png)
+![&#x200B; Beeld Vijf &#x200B;](assets/predictive-filters-5.png)
 
 ## Notities {#things-to-note}
 

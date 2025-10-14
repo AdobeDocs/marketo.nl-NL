@@ -54,7 +54,7 @@ In [!DNL Web Personalizatio] kan een bezoeker overeenkomen met meerdere segmente
  </tbody>
 </table>
 
-Zie [ om segmentetiketten tot stand te brengen en te bekijken ](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+Zie [&#x200B; om segmentetiketten tot stand te brengen en te bekijken &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segmenten - Juiste Comité**
 
@@ -181,13 +181,13 @@ Schakel onder de sectie **[!UICONTROL Profile Segmentation]** het selectievakje 
 
 **Benoemde Lijst van de Rekening**
 
-Selecteer van a [ Benoemde Lijst van de Rekening ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om zeer belangrijke gerichte rekeningen te segmenteren.
+Selecteer van a [&#x200B; Benoemde Lijst van de Rekening &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om zeer belangrijke gerichte rekeningen te segmenteren.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [ Gelezen API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [&#x200B; Gelezen API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **sluit ISP** uit
 
@@ -286,11 +286,11 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 
 **de Context API van de Gebruiker**
 
-De vraag van Personalization API van het Web [ leest meer over het hier.](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+De vraag van Personalization API van het Web [&#x200B; leest meer over het hier.](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Gebruikend Jokertekens -** wanneer u om het even welke onderzoekstermijn of URL zou willen omvatten die iets binnen het bevat, d.w.z. &quot;[ google.com ](https://google.com)&quot;of &quot;product van de onderzoekstermijn&quot;, roepen wij dit een vervanging en het zou met een asterisk - deze kleine kerel &#42; - op elk eind moeten worden ingevoerd. Zo om het even wat die uit [ google.com ](https://google.com) komen zou als &#42; [ google.com ](https://google.com) moeten worden ingevoerd &#42;
+>**Gebruikend Jokertekens -** wanneer u om het even welke onderzoekstermijn of URL zou willen omvatten die iets binnen het bevat, d.w.z. &quot;[&#x200B; google.com &#x200B;](https://google.com)&quot;of &quot;product van de onderzoekstermijn&quot;, roepen wij dit een vervanging en het zou met een asterisk - deze kleine kerel &#42; - op elk eind moeten worden ingevoerd. Zo om het even wat die uit [&#x200B; google.com &#x200B;](https://google.com) komen zou als &#42; [&#x200B; google.com &#x200B;](https://google.com) moeten worden ingevoerd &#42;
 
 ## Bewerken [!UICONTROL Segments] {#edit-segments}
 
@@ -320,7 +320,7 @@ Geweldig! Nu u de sectie van Segmenten begrijpt, leren wij over campagnes.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Basis Segment van het Web ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [ creeer een Nieuwe Campagne van het Web van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [ creeer een Nieuwe Campagne van het Web van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [ creeer een Nieuwe Campagne van het Web Widget ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [&#x200B; creeer een Basis Segment van het Web &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+>* [&#x200B; creeer een Nieuwe Campagne van het Web van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [&#x200B; creeer een Nieuwe Campagne van het Web van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [&#x200B; creeer een Nieuwe Campagne van het Web Widget &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

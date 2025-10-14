@@ -30,4 +30,4 @@ Pas alle velden aan om de taak op de gewenste manier te maken.
 
 >[!TIP]
 >
->U kunt `{{lead.tokens}}` , `{{company.tokens}}` , `{{campaign.tokens}}` en `{{system.tokens}}` in de [!UICONTROL Subject] en [!UICONTROL Description] gebruiken. Zie [ Tokens voor de Stappen van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} voor meer details.
+>U kunt `{{lead.tokens}}` , `{{company.tokens}}` , `{{campaign.tokens}}` en `{{system.tokens}}` in de [!UICONTROL Subject] en [!UICONTROL Description] gebruiken. Zie [&#x200B; Tokens voor de Stappen van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} voor meer details.

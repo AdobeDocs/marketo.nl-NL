@@ -35,6 +35,6 @@ Daar heb je het. Geef de synchronisatie gewoon wat tijd om de gegevens van Sales
 
 >[!MORELIKETHIS]
 >
->* [ Synchronisatie van SFDC: De Synchronisatie van de Campagne ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
->* [ plaats de StandaardNaam van de Lood en de Waarden van het Bedrijf ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
->* [ pas de Synchronisatie van Activiteiten ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} aan
+>* [&#x200B; Synchronisatie van SFDC: De Synchronisatie van de Campagne &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [&#x200B; plaats de StandaardNaam van de Lood en de Waarden van het Bedrijf &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
+>* [&#x200B; pas de Synchronisatie van Activiteiten &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} aan

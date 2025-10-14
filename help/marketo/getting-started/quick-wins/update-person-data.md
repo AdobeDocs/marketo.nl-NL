@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
->* [ de Invoer een Lijst van Mensen ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>* [&#x200B; de Invoer een Lijst van Mensen &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens gaf. Hier is hoe te om persoongegevens bij te werken.
 
@@ -42,7 +42,7 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
    >[!TIP]
    >
-   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [ een Lijst van Mensen ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} invoeren en [ de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [&#x200B; een Lijst van Mensen &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} invoeren en [&#x200B; de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## De persoonlijke gegevens bijwerken {#update-the-person-data}
 

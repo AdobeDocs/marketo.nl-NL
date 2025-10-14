@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->We raden u aan de REST API te gebruiken. Leer meer op [ developer.adobe.com ](https://developer.adobe.com/marketo-apis/).
+>We raden u aan de REST API te gebruiken. Leer meer op [&#x200B; developer.adobe.com &#x200B;](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[ SOAP API Documentatie ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api)
+>[&#x200B; SOAP API Documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api)

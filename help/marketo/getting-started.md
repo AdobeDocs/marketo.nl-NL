@@ -19,13 +19,13 @@ ht-degree: 9%
 
 Wat is Marketo Engage, vraag je? Geweldige vraag!
 
-[ leer Marketo Engage ](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[&#x200B; leer Marketo Engage &#x200B;](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Instellen ophalen {#get-set-up}
 
 Met een beetje hulp van uw IT-team kunt u het snel doen.
 
-[ Opstelling van het Begin ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[&#x200B; Opstelling van het Begin &#x200B;](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Snel wat gewonnen {#get-some-quick-wins}
 
@@ -127,4 +127,4 @@ Voltooi deze missies om de kernfuncties van Marketo Engage te leren.
 
 ## STAP 4 Gefeliciteerd! Je bent klaar voor de Natie  {#congrats-youre-ready-for-the-nation}
 
-Controle uit de [ Marketing Natie ](https://nation.marketo.com){target="_blank"}!
+Controle uit de [&#x200B; Marketing Natie &#x200B;](https://nation.marketo.com){target="_blank"}!

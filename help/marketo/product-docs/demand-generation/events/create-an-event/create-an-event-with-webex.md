@@ -17,13 +17,13 @@ Nadat u een webinar in Webex creeert, zult u uw gebeurtenis met Marketo Engage m
 
 >[!PREREQUISITES]
 >
->* [ voeg  [!DNL Webex]  als a [!DNL LaunchPoint]  Dienst ](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md) toe
->* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
+>* [&#x200B; voeg  [!DNL Webex]  als a [!DNL LaunchPoint]  Dienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md) toe
+>* [&#x200B; creeer een Nieuw Programma van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Plaats de aangewezen [&#x200B; stroomacties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
 ## Uw webinar plannen {#schedule-your-webinar}
 
-U plant uw gebeurtenis en kiest uw aangewezen montages in [ Webex ](https://www.webex.com/){target="_blank"}. Alleen de volgende informatie kan in Marketo worden weergegeven: naam webinar, begin-/einddatum en -tijd, tijdzone en beschrijving. De extra informatie over Webex Webinars [ kan hier ](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"} worden gevonden.
+U plant uw gebeurtenis en kiest uw aangewezen montages in [&#x200B; Webex &#x200B;](https://www.webex.com/){target="_blank"}. Alleen de volgende informatie kan in Marketo worden weergegeven: naam webinar, begin-/einddatum en -tijd, tijdzone en beschrijving. De extra informatie over Webex Webinars [&#x200B; kan hier &#x200B;](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"} worden gevonden.
 
 ### Basisinformatie {#basic-information}
 

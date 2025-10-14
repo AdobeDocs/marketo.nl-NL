@@ -17,8 +17,8 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 >[!PREREQUISITES]
 >
->* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
@@ -59,4 +59,4 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 >[!MORELIKETHIS]
 >
->[ Filters van het Segment van het Gebruik in een Slimme Lijst ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
+>[&#x200B; Filters van het Segment van het Gebruik in een Slimme Lijst &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)

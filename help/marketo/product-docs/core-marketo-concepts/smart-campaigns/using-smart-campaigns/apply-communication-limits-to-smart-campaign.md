@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ laat Communicatie Limieten ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} toe
+>[&#x200B; laat Communicatie Limieten &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} toe
 
 Het is geen goed idee om iemand meerdere keren per dag of te vaak per week per e-mail te versturen. Gelukkig heeft Marketo Engage communicatielimieten om te helpen.
 
@@ -37,6 +37,6 @@ Het is geen goed idee om iemand meerdere keren per dag of te vaak per week per e
 
 >[!TIP]
 >
->Om dit het gebrek te maken, geef uw [ communicatie grenzen ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de Admin sectie uit.
+>Om dit het gebrek te maken, geef uw [&#x200B; communicatie grenzen &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de Admin sectie uit.
 
 U kunt er nu zeker van zijn dat u niet per ongeluk te veel e-mails naar uw publiek stuurt.

@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Alleen gebruikersaanmelding beperken tot SSO {#restrict-user-login-to-sso-only}
 
-Als u [ SSO ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) gebruikt en gebruikers wilt verzekeren kan niet de veiligheid omzeilen SSO, deze instructies volgen.
+Als u [&#x200B; SSO &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) gebruikt en gebruikers wilt verzekeren kan niet de veiligheid omzeilen SSO, deze instructies volgen.
 
 >[!IMPORTANT]
 >
->Dit artikel is niet op [ toe:laten 1&rbrace; Marketo abonnementen van Adobe IMS &lbrace;van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+>Dit artikel is niet op [&#x200B; toe:laten 1&rbrace; Marketo abonnementen van Adobe IMS &lbrace;van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Als u [ SSO ](/help/marketo/product-docs/administration/additional-integrations/
 
 >[!TIP]
 >
->Als u **[!UICONTROL Require SSO]** selecteert, kunt u a [ gebruikersrol ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door de **[!UICONTROL Bypass Single Sign-On]** optie te controleren terwijl vestiging de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds via het aanmeldingsscherm moeten aanmelden bij Marketo. Als zowel SSO als Universal ID zijn ingeschakeld, moet u de machtiging Enkelvoudige aanmelding omzeilen hebben ingesteld om te kunnen schakelen tussen abonnementen.
+>Als u **[!UICONTROL Require SSO]** selecteert, kunt u a [&#x200B; gebruikersrol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door de **[!UICONTROL Bypass Single Sign-On]** optie te controleren terwijl vestiging de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds via het aanmeldingsscherm moeten aanmelden bij Marketo. Als zowel SSO als Universal ID zijn ingeschakeld, moet u de machtiging Enkelvoudige aanmelding omzeilen hebben ingesteld om te kunnen schakelen tussen abonnementen.
 
 >[!CAUTION]
 >
@@ -55,6 +55,6 @@ Dat is het! Nu zullen alle gebruikers (behalve gebruikers met toestemming om eni
 
 >[!MORELIKETHIS]
 >
->* [ voeg Enige Sign-On aan een Portaal ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) toe
->* [ Gebruikend een Universele identiteitskaart voor de Login van het Abonnement ](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [&#x200B; voeg Enige Sign-On aan een Portaal &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) toe
+>* [&#x200B; Gebruikend een Universele identiteitskaart voor de Login van het Abonnement &#x200B;](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [&#x200B; het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart &#x200B;](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

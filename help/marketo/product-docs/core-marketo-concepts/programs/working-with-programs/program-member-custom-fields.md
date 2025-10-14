@@ -43,7 +43,7 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
 
    >[!NOTE]
    >
-   >Ondersteunde typen voor aangepaste velden in [!UICONTROL Program Member] zijn: boolean, date, datetime, float, integer, string, URL. [ leer meer over gebiedstypes ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Ondersteunde typen voor aangepaste velden in [!UICONTROL Program Member] zijn: boolean, date, datetime, float, integer, string, URL. [&#x200B; leer meer over gebiedstypes &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Objectbeschrijvingen {#object-descriptions}
 
@@ -56,7 +56,7 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
 
 ## Triggers en filters {#triggers-and-filters}
 
-U kunt hefboomwerking dit programma-specifieke gegevens in slimme lijsten via [ trekkers ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} en/of [ filters ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+U kunt hefboomwerking dit programma-specifieke gegevens in slimme lijsten via [&#x200B; trekkers &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} en/of [&#x200B; filters &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -64,17 +64,17 @@ U kunt hefboomwerking dit programma-specifieke gegevens in slimme lijsten via [ 
 
 * Aangepaste velden voor programmaleden zijn alleen beschikbaar in lokale middelen. Zij worden niet gesteund in de Studio van het Ontwerp omdat er geen manier is om het aan een specifiek programma te binden.
 * U kunt een formulier (of een landingspagina met een formulier) dat aangepaste velden voor programmaleden bevat, niet klonen of verplaatsen naar de Design Studio.
-* [ u kunt ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} de Gebieden van de Douane van het Lid van het Programma met de Gebieden van de Douane van het Lid van de Campagne synchroniseren.
+* [&#x200B; u kunt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} de Gebieden van de Douane van het Lid van het Programma met de Gebieden van de Douane van het Lid van de Campagne synchroniseren.
 * Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 * Wanneer u een lid van een programma verwijdert, als zij om het even welke gegevens op hun de douanegebied van het Lid van het Programma hebben, zullen de gegevens van dat gebied worden geschaad.
 * Als u de gegevens wilt weergeven, klikt u op het tabblad Leden in het programma en maakt u een aangepaste weergave met de desbetreffende velden.
-* De invoer en de uitvoer via [ lijst ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} en [ API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home){target="_blank"} worden gesteund. Exporteert het werk aan de lijsten van het Lid van het Programma slechts, niet statische lijsten.
+* De invoer en de uitvoer via [&#x200B; lijst &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} en [&#x200B; API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home){target="_blank"} worden gesteund. Exporteert het werk aan de lijsten van het Lid van het Programma slechts, niet statische lijsten.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 * Wijzigingstype is niet toegestaan in de velden Program Member Info.
 * De beperking &quot;contains&quot; (Slimme lijst bevat) wordt niet ondersteund voor aangepaste velden voor programmaleden.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
+>* [&#x200B; creeer een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
->* [ Synchronisatie van het Gebied van de Douane van het Lid van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}
+>* [&#x200B; Synchronisatie van het Gebied van de Douane van het Lid van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

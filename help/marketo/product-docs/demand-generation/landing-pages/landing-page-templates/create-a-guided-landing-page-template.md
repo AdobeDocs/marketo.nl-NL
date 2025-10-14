@@ -30,7 +30,7 @@ Elementen worden gedeclareerd door een normaal DOM-element aan de sjabloon toe t
 
 ## Tekst {#text}
 
-Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [ kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [&#x200B; kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Vereiste kenmerken:
 **klasse**: &quot;mktoText&quot;

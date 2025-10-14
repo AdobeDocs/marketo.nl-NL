@@ -59,7 +59,7 @@ Uw [!UICONTROL Account Smart List] is gemaakt! Zie hieronder voor stappen over h
 
    >[!NOTE]
    >
-   >ICP indicatorgegevens die in uw [ het Profileren van de Rekening het Profileren Rangschikken en het Tunnen ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) werden gebruikt zullen als de Attributen van de douaneRekening voor gebruik in uw Slimme Lijst van de Rekening verschijnen. Deze aangepaste kenmerkgegevens zijn gebaseerd op de datum waarop het accountprofielmodel is gemaakt/bijgewerkt.
+   >ICP indicatorgegevens die in uw [&#x200B; het Profileren van de Rekening het Profileren Rangschikken en het Tunnen &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) werden gebruikt zullen als de Attributen van de douaneRekening voor gebruik in uw Slimme Lijst van de Rekening verschijnen. Deze aangepaste kenmerkgegevens zijn gebaseerd op de datum waarop het accountprofielmodel is gemaakt/bijgewerkt.
 
 1. Kies uw filter(s) voor overeenstemmende personen. In dit voorbeeld kiezen wij _Staat Californië_ is.
 

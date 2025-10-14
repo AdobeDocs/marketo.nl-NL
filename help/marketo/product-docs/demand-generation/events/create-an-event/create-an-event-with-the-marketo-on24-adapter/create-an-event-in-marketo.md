@@ -19,10 +19,10 @@ Hieronder wordt beschreven hoe de gegevens worden uitgewisseld:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Wanneer u de gebeurtenis van Marketo creeert, uitgezochte **Webinar** als type van het Kanaal. U kunt dit kanaal bewerken in Admin en een nieuw kanaal maken. Als u een nieuw kanaal creeert, moet het van het type **Gebeurtenis met Webinar** voor de integratie zijn om te werken. Zie [ een Kanaal van het Programma ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} voor meer informatie creëren.
+Wanneer u de gebeurtenis van Marketo creeert, uitgezochte **Webinar** als type van het Kanaal. U kunt dit kanaal bewerken in Admin en een nieuw kanaal maken. Als u een nieuw kanaal creeert, moet het van het type **Gebeurtenis met Webinar** voor de integratie zijn om te werken. Zie [&#x200B; een Kanaal van het Programma &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} voor meer informatie creëren.
 
-Uw volgende stap moet [ gebeurtenismontages vormen en Marketo met uw webinar ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} synchroniseren.
+Uw volgende stap moet [&#x200B; gebeurtenismontages vormen en Marketo met uw webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} synchroniseren.
 
 >[!MORELIKETHIS]
 >
->[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

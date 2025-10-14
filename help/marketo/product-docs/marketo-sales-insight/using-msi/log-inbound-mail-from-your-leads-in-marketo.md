@@ -43,5 +43,5 @@ Log de antwoorden van je lead in om ze aan hun geschiedenis in Marketo toe te vo
 
 >[!MORELIKETHIS]
 >
->* [ verzend en spoor een E-mail met Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [ verzend en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [&#x200B; verzend en spoor een E-mail met Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [&#x200B; verzend en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

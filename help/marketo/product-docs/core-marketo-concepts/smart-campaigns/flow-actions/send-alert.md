@@ -47,4 +47,4 @@ Marketo Engage kan een e-mailbericht met persoonlijke gegevens naar iedereen stu
 
 >[!MORELIKETHIS]
 >
->[ creeer een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}
+>[&#x200B; creeer een E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}

@@ -17,7 +17,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
 
 >[!PREREQUISITES]
 >
->[ creeer een Nieuwe Lijst van de Rekening ](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[&#x200B; creeer een Nieuwe Lijst van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Ga naar **[!UICONTROL Segments]** .
 

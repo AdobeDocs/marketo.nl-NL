@@ -21,9 +21,9 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
 >[!PREREQUISITES]
 >
->U moet [ Internet hebben dat Plaatsing ](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) met [ de Actieve Diensten van de Federatie van de Folder ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 of 3.0 (ADFS) gevormd. Opmerking: het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>U moet [&#x200B; Internet hebben dat Plaatsing &#x200B;](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) met [&#x200B; de Actieve Diensten van de Federatie van de Folder &#x200B;](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 of 3.0 (ADFS) gevormd. Opmerking: het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[ Download de Oplossing van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
+>[&#x200B; Download de Oplossing van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Klik **[!UICONTROL Browse]** en selecteer de [ gedownloade oplossing ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik op **[!UICONTROL Next]**.
+1. Klik **[!UICONTROL Browse]** en selecteer de [&#x200B; gedownloade oplossing &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
@@ -93,4 +93,4 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
 >[!MORELIKETHIS]
 >
->[ Stap 2 van 3: Vorm de Gebruiker van de Synchronisatie voor Marketo (2013 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md){target="_blank"}
+>[&#x200B; Stap 2 van 3: Vorm de Gebruiker van de Synchronisatie voor Marketo (2013 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md){target="_blank"}

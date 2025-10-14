@@ -121,7 +121,7 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft [
 
 ## Upgrade {#upgrade}
 
-1. Identificeer uw [[!DNL Microsoft Outlook]  versie ](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
+1. Identificeer uw [[!DNL Microsoft Outlook]  versie &#x200B;](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 
 1. Selecteer uw versie in de bovenstaande lijst.
 
@@ -167,5 +167,5 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft [
 
 >[!MORELIKETHIS]
 >
->* [ Een e-mailbericht verzenden en bijhouden met de Marketo-invoegtoepassing voor e-mail [!UICONTROL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [ verzend en Spoor van [!UICONTROL Outlook] Gebruikend een Malplaatje van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [&#x200B; Een e-mailbericht verzenden en bijhouden met de Marketo-invoegtoepassing voor e-mail [!UICONTROL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [&#x200B; verzend en Spoor van [!UICONTROL Outlook] Gebruikend een Malplaatje van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

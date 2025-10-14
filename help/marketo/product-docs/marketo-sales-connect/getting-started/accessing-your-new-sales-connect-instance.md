@@ -34,4 +34,4 @@ De gebruiker ontvangt een e-mail met stappen om toegang te krijgen tot de Sales 
 
 >[!NOTE]
 >
->De extra gebruikers zullen **niet** door Marketo worden toegevoegd en zullen in plaats daarvan door de pagina van het Beheer van de Gebruiker van Connect van de Verkoop worden toegevoegd. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) om meer over het toevoegen van extra gebruikers te leren.
+>De extra gebruikers zullen **niet** door Marketo worden toegevoegd en zullen in plaats daarvan door de pagina van het Beheer van de Gebruiker van Connect van de Verkoop worden toegevoegd. [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) om meer over het toevoegen van extra gebruikers te leren.

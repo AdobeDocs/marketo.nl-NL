@@ -27,9 +27,9 @@ De fragmenten kunnen als dynamische inhoudsblokken op **e-mail** worden gebruikt
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Goed werk! Vereenvoudig uw werk door fragmenten voor uw dynamische inhoud te maken. Nu kunt u vooruit gaan en [ inhoud toevoegen aan uw nieuw fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Goed werk! Vereenvoudig uw werk door fragmenten voor uw dynamische inhoud te maken. Nu kunt u vooruit gaan en [&#x200B; inhoud toevoegen aan uw nieuw fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [ voeg Inhoud aan een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
->* [ Begrijpend Dynamische Inhoud ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
+>* [&#x200B; voeg Inhoud aan een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
+>* [&#x200B; Begrijpend Dynamische Inhoud &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

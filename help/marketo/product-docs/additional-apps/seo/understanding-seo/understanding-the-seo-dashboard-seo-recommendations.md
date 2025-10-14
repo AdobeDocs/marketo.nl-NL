@@ -21,7 +21,7 @@ U kunt ook nagaan hoe u het gebruik van de sectie [!UICONTROL Recommendations] k
 
 ## [!UICONTROL Top Page Optimization Issues] {#top-page-optimization-issues}
 
-Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Enkel klik op om het even welke verbindingen om de volledige [ Boorboor van het Detail van de Pagina neer te bekijken ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
+Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Enkel klik op om het even welke verbindingen om de volledige [&#x200B; Boorboor van het Detail van de Pagina neer te bekijken &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}.
 
 >[!TIP]
 >
@@ -41,4 +41,4 @@ Door betrouwbare sites aan uw inhoud te koppelen, kunt u uw paginanummer verhoge
 
 >[!MORELIKETHIS]
 >
->[ Boor van het Detail van de Pagina neer ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}
+>[&#x200B; Boor van het Detail van de Pagina neer &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target="_blank"}

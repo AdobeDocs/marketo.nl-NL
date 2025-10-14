@@ -42,8 +42,8 @@ Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. D
 
 >[!CAUTION]
 >
->Deze functie is ontworpen om tijd te besparen met de workflow voor goedkeuring van fragmenten. Er zijn echter een paar beperkingen om op de hoogte te zijn. Gelieve te zien [ dit artikel ](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} voor details.
+>Deze functie is ontworpen om tijd te besparen met de workflow voor goedkeuring van fragmenten. Er zijn echter een paar beperkingen om op de hoogte te zijn. Gelieve te zien [&#x200B; dit artikel &#x200B;](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} voor details.
 
 >[!MORELIKETHIS]
 >
->[ laat geen-Concept voor Fragmenten toe ](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
+>[&#x200B; laat geen-Concept voor Fragmenten toe &#x200B;](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}

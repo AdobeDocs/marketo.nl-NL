@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaakt? Hieronder wordt beschreven hoe u een slimme campagne kunt opzetten om dit te doen.
 
-1. [ creeer een nieuwe slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definieer de volgende slimme lijst:
+1. [&#x200B; creeer een nieuwe slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definieer de volgende slimme lijst:
 
 * Trigger: **[!UICONTROL Person is Created]**
 * Filter: **[!UICONTROL Duplicate Fields]**. Veldnaam **[!UICONTROL is][!UICONTROL Full Name]**
@@ -32,7 +32,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
 
    >[!TIP]
    >
-   >Het gebruiken van [ verzendt het teken van Info van het Alarm ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} om een verbinding aan de persoon in uw CRM te omvatten.
+   >Het gebruiken van [&#x200B; verzendt het teken van Info van het Alarm &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} om een verbinding aan de persoon in uw CRM te omvatten.
 
    >[!CAUTION]
    >
@@ -48,4 +48,4 @@ Dat is het! Deze slimme campagne wordt elke keer gestart wanneer er in Marketo e
 
 >[!MORELIKETHIS]
 >
->[ vind en voeg Dubbele Mensen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"} samen
+>[&#x200B; vind en voeg Dubbele Mensen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"} samen

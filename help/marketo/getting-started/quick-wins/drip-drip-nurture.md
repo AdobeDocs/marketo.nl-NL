@@ -19,8 +19,8 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 >[!PREREQUISITES]
 >
->* [ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
->* [ de Invoer een Lijst van Mensen ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+>* [&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>* [&#x200B; de Invoer een Lijst van Mensen &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Stap 1: Een betrokkenheidsprogramma maken {#step-create-an-engagement-program}
 
@@ -160,7 +160,7 @@ Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met
 
    >[!NOTE]
    >
-   >Leer meer over [ Programma&#39;s van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
+   >Leer meer over [&#x200B; Programma&#39;s van de Betrokkenheid &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
 ## Opdracht voltooid! {#mission-complete}
 

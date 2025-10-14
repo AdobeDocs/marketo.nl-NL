@@ -17,7 +17,7 @@ Gebruik [!UICONTROL Program Analyzer] om uw meest en minst efficiënte programma
 
 >[!PREREQUISITES]
 >
->[ Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[&#x200B; Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. Klik op **[!UICONTROL Analytics]**.
 
@@ -67,7 +67,7 @@ Gebruik [!UICONTROL Program Analyzer] om uw meest en minst efficiënte programma
 
    >[!NOTE]
    >
-   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [ verschil tussen FT en MT attributie ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
+   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [&#x200B; verschil tussen FT en MT attributie &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 1. Kijk hoe de ballonnen de grootte van uw grafiek veranderen.
 
@@ -91,5 +91,5 @@ We zien dat het [!DNL Paper Fest 12] -programma niet alleen invloed heeft op mee
 
 >[!MORELIKETHIS]
 >
->* [ Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [ vergelijk de Doeltreffendheid van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [&#x200B; Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [&#x200B; vergelijk de Doeltreffendheid van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

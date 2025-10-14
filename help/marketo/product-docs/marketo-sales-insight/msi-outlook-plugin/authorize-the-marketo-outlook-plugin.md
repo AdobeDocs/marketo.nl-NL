@@ -21,7 +21,7 @@ Als u de Marketo MSI-plug-in [!DNL Outlook] wilt gebruiken, moet u deze autorise
 
 >[!IMPORTANT]
 >
->Microsoft heeft a [ nieuwe versie van Vooruitzichten voor Vensters ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} vrijgegeven. Deze nieuwe versie steunt niet de bestaande stop van Vooruitzichten MSI. De insteekmodule MSI Outlook blijft werken voor Windows-desktops met de klassieke versie van Outlook. Meer over de nieuwe Vooruitzichten voor Vensters voor organisaties leren, [ klik hier ](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft heeft a [&#x200B; nieuwe versie van Vooruitzichten voor Vensters &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} vrijgegeven. Deze nieuwe versie steunt niet de bestaande stop van Vooruitzichten MSI. De insteekmodule MSI Outlook blijft werken voor Windows-desktops met de klassieke versie van Outlook. Meer over de nieuwe Vooruitzichten voor Vensters voor organisaties leren, [&#x200B; klik hier &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Klik op een van de knoppen voor Marketo-berichten.
 

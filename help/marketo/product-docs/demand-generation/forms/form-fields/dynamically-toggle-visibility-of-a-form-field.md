@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ voeg een Picklist van het Land aan uw Vorm toe ](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
+>* [&#x200B; voeg een Picklist van het Land aan uw Vorm toe &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
-Één werkelijk coole eigenschap van de vormen van Marketo is dat u formuliergebieden of [ gebiedsreeksen ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) dynamisch kunt verbergen/tonen.
+Één werkelijk coole eigenschap van de vormen van Marketo is dat u formuliergebieden of [&#x200B; gebiedsreeksen &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) dynamisch kunt verbergen/tonen.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Wij hebben eerder Land in een oogst-lijst gebiedstype omgezet en [ toegevoegd alle landen als waarden ](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >Wij hebben eerder Land in een oogst-lijst gebiedstype omgezet en [&#x200B; toegevoegd alle landen als waarden &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -69,6 +69,6 @@ En dat is het! Wanneer mensen dit formulier nu invullen en Verenigde Staten voor
 
 >[!IMPORTANT]
 >
->Het gedrag van het gebied van de vorm zal foutloos werken wanneer de gebiedswaarden door douanescript gebruikend [ API functies ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0 worden geplaatst/worden bijgewerkt.
+>Het gedrag van het gebied van de vorm zal foutloos werken wanneer de gebiedswaarden door douanescript gebruikend [&#x200B; API functies &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0 worden geplaatst/worden bijgewerkt.
 >
 >Voorwaardelijke velden werken mogelijk niet zoals verwacht als veldwaarden worden gewijzigd door andere externe scripts dan de Forms 2.0 JavaScript API.

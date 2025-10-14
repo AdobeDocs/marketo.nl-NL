@@ -19,8 +19,8 @@ In dit voorbeeld, voegen sommige beperkingen aan a **[Gewijzigde Waarde van Gege
 
 >[!PREREQUISITES]
 >
->* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [ gebruik de &quot;Gewijzigde&quot;Filter van de Waarde van Gegevens in een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
+>* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [&#x200B; gebruik de &quot;Gewijzigde&quot;Filter van de Waarde van Gegevens in een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

@@ -25,11 +25,11 @@ Marketo wint. Het is zeldzaam dat dit soort botsing van gegevens voorkomt.
 
 ## Kan ik een lead maken in [!DNL Salesforce] met Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Ja, gebruik de [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) stroomactie. Hierdoor wordt een lead in [!DNL Salesforce] gemaakt als de lead niet bestaat.
+Ja, gebruik de [&#x200B; Persoon van de Synchronisatie aan SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) stroomactie. Hierdoor wordt een lead in [!DNL Salesforce] gemaakt als de lead niet bestaat.
 
 ## Kan ik handmatig een persoon in Marketo synchroniseren naar een lead in [!DNL Salesforce]? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Ja, gebruik de [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} stroomactie en het zal in real time synchroniseren.
+Ja, gebruik de [&#x200B; Persoon van de Synchronisatie aan SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} stroomactie en het zal in real time synchroniseren.
 
 ## Synchroniseert elke standaard veld met Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

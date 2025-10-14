@@ -33,7 +33,7 @@ Voer de onderstaande stappen uit om [!UICONTROL My Tokens] te gebruiken om URL&#
    >
    >* Om ervoor te zorgen klikken in uw e-mail worden gevolgd, ga **niet** https:// _binnen_ de waarde van het teken in. Gebruik het buiten het token, zoals getoond in Stap 7.
    >
-   >* We raden u ten zeerste aan om de http/https niet weg te laten. Dit kon de [ Webversie ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} van uw e-mail veroorzaken om verkeerd terug te geven.
+   >* We raden u ten zeerste aan om de http/https niet weg te laten. Dit kon de [&#x200B; Webversie &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} van uw e-mail veroorzaken om verkeerd terug te geven.
 
 1. Selecteer de e-mail in uw programma.
 

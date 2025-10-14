@@ -35,5 +35,5 @@ Opdracht voltooid! Zorg ervoor dat u het uittest.
 
 >[!MORELIKETHIS]
 >
->* [ omvat een Gebeurtenis van de Kalender (.ics) in e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->* [ omvat een Dossier van de Gebeurtenis ICS van de Kalender in een Openende Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+>* [&#x200B; omvat een Gebeurtenis van de Kalender (.ics) in e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [&#x200B; omvat een Dossier van de Gebeurtenis ICS van de Kalender in een Openende Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Een formulierveld vereist maken {#make-a-form-field-required}
 
-Wanneer [ toevoegend gebieden aan een vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, kunt u enkelen van hen willen maken die worden vereist aan de persoon die hen invult. Zo gaat het.
+Wanneer [&#x200B; toevoegend gebieden aan een vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, kunt u enkelen van hen willen maken die worden vereist aan de persoon die hen invult. Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -41,8 +41,8 @@ Wanneer [ toevoegend gebieden aan een vorm ](/help/marketo/product-docs/demand-g
 
 >[!NOTE]
 >
->Vergeet niet [ om het even welke het Bestaan Pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} goed te keuren deze vorm leeft op voor de veranderingen om levend te gaan.
+>Vergeet niet [&#x200B; om het even welke het Bestaan Pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} goed te keuren deze vorm leeft op voor de veranderingen om levend te gaan.
 
 >[!MORELIKETHIS]
 >
->[ opnieuw orde de gebieden u aan uw vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"} toevoegde
+>[&#x200B; opnieuw orde de gebieden u aan uw vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"} toevoegde

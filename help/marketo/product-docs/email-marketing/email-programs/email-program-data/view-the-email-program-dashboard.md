@@ -17,7 +17,7 @@ Kijk hoe uw e-mailprogramma (met of zonder een A/B-test) met dit dashboard prest
 
 >[!CAUTION]
 >
->Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [ het ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
+>Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [&#x200B; het &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
 
 ## Selecteer uw e-mailprogramma {#select-your-email-program}
 
@@ -51,5 +51,5 @@ Alternatief, als u geen A/B test _toevoegde of_ als de test over is, zou het vol
 
 >[!MORELIKETHIS]
 >
->* [ gebruik het Dashboard van het E-mailprogramma - de Mening van de Test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [ Gebruik het Dashboard van het E-mailProgramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [&#x200B; gebruik het Dashboard van het E-mailprogramma - de Mening van de Test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [&#x200B; Gebruik het Dashboard van het E-mailProgramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

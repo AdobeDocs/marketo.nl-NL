@@ -38,7 +38,7 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
    | Term | Definitie |
    |---|---|
    | [!UICONTROL Domain name for landing pages] | Dit is uw NAAM. Een CNAME is het eerste deel van URL u mensen voor het landen van pagina&#39;s geeft. In `https://go.yourCompany.com` is het woord &quot;go&quot; bijvoorbeeld de CNAME. Je kan meerdere, maar de meeste mensen gebruiken gewoon het ene. |
-   | [!UICONTROL Fallback page] | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Leer meer over [ reservepagina&#39;s ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Fallback page] | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Leer meer over [&#x200B; reservepagina&#39;s &#x200B;](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Homepage] | Voer de URL van uw bedrijfssite in. |
 
 1. Schakel het selectievakje **[!UICONTROL Form Prefill]** in om formulieren de mogelijkheid te bieden om informatie voor bekende (gekoelde) personen vooraf in te vullen. Schakel de optie uit om te blokkeren.

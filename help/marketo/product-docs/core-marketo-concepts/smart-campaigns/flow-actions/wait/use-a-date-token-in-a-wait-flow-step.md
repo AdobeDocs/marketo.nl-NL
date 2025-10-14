@@ -62,5 +62,5 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 
    >[!MORELIKETHIS]
    >
-   >* [ Gebruik een Duur in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
-   >* [ gebruik een Specifieke Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
+   >* [&#x200B; Gebruik een Duur in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [&#x200B; gebruik een Specifieke Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

@@ -49,4 +49,4 @@ Klik op het Marketo-pictogram om het deelvenster te openen.
 
 >[!MORELIKETHIS]
 >
->[ Gebruikend de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[&#x200B; Gebruikend de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

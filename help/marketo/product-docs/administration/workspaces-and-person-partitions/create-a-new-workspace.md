@@ -26,7 +26,7 @@ Zo maakt u een nieuwe werkruimte.
 
 >[!NOTE]
 >
->Begrijp eerst met [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Begrijp eerst met [&#x200B; Begrijpend Werkruimten en de Verdelingen van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 >[!TIP]
 >
@@ -44,7 +44,7 @@ Zo maakt u een nieuwe werkruimte.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Voer een **[!UICONTROL Name]** in en selecteer de **[!UICONTROL Person Partitions]** die u wilt gebruiken. Kies een **[!UICONTROL Primary Person Partition]** . Zorg ervoor om [ persoonlijke verdelingen ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} tot stand te brengen als u niet reeds hebt.
+1. Voer een **[!UICONTROL Name]** in en selecteer de **[!UICONTROL Person Partitions]** die u wilt gebruiken. Kies een **[!UICONTROL Primary Person Partition]** . Zorg ervoor om [&#x200B; persoonlijke verdelingen &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} tot stand te brengen als u niet reeds hebt.
 
    ![](assets/create-a-new-workspace-4.png)
 

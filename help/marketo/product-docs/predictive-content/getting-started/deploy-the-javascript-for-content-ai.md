@@ -31,7 +31,7 @@ Als u voorspellende inhoud wilt gebruiken, moet u de RTP-tag (Web Personalizatio
 
    >[!NOTE]
    >
-   >Kopieer de Personalization JavaScript-tag Web en plak deze als het eerste script in de koptekst van uw pagina&#39;s, tussen de `<head> </head>` -tags. Zie meer gedetailleerde [ implementatieinstructies hier ](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+   >Kopieer de Personalization JavaScript-tag Web en plak deze als het eerste script in de koptekst van uw pagina&#39;s, tussen de `<head> </head>` -tags. Zie meer gedetailleerde [&#x200B; implementatieinstructies hier &#x200B;](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 1. Controleer of de tag op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen. Controleer dit door met de rechtermuisknop op de pagina van uw website te klikken. Ga naar **[!UICONTROL View Page Source]** in een webbrowser. Zoeken: &quot;RTP&quot;.
 

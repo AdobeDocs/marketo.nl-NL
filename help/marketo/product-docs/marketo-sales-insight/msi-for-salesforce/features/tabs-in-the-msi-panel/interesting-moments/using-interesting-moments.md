@@ -29,7 +29,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment?  {#how-do-i-create-an-interesting-moment}
 
-1. Kies a [ slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één uw verkoopteam interessant zou vinden als teweeggebracht.
+1. Kies a [&#x200B; slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één uw verkoopteam interessant zou vinden als teweeggebracht.
 
    ![](assets/using-interesting-moments-1.png)
 
@@ -51,7 +51,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe kan dit nog interessanter worden?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Voeg ze toe in het beschrijvingsveld om uw verkoopteam meer specifieke informatie te geven, zoals de onderwerpregel van de e-mail die de lead heeft geopend of de persoon die de lead heeft verzonden. Controle uit welke tekenen voor gebruik in [ Tokens voor het Interesten van Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) verklarende woordenlijst beschikbaar zijn.
+Tokens! Voeg ze toe in het beschrijvingsveld om uw verkoopteam meer specifieke informatie te geven, zoals de onderwerpregel van de e-mail die de lead heeft geopend of de persoon die de lead heeft verzonden. Controle uit welke tekenen voor gebruik in [&#x200B; Tokens voor het Interesten van Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) verklarende woordenlijst beschikbaar zijn.
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Tokens! Voeg ze toe in het beschrijvingsveld om uw verkoopteam meer specifieke i
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-De interessante momenten zullen in het activiteitenlogboek van het a [ lood ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) worden getoond.
+De interessante momenten zullen in het activiteitenlogboek van het a [&#x200B; lood &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) worden getoond.
 
 ![](assets/using-interesting-moments-5.png)
 
 ## Hoe ziet een interessant moment eruit in [!DNL Salesforce] ?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Zodra u [ app  [!DNL Marketo Sales Insight]  hebt geïnstalleerd ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), zullen de interessante momenten op de lood, het contact, de rekening, of opportuniteitspagina&#39;s tonen. Ze worden ook weergegeven in het dashboard van [!DNL Sales Insight] in de lijst met leads, [!DNL Best Bets] en het controleoverzicht.
+Zodra u [&#x200B; app  [!DNL Marketo Sales Insight]  hebt geïnstalleerd &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), zullen de interessante momenten op de lood, het contact, de rekening, of opportuniteitspagina&#39;s tonen. Ze worden ook weergegeven in het dashboard van [!DNL Sales Insight] in de lijst met leads, [!DNL Best Bets] en het controleoverzicht.
 
 ![](assets/using-interesting-moments-6.png)
 

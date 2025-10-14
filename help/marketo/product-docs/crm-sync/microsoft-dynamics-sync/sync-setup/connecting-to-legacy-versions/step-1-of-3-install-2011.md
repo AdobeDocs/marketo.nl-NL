@@ -21,9 +21,9 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
 >[!PREREQUISITES]
 >
->U moet [ Internet hebben dat Plaatsing ](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) met [ de Actieve Diensten van de Federatie van de Folder ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 of 3.0 (ADFS) gevormd. **Nota**: Het IFD document downloadt automatisch wanneer u de verbinding klikt.
+>U moet [&#x200B; Internet hebben dat Plaatsing &#x200B;](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) met [&#x200B; de Actieve Diensten van de Federatie van de Folder &#x200B;](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 of 3.0 (ADFS) gevormd. **Nota**: Het IFD document downloadt automatisch wanneer u de verbinding klikt.
 >
->[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
+>[&#x200B; Download de Oplossing van het Beheer van de Lood van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
 
 >[!NOTE]
 >
@@ -93,4 +93,4 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
 >[!MORELIKETHIS]
 >
->[ Stap 2 van 3: De Gebruiker van de Synchronisatie van Marketo van de opstelling in  [!DNL Dynamics]  (2011 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[&#x200B; Stap 2 van 3: De Gebruiker van de Synchronisatie van Marketo van de opstelling in  [!DNL Dynamics]  (2011 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

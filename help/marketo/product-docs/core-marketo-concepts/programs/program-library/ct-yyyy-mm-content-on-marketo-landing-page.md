@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Dit voorbeeld is ontworpen als een inhoudsprogramma dat gebruikmaakt van een Marketo Engage Landing Page met een Marketo Engage-formulier dat gebruikmaakt van een standaard Marketo Engage-programma. Het formulier moet toegang krijgen tot de inhoud/het aanbod. De koppeling naar het aanbod kan worden weergegeven op de pagina Hartelijk dank, in een e-mail met dank of in beide.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

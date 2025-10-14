@@ -17,7 +17,7 @@ Hieronder wordt beschreven hoe u Account Insight instelt.
 
 >[!PREREQUISITES]
 >
->De de rekeningsscore van TAM [ moet ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) eerst worden gevormd.
+>De de rekeningsscore van TAM [&#x200B; moet &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) eerst worden gevormd.
 
 1. Klik op **[!UICONTROL Admin]**.
 
@@ -37,7 +37,7 @@ Hieronder wordt beschreven hoe u Account Insight instelt.
 
    >[!NOTE]
    >
-   >Als de [ montages van de Score van de Rekening ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) op om het even welk punt worden bijgewerkt, moet de configuratie onder Verkoop door Admin worden bijgewerkt om ervoor te zorgen de scores nauwkeurig op de voorkeur van de gebruiker wijzen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
+   >Als de [&#x200B; montages van de Score van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) op om het even welk punt worden bijgewerkt, moet de configuratie onder Verkoop door Admin worden bijgewerkt om ervoor te zorgen de scores nauwkeurig op de voorkeur van de gebruiker wijzen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
 
 1. Klik op **[!UICONTROL Save]**.
 

@@ -21,11 +21,11 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
 ## Uw gegevens voorbereiden {#prepare-your-data}
 
-1. [ creeer een douanegebied ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) genoemd &quot;Voorkeur Taal.&quot; (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
+1. [&#x200B; creeer een douanegebied &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) genoemd &quot;Voorkeur Taal.&quot; (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
 
    >[!TIP]
    >
-   >In de toekomst, gebruik dit gebied wanneer u [ een vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) creeert om taalvoorkeur te vangen.
+   >In de toekomst, gebruik dit gebied wanneer u [&#x200B; een vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) creeert om taalvoorkeur te vangen.
 
 ## Segmentatie maken {#create-segmentation}
 
@@ -163,4 +163,4 @@ Als u wilt dat de mensen naar een pagina komen die hun abonnement opzegt in de t
 
    >[!NOTE]
    >
-   >Leer meer over [ dynamische inhoud ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en al koel materiaal u kunt doen.
+   >Leer meer over [&#x200B; dynamische inhoud &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en al koel materiaal u kunt doen.

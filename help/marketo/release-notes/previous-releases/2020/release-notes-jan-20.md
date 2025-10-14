@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van 20 januari. Raadpleeg de M
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster ( ![ worden aangegeven (ster) ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster ( ![&#x200B; worden aangegeven (ster) &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalversies_**
 
@@ -25,7 +25,7 @@ De volgende eigenschappen zullen op **Januari 17, 2020** worden vrijgegeven.
 
 ## Core Marketo Engage Adobe-toepassing {#core-marketo-engage-adobe-application}
 
-* [ de Kiezer van de Activa van Adobe Experience Manager ](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Heb snel toegang tot activa die zich met uw merk met de activa van AEM direct beschikbaar in Marketo Engage richten. Opmerking: hoewel deze functie beschikbaar is in onze Marketo Sky- en klassieke ervaringen, zijn de beheermogelijkheden te vinden in onze klassieke ervaring. U moet een klant van AEM Assets zijn en versie 6.5 of hoger hebben.
+* [&#x200B; de Kiezer van de Activa van Adobe Experience Manager &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Heb snel toegang tot activa die zich met uw merk met de activa van AEM direct beschikbaar in Marketo Engage richten. Opmerking: hoewel deze functie beschikbaar is in onze Marketo Sky- en klassieke ervaringen, zijn de beheermogelijkheden te vinden in onze klassieke ervaring. U moet een klant van AEM Assets zijn en versie 6.5 of hoger hebben.
 
 >[!NOTE]
 >
@@ -38,9 +38,9 @@ De volgende eigenschappen zullen op **Januari 17, 2020** worden vrijgegeven.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
-* [ Nieuwe Ontdekking van de Rekening (BETA) ](https://docs.marketo.com/x/WQA6Ag) ![ (ster) ](assets/yellow-star.png): Het Profileren van de Rekening van het gebruik om net-nieuwe doelrekeningen voor uw strategie te ontdekken ABM die op uw op AI-Aangedreven ideaal model van het klantenprofiel wordt gebaseerd. Aanbevolen nieuwe accounts weergeven, selecteren en importeren, samen met hun op AI gebaseerde indicatoren voor geschiktheid en intent-gegevens, die nog niet bestaan in de Marketo Engage-database voor leads en accounts voor ABM-doelframes. Direct beschikbaar voor in aanmerking komende klanten die een accountprofiel opstellen.
+* [&#x200B; Nieuwe Ontdekking van de Rekening (BETA) &#x200B;](https://docs.marketo.com/x/WQA6Ag) ![&#x200B; (ster) &#x200B;](assets/yellow-star.png): Het Profileren van de Rekening van het gebruik om net-nieuwe doelrekeningen voor uw strategie te ontdekken ABM die op uw op AI-Aangedreven ideaal model van het klantenprofiel wordt gebaseerd. Aanbevolen nieuwe accounts weergeven, selecteren en importeren, samen met hun op AI gebaseerde indicatoren voor geschiktheid en intent-gegevens, die nog niet bestaan in de Marketo Engage-database voor leads en accounts voor ABM-doelframes. Direct beschikbaar voor in aanmerking komende klanten die een accountprofiel opstellen.
 
 <br> 
 
@@ -50,14 +50,14 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Bizible] {#bizible}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **Marketo Engage leidt Integratie**: Breng Verkoop en Marketing samen met een verenigde mening van lood over [!DNL Bizible] en Marketo Engage. Met deze update kan Marketo Engage nu worden gebruikt als een extra bron voor lead-gegevens. U hoeft dus niet meer te wachten tot leads worden gesynchroniseerd met de CRM om lood te genereren.
 * **ontdekt Verbeteringen**: Krijg meer van onze Discover Boards in [!DNL Bizible] met verhogingen die van klant worden ontwikkeld terugkoppelen, als de capaciteit om neer aan transactieregisters van tegels en attributen te boren, essentiële verslagtellingen en overeenkomstige kosten-per metriek toe te voegen, en dashboardfilters voor veelvoudige dashboards toe te voegen/te verwijderen. U wordt ook rechtstreeks naar het standaarddashboard geleid bij het aanmelden.
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [ Beeld het Uitgeven van het Beeld ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=nl-NL#design-studio): De toegang Adobe het uitgeven mogelijkheden zonder het moeten Marketo Engage verlaten. Met deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in [!UICONTROL Design Studio] tekst toevoegen aan afbeeldingen.
+* [&#x200B; Beeld het Uitgeven van het Beeld &#x200B;](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=nl-NL#design-studio): De toegang Adobe het uitgeven mogelijkheden zonder het moeten Marketo Engage verlaten. Met deze nieuwe functionaliteit kunt u eenvoudig dingen als verbeteren, uitsnijden en rechtstreeks in [!UICONTROL Design Studio] tekst toevoegen aan afbeeldingen.
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -72,8 +72,8 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 >[!NOTE]
 >
->* **TLS 1.0 &amp; 1.1 Verdringing**: In een voortdurende inspanning om met de versiestructuur van Adobe te integreren, verschuiven wij de veroudering van TLS 1.0 en TLS 1.1 naar 13 Januari, 2020. De meer gedetailleerde informatie kan [ hier ](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq) worden gevonden.
+>* **TLS 1.0 &amp; 1.1 Verdringing**: In een voortdurende inspanning om met de versiestructuur van Adobe te integreren, verschuiven wij de veroudering van TLS 1.0 en TLS 1.1 naar 13 Januari, 2020. De meer gedetailleerde informatie kan [&#x200B; hier &#x200B;](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq) worden gevonden.
 >
->* **ITP 2.1+ [!DNL Munchkin] Update**: wegens veranderingen in het koekjesbeleid voor [!DNL Safari], [!DNL Munchkin] de capaciteit om gebruikers over zittingen op het zelfde domein te volgen zal door ITP aan of 1 of 7 dagen worden beperkt die op browser en browser versie worden gebaseerd door de bezoeker wordt gebruikt. Om dit te verklaren, voeren wij een nieuwe Webdienst uit om de koekjes van Munchkin toe te laten om met een reeks-Koekjeskopbal via de reactie van HTTP worden geplaatst. Meer informatie over hoe te om deze nieuwe dienst uit te voeren kan [ hier ](https://nation.marketo.com/docs/DOC-7351) worden gevonden.
+>* **ITP 2.1+ [!DNL Munchkin] Update**: wegens veranderingen in het koekjesbeleid voor [!DNL Safari], [!DNL Munchkin] de capaciteit om gebruikers over zittingen op het zelfde domein te volgen zal door ITP aan of 1 of 7 dagen worden beperkt die op browser en browser versie worden gebaseerd door de bezoeker wordt gebruikt. Om dit te verklaren, voeren wij een nieuwe Webdienst uit om de koekjes van Munchkin toe te laten om met een reeks-Koekjeskopbal via de reactie van HTTP worden geplaatst. Meer informatie over hoe te om deze nieuwe dienst uit te voeren kan [&#x200B; hier &#x200B;](https://nation.marketo.com/docs/DOC-7351) worden gevonden.
 
-**_Webinar van de Versie van het Product_** [ sluit zich aan bij ons ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11 :00AM PT/2 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.
+**_Webinar van de Versie van het Product_** [&#x200B; sluit zich aan bij ons &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11 :00AM PT/2 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.

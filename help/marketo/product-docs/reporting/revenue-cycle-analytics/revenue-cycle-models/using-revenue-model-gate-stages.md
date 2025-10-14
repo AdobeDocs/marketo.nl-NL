@@ -25,7 +25,7 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Selecteer een bestaand model, of [ creeer nieuwe ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Selecteer een bestaand model, of [&#x200B; creeer nieuwe &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
@@ -83,6 +83,6 @@ Gefeliciteerd! Nu begrijp je de prachtige wereld van Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
->* [ Gebruikend de Stages van SLA van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
->* [ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+>* [&#x200B; Gebruikend de Staven van de Inventaris van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [&#x200B; Gebruikend de Stages van SLA van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 5D {#template-5d}
 
-Klik met de rechtermuisknop om [ Sjabloon 5D te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=nl-NL)
+Klik met de rechtermuisknop om [&#x200B; Sjabloon 5D te downloaden &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=nl-NL)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 5D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=nl-NL)
+[&#x200B; Malplaatje 5D.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html?lang=nl-NL)

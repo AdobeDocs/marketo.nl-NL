@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # Overgenomen instantie: beheerderscontrolelijst voor sectie {#inherited-instance-admin-section-checklist}
 
-De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook [ de controlelijsten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) downloaden en uw vooruitgang volgen.
+De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook [&#x200B; de controlelijsten &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) downloaden en uw vooruitgang volgen.
 
 >[!TIP]
 >
->Als u een nieuwe (er) gebruiker van Marketo Engage bent en niet vertrouwd met veel van de termijnen, gelieve de [ Verklarende woordenlijst van Marketo Engage ](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"} te controleren.
+>Als u een nieuwe (er) gebruiker van Marketo Engage bent en niet vertrouwd met veel van de termijnen, gelieve de [&#x200B; Verklarende woordenlijst van Marketo Engage &#x200B;](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"} te controleren.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
 >[!NOTE]
 >
->Dit is slechts van toepassing op de abonnementen van Marketo Engage die aan [ het Systeem van Identity Management van Adobe (IMS) ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} worden bezet. Als uw abonnement Adobe IMS nog niet heeft betreden, ga met de [ erfenisgebruikersrollen en toestemmingenervaring ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Gebruikers &amp; Roles te werk.
+>Dit is slechts van toepassing op de abonnementen van Marketo Engage die aan [&#x200B; het Systeem van Identity Management van Adobe (IMS) &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} worden bezet. Als uw abonnement Adobe IMS nog niet heeft betreden, ga met de [&#x200B; erfenisgebruikersrollen en toestemmingenervaring &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Gebruikers &amp; Roles te werk.
 
 <table>
  <tbody>

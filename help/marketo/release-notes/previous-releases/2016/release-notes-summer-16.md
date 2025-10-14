@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van zomer 16. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
-## [ Op rekening gebaseerde Marketing ](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## [&#x200B; Op rekening gebaseerde Marketing &#x200B;](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
 Op Marketo-account gebaseerde marketing biedt alle basisprincipes in één uniform platform:
 
@@ -28,7 +28,7 @@ Op Marketo-account gebaseerde marketing biedt alle basisprincipes in één unifo
 >
 >ABM is beschikbaar als een invoegtoepassing voor uw Marketo-abonnement. Neem daarom contact op met uw verkoper om het te laten implementeren.
 
-## [ Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## [&#x200B; Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 Het audittrail biedt een uitgebreide geschiedenis van de wijzigingen die zijn aangebracht in uw Marketo-abonnement. Het zal verantwoordingsplicht onder gebruikers en beheerders tot stand brengen, hulp de oorzaak van onverwacht gedrag identificeren, en de veiligheid van het weten verstrekken wie doet wat en wanneer. Deze informatie zal op elk ogenblik beschikbaar zijn en kan worden gebruikt om vragen zoals te beantwoorden:
 
@@ -48,7 +48,7 @@ Maak eenvoudig SMS-berichten in Marketo. Pas uw bericht aan met uw rijke Marketo
 
 ![](assets/vibes-sms2.png)
 
-## [ E-mail 2.0 Verbeteringen ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## [&#x200B; E-mail 2.0 Verbeteringen &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
 
 **module-vlakke Variabelen**
 
@@ -77,37 +77,37 @@ Gone is de dagen waarin koppelingen voor het bijhouden van e-mails alleen met é
 
 ![](assets/multiple-branding-domains.png)
 
-## [ Tokens van het Programma ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
+## [&#x200B; Tokens van het Programma &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
 
 We hebben een nieuw tokentype voor programma&#39;s gemaakt. U kunt de Naam, de Beschrijving, en identiteitskaart van het Programma in activa en slimme stappen van de campagnestroom nu teruggeven.
 
 ![](assets/program-tokens.png)
 
-## [ Sleutel van de Onderneming ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
+## [&#x200B; Sleutel van de Onderneming &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
 Het kan lastig zijn om van elke persoon in uw verkoopteam de [!DNL Sales Insight] insteekmodule voor [!DNL Outlook] te installeren. We hebben een nieuwe manier geïntroduceerd om de insteekmodule voor [!DNL Outlook] extern te installeren met behulp van een bedrijfssleutel. Verzend uw IT-team naar de unieke sleutel in de Marketo [!DNL Sales Insight] -sectie van [!UICONTROL Admin] en laat ze de rest uitvoeren.
 
 ![](assets/enterprise-key.png)
 
-## [ Campagnes van Personalization van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## [&#x200B; Campagnes van Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
 
 Geef een vertraging op voor webcampagnes die moeten reageren op uw website.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [ de Uitvoer van Content Analytics en van Aanbevelingen ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [&#x200B; de Uitvoer van Content Analytics en van Aanbevelingen &#x200B;](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Analyses en aanbevelingen voor inhoud offline weergeven.
 
-## [ API Steun voor E-mailRedacteur 2.0 ](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [&#x200B; API Steun voor E-mailRedacteur 2.0 &#x200B;](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Bestaande API&#39;s voor middelen, die voorheen alleen compatibel waren met e-mailberichten en sjablonen van versie 1.0, zijn nu ingeschakeld voor e-mailmiddelen van versie 2.0.
 
-## [ de Plaats van de Ontwikkelaars van Marketo ](https://developers.marketo.com/) {#marketo-developers-site}
+## [&#x200B; de Plaats van de Ontwikkelaars van Marketo &#x200B;](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nieuw en verbeterd!
 
-## [ Montages van de Privacy ](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
+## [&#x200B; Montages van de Privacy &#x200B;](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
 Marketers kunnen privacy-instellingen gebruiken om te beslissen of ze bezoekers willen volgen met behulp van [!DNL Munchkin] - en Web Personalization-functies. Het niveau van het volgen wordt gecontroleerd door browser te gebruiken niet het volgen plaatsen, een opt-out koekje, of een niet-specifieke IP. Deze methoden kunnen van invloed zijn op de Marketo-waarde en -functionaliteit in specifieke gebieden, maar als de markeerteken niets verandert, blijft de Marketo-functionaliteit ongewijzigd.
 

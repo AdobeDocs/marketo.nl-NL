@@ -17,7 +17,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 >[!PREREQUISITES]
 >
->[ creeer een Geleide Openende Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[&#x200B; creeer een Geleide Openende Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
@@ -57,4 +57,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Nu sluit enkel de het landen paginaredacteur en [ keurt het het landen paginaontwerp ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed.
+Nu sluit enkel de het landen paginaredacteur en [&#x200B; keurt het het landen paginaontwerp &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed.

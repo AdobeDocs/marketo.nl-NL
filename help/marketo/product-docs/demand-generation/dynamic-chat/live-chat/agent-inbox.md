@@ -24,7 +24,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 >[!IMPORTANT]
 >
->**dit zal** met voeten treden de [ levende praatjebeschikbaarheid ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
+>**dit zal** met voeten treden de [&#x200B; levende praatjebeschikbaarheid &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 ## Live Chatmeldingen {#live-chat-notifications}
 
-Leer meer over berichten in het [ Levende Overzicht van het Praatje ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Leer meer over berichten in het [&#x200B; Levende Overzicht van het Praatje &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Gesprek {#conversations}
 
@@ -62,7 +62,7 @@ De agenten hebben de capaciteit om een zitting eenvoudig manueel te eindigen doo
 >
 >Deze functie maakt deel uit van generatieve AI en is beschikbaar via het Dynamic Chat Prime-abonnement. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-De kortere weg, die door de generatieve AI [ bibliotheek van de Reactie ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) wordt aangedreven, is een grote manier om hulp op de vlucht te krijgen wanneer het babbelen met een bezoeker. Typ gewoon een slash (`/`) in het tekstvak en kies `ask` of `search` .
+De kortere weg, die door de generatieve AI [&#x200B; bibliotheek van de Reactie &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) wordt aangedreven, is een grote manier om hulp op de vlucht te krijgen wanneer het babbelen met een bezoeker. Typ gewoon een slash (`/`) in het tekstvak en kies `ask` of `search` .
 
 ![](assets/agent-inbox-7.png)
 

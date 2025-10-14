@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: Checklist voor marketingactiviteiten {#inherited-instance-marketing-activities-checklist}
 
-Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen te helpen diverse programma&#39;s binnen uw exemplaar van Marketo Engage vinden en beheren en ervoor te zorgen dat de mensen worden verwerkt om van Marketing aan Verkoop over te gaan. Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en volg uw vooruitgang.
+Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen te helpen diverse programma&#39;s binnen uw exemplaar van Marketo Engage vinden en beheren en ervoor te zorgen dat de mensen worden verwerkt om van Marketing aan Verkoop over te gaan. Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en volg uw vooruitgang.
 
 ## Organisatie {#organization}
 

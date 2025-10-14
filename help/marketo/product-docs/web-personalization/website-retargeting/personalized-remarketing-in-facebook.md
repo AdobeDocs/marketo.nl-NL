@@ -17,12 +17,12 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 >[!PREREQUISITES]
 >
->* Voltooi [ opnieuw het richten met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
->* Herzie de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
+>* Voltooi [&#x200B; opnieuw het richten met de Gegevens van Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
+>* Herzie de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#x200B; documentatie van Facebook over het publiek van de Douane &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
 
 ## Een publiek maken in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. In [!DNL Facebook], ga naar uw [ lusje van het Publiek ](https://www.facebook.com/ads/audience_manager) in de Manager van Advertenties.
+1. In [!DNL Facebook], ga naar uw [&#x200B; lusje van het Publiek &#x200B;](https://www.facebook.com/ads/audience_manager) in de Manager van Advertenties.
 
 1. Klik op **[!UICONTROL Tools]** en selecteer **[!UICONTROL Audiences]** .
 
@@ -129,5 +129,5 @@ Voor extra details, zie {de documentatie van 0} Facebook [.](https://developers.
 
 >[!MORELIKETHIS]
 >
->* [ het opnieuw samenkomen met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [ Gepersonaliseerde Markering in Google ](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [&#x200B; het opnieuw samenkomen met de Gegevens van Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [&#x200B; Gepersonaliseerde Markering in Google &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

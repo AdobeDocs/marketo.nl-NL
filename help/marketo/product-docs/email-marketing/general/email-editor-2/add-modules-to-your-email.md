@@ -21,7 +21,7 @@ In [!DNL Email Editor 2.0] is een module een sectie van uw e-mail die in het mal
 
    >[!NOTE]
    >
-   >Het grootste deel van de Marketo [!UICONTROL Starter Templates] bevat [!UICONTROL Modules] . U kunt ook [ uw eigen ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) creëren.
+   >Het grootste deel van de Marketo [!UICONTROL Starter Templates] bevat [!UICONTROL Modules] . U kunt ook [&#x200B; uw eigen &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) creëren.
 
 1. Klik helemaal rechts van de e-mail op **[!UICONTROL Modules]** .
 
@@ -67,4 +67,4 @@ Dat is alles wat er aan te pas komt.
 
 >[!MORELIKETHIS]
 >
->[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

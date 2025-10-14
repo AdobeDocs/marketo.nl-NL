@@ -29,7 +29,7 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Selecteer de eerste campagne u aan test A/B wilt. Klik op **[!UICONTROL Edit]**.
 
@@ -76,6 +76,6 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [&#x200B; creeer een Campagne van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [&#x200B; creeer een RTP in de Campagne van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [&#x200B; creeer een Campagne van Widget RTP &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

@@ -41,4 +41,4 @@ Geweldig werk! Zorg ervoor dat u de app ook configureert met Android.
 
 >[!MORELIKETHIS]
 >
->[ vorm Mobiele App Android Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>[&#x200B; vorm Mobiele App Android Push Access &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)

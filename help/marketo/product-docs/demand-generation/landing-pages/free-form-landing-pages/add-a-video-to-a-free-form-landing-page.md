@@ -45,7 +45,7 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 >
 >Als u tijd wilt besparen, kunt u de optie **[!UICONTROL Clone From]** gebruiken om alle instellingen van een bestaande gedeelde video te kopiëren.
 
-Gefeliciteerd! U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt ook [ publiceren de het landen pagina aan Facebook ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of _zetten het videoaandeel op uw website_.
+Gefeliciteerd! U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt ook [&#x200B; publiceren de het landen pagina aan Facebook &#x200B;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of _zetten het videoaandeel op uw website_.
 
 >[!MORELIKETHIS]
 >

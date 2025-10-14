@@ -46,4 +46,4 @@ Wanneer u een e-mail verzendt in Marketo Sales en meerdere identiteiten hebt, ku
 
 >[!MORELIKETHIS]
 >
->[ voeg of werk Uw E-mailhandtekening ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md) bij.
+>[&#x200B; voeg of werk Uw E-mailhandtekening &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md) bij.

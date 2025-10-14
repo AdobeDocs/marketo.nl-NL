@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Programmastatus wijzigen {#change-program-status}
 
-Met de status van het programma kunt u bijhouden hoe een programma of gebeurtenis wordt uitgevoerd. Vind meer informatie in [ aanpassen, creeer, en beheer Kanalen ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Met de status van het programma kunt u bijhouden hoe een programma of gebeurtenis wordt uitgevoerd. Vind meer informatie in [&#x200B; aanpassen, creeer, en beheer Kanalen &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >

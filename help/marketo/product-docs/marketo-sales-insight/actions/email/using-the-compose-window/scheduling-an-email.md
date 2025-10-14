@@ -42,4 +42,4 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    >[!MORELIKETHIS]
    >
-   >[ Overzicht van het Centrum van het Bevel ](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+   >[&#x200B; Overzicht van het Centrum van het Bevel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)

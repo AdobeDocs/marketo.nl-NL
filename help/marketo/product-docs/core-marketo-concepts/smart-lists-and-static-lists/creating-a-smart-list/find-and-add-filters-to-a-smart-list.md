@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filters zoeken en toevoegen aan een slimme lijst {#find-and-add-filters-to-a-smart-list}
 
-Zodra u [ een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} hebt gecreeerd, moet u toevoegen en [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filters bepalen. Hieronder wordt beschreven hoe u filters kunt zoeken en toevoegen.
+Zodra u [&#x200B; een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} hebt gecreeerd, moet u toevoegen en [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"} filters bepalen. Hieronder wordt beschreven hoe u filters kunt zoeken en toevoegen.
 
 In dit voorbeeld zoeken we alle mensen in Californië met een score van meer dan 50.
 
@@ -41,5 +41,5 @@ Perfect! Laten we deze filters definiëren.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [ bepaalt Slimme Filters van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+>* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [&#x200B; bepaalt Slimme Filters van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}

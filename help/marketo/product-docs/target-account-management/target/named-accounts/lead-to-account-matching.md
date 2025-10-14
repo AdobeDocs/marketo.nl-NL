@@ -41,11 +41,11 @@ Aangezien Marketo Lead-to-Account matching een ingebouwde functie is van Marketo
 
 >[!NOTE]
 >
->Als u LeanData in Salesforce gebruikt om Lood-aan-Rekening aanpassing te doen, heeft Marketo een integratie die die gelijken aan uw instantie van Marketo zal synchroniseren. Om die eigenschap te hebben toegelaten, gelieve te contacteren {de Steun van 0} Marketo [ leren hoe te opstelling hieronder LeanData.](https://nation.marketo.com/t5/Support/ct-p/Support)
+>Als u LeanData in Salesforce gebruikt om Lood-aan-Rekening aanpassing te doen, heeft Marketo een integratie die die gelijken aan uw instantie van Marketo zal synchroniseren. Om die eigenschap te hebben toegelaten, gelieve te contacteren {de Steun van 0} Marketo [&#x200B; leren hoe te opstelling hieronder LeanData.](https://nation.marketo.com/t5/Support/ct-p/Support)
 
 ## LeanData gebruiken voor Afleiden naar Account Matching {#using-leandata-for-lead-to-account-matching}
 
-Nadat [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) LeanData voor uw rekening heeft toegelaten, volg de stappen hieronder om het op te zetten.
+Nadat [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) LeanData voor uw rekening heeft toegelaten, volg de stappen hieronder om het op te zetten.
 
 1. Klik in Salesforce op **[!UICONTROL Setup Home]** in de linkernavigatiebalk.
 
@@ -71,4 +71,4 @@ Nadat [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Suppor
 
 >[!MORELIKETHIS]
 >
->[ ontdekt Rekeningen ](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+>[&#x200B; ontdekt Rekeningen &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)

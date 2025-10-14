@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 juli. R
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -180,4 +180,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Verbetering aan Google Analytics 4**: Marketo eerder gesteunde Universele Analytics, die zal ophouden registrerend gegevens tegen 1 Juli, 2023. RTP-gebruikers moeten het migratieproces in hun Google Analytics-dashboard volgen om de Google Analytics 4-integratie in RTP te kunnen voltooien. Als gebruikers verdergaan, hebben ze op hun bestemmingspagina&#39;s een unieke alfanumerieke tag (die zich bevindt binnen het `<head>` -gedeelte van het HTML-bestand) waarmee Marketo gegevens naar Google Analytics kan verzenden.
 
-* **_Webinar van de Versie van het Product_**: [ Juli en September 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [&#x200B; Juli en September 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

@@ -15,7 +15,7 @@ ht-degree: 3%
 
 De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Nadat u ze hebt gemaakt, moeten ze handmatig worden bijgewerkt.
 
-Als presentaties, zijn de doelstellingen [ - specifiek ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
+Als presentaties, zijn de doelstellingen [&#x200B; - specifiek &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
 
 1. Ga naar de **[!UICONTROL Calendar]** .
 

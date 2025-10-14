@@ -35,4 +35,4 @@ Het toevoegen van een benoemde account aan een accountlijst is eenvoudig.
 
 >[!MORELIKETHIS]
 >
->[ Maak een [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[&#x200B; Maak een [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

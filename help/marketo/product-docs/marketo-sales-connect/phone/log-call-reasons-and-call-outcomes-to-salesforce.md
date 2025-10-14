@@ -157,4 +157,4 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
 >[!MORELIKETHIS]
 >
->[ installeer de Gebieden van de Gebeurtenis van de Verkoop Connect op de Geschiedenis van de Activiteit ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
+>[&#x200B; installeer de Gebieden van de Gebeurtenis van de Verkoop Connect op de Geschiedenis van de Activiteit &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)

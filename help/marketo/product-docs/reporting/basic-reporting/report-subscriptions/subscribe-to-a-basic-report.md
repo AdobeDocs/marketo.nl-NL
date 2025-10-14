@@ -17,7 +17,7 @@ Als u automatische updates van een basisrapport wilt ontvangen of deze wilt dele
 
 >[!NOTE]
 >
->Voor het rapportabonnementen van de Ontdekkingsreiziger van de Ontdekkingsreiziger van de Opbrengst, zie [ aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md) intekenen.
+>Voor het rapportabonnementen van de Ontdekkingsreiziger van de Ontdekkingsreiziger van de Opbrengst, zie [&#x200B; aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md) intekenen.
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
@@ -49,4 +49,4 @@ Als u automatische updates van een basisrapport wilt ontvangen of deze wilt dele
 
    >[!MORELIKETHIS]
    >
-   >Leer hoe te [ om al uw rapportabonnementen ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.
+   >Leer hoe te [&#x200B; om al uw rapportabonnementen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.

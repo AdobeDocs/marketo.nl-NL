@@ -33,4 +33,4 @@ Met kolommen kunt u de gegevens in uw rapport sorteren en de belangrijkste figur
 
    >[!MORELIKETHIS]
    >
-   >[ Uitgezochte Kolommen van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[&#x200B; Uitgezochte Kolommen van het Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

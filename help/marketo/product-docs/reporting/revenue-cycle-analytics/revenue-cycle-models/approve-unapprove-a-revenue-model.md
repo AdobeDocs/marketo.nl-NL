@@ -17,7 +17,7 @@ U kunt op elk moment slechts één goedgekeurd model hebben.
 
 >[!CAUTION]
 >
->[ Individuele stadia moeten worden goedgekeurd ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
+>[&#x200B; Individuele stadia moeten worden goedgekeurd &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
 
 ## Goedkeuren {#approve}
 

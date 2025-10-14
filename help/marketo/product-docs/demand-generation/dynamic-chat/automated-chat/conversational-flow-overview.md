@@ -48,7 +48,7 @@ Dialoogvensters en conversatiestromen hebben verschillende gelijkenissen, maar h
 
 ## Het tabblad Designer streamen {#stream-designer-tab}
 
-De stroom Designer for Conversational Flows is bijna identiek aan die voor Dialogen. [ leer alles over het ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} hier.
+De stroom Designer for Conversational Flows is bijna identiek aan die voor Dialogen. [&#x200B; leer alles over het &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} hier.
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,8 +82,8 @@ In de onderste helft van het lusje van Montages, pas de trekker van de Gesprek a
 
 >[!TIP]
 >
->Zie [ Conversations SDK ](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=nl-NL){target="_blank"} in actie!
+>Zie [&#x200B; Conversations SDK &#x200B;](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=nl-NL){target="_blank"} in actie!
 
 >[!MORELIKETHIS]
 >
->[ creeer een Conversationele Stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}
+>[&#x200B; creeer een Conversationele Stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}

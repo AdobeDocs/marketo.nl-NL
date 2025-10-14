@@ -14,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [&#x200B; pakket van Insight van de Verkoop van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 >[!PREREQUISITES]
 >
->* Bevestig met het Team van de Rekening van Adobe (uw Manager van de Rekening) dat de Acties MSI voor uw Rekening van Marketo Engage (als u geen Manager van de Rekening hebt, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}) is toegelaten.
+>* Bevestig met het Team van de Rekening van Adobe (uw Manager van de Rekening) dat de Acties MSI voor uw Rekening van Marketo Engage (als u geen Manager van de Rekening hebt, contacteer [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}) is toegelaten.
 >* Uw Marketo/Salesforce-synchronisatie moet zijn ingesteld.
 
 <table>
@@ -74,7 +74,7 @@ De gebruiker zal een e-mail met stappen ontvangen om toegang tot de rekening te 
 
 >[!NOTE]
 >
->Extra gebruikers worden niet toegevoegd via Marketo en worden toegevoegd via de pagina Gebruikersbeheer van verkoopaccount. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} om meer over het toevoegen van extra gebruikers te leren.
+>Extra gebruikers worden niet toegevoegd via Marketo en worden toegevoegd via de pagina Gebruikersbeheer van verkoopaccount. [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} om meer over het toevoegen van extra gebruikers te leren.
 
 ## Marketo-verkoopaccount verbinden met [!DNL Salesforce] {#connect-marketo-sales-account-to-salesforce}
 
@@ -142,7 +142,7 @@ Persoonlijke records die in Marketo en [!DNL Salesforce] bestaan, worden gesynch
 
 >[!NOTE]
 >
->Om meer over te leren hoe de mensen en activiteitengegevens tussen de Acties van Insight van de Verkoop, Marketo, en Salesforce synchroniseren, [ klik hier ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+>Om meer over te leren hoe de mensen en activiteitengegevens tussen de Acties van Insight van de Verkoop, Marketo, en Salesforce synchroniseren, [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Individuele gebruikers uitnodigen voor MSI-handelingen {#invite-individual-users-to-msi-actions}
 
@@ -194,4 +194,4 @@ U zult een bevestigingsbericht ontvangen zodra de uitnodigingen worden verzonden
 
 >[!NOTE]
 >
->Zodra dit wordt gedaan, kunt u of uw bestaand pakket bevorderen MSI of nieuwe installeren en zich op [ het vormen acties MSI in Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"} bewegen.
+>Zodra dit wordt gedaan, kunt u of uw bestaand pakket bevorderen MSI of nieuwe installeren en zich op [&#x200B; het vormen acties MSI in Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"} bewegen.

@@ -50,7 +50,7 @@ Gebruik Marketo om het bevestigingsbericht voor uw gebeurtenis te verzenden. Wan
 
 >[!TIP]
 >
->U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Zie de [ ON24 Plaats van de Hulp ](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"} voor meer informatie.
+>U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Zie de [&#x200B; ON24 Plaats van de Hulp &#x200B;](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"} voor meer informatie.
 
 ## Vereisten voor onderliggende campagne registreren {#registration-child-campaign-requirements}
 
@@ -95,10 +95,10 @@ De **[!UICONTROL Send Email]** -stap MOET de tweede stap zijn. Het bevestigingsb
 >
 >Als de persoon wordt geretourneerd met een registratiefout, wordt de e-mailbevestiging niet ontvangen.
 
-Uw volgende stap moet [ Uw ON24 gebeurtenisintegratie ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"} testen.
+Uw volgende stap moet [&#x200B; Uw ON24 gebeurtenisintegratie &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"} testen.
 
 >[!MORELIKETHIS]
 >
->* [ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
->* [ Voorbeeld ON24 de Integratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
->* [ Begrijpend de Statussen van het Programma Webinar ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
+>* [&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [&#x200B; Voorbeeld ON24 de Integratie van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [&#x200B; Begrijpend de Statussen van het Programma Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}

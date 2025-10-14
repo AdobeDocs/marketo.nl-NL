@@ -37,13 +37,13 @@ Als u een nieuw aangepast veld in Marketo Engage nodig hebt om gegevens op te sl
 
    >[!NOTE]
    >
-   >Terwijl u niet het _voorwerp van het Bedrijf_ kunt selecteren zelf, kunt u het verzoeken door [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
+   >Terwijl u niet het _voorwerp van het Bedrijf_ kunt selecteren zelf, kunt u het verzoeken door [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
 
 1. Kies het veld _[!UICONTROL Type]_. Hiermee wijzigt u de weergave in slimme lijsten en formulieren in Marketo.
 
    >[!TIP]
    >
-   >Controle uit de [ Verklarende woordenlijst van de Types van Gebied van de Douane ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Controle uit de [&#x200B; Verklarende woordenlijst van de Types van Gebied van de Douane &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 

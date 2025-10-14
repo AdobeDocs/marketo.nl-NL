@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # E-mail rapporteren, campagneprestaties in alle werkruimten {#report-email-campaign-performance-across-workspaces}
 
-Zet Globale Rapportering aan om gegevens van al uw Marketo [ werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in uw [ E-mailPrestaties ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) en [ E-mailprestaties van de Verbinding ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporten te omvatten.
+Zet Globale Rapportering aan om gegevens van al uw Marketo [&#x200B; werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in uw [&#x200B; E-mailPrestaties &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) en [&#x200B; E-mailprestaties van de Verbinding &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporten te omvatten.
 
 1. Ga naar **[!UICONTROL Analytics]** (of **[!UICONTROL Marketing Activities]** ) gebied.
 
@@ -37,4 +37,4 @@ Zet Globale Rapportering aan om gegevens van al uw Marketo [ werkruimten ](/help
 
    >[!MORELIKETHIS]
    >
-   >[ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[&#x200B; filter Assets in een E-mailrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

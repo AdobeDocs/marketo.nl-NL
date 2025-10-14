@@ -812,4 +812,4 @@ Audittrail biedt veel insight aan om te kijken wie wat doet in je Marketo-abonne
 
 >[!MORELIKETHIS]
 >
->[ Filtrerend in het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+>[&#x200B; Filtrerend in het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)

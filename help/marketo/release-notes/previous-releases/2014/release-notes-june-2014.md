@@ -21,7 +21,7 @@ Binnenkort in een latere release wordt een nieuwe look and feel weergegeven, inc
 
 ## [!DNL Sales Insight] plug-in voor [!DNL Outlook] 2013 {#sales-insight-plugin-for-outlook}
 
-Hiervoor moet de nieuwe plug-in worden gedownload. U kunt het van [ hier ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) downloaden.
+Hiervoor moet de nieuwe plug-in worden gedownload. U kunt het van [&#x200B; hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) downloaden.
 
 ## Tokenresolutie {#token-resolution}
 
@@ -29,17 +29,17 @@ Wanneer u een teste-mailbericht verzendt vanuit [!DNL Sales Insight] , worden de
 
 ## Percentages aanpassen voor sterren en vlammen {#customize-percentages-for-stars-and-flames}
 
-[ plaats het percentage ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) van lood dat 1, 2, of 3 sterren en vlammen krijgt.
+[&#x200B; plaats het percentage &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md) van lood dat 1, 2, of 3 sterren en vlammen krijgt.
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
 ## REST-API voor lead {#lead-rest-api}
 
-Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [ tot de douanedienst ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo leiden. Dan hoofd over aan de [ plaats van ontwikkelaars ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) voor details bij het gebruiken van dit API.
+Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [&#x200B; tot de douanedienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo leiden. Dan hoofd over aan de [&#x200B; plaats van ontwikkelaars &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) voor details bij het gebruiken van dit API.
 
 ## Marketo Real-Time Personalization (RTP) Campaigns Page Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-De Campagnes RTP omvatten nu een nieuw ontwerp met duimnagelmeningen en campagneprestaties. Bovendien, kunt u [ uw campagnes ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) volgens datum of hoogste prestaties organiseren.
+De Campagnes RTP omvatten nu een nieuw ontwerp met duimnagelmeningen en campagneprestaties. Bovendien, kunt u [&#x200B; uw campagnes &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) volgens datum of hoogste prestaties organiseren.
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -47,6 +47,6 @@ De Campagnes RTP omvatten nu een nieuw ontwerp met duimnagelmeningen en campagne
 
 Voeg al uw gegevens RTP binnen uw platform van de Webanalyse toe.
 
-De integratie met [ Google Analytics ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) wordt nu toegelaten door gebrek, zo onder de Montages van de Rekening zet de schakelaar aan waarvoor de gegevens u door aan GA douanevariabelen en gebeurtenissen wilt verzenden.
+De integratie met [&#x200B; Google Analytics &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) wordt nu toegelaten door gebrek, zo onder de Montages van de Rekening zet de schakelaar aan waarvoor de gegevens u door aan GA douanevariabelen en gebeurtenissen wilt verzenden.
 
-Wij voltooiden ook de integratie met [ Adobe SiteCatalyst ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+Wij voltooiden ook de integratie met [&#x200B; Adobe SiteCatalyst &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).

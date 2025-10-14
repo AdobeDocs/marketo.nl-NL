@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van 20 februari. Raadpleeg de 
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster ( ![ worden aangegeven (ster) ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster ( ![&#x200B; worden aangegeven (ster) &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalversies_** De volgende eigenschappen werden vrijgegeven op **21 Februari, 2020**.
 
@@ -37,7 +37,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Bizible] {#bizible}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **op rekening-Gebaseerde Segmentatie**: Analyseer attributie op het niveau van de Rekening met de capaciteit om segmenten en filters voor Discover te creëren die op de attributen van de Rekening worden gebaseerd. Gebruik deze segmenten om verder te gaan naar de marketingprestaties op basis van uw account.
 * **het Opslaan Filters**: Sparen dashboard-specifieke filters uniek aan elke gebruiker om uw dashboards snel en constant te analyseren.
@@ -59,4 +59,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 * **Activum API &quot;_method&quot;Parameter**: Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in een POST lichaam over te gaan om de lengtebeperkingen van URI te mijden. Om tegemoet te komen aan verzoeken die deze parameter vereisten, wordt de URI-limiet voor de bron-API&#39;s verhoogd van 6KiB naar 65KiB, zodat URI&#39;s met lange aanvragen kunnen worden verzonden.
 * **Veroudering van de Steun van Internet Explorer**: Beginnend met onze versie van Juli op 31 Juli, 2020, zal het gebruikersinterface van Marketo Engage niet meer op Internet Explorer worden gesteund.
 
-**_Webinar van de Versie van het Product_** [ sluit zich aan bij ons ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11 :00AM PT/2 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.
+**_Webinar van de Versie van het Product_** [&#x200B; sluit zich aan bij ons &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 Maart bij 11 :00AM PT/2 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.

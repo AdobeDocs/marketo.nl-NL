@@ -26,7 +26,7 @@ De volgende functies zijn uitgebracht op 14 juni 2019.
 
 >[!CAUTION]
 >
->Vanaf 18 juni 2019 is e-mail 1.0 niet meer beschikbaar. U kunt meer over E-mail 2.0 en de veroudering van E-mail 1.0 [ hier ](https://nation.marketo.com/docs/DOC-7038) leren.
+>Vanaf 18 juni 2019 is e-mail 1.0 niet meer beschikbaar. U kunt meer over E-mail 2.0 en de veroudering van E-mail 1.0 [&#x200B; hier &#x200B;](https://nation.marketo.com/docs/DOC-7038) leren.
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -68,4 +68,4 @@ De volgende functies zullen naar verwachting gedurende het tweede kalenderkwarta
 * **de Integratie van de Drijf**: Begrijp hoe de gesprekken van de Drijving de reis van uw klant beïnvloeden. [!DNL Bizible] haalt ook e-mailadressen van gesprekken om een nieuwe lead te maken of om het aanraakpunt aan een bestaande lead te koppelen.
 * **Localization**: [!DNL Bizible] is nu beschikbaar in alle Marketo-gesteunde talen (Engels, Japans, Duits, Spaans, Frans, en Portugees).
 
-_&#x200B;**Webinar van de Versie van het Product**&#x200B;_ bekijk de opname van ons webinar van de Innovaties van de Versie van juni 19 [ hier ](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_&#x200B;**Webinar van de Versie van het Product**&#x200B;_ bekijk de opname van ons webinar van de Innovaties van de Versie van juni 19 [&#x200B; hier &#x200B;](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

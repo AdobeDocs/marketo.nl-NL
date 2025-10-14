@@ -17,7 +17,7 @@ Als u MSI van uw MS [!DNL Dynamics] -instantie wilt verwijderen, moet u zowel in
 
 >[!PREREQUISITES]
 >
->[ maak Globale MS  [!DNL Dynamics]  Synchronisatie ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) onbruikbaar
+>[&#x200B; maak Globale MS  [!DNL Dynamics]  Synchronisatie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) onbruikbaar
 
 1. Klik in Marketo op **[!UICONTROL Admin]** .
 
@@ -35,7 +35,7 @@ Als u MSI van uw MS [!DNL Dynamics] -instantie wilt verwijderen, moet u zowel in
 
    >[!NOTE]
    >
-   >Zorg ervoor u [ de Globale Synchronisatie van de Dynamica van MS ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) voorafgaand aan het onbruikbaar maken van de gebiedssynchronisatie onbruikbaar maakt.
+   >Zorg ervoor u [&#x200B; de Globale Synchronisatie van de Dynamica van MS &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md) voorafgaand aan het onbruikbaar maken van de gebiedssynchronisatie onbruikbaar maakt.
 
    ![](assets/eight.png)
 

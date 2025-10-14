@@ -49,5 +49,5 @@ U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een Sli
 
    >[!MORELIKETHIS]
    >
-   >* [ gebruik een Specifieke Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
-   >* [ Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}
+   >* [&#x200B; gebruik een Specifieke Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
+   >* [&#x200B; Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

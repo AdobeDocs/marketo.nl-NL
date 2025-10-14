@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe te opstelling a [ getriggerde campagne gebruikend &quot;Campagne wordt Gevraagd ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe te opstelling a [&#x200B; getriggerde campagne gebruikend &quot;Campagne wordt Gevraagd &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Koel, nu kunnen je verkopers actief deelnemen aan de marketingactiviteiten.
 

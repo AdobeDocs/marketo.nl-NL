@@ -17,7 +17,7 @@ Door segmentregels te definiëren kunt u uw personen indelen in verschillende gr
 
 >[!PREREQUISITES]
 >
->[ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 1. Ga naar de **[!UICONTROL Database]** .
 
@@ -69,7 +69,7 @@ Goed werk! Deze segmenten zullen op veel plaatsen in Marketo in de hand komen.
 
 >[!NOTE]
 >
->Een persoon zou voor verschillende segmenten kunnen kwalificeren, maar behoort uiteindelijk tot enkel die van de [ prioritaire orde van de segmenten ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) afhangt.
+>Een persoon zou voor verschillende segmenten kunnen kwalificeren, maar behoort uiteindelijk tot enkel die van de [&#x200B; prioritaire orde van de segmenten &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) afhangt.
 
 >[!NOTE]
 >
@@ -77,4 +77,4 @@ Goed werk! Deze segmenten zullen op veel plaatsen in Marketo in de hand komen.
 
 >[!MORELIKETHIS]
 >
->[ keur een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed
+>[&#x200B; keur een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed

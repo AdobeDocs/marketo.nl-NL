@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Partitie persoon wijzigen {#change-person-partition}
 
-Als u [ werkruimten en verdelingen ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"} gebruikt, zult u slimme campagnes willen bouwen om mensen van één verdeling naar een andere te bewegen.
+Als u [&#x200B; werkruimten en verdelingen &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"} gebruikt, zult u slimme campagnes willen bouwen om mensen van één verdeling naar een andere te bewegen.
 
 ![](assets/change-person-partition-1.png)
 

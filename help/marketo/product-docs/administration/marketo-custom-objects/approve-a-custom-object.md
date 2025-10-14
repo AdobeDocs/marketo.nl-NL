@@ -47,7 +47,7 @@ U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
    >
    >Een douanevoorwerp dat als _wordt gebruikt intermediair voorwerp_ vereist een verbindingsgebied, een verbonden objecten naam, en een verbonden gebiedsnaam maar **vereist geen** dedupe gebied.
    >
-   >Zie [ Begrijpend de Voorwerpen van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
+   >Zie [&#x200B; Begrijpend de Voorwerpen van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de filters en triggers die u in uw campagnes wilt gebruiken.
 

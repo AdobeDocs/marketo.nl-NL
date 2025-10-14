@@ -60,6 +60,6 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
 
    >[!TIP]
    >
-   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [ Begrijpend de Score van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) voor details over wat het is.
+   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [&#x200B; Begrijpend de Score van de Betrokkenheid &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) voor details over wat het is.
 
    Geweldig werk! Het rapport is gegroepeerd op betrokkenheidsprogramma.

@@ -16,7 +16,7 @@ Dynamische velden werken alleen wanneer u een sjabloon gebruikt. Individuele een
 
 ## Wat moet u controleren {#what-to-check}
 
-Er zijn drie soorten dynamische gebieden in de Acties van Insight van de Verkoop: Basis, Douane, en Salesforce. De basis en van de Douane allebei kijken om informatie van de [ Webtoepassing ](https://toutapp.com/login){target="_blank"} te trekken. Als de informatie niet bestaat in de webtoepassing, zijn de velden leeg. De gebieden van Salesforce trekken informatie van [ Salesforce.com ](https://salesforce.com){target="_blank"}.
+Er zijn drie soorten dynamische gebieden in de Acties van Insight van de Verkoop: Basis, Douane, en Salesforce. De basis en van de Douane allebei kijken om informatie van de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login){target="_blank"} te trekken. Als de informatie niet bestaat in de webtoepassing, zijn de velden leeg. De gebieden van Salesforce trekken informatie van [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
 
 **het Oplossen van problemen [!DNL Salesforce] Gebieden**
 
@@ -30,7 +30,7 @@ Marketo Sales Insight Actions Basic Fields: bijv., `{{company}}`
 
 Marketo Sales Insight Actions Custom Fields: bijv., `{{custom_field_favorite_movie}}`
 
-* Het overeenkomstige gebied moet voor uw contact in de [ pagina van Mensen ](https://toutapp.com/next#relationships){target="_blank"} voor ons dynamische gebied worden bewaard om te verwijzen. Bijvoorbeeld, als u een e-mail naar Mary en gebruikend het `{{company}}` gebied verzendt, maar haar contactverslag maakt geen lijst van een bedrijf, zullen wij niet dat kunnen invullen.
+* Het overeenkomstige gebied moet voor uw contact in de [&#x200B; pagina van Mensen &#x200B;](https://toutapp.com/next#relationships){target="_blank"} voor ons dynamische gebied worden bewaard om te verwijzen. Bijvoorbeeld, als u een e-mail naar Mary en gebruikend het `{{company}}` gebied verzendt, maar haar contactverslag maakt geen lijst van een bedrijf, zullen wij niet dat kunnen invullen.
 
 ## Waarom is mijn e-mail verzonden zonder alle dynamische velden te vullen? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 

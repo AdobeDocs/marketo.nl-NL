@@ -42,4 +42,4 @@ Zo, als een persoon de vorm _invult of_ de pagina bezoekt, zal de campagne dan d
 
 >[!MORELIKETHIS]
 >
->[ Gebruikend Geavanceerde Slimme Logica van de Regel van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
+>[&#x200B; Gebruikend Geavanceerde Slimme Logica van de Regel van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

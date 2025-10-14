@@ -43,4 +43,4 @@ ht-degree: 1%
 >
 >Wanneer u aanvullende brandingdomeinen toevoegt, kunt u ervoor kiezen dit als primair domein voor een of meer werkruimten te gebruiken. Alle bestaande niet-verzonden e-mails die op &quot;Standaard&quot; zijn ingesteld en alle nieuwe e-mails die u hebt gemaakt, worden standaard ingesteld op het primaire domein. U kunt dit per e-mail overschrijven.
 
-Nu, kunt u [ extra brandende domeinen ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.
+Nu, kunt u [&#x200B; extra brandende domeinen &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze knoppen maken deel uit van het Sales Insight-pakket. Als u niet de knopen beschikbaar ziet om in uw lijstmening worden geïnstalleerd, kunt u uw pakket [ moeten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} bevorderen.
+>Deze knoppen maken deel uit van het Sales Insight-pakket. Als u niet de knopen beschikbaar ziet om in uw lijstmening worden geïnstalleerd, kunt u uw pakket [&#x200B; moeten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} bevorderen.
 
 De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
@@ -26,7 +26,7 @@ De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
 ## In Salesforce Lightning {#salesforce-lightning}
 
-1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
 1. Klik **Opstelling**.
 1. Selecteer Objectbeheer.
 1. Zoek in het vak Snel zoeken naar het object dat u wilt bewerken (Lead of Contact) en selecteer de naam van het object.
@@ -38,7 +38,7 @@ De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
 ## In Salesforce Classic {#salesforce-classic}
 
-1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
 1. Klik **Opstelling**.
 1. Zoek in het vak Snel zoeken naar het object dat u wilt bewerken (Lead of Contact) en selecteer het.
 1. Klik om de lijstweergave te bewerken (lead of contactpersoon).
@@ -48,6 +48,6 @@ De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
 >[!MORELIKETHIS]
 >
->* [ Gebruikend Bulk verzend Verkoop E-mail in Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
->* [ Gebruikend Bulk voegt aan de Campagne van de Verkoop in Salesforce toe ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
->* [ installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [&#x200B; Gebruikend Bulk verzend Verkoop E-mail in Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [&#x200B; Gebruikend Bulk voegt aan de Campagne van de Verkoop in Salesforce toe &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
+>* [&#x200B; installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

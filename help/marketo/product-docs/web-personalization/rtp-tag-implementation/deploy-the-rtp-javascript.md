@@ -39,6 +39,6 @@ Volg onderstaande installatie-instructies om uw RTP-tag te genereren en in te st
 
    Controleer of de schakeloptie [!UICONTROL Tag] is ingesteld op [!UICONTROL ON] . U zou moeten beginnen gegevensstroom in het lusje van de Organisatie te zien.
 
-   U bent nu opstelling met de markering RTP en klaar om [ het creëren van segmenten ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en campagnes in real time te beginnen!
+   U bent nu opstelling met de markering RTP en klaar om [&#x200B; het creëren van segmenten &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en campagnes in real time te beginnen!
 
 1. Verifieer de markering op alle pagina&#39;s is.

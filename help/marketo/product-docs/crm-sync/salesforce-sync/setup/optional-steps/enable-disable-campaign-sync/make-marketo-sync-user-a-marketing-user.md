@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Marketo Sync gebruiker instellen als marketinggebruiker {#make-marketo-sync-user-a-marketing-user}
 
-De [ synchronisatiegebruiker van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} moet een gebruiker van de Marketing voor de de campagnesynchronisatie van Salesforce zijn om behoorlijk te werken. Hieronder wordt beschreven hoe u van de gebruiker een marketinggebruiker in Salesforce kunt maken.
+De [&#x200B; synchronisatiegebruiker van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} moet een gebruiker van de Marketing voor de de campagnesynchronisatie van Salesforce zijn om behoorlijk te werken. Hieronder wordt beschreven hoe u van de gebruiker een marketinggebruiker in Salesforce kunt maken.
 
 >[!NOTE]
 >

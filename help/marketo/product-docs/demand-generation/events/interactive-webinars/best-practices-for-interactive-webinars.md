@@ -30,7 +30,7 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * Plan back-to-back-sessies niet. Zorg ervoor dat u ten minste 30 minuten voorbereidingstijd hebt voordat u met uw webinar begint. Zo kunt u laatste wijzigingen in de presentatie uploaden, uw microfoon en camera aanpassen en nieuwe presentatoren op de hoogte brengen van de interface.
 
-* Rollen toewijzen aan uw teamleden. Voeg deze toe als cohosts en presentatoren. Gastheren en presentatoren kunnen de ruimte betreden voordat deelnemers deelnemen. Maar ben zeker aan [ ontwerp uw Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _alvorens_ toe te voegen co-gastheren en Presentatoren.
+* Rollen toewijzen aan uw teamleden. Voeg deze toe als cohosts en presentatoren. Gastheren en presentatoren kunnen de ruimte betreden voordat deelnemers deelnemen. Maar ben zeker aan [&#x200B; ontwerp uw Interactief Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _alvorens_ toe te voegen co-gastheren en Presentatoren.
 
 ### Uw gebeurtenis promoten {#promoting-your-event}
 
@@ -71,13 +71,13 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 * Schakel de herinnering voor de opname in de voorkeuren voor Ruimte in als u de sessie wilt opnemen. De herinnering verschijnt 5 minuten in de vergadering als de opname niet is gestart.
 
 * Schakel het gebied Gastheer en Presentator in en stel het in met relevante pods. Dit gebied is alleen zichtbaar voor gastheren en presentatoren en kan worden gebruikt voor samenwerking in het achterstadium. Hier kunt u enkele pods opnemen:
-   * Betrokkenheidsdashboard om de betrokkenheid van deelnemers in real-time te controleren. [ klik hier ](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} om op een korte video op te letten hoe te om het dashboard van de Overeenkomst te gebruiken.
+   * Betrokkenheidsdashboard om de betrokkenheid van deelnemers in real-time te controleren. [&#x200B; klik hier &#x200B;](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} om op een korte video op te letten hoe te om het dashboard van de Overeenkomst te gebruiken.
    * Chatpod om persoonlijke gesprekken tussen leden van presentatieteams toe te staan.
    * Notitiepod om herinneringsberichten, vragen voor de presentator of standaardvraagantwoorden te posten die u kunt kopiëren en plakken voor snelle antwoorden op veelvoorkomende vragen.
 
 * Aangepaste pods zijn apps van derden die kunnen worden gebruikt om de functionaliteit van een Adobe Connect-ruimte uit te breiden. Aangepaste pods kunnen vanuit `apps.adobeconnect.com` worden gedownload als .pod- of .zip-bestanden die vervolgens kunnen worden gedeeld in de pod Delen.
    * Sommige populaire aangepaste pods zijn Countdown Timer, Clock, Rock Paper Scissors, Word Cloud, Titler.
-   * [ klik hier ](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} om op een korte video op te letten hoe te om douanepods te gebruiken.
+   * [&#x200B; klik hier &#x200B;](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} om op een korte video op te letten hoe te om douanepods te gebruiken.
 
 **Privacy: Om de deelnemersinformatie vertrouwelijk te houden, controleer de montages hieronder:**
 
@@ -85,7 +85,7 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * **Pod Vragen en antwoorden**: De naam van deelnemer die de vraag en de naam van de gastheer/presentator indiende die antwoordde kan allebei worden verborgen. Dit kan worden bereikt door de privacyopties uit te schakelen onder de sectie &quot;Pod Vragen en antwoorden&quot; in de voorkeuren voor Ruimte.
 
-* **het Comité van het Praatje**: Het Comité van het Praatje is een praatjegebied dat geen deel van zittingsopnamen uitmaakt. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. [ klik hier ](https://helpx.adobe.com/nl/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om meer over het gebruiken van het Comité van het Praatje te lezen.
+* **het Comité van het Praatje**: Het Comité van het Praatje is een praatjegebied dat geen deel van zittingsopnamen uitmaakt. Dus als u geen chats in opnamen wilt weergeven, gebruikt u het deelvenster Chatten in plaats van de chatpod. [&#x200B; klik hier &#x200B;](https://helpx.adobe.com/nl/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} om meer over het gebruiken van het Comité van het Praatje te lezen.
 
 * **Privé Chat**: Draai van privé praatje om deelnemers te verhinderen een andere deelnemer te kunnen pingelen. Dit kan worden bereikt door de optie &quot;Deelnemers toestaan privéchatten&quot; uit te schakelen onder de sectie &quot;Chat&quot; in de voorkeuren voor Ruimte.
 
@@ -103,9 +103,9 @@ Om dat te helpen, hebben wij een lijst van beste praktijken opgesteld die in pla
 
 * Deelnemers kunnen de ruimte 15 minuten voor de geplande start betreden. Schakel 15 minuten voor de geplande start over naar de lobby-indeling voor deelnemers die vroeg aankomen.
 
-* Gebruik de host en het Presenter-gebied als een backstage-gebied voor persoonlijke coördinatie. [ klik hier ](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om op een korte video op het gebied van de Gastheer en van de Presentator te letten.
+* Gebruik de host en het Presenter-gebied als een backstage-gebied voor persoonlijke coördinatie. [&#x200B; klik hier &#x200B;](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} om op een korte video op het gebied van de Gastheer en van de Presentator te letten.
 
-* Gebruik de modus Voorbereiden om wijzigingen op het laatste moment persoonlijk aan te brengen. [ klik hier ](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} om op een korte video op Voorbereidende Wijze te letten.
+* Gebruik de modus Voorbereiden om wijzigingen op het laatste moment persoonlijk aan te brengen. [&#x200B; klik hier &#x200B;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"} om op een korte video op Voorbereidende Wijze te letten.
 
 * Gebruik het dashboard Betrokkenheid om een tab op deelnemersniveau te houden. Ga naar een opiniepeiling, stel een vraag die u accepteert/niet deelt, voeg een vraag toe in de chatpod of gebruik de aangepaste Word Cloud-pod om reacties van deelnemers te vragen en de betrokkenheidsniveaus te verhogen.
 

@@ -35,8 +35,8 @@ U kunt een e-mailprogramma maken vanuit de programmaweergave van het programma. 
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [ opstelling uw e-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} en klik **[!UICONTROL Approve Program]**.
+1. [&#x200B; opstelling uw e-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} en klik **[!UICONTROL Approve Program]**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Naast het gedetailleerde dashboard, is een voordeel aan het gebruiken van een [ e-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} in plaats van een slimme campagne de capaciteit om een [ test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} gemakkelijk uit te voeren. Veel plezier!
+   Naast het gedetailleerde dashboard, is een voordeel aan het gebruiken van een [&#x200B; e-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"} in plaats van een slimme campagne de capaciteit om een [&#x200B; test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} gemakkelijk uit te voeren. Veel plezier!

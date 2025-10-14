@@ -55,4 +55,4 @@ Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesy
 
 >[!MORELIKETHIS]
 >
->[ Types van Bericht ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}
+>[&#x200B; Types van Bericht &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

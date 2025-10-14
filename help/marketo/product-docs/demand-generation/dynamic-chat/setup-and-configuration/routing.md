@@ -20,7 +20,7 @@ Aangepaste regel: u kunt specifieke agenten kiezen om vergaderingen te ontvangen
 
 >[!NOTE]
 >
->Het Verpletteren van de rekening wordt gegeven de hoogste prioriteit. Wanneer een bezoeker het punt in het gesprek bereikt om of een vergadering te boeken of een levend praatje in werking te stellen, [ Rekening die ](#account-routing) verplettert wordt eerst gecontroleerd alvorens andere verpletterende opties worden overwogen.
+>Het Verpletteren van de rekening wordt gegeven de hoogste prioriteit. Wanneer een bezoeker het punt in het gesprek bereikt om of een vergadering te boeken of een levend praatje in werking te stellen, [&#x200B; Rekening die &#x200B;](#account-routing) verplettert wordt eerst gecontroleerd alvorens andere verpletterende opties worden overwogen.
 
 ## Een aangepaste regel maken {#create-a-custom-rule}
 
@@ -66,13 +66,13 @@ Identificeer en upload uw doelaccount en de respectievelijke verkoopeigenaren en
 
 >[!PREREQUISITES]
 >
->Alvorens _Rekening Verpletterend_ in Dynamic Chat zichtbaar is, moeten de toestemmingen in Admin Console worden toegelaten. Zie [ toestemmingen ](#enable-permissions) hieronder toelaten.
+>Alvorens _Rekening Verpletterend_ in Dynamic Chat zichtbaar is, moeten de toestemmingen in Admin Console worden toegelaten. Zie [&#x200B; toestemmingen &#x200B;](#enable-permissions) hieronder toelaten.
 
 ### Machtigingen inschakelen {#enable-permissions}
 
 +++ Account die rechten routeert inschakelen
 
-1. Login aan [ https://adminconsole.adobe.com/ ](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; https://adminconsole.adobe.com/ &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
 
 1. Onder _Producten_, uitgezochte **Dynamic Chat**.
 
@@ -86,7 +86,7 @@ Identificeer en upload uw doelaccount en de respectievelijke verkoopeigenaren en
 
    ![](assets/routing-12.png)
 
-1. Klik uitgeven pictogram (![ geef pictogram ](assets/icon-routing-edit.png) uit) naast _Configuratie_.
+1. Klik uitgeven pictogram (![&#x200B; geef pictogram &#x200B;](assets/icon-routing-edit.png) uit) naast _Configuratie_.
 
    ![](assets/routing-13.png)
 

@@ -31,6 +31,6 @@ Metadata.xml van de instantie van SSO van uw team zou de uitgever URL, het eindp
 
 Wij zullen ook de Plaats SSO voor de rekening van SSO van uw bedrijf een uniek domein moeten zijn. We hebben bijvoorbeeld een uniek subdomein nodig, zoals `toutapp.pingidentity.com` of een vergelijkbaar subdomein. Zonder dit type unieke id kunnen we geen SAML instellen vanaf het dashboard.
 
-Één Login en Okta verstrekken niet altijd unieke herkenningstekens wanneer het toewijzen van een URL. Als u Okta of Één Login gebruikt, betekent het dat wij niet één login van de dashboardknoop kunnen plaatsen. Wij zullen nog het van het Enige Ondertekenen op knoop op de [ Webtoepassing ](https://toutapp.com/login) kunnen plaatsen.
+Één Login en Okta verstrekken niet altijd unieke herkenningstekens wanneer het toewijzen van een URL. Als u Okta of Één Login gebruikt, betekent het dat wij niet één login van de dashboardknoop kunnen plaatsen. Wij zullen nog het van het Enige Ondertekenen op knoop op de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) kunnen plaatsen.
 
 Zodra wij die informatie hebben, zullen wij met ons technische team werken om dit voor uw abonnement op te stellen.

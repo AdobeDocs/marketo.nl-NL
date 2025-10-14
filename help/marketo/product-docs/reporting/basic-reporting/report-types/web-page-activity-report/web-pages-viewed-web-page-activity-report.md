@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina {#web-pages-viewed-web-page-activity-report}
 
-Van een [[!UICONTROL Web Page Activity] rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), kunt u de specifieke pagina&#39;s zien die door de mensen in het rapport werden bekeken.
+Van een [[!UICONTROL Web Page Activity] rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), kunt u de specifieke pagina&#39;s zien die door de mensen in het rapport werden bekeken.
 
 >[!PREREQUISITES]
 >
->Om activiteit van uw website in Marketo te vangen, moet u eerst opstelling [ op uw plaats  [!DNL Munchkin]  eerst.](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>Om activiteit van uw website in Marketo te vangen, moet u eerst opstelling [&#x200B; op uw plaats  [!DNL Munchkin]  eerst.](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-1. In uw [ rapport van de Activiteit van de Pagina van het Web ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), klik de naam van de persoon.
+1. In uw [&#x200B; rapport van de Activiteit van de Pagina van het Web &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), klik de naam van de persoon.
 
    ![](assets/web-pages-viewed-web-page-activity-report-1.png)
 
@@ -29,4 +29,4 @@ Van een [[!UICONTROL Web Page Activity] rapport ](/help/marketo/product-docs/rep
 
    >[!MORELIKETHIS]
    >
-   >Creeer het rapport van de Activiteit van het Web van het a [ Bedrijf ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) om te zien welke bedrijven uw plaats bezoeken.
+   >Creeer het rapport van de Activiteit van het Web van het a [&#x200B; Bedrijf &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) om te zien welke bedrijven uw plaats bezoeken.

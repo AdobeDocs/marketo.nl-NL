@@ -17,7 +17,7 @@ Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjab
 
 >[!PREREQUISITES]
 >
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [&#x200B; Systeem van Identity Management van Adobe (IMS) &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjab
 
 ## Een e-mailsjabloon maken {#create-an-email-template}
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
@@ -45,7 +45,7 @@ Voor een versnelde en verbeterde ontwerpprocedure kunt u zelfstandige e-mailsjab
 
 ## Uw sjabloon ontwerpen {#design-your-template}
 
-In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [ Ontwerp van kras ](#design-from-scratch), [ voert uw eigen HTML ](#import-html) in, of [ selecteert een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
+In het _Ontwerp uw malplaatje_ pagina, kunt u van een paar opties kiezen. [&#x200B; Ontwerp van kras &#x200B;](#design-from-scratch), [&#x200B; voert uw eigen HTML &#x200B;](#import-html) in, of [&#x200B; selecteert een bestaand malplaatje &#x200B;](#choose-a-template) (één van onze steekproeven of één u reeds) bewaarde.
 
 ![](assets/design-your-template-1.png)
 
@@ -55,7 +55,7 @@ Definieer de inhoud door structuurelementen toe te voegen en te verplaatsen met 
 
 1. In het _Ontwerp uw malplaatje_ pagina, uitgezocht **Ontwerp van kras**.
 
-1. Voeg [ structuur en inhoud ](#add-structure-and-content) toe.
+1. Voeg [&#x200B; structuur en inhoud &#x200B;](#add-structure-and-content) toe.
 
 ### HTML importeren {#import-your-html}
 
@@ -149,9 +149,9 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 ### Fragmenten toevoegen {#add-fragments}
 
-1. Om tot uw fragmenten toegang te hebben, selecteer het _pictogram van Fragmenten_ ( ![ pictogram van Fragmenten ](assets/icon-fragments.svg)) in de linkernavigatie.
+1. Om tot uw fragmenten toegang te hebben, selecteer het _pictogram van Fragmenten_ ( ![&#x200B; pictogram van Fragmenten &#x200B;](assets/icon-fragments.svg)) in de linkernavigatie.
 
-   ![ selecteer een fragment ](assets/add-fragments-1.png){width="700" zoomable="yes"}
+   ![&#x200B; selecteer een fragment &#x200B;](assets/add-fragments-1.png){width="700" zoomable="yes"}
 
 1. Sleep een van de fragmenten naar de tijdelijke aanduiding voor het structurele onderdeel.
 
@@ -165,7 +165,7 @@ Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTRO
 
 ### Elementen toevoegen {#add-assets}
 
-Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
+Voeg beelden toe die in de [&#x200B; sectie van Beelden en van Dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >
@@ -226,7 +226,7 @@ Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het 
 
    ![](assets/personalize-content-1.png)
 
-1. Klik het gewenste [ symbolische type ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+1. Klik het gewenste [&#x200B; symbolische type &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
    ![](assets/personalize-content-2.png)
 
@@ -298,7 +298,7 @@ Van **Meer** opties in de inhoudsredacteur, kunt u de volgende acties nemen:
 
 * **malplaatje van het Terugstellen**: Selecteer dit om het visuele e-maildesigner canvas aan een lege lei te ontruimen en de bouwende inhoud opnieuw te beginnen.
 
-* **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals die in [ wordt geschetst Ontwerp uw malplaatje ](#design-your-template) sectie.
+* **Verandering uw ontwerp**: Terugkeer aan het _Ontwerp uw malplaatje_ pagina. Van hier, kunt u om het even welke cursus van actie zoals die in [&#x200B; wordt geschetst Ontwerp uw malplaatje &#x200B;](#design-your-template) sectie.
 
 * **de Uitvoer HTML**: Download de inhoud in het visuele canvas aan uw lokaal systeem in formaat HTML dat als zip dossier wordt verpakt.
 
@@ -368,4 +368,4 @@ Van de _E-mail malplaatjes_ lijst pagina, selecteer veelvoudige malplaatjes door
 
 >[!MORELIKETHIS]
 >
->[ E-mail authoring ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe ontwerper tot stand te brengen te ontwerpen en van verwijzingen te voorzien.
+>[&#x200B; E-mail authoring &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: Leer hoe te om, een e-mail in de nieuwe ontwerper tot stand te brengen te ontwerpen en van verwijzingen te voorzien.

@@ -17,11 +17,11 @@ De volgende functies zijn opgenomen in de release van mei 2014. Controleer of de
 
 ## Workspace verwijderen {#delete-workspace}
 
-Nu kunt u [ een ongebruikte werkruimte ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) schrappen. Verplaats alle elementen naar een andere werkruimte voordat u de werkruimte verwijdert.
+Nu kunt u [&#x200B; een ongebruikte werkruimte &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) schrappen. Verplaats alle elementen naar een andere werkruimte voordat u de werkruimte verwijdert.
 
 ## Eerste cast plannen {#schedule-first-cast}
 
-In betrokkenheidsprogramma&#39;s, kunt u de datum voor [ eerst plannen om ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) in werking te stellen. Bijvoorbeeld, specificeer de kadentie om twee weken moet zijn en selecteer de datum van de eerste gietvorm.
+In betrokkenheidsprogramma&#39;s, kunt u de datum voor [&#x200B; eerst plannen om &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) in werking te stellen. Bijvoorbeeld, specificeer de kadentie om twee weken moet zijn en selecteer de datum van de eerste gietvorm.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,7 +33,7 @@ Nu krijgt iedereen meerdere programma&#39;s, streams en communicatielimieten.
 
 ## Koppeling bijhouden in tekste-mails {#link-tracking-in-text-emails}
 
-[ voeg dubbele vierkante steunen ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) rond URLs in de tekstversie van uw e-mail toe om erop te wijzen wanneer de verbindingen in opnieuw gerichte het volgen van Marketo verbindingen zouden moeten worden omgezet
+[&#x200B; voeg dubbele vierkante steunen &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) rond URLs in de tekstversie van uw e-mail toe om erop te wijzen wanneer de verbindingen in opnieuw gerichte het volgen van Marketo verbindingen zouden moeten worden omgezet
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Bekijk hoe je links zich in e-mails zullen gedragen. Voorbeelde-mails geven nu k
 
 ## [!UICONTROL Abort Campaign] {#abort-campaign}
 
-Geen paniek! Als u een fout vindt, gebruik de nieuwe [ campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) knoop van de abortuscampagne onmiddellijk om campagnes in hun sporen tegen te houden. U ontvangt een melding waarin wordt aangegeven hoeveel leads in elke flowstap waren verwerkt toen de campagne werd gestopt.
+Geen paniek! Als u een fout vindt, gebruik de nieuwe [&#x200B; campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) knoop van de abortuscampagne onmiddellijk om campagnes in hun sporen tegen te houden. U ontvangt een melding waarin wordt aangegeven hoeveel leads in elke flowstap waren verwerkt toen de campagne werd gestopt.
 
 ## [!UICONTROL Sales Insight] in het Japans, Portugees en Spaans {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Download de nieuwste versie van [!UICONTROL Sales Insight] van AppExchange, zoda
 
 ## Tijdschema voor de status en het succes van het programma in de analyse van het lidmaatschap van het programma {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Bekijk hoeveel [ leden in elke Status van het Programma ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) zijn en wanneer zij in elke status, met inbegrip van de datum veranderden toen zij het Succes van het Programma bereikten.
+Bekijk hoeveel [&#x200B; leden in elke Status van het Programma &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) zijn en wanneer zij in elke status, met inbegrip van de datum veranderden toen zij het Succes van het Programma bereikten.
 
 ## E-mails testen in [!UICONTROL Email Analysis] {#a-b-test-emails-in-email-analysis}
 
-Rapport over elk van uw [ A/B test e-mailvarianten ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in [!UICONTROL Email Analysis].
+Rapport over elk van uw [&#x200B; A/B test e-mailvarianten &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in [!UICONTROL Email Analysis].
 
 ## Wijzigingen in pakket analyseren {#analytics-packaging-changes}
 
@@ -81,4 +81,4 @@ Revenue Cycle Modeler en Success Path Analyzer zijn nu inbegrepen in MA Standard
 
 ## Info mobiele platform {#mobile-platform-info}
 
-[ Segment en trekker ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) van lood die en e-mails van hun mobiele apparaten openen en klikken.
+[&#x200B; Segment en trekker &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) van lood die en e-mails van hun mobiele apparaten openen en klikken.

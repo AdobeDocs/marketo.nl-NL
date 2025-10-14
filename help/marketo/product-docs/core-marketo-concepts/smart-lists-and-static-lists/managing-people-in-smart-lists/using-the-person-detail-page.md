@@ -60,7 +60,7 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 
 >[!NOTE]
 >
->U kunt de info van de Kans [ ook zien die via API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities) voor instanties wordt opgenomen die niet met CRM worden gesynchroniseerd.
+>U kunt de info van de Kans [&#x200B; ook zien die via API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/opportunities) voor instanties wordt opgenomen die niet met CRM worden gesynchroniseerd.
 
 ## Een veld bewerken {#editing-a-field}
 
@@ -100,8 +100,8 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 >* Mogelijkheden voor SFDC-contactpersonen
 >* Bepaalde Marketo-specifieke velden, zoals Aanmaakdatum en Oorspronkelijk Source-type.
 >
->Leer meer over [ Systeem Beheerde Gebieden ](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>Leer meer over [&#x200B; Systeem Beheerde Gebieden &#x200B;](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[ Creërend een Lusje van de Douane voor de Pagina van het Detail van de Persoon ](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[&#x200B; Creërend een Lusje van de Douane voor de Pagina van het Detail van de Persoon &#x200B;](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

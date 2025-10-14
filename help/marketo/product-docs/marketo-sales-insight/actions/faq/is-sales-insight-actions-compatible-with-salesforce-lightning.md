@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Ja, [!DNL Sales Insight Actions] is compatibel met [!DNL Salesforce Lightning] .
 
-Gelieve te klikken hier [ voor de Gids van de Installatie en van het Succes.](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+Gelieve te klikken hier [&#x200B; voor de Gids van de Installatie en van het Succes.](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
 
 >[!NOTE]
 >

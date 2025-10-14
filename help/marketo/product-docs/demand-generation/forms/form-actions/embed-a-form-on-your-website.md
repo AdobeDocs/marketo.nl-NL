@@ -47,6 +47,6 @@ Geef nu gewoon de insluitcode aan uw webontwikkelaar en laat deze deze toevoegen
 
 >[!NOTE]
 >
->Als uw ontwikkelaar de blik of toegang geavanceerde API functies wil aanpassen, hen tonen [ Forms 2.0 de Pagina van Ontwikkelaars ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Als uw ontwikkelaar de blik of toegang geavanceerde API functies wil aanpassen, hen tonen [&#x200B; Forms 2.0 de Pagina van Ontwikkelaars &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
-Geweldig werk! Wilt u [ code inbedden om lichtbakcode ](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) te omvatten? Dat is ook makkelijk!
+Geweldig werk! Wilt u [&#x200B; code inbedden om lichtbakcode &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) te omvatten? Dat is ook makkelijk!

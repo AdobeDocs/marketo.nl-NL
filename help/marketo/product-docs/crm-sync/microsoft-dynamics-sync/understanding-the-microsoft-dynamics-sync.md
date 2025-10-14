@@ -39,7 +39,7 @@ De synchronisatie tussen Marketo en [!DNL Dynamics] is bidirectioneel voor leads
 * [Kansen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Aangepaste entiteiten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-De [ geloofsbrieven u in Marketo voor  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) ingaat worden gebruikt om gegevens over te synchroniseren.
+De [&#x200B; geloofsbrieven u in Marketo voor  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) ingaat worden gebruikt om gegevens over te synchroniseren.
 
 >[!NOTE]
 >

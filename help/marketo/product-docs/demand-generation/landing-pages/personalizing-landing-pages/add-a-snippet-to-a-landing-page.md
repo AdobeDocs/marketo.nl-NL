@@ -17,7 +17,7 @@ Fragmenten zijn kleine stukjes HTML die regels kunnen volgen en gepersonaliseerd
 
 >[!PREREQUISITES]
 >
->[ creeer een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[&#x200B; creeer een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. Selecteer de openingspagina en klik op **[!UICONTROL Edit Draft]** .
 
@@ -37,6 +37,6 @@ Fragmenten zijn kleine stukjes HTML die regels kunnen volgen en gepersonaliseerd
 
    >[!NOTE]
    >
-   >Als u een fragment aan Geleide het Landen Pagina wilt toevoegen, zie [ dit artikel ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >Als u een fragment aan Geleide het Landen Pagina wilt toevoegen, zie [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Geweldig werk! Nu weet u hoe u fragmenten kunt toevoegen aan uw bestemmingspagina&#39;s.

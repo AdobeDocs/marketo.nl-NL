@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # E-mailkolommen en indeling van e-mailpagina {#email-columns-and-email-page-layout}
 
-U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van het [ Centrum van het Bevel ](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md) zichtbaar te zijn. Uw configuratie-instellingen worden opgeslagen voor elke e-mailsubmap (bijv. Afbezorgd, Mislukt, Gepland, enz.).
+U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van het [&#x200B; Centrum van het Bevel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md) zichtbaar te zijn. Uw configuratie-instellingen worden opgeslagen voor elke e-mailsubmap (bijv. Afbezorgd, Mislukt, Gepland, enz.).
 
 ## E-mailkolommen {#email-columns}
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 1D {#template-1d}
 
-Klik met de rechtermuisknop om [ Sjabloon 1D te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=nl-NL)
+Klik met de rechtermuisknop om [&#x200B; Sjabloon 1D te downloaden &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=nl-NL)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Template1 1D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=nl-NL)
+[&#x200B; Template1 1D.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=nl-NL)

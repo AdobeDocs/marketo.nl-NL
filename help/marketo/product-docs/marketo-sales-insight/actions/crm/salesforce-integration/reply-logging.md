@@ -19,9 +19,9 @@ Met Handelingen van Insight voor verkoopdoeleinden kunt u de antwoorden van je v
 ## Vereisten {#requirements}
 
 * E-mails via API-registratie moeten worden geregistreerd
-* Moet [ een antwoord ](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works) kunnen volgen
+* Moet [&#x200B; een antwoord &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works) kunnen volgen
 * Moet zijn verbonden met [!DNL Salesforce]
-* Moet [!DNL Salesforce] [ API vraag ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
+* Moet [!DNL Salesforce] [&#x200B; API vraag &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
 
 ## Logboekregistratie voor reactie inschakelen {#enable-reply-logging}
 

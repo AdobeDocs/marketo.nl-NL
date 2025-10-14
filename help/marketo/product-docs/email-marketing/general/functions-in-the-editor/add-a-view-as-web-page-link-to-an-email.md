@@ -39,4 +39,4 @@ Hier is een voorbeeld van hoe het eruit ziet:
 >
 >De koppeling Weergeven als webpagina wordt pas weergegeven nadat u het e-mailbericht hebt verzonden. Stuur uzelf een test om te bekijken.
 
-Om de standaardtekst te veranderen, zie [ uitgeven &quot;Mening als Web-pagina&quot;Bericht ](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Om de standaardtekst te veranderen, zie [&#x200B; uitgeven &quot;Mening als Web-pagina&quot;Bericht &#x200B;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 1E {#template-1e}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 1E ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 1E &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=nl-NL)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 1E.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=nl-NL)
+[&#x200B; Malplaatje 1E.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=nl-NL)

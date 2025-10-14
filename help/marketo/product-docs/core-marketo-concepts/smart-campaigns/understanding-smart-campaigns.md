@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Als Marketo Engage een auto is, werkt de Slimme Campagne als de motor. Slimme campagnes kunnen meer dan u denkt en u kunt er eenvoudig mee aan de slag.
 
-De slimme Campagne heeft 3 belangrijkste gebieden: De [ Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [ Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} en [ de lusjes van het Programma ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
+De slimme Campagne heeft 3 belangrijkste gebieden: De [&#x200B; Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [&#x200B; Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} en [&#x200B; de lusjes van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
 ## Slimme lijst {#smart-list}
 
@@ -59,4 +59,4 @@ Er is een enorme hoeveelheid dingen die de slimme campagne kan doen. Je krijgt h
 
 >[!MORELIKETHIS]
 >
->[ creeer een Nieuwe Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[&#x200B; creeer een Nieuwe Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

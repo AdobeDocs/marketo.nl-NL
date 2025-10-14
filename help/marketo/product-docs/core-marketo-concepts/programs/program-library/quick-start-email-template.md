@@ -24,7 +24,7 @@ De e-maileditor van Marketo Engage is uitgerust met functies die u helpen de lay
 
 * **Variabelen**: Wanneer een module wordt geselecteerd, verschijnen de variabelen op de rechterkant van de redacteur. Deze kunnen worden gebruikt om attributen van de module aan te passen die niet gemakkelijk via beeld of tekstelementen editable zijn.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Overzicht van modules {#modules-summary}
 

@@ -17,19 +17,19 @@ Er zijn verschillende dingen die u moet doen om klaar te zijn voor de gebeurteni
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [ leer meer ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Een nieuwe Marketo-rol maken {#create-a-new-marketo-role}
 
-Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [ creeer een nieuwe rol van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) voor [!DNL iPad] of [!DNL Android] gebruikers, met toestemming om tot de mobiele toepassing toegang te hebben.
+Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [&#x200B; creeer een nieuwe rol van Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) voor [!DNL iPad] of [!DNL Android] gebruikers, met toestemming om tot de mobiele toepassing toegang te hebben.
 
 ## Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis {#invite-new-tablet-users-to-the-event}
 
-[ nodigt nieuwe tabletgebruikers aan de gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) uit en wijst hen de nieuwe rol toe.
+[&#x200B; nodigt nieuwe tabletgebruikers aan de gebeurtenis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) uit en wijst hen de nieuwe rol toe.
 
 ## Een nieuw Marketo-gebeurtenisprogramma maken {#create-a-new-marketo-event-program}
 
-[ creeer een nieuw de gebeurtenisprogramma van Marketo ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) om de status van uw mensen te vangen aangezien zij door verschillende stadia vorderen en nauwkeurige maatregelen van ROI voor uw marketing initiatieven krijgen.
+[&#x200B; creeer een nieuw de gebeurtenisprogramma van Marketo &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) om de status van uw mensen te vangen aangezien zij door verschillende stadia vorderen en nauwkeurige maatregelen van ROI voor uw marketing initiatieven krijgen.
 
 ## Gebeurtenisdatums opgeven {#specify-the-event-dates}
 

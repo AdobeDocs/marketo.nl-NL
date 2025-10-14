@@ -17,7 +17,7 @@ Met Marketo Engage kunt u het maximumaantal personen instellen dat in aanmerking
 
 >[!PREREQUISITES]
 >
->Ben zeker om [ persoonlijke beperkingen voor Slimme Campagnes ](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} in Marketo toe te laten Admin.
+>Ben zeker om [&#x200B; persoonlijke beperkingen voor Slimme Campagnes &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} in Marketo toe te laten Admin.
 
 1. Ga in **[!UICONTROL Marketing Activities]** naar uw slimme campagne en klik op **[!UICONTROL Schedule]** .
 

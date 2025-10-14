@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een programma importeren {#import-a-program}
 
-Een programma kan worden geïmporteerd van het ene Marketo Engage-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Ook, kunt u een vooraf gebouwd programma van de [ Bibliotheek van het Programma van Marketo invoeren ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Een programma kan worden geïmporteerd van het ene Marketo Engage-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Ook, kunt u een vooraf gebouwd programma van de [&#x200B; Bibliotheek van het Programma van Marketo invoeren &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -31,9 +31,9 @@ Een programma kan worden geïmporteerd van het ene Marketo Engage-abonnement naa
 
    >[!NOTE]
    >
-   >* De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Leer meer over [ het beheren van gebruikersrollen en toestemmingen ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Leer meer over [&#x200B; het beheren van gebruikersrollen en toestemmingen &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >* Om een zandbakrekening met uw levend abonnement aan te sluiten, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Om een zandbakrekening met uw levend abonnement aan te sluiten, contacteer [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Selecteer een Marketo **[!UICONTROL Subscription]** en een programma om te importeren. Klik op **[!UICONTROL Next]**.
 
@@ -85,4 +85,4 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, de malplaat
 
 >[!CAUTION]
 >
->Wanneer het invoeren van een programma, zullen de e-mails/het Bestaan Pagina&#39;s die [ dynamische inhoud ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} bevatten worden overgeslagen.
+>Wanneer het invoeren van een programma, zullen de e-mails/het Bestaan Pagina&#39;s die [&#x200B; dynamische inhoud &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} bevatten worden overgeslagen.

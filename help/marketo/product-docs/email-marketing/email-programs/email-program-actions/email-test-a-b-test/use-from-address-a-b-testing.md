@@ -17,7 +17,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een interessante test is de **[!UICO
 
 >[!PREREQUISITES]
 >
->[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
+>[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
 
 1. Klik onder de tegel **[!UICONTROL Email]** terwijl de e-mail is geselecteerd op **[!UICONTROL Add A/B Test]** .
 
@@ -55,4 +55,4 @@ U kunt uw e-mailberichten eenvoudig testen. Een interessante test is de **[!UICO
    >
    >**wij adviseren u vermijden plaatsend de steekproefgrootte aan 100%**. Als u een statische lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in het publiek en de winnaar gaat aan niemand. Als u a **slimme** lijst gebruikt, die de steekproefgrootte aan 100% plaatst verzendt e-mail naar iedereen in het publiek _op dat ogenblik_. Wanneer het e-mailprogramma later opnieuw wordt uitgevoerd, ontvangen alle nieuwe personen die in aanmerking komen voor de slimme lijst ook de e-mail omdat ze nu in het publiek zijn opgenomen.
 
-   OK, we zijn er bijna. Nu moeten wij [ de criteria van de A/B testwinnaar ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.
+   OK, we zijn er bijna. Nu moeten wij [&#x200B; de criteria van de A/B testwinnaar &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.

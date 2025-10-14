@@ -31,4 +31,4 @@ Verzend nu uw bericht of plant het voor later.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Eenvoudig! Last but not least is de [ stap van de Goedkeuring ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).
+Eenvoudig! Last but not least is de [&#x200B; stap van de Goedkeuring &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).

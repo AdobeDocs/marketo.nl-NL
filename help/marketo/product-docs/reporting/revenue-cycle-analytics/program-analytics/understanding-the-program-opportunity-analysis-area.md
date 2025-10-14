@@ -190,4 +190,4 @@ _&#42;Alle Kansen die om het even welk type van attributiecrediet aan een Progra
 
 >[!MORELIKETHIS]
 >
->[ creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[&#x200B; creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

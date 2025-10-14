@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van december 2014. Controleer 
 
 ## [!DNL Sales Insight] Rapporten {#sales-insight-reports}
 
-Het [[!DNL Sales Insight]  Rapport van de Prestaties E-mail ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) staat u toe om e-mailmetriek door e-mail en Vertegenwoordiger te zien. Deze ondersteunt e-mailberichten die via [!DNL Salesforce] , [!DNL Microsoft Dynamics] , de [!DNL Outlook] plug-in en de [!DNL Gmail] plug-in worden verzonden.
+Het [[!DNL Sales Insight]  Rapport van de Prestaties E-mail &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) staat u toe om e-mailmetriek door e-mail en Vertegenwoordiger te zien. Deze ondersteunt e-mailberichten die via [!DNL Salesforce] , [!DNL Microsoft Dynamics] , de [!DNL Outlook] plug-in en de [!DNL Gmail] plug-in worden verzonden.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ Het [[!DNL Sales Insight]  Rapport van de Prestaties E-mail ](/help/marketo/prod
 
 ## [!DNL Facebook] Aangepast publiek {#facebook-custom-audiences}
 
-Zodra uw Marketo admin [[!DNL Facebook]  via [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) heeft toegevoegd, kunt u gemakkelijk creëren, bijwerken of [ a  [!DNL Facebook]  Aangepast publiek met lood van een statische of slimme lijst van Marketo ](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) vervangen. Zoek het nieuwe [!DNL Facebook] pictogram langs de bodem van het loodnet van om het even welke statische of slimme lijst.
+Zodra uw Marketo admin [[!DNL Facebook]  via [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) heeft toegevoegd, kunt u gemakkelijk creëren, bijwerken of [&#x200B; a  [!DNL Facebook]  Aangepast publiek met lood van een statische of slimme lijst van Marketo &#x200B;](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) vervangen. Zoek het nieuwe [!DNL Facebook] pictogram langs de bodem van het loodnet van om het even welke statische of slimme lijst.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Verbeterde klonen in alle werkruimten  {#improved-cloning-across-workspaces}
 
-[ het Klonen van een programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) aan een andere werkruimte is nooit gemakkelijker geweest! Wanneer u op Klonen klikt, selecteert u de doelwerkruimte. Klonen niet meer naar een map en verplaatsen vervolgens de map!
+[&#x200B; het Klonen van een programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) aan een andere werkruimte is nooit gemakkelijker geweest! Wanneer u op Klonen klikt, selecteert u de doelwerkruimte. Klonen niet meer naar een map en verplaatsen vervolgens de map!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Zodra uw Marketo admin [[!DNL Facebook]  via [!UICONTROL Admin] > [!UICONTROL La
 
 ## Verwijzing slimme lijst {#reference-smart-list}
 
-[ Slimme lijsten die met een andere werkruimte worden gedeeld kunnen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) worden van verwijzingen voorzien wanneer het bouwen van een slimme lijst of een stroom.
+[&#x200B; Slimme lijsten die met een andere werkruimte worden gedeeld kunnen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) worden van verwijzingen voorzien wanneer het bouwen van een slimme lijst of een stroom.
 
 ## Verbeteringen voor importeren weergeven {#list-import-improvements}
 
-[ de dossiers van de Invoer ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) die in UTF-16, verschuiving-JIS, of EUC-JP worden gecodeerd. Wij blijven UTF-8-gecodeerde bestanden ondersteunen.
+[&#x200B; de dossiers van de Invoer &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) die in UTF-16, verschuiving-JIS, of EUC-JP worden gecodeerd. Wij blijven UTF-8-gecodeerde bestanden ondersteunen.
 
 ## Koppelingen bijhouden in e-mailscripts {#link-tracking-in-email-scripting}
 
@@ -65,7 +65,7 @@ Drie nieuwe oproepen voor de Leiding &amp; de REST API van de Activiteit:
 
 ・ Lead samenvoegen
 
-De volledige details zullen na de versie in [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) beschikbaar zijn
+De volledige details zullen na de versie in [&#x200B; https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) beschikbaar zijn
 
 ## [!DNL Munchkin Javascript] Verbeterde compatibiliteit {#munchkin-javascript-compatibility-enhancements}
 

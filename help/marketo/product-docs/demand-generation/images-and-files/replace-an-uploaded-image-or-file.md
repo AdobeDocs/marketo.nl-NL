@@ -45,5 +45,5 @@ Goed gedaan!
 
 >[!MORELIKETHIS]
 >
->* [ Onderzoek Geüploade Beelden en Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [ vind URL van een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [&#x200B; Onderzoek Geüploade Beelden en Dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [&#x200B; vind URL van een Geüploade Beeld of Dossier &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

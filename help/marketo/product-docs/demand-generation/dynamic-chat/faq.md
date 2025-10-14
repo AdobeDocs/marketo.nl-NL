@@ -16,7 +16,7 @@ Zie hieronder voor antwoorden op een aantal veelgestelde vragen over Dynamic Cha
 
 **ik heb geen toegang tot Dynamic Chat. Hoe kan ik het krijgen?**
 
-Gelieve te bereiken uit uw Admin van Marketo Engage en zorg ervoor zij u als gebruiker [ in Adobe Admin Console hebben toegevoegd.](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}
+Gelieve te bereiken uit uw Admin van Marketo Engage en zorg ervoor zij u als gebruiker [&#x200B; in Adobe Admin Console hebben toegevoegd.](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}
 
 **kan ik Dynamic Chat overal op mijn bedrijfwebsite installeren of werkt het slechts op Marketo het Landing Pages?**
 
@@ -24,11 +24,11 @@ Het Dynamic Chat JavaScript-fragment kan zowel op elke website als op Marketo La
 
 **hoe lang wordt het gegeven voor het melden opgeslagen?**
 
-90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [ pagina van de Beschrijving van het Product ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te bezoeken.
+90 dagen. Voor een volledige lijst van grenzen/parameters, gelieve de Marketo Engage [&#x200B; pagina van de Beschrijving van het Product &#x200B;](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} te bezoeken.
 
 **steunt Dynamic Chat om het even welke talen naast Engels?**
 
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Spaans, Duits, Japans, Nederlands, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Leer meer in [ Veranderend de Taal ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Spaans, Duits, Japans, Nederlands, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees en Traditioneel Chinees. Leer meer in [&#x200B; Veranderend de Taal &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
 **steunt u functionaliteit AI/NLP?**
 
@@ -88,15 +88,15 @@ Een dialoog is een gesprek dat automatisch wordt getoond aan Webbezoekers die aa
 
 **is er een manier om Dynamic Chat aan boekvergaderingen van e-mail direct te gebruiken?**
 
-Ja! [ leer hoe ](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
+Ja! [&#x200B; leer hoe &#x200B;](https://nation.marketo.com/t5/product-blogs/using-dynamic-chat-conversational-flows-for-meeting-booking/ba-p/340936){target="_blank"}.
 
 **wat precies termen als &quot;Behoefte&quot;of &quot;Verkregen Mensen&quot;betekenen?**
 
 Er worden meerdere termen gebruikt in Dynamic Chat. Voor veel van deze zaken zijn definities te vinden in de hulpartikelen op hun respectieve gebieden.
 
-* De termijnen van de analyse zoals &quot;Verkregen Mensen&quot;[ kunnen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"} worden gevonden.
-* De slimme Trekker van de Lijst/de definities van de Filter [ kunnen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"} worden gevonden.
-* De beschrijvingen van de diverse kaarten van Designer van de Stroom [ kunnen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} worden gevonden.
+* De termijnen van de analyse zoals &quot;Verkregen Mensen&quot;[&#x200B; kunnen hier &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"} worden gevonden.
+* De slimme Trekker van de Lijst/de definities van de Filter [&#x200B; kunnen hier &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"} worden gevonden.
+* De beschrijvingen van de diverse kaarten van Designer van de Stroom [&#x200B; kunnen hier &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} worden gevonden.
 
 **Kan ik Dynamic Chat zonder Marketo Engage gebruiken?**
 

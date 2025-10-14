@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Positie van formulierlabel wijzigen {#change-form-label-position}
 
-Wanneer [ creërend een vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), kunt u het plaatsen van de etiketten van het vormgebied zeer gemakkelijk veranderen. Zo gaat het.
+Wanneer [&#x200B; creërend een vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), kunt u het plaatsen van de etiketten van het vormgebied zeer gemakkelijk veranderen. Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -56,4 +56,4 @@ Goed gedaan! Zie hoe eenvoudig het was om de labelposities op een formulier te w
 
 >[!MORELIKETHIS]
 >
->[ verander de Familie van de Doopvont van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[&#x200B; verander de Familie van de Doopvont van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

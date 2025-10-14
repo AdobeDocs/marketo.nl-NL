@@ -15,14 +15,14 @@ ht-degree: 0%
 
 U moet bekend zijn met de bouwstenen en de aanbevolen volgorde voor het maken van Events in Marketo. U zou ook werkende kennis van de volgende concepten van Marketo moeten hebben:
 
-* [ de Programma&#39;s van Marketo ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} evenals Gebeurtenissen, en de verschillen tussen hen
-* [ Kanalen ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
-* [ Lokale Assets ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
-* [ De Campagnes van het Kind ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} en [ Statussen van het Programma ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
+* [&#x200B; de Programma&#39;s van Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} evenals Gebeurtenissen, en de verschillen tussen hen
+* [&#x200B; Kanalen &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+* [&#x200B; Lokale Assets &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
+* [&#x200B; De Campagnes van het Kind &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} en [&#x200B; Statussen van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->Gelieve te verwijzen naar de [ Marketo API documentatie ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} voor meer informatie over Marketo APIs.
+>Gelieve te verwijzen naar de [&#x200B; Marketo API documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} voor meer informatie over Marketo APIs.
 
 ## Vereisten {#prerequisites}
 
@@ -39,10 +39,10 @@ Voor de integratie met Marketo ON24 is het volgende vereist:
 
 Ga als volgt te werk om een gebeurtenis te maken met de Marketo On24-adapter:
 
-1. [ creeer Uw Gebeurtenis Webinar in ON24 ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
-1. [ vorm de Montages van de Gebeurtenis en Synchroniseer Marketo met Uw Webinar ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}
-1. [ creeer de Campagnes van het Kind en Lokale Assets ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}
-1. [ test Uw Integratie van de Gebeurtenis ON24 ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}
-1. [ Voorbeeld ON24 de Integratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
-1. [ Begrijpend de Statussen van het Programma Webinar ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
-1. [ ON24 de Updates van de Registratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}
+1. [&#x200B; creeer Uw Gebeurtenis Webinar in ON24 &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md){target="_blank"}
+1. [&#x200B; vorm de Montages van de Gebeurtenis en Synchroniseer Marketo met Uw Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"}
+1. [&#x200B; creeer de Campagnes van het Kind en Lokale Assets &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}
+1. [&#x200B; test Uw Integratie van de Gebeurtenis ON24 &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}
+1. [&#x200B; Voorbeeld ON24 de Integratie van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+1. [&#x200B; Begrijpend de Statussen van het Programma Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
+1. [&#x200B; ON24 de Updates van de Registratie van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}

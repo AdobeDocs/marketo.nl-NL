@@ -24,13 +24,13 @@ Marketo maakt gebruik van onze grote gegevensarchitectuur om de productie van ca
 
 Er zijn twee verbeteringen aangebracht in onze [!DNL Salesforce] CRM-integratie:
 
-* [ Admin van Marketo berichten ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) voor bepaalde de synchronisatiestouden van CRM (verlopen geloofsbrieven, bereikte API grenzen, enz.)
+* [&#x200B; Admin van Marketo berichten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) voor bepaalde de synchronisatiestouden van CRM (verlopen geloofsbrieven, bereikte API grenzen, enz.)
 
-* [ Mogelijkheid om e-mailberichten ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) aan Lead Eigenaars op loodtaak uit te zetten
+* [&#x200B; Mogelijkheid om e-mailberichten &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) aan Lead Eigenaars op loodtaak uit te zetten
 
 Deze verbeteringen zullen in 2018 worden doorgevoerd.
 
-## [ de Inzichten van de Prestaties van Marketo ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [&#x200B; de Inzichten van de Prestaties van Marketo &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
@@ -86,7 +86,7 @@ Inhoud die wordt aanbevolen via Marketo-algoritmen voor geoptimaliseerde Content
 
 ## Integratie {#integration}
 
-**[activeer/deactiveer Campagne API ](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[activeer/deactiveer Campagne API &#x200B;](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren, zodat u nu volledig geautomatiseerde programmasjablonen kunt maken. Maak één keer een programmasjabloon, automatiseer het klonen, verhandel zakelijke updates en activering/planning van slimme campagnes.
 
@@ -94,7 +94,7 @@ Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren,
 
 **Unsubscribe Update**
 
-Vanaf 1 Maart, 2018, zullen alle e-mails die van [ ToutApp.com ](https://ToutApp.com) worden verzonden (en door &quot;E-mail met [!DNL Tout]&quot;knoop in [!DNL Salesforce] te gebruiken) een unsubscribe verbinding hebben die aan de bodem wordt toegevoegd.
+Vanaf 1 Maart, 2018, zullen alle e-mails die van [&#x200B; ToutApp.com &#x200B;](https://ToutApp.com) worden verzonden (en door &quot;E-mail met [!DNL Tout]&quot;knoop in [!DNL Salesforce] te gebruiken) een unsubscribe verbinding hebben die aan de bodem wordt toegevoegd.
 
 **Levende Update van het Gegeven**
 

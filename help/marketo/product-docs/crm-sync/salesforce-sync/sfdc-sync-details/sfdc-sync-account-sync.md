@@ -29,7 +29,7 @@ Nee. Een account kan vele contactpersonen hebben, een contactpersoon kan slechts
 
 ## Kan ik accounts maken van Marketo? {#can-i-create-accounts-from-marketo}
 
-Meestal, nee. Nochtans, als u [ gebruikt zet de de stroomstap van de Persoon ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} op een persoon om, zal het tot een nieuw Contact, een nieuwe Rekening, en een nieuwe Kans leiden.
+Meestal, nee. Nochtans, als u [&#x200B; gebruikt zet de de stroomstap van de Persoon &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md){target="_blank"} op een persoon om, zal het tot een nieuw Contact, een nieuwe Rekening, en een nieuwe Kans leiden.
 
 >[!CAUTION]
 >

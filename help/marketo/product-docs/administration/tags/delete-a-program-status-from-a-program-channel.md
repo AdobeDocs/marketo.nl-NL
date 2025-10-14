@@ -35,4 +35,4 @@ De status van het programma is de controlepunten door een programmaweg (kanaal).
    >
    >Als iemand momenteel aan de desbetreffende status is toegewezen, kunt u deze niet verwijderen, maar kunt u deze wel verbergen.
 
-Echt waar! U kunt ook [ een volledig kanaal ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als u moet.
+Echt waar! U kunt ook [&#x200B; een volledig kanaal &#x200B;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als u moet.

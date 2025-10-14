@@ -17,13 +17,13 @@ De volgende functies zijn opgenomen in de release van zomer 17. Raadpleeg de Mar
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. Opmerking: aan enkele functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## [ de Extra Stages van de Offlineconversie van Facebook ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [&#x200B; de Extra Stages van de Offlineconversie van Facebook &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
 Kies tot 7 extra offlineconversiefasen om toe te wijzen aan uw de levenscyclusstadia van Marketo (voorbij de 3 vandaag beschikbare). Optimaliseer uw [!DNL Facebook] advertentie-uitgaven op basis van conversies over de hele reis van uw klant om een beter investeringsrendement te behalen.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [ Sjabloon van Insight van de Verkoop van het Slot ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [&#x200B; Sjabloon van Insight van de Verkoop van het Slot &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Zorg voor consistentie van berichten en inhoud door bewerkingen in uw verkoopsjablonen te voorkomen. Dit helpt malplaatjes standaardiseren en professionele mededelingen handhaven.
 
@@ -35,7 +35,7 @@ Zorg voor consistentie van berichten en inhoud door bewerkingen in uw verkoopsja
 
 Personen afstemmen op Japanse bedrijfsnamen in de lokale taal.
 
-**[ABM en Integratie LeanData ](https://docs.marketo.com/x/pKmt)**
+**[ABM en Integratie LeanData &#x200B;](https://docs.marketo.com/x/pKmt)**
 
 Dankzij de integratie met [!DNL LeanData] kunnen er nu leads-to-account-overeenkomsten worden gemaakt in Marketo. Houd marketing en verkoop op één lijn door het zelfde lood verbonden aan rekeningen binnen de verkoop en marketing systemen van verslag te hebben. De flexibelere opties geven Marketing en Verkoop Verrichtingen meer controle over lood-aan-rekening passende regels, zodat kunnen zij hun gewenste niveau van precisie bereiken.
 

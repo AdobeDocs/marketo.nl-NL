@@ -23,7 +23,7 @@ Marketo is geweldig in het uitkiezen van de juiste mensen voor een programma of 
 
 >[!NOTE]
 >
->Leer [ hoe te om segmentaties ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) tot stand te brengen.
+>Leer [&#x200B; hoe te om segmentaties &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) tot stand te brengen.
 
 Zodra u deze persoonlijkopstelling hebt (_en_ u werkruimten gebruikt), zult u hen over uw werkruimten willen delen. Hier zijn een paar goede dingen om te weten:
 

@@ -46,7 +46,7 @@ Als u mensen naar Facebook probeert te sturen zonder de servicevoorwaarden te ac
 
 ## Opruimen van campagne voor inactieve Trigger {#idle-trigger-campaign-cleanup}
 
-Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Leer meer over [ automatische opruiming van de trekkercampagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Leer meer over [&#x200B; automatische opruiming van de trekkercampagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ U wordt op de hoogte gesteld wanneer u uw dagelijkse quotum bereikt. De quota wo
 
 >[!NOTE]
 >
->Sommige foutencodes u kunt ontvangen worden geschetst in onze [ Documentatie van de Ontwikkelaar ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/error-codes).
+>Sommige foutencodes u kunt ontvangen worden geschetst in onze [&#x200B; Documentatie van de Ontwikkelaar &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/error-codes).

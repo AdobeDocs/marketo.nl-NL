@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ de Plaatsing van de Organisatie van Adobe van de Opstelling Afbeelding ](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
+>[&#x200B; de Plaatsing van de Organisatie van Adobe van de Opstelling Afbeelding &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Ondersteunde doeltoepassingen {#supported-destination-applications}
 
@@ -94,9 +94,9 @@ U kunt de lijst op elk gewenst moment niet meer synchroniseren.
 
 ### Delen naar Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Voor gebruikers die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Gelieve te herzien {de documentatie van 0} Adobe Audience Manager [ voor meer informatie over hoe te opstelling dit.](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL){target="_blank"}
+* Voor gebruikers die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Gelieve te herzien {de documentatie van 0} Adobe Audience Manager [&#x200B; voor meer informatie over hoe te opstelling dit.](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL){target="_blank"}
 
-* Nadat een lijst van Marketo aan Adobe Audience Manager wordt geupload, kan het ook door Adobe Target worden betreden. Die configuratie [ moet in Adobe Target ](https://experienceleague.adobe.com/nl/docs/target/using/integrate/audience-manager-target-integration){target="_blank"} worden toegelaten.
+* Nadat een lijst van Marketo aan Adobe Audience Manager wordt geupload, kan het ook door Adobe Target worden betreden. Die configuratie [&#x200B; moet in Adobe Target &#x200B;](https://experienceleague.adobe.com/nl/docs/target/using/integrate/audience-manager-target-integration){target="_blank"} worden toegelaten.
 
 * Als een lijst leeg is of geen personen met ECID-waarden heeft, wordt er niet naar de lijstnaam verwezen buiten Marketo.
 
@@ -118,7 +118,7 @@ Onder de motorkap werkt de publieksintegratie door Marketo Munchkin cookies te s
 
 Wanneer de cookiesync voor uw Marketo Abonnement wordt toegelaten, zal Marketo munchkin.js proberen om Adobe ECIDs voor de Org van de IMS van Adobe te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van Marketo aan te passen. Hierdoor kunnen anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe ECID&#39;s.
 
-Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Persoon te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit werk [ wordt beschreven hier ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Persoon te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit werk [&#x200B; wordt beschreven hier &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Welke informatie wordt gedeeld?**
 

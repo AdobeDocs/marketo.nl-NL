@@ -29,7 +29,7 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 **Uitgenodigd** - gebruik deze status om mensen aan de gebeurtenis toe te voegen.
 
-**in afwachting van Goedkeuring** - gebruik deze status om op het verzenden van uw mensen een bevestigingsbericht uit te houden. Zie &quot;Handmatig Registrerend Registranten&quot;in [ ON24 de Updates van de Registratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} voor meer informatie.
+**in afwachting van Goedkeuring** - gebruik deze status om op het verzenden van uw mensen een bevestigingsbericht uit te houden. Zie &quot;Handmatig Registrerend Registranten&quot;in [&#x200B; ON24 de Updates van de Registratie van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} voor meer informatie.
 
 **wacht op Lijst** - gebruik deze status om sommige mensen te houden die tot extra plaatsen beschikbaar worden wachten.
 
@@ -55,4 +55,4 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 >[!MORELIKETHIS]
 >
->[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

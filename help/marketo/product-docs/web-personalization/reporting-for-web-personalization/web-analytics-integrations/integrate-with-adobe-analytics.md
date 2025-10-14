@@ -65,7 +65,7 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 1. Ga naar **[!UICONTROL Admin Tools]** in uw AA-account.
 1. Selecteer de **[!UICONTROL Report Suite]** die moet worden gebruikt bij de integratie.
 1. Ga onder **[!UICONTROL Edit Settings]** naar **[!UICONTROL Conversion]** en selecteer **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
-Selecteer het [ Variabele van de Omzetting ](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
+Selecteer het [&#x200B; Variabele van de Omzetting &#x200B;](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
 
    1. Evar # 20 for Industry Custom Conversions
    1. Evar # 21 for Organization Custom Conversions
@@ -95,7 +95,7 @@ Selecteer het [ Variabele van de Omzetting ](https://microsite.omniture.com/t2/h
 
    1. Selecteer het gebied van het Type om **Teller (geen subrelations) te zijn**
 
-1. Onder **[!UICONTROL Edit Settings]** ga naar **[Verkeer ](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** en selecteer **[Variabelen van het Verkeer ](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Onder **[!UICONTROL Edit Settings]** ga naar **[Verkeer &#x200B;](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** en selecteer **[Variabelen van het Verkeer &#x200B;](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecteer het bezit van de Variabele van het Verkeer # (wij adviseren):
 
@@ -174,7 +174,7 @@ Voorbeelden van aangepaste rapporten en dashboards in AA zijn:
 
 **Creërend het Dashboard RTP**
 
-Creeer a [ nieuw dashboard ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **Dashboard RTP**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
+Creeer a [&#x200B; nieuw dashboard &#x200B;](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **Dashboard RTP**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
 
 1. Klik op **[!UICONTROL Dashboard]** click **[!UICONTROL Add Dashboard]** .
 
@@ -182,7 +182,7 @@ Creeer a [ nieuw dashboard ](https://microsite.omniture.com/t2/help/en_US/sc/use
 
 1. Selecteer de **dashboardgrootte** 3 x 2, 2 x 2.
 
-1. Creeer [ rapportlet ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [ inhoud aan het dashboard ](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) toe.
+1. Creeer [&#x200B; rapportlet &#x200B;](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [&#x200B; inhoud aan het dashboard &#x200B;](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) toe.
 
 Het rapport Industrieën toevoegen aan het dashboard
 

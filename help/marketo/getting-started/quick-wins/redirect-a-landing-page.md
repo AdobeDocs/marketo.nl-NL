@@ -21,8 +21,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
->* [ pas Uw het Bestaan Pagina URL met een NAAM ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"} aan
+>* [&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>* [&#x200B; pas Uw het Bestaan Pagina URL met een NAAM &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"} aan
 
 ## Stap 1: Nieuwe omleidingsregel starten {#step-start-a-new-redirect-rule}
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Herinner me, kunt u landende pagina&#39;s slechts opnieuw richten die met uw Marketo [ CNAME ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"} beginnen.
+   >Herinner me, kunt u landende pagina&#39;s slechts opnieuw richten die met uw Marketo [&#x200B; CNAME &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md){target="_blank"} beginnen.
 
 1. Klik op de tweede vervolgkeuzelijst **[!UICONTROL Original URL]** en selecteer de openingspagina die u wilt omleiden.
 

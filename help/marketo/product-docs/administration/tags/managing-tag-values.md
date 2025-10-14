@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tagwaarden beheren {#managing-tag-values}
 
-[ de Markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) worden gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
+[&#x200B; de Markeringen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) worden gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ creeer een Nieuwe Markering van het Programma en de Waarden van de Markering ](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[&#x200B; creeer een Nieuwe Markering van het Programma en de Waarden van de Markering &#x200B;](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Tagwaarden toevoegen {#adding-tag-values}
 

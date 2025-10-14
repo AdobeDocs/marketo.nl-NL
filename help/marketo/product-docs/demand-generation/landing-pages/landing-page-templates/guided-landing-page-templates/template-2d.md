@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 2D {#template-2d}
 
-Klik met de rechtermuisknop om [ Template 2D te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)
+Klik met de rechtermuisknop om [&#x200B; Template 2D te downloaden &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 2D.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)
+[&#x200B; Malplaatje 2D.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=nl-NL)

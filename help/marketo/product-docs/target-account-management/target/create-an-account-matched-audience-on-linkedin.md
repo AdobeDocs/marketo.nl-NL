@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Een vergelijkbaar publiek account maken op [!DNL LinkedIn] {#create-an-account-matched-audience-on-linkedin}
 
-Creeer rekening aangepast publiek van uw de Rekeninglijsten van TAM voor [[!DNL LinkedIn]  en het richten ](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!DNL LinkedIn] komt overeen met de lijst met accounts in hun systeem en u kunt een [!DNL LinkedIn] Publiek maken op basis van die accountlijst om op alle [!DNL LinkedIn] -kanalen te activeren. Dit laat marketers toe om mensen binnen of buiten hun gegevensbestand te richten.
+Creeer rekening aangepast publiek van uw de Rekeninglijsten van TAM voor [[!DNL LinkedIn]  en het richten &#x200B;](https://business.linkedin.com/marketing-solutions/ad-targeting/account-targeting). [!DNL LinkedIn] komt overeen met de lijst met accounts in hun systeem en u kunt een [!DNL LinkedIn] Publiek maken op basis van die accountlijst om op alle [!DNL LinkedIn] -kanalen te activeren. Dit laat marketers toe om mensen binnen of buiten hun gegevensbestand te richten.
 
 >[!PREREQUISITES]
 >
->[ voegt  [!DNL LinkedIn]  Gelijke Publiek als Dienst LaunchPoint ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) toe
+>[&#x200B; voegt  [!DNL LinkedIn]  Gelijke Publiek als Dienst LaunchPoint &#x200B;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) toe
 
 1. Klik in TAM op de tab **[!UICONTROL Account Lists]** .
 
@@ -51,4 +51,4 @@ En dat is het. Uw lijst met accounts is doorgestuurd naar [!DNL LinkedIn] .
 
 >[!MORELIKETHIS]
 >
->[ Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het a [!DNL LinkedIn]  publiek ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[&#x200B; Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het a [!DNL LinkedIn]  publiek &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

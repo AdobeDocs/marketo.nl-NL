@@ -49,4 +49,4 @@ Moet het activiteitenlogboek van een persoon naar Excel uitvoeren?
 
    >[!MORELIKETHIS]
    >
-   >Leer meer over [ het filtreren van het activiteitenlogboek ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} om specifieke persoonactiviteiten te zien.
+   >Leer meer over [&#x200B; het filtreren van het activiteitenlogboek &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} om specifieke persoonactiviteiten te zien.

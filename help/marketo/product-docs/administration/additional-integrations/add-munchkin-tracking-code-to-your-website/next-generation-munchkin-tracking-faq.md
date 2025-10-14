@@ -76,20 +76,20 @@ Controleer deze en geef aan waar u &quot;Is anoniem&quot; hebt ingesteld op Waar
 
 Bekijk de volgende koppelingen:
 
-[ Anonieme Lood verbetert Overzicht ](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
+[&#x200B; Anonieme Lood verbetert Overzicht &#x200B;](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[ anonieme loodverbeteringen - Veranderingen binnen Marketo UI ](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[&#x200B; anonieme loodverbeteringen - Veranderingen binnen Marketo UI &#x200B;](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[ anonieme loodverbeteringen - de Actie van de Klant Nodig ](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
+[&#x200B; anonieme loodverbeteringen - de Actie van de Klant Nodig &#x200B;](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[ anonieme loodverbeteringen - de Rapporten van Analytics ](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
+[&#x200B; anonieme loodverbeteringen - de Rapporten van Analytics &#x200B;](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[ Anonieme verbeteringen van de Lood - de Lijst van de Versie ](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
+[&#x200B; Anonieme verbeteringen van de Lood - de Lijst van de Versie &#x200B;](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[ anonieme loodverbeteringen - onder het Hood ](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[&#x200B; anonieme loodverbeteringen - onder het Hood &#x200B;](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[ Anonieme Loodbevordering aan Bekende Lood -  [!DNL Munchkin]  V2 Gedrag ](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[&#x200B; Anonieme Loodbevordering aan Bekende Lood -  [!DNL Munchkin]  V2 Gedrag &#x200B;](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Gelieve te bereiken uit op de [ gemeenschap ](https://nation.marketo.com/){target="_blank"}. U kunt [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} ook contacteren. Ze zullen graag je vragen beantwoorden.
+Gelieve te bereiken uit op de [&#x200B; gemeenschap &#x200B;](https://nation.marketo.com/){target="_blank"}. U kunt [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} ook contacteren. Ze zullen graag je vragen beantwoorden.

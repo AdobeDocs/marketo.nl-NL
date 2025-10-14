@@ -258,4 +258,4 @@ Gemakkelijk genoeg, toch?
 
 >[!MORELIKETHIS]
 >
->[ Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Beroeps) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
+>[&#x200B; Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Beroeps) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}

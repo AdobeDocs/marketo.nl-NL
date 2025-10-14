@@ -47,4 +47,4 @@ U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruik
 
    ![](assets/permissions-6.png)
 
-   Uw nieuwe rol van TAM is nu klaar om [ aan een gebruiker ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) worden toegewezen!
+   Uw nieuwe rol van TAM is nu klaar om [&#x200B; aan een gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) worden toegewezen!

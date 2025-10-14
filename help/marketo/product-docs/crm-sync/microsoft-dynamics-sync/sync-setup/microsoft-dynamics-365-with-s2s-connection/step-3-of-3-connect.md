@@ -17,8 +17,8 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 >[!PREREQUISITES]
 >
->* [ Stap 1 van 3: Installeer de Oplossing van Marketo met Server aan de Verbinding van de Server ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
->* [ Stap 2 van 3: Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
+>* [&#x200B; Stap 1 van 3: Installeer de Oplossing van Marketo met Server aan de Verbinding van de Server &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md){target="_blank"}
+>* [&#x200B; Stap 2 van 3: Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,11 +26,11 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 >[!IMPORTANT]
 >
->Als u van Basisauthentificatie aan [!DNL OAuth] bevordert, zult u [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp met het bijwerken van de extra parameters moeten contacteren. Als u deze functie inschakelt, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. De functie kan worden uitgeschakeld (tot april 2022) als u wilt terugkeren naar de oude verificatiemodus.
+>Als u van Basisauthentificatie aan [!DNL OAuth] bevordert, zult u [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp met het bijwerken van de extra parameters moeten contacteren. Als u deze functie inschakelt, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. De functie kan worden uitgeschakeld (tot april 2022) als u wilt terugkeren naar de oude verificatiemodus.
 
 >[!NOTE]
 >
->Alvorens u nieuwe geloofsbrieven ingaat, kunt u [ hen hier bevestigen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
+>Alvorens u nieuwe geloofsbrieven ingaat, kunt u [&#x200B; hen hier bevestigen &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}.
 
 ## Voer [!DNL Dynamics] Gebruikersgegevens synchroniseren in {#enter-dynamics-sync-user-information}
 
@@ -52,7 +52,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
    >[!CAUTION]
    >
-   >Controleer of de URL van uw org correct is omdat we de volgende schemawijzigingen na verzending niet kunnen herstellen. Als een onjuiste URL voor de organisatie wordt gebruikt, moet u een nieuw Marketo-abonnement aanvragen. Als u niet URL kent, [ leert hoe te om het hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} te vinden.
+   >Controleer of de URL van uw org correct is omdat we de volgende schemawijzigingen na verzending niet kunnen herstellen. Als een onjuiste URL voor de organisatie wordt gebruikt, moet u een nieuw Marketo-abonnement aanvragen. Als u niet URL kent, [&#x200B; leert hoe te om het hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} te vinden.
 
 1. Voer de [!DNL Dynamics] Synchronisatie-gebruikersgegevens in en klik op **[!UICONTROL Save]** wanneer u klaar bent.
 
@@ -60,7 +60,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
    >[!NOTE]
    >
-   >De gebruikersbenaming in Marketo moet het [ e-mailadres ](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} van de Gebruiker van de Toepassing in CRM aanpassen. De indeling kan `user@domain.com` of DOMAIN\user zijn.
+   >De gebruikersbenaming in Marketo moet het [&#x200B; e-mailadres &#x200B;](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} van de Gebruiker van de Toepassing in CRM aanpassen. De indeling kan `user@domain.com` of DOMAIN\user zijn.
 
 ## Te synchroniseren velden selecteren {#select-fields-to-sync}
 
@@ -74,7 +74,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 >[!NOTE]
 >
->Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in [!DNL Dynamics] schrapt, adviseerden wij het doen dit met [ gehandicapte synchronisatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Dan vernieuw het schema in Marketo door [ Uitgezochte Gebieden uit te geven en op te slaan om ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te synchroniseren.
+>Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in [!DNL Dynamics] schrapt, adviseerden wij het doen dit met [&#x200B; gehandicapte synchronisatie &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Dan vernieuw het schema in Marketo door [&#x200B; Uitgezochte Gebieden uit te geven en op te slaan om &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te synchroniseren.
 
 ## Velden synchroniseren voor een aangepast filter {#sync-fields-for-a-custom-filter}
 

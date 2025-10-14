@@ -41,4 +41,4 @@ Als u mappen maakt, kunt u afbeeldingen en bestanden verplaatsen, alleen de gewe
 
 >[!MORELIKETHIS]
 >
->[ Onderzoek Geüploade Beelden en Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>[&#x200B; Onderzoek Geüploade Beelden en Dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}

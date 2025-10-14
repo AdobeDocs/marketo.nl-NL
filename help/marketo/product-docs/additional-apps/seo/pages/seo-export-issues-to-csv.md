@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # SEO - Problemen exporteren naar CSV {#seo-export-issues-to-csv}
 
-U kunt uw [ gegevens van de paginagebeurtenis ](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) naar een Csv- dossier uitvoeren als u die informatie met mensen buiten Marketo wilt delen. Zo gaat het.
+U kunt uw [&#x200B; gegevens van de paginagebeurtenis &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) naar een Csv- dossier uitvoeren als u die informatie met mensen buiten Marketo wilt delen. Zo gaat het.
 
 1. Ga naar de sectie **[!UICONTROL Pages]** .
 
@@ -23,7 +23,7 @@ U kunt uw [ gegevens van de paginagebeurtenis ](/help/marketo/product-docs/addit
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Dit is de [ Boor van het Detail van de Pagina neer ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** is een lijst van alle kwesties met die bepaalde pagina.
+   Dit is de [&#x200B; Boor van het Detail van de Pagina neer &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). **[!UICONTROL Page Optimization Results]** is een lijst van alle kwesties met die bepaalde pagina.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 

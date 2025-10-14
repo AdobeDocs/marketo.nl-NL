@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: Design Studio Checklist {#inherited-instance-design-studio-checklist}
 
-Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldingen en bestanden te maken, worden gegevensfouten tot een minimum beperkt en wordt de workflow van de programmabuild gestroomlijnd. Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en volg uw vooruitgang.
+Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldingen en bestanden te maken, worden gegevensfouten tot een minimum beperkt en wordt de workflow van de programmabuild gestroomlijnd. Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en volg uw vooruitgang.
 
 ## Landingspagina&#39;s {#landing-pages}
 

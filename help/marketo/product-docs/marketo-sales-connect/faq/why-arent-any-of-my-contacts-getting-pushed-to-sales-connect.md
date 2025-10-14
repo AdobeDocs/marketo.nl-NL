@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Waarom worden mijn contacten niet geduwd naar [!DNL Sales Connect]? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Als er geen contacten zijn gelegd, is het mogelijk dat u een ongeldige [!DNL Salesforce] verbinding hebt. Ga naar uw [[!DNL Salesforce]  montages ](https://toutapp.com/login) en los dan opnieuw aan. Geef het ongeveer 20 minuten om volledig opnieuw in te stellen. Als het nog nul na dat is, gelieve [ een geval ](https://nation.marketo.com/t5/Support/ct-p/Support#) aan Steun voor te leggen.
+Als er geen contacten zijn gelegd, is het mogelijk dat u een ongeldige [!DNL Salesforce] verbinding hebt. Ga naar uw [[!DNL Salesforce]  montages &#x200B;](https://toutapp.com/login) en los dan opnieuw aan. Geef het ongeveer 20 minuten om volledig opnieuw in te stellen. Als het nog nul na dat is, gelieve [&#x200B; een geval &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support#) aan Steun voor te leggen.

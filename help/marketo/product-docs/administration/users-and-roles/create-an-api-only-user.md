@@ -13,15 +13,15 @@ ht-degree: 2%
 
 # Alleen een API-gebruiker maken {#create-an-api-only-user}
 
-Als u met Marketo via [ REST API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} wilt integreren, zult u een slechts gebruiker API moeten creëren. Zo gaat het.
+Als u met Marketo via [&#x200B; REST API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} wilt integreren, zult u een slechts gebruiker API moeten creëren. Zo gaat het.
 
 >[!IMPORTANT]
 >
->Als u API slechts gebruikers in een abonnement creeert dat aan de Identiteit van Adobe is bezet, zijn uw stappen verschillend en [ kan hier ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} worden gevonden.
+>Als u API slechts gebruikers in een abonnement creeert dat aan de Identiteit van Adobe is bezet, zijn uw stappen verschillend en [&#x200B; kan hier &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} worden gevonden.
 
 >[!PREREQUISITES]
 >
->[ creeer een slechtsAPI Rol van de Gebruiker ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
+>[&#x200B; creeer een slechtsAPI Rol van de Gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -63,4 +63,4 @@ Aldus terecht! Laten we nu de aangepaste service maken.
 
 >[!MORELIKETHIS]
 >
->[ creeer een Dienst van de Douane voor Gebruik met REST API ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}
+>[&#x200B; creeer een Dienst van de Douane voor Gebruik met REST API &#x200B;](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md){target="_blank"}

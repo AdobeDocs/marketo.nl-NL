@@ -14,7 +14,7 @@ ht-degree: 1%
 
 De versies van Adobe Dynamic Chat werken op een ononderbroken leveringsmodel dat voor een scalable benadering van eigenschapplaatsing toestaat. Soms zijn er meerdere releases per maand, dus raadpleeg je regelmatig voor de meest actuele informatie.
 
-De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [ kan hier ](/help/marketo/release-notes/current.md){target="_blank"} worden gevonden.
+De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [&#x200B; kan hier &#x200B;](/help/marketo/release-notes/current.md){target="_blank"} worden gevonden.
 
 ## Release van juni 2025 {#june-2025-release}
 
@@ -378,7 +378,7 @@ Om de gebruikerservaring te verbeteren, wordt nu een shimmer lader getoond in pl
 
 ### Aangepaste indeling voor uw gespreksberichten {#custom-format-conversation-messages}
 
-De ontwerpers van de stroom steunen nu [ het opnemen van HTML ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} om de blik en het gevoel van uw gesprekken aan te passen.
+De ontwerpers van de stroom steunen nu [&#x200B; het opnemen van HTML &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} om de blik en het gevoel van uw gesprekken aan te passen.
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
@@ -390,7 +390,7 @@ Er is een pictogram toegevoegd aan het chatvak zodat webbezoekers direct naar he
 
 ### Kernpulsmeldingen {#core-pulse-notifications}
 
-De gebruikers krijgen nu een [ e-mailbericht ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} wanneer een vergadering het boeken of een levende praatje ontbreekt.
+De gebruikers krijgen nu een [&#x200B; e-mailbericht &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#failed-action-notifications){target="_blank"} wanneer een vergadering het boeken of een levende praatje ontbreekt.
 
 ![](assets/dynamic-chat-aug-2024-release-3.png)
 
@@ -424,7 +424,7 @@ De meeste gesprekken op een website zijn met anonieme bezoekers. U kunt hen nog 
 
 ### Geluid toegevoegd aan browsermelding van agent {#sound-added-to-agent-browser-notification}
 
-Wanneer een levende praatje aan een agent wordt toegewezen, krijgen zij een browser bericht. Maar af en toe zien ze ze niet. Wij hebben het geluid van het a [ bericht ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} toegevoegd helpen gemiste berichten verhinderen vooruit te gaan.
+Wanneer een levende praatje aan een agent wordt toegewezen, krijgen zij een browser bericht. Maar af en toe zien ze ze niet. Wij hebben het geluid van het a [&#x200B; bericht &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} toegevoegd helpen gemiste berichten verhinderen vooruit te gaan.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
@@ -460,25 +460,25 @@ Op de pagina Gebruikslimieten wordt belangrijke informatie weergegeven, zoals pa
 
 ### Reactiebibliotheek vooraf goedgekeurd {#pre-approved-response-library}
 
-[ creeer een marketing-goedgekeurde bibliotheek ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} van AI-Gegenereerde vraag en antwoorden om opstelling generatieve AI praatje in notulen te helpen.
+[&#x200B; creeer een marketing-goedgekeurde bibliotheek &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} van AI-Gegenereerde vraag en antwoorden om opstelling generatieve AI praatje in notulen te helpen.
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
 ### Onbeantwoorde vragen {#unanswered-questions}
 
-[ Gebruik een bewaarplaats van onbeantwoorde vragen ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} van vorige gesprekken om nieuwe vooraf goedgekeurde reacties te produceren die een reactiebibliotheek met de recentste informatie handhaven.
+[&#x200B; Gebruik een bewaarplaats van onbeantwoorde vragen &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} van vorige gesprekken om nieuwe vooraf goedgekeurde reacties te produceren die een reactiebibliotheek met de recentste informatie handhaven.
 
 ![](assets/dynamic-chat-may-2024-release-2.png)
 
 ### Overzichten van gesprekken {#conversation-summaries}
 
-[ geef verkoopagenten samengevatte gesprekken ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} met inbegrip van inzichten over zeer belangrijke besprekingsonderwerpen vóór vergaderingen om prep tijd en betere wapenverkoopagenten met de recentste informatie te verminderen.
+[&#x200B; geef verkoopagenten samengevatte gesprekken &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} met inbegrip van inzichten over zeer belangrijke besprekingsonderwerpen vóór vergaderingen om prep tijd en betere wapenverkoopagenten met de recentste informatie te verminderen.
 
 ![](assets/dynamic-chat-may-2024-release-3.png)
 
 ### GenAI-sneltoetsen {#genai-sales-shortcuts}
 
-[ verstrek levende praatjeagenten van snellere manieren ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} om tot AI-Gegenereerde reacties toegang te hebben, bestaande geproduceerde reacties uit te geven en naar extra inhoud te zoeken om naar kopers tijdens gesprek te verzenden.
+[&#x200B; verstrek levende praatjeagenten van snellere manieren &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} om tot AI-Gegenereerde reacties toegang te hebben, bestaande geproduceerde reacties uit te geven en naar extra inhoud te zoeken om naar kopers tijdens gesprek te verzenden.
 
 ![](assets/dynamic-chat-may-2024-release-4.png)
 
@@ -504,7 +504,7 @@ _&#42;eerder beschikbaar als proefeigenschap met 100 levenovereenkomsten. De ove
 
 ### Callback-functies {#callback-functions}
 
-[ Callback functies ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} staan u toe om de analysegebeurtenissen van Dynamic Chat in externe systemen, zoals Adobe Analytics of Google Analytics te verzamelen, aangezien de bezoekers met de gesprekken van Dynamic Chat in dienst nemen. U kunt Dynamic Chat-analysegebeurtenissen inschakelen door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van uw Dynamic Chat-betrokkenheid hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
+[&#x200B; Callback functies &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} staan u toe om de analysegebeurtenissen van Dynamic Chat in externe systemen, zoals Adobe Analytics of Google Analytics te verzamelen, aangezien de bezoekers met de gesprekken van Dynamic Chat in dienst nemen. U kunt Dynamic Chat-analysegebeurtenissen inschakelen door een callback met de API te registreren om naar de gebeurtenissen te luisteren. Hierdoor kunt u een meer holistische weergave van uw Dynamic Chat-betrokkenheid hebben, aangezien deze betrekking heeft op andere belangrijke gegevens, zoals webverkeer.
 
 ### Beschikbaarheidsvoorwaarden voor actieve agent toegevoegd aan voorwaardelijke vertakking {#live-agent-availability-conditional-branching}
 

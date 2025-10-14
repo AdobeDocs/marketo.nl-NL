@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Titel en metagegevens van bestemmingspagina bewerken {#edit-landing-page-title-and-metadata}
 
-Marketo staat u toe om uw het landen pagina [ metatags voor SEO doeleinden ](https://www.w3schools.com/tags/tag_meta.asp) uit te geven evenals het `<head>` gedeelte van HTML aan te passen.
+Marketo staat u toe om uw het landen pagina [&#x200B; metatags voor SEO doeleinden &#x200B;](https://www.w3schools.com/tags/tag_meta.asp) uit te geven evenals het `<head>` gedeelte van HTML aan te passen.
 
 1. Selecteer een openingspagina en klik op **[!UICONTROL Edit Draft]** .
 
@@ -33,7 +33,7 @@ Marketo staat u toe om uw het landen pagina [ metatags voor SEO doeleinden ](htt
 
    >[!TIP]
    >
-   >**wat [ robots ](https://www.robotstxt.org/meta.html) betekent?**
+   >**wat [&#x200B; robots &#x200B;](https://www.robotstxt.org/meta.html) betekent?**
    >
    >**index**: de pagina is doorzoekbaar op het Web. **volgt**: de onderzoeksmotoren kunnen verbindingen op geïndexeerde pagina&#39;s volgen.
 

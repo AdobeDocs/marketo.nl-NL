@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ Mening Slimme Resultaten van de Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
+>[&#x200B; Mening Slimme Resultaten van de Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 Filter de slimme resultaten van de Campagne om specifieke activiteiten te zien die voor u van belang zijn.
 

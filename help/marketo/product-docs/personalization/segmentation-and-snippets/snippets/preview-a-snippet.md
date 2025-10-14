@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ voeg Inhoud aan een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
+>[&#x200B; voeg Inhoud aan een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
 
 Fragmenten zijn blokken dynamische inhoud die worden gewijzigd op basis van segmentatieregels.
 
@@ -31,4 +31,4 @@ Voorvertoning is ideaal om ervoor te zorgen dat de inhoud er voor elk segment go
 
 >[!MORELIKETHIS]
 >
->[ keur een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md) goed
+>[&#x200B; keur een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md) goed

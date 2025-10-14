@@ -55,7 +55,7 @@ Als u een achtergrondafbeelding aan het formulier wilt toevoegen, kunt u:
 * Dialoogvenster- of widgetkleuren wijzigen in Campagne instellen
 * CSS-code toevoegen aan het script
 
-Om CSS van een Thema van de Vorm uit te geven, zie [ dit artikel ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Om CSS van een Thema van de Vorm uit te geven, zie [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 U wijzigt als volgt de kleur van het dialoogvenster of de widget in de campagne Set:
 
@@ -83,6 +83,6 @@ CSS-code toevoegen aan het script:
 
 >[!MORELIKETHIS]
 >
->* [ geef CSS van een Thema van de Vorm uit ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [ toon Dank u Bericht zonder een follow-up het landen Pagina ](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [ Forms 2.0 ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [&#x200B; geef CSS van een Thema van de Vorm uit &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [&#x200B; toon Dank u Bericht zonder een follow-up het landen Pagina &#x200B;](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [&#x200B; Forms 2.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

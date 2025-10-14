@@ -50,4 +50,4 @@ Pas de rapporten van de opbrengstontdekkingsreiziger door afmeting en metrische 
 
 >[!MORELIKETHIS]
 >
->[ Deleting a Gebied in een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[&#x200B; Deleting a Gebied in een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

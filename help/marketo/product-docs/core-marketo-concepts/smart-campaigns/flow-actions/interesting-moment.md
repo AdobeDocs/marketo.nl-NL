@@ -29,9 +29,9 @@ Als u de Verkoop Insight van Marketo hebt, kunt u **het Interesten Moment** debi
    >
    >_minder is meer_. Werk samen met uw verkoopteam om ervoor te zorgen dat interessante momenten eigenlijk interessant zijn.
 
-U kunt [ tokens in interessante momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} ook gebruiken om werkelijk nuttige dynamische beschrijvingen te maken.
+U kunt [&#x200B; tokens in interessante momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} ook gebruiken om werkelijk nuttige dynamische beschrijvingen te maken.
 
 >[!MORELIKETHIS]
 >
->* [ Gebruikend Interesserende Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
->* [ Tokens voor het Interesten Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}
+>* [&#x200B; Gebruikend Interesserende Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
+>* [&#x200B; Tokens voor het Interesten Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}

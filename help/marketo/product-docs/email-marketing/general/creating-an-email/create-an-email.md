@@ -61,10 +61,10 @@ Welke methode u kiest, brengt u naar de sjabloonkiezer.
 
    ![](assets/create-an-email-7.png)
 
-   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Voor e-mail met modules, controleer [ Modules aan uw E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) toevoegen.
+   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Voor e-mail met modules, controleer [&#x200B; Modules aan uw E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) toevoegen.
 
 Uw e-mailadres is nu gemaakt, dus bewerk het weg!
 
 >[!MORELIKETHIS]
 >
->[ geef Uw E-mailkopbal uit ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[&#x200B; geef Uw E-mailkopbal uit &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)

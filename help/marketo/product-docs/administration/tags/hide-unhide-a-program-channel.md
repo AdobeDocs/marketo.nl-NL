@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Vereiste Bevoegdheden Admin**
 
-U kunt [ een programmakanaal ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als het niet door om het even welke programma&#39;s wordt gebruikt.  Maar als het eenmaal wordt gebruikt, moeten we het rond houden.  U kunt de component echter verbergen als u deze niet meer nodig hebt.
+U kunt [&#x200B; een programmakanaal &#x200B;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als het niet door om het even welke programma&#39;s wordt gebruikt.  Maar als het eenmaal wordt gebruikt, moeten we het rond houden.  U kunt de component echter verbergen als u deze niet meer nodig hebt.
 
 ## Programmakanaal verbergen {#hide-a-program-channel}
 

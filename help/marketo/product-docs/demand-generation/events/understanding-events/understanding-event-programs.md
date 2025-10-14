@@ -30,10 +30,10 @@ Een gebeurtenisprogramma is een type programma dat kan worden gebruikt om uw off
 >* Tradeshows
 >* Vergaderingen
 
-De gebeurtenissen kunnen automatisch met uw [ webinar leverancier ](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) evenals synchronisatie met a [ iPad controle-binnen app ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) verbinden.
+De gebeurtenissen kunnen automatisch met uw [&#x200B; webinar leverancier &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) evenals synchronisatie met a [&#x200B; iPad controle-binnen app &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) verbinden.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [&#x200B; creeer een Nieuw Programma van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
->* [[!DNL LaunchPoint]  Partners van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
+>* [[!DNL LaunchPoint]  Partners van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

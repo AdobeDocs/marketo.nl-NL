@@ -16,11 +16,11 @@ Waartot hebben Admins en niet-Admins toegang?
 
 ## Beheerdersmachtigingen {#admin-user-permissions}
 
-Admins kan [ alle malplaatjes ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) bekijken.
+Admins kan [&#x200B; alle malplaatjes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) bekijken.
 
 ![](assets/user-access-details-1.png)
 
-Admins kan [ alle campagnes ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) bekijken.
+Admins kan [&#x200B; alle campagnes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) bekijken.
 
 ![](assets/user-access-details-2.png)
 

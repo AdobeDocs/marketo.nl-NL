@@ -153,4 +153,4 @@ Als u de beschikbare afmetingen of maatregelen in een categorie wilt weergeven, 
 
 >[!MORELIKETHIS]
 >
->[ creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[&#x200B; creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

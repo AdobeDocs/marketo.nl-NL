@@ -17,7 +17,7 @@ Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw e-mailprestati
 
 >[!PREREQUISITES]
 >
->[ keur een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed
+>[&#x200B; keur een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ) gebied.
 
@@ -45,4 +45,4 @@ Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw e-mailprestati
 
 >[!MORELIKETHIS]
 >
->[ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[&#x200B; filter Assets in een E-mailrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

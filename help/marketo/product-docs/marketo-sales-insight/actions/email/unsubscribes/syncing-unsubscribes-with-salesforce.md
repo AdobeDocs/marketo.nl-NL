@@ -63,7 +63,7 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
 
 E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren vanuit [!DNL Salesforce] . U moet een [!DNL Salesforce] Admin zijn om het te installeren.
 
-1. Ga naar [ Salesforce.com ](https://salesforce.com) en teken binnen.
+1. Ga naar [&#x200B; Salesforce.com &#x200B;](https://salesforce.com) en teken binnen.
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
@@ -97,6 +97,6 @@ E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren
 
 ## Marketo-verkoop niet beschikbaar {#marketo-sales-opt-out}
 
-Het gebied van de Verkoop van Marketo uit is een douanegebied dat aan gebruikers beschikbaar is die het pakket van Insight van de Verkoop van Marketo [ van AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
+Het gebied van de Verkoop van Marketo uit is een douanegebied dat aan gebruikers beschikbaar is die het pakket van Insight van de Verkoop van Marketo [&#x200B; van AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
 
 Zodra u het Marketo Sales Insight-pakket van de AppExchange naar Salesforce hebt geïnstalleerd, ziet u het veld Marketo Sales Opt Out dat voor u beschikbaar is.

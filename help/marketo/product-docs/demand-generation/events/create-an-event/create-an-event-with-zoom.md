@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ voeg  [!DNL Zoom]  als a [!DNL LaunchPoint]  Dienst ](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md) toe
->* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
+>* [&#x200B; voeg  [!DNL Zoom]  als a [!DNL LaunchPoint]  Dienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md) toe
+>* [&#x200B; creeer een Nieuw Programma van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Plaats de aangewezen [&#x200B; stroomacties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
 Maak eerst uw webinar in [!DNL Zoom] . Bepaalde instellingen bij het maken van uw [!DNL Zoom] worden gebruikt door Marketo en sommige worden alleen gebruikt door [!DNL Zoom] .
 
-Nadat u een Marketo-gebeurtenis hebt gemaakt en er een [!DNL Zoom] webinar aan hebt gekoppeld, kunnen de systemen registratie- en aanwezigheidsgegevens delen. Voor hulp die tot webinar leiden, zie [ Begonnen het worden met  [!DNL Zoom]  Webinars ](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
+Nadat u een Marketo-gebeurtenis hebt gemaakt en er een [!DNL Zoom] webinar aan hebt gekoppeld, kunnen de systemen registratie- en aanwezigheidsgegevens delen. Voor hulp die tot webinar leiden, zie [&#x200B; Begonnen het worden met  [!DNL Zoom]  Webinars &#x200B;](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
 Voer de volgende informatie in voor uw webinar en het wordt via de adapter in Marketo geplaatst. Als u wijzigingen aanbrengt aan deze gegevens, moet u onder Gebeurtenishandelingen op de koppeling &quot;Vernieuwen van webinar-provider&quot; klikken om de wijzigingen te kunnen zien.
 
@@ -53,7 +53,7 @@ Voer de volgende informatie in voor uw webinar en het wordt via de adapter in Ma
 
 >[!TIP]
 >
->Er zijn aanvullende velden die u configureert in [!DNL Zoom] en die GEEN invloed hebben op de integratie. Gelieve te verwijzen naar het [[!DNL Zoom]  Centrum van de Hulp Webinar ](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) voor extra informatie over deze gebieden.
+>Er zijn aanvullende velden die u configureert in [!DNL Zoom] en die GEEN invloed hebben op de integratie. Gelieve te verwijzen naar het [[!DNL Zoom]  Centrum van de Hulp Webinar &#x200B;](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) voor extra informatie over deze gebieden.
 
 Laten we nu naar Marketo springen!
 

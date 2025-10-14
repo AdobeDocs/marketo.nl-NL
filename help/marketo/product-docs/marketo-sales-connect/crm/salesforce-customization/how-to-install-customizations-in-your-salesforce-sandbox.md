@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ verbindt Verkoop met Uw zandbak van Salesforce ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
+>[&#x200B; verbindt Verkoop met Uw zandbak van Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. Klik in [!DNL Sales Connect] op het tandwielpictogram rechtsboven en selecteer **[!UICONTROL Settings]** .
 

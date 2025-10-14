@@ -30,4 +30,4 @@ Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 
 >[!NOTE]
 >
->Diep duik voor meer informatie over [ het samenvoegen van mensen in Marketo ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Diep duik voor meer informatie over [&#x200B; het samenvoegen van mensen in Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

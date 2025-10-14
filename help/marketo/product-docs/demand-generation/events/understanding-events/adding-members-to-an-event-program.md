@@ -19,9 +19,9 @@ Dit artikel is alleen van toepassing op gebruikers die gebruikmaken van Gebeurte
 >
 >Als u een lijst met personen rechtstreeks in een gebeurtenisprogramma importeert, worden deze records niet meegeteld in werkelijke registraties in het rapport Goal Tracking en in het rapport Event Cap Progression. Volg de onderstaande instructies om ervoor te zorgen dat uw administratie wordt geteld.
 
-1. Creeer en [ voeg mensen aan een statische lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md) toe.
+1. Creeer en [&#x200B; voeg mensen aan een statische lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md) toe.
 
-1. [ creeer een slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [&#x200B; creeer een slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
 1. Zoek in de slimme lijst van de slimme campagne die u in Stap twee hebt gemaakt het filter **[!UICONTROL Member of List]** en voeg dit toe.
 

@@ -74,5 +74,5 @@ Ja, als er een conflict is, zullen wij het resultaat in het Logboek van de Activ
 
 >[!MORELIKETHIS]
 >
->* [ Gebrek  [!DNL Veeva]  het Toewijzing van het Gebied ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
->* [ synchroniserend Vraag en de Zeer belangrijke Berichten van de Vraag ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [&#x200B; Gebrek  [!DNL Veeva]  het Toewijzing van het Gebied &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [&#x200B; synchroniserend Vraag en de Zeer belangrijke Berichten van de Vraag &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

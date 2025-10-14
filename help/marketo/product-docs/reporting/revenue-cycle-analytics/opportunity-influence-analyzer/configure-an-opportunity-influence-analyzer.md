@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Een Opportunity Influence Analyzer configureren {#configure-an-opportunity-influence-analyzer}
 
-Zodra u [ tot een Analysator van de Invloed van de Mogelijkheid ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) leidt, kunt u de types van [ interessante momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
+Zodra u [&#x200B; tot een Analysator van de Invloed van de Mogelijkheid &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) leidt, kunt u de types van [&#x200B; interessante momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
 
 >[!PREREQUISITES]
 >
->[ creeer een Analysator van de Invloed van de Opportunity ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[&#x200B; creeer een Analysator van de Invloed van de Opportunity &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. Klik op **[!UICONTROL Analytics]**.
 
@@ -49,4 +49,4 @@ Zodra u [ tot een Analysator van de Invloed van de Mogelijkheid ](/help/marketo/
 
 >[!MORELIKETHIS]
 >
->[ vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[&#x200B; vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

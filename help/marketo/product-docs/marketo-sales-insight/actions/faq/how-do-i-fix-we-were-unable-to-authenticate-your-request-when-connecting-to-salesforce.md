@@ -29,7 +29,7 @@ U kunt bepalen welk type u krijgt door URL te controleren.
 
 Deze fout wijst typisch op u een douanedomein hebt dat wij niet aan kunnen leiden. U lost deze fout op door u aan te melden bij het Salesforce-exemplaar waarmee u eerst verbinding wilt maken. Voer vervolgens de stappen uit om verbinding te maken met Salesforce.
 
-Als de instantie waarmee u verbinding probeert te maken een Salesforce Sandbox-domein is en u een fout krijgt, moet u aanvullende stappen doorlopen om uw instantie bij te werken zodat deze compatibel is met Salesforce Sandbox. [ leer meer ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+Als de instantie waarmee u verbinding probeert te maken een Salesforce Sandbox-domein is en u een fout krijgt, moet u aanvullende stappen doorlopen om uw instantie bij te werken zodat deze compatibel is met Salesforce Sandbox. [&#x200B; leer meer &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Oauth-app geblokkeerd oplossen {#resolve-oauth-app-blocked}
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # De A/B-test annuleren {#cancel-the-a-b-test}
 
-Als u [ A/B het testen ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) aan uw e-mailprogramma hebt toegevoegd en hebt besloten u het niet meer wilt, wordt het gemakkelijk ongedaan gemaakt. Zo gaat het.
+Als u [&#x200B; A/B het testen &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) aan uw e-mailprogramma hebt toegevoegd en hebt besloten u het niet meer wilt, wordt het gemakkelijk ongedaan gemaakt. Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -29,6 +29,6 @@ Als u [ A/B het testen ](/help/marketo/product-docs/email-marketing/email-progra
 
    >[!NOTE]
    >
-   >Uw e-mailprogramma moet niet zijn goedgekeurd voordat u de A/B-test kunt verwijderen. Zie [ goedkeuren/goedkeuren een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) voor details.
+   >Uw e-mailprogramma moet niet zijn goedgekeurd voordat u de A/B-test kunt verwijderen. Zie [&#x200B; goedkeuren/goedkeuren een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) voor details.
 
 Eenvoudig!

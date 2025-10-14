@@ -23,13 +23,13 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de
 
 ## Doelaccountbeheer {#target-account-management}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
-* **Slimme Lijst van de Rekening (Beta)**: Laad uw strategie ABM met het nieuwe vermogen van de Lijst van de Rekening Slimme. Rekeningen met gewenste rekening en persoonattributen dynamisch identificeren om kanaalcampagnes in werking te stellen en tijdige alarm naar Verkoop te verzenden om overeenkomsten sneller te sluiten. Nota: dit is beschikbaar slechts aan de klanten van het Beheer van de Rekening van het Doel die aan de [ volgende-generatiegebruikerservaring ](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) zijn bezet.
+* **Slimme Lijst van de Rekening (Beta)**: Laad uw strategie ABM met het nieuwe vermogen van de Lijst van de Rekening Slimme. Rekeningen met gewenste rekening en persoonattributen dynamisch identificeren om kanaalcampagnes in werking te stellen en tijdige alarm naar Verkoop te verzenden om overeenkomsten sneller te sluiten. Nota: dit is beschikbaar slechts aan de klanten van het Beheer van de Rekening van het Doel die aan de [&#x200B; volgende-generatiegebruikerservaring &#x200B;](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205) zijn bezet.
 
 ## E-mailmarketing {#email-marketing}
 
-* **E-mailverhoging van de Partij E-mail** ![ (ster) ](assets/yellow-star.png): Verzend meer e-mails met een verhoogde productie van maximaal 5 miljoen batch-e-mails per uur. Met de uitgebreide opties voor e-maillevering hoeft u niet te wachten tussen batches per e-mail. U kunt alle e-mails op tijd en volgens uw planning verzenden.
+* **E-mailverhoging van de Partij E-mail** ![&#x200B; (ster) &#x200B;](assets/yellow-star.png): Verzend meer e-mails met een verhoogde productie van maximaal 5 miljoen batch-e-mails per uur. Met de uitgebreide opties voor e-maillevering hoeft u niet te wachten tussen batches per e-mail. U kunt alle e-mails op tijd en volgens uw planning verzenden.
 
 ## Websitemarkering {#website-marketing}
 
@@ -67,7 +67,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Sales Insight] {#sales-insight}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **de Optimalisering van API en de Nieuwe Opties van de Configuratie van de Governance**: Verbeter de [!DNL Sales Insight] gebruikerservaring door verbeterde API optimalisering en toegevoegde bestuurseigenschappen. De montages van de configuratie laten beheerders toe om te bepalen hoe de campagnes en de gebeurtenissen aan het dashboard van Insight van de Verkoop worden geladen. Met de opties voor de weergave van flexibele kalenderactiviteiten wordt het gebruik van de API verminderd en de algehele ervaring verbeterd.
 

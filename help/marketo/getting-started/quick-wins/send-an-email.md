@@ -17,7 +17,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail vanuit Marketo!
 
 >[!PREREQUISITES]
 >
->[ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>[&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
 
 ## Een e-mailprogramma maken {#create-an-email-program}
 
@@ -61,7 +61,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail vanuit Marketo!
 
    >[!NOTE]
    >
-   >Als uw e-mail niet auto-bevolkt is, kunt u aan [ opstelling zijn vergeten en een Lood toevoegen.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+   >Als uw e-mail niet auto-bevolkt is, kunt u aan [&#x200B; opstelling zijn vergeten en een Lood toevoegen.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
@@ -117,7 +117,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail vanuit Marketo!
 
    >[!NOTE]
    >
-   >Leer meer over [ Ontvankelijke Streek van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} en [ Begin van het Kop ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
+   >Leer meer over [&#x200B; Ontvankelijke Streek van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} en [&#x200B; Begin van het Kop &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
 
 1. Selecteer een tijd die in de toekomst minstens 15 minuten is.
 
@@ -125,7 +125,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail vanuit Marketo!
 
    >[!TIP]
    >
-   >Is de standaardtijdzone niet van u? Leer hoe te [ het hier ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"} bijwerken.
+   >Is de standaardtijdzone niet van u? Leer hoe te [&#x200B; het hier &#x200B;](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"} bijwerken.
 
 1. Klik op **[!UICONTROL Approve Program]** onder de [!UICONTROL Approval] -tegel en u bent klaar!
 

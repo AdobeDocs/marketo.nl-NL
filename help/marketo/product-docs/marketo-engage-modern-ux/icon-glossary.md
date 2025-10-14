@@ -14,7 +14,7 @@ ht-degree: 5%
 
 # Woordenlijst met pictogrammen {#new-icon-glossary}
 
-Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. Als u de Klassieke pictogrammen van Marketo moet van verwijzingen voorzien, kunnen zij [ hier ](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md) worden gevonden.
+Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. Als u de Klassieke pictogrammen van Marketo moet van verwijzingen voorzien, kunnen zij [&#x200B; hier &#x200B;](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md) worden gevonden.
 
 ## Algemene pictogrammen {#general-icons}
 

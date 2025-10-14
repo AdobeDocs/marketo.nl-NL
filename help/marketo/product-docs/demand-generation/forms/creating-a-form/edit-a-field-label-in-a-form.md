@@ -33,7 +33,7 @@ U kunt het label op een formulier wijzigen in Alles. U kunt zelfs een afbeelding
 
    >[!TIP]
    >
-   >Klik op het ![ potlood ](assets/icon-pencil.png) pictogram om tot de rijke tekstredacteur toegang te hebben.
+   >Klik op het ![&#x200B; potlood &#x200B;](assets/icon-pencil.png) pictogram om tot de rijke tekstredacteur toegang te hebben.
 
 1. Klik op **[!UICONTROL Finish]**.
 
@@ -45,4 +45,4 @@ U kunt het label op een formulier wijzigen in Alles. U kunt zelfs een afbeelding
 
 >[!NOTE]
 >
->Vergeet niet [ goed te keuren het het Landen ontwerp van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} dat door de vormveranderingen wordt gecreeerd.
+>Vergeet niet [&#x200B; goed te keuren het het Landen ontwerp van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} dat door de vormveranderingen wordt gecreeerd.

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloonlijst met geleide landingspagina {#guided-landing-page-template-list}
 
-Blader onze inzameling van voorbeeldmalplaatjes, voor gebruik met de [ Geleide Begeleidende Redacteur van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon reageert volledig en is gebaseerd op het Bootstrap-kader.
+Blader onze inzameling van voorbeeldmalplaatjes, voor gebruik met de [&#x200B; Geleide Begeleidende Redacteur van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon reageert volledig en is gebaseerd op het Bootstrap-kader.
 
 >[!NOTE]
 >

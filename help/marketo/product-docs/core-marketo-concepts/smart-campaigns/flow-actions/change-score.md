@@ -23,7 +23,7 @@ Het noteren van mensen is gemakkelijk en krachtig en helpt uw verkoopteam voorra
 
    >[!TIP]
    >
-   >U kunt meerdere scorevelden maken. Zie [ een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} voor details creëren.
+   >U kunt meerdere scorevelden maken. Zie [&#x200B; een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} voor details creëren.
 
 1. Voer de gewenste score in.
 

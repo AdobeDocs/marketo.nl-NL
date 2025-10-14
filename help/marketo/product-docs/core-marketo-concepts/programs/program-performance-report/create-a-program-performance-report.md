@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bekijk de grote statistieken over uw programma&#39;s met dit rapport.
 
-1. [ creeer een rapport in een programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} en selecteer het **[!UICONTROL Program Performance]** [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [&#x200B; creeer een rapport in een programma &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} en selecteer het **[!UICONTROL Program Performance]** [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 1. Klik op de tab **[!UICONTROL Report]** .
 1. Je bent er! Verken uw rapport om te zien hoe uw programma&#39;s werken.
 
@@ -23,7 +23,7 @@ Bekijk de grote statistieken over uw programma&#39;s met dit rapport.
 
 >[!TIP]
 >
->Om de programma&#39;s met de laagste *Kosten per Succes* te vinden, bijvoorbeeld, [ soort uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op die kolom en kies **[!UICONTROL Sort Ascending]**.
+>Om de programma&#39;s met de laagste *Kosten per Succes* te vinden, bijvoorbeeld, [&#x200B; soort uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op die kolom en kies **[!UICONTROL Sort Ascending]**.
 
 De kolommen in een rapport van de Prestaties van het Programma omvatten:
 

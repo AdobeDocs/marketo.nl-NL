@@ -33,7 +33,7 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
 
    >[!TIP]
    >
-   >U kunt [ e-mails als malplaatjes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) voor uw verkoopteam publiceren om te gebruiken.
+   >U kunt [&#x200B; e-mails als malplaatjes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) voor uw verkoopteam publiceren om te gebruiken.
 
 1. Voeg een onderwerp toe, stel uw e-mail samen en klik op **[!UICONTROL Send Email]** . (Kies een sjabloon als u die nodig hebt.)
 
@@ -51,4 +51,4 @@ Echt waar! Nu weet u hoe u e-mails die door Marketo zijn bijgehouden, rechtstree
 
 >[!MORELIKETHIS]
 >
->[ voeg een Lood/Contact aan een Campagne van Marketo van  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) toe
+>[&#x200B; voeg een Lood/Contact aan een Campagne van Marketo van  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) toe

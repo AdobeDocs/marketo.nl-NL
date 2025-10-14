@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [ creeer een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [&#x200B; creeer een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Gebruik Segmentering in fragmenten om dynamische inhoud op uw e-mails en landingspagina&#39;s eenvoudig te beheren.
 
@@ -52,5 +52,5 @@ Was dat niet eenvoudig? U bent nu allen klaar om deze fragmenten op E-mail en he
 
 >[!MORELIKETHIS]
 >
->* [ voeg een Fragment aan E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) toe
->* [ voeg een Fragment aan een het Bestaan Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md) toe
+>* [&#x200B; voeg een Fragment aan E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) toe
+>* [&#x200B; voeg een Fragment aan een het Bestaan Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md) toe

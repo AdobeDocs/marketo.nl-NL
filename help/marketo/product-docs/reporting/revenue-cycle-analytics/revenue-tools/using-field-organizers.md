@@ -49,4 +49,4 @@ Maak op dezelfde manier meer veldorganisaties, als u ze nodig hebt. En daar ben 
 
 >[!MORELIKETHIS]
 >
->[ creeer de Groepen van het Gebied van de Douane die de Organisator van het Gebied gebruiken ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+>[&#x200B; creeer de Groepen van het Gebied van de Douane die de Organisator van het Gebied gebruiken &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

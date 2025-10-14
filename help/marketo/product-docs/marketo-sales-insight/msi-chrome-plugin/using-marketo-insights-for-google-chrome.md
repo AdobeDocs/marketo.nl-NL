@@ -17,7 +17,7 @@ Verzend en traceer Google-e-mailberichten met Marketo Insights for [!DNL Google 
 
 >[!PREREQUISITES]
 >
->[ installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[&#x200B; installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ U kunt antwoorden en oude activiteit in de activiteitengeschiedenis van een lood
 
    >[!MORELIKETHIS]
    >
-   >* [ installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [ de Persoon van de Mening en de Informatie van de Rekening en Activiteiten in de Post van Google ](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [&#x200B; installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [&#x200B; de Persoon van de Mening en de Informatie van de Rekening en Activiteiten in de Post van Google &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

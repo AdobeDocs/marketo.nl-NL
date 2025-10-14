@@ -17,7 +17,7 @@ Ontvang wekelijks een e-mail met je topaccounts en hun wekelijkse trends.
 
 >[!NOTE]
 >
->Leer hoe te opstelling dit rapport [ hier ](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Leer hoe te opstelling dit rapport [&#x200B; hier &#x200B;](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 In het verslag wordt het volgende vermeld:
 

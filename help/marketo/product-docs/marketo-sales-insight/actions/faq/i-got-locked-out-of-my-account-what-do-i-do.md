@@ -12,4 +12,4 @@ ht-degree: 0%
 
 # Ik ben buiten mijn account gezet. Wat doe ik? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Op dit ogenblik, is de enige manier om uw rekening te krijgen ontgrendeld door [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support#) te contacteren.
+Op dit ogenblik, is de enige manier om uw rekening te krijgen ontgrendeld door [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support#) te contacteren.

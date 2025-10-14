@@ -17,7 +17,7 @@ Vijf [!DNL Sales Connect] knoppen worden boven aan de Gmail-pagina toegevoegd wa
 
 | Knop | Beschrijving |
 |---|---|
-| **[!UICONTROL Live Feed]button** | Opent omhoog uw [!DNL Sales Connect] [ Levende Diervoeders ](https://toutapp.com/next#live) waar u informatie in real time over uw e-mails kunt krijgen. |
+| **[!UICONTROL Live Feed]button** | Opent omhoog uw [!DNL Sales Connect] [&#x200B; Levende Diervoeders &#x200B;](https://toutapp.com/next#live) waar u informatie in real time over uw e-mails kunt krijgen. |
 | **[!UICONTROL Tasks]button** | Hiermee geeft u een vervolgkeuzelijst weer van al uw taken. |
-| **[!UICONTROL Templates and Conversations]knoppen** | Opent omhoog de [ pagina van de Webtoepassing ](https://toutapp.com/login) [!UICONTROL Templates] en [!UICONTROL Conversations] pagina, respectievelijk. Alles op uw Gmail-pagina. |
+| **[!UICONTROL Templates and Conversations]knoppen** | Opent omhoog de [&#x200B; pagina van de Webtoepassing &#x200B;](https://toutapp.com/login) [!UICONTROL Templates] en [!UICONTROL Conversations] pagina, respectievelijk. Alles op uw Gmail-pagina. |
 | **[!UICONTROL Sales Gong]button** | Staat u toe om uw gesloten/gewonnen overeenkomsten met uw teamgenoten te vieren. |

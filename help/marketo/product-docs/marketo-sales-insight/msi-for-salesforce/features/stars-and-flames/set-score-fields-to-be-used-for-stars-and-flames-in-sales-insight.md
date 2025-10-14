@@ -57,4 +57,4 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld **[!UICONTROL Lead Scor
 
    >[!MORELIKETHIS]
    >
-   >[ Prioriteit, Urgentie, Relatieve Score, en Beste Bets ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[&#x200B; Prioriteit, Urgentie, Relatieve Score, en Beste Bets &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

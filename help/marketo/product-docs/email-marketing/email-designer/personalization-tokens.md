@@ -25,7 +25,7 @@ De e-mailontwerper heeft een andere indeling dan de klassieke e-maileditor voor 
 
 ## Hoofd-/kleine letters {#primary-use-case}
 
-Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
+Deze verbetering komt hoofdzakelijk die die die van [&#x200B; scripting van de Snelheid &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
 
 ## Tokenervaring {#token-experience}
 
@@ -39,7 +39,7 @@ In de klassieke e-maileditor kunt u tokens toevoegen met spaties, zoals `lead.An
 
 ### Nieuwe indeling {#new-format}
 
-In de e-mailontwerper, moet u [ camel geval ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) of onderstrepingstekens voor tekenen (b.v., `lead.anonymousIP` of `member.registration_code`) gebruiken. De opmaak voor standaardtekst verandert ook in `{%=lead.city ?: "fallback" %}` .
+In de e-mailontwerper, moet u [&#x200B; camel geval &#x200B;](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) of onderstrepingstekens voor tekenen (b.v., `lead.anonymousIP` of `member.registration_code`) gebruiken. De opmaak voor standaardtekst verandert ook in `{%=lead.city ?: "fallback" %}` .
 
 ![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 

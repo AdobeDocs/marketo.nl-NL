@@ -36,7 +36,7 @@ Wij wijzen automatisch een bron aan elk contact toe dat het gegevensbestand inga
 
 ## Toestemming {#authorization}
 
-In overeenstemming met [ GDPR ](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
+In overeenstemming met [&#x200B; GDPR &#x200B;](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
 
 ![](assets/bulk-actions-on-people-4.png)
 

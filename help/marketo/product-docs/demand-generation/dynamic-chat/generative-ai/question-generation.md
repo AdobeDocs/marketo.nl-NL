@@ -30,7 +30,7 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
    >[!IMPORTANT]
    >
-   >Om ervoor te zorgen dat Marketo Engage inhoud van verstrekte URLs kan schrapen, moet u verscheidene IP adressen eerst lijsten van gewenste personen. [ zie hieronder voor details ](#ip-addresses-to-allowlist).
+   >Om ervoor te zorgen dat Marketo Engage inhoud van verstrekte URLs kan schrapen, moet u verscheidene IP adressen eerst lijsten van gewenste personen. [&#x200B; zie hieronder voor details &#x200B;](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
 >[!NOTE]
 >
->De geproduceerde vragen en de antwoorden zijn ook viewable in de [ bibliotheek van de Reactie ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>De geproduceerde vragen en de antwoorden zijn ook viewable in de [&#x200B; bibliotheek van de Reactie &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Zoek de gewenste taak en klik op het downloadpictogram naast de naam ervan.
 
@@ -66,7 +66,7 @@ Bekijk al uw taken en de relevante details, zoals het tijdstip waarop deze zijn 
 
    >[!NOTE]
    >
-   >Als u beslist om vragen en/of antwoorden in bulk toe te voegen/uit te geven, [ leert hoe te om hen hier ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) opnieuw te uploaden.
+   >Als u beslist om vragen en/of antwoorden in bulk toe te voegen/uit te geven, [&#x200B; leert hoe te om hen hier &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) opnieuw te uploaden.
 
 1. Het tabblad **[!DNL Q&Rs]** bevat aanvullende details, zoals de gegenereerde vragen en antwoorden.
 

@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->LinkedIn voert een upgrade uit van de marketing-API&#39;s die door Marketo Engage LinkedIn-integratie worden gebruikt. Deze veranderingen zullen re-authentificatie van alle diensten LinkedIn LaunchPoint in uw **Admin** > **LaunchPoint** menu tussen 7 Juni en 15 December, 2024 vereisen, om de dienstonderbreking te vermijden. Voor meer informatie, gelieve te zien [ Veelgestelde vragen van de Migratie ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn voert een upgrade uit van de marketing-API&#39;s die door Marketo Engage LinkedIn-integratie worden gebruikt. Deze veranderingen zullen re-authentificatie van alle diensten LinkedIn LaunchPoint in uw **Admin** > **LaunchPoint** menu tussen 7 Juni en 15 December, 2024 vereisen, om de dienstonderbreking te vermijden. Voor meer informatie, gelieve te zien [&#x200B; Veelgestelde vragen van de Migratie &#x200B;](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -65,4 +65,4 @@ Sluit uw Marketo-account aan op [!DNL LinkedIn] Gelijkend publiek om een statisc
 
 >[!MORELIKETHIS]
 >
->[ Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het a [!DNL LinkedIn]  publiek ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[&#x200B; Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het a [!DNL LinkedIn]  publiek &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

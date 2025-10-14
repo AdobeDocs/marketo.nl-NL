@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
+>[&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
 In dit artikel past u veldmachtigingen aan met een [!DNL Salesforce] pagina-indeling en maakt u een Marketo- [!DNL Salesforce] -synchronisatiegebruiker.
 
@@ -118,4 +118,4 @@ Uitstekend! Nu hebt u een account waarmee Marketo verbinding kan maken met [!DNL
 
 >[!MORELIKETHIS]
 >
->[ Stap 3 van 3: Verbind Marketo en Salesforce (Beroeps) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}
+>[&#x200B; Stap 3 van 3: Verbind Marketo en Salesforce (Beroeps) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

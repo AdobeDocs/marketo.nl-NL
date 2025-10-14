@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # De e-mailplug-in Sales Connect voor Outlook (Online, Mac en Windows) installeren {#install-the-sales-connect-email-plugin-for-outlook}
 
-We hebben een integratie met [!DNL Outlook Web Apps] gemaakt. [!DNL Outlook Web Apps] is een versie van [!DNL Outlook] die bij het abonnement van [!DNL Office 365] wordt geleverd. Omdat het op browser-gebaseerd is, zal de integratie zowel op Mac als [!DNL Windows] werken. [ klik hier voor de volledige installatiegids ](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+We hebben een integratie met [!DNL Outlook Web Apps] gemaakt. [!DNL Outlook Web Apps] is een versie van [!DNL Outlook] die bij het abonnement van [!DNL Office 365] wordt geleverd. Omdat het op browser-gebaseerd is, zal de integratie zowel op Mac als [!DNL Windows] werken. [&#x200B; klik hier voor de volledige installatiegids &#x200B;](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Als Admin, kunt u [ dit namens uw volledig team ](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) installeren.
+Als Admin, kunt u [&#x200B; dit namens uw volledig team &#x200B;](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) installeren.
 
 >[!IMPORTANT]
 >

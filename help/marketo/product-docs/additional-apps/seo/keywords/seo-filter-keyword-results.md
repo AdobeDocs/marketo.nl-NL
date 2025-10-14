@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Trefwoordresultaten filteren {#seo-filter-keyword-results}
 
-U zou veel [ sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md) kunnen hebben. U kunt deze op verschillende manieren filteren:
+U zou veel [&#x200B; sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md) kunnen hebben. U kunt deze op verschillende manieren filteren:
 
 ## Filteren op lijst {#filter-by-list}
 
@@ -27,7 +27,7 @@ U zou veel [ sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/key
 
    >[!NOTE]
    >
-   >Als u geen lijsten ziet, [ leren hoe te om een sleutelwoordlijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) te maken.
+   >Als u geen lijsten ziet, [&#x200B; leren hoe te om een sleutelwoordlijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) te maken.
 
 Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 

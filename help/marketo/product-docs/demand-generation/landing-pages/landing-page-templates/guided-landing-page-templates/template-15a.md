@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 15A {#template-15a}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 15A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 15A &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=nl-NL)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 15A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=nl-NL)
+[&#x200B; Malplaatje 15A.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html?lang=nl-NL)

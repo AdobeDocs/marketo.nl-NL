@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Met de documentkaart kunt u PDF-documenten insluiten in dialoogvensters en de betrokkenheid van bezoekers bij documenten bijhouden. Hier is hoe u het kunt instellen.
 
-1. Navigeer aan [ Adobe PDF bed API ](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"} in.
+1. Navigeer aan [&#x200B; Adobe PDF bed API &#x200B;](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"} in.
 
 1. Klik op **[!UICONTROL Get Credentials]**.
 
@@ -44,4 +44,4 @@ Met de documentkaart kunt u PDF-documenten insluiten in dialoogvensters en de be
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-U kunt de kaart van het Document in uw Dialogen [ stroom Designer ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} nu gebruiken!
+U kunt de kaart van het Document in uw Dialogen [&#x200B; stroom Designer &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} nu gebruiken!

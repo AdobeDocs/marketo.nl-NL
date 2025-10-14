@@ -17,7 +17,7 @@ Leer hoe u e-mailberichten kunt maken, personaliseren en bekijken in de nieuwe M
 
 >[!PREREQUISITES]
 >
->Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [ Systeem van Identity Management van Adobe (IMS) ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
+>Om tot de nieuwe e-mailontwerper toegang te hebben, moet uw Marketo Engage abonnement aan het [&#x200B; Systeem van Identity Management van Adobe (IMS) &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} worden gemigreerd. Als u nog niet bent geweest en u zou willen verzoeken om het wordt bespoedigd, gelieve het Team van de Rekening van Adobe (uw rekeningsmanager), of [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
 
 ## Een e-mail maken {#create-an-email}
 
@@ -27,7 +27,7 @@ E-mails van de e-mailontwerper kunnen alleen in de Design Studio worden gemaakt 
 
 >[!TAB  Studio van het Ontwerp ]
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In Mijn Marketo, uitgezochte **Studio van het Ontwerp**.
 
@@ -47,7 +47,7 @@ E-mails van de e-mailontwerper kunnen alleen in de Design Studio worden gemaakt 
 
 >[!TAB  E-mailprogramma ]
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Uw e-mailprogramma zoeken en selecteren (of maken).
 
@@ -77,11 +77,11 @@ Dat is het. Nu is het tijd om je e-mail te ontwerpen.
 
 1. _creeer uw e-mail_ pagina laadt. U kunt uit een paar opties kiezen:
 
-* [ Ontwerp van kras ](#design-from-scratch) gebruikend de visuele e-mailredacteur
+* [&#x200B; Ontwerp van kras &#x200B;](#design-from-scratch) gebruikend de visuele e-mailredacteur
 
-* [ voer uw eigen HTML ](#import-html) via een HTML of zip dossier in
+* [&#x200B; voer uw eigen HTML &#x200B;](#import-html) via een HTML of zip dossier in
 
-* [ selecteer een bestaand malplaatje ](#choose-a-template) (één van onze steekproeven of één u reeds bewaarde)
+* [&#x200B; selecteer een bestaand malplaatje &#x200B;](#choose-a-template) (één van onze steekproeven of één u reeds bewaarde)
 
 ### Ontwerpen vanaf nul {#design-from-scratch}
 
@@ -89,13 +89,13 @@ Wanneer u helemaal niets begint in de e-maileditor, gebruikt u de onderstaande o
 
 1. In _creeer uw e-mail_ pagina, uitgezocht **Ontwerp van kras**.
 
-1. Voeg [ structuur en inhoud ](#add-structure-and-content) aan uw e-mail toe.
+1. Voeg [&#x200B; structuur en inhoud &#x200B;](#add-structure-and-content) aan uw e-mail toe.
 
-1. Voeg [ beelden ](#add-assets) toe.
+1. Voeg [&#x200B; beelden &#x200B;](#add-assets) toe.
 
-1. [ Personaliseer ](#personalize-content) uw inhoud.
+1. [&#x200B; Personaliseer &#x200B;](#personalize-content) uw inhoud.
 
-1. De verbindingen van het overzicht en [ geven het volgen ](#edit-url-tracking) uit.
+1. De verbindingen van het overzicht en [&#x200B; geven het volgen &#x200B;](#edit-url-tracking) uit.
 
 ### HTML importeren {#import-html}
 
@@ -119,7 +119,7 @@ U kunt bestaande HTML-inhoud importeren om uw e-mail te ontwerpen. De inhoud kan
 >
 >Wanneer de HTML-inhoud wordt geüpload, wordt de compatibiliteitsmodus gebruikt voor uw inhoud. In deze modus kunt u alleen uw tekst aanpassen, koppelingen toevoegen of elementen aan uw inhoud toevoegen.
 
-U kunt gewenste veranderingen in de ingevoerde inhoud aanbrengen gebruikend de [ visuele e-mailredacteurshulpmiddelen ](#add-structure-and-content).
+U kunt gewenste veranderingen in de ingevoerde inhoud aanbrengen gebruikend de [&#x200B; visuele e-mailredacteurshulpmiddelen &#x200B;](#add-structure-and-content).
 
 ### Een sjabloon kiezen {#choose-a-template}
 
@@ -183,9 +183,9 @@ Kies een van de out-of-the-box sjablonen voor een head start op uw sjabloonontwe
 
 ### Fragmenten toevoegen {#add-fragments}
 
-1. Om tot uw fragmenten toegang te hebben, selecteer het _pictogram van Fragmenten_ ( ![ pictogram van Fragmenten ](assets/icon-fragments.svg)) in de linkernavigatie.
+1. Om tot uw fragmenten toegang te hebben, selecteer het _pictogram van Fragmenten_ ( ![&#x200B; pictogram van Fragmenten &#x200B;](assets/icon-fragments.svg)) in de linkernavigatie.
 
-   ![ selecteer een fragment ](assets/add-fragments-1.png){width="700" zoomable="yes"}
+   ![&#x200B; selecteer een fragment &#x200B;](assets/add-fragments-1.png){width="700" zoomable="yes"}
 
 1. Sleep een van de fragmenten naar de tijdelijke aanduiding voor het structurele onderdeel.
 
@@ -199,7 +199,7 @@ Nadat de e-mail is opgeslagen, wordt deze weergegeven op het tabblad _[!UICONTRO
 
 ### Assets toevoegen {#add-assets}
 
-Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
+Voeg beelden toe die in de [&#x200B; sectie van Beelden en van Dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >
@@ -260,7 +260,7 @@ Tokens werken in de nieuwe redacteur de zelfde manier zij in het oude, maar het 
 
    ![](assets/authoring-personalize-content-1.png)
 
-1. Klik het gewenste [ symbolische type ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+1. Klik het gewenste [&#x200B; symbolische type &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
    ![](assets/authoring-personalize-content-2.png)
 
@@ -326,7 +326,7 @@ De waarschuwingen verwijzen naar aanbevelingen en beste praktijken zoals:
 
 >[!NOTE]
 >
->Het toevoegen van een unsubscribe optie wordt niet vereist voor [ Operationele E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (niet-marketing).
+>Het toevoegen van een unsubscribe optie wordt niet vereist voor [&#x200B; Operationele E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (niet-marketing).
 
 * **de versie van de Tekst van HTML is leeg**: U moet een tekstversie van uw e-maillichaam bepalen voor wanneer de inhoud van HTML niet kan worden getoond.
 
@@ -354,9 +354,9 @@ Om uw e-mailinhoud voor te vertonen, klik **inhoud** simuleren, dan voeg een tes
 
 E-mailberichten van Designer zijn toegankelijk via e-mail-, betrokkenheid-, standaard- en gebeurtenisprogramma&#39;s (met uitzondering van interactieve webinar-programma&#39;s). Als u uw e-mail in de Studio van het Ontwerp creeerde, kan het van Slimme Campagnes en/of Slimme Lijsten worden van verwijzingen voorzien zoals u met een andere e-mail zou doen.
 
-* Verwijzing het in een Slimme Lijst door [ na de gebruikelijke stappen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+* Verwijzing het in een Slimme Lijst door [&#x200B; na de gebruikelijke stappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
-* Verwijzing het in een Slimme Campagne door [ na de gebruikelijke stappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+* Verwijzing het in een Slimme Campagne door [&#x200B; na de gebruikelijke stappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
 >[!NOTE]
 >
@@ -364,4 +364,4 @@ E-mailberichten van Designer zijn toegankelijk via e-mail-, betrokkenheid-, stan
 
 >[!MORELIKETHIS]
 >
->[ E-mailmalplaatjes ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe ontwerper te leiden te ontwerpen en toegang te hebben.
+>[&#x200B; E-mailmalplaatjes &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: Leer hoe te om, tot een e-mailmalplaatje in de nieuwe ontwerper te leiden te ontwerpen en toegang te hebben.

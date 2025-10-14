@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een e-mailscripttoken maken {#create-an-email-script-token}
 
-Voor gevorderde ontwikkelaars, kunt u {de manuscripten van de Snelheid van 0} [ in uw e-mails gebruiken. ](https://velocity.apache.org/engine/1.7/user-guide.html) Zo doe je het.
+Voor gevorderde ontwikkelaars, kunt u {de manuscripten van de Snelheid van 0} [&#x200B; in uw e-mails gebruiken. &#x200B;](https://velocity.apache.org/engine/1.7/user-guide.html) Zo doe je het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -49,10 +49,10 @@ Voor gevorderde ontwikkelaars, kunt u {de manuscripten van de Snelheid van 0} [ 
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele nuttige bronnen:
 
-   * [ de Documentatie van Scripting van de Ontwikkelaars E-mail van Marketo ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting)
-   * [ Gids van de Gebruiker van 0&rbrace; Snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [ Gids van de Verwijzing van 0&rbrace; Snelheid](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [ de Hulpmiddelen Javadoc van de Snelheid &lbrace;](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [&#x200B; de Documentatie van Scripting van de Ontwikkelaars E-mail van Marketo &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting)
+   * [&#x200B; Gids van de Gebruiker van 0&rbrace; Snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [&#x200B; Gids van de Verwijzing van 0&rbrace; Snelheid](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [&#x200B; de Hulpmiddelen Javadoc van de Snelheid &lbrace;](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Klik op **[!UICONTROL Save]** wanneer het script is voltooid.
 
@@ -66,4 +66,4 @@ Nu kunt u deze token gebruiken in uw e-mails. Het script wordt uitgevoerd telken
 
 >[!MORELIKETHIS]
 >
->[ voeg een Token van het Manuscript E-mail aan Uw E-mail toe ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[&#x200B; voeg een Token van het Manuscript E-mail aan Uw E-mail toe &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

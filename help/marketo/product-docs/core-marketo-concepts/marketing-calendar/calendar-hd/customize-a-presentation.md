@@ -22,13 +22,13 @@ Opstelling uw kalenderpresentatie om op de doelstellingen en de activiteiten te 
 
 >[!PREREQUISITES]
 >
->* [ creeer de Doelen van de Douane ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} of [ Slimme Doelen van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
+>* [&#x200B; creeer de Doelen van de Douane &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} of [&#x200B; Slimme Doelen van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
 >
->* [ creeer een Presentatie ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
+>* [&#x200B; creeer een Presentatie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
 
 ## De weergaven kiezen {#choosing-the-views}
 
-De cycli van presentaties door verschillende [ filterdefinities ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} u kiest. Trek zoveel weergaven in als u wilt en pas de frequentie aan.
+De cycli van presentaties door verschillende [&#x200B; filterdefinities &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} u kiest. Trek zoveel weergaven in als u wilt en pas de frequentie aan.
 
 1. Sleep in de rechterstructuur in de verschillende weergaven die u wilt roteren in de presentatie.
 
@@ -36,7 +36,7 @@ De cycli van presentaties door verschillende [ filterdefinities ](/help/marketo/
 
 ## Een doel toevoegen {#add-a-goal}
 
-Presentaties zijn het meest fantastisch wanneer ze uw teamdoelen weergeven. Enkel belemmering over verschillende [ douanedoelstellingen ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} of [ slimme lijstdoelstellingen ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. U kunt maximaal 10 gebruiken.
+Presentaties zijn het meest fantastisch wanneer ze uw teamdoelen weergeven. Enkel belemmering over verschillende [&#x200B; douanedoelstellingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} of [&#x200B; slimme lijstdoelstellingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. U kunt maximaal 10 gebruiken.
 
 1. Sleep vanuit de rechterstructuur in de verschillende doelen die u in uw presentatie wilt weergeven.
 
@@ -70,7 +70,7 @@ De kalenderweergave kan worden gewijzigd in een weergave van 3 weken of per maan
 
 >[!TIP]
 >
->Plaats a [ achtergrondbeeld ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} voor uw presentatie. We stellen katjes of regenbogen voor.
+>Plaats a [&#x200B; achtergrondbeeld &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} voor uw presentatie. We stellen katjes of regenbogen voor.
 
 ## Een presentatie voorvertonen {#preview-a-presentation}
 
@@ -88,5 +88,5 @@ Nadat de presentatie is geconfigureerd, kunt u deze voorvertonen en starten.
 
 >[!MORELIKETHIS]
 >
->* [ voeg een Achtergrondbeeld aan een Presentatie toe ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}
->* [ Lancering een Presentatie ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md){target="_blank"}
+>* [&#x200B; voeg een Achtergrondbeeld aan een Presentatie toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}
+>* [&#x200B; Lancering een Presentatie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md){target="_blank"}

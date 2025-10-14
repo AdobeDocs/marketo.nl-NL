@@ -37,5 +37,5 @@ U kunt &quot;[!UICONTROL Wait]&quot;debietstap gebruiken om de reis van een pers
 
 >[!MORELIKETHIS]
 >
->* [ Gebruik een Duur in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
->* [ Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}
+>* [&#x200B; Gebruik een Duur in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+>* [&#x200B; Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

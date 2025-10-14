@@ -17,7 +17,7 @@ Azure Active Directory breidt uw mappen op locatie uit naar de cloud en biedt on
 
 ## Een nieuwe app registreren {#registering-a-new-app}
 
-1. [ Login ](https://login.microsoftonline.com/){target="_blank"} aan het Microsoft Azure beheersportaal gebruikend een rekening met admintoestemmingen. U kunt het Microsoft Azure-portaal ook openen via Office 365 Admin Center door het item **[!UICONTROL Admin]** uit te vouwen in het linkernavigatievenster en **[!UICONTROL Azure AD]** te selecteren.
+1. [&#x200B; Login &#x200B;](https://login.microsoftonline.com/){target="_blank"} aan het Microsoft Azure beheersportaal gebruikend een rekening met admintoestemmingen. U kunt het Microsoft Azure-portaal ook openen via Office 365 Admin Center door het item **[!UICONTROL Admin]** uit te vouwen in het linkernavigatievenster en **[!UICONTROL Azure AD]** te selecteren.
 
    >[!CAUTION]
    >
@@ -25,10 +25,10 @@ Azure Active Directory breidt uw mappen op locatie uit naar de cloud en biedt on
 
    >[!NOTE]
    >
-   >Als u geen Azure rekening hebt, kunt u [ omhoog ](https://azure.microsoft.com/en-us/free/){target="_blank"} voor ondertekenen. Raadpleeg de documentatie bij Microsoft of neem contact op met uw Microsoft-vertegenwoordiger voor meer informatie. Nadat u een Azure-account hebt gemaakt, kunt u een of meer apps registreren aan de hand van de onderstaande procedure.
+   >Als u geen Azure rekening hebt, kunt u [&#x200B; omhoog &#x200B;](https://azure.microsoft.com/en-us/free/){target="_blank"} voor ondertekenen. Raadpleeg de documentatie bij Microsoft of neem contact op met uw Microsoft-vertegenwoordiger voor meer informatie. Nadat u een Azure-account hebt gemaakt, kunt u een of meer apps registreren aan de hand van de onderstaande procedure.
    >
    >
-   >Als u een Azure rekening maar uw [!DNL Office 365] abonnement met [!DNL Microsoft Dynamics 365] niet beschikbaar in uw Azure abonnement hebt, volg [ deze instructies ](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} om de twee rekeningen te associëren.
+   >Als u een Azure rekening maar uw [!DNL Office 365] abonnement met [!DNL Microsoft Dynamics 365] niet beschikbaar in uw Azure abonnement hebt, volg [&#x200B; deze instructies &#x200B;](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} om de twee rekeningen te associëren.
 
 1. Zoek en klik op **[!UICONTROL Azure Active Directory]** in het navigatievenster aan de linkerkant.
 

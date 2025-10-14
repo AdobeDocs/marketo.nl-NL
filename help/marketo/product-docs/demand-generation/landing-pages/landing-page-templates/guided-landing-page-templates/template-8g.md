@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 8G {#template-8g}
 
-Klik met de rechtermuisknop om [ Sjabloon 8G te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=nl-NL)
+Klik met de rechtermuisknop om [&#x200B; Sjabloon 8G te downloaden &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=nl-NL)
 
 ![](assets/image2015-7-29-14-3a58-3a16.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 8G.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=nl-NL)
+[&#x200B; Malplaatje 8G.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8g.html?lang=nl-NL)

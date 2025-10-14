@@ -17,11 +17,11 @@ De volgende functies zijn opgenomen in de release van oktober 2013.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[ Templates.marketo.com ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) toont e-mail en het landen paginasjablonen (met inbegrip van ontvankelijke mobiele e-mailmalplaatjes) die u van [!DNL Marketo Program Library] kunt downloaden. We voegen maandelijks templates toe, vaak terugchecken!
+[&#x200B; Templates.marketo.com &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) toont e-mail en het landen paginasjablonen (met inbegrip van ontvankelijke mobiele e-mailmalplaatjes) die u van [!DNL Marketo Program Library] kunt downloaden. We voegen maandelijks templates toe, vaak terugchecken!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[ Developer.adobe.com ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) is voor ontwikkelaars die integratie in Marketo willen bouwen. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Java SDK is ook beschikbaar op [ GitHub ](https://github.com/Marketo/SOAP-API-Java-Client).
+[&#x200B; Developer.adobe.com &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) is voor ontwikkelaars die integratie in Marketo willen bouwen. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Java SDK is ook beschikbaar op [&#x200B; GitHub &#x200B;](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Bijgewerkte [!DNL BrightTALK] gebeurtenisadapter {#updated-brighttalk-event-adapter}
 

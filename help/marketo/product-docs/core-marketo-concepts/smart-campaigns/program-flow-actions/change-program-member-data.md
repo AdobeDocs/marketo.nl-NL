@@ -42,5 +42,5 @@ Voer nu gewoon de slimme campagne uit en u bent klaar!
 
 >[!MORELIKETHIS]
 >
->* [ Tokens van het Gebruik in Stappen van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
->* [ voegt Gegevens aan een Gebied ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"} toe
+>* [&#x200B; Tokens van het Gebruik in Stappen van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [&#x200B; voegt Gegevens aan een Gebied &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"} toe

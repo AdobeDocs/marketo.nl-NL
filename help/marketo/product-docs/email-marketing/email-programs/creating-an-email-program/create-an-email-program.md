@@ -37,5 +37,5 @@ Mooi! Het programma staat nu in de boom en is klaar om te worden gebruikt. De vo
 
 >[!MORELIKETHIS]
 >
->* [ bepaal een Publiek met een Slimme Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [ bepaal een Publiek door een Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) in te voeren
+>* [&#x200B; bepaal een Publiek met een Slimme Lijst &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [&#x200B; bepaal een Publiek door een Lijst &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) in te voeren

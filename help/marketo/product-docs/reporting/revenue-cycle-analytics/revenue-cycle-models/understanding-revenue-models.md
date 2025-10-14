@@ -37,7 +37,7 @@ Door gebrek, begint een nieuw model u met zes opbrengststadia. Dit model is op z
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd het **Weg van het Succes**. Begrijp meer over de succesweg [ hier ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd het **Weg van het Succes**. Begrijp meer over de succesweg [&#x200B; hier &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **de Staven** zijn de mijlpalen op een leidingenvooruitgang in de richting van hun doelstellingen.
 
@@ -95,14 +95,14 @@ Verloren is een goede om toe te voegen, maar u ziet dat het niet op het groene p
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [&#x200B; Gebruikend de Staven van de Inventaris van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [ Gebruikend de Staven van de Staven van de Soort van de Opbrengst Model ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [&#x200B; Gebruikend de Staven van de Staven van de Soort van de Opbrengst Model &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [ Gebruikend de Stages van SLA van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [&#x200B; Gebruikend de Stages van SLA van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [ Rapport over Uw Model van Inkomsten ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [&#x200B; Rapport over Uw Model van Inkomsten &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
->* [ keur/keurt een Model van de Opbrengst goed ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>* [&#x200B; keur/keurt een Model van de Opbrengst goed &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

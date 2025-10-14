@@ -17,7 +17,7 @@ Controleer op de pagina [!UICONTROL Sends] de kenmerken van recente e-mailcommun
 
 ![](assets/one.png)
 
-Gebruik [ het filtreren ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om te specificeren welke e-mails u wilt zien.
+Gebruik [&#x200B; het filtreren &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om te specificeren welke e-mails u wilt zien.
 
 ![](assets/filtering.png)
 
@@ -47,4 +47,4 @@ Koel spul!
 
 >[!MORELIKETHIS]
 >
->[ E-mail het Overzicht van Analytics van Inzichten ](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>[&#x200B; E-mail het Overzicht van Analytics van Inzichten &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)

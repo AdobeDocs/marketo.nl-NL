@@ -27,7 +27,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
-1. Login aan uw [!DNL Dynamic Tag Manager] rekening ([ https://dtm.adobe.com/sign_in ](https://dtm.adobe.com/sign_in)).
+1. Login aan uw [!DNL Dynamic Tag Manager] rekening ([&#x200B; https://dtm.adobe.com/sign_in &#x200B;](https://dtm.adobe.com/sign_in)).
 
 1. Ga naar **[!UICONTROL Dashboard].** Klik op de relevante webeigenschap.
 

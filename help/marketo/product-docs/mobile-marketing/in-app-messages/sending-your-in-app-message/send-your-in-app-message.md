@@ -20,18 +20,18 @@ Nadat u uw in-app bericht hebt gecreeerd, is het tijd om het uit te zenden. Hier
 
 1. Klik in [!UICONTROL Marketing Activities] op de map waar u het programma wilt laten wonen en kies **[!UICONTROL New Program]** .
 
-   ![ Beeld Één ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
+   ![&#x200B; Beeld Één &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
 1. Voer een naam in.
 
-   ![ Beeld Twee ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
+   ![&#x200B; Beeld Twee &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
 1. Selecteer het programmatype In-App in de keuzelijst en klik op **[!UICONTROL Create]** .
 
-   ![ Beeld Drie ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
+   ![&#x200B; Beeld Drie &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
 1. Gebruik [!UICONTROL Control Panel] om te bepalen wie, wat, en wanneer van het in-app bericht, en wanneer u wordt gedaan, goedkeuren het. Er is een apart artikel voor elke stap.
 
-   ![ Beeld Vier ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
+   ![&#x200B; Beeld Vier &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Klaar? Begin met [ plaatsend het publiek ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Klaar? Begin met [&#x200B; plaatsend het publiek &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

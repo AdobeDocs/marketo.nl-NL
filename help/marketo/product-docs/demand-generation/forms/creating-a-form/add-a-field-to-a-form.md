@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een veld toevoegen aan een formulier {#add-a-field-to-a-form}
 
-Zodra u uw vorm [ hebt gecreeerd en ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} geselecteerd een thema [, kunt u extra gebieden voor mensen willen toevoegen om uit te vullen. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} Zo gaat het.
+Zodra u uw vorm [&#x200B; hebt gecreeerd en &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} geselecteerd een thema [, kunt u extra gebieden voor mensen willen toevoegen om uit te vullen. &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -53,4 +53,4 @@ Zodra u uw vorm [ hebt gecreeerd en ](/help/marketo/product-docs/demand-generati
 
 >[!MORELIKETHIS]
 >
->[ maak een vormgebied vereist ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
+>[&#x200B; maak een vormgebied vereist &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}

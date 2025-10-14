@@ -21,7 +21,7 @@ Creeer een nieuwe persoonverdeling na deze stappen.
 
 >[!NOTE]
 >
->Begrijp eerst met [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Begrijp eerst met [&#x200B; Begrijpend Werkruimten en de Verdelingen van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

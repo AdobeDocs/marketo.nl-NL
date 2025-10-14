@@ -47,7 +47,7 @@ Nadat u opstelling de openbare sleutel in uw DNS verslag en het verzendende dome
 
 **hoe ik opstelling DKIM?**
 
-Gelieve te verwijzen naar [ Opstelling een Handtekening van DKIM van de Douane ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+Gelieve te verwijzen naar [&#x200B; Opstelling een Handtekening van DKIM van de Douane &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

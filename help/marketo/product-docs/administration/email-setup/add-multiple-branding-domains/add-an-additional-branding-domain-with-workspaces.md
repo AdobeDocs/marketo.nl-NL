@@ -17,9 +17,9 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
 
 >[!PREREQUISITES]
 >
->U moet [ uw standaard brandend domein ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) eerst uitgeven.
+>U moet [&#x200B; uw standaard brandend domein &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) eerst uitgeven.
 >
->U moet eerst [ de generische volgende verbinding ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) met een brandend domein vervangen alvorens extra brandende domeinen toe te voegen.
+>U moet eerst [&#x200B; de generische volgende verbinding &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) met een brandend domein vervangen alvorens extra brandende domeinen toe te voegen.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

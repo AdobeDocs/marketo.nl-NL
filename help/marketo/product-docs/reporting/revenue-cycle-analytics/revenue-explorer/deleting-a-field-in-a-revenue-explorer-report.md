@@ -25,4 +25,4 @@ Soms sleept u een verkeerd veld naar het rapport. Hieronder wordt beschreven hoe
 
 >[!MORELIKETHIS]
 >
->[ het Opslaan van a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[&#x200B; het Opslaan van a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

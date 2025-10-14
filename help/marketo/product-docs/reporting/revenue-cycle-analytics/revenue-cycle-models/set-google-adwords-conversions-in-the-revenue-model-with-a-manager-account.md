@@ -13,9 +13,9 @@ ht-degree: 1%
 
 # Conversies [!DNL Google AdWords] in het inkomstenmodel instellen met een beheerdersaccount {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, zult u gemakkelijk kunnen zien welke kliks in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia resulteerden u) wilt volgen nadat u [ douanekolommen ](https://support.google.com/adwords/answer/3073556) in [!DNL AdWords] toevoegt.
+Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, zult u gemakkelijk kunnen zien welke kliks in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia resulteerden u) wilt volgen nadat u [&#x200B; douanekolommen &#x200B;](https://support.google.com/adwords/answer/3073556) in [!DNL AdWords] toevoegt.
 
-Als u veelvoudige [!DNL Google Adwords] rekeningen hebt, kunt u de Rekening van de Manager van de a [[!DNL Google AdWords]  gebruiken ](https://www.google.com/adwords/manager-accounts/) (vroeger gekend als Mijn Centrum van de Cliënt) om hen met Marketo te integreren.
+Als u veelvoudige [!DNL Google Adwords] rekeningen hebt, kunt u de Rekening van de Manager van de a [[!DNL Google AdWords]  gebruiken &#x200B;](https://www.google.com/adwords/manager-accounts/) (vroeger gekend als Mijn Centrum van de Cliënt) om hen met Marketo te integreren.
 
 U kunt [!DNL AdWords] offline conversies toewijzen aan een of meer fasen in een omzettingsmodel. Er zijn twee manieren:
 
@@ -24,7 +24,7 @@ U kunt [!DNL AdWords] offline conversies toewijzen aan een of meer fasen in een 
 
 >[!PREREQUISITES]
 >
->[ voeg  [!DNL Google AdWords]  als Dienst van het Lanceerpunt met een Rekening van de Manager toe ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+>[&#x200B; voeg  [!DNL Google AdWords]  als Dienst van het Lanceerpunt met een Rekening van de Manager toe &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## Werkgebiedactie gebruiken {#use-stage-action}
 
@@ -100,4 +100,4 @@ U kunt al uw modelfasen aan uw [!DNL AdWords] Omzetting in één plaats associë
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Als u de gegevens van de offline conversie wilt weergeven, moet u zich aanmelden bij uw [!DNL AdWords] -account. Wij adviseren u hun [ eigenschap van de Kolommen van de Douane ](https://support.google.com/adwords/answer/3073556) gebruikt om de kolommen van de omzettelling voor elke off-line omzetting tot stand te brengen u uit Marketo invoert.
+Als u de gegevens van de offline conversie wilt weergeven, moet u zich aanmelden bij uw [!DNL AdWords] -account. Wij adviseren u hun [&#x200B; eigenschap van de Kolommen van de Douane &#x200B;](https://support.google.com/adwords/answer/3073556) gebruikt om de kolommen van de omzettelling voor elke off-line omzetting tot stand te brengen u uit Marketo invoert.

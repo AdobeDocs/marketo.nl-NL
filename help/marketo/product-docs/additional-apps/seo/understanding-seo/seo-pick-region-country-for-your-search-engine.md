@@ -41,5 +41,5 @@ Zie nu de trefwoordnummers voor het land of de stad van uw keuze.
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend het Dashboard: Momentopname van SEO ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
->* [ Begrijpend het dashboard: De Aanbevelingen van SEO ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
+>* [&#x200B; Begrijpend het Dashboard: Momentopname van SEO &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [&#x200B; Begrijpend het dashboard: De Aanbevelingen van SEO &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}

@@ -19,7 +19,7 @@ De reden? [!DNL Sales Connect] is slim en onze actieve gebruikers zullen ons noo
 
 Zo ga je naar de enige plek waar we zelfcontrole laten zien.
 
-1. Ga naar [[!UICONTROL Command Center] ](https://toutapp.com/).
+1. Ga naar [[!UICONTROL Command Center] &#x200B;](https://toutapp.com/).
 
 1. Zoek de e-mail die u zelf hebt verzonden in de [!UICONTROL Sent folder] en selecteer deze.
 

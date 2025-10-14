@@ -16,15 +16,15 @@ Met de gegevensunificatie-veldsync voor [!DNL Sales Insight Actions] kan het sys
 
 Dit biedt actuele gegevens over personen in de [!DNL Sales Insight Actions] -webtoepassing en stelt het systeem in staat unieke id&#39;s te verzamelen voor corresponderende records in Marketo en records voor leads/contact/account/opportunity in [!DNL Salesforce] , zodat er naar records kan worden verwezen voor loggegevens.
 
-Deze synchronisatie kan worden ingeschakeld op het tabblad [!DNL Sales Insight Actions] Configuratie in de sectie Beheer van Marketo Engage. Voor meer informatiecontrole [ leidt de Synchronisatie van Gegevens ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync) in.
+Deze synchronisatie kan worden ingeschakeld op het tabblad [!DNL Sales Insight Actions] Configuratie in de sectie Beheer van Marketo Engage. Voor meer informatiecontrole [&#x200B; leidt de Synchronisatie van Gegevens &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync) in.
 
 ![](assets/actions-data-sync-faq-1.png)
 
 Het diagram hierboven toont hoe de menselijke activiteit en de taakgegevens tussen systemen kunnen synchroniseren. Een paar dingen:
 
 * Personenrecords worden vanuit Marketo Engage gesynchroniseerd met [!DNL Sales Insight Actions] , waardoor Marketo Engage de bron van de waarheid is voor [!DNL Sales Insight Actions] personengegevens
-* Zowel hebben Marketo Engage als [!DNL Sales Insight Actions] [ een mechanisme ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) voor het verzamelen van en het synchroniseren van unsubscribe status aan [!DNL Salesforce]
-* De status van Unsubscribe synchroniseert niet van de Acties van de Verkoop aan Marketo Engage, maar [!DNL Sales Insight Actions] kan worden gevormd om de status van Marketo te controleren Unsubscribe van mensen alvorens verkopers toe te staan om een e-mail met [ Marketo te verzenden Unsubscribe Controle ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
+* Zowel hebben Marketo Engage als [!DNL Sales Insight Actions] [&#x200B; een mechanisme &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) voor het verzamelen van en het synchroniseren van unsubscribe status aan [!DNL Salesforce]
+* De status van Unsubscribe synchroniseert niet van de Acties van de Verkoop aan Marketo Engage, maar [!DNL Sales Insight Actions] kan worden gevormd om de status van Marketo te controleren Unsubscribe van mensen alvorens verkopers toe te staan om een e-mail met [&#x200B; Marketo te verzenden Unsubscribe Controle &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md).
 
 Hieronder volgen enkele veelgestelde vragen over de werking van het synchroniseren van gegevens.
 
@@ -113,12 +113,12 @@ Met [!DNL Sales Insight Actions] kunnen beheerders configureren welke verkoopact
 
 ![](assets/actions-data-sync-faq-6.png)
 
-In het bovenstaande diagram ziet u welke informatie wordt aangemeld bij [!DNL Salesforce] . De activiteiten zoals e-mail en de vraag worden geregistreerd aan [!DNL Salesforce] in a [ unidirectionele synchronisatie ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [ Unsubscribes ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) en [ de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) worden gehouden bijgewerkt met een 2-wegsynchronisatie. Elk van deze gegevenssyncs is configureerbaar vanuit de [!DNL Sales Insight Actions] web app interface.
+In het bovenstaande diagram ziet u welke informatie wordt aangemeld bij [!DNL Salesforce] . De activiteiten zoals e-mail en de vraag worden geregistreerd aan [!DNL Salesforce] in a [&#x200B; unidirectionele synchronisatie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [&#x200B; Unsubscribes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) en [&#x200B; de Taken van de Herinnering &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) worden gehouden bijgewerkt met een 2-wegsynchronisatie. Elk van deze gegevenssyncs is configureerbaar vanuit de [!DNL Sales Insight Actions] web app interface.
 
 >[!MORELIKETHIS]
 >
->* [ synchroniserend Unsubscribes met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
->* [ Marketo Unsubscribe Controle ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [[!DNL Salesforce]  de Montages van de Synchronisatie ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
->* [ de Synchronisatie van de Taak van de herinnering met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [ initieert de Synchronisatie van Gegevens ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
+>* [&#x200B; synchroniserend Unsubscribes met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
+>* [&#x200B; Marketo Unsubscribe Controle &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
+>* [[!DNL Salesforce]  de Montages van de Synchronisatie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [&#x200B; de Synchronisatie van de Taak van de herinnering met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [&#x200B; initieert de Synchronisatie van Gegevens &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)

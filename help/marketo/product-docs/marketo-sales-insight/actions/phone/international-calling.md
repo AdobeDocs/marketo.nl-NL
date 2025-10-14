@@ -157,4 +157,4 @@ Ja. Wij steunen geen vraag aan de telefoonaantallen van de de tariefdienst van h
 
 **kan ik lokale aanwezigheid gebruiken wanneer het roepen van internationaal?**
 
-Nee. [ Lokale aanwezigheid ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) is beschikbaar voor de aantallen van de V.S. slechts.
+Nee. [&#x200B; Lokale aanwezigheid &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) is beschikbaar voor de aantallen van de V.S. slechts.

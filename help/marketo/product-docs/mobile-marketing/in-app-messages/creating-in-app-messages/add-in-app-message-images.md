@@ -23,7 +23,7 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
    >[!TIP]
    >
-   >Wat is het verschil tussen de sjablonen? Zie [ kiezen een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) alvorens u begonnen wordt.
+   >Wat is het verschil tussen de sjablonen? Zie [&#x200B; kiezen een Lay-out voor Uw Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) alvorens u begonnen wordt.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
@@ -87,9 +87,9 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
    >
    >Voor tikacties voor afbeeldingen, knoppen of achtergronden kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld anders afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of **[!UICONTROL None]** selecteert.
 
-Geweldig werk! Nu, is het tijd om [ de tekst voor uw in-app bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md) tot stand te brengen.
+Geweldig werk! Nu, is het tijd om [&#x200B; de tekst voor uw in-app bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md) tot stand te brengen.
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [&#x200B; kies een Lay-out voor Uw Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

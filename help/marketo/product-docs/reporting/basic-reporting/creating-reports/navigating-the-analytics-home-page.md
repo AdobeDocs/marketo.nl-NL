@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. Selecteer het type van a [ rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selecteer het type van a [&#x200B; rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-27-8-3a38-3a22.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend Mijn Rapporten en de Rapporten van de Groep ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
+>[&#x200B; Begrijpend Mijn Rapporten en de Rapporten van de Groep &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)

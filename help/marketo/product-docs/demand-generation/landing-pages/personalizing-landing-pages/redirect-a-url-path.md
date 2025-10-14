@@ -33,7 +33,7 @@ Met Marketo kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pagina. Z
 
    >[!NOTE]
    >
-   >Herinner me, kunt u URLs slechts opnieuw richten die met uw Marketo [ CNAME ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
+   >Herinner me, kunt u URLs slechts opnieuw richten die met uw Marketo [&#x200B; CNAME &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
 1. Typ het URL-pad (of de specifieke pagina) dat u wilt omleiden in het tweede **[!UICONTROL Original URL]** -veld rechts.
 
@@ -43,10 +43,10 @@ Met Marketo kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pagina. Z
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   U kunt [ gebruiken Marketo landende pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) als bestemming ook.
+   U kunt [&#x200B; gebruiken Marketo landende pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) als bestemming ook.
 
 Gefeliciteerd! U hebt het URL-pad omgeleid.
 
 >[!MORELIKETHIS]
 >
->[ richt een Marketo het Bestaan Pagina aan Een andere Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) opnieuw
+>[&#x200B; richt een Marketo het Bestaan Pagina aan Een andere Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) opnieuw

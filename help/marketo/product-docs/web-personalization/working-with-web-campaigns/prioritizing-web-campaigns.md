@@ -32,7 +32,7 @@ Prioriteit geven aan uw webcampagnes wanneer twee of meer webcampagnes elkaar ov
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Stel in de pagina Campagne bewerken de waarde [!UICONTROL Priority Score] in (9999 = Hoogste prioriteit 1 = Laagste prioriteit).
 

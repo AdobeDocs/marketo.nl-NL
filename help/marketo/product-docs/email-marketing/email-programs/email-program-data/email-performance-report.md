@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopende, geklikt, enz., maakt u een e-mailprestatierapport.
 
-1. [ creeer een Rapport in een Programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL Email Performance]** [ Type van Rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [ verander het Kader van de Tijd van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
+1. [&#x200B; creeer een Rapport in een Programma &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL Email Performance]** [&#x200B; Type van Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [&#x200B; verander het Kader van de Tijd van het Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
 1. Je bent er! Bekijk nu het rapport om te zien hoe uw e-mail(s) zijn uitgevoerd.
 
    >[!NOTE]
@@ -31,9 +31,9 @@ Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopend
 
    >[!NOTE]
    >
-   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik het **[!UICONTROL Smart List]** lusje aan [ creeer een slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) voor het rapport. Wanneer u niet filtert op een specifiek veld, stelt u het filter E-mailadres in op: **[!UICONTROL is not empty]** .
+   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik het **[!UICONTROL Smart List]** lusje aan [&#x200B; creeer een slimme lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) voor het rapport. Wanneer u niet filtert op een specifiek veld, stelt u het filter E-mailadres in op: **[!UICONTROL is not empty]** .
 
-   [ Uitgezochte de Kolommen van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mailrapport van Prestaties omvatten:
+   [&#x200B; Uitgezochte de Kolommen van het Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mailrapport van Prestaties omvatten:
 
    <table><thead>
 
@@ -92,6 +92,6 @@ Over het algemeen proberen we het gezond verstand te gebruiken om deze statistie
 
 >[!MORELIKETHIS]
 >
->* [ de Filter Assets in Campagne E-mailRapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
->* [ de Filter schrapte/verenigde verslagen in een Rapport van E-mailprestaties ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
->* [ Rapport van de Prestaties van de Verbinding E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}
+>* [&#x200B; de Filter Assets in Campagne E-mailRapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
+>* [&#x200B; de Filter schrapte/verenigde verslagen in een Rapport van E-mailprestaties &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
+>* [&#x200B; Rapport van de Prestaties van de Verbinding E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}

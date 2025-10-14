@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een rapport verwijderen {#delete-a-report}
 
-Zodra u [ creërend rapporten ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) begint, kunt u snel eindigen met veel van hen. Vergeet niet rapporten te verwijderen die u niet meer nodig hebt.
+Zodra u [&#x200B; creërend rapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) begint, kunt u snel eindigen met veel van hen. Vergeet niet rapporten te verwijderen die u niet meer nodig hebt.
 
 1. Klik met de rechtermuisknop op het overbodige rapport in de structuur en selecteer **[!UICONTROL Delete Report]** .
 

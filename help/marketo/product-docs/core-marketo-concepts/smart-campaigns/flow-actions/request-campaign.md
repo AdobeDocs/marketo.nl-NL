@@ -17,7 +17,7 @@ U kunt mensen in een specifieke campagne plaatsen door &quot;[!UICONTROL Request
 
 >[!NOTE]
 >
->De campagne u de persoon in plaatst moet actief zijn en de [ Campagne hebben wordt Gevraagde ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trekker.
+>De campagne u de persoon in plaatst moet actief zijn en de [&#x200B; Campagne hebben wordt Gevraagde &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trekker.
 
 1. Zoek en selecteer de gewenste persoon of personen in de **[!UICONTROL Database]** .
 

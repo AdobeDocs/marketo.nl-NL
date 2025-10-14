@@ -37,4 +37,4 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 
 >[!IMPORTANT]
 >
->Deze instelling geldt alleen voor koppelingen in rapporten en waarschuwingen. Het is **niet** van toepassing op de gemailde [ verbinding van het downloadrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) of marketing e-mails.
+>Deze instelling geldt alleen voor koppelingen in rapporten en waarschuwingen. Het is **niet** van toepassing op de gemailde [&#x200B; verbinding van het downloadrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) of marketing e-mails.

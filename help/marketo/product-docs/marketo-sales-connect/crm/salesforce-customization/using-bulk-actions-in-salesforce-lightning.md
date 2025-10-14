@@ -19,8 +19,8 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >Update naar de nieuwste versie van het [!DNL Sales Connect] -pakket en installeer de bulkactieknoppen in de weergave voor lead/contact.
 >
->* [ Instructies in het Engels ](assets/sf-guide-for-lightning-en.pdf)
->* [ Instructies in Japans ](assets/sf-guide-for-lightning-ja.pdf)
+>* [&#x200B; Instructies in het Engels &#x200B;](assets/sf-guide-for-lightning-en.pdf)
+>* [&#x200B; Instructies in Japans &#x200B;](assets/sf-guide-for-lightning-ja.pdf)
 
 >[!NOTE]
 >
@@ -87,5 +87,5 @@ d. U kunt het e-mailbericht meteen verzenden of plannen om het later te verzende
 
 >[!MORELIKETHIS]
 >
->* [ verzendend E-mails via E-mail van de Groep ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [ Samenstellend Bulk E-mail met Uitgezocht en verzendt ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [&#x200B; verzendend E-mails via E-mail van de Groep &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [&#x200B; Samenstellend Bulk E-mail met Uitgezocht en verzendt &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

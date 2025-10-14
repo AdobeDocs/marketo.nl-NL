@@ -31,4 +31,4 @@ Je geest veranderen? Geen probleem. De naam van een fase in de inkomstencyclusmo
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Zie? Eenvoudig! Herinner me aan [ uw Model ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md) goedkeuren.
+   Zie? Eenvoudig! Herinner me aan [&#x200B; uw Model &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md) goedkeuren.

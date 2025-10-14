@@ -27,15 +27,15 @@ Er zijn verschillende manieren waarop iemand opnieuw kan worden geabonneerd.
 
 Wis in Salesforce het veld E-mail uitschakelen in de record van de lead/contactpersoon. Dit wordt gesynchroniseerd met Marketo.
 
-![ het scherm van Salesforce ](assets/durable-unsubscribe-1.png)
+![&#x200B; het scherm van Salesforce &#x200B;](assets/durable-unsubscribe-1.png)
 
 Wis in Marketo het vak voor afmelden op het tabblad Info van de record van de persoon.
 
-![ ontruimend unsubscribe doos in een persoonverslag ](assets/durable-unsubscribe-2.png)
+![&#x200B; ontruimend unsubscribe doos in een persoonverslag &#x200B;](assets/durable-unsubscribe-2.png)
 
 Stel a _de stroomstap van de Waarde van Gegevens van de Verandering_ zoals hieronder getoond op één of vele mensen in werking.
 
-![ stap van de de gegevenswaarde van de Verandering ](assets/durable-unsubscribe-3.png)
+![&#x200B; stap van de de gegevenswaarde van de Verandering &#x200B;](assets/durable-unsubscribe-3.png)
 
 ## Een nieuwe persoon maken {#creating-a-new-person}
 
@@ -51,4 +51,4 @@ Net zoals een abonnement ertoe zou leiden dat alle mensen met hetzelfde e-mailad
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend Unsubscribe ](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[&#x200B; Begrijpend Unsubscribe &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)

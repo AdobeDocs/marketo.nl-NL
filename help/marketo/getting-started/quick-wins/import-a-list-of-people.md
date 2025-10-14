@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ krijgt Opstelling en voegt een Persoon ](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
+>[&#x200B; krijgt Opstelling en voegt een Persoon &#x200B;](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"} toe
 
 In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt importeren in Marketo.
 
@@ -45,7 +45,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
    >
    >* Marketo steunt **niet** e-mailadressen die emojis bevatten.
    >
-   >* Het invoeren van `NULL` waarden via CSV kon een &quot;Waarde van Gegevens van de Verandering&quot;voor numerieke gebieden in het 1&rbrace; activiteitenlogboek van een persoon [ produceren, ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} zelfs als de gebieden reeds leeg _zijn._ Als u om het even welke [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} hebt die de &quot;Gewijzigde&quot;filter van de Waarde van Gegevens of &quot;Veranderingen van de Waarde van Gegevens&quot;gebruiken, kon het mensen ertoe brengen om voor die campagnes te kwalificeren alhoewel het gegeven niet eigenlijk verandert. U kunt [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} gebruiken om ervoor te zorgen niemand voor die campagnes op de invoer kwalificeert.
+   >* Het invoeren van `NULL` waarden via CSV kon een &quot;Waarde van Gegevens van de Verandering&quot;voor numerieke gebieden in het 1&rbrace; activiteitenlogboek van een persoon [&#x200B; produceren, &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} zelfs als de gebieden reeds leeg _zijn._ Als u om het even welke [&#x200B; Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} hebt die de &quot;Gewijzigde&quot;filter van de Waarde van Gegevens of &quot;Veranderingen van de Waarde van Gegevens&quot;gebruiken, kon het mensen ertoe brengen om voor die campagnes te kwalificeren alhoewel het gegeven niet eigenlijk verandert. U kunt [&#x200B; beperkingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} gebruiken om ervoor te zorgen niemand voor die campagnes op de invoer kwalificeert.
 
 ## Stap 2: Een programma maken {#step-create-a-program}
 
@@ -113,7 +113,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
    >[!TIP]
    >
-   >Kolomkoppen moeten altijd exact overeenkomen met het veld (hoofdlettergevoelig) om de beste resultaten voor automatische toewijzing te verkrijgen. Als u douanegebieden gebruikt en hen niet in drop-down ziet, ga terug en [ creeer hen ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} zodat kunnen zij opties worden.
+   >Kolomkoppen moeten altijd exact overeenkomen met het veld (hoofdlettergevoelig) om de beste resultaten voor automatische toewijzing te verkrijgen. Als u douanegebieden gebruikt en hen niet in drop-down ziet, ga terug en [&#x200B; creeer hen &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} zodat kunnen zij opties worden.
 
    >[!NOTE]
    >

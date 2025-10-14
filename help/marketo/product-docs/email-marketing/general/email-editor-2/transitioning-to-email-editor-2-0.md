@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Overschakelen naar [!DNL Email Editor 2.0] {#transitioning-to-email-editor}
 
-Vanaf de release van 19 juni zijn alle Marketo-abonnementen overgezet naar [!DNL Email Editor 2.0] . [ leer meer ](https://nation.marketo.com/docs/DOC-7038) over de [!DNL Email Editor 1.0] veroudering.
+Vanaf de release van 19 juni zijn alle Marketo-abonnementen overgezet naar [!DNL Email Editor 2.0] . [&#x200B; leer meer &#x200B;](https://nation.marketo.com/docs/DOC-7038) over de [!DNL Email Editor 1.0] veroudering.
 
 E-mails en e-mailsjablonen in uw abonnement moeten een versienummer hebben. De versie staat op de overzichtspagina van het element.
 
@@ -23,7 +23,7 @@ E-mails en e-mailsjablonen in uw abonnement moeten een versienummer hebben. De v
 
 Standaard worden al uw bestaande e-mails en e-mailsjablonen gemarkeerd als v1.0 als ze zijn gemaakt vóór de release van lente 16 of na de release wanneer e-maileditor 2.0 is uitgeschakeld. Als E-maileditor 2.0 nu automatisch is ingeschakeld, wordt het volgende gedrag weergegeven:
 
-* Wanneer u een nieuwe e-mail creeert, zal de [ Plukker van het E-mailMalplaatje ](email-template-picker-overview.md) tonen en u zult een v2.0 e-mailmalplaatje kunnen kiezen.
+* Wanneer u een nieuwe e-mail creeert, zal de [&#x200B; Plukker van het E-mailMalplaatje &#x200B;](email-template-picker-overview.md) tonen en u zult een v2.0 e-mailmalplaatje kunnen kiezen.
 * Wanneer u creeert of een e-mail met [!DNL Email Editor 2.0] uitgeeft, zal de resulterende e-mail **altijd** als v2.0 (zelfs als u een v1.0 e-mailmalplaatje gebruikte) worden gemerkt.
 
 Als uw abonnement v1.0-e-mails heeft voordat u naar [!DNL Email Editor 2.0] gaat, wordt het volgende gedrag ervaren op basis van de huidige status van het element:
@@ -65,4 +65,4 @@ Notities
 >[!MORELIKETHIS]
 >
 >* [[!DNL Email Editor 2.0] Overzicht](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
->* [ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

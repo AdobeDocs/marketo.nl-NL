@@ -81,4 +81,4 @@ Als u dit doet, worden al uw configuraties in SFDC gewist en kunnen deze niet wo
 
 >[!MORELIKETHIS]
 >
->[ voeg de Toegang van Insight van de Verkoop aan Profielen toe ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[&#x200B; voeg de Toegang van Insight van de Verkoop aan Profielen toe &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

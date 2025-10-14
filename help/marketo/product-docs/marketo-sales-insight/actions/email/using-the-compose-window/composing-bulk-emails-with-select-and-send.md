@@ -34,7 +34,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie [
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
-1. Ga een onderwerpregel in, selecteer een malplaatje (of stel e-mail van kras samen), en verzend/ [ programma ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) e-mail.
+1. Ga een onderwerpregel in, selecteer een malplaatje (of stel e-mail van kras samen), en verzend/ [&#x200B; programma &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) e-mail.
 
    ![](assets/composing-bulk-emails-with-select-and-send-4.png)
 
@@ -46,7 +46,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie [
 
 **Bulk geeft** uit
 
-1. Volg Stappen 1-3 van de [ Verzendende sectie E-mail ](#sending-emails) hierboven.
+1. Volg Stappen 1-3 van de [&#x200B; Verzendende sectie E-mail &#x200B;](#sending-emails) hierboven.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie [
 
 Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbrengt, worden de wijzigingen in elke e-mail in het bulkcompositiezijpaneel overschreven.
 
-1. Volg Stappen 1-4 van de [ Verzendende sectie E-mail ](#sending-emails).
+1. Volg Stappen 1-4 van de [&#x200B; Verzendende sectie E-mail &#x200B;](#sending-emails).
 
    >[!NOTE]
    >
@@ -96,6 +96,6 @@ Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbren
 
    >[!MORELIKETHIS]
    >
-   >* [ Onduidelijke het Emailen Opties ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-   >* [ Gebruikend een Malplaatje in Samenstellen Venster ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-   >* [ Dynamische Gebieden ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
+   >* [&#x200B; Onduidelijke het Emailen Opties &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+   >* [&#x200B; Gebruikend een Malplaatje in Samenstellen Venster &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [&#x200B; Dynamische Gebieden &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)

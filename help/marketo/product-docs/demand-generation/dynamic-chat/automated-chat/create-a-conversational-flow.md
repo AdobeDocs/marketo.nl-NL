@@ -30,8 +30,8 @@ Hier is hoe te om een nieuwe Conversationele Stroom te creëren.
    >
    >Hierdoor wordt alleen de taal van de systeemtekst gewijzigd. U bent verantwoordelijk voor het vertalen van inhoud.
 
-1. Enkel als in Dialogen, op dit punt is het tijd om een stroom [ tot stand te brengen ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Enkel als in Dialogen, op dit punt is het tijd om een stroom [&#x200B; tot stand te brengen &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[ Conversational Flow Overzicht ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[&#x200B; Conversational Flow Overzicht &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}

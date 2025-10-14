@@ -17,7 +17,7 @@ Verken in [!UICONTROL Analytics] geaggregeerde gegevens voor verzending en betro
 
 ![](assets/emailanalytics-1.jpg)
 
-[ het Filtreren ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is beschikbaar om u te helpen naar beneden voor specifieke metriek boren.
+[&#x200B; het Filtreren &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is beschikbaar om u te helpen naar beneden voor specifieke metriek boren.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +45,7 @@ De grafiek toont uw gefilterde criteria. Als u een van uw filters wilt verbergen
 
 ![](assets/chart2.png)
 
-Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het a [ snelle grafiek ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het a [&#x200B; snelle grafiek &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -63,4 +63,4 @@ U kunt ook opgeven wat u ziet (van links naar rechts): Alle, Publiek, Inhoud en 
 
 >[!MORELIKETHIS]
 >
->[ e-mailInzichten verzendt Overzicht ](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[&#x200B; e-mailInzichten verzendt Overzicht &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

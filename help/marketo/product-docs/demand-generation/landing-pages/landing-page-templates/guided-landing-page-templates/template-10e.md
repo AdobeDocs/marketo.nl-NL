@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 10E {#template-10e}
 
-Klik met de rechtermuisknop om [ sjabloon 10E te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=nl-NL)
+Klik met de rechtermuisknop om [&#x200B; sjabloon 10E te downloaden &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=nl-NL)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 10E.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=nl-NL)
+[&#x200B; Malplaatje 10E.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=nl-NL)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Trefwoordtrends grafiek {#seo-keyword-trends-chart}
 
-Het is belangrijk om te controleren hoe uw sleutelwoord [ SPEELGOED ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) in tijd trending. Controleer dit coole diagram om de voortgang te controleren.
+Het is belangrijk om te controleren hoe uw sleutelwoord [&#x200B; SPEELGOED &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) in tijd trending. Controleer dit coole diagram om de voortgang te controleren.
 
 1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
@@ -23,7 +23,7 @@ Het is belangrijk om te controleren hoe uw sleutelwoord [ SPEELGOED ](/help/mark
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Het toont uw [ Rang van de TUSSENVOEGSEL ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) voor de afgelopen 30 dagen:
+   Het toont uw [&#x200B; Rang van de TUSSENVOEGSEL &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) voor de afgelopen 30 dagen:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
@@ -33,4 +33,4 @@ Het is belangrijk om te controleren hoe uw sleutelwoord [ SPEELGOED ](/help/mark
 
    >[!MORELIKETHIS]
    >
-   >[ Gebruikend het Rapport van de Trends van het Sleutelwoord ](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
+   >[&#x200B; Gebruikend het Rapport van de Trends van het Sleutelwoord &#x200B;](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)

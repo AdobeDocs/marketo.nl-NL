@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Overgenomen instantie: checklist database {#inherited-instance-database-checklist}
 
-Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwervende bronnen in uw abonnement. Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en volg uw vooruitgang.
+Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwervende bronnen in uw abonnement. Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) en volg uw vooruitgang.
 
 ## Slimme systeemlijsten {#system-smart-lists}
 

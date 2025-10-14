@@ -16,7 +16,7 @@ Soms kan e-mailactiviteit je e-mail abusievelijk opblazen en op gegevens klikken
 
 We gebruiken twee verschillende methoden om beide activiteiten te bevestigen:
 
-* De gelijke met [ Interactieve de botLijst van het Bureau van Advertising ](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
+* De gelijke met [&#x200B; Interactieve de botLijst van het Bureau van Advertising &#x200B;](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
 * Overeenkomst met nabijheidspatroon: wanneer twee of meer activiteiten tegelijkertijd plaatsvinden (in minder dan een seconde), worden ze geïdentificeerd als bots. Kenmerken die in aanmerking worden genomen tijdens de vergelijking zijn:
    * ID lead (moet hetzelfde zijn)
    * E-mailmiddel (moet hetzelfde zijn)

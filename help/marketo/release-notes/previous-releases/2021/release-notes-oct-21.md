@@ -48,7 +48,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Sales Insight] {#sales-insight}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 **[!DNL Sales Insight]for [!DNL Microsoft Dynamics 365] Sales**
 
@@ -62,7 +62,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Sales Connect] {#sales-connect}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **Verbeterde de Inzichten van de Activiteit van de Verkoop**: Een nieuwe e-mailantwoord volgactiviteit, de E-mail van de Verkoop antwoordde, volgt de interactie van ontvangers met een e-mail die automatisch met Marketo Engage wordt gesynchroniseerd. Bovendien is het Source-kenmerk bijgewerkt van Tout naar Sales App. Deze activiteit kan worden uitgevoerd en gerapporteerd via de Marketo Engage REST API of Bulk Export en is beschikbaar op filters en triggers als extra beperkingen voor slimme lijsten, waardoor de personalisatieopties in Slimme Campagnes worden uitgebreid.
 
@@ -76,10 +76,10 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Aankondigingen {#announcements}
 
-* **Associate Lead Deprecation/Munchkin Beta 161 Update**: Op 7 september 2021, begon versie 161 van Munchkin uit uit te rollen aan 10% van toegelaten abonnementen met Munchkin Beta, die door 50% op 16 september, en 100% op 30th September wordt gevolgd. Deze wijziging heeft invloed op Marketo Engage-bestemmingspagina&#39;s en op de versie van het bestand munchkin-beta.js die wordt gebruikt voor externe bestemmingspagina&#39;s die worden geladen van abonnementen waarop de recente versie is geïmplementeerd. In deze versie wordt de methode [!DNL Munchkin] Associate Lead (Lead koppelen) volledig vervangen. Dit is een functie waarmee de gegevens van een persoon kunnen worden verzonden naar een Marketo Engage-abonnement en de bijbehorende webbrowsergeschiedenis met een bekende persoonrecord. Associate Lead wordt verwijderd ten gunste van modernere en veiligere alternatieven, zoals de Forms JS API, de Form Submit API en de Associate Lead REST API. [ Leer meer over deze veroudering hier ](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+* **Associate Lead Deprecation/Munchkin Beta 161 Update**: Op 7 september 2021, begon versie 161 van Munchkin uit uit te rollen aan 10% van toegelaten abonnementen met Munchkin Beta, die door 50% op 16 september, en 100% op 30th September wordt gevolgd. Deze wijziging heeft invloed op Marketo Engage-bestemmingspagina&#39;s en op de versie van het bestand munchkin-beta.js die wordt gebruikt voor externe bestemmingspagina&#39;s die worden geladen van abonnementen waarop de recente versie is geïmplementeerd. In deze versie wordt de methode [!DNL Munchkin] Associate Lead (Lead koppelen) volledig vervangen. Dit is een functie waarmee de gegevens van een persoon kunnen worden verzonden naar een Marketo Engage-abonnement en de bijbehorende webbrowsergeschiedenis met een bekende persoonrecord. Associate Lead wordt verwijderd ten gunste van modernere en veiligere alternatieven, zoals de Forms JS API, de Form Submit API en de Associate Lead REST API. [&#x200B; Leer meer over deze veroudering hier &#x200B;](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
 
-* **[!DNL Sales Connect]Bijwerken**: een recente wijziging in de gebruikersinterface van [!DNL Sales Connect] heeft ertoe geleid dat sommige modaliteiten in [!DNL Salesforce] zijn afgesloten. Om dit te bevestigen, gelieve de update van het a [ pakket ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md) uit te voeren.
+* **[!DNL Sales Connect]Bijwerken**: een recente wijziging in de gebruikersinterface van [!DNL Sales Connect] heeft ertoe geleid dat sommige modaliteiten in [!DNL Salesforce] zijn afgesloten. Om dit te bevestigen, gelieve de update van het a [&#x200B; pakket &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md) uit te voeren.
 
 **_Webinar van de Versie van het Product_**
 
-[ Oktober 2021 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+[&#x200B; Oktober 2021 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)

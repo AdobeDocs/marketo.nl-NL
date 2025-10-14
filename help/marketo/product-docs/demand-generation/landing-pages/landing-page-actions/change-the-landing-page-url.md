@@ -29,4 +29,4 @@ U kunt de URL van een bestemmingspagina wijzigen. Hierdoor kan de URL gemakkelij
 
    >[!NOTE]
    >
-   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Leer meer over [ omleiding URL ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Leer meer over [&#x200B; omleiding URL &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

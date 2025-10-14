@@ -50,7 +50,7 @@ Voer de onderstaande stappen uit om inhoudcomponenten aan uw e-mail toe te voege
 
 Als u specifieke opmaak wilt toepassen op een groep inhoudscomponenten, kunt u een component **[!UICONTROL Container]** toevoegen en vervolgens de gewenste inhoudscomponent(en) in de component toevoegen. Op deze manier kunt u een afzonderlijke stijl op de container toepassen. Deze stijl verschilt van de stijl die op de inhoudcomponenten binnen is toegepast.
 
-Bijvoorbeeld, voeg een **[!UICONTROL Container]** component toe en voeg dan a [ Button ](#button) component binnen die container toe. U kunt een specifieke achtergrond voor de container, en een andere voor de knoop gebruiken.
+Bijvoorbeeld, voeg een **[!UICONTROL Container]** component toe en voeg dan a [&#x200B; Button &#x200B;](#button) component binnen die container toe. U kunt een specifieke achtergrond voor de container, en een andere voor de knoop gebruiken.
 
 SCREENSHOT
 
@@ -147,7 +147,7 @@ Gebruik de component **[!UICONTROL Image]** om een afbeeldingsbestand van uw com
 
 1. Klik op het tabblad **[!UICONTROL Settings]** op **[!UICONTROL Browse]** om een afbeeldingsbestand te kiezen uit uw elementen of **[!UICONTROL Import media]** om een element te uploaden naar Adobe Experience Manager Assets.
 
-   Meer over [!DNL Adobe Experience Manager Assets] leren, verwijs naar [ documentatie van Adobe Experience Manager Assets ](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=nl-NL){target="_blank"}.
+   Meer over [!DNL Adobe Experience Manager Assets] leren, verwijs naar [&#x200B; documentatie van Adobe Experience Manager Assets &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=nl-NL){target="_blank"}.
 
    >[!NOTE]
    >

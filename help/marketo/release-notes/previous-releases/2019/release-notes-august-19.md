@@ -25,7 +25,7 @@ De volgende functies zijn uitgebracht op 16 augustus 2019.
 * **de Slimme Update van API van de Campagne**: Beheer slimme mogelijkheden van de campagnelevenscyclus aangezien wij uit de (creeer, lees, update, schrapping) interface CRUD.
 * **de Verandering van API van de Kopballen van de E-mail van de Update**: De update e-mailKopbal API vereist niet meer een e-mail om een malplaatje in bijlage te hebben om kopbalgebieden, zoals onderwerpregel bij te werken.
 
-**Account-Based Marketing** ![ (ster) ](assets/yellow-star.png)
+**Account-Based Marketing** ![&#x200B; (ster) &#x200B;](assets/yellow-star.png)
 
 * **[!DNL LinkedIn]Overeenkomende accounts** (voorheen in bèta) zijn nu over het algemeen beschikbaar.
 * **AccountAI** wordt officieel herbrandd als **Profiling van de Rekening**.
@@ -36,18 +36,18 @@ De volgende functies zijn uitgebracht op 16 augustus 2019.
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en zullen in het gehele derde kalenderkwartaal en tot het begin van het vierde kwartaal van 2019 worden gepubliceerd.
 
-**[!DNL Marketo Sales Connect]** ![ (star) ](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 * **de Verbetering van de Lay-out van de Pagina van Mensen:** beheer uw mensen en groepen door lijstinvoer en bulkacties in de nieuwe lay-out van de personenpagina.
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster ( ![ worden aangegeven (ster) ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster ( ![&#x200B; worden aangegeven (ster) &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo-vertegenwoordiger voor meer informatie.
 
 >[!NOTE]
 >
 >**TLS 1.0 &amp; 1.1 Verdringing**: Om met de wereld-klasse van Adobe norm voor veiligheid te richten, zullen wij afgekeurde steun voor de Veiligheid van de Laag van het Vervoer (TLS) 1.0 en 1.1 beginnend December 13, 2019. Systemen die met Marketo integreren en niet voldoen aan het 1.2-protocol, kunnen mogelijk de toegang tot Marketo Engage-services verliezen.
 >
->**om uw toegang van Marketo Engage te handhaven, gelieve ervoor te zorgen dat alle cliëntsystemen volgzaam TLS 1.2 vóór 13 December, 2019** zijn. De meer gedetailleerde informatie kan [ hier ](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq) worden gevonden.
+>**om uw toegang van Marketo Engage te handhaven, gelieve ervoor te zorgen dat alle cliëntsystemen volgzaam TLS 1.2 vóór 13 December, 2019** zijn. De meer gedetailleerde informatie kan [&#x200B; hier &#x200B;](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq) worden gevonden.
 
-**__** sluit zich aan bij ons [ op Augustus 28 bij 1 ](https://engage.marketo.com/August_19_Release_Webinar.html) PT/4 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.:00PM
+**__** sluit zich aan bij ons [&#x200B; op Augustus 28 bij 1 &#x200B;](https://engage.marketo.com/August_19_Release_Webinar.html) PT/4 :00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie leert.:00PM

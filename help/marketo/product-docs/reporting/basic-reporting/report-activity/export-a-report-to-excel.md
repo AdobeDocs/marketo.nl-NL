@@ -31,4 +31,4 @@ U kunt elk rapport exporteren naar een [!DNL Excel] -bestand, zodat u met de geg
 
    >[!MORELIKETHIS]
    >
-   >Als het gedownloade dossier te groot is, kunt u [ de rapportgrootte ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) veranderen.
+   >Als het gedownloade dossier te groot is, kunt u [&#x200B; de rapportgrootte &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) veranderen.

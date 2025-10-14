@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [!UICONTROL Keywords] vormen de ruggengraat van uw SEO-strategie. Je doel is om op de eerste pagina te staan, zo dicht mogelijk bij #1 voor trefwoorden die relevant zijn voor je bedrijf.
 
-De [!UICONTROL Keywords] sectie zal u tonen hoe succesvol uw plaats in het bereiken van dit is en hoe u tot [ uw concurrentie ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md) stapelt.
+De [!UICONTROL Keywords] sectie zal u tonen hoe succesvol uw plaats in het bereiken van dit is en hoe u tot [&#x200B; uw concurrentie &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md) stapelt.
 
 ## [!UICONTROL Keywords] - Samenvattingsweergave {#keywords-summary-view}
 
@@ -66,5 +66,5 @@ Geweldig! Nu u de sectie [!UICONTROL Keywords] begrijpt, leren wij over pagina&#
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend Pagina&#39;s ](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [ Begrijpend Binnenkomende Verbindingen ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>* [&#x200B; Begrijpend Pagina&#39;s &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [&#x200B; Begrijpend Binnenkomende Verbindingen &#x200B;](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

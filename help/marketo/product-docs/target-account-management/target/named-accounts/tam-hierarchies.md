@@ -35,6 +35,6 @@ Met TAM-hiërarchieën kunt u snel informatie opvragen over een volledige hiëra
 >
 >De Marketo-interface kan maximaal 10 niveaus omlaag worden weergegeven (onderliggende en onderliggende accounts van de bovenliggende account), maar er is geen limiet aan het aantal onderliggende accounts dat u kunt maken.
 
-Doel en rapport over volledige hiërarchieën met [ één klik ](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Doel en rapport over volledige hiërarchieën met [&#x200B; één klik &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

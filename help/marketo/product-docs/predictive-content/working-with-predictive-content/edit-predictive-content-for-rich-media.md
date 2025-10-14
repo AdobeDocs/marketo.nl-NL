@@ -17,7 +17,7 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
 >[!PREREQUISITES]
 >
->De inhoud moet [ voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de [!UICONTROL All Content] pagina worden goedgekeurd.
+>De inhoud moet [&#x200B; voor vooruitlopende inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de [!UICONTROL All Content] pagina worden goedgekeurd.
 
 1. Klik op de pagina **[!UICONTROL Predictive Content]** op een titel om de editor te openen.
 
@@ -39,7 +39,7 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Klik de **[!UICONTROL Categories]** doos om [ categorieën te selecteren/toe te voegen u reeds opstelling ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatief) hebt.
+1. Klik de **[!UICONTROL Categories]** doos om [&#x200B; categorieën te selecteren/toe te voegen u reeds opstelling &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facultatief) hebt.
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 

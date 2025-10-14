@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Verklarende woordenlijst Klassiek pictogram {#classic-icon-glossary}
 
-Hieronder staan de oude pictogrammen van de Klassieke interface Marketo. De huidige pictogramverklarende woordenlijst kan [ hier ](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} worden gevonden.
+Hieronder staan de oude pictogrammen van de Klassieke interface Marketo. De huidige pictogramverklarende woordenlijst kan [&#x200B; hier &#x200B;](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} worden gevonden.
 
 **Algemene pictogrammen**
 

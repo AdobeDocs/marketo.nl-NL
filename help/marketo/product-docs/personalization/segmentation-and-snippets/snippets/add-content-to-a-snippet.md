@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ creeer een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[&#x200B; creeer een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 U kunt tokens, afbeeldingen, bestanden of tekst met opmaak toevoegen aan een fragment.
 
 >[!NOTE]
 >
->U kunt geen [ de e-mailsyntaxis van Marketo ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het zal **&#x200B;**&#x200B;niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
+>U kunt geen [&#x200B; de e-mailsyntaxis van Marketo &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten inbedden; het zal **&#x200B;**&#x200B;niet in e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
 1. Ga naar de **[!UICONTROL Design Studio]** .
 
@@ -51,7 +51,7 @@ U kunt drie typen inhoud aan een fragment toevoegen.
 
    >[!NOTE]
    >
-   >U kunt uw eigen afbeeldingen of bestanden toevoegen aan Marketo. Leer meer over [ beelden en dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   >U kunt uw eigen afbeeldingen of bestanden toevoegen aan Marketo. Leer meer over [&#x200B; beelden en dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Selecteer het **Beeld** te gebruiken en te klikken **[!UICONTROL Insert]**.
 
@@ -87,5 +87,5 @@ Koel! Nu kunt u diverse soorten inhoud voor uw fragment maken.
 
 >[!MORELIKETHIS]
 >
->* [ Voorproef een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
->* [ keur een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md) goed
+>* [&#x200B; Voorproef een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [&#x200B; keur een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md) goed

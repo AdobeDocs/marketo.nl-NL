@@ -29,4 +29,4 @@ Ga als volgt te werk om handmatig een benoemde account te maken.
 
 >[!MORELIKETHIS]
 >
->[ voeg Mensen aan a [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) toe
+>[&#x200B; voeg Mensen aan a [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) toe

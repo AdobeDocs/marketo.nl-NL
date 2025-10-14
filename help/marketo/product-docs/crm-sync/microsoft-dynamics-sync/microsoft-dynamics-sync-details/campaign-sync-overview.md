@@ -40,5 +40,5 @@ De trekkers zullen worden uitgevoerd gebaseerd op acties van de Actie van de Str
 
 >[!MORELIKETHIS]
 >
->* [ laat de Synchronisatie van de Campagne ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md) toe
->* [ voeg of verwijder Mensen van uw  [!DNL Dynamics]  Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md) toe
+>* [&#x200B; laat de Synchronisatie van de Campagne &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md) toe
+>* [&#x200B; voeg of verwijder Mensen van uw  [!DNL Dynamics]  Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md) toe

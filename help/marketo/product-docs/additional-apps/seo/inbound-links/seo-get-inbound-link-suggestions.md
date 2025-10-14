@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # SEO - krijg de Binnenkomende Suggesties van de Verbinding {#seo-get-inbound-link-suggestions}
 
-Marketo kan suggereren welke binnenkomende verbindingen aan uw [ off-page optimalisering ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) waardevol zijn.
+Marketo kan suggereren welke binnenkomende verbindingen aan uw [&#x200B; off-page optimalisering &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) waardevol zijn.
 
 1. Ga naar de sectie **[!UICONTROL Inbound Links]** .
 
@@ -33,10 +33,10 @@ Marketo kan suggereren welke binnenkomende verbindingen aan uw [ off-page optima
 
    >[!TIP]
    >
-   >Wist u u kunt [ uw verbinding aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md) toevoegen? Kijk eens!
+   >Wist u u kunt [&#x200B; uw verbinding aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md) toevoegen? Kijk eens!
 
 Geweldig! Deze toegevoegde koppelingen worden nu bijgehouden.
 
 >[!NOTE]
 >
->[ Begrijpend Binnenkomende Verbindingen ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>[&#x200B; Begrijpend Binnenkomende Verbindingen &#x200B;](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

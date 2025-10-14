@@ -34,15 +34,15 @@ Sommige stappen vereisen hulp van uw team van IT.
 
 >[!TIP]
 >
->Als u [ deze controlelijst ](/help/marketo/getting-started/initial-setup/setup-checklist.md){target="_blank"} afdrukt, kunt u punten controleren aangezien u hen voltooit.
+>Als u [&#x200B; deze controlelijst &#x200B;](/help/marketo/getting-started/initial-setup/setup-checklist.md){target="_blank"} afdrukt, kunt u punten controleren aangezien u hen voltooit.
 
 ## Aanmelden en extra Marketo-gebruikers maken {#log-in-and-create-additional-marketo-users}
 
 >[!IMPORTANT]
 >
->Als uw Marketo abonnement op/na 31 Juli, 2023 werd gecreeerd, of reeds aan [ Identity Management van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, zullen de stappen voor het toevoegen van een hieronder geschetste gebruiker niet op u van toepassing zijn. Gelieve te zien [ dit artikel ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} in plaats daarvan.
+>Als uw Marketo abonnement op/na 31 Juli, 2023 werd gecreeerd, of reeds aan [&#x200B; Identity Management van Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, zullen de stappen voor het toevoegen van een hieronder geschetste gebruiker niet op u van toepassing zijn. Gelieve te zien [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} in plaats daarvan.
 
-Login aan Marketo [ hier ](https://app.marketo.com/){target="_blank"} gebruikend de geloofsbrieven u door e-mail ontving.
+Login aan Marketo [&#x200B; hier &#x200B;](https://app.marketo.com/){target="_blank"} gebruikend de geloofsbrieven u door e-mail ontving.
 
 ![](assets/setup-steps-1.png)
 
@@ -86,7 +86,7 @@ Selecteer een rol en klik op **[!UICONTROL Next]** . Standaardgebruikers hebben 
 
 >[!NOTE]
 >
->Naast de vijf ingebouwde rollen, kunt u douanerollen ook tot stand brengen. Leer meer over [ het Leiden Rollen van de Gebruiker en Toestemmingen ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Naast de vijf ingebouwde rollen, kunt u douanerollen ook tot stand brengen. Leer meer over [&#x200B; het Leiden Rollen van de Gebruiker en Toestemmingen &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 Voel u vrij om de uitnodigingstekst aan te passen. Klik **verzenden**.
 
@@ -98,13 +98,13 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad **[!UICONTROL Users]** en on
 
 ## Stel uw geautoriseerde ondersteuningscontactpersonen in {#set-up-your-authorized-support-contacts}
 
-Mogelijk hebt u een e-mail van Marketo Support ontvangen waarin staat dat u de beheerder voor klantenondersteuning van Marketo voor uw bedrijf bent. Als zo, kunt u opstelling **geoorloofde steuncontacten** voor uw team. Slechts kunnen de erkende steuncontacten direct de Steun van de Klant van Marketo door het [ Portaal van de Steun van Marketo ](https://support.marketo.com){target="_blank"} contacteren.
+Mogelijk hebt u een e-mail van Marketo Support ontvangen waarin staat dat u de beheerder voor klantenondersteuning van Marketo voor uw bedrijf bent. Als zo, kunt u opstelling **geoorloofde steuncontacten** voor uw team. Slechts kunnen de erkende steuncontacten direct de Steun van de Klant van Marketo door het [&#x200B; Portaal van de Steun van Marketo &#x200B;](https://support.marketo.com){target="_blank"} contacteren.
 
 >[!NOTE]
 >
 >Het aantal ondersteuningscontacten dat u kunt maken, wordt bepaald door het pakket dat u hebt aangeschaft. Deze limiet is opgegeven in uw e-mail van Marketo Support.
 
-Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Marketo Community. Gelieve te zien [ dit artikel ](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
+Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Marketo Community. Gelieve te zien [&#x200B; dit artikel &#x200B;](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
@@ -158,11 +158,11 @@ Er zijn verschillende maatregelen die u kunt nemen om ervoor te zorgen dat de e-
 
 * **merk uw het volgen verbindingen**. U kunt een CNAME kiezen om uw eigen domein (in plaats van Marketo) te gebruiken in de koppelingen die u opneemt in e-mails van Marketo. Dit versterkt uw domeinbranding en verhoogt vertrouwen en leverbaarheid met uw ontvangers.
 * **voeg Marketo aan uw collectieve e-maillijst van gewenste personen toe.** Het wordt aanbevolen om teste-mails naar uw testaccounts te sturen voordat u e-mails naar de juiste personen stuurt. Als u Marketo voegt op lijst van gewenste personen, kunt u voorkomen dat deze teste-mails worden geblokkeerd of gemarkeerd als spam.
-* **opstelling SPF en DKIM.** Deze technologieën garanderen uw ontvangers dat uw Marketo-e-mails geen spam zijn. Om te helpen de spamfilters van ontvangers verhinderen u de e-mails van Marketo te verwerpen, volg deze stappen aan [ Opstelling een SPF en DKIM voor Uw E-mailLeverbaarheid ](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **opstelling SPF en DKIM.** Deze technologieën garanderen uw ontvangers dat uw Marketo-e-mails geen spam zijn. Om te helpen de spamfilters van ontvangers verhinderen u de e-mails van Marketo te verwerpen, volg deze stappen aan [&#x200B; Opstelling een SPF en DKIM voor Uw E-mailLeverbaarheid &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
 * **opstelling een MX verslag voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u van uw collectief domein verzendt, hebt u waarschijnlijk reeds gevormd dit. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
 * **geadviseerde Montages voor Van Adres.** U moet een geldig, bestaand en werkend e-maildomein in Van Adres in alle e-mailcampagnes gebruiken. Het kan nuttig zijn om subdomain van uw collectief domein eerder dan het verzenden van uw collectief domein te vormen. Dit zorgt ervoor dat problemen van uw zakelijke mailstream geen invloed hebben op uw Marketo mailstream en vice versa. Bovendien zorgt het verzenden van post van `something@nonexistentdomain.com` ervoor dat e-mail wordt gefilterd of geblokkeerd. Elk domein dat in het Van Adres van de afzender wordt gebruikt, moet een geldige en werkende postmaster@ en een misbruikaccount hebben.
 
-Als u Google Apps gebruikt om uw bedrijfs e-mail te ontvangen, zult u geen misbruik@ of postmaster@ e-mails onder uw domein kunnen tot stand brengen. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld <postmaster@domain.com> ). De gedetailleerde instructies voor het creëren van groepen kunnen [ hier ](https://support.google.com/a/answer/33343#adminconsole){target="_blank"} worden gevonden.
+Als u Google Apps gebruikt om uw bedrijfs e-mail te ontvangen, zult u geen misbruik@ of postmaster@ e-mails onder uw domein kunnen tot stand brengen. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld <postmaster@domain.com> ). De gedetailleerde instructies voor het creëren van groepen kunnen [&#x200B; hier &#x200B;](https://support.google.com/a/answer/33343#adminconsole){target="_blank"} worden gevonden.
 
 Kies een NAAM voor e-mail volgende verbindingen (kies één die _verschillend_ van de het landen pagina CNAME u in Stap 3 koos) is. Enkele voorbeelden:
 
@@ -206,7 +206,7 @@ U hebt nu alle informatie die u nodig hebt om uw aanvraag naar de IT-afdeling te
 
 Zodra u alle noodzakelijke informatie hebt verzameld, bent u bereid om een verzoek naar IT te verzenden. U kunt de onderstaande tekst als een sjabloon gebruiken en de vetgedrukte tekst vervangen door uw eigen gegevens.
 
-[ omvat een verbinding aan dit artikel ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
+[&#x200B; omvat een verbinding aan dit artikel &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
 Plak deze tekst in het e-mailbericht en vervang de gebrande plaatsaanduidingen:
 
@@ -271,7 +271,7 @@ include:mktomail.com
 
 **`[DKIMDomain2]`**: Hostrecord is **`[HostRecord2]`** en de TXT-waarde is **`[TXTValue2]`** .
 
-`[` Exemplaar **HostRecord** en **TXTValue** voor elk **DKIMDomain** u opstelling na het volgen van de [ instructies hier ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md) hebt. Vergeet niet om elk domein in **Admin te verifiëren > E-mail > DKIM** nadat uw personeel van IT deze stap heeft voltooid.`]`
+`[` Exemplaar **HostRecord** en **TXTValue** voor elk **DKIMDomain** u opstelling na het volgen van de [&#x200B; instructies hier &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md) hebt. Vergeet niet om elk domein in **Admin te verifiëren > E-mail > DKIM** nadat uw personeel van IT deze stap heeft voltooid.`]`
 
 `5)` wij moeten ervoor zorgen dat er een geldig MX verslag voor onze VAN domeinen **[FromDomain1]**, **[FromDomain2]**, enz. is. Kunt u dat bevestigen? Als niet, gelieve te vormen om aan ons collectief domein MX verslag in kaart te brengen. Zo kunnen we antwoorden/autoresponders op onze Marketo-mailings verwerken.
 
@@ -342,7 +342,7 @@ Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt.
 >
 >Bent u een [!DNL Launch Pack] klant? U kunt deze stap overslaan. Uw consultant zal u [!DNL Munchkin] codeinstructies in uw document met instructies voor de IT-installatie geven.
 
-Marketo heeft een JavaScript voor aangepaste reeksspatiëring (ook wel [!DNL Munchkin] genoemd) die u kunt gebruiken om activiteiten van personen op elke webpagina bij te houden. [!DNL Munchkin] is vereist om uw website te integreren in Marketo. Volg deze stappen om [ toe te voegen  [!DNL Munchkin]  het Volgen Code aan Uw Website ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo heeft een JavaScript voor aangepaste reeksspatiëring (ook wel [!DNL Munchkin] genoemd) die u kunt gebruiken om activiteiten van personen op elke webpagina bij te houden. [!DNL Munchkin] is vereist om uw website te integreren in Marketo. Volg deze stappen om [&#x200B; toe te voegen  [!DNL Munchkin]  het Volgen Code aan Uw Website &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -350,6 +350,6 @@ Marketo heeft een JavaScript voor aangepaste reeksspatiëring (ook wel [!DNL Mun
 
 ## Prestatieverwachtingen {#performance-expectations}
 
-Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatiesniveaus op gelijke met verwachten wat in de &quot;Standaard&quot;kolom in verscheidene van de lijsten wordt geschetst die in de [ wordt gevonden beschrijving van het Product van Marketo Engage ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. De &quot;Prestaties&quot;en &quot;Prestaties plus&quot;kolommen verwijzen naar de pakketten van de prestatiesrij die [ hogere prestatiesniveaus ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"} verstrekken.
+Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatiesniveaus op gelijke met verwachten wat in de &quot;Standaard&quot;kolom in verscheidene van de lijsten wordt geschetst die in de [&#x200B; wordt gevonden beschrijving van het Product van Marketo Engage &#x200B;](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. De &quot;Prestaties&quot;en &quot;Prestaties plus&quot;kolommen verwijzen naar de pakketten van de prestatiesrij die [&#x200B; hogere prestatiesniveaus &#x200B;](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"} verstrekken.
 
 Al uw opstellingsstappen zijn voorbij. Het enige wat er over is, is om in te duiken en Marketo te gebruiken.

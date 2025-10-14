@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De ondersteuning voor de .Net Add-In werd op 19 mei 2019 stopgezet. [ klik hier ](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) om meer te leren.
+>De ondersteuning voor de .Net Add-In werd op 19 mei 2019 stopgezet. [&#x200B; klik hier &#x200B;](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) om meer te leren.
 
 1. Klik op het menu **[!UICONTROL Start]** .
 

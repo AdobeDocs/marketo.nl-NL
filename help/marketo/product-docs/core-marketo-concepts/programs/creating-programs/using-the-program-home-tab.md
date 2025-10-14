@@ -71,4 +71,4 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    >[!MORELIKETHIS]
    >
-   >[ Begrijpend het Lidmaatschap van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[&#x200B; Begrijpend het Lidmaatschap van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

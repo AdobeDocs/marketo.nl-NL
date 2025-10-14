@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Knopinfo-instructies toevoegen aan een formulierveld {#add-tooltip-instructions-to-a-form-field}
 
-[ Hints ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) en instructies helpen mensen vormen invullen. Hieronder wordt beschreven hoe u knopinfo-instructies kunt toevoegen.
+[&#x200B; Hints &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) en instructies helpen mensen vormen invullen. Hieronder wordt beschreven hoe u knopinfo-instructies kunt toevoegen.
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >Vergeet niet [ goed te keuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.
+   >Vergeet niet [&#x200B; goed te keuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

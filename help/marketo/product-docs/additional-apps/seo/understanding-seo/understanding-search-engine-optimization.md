@@ -53,8 +53,8 @@ Eerst, zou u de grondbeginselen met deze handige verklarende woordenlijst moeten
 
 ## Hoe begin ik? {#how-do-i-get-started}
 
-1. Ontwikkel uw strategie met [ Begrijpende Sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
-1. Verbeter bestaande kwesties in [ Begrijpend Pagina&#39;s ](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
-1. Breid uw bereik door [ Begrip Binnenkomende Verbindingen ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"} uit
+1. Ontwikkel uw strategie met [&#x200B; Begrijpende Sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. Verbeter bestaande kwesties in [&#x200B; Begrijpend Pagina&#39;s &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. Breid uw bereik door [&#x200B; Begrip Binnenkomende Verbindingen &#x200B;](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"} uit
 
 Uw doel is om zo dicht bij de eerste pagina (en het eerste resultaat) voor sleutelwoorden te zijn die voor uw zaken van belang zijn.

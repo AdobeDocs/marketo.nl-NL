@@ -47,7 +47,7 @@ Mooi werk, beeldmeester!
 
 >[!MORELIKETHIS]
 >
->* [ voegt Beelden en Dossiers aan Marketo ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toe
->* [ organiseer Uw Beelden en Dossiers gebruikend Omslagen ](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [ vind URL van een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [ upload Beelden en Dossiers van Doos ](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [&#x200B; voegt Beelden en Dossiers aan Marketo &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toe
+>* [&#x200B; organiseer Uw Beelden en Dossiers gebruikend Omslagen &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [&#x200B; vind URL van een Geüploade Beeld of Dossier &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [&#x200B; upload Beelden en Dossiers van Doos &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

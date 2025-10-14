@@ -37,4 +37,4 @@ Hieronder wordt beschreven hoe u subdomeinen kunt toevoegen aan uw primaire dome
 
    >[!NOTE]
    >
-   >Als u _primaire_ domeinen aan uw rekening wilt toevoegen, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+   >Als u _primaire_ domeinen aan uw rekening wilt toevoegen, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.

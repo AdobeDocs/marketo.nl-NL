@@ -51,4 +51,4 @@ Niet elk veld in Salesforce is handig voor marketing. U kunt de synchronisatiepr
 
    >[!MORELIKETHIS]
    >
-   >[ verberg en maak een Gebied ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"} ongedaan
+   >[&#x200B; verberg en maak een Gebied &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"} ongedaan

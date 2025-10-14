@@ -17,8 +17,8 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
 >[!PREREQUISITES]
 >
->* Voltooi [ het Opnieuw richten met  [!DNL Web Personalization]  Configuratie van Gegevens ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Het overzicht [ Opmerking met de documentatie van de Hulp van Google Analytics ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645).
+>* Voltooi [&#x200B; het Opnieuw richten met  [!DNL Web Personalization]  Configuratie van Gegevens &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Het overzicht [&#x200B; Opmerking met de documentatie van de Hulp van Google Analytics &#x200B;](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645).
 
 ## Een opmerkingspubliek maken in Google {#creating-a-remarketing-audience-in-google}
 
@@ -94,5 +94,5 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
 >[!MORELIKETHIS]
 >
->* [ het opnieuw richten met  [!DNL Web Personalization]  Gegevens ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [ Gepersonaliseerde het Merken in  [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+>* [&#x200B; het opnieuw richten met  [!DNL Web Personalization]  Gegevens &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [&#x200B; Gepersonaliseerde het Merken in  [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)

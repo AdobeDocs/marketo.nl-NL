@@ -13,25 +13,25 @@ ht-degree: 1%
 
 # Rapport Campagneactiviteiten {#campaign-activity-report}
 
-Zie hoe uw [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"} presteren.
+Zie hoe uw [&#x200B; Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"} presteren.
 
-1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer de **Activiteit van de Campagne** [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [&#x200B; creeer een rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer de **Activiteit van de Campagne** [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
-1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} en klik het **Rapport** tabel.
+1. [&#x200B; plaats het tijdkader van uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} en klik het **Rapport** tabel.
 
 1. Geweldig! Verken uw rapport om uw meest efficiënte campagnes te identificeren, gegroepeerd op type campagne.
 
 >[!NOTE]
 >
->Alle [ Uitvoerbare Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} verschijnen omhoog als &quot;inactieve teweeggebrachte campagnes&quot;in de rapporten van de campagneactiviteit.
+>Alle [&#x200B; Uitvoerbare Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} verschijnen omhoog als &quot;inactieve teweeggebrachte campagnes&quot;in de rapporten van de campagneactiviteit.
 
 ![](assets/campaign-activity-report-1.png)
 
 >[!TIP]
 >
->Om de campagnes te vinden die de meeste mensen verwerkte, bijvoorbeeld, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op _Totale Bewerkte Mensen_ en kies **Aflopend sorteren**.
+>Om de campagnes te vinden die de meeste mensen verwerkte, bijvoorbeeld, [&#x200B; sorteer uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op _Totale Bewerkte Mensen_ en kies **Aflopend sorteren**.
 
-**[Kolommen u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van de Campagne kunt selecteren omvatten**:
+**[Kolommen u &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van de Campagne kunt selecteren omvatten**:
 
 <table><thead>
   <tr>
@@ -91,4 +91,4 @@ Zie hoe uw [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts
 
 >[!MORELIKETHIS]
 >
->[ filter een Rapport van de Activiteit van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}
+>[&#x200B; filter een Rapport van de Activiteit van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}

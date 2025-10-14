@@ -53,10 +53,10 @@ Hieronder wordt beschreven hoe u ze aan een e-mail kunt toevoegen:
 
 >[!IMPORTANT]
 >
->Als u deze benadering gebruikt om het &quot;viewAsWebpageLink&quot;systeemteken toe te voegen, kunt u **niet** het met behulp van tokens met voeten treden. In plaats daarvan, gebruik [ een Mening als Verbinding van de Pagina van het Web aan een e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) benadering toevoegen die u toestaat om &quot;viewAsWebPageLink&quot;met behulp van tokens met voeten te treden.
+>Als u deze benadering gebruikt om het &quot;viewAsWebpageLink&quot;systeemteken toe te voegen, kunt u **niet** het met behulp van tokens met voeten treden. In plaats daarvan, gebruik [&#x200B; een Mening als Verbinding van de Pagina van het Web aan een e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) benadering toevoegen die u toestaat om &quot;viewAsWebPageLink&quot;met behulp van tokens met voeten te treden.
 
 >[!NOTE]
 >
->Vergeet niet [ uw e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goed te keuren wanneer gedaan.
+>Vergeet niet [&#x200B; uw e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goed te keuren wanneer gedaan.
 
 Echt waar! Nu weet u hoe u een systeemtoken als een koppeling in een e-mail kunt toevoegen.

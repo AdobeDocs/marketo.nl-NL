@@ -17,7 +17,7 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkel 
 
 >[!PREREQUISITES]
 >
->U moet [ de generische volgende verbinding ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} met een branded domein vervangen alvorens extra branded domeinen toe te voegen.
+>U moet [&#x200B; de generische volgende verbinding &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} met een branded domein vervangen alvorens extra branded domeinen toe te voegen.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -37,9 +37,9 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkel 
 
 >[!NOTE]
 >
->* _maak Primair Domein_: Maak dit uw primair domein, en alle bestaande onverzonden e-mails die aan &quot;Gebrek&quot;worden geplaatst en alle nieuw gecreëerde e-mails zullen aan het primaire domein in gebreke blijven. U kunt [ dit op een per-e-mailbasis ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"} beschrijven.
+>* _maak Primair Domein_: Maak dit uw primair domein, en alle bestaande onverzonden e-mails die aan &quot;Gebrek&quot;worden geplaatst en alle nieuw gecreëerde e-mails zullen aan het primaire domein in gebreke blijven. U kunt [&#x200B; dit op een per-e-mailbasis &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"} beschrijven.
 >
->* _produceer SSL Certificaat_: U kunt een Veilige Laag van Contactdozen (SSL) met de verwezenlijking van het domein tot stand brengen. Het eerste volgende domein zal een éénmalige opstelling van infrastructuur in werking stellen die een paar uren kan vergen. U wordt op de hoogte gesteld wanneer de bewerking is voltooid en u kunt vervolgens het eerste domein instellen. Om SSL aan uw bestaande domeinen toe te voegen, te bereiken gelieve uit [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>* _produceer SSL Certificaat_: U kunt een Veilige Laag van Contactdozen (SSL) met de verwezenlijking van het domein tot stand brengen. Het eerste volgende domein zal een éénmalige opstelling van infrastructuur in werking stellen die een paar uren kan vergen. U wordt op de hoogte gesteld wanneer de bewerking is voltooid en u kunt vervolgens het eerste domein instellen. Om SSL aan uw bestaande domeinen toe te voegen, te bereiken gelieve uit [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 ## SSL&#39;s voor bestaande domeinen bewerken
 
@@ -49,11 +49,11 @@ Ga als volgt te werk om SSL in te schakelen voor uw bestaande domeinen.
 
 1. Selecteer op het tabblad _[!UICONTROL Domain]_&#x200B;de domeinrij en klik op **[!UICONTROL Add SSL]**.
 
-   ![ Admin - E-mail - Domein - voeg SSL ](./assets/admin-email-branding-domain-add-ssl.png){width="600"} toe
+   ![&#x200B; Admin - E-mail - Domein - voeg SSL &#x200B;](./assets/admin-email-branding-domain-add-ssl.png){width="600"} toe
 
 1. Klik in het dialoogvenster op **[!UICONTROL Confirm]** .
 
-   ![ voeg SSL toe - bevestig ](./assets/generate-ssl-cert-confirm.png){width="400"}
+   ![&#x200B; voeg SSL toe - bevestig &#x200B;](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 ## Foutberichten {#error-messages}
 
@@ -91,14 +91,14 @@ Ga als volgt te werk om SSL in te schakelen voor uw bestaande domeinen.
 
 ## Notities {#things-to-note}
 
-* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
+* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [&#x200B; CNAMEs aan een Marketo-Geleverd domein &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
 
-* **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [ kaartje van de Steun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
+* **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [&#x200B; kaartje van de Steun &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
 
-* **Vooraf bestaande SSLs**: Terwijl het toevoegen van een domein, controleert het systeem reeds bestaande SSLs, die manueel kan zijn gecreeerd vroeger. Als u deze validatie tegenkomt, maakt u uw domein zonder SSL-ontwerp te selecteren en maken we er verbinding mee. [ de Steun van het Contact ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} meer extra details/opties.
+* **Vooraf bestaande SSLs**: Terwijl het toevoegen van een domein, controleert het systeem reeds bestaande SSLs, die manueel kan zijn gecreeerd vroeger. Als u deze validatie tegenkomt, maakt u uw domein zonder SSL-ontwerp te selecteren en maken we er verbinding mee. [&#x200B; de Steun van het Contact &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} meer extra details/opties.
 
-* **Schrapping van domeinen**: Automatisch schrappend een domein **schrapt niet** het SSL certificaat. Deze handleiding voorkomt gebruikersfouten die ertoe leiden dat een website geen SSL-certificaten heeft. Als u de SSL certificaten wilt verwijderen, [ contactSteun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Schrapping van domeinen**: Automatisch schrappend een domein **schrapt niet** het SSL certificaat. Deze handleiding voorkomt gebruikersfouten die ertoe leiden dat een website geen SSL-certificaten heeft. Als u de SSL certificaten wilt verwijderen, [&#x200B; contactSteun &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[ geeft Uw Standaard brandend Domein ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} uit
+>[&#x200B; geeft Uw Standaard brandend Domein &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} uit

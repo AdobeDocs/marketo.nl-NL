@@ -34,15 +34,15 @@ Op de tabbladen [!UICONTROL Me] en [!UICONTROL Team] wordt informatie over afges
 
 ## [!UICONTROL Me] Tab {#me-tab}
 
-Het [ me lusje ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is een grote plaats om op de overeenkomst van uw e-mail, malplaatjes, en verbindingen te controleren. Als u een beheerder bent in Sales Insight Actions, kunt u door om het even welke gebruiker op uw team filtreren om hun status te zien.
+Het [&#x200B; me lusje &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is een grote plaats om op de overeenkomst van uw e-mail, malplaatjes, en verbindingen te controleren. Als u een beheerder bent in Sales Insight Actions, kunt u door om het even welke gebruiker op uw team filtreren om hun status te zien.
 
 ## [!UICONTROL Team] Tab {#team-tab}
 
-In het [ lusje van het Team ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, zie staten en classificaties voor uw volledig team. U kunt ook filteren door de subteams die u hebt gemaakt.
+In het [&#x200B; lusje van het Team &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, zie staten en classificaties voor uw volledig team. U kunt ook filteren door de subteams die u hebt gemaakt.
 
 ## [!UICONTROL Content] Tab {#content-tab}
 
-Het [ lusje van de Inhoud ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} bevat verklaringen op malplaatjes, inhoud, en verbindingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
+Het [&#x200B; lusje van de Inhoud &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} bevat verklaringen op malplaatjes, inhoud, en verbindingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
 
 Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Klik op **[!UICONTROL Template Analytics]** om het gebruik ervan weer te geven.
 

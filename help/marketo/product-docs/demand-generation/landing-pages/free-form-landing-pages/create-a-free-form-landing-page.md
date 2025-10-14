@@ -17,7 +17,7 @@ Lege bestemmingspagina&#39;s kunnen worden gemaakt als lokale elementen van een 
 
 >[!NOTE]
 >
->De modi van de bestemmingspagina worden bepaald door hun sjabloon. [ leer meer ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) over vrije-vorm en geleide het landen paginasjablonen.
+>De modi van de bestemmingspagina worden bepaald door hun sjabloon. [&#x200B; leer meer &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) over vrije-vorm en geleide het landen paginasjablonen.
 
 ## Een vrije bestemmingspagina maken in een programma {#create-a-free-form-landing-page-in-a-program}
 

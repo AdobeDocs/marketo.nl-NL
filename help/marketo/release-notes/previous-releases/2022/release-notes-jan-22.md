@@ -15,7 +15,7 @@ De volgende functies zijn opgenomen in de release van 22 januari. Raadpleeg de A
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalversies_**
 
@@ -50,11 +50,11 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## AEP Marketo Engage-bestemmingsconnector - Nieuwe leads maken {#aep-marketo-engage-destination-connector}
 
-Marketo Engage-klanten die ook de Adobe Experience Platform (AEP) gebruiken, kunnen hun database maximaliseren met de mogelijkheid om nieuwe persoonrecords van AEP via de AEP-doelconnector naar Marketo Engage te sturen. Wanneer het verzenden van publiekssegmenten van AEP naar Marketo Engage, kunnen de mensen binnen het segment die niet reeds in uw gegevensbestand van Marketo Engage [ bestaan automatisch aan het ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md) worden toegevoegd.
+Marketo Engage-klanten die ook de Adobe Experience Platform (AEP) gebruiken, kunnen hun database maximaliseren met de mogelijkheid om nieuwe persoonrecords van AEP via de AEP-doelconnector naar Marketo Engage te sturen. Wanneer het verzenden van publiekssegmenten van AEP naar Marketo Engage, kunnen de mensen binnen het segment die niet reeds in uw gegevensbestand van Marketo Engage [&#x200B; bestaan automatisch aan het &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md) worden toegevoegd.
 
 ## [!DNL Sales Insight] {#sales-insight}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 **[!DNL Sales Insight]voor [!DNL Salesforce] CRM**
 
@@ -70,22 +70,22 @@ Marketo Engage-klanten die ook de Adobe Experience Platform (AEP) gebruiken, kun
 
 ## [!DNL Sales Connect] {#sales-connect}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
-* **de Resultaten en de Redenen van de Vraag**: Begrijp en volg de uitgaande inspanningen van uw verkoopteams meer in detail met nieuwe, volledig klantgerichte vraaguitkomst en vraagredenopties. Naast deze nieuwe gebieden, introduceren wij nieuw bestuur om vraagreden en resultaatselectie af te dwingen terwijl de verkopers vraag maken, nieuw bestuur om vraagredenen en resultaten toe te laten of onbruikbaar te maken, en een nieuw de reden van de Vraag en het Uitkomsten van de Vraag [!DNL Salesforce] de douanegebied van de Activiteit van de Vraag voor het registreren van gegevens aan [!DNL Salesforce]. [ klik hier ](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) om meer te leren.
+* **de Resultaten en de Redenen van de Vraag**: Begrijp en volg de uitgaande inspanningen van uw verkoopteams meer in detail met nieuwe, volledig klantgerichte vraaguitkomst en vraagredenopties. Naast deze nieuwe gebieden, introduceren wij nieuw bestuur om vraagreden en resultaatselectie af te dwingen terwijl de verkopers vraag maken, nieuw bestuur om vraagredenen en resultaten toe te laten of onbruikbaar te maken, en een nieuw de reden van de Vraag en het Uitkomsten van de Vraag [!DNL Salesforce] de douanegebied van de Activiteit van de Vraag voor het registreren van gegevens aan [!DNL Salesforce]. [&#x200B; klik hier &#x200B;](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) om meer te leren.
 
-* **[!DNL Salesforce]Aanpassing van activiteitsdetails**: leg meer verkoopactiviteiten en taakgegevens vast in [!DNL Salesforce] door aan te passen welke informatie wordt toegevoegd aan het [!DNL Salesforce] veld van het taakonderwerp wanneer een verkoopactiviteit aan [!DNL Salesforce] van [!DNL Sales Connect] wordt geregistreerd. [ klik hier ](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) om meer te leren.
+* **[!DNL Salesforce]Aanpassing van activiteitsdetails**: leg meer verkoopactiviteiten en taakgegevens vast in [!DNL Salesforce] door aan te passen welke informatie wordt toegevoegd aan het [!DNL Salesforce] veld van het taakonderwerp wanneer een verkoopactiviteit aan [!DNL Salesforce] van [!DNL Sales Connect] wordt geregistreerd. [&#x200B; klik hier &#x200B;](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) om meer te leren.
 
 ## Aankondigingen {#announcements}
 
-* **Verdringing van Marketo Sky**: In Maart, zal Marketo Sky niet meer beschikbaar zijn aangezien wij onze middelen op het leveren van de volgende-generatiegebruikerservaring concentreren. In een poging om toegang te behouden tot functionaliteit die vandaag de dag exclusief is voor Marketo Sky, introduceren we Asset Expiration en Smart Campaign Priority Override in de mainstream-ervaring in maart. [ klik hier ](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) om meer te leren.
+* **Verdringing van Marketo Sky**: In Maart, zal Marketo Sky niet meer beschikbaar zijn aangezien wij onze middelen op het leveren van de volgende-generatiegebruikerservaring concentreren. In een poging om toegang te behouden tot functionaliteit die vandaag de dag exclusief is voor Marketo Sky, introduceren we Asset Expiration en Smart Campaign Priority Override in de mainstream-ervaring in maart. [&#x200B; klik hier &#x200B;](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) om meer te leren.
 
-* **Verdringing van de Eindpunten van de Vorm**: Niet gesteunde programmatic vorm POSTs aan het leadCapture/save2 eindpunt zal door de vormen van Marketo Engage worden verworpen. [ klik hier ](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) om meer te leren.
+* **Verdringing van de Eindpunten van de Vorm**: Niet gesteunde programmatic vorm POSTs aan het leadCapture/save2 eindpunt zal door de vormen van Marketo Engage worden verworpen. [&#x200B; klik hier &#x200B;](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) om meer te leren.
 
 * **Login nodigt de Dialoog van de Gebruiker uit**: In Maart, zal de bestaande, facultatieve eigenschap &quot;Login Uitnodigt de Dialoog van de Gebruiker&quot;worden afgekeurd. De eigenschap &quot;[!UICONTROL Login in Invite User Dialog]&quot;functionaliteit wordt met voeten getreden door de Universele eigenschap van identiteitskaart, die voor de aanstaande Integratie van het Systeem van Adobe Identity Management wordt vereist en in Augustus 2021 op alle abonnementen werd toegelaten. Als gevolg van de afgekeurde procedure vereist Marketo Engage dat slechts één gebruiker per e-mailadres in een abonnement wordt gekoppeld.
 
-**de Domeinen van Marketo Engage - [!DNL Sales Insight] Configuratie**: Voor de domeinen van Marketo Engage die geen SSL cert hebben provisioned en https://, zullen de vraag met een SSL handshake fout ontbreken. Daarom zullen deze domeinen worden zonsondergang. Als gevolg hiervan kunnen [!DNL Sales Insight] -gebruikers met een oudere configuratie die naar een van deze domeinen verwijzen, op hun pagina Lead, Contact, Account, Opportunity Panels of Marketo Global fouten in de systeemcallout opsporen. Wij adviseren u uw [ configuratie van Marketo Engage ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in [!DNL Salesforce] bijwerkt als u in deze fout loopt. U hoeft alleen Marketo Engage-referenties bij te werken die zijn gemarkeerd in de sectie &quot;[!DNL Marketo Sales Insight] Config&quot;&quot; van het document.
+**de Domeinen van Marketo Engage - [!DNL Sales Insight] Configuratie**: Voor de domeinen van Marketo Engage die geen SSL cert hebben provisioned en https://, zullen de vraag met een SSL handshake fout ontbreken. Daarom zullen deze domeinen worden zonsondergang. Als gevolg hiervan kunnen [!DNL Sales Insight] -gebruikers met een oudere configuratie die naar een van deze domeinen verwijzen, op hun pagina Lead, Contact, Account, Opportunity Panels of Marketo Global fouten in de systeemcallout opsporen. Wij adviseren u uw [&#x200B; configuratie van Marketo Engage &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in [!DNL Salesforce] bijwerkt als u in deze fout loopt. U hoeft alleen Marketo Engage-referenties bij te werken die zijn gemarkeerd in de sectie &quot;[!DNL Marketo Sales Insight] Config&quot;&quot; van het document.
 
 **_Webinar van de Versie van het Product_**
 
-[ Januari 2022 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)
+[&#x200B; Januari 2022 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2022_January_Release_Webinar_DemandPage.html)

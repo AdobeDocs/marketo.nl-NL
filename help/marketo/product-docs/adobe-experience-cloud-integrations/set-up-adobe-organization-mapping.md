@@ -36,7 +36,7 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Ga uw identiteitskaart van de Org van Adobe IMS in (leer hoe te om dat [ hier ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=nl-NL){target="_blank"} te vinden) en **[!UICONTROL OK]** te klikken.
+1. Ga uw identiteitskaart van de Org van Adobe IMS in (leer hoe te om dat [&#x200B; hier &#x200B;](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=nl-NL){target="_blank"} te vinden) en **[!UICONTROL OK]** te klikken.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -54,4 +54,4 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 
 1. Als u _niet_ reeds het programma wordt geopend, zal pop-up in een nieuw lusje/venster verschijnen. Meld u aan bij uw Adobe-org (deze bewerking valideert de toegang tot de org).
 
-U kunt [ publieksgegevens ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} aan, of [ synchronisatie nu delen een publiek ](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} van Adobe Experience Cloud.
+U kunt [&#x200B; publieksgegevens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} aan, of [&#x200B; synchronisatie nu delen een publiek &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} van Adobe Experience Cloud.

@@ -16,11 +16,11 @@ Hieronder wordt beschreven hoe u een SMS-bericht maakt.
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen, kan een verbinding via Webhooks van Marketo worden gebruikt door [ direct het contacteren van Lagen ](https://www.vibes.com/talk-to-sales).
+>Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen, kan een verbinding via Webhooks van Marketo worden gebruikt door [&#x200B; direct het contacteren van Lagen &#x200B;](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >
->[ voegt Levendigheden als Dienst LaunchPoint ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} toe
+>[&#x200B; voegt Levendigheden als Dienst LaunchPoint &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} toe
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

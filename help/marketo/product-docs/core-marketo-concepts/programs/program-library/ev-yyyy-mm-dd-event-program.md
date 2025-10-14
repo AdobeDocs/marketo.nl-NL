@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeld van een gebeurtenisprogramma met een registratiepagina, drie e-mailuitnodigingen en e-mails voor follow-up met gebruik van een Marketo Engage-gebeurtenisprogramma. Geschikt voor alle gebeurtenissen waar u registraties nodig hebt, zoals presentaties, lunches, diners of presentaties tijdens handelsshowgebeurtenissen.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

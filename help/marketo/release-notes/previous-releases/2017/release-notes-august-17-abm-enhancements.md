@@ -25,7 +25,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 ![](assets/image003.png)
 
-## [ Dynamische Lijsten van de Rekening ](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
+## [&#x200B; Dynamische Lijsten van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
 We voegen een nieuwe manier toe om accountlijsten in ABM te maken. Naast bestaande accountlijsten kunt u nu dynamische accountlijsten maken die worden gegenereerd vanuit openbare CRM-accountweergaven. Een mening van de Rekening van CRM is een reeks regels die als filter dienst doet wanneer het tonen van rekeningen. Bijvoorbeeld, kunt u het gebruiken om rekeningen te vinden waar de Industrie Gezondheidszorg _is en_ de Inkomsten is meer dan $100M.
 

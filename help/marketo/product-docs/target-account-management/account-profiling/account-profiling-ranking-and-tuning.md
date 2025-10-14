@@ -25,7 +25,7 @@ Alle bekende accounts zijn uitgesplitst naar rang. A is de hoogste graad, D is d
 
 ![](assets/results.png)
 
-We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elke rekening wilt gaan en [ hen manueel ](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) toevoegen, verlaat eenvoudig de doos ongecontroleerd.
+We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elke rekening wilt gaan en [&#x200B; hen manueel &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) toevoegen, verlaat eenvoudig de doos ongecontroleerd.
 
 <table>
  <tbody>
@@ -162,7 +162,7 @@ Klik op de vervolgkeuzelijst [!UICONTROL Add ICP Indicator] om extra indicatoren
 
 ![](assets/add-icp.png)
 
-Het controleren van [!UICONTROL Export] doos staat u toe om de indicator ICP op de [!UICONTROL Named Account] detailspagina te zien, evenals de geselecteerde indicator ICP als beperkingen in [ genoemd rekeningsfilters ](/help/marketo/product-docs/target-account-management/engage/account-filters.md) te gebruiken.
+Het controleren van [!UICONTROL Export] doos staat u toe om de indicator ICP op de [!UICONTROL Named Account] detailspagina te zien, evenals de geselecteerde indicator ICP als beperkingen in [&#x200B; genoemd rekeningsfilters &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md) te gebruiken.
 
 ![](assets/export.png)
 

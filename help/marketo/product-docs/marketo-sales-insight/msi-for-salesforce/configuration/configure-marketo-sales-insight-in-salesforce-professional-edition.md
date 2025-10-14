@@ -19,7 +19,7 @@ Configureer Marketo Sales Insight in Salesforce Professional Edition door de vol
 >
 >* Installeer Marketo in uw [!DNL Salesforce] Professional Edition.
 >
->* [ installeer  [!DNL Marketo Sales Insight]  Pakket in  [!DNL Salesforce]  AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [&#x200B; installeer  [!DNL Marketo Sales Insight]  Pakket in  [!DNL Salesforce]  AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -201,9 +201,9 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
 1. Klik in Salesforce op **+** aan het einde van de tabbalk en klik op **[!UICONTROL Marketo Sales Insight Config]** .
 
-1. Kopieer de geloofsbrieven van het Soap API paneel in [ Marketo de pagina van Admin van de Verkoop Insight van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de Zacht API sectie van de pagina van de Configuratie van Insight van de Verkoop van Salesforce.
+1. Kopieer de geloofsbrieven van het Soap API paneel in [&#x200B; Marketo de pagina van Admin van de Verkoop Insight van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de Zacht API sectie van de pagina van de Configuratie van Insight van de Verkoop van Salesforce.
 
-1. Kopieer de geloofsbrieven van het **[!UICONTROL Rest API]** paneel in [ Marketo de pagina van Admin van de Verkoop Insight van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de Rest API sectie van de pagina van de Configuratie van Insight van de Verkoop van Salesforce.
+1. Kopieer de geloofsbrieven van het **[!UICONTROL Rest API]** paneel in [&#x200B; Marketo de pagina van Admin van de Verkoop Insight van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en kleef hen in de Rest API sectie van de pagina van de Configuratie van Insight van de Verkoop van Salesforce.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
@@ -211,7 +211,7 @@ Je kunt de Marketo Sales Insight-velden weergeven voor leads, contactpersonen, a
 
 >[!NOTE]
 >
->Als de diagnostische test ontbrak, [ toevoegend meer gebieden aan uw paginalay-out ](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} zou de kwestie kunnen bevestigen.
+>Als de diagnostische test ontbrak, [&#x200B; toevoegend meer gebieden aan uw paginalay-out &#x200B;](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} zou de kwestie kunnen bevestigen.
 
 >[!NOTE]
 >
@@ -219,6 +219,6 @@ Je kunt de Marketo Sales Insight-velden weergeven voor leads, contactpersonen, a
 
 >[!MORELIKETHIS]
 >
->* [ Prioriteit, Urgentie, Relatieve Score, en Beste Bets ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
->* [ voeg het Lusje van Marketo aan  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"} toe
->* [ voeg de Toegang van Insight van de Verkoop aan Profielen toe ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [&#x200B; Prioriteit, Urgentie, Relatieve Score, en Beste Bets &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
+>* [&#x200B; voeg het Lusje van Marketo aan  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"} toe
+>* [&#x200B; voeg de Toegang van Insight van de Verkoop aan Profielen toe &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

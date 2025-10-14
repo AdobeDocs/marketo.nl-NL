@@ -41,5 +41,5 @@ Als u dit gedrag wilt behouden, kunt u overwegen uw gegevens te dedupliceren in 
 
 >[!MORELIKETHIS]
 >
->* [ vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [ creeer een Analysator van de Invloed van de Opportunity ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [&#x200B; vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [&#x200B; creeer een Analysator van de Invloed van de Opportunity &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

@@ -16,7 +16,7 @@ Configureer uw agenda en stel de beschikbaarheid van vergaderingen/livechats in.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor uw agenten de aangewezen [ toestemmingen ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} zijn verleend.
+>Zorg ervoor uw agenten de aangewezen [&#x200B; toestemmingen &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} zijn verleend.
 
 ![](assets/agent-settings-1.png)
 
@@ -86,11 +86,11 @@ Plaats uw tijdzone en tijd/dag van week beschikbaarheid om levende kartels te on
 
 ![](assets/agent-settings-5.png)
 
-Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet het programma wordt geopend, zult u een browser bericht ontvangen (als u [ opstelling hebt die opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnenkomende chat. Als u niet het programma wordt geopend, zult u een browser bericht ontvangen (als u [&#x200B; opstelling hebt die opstelling &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->* De [ beschikbaarheidsknevel ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal** met voeten treden wat in de _Levende praatjebeschikbaarheid_ tabel is ingegaan. Dus als de agent zoals beschikbaar van 1p-5p gepland is maar een snelle onderbreking bij 3p moet nemen, te hoeven zij niet om hun agentenmontages te veranderen. De van de knevel van de beschikbaarheid status zal blijven tot het manueel is veranderd, tot het volgende blok van tijd in de beschikbaarheid van de agent wordt bereikt, of tot middernacht van de gespecificeerde tijdzone van de agent (zie het volgende kogel voor meer info).
+>* De [&#x200B; beschikbaarheidsknevel &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} in de Agent Inbox **zal** met voeten treden wat in de _Levende praatjebeschikbaarheid_ tabel is ingegaan. Dus als de agent zoals beschikbaar van 1p-5p gepland is maar een snelle onderbreking bij 3p moet nemen, te hoeven zij niet om hun agentenmontages te veranderen. De van de knevel van de beschikbaarheid status zal blijven tot het manueel is veranderd, tot het volgende blok van tijd in de beschikbaarheid van de agent wordt bereikt, of tot middernacht van de gespecificeerde tijdzone van de agent (zie het volgende kogel voor meer info).
 >
 >* Wanneer de agent de beschikbaarheidsknevel gebruikt om hun status in &quot;beschikbaar te veranderen,&quot;hun status stelt automatisch (schakelaars aan niet beschikbaar) bij middernacht van de tijdzone terug die in hun beschikbaarheidsprogramma wordt gespecificeerd. Als er geen tijdzone is opgegeven, wordt standaard UTC (Coordinated Universal Time) gebruikt.
 
@@ -100,7 +100,7 @@ Als u bent aangemeld bij de app, ontvangt u een melding in de app van een binnen
 
 ## Agent Profile Photo
 
-Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [ werk uw rekeningsprofiel ](https://helpx.adobe.com/nl/manage-account/using/edit-adobe-account-personal-profile.html) bij.
+Een agent kan zijn eigen profielfoto uploaden, maar die actie wordt niet uitgevoerd in Dynamic Chat. Ze moeten naar `account.adobe.com/profile` navigeren. Leer meer hier: [&#x200B; werk uw rekeningsprofiel &#x200B;](https://helpx.adobe.com/nl/manage-account/using/edit-adobe-account-personal-profile.html) bij.
 
 >[!NOTE]
 >

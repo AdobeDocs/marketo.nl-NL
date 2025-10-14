@@ -68,7 +68,7 @@ Nadat u de Adobe GenAI-voorwaarden hebt geaccepteerd, kunt u deze nu inschakelen
 
    >[!NOTE]
    >
-   >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![ duimen omhoog pictogram ](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![ duimen neer pictogram ](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![ pictogram van de Vlag ](assets/icon-flag.png) te klikken.
+   >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![&#x200B; duimen omhoog pictogram &#x200B;](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![&#x200B; duimen neer pictogram &#x200B;](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![&#x200B; pictogram van de Vlag &#x200B;](assets/icon-flag.png) te klikken.
    >
    >* Als u niet tevreden bent met het eerste overzicht, kunt u op de knop **[!UICONTROL Regenerate summary]** klikken en wordt een andere versie gegenereerd.
 
@@ -102,7 +102,7 @@ De &quot;verbinding&quot;is de naam van het hoofdstuk, en de &quot;Web-pagina&qu
 
 >[!TIP]
 >
->Gebruik [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om uw doelpubliek verder te verfijnen.
+>Gebruik [&#x200B; beperkingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om uw doelpubliek verder te verfijnen.
 
 ## Notities {#things-to-note}
 

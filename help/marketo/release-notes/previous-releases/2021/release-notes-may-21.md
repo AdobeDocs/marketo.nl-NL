@@ -86,4 +86,4 @@ Verscheidene kritieke updates aan Bulk en Lood APIs, met inbegrip van de capacit
 
 **_Webinar van de Versie van het Product_**
 
-[ Mei 2021 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)
+[&#x200B; Mei 2021 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html)

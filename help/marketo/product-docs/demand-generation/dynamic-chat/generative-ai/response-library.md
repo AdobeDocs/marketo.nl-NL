@@ -56,7 +56,7 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
 ## Vragen/antwoorden bulksgewijs bewerken en uploaden {#bulk-edit-and-upload-questions-responses}
 
-De instructies op hoe te om bulkuitgeeft in het [ gedownloade dossier van Excel ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} te maken zijn hieronder. Ze kunnen ook worden weergegeven op het tabblad Taakdetails van het bestand.
+De instructies op hoe te om bulkuitgeeft in het [&#x200B; gedownloade dossier van Excel &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} te maken zijn hieronder. Ze kunnen ook worden weergegeven op het tabblad Taakdetails van het bestand.
 
 <table>
 <thead>

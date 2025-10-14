@@ -49,4 +49,4 @@ U kunt SMS-berichten verzenden naar de mensen die u hebt aangemeld voor uw SMS-c
 
 >[!MORELIKETHIS]
 >
->[ Videodemo van Vibes ](https://vimeo.com/215233767/1ed136adbc)
+>[&#x200B; Videodemo van Vibes &#x200B;](https://vimeo.com/215233767/1ed136adbc)

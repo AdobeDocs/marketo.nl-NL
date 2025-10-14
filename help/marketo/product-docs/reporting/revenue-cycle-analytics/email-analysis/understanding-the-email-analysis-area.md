@@ -17,7 +17,7 @@ Het gebied van de Analyse E-mail concentreert zich op e-mailmetriek. In dit arti
 
 >[!AVAILABILITY]
 >
->Dit is beschikbaar aan gebruikers met de Uitgezochte Uitgave of [ toe:voegen-aan de Analyse van de Cyclus van 0&rbrace; Inkomsten. ](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) Neem contact op met je verkoper voor meer informatie.
+>Dit is beschikbaar aan gebruikers met de Uitgezochte Uitgave of [&#x200B; toe:voegen-aan de Analyse van de Cyclus van 0&rbrace; Inkomsten. &#x200B;](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) Neem contact op met je verkoper voor meer informatie.
 
 ## E-mail klikken op Activiteit, warmteraster {#email-click-activity-heat-grid}
 

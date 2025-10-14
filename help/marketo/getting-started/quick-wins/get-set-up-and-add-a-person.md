@@ -17,7 +17,7 @@ Er zijn een paar dingen te doen voordat u de missies begint.
 
 ## Stap 1: aanmelden bij Marketo Engage {#step-log-in-to-marketo}
 
-1. [ Login aan Marketo Engage ](https://app.marketo.com){target="_blank"} gebruikend de geloofsbrieven u door e-mail ontving.
+1. [&#x200B; Login aan Marketo Engage &#x200B;](https://app.marketo.com){target="_blank"} gebruikend de geloofsbrieven u door e-mail ontving.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 

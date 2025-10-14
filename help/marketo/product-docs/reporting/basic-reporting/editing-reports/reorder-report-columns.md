@@ -35,4 +35,4 @@ U kunt de volgorde van de kolommen in een rapport wijzigen.
 
    >[!MORELIKETHIS]
    >
-   >[ Uitgezochte Kolommen van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[&#x200B; Uitgezochte Kolommen van het Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

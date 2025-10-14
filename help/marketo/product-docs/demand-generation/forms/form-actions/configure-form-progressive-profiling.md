@@ -17,7 +17,7 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
 
 >[!NOTE]
 >
->Voor deze eigenschap om behoorlijk te werken, zorg ervoor de Vorm pre-Vulling voor zichtbare gebieden wordt toegelaten, en [ gehandicapt ](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) voor verborgen gebieden.
+>Voor deze eigenschap om behoorlijk te werken, zorg ervoor de Vorm pre-Vulling voor zichtbare gebieden wordt toegelaten, en [&#x200B; gehandicapt &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) voor verborgen gebieden.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De sectie Analytics biedt algemene rapporten die de prestaties van uw marketing inspanningen analyseren. Meer informatie over de stappen die nodig zijn om door de bestanden te navigeren.
 
-Herinner aan [ download de controlelijsten ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
+Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) en volg uw vooruitgang.
 
 ## Boom {#tree}
 

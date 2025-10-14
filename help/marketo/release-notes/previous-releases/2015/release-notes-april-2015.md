@@ -23,7 +23,7 @@ De volgende functies zijn opgenomen in de release van april 2015. Controleer of 
 >
 >Deze functie wordt op dinsdag 28 april uitgebracht.
 
-De nieuwe [[!UICONTROL Analytics] pagina van het Huis ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) laat snelle toegang voor het runnen van ad hoc rapporten over beschikbare rapporttypes toe.
+De nieuwe [[!UICONTROL Analytics] pagina van het Huis &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) laat snelle toegang voor het runnen van ad hoc rapporten over beschikbare rapporttypes toe.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -41,7 +41,7 @@ Met Marketo Mobile Engagement is het gemakkelijk om aantrekkelijke mobiele belev
 
 [[!DNL LinkedIn] Integratie van de Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Breid uw beleid voor het koesteren van leads uit naar betaalde schermen en sociale advertenties. De [ en netwerkintegratie ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) met [!DNL LinkedIn] Versneller van de Lood staat u toe om een publiekssegment binnen [!DNL LinkedIn] veilig tot stand te brengen die op de leden van om het even welke slimme of statische lijst wordt gebaseerd. Leden in een publiekssegment van [!DNL LinkedIn] kunnen vervolgens worden opgeleid met een reeks relevante advertenties.
+Breid uw beleid voor het koesteren van leads uit naar betaalde schermen en sociale advertenties. De [&#x200B; en netwerkintegratie &#x200B;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) met [!DNL LinkedIn] Versneller van de Lood staat u toe om een publiekssegment binnen [!DNL LinkedIn] veilig tot stand te brengen die op de leden van om het even welke slimme of statische lijst wordt gebaseerd. Leden in een publiekssegment van [!DNL LinkedIn] kunnen vervolgens worden opgeleid met een reeks relevante advertenties.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

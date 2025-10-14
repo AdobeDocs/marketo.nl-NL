@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Template 9A {#template-9a}
 
-Klik met de rechtermuisknop aan [ downloadmalplaatje 9A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 9A &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=nl-NL)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[ Malplaatje 9A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=nl-NL)
+[&#x200B; Malplaatje 9A.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=nl-NL)

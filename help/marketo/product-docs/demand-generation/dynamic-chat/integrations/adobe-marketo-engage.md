@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Dynamic Chat verbinden {#connecting-dynamic-chat}
 
-Nadat u de [ aanvankelijke opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} hebt voltooid, is het tijd om eenmalig synchronisatie uit te voeren die Dynamic Chat met uw abonnement van Adobe Marketo Engage verbindt.
+Nadat u de [&#x200B; aanvankelijke opstelling &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"} hebt voltooid, is het tijd om eenmalig synchronisatie uit te voeren die Dynamic Chat met uw abonnement van Adobe Marketo Engage verbindt.
 
 >[!NOTE]
 >
->Dynamic Chat steunt het synchroniseren van [ inheemse Marketo ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} en de gebieden van de douanepersoon en bedrijfgebieden.
+>Dynamic Chat steunt het synchroniseren van [&#x200B; inheemse Marketo &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} en de gebieden van de douanepersoon en bedrijfgebieden.
 
 1. Klik in Mijn Marketo op de tegel **[!UICONTROL Dynamic Chat]** .
 
@@ -28,7 +28,7 @@ Nadat u de [ aanvankelijke opstelling ](/help/marketo/product-docs/demand-genera
    >
    >Neem contact op met uw Marketo Admin als u de tegel niet ziet.
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Als niet, [ opstelling uw Adobe ID ](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Als niet, [&#x200B; opstelling uw Adobe ID &#x200B;](https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Selecteer **[!UICONTROL Integrations]** als u een Marketo-instantie wilt verbinden.
 
@@ -84,4 +84,4 @@ Na de aanvankelijke synchronisatie, is hier hoe te om een attribuut te verwijder
 
 >[!MORELIKETHIS]
 >
->[ Aanvankelijke Opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}
+>[&#x200B; Aanvankelijke Opstelling &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}

@@ -52,7 +52,7 @@ Marketo zal [&#128279;](/help/marketo/product-docs/administration/audit-trail/ch
 
 Audittrail bestaat uit drie componenten.
 
-**1) [ Trail van de Controle van Activa](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [&#x200B; Trail van de Controle van Activa](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Zie de activiteiten die zijn uitgevoerd voor specifieke elementen.
 
@@ -60,13 +60,13 @@ Zie de activiteiten die zijn uitgevoerd voor specifieke elementen.
 
 Op gebruikers gebaseerde gegevens controleren.
 
-**[ Login Geschiedenis van de Gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**[&#x200B; Login Geschiedenis van de Gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Zie wie zich heeft aangemeld bij uw abonnement en wanneer. Omvat ook ontbroken login pogingen.
 
 >[!TIP]
 >
->Er is zo veel u het gebruiken van het Spoor van de Controle kunt controleren, ben zeker om [ het Filtreren ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) te gebruiken!
+>Er is zo veel u het gebruiken van het Spoor van de Controle kunt controleren, ben zeker om [&#x200B; het Filtreren &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) te gebruiken!
 
 ## Gegevens exporteren {#exporting-data}
 
@@ -82,4 +82,4 @@ U kunt slechts gegevens van 30 dagen in uw exemplaar bekijken. Gebruik de export
 
 >[!MORELIKETHIS]
 >
->[ laat het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md) toe
+>[&#x200B; laat het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md) toe

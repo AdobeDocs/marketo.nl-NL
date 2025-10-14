@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzenden.
 
@@ -39,7 +39,7 @@ Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzen
 
    >[!NOTE]
    >
-   >U kunt een element binnen e-mail ook dynamisch maken. Om dit te doen, selecteer het gebied, klik het tandwielpictogram, en selecteer **Dynamisch maken** (of [ vervangen met Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
+   >U kunt een element binnen e-mail ook dynamisch maken. Om dit te doen, selecteer het gebied, klik het tandwielpictogram, en selecteer **Dynamisch maken** (of [&#x200B; vervangen met Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
 
 1. Voer de naam van de segmentatie in, selecteer deze en klik op **[!UICONTROL Save]** .
 
@@ -75,5 +75,5 @@ Zoet! Nu kunt u flexibele e-mails naar uw doelgroep sturen.
 
 >[!MORELIKETHIS]
 >
->* [ Voorproef e-mail met Dynamische Inhoud ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
->* [ Dynamische Inhoud van het Gebruik in een het landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
+>* [&#x200B; Voorproef e-mail met Dynamische Inhoud &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [&#x200B; Dynamische Inhoud van het Gebruik in een het landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

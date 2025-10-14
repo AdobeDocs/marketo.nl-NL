@@ -17,4 +17,4 @@ Heb je het verificatiebericht niet van ons ontvangen?
 
 Zorg er eerst voor dat de spammap zich niet bevindt.
 
-Als u niet de e-mail daar vindt, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+Als u niet de e-mail daar vindt, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.

@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Beroeps) ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>[&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Beroeps) &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 In dit artikel past u veldmachtigingen aan met een [!DNL Veeva] CRM-paginalay-out en maakt u een [!DNL Marketo-Veeva] CRM-synchronisatiegebruiker.
 
@@ -201,4 +201,4 @@ Uitstekend! Nu hebt u een account waarmee Marketo Engage verbinding kan maken me
 
 >[!MORELIKETHIS]
 >
->[ Stap 3 van 3: Verbind Marketo en  [!DNL Veeva]  CRM ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}
+>[&#x200B; Stap 3 van 3: Verbind Marketo en  [!DNL Veeva]  CRM &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

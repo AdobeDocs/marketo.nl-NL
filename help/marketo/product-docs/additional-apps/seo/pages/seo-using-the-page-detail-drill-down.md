@@ -46,7 +46,7 @@ U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina
 
 ## [!UICONTROL Keyword(s) that Page is Optimized For]  {#keyword-s-that-page-is-optimized-for}
 
-Dit is waar u [ selecteert welk sleutelwoord u probeert om uw pagina voor ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md) te optimaliseren.
+Dit is waar u [&#x200B; selecteert welk sleutelwoord u probeert om uw pagina voor &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md) te optimaliseren.
 
 >[!NOTE]
 >
@@ -62,4 +62,4 @@ In [!UICONTROL Page Optimization Results] worden precies de stappen beschreven d
 
 >[!MORELIKETHIS]
 >
->[ optimaliseer Specifieke Pagina&#39;s met gerichte Sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
+>[&#x200B; optimaliseer Specifieke Pagina&#39;s met gerichte Sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)

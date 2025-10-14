@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[&#x200B; integreer RTP met de Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 In dit artikel wordt uitgelegd hoe u RTP-dashboards kunt instellen in Google Universal Analytics (GUA). De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanedashboards zijn:
 
@@ -264,6 +264,6 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
 
 >[!MORELIKETHIS]
 >
->[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
+>[&#x200B; integreer RTP met de Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[ de Rapporten van RTP van de Douane in Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
+>[&#x200B; de Rapporten van RTP van de Douane in Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)

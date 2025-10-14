@@ -103,7 +103,7 @@ Mobiele app is/is geopend
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U zult met uw ontwikkelaar aan opstelling het volgen [ voor Android ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [ voor iOS ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} moeten werken.
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U zult met uw ontwikkelaar aan opstelling het volgen [&#x200B; voor Android &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [&#x200B; voor iOS &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} moeten werken.
 
 * Heeft mobiele toepassingsactiviteit - trigger
 
@@ -192,5 +192,5 @@ Taps/Tapping Push Notification
 
 >[!MORELIKETHIS]
 >
->* [ voeg een Beperking aan een Slimme Filter van de Lijst toe ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [ Filters van de Inactiviteit van het Gebruik in een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [&#x200B; voeg een Beperking aan een Slimme Filter van de Lijst toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [&#x200B; Filters van de Inactiviteit van het Gebruik in een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

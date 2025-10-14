@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->De insteekmodule op deze pagina is bedoeld voor gebruikers die via Marketo native CRM-synchronisatieoplossing synchroniseren met [!DNL Dynamics 365] . Voor degenen die: een douanesync, [!DNL MS Dynamics 365 Online] (9.x en hierboven) hebben, en [!DNL Marketo Sales Insight] gekocht, is het [ pakket hier ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+>De insteekmodule op deze pagina is bedoeld voor gebruikers die via Marketo native CRM-synchronisatieoplossing synchroniseren met [!DNL Dynamics 365] . Voor degenen die: een douanesync, [!DNL MS Dynamics 365 Online] (9.x en hierboven) hebben, en [!DNL Marketo Sales Insight] gekocht, is het [&#x200B; pakket hier &#x200B;](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

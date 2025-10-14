@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Marketing of verkoop wil een nieuw veld. Of misschien bent u er één vergeten in de eerste veldselectie. Of uw behoeften zijn gewijzigd. In elk geval kunt u met Snel synchroniseren specifieke velden opnieuw synchroniseren.
 
-Normaal, zult u Snelle Synchronisatie gebruiken om een nieuw gebied toe te voegen en waarden hebben verfrist. Er zijn echter gevallen waarin u een bestaand veld wilt synchroniseren. U kunt de veldsynchronisatie beperken op basis van een bijgewerkt of gemaakt datumbereik. Zie [ Geavanceerde Opties van de Synchronisatie ](#Advanced_Sync_Options) hieronder voor details.
+Normaal, zult u Snelle Synchronisatie gebruiken om een nieuw gebied toe te voegen en waarden hebben verfrist. Er zijn echter gevallen waarin u een bestaand veld wilt synchroniseren. U kunt de veldsynchronisatie beperken op basis van een bijgewerkt of gemaakt datumbereik. Zie [&#x200B; Geavanceerde Opties van de Synchronisatie &#x200B;](#Advanced_Sync_Options) hieronder voor details.
 
 Met Snelle synchronisatie kunt u null-waarden synchroniseren. Als u bijvoorbeeld de waarden A en B gebruikt en een B-waarde in [!DNL Dynamics] wijzigt in null, wordt de null-waarde gesynchroniseerd met Marketo.
 

@@ -19,9 +19,9 @@ De volgende functies zijn opgenomen in de release van januari 2015. Controleer o
 
 **Mobiele Vriendelijke het Landen Pagina&#39;s**
 
-U kunt [ mobiele meningen voor het landen van pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) van binnen de het landen paginaredacteur nu bouwen. Geef uw boodschap effectief, ongeacht het apparaat, en vergroot de betrokkenheid door uw inhoud onderweg op maat te maken voor eenvoudig verbruik. Deze functie wordt geleidelijk uitgevoerd in de hele week na de release.
+U kunt [&#x200B; mobiele meningen voor het landen van pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) van binnen de het landen paginaredacteur nu bouwen. Geef uw boodschap effectief, ongeacht het apparaat, en vergroot de betrokkenheid door uw inhoud onderweg op maat te maken voor eenvoudig verbruik. Deze functie wordt geleidelijk uitgevoerd in de hele week na de release.
 
-[ -Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
+[&#x200B; -Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
 **Nieuwe REST API Vraag**
 
@@ -31,7 +31,7 @@ Drie nieuwe oproepen voor de Leiding &amp; de REST API van de Activiteit:
 * Leads ophalen op basis van programma-id
 * Verwijderde leads ophalen
 
-Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. De volledige details zullen na de versie in [ https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) beschikbaar zijn
+Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. De volledige details zullen na de versie in [&#x200B; https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/home) beschikbaar zijn
 
 **E-mailScripting de Steun van het Objecten van de Douane**
 
@@ -41,7 +41,7 @@ Open nu aangepaste objecten die aan het object Account zijn gekoppeld vanuit e-m
 
 **Persoonlijke opmerkingen voor Google en[!DNL Facebook]**
 
-In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. U kunt uw remarketing campagnes op [ Google ](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) nu personaliseren gebruikend gegevens van Real-Time Personalization. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
+In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. U kunt uw remarketing campagnes op [&#x200B; Google &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) nu personaliseren gebruikend gegevens van Real-Time Personalization. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
 
 [Module lijst met benoemde accounts](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -62,6 +62,6 @@ De opties voor de RTP-tag onder Accountinstellingen zijn zo bijgewerkt dat:
 1. Asynchrone tag zonder CDN
 1. Synchrone tag zonder CDN
 
-Voor de beste prestaties raden we u aan de tag boven aan de koptekst in uw webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [ RTP API ](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [ hier ](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Voor de beste prestaties raden we u aan de tag boven aan de koptekst in uw webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [&#x200B; RTP API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [&#x200B; hier &#x200B;](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

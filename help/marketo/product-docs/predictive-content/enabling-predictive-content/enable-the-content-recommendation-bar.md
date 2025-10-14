@@ -21,11 +21,11 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 >
 >* **bereidt uw Predictieve Inhoud** voor
 >
->   * [ geef Voorspelende Inhoud voor E-mail ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) uit of
->   * [ geef Voorspelende Inhoud voor Rijke Media ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) uit of
->   * [ geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>   * [&#x200B; geef Voorspelende Inhoud voor E-mail &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) uit of
+>   * [&#x200B; geef Voorspelende Inhoud voor Rijke Media &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) uit of
+>   * [&#x200B; geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
->* [ keur een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
+>* [&#x200B; keur een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
 
 ## De balk met aanbevelingen voor inhoud inschakelen en aanpassen {#enable-and-customize-the-content-recommendation-bar}
 
@@ -65,4 +65,4 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 
 >[!MORELIKETHIS]
 >
->[ laat Voorspelende Inhoud voor Web Rich Media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe
+>[&#x200B; laat Voorspelende Inhoud voor Web Rich Media &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe

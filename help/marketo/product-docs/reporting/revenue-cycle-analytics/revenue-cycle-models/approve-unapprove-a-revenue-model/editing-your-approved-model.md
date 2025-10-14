@@ -59,4 +59,4 @@ U kunt slechts één goedgekeurd model tegelijk hebben. Als u een model wilt goe
 
 >[!MORELIKETHIS]
 >
->[ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)

@@ -65,4 +65,4 @@ Geweldig! Nu je weet hoe je je programma kunt bekijken, leren we de andere coole
 
 >[!MORELIKETHIS]
 >
->[ Creërend een Ingang in de Mening van het Programma van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
+>[&#x200B; Creërend een Ingang in de Mening van het Programma van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

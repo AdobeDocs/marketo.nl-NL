@@ -46,4 +46,4 @@ Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met behulp v
 
 >[!MORELIKETHIS]
 >
->[ geef Ingangen direct in de Kalender van de Marketing uit ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[&#x200B; geef Ingangen direct in de Kalender van de Marketing uit &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

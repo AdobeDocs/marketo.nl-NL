@@ -23,7 +23,7 @@ Snel en gemakkelijk een volledig programma en al zijn activa klonen in plaats va
 
    >[!NOTE]
    >
-   >De programma&#39;s kunnen in [ campagne ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) worden gekloond [ omslagen ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) of [ werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Zorg ervoor dat u alle onderliggende afhankelijke elementen (e-mails, fragmenten, sjablonen voor bestemmingspagina&#39;s, enz.) deelt met de doelwerkruimte voordat u gaat klonen.
+   >De programma&#39;s kunnen in [&#x200B; campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) worden gekloond [&#x200B; omslagen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) of [&#x200B; werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Zorg ervoor dat u alle onderliggende afhankelijke elementen (e-mails, fragmenten, sjablonen voor bestemmingspagina&#39;s, enz.) deelt met de doelwerkruimte voordat u gaat klonen.
 
    ![](assets/cloneto.png)
 
