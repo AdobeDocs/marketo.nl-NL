@@ -121,4 +121,4 @@ Sommige mensen onttrekken zelfs het grootste deel van de tekst in de e-mails en 
 
 ## Samenvatting {#summary}
 
-Zoals je ziet, is er veel macht in Marketo. Wij behandelden de grondbeginselen hier, maar overweeg de extra diensten van [&#x200B; deskundigen van Marketo Engage &#x200B;](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} aan verfijning en opstelling voor succes.
+Zoals je ziet, is er veel macht in Marketo. Wij behandelden de grondbeginselen hier, maar overweeg de extra diensten van [&#x200B; deskundigen van Marketo Engage &#x200B;](https://business.adobe.com/nl/products/marketo/services-support.html){target="_blank"} aan verfijning en opstelling voor succes.

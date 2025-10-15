@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeld van een inhoudsprogramma met een Marketo Engage-formulier voor het downloaden van inhoud naar een niet-Marketo Engage Landing Page met behulp van een Marketo Engage-standaardprogramma. Dit programma is bedoeld om te werken met een Marketo Engage-formulier dat is ingesloten op uw website. De koppeling naar het aanbod/de inhoud kan via een e-mail worden verzonden.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

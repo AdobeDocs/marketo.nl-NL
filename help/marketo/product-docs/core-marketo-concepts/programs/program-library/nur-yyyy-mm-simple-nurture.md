@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Dit is een voorbeeld van eenvoudige programma&#39;s van de Verloop, die het Programma van de Aansluiting van Marketo Engage gebruiken, met inhoud met een kadaast aan druppel in tijd aan uw gegevensbestand terwijl het gebruiken van stromen om verslagen door reizen te leiden die op gedrag worden gebaseerd.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

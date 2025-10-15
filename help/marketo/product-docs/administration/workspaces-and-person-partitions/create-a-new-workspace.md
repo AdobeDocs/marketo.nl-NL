@@ -30,7 +30,7 @@ Zo maakt u een nieuwe werkruimte.
 
 >[!TIP]
 >
->Om meer over de beste praktijken van Workspace te leren, gelieve te contacteren {de Professionele Diensten van 0} Marketo [.](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}
+>Om meer over de beste praktijken van Workspace te leren, gelieve te contacteren {de Professionele Diensten van 0} Marketo [.](https://business.adobe.com/nl/products/marketo/services-support.html){target="_blank"}
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
