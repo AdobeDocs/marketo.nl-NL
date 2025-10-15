@@ -23,7 +23,7 @@ Aanvullende informatie over machtigingen:
 
 ## Beschikbare machtigingen {#available-permissions}
 
-Wanneer u [ creeert of een rol ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) uitgeeft, kunt u selecteren welke van de volgende toestemmingen om voor die rol toe te staan door de aangewezen dozen te controleren.
+Wanneer u [&#x200B; creeert of een rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) uitgeeft, kunt u selecteren welke van de volgende toestemmingen om voor die rol toe te staan door de aangewezen dozen te controleren.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -120,11 +120,11 @@ Biedt gebruikers toegang tot het lusje van de Studio van het Ontwerp en mening v
 
 * Toegang tot e-mail
    * E-mail bewerken - Hiermee geeft u gebruikers toestemming om e-mailberichten te bewerken, maken en klonen
-      * Operationele e-mails maken en bewerken - geeft gebruikers toestemming om operationele e-mails te maken en/of bewerken. Zie: [ maak een Operationele E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Operationele e-mails maken en bewerken - geeft gebruikers toestemming om operationele e-mails te maken en/of bewerken. Zie: [&#x200B; maak een Operationele E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * E-mail goedkeuren - Hiermee kunnen gebruikers e-mailberichten goedkeuren.
       * E-mail verwijderen - Hiermee kunnen gebruikers e-mailberichten verwijderen.
-      * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [ voeg een Extra brandend Domein ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) toe
+      * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [&#x200B; voeg een Extra brandend Domein &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) toe
 
 * Toegang tot e-mailsjabloon
 
