@@ -3,10 +3,10 @@ description: Aanmelden met OAuth 2.0 - Marketo Docs - Productdocumentatie
 title: Aanmelden met OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 1%
+source-wordcount: '610'
+ht-degree: 0%
 
 ---
 
@@ -18,35 +18,51 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 >
 >Als u Marketo en [!DNL Salesforce] wilt verbinden met gebruik van OAuth, meldt u zich aan bij Marketo via een privébrowser (incognito) om te voorkomen dat u verbinding maakt met [!DNL Salesforce] met de verkeerde gebruikersnaam.
 
-## Connected App instellen {#set-up-connected-app}
+## Externe clienttoepassing instellen {#set-up-external-client-app}
 
-1. Navigeer in Salesforce, onder Setup, in de platformgereedschappen naar Apps, App Manager en klik op **[!UICONTROL New Connected App]** .
-
-   ![](assets/setting-up-oauth-2-1.png)
-
-1. Vul de details in en klik op **[!UICONTROL Save]** .
-
-   ![](assets/setting-up-oauth-2-2.png)
-
-1. Klik op het selectievakje **[!UICONTROL Enable OAuth Settings]** . Voer bij URL voor terugbellen `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` in. Selecteer alle beschikbare OAuth-bereiken en klik op **[!UICONTROL Add]** .
-
-   ![](assets/setting-up-oauth-2-3.png)
-
-1. Klik op **[!UICONTROL Save]**.
-
-   ![](assets/setting-up-oauth-2-4.png)
-
-1. Klik op **[!UICONTROL Continue]**.
-
-   ![](assets/setting-up-oauth-2-5.png)
-
-1. Kopieer de Consumentensleutel en het Geheim van de Consumenten (u zult hen voor gebruik in Marketo Engage later nodig hebben).
-
-   ![](assets/setting-up-oauth-2-6.png)
-
->[!CAUTION]
+>[!NOTE]
 >
->Terwijl nog op de Nieuwe Verbonden pagina van de App, scrol neer en zorg ervoor de &quot;Vereisen Sleutel van het Bewijs voor de Uitwisseling van de Code (PKCE)&quot;checkbox _NIET_ wordt gecontroleerd, aangezien het met opstelling zou mengen.
+>Vanaf September 2025, begon Salesforce gebruik van [ Verbonden Apps ](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"} te beperken. Voor bestaande gebruikers die op basis van onze documentatie een Connected App hebben ingesteld, kunt u de machtiging &quot;Uninstalled Connected Apps&quot; goedkeuren toevoegen aan het profiel van de Marketo Sync-gebruiker of een nieuwe externe Client App maken aan de hand van de onderstaande instructies.
+
+1. In Salesforce, klik het tandwielpictogram en selecteer **Opstelling**.
+
+   ![](assets/log-in-using-oauth-1.png)
+
+1. In het Snelle vakje van de Vondst, type `App Manager`, dan uitgezochte **Manager van de App**.
+
+   ![](assets/log-in-using-oauth-2.png)
+
+1. Klik **Nieuwe Externe toepassing van de Cliënt**.
+
+   ![](assets/log-in-using-oauth-3.png)
+
+1. Vul de details onder _BasisInformatie_ in. Plaats _Staat van de Distributie_ aan **Lokale**.
+
+   ![](assets/log-in-using-oauth-4.png)
+
+1. Breid **API (laat OAuth Montages toe)** sectie uit en selecteer **[!UICONTROL Enable OAuth]** checkbox. Voor _Callback URL_, ga `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` in. Selecteer alle beschikbare OAuth-bereiken en klik op de pijl-rechts om deze toe te voegen.
+
+   ![](assets/log-in-using-oauth-5.png)
+
+1. Onder _Inschakeling van de Stroom_, zorg ervoor geen dozen worden geselecteerd.
+
+   ![](assets/log-in-using-oauth-6.png)
+
+1. Onder _Veiligheid_, zorg ervoor slechts **geheim voor de Stroom van de Server van het Web** vereist en **vereist geheim voor het Vernieuwen Symbolische Stroom** wordt geselecteerd.
+
+   ![](assets/log-in-using-oauth-7.png)
+
+1. Skip de laatste vier secties en klik **creeer**.
+
+   ![](assets/log-in-using-oauth-8.png)
+
+1. Nadat de nieuwe Externe Cliënt App wordt gecreeerd, klik het **lusje van Montages** en breid de **sectie van de Montages van de OAuth** uit.
+
+   ![](assets/log-in-using-oauth-9.png)
+
+1. Klik op de knop **Consumentencode en Consumentengeheim** en vraag een nieuw tabblad om te openen. Kopieer en sla beide getallen op (u hebt ze later nodig voor gebruik in Marketo Engage).
+
+   ![](assets/log-in-using-oauth-10.png)
 
 ## Marketo instellen {#set-up-marketo}
 
@@ -64,51 +80,51 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
 1. Klik in de sectie Marketo Admin op **[!UICONTROL CRM]** en vervolgens op **[!UICONTROL Sync with Salesforce]** .
 
-   ![](assets/setting-up-oauth-2-7.png)
+   ![](assets/log-in-using-oauth-11.png)
 
 1. Voeg de gegevens Consumentencode en Consumentengeheim toe die u eerder hebt opgenomen en klik en **[!UICONTROL Save]** .
 
-   ![](assets/setting-up-oauth-2-8.png)
+   ![](assets/log-in-using-oauth-12.png)
 
 1. Klik op de synchronisatiepagina van Marketo Salesforce op de knop **[!UICONTROL Login with Salesforce]** .
 
-   ![](assets/setting-up-oauth-2-9.png)
+   ![](assets/log-in-using-oauth-13.png)
 
    >[!CAUTION]
    >
-   >Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Gelieve te verwijzen naar [&#x200B; Opstelling Marketo met BasisAuthentificatie &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, worden de Salesforce-gegevens of het abonnement niet meer gewijzigd. Om Oauth 2.0 opstelling voor uw authentificatie van Salesforce te hebben, contacteer [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support).
+   >Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Gelieve te verwijzen naar [ Opstelling Marketo met BasisAuthentificatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, worden de Salesforce-gegevens of het abonnement niet meer gewijzigd. Om Oauth 2.0 opstelling voor uw authentificatie van Salesforce te hebben, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 1. Er wordt een pop-up weergegeven met de aanmeldingspagina voor verkopers. Sleutel in uw aanmeldingsgegevens voor &quot;Marketo Sync User&quot; (Gebruiker synchroniseren) en meld u aan.
 
-   ![](assets/setting-up-oauth-2-10.png)
+   ![](assets/log-in-using-oauth-14.png)
 
 1. Voer de verificatiecode in die je hebt ontvangen via e-mail (verzonden door Salesforce) en klik op **[!UICONTROL Verify]** .
 
-   ![](assets/setting-up-oauth-2-11.png)
+   ![](assets/log-in-using-oauth-15.png)
 
 1. Na succesvolle verificatie wordt de toegangspagina weergegeven met het verzoek om toegang. Klik op **[!UICONTROL Allow]**.
 
-   ![](assets/setting-up-oauth-2-12.png)
+   ![](assets/log-in-using-oauth-16.png)
 
 1. Over een paar minuten verschijnt er een pop-up in Marketo. Klik op **[!UICONTROL Confirm Credentials]**.
 
-   ![](assets/setting-up-oauth-2-13.png)
+   ![](assets/log-in-using-oauth-17.png)
 
 1. Klik op **[!UICONTROL Start Salesforce Sync]** als de veldsynchronisatie is voltooid.
 
-   ![](assets/setting-up-oauth-2-14.png)
+   ![](assets/log-in-using-oauth-18.png)
 
 1. Klik op **[!UICONTROL Start Sync]**.
 
-   ![](assets/setting-up-oauth-2-15.png)
+   ![](assets/log-in-using-oauth-19.png)
 
 Uw Synchronisatie tussen Marketo en [!DNL Salesforce] wordt nu uitgevoerd.
 
-![](assets/setting-up-oauth-2-16.png)
+![](assets/log-in-using-oauth-20.png)
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
->* [&#x200B; Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
->* [&#x200B; installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
->* [&#x200B; vorm Marketo Verkoop Insight in de Onderneming van Salesforce/Onbeperkt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [ Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>* [ installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [ vorm Marketo Verkoop Insight in de Onderneming van Salesforce/Onbeperkt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}
