@@ -18,7 +18,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
 1. [&#x200B; creeer een nieuwe slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definieer de volgende slimme lijst:
 
 * Trigger: **[!UICONTROL Person is Created]**
-* Filter: **[!UICONTROL Duplicate Fields]**. Veldnaam **[!UICONTROL is][!UICONTROL Full Name]**
+* Filter: **[!UICONTROL Duplicate Fields]**. Veldnaam **[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 
