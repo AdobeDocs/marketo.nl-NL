@@ -3,9 +3,9 @@ description: Aanmelden met OAuth 2.0 - Marketo Docs - Productdocumentatie
 title: Aanmelden met OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
 >[!NOTE]
 >
->Vanaf September 2025, begon Salesforce gebruik van [&#x200B; Verbonden Apps &#x200B;](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"} te beperken. Voor bestaande gebruikers die op basis van onze documentatie een Connected App hebben ingesteld, kunt u de machtiging &quot;Uninstalled Connected Apps&quot; goedkeuren toevoegen aan het profiel van de Marketo Sync-gebruiker of een nieuwe externe Client App maken aan de hand van de onderstaande instructies.
+>Vanaf September 2025, begon Salesforce gebruik van [ Verbonden Apps ](https://help.salesforce.com/s/articleView?id=005132365&type=1){target="_blank"} te beperken. Voor bestaande gebruikers die op basis van onze documentatie een Connected App hebben ingesteld, kunt u de machtiging &quot;Uninstalled Connected Apps&quot; goedkeuren toevoegen aan het profiel van de Marketo Sync-gebruiker of een nieuwe externe Client App maken aan de hand van de onderstaande instructies.
 
 1. In Salesforce, klik het tandwielpictogram en selecteer **Opstelling**.
 
@@ -56,11 +56,11 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. Nadat de nieuwe Externe Cliënt App wordt gecreeerd, klik het **lusje van Montages** en breid de **sectie van de Montages van de OAuth** uit.
+1. Nadat de nieuwe Externe Cliënt App wordt gecreeerd, selecteer het **lusje van Montages** en breid de **sectie van de Montages van de OAuth** uit.
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. Klik op de knop **Consumentencode en Consumentengeheim** en vraag een nieuw tabblad om te openen. Kopieer en sla beide getallen op (u hebt ze later nodig voor gebruik in Marketo Engage).
+1. Klik op de knop **Consumentencode en Geheim** en vraag een nieuw tabblad om te openen. Kopieer en sla beide getallen op (u hebt ze later nodig voor gebruik in Marketo Engage).
 
    ![](assets/log-in-using-oauth-10.png)
 
@@ -92,7 +92,7 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
    >[!CAUTION]
    >
-   >Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Gelieve te verwijzen naar [&#x200B; Opstelling Marketo met BasisAuthentificatie &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, worden de Salesforce-gegevens of het abonnement niet meer gewijzigd. Om Oauth 2.0 opstelling voor uw authentificatie van Salesforce te hebben, contacteer [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+   >Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Gelieve te verwijzen naar [ Opstelling Marketo met BasisAuthentificatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}. Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, worden de Salesforce-gegevens of het abonnement niet meer gewijzigd. Om Oauth 2.0 opstelling voor uw authentificatie van Salesforce te hebben, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 1. Er wordt een pop-up weergegeven met de aanmeldingspagina voor verkopers. Sleutel in uw aanmeldingsgegevens voor &quot;Marketo Sync User&quot; (Gebruiker synchroniseren) en meld u aan.
 
@@ -124,7 +124,7 @@ Uw Synchronisatie tussen Marketo en [!DNL Salesforce] wordt nu uitgevoerd.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
->* [&#x200B; Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
->* [&#x200B; installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
->* [&#x200B; vorm Marketo Verkoop Insight in de Onderneming van Salesforce/Onbeperkt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [ Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>* [ installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [ vorm Marketo Verkoop Insight in de Onderneming van Salesforce/Onbeperkt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}
