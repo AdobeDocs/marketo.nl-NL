@@ -21,7 +21,7 @@ U kunt gebruikers beperken of toestaan om tot Marketo toegang te hebben die op h
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) steunt [ op IP-Gebaseerd toegangsbeheer ](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Om een vlotte overgang te verzekeren, zullen de bestaande beperkingen van Marketo Engage IP actief zijn met inbegrip van de gebruikers van Adobe ID door Q1 2026 in abonnementen waar deze eigenschap wordt toegelaten.
+>Adobe Admin Console (AAC) steunt [&#x200B; op IP-Gebaseerd toegangsbeheer &#x200B;](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Om een vlotte overgang te verzekeren, zullen de bestaande beperkingen van Marketo Engage IP actief zijn met inbegrip van de gebruikers van Adobe ID door Q1 2026 in abonnementen waar deze eigenschap wordt toegelaten.
 >
 >* U kunt op AAC IP-Gebaseerde toegang op om het even welk ogenblik vormen.
 >* Zowel de beperkingen van AAC als van Marketo Engage kunnen gelijktijdig lopen. Gebruik dezelfde IP-lijst van gewenste personen voor compatibiliteit.
@@ -40,7 +40,7 @@ U kunt gebruikers beperken of toestaan om tot Marketo toegang te hebben die op h
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Kies of u **** **specifieke adressen van het Blok wilt** toestaan of, ingaan het adres(sen), dan klikken **[!UICONTROL Save]**.
+1. Kies of u **&#x200B;**&#x200B;**specifieke adressen van het Blok wilt** toestaan of, ingaan het adres(sen), dan klikken **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
