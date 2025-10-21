@@ -4,10 +4,10 @@ description: Marketo-aanmeldingen beperken op basis van IP - Marketo Docs - Prod
 title: Marketo-aanmeldingen beperken op basis van IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 1%
+source-wordcount: '220'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,12 @@ U kunt gebruikers beperken of toestaan om tot Marketo toegang te hebben die op h
 
 >[!IMPORTANT]
 >
->De informatie in dit artikel is bedoeld voor gebruikers die zich rechtstreeks aanmelden op login.marketo.com en is niet van toepassing op gebruikers die zich verifiëren met Adobe ID. Het is niet mogelijk om IP beperkingen op enige sign-on (SSO) logins op dit ogenblik af te dwingen.
+>Adobe Admin Console (AAC) steunt [ op IP-Gebaseerd toegangsbeheer ](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Om een vlotte overgang te verzekeren, zullen de bestaande beperkingen van Marketo Engage IP actief zijn met inbegrip van de gebruikers van Adobe ID door Q1 2026 in abonnementen waar deze eigenschap wordt toegelaten.
+>
+>* U kunt op AAC IP-Gebaseerde toegang op om het even welk ogenblik vormen.
+>* Zowel de beperkingen van AAC als van Marketo Engage kunnen gelijktijdig lopen. Gebruik dezelfde IP-lijst van gewenste personen voor compatibiliteit.
+>
+>Na het eerste kwartaal van 2026 worden de Marketo Engage IP-beperkingen opgeheven. Op IP-Gebaseerde toegang zal uitsluitend door AAC worden beheerd en moet worden gevormd om login beperkingen af te dwingen. Een definitieve overgangsdatum wordt later bekendgemaakt.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -35,7 +40,7 @@ U kunt gebruikers beperken of toestaan om tot Marketo toegang te hebben die op h
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Kies of u **&#x200B;**&#x200B;**specifieke adressen van het Blok wilt** toestaan of, ingaan het adres(sen), dan klikken **[!UICONTROL Save]**.
+1. Kies of u **** **specifieke adressen van het Blok wilt** toestaan of, ingaan het adres(sen), dan klikken **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -50,5 +55,3 @@ U kunt gebruikers beperken of toestaan om tot Marketo toegang te hebben die op h
    >U kunt meerdere beperkingen toevoegen, maar deze kunnen ALLES zijn toegestaan of ALLES geblokkeerd. Je kunt niet mixen en overeenkomen met toegestaan en geblokkeerd.
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
-
-   Je marketinggegevens zijn nu veiliger dan ooit!
