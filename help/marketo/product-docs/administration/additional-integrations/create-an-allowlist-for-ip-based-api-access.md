@@ -21,7 +21,7 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 
 >[!NOTE]
 >
->Deze eigenschap werkt onafhankelijk van op Marketo Engage [&#x200B; IP-Gebaseerde login beperkingen &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} die door Admin Console [&#x200B; op IP-Gebaseerd toegangsbeheer &#x200B;](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} worden vervangen. Het blijft functioneren zoals het is na de migratie naar Adobe IMS.
+>Deze eigenschap werkt onafhankelijk van op Marketo Engage [&#x200B; IP-Gebaseerde login beperkingen &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} die door Admin Console [&#x200B; op IP-Gebaseerd toegangsbeheer &#x200B;](https://helpx.adobe.com/nl/enterprise/using/ip-based-access.html){target="_blank"} worden vervangen. Het blijft functioneren zoals het is na de migratie naar Adobe IMS.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
