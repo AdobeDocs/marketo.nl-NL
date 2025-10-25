@@ -1,20 +1,17 @@
 ---
-description: Huidige aanvullende informatie - Documentatie voor Marketo - Productdocumentatie
-title: Opmerkingen bij de huidige release
-hide: true
-hidefromtoc: true
+description: Opmerkingen bij de release - september 2025 - Marketo Docs - Productdocumentatie
+title: Opmerkingen bij de release - september 2025
 feature: Release Information
-exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 1%
+source-wordcount: '706'
+ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: oktober 2025 {#release-notes-oct-25}
+# Opmerkingen bij de release: september 2025 {#release-notes-sep-25}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 25 oktober. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 25 september. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
@@ -24,7 +21,7 @@ De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/h
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **worden vrijgegeven 31 oktober, 2025**, met een gefaseerde implementatie van resterende eigenschappen in de verdere weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **worden vrijgegeven 19 september, 2025**, met een gefaseerde implementatie van resterende eigenschappen in de verdere weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,7 +31,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
   <tr>
-   <td><strong> Importeur van het Malplaatje </strong>: De malplaatjes van de Invoer e-mail van de klassieke e-mailredacteur om malplaatjes tot stand te brengen compatibel met Nieuwe E-mail Designer in de Studio van het Ontwerp.</td>
+   <td><strong> Op bestelling Webinar het Behouden van de Activiteit </strong>: De interactieve gebruikers van Webinars hebben nu de gegevens van het Webinar Dashboard beschikbaar voor meer dan 30 dagen (eerder was het slechts tot 30 dagen van de dag van webinar).</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
@@ -44,40 +41,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
   </tr>
   <tr>
-   <td><strong> E-mail Designer - Voorwaardelijke Inhoud </strong>: De eigenschap van de pariteit voor nieuwe E-mail Designer, die u toestaat om e-mailverpersoonlijking voorbij tokens te bereiken.</td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> E-mail Designer - A/B het Testen </strong>: De eigenschap van de pariteit voor nieuwe E-mail Designer, die u toestaat om tests A/B uit te voeren om te zien welke types van inhoud de beste reactie ontvangen.</td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> E-mail Designer - de Thema's van het Merk </strong>: U kunt merkthema's binnen Marketo Engage nu bepalen. Stijlconfiguraties kunnen opnieuw worden gebruikt en worden toegepast op e-mailsjablonen en andere e-mailmiddelen voor de consistentie van merken.</td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong> E-mail Designer - Beeld aan de Convertor van HTML </strong>: U kunt nu een volgzaam PNG/JPEG beelddossier van een e-mail uploaden en het zal automatisch in HTML voor gebruik in nieuwe E-mail Designer worden omgezet.</td>
+   <td><strong> E-mail Designer - de Werkstroom van Collaboration van de Inhoud </strong>: U kunt nu commentaren op en met medegebruikers van Marketo binnen een e-mailmiddel samenwerken. Tagteamleden (Marketo-gebruikers die beschikken over de juiste machtigingen voor middelen) en ontvangen een e-mail- of pulsmelding.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
@@ -87,7 +51,27 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
   </tr>
   <tr>
-   <td><strong> E-mail Designer - de Actie van de E-mail van de Kloon </strong>: U kunt een e-mail in een andere programmaomslag in de Activiteiten van de Marketing nu klonen en snel bestaande e-mails hergebruiken.</td>
+   <td><strong> E-mail Designer - AI HulpToestemmingen </strong>: De Admins van Marketo kunnen specifieke gebruikers van toegang tot eigenschappen verstrekken GenAI.</td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Machtigingen instellen</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> E-mail Designer - Donkere Wijze </strong>: U kunt Donkere Wijze nu gebruiken, die steunende e-mailcliënten en apps toestaat om e-mails met donkere achtergronden en lichtere kleuren voor tekst, knopen, en andere elementen te tonen UI.</td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Donkere modus</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> E-mail Designer - Redirect Correcties </strong>: Sommige gebruikers ervoeren omleidingskwesties met URLs voor e-mail die gebruikend nieuwe Designer worden gecreeerd (b.v., het direct kleven van URLs of het referentie e-mailactiva werkte niet altijd). Dit probleem is opgelost. Bovendien, zullen de verbindingen aan e-mailactiva van <b> E-mailMalplaatjes </b> &gt; <b> Details </b> &gt; <b> Gebruikt door </b> aan het overeenkomstige e-mailelement opnieuw richten.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
@@ -107,7 +91,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
    * _Enige Sign-On (SSO) Verdringing_: Steun voor [ Identiteit SSO van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} geëindigd op 30 Juli, 2025. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet afzonderlijk worden geconfigureerd. Voor opstellingsstappen, zie [ de identiteit van de Opstelling en Enige Sign-On ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Verdringing van _door:sturen aan een 2} Eigenschap van de Vriend_: Op 29 september, 2025,** door:sturen aan een 5} eigenschap van de Vriend {in Marketo Engage 2.0 e-mails (de erfenis e-mailredacteur) werd volledig afgekeurd voor alle abonnementen. __ Dit beïnvloedde de &quot;Voorwaartse aan een Bezwaren&quot;token en &quot;Voorwaartse aan een Vriend&quot;verbindingen in e-mails die reeds waren of gepland om worden verzonden gebruikend het teken. [Meer informatie](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **Verdringing van _door:sturen aan een 2} Eigenschap van de Vriend_: Op 29 september, 2025,** door:sturen aan een 5} eigenschap van de Vriend {in Marketo Engage 2.0 e-mails (de erfenis e-mailredacteur) zal volledig verouderd voor alle abonnementen zijn. __ Dit is van invloed op de token &#39;Doorsturen naar een vriend&#39; en de koppeling &#39;Doorsturen naar een vriend&#39; in e-mailberichten die al zijn of zullen worden verzonden met de token. [Meer informatie](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Januari, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
