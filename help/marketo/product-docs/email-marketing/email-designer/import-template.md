@@ -5,18 +5,19 @@ title: Sjabloon importeren
 description: Leer hoe u uw bestaande e-mailsjablonen vanuit de klassieke editor importeert in de nieuwe e-mailversie van Designer.
 level: Beginner, Intermediate
 feature: Email Designer
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '723'
 ht-degree: 0%
 
 ---
 
 # Sjabloon importeren {#template-import}
 
-Importeer naadloos uw bestaande e-mailsjablonen vanuit de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt dankzij vertrouwde, herbruikbare structuren.
+Importeer naadloos uw bestaande e-mailsjablonen vanuit de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt dankzij vertrouwde, herbruikbare structuren. Het overzicht [ beste praktijken ](#best-practices) en leert over [ beperkingen en oplossingen ](#limitations-and-remedies).
 
 1. Ga naar de **Studio van het Ontwerp**.
 
@@ -77,6 +78,8 @@ Het is raadzaam fragmenten van herhaalbare secties te maken die u later kunt geb
 * Na het importeren kunt u herbruikbare secties opslaan als fragmenten en deze goedkeuren voor gebruik door e-mailauteurs. Handtekeningthema&#39;s toepassen om consistentie en naleving te behouden.
 
 * U kunt het scripting van de Snelheid blijven gebruiken, en overwegen het opnieuw uitvoeren van oudere fragmenten gebruikend een combinatie fragmenten en voorwaardelijke inhoud voor betere flexibiliteit en controle.
+
+## Beperkingen en rechtsmiddelen {#limitations-and-remedies}
 
 <table><thead>
   <tr>
