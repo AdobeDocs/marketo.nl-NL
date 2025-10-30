@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Sjabloon importeren {#template-import}
 
-Importeer naadloos uw bestaande e-mailsjablonen vanuit de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt dankzij vertrouwde, herbruikbare structuren. Het overzicht [ beste praktijken ](#best-practices) en leert over [ beperkingen en oplossingen ](#limitations-and-remedies).
+Importeer naadloos uw bestaande e-mailsjablonen vanuit de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt dankzij vertrouwde, herbruikbare structuren. Het overzicht [&#x200B; beste praktijken &#x200B;](#best-practices) en leert over [&#x200B; beperkingen en oplossingen &#x200B;](#limitations-and-remedies).
 
 1. Ga naar de **Studio van het Ontwerp**.
 
