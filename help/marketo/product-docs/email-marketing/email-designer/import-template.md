@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 5e708d24c193791bae308d979c094df61da48c5b
+source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -20,75 +20,126 @@ Importeer naadloos uw bestaande e-mailsjablonen vanuit de klassieke editor naar 
 
 1. Ga naar de **Studio van het Ontwerp**.
 
-SCREENSHOT
+   SCREENSHOT
 
 1. Klik **E-mailMalplaatjes** en selecteer **E-mailMalplaatjes (Nieuw)**.
 
-SCREENSHOT
+   SCREENSHOT
 
 1. Klik **creëren Malplaatje**.
 
-SCREENSHOT
+   SCREENSHOT
 
 1. Ga a _Naam_ en (facultatieve) _Beschrijving_ in.
 
-SCREENSHOT
+   SCREENSHOT
 
-Maak een keuze uit de nieuwe Marketo-sjablonen. In Marketo Templates worden al uw bestaande sjablonen weergegeven die zijn ontwikkeld op e-mail 2.0.
+1. Klik de **Malplaatjes van Marketo** en kies de bestaande Malplaatjes die in de klassieke e-mailredacteur worden gecreeerd.
 
+   SCREENSHOT
 
+   >[!NOTE]
+   >
+   >Alleen goedgekeurde sjablonen en sjablonen die met de huidige werkruimte zijn gedeeld, kunnen worden geïmporteerd.
 
-Kies een bestaande sjabloon &quot;Get Ready&quot; om het deelvenster &quot;Variabelen bewerken&quot; in te voeren
-In dit deelvenster kunt u de juiste rail gebruiken om de variabelen onder de respectievelijke modules te bewerken en de inhoud af te stemmen.
+1. Selecteer de gewenste sjabloon.
 
+   SCREENSHOT
 
+1. Klik op Deze sjabloon gebruiken.
 
-Kies de modules in het deelvenster aan de rechterkant om de variabelen onder elk van deze modules weer te geven.  De sectie wordt gemarkeerd in het weergavevenster.
+   SCREENSHOT
 
+1. De geïmporteerde sjabloon wordt geopend in de e-mail-Designer.
 
+1. Controleer de componenten voor correcte omzetting en breng om het even welke gewenste aanpassingen aan gebruikend Designer. Als je tevreden bent met de template, moet je deze goedkeuren voor gebruik in e-mails.
 
-Variabelen wijzigen. Bijvoorbeeld: verander moduleachtergrond en zie de verandering op het vertoningsvliegtuig wordt weerspiegeld.
+## Fragmenten maken {#create-fragments}
 
+Het is raadzaam fragmenten van herhaalbare secties te maken die u later kunt gebruiken.
 
+1. Klik **...Meer** knoop bovenop en selecteer **sparen als fragment**.
 
-Klik op (-) om tegen een willekeurige module te ondertekenen en de module te verwijderen. Bijvoorbeeld, header-kloon.
+   SCREENSHOT
 
+1. Selecteer een component of een structuur en klik **creëren**.
 
+   SCREENSHOT
 
-Herhaal het proces om de verschillende variabelen te wijzigen om de inhoud te bepalen. Klik op de knop &quot;Openen in nieuwe ontwerper&quot; als u klaar bent.
+1. Ga een naam (en facultatieve beschrijving) in en klik **sparen**.
 
+   SCREENSHOT
 
+## Best practices {#best-practices}
 
-De omgezette sjabloon wordt geopend in de nieuwe e-mailontwerper.
+* Aangezien freestyle HTML aanzienlijk kan variëren, kan het zijn dat de importeur niet altijd alle onderdelen perfect interpreteert. Controleer uw geïmporteerde sjablonen om te controleren of alle secties bewerkbaar en correct toegewezen zijn. Als een onderdeel niet kan worden geselecteerd, maakt u die sectie eenvoudig opnieuw voor het beste resultaat.
 
+* Na het importeren kunt u herbruikbare secties opslaan als fragmenten en deze goedkeuren voor gebruik door e-mailauteurs. Handtekeningthema&#39;s toepassen om consistentie en naleving te behouden.
 
+* U kunt het scripting van de Snelheid blijven gebruiken, en overwegen het opnieuw uitvoeren van oudere fragmenten gebruikend een combinatie fragmenten en voorwaardelijke inhoud voor betere flexibiliteit en controle.
 
-U kunt de componenten voor correcte omzetting herzien en om het even welke aanpassingen aanbrengen gebruikend de redacteur. Als je tevreden bent met de template, kun je goedkeuren voor gebruik in e-mails.
-
-Slimme tip
-
-U kunt fragmenten van herhaalbare secties maken voor later gebruik.
-
-Klik hiertoe op de knop Meer bovenaan om &quot;Opslaan als fragment&quot; weer te geven.
-
-Selecteer een component of structuur en klik op Maken
-
-
-
-Voer een naam in en sla het fragment op.
-
-
-
-Aanbevelingen om u te helpen bij het goedkeuren van uw bestaande sjablonen in de nieuwe editor
-
-
-
-De nieuwe editor biedt een groot aantal krachtige functies: een echte WYSIWYG-ervaring, contentbeheer via vergrendelen, merkthema&#39;s, directe AEM Assets-toegang, beeldbewerking met Adobe Express en geavanceerde personalisatie met voorwaardelijke inhoud. Het beste van al, bevrijdt het u van het coderen van malplaatjes in HTML.
-
-Aangezien freestyle HTML sterk uiteenloopt, is het mogelijk dat de importeur niet altijd alle onderdelen perfect interpreteert. Controleer uw geconverteerde sjablonen om ervoor te zorgen dat alle secties bewerkbaar en correct toegewezen zijn. Als een onderdeel niet kan worden geselecteerd, kunt u dat gedeelte het beste opnieuw maken. Dit is een snelle oplossing die zorgt voor een vloeiende bewerking voor iedereen.
-
-Sla na het importeren herbruikbare secties op als fragmenten en keur deze goed voor gebruik door e-mailauteurs. Handtekeningthema&#39;s toepassen om consistentie en naleving te behouden.
-
-U kunt het scripting van de Snelheid blijven gebruiken, en overwegen het opnieuw uitvoeren van oudere fragmenten gebruikend een combinatie fragmenten en voorwaardelijke inhoud voor betere flexibiliteit en controle.
-
-TABEL
+<table><thead>
+  <tr>
+    <th>Beperking</th>
+    <th>Reden</th>
+    <th>Oplossing</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>De variabelen die zijn gedefinieerd in de klassieke e-maileditor zijn niet beschikbaar op e-mailniveau.</td>
+    <td>De variabelen waren oorspronkelijk ontworpen om het bewerken van e-mail te vereenvoudigen toen de redacteur nog geen mogelijkheden van WYSIWYG aanbood. In de e-mail Designer kunnen gebruikers een vergelijkbare flexibiliteit bereiken via de beschikbare besturingselementen. De importer onderhoudt de structuur en onderdelen van uw bestaande sjabloon, zodat u deze efficiënt opnieuw kunt maken in de e-mail Designer.</td>
+    <td>De gebruikers zouden dit in de Designer moeten kunnen bereiken. <p>
+    Voor modules kunt u verschillende segmenten opslaan als fragmenten. Goedgekeurde fragmenten zijn beschikbaar voor gebruik op e-mailniveau.</td>
+  </tr>
+  <tr>
+    <td>Als de bron-HTML geneste blokken bevat, kunnen de diepere lagen niet in de Designer worden benaderd.</td>
+    <td>De e-mail-Designer biedt geen ondersteuning voor geneste opmerkingen.</td>
+    <td>Hoewel de Designer het bewerken van geneste structuren niet toestaat, moet deze correct worden weergegeven. Vergeet niet de sjabloon eerst te testen.<p>
+    Maak de structuur opnieuw met behulp van raster.</td>
+  </tr>
+  <tr>
+    <td>Soms worden knoppen geïmporteerd als eenvoudige containers met tekst erin.</td>
+    <td>Sommige implementatiestijlen met HTML kunnen tijdens het importeren verkeerd worden geïnterpreteerd.</td>
+    <td>Maak de knop opnieuw in de Designer.</td>
+  </tr>
+  <tr>
+    <td>De knoppen kunnen soms te groot zijn.</td>
+    <td>Conflict tussen CSS van Marketo e-mail met andere elementen op laag niveau (<code>&lt;span&gt;</code>)</td>
+    <td>Pas de marges en vullingen van de knop in de Designer aan.</td>
+  </tr>
+  <tr>
+    <td>Opsommingspunten worden standaard niet ondersteund.</td>
+    <td>De e-mail Designer biedt momenteel geen opsommingstekens.</td>
+    <td>Overweeg het opnieuw implementeren van opsommingstekens met behulp van alternatieve technieken.</td>
+  </tr>
+  <tr>
+    <td>Verticale uitlijning wordt vervormd wanneer de inhoud van de container de waarde van het geldige kenmerk niet respecteert.</td>
+    <td><code>valign</code> werkt niet binnen containers die in het malplaatje worden bepaald.</td>
+    <td>Pas de marges en opvullingen van de knop aan in de e-mailtoepassing van de Designer.</td>
+  </tr>
+  <tr>
+    <td>Personalization Tokens (My Tokens) op programmaniveau op sjabloonniveau kunnen worden omgezet in validatiefouten.</td>
+    <td>E-mailsjablonen ondersteunen tokens op programmaniveau niet.</td>
+    <td>Vervang deze door andere tokentypen in sjablonen en vervang deze door Mijn tokens in de afzonderlijke e-mails.</td>
+  </tr>
+  <tr>
+    <td>Scheidingscomponenten kunnen niet selecteerbaar zijn.</td>
+    <td>Scheidingscomponenten worden niet behandeld in de release.</td>
+    <td>nvt</td>
+  </tr>
+  <tr>
+    <td>Als de oorspronkelijke HTML een slecht gevormde structuur heeft, zullen deze waarschijnlijk worden overgenomen.</td>
+    <td>Problemen met de oorspronkelijke HTML.</td>
+    <td>De problemen moeten vóór de invoer worden opgelost.</td>
+  </tr>
+  <tr>
+    <td>Voor de geïmporteerde inhoud is het gebruik van de voorvertoning van de inhoud geen betrouwbare indicator.</td>
+    <td>De voorvertoningsfunctie van Designer biedt geen ondersteuning voor aangepaste HTML.</td>
+    <td>Het wordt geadviseerd om uw e-mail te testen gebruikend <b> verzend proef </b> optie in het <i> Simuleer inhoud </i> scherm.</td>
+  </tr>
+  <tr>
+    <td>De fragmenten in de oude sjabloon werken niet in de Designer-mailtoepassing.</td>
+    <td>De e-mailtoepassing Designer biedt geen ondersteuning voor fragmenten.</td>
+    <td>Implementeer uw fragmenten opnieuw als fragmenten die zijn gekoppeld aan voorwaardelijke inhoud.</td>
+  </tr>
+</tbody></table>
