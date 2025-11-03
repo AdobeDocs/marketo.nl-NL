@@ -4,9 +4,9 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1c4fc86d7eed3babf697b139f11707ec94443c7c
+source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '126'
 ht-degree: 13%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 13%
 
 **Status**:
 
-* In planning - We zijn van plan om de functies en verbeteringen op de aangegeven datum vrij te geven
-* Bezig - De functies van de release worden momenteel geïmplementeerd
-* Verzonden - De release is voltooid
+* **op programma** - wij zijn van plan om de eigenschappen en de verhogingen op de aangewezen datum vrij te geven
+* **Bezig** - wij zijn in het proces om de eigenschappen van de versie uit te rollen
+* **Verzonden** - de versie is volledig
 
 _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
 
@@ -33,20 +33,6 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">25 januari</a></td>
-   <td>zaterdag 17 januari 2025</td>
-   <td>Verzonden</td>
-  </tr>
-   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">25 maart</a></td>
-   <td>zaterdag 28 maart 2025</td>
-   <td>Verzonden</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">25 april</a></td>
-   <td>25 april</td>
-   <td>Verzonden</td>
-  </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">mei '25</a></td>
    <td>zaterdag 23 mei 2025</td>
@@ -71,6 +57,10 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
    <td><a href="/help/marketo/release-notes/current.md">25 oktober</a></td>
    <td>zaterdag 31 oktober 2025</td>
    <td>In uitvoering</td>
+  </tr>
+  <td>26 januari</td>
+   <td>zaterdag 30 januari 2026</td>
+   <td>Op schema</td>
   </tr>
  </tbody>
 </table>
