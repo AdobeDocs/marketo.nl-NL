@@ -8,48 +8,50 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
 
 # Sjabloon importeren {#template-import}
 
-Importeer naadloos uw bestaande e-mailsjablonen vanuit de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt dankzij vertrouwde, herbruikbare structuren. Het overzicht [&#x200B; beste praktijken &#x200B;](#best-practices) en leert over [&#x200B; beperkingen en oplossingen &#x200B;](#limitations-and-remedies).
+Importeer uw bestaande e-mailsjablonen eenvoudig van de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt met vertrouwde, herbruikbare structuren. Het overzicht [ beste praktijken ](#best-practices) en leert over [ beperkingen en oplossingen ](#limitations-and-remedies).
+
+>[!NOTE]
+>
+>De klassieke e-mailsjablonen zijn ontwikkeld met freestyle HTML, zodat deze importer niet altijd perfect elk onderdeel kan importeren. Controleer de geïmporteerde sjablonen om ervoor te zorgen dat alle secties bewerkbaar en correct toegewezen zijn. Als een gebied niet selecteerbaar is, ontspant het voor beste resultaten.
+
+## Een sjabloon importeren {#import-a-template}
 
 1. Ga naar de **Studio van het Ontwerp**.
 
-   SCREENSHOT
+   ![](assets/import-template-1.png)
 
 1. Klik **E-mailMalplaatjes** en selecteer **E-mailMalplaatjes (Nieuw)**.
 
-   SCREENSHOT
+   ![](assets/import-template-2.png)
 
 1. Klik **creëren Malplaatje**.
 
-   SCREENSHOT
+   ![](assets/import-template-3.png)
 
 1. Ga a _Naam_ en (facultatieve) _Beschrijving_ in.
 
-   SCREENSHOT
+   ![](assets/import-template-4.png)
 
-1. Klik de **Malplaatjes van Marketo** en kies de bestaande Malplaatjes die in de klassieke e-mailredacteur worden gecreeerd.
+1. Klik het **lusje van de Malplaatjes van Marketo** en kies van de bestaande Malplaatjes die in de klassieke e-mailredacteur worden gecreeerd.
 
-   SCREENSHOT
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >Alleen goedgekeurde sjablonen en sjablonen die met de huidige werkruimte zijn gedeeld, kunnen worden geïmporteerd.
 
-1. Selecteer de gewenste sjabloon.
+1. Klik **Gebruik dit malplaatje**.
 
-   SCREENSHOT
-
-1. Klik op Deze sjabloon gebruiken.
-
-   SCREENSHOT
+   ![](assets/import-template-6.png)
 
 1. De geïmporteerde sjabloon wordt geopend in de e-mail-Designer.
 
@@ -61,19 +63,19 @@ Het is raadzaam fragmenten van herhaalbare secties te maken die u later kunt geb
 
 1. Klik **...Meer** knoop bovenop en selecteer **sparen als fragment**.
 
-   SCREENSHOT
+   ![](assets/import-template-7.png)
 
 1. Selecteer een component of een structuur en klik **creëren**.
 
-   SCREENSHOT
+   ![](assets/import-template-8.png)
 
 1. Ga een naam (en facultatieve beschrijving) in en klik **sparen**.
 
-   SCREENSHOT
+   ![](assets/import-template-9.png)
 
 ## Best practices {#best-practices}
 
-* Aangezien freestyle HTML aanzienlijk kan variëren, kan het zijn dat de importeur niet altijd alle onderdelen perfect interpreteert. Controleer uw geïmporteerde sjablonen om te controleren of alle secties bewerkbaar en correct toegewezen zijn. Als een onderdeel niet kan worden geselecteerd, maakt u die sectie eenvoudig opnieuw voor het beste resultaat.
+* De klassieke e-mailsjablonen zijn ontwikkeld met freestyle HTML, zodat deze importer niet altijd perfect elk onderdeel kan importeren. Controleer de geïmporteerde sjablonen om ervoor te zorgen dat alle secties bewerkbaar en correct toegewezen zijn. Als een gebied niet selecteerbaar is, ontspant het voor beste resultaten.
 
 * Na het importeren kunt u herbruikbare secties opslaan als fragmenten en deze goedkeuren voor gebruik door e-mailauteurs. Handtekeningthema&#39;s toepassen om consistentie en naleving te behouden.
 
@@ -113,7 +115,7 @@ Het is raadzaam fragmenten van herhaalbare secties te maken die u later kunt geb
   <tr>
     <td>Opsommingspunten worden standaard niet ondersteund.</td>
     <td>De e-mail Designer biedt momenteel geen opsommingstekens.</td>
-    <td>Overweeg het opnieuw implementeren van opsommingstekens met behulp van alternatieve technieken.</td>
+    <td>Overweeg opsommingstekens opnieuw te maken met alternatieve technieken.</td>
   </tr>
   <tr>
     <td>Verticale uitlijning wordt vervormd wanneer de inhoud van de container de waarde van het geldige kenmerk niet respecteert.</td>
@@ -141,8 +143,8 @@ Het is raadzaam fragmenten van herhaalbare secties te maken die u later kunt geb
     <td>Het wordt geadviseerd om uw e-mail te testen gebruikend <b> verzend proef </b> optie in het <i> Simuleer inhoud </i> scherm.</td>
   </tr>
   <tr>
-    <td>De fragmenten in de oude sjabloon werken niet in de Designer-mailtoepassing.</td>
+    <td>Fragmenten in de oude sjabloon werken niet in de Designer-mailtoepassing.</td>
     <td>De e-mailtoepassing Designer biedt geen ondersteuning voor fragmenten.</td>
-    <td>Implementeer uw fragmenten opnieuw als fragmenten die zijn gekoppeld aan voorwaardelijke inhoud.</td>
+    <td>U kunt uw fragmenten opnieuw maken als fragmenten die zijn gekoppeld aan voorwaardelijke inhoud.</td>
   </tr>
 </tbody></table>
