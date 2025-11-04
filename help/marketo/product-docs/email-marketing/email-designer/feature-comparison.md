@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '888'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -262,21 +262,21 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
-    <td>Workflows voor inhoudsgoedkeuring</td>
-    <td>Mogelijkheid om goedkeuringswerkstromen voor e-mails in Marketo Engage in te voeren.</td>
-    <td>Niet beschikbaar</td>
-    <td>Gepland voor het vierde kwartaal van 2025</td>
-  </tr>
-  <tr>
     <td>Brand Kit</td>
     <td>Mogelijkheid om e-mails te verbeteren overeenkomstig de richtlijnen voor merknamen.</td>
     <td>Niet beschikbaar</td>
-    <td>Gepland voor het eerste kwartaal '26</td>
+    <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
     <td>Experimentatie (A/B-test)</td>
     <td>Mogelijkheid om e-mailberichten te testen voordat ze naar uw publiek worden verzonden.</td>
     <td>Beschikbaar</td>
+    <td>Binnenkort beschikbaar</td>
+  </tr>
+  <tr>
+    <td>Workflows voor inhoudsgoedkeuring</td>
+    <td>Mogelijkheid om goedkeuringswerkstromen voor e-mails in Marketo Engage in te voeren.</td>
+    <td>Niet beschikbaar</td>
     <td>TBD</td>
   </tr>
   <tr>
