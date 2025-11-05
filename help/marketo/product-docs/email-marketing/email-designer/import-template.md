@@ -6,9 +6,7 @@ description: Leer hoe u uw bestaande e-mailsjablonen vanuit de klassieke editor 
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-hide: true
-hidefromtoc: true
-source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -17,7 +15,7 @@ ht-degree: 0%
 
 # Sjabloon importeren {#template-import}
 
-Importeer uw bestaande e-mailsjablonen eenvoudig van de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt met vertrouwde, herbruikbare structuren. Het overzicht [&#x200B; beste praktijken &#x200B;](#best-practices) en leert over [&#x200B; beperkingen en oplossingen &#x200B;](#limitations-and-remedies).
+Importeer uw bestaande e-mailsjablonen eenvoudig van de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt met vertrouwde, herbruikbare structuren. Het overzicht [ beste praktijken ](#best-practices) en leert over [ beperkingen en oplossingen ](#limitations-and-remedies).
 
 >[!NOTE]
 >

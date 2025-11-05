@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -208,6 +208,12 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Beschikbaar bij Referentie van Assets</td>
   </tr>
   <tr>
+    <td>E-mailsjabloonconversie</td>
+    <td>Capaciteit om bestaande malplaatjes van Marketo <a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank"> in nieuwe E-mailDesigner in te voeren.</a></td>
+    <td>Niet nodig</td>
+    <td>Beschikbaar</td>
+  </tr>
+  <tr>
     <td>Slepen en neerzetten op canvas</td>
     <td>De mogelijkheid om structuur en inhoud naar het canvas te slepen.</td>
     <td>Alleen modules</td>
@@ -241,12 +247,6 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailmiddelen</td>
     <td>Mogelijkheid om e-mailprogramma's samen met e-mailmiddelen te verplaatsen, te verwijderen en te importeren.</td>
     <td>Beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
-  </tr>
-  <tr>
-    <td>Marketo Template Converter/Import</td>
-    <td>Mogelijkheid om bestaande Marketo-sjablonen te converteren naar de nieuwe e-mailtoepassing van Designer.</td>
-    <td>Niet nodig</td>
     <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
