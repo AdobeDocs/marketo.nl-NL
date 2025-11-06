@@ -51,7 +51,7 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
 
    >[!NOTE]
    >
-   >Een persoon zal voor het eerste passende segment in de [ bepaalde orde ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) kwalificeren.
+   >Een persoon zal voor het eerste passende segment in de [&#x200B; bepaalde orde &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) kwalificeren.
 
    >[!NOTE]
    >
@@ -61,4 +61,4 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
 
    >[!MORELIKETHIS]
    >
-   >[ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+   >[&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
