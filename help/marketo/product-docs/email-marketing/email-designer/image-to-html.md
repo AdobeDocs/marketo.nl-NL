@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1272'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,8 @@ Met behulp van generatieve AI-technologie analyseert de image naar HTML-converte
 
 >[!PREREQUISITES]
 >
->* U moet eerst met de [&#x200B; termijnen van de Kern Gen-AI en de supplementaire termijnen &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
->* U moet &lbrace;de NAAM van de Toegang _evenals_ E-mailtoestemmingen hebben van de Toegang _toegelaten_ in uw rol van Marketo [.](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)
+>* U moet eerst met de [ termijnen van de Kern Gen-AI en de supplementaire termijnen ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+>* U moet _E-mailMalplaatje van de Toegang_ evenals _hebben uitgeeft/E-mailMalplaatje_ toestemmingen produceert die [ in uw rol van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) worden toegelaten.
 
 ## Een afbeelding omzetten {#convert-an-image}
 
@@ -46,14 +46,6 @@ Volg onderstaande stappen om een afbeelding om te zetten in een volledig aanpasb
 1. Ga de naam van het a _Malplaatje_ en facultatieve beschrijving in. Ook kunt u desgewenst uw merkstijl kiezen. Upload of sleep de gewenste afbeelding.
 
    ![](assets/image-to-html-3.png)
-
-   DEEPTHI KAN IK DEZE CAUTIE-TAG DELETE...
-
-   >[!CAUTION]
-   >
-   >Wanneer u een beeld voor omzetting uploadt, **zal alle inhoud die momenteel in e-mail wordt toegevoegd** met het geproduceerde malplaatje worden geschrapt en worden vervangen. Als u bestaande inhoud in uw e-mail hebt, moet u deze opslaan voordat u verdergaat met het omzetten van de afbeelding.
-
-   DEEPTHI KAN DEZE BIJBEHANDELINGSTAG DELETE^^^
 
 1. De rol neer en selecteert _uploadt dossier bevat niet..._ checkbox. Klik **Bekeerling**.
 
@@ -118,7 +110,7 @@ De afbeelding naar HTML-converter is ideaal voor:
 **na omzetting**
 
 * **herzie uw ontwerp**: Zodra de omzetting volledig is, wordt uw malplaatje automatisch bewaard als ontwerp. Neem de tijd om de gegenereerde HTML zorgvuldig te controleren op nauwkeurigheid.
-* **Test grondig**: Test e-mail over verschillende e-mailcliënten en apparaten. Voor snellere resultaten, voordeel halen uit de [&#x200B; integratie van het Leiding &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
+* **Test grondig**: Test e-mail over verschillende e-mailcliënten en apparaten. Voor snellere resultaten, voordeel halen uit de [ integratie van het Leiding ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 * **verfijnen manueel**: Breng aanpassingen aan zoals nodig gebruikend e-mail Designer volledige het uitgeven mogelijkheden.
 * **Merk groepering**: Verifieer kleuren, doopvonten, en het stileren passen uw merkrichtlijnen aan.
 * **Personalization**: Voeg dynamische inhoud en personalisatietokens toe zoals gewenst.
