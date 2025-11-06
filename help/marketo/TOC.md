@@ -29,7 +29,7 @@ ht-degree: 0%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Helpcentrum](getting-started/things-to-know/help-center.md)
