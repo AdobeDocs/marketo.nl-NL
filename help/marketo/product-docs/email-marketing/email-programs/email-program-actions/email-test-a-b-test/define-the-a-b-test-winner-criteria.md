@@ -4,26 +4,26 @@ description: Bepaal de A/B criteria van de Winner van de Test - Marketo DOS - de
 title: De criteria voor de A/B-testwinnaars definiëren
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
 
 # De criteria voor de A/B-testwinnaars definiëren {#define-the-a-b-test-winner-criteria}
 
-Wanneer [&#x200B; toevoegend een test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} aan uw e-mailprogramma, zult u een testtype moeten kiezen, [&#x200B; de test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} plannen, dan de winnende criteria bepalen. Hier is hoe je bepaalt welke e-mail wint.
+Wanneer [ toevoegend een test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} aan uw e-mailprogramma, zult u een testtype moeten kiezen, [ de test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} plannen, dan de winnende criteria bepalen. Hier is hoe je bepaalt welke e-mail wint.
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} toe
+>[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} toe
 
 ## Winkelcriteria {#winner-criteria}
 
 1. De standaardopties **[!UICONTROL Winner Criteria]** worden als eerste vermeld.
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -40,17 +40,17 @@ Wanneer [&#x200B; toevoegend een test A/B &#x200B;](/help/marketo/product-docs/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=nl-NL" target="_blank"> betrokkenheidsscore </a> helpt u de doeltreffendheid van uw inhoud bepalen.</td>
+   <td>De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank"> betrokkenheidsscore </a> helpt u de doeltreffendheid van uw inhoud bepalen.</td>
    </tr>
    </table>
 
    >[!TIP]
    >
-   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Leer meer over [&#x200B; het begrijpen van de betrokkenheidsscore &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Leer meer over [ het begrijpen van de betrokkenheidsscore ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 1. U kunt uw criteria ook aanpassen door **[!UICONTROL Custom Conversion]** te selecteren en **[!UICONTROL Edit]** te klikken.
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
@@ -58,27 +58,25 @@ Wanneer [&#x200B; toevoegend een test A/B &#x200B;](/help/marketo/product-docs/e
 
 1. Er wordt een venster geopend. Zoek de trigger van uw keuze en sleep deze naar het canvas.
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. Geef de trigger op.
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo staat alleen triggers/filters toe voor mensen die de e-mail van dit e-mailprogramma hebben ontvangen. Het is dus niet nodig een filter &#39;Is e-mail verzonden&#39; toe te voegen. Wanneer u een trigger/filter voor e-mail gebruikt, moet u er bovendien voor zorgen dat &quot;gelijk aan&quot; wordt gebruikt als operator.
 
-1. Klik op **[!UICONTROL Close]**.
+1. Sluit het nieuwe venster (of tabblad) dat is geopend. De slimme lijst slaat automatisch op.
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   Geweldig! Nu is het tijd om te beslissen hoe de winnaar wordt bepaald.
+Nu is het tijd om te beslissen hoe de winnaar wordt bepaald.
 
 ## Winner declareren {#declare-winner}
 
 1. Kies een van de twee beschikbare opties.
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ Wanneer [&#x200B; toevoegend een test A/B &#x200B;](/help/marketo/product-docs/e
 
 1. Automatisch is geweldig en is de standaardoptie. Klik gewoon op **[!UICONTROL Next]** .
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >Als u **[!UICONTROL Manual]** kiest, wordt de test verzonden en wordt gewacht tot u een winnaar hebt gedeclareerd. U ontvangt een rapport met de resultaten.
 
-Perfect! Nu plannen [&#x200B; de test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Nu plannen [ de test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
