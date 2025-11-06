@@ -25,7 +25,7 @@ Met behulp van generatieve AI-technologie analyseert de image naar HTML-converte
 >[!PREREQUISITES]
 >
 >* U moet eerst met de [&#x200B; termijnen van de Kern Gen-AI en de supplementaire termijnen &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
->* U moet &lbrace;de NAAM van de Toegang _evenals_ E-mailtoestemmingen hebben van de Toegang _toegelaten_ in uw rol van Marketo [.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)
+>* U moet &lbrace;de NAAM van de Toegang _evenals_ E-mailtoestemmingen hebben van de Toegang _toegelaten_ in uw rol van Marketo [.](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)
 
 ## Een afbeelding omzetten {#convert-an-image}
 
