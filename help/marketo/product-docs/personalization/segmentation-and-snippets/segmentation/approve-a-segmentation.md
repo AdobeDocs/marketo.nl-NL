@@ -4,9 +4,9 @@ description: Een segmentatie goedkeuren - Marketo Docs - Productdocumentatie
 title: Een segmentatie goedkeuren
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
@@ -26,22 +26,23 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 1. Ga naar de **[!UICONTROL Database]** .
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. Klik in de segmentatie op **[!UICONTROL Segmentation Actions]** en vervolgens op **[!UICONTROL Approve]** .
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >De status verandert in [!UICONTROL Approving] met een draaiend wiel ( ![](assets/image2014-9-15-15-3a31-3a43.png)) terwijl de goedkeuring bezig is.
+   >De status verandert in _goedkeurend_ terwijl de goedkeuring in proces is.
 
    >[!CAUTION]
    >
-   >De goedkeuring kan een paar minuten tot meer dan een dag duren, afhankelijk van de grootte van de database.
+   >De goedkeuring kan een paar minuten tot een dag of twee duren, afhankelijk van de grootte van de database.
 
-   Na goedkeuring verandert [!UICONTROL Status] van [!UICONTROL Approving] in [!UICONTROL Approved] .
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. Na goedkeuring verandert [!UICONTROL Status] van [!UICONTROL Approving] in [!UICONTROL Approved] .
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 1. Het tabblad **[!UICONTROL People]** in **[!UICONTROL Segment]** geeft nu de definitieve lijst met personen voor het segment weer.
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >
@@ -59,4 +60,4 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Filters van het Segment van het Gebruik in een Slimme Lijst &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
+>[ Filters van het Segment van het Gebruik in een Slimme Lijst ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)

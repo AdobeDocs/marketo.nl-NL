@@ -4,9 +4,9 @@ description: Segmentatie maken - Marketo Docs - Productdocumentatie
 title: Een segmentatie maken
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 1%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rapportage en dynamische inhoud. Hier is hoe je ze maakt.
 
-1. Ga naar **[!UICONTROL Database]** .
+1. Ga naar de **[!UICONTROL Database]** .
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. Klik op **[!UICONTROL New]** en vervolgens op **[!UICONTROL New Segmentation]**.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
 
 1. Voer een **[!UICONTROL Name]** in, klik op **[!UICONTROL Add Segment]** en geef deze een naam.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
 
 1. Voeg zoveel segmenten toe als u wilt (maximaal 100).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,11 +47,11 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
 
 1. Sleep de segmenten en zet ze neer om de volgorde te wijzigen. Klik op **[!UICONTROL Create]** als u klaar bent.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
-   >Een persoon zal voor het eerste passende segment in de [&#x200B; bepaalde orde &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) kwalificeren.
+   >Een persoon zal voor het eerste passende segment in de [ bepaalde orde ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) kwalificeren.
 
    >[!NOTE]
    >
@@ -61,4 +61,4 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+   >[ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
