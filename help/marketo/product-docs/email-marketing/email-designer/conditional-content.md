@@ -5,9 +5,9 @@ title: Voorwaardelijke inhoud
 description: Gebruik voorwaardelijke inhoud in uw e-mails om inhoud dynamisch weer te geven, afhankelijk van de ontvanger.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Met voorwaardelijke inhoud kunt u dynamisch bepalen welke inhoud zichtbaar is vo
 
 >[!PREREQUISITES]
 >
->Heb minstens één gecreeerde Segmentatie [&#x200B; &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) en [&#x200B; goedgekeurd &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md).
+>Heb minstens één gecreeerde Segmentatie [ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) en [ goedgekeurd ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md).
 
 ## Voorwaardelijke inhoud toevoegen {#add-conditional-content}
 
@@ -46,7 +46,7 @@ Met voorwaardelijke inhoud kunt u dynamisch bepalen welke inhoud zichtbaar is vo
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. De nieuwe afbeelding wordt weergegeven. Het is een goed idee om de naam van uw variant te wijzigen, zodat u deze gemakkelijker kunt herkennen. Klik eenvoudig de ellips en selecteer **anders noemen**.
+1. De nieuwe afbeelding wordt weergegeven. Het is een goed idee om de naam van uw variant te wijzigen, zodat u deze gemakkelijker kunt herkennen. Klik de ellips en selecteer **anders noemen**.
 
    >[!NOTE]
    >
@@ -66,5 +66,5 @@ Met voorwaardelijke inhoud kunt u dynamisch bepalen welke inhoud zichtbaar is vo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
->* [&#x200B; creeer een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>* [ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
