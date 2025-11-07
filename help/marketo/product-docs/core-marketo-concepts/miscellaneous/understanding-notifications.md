@@ -38,7 +38,7 @@ U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
 >[!NOTE]
 >
->Het vak _[!UICONTROL Send to]_mag alleen door u worden ingevuld als u een e-mailadres opgeeft. Er wordt geen lijst met bestaande abonnees weergegeven.
+>Het vak _[!UICONTROL Send to]_&#x200B;mag alleen door u worden ingevuld als u een e-mailadres opgeeft. Er wordt geen lijst met bestaande abonnees weergegeven.
 
 In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het Microsoft Dynamics Sync Errors-bestand. Marketo Engage bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
 
