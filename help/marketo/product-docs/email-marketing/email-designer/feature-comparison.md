@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -233,9 +233,9 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
   </tr>
   <tr>
     <td>Dynamische inhoud/Voorwaardelijke inhoud</td>
-    <td>Mogelijkheid om varianten van e-mails te maken op basis van het doelpubliek.</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank"> varianten </a> binnen e-mails tot stand te brengen die op het doelpubliek worden gebaseerd.</td>
     <td>Beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
+    <td>Beschikbaar</td>
   </tr>
   <tr>
     <td>Afbeelding naar HTML</td>
