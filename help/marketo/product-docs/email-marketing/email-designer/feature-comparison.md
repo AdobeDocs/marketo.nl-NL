@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '883'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -226,12 +226,6 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Fragment slepen en neerzetten</td>
   </tr>
   <tr>
-    <td>Algemene thema's</td>
-    <td>Mogelijkheid om goedgekeurde thema's toe te passen binnen de hele organisatie om consistentie te garanderen in elementen zoals stijl, kleur, tekengrootte, enz.</td>
-    <td>Niet beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
-  </tr>
-  <tr>
     <td>Dynamische inhoud/Voorwaardelijke inhoud</td>
     <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank"> varianten </a> binnen e-mails tot stand te brengen die op het doelpubliek worden gebaseerd.</td>
     <td>Beschikbaar</td>
@@ -239,9 +233,9 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
   </tr>
   <tr>
     <td>Afbeelding naar HTML</td>
-    <td>De mogelijkheid om een afbeelding om te zetten in HTML en deze vervolgens te gebruiken om e-mails te maken.</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank"> een beeld in HTML </a> om dan te gebruiken om e-mail tot stand te brengen om te zetten.</td>
     <td>Niet beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
+    <td>Beschikbaar</td>
   </tr>
   <tr>
     <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailmiddelen</td>
@@ -264,6 +258,12 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
   <tr>
     <td>Brand Kit</td>
     <td>Mogelijkheid om e-mails te verbeteren overeenkomstig de richtlijnen voor merknamen.</td>
+    <td>Niet beschikbaar</td>
+    <td>Binnenkort beschikbaar</td>
+  </tr>
+  <tr>
+    <td>Algemene thema's</td>
+    <td>Mogelijkheid om goedgekeurde thema's toe te passen binnen de hele organisatie om consistentie te garanderen in elementen zoals stijl, kleur, tekengrootte, enz.</td>
     <td>Niet beschikbaar</td>
     <td>Binnenkort beschikbaar</td>
   </tr>
