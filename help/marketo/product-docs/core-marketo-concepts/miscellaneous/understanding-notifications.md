@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Kennisgevingen - Marketo Docs - Productdocumentatie
 title: Kennisgevingen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
@@ -28,7 +28,7 @@ Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je
 
 U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
-1. In het _scherm van Meldingen_ klik **[!UICONTROL Subscribe]**.
+1. In het _scherm van Meldingen_, klik **[!UICONTROL Subscribe]**.
 
    ![](assets/understanding-notifications-3.png)
 
@@ -38,7 +38,7 @@ U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
 >[!NOTE]
 >
->Het vak **[!UICONTROL Send to]** mag alleen door u worden ingevuld als u een e-mailadres opgeeft. Er wordt geen lijst met bestaande abonnees weergegeven.
+>Het vak _[!UICONTROL Send to]_mag alleen door u worden ingevuld als u een e-mailadres opgeeft. Er wordt geen lijst met bestaande abonnees weergegeven.
 
 In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het Microsoft Dynamics Sync Errors-bestand. Marketo Engage bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
 
