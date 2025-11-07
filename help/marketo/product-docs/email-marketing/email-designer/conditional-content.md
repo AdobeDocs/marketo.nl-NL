@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -20,21 +20,21 @@ Met voorwaardelijke inhoud kunt u dynamisch bepalen welke inhoud zichtbaar is vo
 
 >[!PREREQUISITES]
 >
->Heb minstens één gecreeerde Segmentatie [&#x200B; &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) en [&#x200B; goedgekeurd &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md).
+>Heb minstens één gecreeerde Segmentatie [ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) en [ goedgekeurd ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md).
 
 ## Voorwaardelijke inhoud toevoegen {#add-conditional-content}
 
 1. Open gewenste e-mail en klik **geef e-mailinhoud** uit.
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. Selecteer de inhoud die u voorwaardelijk wilt maken (in dit voorbeeld kiezen we de koptekstafbeelding). Klik _toelaten voorwaardelijke inhoud_ pictogram.
 
    ![](assets/conditional-content-2.png)
 
-1. De doos wordt oranje. Op de linkerzijde, klik het _Uitgezochte voorwaardepictogram_ () om uw variant te bepalen.
+1. De doos wordt oranje. Op de linkerzijde, klik het _Uitgezochte voorwaardepictogram_ om uw variant te bepalen.
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. Kies het gewenste segment en klik **Uitgezocht**.
 
@@ -46,11 +46,11 @@ Met voorwaardelijke inhoud kunt u dynamisch bepalen welke inhoud zichtbaar is vo
 
 1. Kies het toepasselijke beeld en klik **Uitgezocht**.
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. De nieuwe afbeelding wordt weergegeven. Het is een goed idee om de naam van uw variant te wijzigen, zodat u deze gemakkelijker kunt herkennen.
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. Om extra varianten (facultatief) toe te voegen, klik **variant** toevoegen en de zelfde stappen volgen.
 
@@ -64,5 +64,5 @@ Met voorwaardelijke inhoud kunt u dynamisch bepalen welke inhoud zichtbaar is vo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
->* [&#x200B; creeer een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>* [ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
