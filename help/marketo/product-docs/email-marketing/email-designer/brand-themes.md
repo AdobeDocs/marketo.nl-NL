@@ -8,9 +8,9 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1226'
 ht-degree: 0%
 
 ---
@@ -25,132 +25,134 @@ Deze functie stelt marketers in staat visueel aantrekkelijke, merkgebonden e-mai
 
 * Wanneer u een volledig nieuw e-mailbericht maakt, kunt u uw inhoud op basis van een thema maken en snel een specifieke stijl toepassen die past bij uw merk en ontwerp. Als u de klassieke modus kiest, kunt u alleen thema&#39;s toepassen als u uw e-mail opnieuw instelt.
 
-* Fragmenten zijn niet kruiscompatibel tussen de modi Thema en Klassiek. Als u een fragment wilt kunnen gebruiken in inhoud waarop een thema is toegepast, moet dit fragment worden gemaakt in de themamodus.
+* Fragmenten zijn niet kruiscompatibel tussen de modi Thema en Klassiek. Als u een fragment wilt kunnen gebruiken in inhoud waarop een thema is toegepast, moet het fragment worden gemaakt in de themamodus.
 
-* Wanneer u de thema&#39;s bijwerkt, worden deze niet automatisch naar alle elementen getrapt. Gebruikers moeten afzonderlijke objecten bewerken om het thema te vernieuwen.
+* Als u een thema bijwerkt, worden niet automatisch alle elementen geactiveerd die dit thema gebruiken. U moet afzonderlijke objecten bewerken om het thema te vernieuwen.
 
-* Als thema&#39;s worden verwijderd, heeft dit geen invloed op de elementen die ze gebruiken.
+* Wanneer thema&#39;s worden verwijderd, heeft dit geen invloed op de elementen die ze gebruiken.
 
-## Merkthema&#39;s maken
+## Een merkthema maken {#create-a-brand-theme}
 
-Het maken van merkthema&#39;s is beschikbaar in het deelvenster Sjabloonselectie in de editor. U kunt dit deelvenster bereiken terwijl u een nieuwe sjabloon maakt, of vanuit de editor in Design wijzigen.
+1. Volg de stappen om [ een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
 
-SCREENSHOT
+1. In het _Ontwerp uw malplaatje_ scherm, uitgezocht **creeer of geef thema&#39;s** uit.
 
-Klik op Uw ontwerp wijzigen.
+   ![](assets/brand-themes-1.png)
 
-SCREENSHOT
+1. Selecteer het Standaardthema als basis om van de grond omhoog tot stand te brengen en **te klikken creeert**.
 
-Klik op Thema&#39;s maken of bewerken
+   ![](assets/brand-themes-2.png)
 
-SCREENSHOT
+1. Het canvas wordt geopend zodat u verschillende delen van het thema kunt bewerken.
 
-Selecteer het standaardthema als de basis die u wilt maken vanaf de achtergrond en klik op Maken. Het thema zal elementen van alle soorten tekst, knopen en containers voor u hebben om de veranderingen te zien aangezien u over het plaatsen van het thema gaat.
+   ![](assets/brand-themes-3.png)
 
-Opmerking: u kunt bestaande thema&#39;s bewerken met het keuzerondje Aangepaste thema&#39;s.
+## Instellingen
 
-SCREENSHOT
+Alle instellingsopties zijn toegankelijk via de pictogrammen aan de rechterkant. Laten we elk opnieuw bekijken.
 
-Het canvas wordt geopend zodat u verschillende delen van het thema kunt bewerken.
-
-SCREENSHOT
+![](assets/brand-themes-4.png)
 
 ### Algemene instellingen {#general-settings}
 
 Geef het thema een naam en pas de grootte van de viewport aan.
 
-SCREENSHOT
+![](assets/brand-themes-5.png)
 
-### Kleurinstellingen {#color-settings}
+### Kleuren {#colors}
 
-Pas vervolgens het kleurenpalet aan op de rechterrail.
+Terwijl u kleurtweaks maakt, dient u rekening te houden met de wijzigingen die van kracht worden op het hoofddeelvenster.
 
-Opmerking: wanneer u wijzigingen aanbrengt, worden de wijzigingen toegepast op het hoofdvenster.
+![](assets/brand-themes-6.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>Er is al een set stalen geconfigureerd voor u op basis van het standaardthema.
 
-Bewerk het kleurenpalet.
+Klik **uitgeven**.
 
-Merk op dat een reeks die monsters reeds voor u op het standaardthema wordt gevormd.
+![](assets/brand-themes-7.png)
 
 U kunt kiezen uit een voorinstelling of elke kleur in de set afzonderlijk configureren. Als u het palet kiest, zijn deze kleuren later toegankelijk onder de verschillende kleurinstellingen.
 
-SCREENSHOT
+![](assets/brand-themes-8.png)
 
-Klik op het achtersymbool nadat u de voorinstellingen hebt geconfigureerd.
+Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![ achterste pijlpictogram ](assets/icon-back-arrow.png)) om terug te keren.
 
-Bewerk de variant met behulp van het potloodsymbool naast Variant 1.
+Als u een variant wilt bewerken, klikt u op het bijbehorende potloodpictogram.
 
-Opmerking: u kunt maximaal zes varianten maken.
+![](assets/brand-themes-.png)
 
-SCREENSHOT
+>[!NOTE]
+>
+>U kunt maximaal zes varianten maken.
 
-In het bewerkingsvenster kunt u kleuren instellen voor verschillende elementen.
+U kunt meerdere elementen aanpassen.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-De instellingen zijn groepen onder de volgende brede koppen.
+De variantinstellingen worden gegroepeerd in de volgende categorieën:
 
-Algemeen
-Koppen
-Alinea&#39;s
-Knoppen
+* Algemeen
+* Koppen
+* Alinea&#39;s
+* Knoppen
 
-### Algemene NAAM-instellingen {#general-name-settings}
+**Algemeen**
 
-Met deze instellingen kunt u kleuren instellen voor tekst, structuren, achtergronden, containers, rasters, afbeeldingen en dergelijke.
+Met deze instellingen kunt u kleuren instellen voor tekst, structuren, achtergronden, containers, afbeeldingen en meer.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Kop {#heading}
+**Kop**
 
-Deze sectie is puur voor tekst van het type Kop, waar u tekst en randkleuren van elk type Kop kunt plaatsen.  U kunt koppen van 6 tekengrootten instellen.
+Stel tekst en randkleuren van elk kopteksttype in, van Kop 1 tot Kop 6.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Alinea {#paragraph}
+**Paragraaf**
 
-Deze sectie is uitsluitend bedoeld voor tekst van het type Alinea, waar u tekst- en randkleuren van elk alineatype kunt instellen.  U kunt drie voorinstellingen voor alinea-instellingen instellen.
+Stel tekst en randkleuren in tot drie alineatypen.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Knoppen {#buttons}
+**Knopen**
 
-Deze sectie is uitsluitend bedoeld voor Knoppen voor Vulkleur, Randkleur en Tekstkleur.  U kunt drie voorinstellingen voor knopinstellingen instellen: Primair, Secundair en Tertiair.
+Stel de kleur voor vulling, rand en tekst in voor drie verschillende knoptypen: Primair, Secundair en Tertiair.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 ### Tekstinstellingen {#text-settings}
 
-Onder deze optie kunt u de lettertypen en -grootten instellen voor Algemeen, Koppen en Alinea.
+Stel lettertypen en tekengrootten in voor algemeen, koppen en alinea&#39;s.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
-### Algemene tekstinstellingen {#global-text-settings}
+**Globaal**
 
 Kies onder Algemene tekstinstellingen de optie Formulierbibliotheek tussen Standaard- en Google-lettertypebibliotheken.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 Kies onder Standaard een andere lettertypefamilie.
 
-SCREENSHOT
+![](assets/brand-themes-.png)
 
 Op dezelfde manier worden onder Google-lettertypen opties weergegeven waarmee u kunt kiezen uit de ondersteunde lettertypen.
 
-### Instellingen voor koptekst {#heading-text-settings}
+**Koppen**
 
 Hier kunt u de lettertypenbibliotheek, -familie, -grootte, -tekststijl en -uitlijning instellen voor de verschillende koptypen.
 
 SCREENSHOT
 
-### Instellingen voor alineatekst {#paragraph-text-settings}
+**Paragraaf**
 
 Hier kunt u de lettertypenbibliotheek, -familie, -grootte, -tekststijl en -uitlijning instellen voor de verschillende alineaspresets.
 
 SCREENSHOT
 
-### Instellingen voor tussenruimte {#spacing-settings}
+### Tussenruimte en rand {#spacing-and-border}
 
 Onder deze optie kunt u de opvulling en marge instellen voor verschillende typen structuur of knop.  Kies het type in de eerste vervolgkeuzelijst en ga vervolgens verder met het instellen van opvulling en/of marge voor dat element. Herhaal deze stap met één voor zover van toepassing.
 
