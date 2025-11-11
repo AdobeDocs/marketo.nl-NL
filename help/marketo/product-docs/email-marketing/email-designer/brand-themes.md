@@ -33,7 +33,7 @@ Deze functie stelt marketers in staat visueel aantrekkelijke, merkgebonden e-mai
 
 ## Een merkthema maken {#create-a-brand-theme}
 
-1. Volg de stappen om [ een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
+1. Volg de stappen om [&#x200B; een e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
 
 1. In het _Ontwerp uw malplaatje_ scherm, uitgezocht **creeer of geef thema&#39;s** uit.
 
@@ -77,7 +77,7 @@ U kunt kiezen uit een voorinstelling of elke kleur in de set afzonderlijk config
 
 ![](assets/brand-themes-8.png)
 
-Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![ achterste pijlpictogram ](assets/icon-back-arrow.png)) om terug te keren.
+Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![&#x200B; achterste pijlpictogram &#x200B;](assets/icon-back-arrow.png)) om terug te keren.
 
 Als u een variant wilt bewerken, klikt u op het bijbehorende potloodpictogram.
 
