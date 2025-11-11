@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITEL
-description: BESCHRIJVING.
+title: Merkthema's
+description: Leer hoe u richtlijnen voor uw merk kunt maken en beheren.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Deze functie stelt marketers in staat visueel aantrekkelijke, merkgebonden e-mai
 
 ## Een merkthema maken {#create-a-brand-theme}
 
-1. Volg de stappen om [&#x200B; een e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
+1. Volg de stappen om [ een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
 
 1. In het _Ontwerp uw malplaatje_ scherm, uitgezocht **creeer of geef thema&#39;s** uit.
 
@@ -77,21 +77,17 @@ U kunt kiezen uit een voorinstelling of elke kleur in de set afzonderlijk config
 
 ![](assets/brand-themes-8.png)
 
-Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![&#x200B; achterste pijlpictogram &#x200B;](assets/icon-back-arrow.png)) om terug te keren.
+Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![ achterste pijlpictogram ](assets/icon-back-arrow.png)) om terug te keren.
 
 Als u een variant wilt bewerken, klikt u op het bijbehorende potloodpictogram.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >U kunt maximaal zes varianten maken.
 
-U kunt meerdere elementen aanpassen.
-
-![](assets/brand-themes-.png)
-
-De variantinstellingen worden gegroepeerd in de volgende categorieën:
+U kunt meerdere elementen aanpassen. De variantinstellingen worden gegroepeerd in de volgende categorieën:
 
 * Algemeen
 * Koppen
@@ -102,55 +98,49 @@ De variantinstellingen worden gegroepeerd in de volgende categorieën:
 
 Met deze instellingen kunt u kleuren instellen voor tekst, structuren, achtergronden, containers, afbeeldingen en meer.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **Kop**
 
 Stel tekst en randkleuren van elk kopteksttype in, van Kop 1 tot Kop 6.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **Paragraaf**
 
 Stel tekst en randkleuren in tot drie alineatypen.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **Knopen**
 
 Stel de kleur voor vulling, rand en tekst in voor drie verschillende knoptypen: Primair, Secundair en Tertiair.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### Tekstinstellingen {#text-settings}
 
 Stel lettertypen en tekengrootten in voor algemeen, koppen en alinea&#39;s.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **Globaal**
 
-Kies onder Algemene tekstinstellingen de optie Formulierbibliotheek tussen Standaard- en Google-lettertypebibliotheken.
+U kunt kiezen tussen Standaard- of Google-lettertypebibliotheken en hun respectievelijke lettertypefamilies.
 
-![](assets/brand-themes-.png)
-
-Kies onder Standaard een andere lettertypefamilie.
-
-![](assets/brand-themes-.png)
-
-Op dezelfde manier worden onder Google-lettertypen opties weergegeven waarmee u kunt kiezen uit de ondersteunde lettertypen.
+![](assets/brand-themes-15.png)
 
 **Koppen**
 
-Hier kunt u de lettertypenbibliotheek, -familie, -grootte, -tekststijl en -uitlijning instellen voor de verschillende koptypen.
+Stel de lettertypebibliotheek, familie, grootte, tekststijl en tekstuitlijningen in voor verschillende kopteksttypen.
 
-SCREENSHOT
+![](assets/brand-themes-16.png)
 
 **Paragraaf**
 
-Hier kunt u de lettertypenbibliotheek, -familie, -grootte, -tekststijl en -uitlijning instellen voor de verschillende alineaspresets.
+Stel de lettertypebibliotheek, familie, grootte, tekststijl en tekstuitlijningen in voor verschillende alineaspresets.
 
-SCREENSHOT
+![](assets/brand-themes-17.png)
 
 ### Tussenruimte en rand {#spacing-and-border}
 
