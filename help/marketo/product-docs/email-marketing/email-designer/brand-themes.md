@@ -21,7 +21,7 @@ Deze functie stelt marketers in staat visueel aantrekkelijke, merkgebonden e-mai
 
 ## Een thema maken {#create-a-theme}
 
-1. Volg de stappen om [ een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
+1. Volg de stappen om [&#x200B; een e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
 
 1. In het _Ontwerp uw malplaatje_ scherm, uitgezocht **creeer of geef thema&#39;s** uit.
 
@@ -65,7 +65,7 @@ U kunt kiezen uit een voorinstelling of elke kleur in de set afzonderlijk config
 
 ![](assets/brand-themes-8.png)
 
-Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![ achterste pijlpictogram ](assets/icon-back-arrow.png)) om terug te keren.
+Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![&#x200B; achterste pijlpictogram &#x200B;](assets/icon-back-arrow.png)) om terug te keren.
 
 Als u een variant wilt bewerken, klikt u op het bijbehorende potloodpictogram.
 
@@ -283,7 +283,7 @@ Klik **sparen** wanneer gedaan.
 
 ## Een bestaand thema bewerken {#edit-a-brand-theme}
 
-1. Volg de stappen om [ een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
+1. Volg de stappen om [&#x200B; een e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
 
 1. In het _Ontwerp uw malplaatje_ scherm, uitgezocht **creeer of geef thema&#39;s** uit.
 
@@ -311,7 +311,7 @@ U kunt structuren en componenten in de redacteur tot stand brengen en om het eve
 
 ### In uw e-mails {#in-your-emails}
 
-1. Volg de stappen om [ tot een e-mail ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email) te leiden.
+1. Volg de stappen om [&#x200B; tot een e-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email) te leiden.
 
 1. Na verwezenlijking, klik **e-mailinhoud** uitgeven.
 
@@ -375,7 +375,7 @@ U kunt structuren en componenten in de redacteur tot stand brengen en om het eve
 
 ### In uw fragmenten {#in-your-fragments}
 
-1. Volg de stappen om [ tot een fragment ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment) te leiden.
+1. Volg de stappen om [&#x200B; tot een fragment &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment) te leiden.
 
 1. Ontwerp uw inhoudsthema gebruikend de opties die in **[worden gevonden Montages](#settings)**.
 
