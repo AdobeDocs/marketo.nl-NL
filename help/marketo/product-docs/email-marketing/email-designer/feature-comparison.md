@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -232,6 +232,12 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Beschikbaar</td>
   </tr>
   <tr>
+    <td>Merkthema's</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank"> goedgekeurde thema's </a> over de organisatie toe te passen om consistentie in elementen zoals stijl, kleur, doopvontgrootte, enz. te verzekeren.</td>
+    <td>Niet beschikbaar</td>
+    <td>Beschikbaar</td>
+  </tr>
+  <tr>
     <td>Afbeelding naar HTML</td>
     <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank"> een beeld in HTML </a> om dan te gebruiken om e-mail tot stand te brengen om te zetten.</td>
     <td>Niet beschikbaar</td>
@@ -253,18 +259,6 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Snelheidsscripts</td>
     <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
     <td>Beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
-  </tr>
-  <tr>
-    <td>Brand Kit</td>
-    <td>Mogelijkheid om e-mails te verbeteren overeenkomstig de richtlijnen voor merknamen.</td>
-    <td>Niet beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
-  </tr>
-  <tr>
-    <td>Algemene thema's</td>
-    <td>Mogelijkheid om goedgekeurde thema's toe te passen binnen de hele organisatie om consistentie te garanderen in elementen zoals stijl, kleur, tekengrootte, enz.</td>
-    <td>Niet beschikbaar</td>
     <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
