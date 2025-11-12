@@ -8,9 +8,9 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1201'
+source-wordcount: '1097'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,9 @@ Met merkthema&#39;s kunt u eenvoudig herbruikbare inhoud maken die past bij een 
 
 Deze functie stelt marketers in staat visueel aantrekkelijke, merkgebonden e-mails sneller en met minder moeite te gebruiken en biedt geavanceerde aanpassingsopties voor unieke ontwerpbehoeften.
 
-## Notities {#things-to-note}
+## Een thema maken {#create-a-theme}
 
-* Wanneer u een volledig nieuw e-mailbericht maakt, kunt u uw inhoud op basis van een thema maken en snel een specifieke stijl toepassen die past bij uw merk en ontwerp. Als u de klassieke modus kiest, kunt u alleen thema&#39;s toepassen als u uw e-mail opnieuw instelt.
-
-* Fragmenten zijn niet kruiscompatibel tussen de modi Thema en Klassiek. Als u een fragment wilt kunnen gebruiken in inhoud waarop een thema is toegepast, moet het fragment worden gemaakt in de themamodus.
-
-* Als u een thema bijwerkt, worden niet automatisch alle elementen geactiveerd die dit thema gebruiken. U moet afzonderlijke objecten bewerken om het thema te vernieuwen.
-
-* Wanneer thema&#39;s worden verwijderd, heeft dit geen invloed op de elementen die ze gebruiken.
-
-## Een merkthema maken {#create-a-brand-theme}
-
-1. Volg de stappen om [&#x200B; een e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
+1. Volg de stappen om [ een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
 
 1. In het _Ontwerp uw malplaatje_ scherm, uitgezocht **creeer of geef thema&#39;s** uit.
 
@@ -47,7 +37,7 @@ Deze functie stelt marketers in staat visueel aantrekkelijke, merkgebonden e-mai
 
    ![](assets/brand-themes-3.png)
 
-## Instellingen
+## Instellingen {#settings}
 
 Alle instellingsopties zijn toegankelijk via de pictogrammen aan de rechterkant. Laten we elk opnieuw bekijken.
 
@@ -77,7 +67,7 @@ U kunt kiezen uit een voorinstelling of elke kleur in de set afzonderlijk config
 
 ![](assets/brand-themes-8.png)
 
-Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![&#x200B; achterste pijlpictogram &#x200B;](assets/icon-back-arrow.png)) om terug te keren.
+Wanneer u het uitgeven wordt gedaan, klik de achterste pijl (![ achterste pijlpictogram ](assets/icon-back-arrow.png)) om terug te keren.
 
 Als u een variant wilt bewerken, klikt u op het bijbehorende potloodpictogram.
 
@@ -144,214 +134,263 @@ Stel de lettertypebibliotheek, familie, grootte, tekststijl en tekstuitlijningen
 
 ### Tussenruimte en rand {#spacing-and-border}
 
-Onder deze optie kunt u de opvulling en marge instellen voor verschillende typen structuur of knop.  Kies het type in de eerste vervolgkeuzelijst en ga vervolgens verder met het instellen van opvulling en/of marge voor dat element. Herhaal deze stap met één voor zover van toepassing.
+Kies uit meerdere structuren en pas de marge, opvulling of rand aan.
 
-SCREENSHOT
+![](assets/brand-themes-18.png)
 
-De structuren zijn als volgt:
+In het onderstaande voorbeeld passen we een container aan.
 
-SCREENSHOT
+**Marges**
 
-Instellingen voor een voorbeeldelement, bijvoorbeeld Container.
+![](assets/brand-themes-19.png)
 
-Marges
+**het Opvullen**
 
-SCREENSHOT
+![](assets/brand-themes-20.png)
 
-Opvulling
+**Hoeken**
 
-SCREENSHOT
+![](assets/brand-themes-21.png)
 
-Hoeken
-
-SCREENSHOT
-
-Randen
+**Grenzen**
 
 Schakel de rand in op AAN om de opties voor het instellen van grootte, stijl en positie weer te geven.
 
-SCREENSHOT
+![](assets/brand-themes-22.png)
 
-De opties voor stijlen
+Hieronder volgen enkele visuele voorbeelden van het wijzigen van de randstijl.
 
-SCREENSHOT
+<table><thead>
+  <tr>
+    <th>Type</th>
+    <th>Instelling voor Grootte en stijl</th>
+    <th>Effect</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Onderbroken</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>Gestippeld</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>Effen</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-Enkele voorbeelden van het effect van stijlen op het vak
+Pas aan welke zijden van de rand worden weergegeven of verborgen. In het onderstaande voorbeeld is de bovenrand verborgen.
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-Aanpassen of de rand wordt weergegeven of verborgen met de randpositie
-
-Voorbeeld: Boven is verborgen in het onderstaande voorbeeld.
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-Herhaal de instellingen voor het instellen van marges, opvullingen, hoeken en randtypen voor verschillende typen structuren.
+<table><thead>
+  <tr>
+    <th>Positie-instelling</th>
+    <th>Effect</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### Knopinstellingen {#button-settings}
 
-Onder dit, kunt u verschillende elementen over knopen (buiten kleur) plaatsen, zoals knoopvorm, knoopstraal, knooptekst en knoopgrootte. U kunt deze instellingen instellen voor drie voorinstellingen: Primair, Secundair en Tertiair.
+Niet-kleurenelementen instellen voor knoppen, zoals vorm, straal, tekst en grootte. De drie voorinstellingen zijn Primair, Secundair en Tertiair.
 
-SCREENSHOT
+![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>Instelling</th>
+    <th>Beschrijving</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Rand &gt; Rand</td>
+    <td>Hoekkromming van knoprand</td>
+  </tr>
+  <tr>
+    <td>Rand &gt; Rand </td>
+    <td>Randdikte van knop</td>
+  </tr>
+  <tr>
+    <td>Rand &gt; Randstijl</td>
+    <td>Stijl van knoprand (onderbroken, effen, gestippeld, enz.)</td>
+  </tr>
+  <tr>
+    <td>Primair/secundair/tertiair</td>
+    <td>Hiermee worden instellingen toegestaan voor drie voorinstellingen van knopconfiguraties</td>
+  </tr>
+  <tr>
+    <td>SIZE &gt; Height</td>
+    <td>Hoogte-instelling voor de knop</td>
+  </tr>
+  <tr>
+    <td>SIZE &gt; Width</td>
+    <td>Breedte-instelling voor de knop</td>
+  </tr>
+  <tr>
+    <td>Tekst &gt; Fontfamilie</td>
+    <td>Fontfamilie voor knoptekst</td>
+  </tr>
+  <tr>
+    <td>Tekst &gt; Lettertypebibliotheek</td>
+    <td>Fontbibliotheek kiezen voor knoptekst</td>
+  </tr>
+  <tr>
+    <td>Tekst &gt; Tekengrootte</td>
+    <td>Fontgrootte voor knoptekst</td>
+  </tr>
+  <tr>
+    <td>Tekst &gt; Tekst uitlijnen</td>
+    <td>Uitlijning voor knoptekst</td>
+  </tr>
+  <tr>
+    <td>Tekst &gt; Tekststijlen</td>
+    <td>Tekststijl (vet, cursief, onderstreept, doorhalen) voor knoptekst</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### Scheidingslijn {#divider}
 
-### Scheidingsinstellingen {#divider-settings}
+Stel het type lijn en de containerinstellingen voor de scheidingslijn in.
 
-Onder dit, kunt u het type van lijn en containermontages voor verdeler plaatsen.
-
-SCREENSHOT
+![](assets/brand-themes-28.png)
 
 ### Rasterinstellingen {#grid-settings}
 
-Gebruik de tussenruimte Kolommen om de afstand in de rasters te regelen.
+Het hiaat van Kolommen van het gebruik _om het uit elkaar plaatsen in de netten te controleren._
 
-```
-TABLE
-```
+![](assets/brand-themes-29.png)
 
-Klik op Opslaan als u klaar bent.
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-SCREENSHOT
+Klik **sparen** wanneer gedaan.
 
-## Merkthema&#39;s bewerken {#editing-brand-themes}
+![](assets/brand-themes-32.png)
 
-Het maken van merkthema&#39;s is beschikbaar in het deelvenster Sjabloonselectie in de editor. U kunt dit deelvenster bereiken terwijl u een nieuwe sjabloon maakt, of vanuit de editor in Design wijzigen.
+## Een bestaand thema bewerken {#edit-a-brand-theme}
 
-SCREENSHOT
+1. Volg de stappen om [ een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) tot stand te brengen.
 
-Klik op Uw ontwerp wijzigen.
+1. In het _Ontwerp uw malplaatje_ scherm, uitgezocht **creeer of geef thema&#39;s** uit.
 
-SCREENSHOT
+   ![](assets/brand-themes-33.png)
 
-Klik op Thema&#39;s maken of bewerken
+1. Klik **Mijn thema&#39;s** tabel.
 
-SCREENSHOT
+   ![](assets/brand-themes-34.png)
 
-Selecteer Aangepaste thema&#39;s om de lijst met aangepaste thema&#39;s weer te geven die in uw organisatie zijn gemaakt. Kies een thema en klik op Bewerken.
+1. Selecteer het gewenste thema. _creeer_ knoop wordt een _geeft_ knoop uit. Klik **uitgeven**.
 
-SCREENSHOT
+   ![](assets/brand-themes-35.png)
 
-Het canvas is nu geopend voor bewerking.
+1. Het canvas wordt geopend voor bewerking. Breng uw gewenste veranderingen in om het even welke opties aan die in **[worden gevonden Montages](#settings)**.
 
-SCREENSHOT
-
-Wijzig een van de instellingen onder de secties in het rechterdeelvenster.
-
-SCREENSHOT
-
-Klik op Opslaan wanneer u klaar bent.
-
-SCREENSHOT
+>[!TIP]
+>
+>Vergeet niet uw werk op te slaan!
 
 ## Merkthema&#39;s gebruiken {#using-brand-themes}
 
-De op deze manier gemaakte/bewerkte merkthema&#39;s kunnen worden gebruikt voor verschillende e-mail-, e-mailsjablonen en fragmentmiddelen.
+Gebruik thema&#39;s in e-mail, e-mailsjablonen en fragmenten.
 
-Adobe Marketo Engage: de merkthema&#39;s die u hebt gemaakt/bewerkt, kunnen worden gebruikt voor alle e-mail-, e-mailsjablonen en fragmentmiddelen die u met de nieuwe e-maileditor hebt gemaakt.
-
-U kunt structuren en componenten maken in de editor en alle merkthema&#39;s en varianten ervan toepassen.
+U kunt structuren en componenten in de redacteur tot stand brengen en om het even welke merkthema&#39;s en hun varianten toepassen.
 
 ### In uw e-mails {#in-your-emails}
 
-Nieuwe e-mails/e-mailsjablonen maken
+1. Volg de stappen om [ tot een e-mail ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email) te leiden.
 
-* Begin met &#39;E-mail maken&#39;/ &#39;E-mailsjabloon maken&#39; en selecteer de optie &#39;Ontwerpen vanaf nul&#39;
+1. Na verwezenlijking, klik **e-mailinhoud** uitgeven.
 
-* Selecteer Thema&#39;s gebruiken in het modaal dat wordt weergegeven
+   ![](assets/brand-themes-36.png)
 
-SCREENSHOT
+1. Selecteer **Ontwerp van kras**.
 
-Opmerking: alleen de e-mail die met deze optie is gemaakt, kan de in de vorige sectie gedefinieerde merkthema&#39;s benutten
+   ![](assets/brand-themes-37.png)
 
-* Deze nieuwe optie wordt weergegeven op de rechterzijbalk, zodat u in uw e-mail brandthema&#39;s kunt gebruiken
+1. Selecteer **Thema&#39;s van het Gebruik** (het zou door gebrek moeten worden geselecteerd) en klik **bevestigen**.
 
-SCREENSHOT
+   ![](assets/brand-themes-38.png)
 
-* U kunt kiezen uit Adobe-thema&#39;s of aangepaste thema&#39;s die voor uw merken zijn gemaakt
+>[!NOTE]
+>
+>Alleen e-mails die met deze optie zijn gemaakt, kunnen de door u gedefinieerde merkthema&#39;s benutten.
 
-SCREENSHOT
+1. Klik het _pictogram van Thema&#39;s_ in de juiste zijbar.
 
-* E-mailinhoud ontwerpen op het canvas en een thema selecteren dat u op de inhoud wilt toepassen
+   ![](assets/brand-themes-39.png)
 
-* Eén e-mail bevat slechts één merkthema
+1. Maak een keuze uit Adobe-thema&#39;s of -thema&#39;s die u al hebt gemaakt.
 
-* Voor elke component die in dit element wordt gemaakt, kunt u alle opmaakopties toepassen die beschikbaar zijn in het thema, op het tabblad &#39;Stijlen&#39; in het rechterdeelvenster
+   ![](assets/brand-themes-40.png)
 
-* Een CTA kan bijvoorbeeld worden geconfigureerd als primair/secundair/tertiair
+   >[!NOTE]
+   >
+   >* Ontwerp e-mailinhoud op het canvas en selecteer een thema dat u op de inhoud wilt toepassen.
+   >* Een e-mail kan slechts één merkthema bevatten.
+   >* Voor elke component die in dit element wordt gemaakt, kunt u alle opmaakopties toepassen die beschikbaar zijn in het thema op het tabblad &#39;Stijlen&#39; in het rechterdeelvenster (een call-to-action kan bijvoorbeeld worden geconfigureerd als primair/secundair/tertiair).
 
-SCREENSHOT
+1. Voer uw gewenste ontwerpen uit. U kunt bijvoorbeeld een tekstcomponent selecteren om een van de koppen-/alineastijlen toe te passen, zoals gedefinieerd in het thema.
 
-* U kunt bijvoorbeeld een tekstcomponent selecteren om een van de koppen/alinea-stijlen toe te passen zoals gedefinieerd in het thema
+   ![](assets/brand-themes-41.png)
 
-SCREENSHOT
+   >[!NOTE]
+   >
+   >Het tabblad Stijl ziet er anders uit dan een traditionele e-mail met handmatige opmaak, waarin u meer creatieve vrijheid hebt om een component op te maken.
 
-* Het tabblad &#39;Stijl&#39; ziet er nu anders uit dan een traditionele, handmatige e-mail met opmaak, waar de vrijheid om een component op te maken nog meer is
+### Een sjabloon compatibel maken met thema&#39;s {#make-a-template-compatible}
 
-### E-mailsjablonen of e-mailsjablonen maken op basis van een sjabloon
+1. Zoek en selecteer de gewenste sjabloon.
 
-* U kunt thema&#39;s benutten wanneer u een e-mailsjabloon maakt op basis van een bestaande e-mailsjabloon die ook met thema&#39;s is gemaakt
+1. Klik **uitgeeft e-mailmalplaatje**.
 
-* Begin met &#39;E-mail maken&#39;/&#39;E-mailsjabloon maken&#39;, selecteer een van de e-mailsjablonen die met thema&#39;s zijn gemaakt in de sectie &#39;Opgeslagen sjablonen&#39;
+   ![](assets/brand-themes-42.png)
 
-* Nu wordt het thema dat wordt gebruikt in de opgeslagen e-mailsjabloon automatisch toegepast
+1. Klik het _pictogram van Thema&#39;s_ en klik **produceren thema van inhoud**.
 
-SCREENSHOT
+   ![](assets/brand-themes-43.png)
 
-* U kunt het thema in deze e-mailsjabloon ook wijzigen via de optie Thema&#39;s in de rechterzijbalk
+1. _creeer een thema_ venster opent. Marketo Engage detecteert automatisch de opmaakelementen en consolideert deze in een nieuw thema.
 
-SCREENSHOT
+   ![](assets/brand-themes-44.png)
 
-* U kunt ook elke variant van een thema toepassen op de inhoud
+1. Geef uw thema een naam.
 
-SCREENSHOT
+1. Breng de gewenste wijzigingen aan (net als bij het maken van een geheel nieuw thema). Klik **sparen** wanneer gedaan.
 
-SCREENSHOT
+   ![](assets/brand-themes-45.png)
 
 ### In uw fragmenten {#in-your-fragments}
 
-Beginnen met Nieuw fragment maken
+1. Volg de stappen om [ tot een fragment ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment) te leiden.
 
-Selecteer het gewenste thema in de optie Thema&#39;s in de rechterzijbalk en pas hetzelfde toe
+1. Ontwerp uw inhoudsthema gebruikend de opties die in **[worden gevonden Montages](#settings)**.
 
-SCREENSHOT
+Alle fragmentinhoud die daarna in het canvas wordt gemaakt, neemt het geselecteerde thema over. U kunt ook elke variant van een thema op de inhoud toepassen.
 
-Alle fragmentinhoud die daarna in het canvas wordt gemaakt, past het geselecteerde thema aan
+Nadat het fragment is gepubliceerd, kan het worden gebruikt in elke e-mail- of e-mailsjabloon die met thema&#39;s is gemaakt.
 
-U kunt ook elke variant van een thema toepassen op de inhoud
+## Notities {#things-to-note}
 
-Zodra dit fragment is gepubliceerd, kan dit fragment worden gebruikt in elke e-mail-/e-mailsjabloon die met Thema&#39;s is gemaakt
+* Wanneer u een volledig nieuw e-mailbericht maakt, kunt u uw inhoud op basis van een thema maken en snel een specifieke stijl toepassen die past bij uw merk en ontwerp. Als u de klassieke modus kiest, kunt u alleen thema&#39;s toepassen als u uw e-mail opnieuw instelt.
+
+* Fragmenten zijn niet kruiscompatibel tussen de modi Thema en Klassiek. Als u een fragment wilt kunnen gebruiken in inhoud waarop een thema is toegepast, moet het fragment worden gemaakt in de themamodus.
+
+* Als u een thema bijwerkt, worden niet automatisch alle elementen geactiveerd die dit thema gebruiken. U moet afzonderlijke objecten bewerken om het thema te vernieuwen.
+
+* Wanneer thema&#39;s worden verwijderd, heeft dit geen invloed op de elementen die ze gebruiken.
