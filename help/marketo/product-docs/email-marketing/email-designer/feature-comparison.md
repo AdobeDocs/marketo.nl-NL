@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -244,22 +244,22 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Beschikbaar</td>
   </tr>
   <tr>
+    <td>Snelheidsscripts</td>
+    <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
+    <td>Beschikbaar</td>
+    <td>Beschikbaar</td>
+  </tr>
+  <tr>
     <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailmiddelen</td>
     <td>Mogelijkheid om e-mailprogramma's samen met e-mailmiddelen te verplaatsen, te verwijderen en te importeren.</td>
     <td>Beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
+    <td>Beschikbaar</td>
   </tr>
   <tr>
     <td>Rollen en machtigingen</td>
     <td>De mogelijkheid om rollen en machtigingen toe te voegen voor e-mail, e-mailsjablonen en fragmenten.</td>
     <td>Beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
-  </tr>
-  <tr>
-    <td>Snelheidsscripts</td>
-    <td>Mogelijkheid om snelheidsscripts te gebruiken in e-mails.</td>
     <td>Beschikbaar</td>
-    <td>Binnenkort beschikbaar</td>
   </tr>
   <tr>
     <td>Experimentatie (A/B-test)</td>
