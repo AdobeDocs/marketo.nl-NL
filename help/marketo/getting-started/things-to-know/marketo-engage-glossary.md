@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Marketo Engage-woordenlijst  {#marketo-engage-glossary}
 
-Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo Engage. Om een termijn aan te vragen wordt toegevoegd, gelieve [ ons een e-mail ](mailto:GRP-Marketo-articlefeedback@adobe.com) te verzenden.
+Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo Engage. Om een termijn aan te vragen wordt toegevoegd, gelieve [&#x200B; ons een e-mail &#x200B;](mailto:GRP-Marketo-articlefeedback@adobe.com) te verzenden.
 
 ## A {#a}
 

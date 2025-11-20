@@ -13,15 +13,15 @@ ht-degree: 6%
 
 # Controlelijst voor gebruikersinstellingen {#user-setup-checklist}
 
-Nu u alle [ aanvankelijke opstellingsstappen ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} hebt voltooid, is het tijd om sommige stichtingselementen te vestigen om vlot aan de gang zijnde gebruik te verzekeren. Dit zal de basis leggen voor uw reis met Marketo Engage en u helpen om optimaal gebruik te maken van zijn functies. Laten we beginnen!
+Nu u alle [&#x200B; aanvankelijke opstellingsstappen &#x200B;](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} hebt voltooid, is het tijd om sommige stichtingselementen te vestigen om vlot aan de gang zijnde gebruik te verzekeren. Dit zal de basis leggen voor uw reis met Marketo Engage en u helpen om optimaal gebruik te maken van zijn functies. Laten we beginnen!
 
 >[!NOTE]
 >
->U kunt deze controlelijst, [ samen met een lijst van beste praktijken ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) voor uw nieuwe instantie ook downloaden, en de stappen controleren aangezien u gaat.
+>U kunt deze controlelijst, [&#x200B; samen met een lijst van beste praktijken &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) voor uw nieuwe instantie ook downloaden, en de stappen controleren aangezien u gaat.
 
 ## Marketo Engage op Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 
-Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [ Adobe Identity Management Systeem (IMS) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html). Ga naar de volgende gebruikersbeheercontrole in Adobe Admin Console.
+Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [&#x200B; Adobe Identity Management Systeem (IMS) &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html). Ga naar de volgende gebruikersbeheercontrole in Adobe Admin Console.
 
 <table>
 <thead>
@@ -69,7 +69,7 @@ Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [ Adobe I
 
 ## Dynamic Chat op Adobe Identity Management Setup {#dynamic-chat-on-adobe-identity-management}
 
-Om [ Dynamic Chat ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html) te gebruiken, gaat het inheemse kanaal van de gespreksautomatisering in Marketo Engage, met de opstelling van de gebruikerstoestemming na de stappen hieronder in [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} te werk.
+Om [&#x200B; Dynamic Chat &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html) te gebruiken, gaat het inheemse kanaal van de gespreksautomatisering in Marketo Engage, met de opstelling van de gebruikerstoestemming na de stappen hieronder in [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"} te werk.
 
 <table>
 <thead>
@@ -124,4 +124,4 @@ Om [ Dynamic Chat ](https://experienceleague.adobe.com/docs/marketo/using/produc
 
 <p>
 
-Nu uw rekening van Marketo Engage klaar is om te gaan, te herzien gelieve onze [ Beste praktijken voor een Nieuwe sectie van de Instantie van Marketo Engage ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} om het meeste uit uw investering te krijgen en opstelling zelf op lange termijn succes.
+Nu uw rekening van Marketo Engage klaar is om te gaan, te herzien gelieve onze [&#x200B; Beste praktijken voor een Nieuwe sectie van de Instantie van Marketo Engage &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} om het meeste uit uw investering te krijgen en opstelling zelf op lange termijn succes.
