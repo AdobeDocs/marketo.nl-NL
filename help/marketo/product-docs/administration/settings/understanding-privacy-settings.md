@@ -68,7 +68,7 @@ Marketers kunnen gebruikers de mogelijkheid bieden zich aan te melden door gebru
 
 Marketers kunnen de privacy beschermen door gebruikers met een geanonimiseerd IP-adres te volgen. Hiervoor voegt u deze code toe aan de RTP of [!DNL Munchkin] Javascript die in de website is ingesloten.
 
-* Voor [!DNL Munchkin], voeg enkel `{"anonymizeIP",true}` aan de [&#x200B; init functie &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"} toe.
+* Voor [!DNL Munchkin], voeg enkel `{"anonymizeIP",true}` aan de [&#x200B; init functie &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"} toe.
 
 * Voor Web Personalization (RTP), voeg dit aan javascript toe:
 
