@@ -13,15 +13,15 @@ ht-degree: 6%
 
 # Controlelijst voor gebruikersinstellingen {#user-setup-checklist}
 
-Nu u alle [&#x200B; aanvankelijke opstellingsstappen &#x200B;](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} hebt voltooid, is het tijd om sommige stichtingselementen te vestigen om vlot aan de gang zijnde gebruik te verzekeren. Dit zal de basis leggen voor uw reis met Marketo Engage en u helpen om optimaal gebruik te maken van zijn functies. Laten we beginnen!
+Nu u alle [ aanvankelijke opstellingsstappen ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} hebt voltooid, is het tijd om sommige stichtingselementen te vestigen om vlot aan de gang zijnde gebruik te verzekeren. Dit zal de basis leggen voor uw reis met Marketo Engage en u helpen om optimaal gebruik te maken van zijn functies. Laten we beginnen!
 
 >[!NOTE]
 >
->U kunt deze controlelijst, [&#x200B; samen met een lijst van beste praktijken &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) voor uw nieuwe instantie ook downloaden, en de stappen controleren aangezien u gaat.
+>U kunt deze controlelijst, [ samen met een lijst van beste praktijken ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) voor uw nieuwe instantie ook downloaden, en de stappen controleren aangezien u gaat.
 
 ## Marketo Engage op Adobe Identity Management {#marketo-engage-on-adobe-identity-management}
 
-Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [&#x200B; Adobe Identity Management Systeem (IMS) &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=nl-NL). Ga naar de volgende gebruikersbeheercontrole in Adobe Admin Console.
+Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [ Adobe Identity Management Systeem (IMS) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html). Ga naar de volgende gebruikersbeheercontrole in Adobe Admin Console.
 
 <table>
 <thead>
@@ -35,21 +35,21 @@ Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [&#x200B;
     <td>Abonnement en Marketo Engage-productbeheerder</td>
     <td><li>Bevestig dat uw Adobe Org System Admin een Adobe-rol voor productbeheer heeft toegekend.</li>
     <ul>
-    <li>Contacteer het team van de Rekening van Adobe (uw Manager van de Rekening) of verzend een e-mail naar <code>marketocares@marketo.com</code> om te weten wie bij uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=nl-NL"> Admin van het Systeem van Adobe Admin Console </a> voorrechten heeft.</li></ul>
-    <li>Accepteer de uitnodiging voor 'Marketo Engage-productbeheer' om uw Adobe ID te activeren. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=nl-NL#create-a-product-profile"> welkome e-mail </a> wordt verzonden wanneer de rol in Adobe Admin Console wordt toegewezen.</li></td>
+    <li>Contacteer het team van de Rekening van Adobe (uw Manager van de Rekening) of verzend een e-mail naar <code>marketocares@marketo.com</code> om te weten wie bij uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html"> Admin van het Systeem van Adobe Admin Console </a> voorrechten heeft.</li></ul>
+    <li>Accepteer de uitnodiging voor 'Marketo Engage-productbeheer' om uw Adobe ID te activeren. <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile"> welkome e-mail </a> wordt verzonden wanneer de rol in Adobe Admin Console wordt toegewezen.</li></td>
   </tr>
   <tr>
     <td>Productprofielen</td>
-    <td><li>Wijs alle gewenste gebruikers aan het Profiel van het Product van Marketo Engage <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile"> </a> in Adobe Admin Console toe.</li>
+    <td><li>Wijs alle gewenste gebruikers aan het Profiel van het Product van Marketo Engage <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile"> </a> in Adobe Admin Console toe.</li>
     <ul>
     <li>U kunt gebruikersrollen niet toewijzen in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen voordat u ze aan een productprofiel toevoegt.</li>
     <li>Elk abonnement is een zelfstandig productprofiel. Als een ongewenste gebruiker aan meerdere productprofielen wordt toegevoegd (bijvoorbeeld de productie- en testsandbox), moet u de gebruiker uit alle productprofielen verwijderen. Anders hebben ze nog steeds toegang tot Marketo Engage.</li></ul></td>
   </tr>
   <tr>
     <td>Gebruikers</td>
-    <td><li>Creeer een beleid wanneer om <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=nl-NL"> een gebruiker </a> tot stand te brengen.</li> <li>Maak een beleid voor het verwijderen van gebruikers.</li>
+    <td><li>Creeer een beleid wanneer om <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html"> een gebruiker </a> tot stand te brengen.</li> <li>Maak een beleid voor het verwijderen van gebruikers.</li>
     <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: U moet een Admin van het Systeem zijn om gebruikers te verwijderen.
-    <li>Bepaal wie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=nl-NL"> Admin van het Systeem van Adobe en de toestemmingen van Admin van het Product van Marketo Engage zou moeten hebben.</a> <li><a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> voeg gebruikers </a> aan het gewenste Profiel van het Product toe.</li>
+    <li>Bepaal wie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html"> Admin van het Systeem van Adobe en de toestemmingen van Admin van het Product van Marketo Engage zou moeten hebben.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> voeg gebruikers </a> aan het gewenste Profiel van het Product toe.</li>
     <li>Maak één API-gebruiker voor elke API-gebruikscase.</li></td>
   </tr>
   <tr>
@@ -60,8 +60,8 @@ Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [&#x200B;
   </tr>
   <tr>
     <td>Beheerder productondersteuning</td>
-    <td><li>Om <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html?lang=nl-NL#create-a-support-ticket-with-admin-console"> een steunkaartje in Adobe Admin Console </a> voor te leggen, moet u de rol van de Beheerder van de Steun van het Product hebben die door een Beheerder van het Systeem aan de abonnementen wordt toegewezen u beheert. Slechts kan een Beheerder van het Systeem in uw organisatie <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html?lang=nl-NL#assign-the-support-admin-role"> u aan deze rol </a> toewijzen.</li>
-    <li>Mogelijk hebt u van de systeembeheerder een e-mail ontvangen waarin u opgeeft dat u de beheerder van de ondersteuning voor uw Marketo Engage-abonnement bent. Als zo, klik <a href="https://experienceleague.adobe.com/nl/docs/customer-one/using/home#assign-the-support-admin-role"> "krijgen Begonnen"</a> in e-mail om zich bij de organisatie aan te sluiten.</li>
+    <td><li>Om <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#create-a-support-ticket-with-admin-console"> een steunkaartje in Adobe Admin Console </a> voor te leggen, moet u de rol van de Beheerder van de Steun van het Product hebben die door een Beheerder van het Systeem aan de abonnementen wordt toegewezen u beheert. Slechts kan een Beheerder van het Systeem in uw organisatie <a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#assign-the-support-admin-role"> u aan deze rol </a> toewijzen.</li>
+    <li>Mogelijk hebt u van de systeembeheerder een e-mail ontvangen waarin u opgeeft dat u de beheerder van de ondersteuning voor uw Marketo Engage-abonnement bent. Als zo, klik <a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#assign-the-support-admin-role"> "krijgen Begonnen"</a> in e-mail om zich bij de organisatie aan te sluiten.</li>
     <li>Bepaal de aangewezen contacten (met minstens één reservecontact) en hebben de Beheerder van het Systeem de rol van Admin van de Steun van het Product dienovereenkomstig toewijzen.</li></td>
   </tr>
 </tbody>
@@ -69,7 +69,7 @@ Uw nieuwe abonnementen van Marketo Engage worden in kaart gebracht aan [&#x200B;
 
 ## Dynamic Chat op Adobe Identity Management Setup {#dynamic-chat-on-adobe-identity-management}
 
-Om [&#x200B; Dynamic Chat &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=nl-NL) te gebruiken, gaat het inheemse kanaal van de gespreksautomatisering in Marketo Engage, met de opstelling van de gebruikerstoestemming na de stappen hieronder in [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"} te werk.
+Om [ Dynamic Chat ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html) te gebruiken, gaat het inheemse kanaal van de gespreksautomatisering in Marketo Engage, met de opstelling van de gebruikerstoestemming na de stappen hieronder in [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"} te werk.
 
 <table>
 <thead>
@@ -82,21 +82,21 @@ Om [&#x200B; Dynamic Chat &#x200B;](https://experienceleague.adobe.com/docs/mark
   <tr>
     <td>Abonnement en Dynamic Chat-productbeheerder (indien van toepassing)</td>
     <td><li>Bevestig dat uw Adobe Org System Admin een Adobe-rol voor productbeheer heeft toegekend.</li>
-    <ul><li>Contacteer het team van de Rekening van Adobe (uw Manager van de Rekening) of verzend een e-mail naar <code>marketocares@marketo.com</code> om te weten wie bij uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=nl-NL"> Admin van het Systeem van Adobe Admin Console </a> voorrechten heeft.</li></ul>
-    <li>Accepteer de uitnodiging <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=nl-NL">'Dynamic Chat Product Admin' </a> . <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=nl-NL"> welkome e-mail </a> wordt verzonden wanneer Dynamic Chat in uw instantie van Marketo Engage wordt toegelaten en u als Admin van het Systeem wordt aangewezen.</li></td>
+    <ul><li>Contacteer het team van de Rekening van Adobe (uw Manager van de Rekening) of verzend een e-mail naar <code>marketocares@marketo.com</code> om te weten wie bij uw organisatie <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html"> Admin van het Systeem van Adobe Admin Console </a> voorrechten heeft.</li></ul>
+    <li>Accepteer de uitnodiging <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html">'Dynamic Chat Product Admin' </a> . <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html"> welkome e-mail </a> wordt verzonden wanneer Dynamic Chat in uw instantie van Marketo Engage wordt toegelaten en u als Admin van het Systeem wordt aangewezen.</li></td>
   </tr>
   <tr>
     <td>Productprofielen</td>
     <td><li>Wijs alle gewenste gebruikers toe aan het productprofiel van Dynamic Chat in Adobe Admin Console.</li>
     <ul>
     <li>Als een ongewenste gebruiker aan meerdere productprofielen wordt toegevoegd, moet u de gebruiker uit alle productprofielen verwijderen. Anders hebben ze nog steeds toegang tot Dynamic Chat.</li>
-    <li>U kunt <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions"> Profielen van het Product in Dynamic Chat </a> uitgeven en een douaneprofiel met een douanereeks <a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions"> toestemmingen tot stand brengen beschikbaar binnen uw abonnement </a>.</li></td>
+    <li>U kunt <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#edit-existing-permissions"> Profielen van het Product in Dynamic Chat </a> uitgeven en een douaneprofiel met een douanereeks <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions#list-of-permissions"> toestemmingen tot stand brengen beschikbaar binnen uw abonnement </a>.</li></td>
   </tr>
   <tr>
     <td>Gebruikers</td>
     <td><li>Creeer een beleid wanneer om een praatjegebruiker toe te voegen en te verwijderen.</li>
-    <li>Creeer een beleid op wie {de toestemmingen van Admin van het Product van 0} Adobe Dynamic Chat zou moeten hebben.<a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console"></a></li>
-    <li><a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user"> voegt gebruikers aan het gewenste Profiel van het Product </a> toe.</li></td>
+    <li>Creeer een beleid op wie {de toestemmingen van Admin van het Product van 0} Adobe Dynamic Chat zou moeten hebben.<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console"></a></li>
+    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user"> voegt gebruikers aan het gewenste Profiel van het Product </a> toe.</li></td>
   </tr>
 </tbody>
 </table>
@@ -117,11 +117,11 @@ Om [&#x200B; Dynamic Chat &#x200B;](https://experienceleague.adobe.com/docs/mark
   </tr>
   <tr>
     <td>Meldingen</td>
-    <td><li><a href="https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications"> abonneert aan admin berichten </a> voor kritieke kwesties zoals fouten in uw Slimme Campagnes, en kritieke kwesties die met de synchronisatie van CRM worden gevonden.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications"> abonneert aan admin berichten </a> voor kritieke kwesties zoals fouten in uw Slimme Campagnes, en kritieke kwesties die met de synchronisatie van CRM worden gevonden.</li></td>
   </tr>
 </tbody>
 </table>
 
 <p>
 
-Nu uw rekening van Marketo Engage klaar is om te gaan, te herzien gelieve onze [&#x200B; Beste praktijken voor een Nieuwe sectie van de Instantie van Marketo Engage &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} om het meeste uit uw investering te krijgen en opstelling zelf op lange termijn succes.
+Nu uw rekening van Marketo Engage klaar is om te gaan, te herzien gelieve onze [ Beste praktijken voor een Nieuwe sectie van de Instantie van Marketo Engage ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} om het meeste uit uw investering te krijgen en opstelling zelf op lange termijn succes.
