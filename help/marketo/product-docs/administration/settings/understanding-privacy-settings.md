@@ -4,9 +4,9 @@ description: Privacy-instellingen begrijpen - Marketo Docs - Productdocumentatie
 title: Privacy-instellingen begrijpen
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Deze methoden kunnen van invloed zijn op de Marketo-waarde en -functionaliteit i
 
 Webbezoekers kunnen hun browser zo instellen dat websites niet kunnen worden bijgehouden door &#39;&#39;Niet bijhouden&#39;&#39; (DNT) te kiezen. Hierdoor wordt het bijhouden van gegevens voor deze browser en dit apparaat voorkomen. Zie de privacyinstellingen van de browser voor meer informatie.
 
-In [!DNL Munchkin], kan een teller [&#x200B; beslissen of om DNT van browser te steunen of te negeren plaatsend &#x200B;](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
+In [!DNL Munchkin], kan een teller [ beslissen of om DNT van browser te steunen of te negeren plaatsend ](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md).
 
-In Personalization van het Web, kan een teller beslissen of [&#x200B; steun of het browser het plaatsen van DNT &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md) negeren.
+In Personalization van het Web, kan een teller beslissen of [ steun of het browser het plaatsen van DNT ](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md) negeren.
 
 ## Weigeren van een specifieke website {#opt-out-from-a-specific-website}
 
@@ -68,11 +68,7 @@ Marketers kunnen gebruikers de mogelijkheid bieden zich aan te melden door gebru
 
 Marketers kunnen de privacy beschermen door gebruikers met een geanonimiseerd IP-adres te volgen. Hiervoor voegt u deze code toe aan de RTP of [!DNL Munchkin] Javascript die in de website is ingesloten.
 
-* Voeg voor [!DNL Munchkin] alleen {&quot;anonymizeIP&quot;,true} toe aan de init-functie.
-
-  >[!NOTE]
-  >
-  >Wanneer u deze parameter gebruikt, moet [!DNL Munchkin] V2 zijn ingeschakeld. Om het te krijgen toegelaten voor uw abonnement, gelieve te contacteren {de Steun van 0} Marketo [.](https://nation.marketo.com/community/support_solutions)
+* Voor [!DNL Munchkin], voeg enkel `{"anonymizeIP",true}` aan de [ init functie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"} toe.
 
 * Voor Web Personalization (RTP), voeg dit aan javascript toe:
 
