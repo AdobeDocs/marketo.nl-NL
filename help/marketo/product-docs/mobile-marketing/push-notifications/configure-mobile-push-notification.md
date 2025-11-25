@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. Ga berichttekst in of selecteer het symbolische pictogram om tokens toe te voegen (in deze redacteurstokens worden geformatteerd [ aangezien zij gewoonlijk ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) zijn - u kunt veelvoudige tokens gebruiken). Selecteer de Actie van de a **Tik**.
+1. Ga berichttekst in of selecteer het symbolische pictogram om tokens toe te voegen (in deze redacteurstokens worden geformatteerd [&#x200B; aangezien zij gewoonlijk &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) zijn - u kunt veelvoudige tokens gebruiken). Selecteer de Actie van de a **Tik**.
 
    ![](assets/configure-mobile-push-notification-5.png)
 
@@ -44,13 +44,13 @@ ht-degree: 0%
    >
    >Er zijn drie typen [!UICONTROL Tap Actions] :
    >
-   >**Toepassing van de Lancering** - **Deze app** opent de homepage van uw app wanneer het bericht wordt getikt. **Douane** gebruikt een diepe verbinding om andere gebieden van uw app of een andere app te openen waaraan u de verbinding hebt (zie [ Diep Verbinding URIs ](#deep-link-uris) hieronder voor details).
+   >**Toepassing van de Lancering** - **Deze app** opent de homepage van uw app wanneer het bericht wordt getikt. **Douane** gebruikt een diepe verbinding om andere gebieden van uw app of een andere app te openen waaraan u de verbinding hebt (zie [&#x200B; Diep Verbinding URIs &#x200B;](#deep-link-uris) hieronder voor details).
    >
    >**[!UICONTROL Landing Page]** - hiermee gaat u naar een opgegeven Marketo-bestemmingspagina.
    >
    >**[!UICONTROL External URL]** - hiermee gaat u naar een landingspagina die geen Marketo is.
 
-1. Om een diepe verbinding voor een actie van de douankraan op te nemen, selecteer **Douane** en ga [ diepe verbinding URI ](#deep-link-uris) op het gebied in.
+1. Om een diepe verbinding voor een actie van de douankraan op te nemen, selecteer **Douane** en ga [&#x200B; diepe verbinding URI &#x200B;](#deep-link-uris) op het gebied in.
 
    ![](assets/configure-mobile-push-notification-6.png)
 
@@ -82,8 +82,8 @@ Een diepe verbinding URI bestaat uit drie delen: schemanaam, weg, en herkennings
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URIs, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [ hier meer informatie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app) vinden.
+De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URIs, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [&#x200B; hier meer informatie &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app) vinden.
 
 >[!MORELIKETHIS]
 >
->[ verzend een Mobiel Push Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+>[&#x200B; verzend een Mobiel Push Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
