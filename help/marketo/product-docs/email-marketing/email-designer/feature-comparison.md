@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -253,7 +253,7 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailmiddelen</td>
     <td>Mogelijkheid om e-mailprogramma's samen met e-mailmiddelen te verplaatsen, te verwijderen en te importeren.</td>
     <td>Beschikbaar</td>
-    <td>Beschikbaar</td>
+    <td>Niet beschikbaar</td>
   </tr>
   <tr>
     <td>Rollen en machtigingen</td>
