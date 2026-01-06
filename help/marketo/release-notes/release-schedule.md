@@ -4,9 +4,9 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8148440f2893fa27922b91ea641fc591cab57680
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '137'
 ht-degree: 13%
 
 ---
@@ -31,12 +31,6 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
    <th width="250px">Geen</th>
    <th width="250px">Releasedatum</th>
    <th width="250px">Status</th>
-  </tr>
-  <tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">mei '25</a></td>
-   <td>zaterdag 23 mei 2025</td>
-   <td>Verzonden</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">25 juli</a></td>
@@ -66,6 +60,16 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
   <tr>
   <td>26 februari</td>
    <td>zaterdag 20 februari 2026</td>
+   <td>Op schema</td>
+  </tr>
+  <tr>
+  <td>26 maart</td>
+   <td>zaterdag 27 maart 2026</td>
+   <td>Op schema</td>
+  </tr>
+  <tr>
+  <td>mei '26</td>
+   <td>zaterdag 1 mei 2026</td>
    <td>Op schema</td>
   </tr>
  </tbody>
