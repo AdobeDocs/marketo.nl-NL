@@ -76,9 +76,9 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
 **Pod**: Een component binnen een malplaatje dat een bepaalde activiteit tijdens webinar uitvoert. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.
 
-      **Pod van het Onderzoek**: Staat gastheren toe om gestructureerde te ontwerpen en te leveren terugkoppelt vormen direct binnen een levende zitting. De enquêtepod breidt de bestaande podmogelijkheden van de opiniepeiling uit door het mogelijk te maken dat meerdere vragen tegelijk worden gepresenteerd, en biedt een meer gestroomlijnde en samenhangende manier om deelnemersinzichten te verzamelen. [Meer informatie](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod van het Onderzoek**: Staat gastheren toe om gestructureerde te ontwerpen en te leveren terugkoppelt vormen direct binnen een levende zitting. De enquêtepod breidt de bestaande podmogelijkheden van de opiniepeiling uit door het mogelijk te maken dat meerdere vragen tegelijk worden gepresenteerd, en biedt een meer gestroomlijnde en samenhangende manier om deelnemersinzichten te verzamelen. [Meer informatie](https://helpx.adobe.com/nl/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pod van Middelen**: Vervangt de vorige Peul van de Verbindingen van Dossiers en van het Web, die één enkele, verenigde manier verstrekt om middelen tijdens levende zittingen te delen. [Meer informatie](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pod van Middelen**: Vervangt de vorige Peul van de Verbindingen van Dossiers en van het Web, die één enkele, verenigde manier verstrekt om middelen tijdens levende zittingen te delen. [Meer informatie](https://helpx.adobe.com/nl/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >
