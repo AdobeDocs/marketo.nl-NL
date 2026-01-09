@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # SEO - Trefwoordresultaten filteren {#seo-filter-keyword-results}
 
-U zou veel [ sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md) kunnen hebben. Hier zijn verschillende manieren om ze te filteren.
+U zou veel [&#x200B; sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md) kunnen hebben. Hier zijn verschillende manieren om ze te filteren.
 
 >[!IMPORTANT]
 >
->Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [&#x200B; Uitvoer Kwesties &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [&#x200B; Resultaten van het Trefwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [&#x200B; Trends van het Sleutelwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [&#x200B; Trends van het Sleutelwoord van de Concurrentie van de Uitvoer &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Filteren op lijst {#filter-by-list}
 
@@ -36,7 +36,7 @@ U zou veel [ sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/key
 
    >[!NOTE]
    >
-   >Als u geen lijsten ziet, [ leren hoe te om een sleutelwoordlijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) te maken.
+   >Als u geen lijsten ziet, [&#x200B; leren hoe te om een sleutelwoordlijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) te maken.
 
 Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 
@@ -46,7 +46,7 @@ Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   De oranje vierkantjes bepalen de bovenste (linker) en onderste (rechter) limiet. De filterwerken op de rangorde van de TUSSENVOEGSEL van het sleutelwoord [ ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+   De oranje vierkantjes bepalen de bovenste (linker) en onderste (rechter) limiet. De filterwerken op de rangorde van de TUSSENVOEGSEL van het sleutelwoord [&#x200B; &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
 1. Schuif de oranje vierkanten naar links/rechts om de resultaten te filteren.
 

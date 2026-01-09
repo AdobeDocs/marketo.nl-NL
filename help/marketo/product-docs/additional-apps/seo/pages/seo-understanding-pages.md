@@ -23,12 +23,12 @@ De pagina [!UICONTROL Optimization Score] is een algemene rangschikking van hoe 
 
 >[!IMPORTANT]
 >
->Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [&#x200B; Uitvoer Kwesties &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [&#x200B; Resultaten van het Trefwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [&#x200B; Trends van het Sleutelwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [&#x200B; Trends van het Sleutelwoord van de Concurrentie van de Uitvoer &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Pages] Tab {#pages-tab}
 
@@ -41,7 +41,7 @@ Het **[!UICONTROL Pages]lusje** toont u hoe goed de individuele pagina&#39;s op 
 | [!UICONTROL Title] | Titel en URL van alle pagina&#39;s in uw domein. Verifieer uw domein. |
 | [!UICONTROL Optimization Score] | De geheime saus die wordt gebruikt om u te tonen hoe goed uw pagina voor onderzoek op een schaal van 1 tot 100 wordt geoptimaliseerd. |
 | [!UICONTROL Links] | Aantal verschillende domeinen met minstens 1 inkomende verbinding aan uw plaats. |
-| [!UICONTROL Target Keywords] | De trefwoorden waarvoor u elke pagina optimaliseert. [ dit vereist uw input ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Target Keywords] | De trefwoorden waarvoor u elke pagina optimaliseert. [&#x200B; dit vereist uw input &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
 ## [!UICONTROL Issues] Tab {#issues-tab}
 
@@ -56,4 +56,4 @@ Het **[!UICONTROL Issues]lusje** zal identificeren welke verbeteringen u kunt ma
 | [!UICONTROL Category] | Het type emissie dat wordt gerapporteerd. |
 | [!UICONTROL Status] | Is de taak voltooid of nog open. Nadat u en uw webstramien het probleem op uw site hebben verholpen, verandert de status in opgelost (groene controle). |
 
-Fantastisch, nu u de grondbeginselen van pagina&#39;s kent, controleer uit het [ artikel van de Boor van het Detail van de Pagina neer ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) om meer coole dingen te leren u kunt doen.
+Fantastisch, nu u de grondbeginselen van pagina&#39;s kent, controleer uit het [&#x200B; artikel van de Boor van het Detail van de Pagina neer &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) om meer coole dingen te leren u kunt doen.
