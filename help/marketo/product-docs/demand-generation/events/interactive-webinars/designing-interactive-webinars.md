@@ -62,7 +62,7 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [ dit de hulpartikel van Adobe ](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [&#x200B; dit de hulpartikel van Adobe &#x200B;](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Wanneer u klaar bent met het ontwerpen van uw webinar, klik **Ruimte van de Uitgang**.
 
@@ -82,4 +82,4 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
 >[!MORELIKETHIS]
 >
->[ Leer hoe te om presentatoren en/of medegastheren toe te voegen ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
+>[&#x200B; Leer hoe te om presentatoren en/of medegastheren toe te voegen &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
