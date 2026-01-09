@@ -3,9 +3,9 @@ description: Interactieve webinars ontwerpen - Marketo Docs - Productdocumentati
 title: Interactieve webinars ontwerpen
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [&#x200B; dit de hulpartikel van Adobe &#x200B;](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Voor gedetailleerde informatie over ruimten en malplaatjes, controleer uit de &quot;malplaatjes en lay-outs van de vergaderingsruimte&quot;sectie van [ dit de hulpartikel van Adobe ](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Wanneer u klaar bent met het ontwerpen van uw webinar, klik **Ruimte van de Uitgang**.
 
@@ -76,6 +76,10 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
 **Pod**: Een component binnen een malplaatje dat een bepaalde activiteit tijdens webinar uitvoert. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.
 
+      **Pod van het Onderzoek**: Staat gastheren toe om gestructureerde te ontwerpen en te leveren terugkoppelt vormen direct binnen een levende zitting. De enquêtepod breidt de bestaande podmogelijkheden van de opiniepeiling uit door het mogelijk te maken dat meerdere vragen tegelijk worden gepresenteerd, en biedt een meer gestroomlijnde en samenhangende manier om deelnemersinzichten te verzamelen. [Meer informatie](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
+
+      **Pod van Middelen**: Vervangt de vorige Peul van de Verbindingen van Dossiers en van het Web, die één enkele, verenigde manier verstrekt om middelen tijdens levende zittingen te delen. [Meer informatie](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
+
 >[!MORELIKETHIS]
 >
->[&#x200B; Leer hoe te om presentatoren en/of medegastheren toe te voegen &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
+>[ Leer hoe te om presentatoren en/of medegastheren toe te voegen ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

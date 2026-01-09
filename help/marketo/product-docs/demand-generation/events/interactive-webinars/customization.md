@@ -3,9 +3,9 @@ description: Interactieve webinars-aanpassing - Marketo Docs - Productdocumentat
 title: Interactieve webinars aanpassen
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Voordat gebruikers in uw organisatie uw interactieve webinars kunnen aanpassen, 
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### De interface van de ruimte aanpassen {#customize-the-room-interface}
+## De interface van de ruimte aanpassen {#customize-the-room-interface}
 
 U kunt de weergave van de sessieruimte aanpassen door het logo, de klikbare omleidingskoppeling en de kleuren te wijzigen. De wijzigingen worden doorgevoerd in alle gebeurtenissen en ruimten in uw organisatie.
 
@@ -134,3 +134,11 @@ Gebruik de schakeloptie om de beschikbaarheid van deze standaardachtergronden in
 ![](assets/interactive-webinars-customization-13.png)
 
 Selecteer **toepassen** om de veranderingen te bewaren of **Terugstellen aan gebrek** om aan de standaardmontages terug te stellen.
+
+### Aanpasbare thema&#39;s maken {#create-customizable-themes}
+
+* Beheerders kunnen thema&#39;s maken/beheren met aangepaste logo&#39;s, kleuren en videoachtergronden.
+
+* De gastheren kunnen thema&#39;s tijdens ruimteverwezenlijking kiezen of hen bijwerken later van de pagina van de ruimteinformatie (**de hoogste bar van de Zaal** > **Meer menu** > **de ruimteinformatie van de Mening**).
+
+Leer meer over [ Thema&#39;s ](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

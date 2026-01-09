@@ -3,9 +3,9 @@ description: GenAI-functies - Marketo Docs - Productdocumentatie
 title: GenAI-functies
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ Produceer automatisch hoofdstukken en samenvattingen voor uw geregistreerde webi
 * **Automatische Generatie van het Hoofdstuk**: De AI-Gerichte technologie leidt hoofdstukken voor uw webinar inhoud.
 
 * **AI-Gegenereerde Samenvatting**: Krijg een geautomatiseerde tekstsamenvatting van uw webinar.
+
+* **op AI-Gebaseerde Bloggeneratie**: Laat u automatisch op-brand bloginhoud van uw webinars produceren.
 
 * **Bewerkbare Inhoud**: wijzig geproduceerde hoofdstukken en samenvattingen indien gewenst, gebruikend hand en op AI-Gebaseerde het uitgeven functionaliteiten.
 
@@ -68,7 +70,7 @@ Nadat u de Adobe GenAI-voorwaarden hebt geaccepteerd, kunt u deze nu inschakelen
 
    >[!NOTE]
    >
-   >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![&#x200B; duimen omhoog pictogram &#x200B;](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![&#x200B; duimen neer pictogram &#x200B;](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![&#x200B; pictogram van de Vlag &#x200B;](assets/icon-flag.png) te klikken.
+   >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![ duimen omhoog pictogram ](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![ duimen neer pictogram ](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![ pictogram van de Vlag ](assets/icon-flag.png) te klikken.
    >
    >* Als u niet tevreden bent met het eerste overzicht, kunt u op de knop **[!UICONTROL Regenerate summary]** klikken en wordt een andere versie gegenereerd.
 
@@ -102,13 +104,15 @@ De &quot;verbinding&quot;is de naam van het hoofdstuk, en de &quot;Web-pagina&qu
 
 >[!TIP]
 >
->Gebruik [&#x200B; beperkingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om uw doelpubliek verder te verfijnen.
+>Gebruik [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om uw doelpubliek verder te verfijnen.
 
 ## Notities {#things-to-note}
 
 * Het verwijderen of samenvoegen van hoofdstukken heeft alleen invloed op de hoofdstukstapel, niet op de video-inhoud zelf. Deze acties zijn permanent.
 
 * De GenAI-functies zijn flexibel en kunnen worden gebruikt met verschillende webpagina-editors, niet alleen met de editors in Marketo Engage.
+
+* Alleen sessies in seminarruimten zijn beschikbaar voor het genereren van blogs. Seminarruimten zijn alleen beschikbaar voor accounts met een gebeurtenismodule of een seminarlicentie (gedeelde ruimte/gebeurtenissen).
 
 * Bekijk altijd een voorvertoning van de wijzigingen voor de gewenste functionaliteit en vormgeving.
 
