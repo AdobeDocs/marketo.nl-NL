@@ -4,9 +4,9 @@ description: SEO - Voorkeuren voor e-mailwaarschuwingen instellen - Marketo Docs
 title: SEO - Voorkeuren voor e-mailwaarschuwingen instellen
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '100'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 1%
 # SEO - Voorkeuren voor e-mailwaarschuwingen instellen {#seo-set-your-email-alert-preferences}
 
 U kunt uw e-mailvoorkeuren aanpassen om te bepalen wanneer u over uw SEO-inspanningen wordt bijgewerkt.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Klik in de bovenste navigatiebalk op uw gebruikersnaam. Klik op **[!UICONTROL Email Preferences]**.
 

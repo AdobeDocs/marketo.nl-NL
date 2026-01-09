@@ -4,9 +4,9 @@ description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Docume
 title: SEO - het Rapport van de Trends van het Sleutelwoord gebruiken
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 0%
 # SEO - het Rapport van de Trends van het Sleutelwoord gebruiken {#seo-use-the-keyword-trends-report}
 
 In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerangschikt.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Rapport laden {#load-report}
 
@@ -58,4 +67,4 @@ U kunt ook zien hoe u met uw concurrenten in sleutelwoordrangschikking vergelijk
 
 >[!NOTE]
 >
->[&#x200B; Gebruikend het Concurrerende KW Rank Rapport van Trends &#x200B;](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[ Gebruikend het Concurrerende KW Rank Rapport van Trends ](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

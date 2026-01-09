@@ -4,16 +4,25 @@ description: SEO - de Resultaten van het Sleutelwoord van de Mening in de Motor 
 title: SEO - de Resultaten van het Sleutelwoord van de Mening in de Motor van het Onderzoek
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 0%
 
 ---
 
 # SEO - de Resultaten van het Sleutelwoord van de Mening in een Motor van het Onderzoek {#seo-view-keyword-results-in-search-engine}
 
-Als u wilt zien hoe uw inhoud er in een zoekprogramma uitziet, hebben we een handomdraai korte cut toegevoegd.
+Als u wilt zien hoe uw inhoud eruit ziet in een zoekprogramma, hebben we een korte cut toegevoegd.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Ga naar de sectie **[!UICONTROL Keywords]** .
 

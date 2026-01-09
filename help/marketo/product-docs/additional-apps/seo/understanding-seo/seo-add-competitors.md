@@ -4,10 +4,10 @@ description: SEO - Concurrenten toevoegen - Marketo Docs - Productdocumentatie
 title: SEO - Concurrenten toevoegen
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 1%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 Als u concurrenten toevoegt, kunt u bijhouden hoe ze voor dezelfde trefwoorden en binnenkomende koppelingen werken die u wilt controleren.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->**Vereiste Bevoegdheden Admin**
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -41,5 +46,5 @@ Als u concurrenten toevoegt, kunt u bijhouden hoe ze voor dezelfde trefwoorden e
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; voeg Sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"} toe
-   >* [&#x200B; Begrijpend Sleutelwoorden (de Mening van de Concurrent) &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+   >* [ voeg Sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"} toe
+   >* [ Begrijpend Sleutelwoorden (de Mening van de Concurrent) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}

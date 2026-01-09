@@ -4,16 +4,25 @@ description: SEO - Suggesties voor trefwoorden ophalen - Marketo Docs - Productd
 title: SEO - voorgestelde trefwoorden ophalen
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 3%
+source-wordcount: '194'
+ht-degree: 2%
 
 ---
 
 # SEO - voorgestelde trefwoorden ophalen {#seo-get-suggested-keywords}
 
-Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesties doen op basis van een trefwoord of de URL van een site. Geef het een keer!
+Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesties doen op basis van een trefwoord of de URL van een site.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Trefwoordsuggesties ophalen met een trefwoord {#get-keyword-suggestions-using-a-keyword}
 
@@ -31,7 +40,7 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
 
    >[!TIP]
    >
-   >Wist u u kunt [&#x200B; uw sleutelwoord aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
+   >Wist u u kunt [ uw sleutelwoord aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
 
 1. Selecteer voorgestelde trefwoorden. Klik op **[!UICONTROL Add Selected]**.
 
@@ -63,7 +72,7 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
 
    >[!TIP]
    >
-   >Wist u u kunt [&#x200B; uw sleutelwoord aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
+   >Wist u u kunt [ uw sleutelwoord aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier toevoegen?
 
 1. Selecteer voorgestelde trefwoorden. Klik op **[!UICONTROL Add Selected]**.
 
@@ -75,5 +84,5 @@ Geweldig! Het trefwoord is toegevoegd.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend Trefwoorden (Samenvattingsmening) &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
->* [&#x200B; voeg/verwijder Trefwoorden van een Lijst toe &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>* [ Begrijpend Trefwoorden (Samenvattingsmening) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [ voeg/verwijder Trefwoorden van een Lijst toe ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

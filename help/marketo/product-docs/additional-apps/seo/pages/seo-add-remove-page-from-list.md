@@ -4,16 +4,25 @@ description: SEO - Pagina toevoegen/verwijderen uit lijst - Marketo-documenten -
 title: SEO - Pagina toevoegen/verwijderen uit lijst
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 1%
+source-wordcount: '221'
+ht-degree: 0%
 
 ---
 
 # SEO - Pagina toevoegen/verwijderen uit lijst {#seo-add-remove-page-from-list}
 
-Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te maken. Met lijsten kunt u pagina&#39;s ordenen of gegevens filteren in dashboards.
+Beheer uw pagina&#39;s eenvoudig door een lijst te maken. Met lijsten kunt u pagina&#39;s ordenen of gegevens filteren in dashboards.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Pagina toevoegen aan een lijst {#add-page-to-a-list}
 

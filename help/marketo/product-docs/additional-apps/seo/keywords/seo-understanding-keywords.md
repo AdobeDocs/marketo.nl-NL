@@ -4,9 +4,9 @@ description: SEO - Trefwoorden begrijpen - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden begrijpen
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,16 @@ ht-degree: 0%
 
 [!UICONTROL Keywords] vormen de ruggengraat van uw SEO-strategie. Je doel is om op de eerste pagina te staan, zo dicht mogelijk bij #1 voor trefwoorden die relevant zijn voor je bedrijf.
 
-De [!UICONTROL Keywords] sectie zal u tonen hoe succesvol uw plaats in het bereiken van dit is en hoe u tot [&#x200B; uw concurrentie &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md) stapelt.
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+
+De [!UICONTROL Keywords] sectie zal u tonen hoe succesvol uw plaats in het bereiken van dit is en hoe u tot [ uw concurrentie ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md) stapelt.
 
 ## [!UICONTROL Keywords] - Samenvattingsweergave {#keywords-summary-view}
 
@@ -66,5 +75,5 @@ Geweldig! Nu u de sectie [!UICONTROL Keywords] begrijpt, leren wij over pagina&#
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend Pagina&#39;s &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [&#x200B; Begrijpend Binnenkomende Verbindingen &#x200B;](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>* [ Begrijpend Pagina&#39;s ](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [ Begrijpend Binnenkomende Verbindingen ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)

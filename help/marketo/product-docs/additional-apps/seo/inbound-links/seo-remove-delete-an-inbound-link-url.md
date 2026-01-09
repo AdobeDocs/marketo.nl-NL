@@ -4,16 +4,25 @@ description: SEO - Een binnenkomende URL van een koppeling verwijderen/verwijder
 title: SEO - verwijder/verwijder een Binnenkomende Verbinding URL
 exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---
 
 # SEO - verwijder/verwijder een Binnenkomende Verbinding URL {#seo-remove-delete-an-inbound-link-url}
 
-Soms wilt u binnenkomende koppelingen verwijderen. Hieronder wordt beschreven hoe:
+Soms wilt u binnenkomende koppelingen verwijderen. Zo gaat het.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Ga naar de sectie **[!UICONTROL Inbound Links]** .
 

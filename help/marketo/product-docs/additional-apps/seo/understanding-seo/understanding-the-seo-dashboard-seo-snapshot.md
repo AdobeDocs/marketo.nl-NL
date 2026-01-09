@@ -4,9 +4,9 @@ description: Werken met het SEO-dashboard -SEO Snapshot - Marketo Docs - Product
 title: SEO-dashboard begrijpen - SEO-momentopname
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,22 @@ ht-degree: 0%
 
 Gebruik het dashboard om een mening op hoog niveau van te krijgen hoe de sleutelwoordrang trending is en hoe goed uw plaats voor SEO wordt geoptimaliseerd.
 
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+
 Als u wilt weten waarop u zich wilt concentreren om uw SEO-inspanningen te verbeteren, gebruikt u het gedeelte [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Keyword Rank Summary] {#keyword-rank-summary}
 
-Deze sectie toont u hoe uw plaats voor de [&#x200B; sleutelwoorden wordt gerangschikt u &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) richt.
+Deze sectie toont u hoe uw plaats voor de [ sleutelwoorden wordt gerangschikt u ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) richt.
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +42,7 @@ Deze sectie toont u hoe uw plaats voor de [&#x200B; sleutelwoorden wordt gerangs
 
 >[!TIP]
 >
->U kunt ook bekijken hoe a [&#x200B; specifieke lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden presteert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
+>U kunt ook bekijken hoe a [ specifieke lijst ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden presteert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
 
 >[!NOTE]
 >
@@ -65,4 +74,4 @@ Bekijk de sectie [!UICONTROL Recommendations] van dit dashboard.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend het dashboard: De Aanbevelingen van SEO &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[ Begrijpend het dashboard: De Aanbevelingen van SEO ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

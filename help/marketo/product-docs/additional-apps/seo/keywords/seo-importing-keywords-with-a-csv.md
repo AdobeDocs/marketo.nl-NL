@@ -4,16 +4,25 @@ description: SEO - Trefwoorden importeren met een CSV - Marketo Docs - Productdo
 title: SEO - Trefwoorden importeren met een CSV
 exl-id: 13957db8-3fbf-4267-a3ab-65a4978d8633
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 2%
+source-wordcount: '151'
+ht-degree: 1%
 
 ---
 
 # SEO - Trefwoorden importeren met een CSV {#seo-importing-keywords-with-a-csv}
 
-1. U kunt [&#x200B; sleutelwoorden &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manueel toevoegen, [&#x200B; krijgen sleutelwoordsuggesties &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) en zelfs sleutelwoorden van een Csv- dossier invoeren. Hieronder wordt beschreven hoe u het bestand importeert.
+U kunt [ sleutelwoorden ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manueel toevoegen, [ krijgen sleutelwoordsuggesties ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) en zelfs sleutelwoorden van een Csv- dossier invoeren. Hieronder wordt beschreven hoe u het bestand importeert.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Ga naar de sectie **[!UICONTROL Keywords]** .
 
@@ -49,5 +58,5 @@ ht-degree: 2%
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Begrijpend Trefwoorden (Samenvattingsmening) &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [&#x200B; voeg/verwijder Trefwoorden van een Lijst toe &#x200B;](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [ Begrijpend Trefwoorden (Samenvattingsmening) ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [ voeg/verwijder Trefwoorden van een Lijst toe ](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

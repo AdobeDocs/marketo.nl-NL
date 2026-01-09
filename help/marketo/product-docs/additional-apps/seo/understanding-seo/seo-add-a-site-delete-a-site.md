@@ -4,10 +4,10 @@ description: SEO - Een site toevoegen/een site verwijderen - Marketo Docs - Prod
 title: SEO - Een site toevoegen/een site verwijderen
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 1%
+source-wordcount: '201'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen die relevant zijn voor de pagina&#39;s van uw site als u de URL van de site hier definieert.
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->Niet alle Marketo Engage-gebruikers hebben deze functionaliteit aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL Add a Site] {#add-a-site}
 

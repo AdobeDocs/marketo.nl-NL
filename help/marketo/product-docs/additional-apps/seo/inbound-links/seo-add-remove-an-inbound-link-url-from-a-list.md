@@ -4,9 +4,9 @@ description: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst
 title: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '213'
 ht-degree: 1%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 1%
 # SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe {#seo-add-remove-an-inbound-link-url-from-a-list}
 
 U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Een binnenkomende URL van een koppeling toevoegen aan een lijst {#add-an-inbound-link-url-to-a-list}
 

@@ -4,16 +4,25 @@ description: SEO - Pagina's toevoegen - Marketo-documenten - Productdocumentatie
 title: SEO - Pagina's toevoegen
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---
 
 # SEO - Pagina&#39;s toevoegen {#seo-add-pages}
 
-Je hebt pagina&#39;s! Marketo SEO doorloopt automatisch uw site en volgt deze. Als we er een paar gemist hebben, haal ze dan als volgt in de SEO-app:
+Marketo SEO doorloopt automatisch uw site en volgt deze. Als we er een paar gemist hebben, haal ze dan zo in de SEO-app.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Ga naar de sectie **[!UICONTROL Pages]** .
 
@@ -29,7 +38,7 @@ Je hebt pagina&#39;s! Marketo SEO doorloopt automatisch uw site en volgt deze. A
 
    >[!TIP]
    >
-   >Wist u u kunt [&#x200B; uw pagina aan een nieuwe of bestaande lijst &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) toevoegen? Kijk eens!
+   >Wist u u kunt [ uw pagina aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) toevoegen? Kijk eens!
 
    Het kan even duren voordat de paginagegevens zijn geladen. Wacht op het groene waarschuwingsbericht en vernieuw uw pagina om de weergave bij te werken.
 

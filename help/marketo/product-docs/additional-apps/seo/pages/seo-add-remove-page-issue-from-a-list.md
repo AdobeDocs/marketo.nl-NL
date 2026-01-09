@@ -4,16 +4,25 @@ description: SEO - Pagina-probleem toevoegen/verwijderen uit een lijst - Marketo
 title: SEO - Pagina-uitgave toevoegen/verwijderen uit een lijst
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 1%
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
 # SEO - Pagina-uitgave toevoegen/verwijderen uit een lijst {#seo-add-remove-page-issue-from-a-list}
 
 U kunt uw pagina-uitgaven ordenen in lijsten. U kunt ook pagina-uitgaven uit een lijst verwijderen.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Pagina-problemen toevoegen aan een lijst {#add-page-issues-to-a-list}
 

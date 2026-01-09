@@ -4,9 +4,9 @@ description: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden - Marke
 title: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden
 exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 0%
 # SEO - Specifieke pagina&#39;s optimaliseren met doeltrefwoorden {#seo-optimize-specific-pages-with-targeted-keywords}
 
 Sommige trefwoorden gaan heel goed met bepaalde pagina&#39;s. Zo past u het perfecte sleutelwoord aan zijn perfecte pagina aan. Dit zal de meest nauwkeurige gegevens en de beste aanbevelingen voor verbetering verstrekken.
+
+>[!IMPORTANT]
+>
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [ leer meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Ga naar de sectie **[!UICONTROL Pages]** .
 
