@@ -4,9 +4,9 @@ description: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Unlimited)
 title: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Onbeperkt)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [&#x200B; Stap 2 van 3: Creeer a [!DNL Salesforce]  Gebruiker voor Marketo (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [ Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [ Stap 2 van 3: Creeer a [!DNL Salesforce]  Gebruiker voor Marketo (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
 ## Synchronisatie van beveiligingstoken voor gebruiker ophalen {#retrieve-sync-user-security-token}
 
@@ -48,15 +48,15 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
 
    >[!NOTE]
    >
-   >Ben zeker om [&#x200B; alle gebieden te verbergen u niet &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo van de synchronisatiegebruiker alvorens **[!UICONTROL Sync Fields]** vereist te klikken. Als u op [!UICONTROL Sync Fields] klikt, worden alle velden weergegeven die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet meer worden verwijderd.
+   >Ben zeker om [ alle gebieden te verbergen u niet ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo van de synchronisatiegebruiker alvorens **[!UICONTROL Sync Fields]** vereist te klikken. Als u op [!UICONTROL Sync Fields] klikt, worden alle velden weergegeven die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet meer worden verwijderd.
 
-1. Ga de [!DNL Salesforce] geloofsbrieven van de Gebruiker van de Synchronisatie in deel 2 van de [!DNL Salesforce] configuratie ([&#x200B; Beroeps &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) of [&#x200B; Onderneming &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) en klik **[!UICONTROL Sync Fields]** (controle **[!UICONTROL Sandbox]** slechts als u een zandbak van Marketo aan a [!DNL Salesforce] Sandbox synchroniseert).
+1. Ga de [!DNL Salesforce] geloofsbrieven van de Gebruiker van de Synchronisatie in deel 2 van de [!DNL Salesforce] configuratie ([ Beroeps ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) of [ Onderneming ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) en klik **[!UICONTROL Sync Fields]** (controle **[!UICONTROL Sandbox]** slechts als u een zandbak van Marketo aan a [!DNL Salesforce] Sandbox synchroniseert).
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
    >[!CAUTION]
    >
-   >Als u de knop Aanmelden bij [!DNL Salesforce] ziet in plaats van de velden Gebruikersnaam/Wachtwoord/Token, is uw Marketo-abonnement ingeschakeld voor OAuth. Gelieve te verwijzen [&#x200B; naar dit artikel &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Zodra de synchronisatie begint gebruikend een reeks Geloofsbrieven, **is er geen omschakeling van [!DNL Salesforce] geloofsbrieven of abonnement**. Als u Basisauthentificatie wilt gebruiken, contacteer uw Manager van het Succes van de Klant.
+   >Als u de knop Aanmelden bij [!DNL Salesforce] ziet in plaats van de velden Gebruikersnaam/Wachtwoord/Token, is uw Marketo-abonnement ingeschakeld voor OAuth. Gelieve te verwijzen [ naar dit artikel ](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Zodra de synchronisatie begint gebruikend een reeks Geloofsbrieven, **is er geen omschakeling van [!DNL Salesforce] geloofsbrieven of abonnement**. Als u Basisverificatie wilt gebruiken, neemt u contact op met uw accountmanager.
 
 1. Lees de waarschuwing en klik op **[!UICONTROL Confirm Credentials]** .
 
@@ -64,7 +64,7 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
 
    >[!CAUTION]
    >
-   >Als u over de [&#x200B; afbeeldingen wilt kijken en hen &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md) aanpassen, is dit uw enige kans om dit te doen! Zodra u klikt [!UICONTROL Start  Salesforce Sync], is het gedaan.
+   >Als u over de [ afbeeldingen wilt kijken en hen ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md) aanpassen, is dit uw enige kans om dit te doen! Zodra u klikt [!UICONTROL Start  Salesforce Sync], is het gedaan.
 
 ## [!DNL Salesforce] Sync starten {#start-salesforce-sync}
 
@@ -104,7 +104,7 @@ Je hebt net een van de krachtigste functies van Marketo geconfigureerd, ga je ga
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [&#x200B; Stap 2 van 3: Creeer a [!DNL Salesforce]  Gebruiker voor Marketo (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [&#x200B; installeer het Pakket van Insight van de Verkoop van Marketo in  [!DNL Salesforce]  AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [&#x200B; Vorm Insight van de Verkoop van Marketo in  [!DNL Salesforce]  Onderneming/Onbeperkt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [ Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [ Stap 2 van 3: Creeer a [!DNL Salesforce]  Gebruiker voor Marketo (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [ installeer het Pakket van Insight van de Verkoop van Marketo in  [!DNL Salesforce]  AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [ Vorm Insight van de Verkoop van Marketo in  [!DNL Salesforce]  Onderneming/Onbeperkt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
