@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: c6b8dd17c4337b32c6bb4f0a1b9ce22c1e3b8715
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '452'
 ht-degree: 2%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 2%
 
 Hieronder vindt u alle functies die zijn inbegrepen in de release van 26 januari. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
-De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [&#x200B; kunnen hier &#x200B;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
+De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -64,7 +64,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Adobe Connect-functies {#adobe-connect-features}
 
-De Marketo Engage [&#x200B; Interactieve Webinars &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} eigenschap wordt aangedreven door Adobe Connect, verrijkend persoonbeheer en campagnes met gebeurtenisgegevens en verbeterend persoonkwaliteit. Hieronder vindt u een aantal recente Adobe Connect-releases die rechtstreeks van invloed zijn op gebruikers van Interactive Webinars.
+Deze functies zijn al vrijgegeven door het Adobe Connect-team. Marketo Engage [ Interactieve Webinars ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} worden aangedreven door Adobe Connect. De onderstaande functies zijn daarom alleen van toepassing op gebruikers van interactieve webinars.
 
 * **Pod van het Onderzoek**: Adobe Connect 12.11 introduceert een nieuwe Pod van het Onderzoek die gastheren toestaat om gestructureerde terugkoppelen vormen direct binnen een levende zitting te ontwerpen en te leveren.
 
@@ -72,16 +72,16 @@ De Marketo Engage [&#x200B; Interactieve Webinars &#x200B;](https://experiencele
 
 * **Verbeterde Ervaring van de Interface van de Zaal**: Adobe Connect 12.11 introduceert een vernieuwde en modernere ruimteinterface, die op het recentste Spectrum 2 ontwerpkader van Adobe wordt voortgebouwd, richtend op de visuele taal die over andere producten van Adobe zoals Creative Cloud en Experience Cloud wordt gebruikt.
 
-Voor volledige details, herzie de [&#x200B; Nota&#39;s van de Versie van Adobe Connect 12.11 &#x200B;](https://helpx.adobe.com/nl/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Voor volledige details, gelieve te zien [ Adobe Connect 12.11 de Nota&#39;s van de Versie ](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Aankondigingen {#announcements}
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Maart, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [&#x200B; zoals hier beschreven &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Maart, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Maart, 2026 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [&#x200B; REST API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Maart, 2026 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
 
 * **Eind van het Leven van de Identiteit van Marketo Engage**:
 
-   * _IP de Afschrijving van Beperkingen_: Steun voor [&#x200B; Beperkende Marketo Logins die op IP &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} worden gebaseerd eindigde op 30 juli, 2025. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Binnenkort wordt er een nieuwe functie voor toegangsbeheer op basis van locatie beschikbaar voor Adobe Identity in de Adobe Admin Console.
+   * _IP de Afschrijving van Beperkingen_: Steun voor [ Beperkende Marketo Logins die op IP ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} worden gebaseerd eindigde op 30 juli, 2025. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Binnenkort wordt er een nieuwe functie voor toegangsbeheer op basis van locatie beschikbaar voor Adobe Identity in de Adobe Admin Console.
 
-   * _Enige Sign-On (SSO) Verdringing_: Steun voor [&#x200B; Identiteit SSO van Marketo &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} geëindigd op 30 Juli, 2025. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet afzonderlijk worden geconfigureerd. Voor opstellingsstappen, zie [&#x200B; de identiteit van de Opstelling en Enige Sign-On &#x200B;](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
+   * _Enige Sign-On (SSO) Verdringing_: Steun voor [ Identiteit SSO van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} geëindigd op 30 Juli, 2025. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet afzonderlijk worden geconfigureerd. Voor opstellingsstappen, zie [ de identiteit van de Opstelling en Enige Sign-On ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
