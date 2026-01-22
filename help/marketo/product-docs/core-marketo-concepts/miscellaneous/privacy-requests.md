@@ -2,7 +2,7 @@
 description: Privacyverzoeken - Marketo-documenten - productdocumentatie
 title: Privacyverzoeken
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0105c6480f75f8daf3db61cd400a4956698839d9
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -25,10 +25,10 @@ Dit document biedt een overzicht van het beheer van individuele privacyverzoeken
 
 U kunt individuele verzoeken om toegang tot en verwijdering van consumentengegevens vanuit Marketo Engage op twee manieren verzenden:
 
-* Via de gebruikersinterface van Privacy Service: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Zie de documentatie [&#x200B; hier &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=nl-NL){target="_blank"}.
-* Via de Privacy Service API. Zie hier de documentatie [&#128279;](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} en API informatie [&#128279;](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Via de gebruikersinterface van Privacy Service: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Zie de documentatie [ hier ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Via de Privacy Service API. Zie hier de documentatie [ ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} en API informatie [ ](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-[&#x200B; Privacy Service &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL){target="_blank"} steunt twee soorten verzoeken: gegevenstoegang en gegevensschrapping.
+[ Privacy Service ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} steunt twee soorten verzoeken: gegevenstoegang en gegevensschrapping.
 
 Zie hoe u verzoeken van de Toegang en van de Schrapping kunt tot stand brengen.
 
@@ -56,7 +56,7 @@ b. E-mailadres van de persoon aan wie u wilt optreden
 
 * &quot;actie&quot;: of **toegang** of **schrapping**
 * &quot;userIDs&quot;:
-   * &quot;namespace&quot;: **e-mail**
+   * &quot;namespace&quot;: **E-mail**
    * &quot;type&quot;: **standaard**
    * &quot;value&quot;: `<Data Subject's Email Address>`
 
@@ -87,7 +87,7 @@ JSON-aanvraag
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -117,7 +117,7 @@ JSON-reactie
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
@@ -150,7 +150,7 @@ JSON-aanvraag
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -180,7 +180,7 @@ JSON-reactie
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
@@ -196,4 +196,4 @@ JSON-reactie
 
 >[!MORELIKETHIS]
 >
->[&#x200B; het Beheer van de Privacy &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+>[ het Beheer van de Privacy ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
