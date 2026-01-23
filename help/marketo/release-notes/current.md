@@ -1,28 +1,24 @@
 ---
 description: Huidige aanvullende informatie - Documentatie voor Marketo - Productdocumentatie
-title: Huidige Release Notes
+title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 733b85495632eaa31ce7fc08a82fb4948aadf29f
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
 
-# Release Notes: oktober 2025 {#release-notes-oct-25}
+# Opmerkingen bij de release: januari 2026 {#release-notes-jan-26}
 
-Hieronder vind je alle functies die zijn opgenomen in de oktober &#39;25-release. Controleer je Adobe Marketo Engage-editie voor de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 26 januari. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
-De Release Notes, specifiek voor Adobe Dynamic Chat [, zijn hier](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} te vinden.
+De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
->[!AVAILABILITY]
->
->Kenmerken die worden aangeduid met een ster (![ster](assets/yellow-star.png)) zijn betaalde add-ons. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-## Standaardreleasecycluskenmerken {#standard-release-cycle-features}
-
-De volgende features vallen onder de standaard releasecyclus en zullen op 31 oktober 2025 **worden uitgebracht**, met een gefaseerde uitrol van de resterende features in de daaropvolgende weken. Uitgavekenmerken en data kunnen veranderen. Controleer naast elke functie de status.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **worden vrijgegeven 30 Januari, 2026**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,9 +28,9 @@ De volgende features vallen onder de standaard releasecyclus en zullen op 31 okt
    <th style="width:25%">Documentatie</th>
   </tr>
   <tr>
-   <td><strong>E-mailontwerper - Sjabloonimporteur (Bèta):</strong> Importeer e-mailsjablonen uit de klassieke e-maileditor om sjablonen te maken die compatibel zijn met de Nieuwe E-mailontwerper in de Design Studio.</td>
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Sjabloonimport</a></td>
+   <td><strong> E-mail Designer - beheert Merken (bèta) </strong>: produceer e-mailinhoud die op de specifieke auteursrichtlijnen van uw organisatie/merk wordt gebaseerd.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -42,9 +38,9 @@ De volgende features vallen onder de standaard releasecyclus en zullen op 31 okt
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-mailontwerper - Merkthema's</strong>: Je kunt nu merkthema's definiëren binnen Marketo Engage. Stylingconfiguraties kunnen worden hergebruikt en toegepast op e-mailsjablonen en andere e-mailassets voor merkconsistentie.</td>
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Merkthema's</a></td>
+   <td><strong> E-mail Designer - AI HulpVerbetering </strong>: U kunt merkactiva in uw herinnering nu direct toevoegen en het model vragen om naar die bron voor het produceren van inhoud te verwijzen, eerder dan manueel het toevoegen van een merkactiva als dossier.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,19 +48,9 @@ De volgende features vallen onder de standaard releasecyclus en zullen op 31 okt
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Conditional Content</strong>: Pariteitsfunctie voor de nieuwe Email Designer, waarmee je e-mailpersonalisatie kunt bereiken voorbij tokens.</td>
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Voorwaardelijke inhoud</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>E-mailontwerper - Afbeelding-naar-HTML converter</strong>: Upload een compatibel PNG/JPEG-afbeeldingsbestand van een e-mail en dit wordt automatisch omgezet naar HTML voor gebruik in de nieuwe E-mailontwerper.</td>
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Afbeeldingen converteren naar HTML-sjablonen</a></td>
+   <td><strong> E-mail Designer - Visuele Voorproeven voor Fragmenten </strong>: Alle gepubliceerde Fragmenten verschijnen nu als duimnagels, makend het veel sneller om te identificeren u nodig hebt.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -72,9 +58,9 @@ De volgende features vallen onder de standaard releasecyclus en zullen op 31 okt
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-mailontwerper - E-mailactie</strong> klonen: Je kunt nu een e-mail kloonen naar een andere programmamap in Marketing Activities en bestaande e-mails snel hergebruiken.</td>
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td><strong> E-mail Designer - Opsommingstekens </strong>: U kunt nu multi-level kogels creëren wanneer het ontwerpen van een e-mail in E-mail Designer.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -82,30 +68,53 @@ De volgende features vallen onder de standaard releasecyclus en zullen op 31 okt
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - A/B Testing</strong>: Pariteitsfunctie voor de nieuwe Email Designer, waarmee je A/B-tests kunt uitvoeren om te zien welke soorten content het beste antwoord krijgen.</td>
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td><strong> E-mail Designer - Voorwaardelijke de Verbeteringen van de Inhoud </strong>: Pariteit met de <i> Dynamische eigenschap van de Inhoud </i> in de oude e-mailredacteur.
+   <ul>
+   <li>Voorwaardelijke inhoud is nu van toepassing op segmentatie in gedeelde mappen.</li>
+   <li>Segmenten worden nu in alfabetische volgorde gesorteerd.</li>
+   </ul>
+   </td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> E-mail Designer - Omslagen </strong>: U kunt uw activa nu organiseren die gebruikend e-mail Designer (e-mail, e-mailmalplaatjes, fragmenten) met omslagen worden gecreeerd.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 <br/>
 
+## Niet-standaardfuncties van releasecyclus {#non-standard-release-cycle-features}
+
+De volgende functies zijn vrijgegeven buiten de standaard Marketo Engage-releasecyclus.
+
+### Interactieve webinars {#interactive-webinars}
+
+* **Pod van het Onderzoek**: Een nieuwe Pod van het Onderzoek staat gastheren toe om gestructureerde terugkoppelen vormen te ontwerpen en te leveren direct binnen een levende zitting.
+
+* **Pod van Middelen**: De nieuwe Pod van Middelen vervangt de vorige Peul van de Verbindingen van Dossiers en van het Web, die één enkele, verenigde manier verstrekt om middelen tijdens levende zittingen te delen.
+
+* **Verbeterde Ervaring van de Interface van de Zaal**: Geniet van een vernieuwde en modernere ruimteinterface, die op het recentste het ontwerpkader van het Spectrum 2 van Adobe wordt voortgebouwd, richtend op de visuele taal die over andere producten van Adobe zoals Creative Cloud en Experience Cloud wordt gebruikt.
+
+Bezoek [ deze pagina ](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} voor volledige details.
+
 ## Aankondigingen {#announcements}
 
-* **Salesforce CRM-integratie-upgrade**: Een nieuwe versie van de native CRM-integratie zal worden uitgerold op actieve sandboxes waar de native connector is ingeschakeld gedurende zeven dagen, vanaf 13 november 2025. Krijg alle details in [deze Nation-post](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Volledige de Migratie van de Gemeenschap van Marketo**: De nieuwe Gemeenschap van de Ervaring van Adobe is nu live! [ verscheidene verhogingen ](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} zijn gemaakt om uw ervaring van de Gemeenschap van Marketo nog te maken. [ Controle uit het ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
-* **REST API Double Slash Uitdienst**: Op 16 september 2025 is Adobe overgestapt op een modernere hostinginfrastructuur voor REST API-URL&#39;s, die gebruikmaakt van nieuwere technologie en extra beveiliging en schaalbaarheid. Als je abonnement API&#39;s gebruikt met een dubbele forward slash (//) in de URL, lees [dan dit Nation-bericht](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} voor de volgende stappen.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Maart, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Terug naar Velocity Scripting in de nieuwe Email Designer**: Adobe Marketo Engage bracht afgelopen juni een functie uit genaamd Conditional Content _voor_ de nieuwe Email Designer. De functie werd aangedreven door Handlebar-scripting in plaats van Velocity-scripting, in een poging om wat meer flexibiliteit te bieden in je dynamische content. Maar toen we ontdekten dat sommige tokens verkeerd werden opgelost, besloten we het tijdelijk uit te schakelen. [Meer informatie](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Maart, 2026 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
 
-* **Marketo Engage Identity Einde van de Levensduur**: In augustus 2025 begon Adobe met het uitfaseren van de ondersteuning voor Marketo Engage Identity (inloggen via `login.marketo.com`). Om onderbroken toegang tot Marketo Engage te voorkomen, moet u uiterlijk 30 september 2025 overstappen op [Adobe Identity](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} .
+* **Eind van het Leven van de Identiteit van Marketo Engage**:
 
-   * _Afschreeuwing_ van IP-beperkingen: Ondersteuning voor [het beperken van Marketo-inlogs op basis van IP](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} eindigde op 30 juli 2025. De functie blijft operationeel totdat de overgang naar Adobe Identity is voltooid. Een nieuwe locatiegebaseerde toegangscontrolefunctie voor Adobe Identity in de Adobe Admin Console komt binnenkort.
+   * _IP de Afschrijving van Beperkingen_: Steun voor [ Beperkende Marketo Logins die op IP ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} worden gebaseerd eindigde op 30 juli, 2025. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Binnenkort wordt er een nieuwe functie voor toegangsbeheer op basis van locatie beschikbaar voor Adobe Identity in de Adobe Admin Console.
 
-   * _Single Sign-On (SSO) deprecation:_ Ondersteuning voor [Marketo Identity SSO](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} eindigde op 30 juli 2025. De functie blijft operationeel totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet apart worden geconfigureerd. Voor installatiestappen, zie [Identiteit instellen en Single Sign-On](https://helpx.adobe.com/nl/enterprise/using/set-up-identity.html){target="_blank"}.
-
-* **Afschreeuwing van de functie Doorsturen naar _een Vriend:_ Op 29 september 2025 werd de** functie Doorsturen naar een Vriend _in de Marketo Engage 2.0 e-mails (de oude e-maileditor) volledig afgeschaft voor alle abonnementen._ Dit had invloed op de &#39;Forward to a Friend&#39;-token en &#39;Forward to a Friend&#39;-links in e-mails die al waren of gepland stonden om met het token te worden verzonden. [Meer informatie](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
-
-* **Rest API &#39;access_token&#39; Parameter Deprecation:** De `access_token` queryparameter die wordt gebruikt om Marketo REST API-aanroepen te authenticeren, wordt verouderd en zal na 31 maart 2026 niet meer beschikbaar zijn. Alle nieuwe en bestaande integraties moeten REST API-aanroepen authenticeren met behulp van de &#39;Authorization&#39;-header, [zoals hier](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"} beschreven.
-
-* **SOAP API Veroudering**: Ondersteuning voor de Marketo SOAP API eindigt op 31 maart 2026. Diensten die gebruikmaken van SOAP API-mogelijkheden moeten worden gemigrerd naar de [REST API.](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}
+   * _Enige Sign-On (SSO) Verdringing_: Steun voor [ Identiteit SSO van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} geëindigd op 30 Juli, 2025. De functie blijft actief totdat de overgang naar Adobe Identity is voltooid. Single Sign-On voor Adobe Identity in de Adobe Admin Console moet afzonderlijk worden geconfigureerd. Voor opstellingsstappen, zie [ de identiteit van de Opstelling en Enige Sign-On ](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
