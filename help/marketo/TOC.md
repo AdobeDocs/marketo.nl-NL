@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
+source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
 workflow-type: tm+mt
-source-wordcount: '9329'
+source-wordcount: '9331'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Helpcentrum](getting-started/things-to-know/help-center.md)
@@ -1036,6 +1036,7 @@ ht-degree: 0%
          + [Aangepaste CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Merkthema&#39;s](product-docs/email-marketing/email-designer/brand-themes.md)
          + [Merk toepassen](product-docs/email-marketing/email-designer/apply-brand.md)
+         + [Merk beheren](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Donkere modus](product-docs/email-marketing/email-designer/dark-mode.md)
          + [E-mailrendering testen met Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
