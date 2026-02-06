@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - oktober 2022 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
 ht-degree: 5%
@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 oktober
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -34,7 +34,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Aangepaste veldsynchronisatie voor programmalid</a></td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -69,7 +69,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Schakelen tussen schakelen</a></td>
   </tr>
   </tbody>
@@ -83,7 +83,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -115,7 +115,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Invoer van bulklood</a></td>
   </tr>
   </tbody>
@@ -125,7 +125,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 </br>
 
-![&#x200B; (star) &#x200B;](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
 * **Integratie van Insight van de Verkoop met Dynamic Chat**: Het dashboard van Inzichten omvat nu de activiteiten van Dynamic Chat in het Slimme Net samen met een wekelijkse samenvatting en detailkaarten.
 
@@ -135,7 +135,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamic Chat-integratie</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Designer-pictogrammen streamen</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>

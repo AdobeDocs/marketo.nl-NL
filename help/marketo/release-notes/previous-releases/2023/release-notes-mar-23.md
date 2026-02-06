@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - maart 2023 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - maart 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 5%
@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn opgenomen in de release van 23 maart. R
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -34,7 +34,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -62,7 +62,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -80,7 +80,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -102,7 +102,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -116,7 +116,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -130,7 +130,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -144,7 +144,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -158,7 +158,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -172,7 +172,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -180,4 +180,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar van de Versie van het Product_**: [&#x200B; Maart en Mei 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [ Maart en Mei 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

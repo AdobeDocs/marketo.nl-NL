@@ -3,9 +3,9 @@ description: Huidige aanvullende informatie - Documentatie voor Marketo - Produc
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d46ce01ca654ce17c1909d9e458cab1a8cb520f9
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Hieronder vindt u alle functies die zijn inbegrepen in de release van 26 januari. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
-De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [&#x200B; kunnen hier &#x200B;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
+De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -59,8 +59,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
   <tr>
    <td><strong> E-mail Designer - Opsommingstekens </strong>: U kunt nu multi-level kogels creëren wanneer het ontwerpen van een e-mail in E-mail Designer.</td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Vrijgegeven</td>
+   <td>nvt</td>
   </tr>
   <tr>
    <td> </td>
@@ -103,12 +103,12 @@ De volgende functies zijn vrijgegeven buiten de standaard Marketo Engage-release
 
 * **Verbeterde Ervaring van de Interface van de Zaal**: Geniet van een vernieuwde en modernere ruimteinterface, die op het recentste het ontwerpkader van het Spectrum 2 van Adobe wordt voortgebouwd, richtend op de visuele taal die over andere producten van Adobe zoals Creative Cloud en Experience Cloud wordt gebruikt.
 
-Bezoek [&#x200B; deze pagina &#x200B;](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} voor volledige details.
+Bezoek [ deze pagina ](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} voor volledige details.
 
 ## Aankondigingen {#announcements}
 
-* **Volledige de Migratie van de Gemeenschap van Marketo**: De nieuwe Gemeenschap van de Ervaring van Adobe is nu live! [&#x200B; verscheidene verhogingen &#x200B;](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=nl){target="_blank"} zijn gemaakt om uw ervaring van de Gemeenschap van Marketo nog te maken. [&#x200B; Controle uit het &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=nl){target="_blank"}.
+* **Volledige de Migratie van de Gemeenschap van Marketo**: De nieuwe Gemeenschap van de Ervaring van Adobe is nu live! [ verscheidene verhogingen ](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} zijn gemaakt om uw ervaring van de Gemeenschap van Marketo nog te maken. [ Controle uit het ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
-* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Maart, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [&#x200B; zoals hier beschreven &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Rest API &quot;access_token&quot;de Afschrijving van de Parameter**: De `access_token` vraagparameter die wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Maart, 2026 zijn. Alle nieuwe en bestaande integratie zouden vraag REST API gebruikend de kopbal van de &quot;Vergunning&quot;voor authentiek moeten verklaren, [ zoals hier beschreven ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Maart, 2026 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [&#x200B; REST API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.
+* **SOAP API Verdringing**: Steun voor Marketo SOAP API zal op 31 Maart, 2026 eindigen. De diensten die SOAP API mogelijkheden gebruiken zouden aan [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} moeten worden gemigreerd.

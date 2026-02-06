@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - mei 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 3%
@@ -15,7 +15,7 @@ Hieronder vindt u alle functies die in de release van 23 mei zijn opgenomen. Raa
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -33,7 +33,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Overzicht Experience Cloud Interface</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Helpcentrum</a></td>
   </tr>
   </tbody>
@@ -65,7 +65,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 Interactieve webinars vergroten de bestaande gebeurtenissen en webinars door een native en naadloze ervaring voor marketers te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Pas de webinars aan op basis van het type gebeurtenis en voeg desgewenst zelfs presentatoren toe. Verkrijg rijke inzichten van betrokkenheid door de eigenschappen van Adobe Connect zoals levende opiniepeilingen, praatje, Q&amp;A zittingen, Web verbinding klikt, documentdownloads, en meer. Haal de webinar-opname rechtstreeks op in Marketo Engage en evalueer de prestaties ervan via maateenheden op het dashboard.
 
-Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang te verzoeken, te vullen gelieve [&#x200B; deze vorm &#x200B;](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang te verzoeken, te vullen gelieve [ deze vorm ](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table>
   <tr>
@@ -74,11 +74,11 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang t
   </tr>
   <tr>
    <td>Uitvoeren gestart</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=nl-NL">Overzicht van interactieve webinars</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Overzicht van interactieve webinars</a></td>
   </tr>
   </tbody>
 </table>
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar van de Versie van het Product_**: [&#x200B; Maart en Mei 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [ Maart en Mei 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

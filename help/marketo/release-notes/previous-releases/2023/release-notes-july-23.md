@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - juli 2023 - Marketo Docs - Productdocu
 title: Opmerkingen bij de release - juli 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 4%
@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 juli. R
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -32,7 +32,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Overzicht van de betrokkenheidskaart</a></td>
   </tr>
   </tbody>
@@ -46,7 +46,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -100,7 +100,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Instelling voor automatisch toevoegen van abonnement op bericht</a></td>
   </tr>
   </tbody>
@@ -114,7 +114,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Veldvragen</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Dynamische velden</a></td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat Trigger Tokens</a></td>
   </tr>
   </tbody>
@@ -180,4 +180,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Verbetering aan Google Analytics 4**: Marketo eerder gesteunde Universele Analytics, die zal ophouden registrerend gegevens tegen 1 Juli, 2023. RTP-gebruikers moeten het migratieproces in hun Google Analytics-dashboard volgen om de Google Analytics 4-integratie in RTP te kunnen voltooien. Als gebruikers verdergaan, hebben ze op hun bestemmingspagina&#39;s een unieke alfanumerieke tag (die zich bevindt binnen het `<head>` -gedeelte van het HTML-bestand) waarmee Marketo gegevens naar Google Analytics kan verzenden.
 
-* **_Webinar van de Versie van het Product_**: [&#x200B; Juli en September 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [ Juli en September 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

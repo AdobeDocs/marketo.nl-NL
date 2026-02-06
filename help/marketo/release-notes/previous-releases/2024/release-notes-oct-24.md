@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - oktober 2024 - Marketo Docs - Productd
 title: Opmerkingen bij de release - oktober 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Hieronder vindt u alle functies die zijn inbegrepen in de release van 24 oktober. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
-De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [&#x200B; kunnen hier &#x200B;](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
+De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -33,7 +33,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
     <tr>
    <td><strong> Tokenization voor Interactive Webinars </strong>: U kunt nu tokens gebruiken om Interactieve Webinars in e-mails en Openende Pagina's te bevorderen zonder het moeten de webinar details manueel toevoegen.</td>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Een interactief webinar promoten</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
    <tr>
    <td><strong> Slimme Lijst "Reeks om"Telling </strong> te beïnvloeden: Zie hoeveel mensen wanneer het uitgeven van de kwalificatieregels van een Slimme Campagne zullen worden beïnvloed.</td>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
    <tr>
    <td><strong> Mijn knoop van de Rekening in navigatiespoor </strong>: Voor degenen die naar het Systeem van Adobe Identity Management zijn gemigreerd, staat een nieuwe "Mijn knoop van de Rekening"in de linkernavigatiespoor het vormen van uw tijdzone en de toegang tot abonnementsdetails toe.</td>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <li>E-mail nu geclassificeerd als <i> geaborteerd </i> na het wachten drie dagen voor reactieactiviteit</li>
    <li>E-mail wordt beschouwd als een unieke opening voor elke slimme campagne</li>
    </td>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-mailprestatierapport</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <tr>
    <td><strong> de Metriek van de Achtergrond van de Synchronisatie van Salesforce </strong>: De synchrone productie en de tendensen van de backlog van de monitor om de updates van CRM voor een optimale synchronisatieervaring te plannen en te plannen.
    </td>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce Sync Backlog Metrics</a></td>
   </tr>
  </tbody>
@@ -92,12 +92,12 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 * **Bulk extraheerde API Update**: Wij bevestigden een kwestie in het Bulk Uittreksel API die de columnHeaderNames optie impliceert, die u de namen van de douanekolomkopbal in het uitgevoerde dossier laat specificeren. Eerder konden kolomkopnamen die niet-ASCII-tekens bevatten, beschadigd raken.
 
-* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Maart, 2026 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[&#x200B; zoals die hier &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
+* **Rest API access_token de Afschrijving van de Parameter**: De &quot;access_token&quot;vraagparameter wordt gebruikt om de vraag van Marketo REST API voor authentiek te verklaren wordt afgekeurd en zal niet beschikbaar na 31 Maart, 2026 zijn. Alle nieuwe en bestaande integraties zouden vraag REST API voor authentiek moeten verklaren gebruikend de kopbal van de &quot;Vergunning&quot;[ zoals die hier ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token) wordt beschreven.
 
 * **QR de Afschrijving van de Code**: Op 4 Oktober, 2024, zal de QR codeeigenschap die in dupberichten en in-app overseinenactiva wordt gebruikt worden afgekeurd. Dit omvat het gebruik van QR-codes voor een nieuw testapparaat en het maken van nieuwe elementen met QR-codes. Door functies met een lager gebruik af te schaffen, kunnen we hun middelen opnieuw toewijzen aan het algemene onderhoud van Marketo Engage.
 
 * **de Veranderingen van Munchkin**
 
-   * **Nieuwe Versie**: Op 17 September, 2024, [&#x200B; Munchkin &#x200B;](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van Marketo Engage die &quot;Munchkin Beta&quot;plaatsen hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
+   * **Nieuwe Versie**: Op 17 September, 2024, [ Munchkin ](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 zal beginnen uitrollen aan de instanties van Marketo Engage die &quot;Munchkin Beta&quot;plaatsen hebben die in **wordt toegelaten Admin** > **de Chest van de Schat**. Het is gepland om op 29 oktober met de uitrol naar alle andere instanties te beginnen. Deze versie werkt het maken van Munchkin cookies bij. Er zijn geen wijzigingen in de functionaliteit.
 
    * **Karakters van Verwijderde URL**: &quot;Bezoekt Web-pagina&quot;en de &quot;Klik Verbinding&quot;activiteiten die door Munchkin JS worden gecreeerd zullen niet-URL gecodeerde controlekarakters van alle gebieden URL nu verwijderen. Deze verandering wordt ontworpen om fouten met betrekking tot propagatie van die types van karakters in systemen te verhinderen die hen niet steunen, en geen geldig gebruik binnen Marketo Engage hebben.

@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - januari 2023 - Marketo Docs - Productd
 title: Opmerkingen bij de release - januari 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 5%
@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 januari
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -37,7 +37,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Schakelen tussen schakelen</a></td>
   </tr>
   </tbody>
@@ -52,7 +52,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -88,8 +88,8 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=nl-NL">Marketo Measure Ultimate</a></td>
+   <td>Vrijgegeven</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +106,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulkexport-API-informatie</a></td>
   </tr>
   </tbody>
@@ -128,7 +128,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Kalender</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td>nvt</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatie-updates</b></td>
   </tr>
   <tr>
-   <td>Verzonden</td>
+   <td>Vrijgegeven</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Vergaderingen</a></td>
   </tr>
   </tbody>
@@ -192,6 +192,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **de verandering van Marketo REST API**: Met de versie van Oktober 2022, introduceerden wij een minder belangrijke verandering in het de reactiebericht van de REST API van Marketo. Gelieve te zien dit [&#x200B; post van de Natie van Marketo &#x200B;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer details.
+* **de verandering van Marketo REST API**: Met de versie van Oktober 2022, introduceerden wij een minder belangrijke verandering in het de reactiebericht van de REST API van Marketo. Gelieve te zien dit [ post van de Natie van Marketo ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer details.
 
-* **_Webinar van de Versie van het Product_**: [&#x200B; Oktober 2022 en Januari 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [ Oktober 2022 en Januari 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
