@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 24 januari
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -94,7 +94,7 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 
 ### Insight-acties voor verkoop {#sales-insight-actions}
 
-![ (star) ](assets/yellow-star.png)
+![&#x200B; (star) &#x200B;](assets/yellow-star.png)
 
 <table style="border: 0px">
  <tbody>
@@ -190,12 +190,12 @@ Alle onderstaande functies volgen een indeling van Agile en worden op verschille
 
 ## Aankondigingen {#announcements}
 
-* **één-Klik lijst-unsubscribe Update**: Gmail en Yahoo hebben verscheidene nieuwe afzendervereisten uitgevoerd die op 1 Februari, 2024 van kracht werden. Leer [ wat zij zijn en hoe zij u ](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"} beïnvloeden.
+* **één-Klik lijst-unsubscribe Update**: Gmail en Yahoo hebben verscheidene nieuwe afzendervereisten uitgevoerd die op 1 Februari, 2024 van kracht werden. Leer [&#x200B; wat zij zijn en hoe zij u &#x200B;](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"} beïnvloeden.
 
-* **de Lood API Update van de Synchronisatie**: Het [ gedrag van de Lood API van de Synchronisatie ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} is lichtjes met betrekking tot updates aan het `unsubscribed` gebied aangepast. Wanneer u `null` nu doorgeeft als waarde, is deze gelijk aan het doorgeven van de waarde `false` .
+* **de Lood API Update van de Synchronisatie**: Het [&#x200B; gedrag van de Lood API van de Synchronisatie &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} is lichtjes met betrekking tot updates aan het `unsubscribed` gebied aangepast. Wanneer u `null` nu doorgeeft als waarde, is deze gelijk aan het doorgeven van de waarde `false` .
 
-* **Marketo Engage Forms jQuery 1.x**: In onze versie van Januari 2024, zullen wij jQuery voor Marketo Engage Forms aan jQuery 3.x bijwerken. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [ leer hier meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: In onze versie van Januari 2024, zullen wij jQuery voor Marketo Engage Forms aan jQuery 3.x bijwerken. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [&#x200B; leer hier meer &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **E-mailverificatie voor slechts gebruikers SSO**: De gebruikers van SSO slechts werden gebruikt om automatisch worden geverifieerd, toestaand hen om een ontoegankelijke e-mailrekening te gebruiken. Vanaf medio januari worden alle bestaande gebruikers van alleen SSO&#39;s niet geverifieerd en wordt hun gevraagd hun e-mail opnieuw te verifiëren via een koppeling die we naar het e-mailaccount verzenden. Alle nieuwe gebruikers van SSO slechts zullen hun e-mailadressen moeten verifiëren in de toekomst.
 
-* Bekijk [ Januari 2024 Marketo Engage Versie Webinar ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.
+* Bekijk [&#x200B; Januari 2024 Marketo Engage Versie Webinar &#x200B;](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"}.

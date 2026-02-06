@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 januari
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -192,6 +192,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **de verandering van Marketo REST API**: Met de versie van Oktober 2022, introduceerden wij een minder belangrijke verandering in het de reactiebericht van de REST API van Marketo. Gelieve te zien dit [ post van de Natie van Marketo ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer details.
+* **de verandering van Marketo REST API**: Met de versie van Oktober 2022, introduceerden wij een minder belangrijke verandering in het de reactiebericht van de REST API van Marketo. Gelieve te zien dit [&#x200B; post van de Natie van Marketo &#x200B;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer details.
 
-* **_Webinar van de Versie van het Product_**: [ Oktober 2022 en Januari 2023 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar van de Versie van het Product_**: [&#x200B; Oktober 2022 en Januari 2023 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

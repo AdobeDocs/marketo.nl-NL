@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 oktober
 
 >[!AVAILABILITY]
 >
->De eigenschappen die door een ster (![ worden aangegeven ster ](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
+>De eigenschappen die door een ster (![&#x200B; worden aangegeven ster &#x200B;](assets/yellow-star.png)) worden betaald toe:voegen-ons. Neem contact op met je Marketo Engage-vertegenwoordiger voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -41,7 +41,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
   </tr>
   </tr>
    <tr>
-   <td><strong> de Compute Dienst van de Stap van de Stroom van de Formule 1}: De computer vormt de dienst van de Stap van de Stroom die op het Runtime van Adobe wordt gebouwd IO voor gebruik met de Slimme Campagnes van Marketo Engage. </strong> Diegenen met IO-runtime kunnen de service implementeren en installeren op hun Marketo Engage-abonnementen, zodat ze Excel-achtige formules kunnen berekenen in Marketo Engage Smart Campaigns.</td>
+   <td><strong> de Compute Dienst van de Stap van de Stroom van de Formule 1&rbrace;: De computer vormt de dienst van de Stap van de Stroom die op het Runtime van Adobe wordt gebouwd IO voor gebruik met de Slimme Campagnes van Marketo Engage. </strong> Diegenen met IO-runtime kunnen de service implementeren en installeren op hun Marketo Engage-abonnementen, zodat ze Excel-achtige formules kunnen berekenen in Marketo Engage Smart Campaigns.</td>
    <td>Vrijgegeven</td>
    <td><a href="https://nation.marketo.com/t5/product-documents/compute-formula-user-guide/ta-p/340633" target="_blank">Gebruikershandleiding voor de formule berekenen</a></td>
   </tr>
@@ -63,6 +63,6 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
 
 ## Aankondigingen {#announcements}
 
-* **Marketo Engage Forms jQuery 1.x**: In onze versie van Januari 2024, zullen wij jQuery voor Marketo Engage Forms aan jQuery 3.x bijwerken. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [ leer hier meer ](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: In onze versie van Januari 2024, zullen wij jQuery voor Marketo Engage Forms aan jQuery 3.x bijwerken. Dit kan gevolgen hebben voor de aangepaste formulierimplementatie die afhankelijk is van oudere versies van jQuery. [&#x200B; leer hier meer &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}.
 
-* **de Gebeurtenissen van Marketo en de Verdringing van de Momenten van Marketo**: Adobe verwijdert [ de Gebeurtenissen van Marketo en de Momenten van Marketo ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} uit alle appstore die 2 Oktober, 2023 beginnen. Bestaande gebruikers—u kunt deze apps blijven gebruiken totdat u uw Marketo Engage-exemplaar naar Adobe Identity migreert. Deze apps bieden geen ondersteuning voor aanmelden met Adobe ID.
+* **de Gebeurtenissen van Marketo en de Verdringing van de Momenten van Marketo**: Adobe verwijdert [&#x200B; de Gebeurtenissen van Marketo en de Momenten van Marketo &#x200B;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"} uit alle appstore die 2 Oktober, 2023 beginnen. Bestaande gebruikers—u kunt deze apps blijven gebruiken totdat u uw Marketo Engage-exemplaar naar Adobe Identity migreert. Deze apps bieden geen ondersteuning voor aanmelden met Adobe ID.
