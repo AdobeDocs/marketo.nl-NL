@@ -74,7 +74,7 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Om vroegere toegang t
   </tr>
   <tr>
    <td>Uitvoeren gestart</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Overzicht van interactieve webinars</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=nl-NL">Overzicht van interactieve webinars</a></td>
   </tr>
   </tbody>
 </table>
