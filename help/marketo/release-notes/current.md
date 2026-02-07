@@ -103,7 +103,7 @@ De volgende functies zijn vrijgegeven buiten de standaard Marketo Engage-release
 
 * **Verbeterde Ervaring van de Interface van de Zaal**: Geniet van een vernieuwde en modernere ruimteinterface, die op het recentste het ontwerpkader van het Spectrum 2 van Adobe wordt voortgebouwd, richtend op de visuele taal die over andere producten van Adobe zoals Creative Cloud en Experience Cloud wordt gebruikt.
 
-Bezoek [&#x200B; deze pagina &#x200B;](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} voor volledige details.
+Bezoek [&#x200B; deze pagina &#x200B;](https://helpx.adobe.com/nl/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} voor volledige details.
 
 ## Aankondigingen {#announcements}
 
