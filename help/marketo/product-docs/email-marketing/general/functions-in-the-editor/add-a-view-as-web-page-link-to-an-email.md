@@ -4,9 +4,9 @@ description: Een koppeling Weergeven als webpagina toevoegen aan een e-mail - Ma
 title: Een koppeling Weergeven als webpagina toevoegen aan een e-mailbericht
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ E-mails hebben beperkte mogelijkheden (beperkte CSS en geen JavaScript of formul
 
 >[!NOTE]
 >
->Als u een nieuwe e-mail maakt, is Weergeven als webpagina niet ingeschakeld. Als u deze functie inschakelt en de e-mail kloont, wordt deze instelling gekopieerd.
+>* Als u een nieuwe e-mail maakt, is Weergeven als webpagina niet ingeschakeld. Als u deze functie inschakelt en de e-mail kloont, wordt deze instelling gekopieerd.
+>
+>* De &quot;mening als Web-pagina&quot;verbindingen verlopen na zes maanden.
 
 1. Selecteer uw e-mail en klik op **[!UICONTROL Edit Draft]** .
 
@@ -39,4 +41,4 @@ Hier is een voorbeeld van hoe het eruit ziet:
 >
 >De koppeling Weergeven als webpagina wordt pas weergegeven nadat u het e-mailbericht hebt verzonden. Stuur uzelf een test om te bekijken.
 
-Om de standaardtekst te veranderen, zie [&#x200B; uitgeven &quot;Mening als Web-pagina&quot;Bericht &#x200B;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
+Om de standaardtekst te veranderen, zie [ uitgeven &quot;Mening als Web-pagina&quot;Bericht ](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md).
