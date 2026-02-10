@@ -4,20 +4,22 @@ description: Facebook-leadadvertenties instellen - Marketo Docs - Productdocumen
 title: Advertenties voor Facebook-leads instellen
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Advertenties voor Facebook-leads instellen {#set-up-facebook-lead-ads}
 
-Gebruik [&#x200B; Advertentie van de Lood van Facebook &#x200B;](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"} om advertentiecampagnes in Facebook in werking te stellen en lood voor Marketo te produceren.
+Gebruik [ Advertentie van de Lood van Facebook ](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"} om advertentiecampagnes in Facebook in werking te stellen en lood voor Marketo te produceren.
 
 >[!NOTE]
 >
->**Vereiste Bevoegdheden Admin**
+>* **Vereiste Bevoegdheden Admin**
+>
+>* Zorg ervoor dat bij het maken van Facebook Lead Ads-formulieren de naam van het formulier niet alleen numerieke tekens bevat. De formuliernaam moet alfabetisch of alfanumeriek zijn.
 
 >[!AVAILABILITY]
 >
@@ -35,7 +37,7 @@ Gebruik [&#x200B; Advertentie van de Lood van Facebook &#x200B;](https://www.fac
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
-1. Open een nieuw lusje in zelfde browser en ga naar [&#x200B; facebook.com &#x200B;](https://www.facebook.com){target="_blank"}. Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
+1. Open een nieuw lusje in zelfde browser en ga naar [ facebook.com ](https://www.facebook.com){target="_blank"}. Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
 
    >[!NOTE]
    >
@@ -67,7 +69,7 @@ Gebruik [&#x200B; Advertentie van de Lood van Facebook &#x200B;](https://www.fac
 
    >[!TIP]
    >
-   >Door de toewijzingen te wijzigen, kunt u aanpassen waar de gegevens van de lead-advertenties in Marketo worden opgeslagen. U kunt ook [&#x200B; trekken in gegevens van de Vragen van de Douane van Advertenties van de Lood &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}.
+   >Door de toewijzingen te wijzigen, kunt u aanpassen waar de gegevens van de lead-advertenties in Marketo worden opgeslagen. U kunt ook [ trekken in gegevens van de Vragen van de Douane van Advertenties van de Lood ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}.
 
    >[!CAUTION]
    >
@@ -81,6 +83,6 @@ Gebruik [&#x200B; Advertentie van de Lood van Facebook &#x200B;](https://www.fac
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Wijs/verwijder Toestemmingen in de Manager van de Toegang van Leads (Facebook) toe &#x200B;](https://www.facebook.com/business/help/540596413257598?id=735435806665862){target="_blank"}
->* [&#x200B; de Filters en de Trekkers van de Advertentie van het Gebruik van het Lood in een Slimme Campagne &#x200B;](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}
->* [&#x200B; de Gebieden van de Aangepaste Kaart aan Marketo &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}
+>* [ Wijs/verwijder Toestemmingen in de Manager van de Toegang van Leads (Facebook) toe ](https://www.facebook.com/business/help/540596413257598?id=735435806665862){target="_blank"}
+>* [ de Filters en de Trekkers van de Advertentie van het Gebruik van het Lood in een Slimme Campagne ](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}
+>* [ de Gebieden van de Aangepaste Kaart aan Marketo ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}
