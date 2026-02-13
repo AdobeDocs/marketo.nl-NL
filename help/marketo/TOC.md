@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
 workflow-type: tm+mt
-source-wordcount: '9331'
+source-wordcount: '9336'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Helpcentrum](getting-started/things-to-know/help-center.md)
@@ -1971,6 +1971,8 @@ ht-degree: 0%
    + [Dynamic Chat Release](release-notes/dynamic-chat.md)
    + [Dynamic Chat Release TEMP](release-notes/dynamic-chat-temp.md)
    + Eerdere releases {#previous-releases}
+      + 2026 {#2026}
+         + [Opmerkingen bij de release: januari &#39;26](release-notes/previous-releases/2025/release-notes-jan-26.md)
       + 2025 {#2025}
          + [Opmerkingen bij de release: januari &#39;25](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Opmerkingen bij de release: maart &#39;25](release-notes/previous-releases/2025/release-notes-mar-25.md)
