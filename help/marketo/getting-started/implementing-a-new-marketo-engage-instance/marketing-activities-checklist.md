@@ -139,7 +139,7 @@ Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getti
   </tr>
   <tr>
     <td>Privacy en naleving</td>
-    <td><li>Creeer programma's om u met gegevensprivacy en spamwetten zoals <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> GDPR, CASL, CAN-SPAM, CCPA, enz. te verzekeren.</a></li>
+    <td><li>Creeer programma's om u met gegevensprivacy en spamwetten zoals <a href="https://business.adobe.com/nl/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> GDPR, CASL, CAN-SPAM, CCPA, enz. te verzekeren.</a></li>
     <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Herinner altijd om uw wettelijk team over deze kwesties te raadplegen. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
   <tr>

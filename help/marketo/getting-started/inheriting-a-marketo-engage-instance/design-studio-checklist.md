@@ -95,7 +95,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   <tr>
    <td>Privacy en naleving</td>
    <td><li>Is uw formulierstrategie in overeenstemming met uw privacy en aanmeldingsvereisten voor bedrijfsgegevens?
-   <br/>     Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> Algemene Verordening van de Bescherming van Gegevens (GDPR) </a>, de anti-Spam Wet van Canada (CASL), de Controllende Uitrusting van Niet-Gezochte Pornografie en de Marketing Wet van 2003 (CAN-SPAM), de Wet van de Privacy van de consument van Californië (CCPA), enz., voor regelgevende naleving.</li>
+   <br/>     Overweeg <a href="https://business.adobe.com/nl/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> Algemene Verordening van de Bescherming van Gegevens (GDPR) </a>, de anti-Spam Wet van Canada (CASL), de Controllende Uitrusting van Niet-Gezochte Pornografie en de Marketing Wet van 2003 (CAN-SPAM), de Wet van de Privacy van de consument van Californië (CCPA), enz., voor regelgevende naleving.</li>
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
  </tbody>

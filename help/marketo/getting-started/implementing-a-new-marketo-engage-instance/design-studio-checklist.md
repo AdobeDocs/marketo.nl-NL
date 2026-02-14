@@ -58,7 +58,7 @@ Herinner aan [&#x200B; download de controlelijsten &#x200B;](/help/marketo/getti
   </tr>
   <tr>
     <td>Privacy en naleving</td>
-    <td><li>Houd uw vormen <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> Algemene Verordening van de Bescherming van Gegevens (GDPR) </a> volgzaam.</li></td>
+    <td><li>Houd uw vormen <a href="https://business.adobe.com/nl/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank"> Algemene Verordening van de Bescherming van Gegevens (GDPR) </a> volgzaam.</li></td>
   </tr>
   <tr>
     <td>Gegevensstandaardisering</td>
