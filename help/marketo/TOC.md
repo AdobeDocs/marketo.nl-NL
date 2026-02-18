@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b7904b6375be98a3794e0b6b2cd3cde0b4b0eefd
+source-git-commit: 5cf293a02d1e8c87a14c9077bef31c98e1694449
 workflow-type: tm+mt
-source-wordcount: '9336'
-ht-degree: 0%
+source-wordcount: '9341'
+ht-degree: 1%
 
 ---
 
@@ -29,10 +29,11 @@ ht-degree: 0%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Helpcentrum](getting-started/things-to-know/help-center.md)
+      + [AI-assistent voor productkennis](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Marketing Nation Community](getting-started/things-to-know/community.md)
    + Quick Wins {#quick-wins}
       + [Instellen en een persoon toevoegen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
@@ -123,7 +124,7 @@ ht-degree: 0%
          + [Creeer een Lijst van gewenste personen voor IP-Gebaseerde Toegang API](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [GoogleAdwords-activiteitenlog downloaden](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [Alleen gebruikersaanmelding beperken tot SSO](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
-      + Audittrail {#audit-trail}
+      + Audit Trail {#audit-trail}
          + [Overzicht van audittrail](product-docs/administration/audit-trail/audit-trail-overview.md)
          + [Details wijzigen in audittrail](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
          + [Audittrail inschakelen](product-docs/administration/audit-trail/enable-audit-trail.md)
@@ -1362,7 +1363,7 @@ ht-degree: 0%
             + [Mijn dynamische velden worden niet ingevuld](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Verwijzing zelf in een dynamisch veld](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
-      + Handelingen {#actions}
+      + Acties {#actions}
          + [Overzicht Insight-handelingstaken](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Aan de slag {#getting-started}
             + [Handelingen Insight verkopen Handboek voor gebruikers aan boord nemen](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
