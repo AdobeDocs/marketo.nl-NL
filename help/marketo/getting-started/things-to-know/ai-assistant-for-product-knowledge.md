@@ -20,7 +20,7 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
 
 ## De assistent gebruiken {#use-the-assistant}
 
-1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experience.adobe.com/).
+1. Login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experience.adobe.com/).
 
 1. Selecteer het AI hulppictogram in de kopbal.
 
