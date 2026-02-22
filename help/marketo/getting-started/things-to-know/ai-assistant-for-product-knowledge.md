@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,13 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
 
 ## De assistent gebruiken {#use-the-assistant}
 
-1. Login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experience.adobe.com/).
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experience.adobe.com/).
 
-1. Selecteer het AI hulppictogram in de kopbal.
+1. Selecteer het AI hulppictogram op de rechterkant van de kopbal.
 
    SCREENSHOT
 
-1. Ga de gewenste herinnering in het snelle venster gebruikend natuurlijke taal in.
+1. Ga de gewenste herinnering in gebruikend natuurlijke taal.
 
    SCREENSHOT
 
@@ -36,7 +36,7 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
 
    >[!TIP]
    >
-   >Gebruik dit pictogram (pictogramafbeelding hier) om het scherm uit te vouwen en dit pictogram (pictogramafbeelding hier) om de snelle historie weer te geven. &lt;— HOE VER? IS ER EEN INSTELLING?
+   >Gebruik dit pictogram (pictogramafbeelding hier) om het scherm uit te vouwen en dit pictogram (pictogramafbeelding hier) om uw geschiedenis weer te geven of een nieuw gesprek te starten.
 
 ## Snel starten: video-overzicht van 60 seconden {#video}
 
