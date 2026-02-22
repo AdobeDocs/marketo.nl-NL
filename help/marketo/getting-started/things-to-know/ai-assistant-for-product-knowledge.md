@@ -40,4 +40,4 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
 
 ## Snel starten: video-overzicht van 60 seconden {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480121?captions=dut&learn=on){transcript=true}
