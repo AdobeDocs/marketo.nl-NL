@@ -4,20 +4,23 @@ description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
 
 # Een programma importeren {#import-a-program}
 
-Een programma kan worden geïmporteerd van het ene Marketo Engage-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Ook, kunt u een vooraf gebouwd programma van de [&#x200B; Bibliotheek van het Programma van Marketo invoeren &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Een programma kan worden geïmporteerd van het ene Marketo Engage-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Ook, kunt u een vooraf gebouwd programma van de [ Bibliotheek van het Programma van Marketo invoeren ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >
->Programma&#39;s met slimme lijsten met een trigger &quot;Aangepast object is bijgewerkt&quot; zullen ertoe leiden dat het importeren mislukt. Verwijder deze trigger uit alle slimme lijsten voordat u de onderstaande stappen uitvoert.
+>
+>* Wanneer het invoeren van een programma, zullen de e-mails/het Landen Pagina&#39;s die fragmenten of [ dynamische inhoud ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} bevatten worden overgeslagen.
+>
+>* Programma&#39;s met slimme lijsten met een trigger &quot;Aangepast object is bijgewerkt&quot; zullen ertoe leiden dat het importeren mislukt. Verwijder deze trigger uit alle slimme lijsten voordat u de onderstaande stappen uitvoert.
 
 ## Een programma importeren {#importing-a-program}
 
@@ -31,9 +34,9 @@ Een programma kan worden geïmporteerd van het ene Marketo Engage-abonnement naa
 
    >[!NOTE]
    >
-   >* De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Leer meer over [&#x200B; het beheren van gebruikersrollen en toestemmingen &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+   >* De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Leer meer over [ het beheren van gebruikersrollen en toestemmingen ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >* Om een zandbakrekening met uw levend abonnement aan te sluiten, contacteer [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Om een zandbakrekening met uw levend abonnement aan te sluiten, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. Selecteer een Marketo **[!UICONTROL Subscription]** en een programma om te importeren. Klik op **[!UICONTROL Next]**.
 
@@ -82,7 +85,3 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, de malplaat
 >Afbeeldingstype mijn tokens worden niet ondersteund voor het importeren van programma&#39;s. Als een programma dat beeldtype mijn tokens heeft wordt ingevoerd, _geen_ tokens zullen door komen.
 
 **de Markeringen van het Programma:** u kunt conflictregels gebruiken om te controleren hoe de programmamarkeringen die niet in de bestemmingsrekening bestaan zullen worden behandeld. Als u de standaardregel gebruikt, worden de programmacodes gemaakt of kunt u de codes negeren.
-
->[!CAUTION]
->
->Wanneer het invoeren van een programma, zullen de e-mails/het Bestaan Pagina&#39;s die [&#x200B; dynamische inhoud &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} bevatten worden overgeslagen.
