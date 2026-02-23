@@ -4,9 +4,9 @@ description: Releaseplanning - Marketo-documenten - Productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 5255f550b8aefcaaec0403589bb9a798187e884e
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 13%
 
 ---
@@ -33,29 +33,24 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
    <th width="250px">Status</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">25 augustus</a></td>
-   <td>zaterdag 22 augustus 2025</td>
-   <td>Voltooid</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">25 september</a></td>
    <td>zaterdag 19 september 2025</td>
    <td>Voltooid</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">25 oktober</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-oct-25.md">25 oktober</a></td>
    <td>zaterdag 31 oktober 2025</td>
    <td>Voltooid</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">26 januari</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-jan-26.md">26 januari</a></td>
    <td>zaterdag 30 januari 2026</td>
    <td>In uitvoering</td>
   </tr>
   <tr>
-  <td>26 februari</td>
+  <td><a href="/help/marketo/release-notes/current.md">26 februari</a></td>
    <td>zaterdag 20 februari 2026</td>
-   <td>Op schema</td>
+   <td>In uitvoering</td>
   </tr>
   <tr>
   <td>26 maart</td>
@@ -75,6 +70,11 @@ _de data/de eigenschappen van de Versie zijn onderworpen aan verandering_
   <tr>
   <td>26 juni</td>
    <td>zaterdag 26 juni 2026</td>
+   <td>Op schema</td>
+  </tr>
+  <tr>
+  <td>26 juli</td>
+   <td>zaterdag 31 juli 2026</td>
    <td>Op schema</td>
   </tr>
  </tbody>
