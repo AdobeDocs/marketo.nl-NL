@@ -4,7 +4,7 @@ description: Alleen een gebruikersrol voor API maken - Marketo Docs - Productdoc
 title: Een gebruikersrol maken die alleen een API is
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een gebruikersrol maken die alleen een API is {#create-an-api-only-user-role}
 
-Als u met Marketo via [&#x200B; REST API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) wilt integreren, moet de beste praktijk [&#x200B; een gebruiker toewijzen de slechts API rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) en dan [&#x200B; tot de douanedienst voor gebruik met REST API &#x200B;](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) leiden. Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
+Als u met Marketo via [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) wilt integreren, moet de beste praktijk [ een gebruiker toewijzen de slechts API rol ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md) en dan [ tot de douanedienst voor gebruik met REST API ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) leiden. Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ Als u met Marketo via [&#x200B; REST API &#x200B;](https://experienceleague.adob
 
 >[!MORELIKETHIS]
 >
->Goed gedaan! Nu maak [&#x200B; een slechts gebruiker API &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>Goed gedaan! Nu maak [ een slechts gebruiker API ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
