@@ -3,26 +3,26 @@ description: Controlelijst voor overgenomen Instance Admin - Marketo Docs - Prod
 title: Controlelijst voor overgenomen Instance Admin
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1850'
 ht-degree: 0%
 
 ---
 
 # Overgenomen instantie: beheerderscontrolelijst voor sectie {#inherited-instance-admin-section-checklist}
 
-De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook [&#x200B; de controlelijsten &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) downloaden en uw vooruitgang volgen.
+De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld door Adobe Professional Services met input van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook [ de controlelijsten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) downloaden en uw vooruitgang volgen.
 
 >[!TIP]
 >
->Als u een nieuwe (er) gebruiker van Marketo Engage bent en niet vertrouwd met veel van de termijnen, gelieve de [&#x200B; Verklarende woordenlijst van Marketo Engage &#x200B;](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"} te controleren.
+>Als u een nieuwe (er) gebruiker van Marketo Engage bent en niet vertrouwd met veel van de termijnen, gelieve de [ Verklarende woordenlijst van Marketo Engage ](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md){target="_blank"} te controleren.
 
 ## Adobe Identity Management {#adobe-identity-management}
 
 >[!NOTE]
 >
->Dit is slechts van toepassing op de abonnementen van Marketo Engage die aan [&#x200B; het Systeem van Identity Management van Adobe (IMS) &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} worden bezet. Als uw abonnement Adobe IMS nog niet heeft betreden, ga met de [&#x200B; erfenisgebruikersrollen en toestemmingenervaring &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Gebruikers &amp; Roles te werk.
+>Dit is slechts van toepassing op de abonnementen van Marketo Engage die aan [ het Systeem van Identity Management van Adobe (IMS) ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} worden bezet. Als uw abonnement Adobe IMS nog niet heeft betreden, ga met de [ erfenisgebruikersrollen en toestemmingenervaring ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Admin > Gebruikers &amp; Roles te werk.
 
 <table>
  <tbody>
@@ -33,7 +33,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   <tr>
    <td>Abonnement en Marketo Engage-productbeheerder</td>
    <td><li>Is uw Marketo Engage abonnement gemigreerd aan <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank"> IMS van Adobe </a> nog?
-<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/nl/contact.html" target="_blank"> de Zorg van de Klant van Adobe </a>.</li>
+<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank"> de Zorg van de Klant van Adobe </a>.</li>
 <li>Heb je de uitnodiging voor 'Marketo Engage Product Admin' geaccepteerd? De e-mail wordt verzonden wanneer de rol in de Adobe Admin Console wordt toegewezen.
 <br/>     Als niet, zoek <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank"> welkome e-mail </a> in uw inbox en keur de uitnodiging goed om uw Adobe ID te activeren.</li></td>
   </tr>
@@ -69,7 +69,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 <li>Heeft uw bedrijf beleid om gebruikers te schrappen?</li>
 <li>Hoeveel gebruikers hebben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank"> toestemmingen Admin </a>?</li>
 <li>Zou om het even welk van die gebruikers in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank"> andere rollen moeten worden veranderd?</a></li>
-<li>Wie zijn de <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank"> API gebruikers </a> in deze instantie?</li></td>
+</td>
   </tr>
   <tr>
    <td>Rollen</td>
@@ -99,7 +99,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
  </tbody>
 </table>
 
-## Audittrail {#audit-trail}
+## Audit Trail {#audit-trail}
 
 <table style="table-layout:auto">
  <tbody>
@@ -108,7 +108,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <th>Focus controleren</th>
   </tr>
   <tr>
-   <td>Audittrail</td>
+   <td>Audit Trail</td>
    <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank"> Who werkt </a> in de instantie?</li></td>
   </tr>
  </tbody>
@@ -281,7 +281,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td>Munchkin</td>
    <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank"> het volgen van Munchkin code </a> op uw website (niet een Marketo Engage het Bestaan Pagina)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank"> </a> toegelaten Browser van het Spoor niet Verzoek?</li>
-<li>Is uw <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank"> Munchkin API </a> gevormd?
+<li>Is uw <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank"> Munchkin API </a> gevormd?
 <p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Als u documentatie mist waar de munchkin code op uw website is, kunt u alle URLs bekijken door het Rapport van de Activiteit van de Pagina van het a <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank"> te creëren </a>.</li></td>
   </tr>
   <tr>
@@ -293,7 +293,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (indien van toepassing)</td>
-<td>Na de stappen hieronder zullen toegang tot <a href="https://adminconsole.adobe.com/" target="_blank"> Adobe Admin Console </a> vereisen. Als u opstelling nog geen Adobe ID hebt, <a href="https://helpx.adobe.com/nl/manage-account/using/create-update-adobe-id.html" target="_blank"> leren hoe te om dat hier </a> te doen.
+<td>Na de stappen hieronder zullen toegang tot <a href="https://adminconsole.adobe.com/" target="_blank"> Adobe Admin Console </a> vereisen. Als u opstelling nog geen Adobe ID hebt, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank"> leren hoe te om dat hier </a> te doen.
 <br/>
 <li>Hebt u <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank"> Admin van het Product van Dynamic Chat </a> Uitnodiging goedgekeurd? Het e-mailbericht wordt verzonden wanneer Dynamic Chat in uw Marketo Engage-exemplaar is ingeschakeld en u bent aangewezen als System Admin.
 <br/>     Als dat niet het geval is, zoekt u de welkomste-mail in uw Postvak IN en accepteert u de uitnodiging om uw Adobe ID in te stellen.</li>
