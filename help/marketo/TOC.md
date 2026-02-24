@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 5cf293a02d1e8c87a14c9077bef31c98e1694449
+source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
 workflow-type: tm+mt
-source-wordcount: '9341'
+source-wordcount: '9336'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 1%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Helpcentrum](getting-started/things-to-know/help-center.md)
@@ -233,7 +233,6 @@ ht-degree: 1%
          + [Tagwaarden beheren](product-docs/administration/tags/managing-tag-values.md)
       + Gebruikers en rollen {#users-and-roles}
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
-         + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-mailverificatie](product-docs/administration/users-and-roles/email-verification.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
