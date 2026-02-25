@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
+source-git-commit: bf420edcc79aa551e286302fa002df9162371873
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9329'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 1%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage-woordenlijst ](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
       + [Helpcentrum](getting-started/things-to-know/help-center.md)
@@ -1113,7 +1113,6 @@ ht-degree: 1%
             + [E-mailsjabloonsyntaxis](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [Overschakelen naar e-maileditor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + Functies in de Editor {#functions-in-the-editor}
-            + [Doorsturen naar een vriendenkoppeling in e-mails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [Een agendagebeurtenis (.ics) opnemen in een e-mail](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [Een e-mail operationeel maken](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
             + [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
