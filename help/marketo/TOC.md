@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
 workflow-type: tm+mt
 source-wordcount: '9334'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
       + [Verklarende woordenlijst met klassieke pictogrammen](getting-started/things-to-know/classic-icon-glossary.md)
       + [Help Center](getting-started/things-to-know/help-center.md)
-      + [Abonneren op systeemstatusmeldingen](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
+      + [Abonneren op systeemstatusmeldingen](getting-started/things-to-know/system-status-notifications.md)
       + [AI-assistent voor productkennis](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Marketing Community](getting-started/things-to-know/community.md)
    + Quick Wins {#quick-wins}
