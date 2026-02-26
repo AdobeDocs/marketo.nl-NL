@@ -4,7 +4,7 @@ title: Abonneren op systeemstatusmeldingen
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -31,9 +31,9 @@ INTRO TEXT
 
    ![](assets/subscribe-to-system-status-notifications-2.png)
 
-Op het _gebied van het centrum van 0&rbrace; Gegevens, zijn de brieven het gegevenscentrum en de aantallen zijn de peul._ In het bovenstaande voorbeeld bevindt de gebruiker zich in ons Ashburn-datacenter op pod 49.
+Op het _gebied van het centrum van 0} Gegevens, zijn de brieven het gegevenscentrum en de aantallen zijn de peul._ In het bovenstaande voorbeeld bevindt de gebruiker zich in ons Ashburn-datacenter op pod 49.
 
-In stap 7 van [&#x200B; creërend een abonnement &#x200B;](#create-a-subscription), zou deze gebruiker de regionale plaats **Marketo Ashburn** en peul **ab49** selecteren.
+In stap 7 van [ creërend een abonnement ](#create-a-subscription), zou deze gebruiker de regionale plaats **Marketo Ashburn** en peul **ab49** selecteren.
 
 <table style="width:225px;">
   <tr>
@@ -69,9 +69,9 @@ In stap 7 van [&#x200B; creërend een abonnement &#x200B;](#create-a-subscriptio
 
 ## Abonnement maken {#create-a-subscription}
 
-Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify), volg de stappen hieronder om een abonnement tot stand te brengen.
+Na [ identificerend uw gegevenscentrum en pod/server ](#identify), volg de stappen hieronder om een abonnement tot stand te brengen.
 
-1. Op [&#x200B; status.adobe.com &#x200B;](https://status.adobe.com), klik **leiden Abonnementen**.
+1. Op [ status.adobe.com ](https://status.adobe.com), klik **leiden Abonnementen**.
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
@@ -83,9 +83,9 @@ Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. Klik het ![&#x200B; plusteken pictogram &#x200B;](assets/icon-plus-sign.png) pictogram naast _Experience Cloud_ om het menu uit te breiden. Doe het zelfde voor _Adobe Marketo Engage_.
+1. Klik het ![ plusteken pictogram ](assets/icon-plus-sign.png) pictogram naast _Experience Cloud_ om het menu uit te breiden. Doe het zelfde voor _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
 1. Selecteer het gewenste productdienstenaanbod/de diensten u berichten over wilt ontvangen en **blijven** klikken.
 
@@ -93,7 +93,7 @@ Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify
    >
    >Controle _Adobe Marketo Engage_ om allen te selecteren.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. Selecteer de gewenste gebeurtenistypen.
 
@@ -120,7 +120,7 @@ Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify
 
 1. Selecteer de gewenste locatie en omgeving. Klik **verdergaan**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. Kies uw abonnementsvoorkeur, **E-mail** of **Slack**, en klik **verdergaan**.
 
