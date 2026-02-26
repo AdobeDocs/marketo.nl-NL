@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
 workflow-type: tm+mt
-source-wordcount: '9329'
-ht-degree: 1%
+source-wordcount: '9334'
+ht-degree: 0%
 
 ---
 
@@ -29,12 +29,13 @@ ht-degree: 1%
       + [Aanbevolen werkwijzen voor nieuwe instanties: Analytics Checklist](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Aanbevolen werkwijzen voor nieuwe instanties: uw instellingen documenteren](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Informatie over dingen {#things-to-know}
-      + [Marketo Engage-woordenlijst &#x200B;](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Marketo Engage glossary](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Woordenlijst met pictogrammen](getting-started/things-to-know/icon-glossary.md)
-      + [Verklarende woordenlijst Klassiek pictogram](getting-started/things-to-know/classic-icon-glossary.md)
-      + [Helpcentrum](getting-started/things-to-know/help-center.md)
+      + [Verklarende woordenlijst met klassieke pictogrammen](getting-started/things-to-know/classic-icon-glossary.md)
+      + [Help Center](getting-started/things-to-know/help-center.md)
+      + [Abonneren op systeemstatusmeldingen](getting-started/things-to-know/subscribe-to-system-status-notifications.md)
       + [AI-assistent voor productkennis](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + [Marketing Nation Community](getting-started/things-to-know/community.md)
+      + [Marketing Community](getting-started/things-to-know/community.md)
    + Quick Wins {#quick-wins}
       + [Instellen en een persoon toevoegen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [E-mail verzenden](getting-started/quick-wins/send-an-email.md)
