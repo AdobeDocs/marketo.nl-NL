@@ -5,16 +5,16 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
+source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
 # Abonneren op systeemstatusmeldingen {#subscribe-to-system-status-notifications}
 
-INTRO TEXT
+Leer hoe u zich kunt abonneren op verschillende statusmeldingen om up-to-date te blijven op actuele problemen.
 
 >[!PREREQUISITES]
 >
@@ -32,9 +32,9 @@ INTRO TEXT
 
    ![](assets/subscribe-to-system-status-notifications-2.png)
 
-Op het _gebied van het centrum van 0&rbrace; Gegevens, zijn de brieven het gegevenscentrum en de aantallen zijn de peul._ In het bovenstaande voorbeeld bevindt de gebruiker zich in ons Ashburn-datacenter op pod 49.
+Op het _gebied van het centrum van 0} Gegevens, zijn de brieven het gegevenscentrum en de aantallen zijn de peul._ In het bovenstaande voorbeeld bevindt de gebruiker zich in ons Ashburn-datacenter op pod 49.
 
-In stap 7 van [&#x200B; creërend een abonnement &#x200B;](#create-a-subscription), zou deze gebruiker de regionale plaats **Marketo Ashburn** en peul **ab49** selecteren.
+In stap 7 van [ creërend een abonnement ](#create-a-subscription), zou deze gebruiker de regionale plaats **Marketo Ashburn** en peul **ab49** selecteren.
 
 <table style="width:300px;">
   <tr>
@@ -70,9 +70,9 @@ In stap 7 van [&#x200B; creërend een abonnement &#x200B;](#create-a-subscriptio
 
 ## Abonnement maken {#create-a-subscription}
 
-Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify), volg de stappen hieronder om een abonnement tot stand te brengen.
+Na [ identificerend uw gegevenscentrum en pod/server ](#identify), volg de stappen hieronder om een abonnement tot stand te brengen.
 
-1. Op [&#x200B; status.adobe.com &#x200B;](https://status.adobe.com), klik **leiden Abonnementen**.
+1. Op [ status.adobe.com ](https://status.adobe.com), klik **leiden Abonnementen**.
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
@@ -84,11 +84,11 @@ Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. Klik het ![&#x200B; plusteken pictogram &#x200B;](assets/icon-plus-sign.png) pictogram naast _Experience Cloud_ om het menu uit te breiden. Doe het zelfde voor _Adobe Marketo Engage_.
+1. Klik het ![ plusteken pictogram ](assets/icon-plus-sign.png) pictogram naast _Experience Cloud_ om het menu uit te breiden. Doe het zelfde voor _Adobe Marketo Engage_.
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. Selecteer het gewenste productdienstenaanbod/de diensten u berichten over wilt ontvangen en **blijven** klikken.
+1. Selecteer het productdienstenaanbod/de diensten u berichten over wilt ontvangen en **blijven** klikken.
 
    >[!TIP]
    >
@@ -100,28 +100,32 @@ Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
-   <table style="width:600px;">
+   <table style="width:500px;">
    <tr>
-   <td style="width:40%;"><b>Probleem met grote service</b></td>
+   <td style="width:35%;"><b>Probleem met grote service</b></td>
    <td>De onbeschikbaarheid van de dienst of ernstige prestatiesvermindering voor veelvoudige gebruikers op productiesystemen.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Probleem met kleine service</b></td>
+   <td style="width:35%;"><b>Probleem met kleine service</b></td>
    <td>Onbeschikbaarheid van de gedeeltelijke dienst of matige prestatiesvermindering voor veelvoudige gebruikers op productiesystemen.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Onderhoud van service</b></td>
-   <td>Tekst</td>
+   <td style="width:35%;"><b>Onderhoud van service</b></td>
+   <td>Geplande vensters om productonderhoud uit te voeren dat de beschikbaarheid of prestaties van het product kan beïnvloeden.</td>
    </tr>
    <tr>
-   <td style="width:40%;"><b>Aankondigingen</b></td>
-   <td>Aankondigingen met betrekking tot..</td>
+   <td style="width:35%;"><b>Aankondigingen</b></td>
+   <td>Wereldwijde berichten, productfamilies of productgerelateerde berichten die een grote impact hebben.</td>
    </tr>
    </table>
 
-1. Selecteer de gewenste locatie en omgeving. Klik **verdergaan**.
+1. Selecteer de regionale locatie en de omgeving. Klik **verdergaan**.
 
    ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
+
+   >[!NOTE]
+   >
+   >Als u hebt gemist waar te om dit te vinden, zie [ uw gegevenscentrum ](#identify) identificeren.
 
 1. Kies uw abonnementsvoorkeur, **E-mail** of **Slack**, en klik **verdergaan**.
 
