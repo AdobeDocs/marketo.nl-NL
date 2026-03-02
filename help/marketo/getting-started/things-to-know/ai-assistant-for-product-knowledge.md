@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -20,24 +20,24 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
 
 ## De assistent gebruiken {#use-the-assistant}
 
-1. Login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experience.adobe.com/).
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experience.adobe.com/).
 
 1. Selecteer het AI hulppictogram op de rechterkant van de kopbal.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-1.png)
 
 1. Ga de gewenste herinnering in gebruikend natuurlijke taal.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-2.png)
 
 1. Klik op de blauwe pijl om de vraag te verzenden.
 
-   SCREENSHOT
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >Gebruik dit pictogram (pictogramafbeelding hier) om het scherm uit te vouwen en dit pictogram (pictogramafbeelding hier) om uw geschiedenis weer te geven of een nieuw gesprek te starten.
+   >Gebruik dit pictogram ![](assets/icon-arrows.png) om het scherm uit te vouwen, en dit pictogram ![](assets/icon-conversation-history.png) om uw geschiedenis te bekijken of een nieuw gesprek te beginnen.
 
 ## Snel starten: video-overzicht van 60 seconden {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480121?captions=dut&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
