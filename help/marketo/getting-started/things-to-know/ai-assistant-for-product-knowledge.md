@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
 
 ## De assistent gebruiken {#use-the-assistant}
 
-1. Login aan Marketo Engage via [&#x200B; Adobe Experience Cloud &#x200B;](https://experience.adobe.com/).
+1. Login aan Marketo Engage via [ Adobe Experience Cloud ](https://experience.adobe.com/).
 
 1. Selecteer het AI hulppictogram op de rechterkant van de kopbal.
 
@@ -38,6 +38,8 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
    >
    >Gebruik dit pictogram ![](assets/icon-arrows.png) om het scherm uit te vouwen, en dit pictogram ![](assets/icon-conversation-history.png) om uw geschiedenis te bekijken of een nieuw gesprek te beginnen.
 
-## Snel starten: video-overzicht van 60 seconden {#video}
+## Snel starten: video-overzicht {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480121?captions=dut&learn=on){transcript=true}
+Bekijk in ongeveer een minuut hoe de AI Assistant voor productkennis werkt.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
