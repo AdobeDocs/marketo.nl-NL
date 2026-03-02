@@ -42,4 +42,4 @@ Met de Medewerker van de Kennis van het Product AI, bewegen uw teams zich snelle
 
 Bekijk in ongeveer een minuut hoe de AI Assistant voor productkennis werkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480121?captions=dut&learn=on){transcript=true}
