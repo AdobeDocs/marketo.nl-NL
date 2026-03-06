@@ -39,7 +39,7 @@ Gebruikers met alleen Marketo Engage API moeten in Marketo Engage worden gemaakt
 
 ## Gebruikers toevoegen via CSV {#add-users-via-csv}
 
-[&#x200B; de Invoer a CSV &#x200B;](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[&#x200B; de Invoer a CSV &#x200B;](https://helpx.adobe.com/nl/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Aanmelden door gebruiker {#user-sign-in}
 
