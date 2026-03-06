@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360185
-description: Wijzig uw wachtwoordbeveiligingsinstellingen - Marketo Docs - Productdocumentatie
+description: Hoe te om het beleid van het abonnementswachtwoord, met inbegrip van malplaatjes, afloop, en inactieve zittingsonderbreking te plaatsen.
 title: Beveiligingsinstellingen voor wachtwoord wijzigen
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

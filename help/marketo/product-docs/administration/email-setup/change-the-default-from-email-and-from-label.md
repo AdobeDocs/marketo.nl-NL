@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360247
-description: De standaardinstelling wijzigen vanuit e-mail en vanuit Label - Marketo Docs - Productdocumentatie
+description: Stel de standaardwaarden bij E-mail en bij Label in voor nieuwe e-mailberichten als Admin-gebruiker.
 title: De standaardinstelling wijzigen van e-mail en van label
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 1%
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
 

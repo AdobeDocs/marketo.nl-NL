@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378041
-description: Een brandingdomein verwijderen - Marketo Docs - Productdocumentatie
+description: Verwijder een brandingdomein uit de tabel E-mailbeheer (stel eerst een andere primaire waarde in als u de primaire code verwijdert).
 title: Een brandingdomein verwijderen
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '66'
 ht-degree: 1%
 
 ---

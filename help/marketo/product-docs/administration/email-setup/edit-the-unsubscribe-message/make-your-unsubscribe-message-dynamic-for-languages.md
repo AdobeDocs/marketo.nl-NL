@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848782
-description: Je abonnement voor talen dynamisch maken - Marketo Docs - Productdocumentatie
+description: Gebruik dynamische inhoud en segmentatie om het afmeldingsbericht en de koppeling in verschillende talen weer te geven.
 title: Bericht voor opzeggen dynamisch maken voor talen
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '438'
 ht-degree: 2%
 
 ---
@@ -21,11 +21,11 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
 ## Uw gegevens voorbereiden {#prepare-your-data}
 
-1. [&#x200B; creeer een douanegebied &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) genoemd &quot;Voorkeur Taal.&quot; (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
+1. [ creeer een douanegebied ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) genoemd &quot;Voorkeur Taal.&quot; (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
 
    >[!TIP]
    >
-   >In de toekomst, gebruik dit gebied wanneer u [&#x200B; een vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) creeert om taalvoorkeur te vangen.
+   >In de toekomst, gebruik dit gebied wanneer u [ een vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) creeert om taalvoorkeur te vangen.
 
 ## Segmentatie maken {#create-segmentation}
 
@@ -163,4 +163,4 @@ Als u wilt dat de mensen naar een pagina komen die hun abonnement opzegt in de t
 
    >[!NOTE]
    >
-   >Leer meer over [&#x200B; dynamische inhoud &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en al koel materiaal u kunt doen.
+   >Leer meer over [ dynamische inhoud ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en al koel materiaal u kunt doen.

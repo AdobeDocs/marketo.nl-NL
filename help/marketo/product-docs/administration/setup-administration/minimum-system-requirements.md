@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359900
-description: Minimale systeemvereisten - Marketo
+description: Hardware- en softwarevereisten voor het gebruik van Marketo Engage, zoals het besturingssysteem, de weergaveresolutie, de browser en de details van de lijst van gewenste personen van het netwerk.
 title: Minimale systeemvereisten
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Als je je afvraagt wat je nodig hebt om je aan te melden en Marketo Engage te ge
 * Computer of laptop met [!DNL Windows], Mac OS X (of hoger) of Linux
 * Toetsenbord en muis
 * Monitor met een minimale resolutie van 1.280 x 768
-* Up-to-date browser, zie [&#x200B; Ondersteunde Browsers &#x200B;](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} voor details
+* Up-to-date browser, zie [ Ondersteunde Browsers ](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} voor details
 * Internetverbinding
 
 >[!NOTE]

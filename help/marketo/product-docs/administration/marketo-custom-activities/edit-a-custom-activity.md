@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100269
-description: Een aangepaste activiteit bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een aangepaste activiteit kunt bewerken en hoe concept- of gepubliceerde status wordt beïnvloed.
 title: Een aangepaste activiteit bewerken
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 

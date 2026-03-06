@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: Een programmakanaal verbergen/verbergen - Marketo Docs - Productdocumentatie
+description: Stappen om een programmakanaal te verbergen wanneer het in gebruik is of unhide het gebruikend tonen Verborgen checkbox.
 title: Een programmakanaal verbergen/verbergen
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Vereiste Bevoegdheden Admin**
 
-U kunt [&#x200B; een programmakanaal &#x200B;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als het niet door om het even welke programma&#39;s wordt gebruikt.  Maar als het eenmaal wordt gebruikt, moeten we het rond houden.  U kunt de component echter verbergen als u deze niet meer nodig hebt.
+U kunt [ een programmakanaal ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als het niet door om het even welke programma&#39;s wordt gebruikt.  Maar als het eenmaal wordt gebruikt, moeten we het rond houden.  U kunt de component echter verbergen als u deze niet meer nodig hebt.
 
 ## Programmakanaal verbergen {#hide-a-program-channel}
 

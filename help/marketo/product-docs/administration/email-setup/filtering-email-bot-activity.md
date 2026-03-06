@@ -1,11 +1,11 @@
 ---
-description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdocumentatie
+description: Filter of log de activiteit van de e-mailbot om opgeblazen te verhinderen opent en klikt het gebruiken van IAB lijst aanpassing en nabijheidspatronen.
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Soms kan e-mailactiviteit je e-mail abusievelijk opblazen en op gegevens klikken
 
 We gebruiken twee verschillende methoden om beide activiteiten te bevestigen:
 
-* De gelijke met [&#x200B; Interactieve de botLijst van het Bureau van Advertising &#x200B;](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
+* De gelijke met [ Interactieve de botLijst van het Bureau van Advertising ](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
 * Overeenkomst met nabijheidspatroon: wanneer twee of meer activiteiten tegelijkertijd plaatsvinden (in minder dan een seconde), worden ze geïdentificeerd als bots. Kenmerken die in aanmerking worden genomen tijdens de vergelijking zijn:
    * ID lead (moet hetzelfde zijn)
    * E-mailmiddel (moet hetzelfde zijn)

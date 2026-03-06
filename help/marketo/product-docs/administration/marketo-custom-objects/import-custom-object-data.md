@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099680
-description: Aangepaste objectgegevens importeren - Marketo Docs - Productdocumentatie
+description: Stappen voor het importeren van aangepaste objectgegevens met behulp van een CSV-bestand, waaronder het selecteren van het aangepaste object, de deduplicatiemodus en de veldtoewijzing.
 title: Aangepaste objectgegevens importeren
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '224'
 ht-degree: 1%
 
 ---
 
 # Aangepaste objectgegevens importeren {#import-custom-object-data}
 
-Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren. Als u douanevoorwerpen met bedrijven gebruikt, zie [&#x200B; Gebruikend de Voorwerpen van de Douane met Bedrijven &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) voor meer informatie.
+Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren. Als u douanevoorwerpen met bedrijven gebruikt, zie [ Gebruikend de Voorwerpen van de Douane met Bedrijven ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) voor meer informatie.
 
 1. Ga in Mijn Marketo naar **[!UICONTROL Database]** .
 
@@ -71,4 +71,4 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend de douanevoorwerpen van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

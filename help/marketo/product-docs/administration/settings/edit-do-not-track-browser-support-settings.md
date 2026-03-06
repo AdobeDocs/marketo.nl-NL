@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6095047
-description: Browserondersteuningsinstellingen voor "Niet bijhouden" bewerken - Marketo Docs - Productdocumentatie
+description: Hoe te om browser te respecteren of te negeren volg verzoek niet door Persoon het Volgen uit te geven.
 title: Browserondersteuningsinstellingen "Niet bijhouden" bewerken
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
@@ -49,4 +49,4 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Meer over &quot;volg&quot;niet leren en hoe het werkt, gelieve [&#x200B; deze pagina &#x200B;](https://en.wikipedia.org/wiki/Do_Not_Track) te bezoeken.
+   >Meer over &quot;volg&quot;niet leren en hoe het werkt, gelieve [ deze pagina ](https://en.wikipedia.org/wiki/Do_Not_Track) te bezoeken.

@@ -1,11 +1,11 @@
 ---
-description: Een productbeheerder toevoegen of verwijderen - Marketo Docs - Productdocumentatie
+description: Stappen voor het toevoegen of verwijderen van productbeheerders in de Adobe Admin Console.
 title: Een productbeheerder toevoegen of verwijderen
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Admins van het 0&rbrace; Systeem &lbrace;wordt slechts gecreeerd op het niveau van Adobe Org.** Als u denkt u meer dan één nodig hebt, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+>**Admins van het 0} Systeem {wordt slechts gecreeerd op het niveau van Adobe Org.** Als u denkt u meer dan één nodig hebt, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
 
 ## Een productbeheerder toevoegen {#add-a-product-admin}
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Er moet een beheerder aan een productprofiel worden toegevoegd om toegang tot Marketo Engage te krijgen.
 
-1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -70,7 +70,7 @@ De gebruiker ontvangt dan twee e-mails. In de eerste e-mail worden ze op de hoog
 
 ## Admin verwijderen {#remove-a-user}
 
-1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 

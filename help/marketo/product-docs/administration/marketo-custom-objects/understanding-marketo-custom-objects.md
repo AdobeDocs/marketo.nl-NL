@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: Marketo Custom Objects - Marketo Docs - Productdocumentatie
+description: Overzicht van douanevoorwerpen voor het volgen van zaken-specifieke metriek, met inbegrip van één-aan-vele en vele-aan-vele verhoudingen, filters, trekkers, en waar te om tot hen in Admin toegang te hebben.
 title: Aangepaste Marketo-objecten
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -99,13 +99,13 @@ Als u veelvoudige mensen in Marketo hebt die verslagen in CRM of Marketo-slechts
 
 Aangepaste objecten kunnen alleen rechtstreeks aan één record worden gekoppeld. Dit betekent dat wanneer uw type van douaneobjecten door bedrijfgebied wordt verbonden, u zou moeten ervoor zorgen dat uw persoonverslagen aan een bedrijf of gebruikend contactomzetting in uw CRM worden geassocieerd, of gebruikend het externalCompanyId gebied, als u bedrijven beheert die REST APIs van Marketo gebruiken. Voor persoonrecords die niet expliciet aan bedrijfsrecords zijn gekoppeld, worden aangepaste objecten die met bedrijf zijn gekoppeld, willekeurig gekoppeld aan één record, zelfs als de waarde van het bedrijfsveld door veel personen wordt gedeeld.
 
-Zie [&#x200B; de Gegevens van de Objecten van de Douane van de Invoer &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie.
+Zie [ de Gegevens van de Objecten van de Douane van de Invoer ](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer de Douane Objecten van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
->* [&#x200B; keur een Voorwerp van de Douane &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md) goed
->* [&#x200B; geef uit en schrap een Voorwerp van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [&#x200B; voeg de Gebieden van de Objecten van Marketo toe &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [&#x200B; geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit
->* [&#x200B; de Gegevens van de Objecten van de Invoer van de Douane &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
+>* [ creeer de Douane Objecten van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [ keur een Voorwerp van de Douane ](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md) goed
+>* [ geef uit en schrap een Voorwerp van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [ geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit
+>* [ de Gegevens van de Objecten van de Invoer van de Douane ](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)

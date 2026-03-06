@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360222
-description: Communicatielimieten inschakelen - Marketo Docs - Productdocumentatie
+description: Stel de e-maillimieten per dag en per dag in op 7 dagen om overcommunicatie met uw mensen te voorkomen.
 title: Communicatielimieten inschakelen
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,7 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 
    >[!NOTE]
    >
-   >Leer meer over wat [&#x200B; operationele e-mails &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) zijn.
+   >Leer meer over wat [ operationele e-mails ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) zijn.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -71,4 +71,4 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 
 >[!MORELIKETHIS]
 >
->[&#x200B; pas Communicatie Limieten op  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) toe
+>[ pas Communicatie Limieten op  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) toe

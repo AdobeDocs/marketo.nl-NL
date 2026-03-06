@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359904
-description: Selecteer uw taal, landinstelling en tijdzone - Marketo Docs - Productdocumentatie
+description: Leer hoe u uw taal, landinstelling en tijdzone wijzigt.
 title: Taal, landinstelling en tijdzone selecteren
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Engels niet uw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hieronder 
 
 >[!IMPORTANT]
 >
->Als uw Marketo Engage abonnement aan [&#x200B; Marketo met de Identiteit van Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, slechts [&#x200B; tijdzone &#x200B;](#change-your-time-zone) in dit artikel is op u van toepassing. Om uw taal en/of scène te veranderen, moeten die montages in uw [&#x200B; de rekeningsprofiel van Adobe &#x200B;](https://account.adobe.com/profile){target="_blank"} worden betreden.
+>Als uw Marketo Engage abonnement aan [ Marketo met de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} is gemigreerd, slechts [ tijdzone ](#change-your-time-zone) in dit artikel is op u van toepassing. Om uw taal en/of scène te veranderen, moeten die montages in uw [ de rekeningsprofiel van Adobe ](https://account.adobe.com/profile){target="_blank"} worden betreden.
 
 ## Ondersteunde talen {#supported-languages}
 

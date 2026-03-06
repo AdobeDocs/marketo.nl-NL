@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: Voeg  [!DNL Munchkin]  het Volgen Code aan Uw Website toe - de Documentatie van Marketo - de Documentatie van het Product
+description: Voeg Marketo  [!DNL Munchkin]  JavaScript aan uw plaats toe om bezoeken te volgen en web-based campagnes toe te laten.
 title: Voeg  [!DNL Munchkin]  het Volgen Code aan Uw Website toe
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 0%
+source-wordcount: '636'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo houdt aangepaste JavaScript-trackingcode, [!DNL Munchkin] genaamd, bij w
 
 >[!NOTE]
 >
->De gebruikers van Adobe Experience Cloud kunnen de [&#x200B; integratie van Marketo in de Lancering van Adobe &#x200B;](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} ook gebruiken om [!DNL Munchkin] manuscript op hun Web-pagina&#39;s te omvatten. Als u de Lancering van Adobe gebruikt, _wordt het [!DNL Munchkin] manuscript automatisch toegevoegd_, zodat zou u het niet zelf hoeven toe te voegen.
+>De gebruikers van Adobe Experience Cloud kunnen de [ integratie van Marketo in de Lancering van Adobe ](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} ook gebruiken om [!DNL Munchkin] manuscript op hun Web-pagina&#39;s te omvatten. Als u de Lancering van Adobe gebruikt, _wordt het [!DNL Munchkin] manuscript automatisch toegevoegd_, zodat zou u het niet zelf hoeven toe te voegen.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -39,7 +39,7 @@ Marketo houdt aangepaste JavaScript-trackingcode, [!DNL Munchkin] genaamd, bij w
 
    >[!NOTE]
    >
-   >In bijna alle gevallen moet u de asynchrone code gebruiken. [&#x200B; leer meer &#x200B;](#types-of-munchkin-tracking-codes).
+   >In bijna alle gevallen moet u de asynchrone code gebruiken. [Meer info](#types-of-munchkin-tracking-codes).
 
 1. Klik en kopieer de Javascript-code die u op uw website wilt plaatsen.
 
@@ -59,7 +59,7 @@ Marketo houdt aangepaste JavaScript-trackingcode, [!DNL Munchkin] genaamd, bij w
 
    >[!TIP]
    >
-   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [&#x200B; leer meer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [Meer info](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Trackingcode toevoegen bij gebruik van meerdere werkruimten {#add-tracking-code-when-using-multiple-workspaces}
 

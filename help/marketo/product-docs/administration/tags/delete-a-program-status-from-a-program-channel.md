@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360278
-description: Een programmastatus verwijderen uit een programmakanaal - Marketo Docs - Productdocumentatie
+description: Hoe te om een programmastatus uit een kanaal in Admin onder Markeringen te verwijderen, met inbegrip van wanneer u een status moet verbergen in plaats van het te schrappen.
 title: De status van een programma verwijderen uit een programmakanaal
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ De status van het programma is de controlepunten door een programmaweg (kanaal).
    >
    >Als iemand momenteel aan de desbetreffende status is toegewezen, kunt u deze niet verwijderen, maar kunt u deze wel verbergen.
 
-Echt waar! U kunt ook [&#x200B; een volledig kanaal &#x200B;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als u moet.
+Echt waar! U kunt ook [ een volledig kanaal ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als u moet.

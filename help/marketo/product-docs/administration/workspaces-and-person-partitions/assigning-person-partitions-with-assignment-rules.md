@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360327
-description: Personen partities toewijzen met toewijzingsregels - Marketo Docs - Productdocumentatie
+description: Hoe te de regels van de opstellingstaak om mensen van uw CRM in de correcte persoonverdelingen te leiden.
 title: Personen partities toewijzen met toewijzingsregels
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Partitie van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[ creeer een Partitie van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak om mensen die van uw CRM aan hun respectieve verdelingen worden gecreeerd te leiden.
 

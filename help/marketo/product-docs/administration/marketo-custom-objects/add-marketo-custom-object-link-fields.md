@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097613
-description: Aangepaste Marketo-objectkoppelingsvelden toevoegen - Marketo Docs - Productdocumentatie
+description: Hoe te om verbindingsgebieden toe te voegen om douanevoorwerpen met mensen of bedrijven voor één-aan-vele en vele-aan-vele structuren, met inbegrip van intermediair objecten gebruik te verbinden.
 title: Aangepaste Marketo-objectkoppelingsvelden toevoegen
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '664'
 ht-degree: 0%
 
 ---
@@ -134,7 +134,7 @@ De volgende stap bestaat uit het gebruik van deze aangepaste objecten in filters
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg de Gebieden van de Objecten van Marketo toe &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [&#x200B; geef uit en schrap een Voorwerp van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [&#x200B; Begrijpend de douanevoorwerpen van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
->* [&#x200B; geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit
+>* [ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [ geef uit en schrap een Voorwerp van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [ geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit

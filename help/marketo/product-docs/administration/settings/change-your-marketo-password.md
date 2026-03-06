@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359916
-description: Je Marketo-wachtwoord wijzigen - Marketo Docs - Productdocumentatie
+description: Stappen om uw Marketo-wachtwoord te wijzigen.
 title: Je Marketo-wachtwoord wijzigen
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '48'
 ht-degree: 4%
 
 ---

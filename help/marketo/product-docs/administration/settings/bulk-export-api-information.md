@@ -1,18 +1,18 @@
 ---
-description: Bulkexport-API-informatie - Marketo Docs - Productdocumentatie
+description: Hoe te om Bulk te controleren Extraheer API capaciteitsgebruik voor de laatste zeven dagen en wanneer de toewijzing terugstelt.
 title: Bulkexport-API-informatie
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
 
 # Bulkexport-API-informatie {#bulk-export-api-information}
 
-Leer hoe te te controleren hoeveel [&#x200B; Bulk API van het Extraheren &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} capaciteit door uw instantie van Marketo Engage in de afgelopen zeven dagen is opgenomen.
+Leer hoe te te controleren hoeveel [ Bulk API van het Extraheren ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} capaciteit door uw instantie van Marketo Engage in de afgelopen zeven dagen is opgenomen.
 
 >[!NOTE]
 >

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360274
-description: Tagwaarden beheren - Marketo-documenten - productdocumentatie
+description: Leer hoe u codewaarden voor programmatags toevoegt, verbergt en weergeeft, inclusief het selecteren van het type code en het gebruik van de optie Verborgen weergeven.
 title: Tagwaarden beheren
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # Tagwaarden beheren {#managing-tag-values}
 
-[&#x200B; de Markeringen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) worden gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
+[ de Markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) worden gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Nieuwe Markering van het Programma en de Waarden van de Markering &#x200B;](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[ creeer een Nieuwe Markering van het Programma en de Waarden van de Markering ](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Tagwaarden toevoegen {#adding-tag-values}
 

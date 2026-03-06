@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360344
-description: "Veldtoewijzingen weergeven tussen Marketo en [!DNL Salesforce] - Marketo Docs - Productdocumentatie"
-title: "Veldtoewijzingen weergeven tussen Marketo en [!DNL Salesforce]"
+description: Leer hoe te om te bekijken welke  [!DNL Salesforce]  gebieden aan de gebieden van Marketo in Beheer van het Gebied in kaart worden gebracht Admin.
+title: Veldtoewijzingen weergeven tussen Marketo en  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 1%
 
 ---
 
 # Veldtoewijzingen weergeven tussen Marketo en [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-Misschien wilt u weten welke [!DNL Salesforce] velden waaraan een specifiek Marketo-veld is gekoppeld. Dit is hoe je moet controleren.
+Mogelijk wilt u weten aan welke [!DNL Salesforce] -velden een specifiek Marketo-veld is gekoppeld. Dit is hoe je moet controleren.
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist**
+>**Vereiste Bevoegdheden Admin**
 
-1. Ga naar de **[!UICONTROL Admin]** gebied.
+1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
@@ -27,14 +27,14 @@ Misschien wilt u weten welke [!DNL Salesforce] velden waaraan een specifiek Mark
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
-1. Zoek het veld dat u wilt zien en klik op de knop **+** om de toewijzing uit te breiden.
+1. Zoek het gebied u in het zien geinteresseerd bent en klik **+** om de afbeelding uit te breiden.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 
 >[!NOTE]
 >
->Dit toont het [!DNL Salesforce] API-naam, geen labelnaam.
+>Hiermee wordt de API-naam [!DNL Salesforce] weergegeven, niet de labelnaam.
 
 >[!IMPORTANT]
 >
->De weergegeven velden bevatten alleen gegevens uit de eerste toewijzing. Ze worden niet bijgewerkt na de Marketo/[!DNL Salesforce] synchroniseren.
+>De weergegeven velden bevatten alleen gegevens uit de eerste toewijzing. Ze worden niet bijgewerkt na de synchronisatie Marketo/[!DNL Salesforce] .

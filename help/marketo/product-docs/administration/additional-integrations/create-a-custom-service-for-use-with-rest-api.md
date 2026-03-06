@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360350
-description: Een aangepaste service maken voor gebruik met de ReST API - Marketo Docs - Productdocumentatie
+description: Maak een aangepaste LaunchPoint-service die is gekoppeld aan een gebruiker met alleen een API voor integratie met de ReST API.
 title: Een aangepaste service maken voor gebruik met ReST API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,8 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een slechtsAPI Rol van de Gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [&#x200B; creeer een slechts Gebruiker API &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
+>* [ creeer een slechtsAPI Rol van de Gebruiker ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [ creeer een slechts Gebruiker API ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
 >
 
 >[!NOTE]
@@ -27,7 +27,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!TIP]
 >
->Controle uit onze ontwikkelaarsdocumentatie voor details op [&#x200B; REST API &#x200B;](https://developer.adobe.com/marketo-apis/). Wij hebben ook [&#x200B; SOAP API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
+>Controle uit onze ontwikkelaarsdocumentatie voor details op [ REST API ](https://developer.adobe.com/marketo-apis/). Wij hebben ook [ SOAP API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
 
 ## Aangepaste service maken {#create-custom-service}
 
@@ -43,7 +43,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Voer een **[!UICONTROL Display Name]** in voor de service. Selecteer **[!UICONTROL API Only User]** [&#x200B; eerder gecreeerd &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
+1. Voer een **[!UICONTROL Display Name]** in voor de service. Selecteer **[!UICONTROL API Only User]** [ eerder gecreeerd ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 

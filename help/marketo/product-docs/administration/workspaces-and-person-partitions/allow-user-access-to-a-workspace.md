@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360325
-description: Gebruikerstoegang tot een Workspace - Marketo Docs - Productdocumentatie toestaan
+description: Stappen om een gebruiker toegang tot één of meerdere werkruimten te verlenen.
 title: Gebruikerstoegang tot een Workspace toestaan
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De werkruimten kunnen om het even welke reden (zoals bedrijfseenheid of geografi
 
 >[!NOTE]
 >
->Leer meer over [&#x200B; werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Leer meer over [ werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

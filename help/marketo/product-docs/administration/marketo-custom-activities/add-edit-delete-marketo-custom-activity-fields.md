@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10100275
-description: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen - Marketo Docs - Productdocumentatie
+description: Velden op een aangepaste activiteit toevoegen, bewerken of verwijderen.
 title: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 2%
@@ -43,7 +43,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    >[!TIP]
    >
-   >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypes worden bepaald in [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypes worden bepaald in [ dit artikel ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Klik op **[!UICONTROL Save]** als u klaar bent.
 

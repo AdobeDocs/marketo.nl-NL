@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360360
-description: Een  [!DNL Webhook]  - Marketo-document maken - Productdocumentatie
+description: Creeer een webhaak in Admin om de diensten van het derdeWeb voor SMS, persoongegevens, en meer te roepen.
 title: Maken a [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -51,4 +51,4 @@ Gebruik [!DNL Webhooks] om gebruik te maken van externe webservices voor het ver
 
 >[!NOTE]
 >
->Leer meer in de [[!DNL Webhooks] &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} diepe duik.
+>Leer meer in de [[!DNL Webhooks] ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} diepe duik.

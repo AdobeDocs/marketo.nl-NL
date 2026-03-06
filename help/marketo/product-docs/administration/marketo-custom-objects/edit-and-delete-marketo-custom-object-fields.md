@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095453
-description: Marketo Custom Object Fields bewerken en verwijderen - Marketo Docs - Productdocumentatie
+description: Velden op een niet-goedgekeurd aangepast object bewerken of verwijderen met behulp van Veldhandelingen.
 title: Aangepaste Marketo-objectvelden bewerken en verwijderen
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -55,4 +55,4 @@ Het is weg!
 
 >[!NOTE]
 >
->[&#x200B; voeg de Gebieden van de Objecten van Marketo toe &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>[ voeg de Gebieden van de Objecten van Marketo toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)

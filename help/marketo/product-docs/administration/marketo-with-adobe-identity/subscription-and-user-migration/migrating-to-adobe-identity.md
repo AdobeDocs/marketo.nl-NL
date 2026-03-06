@@ -1,11 +1,11 @@
 ---
-description: Migreren naar Adobe Identity - Marketo Docs - Productdocumentatie
+description: Hoe u de migratieconsole gebruikt voor datumselectie vóór de migratie en migratie van gebruikers met zelfbediening wanneer uw abonnement overgaat naar Adobe Identity, inclusief SSO- en niet-SSO-stromen.
 title: Migreren naar Adobe-identiteit
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '2319'
+source-wordcount: '2337'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ Het tabblad Migratiestatus bevat algemene maatstaven voor de voortgang van de e-
 
 ![](assets/migrating-to-adobe-identity-7.png)
 
-Boven aan de Migratiestatus worden het verlopen van de abonnementmigratie en de knop voor het verlengen van de vervaldatum weergegeven. Meer informatie over migratieafloop kan in de [&#x200B; sectie van de Vervalsing van de Migratie van de Gebruiker worden gevonden &#x200B;](#user-migration-expiration).
+Boven aan de Migratiestatus worden het verlopen van de abonnementmigratie en de knop voor het verlengen van de vervaldatum weergegeven. Meer informatie over migratieafloop kan in de [ sectie van de Vervalsing van de Migratie van de Gebruiker worden gevonden ](#user-migration-expiration).
 
 In het volgende gedeelte van het tabblad Migratiestatus zijn er twee voortgangsbalken. In de eerste voortgangsbalk ziet u de voortgang van het voltooien van de e-mailverificatie van de gebruiker. In de tweede voortgangsbalk ziet u de voortgang van de voltooiing van de gebruikersmigratie.
 
@@ -89,7 +89,7 @@ In het gedeelte E-mailverificatie van gebruiker kan een beheerder de huidige sta
 
 Een beheerder kan de verificatiestatus van het abonnement, het percentage gebruikers in het abonnement dat de e-mailverificatie heeft voltooid, en het aantal gebruikers die zijn gemarkeerd als overgeslagen, weergeven. De status wordt gerapporteerd over de status van de e-mailverificatiestatus van alle gebruikers in het abonnement. De beheerder kan op het aantal overgeslagen gebruikers klikken en zal aan het lusje van de Migratie van de Gebruiker worden genavigeerd om de overgeslagen gebruikers te bekijken.
 
-De verificatie-e-mail kan opnieuw worden verzonden door een beheerder op het tabblad Gebruikersmigratie van de migratieconsole en het tabblad Gebruiker en rollen in het gebied Marketo Admin of door de gebruiker in de accountinstellingen. De koppeling in het verificatiebericht verloopt over 3 dagen, net als in e-mails met gebruikersuitnodigingen. Meer informatie over e-mailverificatie kan op de [&#x200B; Gemeenschap &#x200B;](https://nation.marketo.com/) en in de [&#x200B; documentatie van de e-mailverificatie &#x200B;](/help/marketo/product-docs/administration/users-and-roles/email-verification.md) worden gevonden.
+De verificatie-e-mail kan opnieuw worden verzonden door een beheerder op het tabblad Gebruikersmigratie van de migratieconsole en het tabblad Gebruiker en rollen in het gebied Marketo Admin of door de gebruiker in de accountinstellingen. De koppeling in het verificatiebericht verloopt over 3 dagen, net als in e-mails met gebruikersuitnodigingen. Meer informatie over e-mailverificatie kan op de [ Gemeenschap ](https://nation.marketo.com/) en in de [ documentatie van de e-mailverificatie ](/help/marketo/product-docs/administration/users-and-roles/email-verification.md) worden gevonden.
 
 >[!IMPORTANT]
 >
@@ -181,7 +181,7 @@ Marketo-productbeheerders kunnen gebruikers selecteren voor migratie in batches 
 
 Een beheerder kan bijvoorbeeld een groep &#39;machtsgebruikers&#39; selecteren die ze eerst willen migreren. Wanneer deze gebruikersmigraties zijn voltooid, kunnen ze verschillende groepen gebruikers selecteren op basis van variabelen zoals werkruimte/bedrijf of functie/rol om de migratie van gebruikers verder te beperken tot batchgebruikers. Of ze kunnen besluiten om de rest van de gebruikers in de abonnementen te migreren nadat de eerste batch is geslaagd. Het doel is om gebruikers de meeste flexibiliteit te bieden bij het implementeren van Adobe-id&#39;s.
 
-Alle gebruikersmigraties vinden gelijktijdig plaats en moeten binnen zestig seconden met succes worden voltooid. Terwijl de gebruikersmigratie voor een specifieke gebruiker plaatsvindt, zou de gebruiker toegang tot maximaal 1 minuut kunnen verliezen, en dat is slechts als de gebruiker in de toepassing wordt geregistreerd. Na voltooiing van de gebruikersmigratie ontvangt de gebruiker een e-mail over hoe hij zich bij Marketo Engage kan aanmelden met een Adobe-identiteit. De gebruiker moet de uitnodiging via de knoopverbinding in e-mail _goedkeuren alvorens_ zij binnen met een Adobe ID kunnen ondertekenen. De instructies op hoe te om in Marketo Engage met Adobe ID [&#x200B; te ondertekenen kunnen hier &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) worden gevonden.
+Alle gebruikersmigraties vinden gelijktijdig plaats en moeten binnen zestig seconden met succes worden voltooid. Terwijl de gebruikersmigratie voor een specifieke gebruiker plaatsvindt, zou de gebruiker toegang tot maximaal 1 minuut kunnen verliezen, en dat is slechts als de gebruiker in de toepassing wordt geregistreerd. Na voltooiing van de gebruikersmigratie ontvangt de gebruiker een e-mail over hoe hij zich bij Marketo Engage kan aanmelden met een Adobe-identiteit. De gebruiker moet de uitnodiging via de knoopverbinding in e-mail _goedkeuren alvorens_ zij binnen met een Adobe ID kunnen ondertekenen. De instructies op hoe te om in Marketo Engage met Adobe ID [ te ondertekenen kunnen hier ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md) worden gevonden.
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
@@ -227,6 +227,6 @@ Een beheerder kan alle in aanmerking komende gebruikers in een abonnement op elk
 
 ![](assets/migrating-to-adobe-identity-24.png)
 
-Op het klikken van de **Migreer Alle Gebruikers** knoop, zal de beheerder worden ertoe aangezet **&#x200B;**&#x200B;migratie van alle in aanmerking komende gebruikers bevestigen. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
+Op het klikken van de **Migreer Alle Gebruikers** knoop, zal de beheerder worden ertoe aangezet **** migratie van alle in aanmerking komende gebruikers bevestigen. Wanneer de beheerder dit bevestigt, worden de gebruikersmigraties zo snel mogelijk verwerkt.
 
 ![](assets/migrating-to-adobe-identity-25.png)

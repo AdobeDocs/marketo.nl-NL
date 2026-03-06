@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515767
-description: Segmenten delen op werkruimten en partities - Marketo Docs - Productdocumentatie
+description: Regels en stappen voor het delen van segmentaties tussen werkruimten en partities, inclusief limieten en tips voor het maken van segmentaties in de standaardwerkruimte.
 title: Segmenten delen over werkruimten en partities
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Marketo is geweldig in het uitkiezen van de juiste mensen voor een programma of 
 
 >[!NOTE]
 >
->Leer [&#x200B; hoe te om segmentaties &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) tot stand te brengen.
+>Leer [ hoe te om segmentaties ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) tot stand te brengen.
 
 Zodra u deze persoonlijkopstelling hebt (_en_ u werkruimten gebruikt), zult u hen over uw werkruimten willen delen. Hier zijn een paar goede dingen om te weten:
 

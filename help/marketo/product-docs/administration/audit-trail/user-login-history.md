@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377958
-description: Aanmeldingsgeschiedenis gebruiker - Marketo-documenten - Productdocumentatie
+description: Via Admin-gebruikers en rollen kunt u zien wie zich heeft aangemeld bij uw abonnement en wanneer, inclusief mislukte pogingen.
 title: Aanmeldingsgeschiedenis gebruiker
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -71,4 +71,4 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Overzicht van het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[ Overzicht van het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

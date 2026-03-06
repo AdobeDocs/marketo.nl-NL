@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360251
-description: Abonnement opzeggen - Marketo Docs - Productdocumentatie bewerken
+description: Wijzig de standaardtekst voor het afmelden van abonnementen en de koppelingen die worden toegevoegd aan e-mailberichten voor marketingdoeleinden in Admin E-mail.
 title: Bericht voor afmelden bewerken
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Vereiste Bevoegdheden Admin**
 
-Wanneer u marketing e-mails (niet - [&#x200B; operationeel &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) verzendt, unsubscribe tekst en de verbindingen worden toegevoegd aan de bodem. U kunt de standaardinstellingen wijzigen. Zo gaat het.
+Wanneer u marketing e-mails (niet - [ operationeel ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)) verzendt, unsubscribe tekst en de verbindingen worden toegevoegd aan de bodem. U kunt de standaardinstellingen wijzigen. Zo gaat het.
 
 ## Waar moet u de bewerking uitvoeren? {#where-to-make-the-edit}
 
@@ -44,7 +44,7 @@ Wanneer u marketing e-mails (niet - [&#x200B; operationeel &#x200B;](/help/marke
 
 >[!TIP]
 >
->U kunt de positie van unsubscribe HTML in uw e-mail aanpassen door [&#x200B; tokens &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) te gebruiken.
+>U kunt de positie van unsubscribe HTML in uw e-mail aanpassen door [ tokens ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) te gebruiken.
 
 ## Standaardtekst voor abonnement opzeggen {#default-unsubscribe-text}
 
@@ -56,4 +56,4 @@ Kopieer/plak het volgende als u ooit moet terugkeren naar het standaardsysteemab
 
 >[!MORELIKETHIS]
 >
->[&#x200B; geef het &quot;Mening uit als Web-pagina&quot;Bericht &#x200B;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
+>[ geef het &quot;Mening uit als Web-pagina&quot;Bericht ](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360281
-description: Een programmakanaal verwijderen - Marketo Docs - Productdocumentatie
+description: Stappen om een programmakanaal te verwijderen wanneer dit niet aan programma's is gekoppeld of om het te verbergen wanneer het in gebruik is.
 title: Een programmakanaal verwijderen
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '99'
 ht-degree: 1%
 
 ---
@@ -33,4 +33,4 @@ Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwi
 
    ![](assets/delete-a-program-channel-3.png)
 
-U kunt specifieke statussen van kanalen [&#x200B; ook &#x200B;](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md) schrappen.
+U kunt specifieke statussen van kanalen [ ook ](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md) schrappen.

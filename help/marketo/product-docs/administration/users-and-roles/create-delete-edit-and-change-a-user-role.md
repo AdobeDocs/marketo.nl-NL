@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360198
-description: Een gebruikersrol maken, verwijderen, bewerken en wijzigen - Marketo Docs - Productdocumentatie
+description: Stappen om gebruikersrollen te creëren, te schrappen en uit te geven, met inbegrip van het noemen van rollen, het selecteren van toestemmingen, en welke systeemrollen niet kunnen worden veranderd.
 title: Een gebruikersrol maken, verwijderen, bewerken en wijzigen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '276'
 ht-degree: 1%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Wilt u het e-mailadres van uw account bijwerken? [&#x200B; leer hoe hier &#x200B;](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Wilt u het e-mailadres van uw account bijwerken? [ leer hoe hier ](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Gebruikersrol wijzigen {#change-a-users-role}
 

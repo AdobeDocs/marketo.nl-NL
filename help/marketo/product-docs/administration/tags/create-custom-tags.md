@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950660
-description: Aangepaste tags maken - Marketo Docs - Productdocumentatie
+description: Hoe u een nieuw tagtype maakt met waarden, welke programmatypen het toepast en de tag instelt als vereist of optioneel.
 title: Aangepaste tags maken
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Met tags kunt u uw programma&#39;s ordenen terwijl de kanalen helpen bij het ver
 
 >[!NOTE]
 >
->Controle uit [&#x200B; Begrijpend Markeringen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie.
+>Controle uit [ Begrijpend Markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie.
 
 >[!NOTE]
 >

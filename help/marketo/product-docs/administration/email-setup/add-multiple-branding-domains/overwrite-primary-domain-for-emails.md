@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378051
-description: Primair domein voor e-mails overschrijven - Marketo Docs - Productdocumentatie
+description: Overschrijf het primaire brandingdomein voor afzonderlijke e-mails om te wijzigen hoe koppelingen bij verzending van branding worden voorzien.
 title: Primair domein voor e-mails overschrijven
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

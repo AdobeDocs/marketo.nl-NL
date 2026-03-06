@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512272
-description: Voeg  [!DNL Webex]  toe als a [!DNL LaunchPoint]  Dienst - de Documentatie van Marketo - de Documentatie van het Product
+description: Voeg  [!DNL Webex]  Webinars als dienst LaunchPoint toe om registratie en aanwezigheid met Marketo te synchroniseren.
 title: Voeg  [!DNL Webex]  als a [!DNL LaunchPoint]  Dienst toe
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 3%
+source-wordcount: '101'
+ht-degree: 2%
 
 ---
 
 # [!DNL Webex] toevoegen als een [!DNL LaunchPoint] -service {#add-webex-as-a-launchpoint-service}
 
-Marketo Engage beheert uw [!DNL Webex] webinar-registratie en -aanwezigheid. U moet een bestaand abonnement op [[!UICONTROL Webex] hebben &#x200B;](https://www.webex.com/).
+Marketo Engage beheert uw [!DNL Webex] webinar-registratie en -aanwezigheid. U moet een bestaand abonnement op [[!UICONTROL Webex] hebben ](https://www.webex.com/).
 
 >[!NOTE]
 >
@@ -53,4 +53,4 @@ Uw **[!DNL Webex]** wordt nu gesynchroniseerd met Marketo.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Gebeurtenis met  [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.
+>[ creeer een Gebeurtenis met  [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"}.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377945
-description: Audit Trail&rbrack; Overzicht - Marketo Docs - Productdocumentatie
+description: Overzicht van het audittrail en hoe het een geschiedenis van zes maanden van veranderingen en login activiteit in uw instantie van Marketo vangt.
 title: Overzicht van audittrail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Wie registreert zich op ons account?
 
 ## Wat wij controleren {#what-we-audit}
 
-Marketo zal [&#128279;](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) acties creëren uitgeven en schrappen voor:
+Marketo zal [ ](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) acties creëren uitgeven en schrappen voor:
 
 * Ontwerpstudioactiva
 * Alle Marketo-programma&#39;s
@@ -52,21 +52,21 @@ Marketo zal [&#128279;](/help/marketo/product-docs/administration/audit-trail/ch
 
 Audittrail bestaat uit drie componenten.
 
-**1) [&#x200B; Trail van de Controle van Activa](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
+**1) [ Trail van de Controle van Activa](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#asset-audit-trail)**
 
 Zie de activiteiten die zijn uitgevoerd voor specifieke elementen.
 
-**[&#128279;](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)** het Spoor van de Controle Admin 
+**[](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md#admin-audit-trail)** het Spoor van de Controle Admin 
 
 Op gebruikers gebaseerde gegevens controleren.
 
-**[&#x200B; Login Geschiedenis van de Gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
+**[ Login Geschiedenis van de Gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)**
 
 Zie wie zich heeft aangemeld bij uw abonnement en wanneer. Omvat ook ontbroken login pogingen.
 
 >[!TIP]
 >
->Er is zo veel u het gebruiken van het Spoor van de Controle kunt controleren, ben zeker om [&#x200B; het Filtreren &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) te gebruiken!
+>Er is zo veel u het gebruiken van het Spoor van de Controle kunt controleren, ben zeker om [ het Filtreren ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md) te gebruiken!
 
 ## Gegevens exporteren {#exporting-data}
 
@@ -82,4 +82,4 @@ U kunt slechts gegevens van 30 dagen in uw exemplaar bekijken. Gebruik de export
 
 >[!MORELIKETHIS]
 >
->[&#x200B; laat het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md) toe
+>[ laat het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/enable-audit-trail.md) toe

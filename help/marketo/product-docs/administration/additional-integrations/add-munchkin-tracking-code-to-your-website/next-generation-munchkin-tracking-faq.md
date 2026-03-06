@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: Volgende Generatie  [!DNL Munchkin]  het Volgen Veelgestelde Veelgestelde vragen - de Documenten van Marketo - de Documentatie van het Product
+description: Veelgestelde vragen over volgende-generatie  [!DNL Munchkin]  het volgen rollout en is Anoniem filterverandering.
 title: Volgende Generatie  [!DNL Munchkin]  het Volgen Veelgestelde vragen
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of
 >[!NOTE]
 >
 >**Trekker**: Bezoekt Web-pagina, de Pagina van het Web Prijsingspagina
->&#x200B;>**Stroom**: Score +10 en Interessant moment wijzigen
->&#x200B;>**Web**: Bekeken Prijspagina
+>**Stroom**: Score +10 en Interessant moment wijzigen
+>**Web**: Bekeken Prijspagina
 >
 >Met [!DNL Munchkin] V2 voert een anonieme persoon die de prijspagina bezoekt, niet onmiddellijk de campagne in. Op het moment dat de anonieme persoon bekend wordt, voeren we deze campagne op haar. Ze zal:
 >
@@ -76,20 +76,20 @@ Controleer deze en geef aan waar u &quot;Is anoniem&quot; hebt ingesteld op Waar
 
 Bekijk de volgende koppelingen:
 
-[&#x200B; Anonieme Lood verbetert Overzicht &#x200B;](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
+[ Anonieme Lood verbetert Overzicht ](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[&#x200B; anonieme loodverbeteringen - Veranderingen binnen Marketo UI &#x200B;](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[ anonieme loodverbeteringen - Veranderingen binnen Marketo UI ](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[&#x200B; anonieme loodverbeteringen - de Actie van de Klant Nodig &#x200B;](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
+[ anonieme loodverbeteringen - de Actie van de Klant Nodig ](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
-[&#x200B; anonieme loodverbeteringen - de Rapporten van Analytics &#x200B;](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
+[ anonieme loodverbeteringen - de Rapporten van Analytics ](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
-[&#x200B; Anonieme verbeteringen van de Lood - de Lijst van de Versie &#x200B;](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
+[ Anonieme verbeteringen van de Lood - de Lijst van de Versie ](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[&#x200B; anonieme loodverbeteringen - onder het Hood &#x200B;](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[ anonieme loodverbeteringen - onder het Hood ](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[&#x200B; Anonieme Loodbevordering aan Bekende Lood -  [!DNL Munchkin]  V2 Gedrag &#x200B;](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[ Anonieme Loodbevordering aan Bekende Lood -  [!DNL Munchkin]  V2 Gedrag ](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Gelieve te bereiken uit op de [&#x200B; gemeenschap &#x200B;](https://nation.marketo.com/){target="_blank"}. U kunt [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} ook contacteren. Ze zullen graag je vragen beantwoorden.
+Gelieve te bereiken uit op de [ gemeenschap ](https://nation.marketo.com/){target="_blank"}. U kunt [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} ook contacteren. Ze zullen graag je vragen beantwoorden.

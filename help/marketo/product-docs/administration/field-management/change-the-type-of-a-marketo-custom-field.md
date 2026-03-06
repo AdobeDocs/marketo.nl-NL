@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: Het type aangepast Marketo-veld wijzigen - Marketo Docs - Productdocumentatie
+description: Hoe te om het gegevenstype van een douanegebied in het Beheer van het Gebied te veranderen (de score en de formules kunnen niet worden veranderd).
 title: Het type van een aangepast Marketo-veld wijzigen
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
@@ -49,4 +49,4 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; creeer een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)

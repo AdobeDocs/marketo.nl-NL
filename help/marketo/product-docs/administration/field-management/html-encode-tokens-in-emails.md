@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720461
-description: HTML Encode Tokens in e-mails - Marketo Docs - Productdocumentatie
+description: Schakel HTML-codering in of uit voor persoon- en bedrijfstokens die in e-mailberichten worden gebruikt om de juiste overdracht te garanderen.
 title: HTML Encode Tokens in e-mails
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '99'
 ht-degree: 1%
 
 ---

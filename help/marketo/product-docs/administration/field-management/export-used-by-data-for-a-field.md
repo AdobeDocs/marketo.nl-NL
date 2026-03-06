@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45417092
-description: Exporteren gebruikt door gegevens voor een veld - Marketo Docs - Productdocumentatie
+description: Exporteer een lijst met elementen die een veld gebruiken, zodat u de-koppeling naar uw team kunt delegeren.
 title: Gebruikt door gegevens exporteren voor een veld
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '100'
 ht-degree: 1%
 
 ---

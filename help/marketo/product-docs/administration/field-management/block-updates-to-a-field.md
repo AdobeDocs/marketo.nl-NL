@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360291
-description: Updates van een veld blokkeren - Marketo Docs - Productdocumentatie
+description: Hiermee worden updates van een veld geblokkeerd, zodat de eerste geschreven waarde gedurende de levensduur van de record behouden blijft.
 title: Updates van een veld blokkeren
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Door het blokkeren van updates van een veld kunt u één keer naar het veld schr
 
    >[!NOTE]
    >
-   >U kunt updates aan {de Gebieden van de Douane van het Lid van 0} blokkeren [&#x200B; eveneens.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+   >U kunt updates aan {de Gebieden van de Douane van het Lid van 0} blokkeren [ eveneens.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
 
 1. Selecteer **[!UICONTROL Input Sources]** u wilt blokkeren en klik **[!UICONTROL Apply]**.
 

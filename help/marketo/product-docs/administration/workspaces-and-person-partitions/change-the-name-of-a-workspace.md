@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360321
-description: De naam wijzigen van een Workspace - Marketo Docs - Productdocumentatie
+description: Leer hoe u de naam van een werkruimte wijzigt.
 title: De naam van een Workspace wijzigen
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Nieuwe Workspace &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>[ creeer een Nieuwe Workspace ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 Gebruikers kunnen de naam van een werkruimte wijzigen. Het is vrij eenvoudig.
 
 >[!NOTE]
 >
->Begrijp eerst met [&#x200B; Begrijpend Werkruimten en de Verdelingen van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Begrijp eerst met [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

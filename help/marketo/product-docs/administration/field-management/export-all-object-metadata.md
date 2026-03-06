@@ -1,12 +1,12 @@
 ---
-description: Alle objectmetagegevens exporteren - Marketo Docs - Productdocumentatie
+description: Exporteer alle objecten en de bijbehorende metagegevens, inclusief doorvoervelden, aangepaste objecten, activiteiten, kanalen en tags als CSV.
 title: Alle metagegevens van object exporteren
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 4%
+source-wordcount: '78'
+ht-degree: 3%
 
 ---
 

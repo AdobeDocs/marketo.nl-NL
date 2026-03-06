@@ -1,11 +1,11 @@
 ---
-description: Campagne Inspector - Marketo Docs - Productdocumentatie
+description: Hoe te om de Inspecteur van de Campagne van toe te laten en te gebruiken om alle Slimme Campagnes in één plaats te bekijken en te zoeken.
 title: Campagne-controle
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---

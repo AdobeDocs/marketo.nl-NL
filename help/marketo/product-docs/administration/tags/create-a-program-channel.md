@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950682
-description: Een programmakanaal maken - Marketo Docs - Productdocumentatie
+description: Stappen om een programmakanaal met statussen en progressiestappen, met inbegrip van programmatype, successtatus, en mobiele controleopties voor gebeurtenissen te creëren.
 title: Een programmakanaal maken
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 >[!NOTE]
 >
->Leer meer over [&#x200B; programma&#39;s &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), het belangrijkste element in Marketo.
+>Leer meer over [ programma&#39;s ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), het belangrijkste element in Marketo.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -107,7 +107,7 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
    >[!NOTE]
    >
-   >Slechts zullen de mensen met a **[!UICONTROL Mobile Check-in Status]** van **[!UICONTROL Registered]** en **[!UICONTROL Attended]** in [&#x200B; Mobiele Controle-binnen Apps &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md) zichtbaar zijn.
+   >Slechts zullen de mensen met a **[!UICONTROL Mobile Check-in Status]** van **[!UICONTROL Registered]** en **[!UICONTROL Attended]** in [ Mobiele Controle-binnen Apps ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md) zichtbaar zijn.
 
    >[!TIP]
    >

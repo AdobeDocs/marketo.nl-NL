@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360323
-description: Een bestaande personenpartitie bewerken - Marketo Docs - Productdocumentatie
+description: Stappen om de naam van een persoonpartitie en werkruimtetaken te bewerken.
 title: Een bestaande personenpartitie bewerken
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Partitie van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
+>[ creeer een Partitie van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

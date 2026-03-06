@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378713
-description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocumentatie
+description: Hoe te om douanevoorwerp te gebruiken voeg of veranderingstrekkers in een slimme campagne slimme lijst voor de douanevoorwerpen van Marketo toe, met stappen om de trekker toe te voegen en beperkingen te plaatsen.
 title: Aangepaste objectwijzigingen activeren
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 >* Alleen voor gebruik met aangepaste Marketo-objecten, niet aangepaste objecten die via de native [!DNL Salesforce] - of [!DNL Microsoft Dynamics] -integratie zijn gesynchroniseerd
 >* Als trigger, geen filter
 >
->Gelieve te contacteren {de Steun van 0} Marketo [&#x200B; om toegelaten de Trekkers van de Verandering van het Voorwerp van de Douane te hebben.](https://nation.marketo.com/t5/Support/ct-p/Support)
+>Gelieve te contacteren {de Steun van 0} Marketo [ om toegelaten de Trekkers van de Verandering van het Voorwerp van de Douane te hebben.](https://nation.marketo.com/t5/Support/ct-p/Support)
 
 In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt een slimme lijst ook tot stand brengen die a _verandering_ in een douanevoorwerp als trekker gebruikt. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
 
@@ -54,5 +54,5 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
    >[!NOTE]
    >
-   >* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [&#x200B; Begrijpend de douanevoorwerpen van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

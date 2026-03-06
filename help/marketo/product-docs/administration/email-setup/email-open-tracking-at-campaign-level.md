@@ -1,11 +1,11 @@
 ---
-description: E-mail Open Tracking op campagnereniveau - Marketo Docs - Productdocumentatie
+description: Bepaal of e-mail wordt geopend wordt bijgehouden per campagne of eenmaal per persoon in verschillende campagnes.
 title: E-mail Open Tracking op Campagneniveau
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Met deze functie kunt u beheren dat e-mails worden geopend voor elke keer dat ze
 
    ![](assets/email-open-tracking-at-campaign-level-2.png)
 
-1. Naast _Montages voor E-mail opent_, geeft de klik **&#x200B;**&#x200B;uit.
+1. Naast _Montages voor E-mail opent_, geeft de klik **** uit.
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 

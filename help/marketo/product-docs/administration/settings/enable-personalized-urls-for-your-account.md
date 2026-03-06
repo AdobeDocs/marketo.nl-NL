@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360215
-description: Persoonlijke URL's voor uw account inschakelen - Marketo Docs - Productdocumentatie
+description: Stappen om gepersonaliseerde URLs voor uw abonnement voor gebruik in drukpost en andere campagnes toe te laten.
 title: Persoonlijke URL's voor uw account inschakelen
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Geweldig werk! Nu u PURLs voor uw rekening hebt toegelaten, kunt u [&#x200B; hen voor individuele het landen pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toelaten.
+Geweldig werk! Nu u PURLs voor uw rekening hebt toegelaten, kunt u [ hen voor individuele het landen pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toelaten.
 
 >[!NOTE]
 >

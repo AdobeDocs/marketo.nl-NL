@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093688
-description: Aangepaste Marketo-objectvelden toevoegen - Marketo Docs - Productdocumentatie
+description: Stappen om velden toe te voegen aan een aangepast object, zoals de weergavenaam, beschrijving en het gegevenstype.
 title: Aangepaste Marketo-objectvelden toevoegen
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nadat u een douanevoorwerp hebt gecreeerd, moet u gebieden aan het toevoegen om aan uw bedrijfsbehoeften te voldoen.
 
-Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. De gebieden van de verbinding hebben een speciale baan, om douanevoorwerpen te verbinden, en in a [&#x200B; afzonderlijk artikel &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) behandeld.
+Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. De gebieden van de verbinding hebben een speciale baan, om douanevoorwerpen te verbinden, en in a [ afzonderlijk artikel ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) behandeld.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -61,11 +61,11 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    >[!NOTE]
    >
-   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [&#x200B; de Objecten van de Verbinding van de Douane van Marketo van de Objecten &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) toevoegen om de verbindingsgebieden tot stand te brengen, en [&#x200B; Begrijpend de Voorwerpen van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie over types van douanevoorwerpen.
+   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [ de Objecten van de Verbinding van de Douane van Marketo van de Objecten ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) toevoegen om de verbindingsgebieden tot stand te brengen, en [ Begrijpend de Voorwerpen van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie over types van douanevoorwerpen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg de Gebieden van de Verbinding van de Objecten van Marketo de Douane toe &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [&#x200B; geef uit en schrap een Voorwerp van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [&#x200B; geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit
->* [&#x200B; Begrijpend de douanevoorwerpen van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [ voeg de Gebieden van de Verbinding van de Objecten van Marketo de Douane toe ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [ geef uit en schrap een Voorwerp van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [ geef uit en schrap de Gebieden van de Objecten van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md) uit
+>* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)

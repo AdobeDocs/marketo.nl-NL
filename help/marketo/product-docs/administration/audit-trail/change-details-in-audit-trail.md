@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379928
-description: Details wijzigen in Audittrail - Marketo Docs - Productdocumentatie
+description: 'Referentie voor welke wijzigingsdetails: Audit Trail-records voor elementen en beheeracties.'
 title: Details wijzigen in audittrail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1902'
+source-wordcount: '1906'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Audittrail biedt veel insight aan om te kijken wie wat doet in je Marketo-abonne
  <tbody>
   <tr>
    <th colspan="1">Element/type</th>
-   <th colspan="1">Handeling</th>
+   <th colspan="1">Actie</th>
    <th colspan="1">Details wijzigen</th>
   </tr>
   <tr>
@@ -729,7 +729,7 @@ Audittrail biedt veel insight aan om te kijken wie wat doet in je Marketo-abonne
  <tbody>
   <tr>
    <th>Beheergebied</th>
-   <th>Handeling</th>
+   <th>Actie</th>
    <th>Details wijzigen</th>
   </tr>
   <tr>
@@ -812,4 +812,4 @@ Audittrail biedt veel insight aan om te kijken wie wat doet in je Marketo-abonne
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Filtrerend in het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+>[ Filtrerend in het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951259
-description: Verklarende woordenlijst Type aangepast veld - Marketo Docs - Productdocumentatie
+description: Referentie voor aangepaste veldtypen in Marketo, zoals Boolean, Valuta, Datum, E-mail, Formule en meer.
 title: Verklarende woordenlijst Type aangepast veld
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Afhankelijk van gebiedstype, filter/trekker [&#x200B; exploitanten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) zal verschillend zijn.
+>Afhankelijk van gebiedstype, filter/trekker [ exploitanten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) zal verschillend zijn.
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Formule {#formula}
 
-**Naam van het Voorbeeld:** Aanpassingen - gebruik dit speciale gebied in a [&#x200B; oplossing om de juiste aanhef &#x200B;](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) te krijgen die op gender wordt gebaseerd
+**Naam van het Voorbeeld:** Aanpassingen - gebruik dit speciale gebied in a [ oplossing om de juiste aanhef ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) te krijgen die op gender wordt gebaseerd
 
 **Waarden van het Voorbeeld:** controleer de verbonden oplossing
 

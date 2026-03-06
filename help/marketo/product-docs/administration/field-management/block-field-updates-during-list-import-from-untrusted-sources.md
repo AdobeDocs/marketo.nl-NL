@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360335
-description: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen - Marketo Docs - Productdocumentatie
+description: Voorkom dat sleutelvelden tijdens het importeren van lijsten uit niet-vertrouwde bronnen worden overschreven om bestaande gegevens te beschermen.
 title: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,6 @@ Herhaal bovenstaande stappen voor alle andere velden die u wilt beveiligen tegen
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Voor gedetailleerde instructies bij het invoeren van lijsten, zie [&#x200B; een Lijst van Mensen &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) invoeren.
+Voor gedetailleerde instructies bij het invoeren van lijsten, zie [ een Lijst van Mensen ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) invoeren.
 
 Mooi werk! Nu weet u hoe u sleutelvelden veilig kunt houden voor niet-vertrouwde lijsten.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359893
-description: Ondersteunde browsers - Marketo Docs - Productdocumentatie
+description: Lijst met browsers en versies die worden ondersteund voor Marketo Engage, waaronder Chrome, Firefox, Safari en Edge, met een notitie voor gebruikers van Adobe Identity.
 title: Ondersteunde browsers
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Marketo biedt momenteel ondersteuning voor de volgende browsers:
 
 >[!NOTE]
 >
->Voor gebruikers die aan [&#x200B; Marketo met Identiteit Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd, worden alle browsers gesteund op zowel Mac als Vensters, met uitzondering van Microsoft Edge op Strikte wijze.
+>Voor gebruikers die aan [ Marketo met Identiteit Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd, worden alle browsers gesteund op zowel Mac als Vensters, met uitzondering van Microsoft Edge op Strikte wijze.
 
 Voor de beste ervaring, **houd uw browser bijgewerkt**!

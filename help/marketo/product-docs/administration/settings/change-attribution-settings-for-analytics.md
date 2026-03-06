@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360217
-description: Kenmerken wijzigen voor Analytics - Marketo Docs - Productdocumentatie
+description: Hoe u opties voor eerste- en multitouch-toewijzing, lead-conversie en op marketing gebaseerde opportuniteiten instelt in de analyse van de inkomstencyclus.
 title: Kenmerkinstellingen wijzigen voor Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt de manier veranderen waarop Marketo contacten verbindt met kansen voor eerste en multi-aanraking attributie, lood omzettingsmetriek, en de marketing-beïnvloede opportuniteitsvlag.
 
-Deze montages zullen [!UICONTROL Revenue Explorer] rapporten onder de [&#x200B; Analyse van de Kans van het Programma &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [&#x200B; Analyse van de Kans &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en de gebieden van de Analyse van de Lood beïnvloeden. Dit heeft ook invloed op het [!UICONTROL Program Analyzer] -rapport.
+Deze montages zullen [!UICONTROL Revenue Explorer] rapporten onder de [ Analyse van de Kans van het Programma ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [ Analyse van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en de gebieden van de Analyse van de Lood beïnvloeden. Dit heeft ook invloed op het [!UICONTROL Program Analyzer] -rapport.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

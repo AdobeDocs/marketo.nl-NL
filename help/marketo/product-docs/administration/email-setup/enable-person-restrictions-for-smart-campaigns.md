@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360243
-description: Personenbeperkingen voor slimme campagnes inschakelen - Marketo Docs - Productdocumentatie
+description: Stel een maximum aantal personen in die in aanmerking kunnen komen voor een slimme campagne om te voorkomen dat per ongeluk de gehele database wordt gemaild.
 title: Personenbeperkingen voor slimme campagnes inschakelen
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
@@ -49,10 +49,10 @@ Er is een eigenschap in Marketo om het _maximum_ aantal mensen te beperken die v
 
    >[!CAUTION]
    >
-   >Deze limiet geldt voor alle slimme campagnes, maar kan worden overschreven op campagnereniveau. Leer hoe te [&#x200B; persoonlijke beperkingen in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) met voeten treden.
+   >Deze limiet geldt voor alle slimme campagnes, maar kan worden overschreven op campagnereniveau. Leer hoe te [ persoonlijke beperkingen in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) met voeten treden.
 
 Gereed! Je hebt net de veiligheidsschakelaar aangezet.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; treedt de Beperkingen van de Persoon in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) op
+>[ treedt de Beperkingen van de Persoon in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) op

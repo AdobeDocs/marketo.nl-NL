@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098433
-description: Creeer een Lijst van gewenste personen voor op IP-Gebaseerde API Toegang - Marketo Docs - de Documentatie van het Product
+description: Beperk API toegang tot specifieke IP adressen of waaiers via de Beperkingen van de Diensten IP van het Web Admin.
 title: Creeer een Lijst van gewenste personen voor IP-Gebaseerde Toegang API
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 
 >[!NOTE]
 >
->Deze eigenschap werkt onafhankelijk van op Marketo Engage [&#x200B; IP-Gebaseerde login beperkingen &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} die door Admin Console [&#x200B; op IP-Gebaseerd toegangsbeheer &#x200B;](https://helpx.adobe.com/nl/enterprise/using/ip-based-access.html){target="_blank"} worden vervangen. Het blijft functioneren zoals het is na de migratie naar Adobe IMS.
+>Deze eigenschap werkt onafhankelijk van op Marketo Engage [ IP-Gebaseerde login beperkingen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} die door Admin Console [ op IP-Gebaseerd toegangsbeheer ](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} worden vervangen. Het blijft functioneren zoals het is na de migratie naar Adobe IMS.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

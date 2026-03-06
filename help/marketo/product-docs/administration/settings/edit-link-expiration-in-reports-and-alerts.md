@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360213
-description: Vervaldatum koppeling bewerken in rapporten en waarschuwingen - Marketo Docs - Productdocumentatie
+description: Hoe kan ik wijzigen hoeveel dagen koppelingen in e-mails met abonnementen nog geldig zijn?
 title: Vervaldatum koppeling bewerken in rapporten en waarschuwingen
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '95'
 ht-degree: 3%
 
 ---
@@ -37,4 +37,4 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 
 >[!IMPORTANT]
 >
->Deze instelling geldt alleen voor koppelingen in rapporten en waarschuwingen. Het is **niet** van toepassing op de gemailde [&#x200B; verbinding van het downloadrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) of marketing e-mails.
+>Deze instelling geldt alleen voor koppelingen in rapporten en waarschuwingen. Het is **niet** van toepassing op de gemailde [ verbinding van het downloadrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) of marketing e-mails.

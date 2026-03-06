@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360352
-description: SOAP API-instellingen configureren - Marketo Docs - Productdocumentatie
+description: Plaats de de encryptiesleutel van SOAP API en krijg eindpuntdetails in de Diensten van het Web Admin voor ontwikkelaars.
 title: SOAP API-instellingen configureren
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->We raden u aan de REST API te gebruiken. Leer meer op [&#x200B; developer.adobe.com &#x200B;](https://developer.adobe.com/marketo-apis/).
+>We raden u aan de REST API te gebruiken. Leer meer op [ developer.adobe.com ](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; SOAP API Documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api)
+>[ SOAP API Documentatie ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

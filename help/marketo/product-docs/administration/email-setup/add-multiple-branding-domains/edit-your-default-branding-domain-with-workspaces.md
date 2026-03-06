@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377406
-description: Uw standaardbrandingdomein bewerken met Workspaces - Marketo Docs - Productdocumentatie
+description: Wijzig het algemene brandingdomein in uw bedrijfsdomein wanneer u werkruimten in Marketo gebruikt.
 title: Uw standaardbrandingdomein met werkruimten bewerken
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '148'
 ht-degree: 1%
 
 ---
@@ -43,4 +43,4 @@ ht-degree: 1%
 >
 >Wanneer u aanvullende brandingdomeinen toevoegt, kunt u ervoor kiezen dit als primair domein voor een of meer werkruimten te gebruiken. Alle bestaande niet-verzonden e-mails die op &quot;Standaard&quot; zijn ingesteld en alle nieuwe e-mails die u hebt gemaakt, worden standaard ingesteld op het primaire domein. U kunt dit per e-mail overschrijven.
 
-Nu, kunt u [&#x200B; extra brandende domeinen &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.
+Nu, kunt u [ extra brandende domeinen ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.

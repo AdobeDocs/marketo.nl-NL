@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094188
-description: Een aangepast object goedkeuren - Marketo Docs - Productdocumentatie
+description: Hoe te om nieuwe of uitgegeven douanevoorwerpen in Admin goed te keuren, met inbegrip van vereisten voor één-aan-vele, vele-aan-vele, en intermediaire voorwerpen.
 title: Een aangepast object goedkeuren
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
    >
    >Een douanevoorwerp dat als _wordt gebruikt intermediair voorwerp_ vereist een verbindingsgebied, een verbonden objecten naam, en een verbonden gebiedsnaam maar **vereist geen** dedupe gebied.
    >
-   >Zie [&#x200B; Begrijpend de Voorwerpen van de Douane van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
+   >Zie [ Begrijpend de Voorwerpen van de Douane van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de filters en triggers die u in uw campagnes wilt gebruiken.
 

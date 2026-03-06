@@ -1,11 +1,11 @@
 ---
-description: Algemene regels voor formuliervalidatie - Marketo-documenten - productdocumentatie
+description: Hoe te om de toestemming van de Regels van de Bevestiging van de Vorm van de Toegang toe te laten en globale regels tot stand te brengen om specifieke domeinen te blokkeren van het voorleggen aan de formulieren van Marketo Engage.
 title: Algemene regels voor formuliervalidatie
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '255'
 ht-degree: 1%
 
 ---
@@ -70,7 +70,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 >[!NOTE]
 >
->Marketo Engage heeft een gedefinieerde lijst van gewezen personen met gratis e-maildomeinen voor consumenten die worden geblokkeerd wanneer onze vooraf geladen regel &#39;Consumer Email Domain Lijst van gewezen personen&#39; wordt gebruikt. [&#x200B; Mening die lijst hier &#x200B;](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om te downloaden, zorg ervoor uw browser bijgewerkt is en downloads kan goedkeuren).
+>Marketo Engage heeft een gedefinieerde lijst van gewezen personen met gratis e-maildomeinen voor consumenten die worden geblokkeerd wanneer onze vooraf geladen regel &#39;Consumer Email Domain Lijst van gewezen personen&#39; wordt gebruikt. [ Mening die lijst hier ](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om te downloaden, zorg ervoor uw browser bijgewerkt is en downloads kan goedkeuren).
 
 ## Toegang per formulier uitschakelen{#how-to-disable-access-per-form}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360295
-description: Een lijst met alle Marketo API-veldnamen exporteren - Marketo Docs - Productdocumentatie
+description: Download een spreadsheet van alle Marketo-velden en hun API-namen voor gebruik door de SOAP API of de Munchkin API.
 title: Een lijst met alle Marketo API-veldnamen exporteren
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '98'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360287
-description: Een aangepast veld maken in Marketo - Marketo Docs - Productdocumentatie
+description: Stappen om een nieuw aangepast veld in Marketo Engage te maken voor het opslaan en vastleggen van gegevens voor personen of bedrijven.
 title: Een aangepast veld maken in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -37,17 +37,17 @@ Als u een nieuw aangepast veld in Marketo Engage nodig hebt om gegevens op te sl
 
    >[!NOTE]
    >
-   >Terwijl u niet het _voorwerp van het Bedrijf_ kunt selecteren zelf, kunt u het verzoeken door [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
+   >Terwijl u niet het _voorwerp van het Bedrijf_ kunt selecteren zelf, kunt u het verzoeken door [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
 
 1. Kies het veld _[!UICONTROL Type]_. Hiermee wijzigt u de weergave in slimme lijsten en formulieren in Marketo.
 
    >[!TIP]
    >
-   >Controle uit de [&#x200B; Verklarende woordenlijst van de Types van Gebied van de Douane &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Controle uit de [ Verklarende woordenlijst van de Types van Gebied van de Douane ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Voer de _[!UICONTROL Name]_&#x200B;in zoals u deze wilt weergeven in Marketo (de&#x200B;_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
+1. Voer de _[!UICONTROL Name]_in zoals u deze wilt weergeven in Marketo (de_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
 
 >[!CAUTION]
 >

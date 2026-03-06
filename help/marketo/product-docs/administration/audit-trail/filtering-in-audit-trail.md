@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378468
-description: Filteren in audittrail - Marketo Docs - Productdocumentatie
+description: Filter Audittrail op tijdkader, type element, gebruikers en handeling om specifieke wijzigingen te zoeken.
 title: Filteren in audittrail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '136'
 ht-degree: 1%
 
 ---
@@ -59,4 +59,4 @@ Filter op tijdkader, type element, gebruikers, actie uitgevoerd en meer.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Details van de Verandering in het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[ Details van de Verandering in het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
