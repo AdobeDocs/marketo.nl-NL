@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949182
-description: SEO - Trefwoorden begrijpen - Marketo Docs - Productdocumentatie
+description: Begrijp de sectie van Trefwoorden - summiere mening en de mening van de concurrent, rang en trend, en hoe te om voor relevante sleutelwoorden te rangschikken.
 title: SEO - Trefwoorden begrijpen
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 0%
+source-wordcount: '262'
+ht-degree: 1%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [Meer info](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [&#x200B; Uitvoer Kwesties &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [&#x200B; Resultaten van het Trefwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [&#x200B; Trends van het Sleutelwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [&#x200B; Trends van het Sleutelwoord van de Concurrentie van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
-De [!UICONTROL Keywords] sectie zal u tonen hoe succesvol uw plaats in het bereiken van dit is en hoe u tot [&#x200B; uw concurrentie &#x200B;](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md) stapelt.
+De [!UICONTROL Keywords] sectie zal u tonen hoe succesvol uw plaats in het bereiken van dit is en hoe u tot [ uw concurrentie ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md) stapelt.
 
 ## [!UICONTROL Keywords] - Samenvattingsweergave {#keywords-summary-view}
 
@@ -75,5 +75,5 @@ Geweldig! Nu u de sectie [!UICONTROL Keywords] begrijpt, leren wij over pagina&#
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend Pagina&#39;s &#x200B;](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [&#x200B; Begrijpend Binnenkomende Verbindingen &#x200B;](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
+>* [ Begrijpend Pagina&#39;s ](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [ Begrijpend Binnenkomende Verbindingen ](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
