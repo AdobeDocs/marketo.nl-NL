@@ -31,4 +31,4 @@ U kunt een veld dat u in het verleden hebt gemaakt, verwijderen als u er geen ge
 
    ![](assets/delete-a-custom-field-in-marketo-3.png)
 
-   Voor gedetailleerde geleidelijke instructies, zie [ verbergen en unhide een gebied ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).
+   Voor gedetailleerde geleidelijke instructies, zie [&#x200B; verbergen en unhide een gebied &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md).

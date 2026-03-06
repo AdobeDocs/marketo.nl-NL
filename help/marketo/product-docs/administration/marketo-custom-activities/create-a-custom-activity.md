@@ -49,4 +49,4 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend de Activiteiten van de Douane ](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
+>[&#x200B; Begrijpend de Activiteiten van de Douane &#x200B;](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)

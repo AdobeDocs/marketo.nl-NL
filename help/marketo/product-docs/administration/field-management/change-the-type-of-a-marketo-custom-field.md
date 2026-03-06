@@ -49,4 +49,4 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    >[!MORELIKETHIS]
    >
-   >[ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[&#x200B; creeer een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)

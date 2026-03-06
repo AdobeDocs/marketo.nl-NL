@@ -71,4 +71,4 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    >[!MORELIKETHIS]
    >
-   >[ Overzicht van het Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[&#x200B; Overzicht van het Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

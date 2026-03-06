@@ -53,7 +53,7 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 
    >[!NOTE]
    >
-   >Leer meer over wat [ operationele e-mails ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) zijn.
+   >Leer meer over wat [&#x200B; operationele e-mails &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) zijn.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -71,4 +71,4 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 
 >[!MORELIKETHIS]
 >
->[ pas Communicatie Limieten op  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) toe
+>[&#x200B; pas Communicatie Limieten op  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) toe

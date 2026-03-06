@@ -17,7 +17,7 @@ Met tags kunt u uw programma&#39;s ordenen terwijl de kanalen helpen bij het ver
 
 >[!NOTE]
 >
->Controle uit [ Begrijpend Markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie.
+>Controle uit [&#x200B; Begrijpend Markeringen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie.
 
 >[!NOTE]
 >

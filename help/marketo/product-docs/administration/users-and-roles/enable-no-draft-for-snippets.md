@@ -55,4 +55,4 @@ No-Draft wordt automatisch toegelaten voor alle rollen van de Beheerder. Een beh
 
 >[!MORELIKETHIS]
 >
->[ keur een Fragment met toe:voegen-ontwerp ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"} goed
+>[&#x200B; keur een Fragment met toe:voegen-ontwerp &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"} goed

@@ -37,17 +37,17 @@ Als u een nieuw aangepast veld in Marketo Engage nodig hebt om gegevens op te sl
 
    >[!NOTE]
    >
-   >Terwijl u niet het _voorwerp van het Bedrijf_ kunt selecteren zelf, kunt u het verzoeken door [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
+   >Terwijl u niet het _voorwerp van het Bedrijf_ kunt selecteren zelf, kunt u het verzoeken door [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} te contacteren.
 
 1. Kies het veld _[!UICONTROL Type]_. Hiermee wijzigt u de weergave in slimme lijsten en formulieren in Marketo.
 
    >[!TIP]
    >
-   >Controle uit de [ Verklarende woordenlijst van de Types van Gebied van de Douane ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >Controle uit de [&#x200B; Verklarende woordenlijst van de Types van Gebied van de Douane &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Voer de _[!UICONTROL Name]_in zoals u deze wilt weergeven in Marketo (de_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
+1. Voer de _[!UICONTROL Name]_&#x200B;in zoals u deze wilt weergeven in Marketo (de&#x200B;_[!UICONTROL API Name]_ wordt automatisch gegenereerd). Kies zorgvuldig, omdat de naam niet kan worden gewijzigd na het opslaan. Klik op **[!UICONTROL Create]** als u klaar bent.
 
 >[!CAUTION]
 >

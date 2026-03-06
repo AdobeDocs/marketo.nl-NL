@@ -49,6 +49,6 @@ Herhaal bovenstaande stappen voor alle andere velden die u wilt beveiligen tegen
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Voor gedetailleerde instructies bij het invoeren van lijsten, zie [ een Lijst van Mensen ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) invoeren.
+Voor gedetailleerde instructies bij het invoeren van lijsten, zie [&#x200B; een Lijst van Mensen &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) invoeren.
 
 Mooi werk! Nu weet u hoe u sleutelvelden veilig kunt houden voor niet-vertrouwde lijsten.

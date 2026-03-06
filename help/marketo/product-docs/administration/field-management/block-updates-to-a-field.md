@@ -33,7 +33,7 @@ Door het blokkeren van updates van een veld kunt u één keer naar het veld schr
 
    >[!NOTE]
    >
-   >U kunt updates aan {de Gebieden van de Douane van het Lid van 0} blokkeren [ eveneens.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+   >U kunt updates aan {de Gebieden van de Douane van het Lid van 0} blokkeren [&#x200B; eveneens.](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
 
 1. Selecteer **[!UICONTROL Input Sources]** u wilt blokkeren en klik **[!UICONTROL Apply]**.
 

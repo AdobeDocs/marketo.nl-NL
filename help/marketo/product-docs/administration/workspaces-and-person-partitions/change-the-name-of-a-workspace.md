@@ -19,13 +19,13 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[ creeer een Nieuwe Workspace ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>[&#x200B; creeer een Nieuwe Workspace &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 Gebruikers kunnen de naam van een werkruimte wijzigen. Het is vrij eenvoudig.
 
 >[!NOTE]
 >
->Begrijp eerst met [ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Begrijp eerst met [&#x200B; Begrijpend Werkruimten en de Verdelingen van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

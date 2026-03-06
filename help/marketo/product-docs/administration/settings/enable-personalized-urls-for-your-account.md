@@ -35,7 +35,7 @@ Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Geweldig werk! Nu u PURLs voor uw rekening hebt toegelaten, kunt u [ hen voor individuele het landen pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toelaten.
+Geweldig werk! Nu u PURLs voor uw rekening hebt toegelaten, kunt u [&#x200B; hen voor individuele het landen pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toelaten.
 
 >[!NOTE]
 >

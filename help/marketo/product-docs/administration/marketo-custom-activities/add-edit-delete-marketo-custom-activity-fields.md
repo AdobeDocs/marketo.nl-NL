@@ -43,7 +43,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    >[!TIP]
    >
-   >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypes worden bepaald in [ dit artikel ](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypes worden bepaald in [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Klik op **[!UICONTROL Save]** als u klaar bent.
 

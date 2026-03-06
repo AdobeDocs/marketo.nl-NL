@@ -49,4 +49,4 @@ Uw [!DNL Level 3 Web Meeting] -account is nu gesynchroniseerd met Marketo!
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [ een gebeurtenis met a  [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"} tot stand te brengen.
+>Leer hoe te om [&#x200B; een gebeurtenis met a  [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"} tot stand te brengen.

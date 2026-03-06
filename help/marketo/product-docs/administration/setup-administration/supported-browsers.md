@@ -24,6 +24,6 @@ Marketo biedt momenteel ondersteuning voor de volgende browsers:
 
 >[!NOTE]
 >
->Voor gebruikers die aan [ Marketo met Identiteit Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd, worden alle browsers gesteund op zowel Mac als Vensters, met uitzondering van Microsoft Edge op Strikte wijze.
+>Voor gebruikers die aan [&#x200B; Marketo met Identiteit Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} zijn gemigreerd, worden alle browsers gesteund op zowel Mac als Vensters, met uitzondering van Microsoft Edge op Strikte wijze.
 
 Voor de beste ervaring, **houd uw browser bijgewerkt**!

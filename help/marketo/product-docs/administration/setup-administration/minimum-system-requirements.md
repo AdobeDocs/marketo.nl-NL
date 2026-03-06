@@ -22,7 +22,7 @@ Als je je afvraagt wat je nodig hebt om je aan te melden en Marketo Engage te ge
 * Computer of laptop met [!DNL Windows], Mac OS X (of hoger) of Linux
 * Toetsenbord en muis
 * Monitor met een minimale resolutie van 1.280 x 768
-* Up-to-date browser, zie [ Ondersteunde Browsers ](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} voor details
+* Up-to-date browser, zie [&#x200B; Ondersteunde Browsers &#x200B;](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} voor details
 * Internetverbinding
 
 >[!NOTE]

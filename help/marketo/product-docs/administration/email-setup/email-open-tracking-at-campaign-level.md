@@ -26,7 +26,7 @@ Met deze functie kunt u beheren dat e-mails worden geopend voor elke keer dat ze
 
    ![](assets/email-open-tracking-at-campaign-level-2.png)
 
-1. Naast _Montages voor E-mail opent_, geeft de klik **** uit.
+1. Naast _Montages voor E-mail opent_, geeft de klik **&#x200B;**&#x200B;uit.
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 

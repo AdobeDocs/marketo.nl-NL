@@ -27,14 +27,14 @@ Met aangepaste activiteiten kunt u een activiteit volgen die niet gerelateerd is
 >
 >Aangepaste activiteiten verschillen van aangepaste objecten. Gebruik aangepaste objecten wanneer de waarde kan worden gewijzigd (de kleur van de auto verandert van blauw in rood). Gebruik aangepaste activiteiten bij het bijhouden van momenten die zich hebben voorgedaan en de details ervan kunnen niet worden gewijzigd (d.w.z. &quot;gekochte auto&quot;).
 
-**Gebieden** U kunt [ extra gebieden ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) toevoegen die u wenst om met uw activiteit te associëren. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
+**Gebieden** U kunt [&#x200B; extra gebieden &#x200B;](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) toevoegen die u wenst om met uw activiteit te associëren. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
 
 **Begonnen het worden**
 
 Aangepaste activiteiten functioneren net als standaardactiviteiten. Het opzetten ervan is echter een tweeledig proces.
 
-Stap 1: [ creeer een douaneactiviteit ](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in uw rekening van Marketo
+Stap 1: [&#x200B; creeer een douaneactiviteit &#x200B;](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in uw rekening van Marketo
 
-Stap 2: De werknemer in uw organisatie die met onze API werkt kan dan met de implementatie beginnen. Meer informatie kan hier worden gevonden: [ de Activiteit API van de Douane ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
+Stap 2: De werknemer in uw organisatie die met onze API werkt kan dan met de implementatie beginnen. Meer informatie kan hier worden gevonden: [&#x200B; de Activiteit API van de Douane &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 Veel plezier!

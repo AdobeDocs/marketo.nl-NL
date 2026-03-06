@@ -70,7 +70,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 >[!NOTE]
 >
->Marketo Engage heeft een gedefinieerde lijst van gewezen personen met gratis e-maildomeinen voor consumenten die worden geblokkeerd wanneer onze vooraf geladen regel &#39;Consumer Email Domain Lijst van gewezen personen&#39; wordt gebruikt. [ Mening die lijst hier ](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om te downloaden, zorg ervoor uw browser bijgewerkt is en downloads kan goedkeuren).
+>Marketo Engage heeft een gedefinieerde lijst van gewezen personen met gratis e-maildomeinen voor consumenten die worden geblokkeerd wanneer onze vooraf geladen regel &#39;Consumer Email Domain Lijst van gewezen personen&#39; wordt gebruikt. [&#x200B; Mening die lijst hier &#x200B;](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (om te downloaden, zorg ervoor uw browser bijgewerkt is en downloads kan goedkeuren).
 
 ## Toegang per formulier uitschakelen{#how-to-disable-access-per-form}
 

@@ -17,7 +17,7 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u [ opstelling een NAAM in uw DNS ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} hebt alvorens u uw brandende domeinen in Marketo toevoegt.
+>Zorg ervoor u [&#x200B; opstelling een NAAM in uw DNS &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} hebt alvorens u uw brandende domeinen in Marketo toevoegt.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -39,8 +39,8 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-Nu, kunt u [ om het even welke extra brandende domeinen ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} toevoegen u wenst.
+Nu, kunt u [&#x200B; om het even welke extra brandende domeinen &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} toevoegen u wenst.
 
 >[!NOTE]
 >
->Als u bestaande SSL moet bijwerken of verwijderen, te bereiken gelieve uit [ de Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Als u bestaande SSL moet bijwerken of verwijderen, te bereiken gelieve uit [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

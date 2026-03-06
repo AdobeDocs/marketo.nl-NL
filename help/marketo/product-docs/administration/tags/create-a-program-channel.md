@@ -21,7 +21,7 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 >[!NOTE]
 >
->Leer meer over [ programma&#39;s ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), het belangrijkste element in Marketo.
+>Leer meer over [&#x200B; programma&#39;s &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), het belangrijkste element in Marketo.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -107,7 +107,7 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
    >[!NOTE]
    >
-   >Slechts zullen de mensen met a **[!UICONTROL Mobile Check-in Status]** van **[!UICONTROL Registered]** en **[!UICONTROL Attended]** in [ Mobiele Controle-binnen Apps ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md) zichtbaar zijn.
+   >Slechts zullen de mensen met a **[!UICONTROL Mobile Check-in Status]** van **[!UICONTROL Registered]** en **[!UICONTROL Attended]** in [&#x200B; Mobiele Controle-binnen Apps &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md) zichtbaar zijn.
 
    >[!TIP]
    >

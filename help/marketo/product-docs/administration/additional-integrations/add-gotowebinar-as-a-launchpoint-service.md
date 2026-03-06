@@ -69,4 +69,4 @@ Marketo beheert uw registratie en aanwezigheid van [!DNL GoToWebinar] .
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [ een gebeurtenis met  [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} tot stand te brengen.
+>Leer hoe te om [&#x200B; een gebeurtenis met  [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} tot stand te brengen.

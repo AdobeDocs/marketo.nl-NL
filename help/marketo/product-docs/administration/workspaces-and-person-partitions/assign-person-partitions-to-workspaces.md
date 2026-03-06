@@ -21,11 +21,11 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
 >[!PREREQUISITES]
 >
->[ creeer een Nieuwe Workspace ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
+>[&#x200B; creeer een Nieuwe Workspace &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md){target="_blank"}
 
 >[!CAUTION]
 >
->De werkruimten en de Verdelingen van de Persoon kunnen complex zijn. Gelieve te contacteren {de steun van 0} Marketo [ voor hulp in vestiging hen.](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}
+>De werkruimten en de Verdelingen van de Persoon kunnen complex zijn. Gelieve te contacteren {de steun van 0} Marketo [&#x200B; voor hulp in vestiging hen.](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -47,7 +47,7 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
    >
    >* checkbox &quot;[!UICONTROL All Person Partitions]&quot;wijst erop dat deze werkruimte toegang tot alle persoonverdelingen in het systeem heeft.
    >
-   >* Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Het gebruik [ stroomstappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [ toewijzingsregels ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} om mensen rond te bewegen.
+   >* Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Het gebruik [&#x200B; stroomstappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [&#x200B; toewijzingsregels &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} om mensen rond te bewegen.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -61,4 +61,4 @@ U hebt uw werkruimte bewerkt.
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend Werkruimten en de Verdelingen van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>[&#x200B; Begrijpend Werkruimten en de Verdelingen van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.

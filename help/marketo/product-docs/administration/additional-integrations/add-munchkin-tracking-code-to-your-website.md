@@ -23,7 +23,7 @@ Marketo houdt aangepaste JavaScript-trackingcode, [!DNL Munchkin] genaamd, bij w
 
 >[!NOTE]
 >
->De gebruikers van Adobe Experience Cloud kunnen de [ integratie van Marketo in de Lancering van Adobe ](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} ook gebruiken om [!DNL Munchkin] manuscript op hun Web-pagina&#39;s te omvatten. Als u de Lancering van Adobe gebruikt, _wordt het [!DNL Munchkin] manuscript automatisch toegevoegd_, zodat zou u het niet zelf hoeven toe te voegen.
+>De gebruikers van Adobe Experience Cloud kunnen de [&#x200B; integratie van Marketo in de Lancering van Adobe &#x200B;](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} ook gebruiken om [!DNL Munchkin] manuscript op hun Web-pagina&#39;s te omvatten. Als u de Lancering van Adobe gebruikt, _wordt het [!DNL Munchkin] manuscript automatisch toegevoegd_, zodat zou u het niet zelf hoeven toe te voegen.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

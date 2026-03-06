@@ -21,7 +21,7 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
 >[!PREREQUISITES]
 >
->[ creeer een Partitie van de Persoon ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
+>[&#x200B; creeer een Partitie van de Persoon &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 

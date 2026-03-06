@@ -17,11 +17,11 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 >[!PREREQUISITES]
 >
->[ creeer een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[&#x200B; creeer een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Afhankelijk van gebiedstype, filter/trekker [ exploitanten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) zal verschillend zijn.
+>Afhankelijk van gebiedstype, filter/trekker [&#x200B; exploitanten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) zal verschillend zijn.
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Formule {#formula}
 
-**Naam van het Voorbeeld:** Aanpassingen - gebruik dit speciale gebied in a [ oplossing om de juiste aanhef ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) te krijgen die op gender wordt gebaseerd
+**Naam van het Voorbeeld:** Aanpassingen - gebruik dit speciale gebied in a [&#x200B; oplossing om de juiste aanhef &#x200B;](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) te krijgen die op gender wordt gebaseerd
 
 **Waarden van het Voorbeeld:** controleer de verbonden oplossing
 

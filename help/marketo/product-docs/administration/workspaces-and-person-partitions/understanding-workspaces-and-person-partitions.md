@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Werkruimten kunnen complex zijn om in te stellen. De Steun van Marketo van het contact [ ](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen als zij voor u juist zijn.
+>Werkruimten kunnen complex zijn om in te stellen. De Steun van Marketo van het contact [&#x200B; &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen als zij voor u juist zijn.
 
 De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoals programma&#39;s, landingspagina&#39;s, e-mails en meer bevatten. Ze kunnen door meerdere mensen worden gebruikt. Elke gebruiker heeft toegang tot een of meer werkruimten.
 
@@ -34,7 +34,7 @@ De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoal
 
 >[!NOTE]
 >
->Leer hoe te om [ tot stand te brengen creeer een nieuwe werkruimte ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Leer hoe te om [&#x200B; tot stand te brengen creeer een nieuwe werkruimte &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Delen over werkruimten {#sharing-across-workspaces}
 
@@ -111,7 +111,7 @@ Als u elementen naar een nieuwe werkruimte wilt verplaatsen, plaatst u ze in een
 
 Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Als u een bedrijfs gebruiksgeval voelt dat het hebben van dubbele verslagen met het zelfde e-mailadres kan vereisen, gelieve te contacteren {de Steun van 0} Marketo [.](https://nation.marketo.com/t5/Support/ct-p/Support)
 
-U kunt persoonverdelingen aan [ werkruimten ](create-a-new-workspace.md) in de volgende configuraties toewijzen:
+U kunt persoonverdelingen aan [&#x200B; werkruimten &#x200B;](create-a-new-workspace.md) in de volgende configuraties toewijzen:
 
 * één werkruimte aan één persoonverdeling (1 :1)
 * één werkruimte aan vele persoonverdelingen (1 :x)
@@ -130,4 +130,4 @@ U kunt persoonverdelingen aan [ werkruimten ](create-a-new-workspace.md) in de v
 
 >[!NOTE]
 >
->Leer hoe te [ om een persoonverdeling ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) tot stand te brengen.
+>Leer hoe te [&#x200B; om een persoonverdeling &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) tot stand te brengen.

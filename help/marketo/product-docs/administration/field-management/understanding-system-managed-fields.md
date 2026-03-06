@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Werken met door het systeem beheerde velden {#understanding-system-managed-fields}
 
-U zou kunnen opgemerkt hebben dat de [ pagina van het persoondetail ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} een reeks niet-editable gebieden heeft die door Marketo worden gecreeerd. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
+U zou kunnen opgemerkt hebben dat de [&#x200B; pagina van het persoondetail &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} een reeks niet-editable gebieden heeft die door Marketo worden gecreeerd. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
 
 ## Veldtypen {#field-types}
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 >* Alleen voor gebruik met aangepaste Marketo-objecten, niet aangepaste objecten die via de native [!DNL Salesforce] - of [!DNL Microsoft Dynamics] -integratie zijn gesynchroniseerd
 >* Als trigger, geen filter
 >
->Gelieve te contacteren {de Steun van 0} Marketo [ om toegelaten de Trekkers van de Verandering van het Voorwerp van de Douane te hebben.](https://nation.marketo.com/t5/Support/ct-p/Support)
+>Gelieve te contacteren {de Steun van 0} Marketo [&#x200B; om toegelaten de Trekkers van de Verandering van het Voorwerp van de Douane te hebben.](https://nation.marketo.com/t5/Support/ct-p/Support)
 
 In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt een slimme lijst ook tot stand brengen die a _verandering_ in een douanevoorwerp als trekker gebruikt. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
 
@@ -54,5 +54,5 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
    >[!NOTE]
    >
-   >* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [ Begrijpend de douanevoorwerpen van Marketo ](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [&#x200B; Begrijpend de douanevoorwerpen van Marketo &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
