@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ de Plaatsing van de Organisatie van Adobe van de Opstelling Afbeelding ](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
+>[&#x200B; de Plaatsing van de Organisatie van Adobe van de Opstelling Afbeelding &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Een publiek synchroniseren {#how-to-sync-an-audience}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 Wanneer de cookiesync voor uw Marketo Abonnement wordt toegelaten, probeert Marketo munchkin.js om Adobe ECIDs voor de Org van de IMS van Adobe te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van Marketo aan te passen. Hierdoor kunnen anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe ECID&#39;s.
 
-Een volgende stap is vereist om het anonieme gebruikersprofiel te koppelen aan een lead-profiel, dat wordt geïdentificeerd met een e-mailbericht met normale tekst. Precies hoe dit werk [ hier ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} wordt beschreven.
+Een volgende stap is vereist om het anonieme gebruikersprofiel te koppelen aan een lead-profiel, dat wordt geïdentificeerd met een e-mailbericht met normale tekst. Precies hoe dit werk [&#x200B; hier &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} wordt beschreven.
 
 **waarom is de lijstgrootte in Marketo verschillend dan in Adobe?**
 
