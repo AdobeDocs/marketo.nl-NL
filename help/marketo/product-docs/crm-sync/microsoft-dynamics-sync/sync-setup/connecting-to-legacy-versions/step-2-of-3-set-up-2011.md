@@ -17,7 +17,7 @@ Als je de vorige stappen hebt uitgevoerd, ga je door.
 
 >[!PREREQUISITES]
 >
->[ Stap 1 van 3: Installeer de Oplossing van Marketo (2011 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}
+>[&#x200B; Stap 1 van 3: Installeer de Oplossing van Marketo (2011 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"}
 
 ## Gebruikersrol synchroniseren toewijzen {#assign-sync-user-role}
 
@@ -25,11 +25,11 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
 >[!NOTE]
 >
->Dit geldt voor Marketo-insteekmodule versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [ Verbetering de Oplossing van Marketo voor  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Dit geldt voor Marketo-insteekmodule versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [&#x200B; Verbetering de Oplossing van Marketo voor  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
->Taal het plaatsen van de Gebruiker van de Synchronisatie [ zou aan Engels ](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"} moeten worden geplaatst.
+>Taal het plaatsen van de Gebruiker van de Synchronisatie [&#x200B; zou aan Engels &#x200B;](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"} moeten worden geplaatst.
 
 1. Selecteer **[!UICONTROL Settings]** in het menu linksonder.
 
@@ -43,7 +43,7 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. Hier wordt een lijst met gebruikers weergegeven. Selecteer uw specifieke synchronisatiegebruiker van Marketo of contacteer uw [ Actieve Diensten van de Federatie van de Folder (AFDS) ](https://msdn.microsoft.com/en-us/library/bb897402.aspx) beheerder om een nieuwe gebruiker tot stand te brengen die aan Marketo gewijd is. Klik op **[!UICONTROL Manage Roles]**.
+1. Hier wordt een lijst met gebruikers weergegeven. Selecteer uw specifieke synchronisatiegebruiker van Marketo of contacteer uw [&#x200B; Actieve Diensten van de Federatie van de Folder (AFDS) &#x200B;](https://msdn.microsoft.com/en-us/library/bb897402.aspx) beheerder om een nieuwe gebruiker tot stand te brengen die aan Marketo gewijd is. Klik op **[!UICONTROL Manage Roles]**.
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 
@@ -53,7 +53,7 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
    >[!TIP]
    >
-   >Als u niet de rol ziet, ga terug naar [ stap 1 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"} en voer de oplossing in.
+   >Als u niet de rol ziet, ga terug naar [&#x200B; stap 1 van 3 &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md){target="_blank"} en voer de oplossing in.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we 
 
    >[!NOTE]
    >
-   >Als [!UICONTROL Marketo Config] ontbreekt, vernieuw de pagina. Als de kwestie voortduurt, [ publiceer opnieuw de oplossing van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) of logout en terug binnen.
+   >Als [!UICONTROL Marketo Config] ontbreekt, vernieuw de pagina. Als de kwestie voortduurt, [&#x200B; publiceer opnieuw de oplossing van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md) of logout en terug binnen.
 
 1. Klik op **[!UICONTROL Default]**.
 
@@ -101,4 +101,4 @@ Geweldig werk!
 
 >[!MORELIKETHIS]
 >
->[ Stap 3 van 3: Verbind  [!DNL Microsoft Dynamics]  met Marketo (2011 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+>[&#x200B; Stap 3 van 3: Verbind  [!DNL Microsoft Dynamics]  met Marketo (2011 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)

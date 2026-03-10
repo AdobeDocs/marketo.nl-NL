@@ -24,7 +24,7 @@ Voordat u [!DNL Microsoft Dynamics 365] en Marketo kunt synchroniseren, moet u e
 
 >[!PREREQUISITES]
 >
->[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[&#x200B; Download de Oplossing van het Beheer van de Lood van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
 
 1. Login aan **[[!DNL Microsoft Office 365]](https://login.microsoftonline.com/)**.
 
@@ -42,7 +42,7 @@ Voordat u [!DNL Microsoft Dynamics 365] en Marketo kunt synchroniseren, moet u e
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klik op **[!UICONTROL Choose File]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Choose File]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [&#x200B; &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -90,4 +90,4 @@ Voordat u [!DNL Microsoft Dynamics 365] en Marketo kunt synchroniseren, moet u e
 
    >[!MORELIKETHIS]
    >
-   >[ Stap 2 van 3: Opstelling de Oplossing van Marketo met Verbinding S2S ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
+   >[&#x200B; Stap 2 van 3: Opstelling de Oplossing van Marketo met Verbinding S2S &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}

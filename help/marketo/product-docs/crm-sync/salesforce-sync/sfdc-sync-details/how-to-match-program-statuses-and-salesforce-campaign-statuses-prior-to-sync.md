@@ -27,4 +27,4 @@ Vanuit dit foutbericht kunt u kiezen voor:
 1. U kunt de fout annuleren, de statusfouten herstellen en proberen te synchroniseren zodra de fouten zijn hersteld. Voer een van de volgende handelingen uit om de statusfouten te corrigeren:
 
    * Meld u aan bij Salesforce en verwijder of wijzig de naam van de incompatibele Campagnelidstaten om de status van het Marketo-programma toe te wijzen die wordt gebruikt voor het kanaaltype dat is gekoppeld aan uw Marketo-programma.
-   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne van Salesforce toe te wijzen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Voor details, zie [ tot een Kanaal van het Programma ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} leiden.
+   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne van Salesforce toe te wijzen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Voor details, zie [&#x200B; tot een Kanaal van het Programma &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} leiden.

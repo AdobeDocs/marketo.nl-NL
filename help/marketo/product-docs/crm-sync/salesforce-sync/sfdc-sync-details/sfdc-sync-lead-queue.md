@@ -13,14 +13,14 @@ ht-degree: 0%
 
 # SFDC Sync: Wachtrij leiden {#sfdc-sync-lead-queue}
 
-Marketo staat u toe om mensen aan [[!DNL Salesforce]  loodrijen ](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) toe te voegen om met looddistributie te helpen. Hier zijn de details.
+Marketo staat u toe om mensen aan [[!DNL Salesforce]  loodrijen &#x200B;](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) toe te voegen om met looddistributie te helpen. Hier zijn de details.
 
 ## Hoe kan ik een persoon toewijzen aan een wachtrij in Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 U kunt een persoon aan een [!DNL Salesforce] lood rij toewijzen gebruikend één van beiden van deze stroomacties:
 
-* [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
-* [ Eigenaar van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
+* [&#x200B; Persoon van de Synchronisatie aan SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [&#x200B; Eigenaar van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >

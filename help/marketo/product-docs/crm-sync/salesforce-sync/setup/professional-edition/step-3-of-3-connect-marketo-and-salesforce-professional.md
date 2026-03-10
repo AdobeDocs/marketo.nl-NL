@@ -17,8 +17,8 @@ In dit artikel configureert u Marketo Engage voor synchronisatie met de geconfig
 
 >[!PREREQUISITES]
 >
->* [ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
->* [ Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Beroeps) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
+>* [&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
+>* [&#x200B; Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Beroeps) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
 
 ## Synchronisatie van beveiligingstoken voor gebruiker ophalen {#retrieve-sync-user-security-token}
 
@@ -48,9 +48,9 @@ In dit artikel configureert u Marketo Engage voor synchronisatie met de geconfig
 
    >[!NOTE]
    >
-   >Ben zeker om [ alle gebieden te verbergen u niet ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo van de synchronisatiegebruiker alvorens **[!UICONTROL Sync Fields]** vereist te klikken. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
+   >Ben zeker om [&#x200B; alle gebieden te verbergen u niet &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo van de synchronisatiegebruiker alvorens **[!UICONTROL Sync Fields]** vereist te klikken. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
 
-1. Ga de geloofsbrieven van de Gebruiker van de Synchronisatie van Salesforce in die in deel 2 van de configuratie van Salesforce ([ worden gecreeerd Beroeps ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [ Onderneming ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) en klik **[!UICONTROL Sync Fields]**.
+1. Ga de geloofsbrieven van de Gebruiker van de Synchronisatie van Salesforce in die in deel 2 van de configuratie van Salesforce ([&#x200B; worden gecreeerd Beroeps &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [&#x200B; Onderneming &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) en klik **[!UICONTROL Sync Fields]**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -64,7 +64,7 @@ In dit artikel configureert u Marketo Engage voor synchronisatie met de geconfig
 
    >[!CAUTION]
    >
-   >Als u over de [ afbeeldingen wilt kijken en hen ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"} aanpassen, is dit uw enige kans om dit te doen! Als u eenmaal op Salesforce Sync starten hebt geklikt, is het gelukt.
+   >Als u over de [&#x200B; afbeeldingen wilt kijken en hen &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"} aanpassen, is dit uw enige kans om dit te doen! Als u eenmaal op Salesforce Sync starten hebt geklikt, is het gelukt.
 
 ## [!DNL Salesforce] Sync starten {#start-salesforce-sync}
 
@@ -104,5 +104,5 @@ Je hebt net een van de krachtigste functies van Marketo geconfigureerd, ga je ga
 
 >[!MORELIKETHIS]
 >
->* [ installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
->* [ vorm Marketo Verkoop Insight in de Professionele Uitgave van Salesforce ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md){target="_blank"}
+>* [&#x200B; installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [&#x200B; vorm Marketo Verkoop Insight in de Professionele Uitgave van Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md){target="_blank"}

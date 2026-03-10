@@ -58,4 +58,4 @@ Uw slimme lijsten en slimme campagnes hebben nu nog meer macht.
 
 >[!MORELIKETHIS]
 >
->[ toelaten/onbruikbaar maken de Synchronisatie van de Objecten van de Douane ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}
+>[&#x200B; toelaten/onbruikbaar maken de Synchronisatie van de Objecten van de Douane &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md){target="_blank"}

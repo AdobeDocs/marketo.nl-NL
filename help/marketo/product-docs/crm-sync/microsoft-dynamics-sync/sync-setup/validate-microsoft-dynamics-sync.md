@@ -41,11 +41,11 @@ Het is erg belangrijk dat u het gereedschap Synchronisatie valideren uitvoert om
    >
    >Als u eerder hebt gesynchroniseerd, **CRM** in de linkerboom zal **[!DNL Microsoft Dynamics]** lezen, en de gegevens in de bovengenoemde vorm kunnen prepopulated zijn.
 
-1. Als alles in orde is, produceert Validate Synchronisatie een controlelijst vol groene controletekens ![— ](assets/check.png).
+1. Als alles in orde is, produceert Validate Synchronisatie een controlelijst vol groene controletekens ![— &#x200B;](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Als u ![ ](assets/delete.png) ziet, dan heeft die stap een kwestie. Zie [ Vloeiend {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics]  om het probleem te identificeren en te bevestigen. ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
+1. Als u ![&#x200B; &#x200B;](assets/delete.png) ziet, dan heeft die stap een kwestie. Zie [&#x200B; Vloeiend {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics]  om het probleem te identificeren en te bevestigen. &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
 
    >[!CAUTION]
    >
@@ -53,4 +53,4 @@ Het is erg belangrijk dat u het gereedschap Synchronisatie valideren uitvoert om
 
 >[!MORELIKETHIS]
 >
->[ bevestig {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics] ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
+>[&#x200B; bevestig {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics] &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)

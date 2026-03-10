@@ -28,14 +28,14 @@ De synchronisatie tussen [!DNL Veeva] en Marketo Engage is bidirectioneel alleen
 
 ## Wat is gesynchroniseerd tussen Marketo Engage en [!DNL Veeva] {#what-is-synced-between-marketo-engage-and-veeva}
 
-* [ Rekeningen van de Persoon ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
+* [&#x200B; Rekeningen van de Persoon &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Gebruikers
-* [ Vraag en de Zeer belangrijke Voorwerpen van de Vraag ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
-* [ de Voorwerpen van de Douane ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
+* [&#x200B; Vraag en de Zeer belangrijke Voorwerpen van de Vraag &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [&#x200B; de Voorwerpen van de Douane &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## Informatie over dingen {#things-to-know}
 
-* De [ geloofsbrieven u in Marketo Engage voor  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+* De [&#x200B; geloofsbrieven u in Marketo Engage voor  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
 * [!DNL Veeva] CRM is gebaseerd op force.com en de rijke ervaring die Marketo Engage met het platform heeft, wordt in deze synchronisatie overgeërfd.
 

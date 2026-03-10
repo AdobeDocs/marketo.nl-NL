@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer u voor het eerst synchroniseert met [!DNL Microsoft Dynamics] , downloadt u de nieuwste versie van de plug-ins voor Marketo. Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
 
-[ Download de recentste stop ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) die aan uw [!DNL Dynamics] versie beantwoordt.
+[&#x200B; Download de recentste stop &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) die aan uw [!DNL Dynamics] versie beantwoordt.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
@@ -135,4 +135,4 @@ Wanneer u voor het eerst synchroniseert met [!DNL Microsoft Dynamics] , download
 
 >[!MORELIKETHIS]
 >
->[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[&#x200B; Download de Oplossing van het Beheer van de Lood van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

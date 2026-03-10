@@ -21,7 +21,7 @@ Aangepaste objecten die in uw [!DNL Salesforce] -instantie zijn gemaakt, kunnen 
 
 >[!PREREQUISITES]
 >
->Om een douanevoorwerp te gebruiken, moet het aan a [ lood ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [ contact ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), of [ rekening ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) voorwerp in [!DNL Salesforce] worden geassocieerd.
+>Om een douanevoorwerp te gebruiken, moet het aan a [&#x200B; lood &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [&#x200B; contact &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), of [&#x200B; rekening &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) voorwerp in [!DNL Salesforce] worden geassocieerd.
 
 >[!IMPORTANT]
 >
@@ -87,6 +87,6 @@ Aangepaste objecten die in uw [!DNL Salesforce] -instantie zijn gemaakt, kunnen 
 
 ### Volgende functies: {#whats-next}
 
-[ voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe
+[&#x200B; voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe
 
 Uitstekend! U kunt nu gegevens uit dit aangepaste object gebruiken in slimme campagnes en slimme lijsten.
