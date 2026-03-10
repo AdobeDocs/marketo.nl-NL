@@ -1,11 +1,11 @@
 ---
-description: Een publiek synchroniseren vanuit Adobe Experience Cloud - Marketo Docs - Productdocumentatie
+description: Leer hoe u een publiek van Adobe Experience Cloud synchroniseert met Marketo Engage. Trek publiek van de Bibliotheek van het Publiek in uw gegevensbestand van Marketo voor gebruik in campagnes en programma's.
 title: Een publiek synchroniseren vanuit Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; de Plaatsing van de Organisatie van Adobe van de Opstelling Afbeelding &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
+>[ de Plaatsing van de Organisatie van Adobe van de Opstelling Afbeelding ](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}
 
 ## Een publiek synchroniseren {#how-to-sync-an-audience}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 Wanneer de cookiesync voor uw Marketo Abonnement wordt toegelaten, probeert Marketo munchkin.js om Adobe ECIDs voor de Org van de IMS van Adobe te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van Marketo aan te passen. Hierdoor kunnen anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe ECID&#39;s.
 
-Een volgende stap is vereist om het anonieme gebruikersprofiel te koppelen aan een lead-profiel, dat wordt geïdentificeerd met een e-mailbericht met normale tekst. Precies hoe dit werk [&#x200B; hier &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} wordt beschreven.
+Een volgende stap is vereist om het anonieme gebruikersprofiel te koppelen aan een lead-profiel, dat wordt geïdentificeerd met een e-mailbericht met normale tekst. Precies hoe dit werk [ hier ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} wordt beschreven.
 
 **waarom is de lijstgrootte in Marketo verschillend dan in Adobe?**
 

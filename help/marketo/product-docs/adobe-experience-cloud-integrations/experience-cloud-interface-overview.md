@@ -1,11 +1,11 @@
 ---
-description: Overzicht Adobe Experience Cloud Interface - Marketo Docs - Productdocumentatie
+description: Meer informatie over de Adobe Experience Cloud Interface en Unified Shell die Marketo Engage in één exemplaar levert. Gebruik dit programma om u aan te melden, te schakelen tussen Adobe-producten en hulp en meldingen te openen.
 title: Overzicht Adobe Experience Cloud Interface
 exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Met Adobe Experience Cloud Interface wordt de &#39;shell&#39;-look en -feel van 
 
 ## Gebruikersstroom {#user-flow}
 
-Als u niet reeds aan een product van Adobe Experience Cloud wordt het programma geopend, login direct aan [!DNL Marketo Engage] hier: [&#x200B; https://experience.adobe.com/marketo-engage &#x200B;](https://experience.adobe.com/marketo-engage).
+Als u niet reeds aan een product van Adobe Experience Cloud wordt het programma geopend, login direct aan [!DNL Marketo Engage] hier: [ https://experience.adobe.com/marketo-engage ](https://experience.adobe.com/marketo-engage).
 
 Als u __ reeds het programma wordt geopend aan een product van Adobe Experience Cloud, klik eenvoudig het menupictogram en selecteer **[!DNL Marketo Engage]**.
 
@@ -58,7 +58,7 @@ Klik op het profielpictogram om de taal of andere voorkeuren voor Adobe te wijzi
 
 **ik kan niet login aan [!DNL Marketo Engage] door de Interface van Experience Cloud. Wat zou de kwestie kunnen zijn?**
 
-Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &#39;&#39;Kan pagina niet laden&#39;&#39; ziet, kan het probleem zich voordoen op de zijde van [!DNL Marketo Engage] . Gelieve te contacteren {de Steun van 0} Marketo [&#x200B; voor hulp.](https://nation.marketo.com/t5/support/ct-p/Support)
+Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &#39;&#39;Kan pagina niet laden&#39;&#39; ziet, kan het probleem zich voordoen op de zijde van [!DNL Marketo Engage] . Gelieve te contacteren {de Steun van 0} Marketo [ voor hulp.](https://nation.marketo.com/t5/support/ct-p/Support)
 
 **waar ging de Geschiedenis van de Gebruiker, Globaal Onderzoek, de Meldingen van Marketo, en het dienblad?**
 

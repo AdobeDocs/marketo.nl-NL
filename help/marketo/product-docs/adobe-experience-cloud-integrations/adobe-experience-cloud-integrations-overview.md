@@ -1,11 +1,11 @@
 ---
-description: Adobe Experience Cloud-integratieoverzicht - Marketo Docs - Productdocumentatie
+description: Meer informatie over de integratie van Adobe Experience Cloud met Marketo Engage, waaronder synchronisatie van native doelgroepen en Audience Manager. Integraties instellen en B2B-vraagmarketing ontgrendelen in Adobe-apps.
 title: Overzicht Adobe Experience Cloud-integratie
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -16,20 +16,20 @@ Adobe biedt een robuuste oplossing voor het in de handel brengen van de vraag, t
 
 >[!NOTE]
 >
->Voor de integratie, waaronder Audience Manager en [!DNL Adobe Real-Time CDP Marketo Connecter] , moet mogelijk de IMS org in Marketo Engage worden toegewezen. [&#x200B; Leer hoe te de organisatietoewijzing van opstellingsAdobe &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
+>Voor de integratie, waaronder Audience Manager en [!DNL Adobe Real-Time CDP Marketo Connecter] , moet mogelijk de IMS org in Marketo Engage worden toegewezen. [ Leer hoe te de organisatietoewijzing van opstellingsAdobe ](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target="_blank"}.
 
 ## Adobe Experience Cloud-integratie {#adobe-experience-cloud-integrations}
 
 **de Integratie van Marketo met Adobe Audience Manager**
 
-* [&#x200B; Synchroniseer een Publiek van Adobe Experience Cloud &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
+* [ Synchroniseer een Publiek van Adobe Experience Cloud ](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"}
 
-* [&#x200B; verzend een Lijst naar Adobe Experience Cloud &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
+* [ verzend een Lijst naar Adobe Experience Cloud ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"}
 
 Staat u toe om statische lijsten van bekende mensen van Marketo Engage aan veelvoudige toepassingen te synchroniseren AEC, die bestaande programma&#39;s verbetert, nieuwe gebruiksgevallen ontgrendelt, en multi-kanaalcampagnes organiseert. Deze integratie omvat: Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager en Adobe Advertising Cloud.
 
 **de Integratie van Marketo met Adobe Experience Manager**
 
-* [&#x200B; het Invoeren Assets met Adobe Experience Manager &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
+* [ het Invoeren Assets met Adobe Experience Manager ](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md){target="_blank"}
 
-* [&#x200B; integreren met Adobe Analytics &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}
+* [ integreren met Adobe Analytics ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md){target="_blank"}

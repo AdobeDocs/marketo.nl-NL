@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355768
-description: Assets importeren met Adobe Experience Manager - Marketo Docs - Productdocumentatie
+description: Leer hoe u elementen van Adobe Experience Manager importeert naar Marketo Design Studio. Gebruik de functie Asset Selector om AEM-afbeeldingen te openen, te selecteren en over te brengen naar uw Marketo-campagnes.
 title: Assets importeren met Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Met de Asset Selector kunnen Marketo-klanten AEM-elementen openen, selecteren en
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u reeds de [&#x200B; Configuratie van AEM &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) hebt uitgevoerd.
+>Zorg ervoor u reeds de [ Configuratie van AEM ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) hebt uitgevoerd.
 
 >[!IMPORTANT]
 >

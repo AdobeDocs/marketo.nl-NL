@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762511
-description: Toewijzing Adobe-organisatie instellen - Marketo-documenten - Productdocumentatie
+description: Leer hoe u Adobe-organisatietoewijzing instelt in Marketo Engage voor synchronisatie met Audience Manager en andere Adobe-apps.
 title: Toewijzing Adobe-organisatie instellen
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '233'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Ga uw identiteitskaart van de Org van Adobe IMS in (leer hoe te om dat [&#x200B; hier &#x200B;](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=nl-NL){target="_blank"} te vinden) en **[!UICONTROL OK]** te klikken.
+1. Ga uw identiteitskaart van de Org van Adobe IMS in (leer hoe te om dat [ hier ](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"} te vinden) en **[!UICONTROL OK]** te klikken.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -54,4 +54,4 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 
 1. Als u _niet_ reeds het programma wordt geopend, zal pop-up in een nieuw lusje/venster verschijnen. Meld u aan bij uw Adobe-org (deze bewerking valideert de toegang tot de org).
 
-U kunt [&#x200B; publieksgegevens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} aan, of [&#x200B; synchronisatie nu delen een publiek &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} van Adobe Experience Cloud.
+U kunt [ publieksgegevens ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} aan, of [ synchronisatie nu delen een publiek ](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} van Adobe Experience Cloud.
