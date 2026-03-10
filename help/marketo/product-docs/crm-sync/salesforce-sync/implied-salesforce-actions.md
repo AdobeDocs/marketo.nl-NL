@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719304
-description: Impliciete Salesforce-acties - Marketo Docs - Productdocumentatie
+description: Begrijp welke de stroomstappen van Salesforce automatische Synchronisatie Persoon aan SFDC of andere acties teweegbrengen. Leer de regels voor Toevoegen aan campagne, Eigenaar wijzigen, Taak maken en Persoon omzetten.
 title: Impliciete Salesforce-handelingen
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer een [!DNL Salesforce]-specifieke stroomstap wordt uitgevoerd, worden soms extra stappen automatisch uitgevoerd. Hier zijn de regels, dus weet u:
 
-Deze regels zullen van toepassing zijn wanneer de persoon momenteel niet in [&#x200B; Salesforce.com &#x200B;](https://Salesforce.com){target="_blank"} als contact of lood is.
+Deze regels zullen van toepassing zijn wanneer de persoon momenteel niet in [ Salesforce.com ](https://Salesforce.com){target="_blank"} als contact of lood is.
 
 <table>
  <thead>
@@ -50,4 +50,4 @@ Deze regels zullen van toepassing zijn wanneer de persoon momenteel niet in [&#x
 
 U kunt SFDC-records in een slimme lijst uitfilteren met het filter **[!UICONTROL SFDC Type]** en de operator &quot;[!UICONTROL is not empty]&quot;. Alle SFDC-records hebben een waarde in dit veld.
 
-Herinner me, gebeuren deze automatische acties slechts als het lood niet momenteel in [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"} is
+Herinner me, gebeuren deze automatische acties slechts als het lood niet momenteel in [ Salesforce.com ](https://salesforce.com){target="_blank"} is

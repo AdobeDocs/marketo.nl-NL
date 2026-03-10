@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953457
-description: SFDC Sync - Contact Sync - Marketo Docs - Productdocumentatie
+description: Meer informatie over hoe contactsynchronisatie werkt tussen Salesforce en Marketo. Begrijp bidirectionele synchronisatie, zet mensen in contacten, en forceer synchronisatie met stroomacties.
 title: SFDC Sync - Contact opnemen met Sync
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---

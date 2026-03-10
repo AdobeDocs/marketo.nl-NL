@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8782944
-description: Marketo Sync User a Marketing User - Marketo Docs - Productdocumentatie maken
+description: Leer hoe u van de Marketo-gebruiker een marketinggebruiker in Salesforce kunt maken. Schakel het selectievakje Gebruiker op de markt brengen in, zodat de Salesforce-campagnecsync goed werkt.
 title: Marketo Sync gebruiker instellen als marketinggebruiker
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 0%
 
 ---
 
 # Marketo Sync gebruiker instellen als marketinggebruiker {#make-marketo-sync-user-a-marketing-user}
 
-De [&#x200B; synchronisatiegebruiker van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} moet een gebruiker van de Marketing voor de de campagnesynchronisatie van Salesforce zijn om behoorlijk te werken. Hieronder wordt beschreven hoe u van de gebruiker een marketinggebruiker in Salesforce kunt maken.
+De [ synchronisatiegebruiker van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} moet een gebruiker van de Marketing voor de de campagnesynchronisatie van Salesforce zijn om behoorlijk te werken. Hieronder wordt beschreven hoe u van de gebruiker een marketinggebruiker in Salesforce kunt maken.
 
 >[!NOTE]
 >

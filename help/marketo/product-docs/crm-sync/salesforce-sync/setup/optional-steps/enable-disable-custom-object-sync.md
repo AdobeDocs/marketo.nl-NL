@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719297
-description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste objectsynchronisatie van Salesforce in Marketo Engage in- of uitschakelt. Gebruik Beheer en Salesforce Objects Sync om objecten te selecteren en schema te vernieuwen.
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -79,4 +79,4 @@ Aangepaste objecten die in een Salesforce-instantie zijn gemaakt, kunnen ook dee
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe
+>[ voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe

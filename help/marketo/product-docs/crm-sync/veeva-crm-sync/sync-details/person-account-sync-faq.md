@@ -1,11 +1,11 @@
 ---
-description: Veelgestelde vragen over synchronisatie van persoonlijke accounts - Marketo-documenten - Productdocumentatie
+description: Hulp bij synchronisatie van persoonlijke accounts tussen Marketo Engage en Veeva CRM. Leer hoe persoonlijke accounts worden gesynchroniseerd als bedrijf en persoon en het filter Is Person-account gebruiken.
 title: Veelgestelde vragen over synchronisatie van persoonlijke account
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -74,5 +74,5 @@ Ja, als er een conflict is, zullen wij het resultaat in het Logboek van de Activ
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Gebrek  [!DNL Veeva]  het Toewijzing van het Gebied &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
->* [&#x200B; synchroniserend Vraag en de Zeer belangrijke Berichten van de Vraag &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [ Gebrek  [!DNL Veeva]  het Toewijzing van het Gebied ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [ synchroniserend Vraag en de Zeer belangrijke Berichten van de Vraag ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

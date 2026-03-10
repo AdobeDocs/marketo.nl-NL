@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095307
-description: Aangepaste filterregels voor synchronisatie voor een e-mailadres - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste synchronisatiefilterregels instelt voor e-mailadressen in Dynamics. Gebruik workflows om Sync in te stellen op Mkto op basis van het feit of lead of contact een e-mail heeft.
 title: Aangepaste filterregels voor synchronisatie voor een e-mailadres
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Stap 2 van 3 - creeer a [!DNL Veeva]  Gebruiker van CRM voor Marketo Engage - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u een Veeva CRM-gebruiker maakt voor Marketo Engage-synchronisatie. Stel paginalay-outs in, maak de synchronisatiegebruiker en wijs machtigingen toe voor veldinstellingen.
 title: Stap 2 van 3 - Een Veeva CRM-gebruiker voor Marketo Engage maken
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '555'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Beroeps) &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>[ Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Beroeps) ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 In dit artikel past u veldmachtigingen aan met een [!DNL Veeva] CRM-paginalay-out en maakt u een [!DNL Marketo-Veeva] CRM-synchronisatiegebruiker.
 
@@ -201,4 +201,4 @@ Uitstekend! Nu hebt u een account waarmee Marketo Engage verbinding kan maken me
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Stap 3 van 3: Verbind Marketo en  [!DNL Veeva]  CRM &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}
+>[ Stap 3 van 3: Verbind Marketo en  [!DNL Veeva]  CRM ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

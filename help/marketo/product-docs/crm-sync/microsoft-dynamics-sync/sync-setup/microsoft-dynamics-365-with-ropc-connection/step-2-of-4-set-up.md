@@ -1,11 +1,11 @@
 ---
-description: Stap 2 van 4 - Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel - de Documentatie van Marketo -
+description: Leer hoe u de Marketo-oplossing instelt met ROPC-verbinding. Maak de synchronisatiegebruiker in Dynamiek en wijs de gebruikersrol van de Synchronisatie van Marketo voor authentificatie toe.
 title: Stap 2 van 4 - Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Laten we beginnen met het maken van een gebruikersaccount.
 
 >[!PREREQUISITES]
 >
->[&#x200B; Stap 1 van 4: Installeer de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
+>[ Stap 1 van 4: Installeer de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
 
 ## Nieuwe gebruiker maken {#create-a-new-user}
 
@@ -70,11 +70,11 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
 >[!NOTE]
 >
->Dit geldt voor Marketo-versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [&#x200B; de Oplossing van Marketo van de Verbetering voor  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Dit geldt voor Marketo-versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [ de Oplossing van Marketo van de Verbetering voor  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
->Taal het plaatsen van de Gebruiker van de Synchronisatie [&#x200B; zou aan Engels &#x200B;](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"} moeten worden geplaatst.
+>Taal het plaatsen van de Gebruiker van de Synchronisatie [ zou aan Engels ](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"} moeten worden geplaatst.
 
 1. Ga terug naar de tab [!UICONTROL Enabled Users] en vernieuw de lijst met gebruikers.
 
@@ -106,7 +106,7 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 
    >[!NOTE]
    >
-   >Als u **[!UICONTROL Marketo Config]** niet ziet in het menu [!UICONTROL Settings] , vernieuwt u de pagina. Als dat niet werkt, probeer [&#x200B; om de Oplossing van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) opnieuw te publiceren of logout en terug binnen.
+   >Als u **[!UICONTROL Marketo Config]** niet ziet in het menu [!UICONTROL Settings] , vernieuwt u de pagina. Als dat niet werkt, probeer [ om de Oplossing van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) opnieuw te publiceren of logout en terug binnen.
 
 1. Klik op **[!UICONTROL Default]**.
 
@@ -134,4 +134,4 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Stap 3 van 4: Verbind de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md){target="_blank"}
+>[ Stap 3 van 4: Verbind de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md){target="_blank"}

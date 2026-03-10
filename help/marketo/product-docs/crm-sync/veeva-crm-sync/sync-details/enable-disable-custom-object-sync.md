@@ -1,11 +1,11 @@
 ---
-description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste objectsynchronisatie in- of uitschakelt tussen Veeva CRM en Marketo Engage. Gebruik Admin en Veeva Objects Sync om aangepaste objecten te selecteren en te synchroniseren.
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -74,4 +74,4 @@ Uitstekend! U kunt de gegevens van dit aangepaste object nu gebruiken in [!UICON
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe
+>[ voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe

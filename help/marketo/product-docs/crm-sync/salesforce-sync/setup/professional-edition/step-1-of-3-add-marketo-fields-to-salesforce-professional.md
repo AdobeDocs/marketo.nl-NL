@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11372975
-description: Stap 1 van 3 - Voeg Marketo-velden toe aan Salesforce (Professional) - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo-velden toevoegt aan de Salesforce Professional-editie. Creëer Score, het Programma van de Aankoop, en de Datum van de Aankoop op lood en contactvoorwerpen.
 title: Stap 1 van 3 - Marketo-velden toevoegen aan Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '730'
 ht-degree: 1%
 
 ---
@@ -258,4 +258,4 @@ Gemakkelijk genoeg, toch?
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Beroeps) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
+>[ Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Beroeps) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}

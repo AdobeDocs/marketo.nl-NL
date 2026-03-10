@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12983390
-description: Registreer een app bij Azure om uw client-id/app-id aan te schaffen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een app registreert bij Azure voor een Client-id en app-id voor Dynamic-synchronisatie. Gebruik Azure Active Directory- en App-registraties voor verificatie.
 title: Registreer een app bij Azure om uw client-id/app-id op te halen
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Azure Active Directory breidt uw mappen op locatie uit naar de cloud en biedt on
 
 ## Een nieuwe app registreren {#registering-a-new-app}
 
-1. [&#x200B; Login &#x200B;](https://login.microsoftonline.com/){target="_blank"} aan het Microsoft Azure beheersportaal gebruikend een rekening met admintoestemmingen. U kunt het Microsoft Azure-portaal ook openen via Office 365 Admin Center door het item **[!UICONTROL Admin]** uit te vouwen in het linkernavigatievenster en **[!UICONTROL Azure AD]** te selecteren.
+1. [ Login ](https://login.microsoftonline.com/){target="_blank"} aan het het beheersportaal van Microsoft Azure gebruikend een rekening met admintoestemmingen. U kunt het Microsoft Azure-portaal ook openen via Office 365 Admin Center door het item **[!UICONTROL Admin]** uit te vouwen in het linkernavigatievenster en **[!UICONTROL Azure AD]** te selecteren.
 
    >[!CAUTION]
    >
@@ -25,10 +25,10 @@ Azure Active Directory breidt uw mappen op locatie uit naar de cloud en biedt on
 
    >[!NOTE]
    >
-   >Als u geen Azure rekening hebt, kunt u [&#x200B; omhoog &#x200B;](https://azure.microsoft.com/en-us/free/){target="_blank"} voor ondertekenen. Raadpleeg de documentatie bij Microsoft of neem contact op met uw Microsoft-vertegenwoordiger voor meer informatie. Nadat u een Azure-account hebt gemaakt, kunt u een of meer apps registreren aan de hand van de onderstaande procedure.
+   >Als u geen rekening van Azure hebt, kunt u [ omhoog ](https://azure.microsoft.com/en-us/free/){target="_blank"} voor ondertekenen. Raadpleeg de documentatie bij Microsoft of neem contact op met uw Microsoft-vertegenwoordiger voor meer informatie. Nadat u een Azure-account hebt gemaakt, kunt u een of meer apps registreren volgens de onderstaande procedure.
    >
    >
-   >Als u een Azure rekening maar uw [!DNL Office 365] abonnement met [!DNL Microsoft Dynamics 365] niet beschikbaar in uw Azure abonnement hebt, volg [&#x200B; deze instructies &#x200B;](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} om de twee rekeningen te associëren.
+   >Als u een rekening van Azure maar uw [!DNL Office 365] abonnement met [!DNL Microsoft Dynamics 365] niet beschikbaar in uw abonnement van Azure hebt, volg [ deze instructies ](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} om de twee rekeningen te associëren.
 
 1. Zoek en klik op **[!UICONTROL Azure Active Directory]** in het navigatievenster aan de linkerkant.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571805
-description: Stap 1 van 3 - Installeer de Marketo-oplossing (2011 op locatie) - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Marketo-oplossing voor Dynamics 2011 op locatie installeert. Importeer de oplossing en voltooi de installatiestappen in Dynamics.
 title: Stap 1 van 3 - Installeer de Marketo-oplossing (2011 op locatie)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '260'
 ht-degree: 1%
 
 ---
@@ -21,9 +21,9 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
 >[!PREREQUISITES]
 >
->U moet [&#x200B; Internet hebben dat Plaatsing &#x200B;](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) met [&#x200B; de Actieve Diensten van de Federatie van de Folder &#x200B;](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 of 3.0 (ADFS) gevormd. **Nota**: Het IFD document downloadt automatisch wanneer u de verbinding klikt.
+>U moet [ Internet hebben dat Plaatsing ](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"} (IFD) met [ de Actieve Diensten van de Federatie van de Folder ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0, 2.1 of 3.0 (ADFS) gevormd. **Nota**: Het IFD document downloadt automatisch wanneer u de verbinding klikt.
 >
->[&#x200B; Download de Oplossing van het Beheer van de Lood van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
+>[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klik op **[!UICONTROL Browse]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Browse]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,4 +93,4 @@ Voordat u [!DNL Microsoft Dynamics] Op locatie en Marketo kunt synchroniseren, m
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Stap 2 van 3: De Gebruiker van de Synchronisatie van Marketo van de opstelling in  [!DNL Dynamics]  (2011 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[ Stap 2 van 3: De Gebruiker van de Synchronisatie van Marketo van de opstelling in  [!DNL Dynamics]  (2011 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

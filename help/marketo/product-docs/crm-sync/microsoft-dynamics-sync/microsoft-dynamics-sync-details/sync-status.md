@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097584
-description: Synchronisatiestatus - Marketo Docs - Productdocumentatie
+description: Meer informatie over de Microsoft Dynamics-synchronisatiestatus en over hoe u de doorvoer en achterstand kunt controleren. De tabbladen Synchronisatiestatus en Fouten synchroniseren weergeven in Beheer.
 title: Synchronisatiestatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -55,4 +55,4 @@ Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesy
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Types van Bericht &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}
+>[ Types van Bericht ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md){target="_blank"}

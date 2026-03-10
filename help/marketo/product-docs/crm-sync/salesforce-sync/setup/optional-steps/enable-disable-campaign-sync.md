@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719289
-description: Campagne Sync inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u het synchroniseren van Salesforce-campagnes in Marketo Engage in- of uitschakelt.
 title: Campagne synchroniseren inschakelen/uitschakelen
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '86'
 ht-degree: 1%
 
 ---
@@ -35,6 +35,6 @@ Daar heb je het. Geef de synchronisatie gewoon wat tijd om de gegevens van Sales
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Synchronisatie van SFDC: De Synchronisatie van de Campagne &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
->* [&#x200B; plaats de StandaardNaam van de Lood en de Waarden van het Bedrijf &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
->* [&#x200B; pas de Synchronisatie van Activiteiten &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} aan
+>* [ Synchronisatie van SFDC: De Synchronisatie van de Campagne ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [ plaats de StandaardNaam van de Lood en de Waarden van het Bedrijf ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md){target="_blank"}
+>* [ pas de Synchronisatie van Activiteiten ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md){target="_blank"} aan

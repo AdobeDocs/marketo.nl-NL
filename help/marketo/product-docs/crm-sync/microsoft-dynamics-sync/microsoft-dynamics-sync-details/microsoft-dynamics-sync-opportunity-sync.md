@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571844
-description: Microsoft Dynamics Sync -Opportunity Sync - Marketo Docs - Productdocumentatie
+description: Meer informatie over hoe synchronisatie van mogelijkheden van Microsoft Dynamics naar Marketo werkt. Begrijp eenzijdige synchronisatie en hoe de kansen met contacten en lood associëren.
 title: Microsoft Dynamics Sync - Opportunity Sync
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Nee, u moet de mogelijkheid maken in [!DNL Dynamics] en deze wordt automatisch g
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#what-fields-will-sync-to-marketo}
 
-U kunt [&#x200B; gebieden selecteren om &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} tijdens opstelling te synchroniseren.
+U kunt [ gebieden selecteren om ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} tijdens opstelling te synchroniseren.
 
 ## Hoe wordt een account/contactpersoon gekoppeld aan een opportunity? {#how-is-an-account-contact-associated-with-an-opportunity}
 

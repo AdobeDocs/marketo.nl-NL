@@ -1,11 +1,11 @@
 ---
-description: Te synchroniseren velden bewerken voordat deze in Dynamics worden verwijderd - Marketo Docs - Productdocumentatie
+description: Leer hoe u velden kunt bewerken om te synchroniseren in Marketo voordat u ze verwijdert in Dynamics. Schakel synchroniseren uit, vernieuw het schema en verwijder het veld uit de synchronisatieselectie.
 title: Te synchroniseren velden bewerken voordat deze worden verwijderd in Dynamiek
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

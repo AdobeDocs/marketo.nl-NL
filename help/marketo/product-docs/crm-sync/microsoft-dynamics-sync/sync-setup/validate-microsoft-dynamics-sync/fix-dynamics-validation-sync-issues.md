@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095429
-description: Problemen met validatie synchroniseren van dynamiek verhelpen - Marketo Docs - productdocumentatie
+description: Leer hoe u problemen met het synchroniseren van dynamische validaties verhelpt wanneer het gereedschap Synchronisatie valideren fouten meldt. Los URL, geloofsbrieven, synchroniseer gebruikersrol, en andere opstellingsstappen problemen op.
 title: Problemen met validatie synchroniseren van dynamiek verhelpen
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Resultaten van gereedschap Sync valideren {#validate-sync-tool-results}
 
-Wanneer u de Dynamica in werking stelt bevestigt Synchronisatie, produceert het een rapport. Als er een ![&#x200B; x &#x200B;](assets/delete.png) naast een stap is, zie de opties hieronder om het probleem te identificeren en te bevestigen. Voer vervolgens de validatiestappen opnieuw uit totdat het resultaat alleen groene vinkjes weergeeft.
+Wanneer u de Dynamica in werking stelt bevestigt Synchronisatie, produceert het een rapport. Als er een ![ x ](assets/delete.png) naast een stap is, zie de opties hieronder om het probleem te identificeren en te bevestigen. Voer vervolgens de validatiestappen opnieuw uit totdat het resultaat alleen groene vinkjes weergeeft.
 
 ![](assets/image2015-9-22-15-3a58-3a12.png)
 
 ## URL is geldig {#url-is-valid}
 
-Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, verifieer dat URL geldig is. Vind het hier in de Middelen van de Ontwikkelaar en bekijk de Dienst van de Organisatie. De URL kan om een aantal redenen ongeldig zijn.
+Als u een ![ x ](assets/delete.png) hier hebt, verifieer dat URL geldig is. Vind het hier in de Middelen van de Ontwikkelaar en bekijk de Dienst van de Organisatie. De URL kan om een aantal redenen ongeldig zijn.
 
 1. Meld u aan bij Dynamics. Klik het pictogram van Montages en selecteer **Geavanceerde Montages**.
 
@@ -41,11 +41,11 @@ Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, verifieer dat URL
 
 ## Gebruikersnaam en wachtwoord zijn geldig {#username-and-password-are-valid}
 
-Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, verifieer dat uw geloofsbrieven van Microsoft Dynamics geldig zijn. Voor de authentificatie van S2S van het Web API, moet de gebruikersbenaming in Marketo het [&#x200B; e-mailadres &#x200B;](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) van de Gebruiker van de Toepassing in CRM aanpassen. Voor andere typen moet deze overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker.
+Als u een ![ x ](assets/delete.png) hier hebt, verifieer dat uw geloofsbrieven van Microsoft Dynamics geldig zijn. Voor de authentificatie van S2S van het Web API, moet de gebruikersbenaming in Marketo het [ e-mailadres ](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) van de Gebruiker van de Toepassing in CRM aanpassen. Voor andere typen moet deze overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker.
 
 ## De gebruiker synchroniseren wordt toegewezen aan de Marketo Sync-gebruikersrol {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, zou het één van de drie hieronder kwesties kunnen zijn.
+Als u een ![ x ](assets/delete.png) hier hebt, zou het één van de drie hieronder kwesties kunnen zijn.
 
 **Optie één - verifieer dat de Rol van de Gebruiker van de Synchronisatie van Marketo in Microsoft Dynamics** wordt gecontroleerd:
 
@@ -75,7 +75,7 @@ Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, zou het één van
 
 **Optie Twee - bevestig Toestemming van de Verlening**:
 
-1. Herzie de [&#x200B; Toestemming van de Verlening voor Identiteitskaart van de Cliënt en Registratie van de Toepassing &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) om app te bevestigen heeft admin toestemming om APIs te roepen.
+1. Herzie de [ Toestemming van de Verlening voor Identiteitskaart van de Cliënt en Registratie van de Toepassing ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) om app te bevestigen heeft admin toestemming om APIs te roepen.
 
 **Optie Drie - de Gebruiker van de Synchronisatie**:
 
@@ -83,7 +83,7 @@ Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, zou het één van
 
 ## Marketo-oplossing is correct geïnstalleerd {#marketo-solution-is-properly-installed}
 
-Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, ga naar Microsoft Dynamics om te verifiëren de installatie van Marketo daar is. Zie Stap 1 van de Microsoft Dynamics-installatiedocumentatie.
+Als u een ![ x ](assets/delete.png) hier hebt, ga naar Microsoft Dynamics om te verifiëren de installatie van Marketo daar is. Zie Stap 1 van de Microsoft Dynamics-installatiedocumentatie.
 
 1. In Dynamiek, klik het pictogram van Montages en selecteer **Geavanceerde Montages**.
 
@@ -99,11 +99,11 @@ Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, ga naar Microsoft
 
 ## Alle stappen in de oplossing worden toegelaten {#all-steps-in-the-solution-are-enabled}
 
-Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, verifieer dat geen van de standaardstappen zijn gedeactiveerd. Alle stappen worden automatisch ingeschakeld bij de installatie, maar kunnen tijdens een aanpassing worden gedeactiveerd.
+Als u een ![ x ](assets/delete.png) hier hebt, verifieer dat geen van de standaardstappen zijn gedeactiveerd. Alle stappen worden automatisch ingeschakeld bij de installatie, maar kunnen tijdens een aanpassing worden gedeactiveerd.
 
 ## De synchronisatiegebruiker wordt toegewezen aan de Marketo-oplossing {#sync-user-is-assigned-to-the-marketo-solution}
 
-Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, zorg ervoor de gebruiker van de Synchronisatie op de Standaard pagina van Marketo in Microsoft Dynamics wordt toegewezen.
+Als u een ![ x ](assets/delete.png) hier hebt, zorg ervoor de gebruiker van de Synchronisatie op de Standaard pagina van Marketo in Microsoft Dynamics wordt toegewezen.
 
 1. In Dynamiek, klik het pictogram van Montages en selecteer **Geavanceerde Montages**.
 
@@ -119,8 +119,8 @@ Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, zorg ervoor de ge
 
 ## Gebruikersnamen en wachtwoord synchroniseren {#sync-user-matches-username-and-password}
 
-Als u een ![&#x200B; x &#x200B;](assets/delete.png) hier hebt, ben zeker om de juiste synchronisatiegebruiker op het gebied van de Gebruiker van Marketo in de Standaard de opstellingsstap van Marketo Config in Microsoft Dynamics toe te wijzen.
+Als u een ![ x ](assets/delete.png) hier hebt, ben zeker om de juiste synchronisatiegebruiker op het gebied van de Gebruiker van Marketo in de Standaard de opstellingsstap van Marketo Config in Microsoft Dynamics toe te wijzen.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; bevestigt de Synchronisatie van Microsoft Dynamics &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+>[ bevestigt de Synchronisatie van Microsoft Dynamics ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095389
-description: Een contactpersoon maken in Microsoft Dynamics - Marketo Docs - Productdocumentatie
+description: Leer hoe u een contactpersoon kunt maken in Microsoft Dynamics vanuit Marketo. Gebruik de stroomactie van de Persoon van de Synchronisatie aan Microsoft in een trekkercampagne voor het creëren van contact in real time.
 title: Een contactpersoon maken in Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 

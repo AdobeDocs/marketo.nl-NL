@@ -1,12 +1,12 @@
 ---
-description: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Unlimited) - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo en Salesforce kunt verbinden in de laatste stap Enterprise of Onbeperkt. Haal het token voor gebruikersbeveiliging op en stel referenties in in Marketo Admin.
 title: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Onbeperkt)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ In dit artikel configureert u Marketo Engage voor synchronisatie met de geconfig
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
->* [&#x200B; Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>* [ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [ Stap 2 van 3: Creeer een Gebruiker van Salesforce voor Marketo (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
 
 ## Synchronisatie van beveiligingstoken voor gebruiker ophalen {#retrieve-sync-user-security-token}
 

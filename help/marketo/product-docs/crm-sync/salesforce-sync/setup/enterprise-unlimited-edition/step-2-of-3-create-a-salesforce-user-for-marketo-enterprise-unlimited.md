@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360364
-description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Unlimited) - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Salesforce-gebruiker maakt voor Marketo met Enterprise of Unlimited Edition. Maak een profiel, stel machtigingen in en maak de synchronisatiegebruiker Marketo-Salesforce.
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[ Stap 1 van 3: Voeg de Gebieden van Marketo aan  [!DNL Salesforce]  toe (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 In dit artikel stelt u gebruikersmachtigingen in in het [!DNL Salesforce] -profiel en maakt u een Marketo- [!DNL Salesforce] -integratieaccount.
 
@@ -162,4 +162,4 @@ Stap 2 van 3 is voltooid.
 
 >[!NOTE]
 >
->[&#x200B; Stap 3 van 3: Verbind Marketo en  [!DNL Salesforce]  (Onderneming/Onbeperkt) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[ Stap 3 van 3: Verbind Marketo en  [!DNL Salesforce]  (Onderneming/Onbeperkt) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

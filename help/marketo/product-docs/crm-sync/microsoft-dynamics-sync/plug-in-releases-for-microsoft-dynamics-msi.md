@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099102
-description: Plug-in versies voor  [!DNL Microsoft Dynamics]  MSI - de Documentatie van Marketo - de Documentatie van het Product
+description: Meer informatie over plug-inreleases voor Microsoft Dynamics MSI. Zoek de versiegeschiedenis en download de nieuwste Marketo-oplossing voor uw versie van Dynamics.
 title: Vloeiingen van de stop-binnen voor  [!DNL Microsoft Dynamics]  MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer u voor het eerst synchroniseert met [!DNL Microsoft Dynamics] , downloadt en installeert u de nieuwste versie van de plug-ins voor Marketo Sales Insight (MSI). Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
 
-Als u de inheemse synchronisatieoplossing van CRM van Marketo aan [!DNL Dynamics] gebruikt, gelieve [&#x200B; de recentste elektrisch toestel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} die aan uw [!DNL Dynamics] versie beantwoorden te downloaden. Voor degenen die een douanesync hebben en de Verkoop Insight van Marketo hebben gekocht, is het [&#x200B; pakket hier &#x200B;](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Als u de inheemse synchronisatieoplossing van CRM van Marketo aan [!DNL Dynamics] gebruikt, gelieve [ de recentste elektrisch toestel ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} die aan uw [!DNL Dynamics] versie beantwoorden te downloaden. Voor degenen die een douanesync hebben en de Verkoop Insight van Marketo hebben gekocht, is het [ pakket hier ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >

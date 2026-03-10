@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571819
-description: Stap 3 van 3 - Connect Marketo en Dynamics (2013 op locatie) - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo en Dynamics 2013 op locatie kunt verbinden in de laatste stap. Voer gebruikersgegevens synchroniseren in Marketo Admin in en schakel de synchronisatie in.
 title: Stap 3 van 3 - Connect Marketo en Dynamics (2013 op locatie)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Stap 1 van 3: Installeer de Oplossing van Marketo in  [!DNL Dynamics]  (2013 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
->* [&#x200B; Stap 2 van 3: Vorm de Gebruiker van de Synchronisatie voor Marketo (2013 On-Premises) &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+>* [ Stap 1 van 3: Installeer de Oplossing van Marketo in  [!DNL Dynamics]  (2013 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+>* [ Stap 2 van 3: Vorm de Gebruiker van de Synchronisatie voor Marketo (2013 On-Premises) ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
    >[!NOTE]
    >
    >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user zijn.
-   >* Als u niet URL kent, [&#x200B; leert hoe te om het hier &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} te vinden.
+   >* Als u niet URL kent, [ leert hoe te om het hier ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"} te vinden.
 
 ## Te synchroniseren velden selecteren {#select-fields-to-sync}
 
@@ -69,7 +69,7 @@ Nu moeten we de velden selecteren waarover we willen synchroniseren.
 
    >[!NOTE]
    >
-   >Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in [!DNL Dynamics] schrapt, adviseerden wij het doen dit met [&#x200B; gehandicapte synchronisatie &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Vernieuw vervolgens het schema in Marketo door het [[!UICONTROL Select Fields to Sync]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te bewerken en op te slaan.
+   >Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in [!DNL Dynamics] schrapt, adviseerden wij het doen dit met [ gehandicapte synchronisatie ](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Vernieuw vervolgens het schema in Marketo door het [[!UICONTROL Select Fields to Sync]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te bewerken en op te slaan.
 
 ## Velden synchroniseren voor een aangepast filter {#sync-fields-for-a-custom-filter}
 
@@ -109,4 +109,4 @@ Uitstekend werk! U hebt net de kracht van de bidirectionele synchronisatie tusse
 
 >[!MORELIKETHIS]
 >
->[&#x200B; installeer en vorm  [!DNL Marketo Sales Insight]  in  [!DNL Microsoft Dynamics]  2013 &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+>[ installeer en vorm  [!DNL Marketo Sales Insight]  in  [!DNL Microsoft Dynamics]  2013 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)

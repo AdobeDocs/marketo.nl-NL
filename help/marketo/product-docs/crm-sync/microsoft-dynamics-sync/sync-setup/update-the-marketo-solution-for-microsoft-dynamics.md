@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6849029
-description: Update de Oplossing van Marketo voor  [!DNL Microsoft Dynamics]  - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u de Marketo-oplossing voor Microsoft Dynamics kunt bijwerken. Download de nieuwste oplossing van Admin en importeer deze over de bestaande versie in Dynamics.
 title: Werk de Oplossing van Marketo voor  [!DNL Microsoft Dynamics] bij
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---

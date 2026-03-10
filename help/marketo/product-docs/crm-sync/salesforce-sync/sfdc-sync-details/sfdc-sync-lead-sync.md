@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953455
-description: SFDC Sync - Lead Sync - Marketo Docs - Productdocumentatie
+description: Meer informatie over de werking van loodsynchronisatie tussen Salesforce en Marketo. Begrijp bidirectionele synchronisatie, creeer lood van Marketo, en respecteer bevestigingsregels.
 title: SFDC Sync - Lead Sync
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Marketo wint. Het is zeldzaam dat dit soort botsing van gegevens voorkomt.
 
 ## Kan ik een lead maken in [!DNL Salesforce] met Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Ja, gebruik de [&#x200B; Persoon van de Synchronisatie aan SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) stroomactie. Hierdoor wordt een lead in [!DNL Salesforce] gemaakt als de lead niet bestaat.
+Ja, gebruik de [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) stroomactie. Hierdoor wordt een lead in [!DNL Salesforce] gemaakt als de lead niet bestaat.
 
 ## Kan ik handmatig een persoon in Marketo synchroniseren naar een lead in [!DNL Salesforce]? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Ja, gebruik de [&#x200B; Persoon van de Synchronisatie aan SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} stroomactie en het zal in real time synchroniseren.
+Ja, gebruik de [ Persoon van de Synchronisatie aan SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} stroomactie en het zal in real time synchroniseren.
 
 ## Synchroniseert elke standaard veld met Marketo? {#does-every-single-standard-field-sync-to-marketo}
 

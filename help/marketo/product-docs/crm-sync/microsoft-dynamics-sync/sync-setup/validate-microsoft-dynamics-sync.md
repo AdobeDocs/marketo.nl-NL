@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783322
-description: Valideer  [!DNL Microsoft Dynamics]  Synchronisatie - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u het gereedschap Synchronisatie valideren uitvoert om de Microsoft Dynamics- en Marketo-instellingen te controleren. Controleer de controlelijst in zeven stappen in Admin alvorens de definitieve verbinding te maken.
 title: Valideer  [!DNL Microsoft Dynamics]  Synchronisatie
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Het is erg belangrijk dat u het gereedschap Synchronisatie valideren uitvoert om
    >
    >Als u eerder hebt gesynchroniseerd, **CRM** in de linkerboom zal **[!DNL Microsoft Dynamics]** lezen, en de gegevens in de bovengenoemde vorm kunnen prepopulated zijn.
 
-1. Als alles in orde is, produceert Validate Synchronisatie een controlelijst vol groene controletekens ![— &#x200B;](assets/check.png).
+1. Als alles in orde is, produceert Validate Synchronisatie een controlelijst vol groene controletekens ![— ](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Als u ![&#x200B; &#x200B;](assets/delete.png) ziet, dan heeft die stap een kwestie. Zie [&#x200B; Vloeiend {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics]  om het probleem te identificeren en te bevestigen. &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
+1. Als u ![ ](assets/delete.png) ziet, dan heeft die stap een kwestie. Zie [ Vloeiend {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics]  om het probleem te identificeren en te bevestigen. ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
 
    >[!CAUTION]
    >
@@ -53,4 +53,4 @@ Het is erg belangrijk dat u het gereedschap Synchronisatie valideren uitvoert om
 
 >[!MORELIKETHIS]
 >
->[&#x200B; bevestig {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics] &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
+>[ bevestig {de Kwesties van de Synchronisatie van 1} Bevestiging  [!DNL Dynamics] ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)

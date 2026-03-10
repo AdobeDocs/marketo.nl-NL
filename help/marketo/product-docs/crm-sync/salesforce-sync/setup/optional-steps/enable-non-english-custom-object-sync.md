@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719302
-description: Niet-Engelse aangepaste objectsynchronisatie inschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste objectsynchronisatie inschakelt wanneer de Marketo-synchronisatiegebruiker een niet-Engelse taal gebruikt. Stel de taal van de synchronisatiegebruiker in op Engels in Salesforce en vernieuw het schema.
 title: Niet-Engelse aangepaste objectsynchronisatie inschakelen
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---

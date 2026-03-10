@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099389
-description: Marketo Plugin-releases voor  [!DNL Microsoft Dynamics]  - Marketo Docs - Productdocumentatie
+description: Meer informatie over Marketo-plug-inreleases voor Microsoft Dynamics. Zoek de versiegeschiedenis en download de nieuwste Marketo-oplossing voor uw instantie Dynamics.
 title: Marketo-plug-inreleases voor  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer u voor het eerst synchroniseert met [!DNL Microsoft Dynamics] , downloadt u de nieuwste versie van de plug-ins voor Marketo. Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
 
-[&#x200B; Download de recentste stop &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) die aan uw [!DNL Dynamics] versie beantwoordt.
+[ Download de recentste stop ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) die aan uw [!DNL Dynamics] versie beantwoordt.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
@@ -135,4 +135,4 @@ Wanneer u voor het eerst synchroniseert met [!DNL Microsoft Dynamics] , download
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Download de Oplossing van het Beheer van de Lood van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

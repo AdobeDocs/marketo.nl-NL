@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719294
-description: Activiteitssynchronisatie aanpassen - Marketo-documenten - productdocumentatie
+description: Leer hoe u kunt aanpassen welke activiteiten Marketo naar Salesforce stuurt. Schakel activiteitstypen in Admin en Synchronisatieopties in om Salesforce-activiteitenhistorie te maken op basis van gebeurtenissen.
 title: Activiteiten synchroniseren aanpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -104,4 +104,4 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo Engage Salesforce Activit
 
 >[!TIP]
 >
->Als u in het krijgen van meer informatie van Marketo in Salesforce geinteresseerd bent, controleer ons [&#x200B; product van de Verkoop Insight van 0&rbrace; Marketo.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>Als u in het krijgen van meer informatie van Marketo in Salesforce geinteresseerd bent, controleer ons [ product van de Verkoop Insight van 0} Marketo.](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

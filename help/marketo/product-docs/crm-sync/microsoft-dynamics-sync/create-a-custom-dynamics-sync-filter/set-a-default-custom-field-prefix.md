@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094647
-description: Een standaardvoorvoegsel voor een aangepast veld instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u het standaardvoorvoegsel voor aangepaste velden instelt op new in Microsoft Dynamics. Gebruik Instellingen en Aanpassingen, zodat de door Marketo gegenereerde velden correct worden gesynchroniseerd.
 title: Een standaardvoorvoegsel voor een aangepast veld instellen
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 3%
+source-wordcount: '102'
+ht-degree: 2%
 
 ---
 

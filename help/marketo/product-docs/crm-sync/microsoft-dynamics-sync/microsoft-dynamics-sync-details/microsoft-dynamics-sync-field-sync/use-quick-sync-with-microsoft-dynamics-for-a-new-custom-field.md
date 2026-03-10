@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098379
-description: Snel synchroniseren met Microsoft Dynamics gebruiken voor een nieuw aangepast veld - Marketo Docs - Productdocumentatie
+description: Leer hoe u Snelle synchronisatie met Microsoft Dynamics kunt gebruiken wanneer u een nieuw aangepast veld toevoegt. Veldgegevens vernieuwen van Dynamics naar Marketo nadat u het veld hebt toegevoegd.
 title: Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Marketing of verkoop wil een nieuw veld. Of misschien bent u er één vergeten in de eerste veldselectie. Of uw behoeften zijn gewijzigd. In elk geval kunt u met Snel synchroniseren specifieke velden opnieuw synchroniseren.
 
-Normaal, zult u Snelle Synchronisatie gebruiken om een nieuw gebied toe te voegen en waarden hebben verfrist. Er zijn echter gevallen waarin u een bestaand veld wilt synchroniseren. U kunt de veldsynchronisatie beperken op basis van een bijgewerkt of gemaakt datumbereik. Zie [&#x200B; Geavanceerde Opties van de Synchronisatie &#x200B;](#Advanced_Sync_Options) hieronder voor details.
+Normaal, zult u Snelle Synchronisatie gebruiken om een nieuw gebied toe te voegen en waarden hebben verfrist. Er zijn echter gevallen waarin u een bestaand veld wilt synchroniseren. U kunt de veldsynchronisatie beperken op basis van een bijgewerkt of gemaakt datumbereik. Zie [ Geavanceerde Opties van de Synchronisatie ](#Advanced_Sync_Options) hieronder voor details.
 
 Met Snelle synchronisatie kunt u null-waarden synchroniseren. Als u bijvoorbeeld de waarden A en B gebruikt en een B-waarde in [!DNL Dynamics] wijzigt in null, wordt de null-waarde gesynchroniseerd met Marketo.
 

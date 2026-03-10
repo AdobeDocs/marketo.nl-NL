@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098625
-description: Begrijpen van  [!DNL Microsoft Dynamics]  Synchronisatie - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe Marketo en Dynamics synchroon blijven met de Microsoft Dynamics-synchronisatie. Zie wat wordt gesynchroniseerd en hoe tweerichtingssynchronisatie werkt voor leads en contacten.
 title: Werken met Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ De synchronisatie tussen Marketo en [!DNL Dynamics] is bidirectioneel voor leads
 * [Kansen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Aangepaste entiteiten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-De [&#x200B; geloofsbrieven u in Marketo voor  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) ingaat worden gebruikt om gegevens over te synchroniseren.
+De [ geloofsbrieven u in Marketo voor  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) ingaat worden gebruikt om gegevens over te synchroniseren.
 
 >[!NOTE]
 >

@@ -1,11 +1,11 @@
 ---
-description: Stap 1 van 3 - voeg de Gebieden van Marketo aan  [!DNL Veeva]  CRM toe - de Documentatie van Marketo -
+description: Leer hoe u Marketo-velden toevoegt aan Veeva CRM voordat u verbinding maakt. Maak het gebied van de Score en facultatieve marketing gebieden op contactvoorwerpen in Veeva.
 title: Stap 1 van 3 - voeg de Gebieden van Marketo aan  [!DNL Veeva]  CRM toe
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Voer de volgende stappen voor het gebied van de Score uit om het toe te voegen.
 
 1. Klik op het object **[!UICONTROL Contact]** .
 
-1. Selecteer **[!UICONTROL Fields and Relationships]** .
+1. Selecteer **[!UICONTROL Fields and Relationships]**.
 
 1. Klik op **[!UICONTROL New]**.
 

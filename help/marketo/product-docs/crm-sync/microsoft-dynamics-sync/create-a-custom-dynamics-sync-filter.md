@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437903
-description: Creeer een Filter van de Douane  [!DNL Dynamics]  Synchronisatie - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u een aangepast synchronisatiefilter voor dynamiek maakt, zodat alleen geselecteerde records worden gesynchroniseerd met Marketo.
 title: Creeer een Filter van de Douane  [!DNL Dynamics]  Synchronisatie
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '753'
 ht-degree: 1%
 
 ---
@@ -69,7 +69,7 @@ Marketo zoekt naar dit veld tijdens de automatische achtergrondsynchronisatie en
 
    >[!NOTE]
    >
-   >Kies om het even welke vertoningsnaam voor dit gebied, maar het gebied van de Naam moet precies **new_synctomkto** zijn. U moet **nieuw** als standaardprefix gebruiken. Als u het gebrek hebt veranderd, ga hier [&#x200B; de standaardprefix voor de namen van het douanegebied &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"} terugstellen. U kunt deze instelling wijzigen nadat u de nieuwe velden hebt gemaakt.
+   >Kies om het even welke vertoningsnaam voor dit gebied, maar het gebied van de Naam moet precies **new_synctomkto** zijn. U moet **nieuw** als standaardprefix gebruiken. Als u het gebrek hebt veranderd, ga hier [ de standaardprefix voor de namen van het douanegebied ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"} terugstellen. U kunt deze instelling wijzigen nadat u de nieuwe velden hebt gemaakt.
 
    >[!NOTE]
    >
@@ -113,7 +113,7 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. **&#x200B;**.
+1. Voer een naam voor de workflow in en selecteer **[!UICONTROL Workflow]** als de [!UICONTROL Category] en **[!UICONTROL Lead]** als de [!UICONTROL Entity] . Dan klik O.K. ****.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
@@ -131,7 +131,7 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    >[!TIP]
    >
-   >Zie [&#x200B; de Regels van de Filter van de Synchronisatie van de Douane voor een E-mail- Adres &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} aan opstellingsregels om slechts verslagen voor mensen met e-mailadressen te synchroniseren.
+   >Zie [ de Regels van de Filter van de Synchronisatie van de Douane voor een E-mail- Adres ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} aan opstellingsregels om slechts verslagen voor mensen met e-mailadressen te synchroniseren.
 
 ## Details van filter synchroniseren {#sync-filter-details}
 
@@ -147,6 +147,6 @@ Hier volgen enkele implementatiedetails die u volgens ons moet weten:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Filter van de Synchronisatie van Microsoft Dynamics: Kwalificeer &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
->* [&#x200B; de Filter van de Synchronisatie van Microsoft Dynamics: Samenvoegen &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
->* [&#x200B; de Regels van de Filter van de Synchronisatie van de Douane voor een E-mailAdres &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}
+>* [ de Filter van de Synchronisatie van Microsoft Dynamics: Kwalificeer ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [ de Filter van de Synchronisatie van Microsoft Dynamics: Samenvoegen ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
+>* [ de Regels van de Filter van de Synchronisatie van de Douane voor een E-mailAdres ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

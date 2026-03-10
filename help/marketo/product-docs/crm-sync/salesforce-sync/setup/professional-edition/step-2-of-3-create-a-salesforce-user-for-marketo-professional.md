@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571797
-description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Professional) - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Salesforce-gebruiker voor Marketo met Professional Edition kunt maken. Stel paginalay-outs in en maak de synchronisatiegebruiker met veldmachtigingen voor lead en contact.
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
+>[ Stap 1 van 3: Voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
 In dit artikel past u veldmachtigingen aan met een [!DNL Salesforce] pagina-indeling en maakt u een Marketo- [!DNL Salesforce] -synchronisatiegebruiker.
 
@@ -118,4 +118,4 @@ Uitstekend! Nu hebt u een account waarmee Marketo verbinding kan maken met [!DNL
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Stap 3 van 3: Verbind Marketo en Salesforce (Beroeps) &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}
+>[ Stap 3 van 3: Verbind Marketo en Salesforce (Beroeps) ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

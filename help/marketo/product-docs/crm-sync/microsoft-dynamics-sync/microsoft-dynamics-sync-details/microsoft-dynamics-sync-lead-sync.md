@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics Sync -Lead Sync - Marketo Docs - Productdocumentatie
+description: Meer informatie over de werking van loodsynchronisatie tussen Microsoft Dynamics en Marketo. Begrijp bidirectionele synchronisatie en creeer lood met de Persoon van de Synchronisatie aan Microsoft.
 title: Microsoft Dynamics Sync - Lead Sync
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De synchronisatie is bidirectioneel. Als u wijzigingen aanbrengt in een lead in 
 
 >[!NOTE]
 >
->Verwijderen synchroniseert niet altijd automatisch in beide richtingen. Zie [&#x200B; Deleting a Lood of Contact &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
+>Verwijderen synchroniseert niet altijd automatisch in beide richtingen. Zie [ Deleting a Lood of Contact ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md){target="_blank"}.
 
 ## Wat gebeurt er als er tegelijkertijd in beide systemen wijzigingen in hetzelfde veld worden aangebracht? (Gegevensconflict) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -41,7 +41,7 @@ Nee, de automatische achtergrondsynchronisatie is de enige manier om updates te 
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#what-fields-will-sync-to-marketo}
 
-U kunt [&#x200B; gebieden selecteren om &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} tijdens opstelling te synchroniseren.
+U kunt [ gebieden selecteren om ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} tijdens opstelling te synchroniseren.
 
 ## Zal Marketo de validatieregels van [!DNL Dynamics] naleven? {#will-marketo-respect-the-dynamics-validation-rules}
 

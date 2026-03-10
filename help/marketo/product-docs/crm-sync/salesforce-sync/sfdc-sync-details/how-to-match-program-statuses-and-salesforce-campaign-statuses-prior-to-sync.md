@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360370
-description: Hoe kan ik programma-statussen en Salesforce-campagnestatussen afstemmen vóór synchronisatie - Marketo Docs - Productdocumentatie
+description: Leer hoe u de status van Marketo-programma's kunt afstemmen op de status van de Salesforce-campagneleden voordat u ze synchroniseert. Fouten corrigeren en de status van toewijzingen zodanig aanpassen dat programma's worden gesynchroniseerd met campagnes.
 title: Hoe te om de Statussen van het Programma en de Status van de Campagne van Salesforce voorafgaand aan Synchronisatie aan te passen
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Vanuit dit foutbericht kunt u kiezen voor:
 1. U kunt de fout annuleren, de statusfouten herstellen en proberen te synchroniseren zodra de fouten zijn hersteld. Voer een van de volgende handelingen uit om de statusfouten te corrigeren:
 
    * Meld u aan bij Salesforce en verwijder of wijzig de naam van de incompatibele Campagnelidstaten om de status van het Marketo-programma toe te wijzen die wordt gebruikt voor het kanaaltype dat is gekoppeld aan uw Marketo-programma.
-   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne van Salesforce toe te wijzen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Voor details, zie [&#x200B; tot een Kanaal van het Programma &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} leiden.
+   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne van Salesforce toe te wijzen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Voor details, zie [ tot een Kanaal van het Programma ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"} leiden.

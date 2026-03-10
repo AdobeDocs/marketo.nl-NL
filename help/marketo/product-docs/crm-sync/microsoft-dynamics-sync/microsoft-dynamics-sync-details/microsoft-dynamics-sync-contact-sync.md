@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571833
-description: Microsoft Dynamics Sync -Contact Sync - Marketo Docs - Productdocumentatie
+description: Meer informatie over hoe contactsynchronisatie werkt tussen Microsoft Dynamics en Marketo. Begrijp bidirectionele synchronisatie, creeer contacten van Marketo, en de regels van de gegevensbotsing.
 title: Microsoft Dynamics Sync - Contact opnemen met Sync
 exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Hoewel dit zeldzaam is, zal Marketo winnen voor mensen en [!DNL Dynamics] zal wi
 
 ## Kan ik een contactpersoon maken met Marketo? {#can-i-create-a-contact-using-marketo}
 
-Ja. [&#x200B; hier is hoe &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
+Ja. [ hier is hoe ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -33,11 +33,11 @@ Ja. [&#x200B; hier is hoe &#x200B;](/help/marketo/product-docs/crm-sync/microsof
 
 ## Kan ik een synchronisatie van een persoon of een contact manueel dwingen? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-Nee, de automatische achtergrondsynchronisatie is de enige manier om updates te synchroniseren tussen Marketo en [!DNL Dynamics] . De [&#x200B; Persoon van de Synchronisatie aan Microsoft &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) zal geen synchronisatie van lood dwingen.
+Nee, de automatische achtergrondsynchronisatie is de enige manier om updates te synchroniseren tussen Marketo en [!DNL Dynamics] . De [ Persoon van de Synchronisatie aan Microsoft ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) zal geen synchronisatie van lood dwingen.
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#what-fields-will-sync-to-marketo}
 
-U kunt [&#x200B; gebieden selecteren om &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) tijdens opstelling te synchroniseren. Maar Marketo synchroniseert alleen de velden waartoe uw [!DNL Dynamics] synchronisatiegebruiker toegang heeft.
+U kunt [ gebieden selecteren om ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) tijdens opstelling te synchroniseren. Maar Marketo synchroniseert alleen de velden waartoe uw [!DNL Dynamics] synchronisatiegebruiker toegang heeft.
 
 ## Zal Marketo de validatieregels van [!DNL Dynamics] naleven? {#will-marketo-respect-the-dynamics-validation-rules}
 

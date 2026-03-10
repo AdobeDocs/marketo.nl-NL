@@ -1,11 +1,11 @@
 ---
-description: Het synchroniseren van Vraag en de Zeer belangrijke Berichten van de Vraag - de Documenten van Marketo - de Documentatie van het Product
+description: Leer over hoe de de voorwerpen van het Bericht van de Vraag en van de Vraag Zeer belangrijke van het Bericht van Veeva CRM aan Marketo Engage synchroniseren. Gebruik triggers en filters voor oproepen in slimme lijsten en campagnes.
 title: Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515133
-description: SFDC Sync - Merging a Lead/Contact/Person - Marketo Docs - Productdocumentatie
+description: Begrijp hoe samenvoegen leidt, contacten, en mensen in Salesforce en Marketo werkt. Leer samenvoegregels voor scores, veldwaarden en activiteitenlogboeken.
 title: SFDC Sync - Samenvoegen van een lead/contactpersoon/persoon
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 
 >[!NOTE]
 >
->Diep duik voor meer informatie over [&#x200B; het samenvoegen van mensen in Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Diep duik voor meer informatie over [ het samenvoegen van mensen in Marketo ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

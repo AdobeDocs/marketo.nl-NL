@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719300
-description: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste Salesforce-objectvelden kunt toevoegen of verwijderen als slimme lijstfilters en triggerbeperkingen. Gebruik Beheer en Salesforce Objects Sync om zichtbare velden te bewerken.
 title: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -67,4 +67,4 @@ Uw slimme lijsten en slimme campagnes hebben nu nog meer macht.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; toelaten/onbruikbaar maken de Synchronisatie van de Objecten van de Douane &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}
+>[ toelaten/onbruikbaar maken de Synchronisatie van de Objecten van de Douane ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}

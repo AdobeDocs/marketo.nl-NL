@@ -1,11 +1,11 @@
 ---
-description: Installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/Dynamics 365 On-Premises 1 van 3 - Marketo Docs - de Documentatie van het Product
+description: Leer hoe te om de oplossing van Marketo voor Dynamica 2016 of Dynamica 365 op-gebouw te installeren. Importeer de oplossing en voltooi de installatiestappen in Dynamics.
 title: Installeer Marketo voor  [!DNL Microsoft Dynamics]  2016/Dynamics 365 On-Premises Stap 1 van 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '284'
 ht-degree: 1%
 
 ---
@@ -20,9 +20,9 @@ Voordat u [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 kunt synchronisere
 
 >[!PREREQUISITES]
 >
->Als u [!DNL Microsoft Dynamics] op-Voorwendsel gebruikt, moet u [&#x200B; Internet Facing Plaatsing &#x200B;](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met [&#x200B; de Actieve Diensten van de Federatie van de Folder hebben &#x200B;](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) gevormd. Opmerking: het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>Als u [!DNL Microsoft Dynamics] op-Voorwendsel gebruikt, moet u [ Internet Facing Plaatsing ](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met [ de Actieve Diensten van de Federatie van de Folder hebben ](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) gevormd. Opmerking: het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[&#x200B; Download de Oplossing van het Beheer van de Lood van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
+>[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} alvorens u begint.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Voordat u [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 kunt synchronisere
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Klik **[!UICONTROL Browse]** en selecteer de oplossing u [&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik **[!UICONTROL Browse]** en selecteer de oplossing u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -94,4 +94,4 @@ Voordat u [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365 kunt synchronisere
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; installeer Marketo voor  [!DNL Dynamics]  2015 op-Prem en 2016 365 op-Prem Stap 2 van 3 &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+   >[ installeer Marketo voor  [!DNL Dynamics]  2015 op-Prem en 2016 365 op-Prem Stap 2 van 3 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)

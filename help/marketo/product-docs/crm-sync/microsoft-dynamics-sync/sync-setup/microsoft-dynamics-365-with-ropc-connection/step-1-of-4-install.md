@@ -1,11 +1,11 @@
 ---
-description: Stap 1 van 4 - Installeer de Marketo-oplossing met de Wachtwoordcontrole van de Eigenaar van het Middel - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Marketo-oplossing installeert in Dynamics 365 met ROPC-verbinding. Importeer de oplossing vanuit Office 365 en voltooi de installatiestappen.
 title: Stap 1 van 4 - Installeer de Marketo-oplossing met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Voordat u [!DNL Microsoft Dynamics] 365 en Marketo kunt synchroniseren, moet u e
 
 >[!PREREQUISITES]
 >
->[&#x200B; Download de Oplossing van het Beheer van de Lood van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[ Download de Oplossing van het Beheer van de Lood van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
 1. Login aan **[[!DNL Microsoft Office 365]](https://login.microsoftonline.com/)**.
 
@@ -43,7 +43,7 @@ Voordat u [!DNL Microsoft Dynamics] 365 en Marketo kunt synchroniseren, moet u e
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. Klik op **[!UICONTROL Choose File]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Choose File]**. Selecteer de oplossing van het Beheer van de Lood van Marketo u [ ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -91,4 +91,4 @@ Voordat u [!DNL Microsoft Dynamics] 365 en Marketo kunt synchroniseren, moet u e
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
+   >[ Stap 2 van 4: Opstelling de Oplossing van Marketo met de Verbinding van de Controle van het Wachtwoord van de Eigenaar van het Middel ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}

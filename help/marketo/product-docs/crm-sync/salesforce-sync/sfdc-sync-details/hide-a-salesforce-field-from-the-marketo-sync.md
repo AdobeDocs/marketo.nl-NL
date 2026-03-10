@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719306
-description: Een Salesforce-veld verbergen in de Marketo Sync - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Salesforce-veld verbergt bij Marketo-synchronisatie voor optimale prestaties. Gebruik beveiliging op veldniveau in het gebruikersprofiel voor synchroniseren om overbodige velden uit te sluiten.
 title: Een Salesforce-veld verbergen bij Marketo Sync
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '169'
 ht-degree: 1%
 
 ---
@@ -51,4 +51,4 @@ Niet elk veld in Salesforce is handig voor marketing. U kunt de synchronisatiepr
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; verberg en maak een Gebied &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"} ongedaan
+   >[ verberg en maak een Gebied ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"} ongedaan

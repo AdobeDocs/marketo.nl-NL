@@ -1,11 +1,11 @@
 ---
-description: Taak maken in  [!DNL Veeva]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Veeva van Marketo taken maakt om de verkoop te informeren over wat u moet doen en wanneer. Gebruik de stap Taak maken en pas het onderwerp, de beschrijving en de vervaldatum aan.
 title: Taak maken in  [!DNL Veeva]
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Pas alle velden aan om de taak op de gewenste manier te maken.
 
 >[!TIP]
 >
->U kunt `{{lead.tokens}}` , `{{company.tokens}}` , `{{campaign.tokens}}` en `{{system.tokens}}` in de [!UICONTROL Subject] en [!UICONTROL Description] gebruiken. Zie [&#x200B; Tokens voor de Stappen van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} voor meer details.
+>U kunt `{{lead.tokens}}` , `{{company.tokens}}` , `{{campaign.tokens}}` en `{{system.tokens}}` in de [!UICONTROL Subject] en [!UICONTROL Description] gebruiken. Zie [ Tokens voor de Stappen van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} voor meer details.

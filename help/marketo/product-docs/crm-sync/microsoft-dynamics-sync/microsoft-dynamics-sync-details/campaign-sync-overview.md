@@ -1,11 +1,11 @@
 ---
-description: Overzicht van de synchronisatie van campagnes - Marketo Docs - Productdocumentatie
+description: Meer informatie over het synchroniseren van campagnes tussen Microsoft Dynamics en Marketo. Gebruik Toevoegen aan Microsoft Campagne en Verwijderen uit Microsoft Campagne en triggers.
 title: Overzicht Campagne Sync
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -40,5 +40,5 @@ De trekkers zullen worden uitgevoerd gebaseerd op acties van de Actie van de Str
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; laat de Synchronisatie van de Campagne &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md) toe
->* [&#x200B; voeg of verwijder Mensen van uw  [!DNL Dynamics]  Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md) toe
+>* [ laat de Synchronisatie van de Campagne ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md) toe
+>* [ voeg of verwijder Mensen van uw  [!DNL Dynamics]  Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md) toe

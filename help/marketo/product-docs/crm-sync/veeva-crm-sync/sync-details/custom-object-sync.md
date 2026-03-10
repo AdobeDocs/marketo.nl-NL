@@ -1,13 +1,13 @@
 ---
-description: Aangepaste objectsynchronisatie - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste objectsynchronisatie instelt van Veeva CRM naar Marketo Engage. Schakel aangepaste objecten in Admin in en gebruik deze in Slimme lijsten en triggers.
 title: Aangepaste objectsynchronisatie
 hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
@@ -78,5 +78,5 @@ Uitstekend! U kunt nu gegevens uit dit aangepaste object gebruiken in slimme cam
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; synchroniserend Vraag en de Zeer belangrijke Berichten van de Vraag &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
->* [&#x200B; voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe
+>* [ synchroniserend Vraag en de Zeer belangrijke Berichten van de Vraag ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [ voeg/verwijder het Gebied van de Objecten van de Douane als Slimme Beperkingen List/Trigger ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"} toe
