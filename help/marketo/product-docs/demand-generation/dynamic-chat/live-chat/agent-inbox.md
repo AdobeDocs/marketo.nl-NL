@@ -3,9 +3,9 @@ description: Agent Inbox - Marketo Docs - Productdocumentatie
 title: Agent Inbox
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ De agenten zullen levende chats binnen de Agent Inbox gebied. Naast de actieve g
 
 ![](assets/agent-inbox-1.png)
 
-## Beschikbaarheid in-/uitschakelen {#availability-toggle}
+## Beschikbaarheid {#availability-toggle}
 
 Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw status te plaatsen beschikbaar of niet beschikbaar.
 
@@ -24,15 +24,15 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 >[!IMPORTANT]
 >
->**dit zal** met voeten treden de [&#x200B; levende praatjebeschikbaarheid &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
+>**dit zal** met voeten treden de [ levende praatjebeschikbaarheid ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
 
 >[!NOTE]
 >
 >Als u uw status instelt op niet beschikbaar, heeft dit geen invloed op actieve chats.
 
-## Live Chatmeldingen {#live-chat-notifications}
+## Live Chat-meldingen {#live-chat-notifications}
 
-Leer meer over berichten in het [&#x200B; Levende Overzicht van het Praatje &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Leer meer over berichten in het [ Levende Overzicht van het Praatje ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Gesprek {#conversations}
 
@@ -62,7 +62,7 @@ De agenten hebben de capaciteit om een zitting eenvoudig manueel te eindigen doo
 >
 >Deze functie maakt deel uit van generatieve AI en is beschikbaar via het Dynamic Chat Prime-abonnement. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
-De kortere weg, die door de generatieve AI [&#x200B; bibliotheek van de Reactie &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) wordt aangedreven, is een grote manier om hulp op de vlucht te krijgen wanneer het babbelen met een bezoeker. Typ gewoon een slash (`/`) in het tekstvak en kies `ask` of `search` .
+De kortere weg, die door de generatieve AI [ bibliotheek van de Reactie ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) wordt aangedreven, is een grote manier om hulp op de vlucht te krijgen wanneer het babbelen met een bezoeker. Typ gewoon een slash (`/`) in het tekstvak en kies `ask` of `search` .
 
 ![](assets/agent-inbox-7.png)
 
@@ -90,7 +90,7 @@ De kortere weg, die door de generatieve AI [&#x200B; bibliotheek van de Reactie 
 
    ![](assets/agent-inbox-12.png)
 
-## Activiteitenoverzicht {#activity-history}
+## Activiteitengeschiedenis {#activity-history}
 
 Onder de bezoekersinformatie bevindt zich de activiteitengeschiedenis. Bekijk activiteitstypen en datums en bekijk zelfs chattranscripties.
 
@@ -116,6 +116,12 @@ Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda v
 
    ![](assets/agent-inbox-16.png)
 
+## Transcriptie downloaden {#download-transcript}
+
+Na een levende praatjeeinden, klik de **Transcriptie van de Download** knoop de bodem van het praatjevenster en een .txt dossier van het gesprek automatisch downloadt aan uw &quot;Downloads&quot;omslag.
+
+![](assets/agent-inbox-17.png)
+
 ## Overzicht van gesprekken {#conversation-summary}
 
 >[!NOTE]
@@ -124,7 +130,7 @@ Onder aan het venster Live Chat bevindt zich een pictogram waarmee u de agenda v
 
 Het Samenvatting van de Gesprek produceert een snelle samenvatting voor u in real time, met inbegrip van onderwerpen de bezoeker in heeft uitgedrukt geïnteresseerd. Deze vindt u rechtsonder in elk chatscherm.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
