@@ -43,4 +43,4 @@ Dat is het! Nadat u de rest van uw slimme campagne hebt voltooid, vergeet dan ni
 
 >[!MORELIKETHIS]
 >
->[ de Filters van de Rekening ](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
+>[&#x200B; de Filters van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md)

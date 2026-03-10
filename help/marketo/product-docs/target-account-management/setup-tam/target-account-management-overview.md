@@ -49,16 +49,16 @@ Op Marketo-account gebaseerde marketing biedt ook verschillende tools om de erva
 
 * Personalization voor e-mail- en landingspagina
 * Web Personalization
-* URL [ Personalization ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* Add [ Personalization ](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [ Gepersonaliseerde ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Markering
+* URL [&#x200B; Personalization &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Add [&#x200B; Personalization &#x200B;](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [&#x200B; Gepersonaliseerde &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Markering
 
 Ik ben in! Hoe begin ik?
 
-We dachten dat je het nooit zou vragen! TAM is beschikbaar als een invoegtoepassing voor je Marketo-abonnement. Neem daarom contact op met je verkoper om het te laten implementeren. Zodra u het hebt, controleer dit artikel: [ Begonnen het worden met TAM ](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
+We dachten dat je het nooit zou vragen! TAM is beschikbaar als een invoegtoepassing voor je Marketo-abonnement. Neem daarom contact op met je verkoper om het te laten implementeren. Zodra u het hebt, controleer dit artikel: [&#x200B; Begonnen het worden met TAM &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
->Benoemde accounts die in Marketo TAM worden beheerd, zijn rechtstreeks toegankelijk via Web TAM voor webpersonalisatiebehoeften. Leer meer [ hier ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
+>Benoemde accounts die in Marketo TAM worden beheerd, zijn rechtstreeks toegankelijk via Web TAM voor webpersonalisatiebehoeften. Leer meer [&#x200B; hier &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
 
 Welkom bij Marketo TAM en geniet van gerichte marketing!

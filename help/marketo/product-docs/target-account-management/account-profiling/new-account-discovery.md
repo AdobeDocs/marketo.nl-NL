@@ -21,7 +21,7 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
 >[!PREREQUISITES]
 >
->[ Profilering van de Rekening van de opstelling ](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+>[&#x200B; Profilering van de Rekening van de opstelling &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -77,4 +77,4 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    >[!TIP]
    >
-   >Nadat uw rekeningen worden bewaard, kunt u a [ aangepast publiek op  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) gebruiken om hen te richten.
+   >Nadat uw rekeningen worden bewaard, kunt u a [&#x200B; aangepast publiek op  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) gebruiken om hen te richten.

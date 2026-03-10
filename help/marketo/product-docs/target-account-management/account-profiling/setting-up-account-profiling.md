@@ -28,7 +28,7 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 >* E-mail
 >* Land
 >
->Leer hoe te [ een gebied hier ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field) unhide.
+>Leer hoe te [&#x200B; een gebied hier &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field) unhide.
 
 1. Open **[!UICONTROL Target Account Management]** in Mijn Marketo.
 
@@ -60,4 +60,4 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 
    >[!TIP]
    >
-   >Nu uw model wordt gecreeerd, [ leert hoe te om het ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) te stemmen.
+   >Nu uw model wordt gecreeerd, [&#x200B; leert hoe te om het &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) te stemmen.

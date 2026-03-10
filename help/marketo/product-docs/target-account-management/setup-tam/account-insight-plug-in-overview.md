@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >* Account Insight is inbegrepen voor alle klanten die zowel TAM als Marketo Sales Insight hebben. Voor klanten die alleen TAM hebben, is Account Insight beschikbaar als aangeschafte add-on. Elke klant heeft maximaal 250 Insight-licenties voor accounts. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen TAM hebben.
 >
->* Deze stop-binnen is niet compatibel met [ de authentificatie van de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} momenteel.
+>* Deze stop-binnen is niet compatibel met [&#x200B; de authentificatie van de Identiteit van Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} momenteel.
 
 >[!CAUTION]
 >
->De [!DNL Account Insight] stop-binnen zal niet in abonnementen werken die [ SSO-slechts ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enige toegelaten sign-on) hebben.
+>De [!DNL Account Insight] stop-binnen zal niet in abonnementen werken die [&#x200B; SSO-slechts &#x200B;](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enige toegelaten sign-on) hebben.
 
 >[!CAUTION]
 >
@@ -85,4 +85,4 @@ Mooi cool spul!
 
 >[!MORELIKETHIS]
 >
->[ Opstelling  [!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+>[&#x200B; Opstelling  [!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

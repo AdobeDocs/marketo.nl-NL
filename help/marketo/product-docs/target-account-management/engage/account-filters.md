@@ -57,7 +57,7 @@ Klik op de vervolgkeuzelijst benoemde account...
 
 ![](assets/eight.png)
 
-Als u &quot;[!UICONTROL is any]&quot;bepalend gebruikt, kunt u [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
+Als u &quot;[!UICONTROL is any]&quot;bepalend gebruikt, kunt u [&#x200B; beperkingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
 
 ![](assets/nine.png)
 
@@ -67,4 +67,4 @@ Stel &quot;[!UICONTROL Include Children]&quot; in op **[!UICONTROL false]** als 
 
 >[!MORELIKETHIS]
 >
->[ Trekkers van de Rekening ](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[&#x200B; Trekkers van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

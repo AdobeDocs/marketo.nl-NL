@@ -25,7 +25,7 @@ Klik op de vervolgkeuzelijst **[!UICONTROL View]** om te filteren op accountlijs
 
 ![](assets/three.png)
 
-Om het [ dashboard van de Lijst van de Rekening ](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard) te bekijken, klik de naam van de rekeningslijst u selecteerde...
+Om het [&#x200B; dashboard van de Lijst van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard) te bekijken, klik de naam van de rekeningslijst u selecteerde...
 
 ![](assets/four.png)
 
@@ -37,6 +37,6 @@ Als u in plaats van het dashboard Accountlijst weer te geven een account met een
 
 ![](assets/six.png)
 
-...en bekijk de [ genoemde inzichten van de rekening ](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...en bekijk de [&#x200B; genoemde inzichten van de rekening &#x200B;](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)
