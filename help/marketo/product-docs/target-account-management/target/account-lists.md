@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL Account Lists] - Marketo Docs - Productdocumentatie'
+description: Meer informatie over accountlijsten en hoe ze benoemde accounts groeperen om ze als doel in te stellen. Maak statische lijsten of dynamische lijsten van CRM-accountweergaven.
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!NOTE]
 >
->De lijsten van de rekening die in Marketo [!UICONTROL Target Account Management] worden gecreeerd zijn automatisch beschikbaar wanneer het bouwen van slimme lijsten en Webcampagnes in [&#x200B; Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>De lijsten van de rekening die in Marketo [!UICONTROL Target Account Management] worden gecreeerd zijn automatisch beschikbaar wanneer het bouwen van slimme lijsten en Webcampagnes in [ Personalization van het Web ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
    ![](assets/three-0.png)
 
-1. Nadat u uw rekeningslijst creeert, begin op [&#x200B; toevoegend genoemde rekeningen aan het &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
+1. Nadat u uw rekeningslijst creeert, begin op [ toevoegend genoemde rekeningen aan het ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -91,5 +91,5 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg een Bestaand [!UICONTROL Named Account] aan een Lijst van de Rekening toe &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [&#x200B; de Inzichten van de Lijst van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
+>* [ voeg een Bestaand [!UICONTROL Named Account] aan een Lijst van de Rekening toe ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [ de Inzichten van de Lijst van de Rekening ](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

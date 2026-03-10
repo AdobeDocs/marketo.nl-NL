@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL Named Account] Overzicht - Marketo Docs - Productdocumentatie'
+description: Meer informatie over Benoemde accounts en over hoe ze mensen van uw doelbedrijven vasthouden. Huidige kenmerkgegevens weergeven voor alle benoemde accounts op het dashboard.
 title: '[!UICONTROL Named Account] Overzicht'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '245'
 ht-degree: 3%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 3%
   </tr>
   <tr>
    <td><strong><span class="uicontrol">SIC-code</span></strong></td>
-   <td><span><strong> Standaard van 0&rbrace; S </strong> I <strong> industriële </strong> C <strong> classificatie - viercijfercode voor het classificeren van industrieën</strong><br></span></td>
+   <td><span><strong> Standaard van 0} S </strong> I <strong> industriële </strong> C <strong> classificatie - viercijfercode voor het classificeren van industrieën</strong><br></span></td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">Ontvangsten</span></strong></td>

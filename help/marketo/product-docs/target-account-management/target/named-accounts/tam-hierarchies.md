@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795510
-description: TAM-hiërarchieën - Marketo Docs - Productdocumentatie
+description: Leer over de Hiërarchieën van TAM en hoe zij ouder-kind verhoudingen van uw CRM erven. Met één klik op Volledige accountfamilies zoeken en rapporteren.
 title: TAM-hiërarchie
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,6 @@ Met TAM-hiërarchieën kunt u snel informatie opvragen over een volledige hiëra
 >
 >De Marketo-interface kan maximaal 10 niveaus omlaag worden weergegeven (onderliggende en onderliggende accounts van de bovenliggende account), maar er is geen limiet aan het aantal onderliggende accounts dat u kunt maken.
 
-Doel en rapport over volledige hiërarchieën met [&#x200B; één klik &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Doel en rapport over volledige hiërarchieën met [ één klik ](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12978647
-description: Een aangepast veld maken voor CRM-detectie - Marketo Docs - Productdocumentatie
+description: Leer hoe u een aangepast veld Benoemde account maakt, dit toewijst aan uw CRM en het gebruikt in CRM-accountdetectie. Zie in kaart gebrachte gegevens in het Discover CRM-raster.
 title: Een aangepast veld maken voor CRM-detectie
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

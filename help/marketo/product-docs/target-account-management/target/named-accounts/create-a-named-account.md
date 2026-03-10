@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615781
-description: Een benoemd account maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u handmatig een benoemde account maakt in TAM. Gebruik de keuzelijst Nieuw, selecteer Benoemd account maken en vul de gewenste velden in.
 title: Een benoemd account maken
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ Ga als volgt te werk om handmatig een benoemde account te maken.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg Mensen aan a [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) toe
+>[ voeg Mensen aan a [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) toe

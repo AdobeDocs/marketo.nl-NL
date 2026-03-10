@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381917
-description: '[!UICONTROL Target Account Management] - Marketo Docs - Productdocumentatie'
+description: Meer informatie over het accountbeheer van Marketo Target en over de manier waarop verkoop en marketing worden afgestemd op de belangrijkste accounts. Ga aan de slag met licentiestappen en instellingsstappen.
 title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -49,16 +49,16 @@ Op Marketo-account gebaseerde marketing biedt ook verschillende tools om de erva
 
 * Personalization voor e-mail- en landingspagina
 * Web Personalization
-* URL [&#x200B; Personalization &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* Add [&#x200B; Personalization &#x200B;](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [&#x200B; Gepersonaliseerde &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Markering
+* URL [ Personalization ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Add [ Personalization ](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [ Gepersonaliseerde ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Markering
 
 Ik ben in! Hoe begin ik?
 
-We dachten dat je het nooit zou vragen! TAM is beschikbaar als een invoegtoepassing voor je Marketo-abonnement. Neem daarom contact op met je verkoper om het te laten implementeren. Zodra u het hebt, controleer dit artikel: [&#x200B; Begonnen het worden met TAM &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
+We dachten dat je het nooit zou vragen! TAM is beschikbaar als een invoegtoepassing voor je Marketo-abonnement. Neem daarom contact op met je verkoper om het te laten implementeren. Zodra u het hebt, controleer dit artikel: [ Begonnen het worden met TAM ](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
->Benoemde accounts die in Marketo TAM worden beheerd, zijn rechtstreeks toegankelijk via Web TAM voor webpersonalisatiebehoeften. Leer meer [&#x200B; hier &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
+>Benoemde accounts die in Marketo TAM worden beheerd, zijn rechtstreeks toegankelijk via Web TAM voor webpersonalisatiebehoeften. Leer meer [ hier ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md).
 
 Welkom bij Marketo TAM en geniet van gerichte marketing!

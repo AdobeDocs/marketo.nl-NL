@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380787
-description: Accountlijstinzichten - Marketo Docs - Productdocumentatie
+description: Meer informatie over het dashboard Accountlijst en samengevoegde inzichten van benoemde accounts. Bekijk pijpleiding, opbrengst, hoogste rekeningen, en welke activa gebruiken elke lijst.
 title: Accountlijstinzichten
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

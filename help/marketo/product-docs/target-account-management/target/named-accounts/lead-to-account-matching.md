@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381156
-description: Lood tot afstemmen van account - Marketo Docs - Productdocumentatie
+description: Klik hier als je wilt weten hoe je account bij een account kunt afstemmen op een account met een naam in bijna real-time. Los zwakke gelijken op en teweeg op nieuwe lood.
 title: Lood naar overeenkomst met account
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,11 @@ Aangezien Marketo Lead-to-Account matching een ingebouwde functie is van Marketo
 
 >[!NOTE]
 >
->Als u LeanData in Salesforce gebruikt om Lood-aan-Rekening aanpassing te doen, heeft Marketo een integratie die die gelijken aan uw instantie van Marketo zal synchroniseren. Om die eigenschap te hebben toegelaten, gelieve te contacteren {de Steun van 0} Marketo [&#x200B; leren hoe te opstelling hieronder LeanData.](https://nation.marketo.com/t5/Support/ct-p/Support)
+>Als u LeanData in Salesforce gebruikt om Lood-aan-Rekening aanpassing te doen, heeft Marketo een integratie die die gelijken aan uw instantie van Marketo zal synchroniseren. Om die eigenschap te hebben toegelaten, gelieve te contacteren {de Steun van 0} Marketo [ leren hoe te opstelling hieronder LeanData.](https://nation.marketo.com/t5/Support/ct-p/Support)
 
 ## LeanData gebruiken voor Afleiden naar Account Matching {#using-leandata-for-lead-to-account-matching}
 
-Nadat [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) LeanData voor uw rekening heeft toegelaten, volg de stappen hieronder om het op te zetten.
+Nadat [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) LeanData voor uw rekening heeft toegelaten, volg de stappen hieronder om het op te zetten.
 
 1. Klik in Salesforce op **[!UICONTROL Setup Home]** in de linkernavigatiebalk.
 
@@ -71,4 +71,4 @@ Nadat [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Sup
 
 >[!MORELIKETHIS]
 >
->[&#x200B; ontdekt Rekeningen &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+>[ ontdekt Rekeningen ](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md)

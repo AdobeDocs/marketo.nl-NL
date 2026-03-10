@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380734
-description: Account Triggers - Marketo Docs - Productdocumentatie
+description: Leer hoe u gedragingen op accountniveau beluistert en activeert met behulp van accounttriggers. Gebruik triggers voor benoemde accounts in slimme campagnes om sleutelaccounts in te schakelen.
 title: Accounttriggers
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -43,4 +43,4 @@ Dat is het! Nadat u de rest van uw slimme campagne hebt voltooid, vergeet dan ni
 
 >[!MORELIKETHIS]
 >
->[&#x200B; de Filters van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md)
+>[ de Filters van de Rekening ](/help/marketo/product-docs/target-account-management/engage/account-filters.md)

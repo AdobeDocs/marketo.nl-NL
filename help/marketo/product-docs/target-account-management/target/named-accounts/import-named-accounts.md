@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615800
-description: Importeren [!UICONTROL Named Accounts] - Marketo Docs - Productdocumentatie
+description: Leer hoe u benoemde accounts uit een CSV-bestand importeert in TAM. Upload uw lijst, kies dupe wijze door rekeningsnaam of domein, en kaartgebieden.
 title: Importeren [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Beschikt de CSV al over een volledig overzicht van de potentiële doelrekeningen
 
    >[!TIP]
    >
-   >In uw dossier, verstrek [&#x200B; zoveel informatie &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) mogelijk. U kunt alleen firmografische informatie toevoegen; Marketo berekent niets (bijv. Pipeline). Als u benoemde accounts wilt maken op basis van CRM-accounts, exporteert u gewoon de naam van de account en de CRM-id van uw CRM naar een CSV-bestand, gebruikt u de optie Accountnaam en wijst u de CRM-id toe tijdens het importproces. Om een rekening van CRM aan een genoemde rekening behoorlijk te verbinden, moet u de nauwkeurige naam van de rekening verstrekken CRM.
+   >In uw dossier, verstrek [ zoveel informatie ](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes) mogelijk. U kunt alleen firmografische informatie toevoegen; Marketo berekent niets (bijv. Pipeline). Als u benoemde accounts wilt maken op basis van CRM-accounts, exporteert u gewoon de naam van de account en de CRM-id van uw CRM naar een CSV-bestand, gebruikt u de optie Accountnaam en wijst u de CRM-id toe tijdens het importproces. Om een rekening van CRM aan een genoemde rekening behoorlijk te verbinden, moet u de nauwkeurige naam van de rekening verstrekken CRM.
 
 1. Kies uit twee deduplicatiemodi: Accountnaam of Domeinnaam. In dit voorbeeld kiezen we Account. Klik op de vervolgkeuzelijst **[!UICONTROL Modes]** en selecteer **[!UICONTROL By Account Name]** .
 

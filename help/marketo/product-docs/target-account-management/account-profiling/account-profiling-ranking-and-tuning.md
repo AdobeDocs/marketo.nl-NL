@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15695924
-description: Volgorde en afstemming van accountprofielen - Marketo-documenten - productdocumentatie
+description: Begrijp hoe het Profileren van de Rekening bedrijven door uw ICP rangschikt en indicatorgegevens aan Benoemde Rekeningen toevoegt. Stem uw model af en promoot uw accounts.
 title: Volgorde en afstemming van accountprofielen
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Alle bekende accounts zijn uitgesplitst naar rang. A is de hoogste graad, D is d
 
 ![](assets/results.png)
 
-We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elke rekening wilt gaan en [&#x200B; hen manueel &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) toevoegen, verlaat eenvoudig de doos ongecontroleerd.
+We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elke rekening wilt gaan en [ hen manueel ](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) toevoegen, verlaat eenvoudig de doos ongecontroleerd.
 
 <table>
  <tbody>
@@ -162,7 +162,7 @@ Klik op de vervolgkeuzelijst [!UICONTROL Add ICP Indicator] om extra indicatoren
 
 ![](assets/add-icp.png)
 
-Het controleren van [!UICONTROL Export] doos staat u toe om de indicator ICP op de [!UICONTROL Named Account] detailspagina te zien, evenals de geselecteerde indicator ICP als beperkingen in [&#x200B; genoemd rekeningsfilters &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-filters.md) te gebruiken.
+Het controleren van [!UICONTROL Export] doos staat u toe om de indicator ICP op de [!UICONTROL Named Account] detailspagina te zien, evenals de geselecteerde indicator ICP als beperkingen in [ genoemd rekeningsfilters ](/help/marketo/product-docs/target-account-management/engage/account-filters.md) te gebruiken.
 
 ![](assets/export.png)
 

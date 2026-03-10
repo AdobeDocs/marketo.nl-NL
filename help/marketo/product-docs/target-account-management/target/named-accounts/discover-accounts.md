@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378812
-description: Accounts ontdekken - Marketo Docs - Productdocumentatie
+description: Leer hoe u potentiële doelaccounts kunt vinden bij uw CRM- of Marketo-bedrijven. Geselecteerde accounts toevoegen als benoemde accounts en automatisch personen koppelen.
 title: Accounts detecteren
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Identificeer potentiële doelrekeningen van uw CRM.
 >
 >Nadat u uw CRM met Marketo TAM verbindt, **[!UICONTROL Discover CRM Accounts]** zal alle rekeningen van CRM en relevante informatie tonen om u te helpen de juiste genoemde rekeningen kiezen. Marketo voegt extra informatie toe bovenop wat van CRM wordt ontvangen.
 
-**[!UICONTROL People]** (In [!UICONTROL Discover CRM Accounts] &amp; [!UICONTROL Discover Marketo Companies]): bevat zowel contactpersonen als regelafstand. De leiders kunnen worden ontdekt gebruikend Marketo [&#x200B; lood-aan-rekening aanpassing &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md).
+**[!UICONTROL People]** (In [!UICONTROL Discover CRM Accounts] &amp; [!UICONTROL Discover Marketo Companies]): bevat zowel contactpersonen als regelafstand. De leiders kunnen worden ontdekt gebruikend Marketo [ lood-aan-rekening aanpassing ](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md).
 
 **[!UICONTROL Potential People]** (In [!UICONTROL Discover CRM Accounts] &amp; [!UICONTROL Discover Marketo Companies] ): geeft aan hoeveel leads Marketo heeft gevonden die mogelijk tot een CRM-account behoren.
 
-**het gebied van CRM van de Douane** (In ontdekt de Rekeningen van CRM slechts): Dit zal u helpen uw verkoop en marketing organisatie voor selectie van correcte doelrekeningen richten. Zodra u [&#x200B; het gebied van douaneCRM &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) met Marketo TAM in kaart brengt, zullen wij u de in kaart gebrachte gegevens tonen om u te helpen uw doelrekeningen identificeren.
+**het gebied van CRM van de Douane** (In ontdekt de Rekeningen van CRM slechts): Dit zal u helpen uw verkoop en marketing organisatie voor selectie van correcte doelrekeningen richten. Zodra u [ het gebied van douaneCRM ](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) met Marketo TAM in kaart brengt, zullen wij u de in kaart gebrachte gegevens tonen om u te helpen uw doelrekeningen identificeren.
 
 1. Klik in [!UICONTROL Named Accounts] op de vervolgkeuzelijst **[!UICONTROL New]** en selecteer **[!UICONTROL Discover CRM Accounts]** .
 
@@ -114,4 +114,4 @@ Identificeer de juiste bedrijven voor het richten.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Lood aan de Vergelijking van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[ Lood aan de Vergelijking van de Rekening ](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385183
-description: TAM Sales Report - Marketo Docs - Productdocumentatie
+description: Lees meer over het TAM Sales Report, een wekelijkse e-mail met topaccounts en hun trends. U ontvangt accountscores, pijpleidingen, paginaweergaven en interessante momenten.
 title: TAM-verkooprapport
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ontvang wekelijks een e-mail met je topaccounts en hun wekelijkse trends.
 
 >[!NOTE]
 >
->Leer hoe te opstelling dit rapport [&#x200B; hier &#x200B;](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Leer hoe te opstelling dit rapport [ hier ](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 In het verslag wordt het volgende vermeld:
 

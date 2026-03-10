@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: Account Insight instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u Account Insight for Sales-teams instelt. Configureer hoe benoemde accounts en betrokken personen voorrang krijgen op het tabblad Verkoop.
 title: Account Insight instellen
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 3%
+source-wordcount: '114'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Hieronder wordt beschreven hoe u Account Insight instelt.
 
 >[!PREREQUISITES]
 >
->De de rekeningsscore van TAM [&#x200B; moet &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) eerst worden gevormd.
+>De de rekeningsscore van TAM [ moet ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) eerst worden gevormd.
 
 1. Klik op **[!UICONTROL Admin]**.
 
@@ -37,7 +37,7 @@ Hieronder wordt beschreven hoe u Account Insight instelt.
 
    >[!NOTE]
    >
-   >Als de [&#x200B; montages van de Score van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) op om het even welk punt worden bijgewerkt, moet de configuratie onder Verkoop door Admin worden bijgewerkt om ervoor te zorgen de scores nauwkeurig op de voorkeur van de gebruiker wijzen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
+   >Als de [ montages van de Score van de Rekening ](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) op om het even welk punt worden bijgewerkt, moet de configuratie onder Verkoop door Admin worden bijgewerkt om ervoor te zorgen de scores nauwkeurig op de voorkeur van de gebruiker wijzen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
 
 1. Klik op **[!UICONTROL Save]**.
 

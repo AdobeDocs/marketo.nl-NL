@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: Slimme accountlijsten - Marketo Docs - Productdocumentatie
+description: Leer hoe u slimme accountlijsten kunt maken om accounts met een hoge waarde te identificeren. Definieer account- en overeenkomende persoonfilters en gebruik de resultaten in campagnes of export.
 title: Slimme accountlijsten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Uw [!UICONTROL Account Smart List] is gemaakt! Zie hieronder voor stappen over h
 
    >[!NOTE]
    >
-   >ICP indicatorgegevens die in uw [&#x200B; het Profileren van de Rekening het Profileren Rangschikken en het Tunnen &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) werden gebruikt zullen als de Attributen van de douaneRekening voor gebruik in uw Slimme Lijst van de Rekening verschijnen. Deze aangepaste kenmerkgegevens zijn gebaseerd op de datum waarop het accountprofielmodel is gemaakt/bijgewerkt.
+   >ICP indicatorgegevens die in uw [ het Profileren van de Rekening het Profileren Rangschikken en het Tunnen ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) werden gebruikt zullen als de Attributen van de douaneRekening voor gebruik in uw Slimme Lijst van de Rekening verschijnen. Deze aangepaste kenmerkgegevens zijn gebaseerd op de datum waarop het accountprofielmodel is gemaakt/bijgewerkt.
 
 1. Kies uw filter(s) voor overeenstemmende personen. In dit voorbeeld kiezen wij _Staat Californië_ is.
 

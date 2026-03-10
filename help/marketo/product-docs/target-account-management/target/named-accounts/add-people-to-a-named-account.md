@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378816
-description: Personen toevoegen aan een Benoemd account - Marketo Docs - Productdocumentatie
+description: Leer hoe u personen aan een benoemde account kunt toevoegen met behulp van stroomhandelingen, slimme stappen voor het doorlopen van campagnes of het importeren van lijsten.
 title: Personen toevoegen aan een benoemde account
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -73,4 +73,4 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Lood aan de Vergelijking van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[ Lood aan de Vergelijking van de Rekening ](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

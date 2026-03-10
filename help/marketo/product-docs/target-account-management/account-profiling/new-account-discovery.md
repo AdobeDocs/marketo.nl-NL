@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355609
-description: New Account Discovery - Marketo Docs - productdocumentatie
+description: Leer hoe u nieuwe accounts kunt vinden om te richten op het gebruik van door AI aangedreven aanbevelingen in uw ideale klantprofiel. Ontdek nieuwe doelaccounts en sla deze op in accountlijsten.
 title: Nieuwe accountdetectie
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
 >[!PREREQUISITES]
 >
->[&#x200B; Profilering van de Rekening van de opstelling &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+>[ Profilering van de Rekening van de opstelling ](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -77,4 +77,4 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    >[!TIP]
    >
-   >Nadat uw rekeningen worden bewaard, kunt u a [&#x200B; aangepast publiek op  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) gebruiken om hen te richten.
+   >Nadat uw rekeningen worden bewaard, kunt u a [ aangepast publiek op  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) gebruiken om hen te richten.

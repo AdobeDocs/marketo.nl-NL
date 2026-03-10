@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795734
-description: Een hiërarchie maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u handmatig een benoemde accounthiërarchie kunt maken wanneer u geen CRM gebruikt. Accounts koppelen aan een bovenliggend account met de naam Group by Hiërarchy.
 title: Een hiërarchie maken
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---

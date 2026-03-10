@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615804
-description: Filteren in benoemde accounts - Marketo Docs - Productdocumentatie
+description: Leer hoe u benoemde accounts kunt filteren om gegevens snel omlaag te halen. De industrie, het land, de werknemers, en andere CRM-gesynchroniseerde gebieden van het gebruik in de filter.
 title: Filteren in benoemde accounts
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---

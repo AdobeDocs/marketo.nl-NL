@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380778
-description: Machtigingen - Marketo-documenten - productdocumentatie
+description: Leer hoe te opstellingsTAM toestemmingen voor gebruikers en rollen. Het Beheer van de Rekening van het Doel van de Toegang en de Beheerder van ABM van de Toegang verlenen om te controleren wie TAM kan gebruiken.
 title: Machtigingen
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 1%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
@@ -47,4 +47,4 @@ U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruik
 
    ![](assets/permissions-6.png)
 
-   Uw nieuwe rol van TAM is nu klaar om [&#x200B; aan een gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) worden toegewezen!
+   Uw nieuwe rol van TAM is nu klaar om [ aan een gebruiker ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) worden toegewezen!

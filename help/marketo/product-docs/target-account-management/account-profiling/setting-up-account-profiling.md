@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17432598
-description: Accountprofilering instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u accountprofielen instelt en uw ideale klantprofielmodel in TAM maakt. Ga aan de slag met het tabblad Model en maak uw eerste model.
 title: Accountprofielen instellen
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '176'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 >* E-mail
 >* Land
 >
->Leer hoe te [&#x200B; een gebied hier &#x200B;](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field) unhide.
+>Leer hoe te [ een gebied hier ](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field) unhide.
 
 1. Open **[!UICONTROL Target Account Management]** in Mijn Marketo.
 
@@ -60,4 +60,4 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 
    >[!TIP]
    >
-   >Nu uw model wordt gecreeerd, [&#x200B; leert hoe te om het &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) te stemmen.
+   >Nu uw model wordt gecreeerd, [ leert hoe te om het ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) te stemmen.

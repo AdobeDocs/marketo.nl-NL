@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: Accountfilters - Marketo Docs - Productdocumentatie
+description: Leer hoe u Benoemde accounts en personen kunt identificeren en inschakelen met accountcentrische filters. Gebruik TAM-filters in slimme campagnes om de juiste accounts als doel in te stellen.
 title: Accountfilters
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Klik op de vervolgkeuzelijst benoemde account...
 
 ![](assets/eight.png)
 
-Als u &quot;[!UICONTROL is any]&quot;bepalend gebruikt, kunt u [&#x200B; beperkingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
+Als u &quot;[!UICONTROL is any]&quot;bepalend gebruikt, kunt u [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
 
 ![](assets/nine.png)
 
@@ -67,4 +67,4 @@ Stel &quot;[!UICONTROL Include Children]&quot; in op **[!UICONTROL false]** als 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Trekkers van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[ Trekkers van de Rekening ](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

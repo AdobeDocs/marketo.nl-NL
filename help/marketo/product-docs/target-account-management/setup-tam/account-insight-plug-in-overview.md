@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979282
-description: '[!DNL Account Insight] Overzicht van de plug-in - Marketo Docs - Productdocumentatie'
+description: Meer informatie over de insteekmodule Account Insight Chrome die TAM-inzichten voor verkoopteams bevat. Geef benoemde accounts weer, voer activiteiten uit en sluit accounts effectief aan.
 title: '[!DNL Account Insight] Overzicht van plug-in'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >* Account Insight is inbegrepen voor alle klanten die zowel TAM als Marketo Sales Insight hebben. Voor klanten die alleen TAM hebben, is Account Insight beschikbaar als aangeschafte add-on. Elke klant heeft maximaal 250 Insight-licenties voor accounts. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen TAM hebben.
 >
->* Deze stop-binnen is niet compatibel met [&#x200B; de authentificatie van de Identiteit van Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} momenteel.
+>* Deze stop-binnen is niet compatibel met [ de authentificatie van de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} momenteel.
 
 >[!CAUTION]
 >
->De [!DNL Account Insight] stop-binnen zal niet in abonnementen werken die [&#x200B; SSO-slechts &#x200B;](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enige toegelaten sign-on) hebben.
+>De [!DNL Account Insight] stop-binnen zal niet in abonnementen werken die [ SSO-slechts ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (enige toegelaten sign-on) hebben.
 
 >[!CAUTION]
 >
@@ -85,4 +85,4 @@ Mooi cool spul!
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Opstelling  [!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+>[ Opstelling  [!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

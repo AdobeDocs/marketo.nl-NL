@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380785
-description: Benoemde accountinzichten - Marketo Docs - productdocumentatie
+description: Meer informatie over het dashboard Benoemde account en de 360-gradenweergave van doelaccounts. Bekijk de betrokkenheid, kansen, accountteam en ICP-indicatoren.
 title: Benoemde accountgegevens
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Het dashboard Benoemde account biedt een weergave van 360 graden van een doelacc
 
 ## Dashboard {#dashboard}
 
-Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen binnen een genoemde rekening, zodat het niet nodig is naar elke persoon te gaan om hun vooruitgang te evalueren. U kunt dieper naar e-mailactiviteit boor gebruikend [&#x200B; E-mailInzichten &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
+Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen binnen een genoemde rekening, zodat het niet nodig is naar elke persoon te gaan om hun vooruitgang te evalueren. U kunt dieper naar e-mailactiviteit boor gebruikend [ E-mailInzichten ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Beschikbaar voor gebruikers van [!DNL Marketo Sales Insight], zie de interessant
 
 **Hoogste Mensen**
 
-Deze mensen worden berekend gebaseerd op prioriteiten die op recentie of urgentie gebaseerd zijn die door mensen van genoemde rekeningen (het zelfde als [&#x200B; Beste Bets &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in de Insight van de Verkoop) wordt getoond, of Scores die door de gebruiker worden bepaald. **[!UICONTROL Priority]** is alleen beschikbaar voor gebruikers van [!DNL Marketo Sales Insight] .
+Deze mensen worden berekend gebaseerd op prioriteiten die op recentie of urgentie gebaseerd zijn die door mensen van genoemde rekeningen (het zelfde als [ Beste Bets ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in de Insight van de Verkoop) wordt getoond, of Scores die door de gebruiker worden bepaald. **[!UICONTROL Priority]** is alleen beschikbaar voor gebruikers van [!DNL Marketo Sales Insight] .
 
 ![](assets/top-ten.png)
 
@@ -112,6 +112,6 @@ Accountteamleden weergeven, leden toevoegen/verwijderen en zelfs een accounteige
 
 ## [!UICONTROL ICP Indicators] {#icp-indicators}
 
-Bekijk [!UICONTROL ICP Indicators] u selecteerde om uit te voeren wanneer u [&#x200B; uw model &#x200B;](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) stemde.
+Bekijk [!UICONTROL ICP Indicators] u selecteerde om uit te voeren wanneer u [ uw model ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) stemde.
 
 ![](assets/eight.png)

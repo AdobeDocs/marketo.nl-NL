@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727818
-description: Persoonlijke gegevens gebruiken - Marketo Docs - Productdocumentatie
+description: Leer hoe u personen kunt gebruiken om uw ABM-publiek te segmenteren en op de markt te brengen voor specifieke subsets. Voeg persona's toe in Admin en gebruik hen in slimme lijstfilters.
 title: Persoonlijke gegevens gebruiken
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
