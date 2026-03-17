@@ -1,20 +1,20 @@
 ---
-description: Woordenlijst pictogrammen - Marketo Docs - Productdocumentatie
+description: Leer meer over de pictogrammen in de Marketo Engage Modern UX en hoe ze van Classic worden toegewezen. Gebruik deze verklarende woordenlijst om activatypes, campagnestaten, en programmatypes te identificeren.
 title: Woordenlijst met pictogrammen
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '261'
 ht-degree: 5%
 
 ---
 
 # Woordenlijst met pictogrammen {#new-icon-glossary}
 
-Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. Als u de Klassieke pictogrammen van Marketo moet van verwijzingen voorzien, kunnen zij [&#x200B; hier &#x200B;](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md) worden gevonden.
+Hieronder ziet u de pictogrammen voor de nieuwe Adobe Marketo Engage-interface. Als u de Klassieke pictogrammen van Marketo moet van verwijzingen voorzien, kunnen zij [ hier ](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md) worden gevonden.
 
 ## Algemene pictogrammen {#general-icons}
 

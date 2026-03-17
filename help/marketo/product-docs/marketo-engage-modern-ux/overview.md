@@ -1,11 +1,11 @@
 ---
-description: Marketo Engage Modern UX - Overzicht - Marketo Docs - Productdocumentatie
+description: Leer meer over de Marketo Engage Modern UX en de bijgewerkte interface met verbeterde bruikbaarheid en een nieuwe look-and-feel.
 title: Marketo Engage Modern UX - Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '452'
 ht-degree: 1%
 
 ---
@@ -50,7 +50,7 @@ Er zijn veel nieuwe boomfuncties beschikbaar.
 
 >[!NOTE]
 >
->Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als na een onderzoek u van uw activa niet kunt de plaats bepalen, te gebruiken gelieve de [&#x200B; Globale functie van het Onderzoek &#x200B;](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
+>Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als na een onderzoek u van uw activa niet kunt de plaats bepalen, te gebruiken gelieve de [ Globale functie van het Onderzoek ](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
 **Klassieke Marketo vs. Nieuwe Marketo**
 
