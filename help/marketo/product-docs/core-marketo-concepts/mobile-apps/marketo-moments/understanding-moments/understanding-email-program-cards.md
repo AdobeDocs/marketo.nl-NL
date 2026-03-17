@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781911
-description: Werken met e-mailprogrammakaarten - Marketo Docs - Productdocumentatie
+description: Meer informatie over e-mailprogrammakaarten in Marketo Moments. Status van e-mailprogramma weergeven en actie ondernemen vanuit de mobiele app.
 title: E-mailprogrammakaarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Moments gebruiken om uw e-mailprogramma&#39;s te bekijken vanaf uw telef
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [Meer info](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## E-mailprogrammakaarten {#email-program-cards}
 
@@ -115,6 +115,6 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend de Momenten van Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [&#x200B; Begrijpend de Kaarten van de Gebeurtenis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [&#x200B; Begrijpend de Kaarten van Analytics &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [ Begrijpend de Momenten van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [ Begrijpend de Kaarten van de Gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [ Begrijpend de Kaarten van Analytics ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

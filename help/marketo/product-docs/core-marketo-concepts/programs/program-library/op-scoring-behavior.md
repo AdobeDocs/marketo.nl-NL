@@ -1,11 +1,11 @@
 ---
-description: OP-Scoring-Gedrag - Marketo Docs - Productdocumentatie
+description: Sjabloon van operationeel programma voor gedrag bij score. Gebruik deze optie om te definiëren hoe leadscoring werkt.
 title: OP-Scoring-gedrag
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '355'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 Dit voorbeeld is een geavanceerd (geoptimaliseerd) Operationeel Programma voor het Scoren van het Gedrag gebruikend een StandaardProgramma van Marketo Engage. U kunt de waarden voor scores weergeven en bewerken op het tabblad &quot;Mijn tokens&quot; van het programma. Vereist een aangepast score-veld met de naam &quot;Gedragscore&quot;.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

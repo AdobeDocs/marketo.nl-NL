@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147120
-description: Leden uit een werkblad importeren in een programma - Marketo Docs - Productdocumentatie
+description: Leer hoe u leden uit een spreadsheet in een programma importeert.
 title: Leden uit een werkblad importeren in een programma
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
@@ -65,4 +65,4 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
 >[!MORELIKETHIS]
 >
->[&#x200B; leidt en bekijkt Leden &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>[ leidt en bekijkt Leden ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}

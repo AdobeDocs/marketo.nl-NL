@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147324
-description: Veldwaarden wissen - Marketo Docs - Productdocumentatie
+description: Leer hoe u veldwaarden in een stap voor slimme campagne kunt wissen. Waarden verwijderen uit personen- of bedrijfsvelden.
 title: Veldwaarden wissen
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # Veldwaarden wissen {#clear-field-values}
 
-[&#x200B; de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) is groot, maar hoe u _verwijdert_ de waarde volledig? Goede vraag!
+[ de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) is groot, maar hoe u _verwijdert_ de waarde volledig? Goede vraag!
 
 1. Kies in de flowstap het veld dat u wilt wissen en typ **[!UICONTROL NULL]** (alle hoofdletters) als **[!UICONTROL New Value]** .
 

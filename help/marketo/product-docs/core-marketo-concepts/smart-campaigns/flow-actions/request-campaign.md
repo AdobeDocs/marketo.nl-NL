@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951703
-description: Campagne aanvragen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de stroomstap Campagne aanvragen gebruikt. Trigger een andere campagne om te lopen wanneer iemand deze stap bereikt.
 title: Campagne aanvragen
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt mensen in een specifieke campagne plaatsen door &quot;[!UICONTROL Request
 
 >[!NOTE]
 >
->De campagne u de persoon in plaatst moet actief zijn en de [&#x200B; Campagne hebben wordt Gevraagde &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trekker.
+>De campagne u de persoon in plaatst moet actief zijn en de [ Campagne hebben wordt Gevraagde ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trekker.
 
 1. Zoek en selecteer de gewenste persoon of personen in de **[!UICONTROL Database]** .
 

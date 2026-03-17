@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147053
-description: Een slimme campagne afbreken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een slimme campagne kunt afbreken. Stop een lopende batchcampagne en voorkom dat nog meer mensen binnenkomen.
 title: Een slimme campagne afbreken
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -39,10 +39,10 @@ Soms start u een slimme campagne en realiseert u zich meteen dat dit een fout wa
 
    >[!NOTE]
    >
-   >Bekijk de tab **[!UICONTROL Results]** van de slimme campagne om te zien welke handelingen zijn uitgevoerd voordat de toepassing werd afgebroken. U zult a [&#x200B; bericht &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} met extra details ook vinden.
+   >Bekijk de tab **[!UICONTROL Results]** van de slimme campagne om te zien welke handelingen zijn uitgevoerd voordat de toepassing werd afgebroken. U zult a [ bericht ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} met extra details ook vinden.
 
    >[!TIP]
    >
-   >Wilt u een persoon uit de flow verwijderen in een triggercampagne? Controle uit [&#x200B; verwijdert zich uit Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
+   >Wilt u een persoon uit de flow verwijderen in een triggercampagne? Controle uit [ verwijdert zich uit Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
 Controleer altijd uw werk, maar deze noodrem is mogelijk handig.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949413
-description: Een restrictie toevoegen aan een slim lijstfilter - Marketo Docs - Productdocumentatie
+description: Leer hoe u een restrictie aan een filter Slimme lijst toevoegt. Filters verfijnen met extra voorwaarden voor preciezere lijsten.
 title: Een restrictie toevoegen aan een slim lijstfilter
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ In dit voorbeeld, voegen sommige beperkingen aan a **[Gewijzigde Waarde van Gege
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [&#x200B; gebruik de &quot;Gewijzigde&quot;Filter van de Waarde van Gegevens in een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
+>* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [ gebruik de &quot;Gewijzigde&quot;Filter van de Waarde van Gegevens in een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

@@ -1,11 +1,11 @@
 ---
-description: EV-YYYY-MM-DD-Event-programma - Marketo Docs - Productdocumentatie
+description: Sjabloon van gebeurtenisprogramma. Gebruik dit programma om webinars en gebeurtenissen met een consistente naamgevingsstructuur uit te voeren.
 title: EV-YYYY-MM-DD-Event-programma
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeld van een gebeurtenisprogramma met een registratiepagina, drie e-mailuitnodigingen en e-mails voor follow-up met gebruik van een Marketo Engage-gebeurtenisprogramma. Geschikt voor alle gebeurtenissen waar u registraties nodig hebt, zoals presentaties, lunches, diners of presentaties tijdens handelsshowgebeurtenissen.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

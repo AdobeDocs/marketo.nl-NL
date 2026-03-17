@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557324
-description: Het filter Gegevenswaarde gewijzigd gebruiken in een slimme lijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u het filter Gegevenswaarde gewijzigd in een slimme lijst gebruikt. Zoek mensen wanneer een veldwaarde is gewijzigd.
 title: Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Waarden worden voortdurend gewijzigd en bijgewerkt in uw Marketo-database. Soms 
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
@@ -35,4 +35,4 @@ Waarden worden voortdurend gewijzigd en bijgewerkt in uw Marketo-database. Soms 
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 
-Met dit filter zoekt u naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als u zelfs financier wilt worden, probeer [&#x200B; toevoegend een beperking aan een Slimme filter van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+Met dit filter zoekt u naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als u zelfs financier wilt worden, probeer [ toevoegend een beperking aan een Slimme filter van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

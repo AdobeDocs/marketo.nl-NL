@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146972
-description: Een terugkerende batchcampagne plannen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een terugkerende batchcampagne kunt plannen. Stel de campagne dagelijks, wekelijks of maandelijks volgens een schema in.
 title: Een terugkerende batchcampagne plannen
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---

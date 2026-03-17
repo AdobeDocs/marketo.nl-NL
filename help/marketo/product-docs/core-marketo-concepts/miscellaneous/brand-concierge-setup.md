@@ -1,12 +1,12 @@
 ---
-description: Een contactpersoon maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Brand Concierge maakt en kennisbronnen toevoegt. Stel uw eerste contactpersoon in met productcatalogus of websitekoppelingen.
 title: Een conciërge maken
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1092'
 ht-degree: 0%
 
 ---

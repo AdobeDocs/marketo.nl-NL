@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146901
-description: Advanced Smart List Rule Logic - Marketo Docs - Productdocumentatie gebruiken
+description: Leer hoe u geavanceerde logica voor slimme-lijstregels gebruikt. Combineer filters met EN en OR voor complexe kwalificatie.
 title: Advanced Smart List Rule Logic gebruiken
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ U kunt de nauwkeurige mensen vinden u door Slimme de regellogica van de Lijst op
 
 >[!PREREQUISITES]
 >
->* [&#x200B; vind en voeg Filters aan een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
->* [&#x200B; bepaalt Slimme Filters van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+>* [ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
+>* [ bepaalt Slimme Filters van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >

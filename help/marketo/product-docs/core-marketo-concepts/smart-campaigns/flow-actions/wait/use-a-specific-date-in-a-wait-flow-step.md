@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146976
-description: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u een specifieke datum in een wachtstroomstap gebruikt. Pauzeer de stroom tot een vaste datum en een tijd.
 title: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,5 @@ U kunt &quot;[!UICONTROL Wait]&quot;debietstap gebruiken om de reis van een pers
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Gebruik een Duur in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
->* [&#x200B; Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}
+>* [ Gebruik een Duur in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+>* [ Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

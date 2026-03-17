@@ -1,12 +1,12 @@
 ---
-description: Beheer op afstand - Marketo-documenten - Productdocumentatie
+description: Sjabloon van operationeel hoofdbeheerprogramma. Gebruik dit programma voor het beheer van de levenscyclus en scoring van leads.
 title: Beheer van OP-lead
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 0%
+source-wordcount: '272'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Dit is een voorbeeld van de beste praktijkworkflows van het beheer van leads, wa
 >
 >In Marketo Engage worden records in uw database aangeduid als personen/personen. Het beheer van leads in dit voorbeeld verwijst naar de records in uw CRM.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html) pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html) pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147124
-description: Het tabblad Assets - Marketo Docs - Productdocumentatie gebruiken
+description: Leer hoe u het tabblad Assets in een programma gebruikt. Alle lokale middelen in uw programma weergeven en beheren.
 title: Het tabblad Assets gebruiken
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

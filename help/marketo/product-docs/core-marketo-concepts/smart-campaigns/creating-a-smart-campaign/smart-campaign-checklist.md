@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: Smart Campagne Checklist - Marketo Docs - Productdocumentatie
+description: Vraag hulp aan de checklist voor slimme campagnes. Gebruik deze lijst om te controleren of uw campagne correct is ingesteld voordat u de campagne activeert.
 title: Controlelijst voor slimme campagne
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -55,12 +55,12 @@ Controleer in het tabblad **[!UICONTROL Schedule]** of het aantal gekwalificeerd
 
 >[!TIP]
 >
->Indien vereist, kunt u [&#x200B; persoonbeperkingen in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) met voeten treden.
+>Indien vereist, kunt u [ persoonbeperkingen in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) met voeten treden.
 
 >[!NOTE]
 >
 >**Herinnering**
 >
->Als uw Slimme Campagne nog ontbreekt, leer hoe te [&#x200B; berichten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) begrijpen om te weten wat verkeerd ging en hoe te om het te bevestigen.
+>Als uw Slimme Campagne nog ontbreekt, leer hoe te [ berichten ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) begrijpen om te weten wat verkeerd ging en hoe te om het te bevestigen.
 
 Geweldig werk! Houd deze controlelijst bij de hand voordat u een slimme campagne uitvoert.

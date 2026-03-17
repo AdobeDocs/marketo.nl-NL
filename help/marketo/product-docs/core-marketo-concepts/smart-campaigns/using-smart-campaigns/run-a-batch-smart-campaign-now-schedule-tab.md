@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146933
-description: Een slimme batchcampagne nu uitvoeren | Tabblad Planning - Marketo-documenten - Productdocumentatie
+description: Leer hoe u een batchslimme campagne nu uitvoert vanaf het tabblad Planning. Voer de campagne onmiddellijk uit in plaats van te plannen.
 title: Een slimme batchcampagne nu uitvoeren | Tabblad Planning
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Als u klaar bent met het bouwen van uw Batch-campagne, kunt u ervoor kiezen deze
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Eenvoudig! U kunt ook [&#x200B; planninglooppas voor later &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} als u verkiest.
+   Eenvoudig! U kunt ook [ planninglooppas voor later ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} als u verkiest.
 
    >[!NOTE]
    >
-   >* [&#x200B; Plan een Partij Slimme Campagne om later &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} in werking te stellen
-   >* [&#x200B; Plan een Terugkomende Campagne van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}
+   >* [ Plan een Partij Slimme Campagne om later ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} in werking te stellen
+   >* [ Plan een Terugkomende Campagne van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

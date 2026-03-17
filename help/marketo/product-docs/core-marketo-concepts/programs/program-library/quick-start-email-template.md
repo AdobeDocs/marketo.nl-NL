@@ -1,11 +1,11 @@
 ---
-description: Quick Start Email Template - Marketo Docs - Productdocumentatie
+description: Sjabloon voor e-mailbericht snel starten. Met deze sjabloon kunt u snel e-mails maken op basis van een vooraf gebouwde sjabloon.
 title: E-mailsjabloon snel starten
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ De e-maileditor van Marketo Engage is uitgerust met functies die u helpen de lay
 
 * **Variabelen**: Wanneer een module wordt geselecteerd, verschijnen de variabelen op de rechterkant van de redacteur. Deze kunnen worden gebruikt om attributen van de module aan te passen die niet gemakkelijk via beeld of tekstelementen editable zijn.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Overzicht van modules {#modules-summary}
 

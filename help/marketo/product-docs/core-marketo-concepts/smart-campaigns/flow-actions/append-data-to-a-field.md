@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147042
-description: Gegevens toevoegen aan een veld - Marketo Docs - Productdocumentatie
+description: Leer hoe u gegevens aan een veld kunt toevoegen in een flowstap. Voeg tekst toe aan bestaande veldwaarden zonder deze te overschrijven.
 title: Gegevens toevoegen aan een veld
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Er is een eenvoudige manier om gegevens aan een veld toe te voegen. Zo gaat het.
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[ creeer een Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->De stappen hieronder zijn ook op [&#x200B; Gegevens van het Lid van het Programma van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"} van toepassing.
+>De stappen hieronder zijn ook op [ Gegevens van het Lid van het Programma van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"} van toepassing.
 
 1. Sleep onder het tabblad **[!UICONTROL Flow]** in de stap Stroom **[!UICONTROL Change Data Value]** .
 

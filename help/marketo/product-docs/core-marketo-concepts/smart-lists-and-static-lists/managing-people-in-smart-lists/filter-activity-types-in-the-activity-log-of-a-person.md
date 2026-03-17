@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952402
-description: Typen filteractiviteiten in het activiteitenlog van een persoon - Marketo-documenten - Productdocumentatie
+description: Leer hoe te om activiteitstypes in het activiteitenlogboek van een persoon te filtreren. Focus op specifieke activiteiten bij het weergeven van de geschiedenis.
 title: Typen filteractiviteiten in het activiteitenlog van een persoon
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '118'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 
 >[!NOTE]
 >
->Leer meer over [&#x200B; het activiteitenlogboek &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
+>Leer meer over [ het activiteitenlogboek ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
 1. Ga naar de pagina Details persoon. Klik op de tab **[!UICONTROL Activity Log]** .
 

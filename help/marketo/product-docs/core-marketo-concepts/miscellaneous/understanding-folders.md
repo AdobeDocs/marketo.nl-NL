@@ -1,18 +1,18 @@
 ---
 unique-page-id: 4720779
-description: Mappen begrijpen - Marketo Docs - Productdocumentatie
+description: Leer meer over mappen in programma's voor het organiseren van slimme campagnes en middelen. Mappen maken, hernoemen en verwijderen.
 title: Mappen begrijpen
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
 # Mappen begrijpen {#understanding-folders}
 
-Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [&#x200B; campagnemappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [ campagnemappen ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Een map maken {#create-a-folder}
 

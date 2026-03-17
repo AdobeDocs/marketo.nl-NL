@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147122
-description: Leden beheren en weergeven - Marketo Docs - Productdocumentatie
+description: Leer hoe u de leden van het programma beheert en bekijkt. Zie wie in uw programma is en ledenstatus en gegevens beheren.
 title: Leden beheren en weergeven
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt uw leden in uw programma&#39;s beheren en bekijken gebruikend het lusje v
 
 >[!NOTE]
 >
->Dive dieper in [&#x200B; programmalidmaatschap &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
+>Dive dieper in [ programmalidmaatschap ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}.
 
 ## Zoeken naar een lid {#search-for-a-member}
 
@@ -87,4 +87,4 @@ Zoveel functies, maar ze zijn allemaal vrij eenvoudig. Veel plezier!
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Rapport van de Prestaties van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>[ creeer een Rapport van de Prestaties van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

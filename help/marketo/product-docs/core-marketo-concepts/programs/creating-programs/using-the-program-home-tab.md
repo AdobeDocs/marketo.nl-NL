@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147126
-description: Het programma Home Tab - Marketo Docs - Productdocumentatie gebruiken
+description: Leer hoe u het tabblad Start van het programma gebruikt. Bekijk op één plaats een overzicht van het programma, de prestaties en de belangrijkste details.
 title: Het tabblad Start van het programma gebruiken
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
@@ -71,4 +71,4 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Begrijpend het Lidmaatschap van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[ Begrijpend het Lidmaatschap van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

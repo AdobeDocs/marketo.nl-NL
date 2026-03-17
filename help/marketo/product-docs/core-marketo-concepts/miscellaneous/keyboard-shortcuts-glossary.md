@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147318
-description: Verklarende woordenlijst met sneltoetsen - Marketo Docs - Productdocumentatie
+description: Hulp bij Marketo-sneltoetsen voor gebiedsnavigatie, kalender en meer. Gebruik sneltoetsen om sneller te gaan in Marketo Engage.
 title: Verklarende woordenlijst Sneltoetsen
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 2%
 
 ---
 
@@ -29,7 +29,7 @@ Bent u een persoon met sneltoetsen? We hebben je bedekt!
 
 ## Navigatie kalender-/planningweergave  {#calendar-schedule-view-navigation}
 
-| Sneltoets | Handeling |
+| Sneltoets | Actie |
 |---|---|
 | Alt/Opt + Pijl-omhoog | Terug in de tijd |
 | Alt/Opt + Pijl-omlaag | Naar voren in de tijd |
@@ -37,7 +37,7 @@ Bent u een persoon met sneltoetsen? We hebben je bedekt!
 
 ## Overige {#miscellaneous}
 
-| Sneltoets | Handeling |
+| Sneltoets | Actie |
 |---|---|
 | ESC | Pop-up sluiten |
 | Return/Enter | Pop-up Verzenden |

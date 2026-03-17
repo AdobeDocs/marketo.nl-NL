@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147304
-description: Een filterdefinitie delen in de marketingkalender - Marketo Docs - Productdocumentatie
+description: Leer hoe u een filterdefinitie in de marketingkalender deelt met andere gebruikers. Kopieer de filter-URL die u met uw team wilt delen.
 title: Een filterdefinitie delen in de marketingkalender
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Filters kunnen worden gedeeld door verschillende gebruikers.
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Filter in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
->* [&#x200B; het Opslaan van een Definitie van de Filter in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+>* [ creeer een Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>* [ het Opslaan van een Definitie van de Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
 >[!NOTE]
 >

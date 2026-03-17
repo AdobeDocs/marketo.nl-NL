@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146966
-description: Gekwalificeerde personen weergeven in een slimme campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u gekwalificeerde personen kunt weergeven in een slimme campagne. Zie wie voldoet aan de criteria voor slimme lijst of trigger.
 title: Gekwalificeerde personen weergeven in een slimme campagne
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ Bekijk mensen die in aanmerking komen om door de flow te gaan wanneer u een slim
 
    >[!NOTE]
    >
-   >Het aantal gekwalificeerde personen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe te [&#x200B; kwalificatieregels &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"} uitgeven.
+   >Het aantal gekwalificeerde personen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe te [ kwalificatieregels ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"} uitgeven.
 
 Mooi! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom zouden kunnen gaan alvorens u een Slimme Campagne in werking stelt.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Leden van de Campagne van de Mening Slimme &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
->* [&#x200B; Geblokkeerde Mensen van de Mening in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
->* [&#x200B; voeg een Stap van de Stroom aan een Slimme Campagne toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>* [ Leden van de Campagne van de Mening Slimme ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
+>* [ Geblokkeerde Mensen van de Mening in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+>* [ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

@@ -1,11 +1,11 @@
 ---
-description: Overzicht van inchecken van gebeurtenissen
+description: Meer informatie over gebeurtenisinchecken voor het inchecken van klanten vanaf een tablet. Gebruik de toepassing Inchecken om de registratie van gebeurtenissen te beheren.
 title: Overzicht van inchecken van gebeurtenissen
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw exemplaar van het Marketo Engage aan Adobe Identiteit voor authentificatie van Marketo wordt gemigreerd, zult u niet meer tot app kunnen toegang hebben. [Meer informatie](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [Meer info](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-De Marketo Events-app voor [!DNL iPad] of [!DNL Android] Met een tablet kunt u eenvoudig mensen meteen inchecken wanneer ze bij de gebeurtenis aankomen.
+Met de Marketo Events-app voor [!DNL iPad] of [!DNL Android] kunt u eenvoudig inchecken wanneer mensen bij de gebeurtenis aankomen.
 
 In dit artikel wordt het volledige proces beschreven. De rubrieken zijn gekoppeld aan de afzonderlijke artikelen, en sommige activiteiten van Marketo zijn links in dit overzicht.
 
@@ -28,26 +28,26 @@ Een geweldige gebeurtenis!
 
 Voor de gebeurtenis:
 
-* [Een nieuwe Marketo-rol maken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} for [!DNL iPad] of [!DNL Android] gebruikers voor de gebeurtenis
-* [Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} en hen de nieuwe rol toewijzen
-* [Een nieuw Marketo-gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+* [ creeer een nieuwe rol van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} voor [!DNL iPad] of [!DNL Android] gebruikers voor de gebeurtenis
+* [ nodigt nieuwe tabletgebruikers aan de gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} uit en wijst hen de nieuwe rol toe
+* [ creeer een nieuw de gebeurtenisprogramma van Marketo ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Gebeurtenisdatums opgeven
 * Personen aan uw gebeurtenis toevoegen
 
-## Stel de [!DNL iPad] of [!DNL Android] Tablet
+## De [!DNL iPad] of [!DNL Android] tablet instellen
 
-Om de [!DNL iPad] of [!DNL Android] klaar voor tablet:
+De tablet [!DNL iPad] of [!DNL Android] gereed maken:
 
-* Marketo Events downloaden en installeren [!DNL iPad] of [!DNL Android] tablet-app
+* Download en installeer de Marketo Events [!DNL iPad] - of [!DNL Android] -tablet
 * Aanmeldingsgegevens bevestigen
 * Synchroniseer de app om de gebeurtenis te vullen
 * Inchecken bevestigen werkt
 
-## Personen inchecken met het gereedschap [!DNL iPad] of Tablet
+## Personen inchecken met de [!DNL iPad] of tablet
 
 Bij de gebeurtenis:
 
 * Meld u aan bij de app
 * Gasten zoeken (en nieuwe personen maken)
-* [Gasten inchecken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (reverse check-ins, persoonrecords bewerken bij inchecken)
-* Synchroniseer de [!DNL iPad] of [!DNL Android] tablet-app met Marketo
+* [ Controle in gasten ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (omgekeerde controle-ins, geef persoonverslagen bij controle-binnen uit)
+* De [!DNL iPad] - of [!DNL Android] tablet-app synchroniseren met Marketo

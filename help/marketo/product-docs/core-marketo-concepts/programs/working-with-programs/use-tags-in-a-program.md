@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147150
-description: Tags gebruiken in een programma - Marketo Docs - Productdocumentatie
+description: Leer hoe u tags kunt gebruiken in een programma. Voeg labels toe om programma's te ordenen en filteren in de kalender en rapporten in te schakelen.
 title: Tags gebruiken in een programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '168'
 ht-degree: 2%
 
 ---

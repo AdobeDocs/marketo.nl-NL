@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720377
-description: Verwijzing naar een lijst of slimme lijst in werkruimten - Marketo Docs - Productdocumentatie
+description: Leer hoe u naar een lijst of slimme lijst in verschillende werkruimten kunt verwijzen. Gebruik een lijst van één werkruimte in een andere met verwijzing.
 title: Verwijzen naar een lijst of slimme lijst in werkruimten
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557329
-description: Personen vanuit een lijst of slimme lijst naar Excel exporteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u personen vanuit een lijst of slimme lijst exporteert naar Excel. Download de personen in de lijst voor rapportage.
 title: Personen vanuit een lijst of slimme lijst exporteren naar Excel
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

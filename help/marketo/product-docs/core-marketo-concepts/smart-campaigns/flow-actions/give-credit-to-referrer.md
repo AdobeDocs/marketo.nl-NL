@@ -1,14 +1,14 @@
 ---
 unique-page-id: 1147040
-description: Crediteren aan Referrer - Marketo Docs - Productdocumentatie
+description: Leer hoe u in een flowstap creditering aan de referentie kunt geven. Kenmerk succes aan de verwijzende persoon of de campagne.
 title: Crediteren aan referentie
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '141'
 ht-degree: 1%
 
 ---

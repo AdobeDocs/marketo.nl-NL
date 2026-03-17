@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953348
-description: Items rechtstreeks maken in de marketingkalender - Marketo Docs - Productdocumentatie
+description: Leer hoe u vermeldingen rechtstreeks in de marketingkalender maakt met behulp van de programmafocus. Voeg elementaire gegevens, e-mailprogramma's of slimme campagnes toe.
 title: Items rechtstreeks maken in de marketingkalender
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -46,4 +46,4 @@ Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met behulp v
 
 >[!MORELIKETHIS]
 >
->[&#x200B; geef Ingangen direct in de Kalender van de Marketing uit &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[ geef Ingangen direct in de Kalender van de Marketing uit ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146978
-description: Gebruik een Duur in een Stap van de Stroom van de Wacht - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u een duur kunt gebruiken in een wachtstroomstap. De flow gedurende een bepaald aantal dagen pauzeren voor de volgende actie.
 title: Gebruik een Duur in een Stap van de Stroom van de Wacht
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -49,5 +49,5 @@ U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een Sli
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; gebruik een Specifieke Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
-   >* [&#x200B; Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}
+   >* [ gebruik een Specifieke Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
+   >* [ Gebruik een Symbolisch van de Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md){target="_blank"}

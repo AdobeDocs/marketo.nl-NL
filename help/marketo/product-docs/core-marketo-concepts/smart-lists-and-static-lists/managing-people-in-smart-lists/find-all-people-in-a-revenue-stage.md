@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557331
-description: Zoeken naar alle mensen in een belastingfase - Marketo Docs - Productdocumentatie
+description: Leer hoe u alle mensen in een inkomstenstadium kunt vinden. Gebruik het filter van het opbrengststadium om een lijst of een segment te bouwen.
 title: Alle personen zoeken in een omzettingsfase
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
 ## Zoeken naar alle leden van een specifieke omzettingsfase {#find-all-members-of-a-specific-revenue-stage}
 

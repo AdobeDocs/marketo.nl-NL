@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147015
-description: Betrokkenheidsprogrammastroom wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de betrokkenheidsprogrammastroom in een flowstap kunt wijzigen. Verplaats mensen naar een andere stream in het betrokkenheidsprogramma.
 title: Betrokkenheidsprogrammastroom wijzigen
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
 # Betrokkenheidsprogrammastroom wijzigen {#change-engagement-program-stream}
 
-Normaal, zou u [&#x200B; de overgangsregels van de stroomovergang &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gebruiken om dit te bereiken. Maar als u mensen van één stroom aan een andere manueel wilt bewegen, is dit de stroomstap aan gebruik.
+Normaal, zou u [ de overgangsregels van de stroomovergang ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gebruiken om dit te bereiken. Maar als u mensen van één stroom aan een andere manueel wilt bewegen, is dit de stroomstap aan gebruik.
 
 ![](assets/change-engagement-program-stream-1.png)
 

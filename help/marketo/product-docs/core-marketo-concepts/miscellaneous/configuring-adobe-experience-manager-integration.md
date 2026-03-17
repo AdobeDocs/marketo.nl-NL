@@ -1,14 +1,14 @@
 ---
 unique-page-id: 30081815
-description: Adobe Experience Manager-integratie configureren - Marketo Docs - Productdocumentatie
+description: Leer hoe u Adobe Experience Manager-integratie met Marketo configureert. Stel AEM zo in dat u elementen kunt openen en importeren in Design Studio.
 title: Adobe Experience Manager-integratie configureren
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---

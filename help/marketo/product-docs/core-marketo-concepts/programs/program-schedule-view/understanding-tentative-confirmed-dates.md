@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147140
-description: Inzicht krijgen in voorlopige/bevestigde datums - Marketo Docs - Productdocumentatie
+description: Leer over tentatieve en bevestigde data in de Mening van het Programma. Begrijp wanneer ingangen worden gesloten en wanneer zij lopen.
 title: Inzicht krijgen in voorlopige/bevestigde datums
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

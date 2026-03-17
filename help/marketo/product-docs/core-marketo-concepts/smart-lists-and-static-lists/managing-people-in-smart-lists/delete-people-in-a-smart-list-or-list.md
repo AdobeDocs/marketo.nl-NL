@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146897
-description: Personen in een slimme lijst of lijst verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u personen uit een slimme lijst of statische lijst verwijdert. Verwijder mensen uit de lijst of uit de database.
 title: Personen in een slimme lijst of lijst verwijderen
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

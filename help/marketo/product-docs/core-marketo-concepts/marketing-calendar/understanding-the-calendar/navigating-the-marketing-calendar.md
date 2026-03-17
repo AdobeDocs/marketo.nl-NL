@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147257
-description: Navigeren door de marketingkalender - Marketo Docs - Productdocumentatie
+description: Leer hoe u door de marketingkalender kunt navigeren, inclusief de modi 3 weken en 3 maanden. U kunt van weergave wisselen en de agenda gebruiken om de geplande middelen te bekijken.
 title: Navigeren door de marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt gemakkelijk navigeren door de marketingkalender. Zo gaat het.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u de vergunning van de Kalender van de a [&#x200B; op de markt brengt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
+>Zorg ervoor u de vergunning van de Kalender van de a [ op de markt brengt ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Zonder DeLorean! Klik gewoon op de navigatieknoppen.
 
 U kunt ook deze sneltoetsen gebruiken.
 
-| Handeling | Sneltoets |
+| Actie | Sneltoets |
 |---|---|
 | Terug in de tijd | alt/opt + up |
 | Voorwaarts in de tijd | alt/opt + down |
@@ -71,4 +71,4 @@ Geweldig! Dit zijn de basisbeginselen. U kunt de weergave ook aanpassen met behu
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Filtrerend de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}
+>[ Filtrerend de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

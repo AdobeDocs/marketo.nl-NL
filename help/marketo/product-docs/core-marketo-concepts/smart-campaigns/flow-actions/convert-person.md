@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147019
-description: Persoon converteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een persoon in een flowstap omzet. Anonieme bezoekers markeren als gekend tijdens de conversie.
 title: Persoon omzetten
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---

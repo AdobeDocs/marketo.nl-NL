@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146989
-description: Campagne-acties - Een slimme campagne klonen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een slimme campagne kloont. Maak een kopie van een campagne om de structuur ervan te hergebruiken met een nieuwe naam.
 title: Campagnehandelingen - Een slimme campagne klonen
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

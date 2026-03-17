@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: Aangepaste veldtokens voor programmaleden - Marketo Docs - Productdocumentatie
+description: Meer informatie over aangepaste veldtokens van programmeleden. Gebruik tokens om lidgegevens in e-mails en landingspagina's op te nemen.
 title: Aangepaste veldtokens voor programmaleden
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---

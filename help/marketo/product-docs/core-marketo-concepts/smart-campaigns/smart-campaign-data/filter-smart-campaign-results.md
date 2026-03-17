@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147068
-description: Resultaten van slimme campagnes filteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u resultaten van slimme campagnes kunt filteren. Verfijn de mensen die in de campagneresultaten worden getoond door criteria.
 title: Resultaten van slimme campagnes filteren
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; Mening Slimme Resultaten van de Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
+>[ Mening Slimme Resultaten van de Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 Filter de slimme resultaten van de Campagne om specifieke activiteiten te zien die voor u van belang zijn.
 

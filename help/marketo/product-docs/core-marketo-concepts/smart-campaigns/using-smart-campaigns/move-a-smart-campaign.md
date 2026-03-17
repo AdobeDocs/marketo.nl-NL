@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6094949
-description: Een slimme campagne verplaatsen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een slimme campagne verplaatst. Verplaats de campagne naar een andere map in Marketing Activities.
 title: Een slimme campagne verplaatsen
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---

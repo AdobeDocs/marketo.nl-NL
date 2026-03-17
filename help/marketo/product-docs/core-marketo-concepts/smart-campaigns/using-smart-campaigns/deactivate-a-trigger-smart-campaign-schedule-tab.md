@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146991
-description: Een slimme campagne activeren uitschakelen | Tabblad Planning - Marketo-documenten - Productdocumentatie
+description: Leer hoe u een Smart Campagne voor trigger deactiveert via het tabblad Planning. Schakel de campagne uit, zodat de triggers niet meer worden verwerkt.
 title: Een slimme campagne activeren uitschakelen | Tabblad Planning
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---

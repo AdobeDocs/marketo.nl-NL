@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: Tags begrijpen - Marketo Docs - Productdocumentatie
+description: Leer meer over tags voor het organiseren en filteren van programma's. Gebruik labels om programma's en filterrapporten te categoriseren.
 title: Tags begrijpen
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Tagtypen geven het soort informatie aan waarop u wilt sorteren.
 
 >[!TIP]
 >
->Bespreek aan uw Admin van Marketo als u [&#x200B; douanetags &#x200B;](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"} zou willen creëren.
+>Bespreek aan uw Admin van Marketo als u [ douanetags ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"} zou willen creëren.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Elk labeltype heeft waarden waaruit u kunt kiezen.
 
 ## Kanaal {#channel}
 
-De kanalen worden gebruikt om op te melden hoe uw [&#x200B; leden &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} door uw programma worden bewogen. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
+De kanalen worden gebruikt om op te melden hoe uw [ leden ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} door uw programma worden bewogen. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ De kanalen worden gebruikt om op te melden hoe uw [&#x200B; leden &#x200B;](/hel
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer de Markeringen van de Douane &#x200B;](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
->* [&#x200B; creeer een Kanaal van het Programma &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+>* [ creeer de Markeringen van de Douane ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [ creeer een Kanaal van het Programma ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

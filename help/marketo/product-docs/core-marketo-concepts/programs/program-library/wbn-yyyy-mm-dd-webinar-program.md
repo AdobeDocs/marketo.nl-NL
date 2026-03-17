@@ -1,11 +1,11 @@
 ---
-description: WBN-YYYY-MM-DD-Webinar-programma - Marketo Docs - Productdocumentatie
+description: Webinar programmasjabloon. Gebruik deze optie voor webinars met een standaardnaamgevingsconventie.
 title: WBN-YYYY-MM-DD-Webinar-programma
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '597'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeld van een webinar-programma met registratiebeheer, drie uitnodigingen, herinneringen aan en follow-up-e-mails met gebruik van een Marketo Engage Event-programma.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147091
-description: Werken met het programmamandschap - Marketo Docs - Productdocumentatie
+description: Leer meer over het lidmaatschap van een programma en hoe mensen aan programma's deelnemen. Begrijp status en succes voor programmaleden.
 title: Werken met het lidmaatschap van het programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 ## Hoe mensen lid worden van een programma {#how-people-become-members-of-a-program}
 
-1. Een persoon vult a [&#x200B; vorm op een het landen pagina &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} in het programma uit.
+1. Een persoon vult a [ vorm op een het landen pagina ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} in het programma uit.
 
    * De persoon krijgt automatisch de eerste status in de progressie.
 
-1. U [&#x200B; voert leden in het programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} van een Csv- dossier in.
+1. U [ voert leden in het programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} van een Csv- dossier in.
 
    * De persoon krijgt automatisch de eerste status in de progressie.
 
-1. U gebruikt de [&#x200B; stap van de het programmastatus van de verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} stroom.
-1. Een persoon registreert of bijwoont a [&#x200B; webinar die met een gebeurtenisprogramma &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"} wordt gesynchroniseerd.
-1. Een persoon wordt gecreeerd [&#x200B; gebruikend de controle-in toepassing van Marketo iPad &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. Een persoon wordt toegevoegd aan een Campagne van SFDC, die [&#x200B; aan het programma &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"} wordt gesynchroniseerd.
+1. U gebruikt de [ stap van de het programmastatus van de verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} stroom.
+1. Een persoon registreert of bijwoont a [ webinar die met een gebeurtenisprogramma ](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"} wordt gesynchroniseerd.
+1. Een persoon wordt gecreeerd [ gebruikend de controle-in toepassing van Marketo iPad ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
+1. Een persoon wordt toegevoegd aan een Campagne van SFDC, die [ aan het programma ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"} wordt gesynchroniseerd.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## Programmastatussen {#program-statuses}
 
-Programmastatus zijn de stappen die mensen doorlopen in een programma (bijv. Uitgenodigd, RSVP&#39;d, Bijgewoond, Geen show). Deze stappen worden bepaald door het [&#x200B; kanaal &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Programmastatus zijn de stappen die mensen doorlopen in een programma (bijv. Uitgenodigd, RSVP&#39;d, Bijgewoond, Geen show). Deze stappen worden bepaald door het [ kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -56,9 +56,9 @@ Het doel van een programma is een zinvolle interactie met de persoon of het voor
 
 ## Overnameprogramma {#acquisition-program}
 
-Wanneer een nieuwe naam het systeem als programmalid ingaat, plaatst Marketo automatisch dat programma als &quot;verwerving.&quot; Dit vestigt krediet voor [&#x200B; First-Touch attributie &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+Wanneer een nieuwe naam het systeem als programmalid ingaat, plaatst Marketo automatisch dat programma als &quot;verwerving.&quot; Dit vestigt krediet voor [ First-Touch attributie ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Markeringen van het Gebruik in een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
->* [&#x200B; creeer een Rapport van de Prestaties van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>* [ Markeringen van het Gebruik in een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
+>* [ creeer een Rapport van de Prestaties van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

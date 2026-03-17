@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147070
-description: De Slimme Resultaten van de Campagne van de uitvoer naar  [!DNL Excel]  - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u resultaten van slimme campagnes exporteert naar Excel. Gegevens van campagnegelidden downloaden voor rapportage of analyse.
 title: Resultaten slimme campagne exporteren naar  [!DNL Excel]
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

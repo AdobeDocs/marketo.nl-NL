@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147306
-description: Filteren van de marketingkalender door Workspace - Marketo Docs - Productdocumentatie
+description: Leer hoe u de marketingkalender filtert op werkruimte. Alleen objecten weergeven die in een specifieke werkruimte van het filterdeelvenster zijn gemaakt.
 title: De marketingkalender filteren op Workspace
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ De marketingkalender kan worden gefilterd door objecten in specifieke werkruimte
 
    >[!NOTE]
    >
-   >[&#x200B; het Opslaan van een Definitie van de Filter in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[ het Opslaan van een Definitie van de Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

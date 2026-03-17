@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146997
-description: Een Date Token gebruiken in een Wachten Flow-stap - Marketo Docs - Productdocumentatie
+description: Leer hoe u een datumtoken gebruikt in een wachtstroomstap. Wacht tot een dynamische datum van een token voordat u verdergaat.
 title: Een Date Token gebruiken in een Wachten Flow-stap
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -62,5 +62,5 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Gebruik een Duur in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
-   >* [&#x200B; gebruik een Specifieke Datum in een Wacht Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}
+   >* [ Gebruik een Duur in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md){target="_blank"}
+   >* [ gebruik een Specifieke Datum in een Wacht Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511477
-description: Inactiviteitsfilters gebruiken in een slimme lijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u inactiviteitsfilters in een slimme lijst gebruikt. Zoek naar mensen die voor een bepaalde periode niets hebben gedaan.
 title: Inactiviteitsfilters gebruiken in een slimme lijst
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---

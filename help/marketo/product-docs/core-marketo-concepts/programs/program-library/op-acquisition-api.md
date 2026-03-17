@@ -1,11 +1,11 @@
 ---
-description: OP-Acquisition-API - Marketo Docs - Productdocumentatie
+description: Sjabloon operationeel van de API voor acquisitie. Gebruik deze methode om leads vast te leggen via API.
 title: OP-Acquisition-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---

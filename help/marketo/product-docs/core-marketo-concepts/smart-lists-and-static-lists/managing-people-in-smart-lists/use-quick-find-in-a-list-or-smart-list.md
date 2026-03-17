@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557326
-description: Snel zoeken gebruiken in een lijst of slimme lijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u Snel zoeken in een lijst of slimme lijst gebruikt. Zoek naar een specifieke persoon door naam of e-mail in de lijst.
 title: Snel zoeken gebruiken in een lijst of slimme lijst
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---

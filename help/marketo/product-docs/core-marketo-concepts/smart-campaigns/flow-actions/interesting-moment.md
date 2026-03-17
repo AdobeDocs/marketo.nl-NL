@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146956
-description: Interessant moment - Marketo-documenten - productdocumentatie
+description: Leer hoe u een interessant moment in een flowstap kunt maken. Logsleutelacties voor verkoopzicht in CRM.
 title: Interessant moment
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,9 @@ Als u de Verkoop Insight van Marketo hebt, kunt u **het Interesten Moment** debi
    >
    >_minder is meer_. Werk samen met uw verkoopteam om ervoor te zorgen dat interessante momenten eigenlijk interessant zijn.
 
-U kunt [&#x200B; tokens in interessante momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} ook gebruiken om werkelijk nuttige dynamische beschrijvingen te maken.
+U kunt [ tokens in interessante momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} ook gebruiken om werkelijk nuttige dynamische beschrijvingen te maken.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Gebruikend Interesserende Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
->* [&#x200B; Tokens voor het Interesten Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}
+>* [ Gebruikend Interesserende Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
+>* [ Tokens voor het Interesten Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}

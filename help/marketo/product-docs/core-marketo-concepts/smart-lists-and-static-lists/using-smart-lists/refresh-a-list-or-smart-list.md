@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557318
-description: Een lijst of slimme lijst vernieuwen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een lijst of slimme lijst vernieuwt. Werk de personen in de lijst bij om de huidige filterresultaten of het huidige lidmaatschap te weerspiegelen.
 title: Lijst of slimme lijst vernieuwen
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -31,4 +31,4 @@ Als u een slimme lijst hebt uitgevoerd en een paar minuten zijn verstreken, kunn
 
 >[!MORELIKETHIS]
 >
->[&#x200B; de Mensen van de Uitvoer naar Excel van een Lijst of Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}
+>[ de Mensen van de Uitvoer naar Excel van een Lijst of Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

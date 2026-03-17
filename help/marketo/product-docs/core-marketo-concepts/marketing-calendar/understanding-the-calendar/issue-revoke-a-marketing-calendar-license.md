@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147255
-description: Licentie voor een marketingkalender intrekken/uitgeven - Marketo Docs - Productdocumentatie
+description: Leer hoe u een licentie voor de marketingkalender voor gebruikers kunt uitgeven of intrekken. Toegang tot agenda verlenen of verwijderen.
 title: Licentie voor een marketingkalender uitgeven/intrekken
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '100'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Vereiste Bevoegdheden Admin**
 
-Om gebruik van uw [&#x200B; in de handel brengende Kalender &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} plaatsen te maken, moet u vergunningen aan gebruikers uitgeven die toegang nodig hebben. Zo gaat het.
+Om gebruik van uw [ in de handel brengende Kalender ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} plaatsen te maken, moet u vergunningen aan gebruikers uitgeven die toegang nodig hebben. Zo gaat het.
 
 1. Ga naar de sectie **[!UICONTROL Admin]** .
 

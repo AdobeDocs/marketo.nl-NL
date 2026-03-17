@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147243
-description: Invoertypen voor programmaplanningen - Marketo-documenten - Productdocumentatie
+description: Leer over de ingangen van de Mening van het Programma van het Programma. Maak kennis met e-mailprogramma's, slimme campagnes en andere typen berichten.
 title: Invoertypen voor programmaplanningen
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
 # Invoertypen voor programmaplanningen {#program-schedule-view-entry-types}
 
-Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt [&#x200B; types van douaneingang &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in de Admin sectie ook tot stand brengen.
+Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt [ types van douaneingang ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in de Admin sectie ook tot stand brengen.
 
 >[!NOTE]
 >

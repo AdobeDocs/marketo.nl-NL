@@ -1,12 +1,12 @@
 ---
-description: OP-Deliverability Management - Marketo Docs - Productdocumentatie
+description: Template voor het operationele programma voor het beheer van de aflevering. Gebruik deze optie om de e-mailleverbaarheid te behouden.
 title: OP-Deliverability Management
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -16,9 +16,9 @@ Dit is een voorbeeld van workflows voor het beheer van de leveringszekerheid die
 
 >[!NOTE]
 >
->Vereist een aangepast tekenreeksveld &quot;Reden voor marketingonderbreking&quot; om te importeren. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
+>Vereist een aangepast tekenreeksveld &quot;Reden voor marketingonderbreking&quot; om te importeren. [Meer info](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

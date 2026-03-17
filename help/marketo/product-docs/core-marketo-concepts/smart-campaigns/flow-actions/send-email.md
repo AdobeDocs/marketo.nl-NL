@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146948
-description: E-mail verzenden - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mail verzendt in een stap in de slimme-campagnestroom. Voeg de actie E-mail verzenden toe aan uw campagnestroom.
 title: E-mail verzenden
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---

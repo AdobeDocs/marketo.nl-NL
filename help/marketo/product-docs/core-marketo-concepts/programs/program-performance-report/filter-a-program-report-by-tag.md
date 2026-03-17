@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147235
-description: Een programmarapport filteren op tag - Marketo Docs - Productdocumentatie
+description: Leer hoe u een programmarapport filtert op tag. Prestaties weergeven voor programma's met specifieke tags.
 title: Een programmarapport filteren op tag
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 1%
 
 ---
 
 # Een programmarapport filteren op tag {#filter-a-program-report-by-tag}
 
-Focus uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) op specifieke [&#x200B; markeringen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
+Focus uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) op specifieke [ markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ).
 
@@ -41,4 +41,4 @@ Focus uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/pr
 
 >[!NOTE]
 >
->[&#x200B; filter een Rapport van het Programma door Periode Kosten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>[ filter een Rapport van het Programma door Periode Kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

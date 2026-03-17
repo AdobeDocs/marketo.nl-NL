@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146958
-description: Waarschuwing verzenden - Marketo-documenten - productdocumentatie
+description: Leer hoe u een waarschuwing verzendt in een stap Slimme campagne. Gebruikers op de hoogte stellen wanneer iemand de flow ingaat of aan de criteria voldoet.
 title: Waarschuwing verzenden
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -47,4 +47,4 @@ Marketo Engage kan een e-mailbericht met persoonlijke gegevens naar iedereen stu
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}
+>[ creeer een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md){target="_blank"}

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147036
-description: Verwijderen uit SFDC-campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u mensen uit een Salesforce-campagne kunt verwijderen met een flowstap. Verwijder leden uit de SFDC-campagne in de flow.
 title: Verwijderen uit SFDC-campagne
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 # Verwijderen uit SFDC-campagne {#remove-from-sfdc-campaign}
 
-Enkel als hoe u aan de Campagne van SFDC [&#x200B; en &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} Status van de Verandering in de Campagne van SFDC [&#x200B; kunt toevoegen, kunt u mensen of lood uit een campagne van Salesforce ook verwijderen.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}
+Enkel als hoe u aan de Campagne van SFDC [ en ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} Status van de Verandering in de Campagne van SFDC [ kunt toevoegen, kunt u mensen of lood uit een campagne van Salesforce ook verwijderen.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}
 
 ![](assets/remove-from-sfdc-campaign-1.png)
 

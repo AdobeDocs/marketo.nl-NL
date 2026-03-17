@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147074
-description: Automatisch opruimen van campagne starten - Marketo Docs - Productdocumentatie
+description: Meer informatie over het automatisch opruimen van triggercampagnes. Begrijp hoe Marketo oude triggercampagne opruimt.
 title: Opruimen van campagne voor automatische activering
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---

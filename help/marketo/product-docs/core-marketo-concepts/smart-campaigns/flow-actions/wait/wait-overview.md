@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146950
-description: Wacht - Marketo-documenten - productdocumentatie
+description: Leer over de de stroomstap van de Wacht in Slimme Campagnes. Pauze de flow gedurende een bepaalde periode of tot een bepaalde datum voordat je doorgaat.
 title: Wachten
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ U ziet hoe u in natuurlijke taal kunt typen zoals &quot;4 uur&quot;. **niet**, e
 
 >[!TIP]
 >
->Als u iemand reeds in een wachtende stap hebt en u wilt hen niet vooruitgaan na de wachttijdperiode beëindigt, neem [&#x200B; van stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) recht na de wachtende stap op. Specificeer wie u verwijderd wilt gebruiken door [&#x200B; keus &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) optie toe te voegen.
+>Als u iemand reeds in een wachtende stap hebt en u wilt hen niet vooruitgaan na de wachttijdperiode beëindigt, neem [ van stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) recht na de wachtende stap op. Specificeer wie u verwijderd wilt gebruiken door [ keus ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) optie toe te voegen.
 
 Er zijn drie belangrijke manieren om een stap van de wachttijdstroom te gebruiken:
 

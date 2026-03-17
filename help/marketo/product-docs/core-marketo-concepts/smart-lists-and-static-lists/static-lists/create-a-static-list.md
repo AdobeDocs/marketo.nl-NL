@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11387513
-description: Een statische lijst maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een statische lijst maakt in Marketo. Voeg een lijst aan het Gegevensbestand toe en voeg manueel of door invoer mensen toe.
 title: Een statische lijst maken
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ De statische lijsten zijn een groep mensen reeds in uw Gegevensbestand. Zo maak 
 
    ![](assets/three.png)
 
-   U hebt nu een lege lijst die kan worden ingevuld. Leer hoe te om mensen [&#x200B; hier &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"} toe te voegen.
+   U hebt nu een lege lijst die kan worden ingevuld. Leer hoe te om mensen [ hier ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"} toe te voegen.
 
    >[!NOTE]
    >

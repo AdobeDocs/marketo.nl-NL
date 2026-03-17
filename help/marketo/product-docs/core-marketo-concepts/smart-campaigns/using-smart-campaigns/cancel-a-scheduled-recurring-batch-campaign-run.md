@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147060
-description: Een geplande batchcampagne annuleren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een geplande uitvoering van een terugkerende batchcampagne annuleert. Stop een terugkerend programma zodat het niet meer loopt.
 title: Een geplande batchcampagne annuleren
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Als u een terugkerende Campagne hebt van de Partij die u niet meer wilt, kunt u 
 
    >[!TIP]
    >
-   >U kunt één enkele looppas annuleren door op ![&#x200B; rode x &#x200B;](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) naast het te klikken. Leer hoe te [&#x200B; een geplande looppas van de partijcampagne annuleren &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >U kunt één enkele looppas annuleren door op ![ rode x ](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) naast het te klikken. Leer hoe te [ een geplande looppas van de partijcampagne annuleren ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
 1. Stel Planning in op **[!UICONTROL None]** en klik op **[!UICONTROL Save]** .
 
@@ -39,4 +39,4 @@ Als u een terugkerende Campagne hebt van de Partij die u niet meer wilt, kunt u 
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; annuleert een Geplande Looppas van de Campagne van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+   >[ annuleert een Geplande Looppas van de Campagne van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

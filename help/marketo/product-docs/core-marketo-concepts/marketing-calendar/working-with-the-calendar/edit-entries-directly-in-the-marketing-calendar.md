@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953352
-description: Vermeldingen rechtstreeks bewerken in de marketingagenda - Marketo Docs - Productdocumentatie
+description: Leer hoe u vermeldingen rechtstreeks in de marketingkalender kunt bewerken. Gebruik de programmafocus om de invoergegevens opnieuw te plannen, te hernoemen of te wijzigen.
 title: Items rechtstreeks in de marketingkalender bewerken
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -67,4 +67,4 @@ Dat is het! Aangezien u kunt zien zijn er veel dingen u direct van de Kalender v
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Schrap ingangen direct in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[ Schrap ingangen direct in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}

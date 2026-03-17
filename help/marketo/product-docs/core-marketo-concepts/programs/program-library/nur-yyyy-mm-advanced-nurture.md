@@ -1,11 +1,11 @@
 ---
-description: NUR-YYYY-MM-Advanced Nurture - Marketo Docs - Productdocumentatie
+description: Sjabloon van geavanceerd cursusprogramma. Gebruik het voor multi-stroomkwekerij met een noemende overeenkomst.
 title: NUR-YYYY-MM-Advanced Nurture
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '497'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeld van geavanceerde programma&#39;s voor de cursus over de Marketo Engage Engagement Program. Geneste e-mailprogramma&#39;s voorkomen dat mensen inhoud ontvangen die ze al hebben verbruikt, of bepalen het type inhoud dat ze in elke stream moeten consumeren. Het rapporteren van de attributen kan voor elk individueel Genest E-mailprogramma worden in werking gesteld. Kanalen: &quot;Nurture&quot; en een speciaal &quot;Nurture Email&quot;-kanaal voor de geneste e-mailprogramma&#39;s sturen één nieuwsbrief met behulp van een Marketo Engage e-mailprogramma. Het e-mailbericht kan een A/B-test bevatten of niet.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

@@ -1,11 +1,11 @@
 ---
-description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Productdocumentatie
+description: Sjabloon handelsprogramma. Gebruik deze optie voor gebeurtenissen en presentaties met consistente naamgeving.
 title: TS-YYYY-MM-DD-Tradeshow-programma
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '416'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeld van een transactieprogramma met uitnodigingen en follow-upe-mails die gebruikmaken van een Marketo Engage-gebeurtenisprogramma.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

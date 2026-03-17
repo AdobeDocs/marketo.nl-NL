@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504130
-description: Een aangepast doel maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een aangepast doel kunt maken in de marketingkalender. Houd de voortgang bij en motiveer uw team met handmatig bijgewerkte doelen.
 title: Een aangepast doel maken
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 3%
+source-wordcount: '110'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Nadat u ze hebt gemaakt, moeten ze handmatig worden bijgewerkt.
 
-Als presentaties, zijn de doelstellingen [&#x200B; - specifiek &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
+Als presentaties, zijn de doelstellingen [ - specifiek ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
 
 1. Ga naar de **[!UICONTROL Calendar]** .
 

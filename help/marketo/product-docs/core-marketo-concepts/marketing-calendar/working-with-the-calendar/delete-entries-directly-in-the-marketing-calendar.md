@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953358
-description: Items rechtstreeks verwijderen in de marketingkalender - Marketo Docs - productdocumentatie
+description: Leer hoe u vermeldingen rechtstreeks uit de marketingkalender kunt verwijderen.
 title: Items rechtstreeks in de marketingkalender verwijderen
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
 # Items rechtstreeks in de marketingkalender verwijderen {#delete-entries-directly-in-the-marketing-calendar}
 
-Naast [&#x200B; creërend &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} en [&#x200B; het uitgeven &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} ingangen, kunt u hen direct in de Kalender van de Marketing schrappen. Zo gaat het.
+Naast [ creërend ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} en [ het uitgeven ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} ingangen, kunt u hen direct in de Kalender van de Marketing schrappen. Zo gaat het.
 
 1. Klik de **MU** tegel.
 
@@ -31,4 +31,4 @@ Afhankelijk van de vermelding moet u mogelijk de verwijdering bevestigen. Maar d
 
 >[!MORELIKETHIS]
 >
->[&#x200B; bevestig direct Ingangen in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[ bevestig direct Ingangen in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

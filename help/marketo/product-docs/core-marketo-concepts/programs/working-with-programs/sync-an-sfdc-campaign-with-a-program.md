@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147154
-description: Een SFDC-campagne synchroniseren met een programma - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Salesforce-campagne kunt synchroniseren met een Marketo-programma. Lidstatus synchroon houden tussen SFDC en Marketo.
 title: Een SFDC-campagne synchroniseren met een programma
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce
 
 >[!PREREQUISITES]
 >
->U zult [&#x200B;  [!DNL Salesforce]  campagnecsync &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} eerst moeten toelaten.
+>U zult [  [!DNL Salesforce]  campagnecsync ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} eerst moeten toelaten.
 
 >[!CAUTION]
 >
@@ -39,7 +39,7 @@ Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce
 
    >[!TIP]
    >
-   >Als u een bestaande [!DNL Salesforce] campagne selecteert, zorg ervoor [&#x200B; de programmastatussen van de  [!DNL Salesforce]  campagne en het programma van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} aanpast.
+   >Als u een bestaande [!DNL Salesforce] campagne selecteert, zorg ervoor [ de programmastatussen van de  [!DNL Salesforce]  campagne en het programma van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} aanpast.
 
 1. Voer een naam in voor de nieuwe campagne en klik op **[!UICONTROL Save]** .
 

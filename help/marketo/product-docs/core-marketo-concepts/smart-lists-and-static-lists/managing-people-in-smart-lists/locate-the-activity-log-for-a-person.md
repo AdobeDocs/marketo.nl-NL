@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472404
-description: Zoek het activiteitenlog voor een persoon - Marketo Docs - Productdocumentatie
+description: Leer hoe u het activiteitenlogboek voor een persoon kunt vinden. E-mail, het Web, en andere activiteitengeschiedenis voor een lood bekijken.
 title: Zoek het activiteitenlog voor een persoon
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '131'
 ht-degree: 1%
 
 ---
@@ -49,4 +49,4 @@ Moet het activiteitenlogboek van een persoon naar Excel uitvoeren?
 
    >[!MORELIKETHIS]
    >
-   >Leer meer over [&#x200B; het filtreren van het activiteitenlogboek &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} om specifieke persoonactiviteiten te zien.
+   >Leer meer over [ het filtreren van het activiteitenlogboek ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} om specifieke persoonactiviteiten te zien.

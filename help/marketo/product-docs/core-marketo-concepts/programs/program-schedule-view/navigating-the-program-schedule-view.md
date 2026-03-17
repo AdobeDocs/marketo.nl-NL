@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147100
-description: Navigeren door de programmaoverzichtsweergave - Marketo Docs - Productdocumentatie
+description: Leer hoe te om de Mening van het Programma te navigeren. Ga door de tijd en bekijk geplande ingangen in uw programma.
 title: Navigeren door de programmaweergave
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -65,4 +65,4 @@ Geweldig! Nu je weet hoe je je programma kunt bekijken, leren we de andere coole
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Creërend een Ingang in de Mening van het Programma van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
+>[ Creërend een Ingang in de Mening van het Programma van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

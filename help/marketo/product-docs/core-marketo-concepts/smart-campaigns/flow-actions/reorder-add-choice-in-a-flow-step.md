@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557333
-description: Herordend Add Keuze in een Stroom Stap - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u de opties Keuze toevoegen opnieuw ordent in een flowstap. Wijzig de volgorde van keuzesectoren in uw campagne.
 title: Opnieuw rangschikken Keuze toevoegen in een stroomstap
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

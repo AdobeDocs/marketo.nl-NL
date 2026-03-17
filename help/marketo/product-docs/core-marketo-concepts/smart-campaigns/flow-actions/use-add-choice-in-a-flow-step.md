@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146980
-description: Kies Toevoegen in een stroomstap - Marketo-documenten - Productdocumentatie
+description: Leer hoe u Keuze toevoegen in een flowstap gebruikt. Vertakken uw campagnestroom die op voorwaarden met keus logica wordt gebaseerd.
 title: Keuze toevoegen in een stroomstap gebruiken
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg een Stap van de Stroom aan een Slimme Campagne toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
 Met de optie Keuze toevoegen kunt u een stap-stap gebruiken en zeggen dat dit afhankelijk is wanneer u de details kiest.
 
@@ -49,10 +49,10 @@ Met de optie Keuze toevoegen kunt u een stap-stap gebruiken en zeggen dat dit af
 
    >[!CAUTION]
    >
-   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe te om [&#x200B; opnieuw te rangschikken &quot;Keus&quot;in een stroomactie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"} toevoegt.
+   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe te om [ opnieuw te rangschikken &quot;Keus&quot;in een stroomactie ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"} toevoegt.
 
    Geweldig! U kunt nu één slimme campagne maken met keuzemogelijkheden voor de stap Snel in plaats van meerdere slimme campagnes voor elke keuze te maken.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; reorder Add Keuze in een Stap van de Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}
+   >[ reorder Add Keuze in een Stap van de Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}

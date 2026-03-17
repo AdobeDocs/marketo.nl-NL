@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146937
-description: Leden van slimme campagnes weergeven - Marketo Docs - Productdocumentatie
+description: Leer hoe u leden van slimme campagnes kunt weergeven. Zie wie in de campagne is en hun status in de flow.
 title: Leden van slimme campagnes weergeven
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -37,4 +37,4 @@ Personen weergeven die al door de slimme-campagnestroom zijn gelopen.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Geblokkeerde Mensen van de Mening in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}
+   >[ Geblokkeerde Mensen van de Mening in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md){target="_blank"}

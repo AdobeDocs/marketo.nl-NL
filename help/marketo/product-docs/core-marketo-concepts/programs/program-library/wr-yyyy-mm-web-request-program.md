@@ -1,12 +1,12 @@
 ---
-description: WR-YYYY-MM-Web Request Program - Marketo Docs - Productdocumentatie
+description: Webaanvraagprogrammasjabloon. Gebruik deze optie voor gescheiden inhoud en verzonden formulieren.
 title: WR-YYYY-MM-Web Request-programma
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 1%
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeldprogramma ideaal voor contactverzoek, citaatverzoek, demoverzoek, of proefverzoekvormen die een StandaardProgramma van Marketo Engage gebruiken. Kan worden gebruikt met Marketo-bestemmingspagina&#39;s of als een ingesloten formulier op niet-Marketo bestemmingspagina&#39;s. Bij het verzenden van het formulier wordt een waarschuwingsbericht naar een opgegeven persoon verzonden.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

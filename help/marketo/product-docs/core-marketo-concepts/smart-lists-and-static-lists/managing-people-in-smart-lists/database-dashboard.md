@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097447
-description: Databasedashboard - Marketo Docs - Productdocumentatie
+description: Meer informatie over het databasedashboard in Marketo. Bekijk in één oogopslag de belangrijkste meetgegevens voor uw database en de personen.
 title: Databasedashboard
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ De grafieken geven het totale aantal personen, het aantal verhandelbare personen
 
 >[!TIP]
 >
->Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer het Rapport van de Prestaties van a [&#x200B; Mensen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer het Rapport van de Prestaties van a [ Mensen ](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Totale Mensen:** het aantal mensen in alle tijd voor de vermelde werkruimte.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: Personen in uw gebeurtenis inchecken via uw tablet - Marketo Docs - Productdocumentatie
+description: Leer hoe u mensen kunt inchecken voor uw gebeurtenis vanaf een tablet. Gebruik de app Gebeurteniscontrole om deelnemers te scannen en in te checken.
 title: Personen in uw gebeurtenis controleren via uw tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '828'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wanneer mensen bij de gebeurtenis verschijnen, kunt u hun informatie in de app v
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [Meer info](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 De app werkt hetzelfde voor zowel [!DNL iPad] als [!DNL Android] , behalve voor kleine layout- en ontwerpverschillen.
 

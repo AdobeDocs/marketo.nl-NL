@@ -1,12 +1,12 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Marketo Docs - Productdocumentatie
+description: Eenvoudige sjabloon van het programma Nurture. Gebruik dit voor basiscampagnes voor het voeden van planten met een duidelijke naamgevingsconventie.
 title: NUR-YYYY-MM-Simple Nurture
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 2%
+source-wordcount: '356'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Dit is een voorbeeld van eenvoudige programma&#39;s van de Verloop, die het Programma van de Aansluiting van Marketo Engage gebruiken, met inhoud met een kadaast aan druppel in tijd aan uw gegevensbestand terwijl het gebruiken van stromen om verslagen door reizen te leiden die op gedrag worden gebaseerd.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7503971
-description: Een presentatie maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een presentatie van de marketingkalender maakt om weergaven te projecteren op een HDTV. Stel werkruimtespecifieke presentaties voor uw team in.
 title: Een presentatie maken
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '94'
 ht-degree: 1%
 
 ---
@@ -40,4 +40,4 @@ Maak een presentatie om de kalenderweergaven en -doelen van uw team te projecter
 
 >[!MORELIKETHIS]
 >
->[&#x200B; pas een Presentatie &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md) aan
+>[ pas een Presentatie ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md) aan

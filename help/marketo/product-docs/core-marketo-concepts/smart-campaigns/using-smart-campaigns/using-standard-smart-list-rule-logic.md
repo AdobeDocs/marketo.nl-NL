@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147001
-description: Werken met Standard Smart List Rule Logic - Marketo Docs - Productdocumentatie
+description: Leer hoe te om standaard Slimme de regellogica van de Lijst in een Slimme Campagne te gebruiken. Combineer filters met EN logica voor kwalificatie.
 title: Werken met Standard Smart List Rule Logic
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -42,4 +42,4 @@ Zo, als een persoon de vorm _invult of_ de pagina bezoekt, zal de campagne dan d
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Gebruikend Geavanceerde Slimme Logica van de Regel van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
+>[ Gebruikend Geavanceerde Slimme Logica van de Regel van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

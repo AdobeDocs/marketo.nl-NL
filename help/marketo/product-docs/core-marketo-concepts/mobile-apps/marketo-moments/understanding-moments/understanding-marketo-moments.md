@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781845
-description: Marketo-momenten begrijpen - Marketo-documenten - productdocumentatie
+description: Leer over Marketo Moments om te zien wat belangrijk is wanneer het van belang is. Belangrijke inzichten weergeven en actie ondernemen vanuit de mobiele app.
 title: Marketo-momenten begrijpen
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ De kracht van Marketo ligt nu letterlijk in uw handen! Geef een voorbeeld van e-
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Moments App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [Meer info](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 >[!NOTE]
 >
->_de toestemming wordt van de Toegang Mobiele Apps vereist._ Contacteer uw Admin van Marketo om [&#x200B; uw rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) bij te werken.
+>_de toestemming wordt van de Toegang Mobiele Apps vereist._ Contacteer uw Admin van Marketo om [ uw rol ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) bij te werken.
 
 ## Streams {#streams}
 
@@ -149,7 +149,7 @@ Klaar om meer te leren?
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend de Kaarten van het E-mailProgramma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [&#x200B; Begrijpend de Kaarten van de Gebeurtenis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [&#x200B; Begrijpend de Kaarten van Analytics &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [&#x200B; Begrijpend Slimme Kaarten van de Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [ Begrijpend de Kaarten van het E-mailProgramma ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [ Begrijpend de Kaarten van de Gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [ Begrijpend de Kaarten van Analytics ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [ Begrijpend Slimme Kaarten van de Campagne ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

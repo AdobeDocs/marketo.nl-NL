@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360047
-description: Een programmarapport filteren op programma - Marketo Docs - Productdocumentatie
+description: Leer hoe u een programmarapport filtert op programma. Focus uw rapport op specifieke programma's.
 title: Een programmarapport filteren op programma
 exl-id: 8be2ac9e-7331-4a0d-80d6-ea2e82215919
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # Een programmarapport filteren op programma {#filter-a-program-report-by-program}
 
-Focus uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} op specifieke programma&#39;s om hun prestaties te vergelijken.
+Focus uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} op specifieke programma&#39;s om hun prestaties te vergelijken.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ).
 
@@ -41,4 +41,4 @@ Focus uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/pr
 
 >[!NOTE]
 >
->[&#x200B; filter een Rapport van het Programma door Markering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[ filter een Rapport van het Programma door Markering ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

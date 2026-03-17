@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504128
-description: Een slim lijstdoel maken - Marketo Docs - Productdocumentatie
+description: Leer hoe te om een slim doel van de Lijst in de Kalender van de Marketing tot stand te brengen. Houd de voortgang bij met doelen die automatisch om de twee uur worden bijgewerkt in presentaties.
 title: Een slim lijstdoel maken
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Ze kunnen worden gecombineerd met slimme lijsten om allerlei dingen in Marketo bij te houden. Bovendien wordt deze lijst na het instellen van een slim lijstdoel elke twee uur automatisch bijgewerkt wanneer deze wordt gebruikt in een presentatie.
 
-Als presentaties, zijn de doelstellingen [&#x200B; - specifiek &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
+Als presentaties, zijn de doelstellingen [ - specifiek ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
 
 1. Ga naar de **[!UICONTROL Calendar]** .
 
@@ -37,7 +37,7 @@ Als presentaties, zijn de doelstellingen [&#x200B; - specifiek &#x200B;](/help/m
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [&#x200B; bepaal de slimme lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). De mogelijkheden zijn eindeloos!
+1. [ bepaal de slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). De mogelijkheden zijn eindeloos!
 
    ![](assets/mql.png)
 

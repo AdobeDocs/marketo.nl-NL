@@ -1,11 +1,11 @@
 ---
-description: CT-YYYY-MM-Content on Marketo Landing Page - Marketo Docs - Productdocumentatie
+description: Inhoud in de sjabloon van het Marketo-programma Landing Page. Gebruik deze optie voor inhoud die wordt gehost op Marketo-bestemmingspagina's.
 title: CT-YYYY-MM-Content op Marketo Landing Page
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Dit voorbeeld is ontworpen als een inhoudsprogramma dat gebruikmaakt van een Marketo Engage Landing Page met een Marketo Engage-formulier dat gebruikmaakt van een standaard Marketo Engage-programma. Het formulier moet toegang krijgen tot de inhoud/het aanbod. De koppeling naar het aanbod kan worden weergegeven op de pagina Hartelijk dank, in een e-mail met dank of in beide.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

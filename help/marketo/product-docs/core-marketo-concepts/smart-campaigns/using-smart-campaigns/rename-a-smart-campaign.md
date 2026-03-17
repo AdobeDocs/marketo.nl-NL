@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147049
-description: De naam van een slimme campagne wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de naam van een slimme campagne kunt wijzigen. Wijzig de naam van de campagne in de instellingen voor de campagne of klik met de rechtermuisknop op het menu.
 title: De naam van een slimme campagne wijzigen
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

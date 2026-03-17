@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147239
-description: Programmastatuskolommen toevoegen aan een programmarapport - Marketo Docs - Productdocumentatie
+description: Leer hoe u programmastatuskolommen aan een programmarapport kunt toevoegen. Neem de lidstatus op in uw rapportkolommen.
 title: De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 # De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen {#add-program-status-columns-to-a-program-report}
 
-Voeg stats over programmastatus aan uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} toe.
+Voeg stats over programmastatus aan uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} toe.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ).
 
@@ -45,8 +45,8 @@ Voeg stats over programmastatus aan uw [&#x200B; rapport van de programmaprestat
 
 >[!NOTE]
 >
->Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [&#x200B; de kolommen hebt geselecteerd om &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} in het rapport te tonen.
+>Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [ de kolommen hebt geselecteerd om ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} in het rapport te tonen.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; filter een Rapport van het Programma door Markering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[ filter een Rapport van het Programma door Markering ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

@@ -1,18 +1,18 @@
 ---
-description: Flow Step Service - Marketo Docs - Productdocumentatie
+description: Leer over de Dienst van de Stap van de Stroom voor douanestroom stappen. Slimme campagnes uitbreiden met aangepaste acties via API.
 title: Stroom Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
 
 # Stroom Step Service {#flow-step-service}
 
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie bij het schrijven van en het publiceren van uw eigen dienst, gelieve te verwijzen naar de [[!DNL GitHub]  bewaarplaats voor de Interface van Service Provider &#x200B;](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Een proef-van-Concept implementatie van de Lijst van de Opzoeklijst kan [&#x200B; hier &#x200B;](https://github.com/adobe/mkto-flow-lookup){target="_blank"} worden gevonden.
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie bij het schrijven van en het publiceren van uw eigen dienst, gelieve te verwijzen naar de [[!DNL GitHub]  bewaarplaats voor de Interface van Service Provider ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Een proef-van-Concept implementatie van de Lijst van de Opzoeklijst kan [ hier ](https://github.com/adobe/mkto-flow-lookup){target="_blank"} worden gevonden.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 
@@ -28,7 +28,7 @@ Klik op **[!UICONTROL Next]** om naar de sectie Servicereferenties invoeren te g
 
 ## Voer servicekredieten in {#enter-service-credentials}
 
-Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API Sleutel** die slechts één inputgebied heeft, **BasisAuthentificatie** die een gebruikersbenaming en wachtwoord vereist en ook een gebied genoemd Realm, en **OAuth2** gebruikend de _Toestemming van de Cliënt_ toelage vereist, die identiteitskaart van a _Cliënt 9&rbrace; en en en en vereist_ Geheim van de Cliënt _._
+Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API Sleutel** die slechts één inputgebied heeft, **BasisAuthentificatie** die een gebruikersbenaming en wachtwoord vereist en ook een gebied genoemd Realm, en **OAuth2** gebruikend de _Toestemming van de Cliënt_ toelage vereist, die identiteitskaart van a _Cliënt 9} en en en en vereist_ Geheim van de Cliënt _._
 
 Wanneer u uw geloofsbrieven bewaart, zal Marketo proberen om het statuseindpunt van de dienst te roepen om te verifiëren dat zij geldig zijn. Als de opgegeven referenties ongeldig zijn, wordt een fout weergegeven die dit aangeeft.
 

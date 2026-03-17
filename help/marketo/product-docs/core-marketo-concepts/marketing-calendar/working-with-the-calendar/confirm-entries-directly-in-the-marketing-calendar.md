@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953362
-description: Vermeldingen rechtstreeks bevestigen in de marketingkalender - Marketo Docs - Productdocumentatie
+description: Leer hoe u voorlopige Smart Campagne en e-mailprogrammavermeldingen in de Marketingkalender kunt bevestigen. Voer validatie uit en bevestig zo dat campagnes worden uitgevoerd.
 title: Vermeldingen rechtstreeks bevestigen in de marketingkalender
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557154
-description: Een slimme lijst maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een slimme lijst maakt in Marketo. Voeg een Slimme Lijst in het Gegevensbestand of binnen een programma toe en bepaal filters.
 title: Een slimme lijst maken
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---
@@ -39,4 +39,4 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; vind en voeg Filters aan een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
+   >[ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe

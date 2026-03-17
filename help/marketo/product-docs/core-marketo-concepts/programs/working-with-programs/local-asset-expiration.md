@@ -1,11 +1,11 @@
 ---
-description: Verlopen lokale middelen - Marketo-documenten - productdocumentatie
+description: Meer informatie over het verlopen van lokale middelen in programma's. Instellen wanneer lokale elementen in een programma verlopen en worden verwijderd.
 title: Vervaldatum van lokale middelen
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---

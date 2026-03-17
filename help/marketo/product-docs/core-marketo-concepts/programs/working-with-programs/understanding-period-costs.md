@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504676
-description: Begrijpingsperiode kosten - Marketo-documenten - productdocumentatie
+description: Lees meer over de tijdskosten in programma's voor het bijhouden van uitgaven. Kosten toewijzen aan programmaperioden voor rapportage en investeringsrendement.
 title: Kosten voor tijdrekening
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Periode-kosten hebben betrekking op het geld dat u in een bepaalde maand aan een
 
 >[!NOTE]
 >
->[&#x200B; Begrijpend Programma&#39;s &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
+>[ Begrijpend Programma&#39;s ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[&#x200B; Begrijpend het Lidmaatschap van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[ Begrijpend het Lidmaatschap van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Hoe de kosten van de periode worden berekend {#how-period-costs-are-calculated}
 
@@ -65,5 +65,5 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Gebruikend de Kosten van de Periode in een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [&#x200B; filter een Rapport van het Programma door Periode Kosten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >* [ Gebruikend de Kosten van de Periode in een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [ filter een Rapport van het Programma door Periode Kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

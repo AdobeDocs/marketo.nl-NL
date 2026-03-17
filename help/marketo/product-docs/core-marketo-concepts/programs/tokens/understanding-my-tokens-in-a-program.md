@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147114
-description: Mijn tokens in een programma begrijpen - Marketo Docs - Productdocumentatie
+description: Meer informatie over Mijn tokens in een programma. Gebruik tokens om inhoud aan te passen met programma- of lidgegevens.
 title: Mijn tokens in een programma begrijpen
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Een token is een variabele die u kunt gebruiken in e-mails, Landing Pages en Slimme campagnes om uw leven eenvoudiger te maken.
 
-Naast Mijn tokens kunt u ook alle ingebouwde tokens in uw programma&#39;s gebruiken. Controle uit het [&#x200B; Overzicht van Tokens &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+Naast Mijn tokens kunt u ook alle ingebouwde tokens in uw programma&#39;s gebruiken. Controle uit het [ Overzicht van Tokens ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Mijn tokens  {#my-tokens}
 
-Mijn tokens zijn aangepaste variabelen die iedereen kan maken. Lokaal, worden zij [&#x200B; gecreeerd &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in of campagnemappen of programma&#39;s.
+Mijn tokens zijn aangepaste variabelen die iedereen kan maken. Lokaal, worden zij [ gecreeerd ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} in of campagnemappen of programma&#39;s.
 
 Mijn tokens worden als volgt weergegeven: `{{my.Name Of Token}}`
 
@@ -46,7 +46,7 @@ Voorbeelden:
   </tr>
   <tr>
    <td>E-mailscript <img alt="—" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td>
+   <td>Gebruik deze token om een snelheidsscript in uw e-mails uit te voeren. Leer meer <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Koppeling volgen" rel="nofollow"> hier </a>. </td>
   </tr>
   <tr>
    <td>Number <span> <img alt="—" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
@@ -89,7 +89,7 @@ Het verplaatsen van programma&#39;s en omslagen beïnvloedt ook tokens. Controle
 
 >[!IMPORTANT]
 >
->Geneste tokens worden niet gesteund in [&#x200B; Campagnes van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
+>Geneste tokens worden niet gesteund in [ Campagnes van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
@@ -97,5 +97,5 @@ Het verplaatsen van programma&#39;s en omslagen beïnvloedt ook tokens. Controle
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Tokens Overzicht &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
->* [&#x200B; het leiden Mijn Tokens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}
+>* [ Tokens Overzicht ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+>* [ het leiden Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}

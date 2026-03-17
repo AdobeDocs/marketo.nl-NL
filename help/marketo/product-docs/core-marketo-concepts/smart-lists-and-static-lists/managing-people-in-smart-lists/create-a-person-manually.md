@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147316
-description: Handmatig een persoon maken - Marketo Docs - Productdocumentatie
+description: Leer hoe te om een persoon manueel in het Gegevensbestand tot stand te brengen. Voeg een nieuwe lead of contactpersoon toe met e-mail- en veldwaarden.
 title: Handmatig een persoon maken
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---

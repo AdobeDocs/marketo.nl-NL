@@ -1,10 +1,10 @@
 ---
-description: Overzicht van de betrokkenheidskaart - Marketo Docs - Productdocumentatie
+description: Leer over de kaart van de Betrokkenheid voor het visualiseren van uw Slimme Campagnes. Gebruik deze optie om triggers, filters en stroomstappen intuïtief weer te geven in Marketo.
 title: Overzicht van de betrokkenheidskaart
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Navigeer aan om het even welke bestaande campagne en klik de **knoop van de Kaar
 
 ![](assets/engagement-map-overview-2.png)
 
-In de Kaart van de Betrokkenheid, zijn er twee lusjes: [&#x200B; de Kaart van de Betrokkenheid &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} en [&#x200B; Montages &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In de Kaart van de Betrokkenheid, zijn er twee lusjes: [ de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} en [ Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -99,5 +99,5 @@ Er zijn drie belangrijke dingen die de Kaart van de Betrokkenheid verdelen:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; het Lusje van de Kaart van de Betrokkenheid &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
->* [&#x200B; het Lusje van Montages &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}
+>* [ het Lusje van de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [ het Lusje van Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

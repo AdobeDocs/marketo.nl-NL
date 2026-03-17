@@ -1,11 +1,11 @@
 ---
-description: OP-Data Management - Marketo Docs - Productdocumentatie
+description: Sjabloon operationeel gegevensbeheer. Gebruik dit programma om uw database schoon en bijgewerkt te houden.
 title: OP-gegevensbeheer
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Dit is een voorbeeld van eenvoudige werkschema&#39;s voor best practices voor operationeel gegevensbeheer met een standaardprogramma, die u helpen bij het beheer van gegevensconsistentie voor records in uw Marketo Engage-database.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

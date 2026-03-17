@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7516639
-description: Gebruikers toegang geven tot de check-in-app - Marketo Docs - Productdocumentatie
+description: Leer hoe u gebruikers toegang biedt tot de app voor gebeurteniscontrole. Wijs de rol voor het inchecken van mobiele gebeurtenissen toe zodat ze deelnemers kunnen inchecken.
 title: Gebruikers toegang verlenen tot de Check-in-app
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Marketo Engage heeft een speciale gebruikersrol voor de app voor het inchecken v
 
 >[!IMPORTANT]
 >
->Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [&#x200B; leer meer &#x200B;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Op 2 oktober 2023 heeft Adobe de Marketo Events App uit alle App Stores verwijderd. Als de app al op uw tablet/mobiel apparaat is geïnstalleerd, kunt u deze voorlopig blijven gebruiken. Zodra uw Marketo Engage-exemplaar is gemigreerd naar Adobe Identity voor verificatie van Marketo, hebt u geen toegang meer tot de app. [Meer info](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Nieuwe gebruikersrol maken voor mobiele apparaten {#create-a-new-user-role-for-mobile}
 

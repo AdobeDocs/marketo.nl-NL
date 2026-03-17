@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147152
-description: Element klonen in een programma - Marketo Docs - Productdocumentatie
+description: Leer hoe u middelen binnen een programma kunt klonen. Maak een kopie van een e-mail, bestemmingspagina of ander lokaal element.
 title: Element klonen in een programma
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Het klonen van een programmaklonen _alles_. Soms wilt u maar één element klone
 
 >[!NOTE]
 >
->U zult extra stappen moeten uitvoeren om [&#x200B; een het landen groep van de paginatest &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"} te klonen.
+>U zult extra stappen moeten uitvoeren om [ een het landen groep van de paginatest ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"} te klonen.
 
 ## Lokaal element klonen {#clone-a-local-asset}
 
@@ -47,4 +47,4 @@ Het klonen van een programmaklonen _alles_. Soms wilt u maar één element klone
 
    >[!NOTE]
    >
-   >[&#x200B; Kloon een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md){target="_blank"}
+   >[ Kloon een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md){target="_blank"}

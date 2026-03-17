@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147237
-description: Een programmarapport filteren op kosten van periode - Marketo Docs - Productdocumentatie
+description: Leer hoe u een programmarapport filtert op kosten van de periode. Bekijk de prestaties van het programma voor specifieke kostenperioden.
 title: Een programmarapport filteren op kosten van periode
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # Een programmarapport filteren op kosten van periode {#filter-a-program-report-by-period-cost}
 
-Focus uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} op een specifieke periode kostentimeframe.
+Focus uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} op een specifieke periode kostentimeframe.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ).
 
@@ -37,4 +37,4 @@ Focus uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/pr
 
 >[!NOTE]
 >
->[&#x200B; filter een Rapport van het Programma door Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md){target="_blank"}
+>[ filter een Rapport van het Programma door Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-program.md){target="_blank"}

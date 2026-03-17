@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147064
-description: Communicatielimieten toepassen op slimme campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u communicatielimieten kunt toepassen op een slimme campagne. Geef aan hoeveel e-mails of keren mensen de campagne kunnen doorlopen.
 title: Communicatielimieten toepassen op slimme campagne
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; laat Communicatie Limieten &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} toe
+>[ laat Communicatie Limieten ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} toe
 
 Het is geen goed idee om iemand meerdere keren per dag of te vaak per week per e-mail te versturen. Gelukkig heeft Marketo Engage communicatielimieten om te helpen.
 
@@ -37,6 +37,6 @@ Het is geen goed idee om iemand meerdere keren per dag of te vaak per week per e
 
 >[!TIP]
 >
->Om dit het gebrek te maken, geef uw [&#x200B; communicatie grenzen &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de Admin sectie uit.
+>Om dit het gebrek te maken, geef uw [ communicatie grenzen ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} in de Admin sectie uit.
 
 U kunt er nu zeker van zijn dat u niet per ongeluk te veel e-mails naar uw publiek stuurt.

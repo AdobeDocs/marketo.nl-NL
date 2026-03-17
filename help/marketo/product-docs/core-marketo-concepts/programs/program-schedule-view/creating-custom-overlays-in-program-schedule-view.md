@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147251
-description: Aangepaste overlays maken in de overzichtsweergave van het programma - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste overlays maakt in de programmaweergave. Voeg bedekkingsrijen toe om extra gegevens op het programma te tonen.
 title: Aangepaste overlays maken in de programmaweergave van het programma
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ U kunt aangepaste overlays maken om items weer te geven die relevant zijn voor u
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. U kunt ook filtreren door [&#x200B; programmalabels &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. U kunt ook filtreren door [ programmalabels ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

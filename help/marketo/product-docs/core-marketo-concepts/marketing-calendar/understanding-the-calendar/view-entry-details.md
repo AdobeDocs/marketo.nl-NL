@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953325
-description: Invoergegevens weergeven - Marketo-documenten - Productdocumentatie
+description: Leer hoe u de invoergegevens in de marketingkalender kunt weergeven. Selecteer een item om de informatie weer te geven en klik met de rechtermuisknop om te navigeren of editors te openen.
 title: Details van item weergeven
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

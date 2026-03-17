@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147055
-description: Campagne-acties - Een slimme campagne verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een slimme campagne kunt verwijderen. Verwijder een campagne die u niet meer nodig hebt uit marketingactiviteiten.
 title: Campagnehandelingen - Een slimme campagne verwijderen
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Als u een oude Slimme Campagne hebt die u niet meer nodig hebt, kunt u het schra
 
    >[!TIP]
    >
-   >Om verwerking van een actieve Slimme Campagne te annuleren zonder het volledig te schrappen, leer hoe te [&#x200B; een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) afbreken.
+   >Om verwerking van een actieve Slimme Campagne te annuleren zonder het volledig te schrappen, leer hoe te [ een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) afbreken.
 
 1. Klik op **[!UICONTROL Delete]** om te bevestigen.
 

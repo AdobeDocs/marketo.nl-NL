@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147007
-description: Program Status wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de status van een programma wijzigt in een flowstap. Stel de status van een lid in op Voltooid of op een andere status wanneer deze de stroom invoeren.
 title: Programmastatus wijzigen
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # Programmastatus wijzigen {#change-program-status}
 
-Met de status van het programma kunt u bijhouden hoe een programma of gebeurtenis wordt uitgevoerd. Vind meer informatie in [&#x200B; aanpassen, creeer, en beheer Kanalen &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Met de status van het programma kunt u bijhouden hoe een programma of gebeurtenis wordt uitgevoerd. Vind meer informatie in [ aanpassen, creeer, en beheer Kanalen ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >

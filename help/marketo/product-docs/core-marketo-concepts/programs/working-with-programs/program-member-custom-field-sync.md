@@ -1,11 +1,11 @@
 ---
-description: Aangepaste veldsynchronisatie voor programmalid - Marketo Docs - Productdocumentatie
+description: Meer informatie over aangepaste veldsync met Salesforce voor programmaleden. Gegevens van aangepaste leden synchroon houden met uw CRM.
 title: Aangepaste veldsynchronisatie voor programmalid
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Creatie van [&#x200B; Gebieden van de Douane van het Lid van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [&#x200B; Synchronisatie a  [!DNL Salesforce]  Campagne met een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* Creatie van [ Gebieden van de Douane van het Lid van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* [ Synchronisatie a  [!DNL Salesforce]  Campagne met een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -158,6 +158,6 @@ Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algem
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Gegevens van het Lid van het Programma van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
->* [&#x200B; gegevens van de Mening over het net van het Lid van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [&#x200B; de Synchronisatie van SFDC - de Synchronisatie van de Campagne &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [ Gegevens van het Lid van het Programma van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
+>* [ gegevens van de Mening over het net van het Lid van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
+>* [ de Synchronisatie van SFDC - de Synchronisatie van de Campagne ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

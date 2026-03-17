@@ -1,11 +1,11 @@
 ---
-description: Modellen en inzichten - Marketo Docs - Productdocumentatie
+description: Meer informatie over voorspellende doelgroepen en factoren. Met AI-inzichten kunt u de doelgerichtheid instellen en de prestaties van de campagne verbeteren.
 title: Modellen en inzichten
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Hier is hoe je de gezondheid van je model kunt beoordelen.
 
 Navigeer naar de sectie **[!UICONTROL Models and Data Health]** onder **[!UICONTROL Predictive Audiences]** in het gebied **[!UICONTROL Admin]** van Marketo Engage. Hier zie je al je modellen en hun status.
 
-![&#x200B; Beeld Één &#x200B;](assets/models-and-insights-1.png)
+![ Beeld Één ](assets/models-and-insights-1.png)
 
-* **de Status van de Opleiding**: Wijst erop of uw model actief opleiding (het verbeteren van voorspellingen) is. De training vindt automatisch elke twee weken plaats. Om het even welke modellen die _Verwerking_ zijn zouden tot 24 uren kunnen vergen om te beëindigen. Voor om het even welke _Ontbroken_ modellen, gelieve [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} te contacteren.
+* **de Status van de Opleiding**: Wijst erop of uw model actief opleiding (het verbeteren van voorspellingen) is. De training vindt automatisch elke twee weken plaats. Om het even welke modellen die _Verwerking_ zijn zouden tot 24 uren kunnen vergen om te beëindigen. Voor om het even welke _Ontbroken_ modellen, gelieve [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} te contacteren.
 * **het Scoreren Status**: Wijst erop of uw model actief voorspellingen (waarschijnlijkheidspercentages) voor programmaleden berekent.
 * **Prestaties**: Categorisatie van de gezondheid van uw model die op de Voltooiing van Gegevens en Kwaliteit van Gegevens wordt gebaseerd (zie hieronder).
 * **Voltooiing van Gegevens**: Percentage gegevensattributen die aanwezig/volledig zijn.

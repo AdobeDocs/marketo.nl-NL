@@ -1,11 +1,11 @@
 ---
-description: Prioriteit overschrijven voor triggercampagnes - Marketo Docs - Productdocumentatie
+description: Meer informatie over prioriteitsoverschrijvingen voor triggercampagnes. Bepaal welke campagne wordt uitgevoerd wanneer meerdere vuur activeren voor dezelfde persoon.
 title: Prioriteit overschrijven voor triggercampagnes
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Beheerders kunnen de door Marketo Engage bepaalde prioriteit voor triggercampagn
 
 >[!NOTE]
 >
->Deze eigenschap is slechts beschikbaar voor de Campagnes van de Trekker en aan gebruikers die [&#x200B; &quot;de Prioriteit van de Campagne van de Trekker&quot;toestemming &#x200B;](#grant-priority-override-access) hebben verleend uitgeven.
+>Deze eigenschap is slechts beschikbaar voor de Campagnes van de Trekker en aan gebruikers die [ &quot;de Prioriteit van de Campagne van de Trekker&quot;toestemming ](#grant-priority-override-access) hebben verleend uitgeven.
 
 >[!CAUTION]
 >
@@ -58,4 +58,4 @@ Beheerders kunnen de door Marketo Engage bepaalde prioriteit voor triggercampagn
 >
 >* U kunt de standaardprioriteit van uw campagne bekijken in [!UICONTROL Campaign Queue] onder [!UICONTROL Marketing Activities]. Om het uitvoeringspercentage te verhogen, raden we u aan uw campagneprioriteit op één niveau hoger in te stellen dan het standaardniveau.
 >* De door de gebruiker ingestelde prioriteit geldt alleen voor nieuwe personen die in aanmerking komen voor de campagne. Dit heeft geen invloed op personen die al in de wachtrij staan.
->* Prioritaire met voeten treedt worden gevangen in [&#x200B; Spoor van de Controle &#x200B;](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.
+>* Prioritaire met voeten treedt worden gevangen in [ Spoor van de Controle ](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md){target="_blank"}.

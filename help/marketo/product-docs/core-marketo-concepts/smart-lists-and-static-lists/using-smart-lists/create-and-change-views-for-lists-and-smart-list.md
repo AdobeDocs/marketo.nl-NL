@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: Weergaven voor lijsten en slimme lijsten maken en wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u weergaven voor lijsten en slimme lijsten maakt en wijzigt. Bepaal welke kolommen worden weergegeven op het tabblad Personen.
 title: Weergaven voor lijsten en slimme lijsten maken en wijzigen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -71,5 +71,5 @@ Alleen u kunt de aangepaste weergaven zien die u maakt in de vervolgkeuzelijst W
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
->* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [ Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

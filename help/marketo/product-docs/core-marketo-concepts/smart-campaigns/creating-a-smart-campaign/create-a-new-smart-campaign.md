@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146931
-description: Nieuwe slimme campagne maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een nieuwe slimme campagne maakt. Stel triggers voor een slimme lijst in en voeg stroomstappen toe om handelingen te automatiseren.
 title: Nieuwe slimme campagne maken
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo Engage. Ze kunnen 
 
 >[!TIP]
 >
->Leer meer over [&#x200B; Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
+>Leer meer over [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -39,5 +39,5 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo Engage. Ze kunnen 
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Batch &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [ bepaalt Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [ bepaalt Slimme Lijst voor Slimme Campagne | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

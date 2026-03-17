@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147110
-description: Een programma klonen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een programma en alle bijbehorende middelen kloont. Maak een kopie in een campagnemap of -werkruimte zonder handmatig opnieuw samen te stellen.
 title: Een programma klonen
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Snel en gemakkelijk een volledig programma en al zijn activa klonen in plaats va
 
    >[!NOTE]
    >
-   >De programma&#39;s kunnen in [&#x200B; campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) worden gekloond [&#x200B; omslagen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) of [&#x200B; werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Zorg ervoor dat u alle onderliggende afhankelijke elementen (e-mails, fragmenten, sjablonen voor bestemmingspagina&#39;s, enz.) deelt met de doelwerkruimte voordat u gaat klonen.
+   >De programma&#39;s kunnen in [ campagne ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) worden gekloond [ omslagen ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) of [ werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Zorg ervoor dat u alle onderliggende afhankelijke elementen (e-mails, fragmenten, sjablonen voor bestemmingspagina&#39;s, enz.) deelt met de doelwerkruimte voordat u gaat klonen.
 
    ![](assets/cloneto.png)
 

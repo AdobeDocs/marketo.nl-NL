@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9437991
-description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
+description: Meer informatie over triggers en filters voor mobiele slimme campagnes. Gebruik toepassingsgebeurtenissen en -kenmerken om campagnes te activeren.
 title: Triggers en filters voor mobiele slimme campagnes
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ Mobiele app is/is geopend
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U zult met uw ontwikkelaar aan opstelling het volgen [&#x200B; voor Android &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [&#x200B; voor iOS &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} moeten werken.
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U zult met uw ontwikkelaar aan opstelling het volgen [ voor Android ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} en [ voor iOS ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"} moeten werken.
 
 * Heeft mobiele toepassingsactiviteit - trigger
 
@@ -148,7 +148,7 @@ Zo ziet het filter er in Marketo uit:
 >
 >| Type handeling | Winkelen | Winkelen |
 >|---|---|---|
->| Handeling | Gebleken overhemd | Gekochte broeken |
+>| Actie | Gebleken overhemd | Gekochte broeken |
 >| Details van handeling | Kleur | Kleur |
 >| Metrisch handeling | Prijs | Prijs |
 
@@ -192,5 +192,5 @@ Taps/Tapping Push Notification
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg een Beperking aan een Slimme Filter van de Lijst toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
->* [&#x200B; Filters van de Inactiviteit van het Gebruik in een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}
+>* [ voeg een Beperking aan een Slimme Filter van de Lijst toe ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}
+>* [ Filters van de Inactiviteit van het Gebruik in een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557130
-description: Slimme lijsten begrijpen - Marketo Docs - Productdocumentatie
+description: Meer informatie over slimme lijsten voor het zoeken naar groepen mensen met filters in Marketo. Slimme lijsten maken en gebruiken in campagnes, programma's en rapporten.
 title: Slimme lijsten
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
 
 De belangrijkste stappen voor het maken van een slimme lijst zijn:
 
-1. [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-1. [&#x200B; vind en voeg Filters aan een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
-1. [&#x200B; bepaalt Slimme Filters van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+1. [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+1. [ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} toe
+1. [ bepaalt Slimme Filters van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 Hier is een voorbeeld van hoe een slimme Lijst eruit ziet.
 
 ## Hoofdtabblad {#main-tab}
 
-Hier kunt u [&#x200B; de Slimme naam van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} uitgeven en informatie over de Slimme Lijst zien.
+Hier kunt u [ de Slimme naam van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md){target="_blank"} uitgeven en informatie over de Slimme Lijst zien.
 
 ![](assets/understanding-smart-lists-1.png)
 
 ## Tab Personen {#people-tab}
 
-Dit is waar u uw resultaten ziet; d.w.z., alle mensen die voor de filters kwalificeren u [&#x200B; toevoegde en bepaald &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} onder het Slimme lusje van de Lijst.
+Dit is waar u uw resultaten ziet; d.w.z., alle mensen die voor de filters kwalificeren u [ toevoegde en bepaald ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} onder het Slimme lusje van de Lijst.
 
 ![](assets/understanding-smart-lists-2.png)
 
@@ -48,5 +48,5 @@ Oké, laten we beginnen!
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
->* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [ Ingebouwd van het Gebruik/de Slimme Lijsten van het Systeem ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

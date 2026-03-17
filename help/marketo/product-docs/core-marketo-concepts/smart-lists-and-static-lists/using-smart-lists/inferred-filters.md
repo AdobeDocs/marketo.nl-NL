@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2953188
-description: Overgenomen filters - Marketo Docs - Productdocumentatie
+description: Meer informatie over afgeleide filters in slimme lijsten. Begrijp hoe Marketo filters van gekoppelde elementen afleidt.
 title: Overgenomen filters
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # Overgenomen filters {#inferred-filters}
 
-Wanneer iemand uw website bezoekt, [&#x200B; Munchkin &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} koekjes hen en hen in het systeem zet. We zoeken hun IP op in een speciale database en sturen allerlei informatie uit.
+Wanneer iemand uw website bezoekt, [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} koekjes hen en hen in het systeem zet. We zoeken hun IP op in een speciale database en sturen allerlei informatie uit.
 
 >[!NOTE]
 >
 >Om ervoor te zorgen dat afgeleide veldwaarden actueel blijven, werken wij periodiek het gegevensbestand bij dat voor IP adresraadplegingen wordt gebruikt. Database-updates kunnen nieuwe afgeleide veldwaarden introduceren die u mogelijk moet toevoegen aan de filterdefinities Slimme lijst.
 >
->De updates van het gegevensbestand kunnen tijdens a [&#x200B; Marketo Engage productversie &#x200B;](/help/marketo/release-notes/release-schedule.md){target="_blank"} voorkomen. Wanneer een update voorkomt, zullen de [&#x200B; de versienota&#39;s van Marketo Engage &#x200B;](/help/marketo/release-notes/current.md){target="_blank"} een verklaring van om het even welke veranderingen in afgeleide gebiedswaarden bevatten.
+>De updates van het gegevensbestand kunnen tijdens a [ Marketo Engage productversie ](/help/marketo/release-notes/release-schedule.md){target="_blank"} voorkomen. Wanneer een update voorkomt, zullen de [ de versienota&#39;s van Marketo Engage ](/help/marketo/release-notes/current.md){target="_blank"} een verklaring van om het even welke veranderingen in afgeleide gebiedswaarden bevatten.
 
 ![](assets/inferred-filters-1.png)
 
@@ -46,4 +46,4 @@ Deze anonieme bezoekers worden automatisch geconverteerd naar personen wanneer z
 
 >[!NOTE]
 >
->Leer meer over [&#x200B; anonieme activiteit en leidt &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.
+>Leer meer over [ anonieme activiteit en leidt ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md){target="_blank"}.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949891
-description: Statische lijsten begrijpen - Marketo Docs - Productdocumentatie
+description: Meer informatie over statische lijsten in Marketo voor vaste groepen mensen. Statische lijsten gebruiken wanneer het lidmaatschap handmatig wordt beheerd.
 title: Statische lijsten begrijpen
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,11 @@ Het verschil tussen een Statische en Slimme Lijst is essentieel om te begrijpen.
 
 ## Manieren om Personen toe te voegen/te verwijderen uit een lijst {#ways-to-add-remove-people-from-a-list}
 
-1. De slimme de stroomstap van de Campagne ([&#x200B; voegt aan Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} toe, [&#x200B; verwijdert uit Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. De slimme de stroomstap van de Campagne ([ voegt aan Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} toe, [ verwijdert uit Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [&#x200B; Enige stap van de actiestroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [ Enige stap van de actiestroom ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Personen naar een lijst in de boomstructuur slepen
-1. [&#x200B; de invoer van de Lijst &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+1. [ de invoer van de Lijst ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Bepaalde toepassingen van een statische lijst {#some-uses-of-a-static-list}
 
@@ -48,4 +48,4 @@ Geniet van de kracht van de LIST!
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Statische Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}
+>[ creeer een Statische Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

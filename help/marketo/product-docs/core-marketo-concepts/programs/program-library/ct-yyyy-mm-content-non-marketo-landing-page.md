@@ -1,12 +1,12 @@
 ---
-description: CT-YYYY-MM-Content Non-Marketo Landing Page - Marketo Docs - Productdocumentatie
+description: Sjabloon voor niet-Marketo-bestemmingspagina. Gebruik deze optie voor inhoud op externe bestemmingspagina's.
 title: CT-YYYY-MM-Content Non-Marketo Landing Page
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 1%
+source-wordcount: '401'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Dit is een voorbeeld van een inhoudsprogramma met een Marketo Engage-formulier voor het downloaden van inhoud naar een niet-Marketo Engage Landing Page met behulp van een Marketo Engage-standaardprogramma. Dit programma is bedoeld om te werken met een Marketo Engage-formulier dat is ingesloten op uw website. De koppeling naar het aanbod/de inhoud kan via een e-mail worden verzonden.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

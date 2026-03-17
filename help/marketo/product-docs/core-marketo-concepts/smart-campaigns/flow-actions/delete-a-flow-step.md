@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146987
-description: Een stroomstap verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een flowstap uit een slimme campagne kunt verwijderen. Verwijder acties die u niet meer nodig hebt uit de flow.
 title: Een stroomstap verwijderen
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Laten we eerst de basisbeginselen behandelen. Hier is hoe te om een ongewenste s
    1. **liep nooit**. Breng alle gewenste wijzigingen aan. Het zal niemand beïnvloeden tot je die campagne voert.
    1. **is een terugkomende Slimme Campagne**. De wijzigingen zijn van invloed op mensen in de toekomst, niet op vorige versies.
    1. **reeds liep ZONDER stappen** te wachten.Geen mensen zullen worden beïnvloed omdat de campagne na het runnen slapend is.
-   1. **loopt nu**. Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van het verwijderen. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Voor noodgevallen, leer hoe te [&#x200B; een lopende Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"} afbreken.
+   1. **loopt nu**. Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van het verwijderen. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Voor noodgevallen, leer hoe te [ een lopende Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"} afbreken.
 
    1. **reeds liep MET wachtende stappen.** Verschillende details over deze.
 Wanneer een persoon een wachttijdstap ingaat, sluit de persoon zich aan bij de duur en welke STEP van het GETAL om aan terug te keren. Zie het onderstaande voorbeeld.

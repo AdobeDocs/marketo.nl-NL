@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147142
-description: Een batchslimme campagne maken in de programmaweergave - Marketo Docs - Productdocumentatie
+description: Leer hoe te om een partij Slimme Campagne van de Mening van het Programma tot stand te brengen. Voeg en vorm een ingang van de partijcampagne toe.
 title: Het creëren van een Partij Slimme Campagne in de Mening van het Programma
 exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 # Het creëren van een Partij Slimme Campagne in de Mening van het Programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-U kunt nieuwe Slimme Campagnes tot stand brengen en [&#x200B; reun bestaande degenen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} binnen uw programma van de mening van het programmaprogramma.
+U kunt nieuwe Slimme Campagnes tot stand brengen en [ reun bestaande degenen ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} binnen uw programma van de mening van het programmaprogramma.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ U kunt nieuwe Slimme Campagnes tot stand brengen en [&#x200B; reun bestaande deg
 
    ![](assets/four.png)
 
-1. Kies uw [&#x200B; Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} regels.
+1. Kies uw [ Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} regels.
 
    ![](assets/changeprogramstatus-hands.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147294
-description: Filteren van de marketingkalender - Marketo Docs - Productdocumentatie
+description: Leer hoe u de marketingkalender kunt filteren op het type item, de programmalabels of de werkruimte. Hiermee bepaalt u welke geplande elementen worden weergegeven.
 title: De marketingkalender filteren
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -47,4 +47,4 @@ Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren di
 
    >[!NOTE]
    >
-   >[&#x200B; het Opslaan van een Definitie van de Filter in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
+   >[ het Opslaan van een Definitie van de Filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}

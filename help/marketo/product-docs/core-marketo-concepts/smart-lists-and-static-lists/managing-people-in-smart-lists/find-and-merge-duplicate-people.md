@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557339
-description: Dubbele personen zoeken en samenvoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u dubbele personen kunt zoeken en samenvoegen. Combineer dubbele records in één record en schoonmaak uw database.
 title: Dubbele personen zoeken en samenvoegen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage dedupliceert automatisch wanneer nieuwe personen het systeem betr
 
 >[!PREREQUISITES]
 >
->Het vinden van en het samenvoegen van duplicaten impliceert het gebruik van [&#x200B; ingebouwde/systeem Slimme Lijsten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>Het vinden van en het samenvoegen van duplicaten impliceert het gebruik van [ ingebouwde/systeem Slimme Lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Marketo Engage dedupliceert automatisch wanneer nieuwe personen het systeem betr
 
    >[!NOTE]
    >
-   >U kunt ook [&#x200B; Dubbele Mensen met de Logica van de Douane &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"} vinden.
+   >U kunt ook [ Dubbele Mensen met de Logica van de Douane ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"} vinden.
 
 ## Personen handmatig samenvoegen {#merge-people-manually}
 
@@ -82,8 +82,8 @@ Als je Salesforce integreert, zijn er een paar opmerkingen over het effect van h
 
 Voor details van Salesforce-gedrag bij het samenvoegen van leads of contactpersonen raadpleegt u de volgende [!DNL Salesforce] -documenten:
 
-* [&#x200B; het samenvoegen dubbele Leidingen &#x200B;](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
-* [&#x200B; het samenvoegen van Dubbele Contacten &#x200B;](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
+* [ het samenvoegen dubbele Leidingen ](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [ het samenvoegen van Dubbele Contacten ](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Bulksamenvoeging {#bulk-merging}
 

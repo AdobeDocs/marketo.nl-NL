@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147118
-description: Periode-kosten gebruiken in een programma - Marketo Docs - Productdocumentatie
+description: Leer hoe u de kosten van een periode in een programma kunt gebruiken. Voeg kosten toe aan programmaperiodes voor het melden van investeringsrendement.
 title: Periode-kosten in een programma gebruiken
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
 
 # Periode-kosten in een programma gebruiken {#using-period-costs-in-a-program}
 
-A [&#x200B; periode kosten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} is het bedrag u aan een programma uitgeeft. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
+A [ periode kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} is het bedrag u aan een programma uitgeeft. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
 
 ## Kosten voor een periode toevoegen  {#add-a-period-cost}
 
@@ -77,5 +77,5 @@ A [&#x200B; periode kosten &#x200B;](/help/marketo/product-docs/core-marketo-con
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrip de Kosten van de Periode &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
->* [&#x200B; filter een Rapport van het Programma door Periode Kosten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>* [ Begrip de Kosten van de Periode ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
+>* [ filter een Rapport van het Programma door Periode Kosten ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

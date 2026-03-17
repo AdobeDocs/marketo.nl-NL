@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147089
-description: Programma's begrijpen - Marketo Docs - Productdocumentatie
+description: Meer informatie over programma's in Marketo voor het organiseren van campagnes en middelen. Gebruik programma's om e-mails, bestemmingspagina's en slimme campagnes te groeperen.
 title: Programma's begrijpen
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,6 @@ Laten we beginnen!
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Programma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
->* [&#x200B; Begrijpend Markeringen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}
->* [&#x200B; Begrijpend het Lidmaatschap van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [ creeer een Programma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
+>* [ Begrijpend Markeringen ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md){target="_blank"}
+>* [ Begrijpend het Lidmaatschap van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

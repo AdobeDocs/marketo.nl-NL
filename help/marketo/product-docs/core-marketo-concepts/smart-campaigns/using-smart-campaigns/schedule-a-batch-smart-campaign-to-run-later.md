@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146970
-description: Een Smart Batch-campagne plannen om later uit te voeren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een batchslimme campagne kunt plannen om later te starten. Stel een datum en tijd in waarop de campagne één keer moet worden uitgevoerd.
 title: Een slimme batchcampagne plannen om later uit te voeren
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Als je een Batch-campagne wilt instellen om op een bepaald moment in de toekomst
 
 >[!TIP]
 >
->U kunt ook [&#x200B; een partij slimme campagne in de mening van het programmaprogramma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} opnieuw plannen.
+>U kunt ook [ een partij slimme campagne in de mening van het programmaprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} opnieuw plannen.
 
 1. Selecteer de slimme batchcampagne die u wilt uitvoeren, ga naar het tabblad **[!UICONTROL Schedule]** en klik op **[!UICONTROL Run Once]** .
 
@@ -41,4 +41,4 @@ Als je een Batch-campagne wilt instellen om op een bepaald moment in de toekomst
 
    >[!NOTE]
    >
-   >[&#x200B; Plan een Terugkomende Campagne van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}
+   >[ Plan een Terugkomende Campagne van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

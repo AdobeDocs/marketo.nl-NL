@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953405
-description: Instellingen voor analysegedrag bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u instellingen voor analysefuncties voor een programma kunt bewerken. Configureer hoe het succes en de inkomsten van het programma worden bijgehouden.
 title: Instellingen van gedrag voor analyse bewerken
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Instellingen van gedrag voor analyse bewerken {#edit-analytics-behavior-settings}
 
-U kunt het [&#x200B; analysegedrag op het admin niveau op kanalen &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} plaatsen, maar u kunt het op het programmaniveau ook uitgeven. Zo gaat het.
+U kunt het [ analysegedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} plaatsen, maar u kunt het op het programmaniveau ook uitgeven. Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

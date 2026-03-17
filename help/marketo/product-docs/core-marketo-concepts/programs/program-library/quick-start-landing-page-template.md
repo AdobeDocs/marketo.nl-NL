@@ -1,11 +1,11 @@
 ---
-description: Sjabloon voor startpagina - Marketo-documenten - productdocumentatie
+description: Sjabloon voor de startpagina. Gebruik dit schema om snel bestemmingspagina's te maken op basis van een sjabloon.
 title: Sjabloon voor startpagina snel starten
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Sommige startprogramma&#39;s in de Marketo Engage Reference Library bevatten een
 
 >[!TIP]
 >
->Leer meer over [&#x200B; Geleide Begeleidende Malplaatjes van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
+>Leer meer over [ Geleide Begeleidende Malplaatjes van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Sectieoverzicht {#sections-summary}
 

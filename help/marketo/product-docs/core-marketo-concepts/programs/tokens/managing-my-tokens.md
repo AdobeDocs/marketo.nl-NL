@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147116
-description: Mijn tokens beheren - Marketo Docs - Productdocumentatie
+description: Leer hoe u Mijn tokens in een programma beheert. Maak en gebruik tokens om de inhoud en e-mails van programma's aan te passen.
 title: Mijn tokens beheren
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '209'
 ht-degree: 1%
 
 ---
 
 # Mijn tokens beheren {#managing-my-tokens}
 
-Het gebruik van tokens kan uw inspanningen in Marketo Engage vereenvoudigen. U kunt [&#x200B; Mijn Tokens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (douanetokens) in stroomstappen, webhooks, e-mail, en het Landing Pagina&#39;s gebruiken. Zo maak je ze.
+Het gebruik van tokens kan uw inspanningen in Marketo Engage vereenvoudigen. U kunt [ Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (douanetokens) in stroomstappen, webhooks, e-mail, en het Landing Pagina&#39;s gebruiken. Zo maak je ze.
 
 >[!TIP]
 >
->Leer meer over welke tekenen reeds beschikbaar in [&#x200B; het Overzicht van Tokens &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} zijn.
+>Leer meer over welke tekenen reeds beschikbaar in [ het Overzicht van Tokens ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} zijn.
 
 ## Een lokaal of globaal My Token maken {#create-a-my-token}
 
@@ -91,6 +91,6 @@ Het gebruik van tokens kan uw inspanningen in Marketo Engage vereenvoudigen. U k
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Tokens Overzicht &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
-   >* [&#x200B; Begrijpend Mijn Tokens in een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
-   >* [&#x200B; Gebruikend URLs in Mijn Tokens &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}
+   >* [ Tokens Overzicht ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
+   >* [ Begrijpend Mijn Tokens in een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
+   >* [ Gebruikend URLs in Mijn Tokens ](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}

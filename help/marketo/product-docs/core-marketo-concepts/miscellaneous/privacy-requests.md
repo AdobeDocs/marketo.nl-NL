@@ -1,10 +1,10 @@
 ---
-description: Privacyverzoeken - Marketo-documenten - productdocumentatie
+description: Leer hoe u in Marketo privacyverzoeken voor toegang en verwijdering beheert. Verzend aanvragen via de gebruikersinterface of API van Privacy Service en verwerkt consumentengegevens.
 title: Privacyverzoeken
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Dit document biedt een overzicht van het beheer van individuele privacyverzoeken
 
 U kunt individuele verzoeken om toegang tot en verwijdering van consumentengegevens vanuit Marketo Engage op twee manieren verzenden:
 
-* Via de gebruikersinterface van Privacy Service: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Zie de documentatie [&#x200B; hier &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=nl-NL){target="_blank"}.
-* Via de Privacy Service API. Zie hier de documentatie [&#x200B; &#x200B;](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} en API informatie [&#x200B; &#x200B;](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Via de gebruikersinterface van Privacy Service: `https://experience.adobe.com/#/@YOURCOMPANYNAME/privacy`. Zie de documentatie [ hier ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html){target="_blank"}.
+* Via de Privacy Service API. Zie hier de documentatie [ ](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} en API informatie [ ](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-[&#x200B; Privacy Service &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL){target="_blank"} steunt twee soorten verzoeken: gegevenstoegang en gegevensschrapping.
+[ Privacy Service ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} steunt twee soorten verzoeken: gegevenstoegang en gegevensschrapping.
 
 Zie hoe u verzoeken van de Toegang en van de Schrapping kunt tot stand brengen.
 
@@ -196,4 +196,4 @@ JSON-reactie
 
 >[!MORELIKETHIS]
 >
->[&#x200B; het Beheer van de Privacy &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md){target="_blank"}
+>[ het Beheer van de Privacy ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md){target="_blank"}

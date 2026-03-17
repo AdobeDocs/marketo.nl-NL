@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146962
-description: Score wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de leadscore wijzigt in een flowstap. Punten toevoegen aan of verwijderen uit een persoonlijke score in de campagne.
 title: Score wijzigen
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Het noteren van mensen is gemakkelijk en krachtig en helpt uw verkoopteam voorra
 
    >[!TIP]
    >
-   >U kunt meerdere scorevelden maken. Zie [&#x200B; een Gebied van de Douane in Marketo &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} voor details creëren.
+   >U kunt meerdere scorevelden maken. Zie [ een Gebied van de Douane in Marketo ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} voor details creëren.
 
 1. Voer de gewenste score in.
 

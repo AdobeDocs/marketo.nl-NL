@@ -1,11 +1,11 @@
 ---
-description: Aan de slag met voorspellende doelgroepen - Marketo Docs - Productdocumentatie
+description: Meer informatie over voorspellende doelgroepen en AI-gestuurde doelgroepen in Marketo. Gebruik waarschijnlijkheidswaarden en voorspellende filters om uw doelstellingen te bereiken.
 title: Aan de slag met voorspellend publiek
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Het voorspellende publiek (PA) gebruikt AI en machine het leren om u toe te late
 PA bevat de volgende functies:
 
 * Waarden voor registratie en zichtbaarheid van elke lead in een gebeurtenisprogramma
-* [&#x200B; Predictieve Filters &#x200B;](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
-* [&#x200B; Modellen en beïnvloedende factoren &#x200B;](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
+* [ Predictieve Filters ](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
+* [ Modellen en beïnvloedende factoren ](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * Op AI/ML gebaseerde inzichten
 * Goal Tracking and Projected Registrations - (Goal Tracking is alleen beschikbaar voor diegenen die de moderne UX-schakeloptie hebben ingeschakeld voor gebeurtenisprogramma&#39;s)
 

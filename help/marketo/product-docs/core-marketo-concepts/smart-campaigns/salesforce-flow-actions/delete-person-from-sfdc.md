@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147031
-description: Persoon verwijderen uit SFDC - Marketo Docs - Productdocumentatie
+description: Leer hoe u een persoon uit Salesforce verwijdert met een flowstap. Verwijder de lood of het contact uit SFDC wanneer zij de stroom ingaan.
 title: Persoon uit SFDC verwijderen
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

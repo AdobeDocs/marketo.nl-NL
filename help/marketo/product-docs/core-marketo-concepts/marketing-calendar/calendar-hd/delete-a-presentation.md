@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504060
-description: Een presentatie verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een presentatie in de marketingkalender verwijdert. Oude presentaties verwijderen om ruimte te maken voor nieuwe presentaties.
 title: Een presentatie verwijderen
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146974
-description: Kwalificatieregels bewerken in een slimme campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u kwalificatieregels kunt bewerken in een slimme campagne. Wijzig het aantal keren dat mensen de campagne kunnen doorlopen.
 title: Kwalificatieregels bewerken in een slimme campagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -33,10 +33,10 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een Slimme 
 
    >[!NOTE]
    >
-   >Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [&#x200B; communicatielimieten op een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.
+   >Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [ communicatielimieten op een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.
 
    >[!NOTE]
    >
-   >[&#x200B; pas Communicatie Limieten op Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toe
+   >[ pas Communicatie Limieten op Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toe
 
 Opdracht voltooid! U weet nu hoe u kwalificatieregels kunt beheren in een slimme campagne.

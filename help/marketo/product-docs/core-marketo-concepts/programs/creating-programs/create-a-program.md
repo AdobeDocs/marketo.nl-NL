@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147095
-description: Een programma maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een programma maakt en middelen toevoegt in Marketo Engage.
 title: Een programma maken
 exl-id: 9767dacb-2b24-4700-ab23-c48998cb0063
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ Programma&#39;s zijn een van de belangrijkste elementen van Marketo. Je zult ze 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend Programma&#39;s &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>[ Begrijpend Programma&#39;s ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
