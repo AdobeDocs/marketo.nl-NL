@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Dit is een voorbeeld van eenvoudige werkschema&#39;s voor best practices voor operationeel gegevensbeheer met een standaardprogramma, die u helpen bij het beheer van gegevensconsistentie voor records in uw Marketo Engage-database.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De Marketo Engage Reference Library bevat verschillende starterprogramma&#39;s die u rechtstreeks in uw Marketo-exemplaar kunt importeren om programma&#39;s te maken die uw team helpen ondersteunen.
 
-De bibliotheek bevat programma&#39;s zoals e-mail, betrokkenheid, gebeurtenis, scoring, leverbaarbaarheid en bedrijfsvoering. Alle programma&#39;s zijn ontwikkeld door het Team van het Product van Adobe en door ons [&#x200B; globale Professionele team van de Diensten &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} in een inspanning gecontroleerd om kwaliteit en doeltreffendheid te maximaliseren.
+De bibliotheek bevat programma&#39;s zoals e-mail, betrokkenheid, gebeurtenis, scoring, leverbaarbaarheid en bedrijfsvoering. Alle programma&#39;s zijn ontwikkeld door het Team van het Product van Adobe en door ons [&#x200B; globale Professionele team van de Diensten &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} in een inspanning gecontroleerd om kwaliteit en doeltreffendheid te maximaliseren.
 
 ## Beschikbare programmavoorbeelden {#available-program-examples}
 

@@ -18,7 +18,7 @@ Sommige startprogramma&#39;s in de Marketo Engage Reference Library bevatten een
 >
 >Leer meer over [&#x200B; Geleide Begeleidende Malplaatjes van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} pagina te bezoeken.
 
 ## Sectieoverzicht {#sections-summary}
 
