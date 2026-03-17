@@ -33,4 +33,4 @@ Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastlegg
 
 >[!MORELIKETHIS]
 >
->[ plaats een Verborgen Waarde van het Gebied van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+>[&#x200B; plaats een Verborgen Waarde van het Gebied van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)

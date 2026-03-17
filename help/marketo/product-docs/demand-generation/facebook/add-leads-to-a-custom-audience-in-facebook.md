@@ -17,8 +17,8 @@ Hebt u al een aangepast publiek in [!DNL Facebook] en wilt u er meer leads aan t
 
 >[!PREREQUISITES]
 >
->* [ creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [ keurt {de termijnen van 1} van het douanepubliek  [!DNL Facebook] binnen uw ](https://www.facebook.com/ads/manage/customaudiences/tos.php) rekening goed.[!DNL Facebook]
+>* [&#x200B; creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [&#x200B; keurt {de termijnen van 1} van het douanepubliek  [!DNL Facebook] binnen uw &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) rekening goed.[!DNL Facebook]
 >
 
 1. Zoek en selecteer de slimme of statische lijst met de leads die u wilt toevoegen.
@@ -50,4 +50,4 @@ Hebt u al een aangepast publiek in [!DNL Facebook] en wilt u er meer leads aan t
 
    >[!NOTE]
    >
-   >[ creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[&#x200B; creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

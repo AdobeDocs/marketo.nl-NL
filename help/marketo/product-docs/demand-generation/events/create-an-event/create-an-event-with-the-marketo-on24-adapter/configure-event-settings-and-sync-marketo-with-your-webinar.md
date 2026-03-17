@@ -53,8 +53,8 @@ Wanneer u opstelling een gebeurtenis die met een ON24 Webinar wordt geassocieerd
    >
    >Als u gebeurtenisinformatie bijwerkt in ON24, moet u **[!UICONTROL Refresh from Webinar Provider]** in het [!UICONTROL Event Actions] menu klikken om de nieuwe gegevens te zien vullen.
 
-Nu kunt u zich op de volgende stap bewegen: [ creërend kindcampagnes en lokale activa ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
+Nu kunt u zich op de volgende stap bewegen: [&#x200B; creërend kindcampagnes en lokale activa &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[ Begrip Marketo On24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[&#x200B; Begrip Marketo On24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

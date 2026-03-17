@@ -37,4 +37,4 @@ Als er een veld is dat u niet meer nodig hebt in het formulier, kunt u het gemak
 
 >[!NOTE]
 >
->Vergeet niet [ goed te keuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.
+>Vergeet niet [&#x200B; goed te keuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.

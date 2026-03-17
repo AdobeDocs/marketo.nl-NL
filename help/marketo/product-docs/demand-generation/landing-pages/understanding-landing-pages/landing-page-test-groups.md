@@ -17,7 +17,7 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 
 >[!PREREQUISITES]
 >
->[ bouwt twee of meer het landen pagina&#39;s ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), bij voorkeur met een vorm.
+>[&#x200B; bouwt twee of meer het landen pagina&#39;s &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), bij voorkeur met een vorm.
 
 1. Klik in de Design Studio op **[!UICONTROL New]** . Selecteer **[!UICONTROL New Test Group]** in het vervolgkeuzemenu.
 

@@ -18,7 +18,7 @@ Bij interactieve webinars wordt Adobe Connect gebruikt als een webinar-provider.
 
 Elke interactieve webinar kan als testwebinar worden gebruikt. De test kan worden uitgevoerd door maximaal 10 gastheren en presentatoren (deelnemers) toe te voegen.
 
-Het werkschema om een testwebinar tot stand te brengen blijft het zelfde als [ creërend om het even welk ander webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) in termen van het Interactieve Programma van de Gebeurtenis Webinar. Aanbevolen wordt de datum die voor levering is gekozen, in de toekomst te bepalen.
+Het werkschema om een testwebinar tot stand te brengen blijft het zelfde als [&#x200B; creërend om het even welk ander webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) in termen van het Interactieve Programma van de Gebeurtenis Webinar. Aanbevolen wordt de datum die voor levering is gekozen, in de toekomst te bepalen.
 
 >[!CAUTION]
 >

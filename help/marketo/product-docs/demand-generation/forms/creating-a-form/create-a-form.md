@@ -17,7 +17,7 @@ Maak en gebruik een formulier op een bestemmingspagina om nieuwe namen te genere
 
 >[!NOTE]
 >
->Leer wat Marketo Engage doet [ uw vormen veilig ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) houden.
+>Leer wat Marketo Engage doet [&#x200B; uw vormen veilig &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) houden.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -41,5 +41,5 @@ Maak en gebruik een formulier op een bestemmingspagina om nieuwe namen te genere
 
 >[!MORELIKETHIS]
 >
->* [ selecteer een Thema van de Vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
->* [ voeg een FieldSet aan een Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) toe
+>* [&#x200B; selecteer een Thema van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [&#x200B; voeg een FieldSet aan een Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) toe

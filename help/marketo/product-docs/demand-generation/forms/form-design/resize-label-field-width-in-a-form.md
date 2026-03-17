@@ -17,7 +17,7 @@ Er zijn twee manieren om zowel de breedte van het veldlabel als de breedte zelf 
 
 ## De breedte slepen en neerzetten {#drag-and-drop-the-width}
 
-1. In de [ vormredacteur ](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecteer het gebied u resize.
+1. In de [&#x200B; vormredacteur &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecteer het gebied u resize.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 

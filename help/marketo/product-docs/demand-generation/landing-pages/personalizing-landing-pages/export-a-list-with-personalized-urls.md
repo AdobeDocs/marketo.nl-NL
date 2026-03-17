@@ -15,10 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ laat Persoonlijke URLs voor Uw Rekening toe ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
->* [ laat Persoonlijke URLs voor een het Bestaan Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toe
+>* [&#x200B; laat Persoonlijke URLs voor Uw Rekening toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [&#x200B; laat Persoonlijke URLs voor een het Bestaan Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toe
 
-1. Selecteer uw lijst of slimme lijst, klik op het tabblad **[!UICONTROL Leads]** om de resultaten op te halen en klik vervolgens op het pictogram van het excel. INLINE zorg ervoor u **[!UICONTROL Marketo Unique Code]** en **[!UICONTROL Marketo Unique Name]** [ zichtbare kolommen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hebt.
+1. Selecteer uw lijst of slimme lijst, klik op het tabblad **[!UICONTROL Leads]** om de resultaten op te halen en klik vervolgens op het pictogram van het excel. INLINE zorg ervoor u **[!UICONTROL Marketo Unique Code]** en **[!UICONTROL Marketo Unique Name]** [&#x200B; zichtbare kolommen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hebt.
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 

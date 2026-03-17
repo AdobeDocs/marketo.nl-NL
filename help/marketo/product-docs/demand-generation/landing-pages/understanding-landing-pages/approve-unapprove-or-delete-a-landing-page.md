@@ -23,7 +23,7 @@ De bestemmingspagina&#39;s zijn in ontwerpwijze tot u hen goedkeurt. Met Goedkeu
 
    >[!TIP]
    >
-   >U hebt de capaciteit om veelvoudige pagina&#39;s in één keer [ goed te keuren indien gewenst.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
+   >U hebt de capaciteit om veelvoudige pagina&#39;s in één keer [&#x200B; goed te keuren indien gewenst.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
 
 U kunt ook met de rechtermuisknop op de landingspagina in de linkernavigatiebalk klikken en **[!UICONTROL Approve]** selecteren.
 
@@ -45,7 +45,7 @@ U kunt ook met de rechtermuisknop op de landingspagina in de linkernavigatiebalk
 
 >[!NOTE]
 >
->Uw niet-goedgekeurde bestemmingspagina wordt niet meer gepubliceerd op het web en genereert geen extra activiteiten. De bezoekers aan niet goedgekeurde het Bestaan Pagina&#39;s en hun Lusjes Facebook zullen de [ Pagina van de Terugval ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) zien.
+>Uw niet-goedgekeurde bestemmingspagina wordt niet meer gepubliceerd op het web en genereert geen extra activiteiten. De bezoekers aan niet goedgekeurde het Bestaan Pagina&#39;s en hun Lusjes Facebook zullen de [&#x200B; Pagina van de Terugval &#x200B;](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) zien.
 
 ## Een bestemmingspagina verwijderen {#delete-a-landing-page}
 

@@ -31,7 +31,7 @@ Met deze integratie kunt u publieksgegevens van statische en slimme lijsten van 
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Open een nieuw lusje in zelfde browser en ga naar [ facebook.com ](https://www.facebook.com/). Meld u aan bij [!DNL Facebook] met het account dat u voor de integratie wilt gebruiken.
+1. Open een nieuw lusje in zelfde browser en ga naar [&#x200B; facebook.com &#x200B;](https://www.facebook.com/). Meld u aan bij [!DNL Facebook] met het account dat u voor de integratie wilt gebruiken.
 
    >[!CAUTION]
    >
@@ -45,7 +45,7 @@ Met deze integratie kunt u publieksgegevens van statische en slimme lijsten van 
 
    >[!NOTE]
    >
-   >U *moet* a [!DNL Facebook] rekening van BedrijfsManager gebruiken opdat uw integratie van het publiek van de Douane werkt. Leren hoe te opstelling een rekening Bedrijfs van de Manager, verwijs naar [[!DNL Facebook]  Hulp ](https://www.facebook.com/business/help/1710077379203657).
+   >U *moet* a [!DNL Facebook] rekening van BedrijfsManager gebruiken opdat uw integratie van het publiek van de Douane werkt. Leren hoe te opstelling een rekening Bedrijfs van de Manager, verwijs naar [[!DNL Facebook]  Hulp &#x200B;](https://www.facebook.com/business/help/1710077379203657).
 
 1. Klik desgevraagd op **[!UICONTROL OK]** om de installatie van de Marketo-app in [!DNL Facebook] te accepteren.
 
@@ -63,10 +63,10 @@ Met deze integratie kunt u publieksgegevens van statische en slimme lijsten van 
 
    >[!CAUTION]
    >
-   >Oh, alvorens u gaat, ben zeker om [ {de Termen van het Soorten van het Soorten publiek van 1}  [!DNL Facebook] binnen uw ](https://www.facebook.com/ads/manage/customaudiences/tos.php) rekening goed te keuren! [!DNL Facebook] Zonder dit te doen, zullen de publieksupdates ontbreken.
+   >Oh, alvorens u gaat, ben zeker om [&#x200B; {de Termen van het Soorten van het Soorten publiek van 1}  [!DNL Facebook] binnen uw &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) rekening goed te keuren! [!DNL Facebook] Zonder dit te doen, zullen de publieksupdates ontbreken.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [&#x200B; creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [ de Lood van de opstelling  [!DNL Facebook] ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [&#x200B; de Lood van de opstelling  [!DNL Facebook] &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

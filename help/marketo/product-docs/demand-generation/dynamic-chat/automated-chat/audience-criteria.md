@@ -16,7 +16,7 @@ Net als in Marketo Engage Smart Lists kunt u met de kenmerken Audience Criteria 
 
 ## Prioriteit {#priority}
 
-De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer dan één kwalificeren. Het is gevestigd wanneer u eerst [ uw Dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} creeert. U kunt de prioriteit voor een bestaand dialoogvenster wijzigen door het dialoogvenster te openen en naar **[!UICONTROL Dialogue Details]** te gaan op het tabblad Audience Criteria.
+De prioriteit bepaalt welke Dialoog een lood ontvangt in het geval zij voor meer dan één kwalificeren. Het is gevestigd wanneer u eerst [&#x200B; uw Dialoog &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} creeert. U kunt de prioriteit voor een bestaand dialoogvenster wijzigen door het dialoogvenster te openen en naar **[!UICONTROL Dialogue Details]** te gaan op het tabblad Audience Criteria.
 
 ![](assets/audience-criteria-1.png)
 
@@ -46,7 +46,7 @@ Er zijn _vele_ kenmerkcombinaties om van te kiezen. In het onderstaande voorbeel
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_wordt standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
+1. _[!UICONTROL Is]_&#x200B;wordt standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
 
    ![](assets/audience-criteria-8.png)
 
@@ -86,9 +86,9 @@ Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw 
 
    >[!NOTE]
    >
-   >Wanneer iemand uw website bezoekt, [ Munchkin ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} koekjes hen en hen in het systeem zet. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
+   >Wanneer iemand uw website bezoekt, [&#x200B; Munchkin &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} koekjes hen en hen in het systeem zet. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
 
-1. _[!UICONTROL Is]_wordt standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
+1. _[!UICONTROL Is]_&#x200B;wordt standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
    ![](assets/audience-criteria-15.png)
 
@@ -141,5 +141,5 @@ De uitsluitingen van het gebruik om uw Dialoog te verzekeren verschijnen _niet_ 
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [ stroom Designer ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [&#x200B; creeer een Dialoog &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [&#x200B; stroom Designer &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

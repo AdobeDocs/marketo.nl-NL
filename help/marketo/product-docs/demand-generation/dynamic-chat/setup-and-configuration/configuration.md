@@ -28,7 +28,7 @@ Er zijn verschillende aanpassingsopties.
 
 Hier definieert u de vormgeving van het chatbot waar je dialoogvensters worden weergegeven, zoals kleuren, lettertypen, plaatsing van de bot widget en de naam/avatar van de chatbot.
 
-De kleur van elke categorie wordt bepaald door a [ hexadecimale kleurenwaarde ](https://color.adobe.com/create/color-wheel){target="_blank"} (b.v., wit = #ffffff, rood = #bf1932, enz.).
+De kleur van elke categorie wordt bepaald door a [&#x200B; hexadecimale kleurenwaarde &#x200B;](https://color.adobe.com/create/color-wheel){target="_blank"} (b.v., wit = #ffffff, rood = #bf1932, enz.).
 
 ![](assets/configuration-3.png)
 
@@ -58,7 +58,7 @@ Selecteer de schuifregelaar om &quot;Poke&quot; in te schakelen. Hiermee wordt d
 
 >[!NOTE]
 >
->Poke is slechts beschikbaar op de eerste [ kaart ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} in het gesprek.
+>Poke is slechts beschikbaar op de eerste [&#x200B; kaart &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} in het gesprek.
 
 Wanneer u klaar bent met het aanbrengen van veranderingen, herinner me om **te klikken sparen**.
 

@@ -15,11 +15,11 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->De modi van de bestemmingspagina worden bepaald door hun sjabloon. [ leer meer ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) over vrije-vorm en geleide het landen paginasjablonen.
+>De modi van de bestemmingspagina worden bepaald door hun sjabloon. [&#x200B; leer meer &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) over vrije-vorm en geleide het landen paginasjablonen.
 
 >[!PREREQUISITES]
 >
->Om een douanemalplaatje te gebruiken, moet u eerst [ een geleide het landen paginamalplaatje ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md) creëren.
+>Om een douanemalplaatje te gebruiken, moet u eerst [&#x200B; een geleide het landen paginamalplaatje &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md) creëren.
 
 ## Een pagina met instructies-landingen maken in een programma {#create-a-guided-landing-page-in-a-program}
 
@@ -45,7 +45,7 @@ Geleide landingspagina&#39;s kunnen worden gemaakt als lokale elementen van een 
 
    >[!NOTE]
    >
-   >De geleide het landen paginasjablonen hebben ![ - ](assets/image2015-5-26-9-3a26-3a51.png) pictogram naast hen. Sjablonen met instructies zijn gestructureerd zodat ze volledig reageren.
+   >De geleide het landen paginasjablonen hebben ![&#x200B; - &#x200B;](assets/image2015-5-26-9-3a26-3a51.png) pictogram naast hen. Sjablonen met instructies zijn gestructureerd zodat ze volledig reageren.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 

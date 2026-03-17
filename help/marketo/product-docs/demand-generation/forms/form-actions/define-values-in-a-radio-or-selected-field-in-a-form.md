@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Zodra u [ een gebiedstype ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt geplaatst om een radioknoop te zijn of type te selecteren, zult u de waarden willen bepalen de gebruiker van kan kiezen. Zo gaat het.
+Zodra u [&#x200B; een gebiedstype &#x200B;](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt geplaatst om een radioknoop te zijn of type te selecteren, zult u de waarden willen bepalen de gebruiker van kan kiezen. Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

@@ -17,7 +17,7 @@ Met een **[!UICONTROL Calendar File]** -token kunt u een agendagebeurtenis (.ics
 
 >[!PREREQUISITES]
 >
->* [ creeer een Dossier van de Gebeurtenis van de Kalender (.ics) ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>* [&#x200B; creeer een Dossier van de Gebeurtenis van de Kalender (.ics) &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. Klik in de bestemmingspagina-editor op **{...}** om een token in te voegen.
 
@@ -43,4 +43,4 @@ Zoet! Alles moet nu goed werken. Zorg ervoor dat u test.
 
 >[!MORELIKETHIS]
 >
->[ omvat een Gebeurtenis van de Kalender (.ics) in e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>[&#x200B; omvat een Gebeurtenis van de Kalender (.ics) in e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)

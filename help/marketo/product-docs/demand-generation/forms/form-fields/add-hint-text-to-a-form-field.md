@@ -13,15 +13,15 @@ ht-degree: 1%
 
 # Hinttekst toevoegen aan een formulierveld {#add-hint-text-to-a-form-field}
 
-Hints en [ instructies ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) hulp mensen invullen vormen. Hieronder wordt beschreven hoe u een tip toevoegt.
+Hints en [&#x200B; instructies &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) hulp mensen invullen vormen. Hieronder wordt beschreven hoe u een tip toevoegt.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->De Hints van de vorm **** is tekst binnen het gebied dat verdwijnt wanneer de bezoeker op het gebied begint te typen.
+>De Hints van de vorm **&#x200B;**&#x200B;is tekst binnen het gebied dat verdwijnt wanneer de bezoeker op het gebied begint te typen.
 >
->De instructies van de vorm **** zijn weinig tooltips die tonen wanneer de bezoeker over het gebied beweegt.
+>De instructies van de vorm **&#x200B;**&#x200B;zijn weinig tooltips die tonen wanneer de bezoeker over het gebied beweegt.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -45,8 +45,8 @@ Hints en [ instructies ](/help/marketo/product-docs/demand-generation/forms/form
 
    >[!NOTE]
    >
-   >Vergeet niet [ goed te keuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.
+   >Vergeet niet [&#x200B; goed te keuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Kijk eens! Laten wij vooruit gaan en sommige [ instructies ](add-tooltip-instructions-to-a-form-field.md) nu toevoegen.
+Kijk eens! Laten wij vooruit gaan en sommige [&#x200B; instructies &#x200B;](add-tooltip-instructions-to-a-form-field.md) nu toevoegen.

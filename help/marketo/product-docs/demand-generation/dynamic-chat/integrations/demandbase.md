@@ -34,11 +34,11 @@ De stappen hieronder moeten _in uw rekening van de Demandbase_ worden gedaan.
 
 1. Gebruikend het _exemplaar_ pictogram, kopieer het Symbolische koord van API bij de bodem van de pagina.
 
-1. Verzend een kaartje met [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) en verstrek het Symbolische Koord van API om de integratie van de Demandbase te activeren.
+1. Verzend een kaartje met [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) en verstrek het Symbolische Koord van API om de integratie van de Demandbase te activeren.
 
 >[!NOTE]
 >
->Voor extra informatie, zie [ de Demandbase van de Opstelling om Gegevens naar een Integratie (de Schakelaar van de Rekening) ](https://support.demandbase.com/hc/en-us/articles/360057169531-Set-Up-Demandbase-to-Send-Data-to-an-Integration-Account-Connector){target="_blank"} in de de hulpplaats van de Demandbase te verzenden.
+>Voor extra informatie, zie [&#x200B; de Demandbase van de Opstelling om Gegevens naar een Integratie (de Schakelaar van de Rekening) &#x200B;](https://support.demandbase.com/hc/en-us/articles/360057169531-Set-Up-Demandbase-to-Send-Data-to-an-Integration-Account-Connector){target="_blank"} in de de hulpplaats van de Demandbase te verzenden.
 
 ## Integratiefuncties {#integration-features}
 

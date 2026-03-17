@@ -31,7 +31,7 @@ Als een bezoeker in het verleden zijn volledige naam en e-mailadres heeft opgege
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klik ![ - ](assets/image2014-9-25-14-3a1-3a26.png) om **[!UICONTROL Custom HTML]** uit te geven dat aan bekende mensen zal worden getoond.
+1. Klik ![&#x200B; - &#x200B;](assets/image2014-9-25-14-3a1-3a26.png) om **[!UICONTROL Custom HTML]** uit te geven dat aan bekende mensen zal worden getoond.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,7 +66,7 @@ Als een bezoeker in het verleden zijn volledige naam en e-mailadres heeft opgege
 
    >[!NOTE]
    >
-   >Herinner me [ goedkeuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
+   >Herinner me [&#x200B; goedkeuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
 
    Stukje cake! Kijk wat een persoon zou zien als hij of zij terugkwam naar de zelfde vorm:
 

@@ -45,7 +45,7 @@ Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juist
 
    >[!NOTE]
    >
-   >Herinner me [ goedkeuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
+   >Herinner me [&#x200B; goedkeuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
 
    Dat is dat! Mensen kunnen zien dat de datum/tijd wordt weergegeven in de juiste landinstelling.
 

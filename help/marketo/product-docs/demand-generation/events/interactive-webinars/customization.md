@@ -141,4 +141,4 @@ Selecteer **toepassen** om de veranderingen te bewaren of **Terugstellen aan geb
 
 * De gastheren kunnen thema&#39;s tijdens ruimteverwezenlijking kiezen of hen bijwerken later van de pagina van de ruimteinformatie (**de hoogste bar van de Zaal** > **Meer menu** > **de ruimteinformatie van de Mening**).
 
-Leer meer over [ Thema&#39;s ](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Leer meer over [&#x200B; Thema&#39;s &#x200B;](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

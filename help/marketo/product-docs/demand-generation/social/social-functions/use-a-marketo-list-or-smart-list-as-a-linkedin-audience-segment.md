@@ -17,7 +17,7 @@ Integreer uw Marketo Engage-mensen met uw LinkedIn-publiek.
 
 >[!PREREQUISITES]
 >
->[ voegt LinkedIn Gelijke Publiek als Dienst LaunchPoint ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"} toe
+>[&#x200B; voegt LinkedIn Gelijke Publiek als Dienst LaunchPoint &#x200B;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"} toe
 
 1. Ga naar de **[!UICONTROL Database]** .
 
@@ -31,7 +31,7 @@ Integreer uw Marketo Engage-mensen met uw LinkedIn-publiek.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Klik _verzenden via Ad Bridge_ pictogram ![ - ](assets/icon-ad-bridge.png) bij de bodem van de lijst.
+1. Klik _verzenden via Ad Bridge_ pictogram ![&#x200B; - &#x200B;](assets/icon-ad-bridge.png) bij de bodem van de lijst.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -63,4 +63,4 @@ Integreer uw Marketo Engage-mensen met uw LinkedIn-publiek.
    >
    >De synchronisatie kan 15 minuten duren.
 
-Hoogste vijf! Uw gegevens gaan nu samen met het publiek van LinkedIn. Voor informatie bij het uploaden van lijsten aan LinkedIn voor Rekening en het Contact richten, bezoek [ LinkedIn de marketing van Oplossingen van LinkedIn hulpcentrum ](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}.
+Hoogste vijf! Uw gegevens gaan nu samen met het publiek van LinkedIn. Voor informatie bij het uploaden van lijsten aan LinkedIn voor Rekening en het Contact richten, bezoek [&#x200B; LinkedIn de marketing van Oplossingen van LinkedIn hulpcentrum &#x200B;](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}.

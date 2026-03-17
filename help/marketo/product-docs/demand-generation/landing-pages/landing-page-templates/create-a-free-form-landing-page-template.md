@@ -48,6 +48,6 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
 
    >[!MORELIKETHIS]
    >
-   >* [ creeer een Vrije-Vorm het Landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >* [ creeer een Geleide het Landen Malplaatje van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-   >* [ Begrijpend Vrije-vorm vs Geleide het Landen Pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+   >* [&#x200B; creeer een Vrije-Vorm het Landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [&#x200B; creeer een Geleide het Landen Malplaatje van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [&#x200B; Begrijpend Vrije-vorm vs Geleide het Landen Pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

@@ -17,7 +17,7 @@ Door een Dynamic Chat Conversational Flow rechtstreeks in te sluiten in een Mark
 
 >[!PREREQUISITES]
 >
->Creeer een eenvoudige [ Conversationele Stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) die slechts a **het boeken van de Vergadering** kaart bevat.
+>Creeer een eenvoudige [&#x200B; Conversationele Stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) die slechts a **het boeken van de Vergadering** kaart bevat.
 
 ## Aanvoerpagina&#39;s met instructies {#guided-landing-pages}
 

@@ -45,4 +45,4 @@ Leer hoe u nieuwe afbeeldingen of bestanden aan uw Marketo Engage-exemplaar kunt
 
    >[!MORELIKETHIS]
    >
-   >[ organiseer Uw Beelden en Dossiers gebruikend Omslagen ](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+   >[&#x200B; organiseer Uw Beelden en Dossiers gebruikend Omslagen &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

@@ -23,4 +23,4 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Begin met [ creeer een Gebeurtenis met de Adapter ON24 ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+Klaar om te beginnen? Begin met [&#x200B; creeer een Gebeurtenis met de Adapter ON24 &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.

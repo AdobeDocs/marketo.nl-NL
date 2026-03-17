@@ -46,4 +46,4 @@ Het kan een paar minuten duren voordat wijzigingen in deze lijst worden doorgevo
 
 >[!MORELIKETHIS]
 >
->[ Vestiging reCAPTCHA v3 ](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+>[&#x200B; Vestiging reCAPTCHA v3 &#x200B;](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)

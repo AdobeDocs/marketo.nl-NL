@@ -17,7 +17,7 @@ Leer hoe u de taal van uw formulier kunt wijzigen.
 
 >[!IMPORTANT]
 >
->Als u de stappen in dit artikel volgt, worden de taal van de Marketo-standaardvelden gewijzigd, evenals de tekst die wordt gebruikt in het label Knop Verzenden. Het zal niet [ douanegebieden ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} vertalen.
+>Als u de stappen in dit artikel volgt, worden de taal van de Marketo-standaardvelden gewijzigd, evenals de tekst die wordt gebruikt in het label Knop Verzenden. Het zal niet [&#x200B; douanegebieden &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} vertalen.
 
 1. Ga naar **de Marketing Activiteiten**.
 
@@ -53,7 +53,7 @@ Leer hoe u de taal van uw formulier kunt wijzigen.
 
    >[!TIP]
    >
-   >Herinner me om [ goed te keuren het het Landing van Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ontwerp dat door de vormveranderingen wordt gecreeerd.
+   >Herinner me om [&#x200B; goed te keuren het het Landing van Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ontwerp dat door de vormveranderingen wordt gecreeerd.
 
 Het formulier weerspiegelt nu de taal die u hebt geselecteerd.
 

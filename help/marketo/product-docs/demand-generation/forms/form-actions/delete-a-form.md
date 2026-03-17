@@ -41,4 +41,4 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
 >[!CAUTION]
 >
->Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [ archiverend het ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) in plaats daarvan.
+>Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [&#x200B; archiverend het &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) in plaats daarvan.

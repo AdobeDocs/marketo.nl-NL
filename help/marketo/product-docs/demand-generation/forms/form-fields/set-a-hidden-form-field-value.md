@@ -17,7 +17,7 @@ Verborgen velden worden gewoonlijk dynamisch gevuld. Zij worden niet getoond aan
 
 >[!PREREQUISITES]
 >
->[ plaats een Geborgen Gebied van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
+>[&#x200B; plaats een Geborgen Gebied van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Selecteer het veld {#select-the-field}
 
@@ -37,7 +37,7 @@ Als u URL-parameters (queryreeksen) wilt vastleggen vanaf de pagina waarop de pe
 
 >[!NOTE]
 >
->Parameters zijn nogal technisch, niet? Maar als je ze krijgt, zijn ze machtig. Deze [ pagina Wikipedia op de Koorden van de Vraag ](https://en.wikipedia.org/wiki/Query_string) is enigszins nuttig.
+>Parameters zijn nogal technisch, niet? Maar als je ze krijgt, zijn ze machtig. Deze [&#x200B; pagina Wikipedia op de Koorden van de Vraag &#x200B;](https://en.wikipedia.org/wiki/Query_string) is enigszins nuttig.
 
 1. Selecteer **[!UICONTROL URL Parameter]** voor **[!UICONTROL Get Value Type]** .
 

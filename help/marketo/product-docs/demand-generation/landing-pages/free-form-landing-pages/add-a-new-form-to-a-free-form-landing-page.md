@@ -17,8 +17,8 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 >[!PREREQUISITES]
 >
->* [ creeer een Vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [ creeer een Vrije-Vorm het Landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [&#x200B; creeer een Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [&#x200B; creeer een Vrije-Vorm het Landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -54,4 +54,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    Echt waar!
 
-Sluit enkel de het landen paginaredacteur en [ goedkeuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Sluit enkel de het landen paginaredacteur en [&#x200B; goedkeuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

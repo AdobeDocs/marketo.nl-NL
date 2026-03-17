@@ -17,8 +17,8 @@ Geef een voorvertoning van de openingspagina weer nadat u dynamische inhoud hebt
 
 >[!PREREQUISITES]
 >
->* [ Dynamische Inhoud van het Gebruik in een het landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [ Voorproef een het Bestaan Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [&#x200B; Dynamische Inhoud van het Gebruik in een het landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [&#x200B; Voorproef een het Bestaan Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 1. Selecteer een openingspagina en klik op **[!UICONTROL Preview Page]** .
 

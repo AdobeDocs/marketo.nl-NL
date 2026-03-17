@@ -35,7 +35,7 @@ Google Fonts zijn geweldig en we hebben ze direct in de formuliereditor ingebouw
 
    >[!TIP]
    >
-   >Een groep [ de Doopvonten van Google ](https://fonts.google.com/){target="_blank"} zijn beschikbaar voor gebruik.
+   >Een groep [&#x200B; de Doopvonten van Google &#x200B;](https://fonts.google.com/){target="_blank"} zijn beschikbaar voor gebruik.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -61,4 +61,4 @@ Zie hoe eenvoudig het was om de lettertypefamilie op een formulier te wijzigen? 
 
 >[!MORELIKETHIS]
 >
->[ verander de Grootte van de Doopvont van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
+>[&#x200B; verander de Grootte van de Doopvont van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)

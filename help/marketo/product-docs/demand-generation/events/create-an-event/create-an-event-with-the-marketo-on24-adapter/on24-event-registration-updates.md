@@ -41,4 +41,4 @@ Marketo haalt de aanwezigheidsinformatie elke nacht automatisch om 11 uur &#39;s
 
 >[!MORELIKETHIS]
 >
->[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

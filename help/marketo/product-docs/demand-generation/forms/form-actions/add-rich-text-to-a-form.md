@@ -57,4 +57,4 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
 
 >[!TIP]
 >
->Wist u u kunt ook [ zichtbaarheidsregels ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok toevoegen?
+>Wist u u kunt ook [&#x200B; zichtbaarheidsregels &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok toevoegen?

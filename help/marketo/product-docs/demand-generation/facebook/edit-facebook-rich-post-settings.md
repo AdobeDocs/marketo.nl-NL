@@ -27,7 +27,7 @@ Marketo _sociale apps_ staat uw lood toe om uw landende pagina&#39;s met hun ver
 
 U kunt de typen pagina-informatie opgeven die moeten worden gebruikt in de [!DNL Facebook] opgemaakte rijke berichten die worden gegenereerd door shares van uw bestemmingspagina.
 
-1. Selecteer **[!UICONTROL Facebook Message]** in de redacteur voor uw _ _[!DNL YouTube_]_video of sociale knoop.
+1. Selecteer **[!UICONTROL Facebook Message]** in de redacteur voor uw _ _[!DNL YouTube_]_&#x200B;video of sociale knoop.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

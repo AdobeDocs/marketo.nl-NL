@@ -16,15 +16,15 @@ De functie Interactieve webinars is ons ingebouwde webinar platform in Marketo E
 
 >[!IMPORTANT]
 >
->Interactieve webinars met Adobe Connect is een functie met ingebouwde integratie in Adobe Connect. Voor het gebruik van interactieve webinars gelden aanvullende voorwaarden. Gelieve te herzien uw contract of [ contact Adobe ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om over de extra termijnen en voorwaarden te vragen.
+>Interactieve webinars met Adobe Connect is een functie met ingebouwde integratie in Adobe Connect. Voor het gebruik van interactieve webinars gelden aanvullende voorwaarden. Gelieve te herzien uw contract of [&#x200B; contact Adobe &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om over de extra termijnen en voorwaarden te vragen.
 
 ## Wat is Interactieve Webinars? {#what-is-interactive-webinars}
 
-Interactieve webinars verbeteren de bestaande gebeurtenissen en webinars door u een native en naadloze ervaring te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Wanneer u [ een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"} creeert, zijn de veelvoudige prebuilt vergaderingsmalplaatjes beschikbaar om van te kiezen, die allen aanpasbaar zijn (u kunt douanesjablonen ook creëren en gebruiken). Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
+Interactieve webinars verbeteren de bestaande gebeurtenissen en webinars door u een native en naadloze ervaring te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Wanneer u [&#x200B; een Interactief Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"} creeert, zijn de veelvoudige prebuilt vergaderingsmalplaatjes beschikbaar om van te kiezen, die allen aanpasbaar zijn (u kunt douanesjablonen ook creëren en gebruiken). Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
 
-Interactieve Webinars biedt [ drie verschillende vergunningen ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"} aan, elk met diverse functies en capaciteiten.
+Interactieve Webinars biedt [&#x200B; drie verschillende vergunningen &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"} aan, elk met diverse functies en capaciteiten.
 
-Na webinar, toegang [ analyses van de gebeurtenisprestaties ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} via rapporten en dashboards die lood en gezamenlijke betrokkenheidsgegevens bevatten. Met interactieve Webinar-specifieke filters en triggers kunt u specifieke groepen mensen zoeken die specifieke handelingen hebben uitgevoerd (door bijvoorbeeld op een koppeling te klikken, een element te downloaden en meer).
+Na webinar, toegang [&#x200B; analyses van de gebeurtenisprestaties &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} via rapporten en dashboards die lood en gezamenlijke betrokkenheidsgegevens bevatten. Met interactieve Webinar-specifieke filters en triggers kunt u specifieke groepen mensen zoeken die specifieke handelingen hebben uitgevoerd (door bijvoorbeeld op een koppeling te klikken, een element te downloaden en meer).
 
 ## Veelgestelde vragen {#faq}
 

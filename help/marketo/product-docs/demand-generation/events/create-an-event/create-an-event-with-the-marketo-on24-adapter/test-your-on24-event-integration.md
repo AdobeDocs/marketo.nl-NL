@@ -35,5 +35,5 @@ Hieronder wordt beschreven hoe gegevens worden bijgewerkt nadat de gebeurtenis h
 
 >[!MORELIKETHIS]
 >
->* [ Voorbeeld ON24 de Integratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
->* [ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [&#x200B; Voorbeeld ON24 de Integratie van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

@@ -17,7 +17,7 @@ Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 
 >[!PREREQUISITES]
 >
->[ laat Persoonlijke URLs voor Uw Rekening toe ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>[&#x200B; laat Persoonlijke URLs voor Uw Rekening toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
 1. Selecteer een openingspagina en klik op de instellingen voor **[!UICONTROL Personalized URL]** .
 

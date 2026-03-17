@@ -27,8 +27,8 @@ Er zijn bepaalde montages in de verwezenlijking van uw webinar ON24 die door Mar
 * Start Live-gebeurtenis - De begindatum en -tijd. Dit zal in Marketo kunnen worden bekeken.
 * Live eindtijd - De einddatum en -tijd. Dit zal in Marketo kunnen worden bekeken.
 
-Uw volgende stap moet [ een gebeurtenis in Marketo ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"} tot stand brengen.
+Uw volgende stap moet [&#x200B; een gebeurtenis in Marketo &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"} tot stand brengen.
 
 >[!MORELIKETHIS]
 >
->[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

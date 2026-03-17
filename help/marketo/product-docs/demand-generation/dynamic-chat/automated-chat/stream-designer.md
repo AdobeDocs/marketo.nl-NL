@@ -16,7 +16,7 @@ Er zijn _vele_ mogelijke stroomcombinaties. Dit artikel bevat een voorbeeld waar
 
 >[!PREREQUISITES]
 >
->Alvorens u de kaart van het Document kunt gebruiken, moet u het eerst [ opstelling ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in uw rekening van Adobe.
+>Alvorens u de kaart van het Document kunt gebruiken, moet u het eerst [&#x200B; opstelling &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in uw rekening van Adobe.
 
 ## Designer-kaarten streamen {#stream-designer-cards}
 
@@ -103,9 +103,9 @@ Rechtsboven in de Stream Designer ziet u een handvol pictogrammen. Dit is wat ze
 
 ## Een stream maken {#create-a-stream}
 
-U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In dit voorbeeld maken we er een voor een dialoogvenster.
+U kunt stromen voor Dialogen tot stand brengen of [&#x200B; Conversational Forms &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In dit voorbeeld maken we er een voor een dialoogvenster.
 
-1. Nadat u [ uw Dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} hebt gecreeerd, klik het **[!UICONTROL Stream Designer]** lusje.
+1. Nadat u [&#x200B; uw Dialoog &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"} hebt gecreeerd, klik het **[!UICONTROL Stream Designer]** lusje.
 
    ![](assets/stream-designer-6.png)
 
@@ -199,10 +199,10 @@ U kunt stromen voor Dialogen tot stand brengen of [ Conversational Forms ](/help
 
 >[!NOTE]
 >
->Alvorens [!UICONTROL Publish] te klikken, herinner me om ervoor te zorgen u [ uw doel URL(s) ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} hebt ingegaan.
+>Alvorens [!UICONTROL Publish] te klikken, herinner me om ervoor te zorgen u [&#x200B; uw doel URL(s) &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"} hebt ingegaan.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [ Criteria van de Publiek ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [ Adobe PDF bed API ](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in
+>* [&#x200B; creeer een Dialoog &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [&#x200B; Criteria van de Publiek &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [&#x200B; Adobe PDF bed API &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} in

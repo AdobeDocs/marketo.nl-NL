@@ -81,4 +81,4 @@ Wanneer u een bestemmingspagina uitgeeft en u op het mobiele lusje klikt, zult u
    >
    >Als u de mobiele versie van een sjabloon activeert, worden concepten gemaakt van alle bestemmingspagina&#39;s die deze gebruiken.
 
-Geweldig! U kunt nu [ de mobiele mening ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) van al uw het landen pagina&#39;s aanpassen die dit malplaatje gebruiken.
+Geweldig! U kunt nu [&#x200B; de mobiele mening &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) van al uw het landen pagina&#39;s aanpassen die dit malplaatje gebruiken.

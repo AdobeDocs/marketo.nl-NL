@@ -27,13 +27,13 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
 
    ![](assets/two-1.png)
 
-1. Klik eerste **[!UICONTROL Original URL]** drop-down en selecteer uw Marketo [ CNAME ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Klik eerste **[!UICONTROL Original URL]** drop-down en selecteer uw Marketo [&#x200B; CNAME &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Herinner me, kunt u URLs slechts opnieuw richten die met uw Marketo [ CNAME ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
+   >Herinner me, kunt u URLs slechts opnieuw richten die met uw Marketo [&#x200B; CNAME &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
 1. Kies de landingspagina die u wilt omleiden in het tweede **[!UICONTROL Original URL]** veld.
 
@@ -57,4 +57,4 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
 
    >[!MORELIKETHIS]
    >
-   >[ richt opnieuw een Weg URL ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
+   >[&#x200B; richt opnieuw een Weg URL &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)

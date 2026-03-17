@@ -33,4 +33,4 @@ Op zoek naar het webadres (URL) van een afbeelding of bestand dat u hebt geüplo
 
 >[!MORELIKETHIS]
 >
->[ vervangt een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[&#x200B; vervangt een Geüploade Beeld of Dossier &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # CSS van een formulierthema bewerken {#edit-the-css-of-a-form-theme}
 
-U hebt een paar pre-gebouwde [ thema&#39;s u enkel van ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) kunt kiezen. Maar als u graag CSS bewerkt, kunt u alle gewenste wijzigingen aanbrengen. Zo gaat het.
+U hebt een paar pre-gebouwde [&#x200B; thema&#39;s u enkel van &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) kunt kiezen. Maar als u graag CSS bewerkt, kunt u alle gewenste wijzigingen aanbrengen. Zo gaat het.
 
 >[!NOTE]
 >

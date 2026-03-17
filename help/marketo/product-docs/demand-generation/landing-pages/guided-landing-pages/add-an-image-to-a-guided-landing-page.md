@@ -31,7 +31,7 @@ In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide l
 
    >[!NOTE]
    >
-   >De manier waarop de afbeeldingsgrootte wordt gewijzigd, is afhankelijk van de sjabloon. Leer meer over [ Geleide Begeleidende Malplaatjes van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >De manier waarop de afbeeldingsgrootte wordt gewijzigd, is afhankelijk van de sjabloon. Leer meer over [&#x200B; Geleide Begeleidende Malplaatjes van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

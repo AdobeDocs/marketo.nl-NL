@@ -17,10 +17,10 @@ Door te synchroniseren met Adobe Connect kunt u uw webinar-registratie en -aanwe
 
 >[!PREREQUISITES]
 >
->* [ Verbinding Adobe Connect en Marketo ](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
->* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [&#x200B; Verbinding Adobe Connect en Marketo &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+>* [&#x200B; creeer een Nieuw Programma van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Als u hulp nodig hebt, controleer de [ Gids van de Gebruiker van Adobe Connect ](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Als u hulp nodig hebt, controleer de [&#x200B; Gids van de Gebruiker van Adobe Connect &#x200B;](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt in de map die u hebt opgegeven bij het invoeren van uw referenties in Marketo. Nadat u uw vergadering of seminar hebt gemaakt, moet u alle relevante logistieke informatie (zoals het telefoonnummer) noteren die u in het bevestigingsbericht en het ICS-bestand kunt gebruiken.
 
@@ -78,5 +78,5 @@ De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt
 
    >[!MORELIKETHIS]
    >
-   >* [ voeg Adobe Connect als a [!DNL LaunchPoint]  Dienst ](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md) toe
-   >* [ geef een Kanaal van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md) uit
+   >* [&#x200B; voeg Adobe Connect als a [!DNL LaunchPoint]  Dienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md) toe
+   >* [&#x200B; geef een Kanaal van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md) uit

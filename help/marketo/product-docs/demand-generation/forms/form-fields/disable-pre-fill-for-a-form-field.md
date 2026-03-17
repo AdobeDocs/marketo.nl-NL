@@ -53,6 +53,6 @@ Wanneer een webbezoeker bekend is (gekookt), vullen Marketo-formulieren velden s
 
 ## Gevoelige velden {#sensitive-fields}
 
-Wanneer u [ een gebied als gevoelig ](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) markeert, verhinderend zijn waarden in vormen worden vooraf ingevuld, zult u dit op de pre-Vullingsoptie zien.
+Wanneer u [&#x200B; een gebied als gevoelig &#x200B;](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) markeert, verhinderend zijn waarden in vormen worden vooraf ingevuld, zult u dit op de pre-Vullingsoptie zien.
 
 ![](assets/disable-pre-fill.png)
