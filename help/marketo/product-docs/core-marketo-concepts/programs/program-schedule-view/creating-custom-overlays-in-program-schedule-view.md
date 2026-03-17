@@ -27,7 +27,7 @@ U kunt aangepaste overlays maken om items weer te geven die relevant zijn voor u
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. U kunt ook filtreren door [ programmalabels ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. U kunt ook filtreren door [&#x200B; programmalabels &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

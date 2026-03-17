@@ -17,7 +17,7 @@ De stroomstappen worden van boven naar beneden uitgevoerd. Hieronder wordt besch
 
 >[!PREREQUISITES]
 >
->[ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+>[&#x200B; voeg een Stap van de Stroom aan een Slimme Campagne toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 1. Sleep in het tabblad Slimme campagne **[!UICONTROL Flow]** de stap Stroom naar de gewenste locatie.
 

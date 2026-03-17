@@ -29,7 +29,7 @@ Als u een oude Slimme Campagne hebt die u niet meer nodig hebt, kunt u het schra
 
    >[!TIP]
    >
-   >Om verwerking van een actieve Slimme Campagne te annuleren zonder het volledig te schrappen, leer hoe te [ een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) afbreken.
+   >Om verwerking van een actieve Slimme Campagne te annuleren zonder het volledig te schrappen, leer hoe te [&#x200B; een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) afbreken.
 
 1. Klik op **[!UICONTROL Delete]** om te bevestigen.
 

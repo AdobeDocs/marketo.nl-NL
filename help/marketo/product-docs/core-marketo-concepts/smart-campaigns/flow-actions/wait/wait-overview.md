@@ -25,7 +25,7 @@ U ziet hoe u in natuurlijke taal kunt typen zoals &quot;4 uur&quot;. **niet**, e
 
 >[!TIP]
 >
->Als u iemand reeds in een wachtende stap hebt en u wilt hen niet vooruitgaan na de wachttijdperiode beëindigt, neem [ van stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) recht na de wachtende stap op. Specificeer wie u verwijderd wilt gebruiken door [ keus ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) optie toe te voegen.
+>Als u iemand reeds in een wachtende stap hebt en u wilt hen niet vooruitgaan na de wachttijdperiode beëindigt, neem [&#x200B; van stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) recht na de wachtende stap op. Specificeer wie u verwijderd wilt gebruiken door [&#x200B; keus &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) optie toe te voegen.
 
 Er zijn drie belangrijke manieren om een stap van de wachttijdstroom te gebruiken:
 

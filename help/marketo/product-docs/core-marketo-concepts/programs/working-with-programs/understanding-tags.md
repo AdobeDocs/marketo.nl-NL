@@ -23,7 +23,7 @@ Tagtypen geven het soort informatie aan waarop u wilt sorteren.
 
 >[!TIP]
 >
->Bespreek aan uw Admin van Marketo als u [ douanetags ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"} zou willen creëren.
+>Bespreek aan uw Admin van Marketo als u [&#x200B; douanetags &#x200B;](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"} zou willen creëren.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Elk labeltype heeft waarden waaruit u kunt kiezen.
 
 ## Kanaal {#channel}
 
-De kanalen worden gebruikt om op te melden hoe uw [ leden ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} door uw programma worden bewogen. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
+De kanalen worden gebruikt om op te melden hoe uw [&#x200B; leden &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} door uw programma worden bewogen. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ De kanalen worden gebruikt om op te melden hoe uw [ leden ](/help/marketo/produc
 
 >[!MORELIKETHIS]
 >
->* [ creeer de Markeringen van de Douane ](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
->* [ creeer een Kanaal van het Programma ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+>* [&#x200B; creeer de Markeringen van de Douane &#x200B;](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [&#x200B; creeer een Kanaal van het Programma &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

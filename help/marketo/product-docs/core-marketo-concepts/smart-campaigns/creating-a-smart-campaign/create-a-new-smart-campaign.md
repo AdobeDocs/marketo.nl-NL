@@ -17,7 +17,7 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo Engage. Ze kunnen 
 
 >[!TIP]
 >
->Leer meer over [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
+>Leer meer over [&#x200B; Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -39,5 +39,5 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo Engage. Ze kunnen 
 
    >[!MORELIKETHIS]
    >
-   >* [ bepaalt Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [ bepaalt Slimme Lijst voor Slimme Campagne | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Batch &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

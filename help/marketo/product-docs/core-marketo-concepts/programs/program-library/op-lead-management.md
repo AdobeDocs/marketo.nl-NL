@@ -18,7 +18,7 @@ Dit is een voorbeeld van de beste praktijkworkflows van het beheer van leads, wa
 >
 >In Marketo Engage worden records in uw database aangeduid als personen/personen. Het beheer van leads in dit voorbeeld verwijst naar de records in uw CRM.
 
-Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html) pagina te bezoeken.
+Voor verdere strategiehulp of hulp die een programma aanpassen, gelieve te contacteren het Team van de Rekening van Adobe of de [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html) pagina te bezoeken.
 
 ## Kanaaloverzicht {#channel-summary}
 

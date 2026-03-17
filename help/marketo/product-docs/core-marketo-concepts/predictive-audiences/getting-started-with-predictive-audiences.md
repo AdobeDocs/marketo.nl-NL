@@ -17,8 +17,8 @@ Het voorspellende publiek (PA) gebruikt AI en machine het leren om u toe te late
 PA bevat de volgende functies:
 
 * Waarden voor registratie en zichtbaarheid van elke lead in een gebeurtenisprogramma
-* [ Predictieve Filters ](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
-* [ Modellen en beïnvloedende factoren ](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
+* [&#x200B; Predictieve Filters &#x200B;](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
+* [&#x200B; Modellen en beïnvloedende factoren &#x200B;](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * Op AI/ML gebaseerde inzichten
 * Goal Tracking and Projected Registrations - (Goal Tracking is alleen beschikbaar voor diegenen die de moderne UX-schakeloptie hebben ingeschakeld voor gebeurtenisprogramma&#39;s)
 

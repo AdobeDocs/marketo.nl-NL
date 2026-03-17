@@ -31,12 +31,12 @@ Deze flowstap kan worden gebruikt in Marketo Engage-campagnes of als een enkele 
    >
    >Als je geen Salesforce-campagne kunt zien in de campagnemelijst:
    >
-   > 1. Zorg ervoor de [ campagnecsync ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} wordt toegelaten.
-   > 1. Bevestig dat uw [ Gebruiker van de Synchronisatie van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} a [ Marketing Gebruiker ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} in Salesforce is.
+   > 1. Zorg ervoor de [&#x200B; campagnecsync &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} wordt toegelaten.
+   > 1. Bevestig dat uw [&#x200B; Gebruiker van de Synchronisatie van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} a [&#x200B; Marketing Gebruiker &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} in Salesforce is.
 
    >[!TIP]
    >
-   >U kunt de campagne van Salesforce [ Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} gebruiken om programma het klonen gemakkelijker te maken.
+   >U kunt de campagne van Salesforce [&#x200B; Mijn Tokens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} gebruiken om programma het klonen gemakkelijker te maken.
 
 1. Selecteer de status van het campagnerelid van [!DNL Salesforce] dat u wilt toewijzen aan leads wanneer deze worden toegevoegd.
 
@@ -44,4 +44,4 @@ Deze flowstap kan worden gebruikt in Marketo Engage-campagnes of als een enkele 
 
    >[!CAUTION]
    >
-   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden deze overgeslagen en wordt hun status NIET bijgewerkt. U kunt [ gebruiken verandert hun status in een campagne van SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"} in plaats daarvan.
+   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden deze overgeslagen en wordt hun status NIET bijgewerkt. U kunt [&#x200B; gebruiken verandert hun status in een campagne van SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"} in plaats daarvan.

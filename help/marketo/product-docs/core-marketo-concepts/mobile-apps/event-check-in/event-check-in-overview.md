@@ -28,9 +28,9 @@ Een geweldige gebeurtenis!
 
 Voor de gebeurtenis:
 
-* [ creeer een nieuwe rol van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} voor [!DNL iPad] of [!DNL Android] gebruikers voor de gebeurtenis
-* [ nodigt nieuwe tabletgebruikers aan de gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} uit en wijst hen de nieuwe rol toe
-* [ creeer een nieuw de gebeurtenisprogramma van Marketo ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+* [&#x200B; creeer een nieuwe rol van Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} voor [!DNL iPad] of [!DNL Android] gebruikers voor de gebeurtenis
+* [&#x200B; nodigt nieuwe tabletgebruikers aan de gebeurtenis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} uit en wijst hen de nieuwe rol toe
+* [&#x200B; creeer een nieuw de gebeurtenisprogramma van Marketo &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Gebeurtenisdatums opgeven
 * Personen aan uw gebeurtenis toevoegen
 
@@ -49,5 +49,5 @@ Bij de gebeurtenis:
 
 * Meld u aan bij de app
 * Gasten zoeken (en nieuwe personen maken)
-* [ Controle in gasten ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (omgekeerde controle-ins, geef persoonverslagen bij controle-binnen uit)
+* [&#x200B; Controle in gasten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (omgekeerde controle-ins, geef persoonverslagen bij controle-binnen uit)
 * De [!DNL iPad] - of [!DNL Android] tablet-app synchroniseren met Marketo

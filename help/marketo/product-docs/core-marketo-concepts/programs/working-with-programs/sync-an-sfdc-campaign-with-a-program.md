@@ -17,7 +17,7 @@ Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce
 
 >[!PREREQUISITES]
 >
->U zult [  [!DNL Salesforce]  campagnecsync ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} eerst moeten toelaten.
+>U zult [&#x200B;  [!DNL Salesforce]  campagnecsync &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} eerst moeten toelaten.
 
 >[!CAUTION]
 >
@@ -39,7 +39,7 @@ Met Marketo Engage kunt u uw programma&#39;s synchroniseren met [!DNL Salesforce
 
    >[!TIP]
    >
-   >Als u een bestaande [!DNL Salesforce] campagne selecteert, zorg ervoor [ de programmastatussen van de  [!DNL Salesforce]  campagne en het programma van Marketo ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} aanpast.
+   >Als u een bestaande [!DNL Salesforce] campagne selecteert, zorg ervoor [&#x200B; de programmastatussen van de  [!DNL Salesforce]  campagne en het programma van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} aanpast.
 
 1. Voer een naam in voor de nieuwe campagne en klik op **[!UICONTROL Save]** .
 

@@ -17,7 +17,7 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
 >[!PREREQUISITES]
 >
->[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

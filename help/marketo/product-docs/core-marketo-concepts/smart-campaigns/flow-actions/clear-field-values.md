@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Veldwaarden wissen {#clear-field-values}
 
-[ de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) is groot, maar hoe u _verwijdert_ de waarde volledig? Goede vraag!
+[&#x200B; de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) is groot, maar hoe u _verwijdert_ de waarde volledig? Goede vraag!
 
 1. Kies in de flowstap het veld dat u wilt wissen en typ **[!UICONTROL NULL]** (alle hoofdletters) als **[!UICONTROL New Value]** .
 

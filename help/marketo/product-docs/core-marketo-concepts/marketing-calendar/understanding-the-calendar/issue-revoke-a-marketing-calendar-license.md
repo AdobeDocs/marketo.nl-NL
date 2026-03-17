@@ -17,7 +17,7 @@ ht-degree: 1%
 >
 >**Vereiste Bevoegdheden Admin**
 
-Om gebruik van uw [ in de handel brengende Kalender ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} plaatsen te maken, moet u vergunningen aan gebruikers uitgeven die toegang nodig hebben. Zo gaat het.
+Om gebruik van uw [&#x200B; in de handel brengende Kalender &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} plaatsen te maken, moet u vergunningen aan gebruikers uitgeven die toegang nodig hebben. Zo gaat het.
 
 1. Ga naar de sectie **[!UICONTROL Admin]** .
 

@@ -24,7 +24,7 @@ Naast het uitvoeren van enige stroomacties van binnen een Slimme Lijst, kunt u h
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Klik op de vervolgkeuzelijst **[!UICONTROL Person Actions]** en selecteer de gewenste stap in de flow. In dit voorbeeld zullen wij [ gebruiken verzendt E-mail ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Person Actions]** en selecteer de gewenste stap in de flow. In dit voorbeeld zullen wij [&#x200B; gebruiken verzendt E-mail &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 

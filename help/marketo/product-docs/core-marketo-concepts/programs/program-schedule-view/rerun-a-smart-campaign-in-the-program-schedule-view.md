@@ -33,6 +33,6 @@ U kunt gemakkelijk nieuwe looppas van een bestaande Slimme Campagne direct van d
 
    >[!TIP]
    >
-   >U kunt dit van de [ programmanadruk ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) ook doen.
+   >U kunt dit van de [&#x200B; programmanadruk &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md) ook doen.
 
 Boom! Net als dat heb je nog een run gepland voor die Smart Campaign. Als die slimme campagne e-mailstappen bevatte, zult u die ook zien!

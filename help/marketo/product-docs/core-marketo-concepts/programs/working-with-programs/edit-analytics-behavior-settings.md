@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Instellingen van gedrag voor analyse bewerken {#edit-analytics-behavior-settings}
 
-U kunt het [ analysegedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} plaatsen, maar u kunt het op het programmaniveau ook uitgeven. Zo gaat het.
+U kunt het [&#x200B; analysegedrag op het admin niveau op kanalen &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"} plaatsen, maar u kunt het op het programmaniveau ook uitgeven. Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

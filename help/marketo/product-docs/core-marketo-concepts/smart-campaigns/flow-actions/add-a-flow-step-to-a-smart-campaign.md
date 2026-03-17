@@ -33,15 +33,15 @@ De stappen van de stroom vertellen Marketo Engage wat u met een groep mensen wil
 
 >[!NOTE]
 >
->De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [ herordent de stroomstappen ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} om ervoor te zorgen zij in de juiste opeenvolging zijn.
+>De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [&#x200B; herordent de stroomstappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"} om ervoor te zorgen zij in de juiste opeenvolging zijn.
 
 >[!TIP]
 >
 >Een rode kronkellijn verschijnt in het geval van een ongeldige ingang. Houd de muisaanwijzer boven de lijn om te zien hoe u deze kunt corrigeren.
 
-Geweldig! Ben zeker om [ te herzien en de Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} te bevestigen alvorens u het plant of activeert.
+Geweldig! Ben zeker om [&#x200B; te herzien en de Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} te bevestigen alvorens u het plant of activeert.
 
 >[!MORELIKETHIS]
 >
->* [ Gebruik voegt Keuze in een Stap van de Stroom toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
->* [ maak de Stappen van de Stroom in een Slimme Campagne opnieuw in orde ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}
+>* [&#x200B; Gebruik voegt Keuze in een Stap van de Stroom toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md){target="_blank"}
+>* [&#x200B; maak de Stappen van de Stroom in een Slimme Campagne opnieuw in orde &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md){target="_blank"}

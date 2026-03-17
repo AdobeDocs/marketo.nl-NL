@@ -17,7 +17,7 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 
 >[!NOTE]
 >
->Leer meer over [ het activiteitenlogboek ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
+>Leer meer over [&#x200B; het activiteitenlogboek &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
 1. Ga naar de pagina Details persoon. Klik op de tab **[!UICONTROL Activity Log]** .
 

@@ -31,7 +31,7 @@ De grafieken geven het totale aantal personen, het aantal verhandelbare personen
 
 >[!TIP]
 >
->Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer het Rapport van de Prestaties van a [ Mensen ](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer het Rapport van de Prestaties van a [&#x200B; Mensen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Totale Mensen:** het aantal mensen in alle tijd voor de vermelde werkruimte.
 

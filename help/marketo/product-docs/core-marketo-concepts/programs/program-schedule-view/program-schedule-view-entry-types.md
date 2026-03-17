@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Invoertypen voor programmaplanningen {#program-schedule-view-entry-types}
 
-Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt [ types van douaneingang ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in de Admin sectie ook tot stand brengen.
+Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt [&#x200B; types van douaneingang &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in de Admin sectie ook tot stand brengen.
 
 >[!NOTE]
 >

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Mappen begrijpen {#understanding-folders}
 
-Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [ campagnemappen ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [&#x200B; campagnemappen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Een map maken {#create-a-folder}
 

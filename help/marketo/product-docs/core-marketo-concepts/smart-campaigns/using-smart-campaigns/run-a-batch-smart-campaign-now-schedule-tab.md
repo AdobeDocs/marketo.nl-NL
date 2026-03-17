@@ -27,9 +27,9 @@ Als u klaar bent met het bouwen van uw Batch-campagne, kunt u ervoor kiezen deze
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   Eenvoudig! U kunt ook [ planninglooppas voor later ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} als u verkiest.
+   Eenvoudig! U kunt ook [&#x200B; planninglooppas voor later &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} als u verkiest.
 
    >[!NOTE]
    >
-   >* [ Plan een Partij Slimme Campagne om later ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} in werking te stellen
-   >* [ Plan een Terugkomende Campagne van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}
+   >* [&#x200B; Plan een Partij Slimme Campagne om later &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"} in werking te stellen
+   >* [&#x200B; Plan een Terugkomende Campagne van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

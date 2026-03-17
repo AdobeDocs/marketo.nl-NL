@@ -55,12 +55,12 @@ Controleer in het tabblad **[!UICONTROL Schedule]** of het aantal gekwalificeerd
 
 >[!TIP]
 >
->Indien vereist, kunt u [ persoonbeperkingen in een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) met voeten treden.
+>Indien vereist, kunt u [&#x200B; persoonbeperkingen in een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md) met voeten treden.
 
 >[!NOTE]
 >
 >**Herinnering**
 >
->Als uw Slimme Campagne nog ontbreekt, leer hoe te [ berichten ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) begrijpen om te weten wat verkeerd ging en hoe te om het te bevestigen.
+>Als uw Slimme Campagne nog ontbreekt, leer hoe te [&#x200B; berichten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) begrijpen om te weten wat verkeerd ging en hoe te om het te bevestigen.
 
 Geweldig werk! Houd deze controlelijst bij de hand voordat u een slimme campagne uitvoert.

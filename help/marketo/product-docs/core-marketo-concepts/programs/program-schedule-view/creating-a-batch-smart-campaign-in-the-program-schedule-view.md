@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Het creëren van een Partij Slimme Campagne in de Mening van het Programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-U kunt nieuwe Slimme Campagnes tot stand brengen en [ reun bestaande degenen ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} binnen uw programma van de mening van het programmaprogramma.
+U kunt nieuwe Slimme Campagnes tot stand brengen en [&#x200B; reun bestaande degenen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} binnen uw programma van de mening van het programmaprogramma.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ U kunt nieuwe Slimme Campagnes tot stand brengen en [ reun bestaande degenen ](/
 
    ![](assets/four.png)
 
-1. Kies uw [ Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} regels.
+1. Kies uw [&#x200B; Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} regels.
 
    ![](assets/changeprogramstatus-hands.png)
 

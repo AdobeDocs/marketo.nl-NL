@@ -17,11 +17,11 @@ Er is een eenvoudige manier om gegevens aan een veld toe te voegen. Zo gaat het.
 
 >[!PREREQUISITES]
 >
->[ creeer een Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[&#x200B; creeer een Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
->De stappen hieronder zijn ook op [ Gegevens van het Lid van het Programma van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"} van toepassing.
+>De stappen hieronder zijn ook op [&#x200B; Gegevens van het Lid van het Programma van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"} van toepassing.
 
 1. Sleep onder het tabblad **[!UICONTROL Flow]** in de stap Stroom **[!UICONTROL Change Data Value]** .
 

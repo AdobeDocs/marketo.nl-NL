@@ -55,8 +55,8 @@ Maak een slimme Campagne in werking gesteld op één persoon in een tijd die op 
    >
    >Met veelvoudige trekkers, gaat een persoon door de stroom als _OM HET EVEN WELKE_ één van de trekkers wordt geactiveerd.
 
-Om de campagne op een reeks mensen in werking te stellen allen tezelfdertijd, leer hoe te [ bepalen Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"} .
+Om de campagne op een reeks mensen in werking te stellen allen tezelfdertijd, leer hoe te [&#x200B; bepalen Slimme Lijst voor Slimme Campagne | Batch &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"} .
 
 >[!MORELIKETHIS]
 >
->[ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
+>[&#x200B; voeg een Stap van de Stroom aan een Slimme Campagne toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

@@ -17,7 +17,7 @@ Met de algemene overlay in de programmaweergave van het programma kunt u uw prog
 
 >[!PREREQUISITES]
 >
->U moet de vergunning van de Kalender van de a [ Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} hebben om deze eigenschap te gebruiken.
+>U moet de vergunning van de Kalender van de a [&#x200B; Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} hebben om deze eigenschap te gebruiken.
 
 ## De algemene overlay gebruiken {#use-the-global-overlay}
 
@@ -39,7 +39,7 @@ Met de algemene overlay in de programmaweergave van het programma kunt u uw prog
 
 ## Een opgeslagen filter gebruiken als overlay {#use-a-saved-filter-as-an-overlay}
 
-Als u [ een filter in de Kalender van de Marketing ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} hebt bewaard, kunt u het als bekleding in de mening van het programmaprogramma gebruiken.
+Als u [&#x200B; een filter in de Kalender van de Marketing &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} hebt bewaard, kunt u het als bekleding in de mening van het programmaprogramma gebruiken.
 
 1. Klik op de vervolgkeuzelijst **[!UICONTROL Overlay]** en selecteer de filterdefinitie.
 
@@ -51,4 +51,4 @@ Als u [ een filter in de Kalender van de Marketing ](/help/marketo/product-docs/
 
    >[!MORELIKETHIS]
    >
-   >[ Creërend de Bedekkingen van de Douane in de Mening van het Programma van het Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}
+   >[&#x200B; Creërend de Bedekkingen van de Douane in de Mening van het Programma van het Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

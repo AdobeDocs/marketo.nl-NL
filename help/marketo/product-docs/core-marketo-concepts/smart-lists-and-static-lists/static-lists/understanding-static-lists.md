@@ -32,11 +32,11 @@ Het verschil tussen een Statische en Slimme Lijst is essentieel om te begrijpen.
 
 ## Manieren om Personen toe te voegen/te verwijderen uit een lijst {#ways-to-add-remove-people-from-a-list}
 
-1. De slimme de stroomstap van de Campagne ([ voegt aan Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} toe, [ verwijdert uit Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
+1. De slimme de stroomstap van de Campagne ([&#x200B; voegt aan Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"} toe, [&#x200B; verwijdert uit Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [ Enige stap van de actiestroom ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [&#x200B; Enige stap van de actiestroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Personen naar een lijst in de boomstructuur slepen
-1. [ de invoer van de Lijst ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+1. [&#x200B; de invoer van de Lijst &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## Bepaalde toepassingen van een statische lijst {#some-uses-of-a-static-list}
 
@@ -48,4 +48,4 @@ Geniet van de kracht van de LIST!
 
 >[!MORELIKETHIS]
 >
->[ creeer een Statische Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}
+>[&#x200B; creeer een Statische Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md){target="_blank"}

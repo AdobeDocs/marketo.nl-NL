@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen {#add-program-status-columns-to-a-program-report}
 
-Voeg stats over programmastatus aan uw [ rapport van de programmaprestaties ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} toe.
+Voeg stats over programmastatus aan uw [&#x200B; rapport van de programmaprestaties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} toe.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ).
 
@@ -45,8 +45,8 @@ Voeg stats over programmastatus aan uw [ rapport van de programmaprestaties ](/h
 
 >[!NOTE]
 >
->Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [ de kolommen hebt geselecteerd om ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} in het rapport te tonen.
+>Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [&#x200B; de kolommen hebt geselecteerd om &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} in het rapport te tonen.
 
 >[!MORELIKETHIS]
 >
->[ filter een Rapport van het Programma door Markering ](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[&#x200B; filter een Rapport van het Programma door Markering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

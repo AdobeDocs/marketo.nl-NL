@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Verwijderen uit SFDC-campagne {#remove-from-sfdc-campaign}
 
-Enkel als hoe u aan de Campagne van SFDC [ en ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} Status van de Verandering in de Campagne van SFDC [ kunt toevoegen, kunt u mensen of lood uit een campagne van Salesforce ook verwijderen.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}
+Enkel als hoe u aan de Campagne van SFDC [&#x200B; en &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md){target="_blank"} Status van de Verandering in de Campagne van SFDC [&#x200B; kunt toevoegen, kunt u mensen of lood uit een campagne van Salesforce ook verwijderen.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}
 
 ![](assets/remove-from-sfdc-campaign-1.png)
 

@@ -15,7 +15,7 @@ ht-degree: 2%
 
 De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Ze kunnen worden gecombineerd met slimme lijsten om allerlei dingen in Marketo bij te houden. Bovendien wordt deze lijst na het instellen van een slim lijstdoel elke twee uur automatisch bijgewerkt wanneer deze wordt gebruikt in een presentatie.
 
-Als presentaties, zijn de doelstellingen [ - specifiek ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
+Als presentaties, zijn de doelstellingen [&#x200B; - specifiek &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) werkruimte.
 
 1. Ga naar de **[!UICONTROL Calendar]** .
 
@@ -37,7 +37,7 @@ Als presentaties, zijn de doelstellingen [ - specifiek ](/help/marketo/product-d
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
-1. [ bepaal de slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). De mogelijkheden zijn eindeloos!
+1. [&#x200B; bepaal de slimme lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). De mogelijkheden zijn eindeloos!
 
    ![](assets/mql.png)
 

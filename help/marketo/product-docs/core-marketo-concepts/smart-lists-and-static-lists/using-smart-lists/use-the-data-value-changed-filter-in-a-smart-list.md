@@ -17,7 +17,7 @@ Waarden worden voortdurend gewijzigd en bijgewerkt in uw Marketo-database. Soms 
 
 >[!PREREQUISITES]
 >
->[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
@@ -35,4 +35,4 @@ Waarden worden voortdurend gewijzigd en bijgewerkt in uw Marketo-database. Soms 
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 
-Met dit filter zoekt u naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als u zelfs financier wilt worden, probeer [ toevoegend een beperking aan een Slimme filter van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+Met dit filter zoekt u naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als u zelfs financier wilt worden, probeer [&#x200B; toevoegend een beperking aan een Slimme filter van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

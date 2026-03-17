@@ -59,7 +59,7 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
    >[!NOTE]
    >
-   >Om te doen is a [ douaneingang ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo agendapunten bij te houden.
+   >Om te doen is a [&#x200B; douaneingang &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}. U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo agendapunten bij te houden.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +69,4 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
 >[!NOTE]
 >
-> U kunt a [ slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} of [ e-mailprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} van de planningsmening ook tot stand brengen.
+> U kunt a [&#x200B; slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} of [&#x200B; e-mailprogramma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md){target="_blank"} van de planningsmening ook tot stand brengen.

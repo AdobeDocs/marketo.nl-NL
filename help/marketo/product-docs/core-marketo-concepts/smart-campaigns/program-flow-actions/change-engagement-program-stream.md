@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Betrokkenheidsprogrammastroom wijzigen {#change-engagement-program-stream}
 
-Normaal, zou u [ de overgangsregels van de stroomovergang ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gebruiken om dit te bereiken. Maar als u mensen van één stroom aan een andere manueel wilt bewegen, is dit de stroomstap aan gebruik.
+Normaal, zou u [&#x200B; de overgangsregels van de stroomovergang &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gebruiken om dit te bereiken. Maar als u mensen van één stroom aan een andere manueel wilt bewegen, is dit de stroomstap aan gebruik.
 
 ![](assets/change-engagement-program-stream-1.png)
 

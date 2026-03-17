@@ -115,6 +115,6 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen.
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend de Momenten van Marketo ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [ Begrijpend de Kaarten van de Gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [ Begrijpend de Kaarten van Analytics ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [&#x200B; Begrijpend de Momenten van Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [&#x200B; Begrijpend de Kaarten van de Gebeurtenis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [&#x200B; Begrijpend de Kaarten van Analytics &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

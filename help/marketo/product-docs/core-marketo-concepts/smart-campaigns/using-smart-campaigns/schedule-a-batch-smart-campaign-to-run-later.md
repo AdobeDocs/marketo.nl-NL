@@ -17,7 +17,7 @@ Als je een Batch-campagne wilt instellen om op een bepaald moment in de toekomst
 
 >[!TIP]
 >
->U kunt ook [ een partij slimme campagne in de mening van het programmaprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} opnieuw plannen.
+>U kunt ook [&#x200B; een partij slimme campagne in de mening van het programmaprogramma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md){target="_blank"} opnieuw plannen.
 
 1. Selecteer de slimme batchcampagne die u wilt uitvoeren, ga naar het tabblad **[!UICONTROL Schedule]** en klik op **[!UICONTROL Run Once]** .
 
@@ -41,4 +41,4 @@ Als je een Batch-campagne wilt instellen om op een bepaald moment in de toekomst
 
    >[!NOTE]
    >
-   >[ Plan een Terugkomende Campagne van de Partij ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}
+   >[&#x200B; Plan een Terugkomende Campagne van de Partij &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}

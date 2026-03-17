@@ -15,10 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
->* [ vind en voeg Filters aan Slimme Lijsten toe ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
+>* [&#x200B; vind en voeg Filters aan Slimme Lijsten toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Nu u [ een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} en [ toegevoegde filters ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} aan het hebt gecreeerd, bepalen de filters. Zo gaat het.
+Nu u [&#x200B; een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"} en [&#x200B; toegevoegde filters &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"} aan het hebt gecreeerd, bepalen de filters. Zo gaat het.
 
 Als we ons voorbeeld voortzetten, definiëren we deze filters om alle mensen in Californië te vinden met een score van meer dan 50.
 
@@ -36,7 +36,7 @@ Als we ons voorbeeld voortzetten, definiëren we deze filters om alle mensen in 
 
    >[!NOTE]
    >
-   >U kunt zowel &quot;Californië&quot;als &quot;CA opslaan.&quot; Om voor beide waarden te filtreren en _alle_ mensen van Californië te omvatten, leer hoe te [ veelvoudige waarden aan een Slimme filter van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"} toevoegen.
+   >U kunt zowel &quot;Californië&quot;als &quot;CA opslaan.&quot; Om voor beide waarden te filtreren en _alle_ mensen van Californië te omvatten, leer hoe te [&#x200B; veelvoudige waarden aan een Slimme filter van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md){target="_blank"} toevoegen.
 
 1. Kies de operator **[!UICONTROL greater than]** en voer &quot;50&quot; in.
 

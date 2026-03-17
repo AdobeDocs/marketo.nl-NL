@@ -22,9 +22,9 @@ Hier is hoe je de gezondheid van je model kunt beoordelen.
 
 Navigeer naar de sectie **[!UICONTROL Models and Data Health]** onder **[!UICONTROL Predictive Audiences]** in het gebied **[!UICONTROL Admin]** van Marketo Engage. Hier zie je al je modellen en hun status.
 
-![ Beeld Één ](assets/models-and-insights-1.png)
+![&#x200B; Beeld Één &#x200B;](assets/models-and-insights-1.png)
 
-* **de Status van de Opleiding**: Wijst erop of uw model actief opleiding (het verbeteren van voorspellingen) is. De training vindt automatisch elke twee weken plaats. Om het even welke modellen die _Verwerking_ zijn zouden tot 24 uren kunnen vergen om te beëindigen. Voor om het even welke _Ontbroken_ modellen, gelieve [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} te contacteren.
+* **de Status van de Opleiding**: Wijst erop of uw model actief opleiding (het verbeteren van voorspellingen) is. De training vindt automatisch elke twee weken plaats. Om het even welke modellen die _Verwerking_ zijn zouden tot 24 uren kunnen vergen om te beëindigen. Voor om het even welke _Ontbroken_ modellen, gelieve [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} te contacteren.
 * **het Scoreren Status**: Wijst erop of uw model actief voorspellingen (waarschijnlijkheidspercentages) voor programmaleden berekent.
 * **Prestaties**: Categorisatie van de gezondheid van uw model die op de Voltooiing van Gegevens en Kwaliteit van Gegevens wordt gebaseerd (zie hieronder).
 * **Voltooiing van Gegevens**: Percentage gegevensattributen die aanwezig/volledig zijn.

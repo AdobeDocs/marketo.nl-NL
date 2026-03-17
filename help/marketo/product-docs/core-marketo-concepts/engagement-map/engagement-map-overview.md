@@ -25,7 +25,7 @@ Navigeer aan om het even welke bestaande campagne en klik de **knoop van de Kaar
 
 ![](assets/engagement-map-overview-2.png)
 
-In de Kaart van de Betrokkenheid, zijn er twee lusjes: [ de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} en [ Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In de Kaart van de Betrokkenheid, zijn er twee lusjes: [&#x200B; de Kaart van de Betrokkenheid &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} en [&#x200B; Montages &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -99,5 +99,5 @@ Er zijn drie belangrijke dingen die de Kaart van de Betrokkenheid verdelen:
 
 >[!MORELIKETHIS]
 >
->* [ het Lusje van de Kaart van de Betrokkenheid ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
->* [ het Lusje van Montages ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}
+>* [&#x200B; het Lusje van de Kaart van de Betrokkenheid &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [&#x200B; het Lusje van Montages &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

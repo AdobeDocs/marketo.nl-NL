@@ -39,10 +39,10 @@ Soms start u een slimme campagne en realiseert u zich meteen dat dit een fout wa
 
    >[!NOTE]
    >
-   >Bekijk de tab **[!UICONTROL Results]** van de slimme campagne om te zien welke handelingen zijn uitgevoerd voordat de toepassing werd afgebroken. U zult a [ bericht ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} met extra details ook vinden.
+   >Bekijk de tab **[!UICONTROL Results]** van de slimme campagne om te zien welke handelingen zijn uitgevoerd voordat de toepassing werd afgebroken. U zult a [&#x200B; bericht &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} met extra details ook vinden.
 
    >[!TIP]
    >
-   >Wilt u een persoon uit de flow verwijderen in een triggercampagne? Controle uit [ verwijdert zich uit Stroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
+   >Wilt u een persoon uit de flow verwijderen in een triggercampagne? Controle uit [&#x200B; verwijdert zich uit Stroom &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md){target="_blank"}.
 
 Controleer altijd uw werk, maar deze noodrem is mogelijk handig.

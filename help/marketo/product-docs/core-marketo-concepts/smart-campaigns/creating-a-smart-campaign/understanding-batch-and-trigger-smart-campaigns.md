@@ -34,7 +34,7 @@ Als u op het tabblad **[!UICONTROL Schedule]** klikt, wordt bevestigd dat de sli
 **Partij Slimme Campagnes**
 
 * Kan worden gepland voor herhalingen, zoals dagelijks, wekelijks en maandelijks. Je kunt ze ook één keer laten draaien.
-* Zijn zichtbaar op de [ mening van het programmaschema ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles na een stap &quot;Wacht&quot; in de slimme campagne wordt niet opgenomen in de weergave.
+* Zijn zichtbaar op de [&#x200B; mening van het programmaschema &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}. Alles na een stap &quot;Wacht&quot; in de slimme campagne wordt niet opgenomen in de weergave.
 
 <br> 
 
@@ -61,4 +61,4 @@ Als u op het tabblad **[!UICONTROL Schedule]** klikt, wordt bevestigd dat de sli
 
 >[!TIP]
 >
->Gebruik het [ activiteitenlogboek ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} om te zien wat geleidelijke binnen uw Slimme Campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.
+>Gebruik het [&#x200B; activiteitenlogboek &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} om te zien wat geleidelijke binnen uw Slimme Campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.

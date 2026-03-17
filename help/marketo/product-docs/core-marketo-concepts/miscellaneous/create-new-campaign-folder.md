@@ -42,9 +42,9 @@ Campagnemappen helpen u een moeilijke werkruimte te houden. Volg deze eenvoudige
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Nu wanneer [ creërend een nieuw programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), zult u deze campagnemap als optie zien.
+   Nu wanneer [&#x200B; creërend een nieuw programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), zult u deze campagnemap als optie zien.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [ creeer een Nieuwe Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [&#x200B; creeer een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [&#x200B; creeer een Nieuwe Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

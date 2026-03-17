@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->U kunt mensen aan een lijst toevoegen gebruikend [ de Invoer ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of [ toevoegen aan de stap van de Stroom van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
+>U kunt mensen aan een lijst toevoegen gebruikend [&#x200B; de Invoer &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of [&#x200B; toevoegen aan de stap van de Stroom van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
 Met dit filter, kunt u leden van een andere lijst trekken door naar het in uw Slimme regels van de Lijst te verwijzen. Zo gaat het.
 

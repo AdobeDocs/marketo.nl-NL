@@ -20,7 +20,7 @@ Met de Asset Selector kunnen Marketo-klanten AEM-elementen openen, selecteren en
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u reeds de [ Configuratie van AEM ](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) hebt uitgevoerd.
+>Zorg ervoor u reeds de [&#x200B; Configuratie van AEM &#x200B;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) hebt uitgevoerd.
 
 >[!IMPORTANT]
 >

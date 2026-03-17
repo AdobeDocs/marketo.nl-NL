@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspondentie niet ontvangen.
 
-1. Creeer een nieuw [ standaardprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} en noem het &quot;toevoegen aan Lijst van gewezen personen.&quot;
+1. Creeer een nieuw [&#x200B; standaardprogramma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} en noem het &quot;toevoegen aan Lijst van gewezen personen.&quot;
 
 1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Local Asset]** .
 
@@ -81,4 +81,4 @@ Deze mensen zullen geen e-mails meer ontvangen.
 
 >[!TIP]
 >
->Creeer de Campagne van de a [ Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} gebruikend **de Waarde van Gegevens van de Verandering** met **Voorgeschreven Blok is waar** voor alle mensen in de toekomst die lijst van gewezen personen-geschikte attributen hebben.
+>Creeer de Campagne van de a [&#x200B; Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} gebruikend **de Waarde van Gegevens van de Verandering** met **Voorgeschreven Blok is waar** voor alle mensen in de toekomst die lijst van gewezen personen-geschikte attributen hebben.

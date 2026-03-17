@@ -21,7 +21,7 @@ De kracht van Marketo ligt nu letterlijk in uw handen! Geef een voorbeeld van e-
 
 >[!NOTE]
 >
->_de toestemming wordt van de Toegang Mobiele Apps vereist._ Contacteer uw Admin van Marketo om [ uw rol ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) bij te werken.
+>_de toestemming wordt van de Toegang Mobiele Apps vereist._ Contacteer uw Admin van Marketo om [&#x200B; uw rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) bij te werken.
 
 ## Streams {#streams}
 
@@ -149,7 +149,7 @@ Klaar om meer te leren?
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend de Kaarten van het E-mailProgramma ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [ Begrijpend de Kaarten van de Gebeurtenis ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [ Begrijpend de Kaarten van Analytics ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [ Begrijpend Slimme Kaarten van de Campagne ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [&#x200B; Begrijpend de Kaarten van het E-mailProgramma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [&#x200B; Begrijpend de Kaarten van de Gebeurtenis &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [&#x200B; Begrijpend de Kaarten van Analytics &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [&#x200B; Begrijpend Slimme Kaarten van de Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

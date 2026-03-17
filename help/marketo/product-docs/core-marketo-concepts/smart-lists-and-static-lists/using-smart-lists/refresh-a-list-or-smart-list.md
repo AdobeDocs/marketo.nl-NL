@@ -31,4 +31,4 @@ Als u een slimme lijst hebt uitgevoerd en een paar minuten zijn verstreken, kunn
 
 >[!MORELIKETHIS]
 >
->[ de Mensen van de Uitvoer naar Excel van een Lijst of Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}
+>[&#x200B; de Mensen van de Uitvoer naar Excel van een Lijst of Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md){target="_blank"}

@@ -17,7 +17,7 @@ Wilt u een einde zien aan alles wat er in een slimme campagne is gebeurd? Zo gaa
 
 >[!TIP]
 >
->U kunt de lijst van mensen zien die door de Slimme Campagne door [ leden van de Campagne van de Mening te klikken ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"} werden verwerkt.
+>U kunt de lijst van mensen zien die door de Slimme Campagne door [&#x200B; leden van de Campagne van de Mening te klikken &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"} werden verwerkt.
 
 1. Klik in de slimme campagne op **[!UICONTROL Results]** .
 
@@ -25,7 +25,7 @@ Wilt u een einde zien aan alles wat er in een slimme campagne is gebeurd? Zo gaa
 
    >[!TIP]
    >
-   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe te [ de resultaten van de filter Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
+   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe te [&#x200B; de resultaten van de filter Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
 
 1. Klik op een **[!UICONTROL ID]** om meer details over die bepaalde activiteit weer te geven.
 
@@ -35,8 +35,8 @@ Wilt u een einde zien aan alles wat er in een slimme campagne is gebeurd? Zo gaa
    >
    >Persoonsgegevens weergeven door op de naam van de persoon te klikken.
 
-   Dig in de resultaten om te zien wat uw campagne eigenlijk deed, of eenvoudig [ de slimme resultaten van de Campagne van de uitvoer naar Excel ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Dig in de resultaten om te zien wat uw campagne eigenlijk deed, of eenvoudig [&#x200B; de slimme resultaten van de Campagne van de uitvoer naar Excel &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >[ de Slimme Resultaten van de Campagne van de Filter Slimme ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}
+   >[&#x200B; de Slimme Resultaten van de Campagne van de Filter Slimme &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}
