@@ -108,5 +108,5 @@ Als de nieuwe Marketo-rol van de chatgebruiker nog geen [!DNL Dynamic Chat] -mac
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Gebruikers van Adobe Admin Console &#x200B;](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
->* [&#x200B; beheert Individueel Gebruikers &#x200B;](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [&#x200B; de Gebruikers van Adobe Admin Console &#x200B;](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
+>* [&#x200B; beheert Individueel Gebruikers &#x200B;](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}

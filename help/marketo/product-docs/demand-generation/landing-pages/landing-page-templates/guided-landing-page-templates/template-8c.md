@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 8C {#template-8c}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 8C &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 8C &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=nl-NL)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 8C.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
+[&#x200B; Malplaatje 8C.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=nl-NL)

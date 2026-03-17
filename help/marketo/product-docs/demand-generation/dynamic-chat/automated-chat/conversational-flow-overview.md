@@ -82,7 +82,7 @@ In de onderste helft van het lusje van Montages, pas de trekker van de Gesprek a
 
 >[!TIP]
 >
->Zie [&#x200B; Conversations SDK &#x200B;](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in actie!
+>Zie [&#x200B; Conversations SDK &#x200B;](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=nl-NL){target="_blank"} in actie!
 
 >[!MORELIKETHIS]
 >

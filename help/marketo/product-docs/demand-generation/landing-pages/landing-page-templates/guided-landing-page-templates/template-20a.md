@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 20A {#template-20a}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 20A &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 20A &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=nl-NL)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 20A.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+[&#x200B; Malplaatje 20A.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=nl-NL)

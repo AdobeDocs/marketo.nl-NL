@@ -16,7 +16,7 @@ Interactieve webinars in Marketo Sales Insight maken de activiteiten van uw webi
 
 >[!PREREQUISITES]
 >
->Deze eigenschap wordt slechts gesteund voor degenen die de [&#x200B; toe:voegen-op van de Verkoop Insight van 0&rbrace; hebben gekocht.](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html)
+>Deze eigenschap wordt slechts gesteund voor degenen die de [&#x200B; toe:voegen-op van de Verkoop Insight van 0&rbrace; hebben gekocht.](https://business.adobe.com/nl/products/marketo/sales-intelligence-engagement.html)
 
 Nadat de activiteiten in Marketo Engage zijn geregistreerd (nadat het webinar in Adobe Connect is voltooid), worden ze in real-time gesynchroniseerd met Salesforce via de MSI-plug-in.
 
