@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: Een formulier instellen voor een pagina met dank aan u - Marketo Docs - Productdocumentatie
+description: Leer hoe u een pagina voor bedankt instelt in Marketo. Verstuur verzenders naar een specifieke pagina of URL nadat ze het formulier hebben verzonden.
 title: Een pagina voor bedankt formulier instellen
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---

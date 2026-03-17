@@ -1,11 +1,11 @@
 ---
-description: Reactiebibliotheek - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Response Library for Generative AI in Dynamic Chat beheert. Voeg vragen en antwoorden voor chatcampagnes toe, bewerk deze en keur ze goed.
 title: Responsbibliotheek
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -56,12 +56,12 @@ In één plaats, bekijk al uw vragen, hun goedkeuringsstatus, en de taaknaam/het
 
 ## Vragen/antwoorden bulksgewijs bewerken en uploaden {#bulk-edit-and-upload-questions-responses}
 
-De instructies op hoe te om bulkuitgeeft in het [&#x200B; gedownloade dossier van Excel &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} te maken zijn hieronder. Ze kunnen ook worden weergegeven op het tabblad Taakdetails van het bestand.
+De instructies op hoe te om bulkuitgeeft in het [ gedownloade dossier van Excel ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} te maken zijn hieronder. Ze kunnen ook worden weergegeven op het tabblad Taakdetails van het bestand.
 
 <table>
 <thead>
   <tr>
-    <th>Handeling</th>
+    <th>Actie</th>
     <th>Instructies</th>
   </tr>
 </thead>

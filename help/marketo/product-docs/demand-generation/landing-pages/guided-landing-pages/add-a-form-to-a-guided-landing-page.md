@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515107
-description: Een formulier toevoegen aan een bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
+description: Leer hoe u een formulier toevoegt aan een bestemmingspagina met instructies in Marketo. Voeg een formulierelement in en kies uw Marketo-formulier.
 title: Een formulier toevoegen aan een bestemmingspagina met instructies
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Geleide Openende Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[ creeer een Geleide Openende Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
@@ -57,4 +57,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Nu sluit enkel de het landen paginaredacteur en [&#x200B; keurt het het landen paginaontwerp &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed.
+Nu sluit enkel de het landen paginaredacteur en [ keurt het het landen paginaontwerp ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed.

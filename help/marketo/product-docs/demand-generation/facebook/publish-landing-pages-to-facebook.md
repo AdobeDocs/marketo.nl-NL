@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359823
-description: Openingspagina's publiceren naar Facebook - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo-bestemmingspagina's naar Facebook kunt publiceren. Deel bestemmingspagina-inhoud als Facebook-berichten voor uw publiek.
 title: Openingspagina's op Facebook publiceren
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---

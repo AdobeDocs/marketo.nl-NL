@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096683
-description: ON24 Updates voor gebeurtenisregistratie - Marketo Docs - Productdocumentatie
+description: Meer informatie over ON24-updates voor gebeurtenisregistratie en over hoe ze synchroniseren met Marketo. Personen- en programmastatus synchroon houden wanneer registratie wordt gewijzigd.
 title: ON24 Updates voor gebeurtenisregistratie
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Marketo haalt de aanwezigheidsinformatie elke nacht automatisch om 11 uur &#39;s
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

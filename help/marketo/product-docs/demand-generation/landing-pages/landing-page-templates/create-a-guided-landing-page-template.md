@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515401
-description: Een sjabloon voor een bestemmingspagina met instructies maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een sjabloon voor een geleide bestemmingspagina maakt in Marketo. De syntaxis van het gebruik om editable gebieden en variabelen voor de geleide redacteur te bepalen.
 title: Een sjabloon voor een bestemmingspagina met instructies maken
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1122'
+source-wordcount: '1135'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Elementen worden gedeclareerd door een normaal DOM-element aan de sjabloon toe t
 
 ## Tekst {#text}
 
-Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [&#x200B; kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [ kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Vereiste kenmerken:
 **klasse**: &quot;mktoText&quot;

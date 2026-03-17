@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515069
-description: Elementen en variabelen begrijpen in Begeleide sjablonen - Marketo Docs - Productdocumentatie
+description: Meer informatie over elementen en variabelen in sjablonen voor Marketo-bestemmingspagina's met instructies. Definieer wat bewerkbaar is en hoe inhoud wordt geplaatst.
 title: Elementen en variabelen in Geleide sjablonen begrijpen
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Wanneer u een geleide het landen pagina uitgeeft, zullen de elementen verschijne
 * ![—](assets/image2015-5-20-12-3a30-3a48.png) Afbeelding
 * ![—](assets/image2015-5-20-12-3a31-3a33.png) Vorm van Marketo
 * ![—](assets/image2015-5-20-12-3a41-3a21.png) Tekst
-* ![&#x200B; -](assets/image2015-5-20-12-3a42-3a47.png) Video
-* ![&#x200B; -](assets/image2015-5-20-12-3a44-3a17.png) Knoop van het Aandeel Marketo
-* ![&#x200B; -](assets/image2015-5-20-12-3a43-3a21.png) Opiniepeiling van Marketo
+* ![ -](assets/image2015-5-20-12-3a42-3a47.png) Video
+* ![ -](assets/image2015-5-20-12-3a44-3a17.png) Knoop van het Aandeel Marketo
+* ![ -](assets/image2015-5-20-12-3a43-3a21.png) Opiniepeiling van Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png) Verwijzing van Marketo
-* ![&#x200B; -](assets/image2015-5-20-12-3a44-3a40.png) de Kuipstaken van Marketo
-* ![&#x200B; -](assets/image2015-5-20-12-3a47-3a45.png) het Fragment van Marketo
+* ![ -](assets/image2015-5-20-12-3a44-3a40.png) de Kuipstaken van Marketo
+* ![ -](assets/image2015-5-20-12-3a47-3a45.png) het Fragment van Marketo
 
 ## Variabelen {#variables}
 
@@ -60,4 +60,4 @@ Er zijn drie typen variabelen: tekenreeksvariabelen, kleurvariabelen en Booleaan
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Geleide het Landen Malplaatje van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+>[ creeer een Geleide het Landen Malplaatje van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)

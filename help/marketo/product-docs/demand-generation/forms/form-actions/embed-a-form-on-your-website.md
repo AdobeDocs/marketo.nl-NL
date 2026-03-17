@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359641
-description: Een formulier insluiten op uw website - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Marketo-formulier op uw website insluit. Hiermee wordt de insluitcode opgehaald en het formulier aan een webpagina toegevoegd.
 title: Een formulier insluiten op uw website
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Geef nu gewoon de insluitcode aan uw webontwikkelaar en laat deze deze toevoegen
 
 >[!NOTE]
 >
->Als uw ontwikkelaar de blik of toegang geavanceerde API functies wil aanpassen, hen tonen [&#x200B; Forms 2.0 de Pagina van Ontwikkelaars &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+>Als uw ontwikkelaar de blik of toegang geavanceerde API functies wil aanpassen, hen tonen [ Forms 2.0 de Pagina van Ontwikkelaars ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
-Geweldig werk! Wilt u [&#x200B; code inbedden om lichtbakcode &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) te omvatten? Dat is ook makkelijk!
+Geweldig werk! Wilt u [ code inbedden om lichtbakcode ](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) te omvatten? Dat is ook makkelijk!

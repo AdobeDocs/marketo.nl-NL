@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097969
-description: Een landingspaginasjabloon in vrije vorm maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een sjabloon voor een landingspagina met vrije vorm maakt in Marketo. Bouw een herbruikbare malplaatje in de Studio van het Ontwerp voor toekomstige het landen pagina's.
 title: Een sjabloon voor vrije bestemmingspagina maken
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; creeer een Vrije-Vorm het Landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >* [&#x200B; creeer een Geleide het Landen Malplaatje van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-   >* [&#x200B; Begrijpend Vrije-vorm vs Geleide het Landen Pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+   >* [ creeer een Vrije-Vorm het Landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [ creeer een Geleide het Landen Malplaatje van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [ Begrijpend Vrije-vorm vs Geleide het Landen Pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

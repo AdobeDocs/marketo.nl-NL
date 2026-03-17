@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949777
-description: Gebeurtenispartners - Marketo Docs - Productdocumentatie
+description: Meer informatie over gebeurtenispartners in Marketo. Begrijp gesteunde webinar en gebeurtenisplatforms en hoe zij met Marketo integreren.
 title: Gebeurtenispartners
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

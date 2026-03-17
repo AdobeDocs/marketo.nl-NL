@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359742
-description: Een prestatierapport voor landingspagina filteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een prestatierapport voor een openingspagina filtert in Marketo. Versmalde resultaten op datum, pagina, of andere criteria.
 title: Een prestatierapport voor de bestemmingspagina filteren
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Een prestatierapport voor de bestemmingspagina filteren {#filter-a-landing-page-performance-report}
 
-Focus uw [&#x200B; het landen rapport van de paginaprestaties &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in [!UICONTROL Design Studio] (globale activa), of op die die zijn gearchiveerd.
+Focus uw [ het landen rapport van de paginaprestaties ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in [!UICONTROL Design Studio] (globale activa), of op die die zijn gearchiveerd.
 
 1. Ga naar **[!UICONTROL Analytics]** (of **[!UICONTROL Marketing Activities]** ).
 

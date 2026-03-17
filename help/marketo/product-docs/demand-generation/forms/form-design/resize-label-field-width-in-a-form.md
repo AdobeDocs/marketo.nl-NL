@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359604
-description: Formaat van label/veldbreedte wijzigen in een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u label en veldbreedte kunt vergroten of verkleinen in een Marketo-formulier. Pas de breedte van labels en invoergebieden aan.
 title: De grootte van Label/veldbreedte in een formulier wijzigen
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Er zijn twee manieren om zowel de breedte van het veldlabel als de breedte zelf 
 
 ## De breedte slepen en neerzetten {#drag-and-drop-the-width}
 
-1. In de [&#x200B; vormredacteur &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecteer het gebied u resize.
+1. In de [ vormredacteur ](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), selecteer het gebied u resize.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 

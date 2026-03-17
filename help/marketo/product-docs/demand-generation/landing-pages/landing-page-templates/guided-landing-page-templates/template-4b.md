@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783903
-description: Template 4B - Marketo-documenten - Productdocumentatie
+description: Leer meer over het sjabloon voor de geleide landingspagina van sjabloon 4B. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Sjabloon 4B
 exl-id: cb4b3632-de12-4f99-a2ce-e52f286f6a35
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 4B {#template-4b}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 4B &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 4B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 4B.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=nl-NL)
+[ Malplaatje 4B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)

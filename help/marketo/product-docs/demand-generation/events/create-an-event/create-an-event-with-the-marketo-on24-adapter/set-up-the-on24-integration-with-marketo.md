@@ -1,11 +1,11 @@
 ---
-description: De ON24-integratie instellen met Marketo - Marketo Docs - Productdocumentatie
+description: Leer hoe u de ON24-integratie met Marketo instelt. Sluit uw ON24-account aan zodat u webinars en registratiegegevens kunt synchroniseren.
 title: De ON24-integratie met Marketo instellen
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '216'
 ht-degree: 1%
 
 ---
@@ -64,7 +64,7 @@ Hier is hoe te opstelling uw ON24 gebeurtenisintegratie.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Kies een [!UICONTROL display name] . Klik op de vervolgkeuzelijst **[!UICONTROL Service]** en selecteer **[!UICONTROL Custom]** . Voer een [!UICONTROL description] in. Klik [!UICONTROL API Only User] drop-down en selecteer de gebruiker u [&#x200B; in de stappen hierboven &#x200B;](#create-a-new-user) creeerde. Klik op **[!UICONTROL Create]**.
+1. Kies een [!UICONTROL display name] . Klik op de vervolgkeuzelijst **[!UICONTROL Service]** en selecteer **[!UICONTROL Custom]** . Voer een [!UICONTROL description] in. Klik [!UICONTROL API Only User] drop-down en selecteer de gebruiker u [ in de stappen hierboven ](#create-a-new-user) creeerde. Klik op **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -84,4 +84,4 @@ Hier is hoe te opstelling uw ON24 gebeurtenisintegratie.
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. Navigeer met uw opgeslagen client-id, clientgeheim en identiteit naar uw ON24-account. De rest stappen worden daar uitgevoerd, en kunnen in de [&#x200B; documentatie ON24 &#x200B;](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"} worden gevonden.
+1. Navigeer met uw opgeslagen client-id, clientgeheim en identiteit naar uw ON24-account. De rest stappen worden daar uitgevoerd, en kunnen in de [ documentatie ON24 ](https://support.on24.com/hc/en-us/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"} worden gevonden.

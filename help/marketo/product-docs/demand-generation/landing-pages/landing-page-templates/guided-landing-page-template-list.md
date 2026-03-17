@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7515616
-description: Sjabloonlijst met geleide landingspagina - Marketo Docs - Productdocumentatie
+description: Meer informatie over de sjabloonlijst voor geleide landingspagina's in Marketo. Blader naar sjablonen voor uw bestemmingspagina's en download deze.
 title: Sjabloonlijst met geleide landingspagina
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
 # Sjabloonlijst met geleide landingspagina {#guided-landing-page-template-list}
 
-Blader onze inzameling van voorbeeldmalplaatjes, voor gebruik met de [&#x200B; Geleide Begeleidende Redacteur van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon reageert volledig en is gebaseerd op het Bootstrap-kader.
+Blader onze inzameling van voorbeeldmalplaatjes, voor gebruik met de [ Geleide Begeleidende Redacteur van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon reageert volledig en is gebaseerd op het Bootstrap-kader.
 
 >[!NOTE]
 >

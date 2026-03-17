@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359736
-description: Een koppeling toevoegen aan een gratis landingpagina-afbeelding - Marketo Docs - Productdocumentatie
+description: Leer hoe u een koppeling naar een afbeelding toevoegt op een landingspagina in een vrije vorm in Marketo. Maak de afbeelding klikbaar aan een URL.
 title: Voeg een Verbinding aan een Vrije Vorm het Bestaan Beeld van de Pagina toe
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg een Beeld aan een Vrije-Vorm het Landen Pagina toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[ voeg een Beeld aan een Vrije-Vorm het Landen Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >

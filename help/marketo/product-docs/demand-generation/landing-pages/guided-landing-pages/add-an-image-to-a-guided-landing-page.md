@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515027
-description: Afbeelding toevoegen aan een bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
+description: Leer hoe u een afbeelding toevoegt aan een bestemmingspagina met instructies in Marketo. Afbeeldingselementen in de sjabloon invoegen en configureren.
 title: Een afbeelding toevoegen aan een bestemmingspagina met instructies
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide l
 
    >[!NOTE]
    >
-   >De manier waarop de afbeeldingsgrootte wordt gewijzigd, is afhankelijk van de sjabloon. Leer meer over [&#x200B; Geleide Begeleidende Malplaatjes van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >De manier waarop de afbeeldingsgrootte wordt gewijzigd, is afhankelijk van de sjabloon. Leer meer over [ Geleide Begeleidende Malplaatjes van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 

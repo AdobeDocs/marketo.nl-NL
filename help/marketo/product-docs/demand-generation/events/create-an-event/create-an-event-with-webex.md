@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949863
-description: Een gebeurtenis maken met  [!DNL Webex]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u een gebeurtenis maakt met Webex in Marketo. Configureer de Webex-integratie en synchroniseer gebeurtenis- of vergaderingsgegevens met Marketo.
 title: Een gebeurtenis maken met  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Nadat u een webinar in Webex creeert, zult u uw gebeurtenis met Marketo Engage m
 
 >[!PREREQUISITES]
 >
->* [&#x200B; voeg  [!DNL Webex]  als a [!DNL LaunchPoint]  Dienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md) toe
->* [&#x200B; creeer een Nieuw Programma van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Plaats de aangewezen [&#x200B; stroomacties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
+>* [ voeg  [!DNL Webex]  als a [!DNL LaunchPoint]  Dienst ](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md) toe
+>* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
 ## Uw webinar plannen {#schedule-your-webinar}
 
-U plant uw gebeurtenis en kiest uw aangewezen montages in [&#x200B; Webex &#x200B;](https://www.webex.com/){target="_blank"}. Alleen de volgende informatie kan in Marketo worden weergegeven: naam webinar, begin-/einddatum en -tijd, tijdzone en beschrijving. De extra informatie over Webex Webinars [&#x200B; kan hier &#x200B;](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"} worden gevonden.
+U plant uw gebeurtenis en kiest uw aangewezen montages in [ Webex ](https://www.webex.com/){target="_blank"}. Alleen de volgende informatie kan in Marketo worden weergegeven: naam webinar, begin-/einddatum en -tijd, tijdzone en beschrijving. De extra informatie over Webex Webinars [ kan hier ](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"} worden gevonden.
 
 ### Basisinformatie {#basic-information}
 
@@ -79,7 +79,7 @@ U plant uw gebeurtenis en kiest uw aangewezen montages in [&#x200B; Webex &#x200
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar** zijn.
 
-1. In de **drop-down Van de Partner van de Gebeurtenis 0&rbrace;, uitgezochte** Webex Webinars **.**
+1. In de **drop-down Van de Partner van de Gebeurtenis 0}, uitgezochte** Webex Webinars **.**
 
    ![](assets/create-an-event-with-webex-6.png)
 

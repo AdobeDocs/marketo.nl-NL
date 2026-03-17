@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359654
-description: De taal van een formulier wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de taal van een Marketo-formulier wijzigt. Geef formulierlabels en berichten weer in een andere taal voor uw publiek.
 title: De taal van een formulier wijzigen
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Leer hoe u de taal van uw formulier kunt wijzigen.
 
 >[!IMPORTANT]
 >
->Als u de stappen in dit artikel volgt, worden de taal van de Marketo-standaardvelden gewijzigd, evenals de tekst die wordt gebruikt in het label Knop Verzenden. Het zal niet [&#x200B; douanegebieden &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} vertalen.
+>Als u de stappen in dit artikel volgt, worden de taal van de Marketo-standaardvelden gewijzigd, evenals de tekst die wordt gebruikt in het label Knop Verzenden. Het zal niet [ douanegebieden ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} vertalen.
 
 1. Ga naar **de Marketing Activiteiten**.
 
@@ -53,7 +53,7 @@ Leer hoe u de taal van uw formulier kunt wijzigen.
 
    >[!TIP]
    >
-   >Herinner me om [&#x200B; goed te keuren het het Landing van Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ontwerp dat door de vormveranderingen wordt gecreeerd.
+   >Herinner me om [ goed te keuren het het Landing van Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) ontwerp dat door de vormveranderingen wordt gecreeerd.
 
 Het formulier weerspiegelt nu de taal die u hebt geselecteerd.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359614
-description: Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u waarden definieert in een keuzerondje of vervolgkeuzelijst in een Marketo-formulier. Stel de opties in waarvan bezoekers kunnen kiezen.
 title: Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
 
 # Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Zodra u [&#x200B; een gebiedstype &#x200B;](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt geplaatst om een radioknoop te zijn of type te selecteren, zult u de waarden willen bepalen de gebruiker van kan kiezen. Zo gaat het.
+Zodra u [ een gebiedstype ](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt geplaatst om een radioknoop te zijn of type te selecteren, zult u de waarden willen bepalen de gebruiker van kan kiezen. Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

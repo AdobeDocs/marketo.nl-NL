@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359862
-description: Geüploade afbeeldingen en bestanden doorzoeken - Marketo Docs - Productdocumentatie
+description: Leer hoe u geüploade afbeeldingen en bestanden kunt zoeken in Marketo. Zoek snel middelen in de Studio van het Ontwerp door naam of filters.
 title: Geüploade afbeeldingen en bestanden doorzoeken
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Leer hoe u naar een afbeelding of bestand zoekt.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; vervangt een Geüploade Beeld of Dossier &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
->* [&#x200B; organiseer Uw Beelden en Dossiers gebruikend Omslagen &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+>* [ vervangt een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [ organiseer Uw Beelden en Dossiers gebruikend Omslagen ](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949966
-description: Een land-pluklijst toevoegen aan uw formulier - Marketo-documenten - Productdocumentatie
+description: Leer hoe u een keuzelijst met landen toevoegt aan uw Marketo-formulier. Geef bezoekers een vervolgkeuzelijst om hun land te selecteren.
 title: Een lijst met landen toevoegen aan uw formulier
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -77,4 +77,4 @@ Waarom niet meer doen, aangezien dat zo makkelijk was? Hoe zit het met het dynam
 
 >[!MORELIKETHIS]
 >
->[&#x200B; dynamisch Zichtbaarheid van een Gebied van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+>[ dynamisch Zichtbaarheid van een Gebied van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)

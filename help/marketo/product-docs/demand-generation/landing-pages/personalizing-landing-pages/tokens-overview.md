@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950799
-description: Overzicht van tokens - Marketo Docs - Productdocumentatie
+description: Meer informatie over tokens voor het aanpassen van Marketo-landingspagina's. Gebruik tokens om dynamische inhoud in te voegen en de ervaring aan te passen.
 title: Overzicht van tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -122,7 +122,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 >[!NOTE]
 >
->Leer meer over deze tokens in de [&#x200B; Verklarende woordenlijst van de Tokens van het Systeem &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Leer meer over deze tokens in de [ Verklarende woordenlijst van de Tokens van het Systeem ](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 >[!NOTE]
 >
->Vind meer details over [&#x200B; tekenen voor interessante momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) die op trekkers worden gebaseerd in een slimme campagne worden gebruikt.
+>Vind meer details over [ tekenen voor interessante momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) die op trekkers worden gebaseerd in een slimme campagne worden gebruikt.
 
 ## Programmatokens {#program-tokens}
 
@@ -159,7 +159,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 ## [!UICONTROL My Tokens] {#my-tokens}
 
-[!UICONTROL My Tokens] worden gedefinieerd in een programma en beginnen met `{{my.` gevolgd door de naam die u voor het token hebt gemaakt. Leer meer over [&#x200B; Mijn Tokens in een programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL My Tokens] worden gedefinieerd in een programma en beginnen met `{{my.` gevolgd door de naam die u voor het token hebt gemaakt. Leer meer over [ Mijn Tokens in een programma ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Member Token {#member-token}
 

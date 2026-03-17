@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359710
-description: Een bestemmingspagina goedkeuren, goedkeuren of verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een bestemmingspagina in Marketo goedkeurt, goedkeurt of verwijdert. Bepaal welke pagina's live zijn en verwijder de pagina's die u niet meer nodig hebt.
 title: Een bestemmingspagina goedkeuren, goedkeuren of verwijderen
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ De bestemmingspagina&#39;s zijn in ontwerpwijze tot u hen goedkeurt. Met Goedkeu
 
    >[!TIP]
    >
-   >U hebt de capaciteit om veelvoudige pagina&#39;s in één keer [&#x200B; goed te keuren indien gewenst.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
+   >U hebt de capaciteit om veelvoudige pagina&#39;s in één keer [ goed te keuren indien gewenst.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)
 
 U kunt ook met de rechtermuisknop op de landingspagina in de linkernavigatiebalk klikken en **[!UICONTROL Approve]** selecteren.
 
@@ -45,7 +45,7 @@ U kunt ook met de rechtermuisknop op de landingspagina in de linkernavigatiebalk
 
 >[!NOTE]
 >
->Uw niet-goedgekeurde bestemmingspagina wordt niet meer gepubliceerd op het web en genereert geen extra activiteiten. De bezoekers aan niet goedgekeurde het Bestaan Pagina&#39;s en hun Lusjes Facebook zullen de [&#x200B; Pagina van de Terugval &#x200B;](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) zien.
+>Uw niet-goedgekeurde bestemmingspagina wordt niet meer gepubliceerd op het web en genereert geen extra activiteiten. De bezoekers aan niet goedgekeurde het Bestaan Pagina&#39;s en hun Lusjes Facebook zullen de [ Pagina van de Terugval ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) zien.
 
 ## Een bestemmingspagina verwijderen {#delete-a-landing-page}
 

@@ -1,11 +1,11 @@
 ---
-description: Interactieve webinars - Overzicht van Marketo Docs - Productdocumentatie
+description: Meer informatie over interactieve webinars in Marketo voor live en on-demand betrokkenheid. Webinars maken, ontwerpen en leveren met ingebouwde tools voor betrokkenheid.
 title: Overzicht van interactieve webinars
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ De functie Interactieve webinars is ons ingebouwde webinar platform in Marketo E
 
 >[!IMPORTANT]
 >
->Interactieve webinars met Adobe Connect is een functie met ingebouwde integratie in Adobe Connect. Voor het gebruik van interactieve webinars gelden aanvullende voorwaarden. Gelieve te herzien uw contract of [&#x200B; contact Adobe &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om over de extra termijnen en voorwaarden te vragen.
+>Interactieve webinars met Adobe Connect is een functie met ingebouwde integratie in Adobe Connect. Voor het gebruik van interactieve webinars gelden aanvullende voorwaarden. Gelieve te herzien uw contract of [ contact Adobe ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om over de extra termijnen en voorwaarden te vragen.
 
 ## Wat is Interactieve Webinars? {#what-is-interactive-webinars}
 
-Interactieve webinars verbeteren de bestaande gebeurtenissen en webinars door u een native en naadloze ervaring te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Wanneer u [&#x200B; een Interactief Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"} creeert, zijn de veelvoudige prebuilt vergaderingsmalplaatjes beschikbaar om van te kiezen, die allen aanpasbaar zijn (u kunt douanesjablonen ook creëren en gebruiken). Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
+Interactieve webinars verbeteren de bestaande gebeurtenissen en webinars door u een native en naadloze ervaring te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Wanneer u [ een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"} creeert, zijn de veelvoudige prebuilt vergaderingsmalplaatjes beschikbaar om van te kiezen, die allen aanpasbaar zijn (u kunt douanesjablonen ook creëren en gebruiken). Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
 
-Interactieve Webinars biedt [&#x200B; drie verschillende vergunningen &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"} aan, elk met diverse functies en capaciteiten.
+Interactieve Webinars biedt [ drie verschillende vergunningen ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"} aan, elk met diverse functies en capaciteiten.
 
-Na webinar, toegang [&#x200B; analyses van de gebeurtenisprestaties &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} via rapporten en dashboards die lood en gezamenlijke betrokkenheidsgegevens bevatten. Met interactieve Webinar-specifieke filters en triggers kunt u specifieke groepen mensen zoeken die specifieke handelingen hebben uitgevoerd (door bijvoorbeeld op een koppeling te klikken, een element te downloaden en meer).
+Na webinar, toegang [ analyses van de gebeurtenisprestaties ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} via rapporten en dashboards die lood en gezamenlijke betrokkenheidsgegevens bevatten. Met interactieve Webinar-specifieke filters en triggers kunt u specifieke groepen mensen zoeken die specifieke handelingen hebben uitgevoerd (door bijvoorbeeld op een koppeling te klikken, een element te downloaden en meer).
 
 ## Veelgestelde vragen {#faq}
 
@@ -54,7 +54,7 @@ Als het veld &quot;voornaam&quot; van de lead leeg is, kunnen ze zich niet regis
 
 **ik ervaart audio/videokwesties wanneer het voorstellen van een webinar terwijl de toegang tot van VPN van mijn organisatie. Wat doe ik?**
 
-Adobe Connect, het leveringsplatform van Interactive Webinars, gebruikt WebRTC voor audio/video/scherm-delen. Het is waarschijnlijk de het netwerkfirewall van uw organisatie blokkeert de IP adressen/de havens die wij voor WebRTC-Gebaseerde mededeling gebruiken. Uw team van IT moet deze havens voor WebRTC toestaan om te werken. [&#x200B; leer meer &#x200B;](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+Adobe Connect, het leveringsplatform van Interactive Webinars, gebruikt WebRTC voor audio/video/scherm-delen. Het is waarschijnlijk de het netwerkfirewall van uw organisatie blokkeert de IP adressen/de havens die wij voor WebRTC-Gebaseerde mededeling gebruiken. Uw team van IT moet deze havens voor WebRTC toestaan om te werken. [Meer info](https://helpx.adobe.com/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **zijn mijn Interactieve automatisch geregistreerde Webinars?**
 

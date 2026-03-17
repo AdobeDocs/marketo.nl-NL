@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438191
-description: Template 17A - Marketo Docs - Productdocumentatie
+description: Meer informatie over de sjabloon voor de sjabloon Sjabloon 17A met instructies-landingspagina. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Sjabloon 17A
 exl-id: 279fcad2-7c91-4898-9d5d-e83fcb8492af
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 17A {#template-17a}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 17A &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 17A ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)
 
 ![](assets/image2015-8-17-15-3a13-3a9.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 17A.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html?lang=nl-NL)
+[ Malplaatje 17A.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17a.html)

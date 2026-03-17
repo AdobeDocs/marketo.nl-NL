@@ -1,11 +1,11 @@
 ---
-description: Een interactief webinar testen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een interactief webinar test voordat u live gaat. Controleren of de registratie-, inhoud- en betrokkenheidsgereedschappen naar behoren werken.
 title: Een interactief webinar testen
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Bij interactieve webinars wordt Adobe Connect gebruikt als een webinar-provider.
 
 Elke interactieve webinar kan als testwebinar worden gebruikt. De test kan worden uitgevoerd door maximaal 10 gastheren en presentatoren (deelnemers) toe te voegen.
 
-Het werkschema om een testwebinar tot stand te brengen blijft het zelfde als [&#x200B; creërend om het even welk ander webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) in termen van het Interactieve Programma van de Gebeurtenis Webinar. Aanbevolen wordt de datum die voor levering is gekozen, in de toekomst te bepalen.
+Het werkschema om een testwebinar tot stand te brengen blijft het zelfde als [ creërend om het even welk ander webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) in termen van het Interactieve Programma van de Gebeurtenis Webinar. Aanbevolen wordt de datum die voor levering is gekozen, in de toekomst te bepalen.
 
 >[!CAUTION]
 >

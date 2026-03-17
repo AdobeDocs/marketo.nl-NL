@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359703
-description: Een afbeelding toevoegen aan een openstaande landingspagina - Marketo Docs - Productdocumentatie
+description: Leer hoe u een afbeelding toevoegt aan een landingspagina in vrije vorm in Marketo. Voeg afbeeldingen in en plaats deze vanuit de Design Studio.
 title: Een afbeelding toevoegen aan een openingspagina
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[&#x200B; voegt Beelden en Dossiers aan Marketo &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toe
+>[ voegt Beelden en Dossiers aan Marketo ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md) toe
 
 1. Selecteer de landingspagina van de vrije vorm en klik op **[!UICONTROL Edit Draft]** .
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512328
-description: Een gebeurtenis maken met  [!DNL Level 3 Web Meeting]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u een gebeurtenis maakt met Level 3 Web Meeting in Marketo. De integratie en synchronisatie van webvergaderingen met Marketo instellen.
 title: Een gebeurtenis maken met  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; voeg  [!DNL Level 3 Web Meeting]  als a [!DNL LaunchPoint]  Dienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md) toe
->* [&#x200B; creeer een Nieuw Programma van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Plaats de aangewezen [&#x200B; stroomacties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
+>* [ voeg  [!DNL Level 3 Web Meeting]  als a [!DNL LaunchPoint]  Dienst ](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md) toe
+>* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
-Maak eerst uw webinar in [!DNL Level 3] . Als u hulp nodig hebt, controleer de [[!DNL Level 3]  Bibliotheek van het Middel &#x200B;](https://www.level3.com/en/resource-library/). U zult vinden het om zeer gelijkaardig aan [!DNL BrightTalk] te zijn.  Marketo gebruikt een kleine subset van [!DNL Level 3] -velden:
+Maak eerst uw webinar in [!DNL Level 3] . Als u hulp nodig hebt, controleer de [[!DNL Level 3]  Bibliotheek van het Middel ](https://www.level3.com/en/resource-library/). U zult vinden het om zeer gelijkaardig aan [!DNL BrightTalk] te zijn.  Marketo gebruikt een kleine subset van [!DNL Level 3] -velden:
 
 * **Naam** - de naam van webcast.
 * **Datum van het Begin** - de begindatum voor webcast.

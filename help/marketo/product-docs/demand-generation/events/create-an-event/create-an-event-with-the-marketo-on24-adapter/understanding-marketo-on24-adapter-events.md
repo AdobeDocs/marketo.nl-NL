@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096658
-description: Marketo On24-adaptergebeurtenissen - Marketo Docs - Productdocumentatie
+description: Lees meer over de Marketo ON24-adapter en hoe deze ON24-webinars verbindt met Marketo. Begrijp gebeurtenistypen en synchroniseer gedrag.
 title: Marketo On24-adaptergebeurtenissen
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Begin met [&#x200B; creeer een Gebeurtenis met de Adapter ON24 &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.
+Klaar om te beginnen? Begin met [ creeer een Gebeurtenis met de Adapter ON24 ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359590
-description: Een formulier bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een formulier kunt bewerken in Marketo. Open de formuliereditor om velden, instellingen of ontwerp te wijzigen.
 title: Een formulier bewerken
 exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -22,5 +22,3 @@ Als u wijzigingen wilt aanbrengen in een bestaand formulier, gaat u als volgt te
 1. Selecteer het formulier en klik op **[!UICONTROL Edit Form]** .
 
    ![](assets/editform.png)
-
-Eenvoudig!

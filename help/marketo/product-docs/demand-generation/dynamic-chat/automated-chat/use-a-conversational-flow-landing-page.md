@@ -1,12 +1,12 @@
 ---
-description: Een tegengestelde landingspagina voor stroom gebruiken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Conversational Flow insluit in een Marketo-landingspagina. Laat bezoekers vergaderingen door Dynamic Chat plannen zonder een formulier in te vullen.
 title: Een tegengestelde landingspagina voor stroom gebruiken
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Door een Dynamic Chat Conversational Flow rechtstreeks in te sluiten in een Mark
 
 >[!PREREQUISITES]
 >
->Creeer een eenvoudige [&#x200B; Conversationele Stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) die slechts a **het boeken van de Vergadering** kaart bevat.
+>Creeer een eenvoudige [ Conversationele Stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) die slechts a **het boeken van de Vergadering** kaart bevat.
 
 ## Aanvoerpagina&#39;s met instructies {#guided-landing-pages}
 

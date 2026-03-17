@@ -1,11 +1,11 @@
 ---
-description: Een interactief webinar maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een interactief webinar maakt in Marketo. Volg stappen aan opstelling uw webinar en vorm montages voor levende of op bestelling levering.
 title: Een interactief webinar maken
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 
    >[!CAUTION]
    >
-   >[&#x200B; de activa van het Bericht van de Duw van 0&rbrace; Mobiele &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} worden **niet gesteund in Interactieve Webinars.**
+   >[ de activa van het Bericht van de Duw van 0} Mobiele ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} worden **niet gesteund in Interactieve Webinars.**
 
 1. Geef het programma een naam. Onder Type van Programma, uitgezochte **Gebeurtenis**.
 
@@ -36,7 +36,7 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 
    >[!NOTE]
    >
-   >Om te zien welke Kanalen op _Gebeurtenis met Webinar_ van toepassing zijn, ga **Admin** > **Markeringen**. &quot;Van toepassing op&quot; moet de middelste kolom zijn. Leer meer over &quot;van toepassing is op&quot;in Stap 5 van [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Om te zien welke Kanalen op _Gebeurtenis met Webinar_ van toepassing zijn, ga **Admin** > **Markeringen**. &quot;Van toepassing op&quot; moet de middelste kolom zijn. Leer meer over &quot;van toepassing is op&quot;in Stap 5 van [ dit artikel ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 1. Kies **Interactieve Webinars** en klik **daarna**.
 
@@ -64,4 +64,4 @@ Maak een interactief webinar in een paar eenvoudige stappen.
 >
 >Het wordt aanbevolen twee opeenvolgende gebeurtenissen 30 minuten uit elkaar te houden (tenzij de licentie gelijktijdige webinars ondersteunt) als buffer voor het geval dat de vorige webinar langer dan de geplande tijd loopt.
 
-Nu, is het tijd aan [&#x200B; ontwerp uw webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Nu, is het tijd aan [ ontwerp uw webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.

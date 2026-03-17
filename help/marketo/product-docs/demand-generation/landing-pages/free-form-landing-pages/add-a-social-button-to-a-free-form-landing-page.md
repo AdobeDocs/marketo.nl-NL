@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359718
-description: Een sociale knop toevoegen aan een vrije bestemmingspagina - Marketo Docs - Productdocumentatie
+description: Leer hoe u een sociale knop toevoegt aan een landingspagina in vrije vorm in Marketo. Voeg deelknoppen of volgknoppen toe aan uw pagina.
 title: Een sociale knop toevoegen aan een vrije bestemmingspagina
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
 
    Zodra uw het landen pagina actief is, zie de activiteit die door uw _wordt geproduceerd sociale knoop (met Analytics) op het Sociale Dashboard_.
 
-   Als u a [!UICONTROL Like/Recommend Button (Lite)] in plaats daarvan toevoegt, zie het aantal aandelen in het [&#x200B; landende rapport van de paginaprestaties &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Als u a [!UICONTROL Like/Recommend Button (Lite)] in plaats daarvan toevoegt, zie het aantal aandelen in het [ landende rapport van de paginaprestaties ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
 1. Selecteer **[!UICONTROL Create New]** in de vervolgkeuzelijst.
 
@@ -51,9 +51,9 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
    >
    >Als u tijd wilt besparen, kunt u de optie **[!UICONTROL Clone From]** gebruiken om alle instellingen van een bestaande sociale knop te kopiëren.
 
-   [&#x200B; publiceer de het landen pagina aan Facebook &#x200B;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _zet de sociale knoop op uw website_
+   [ publiceer de het landen pagina aan Facebook ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _zet de sociale knoop op uw website_
 
-Gefeliciteerd! U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren.
+Gefeliciteerd. U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren.
 
 >[!MORELIKETHIS]
 >

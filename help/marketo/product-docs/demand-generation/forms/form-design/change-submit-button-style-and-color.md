@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359620
-description: De stijl en kleur van de knop Verzenden wijzigen - Marketo-documenten - Productdocumentatie
+description: Leer hoe u de stijl en kleur van verzendknoppen in een Marketo-formulier wijzigt. Stem de knop af op uw merk en ontwerp.
 title: De stijl en kleur van de knop Verzenden wijzigen
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '148'
 ht-degree: 2%
 
 ---

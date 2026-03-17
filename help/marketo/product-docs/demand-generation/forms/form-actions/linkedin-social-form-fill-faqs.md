@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: LinkedIn Veelgestelde vragen over sociale formulieren - Marketo Docs - Productdocumentatie
+description: Voor hulp bij LinkedIn sociale formulieren invullen met Marketo-formulieren. Hier vindt u antwoorden op veelgestelde vragen over de integratie van LinkedIn-formulieren.
 title: Veelgestelde vragen over LinkedIn sociale formulieren invullen
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,11 @@ Nee, deze gegevens zijn al opgeslagen in het persoonrecord in Marketo en zijn ni
 
 ## Waar kan ik meer informatie over het beleid van LinkedIn API vinden? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-Volg deze verbinding om meer over de veranderingen [!DNL LinkedIn] te leren die aan hun API beleid worden aangebracht: [&#x200B; https://developer.linkedin.com/blog/posts/2015/developer-program-changes &#x200B;](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+Volg deze verbinding om meer over de veranderingen [!DNL LinkedIn] te leren die aan hun API beleid worden aangebracht: [ https://developer.linkedin.com/blog/posts/2015/developer-program-changes ](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## Hoe kan ik contact opnemen met [!DNL LinkedIn] met vragen? {#how-can-i-contact-linkedin-with-questions}
 
-Volg deze verbinding aan contact [!DNL LinkedIn] over hun Oplossingen van de Marketing: [&#x200B; https://business.linkedin.com/marketing-solutions/contact-us &#x200B;](https://business.linkedin.com/marketing-solutions/contact-us)
+Volg deze verbinding aan contact [!DNL LinkedIn] over hun Oplossingen van de Marketing: [ https://business.linkedin.com/marketing-solutions/contact-us ](https://business.linkedin.com/marketing-solutions/contact-us)
 
 ## Als Marketo deze functie op 28 april uit mijn formulieren had verwijderd, werden mijn formulieren en de betreffende landingspagina&#39;s dan in de ontwerpmodus gezet? {#if-marketo-removed-this-functionality-from-my-forms-on-april-were-my-forms-and-the-affected-landing-pages-put-into-draft-mode}
 

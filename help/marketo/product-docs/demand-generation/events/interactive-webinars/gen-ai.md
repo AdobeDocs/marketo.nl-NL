@@ -1,11 +1,11 @@
 ---
-description: GenAI-functies - Marketo Docs - Productdocumentatie
+description: Meer informatie over GenAI-functies in Interactive Webinars. Gebruik AI om webinaire inhoud, samenvattingen of betrokkenheid te verbeteren.
 title: GenAI-functies
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Nadat u de Adobe GenAI-voorwaarden hebt geaccepteerd, kunt u deze nu inschakelen
 
    >[!NOTE]
    >
-   >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![&#x200B; duimen omhoog pictogram &#x200B;](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![&#x200B; duimen neer pictogram &#x200B;](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![&#x200B; pictogram van de Vlag &#x200B;](assets/icon-flag.png) te klikken.
+   >* Indien gewenst, kunt u de kwaliteit van de geproduceerde hoofdstukken/samenvatting met _duim-omhoog_ ![ duimen omhoog pictogram ](assets/icon-thumbs-up.png) of _duimen-onderaan_ ![ duimen neer pictogram ](assets/icon-thumbs-down.png) pictogrammen schatten. U kunt om het even welke problematische inhoud ook markeren door het vlagpictogram ![ pictogram van de Vlag ](assets/icon-flag.png) te klikken.
    >
    >* Als u niet tevreden bent met het eerste overzicht, kunt u op de knop **[!UICONTROL Regenerate summary]** klikken en wordt een andere versie gegenereerd.
 
@@ -80,7 +80,7 @@ Nadat u de Adobe GenAI-voorwaarden hebt geaccepteerd, kunt u deze nu inschakelen
 
 Nadat u de gewenste inhoud hebt gekopieerd, plakt u deze in de gewenste editor (bijvoorbeeld de Marketo Engage Landing Page Editor) en brengt u de gewenste wijzigingen aan.
 
-### Samenvatting {#summary}
+### Overzicht {#summary}
 
 **HTML van het Exemplaar** - klik de **[!UICONTROL Copy HTML]** knoop om alle tekst te krijgen, volledig met code die van HTML het binnen van een lijst formatteren.
 
@@ -104,7 +104,7 @@ De &quot;verbinding&quot;is de naam van het hoofdstuk, en de &quot;Web-pagina&qu
 
 >[!TIP]
 >
->Gebruik [&#x200B; beperkingen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om uw doelpubliek verder te verfijnen.
+>Gebruik [ beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} om uw doelpubliek verder te verfijnen.
 
 ## Notities {#things-to-note}
 

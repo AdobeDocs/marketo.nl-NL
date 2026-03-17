@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359701
-description: Een vrije bestemmingspagina maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een openstaande landingspagina maakt in Marketo. Maak de pagina als programmaelement of in Design Studio voor algemeen gebruik.
 title: Een vrije bestemmingspagina maken
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '167'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Lege bestemmingspagina&#39;s kunnen worden gemaakt als lokale elementen van een 
 
 >[!NOTE]
 >
->De modi van de bestemmingspagina worden bepaald door hun sjabloon. [&#x200B; leer meer &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) over vrije-vorm en geleide het landen paginasjablonen.
+>De modi van de bestemmingspagina worden bepaald door hun sjabloon. [ leer meer ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) over vrije-vorm en geleide het landen paginasjablonen.
 
 ## Een vrije bestemmingspagina maken in een programma {#create-a-free-form-landing-page-in-a-program}
 

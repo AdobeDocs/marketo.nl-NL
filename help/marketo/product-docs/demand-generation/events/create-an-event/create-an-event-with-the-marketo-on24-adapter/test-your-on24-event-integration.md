@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096677
-description: Test uw ON24-gebeurtenisintegratie - Marketo Docs - productdocumentatie
+description: Leer hoe u de integratie van ON24-gebeurtenissen met Marketo kunt testen. Verifieer dat de synchronisatie, de registratiestroom, en de statusupdates correct werken.
 title: ON24-gebeurtenisintegratie testen
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ Hieronder wordt beschreven hoe gegevens worden bijgewerkt nadat de gebeurtenis h
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Voorbeeld ON24 de Integratie van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
->* [&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [ Voorbeeld ON24 de Integratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

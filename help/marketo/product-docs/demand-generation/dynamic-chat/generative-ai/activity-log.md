@@ -1,11 +1,11 @@
 ---
-description: Activiteitenlogboek - Marketo-documenten - productdocumentatie
+description: Meer informatie over het logboek Generative AI-activiteit in Dynamic Chat. Alle taken, eigenaars, typen en historie op één plaats weergeven.
 title: Activiteitenlogboek
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---

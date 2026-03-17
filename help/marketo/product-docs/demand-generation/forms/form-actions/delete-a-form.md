@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359637
-description: Een formulier verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een formulier verwijdert in Marketo. Verwijder formulieren die u niet meer nodig hebt uit uw exemplaar.
 title: Een formulier verwijderen
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
 >[!CAUTION]
 >
->Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [&#x200B; archiverend het &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) in plaats daarvan.
+>Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [ archiverend het ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) in plaats daarvan.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383945
-description: Facebook Offline conversies - Marketo Docs - Productdocumentatie
+description: Meer informatie over offlineconversies van Facebook en hoe ze werken met Marketo. Begrijp hoe de omzettingsgegevens en prestaties verbeteren.
 title: Offlineconversies van Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -36,12 +36,12 @@ Facebook-campagnes voor advertenties genereren leads en sturen deze naar Marketo
 >
 >Zonder offline conversies zou de adverteerder waarschijnlijk meer geld investeren in advertentie 3. Met offlineconversiegegevens zal de adverteerder waarschijnlijker investeren in advertentie 1.
 
-U kunt [&#x200B; opstelling Offline Conversies van Facebook &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) offline en prestaties naar [!DNL Facebook] verzenden.
+U kunt [ opstelling Offline Conversies van Facebook ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) offline en prestaties naar [!DNL Facebook] verzenden.
 
-1. Zorg ervoor dat de [[!DNL Facebook] [!UICONTROL LaunchPoint] integratie &#x200B;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) up-to-date is.
+1. Zorg ervoor dat de [[!DNL Facebook] [!UICONTROL LaunchPoint] integratie ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) up-to-date is.
 1. Wijs fasen in uw model van de conjunctuurcyclus aan off-line omzettingsstadia op [!DNL Facebook] toe.
 1. Wanneer een [!DNL Facebook] -lead wordt gegenereerd vanuit een [!DNL Facebook] lead-advertentie en een toegewezen werkgebied bereikt, stuurt Marketo offline conversiegegevens een aantal keren per dag terug naar [!DNL Facebook] via een beveiligde, geautomatiseerde API. De gegevens worden weergegeven in het rapport [!DNL Facebook] Advertentiebeheer.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Offlineconversies van de opstelling  [!DNL Facebook]  &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[ Offlineconversies van de opstelling  [!DNL Facebook]  ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

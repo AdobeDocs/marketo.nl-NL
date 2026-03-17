@@ -1,11 +1,11 @@
 ---
-description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u Dynamic Chat-gebruikers in de Adobe Admin Console kunt toevoegen of verwijderen. Productprofielen toewijzen en toegang voor uw team beheren.
 title: Chatgebruikers toevoegen of verwijderen
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '247'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
 ## Chatgebruiker toevoegen {#add-a-chat-user}
 
-1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
@@ -78,7 +78,7 @@ Als de nieuwe Marketo-rol van de chatgebruiker nog geen [!DNL Dynamic Chat] -mac
 
 ## Een chatgebruiker verwijderen {#remove-a-chat-user}
 
-1. Login aan [&#x200B; Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Admin Console ](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-chat-users-12.png)
 
@@ -108,5 +108,5 @@ Als de nieuwe Marketo-rol van de chatgebruiker nog geen [!DNL Dynamic Chat] -mac
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Gebruikers van Adobe Admin Console &#x200B;](https://helpx.adobe.com/nl/enterprise/using/users.html){target="_blank"}
->* [&#x200B; beheert Individueel Gebruikers &#x200B;](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [ de Gebruikers van Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+>* [ beheert Individueel Gebruikers ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html){target="_blank"}

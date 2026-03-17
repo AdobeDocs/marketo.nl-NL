@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980661
-description: Voeg de Gelijke van de Klant van Google als a [!DNL LaunchPoint]  Dienst toe - de Documentatie van Marketo - de Documentatie van het Product
+description: Leer hoe u Google Customer Match toevoegt als een LaunchPoint-service. Stuur een Marketo-publiek naar Google voor doelversie op AdWords, YouTube, Search en Gmail.
 title: Voeg de Gelijke van de Klant van Google als a [!DNL LaunchPoint]  Dienst toe
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359728
-description: Hulplijnen gebruiken voor het ontwerpen van vrije bestemmingspagina's - Marketo Docs - Productdocumentatie
+description: Leer hoe u hulplijnen kunt gebruiken voor het ontwerpen van landingspagina's in vrije vorm in Marketo. Elementen uitlijnen en de layout consistent houden met hulplijnen.
 title: Hulplijnen gebruiken voor ontwerpen vrije bestemmingspagina
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

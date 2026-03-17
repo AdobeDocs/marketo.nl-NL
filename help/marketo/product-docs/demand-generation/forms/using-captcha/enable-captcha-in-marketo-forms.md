@@ -1,11 +1,11 @@
 ---
-description: CAPTCHA inschakelen in Marketo Forms - Marketo Docs - Productdocumentatie
+description: Leer hoe u CAPTCHA kunt inschakelen op Marketo-formulieren. Verminder spamverzendingen met reCAPTCHA of andere CAPTCHA-opties.
 title: CAPTCHA inschakelen in Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '97'
 ht-degree: 2%
 
 ---
@@ -46,4 +46,4 @@ Het kan een paar minuten duren voordat wijzigingen in deze lijst worden doorgevo
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Vestiging reCAPTCHA v3 &#x200B;](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
+>[ Vestiging reCAPTCHA v3 ](/help/marketo/product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)

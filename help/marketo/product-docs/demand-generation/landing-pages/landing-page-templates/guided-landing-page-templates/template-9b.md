@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783984
-description: Template 9B - Marketo-documenten - Productdocumentatie
+description: Meer informatie over de sjabloon voor de 9B-bestemmingspagina met instructies. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Template 9B
 exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Template 9B {#template-9b}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 9B &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 9B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)
 
 ![](assets/image2015-7-28-15-3a21-3a14.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 9B.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html?lang=nl-NL)
+[ Malplaatje 9B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html)

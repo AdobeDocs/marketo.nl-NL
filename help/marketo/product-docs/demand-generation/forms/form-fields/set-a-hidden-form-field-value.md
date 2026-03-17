@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359663
-description: Een waarde voor een verborgen formulierveld instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een verborgen formulierveldwaarde instelt in Marketo. Geef statische of symbolische waarden door met het verzenden van het formulier.
 title: De waarde van een verborgen formulierveld instellen
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Verborgen velden worden gewoonlijk dynamisch gevuld. Zij worden niet getoond aan
 
 >[!PREREQUISITES]
 >
->[&#x200B; plaats een Geborgen Gebied van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
+>[ plaats een Geborgen Gebied van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Selecteer het veld {#select-the-field}
 
@@ -37,7 +37,7 @@ Als u URL-parameters (queryreeksen) wilt vastleggen vanaf de pagina waarop de pe
 
 >[!NOTE]
 >
->Parameters zijn nogal technisch, niet? Maar als je ze krijgt, zijn ze machtig. Deze [&#x200B; pagina Wikipedia op de Koorden van de Vraag &#x200B;](https://en.wikipedia.org/wiki/Query_string) is enigszins nuttig.
+>Parameters zijn nogal technisch, niet? Maar als je ze krijgt, zijn ze machtig. Deze [ pagina Wikipedia op de Koorden van de Vraag ](https://en.wikipedia.org/wiki/Query_string) is enigszins nuttig.
 
 1. Selecteer **[!UICONTROL URL Parameter]** voor **[!UICONTROL Get Value Type]** .
 

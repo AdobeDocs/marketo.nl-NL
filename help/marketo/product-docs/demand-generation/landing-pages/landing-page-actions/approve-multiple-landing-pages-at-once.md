@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359724
-description: Meerdere landingspagina's tegelijk goedkeuren - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Marketo meerdere bestemmingspagina's tegelijk kunt goedkeuren. Bulk keurt pagina's goed om hen te maken snel leven.
 title: Meerdere bestemmingspagina's tegelijk goedkeuren
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '90'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
-description: Meldingen - Marketo Docs - Productdocumentatie
+description: Leer hoe u browsermeldingen inschakelt voor Dynamic Chat Live Chat-agents. Meldingen in Chrome-, Firefox- of OS-instellingen toestaan voor chatberichten.
 title: Meldingen
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Live chat-agents worden vervolgens door de browser gevraagd om meldingen weer te
 
 ### Chrome for Windows
 
-Google schetst de stappen voor het toelaten van browser berichten voor Vensters in [&#x200B; dit artikel &#x200B;](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+Google schetst de stappen voor het toelaten van browser berichten voor Vensters in [ dit artikel ](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
 
 ### Chrome voor Mac OS
 
@@ -36,14 +36,14 @@ Google schetst de stappen voor het toelaten van browser berichten voor Vensters 
 
 ## Meldingen inschakelen in Firefox{#enable-notifications-in-firefox}
 
-Firefox schetst de stappen voor diverse browser versies en werkende systemen in [&#x200B; dit artikel &#x200B;](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+Firefox schetst de stappen voor diverse browser versies en werkende systemen in [ dit artikel ](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
 
 ## OS-meldingen {#os-notifications}
 
 Als agenten nog geen berichten na het toestaan van hen in hun browser ontvangen, kunnen zij berichten voor browser in de OS berichtmontages moeten toelaten.
 
-[&#x200B; Meldingen: Mac &#x200B;](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[ Meldingen: Mac ](https://support.apple.com/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[&#x200B; Meldingen: Vensters &#x200B;](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+[ Meldingen: Vensters ](https://support.microsoft.com/en-us/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 ZIJN MELDINGEN VOOR MSI-HANDELINGEN OOIT GEBEURD??

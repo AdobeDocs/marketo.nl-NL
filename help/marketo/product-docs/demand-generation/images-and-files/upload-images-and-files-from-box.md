@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Afbeeldingen en bestanden uploaden uit vak - Marketo Docs - Productdocumentatie
+description: Leer hoe u afbeeldingen en bestanden van Box naar Marketo kunt uploaden. Sluit Box aan en importeer elementen in de Design Studio.
 title: Afbeeldingen en bestanden uploaden uit vak
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 3%
+source-wordcount: '102'
+ht-degree: 2%
 
 ---
 

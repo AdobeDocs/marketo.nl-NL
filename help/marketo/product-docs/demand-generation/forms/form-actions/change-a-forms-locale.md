@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359657
-description: Landinstelling van een formulier wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een formulierlandinstelling wijzigt in Marketo. Stel de formuliertaal en de regionale indeling in voor labels en validatie.
 title: De landinstelling van een formulier wijzigen
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juist
 
    >[!NOTE]
    >
-   >Herinner me [&#x200B; goedkeuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
+   >Herinner me [ goedkeuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
 
    Dat is dat! Mensen kunnen zien dat de datum/tijd wordt weergegeven in de juiste landinstelling.
 

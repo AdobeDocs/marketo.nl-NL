@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359738
-description: De URL van de bestemmingspagina wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de URL van de bestemmingspagina in Marketo wijzigt. Werk het URL-pad of de witruimte voor de bestemmingspagina bij.
 title: De URL van de bestemmingspagina wijzigen
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ U kunt de URL van een bestemmingspagina wijzigen. Hierdoor kan de URL gemakkelij
 
    >[!NOTE]
    >
-   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Leer meer over [&#x200B; omleiding URL &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Leer meer over [ omleiding URL ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

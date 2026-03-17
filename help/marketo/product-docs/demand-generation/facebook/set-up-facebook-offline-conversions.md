@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383953
-description: Offlineconversies voor Facebook instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u Facebook-offlineconversies instelt in Marketo. Conversiegegevens van Marketo naar Facebook verzenden voor optimalisatie van advertenties.
 title: Offlineconversies van Facebook instellen
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---
@@ -17,8 +17,8 @@ Door offline conversiegegevens terug te sturen naar [!DNL Facebook] voor mensen 
 
 >[!PREREQUISITES]
 >
->* U moet [&#x200B; opstelling de Advertentie van de Lood van Facebook &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* U moet een goedgekeurd model in [&#x200B; Cyclus van de Opbrengst Modeler &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) hebben.
+>* U moet [ opstelling de Advertentie van de Lood van Facebook ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* U moet een goedgekeurd model in [ Cyclus van de Opbrengst Modeler ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) hebben.
 
 ## Beheerdersconfiguratie {#admin-configuration}
 
@@ -30,7 +30,7 @@ Door offline conversiegegevens terug te sturen naar [!DNL Facebook] voor mensen 
 
    >[!NOTE]
    >
-   >Als u dat niet hebt gedaan, ga en [&#x200B; Opstelling [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), dan kom hier terug.
+   >Als u dat niet hebt gedaan, ga en [ Opstelling [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), dan kom hier terug.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -95,7 +95,7 @@ Door offline conversiegegevens terug te sturen naar [!DNL Facebook] voor mensen 
 
    >[!CAUTION]
    >
-   >Controleer uw [!DNL Facebook] rekening en zorg ervoor dat alle [&#x200B; advertenties &#x200B;](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) aan de Offline Reeks van de Gebeurtenis van Conversies van Marketo worden geassocieerd. Als dat niet het geval is, werkt de toewijzing mogelijk niet.
+   >Controleer uw [!DNL Facebook] rekening en zorg ervoor dat alle [ advertenties ](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) aan de Offline Reeks van de Gebeurtenis van Conversies van Marketo worden geassocieerd. Als dat niet het geval is, werkt de toewijzing mogelijk niet.
 
    >[!NOTE]
    >
@@ -103,4 +103,4 @@ Door offline conversiegegevens terug te sturen naar [!DNL Facebook] voor mensen 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend  [!DNL Facebook]  Offline Omzettingen &#x200B;](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[ Begrijpend  [!DNL Facebook]  Offline Omzettingen ](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

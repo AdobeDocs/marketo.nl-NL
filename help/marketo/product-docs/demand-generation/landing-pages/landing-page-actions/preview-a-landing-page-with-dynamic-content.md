@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359734
-description: Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud - Marketo Docs - Productdocumentatie
+description: Leer hoe u een voorvertoning van een openingspagina met dynamische inhoud bekijkt in Marketo. Zie hoe de inhoud voor verschillende segmenten verandert.
 title: Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Geef een voorvertoning van de openingspagina weer nadat u dynamische inhoud hebt
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Dynamische Inhoud van het Gebruik in een het landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
->* [&#x200B; Voorproef een het Bestaan Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
+>* [ Dynamische Inhoud van het Gebruik in een het landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [ Voorproef een het Bestaan Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 1. Selecteer een openingspagina en klik op **[!UICONTROL Preview Page]** .
 

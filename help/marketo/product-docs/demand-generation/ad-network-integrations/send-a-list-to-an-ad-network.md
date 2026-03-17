@@ -1,12 +1,12 @@
 ---
-description: Een lijst verzenden naar een advertentienetwerk - Marketo Docs - Productdocumentatie
+description: Leer hoe u een statische lijst verzendt naar LinkedIn, Facebook of Google. Gebruik Handelingen List en Verzenden naar advertentienetwerk om het publiek en synchronisatieopties te kiezen.
 title: Een lijst verzenden naar een advertentienetwerk
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '215'
+ht-degree: 0%
 
 ---
 

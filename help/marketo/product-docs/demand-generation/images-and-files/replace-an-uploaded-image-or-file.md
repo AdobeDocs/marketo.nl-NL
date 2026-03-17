@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359876
-description: Een geüploade afbeelding of bestand vervangen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een geüploade afbeelding of bestand in Marketo vervangt. Het element bijwerken met dezelfde URL voor bestaande koppelingen.
 title: Een geüploade afbeelding of bestand vervangen
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,5 @@ Goed gedaan!
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Onderzoek Geüploade Beelden en Dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [&#x200B; vind URL van een Geüploade Beeld of Dossier &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [ Onderzoek Geüploade Beelden en Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>* [ vind URL van een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

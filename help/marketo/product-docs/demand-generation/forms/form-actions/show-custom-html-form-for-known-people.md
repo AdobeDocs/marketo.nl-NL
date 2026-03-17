@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359644
-description: Aangepast HTML-formulier voor bekende personen tonen - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste HTML voor bekende personen kunt weergeven op een Marketo-formulier. Andere inhoud of berichten voor herkende bezoekers weergeven.
 title: Aangepast HTML-formulier tonen voor bekende personen
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '244'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,7 @@ Als een bezoeker in het verleden zijn volledige naam en e-mailadres heeft opgege
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klik ![&#x200B; - &#x200B;](assets/image2014-9-25-14-3a1-3a26.png) om **[!UICONTROL Custom HTML]** uit te geven dat aan bekende mensen zal worden getoond.
+1. Klik ![ - ](assets/image2014-9-25-14-3a1-3a26.png) om **[!UICONTROL Custom HTML]** uit te geven dat aan bekende mensen zal worden getoond.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -66,7 +66,7 @@ Als een bezoeker in het verleden zijn volledige naam en e-mailadres heeft opgege
 
    >[!NOTE]
    >
-   >Herinner me [&#x200B; goedkeuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
+   >Herinner me [ goedkeuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) door de vormveranderingen wordt gecreeerd.
 
    Stukje cake! Kijk wat een persoon zou zien als hij of zij terugkwam naar de zelfde vorm:
 

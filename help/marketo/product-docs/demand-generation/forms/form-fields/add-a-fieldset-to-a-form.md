@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359594
-description: Een veldenset toevoegen aan een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u een veldset aan een Marketo-formulier toevoegt. Groepeer verwante velden samen met een kop voor een betere indeling.
 title: Een veldset toevoegen aan een formulier
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -43,4 +43,4 @@ Daar heb je het!
 
 >[!TIP]
 >
->Afhankelijk van een ander veld kunt u de hele veldset dynamisch verbergen/weergeven. Leer over [&#x200B; zichtbaarheidsregels &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Afhankelijk van een ander veld kunt u de hele veldset dynamisch verbergen/weergeven. Leer over [ zichtbaarheidsregels ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

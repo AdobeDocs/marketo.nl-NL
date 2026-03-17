@@ -1,11 +1,11 @@
 ---
-description: Dialoogoverzicht - Marketo Docs - Productdocumentatie
+description: Leer over Dialogen als individuele praatjegesprekken in Dynamic Chat. Bepaal waar zij tonen, wie hen ziet, en controleer doeltreffendheid in rapporten.
 title: Overzicht van dialoogvensters
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Dialogen zijn individuele praatjegesprekken. In elke Dialoog, beslist u waar het
 
 ## Criteria voor het publiek {#audience-criteria}
 
-De [&#x200B; sectie van de Criteria van de Publiek &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
+De [ sectie van de Criteria van de Publiek ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-De [&#x200B; sectie van Designer van de Stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} van een Dialoog is waar u het gesprek zult ontwerpen dat u met uw websitebezoekers wilt hebben.
+De [ sectie van Designer van de Stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} van een Dialoog is waar u het gesprek zult ontwerpen dat u met uw websitebezoekers wilt hebben.
 
 ![](assets/dialogue-overview-2.png)
 

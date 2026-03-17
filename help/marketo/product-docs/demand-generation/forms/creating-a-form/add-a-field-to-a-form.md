@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359543
-description: Een veld toevoegen aan een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u een veld aan een formulier in Marketo toevoegt. Voeg formuliervelden toe en wijs deze toe aan personen- of bedrijfskenmerken.
 title: Een veld toevoegen aan een formulier
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Een veld toevoegen aan een formulier {#add-a-field-to-a-form}
 
-Zodra u uw vorm [&#x200B; hebt gecreeerd en &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} geselecteerd een thema [, kunt u extra gebieden voor mensen willen toevoegen om uit te vullen. &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} Zo gaat het.
+Zodra u uw vorm [ hebt gecreeerd en ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} geselecteerd een thema [, kunt u extra gebieden voor mensen willen toevoegen om uit te vullen. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"} Zo gaat het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -53,4 +53,4 @@ Zodra u uw vorm [&#x200B; hebt gecreeerd en &#x200B;](/help/marketo/product-docs
 
 >[!MORELIKETHIS]
 >
->[&#x200B; maak een vormgebied vereist &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
+>[ maak een vormgebied vereist ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}

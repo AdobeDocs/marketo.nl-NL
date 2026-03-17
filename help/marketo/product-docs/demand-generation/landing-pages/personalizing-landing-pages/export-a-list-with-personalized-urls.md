@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359815
-description: Een lijst met persoonlijke URL's exporteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een lijst met gepersonaliseerde URL's uit Marketo exporteert. Hiermee wordt een lijst met ontvangers opgehaald met hun unieke URL's voor de bestemmingspagina.
 title: Een lijst met gepersonaliseerde URL's exporteren
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; laat Persoonlijke URLs voor Uw Rekening toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
->* [&#x200B; laat Persoonlijke URLs voor een het Bestaan Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toe
+>* [ laat Persoonlijke URLs voor Uw Rekening toe ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [ laat Persoonlijke URLs voor een het Bestaan Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md) toe
 
-1. Selecteer uw lijst of slimme lijst, klik op het tabblad **[!UICONTROL Leads]** om de resultaten op te halen en klik vervolgens op het pictogram van het excel. INLINE zorg ervoor u **[!UICONTROL Marketo Unique Code]** en **[!UICONTROL Marketo Unique Name]** [&#x200B; zichtbare kolommen &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hebt.
+1. Selecteer uw lijst of slimme lijst, klik op het tabblad **[!UICONTROL Leads]** om de resultaten op te halen en klik vervolgens op het pictogram van het excel. INLINE zorg ervoor u **[!UICONTROL Marketo Unique Code]** en **[!UICONTROL Marketo Unique Name]** [ zichtbare kolommen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hebt.
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 

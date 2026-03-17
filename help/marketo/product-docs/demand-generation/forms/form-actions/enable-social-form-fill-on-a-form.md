@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359616
-description: Vulling van sociaal formulier inschakelen op een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u het invullen van sociale formulieren inschakelt, zodat bezoekers formulieren kunnen verzenden via hun sociale netwerk. Krijg extra belangrijke gegevens en geef bezoekers een snellere ervaring.
 title: Vulling van sociaal formulier inschakelen op een formulier
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '125'
 ht-degree: 1%
 
 ---

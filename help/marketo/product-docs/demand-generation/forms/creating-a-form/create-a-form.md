@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359398
-description: Een formulier maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een formulier maakt in Marketo. Voeg velden toe, stel het formulier in en gebruik het op bestemmingspagina's of uw website om leads vast te leggen.
 title: Een formulier maken
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Maak en gebruik een formulier op een bestemmingspagina om nieuwe namen te genere
 
 >[!NOTE]
 >
->Leer wat Marketo Engage doet [&#x200B; uw vormen veilig &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) houden.
+>Leer wat Marketo Engage doet [ uw vormen veilig ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) houden.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -41,5 +41,5 @@ Maak en gebruik een formulier op een bestemmingspagina om nieuwe namen te genere
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; selecteer een Thema van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
->* [&#x200B; voeg een FieldSet aan een Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) toe
+>* [ selecteer een Thema van de Vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
+>* [ voeg een FieldSet aan een Vorm ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) toe

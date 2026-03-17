@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949874
-description: Een gebeurtenis maken met  [!DNL GotoWebinar]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u een gebeurtenis maakt met GotoWebinar in Marketo. Configureer de integratie en synchroniseer de webinar-registratie met Marketo.
 title: Een gebeurtenis maken met  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; voeg  [!DNL GoToWebinar]  toe als a  [!DNL LaunchPoint]  dienst &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
->* [&#x200B; creeer een Nieuw Programma van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Plaats de aangewezen [&#x200B; stroomacties &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
+>* [ voeg  [!DNL GoToWebinar]  toe als a  [!DNL LaunchPoint]  dienst ](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [ creeer een Nieuw Programma van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Plaats de aangewezen [ stroomacties ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om overeenkomst te volgen
 
 Maak eerst uw webinar in [!DNL GoToWebinar] . Bepaalde instellingen bij het maken van uw [!DNL GoToWebinar] worden gebruikt door Marketo en sommige worden alleen gebruikt door [!DNL GoToWebinar] .
 
@@ -55,7 +55,7 @@ Voer de volgende informatie in voor uw webinar en het wordt via de adapter in Ma
 
 >[!TIP]
 >
->Als u extra [!DNL GoToWebinar] hulp nodig hebt, gelieve hun [&#x200B; Plaats van de Hulp &#x200B;](https://support.logmeininc.com/gotowebinar) te bezoeken.
+>Als u extra [!DNL GoToWebinar] hulp nodig hebt, gelieve hun [ Plaats van de Hulp ](https://support.logmeininc.com/gotowebinar) te bezoeken.
 
 Laten we nu naar Marketo springen!
 

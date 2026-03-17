@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359592
-description: Velden opnieuw ordenen in een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u velden in een Marketo-formulier opnieuw kunt ordenen. Sleep en zet de muisknop neer om de volgorde van formuliervelden te wijzigen.
 title: Velden opnieuw ordenen in een formulier
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---

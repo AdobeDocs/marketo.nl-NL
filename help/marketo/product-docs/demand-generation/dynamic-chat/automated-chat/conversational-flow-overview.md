@@ -1,11 +1,11 @@
 ---
-description: Conversationeel stroomoverzicht - Marketo Docs - Productdocumentatie
+description: Leer over de Stroom van de Gesprek en hoe zij van Dialogen verschillen. Ontwerpstromen die worden geactiveerd door bezoekersacties en gebruiken deze in formulieren of pop-ups.
 title: Overzicht van conversiesnelheid
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Dialoogvensters en conversatiestromen hebben verschillende gelijkenissen, maar h
 
 ## Het tabblad Designer streamen {#stream-designer-tab}
 
-De stroom Designer for Conversational Flows is bijna identiek aan die voor Dialogen. [&#x200B; leer alles over het &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} hier.
+De stroom Designer for Conversational Flows is bijna identiek aan die voor Dialogen. [ leer alles over het ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} hier.
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,8 +82,8 @@ In de onderste helft van het lusje van Montages, pas de trekker van de Gesprek a
 
 >[!TIP]
 >
->Zie [&#x200B; Conversations SDK &#x200B;](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=nl-NL){target="_blank"} in actie!
+>Zie [ Conversations SDK ](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in actie!
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Conversationele Stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}
+>[ creeer een Conversationele Stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}

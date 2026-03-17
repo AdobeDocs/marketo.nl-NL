@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359880
-description: Uw afbeeldingen en bestanden ordenen met mappen - Marketo Docs - Productdocumentatie
+description: Leer hoe u afbeeldingen en bestanden kunt ordenen met mappen in Marketo. Creeer omslagen in de Studio van het Ontwerp om activa georganiseerd te houden.
 title: Uw afbeeldingen en bestanden ordenen met mappen
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Als u mappen maakt, kunt u afbeeldingen en bestanden verplaatsen, alleen de gewe
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Onderzoek Geüploade Beelden en Dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
+>[ Onderzoek Geüploade Beelden en Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}

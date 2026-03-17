@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359578
-description: Een formulier goedkeuren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een formulier goedkeurt in Marketo. Uw formulier goedkeuren zodat het kan worden gebruikt op bestemmingspagina's en kan beginnen met het vastleggen van leads.
 title: Een formulier goedkeuren
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/approve-a-form-3.png)
 
-   Het is goedgekeurd en klaar om [&#x200B; aan een het landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} worden toegevoegd.
+   Het is goedgekeurd en klaar om [ aan een het landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} worden toegevoegd.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ U kunt een formulier rechtstreeks vanuit de formuliereditor goedkeuren.
 
 >[!PREREQUISITES]
 >
->[&#x200B; geef een Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) uit
+>[ geef een Vorm ](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) uit
 
 1. Klik in het formulier op **[!UICONTROL Finish]** .
 

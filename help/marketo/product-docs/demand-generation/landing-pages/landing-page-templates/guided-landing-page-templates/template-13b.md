@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437789
-description: Sjabloon 13B - Marketo Docs - Productdocumentatie
+description: Leer meer over het sjabloon voor de geleide landingspagina Sjabloon 13B. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Sjabloon 13B
 exl-id: 507ecbb8-8844-499a-868e-b0a2de8402f4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 13B {#template-13b}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 13B &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 13B ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 13B.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=nl-NL)
+[ Malplaatje 13B.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html)

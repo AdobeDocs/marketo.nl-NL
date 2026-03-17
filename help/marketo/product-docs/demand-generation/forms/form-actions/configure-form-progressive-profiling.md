@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359646
-description: Progressieve profilering van formulieren configureren - Marketo Docs - Productdocumentatie
+description: Leer hoe u progressieve profilering op een Marketo-formulier configureert. Verschillende velden weergeven in de loop der tijd om meer gegevens te verzamelen zonder lange formulieren.
 title: Progressieve profilering van formulieren configureren
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
 
 >[!NOTE]
 >
->Voor deze eigenschap om behoorlijk te werken, zorg ervoor de Vorm pre-Vulling voor zichtbare gebieden wordt toegelaten, en [&#x200B; gehandicapt &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) voor verborgen gebieden.
+>Voor deze eigenschap om behoorlijk te werken, zorg ervoor de Vorm pre-Vulling voor zichtbare gebieden wordt toegelaten, en [ gehandicapt ](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) voor verborgen gebieden.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

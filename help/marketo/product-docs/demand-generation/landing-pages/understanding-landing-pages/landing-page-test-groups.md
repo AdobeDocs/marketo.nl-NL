@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949904
-description: Testgroepen voor landingspagina - Marketo-documenten - productdocumentatie
+description: Meer informatie over testgroepen voor landingspagina's in Marketo. Voer A/B of multivariate tests uit om de prestaties van de landingspagina te vergelijken.
 title: Testgroepen voor landingspagina
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 
 >[!PREREQUISITES]
 >
->[&#x200B; bouwt twee of meer het landen pagina&#39;s &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), bij voorkeur met een vorm.
+>[ bouwt twee of meer het landen pagina&#39;s ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), bij voorkeur met een vorm.
 
 1. Klik in de Design Studio op **[!UICONTROL New]** . Selecteer **[!UICONTROL New Test Group]** in het vervolgkeuzemenu.
 

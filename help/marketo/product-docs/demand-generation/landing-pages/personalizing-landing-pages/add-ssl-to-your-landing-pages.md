@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359828
-description: SSL toevoegen aan uw bestemmingspagina's - Marketo Docs - Productdocumentatie
+description: Leer hoe u SSL toevoegt aan uw Marketo-bestemmingspagina's. HTTPS inschakelen voor beveiligde URL's van bestemmingspagina's.
 title: SSL toevoegen aan uw bestemmingspagina's
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '800'
 ht-degree: 0%
 
 ---
@@ -65,17 +65,17 @@ Voer de onderstaande stappen uit om SSL in te schakelen voor uw standaarddomein.
 
 Voer de volgende stappen uit om SSL in te schakelen voor uw bestaande domeinaliassen.
 
-1. Vouw in het gebied _[!UICONTROL Admin]_&#x200B;**[!UICONTROL Integration]**&#x200B;in de linkernavigatie uit en selecteer **[!UICONTROL Landing Pages]**.
+1. Vouw in het gebied _[!UICONTROL Admin]_**[!UICONTROL Integration]**in de linkernavigatie uit en selecteer **[!UICONTROL Landing Pages]**.
 
 1. Selecteer op de pagina de tab **[!UICONTROL Rules]** bovenaan.
 
 1. Selecteer de domeinaliasrij die u wilt bewerken en klik op **[!UICONTROL Add SSL]** bovenaan.
 
-   ![&#x200B; Admin gebied - Integratie > het Landen Pagina&#39;s - Regels tabel - uitgezocht domein alias &#x200B;](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+   ![ Admin gebied - Integratie > het Landen Pagina&#39;s - Regels tabel - uitgezocht domein alias ](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
 
 1. Klik in het dialoogvenster op **[!UICONTROL Confirm]** .
 
-   ![&#x200B; voeg SSL toe - bevestig &#x200B;](./assets/generate-ssl-cert-confirm.png){width="400"}
+   ![ voeg SSL toe - bevestig ](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 >[!NOTE]
 >
@@ -119,10 +119,10 @@ Hieronder vindt u foutberichten die u samen met de definities kunt ontvangen.
 
 ## Notities {#things-to-note}
 
-* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [&#x200B; CNAMEs aan een Marketo-Geleverd domein &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
+* **DNS afbeelding voor domein aan Marketo Engage**: Alvorens domeinen in UI toe te voegen, moet u [ CNAMEs aan een Marketo-Geleverd domein ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} in kaart brengen.
 
-* **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [&#x200B; kaartje van de Steun &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
+* **Aangepaste SSLs**: Als u douane SSL nodig hebt, gelieve a [ kaartje van de Steun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor te leggen. Gebruik het selectievakje voor zelfbediening niet voor het maken van SSL.
 
-* **Vooraf bestaande SSLs**: Terwijl het toevoegen van een domein, controleert het systeem reeds bestaande SSLs, die manueel kan zijn gecreeerd vroeger. Als u deze validatie tegenkomt, maakt u uw domein zonder SSL-ontwerp te selecteren en maken we er verbinding mee. [&#x200B; de Steun van het Contact &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} meer extra details/opties.
+* **Vooraf bestaande SSLs**: Terwijl het toevoegen van een domein, controleert het systeem reeds bestaande SSLs, die manueel kan zijn gecreeerd vroeger. Als u deze validatie tegenkomt, maakt u uw domein zonder SSL-ontwerp te selecteren en maken we er verbinding mee. [ de Steun van het Contact ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} meer extra details/opties.
 
-* **Schrapping van domeinen**: Automatisch schrappend een domein **schrapt niet** het SSL certificaat. Deze handleiding voorkomt gebruikersfouten die ertoe leiden dat een website geen SSL-certificaten heeft. Als u de SSL certificaten wilt verwijderen, [&#x200B; contactSteun &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Schrapping van domeinen**: Automatisch schrappend een domein **schrapt niet** het SSL certificaat. Deze handleiding voorkomt gebruikersfouten die ertoe leiden dat een website geen SSL-certificaten heeft. Als u de SSL certificaten wilt verwijderen, [ contactSteun ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

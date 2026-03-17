@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359722
-description: Een video toevoegen aan een landingspagina in vrije vorm - Marketo Docs - Productdocumentatie
+description: Leer hoe u een video toevoegt aan een landingspagina in vrije vorm in Marketo. Video-inhoud insluiten op de bestemmingspagina.
 title: Een video toevoegen aan een openingspagina met vrije vorm
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 >
 >Als u tijd wilt besparen, kunt u de optie **[!UICONTROL Clone From]** gebruiken om alle instellingen van een bestaande gedeelde video te kopiëren.
 
-Gefeliciteerd! U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt ook [&#x200B; publiceren de het landen pagina aan Facebook &#x200B;](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of _zetten het videoaandeel op uw website_.
+Gefeliciteerd. U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt ook [ publiceren de het landen pagina aan Facebook ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of _zetten het videoaandeel op uw website_.
 
 >[!MORELIKETHIS]
 >

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092896
-description: Template 19C - Marketo-documenten - Productdocumentatie
+description: Meer informatie over de sjabloon voor de sjabloon Sjabloon 19C-instructiepagina. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Sjabloon 19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 19C {#template-19c}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 19C &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 19C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 19C.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=nl-NL)
+[ Malplaatje 19C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

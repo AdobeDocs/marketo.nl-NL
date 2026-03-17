@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783975
-description: Sjabloon 8F - Marketo-documenten - Productdocumentatie
+description: Meer informatie over de sjabloon voor de 8F-instructiepagina voor sjabloon. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Sjabloon 8F
 exl-id: aaabe488-80a8-4cc6-a76f-8e1845921bc9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 8F {#template-8f}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 8F &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 8F ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)
 
 ![](assets/image2015-7-29-14-3a45-3a45.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 8F.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html?lang=nl-NL)
+[ Malplaatje 8F.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8f.html)

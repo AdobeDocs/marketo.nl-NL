@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096681
-description: Werken met de status van het Webinar-programma - Marketo Docs - Productdocumentatie
+description: Meer informatie over de status van webinar-programma's in de integratie ON24 en Marketo. Begrijp geregistreerde, bijgewoonde, en andere statuswaarden.
 title: Werken met de status van het Webinar-programma
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 >[!TIP]
 >
->Om statussen manueel bij te werken, verfrist de klik **zich van Webinar Leverancier** in de **3&rbrace; drop-down Acties van de Gebeurtenis.**
+>Om statussen manueel bij te werken, verfrist de klik **zich van Webinar Leverancier** in de **3} drop-down Acties van de Gebeurtenis.**
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
@@ -29,7 +29,7 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 **Uitgenodigd** - gebruik deze status om mensen aan de gebeurtenis toe te voegen.
 
-**in afwachting van Goedkeuring** - gebruik deze status om op het verzenden van uw mensen een bevestigingsbericht uit te houden. Zie &quot;Handmatig Registrerend Registranten&quot;in [&#x200B; ON24 de Updates van de Registratie van de Gebeurtenis &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} voor meer informatie.
+**in afwachting van Goedkeuring** - gebruik deze status om op het verzenden van uw mensen een bevestigingsbericht uit te houden. Zie &quot;Handmatig Registrerend Registranten&quot;in [ ON24 de Updates van de Registratie van de Gebeurtenis ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"} voor meer informatie.
 
 **wacht op Lijst** - gebruik deze status om sommige mensen te houden die tot extra plaatsen beschikbaar worden wachten.
 
@@ -55,4 +55,4 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

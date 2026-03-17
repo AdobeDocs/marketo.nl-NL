@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359716
-description: Een voorvertoning van een bestemmingspagina weergeven - Marketo-documenten - Productdocumentatie
+description: Leer hoe u een voorvertoning van een openingspagina in Marketo kunt weergeven. Bekijk hoe de pagina eruitziet en zich gedraagt voordat u deze live maakt.
 title: Een voorvertoning van een bestemmingspagina weergeven
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

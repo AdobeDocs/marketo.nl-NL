@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355758
-description: Leden toevoegen aan een gebeurtenisprogramma - Marketo Docs - Productdocumentatie
+description: Leer hoe u leden kunt toevoegen aan een gebeurtenisprogramma in Marketo. Voeg personen aan uw programma toe voor registratie of het volgen van de aanwezigheid.
 title: Leden toevoegen aan een gebeurtenisprogramma
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Dit artikel is alleen van toepassing op gebruikers die gebruikmaken van Gebeurte
 >
 >Als u een lijst met personen rechtstreeks in een gebeurtenisprogramma importeert, worden deze records niet meegeteld in werkelijke registraties in het rapport Goal Tracking en in het rapport Event Cap Progression. Volg de onderstaande instructies om ervoor te zorgen dat uw administratie wordt geteld.
 
-1. Creeer en [&#x200B; voeg mensen aan een statische lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md) toe.
+1. Creeer en [ voeg mensen aan een statische lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md) toe.
 
-1. [&#x200B; creeer een slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [ creeer een slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
 1. Zoek in de slimme lijst van de slimme campagne die u in Stap twee hebt gemaakt het filter **[!UICONTROL Member of List]** en voeg dit toe.
 

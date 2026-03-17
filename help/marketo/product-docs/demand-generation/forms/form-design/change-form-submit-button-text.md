@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359649
-description: Tekst van knop Formulier verzenden wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de tekst van de knop Verzenden van een formulier wijzigt in Marketo. Pas het label op de knop aan waarop bezoekers klikken om te verzenden.
 title: Knoptekst voor verzenden van formulier wijzigen
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '86'
 ht-degree: 2%
 
 ---

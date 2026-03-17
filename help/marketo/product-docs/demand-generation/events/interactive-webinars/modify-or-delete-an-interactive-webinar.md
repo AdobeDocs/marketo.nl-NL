@@ -1,11 +1,11 @@
 ---
-description: Een interactief webinar wijzigen of verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een interactief webinar in Marketo kunt wijzigen of verwijderen. Werk instellingen bij of verwijder webinars wanneer u deze niet meer nodig hebt.
 title: Een interactief webinar wijzigen of verwijderen
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---

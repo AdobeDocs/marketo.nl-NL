@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437840
-description: Template 16C - Marketo-documenten - Productdocumentatie
+description: Leer meer over het sjabloon voor de sjabloon Sjabloon 16C met instructies-landingspagina. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Sjabloon 16C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 16C {#template-16c}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 16C &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 16C ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 16C.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=nl-NL)
+[ Malplaatje 16C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)

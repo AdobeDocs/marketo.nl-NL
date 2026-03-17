@@ -1,11 +1,11 @@
 ---
-description: Leer om malplaatjes in Interactieve Webinars tot stand te brengen en uit te voeren.
+description: Leer om malplaatjes in Interactieve Webinars tot stand te brengen en uit te voeren. Gebruik sjablonen om het webinaire ontwerp te standaardiseren en het maken te versnellen.
 title: Sjablonen voor interactieve webinars
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '306'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Maak eenvoudig te gebruiken sjablonen in interactieve webinars om inhoud sneller
 
 ## Rechten verlenen {#grant-permissions}
 
-Alvorens om het even welke gebruikers in uw organisatie de capaciteit hebben om tot malplaatjes toegang te hebben uw Interactieve Webinars, moet een beheerder van het Marketo Engage eerst toegang tot de gewenste rol(s) toevoegen.
+Voordat gebruikers in uw organisatie toegang hebben tot sjablonen in uw interactieve webinars, moet een Marketo Engage-beheerder eerst toegang toevoegen aan de gewenste rol(s).
 
 1. Klik in Marketo Engage op **[!UICONTROL Admin]** .
 

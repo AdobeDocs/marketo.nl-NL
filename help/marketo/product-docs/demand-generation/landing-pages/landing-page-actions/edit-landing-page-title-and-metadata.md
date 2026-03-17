@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359726
-description: Titel en metagegevens van bestemmingspagina bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de titel van de landingspagina en de metagegevens in Marketo kunt bewerken. Werk de paginatitel en de meta- beschrijving voor SEO en vertoning bij.
 title: Titel en metagegevens van bestemmingspagina bewerken
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Titel en metagegevens van bestemmingspagina bewerken {#edit-landing-page-title-and-metadata}
 
-Marketo staat u toe om uw het landen pagina [&#x200B; metatags voor SEO doeleinden &#x200B;](https://www.w3schools.com/tags/tag_meta.asp) uit te geven evenals het `<head>` gedeelte van HTML aan te passen.
+Marketo staat u toe om uw het landen pagina [ metatags voor SEO doeleinden ](https://www.w3schools.com/tags/tag_meta.asp) uit te geven evenals het `<head>` gedeelte van HTML aan te passen.
 
 1. Selecteer een openingspagina en klik op **[!UICONTROL Edit Draft]** .
 
@@ -33,7 +33,7 @@ Marketo staat u toe om uw het landen pagina [&#x200B; metatags voor SEO doeleind
 
    >[!TIP]
    >
-   >**wat [&#x200B; robots &#x200B;](https://www.robotstxt.org/meta.html) betekent?**
+   >**wat [ robots ](https://www.robotstxt.org/meta.html) betekent?**
    >
    >**index**: de pagina is doorzoekbaar op het Web. **volgt**: de onderzoeksmotoren kunnen verbindingen op geïndexeerde pagina&#39;s volgen.
 

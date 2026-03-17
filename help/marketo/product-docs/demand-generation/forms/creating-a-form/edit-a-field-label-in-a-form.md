@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359566
-description: Een veldlabel bewerken in een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u een veldlabel kunt bewerken in een Marketo-formulier. Wijzig de labeltekst naast een formulierveld.
 title: Een veldlabel bewerken in een formulier
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ U kunt het label op een formulier wijzigen in Alles. U kunt zelfs een afbeelding
 
    >[!TIP]
    >
-   >Klik op het ![&#x200B; potlood &#x200B;](assets/icon-pencil.png) pictogram om tot de rijke tekstredacteur toegang te hebben.
+   >Klik op het ![ potlood ](assets/icon-pencil.png) pictogram om tot de rijke tekstredacteur toegang te hebben.
 
 1. Klik op **[!UICONTROL Finish]**.
 
@@ -45,4 +45,4 @@ U kunt het label op een formulier wijzigen in Alles. U kunt zelfs een afbeelding
 
 >[!NOTE]
 >
->Vergeet niet [&#x200B; goed te keuren het het Landen ontwerp van de Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} dat door de vormveranderingen wordt gecreeerd.
+>Vergeet niet [ goed te keuren het het Landen ontwerp van de Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} dat door de vormveranderingen wordt gecreeerd.

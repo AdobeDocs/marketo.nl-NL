@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359740
-description: Een Marketo-landingspagina omleiden naar een andere pagina - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Marketo-landingspagina omleidt naar een andere pagina. Bezoekers naar een andere URL sturen wanneer ze op de pagina landen.
 title: Marketo-landingspagina omleiden naar een andere pagina
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,13 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
 
    ![](assets/two-1.png)
 
-1. Klik eerste **[!UICONTROL Original URL]** drop-down en selecteer uw Marketo [&#x200B; CNAME &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Klik eerste **[!UICONTROL Original URL]** drop-down en selecteer uw Marketo [ CNAME ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Herinner me, kunt u URLs slechts opnieuw richten die met uw Marketo [&#x200B; CNAME &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
+   >Herinner me, kunt u URLs slechts opnieuw richten die met uw Marketo [ CNAME ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
 1. Kies de landingspagina die u wilt omleiden in het tweede **[!UICONTROL Original URL]** veld.
 
@@ -57,4 +57,4 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; richt opnieuw een Weg URL &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
+   >[ richt opnieuw een Weg URL ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)

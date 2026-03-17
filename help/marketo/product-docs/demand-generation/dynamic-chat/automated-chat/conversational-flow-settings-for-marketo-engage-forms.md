@@ -1,11 +1,11 @@
 ---
-description: Conversation Flow Settings for Marketo Engage Forms - Marketo Docs - productdocumentatie
+description: Leer hoe u Marketo-formulieren in gesprek kunt brengen met Dynamic Chat Conversational Flows. Kwalificeer lood voor vergaderingsboekingen en douanedoelstellingen gebruikend vorm of lijstgegevens.
 title: Instellingen voor conversie-stroom voor Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Maak Marketo Engage Forms conversationeel door ze te integreren met Dynamic Chat
 
    >[!NOTE]
    >
-   >[&#x200B; Leer meer over de Omzettingsstromen &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+   >[ Leer meer over de Omzettingsstromen ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
 
    **OPTIONELE STAP**: U kunt **[!UICONTROL Add Choice]** klikken om praatjebezoekers te richten die aan een specifieke criteria voldoen. U kunt maximaal negen keuzes toevoegen voor een totaal van tien.
 

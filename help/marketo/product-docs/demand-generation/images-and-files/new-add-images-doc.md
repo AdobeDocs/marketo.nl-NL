@@ -1,13 +1,13 @@
 ---
-description: Nieuwe document Afbeeldingen toevoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u afbeeldingen en bestanden toevoegt aan Marketo Design Studio. Elementen uploaden, organiseren en gebruiken in campagnes en bestemmingspagina's.
 title: Nieuwe afbeeldingendocument toevoegen
 hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ U hebt drie opties voor het importeren van een afbeelding. Laten we ze allemaal 
 
 Tekst
 
-1. Volg Stappen 1 en 2 [&#x200B; van hierboven &#x200B;](#upload-image-or-file).
+1. Volg Stappen 1 en 2 [ van hierboven ](#upload-image-or-file).
 
 1. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Import image or file]** .
 
@@ -68,7 +68,7 @@ PICC
 
 Tekst
 
-1. Volg Stappen 1 en 2 [&#x200B; van hierboven &#x200B;](#upload-image-or-file).
+1. Volg Stappen 1 en 2 [ van hierboven ](#upload-image-or-file).
 
 1. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Import image or file]** .
 
@@ -98,7 +98,7 @@ Tekst
 
 Tekst
 
-1. Volg Stappen 1 en 2 [&#x200B; van hierboven &#x200B;](#upload-image-or-file).
+1. Volg Stappen 1 en 2 [ van hierboven ](#upload-image-or-file).
 
 1. Klik op de vervolgkeuzelijst **[!UICONTROL Image and file actions]** en selecteer **[!UICONTROL Import image or file]** .
 

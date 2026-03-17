@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359798
-description: Extra landingpagina-CNAME's toevoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u CNAME's van extra bestemmingspagina's toevoegt in Marketo. Gebruik meerdere aangepaste domeinen voor uw bestemmingspagina's.
 title: Aanvullende landingspaginanamen toevoegen
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---

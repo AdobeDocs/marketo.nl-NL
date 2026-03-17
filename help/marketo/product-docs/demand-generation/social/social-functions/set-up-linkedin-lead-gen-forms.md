@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12976798
-description: LinkedIn Gen Forms, leider, instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u LinkedIn Gen Forms met Marketo instelt. Connect LinkedIn en synchroniseren leiden en verzenden naar Marketo via LaunchPoint.
 title: LinkedIn Gen Forms instellen
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
-1. Marketo opent een nieuw lusje in zelfde browser aan [&#x200B; linkedin.com &#x200B;](https://www.linkedin.com){target="_blank"}. Meld u aan bij LinkedIn met het account dat u voor de integratie wilt gebruiken.
+1. Marketo opent een nieuw lusje in zelfde browser aan [ linkedin.com ](https://www.linkedin.com){target="_blank"}. Meld u aan bij LinkedIn met het account dat u voor de integratie wilt gebruiken.
 
    >[!NOTE]
    >
@@ -77,7 +77,7 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    >[!NOTE]
    >
-   >Slechts zullen de gebieden LinkedIn die reeds aan a [&#x200B; vormmalplaatje &#x200B;](https://www.linkedin.com/help/lms/answer/79634){target="_blank"} in Manager LinkedIn van de Campagne zijn bewaard verschijnen als Gebieden LinkedIn die aan de gebieden van Marketo kunnen worden in kaart gebracht.
+   >Slechts zullen de gebieden LinkedIn die reeds aan a [ vormmalplaatje ](https://www.linkedin.com/help/lms/answer/79634){target="_blank"} in Manager LinkedIn van de Campagne zijn bewaard verschijnen als Gebieden LinkedIn die aan de gebieden van Marketo kunnen worden in kaart gebracht.
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
@@ -89,4 +89,4 @@ Echt waar! Personen die LinkedIn Gen-formulieren indienen, gaan naar Marketo wan
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Gebruik LinkedIn de Filters en de Trekkers van de Vorm van de Leider van de Leider in een Slimme Campagne &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}
+>[ Gebruik LinkedIn de Filters en de Trekkers van de Vorm van de Leider van de Leider in een Slimme Campagne ](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}

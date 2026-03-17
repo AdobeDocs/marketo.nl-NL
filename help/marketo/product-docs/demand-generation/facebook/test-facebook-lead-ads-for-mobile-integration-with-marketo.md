@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098759
-description: Test Facebook Lead Ads for Mobile Integration met Marketo - Marketo Docs - Productdocumentatie
+description: Leer hoe u de mobiele integratie van Facebook Lead Ads met Marketo kunt testen. Verifieer lood en bijdragen van mobiele synchronisatie correct.
 title: Advertenties van Facebook testen voor mobiele integratie met Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Nadat je je advertentie hebt gemaakt, moet je deze testen.
 
 >[!PREREQUISITES]
 >
->U moet [&#x200B; Opstelling de [!UICONTROL Facebook Lead Ads] Integratie &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>U moet [ Opstelling de [!UICONTROL Facebook Lead Ads] Integratie ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. Selecteer in [!UICONTROL Facebook Power Editor] een campagne, een advertentie en klik op **[!UICONTROL Edit]** .
 
@@ -45,7 +45,7 @@ Nadat je je advertentie hebt gemaakt, moet je deze testen.
    >
    >Dit is slechts een voorbeeld, dat een Learn More Call to action gebruikt. Je advertentie-eenheid Call to action kan anders zijn.
 
-1. Daar gebeurt de magie! Zodra u uw vorm hebt voorgelegd, [&#x200B; bouwt een slimme lijst in Marketo &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als deel van een programma of in het loodgegevensbestand dat de **[!UICONTROL Filled Out Facebook Lead Ads Form]** filter gebruikt. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
+1. Daar gebeurt de magie! Zodra u uw vorm hebt voorgelegd, [ bouwt een slimme lijst in Marketo ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) als deel van een programma of in het loodgegevensbestand dat de **[!UICONTROL Filled Out Facebook Lead Ads Form]** filter gebruikt. Voeg de naam in van het formulier dat u zojuist hebt verzonden en voeg het formulier voor advertentie-informatie toe.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -57,4 +57,4 @@ Is dat cool of zo?
 
 >[!NOTE]
 >
->[&#x200B; In-/uitschakelen [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[ In-/uitschakelen [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -1,11 +1,11 @@
 ---
-description: Een lijst verzenden naar Google - Marketo Docs - Productdocumentatie
+description: Leer hoe u een statische Marketo-lijst naar Google stuurt voor Customer Match. Selecteer uw lijst, kies Google en een advertentieaccount en houd het publiek desgewenst synchroon.
 title: Een lijst naar Google verzenden
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Voor wie Google Customer Match gebruikt, volgt u de onderstaande stappen om een 
    >
    >* Het selecteren **houdt publiekslidmaatschap in synchronisatie** houdt de lijst bijgewerkt aangezien het in uw instantie verandert. We voegen of verwijderen mensen toe aan het publiek wanneer ze aan de statische lijst worden toegevoegd of eruit worden verwijderd.
    >
-   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD. Voor degenen die van plan zijn om gegevens voor gebruikers in de Europese Economische Ruimte (EEA) te uploaden, heeft Google een lijst van [&#x200B; FAQs &#x200B;](https://support.google.com/google-ads/answer/14310715){target="_blank"} samengesteld, evenals extra details die het [&#x200B; beleid van de de gebruikersgoedkeuring van de EU &#x200B;](https://www.google.com/about/company/user-consent-policy/){target="_blank"} schetsen.
+   >* Als u het selectievakje onderaan inschakelt, wordt de status van toestemming verzonden als GRANTED voor gebruikersgegevens die naar Google Ads worden verzonden voor reclame- en advertentiedoeleinden. Als u deze optie niet inschakelt, wordt de status van de toestemming ONBEPAALD. Voor degenen die van plan zijn om gegevens voor gebruikers in de Europese Economische Ruimte (EEA) te uploaden, heeft Google een lijst van [ FAQs ](https://support.google.com/google-ads/answer/14310715){target="_blank"} samengesteld, evenals extra details die het [ beleid van de de gebruikersgoedkeuring van de EU ](https://www.google.com/about/company/user-consent-policy/){target="_blank"} schetsen.
 
 1. Klik **Update**.
 

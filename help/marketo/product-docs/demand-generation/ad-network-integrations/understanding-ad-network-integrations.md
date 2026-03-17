@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382858
-description: Inzicht in AD-netwerkintegratie - Marketo Docs - Productdocumentatie
+description: Meer informatie over hoe en hoe de netwerkintegratie Marketo-publieksgegevens verbinden met betaalde media. Voer gerichte campagnes uit, neem leads op van advertenties en upload offline conversies.
 title: Inzicht in ad-netwerkintegratie
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Mogelijkheden zijn:
 
    * Bijvoorbeeld, zoekt een persoon, ziet en klikt een advertentie, dan vult een vorm online uit. Daarna, ontvangt hij een demo offline en wordt een kans van CRM. Dat is waar de adverteerder hem aanvalt
 
-* Het opnieuw rangschikken van websitebezoekers, die [&#x200B; Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"} gebruiken, om hen terug naar uw website te drijven
+* Het opnieuw rangschikken van websitebezoekers, die [ Personalization van het Web ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"} gebruiken, om hen terug naar uw website te drijven
 
    * Aanpassen aan segment of verticaal
 
@@ -48,7 +48,7 @@ U kunt integratie gebruiken aan:
 * [Leidingen toevoegen aan een aangepast publiek in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
 * [Creeer een Publiek van de Douane in  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [Omzettingen van de opstelling  [!DNL Facebook]  off line](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het publiek a [!DNL LinkedIn] &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het publiek a [!DNL LinkedIn] ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | Poortgegevens | Inname van lood | Offlineconversie |
 |---|---|---|---|

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359608
-description: De lettertypefamilie van het formulier wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de lettertypefamilie van het formulier kunt wijzigen in Marketo. Selecteer een ander font voor de formuliertekst.
 title: De lettertypefamilie van het formulier wijzigen
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '137'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Google Fonts zijn geweldig en we hebben ze direct in de formuliereditor ingebouw
 
    >[!TIP]
    >
-   >Een groep [&#x200B; de Doopvonten van Google &#x200B;](https://fonts.google.com/){target="_blank"} zijn beschikbaar voor gebruik.
+   >Een groep [ de Doopvonten van Google ](https://fonts.google.com/){target="_blank"} zijn beschikbaar voor gebruik.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
@@ -61,4 +61,4 @@ Zie hoe eenvoudig het was om de lettertypefamilie op een formulier te wijzigen? 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; verander de Grootte van de Doopvont van de Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
+>[ verander de Grootte van de Doopvont van de Vorm ](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)

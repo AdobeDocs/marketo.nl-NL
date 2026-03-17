@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783987
-description: Template 9C - Marketo-documenten - Productdocumentatie
+description: Leer meer over het sjabloon voor de 9C-instructiepagina voor navigatie. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Template 9C
 exl-id: 60c7b740-1b96-4ff1-92ba-05e573d513d1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Template 9C {#template-9c}
 
-Klik met de rechtermuisknop om [&#x200B; Sjabloon 9C te downloaden &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=nl-NL)
+Klik met de rechtermuisknop om [ Sjabloon 9C te downloaden ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 9C.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=nl-NL)
+[ Malplaatje 9C.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)

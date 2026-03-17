@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098242
-description: Vulling van sociaal formulier uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u het invullen van sociale formulieren op een Marketo-formulier uitschakelt. Schakel de optie uit die bezoekers via hun sociale netwerk kunnen verzenden.
 title: Vulling van sociaal formulier uitschakelen
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '86'
 ht-degree: 2%
 
 ---

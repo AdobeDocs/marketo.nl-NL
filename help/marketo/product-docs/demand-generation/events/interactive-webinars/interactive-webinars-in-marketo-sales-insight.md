@@ -1,11 +1,11 @@
 ---
-description: Interactieve webinars in Marketo Sales Insight - Marketo Docs - Productdocumentatie
+description: Meer informatie over het gebruik van interactieve webinars met Marketo Sales Insight. Verbind webinar betrokkenheid met verkoop voor betere loodcontext.
 title: Interactieve webinars in Marketo Sales Insight
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Interactieve webinars in Marketo Sales Insight maken de activiteiten van uw webi
 
 >[!PREREQUISITES]
 >
->Deze eigenschap wordt slechts gesteund voor degenen die de [&#x200B; toe:voegen-op van de Verkoop Insight van 0&rbrace; hebben gekocht.](https://business.adobe.com/nl/products/marketo/sales-intelligence-engagement.html)
+>Deze eigenschap wordt slechts gesteund voor degenen die de [ toe:voegen-op van de Verkoop Insight van 0} hebben gekocht.](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html)
 
 Nadat de activiteiten in Marketo Engage zijn geregistreerd (nadat het webinar in Adobe Connect is voltooid), worden ze in real-time gesynchroniseerd met Salesforce via de MSI-plug-in.
 

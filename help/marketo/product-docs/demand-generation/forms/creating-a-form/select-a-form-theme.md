@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359400
-description: Selecteer een formulierthema - Marketo Docs - Productdocumentatie
+description: Leer hoe u een formulierthema selecteert in Marketo. Kies een thema om de vormgeving te bepalen.
 title: Een formulierthema selecteren
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het bes
 
    >[!TIP]
    >
-   >U kunt CSS van uw vormthema [&#x200B; ook &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md){target="_blank"} uitgeven.
+   >U kunt CSS van uw vormthema [ ook ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md){target="_blank"} uitgeven.
 
 1. Klik op **[!UICONTROL Next]** om andere formulieropties te configureren of klik op **[!UICONTROL Finish]** als u alleen het formulierthema wilt wijzigen.
 
@@ -58,5 +58,5 @@ Hoe makkelijk was dat?! U kunt uw HTML/CSS-boek nu wat stof laten verzamelen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; geef CSS van een Thema van de Vorm uit &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md){target="_blank"}
->* [&#x200B; voeg een Gebied aan een Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} toe
+>* [ geef CSS van een Thema van de Vorm uit ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md){target="_blank"}
+>* [ voeg een Gebied aan een Vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} toe

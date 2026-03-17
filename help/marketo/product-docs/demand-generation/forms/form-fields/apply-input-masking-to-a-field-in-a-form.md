@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359667
-description: Invoermaskering toepassen op een veld in een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u invoermaskering toepast op een formulierveld in Marketo. Stel telefoon, datum of andere velden in als bezoekers.
 title: Invoermaskering toepassen op een veld in een formulier
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---

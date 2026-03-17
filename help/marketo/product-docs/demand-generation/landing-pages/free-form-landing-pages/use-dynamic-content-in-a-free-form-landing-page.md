@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359732
-description: Dynamische inhoud gebruiken in een vrije bestemmingspagina - Marketo Docs - Productdocumentatie
+description: Leer hoe u dynamische inhoud kunt gebruiken op een landingspagina in vrije vorm in Marketo. Andere inhoud voor verschillende segmenten tonen.
 title: Dynamische inhoud gebruiken in een openingspagina met vrije vorm
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publi
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [&#x200B; creeer een Vrije-Vorm het Landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [&#x200B; voeg een Nieuwe Vorm aan een Vrije-Vorm Landing Pagina toe &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
+>* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [ creeer een Vrije-Vorm het Landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [ voeg een Nieuwe Vorm aan een Vrije-Vorm Landing Pagina toe ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 ## Segmentering toevoegen {#add-segmentation}
 
@@ -79,5 +79,5 @@ Voilà! U kunt nu de doelinhoud verzenden.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Voorproef een het Bestaan Pagina met Dynamische Inhoud &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [&#x200B; Gebruikend Dynamische Inhoud in e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
+>* [ Voorproef een het Bestaan Pagina met Dynamische Inhoud ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [ Gebruikend Dynamische Inhoud in e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)

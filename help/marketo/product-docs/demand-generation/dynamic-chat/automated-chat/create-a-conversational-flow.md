@@ -1,11 +1,11 @@
 ---
-description: Een wisselstroom maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een nieuwe Conversational Flow maakt in Dynamic Chat. Kies een sjabloon, stel de naam en de taal in en maak een stream voor de flow.
 title: Een wisselstroom maken
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '99'
 ht-degree: 1%
 
 ---
@@ -30,8 +30,8 @@ Hier is hoe te om een nieuwe Conversationele Stroom te creëren.
    >
    >Hierdoor wordt alleen de taal van de systeemtekst gewijzigd. U bent verantwoordelijk voor het vertalen van inhoud.
 
-1. Enkel als in Dialogen, op dit punt is het tijd om een stroom [&#x200B; tot stand te brengen &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
+1. Enkel als in Dialogen, op dit punt is het tijd om een stroom [ tot stand te brengen ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Conversational Flow Overzicht &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[ Conversational Flow Overzicht ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}

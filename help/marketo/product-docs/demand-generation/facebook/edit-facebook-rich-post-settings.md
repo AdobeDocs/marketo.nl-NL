@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2950555
-description: Facebook Rich Post Settings bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Facebook-rijke berichtinstellingen in Marketo kunt bewerken. Pas aan hoe uw landingspagina's worden weergegeven wanneer deze op Facebook worden gedeeld.
 title: Instellingen Facebook Rich Post bewerken
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo _sociale apps_ staat uw lood toe om uw landende pagina&#39;s met hun ver
 
 U kunt de typen pagina-informatie opgeven die moeten worden gebruikt in de [!DNL Facebook] opgemaakte rijke berichten die worden gegenereerd door shares van uw bestemmingspagina.
 
-1. Selecteer **[!UICONTROL Facebook Message]** in de redacteur voor uw _ _[!DNL YouTube_]_&#x200B;video of sociale knoop.
+1. Selecteer **[!UICONTROL Facebook Message]** in de redacteur voor uw _ _[!DNL YouTube_]_video of sociale knoop.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

@@ -1,11 +1,11 @@
 ---
-description: Onbeantwoorde vragen - Marketo Docs - Productdocumentatie
+description: Leer hoe u onbeantwoorde of niet-nuttige chatbotvragen kunt weergeven en beantwoorden. Voeg vanuit deze lijst nieuwe goedgekeurde reacties toe aan uw reactiebibliotheek.
 title: Onbeantwoorde vragen
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---

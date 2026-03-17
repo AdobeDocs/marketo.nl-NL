@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095239
-description: Filters en triggers voor advertenties gebruiken in een slimme campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u filters en triggers van Facebook Lead Ads kunt gebruiken in een slimme Marketo-campagne. Automatiseer handelingen wanneer leads verzenden vanaf Facebook.
 title: Filters en triggers voor advertenties gebruiken in een slimme campagne
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

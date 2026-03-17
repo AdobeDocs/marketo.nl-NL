@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359618
-description: Rijke tekst toevoegen aan een formulier - Marketo Docs - Productdocumentatie
+description: Leer hoe u RTF-tekst toevoegt aan een Marketo-formulier. Voeg koppen, koppelingen of instructies in boven of onder formuliervelden.
 title: Rijke tekst toevoegen aan een formulier
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 
@@ -57,4 +57,4 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
 
 >[!TIP]
 >
->Wist u u kunt ook [&#x200B; zichtbaarheidsregels &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok toevoegen?
+>Wist u u kunt ook [ zichtbaarheidsregels ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok toevoegen?

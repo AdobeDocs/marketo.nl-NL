@@ -1,12 +1,12 @@
 ---
-description: Agent Inbox - Marketo Docs - Productdocumentatie
+description: Leer over de Agent Inbox waar de levende praatjeagenten gesprekken van het gebiedsveld. Bekijk actieve en vroegere chats, bezoekersinfo, en reeks beschikbaarheidsstatus.
 title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 >[!IMPORTANT]
 >
->**dit zal** met voeten treden de [&#x200B; levende praatjebeschikbaarheid &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
+>**dit zal** met voeten treden de [ levende praatjebeschikbaarheid ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} u in de Montages van de Agent vestigde. De status zal blijven tot of u het, of aan het volgende blok van tijd in uw beschikbaarheid terugschakelt.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Op de hoger-juiste kant van het scherm van de Agent Inbox, hebt u de optie om uw
 
 ## Live Chatmeldingen {#live-chat-notifications}
 
-Leer meer over berichten in het [&#x200B; Levende Overzicht van het Praatje &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Leer meer over berichten in het [ Levende Overzicht van het Praatje ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Gesprek {#conversations}
 

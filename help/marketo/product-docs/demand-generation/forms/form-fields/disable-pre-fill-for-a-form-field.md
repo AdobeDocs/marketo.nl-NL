@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359675
-description: Pre-fill voor een formulierveld uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u het vooraf invullen van een formulierveld in Marketo uitschakelt. Bekende bezoekersgegevens stoppen door het veld automatisch te vullen.
 title: Pre-fill voor een formulierveld uitschakelen
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
@@ -53,6 +53,6 @@ Wanneer een webbezoeker bekend is (gekookt), vullen Marketo-formulieren velden s
 
 ## Gevoelige velden {#sensitive-fields}
 
-Wanneer u [&#x200B; een gebied als gevoelig &#x200B;](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) markeert, verhinderend zijn waarden in vormen worden vooraf ingevuld, zult u dit op de pre-Vullingsoptie zien.
+Wanneer u [ een gebied als gevoelig ](/help/marketo/product-docs/administration/field-management/mark-a-field-as-sensitive.md) markeert, verhinderend zijn waarden in vormen worden vooraf ingevuld, zult u dit op de pre-Vullingsoptie zien.
 
 ![](assets/disable-pre-fill.png)

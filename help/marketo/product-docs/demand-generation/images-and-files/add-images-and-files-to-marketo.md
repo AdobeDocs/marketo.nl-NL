@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359858
-description: Afbeeldingen en bestanden toevoegen aan Marketo - Marketo-documenten - Productdocumentatie
+description: Leer hoe u afbeeldingen en bestanden toevoegt aan Marketo. Upload elementen naar de Design Studio voor gebruik in e-mails, bestemmingspagina's en formulieren.
 title: Afbeeldingen en bestanden toevoegen aan Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,4 @@ Leer hoe u nieuwe afbeeldingen of bestanden aan uw Marketo Engage-exemplaar kunt
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; organiseer Uw Beelden en Dossiers gebruikend Omslagen &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+   >[ organiseer Uw Beelden en Dossiers gebruikend Omslagen ](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

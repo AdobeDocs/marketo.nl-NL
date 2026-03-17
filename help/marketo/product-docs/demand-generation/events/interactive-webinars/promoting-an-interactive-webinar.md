@@ -1,11 +1,11 @@
 ---
-description: Een interactief webinar promoten - Marketo Docs - Productdocumentatie
+description: Leer hoe u een interactief webinar promoot in Marketo. Deel registratiekoppelingen en drijf aanwezigheid met e-mails en campagnes.
 title: Een interactief webinar promoten
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Zodra een lid in de &quot;geregistreerde&quot;programmastatus in een Interactief
 
 Binnen een paar minuten na registratie wordt de webinar-URL voor het lid ingevuld op het tabblad Leden. Als u de kolom voor Webinar URL niet kunt vinden, zorg ervoor dat die kolom aan uw mening is toegevoegd. Dit is een gepersonaliseerde URL voor elk geregistreerd lid om het webinar in geplande tijd zonder enige authentificatie te kunnen ingaan. Tokens die intern worden uitgewisseld, zorgen voor de authenticatie van de leden.
 
-U kunt het `{{member.webinar url}}` [&#x200B; teken &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} gebruiken om Webinar URL aan individuele leden in een e-mailcampagne te omvatten om mee te delen dat zij in de gebeurtenis zijn geregistreerd en het aansluiten van URL te gebruiken om webinar bij de geplande tijd in te gaan. De tokens van de kalender kunnen in de zelfde e-mailcampagne worden gebruikt om ervoor te zorgen dat het webinar programma aan de kalenders van de leden kan worden toegevoegd.
+U kunt het `{{member.webinar url}}` [ teken ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} gebruiken om Webinar URL aan individuele leden in een e-mailcampagne te omvatten om mee te delen dat zij in de gebeurtenis zijn geregistreerd en het aansluiten van URL te gebruiken om webinar bij de geplande tijd in te gaan. De tokens van de kalender kunnen in de zelfde e-mailcampagne worden gebruikt om ervoor te zorgen dat het webinar programma aan de kalenders van de leden kan worden toegevoegd.
 
 De verbindingen zijn beschikbaar op de rechterkant van het lusje van het Overzicht in uw Programma van de Gebeurtenis om een Openende Pagina evenals een e-mailcampagne tot stand te brengen. De rest bevorderingen met betrekking tot een gebeurtenis blijven het zelfde als partner webinars gebruikend de integratie van Launchpoint.
 

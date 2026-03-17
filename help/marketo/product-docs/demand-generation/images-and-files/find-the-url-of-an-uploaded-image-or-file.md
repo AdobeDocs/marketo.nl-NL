@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359870
-description: De URL van een geüploade afbeelding of bestand zoeken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de URL van een geüploade afbeelding of bestand in Marketo kunt vinden. Haal de URL van het element op voor gebruik in e-mails of externe pagina's.
 title: De URL van een geüploade afbeelding of bestand zoeken
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '77'
 ht-degree: 1%
 
 ---
@@ -33,4 +33,4 @@ Op zoek naar het webadres (URL) van een afbeelding of bestand dat u hebt geüplo
 
 >[!MORELIKETHIS]
 >
->[&#x200B; vervangt een Geüploade Beeld of Dossier &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[ vervangt een Geüploade Beeld of Dossier ](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

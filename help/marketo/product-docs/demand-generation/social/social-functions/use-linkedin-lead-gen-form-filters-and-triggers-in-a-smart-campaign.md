@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12976776
-description: Gebruik LinkedIn Gen Form Filters and Triggers in een slimme campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u LinkedIn Lead Gen Form-filters en -triggers gebruikt in een slimme Marketo-campagne. Automatiseer handelingen wanneer leads LinkedIn-formulieren verzenden.
 title: LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---

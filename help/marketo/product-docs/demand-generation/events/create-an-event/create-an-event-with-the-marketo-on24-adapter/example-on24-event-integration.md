@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096679
-description: Voorbeeld ON24-gebeurtenisintegratie - Marketo Docs - productdocumentatie
+description: Leer uit een voorbeeld van ON24-gebeurtenisintegratie met Marketo. Bekijk een voorbeeldstroom van webinar aanmaken tot registratiesync.
 title: Voorbeeld ON24-gebeurtenisintegratie
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -93,4 +93,4 @@ Hier is een voorbeeldgebeurtenis, inclusief campagnes, voor een ON24 webinar. Wa
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrip Marketo ON24 adaptergebeurtenissen &#x200B;](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[ Begrip Marketo ON24 adaptergebeurtenissen ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

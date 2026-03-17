@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359679
-description: CSS van een formulierthema bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de CSS van een formulierthema kunt bewerken in Marketo. Pas de weergave van het formulier aan met aangepaste stijlen.
 title: CSS van een formulierthema bewerken
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # CSS van een formulierthema bewerken {#edit-the-css-of-a-form-theme}
 
-U hebt een paar pre-gebouwde [&#x200B; thema&#39;s u enkel van &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) kunt kiezen. Maar als u graag CSS bewerkt, kunt u alle gewenste wijzigingen aanbrengen. Zo gaat het.
+U hebt een paar pre-gebouwde [ thema&#39;s u enkel van ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) kunt kiezen. Maar als u graag CSS bewerkt, kunt u alle gewenste wijzigingen aanbrengen. Zo gaat het.
 
 >[!NOTE]
 >

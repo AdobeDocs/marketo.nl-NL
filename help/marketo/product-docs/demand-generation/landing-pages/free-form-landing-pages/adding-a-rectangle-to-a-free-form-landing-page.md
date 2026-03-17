@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359707
-description: Een rechthoek toevoegen aan een vrije landingspagina - Marketo Docs - Productdocumentatie
+description: Leer hoe u een rechthoek toevoegt aan een landingspagina in vrije vorm in Marketo. Gebruik rechthoeken voor lay-out, scheidingslijnen of ontwerpelementen.
 title: Een rechthoek toevoegen aan een vrije landingspagina
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Rechthoeken op bestemmingspagina&#39;s zijn ideaal voor het benadrukken van een 
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Gefeliciteerd! U kunt nu rechthoeken maken op uw openstaande bestemmingspagina&#39;s.
+Gefeliciteerd. U kunt nu rechthoeken maken op uw openstaande bestemmingspagina&#39;s.

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 12983101
-description: Aangepaste velden toewijzen aan Marketo - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste velden voor advertenties in Facebook toewijst aan Marketo. Zorg ervoor dat de juiste persoonvelden in Marketo in lood- en gegevenstoewijzingen worden geplaatst.
 title: Aangepaste velden toewijzen aan Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '248'
 ht-degree: 1%
 
 ---
 
 # Aangepaste velden toewijzen aan Marketo {#map-custom-fields-to-marketo}
 
-Mogelijk wilt u meer dan de standaardgegevens verzamelen die [!DNL Facebook] standaard opslaat, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit verwezenlijken door [&#x200B; het creëren van douanevragen &#x200B;](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in uw [!DNL Facebook] lood advertenties.
+Mogelijk wilt u meer dan de standaardgegevens verzamelen die [!DNL Facebook] standaard opslaat, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit verwezenlijken door [ het creëren van douanevragen ](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in uw [!DNL Facebook] lood advertenties.
 
-Nochtans, **Marketo zal niet automatisch beginnen deze gegevens** te verzamelen. Opdat Marketo begint de waarden van het douanegebied te vangen, moet u **&#x200B;**&#x200B;die douanegebieden aan een gebied in Marketo in kaart brengen.
+Nochtans, **Marketo zal niet automatisch beginnen deze gegevens** te verzamelen. Opdat Marketo begint de waarden van het douanegebied te vangen, moet u **** die douanegebieden aan een gebied in Marketo in kaart brengen.
 
 Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin.
 
@@ -57,7 +57,7 @@ Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin
 
    >[!NOTE]
    >
-   >Als u reeds geen gebied in Marketo hebt om het [!DNL Facebook] gebied in kaart te brengen aan, leer hoe te [&#x200B; douanegebieden &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
+   >Als u reeds geen gebied in Marketo hebt om het [!DNL Facebook] gebied in kaart te brengen aan, leer hoe te [ douanegebieden ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
 
 >[!CAUTION]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949844
-description: Een nieuw gebeurtenisprogramma maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een nieuw gebeurtenisprogramma maakt in Marketo. Stel uw programma in, kies een kanaal en configureer gebeurtenisinstellingen.
 title: Een nieuw gebeurtenisprogramma maken
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de
 
    >[!NOTE]
    >
-   >De kanalen bepalen de verschillende status een persoon in een programma kan hebben. Leer meer over [&#x200B; programmalidmaatschap &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) hier.
+   >De kanalen bepalen de verschillende status een persoon in een programma kan hebben. Leer meer over [ programmalidmaatschap ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) hier.
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
@@ -51,9 +51,9 @@ Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Zodra uw gebeurtenis wordt gecreeerd, bouw de [&#x200B; landende pagina&#39;s &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [&#x200B; vormen &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), en [&#x200B; e-mails &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) om uw gasten uit te nodigen! U zult ook vertrouwd met de [&#x200B; mening van het programmaprogramma &#x200B;](https://docs.marketo.com/display/docs/program+schedule+view) willen worden.
+Zodra uw gebeurtenis wordt gecreeerd, bouw de [ landende pagina&#39;s ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [ vormen ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), en [ e-mails ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) om uw gasten uit te nodigen! U zult ook vertrouwd met de [ mening van het programmaprogramma ](https://docs.marketo.com/display/docs/program+schedule+view) willen worden.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Marketing Kalender &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
->* [&#x200B; Gebruikend de Kosten van de Periode in een Programma &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+>* [ Marketing Kalender ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md)
+>* [ Gebruikend de Kosten van de Periode in een Programma ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)

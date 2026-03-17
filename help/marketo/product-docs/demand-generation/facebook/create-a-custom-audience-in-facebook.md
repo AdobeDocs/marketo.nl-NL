@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: Een aangepast publiek maken in Facebook - Marketo Docs - Productdocumentatie
+description: Leer hoe u een aangepast publiek kunt maken op Facebook vanuit Marketo. Verzend Marketo-lijsten naar Facebook voor gerichte advertentiecampagnes.
 title: Een aangepast publiek maken op Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; voegt  [!DNL Facebook]  de Doopvonken van de Douane als Dienst LaunchPoint &#x200B;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} in de Admin sectie toe.
->* [&#x200B; keurt {de Termen van het Soorten van het Soorten publiek van 1}  [!DNL Facebook] binnen uw &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} rekening goed.[!DNL Facebook]
+>* [ voegt  [!DNL Facebook]  de Doopvonken van de Douane als Dienst LaunchPoint ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} in de Admin sectie toe.
+>* [ keurt {de Termen van het Soorten van het Soorten publiek van 1}  [!DNL Facebook] binnen uw ](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} rekening goed.[!DNL Facebook]
 
 >[!TIP]
 >
->Leer meer over [&#x200B; douanepubliek in  [!DNL Facebook] &#x200B;](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Leer meer over [ douanepubliek in  [!DNL Facebook] ](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Zoek en selecteer de slimme of statische lijst met de leads waaruit u het publiek wilt maken.
 
@@ -68,4 +68,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; voegt Leidingen aan een Publiek van de Douane binnen toe  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[ voegt Leidingen aan een Publiek van de Douane binnen toe  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

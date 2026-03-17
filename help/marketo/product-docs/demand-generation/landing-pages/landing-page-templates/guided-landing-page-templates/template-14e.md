@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437813
-description: Sjabloon 14E - Marketo Docs - Productdocumentatie
+description: Meer informatie over de sjabloon voor de sjabloon Sjabloon 14E met instructies voor de landingspagina. Download en gebruik deze voor uw Marketo-bestemmingspagina's.
 title: Sjabloon 14E
 exl-id: e45e2277-2d15-44fb-b48d-107e80f849b7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 14E {#template-14e}
 
-Klik met de rechtermuisknop aan [&#x200B; downloadmalplaatje 14E &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=nl-NL)
+Klik met de rechtermuisknop aan [ downloadmalplaatje 14E ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)
 
 ![](assets/image2015-8-13-10-3a48-3a0.png)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **klik hieronder met de rechtermuisknop aan om dit malplaatje te downloaden:**
 
-[&#x200B; Malplaatje 14E.html &#x200B;](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html?lang=nl-NL)
+[ Malplaatje 14E.html ](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14e.html)

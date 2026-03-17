@@ -1,11 +1,11 @@
 ---
-description: Een dialoogvenster maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een nieuw dialoogvenster maakt in Dynamic Chat. Kies een malplaatje, plaats naam en prioriteit, dan creeer een stroom voor uw gesprek.
 title: Een dialoogvenster maken
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '92'
 ht-degree: 1%
 
 ---
@@ -30,9 +30,9 @@ Hier is hoe te om een nieuwe Dialoog te creëren.
 >
 >De prioriteit bepaalt welke Dialoog aan een bezoeker zal worden getoond wanneer zij voor veelvoudige Dialogen gelijktijdig kwalificeren.
 
-Daarna, leer hoe te [&#x200B; tot een stroom &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} leiden.
+Daarna, leer hoe te [ tot een stroom ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} leiden.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Criteria van de Publiek &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [&#x200B; stroom Designer &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [ Criteria van de Publiek ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [ stroom Designer ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

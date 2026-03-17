@@ -1,11 +1,11 @@
 ---
-description: Een webinar team toevoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een webinar team toevoegt in Interactieve webinars. Wijs teamleden toe om te helpen webinars maken, beheren of leveren.
 title: Een webinar-team toevoegen
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Een webinar Team in Interactieve Webinars bestaat uit alle rollen die tot de suc
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Interactief Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>* [ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
 >
->* [&#x200B; Ontwerp uw Interactieve Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
+>* [ Ontwerp uw Interactieve Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 De presentator is een externe rol die deelneemt aan het leveren van de webinar ervaring, terwijl co-hosts als presentator kunnen optreden en administratieve aspecten van webinar levering kunnen behandelen. Cohosts kunnen zowel intern als extern zijn. Externe co-hosts hebben geen toegang tot de interactieve Webinar-gebeurtenisprogramma&#39;s in Marketo, maar hebben wel hostmachtigingen tijdens levering in Adobe Connect. Interne cohosts hebben tijdens de levering toegang tot zowel het interactieve webinar-gebeurtenisprogramma in Marketo als tot de hostmachtigingen. Dit helpt ervoor zorgen dat de interne co-hosts de rijen van het Interactive Webinar-gebeurtenisprogramma kunnen nemen wanneer de oorspronkelijke maker van het Interactive Webinar-programma geen deel meer uitmaakt van de gebruikersset van Interactive Webinars of zelfs geen Marketo-gebruiker is.
 
@@ -50,7 +50,7 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
 >[!NOTE]
 >
-> Het ![&#x200B; exemplaar co-host pictogram URL &#x200B;](assets/icon-copy-join-url.png) pictogram kopieert cohost die URL toetreedt, en ![&#x200B; verzendt cohost een uitnodigingsE-mail &#x200B;](assets/icon-send-invitation-email.png) pictogram verzendt cohost een uitnodigingsE-mail.
+> Het ![ exemplaar co-host pictogram URL ](assets/icon-copy-join-url.png) pictogram kopieert cohost die URL toetreedt, en ![ verzendt cohost een uitnodigingsE-mail ](assets/icon-send-invitation-email.png) pictogram verzendt cohost een uitnodigingsE-mail.
 
 ## Een presentator toevoegen {#add-a-presenter}
 
@@ -72,8 +72,8 @@ De presentator is een externe rol die deelneemt aan het leveren van de webinar e
 
 >[!NOTE]
 >
-> Het ![&#x200B; pictogram van de exemplaarpresentator URL &#x200B;](assets/icon-copy-join-url.png) kopieert de presentator die URL toetreedt, en ![&#x200B; verzendt presentator een uitnodigingse-mailpictogram &#x200B;](assets/icon-send-invitation-email.png) verzendt de presentator een uitnodigingse-mail.
+> Het ![ pictogram van de exemplaarpresentator URL ](assets/icon-copy-join-url.png) kopieert de presentator die URL toetreedt, en ![ verzendt presentator een uitnodigingse-mailpictogram ](assets/icon-send-invitation-email.png) verzendt de presentator een uitnodigingse-mail.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Interactief Webinar &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>[ creeer een Interactief Webinar ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}

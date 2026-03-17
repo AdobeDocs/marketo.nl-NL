@@ -1,11 +1,11 @@
 ---
-description: Demandbase - Marketo Docs - Productdocumentatie
+description: Leer hoe te om de attributen van de Demandbase persoon in Dynamic Chat voor dialoog het richten en het verpletteren te gebruiken. Haal de API-sleutel op en schakel de integratie in.
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,11 @@ De stappen hieronder moeten _in uw rekening van de Demandbase_ worden gedaan.
 
 1. Gebruikend het _exemplaar_ pictogram, kopieer het Symbolische koord van API bij de bodem van de pagina.
 
-1. Verzend een kaartje met [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) en verstrek het Symbolische Koord van API om de integratie van de Demandbase te activeren.
+1. Verzend een kaartje met [ Steun van Marketo ](https://nation.marketo.com/t5/support/ct-p/Support) en verstrek het Symbolische Koord van API om de integratie van de Demandbase te activeren.
 
 >[!NOTE]
 >
->Voor extra informatie, zie [&#x200B; de Demandbase van de Opstelling om Gegevens naar een Integratie (de Schakelaar van de Rekening) &#x200B;](https://support.demandbase.com/hc/en-us/articles/360057169531-Set-Up-Demandbase-to-Send-Data-to-an-Integration-Account-Connector){target="_blank"} in de de hulpplaats van de Demandbase te verzenden.
+>Voor extra informatie, zie [ de Demandbase van de Opstelling om Gegevens naar een Integratie (de Schakelaar van de Rekening) ](https://support.demandbase.com/hc/en-us/articles/360057169531-Set-Up-Demandbase-to-Send-Data-to-an-Integration-Account-Connector){target="_blank"} in de de hulpplaats van de Demandbase te verzenden.
 
 ## Integratiefuncties {#integration-features}
 

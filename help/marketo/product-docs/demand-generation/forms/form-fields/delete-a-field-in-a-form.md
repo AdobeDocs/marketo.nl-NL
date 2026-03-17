@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359606
-description: Een veld in een formulier verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een veld uit een Marketo-formulier verwijdert. Verwijder velden die u niet meer nodig hebt uit het formulier.
 title: Een veld in een formulier verwijderen
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 2%
 
 ---
@@ -37,4 +37,4 @@ Als er een veld is dat u niet meer nodig hebt in het formulier, kunt u het gemak
 
 >[!NOTE]
 >
->Vergeet niet [&#x200B; goed te keuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.
+>Vergeet niet [ goed te keuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de vormveranderingen wordt gecreeerd.

@@ -1,11 +1,11 @@
 ---
-description: Betrokkenheidsdashboard - Marketo-documenten - Productdocumentatie
+description: Meer informatie over het Interactive Webinars betrokkenheidsdashboard. Metrische gegevens en inzichten over de betrokkenheid van deelnemers bekijken tijdens en na uw webinars.
 title: Betrokkenheidsdashboard
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1712'
 ht-degree: 0%
 
 ---
@@ -301,7 +301,7 @@ Begrijp de criteria voor het classificeren van het betrokkenheidsniveau voor elk
     <li>De deelnemer heeft ten minste één vraag gesteld in de pod Vragen en antwoorden.</li></td>
   </tr>
   <tr>
-    <td>Medium</td>
+    <td>Gemiddeld</td>
     <td>Deelnemers die aan alle volgende criteria voldoen:
     <li>Het betrokkenheidsniveau van de aanwezige is niet hoog.</li>
     <li>De aanwezigheidsduur is ten minste 60% van de totale tijd van de gebeurtenis.</li>

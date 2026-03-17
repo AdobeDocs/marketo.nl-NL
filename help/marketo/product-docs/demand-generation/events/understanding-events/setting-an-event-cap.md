@@ -1,13 +1,13 @@
 ---
-description: Een gebeurtenissenkaart instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een gebeurtenisuiteinde instelt in Marketo. Beperk het aantal registranten of deelnemers voor uw gebeurtenisprogramma.
 title: Een gebeurtenissenkaart instellen
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Interactieve webinars-aanpassing - Marketo Docs - Productdocumentatie
+description: Meer informatie over het aanpassen van interactieve webinars in Marketo. Configureer branding, lay-out en opties om deze aan te passen aan uw organisatie en gebeurtenissen.
 title: Interactieve webinars aanpassen
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
@@ -141,4 +141,4 @@ Selecteer **toepassen** om de veranderingen te bewaren of **Terugstellen aan geb
 
 * De gastheren kunnen thema&#39;s tijdens ruimteverwezenlijking kiezen of hen bijwerken later van de pagina van de ruimteinformatie (**de hoogste bar van de Zaal** > **Meer menu** > **de ruimteinformatie van de Mening**).
 
-Leer meer over [&#x200B; Thema&#39;s &#x200B;](https://helpx.adobe.com/nl/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Leer meer over [ Thema&#39;s ](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

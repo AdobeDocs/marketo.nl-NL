@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359705
-description: Een nieuw formulier toevoegen aan een landingspagina met vrije vorm - Marketo Docs - Productdocumentatie
+description: Leer hoe u een nieuw formulier toevoegt aan een landingspagina in vrije vorm in Marketo. Voeg een Marketo-formulier in om leads op de pagina vast te leggen.
 title: Een nieuw formulier toevoegen aan een openingspagina met vrije vorm
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Vorm &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
->* [&#x200B; creeer een Vrije-Vorm het Landen Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [ creeer een Vorm ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+>* [ creeer een Vrije-Vorm het Landen Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -54,4 +54,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    Echt waar!
 
-Sluit enkel de het landen paginaredacteur en [&#x200B; goedkeuren het het landen paginaconcept &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Sluit enkel de het landen paginaredacteur en [ goedkeuren het het landen paginaconcept ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

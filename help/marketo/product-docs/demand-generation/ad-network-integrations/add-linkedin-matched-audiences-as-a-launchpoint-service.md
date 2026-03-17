@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504163
-description: Voeg  [!DNL LinkedIn]  Gelijke Publiek als a [!DNL LaunchPoint]  Dienst toe - de Documentatie van Marketo - van het Product
+description: Leer hoe te om LinkedIn Gelijke Publiek als dienst toe te voegen LaunchPoint. Gebruik Marketo-lijsten als LinkedIn-publiekssegmenten voor advertenties.
 title: Voeg  [!DNL LinkedIn]  Gelijke Soorten Soorten publiek als a [!DNL LaunchPoint]  Dienst toe
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '203'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->LinkedIn voert een upgrade uit van de marketing-API&#39;s die door Marketo Engage LinkedIn-integratie worden gebruikt. Deze veranderingen zullen re-authentificatie van alle diensten LinkedIn LaunchPoint in uw **Admin** > **LaunchPoint** menu tussen 7 Juni en 15 December, 2024 vereisen, om de dienstonderbreking te vermijden. Voor meer informatie, gelieve te zien [&#x200B; Veelgestelde vragen van de Migratie &#x200B;](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn voert een upgrade uit van de marketing-API&#39;s die door Marketo Engage LinkedIn-integratie worden gebruikt. Deze veranderingen zullen re-authentificatie van alle diensten LinkedIn LaunchPoint in uw **Admin** > **LaunchPoint** menu tussen 7 Juni en 15 December, 2024 vereisen, om de dienstonderbreking te vermijden. Voor meer informatie, gelieve te zien [ Veelgestelde vragen van de Migratie ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Sluit uw Marketo-account aan op [!DNL LinkedIn] Gelijkend publiek om een statisc
 
    ![](assets/admin.png)
 
-1. Selecteer **[!UICONTROL LaunchPoint]** .
+1. Selecteer **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
@@ -65,4 +65,4 @@ Sluit uw Marketo-account aan op [!DNL LinkedIn] Gelijkend publiek om een statisc
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het a [!DNL LinkedIn]  publiek &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[ Gebruik een Lijst van Marketo of een Slimme Lijst als Segment van het a [!DNL LinkedIn]  publiek ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
