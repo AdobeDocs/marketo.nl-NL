@@ -26,7 +26,7 @@ Volg de onderstaande stappen om te leren hoe u hyperlinks aan uw e-mailsjablonen
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Voer de URL in waarnaar u een koppeling wilt maken (bijvoorbeeld `https://experienceleague.adobe.com/docs/marketo/using/home.html` ). Kies of u de URL in hetzelfde of in een nieuw venster wilt openen en klik op **[!UICONTROL Save]** .
+1. Voer de URL in waarnaar u een koppeling wilt maken (bijvoorbeeld `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=nl-NL` ). Kies of u de URL in hetzelfde of in een nieuw venster wilt openen en klik op **[!UICONTROL Save]** .
 
    ![](assets/add-hyperlinked-text-4.png)
 
