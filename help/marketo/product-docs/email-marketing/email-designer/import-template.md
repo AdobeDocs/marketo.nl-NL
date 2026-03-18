@@ -2,20 +2,21 @@
 solution: Marketo Engage
 product: marketo
 title: Sjabloon importeren
-description: Leer hoe u uw bestaande e-mailsjablonen vanuit de klassieke editor importeert in de nieuwe e-mailversie van Designer.
+description: Leer hoe u e-mailsjablonen uit de klassieke editor importeert in de e-mailtoepassing van de Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
 
 # Sjabloon importeren {#template-import}
 
-Importeer uw bestaande e-mailsjablonen eenvoudig van de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt met vertrouwde, herbruikbare structuren. Het overzicht [&#x200B; beste praktijken &#x200B;](#best-practices) en leert over [&#x200B; beperkingen en oplossingen &#x200B;](#limitations-and-remedies).
+Importeer uw bestaande e-mailsjablonen eenvoudig van de klassieke editor naar de nieuwe e-mailtoepassing, zodat uw ontwerpen behouden blijven en het maken van sjablonen sneller verloopt met vertrouwde, herbruikbare structuren. Het overzicht [ beste praktijken ](#best-practices) en leert over [ beperkingen en oplossingen ](#limitations-and-remedies).
 
 >[!NOTE]
 >

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359494
-description: Testprocedure "onderwerpregel" A/B gebruiken - Marketo Docs - Productdocumentatie
+description: Leer hoe u A/B-tests voor het onderwerp uitvoert in e-mailprogramma's. Test verschillende onderwerpregel en kies een winnaar op prestaties.
 title: Testen van "onderwerpregel" A/B gebruiken
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests i
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
+>[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
 
 1. Klik onder **[!UICONTROL Email tile]** met de geselecteerde e-mail op **[!UICONTROL Add A/B Test]** .
 
@@ -47,4 +47,4 @@ U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests i
    >
    >De verschillende variaties van het onderwerp nemen zelfs delen van de geselecteerde Grootte van het Monster van de Test.
 
-   Oké, we zijn er bijna. Nu moeten wij [&#x200B; de criteria van de A/B testwinnaar &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.
+   Oké, we zijn er bijna. Nu moeten wij [ de criteria van de A/B testwinnaar ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359877
-description: Uitgebreide inhoudsmeldingen uitschakelen en inschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u uitgewerkte inhoudsmeldingen in- of uitschakelt. Gebruik het lusje van de Opstelling en Uitgebreide Inhoudsberichten die voor uw programma plaatsen.
 title: Uitgebreide inhoudsmeldingen uitschakelen en inschakelen
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---

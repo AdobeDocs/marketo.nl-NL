@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900589
-description: Bijgehouden koppelingen toevoegen aan een tekste-mail - Marketo Docs - Productdocumentatie
+description: Leer hoe u bijgehouden koppelingen naar e-mails met alleen tekst kunt toevoegen. Schakel het bijhouden van koppelingen in, zodat u kliks in uw e-mailrapporten kunt meten.
 title: Bijgehouden koppelingen toevoegen aan een tekste-mail
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer slechts een Tekst E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
->* [&#x200B; geeft Elementen in E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) uit
+>* [ creeer slechts een Tekst E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [ geeft Elementen in E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) uit
 
 E-mailkoppelingen naar tekst kunnen worden bijgehouden in Marketo. Laten we eens kijken hoe het werkt.
 

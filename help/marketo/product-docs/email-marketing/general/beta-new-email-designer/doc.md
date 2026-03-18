@@ -1,12 +1,12 @@
 ---
-description: Temp doc - Marketo Docs - Productdocumentatie
+description: Tijdelijk document voor de nieuwe e-mail Designer bèta. Voeg elementen toe en gebruik de ontwerper voor het testen van bèta (verberg deze in de inhoudsopgave).
 title: Temp doc
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ### Assets toevoegen {#add-assets}
 
-Voeg beelden toe die in de [&#x200B; sectie van Beelden en van Dossiers &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
+Voeg beelden toe die in de [ sectie van Beelden en van Dossiers ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} van uw instantie van Marketo Engage worden opgeslagen.
 
 >[!NOTE]
 >

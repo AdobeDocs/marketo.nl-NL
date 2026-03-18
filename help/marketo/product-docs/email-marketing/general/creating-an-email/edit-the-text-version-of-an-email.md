@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11372054
-description: De tekstversie van een e-mail bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de tekstversie van een e-mail kunt bewerken. Werk de onbewerkte-tekstversie bij voor toegankelijkheid en fallback weergave.
 title: De tekstversie van een e-mail bewerken
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wanneer u een e-mailbericht maakt, wilt u mogelijk dat de tekstversie anders wor
 
 >[!NOTE]
 >
->Dit is geen artikel over het maken van een e-mail met alleen tekst. Voor informatie over dat, zie [&#x200B; een tekst-Enige E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) creëren.
+>Dit is geen artikel over het maken van een e-mail met alleen tekst. Voor informatie over dat, zie [ een tekst-Enige E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) creëren.
 
 1. Klik in de e-maileditor op het tabblad **[!UICONTROL Text]** onder aan de e-mail.
 

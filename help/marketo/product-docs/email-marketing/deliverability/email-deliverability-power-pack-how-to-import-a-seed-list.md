@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099077
-description: Leer hoe u een lijst met voorbeelden importeert in uw Marketo Engage-exemplaar.
+description: Leer hoe u een zaadlijst in Marketo Engage importeert voor plaatsingstests in postvakken. Gebruik de Everest om de lijst voor te downloaden en toe te voegen.
 title: E-maillevering Power Pack - Een zaadlijst importeren
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
 
 >[!IMPORTANT]
 >
->Dit artikel is bedoeld voor diegenen die momenteel een actieve Everest-abonnement hebben. Als u de Traceur van Inbox door Vogel (vroeger MessageBird) gebruikt, kunnen uw leerprogramma&#39;s [&#x200B; hier &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"} worden gevonden.
+>Dit artikel is bedoeld voor diegenen die momenteel een actieve Everest-abonnement hebben. Als u de Traceur van Inbox door Vogel (vroeger MessageBird) gebruikt, kunnen uw leerprogramma&#39;s [ hier ](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"} worden gevonden.
 
 ## Een zaadlijst importeren {#import-a-seed-list}
 
@@ -41,7 +41,7 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
    >
    >Gebruik de functie Zaadlijst optimaliseren (boven aan de pagina) als u wilt dat [!DNL Everest] de lijst voor u optimaliseert.
 
-1. Na het exporteren wordt de lijst weergegeven als een TXT-bestand in de downloadmap van uw browser. Haal het terug, en [&#x200B; voer &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) het in uw instantie van Marketo als statische lijst in.
+1. Na het exporteren wordt de lijst weergegeven als een TXT-bestand in de downloadmap van uw browser. Haal het terug, en [ voer ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) het in uw instantie van Marketo als statische lijst in.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

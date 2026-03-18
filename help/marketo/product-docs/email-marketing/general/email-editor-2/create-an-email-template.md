@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096400
-description: Een e-mailsjabloon maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailsjabloon maakt in E-maileditor 2.0. Bouw herbruikbare malplaatjes met modules en editable secties.
 title: Een e-mailsjabloon maken
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ Als u uw e-mailsjabloon wilt aanpassen, checkt u het onderstaande artikel uit.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

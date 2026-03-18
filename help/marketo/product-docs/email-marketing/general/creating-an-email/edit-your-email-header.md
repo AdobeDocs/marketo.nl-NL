@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359453
-description: Je e-mailkoptekst bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de koptekst van uw e-mail kunt bewerken (van naam, van e-mail, repliek tot, onderwerp). Stel de koptekstvelden in de e-maileditor in.
 title: Uw e-mailkoptekst bewerken
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Als u deze waarden wilt bewerken, klikt u in elk veld en voert u de gegevens in.
 
 >[!TIP]
 >
->Om een gebrek van Naam en van E-mail te plaatsen, zie [&#x200B; het Gebrek van E-mail en van Etiket &#x200B;](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md) veranderen.
+>Om een gebrek van Naam en van E-mail te plaatsen, zie [ het Gebrek van E-mail en van Etiket ](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md) veranderen.
 
 Als u een token wilt gebruiken, klikt u eerst in het gewenste veld en vervolgens op het tokenpictogram.
 
@@ -50,4 +50,4 @@ Als u meer dan 50 tekens gebruikt, wordt de teller rood om u te waarschuwen.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; E-mailredacteur v2.0 Overzicht &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[ E-mailredacteur v2.0 Overzicht ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359469
-description: Het dashboard voor het e-mailprogramma weergeven - Marketo Docs - Productdocumentatie
+description: Leer hoe u het dashboard voor het e-mailprogramma kunt weergeven. Bekijk in één oogopslag de maatstaven voor de prestaties en de status van het programma.
 title: Het dashboard voor het e-mailprogramma weergeven
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Kijk hoe uw e-mailprogramma (met of zonder een A/B-test) met dit dashboard prest
 
 >[!CAUTION]
 >
->Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [&#x200B; het &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
+>Voor nauwkeurige rapportering, vermijd _hergebruiks_ een e-mail van een e-mailprogramma, of door het in een Slimme Campagne van verwijzingen te voorzien of door de activa van het gelanceerde e-mailprogramma aan nieuwe te bewegen. Als u dit doet, worden alle gegevens geaggregeerd in elk rapporteringsdashboard dat aan die e-mail is gekoppeld. Als u een e-mail moet opnieuw gebruiken, gelieve [ het ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in plaats daarvan te klonen, aangezien dat e-mail kopieert maar tot nieuwe met een nieuwe e-mailidentiteitskaart leidt.
 
 ## Selecteer uw e-mailprogramma {#select-your-email-program}
 
@@ -51,5 +51,5 @@ Alternatief, als u geen A/B test _toevoegde of_ als de test over is, zou het vol
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; gebruik het Dashboard van het E-mailprogramma - de Mening van de Test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [&#x200B; Gebruik het Dashboard van het E-mailProgramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [ gebruik het Dashboard van het E-mailprogramma - de Mening van de Test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [ Gebruik het Dashboard van het E-mailProgramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

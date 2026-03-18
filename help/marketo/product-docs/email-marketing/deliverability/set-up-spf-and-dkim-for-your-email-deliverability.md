@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720710
-description: SPF en DKIM instellen voor uw e-maillevering - Marketo Docs - Productdocumentatie
+description: Leer hoe te opstelling SPF en DKIM in uw DNS om e-mailleveringsbaarheid te verbeteren. Geef Marketo toestemming om namens u spamvlaggen te verzenden en te reduceren.
 title: SPF en DKIM instellen voor uw e-maillevering
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Nadat u opstelling de openbare sleutel in uw DNS verslag en het verzendende dome
 
 **hoe ik opstelling DKIM?**
 
-Gelieve te verwijzen naar [&#x200B; Opstelling een Handtekening van DKIM van de Douane &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+Gelieve te verwijzen naar [ Opstelling een Handtekening van DKIM van de Douane ](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

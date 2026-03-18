@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359478
-description: E-mailkoppelingprestatierapport - Marketo Docs - Productdocumentatie
+description: Leer hoe u het rapport E-mailkoppelingprestaties maakt en gebruikt. Zie hoe elke koppeling in uw e-mail functioneert voor klikken en betrokkenheid.
 title: E-mailkoppelingprestaties
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in uw e-mails functioneren.
 
-1. [&#x200B; creeer een rapport in een programma &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer **[!UICONTROL Email Link Performance]** als rapporttype.
+1. [ creeer een rapport in een programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer **[!UICONTROL Email Link Performance]** als rapporttype.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -39,7 +39,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[&#x200B; beschikbare Kolommen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mail het rapport van de Prestaties van de Verbinding omvatten:
+[ beschikbare Kolommen ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mail het rapport van de Prestaties van de Verbinding omvatten:
 
 <table>
  <thead>
@@ -74,13 +74,13 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
 >[!NOTE]
 >
->In dit rapport wordt &quot;beschadigde koppeling&quot; weergegeven wanneer ongeldige/lege koppelingen aan een e-mail worden toegevoegd. Als u dit bericht ziet, [&#x200B; controleer de bron van HTML &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in de e-mailredacteur voor lege verbindingen of tekenen die geen volledige verbinding bevolken.
+>In dit rapport wordt &quot;beschadigde koppeling&quot; weergegeven wanneer ongeldige/lege koppelingen aan een e-mail worden toegevoegd. Als u dit bericht ziet, [ controleer de bron van HTML ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in de e-mailredacteur voor lege verbindingen of tekenen die geen volledige verbinding bevolken.
 
 >[!TIP]
 >
->Als u precies wilt weten wat een individuele persoon deed, kunt u het [&#x200B; Logboek van de Activiteit &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) in de [&#x200B; pagina van het Detail van de Persoon &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) van het lusje van Leden in het programma openen.
+>Als u precies wilt weten wat een individuele persoon deed, kunt u het [ Logboek van de Activiteit ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) in de [ pagina van het Detail van de Persoon ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) van het lusje van Leden in het programma openen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Rapport van de Prestaties E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
->* [&#x200B; filter Assets in een E-mailrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>* [ Rapport van de Prestaties E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

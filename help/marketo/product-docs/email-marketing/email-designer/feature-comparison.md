@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Vergelijking van Designer- en e-maileditorfuncties
-description: In deze tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailtoepassing Designer.
+description: Meer informatie over functieverschillen tussen e-mailbewerker 2.0 en de nieuwe e-mailprovider Designer. Gebruik de lijst om beschikbaarheid van mogelijkheden te vergelijken.
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>

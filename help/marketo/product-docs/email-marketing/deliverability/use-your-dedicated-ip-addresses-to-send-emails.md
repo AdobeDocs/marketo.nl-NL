@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: Gebruik uw specifieke IP-adressen om e-mails te verzenden - Marketo Docs - Productdocumentatie
+description: Leer hoe u speciale IP-adressen kunt gebruiken voor het verzenden van e-mail in Marketo. Krijg coaching op IP warm-up en DNS opstelling van leverbaarheidsconsultants.
 title: Gebruik uw specifieke IP Adressen om E-mail te verzenden
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Het verzenden van één of meerdere specifieke IP geeft u volledige controle ove
 >
 >Een specifieke IP is een toe:voegen-op product. Niet zal iedereen verkiesbaar zijn om een specifieke IP aan hun programma toe te voegen. U zou meer dan 100.000 e-mail per maand moeten verzenden en een stabiele campagnecadentie hebben om een specifieke IP te handhaven. Neem contact op met uw accountteam voor meer informatie over het toevoegen van een toegewezen IP aan uw Marketo-programma.
 >
->Als u minder dan 100.000 e-mails per maand verzendt en/of variabele campagnevolumes heeft en/of seizoensgebonden afzender, kunt u geen specifieke IP handhaven. Marketo handhaaft een afzonderlijke Vertrouwde IP gedeelde pool voor klanten die zich aan strikte beste praktijken houden. Indien geinteresseerd, gelieve [&#x200B; deze vragenlijst &#x200B;](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) te vullen om op Marketo het Vertrouwde IP Programma van toepassing te zijn.
+>Als u minder dan 100.000 e-mails per maand verzendt en/of variabele campagnevolumes heeft en/of seizoensgebonden afzender, kunt u geen specifieke IP handhaven. Marketo handhaaft een afzonderlijke Vertrouwde IP gedeelde pool voor klanten die zich aan strikte beste praktijken houden. Indien geinteresseerd, gelieve [ deze vragenlijst ](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) te vullen om op Marketo het Vertrouwde IP Programma van toepassing te zijn.
 
 Alle Marketo-accounts beginnen op een gedeeld IP-adres, zodat u direct kunt beginnen met verzenden. Als u een specifieke IP toevoegt, zult u met leverbaarheidsadviseurs werken om de levering van IP te plannen.
 
@@ -38,8 +38,8 @@ Om de leverbaarheid op lange termijn te maximaliseren, bieden de Leveringsconsul
 
 >[!TIP]
 >
->Houd uw database schoon om uw prestaties hoog te houden. [&#x200B; Adobe vereist &#x200B;](https://www.adobe.com/legal/terms/aup.html) dat de klanten slechts marketing mededelingen naar mensen verzenden die binnen verkozen/gevraagd hebben om e-mail te ontvangen. Spam niet.
+>Houd uw database schoon om uw prestaties hoog te houden. [ Adobe vereist ](https://www.adobe.com/legal/terms/aup.html) dat de klanten slechts marketing mededelingen naar mensen verzenden die binnen verkozen/gevraagd hebben om e-mail te ontvangen. Spam niet.
 
 >[!CAUTION]
 >
->Als u een hoog aantal grenzen, of een andere problemen ziet, contacteer [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support). Als u meer gerichte ondersteuning wilt voor meer informatie over het onderhouden van een schone database en het vergroten van de betrokkenheid bij uw programma, kunnen Marketo-consultants voor e-maillevering worden ingezet voor een Custom Services-pakket.
+>Als u een hoog aantal grenzen, of een andere problemen ziet, contacteer [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support). Als u meer gerichte ondersteuning wilt voor meer informatie over het onderhouden van een schone database en het vergroten van de betrokkenheid bij uw programma, kunnen Marketo-consultants voor e-maillevering worden ingezet voor een Custom Services-pakket.

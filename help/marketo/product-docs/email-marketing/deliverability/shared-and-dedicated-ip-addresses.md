@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912085
-description: Gedeelde en specifieke IP Adressen - de Documentatie van Marketo - de Documentatie van het Product
+description: Leer over gedeelde en specifieke IP adressen en hun voor- en nadelen. Bepaal welke optie uw verzendend volume en reputatie doelstellingen past.
 title: Gedeelde en Specifieke IP Adressen
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---

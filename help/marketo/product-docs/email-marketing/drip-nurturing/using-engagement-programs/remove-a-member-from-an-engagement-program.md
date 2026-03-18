@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359951
-description: Een lid verwijderen uit een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
+description: Leer hoe u leden uit een betrokkenheidsprogramma kunt verwijderen.
 title: Een lid verwijderen uit een betrokkenheidsprogramma
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Oeps! Hoe kwamen die mensen daar binnen? U kunt leden uit een betrokkenheidsprog
 
 >[!TIP]
 >
->Gebruik dit niet om de inhoud voor een persoon te pauzeren. Hierdoor wordt alle attributie in de analyse weggenomen. Leer meer over hoe te [&#x200B; mensen in een betrokkenheidsprogramma &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) pauzeren.
+>Gebruik dit niet om de inhoud voor een persoon te pauzeren. Hierdoor wordt alle attributie in de analyse weggenomen. Leer meer over hoe te [ mensen in een betrokkenheidsprogramma ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) pauzeren.
 
 ## Stroom {#flow-step}
 
@@ -29,7 +29,7 @@ Oeps! Hoe kwamen die mensen daar binnen? U kunt leden uit een betrokkenheidsprog
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Alle leden u in de [&#x200B; slimme lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt bepaald zullen niet meer in dit betrokkenheidsprogramma zijn.
+   Groovy. Alle leden u in de [ slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt bepaald zullen niet meer in dit betrokkenheidsprogramma zijn.
 
 ## Personen onderbreken  {#pause-people}
 
@@ -37,4 +37,4 @@ Soms wilt u gewoon mensen pauzeren in een betrokkenheidsprogramma en ze niet ver
 
 >[!MORELIKETHIS]
 >
->[&#x200B; de Mensen van de Onderbreking in een Programma van de Betrokkenheid &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)
+>[ de Mensen van de Onderbreking in een Programma van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md)

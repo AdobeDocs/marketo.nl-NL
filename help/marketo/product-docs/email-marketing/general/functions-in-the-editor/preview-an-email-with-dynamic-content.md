@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900548
-description: Een voorbeeld van een e-mail met dynamische inhoud bekijken - Marketo Docs - Productdocumentatie
+description: Leer hoe u e-mailberichten kunt voorvertonen met dynamische inhoud. Zie hoe varianten voor verschillende segmenten teruggeven alvorens te verzenden.
 title: Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---

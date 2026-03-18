@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359581
-description: Champion/Challenger -Goedkeuren e-mailtest - Marketo Docs - Productdocumentatie
+description: Leer hoe u uw e-mailtest met Champion/Challenger goedkeurt. Volledige goedkeuring zodat de test kan worden uitgevoerd en een winnaar kan worden gedeclareerd.
 title: Champion/Challenger - Uw e-mailtest goedkeuren
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
 >[!PREREQUISITES]
 >
->[&#x200B; vorm rapportalarm &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
+>[ vorm rapportalarm ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -39,5 +39,5 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Champion/Challenger: Verklaar een Champion &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
-   >* [&#x200B; Champion/Challenger: Gooi een Test E-mail weg &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+   >* [ Champion/Challenger: Verklaar een Champion ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [ Champion/Challenger: Gooi een Test E-mail weg ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359930
-description: Stroominhoud archiveren en archiveren - Marketo Docs - Productdocumentatie
+description: Leer hoe u streaminhoud kunt archiveren of archiveren om de geschiedenis te behouden.
 title: Stroominhoud archiveren en archiveren
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # Stroominhoud archiveren en archiveren {#archive-and-unarchive-stream-content}
 
-Als u niet meer een stuk van inhoud in een stroom wilt gebruiken kunt u of [&#128279;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) het verwijderen of het archiveren. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
+Als u niet meer een stuk van inhoud in een stroom wilt gebruiken kunt u of [ ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) het verwijderen of het archiveren. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
 
 >[!TIP]
 >

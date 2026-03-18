@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900565
-description: Een agendagebeurtenis (.ics) opnemen in een e-mail - Marketo Docs - Productdocumentatie
+description: Leer hoe u een agendagebeurtenis (.ics) opneemt in een e-mail. Voeg een bijlage toe zodat de ontvangers de gebeurtenis aan hun kalender kunnen toevoegen.
 title: Een agendagebeurtenis (.ics) opnemen in een e-mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 1%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Met een token voor het kalenderbestand kunt u een agendagebeurtenis (.ics) toevo
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Dossier van de Gebeurtenis van de Kalender (.ics) &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>[ creeer een Dossier van de Gebeurtenis van de Kalender (.ics) ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. Terwijl het uitgeven van e-mail van uw programma, klik waar u het teken wilt gaan, dan klik de **Symbolische knoop van het Tussenvoegsel**.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359598
-description: E-mailprogrammadashboard exporteren naar Excel - Marketo-documenten - Productdocumentatie
+description: Leer hoe u het dashboard voor het e-mailprogramma exporteert naar Excel. Download de meetgegevens van uw programma voor rapportage en analyse.
 title: E-mailprogrammadashboard exporteren naar Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---

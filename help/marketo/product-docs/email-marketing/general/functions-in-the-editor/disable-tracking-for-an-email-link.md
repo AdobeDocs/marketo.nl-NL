@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900579
-description: Bijhouden uitschakelen voor een e-mailkoppeling - Marketo Docs - Productdocumentatie
+description: Leer hoe u het bijhouden van wijzigingen voor specifieke e-mailkoppelingen uitschakelt. Schakel de optie voor bijhouden van klikken uit als dat nodig is voor privacy of omleiding van URL's.
 title: Bijhouden uitschakelen voor een e-mailkoppeling
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -47,4 +47,4 @@ Ook, als een e-mail meer dan 365 dagen geleden **werd verzonden en** niemand op 
 
    >[!CAUTION]
    >
-   >Als u klik-het volgen voor een verbinding in een E-mailMalplaatje, of de [&#x200B; tekstversie &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} van een e-mail wilt onbruikbaar maken, voeg `mktNoTrack` bij het *begin* van het koord, niet het eind, zoals in dit voorbeeld toe: `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. Anders kan de koppeling verdwijnen. Neem contact op met uw webontwikkelaar als u hulp nodig hebt bij het implementeren van de bovenstaande code.
+   >Als u klik-het volgen voor een verbinding in een E-mailMalplaatje, of de [ tekstversie ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} van een e-mail wilt onbruikbaar maken, voeg `mktNoTrack` bij het *begin* van het koord, niet het eind, zoals in dit voorbeeld toe: `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. Anders kan de koppeling verdwijnen. Neem contact op met uw webontwikkelaar als u hulp nodig hebt bij het implementeren van de bovenstaande code.

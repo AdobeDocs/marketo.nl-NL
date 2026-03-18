@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147354
-description: Een e-mail operationeel maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mail operationeel kunt maken zodat deze beschikbaar is voor niet-geabonneerde personen. Gebruik voor transactie of vereiste mededelingen.
 title: Een e-mail operationeel maken
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ In de operationele e-mailberichten worden de status Niet-geabonneerd en Door Mar
 >
 >Operationele e-mails zijn niet ontworpen om te werken met betrokkenheidsprogramma&#39;s. Zo negeert een serviceprogramma de operationele status van een e-mail. Houd daar rekening mee wanneer u met hen werkt.
 
-Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [&#x200B; een e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.
+Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [ een e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.

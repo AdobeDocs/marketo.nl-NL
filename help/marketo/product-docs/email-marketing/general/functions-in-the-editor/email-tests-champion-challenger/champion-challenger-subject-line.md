@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359557
-description: Champion/Challenger - Onderwerpregel - Marketo Docs - Productdocumentatie
+description: Leer hoe u Champion/Challenger-tests uitvoert voor het volgen van regels. Test verschillende onderwerpregel en declareer de winnaar op basis van uw criteria.
 title: Champion/Challenger — Onderwerpregel
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg een Kampioen E-mail/Challenger &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
+>[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
 1. Selecteer **[!UICONTROL Subject Line]** in de vervolgkeuzelijst **[!UICONTROL Test Type]** in de testeditor voor e-mail.
 
@@ -55,4 +55,4 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Champion/Challenger: Bepaal Champion Criteria &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Inhoud in e-mailsjablonen vergrendelen
-description: Leer hoe u inhoud in uw e-mailsjablonen kunt vergrendelen.
+description: Leer hoe u inhoud in e-mailsjablonen kunt vergrendelen zodat anderen deze niet kunnen bewerken. Bescherm secties in de e-mail Designer voor consistentie.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Nadat een structuur is vergrendeld, kunnen er geen verdere inhoudcomponenten of 
 
 1. Schakel de optie **[!UICONTROL Use specific locking]** in.
 
-1. Kies **[!UICONTROL Lock type]** in de vervolgkeuzelijst **[!UICONTROL Editable]** . Selecteer **[!UICONTROL Editable content only]** als u het bewerken van inhoud tijdens het vergrendelen van stijlen wilt toestaan. [&#x200B; leer hoe te om componenten &#x200B;](#lock-components) te sluiten
+1. Kies **[!UICONTROL Lock type]** in de vervolgkeuzelijst **[!UICONTROL Editable]** . Selecteer **[!UICONTROL Editable content only]** als u het bewerken van inhoud tijdens het vergrendelen van stijlen wilt toestaan. [ leer hoe te om componenten ](#lock-components) te sluiten
 
    ![](assets/content-locking-4.png){width="800" zoomable="yes"}
 
@@ -108,7 +108,7 @@ Een specifieke component in een structuur vergrendelen:
 
    >[!NOTE]
    >
-   >Met het vergrendelingstype **[!UICONTROL Editable]** kunnen gebruikers een component bewerken, zelfs binnen een vergrendelde structuur. [&#x200B; leer hoe te om structuren &#x200B;](#lock-structures) te sluiten
+   >Met het vergrendelingstype **[!UICONTROL Editable]** kunnen gebruikers een component bewerken, zelfs binnen een vergrendelde structuur. [ leer hoe te om structuren ](#lock-structures) te sluiten
 
 1. Standaard kunnen gebruikers vergrendelde componenten niet verwijderen. U kunt verwijdering inschakelen door de optie **[!UICONTROL Allow delete]** te activeren.
 

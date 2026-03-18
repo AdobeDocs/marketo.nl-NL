@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11371040
-description: E-mailsjabloonsyntaxis - Marketo Docs - Productdocumentatie
+description: Meer informatie over de syntaxis van e-mailsjablonen in de e-maileditor 2.0. Gebruik de juiste syntaxis voor modules en bewerkbare secties in sjablonen.
 title: E-mailsjabloonsyntaxis
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '2449'
+source-wordcount: '2462'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Elementen zijn inhoudsgebieden die u in uw e-mailsjabloon definieert als bewerkb
 
 ## RTF {#rich-text}
 
-Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [&#x200B; kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Er zijn twee manieren om een Rich Text-element in een e-mailsjabloon te definiëren: mktEditable en mktoText. Een Rich Text-element kan altijd vanuit de e-maileditor worden omgezet in een fragment.
+Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [ kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Er zijn twee manieren om een Rich Text-element in een e-mailsjabloon te definiëren: mktEditable en mktoText. Een Rich Text-element kan altijd vanuit de e-maileditor worden omgezet in een fragment.
 
 ### Optie 1 - marktEditable {#option-mkteditable}
 
@@ -128,7 +128,7 @@ Voorbeeld:
 
 ## Fragmenten {#snippets}
 
-Als u een gebied als Fragment bepaalt, zullen de eindgebruikers kunnen kiezen welk goedgekeurd [&#x200B; Fragment &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) zij in dit gebied willen opnemen. Hoewel RTF-elementen vanuit de e-maileditor kunnen worden omgezet in fragmenten, kan een gebied dat u specifiek als een fragment definieert, niet worden omgezet in RTF-tekst. U kunt een fragmentgebied opgeven met een `<div>` met class=&quot;mktoSnippet&quot;
+Als u een gebied als Fragment bepaalt, zullen de eindgebruikers kunnen kiezen welk goedgekeurd [ Fragment ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) zij in dit gebied willen opnemen. Hoewel RTF-elementen vanuit de e-maileditor kunnen worden omgezet in fragmenten, kan een gebied dat u specifiek als een fragment definieert, niet worden omgezet in RTF-tekst. U kunt een fragmentgebied opgeven met een `<div>` met class=&quot;mktoSnippet&quot;
 
 Vereiste kenmerken
 

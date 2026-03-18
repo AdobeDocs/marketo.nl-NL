@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359659
-description: Inhoud toevoegen aan een stream - Marketo Docs - Productdocumentatie
+description: Leer hoe u e-mails of programma's aan een betrokkenheidsprogrammastroom kunt toevoegen. Gebruik de Add knoop of het plusteken van de Inhoud om uw cultuur te bouwen.
 title: Inhoud toevoegen aan een stream
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -53,4 +53,4 @@ Geweldig werk! U weet nu hoe u inhoud kunt toevoegen aan uw programmastromen. Vo
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Toevoegend een Programma aan een Stream van het Programma van de Betrokkenheid &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
+>[ Toevoegend een Programma aan een Stream van het Programma van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)

@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: Personalization Tokens
-description: Meer informatie over het gebruik van personalisatietokens in de nieuwe Marketo Engage Email Designer
+description: Leer hoe u personalisatietokens kunt gebruiken in de e-mail-Designer. Voeg dynamische ontvangergegevens toe aan uw e-mailinhoud.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ De e-mailontwerper heeft een andere indeling dan de klassieke e-maileditor voor 
 
 ## Hoofd-/kleine letters {#primary-use-case}
 
-Deze verbetering komt hoofdzakelijk die die die van [&#x200B; scripting van de Snelheid &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
+Deze verbetering komt hoofdzakelijk die die die van [ scripting van de Snelheid ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} aan het scripting van de Handlebar overgaan ten goede. De nieuwe e-mailontwerper ondersteunt alleen de nieuwe token-indeling. Met de bijgewerkte indeling worden spaties verwijderd en wordt een herziene standaardtekststructuur geïntroduceerd, die zorgt voor een vloeiender en efficiëntere scriptingervaring.
 
 ## Tokenervaring {#token-experience}
 
@@ -39,7 +39,7 @@ In de klassieke e-maileditor kunt u tokens toevoegen met spaties, zoals `lead.An
 
 ### Nieuwe indeling {#new-format}
 
-In de e-mailontwerper, moet u [&#x200B; camel geval &#x200B;](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) of onderstrepingstekens voor tekenen (b.v., `lead.anonymousIP` of `member.registration_code`) gebruiken. De opmaak voor standaardtekst verandert ook in `{%=lead.city ?: "fallback" %}` .
+In de e-mailontwerper, moet u [ camel geval ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) of onderstrepingstekens voor tekenen (b.v., `lead.anonymousIP` of `member.registration_code`) gebruiken. De opmaak voor standaardtekst verandert ook in `{%=lead.city ?: "fallback" %}` .
 
 ![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359652
-description: Een betrokkenheidsprogramma maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een betrokkenheidsprogramma maakt in Marketo voor e-mailverzorging. Kies Betrokkenheid als het type programma en voeg streams en inhoud toe.
 title: Een betrokkenheidsprogramma maken
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Met betrokkenheidsprogramma&#39;s in Marketo kunt u eenvoudig zorgen voor e-mail
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; voeg Inhoud aan een Stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md) toe
-   >* [&#x200B; plaats de Koorden van de Stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [ voeg Inhoud aan een Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md) toe
+   >* [ plaats de Koorden van de Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

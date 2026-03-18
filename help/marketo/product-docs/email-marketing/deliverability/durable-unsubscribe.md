@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094576
-description: Duurzaam abonnement - Marketo Docs - Productdocumentatie
+description: Meer informatie over duurzaam afmelden en hoe de e-mailstatus van de master-mail door mensen wordt verspreid. Abonnementen en persoonlijke gegevens beheren in Marketo.
 title: Duurzaam abonnement opzeggen
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Er zijn verschillende manieren waarop iemand opnieuw kan worden geabonneerd.
 
 Wis in Salesforce het veld E-mail uitschakelen in de record van de lead/contactpersoon. Dit wordt gesynchroniseerd met Marketo.
 
-![&#x200B; het scherm van Salesforce &#x200B;](assets/durable-unsubscribe-1.png)
+![ het scherm van Salesforce ](assets/durable-unsubscribe-1.png)
 
 Wis in Marketo het vak voor afmelden op het tabblad Info van de record van de persoon.
 
-![&#x200B; ontruimend unsubscribe doos in een persoonverslag &#x200B;](assets/durable-unsubscribe-2.png)
+![ ontruimend unsubscribe doos in een persoonverslag ](assets/durable-unsubscribe-2.png)
 
 Stel a _de stroomstap van de Waarde van Gegevens van de Verandering_ zoals hieronder getoond op één of vele mensen in werking.
 
-![&#x200B; stap van de de gegevenswaarde van de Verandering &#x200B;](assets/durable-unsubscribe-3.png)
+![ stap van de de gegevenswaarde van de Verandering ](assets/durable-unsubscribe-3.png)
 
 ## Een nieuwe persoon maken {#creating-a-new-person}
 
@@ -51,4 +51,4 @@ Net zoals een abonnement ertoe zou leiden dat alle mensen met hetzelfde e-mailad
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend Unsubscribe &#x200B;](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[ Begrijpend Unsubscribe ](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)

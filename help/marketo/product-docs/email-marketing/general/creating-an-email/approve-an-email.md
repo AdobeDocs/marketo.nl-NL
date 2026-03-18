@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147342
-description: Een e-mail goedkeuren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mail goedkeurt zodat deze kan worden gebruikt in programma's. Voltooi de goedkeuringswerkstroom alvorens te plannen of te verzenden.
 title: Een e-mail goedkeuren
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---

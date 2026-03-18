@@ -1,11 +1,12 @@
 ---
-description: Donkere modus - Marketo Docs - Productdocumentatie
+description: Leer hoe u e-mails ontwerpt voor de donkere modus in de Designer-e-mail. Stel de aangepaste weergave in de donkere modus in voor ondersteuning van e-mailclients.
 title: Donkere modus
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ In **[!UICONTROL Dark mode]** kunt u specifieke aangepaste instellingen definië
 
 In de donkere modus kunt u ondersteuning bieden voor e-mailclients en apps voor het weergeven van e-mailberichten met donkerdere achtergronden en lichtere kleuren voor tekst, knoppen en andere UI-elementen. Het helpt de oogdruk te verminderen, de accuduur te besparen en de leesbaarheid in omgevingen met weinig licht te verbeteren voor een comfortabeler kijkervaring.
 
-## Guardrails {#guardrails}
+## Beveiligingsmechanismen {#guardrails}
 
 Rendering in donkere modus kan aanzienlijk variëren in verschillende e-mailclients.
 
@@ -66,11 +67,11 @@ De instellingen die u opgeeft in de e-mailtoepassing van de Designer, moeten wor
 
 >[!NOTE]
 >
->Leer hoe te om [&#x200B; montages van de douanedonkere wijze &#x200B;](#define-custom-dark-mode) in E-mail Designer te bepalen.
+>Leer hoe te om [ montages van de douanedonkere wijze ](#define-custom-dark-mode) in E-mail Designer te bepalen.
 
 Afhankelijk van elke e-mailclient kunnen enkele beperkingen van toepassing zijn. Sommige clients (bijvoorbeeld Apple Mail 16) genereren geen donkere modus als er afbeeldingen aanwezig zijn.
 
-Voor optimale resultaten test u de inhoud in de e-mailclient waarop u zich richt. Om een simulatie in elke cliënt te zien, gebruik [&#x200B; E-mail teruggevend &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) eigenschap in E-mail Designer.
+Voor optimale resultaten test u de inhoud in de e-mailclient waarop u zich richt. Om een simulatie in elke cliënt te zien, gebruik [ E-mail teruggevend ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) eigenschap in E-mail Designer.
 
 ## Donkere modus in de Designer-e-mail {#dark-mode-email-designer}
 
@@ -86,7 +87,7 @@ Leer hoe u de donkere modus kunt openen in de e-mailmodus van Designer en hoe u 
 
 1. Selecteer de optie **[!UICONTROL Design from scratch]** op de homepage van Designer via e-mail.
 
-1. Voeg [&#x200B; structuren en inhoud &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content) aan uw e-mail toe.
+1. Voeg [ structuren en inhoud ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content) aan uw e-mail toe.
 
 1. Schakel rechtsboven de schakeloptie **[!UICONTROL Dark mode]** in.
 
@@ -102,7 +103,7 @@ Dat betekent dat er gebieden met lichte en donkere elementen worden gedetecteerd
 
 >[!CAUTION]
 >
->De uiteindelijke rendering kan variëren afhankelijk van de e-mailclient van de ontvanger. Om een simulatie voor elke e-mailcliënt te zien, gebruik de [&#x200B; E-mail teruggevende &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) eigenschap.
+>De uiteindelijke rendering kan variëren afhankelijk van de e-mailclient van de ontvanger. Om een simulatie voor elke e-mailcliënt te zien, gebruik de [ E-mail teruggevende ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) eigenschap.
 
 ### Aangepaste donkere modus definiëren {#define-custom-dark-mode}
 
@@ -116,7 +117,7 @@ Marketo Engage gebruikt de CSS-query van `@media (prefers-color-scheme: dark)` o
 
 Volg onderstaande stappen om aangepaste instellingen voor de donkere modus te definiëren.
 
-1. Schakelaar aan de [&#x200B; de wijzevoorproef van de Donker &#x200B;](#preview-dark-mode) in E-mail Designer.
+1. Schakelaar aan de [ de wijzevoorproef van de Donker ](#preview-dark-mode) in E-mail Designer.
 
 1. Bewerk alle opmaakkleurkenmerken, zoals tekst, achtergronden, knoppen, enz.
 
@@ -136,7 +137,7 @@ Volg onderstaande stappen om aangepaste instellingen voor de donkere modus te de
 
    ![](assets/dark-mode-5.png)
 
-1. Selecteer **[!UICONTROL Render email]** en verbind met uw rekening van de NLS. U ziet de uiteindelijke donkere modus voor verschillende e-mailclients. Leer meer over [&#x200B; E-mail teruggevend &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
+1. Selecteer **[!UICONTROL Render email]** en verbind met uw rekening van de NLS. U ziet de uiteindelijke donkere modus voor verschillende e-mailclients. Leer meer over [ E-mail teruggevend ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
    >[!IMPORTANT]
    >
@@ -144,7 +145,7 @@ Volg onderstaande stappen om aangepaste instellingen voor de donkere modus te de
 
 ## Best practices {#best-practices}
 
-Aangezien de donkere wijzetoepassing over belangrijke e-mailcliënten stijgt, is het essentieel om te overwegen hoe uw e-mails in zowel lichte als donkere milieu&#39;s teruggeven, of u [&#x200B; douane donkere wijze &#x200B;](#define-custom-dark-mode) of niet gebruikt.
+Aangezien de donkere wijzetoepassing over belangrijke e-mailcliënten stijgt, is het essentieel om te overwegen hoe uw e-mails in zowel lichte als donkere milieu&#39;s teruggeven, of u [ douane donkere wijze ](#define-custom-dark-mode) of niet gebruikt.
 
 In de donkere modus kunt u kleuren, achtergronden en afbeeldingen wijzigen. Soms worden ontwerpkeuzen genegeerd. Volg de onderstaande aanbevolen procedures om de visuele consistentie, toegankelijkheid en brandintegriteit te garanderen.
 
@@ -178,6 +179,6 @@ In de donkere modus kunt u kleuren, achtergronden en afbeeldingen wijzigen. Soms
 
 **Test uw e-mails op donkere wijzemilieu**
 
-* Gebruik de e-mail Designer [&#x200B; donkere wijzevoorproef &#x200B;](#preview-dark-mode) die omgekeerde kleurenschema&#39;s aan vlekkwesties vroeg gebruikt.
+* Gebruik de e-mail Designer [ donkere wijzevoorproef ](#preview-dark-mode) die omgekeerde kleurenschema&#39;s aan vlekkwesties vroeg gebruikt.
 
-* Gebruik de [&#x200B; E-mail teruggevende &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) eigenschap die hefboomwerkingen Litmus om uw ontwerpen over belangrijke e-mailcliënten te simuleren en te zien hoe de kleuren en de beelden zich op donkere wijze gedragen.
+* Gebruik de [ E-mail teruggevende ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) eigenschap die hefboomwerkingen Litmus om uw ontwerpen over belangrijke e-mailcliënten te simuleren en te zien hoe de kleuren en de beelden zich op donkere wijze gedragen.

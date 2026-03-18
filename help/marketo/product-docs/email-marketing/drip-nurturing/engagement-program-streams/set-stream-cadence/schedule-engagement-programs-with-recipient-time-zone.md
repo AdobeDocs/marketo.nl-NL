@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982909
-description: Programma's voor betrokkenheid plannen met tijdzone voor ontvangers - Marketo Docs - Productdocumentatie
+description: Leer hoe u het betrokkenheidsprogramma kunt plannen met de tijdzone van de ontvanger. Plaats de eerste gietvorm minstens 25 uren voor globale levering.
 title: De Programma's van de Betrokkenheid van het programma met Ontvankelijke Tijdzone
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Wanneer u een stroom van het betrokkenheidsprogramma plant en de ontvankelijke t
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [&#x200B; plaats uw montages van de tijdigheid &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) zoals u normaal zou, dan controleer de **[!UICONTROL Recipient Time Zone]** doos. Herinner dat uw eerste gietvorm minstens 25 uren in de toekomst moet zijn. Klik op **[!UICONTROL Save]**.
+1. [ plaats uw montages van de tijdigheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) zoals u normaal zou, dan controleer de **[!UICONTROL Recipient Time Zone]** doos. Herinner dat uw eerste gietvorm minstens 25 uren in de toekomst moet zijn. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
@@ -29,5 +29,5 @@ Wanneer u een stroom van het betrokkenheidsprogramma plant en de ontvankelijke t
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend Ontvankelijke Tijdzone van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [&#x200B; plaats de Koorden van de Stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [ Begrijpend Ontvankelijke Tijdzone van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [ plaats de Koorden van de Stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

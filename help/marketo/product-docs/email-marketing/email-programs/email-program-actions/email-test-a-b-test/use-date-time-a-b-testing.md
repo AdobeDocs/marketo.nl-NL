@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359520
-description: '"Datum/tijd" A/B-tests gebruiken - Marketo Docs - Productdocumentatie'
+description: Leer hoe u datum-/tijdtests voor A/B-e-mailprogramma's uitvoert. Test verschillende verzendtijden en kies een winnaar op prestaties.
 title: Datum-/tijdtests A/B gebruiken
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een test is de **[!UICONTROL Date/Ti
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
+>[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
 >
 
 1. Klik onder de **[!UICONTROL Email]** -tegel op **[!UICONTROL Add A/B Test]** .
@@ -56,4 +56,4 @@ U kunt uw e-mailberichten eenvoudig testen. Een test is de **[!UICONTROL Date/Ti
    >
    >**wij adviseren u vermijden plaatsend de steekproefgrootte aan 100%**. Als u een statische lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in het publiek en de winnaar gaat aan niemand. Als u a **slimme** lijst gebruikt, die de steekproefgrootte aan 100% plaatst verzendt e-mail naar iedereen in het publiek _op dat ogenblik_. Wanneer het e-mailprogramma later opnieuw wordt uitgevoerd, ontvangen alle nieuwe personen die in aanmerking komen voor de slimme lijst ook de e-mail omdat ze nu in het publiek zijn opgenomen.
 
-   Oké, we zijn één stap dichterbij. Nu moeten wij [&#x200B; de criteria van de A/B testwinnaar &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.
+   Oké, we zijn één stap dichterbij. Nu moeten wij [ de criteria van de A/B testwinnaar ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.

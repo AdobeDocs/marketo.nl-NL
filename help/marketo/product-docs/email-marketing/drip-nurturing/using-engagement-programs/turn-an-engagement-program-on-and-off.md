@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359856
-description: Een betrokkenheidsprogramma in- en uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een serviceprogramma in- of uitschakelt om inhoud te stoppen of te hervatten.
 title: Een betrokkenheidsprogramma in- en uitschakelen
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---

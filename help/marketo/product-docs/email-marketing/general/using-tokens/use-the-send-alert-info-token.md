@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952678
-description: Het token Waarschuwingen verzenden {{SP_Send_Alert_Info}} (Marketo Docs - Productdocumentatie) gebruiken
+description: Leer hoe u het token Waarschuwingsgegevens verzenden in e-mails gebruikt. Voeg dynamisch gegevens in, zoals tijd en programmanaam.
 title: Het token voor waarschuwinggegevens verzenden gebruiken
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De token `{{SP_Send_Alert_Info}}` is een speciaal token dat moet worden gebruikt
 
 >[!TIP]
 >
->Dit teken werkt slechts zoals bedoeld wanneer het verzenden van e-mail die het met [&#x200B; bevat verzendt alarm &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) stroomstap. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
+>Dit teken werkt slechts zoals bedoeld wanneer het verzenden van e-mail die het met [ bevat verzendt alarm ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) stroomstap. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
 
 Voorbeeld, waarschuwing:
 
@@ -25,7 +25,7 @@ Voorbeeld, waarschuwing:
 
 >[!NOTE]
 >
->Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. De data van de vervaldatum worden [&#x200B; gevormd door Admin &#x200B;](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. De data van de vervaldatum worden [ gevormd door Admin ](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 De volgende informatie maakt deel uit van de `{{SP_Send_Alert_Info}}` :
 

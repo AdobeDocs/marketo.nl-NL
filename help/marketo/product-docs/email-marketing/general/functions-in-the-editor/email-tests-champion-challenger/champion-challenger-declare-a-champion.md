@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger - Declare a Champion - Marketo Docs - Product Documentation
+description: Leer hoe u een Champion declareert voor uw e-mailtest. Kies de winnende variant en verstuur de rest van het publiek naar de winnaar.
 title: Champion/Challenger — Declare a Champion
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Champion/Challenger: keur Uw E-mailtest &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md) goed
+>[ Champion/Challenger: keur Uw E-mailtest ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md) goed
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

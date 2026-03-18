@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger - Van adres - Marketo Docs - Productdocumentatie
+description: Leer hoe u Champion/Challenger-tests uitvoert. Test verschillende adressen van de afzender en verklaar winnaar door criteria.
 title: Champion/Challenger - Van adres
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg een Kampioen E-mail/Challenger &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
+>[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
 1. Selecteer **[!UICONTROL From Address]** in de vervolgkeuzelijst **[!UICONTROL Test Type]** in de testeditor voor e-mail.
 
@@ -55,4 +55,4 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Champion/Challenger: Bepaal Champion Criteria &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

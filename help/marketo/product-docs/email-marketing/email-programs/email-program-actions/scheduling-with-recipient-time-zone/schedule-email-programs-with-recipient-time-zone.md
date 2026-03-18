@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: E-mailprogramma's plannen met tijdzone voor ontvangers - Marketo Docs - Productdocumentatie
+description: Leer hoe u e-mailprogramma's kunt plannen met de tijdzone van de ontvanger. Plaats levering voor binnen 25 uren of later en kies het gedrag van de tijdzone.
 title: E-mailprogramma's met tijdzone voor ontvangers plannen
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ Dit biedt u twee opties:
 >
 >* **[!UICONTROL Deliver the following day in the recipient's time zone]**: als e-mail om op Dinsdag 9 :00am gepland is te gaan, zullen de gekwalificeerde mensen die in tijdstreken leven waar de geplande tijd reeds heeft overgegaan de e-mail op *Woensdag* bij 9 :00am ontvangen.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: als e-mail om op Dinsdag in 9 :00am gepland is te gaan, zullen de gekwalificeerde mensen die in tijdstreken leven waar de geplande tijd reeds heeft overgegaan e-mail *ontvangen die op uw montages van de de tijdzone van het abonnement* wordt gebaseerd. Zo, als uw [&#x200B; montages van de de tijdzone van de abonnementstijd &#x200B;](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aan PDT America/Los Angeles worden geplaatst, zullen deze ontvangers nog e-mail op Dinsdag bij 9 :00am PDT ontvangen (welke tijd die in hun eigen tijdzones kan zijn).
+>* **[!UICONTROL Deliver using the program's default set time]**: als e-mail om op Dinsdag in 9 :00am gepland is te gaan, zullen de gekwalificeerde mensen die in tijdstreken leven waar de geplande tijd reeds heeft overgegaan e-mail *ontvangen die op uw montages van de de tijdzone van het abonnement* wordt gebaseerd. Zo, als uw [ montages van de de tijdzone van de abonnementstijd ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) aan PDT America/Los Angeles worden geplaatst, zullen deze ontvangers nog e-mail op Dinsdag bij 9 :00am PDT ontvangen (welke tijd die in hun eigen tijdzones kan zijn).
 
 >[!NOTE]
 >
->[&#x200B; leer meer &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) over hoe Marketo tijdstreken voor ontvangers berekent.
+>[ leer meer ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md#calculating-time-zone) over hoe Marketo tijdstreken voor ontvangers berekent.
 
 Laten we dit scenario meer in detail bekijken. Zeg u in San Francisco bent, die een e-mail bij 7 :00am voor a **9:00am** plannen verzendt. In uw slimme lijst, zijn er mensen van de volgende gebieden:
 
@@ -63,7 +63,7 @@ Zodra u uw programma goedkeurt, begint het binnen 15 minuten lopen.
 
 >[!NOTE]
 >
->Hoewel het programma het *proces* begint van het verzenden van e-mails in 15 minuten, zullen de e-mails niet **&#x200B; op dat ogenblik worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen &#x200B;** [!UICONTROL Time Zone Settings]** .
+>Hoewel het programma het *proces* begint van het verzenden van e-mails in 15 minuten, zullen de e-mails niet ** op dat ogenblik worden geleverd. Ontvangers ontvangen nog steeds e-mails op basis van de door u gekozen **[!UICONTROL Time Zone Settings]** .
 
 ## Scenario 2: Meer dan 25 uur {#scenario-more-than-hours}
 
@@ -91,6 +91,6 @@ Kortom, e-mailprogramma&#39;s die met de Ontvankelijke Tijdzone worden gepland m
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend Ontvankelijke Tijdzone van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [&#x200B; Begin van het Kop voor E-mailProgramma&#39;s &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
->* [&#x200B; Afbreken Levering van E-mailprogramma&#39;s die met de Ontvankelijke Streek van de Tijd worden gepland &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
+>* [ Begrijpend Ontvankelijke Tijdzone van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [ Begin van het Kop voor E-mailProgramma&#39;s ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [ Afbreken Levering van E-mailprogramma&#39;s die met de Ontvankelijke Streek van de Tijd worden gepland ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)

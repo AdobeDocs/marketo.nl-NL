@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900567
-description: Ongedaan maken in de e-maileditor - Marketo Docs - Productdocumentatie
+description: Leer hoe u wijzigingen in de e-maileditor ongedaan kunt maken. Wijzigingen herstellen tijdens het ontwerpen van e-mails in Marketo.
 title: Ongedaan maken in de e-maileditor
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---

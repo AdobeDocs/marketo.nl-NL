@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727995
-description: E-mail CC - Marketo-documenten - Productdocumentatie
+description: Meer informatie over de e-mailCC-opties in Marketo. Voeg CC-ontvangers toe aan e-mails wanneer dat nodig is voor compatibiliteit of zichtbaarheid.
 title: E-mail CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Deze functie is beschikbaar voor alle e-mailmiddelen van Marketo, ongeacht hoe d
 
 >[!TIP]
 >
->U hebt de optie van [&#x200B; onbruikbaar makend wat of alle het volgen verbindingen &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) in e-mail.
+>U hebt de optie van [ onbruikbaar makend wat of alle het volgen verbindingen ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md) in e-mail.
 
 * Nadat een e-mailcampagne is uitgevoerd, bevat Verzenden e-mailactiviteit een lijst met alle CC-adressen die zijn opgenomen voor elke ontvanger van de mailing. Als om het even welke adressen van CC wegens afmelden werden overgeslagen, zal het ook in de activiteit worden genoteerd.
 * Koppelingen en pagina&#39;s waarop u zich niet meer abonneert, functioneren normaal in CC&#39;d-e-mails. Op deze manier kunnen CC-ontvangers hun abonnement desgewenst opzeggen (conform de anti-spamregels) en wordt een record van deze actie opgeslagen in de Marketo-database.

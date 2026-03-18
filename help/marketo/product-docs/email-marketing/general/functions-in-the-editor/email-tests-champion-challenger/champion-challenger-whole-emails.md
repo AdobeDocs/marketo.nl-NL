@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359555
-description: Champion/Challenger - Hele e-mails - Marketo Docs - Productdocumentatie
+description: Leer hoe u Champion/Challenger test met hele e-mails uitvoert. Test verschillende e-mailversies en declareer een winnaar op basis van criteria.
 title: Champion/Challenger — Hele e-mails
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg een Kampioen E-mail/Challenger &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
+>[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
 1. Selecteer **[!UICONTROL Whole Emails]** in de vervolgkeuzelijst **[!UICONTROL Test Type]** in de testeditor voor e-mail.
 
@@ -55,4 +55,4 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Champion/Challenger: Bepaal Champion Criteria &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

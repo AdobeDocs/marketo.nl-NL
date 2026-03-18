@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147328
-description: Harde en zachte grenzen in e-mail - Marketo Docs - Productdocumentatie
+description: Meer informatie over harde en zachte stormen en hoe Marketo ze classificeert. Gebruik de velden E-mail geschorst en E-mail ongeldig om problemen met de levering te beheren.
 title: Harde en zachte grenzen in e-mail
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # Harde en zachte grenzen in e-mail {#hard-and-soft-bounces-in-email}
 
-Een harde stuit kan het e-mailadres van een persoon ongeldig maken wanneer een mailserver Marketo vertelt dat het e-mailadres van de persoon niet kan worden bezorgd. Een zachte stuit betekent dat er iets fout is gegaan bij het verzenden van de e-mail aan de persoon; dit wordt automatisch opgelost en kan soms dagen in beslag nemen. Zowel bestaan de harde als zachte grenzen uit [&#x200B; veelvoudige categorieën &#x200B;](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+Een harde stuit kan het e-mailadres van een persoon ongeldig maken wanneer een mailserver Marketo vertelt dat het e-mailadres van de persoon niet kan worden bezorgd. Een zachte stuit betekent dat er iets fout is gegaan bij het verzenden van de e-mail aan de persoon; dit wordt automatisch opgelost en kan soms dagen in beslag nemen. Zowel bestaan de harde als zachte grenzen uit [ veelvoudige categorieën ](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
 ## Stuitclassificatie {#bounce-classification}
 
@@ -33,7 +33,7 @@ Er zijn vijf tekenreeksen voor personen in Marketo die te maken hebben met probl
 
 >[!PREREQUISITES]
 >
->Volg [&#x200B; deze stappen &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) om een Rapport van E-mailPrestaties te creëren, dat stuitgegevens zal produceren.
+>Volg [ deze stappen ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) om een Rapport van E-mailPrestaties te creëren, dat stuitgegevens zal produceren.
 
 Nadat u uw e-mailprestatierapport hebt gemaakt, moet uw scherm er ongeveer als volgt uitzien:
 

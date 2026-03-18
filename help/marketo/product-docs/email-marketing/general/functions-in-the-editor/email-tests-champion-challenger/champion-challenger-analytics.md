@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359567
-description: Champion/Challenger -Configure Report Alerts - Marketo Docs - Productdocumentatie
+description: Leer hoe u de analyse van Champion/Challenger bekijkt en rapportwaarschuwingen configureert. Houd testprestaties bij en ontvang een melding wanneer een winnaar klaar is.
 title: Champion/Challenger - Rapportwaarschuwingen configureren
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ontvang rapportwaarschuwingen en/of bekijk het dashboard Champion/Challenger voo
 
 >[!PREREQUISITES]
 >
->[&#x200B; Champion/Challenger: Bepaal Champion Criteria &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 ## Rapportwaarschuwingen configureren {#configure-report-alerts}
 

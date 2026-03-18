@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger -Define Champion Criteria - Marketo Docs - Productdocumentatie
+description: Leer hoe u Champion-criteria voor e-mailtests definieert. Stel de regels in die bepalen welke variant de Champion/Challenger-test wint.
 title: Champion/Challenger - Bepaal de criteria van Champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg een Kampioen E-mail/Challenger &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
+>[ voeg een Kampioen E-mail/Challenger ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe
 
 ## Standaardkampioencriteria {#standard-champion-criteria}
 
@@ -29,7 +29,7 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
    >
    >We volgen deze norm en sturen je een rapport met de gegevens per e-mail.
 
-1. Als u één van standaard **Criteria van de Champion** koos, ga vooruit en ga op [&#x200B; het vormen rapportalarm &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) te werk!
+1. Als u één van standaard **Criteria van de Champion** koos, ga vooruit en ga op [ het vormen rapportalarm ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) te werk!
 
 ## Aangepaste Champion-criteria {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Champion/Challenger: Analytics &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
+   >[ Champion/Challenger: Analytics ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)

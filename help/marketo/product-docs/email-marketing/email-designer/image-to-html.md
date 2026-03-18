@@ -1,13 +1,14 @@
 ---
 title: Afbeeldingen converteren naar HTML-sjablonen
-description: Met dit gereedschap kunt u een afbeelding transformeren in een bewerkbare e-mailsjabloon.
+description: Leer hoe u een afbeelding omzet in een bewerkbare HTML-e-mailsjabloon. Gebruik het gereedschap Afbeelding zonder code naar HTML in de e-mail-Designer.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
+exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1281'
+source-wordcount: '1289'
 ht-degree: 0%
 
 ---
@@ -22,8 +23,8 @@ Met behulp van generatieve AI-technologie analyseert de image naar HTML-converte
 
 >[!PREREQUISITES]
 >
->* U moet eerst met de [&#x200B; termijnen van de Kern Gen-AI en de supplementaire termijnen &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
->* U moet _E-mailMalplaatje van de Toegang_ evenals _hebben uitgeeft/E-mailMalplaatje_ toestemmingen produceert die [&#x200B; in uw rol van Marketo &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) worden toegelaten.
+>* U moet eerst met de [ termijnen van de Kern Gen-AI en de supplementaire termijnen ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+>* U moet _E-mailMalplaatje van de Toegang_ evenals _hebben uitgeeft/E-mailMalplaatje_ toestemmingen produceert die [ in uw rol van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) worden toegelaten.
 
 ## Een afbeelding omzetten {#convert-an-image}
 
@@ -108,7 +109,7 @@ De afbeelding naar HTML-converter is ideaal voor:
 **na omzetting**
 
 * **herzie uw ontwerp**: Zodra de omzetting volledig is, wordt uw malplaatje automatisch bewaard als ontwerp. Neem de tijd om de gegenereerde HTML zorgvuldig te controleren op nauwkeurigheid.
-* **Test grondig**: Test e-mail over verschillende e-mailcliënten en apparaten. Voor snellere resultaten, voordeel halen uit de [&#x200B; integratie van het Leiding &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
+* **Test grondig**: Test e-mail over verschillende e-mailcliënten en apparaten. Voor snellere resultaten, voordeel halen uit de [ integratie van het Leiding ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 * **verfijnen manueel**: Breng aanpassingen aan zoals nodig gebruikend e-mail Designer volledige het uitgeven mogelijkheden.
 * **Merk groepering**: Verifieer kleuren, doopvonten, en het stileren passen uw merkrichtlijnen aan.
 * **Personalization**: Voeg dynamische inhoud en personalisatietokens toe zoals gewenst.

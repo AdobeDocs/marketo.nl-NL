@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359789
-description: Een stream klonen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een betrokkenheidsprogrammastream kunt klonen voor testen. Klonen vanaf het pictogram van het stroomversnelling en de snelheid van de nieuwe stream instellen.
 title: Een stream klonen
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

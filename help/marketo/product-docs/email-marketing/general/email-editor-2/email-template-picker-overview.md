@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10912237
-description: Overzicht E-mailsjabloonkiezer - Marketo Docs - Productdocumentatie
+description: Meer informatie over de e-mailsjabloonkiezer in e-maileditor 2.0. Maak een keuze uit sjablonen wanneer u nieuwe e-mails maakt.
 title: Overzicht van de E-mailsjabloonkiezer
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
 
 # Overzicht van de E-mailsjabloonkiezer {#email-template-picker-overview}
 
-Wanneer u [&#x200B; een e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) creeert, hebt u verscheidene vrije malplaatjes om van te kiezen. U kunt ook uw eigen sjabloon maken en deze opslaan voor toekomstig gebruik.
+Wanneer u [ een e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) creeert, hebt u verscheidene vrije malplaatjes om van te kiezen. U kunt ook uw eigen sjabloon maken en deze opslaan voor toekomstig gebruik.
 
 ![](assets/email-template-picker-overview-1.png)
 
@@ -21,7 +21,7 @@ Wanneer u [&#x200B; een e-mail &#x200B;](/help/marketo/product-docs/email-market
 
 ![](assets/two-2.png)
 
-Als uw e-mail kritiek is en u het Communicatie Limieten wilt omzeilen, [&#x200B; maak het operationeel &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) door de doos te controleren. **[!UICONTROL Open in editor]** is standaard geselecteerd. Dit betekent dat u meteen wilt beginnen met het bewerken van uw nieuwe e-mail. **[!UICONTROL Create]** betekent: maak!
+Als uw e-mail kritiek is en u het Communicatie Limieten wilt omzeilen, [ maak het operationeel ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) door de doos te controleren. **[!UICONTROL Open in editor]** is standaard geselecteerd. Dit betekent dat u meteen wilt beginnen met het bewerken van uw nieuwe e-mail. **[!UICONTROL Create]** betekent: maak!
 
 ![](assets/three-2.png)
 
@@ -65,5 +65,5 @@ Mooi zo!
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
->* [&#x200B; creeer een E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [ creeer een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

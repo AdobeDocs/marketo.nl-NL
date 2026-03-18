@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1900577
-description: E-mailscripttoken maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailscripttoken maakt. Definieer aangepaste tokens die dynamische waarden in uw e-mails uitvoeren.
 title: Een e-mailscripttoken maken
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
 # Een e-mailscripttoken maken {#create-an-email-script-token}
 
-Voor gevorderde ontwikkelaars, kunt u {de manuscripten van de Snelheid van 0} [&#x200B; in uw e-mails gebruiken. &#x200B;](https://velocity.apache.org/engine/1.7/user-guide.html) Zo doe je het.
+Voor gevorderde ontwikkelaars, kunt u {de manuscripten van de Snelheid van 0} [ in uw e-mails gebruiken. ](https://velocity.apache.org/engine/1.7/user-guide.html) Zo doe je het.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -49,10 +49,10 @@ Voor gevorderde ontwikkelaars, kunt u {de manuscripten van de Snelheid van 0} [&
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele nuttige bronnen:
 
-   * [&#x200B; de Documentatie van Scripting van de Ontwikkelaars E-mail van Marketo &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/email-scripting)
-   * [&#x200B; Gids van de Gebruiker van 0&rbrace; Snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [&#x200B; Gids van de Verwijzing van 0&rbrace; Snelheid](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [&#x200B; de Hulpmiddelen Javadoc van de Snelheid &lbrace;](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [ de Documentatie van Scripting van de Ontwikkelaars E-mail van Marketo ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
+   * [ Gids van de Gebruiker van 0} Snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [ Gids van de Verwijzing van 0} Snelheid](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [ de Hulpmiddelen Javadoc van de Snelheid {](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Klik op **[!UICONTROL Save]** wanneer het script is voltooid.
 
@@ -66,4 +66,4 @@ Nu kunt u deze token gebruiken in uw e-mails. Het script wordt uitgevoerd telken
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg een Token van het Manuscript E-mail aan Uw E-mail toe &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+>[ voeg een Token van het Manuscript E-mail aan Uw E-mail toe ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)

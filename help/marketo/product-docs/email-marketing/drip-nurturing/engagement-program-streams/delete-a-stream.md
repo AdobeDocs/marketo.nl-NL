@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359936
-description: Een stream verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een stream uit een betrokkenheidsprogramma kunt verwijderen. Verplaats mensen eerst als dat nodig is en bevestig deze om te voorkomen dat historische gegevens verloren gaan.
 title: Een stream verwijderen
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -37,4 +37,4 @@ Als u ooit een stream uit uw betrokkenheidsprogramma moet verwijderen, voert u d
 
    >[!NOTE]
    >
-   >Als de stroom mensen in het heeft, zult u worden gevraagd [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) hen eerst te bewegen.
+   >Als de stroom mensen in het heeft, zult u worden gevraagd [ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) hen eerst te bewegen.

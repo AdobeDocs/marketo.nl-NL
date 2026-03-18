@@ -1,12 +1,12 @@
 ---
 title: Werken met Experience Manager Assets
-description: Leer hoe u afbeeldingselementen van een verbonden AEM Assets-opslagplaats kunt gebruiken bij het ontwerpen van inhoud in Adobe Marketo Engage.
+description: Leer hoe u AEM Assets-afbeeldingen gebruikt in e-mails van Marketo Engage. Koppel AEM Cloud Services en gebruik Assets as a Cloud Service in de ontwerper.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '893'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Maak gebruik van Adobe Experience Manager Assets om marketing- en creatieve workflows samen te brengen. Het is native geïntegreerd met Marketo Engage, zodat kunt u tot _Assets as a Cloud Service_ gemakkelijk toegang hebben om digitale activa te ontdekken en te gebruiken om uw berichten te bevolken.
 
-Adobe Experience Manager _Assets as a Cloud Service_ biedt een makkelijk te gebruiken wolkenoplossing voor efficiënt het Beheer van Activa en Dynamische verrichtingen van Media. Leer meer in de [&#x200B; Adobe Experience Manager as a Cloud Service &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/overview) documentatie.
+Adobe Experience Manager _Assets as a Cloud Service_ biedt een makkelijk te gebruiken wolkenoplossing voor efficiënt het Beheer van Activa en Dynamische verrichtingen van Media. Leer meer in de [ Adobe Experience Manager as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/overview) documentatie.
 
 >[!PREREQUISITES]
 >
->* De vergunningen voor _as a Cloud Service van Assets_ en de Dynamische Media worden vereist voor de integratie. Zorg ervoor dat [&#x200B; Dynamische Media met Open API wordt toegelaten &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Afhankelijk van uw contract en configuratie, kan Adobe Experience Manager _Assets as a Cloud Service_ direct van Marketo Engage worden betreden wanneer het ontwerpen van visuele inhoud.
+>* De vergunningen voor _as a Cloud Service van Assets_ en de Dynamische Media worden vereist voor de integratie. Zorg ervoor dat [ Dynamische Media met Open API wordt toegelaten ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). Afhankelijk van uw contract en configuratie, kan Adobe Experience Manager _Assets as a Cloud Service_ direct van Marketo Engage worden betreden wanneer het ontwerpen van visuele inhoud.
 
 >[!NOTE]
 >
->Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Momenteel, slechts worden de beeldactiva van _Adobe Experience Manager Assets_ gesteund in Marketo Engage. Wijzigingen in de activa moeten worden aangebracht vanuit de centrale gegevensbank van Adobe Experience Manager Assets. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Koppeling maken naar uw AEM Cloud Services {#link-to-your-aem-cloud-services}
 
@@ -37,33 +37,33 @@ Voordat u deze mogelijkheid kunt gebruiken, moet u eerst AEM Cloud Services kopp
 
 1. In Marketo Engage, ga naar het **Admin** gebied en selecteer **Adobe Experience Manager** in de linkernavigatieboom.
 
-   ![&#x200B; Uitgezochte Adobe Experience Manager in de Admin sectie &#x200B;](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
+   ![ Uitgezochte Adobe Experience Manager in de Admin sectie ](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}
 
 1. Klik **uitgeven** naast _de Diensten van de Wolk van Adobe Experience Manager_.
 
-   ![&#x200B; klik uitgeven &#x200B;](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
+   ![ klik uitgeven ](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
 1. Selecteer een of meer opslagruimten.
 
-   ![&#x200B; selecteer een bewaarplaats &#x200B;](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
+   ![ selecteer een bewaarplaats ](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Alleen opslagplaatsen die zijn gekoppeld in dezelfde IMS-org als uw Marketo Engage-abonnement worden vermeld.
    >
-   >* Marketo Engage biedt alleen ondersteuning voor opslagplaatsen van de leveringslaag. Als u de rij van de Auteur gebruikt en het zou willen omzetten, gelieve [&#x200B; de Steun van Adobe Experience Manager &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-manager/content/overview/help-resources) te contacteren.
+   >* Marketo Engage biedt alleen ondersteuning voor opslagplaatsen van de leveringslaag. Als u de rij van de Auteur gebruikt en het zou willen omzetten, gelieve [ de Steun van Adobe Experience Manager ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources) te contacteren.
 
-1. U moet het certificaat van de a [&#x200B; dienstcredentie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
+1. U moet het certificaat van de a [ dienstcredentie ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
 
-   ![&#x200B; voeg een certificaat toe &#x200B;](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
+   ![ voeg een certificaat toe ](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
 
 1. Sleep het certificaat (alleen JSON-bestand) en zet het neer of selecteer het op uw computer. Klik **toevoegen** wanneer gedaan.
 
-   ![&#x200B; plaats van het certificaat op uw machine &#x200B;](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
+   ![ plaats van het certificaat op uw machine ](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
 
 1. De geconfigureerde opslagplaats wordt hieronder samen met de status en de vervaldatum weergegeven. Klik op de knop voor weglatingsteken (**...** ) om het certificaat weer te geven. Anders ben je klaar.
 
-   ![&#x200B; het certificaat is toegevoegd &#x200B;](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
+   ![ het certificaat is toegevoegd ](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
 
 Alle afbeeldingen uit de bibliotheek voor digitaal middelenbeheer in die opslagplaats zijn nu toegankelijk via de Marketo Engage Email Designer.
 
@@ -79,43 +79,43 @@ Als uw omgeving een of meer verbindingen met de opslagplaats voor middelen heeft
 
 * Wanneer u nieuwe inhoud maakt, kiest u `AEM Assets` als het **[!UICONTROL Image Source]** -item in het dialoogvenster.
 
-![&#x200B; Uitgezochte AEM Assets als beeldbron in creeer dialoog &#x200B;](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
+![ Uitgezochte AEM Assets als beeldbron in creeer dialoog ](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
 * Wanneer u een bestaande inhoudsbron opent, kiest u `AEM Assets` in de _[!UICONTROL Body]_-sectie aan de rechterkant.
 
-![&#x200B; Uitgezochte AEM Assets als beeldbron in de eigenschappen &#x200B;](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
+![ Uitgezochte AEM Assets als beeldbron in de eigenschappen ](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
 ### Elementen openen voor ontwerpen {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
->Een beheerder moet gebruikers die toegang tot elementen nodig hebben, toevoegen aan de profielen Assets Consumer Users en/of Assets Users-producten. [Meer informatie](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Een beheerder moet gebruikers die toegang tot elementen nodig hebben, toevoegen aan de profielen Assets Consumer Users en/of Assets Users-producten. [Meer informatie](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 In de visuele inhoudsredacteur, klik het _selecteur van Activa van Experience Manager_ pictogram in linkerzijbalk. Hiermee wijzigt u het deelvenster Gereedschappen in een lijst met beschikbare middelen in de geselecteerde opslagplaats.
 
-![&#x200B; klik het de selecteurspictogram van Assets om tot de beeldactiva &#x200B;](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"} toegang te hebben
+![ klik het de selecteurspictogram van Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"} toegang te hebben
 
 Als u meer dan één aangesloten AEM-opslagplaats hebt, klikt u op de knop **[!UICONTROL Manage as]** om de opslagplaats te kiezen die u wilt gebruiken.
 
-![&#x200B; kies een bewaarplaats van AEM Assets om tot de beeldactiva &#x200B;](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"} toegang te hebben
+![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"} toegang te hebben
 
 Kies de gewenste opslagplaats.
 
-![&#x200B; kies een bewaarplaats van AEM Assets om tot de beeldactiva &#x200B;](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"} toegang te hebben
+![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"} toegang te hebben
 
 Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuele canvas:
 
 * Sleep een afbeeldingsminiatuur vanuit de linkernavigatie en zet deze neer.
 
-![&#x200B; kies een bewaarplaats van AEM Assets om tot de beeldactiva &#x200B;](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"} toegang te hebben
+![ kies een bewaarplaats van AEM Assets om tot de beeldactiva ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"} toegang te hebben
 
-* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_&#x200B;te openen.
+* Voeg een afbeeldingscomponent toe aan het canvas en klik op **[!UICONTROL Browse]** om het dialoogvenster _[!UICONTROL Select Assets]_te openen.
 
   In het dialoogvenster kunt u een afbeelding kiezen in de geselecteerde opslagplaats.
 
   Er zijn meerdere gereedschappen beschikbaar om u te helpen de middelen te vinden die u nodig hebt.
 
-![&#x200B; hulpmiddel van het Gebruik in de Uitgezochte dialoog van Assets om een beeldactiva &#x200B;](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"} te vinden en te selecteren
+![ hulpmiddel van het Gebruik in de Uitgezochte dialoog van Assets om een beeldactiva ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"} te vinden en te selecteren
 
 * Wijzig de **[!UICONTROL Repository]** rechtsboven.
 
@@ -131,4 +131,4 @@ Er zijn meerdere methoden om een afbeeldingselement toe te voegen aan het visuel
 
 * Typ tekst in het veld Zoeken om de weergegeven items te filteren op een overeenkomst met de elementnaam.
 
-![&#x200B; Gebruik de filters en het onderzoeksgebied om van de activa &#x200B;](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"} de plaats te bepalen
+![ Gebruik de filters en het onderzoeksgebied om van de activa ](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"} de plaats te bepalen

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359890
-description: Inzicht krijgen in de Engagement Score - Marketo Docs - Productdocumentatie
+description: Leer meer over de betrokkenheidsscore (0 tot en met 100) en hoe deze de doeltreffendheid van inhoud meet. Gebruik het dashboard om de prestaties van de inhoud te vergelijken.
 title: De betrokkenheidsscore begrijpen
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # De betrokkenheidsscore begrijpen {#understanding-the-engagement-score}
 
-Met de betrokkenheidsscore kunt u eenvoudig zien hoe effectief de inhoud in uw betrokkenheidsprogramma is. De score loopt van 0 tot en met 100. Controle uit [&#x200B; het Dashboard van de Betrokkenheid &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) om te zien hoe u de prestaties van uw inhoud kunt volgen.
+Met de betrokkenheidsscore kunt u eenvoudig zien hoe effectief de inhoud in uw betrokkenheidsprogramma is. De score loopt van 0 tot en met 100. Controle uit [ het Dashboard van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md) om te zien hoe u de prestaties van uw inhoud kunt volgen.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -33,4 +33,4 @@ Betrokkenheidsscores zijn universeel voor alle klanten. Je kunt ze vergelijken o
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend de Programma&#39;s van de Betrokkenheid &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
+>[ Begrijpend de Programma&#39;s van de Betrokkenheid ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)

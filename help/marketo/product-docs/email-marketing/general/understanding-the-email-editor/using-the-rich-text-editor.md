@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953419
-description: De Rich Text Editor - Marketo Docs - Productdocumentatie gebruiken
+description: Leer hoe u de RTF-editor voor e-mailinhoud gebruikt. Maak tekst op, voeg koppelingen toe en maak inhoud op in de e-maileditor.
 title: De Rich Text Editor gebruiken
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '672'
 ht-degree: 1%
 
 ---

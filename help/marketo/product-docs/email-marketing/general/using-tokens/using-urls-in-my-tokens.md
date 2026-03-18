@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382535
-description: URL's gebruiken in Mijn tokens - Marketo Docs - Productdocumentatie
+description: Leer hoe u URL's gebruikt in Mijn tokens. Sla URL's op in tokens voor koppelingen en bestemmingspagina's in e-mails en zoek deze naar deze URL's.
 title: URL's gebruiken in Mijn tokens
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Voer de onderstaande stappen uit om [!UICONTROL My Tokens] te gebruiken om URL&#
    >
    >* Om ervoor te zorgen klikken in uw e-mail worden gevolgd, ga **niet** https:// _binnen_ de waarde van het teken in. Gebruik het buiten het token, zoals getoond in Stap 7.
    >
-   >* We raden u ten zeerste aan om de http/https niet weg te laten. Dit kon de [&#x200B; Webversie &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} van uw e-mail veroorzaken om verkeerd terug te geven.
+   >* We raden u ten zeerste aan om de http/https niet weg te laten. Dit kon de [ Webversie ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} van uw e-mail veroorzaken om verkeerd terug te geven.
 
 1. Selecteer de e-mail in uw programma.
 

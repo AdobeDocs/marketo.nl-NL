@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900563
-description: Een agendagebeurtenbestand (.ics) maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een bestand met agendagebeurtenissen (.ics) maakt voor e-mails. Voeg kalenderbijlagen toe zodat ontvangers gebeurtenissen kunnen opslaan.
 title: Een agendagebeurtenbestand (.ics) maken
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ Opdracht voltooid! Zorg ervoor dat u het uittest.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; omvat een Gebeurtenis van de Kalender (.ics) in e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
->* [&#x200B; omvat een Dossier van de Gebeurtenis ICS van de Kalender in een Openende Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
+>* [ omvat een Gebeurtenis van de Kalender (.ics) in e-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [ omvat een Dossier van de Gebeurtenis ICS van de Kalender in een Openende Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

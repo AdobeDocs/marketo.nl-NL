@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359547
-description: Plan de A/B-test - Marketo Docs - Productdocumentatie
+description: Leer hoe u een A/B-test voor een e-mailprogramma plant. Stel de verzendtijd in en de tijd waarop de winnaar wordt gedeclareerd.
 title: De A/B-test plannen
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
+>[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
 
 >[!NOTE]
 >
@@ -63,4 +63,4 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; keur/keur een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) goed
+   >[ keur/keur een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) goed

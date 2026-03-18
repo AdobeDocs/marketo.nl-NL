@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096409
-description: Vermijd het verzenden van dubbele inhoud - Marketo Docs - Productdocumentatie
+description: Leer over scenario's die dubbele e-mails in betrokkenheidsprogramma's verhinderen of toestaan. Gebruik het lidmaatschap van een programma en de CEE-regels om herhalingen te voorkomen.
 title: Dubbele inhoud niet verzenden
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 3%
 
 ---

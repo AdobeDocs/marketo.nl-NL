@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795727
-description: Aflevering van e-mailprogramma's die zijn gepland met de tijdzone voor ontvangers - Marketo Docs - Productdocumentatie
+description: Leer hoe u aflevering afbreekt voor e-mailprogramma's die zijn gepland met de tijdzone van de ontvanger. Stop verzenden en handvat resterende ontvangers.
 title: Aflevering van e-mailprogramma's afbreken die met de tijdzone van de ontvanger zijn gepland
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -39,5 +39,5 @@ Aangezien e-mailprogramma&#39;s die zijn gepland met de tijdzone van de ontvange
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend Ontvankelijke Tijdzone van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [&#x200B; E-mailprogramma&#39;s van het Programma met de Ontvankelijke Streek van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [ Begrijpend Ontvankelijke Tijdzone van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [ E-mailprogramma&#39;s van het Programma met de Ontvankelijke Streek van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

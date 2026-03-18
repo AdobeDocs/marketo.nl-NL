@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11371065
-description: Modules toevoegen aan uw e-mail - Marketo Docs - Productdocumentatie
+description: Leer hoe u modules aan uw e-mail toevoegt in E-maileditor 2.0. Plaats de inhoudsmodules in en rangschik deze om uw lay-out te maken.
 title: Modules toevoegen aan uw e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ In [!DNL Email Editor 2.0] is een module een sectie van uw e-mail die in het mal
 
    >[!NOTE]
    >
-   >Het grootste deel van de Marketo [!UICONTROL Starter Templates] bevat [!UICONTROL Modules] . U kunt ook [&#x200B; uw eigen &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) creëren.
+   >Het grootste deel van de Marketo [!UICONTROL Starter Templates] bevat [!UICONTROL Modules] . U kunt ook [ uw eigen ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) creëren.
 
 1. Klik helemaal rechts van de e-mail op **[!UICONTROL Modules]** .
 
@@ -67,4 +67,4 @@ Dat is alles wat er aan te pas komt.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

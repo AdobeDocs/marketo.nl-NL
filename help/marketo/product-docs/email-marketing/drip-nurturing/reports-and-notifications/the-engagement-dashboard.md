@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359685
-description: Het betrokkenheidsdashboard - Marketo Docs - Productdocumentatie
+description: Meer informatie over het betrokkenheidsdashboard en de prestaties van de inhoud. De uitputting, betrokkenheid in de loop van de tijd en widgets voor de hoogste betrokkenheid weergeven.
 title: Het betrokkenheidsdashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Het betrokkenheidsdashboard is de eenvoudigste manier om te zien hoe de inhoud i
 
 >[!NOTE]
 >
->De betrokkenheidsscore bevat gegevens uit de laatste drie casts. Een nieuwe wordt berekend 72 uur na elke gietvorm. Leer meer over de [&#x200B; betrokkenheidsscore &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>De betrokkenheidsscore bevat gegevens uit de laatste drie casts. Een nieuwe wordt berekend 72 uur na elke gietvorm. Leer meer over de [ betrokkenheidsscore ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Het dashboard Betrokkenheid weergeven {#view-the-engagement-dashboard}
 
@@ -27,7 +27,7 @@ Selecteer uw betrokkenheidsprogramma en klik op **Weergave** > **[!UICONTROL Das
 
 >[!TIP]
 >
->Controle uit het [&#x200B; prestatiesrapport van de betrokkenheidsstroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) voor meer gedetailleerde statistieken.
+>Controle uit het [ prestatiesrapport van de betrokkenheidsstroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) voor meer gedetailleerde statistieken.
 
 ## De extrusiewidget begrijpen {#understand-the-exhaustion-widget}
 
@@ -71,4 +71,4 @@ _Nieuwst_ en _Oudst_ zijn gebaseerd op tijd van laatste goedkeuring.
 
 >[!NOTE]
 >
->Leer meer in [&#x200B; creeer een 1&rbrace; diepe duik van het Programma van de Betrokkenheid &lbrace;.](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>Leer meer in [ creeer een 1} diepe duik van het Programma van de Betrokkenheid {.](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900591
-description: Een e-mailprogramma maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailprogramma maakt in Marketo. Stel het publiek, de e-mail, het programma en de goedkeuring op één locatie in.
 title: Een e-mailprogramma maken
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,5 @@ Mooi! Het programma staat nu in de boom en is klaar om te worden gebruikt. De vo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; bepaal een Publiek met een Slimme Lijst &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [&#x200B; bepaal een Publiek door een Lijst &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) in te voeren
+>* [ bepaal een Publiek met een Slimme Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [ bepaal een Publiek door een Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) in te voeren

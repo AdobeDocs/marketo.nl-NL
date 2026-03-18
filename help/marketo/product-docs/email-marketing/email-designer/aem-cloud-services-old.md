@@ -1,11 +1,11 @@
 ---
 title: Connect Experience Manager-document
-description: Leer hoe u Adobe Experience Manager Cloud Services kunt verbinden met Adobe Marketo Engage zodat u uw AEM-middelen kunt benutten.
+description: Leer hoe u AEM Cloud Services kunt verbinden met Marketo Engage. Gebruik uw AEM-middelen wanneer u e-mails ontwerpt in de ontwerper.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -36,7 +36,7 @@ SCREENSHOT
 >
 >Alleen opslagplaatsen die zijn gekoppeld in dezelfde IMS-org als uw Marketo Engage-abonnement worden vermeld.
 
-1. U moet het certificaat van de a [&#x200B; dienstcredentie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
+1. U moet het certificaat van de a [ dienstcredentie ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) toevoegen om de bewaarplaats te vormen. Klik op de knop **+ Certificaat toevoegen** .
 
 SCREENSHOT
 
@@ -52,4 +52,4 @@ Alle afbeeldingen uit de bibliotheek voor digitaal middelenbeheer in die opslagp
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Werk met de activa van Experience Manager &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)
+>[ Werk met de activa van Experience Manager ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)

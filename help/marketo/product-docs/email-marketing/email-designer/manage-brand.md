@@ -2,14 +2,15 @@
 solution: Marketo Engage
 product: Marketo
 title: Merk beheren
-description: Leer hoe u richtlijnen voor uw merk kunt maken en beheren
+description: Leer hoe u richtlijnen voor merken kunt maken en beheren in de e-mail Designer. Configureer en werk de merkinstellingen voor uw e-mails bij.
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1319'
+source-wordcount: '1330'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Voer uw merkgegevens handmatig in en ordent deze of upload documenten met brandr
 
 >[!AVAILABILITY]
 >
->U moet met de [&#x200B; gebruikersovereenkomst &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
+>U moet met de [ gebruikersovereenkomst ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
 
 ## Handelsmerken {#generative-access}
 
@@ -50,7 +51,7 @@ Voer de volgende stappen uit om machtigingen voor merken toe te wijzen:
 
 1. Ga de naam van de gebruiker, e-mailadres in, of kies van de lijst, dan klik **sparen**.
 
-1. Als de gebruiker niet eerder werd gecreeerd, verwijs naar [&#x200B; deze documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/users).
+1. Als de gebruiker niet eerder werd gecreeerd, verwijs naar [ deze documentatie ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/users).
 
 +++
 
@@ -157,7 +158,7 @@ Gebruik het tabblad **[!UICONTROL About the brand]** om de belangrijkste identit
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
 
 ### Schrijfstijl {#writing-style}
 
@@ -268,7 +269,7 @@ U past de **[!UICONTROL Writing Style]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
 
 ### Visuele inhoud {#visual-content}
 
@@ -339,4 +340,4 @@ U past de **[!UICONTROL Visual content]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.

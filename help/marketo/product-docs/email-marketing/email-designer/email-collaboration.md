@@ -1,12 +1,12 @@
 ---
-description: Samenwerking via e-mail - Marketo Docs - Productdocumentatie
+description: Meer informatie over e-mailsamenwerking en opmerkingen vindt u in de Designer e-mail. Bekijk, becommentariëer en los feedback met uw team in real-time op.
 title: E-mailsamenwerking
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Dankzij e-mailsamenwerking en opmerkingen kunnen marketingteams e-mailmiddelen i
 
 ## Machtigingen {#permissions}
 
-Gebruikers die over bewerkingsmachtigingen voor een e-mailmiddel beschikken, kunnen opmerkingen toevoegen, coderen en opmerkingen weergeven. De gebruikers met read-only toestemmingen aan e-mailactiva zullen **&#x200B;**&#x200B;geen commentaren kunnen toevoegen of bekijken.
+Gebruikers die over bewerkingsmachtigingen voor een e-mailmiddel beschikken, kunnen opmerkingen toevoegen, coderen en opmerkingen weergeven. De gebruikers met read-only toestemmingen aan e-mailactiva zullen **** geen commentaren kunnen toevoegen of bekijken.
 
 ## Opmerkingen toevoegen {#add-comments}
 

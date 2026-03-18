@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900554
-description: HTML - Marketo-documenten - Productdocumentatie bewerken in een e-mail
+description: Leer hoe u de HTML van een e-mail rechtstreeks kunt bewerken. Open de weergave HTML om geavanceerde wijzigingen in uw e-mailcode aan te brengen.
 title: HTML van e-mailberichten bewerken
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ Met de functie Code zoeken kunt u op efficiënte wijze inhoud zoeken en vervange
 
    >[!NOTE]
    >
-   >De Code van het onderzoek is ook beschikbaar in de [&#x200B; redacteur van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
+   >De Code van het onderzoek is ook beschikbaar in de [ redacteur van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 We raden u aan uw e-mailberichten te blijven bewerken met de ingebouwde Marketo-functionaliteit, maar deze code-editor biedt wel flexibiliteit als dat nodig is.

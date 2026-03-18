@@ -2,11 +2,11 @@
 solution: Marketo Engage
 product: marketo
 title: E-mailspamrapport
-description: Leer hoe u SpamAssassin kunt gebruiken om uw e-mailinhoud te testen en de kans te zien dat deze als spam wordt gemarkeerd.
+description: Leer hoe u SpamAssassin kunt gebruiken om e-mailinhoud te testen op spamwaarschijnlijkheid. Controleer uw e-mails voordat u ze verzendt om de prestaties te verbeteren.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -53,4 +53,4 @@ Wanneer de score naar je smaak is, kan deze worden verzonden.
 
 >[!NOTE]
 >
->De score van spam wordt afgeleid via SpamAssassin, en **de regels zijn niet bezeten door Adobe**. Meer details over deze regels kunnen in de [&#x200B; documentatie SpamAssassin &#x200B;](https://spamassassin.apache.org/#_blank){target="_blank"} worden gevonden. Een volledige lijst van fouten [&#x200B; kan hier &#x200B;](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"} worden gezien.
+>De score van spam wordt afgeleid via SpamAssassin, en **de regels zijn niet bezeten door Adobe**. Meer details over deze regels kunnen in de [ documentatie SpamAssassin ](https://spamassassin.apache.org/#_blank){target="_blank"} worden gevonden. Een volledige lijst van fouten [ kan hier ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"} worden gezien.

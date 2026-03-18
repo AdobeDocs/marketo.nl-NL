@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Aanpasbare fragmenten
-description: Leer hoe u fragmenten kunt aanpassen door sommige van de velden bewerkbaar te maken.
+description: Leer hoe u fragmenten aanpast door bepaalde velden bewerkbaar te maken. Maak flexibele herbruikbare fragmenten in de e-mailtoepassing Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Voer de volgende stappen uit om gedeelten van een visueel fragment bewerkbaar te
 
 >[!NOTE]
 >
->Bewerkbare gebieden kunnen aan **beeld** worden toegevoegd, **tekst** en **knoop** componenten. Voor **HTML** componenten, worden de editable gebieden toegevoegd gebruikend de verpersoonlijkingsredacteur, gelijkend op uitdrukkingsfragmenten. [&#x200B; Leer hoe te om editable gebied in de componenten van HTML en uitdrukkingsfragmenten toe te voegen &#x200B;](#expression)
+>Bewerkbare gebieden kunnen aan **beeld** worden toegevoegd, **tekst** en **knoop** componenten. Voor **HTML** componenten, worden de editable gebieden toegevoegd gebruikend de verpersoonlijkingsredacteur, gelijkend op uitdrukkingsfragmenten. [ Leer hoe te om editable gebied in de componenten van HTML en uitdrukkingsfragmenten toe te voegen ](#expression)
 
 1. Open het scherm voor de editie van de fragmentinhoud.
 
@@ -76,4 +76,4 @@ For example, in the code below, each element highlighted in red can become a pro
 -->
 >[!MORELIKETHIS]
 >
->[&#x200B; Fragments &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
+>[ Fragments ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}

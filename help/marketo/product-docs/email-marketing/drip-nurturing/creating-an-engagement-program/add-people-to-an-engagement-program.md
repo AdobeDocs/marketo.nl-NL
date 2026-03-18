@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359782
-description: Personen toevoegen aan een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
+description: Leer hoe mensen lid kunnen worden van betrokkenheidsprogramma's. Gebruik stroomstappen, formulieren, import of Salesforce-campagnes om leden toe te voegen.
 title: Personen toevoegen aan een betrokkenheidsprogramma
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359947
-description: Overgang mensen tussen betrokkenheidsstromen - Marketo Docs - productdocumentatie
+description: Leer hoe u overgangsregels instelt om mensen tussen betrokkenheidsstreams te verplaatsen. Definieer regels voor de stream waar u naartoe wilt trekken.
 title: Overgang mensen tussen betrokkenheidsstromen
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 # Overgang mensen tussen betrokkenheidsstromen {#transition-people-between-engagement-streams}
 
-Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [&#x200B; een stroom &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) toevoegt, zult u een manier voor mensen willen bepalen om zich van één stroom aan een andere te bewegen. Deze worden genoemd **overgangsregels.**
+Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [ een stroom ](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) toevoegt, zult u een manier voor mensen willen bepalen om zich van één stroom aan een andere te bewegen. Deze worden genoemd **overgangsregels.**
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -53,4 +53,4 @@ Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [&#x200B; ee
 
    >[!NOTE]
    >
-   >De stappen hierboven geschetst *zijn* van toepassing op mensen die [&#x200B; op pauze &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) eveneens zijn.
+   >De stappen hierboven geschetst *zijn* van toepassing op mensen die [ op pauze ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) eveneens zijn.

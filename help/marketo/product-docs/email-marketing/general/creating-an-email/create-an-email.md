@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912163
-description: Een e-mail maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mail maakt in Marketo. Kies een sjabloon of begin helemaal opnieuw in Design Studio of een e-mailprogramma.
 title: Een e-mail maken
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -61,10 +61,10 @@ Welke methode u kiest, brengt u naar de sjabloonkiezer.
 
    ![](assets/create-an-email-7.png)
 
-   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Voor e-mail met modules, controleer [&#x200B; Modules aan uw E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) toevoegen.
+   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Voor e-mail met modules, controleer [ Modules aan uw E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) toevoegen.
 
 Uw e-mailadres is nu gemaakt, dus bewerk het weg!
 
 >[!MORELIKETHIS]
 >
->[&#x200B; geef Uw E-mailkopbal uit &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)
+>[ geef Uw E-mailkopbal uit ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)

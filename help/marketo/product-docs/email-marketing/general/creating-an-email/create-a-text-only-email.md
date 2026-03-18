@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900556
-description: Een e-mail met alleen tekst maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailbericht maakt met alleen tekst in Marketo. Gebruik de tekstversie voor onbewerkte-tekstcampagnes of als fallback.
 title: Een e-mail met alleen tekst maken
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Als je alleen e-mails met tekst wilt verzenden, kun je hier een e-mail maken die
 
    >[!CAUTION]
    >
-   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe te [&#x200B; Bijgehouden Verbindingen aan een E-mail van de Tekst &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) toevoegen.
+   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe te [ Bijgehouden Verbindingen aan een E-mail van de Tekst ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) toevoegen.
 
    >[!TIP]
    >

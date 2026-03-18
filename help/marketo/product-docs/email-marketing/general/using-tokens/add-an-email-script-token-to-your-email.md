@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1900575
-description: Een e-mailscripttoken toevoegen aan uw e-mail - Marketo Docs - Productdocumentatie
+description: Leer hoe u een token voor een e-mailscript toevoegt aan uw e-mail. Voeg dynamische inhoud in met tokens in de e-maileditor.
 title: Een e-mailscripttoken toevoegen aan uw e-mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Een e-mailscripttoken toevoegen aan uw e-mail {#add-an-email-script-token-to-your-email}
 
-Nadat u [&#x200B; uw e-mailmanuscript &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) hebt gecreeerd, zult u het aan e-mail willen toevoegen om het in actie te zien. Zo gaat het.
+Nadat u [ uw e-mailmanuscript ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) hebt gecreeerd, zult u het aan e-mail willen toevoegen om het in actie te zien. Zo gaat het.
 
 >[!NOTE]
 >
@@ -49,6 +49,6 @@ Nadat u [&#x200B; uw e-mailmanuscript &#x200B;](/help/marketo/product-docs/email
 
 >[!NOTE]
 >
->Vergeet niet [&#x200B; goed te keuren e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Vergeet niet [ goed te keuren e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 Dat is het! Wanneer deze e-mail wordt verzonden, wordt het script achter het token uitgevoerd en wordt de inhoud gevuld.

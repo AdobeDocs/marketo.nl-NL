@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359545
-description: Bepaal de A/B criteria van de Winner van de Test - Marketo DOS - de Documentatie van het Product
+description: Leer hoe u criteria voor een A/B-testwinnaar definieert. Stel de meting en drempel in die bepalen welke variant de test wint.
 title: De criteria voor de A/B-testwinnaars definiëren
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
 # De criteria voor de A/B-testwinnaars definiëren {#define-the-a-b-test-winner-criteria}
 
-Wanneer [&#x200B; toevoegend een test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} aan uw e-mailprogramma, zult u een testtype moeten kiezen, [&#x200B; de test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} plannen, dan de winnende criteria bepalen. Hier is hoe je bepaalt welke e-mail wint.
+Wanneer [ toevoegend een test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} aan uw e-mailprogramma, zult u een testtype moeten kiezen, [ de test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} plannen, dan de winnende criteria bepalen. Hier is hoe je bepaalt welke e-mail wint.
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} toe
+>[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} toe
 
 ## Winkelcriteria {#winner-criteria}
 
@@ -40,13 +40,13 @@ Wanneer [&#x200B; toevoegend een test A/B &#x200B;](/help/marketo/product-docs/e
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=nl-NL" target="_blank"> betrokkenheidsscore </a> helpt u de doeltreffendheid van uw inhoud bepalen.</td>
+   <td>De <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank"> betrokkenheidsscore </a> helpt u de doeltreffendheid van uw inhoud bepalen.</td>
    </tr>
    </table>
 
    >[!TIP]
    >
-   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Leer meer over [&#x200B; het begrijpen van de betrokkenheidsscore &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Leer meer over [ het begrijpen van de betrokkenheidsscore ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 1. U kunt uw criteria ook aanpassen door **[!UICONTROL Custom Conversion]** te selecteren en **[!UICONTROL Edit]** te klikken.
 
@@ -92,4 +92,4 @@ Nu is het tijd om te beslissen hoe de winnaar wordt bepaald.
    >
    >Als u **[!UICONTROL Manual]** kiest, wordt de test verzonden en wordt gewacht tot u een winnaar hebt gedeclareerd. U ontvangt een rapport met de resultaten.
 
-Nu plannen [&#x200B; de test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Nu plannen [ de test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
