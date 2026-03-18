@@ -1,11 +1,11 @@
 ---
-description: Een goed begrip van de verzendopties voor verkoopcampagne voor e-mailstappen - Marketo Docs - Productdocumentatie
+description: Begrijp verzendopties voor de e-mailstappen van de campagne van de Verkoop. Kies wanneer u wilt verzenden, plant u tijd of maak een taak om uzelf te verzenden voor de eerste en volgende stappen.
 title: Verzendopties voor verkoopcampagne voor e-mailstappen
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '755'
 ht-degree: 0%
 
 ---
@@ -74,6 +74,6 @@ Voor alle volgende dagen/stappen in uw verkoopcampagne hebt u de volgende opties
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Campagne van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[De Types van Stap van de Campagne van de verkoop en de Taken van de Herinnering &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[De Montages van de Campagne van de verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>[ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[De Types van Stap van de Campagne van de verkoop en de Taken van de Herinnering ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>[De Montages van de Campagne van de verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

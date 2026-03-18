@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355602
-description: Marketo Sales Insight installeren en configureren in Microsoft Dynamics Online - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo Sales Insight installeert en configureert in Microsoft Dynamics Online. Stel de oplossing voor Dynamics Online in.
 title: Marketo Sales Insight online installeren en configureren
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '411'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >Voltooi uw integratie tussen Marketo en Microsoft.
 >
->[&#x200B; Download de correcte oplossing &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics CRM].
+>[ Download de correcte oplossing ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics CRM].
 
 ## Oplossing importeren {#import-solution}
 
@@ -111,7 +111,7 @@ Laten we uw Marketo-instantie koppelen aan [!DNL Sales Insight] in [!DNL Dynamic
    >* Urgentie
    >* Relatieve score
    >
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [&#x200B; deze procedure &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [ deze procedure ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
 1. Ga terug in [!DNL Microsoft Dynamics] en ga naar **[!UICONTROL Settings]** .
 
@@ -181,4 +181,4 @@ Tot slot moet u specifieke gebruikers toegang geven tot het gebruik van [!DNL Ma
 
 >[!MORELIKETHIS]
 >
->[&#x200B; de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[ de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

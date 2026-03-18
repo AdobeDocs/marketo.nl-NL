@@ -1,11 +1,11 @@
 ---
-description: Salesforce Lightning-aanpassingspakket verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u het aanpassingspakket voor Salesforce Lightning voor Sales Insight kunt verwijderen. Verwijder het pakket uit uw Salesforce-exemplaar wanneer dat nodig is.
 title: Salesforce Lightning-aanpassingspakket verwijderen
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '1005'
 ht-degree: 5%
 
 ---

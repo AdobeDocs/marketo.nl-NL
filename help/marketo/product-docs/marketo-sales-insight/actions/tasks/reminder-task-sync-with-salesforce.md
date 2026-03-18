@@ -1,11 +1,11 @@
 ---
-description: Herinnering taaksynchronisatie met Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe herinneringstaken synchroniseren met Salesforce. Zorg ervoor dat e-mail-, aanroep- en aangepaste taken uit Handelingen worden weergegeven in Salesforce Activity.
 title: Taaksynchronisatie met Salesforce herinneren
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Leren hoe te om de controle van de Synchronisatie van de Taak uit te laten [&#x200B; de Acties/Herinneringen van de Acties van de Verkoop van Insight van de Synchronisatie aan de Taken van Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Leren hoe te om de controle van de Synchronisatie van de Taak uit te laten [ de Acties/Herinneringen van de Acties van de Verkoop van Insight van de Synchronisatie aan de Taken van Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Als de instellingen voor taaksynchronisatie zijn ingeschakeld, worden de herinneringstaken bidirectioneel gesynchroniseerd met [!DNL Salesforce] . Dit betekent dat gebruikers taken vanuit [!DNL Salesforce] of [!DNL Sales Insight Actions] kunnen beheren en erop kunnen vertrouwen dat de systemen op één lijn blijven staan.
 
@@ -77,8 +77,8 @@ Hier volgt wat er gebeurt wanneer u [!DNL Sales Insight Actions] - en SFDC-taken
 
 Na de eerste synchronisatie worden alle taken die u maakt, bewerkt, voltooit of verwijdert in [!DNL Sales Insight Actions] , gesynchroniseerd met de takenlijst in [!DNL Salesforce] . En alles wat in [!DNL Salesforce] is gemaakt, bewerkt, voltooid of verwijderd, werkt uw takenlijst bij in [!DNL Sales Insight Actions] .
 
-Om deze synchronisatie aan te zetten, controleer enkel de synchronisatiedoos in uw [&#x200B; pagina van Montages &#x200B;](https://toutapp.com/login) in de Webtoepassing.
+Om deze synchronisatie aan te zetten, controleer enkel de synchronisatiedoos in uw [ pagina van Montages ](https://toutapp.com/login) in de Webtoepassing.
 
 >[!NOTE]
 >
->Het onderwerpgebied van een taak kan in [!DNL Sales Insight Actions] worden bijgewerkt en die update zal op het [!DNL Salesforce] onderwerpgebied voor de overeenkomstige gesynchroniseerde taak worden gesynchroniseerd, als u het `{{activity_subject}}` dynamische gebied in uw [&#x200B; montages van de Aanpassing van het Detail van de Activiteit &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) gebruikt. Omgekeerd, zullen om het even welke die updates aan het onderwerpgebied in [!DNL Salesforce] worden aangebracht *niet* over aan het [!DNL Sales Insight Actions] onderwerponderwerpgebied van de herinneringstaak synchroniseren.
+>Het onderwerpgebied van een taak kan in [!DNL Sales Insight Actions] worden bijgewerkt en die update zal op het [!DNL Salesforce] onderwerpgebied voor de overeenkomstige gesynchroniseerde taak worden gesynchroniseerd, als u het `{{activity_subject}}` dynamische gebied in uw [ montages van de Aanpassing van het Detail van de Activiteit ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) gebruikt. Omgekeerd, zullen om het even welke die updates aan het onderwerpgebied in [!DNL Salesforce] worden aangebracht *niet* over aan het [!DNL Sales Insight Actions] onderwerponderwerpgebied van de herinneringstaak synchroniseren.

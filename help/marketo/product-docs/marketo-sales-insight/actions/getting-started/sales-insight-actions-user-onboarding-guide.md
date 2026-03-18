@@ -1,12 +1,12 @@
 ---
-description: Handelingen Insight voor verkoop - Gebruikershandleiding aan boord - Marketo-documenten - Productdocumentatie
+description: Leer hoe je aan de slag kunt gaan als nieuwe gebruiker voor Insight-verkoopacties. Voltooi de installatiestappen en verbind e-mail, Salesforce en Marketo.
 title: Handelingen Insight verkopen Handboek voor gebruikers aan boord nemen
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 2%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [&#x200B; pakket van Insight van de Verkoop van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 >[!PREREQUISITES]
 >

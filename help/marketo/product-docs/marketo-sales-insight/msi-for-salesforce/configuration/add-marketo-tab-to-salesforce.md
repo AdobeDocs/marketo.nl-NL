@@ -1,11 +1,11 @@
 ---
-description: Marketo Tab toevoegen aan Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe u het Marketo-tabblad toevoegt aan Salesforce. Het tabblad Marketo Sales Insight zichtbaar maken voor gebruikers in Salesforce.
 title: Marketo Tab toevoegen aan Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---

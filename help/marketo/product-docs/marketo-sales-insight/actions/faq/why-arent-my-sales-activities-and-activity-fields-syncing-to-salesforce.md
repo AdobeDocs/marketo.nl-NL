@@ -1,10 +1,10 @@
 ---
-description: Waarom synchroniseren mijn verkoopactiviteiten en activiteitenvelden niet met Salesforce? - Marketo Docs - Productdocumentatie
+description: Los problemen op wanneer de verkoopactiviteiten en de gebieden niet met Salesforce synchroniseren. Controleer API-logboekregistratie, aangepaste velden en machtigingen.
 title: Waarom synchroniseren mijn verkoopactiviteiten en activiteitenvelden niet met Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 **ik zie geen e-mail of vraagactiviteiten die aan Salesforce worden gesynchroniseerd.**
 
 * Zorg ervoor dat je bent verbonden met Salesforce. Elke gebruiker moet een verbinding hebben om zijn e-mail en vraag aan Salesforce te registreren.
-* Zorg ervoor u [&#x200B; de Montages van de Synchronisatie van Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"} hebt gevormd.
-* Bij e-mails wordt een recordzoekopdracht uitgevoerd op basis van de Salesforce-id als primair opzoekings- en e-mailadres. U kunt bevestigen dat een persoonverslag een identiteitskaart van Salesforce en e-mailadres verbonden aan hen in [&#x200B; het Web app van Acties &#x200B;](https://toutapp.com/next#command_center){target="_blank"} heeft.
-* De vraag zal een verslagraadpleging doen die op identiteitskaart van Salesforce slechts wordt gebaseerd. Als geen identiteitskaart van Salesforce op het persoonverslag in Acties bestaat, zal de vraag niet registreren. U kunt bevestigen dat een persoonverslag een identiteitskaart van Salesforce verbonden aan hen in [&#x200B; het Web app van Acties &#x200B;](https://toutapp.com/next#command_center){target="_blank"} heeft.
+* Zorg ervoor u [ de Montages van de Synchronisatie van Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"} hebt gevormd.
+* Bij e-mails wordt een recordzoekopdracht uitgevoerd op basis van de Salesforce-id als primair opzoekings- en e-mailadres. U kunt bevestigen dat een persoonverslag een identiteitskaart van Salesforce en e-mailadres verbonden aan hen in [ het Web app van Acties ](https://toutapp.com/next#command_center){target="_blank"} heeft.
+* De vraag zal een verslagraadpleging doen die op identiteitskaart van Salesforce slechts wordt gebaseerd. Als geen identiteitskaart van Salesforce op het persoonverslag in Acties bestaat, zal de vraag niet registreren. U kunt bevestigen dat een persoonverslag een identiteitskaart van Salesforce verbonden aan hen in [ het Web app van Acties ](https://toutapp.com/next#command_center){target="_blank"} heeft.
 
 **ik zie geen activiteitengebieden in de update van Salesforce.**
 
-Als u geen e-mail [&#x200B; gebieden van de activiteitenattributen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} update in Salesforce ziet, zou het aan beperkingen op de Toegankelijkheid van het Gebied van uw team kunnen zijn. De beveiliging op veldniveau van Salesforce biedt Salesforce Admins de mogelijkheid om beperkingen in te stellen ten aanzien van de informatie die gebruikers kunnen bekijken en bewerken. Als gebruikers van Handelingen geen toegang hebben tot de weergave en het bewerken van deze velden, worden deze velden niet bijgewerkt via de activiteitensync van Handelingen.
+Als u geen e-mail [ gebieden van de activiteitenattributen ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} update in Salesforce ziet, zou het aan beperkingen op de Toegankelijkheid van het Gebied van uw team kunnen zijn. De beveiliging op veldniveau van Salesforce biedt Salesforce Admins de mogelijkheid om beperkingen in te stellen ten aanzien van de informatie die gebruikers kunnen bekijken en bewerken. Als gebruikers van Handelingen geen toegang hebben tot de weergave en het bewerken van deze velden, worden deze velden niet bijgewerkt via de activiteitensync van Handelingen.
 
-* Het werk met uw Salesforce Admin om deze veiligheidsmontages te verzekeren bemoeit zich niet met [&#x200B; de gebieden van de Activiteit van Salesforce van Acties &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}.
+* Het werk met uw Salesforce Admin om deze veiligheidsmontages te verzekeren bemoeit zich niet met [ de gebieden van de Activiteit van Salesforce van Acties ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}.
 * Als u een Salesforce Admin bent, kunt u uw Toegankelijkheid van het Gebied onder de Controles tabel van de Veiligheid zien. De belangrijkste objecten waarmee acties zullen communiceren, zijn: Leads, Contacten, Rekeningen, Kansen, en Taak/Activiteiten.
 
 >[!NOTE]
 >
->Velden die zijn gekoppeld aan de objecten Lead, Contact, Account en Opportunity worden geïnstalleerd met het Insight-pakket Verkoop. De gebieden verbonden aan het [&#x200B; taak/het verslagtype van de Activiteit zullen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} door Salesforce Admin moeten worden gecreeerd.
+>Velden die zijn gekoppeld aan de objecten Lead, Contact, Account en Opportunity worden geïnstalleerd met het Insight-pakket Verkoop. De gebieden verbonden aan het [ taak/het verslagtype van de Activiteit zullen ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} door Salesforce Admin moeten worden gecreeerd.

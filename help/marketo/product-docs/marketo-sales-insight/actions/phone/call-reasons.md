@@ -1,11 +1,11 @@
 ---
-description: Redenen bellen - Marketo Docs - Productdocumentatie
+description: Meer informatie over de redenen voor oproepen vindt u in Handelingen van Verkoopmanager Insight. Plaats een reden wanneer het maken van een vraag zodat het in Marketo en Salesforce het programma wordt geopend.
 title: Redenen voor oproepen
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -84,5 +84,5 @@ Zodra vraagredenen zijn toegelaten. De gebruikers kunnen één selecteren terwij
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [&#x200B; Resultaten van de Vraag &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+>* [ Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [ Resultaten van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)

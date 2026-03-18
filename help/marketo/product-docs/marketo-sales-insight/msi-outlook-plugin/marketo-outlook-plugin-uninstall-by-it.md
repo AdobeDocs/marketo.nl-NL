@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382829
-description: Marketo  [!DNL Outlook]  Insteekmodule die door IT - Marketo Docs - Documentatie van het Product wordt verwijderd
+description: Leer hoe IT de Marketo Outlook-insteekmodule kan verwijderen. Verwijder toe:voegen-binnen uit gebruikersmachines wanneer nodig.
 title: Marketo  [!DNL Outlook]  Insteekmodule Uninstall door IT
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 >
 >Als u de insteekmodule verwijdert, wordt [!DNL Outlook] op de computer van de gebruiker geforceerd gesloten.
 
-Gelieve te verwijzen [&#x200B; volledige lijst van de Microsoft van schakelaars &#x200B;](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Gelieve te verwijzen [ volledige lijst van de Microsoft van schakelaars ](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.

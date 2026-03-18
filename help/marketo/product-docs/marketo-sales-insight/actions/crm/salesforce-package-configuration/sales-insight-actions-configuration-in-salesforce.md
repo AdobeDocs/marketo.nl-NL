@@ -1,10 +1,10 @@
 ---
-description: Insight Actions Configuration in Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe je Verkoopacties voor Insight in Salesforce configureert. Voeg externe sites toe, schakel MSI-handelingen in en voer de API-beveiligingssleutel in.
 title: Insight Actions Configuration in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; installeer &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) of [&#x200B; Verbetering &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) het Pakket van Insight van de Verkoop in uw [!DNL Salesforce] instantie
->* [&#x200B; Vorm Insight van de Verkoop van Marketo in  [!DNL Salesforce]  Onderneming/Onbeperkt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [ installeer ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) of [ Verbetering ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) het Pakket van Insight van de Verkoop in uw [!DNL Salesforce] instantie
+>* [ Vorm Insight van de Verkoop van Marketo in  [!DNL Salesforce]  Onderneming/Onbeperkt ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## Nieuwe externe site toevoegen in [!DNL Salesforce] {#add-new-remote-site-in-salesforce}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u uw [!UICONTROL API Secrey Key] handig niet hebt, kunt u het vinden door de stappen in [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) te volgen.
+   >Als u uw [!UICONTROL API Secrey Key] handig niet hebt, kunt u het vinden door de stappen in [ dit artikel ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) te volgen.
 
 1. Klik op **[!UICONTROL Save]** als u klaar bent.
 

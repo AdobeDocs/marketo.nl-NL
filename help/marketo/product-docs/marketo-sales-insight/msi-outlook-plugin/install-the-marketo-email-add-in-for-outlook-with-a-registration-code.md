@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949711
-description: Installeer de toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]  met een Code van de Registratie - de Documentatie van Marketo -
+description: Leer hoe u de Marketo E-mailinvoegtoepassing voor Outlook installeert met een registratiecode. Krijg toe:voegen-binnen voor gebruikers die een registratiecode hebben.
 title: Installeer de toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]  met een Code van de Registratie
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '532'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
 >[!PREREQUISITES]
 >
->U moet [&#x200B; worden uitgegeven een Vergunning van de Vergunning van de E-mail van Marketo toe:voegen-binnen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>U moet [ worden uitgegeven een Vergunning van de Vergunning van de E-mail van Marketo toe:voegen-binnen ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
 ## Installatieprogramma downloaden {#download-installer}
 
-1. Identificeer uw [&#x200B; versie van de Vooruitzichten van Microsoft &#x200B;](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}.
+1. Identificeer uw [ versie van de Vooruitzichten van Microsoft ](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}.
 
 1. Klik in de onderstaande tabel op de koppeling om het juiste ZIP-bestand voor uw versie van Microsoft Outlook te downloaden.
 
@@ -104,7 +104,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
 >[!IMPORTANT]
 >
->Microsoft heeft a [&#x200B; nieuwe versie van Vooruitzichten voor Vensters &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} vrijgegeven. Deze nieuwe versie steunt niet de bestaande stop van Vooruitzichten MSI. De insteekmodule MSI Outlook blijft werken voor Windows-desktops met de klassieke versie van Outlook. Meer over de nieuwe Vooruitzichten voor Vensters voor organisaties leren, [&#x200B; klik hier &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft heeft a [ nieuwe versie van Vooruitzichten voor Vensters ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} vrijgegeven. Deze nieuwe versie steunt niet de bestaande stop van Vooruitzichten MSI. De insteekmodule MSI Outlook blijft werken voor Windows-desktops met de klassieke versie van Outlook. Meer over de nieuwe Vooruitzichten voor Vensters voor organisaties leren, [ klik hier ](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Je inschrijvingscode kopiëren {#copy-your-registration-code}
 
@@ -164,5 +164,5 @@ Meer informatie over het gebruik van Marketo Message and Log With Marketo-handel
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; verzend en spoor een E-mail met Marketo E-mail toe:voegen-binnen voor Vooruitzichten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
->* [&#x200B; verzend en Spoor van Vooruitzichten die een Malplaatje van Marketo gebruiken &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}
+>* [ verzend en spoor een E-mail met Marketo E-mail toe:voegen-binnen voor Vooruitzichten ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [ verzend en Spoor van Vooruitzichten die een Malplaatje van Marketo gebruiken ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}

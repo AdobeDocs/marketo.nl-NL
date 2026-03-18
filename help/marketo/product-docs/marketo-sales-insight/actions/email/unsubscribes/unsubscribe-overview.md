@@ -1,11 +1,11 @@
 ---
-description: Abonnementsoverzicht - Marketo Docs - Productdocumentatie
+description: Meer informatie over afhandeling van abonnementen vindt u in Handelingen van Verkoopmanager Insight. Begrijp hoe het afmelden werkt en synchroniseert met Marketo en Salesforce.
 title: Overzicht van abonnement opzeggen
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ Met de [!UICONTROL Unsubscribe History] -kaart krijgen beheerders en gebruikers 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; pas Unsubscribe Bericht van de Verbinding &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md) aan
+>[ pas Unsubscribe Bericht van de Verbinding ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md) aan

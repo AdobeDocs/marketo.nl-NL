@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360301
-description: Score-velden instellen die moeten worden gebruikt voor sterren en vlammen in Insight - Marketo-documenten - Productdocumentatie
+description: Leer hoe u muziekvelden instelt voor sterren en vlammen in Sales Insight. Wijs Marketo score velden toe aan de MSI-weergave in Salesforce.
 title: Score-velden instellen die moeten worden gebruikt voor sterren en vlammen in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld **[!UICONTROL Lead Scor
 
 >[!TIP]
 >
->Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [&#128279;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
+>Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [ ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
 
 >[!NOTE]
 >
@@ -57,4 +57,4 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld **[!UICONTROL Lead Scor
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Prioriteit, Urgentie, Relatieve Score, en Beste Bets &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[ Prioriteit, Urgentie, Relatieve Score, en Beste Bets ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

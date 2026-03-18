@@ -1,11 +1,11 @@
 ---
-description: Logboekregistratie van kenmerken van verkoopactiviteiten aan Salesforce - Marketo-documenten - Productdocumentatie
+description: Leer hoe u aangepaste activiteitsvelden kunt toevoegen voor Sales Insight Actions in Salesforce. Creeer de Gebieden van de Douane van de Activiteit in Opstelling om vraagresultaten, redenen, en meer te registreren.
 title: Kenmerken verkoopactiviteit registreren voor Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 3%
+source-wordcount: '241'
+ht-degree: 2%
 
 ---
 

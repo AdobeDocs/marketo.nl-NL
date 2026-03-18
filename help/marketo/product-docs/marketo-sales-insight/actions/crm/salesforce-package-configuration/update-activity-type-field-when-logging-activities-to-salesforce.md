@@ -1,10 +1,10 @@
 ---
-description: Veld voor activiteitstypen bijwerken bij aanmelding bij Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe u het veld Type activiteit kunt bijwerken bij het aanmelden bij Salesforce. Voeg een type van Antwoord aan de picklist van het Type van Taak in de Opstelling van Salesforce toe.
 title: Veld voor activiteitstypen bijwerken bij aanmelding bij Salesforce
 exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Controleer eerst welke waarden u in uw Picklist van het Type van Taak (uit E-mai
 
 ### In Salesforce Lightning {#salesforce-lightning}
 
-1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
 1. Klik het tandwielpictogram in de hoogste juiste hoek en selecteer **Opstelling** > **Manager van Objecten**.
 1. Typ &quot;taak&quot; in het vak &#39;Snel zoeken&#39;.
 1. In het linkerpaneel, klik **Gebieden &amp; Verhoudingen**.
@@ -43,7 +43,7 @@ Controleer eerst welke waarden u in uw Picklist van het Type van Taak (uit E-mai
 
 ### In Salesforce Classic {#salesforce-classic}
 
-1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
 1. Klik **>** Opstelling **>** aanpassen **>** Activiteiten **>** Gebieden van de Taak **.**
 1. Klik **Type**.
 1. Onder de Waarde van de Picklist van het Type van Taak, klik **Nieuw**.
@@ -58,6 +58,6 @@ Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de ove
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; het Registreren de Attributen van de Activiteit van de Verkoop aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
->* [&#x200B; vorm de Aanpassing van het Detail van de Activiteit van Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
->* [&#x200B; de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}
+>* [ het Registreren de Attributen van de Activiteit van de Verkoop aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
+>* [ vorm de Aanpassing van het Detail van de Activiteit van Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
+>* [ de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

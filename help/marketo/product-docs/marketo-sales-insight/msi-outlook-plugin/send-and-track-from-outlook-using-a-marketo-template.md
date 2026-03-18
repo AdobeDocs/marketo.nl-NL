@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949283
-description: Verzend en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje van Marketo - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u vanuit Outlook kunt verzenden en volgen met een Marketo-sjabloon. Voeg een verkoopsjabloon in en verzend bijgehouden e-mails vanuit Outlook.
 title: Verzend en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje van Marketo
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -43,4 +43,4 @@ Als uw marketingteam sjablonen voor u beschikbaar heeft gesteld, kunt u deze geb
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Logboek binnenkomende Post van Uw Leidingen in Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[ Logboek binnenkomende Post van Uw Leidingen in Marketo ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

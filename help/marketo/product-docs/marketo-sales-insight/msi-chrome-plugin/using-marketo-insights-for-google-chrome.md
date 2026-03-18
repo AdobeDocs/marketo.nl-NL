@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512944
-description: Marketo Insights gebruiken voor Google Chrome - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo Insights kunt gebruiken voor Google Chrome. Personen en accountgegevens en activiteiten weergeven tijdens het lezen van e-mailberichten in Gmail.
 title: Marketo Insights gebruiken voor Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Verzend en traceer Google-e-mailberichten met Marketo Insights for [!DNL Google 
 
 >[!PREREQUISITES]
 >
->[&#x200B; installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[ installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ U kunt antwoorden en oude activiteit in de activiteitengeschiedenis van een lood
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [&#x200B; de Persoon van de Mening en de Informatie van de Rekening en Activiteiten in de Post van Google &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [ installeer de Inzichten van Marketo voor  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [ de Persoon van de Mening en de Informatie van de Rekening en Activiteiten in de Post van Google ](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

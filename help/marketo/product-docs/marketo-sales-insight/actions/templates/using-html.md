@@ -1,11 +1,11 @@
 ---
-description: HTML - Marketo Docs - Productdocumentatie gebruiken
+description: Leer hoe u HTML kunt gebruiken in e-mailsjablonen voor Handelingen in Insight. Voeg aangepaste HTML toe voor opmaak en geavanceerde inhoud.
 title: HTML gebruiken
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Sjablonen beheren - Marketo Docs - Productdocumentatie
+description: Leer hoe u e-mailsjablonen beheert in Handelingen van Verkoopmanager Insight. Sjablonen voor uw team maken, bewerken, delen en indelen.
 title: Sjablonen beheren
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---

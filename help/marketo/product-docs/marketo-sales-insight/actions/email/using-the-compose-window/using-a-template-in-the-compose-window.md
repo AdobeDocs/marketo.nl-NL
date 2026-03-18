@@ -1,11 +1,11 @@
 ---
-description: Een sjabloon gebruiken in het venster Samenstellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een sjabloon gebruikt in het samenstellingsvenster bij het verzenden van e-mails over verkopen. Sjablonen en pincategorieën invoegen voor snelle toegang.
 title: Een sjabloon gebruiken in het venster Samenstellen
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---

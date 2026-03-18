@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949285
-description: Log Inbound Mail from Your Leads in Marketo - Marketo Docs - Productdocumentatie
+description: Leer hoe u inkomende e-mail kunt aanmelden bij leads in Marketo. Leg antwoorden op de regel en kenmerken vast en open e-mails naar de juiste lead record.
 title: Inkomende e-mail van uw leads aanmelden in Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -43,5 +43,5 @@ Log de antwoorden van je lead in om ze aan hun geschiedenis in Marketo toe te vo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; verzend en spoor een E-mail met Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [&#x200B; verzend en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [ verzend en spoor een E-mail met Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [ verzend en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

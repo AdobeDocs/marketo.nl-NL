@@ -1,9 +1,9 @@
 ---
-description: E-mail gemarkeerd als spam - Marketo Docs - Productdocumentatie
+description: Krijg hulp wanneer de verkoop e-mails duidelijk als spam zijn. Leer oorzaken en stappen om leverbaarheid te verbeteren en spamfilters te vermijden.
 title: E-mail gemarkeerd als spam
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoo
 **controleer Uw Montages**
 
 * Aangepaste domeintracering: hiermee kunt u al uw trackingkoppelingen direct laten weergeven.&quot;uwdomein&quot; in plaats van go.toutapp. Bij e-mailbeveiliging wordt vastgesteld dat de e-mail afkomstig is van &quot;uwdomein&quot;, maar dat de koppeling wordt omgeleid naar go.toutapp. Door een koppeling naar een aangepast domein in te voeren die uw e-mails volgt, ziet deze er legitiem uit en is de kans groter dat de geadresseerde zijn postvak in raakt.
-* E-mailleveringskanaal: uw team heeft de optie om uw Gmail/Outlook-leveringskanaal te gebruiken of een aangepaste SMTP in te stellen. [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) om meer over het selecteren van het juiste leveringskanaal voor uw behoeften te lezen.
+* E-mailleveringskanaal: uw team heeft de optie om uw Gmail/Outlook-leveringskanaal te gebruiken of een aangepaste SMTP in te stellen. [ klik hier ](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md) om meer over het selecteren van het juiste leveringskanaal voor uw behoeften te lezen.
 
 **controleer Uw E-mailgedrag**
 
@@ -25,8 +25,8 @@ Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoo
 
 * Zorg ervoor dat u een volledig ingevulde e-mailhandtekening met een fysiek adres hebt.
 
-* Lees omhoog en zorg ervoor u [&#x200B; KAN-SPAM wetten &#x200B;](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) naleeft.
+* Lees omhoog en zorg ervoor u [ KAN-SPAM wetten ](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business) naleeft.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Overzicht van het Kanaal van de Levering &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+>[ Overzicht van het Kanaal van de Levering ](/help/marketo/product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)

@@ -1,11 +1,11 @@
 ---
-description: Best Bets - Marketo Docs - Productdocumentatie
+description: Meer informatie over Best Bets in Marketo Sales Insight for Dynamics. Zie welke leads het meest betrokken zijn en klaar zijn voor outreach.
 title: Beste bieten
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ Door op het menu met puntjes onder de kolom Handelingen te klikken, kunt u betro
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-U kunt ook meerdere leads selecteren op de tab [!DNL Best Bets] en _[!UICONTROL Send Marketo Email]_&#x200B;of&#x200B;_[!UICONTROL Add to Marketo Campaign]_ kiezen.
+U kunt ook meerdere leads selecteren op de tab [!DNL Best Bets] en _[!UICONTROL Send Marketo Email]_of_[!UICONTROL Add to Marketo Campaign]_ kiezen.
 
 ![](assets/best-bets-1.png)

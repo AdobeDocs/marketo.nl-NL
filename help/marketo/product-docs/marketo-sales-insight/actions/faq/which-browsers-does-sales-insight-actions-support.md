@@ -1,11 +1,11 @@
 ---
-description: Welke browsers worden door Insight-acties ondersteund? - Marketo Docs - Productdocumentatie
+description: Ontdek welke browsers Insight Actions ondersteunt. Gebruik een ondersteunde browser voor de beste ervaring.
 title: Welke browsers worden door Insight-acties ondersteund?
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949279
-description: Upgrade uw Marketo-invoegtoepassing voor e-mail voor  [!DNL Outlook]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Marketo E-mailinvoegtoepassing voor Outlook kunt upgraden. Kies voor de nieuwste versie voor nieuwe functies en oplossingen.
 title: Upgrade uw Marketo-invoegtoepassing voor e-mail voor  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft [
    <th colspan="2">Installatie van Enterprise Key</th>
   </tr>
   <tr>
-   <td><strong><span class="dnl"> Versie van 0&rbrace; Vooruitzichten &lbrace;</span></strong></td>
+   <td><strong><span class="dnl"> Versie van 0} Vooruitzichten {</span></strong></td>
    <td><strong>32-bits</strong></td>
    <td><strong>64-bits</strong></td>
    <td><strong>32-bits</strong></td>
@@ -121,7 +121,7 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft [
 
 ## Upgrade {#upgrade}
 
-1. Identificeer uw [[!DNL Microsoft Outlook]  versie &#x200B;](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
+1. Identificeer uw [[!DNL Microsoft Outlook]  versie ](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 
 1. Selecteer uw versie in de bovenstaande lijst.
 
@@ -167,5 +167,5 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft [
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Een e-mailbericht verzenden en bijhouden met de Marketo-invoegtoepassing voor e-mail [!UICONTROL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [&#x200B; verzend en Spoor van [!UICONTROL Outlook] Gebruikend een Malplaatje van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [ Een e-mailbericht verzenden en bijhouden met de Marketo-invoegtoepassing voor e-mail [!UICONTROL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [ verzend en Spoor van [!UICONTROL Outlook] Gebruikend een Malplaatje van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

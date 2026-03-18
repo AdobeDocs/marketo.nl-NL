@@ -1,14 +1,14 @@
 ---
-description: Toevoegen aan marketingcampagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u via Sales Insight Actions contacten toevoegt aan een Marketo-marketingcampagne. Selecteer contacten en voeg hen aan de campagne toe.
 title: Toevoegen aan marketingcampagne
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '308'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[&#x200B; maak een Campagne zichtbaar aan de Gebruikers van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
+>[ maak een Campagne zichtbaar aan de Gebruikers van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
 
 ## Personen toevoegen aan een campagne {#add-individuals-to-a-campaign}
 

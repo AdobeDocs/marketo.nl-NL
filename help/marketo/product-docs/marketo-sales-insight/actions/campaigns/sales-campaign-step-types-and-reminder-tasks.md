@@ -1,11 +1,11 @@
 ---
-description: Typen stappen en herinneringstaken voor verkoopcampagne - Marketo Docs - Productdocumentatie
+description: Begrijp de stappen van de Campagne van de Verkoop en herinneringstaken. Gebruik de stappen E-mail, Vraag, InMail, en de Taak van de Douane en rijtaken in het Centrum van het Bevel en Salesforce.
 title: Typen stappen en herinneringstaken voor verkoopcampagne
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 >[!TIP]
 >
->Leer de details over uw [&#x200B; verzendende opties &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Leer de details over uw [ verzendende opties ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Bellen {#call}
 
@@ -66,4 +66,4 @@ U kunt een &quot;Taak aan Inmail&quot;een contact op LinkedIn ook maken als dat 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Campagne van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}

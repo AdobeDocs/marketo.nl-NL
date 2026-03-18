@@ -1,11 +1,11 @@
 ---
-description: Geblokkeerde domeinen - Marketo Docs - Productdocumentatie
+description: Leer hoe te om domeinen in de Acties van Insight van de Verkoop te blokkeren om het e-mailen van concurrenten of spamvallen te verhinderen.
 title: Geblokkeerde domeinen
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---

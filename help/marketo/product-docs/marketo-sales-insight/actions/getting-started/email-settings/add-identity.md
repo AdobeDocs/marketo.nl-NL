@@ -1,11 +1,11 @@
 ---
-description: Identiteit toevoegen - Marketo-documenten - Productdocumentatie
+description: Leer hoe u een e-mailidentiteit toevoegt in Handelingen van Verkoopmanager Insight. Voeg adressen toe en verifieer het verzenden in Instellingen onder E-mail.
 title: Identiteit toevoegen
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -46,4 +46,4 @@ Wanneer u een e-mail verzendt in Marketo Sales en meerdere identiteiten hebt, ku
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg of werk Uw E-mailhandtekening &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md) bij.
+>[ voeg of werk Uw E-mailhandtekening ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md) bij.

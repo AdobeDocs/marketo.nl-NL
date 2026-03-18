@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
-description: Bulkacties in Salesforce Lightning - Marketo Docs - Productdocumentatie
+description: Meer informatie over bulkacties in Salesforce Lightning voor Marketo Sales Insight. Met Verkoop-e-mail verzenden en Toevoegen aan verkoopcampagne vanuit de lijstweergaven.
 title: Bulkhandelingen in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 2%
+source-wordcount: '107'
+ht-degree: 1%
 
 ---
 

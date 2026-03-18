@@ -1,11 +1,11 @@
 ---
-description: Gebruikers en beheerders uitnodigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u gebruikers en beheerders kunt uitnodigen om via Gebruikersbeheer deel te nemen aan Insight-acties voor verkoop. Voeg gebruikers toe via e-mail of CSV en wijs teams en de Marketo-werkruimte toe.
 title: Gebruikers en beheerders uitnodigen
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Het toevoegen van gebruikers of beheerders is snel en eenvoudig!
 
    >[!NOTE]
    >
-   >[&#x200B; leer meer over Teams &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
+   >[ leer meer over Teams ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
 1. Selecteer de Marketo-werkruimte waaraan u de nieuwe gebruikers wilt toevoegen. Als u maar één werkruimte hebt, ziet u Standaard als optie. Klik **Uitnodigen**.
 

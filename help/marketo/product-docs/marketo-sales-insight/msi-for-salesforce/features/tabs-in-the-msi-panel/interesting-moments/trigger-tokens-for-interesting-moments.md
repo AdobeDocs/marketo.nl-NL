@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146999
-description: Tokens voor interessante momenten activeren - Marketo Docs - Productdocumentatie
+description: Meer informatie over triggertokens voor interessante momenten in Marketo. Vorm welke activiteiten interessante momenten in het paneel MSI creëren.
 title: Tokens activeren voor interessante momenten
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Leer om de [&#x200B; het Interesten de stroomstap van de Moment &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) te gebruiken.
+>Leer om de [ het Interesten de stroomstap van de Moment ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) te gebruiken.
 
 ## Beschikbare tokens {#available-tokens}
 
-Controle uit [&#x200B; het Overzicht van Tokens &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
+Controle uit [ het Overzicht van Tokens ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
 
 ## Triggertokens {#trigger-tokens}
 
@@ -1055,7 +1055,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 
 >[!NOTE]
 >
->Als het geen controle ![&#x200B; (tikken) &#x200B;](assets/check.png) heeft dan zou het een leeg koord (niets) in het interessante ogenblik terugkeren.
+>Als het geen controle ![ (tikken) ](assets/check.png) heeft dan zou het een leeg koord (niets) in het interessante ogenblik terugkeren.
 
 &#42; Trigger **bezoekt Web-pagina** een paar extra tokens:
 

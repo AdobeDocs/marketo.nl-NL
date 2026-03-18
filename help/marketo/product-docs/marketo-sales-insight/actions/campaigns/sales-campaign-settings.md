@@ -1,11 +1,11 @@
 ---
-description: Instellingen voor verkoopcampagne - Marketo-documenten - productdocumentatie
+description: Leer hoe te om de montages van de Campagne van de Verkoop met inbegrip van Skip Weekends, verwijderen bij Stuiteren, en antwoordgedrag te vormen.
 title: Instellingen verkoopcampagne
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '217'
 ht-degree: 1%
 
 ---
@@ -80,6 +80,6 @@ Als voor Gmail of [!DNL Exchange] de functie voor het bijhouden van antwoorden i
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Campagne van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->* [&#x200B; het Begrip van de Campagne van de Verkoop verzendt Opties voor E-mailstappen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
->* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [ creeer een Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>* [ het Begrip van de Campagne van de Verkoop verzendt Opties voor E-mailstappen ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953338
-description: Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics - Marketo Docs - Productdocumentatie
+description: Leer hoe je een verkoopsbericht van Marketo van Microsoft Dynamics verzendt. Samenstellen en bijgehouden e-mails verzenden vanuit het deelvenster MSI in Dynamiek.
 title: Verstuur een Marketo-verkoopbericht vanuit Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
 
    >[!TIP]
    >
-   >U kunt [&#x200B; e-mails als malplaatjes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) voor uw verkoopteam publiceren om te gebruiken.
+   >U kunt [ e-mails als malplaatjes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) voor uw verkoopteam publiceren om te gebruiken.
 
 1. Voeg een onderwerp toe, stel uw e-mail samen en klik op **[!UICONTROL Send Email]** . (Kies een sjabloon als u die nodig hebt.)
 
@@ -51,4 +51,4 @@ Echt waar! Nu weet u hoe u e-mails die door Marketo zijn bijgehouden, rechtstree
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg een Lood/Contact aan een Campagne van Marketo van  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) toe
+>[ voeg een Lood/Contact aan een Campagne van Marketo van  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) toe

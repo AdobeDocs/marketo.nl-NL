@@ -1,11 +1,11 @@
 ---
-description: Een verkoopcampagne maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een verkoopcampagne maakt met e-mail, een telefoontje, InMail en aangepaste taakstappen. Organiseren, schalen en meten van bereik.
 title: Een verkoopcampagne maken
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Hoe zet je een verkoopcampagne op?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Wanneer u [&#x200B; met uw e-mail &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} wordt gedaan, klik **[!UICONTROL Add]**.
+1. Wanneer u [ met uw e-mail ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} wordt gedaan, klik **[!UICONTROL Add]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -66,5 +66,5 @@ Nu is het tijd om mensen toe te voegen!
 
 >[!MORELIKETHIS]
 >
->* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->* [&#x200B; de Montages van de Campagne van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [ de Montages van de Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

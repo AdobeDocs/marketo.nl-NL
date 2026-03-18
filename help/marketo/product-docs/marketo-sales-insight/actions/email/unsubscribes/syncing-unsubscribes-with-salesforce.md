@@ -1,11 +1,11 @@
 ---
-description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe u afmeldingen synchroniseert tussen Sales Insight Actions en Salesforce. Houd de status van de optie om te weigeren consistent in alle systemen.
 title: Abonnementen synchroniseren met Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
 
 E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren vanuit [!DNL Salesforce] . U moet een [!DNL Salesforce] Admin zijn om het te installeren.
 
-1. Ga naar [&#x200B; Salesforce.com &#x200B;](https://salesforce.com) en teken binnen.
+1. Ga naar [ Salesforce.com ](https://salesforce.com) en teken binnen.
 
    ![](assets/syncing-unsubscribes-with-salesforce-5.png)
 
@@ -97,6 +97,6 @@ E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren
 
 ## Marketo-verkoop niet beschikbaar {#marketo-sales-opt-out}
 
-Het gebied van de Verkoop van Marketo uit is een douanegebied dat aan gebruikers beschikbaar is die het pakket van Insight van de Verkoop van Marketo [&#x200B; van AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
+Het gebied van de Verkoop van Marketo uit is een douanegebied dat aan gebruikers beschikbaar is die het pakket van Insight van de Verkoop van Marketo [ van AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
 
 Zodra u het Marketo Sales Insight-pakket van de AppExchange naar Salesforce hebt geïnstalleerd, ziet u het veld Marketo Sales Opt Out dat voor u beschikbaar is.

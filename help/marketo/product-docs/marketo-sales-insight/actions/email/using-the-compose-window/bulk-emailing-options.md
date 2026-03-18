@@ -1,11 +1,11 @@
 ---
-description: Opties voor e-mail met bulkobjecten - Marketo Docs - Productdocumentatie
+description: Meer informatie over bulksgewijze e-mailopties vindt u in Handelingen van Verkoopmanager Insight. Verzenden naar meerdere ontvangers met groepse-mail, selecteren en verzenden of campagnes.
 title: Opties voor bulke-mail
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '266'
 ht-degree: 3%
 
 ---
@@ -63,5 +63,5 @@ Standaard bewerkt u de gegevens voor alle ontvangers. Maar u kunt ook elke afzon
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Samenstellend Bulk E-mail met Uitgezocht en verzendt &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
->* [&#x200B; verzendend E-mails via E-mail van de Groep &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [ Samenstellend Bulk E-mail met Uitgezocht en verzendt ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [ verzendend E-mails via E-mail van de Groep ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)

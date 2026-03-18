@@ -1,11 +1,11 @@
 ---
-description: Toegangsgegevens gebruiker - Marketo Docs - Productdocumentatie
+description: Begrijp welke beheerders en niet-beheerders in de Acties van Insight van de Verkoop kunnen toegang hebben. Vergelijk toestemmingen voor malplaatjes, campagnes, analyses, en mensen.
 title: Toegangsgegevens gebruiker
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Waartot hebben Admins en niet-Admins toegang?
 
 ## Beheerdersmachtigingen {#admin-user-permissions}
 
-Admins kan [&#x200B; alle malplaatjes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) bekijken.
+Admins kan [ alle malplaatjes ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) bekijken.
 
 ![](assets/user-access-details-1.png)
 
-Admins kan [&#x200B; alle campagnes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) bekijken.
+Admins kan [ alle campagnes ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) bekijken.
 
 ![](assets/user-access-details-2.png)
 

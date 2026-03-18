@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2950396
-description: Prioriteit, Urgentie, Relatieve Score en Beste Bets - Marketo Docs - Productdocumentatie
+description: Meer informatie over prioriteit, urgentie, relatieve score en Best Bets in Marketo Sales Insight. Begrijp lood het scoren in het paneel MSI.
 title: Prioriteit, Urgentie, Relatieve Score en Beste Bets
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Uw [!DNL Best Bets] zijn uw leads en contacten met de hoogste urgentie en de rel
 
 >[!NOTE]
 >
->Als uw beste wedden niet de beste lood en de contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [&#x200B; het Schelen Regels &#x200B;](/help/marketo/getting-started/quick-wins/simple-scoring.md) heeft.
+>Als uw beste wedden niet de beste lood en de contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [ het Schelen Regels ](/help/marketo/getting-started/quick-wins/simple-scoring.md) heeft.
 
 ### Hoe Urgentie en Relatieve Score worden berekend
 

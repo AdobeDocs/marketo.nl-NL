@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357050
-description: Een upgrade uitvoeren van uw MSI-pakket - Marketo Docs - Productdocumentatie
+description: Leer hoe je Marketo Sales Insight-pakket in Salesforce kunt upgraden. Haal de nieuwste versie op en pas de upgrade toe.
 title: Een upgrade uitvoeren van uw MSI-pakket
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Vanwege beveiligingsverbeteringen die zijn aangebracht door Salesforce, kan het verkooppakket Insight geen toestemming meer verlenen voor standaardobjecten. In de toekomst moet het Salesforce-profiel van Insight-gebruikers lees-toegang hebben tot de volgende standaardobjecten: lead, contact, account en opportunity. [&#x200B; Leer hoe te om dat te vormen hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
+>Vanwege beveiligingsverbeteringen die zijn aangebracht door Salesforce, kan het verkooppakket Insight geen toestemming meer verlenen voor standaardobjecten. In de toekomst moet het Salesforce-profiel van Insight-gebruikers lees-toegang hebben tot de volgende standaardobjecten: lead, contact, account en opportunity. [ Leer hoe te om dat te vormen hier ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}.
 
-1. Navigeer aan [&#x200B; deze pagina in appexchange &#x200B;](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
+1. Navigeer aan [ deze pagina in appexchange ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}.
 
 1. Meld u aan bij de instantie [!DNL Salesforce] (de instantie die is verbonden met uw Marketo-instantie, kan een sandbox of productie zijn) in de rechterbovenhoek van de pagina vanuit Stap 1. U moet beheerdersrechten hebben om een beheerd pakket in [!DNL Salesforce] te installeren/upgraden.
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het wordt geadviseerd u het pakket voor slechts Admins bijwerkt en dan [&#x200B; toegang tot specifieke gebruikers &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"} verleent die op het aantal gekochte plaatsen MSI wordt gebaseerd. U kunt ook een specifiek Salesforce-profiel maken voor MSI-gebruikers en het pakket installeren of upgraden voor alleen die gebruikers.
+>Het wordt geadviseerd u het pakket voor slechts Admins bijwerkt en dan [ toegang tot specifieke gebruikers ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"} verleent die op het aantal gekochte plaatsen MSI wordt gebaseerd. U kunt ook een specifiek Salesforce-profiel maken voor MSI-gebruikers en het pakket installeren of upgraden voor alleen die gebruikers.

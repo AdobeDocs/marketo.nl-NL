@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472672
-description: E-mail naar meerdere records verzenden in Marketo Sales Insight - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mail naar meerdere records van Marketo Sales Insight in Salesforce verzendt. E-mail alle contacten op een rekening of een kans.
 title: E-mail naar meerdere records in Marketo Sales Insight verzenden
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Het is supergemakkelijk om een Marketo-e-mail naar meerdere mensen te sturen met
 
    >[!TIP]
    >
-   >Ziet u de knop niet? Zorg ervoor u [&#x200B; de Knopen van Marketo aan de lijstmening &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md) hebt toegevoegd.
+   >Ziet u de knop niet? Zorg ervoor u [ de Knopen van Marketo aan de lijstmening ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md) hebt toegevoegd.
 
 1. Ga door en stel je e-mail samen. Klik op **[!UICONTROL Send with Marketo]** als u klaar bent.
 
@@ -41,7 +41,7 @@ Het is supergemakkelijk om een Marketo-e-mail naar meerdere mensen te sturen met
 
    >[!TIP]
    >
-   >U kunt [&#x200B; e-mail aan  [!DNL Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) publiceren en van die e-mails kiezen.
+   >U kunt [ e-mail aan  [!DNL Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) publiceren en van die e-mails kiezen.
 
    >[!NOTE]
    >

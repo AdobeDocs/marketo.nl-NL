@@ -1,10 +1,10 @@
 ---
-description: Verbinding maken met Gmail - Marketo Docs - Productdocumentatie
+description: Leer hoe u Gmail koppelt aan Handelingen van Sales Insight. Verstuur en volg verkoope-mails van Gmail met de integratie van Acties.
 title: Verbinding maken met Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
 >[!CAUTION]
 >
->Als u [&#x200B; filters &#x200B;](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} of regels in uw rekening van Gmail gebruikt om e-mail automatisch te merken zoals gelezen, kan dit kwesties met antwoord het volgen veroorzaken. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
+>Als u [ filters ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} of regels in uw rekening van Gmail gebruikt om e-mail automatisch te merken zoals gelezen, kan dit kwesties met antwoord het volgen veroorzaken. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
 
 1. In de Verkoop van Marketo, klik het tandwielpictogram en selecteer **Montages**.
 
@@ -57,4 +57,4 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
 >[!NOTE]
 >
->Gmail dwingt zijn eigen verzendingsgrenzen af. [&#x200B; leer hier meer &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+>Gmail dwingt zijn eigen verzendingsgrenzen af. [ leer hier meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

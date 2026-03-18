@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: Personen toevoegen aan uw campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u personen toevoegt aan of verwijdert uit verkoopcampagnes van de webapp, Salesforce of inbox. Stel opties voor reageren en stuiteren in om campagnes automatisch te beëindigen.
 title: Personen toevoegen aan uw campagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---

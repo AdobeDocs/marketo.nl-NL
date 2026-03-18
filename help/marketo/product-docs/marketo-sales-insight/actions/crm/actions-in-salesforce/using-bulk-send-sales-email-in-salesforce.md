@@ -1,10 +1,10 @@
 ---
-description: Bulksgewijs verkoop-e-mail verzenden in Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe je bulkverkoop-e-mails van Salesforce verzendt. Selecteer leads of contactpersonen in een lijstweergave en gebruik de knop Verkoop-e-mail verzenden in Lightning of Classic.
 title: 'Onthoud: Verkoop-e-mail verzenden in Salesforce gebruiken'
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '613'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Leer hoe je bulke-mailberichten in Salesforce kunt verzenden om je uitgaande com
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u het [&#x200B; recentste pakket van Insight van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan uw instantie van Salesforce hebt geïnstalleerd en de [&#x200B; knopen van de Actie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} op uw contact en de mening van de loodlijst in Salesforce gevormd.
+>Zorg ervoor u het [ recentste pakket van Insight van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan uw instantie van Salesforce hebt geïnstalleerd en de [ knopen van de Actie ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} op uw contact en de mening van de loodlijst in Salesforce gevormd.
 
 ## Bulksgewijze e-mail verzenden in Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 
@@ -43,7 +43,7 @@ Leer hoe je bulke-mailberichten in Salesforce kunt verzenden om je uitgaande com
 
    >[!TIP]
    >
-   >Het gebruik [&#x200B; Vastgezette Categorieën &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} om gemakkelijkere toegang tot uw favoriete e-mailmalplaatjes te verlenen.
+   >Het gebruik [ Vastgezette Categorieën ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} om gemakkelijkere toegang tot uw favoriete e-mailmalplaatjes te verlenen.
 
    **OPTIONELE STAP**: Voorproef om het even welke Dynamische verpersoonlijking van Gebieden door de **Dynamische knoop van de Voorproef van Gebieden** te klikken.
 
@@ -79,7 +79,7 @@ Leer hoe je bulke-mailberichten in Salesforce kunt verzenden om je uitgaande com
 
    >[!TIP]
    >
-   >Het gebruik [&#x200B; Vastgezette Categorieën &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} om gemakkelijkere toegang tot uw favoriete e-mailmalplaatjes te verlenen.
+   >Het gebruik [ Vastgezette Categorieën ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} om gemakkelijkere toegang tot uw favoriete e-mailmalplaatjes te verlenen.
 
    **OPTIONELE STAP**: Voorproef om het even welke Dynamische verpersoonlijking van Gebieden door de **Dynamische knoop van de Voorproef van Gebieden** te klikken.
 

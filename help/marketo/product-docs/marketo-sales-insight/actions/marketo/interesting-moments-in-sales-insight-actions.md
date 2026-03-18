@@ -1,11 +1,11 @@
 ---
-description: Interessant momenten in Insight-verkoopacties - Marketo-documenten - Productdocumentatie
+description: Meer informatie over interessante momenten in Handelingen van Verkoopmanager Insight. Begrijp hoe de belangrijkste activiteiten in Marketo en Salesforce worden geregistreerd en getoond.
 title: Interesserende momenten in Insight-verkoopacties
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment? {#how-do-i-create-an-interesting-moment}
 
-1. Kies a [&#x200B; slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, bij voorkeur één uw verkoopteam interessant zou vinden als teweeggebracht.
+1. Kies a [ slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, bij voorkeur één uw verkoopteam interessant zou vinden als teweeggebracht.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
@@ -46,7 +46,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-De interessante momenten zullen in het activiteitenlogboek van het a [&#x200B; lood &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} worden getoond.
+De interessante momenten zullen in het activiteitenlogboek van het a [ lood ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"} worden getoond.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

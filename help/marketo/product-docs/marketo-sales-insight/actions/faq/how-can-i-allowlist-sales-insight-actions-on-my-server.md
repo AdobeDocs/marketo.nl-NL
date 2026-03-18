@@ -1,11 +1,11 @@
 ---
-description: Hoe kan ik de Handelingen van Insight van de Lijst van gewenste personen op Mijn Server? - Marketo Docs - Productdocumentatie
+description: Leer hoe u Insight-acties voor verkoop voegt op lijst van gewenste personen op uw server of firewall. Krijg IPs en domeinen toe te staan voor het volgen en levering.
 title: Hoe kan ik de Handelingen van Insight van de Lijst van gewenste personen op Mijn Server?
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---

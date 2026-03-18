@@ -1,11 +1,11 @@
 ---
-description: E-mailverbindingsmogelijkheden - Marketo Docs - Productdocumentatie
+description: Begrijp het vertragen van de e-mailverbinding en het verzenden van grenzen in de Acties van Insight van de Verkoop. Leer hoe vertragen invloed heeft op de levering en hoe u binnen de limieten kunt blijven.
 title: Throtting van e-mailverbinding
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Zakelijk/Enterprise
 * 30 per minuut
 * 500 ontvangers per e-mail
 
-Meer informatie [&#x200B; kan hier &#x200B;](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits) worden gevonden.
+Meer informatie [ kan hier ](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits) worden gevonden.
 
 ### Gmail {#gmail}
 
@@ -73,7 +73,7 @@ Meer informatie [&#x200B; kan hier &#x200B;](https://docs.microsoft.com/en-us/of
 * 2 e-mails per seconde (API-limiet)
 * 2.000 ontvangers per bericht (maximaal 500 voor externe ontvangers)
 
-Meer informatie [&#x200B; kan hier &#x200B;](https://support.google.com/a/answer/166852?hl=en) worden gevonden.
+Meer informatie [ kan hier ](https://support.google.com/a/answer/166852?hl=en) worden gevonden.
 
 ### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
@@ -81,6 +81,6 @@ De grenzen worden geplaatst door de afdeling van IT van de organisatie aangezien
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van het Kanaal van de Levering &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
->* [&#x200B; E-mailVerbinding voor de Gebruikers van Gmail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [&#x200B; E-mailVerbinding voor de Gebruikers van Vooruitzichten &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [ Overzicht van het Kanaal van de Levering ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
+>* [ E-mailVerbinding voor de Gebruikers van Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [ E-mailVerbinding voor de Gebruikers van Vooruitzichten ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

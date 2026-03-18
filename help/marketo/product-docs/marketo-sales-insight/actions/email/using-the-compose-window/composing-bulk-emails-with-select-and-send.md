@@ -1,13 +1,13 @@
 ---
-description: Bulke-mails samenstellen met Selecteren en verzenden - Marketo Docs - Productdocumentatie
+description: Leer hoe u grote e-mails kunt samenstellen en verzenden met Selecteren en Verzenden. Kies contactpersonen op de pagina Personen en verzend gepersonaliseerde e-mails op schaal.
 title: Bulke-mails samenstellen met Selecteren en Verzenden
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie [
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
-1. Ga een onderwerpregel in, selecteer een malplaatje (of stel e-mail van kras samen), en verzend/ [&#x200B; programma &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) e-mail.
+1. Ga een onderwerpregel in, selecteer een malplaatje (of stel e-mail van kras samen), en verzend/ [ programma ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) e-mail.
 
    ![](assets/composing-bulk-emails-with-select-and-send-4.png)
 
@@ -46,7 +46,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie [
 
 **Bulk geeft** uit
 
-1. Volg Stappen 1-3 van de [&#x200B; Verzendende sectie E-mail &#x200B;](#sending-emails) hierboven.
+1. Volg Stappen 1-3 van de [ Verzendende sectie E-mail ](#sending-emails) hierboven.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie [
 
 Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbrengt, worden de wijzigingen in elke e-mail in het bulkcompositiezijpaneel overschreven.
 
-1. Volg Stappen 1-4 van de [&#x200B; Verzendende sectie E-mail &#x200B;](#sending-emails).
+1. Volg Stappen 1-4 van de [ Verzendende sectie E-mail ](#sending-emails).
 
    >[!NOTE]
    >
@@ -96,6 +96,6 @@ Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbren
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Onduidelijke het Emailen Opties &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-   >* [&#x200B; Gebruikend een Malplaatje in Samenstellen Venster &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-   >* [&#x200B; Dynamische Gebieden &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
+   >* [ Onduidelijke het Emailen Opties ](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+   >* [ Gebruikend een Malplaatje in Samenstellen Venster ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [ Dynamische Gebieden ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)

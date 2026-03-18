@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953342
-description: Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics - Marketo Docs - Productdocumentatie
+description: Leer hoe u een lead of contact met een Marketo-campagne vanuit Microsoft Dynamics toevoegt. Met het deelvenster MSI kunt u leads toevoegen aan campagnes.
 title: Een lead/contactpersoon toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,6 @@ U kunt snel en eenvoudig rechtstreeks vanuit [!DNL Microsoft Dynamics] leads/con
 
    >[!NOTE]
    >
-   >Voor de campagne om in drop-down te verschijnen, gebruik de [**Campagne wordt Gevraagd** trekker &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met [!DNL Sales Insight] als bron, wanneer u opstelling de campagne.
+   >Voor de campagne om in drop-down te verschijnen, gebruik de [**Campagne wordt Gevraagd** trekker ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met [!DNL Sales Insight] als bron, wanneer u opstelling de campagne.
 
 En dat zijn allemaal mensen! U hebt nu de kracht van Marketo Smart-campagnes rechtstreeks vanuit [!DNL Dynamics] in uw handen.

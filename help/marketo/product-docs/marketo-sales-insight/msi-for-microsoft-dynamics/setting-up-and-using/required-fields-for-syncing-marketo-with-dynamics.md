@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11375827
-description: Vereiste velden voor het synchroniseren van Marketo met Dynamics - Marketo Docs - Productdocumentatie
+description: Meer informatie over vereiste velden voor het synchroniseren van Marketo met Dynamics. Zorg ervoor dat de juiste velden zijn toegewezen zodat MSI correct werkt.
 title: Vereiste velden voor het synchroniseren van Marketo met dynamiek
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
@@ -57,4 +57,4 @@ Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoe
 
 >[!MORELIKETHIS]
 >
->[&#x200B; de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[ de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

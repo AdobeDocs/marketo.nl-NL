@@ -1,10 +1,10 @@
 ---
-description: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u leads en contactpersonen in een verkoopcampagne van Salesforce bulksgewijs kunt toevoegen. Selecteer een lijstmening en gebruik Add aan de knoop van de Campagne van de Verkoop in Bliksem of Klassiek.
 title: Opsomming toevoegen aan verkoopcampagne in Salesforce gebruiken
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Leer hoe u in grote hoeveelheden toevoegt aan verkoopcampagne in Salesforce om u
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u het [&#x200B; recentste pakket van Insight van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan uw instantie van Salesforce hebt geïnstalleerd en de [&#x200B; knopen van de Actie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} op uw contact en de mening van de loodlijst in Salesforce gevormd.
+>Zorg ervoor u het [ recentste pakket van Insight van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan uw instantie van Salesforce hebt geïnstalleerd en de [ knopen van de Actie ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} op uw contact en de mening van de loodlijst in Salesforce gevormd.
 
 ## Bulksgewijs toevoegen aan verkoopcampagne in Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 

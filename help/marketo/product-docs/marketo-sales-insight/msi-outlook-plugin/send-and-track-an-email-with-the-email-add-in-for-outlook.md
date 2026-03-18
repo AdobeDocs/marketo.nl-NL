@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949716
-description: Een e-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor  [!DNL Outlook]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailbericht kunt verzenden en volgen met de Marketo-invoegtoepassing voor Outlook. Samenstellen vanuit Outlook en weergaven, klikken en antwoorden bekijken.
 title: Een e-mail verzenden en bijhouden met de invoegtoepassing E-mail voor  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit [!DNL Outlook] verzenden en volge
 
 >[!PREREQUISITES]
 >
->Als u nog niet hebt, installeer [&#x200B; toe:voegen-binnen de e-mail van Marketo voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Als u nog niet hebt, installeer [ toe:voegen-binnen de e-mail van Marketo voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit [!DNL Outlook] verzenden en volge
 
    >[!TIP]
    >
-   >Als u een malplaatje van Marketo wilt gebruiken, zie [&#x200B; verzenden en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Als u een malplaatje van Marketo wilt gebruiken, zie [ verzenden en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Bekijk de voorvertoning en klik op **[!UICONTROL Send]** .
 
@@ -59,4 +59,4 @@ Zo eenvoudig is het! Hoewel dit e-mailbericht is verzonden door een verkoper [!D
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Logboek binnenkomende Post van Uw Leidingen in Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[ Logboek binnenkomende Post van Uw Leidingen in Marketo ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

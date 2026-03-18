@@ -1,11 +1,11 @@
 ---
-description: Een marketingcampagne zichtbaar maken in Insight-acties voor verkoop - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Marketo-marketingcampagne zichtbaar maakt in Sales Insight Actions. Laat verkoopgebruikers toe om leads van Acties toe te voegen aan de campagne.
 title: Een marketingcampagne zichtbaar maken in Insight-acties voor verkoop
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,6 @@ Met Sales Insight Actions hebben gebruikers toegang tot een nieuwe verkoop-app m
 
    ![](assets/make-a-marketing-campaign-visible-sia-8.png)
 
-1. Klik het **lusje van het 0&rbrace; Programma &lbrace;en** activeer **de campagne.**
+1. Klik het **lusje van het 0} Programma {en** activeer **de campagne.**
 
    ![](assets/make-a-marketing-campaign-visible-sia-9.png)

@@ -1,13 +1,13 @@
 ---
-description: Logboekregistratie voor antwoorden - Marketo Docs - Productdocumentatie
+description: Leer over antwoordregistreren zodat het vooruitzicht antwoorden aan Salesforce wordt geregistreerd. Logboekreacties inschakelen wanneer API-logboekregistratie is ingeschakeld en antwoordregistratie beschikbaar is.
 title: Logboekregistratie beantwoorden
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Met Handelingen van Insight voor verkoopdoeleinden kunt u de antwoorden van je v
 ## Vereisten {#requirements}
 
 * E-mails via API-registratie moeten worden geregistreerd
-* Moet [&#x200B; een antwoord &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works) kunnen volgen
+* Moet [ een antwoord ](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works) kunnen volgen
 * Moet zijn verbonden met [!DNL Salesforce]
-* Moet [!DNL Salesforce] [&#x200B; API vraag &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
+* Moet [!DNL Salesforce] [ API vraag ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
 
 ## Logboekregistratie voor reactie inschakelen {#enable-reply-logging}
 

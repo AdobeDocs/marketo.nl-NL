@@ -1,22 +1,22 @@
 ---
-description: Verkoop Insight Access toevoegen aan profielen - Marketo Docs - Productdocumentatie
+description: Klik hier als je wilt weten hoe je Insight-toegang tot Salesforce-profielen toevoegt. Bied gebruikers toegang tot het Marketo Sales Insight-pakket.
 title: Insight-toegang voor verkoop toevoegen aan profielen
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
 
 # [!DNL Sales Insight] Toegang tot profielen toevoegen {#add-sales-insight-access-to-profiles}
 
-Hieronder wordt beschreven hoe u een profiel maakt met toegang tot [!DNL Sales Insight] terwijl u de toegang voor andere profielen verwijdert. Dit is voor gebruikers die reeds het [[!DNL Sales Insight]  pakket van AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
+Hieronder wordt beschreven hoe u een profiel maakt met toegang tot [!DNL Sales Insight] terwijl u de toegang voor andere profielen verwijdert. Dit is voor gebruikers die reeds het [[!DNL Sales Insight]  pakket van AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
 
 >[!IMPORTANT]
 >
->Als u eerder [!DNL Sales Insight] toegang tot alle profielen hebt verleend, moet u [&#x200B; de toegang van het profielniveau &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze toestemmingsreeks te gebruiken.
+>Als u eerder [!DNL Sales Insight] toegang tot alle profielen hebt verleend, moet u [ de toegang van het profielniveau ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze toestemmingsreeks te gebruiken.
 
 ## Een nieuw profiel maken voor [!DNL Sales Insight] {#create-a-new-profile-for-sales-insight}
 

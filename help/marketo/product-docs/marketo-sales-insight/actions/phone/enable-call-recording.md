@@ -1,11 +1,11 @@
 ---
-description: Enable Call Recording - Marketo Docs - Productdocumentatie
+description: Leer hoe te om vraagopname in de Acties van Insight van de Verkoop toe te laten. Schakel de opname in en volg zo nodig de toestemming van twee partijen.
 title: Schakel Call Recording in
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,4 @@ Als beheerder kunt u vraagopname voor uw [!DNL Sales Insight Actions] vraag toel
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Twee-partij de Montages van de Toestemming &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[ Twee-partij de Montages van de Toestemming ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)

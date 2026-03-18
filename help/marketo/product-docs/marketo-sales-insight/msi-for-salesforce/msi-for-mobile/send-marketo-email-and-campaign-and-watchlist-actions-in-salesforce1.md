@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511931
-description: Handelingen via e-mail, campagne en controlelijst voor Marketo verzenden in Salesforce1 - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo e-mail kunt sturen en campagne- en controleacties kunt gebruiken in Salesforce Mobile. Gebruik MSI-handelingen op mobiele apparaten.
 title: Handelingen via e-mail, campagne en controlelijst voor Marketo verzenden in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe te opstelling a [&#x200B; getriggerde campagne gebruikend &quot;Campagne wordt Gevraagd &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe te opstelling a [ getriggerde campagne gebruikend &quot;Campagne wordt Gevraagd ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Koel, nu kunnen je verkopers actief deelnemen aan de marketingactiviteiten.
 

@@ -1,9 +1,9 @@
 ---
-description: Een e-mail plannen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailbericht voor verkoop op een later tijdstip kunt plannen. Stel datum en tijd in voor het samenstellen in Handelingen Verkoopmanager Insight of uw postvak IN.
 title: Een e-mail plannen
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    ![](assets/scheduling-an-email-4.png)
 
-1. Nu uw geplande datum/tijd wordt geselecteerd, verzendt de klik **&#x200B;**&#x200B;om e-mail te plannen.
+1. Nu uw geplande datum/tijd wordt geselecteerd, verzendt de klik **** om e-mail te plannen.
 
    ![](assets/scheduling-an-email-5.png)
 
@@ -42,4 +42,4 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Overzicht van het Centrum van het Bevel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+   >[ Overzicht van het Centrum van het Bevel ](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)

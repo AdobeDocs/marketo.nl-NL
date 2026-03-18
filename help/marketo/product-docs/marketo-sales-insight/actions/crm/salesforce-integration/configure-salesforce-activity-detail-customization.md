@@ -1,11 +1,11 @@
 ---
-description: Aanpassing van Salesforce Activity Detail - Marketo-documenten - Productdocumentatie configureren
+description: Leer hoe u de detailaanpassing van Salesforce-activiteiten configureert voor taakonderwerpvelden. Stel in welke logboeken naar de Salesforce-taak worden weergegeven wanneer activiteiten worden gesynchroniseerd.
 title: Aanpassing van Salesforce-activiteitsgegevens configureren
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '684'
 ht-degree: 1%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* De Acties van Salesforce en van Insight van de Verkoop [&#x200B; moeten worden verbonden &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Het registreren van e-mailactiviteit via API [&#x200B; moet worden toegelaten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* De Acties van Salesforce en van Insight van de Verkoop [ moeten worden verbonden ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* Het registreren van e-mailactiviteit via API [ moet worden toegelaten ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Met Aanpassing van activiteitsdetails kunnen beheerders de informatie configureren die zich aanmeldt bij het veld [!DNL Salesforce] Taak - Onderwerp wanneer een [!DNL Sales Insight Actions] activiteit/herinneringstaak wordt gesynchroniseerd met [!DNL Salesforce] .
 
@@ -145,5 +145,5 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
->* [&#x200B; de Synchronisatie van de Taak van de herinnering met Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [ de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* [ de Synchronisatie van de Taak van de herinnering met Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

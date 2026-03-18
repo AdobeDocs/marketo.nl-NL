@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953373
-description: Abonnementsvoetteksten configureren in Marketo Sales Insight - Marketo Docs - Productdocumentatie
+description: Leer hoe u afmeldingsvoetteksten configureert in Marketo Sales Insight. Stel de abonnementkoppelingen en compatibiliteit voor e-mails over verkopen in.
 title: Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

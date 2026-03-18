@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355596
-description: Global MS Dynamics Sync uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de algemene synchronisatie van MS Dynamics voor Marketo Sales Insight uitschakelt. Schakel indien nodig synchronisatie uit zonder de installatie ongedaan te maken.
 title: Global MS Dynamics Sync uitschakelen
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 2%
+source-wordcount: '56'
+ht-degree: 1%
 
 ---
 
@@ -29,4 +29,4 @@ Voer de volgende eenvoudige stappen uit om de [!DNL MS Dynamics] -synchronisatie
 
    >[!NOTE]
    >
-   >Als u geen a [!UICONTROL Disable Sync] knoop in uw instantie ziet, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+   >Als u geen a [!UICONTROL Disable Sync] knoop in uw instantie ziet, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.

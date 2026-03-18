@@ -1,11 +1,11 @@
 ---
-description: Salesforce Diagnostics - Marketo Docs - Productdocumentatie
+description: Begrijp Salesforce diagnostiek en foutenmeldingen voor ontbroken gegevensregistreren. Open de pagina Diagnostics en gebruik de foutopsporingspagina om problemen op te lossen.
 title: Salesforce Diagnostics
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1339'
+source-wordcount: '1355'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Een deel van onze [!DNL Salesforce] -integratie bestaat uit een [!DNL Salesforce
 **Categorie:** Andere
 **Bericht:** kan geen verwijzing omgezette lood
 **wat gebeurt:** wij proberen om aan een omgezette lood tijdens het Meest Recente Registreren van de Activiteit voor Contacten en Leads te registreren. Een paar van deze foto&#39;s werden ook gezien voor toonhoogte.
-**Stappen van het Oplossen van problemen:** te melden gelieve om het even welke instanties van dit aan ons [&#x200B; ondersteuningsteam &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support).
+**Stappen van het Oplossen van problemen:** te melden gelieve om het even welke instanties van dit aan ons [ ondersteuningsteam ](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 **Fout:** ENTITY_IS_LOCKED
 **Categorie:** Toegang/Bevestiging
@@ -66,7 +66,7 @@ Een deel van onze [!DNL Salesforce] -integratie bestaat uit een [!DNL Salesforce
 **Fout:** EXPIRED_ACCESS
 **Categorie:** Authentificatie
 **Bericht:** invalid_Grant: verlopen toegang/verfrist teken
-**wat gebeurt:** de toegang of verfrist teken is verlopen. De tekenen verlopen gebaseerd op [&#x200B; zittingsmontages in  [!DNL Salesforce] &#x200B;](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**wat gebeurt:** de toegang of verfrist teken is verlopen. De tekenen verlopen gebaseerd op [ zittingsmontages in  [!DNL Salesforce] ](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Stappen van het Oplossen van problemen:** u zult moeten opnieuw voor authentiek verklaren. Koppel de [!DNL Salesforce] -verbinding los en maak opnieuw verbinding.
 
 **Fout:** FAILED_WRITE

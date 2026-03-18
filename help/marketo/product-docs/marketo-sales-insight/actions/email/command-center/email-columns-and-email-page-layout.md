@@ -1,18 +1,18 @@
 ---
-description: E-mailkolommen en indeling van e-mailpagina - Marketo-documenten - Productdocumentatie
+description: Begrijp e-mailkolommen en paginalay-out in het Centrum van het Bevel. Pas aan welke kolommen worden weergegeven en hoe e-mailactiviteiten worden weergegeven.
 title: E-mailkolommen en indeling van e-mailpagina
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
 
 # E-mailkolommen en indeling van e-mailpagina {#email-columns-and-email-page-layout}
 
-U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van het [&#x200B; Centrum van het Bevel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md) zichtbaar te zijn. Uw configuratie-instellingen worden opgeslagen voor elke e-mailsubmap (bijv. Afbezorgd, Mislukt, Gepland, enz.).
+U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van het [ Centrum van het Bevel ](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md) zichtbaar te zijn. Uw configuratie-instellingen worden opgeslagen voor elke e-mailsubmap (bijv. Afbezorgd, Mislukt, Gepland, enz.).
 
 ## E-mailkolommen {#email-columns}
 

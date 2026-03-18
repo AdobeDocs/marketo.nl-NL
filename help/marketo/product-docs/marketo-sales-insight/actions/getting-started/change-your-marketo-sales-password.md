@@ -1,11 +1,11 @@
 ---
-description: Je Marketo-verkoopwachtwoord wijzigen - Marketo Docs - Productdocumentatie
+description: Klik hier als je je Marketo-verkoopwachtwoord wilt wijzigen in Handelingen in Insight verkopen. Wachtwoord bijwerken in Instellingen als u de aanmelding Alleen Salesforce niet gebruikt.
 title: Je Marketo-verkoopwachtwoord wijzigen
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 
 ## Wachtwoord wijzigen bij afmelding {#change-your-password-while-signed-out}
 
-1. Navigeer aan de [&#x200B; Login Connect van de Verkoop &#x200B;](https://toutapp.com/login) pagina. Voer uw e-mailadres in en klik op **[!UICONTROL Login]** .
+1. Navigeer aan de [ Login Connect van de Verkoop ](https://toutapp.com/login) pagina. Voer uw e-mailadres in en klik op **[!UICONTROL Login]** .
 
    ![](assets/change-your-marketo-sales-password-4.png)
 

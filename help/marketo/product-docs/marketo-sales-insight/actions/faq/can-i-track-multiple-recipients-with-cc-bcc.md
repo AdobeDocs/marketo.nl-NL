@@ -1,11 +1,11 @@
 ---
-description: Kan ik meerdere ontvangers bijhouden met CC/BCC - Marketo-documenten - Productdocumentatie
+description: Leer of u meerdere ontvangers kunt volgen wanneer u CC en BCC gebruikt. Begrijp trackinglimieten en gedrag voor e-mailberichten in groepen.
 title: Kan ik meerdere ontvangers bijhouden met CC/BCC
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

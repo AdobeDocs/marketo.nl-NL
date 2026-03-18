@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762322
-description: Marketo Sales Insight Configuration Tab in Salesforce - Marketo Docs - Productdocumentatie
+description: Meer informatie over het configuratietabblad Marketo Sales Insight in Salesforce. Configureer MSI-instellingen en schakel Handelingen in.
 title: Marketo Sales Insight Configuration Tab in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Als u dit doet, worden al uw configuraties in SFDC gewist en kunnen deze niet wo
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg de Toegang van Insight van de Verkoop aan Profielen toe &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[ voeg de Toegang van Insight van de Verkoop aan Profielen toe ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

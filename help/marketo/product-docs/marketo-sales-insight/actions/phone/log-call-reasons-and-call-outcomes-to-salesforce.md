@@ -1,11 +1,11 @@
 ---
-description: Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u de redenen voor oproepen kunt registreren en uitkomsten kunt bellen naar Salesforce. Verzeker vraagactiviteit en attributen synchronisatie aan CRM.
 title: Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -157,5 +157,5 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Resultaten van de Vraag &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
->* [&#x200B; Redenen van de Vraag &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+>* [ Resultaten van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+>* [ Redenen van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

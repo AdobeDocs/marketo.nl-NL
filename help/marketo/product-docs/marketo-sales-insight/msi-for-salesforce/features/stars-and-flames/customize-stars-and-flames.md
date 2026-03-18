@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360303
-description: Sterren en vlammen aanpassen - Marketo Docs - Productdocumentatie
+description: Leer hoe u sterren en vlammen kunt aanpassen in Marketo Sales Insight. Configureer hoe hoofdscore en urgentie worden weergegeven in Salesforce.
 title: Sterren en vlammen aanpassen
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ In [!DNL Marketo Sales Insight] worden sterren en vlammen gebruikt om aan leads 
    >
    >**Definitie**
    >
-   >**[!UICONTROL Dynamic]** - is een percentagewaarde die uit [&#x200B; relatieve gegevens &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
+   >**[!UICONTROL Dynamic]** - is een percentagewaarde die uit [ relatieve gegevens ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
    >
    >**[!UICONTROL Static]** - Hiermee kunt u exacte muzieknummers definiëren - geen percentages meer, geen geheime sauzen meer.
 

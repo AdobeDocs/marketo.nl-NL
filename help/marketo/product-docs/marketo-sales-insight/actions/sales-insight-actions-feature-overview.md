@@ -1,11 +1,11 @@
 ---
-description: Overzicht Insight Actions - Marketo Docs - Productdocumentatie
+description: Meer informatie over Sales Insight Acties en marketinggerichte intelligentie en betrokkenheidstools voor verkoop. Gebruik e-mail, campagnes, dialer en taken voor verkoop om het zoeken te versnellen.
 title: Overzicht Insight-handelingstaken
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1319'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Versnel de prospectie-inspanningen met marketing-aangedreven intelligentie en be
 
 >[!NOTE]
 >
->De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [&#x200B; pakket van Insight van de Verkoop van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
-Voor een videooverzicht van de Acties van Insight van de Verkoop, [&#x200B; klik hier &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=nl-NL){target="_blank"}.
+Voor een videooverzicht van de Acties van Insight van de Verkoop, [ klik hier ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

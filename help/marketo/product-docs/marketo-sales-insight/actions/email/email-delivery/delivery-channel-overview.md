@@ -1,11 +1,11 @@
 ---
-description: Leveringskanaaloverzicht - Marketo Docs - Productdocumentatie
+description: Meer informatie over de leveringskanalen voor het verzenden van e-mails bij Sales Insight Actions. Begrijp hoe de leveringskanalen het volgen en levering toelaten.
 title: Overzicht van leveringskanaal
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Marketo Sales biedt je meerdere opties om e-mails te leveren. In dit artikel wor
 
 ## Aanbevolen: Gmail of Exchange via e-mailverbinding {#recommended-gmail-or-exchange-via-email-connection}
 
-Met Marketo Sales kunt u een gestroomlijnde installatie en de verbeterde leverbaarheid tot stand brengen via onze E-mailverbindingsservice. De e-mailverbinding staat elke gebruiker toe om met hun [&#x200B; Gmail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) of [[!DNL Exchange]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) rekening aan de Verkoop van Marketo te verbinden die als leveringskanaal van keus voor alle e-mails van de Verkoop van Marketo moet worden gebruikt.
+Met Marketo Sales kunt u een gestroomlijnde installatie en de verbeterde leverbaarheid tot stand brengen via onze E-mailverbindingsservice. De e-mailverbinding staat elke gebruiker toe om met hun [ Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) of [[!DNL Exchange]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) rekening aan de Verkoop van Marketo te verbinden die als leveringskanaal van keus voor alle e-mails van de Verkoop van Marketo moet worden gebruikt.
 
 Het gebruik van Gmail of [!DNL Exchange] heeft enkele duidelijke voordelen ten opzichte van andere opties voor het leveringskanaal:
 
@@ -24,7 +24,7 @@ Het gebruik van Gmail of [!DNL Exchange] heeft enkele duidelijke voordelen ten o
 * Verificatiemethoden zoals SPF en DKIM worden al geconfigureerd en beheerd door uw IT-team, dus er is geen extra installatie.
 * Het verzenden van e-mailberichten binnen een bepaald e-mailnetwerk (dat wil zeggen het verzenden van een e-mail als een [!DNL Exchange] -gebruiker naar een bedrijf dat e-mails ontvangt via [!DNL Exchange] ) kan de leesbaarheid verder verbeteren.
 
-Het is belangrijk om op te merken dat deze leveringskanalen hun eigen verzendingsgrenzen hebben die door Microsoft en Google worden afgedwongen. Om dit te bestrijden, gebruiken wij een vertragingsmechanisme om gebruikers te helpen binnen die grenzen blijven. Leer meer over [&#x200B; e-mailthrottling hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Het is belangrijk om op te merken dat deze leveringskanalen hun eigen verzendingsgrenzen hebben die door Microsoft en Google worden afgedwongen. Om dit te bestrijden, gebruiken wij een vertragingsmechanisme om gebruikers te helpen binnen die grenzen blijven. Leer meer over [ e-mailthrottling hier ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Marketo e-mailservers zijn niet geïntegreerd met Marketo Sales. Marketo-servers
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; E-mailVerbinding voor de Gebruikers van Gmail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [&#x200B; E-mailVerbinding voor  [!DNL Outlook]  Gebruikers &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
->* [&#x200B; Vestiging een Kanaal van de Levering van de Douane &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
->* [&#x200B; Het Throttling van de Verbinding E-mail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
+>* [ E-mailVerbinding voor de Gebruikers van Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [ E-mailVerbinding voor  [!DNL Outlook]  Gebruikers ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [ Vestiging een Kanaal van de Levering van de Douane ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+>* [ Het Throttling van de Verbinding E-mail ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)

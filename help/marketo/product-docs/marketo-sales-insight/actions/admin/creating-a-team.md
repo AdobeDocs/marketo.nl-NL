@@ -1,11 +1,11 @@
 ---
-description: Een team maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een team kunt maken in Handelingen van Sales Insight om sjablonen, campagnes en groepen te delen.
 title: Een team maken
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Door een team te maken, kunt u een groep gebruikers samenstellen waarmee inhoud 
 
 ## Een team maken {#create-a-team}
 
-1. In de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
+1. In de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/creating-a-team-1.png)
 

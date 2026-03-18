@@ -1,10 +1,10 @@
 ---
-description: Knoppen voor handelingen toevoegen aan de lijstweergave van Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe u de knoppen Verkoop-e-mail verzenden en Toevoegen aan verkoopcampagne toevoegt aan de lijstweergaven van Salesforce. Configureer in Lightning of Classic via Lijstweergave-knopindelingen.
 title: Knoppen voor handelingen toevoegen aan de lijstweergave van Salesforce
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze knoppen maken deel uit van het Sales Insight-pakket. Als u niet de knopen beschikbaar ziet om in uw lijstmening worden geïnstalleerd, kunt u uw pakket [&#x200B; moeten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} bevorderen.
+>Deze knoppen maken deel uit van het Sales Insight-pakket. Als u niet de knopen beschikbaar ziet om in uw lijstmening worden geïnstalleerd, kunt u uw pakket [ moeten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} bevorderen.
 
 De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
@@ -26,7 +26,7 @@ De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
 ## In Salesforce Lightning {#salesforce-lightning}
 
-1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
 1. Klik **Opstelling**.
 1. Selecteer Objectbeheer.
 1. Zoek in het vak Snel zoeken naar het object dat u wilt bewerken (Lead of Contact) en selecteer de naam van het object.
@@ -38,7 +38,7 @@ De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
 ## In Salesforce Classic {#salesforce-classic}
 
-1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
 1. Klik **Opstelling**.
 1. Zoek in het vak Snel zoeken naar het object dat u wilt bewerken (Lead of Contact) en selecteer het.
 1. Klik om de lijstweergave te bewerken (lead of contactpersoon).
@@ -48,6 +48,6 @@ De knoppen voor handelingen die u wilt installeren zijn onder andere:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Gebruikend Bulk verzend Verkoop E-mail in Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
->* [&#x200B; Gebruikend Bulk voegt aan de Campagne van de Verkoop in Salesforce toe &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
->* [&#x200B; installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [ Gebruikend Bulk verzend Verkoop E-mail in Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
+>* [ Gebruikend Bulk voegt aan de Campagne van de Verkoop in Salesforce toe ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
+>* [ installeer het Pakket van Insight van de Verkoop van Marketo in Salesforce AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

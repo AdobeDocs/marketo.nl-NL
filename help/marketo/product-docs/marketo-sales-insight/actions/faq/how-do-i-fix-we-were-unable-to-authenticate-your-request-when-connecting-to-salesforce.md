@@ -1,11 +1,11 @@
 ---
-description: Hoe los ik "We konden uw verzoek niet verifiëren" bij het verbinden met Salesforce - Marketo Docs - productdocumentatie
+description: Verificatiefouten verhelpen bij het verbinden van Sales Insight-acties met Salesforce. Controleer OAuth, toestemmingen, en verbindingsstappen.
 title: Hoe kan ik "We konden uw verzoek niet verifiëren" herstellen bij verbinding met Salesforce
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ U kunt bepalen welk type u krijgt door URL te controleren.
 
 Deze fout wijst typisch op u een douanedomein hebt dat wij niet aan kunnen leiden. U lost deze fout op door u aan te melden bij het Salesforce-exemplaar waarmee u eerst verbinding wilt maken. Voer vervolgens de stappen uit om verbinding te maken met Salesforce.
 
-Als de instantie waarmee u verbinding probeert te maken een Salesforce Sandbox-domein is en u een fout krijgt, moet u aanvullende stappen doorlopen om uw instantie bij te werken zodat deze compatibel is met Salesforce Sandbox. [&#x200B; leer meer &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+Als de instantie waarmee u verbinding probeert te maken een Salesforce Sandbox-domein is en u een fout krijgt, moet u aanvullende stappen doorlopen om uw instantie bij te werken zodat deze compatibel is met Salesforce Sandbox. [Meer info](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Oauth-app geblokkeerd oplossen {#resolve-oauth-app-blocked}
 

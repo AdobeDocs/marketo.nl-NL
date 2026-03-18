@@ -1,11 +1,11 @@
 ---
-description: De Resultaten van de vraag - de Documenten van Marketo - de Documentatie van het Product
+description: Meer informatie over belresultaten in Sales Insight Actions. Het resultaat van het logboek wanneer het beëindigen van een vraag zodat activiteit wordt geregistreerd in Marketo en Salesforce.
 title: Resultaten bellen
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -88,5 +88,5 @@ Zodra de vraagresultaten zijn toegelaten. De gebruikers kunnen één selecteren 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [&#x200B; Redenen van de Vraag &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+>* [ Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [ Redenen van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)

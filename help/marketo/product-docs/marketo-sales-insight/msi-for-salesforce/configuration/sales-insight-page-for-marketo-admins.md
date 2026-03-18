@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762409
-description: Verkoop Insight-pagina voor Marketo Admins - Marketo Docs - Productdocumentatie
+description: Meer informatie over de pagina Sales Insight voor Marketo-beheerders. Toegang krijgen tot Config- en MSI-instellingen voor handelingen.
 title: Insight-pagina voor verkoop voor Marketo Admins
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,11 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld Loodscore om sterren en
 
    >[!TIP]
    >
-   >Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [&#x200B; hen &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
+   >Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [ hen ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Sterren en Vlamjes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+   >[ Sterren en Vlamjes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Instellingen {#settings}
 
@@ -85,7 +85,7 @@ Als deze optie is ingeschakeld, kunnen MSI-gebruikers hun lead feed in een RSS-f
 
 **Symbolische Vervalsing:**
 
-De Symbolische Vervaldatum wordt gecontroleerd in de Manager van de Eigenschap. Om het te hebben toegelaten/gehandicapt, reik uit aan [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support). Als deze optie is ingeschakeld, verlopen alle Marketo-tokens binnen 10 minuten. Als Marketo-tokens zijn uitgeschakeld, verlopen deze niet.
+De Symbolische Vervaldatum wordt gecontroleerd in de Manager van de Eigenschap. Om het te hebben toegelaten/gehandicapt, reik uit aan [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support). Als deze optie is ingeschakeld, verlopen alle Marketo-tokens binnen 10 minuten. Als Marketo-tokens zijn uitgeschakeld, verlopen deze niet.
 
 Tokens die vóór het toelaten van de Symbolische Vervalsing worden geproduceerd zullen geen verlooptijd hebben om tegen te bevestigen, zodat zullen zij niet verlopen zelfs als de eigenschap momenteel wordt toegelaten.
 

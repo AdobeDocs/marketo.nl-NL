@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949718
-description: Een e-mail naar Sales Insight publiceren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mail van Marketo naar Sales Insight publiceert. Een Marketo-e-mailsjabloon beschikbaar maken voor verkoopgebruikers in het deelvenster MSI.
 title: Een e-mail naar Sales Insight publiceren
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,8 @@ Mooi werk! Nu weet u hoe te om e-mails ter beschikking te stellen voor uw verkoo
 
 >[!NOTE]
 >
->[&#x200B; Mijn Tokens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) zullen niet oplossen wanneer het verzenden van een e-mail van [!DNL Sales Insight] op of [!DNL Microsoft Dynamics] of [!DNL Salesforce]; slechts zullen de standaardtokens bevolken (Lood, Bedrijf, enz.). Standaardwaarden voor tokens werken echter wel.
+>[ Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) zullen niet oplossen wanneer het verzenden van een e-mail van [!DNL Sales Insight] op of [!DNL Microsoft Dynamics] of [!DNL Salesforce]; slechts zullen de standaardtokens bevolken (Lood, Bedrijf, enz.). Standaardwaarden voor tokens werken echter wel.
 
 >[!TIP]
 >
->Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [&#x200B; een E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.
+>Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [ een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.

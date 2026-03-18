@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511959
-description: Best Bets in Salesforce1 - Marketo Docs - Productdocumentatie
+description: Meer informatie over Best Bets in Salesforce Mobile (Salesforce1). Bekijk de best betrokken leads voor de mobiele ervaring van Marketo Sales Insight.
 title: Beste ets in Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -23,5 +23,5 @@ Uw [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-s
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Interesserende momenten in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [&#x200B; E-mail- en campagne- en controleacties voor Marketo verzenden in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [ Interesserende momenten in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [ E-mail- en campagne- en controleacties voor Marketo verzenden in [!UICONTROL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

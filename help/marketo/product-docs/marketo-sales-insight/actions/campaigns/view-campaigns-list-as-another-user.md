@@ -1,11 +1,11 @@
 ---
-description: Campagnelijst weergeven als een andere gebruiker - Marketo Docs - Productdocumentatie
+description: Leer hoe u campagnes als een andere gebruiker kunt weergeven wanneer u een beheerder bent. Gebruik de Mening als drop-down op de pagina van Campagnes om het even welke campagnes van de gebruiker te zien.
 title: Lijst met campagnes weergeven als een andere gebruiker
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---

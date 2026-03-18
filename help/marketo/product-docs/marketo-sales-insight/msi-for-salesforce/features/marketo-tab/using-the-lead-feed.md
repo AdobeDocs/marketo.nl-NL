@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512979
-description: De Lead Feed gebruiken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Lead Feed gebruikt op het tabblad Marketo in Salesforce. Zie de activiteit van de lood in real time en betrokkenheid in het voer.
 title: De Lead Feed gebruiken
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -83,7 +83,7 @@ U kunt ook updates voor Diervoeders voor leads ophalen via RSS-feed.  Met een RS
 
 >[!NOTE]
 >
->De beheerder van Marketo van uw bedrijf moet [&#x200B; het voer van RSS &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
+>De beheerder van Marketo van uw bedrijf moet [ het voer van RSS ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
 
 Voor RSS-updates hebt u twee dingen nodig: de RSS-koppeling en een RSS-voederlezer. U kunt de RSS-koppeling ophalen door op het RSS-pictogram in de lead feed te klikken:
 

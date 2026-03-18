@@ -1,11 +1,11 @@
 ---
-description: Insight-machtigingsset voor verkoop toevoegen - Marketo-documenten - productdocumentatie
+description: Klik hier als je wilt weten hoe je de verkoopvergunning van Insight die in Salesforce is ingesteld, toevoegt. Wijs de set toe aan gebruikers die Marketo Sales Insight-toegang nodig hebben.
 title: Insight-machtigingsset voor verkoop toevoegen
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ Ga als volgt te werk om toegang toe te voegen tot [!DNL Sales Insight] -functies
 
 >[!PREREQUISITES]
 >
->[&#x200B; werk uw  [!DNL Sales Insight] [!DNL Salesforce] pakket &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan versie 1.8000 of hoger bij om deze eigenschap te gebruiken.
+>[ werk uw  [!DNL Sales Insight] [!DNL Salesforce] pakket ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan versie 1.8000 of hoger bij om deze eigenschap te gebruiken.
 
 >[!IMPORTANT]
 >
->Als u eerder [!DNL Sales Insight] toegang tot alle profielen en/of uitgevoerd [!DNL Sales Insight] voor al uw gebruikers hebt gegeven, moet u [&#x200B; de toegang van het profielniveau &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze rechtenset te gebruiken.
+>Als u eerder [!DNL Sales Insight] toegang tot alle profielen en/of uitgevoerd [!DNL Sales Insight] voor al uw gebruikers hebt gegeven, moet u [ de toegang van het profielniveau ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze rechtenset te gebruiken.
 
 ## Overzicht {#overview}
 

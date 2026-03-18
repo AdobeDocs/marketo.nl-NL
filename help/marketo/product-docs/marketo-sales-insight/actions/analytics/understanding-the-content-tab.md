@@ -1,11 +1,11 @@
 ---
-description: Inzicht krijgen op het tabblad Inhoud - Marketo Docs - Productdocumentatie
+description: Begrijp het lusje van de Inhoud en de metriek van de malplaatjeovereenkomst in de Acties van Insight van de Verkoop. Bekijk Geheime Weapon, Hoogste en laagste Betrokkenheid, en hoogste gehechtheid en verbindingen.
 title: Het tabblad Inhoud
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---

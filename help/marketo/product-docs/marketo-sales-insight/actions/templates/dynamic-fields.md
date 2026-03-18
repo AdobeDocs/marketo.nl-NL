@@ -1,11 +1,11 @@
 ---
-description: Dynamische velden - Marketo Docs - Productdocumentatie
+description: Meer informatie over dynamische velden in handelingensjablonen van Insight. Gebruik velden voor samenvoegen om e-mails aan te passen aan de gegevens van contact en afzender.
 title: Dynamische velden
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{
 
 >[!TIP]
 >
->Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar [!DNL Sales Insight Actions] als naar [!DNL Salesforce] kijken. Dat betekent als een contact niet in de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) bestaat, kijken wij binnen [!DNL Salesforce] om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
+>Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar [!DNL Sales Insight Actions] als naar [!DNL Salesforce] kijken. Dat betekent als een contact niet in de [ Webtoepassing ](https://toutapp.com/login) bestaat, kijken wij binnen [!DNL Salesforce] om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
 
 ## Een dynamisch veld invoegen in een sjabloon {#insert-a-dynamic-field-into-a-template}
 
@@ -75,4 +75,4 @@ Met dit gereedschap kunt u `auto-personalize your email` gebruiken en tonnen tij
 
 >[!TIP]
 >
->Als uw dynamische gebieden niet bevolkt, controleer [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).
+>Als uw dynamische gebieden niet bevolkt, controleer [ dit artikel ](/help/marketo/product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md).

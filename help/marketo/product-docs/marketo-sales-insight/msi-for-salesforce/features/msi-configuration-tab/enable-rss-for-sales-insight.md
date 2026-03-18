@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377005
-description: RSS inschakelen voor verkoop Insight - Marketo Docs - Productdocumentatie
+description: Leer hoe u RSS inschakelt voor Marketo Sales Insight. Gebruikers toestaan zich te abonneren om feed-updates via RSS in Salesforce te leiden.
 title: RSS inschakelen voor verkoop-Insight
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---

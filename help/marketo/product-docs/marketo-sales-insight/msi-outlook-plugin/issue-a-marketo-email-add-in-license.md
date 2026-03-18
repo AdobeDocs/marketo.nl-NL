@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949281
-description: Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Marketo Email Add-in-licentie voor Outlook kunt uitgeven. Licenties verlenen zodat gebruikers de invoegtoepassing kunnen installeren en gebruiken.
 title: Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -44,12 +44,12 @@ Iedereen die de [!DNL Outlook] Add-in voor Marketo-e-mail wil gebruiken, moet ee
 
    >[!NOTE]
    >
-   >Om de stop ver te installeren, verlaat checkbox ongecontroleerd en verzend uw team van IT uw [&#x200B; Sleutel van de Onderneming &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >Om de stop ver te installeren, verlaat checkbox ongecontroleerd en verzend uw team van IT uw [ Sleutel van de Onderneming ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
    >Als uw verkopers beheerderstoegang tot hun computers hebben, controleer de doos en u wordt gedaan!
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; installeer toe:voegen-binnen Marketo voor  [!DNL Outlook]  met een Sleutel van de Onderneming &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
->* [&#x200B; installeer Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]  met een Code van de Registratie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
->* [&#x200B; bevorder uw toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+>* [ installeer toe:voegen-binnen Marketo voor  [!DNL Outlook]  met een Sleutel van de Onderneming ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
+>* [ installeer Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]  met een Code van de Registratie ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+>* [ bevorder uw toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)

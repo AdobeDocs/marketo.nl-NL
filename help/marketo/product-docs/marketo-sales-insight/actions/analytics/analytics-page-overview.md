@@ -1,11 +1,11 @@
 ---
-description: Overzicht van pagina Analytics - Marketo Docs - Productdocumentatie
+description: Meer informatie over het tabblad Analytics en e-mailservicegegevens voor Sales Insight Actions. Bekijk individuele en teamstaten in me, Team, en de lusjes van de Inhoud.
 title: Overzicht van pagina Analytics
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -34,15 +34,15 @@ Op de tabbladen [!UICONTROL Me] en [!UICONTROL Team] wordt informatie over afges
 
 ## [!UICONTROL Me] Tab {#me-tab}
 
-Het [&#x200B; me lusje &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is een grote plaats om op de overeenkomst van uw e-mail, malplaatjes, en verbindingen te controleren. Als u een beheerder bent in Sales Insight Actions, kunt u door om het even welke gebruiker op uw team filtreren om hun status te zien.
+Het [ me lusje ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is een grote plaats om op de overeenkomst van uw e-mail, malplaatjes, en verbindingen te controleren. Als u een beheerder bent in Sales Insight Actions, kunt u door om het even welke gebruiker op uw team filtreren om hun status te zien.
 
 ## [!UICONTROL Team] Tab {#team-tab}
 
-In het [&#x200B; lusje van het Team &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, zie staten en classificaties voor uw volledig team. U kunt ook filteren door de subteams die u hebt gemaakt.
+In het [ lusje van het Team ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, zie staten en classificaties voor uw volledig team. U kunt ook filteren door de subteams die u hebt gemaakt.
 
 ## [!UICONTROL Content] Tab {#content-tab}
 
-Het [&#x200B; lusje van de Inhoud &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} bevat verklaringen op malplaatjes, inhoud, en verbindingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
+Het [ lusje van de Inhoud ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} bevat verklaringen op malplaatjes, inhoud, en verbindingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
 
 Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Klik op **[!UICONTROL Template Analytics]** om het gebruik ervan weer te geven.
 

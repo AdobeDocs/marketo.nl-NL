@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571735
-description: Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2011 - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo Sales Insight installeert en configureert in Microsoft Dynamics 2011. Voeg de oplossing en volledige opstelling toe.
 title: Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '336'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 2%
 >
 >Voltooi uw integratie tussen Marketo en Microsoft.
 >
->[&#x200B; Download de correcte oplossing &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics] CRM.
+>[ Download de correcte oplossing ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics] CRM.
 
 ## Oplossing importeren {#import-solution}
 
@@ -37,9 +37,9 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >U zou reeds [&#x200B; geïnstalleerd en gevormd moeten hebben &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de oplossing van Marketo alvorens zich vooruit te bewegen.
+   >U zou reeds [ geïnstalleerd en gevormd moeten hebben ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de oplossing van Marketo alvorens zich vooruit te bewegen.
 
-1. Klik op **[!UICONTROL Browse]**. Selecteer de [!DNL Marketo Sales Insight] oplossing u [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Browse]**. Selecteer de [!DNL Marketo Sales Insight] oplossing u [ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -97,7 +97,7 @@ ht-degree: 2%
    >* Urgentie
    >* Relatieve score
    >
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [&#x200B; deze procedure &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [ deze procedure ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
 1. Ga terug naar Dynamiek, selecteer **[!UICONTROL Settings]**.
 
@@ -151,4 +151,4 @@ Stel gebruikersrollen in om specifieke gebruikers toegang te geven tot [!DNL Sal
 
 >[!MORELIKETHIS]
 >
->[&#x200B; de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[ de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

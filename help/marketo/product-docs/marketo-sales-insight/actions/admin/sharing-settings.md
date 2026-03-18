@@ -1,11 +1,11 @@
 ---
-description: Instellingen voor delen - Marketo-documenten - productdocumentatie
+description: Leer hoe te om het delen montages te vormen om te controleren wie malplaatjes in categorieën kan delen.
 title: Instellingen voor delen
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
 ## Uw instellingen voor delen configureren {#configure-your-sharing-settings}
 
-1. In de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
+1. In de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/sharing-settings-1.png)
 

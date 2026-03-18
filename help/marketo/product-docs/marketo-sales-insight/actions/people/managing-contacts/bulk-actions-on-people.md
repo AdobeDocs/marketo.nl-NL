@@ -1,11 +1,11 @@
 ---
-description: Bulkacties op mensen - Marketo Docs - Productdocumentatie
+description: Leer hoe u bulkacties kunt uitvoeren op mensen in Handelingen van Insight voor verkopen. Toevoegen aan campagne, e-mail verzenden of meerdere contactpersonen tegelijk verwijderen.
 title: Bulkacties op personen
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Wij wijzen automatisch een bron aan elk contact toe dat het gegevensbestand inga
 
 ## Toestemming {#authorization}
 
-In overeenstemming met [&#x200B; GDPR &#x200B;](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
+In overeenstemming met [ GDPR ](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
 
 ![](assets/bulk-actions-on-people-4.png)
 

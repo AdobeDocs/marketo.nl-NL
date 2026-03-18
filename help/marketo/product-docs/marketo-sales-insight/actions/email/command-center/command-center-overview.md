@@ -1,11 +1,11 @@
 ---
-description: Overzicht van Command Center - Marketo Docs - Productdocumentatie
+description: Meer informatie over het Opdrachtcentrum voor het beheren van e-mails en taken bij verkoop. Verzonden e-mails weergeven, taken toewijzen en snelle acties gebruiken in Handelingen van Insight voor verkopers.
 title: Overzicht van Command Center
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---

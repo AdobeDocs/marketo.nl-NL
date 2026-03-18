@@ -1,11 +1,11 @@
 ---
-description: Overzicht van e-mailtracering - Marketo Docs - Productdocumentatie
+description: Meer weten over e-mailtracking voor e-mails over verkopen? Begrijp hoe de meningen, de klikken, en de antwoorden worden gevolgd en het programma geopend.
 title: Overzicht van e-mailtracking
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Dit betekent dat als u een e-mail <flynn@flynnsarcade.com> verzendt en hij reage
 
 ## Uw e-mailbijlagen bijhouden {#how-to-track-your-email-attachments}
 
-[!DNL Sales Connect] biedt tracering op uw bijlagen (.doc, .ppt, .pdf), zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s de ontvanger doorzoekt. Wij zullen u toestaan om onze volgbare gehechtheid van zowel de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) als Gmail (of de Apps van Google) te gebruiken.
+[!DNL Sales Connect] biedt tracering op uw bijlagen (.doc, .ppt, .pdf), zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s de ontvanger doorzoekt. Wij zullen u toestaan om onze volgbare gehechtheid van zowel de [ Webtoepassing ](https://toutapp.com/login) als Gmail (of de Apps van Google) te gebruiken.
 
 >[!NOTE]
 >
