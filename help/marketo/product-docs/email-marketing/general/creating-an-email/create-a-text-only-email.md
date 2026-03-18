@@ -45,7 +45,7 @@ Als je alleen e-mails met tekst wilt verzenden, kun je hier een e-mail maken die
 
    >[!CAUTION]
    >
-   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe te [ Bijgehouden Verbindingen aan een E-mail van de Tekst ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) toevoegen.
+   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe te [&#x200B; Bijgehouden Verbindingen aan een E-mail van de Tekst &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) toevoegen.
 
    >[!TIP]
    >

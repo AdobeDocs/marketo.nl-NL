@@ -17,7 +17,7 @@ Met een token voor het kalenderbestand kunt u een agendagebeurtenis (.ics) toevo
 
 >[!PREREQUISITES]
 >
->[ creeer een Dossier van de Gebeurtenis van de Kalender (.ics) ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>[&#x200B; creeer een Dossier van de Gebeurtenis van de Kalender (.ics) &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. Terwijl het uitgeven van e-mail van uw programma, klik waar u het teken wilt gaan, dan klik de **Symbolische knoop van het Tussenvoegsel**.
 

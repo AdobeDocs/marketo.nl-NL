@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Een publiek definiëren met een slimme lijst {#define-an-audience-with-a-smart-list}
 
-Zodra u [ een e-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) creeert, zult u het willen vertellen wie om e-mail naar te verzenden. U kunt dit doen door [ een lijst van mensen ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) of met een slimme lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken met een slimme lijst.
+Zodra u [&#x200B; een e-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) creeert, zult u het willen vertellen wie om e-mail naar te verzenden. U kunt dit doen door [&#x200B; een lijst van mensen &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) of met een slimme lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken met een slimme lijst.
 
 >[!PREREQUISITES]
 >
->[ creeer een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>[&#x200B; creeer een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Zodra u [ een e-mailprogramma ](/help/marketo/product-docs/email-marketing/email
 
    ![](assets/myemailprogram.jpg)
 
-   Uitstekend werk! Nu is het tijd om [ te kiezen een bestaande e-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [ tot e-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) leiden om naar deze mensen te verzenden.
+   Uitstekend werk! Nu is het tijd om [&#x200B; te kiezen een bestaande e-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [&#x200B; tot e-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) leiden om naar deze mensen te verzenden.
 
 >[!NOTE]
 >
@@ -67,5 +67,5 @@ Zodra u [ een e-mailprogramma ](/help/marketo/product-docs/email-marketing/email
 
 >[!MORELIKETHIS]
 >
->* [ kies een Bestaande E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [ creeer een E-mail voor een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [&#x200B; kies een Bestaande E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [&#x200B; creeer een E-mail voor een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

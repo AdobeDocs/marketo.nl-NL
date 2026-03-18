@@ -76,6 +76,6 @@ Met de functie Code zoeken kunt u op efficiënte wijze inhoud zoeken en vervange
 
    >[!NOTE]
    >
-   >De Code van het onderzoek is ook beschikbaar in de [ redacteur van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
+   >De Code van het onderzoek is ook beschikbaar in de [&#x200B; redacteur van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 We raden u aan uw e-mailberichten te blijven bewerken met de ingebouwde Marketo-functionaliteit, maar deze code-editor biedt wel flexibiliteit als dat nodig is.

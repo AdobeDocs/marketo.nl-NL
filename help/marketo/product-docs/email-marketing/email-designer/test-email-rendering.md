@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # E-mailrendering testen met Litmus {#test-email-rendering-with-litmus}
 
-Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
+Hefboomwerking uw [&#x200B; Litmus &#x200B;](https://www.litmus.com/email-testing) rekening in Marketo Engage om onmiddellijk te zien hoe uw e-mail in populaire e-mailcliënten teruggeeft.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ Hefboomwerking uw [ Litmus ](https://www.litmus.com/email-testing) rekening in M
 
 ## Litmus Enterprise-gebruikers {#litmus-enterprise}
 
-De volgende stappen zijn voor gebruikers op het [ Plan van de Onderneming van Litmus ](https://www.litmus.com/pricing/enterprise){target="_blank"}.
+De volgende stappen zijn voor gebruikers op het [&#x200B; Plan van de Onderneming van Litmus &#x200B;](https://www.litmus.com/pricing/enterprise){target="_blank"}.
 
 1. Op _geef e-mailinhoud_ scherm uit, klik de **Simuleer Inhoud** knoop.
 
@@ -55,19 +55,19 @@ De volgende stappen zijn voor gebruikers op het [ Plan van de Onderneming van Li
 
    >[!NOTE]
    >
-   >Leer hoe te [ uw standaard e-mailcliëntlijst ](https://help.litmus.com/article/227-change-your-default-email-clients-list) aanpassen.
+   >Leer hoe te [&#x200B; uw standaard e-mailcliëntlijst &#x200B;](https://help.litmus.com/article/227-change-your-default-email-clients-list) aanpassen.
 
 1. Wanneer u klaar het testen bent, klik de achterste pijl op upper-left om aan het _Simulate Inhoud_ scherm terug te keren.
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **** knoop op het hoger-recht van het 6} E-mailPreviews _scherm van de Previews {te klikken._
+**OPTIONELE STAP**: Als u besluit om veranderingen in uw e-mail aan te brengen, nadat u **E-mail** teruggeeft om hen te bekijken, ben zeker om **&#x200B;**&#x200B;knoop op het hoger-recht van het 6&rbrace; E-mailPreviews _scherm van de Previews &lbrace;te klikken._
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 
 ## Litmus Core-gebruikers {#litmus-core}
 
-De volgende stappen zijn voor gebruikers op het [ Plan van de Kern van Litmus ](https://www.litmus.com/pricing/){target="_blank"}.
+De volgende stappen zijn voor gebruikers op het [&#x200B; Plan van de Kern van Litmus &#x200B;](https://www.litmus.com/pricing/){target="_blank"}.
 
 1. In uw rekening van de Samenvatting, wint het teste-mailadres terug door het **testadres van het Exemplaar** knoop in het _scherm van de Test_ te klikken.
 

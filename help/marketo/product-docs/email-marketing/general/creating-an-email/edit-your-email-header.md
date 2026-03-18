@@ -26,7 +26,7 @@ Als u deze waarden wilt bewerken, klikt u in elk veld en voert u de gegevens in.
 
 >[!TIP]
 >
->Om een gebrek van Naam en van E-mail te plaatsen, zie [ het Gebrek van E-mail en van Etiket ](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md) veranderen.
+>Om een gebrek van Naam en van E-mail te plaatsen, zie [&#x200B; het Gebrek van E-mail en van Etiket &#x200B;](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md) veranderen.
 
 Als u een token wilt gebruiken, klikt u eerst in het gewenste veld en vervolgens op het tokenpictogram.
 
@@ -50,4 +50,4 @@ Als u meer dan 50 tekens gebruikt, wordt de teller rood om u te waarschuwen.
 
 >[!MORELIKETHIS]
 >
->[ E-mailredacteur v2.0 Overzicht ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[&#x200B; E-mailredacteur v2.0 Overzicht &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

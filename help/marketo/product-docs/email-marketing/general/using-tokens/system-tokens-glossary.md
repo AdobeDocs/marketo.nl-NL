@@ -25,9 +25,9 @@ Het `{{system.date}}` teken zal huidige datum bij runtime als zo teruggeven: **A
 
 **werken in:**
 
-* [ de stroomstap van de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
-* [ Interessant Moment ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} stroomstap
-* [ creeer Taak ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} debietstap
+* [&#x200B; de stroomstap van de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
+* [&#x200B; Interessant Moment &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} stroomstap
+* [&#x200B; creeer Taak &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} debietstap
 * De hoofdtekst van een e-mail of sjabloon
 
 ## system.time {#system-time}
@@ -36,9 +36,9 @@ Het `{{system.time}}` teken zal de huidige tijd bij runtime als zo teruggeven: *
 
 **werken in:**
 
-* [ de stroomstap van de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
-* [ Interessant Moment ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} stroomstap
-* [ creeer Taak ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} debietstap
+* [&#x200B; de stroomstap van de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
+* [&#x200B; Interessant Moment &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} stroomstap
+* [&#x200B; creeer Taak &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} debietstap
 * De hoofdtekst van een e-mail of sjabloon
 
 ## system.dateTime {#system-datetime}
@@ -47,9 +47,9 @@ Het `{{system.dateTime}}` teken zal de huidige datum en de tijd bij runtime als 
 
 **werken in:**
 
-* [ de stroomstap van de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
-* [ Interessant Moment ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} stroomstap
-* [ creeer Taak ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} debietstap
+* [&#x200B; de stroomstap van de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}
+* [&#x200B; Interessant Moment &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"} stroomstap
+* [&#x200B; creeer Taak &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"} debietstap
 * De hoofdtekst van een e-mail of sjabloon
 
 ## system.unsubscribeLink {#system-unsubscribelink}
@@ -58,7 +58,7 @@ Met de token `{{system.unsubscribeLink}}` kunt u de plaatsing van de koppeling v
 
 **werken in:**
 
-* [ voeg een Token van het Systeem als Verbinding in E-mail ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} of malplaatje toe
+* [&#x200B; voeg een Token van het Systeem als Verbinding in E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} of malplaatje toe
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -66,4 +66,4 @@ Met de token `{{system.viewAsWebpageLink}}` kunt u de plaatsing van de koppeling
 
 **Werkt met:**
 
-* [ voeg een Token van het Systeem als Verbinding in E-mail ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} of malplaatje toe
+* [&#x200B; voeg een Token van het Systeem als Verbinding in E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"} of malplaatje toe

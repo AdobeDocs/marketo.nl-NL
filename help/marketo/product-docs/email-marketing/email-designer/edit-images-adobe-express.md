@@ -38,11 +38,11 @@ U kunt de Adobe Express-editor op twee manieren openen:
 
 1. Ga in Marketo Engage naar **[!UICONTROL Design Studio]** en selecteer **[!UICONTROL Images and Files]** .
 
-   ![ Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp ](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
+   ![&#x200B; Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp &#x200B;](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Selecteer de afbeelding die u wilt bewerken.
 
-   ![ klikkend op de naam van het beeld ](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
+   ![&#x200B; klikkend op de naam van het beeld &#x200B;](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ U kunt de Adobe Express-editor op twee manieren openen:
 
 1. In het beeld _Details_ lusje, klik **[!UICONTROL Edit in Adobe Express]**.
 
-   ![ klikkend Edit in de knoop van Adobe Express ](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
+   ![&#x200B; klikkend Edit in de knoop van Adobe Express &#x200B;](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -62,7 +62,7 @@ U kunt de Adobe Express-editor op twee manieren openen:
 
 1. Ga in Marketo Engage naar **[!UICONTROL Design Studio]** en selecteer **[!UICONTROL Images and Files]** .
 
-   ![ Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp ](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
+   ![&#x200B; Selecterend Beelden en Dossiers in linkernav van de Studio van het Ontwerp &#x200B;](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ U kunt de Adobe Express-editor op twee manieren openen:
 
 1. Schakel het selectievakje naast de afbeelding die u wilt bewerken in. Selecteer **[!UICONTROL Image and file actions]** in de vervolgkeuzelijst **[!UICONTROL Edit in Adobe Express]** .
 
-   ![ Selecterend checkbox naast de beeldnaam en gebruikend de Beelden en de dossieracties drop-down ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
+   ![&#x200B; Selecterend checkbox naast de beeldnaam en gebruikend de Beelden en de dossieracties drop-down &#x200B;](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -84,11 +84,11 @@ U kunt de Adobe Express-editor op twee manieren openen:
 
 ### Gebruikers met een Enterprise-licentie {#users-with-an-enterprise-license}
 
-Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen. Bezoek de [ Gids van de Gebruiker van Adobe Express ](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om over elke het plaatsen te leren.
+Als u een Enterprise-licentie voor Adobe Express hebt, hebt u toegang tot de volledige Express Editor. U kunt afbeeldingsinstellingen zoals kleur, helderheid, scherpte, contrast, grootte en meer aanpassen. Met de optie AI Magic kunt u achtergronden verwijderen, objecten invoegen en verwijderen en delen van een afbeelding wissen. Bezoek de [&#x200B; Gids van de Gebruiker van Adobe Express &#x200B;](https://helpx.adobe.com/express/user-guide.html){target="_blank"} om over elke het plaatsen te leren.
 
 >[!IMPORTANT]
 >
->De aangeschafte licentie moet onder dezelfde IMS Org staan als uw Marketo Engage-abonnement om toegang te krijgen tot alle bewerkingsmogelijkheden van Adobe Express. Bovendien moet elke individuele gebruiker een licentie hebben in Adobe Express. De gebruikers [ zonder een vergunning ](#users-without-an-enterprise-license) kunnen tot de snelle acties in Adobe Express slechts toegang hebben.
+>De aangeschafte licentie moet onder dezelfde IMS Org staan als uw Marketo Engage-abonnement om toegang te krijgen tot alle bewerkingsmogelijkheden van Adobe Express. Bovendien moet elke individuele gebruiker een licentie hebben in Adobe Express. De gebruikers [&#x200B; zonder een vergunning &#x200B;](#users-without-an-enterprise-license) kunnen tot de snelle acties in Adobe Express slechts toegang hebben.
 
 ### Gebruikers zonder Enterprise-licentie {#users-without-an-enterprise-license}
 
@@ -101,7 +101,7 @@ Voor mensen zonder een Enterprise-licentie hebt u nog steeds toegang tot verschi
 
 De functies zijn toegankelijk links op de afbeeldingspagina.
 
-![ pagina die van het Beeld Adobe Express toont het uitgeven opties ](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
+![&#x200B; pagina die van het Beeld Adobe Express toont het uitgeven opties &#x200B;](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Grootte afbeelding wijzigen {#resize-image}
 
@@ -109,7 +109,7 @@ De functies zijn toegankelijk links op de afbeeldingspagina.
 
 1. Breng uw gewenste veranderingen aan en klik **toepassen** wanneer gedaan.
 
-![ resize beeldvenster dat alle beschikbare opties toont ](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![&#x200B; resize beeldvenster dat alle beschikbare opties toont &#x200B;](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
@@ -137,7 +137,7 @@ De functies zijn toegankelijk links op de afbeeldingspagina.
 
 1. Adobe Express geeft de afbeelding zonder achtergrond weer. Als het aan uw behoeften voldoet, **van toepassing is**.
 
-![ Beeld van enkel afgehaalde hond met achtergrond ](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![&#x200B; Beeld van enkel afgehaalde hond met achtergrond &#x200B;](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -149,7 +149,7 @@ De functies zijn toegankelijk links op de afbeeldingspagina.
 
 1. Sleep de hoeken van de afbeelding om de gewenste uitsnijding te maken.
 
-![ slepend fotohoeken om het beeld ](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"} uit te snijden
+![&#x200B; slepend fotohoeken om het beeld &#x200B;](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"} uit te snijden
 
 1. Klik op **[!UICONTROL Apply]** als u klaar bent.
 
@@ -159,7 +159,7 @@ Zet een PNG-bestand om in een JPEG-bestand of een JPEG-bestand in een PNG-bestan
 
 1. Klik op **[!UICONTROL Convert to PNG/JPEG]**.
 
-![ Bekeerling in venster PNG/JPEG ](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![&#x200B; Bekeerling in venster PNG/JPEG &#x200B;](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Apply]**.
 
@@ -167,6 +167,6 @@ Zet een PNG-bestand om in een JPEG-bestand of een JPEG-bestand in een PNG-bestan
 
 Wanneer u met al uw uitgeeft wordt gedaan, klik **sparen** om uw werk te bewaren.
 
-![ sparen knoop ](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
+![&#x200B; sparen knoop &#x200B;](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 De bewerkte afbeelding wordt opgeslagen in dezelfde map als de oorspronkelijke afbeelding.

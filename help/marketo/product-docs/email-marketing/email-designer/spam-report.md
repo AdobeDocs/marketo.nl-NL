@@ -53,4 +53,4 @@ Wanneer de score naar je smaak is, kan deze worden verzonden.
 
 >[!NOTE]
 >
->De score van spam wordt afgeleid via SpamAssassin, en **de regels zijn niet bezeten door Adobe**. Meer details over deze regels kunnen in de [ documentatie SpamAssassin ](https://spamassassin.apache.org/#_blank){target="_blank"} worden gevonden. Een volledige lijst van fouten [ kan hier ](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"} worden gezien.
+>De score van spam wordt afgeleid via SpamAssassin, en **de regels zijn niet bezeten door Adobe**. Meer details over deze regels kunnen in de [&#x200B; documentatie SpamAssassin &#x200B;](https://spamassassin.apache.org/#_blank){target="_blank"} worden gevonden. Een volledige lijst van fouten [&#x200B; kan hier &#x200B;](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"} worden gezien.

@@ -17,7 +17,7 @@ Ontvang rapportwaarschuwingen en/of bekijk het dashboard Champion/Challenger voo
 
 >[!PREREQUISITES]
 >
->[ Champion/Challenger: Bepaal Champion Criteria ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[&#x200B; Champion/Challenger: Bepaal Champion Criteria &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 ## Rapportwaarschuwingen configureren {#configure-report-alerts}
 

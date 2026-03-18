@@ -39,4 +39,4 @@ In de operationele e-mailberichten worden de status Niet-geabonneerd en Door Mar
 >
 >Operationele e-mails zijn niet ontworpen om te werken met betrokkenheidsprogramma&#39;s. Zo negeert een serviceprogramma de operationele status van een e-mail. Houd daar rekening mee wanneer u met hen werkt.
 
-Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [ een e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.
+Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [&#x200B; een e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.

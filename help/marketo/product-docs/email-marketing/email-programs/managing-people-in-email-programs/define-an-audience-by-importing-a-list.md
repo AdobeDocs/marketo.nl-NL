@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ creeer een E-mail voor een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[&#x200B; creeer een E-mail voor een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Als u eenmaal een e-mailprogramma hebt gemaakt, wilt u het weten naar wie de e-mail moet worden verzonden. U kunt dit doen door [ een slimme lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) te creëren of door een lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken door een lijst te importeren.
+Als u eenmaal een e-mailprogramma hebt gemaakt, wilt u het weten naar wie de e-mail moet worden verzonden. U kunt dit doen door [&#x200B; een slimme lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) te creëren of door een lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken door een lijst te importeren.
 
 >[!NOTE]
 >
@@ -81,5 +81,5 @@ Fantastisch! Nu is het tijd om een bestaande e-mail te kiezen of een nieuwe e-ma
 
 >[!MORELIKETHIS]
 >
->* [ kies een Bestaande E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [ creeer een E-mail voor een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [&#x200B; kies een Bestaande E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [&#x200B; creeer een E-mail voor een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

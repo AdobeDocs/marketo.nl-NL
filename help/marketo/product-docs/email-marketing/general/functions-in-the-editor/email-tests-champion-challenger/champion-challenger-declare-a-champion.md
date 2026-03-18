@@ -17,7 +17,7 @@ Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
 
 >[!MORELIKETHIS]
 >
->[ Champion/Challenger: keur Uw E-mailtest ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md) goed
+>[&#x200B; Champion/Challenger: keur Uw E-mailtest &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md) goed
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

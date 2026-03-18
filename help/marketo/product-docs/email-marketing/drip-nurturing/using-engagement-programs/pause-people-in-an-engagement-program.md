@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personen pauzeren in een betrokkenheidsprogramma {#pause-people-in-an-engagement-program}
 
-Wanneer een persoon een lid van een betrokkenheidsprogramma is, zullen zij inhoud ontvangen tot zij [ alle inhoud ](people-who-have-exhausted-content.md) hebben uitgeput. U kunt de stap [[!UICONTROL Change Engagement Program Cadence]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Stroom gebruiken om te voorkomen dat mensen inhoud ontvangen, zelfs als ze de inhoud nog niet hebben uitgeput.
+Wanneer een persoon een lid van een betrokkenheidsprogramma is, zullen zij inhoud ontvangen tot zij [&#x200B; alle inhoud &#x200B;](people-who-have-exhausted-content.md) hebben uitgeput. U kunt de stap [[!UICONTROL Change Engagement Program Cadence]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Stroom gebruiken om te voorkomen dat mensen inhoud ontvangen, zelfs als ze de inhoud nog niet hebben uitgeput.
 
 1. Selecteer het betrokkenheidsprogramma.
 

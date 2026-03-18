@@ -39,5 +39,5 @@ Aangezien e-mailprogramma&#39;s die zijn gepland met de tijdzone van de ontvange
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend Ontvankelijke Tijdzone van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [ E-mailprogramma&#39;s van het Programma met de Ontvankelijke Streek van de Tijd ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [&#x200B; Begrijpend Ontvankelijke Tijdzone van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [&#x200B; E-mailprogramma&#39;s van het Programma met de Ontvankelijke Streek van de Tijd &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)

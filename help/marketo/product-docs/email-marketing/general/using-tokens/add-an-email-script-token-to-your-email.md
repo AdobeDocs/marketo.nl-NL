@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een e-mailscripttoken toevoegen aan uw e-mail {#add-an-email-script-token-to-your-email}
 
-Nadat u [ uw e-mailmanuscript ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) hebt gecreeerd, zult u het aan e-mail willen toevoegen om het in actie te zien. Zo gaat het.
+Nadat u [&#x200B; uw e-mailmanuscript &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) hebt gecreeerd, zult u het aan e-mail willen toevoegen om het in actie te zien. Zo gaat het.
 
 >[!NOTE]
 >
@@ -49,6 +49,6 @@ Nadat u [ uw e-mailmanuscript ](/help/marketo/product-docs/email-marketing/gener
 
 >[!NOTE]
 >
->Vergeet niet [ goed te keuren e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+>Vergeet niet [&#x200B; goed te keuren e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
 Dat is het! Wanneer deze e-mail wordt verzonden, wordt het script achter het token uitgevoerd en wordt de inhoud gevuld.

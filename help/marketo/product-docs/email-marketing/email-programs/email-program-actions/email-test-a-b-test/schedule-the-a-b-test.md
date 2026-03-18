@@ -17,7 +17,7 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
 >[!PREREQUISITES]
 >
->[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
+>[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
 
 >[!NOTE]
 >
@@ -63,4 +63,4 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!MORELIKETHIS]
    >
-   >[ keur/keur een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) goed
+   >[&#x200B; keur/keur een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) goed

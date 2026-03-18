@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # De criteria voor de A/B-testwinnaars definiëren {#define-the-a-b-test-winner-criteria}
 
-Wanneer [ toevoegend een test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} aan uw e-mailprogramma, zult u een testtype moeten kiezen, [ de test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} plannen, dan de winnende criteria bepalen. Hier is hoe je bepaalt welke e-mail wint.
+Wanneer [&#x200B; toevoegend een test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} aan uw e-mailprogramma, zult u een testtype moeten kiezen, [&#x200B; de test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"} plannen, dan de winnende criteria bepalen. Hier is hoe je bepaalt welke e-mail wint.
 
 >[!PREREQUISITES]
 >
->[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} toe
+>[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} toe
 
 ## Winkelcriteria {#winner-criteria}
 
@@ -46,7 +46,7 @@ Wanneer [ toevoegend een test A/B ](/help/marketo/product-docs/email-marketing/e
 
    >[!TIP]
    >
-   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Leer meer over [ het begrijpen van de betrokkenheidsscore ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Leer meer over [&#x200B; het begrijpen van de betrokkenheidsscore &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 1. U kunt uw criteria ook aanpassen door **[!UICONTROL Custom Conversion]** te selecteren en **[!UICONTROL Edit]** te klikken.
 
@@ -92,4 +92,4 @@ Nu is het tijd om te beslissen hoe de winnaar wordt bepaald.
    >
    >Als u **[!UICONTROL Manual]** kiest, wordt de test verzonden en wordt gewacht tot u een winnaar hebt gedeclareerd. U ontvangt een rapport met de resultaten.
 
-Nu plannen [ de test A/B ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Nu plannen [&#x200B; de test A/B &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

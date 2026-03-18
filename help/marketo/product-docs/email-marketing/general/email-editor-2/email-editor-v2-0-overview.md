@@ -17,11 +17,11 @@ Overzicht van de klassieke e-maileditor.
 
 >[!IMPORTANT]
 >
->Hoewel er geen exacte datum is ingesteld, wordt de klassieke e-maileditor waarschijnlijk ergens in 2026 vervangen (we zullen een exacte datum bekendmaken wanneer deze er is). Het wordt sterk geadviseerd om met goedkeuring van geavanceerde [ E-mail Designer ](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} te beginnen, aangezien het vele mogelijkheden niet beschikbaar in de klassieke redacteur heeft.
+>Hoewel er geen exacte datum is ingesteld, wordt de klassieke e-maileditor waarschijnlijk ergens in 2026 vervangen (we zullen een exacte datum bekendmaken wanneer deze er is). Het wordt sterk geadviseerd om met goedkeuring van geavanceerde [&#x200B; E-mail Designer &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} te beginnen, aangezien het vele mogelijkheden niet beschikbaar in de klassieke redacteur heeft.
 
 **de Plukker van het Malplaatje E-mail**
 
-Wanneer u nieuwe e-mail creeert, wordt u genomen aan de [ Plukker van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Wanneer u nieuwe e-mail creeert, wordt u genomen aan de [&#x200B; Plukker van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -33,19 +33,19 @@ Wanneer u uw e-mail gaat bewerken, ziet u dat de editor een geheel nieuw uiterli
 
 **Modules**
 
-Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe te [ modules aan uw e-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) toevoegen.
+Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe te [&#x200B; modules aan uw e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) toevoegen.
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **Versie van de Tekst**
 
-Het schakelen tussen de HTML-versie en de tekstversie van uw e-mailbericht staat nu op een handig tabblad onderaan. Leer hoe te [ de tekstversie van e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md) uitgeven.
+Het schakelen tussen de HTML-versie en de tekstversie van uw e-mailbericht staat nu op een handig tabblad onderaan. Leer hoe te [&#x200B; de tekstversie van e-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md) uitgeven.
 
 ![](assets/email-editor-v2-overview-4.png)
 
 **E-mailkopbal**
 
-Wilt u meer ontwerpruimte? De e-mailkopbal kan worden verborgen nadat u [ het ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md) het uitgeven wordt gedaan. Klik gewoon op dit pictogram...
+Wilt u meer ontwerpruimte? De e-mailkopbal kan worden verborgen nadat u [&#x200B; het &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md) het uitgeven wordt gedaan. Klik gewoon op dit pictogram...
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -107,8 +107,8 @@ Veel geweldige nieuwe functies! Veel plezier!
 
 >[!NOTE]
 >
->Als u nog dieper wilt delven, controleer deze [ video ](https://nation.marketo.com/videos/1463).
+>Als u nog dieper wilt delven, controleer deze [&#x200B; video &#x200B;](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

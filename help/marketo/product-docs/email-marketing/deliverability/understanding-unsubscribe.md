@@ -15,11 +15,11 @@ ht-degree: 0%
 
 In Marketo zijn er verschillende soorten ingebouwde afmeldingsprogramma&#39;s. Ze worden allemaal vertegenwoordigd door velden op het object person, net als Voornaam.
 
-Al deze velden zijn ingebouwd in uw Marketo-abonnement. Ze zijn allemaal van het type Boolean (selectievakje). Zij kunnen in Forms worden gebruikt of [ de stroomstappen van de Waarde van Gegevens van de Verandering ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+Al deze velden zijn ingebouwd in uw Marketo-abonnement. Ze zijn allemaal van het type Boolean (selectievakje). Zij kunnen in Forms worden gebruikt of [&#x200B; de stroomstappen van de Waarde van Gegevens van de Verandering &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Niet geabonneerd {#unsubscribed}
 
-Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Zij zullen, echter, [ operationele e-mails ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ontvangen.
+Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Zij zullen, echter, [&#x200B; operationele e-mails &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ontvangen.
 
 ## Marketing opgeschort {#marketing-suspended}
 
@@ -35,6 +35,6 @@ Deze status verhindert een persoon 24 uur na een harde stuit te zenden. Na 24 uu
 
 ## Gevoegd op lijst van gewenste personen {#blocklisted}
 
-[ gebruik dit voor mensen als concurrenten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Iedereen u wilt ontvangen **geen** e-mail-operationeel, marketing, etc. Ze krijgen niets!
+[&#x200B; gebruik dit voor mensen als concurrenten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Iedereen u wilt ontvangen **geen** e-mail-operationeel, marketing, etc. Ze krijgen niets!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

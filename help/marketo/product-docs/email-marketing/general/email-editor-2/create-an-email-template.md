@@ -75,4 +75,4 @@ Als u uw e-mailsjabloon wilt aanpassen, checkt u het onderstaande artikel uit.
 
 >[!MORELIKETHIS]
 >
->[ Syntaxis van het Malplaatje E-mail ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[&#x200B; Syntaxis van het Malplaatje E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

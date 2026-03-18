@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [ bepaalt een Publiek met een Slimme Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [ bepaalt een Publiek door een Lijst ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) in te voeren
+>* [&#x200B; creeer een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [&#x200B; bepaalt een Publiek met een Slimme Lijst &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [&#x200B; bepaalt een Publiek door een Lijst &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) in te voeren
 >
->* [ kies een Bestaande E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [ creeer een E-mail voor een E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [&#x200B; kies een Bestaande E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [&#x200B; creeer een E-mail voor een E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
->* [ Plan Uw E-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [&#x200B; Plan Uw E-mailprogramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 ## Uw e-mailprogramma goedkeuren {#approve-your-email-program}
 

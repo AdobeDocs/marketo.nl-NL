@@ -17,7 +17,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests i
 
 >[!PREREQUISITES]
 >
->[ voeg A/B Test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
+>[&#x200B; voeg A/B Test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) toe
 
 1. Klik onder **[!UICONTROL Email tile]** met de geselecteerde e-mail op **[!UICONTROL Add A/B Test]** .
 
@@ -47,4 +47,4 @@ U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests i
    >
    >De verschillende variaties van het onderwerp nemen zelfs delen van de geselecteerde Grootte van het Monster van de Test.
 
-   Oké, we zijn er bijna. Nu moeten wij [ de criteria van de A/B testwinnaar ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.
+   Oké, we zijn er bijna. Nu moeten wij [&#x200B; de criteria van de A/B testwinnaar &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) bepalen.

@@ -17,7 +17,7 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
 >[!PREREQUISITES]
 >
->[ vorm rapportalarm ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
+>[&#x200B; vorm rapportalarm &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -39,5 +39,5 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
    >[!MORELIKETHIS]
    >
-   >* [ Champion/Challenger: Verklaar een Champion ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
-   >* [ Champion/Challenger: Gooi een Test E-mail weg ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+   >* [&#x200B; Champion/Challenger: Verklaar een Champion &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [&#x200B; Champion/Challenger: Gooi een Test E-mail weg &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

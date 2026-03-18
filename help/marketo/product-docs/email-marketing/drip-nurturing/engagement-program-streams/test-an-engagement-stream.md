@@ -42,7 +42,7 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
    Klik op **[!UICONTROL Initial Stream]**, selecteer de stream die u wilt testen en klik op **[!UICONTROL Run Cast]** .
    ![](assets/five-rubiks.png)
 
-1. Nadat de persoon door de [ overgangsregels ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gaat u eerder opstelling, klikt het Refresh pictogram.
+1. Nadat de persoon door de [&#x200B; overgangsregels &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gaat u eerder opstelling, klikt het Refresh pictogram.
 
    ![](assets/six-rubiks.png)
 

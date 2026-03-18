@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave {#use-the-email-program-dashboard-a-b-test-view}
 
-Controle uit hoe uw [ e-mailprogramma A/B test ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) met dit dashboard presteert.
+Controle uit hoe uw [&#x200B; e-mailprogramma A/B test &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) met dit dashboard presteert.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
@@ -45,4 +45,4 @@ Koel dashboard, denk je niet?
 
 >[!MORELIKETHIS]
 >
->[ Gebruik het Dashboard van het E-mailProgramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>[&#x200B; Gebruik het Dashboard van het E-mailProgramma &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

@@ -39,4 +39,4 @@ Als u extra en persoonspecifieke parameters in uw koppelingen wilt invoegen, kun
 
 >[!MORELIKETHIS]
 >
->[ Gebruikend URLs in Mijn Tokens ](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[&#x200B; Gebruikend URLs in Mijn Tokens &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Stream-inhoud verwijderen {#remove-stream-content}
 
-U kunt inhoud verwijderen of archiveren. In tegenstelling tot het verwijderen van stroominhoud, [ bewaart het archiveren ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) alle geschiedenis verbonden aan de inhoud. Als je de historische status van wat inhoud wilt verliezen en verwijderen, is dit hoe je het moet doen.
+U kunt inhoud verwijderen of archiveren. In tegenstelling tot het verwijderen van stroominhoud, [&#x200B; bewaart het archiveren &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) alle geschiedenis verbonden aan de inhoud. Als je de historische status van wat inhoud wilt verliezen en verwijderen, is dit hoe je het moet doen.
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 
@@ -29,6 +29,6 @@ U kunt inhoud verwijderen of archiveren. In tegenstelling tot het verwijderen va
 
    >[!CAUTION]
    >
-   >Inhoud alleen verwijderen als dit niets met de geschiedenis te maken heeft. Als u geschiedenis wilt bewaren, [ archiveer ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) het in plaats daarvan.
+   >Inhoud alleen verwijderen als dit niets met de geschiedenis te maken heeft. Als u geschiedenis wilt bewaren, [&#x200B; archiveer &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) het in plaats daarvan.
 
    Dat is het! Nu weet u hoe u een stuk inhoud kunt verwijderen.
