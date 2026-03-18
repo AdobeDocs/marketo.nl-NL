@@ -37,4 +37,4 @@ Voeg een identiteit toe wanneer u meerdere e-mailadressen hebt om van te verzend
 
 >[!MORELIKETHIS]
 >
->[ voeg Uw E-mailhandtekening ](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md) toe.
+>[&#x200B; voeg Uw E-mailhandtekening &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md) toe.

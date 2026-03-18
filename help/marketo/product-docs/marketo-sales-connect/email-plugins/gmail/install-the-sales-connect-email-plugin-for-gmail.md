@@ -19,7 +19,7 @@ Leer hoe u de Gmail-plug-in installeert.
 >
 >De e-mailplug-ins voor Gmail en Outlook worden alleen ondersteund voor Marketo Sales Connect-gebruikers. Zij worden **niet** gesteund voor de gebruikers van de Acties van Insight van de Verkoop.
 
-1. In de [ Webtoepassing ](https://toutapp.com/next#settings), klik het tandwielpictogram en klik **[!UICONTROL Settings]**.
+1. In de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/next#settings), klik het tandwielpictogram en klik **[!UICONTROL Settings]**.
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-1.png)
 

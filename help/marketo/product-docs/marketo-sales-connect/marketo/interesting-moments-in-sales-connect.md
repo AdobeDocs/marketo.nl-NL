@@ -17,13 +17,13 @@ Interesserende momenten zijn de sleutel tot communicatie met uw verkoopteam via 
 
 >[!AVAILABILITY]
 >
->Deze zijn beschikbaar aan [ Marketo Verkoop Insight ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) en [!DNL Marketo Sales Connect] slechts klanten.
+>Deze zijn beschikbaar aan [&#x200B; Marketo Verkoop Insight &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) en [!DNL Marketo Sales Connect] slechts klanten.
 
 >[!PREREQUISITES]
 >
->* U moet a [ verbinding aan Salesforce CRM ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} hebben
+>* U moet a [&#x200B; verbinding aan Salesforce CRM &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} hebben
 >* U moet de leider of de contacteigenaar in Salesforce zijn
->* U moet toegang tot [ verlenen toegang tot de verbinding van Marketo Engage ](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"} hebben
+>* U moet toegang tot [&#x200B; verlenen toegang tot de verbinding van Marketo Engage &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"} hebben
 
 ## Wat is een interessant moment? {#what-is-an-interesting-moment}
 
@@ -35,7 +35,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment? {#how-do-i-create-an-interesting-moment}
 
-1. Kies a [ slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één uw verkoopteam interessant zou vinden als teweeggebracht.
+1. Kies a [&#x200B; slimme campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één uw verkoopteam interessant zou vinden als teweeggebracht.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -57,7 +57,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-De interessante momenten zullen in het activiteitenlogboek van het a [ lood ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) worden getoond.
+De interessante momenten zullen in het activiteitenlogboek van het a [&#x200B; lood &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) worden getoond.
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

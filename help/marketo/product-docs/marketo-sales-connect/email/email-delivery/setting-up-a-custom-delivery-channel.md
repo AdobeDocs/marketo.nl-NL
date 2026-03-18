@@ -19,13 +19,13 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 
 >[!NOTE]
 >
->* Naast vestiging uw server SMTP, moet uw [ e-mailidentiteit worden geverifieerd ](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) alvorens u e-mails kunt verzenden.
+>* Naast vestiging uw server SMTP, moet uw [&#x200B; e-mailidentiteit worden geverifieerd &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) alvorens u e-mails kunt verzenden.
 >* Wij adviseren werkend met uw team van IT of SMTP serververkoper om de juiste servergeloofsbrieven voor uw server te krijgen SMTP.
 >* U kunt uw Gmail en [!DNL Exchange] server niet verbinden gebruikend de SMTP servergeloofsbrieven. Gebruik onze E-mailverbindingsservice om deze providers te integreren.
 
 ## Aangepaste SMTP {#custom-smtp}
 
-1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
+1. Login aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
@@ -71,7 +71,7 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 >
 >**Vereiste Bevoegdheden Admin**
 
-1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
+1. Login aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -93,6 +93,6 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 
    >[!MORELIKETHIS]
    >
-   >* [ E-mailVerbinding voor de Gebruikers van Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+   >* [&#x200B; E-mailVerbinding voor de Gebruikers van Gmail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
-   >* [ E-mailVerbinding voor  [!DNL Outlook]  Gebruikers ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [&#x200B; E-mailVerbinding voor  [!DNL Outlook]  Gebruikers &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

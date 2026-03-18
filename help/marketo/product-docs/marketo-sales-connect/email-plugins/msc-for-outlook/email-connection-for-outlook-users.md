@@ -80,7 +80,7 @@ Als u verbinding maakt met [!DNL Outlook], ontvangt u tracering van antwoorden, 
 
    >[!NOTE]
    >
-   >[!DNL Outlook Online (Office365)] handhaaft zijn eigen verzendingsgrenzen. [ leer hier meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >[!DNL Outlook Online (Office365)] handhaaft zijn eigen verzendingsgrenzen. [&#x200B; leer hier meer &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Verbinding maken met [!DNL Exchange On-Premise] {#connecting-to-exchange-on-premise}
 

@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 ## Een groepse-e-mail bewerken {#editing-a-group-email}
 
-1. Creeer een groep e-mail gebruikend [ Stappen 1-3 hierboven ](#sending-a-group-email).
+1. Creeer een groep e-mail gebruikend [&#x200B; Stappen 1-3 hierboven &#x200B;](#sending-a-group-email).
 
 1. Kies een sjabloon of vul uw e-mail in.
 
@@ -59,5 +59,5 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 >[!MORELIKETHIS]
 >
->* [ Bulk die Opties ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md) verzendt
->* [ Gebruikend een Malplaatje in Samenstellen Venster ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [&#x200B; Bulk die Opties &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md) verzendt
+>* [&#x200B; Gebruikend een Malplaatje in Samenstellen Venster &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

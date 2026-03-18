@@ -16,7 +16,7 @@ ht-degree: 0%
 Hieronder vindt u informatie over updates voor Marketo Sales Connect-aanpassingen voor [!DNL Salesforce] .
 
 **Versie 1**
-De Gebieden van de activiteit, de Gebieden van het Contact, de Gebieden van het Lood, de Gebieden van de Rekening, de Gebieden van de Opportunity, Knopen, [ deze Gebieden van Marketo ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+De Gebieden van de activiteit, de Gebieden van het Contact, de Gebieden van het Lood, de Gebieden van de Rekening, de Gebieden van de Opportunity, Knopen, [&#x200B; deze Gebieden van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **Versie 1.1**
 Activiteitenvelden, Contactvelden, Lead Fields, Account Fields, Opportunity Fields, Buttons, Marketo Fields zijn nu beschikbaar in paginalay-out voor [!DNL Salesforce Lightning] .

@@ -18,9 +18,9 @@ Met Sales Connect kunt u de antwoorden van uw vooruitzichten automatisch laten r
 ## Vereisten {#requirements}
 
 * E-mails via API-registratie moeten worden geregistreerd
-* Moet [ een antwoord ](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md) kunnen volgen
+* Moet [&#x200B; een antwoord &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md) kunnen volgen
 * Moet zijn verbonden met [!DNL Salesforce]
-* Moet [!DNL Salesforce] [ API vraag ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
+* Moet [!DNL Salesforce] [&#x200B; API vraag &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
 
 ## Logboekregistratie voor reactie inschakelen {#enable-reply-logging}
 

@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # Gmail niet in handtekening van Sales Connect {#gmail-not-pulling-in-sales-connect-signature}
 
-Wij gebruiken eigenlijk uw handtekening Gmail in Gmail, in tegenstelling tot het opnemen van uw [[!DNL Sales Connect]  handtekening ](https://toutapp.com/next#settings).
+Wij gebruiken eigenlijk uw handtekening Gmail in Gmail, in tegenstelling tot het opnemen van uw [[!DNL Sales Connect]  handtekening &#x200B;](https://toutapp.com/next#settings).
 
-U kunt uw handtekening in Gmail [ hier ](https://mail.google.com/mail/u/0/#settings/general) uitgeven.
+U kunt uw handtekening in Gmail [&#x200B; hier &#x200B;](https://mail.google.com/mail/u/0/#settings/general) uitgeven.

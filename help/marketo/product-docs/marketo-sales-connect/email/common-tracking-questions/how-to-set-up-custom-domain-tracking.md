@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Wij geven u de optie om het volgen van het douanedomein voor uw verbindingen te vormen, zodat wanneer iemand over een verbinding hangt, zal het &quot;gaan.yourcompany.com&quot;in plaats van &quot;go.toutapp.com&quot;lezen.
 
-Om deze opstelling te plaatsen, moet uw beheerder van IT de stappen volgen die in onze [ worden vermeld montagespagina ](https://toutapp.com/custom_tracking_domain).
+Om deze opstelling te plaatsen, moet uw beheerder van IT de stappen volgen die in onze [&#x200B; worden vermeld montagespagina &#x200B;](https://toutapp.com/custom_tracking_domain).
 
 Zodra u deze opstelling hebt, zullen wij lijst van gewenste personen om het even welke verbinding u in uw e-mail hebt om als &quot;go.yourcompany.com&quot;te verschijnen.

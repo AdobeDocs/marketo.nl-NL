@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Hoe [!DNL Sales Connect] het dedupliceren van e-mail afhandelt {#how-sales-connect-handles-email-de-duping}
 
-Wanneer u [ een CSV ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) dossier in [!DNL Sales Connect] uploadt, voegen wij allen als contacten in CSV samen alvorens de invoer plaatsvindt.
+Wanneer u [&#x200B; een CSV &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) dossier in [!DNL Sales Connect] uploadt, voegen wij allen als contacten in CSV samen alvorens de invoer plaatsvindt.
 
 Dit doen we op basis van hetzelfde e-mailadres. Dus als er twee identieke e-mailadressen zijn, voegen we deze samen tot één contactpersoon.
 

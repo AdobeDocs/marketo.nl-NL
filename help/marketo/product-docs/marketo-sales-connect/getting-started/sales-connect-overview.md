@@ -21,13 +21,13 @@ Marketo Sales Connect is een veelzijdige oplossing voor verkoopondersteuning met
 
 ## De Live feed {#the-live-feed}
 
-De vertegenwoordigers van de verkoop kunnen [ betrokkenheid in real time ](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) van zowel marketing als verkoopinhoud bekijken.
+De vertegenwoordigers van de verkoop kunnen [&#x200B; betrokkenheid in real time &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) van zowel marketing als verkoopinhoud bekijken.
 
 ![](assets/engagement.jpg)
 
 ## Persoonsgegevens weergeven {#person-detail-view}
 
-De toegang [ gedetailleerde personenstatistieken ](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+De toegang [&#x200B; gedetailleerde personenstatistieken &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -80,7 +80,7 @@ Zie hoe je verkoopkansen in huis hebben.
 
 ## Marketing-campagnes delen {#share-marketing-campaigns}
 
-Creeer een eenvoudige slimme campagne om uw verkoopgebruikers toegang tot [ de campagnegegevens van Marketo ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) te geven.
+Creeer een eenvoudige slimme campagne om uw verkoopgebruikers toegang tot [&#x200B; de campagnegegevens van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) te geven.
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -88,4 +88,4 @@ Klaar om aan de slag te gaan? Klik op de onderstaande koppeling voor installatie
 
 >[!MORELIKETHIS]
 >
->[ Begonnen Gids voor Verkoop Connect Admins ](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
+>[&#x200B; Begonnen Gids voor Verkoop Connect Admins &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

@@ -20,13 +20,13 @@ Dit document begeleidt u door de eerste stappen voor het instellen van de nieuwe
 
 ## Toegang tot uw nieuwe Marketo Sales Connect-account {#accessing-your-new-marketo-sales-connect-account}
 
-Als u Marketo Sales Connect hebt aangeschaft, wordt de toegang tot uw exemplaar ingericht via het gedeelte voor beheerders van Marketo. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"} om instructies op te zien hoe een beheerder van Marketo toegang tot uw nieuwe instantie kan verstrekken.
+Als u Marketo Sales Connect hebt aangeschaft, wordt de toegang tot uw exemplaar ingericht via het gedeelte voor beheerders van Marketo. [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"} om instructies op te zien hoe een beheerder van Marketo toegang tot uw nieuwe instantie kan verstrekken.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
 ## Gebruikers uitnodigen en beheren {#inviting-and-managing-users}
 
-Zodra u uw Marketo Sales Connect-account van Marketo hebt ingericht en uw eerste beheerder hebt uitgenodigd, kan die beheerder extra gebruikers uitnodigen via de Marketo Sales Connect-pagina voor gebruikersbeheer. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} om te zien hoe te om gebruikers van de pagina van het gebruikersbeheer uit te nodigen.
+Zodra u uw Marketo Sales Connect-account van Marketo hebt ingericht en uw eerste beheerder hebt uitgenodigd, kan die beheerder extra gebruikers uitnodigen via de Marketo Sales Connect-pagina voor gebruikersbeheer. [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"} om te zien hoe te om gebruikers van de pagina van het gebruikersbeheer uit te nodigen.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
@@ -34,7 +34,7 @@ Zodra u uw Marketo Sales Connect-account van Marketo hebt ingericht en uw eerste
 
 Alle gebruikers zullen individueel met [!DNL Salesforce] moeten verbinden om logboekverkoopactiviteiten toe te laten om zoals e-mail, vraag, en taken te verkopen. Wanneer u echter verbinding maakt met Salesforce als beheerder, hebt u de gelegenheid om uw instellingen voor het registreren van activiteiten voor uw gehele team te configureren, zodat algemene loginstellingen worden toegepast op alle [!DNL Sales Connect] -gebruikers.
 
-Om uw exemplaar van de Verkoop aan uw instantie van Salesforce, als Admin of niet-Admin aan te sluiten, volg de stappen in [ dit artikel ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}.
+Om uw exemplaar van de Verkoop aan uw instantie van Salesforce, als Admin of niet-Admin aan te sluiten, volg de stappen in [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}.
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -42,17 +42,17 @@ Om uw exemplaar van de Verkoop aan uw instantie van Salesforce, als Admin of nie
 
 Als je je op Marketo aansluit, kunnen je verkopers gebruikmaken van de kracht van marketing, automatisering en marketing inzichten in hun prospectieve activiteiten. Voor de volgende functies moet u een integratie met Marketo instellen.
 
-* Deel [ marketing campagnes ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md){target="_blank"} met verkopers
-* Duw [ Interesserende Momenten ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} aan Levende Diervoed
+* Deel [&#x200B; marketing campagnes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md){target="_blank"} met verkopers
+* Duw [&#x200B; Interesserende Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"} aan Levende Diervoed
 * Aanmelden van verkoopactiviteiten aan Marketo
 
-Meer over leren hoe te met Marketo te verbinden en verkoopgebruikers toegang tot de verbinding te verlenen, [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
+Meer over leren hoe te met Marketo te verbinden en verkoopgebruikers toegang tot de verbinding te verlenen, [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}.
 
 ## [!DNL Salesforce] Aanpassingspakket installeren {#installing-salesforce-customization-package}
 
 Een deel van het ervoor zorgen dat verkoop voor succes wordt toegelaten betekent het hebben van de juiste mogelijkheden in hun primaire werkruimte. Met het aanpassingspakket voor Sales Connect kunnen servicemogelijkheden en belangrijke kenmerken voor verkoopactiviteiten vanuit Salesforce worden benaderd.
 
-Meer over het installeren van de Aanpassing van de Verkoop Connect [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
+Meer over het installeren van de Aanpassing van de Verkoop Connect [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md){target="_blank"}.
 
 ## Testen in sandbox {#testing-in-sandbox}
 
@@ -64,4 +64,4 @@ Voor teams die Marketo Sales Connect willen testen met hun Marketo-sandbox, kan 
 
 >[!MORELIKETHIS]
 >
->[ Admin voorrechten ](/help/marketo/product-docs/marketo-sales-connect/admin/user-access-details.md){target="_blank"}
+>[&#x200B; Admin voorrechten &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/user-access-details.md){target="_blank"}

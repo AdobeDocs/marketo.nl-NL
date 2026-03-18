@@ -23,7 +23,7 @@ Wanneer [!UICONTROL Sharing Settings] is ingeschakeld, kunnen alleen beheerders 
 
 ## Uw instellingen voor delen configureren {#configure-your-sharing-settings}
 
-1. In de [ Webtoepassing ](https://toutapp.com/login), ga naar de [!UICONTROL Settings] pagina.
+1. In de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), ga naar de [!UICONTROL Settings] pagina.
 
    ![](assets/one-2.png)
 

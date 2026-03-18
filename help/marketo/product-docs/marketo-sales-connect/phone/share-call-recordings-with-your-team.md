@@ -17,7 +17,7 @@ De Telefoon van de verkoop geeft u de capaciteit om uw vraagopnamen te registrer
 
 ## De Verbinding van de Opname van het exemplaar van de Details van de Persoon in de Toepassing van het Web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Navigeer aan de [ Webtoepassing ](https://toutapp.com/login).
+1. Navigeer aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login).
 
 1. Open de persoonlijke gegevens.
 

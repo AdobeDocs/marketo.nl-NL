@@ -23,7 +23,7 @@ De meest voorkomende reden voor een verbroken Gmail-verbinding is een onbedoelde
 
 Aanmelden als een andere [!DNL Chrome] gebruiker (aanbevolen)
 
-Klik [ deze verbinding ](https://support.google.com/chrome/answer/2364824?hl=en) om te lezen hoe te om een ander [!DNL Chrome] Profiel tot stand te brengen.
+Klik [&#x200B; deze verbinding &#x200B;](https://support.google.com/chrome/answer/2364824?hl=en) om te lezen hoe te om een ander [!DNL Chrome] Profiel tot stand te brengen.
 
 **Pros**: Het ondertekenen binnen als een andere gebruiker zal een nieuw geval van [!DNL Chrome] openen. Deze instantie is een gloednieuw venster van [!DNL Chrome] en geen van uw oude extensies bestaat in deze instantie. Het houdt ook cookies bij zodat u zich niet telkens bij uw Gmail hoeft aan te melden.
 

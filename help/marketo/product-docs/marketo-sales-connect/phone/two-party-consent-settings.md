@@ -17,7 +17,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
 >[!PREREQUISITES]
 >
->Alvorens de stappen hieronder te volgen, moet u vraagopname [ eerst ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) toelaten.
+>Alvorens de stappen hieronder te volgen, moet u vraagopname [&#x200B; eerst &#x200B;](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) toelaten.
 
 1. Klik op het pictogram Instellingen en selecteer **[!UICONTROL Settings]** .
 

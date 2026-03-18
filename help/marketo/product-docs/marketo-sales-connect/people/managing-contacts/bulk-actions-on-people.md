@@ -37,7 +37,7 @@ Wij wijzen automatisch een bron aan elk contact toe dat het gegevensbestand inga
 
 ## Toestemming {#authorization}
 
-In overeenstemming met [ GDPR ](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
+In overeenstemming met [&#x200B; GDPR &#x200B;](https://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
 
 ![](assets/authorization.png)
 
@@ -49,6 +49,6 @@ Voer een bulksgewijs abonnement op contacten uit die niet meer correspondentie v
 
 ## Verwijderen {#delete}
 
-Contactpersonen bulksgewijs verwijderen. De volledige stappen kunnen [ hier ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md) worden gevonden.
+Contactpersonen bulksgewijs verwijderen. De volledige stappen kunnen [&#x200B; hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md) worden gevonden.
 
 ![](assets/delete.png)

@@ -21,10 +21,10 @@ Uit onze ervaring kunt u het volgende proberen als uw werkbalk niet wordt weerge
 
 - Dit kan duidelijk zijn, maar probeer uit uw browser weg te gaan en een volledig nieuw venster te openen.
 
-- Hoofd over aan de [ Webtoepassing ](https://toutapp.com/login) en zorg ervoor u daar het programma wordt geopend.
+- Hoofd over aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) en zorg ervoor u daar het programma wordt geopend.
 
 - Zorg ervoor dat cookies zijn ingeschakeld. Als u [!DNL Chrome] gebruikt, gaat u naar [!UICONTROL Settings] > [!UICONTROL Show advanced settings] > [!UICONTROL Content settings] > &quot;[!UICONTROL Block third-party cookies and site data]&quot; uitschakelen.
 
 - Probeer de verbinding te verbreken en de browserextensie van [!DNL Sales Connect] opnieuw te verbinden.
 
-Als geen van bovenstaande uiteinden hielp, gelieve [ een geval ](https://nation.marketo.com/community/support_solutions) aan Steun voor te leggen.
+Als geen van bovenstaande uiteinden hielp, gelieve [&#x200B; een geval &#x200B;](https://nation.marketo.com/community/support_solutions) aan Steun voor te leggen.

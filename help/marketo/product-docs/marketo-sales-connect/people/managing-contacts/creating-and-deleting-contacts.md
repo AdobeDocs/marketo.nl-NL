@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Wilt u meerdere contactpersonen tegelijk toevoegen? [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) om te leren hoe te om contacten via CSV in te voeren.
+   >Wilt u meerdere contactpersonen tegelijk toevoegen? [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) om te leren hoe te om contacten via CSV in te voeren.
 
 ## Contactpersonen verwijderen {#deleting-contacts}
 

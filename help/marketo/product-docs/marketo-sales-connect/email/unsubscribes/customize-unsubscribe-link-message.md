@@ -21,7 +21,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 ## Overseinen aanpassen voor uzelf {#customize-messaging-for-yourself}
 
-1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
+1. Login aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 ## Abonnementsberichten voor uw team instellen {#set-unsubscribe-messaging-for-your-team}
 
-1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
+1. Login aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/six.png)
 

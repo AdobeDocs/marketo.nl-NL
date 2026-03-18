@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Uw e-mailbijlagen bijhouden {#how-to-track-your-email-attachments}
 
-[!DNL Sales Connect] biedt tracering op uw bijlagen (.doc, .ppt, .pdf) zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s uw ontvanger doorzoekt. Wij zullen u toestaan om onze volgbare gehechtheid van zowel de [ Webtoepassing ](https://toutapp.com/login) als Gmail (of de Apps van Google) te gebruiken.
+[!DNL Sales Connect] biedt tracering op uw bijlagen (.doc, .ppt, .pdf) zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s uw ontvanger doorzoekt. Wij zullen u toestaan om onze volgbare gehechtheid van zowel de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) als Gmail (of de Apps van Google) te gebruiken.
 
 >[!NOTE]
 >

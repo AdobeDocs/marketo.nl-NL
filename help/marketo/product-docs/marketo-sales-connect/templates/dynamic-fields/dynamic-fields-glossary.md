@@ -39,4 +39,4 @@ Met dit gereedschap kunt u `auto-personalize your email` gebruiken en tonnen tij
 
 >[!TIP]
 >
->U kunt uw eigen [ douane dynamisch gebied ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) voor om het even wat tot stand brengen u in uw e-mails automatisch zou willen hebben getrokken
+>U kunt uw eigen [&#x200B; douane dynamisch gebied &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) voor om het even wat tot stand brengen u in uw e-mails automatisch zou willen hebben getrokken

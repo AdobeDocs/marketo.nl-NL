@@ -29,7 +29,7 @@ Er zijn twee manieren om aangepaste dynamische velden te maken.
 
 1. Maak een CSV-werkblad met uw aangepaste velden in een eigen kolom.
 
-1. Volg het [ normale CSV uploadproces ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md), die op het scherm van de gebiedstoewijzing tegenhouden.
+1. Volg het [&#x200B; normale CSV uploadproces &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md), die op het scherm van de gebiedstoewijzing tegenhouden.
 
 1. Kies in de vervolgkeuzelijst de optie **[!UICONTROL Add a new Custom Field]** in plaats van een van de vooraf ingestelde velden.
 
@@ -45,7 +45,7 @@ Er zijn twee manieren om aangepaste dynamische velden te maken.
 
 Zodra uw aangepaste velden zijn opgeslagen met de bovenstaande methoden, kunt u ernaar verwijzen in uw sjablonen.
 
-1. [ creeer een malplaatje ](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) en klik de **[!UICONTROL Dynamic Fields]** knoop zoals u normaal zou doen.
+1. [&#x200B; creeer een malplaatje &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) en klik de **[!UICONTROL Dynamic Fields]** knoop zoals u normaal zou doen.
 
 1. Selecteer **[!UICONTROL Custom Fields]** in de vervolgkeuzelijst die wordt weergegeven.
 

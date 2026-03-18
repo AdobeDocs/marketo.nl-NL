@@ -39,7 +39,7 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 
 ## Wachtwoord wijzigen bij afmelding {#change-your-password-while-signed-out}
 
-1. Navigeer aan de [ Verkoop Connect login ](https://toutapp.com/login) pagina en klik **[!UICONTROL Forgot password?]**.
+1. Navigeer aan de [&#x200B; Verkoop Connect login &#x200B;](https://toutapp.com/login) pagina en klik **[!UICONTROL Forgot password?]**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 

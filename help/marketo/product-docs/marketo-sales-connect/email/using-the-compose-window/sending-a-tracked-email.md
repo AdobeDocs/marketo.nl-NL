@@ -19,8 +19,8 @@ Als u een e-mailbericht verzendt met [!DNL Marketo Sales Connect] , worden de we
 >
 >U moet een identiteit laten verifiëren en een e-mailleveringskanaal instellen voordat u een bijgehouden e-mail verzendt.
 >
->* [ verifieer uw e-mailadres ](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Opstelling een Kanaal van de Levering voor [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [ Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [&#x200B; verifieer uw e-mailadres &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Opstelling een Kanaal van de Levering voor [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [&#x200B; Gmail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 1. Maak uw e-mailconcept (hiervoor zijn meerdere manieren, in dit voorbeeld kiezen we **[!UICONTROL Compose]** in de koptekst).
 
@@ -50,11 +50,11 @@ Als u een e-mailbericht verzendt met [!DNL Marketo Sales Connect] , worden de we
    >
    >Een onderwerpregel en een ontvanger zijn vereist om de e-mail te verzenden. Wij zullen **automatisch uw ontwerp** bewaren zodra een onderwerpregel en een ontvanger zijn toegevoegd.
 
-1. Stel uw e-mail samen met de editor. Klik **[!UICONTROL Send]** (of [ Programma ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), als u verkiest) wanneer gedaan.
+1. Stel uw e-mail samen met de editor. Klik **[!UICONTROL Send]** (of [&#x200B; Programma &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), als u verkiest) wanneer gedaan.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >* [ Plannend een E-mail ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [ Malplaatjes ](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [&#x200B; Plannend een E-mail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [&#x200B; Malplaatjes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)

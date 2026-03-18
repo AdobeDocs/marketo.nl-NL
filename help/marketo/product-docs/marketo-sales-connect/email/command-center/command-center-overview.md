@@ -94,6 +94,6 @@ Bonus: als u uw geavanceerde zoekopdracht opslaat, werkt deze als een dynamische
 
 >[!MORELIKETHIS]
 >
->* [ Taken ](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [ Geavanceerd Overzicht van het Onderzoek ](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [ Samenstellend Bulk E-mail met Uitgezocht en verzendt ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [&#x200B; Taken &#x200B;](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [&#x200B; Geavanceerd Overzicht van het Onderzoek &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [&#x200B; Samenstellend Bulk E-mail met Uitgezocht en verzendt &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

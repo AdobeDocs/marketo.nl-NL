@@ -21,7 +21,7 @@ Voer de volgende eenvoudige stappen uit om [!DNL Sales Connect] te verbinden met
 
    ![](assets/one.png)
 
-1. Klik onder [!UICONTROL  Admin Settings] op **[!UICONTROL Salesforce]** .
+1. Klik onder [!UICONTROL &#x200B; Admin Settings] op **[!UICONTROL Salesforce]** .
 
    ![](assets/six.png)
 
