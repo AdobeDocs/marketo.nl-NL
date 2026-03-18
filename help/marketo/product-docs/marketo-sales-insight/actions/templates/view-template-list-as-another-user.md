@@ -34,4 +34,4 @@ Als beheerder kunt u sjablonen weergeven als elke gebruiker.
 
    >[!NOTE]
    >
-   >U kunt ook filters of de zoekfunctie gebruiken in combinatie met _[!UICONTROL View As]_om te zien wat voor u het meest relevant is.
+   >U kunt ook filters of de zoekfunctie gebruiken in combinatie met _[!UICONTROL View As]_&#x200B;om te zien wat voor u het meest relevant is.

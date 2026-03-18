@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # De Marketo Add-in voor [!DNL Outlook] installeren met een Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams verantwoordelijk voor de installatie van alle software op afstand. De Marketo Add-in voor Outlook kan op deze manier worden geïnstalleerd met behulp van uw Enterprise Key, die u vindt in de sectie Sales Insight van Admin. Als u niet de Belangrijkste knoop van de Onderneming van de Mening ziet, contacteer [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) om het toe te laten.
+Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams verantwoordelijk voor de installatie van alle software op afstand. De Marketo Add-in voor Outlook kan op deze manier worden geïnstalleerd met behulp van uw Enterprise Key, die u vindt in de sectie Sales Insight van Admin. Als u niet de Belangrijkste knoop van de Onderneming van de Mening ziet, contacteer [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) om het toe te laten.
 
 >[!PREREQUISITES]
 >
->Admin moet [ een Marketo E-mail toe:voegen-binnen Vergunning hebben uitgegeven ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>Admin moet [&#x200B; een Marketo E-mail toe:voegen-binnen Vergunning hebben uitgegeven &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams ver
 
 >[!IMPORTANT]
 >
->Microsoft heeft a [ nieuwe versie van Vooruitzichten voor Vensters ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} vrijgegeven. Deze nieuwe versie steunt niet de bestaande stop van Vooruitzichten MSI. De insteekmodule MSI Outlook blijft werken voor Windows-desktops met de klassieke versie van Outlook. Meer over de nieuwe Vooruitzichten voor Vensters voor organisaties leren, [ klik hier ](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft heeft a [&#x200B; nieuwe versie van Vooruitzichten voor Vensters &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} vrijgegeven. Deze nieuwe versie steunt niet de bestaande stop van Vooruitzichten MSI. De insteekmodule MSI Outlook blijft werken voor Windows-desktops met de klassieke versie van Outlook. Meer over de nieuwe Vooruitzichten voor Vensters voor organisaties leren, [&#x200B; klik hier &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Klik in Mijn Marketo op **[!UICONTROL Admin]** en vervolgens op **[!UICONTROL Sales Insight]** .
 
@@ -39,8 +39,8 @@ Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams ver
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. Kopieer de [!DNL Outlook Enterprise] Sleutel van de Vergunning en kleef het in e-mail, samen met [ deze verbinding ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md), en verzend het naar uw afdeling van IT voor verre installatie.
+1. Kopieer de [!DNL Outlook Enterprise] Sleutel van de Vergunning en kleef het in e-mail, samen met [&#x200B; deze verbinding &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md), en verzend het naar uw afdeling van IT voor verre installatie.
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   Dat is alles! Daarna, zal de verkoopvertegenwoordiger door het [ registratieproces ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) gaan.
+   Dat is alles! Daarna, zal de verkoopvertegenwoordiger door het [&#x200B; registratieproces &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) gaan.

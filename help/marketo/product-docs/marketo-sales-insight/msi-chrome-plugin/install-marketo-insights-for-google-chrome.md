@@ -19,7 +19,7 @@ Voer de volgende stappen uit om de krachtige Chrome-add-in te gaan gebruiken. U 
 >
 >De mogelijkheden van Handelingen van Insight van de verkoop, met inbegrip van Verkoop E-mail verzenden, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de de e-mailplug-ins van de Verkoop Insight voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight kopen gebruiken.
 
-1. Installeer de [ Inzichten van Marketo voor Google Chrome toevoegen in uitbreiding ](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} van de Opslag van het Web van Chrome.
+1. Installeer de [&#x200B; Inzichten van Marketo voor Google Chrome toevoegen in uitbreiding &#x200B;](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} van de Opslag van het Web van Chrome.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -37,7 +37,7 @@ Voer de volgende stappen uit om de krachtige Chrome-add-in te gaan gebruiken. U 
 
    >[!NOTE]
    >
-   >De code van Reg zal in e-mail zijn die wordt verzonden nadat een Admin van Marketo [ u een Vergunning van de E-mail toe:voegen-binnen van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"} uitgeeft. **het verloopt na 14 dagen**.
+   >De code van Reg zal in e-mail zijn die wordt verzonden nadat een Admin van Marketo [&#x200B; u een Vergunning van de E-mail toe:voegen-binnen van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"} uitgeeft. **het verloopt na 14 dagen**.
 
 1. Klik op **[!UICONTROL Allow]** om offline toegang toe te staan.
 
@@ -45,4 +45,4 @@ Voer de volgende stappen uit om de krachtige Chrome-add-in te gaan gebruiken. U 
 
 >[!MORELIKETHIS]
 >
->[ Gebruikend de Inzichten van Marketo voor Google Chrome ](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}
+>[&#x200B; Gebruikend de Inzichten van Marketo voor Google Chrome &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md){target="_blank"}

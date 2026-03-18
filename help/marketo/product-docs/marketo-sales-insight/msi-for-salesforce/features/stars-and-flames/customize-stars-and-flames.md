@@ -37,7 +37,7 @@ In [!DNL Marketo Sales Insight] worden sterren en vlammen gebruikt om aan leads 
    >
    >**Definitie**
    >
-   >**[!UICONTROL Dynamic]** - is een percentagewaarde die uit [ relatieve gegevens ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
+   >**[!UICONTROL Dynamic]** - is een percentagewaarde die uit [&#x200B; relatieve gegevens &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
    >
    >**[!UICONTROL Static]** - Hiermee kunt u exacte muzieknummers definiëren - geen percentages meer, geen geheime sauzen meer.
 

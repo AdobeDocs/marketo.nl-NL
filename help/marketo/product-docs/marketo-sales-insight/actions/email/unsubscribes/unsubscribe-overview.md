@@ -75,4 +75,4 @@ Met de [!UICONTROL Unsubscribe History] -kaart krijgen beheerders en gebruikers 
 
 >[!MORELIKETHIS]
 >
->[ pas Unsubscribe Bericht van de Verbinding ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md) aan
+>[&#x200B; pas Unsubscribe Bericht van de Verbinding &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md) aan

@@ -16,7 +16,7 @@ Met de instellingen voor Aanmeldingsbeheer kunnen beheerders de voorkeuren voor 
 
 >[!NOTE]
 >
->Standaard wordt de optie [!UICONTROL Salesforce Only] geselecteerd voor [!DNL Sales Insight Actions] -instanties. Wij adviseren dit het plaatsen zodat de gebruikers [ auto-login ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) van [!DNL Salesforce] kunnen.
+>Standaard wordt de optie [!UICONTROL Salesforce Only] geselecteerd voor [!DNL Sales Insight Actions] -instanties. Wij adviseren dit het plaatsen zodat de gebruikers [&#x200B; auto-login &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) van [!DNL Salesforce] kunnen.
 
 ## Aanmeldingsbeheerinstellingen bijwerken {#update-login-management-settings}
 
@@ -54,13 +54,13 @@ Wanneer gebruikers naar ons aanmeldingsscherm navigeren, voeren ze eerst hun e-m
 
 >[!NOTE]
 >
->Dit geldt alleen voor gebruikers die rechtstreeks naar het aanmeldingsscherm navigeren. De gebruikers die tot Acties van [!DNL Salesforce] toegang hebben zullen met [ auto-login ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) worden het programma geopend.
+>Dit geldt alleen voor gebruikers die rechtstreeks naar het aanmeldingsscherm navigeren. De gebruikers die tot Acties van [!DNL Salesforce] toegang hebben zullen met [&#x200B; auto-login &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) worden het programma geopend.
 
 ![](assets/login-management-settings-5.png)
 
 ### Hoe wordt gebruikersverificatie verwerkt voor handelingen wanneer een gebruiker toegang krijgt tot een functie Handelingen in Salesforce en &quot;Alleen Salesforce&quot; is geselecteerd? {#how-is-user-authentication-handled}
 
-Wanneer een gebruiker op een van de acties (Vraag, E-mail, Campagne, Taken, de Lijst van de Campagne enz.) klikt, gebruiken wij hun authentificatie van SFDC om hen automatisch in hun [!DNL Sales Insight Actions] rekening te registreren. Wij roepen deze authentificatie [ auto-login ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
+Wanneer een gebruiker op een van de acties (Vraag, E-mail, Campagne, Taken, de Lijst van de Campagne enz.) klikt, gebruiken wij hun authentificatie van SFDC om hen automatisch in hun [!DNL Sales Insight Actions] rekening te registreren. Wij roepen deze authentificatie [&#x200B; auto-login &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md).
 
 ## Veelgestelde vragen over alle aanmeldingsmethoden {#all-login-methods-faq}
 

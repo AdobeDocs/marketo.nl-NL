@@ -43,8 +43,8 @@ Mooi werk! Nu weet u hoe te om e-mails ter beschikking te stellen voor uw verkoo
 
 >[!NOTE]
 >
->[ Mijn Tokens ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) zullen niet oplossen wanneer het verzenden van een e-mail van [!DNL Sales Insight] op of [!DNL Microsoft Dynamics] of [!DNL Salesforce]; slechts zullen de standaardtokens bevolken (Lood, Bedrijf, enz.). Standaardwaarden voor tokens werken echter wel.
+>[&#x200B; Mijn Tokens &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) zullen niet oplossen wanneer het verzenden van een e-mail van [!DNL Sales Insight] op of [!DNL Microsoft Dynamics] of [!DNL Salesforce]; slechts zullen de standaardtokens bevolken (Lood, Bedrijf, enz.). Standaardwaarden voor tokens werken echter wel.
 
 >[!TIP]
 >
->Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [ een E-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.
+>Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe te [&#x200B; een E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goedkeuren.

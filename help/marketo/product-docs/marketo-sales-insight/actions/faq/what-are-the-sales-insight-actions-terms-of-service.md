@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Wat zijn de servicevoorwaarden van [!DNL Sales Insight Actions] ? {#what-are-the-sales-insight-actions-terms-of-service}
 
-De [!DNL Sales Insight Actions] Termen van de Dienst kunnen [ hier ](https://documents.marketo.com/toutapp/terms) worden gevonden.
+De [!DNL Sales Insight Actions] Termen van de Dienst kunnen [&#x200B; hier &#x200B;](https://documents.marketo.com/toutapp/terms) worden gevonden.
 
 >[!NOTE]
 >

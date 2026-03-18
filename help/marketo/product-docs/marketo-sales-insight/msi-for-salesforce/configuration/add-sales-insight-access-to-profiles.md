@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # [!DNL Sales Insight] Toegang tot profielen toevoegen {#add-sales-insight-access-to-profiles}
 
-Hieronder wordt beschreven hoe u een profiel maakt met toegang tot [!DNL Sales Insight] terwijl u de toegang voor andere profielen verwijdert. Dit is voor gebruikers die reeds het [[!DNL Sales Insight]  pakket van AppExchange ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
+Hieronder wordt beschreven hoe u een profiel maakt met toegang tot [!DNL Sales Insight] terwijl u de toegang voor andere profielen verwijdert. Dit is voor gebruikers die reeds het [[!DNL Sales Insight]  pakket van AppExchange &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} hebben geïnstalleerd.
 
 >[!IMPORTANT]
 >
->Als u eerder [!DNL Sales Insight] toegang tot alle profielen hebt verleend, moet u [ de toegang van het profielniveau ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze toestemmingsreeks te gebruiken.
+>Als u eerder [!DNL Sales Insight] toegang tot alle profielen hebt verleend, moet u [&#x200B; de toegang van het profielniveau &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze toestemmingsreeks te gebruiken.
 
 ## Een nieuw profiel maken voor [!DNL Sales Insight] {#create-a-new-profile-for-sales-insight}
 

@@ -83,7 +83,7 @@ U kunt ook updates voor Diervoeders voor leads ophalen via RSS-feed.  Met een RS
 
 >[!NOTE]
 >
->De beheerder van Marketo van uw bedrijf moet [ het voer van RSS ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
+>De beheerder van Marketo van uw bedrijf moet [&#x200B; het voer van RSS &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
 
 Voor RSS-updates hebt u twee dingen nodig: de RSS-koppeling en een RSS-voederlezer. U kunt de RSS-koppeling ophalen door op het RSS-pictogram in de lead feed te klikken:
 

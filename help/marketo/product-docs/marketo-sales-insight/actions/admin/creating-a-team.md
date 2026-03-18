@@ -16,7 +16,7 @@ Door een team te maken, kunt u een groep gebruikers samenstellen waarmee inhoud 
 
 ## Een team maken {#create-a-team}
 
-1. In de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
+1. In de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/creating-a-team-1.png)
 

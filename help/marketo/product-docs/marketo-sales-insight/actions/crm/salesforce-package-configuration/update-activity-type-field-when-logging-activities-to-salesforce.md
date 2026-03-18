@@ -32,7 +32,7 @@ Controleer eerst welke waarden u in uw Picklist van het Type van Taak (uit E-mai
 
 ### In Salesforce Lightning {#salesforce-lightning}
 
-1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
 1. Klik het tandwielpictogram in de hoogste juiste hoek en selecteer **Opstelling** > **Manager van Objecten**.
 1. Typ &quot;taak&quot; in het vak &#39;Snel zoeken&#39;.
 1. In het linkerpaneel, klik **Gebieden &amp; Verhoudingen**.
@@ -43,7 +43,7 @@ Controleer eerst welke waarden u in uw Picklist van het Type van Taak (uit E-mai
 
 ### In Salesforce Classic {#salesforce-classic}
 
-1. Navigeer aan [ Salesforce.com ](https://salesforce.com){target="_blank"}.
+1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com){target="_blank"}.
 1. Klik **>** Opstelling **>** aanpassen **>** Activiteiten **>** Gebieden van de Taak **.**
 1. Klik **Type**.
 1. Onder de Waarde van de Picklist van het Type van Taak, klik **Nieuw**.
@@ -58,6 +58,6 @@ Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de ove
 
 >[!MORELIKETHIS]
 >
->* [ het Registreren de Attributen van de Activiteit van de Verkoop aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
->* [ vorm de Aanpassing van het Detail van de Activiteit van Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
->* [ de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}
+>* [&#x200B; het Registreren de Attributen van de Activiteit van de Verkoop aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
+>* [&#x200B; vorm de Aanpassing van het Detail van de Activiteit van Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
+>* [&#x200B; de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

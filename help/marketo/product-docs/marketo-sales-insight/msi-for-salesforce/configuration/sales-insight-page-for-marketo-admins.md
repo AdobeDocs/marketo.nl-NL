@@ -56,11 +56,11 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld Loodscore om sterren en
 
    >[!TIP]
    >
-   >Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [ hen ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
+   >Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [&#x200B; hen &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) creëren.
 
    >[!MORELIKETHIS]
    >
-   >[ Sterren en Vlamjes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+   >[&#x200B; Sterren en Vlamjes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Instellingen {#settings}
 
@@ -85,7 +85,7 @@ Als deze optie is ingeschakeld, kunnen MSI-gebruikers hun lead feed in een RSS-f
 
 **Symbolische Vervalsing:**
 
-De Symbolische Vervaldatum wordt gecontroleerd in de Manager van de Eigenschap. Om het te hebben toegelaten/gehandicapt, reik uit aan [ Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support). Als deze optie is ingeschakeld, verlopen alle Marketo-tokens binnen 10 minuten. Als Marketo-tokens zijn uitgeschakeld, verlopen deze niet.
+De Symbolische Vervaldatum wordt gecontroleerd in de Manager van de Eigenschap. Om het te hebben toegelaten/gehandicapt, reik uit aan [&#x200B; Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support). Als deze optie is ingeschakeld, verlopen alle Marketo-tokens binnen 10 minuten. Als Marketo-tokens zijn uitgeschakeld, verlopen deze niet.
 
 Tokens die vóór het toelaten van de Symbolische Vervalsing worden geproduceerd zullen geen verlooptijd hebben om tegen te bevestigen, zodat zullen zij niet verlopen zelfs als de eigenschap momenteel wordt toegelaten.
 

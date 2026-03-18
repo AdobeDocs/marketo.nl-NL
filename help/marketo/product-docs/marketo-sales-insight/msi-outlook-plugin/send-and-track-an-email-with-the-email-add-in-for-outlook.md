@@ -17,7 +17,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit [!DNL Outlook] verzenden en volge
 
 >[!PREREQUISITES]
 >
->Als u nog niet hebt, installeer [ toe:voegen-binnen de e-mail van Marketo voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Als u nog niet hebt, installeer [&#x200B; toe:voegen-binnen de e-mail van Marketo voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit [!DNL Outlook] verzenden en volge
 
    >[!TIP]
    >
-   >Als u een malplaatje van Marketo wilt gebruiken, zie [ verzenden en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Als u een malplaatje van Marketo wilt gebruiken, zie [&#x200B; verzenden en Spoor van  [!DNL Outlook]  Gebruikend een Malplaatje &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Bekijk de voorvertoning en klik op **[!UICONTROL Send]** .
 
@@ -59,4 +59,4 @@ Zo eenvoudig is het! Hoewel dit e-mailbericht is verzonden door een verkoper [!D
 
 >[!MORELIKETHIS]
 >
->[ Logboek binnenkomende Post van Uw Leidingen in Marketo ](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[&#x200B; Logboek binnenkomende Post van Uw Leidingen in Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

@@ -46,7 +46,7 @@ Hoe zet je een verkoopcampagne op?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Wanneer u [ met uw e-mail ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} wordt gedaan, klik **[!UICONTROL Add]**.
+1. Wanneer u [&#x200B; met uw e-mail &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"} wordt gedaan, klik **[!UICONTROL Add]**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -66,5 +66,5 @@ Nu is het tijd om mensen toe te voegen!
 
 >[!MORELIKETHIS]
 >
->* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->* [ de Montages van de Campagne van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>* {de Types van Stap van de Campagne van 0} Verkoop en de Taken van de Herinnering [&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [&#x200B; de Montages van de Campagne van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

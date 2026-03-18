@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [ pakket van Insight van de Verkoop van Marketo ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+>De Acties van Insight van de Verkoop van Marketo is een web-based toepassing die exclusief met Salesforce CRM via het [&#x200B; pakket van Insight van de Verkoop van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} integreert. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 Als u een Marketo-sandbox hebt, kunt u een Actions-instantie inschakelen die met uw sandbox wordt gebruikt voor testdoeleinden.
 
@@ -23,7 +23,7 @@ Voer de onderstaande stappen uit om een Actions-instantie in te stellen voor geb
 
 >[!NOTE]
 >
->U kunt meer over leren hoe de gebruikers [ hun plaats van Acties ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"} zullen activeren. U kunt ook leren hoe de gebruikers [ met Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} voor authentiek zullen verklaren. Bovendien, als u verkiest gebruikers met e-mail en wachtwoord voor authentiek te laten verklaren, kunt u meer over dit in ons [ de montagesartikel van het Beheer van de Login ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"} leren.
+>U kunt meer over leren hoe de gebruikers [&#x200B; hun plaats van Acties &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"} zullen activeren. U kunt ook leren hoe de gebruikers [&#x200B; met Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} voor authentiek zullen verklaren. Bovendien, als u verkiest gebruikers met e-mail en wachtwoord voor authentiek te laten verklaren, kunt u meer over dit in ons [&#x200B; de montagesartikel van het Beheer van de Login &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"} leren.
 
 ## Een verzoek indienen voor een instantie Handelingen die moet worden geleverd aan uw Marketo-sandbox {#request=an-actions-instance}
 
@@ -57,15 +57,15 @@ Uw Actions-exemplaar moet worden geactiveerd met een Salesforce-productieaccount
 
 1. Activeer met je Salesforce Production-exemplaar.
 
-1. Volg de aanwijzingen om het account in te stellen. Voor een gedetailleerd overzicht, controleer ons [ Gebruiker op het instappen artikel ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
+1. Volg de aanwijzingen om het account in te stellen. Voor een gedetailleerd overzicht, controleer ons [&#x200B; Gebruiker op het instappen artikel &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
 
 ## De ActionScript-instantie voorbereiden op compatibiliteit met uw Salesforce Sandbox-instantie {#prepare-your-actions-instance}
 
 Voor handelingen moet u eerst een nieuwe instantie activeren bij een Salesforce-productiegebruiker. Nadat u deze optie hebt geactiveerd, kunt u de volgende stappen uitvoeren om uw exemplaar voor te bereiden op compatibiliteit met de Salesforce-sandbox.
 
-1. Werk login montages aan &quot;Alle Login Methoden,&quot;bij zodat kunt u login met een gebruikersbenaming en een wachtwoord indien nodig. Indien gewenst, kan dit worden teruggezet naar &quot;Alleen Salesforce&quot; nadat alles is geconfigureerd. [ zie hoe te om dit te doen ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+1. Werk login montages aan &quot;Alle Login Methoden,&quot;bij zodat kunt u login met een gebruikersbenaming en een wachtwoord indien nodig. Indien gewenst, kan dit worden teruggezet naar &quot;Alleen Salesforce&quot; nadat alles is geconfigureerd. [&#x200B; zie hoe te om dit te doen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
-1. Verbinding met Salesforce Production verbreken en verbinding maken met uw Salesforce-sandbox. [ zie hoe te om hier ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"} te verbinden. Selecteer voor stap 3 &quot;Sandbox&quot; in plaats van &quot;Salesforce&quot;. Als u al verbinding hebt, ziet u een optie om de verbinding te verbreken op het tabblad Salesforce-verbindingen en -aanpassingen.
+1. Verbinding met Salesforce Production verbreken en verbinding maken met uw Salesforce-sandbox. [&#x200B; zie hoe te om hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"} te verbinden. Selecteer voor stap 3 &quot;Sandbox&quot; in plaats van &quot;Salesforce&quot;. Als u al verbinding hebt, ziet u een optie om de verbinding te verbreken op het tabblad Salesforce-verbindingen en -aanpassingen.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Voor handelingen moet u eerst een nieuwe instantie activeren bij een Salesforce-
 
 ## Aanvragen dat uw Actions-instantie wordt geconverteerd naar compatibiliteit met uw Salesforce-sandbox {#request-your-actions-instance-be-converted}
 
-1. De Steun van Marketo Engage van het contact [ om uw nieuwe instantie van de Acties van Insight van de Verkoop aan te vragen wordt gevormd om compatibel met Sandbox van Salesforce te zijn.](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}
+1. De Steun van Marketo Engage van het contact [&#x200B; om uw nieuwe instantie van de Acties van Insight van de Verkoop aan te vragen wordt gevormd om compatibel met Sandbox van Salesforce te zijn.](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}
 
 1. Test alles op de juiste wijze door u aan te melden met de knop &quot;Aanmelden met Salesforce&quot; op de pagina toutapp.com/login.
 
@@ -83,11 +83,11 @@ Voor handelingen moet u eerst een nieuwe instantie activeren bij een Salesforce-
    >
    >Als u op dit moment problemen ondervindt, kunt u een verzoek indienen om het wachtwoord opnieuw in te stellen en een wachtwoord gebruiken om weer toegang te krijgen tot uw account.
 
-Uw instantie kan nu worden gebruikt met uw Salesforce Sandbox-instantie. Als u [ Salesforce auto-login ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} van Salesforce zou willen gebruiken, kunt u terug naar &quot;Salesforce slechts&quot;in uw [ montages van het Login Beheer ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"} schakelen.
+Uw instantie kan nu worden gebruikt met uw Salesforce Sandbox-instantie. Als u [&#x200B; Salesforce auto-login &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} van Salesforce zou willen gebruiken, kunt u terug naar &quot;Salesforce slechts&quot;in uw [&#x200B; montages van het Login Beheer &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"} schakelen.
 
 >[!NOTE]
 >
->* [ verbind Uw Rekening van de Acties van Insight van de Verkoop met Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
->* [ Gebruiker van de Acties van Insight van de Verkoop op het instappen van Gids ](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
->* [ Auto Login van Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}
->* [ Login de Montages van het Beheer ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}
+>* [&#x200B; verbind Uw Rekening van de Acties van Insight van de Verkoop met Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
+>* [&#x200B; Gebruiker van de Acties van Insight van de Verkoop op het instappen van Gids &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
+>* [&#x200B; Auto Login van Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}
+>* [&#x200B; Login de Montages van het Beheer &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}

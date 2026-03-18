@@ -20,7 +20,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
 ## Uw instellingen voor delen configureren {#configure-your-sharing-settings}
 
-1. In de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
+1. In de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/sharing-settings-1.png)
 

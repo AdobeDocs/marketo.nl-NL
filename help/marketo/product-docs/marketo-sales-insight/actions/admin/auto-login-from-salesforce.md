@@ -16,14 +16,14 @@ Met automatische aanmelding kunnen [!DNL Sales Insight Actions] -gebruikers auto
 
 Als u Automatisch aanmelden wilt gebruiken:
 
-* [ Login de montages van het Beheer ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) moeten aan &quot;[!UICONTROL Salesforce Only] worden geplaatst&quot;
+* [&#x200B; Login de montages van het Beheer &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) moeten aan &quot;[!UICONTROL Salesforce Only] worden geplaatst&quot;
 
 * De gebruiker moet zijn uitgenodigd om [!DNL Sales Insight Actions] te gebruiken
 
 * De gebruiker moet de account hebben geactiveerd door zijn [!DNL Salesforce] -account aan te sluiten op zijn [!DNL Sales Insight Actions] -exemplaar
 
-* De gebruikersnaam [!DNL Sales Insight Actions] van de gebruiker moet overeenkomen met de [!DNL Salesforce] gebruikersnaam (of de gebruikersnaam en het e-mailadres van de gebruiker komen overeen)[!DNL Salesforce]
+* De gebruikersnaam [!DNL Sales Insight Actions] van de gebruiker moet overeenkomen met de [!DNL Salesforce] gebruikersnaam (of de gebruikersnaam en het e-mailadres van de gebruiker komen overeen) [!DNL Salesforce]
 
 >[!MORELIKETHIS]
 >
->[ nodigt Gebruikers en Admins ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md) uit
+>[&#x200B; nodigt Gebruikers en Admins &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md) uit

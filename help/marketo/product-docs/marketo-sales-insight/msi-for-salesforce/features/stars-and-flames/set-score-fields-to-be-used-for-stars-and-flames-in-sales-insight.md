@@ -21,7 +21,7 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld **[!UICONTROL Lead Scor
 
 >[!TIP]
 >
->Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [ ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
+>Als u reeds uw gebieden van de douanescore niet hebt, is hier hoe te [&#x200B; &#x200B;](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen creëren.
 
 >[!NOTE]
 >
@@ -57,4 +57,4 @@ Standaard gebruikt [!DNL Marketo Sales Insight] het veld **[!UICONTROL Lead Scor
 
    >[!MORELIKETHIS]
    >
-   >[ Prioriteit, Urgentie, Relatieve Score, en Beste Bets ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[&#x200B; Prioriteit, Urgentie, Relatieve Score, en Beste Bets &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

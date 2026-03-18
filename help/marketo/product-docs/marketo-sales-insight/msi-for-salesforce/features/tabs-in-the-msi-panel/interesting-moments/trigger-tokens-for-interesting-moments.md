@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Leer om de [ het Interesten de stroomstap van de Moment ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) te gebruiken.
+>Leer om de [&#x200B; het Interesten de stroomstap van de Moment &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) te gebruiken.
 
 ## Beschikbare tokens {#available-tokens}
 
-Controle uit [ het Overzicht van Tokens ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
+Controle uit [&#x200B; het Overzicht van Tokens &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
 
 ## Triggertokens {#trigger-tokens}
 
@@ -1055,7 +1055,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 
 >[!NOTE]
 >
->Als het geen controle ![ (tikken) ](assets/check.png) heeft dan zou het een leeg koord (niets) in het interessante ogenblik terugkeren.
+>Als het geen controle ![&#x200B; (tikken) &#x200B;](assets/check.png) heeft dan zou het een leeg koord (niets) in het interessante ogenblik terugkeren.
 
 &#42; Trigger **bezoekt Web-pagina** een paar extra tokens:
 

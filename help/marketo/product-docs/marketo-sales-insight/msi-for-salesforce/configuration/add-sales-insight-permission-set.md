@@ -16,11 +16,11 @@ Ga als volgt te werk om toegang toe te voegen tot [!DNL Sales Insight] -functies
 
 >[!PREREQUISITES]
 >
->[ werk uw  [!DNL Sales Insight] [!DNL Salesforce] pakket ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan versie 1.8000 of hoger bij om deze eigenschap te gebruiken.
+>[&#x200B; werk uw  [!DNL Sales Insight] [!DNL Salesforce] pakket &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan versie 1.8000 of hoger bij om deze eigenschap te gebruiken.
 
 >[!IMPORTANT]
 >
->Als u eerder [!DNL Sales Insight] toegang tot alle profielen en/of uitgevoerd [!DNL Sales Insight] voor al uw gebruikers hebt gegeven, moet u [ de toegang van het profielniveau ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze rechtenset te gebruiken.
+>Als u eerder [!DNL Sales Insight] toegang tot alle profielen en/of uitgevoerd [!DNL Sales Insight] voor al uw gebruikers hebt gegeven, moet u [&#x200B; de toegang van het profielniveau &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} verwijderen om deze rechtenset te gebruiken.
 
 ## Overzicht {#overview}
 

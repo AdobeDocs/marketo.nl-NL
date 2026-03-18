@@ -16,9 +16,9 @@ Als uw team transactie- of niet-commerciële e-mailberichten verzendt, kunt u ee
 
 ## Notities {#things-to-note}
 
-* De niet-commerciële e-mail zal verkoop wegvallen unsubscribes en [ Marketo Engage unsubscribe controle ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, maar zal [ geblokkeerde domeinen ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"} niet omzeilen.
+* De niet-commerciële e-mail zal verkoop wegvallen unsubscribes en [&#x200B; Marketo Engage unsubscribe controle &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}, maar zal [&#x200B; geblokkeerde domeinen &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"} niet omzeilen.
 
-* Unsubscribe berichten zullen niet automatisch aan niet-commerciële e-mails worden toegevoegd, zelfs als [ toevoegt unsubscribe bericht admin die ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} plaatst wordt toegelaten. Nochtans, zal het `{{team_unsubscribe}}` [ dynamische gebied ](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} nog uw team bevolken unsubscribe bericht.
+* Unsubscribe berichten zullen niet automatisch aan niet-commerciële e-mails worden toegevoegd, zelfs als [&#x200B; toevoegt unsubscribe bericht admin die &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"} plaatst wordt toegelaten. Nochtans, zal het `{{team_unsubscribe}}` [&#x200B; dynamische gebied &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} nog uw team bevolken unsubscribe bericht.
 
 ## Een e-mailsjabloon configureren voor niet-commercieel gebruik {#configure-an-email-template-for-non-commercial-use}
 

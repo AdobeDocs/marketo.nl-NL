@@ -29,4 +29,4 @@ Voer de volgende eenvoudige stappen uit om de [!DNL MS Dynamics] -synchronisatie
 
    >[!NOTE]
    >
-   >Als u geen a [!UICONTROL Disable Sync] knoop in uw instantie ziet, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+   >Als u geen a [!UICONTROL Disable Sync] knoop in uw instantie ziet, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.

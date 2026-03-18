@@ -78,7 +78,7 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    >[!NOTE]
    >
-   >De vooruitzichten online (Office365) dwingen zijn eigen verzendende grenzen af. [ leer hier meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >De vooruitzichten online (Office365) dwingen zijn eigen verzendende grenzen af. [&#x200B; leer hier meer &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Verbinding maken met Exchange op locatie {#connecting-to-exchange-on-premise}
 
@@ -145,8 +145,8 @@ U moet mogelijk met uw IT-team samenwerken om toestemming te krijgen om Marketo 
 
 Afhankelijk van de voorkeuren van uw IT-team en de huidige configuratie is het beter om met hen te overleggen hoe u toegang kunt verlenen. Hieronder staan enkele artikelen die het gesprek kunnen begeleiden.
 
-* Globale Toestemming: [ Geïntegreerde apps en Azure AD voor Microsoft 365 beheerders ](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* De Toestemming van de gebruiker: [ vormt hoe de gebruikers met toepassingen ](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"} instemmen
-* Admin Toestemming: [ vorm het werkschema van de admin toestemming ](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
-* Het uitzetten van gebruikerstoestemming of weg: [ het leiden van gebruikerstoestemming aan apps in Microsoft 365 ](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
-* Beheren met Microsoft Defender: [ beheert OAuth apps ](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}
+* Globale Toestemming: [&#x200B; Geïntegreerde apps en Azure AD voor Microsoft 365 beheerders &#x200B;](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* De Toestemming van de gebruiker: [&#x200B; vormt hoe de gebruikers met toepassingen &#x200B;](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"} instemmen
+* Admin Toestemming: [&#x200B; vorm het werkschema van de admin toestemming &#x200B;](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Het uitzetten van gebruikerstoestemming of weg: [&#x200B; het leiden van gebruikerstoestemming aan apps in Microsoft 365 &#x200B;](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Beheren met Microsoft Defender: [&#x200B; beheert OAuth apps &#x200B;](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

@@ -37,6 +37,6 @@ U kunt snel en eenvoudig rechtstreeks vanuit [!DNL Microsoft Dynamics] leads/con
 
    >[!NOTE]
    >
-   >Voor de campagne om in drop-down te verschijnen, gebruik de [**Campagne wordt Gevraagd** trekker ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met [!DNL Sales Insight] als bron, wanneer u opstelling de campagne.
+   >Voor de campagne om in drop-down te verschijnen, gebruik de [**Campagne wordt Gevraagd** trekker &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met [!DNL Sales Insight] als bron, wanneer u opstelling de campagne.
 
 En dat zijn allemaal mensen! U hebt nu de kracht van Marketo Smart-campagnes rechtstreeks vanuit [!DNL Dynamics] in uw handen.

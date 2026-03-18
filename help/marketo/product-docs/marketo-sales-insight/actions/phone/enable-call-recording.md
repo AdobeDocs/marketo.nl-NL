@@ -32,4 +32,4 @@ Als beheerder kunt u vraagopname voor uw [!DNL Sales Insight Actions] vraag toel
 
 >[!MORELIKETHIS]
 >
->[ Twee-partij de Montages van de Toestemming ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
+>[&#x200B; Twee-partij de Montages van de Toestemming &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)

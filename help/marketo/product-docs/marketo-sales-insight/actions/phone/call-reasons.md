@@ -84,5 +84,5 @@ Zodra vraagredenen zijn toegelaten. De gebruikers kunnen één selecteren terwij
 
 >[!MORELIKETHIS]
 >
->* [ Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [ Resultaten van de Vraag ](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+>* [&#x200B; Redenen van de Vraag van het Logboek en de Resultaten van de Vraag aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
+>* [&#x200B; Resultaten van de Vraag &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)

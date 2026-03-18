@@ -25,4 +25,4 @@ Als bedrijf werken we hard om ervoor te zorgen dat onze leveringspercentages hoo
 
 * Zorg ervoor dat u een volledig ingevulde e-mailhandtekening met een fysiek adres hebt.
 
-* Lees omhoog en zorg ervoor u [ KAN-SPAM wetten ](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"} naleeft.
+* Lees omhoog en zorg ervoor u [&#x200B; KAN-SPAM wetten &#x200B;](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"} naleeft.

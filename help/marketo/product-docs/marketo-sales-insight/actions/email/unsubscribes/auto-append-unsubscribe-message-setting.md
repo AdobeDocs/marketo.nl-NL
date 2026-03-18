@@ -34,4 +34,4 @@ Zorg ervoor dat in elke verzonden e-mail Handelingen van Insight Verkoop een afm
 
 >[!TIP]
 >
->Als u het toevoegen onbruikbaar maakt unsubscribe bericht plaatsen, adviseren wij toevoegend een unsubscribe footer aan uw malplaatjes om ervoor te zorgen uw mededeling een opt-out optie heeft. U kunt dit doen door uw eigen douanebericht aan elk malplaatje toe te voegen, of door het `{{team_unsubscribe}}` [ dynamische gebied ](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} te gebruiken.
+>Als u het toevoegen onbruikbaar maakt unsubscribe bericht plaatsen, adviseren wij toevoegend een unsubscribe footer aan uw malplaatjes om ervoor te zorgen uw mededeling een opt-out optie heeft. U kunt dit doen door uw eigen douanebericht aan elk malplaatje toe te voegen, of door het `{{team_unsubscribe}}` [&#x200B; dynamische gebied &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"} te gebruiken.

@@ -33,7 +33,7 @@ Het is supergemakkelijk om een Marketo-e-mail naar meerdere mensen te sturen met
 
    >[!TIP]
    >
-   >Ziet u de knop niet? Zorg ervoor u [ de Knopen van Marketo aan de lijstmening ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md) hebt toegevoegd.
+   >Ziet u de knop niet? Zorg ervoor u [&#x200B; de Knopen van Marketo aan de lijstmening &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md) hebt toegevoegd.
 
 1. Ga door en stel je e-mail samen. Klik op **[!UICONTROL Send with Marketo]** als u klaar bent.
 
@@ -41,7 +41,7 @@ Het is supergemakkelijk om een Marketo-e-mail naar meerdere mensen te sturen met
 
    >[!TIP]
    >
-   >U kunt [ e-mail aan  [!DNL Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) publiceren en van die e-mails kiezen.
+   >U kunt [&#x200B; e-mail aan  [!DNL Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) publiceren en van die e-mails kiezen.
 
    >[!NOTE]
    >

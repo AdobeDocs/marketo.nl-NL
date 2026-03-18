@@ -52,6 +52,6 @@ Met Sales Insight Actions hebben gebruikers toegang tot een nieuwe verkoop-app m
 
    ![](assets/make-a-marketing-campaign-visible-sia-8.png)
 
-1. Klik het **lusje van het 0} Programma {en** activeer **de campagne.**
+1. Klik het **lusje van het 0&rbrace; Programma &lbrace;en** activeer **de campagne.**
 
    ![](assets/make-a-marketing-campaign-visible-sia-9.png)

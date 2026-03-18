@@ -19,31 +19,31 @@ ht-degree: 2%
 >
 >Voltooi uw integratie tussen Marketo en Microsoft.
 >
->[ Download de correcte oplossing ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics CRM].
+>[&#x200B; Download de correcte oplossing &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) voor uw versie van [!DNL Microsoft Dynamics CRM].
 
 ## Oplossing importeren {#import-solution}
 
-1. Meld u aan bij [[!DNL Microsoft Office 365] ](https://login.microsoftonline.com/) .
+1. Meld u aan bij [[!DNL Microsoft Office 365] &#x200B;](https://login.microsoftonline.com/) .
 
    ![](assets/image2015-3-16-15-58-55.png)
 
-1. Klik ![ - ](assets/image2015-3-16-16-1-13.png) menu en selecteer **CRM**.
+1. Klik ![&#x200B; - &#x200B;](assets/image2015-3-16-16-1-13.png) menu en selecteer **CRM**.
 
    ![](assets/image2015-3-16-16-0-10.png)
 
-1. Klik op het menu ![— ](assets/image2015-5-13-10-5-8.png) . Selecteer in de vervolgkeuzelijst **[!DNL Settings]** en selecteer vervolgens **[!DNL Solutions]** .
+1. Klik op het menu ![— &#x200B;](assets/image2015-5-13-10-5-8.png) . Selecteer in de vervolgkeuzelijst **[!DNL Settings]** en selecteer vervolgens **[!DNL Solutions]** .
 
    ![](assets/image2015-5-13-10-4-1.png)
 
    >[!NOTE]
    >
-   >U zou reeds [ geïnstalleerd en de oplossing van Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) moeten gevormd hebben alvorens zich vooruit te bewegen.
+   >U zou reeds [&#x200B; geïnstalleerd en de oplossing van Marketo &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) moeten gevormd hebben alvorens zich vooruit te bewegen.
 
 1. Klik op **[!UICONTROL Import]**.
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
-1. Klik in het nieuwe venster op **[!UICONTROL Browse]** . Kies de [ oplossing van Insight van de Verkoop van Marketo u in stap 1 ](#msi) downloadde. Klik op **[!UICONTROL Next]**.
+1. Klik in het nieuwe venster op **[!UICONTROL Browse]** . Kies de [&#x200B; oplossing van Insight van de Verkoop van Marketo u in stap 1 &#x200B;](#msi) downloadde. Klik op **[!UICONTROL Next]**.
 
    ![](assets/image2015-5-13-15-3a38-3a49.png)
 
@@ -99,7 +99,7 @@ Laten we uw Marketo-instantie koppelen aan [!DNL Sales Insight] in [!DNL Dynamic
    > * Urgentie
    > * Relatieve score
    >
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [ deze procedure ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [&#x200B; deze procedure &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
 1. Klik in [!DNL Microsoft Dynamics] weer op het pictogram ![](assets/image2015-5-13-15-3a49-3a19.png) naast [!UICONTROL Settings] en selecteer vervolgens **[!UICONTROL Marketo API Config]** in het vervolgkeuzemenu.
 
@@ -143,4 +143,4 @@ U hebt nu de kracht van [!DNL Marketo Sales Insight] voor uw verkoopteam ontgren
 
 >[!MORELIKETHIS]
 >
->[ de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[&#x200B; de Sterren en Flames van de Opstelling voor Lood/de Verslagen van het Contact &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

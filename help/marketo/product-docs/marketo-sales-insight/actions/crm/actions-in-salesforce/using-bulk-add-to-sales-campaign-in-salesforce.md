@@ -19,7 +19,7 @@ Leer hoe u in grote hoeveelheden toevoegt aan verkoopcampagne in Salesforce om u
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u het [ recentste pakket van Insight van de Verkoop ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan uw instantie van Salesforce hebt geïnstalleerd en de [ knopen van de Actie ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} op uw contact en de mening van de loodlijst in Salesforce gevormd.
+>Zorg ervoor u het [&#x200B; recentste pakket van Insight van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} aan uw instantie van Salesforce hebt geïnstalleerd en de [&#x200B; knopen van de Actie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} op uw contact en de mening van de loodlijst in Salesforce gevormd.
 
 ## Bulksgewijs toevoegen aan verkoopcampagne in Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 

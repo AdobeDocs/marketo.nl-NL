@@ -16,11 +16,11 @@ Meer weten over de Dynamic Chat-integratie met Sales Insight?
 
 >[!PREREQUISITES]
 >
->* Uw pakket van Insight SFDC van de Verkoop moet versie [ 2.4.0 of hoger zijn ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* Uw pakket van Insight SFDC van de Verkoop moet versie [&#x200B; 2.4.0 of hoger zijn &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* U moet de [ integratie van Dynamic Chat ](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} opstelling hebben
+>* U moet de [&#x200B; integratie van Dynamic Chat &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} opstelling hebben
 >
->* Zorg ervoor in uw Verkoop Insight [ Operationele Montages ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, hebt u het &quot;Geheime Toegelaten Sleutel van API&quot;gebied. Als u niet, leer hoe te om het [ hier ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"} terug te winnen.
+>* Zorg ervoor in uw Verkoop Insight [&#x200B; Operationele Montages &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, hebt u het &quot;Geheime Toegelaten Sleutel van API&quot;gebied. Als u niet, leer hoe te om het [&#x200B; hier &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"} terug te winnen.
 
 ## [!DNL Marketo Sales Insight] Tabblad Configuratie {#marketo-sales-insight-configuration-tab}
 

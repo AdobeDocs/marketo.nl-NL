@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Interesserende momenten in [!DNL Salesforce1] {#interesting-moments-in-salesforce}
 
-[ het Gebruiken van Interesserende Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) is de sleutel aan het communiceren met uw verkoopteam door de Insight app van de Verkoop van Marketo. Met [!DNL Marketo Sales Insight] for [!DNL Salesforce1] kunt u nu hetzelfde doen met uw smartphone!
+[&#x200B; het Gebruiken van Interesserende Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) is de sleutel aan het communiceren met uw verkoopteam door de Insight app van de Verkoop van Marketo. Met [!DNL Marketo Sales Insight] for [!DNL Salesforce1] kunt u nu hetzelfde doen met uw smartphone!
 
 >[!AVAILABILITY]
 >
@@ -31,5 +31,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Interessant Moment ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [ Tokens voor het Interesten Momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
+>* [&#x200B; Interessant Moment &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
+>* [&#x200B; Tokens voor het Interesten Momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
