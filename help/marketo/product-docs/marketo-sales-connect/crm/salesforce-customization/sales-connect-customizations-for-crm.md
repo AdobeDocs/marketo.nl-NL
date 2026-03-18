@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14745793
-description: '[!DNL Sales Connect] Aanpassingen voor CRM - Marketo Docs - Productdocumentatie'
+description: Meer informatie over de aanpassingen van Sales Connect voor CRM en Salesforce. Begrijp beschikbare aanpassingen en hoe te om hen te installeren.
 title: '[!DNL Sales Connect] Aanpassingen voor CRM'
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 1%
 
 ---
 
 # [!DNL Sales Connect] Aanpassingen voor CRM {#sales-connect-customizations-for-crm}
 
-De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. De instructies [&#x200B; kunnen hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf) worden gevonden.
+De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. De instructies [ kunnen hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf) worden gevonden.
 
 ## Aanpassingen installeren in [!DNL Salesforce] {#how-to-install-customizations-in-salesforce}
 
@@ -45,7 +45,7 @@ Updates voor het [!DNL Salesforce] Aanpassingspakket bevatten verbeteringen en f
 >
 >**vereiste toestemmingen Admin.**
 
-1. In de [&#x200B; Webtoepassing &#x200B;](https://www.toutapp.com), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
+1. In de [ Webtoepassing ](https://www.toutapp.com), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 

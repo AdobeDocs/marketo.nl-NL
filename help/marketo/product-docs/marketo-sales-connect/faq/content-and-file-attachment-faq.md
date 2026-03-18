@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746661
-description: Veelgestelde vragen over inhoud en bestandsbijlagen - Marketo-documenten - Productdocumentatie
+description: Antwoorden op vragen over inhoud en bestandsbijlagen in Sales Connect. Leer grootten, reeksspatiëring en bijlageopties.
 title: Veelgestelde vragen over inhoud en bestandsbijlage
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---

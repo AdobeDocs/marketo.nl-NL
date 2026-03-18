@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727591
-description: E-mailverbinding voor Outlook-gebruikers - Marketo-documenten - Productdocumentatie
+description: Meer informatie over e-mailverbindingen voor Outlook-gebruikers in Sales Connect. Connect Outlook om bijgehouden e-mailberichten en logbestanden naar Salesforce te verzenden.
 title: E-mailverbinding voor Outlook-gebruikers
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '279'
 ht-degree: 1%
 
 ---
@@ -80,7 +80,7 @@ Als u verbinding maakt met [!DNL Outlook], ontvangt u tracering van antwoorden, 
 
    >[!NOTE]
    >
-   >[!DNL Outlook Online (Office365)] handhaaft zijn eigen verzendingsgrenzen. [&#x200B; leer hier meer &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >[!DNL Outlook Online (Office365)] handhaaft zijn eigen verzendingsgrenzen. [ leer hier meer ](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Verbinding maken met [!DNL Exchange On-Premise] {#connecting-to-exchange-on-premise}
 

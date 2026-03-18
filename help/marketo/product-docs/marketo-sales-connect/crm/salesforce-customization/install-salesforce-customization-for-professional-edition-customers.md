@@ -1,12 +1,12 @@
 ---
 unique-page-id: 27656223
-description: Installeer  [!DNL Salesforce]  Aanpassing voor de Klanten van de Professionele Uitgave - de Documentatie van Marketo - de Documentatie van het Product
+description: Leer hoe u de aanpassing van Sales Connect Salesforce voor Professional Edition installeert. Stel aanpassingen in wanneer u Salesforce PE gebruikt.
 title: Installeer  [!DNL Salesforce]  Aanpassing voor de Professionele Klanten van de Uitgave
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Klanten met [!DNL Salesforce] Professional Edition moeten deze stappen volgen om
    >
    >Als u wordt verbonden, zult u een groene &quot;[!UICONTROL Install]&quot;knoop zien. **NIET** klik deze knoop, te werk gaat aan stap 4.
 
-1. Login aan de [!DNL Salesforce] rekening u met wordt verbonden en dan [&#x200B; klikt deze verbinding &#x200B;](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Login aan de [!DNL Salesforce] rekening u met wordt verbonden en dan [ klikt deze verbinding ](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. U wordt naar de installatiepagina van [!DNL Sales Connect] verzonden.
 
    ![](assets/install-package.png)
@@ -54,8 +54,8 @@ Klanten met [!DNL Salesforce] Professional Edition moeten deze stappen volgen om
    >
    >[!DNL Sales Engage] is de vorige naam voor [!DNL Sales Connect] .
 
-## Gidsen {#guides}
+## Handleidingen {#guides}
 
-[&#x200B; Gids van de Installatie voor Klassieke Salesforce &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[ Gids van de Installatie voor Klassieke Salesforce ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[&#x200B; Gids van de Installatie voor de Bliksem van Salesforce &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[ Gids van de Installatie voor de Bliksem van Salesforce ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

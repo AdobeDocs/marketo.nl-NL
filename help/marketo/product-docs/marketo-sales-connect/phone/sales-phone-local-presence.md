@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352436
-description: Lokale aanwezigheid op de verkooptelefoon - Marketo-documenten - productdocumentatie
+description: Meer informatie over de lokale aanwezigheid van de Telefoon van de Verkoop in Sales Connect. Toon lokale bezoekersidentiteitskaart wanneer het maken van uitgaande vraag om antwoordtarieven te verbeteren.
 title: Lokale aanwezigheid op verkooptelefoon
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

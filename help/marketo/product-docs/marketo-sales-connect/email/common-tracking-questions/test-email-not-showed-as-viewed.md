@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352538
-description: Test-e-mail niet weergegeven als weergegeven - Marketo Docs - Productdocumentatie
+description: Vraag hulp aan als er geen test-e-mail wordt weergegeven als weergegeven in Sales Connect. Los mening het volgen voor test of voorproef problemen op verzendt.
 title: E-mail testen niet weergegeven als weergegeven
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ De reden? [!DNL Sales Connect] is slim en onze actieve gebruikers zullen ons noo
 
 Zo ga je naar de enige plek waar we zelfcontrole laten zien.
 
-1. Ga naar [[!UICONTROL Command Center] &#x200B;](https://toutapp.com/).
+1. Ga naar [[!UICONTROL Command Center] ](https://toutapp.com/).
 
 1. Zoek de e-mail die u zelf hebt verzonden in de [!UICONTROL Sent folder] en selecteer deze.
 

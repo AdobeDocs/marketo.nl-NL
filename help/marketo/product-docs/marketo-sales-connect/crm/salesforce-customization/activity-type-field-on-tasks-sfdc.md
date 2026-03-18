@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352476
-description: Veld voor activiteitstypen op taken (SFDC) - Marketo Docs - Productdocumentatie
+description: Begrijp het veld Type activiteit op taken bij het synchroniseren van Sales Connect met Salesforce. Zie hoe taaktypen worden toegewezen en weergegeven in Salesforce.
 title: Veld voor activiteitstypen op taken (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ Met behulp van [!DNL Sales Connect] kunt u uw e-mails en oproepen als een activi
 
 Controleer eerst of u de juiste waarden voor de keuzelijst hebt. U hebt de hulp van uw [!DNL Salesforce] Admin nodig om wijzigingen aan te brengen in uw keuzelijst.
 
-1. Navigeer aan [&#x200B; Salesforce.com &#x200B;](https://salesforce.com) en klik op Opstelling in de hoogste juiste hoek.
+1. Navigeer aan [ Salesforce.com ](https://salesforce.com) en klik op Opstelling in de hoogste juiste hoek.
 1. Klik op **[!UICONTROL Customize]**.
 1. Klik op **[!UICONTROL Activities]**.
 1. Klik op **[!UICONTROL Task Fields]**.

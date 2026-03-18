@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317367
-description: Campagnelijst weergeven als een andere gebruiker - Marketo Docs - Productdocumentatie
+description: Leer hoe u de lijst met campagnes kunt weergeven als een andere gebruiker in Sales Connect. Met de vervolgkeuzelijst Weergeven als kunt u de campagnes van gebruikers weergeven.
 title: Lijst met campagnes weergeven als een andere gebruiker
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

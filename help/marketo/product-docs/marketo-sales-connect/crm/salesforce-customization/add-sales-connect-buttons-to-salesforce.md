@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352463
-description: Verkoopknoppen voor Connect toevoegen aan  [!DNL Salesforce]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u de verkoopknoppen voor Connect aan Salesforce kunt toevoegen. Plaats Connect-knoppen in Salesforce voor snelle toegang tot Sales Connect-acties.
 title: Verkoopknoppen voor Connect toevoegen aan Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

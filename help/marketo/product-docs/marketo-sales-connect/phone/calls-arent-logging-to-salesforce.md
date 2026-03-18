@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352435
-description: De vraag registreert niet aan Salesforce - Marketo Docs - de Documentatie van het Product
+description: Krijg hulp wanneer de Vraag van de Verbinding van de Verkoop niet aan Salesforce registreren. Los verbinding en activiteitenregistreren montages problemen op.
 title: De vraag registreert niet aan Salesforce
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Als u uw vraag van de Telefoon van de Verkoop automatisch wilt worden geregistreerd aan [!DNL Salesforce], zorg ervoor het volgende op zijn plaats is.
 
-U zult uw [!DNL Sales Connect] rekening nodig hebben om met uw [[!DNL Salesforce]  rekening &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) door de API verbinding worden verbonden.
+U zult uw [!DNL Sales Connect] rekening nodig hebben om met uw [[!DNL Salesforce]  rekening ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) door de API verbinding worden verbonden.
 
-Als u van de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) roept, zult u a [!DNL Salesforce] identiteitskaart nodig hebben die aan dat contact wordt bewaard. [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) om te zien hoe u kunt ervoor zorgen dat elk van uw [!DNL Sales Connect] contacten een [!DNL Salesforce] identiteitskaart verbonden aan hen hebben.
+Als u van de [ Webtoepassing ](https://toutapp.com/login) roept, zult u a [!DNL Salesforce] identiteitskaart nodig hebben die aan dat contact wordt bewaard. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) om te zien hoe u kunt ervoor zorgen dat elk van uw [!DNL Sales Connect] contacten een [!DNL Salesforce] identiteitskaart verbonden aan hen hebben.
 
 >[!NOTE]
 >

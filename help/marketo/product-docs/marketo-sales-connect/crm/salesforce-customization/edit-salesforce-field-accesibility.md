@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352472
-description: Salesforce-veldtoegankelijkheid bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de toegankelijkheid van Salesforce-velden voor Sales Connect kunt bewerken. Bepaal welke velden in Salesforce door Sales Connect kunnen worden gelezen of geschreven.
 title: Toegankelijkheid Salesforce-veld bewerken
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---

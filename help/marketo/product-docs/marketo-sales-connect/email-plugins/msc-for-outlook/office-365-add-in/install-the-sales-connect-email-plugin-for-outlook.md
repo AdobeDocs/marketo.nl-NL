@@ -1,21 +1,21 @@
 ---
 unique-page-id: 14352455
-description: De e-mailplug-in Sales Connect voor Outlook - Marketo Docs - Productdocumentatie installeren
+description: Leer hoe u de e-mailplug-in Sales Connect voor Outlook installeert. Voeg de plug-in toe voor het verzenden van bijgehouden e-mailberichten en het gebruik van sjablonen vanuit Outlook.
 title: De insteekmodule Sales Connect E-mail voor Outlook installeren
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # De e-mailplug-in Sales Connect voor Outlook (Online, Mac en Windows) installeren {#install-the-sales-connect-email-plugin-for-outlook}
 
-We hebben een integratie met [!DNL Outlook Web Apps] gemaakt. [!DNL Outlook Web Apps] is een versie van [!DNL Outlook] die bij het abonnement van [!DNL Office 365] wordt geleverd. Omdat het op browser-gebaseerd is, zal de integratie zowel op Mac als [!DNL Windows] werken. [&#x200B; klik hier voor de volledige installatiegids &#x200B;](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+We hebben een integratie met [!DNL Outlook Web Apps] gemaakt. [!DNL Outlook Web Apps] is een versie van [!DNL Outlook] die bij het abonnement van [!DNL Office 365] wordt geleverd. Omdat het op browser-gebaseerd is, zal de integratie zowel op Mac als [!DNL Windows] werken. [ klik hier voor de volledige installatiegids ](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Als Admin, kunt u [&#x200B; dit namens uw volledig team &#x200B;](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) installeren.
+Als Admin, kunt u [ dit namens uw volledig team ](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide) installeren.
 
 >[!IMPORTANT]
 >

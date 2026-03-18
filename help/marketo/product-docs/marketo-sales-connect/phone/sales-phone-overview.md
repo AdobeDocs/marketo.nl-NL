@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352438
-description: Overzicht verkooptelefoon - Marketo-documenten - productdocumentatie
+description: Meer informatie over verkooptelefoon in Sales Connect. Maak vraag van app, login aan Salesforce, en gebruik vraagopname en lokale aanwezigheid.
 title: Overzicht van verkooptelefonie
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **Lokale Aanwezigheid:** u zult slechts &quot;gebruik lokale aanwezigheid&quot;moeten controleren en de vraag voor uw eerste vraag registreren. [!DNL Sales Connect] zal uw montages voor alle toekomstige vraag herinneren.
 
-Als u [!DNL Sales Connect] een vraagactiviteit in [!DNL Salesforce] automatisch wilt tot stand brengen, controleer [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+Als u [!DNL Sales Connect] een vraagactiviteit in [!DNL Salesforce] automatisch wilt tot stand brengen, controleer [ dit artikel ](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
 ## Hoe maak ik een vraag met de Telefoon van de Verkoop? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ In het Centrum van het Bevel, kunt u uw &quot;vraaglijst&quot;van het verzonden 
 
 Wanneer u eenmaal hebt geklikt of gebeld, haalt [!DNL Sales Connect] het telefoonnummer van uw lead/contactpersoon in via [!DNL Salesforce] . Als er geen nummer wordt vermeld in [!DNL Salesforce] , haalt [!DNL Sales Connect] het telefoonnummer van de accountrecord in.
 
-Voor teams die andere CRMS gebruiken, haalt Sales Connect het telefoonnummer uit het nummer in de record in Sales Connect. Dit gegeven kan gemakkelijk door a [&#x200B; CSV zijn uploadt &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+Voor teams die andere CRMS gebruiken, haalt Sales Connect het telefoonnummer uit het nummer in de record in Sales Connect. Dit gegeven kan gemakkelijk door a [ CSV zijn uploadt ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 Druk op de knop big green **[!UICONTROL Call]** . Uw telefoon zal dan beginnen te bellen. Neem telefonisch contact op en Sales Connect belt automatisch de lead/contactpersoon.

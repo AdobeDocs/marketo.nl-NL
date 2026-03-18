@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352442
-description: Een stuk inhoud bijvoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u inhoud van de Gmail-plug-in koppelt. Voeg via Gmail traceerbare inhoud of bestanden toe aan uw Sales Connect-e-mail.
 title: Een stuk inhoud bijvoegen
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

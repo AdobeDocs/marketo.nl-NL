@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352441
-description: Een e-mail voor een latere datum plannen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailbericht voor een latere datum kunt plannen via de Gmail-plug-in. Stel de verzendtijd in zodat uw bijgehouden e-mail wordt verzonden wanneer u wilt.
 title: Een e-mail voor een latere datum plannen
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Voer de volgende stappen uit om een e-mailbericht van Gmail te plannen.
 
    >[!NOTE]
    >
-   >U kunt op de geplande e-mail in uw **[!UICONTROL Scheduled]** omslag in de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) altijd controleren
+   >U kunt op de geplande e-mail in uw **[!UICONTROL Scheduled]** omslag in de [ Webtoepassing ](https://toutapp.com/login) altijd controleren

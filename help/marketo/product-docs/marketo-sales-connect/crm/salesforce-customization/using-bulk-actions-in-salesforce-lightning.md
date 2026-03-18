@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762825
-description: Bulkhandelingen gebruiken in Salesforce Lightning - Marketo Docs - Productdocumentatie
+description: Leer hoe u bulkacties kunt gebruiken in Salesforce Lightning met Sales Connect. Druk meerdere leads of contactpersonen tegelijk op Sales Connect.
 title: Bulkhandelingen gebruiken in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >Update naar de nieuwste versie van het [!DNL Sales Connect] -pakket en installeer de bulkactieknoppen in de weergave voor lead/contact.
 >
->* [&#x200B; Instructies in het Engels &#x200B;](assets/sf-guide-for-lightning-en.pdf)
->* [&#x200B; Instructies in Japans &#x200B;](assets/sf-guide-for-lightning-ja.pdf)
+>* [ Instructies in het Engels ](assets/sf-guide-for-lightning-en.pdf)
+>* [ Instructies in Japans ](assets/sf-guide-for-lightning-ja.pdf)
 
 >[!NOTE]
 >
@@ -87,5 +87,5 @@ d. U kunt het e-mailbericht meteen verzenden of plannen om het later te verzende
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; verzendend E-mails via E-mail van de Groep &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [&#x200B; Samenstellend Bulk E-mail met Uitgezocht en verzendt &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [ verzendend E-mails via E-mail van de Groep ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [ Samenstellend Bulk E-mail met Uitgezocht en verzendt ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

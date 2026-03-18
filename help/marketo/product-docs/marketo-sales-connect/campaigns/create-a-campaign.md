@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352618
-description: Een campagne maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Sales Connect-campagne maakt met e-mail, een telefoontje, InMail en aangepaste taakstappen. U kunt outreach op één plaats indelen, plannen en meten.
 title: Een campagne maken
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ Hoe zet je een campagne op?
    >
    >Maak een nieuwe categorie door op **+** naast **[!UICONTROL Categories]** te klikken.
 
-1. De gekozen rubriek wordt geselecteerd. Als u van mening verandert, klikt u op de vervolgkeuzelijst en selecteert u een andere. Klik op **[!UICONTROL &#x200B; Continue]** als u klaar bent.
+1. De gekozen rubriek wordt geselecteerd. Als u van mening verandert, klikt u op de vervolgkeuzelijst en selecteert u een andere. Klik op **[!UICONTROL  Continue]** als u klaar bent.
 
    ![](assets/three-1.png)
 
@@ -44,7 +44,7 @@ Hoe zet je een campagne op?
 
    ![](assets/four-1.png)
 
-1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen wij [&#x200B; E-mail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
+1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen wij [ E-mail ](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 

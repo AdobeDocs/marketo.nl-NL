@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352614
-description: Inzicht krijgen in het tabblad [!UICONTROL Me] - Marketo Docs - Productdocumentatie
+description: Begrijp het tabblad Ik en de status van uw e-mailovereenkomst in Sales Connect. Verzonden e-mails, sjabloongebruik en uw meest boeiende e-mails bekijken.
 title: Het tabblad [!UICONTROL Me]
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352601
-description: Referentie zelf in een dynamisch veld - Marketo Docs - Productdocumentatie
+description: Leer hoe u in een dynamisch veld van Sales Connect naar uzelf kunt verwijzen. Gebruik de naam of de details van de afzender in malplaatjepitalisatie.
 title: Verwijzing zelf in een dynamisch veld
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Instelling voor automatisch uit te schrijven berichten toevoegen - Marketo Docs - Productdocumentatie
+description: Meer informatie over de instelling voor het automatisch toevoegen van afmeldingsberichten in Sales Connect. Voeg automatisch een koppeling voor afmelden aan e-mails over verkopen toe.
 title: Instelling voor automatisch toevoegen van abonnement op bericht
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Zorg ervoor dat elk verzonden e-mailbericht een afmeldingsbericht bevat, zodat o
 
 >[!TIP]
 >
->Als u het toevoegen onbruikbaar maakt unsubscribe bericht plaatsen, adviseren wij toevoegend een unsubscribe footer aan uw malplaatjes om ervoor te zorgen uw mededeling een opt-out optie heeft. U kunt dit doen door uw eigen douanebericht aan elk malplaatje toe te voegen, of door het `{{team_unsubscribe}}` [&#x200B; dynamische gebied &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} te gebruiken.
+>Als u het toevoegen onbruikbaar maakt unsubscribe bericht plaatsen, adviseren wij toevoegend een unsubscribe footer aan uw malplaatjes om ervoor te zorgen uw mededeling een opt-out optie heeft. U kunt dit doen door uw eigen douanebericht aan elk malplaatje toe te voegen, of door het `{{team_unsubscribe}}` [ dynamische gebied ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} te gebruiken.

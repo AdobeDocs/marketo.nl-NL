@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352587
-description: De campagne is beëindigd - Marketo Docs - productdocumentatie
+description: Krijg hulp wanneer u Campagne in Verkoop Connect hebt geëindigd ziet. Begrijp waarom u niet kunt verzenden en wat te doen wanneer een campagne wordt gebeëindigd.
 title: Campagne is beëindigd
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

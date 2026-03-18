@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352457
-description: .NET Add-in Overzicht - Marketo Docs - Productdocumentatie
+description: Leer over de Verkoop Connect .NET toe:voegen-binnen voor Vooruitzichten. Begrijp erfenis toe:voegen-binnen en hoe het met de Desktop van Vooruitzichten werkt.
 title: .NET toe:voegen-in Overzicht
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dit is onze oude add-in. Als u het reeds hebt geïnstalleerd, zal het tot 2020 blijven werken. Als u een nieuwe gebruiker bent, te installeren gelieve ons nieuw [&#x200B; Bureau 365 toe:voegen-binnen &#x200B;](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
+>Dit is onze oude add-in. Als u het reeds hebt geïnstalleerd, zal het tot 2020 blijven werken. Als u een nieuwe gebruiker bent, te installeren gelieve ons nieuw [ Bureau 365 toe:voegen-binnen ](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
 ## Een stuk inhoud bijvoegen {#attaching-a-piece-of-content}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746184
-description: Historiekaart voor abonnement opzeggen - Marketo Docs - Productdocumentatie
+description: Meer informatie over de historiekaart voor afmelden bij Sales Connect. Bekijk wanneer en hoe een contact zich in hun persoonlijk detailmening afsloot.
 title: Historiekaart afmelden
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

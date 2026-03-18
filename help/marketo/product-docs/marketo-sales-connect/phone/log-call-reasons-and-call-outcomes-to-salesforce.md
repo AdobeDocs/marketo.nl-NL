@@ -1,11 +1,11 @@
 ---
-description: Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u de redenen voor oproepen registreert en uitkomsten van Sales Connect naar Salesforce belt. Zorg ervoor dat de synchronisatie van de vraagpositie naar de juiste Salesforce-velden wordt uitgevoerd.
 title: Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '426'
 ht-degree: 2%
 
 ---
@@ -157,4 +157,4 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; installeer de Gebieden van de Gebeurtenis van de Verkoop Connect op de Geschiedenis van de Activiteit &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
+>[ installeer de Gebieden van de Gebeurtenis van de Verkoop Connect op de Geschiedenis van de Activiteit ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)

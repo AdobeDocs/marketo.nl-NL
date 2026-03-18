@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352406
-description: Een subteam maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een subteam maakt in Sales Connect en er mensen aan toevoegt. Sjablonen, campagnes en groepen organiseren.
 title: Een subteam maken
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '96'
 ht-degree: 1%
 
 ---

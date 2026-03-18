@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352412
-description: Identiteit toevoegen - Marketo-documenten - Productdocumentatie
+description: Leer hoe u een e-mailidentiteit toevoegt in Sales Connect. Stel de verzendidentiteiten in en controleer de e-mailadressen voor bijgehouden e-mails.
 title: Identiteit toevoegen
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -37,4 +37,4 @@ Voeg een identiteit toe wanneer u meerdere e-mailadressen hebt om van te verzend
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg Uw E-mailhandtekening &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md) toe.
+>[ voeg Uw E-mailhandtekening ](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md) toe.

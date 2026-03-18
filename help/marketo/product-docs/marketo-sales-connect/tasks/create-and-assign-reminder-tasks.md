@@ -1,11 +1,11 @@
 ---
-description: Herinneringstaken maken en toewijzen - Marketo Docs - Productdocumentatie
+description: Leer hoe u herinneringstaken maakt en toewijst in Sales Connect. Stel follow-uptaken in voor uzelf of teamleden.
 title: Herinneringstaken maken en toewijzen
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---

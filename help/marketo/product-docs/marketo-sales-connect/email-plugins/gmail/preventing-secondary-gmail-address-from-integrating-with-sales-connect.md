@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352546
-description: Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect - Marketo Docs - Productdocumentatie
+description: Leer hoe u kunt voorkomen dat een secundair Gmail-adres wordt geïntegreerd met Sales Connect. Gebruik alleen de primaire e-mail voor de plug-in.
 title: Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ De meest voorkomende reden voor een verbroken Gmail-verbinding is een onbedoelde
 
 Aanmelden als een andere [!DNL Chrome] gebruiker (aanbevolen)
 
-Klik [&#x200B; deze verbinding &#x200B;](https://support.google.com/chrome/answer/2364824?hl=en) om te lezen hoe te om een ander [!DNL Chrome] Profiel tot stand te brengen.
+Klik [ deze verbinding ](https://support.google.com/chrome/answer/2364824?hl=en) om te lezen hoe te om een ander [!DNL Chrome] Profiel tot stand te brengen.
 
 **Pros**: Het ondertekenen binnen als een andere gebruiker zal een nieuw geval van [!DNL Chrome] openen. Deze instantie is een gloednieuw venster van [!DNL Chrome] en geen van uw oude extensies bestaat in deze instantie. Het houdt ook cookies bij zodat u zich niet telkens bij uw Gmail hoeft aan te melden.
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352623
-description: Toegangsgegevens gebruiker - Marketo Docs - Productdocumentatie
+description: In Sales Connect vindt u meer informatie over de machtigingen voor beheer en gebruikers die geen beheerder zijn. Begrijp wat elke rol voor malplaatjes, campagnes, en mensen kan toegang hebben.
 title: Toegangsgegevens gebruiker
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Waartot hebben Admins en niet-Admins toegang?
 
 ## Beheerdersmachtigingen {#admin-user-permissions}
 
-Admins kan [&#x200B; alle malplaatjes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) bekijken.
+Admins kan [ alle malplaatjes ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md) bekijken.
 
 ![](assets/templates.jpg)
 
-Admins kan [&#x200B; alle campagnes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) bekijken.
+Admins kan [ alle campagnes ](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md) bekijken.
 
 ![](assets/campaigns.jpg)
 

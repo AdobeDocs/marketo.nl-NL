@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352451
-description: Sales Connect verwijderen uit Outlook - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Sales Connect-insteekmodule kunt verwijderen uit Outlook. Verwijder toe:voegen-binnen van de Desktop van Vooruitzichten wanneer nodig.
 title: Sales Connect verwijderen uit Outlook
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De ondersteuning voor de .Net Add-In werd op 19 mei 2019 stopgezet. [&#x200B; klik hier &#x200B;](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) om meer te leren.
+>De ondersteuning voor de .Net Add-In werd op 19 mei 2019 stopgezet. [ klik hier ](https://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) om meer te leren.
 
 1. Klik op het menu **[!UICONTROL Start]** .
 

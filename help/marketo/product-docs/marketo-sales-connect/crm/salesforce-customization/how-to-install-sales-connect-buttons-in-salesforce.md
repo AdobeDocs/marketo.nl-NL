@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352473
-description: Verkoopknoppen installeren in Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe u de verkoopknoppen voor Connect in Salesforce installeert. Voeg Duw toe aan Sales Connect en andere knoppen aan de Salesforce-lay-out.
 title: Verkoopknoppen in Salesforce installeren
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '112'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Installeer Call eenvoudig met Marketo Sales Connect, verzend Marketo Sales Email en voeg toe aan Campagne. U hebt beheerdersrechten nodig in [!DNL Salesforce] om deze velden te installeren.
 
-1. Login aan [&#x200B; Salesforce.com.](https://salesforce.com)
+1. Login aan [ Salesforce.com.](https://salesforce.com)
 1. Klik op **[!UICONTROL Customize]**.
 1. Klik op **[!UICONTROL Leads]**.
 1. Klik op **[!UICONTROL Page Layouts]**.

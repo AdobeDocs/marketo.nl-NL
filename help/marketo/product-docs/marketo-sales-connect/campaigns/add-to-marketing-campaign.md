@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745611
-description: Toevoegen aan marketingcampagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u personen of groepen toevoegt aan een Marketo-marketingcampagne vanuit Sales Connect. Gebruik het tabblad Personen en de optie Marketingcampagne met de werkruimte geselecteerd.
 title: Toevoegen aan marketingcampagne
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '297'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[&#x200B; maak een Campagne zichtbaar aan de Gebruikers van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[ maak een Campagne zichtbaar aan de Gebruikers van de Verkoop ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Personen toevoegen aan een campagne {#add-individuals-to-a-campaign}
 

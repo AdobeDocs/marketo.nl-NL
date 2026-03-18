@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352447
-description: E-mail toevoegen aan Salesforce (Office 365) - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mail naar Salesforce kunt toevoegen via de Outlook Office 365-plug-in. Log verzonden of ontvangen e-mails naar de juiste Salesforce record.
 title: E-mail toevoegen aan Salesforce (Office 365)
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---

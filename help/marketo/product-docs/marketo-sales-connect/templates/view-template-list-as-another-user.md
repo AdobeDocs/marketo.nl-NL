@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317369
-description: Sjabloonlijst weergeven als een andere gebruiker - Marketo Docs - Productdocumentatie
+description: Leer hoe u de sjabloonlijst als een andere gebruiker bekijkt in Sales Connect. Gebruik Weergeven als als beheerder om te zien wat een gebruiker ziet.
 title: Sjabloonlijst weergeven als een andere gebruiker
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---

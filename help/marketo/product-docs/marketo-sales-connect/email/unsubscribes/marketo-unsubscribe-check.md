@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317340
-description: Marketo Unsubscribe Check - Marketo Docs - Productdocumentatie
+description: Begrijp de Marketo-uitstapcontrole in Sales Connect. Leer hoe Sales Connect de status van Marketo-abonnement tijdens het verzenden respecteert.
 title: Marketo Unsubscribe Check
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,4 @@ Afmeldingscontrole van Marketo...
 * Hiervoor moet een Marketo-verbinding tot stand worden gebracht
 * Is een globale instelling
 * Hiermee blokkeert u e-mailberichten die worden verzonden vanuit de webtoepassing, e-mailclients en Salesforce
-* Zal een ontbroken e-mail registreren of een gebruiker verhinderen te verzenden wanneer zij proberen om voor alle werkschema&#39;s (e-mailstop te verzenden, individueel verzenden, verkoopcampagne verzenden, veelvoudige selecteren en verzenden) behalve [&#x200B; groep e-mails &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md) te verzenden, waarin wij zullen verhinderen de e-mails stil te verzenden
+* Zal een ontbroken e-mail registreren of een gebruiker verhinderen te verzenden wanneer zij proberen om voor alle werkschema&#39;s (e-mailstop te verzenden, individueel verzenden, verkoopcampagne verzenden, veelvoudige selecteren en verzenden) behalve [ groep e-mails ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md) te verzenden, waarin wij zullen verhinderen de e-mails stil te verzenden

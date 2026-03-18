@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356568
-description: Een e-mail plannen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailbericht kunt plannen in Sales Connect. Stel een datum en tijd in waarop de bijgehouden e-mail moet worden verzonden vanuit het samenstellingsvenster.
 title: Een e-mail plannen
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -45,4 +45,4 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Overzicht van het Centrum van het Bevel &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
+   >[ Overzicht van het Centrum van het Bevel ](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)

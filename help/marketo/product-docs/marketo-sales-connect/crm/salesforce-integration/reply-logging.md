@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352480
-description: Logboekregistratie voor reacties (SFDC) - Marketo Docs - Productdocumentatie
+description: Begrijp hoe het registreren van antwoorden werkt wanneer Sales Connect met Salesforce wordt verbonden. Hulp bij het configureren van de locatie waar antwoorden zijn aangemeld bij Salesforce.
 title: Logboekregistratie voor reacties (SFDC)
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,9 @@ Met Sales Connect kunt u de antwoorden van uw vooruitzichten automatisch laten r
 ## Vereisten {#requirements}
 
 * E-mails via API-registratie moeten worden geregistreerd
-* Moet [&#x200B; een antwoord &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md) kunnen volgen
+* Moet [ een antwoord ](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md) kunnen volgen
 * Moet zijn verbonden met [!DNL Salesforce]
-* Moet [!DNL Salesforce] [&#x200B; API vraag &#x200B;](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
+* Moet [!DNL Salesforce] [ API vraag ](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
 
 ## Logboekregistratie voor reactie inschakelen {#enable-reply-logging}
 

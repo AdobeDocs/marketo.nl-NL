@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352530
-description: Overzicht van Command Center - Marketo Docs - Productdocumentatie
+description: Meer informatie over het Command Center in Sales Connect. U kunt uw e-mailtaken, verzonden e-mail en follow-ups op één locatie beheren.
 title: Overzicht van Command Center
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
@@ -94,6 +94,6 @@ Bonus: als u uw geavanceerde zoekopdracht opslaat, werkt deze als een dynamische
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Taken &#x200B;](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
->* [&#x200B; Geavanceerd Overzicht van het Onderzoek &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
->* [&#x200B; Samenstellend Bulk E-mail met Uitgezocht en verzendt &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+>* [ Taken ](/help/marketo/product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
+>* [ Geavanceerd Overzicht van het Onderzoek ](/help/marketo/product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
+>* [ Samenstellend Bulk E-mail met Uitgezocht en verzendt ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)

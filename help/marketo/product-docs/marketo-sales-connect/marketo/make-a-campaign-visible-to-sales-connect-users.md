@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745655
-description: Een campagne zichtbaar maken voor Connect-gebruikers - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Marketo-campagne zichtbaar maakt voor gebruikers van Sales Connect. Deel marketingcampagnes, zodat verkopers leads kunnen toevoegen vanuit Sales Connect.
 title: Een campagne zichtbaar maken voor Connect-gebruikers
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---

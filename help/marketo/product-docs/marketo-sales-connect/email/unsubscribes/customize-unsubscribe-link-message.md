@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746186
-description: Abonnementsbericht voor een koppeling aanpassen - Marketo Docs - Productdocumentatie
+description: Leer hoe u het koppelingsbericht voor afmelden aanpast in Sales Connect. Wijzig de tekstontvangers die worden weergegeven voor de koppeling voor afmelden.
 title: Bericht voor opzeggen van koppeling aanpassen
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 ## Overseinen aanpassen voor uzelf {#customize-messaging-for-yourself}
 
-1. Login aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
+1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 ## Abonnementsberichten voor uw team instellen {#set-unsubscribe-messaging-for-your-team}
 
-1. Login aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
+1. Login aan de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram op het hoogste recht en kies **[!UICONTROL Settings]**.
 
    ![](assets/six.png)
 

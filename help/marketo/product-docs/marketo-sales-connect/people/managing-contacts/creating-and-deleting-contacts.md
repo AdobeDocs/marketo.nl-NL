@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352516
-description: Contacten maken en verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u contactpersonen kunt maken en verwijderen in Sales Connect. Voeg handmatig nieuwe contactpersonen toe of verwijder contactpersonen uit uw account.
 title: Contactpersonen maken en verwijderen
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Wilt u meerdere contactpersonen tegelijk toevoegen? [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) om te leren hoe te om contacten via CSV in te voeren.
+   >Wilt u meerdere contactpersonen tegelijk toevoegen? [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) om te leren hoe te om contacten via CSV in te voeren.
 
 ## Contactpersonen verwijderen {#deleting-contacts}
 

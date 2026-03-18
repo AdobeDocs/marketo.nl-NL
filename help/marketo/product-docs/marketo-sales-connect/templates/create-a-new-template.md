@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352639
-description: Een nieuwe sjabloon maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een nieuwe e-mailsjabloon maakt in Sales Connect. Maak herbruikbare sjablonen met dynamische velden en traceerbare inhoud.
 title: Een nieuwe sjabloon maken
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

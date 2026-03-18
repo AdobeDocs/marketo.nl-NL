@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352450
-description: De insteekmodule Sales Connect Email voor Gmail - Marketo Docs - Productdocumentatie installeren
+description: Leer hoe u de e-mailplug-in Sales Connect voor Gmail installeert. Voeg de plug-in toe om bijgehouden e-mailberichten te verzenden en gebruik sjablonen van Gmail.
 title: De insteekmodule Sales Connect Email voor Gmail installeren
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Leer hoe u de Gmail-plug-in installeert.
 >
 >De e-mailplug-ins voor Gmail en Outlook worden alleen ondersteund voor Marketo Sales Connect-gebruikers. Zij worden **niet** gesteund voor de gebruikers van de Acties van Insight van de Verkoop.
 
-1. In de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/next#settings), klik het tandwielpictogram en klik **[!UICONTROL Settings]**.
+1. In de [ Webtoepassing ](https://toutapp.com/next#settings), klik het tandwielpictogram en klik **[!UICONTROL Settings]**.
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-1.png)
 

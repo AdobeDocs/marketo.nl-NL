@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746177
-description: Abonnement op opzeggen herschrijven - Marketo Docs - Productdocumentatie
+description: Leer hoe u een contactpersoon die zich afmeldt bij Sales Connect opnieuw kunt abonneren. Herstel de mogelijkheid om verkoopberichten te ontvangen wanneer dat nodig is.
 title: Abonnement opzeggen
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldin
 >
 >Als u de synchronisatie van uw abonnement hebt uitgeschakeld, moet u het abonnement opzeggen uit ToutApp verwijderen en de optie Weigeren [!DNL Salesforce] uitschakelen om de persoonrecord niet opnieuw te synchroniseren.
 
-1. Ga naar de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) en klik **[!UICONTROL People]**.
+1. Ga naar de [ Webtoepassing ](https://toutapp.com/login) en klik **[!UICONTROL People]**.
 
 1. Selecteer de persoon om de weergave van de persoondetails te openen.
 

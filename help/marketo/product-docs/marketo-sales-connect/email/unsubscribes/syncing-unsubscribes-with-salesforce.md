@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746188
-description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Productdocumentatie
+description: Leer hoe u afmeldingen van Verkoopverbinding synchroniseert met Salesforce. Zorg dat de status Weigeren synchroon blijft, zodat u geen e-mail kunt sturen met uitgeschreven contactpersonen.
 title: Abonnementen synchroniseren met Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 1%
+source-wordcount: '401'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +31,7 @@ Wanneer u de synchronisatie voor afmelden hebt ingeschakeld (stap 3 hieronder), 
 
 Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren met het standaardveld Afmelden via e-mail dat Marketo ook kan synchroniseren met, of ze kunnen synchroniseren met het veld Afmelden bij Marketo zodat Afmelden bij verkoop en Afmelden bij marketing kunnen worden gedifferentieerd.
 
-1. Ga naar de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
+1. Ga naar de [ Webtoepassing ](https://toutapp.com/login), klik het tandwielpictogram en selecteer **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 
@@ -50,7 +50,7 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
    | Veld | Beschrijving |
    |---|---|
    | **[!UICONTROL Sync to Salesforce Opt Out field]** | Hiermee wordt het veld [!DNL Salesforce] Weigeren alleen bijgewerkt. Deze optie is standaard ingeschakeld. |
-   | **[!UICONTROL Sync to Marketo Sales Opt Out field]** | Als u verkoop en Marketing wilt scheiden unsubscribes, verkies deze optie om extra [&#x200B; de Verkoop van Marketo uit gebied bij te werken.](#msoo) |
+   | **[!UICONTROL Sync to Marketo Sales Opt Out field]** | Als u verkoop en Marketing wilt scheiden unsubscribes, verkies deze optie om extra [ de Verkoop van Marketo uit gebied bij te werken.](#msoo) |
 
 ## Het veld Weigeren installeren in de paginalayout {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -58,7 +58,7 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
 
 E-mail Weigeren is een standaardveld in [!DNL Salesforce] dat u kunt installeren vanuit [!DNL Salesforce] . U moet een [!DNL Salesforce] Admin zijn om het te installeren.
 
-1. Ga naar [&#x200B; Salesforce.com &#x200B;](https://salesforce.com) en teken binnen.
+1. Ga naar [ Salesforce.com ](https://salesforce.com) en teken binnen.
 
    ![](assets/five-1.png)
 

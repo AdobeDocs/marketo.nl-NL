@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352633
-description: Een sjabloon favorieten - Marketo Docs - Productdocumentatie
+description: Leer hoe u een sjabloon favoriete in Sales Connect. Sjablonen boven aan de lijst vastzetten, zodat u ze snel kunt gebruiken wanneer u ze samenstelt.
 title: Een sjabloon favorieten
 exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352592
-description: Dynamische velden invoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u dynamische velden invoegt in Sales Connect-sjablonen. Voeg voornaam, bedrijf, en andere fusievelden in de malplaatjeredacteur toe.
 title: Dynamische velden invoegen
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{
 
 >[!TIP]
 >
->Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar [!DNL Sales Connect] als naar [!DNL Salesforce] kijken. Dat betekent als een contact niet in de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) bestaat, kijken wij binnen [!DNL Salesforce] om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
+>Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel naar [!DNL Sales Connect] als naar [!DNL Salesforce] kijken. Dat betekent als een contact niet in de [ Webtoepassing ](https://toutapp.com/login) bestaat, kijken wij binnen [!DNL Salesforce] om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
 
 ## Een dynamisch veld invoegen in een sjabloon {#insert-a-dynamic-field-into-a-template}
 

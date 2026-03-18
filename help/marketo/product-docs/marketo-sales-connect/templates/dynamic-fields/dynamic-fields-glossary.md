@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352509
-description: Dynamische woordenlijst velden - Marketo Docs - Productdocumentatie
+description: Meer informatie over dynamische velden in Sales Connect. Gebruik deze verklarende woordenlijst om beschikbare fusievelden voor malplaatjes en verpersoonlijking te vinden.
 title: Woordenlijst Dynamische velden
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,4 @@ Met dit gereedschap kunt u `auto-personalize your email` gebruiken en tonnen tij
 
 >[!TIP]
 >
->U kunt uw eigen [&#x200B; douane dynamisch gebied &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) voor om het even wat tot stand brengen u in uw e-mails automatisch zou willen hebben getrokken
+>U kunt uw eigen [ douane dynamisch gebied ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) voor om het even wat tot stand brengen u in uw e-mails automatisch zou willen hebben getrokken

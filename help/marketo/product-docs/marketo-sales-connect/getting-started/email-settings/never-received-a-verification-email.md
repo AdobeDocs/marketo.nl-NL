@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352411
-description: Nooit een verificatie-e-mail ontvangen - Marketo Docs - Productdocumentatie
+description: Vraag hulp als je nooit een verificatiebericht van Sales Connect hebt ontvangen. Los problemen op en verzoek om een nieuwe verificatie-e-mail.
 title: Nooit een verificatiebericht ontvangen
 exl-id: 3378f7c1-7203-4405-a57d-8d0556821ed1
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Heb je het verificatiebericht niet van ons ontvangen?
 
 Zorg er eerst voor dat de spammap zich niet bevindt.
 
-Als u niet de e-mail daar vindt, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+Als u niet de e-mail daar vindt, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.

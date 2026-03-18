@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356584
-description: E-mails verzenden via Groepse-e-mail - Marketo Docs - Productdocumentatie
+description: Leer hoe u e-mailberichten via groepse-mail verzendt in Sales Connect. Eén e-mail naar een groep verzenden en de betrokkenheid per ontvanger bijhouden.
 title: E-mailberichten verzenden via e-mail voor groep
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 ## Een groepse-e-mail bewerken {#editing-a-group-email}
 
-1. Creeer een groep e-mail gebruikend [&#x200B; Stappen 1-3 hierboven &#x200B;](#sending-a-group-email).
+1. Creeer een groep e-mail gebruikend [ Stappen 1-3 hierboven ](#sending-a-group-email).
 
 1. Kies een sjabloon of vul uw e-mail in.
 
@@ -59,5 +59,5 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Bulk die Opties &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md) verzendt
->* [&#x200B; Gebruikend een Malplaatje in Samenstellen Venster &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [ Bulk die Opties ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md) verzendt
+>* [ Gebruikend een Malplaatje in Samenstellen Venster ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)

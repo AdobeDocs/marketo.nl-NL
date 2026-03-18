@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15368205
-description: Verkoopverbinding maken met uw Salesforce-sandbox - Marketo Docs - Productdocumentatie
+description: Leer hoe u Sales Connect koppelt aan uw Salesforce-sandbox. De integratie in een sandboxomgeving instellen voor testen.
 title: Verkoopverbinding maken met uw Salesforce-sandbox
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Uw [!DNL &#x200B; Sales Connect] -account kan nog niet verbonden zijn met [!DNL Salesforce] wanneer u een verbinding tot stand brengt met de sandbox. Als het is, [&#x200B; zorg ervoor u &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) losmaakt alvorens de stappen in dit artikel te volgen.
+>Uw [!DNL  Sales Connect] -account kan nog niet verbonden zijn met [!DNL Salesforce] wanneer u een verbinding tot stand brengt met de sandbox. Als het is, [ zorg ervoor u ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) losmaakt alvorens de stappen in dit artikel te volgen.
 
 1. Klik in [!DNL Sales Connect] op het tandwielpictogram rechtsboven en selecteer **[!UICONTROL Settings]** .
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[ hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

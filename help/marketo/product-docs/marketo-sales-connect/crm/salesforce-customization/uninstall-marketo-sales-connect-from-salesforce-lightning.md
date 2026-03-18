@@ -1,10 +1,10 @@
 ---
-description: Marketo Sales Connect verwijderen van Salesforce Lightning - Marketo Docs - Productdocumentatie
+description: Leer hoe u Marketo Sales Connect kunt verwijderen van Salesforce Lightning. Verwijder de aanpassingen en knoppen van Sales Connect uit Lightning.
 title: Marketo Sales Connect verwijderen van Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1199'
 ht-degree: 3%
 
 ---

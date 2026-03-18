@@ -1,11 +1,11 @@
 ---
-description: Triggers en filters voor verkoopactiviteiten - Marketo-documenten - productdocumentatie
+description: Meer informatie over triggers en filters voor verkoopactiviteiten in Marketo. Gebruik Sales Connect-activiteit om slimme campagnes en filters te activeren.
 title: Triggers en filters voor verkoopactiviteiten
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Volg de onderstaande stappen om te leren hoe u verkoopactiviteitfilters en -trig
 
 >[!NOTE]
 >
->Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [&#x200B; Verklarende woordenlijst van de Activiteit van de Verkoop &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [ Verklarende woordenlijst van de Activiteit van de Verkoop ](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

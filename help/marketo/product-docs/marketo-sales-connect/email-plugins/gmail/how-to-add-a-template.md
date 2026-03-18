@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352439
-description: Een sjabloon toevoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een sjabloon toevoegt wanneer u Gmail samenstelt met Sales Connect. Voeg een sjabloon in en pas de afbeelding aan voordat u gaat verzenden.
 title: Een sjabloon toevoegen
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---

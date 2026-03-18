@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37357302
-description: E-mailkolommen en indeling van e-mailpagina - Marketo-documenten - Productdocumentatie
+description: Meer informatie over e-mailkolommen en de lay-out van e-mailpagina's vindt u in Sales Connect. Pas aan welke kolommen worden weergegeven in de weergaven Command Center en E-mail.
 title: E-mailkolommen en indeling van e-mailpagina
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van [
    <td>De datum waarop het e-mailbericht is verzonden.</td>
   </tr>
   <tr>
-   <td>[!UICONTROL Follow Up] Handelingen</td>
+   <td>[!UICONTROL Follow Up] Acties</td>
    <td>De snelle actieknopen die voor follow-up door e-mail, telefoon, inMail, of taak kunnen worden gebruikt.</td>
   </tr>
   <tr>

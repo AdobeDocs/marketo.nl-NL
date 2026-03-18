@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356565
-description: Een bijgehouden e-mail verzenden - Marketo Docs - Productdocumentatie
+description: Leer hoe u bijgehouden e-mailberichten verzendt in Sales Connect. Verzend vanuit het samenstellingsvenster en spoor opent, klikt, en antwoorden.
 title: Een bijgehouden e-mail verzenden
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ Als u een e-mailbericht verzendt met [!DNL Marketo Sales Connect] , worden de we
 >
 >U moet een identiteit laten verifiëren en een e-mailleveringskanaal instellen voordat u een bijgehouden e-mail verzendt.
 >
->* [&#x200B; verifieer uw e-mailadres &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Opstelling een Kanaal van de Levering voor [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [&#x200B; Gmail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [ verifieer uw e-mailadres ](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
+>* Opstelling een Kanaal van de Levering voor [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [ Gmail ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 1. Maak uw e-mailconcept (hiervoor zijn meerdere manieren, in dit voorbeeld kiezen we **[!UICONTROL Compose]** in de koptekst).
 
@@ -50,11 +50,11 @@ Als u een e-mailbericht verzendt met [!DNL Marketo Sales Connect] , worden de we
    >
    >Een onderwerpregel en een ontvanger zijn vereist om de e-mail te verzenden. Wij zullen **automatisch uw ontwerp** bewaren zodra een onderwerpregel en een ontvanger zijn toegevoegd.
 
-1. Stel uw e-mail samen met de editor. Klik **[!UICONTROL Send]** (of [&#x200B; Programma &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), als u verkiest) wanneer gedaan.
+1. Stel uw e-mail samen met de editor. Klik **[!UICONTROL Send]** (of [ Programma ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), als u verkiest) wanneer gedaan.
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Plannend een E-mail &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [&#x200B; Malplaatjes &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [ Plannend een E-mail ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
+   >* [ Malplaatjes ](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)

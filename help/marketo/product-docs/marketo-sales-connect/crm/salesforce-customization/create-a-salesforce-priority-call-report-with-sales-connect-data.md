@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352470
-description: Een Salesforce Priority Call-rapport maken met Sales Connect Data - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Salesforce-rapport met voorrang kunt maken met Sales Connect-gegevens. Bouw rapporten die vraagactiviteit van Sales Connect omvatten.
 title: Een Salesforce Priority Call-rapport maken met Sales Connect-gegevens
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352430
-description: Hoe te om e-mails aan Andere CRMs te registreren - de Documentatie van Marketo -
+description: Leer hoe u e-mailberichten van Sales Connect registreert voor andere CRM's dan Salesforce. Krijg opties voor het registreren van activiteit aan uw CRM.
 title: Hoe te om E-mails aan Andere CRMs te registreren
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Als uw CRM u van een adres BCC voorziet, kunt u de &quot;andere&quot;sectie van 
 
 * Onze functie voor automatische BCC werkt met bijna alle e-mails van CRM&#39;s die u met [!DNL Sales Connect] naar uw leads hebt verzonden. Zorg enkel uw CRM van keus u van een adres BCC voorziet om uit dit voordeel te halen.
 
-**[!DNL Salesforce]**:
+**[!DNL Salesforce]** :
 
 * We doen al het bovenstaande en meer!
 

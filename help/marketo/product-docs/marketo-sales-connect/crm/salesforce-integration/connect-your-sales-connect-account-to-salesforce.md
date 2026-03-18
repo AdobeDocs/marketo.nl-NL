@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352423
-description: Verbind Uw Verkoop Connect Rekening met Salesforce - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u uw Sales Connect-account kunt verbinden met Salesforce. Logboekregistratie van e-mails, oproepen en taken naar Salesforce inschakelen.
 title: Verbinding maken met Salesforce voor uw Sales Connect-account
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '121'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Voer de volgende eenvoudige stappen uit om [!DNL Sales Connect] te verbinden met
 
    ![](assets/one.png)
 
-1. Klik onder [!UICONTROL &#x200B; Admin Settings] op **[!UICONTROL Salesforce]** .
+1. Klik onder [!UICONTROL  Admin Settings] op **[!UICONTROL Salesforce]** .
 
    ![](assets/six.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317338
-description: Geblokkeerde domeinen - Marketo Docs - Productdocumentatie
+description: Leer hoe u domeinen in Sales Connect kunt blokkeren om te voorkomen dat concurrenten per e-mail of spamvallen worden verzonden.
 title: Geblokkeerde domeinen
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Help uw verkoopteam succes te behalen door te voorkomen dat zij per ongeluk conc
 
    >[!NOTE]
    >
-   >E-mail die deel van e-mail van de a [&#x200B; Groep &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) uitmaken verzendt die wegens wordt verzonden naar een geblokkeerd e-maildomein ontbreekt zal stil ontbreken en niet in de ontbroken e-mailomslag verschijnen.
+   >E-mail die deel van e-mail van de a [ Groep ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) uitmaken verzendt die wegens wordt verzonden naar een geblokkeerd e-maildomein ontbreekt zal stil ontbreken en niet in de ontbroken e-mailomslag verschijnen.

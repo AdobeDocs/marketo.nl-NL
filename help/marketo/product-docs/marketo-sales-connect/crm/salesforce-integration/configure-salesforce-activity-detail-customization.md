@@ -1,11 +1,11 @@
 ---
-description: Aanpassing van Salesforce Activity Detail - Marketo-documenten - Productdocumentatie configureren
+description: Leer hoe u aanpassingen van Salesforce-activiteitsdetails configureert voor Sales Connect. Pas aan hoe activiteiten in Salesforce worden weergegeven.
 title: Aanpassing van Salesforce-activiteitsgegevens configureren
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '675'
 ht-degree: 1%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [!DNL Salesforce] en [!DNL Marketo Sales Connect] [&#x200B; moeten worden verbonden &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* Het registreren van e-mailactiviteit via API [&#x200B; moet worden toegelaten &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [!DNL Salesforce] en [!DNL Marketo Sales Connect] [ moeten worden verbonden ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* Het registreren van e-mailactiviteit via API [ moet worden toegelaten ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Met Aanpassing van activiteitendetails kunnen beheerders de informatie configureren die wordt aangemeld bij het veld Salesforce Task - Subject wanneer een [!DNL Sales Connect] activiteit/herinneringstaak wordt gesynchroniseerd met Salesforce.
 
@@ -145,6 +145,6 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Montages van de Synchronisatie &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [&#x200B; de Synchronisatie van de Taak van de herinnering met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [[!DNL Sales Connect]  Aanpassing voor CRM &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [ de Montages van de Synchronisatie ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [ de Synchronisatie van de Taak van de herinnering met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [[!DNL Sales Connect]  Aanpassing voor CRM ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

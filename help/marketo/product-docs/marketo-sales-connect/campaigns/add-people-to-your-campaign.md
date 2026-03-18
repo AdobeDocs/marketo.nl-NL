@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352613
-description: Personen toevoegen aan uw campagne - Marketo Docs - Productdocumentatie
+description: Leer hoe u personen aan een Sales Connect-campagne kunt toevoegen via de webapp, de pagina Personen of Gmail en Outlook. U kunt de eerste e-mailstap voorvertonen, bewerken en plannen.
 title: Personen toevoegen aan uw campagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

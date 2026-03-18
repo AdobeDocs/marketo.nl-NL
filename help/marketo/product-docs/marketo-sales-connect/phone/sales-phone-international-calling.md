@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352434
-description: Telefooninternationale oproep van de verkoop - Marketo Docs - Productdocumentatie
+description: Meer informatie over internationale telefoongesprekken via Sales Connect vindt u in Sales Connect. Maak en registreer internationale vraag en controleer gesteunde landen.
 title: Telefoonnummer internationale oproep
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 4%
+source-wordcount: '409'
+ht-degree: 3%
 
 ---
 

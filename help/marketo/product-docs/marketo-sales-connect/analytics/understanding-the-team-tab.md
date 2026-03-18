@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: Inzicht krijgen in het tabblad [!UICONTROL Team] - Marketo Docs - Productdocumentatie
+description: Begrijp het lusje van het Team en teambrede metriek in Verkoop Connect. E-mails weergeven die zijn verzonden met sjablonen, piektijd voor betrokkenheid, gesloten deals en ledenbord voor lezers.
 title: Het tabblad [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

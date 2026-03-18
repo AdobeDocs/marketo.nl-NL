@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352594
-description: HTML - Marketo Docs - Productdocumentatie gebruiken
+description: Leer hoe u HTML gebruikt in Sales Connect-sjablonen. Voeg aangepaste HTML toe voor opmaak, koppelingen of geavanceerde lay-out in uw sjablonen.
 title: HTML gebruiken
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---

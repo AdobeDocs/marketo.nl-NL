@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352408
-description: Hoe kan ik verkoop verbinden op Mijn Server Lijsten van gewenste personen? - Marketo Docs - Productdocumentatie
+description: Leer hoe u Sales Connect op uw server voegt op lijst van gewenste personen. Voeg vereiste IP's of domeinen toe zodat Sales Connect e-mails kan verzenden en volgen.
 title: Hoe kan ik verkoop verbinden op Mijn Server Lijsten van gewenste personen?
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---

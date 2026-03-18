@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352464
-description: Dashboards rapporteren in Salesforce - Marketo Docs - Productdocumentatie
+description: Meer informatie over het rapporteren van dashboards in Salesforce die gebruik maken van Sales Connect-gegevens. Bellen en e-mailactiviteiten weergeven in Salesforce-rapporten en -dashboards.
 title: Dashboards rapporteren in Salesforce
 exl-id: f27ba3e1-210b-46df-81b5-e794826d36c7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---

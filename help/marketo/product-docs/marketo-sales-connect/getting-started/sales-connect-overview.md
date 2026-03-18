@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796464
-description: Overzicht van Sales Connect - Marketo Docs - Productdocumentatie
+description: Meer informatie over Marketo Sales Connect en de manier waarop deze service de hele verkoopcyclus aanstuurt. Gebruik de live feed, de persoonlijke gegevens en campagnes om verkoop te verbinden met marketing.
 title: Overzicht van Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Marketo Sales Connect is een veelzijdige oplossing voor verkoopondersteuning met
 
 ## De Live feed {#the-live-feed}
 
-De vertegenwoordigers van de verkoop kunnen [&#x200B; betrokkenheid in real time &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) van zowel marketing als verkoopinhoud bekijken.
+De vertegenwoordigers van de verkoop kunnen [ betrokkenheid in real time ](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) van zowel marketing als verkoopinhoud bekijken.
 
 ![](assets/engagement.jpg)
 
 ## Persoonsgegevens weergeven {#person-detail-view}
 
-De toegang [&#x200B; gedetailleerde personenstatistieken &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+De toegang [ gedetailleerde personenstatistieken ](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -80,7 +80,7 @@ Zie hoe je verkoopkansen in huis hebben.
 
 ## Marketing-campagnes delen {#share-marketing-campaigns}
 
-Creeer een eenvoudige slimme campagne om uw verkoopgebruikers toegang tot [&#x200B; de campagnegegevens van Marketo &#x200B;](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) te geven.
+Creeer een eenvoudige slimme campagne om uw verkoopgebruikers toegang tot [ de campagnegegevens van Marketo ](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) te geven.
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -88,4 +88,4 @@ Klaar om aan de slag te gaan? Klik op de onderstaande koppeling voor installatie
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begonnen Gids voor Verkoop Connect Admins &#x200B;](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
+>[ Begonnen Gids voor Verkoop Connect Admins ](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)

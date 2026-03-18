@@ -1,11 +1,11 @@
 ---
-description: Uw profiel beheren - Marketo Docs - Productdocumentatie
+description: Leer hoe u uw Sales Connect-profiel beheert. Werk uw naam, e-mail, en andere profielmontages in de Webtoepassing bij.
 title: Uw profiel beheren
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Hier kunt u uw naam en/of wachtwoord bijwerken.
 
 >[!NOTE]
 >
->Uw e-mailadres is ingesteld op Alleen weergeven. Als u dat ook nodig hebt veranderd, gelieve [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+>Uw e-mailadres is ingesteld op Alleen weergeven. Als u dat ook nodig hebt veranderd, gelieve [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
 
 U kunt uw wachtwoord in deze sectie ook veranderen. De stappen worden beschreven in dit document.
 

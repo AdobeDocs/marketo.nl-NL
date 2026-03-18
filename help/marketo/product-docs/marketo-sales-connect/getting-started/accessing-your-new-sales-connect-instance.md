@@ -1,11 +1,11 @@
 ---
-description: Toegang tot uw nieuwe exemplaar van Sales Connect - Marketo Docs - Productdocumentatie
+description: Leer hoe u toegang krijgt tot uw nieuwe exemplaar van Sales Connect. Kies voor de inrichtingsstappen die Marketo-beheerders kunnen uitvoeren om toegang te verlenen tot Sales Connect.
 title: Toegang tot uw nieuwe Sales Connect-instantie
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ De gebruiker ontvangt een e-mail met stappen om toegang te krijgen tot de Sales 
 
 >[!NOTE]
 >
->De extra gebruikers zullen **niet** door Marketo worden toegevoegd en zullen in plaats daarvan door de pagina van het Beheer van de Gebruiker van Connect van de Verkoop worden toegevoegd. [&#x200B; klik hier &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) om meer over het toevoegen van extra gebruikers te leren.
+>De extra gebruikers zullen **niet** door Marketo worden toegevoegd en zullen in plaats daarvan door de pagina van het Beheer van de Gebruiker van Connect van de Verkoop worden toegevoegd. [ klik hier ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) om meer over het toevoegen van extra gebruikers te leren.

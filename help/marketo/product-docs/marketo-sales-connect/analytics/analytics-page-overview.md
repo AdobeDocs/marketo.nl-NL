@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352416
-description: '[!UICONTROL Analytics] Paginaoverzicht - Marketo Docs - Productdocumentatie'
+description: Meer informatie over de pagina Sales Connect Analytics en de gegevens over de service voor e-mail. Bekijk individueel en teamstaten over me, Team, en de lusjes van de Inhoud.
 title: Overzicht van pagina Analytics
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---

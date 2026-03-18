@@ -1,11 +1,11 @@
 ---
-description: Je wachtwoord voor verkoop en verbinding wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u het wachtwoord voor Verkoopverbinding wijzigt. Werk uw wachtwoord bij van Instellingen om uw account veilig te houden.
 title: Je wachtwoord voor verkoopverbinding wijzigen
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 
 ## Wachtwoord wijzigen bij afmelding {#change-your-password-while-signed-out}
 
-1. Navigeer aan de [&#x200B; Verkoop Connect login &#x200B;](https://toutapp.com/login) pagina en klik **[!UICONTROL Forgot password?]**.
+1. Navigeer aan de [ Verkoop Connect login ](https://toutapp.com/login) pagina en klik **[!UICONTROL Forgot password?]**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 

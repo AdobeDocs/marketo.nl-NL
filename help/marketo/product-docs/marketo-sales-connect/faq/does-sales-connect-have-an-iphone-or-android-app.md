@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352507
-description: Heeft Sales Connect een iPhone- of Android-app? - Marketo Docs - Productdocumentatie
+description: Of Sales Connect een iPhone- of Android-app heeft. Informatie opvragen over mobiele toegang en ondersteunde apparaten.
 title: Heeft Sales Connect een iPhone- of Android-app?
 exl-id: 94f1106a-69fe-44ea-bb57-beba51cee576
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---

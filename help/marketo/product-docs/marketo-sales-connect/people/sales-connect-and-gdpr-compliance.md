@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745825
-description: Sales Connect- en GDPR-compatibiliteit - Marketo-documenten - Productdocumentatie
+description: Meer informatie over de naleving van Sales Connect en GDPR. Begrijp hoe Sales Connect de privacy van gegevens en toestemmingsvereisten steunt.
 title: Sales Connect en GDPR-compatibiliteit
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1299'
+source-wordcount: '1307'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Hoe de marketeers deze hogere verwachtingen rond de inzameling, het gebruik, en 
 
 Er zijn twee belangrijke aspecten van de GDPR waar marketers vroegere, huidige en toekomstige praktijken moeten herzien. Het eerste punt is de instemming van het individu om zijn persoonsgegevens te verwerken, en het tweede is de verantwoordingsplicht, namelijk het kunnen aantonen van de naleving van de beginselen van de GDPR.
 
-Wij verstrekken uitgebreide informatie over toestemming en verantwoordingsplicht binnen het platform van Marketo in ons e-boek, [&#x200B; GDPR en de Marketer &#x200B;](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in [!DNL Marketo Sales Connect] die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
+Wij verstrekken uitgebreide informatie over toestemming en verantwoordingsplicht binnen het platform van Marketo in ons e-boek, [ GDPR en de Marketer ](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in [!DNL Marketo Sales Connect] die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
 
 ## GDPR-compatibiliteit in [!DNL Marketo Sales Connect] {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -189,4 +189,4 @@ Een algemeen verkeerd begrepen gebied van GDPR omvat contacten die van het gegev
 
 Als een enthousiast pleitbezorger van de kracht en de klantgerichtheid van de service-economie begrijpt Marketo het belang van het in handen brengen van de betrokkene van privacy en gegevensbescherming. Net als bij andere wetten inzake gegevensbescherming vereist GDPR-naleving betrokkenheid van zowel Marketo als onze klanten. Dit artikel is bedoeld om u te helpen Marketo op een geschikte manier te gebruiken om de naleving van GDPR van uw organisatie te steunen.
 
-We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. De updates zullen aan ons Centrum van het Vertrouwen in [&#x200B; trust.marketo.com &#x200B;](https://trust.marketo.com) worden gepost.
+We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. De updates zullen aan ons Centrum van het Vertrouwen in [ trust.marketo.com ](https://trust.marketo.com) worden gepost.

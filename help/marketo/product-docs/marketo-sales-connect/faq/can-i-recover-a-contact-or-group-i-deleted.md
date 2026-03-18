@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352485
-description: Kan ik een door mij verwijderde contactpersoon of groep herstellen? - Marketo Docs - Productdocumentatie
+description: Ga voor hulp naar of u een verwijderde contactpersoon of groep kunt herstellen in Sales Connect. Begrijp terugwinningsopties na verwijdering.
 title: Kan ik een door mij verwijderde contactpersoon of groep herstellen?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---

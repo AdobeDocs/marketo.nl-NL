@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355755
-description: Vergrendeling van inhoud - Marketo-documenten - Productdocumentatie
+description: Leer hoe u vastzetten van inhoud inschakelt om gebruikers die geen beheerder zijn, te beperken in het bewerken van sjablonen en campagnes.
 title: Inhoud vergrendelen
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---

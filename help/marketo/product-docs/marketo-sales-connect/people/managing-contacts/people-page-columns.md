@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081307
-description: Kolommen met personenpagina's - Marketo Docs - Productdocumentatie
+description: Meer informatie over kolommen op de pagina Personen in Sales Connect. Pas aan welke kolommen worden getoond om de contactinfo te bekijken u wenst.
 title: Kolommen Personen
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '244'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13796471
-description: Overzicht van Live Feed - Marketo Docs - Productdocumentatie
+description: Meer informatie over Live feed vindt u in Sales Connect. Bekijk de betrokkenheid in real time op uw e-mails en inhoud van marketing en verkoop.
 title: Overzicht van Live feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---

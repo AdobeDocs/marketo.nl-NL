@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45416564
-description: Enable Call Recording - Marketo Docs - Productdocumentatie
+description: Leer hoe u het opnemen van oproepen inschakelt in Sales Connect. Schakel opname voor verkooptelefoon in en voer de toestemming van twee partijen in.
 title: Schakel Call Recording in
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Als beheerder kunt u vraagopname voor uw [!DNL Sales Connect] vraag toelaten. He
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Twee Montages van de Toestemming van de Partij &#x200B;](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
+>[ Twee Montages van de Toestemming van de Partij ](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)

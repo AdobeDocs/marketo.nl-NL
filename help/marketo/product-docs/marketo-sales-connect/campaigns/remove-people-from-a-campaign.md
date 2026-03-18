@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352608
-description: Personen uit een campagne verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u mensen uit een Sales Connect-campagne kunt verwijderen. Verwijder individuen uit de campagne of de pagina van Mensen, of verwijder groepen in bulk.
 title: Personen uit een campagne verwijderen
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---

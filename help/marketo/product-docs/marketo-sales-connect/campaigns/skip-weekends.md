@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352622
-description: Weekends overslaan - Marketo Docs - Productdocumentatie
+description: Leer hoe u weekends overslaat bij het automatiseren van Sales Connect-campagnes. Vermijd het verzenden van campagne-e-mails op zaterdag of zondag.
 title: Weekends overslaan
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '76'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Wanneer u een campagne automatiseert, wilt u waarschijnlijk niet dat uw e-mails op zaterdag of zondag verschijnen. Zo niet, dan kunt u weekends overslaan.
 
-1. Klik in [!DNL Sales Connect] op de tab **[!UICONTROL &#x200B; Campaigns]** .
+1. Klik in [!DNL Sales Connect] op de tab **[!UICONTROL  Campaigns]** .
 
    ![](assets/one-2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352547
-description: De insteekmodule Sales Connect wordt niet weergegeven in Gmail - Marketo Docs - Productdocumentatie
+description: Vraag hulp aan als de insteekmodule Sales Connect niet wordt weergegeven in Gmail. Los installatie en browser verenigbaarheid op.
 title: De insteekmodule Verkoop Connect wordt niet weergegeven in Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ Uit onze ervaring kunt u het volgende proberen als uw werkbalk niet wordt weerge
 
 - Dit kan duidelijk zijn, maar probeer uit uw browser weg te gaan en een volledig nieuw venster te openen.
 
-- Hoofd over aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) en zorg ervoor u daar het programma wordt geopend.
+- Hoofd over aan de [ Webtoepassing ](https://toutapp.com/login) en zorg ervoor u daar het programma wordt geopend.
 
 - Zorg ervoor dat cookies zijn ingeschakeld. Als u [!DNL Chrome] gebruikt, gaat u naar [!UICONTROL Settings] > [!UICONTROL Show advanced settings] > [!UICONTROL Content settings] > &quot;[!UICONTROL Block third-party cookies and site data]&quot; uitschakelen.
 
 - Probeer de verbinding te verbreken en de browserextensie van [!DNL Sales Connect] opnieuw te verbinden.
 
-Als geen van bovenstaande uiteinden hielp, gelieve [&#x200B; een geval &#x200B;](https://nation.marketo.com/community/support_solutions) aan Steun voor te leggen.
+Als geen van bovenstaande uiteinden hielp, gelieve [ een geval ](https://nation.marketo.com/community/support_solutions) aan Steun voor te leggen.

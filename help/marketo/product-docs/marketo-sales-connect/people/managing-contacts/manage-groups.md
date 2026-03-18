@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081250
-description: Groepen beheren - Marketo Docs - Productdocumentatie
+description: Leer hoe u groepen beheert in Sales Connect. Maak, bewerk, deel en organiseer contactgroepen voor campagnes en outreach.
 title: Groepen beheren
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Leer hoe u uw groepen beheert in [!DNL Sales Connect] .
 
    >[!NOTE]
    >
-   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [&#x200B; deze stappen &#x200B;](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [ deze stappen ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Vul de contactgegevens in en klik op **[!UICONTROL Create]** (of **[!UICONTROL Create and Add New]** om een andere contactpersoon toe te voegen).
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352437
-description: De Opnamen van de Vraag van het aandeel met Uw Team - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u opnamen van Sales Connect-oproepen deelt met uw team. Toegang tot en het delen van opgenomen oproepen tot training of follow-up.
 title: De Opnamen van de Vraag van het aandeel met Uw Team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De Telefoon van de verkoop geeft u de capaciteit om uw vraagopnamen te registrer
 
 ## De Verbinding van de Opname van het exemplaar van de Details van de Persoon in de Toepassing van het Web {#copy-recording-link-from-the-person-details-in-the-web-application}
 
-1. Navigeer aan de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login).
+1. Navigeer aan de [ Webtoepassing ](https://toutapp.com/login).
 
 1. Open de persoonlijke gegevens.
 

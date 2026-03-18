@@ -1,12 +1,12 @@
 ---
 unique-page-id: 45416566
-description: Instellingen voor tweeledige toestemming - Marketo-documenten - productdocumentatie
+description: Meer informatie over instellingen voor twee partijen voor toestemming bij het opnemen van gesprekken in Sales Connect. Voldoen aan de wetten van de staat die toestemming vereisen om te registreren.
 title: Instellingen voor tweeledige toestemming
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
 >[!PREREQUISITES]
 >
->Alvorens de stappen hieronder te volgen, moet u vraagopname [&#x200B; eerst &#x200B;](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) toelaten.
+>Alvorens de stappen hieronder te volgen, moet u vraagopname [ eerst ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) toelaten.
 
 1. Klik op het pictogram Instellingen en selecteer **[!UICONTROL Settings]** .
 

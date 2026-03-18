@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352548
-description: Hoe u Sales Connect kunt verwijderen uit Gmail - Marketo Docs - Productdocumentatie
+description: Leer hoe u de Sales Connect-plug-in van Gmail kunt verwijderen. Verwijder indien nodig de insteekmodule uit uw Gmail-account.
 title: Sales Connect verwijderen van Gmail
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 3%
+source-wordcount: '74'
+ht-degree: 2%
 
 ---
 

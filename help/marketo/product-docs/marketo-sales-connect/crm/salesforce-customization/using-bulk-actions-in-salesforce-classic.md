@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762794
-description: Het gebruiken van Bulkacties in  [!DNL Salesforce]  Klassiek - de Documentatie van Marketo - de Documentatie van het Product
+description: Leer hoe u bulkacties kunt gebruiken in Salesforce Classic met Sales Connect. Druk meerdere leads of contactpersonen tegelijk op Sales Connect.
 title: Het gebruiken van Bulkacties in  [!DNL Salesforce]  Klassiek
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 >[!PREREQUISITES]
 >
->Update naar de nieuwste versie van het [!DNL Sales Connect] -pakket en installeer de bulkactieknoppen in de weergave voor lead/contact. [&#x200B; klik hier voor instructies &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>Update naar de nieuwste versie van het [!DNL Sales Connect] -pakket en installeer de bulkactieknoppen in de weergave voor lead/contact. [ klik hier voor instructies ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -81,5 +81,5 @@ e. U kunt het e-mailbericht direct verzenden of plannen om het op een later tijd
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; verzendend E-mails via E-mail van de Groep &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
->* [&#x200B; Samenstellend Bulk E-mail met Uitgezocht en verzendt &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [ verzendend E-mails via E-mail van de Groep ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [ Samenstellend Bulk E-mail met Uitgezocht en verzendt ](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)

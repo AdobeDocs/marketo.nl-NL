@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352491
-description: Waarom werden niet al mijn contacten geduwd op Sales Connect? - Marketo Docs - Productdocumentatie
+description: Vraag hulp als niet alle contactpersonen vanuit Salesforce naar Sales Connect zijn gestuurd. Begrijp synchronisatiefilters en contactcriteria.
 title: Waarom werden niet al mijn contacten geduwd op Sales Connect?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352612
-description: Een campagne plannen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een Sales Connect-campagne kunt plannen. Stel de verzendtijden voor elke e-mailstap in of gebruik dezelfde tijd als de eerste e-mail wanneer u personen toevoegt.
 title: Een campagne plannen
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

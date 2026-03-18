@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352537
-description: Uw e-mailbijlagen bijhouden - Marketo Docs - Productdocumentatie
+description: Leer hoe u uw e-mailbijlagen kunt bijhouden in Sales Connect. Bijlagen traceerbaar maken en zien wanneer ontvangers openen of downloaden.
 title: Uw e-mailbijlagen bijhouden
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
 # Uw e-mailbijlagen bijhouden {#how-to-track-your-email-attachments}
 
-[!DNL Sales Connect] biedt tracering op uw bijlagen (.doc, .ppt, .pdf) zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s uw ontvanger doorzoekt. Wij zullen u toestaan om onze volgbare gehechtheid van zowel de [&#x200B; Webtoepassing &#x200B;](https://toutapp.com/login) als Gmail (of de Apps van Google) te gebruiken.
+[!DNL Sales Connect] biedt tracering op uw bijlagen (.doc, .ppt, .pdf) zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s uw ontvanger doorzoekt. Wij zullen u toestaan om onze volgbare gehechtheid van zowel de [ Webtoepassing ](https://toutapp.com/login) als Gmail (of de Apps van Google) te gebruiken.
 
 >[!NOTE]
 >

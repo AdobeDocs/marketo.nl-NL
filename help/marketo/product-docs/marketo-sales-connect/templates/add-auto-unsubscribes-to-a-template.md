@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352637
-description: Automatisch afmelden aan een sjabloon toevoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u automatisch afmeldt bij een Sales Connect-sjabloon. Neem een afmeldingskoppeling op zodat ontvangers kunnen weigeren.
 title: Automatisch afmelden aan een sjabloon toevoegen
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---

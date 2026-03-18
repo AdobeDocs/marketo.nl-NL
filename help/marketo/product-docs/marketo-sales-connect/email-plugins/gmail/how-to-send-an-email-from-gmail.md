@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352440
-description: E-mail verzenden vanuit Gmail - Marketo Docs - Productdocumentatie
+description: Leer hoe u een bijgehouden e-mail van Gmail verzendt met de insteekmodule Sales Connect. Samenstellen in Gmail en spoor opent, klikt, en antwoorden.
 title: E-mail verzenden vanuit Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Herinnering taaksynchronisatie met Salesforce - Marketo Docs - Productdocumentatie
+description: Begrijp hoe VerkoopConnect-herinneringen synchroniseren met Salesforce. Leer synchronisatiegedrag en waar taken worden weergegeven in Salesforce.
 title: Taaksynchronisatie met Salesforce herinneren
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Leren hoe te om de controle van de Synchronisatie van de Taak uit [&#x200B; te laten synchroniseren  [!DNL Sales Connect]  Taken/Herinneringen aan  [!DNL Salesforce]  Taken &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>Leren hoe te om de controle van de Synchronisatie van de Taak uit [ te laten synchroniseren  [!DNL Sales Connect]  Taken/Herinneringen aan  [!DNL Salesforce]  Taken ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
 
 Als de instellingen voor taaksynchronisatie zijn ingeschakeld, worden de herinneringstaken bidirectioneel gesynchroniseerd met [!DNL Salesforce] . Dit betekent dat gebruikers taken vanuit [!DNL Salesforce] of [!DNL Sales Connect] kunnen beheren en erop kunnen vertrouwen dat de systemen op één lijn blijven staan.
 
@@ -77,8 +77,8 @@ Hier volgt wat er gebeurt wanneer u [!DNL Sales Connect] - en SFDC-taken synchro
 
 Na de eerste synchronisatie worden alle taken die u maakt, bewerkt, voltooit of verwijdert in [!DNL Sales Connect] , gesynchroniseerd met de takenlijst in [!DNL Salesforce] . En alles wat in [!DNL Salesforce] is gemaakt, bewerkt, voltooid of verwijderd, werkt uw takenlijst bij in [!DNL Sales Connect] .
 
-Om deze synchronisatie aan te zetten, controleer enkel de synchronisatiedoos in uw [&#x200B; pagina van Montages &#x200B;](https://toutapp.com/login) in de Webtoepassing.
+Om deze synchronisatie aan te zetten, controleer enkel de synchronisatiedoos in uw [ pagina van Montages ](https://toutapp.com/login) in de Webtoepassing.
 
 >[!NOTE]
 >
->Het onderwerpgebied van een taak kan in [!DNL Sales Connect] worden bijgewerkt en die update zal op het [!DNL Salesforce] onderwerpgebied voor de overeenkomstige gesynchroniseerde taak worden gesynchroniseerd, als u het `{{activity_subject}}` dynamische gebied in uw [&#x200B; montages van de Aanpassing van het Detail van de Activiteit &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) gebruikt. Omgekeerd, zullen om het even welke die updates aan het onderwerpgebied in [!DNL Salesforce] worden aangebracht *niet* over aan het [!DNL Sales Connect] onderwerponderwerpgebied van de herinneringstaak synchroniseren.
+>Het onderwerpgebied van een taak kan in [!DNL Sales Connect] worden bijgewerkt en die update zal op het [!DNL Salesforce] onderwerpgebied voor de overeenkomstige gesynchroniseerde taak worden gesynchroniseerd, als u het `{{activity_subject}}` dynamische gebied in uw [ montages van de Aanpassing van het Detail van de Activiteit ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) gebruikt. Omgekeerd, zullen om het even welke die updates aan het onderwerpgebied in [!DNL Salesforce] worden aangebracht *niet* over aan het [!DNL Sales Connect] onderwerponderwerpgebied van de herinneringstaak synchroniseren.

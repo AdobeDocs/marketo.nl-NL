@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352484
-description: '"We konden uw verzoek niet verifiëren" bij verbinding met Salesforce - Marketo Docs - productdocumentatie'
+description: Hulp bij het herstellen van de fout We kunnen uw aanvraag niet verifiëren wanneer u verbinding maakt met Sales Connect op Salesforce. Problemen met verificatie oplossen.
 title: '"We konden uw aanvraag niet verifiëren" bij verbinding met Salesforce oplossen'
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '157'
 ht-degree: 3%
 
 ---
