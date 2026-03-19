@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ voeg Inhoud aan een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
+>[&#x200B; voeg Inhoud aan een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
 
 Een fragment moet vóór gebruik worden goedgekeurd.
 
@@ -31,4 +31,4 @@ Dat is het! De status van uw fragment verandert van Concept in Goedgekeurd.
 
 >[!MORELIKETHIS]
 >
->[ keur een Fragment met toe:voegen-ontwerp ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md) goed
+>[&#x200B; keur een Fragment met toe:voegen-ontwerp &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md) goed

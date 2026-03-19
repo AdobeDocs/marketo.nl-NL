@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[ keurt een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md) niet goed
+>[&#x200B; keurt een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md) niet goed
 
 Verwijder een fragment dat u niet meer nodig hebt.
 

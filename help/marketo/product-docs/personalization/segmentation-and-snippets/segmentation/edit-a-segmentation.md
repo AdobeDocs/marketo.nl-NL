@@ -53,7 +53,7 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
 ## Segmentregels bewerken {#edit-segment-rules}
 
-1. In uw [!UICONTROL Draft] **Segment**, ga naar **[!UICONTROL Smart List]**. Pas regels toe gelijkend op [ het bepalen van de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. In uw [!UICONTROL Draft] **Segment**, ga naar **[!UICONTROL Smart List]**. Pas regels toe gelijkend op [&#x200B; het bepalen van de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -69,4 +69,4 @@ U kunt experimenteren met segmentaties die niet worden gebruikt in dynamische in
 
 >[!MORELIKETHIS]
 >
->[ Schrap een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
+>[&#x200B; Schrap een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
