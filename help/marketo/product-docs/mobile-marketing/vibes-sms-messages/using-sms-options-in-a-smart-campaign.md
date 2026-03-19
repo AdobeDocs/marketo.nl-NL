@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Het gebruiken van de Opties van SMS in een Slimme Campagne {#using-sms-options-in-a-smart-campaign}
 
-Nadat u [ een bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} creeert, zult u de Slimme trekkers en de filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen.
+Nadat u [&#x200B; een bericht van SMS &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} creeert, zult u de Slimme trekkers en de filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen.
 
 >[!NOTE]
 >
->Als u een bericht van SMS wilt verzenden, hebben wij a [ specifiek artikel ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} voor dat.
+>Als u een bericht van SMS wilt verzenden, hebben wij a [&#x200B; specifiek artikel &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} voor dat.
 
 >[!PREREQUISITES]
 >
->De trekkers/de filters van SMS verschijnen slechts als de [ dienst van Lagen ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} is toegelaten.
+>De trekkers/de filters van SMS verschijnen slechts als de [&#x200B; dienst van Lagen &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} is toegelaten.
 
 ## SMS-triggers {#sms-triggers}
 
@@ -86,6 +86,6 @@ Er zijn drie SMS-stappen waaruit u kunt kiezen.
 
 >[!MORELIKETHIS]
 >
->* [ verzend een Bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [ bepaalt Slimme Lijst voor Slimme Campagne | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [ bepaalt Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [&#x200B; verzend een Bericht van SMS &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Batch &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

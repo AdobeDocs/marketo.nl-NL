@@ -58,8 +58,8 @@ De derde lay-out Volledig scherm is gelijk aan de tweede, behalve de tweede. Dit
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu u over de malplaatjes kent, het tijd om te kiezen wanneer u [ uw in-app berichtbeelden ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md) creeert.
+Nu u over de malplaatjes kent, het tijd om te kiezen wanneer u [&#x200B; uw in-app berichtbeelden &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md) creeert.
 
 >[!MORELIKETHIS]
 >
->[ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>[&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)

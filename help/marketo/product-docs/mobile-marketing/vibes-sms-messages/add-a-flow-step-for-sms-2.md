@@ -40,7 +40,7 @@ Marketo Engage heeft drie stappen die u kunt gebruiken in uw slimme SMS-campagne
 >* Marketo dedupliceert per telefoonnummer. Dus, als de veelvoudige mensen het zelfde telefoonaantal hebben, slechts zal één persoon het bericht ontvangen als zij een lid van slechts één lijst van het Abonnement van Vibes zijn. De-duping wordt gedaan op het niveau van de Abonnementenlijst van Vibes, niet het het programmaniveau van Marketo.
 >* Marketo zal niet verzenden naar mensen die zijn gevoegd op lijst van gewenste personen of die het in de handel brengen hebben opgeschort.
 
-Voor algemene informatie bij de stappen van de opstellingsstroom, zie [ een Stap van de Stroom aan een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) toevoegen.
+Voor algemene informatie bij de stappen van de opstellingsstroom, zie [&#x200B; een Stap van de Stroom aan een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) toevoegen.
 
 Hier zijn de grondbeginselen voor het gebruiken van SMS.
 

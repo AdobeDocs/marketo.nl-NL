@@ -71,9 +71,9 @@ U kunt het standaardknopontwerp gebruiken, wijzigen of uploaden.
    >
    >De knoop heeft altijd een tikactie, zodat wordt checkbox van de Actie van de Tik automatisch geselecteerd, met het standaardbericht &quot;[!UICONTROL Dismiss Message]&quot;.
 
-Bijna. Uw laatste stap moet [ uw in-app berichtachtergrond vormen en knoop ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) sluiten.
+Bijna. Uw laatste stap moet [&#x200B; uw in-app berichtachtergrond vormen en knoop &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) sluiten.
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [ Kies een lay-out voor uw [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [&#x200B; Kies een lay-out voor uw [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

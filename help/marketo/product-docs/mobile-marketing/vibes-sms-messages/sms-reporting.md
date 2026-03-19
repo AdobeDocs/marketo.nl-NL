@@ -16,7 +16,7 @@ Het SMS-berichtendashboard biedt handige analyses van uw berichten.
 
 ## Het dashboard openen {#access-the-dashboard}
 
-1. Selecteer het gewenste SMS-bericht om de rapportage weer te geven. Klik de **drop-down Mening 0} en selecteer** Dashboard **.**
+1. Selecteer het gewenste SMS-bericht om de rapportage weer te geven. Klik de **drop-down Mening 0&rbrace; en selecteer** Dashboard **.**
 
    ![](assets/sms-reporting-1.png)
 

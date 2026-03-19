@@ -37,7 +37,7 @@ U kunt een voorbeeld verzenden om te controleren of uw pushmelding correct werkt
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Of, klik **[!UICONTROL Add Device]** aan [ voeg een nieuw testapparaat ](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) toe om de steekproef naar te verzenden.
+   Of, klik **[!UICONTROL Add Device]** aan [&#x200B; voeg een nieuw testapparaat &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) toe om de steekproef naar te verzenden.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 

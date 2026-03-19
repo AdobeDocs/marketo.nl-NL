@@ -43,4 +43,4 @@ Alles klaar! Nu kunt u beginnen met het verzenden van pushberichten.
 
 >[!MORELIKETHIS]
 >
->[ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>[&#x200B; creeer een Duw Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)

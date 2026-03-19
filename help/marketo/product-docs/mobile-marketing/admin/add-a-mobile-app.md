@@ -46,5 +46,5 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 
 >[!MORELIKETHIS]
 >
->* [ vorm Mobiele App Android Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
->* [ vorm Mobiele App iOS Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>* [&#x200B; vorm Mobiele App Android Push Access &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [&#x200B; vorm Mobiele App iOS Push Access &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

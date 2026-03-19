@@ -37,5 +37,5 @@ Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
    >[!MORELIKETHIS]
    >
-   >* [ Begrijpend de Berichten van de Duw ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-   >* [ verzend een Mobiel Push Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+   >* [&#x200B; Begrijpend de Berichten van de Duw &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [&#x200B; verzend een Mobiel Push Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

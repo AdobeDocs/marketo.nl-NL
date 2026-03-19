@@ -17,8 +17,8 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
 
 >[!PREREQUISITES]
 >
->* [ creeer een Nieuwe Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [&#x200B; creeer een Nieuwe Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [&#x200B; creeer een Duw Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 

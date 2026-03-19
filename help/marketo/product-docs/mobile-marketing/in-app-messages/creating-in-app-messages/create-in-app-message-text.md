@@ -85,5 +85,5 @@ Je bent gouden. Daarna, moet u opstelling uw in-app berichtknoop [.](/help/marke
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [&#x200B; kies een Lay-out voor Uw Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

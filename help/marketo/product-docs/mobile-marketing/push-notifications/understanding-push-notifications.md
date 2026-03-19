@@ -25,15 +25,15 @@ Met de mobiele service van Marketo kunt u een bericht maken, configureren en ver
 
 ## Stap 1: Aanvankelijke instellingen uitvoeren door beheerder en ontwikkelaar {#step-admin-and-developer-perform-initial-setups}
 
-De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [ alvorens u Push Meldingen en Berichten In-App ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor details creeert.
+De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [&#x200B; alvorens u Push Meldingen en Berichten In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor details creeert.
 
 ## Stap 2: Een pushmelding maken {#step-create-a-push-notification}
 
-[ creeer uw overseinen ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) en voorproef hoe het op Android en de apparaten van iOS wordt getoond.
+[&#x200B; creeer uw overseinen &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) en voorproef hoe het op Android en de apparaten van iOS wordt getoond.
 
 ## Stap 3: Verzenden! {#step-send}
 
-[ de pushberichten kunnen ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) worden verzonden gebruikend trekker en partij slimme campagnes. Mooi cool, hè?
+[&#x200B; de pushberichten kunnen &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) worden verzonden gebruikend trekker en partij slimme campagnes. Mooi cool, hè?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

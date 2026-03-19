@@ -67,5 +67,5 @@ Met de voorvertoning van pushberichten weet u dus altijd wat uw klanten gaan zie
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->* [ Vorm Mobiel Push Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+>* [&#x200B; creeer een Duw Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [&#x200B; Vorm Mobiel Push Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

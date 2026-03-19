@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Leer meer over [ het vormen duw berichten ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) hier.
+>Leer meer over [&#x200B; het vormen duw berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) hier.

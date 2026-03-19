@@ -71,9 +71,9 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
 Zoveel keuzes, maar nu heb je een geweldige boodschap in de app, klaar om te gaan!
 
-Nu is het tijd aan [ uw bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) te verzenden.
+Nu is het tijd aan [&#x200B; uw bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) te verzenden.
 
 >[!MORELIKETHIS]
 >
->* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [&#x200B; kies een Lay-out voor Uw Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
