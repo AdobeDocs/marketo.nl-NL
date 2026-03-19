@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11370503
-description: Uw bericht in de app plannen - Marketo Docs - Productdocumentatie
+description: Leer hoe u uw bericht in de app plant. Stel een begindatum en -tijd voor de toekomst in of voer deze onmiddellijk uit met de optionele einddatum.
 title: Uw bericht in de app plannen
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -31,4 +31,4 @@ Verzend nu uw bericht of plant het voor later.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Eenvoudig! Last but not least is de [&#x200B; stap van de Goedkeuring &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).
+Eenvoudig! Last but not least is de [ stap van de Goedkeuring ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).

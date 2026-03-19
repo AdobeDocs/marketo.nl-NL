@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096158
-description: Mobiele toegangsbeveiliging verifiëren - Marketo Docs - Productdocumentatie
+description: Leer hoe u Toegangstoets en Toegangsgeheim inschakelt voor beveiliging van mobiele apps. Geef de IT-afdeling codes zodat de aanmeldingen van de app worden geverifieerd.
 title: Beveiliging mobiele toegang verifiëren
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---

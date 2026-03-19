@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511518
-description: Inzicht krijgen in pushberichten - Marketo Docs - Productdocumentatie
+description: Meer informatie over pushberichten in Marketo. Begrijp de opstelling van Admin en van de ontwikkelaar, dan creeer, vorm, en verzend via slimme campagnes.
 title: Pushberichten
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Met de mobiele service van Marketo kunt u een bericht maken, configureren en ver
 
 ## Stap 1: Aanvankelijke instellingen uitvoeren door beheerder en ontwikkelaar {#step-admin-and-developer-perform-initial-setups}
 
-De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [&#x200B; alvorens u Push Meldingen en Berichten In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor details creeert.
+De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [ alvorens u Push Meldingen en Berichten In-App ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor details creeert.
 
 ## Stap 2: Een pushmelding maken {#step-create-a-push-notification}
 
-[&#x200B; creeer uw overseinen &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) en voorproef hoe het op Android en de apparaten van iOS wordt getoond.
+[ creeer uw overseinen ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) en voorproef hoe het op Android en de apparaten van iOS wordt getoond.
 
 ## Stap 3: Verzenden! {#step-send}
 
-[&#x200B; de pushberichten kunnen &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) worden verzonden gebruikend trekker en partij slimme campagnes. Mooi cool, hè?
+[ de pushberichten kunnen ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) worden verzonden gebruikend trekker en partij slimme campagnes. Mooi cool, hè?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 

@@ -1,18 +1,18 @@
 ---
-description: Een SMS-bericht verzenden - Marketo Docs - Productdocumentatie
+description: Leer hoe u een SMS-bericht verzendt via batch- of triggercampagne. Definieer slimme lijst, voeg de stap SMS-stroom verzenden toe en plant of activeer vervolgens de slimme lijst.
 title: Een SMS-bericht verzenden
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
 # Een SMS-bericht verzenden {#send-a-vibes-sms-message}
 
-U hebt [&#x200B; uw bericht van SMS &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} gecreeerd, nu is het tijd om het te verzenden. U kunt het verzenden via Campagne of Trigger.
+U hebt [ uw bericht van SMS ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} gecreeerd, nu is het tijd om het te verzenden. U kunt het verzenden via Campagne of Trigger.
 
 >[!NOTE]
 >
@@ -76,5 +76,5 @@ U hebt [&#x200B; uw bericht van SMS &#x200B;](/help/marketo/product-docs/mobile-
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Bericht van Lagen &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [&#x200B; Gebruikend de Opties van SMS in een Slimme Campagne &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [ creeer een Bericht van Lagen ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [ Gebruikend de Opties van SMS in een Slimme Campagne ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

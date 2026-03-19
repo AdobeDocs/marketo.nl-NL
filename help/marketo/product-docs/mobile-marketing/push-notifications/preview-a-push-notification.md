@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092730
-description: Een voorbeeld van een pushmelding bekijken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een pushmelding kunt bekijken op Android en iOS. Zie hoe het op het scherm van het Huis, het scherm van het Slot, en het Centrum van het Bericht kijkt.
 title: Een voorbeeld van een pushmelding bekijken
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -67,5 +67,5 @@ Met de voorvertoning van pushberichten weet u dus altijd wat uw klanten gaan zie
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Duw Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->* [&#x200B; Vorm Mobiel Push Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+>* [ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [ Vorm Mobiel Push Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

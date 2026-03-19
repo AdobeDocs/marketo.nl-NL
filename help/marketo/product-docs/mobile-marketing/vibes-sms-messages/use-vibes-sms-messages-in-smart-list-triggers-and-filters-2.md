@@ -1,19 +1,19 @@
 ---
-description: SMS-berichten gebruiken in Smart List Triggers and Filters - Marketo Docs - Productdocumentatie
+description: Leer hoe u de triggers en filters van Vibes SMS kunt gebruiken in Slimme campagnes. Bepaal wanneer u wilt verzenden of filteren op abonnement en lijstlidmaatschap.
 title: SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
 # SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Nadat u [&#x200B; een bericht van SMS van Levenben &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} creeert, zult u de Slimme trekkers en de filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
+Nadat u [ een bericht van SMS van Levenben ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} creeert, zult u de Slimme trekkers en de filters van de Lijst binnen een Slimme Campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
 
 1. Klik in Mijn Marketo op **[!UICONTROL Marketing Activities]** .
 
@@ -68,9 +68,9 @@ Door contrast, vindt het **Lid van de Lijst van Levenben** filter *iedereen* mom
 >
 >Alle SMS-filters bevatten standaard de **[!UICONTROL Date of Activity]** -beperking.
 
-Nadat u opstellingsVeldt trekkers en filters in uw slimme lijst, kunt u [&#x200B; de stroom &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md) bepalen.
+Nadat u opstellingsVeldt trekkers en filters in uw slimme lijst, kunt u [ de stroom ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md) bepalen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Trigger &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [&#x200B; vind en voeg Filters aan een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) toe
+>* [ bepaalt Slimme Lijst voor Slimme Campagne | Trigger ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [ vind en voeg Filters aan een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) toe

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100644
-description: De knop Bericht in de app instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de berichtknop in de app instelt. Configureer kleuren, vormen, aangepaste afbeeldingen, lettertypen en tikken voor Apple en Android.
 title: De knop Bericht in de app instellen
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,9 @@ U kunt het standaardknopontwerp gebruiken, wijzigen of uploaden.
    >
    >De knoop heeft altijd een tikactie, zodat wordt checkbox van de Actie van de Tik automatisch geselecteerd, met het standaardbericht &quot;[!UICONTROL Dismiss Message]&quot;.
 
-Bijna. Uw laatste stap moet [&#x200B; uw in-app berichtachtergrond vormen en knoop &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) sluiten.
+Bijna. Uw laatste stap moet [ uw in-app berichtachtergrond vormen en knoop ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md) sluiten.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [&#x200B; Kies een lay-out voor uw [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [ Kies een lay-out voor uw [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

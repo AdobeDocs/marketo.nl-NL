@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096523
-description: Het dashboard voor pushmeldingen weergeven - Marketo Docs - Productdocumentatie
+description: Leer hoe u het dashboard voor pushmeldingen kunt weergeven. Zie Totaal verzonden, Totaal aantal kranen, en Tikken verval voor uw pushcampagnes.
 title: Het dashboard voor pushmeldingen weergeven
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -37,5 +37,5 @@ Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Begrijpend de Berichten van de Duw &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-   >* [&#x200B; verzend een Mobiel Push Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+   >* [ Begrijpend de Berichten van de Duw ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [ verzend een Mobiel Push Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617431
-description: Uw berichtvenster in de app instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u berichtpubliek in de app instelt. Bewerk de slimme lijst, kies een toepassing en trigger, stel de weergavelimiet in en voeg filters toe.
 title: Uw publiek voor berichten in de app instellen
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
 
    >[!NOTE]
    >
-   >De standaardtrigger ([!UICONTROL App Open]) en eventuele aangepaste triggers die door de ontwikkelaar aan de code worden toegevoegd, worden automatisch weergegeven in de [!UICONTROL Action] -kiezer. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
+   >De standaardtrigger ([!UICONTROL App Open]) en eventuele aangepaste triggers die door de ontwikkelaar aan de code worden toegevoegd, worden automatisch weergegeven in de [!UICONTROL Action] -kiezer. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [ dit artikel ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
 
 1. Er zijn beperkingen beschikbaar voor de trigger **[!UICONTROL Has Mobile App Activity]** als u deze nodig hebt.
 
@@ -55,4 +55,4 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
 
 Mooi werk! Je hebt je publiek ingesteld. Je hebt de blauwe balk en het groene vinkje verdiend.
 
-Tijd aan [&#x200B; selecteert uw in-app bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Tijd aan [ selecteert uw in-app bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

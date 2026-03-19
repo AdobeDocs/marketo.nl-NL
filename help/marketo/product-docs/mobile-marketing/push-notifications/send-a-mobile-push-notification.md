@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: Een pushmelding voor mobiele apparaten verzenden - Marketo Docs - Productdocumentatie
+description: Leer hoe u een mobiele pushmelding verzendt. Gebruik een slimme campagne met Slimme Lijst en Stroom om de duw aan uw publiek te plannen.
 title: Een mobiel pushbericht verzenden
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 3%
+source-wordcount: '104'
+ht-degree: 2%
 
 ---
 
@@ -17,8 +17,8 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Nieuwe Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [&#x200B; creeer een Duw Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [ creeer een Nieuwe Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 

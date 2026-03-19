@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512451
-description: Een pushmelding maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een pushmelding maakt. Voeg het als lokaal middel toe aan uw programma en configureer het voor uw mobiele app en jurk het aan.
 title: Een pushmelding maken
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
 # Een pushmelding maken {#create-a-push-notification}
 
-Het is eenvoudig om een pushmelding te maken. Voordat u echter begint, moet uw Marketo Admin en Mobile Apps Developer een aantal zaken hebben ingesteld die u nodig hebt terwijl u dit doet. Zie [&#x200B; Begrijpend de Berichten van de Duw &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) voor details.
+Het is eenvoudig om een pushmelding te maken. Voordat u echter begint, moet uw Marketo Admin en Mobile Apps Developer een aantal zaken hebben ingesteld die u nodig hebt terwijl u dit doet. Zie [ Begrijpend de Berichten van de Duw ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) voor details.
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
@@ -35,4 +35,4 @@ Het is eenvoudig om een pushmelding te maken. Voordat u echter begint, moet uw M
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Zoet! Nu het Duwbericht wordt gecreeerd, gaan vooruit en [&#x200B; het omhoog kleven &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   Zoet! Nu het Duwbericht wordt gecreeerd, gaan vooruit en [ het omhoog kleven ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

@@ -1,11 +1,11 @@
 ---
-description: SMS Glossary - Marketo Docs - Productdocumentatie
+description: Klik hier als je meer wilt weten over veelgebruikte SMS-termen van Vibes die in Marketo Engage worden gebruikt. Gebruik deze verklarende woordenlijst voor aankoop, abonnementenlijsten, korte codes, en meer.
 title: SMS Glossary
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ Hieronder vindt u een aantal algemene termen die u tegenkomt wanneer u SMS-beric
     <td>Een afzender-id waarvan tweewegsberichten tussen het merk en de consument worden verzonden. US short codes zijn 5-6 numerieke cijfers. Canadese korte codes zijn 4-6 numerieke cijfers. De Marketo LaunchPoint-integratie in Vibes ondersteunt één korte code per instantie.</td>
   </tr>
   <tr>
-    <td>SMS</td>
+    <td>Sms</td>
     <td>Short Message Service. Dit is een bericht dat alleen tekst bevat.</td>
   </tr>
   <tr>

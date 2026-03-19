@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512442
-description: Mobiele app verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een mobiele app van Marketo verwijdert. Verwijder de app zodat er geen pushmeldingen meer uit kunnen worden verzonden.
 title: Mobiele toepassing verwijderen
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 5%
+source-wordcount: '53'
+ht-degree: 3%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Vibes toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
+description: Leer hoe u virussen als een LaunchPoint-service toevoegt. Voer referenties in Admin in om SMS-activiteiten in Marketo Engage in te schakelen en gebruik SMS-activiteiten.
 title: Vibes toevoegen als een LaunchPoint-service
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '140'
 ht-degree: 1%
 
 ---
@@ -49,4 +49,4 @@ U kunt SMS-berichten verzenden naar de mensen die u hebt aangemeld voor uw SMS-c
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Videodemo van Vibes &#x200B;](https://vimeo.com/215233767/1ed136adbc)
+>[ Videodemo van Vibes ](https://vimeo.com/215233767/1ed136adbc)

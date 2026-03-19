@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512460
-description: Melding van mobiel pushbericht bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een mobiele pushmelding bewerkt. Open Marketingactiviteiten, selecteer het pushelement en gebruik Concept bewerken om wijzigingen aan te brengen.
 title: Melding van mobiel pushbericht bewerken
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Leer meer over [&#x200B; het vormen duw berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) hier.
+>Leer meer over [ het vormen duw berichten ](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) hier.

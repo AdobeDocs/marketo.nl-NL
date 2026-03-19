@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512445
-description: Pushconfiguratie controleren - Marketo Docs - Productdocumentatie
+description: Leer hoe u de pushconfiguratie kunt controleren zodat uw mobiele app wordt gesynchroniseerd. Bevestig platforms in Admin en begin met het verzenden van pushberichten.
 title: Pushconfiguratie verifiëren
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '82'
 ht-degree: 1%
 
 ---
@@ -43,4 +43,4 @@ Alles klaar! Nu kunt u beginnen met het verzenden van pushberichten.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Duw Bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>[ creeer een Duw Bericht ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)

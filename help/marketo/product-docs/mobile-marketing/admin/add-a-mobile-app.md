@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512252
-description: Een mobiele app toevoegen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een mobiele app aan Marketo kunt toevoegen om pushmeldingen te verzenden. Geef een naam op voor de app en kies Sandbox of Production-omgeving.
 title: Een mobiele app toevoegen
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---
@@ -46,5 +46,5 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; vorm Mobiele App Android Push Access &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
->* [&#x200B; vorm Mobiele App iOS Push Access &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>* [ vorm Mobiele App Android Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [ vorm Mobiele App iOS Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

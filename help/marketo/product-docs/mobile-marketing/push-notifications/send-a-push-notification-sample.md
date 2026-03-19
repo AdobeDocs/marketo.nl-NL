@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8783141
-description: Een voorbeeld voor pushmeldingen verzenden - Marketo Docs - Productdocumentatie
+description: Leer hoe u een voorbeeld van een pushmelding verzendt om te controleren of dit werkt. Selecteer een testapparaat of voeg er een toe en verstuur het voorbeeld vanuit de editor.
 title: Een voorbeeld voor pushberichten verzenden
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ U kunt een voorbeeld verzenden om te controleren of uw pushmelding correct werkt
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Of, klik **[!UICONTROL Add Device]** aan [&#x200B; voeg een nieuw testapparaat &#x200B;](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) toe om de steekproef naar te verzenden.
+   Of, klik **[!UICONTROL Add Device]** aan [ voeg een nieuw testapparaat ](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) toe om de steekproef naar te verzenden.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 

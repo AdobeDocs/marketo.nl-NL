@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512463
-description: Mobiele pushmeldingen verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een mobiele pushmelding verwijdert en verwijdert wanneer deze niet door andere middelen wordt gebruikt.
 title: Melding van mobiel pushbericht verwijderen
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

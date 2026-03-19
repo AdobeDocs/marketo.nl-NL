@@ -1,11 +1,11 @@
 ---
-description: Een SMS-bericht maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een SMS-bericht maakt. Voeg tekst, tokens, en verbindingen in de redacteur toe en volg karaktergrenzen en nalevingsvereisten.
 title: Een SMS-bericht maken
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Hieronder wordt beschreven hoe u een SMS-bericht maakt.
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen, kan een verbinding via Webhooks van Marketo worden gebruikt door [&#x200B; direct het contacteren van Lagen &#x200B;](https://www.vibes.com/talk-to-sales).
+>Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangeschaft. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie. De native integratie van Marketo Vibes SMS is beschikbaar in de VS en Canada. Voor andere landen, kan een verbinding via Webhooks van Marketo worden gebruikt door [ direct het contacteren van Lagen ](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >
->[&#x200B; voegt Levendigheden als Dienst LaunchPoint &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} toe
+>[ voegt Levendigheden als Dienst LaunchPoint ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} toe
 
 1. Ga naar **[!UICONTROL Marketing Activities]** .
 

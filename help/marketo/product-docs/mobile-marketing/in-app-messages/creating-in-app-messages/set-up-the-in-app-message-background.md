@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100649
-description: De achtergrond voor berichten in de app instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de achtergrond van berichten in de app instelt. Kies een kleur of afbeelding, stel de straal van de rand en de hoek in en configureer tikacties voor elk platform.
 title: De achtergrond voor berichten in de app instellen
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -67,10 +67,10 @@ Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooi
    >
    >Voor tikacties voor achtergronden kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld anders afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of **[!UICONTROL None]** selecteert.
 
-   Om de baan te beëindigen, is uw laatste stap aan [&#x200B; opstelling de knoop van de Verwerping &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Om de baan te beëindigen, is uw laatste stap aan [ opstelling de knoop van de Verwerping ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >* [&#x200B; verzend een Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
-   >* [&#x200B; kies een Lay-out voor Uw Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+   >* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [ verzend een Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100397
-description: In-app berichten begrijpen - Marketo Docs - productdocumentatie
+description: Meer informatie over in-app berichten voor het inschakelen van gebruikers van apps met aanbiedingen en herinneringen. Maak en verzend berichten die een diepe koppeling vormen of die met één tik worden gesloten.
 title: In-app berichten begrijpen
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -30,14 +30,14 @@ Voordat u in-app-berichten voor uw mobiele app kunt maken en verzenden, hebt u M
 
 ## Stap 1: Aanvankelijke instellingen uitvoeren door beheerder en ontwikkelaar {#step-admin-and-developer-perform-initial-setups}
 
-De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [&#x200B; alvorens u Push Meldingen en Berichten In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor details creeert.
+De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [ alvorens u Push Meldingen en Berichten In-App ](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor details creeert.
 
 ## Stap 2: Een bericht in de app maken {#step-create-an-in-app-message}
 
-U [&#x200B; creeert een in-app bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) gebruikend de online redacteur.
+U [ creeert een in-app bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) gebruikend de online redacteur.
 
 ## Stap 3: Verzenden! {#step-send}
 
-U creeert een programma om [&#x200B; het bericht &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) te verzenden.
+U creeert een programma om [ het bericht ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) te verzenden.
 
 Je bent onderweg.

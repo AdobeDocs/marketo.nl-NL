@@ -1,11 +1,11 @@
 ---
-description: SMS Reporting - Marketo Docs - Productdocumentatie
+description: Meer informatie over het SMS-berichtendashboard en de rapportage. De mening verzonden, geleverde, stuitende tarief, en activiteit over tijd voor uw campagnes van SMS.
 title: SMS-melding
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Het SMS-berichtendashboard biedt handige analyses van uw berichten.
 
 ## Het dashboard openen {#access-the-dashboard}
 
-1. Selecteer het gewenste SMS-bericht om de rapportage weer te geven. Klik de **drop-down Mening 0&rbrace; en selecteer** Dashboard **.**
+1. Selecteer het gewenste SMS-bericht om de rapportage weer te geven. Klik de **drop-down Mening 0} en selecteer** Dashboard **.**
 
    ![](assets/sms-reporting-1.png)
 
@@ -32,7 +32,7 @@ Hiermee geeft u het verzonden totaal en het geleverde totaal weer. De bedragen z
 
 ![](assets/sms-reporting-3.png)
 
-### Samenvatting {#summary}
+### Overzicht {#summary}
 
 Hiermee wordt de berekende stuiteringsfrequentie weergegeven als een percentage. Houd de muisaanwijzer boven de scheidingsbalk om de snelheid van de levering per hoeveelheid en percentage weer te geven. Houd de muisaanwijzer boven het oranje gedeelte Bounce Rate van de balk om de hoeveelheden/percentages voor zachte en harde stuitsnelheid weer te geven.
 

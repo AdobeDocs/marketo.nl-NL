@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100434
-description: Kies een lay-out voor uw bericht in de app - Marketo Docs - Productdocumentatie
+description: Meer informatie over de zes in-app berichtlay-outs. Kies de malplaatjes van de Pop op of van het Volledige Scherm om uw bericht met beelden en knopen te bouwen.
 title: Kies een lay-out voor uw bericht in de app
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -58,8 +58,8 @@ De derde lay-out Volledig scherm is gelijk aan de tweede, behalve de tweede. Dit
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu u over de malplaatjes kent, het tijd om te kiezen wanneer u [&#x200B; uw in-app berichtbeelden &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md) creeert.
+Nu u over de malplaatjes kent, het tijd om te kiezen wanneer u [ uw in-app berichtbeelden ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md) creeert.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>[ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)

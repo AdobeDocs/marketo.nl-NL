@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100642
-description: Berichttekst in de app maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u berichttekst en -stijl in de app maakt. Bewerk de hoofd- en ondersteunende tekst, kleuren, grootte, uitlijning, tokens en tikhandelingen.
 title: Berichttekst in de app maken
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -85,5 +85,5 @@ Je bent gouden. Daarna, moet u opstelling uw in-app berichtknoop [.](/help/marke
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Begrijpend in-app Berichten &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [&#x200B; kies een Lay-out voor Uw Bericht In-App &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [ Begrijpend in-app Berichten ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [ kies een Lay-out voor Uw Bericht In-App ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

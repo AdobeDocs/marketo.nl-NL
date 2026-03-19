@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512432
-description: Mobile App Android Push Access - Marketo Docs - Productdocumentatie configureren
+description: Leer hoe u Android-pushtoegang voor uw mobiele app configureert. Ga de Sleutel van de Server API en Aantal van het Project van uw ontwikkelaar in Admin in.
 title: Mobile App Android Push Access configureren
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '91'
 ht-degree: 3%
 
 ---
@@ -41,4 +41,4 @@ ht-degree: 3%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; vorm Mobiele App iOS Push Access &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
+>[ vorm Mobiele App iOS Push Access ](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)

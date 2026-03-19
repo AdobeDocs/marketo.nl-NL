@@ -1,12 +1,12 @@
 ---
-description: Een stap toevoegen voor SMS - Marketo Docs - Productdocumentatie
+description: Leer hoe u SMS-stroomstappen toevoegt aan slimme campagnes. Gebruik Send SMS Message, Subscribe to Vibes List of Unsubscribe from Vibes List.
 title: Voeg een Stap van de Stroom voor SMS toe
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Marketo Engage heeft drie stappen die u kunt gebruiken in uw slimme SMS-campagne
 <tbody>
   <tr>
     <td style="width:25%">SMS-bericht verzenden</td>
-    <td>Deze flowactie verzendt berichten naar mensen van de Smart List van Marketo die zijn geabonneerd op een door de gebruiker gekozen abonnementenlijst van Vibes. Het abonnementsproces wordt niet gestart. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md"> leer meer </a>.</td>
+    <td>Deze flowactie verzendt berichten naar mensen van de Smart List van Marketo die zijn geabonneerd op een door de gebruiker gekozen abonnementenlijst van Vibes. Het abonnementsproces wordt niet gestart. <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">Meer info</a>.</td>
   </tr>
 
 <tr>
@@ -40,7 +40,7 @@ Marketo Engage heeft drie stappen die u kunt gebruiken in uw slimme SMS-campagne
 >* Marketo dedupliceert per telefoonnummer. Dus, als de veelvoudige mensen het zelfde telefoonaantal hebben, slechts zal één persoon het bericht ontvangen als zij een lid van slechts één lijst van het Abonnement van Vibes zijn. De-duping wordt gedaan op het niveau van de Abonnementenlijst van Vibes, niet het het programmaniveau van Marketo.
 >* Marketo zal niet verzenden naar mensen die zijn gevoegd op lijst van gewenste personen of die het in de handel brengen hebben opgeschort.
 
-Voor algemene informatie bij de stappen van de opstellingsstroom, zie [&#x200B; een Stap van de Stroom aan een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) toevoegen.
+Voor algemene informatie bij de stappen van de opstellingsstroom, zie [ een Stap van de Stroom aan een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) toevoegen.
 
 Hier zijn de grondbeginselen voor het gebruiken van SMS.
 
