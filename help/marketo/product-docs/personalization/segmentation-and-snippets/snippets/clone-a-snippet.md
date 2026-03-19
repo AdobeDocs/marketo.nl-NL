@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359514
-description: Een fragment klonen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een fragment kloont om een kopie te maken die u kunt wijzigen. Gebruik Design Studio en Fragmenthandelingen om inhoud voor e-mails en landingspagina's te klonen en aan te passen.
 title: Een fragment klonen
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,4 +31,4 @@ Geweldig! Nu kunt u het gekloonde fragment aanpassen aan uw wensen.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; geeft Fragmenten met Dynamische Inhoud &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md) uit
+>[ geeft Fragmenten met Dynamische Inhoud ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.md) uit

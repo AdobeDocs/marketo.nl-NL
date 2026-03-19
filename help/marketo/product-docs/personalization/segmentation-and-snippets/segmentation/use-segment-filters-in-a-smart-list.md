@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359512
-description: Segmentfilters gebruiken in een slimme lijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u Segmentfilters in een slimme lijst gebruikt om de prestaties te optimaliseren. Voeg het filter van het Segment aan doelmensen door segmentatie in uw slimme lijsten toe.
 title: Segmentfilters gebruiken in een slimme lijst
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Maak een [!UICONTROL Smart List]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [ Maak een [!UICONTROL Smart List]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Optimaliseer de prestaties van uw slimme lijsten met behulp van Segmentfilters.
 

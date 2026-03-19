@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359498
-description: Een voorbeeld van een fragment bekijken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een voorvertoning van een fragment kunt weergeven om de inhoud voor elk segment te controleren. Gebruik Design Studio en het Fragment van de Voorproef om dynamische inhoud vóór goedkeuring te controleren.
 title: Een voorvertoning van een fragment weergeven
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg Inhoud aan een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
+>[ voeg Inhoud aan een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md) toe
 
 Fragmenten zijn blokken dynamische inhoud die worden gewijzigd op basis van segmentatieregels.
 
@@ -31,4 +31,4 @@ Voorvertoning is ideaal om ervoor te zorgen dat de inhoud er voor elk segment go
 
 >[!MORELIKETHIS]
 >
->[&#x200B; keur een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md) goed
+>[ keur een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md) goed

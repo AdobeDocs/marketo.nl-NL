@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359516
-description: Een fragment goedkeuren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een fragment ongeschikt maakt om wijzigingen aan te brengen of te verwijderen. Verwijder middelenkoppelingen en gebruik vervolgens Fragmentacties om de goedkeuring ongedaan te maken en in te stellen op conceptstatus.
 title: Een fragment goedkeuren ongedaan maken
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---

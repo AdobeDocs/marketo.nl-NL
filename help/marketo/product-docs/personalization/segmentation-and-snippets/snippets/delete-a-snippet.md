@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359518
-description: Een fragment verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een fragment verwijdert dat u niet meer nodig hebt. Verwijder het fragment en verwijder de koppelingen tussen elementen en gebruik vervolgens Fragmenthandelingen in Design Studio om te verwijderen.
 title: Een fragment verwijderen
 exl-id: 6984fd94-dd91-4832-83ce-3a6c3b35b034
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; keurt een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md) niet goed
+>[ keurt een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md) niet goed
 
 Verwijder een fragment dat u niet meer nodig hebt.
 

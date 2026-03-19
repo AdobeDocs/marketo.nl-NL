@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359466
-description: Fragmenten bewerken met dynamische inhoud - Marketo Docs - Productdocumentatie
+description: Leer hoe u fragmenten met dynamische inhoud kunt bewerken met behulp van segmentatie. Voeg Segment door aan een fragment toe en pas verschillende inhoud per segment in de Studio van het Ontwerp toe.
 title: Fragmenten bewerken met dynamische inhoud
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [&#x200B; creeer een Fragment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [ creeer een Fragment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 Gebruik Segmentering in fragmenten om dynamische inhoud op uw e-mails en landingspagina&#39;s eenvoudig te beheren.
 
@@ -52,5 +52,5 @@ Was dat niet eenvoudig? U bent nu allen klaar om deze fragmenten op E-mail en he
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg een Fragment aan E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) toe
->* [&#x200B; voeg een Fragment aan een het Bestaan Pagina &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md) toe
+>* [ voeg een Fragment aan E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) toe
+>* [ voeg een Fragment aan een het Bestaan Pagina ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md) toe

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359510
-description: Een segmentatie verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een segmentatie verwijdert die u niet meer nodig hebt. Verwijder activaverenigingen, keurt de segmentatie niet goed, dan gebruik de Acties van de Segmentatie om te schrappen.
 title: Een segmentatie verwijderen
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

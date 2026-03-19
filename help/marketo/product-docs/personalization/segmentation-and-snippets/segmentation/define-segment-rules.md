@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359449
-description: Segmentregels definiëren - Marketo Docs - Productdocumentatie
+description: Leer hoe te om segmentregels te bepalen die mensen in elkaar uitsluitende groepen categoriseren. Voeg slimme lijstfilters toe, voorproef Mensen (Ontwerp), en keur segmenten voor dynamische inhoud goed.
 title: Segmentregels definiëren
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Door segmentregels te definiëren kunt u uw personen indelen in verschillende gr
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 1. Ga naar de **[!UICONTROL Database]** .
 
@@ -69,7 +69,7 @@ Goed werk! Deze segmenten zullen op veel plaatsen in Marketo in de hand komen.
 
 >[!NOTE]
 >
->Een persoon zou voor verschillende segmenten kunnen kwalificeren, maar behoort uiteindelijk tot enkel die van de [&#x200B; prioritaire orde van de segmenten &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) afhangt.
+>Een persoon zou voor verschillende segmenten kunnen kwalificeren, maar behoort uiteindelijk tot enkel die van de [ prioritaire orde van de segmenten ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) afhangt.
 
 >[!NOTE]
 >
@@ -77,4 +77,4 @@ Goed werk! Deze segmenten zullen op veel plaatsen in Marketo in de hand komen.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; keur een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed
+>[ keur een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed

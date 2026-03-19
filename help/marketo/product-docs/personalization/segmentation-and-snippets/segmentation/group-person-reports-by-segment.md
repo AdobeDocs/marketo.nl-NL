@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359492
-description: Groepspersrapporten per segment - Marketo Docs - Productdocumentatie
+description: Leer hoe te om persoonrapporten door om het even welk segment van uw segmentaties te groeperen. Gebruik het lusje van de Opstelling van het rapport en Groepeer Mensen door om een segmentatie en meningsresultaten te selecteren.
 title: Groepperingspersoonrapporten per segment
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ U kunt uw persoonrapporten groeperen door om het even welk segment dat u in uw s
 
    >[!NOTE]
    >
-   >U kunt ook [&#x200B; uw persoonrapporten door persoon of bedrijfattributen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md) groeperen.
+   >U kunt ook [ uw persoonrapporten door persoon of bedrijfattributen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md) groeperen.
 
 1. Typ &#39;Segmentatie&#39; in het tekstvak in het dialoogvenster **[!UICONTROL Group People by]** . Wanneer de **rubriek van Segmenten** verschijnt, selecteer van de lijst onder de rubriek.
 
@@ -41,4 +41,4 @@ U kunt uw persoonrapporten groeperen door om het even welk segment dat u in uw s
 
 >[!MORELIKETHIS]
 >
->[&#x200B; voeg de Kolommen van de Douane aan een Rapport van de Persoon toe &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[ voeg de Kolommen van de Douane aan een Rapport van de Persoon toe ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

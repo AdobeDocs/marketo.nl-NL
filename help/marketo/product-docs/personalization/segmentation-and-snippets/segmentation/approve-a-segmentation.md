@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: Een segmentatie goedkeuren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een segmentatie goedkeurt zodat deze kan worden gebruikt voor dynamische inhoud en rapportage. Gebruik de Acties van het Gegevensbestand en van de Segmentatie om na het bepalen van segmentregels goed te keuren.
 title: Een segmentatie goedkeuren
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [ creeer een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
@@ -60,4 +60,4 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Filters van het Segment van het Gebruik in een Slimme Lijst &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)
+>[ Filters van het Segment van het Gebruik in een Slimme Lijst ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.md)

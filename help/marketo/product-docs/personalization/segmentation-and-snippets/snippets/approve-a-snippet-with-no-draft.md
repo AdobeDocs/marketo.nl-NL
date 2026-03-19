@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: Een fragment goedkeuren zonder concept - Marketo Docs - Productdocumentatie
+description: Leer hoe u een fragment zonder concept-opties goedkeurt. Kies Alles bijwerken of Concepten maken bij goedkeuring om te bepalen hoe elementen met het fragment worden bijgewerkt.
 title: Een fragment goedkeuren zonder concept
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,8 @@ Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. D
 
 >[!CAUTION]
 >
->Deze functie is ontworpen om tijd te besparen met de workflow voor goedkeuring van fragmenten. Er zijn echter een paar beperkingen om op de hoogte te zijn. Gelieve te zien [&#x200B; dit artikel &#x200B;](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} voor details.
+>Deze functie is ontworpen om tijd te besparen met de workflow voor goedkeuring van fragmenten. Er zijn echter een paar beperkingen om op de hoogte te zijn. Gelieve te zien [ dit artikel ](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} voor details.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; laat geen-Concept voor Fragmenten toe &#x200B;](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
+>[ laat geen-Concept voor Fragmenten toe ](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}

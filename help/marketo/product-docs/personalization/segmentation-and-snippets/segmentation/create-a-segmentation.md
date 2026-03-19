@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: Segmentatie maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een segmentatie maakt om personen te groeperen voor rapportage en dynamische inhoud. Voeg segmenten in Gegevensbestand toe, plaats orde, dan bepaal segmentregels.
 title: Een segmentatie maken
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -51,14 +51,14 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
 
    >[!NOTE]
    >
-   >Een persoon zal voor het eerste passende segment in de [&#x200B; bepaalde orde &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) kwalificeren.
+   >Een persoon zal voor het eerste passende segment in de [ bepaalde orde ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) kwalificeren.
 
    >[!NOTE]
    >
    >U moet segmentregels bepalen alvorens u uw Segmentatie kunt gebruiken.
 
-   Gefeliciteerd! U bent één stap dichter aan het gebruiken van Dynamische Inhoud.
+   Gefeliciteerd. U bent één stap dichter aan het gebruiken van Dynamische Inhoud.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; bepalen de Regels van het Segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+   >[ bepalen de Regels van het Segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)

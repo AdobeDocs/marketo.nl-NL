@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359488
-description: E-mailrapporten groeperen per segment - Marketo Docs - Productdocumentatie
+description: Leer hoe u uw e-mailprestatierapport kunt groeperen per segment. Gebruik het tabblad Setup van het rapport E-mailprestaties om een of twee segmentaties toe te passen voor groepering.
 title: E-mailrapporten groeperen per segment
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw e-mailprestati
 
 >[!PREREQUISITES]
 >
->[&#x200B; keur een Segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed
+>[ keur een Segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) goed
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ) gebied.
 
@@ -45,4 +45,4 @@ Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw e-mailprestati
 
 >[!MORELIKETHIS]
 >
->[&#x200B; filter Assets in een E-mailrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
