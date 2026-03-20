@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2360057
-description: Campagne Activity Report - Marketo Docs - Productdocumentatie
+description: Meer informatie over het campagneactiviteitenrapport in Marketo Engage, waaronder het campagneactiviteitenrapport campagne-activity-report. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Rapport Campagneactiviteiten
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '234'
 ht-degree: 1%
 
 ---
 
 # Rapport Campagneactiviteiten {#campaign-activity-report}
 
-Zie hoe uw [&#x200B; Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"} presteren.
+Zie hoe uw [ Slimme Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"} presteren.
 
-1. [&#x200B; creeer een rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer de **Activiteit van de Campagne** [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer de **Activiteit van de Campagne** [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
 
-1. [&#x200B; plaats het tijdkader van uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} en klik het **Rapport** tabel.
+1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} en klik het **Rapport** tabel.
 
 1. Geweldig! Verken uw rapport om uw meest efficiënte campagnes te identificeren, gegroepeerd op type campagne.
 
 >[!NOTE]
 >
->Alle [&#x200B; Uitvoerbare Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} verschijnen omhoog als &quot;inactieve teweeggebrachte campagnes&quot;in de rapporten van de campagneactiviteit.
+>Alle [ Uitvoerbare Campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} verschijnen omhoog als &quot;inactieve teweeggebrachte campagnes&quot;in de rapporten van de campagneactiviteit.
 
 ![](assets/campaign-activity-report-1.png)
 
 >[!TIP]
 >
->Om de campagnes te vinden die de meeste mensen verwerkte, bijvoorbeeld, [&#x200B; sorteer uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op _Totale Bewerkte Mensen_ en kies **Aflopend sorteren**.
+>Om de campagnes te vinden die de meeste mensen verwerkte, bijvoorbeeld, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op _Totale Bewerkte Mensen_ en kies **Aflopend sorteren**.
 
-**[Kolommen u &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van de Campagne kunt selecteren omvatten**:
+**[Kolommen u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een rapport van de Activiteit van de Campagne kunt selecteren omvatten**:
 
 <table><thead>
   <tr>
@@ -91,4 +91,4 @@ Zie hoe uw [&#x200B; Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-
 
 >[!MORELIKETHIS]
 >
->[&#x200B; filter een Rapport van de Activiteit van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}
+>[ filter een Rapport van de Activiteit van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md){target="_blank"}

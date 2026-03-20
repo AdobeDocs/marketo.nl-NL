@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359991
-description: Abonnementen op rapporten beheren - Marketo Docs - Productdocumentatie
+description: Leer hoe u alle rapportabonnementen op één locatie beheert via het tabblad Abonnementen voor analysemogelijkheden. Bewerk de frequentie, ontvangers en instellingen of verwijder abonnementen naar wens.
 title: Rapportabonnementen beheren
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Vorm en schrap rapportabonnementen.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Deze pagina toont de abonnementen aan alle rapporten in uw rekening, die door [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [&#x200B; abonnementen aan basisrapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) en aan de rapporten van de Ontdekkingsreiziger van de Cyclus van de Opbrengst.
+   Deze pagina toont de abonnementen aan alle rapporten in uw rekening, die door [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [ abonnementen aan basisrapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) en aan de rapporten van de Ontdekkingsreiziger van de Cyclus van de Opbrengst.
 
    >[!TIP]
    >
@@ -60,5 +60,5 @@ Vorm en schrap rapportabonnementen.
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; Abonneren aan een BasisRapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [&#x200B; Abonneren aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >* [ Abonneren aan een BasisRapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [ Abonneren aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

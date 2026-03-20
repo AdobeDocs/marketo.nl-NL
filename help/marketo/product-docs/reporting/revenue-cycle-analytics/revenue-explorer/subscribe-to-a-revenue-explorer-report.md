@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360397
-description: Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten - de Documenten van Marketo - de Documentatie van het Product
+description: Leer over onderteken aan een rapport van de opbrengstenontdekkingsreiziger in Marketo Engage, met inbegrip van onderteken aan een opbrengstontdekkingsreiziger. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
    >[!NOTE]
    >
-   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [&#x200B; aan een BasisRapport intekenen.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [ aan een BasisRapport intekenen.](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
 
 1. Selecteer **[!UICONTROL Report Source]** bij **[!UICONTROL Revenue Explorer]** .
 
@@ -45,4 +45,4 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
 >[!MORELIKETHIS]
 >
->Leer hoe te [&#x200B; om al uw rapportabonnementen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.
+>Leer hoe te [ om al uw rapportabonnementen ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.

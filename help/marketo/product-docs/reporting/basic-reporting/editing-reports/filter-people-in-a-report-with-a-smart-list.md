@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360016
-description: Filter Personen in een rapport met een slimme lijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u mensen in rapporten filtert met slimme lijsten om resultaten te beperken op basis van specifieke persoonkenmerken. Pas filters op het Slimme lusje van de Lijst voor diverse rapporttypes toe.
 title: Personen in een rapport filteren met een slimme lijst
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---

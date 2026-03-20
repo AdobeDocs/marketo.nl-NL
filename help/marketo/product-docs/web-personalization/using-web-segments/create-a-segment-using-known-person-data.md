@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504343
-description: Een segment maken met behulp van bekende persoonlijke gegevens - Marketo Docs - Productdocumentatie
+description: Leer hoe te om een segment tot stand te brengen gebruikend bekende persoongegevens in Marketo Engage gebruikend creeer een segment gebruikend bekende persoon. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een segment maken met bekende persoongegevens
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
 >[!PREREQUISITES]
 >
->[&#x200B; beheert Persoonsgegevens &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
+>[ beheert Persoonsgegevens ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Ga naar **[!UICONTROL Segments]** .
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klik op **[!UICONTROL Create New]**.
+1. Klik op **[!UICONTROL Create New]** .
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 

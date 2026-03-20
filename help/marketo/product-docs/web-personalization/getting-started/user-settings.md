@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719336
-description: Gebruikersinstellingen - Marketo Docs - Productdocumentatie
+description: Leer hoe u gebruikersinstellingen configureert, zoals tijdzone, e-mailrapporten, wachtwoord, mobiele meldingen en instellingen voor persoonlijke regio's. Pas je Web Personalization-ervaring aan en exporteer voorkeuren.
 title: Gebruikersinstellingen
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -53,4 +53,4 @@ Selecteer welke [[!UICONTROL Email Report]](/help/marketo/product-docs/web-perso
 
 >[!MORELIKETHIS]
 >
->[&#x200B; geef Gebieden &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md) uit
+>[ geef Gebieden ](/help/marketo/product-docs/web-personalization/getting-started/edit-regions.md) uit

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: Een nieuwe accountlijst maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een nieuwe accountlijst maakt in Marketo Engage door een nieuwe accountlijst te maken. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een nieuwe accountlijst maken
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 1%
+source-wordcount: '409'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 >[!NOTE]
 >
->Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u het Web ABM na September van 2016 verwierf, te volgen gelieve de stappen in [&#x200B; dit artikel &#x200B;](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
+>Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u het Web ABM na September van 2016 verwierf, te volgen gelieve de stappen in [ dit artikel ](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list-1}
 
@@ -29,7 +29,7 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Selecteer **[!UICONTROL Browse]** en upload uw CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een lus **[!UICONTROL List Name]** en **[!UICONTROL Description]** toe. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Browse]** en upload uw CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een lus **[!UICONTROL List Name]** en **[!UICONTROL Description]** toe. Klik op **[!UICONTROL Save]** .
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -80,10 +80,10 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klik op **[!UICONTROL OK]**.
+1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klik op **[!UICONTROL OK]** .
 
    ![](assets/delete-notification-hand.jpg)
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Segment Gebruikend een Lijst van de Rekening &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[ creeer een Segment Gebruikend een Lijst van de Rekening ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

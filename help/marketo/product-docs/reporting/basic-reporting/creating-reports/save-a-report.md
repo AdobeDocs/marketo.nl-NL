@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7511980
-description: Een rapport opslaan - Marketo Docs - Productdocumentatie
+description: Leer hoe u standaardrapporten opslaat om deze later opnieuw weer te geven door Opslaan als te selecteren in Rapporthandelingen. Opgeslagen rapporten organiseren in mappen in Mijn rapporten of Groeprapporten.
 title: Een rapport opslaan
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Soms moet u een standaardrapport opslaan om het later opnieuw weer te geven. Zo 
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Selecteer het type van a [&#x200B; rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selecteer het type van a [ rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -41,4 +41,4 @@ Soms moet u een standaardrapport opslaan om het later opnieuw weer te geven. Zo 
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [&#x200B; een rapport te klonen aan groepsrapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Leer hoe te om [ een rapport te klonen aan groepsrapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

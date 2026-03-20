@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720125
-description: Integratie van RTP met Google Universal Analytics - Marketo Docs - Productdocumentatie
+description: Leer hoe u rtp kunt integreren met Google Universal Analytics in Marketo Engage door rtp te integreren met dnl google. Gebruik deze handleiding om de volgende stap te voltooien.
 title: RTP integreren met Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 0%
+source-wordcount: '384'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
 
 **[!DNL Google Universal Analytics]**
 
-[!DNL Google Universal Analytics] met de gegevens van RTP verstrekt u een beter inzicht in hoe de gebruikers van B2B met uw online inhoud in wisselwerking staan en helpen meten en betere resultaten van uw verpersoonlijkingscampagnes krijgen. [&#x200B; las meer over  [!DNL Google Universal Analytics] &#x200B;](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
+[!DNL Google Universal Analytics] met de gegevens van RTP verstrekt u een beter inzicht in hoe de gebruikers van B2B met uw online inhoud in wisselwerking staan en helpen meten en betere resultaten van uw verpersoonlijkingscampagnes krijgen. [ las meer over  [!DNL Google Universal Analytics] ](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
 
 >[!NOTE]
 >
@@ -30,10 +30,10 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
 >Er hoeft geen codering of speciale configuratie te worden uitgevoerd. Controleer of u de volgende checklist invult:
 >
 >* RTP-afmetingen worden gemaakt in [!DNL Google Universal Analytics]
->* [&#x200B; RTP de markering wordt behoorlijk geïnstalleerd in de Manager van de Markering van Google &#x200B;](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
+>* [ RTP de markering wordt behoorlijk geïnstalleerd in de Manager van de Markering van Google ](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
 >* [!DNL Google Universal Analytics] Integratie is ingeschakeld in de accountinstellingen van RTP
->* [[!DNL Google Universal Analytics]  de markering wordt behoorlijk gevormd in de Manager van de Markering van Google &#x200B;](https://support.google.com/tagmanager/answer/6107124?hl=en)
->* [&#x200B; de markering van de Manager van de Markering van Google wordt behoorlijk geïnstalleerd uw website &#x200B;](https://developers.google.com/tag-manager/quickstart)
+>* [[!DNL Google Universal Analytics]  de markering wordt behoorlijk gevormd in de Manager van de Markering van Google ](https://support.google.com/tagmanager/answer/6107124?hl=en)
+>* [ de markering van de Manager van de Markering van Google wordt behoorlijk geïnstalleerd uw website ](https://developers.google.com/tag-manager/quickstart)
 
 ## Aangepaste afmetingen instellen in GUA {#set-up-custom-dimensions-in-gua}
 
@@ -55,7 +55,7 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
  <tbody>
   <tr>
    <td><p><strong>Aangepaste Dimension-naam</strong></p></td>
-   <td><p><strong>Toepassingsgebied</strong></p></td>
+   <td><p><strong>Bereik</strong></p></td>
    <td><p><strong>Actief</strong></p></td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
 >
 >**de Namen van Dimension van de Douane** moeten precies zijn zoals die in de lijst hierboven worden bepaald (anders zullen de de dashboards en rapporten van douane RTP in GUA niet correct tonen)
 
-1. Voeg de lus **[!UICONTROL Name]** toe. Selecteer het bereik als **[!UICONTROL Session]** . Klik op **[!UICONTROL Create]**.
+1. Voeg de lus **[!UICONTROL Name]** toe. Selecteer het bereik als **[!UICONTROL Session]** . Klik op **[!UICONTROL Create]** .
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -105,7 +105,7 @@ Zodra u de Dimensies van de Douane in GUA hebt geactiveerd, ga naar het platform
 1. Klik onder **[!UICONTROL Analytics]** op **[!UICONTROL Google Universal Analytics]** .
 1. Draai **[!UICONTROL On]** de relevante afmetingen en gebeurtenissen van de Douane om deze gegevens van RTP aan [!DNL Google Universal Analytics] toe te voegen.
 1. Voer in GUA de **[!UICONTROL Index number]** van de dimensie die is uitgelijnd met het indexnummer in.
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
@@ -120,6 +120,6 @@ Zodra u de Dimensies van de Douane in GUA hebt geactiveerd, ga naar het platform
 1. In Google Analytics. Ga naar **[!UICONTROL Reporting].**
 1. Klik op **[!UICONTROL Dashboards].**
 1. Selecteer een **[!UICONTROL Dashboard]** (RTP B2B- of RTP-prestaties)
-1. Klik op **[!UICONTROL Delete Dashboard]**.
+1. Klik op **[!UICONTROL Delete Dashboard]** .
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093159
-description: Content Analytics - Marketo Docs - Productdocumentatie
+description: Meer informatie over inhoudsanalyses in Marketo Engage, inclusief inzicht in inhoudsanalyses. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Content Analytics begrijpen
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ De aanvullende inhoudanalyse omvat:
 
 * **[!UICONTROL Views]**: weergaven van dat inhoudsonderdeel voor het geselecteerde tijdbereik
 * **[!UICONTROL Direct Conversions]**: Webbezoekers die de inhoud hebben bekeken en een formulier tijdens hetzelfde bezoek hebben ingevuld.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** Een door directe conversies berekende procentuele conversiekoers gedeeld door klikken
+* **[!UICONTROL Conversion Rate]****:** Een door directe conversies berekende procentuele conversiekoers gedeeld door klikken
 
 **[!UICONTROL Trends]**
 
@@ -100,5 +100,5 @@ Klik op het verwijderpictogram van de inhoud die u wilt verwijderen op de pagina
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; laat de Bar van de Aanbeveling van de Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) toe
->* [&#x200B; laat Voorspelende Inhoud voor Web Rich Media &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe
+>* [ laat de Bar van de Aanbeveling van de Inhoud ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) toe
+>* [ laat Voorspelende Inhoud voor Web Rich Media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe

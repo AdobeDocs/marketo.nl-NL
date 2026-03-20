@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360401
-description: Kanaaleffectiviteit vergelijken met de functie Program Analyzer - Marketo Docs - Productdocumentatie
+description: Leer hoe u de effectiviteit van kanalen kunt vergelijken met de functie voor programmaanalyse in Marketo Engage, waaronder het vergelijkingskanaal. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Kanaaleffectiviteit vergelijken met de functie Program Analyzer
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Gebruik [!UICONTROL Program Analyzer] om kanaalkosten, lidverwerving, pijpleidin
 
 >[!PREREQUISITES]
 >
->[&#x200B; Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[ Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. Klik op **[!UICONTROL Analytics]** in **Mijn Marketo**.
 
@@ -41,7 +41,7 @@ Gebruik [!UICONTROL Program Analyzer] om kanaalkosten, lidverwerving, pijpleidin
 
    >[!NOTE]
    >
-   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [&#x200B; verschil tussen FT en MT attributie &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
+   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [ verschil tussen FT en MT attributie ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 1. Kies **[!UICONTROL Y Axis]** in de vervolgkeuzelijst **[!UICONTROL (MT) Pipeline Created]** .
 
@@ -83,5 +83,5 @@ In ons voorbeeld zien we dat het Tradeshow-kanaal zowel het duurste (het verst n
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [&#x200B; Vergelijk de Doeltreffendheid van het Programma met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [ Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [ Vergelijk de Doeltreffendheid van het Programma met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)

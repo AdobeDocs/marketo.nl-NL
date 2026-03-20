@@ -1,25 +1,25 @@
 ---
 unique-page-id: 13795536
-description: Een segment maken met een statische lijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u een segment maakt met een statische lijst in Marketo Engage door een segment te maken met een statische lijst. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een segment maken met een statische lijst
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # Een segment maken met een statische lijst {#create-a-segment-using-a-static-list}
 
-Het segment bekende Webbezoekers wanneer zij uw website bezoeken die op wordt gebaseerd als zij binnen of niet in één van uw Marketo [&#x200B; statische lijsten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) zijn.
+Het segment bekende Webbezoekers wanneer zij uw website bezoeken die op wordt gebaseerd als zij binnen of niet in één van uw Marketo [ statische lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) zijn.
 
 1. Ga naar **[!UICONTROL Segments]** .
 
    ![](assets/1.jpg)
 
-1. Klik op **[!UICONTROL Create New]**.
+1. Klik op **[!UICONTROL Create New]** .
 
    ![](assets/two.png)
 
@@ -35,11 +35,11 @@ Het segment bekende Webbezoekers wanneer zij uw website bezoeken die op wordt ge
 
    ![](assets/five-2.png)
 
-1. Als u veelvoudige lijsten wilt toevoegen, moet u een nieuwe lijn voor elk tot stand brengen door **+** te klikken. Als u slechts één lijst wilt, overslaan aan [&#x200B; Stap 8 &#x200B;](#eight).
+1. Als u veelvoudige lijsten wilt toevoegen, moet u een nieuwe lijn voor elk tot stand brengen door **+** te klikken. Als u slechts één lijst wilt, overslaan aan [ Stap 8 ](#eight).
 
    ![](assets/six-1.png)
 
-1. Voor veelvoudige lijsten (of de veelvoudige &quot;is niet&quot;lijsten), herhaal de stappen u in [&#x200B; Stap 5 &#x200B;](#five) leerde.
+1. Voor veelvoudige lijsten (of de veelvoudige &quot;is niet&quot;lijsten), herhaal de stappen u in [ Stap 5 ](#five) leerde.
 
    ![](assets/seven-2.png)
 

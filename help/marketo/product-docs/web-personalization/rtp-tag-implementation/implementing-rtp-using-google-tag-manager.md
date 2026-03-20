@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720145
-description: RTP implementeren met Google Tag Manager - Marketo Docs - Productdocumentatie
+description: Leer hoe u rtp implementeert met google tag manager in Marketo Engage, inclusief het implementeren van rtp met dnl google. Gebruik deze handleiding om de volgende stap te voltooien.
 title: RTP implementeren met Google-tagbeheer
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren.
 
 1. Klik op **[!UICONTROL Add Rule to Fire Tag]**. Selecteer **[!UICONTROL All Pages]**.
 
-1. Klik **[!UICONTROL Save]** en [&#x200B; publiceren de nieuwe versie &#x200B;](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Klik **[!UICONTROL Save]** en [ publiceren de nieuwe versie ](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Controleer of deze code op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen.
 

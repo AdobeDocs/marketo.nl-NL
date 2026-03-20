@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719400
-description: Een nieuwe webcampagne voor zones maken - Marketo Docs - Productdocumentatie
+description: Maak webcampagnes in zone die website-elementen op basis van zone-id vervangen door gepersonaliseerde inhoud of grafische banners. Gebruik zone-id's om specifieke gebieden van uw website als doel in te stellen.
 title: Nieuwe webcampagne maken in zone
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
 
 # Nieuwe webcampagne maken in zone {#create-a-new-in-zone-web-campaign}
 
-Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en kan a [&#x200B; dialoogdoos &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website, een in zonevervanging, a [&#x200B; widgeteigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) of een e-mailalarm zijn. Met een In Zone-webcampagne vervangt u een element van uw website op basis van de Zone-id door inhoud of grafische banners.
+Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en kan a [ dialoogdoos ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website, een in zonevervanging, a [ widgeteigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) of een e-mailalarm zijn. Met een In Zone-webcampagne vervangt u een element van uw website op basis van de Zone-id door inhoud of grafische banners.
 
 ## Een webcampagne in zone maken {#create-an-in-zone-web-campaign}
 
@@ -80,11 +80,11 @@ Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en
 
 >[!TIP]
 >
->Versnel en vereenvoudig uw proces van de campagneverwezenlijking door onze [&#x200B; ingebouwde malplaatjes &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) te gebruiken of door [&#x200B; uw bestaande campagne &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als malplaatje voor hergebruik op te slaan.
+>Versnel en vereenvoudig uw proces van de campagneverwezenlijking door onze [ ingebouwde malplaatjes ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) te gebruiken of door [ uw bestaande campagne ](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als malplaatje voor hergebruik op te slaan.
 
 >[!NOTE]
 >
->**wil A/B uw Webcampagnes testen?** Één of meerdere Webcampagnes kunnen [&#x200B; A/B worden getest voor optimale resultaten &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Met de functie Automatisch afstemmen herkent het platform automatisch de beter presterende campagnes, gaat het verder met de hoogste conversiecampagnes en pauzeert het de andere campagnes.
+>**wil A/B uw Webcampagnes testen?** Één of meerdere Webcampagnes kunnen [ A/B worden getest voor optimale resultaten ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Met de functie Automatisch afstemmen herkent het platform automatisch de beter presterende campagnes, gaat het verder met de hoogste conversiecampagnes en pauzeert het de andere campagnes.
 
 ## Een webcampagne bewerken {#edit-a-web-campaign}
 
@@ -94,7 +94,7 @@ Van de **Campagnes van het Web** pagina, klik **uitgeven** op de Campagne.
 
 >[!NOTE]
 >
->Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Een webcampagne voorvertonen {#preview-a-web-campaign}
 
@@ -104,7 +104,7 @@ Van de **Campagnes van het Web** pagina, klik **uitgeven** op de Campagne.
 
 ## Een webcampagne klonen {#clone-a-web-campaign}
 
-Zie [&#x200B; Klonen een Campagne van het Web &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Zie [ Klonen een Campagne van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Een webcampagne verwijderen {#delete-a-web-campaign}
 
@@ -116,5 +116,5 @@ Zie [&#x200B; Klonen een Campagne van het Web &#x200B;](/help/marketo/product-do
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Nieuwe Campagne van het Web Widget &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
->* [&#x200B; creeer een Nieuwe Campagne van het Web van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [ creeer een Nieuwe Campagne van het Web Widget ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ creeer een Nieuwe Campagne van het Web van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)

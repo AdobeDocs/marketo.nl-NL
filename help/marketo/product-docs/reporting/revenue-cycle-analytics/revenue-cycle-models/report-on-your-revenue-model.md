@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360429
-description: Rapport over uw inkomstenmodel - Marketo Docs - Productdocumentatie
+description: Klik hier als je meer wilt weten over het inkomstenmodel in Marketo Engage, inclusief een melding over je inkomstenmodel. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Rapport over uw inkomstenmodel
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Voor elk model van de opbrengstcyclus, kunt u een rapport produceren over hoevee
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klik op **[!UICONTROL Leads by Revenue Stage]**.
+1. Klik op **[!UICONTROL Leads by Revenue Stage]** .
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
@@ -43,4 +43,4 @@ Voor elk model van de opbrengstcyclus, kunt u een rapport produceren over hoevee
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Waarom is dit nuttig? Het model toont uw verkoop en marketing trechter. Houd hun saldi in de loop der tijd bij om knelpunten te identificeren voordat ze een probleem worden.
+Waarom is dit nuttig? Het model toont je verkoop en marketing funnel. Houd hun saldi in de loop der tijd bij om knelpunten te identificeren voordat ze een probleem worden.

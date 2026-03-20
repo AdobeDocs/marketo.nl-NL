@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381689
-description: Op account gebaseerde webmarketing met TAM - Marketo Docs - Productdocumentatie
+description: Meer informatie over webmarketing op basis van account met tam in Marketo Engage, inclusief webmarketing op basis van account met tam. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Account-based Web Marketing met TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Wanneer u Marketo [!UICONTROL Web Personalization] en [!UICONTROL Target Account
 
    * **Nota**: De synchronisatie kan tot 5 minuten vergen
 
-* In [!UICONTROL Web Personalization], kunt u [&#x200B; segmenten tot stand brengen richtend rekeningen van de Lijst van de Rekening &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) u in TAM creeerde, en inhoud voor deze rekeningen personaliseren
+* In [!UICONTROL Web Personalization], kunt u [ segmenten tot stand brengen richtend rekeningen van de Lijst van de Rekening ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) u in TAM creeerde, en inhoud voor deze rekeningen personaliseren
 
 ## Voor bestaande ABWM-klanten {#for-existing-abwm-customers}
 

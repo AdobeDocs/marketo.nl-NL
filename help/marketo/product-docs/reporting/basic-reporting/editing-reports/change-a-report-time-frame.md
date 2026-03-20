@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359968
-description: Een rapporttijdkader wijzigen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de periode waarop uw rapport betrekking heeft, kunt wijzigen om de focus op specifieke activiteitsdatums te plaatsen. Stel aangepaste datumbereiken in of gebruik vooraf gedefinieerde tijdframes op het tabblad Setup.
 title: Een rapporttijdframe wijzigen
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -48,4 +48,4 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
 
    >[!MORELIKETHIS]
    >
-   >Om uw rapport door specifieke persoonattributen te beperken, kunt u [&#x200B; Mensen in een Rapport met een Slimme Lijst &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) filtreren.
+   >Om uw rapport door specifieke persoonattributen te beperken, kunt u [ Mensen in een Rapport met een Slimme Lijst ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) filtreren.

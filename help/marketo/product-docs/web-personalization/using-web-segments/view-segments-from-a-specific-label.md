@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719350
-description: Segmenten van een specifiek label weergeven - Marketo Docs - Productdocumentatie
+description: Leer over meningssegmenten van een specifiek etiket in Marketo Engage, met inbegrip van meningssegmenten van een specifiek etiket. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Segmenten van een specifiek label weergeven
 exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---

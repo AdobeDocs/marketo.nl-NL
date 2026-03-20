@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375276
-description: Aangepaste afmetingen voor e-mailinzichten - Marketo Docs - Productdocumentatie
+description: Leer hoe u maximaal 10 aangepaste afmetingen kunt toevoegen aan e-mailinzichten met behulp van segmentaties en programmatags. Kies de gewenste afmetingen zorgvuldig omdat deze niet kunnen worden verwijderd of vervangen wanneer ze eenmaal zijn toegevoegd.
 title: Aangepaste afmetingen voor e-mailinzichten
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 1%
+source-wordcount: '117'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aange
 
    ![](assets/cd1.png)
 
-1. Klik op **[!UICONTROL System]**.
+1. Klik op **[!UICONTROL System]** .
 
    ![](assets/cd2.png)
 

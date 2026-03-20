@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360394
-description: Export Opportunity Influence Analyzer Data - Marketo Docs - Productdocumentatie
+description: Leer hoe u de analysegegevens van de exportoptie in Marketo Engage kunt beïnvloeden met behulp van de exportopportuniteitsanalyse. Neem de volgende stap met vertrouwen.
 title: Export Opportunity Influence Analyzer Data
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
    >[!NOTE]
    >
-   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [&#x200B; aan een BasisRapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) intekenen.
+   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [ aan een BasisRapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) intekenen.
 
 1. Selecteer **[!UICONTROL Report Source]** bij **[!UICONTROL Revenue Explorer]** .
 
@@ -45,4 +45,4 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
 >[!MORELIKETHIS]
 >
->Leer hoe te [&#x200B; om al uw rapportabonnementen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.
+>Leer hoe te [ om al uw rapportabonnementen ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.

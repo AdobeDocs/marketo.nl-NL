@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718683
-description: Het goedkeuren van Stages en het toewijzen van Leidingen aan een Model van de Inkomsten - de Documenten van Marketo - de Documentatie van het Product
+description: Leer over het goedkeuren van fasen en het toewijzen van taken leidt tot een inkomstenmodel in Marketo Engage, inclusief het goedkeuren van fasen en. Neem de volgende stap met vertrouwen.
 title: Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '313'
 ht-degree: 1%
 
 ---
@@ -39,9 +39,9 @@ Uitstekend! Laten we verder gaan en die leads toewijzen.
 
 ## Bestaande leads toewijzen {#assigning-existing-leads}
 
-[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de lood voor één stadium van uw model in uw Gegevensbestand van de Lood te identificeren.
+[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de lood voor één stadium van uw model in uw Gegevensbestand van de Lood te identificeren.
 
-1. Zodra u [&#x200B; uw Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gecreeerd, klik het **[!UICONTROL Leads]** lusje.
+1. Zodra u [ uw Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gecreeerd, klik het **[!UICONTROL Leads]** lusje.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
@@ -49,11 +49,11 @@ Uitstekend! Laten we verder gaan en die leads toewijzen.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Open de vervolgkeuzelijst **[!UICONTROL Lead Actions]** en selecteer **[!UICONTROL Special]** . Klik op **[!UICONTROL Change Revenue Stage...]**.
+1. Open de vervolgkeuzelijst **[!UICONTROL Lead Actions]** en selecteer **[!UICONTROL Special]** . Klik op **[!UICONTROL Change Revenue Stage...]** .
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Selecteer de juiste **[!UICONTROL Model]** en de juiste **[!UICONTROL Stage]** . Klik op **[!UICONTROL Run Now]**.
+1. Selecteer de juiste **[!UICONTROL Model]** en de juiste **[!UICONTROL Stage]** . Klik op **[!UICONTROL Run Now]** .
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 

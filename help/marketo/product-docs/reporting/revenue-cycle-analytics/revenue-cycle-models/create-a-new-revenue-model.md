@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718656
-description: Een nieuw inkomstenmodel maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Marketo Engage een nieuw inkomstenmodel kunt maken door een nieuw inkomstenmodel te maken. Neem de volgende stap met vertrouwen.
 title: Een nieuw inkomstenmodel maken
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -37,4 +37,4 @@ Kijk scherp! Je bent net de prachtige wereld van modellering binnengekomen.
 
 >[!MORELIKETHIS]
 >
->Leer meer over [&#x200B; Gebruikend de Staven van de Inventaris van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).
+>Leer meer over [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md).

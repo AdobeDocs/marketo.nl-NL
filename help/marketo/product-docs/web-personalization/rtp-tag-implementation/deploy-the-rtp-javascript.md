@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719332
-description: Implementeer de RTP JavaScript - Marketo Docs - Productdocumentatie
+description: Leer over opstellen rtp javascript in Marketo Engage, met inbegrip van opstellen rtp javascript. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Implementeer de RTP JavaScript
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,6 @@ Volg onderstaande installatie-instructies om uw RTP-tag te genereren en in te st
 
    Controleer of de schakeloptie [!UICONTROL Tag] is ingesteld op [!UICONTROL ON] . U zou moeten beginnen gegevensstroom in het lusje van de Organisatie te zien.
 
-   U bent nu opstelling met de markering RTP en klaar om [&#x200B; het creëren van segmenten &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en campagnes in real time te beginnen!
+   U bent nu opstelling met de markering RTP en klaar om [ het creëren van segmenten ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en campagnes in real time te beginnen!
 
 1. Verifieer de markering op alle pagina&#39;s is.

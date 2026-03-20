@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720215
-description: Implementatie van RTP op Wordpress Enterprise - Marketo Docs - Productdocumentatie
+description: Meer informatie over de implementatie van het RTP op Wordpress Enterprise in Marketo Engage, inclusief de implementatie van het RTP op Wordpress. Gebruik deze handleiding om de volgende stap te voltooien.
 title: RTP implementeren op Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '109'
+ht-degree: 0%
 
 ---
 
@@ -45,4 +45,4 @@ b. Plak de Javascript-tag RTP naar rechts na de bestaande code.
    >
    >Voeg ALLEEN het script in.
 
-1. Klik op **[!UICONTROL Update]**.
+1. Klik op **[!UICONTROL Update]** .

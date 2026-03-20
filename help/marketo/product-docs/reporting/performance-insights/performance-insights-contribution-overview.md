@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: Performance Insights Contribution Overview - Marketo Docs - Productdocumentatie
+description: Leer over de mening van de Bijdrage van Prestatie Inzichten die marketing bijdrage aan opbrengst door overeenkomst, pijpleiding, en opbrengstmetriek evalueert. Bekijk de prestaties van het kanaal en het programma met donut- en staafgrafieken.
 title: Overzicht van de bijdrage van Performance Insights
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099798
-description: Filteren in e-mailinzichten - Marketo Docs - Productdocumentatie
+description: Leer hoe u gegevens van e-mailinzichten filtert op publiek, inhoud, platform, apparaattype en datumbereiken. Pas meerdere filters toe om naar beneden te bogen in specifieke meeteenheden en de prestaties te vergelijken.
 title: Filteren in e-mailinzichten
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,6 @@ Kies uit gangbare, vooraf ingestelde datumbereiken, selecteer specifieke datums 
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-Als u [[!UICONTROL Target Account Management] &#x200B;](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) gebruikt, zijn er filters specifiek voor u.
+Als u [[!UICONTROL Target Account Management] ](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) gebruikt, zijn er filters specifiek voor u.
 
 ![](assets/abm.png)

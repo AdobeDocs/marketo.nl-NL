@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951252
-description: Webcampagnes sorteren op nieuwste of best presterende (Marketo Docs - Productdocumentatie)
+description: Leer hoe u webcampagnes kunt sorteren op de meest recente of meest recente manier in Marketo Engage met behulp van sorteerwebcampagnes. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Webcampagnes sorteren op nieuwste of meest presterende
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---

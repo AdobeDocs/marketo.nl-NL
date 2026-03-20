@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719406
-description: Een webcampagne starten/pauzeren - Marketo Docs - Productdocumentatie
+description: Meer informatie over het starten/pauzeren van een webcampagne in Marketo Engage, waaronder het starten van een webcampagne. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een webcampagne starten/pauzeren
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Een webcampagne starten/pauzeren {#launch-pause-a-web-campaign}
 
-Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en kan a [&#x200B; dialoogdoos &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website, a [&#x200B; in streekvervanging &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), een widgeteigenschap, of een e-mailalarm zijn.
+Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en kan a [ dialoogdoos ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website, a [ in streekvervanging ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), een widgeteigenschap, of een e-mailalarm zijn.
 
 U kunt een webcampagne op twee manieren starten of pauzeren vanaf de pagina [!UICONTROL Web Campaigns] of [!UICONTROL Set Web Campaigns] .
 
-1. Klik op **[!UICONTROL Web Personalization]**.
+1. Klik op **[!UICONTROL Web Personalization]** .
 
    ![](assets/one-1.png)
 
@@ -47,6 +47,6 @@ U kunt een webcampagne op twee manieren starten of pauzeren vanaf de pagina [!UI
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Campagne van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [&#x200B; creeer een RTP in de Campagne van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [&#x200B; creeer een Campagne van Widget RTP &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

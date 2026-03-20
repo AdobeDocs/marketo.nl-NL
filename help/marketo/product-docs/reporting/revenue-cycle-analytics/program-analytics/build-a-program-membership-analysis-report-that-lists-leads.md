@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360405
-description: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Leidingen - Marketo Docs - de Documentatie van het Product opsomt
+description: Leer hoe u een analyserapport voor het lidmaatschap van een programma kunt maken waarin de leads in Marketo Engage worden vermeld met behulp van een programma. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360421
-description: Gedrag Analytics negeren op programmaniveau - Marketo Docs - Productdocumentatie
+description: Meer informatie over het negeren van analysefuncties op programmaniveau in Marketo Engage, waaronder het negeren van analysefuncties. Neem de volgende stap met vertrouwen.
 title: Gedrag Analytics negeren op programmaniveau
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # Gedrag Analytics negeren op programmaniveau {#override-analytics-behavior-at-the-program-level}
 
-U kunt het [&#x200B; analysegedrag op het admin niveau op kanalen &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen maar u kunt het op het programmaniveau ook met voeten treden. Hieronder wordt beschreven hoe:
+U kunt het [ analysegedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen maar u kunt het op het programmaniveau ook met voeten treden. Hieronder wordt beschreven hoe:
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 
@@ -42,7 +42,7 @@ U kunt het [&#x200B; analysegedrag op het admin niveau op kanalen &#x200B;](/hel
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

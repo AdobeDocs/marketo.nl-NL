@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7513771
-description: Aanmelding en gebruikersbeheer - Marketo-documenten - Productdocumentatie
+description: Leer hoe u zich bij Marketo Engage aanmeldt en gebruikersbeheer gebruikt met aanmeldingsgegevens en gebruikersbeheer. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Aanmelding en gebruikersbeheer
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. Klik op **[!UICONTROL Roles]**.
+1. Klik op **[!UICONTROL Roles]** .
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >Als de Web Personalization (WP) gebruikersrol reeds bestaat, zorg ervoor het zoals aangetoond in Stap 4 wordt gevormd.
 
-1. Klik op **[!UICONTROL New Role]**.
+1. Klik op **[!UICONTROL New Role]** .
 
    ![](assets/three-1.png)
 
-1. Voer een [!UICONTROL Role Name] in en selecteer [!UICONTROL Permissions] . Klik **[!UICONTROL Create]** (deze rol moet [&#x200B; op alle werkruimten &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) van toepassing zijn).
+1. Voer een [!UICONTROL Role Name] in en selecteer [!UICONTROL Permissions] . Klik **[!UICONTROL Create]** (deze rol moet [ op alle werkruimten ](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) van toepassing zijn).
 
    ![](assets/four.png)
 

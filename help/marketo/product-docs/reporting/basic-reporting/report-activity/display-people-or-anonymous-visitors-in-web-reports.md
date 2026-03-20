@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360008
-description: Personen of anonieme bezoekers weergeven in webrapporten - Marketo Docs - Productdocumentatie
+description: In deze video ziet u hoe u mensen of anonieme bezoekers kunt weergeven in webrapporten in Marketo Engage, inclusief het weergeven van personen of personen. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Personen of anonieme bezoekers weergeven in webrapporten
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg Munchkin het Volgen Code aan Uw Website toe &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[ voeg Munchkin het Volgen Code aan Uw Website toe ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In [[!UICONTROL Web Page Activity]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) en [[!UICONTROL Company Web Activity] rapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) kunt u of [&#x200B; mensen of anonieme bezoekers &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) zien die uw plaats bezoeken. De anonieme bezoekers hebben gegevens verzameld, zoals Metro Area.  Hier is hoe te om te selecteren of het rapport bekende lood of anonieme bezoekers toont.
+In [[!UICONTROL Web Page Activity]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) en [[!UICONTROL Company Web Activity] rapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) kunt u of [ mensen of anonieme bezoekers ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) zien die uw plaats bezoeken. De anonieme bezoekers hebben gegevens verzameld, zoals Metro Area.  Hier is hoe te om te selecteren of het rapport bekende lood of anonieme bezoekers toont.
 
 1. Klik in uw [!UICONTROL Web Page Activity] -rapport op **[!UICONTROL Setup]** .
 
@@ -41,4 +41,4 @@ In [[!UICONTROL Web Page Activity]](/help/marketo/product-docs/reporting/basic-r
 
 >[!MORELIKETHIS]
 >
->[&#x200B; het Volgen Anonieme Activiteit en Mensen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
+>[ het Volgen Anonieme Activiteit en Mensen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)

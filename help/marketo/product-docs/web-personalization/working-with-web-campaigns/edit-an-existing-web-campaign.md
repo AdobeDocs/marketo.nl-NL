@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719408
-description: Een bestaande webcampagne bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een bestaande webcampagne in Marketo Engage kunt bewerken met een bestaande webcampagne. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een bestaande webcampagne bewerken
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Schrap een Campagne van het Web &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [&#x200B; Lancering/Pauze een Campagne &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
+>* [ Schrap een Campagne van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [ Lancering/Pauze een Campagne ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

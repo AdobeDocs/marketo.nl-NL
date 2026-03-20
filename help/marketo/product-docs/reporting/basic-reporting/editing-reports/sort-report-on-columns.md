@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359996
-description: Rapport sorteren op kolommen - Marketo Docs - Productdocumentatie
+description: Leer hoe u rapportgegevens op kolommen kunt sorteren om de belangrijkste cijfers te benadrukken. Klik op de kolomkoppen op het tabblad Rapport om de oplopende of aflopende sorteervolgorde te selecteren.
 title: Rapport sorteren op kolommen
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Met kolommen kunt u de gegevens in uw rapport sorteren en de belangrijkste figur
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Uitgezochte Kolommen van het Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[ Uitgezochte Kolommen van het Rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

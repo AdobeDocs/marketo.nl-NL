@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7511725
-description: Mijn rapporten en groepsrapporten begrijpen - Marketo Docs - Productdocumentatie
+description: Leer over het verschil tussen Mijn Rapporten, die slechts voor u zichtbaar zijn, en de Rapporten van de Groep, die voor alle werkruimtegengebruikers zichtbaar zijn. Organiseer uw opgeslagen rapporten effectief.
 title: Mijn rapporten en groepsrapporten begrijpen
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Mijn rapporten en groepsrapporten begrijpen {#understanding-my-reports-and-group-reports}
 
-U kunt **[!UICONTROL My Reports]** en **[!UICONTROL Group Reports]** van het [&#x200B; Huis van Analytics &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) tot stand brengen.
+U kunt **[!UICONTROL My Reports]** en **[!UICONTROL Group Reports]** van het [ Huis van Analytics ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) tot stand brengen.
 
 **[!UICONTROL My Reports]** zijn alleen zichtbaar voor u.
 
@@ -27,5 +27,5 @@ U kunt **[!UICONTROL My Reports]** en **[!UICONTROL Group Reports]** van het [&#
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; sparen een Rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [&#x200B; kloon een Rapport aan de Rapporten van de Groep &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [ sparen een Rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [ kloon een Rapport aan de Rapporten van de Groep ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

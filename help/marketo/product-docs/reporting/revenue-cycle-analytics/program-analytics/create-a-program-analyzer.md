@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360399
-description: Een programmaanalyse maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Marketo Engage een programma-analysator maakt met behulp van een programma-analysator create-a-program-analyzer. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een programmaanalyse maken
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld
 
 >[!NOTE]
 >
->Om goede gegevens van een programmaanalysator te krijgen, zorg ervoor uw contacten van CRM rollen in de kansen hebben, en dat uw programma&#39;s van Marketo volledig opstelling zijn, met [&#x200B; bepaalde tijdkosten &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), programmastatussen, en succes.
+>Om goede gegevens van een programmaanalysator te krijgen, zorg ervoor uw contacten van CRM rollen in de kansen hebben, en dat uw programma&#39;s van Marketo volledig opstelling zijn, met [ bepaalde tijdkosten ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), programmastatussen, en succes.
 
 >[!TIP]
 >
->Om programma&#39;s zonder kosten te maken verschijnen in de programmaanalysator, [&#x200B; plaats hun periode kosten &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) aan $0.
+>Om programma&#39;s zonder kosten te maken verschijnen in de programmaanalysator, [ plaats hun periode kosten ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) aan $0.
 
 1. Klik op de tegel **[!UICONTROL Analytics]** .
 
@@ -55,7 +55,7 @@ Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. Selecteer met de vervolgkeuzelijsten [!UICONTROL Save To] en [!UICONTROL Folder] de locatie waar u de aangepaste analysator wilt opslaan. Geef de nieuwe aangepaste analysator een naam. Een beschrijving is optioneel. Klik op **[!UICONTROL Save]**.
+1. Selecteer met de vervolgkeuzelijsten [!UICONTROL Save To] en [!UICONTROL Folder] de locatie waar u de aangepaste analysator wilt opslaan. Geef de nieuwe aangepaste analysator een naam. Een beschrijving is optioneel. Klik op **[!UICONTROL Save]** .
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
@@ -65,11 +65,11 @@ Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld
 
 >[!NOTE]
 >
->Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [&#x200B; verschil tussen FT en MT attributie &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
+>Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [ verschil tussen FT en MT attributie ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; vergelijk de Doeltreffendheid van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [&#x200B; Vergelijk de Doeltreffendheid van het Programma met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [&#x200B; Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [&#x200B; Klonen a [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+>* [ vergelijk de Doeltreffendheid van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [ Vergelijk de Doeltreffendheid van het Programma met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [ Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [ Klonen a [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)

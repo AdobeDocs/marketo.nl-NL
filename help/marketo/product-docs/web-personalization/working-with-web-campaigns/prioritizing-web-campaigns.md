@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8782266
-description: Prioriteit geven aan webcampagnes - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Marketo Engage prioriteit geeft aan webcampagnes, waaronder het opgeven van prioriteiten voor webcampagnes. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Prioriteit geven aan webcampagnes
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Prioriteit geven aan uw webcampagnes wanneer twee of meer webcampagnes elkaar ov
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Stel in de pagina Campagne bewerken de waarde [!UICONTROL Priority Score] in (9999 = Hoogste prioriteit 1 = Laagste prioriteit).
 

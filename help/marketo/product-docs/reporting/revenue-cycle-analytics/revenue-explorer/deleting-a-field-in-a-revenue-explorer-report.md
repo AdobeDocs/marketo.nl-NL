@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504520
-description: Een veld verwijderen in een Indelingsverkenner-rapport - Marketo Docs - Productdocumentatie
+description: Leer over het schrappen van een gebied in een rapport van de opbrengstontdekkingsreiziger in Marketo Engage, met inbegrip van het schrappen van een gebied in een opbrengst. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een veld verwijderen in een Indelingsverkenner-rapport
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ Soms sleept u een verkeerd veld naar het rapport. Hieronder wordt beschreven hoe
 
 >[!MORELIKETHIS]
 >
->[&#x200B; het Opslaan van a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[ het Opslaan van a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

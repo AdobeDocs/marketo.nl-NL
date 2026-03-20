@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720224
-description: Regio's bewerken - Marketo-documenten - Productdocumentatie
+description: Leer hoe u gebieden in Marketo Engage kunt bewerken door de regionale instellingen van uw gebruikers te wijzigen in. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Gebieden bewerken
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '74'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Wilt u de regionale instellingen van uw gebruikersregio wijzigen zodat alleen de
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klik op **[!UICONTROL Edit Regions]**.
+1. Klik op **[!UICONTROL Edit Regions]** .
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

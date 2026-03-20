@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093041
-description: Een abonnement op een slimme lijst bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u abonnementen op slimme lijsten kunt bewerken door ontvangers, frequentie, kolommen, einddatum en indeling bij te werken. Breng de wijzigingen rechtstreeks aan op het tabblad Abonnementen.
 title: Een abonnement voor een slimme lijst bewerken
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ U kunt deze kolommen rechtstreeks bewerken op het tabblad Abonnementen, dat word
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Open de kolom **[!UICONTROL Columns]** en gebruik de kiezer om kolommen toe te voegen of te verwijderen uit het rapport. De Kolommen van het rapport bevatten alle beschikbare kolommen en de Kolommen van Marketo tonen slechts die u aan vertoning in uw rapport hebt geselecteerd. Klik op **[!UICONTROL Save]**.
+1. Open de kolom **[!UICONTROL Columns]** en gebruik de kiezer om kolommen toe te voegen of te verwijderen uit het rapport. De Kolommen van het rapport bevatten alle beschikbare kolommen en de Kolommen van Marketo tonen slechts die u aan vertoning in uw rapport hebt geselecteerd. Klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,7 +45,7 @@ U kunt deze kolommen rechtstreeks bewerken op het tabblad Abonnementen, dat word
    >
    >De kolommen onder Kolommen van Marketo zijn de rapportkolommen, niet degenen die in het het rapportlusje van Abonnementen worden gebruikt.
 
-1. Klik op de kolom **[!UICONTROL End Date]** om de einddatum te bewerken. Selecteer **[!UICONTROL Never]** of **[!UICONTROL Date]** . Voer de datum in of kies een datum in de kalender. Klik op **[!UICONTROL Approve]**.
+1. Klik op de kolom **[!UICONTROL End Date]** om de einddatum te bewerken. Selecteer **[!UICONTROL Never]** of **[!UICONTROL Date]** . Voer de datum in of kies een datum in de kalender. Klik op **[!UICONTROL Approve]** .
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099411
-description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
+description: Meer informatie over de e-mailinzichten Analytics die geaggregeerde tijdreeksgegevens voor e-maillevering en betrokkenheidsmetriek onderzoekt. Gebruik grafieken en inzichten met instructies om relevante prestatie-stuurprogramma's te ontdekken.
 title: Overzicht van e-mailinzichten
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Verken in [!UICONTROL Analytics] geaggregeerde gegevens voor verzending en betro
 
 ![](assets/emailanalytics-1.jpg)
 
-[&#x200B; het Filtreren &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is beschikbaar om u te helpen naar beneden voor specifieke metriek boren.
+[ het Filtreren ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is beschikbaar om u te helpen naar beneden voor specifieke metriek boren.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +45,7 @@ De grafiek toont uw gefilterde criteria. Als u een van uw filters wilt verbergen
 
 ![](assets/chart2.png)
 
-Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het a [&#x200B; snelle grafiek &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het a [ snelle grafiek ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -63,4 +63,4 @@ U kunt ook opgeven wat u ziet (van links naar rechts): Alle, Publiek, Inhoud en 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; e-mailInzichten verzendt Overzicht &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[ e-mailInzichten verzendt Overzicht ](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

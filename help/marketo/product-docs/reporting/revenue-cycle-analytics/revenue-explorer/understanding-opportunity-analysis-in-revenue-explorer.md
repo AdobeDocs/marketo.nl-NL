@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951884
-description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten - de Documentatie van Marketo - de Documentatie van het Product
+description: Leer meer over het begrijpen van opportuniteitsanalyse in de ontdekkingsreiziger van de opbrengst in Marketo Engage, met inbegrip van begrip. Gebruik deze handleiding om de volgende stap te voltooien.
 title: De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '910'
 ht-degree: 3%
 
 ---
@@ -153,6 +153,6 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [&#x200B; Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [&#x200B; Abonneren aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [ creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [ Abonneren aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

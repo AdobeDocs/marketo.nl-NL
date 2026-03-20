@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6094879
-description: Een doel-URL toevoegen aan een webcampagne - Marketo Docs - Productdocumentatie
+description: Meer informatie over het toevoegen van een doel-URL aan een webcampagne in Marketo Engage, zoals het toevoegen van een doel-URL aan een web. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een doel-URL toevoegen aan een webcampagne
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '238'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wo
 >[!NOTE]
 >
 >* Dialoog- en widgetwebcampagnes kunnen de opties Pagina en Jokerteken (&#42;) gebruiken.
->* In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [&#x200B; www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [ www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL is hoofdlettergevoelig
 
 ## Een doel-URL toevoegen voor webcampagnes in zone {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -74,12 +74,12 @@ Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wo
 
    >[!NOTE]
    >
-   >Doel-URL met In zones moet een specifieke URL of URL&#39;s definiëren. In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [&#x200B; www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >Doel-URL met In zones moet een specifieke URL of URL&#39;s definiëren. In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [ www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Campagne van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [&#x200B; creeer een RTP in de Campagne van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [&#x200B; creeer een Campagne van Widget RTP &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

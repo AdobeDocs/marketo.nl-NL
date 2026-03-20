@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092925
-description: Een webcampagne voorvertonen en testen - Marketo Docs - Productdocumentatie
+description: Leer hoe u een webcampagne in Marketo Engage kunt voorvertonen en testen met behulp van een voorvertoning en een webcampagne. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een webcampagne voorvertonen en testen
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '386'
 ht-degree: 1%
 
 ---
@@ -39,7 +39,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    >[!NOTE]
    >
-   >U hebt ook de optie om een browser stop-binnen (of [[!DNL Chrome] te installeren &#x200B;](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [[!DNL Firefox] &#x200B;](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor de beste ervaring previewing uw campagne. Zie de onderstaande paragraaf.
+   >U hebt ook de optie om een browser stop-binnen (of [[!DNL Chrome] te installeren ](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [[!DNL Firefox] ](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor de beste ervaring previewing uw campagne. Zie de onderstaande paragraaf.
 
 ## Een webcampagne voorvertonen op de pagina Maken met de plug-in Browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -49,11 +49,11 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    ![](assets/4-1.png)
 
-1. Er wordt een nieuw venster/tabblad geopend. Klik op **[!UICONTROL Add to Chrome]**.
+1. Er wordt een nieuw venster/tabblad geopend. Klik op **[!UICONTROL Add to Chrome]** .
 
    ![](assets/five.png)
 
-1. Klik op **[!UICONTROL Add Extension]**.
+1. Klik op **[!UICONTROL Add Extension]** .
 
    ![](assets/six.png)
 
@@ -81,13 +81,13 @@ Maak een sandboxsegment en -campagne.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klik op **[!UICONTROL Create New]**.
+1. Klik op **[!UICONTROL Create New]** .
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Geef het segment een naam.
 
-1. Sleep [!UICONTROL Behavioral] onder [!UICONTROL Include Pages] naar het canvas. Voeg de waarde &#42; zandbak=1 &#42; toe. Klik op **[!UICONTROL Save & Define Campaign]**.
+1. Sleep [!UICONTROL Behavioral] onder [!UICONTROL Include Pages] naar het canvas. Voeg de waarde &#42; zandbak=1 &#42; toe. Klik op **[!UICONTROL Save & Define Campaign]** .
 
    ![](assets/segment.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514151
-description: Attributievoorbeeld 4 - Marketo Docs - Productdocumentatie
+description: Leer meer over attributie voorbeeld 4 in Marketo Engage, met inbegrip van attributie voorbeeld 4 attributie-voorbeeld. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Attributievoorbeeld 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,6 @@ Probeer alle voorbeelden en je bent een attribuut pro!
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Voorbeeld van de Attributie 1 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [&#x200B; Voorbeeld van de Attributie 2 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [&#x200B; Voorbeeld van de Attributie 3 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [ Voorbeeld van de Attributie 1 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [ Voorbeeld van de Attributie 2 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [ Voorbeeld van de Attributie 3 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)

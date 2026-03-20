@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360225
-description: Assets filteren in een e-mailrapport - Marketo Docs - Productdocumentatie
+description: Leer hoe u elementen in een e-mailrapport in Marketo Engage kunt filteren met behulp van filterelementen in een e-mailrapport. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Assets filteren in een e-mailrapport
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # Assets filteren in een e-mailrapport {#filter-assets-in-an-email-report}
 
-Focus uw [&#x200B; Prestaties van de E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [&#x200B; E-mailPrestaties van de Verbinding &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapport over e-mail in uw programma&#39;s (&quot;lokale activa&quot;), op die in de Studio van het Ontwerp (&quot;globale activa&quot;), of op die die zijn gearchiveerd.
+Focus uw [ Prestaties van de E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [ E-mailPrestaties van de Verbinding ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapport over e-mail in uw programma&#39;s (&quot;lokale activa&quot;), op die in de Studio van het Ontwerp (&quot;globale activa&quot;), of op die die zijn gearchiveerd.
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Focus uw [&#x200B; Prestaties van de E-mail &#x200B;](/help/marketo/product-docs
 
 >[!MORELIKETHIS]
 >
->[&#x200B; de Filter Assets in een E-mailrapporten van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>[ de Filter Assets in een E-mailrapporten van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359994
-description: Rapportkolommen selecteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u kunt selecteren welke kolommen in uw rapporten worden weergegeven door een keuze te maken uit de beschikbare opties. Pas rapportmeningen aan door kolomrubrieken te klikken en Kolommen te selecteren.
 title: Rapportkolommen selecteren
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Rapport van de Soort op Kolommen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[ Rapport van de Soort op Kolommen ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097747
-description: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u aangepaste maatregelen toevoegt aan een rapport van de inkomstenverkenner in Marketo Engage, inclusief het toevoegen van aangepaste maatregelen. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 >
 >U hebt minstens één metrisch in uw rapport nodig, maar het moet niet één van de maatregelen zijn u gebruikt om uw douanemaatregel te bepalen.
 
-1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [&#x200B; Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor details.
+1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor details.
 
 1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel), klik op **[!UICONTROL User Defined Measure]** en selecteer **[!UICONTROL Calculated Measure]** .
 
@@ -49,4 +49,4 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

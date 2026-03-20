@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718675
-description: De naam van een werkgebied wijzigen - Marketo Docs - Productdocumentatie
+description: Meer informatie over het wijzigen van de naam van een werkgebied in Marketo Engage, waaronder het wijzigen van de naam van een werkgebied. Gebruik deze handleiding om de volgende stap te voltooien.
 title: De naam van een werkgebied wijzigen
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Je geest veranderen? Geen probleem. De naam van een fase in de inkomstencyclusmo
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Selecteer een inkomstencyclusmodel dat u wilt bijwerken. Klik op **[!UICONTROL Edit Draft]**.
+1. Selecteer een inkomstencyclusmodel dat u wilt bijwerken. Klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
@@ -27,8 +27,8 @@ Je geest veranderen? Geen probleem. De naam van een fase in de inkomstencyclusmo
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-1. Klik op **[!UICONTROL Close]**.
+1. Klik op **[!UICONTROL Close]** .
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Zie? Eenvoudig! Herinner me aan [&#x200B; uw Model &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md) goedkeuren.
+   Zie? Eenvoudig! Herinner me aan [ uw Model ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md) goedkeuren.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360237
-description: Vertel het Marketing Story met een Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
+description: Meer informatie over het marketingverhaal vindt u in Marketo Engage met een opportuniteitsanalyse, waaronder het vertellen van de website. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Gebruik een [!UICONTROL Opportunity Influence Analyzer] om de rol van marketing 
 
 >[!PREREQUISITES]
 >
->[&#x200B; Een [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) maken
+>[ Een [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) maken
 
 1. Ga naar **[!UICONTROL Analytics]** en selecteer de **[!UICONTROL Opportunity Influence Analyzer]** .
 
@@ -25,11 +25,11 @@ Gebruik een [!UICONTROL Opportunity Influence Analyzer] om de rol van marketing 
 
    [!UICONTROL Opportunity Influence Analyzer] is een visuele weergave van de interacties en programma- en gebeurtenissuccessen die bij die gelegenheid zijn betrokken. Laten we de grafiek verkennen:
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a43-3a21.png) **Oranje stippen** vertegenwoordigen interessante momenten in de kans (e-mails geopend, handelsbeurtenbezoeken, whitepaper downloads, enz.). Grotere stippen geven meer interacties aan.
+   * ![ - ](assets/image2014-10-3-13-3a43-3a21.png) **Oranje stippen** vertegenwoordigen interessante momenten in de kans (e-mails geopend, handelsbeurtenbezoeken, whitepaper downloads, enz.). Grotere stippen geven meer interacties aan.
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a44-3a9.png) **de pictogrammen van de Bindder** wijzen op programmasuccessen.
+   * ![ - ](assets/image2014-10-3-13-3a44-3a9.png) **de pictogrammen van de Bindder** wijzen op programmasuccessen.
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a44-3a40.png) **de pictogrammen van de Kalender** wijzen op gebeurtenissuccessen.
+   * ![ - ](assets/image2014-10-3-13-3a44-3a40.png) **de pictogrammen van de Kalender** wijzen op gebeurtenissuccessen.
 
    * **periode van de Kans**. Het groene gebied biedt de mogelijkheid zelf, van het creëren van kansen tot het sluiten van kansen (gewonnen of verloren).
 
@@ -39,7 +39,7 @@ Gebruik een [!UICONTROL Opportunity Influence Analyzer] om de rol van marketing 
 
    * Het **aantal tussen haakjes** is het aantal interactie met dat contact.
 
-   * ![&#x200B; - &#x200B;](assets/image2014-10-3-13-3a45-3a9.png) de **gele ster** wijst op het primaire contact.
+   * ![ - ](assets/image2014-10-3-13-3a45-3a9.png) de **gele ster** wijst op het primaire contact.
 
 1. Houd de muisaanwijzer boven een naam om de functie van die persoon en de bron van zijn betrokkenheid bij de kans te zien.
 
@@ -61,4 +61,4 @@ Gebruik een [!UICONTROL Opportunity Influence Analyzer] om de rol van marketing 
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Vorm een [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[ Vorm een [!UICONTROL Opportunity Influence Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

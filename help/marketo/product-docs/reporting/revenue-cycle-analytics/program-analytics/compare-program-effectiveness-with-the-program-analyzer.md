@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360403
-description: De doeltreffendheid van het programma met de Analysator van het Programma vergelijken - de Documentatie van Marketo -
+description: Leer hoe u de doeltreffendheid van programma's kunt vergelijken met de programmaanalyse in Marketo Engage, inclusief het vergelijkingsprogramma. Gebruik deze handleiding om de volgende stap te voltooien.
 title: De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Gebruik [!UICONTROL Program Analyzer] om uw meest en minst efficiënte programma
 
 >[!PREREQUISITES]
 >
->[&#x200B; Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[ Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Klik op **[!UICONTROL Analytics]**.
+1. Klik op **[!UICONTROL Analytics]** .
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -67,7 +67,7 @@ Gebruik [!UICONTROL Program Analyzer] om uw meest en minst efficiënte programma
 
    >[!NOTE]
    >
-   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [&#x200B; verschil tussen FT en MT attributie &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
+   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [ verschil tussen FT en MT attributie ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 1. Kijk hoe de ballonnen de grootte van uw grafiek veranderen.
 
@@ -91,5 +91,5 @@ We zien dat het [!DNL Paper Fest 12] -programma niet alleen invloed heeft op mee
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [&#x200B; vergelijk de Doeltreffendheid van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [ Ontdek Programma &amp; de Details van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [ vergelijk de Doeltreffendheid van het Kanaal met [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

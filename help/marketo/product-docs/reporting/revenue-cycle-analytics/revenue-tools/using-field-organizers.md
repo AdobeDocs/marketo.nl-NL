@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571892
-description: Veldorganisatoren gebruiken - Marketo Docs - Productdocumentatie
+description: Leer hoe u veldorganisatoren in Marketo Engage kunt gebruiken met behulp van veldorganisatoren. Gebruik deze handleiding om de volgende stap te voltooien.
 title: VeldOrganizer gebruiken
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ De Organisatoren van het Gebied worden gebruikt in de ModelAnalyse van Prestatie
 
 ## Veldorganisatoren maken {#how-to-create-field-organizers}
 
-1. Klik op **[!UICONTROL Database]**.
+1. Klik op **[!UICONTROL Database]** .
 
    ![](assets/db.png)
 
@@ -37,11 +37,11 @@ De Organisatoren van het Gebied worden gebruikt in de ModelAnalyse van Prestatie
 
    ![](assets/three-1.png)
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Geef de groep een naam en voer de juiste gegevens in (dit hangt af van het gegevenstype van het geselecteerde veld). Klik op **[!UICONTROL Add Group]**.
+1. Geef de groep een naam en voer de juiste gegevens in (dit hangt af van het gegevenstype van het geselecteerde veld). Klik op **[!UICONTROL Add Group]** .
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
@@ -49,4 +49,4 @@ Maak op dezelfde manier meer veldorganisaties, als u ze nodig hebt. En daar ben 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer de Groepen van het Gebied van de Douane die de Organisator van het Gebied gebruiken &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+>[ creeer de Groepen van het Gebied van de Douane die de Organisator van het Gebied gebruiken ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

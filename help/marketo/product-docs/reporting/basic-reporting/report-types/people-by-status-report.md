@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360012
-description: Rapport Personen op status - Marketo Docs - Productdocumentatie
+description: Leer over Mensen door de rapporten van de Status die tonen hoeveel mensen in elke waarde van de Status van Persoon maandelijks verschijnen. Houd de voortgang van uw proces bij en ontdek knelpunten in uw funnel.
 title: Rapport Personen per status
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # Rapport Personen per status {#people-by-status-report}
 
-Bekijk hoe goed u mensen door het proces beweegt door te controleren hoeveel van hen in elke _[!UICONTROL Person Status]_&#x200B;waarde elke maand verschijnen.
+Bekijk hoe goed u mensen door het proces beweegt door te controleren hoeveel van hen in elke _[!UICONTROL Person Status]_waarde elke maand verschijnen.
 
-1. [&#x200B; creeer een rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL People by Status]** [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL People by Status]** [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [&#x200B; plaats het tijdkader van uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
+1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
 
-1. Geweldig! Nu kun je zien hoeveel mensen er in elke _[!UICONTROL Person Status]_&#x200B;zaten, van maand tot maand.
+1. Geweldig! Nu kun je zien hoeveel mensen er in elke _[!UICONTROL Person Status]_zaten, van maand tot maand.
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 
@@ -29,4 +29,4 @@ Bekijk hoe goed u mensen door het proces beweegt door te controleren hoeveel van
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; gebruik een slimme lijst om uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) aan specifieke mensen te filtreren.
+   >[ gebruik een slimme lijst om uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) aan specifieke mensen te filtreren.

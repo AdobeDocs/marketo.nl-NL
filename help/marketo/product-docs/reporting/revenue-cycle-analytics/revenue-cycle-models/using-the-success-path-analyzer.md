@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571886
-description: De Padanalyse met succes gebruiken - Marketo Docs - Productdocumentatie
+description: Leer hoe u de succespadanalyse in Marketo Engage gebruikt met behulp van de succespadanalyse. Gebruik deze handleiding om de volgende stap te voltooien.
 title: De Padanalyse met succes gebruiken
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
 # De Padanalyse met succes gebruiken {#using-the-success-path-analyzer}
 
-Gebruik Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw [&#x200B; Model van de Cyclus van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) weerspiegelen.
+Gebruik Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw [ Model van de Cyclus van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) weerspiegelen.
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Analysator van de Weg van het Succes &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[ creeer een Analysator van de Weg van het Succes ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Ga naar **[!UICONTROL Analytics]** en selecteer uw **Analysator van de Weg van het Succes**.
 
@@ -43,7 +43,7 @@ Gebruik Analysator van de Weg van het Succes om de specifieke details te onderzo
 
    De datum **[!UICONTROL To]** wordt automatisch ingesteld zodat deze overeenkomt met de lengte van de oorspronkelijke tijdsperiode.
 
-1. Klik op **[!UICONTROL Compare]**.
+1. Klik op **[!UICONTROL Compare]** .
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 

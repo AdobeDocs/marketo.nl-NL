@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718636
-description: Het begrip van het gebied van de Kostenanalyse van het Programma - de Documenten van Marketo - de Documentatie van het Product
+description: Meer informatie over het kostenanalysegebied van programma's in Marketo Engage, inclusief inzicht in de kosten van het programma. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Het begrip van het gebied van de Analyse van de Kosten van het Programma
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '341'
 ht-degree: 2%
 
 ---

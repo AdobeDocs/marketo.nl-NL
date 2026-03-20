@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979858
-description: Veelgestelde vragen over prestaties - Marketo Docs - Productdocumentatie
+description: Zoek antwoorden op veelgestelde vragen over Prestatieinzichten met inbegrip van attributie montages, programmazicht, opportuniteitsafbeelding, en opstellingsvereisten. Begrijp hoe MPI met uw CRM en analyse werkt.
 title: Veelgestelde vragen over prestaties
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1364'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ U kunt de zichtbaarheid van uw programma&#39;s bepalen door het gedrag Analytics
 
 >[!NOTE]
 >
->Leer meer over het plaatsen van analysegedrag [&#x200B; hier &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>Leer meer over het plaatsen van analysegedrag [ hier ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## Ik voer een multikanaalcampagne voor een nieuwe productlancering. Hoe kan ik de prestaties voor deze campagne op alle verschillende kanalen op één plaats bekijken? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,7 +59,7 @@ Mogelijk ontbreken er ook kansen omdat de programmakosten ontbreken in uw progra
 
 1. Inclusief - Met deze optie zorgt u ervoor dat het programma beschikbaar is in MPI, ongeacht of u kosten voor een periode hebt opgenomen.
 
-1. [&#x200B; Operationeel &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - deze optie resulteert in het programma niet die in MPI verschijnt.
+1. [ Operationeel ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - deze optie resulteert in het programma niet die in MPI verschijnt.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Aangepaste velden, opportuniteitstype en ABM-filters zijn allemaal kenmerken die
 
 ## Ik wil een gebied van de Kans van aangepaste Salesforce voor opbrengstrapportering in plaats van het standaardgebied van het Bedrag van de Kans van Salesforce gebruiken. Zal MPI mij toestaan dat te doen? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support) kan het gebied van het Bedrag van de Kans van Marketo aan een gebied van de Kans van douaneSalesforce opnieuw in kaart brengen zolang het gebiedstype valuta is. Aangezien MPI naar het veld voor de Marketo Opportunity-hoeveelheid verwijst, kan MPI de gegevens uit het opnieuw toegewezen veld voor aangepaste Salesforce gebruiken.
+Ja. [ de Steun van Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) kan het gebied van het Bedrag van de Kans van Marketo aan een gebied van de Kans van douaneSalesforce opnieuw in kaart brengen zolang het gebiedstype valuta is. Aangezien MPI naar het veld voor de Marketo Opportunity-hoeveelheid verwijst, kan MPI de gegevens uit het opnieuw toegewezen veld voor aangepaste Salesforce gebruiken.
 
 >[!NOTE]
 >
@@ -90,7 +90,7 @@ Ja. [&#x200B; de Steun van Marketo &#x200B;](https://nation.marketo.com/t5/Suppo
 
 ## Als ik geen mogelijkheden gebruik, kan ik dan nog steeds MPI gebruiken? {#if-i-don-t-use-opportunities-can-i-still-use-mpi}
 
-MPI is ontworpen om u in staat te stellen de programmaprestaties te meten van de bovenkant van de trechter tot de impact op de inkomsten. Als u geen kansen gebruikt, zult u nog kunnen:
+MPI is ontworpen om u in staat te stellen de prestaties van het programma vanaf de bovenkant van de funnel tot de impact op de inkomsten te meten. Als u geen kansen gebruikt, zult u nog kunnen:
 
 * Bekijk de prestaties van uw programma&#39;s voor de verpleging voor de betrokkenheid van het publiek.
 * Geef de prestaties van uw programma&#39;s voor het aanschaffen van leads weer.
@@ -100,11 +100,11 @@ MPI is ontworpen om u in staat te stellen de programmaprestaties te meten van de
 
 ## Kan ik het succes van op rekening-gebaseerde strategieën in MPI meten? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI integreert met [&#x200B; Marketo TAM &#x200B;](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) om ABM- rekeningslijsten in MPI foutloos te trekken. U kunt het ABM filter van de Lijst van de Rekening gebruiken om de gewenste ABM lijst te kiezen om gegevens door te filtreren.
+Ja. MPI integreert met [ Marketo TAM ](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) om ABM- rekeningslijsten in MPI foutloos te trekken. U kunt het ABM filter van de Lijst van de Rekening gebruiken om de gewenste ABM lijst te kiezen om gegevens door te filtreren.
 
 ## Is de toewijzing onmiddellijk beschikbaar wanneer ik MPI aanschaf? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-De Marketo Attribution-mogelijkheden zijn beschikbaar voor onze klanten wanneer ze MPI aanschaffen. Nochtans, [&#x200B; juiste opstelling &#x200B;](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) wordt vereist om ervoor te zorgen dat de kansen en de programmagegevens correct in MPI stromen.
+De Marketo Attribution-mogelijkheden zijn beschikbaar voor onze klanten wanneer ze MPI aanschaffen. Nochtans, [ juiste opstelling ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) wordt vereist om ervoor te zorgen dat de kansen en de programmagegevens correct in MPI stromen.
 
 ## Wat moet ik doen om attributie in te stellen? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ De Marketo Attribution-mogelijkheden zijn beschikbaar voor onze klanten wanneer 
 
 >[!TIP]
 >
->Alle vereiste opstellingsstappen zijn gedetailleerd in [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>Alle vereiste opstellingsstappen zijn gedetailleerd in [ dit artikel ](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Wat is het verschil tussen MPI en de Analysator van het Programma? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720236
-description: Een segment maken met een accountlijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u een segment maakt met een accountlijst in Marketo Engage door een segment te maken met een accountlijst. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een segment maken met een accountlijst
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Nieuwe Lijst van de Rekening &#x200B;](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+>[ creeer een Nieuwe Lijst van de Rekening ](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 1. Ga naar **[!UICONTROL Segments]** .
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klik op **[!UICONTROL Create New]**.
+1. Klik op **[!UICONTROL Create New]** .
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -43,4 +43,4 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Gefeliciteerd! U hebt nu een segment ingesteld dat zich richt op een accountlijst.
+Gefeliciteerd. U hebt nu een segment ingesteld dat zich richt op een accountlijst.

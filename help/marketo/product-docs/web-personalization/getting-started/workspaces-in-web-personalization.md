@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727499
-description: Werkruimten in Web Personalization - Marketo Docs - Productdocumentatie
+description: Leer meer over werkruimten in webpersonalisatie in Marketo Engage, inclusief werkruimten in webpersonalisatie. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Werkruimten in Web Personalization
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 >[!NOTE]
 >
->Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hier is hoe te [&#x200B; een gebruikerstoegang tot één of meerdere werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md) geven.
+>Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hier is hoe te [ een gebruikerstoegang tot één of meerdere werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md) geven.

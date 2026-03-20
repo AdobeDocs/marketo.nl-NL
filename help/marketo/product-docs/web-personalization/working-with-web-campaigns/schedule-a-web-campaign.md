@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097100
-description: Een webcampagne plannen - Marketo Docs - Productdocumentatie
+description: Meer informatie over het plannen van een webcampagne in Marketo Engage, zoals een webcampagne plannen. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een webcampagne plannen
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Open het menu Campagnestatus en selecteer **[!UICONTROL Schedule]** .
 
@@ -55,7 +55,7 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klik op **[!UICONTROL Schedule]**.
+1. Klik op **[!UICONTROL Schedule]** .
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 

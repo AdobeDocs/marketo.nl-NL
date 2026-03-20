@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504725
-description: Opslaan van een rapport van de Ontdekkingsreiziger van de Inkomsten - de Documenten van Marketo - de Documentatie van het Product
+description: Leer over het bewaren van een rapport van de opbrengstontdekkingsreiziger in Marketo Engage, met inbegrip van het bewaren van een rapport van de opbrengstontdekkingsreiziger. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Abonneren aan a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[ Abonneren aan a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504051
-description: Persoonlijke gegevens beheren - Marketo-documenten - Productdocumentatie
+description: Leer meer over het beheren van persoongegevens in Marketo Engage, inclusief het beheren van persoonlijke gegevens en persoonlijke gegevens. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Persoonlijke gegevens beheren
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 5%
+source-wordcount: '206'
+ht-degree: 4%
 
 ---
 
@@ -35,7 +35,7 @@ Gebruik Persongegevens voor [!DNL Web Personalization] door persoonvelden te sel
 
 ## Een persoonlijk veld verwijderen {#deleting-a-person-field}
 
-1. Klik het schrappingspictogram ( ![&#x200B; - &#x200B;](assets/image2015-3-24-13-3a45-3a56.png)) om een gebied uit de lijst te verwijderen. Klik op **[!UICONTROL Yes]** om te bevestigen dat u het veld wilt verwijderen.
+1. Klik het schrappingspictogram ( ![ - ](assets/image2015-3-24-13-3a45-3a56.png)) om een gebied uit de lijst te verwijderen. Klik op **[!UICONTROL Yes]** om te bevestigen dat u het veld wilt verwijderen.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -103,4 +103,4 @@ De volgende voorbeeldvelden worden in het vak weergegeven voor nieuwe [!DNL Web 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Segment Gebruikend Bekende Gegevens van de Persoon &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[ creeer een Segment Gebruikend Bekende Gegevens van de Persoon ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

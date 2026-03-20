@@ -1,11 +1,11 @@
 ---
-description: Samengevoegde/verwijderde records in een e-mailrapport filteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u samengevoegde/verwijderde records in een e-mailrapport in Marketo Engage filtert met filter Verwijderde samengevoegde records in. Neem de volgende stap met vertrouwen.
 title: Samengevoegde/verwijderde records in een e-mailrapport filteren
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---

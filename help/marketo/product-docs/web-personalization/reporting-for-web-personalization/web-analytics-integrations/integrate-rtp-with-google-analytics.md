@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949158
-description: Integratie van RTP met Google Analytics - Marketo Docs - Productdocumentatie
+description: Leer hoe u rtp in Google Analytics integreert in Marketo Engage door rtp te integreren met google Analytics. Gebruik deze handleiding om de volgende stap te voltooien.
 title: RTP integreren met Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Dit artikel laat zien hoe u de oude Google Standard Analytics kunt gebruiken, maar we raden u aan over te schakelen op Universal Analytics.
 >
->Als u nog niet [&#x200B; analytics.js het volgen code &#x200B;](https://developers.google.com/analytics/devguides/collection/analyticsjs/) gebruikt, adviseert Google sterk u een detailhandel van uw plaats om het te gebruiken. Google vervalt het volgende:
+>Als u nog niet [ analytics.js het volgen code ](https://developers.google.com/analytics/devguides/collection/analyticsjs/) gebruikt, adviseert Google sterk u een detailhandel van uw plaats om het te gebruiken. Google vervalt het volgende:
 >
 >* ga.js
 >* urchin.js
@@ -28,7 +28,7 @@ ht-degree: 0%
 >* Aangepaste variabelen
 >* Door de gebruiker gedefinieerde variabelen
 >
->Zie hoe te om [&#x200B; Personalization van het Web met Universele Analytics &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md) te integreren
+>Zie hoe te om [ Personalization van het Web met Universele Analytics ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md) te integreren
 
 ## Inleiding {#introduction}
 
@@ -64,7 +64,7 @@ Meet uw campagnes RTP en correleer hen met uw algemeen plaatsgemiddelde. Leer ho
 
 ## RTP instellen met Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Voeg het e-mailbericht <rtp.ga2@gmail.com> toe als gebruiker voor lezen en analyseren naar uw GA-account. Voor meer details, zie [&#x200B; hier &#x200B;](https://support.google.com/analytics/answer/2884495?hl=en).
+1. Voeg het e-mailbericht <rtp.ga2@gmail.com> toe als gebruiker voor lezen en analyseren naar uw GA-account. Voor meer details, zie [ hier ](https://support.google.com/analytics/answer/2884495?hl=en).
 
 1. In uw RTP-account. Ga naar **[!UICONTROL Account Settings]** .
 
@@ -80,16 +80,16 @@ Meet uw campagnes RTP en correleer hen met uw algemeen plaatsgemiddelde. Leer ho
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
 >[!NOTE]
 >
->Om segmentgegevens naar GA te verzenden, selecteert u onder de [[!UICONTROL Edit Segment] pagina &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) in het RTP-platform het selectievakje **[!UICONTROL Send Event to Google Analytics on Segment Match]** .
+>Om segmentgegevens naar GA te verzenden, selecteert u onder de [[!UICONTROL Edit Segment] pagina ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) in het RTP-platform het selectievakje **[!UICONTROL Send Event to Google Analytics on Segment Match]** .
 
 ## Google Analytics-rapporten instellen met RTP-gegevens {#setting-up-google-analytics-reports-with-rtp-data}
 
 In Google Analytics kunt u dashboards, de segmentatie van GA, en het melden gebruiken om uw gegevens RTP te bekijken:
 
-* [&#x200B; dashboards &#x200B;](https://support.google.com/analytics/answer/1068216?hl=en) verstrekken een overzicht van de websiteprestaties.
-* Een GA-segment is bedoeld om bezoekers in de GA-interface te filteren en het verkeer per segment weer te geven. Zie hoe te om een segment [&#x200B; hier &#x200B;](https://support.google.com/analytics/answer/3124493?hl=en) te bouwen.
-* Creërend [&#x200B; aangepaste rapporten &#x200B;](https://support.google.com/analytics/answer/1033013?hl=en) aan mening en/of opstelling geplande e-mails. Zie onder **[!UICONTROL Customization]** > **[!UICONTROL New Custom Report]** .
+* [ dashboards ](https://support.google.com/analytics/answer/1068216?hl=en) verstrekken een overzicht van de websiteprestaties.
+* Een GA-segment is bedoeld om bezoekers in de GA-interface te filteren en het verkeer per segment weer te geven. Zie hoe te om een segment [ hier ](https://support.google.com/analytics/answer/3124493?hl=en) te bouwen.
+* Creërend [ aangepaste rapporten ](https://support.google.com/analytics/answer/1033013?hl=en) aan mening en/of opstelling geplande e-mails. Zie onder **[!UICONTROL Customization]** > **[!UICONTROL New Custom Report]** .

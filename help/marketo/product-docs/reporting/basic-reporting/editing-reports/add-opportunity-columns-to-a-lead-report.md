@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360018
-description: Opportunity-kolommen toevoegen aan een lead-rapport - Marketo Docs - Productdocumentatie
+description: Leer hoe te om opportuniteitskolommen toe te voegen om rapporten te leiden om opportuniteitsstatistieken en metriek te bekijken. De opportuniteitsgegevens van de vertoning, met inbegrip van bedragen, omzettingen, en de informatie van de verkoopcyclus.
 title: Opportunity-kolommen toevoegen aan een lead-rapport
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
    >
    >Schuif naar rechts om meer kolommen weer te geven.
 
-1. Om [&#x200B; toe te voegen of kolommen te verwijderen uit het rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), om het even welke kolomrubriek te klikken en **[!UICONTROL Columns]** te selecteren.
+1. Om [ toe te voegen of kolommen te verwijderen uit het rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), om het even welke kolomrubriek te klikken en **[!UICONTROL Columns]** te selecteren.
 
    ![](assets/six.png)
 
@@ -68,4 +68,4 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
 
    >[!MORELIKETHIS]
    >
-   >Leer hoe te [&#x200B; de grootte van uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) beheren.
+   >Leer hoe te [ de grootte van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) beheren.

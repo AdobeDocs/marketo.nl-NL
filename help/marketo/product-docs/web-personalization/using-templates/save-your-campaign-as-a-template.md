@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949170
-description: Uw campagne opslaan als een sjabloon - Marketo Docs - Productdocumentatie
+description: Meer informatie over het opslaan van uw campagne als een sjabloon in Marketo Engage, waaronder het opslaan van uw campagne als een sjabloon. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Uw campagne opslaan als een sjabloon
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

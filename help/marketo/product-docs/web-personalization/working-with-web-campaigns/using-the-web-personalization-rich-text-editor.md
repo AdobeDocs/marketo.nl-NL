@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719179
-description: Personalization Rich Text Editor (Marketo Docs - Productdocumentatie) gebruiken
+description: Leer hoe u in Marketo Engage de teksteditor met veel webverpersoonlijking kunt gebruiken met de dnl-webverpersoonlijking. Neem de volgende stap met vertrouwen.
 title: De Web Personalization Rich Text Editor gebruiken
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -51,8 +51,8 @@ De belangrijke pictogrammen in de rijke tekstredacteur omvatten:
 
 >[!NOTE]
 >
->De Tokens van het Web gebruiken [&#x200B; mensen gegevens &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) van uw [!DNL Marketo Database] die binnen [!DNL Web Personalization] onder [!UICONTROL Account Settings] > [!UICONTROL Database] wordt geleid. Als het webtoken een nieuw databaseveld is dat zich nog niet in [!UICONTROL Account Settings] > [!UICONTROL Database] bevindt, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
+>De Tokens van het Web gebruiken [ mensen gegevens ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) van uw [!DNL Marketo Database] die binnen [!DNL Web Personalization] onder [!UICONTROL Account Settings] > [!UICONTROL Database] wordt geleid. Als het webtoken een nieuw databaseveld is dat zich nog niet in [!UICONTROL Account Settings] > [!UICONTROL Database] bevindt, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Gebruikend de Rijke Redacteur van de Tekst &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+>[ Gebruikend de Rijke Redacteur van de Tekst ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)

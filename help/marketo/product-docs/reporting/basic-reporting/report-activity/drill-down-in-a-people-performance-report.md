@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360035
-description: Een demontage in een People Performance Report - Marketo Docs - Productdocumentatie
+description: Leer hoe te neer in de rapporten van de Prestaties van Mensen te boren om extra persooninformatie te zien door een rij te selecteren en een attribuut te kiezen. Onderzoek gedetailleerde loodgegevens in een nieuw rapportlusje.
 title: Omlaag boven in een rapport over de prestaties van het volk
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

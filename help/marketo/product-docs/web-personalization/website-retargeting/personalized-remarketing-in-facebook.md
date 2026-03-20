@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720917
-description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocumentatie
+description: Meer informatie over gepersonaliseerde remarketing in facebook in Marketo Engage, waaronder persoonlijke remarketing in dnl. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Persoonlijke opmerkingen op Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 2%
+source-wordcount: '268'
+ht-degree: 3%
 
 ---
 
@@ -17,18 +17,18 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 >[!PREREQUISITES]
 >
->* Voltooi [&#x200B; opnieuw het richten met de Gegevens van Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
->* Herzie de [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [&#x200B; documentatie van Facebook over het publiek van de Douane &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
+>* Voltooi [ opnieuw het richten met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
+>* Herzie de [ ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [ documentatie van Facebook over het publiek van de Douane ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en het Opmerken.
 
 ## Een publiek maken in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. In [!DNL Facebook], ga naar uw [&#x200B; lusje van het Publiek &#x200B;](https://www.facebook.com/ads/audience_manager) in de Manager van Advertenties.
+1. In [!DNL Facebook], ga naar uw [ lusje van het Publiek ](https://www.facebook.com/ads/audience_manager) in de Manager van Advertenties.
 
 1. Klik op **[!UICONTROL Tools]** en selecteer **[!UICONTROL Audiences]** .
 
 ![](assets/one-1.png)
 
-1. Klik op **[!UICONTROL Create a Custom Audience]**.
+1. Klik op **[!UICONTROL Create a Custom Audience]** .
 
 ![](assets/two-1.png)
 
@@ -48,7 +48,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. In dit voorbeeld selecteert u [!UICONTROL Industry] om **[!UICONTROL Education]** te bevatten. Voer **[!UICONTROL Education]** in en bewerk **[!UICONTROL In the Last]** om 180 dagen te duren. Ga de Naam van het publiek in: **Onderwijsindustrie**. Klik op **[!UICONTROL Create Audience]**.
+1. In dit voorbeeld selecteert u [!UICONTROL Industry] om **[!UICONTROL Education]** te bevatten. Voer **[!UICONTROL Education]** in en bewerk **[!UICONTROL In the Last]** om 180 dagen te duren. Ga de Naam van het publiek in: **Onderwijsindustrie**. Klik op **[!UICONTROL Create Audience]** .
 
 ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -129,5 +129,5 @@ Voor extra details, zie {de documentatie van 0} Facebook [.](https://developers.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; het opnieuw samenkomen met de Gegevens van Personalization van het Web &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [&#x200B; Gepersonaliseerde Markering in Google &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+>* [ het opnieuw samenkomen met de Gegevens van Personalization van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [ Gepersonaliseerde Markering in Google ](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

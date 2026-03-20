@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720151
-description: Implementatie van RTP op Marketo-landingspagina's - Marketo Docs - Productdocumentatie
+description: Meer informatie over het implementeren van rtp op de markt om pagina's te landen in Marketo Engage, waaronder het implementeren van rtp op de markt. Gebruik deze handleiding om de volgende stap te voltooien.
 title: RTP implementeren op Marketo-landingspagina's
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Volg onderstaande installatie-instructies om uw [!UICONTROL RTP tag] te implemen
 
    ![](assets/image2015-4-26-18-3a28-3a30.png)
 
-1. Tot slot zult u **&#x200B;**&#x200B;om het even welke het landen pagina&#39;s opnieuw moeten goedkeuren gebruikend dat malplaatje voor de malplaatjeveranderingen om van kracht te worden. U kunt ze allemaal tegelijk opnieuw goedkeuren vanuit de hoofdsectie van [!UICONTROL Landing Pages] .
+1. Tot slot zult u **** om het even welke het landen pagina&#39;s opnieuw moeten goedkeuren gebruikend dat malplaatje voor de malplaatjeveranderingen om van kracht te worden. U kunt ze allemaal tegelijk opnieuw goedkeuren vanuit de hoofdsectie van [!UICONTROL Landing Pages] .
 
    ![](assets/image2015-4-26-18-3a28-3a49.png)
 

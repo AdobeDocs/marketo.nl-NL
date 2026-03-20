@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099415
-description: E-mailinzichten, snel overzicht - Marketo Docs - Productdocumentatie
+description: Leer hoe u Snelle grafieken maakt en opslaat als miniaturen voor veelgebruikte diagramweergaven in e-mailinzichten. Sla maximaal 20 aangepaste diagrammen op en open deze snel via het pictogram Snel grafieken.
 title: E-mailinzichten, snelle grafieken
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ Wilt u een van uw snelle grafieken verwijderen? Het is gemakkelijk!
 
    ![](assets/ten.png)
 
-1. Klik op **[!UICONTROL Ok]**.
+1. Klik op **[!UICONTROL Ok]** .
 
    ![](assets/eleven.png)
 

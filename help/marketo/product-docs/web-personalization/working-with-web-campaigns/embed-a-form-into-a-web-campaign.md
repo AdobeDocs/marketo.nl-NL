@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095554
-description: Een formulier insluiten in een webcampagne - Marketo Docs - Productdocumentatie
+description: Meer informatie over het insluiten van een formulier in een webcampagne in Marketo Engage, waaronder het insluiten van een formulier in een webcampagne. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een formulier insluiten in een webcampagne
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Klik op **[!UICONTROL Create New Campaign]**.
+1. Klik op **[!UICONTROL Create New Campaign]** .
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,7 +35,7 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/five-1.png)
 
-1. Plak de insluitcode van het formulier in de [!UICONTROL HTML Source Editor] . Klik op **[!UICONTROL Update]**.
+1. Plak de insluitcode van het formulier in de [!UICONTROL HTML Source Editor] . Klik op **[!UICONTROL Update]** .
 
    ![](assets/six-1.png)
 
@@ -55,11 +55,11 @@ Als u een achtergrondafbeelding aan het formulier wilt toevoegen, kunt u:
 * Dialoogvenster- of widgetkleuren wijzigen in Campagne instellen
 * CSS-code toevoegen aan het script
 
-Om CSS van een Thema van de Vorm uit te geven, zie [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Om CSS van een Thema van de Vorm uit te geven, zie [ dit artikel ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 U wijzigt als volgt de kleur van het dialoogvenster of de widget in de campagne Set:
 
-1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klik op **[!UICONTROL Save]**.
+1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -73,7 +73,7 @@ CSS-code toevoegen aan het script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de [!UICONTROL HTML Source Editor] . Klik op **[!UICONTROL Update]**.
+1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de [!UICONTROL HTML Source Editor] . Klik op **[!UICONTROL Update]** .
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
@@ -83,6 +83,6 @@ CSS-code toevoegen aan het script:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; geef CSS van een Thema van de Vorm uit &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [&#x200B; toon Dank u Bericht zonder een follow-up het landen Pagina &#x200B;](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [&#x200B; Forms 2.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [ geef CSS van een Thema van de Vorm uit ](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [ toon Dank u Bericht zonder een follow-up het landen Pagina ](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [ Forms 2.0 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

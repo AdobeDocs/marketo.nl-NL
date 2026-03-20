@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: Inzicht in inkomstenmodellen - Marketo-documenten - productdocumentatie
+description: Leer meer over het begrijpen van inkomstenmodellen in Marketo Engage, inclusief het begrijpen van inkomstenmodellen. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Indelingsmodellen
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 0%
 
 ---
 
 # Indelingsmodellen {#understanding-revenue-models}
 
-De modellen van de opbrengstcyclus nemen marketing op het volgende niveau. Zij modelleren alle stadia van uw volledige opbrengsttrechter-van wanneer u eerst met een lood in wisselwerking staat al manier tot de lood een gewonnen klant is.
+De modellen van de opbrengstcyclus nemen marketing op het volgende niveau. Zij modelleren alle stadia van uw volledige opbrengst funnel-van wanneer u eerst met een lood in werking stelt al manier tot de lood een gewonnen klant is.
 
 ## Mental Model (hoe hierover na te denken) {#mental-model-how-to-think-about-this-thing}
 
@@ -37,7 +37,7 @@ Door gebrek, begint een nieuw model u met zes opbrengststadia. Dit model is op z
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd het **Weg van het Succes**. Begrijp meer over de succesweg [&#x200B; hier &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd het **Weg van het Succes**. Begrijp meer over de succesweg [ hier ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **de Staven** zijn de mijlpalen op een leidingenvooruitgang in de richting van hun doelstellingen.
 
@@ -95,14 +95,14 @@ Verloren is een goede om toe te voegen, maar u ziet dat het niet op het groene p
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [&#x200B; Gebruikend de Staven van de Inventaris van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [&#x200B; Gebruikend de Staven van de Staven van de Soort van de Opbrengst Model &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [ Gebruikend de Staven van de Staven van de Soort van de Opbrengst Model ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [&#x200B; Gebruikend de Stages van SLA van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [ Gebruikend de Stages van SLA van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
->* [&#x200B; Rapport over Uw Model van Inkomsten &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>* [ Rapport over Uw Model van Inkomsten ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
->* [&#x200B; keur/keurt een Model van de Opbrengst goed &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>* [ keur/keurt een Model van de Opbrengst goed ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

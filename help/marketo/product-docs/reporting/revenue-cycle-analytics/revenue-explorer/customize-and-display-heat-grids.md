@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514224
-description: Heatrasters aanpassen en weergeven - Marketo-documenten - Productdocumentatie
+description: In deze video ziet u hoe u warmterasters in Marketo Engage kunt aanpassen en weergeven, inclusief het aanpassen en weergeven van warmterasters. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Heatrasters aanpassen en weergeven
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---

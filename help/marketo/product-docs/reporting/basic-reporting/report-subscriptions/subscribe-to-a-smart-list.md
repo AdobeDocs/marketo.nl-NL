@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7505310
-description: Abonneren op een slimme lijst - Marketo Docs - Productdocumentatie
+description: Leer hoe u zich abonneert op slimme lijsten om rapporten te ontvangen die rechtstreeks naar uw Postvak IN worden verzonden. Abonnementen maken van marketingactiviteiten of database met aanpasbare frequentie en indeling.
 title: Abonneren op een slimme lijst
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Abonnementen zijn specifiek voor de werkruimte. Deze lijst met abonnementen bevi
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
@@ -80,7 +80,7 @@ Ontvangers ontvangen een e-mail met de mogelijkheid om het rapport te downloaden
 
 >[!NOTE]
 >
->Als het [&#x200B; Veilige plaatsen van de Abonnement Admin &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) aan **[!UICONTROL Yes]** wordt geplaatst, slechts zullen de mensen met toegang tot de instantie van Marketo het rapport kunnen downloaden.
+>Als het [ Veilige plaatsen van de Abonnement Admin ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) aan **[!UICONTROL Yes]** wordt geplaatst, slechts zullen de mensen met toegang tot de instantie van Marketo het rapport kunnen downloaden.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -102,5 +102,5 @@ Als u een abonnement wilt verwijderen, selecteert u het op het tabblad Abonnemen
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; geef een Slim Abonnement van de Lijst &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md) uit
->* [&#x200B; Beveilig het Plaatsen van Admin van het Abonnement &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
+>* [ geef een Slim Abonnement van de Lijst ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md) uit
+>* [ Beveilig het Plaatsen van Admin van het Abonnement ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

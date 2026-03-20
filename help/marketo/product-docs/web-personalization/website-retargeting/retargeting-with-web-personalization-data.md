@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720796
-description: Opnieuw toewijzen met Personalization-gegevens op het web - Marketo Docs - Productdocumentatie
+description: Leer meer over het opnieuw gebruiken van webpersonalisatiegegevens in Marketo Engage, inclusief het opnieuw gebruiken van dnl-internet. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Opnieuw toewijzen met Personalization-gegevens op het web
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '395'
 ht-degree: 1%
 
 ---
@@ -72,11 +72,11 @@ Web Personalization voegt momenteel gegevens toe aan de volgende remarketing pla
 
    ![](assets/two.png)
 
-1. Activeer de configuratie voor Facebook. Klik op de accordeon [!DNL Facebook] en vouw deze uit. Klik op **[!UICONTROL On]** om de desbetreffende gebeurtenis en gegevens naar Facebook Audience Manager te verzenden. Klik op **[!UICONTROL Save]**.
+1. Activeer de configuratie voor Facebook. Klik op de accordeon [!DNL Facebook] en vouw deze uit. Klik op **[!UICONTROL On]** om de desbetreffende gebeurtenis en gegevens naar Facebook Audience Manager te verzenden. Klik op **[!UICONTROL Save]** .
 
    >[!NOTE]
    >
-   >U moet [[!DNL Facebook]  het Pixel van het Publiek van de Douane hebben &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) uw website voor deze eigenschap geïnstalleerd om te werken.
+   >U moet [[!DNL Facebook]  het Pixel van het Publiek van de Douane hebben ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) uw website voor deze eigenschap geïnstalleerd om te werken.
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een pub
 >
 >Er is geen behoefte om een Gesegmenteerd Publiek voor de industrie of andere gegevens tot stand te brengen die reeds door in de Configuratie van het Domein zijn verzonden. Het is best om Gesegmenteerde Publiek voor segmenten te gebruiken die op bekende persoongegevens worden gebaseerd.
 
-1. Klik op **[!UICONTROL Create Segmented Audience]**.
+1. Klik op **[!UICONTROL Create Segmented Audience]** .
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een pub
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    U hebt nu de instelling Opnieuw voorbereiden in [!DNL Web Personalization] voltooid, zich aan te melden bij heroriënterende platforms en op basis van deze gegevens een publiek te maken en uw opnieuw gerichte advertentiecampagnes in te stellen.

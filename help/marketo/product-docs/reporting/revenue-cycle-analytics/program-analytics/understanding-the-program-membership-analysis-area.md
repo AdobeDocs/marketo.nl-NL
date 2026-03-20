@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718640
-description: Inzicht in het gebied van de Analyse van het Lidmaatschap van het Programma - de Documenten van Marketo - de Documentatie van het Product
+description: Leer meer over het begrip van het analysegebied van het programmalidmaatschap in Marketo Engage, met inbegrip van het begrip van het programma. Neem de volgende stap met vertrouwen.
 title: Inzicht in het analysegebied van het lidmaatschap van het programma
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 1%
+source-wordcount: '246'
+ht-degree: 2%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718672
-description: Met behulp van inkomstenmodelovergangen - Marketo-documenten - productdocumentatie
+description: Leer hoe u overgangen naar inkomstenmodellen in Marketo Engage kunt gebruiken met gebruik van overgangen naar inkomstenmodellen. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Overgangen met inkomstenmodellen gebruiken
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 Wanneer u uw model creeert en uw inventarisstadia selecteert en organiseert, is het tijd om de overgangen te plaatsen.
 
@@ -65,4 +65,4 @@ Goed gedaan! U hebt met succes uw modelovergangen gewijzigd.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; keur/keurt een Model van de Opbrengst goed &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>[ keur/keurt een Model van de Opbrengst goed ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)

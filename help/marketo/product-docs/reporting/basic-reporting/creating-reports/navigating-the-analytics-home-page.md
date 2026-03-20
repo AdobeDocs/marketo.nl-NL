@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7513141
-description: Navigeren op de startpagina Analytics - Marketo Docs - Productdocumentatie
+description: Leer hoe te om de homepage van Analytics tot verschillende rapporttypes te navigeren en aan de huismening terug te keren. Selecteer rapporttypen en beheer uw rapportwerkruimte.
 title: Navigeren door de startpagina van Analytics
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. Selecteer het type van a [&#x200B; rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selecteer het type van a [ rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-27-8-3a38-3a22.png)
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijpend Mijn Rapporten en de Rapporten van de Groep &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)
+>[ Begrijpend Mijn Rapporten en de Rapporten van de Groep ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/understanding-my-reports-and-group-reports.md)

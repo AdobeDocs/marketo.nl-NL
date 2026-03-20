@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718666
-description: Opbrengstmodelinventarisatiestadia gebruiken - Marketo-documenten - productdocumentatie
+description: Leer hoe u voorraadfasen van het inkomstenmodel in Marketo Engage kunt gebruiken met behulp van voorraadfasen van het inkomstenmodel. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Opbrengstmodelinventarisatiestadia gebruiken
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '255'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,11 @@ Alle bekende leads en accounts bevinden zich aanvankelijk in de voorraadfase. De
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In de **[!UICONTROL Analytics]** sectie, selecteer uw bestaand model, of [&#x200B; creeer nieuwe &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. In de **[!UICONTROL Analytics]** sectie, selecteer uw bestaand model, of [ creeer nieuwe ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Klik op **[!UICONTROL Edit Draft]**.
+1. Klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -67,7 +67,7 @@ Als u een inventarisatiepictogram selecteert, kunt u de **[!UICONTROL Name]** be
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klik op **[!UICONTROL Delete]**.
+1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klik op **[!UICONTROL Delete]** .
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

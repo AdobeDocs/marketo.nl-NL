@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979006
-description: Overzicht van prestatie-inzichten - Marketo Docs - Productdocumentatie
+description: Leer over de Inzichten van Prestaties die helpen kanaalmengeling optimaliseren en langetermijntendensen voor verenigbare het winnen strategieën ontdekken. Analyseer de bijdrage, trends en exporteer gegevens naar PowerPoint of Excel.
 title: Overzicht van prestatiegegevens
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Als u [!UICONTROL Performance Insights] wilt openen, klikt u op het bijbehorende
 
 ## Bijdrage {#contribution}
 
-Evalueer de 0&rbrace; bijdrage van de Marketing aan opbrengst [&#x200B; als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
+Evalueer de 0} bijdrage van de Marketing aan opbrengst [ als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md)
 
 ![](assets/two.png)
 
@@ -37,7 +37,7 @@ Standaard weerspiegelen de weergegeven gegevens de prestaties van [!UICONTROL En
 
 ## Trend {#trend}
 
-Ontdek [&#x200B; langetermijntendensen &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) aan vlek verenigbare het winnen strategieën.
+Ontdek [ langetermijntendensen ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) aan vlek verenigbare het winnen strategieën.
 
 ![](assets/4.png)
 
@@ -49,7 +49,7 @@ Klik in de [!UICONTROL Revenue] - en [!UICONTROL Pipeline] -dashboards op het pi
 
 ## Gegevens exporteren {#export-data}
 
-U kunt de gegevens en grafieken in [!DNL PowerPoint] of [!DNL Excel] exporteren. U kunt hen ook opslaan als a [&#x200B; Snelle Grafiek &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+U kunt de gegevens en grafieken in [!DNL PowerPoint] of [!DNL Excel] exporteren. U kunt hen ook opslaan als a [ Snelle Grafiek ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 

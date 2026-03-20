@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360437
-description: Programma- en kanaalgegevens verkennen met Program Analyzer - Marketo Docs - Productdocumentatie
+description: Meer informatie over programma- en kanaalgegevens vindt u in de programma-analyse in Marketo Engage, inclusief het verkennen van programma's. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Programma- en kanaalgegevens verkennen met de Program Analyzer
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ U kunt gedetailleerde programma- en kanaalstatussen zien in de [!UICONTROL Progr
 
 >[!PREREQUISITES]
 >
->[&#x200B; Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[ Maak een [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
 >Deze functionaliteit is niet in alle Marketo-edities opgenomen. Neem contact op met uw accountmanager voor meer informatie.
 
-1. Klik op **[!UICONTROL Analytics]**.
+1. Klik op **[!UICONTROL Analytics]** .
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -37,7 +37,7 @@ U kunt gedetailleerde programma- en kanaalstatussen zien in de [!UICONTROL Progr
 
    >[!NOTE]
    >
-   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [&#x200B; verschil tussen FT en MT attributie &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
+   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [ verschil tussen FT en MT attributie ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 1. Als u alle programma&#39;s in één kanaal wilt vergelijken, klikt u op de kanaalnaam in het pop-updialoogvenster.
 

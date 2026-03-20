@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360411
-description: Een geslaagde padanalyse maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een geslaagde padanalyse in Marketo Engage kunt maken met behulp van een succesanalyse. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een padanalyse met succes maken
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 1. Klik op de tegel **[!UICONTROL Analytics]** .
 
@@ -59,4 +59,4 @@ Nu kunt u de beweging van elk stadium naar het volgende verkennen!
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Gebruikend de Analysator van de Weg van het Succes &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+>[ Gebruikend de Analysator van de Weg van het Succes ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360227
-description: Assets filteren in een campagne-e-mailrapport - Marketo Docs - Productdocumentatie
+description: Leer hoe u elementen in een campagne-e-mailrapporten in Marketo Engage filtert met gebruik van filterelementen in een campagne-e-mail. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Assets filteren in een campagne-e-mailrapport
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
 # Assets filteren in een campagne-e-mailrapport {#filter-assets-in-a-campaign-email-reports}
 
-Focus uw [&#x200B; rapport van de Prestaties van e-mail van de Campagne van 0&rbrace; &lbrace;op specifieke &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) slimme campagnes [&#x200B; in uw programma&#39;s (&quot;lokale activa&quot;) of op die die zijn gearchiveerd.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
+Focus uw [ rapport van de Prestaties van e-mail van de Campagne van 0} {op specifieke ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) slimme campagnes [ in uw programma&#39;s (&quot;lokale activa&quot;) of op die die zijn gearchiveerd.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
 
 >[!NOTE]
 >
@@ -48,5 +48,5 @@ Focus uw [&#x200B; rapport van de Prestaties van e-mail van de Campagne van 0&rb
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; Rapport van de Prestaties van e-mail van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >[&#x200B; filter Assets in een E-mailrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[ Rapport van de Prestaties van e-mail van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

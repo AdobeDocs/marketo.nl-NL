@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795534
-description: Performance Insights-dashboards - Marketo Docs - productdocumentatie
+description: Leer over de dashboards van Prestatie van Inzichten met inbegrip van Betrokkenheid, Pijpleiding, en de meningen van de Inkomsten. Meet de betrokkenheid van het publiek, de verwerving van nieuwe namen en de kanaalprestaties met first-touch en multi-touch metriek.
 title: Dashboards met prestatiegegevens
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---

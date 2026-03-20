@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12978938
-description: Een webcampagne archiveren - Marketo Docs - Productdocumentatie
+description: Meer informatie over het archiveren van een webcampagne in Marketo Engage, waaronder het archiveren van een webcampagnearchief. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een webcampagne archiveren
 exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Verwijderen a [!UICONTROL Web Campaign]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[ Verwijderen a [!UICONTROL Web Campaign]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

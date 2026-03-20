@@ -1,12 +1,12 @@
 ---
-description: Metriek en afmetingen - Marketo Docs - Productdocumentatie
+description: Meer informatie over de beschikbare maatstaven en dimensies voor de Advanced BI Analytics-rapporten, zoals e-mail, lead, programma en opportuniteitsanalyse. Bouw douanerapporten gebruikend deze gegevenselementen.
 title: Metriek en afmetingen
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 3%
+source-wordcount: '1058'
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ Hieronder vindt u alle metriek en dimensies die beschikbaar zijn voor het analys
  <tbody>
     <tr>
       <th>Analyserapport</th>
-      <th colspan="3" scope="colgroup">Afmetingen</th>
+      <th colspan="3" scope="colgroup">Dimensies</th>
       <th>Maatregelen (M)</th>
     </tr>
     <tr>
@@ -279,7 +279,7 @@ Hieronder vindt u alle metriek en dimensies die beschikbaar zijn voor het analys
 
 ## Gedetailleerde afmetingen en maatstaven voor het bovengenoemde analyserapport {#detailed-dimensions-and-metrics}
 
-### Afmetingen {#dimensions}
+### Dimensies {#dimensions}
 
 <table>
   <tbody>

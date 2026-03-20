@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472328
-description: Een rapport vernieuwen - Marketo Docs - Productdocumentatie
+description: Leer hoe te om rapporten manueel te verfrissen om de recentste gegevens te krijgen, alhoewel rapporten auto-verfrist om de 24 uur. Gebruik de knop Vernieuwen of het menu Handelingen rapporteren om de resultaten bij te werken.
 title: Een rapport vernieuwen
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---

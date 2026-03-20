@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514009
-description: Inzicht in het analysegebied van de inkomstenfase van het programma - Marketo Docs - Productdocumentatie
+description: Leer meer over het inzicht in het gebied van de analyse van de programmainkomstenfase in Marketo Engage, inclusief het begrijpen van het concept. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Werken met het analysegebied van de programmainkomstenfase
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -153,4 +153,4 @@ Als u de beschikbare afmetingen of maatregelen in een categorie wilt weergeven, 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[ creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

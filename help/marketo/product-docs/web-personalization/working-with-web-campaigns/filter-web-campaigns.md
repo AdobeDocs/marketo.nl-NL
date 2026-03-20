@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098884
-description: Webcampagnes filteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u webcampagnes in Marketo Engage filtert met filter- en webcampagnes. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Webcampagnes filteren
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Nadat u honderden [!DNL Web Personalization] campagnes hebt gecreeerd, helpt het
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Schakel het selectievakje in voor de status en/of het type campagne waarvoor u wilt filteren, bijvoorbeeld **[!UICONTROL Paused]** of **[!UICONTROL Dialog]** . Klik op **[!UICONTROL Apply]**.
+1. Schakel het selectievakje in voor de status en/of het type campagne waarvoor u wilt filteren, bijvoorbeeld **[!UICONTROL Paused]** of **[!UICONTROL Dialog]** . Klik op **[!UICONTROL Apply]** .
 
    ![](assets/web-campaigns-filters-hands.jpg)
 

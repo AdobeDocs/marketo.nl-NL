@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360341
-description: Aangepaste velden synchroniseren met de Revenue Explorer - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste velden kunt synchroniseren met de opbrengstverkenner in Marketo Engage door aangepaste velden te synchroniseren met de inkomsten. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Aangepaste velden synchroniseren met de Indelingsverkenner
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

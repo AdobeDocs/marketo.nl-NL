@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504238
-description: Aangepaste RTP-dashboards in Google Universal Analytics - Marketo Docs - Productdocumentatie
+description: Meer informatie over aangepaste rtp-dashboards in Google Universal Analytics in Marketo Engage, inclusief aangepaste rtp-dashboards in. Neem de volgende stap met vertrouwen.
 title: Aangepaste RTP-dashboards in Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[&#x200B; integreer RTP met de Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 In dit artikel wordt uitgelegd hoe u RTP-dashboards kunt instellen in Google Universal Analytics (GUA). De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanedashboards zijn:
 
@@ -218,7 +218,7 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
      <li>Naam: <strong> CRE - Hoogste Geadviseerde Inhoud </strong></li>
      <li>Type: <strong><span class="uicontrol"> Lijst </span></strong><br></li>
      <li><span class="uicontrol"> Vertoning de volgende kolommen </span>: <br><strong> <span class="uicontrol"> Titel van de Pagina </span> | <span class="uicontrol"> Paageviews </span> </strong><br></li>
-     <li>Filters:<br> Filter: <strong> &lbrack;<span class="uicontrol"> toont </span> <span class="uicontrol"> slechts Pagina </span> (<span class="uicontrol"> die </span> bevat): rcmd </strong></li>
+     <li>Filters:<br> Filter: <strong> [<span class="uicontrol"> toont </span> <span class="uicontrol"> slechts Pagina </span> (<span class="uicontrol"> die </span> bevat): rcmd </strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
   </tr>
   <tr>
@@ -248,7 +248,7 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
      <li>Naam: <strong> Impressies door CTA </strong></li>
      <li>Type: <strong><span class="uicontrol"> Lijst </span></strong></li>
      <li><span class="uicontrol"> Vertoning de volgende kolommen </span>: <strong> <span class="uicontrol"> Etiket van de Gebeurtenis </span> | <span class="uicontrol"> Totale Gebeurtenissen </span> | <span class="uicontrol"> Gebruikers </span> </strong></li>
-     <li>Filters:<br><strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassing </span>): RTP-Campagnes </strong><br> <strong> [<span class="uicontrol"> toont slechts </span>] <span class="uicontrol"> Actie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassend </span>): impositie </strong> <strong> 17&rbrace; toont niet <span class="uicontrol"> </span> Etiket van de Gebeurtenis <span class="uicontrol"> (</span> die <span class="uicontrol"> bevatten): #</span></strong></li>
+     <li>Filters:<br><strong> [<span class="uicontrol"> tonen slechts </span>] <span class="uicontrol"> Categorie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassing </span>): RTP-Campagnes </strong><br> <strong> [<span class="uicontrol"> toont slechts </span>] <span class="uicontrol"> Actie van de Gebeurtenis </span> (<span class="uicontrol"> precies aanpassend </span>): impositie </strong> <strong> 17} toont niet <span class="uicontrol"> </span> Etiket van de Gebeurtenis <span class="uicontrol"> (</span> die <span class="uicontrol"> bevatten): #</span></strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
@@ -264,6 +264,6 @@ Creeer een nieuw dashboard genoemd **Dashboard van de Betrokkenheid RTP** en bep
 
 >[!MORELIKETHIS]
 >
->[&#x200B; integreer RTP met de Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
+>[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[&#x200B; de Rapporten van RTP van de Douane in Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
+>[ de Rapporten van RTP van de Douane in Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571890
-description: Aangepaste veldgroepen inschakelen voor modelprestatieanalyse (leadads) - Marketo Docs - productdocumentatie
+description: Leer hoe u aangepaste veldgroepen kunt inschakelen voor de analyse van de modelprestaties (leads) in Marketo Engage met behulp van Aangepast inschakelen. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Aangepaste veldgroepen inschakelen voor analyse van modelprestaties (lead)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Categoriseer standaard- of aangepaste velden in groepen voor rapportage via de veldOrganizer in Marketo. Voor details, zie [&#x200B; de Groepen van het Gebied van de Douane via de Organisator van het Gebied &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md) creëren.
+>Categoriseer standaard- of aangepaste velden in groepen voor rapportage via de veldOrganizer in Marketo. Voor details, zie [ de Groepen van het Gebied van de Douane via de Organisator van het Gebied ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md) creëren.
 
 <table>
  <tbody>
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 Voer de volgende stappen uit om een aangepaste veldgroep voor rapportage in het [!UICONTROL Model Performance Analysis (Leads)] -gebied in te schakelen.
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/one-1.png)
 
-1. Klik op **[!UICONTROL Revenue Cycle Analytics]**.
+1. Klik op **[!UICONTROL Revenue Cycle Analytics]** .
 
    ![](assets/two-1.png)
 
@@ -62,6 +62,6 @@ Voer de volgende stappen uit om een aangepaste veldgroep voor rapportage in het 
    >
    >In dit voorbeeld is een aangepaste veldgroep ingeschakeld voor een standaardveld (Frame). Daarom werd alleen het [!UICONTROL Model Performance Analysis (Leads)] -gebied beïnvloed. Als een aangepaste veldgroep voor een aangepaste persoon of een aangepast bedrijfsveld was ingeschakeld, zou de ingeschakelde groep worden weergegeven in de [!UICONTROL Model Performance Analysis (Leads)] -sectie van het tabblad Overzicht van synchronisatie en zou het aantal aangepaste velden voor de analyse van leads, campagnes en opportuniteit met één toenemen.
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/five-1.png)

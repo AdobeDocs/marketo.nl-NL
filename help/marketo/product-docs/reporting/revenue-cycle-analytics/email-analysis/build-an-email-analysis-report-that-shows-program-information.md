@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360409
-description: Een e-mailanalyserapport maken waarin de programmagegevens worden weergegeven - Marketo Docs - Productdocumentatie
+description: Leer hoe u een e-mailanalyserapport maakt waarin programmagegevens in Marketo Engage worden weergegeven door een e-mail te maken. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een e-mailanalyserapport maken waarin de programmagegevens worden weergegeven
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Zoek de **[!UICONTROL Sent (Week)]** gele stip en klik er met de rechtermuisknop op. Klik op **[!UICONTROL Filter...]**.
+1. Zoek de **[!UICONTROL Sent (Week)]** gele stip en klik er met de rechtermuisknop op. Klik op **[!UICONTROL Filter...]** .
 
    >[!NOTE]
    >

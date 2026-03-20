@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718668
-description: SLA Stage met inkomstenmodel gebruiken - Marketo Docs - Productdocumentatie
+description: Leer hoe te om de stadia van de opbrengstmodel slo in Marketo Engage te gebruiken gebruikend de stadia van het opbrengstmodel slo. Gebruik deze handleiding om de volgende stap te voltooien.
 title: SLA-fasen met inkomstenmodel gebruiken
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ SLA staat voor &quot;service level agreement&quot;. Deze fasen worden gebruikt w
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In de [!UICONTROL Analytics] sectie, selecteer uw bestaand model, of [&#x200B; creeer nieuwe &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. In de [!UICONTROL Analytics] sectie, selecteer uw bestaand model, of [ creeer nieuwe ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klik op **[!UICONTROL Edit Draft]**.
+1. Klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 

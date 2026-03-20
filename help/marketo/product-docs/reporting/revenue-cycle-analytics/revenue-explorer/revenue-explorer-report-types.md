@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504922
-description: De Types van Rapport van Ontdekkingsreiziger van opbrengsten - de Documenten van Marketo - de Documentatie van het Product
+description: Leer over de rapporttypes van opbrengstontdekkingsreiziger in Marketo Engage, met inbegrip van de rapporttypes van opbrengstontdekkingsreiziger. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Rapporttypen inkomstenverkenner
 exl-id: 7c472d6c-9c8f-4387-97a0-690fe7cfd96a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

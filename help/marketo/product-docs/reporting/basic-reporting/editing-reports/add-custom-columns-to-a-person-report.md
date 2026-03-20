@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360201
-description: Aangepaste kolommen toevoegen aan een persoonlijk rapport - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste kolommen aan persoonlijke rapporten toevoegt met slimme lijsten als filters. Verbeter uw rapporten met extra metriek door douanekolommen in het lusje van de Opstelling te slepen.
 title: Aangepaste kolommen toevoegen aan een Persrapport
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # Aangepaste kolommen toevoegen aan een Persrapport {#add-custom-columns-to-a-person-report}
 
-U kunt de metriek in uw persoonrapporten verder filtreren door uw [&#x200B; slimme lijsten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als douanekolommen te gebruiken.
+U kunt de metriek in uw persoonrapporten verder filtreren door uw [ slimme lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als douanekolommen te gebruiken.
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ) gebied.
 
@@ -37,4 +37,4 @@ U kunt de metriek in uw persoonrapporten verder filtreren door uw [&#x200B; slim
 
    >[!MORELIKETHIS]
    >
-   >U kunt ook [&#x200B; de Kolommen van de Opportunity aan een Rapport van het Lood &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md) toevoegen.
+   >U kunt ook [ de Kolommen van de Opportunity aan een Rapport van het Lood ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md) toevoegen.

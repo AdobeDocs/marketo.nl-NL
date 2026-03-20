@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953444
-description: Periode-kosten bepalen - Marketo-documenten - productdocumentatie
+description: Leer hoe u de kosten voor de periode in Marketo Engage definieert aan de hand van de kosten voor de definitie van de periode. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Kosten voor een bepaalde periode
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---

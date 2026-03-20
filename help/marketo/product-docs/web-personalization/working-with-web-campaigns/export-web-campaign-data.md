@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615749
-description: Campagnegegevens voor webpagina's exporteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u webcampagnegegevens in Marketo Engage exporteert met behulp van webcampagnegegevens voor exporteren naar het web en campagnegegevens. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Campagnegegevens exporteren
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---

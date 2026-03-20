@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360389
-description: Maak een programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u een programma zonder tijdskosten beschikbaar kunt maken in de zoeker en analysatoren van inkomsten in Marketo Engage. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit toont omhoog in de Ontdekkingsreiziger van de Cyclus van de Opbrengst en [&#x200B; analysatoren &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit toont omhoog in de Ontdekkingsreiziger van de Cyclus van de Opbrengst en [ analysatoren ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Mooi werk! Elk programma dat gebruikmaakt van het gewijzigde kanaal zal nu worde
 
 >[!MORELIKETHIS]
 >
->[&#x200B; het Gedrag van de Analyse van de Opheffing op het Niveau van het Programma &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[ het Gedrag van de Analyse van de Opheffing op het Niveau van het Programma ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)

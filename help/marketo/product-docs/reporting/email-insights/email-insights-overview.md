@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
+description: Meer informatie over e-mailinzichten die krachtige analyses bieden van historische e-mailgegevens via Analytics en Verzendt secties. Verken levering- en betrokkenheidsmetriek met geavanceerde filteropties.
 title: Overzicht van e-mailinzichten
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ Gebruik [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/email-insi
 
 **Filters**
 
-Gebruikt geavanceerde [&#x200B; filters &#x200B;](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om resultaten door Publiek, Inhoud, of Platform te onderbreken. Dezelfde filters zijn van toepassing op zowel [!UICONTROL Analytics] als [!UICONTROL Sends] .
+Gebruikt geavanceerde [ filters ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om resultaten door Publiek, Inhoud, of Platform te onderbreken. Dezelfde filters zijn van toepassing op zowel [!UICONTROL Analytics] als [!UICONTROL Sends] .
 
 ![](assets/filter.png)
 
 **Snelle Grafieken**
 
-[&#x200B; Snelle Grafieken &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) zijn duimnagels u creeert en bewaart, die een snelle mening van grafieken verstrekken die voor u belangrijk zijn.
+[ Snelle Grafieken ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) zijn duimnagels u creeert en bewaart, die een snelle mening van grafieken verstrekken die voor u belangrijk zijn.
 
 ![](assets/three.png)
 
@@ -59,9 +59,9 @@ Klik op Metrische balken om de kleuren in getallen om te zetten.
 
 ## Aangepaste afmetingen {#custom-dimensions}
 
-Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [&#x200B; de afmetingen van de Douane &#x200B;](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) bestaan uit segmentaties en programmamarkeringen.
+Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [ de afmetingen van de Douane ](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) bestaan uit segmentaties en programmamarkeringen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; E-mail het Overzicht van Analytics van Inzichten &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
->* [&#x200B; e-mailInzichten verzendt Overzicht &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>* [ E-mail het Overzicht van Analytics van Inzichten ](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
+>* [ e-mailInzichten verzendt Overzicht ](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

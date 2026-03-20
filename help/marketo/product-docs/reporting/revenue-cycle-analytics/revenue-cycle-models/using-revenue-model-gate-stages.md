@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718670
-description: Gebruikend de Stages van de Datum van het Model van de Opbrengst - de Documenten van Marketo - productdocumentatie
+description: Leer hoe u de gate-fases van het inkomstenmodel in Marketo Engage kunt gebruiken met behulp van de gate-fases van het inkomstenmodel. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Opbrengstmodelstatussen gebruiken
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,11 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Selecteer een bestaand model, of [&#x200B; creeer nieuwe &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Selecteer een bestaand model, of [ creeer nieuwe ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klik op **[!UICONTROL Edit Draft]**.
+1. Klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -75,7 +75,7 @@ Bewerk [!UICONTROL Name] , [!UICONTROL Description] en pas de [!UICONTROL Type] 
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klik op **[!UICONTROL Delete]**.
+1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klik op **[!UICONTROL Delete]** .
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
@@ -83,6 +83,6 @@ Gefeliciteerd! Nu begrijp je de prachtige wereld van Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Gebruikend de Staven van de Inventaris van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
->* [&#x200B; Gebruikend de Stages van SLA van het Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
->* [&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+>* [ Gebruikend de Staven van de Inventaris van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [ Gebruikend de Stages van SLA van het Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).

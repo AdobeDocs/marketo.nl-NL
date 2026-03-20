@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512105
-description: Een rapport klonen naar groepsrapporten - Marketo Docs - Productdocumentatie
+description: Leer hoe te om rapporten van Mijn Rapporten aan de Rapporten van de Groep te klonen om hen zichtbaar aan alle werkruimtegroepen te maken. U kunt rapporten delen met uw team met de optie Klonen naar.
 title: Een rapport klonen naar groepsrapporten
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Een willekeurig rapport in **[!UICONTROL My Reports]** is alleen voor u zichtbaar. Wat als u het verslag toegankelijk wilde maken voor alle anderen? Zo kunt u dat doen:
 
-1. In het **[!UICONTROL Analytics]** gebied, klik op het gewenste [&#x200B; bewaarde rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. In het **[!UICONTROL Analytics]** gebied, klik op het gewenste [ bewaarde rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 

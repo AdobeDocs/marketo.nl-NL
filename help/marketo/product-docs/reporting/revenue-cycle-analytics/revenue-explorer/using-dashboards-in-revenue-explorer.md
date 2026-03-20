@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10094959
-description: Dashboards gebruiken in Revenue Explorer - Marketo Docs - Productdocumentatie
+description: Leer hoe u dashboards kunt gebruiken in inkomstenverkenner in Marketo Engage met gebruik van dashboards in inkomstenverkenner. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Een dashboard is een combinatie van [!UICONTROL Revenue Explorer] -rapporten voo
 
 ## Een nieuw dashboard maken {#creating-a-new-dashboard}
 
-1. Klik op **[!UICONTROL Revenue Explorer]**.
+1. Klik op **[!UICONTROL Revenue Explorer]** .
 
    ![](assets/one.png)
 
@@ -67,7 +67,7 @@ Een dashboard is een combinatie van [!UICONTROL Revenue Explorer] -rapporten voo
 
 ## Een dashboard bewerken {#editing-a-dashboard}
 
-1. Klik op **[!UICONTROL Revenue Explorer]**.
+1. Klik op **[!UICONTROL Revenue Explorer]** .
 
    ![](assets/one.png)
 
@@ -81,7 +81,7 @@ Een dashboard is een combinatie van [!UICONTROL Revenue Explorer] -rapporten voo
 
 ## Een dashboard verwijderen {#deleting-a-dashboard}
 
-1. Klik op **[!UICONTROL Revenue Explorer]**.
+1. Klik op **[!UICONTROL Revenue Explorer]** .
 
    ![](assets/one.png)
 

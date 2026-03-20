@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097163
-description: De RTP JavaScript-tag - Marketo Docs - Productdocumentatie in- of uitschakelen
+description: Leer hoe u de rtp javascript-tag in Marketo Engage in- of uitschakelt, inclusief het in- en uitschakelen van de rtp. Gebruik deze handleiding om de volgende stap te voltooien.
 title: De RTP JavaScript-tag in- of uitschakelen
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---

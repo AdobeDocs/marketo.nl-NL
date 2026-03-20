@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718677
-description: Een model voor Marketo-voorbeeldinkomsten klonen - Marketo Docs - Productdocumentatie
+description: Leer over het klonen van een markt om opbrengstmodel in Marketo Engage, met inbegrip van het klonen van een markt aan voorbeeld opbrengst te zien. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een Marketo-model met voorbeeldopbrengsten klonen
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

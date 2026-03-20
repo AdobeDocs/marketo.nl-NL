@@ -1,25 +1,25 @@
 ---
 unique-page-id: 6095029
-description: Plaats  [!DNL Google AdWords]  Omzettingen in het Model van de Opbrengst - de Documentatie van Marketo - de Documentatie van het Product
+description: Leer hoe u [!dnl google adwords] conversies instelt in het inkomstenmodel in Marketo Engage met gebruik van set dnl google. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Plaats  [!DNL Google AdWords]  Omzettingen in het Model van de Ontvangsten
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '426'
 ht-degree: 1%
 
 ---
 
 # Conversies [!DNL Google AdWords] instellen in het inkomstenmodel {#set-google-adwords-conversions-in-the-revenue-model}
 
-Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, zult u gemakkelijk kunnen zien welke kliks in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia resulteerden u) wilt volgen nadat u [&#x200B; douanekolommen &#x200B;](https://support.google.com/adwords/answer/3073556) in [!DNL AdWords] toevoegt.
+Koppel uw [!DNL Google AdWords] -account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar [!DNL Google AdWords] . Dan, van [!DNL AdWords] UI, zult u gemakkelijk kunnen zien welke kliks in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia resulteerden u) wilt volgen nadat u [ douanekolommen ](https://support.google.com/adwords/answer/3073556) in [!DNL AdWords] toevoegt.
 
 >[!NOTE]
 >
 >Dit is een push-integratie van Marketo naar [!DNL Google AdWords] . De gegevens van de omzetting zullen _slechts_ in uw [!DNL Google AdWords] portaal verschijnen, _niet in Marketo UI_.
 
-Leer meer over [&#x200B; de off-line omzettingsde invoereigenschap van Google &#x200B;](https://support.google.com/adwords/answer/2998031?hl=en). Wijs [!DNL AdWords] offline conversies toe aan een of meer fasen in een omzettingsmodel. U kunt de toewijzing op drie manieren uitvoeren:
+Leer meer over [ de off-line omzettingsde invoereigenschap van Google ](https://support.google.com/adwords/answer/2998031?hl=en). Wijs [!DNL AdWords] offline conversies toe aan een of meer fasen in een omzettingsmodel. U kunt de toewijzing op drie manieren uitvoeren:
 
 * [!DNL AdWords] Conversie
 * Werkgebied, actie
@@ -29,7 +29,7 @@ U kunt vanuit Marketo een nieuwe [!DNL AdWords] offline conversie maken met behu
 
 >[!PREREQUISITES]
 >
->[&#x200B; voeg  [!DNL Google AdWords]  als Dienst LaunchPoint toe &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+>[ voeg  [!DNL Google AdWords]  als Dienst LaunchPoint toe ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## [!DNL AdWords] Conversie gebruiken {#use-adwords-conversion}
 
@@ -41,7 +41,7 @@ U kunt vanuit Marketo een nieuwe [!DNL AdWords] offline conversie maken met behu
 
    ![](assets/image2015-2-23-18-3a3-3a12.png)
 
-1. Klik op **[!UICONTROL Edit Draft]**.
+1. Klik op **[!UICONTROL Edit Draft]** .
 
    ![](assets/image2015-3-10-15-3a3-3a20.png)
 
@@ -75,7 +75,7 @@ U kunt ook een [!UICONTROL AdWords Conversion] onder **[!UICONTROL Stage Actions
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-2-26-16-3a56-3a2.png)
 
@@ -99,7 +99,7 @@ Pro tip! Er kan een nieuwe [!DNL AdWords] offline conversie worden gemaakt vanui
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
-1. Voer een **[!UICONTROL Conversion Name]** in. Klik op **[!UICONTROL Save]**.
+1. Voer een **[!UICONTROL Conversion Name]** in. Klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-2-26-21-3a24-3a7.png)
 
@@ -125,4 +125,4 @@ U kunt al uw modelfasen aan uw [!UICONTROL AdWords Conversion] in één plaats a
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-Als u de gegevens van de offline conversie wilt weergeven, moet u zich aanmelden bij uw [!DNL AdWords] -account. Wij adviseren u hun [&#x200B; eigenschap van de Kolommen van de Douane &#x200B;](https://support.google.com/adwords/answer/3073556) gebruikt om de kolommen van de omzettelling voor elke off-line omzetting tot stand te brengen u uit Marketo invoert.
+Als u de gegevens van de offline conversie wilt weergeven, moet u zich aanmelden bij uw [!DNL AdWords] -account. Wij adviseren u hun [ eigenschap van de Kolommen van de Douane ](https://support.google.com/adwords/answer/3073556) gebruikt om de kolommen van de omzettelling voor elke off-line omzetting tot stand te brengen u uit Marketo invoert.

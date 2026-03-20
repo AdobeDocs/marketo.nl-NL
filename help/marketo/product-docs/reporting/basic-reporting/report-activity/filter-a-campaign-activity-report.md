@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360184
-description: Een campagneactiviteitenrapport filteren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een campagneactiviteitenrapport in Marketo Engage filtert met een campagneactiviteitenrapport. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een campagneactiviteitenrapport filteren
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # Een campagneactiviteitenrapport filteren {#filter-a-campaign-activity-report}
 
-Focus uw [&#x200B; Rapport van de Activiteit van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) op specifieke [&#x200B; slimme campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+Focus uw [ Rapport van de Activiteit van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) op specifieke [ slimme campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Focus uw [&#x200B; Rapport van de Activiteit van de Campagne &#x200B;](/help/mar
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. Kies de mappen en specifieke slimme campagnes die u in uw rapport wilt opnemen. Klik op **[!UICONTROL Apply]**.
+1. Kies de mappen en specifieke slimme campagnes die u in uw rapport wilt opnemen. Klik op **[!UICONTROL Apply]** .
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 
@@ -41,4 +41,4 @@ Focus uw [&#x200B; Rapport van de Activiteit van de Campagne &#x200B;](/help/mar
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Rapport van de Prestaties van e-mail van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+>[ Rapport van de Prestaties van e-mail van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094404
-description: Aangepaste veldgroepen maken met de veldOrganizer - Marketo Docs - Productdocumentatie
+description: Leer hoe u aangepaste veldgroepen maakt met de veldOrganizer in Marketo Engage door aangepaste veldgroepen te maken. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Aangepaste veldgroepen maken met de veldOrganizer
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 1%
+source-wordcount: '966'
+ht-degree: 2%
 
 ---
 
@@ -36,7 +36,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - tekenreekseditor {#create-custom-field-group-string-editor}
 
-1. Klik op **[!UICONTROL Lead Database]**.
+1. Klik op **[!UICONTROL Lead Database]** .
 
    ![](assets/one.png)
 
@@ -48,7 +48,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/three.png)
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/four.png)
 
@@ -92,7 +92,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - Integer-editor {#create-custom-field-group-integer-editor}
 
-1. Klik op **[!UICONTROL Lead Database]**.
+1. Klik op **[!UICONTROL Lead Database]** .
 
    ![](assets/one.png)
 
@@ -104,7 +104,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/nine.png)
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/9.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klik op **[!UICONTROL Save]**.
+1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klik op **[!UICONTROL Save]** .
 
    ![](assets/eleven.png)
 
    Met de editor voor gehele getallen kunt u meerdere subgroepen maken om elke subgroep op grootte te definiëren. In dit voorbeeld worden drie groepen gemaakt voor kleine, Medium- en Enterprise-bedrijven.
 
-1. Als u de eerste groep wilt toevoegen, typt u een naam in het veld **[!UICONTROL Group Name]** (bijvoorbeeld Klein) en geeft u een maximale waarde op in het veld **[!UICONTROL Group Range]** (bijvoorbeeld: 200000). Klik op **[!UICONTROL Add Group]**.
+1. Als u de eerste groep wilt toevoegen, typt u een naam in het veld **[!UICONTROL Group Name]** (bijvoorbeeld Klein) en geeft u een maximale waarde op in het veld **[!UICONTROL Group Range]** (bijvoorbeeld: 200000). Klik op **[!UICONTROL Add Group]** .
 
    ![](assets/twelve.png)
 
@@ -146,7 +146,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - Datumeditor {#create-custom-field-group-date-editor}
 
-1. Klik op **[!UICONTROL Lead Database]**.
+1. Klik op **[!UICONTROL Lead Database]** .
 
    ![](assets/one.png)
 
@@ -158,7 +158,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/fourteen.png)
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/14.5.png)
 
@@ -166,13 +166,13 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/14.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klik op **[!UICONTROL Save]**.
+1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klik op **[!UICONTROL Save]** .
 
    ![](assets/fifteen.png)
 
    Met de datumeditor kunt u meerdere subgroepen maken en elke subgroep op datum definiëren. In dit voorbeeld worden drie groepen gemaakt: Q1-15 Leads, Q2-15 Leads en Q3-15 Leads.
 
-1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **[!UICONTROL Group Name]** in (bijvoorbeeld: Q1-15 leads) en voert u in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van Q1-15). Klik op **[!UICONTROL Add Group]**.
+1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **[!UICONTROL Group Name]** in (bijvoorbeeld: Q1-15 leads) en voert u in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van Q1-15). Klik op **[!UICONTROL Add Group]** .
 
    ![](assets/sixteen.png)
 

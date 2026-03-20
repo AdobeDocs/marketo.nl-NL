@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949154
-description: Label uw webcampagnes - Marketo Docs - Productdocumentatie
+description: Leer hoe u webcampagnes in Marketo Engage een label geeft met een label voor uw webcampagnes. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Webcampagnes labelen
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Hebt u zoveel campagnes dat het schuiven omslachtig wordt? Gebruik labels om tag
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Selecteer de campagnes die u wilt voorzien van een label.
 
@@ -51,4 +51,4 @@ Koel! U weet nu hoe u labels kunt maken en toewijzen aan campagnes.
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Etiket een Segment &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>[ Etiket een Segment ](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

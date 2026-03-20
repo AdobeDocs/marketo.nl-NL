@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360235
-description: Een opportuniteitsanalyse maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Marketo Engage een opportuniteitsbeïnvloedingsanalysator kunt maken door een opportuniteitsinvloed te creëren. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een Opportunity Influence Analyzer maken
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 >
 >Om goede informatie van een Analysator van de Invloed van de Mogelijkheid te krijgen, zorg ervoor dat uw contacten aan de kansen in uw CRM in bijlage zijn.
 
-1. Klik op **[!UICONTROL Analytics]**.
+1. Klik op **[!UICONTROL Analytics]** .
 
    ![](assets/analytics.png)
 
-1. Klik op **[!UICONTROL Opportunity Influence Analyzer]**.
+1. Klik op **[!UICONTROL Opportunity Influence Analyzer]** .
 
    ![](assets/two.png)
 
@@ -58,9 +58,9 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 
 >[!TIP]
 >
->U kunt ook op een video over de Analysator van de Invloed van de Mogelijkheid in [&#x200B; Universiteit van Marketo &#x200B;](https://learn.marketo.com) letten. (Het ziet er nu een beetje anders uit, maar er is nog veel te leren!)
+>U kunt ook op een video over de Analysator van de Invloed van de Mogelijkheid in [ Universiteit van Marketo ](https://learn.marketo.com) letten. (Het ziet er nu een beetje anders uit, maar er is nog veel te leren!)
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [&#x200B; vorm een Analysator van de Invloed van de Opportunity &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+>* [ vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [ vorm een Analysator van de Invloed van de Opportunity ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

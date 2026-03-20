@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360240
-description: Een Opportunity Influence Analyzer configureren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een opportuniteitsbeïnvloedingsanalysator in Marketo Engage configureert door een opportuniteitsinvloed te configureren. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een Opportunity Influence Analyzer configureren
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # Een Opportunity Influence Analyzer configureren {#configure-an-opportunity-influence-analyzer}
 
-Zodra u [&#x200B; tot een Analysator van de Invloed van de Mogelijkheid &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) leidt, kunt u de types van [&#x200B; interessante momenten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
+Zodra u [ tot een Analysator van de Invloed van de Mogelijkheid ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) leidt, kunt u de types van [ interessante momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Analysator van de Invloed van de Opportunity &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[ creeer een Analysator van de Invloed van de Opportunity ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Klik op **[!UICONTROL Analytics]**.
+1. Klik op **[!UICONTROL Analytics]** .
 
    ![](assets/login-to-analytics.png)
 
@@ -49,4 +49,4 @@ Zodra u [&#x200B; tot een Analysator van de Invloed van de Mogelijkheid &#x200B;
 
 >[!MORELIKETHIS]
 >
->[&#x200B; vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>[ vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)

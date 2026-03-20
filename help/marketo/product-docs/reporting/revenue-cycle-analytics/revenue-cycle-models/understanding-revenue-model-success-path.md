@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718664
-description: Succespad van inkomstenmodel - Marketo-documenten - productdocumentatie
+description: Leer meer over het succespad van het inkomstenmodel in Marketo Engage, inclusief inzicht in succes van het inkomstenmodel. Neem de volgende stap met vertrouwen.
 title: Werken met succespad van inkomstenmodel
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Voorbeelden van stappen op een pad met succes:
 
 >[!TIP]
 >
->Groen is voor geld. Alles op de weg naar groen is op weg naar succes! Dat is waarom er slechts groene pijlen in de [&#x200B; Analysator van de Weg van het Succes &#x200B;](using-the-success-path-analyzer.md) zijn.
+>Groen is voor geld. Alles op de weg naar groen is op weg naar succes! Dat is waarom er slechts groene pijlen in de [ Analysator van de Weg van het Succes ](using-the-success-path-analyzer.md) zijn.
 
 ## Detours {#detours}
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472402
-description: Uw goedgekeurde model bewerken - Marketo Docs - Productdocumentatie
+description: Meer informatie over het bewerken van uw goedgekeurde model in Marketo Engage, zoals het bewerken van uw goedgekeurde model. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Uw goedgekeurde model bewerken
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/five.png)
 
-1. Klik op **[!UICONTROL Unapprove]**.
+1. Klik op **[!UICONTROL Unapprove]** .
 
    ![](assets/six.png)
 
@@ -59,4 +59,4 @@ U kunt slechts één goedgekeurd model tegelijk hebben. Als u een model wilt goe
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718648
-description: Kennis van de Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
+description: Meer informatie over de analyse van opportuniteitseffecten in Marketo Engage, waaronder het begrijpen van de functie. Gebruik deze handleiding om de volgende stap te voltooien.
 title: De Opportunity Influence Analyzer
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -41,5 +41,5 @@ Als u dit gedrag wilt behouden, kunt u overwegen uw gegevens te dedupliceren in 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [&#x200B; creeer een Analysator van de Invloed van de Opportunity &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [ vertel het Verbod van het Op de markt brengen Artikel met Analysator van de Invloed van de Kans ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [ creeer een Analysator van de Invloed van de Opportunity ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360020
-description: Een rapport exporteren naar  [!DNL Excel]  - Marketo Docs - Productdocumentatie
+description: Leer hoe u rapporten naar Excel-bestanden exporteert voor analyse in andere software. Klik op de knop Exporteren op het tabblad Rapport om uw gegevens te downloaden.
 title: Een rapport exporteren naar  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -31,4 +31,4 @@ U kunt elk rapport exporteren naar een [!DNL Excel] -bestand, zodat u met de geg
 
    >[!MORELIKETHIS]
    >
-   >Als het gedownloade dossier te groot is, kunt u [&#x200B; de rapportgrootte &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) veranderen.
+   >Als het gedownloade dossier te groot is, kunt u [ de rapportgrootte ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) veranderen.

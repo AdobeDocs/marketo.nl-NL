@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360205
-description: Een model delen op alle werkruimten - Marketo Docs - Productdocumentatie
+description: Meer informatie over het delen van een model in verschillende werkruimten in Marketo Engage, inclusief het delen van een model in verschillende werkruimten. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een model delen over werkruimten
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

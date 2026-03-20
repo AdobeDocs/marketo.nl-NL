@@ -1,11 +1,11 @@
 ---
-description: Rapportageoverzicht - Marketo Docs - Productdocumentatie
+description: Meer informatie over Marketo Engage-rapporteringsmodules, zoals basisrapporten, e-mailinzichten, prestatieinzicht en geavanceerde BI-analyses. Ontdek welke rapportoplossing aan uw behoeften voldoet.
 title: Overzicht van rapporten
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Marketo biedt verschillende rapporteringsmodules voor verschillende behoeften.
 
 ## Basisrapportage {#basic-reporting}
 
-U kunt opstelling [&#x200B; basisrapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} binnen programma&#39;s of in het gebied van Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
+U kunt opstelling [ basisrapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} binnen programma&#39;s of in het gebied van Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
 
 ## E-mailinzichten {#email-insights}
 
-Analytics van het gebruik en verzendt om [&#x200B; krachtige inzichten &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} op e-mails van historische gegevens te verkrijgen.
+Analytics van het gebruik en verzendt om [ krachtige inzichten ](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} op e-mails van historische gegevens te verkrijgen.
 
 ## Prestatiegegevens {#performance-insights}
 
-[&#x200B; de Inzichten van Prestaties &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} behandelen kanaalprestaties en programmaprestaties voor overeenkomst, pijpleiding, en opbrengstgeneratie.
+[ de Inzichten van Prestaties ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} behandelen kanaalprestaties en programmaprestaties voor overeenkomst, pijpleiding, en opbrengstgeneratie.
 
 ## Geavanceerde BI-analyserapportage {#advanced-bi-analytics-reporting}
 
@@ -54,7 +54,7 @@ Tot de voordelen van Advanced BI Analytics Reporting behoren:
 
 ## Geavanceerde reisanalyse {#advanced-journey-analytics}
 
-De Modellen van de Cyclus van opbrengsten: modelleer alle stadia van uw volledige opbrengsttrechter en hoe zij tussen die stadia, van wanneer u eerst met een lood in werking stelt helemaal tot de lood een gewonnen klant is.
+De Modellen van de Cyclus van opbrengsten: modelleer alle stadia van uw volledige opbrengst funnel en hoe zij tussen die stadia, van wanneer u eerst met een lood in wisselwerking staat helemaal tot de lood een gewonnen klant is.
 
 Success Path Analyzer: Krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de Cyclus van de Opbrengst. Voor een geslaagde analyse van paden moet u omzetcyclusmodellen maken.
 

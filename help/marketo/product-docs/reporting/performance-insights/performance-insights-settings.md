@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: Instellingen voor prestatieinzicht - Marketo Docs - Productdocumentatie
+description: Leer over de montages van Prestatie Inzichten met inbegrip van de samenvoeging van het programmasucces, vorige tijdconfiguratie, marketing-beïnvloede kansen, en de opties van de kostenberekening. Configureer instellingen op basis van uw dashboardweergave.
 title: Instellingen voor prestatiegegevens
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---

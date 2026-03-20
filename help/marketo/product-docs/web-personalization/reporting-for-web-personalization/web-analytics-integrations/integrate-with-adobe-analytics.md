@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949160
-description: Integreren met Adobe Analytics - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Marketo Engage integreert met Adobe Analytics met gebruik van geïntegreerde functies van Adobe. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Integreren met Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -65,7 +65,7 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 1. Ga naar **[!UICONTROL Admin Tools]** in uw AA-account.
 1. Selecteer de **[!UICONTROL Report Suite]** die moet worden gebruikt bij de integratie.
 1. Ga onder **[!UICONTROL Edit Settings]** naar **[!UICONTROL Conversion]** en selecteer **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
-Selecteer het [&#x200B; Variabele van de Omzetting &#x200B;](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
+Selecteer het [ Variabele van de Omzetting ](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
 
    1. Evar # 20 for Industry Custom Conversions
    1. Evar # 21 for Organization Custom Conversions
@@ -95,7 +95,7 @@ Selecteer het [&#x200B; Variabele van de Omzetting &#x200B;](https://microsite.o
 
    1. Selecteer het gebied van het Type om **Teller (geen subrelations) te zijn**
 
-1. Onder **[!UICONTROL Edit Settings]** ga naar **[Verkeer &#x200B;](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** en selecteer **[Variabelen van het Verkeer &#x200B;](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Onder **[!UICONTROL Edit Settings]** ga naar **[Verkeer ](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** en selecteer **[Variabelen van het Verkeer ](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecteer het bezit van de Variabele van het Verkeer # (wij adviseren):
 
@@ -124,7 +124,7 @@ Selecteer het [&#x200B; Variabele van de Omzetting &#x200B;](https://microsite.o
 1. Onder **[!UICONTROL Analytics]**, klik **Adobe Analytics**.
 1. Draai **[!UICONTROL On]** de wisselaars van de variabelen Conversion, Custom en Traffic.
 1. Wijs de Conversie, de Variabelen van de Gebeurtenis en van het Verkeer **groefaantallen** toe om de groefaantallen aan te passen die in AA worden gecreeerd
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -174,7 +174,7 @@ Voorbeelden van aangepaste rapporten en dashboards in AA zijn:
 
 **Creërend het Dashboard RTP**
 
-Creeer a [&#x200B; nieuw dashboard &#x200B;](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **Dashboard RTP**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
+Creeer a [ nieuw dashboard ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **Dashboard RTP**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
 
 1. Klik op **[!UICONTROL Dashboard]** click **[!UICONTROL Add Dashboard]** .
 
@@ -182,7 +182,7 @@ Creeer a [&#x200B; nieuw dashboard &#x200B;](https://microsite.omniture.com/t2/h
 
 1. Selecteer de **dashboardgrootte** 3 x 2, 2 x 2.
 
-1. Creeer [&#x200B; rapportlet &#x200B;](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [&#x200B; inhoud aan het dashboard &#x200B;](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) toe.
+1. Creeer [ rapportlet ](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [ inhoud aan het dashboard ](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard) toe.
 
 Het rapport Industrieën toevoegen aan het dashboard
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360418
-description: Rapport People by Revenue Stage - Marketo Docs - Productdocumentatie
+description: Leer meer over mensen op het rapport over de inkomstenfase in Marketo Engage, inclusief mensen op het rapport over de inkomstenfase. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Rapport Personen op omzet
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504218
-description: Aangepaste RTP-rapporten in Google Universal Analytics - Marketo Docs - Productdocumentatie
+description: Meer informatie over aangepaste rtp-rapporten in Google Universal Analytics in Marketo Engage, inclusief aangepaste rtp-rapporten in. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Aangepaste RTP-rapporten in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 1%
+source-wordcount: '376'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[&#x200B; integreer RTP met de Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Google Universal Analytics (GUA).  De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanerapporten zijn:
 
@@ -28,7 +28,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
 1. Klik op **[!UICONTROL Customization]** in het bovenste menu.
 
-1. Klik op **[!UICONTROL New Custom Report]**.
+1. Klik op **[!UICONTROL New Custom Report]** .
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -103,7 +103,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
 1. Stel geen filters in en stel dit rapport in op beschikbaar voor **[!UICONTROL All Web Site Data]** (of wijzig indien van toepassing voor specifieke analytische account).
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -135,7 +135,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. In de **2&rbrace; sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
+1. In de **2} sectie van de Boor van Dimension** plaatst de relevante dimensies voor elk lusje zoals hieronder:
 
 <table>
  <thead>
@@ -223,12 +223,12 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Googl
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
 >[!MORELIKETHIS]
 >
->[&#x200B; integreer RTP met de Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
+>[ integreer RTP met de Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[&#x200B; de Dashboards van de Douane RTP in Universele Analytics van Google &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
+>[ de Dashboards van de Douane RTP in Universele Analytics van Google ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)

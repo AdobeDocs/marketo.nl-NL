@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504749
-description: Een rapport van de Ontdekkingsreiziger van de Inkomsten exporteren - de Documenten van Marketo - de Documentatie van het Product
+description: Meer informatie over het exporteren van een rapport van de inkomstenverkenner in Marketo Engage, inclusief het exporteren van een rapport van de inkomstenverkenner. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een rapport van de Ontdekkingsreiziger van de Opbrengst exporteren
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ U kunt om het even welk rapport van de opbrengstontdekkingsreiziger uitvoeren en
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Abonneren aan a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[ Abonneren aan a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

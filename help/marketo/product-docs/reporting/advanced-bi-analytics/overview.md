@@ -1,11 +1,11 @@
 ---
-description: Advanced BI Analytics Overview - Marketo Docs - Productdocumentatie
+description: Meer informatie over Advanced BI Analytics, een flexibele rapportinterface met rijke visualisaties en snellere prestaties voor Marketo Engage-gegevens. Maak aangepaste rapporten met interactieve dashboards en exportopties.
 title: Advanced BI Analytics - overzicht
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1058'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Deze verbeteringen helpen u tijd te besparen, waardevolle inzichten te ontdekken
 
 ## Een rapport exporteren {#export-a-report}
 
-Wanneer u een volledig rapport exporteert, zijn de exportopties PDF en PPT. Als u uw gegevens in .XLS of .CSV nodig hebt, kunt u dit doen door individuele visualisaties uit te voeren ([&#x200B; zie hieronder &#x200B;](#export-a-visualization)).
+Wanneer u een volledig rapport exporteert, zijn de exportopties PDF en PPT. Als u uw gegevens in .XLS of .CSV nodig hebt, kunt u dit doen door individuele visualisaties uit te voeren ([ zie hieronder ](#export-a-visualization)).
 
 >[!BEGINTABS]
 
@@ -125,7 +125,7 @@ Leer hoe u specifieke gedeelten van uw rapport exporteert.
 
 Bekijk de volgende video om een voorbeeld van een drill-through rapportervaring van meerdere pagina&#39;s te zien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451688/?quality=12&learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Standaardrapporten in Advanced BI Analytics {#standard-reports}
 
@@ -236,7 +236,7 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 
 ## Notities {#note}
 
-* Uw douanerapporten zijn herhaald van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen die in [&#x200B; worden vermeld die de Nieuwe Ervaring &#x200B;](#learning-the-new-experience) hieronder leren sectie.
+* Uw douanerapporten zijn herhaald van de klassieke ervaring aan de nieuwe ervaring met de opmerkelijke gedragsveranderingen die in [ worden vermeld die de Nieuwe Ervaring ](#learning-the-new-experience) hieronder leren sectie.
 * De dashboards in de klassieke ervaring waren niet overdraagbaar en vereiste ontspanning in de nieuwe ervaring. Deze kunnen opnieuw worden gemaakt als rapporten in de nieuwe ervaring en de filters in de nieuwe ervaring genereren automatisch mogelijke waarden.
 
   >[!NOTE]
@@ -259,7 +259,7 @@ De volgende standaardrapporten worden als voorbeelden voor uw douanerapporten op
 
 De nieuwe visualisatieervaring wordt geleverd via de ingesloten Power BI-service.
 
-Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [&#x200B; visuals van het Gebruik in Power BI &#x200B;](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentatie. Mogelijk ziet u niet al deze functies in Marketo Engage.
+Voor een snel leerprogramma op de visualisatieervaring, bezoek Microsoft [ visuals van het Gebruik in Power BI ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} documentatie. Mogelijk ziet u niet al deze functies in Marketo Engage.
 
 ### Opvallende ervaringswijzigingen {#notable-experience-changes}
 
@@ -279,4 +279,4 @@ Hieronder vindt u wijzigingen in de nieuwe ervaring (Advanced BI Analytics) uit 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Metriek en Dimensies &#x200B;](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
+>[ Metriek en Dimensies ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}

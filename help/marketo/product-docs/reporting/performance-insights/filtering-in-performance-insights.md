@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: Filteren in prestatiegegevens - Marketo Docs - Productdocumentatie
+description: Leer hoe u gegevens over prestatie-inzichten kunt filteren op ABM-accountlijsten, aangepaste kenmerken, opportuniteitstype, programmalabels en werkruimte. Hiermee past u meerdere filters toe om specifieke informatie op te vragen en diagrammen bij te werken.
 title: Filteren in prestatie-inzichten
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---

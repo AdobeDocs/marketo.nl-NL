@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718685
-description: Samenvoegen van twee fasen in de Revenue Modeler - Marketo Docs - Productdocumentatie
+description: Leer over het samenvoegen van twee fasen in de inkomstenmodellen in Marketo Engage, waaronder het samenvoegen van twee fasen in de inkomsten. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Twee fasen samenvoegen in de Revenue Modeler
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

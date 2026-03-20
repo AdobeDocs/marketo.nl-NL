@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718651
-description: Inzicht in het e-mailanalysegebied - Marketo Docs - Productdocumentatie
+description: Meer informatie over het analysegebied voor e-mail in Marketo Engage, waaronder informatie over het analysegebied voor e-mail. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Het e-mailanalysegebied
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Het gebied van de Analyse E-mail concentreert zich op e-mailmetriek. In dit arti
 
 >[!AVAILABILITY]
 >
->Dit is beschikbaar aan gebruikers met de Uitgezochte Uitgave of [&#x200B; toe:voegen-aan de Analyse van de Cyclus van 0&rbrace; Inkomsten. &#x200B;](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) Neem contact op met je verkoper voor meer informatie.
+>Dit is beschikbaar aan gebruikers met de Uitgezochte Uitgave of [ toe:voegen-aan de Analyse van de Cyclus van 0} Inkomsten. ](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) Neem contact op met je verkoper voor meer informatie.
 
 ## E-mail klikken op Activiteit, warmteraster {#email-click-activity-heat-grid}
 

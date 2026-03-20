@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: Een basiswebsegment maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u een standaard websegment maakt in Marketo Engage door een standaard websegment te maken. Neem de volgende stap met vertrouwen.
 title: Een basiswebsegment maken
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klik op **[!UICONTROL Create New]**.
+1. Klik op **[!UICONTROL Create New]** .
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -57,4 +57,4 @@ Nu hebt u uw bezoekers uit de Verenigde Staten gesegmenteerd, ga door en voeg de
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Segmenten van het Web &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+>[ Segmenten van het Web ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)

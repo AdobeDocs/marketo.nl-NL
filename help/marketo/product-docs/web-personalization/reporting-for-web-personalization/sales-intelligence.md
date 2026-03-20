@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096420
-description: Verkoopinformatie - Marketo-documenten - productdocumentatie
+description: Meer informatie over de functies van Verkoopinformatie die waardevolle informatie bieden over webbezoekers en -organisaties. Houd waarschuwingen bij en controleer en ontvang waarschuwingen voor belangrijke organisaties en accounts per regio.
 title: Verkoopinformatie
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -31,4 +31,4 @@ In [[!UICONTROL User Settings]](/help/marketo/product-docs/web-personalization/g
 
 >[!MORELIKETHIS]
 >
->[&#x200B; E-mailrapporten &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
+>[ E-mailrapporten ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)

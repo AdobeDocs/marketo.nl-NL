@@ -1,12 +1,12 @@
 ---
 unique-page-id: 9438258
-description: Een goed begrip van het samenvattingsrapport - Marketo Docs - Productdocumentatie
+description: Meer informatie over het overzichtsrapport met een maandelijkse weergave van de campagne en de aanbevolen prestaties van de inhoud. Houd kliks, directe omzettingen, ondersteunde omzettingen bij en vergelijk de resultaten met vorige maanden.
 title: Het overzichtsrapport
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---

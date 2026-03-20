@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720810
-description: Persoonlijke opmerkingen in Google - Marketo Docs - Productdocumentatie
+description: Meer informatie over gepersonaliseerde remarketing in google in Marketo Engage, waaronder gepersonaliseerde remarketing in google. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Persoonlijke opmerkingen in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '239'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,8 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
 >[!PREREQUISITES]
 >
->* Voltooi [&#x200B; het Opnieuw richten met  [!DNL Web Personalization]  Configuratie van Gegevens &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Het overzicht [&#x200B; Opmerking met de documentatie van de Hulp van Google Analytics &#x200B;](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645).
+>* Voltooi [ het Opnieuw richten met  [!DNL Web Personalization]  Configuratie van Gegevens ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Het overzicht [ Opmerking met de documentatie van de Hulp van Google Analytics ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645).
 
 ## Een opmerkingspubliek maken in Google {#creating-a-remarketing-audience-in-google}
 
@@ -26,7 +26,7 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. Klik op **[!UICONTROL +New Audience]**.
+1. Klik op **[!UICONTROL +New Audience]** .
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
@@ -34,7 +34,7 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Klik in de Audience Builder op **[!UICONTROL Sequences]** en **[!UICONTROL Find the RTP Data]** onder [!UICONTROL Custom Dimensions] , [!UICONTROL UICONTROL [ !] Custom Variables] , [!UICONTROL Events] .
+1. Klik in de Audience Builder op **[!UICONTROL Sequences]** en **[!UICONTROL Find the RTP Data]** onder [!UICONTROL Custom Dimensions] , [!UICONTROL [!]UICONTROL Custom Variables] , [!UICONTROL Events] .
 
 >[!TIP]
 >
@@ -57,7 +57,7 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 1. Klik op **[!UICONTROL Sequences].**
 1. Selecteren **[!UICONTROL Event Label].**
 1. Voer **[!UICONTROL Name of Segmented Audience]** in (zoals deze wordt weergegeven in RTP).
-1. Klik op **[!UICONTROL Apply]**.
+1. Klik op **[!UICONTROL Apply]** .
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
@@ -65,11 +65,11 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
-1. Klik op **[!UICONTROL Sequences]**.
+1. Klik op **[!UICONTROL Sequences]** .
 1. Selecteer **[!UICONTROL RTP-Industry]**.
 1. Ga **Naam van de Industrie** in (b.v. [!UICONTROL Financial Services], [!UICONTROL Education]...).
-1. Klik op **[!UICONTROL Apply]**.
-1. Voer een **[!UICONTROL Audience Name]** in. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Apply]** .
+1. Voer een **[!UICONTROL Audience Name]** in. Klik op **[!UICONTROL Save]** .
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 
@@ -94,5 +94,5 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; het opnieuw richten met  [!DNL Web Personalization]  Gegevens &#x200B;](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [&#x200B; Gepersonaliseerde het Merken in  [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+>* [ het opnieuw richten met  [!DNL Web Personalization]  Gegevens ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [ Gepersonaliseerde het Merken in  [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)

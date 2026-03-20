@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951220
-description: Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen van het Platform - Marketo Docs - de Documentatie van het Product
+description: Leer hoe u een prestatierapport voor mensen maakt met kolommen voor mobiele platforms in Marketo Engage door een persoon samen te stellen. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen van het Platform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
    ![](assets/three-1.png)
 
-1. Klik op **[!UICONTROL Smart List]**.
+1. Klik op **[!UICONTROL Smart List]** .
 
    ![](assets/four-1.png)
 
@@ -73,7 +73,7 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
    ![](assets/eleven.png)
 
-1. Klik op **[!UICONTROL Report]**.
+1. Klik op **[!UICONTROL Report]** .
 
    ![](assets/twelve.png)
 
@@ -81,7 +81,7 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
    ![](assets/thirteen.png)
 
-1. Klik op **[!UICONTROL Create]**.
+1. Klik op **[!UICONTROL Create]** .
 
    ![](assets/fourteen.png)
 

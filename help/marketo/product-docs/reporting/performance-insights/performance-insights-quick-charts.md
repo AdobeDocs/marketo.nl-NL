@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980873
-description: Prestatie-inzichten in snel overzicht - Marketo Docs - Productdocumentatie
+description: Leer om Snelle Grafieken in de Inzichten van Prestaties voor vaak gebruikte grafiekmeningen tot stand te brengen en te bewaren. Bespaar maximaal 20 aangepaste diagrammen met specifieke filters en maateenheden voor snelle toegang.
 title: Prestatie-inzichten, snelle grafieken
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -65,6 +65,6 @@ Als u een Snelle Grafiek moet schrappen, volg deze eenvoudige stappen.
 
    ![](assets/9-2.png)
 
-1. Klik op **[!UICONTROL Delete]**.
+1. Klik op **[!UICONTROL Delete]** .
 
    ![](assets/10-1.png)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571888
-description: Aangepaste veldsynchronisatie inschakelen voor conjunctuuranalyse - Marketo Docs - Productdocumentatie
+description: Meer informatie over het inschakelen van aangepaste veldsync voor de analyse van de inkomstencyclus in Marketo Engage, inclusief het inschakelen van aangepaste velden. Neem de volgende stap met vertrouwen.
 title: Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '90'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Met de volgende stappen kunt u aangepaste velden gebruiken in RCA-rapporten.
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/one.png)
 

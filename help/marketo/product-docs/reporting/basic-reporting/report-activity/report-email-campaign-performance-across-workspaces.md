@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360055
-description: E-mail rapporteren, campagneresultaten in verschillende werkruimten - Marketo Docs - Productdocumentatie
+description: Meer informatie over berichttekst per e-mail, campagneprestaties in verschillende werkruimten in Marketo Engage, zoals rapporten, e-mail, campagne. Gebruik deze handleiding om de volgende stap te voltooien.
 title: E-mail rapporteren, campagneprestaties in alle werkruimten
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---
 
 # E-mail rapporteren, campagneprestaties in alle werkruimten {#report-email-campaign-performance-across-workspaces}
 
-Zet Globale Rapportering aan om gegevens van al uw Marketo [&#x200B; werkruimten &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in uw [&#x200B; E-mailPrestaties &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) en [&#x200B; E-mailprestaties van de Verbinding &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporten te omvatten.
+Zet Globale Rapportering aan om gegevens van al uw Marketo [ werkruimten ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) in uw [ E-mailPrestaties ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) en [ E-mailprestaties van de Verbinding ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporten te omvatten.
 
 1. Ga naar **[!UICONTROL Analytics]** (of **[!UICONTROL Marketing Activities]** ) gebied.
 
@@ -37,4 +37,4 @@ Zet Globale Rapportering aan om gegevens van al uw Marketo [&#x200B; werkruimten
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; filter Assets in een E-mailrapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[ filter Assets in een E-mailrapport ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

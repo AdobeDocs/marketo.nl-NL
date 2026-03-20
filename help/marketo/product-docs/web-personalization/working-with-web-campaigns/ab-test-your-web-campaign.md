@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719404
-description: AB Test Uw Campagne van het Web - de Documenten van Marketo - de Documentatie van het Product
+description: Meer informatie over het testen van uw webcampagne in Marketo Engage, waaronder het testen van uw webcampagne. Gebruik deze handleiding om de volgende stap te voltooien.
 title: AB Test Uw Campagne van het Web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---
@@ -29,9 +29,9 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Selecteer de eerste campagne u aan test A/B wilt. Klik op **[!UICONTROL Edit]**.
+1. Selecteer de eerste campagne u aan test A/B wilt. Klik op **[!UICONTROL Edit]** .
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
@@ -51,7 +51,7 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
 1. Herhaal dit proces met de tweede campagne.
 
-1. Selecteer de tweede campagne die u wilt testen A/B. Klik op **[!UICONTROL Edit]**.
+1. Selecteer de tweede campagne die u wilt testen A/B. Klik op **[!UICONTROL Edit]** .
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
@@ -76,6 +76,6 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Campagne van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [&#x200B; creeer een RTP in de Campagne van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [&#x200B; creeer een Campagne van Widget RTP &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

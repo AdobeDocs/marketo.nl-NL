@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504383
-description: Velden toevoegen aan een Indelingsverkenner-rapport - Marketo Docs - Productdocumentatie
+description: Leer over het toevoegen van gebieden aan een rapport van de opbrengstontdekkingsreiziger in Marketo Engage, met inbegrip van het toevoegen van gebieden aan een opbrengst. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Velden toevoegen aan een Indelingsverkenner-rapport
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -50,4 +50,4 @@ Pas de rapporten van de opbrengstontdekkingsreiziger door afmeting en metrische 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Deleting a Gebied in een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[ Deleting a Gebied in een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

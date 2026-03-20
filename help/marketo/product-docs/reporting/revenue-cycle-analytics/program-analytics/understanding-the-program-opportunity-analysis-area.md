@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951877
-description: Het begrip van het gebied van de Analyse van de Kans van het Programma - de Documenten van Marketo - de Documentatie van het Product
+description: Leer meer over het begrip van het gebied van de programmaopportuniteitsanalyse in Marketo Engage, met inbegrip van het begrijpen van. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Het gebied van de Analyse van de Kans van het Programma
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '919'
 ht-degree: 0%
 
 ---
@@ -169,7 +169,7 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
   </tr>
   <tr>
    <td>Opportuniteitskenmerken</td>
-   <td>De Naam van de Eigenaar van de Kans van de Kans van de kans gesloten <br> &lbrace;<br> Naam van de Kans van het Stadium van de Kans <br> Type<br></td>
+   <td>De Naam van de Eigenaar van de Kans van de Kans van de kans gesloten <br> {<br> Naam van de Kans van het Stadium van de Kans <br> Type<br></td>
   </tr>
   <tr>
    <td>Tijdskader voor opportunity</td>
@@ -190,4 +190,4 @@ _&#42;Alle Kansen die om het even welk type van attributiecrediet aan een Progra
 
 >[!MORELIKETHIS]
 >
->[&#x200B; creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[ creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

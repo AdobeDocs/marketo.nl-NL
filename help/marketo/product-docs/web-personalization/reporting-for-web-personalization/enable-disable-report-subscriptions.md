@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949162
-description: Rapportabonnementen inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe te om rapportabonnementen voor de e-mailrapporten van Personalization van het Web in of onbruikbaar te maken. Selecteer rapporten en frequenties in Gebruikersinstellingen om uw geautomatiseerde e-mailmeldingen aan te passen.
 title: Rapportabonnementen in-/uitschakelen
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '80'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. Selecteer het rapport u aan wilt intekenen en het is frequentie. Klik op **[!UICONTROL Save]**.
+1. Selecteer het rapport u aan wilt intekenen en het is frequentie. Klik op **[!UICONTROL Save]** .
 
    ![](assets/email-settings.png)
 

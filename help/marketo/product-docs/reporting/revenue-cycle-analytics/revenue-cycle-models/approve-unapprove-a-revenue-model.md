@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718687
-description: Goedkeuren/goedkeuren van een inkomstenmodel - Marketo Docs - Productdocumentatie
+description: Leer hoe u een inkomstenmodel in Marketo Engage goedkeurt/goedkeurt met een goedgekeurd inkomstenmodel. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een inkomstenmodel goedkeuren/goedkeuren
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ U kunt op elk moment slechts één goedgekeurd model hebben.
 
 >[!CAUTION]
 >
->[&#x200B; Individuele stadia moeten worden goedgekeurd &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
+>[ Individuele stadia moeten worden goedgekeurd ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
 
 ## Goedkeuren {#approve}
 
@@ -33,7 +33,7 @@ U kunt op elk moment slechts één goedgekeurd model hebben.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Er verschijnt een dialoogvenster waarin u uw keuze kunt bevestigen. Klik op **[!UICONTROL Approve]**.
+1. Er verschijnt een dialoogvenster waarin u uw keuze kunt bevestigen. Klik op **[!UICONTROL Approve]** .
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 

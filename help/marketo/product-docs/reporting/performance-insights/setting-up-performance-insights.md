@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981145
-description: Prestatie-inzichten instellen - Marketo Docs - Productdocumentatie
+description: Leer hoe u prestatieinzicht instelt door opportuniteitsinstellingen, programmakosten, analysegedrag en succescriteria te configureren. Zorgen voor juiste toewijzing en gegevensstroom voor nauwkeurige rapportage.
 title: Prestatie-inzichten instellen
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
@@ -17,11 +17,11 @@ Voer de onderstaande stappen uit om MPI in te stellen.
 
 ## Opportunity instellen {#opportunity-setup}
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/admin.png)
 
-1. Klik op **[!UICONTROL Revenue Cycle Analytics]**.
+1. Klik op **[!UICONTROL Revenue Cycle Analytics]** .
 
    ![](assets/two-2.png)
 
@@ -56,7 +56,7 @@ Voer de onderstaande stappen uit om MPI in te stellen.
 
 Werk de programmakosten ten minste 12 maanden bij. U kunt dit handmatig doen of de programma-API gebruiken. In dit voorbeeld doen we het handmatig.
 
-1. Klik op **[!UICONTROL Marketing Activities]**.
+1. Klik op **[!UICONTROL Marketing Activities]** .
 
    ![](assets/ma.png)
 
@@ -82,11 +82,11 @@ Werk de programmakosten ten minste 12 maanden bij. U kunt dit handmatig doen of 
 
 Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal moet worden opgenomen in de analyse. Stel het gedrag Analytics (Normaal, Inclusief, Operationeel) in.
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/admin.png)
 
-1. Klik op **[!UICONTROL Tags]**.
+1. Klik op **[!UICONTROL Tags]** .
 
    ![](assets/tags.png)
 
@@ -106,7 +106,7 @@ Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal mo
 
    ![](assets/success.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/save.png)
 

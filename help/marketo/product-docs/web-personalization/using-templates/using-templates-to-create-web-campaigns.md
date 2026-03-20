@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949168
-description: Het gebruiken van Malplaatjes om de Campagnes van het Web tot stand te brengen - de Documenten van Marketo - de Documentatie van het Product
+description: Leer hoe u sjablonen gebruikt om webcampagnes te maken in Marketo Engage met behulp van sjablonen om webcampagnes te maken. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Webcampagnes maken met sjablonen
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 2%
 
 ---
 
 # Webcampagnes maken met sjablonen {#using-templates-to-create-web-campaigns}
 
-Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze ingebouwde malplaatjes te gebruiken of door [&#x200B; uw te bewaren &#x200B;](save-your-campaign-as-a-template.md).
+Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze ingebouwde malplaatjes te gebruiken of door [ uw te bewaren ](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klik op **[!UICONTROL Create New Web Campaign]**.
+1. Klik op **[!UICONTROL Create New Web Campaign]** .
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +35,7 @@ Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klik op **[!UICONTROL Templates]**.
+1. Klik op **[!UICONTROL Templates]** .
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze
 
    ![](assets/customize-template.jpg)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/click-save-hand.jpg)
 
@@ -63,4 +63,4 @@ Echt waar! Heb je gezien hoeveel tijd je hebt bespaard door een sjabloon te gebr
 
 >[!MORELIKETHIS]
 >
->[&#x200B; sparen een Campagne als Malplaatje &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
+>[ sparen een Campagne als Malplaatje ](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)

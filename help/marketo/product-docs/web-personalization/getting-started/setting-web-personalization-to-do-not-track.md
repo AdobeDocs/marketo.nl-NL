@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11382593
-description: Web Personalization instellen op Niet bijhouden - Marketo Docs - Productdocumentatie
+description: Meer informatie over het instellen van webpersonalisatie om webpersonalisatie niet te volgen in Marketo Engage, zoals het instellen van webpersonalisatie op. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Web Personalization instellen op Niet bijhouden
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

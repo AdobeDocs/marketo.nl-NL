@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360423
-description: Alle leads zoeken in een Revenue Cycle Model - Marketo Docs - Productdocumentatie
+description: Leer hoe u alle leads kunt vinden in een model voor de inkomstencyclus in Marketo Engage door alle leads te zoeken in een inkomstencyclus. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Alle leads zoeken in een inkomstencyclusmodel
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
 >[!PREREQUISITES]
 >
->[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Selecteer de slimme lijst en klik op de tab **[!UICONTROL Smart List]** .
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719348
-description: Label uw segment - Marketo Docs - Productdocumentatie
+description: Leer hoe te om uw segment in Marketo Engage te etiketteren gebruikend etiket uw segment label-uw-segment. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Uw segment labelen
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---

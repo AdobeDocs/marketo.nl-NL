@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504047
-description: Een rapport van Revenue Explorer maken - Marketo Docs - Productdocumentatie
+description: Leer hoe u in Marketo Engage een rapport voor de inkomstenverkenner maakt door een rapport voor de inkomstenverkenner te maken. Gebruik deze handleiding om de volgende stap te voltooien.
 title: Een rapport van de inkomstenverkenner maken
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Met het [!UICONTROL Revenue Explorer] -rapport kunt u het investeringsrendement 
 
 >[!IMPORTANT]
 >
->De prullenmand in Revenue Cycle Explorer is tijdelijk verborgen vanwege een technisch probleem. We werken momenteel aan een oplossing en uw bestanden zijn veilig. Gelieve te contacteren {de Steun van 0} Adobe [&#x200B; als er om het even welke dossiers zijn u moet worden hersteld.](https://nation.marketo.com/t5/support/ct-p/Support)
+>De prullenmand in Revenue Cycle Explorer is tijdelijk verborgen vanwege een technisch probleem. We werken momenteel aan een oplossing en uw bestanden zijn veilig. Gelieve te contacteren {de Steun van 0} Adobe [ als er om het even welke dossiers zijn u moet worden hersteld.](https://nation.marketo.com/t5/support/ct-p/Support)
 
 1. Ga naar het **[!UICONTROL Revenue Explorer]** -gebied.
 
@@ -41,5 +41,5 @@ Met het [!UICONTROL Revenue Explorer] -rapport kunt u het investeringsrendement 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Toevoegend Gebieden aan a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [&#x200B; Toevoegend de Maatregelen van de Douane aan a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [ Toevoegend Gebieden aan a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [ Toevoegend de Maatregelen van de Douane aan a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
