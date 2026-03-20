@@ -85,4 +85,4 @@ CSS-code toevoegen aan het script:
 >
 >* [&#x200B; geef CSS van een Thema van de Vorm uit &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [&#x200B; toon Dank u Bericht zonder een follow-up het landen Pagina &#x200B;](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [&#x200B; Forms 2.0 &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [&#x200B; Forms 2.0 &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

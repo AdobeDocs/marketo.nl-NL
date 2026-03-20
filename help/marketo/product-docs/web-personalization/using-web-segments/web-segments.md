@@ -187,7 +187,7 @@ Selecteer van a [&#x200B; Benoemde Lijst van de Rekening &#x200B;](/help/marketo
 
 >[!NOTE]
 >
->Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [&#x200B; Gelezen API &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Het aantal in de steunen naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor Personalization van het Web [&#x200B; Gelezen API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **sluit ISP** uit
 
@@ -286,7 +286,7 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 
 **de Context API van de Gebruiker**
 
-De vraag van Personalization API van het Web [&#x200B; leest meer over het hier.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+De vraag van Personalization API van het Web [&#x200B; leest meer over het hier.](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

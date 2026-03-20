@@ -29,7 +29,7 @@ De eerste keer bezoekt iemand een Marketo [&#x200B; landende pagina &#x200B;](/h
 
    * Klik a [&#x200B; verbinding in een e-mail van Marketo &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Vult een vorm van Marketo [&#x200B; &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) uit.
-   * Gebruikt Marketo [&#x200B; REST API &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) of [&#x200B; Munchkin &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (voor ontwikkelaars) om een anonieme activiteit met een bekend verslag te associëren.
+   * Gebruikt Marketo [&#x200B; REST API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/leads) of [&#x200B; Munchkin &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) API (voor ontwikkelaars) om een anonieme activiteit met een bekend verslag te associëren.
 
    Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.
 
