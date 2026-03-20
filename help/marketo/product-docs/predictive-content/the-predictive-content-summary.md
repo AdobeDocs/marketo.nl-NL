@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384634
-description: Predictive Content Summary - Marketo Docs - Productdocumentatie
+description: Leer meer over het dashboard Samenvatting van voorspellende inhoud en de tabellen, grafieken en belangrijke metriek. Bekijk de beste inhoud, conversietarieven, trends en categoriecontrole om aanbevelingen te optimaliseren.
 title: Het overzicht met voorspellende inhoud
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

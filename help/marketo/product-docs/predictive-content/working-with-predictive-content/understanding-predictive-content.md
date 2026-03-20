@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11384665
-description: Predictieve inhoud begrijpen - Marketo Docs - productdocumentatie
+description: Meer informatie over goedgekeurde titels van voorspellende inhoud, ingeschakelde bronnen, klikken en conversiegegevens. Gebruik filters en datums om te vergelijken hoe aanbevelingen werken op het web en in e-mail.
 title: Voorspelende inhoud
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 # Voorspelende inhoud {#understanding-predictive-content}
 
-Nadat u [&#x200B; een titel voor vooruitlopende inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina [!UICONTROL Predictive Content] worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
+Nadat u [ een titel voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina [!UICONTROL Predictive Content] worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 

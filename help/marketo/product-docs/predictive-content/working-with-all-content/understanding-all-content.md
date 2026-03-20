@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384645
-description: Alle inhoud begrijpen - Marketo Docs - Productdocumentatie
+description: Leer meer over de pagina Alle inhoud, de meetgegevens en hoe categorieën voorspelbare resultaten ordenen. Filteren op categorie en datum en vervolgens inhoud toevoegen, goedkeuren of verwijderen.
 title: Alle inhoud begrijpen
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Filter de inhoud door een of meer categorieën te selecteren. Stel vervolgens de
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg Nieuwe Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md) toe
->* [&#x200B; Inhoud van de Schrapping &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
->* [&#x200B; keur een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
->* [&#x200B; keurt een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md) niet goed
+>* [ voeg Nieuwe Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md) toe
+>* [ Inhoud van de Schrapping ](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [ keur een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
+>* [ keurt een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md) niet goed

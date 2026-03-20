@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385938
-description: Predictieve inhoud voor e-mails bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u voorspellende inhoud instelt voor e-mailberichten met afbeeldingen, knoplabels en categorieën. Schakel goedgekeurde inhoud voor e-mail in de editor voor voorspellende inhoud in.
 title: Voorspelende inhoud voor e-mails bewerken
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
 >[!PREREQUISITES]
 >
->De inhoud moet [&#x200B; voor vooruitlopende inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de [!UICONTROL All Content] pagina worden goedgekeurd.
+>De inhoud moet [ voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de [!UICONTROL All Content] pagina worden goedgekeurd.
 
 1. Klik op de pagina [!UICONTROL Predictive Content] op een titel om de editor te openen.
 
@@ -60,7 +60,7 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Klik indien nodig op het veld **[!UICONTROL Categories]** en voeg categorieën toe aan de inhoud. De opties zijn van de [&#x200B; categorieën u reeds opstelling &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) hebt.
+1. Klik indien nodig op het veld **[!UICONTROL Categories]** en voeg categorieën toe aan de inhoud. De opties zijn van de [ categorieën u reeds opstelling ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) hebt.
 
    ![](assets/eight.png)
 
@@ -74,4 +74,4 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
    >[!NOTE]
    >
-   >In Marketo E-mailredacteur v2.0, kunt u de lay-outmalplaatjes [&#x200B; ook bekijken u gebruikt terwijl u de inhoud toelaat.](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)
+   >In Marketo E-mailredacteur v2.0, kunt u de lay-outmalplaatjes [ ook bekijken u gebruikt terwijl u de inhoud toelaat.](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)

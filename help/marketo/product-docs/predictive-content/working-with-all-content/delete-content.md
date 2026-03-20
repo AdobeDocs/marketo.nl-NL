@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384659
-description: Inhoud verwijderen - Marketo Docs - Productdocumentatie
+description: Leer hoe u inhoud van de pagina Alle inhoud verwijdert wanneer u deze niet meer hoeft bij te houden. Inhoud verwijderen via handelingen voor inhoud om de lijst actueel te houden.
 title: Inhoud verwijderen
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---

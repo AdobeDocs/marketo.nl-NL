@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981204
-description: Voorspelend Content Analytics-overzicht - Marketo Docs - Productdocumentatie
+description: Leer meer over voorspellende Content Analytics-dashboards voor de beste weergaven, de conversiesnelheid, de trending content en suggesties. U kunt filteren op kenmerken, datumbereiken instellen en gegevens exporteren om de inhoudsstrategie te verfijnen.
 title: Voorspelend Content Analytics-overzicht
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---

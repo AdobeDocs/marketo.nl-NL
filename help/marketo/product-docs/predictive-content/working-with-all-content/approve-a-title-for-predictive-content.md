@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384661
-description: Een titel voor preventieve inhoud goedkeuren - Marketo Docs - Productdocumentatie
+description: Leer hoe u een titel voor preventieve inhoud goedkeurt via de pagina Alle inhoud of de pop-up Inhoud bewerken. Voeg goedgekeurde inhoud toe aan de pagina Predictive Content voor aanbevelingen.
 title: Een titel voor preventieve inhoud goedkeuren
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---

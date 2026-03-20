@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720108
-description: De balk met aanbevelingen voor inhoud inschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u de balk met aanbevelingen voor inhoud kunt inschakelen en opmaken met een voorspellende analyse voor elke URL. Met Inhoudinstellingen kunt u pagina's in- en uitschakelen en kleuren en paden aanpassen.
 title: De balk met aanbevelingen voor inhoud inschakelen
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 >
 >* **bereidt uw Predictieve Inhoud** voor
 >
->   * [&#x200B; geef Voorspelende Inhoud voor E-mail &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) uit of
->   * [&#x200B; geef Voorspelende Inhoud voor Rijke Media &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) uit of
->   * [&#x200B; geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>   * [ geef Voorspelende Inhoud voor E-mail ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) uit of
+>   * [ geef Voorspelende Inhoud voor Rijke Media ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) uit of
+>   * [ geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
->* [&#x200B; keur een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
+>* [ keur een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goed
 
 ## De balk met aanbevelingen voor inhoud inschakelen en aanpassen {#enable-and-customize-the-content-recommendation-bar}
 
@@ -65,4 +65,4 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 
 >[!MORELIKETHIS]
 >
->[&#x200B; laat Voorspelende Inhoud voor Web Rich Media &#x200B;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe
+>[ laat Voorspelende Inhoud voor Web Rich Media ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) toe

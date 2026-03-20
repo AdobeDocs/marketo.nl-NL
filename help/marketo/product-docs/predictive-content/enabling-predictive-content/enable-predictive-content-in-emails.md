@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385020
-description: Predictieve inhoud in e-mails inschakelen - Marketo Docs - Productdocumentatie
+description: Leer hoe u e-mailafbeeldingen voorspellend kunt maken met ContentAI nadat titels zijn goedgekeurd en bewerkt. Open de E-maileditor 2.0, schakel elke afbeelding in, kies categorieën, geef een voorbeeld weer en voltooi de bewerking.
 title: Voorspelende inhoud in e-mails inschakelen
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring vo
 >
 >* **bereidt uw Predictieve Inhoud** voor
 >
->   * [&#x200B; geef Voorspelende Inhoud voor E-mail &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} uit of
->   * [&#x200B; geef Voorspelende Inhoud voor Rijke Media &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} uit of
->   * [&#x200B; geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit &#x200B;](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>   * [ geef Voorspelende Inhoud voor E-mail ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} uit of
+>   * [ geef Voorspelende Inhoud voor Rijke Media ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} uit of
+>   * [ geef Voorspelende Inhoud voor de Bar van de Aanbeveling uit ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [&#x200B; keur een Titel voor Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"} goed
+>* [ keur een Titel voor Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"} goed
 
 ## Voorspelende inhoud toevoegen met de e-maileditor 2.0 {#adding-predictive-content-using-the-email-editor}
 
@@ -85,9 +85,9 @@ Nadat u uw e-mail hebt goedgekeurd, wordt deze voorzien van voorspellende inhoud
 
 ## Voorspelende inhoud toevoegen wanneer de e-maileditor 2.0 niet wordt gebruikt {#adding-predictive-content-when-not-using-the-email-editor}
 
-Als u geen [&#x200B; E-mail 2.0 &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} malplaatje gebruikt, kan het toevoegen van Voorspelende Inhoud aan uw e-mail eenvoudig worden gedaan door een beeld in uw malplaatje als bewerkbaar Marketo beeldelement te etiketteren.
+Als u geen [ E-mail 2.0 ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} malplaatje gebruikt, kan het toevoegen van Voorspelende Inhoud aan uw e-mail eenvoudig worden gedaan door een beeld in uw malplaatje als bewerkbaar Marketo beeldelement te etiketteren.
 
-Leer over de [&#x200B; Marketo-Specifieke syntaxis hier &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
+Leer over de [ Marketo-Specifieke syntaxis hier ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Hier is een voorbeeld van hoe de code eruit moet zien (dit is slechts een voorbeeld, kopieer de onderstaande code niet exact).
 

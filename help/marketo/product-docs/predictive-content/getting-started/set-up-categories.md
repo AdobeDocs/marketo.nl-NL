@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385057
-description: Categorieën instellen - Marketo Docs - Productdocumentatie
+description: Stel categorieën in Voorspelende inhoud in om uw voorspellende resultaten te groeperen op internet of in e-mail. Maak categorietags in Inhoud-instellingen, zodat u eenvoudig kunt filteren en zoeken.
 title: Categorieën instellen
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

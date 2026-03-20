@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384651
-description: Nieuwe inhoud toevoegen - Marketo Docs - Productdocumentatie
+description: Voeg handmatig nieuwe inhoud toe aan de pagina Alle inhoud in Voorspelende inhoud. Voer een titel, URL, afbeelding en categorieën in en geef vervolgens uw goedkeuring voor aanbevelingen.
 title: Nieuwe inhoud toevoegen
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '92'
 ht-degree: 1%
 
 ---
@@ -35,4 +35,4 @@ U kunt inhoud eenvoudig handmatig toevoegen aan de [!UICONTROL All Content] -pag
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Hier is hoe te om het aan [&#x200B; Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) toe te voegen.
+1. Hier is hoe te om het aan [ Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) toe te voegen.

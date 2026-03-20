@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385942
-description: Voorspelende inhoud voor de adviesbalk bewerken - Marketo Docs - Productdocumentatie
+description: Leer hoe u goedgekeurde voorspellende inhoud inschakelt voor de balk met aanbevelingen voor inhoud.
 title: Voorspelende inhoud voor de balk met aanbevelingen bewerken
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '73'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor de Bar van de Aanbevelin
 
 >[!PREREQUISITES]
 >
->De inhoud moet [&#x200B; voor vooruitlopende inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de Al pagina van de Inhoud worden goedgekeurd.
+>De inhoud moet [ voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de Al pagina van de Inhoud worden goedgekeurd.
 
 1. Klik op de pagina **[!UICONTROL Predictive Content]** op een titel om de editor te openen.
 
