@@ -48,4 +48,4 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
 
    >[!MORELIKETHIS]
    >
-   >Om uw rapport door specifieke persoonattributen te beperken, kunt u [ Mensen in een Rapport met een Slimme Lijst ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) filtreren.
+   >Om uw rapport door specifieke persoonattributen te beperken, kunt u [&#x200B; Mensen in een Rapport met een Slimme Lijst &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) filtreren.

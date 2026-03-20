@@ -29,4 +29,4 @@ U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
 
    >[!MORELIKETHIS]
    >
-   >[ Rapport van de Soort op Kolommen ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[&#x200B; Rapport van de Soort op Kolommen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

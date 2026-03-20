@@ -169,7 +169,7 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
   </tr>
   <tr>
    <td>Opportuniteitskenmerken</td>
-   <td>De Naam van de Eigenaar van de Kans van de Kans van de kans gesloten <br> {<br> Naam van de Kans van het Stadium van de Kans <br> Type<br></td>
+   <td>De Naam van de Eigenaar van de Kans van de Kans van de kans gesloten <br> &lbrace;<br> Naam van de Kans van het Stadium van de Kans <br> Type<br></td>
   </tr>
   <tr>
    <td>Tijdskader voor opportunity</td>
@@ -190,4 +190,4 @@ _&#42;Alle Kansen die om het even welk type van attributiecrediet aan een Progra
 
 >[!MORELIKETHIS]
 >
->[ creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[&#x200B; creeer een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

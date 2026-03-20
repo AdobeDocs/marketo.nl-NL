@@ -35,4 +35,4 @@ Maak een duplicaat van uw rapport om het verder aan te passen zonder het origine
 
    >[!MORELIKETHIS]
    >
-   >[ Mensen van de Filter in een Rapport met een Slimme Lijst ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
+   >[&#x200B; Mensen van de Filter in een Rapport met een Slimme Lijst &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)

@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Rapport over prestaties van mensen {#people-performance-report}
 
-Gebruik een [!UICONTROL People Performance] -rapport om de databasegroei in de loop van de tijd te meten. U kunt zien hoeveel mensen u hebt toegevoegd en wanneer. Meer weten over de mensen en uw programma&#39;s beoordelen. Groepeer de resultaten door om het even welke persoon of bedrijfattributen, of door [ segmentatie ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+Gebruik een [!UICONTROL People Performance] -rapport om de databasegroei in de loop van de tijd te meten. U kunt zien hoeveel mensen u hebt toegevoegd en wanneer. Meer weten over de mensen en uw programma&#39;s beoordelen. Groepeer de resultaten door om het even welke persoon of bedrijfattributen, of door [&#x200B; segmentatie &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL People Performance]** [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [&#x200B; creeer een rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **[!UICONTROL People Performance]** [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
+1. [&#x200B; plaats het tijdkader van uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **[!UICONTROL Report]** lusje.
 
 1. Geweldig! Nu bent u klaar om uw [!UICONTROL People Performance] rapport te onderzoeken. Leer hoe u er nog meer van kunt krijgen in de onderstaande lijst.
 
@@ -33,8 +33,8 @@ Gebruik een [!UICONTROL People Performance] -rapport om de databasegroei in de l
 
 U kunt:
 
-* [ de lood van de Groep door lood of bedrijfattributen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
-* [ de lood van de Groep door segment ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+* [&#x200B; de lood van de Groep door lood of bedrijfattributen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+* [&#x200B; de lood van de Groep door segment &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 * [Slimme lijsten gebruiken als aangepaste rapportkolommen.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 * [Voeg opportuniteitsmetriek toe als rapportkolommen.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md)
 * [Boor neer om meer over de lood in een specifieke rij te leren.](/help/marketo/product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
@@ -44,4 +44,4 @@ U kunt:
 
   >[!TIP]
   >
-  >Herinner dat de rapporten gemakkelijk zijn om [ te creëren ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), te vormen en [ te schrappen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Ga door en speel met de vele manieren u hen kunt manipuleren, om de beste manieren te leren om zich op zeer belangrijke gegevens te concentreren.
+  >Herinner dat de rapporten gemakkelijk zijn om [&#x200B; te creëren &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), te vormen en [&#x200B; te schrappen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Ga door en speel met de vele manieren u hen kunt manipuleren, om de beste manieren te leren om zich op zeer belangrijke gegevens te concentreren.

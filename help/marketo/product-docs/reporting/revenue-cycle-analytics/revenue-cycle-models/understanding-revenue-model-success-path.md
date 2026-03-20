@@ -31,7 +31,7 @@ Voorbeelden van stappen op een pad met succes:
 
 >[!TIP]
 >
->Groen is voor geld. Alles op de weg naar groen is op weg naar succes! Dat is waarom er slechts groene pijlen in de [ Analysator van de Weg van het Succes ](using-the-success-path-analyzer.md) zijn.
+>Groen is voor geld. Alles op de weg naar groen is op weg naar succes! Dat is waarom er slechts groene pijlen in de [&#x200B; Analysator van de Weg van het Succes &#x200B;](using-the-success-path-analyzer.md) zijn.
 
 ## Detours {#detours}
 

@@ -19,12 +19,12 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 
 >[!PREREQUISITES]
 >
->* [ voeg Munchkin het Volgen Code aan Uw Website toe ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
+>* [&#x200B; voeg Munchkin het Volgen Code aan Uw Website toe &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [ creeer een rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **Rapport van de Activiteit van de Pagina van het Web** [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
-1. Kies aan [ vertoning gekende of anonieme mensen ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} in het rapport.
+1. [&#x200B; creeer een rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **Rapport van de Activiteit van de Pagina van het Web** [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+1. Kies aan [&#x200B; vertoning gekende of anonieme mensen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"} in het rapport.
 
-1. [ plaats het tijdkader van uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} en klik het **Rapport** tabel.
+1. [&#x200B; plaats het tijdkader van uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"} en klik het **Rapport** tabel.
 
 1. Je hebt het! Controleer uw rapport om te zien wie uw site bezoekt.
 
@@ -36,10 +36,10 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 
    >[!TIP]
    >
-   >Om te weten te komen wie uw plaats het meest bezoekt, [ sorteer uw rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op de _kolom van de Kijken van de Pagina_ en kies Aflopend Soort.
+   >Om te weten te komen wie uw plaats het meest bezoekt, [&#x200B; sorteer uw rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} op de _kolom van de Kijken van de Pagina_ en kies Aflopend Soort.
 
-   [ Marketo voegt anonieme ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} websitebezoekers aan uw gegevensbestand toe en u kunt verkiezen om hen in dit rapport te tonen. Het biedt een schat aan informatie, ook al zijn ze anoniem.
-   [ Kolommen die u ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} voor een rapport van de Activiteit van de Web-pagina kunt selecteren omvatten:
+   [&#x200B; Marketo voegt anonieme &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"} websitebezoekers aan uw gegevensbestand toe en u kunt verkiezen om hen in dit rapport te tonen. Het biedt een schat aan informatie, ook al zijn ze anoniem.
+   [&#x200B; Kolommen die u &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} voor een rapport van de Activiteit van de Web-pagina kunt selecteren omvatten:
 
 <table>
  <thead>
@@ -82,9 +82,9 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 
 >[!TIP]
 >
->Schrijf je verkoopvertegenwoordigers! [ filter het rapport ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} voor hun gebied en [ onderteken hen aan het ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
+>Schrijf je verkoopvertegenwoordigers! [&#x200B; filter het rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} voor hun gebied en [&#x200B; onderteken hen aan het &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
 
 >[!MORELIKETHIS]
 >
->* [ Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md){target="_blank"}
->* [ Mensen van de vertoning of Anonieme Bezoekers in de Rapporten van het Web ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}
+>* [&#x200B; Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md){target="_blank"}
+>* [&#x200B; Mensen van de vertoning of Anonieme Bezoekers in de Rapporten van het Web &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}

@@ -21,7 +21,7 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 >
 >U hebt minstens één metrisch in uw rapport nodig, maar het moet niet één van de maatregelen zijn u gebruikt om uw douanemaatregel te bepalen.
 
-1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor details.
+1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [&#x200B; Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor details.
 
 1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel), klik op **[!UICONTROL User Defined Measure]** en selecteer **[!UICONTROL Calculated Measure]** .
 
@@ -49,4 +49,4 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 
    >[!MORELIKETHIS]
    >
-   >[ Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[&#x200B; Toevoegend Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

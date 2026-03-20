@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Een willekeurig rapport in **[!UICONTROL My Reports]** is alleen voor u zichtbaar. Wat als u het verslag toegankelijk wilde maken voor alle anderen? Zo kunt u dat doen:
 
-1. In het **[!UICONTROL Analytics]** gebied, klik op het gewenste [ bewaarde rapport ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. In het **[!UICONTROL Analytics]** gebied, klik op het gewenste [&#x200B; bewaarde rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 

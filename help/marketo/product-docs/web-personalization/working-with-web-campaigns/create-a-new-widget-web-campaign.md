@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Nieuwe widgetwebcampagne maken {#create-a-new-widget-web-campaign}
 
-Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en kan a [ dialoogdoos ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website, a [ in streekvervanging ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), een widgeteigenschap, of een e-mailalarm zijn. De widgetwebcampagne is een tekst of banner die aan de verticale zijde van uw webpagina wordt weergegeven en die u kunt uitbreiden en inkrimpen, terwijl u tijdens het bezoek de webpagina blijft zoeken.
+Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en kan a [&#x200B; dialoogdoos &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website, a [&#x200B; in streekvervanging &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), een widgeteigenschap, of een e-mailalarm zijn. De widgetwebcampagne is een tekst of banner die aan de verticale zijde van uw webpagina wordt weergegeven en die u kunt uitbreiden en inkrimpen, terwijl u tijdens het bezoek de webpagina blijft zoeken.
 
 ## Een widgetwebcampagne maken {#create-a-widget-web-campaign}
 
@@ -95,7 +95,7 @@ Een Webcampagne is een aangepaste reactie verbonden aan een specifiek segment en
 
 >[!NOTE]
 >
->**wil A/B uw Webcampagnes testen?** Één of meerdere Webcampagnes kunnen [ A/B worden getest voor optimale resultaten ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Met de functie [!UICONTROL Auto Tune] herkent het platform automatisch de beter presterende campagnes, gaat het verder met de hoogste conversiecampagnes en pauzeert het de andere campagnes.
+>**wil A/B uw Webcampagnes testen?** Één of meerdere Webcampagnes kunnen [&#x200B; A/B worden getest voor optimale resultaten &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Met de functie [!UICONTROL Auto Tune] herkent het platform automatisch de beter presterende campagnes, gaat het verder met de hoogste conversiecampagnes en pauzeert het de andere campagnes.
 
 ## Een webcampagne bewerken {#edit-a-web-campaign}
 
@@ -105,11 +105,11 @@ Klik op de pagina [!UICONTROL Web Campaigns] op **[!UICONTROL Edit]** in de camp
 
 >[!NOTE]
 >
->Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Een webcampagne klonen {#clone-a-web-campaign}
 
-Zie [ Klonen een Campagne van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
+Zie [&#x200B; Klonen een Campagne van het Web &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md).
 
 ## Een webcampagne voorvertonen {#preview-a-web-campaign}
 
@@ -127,5 +127,5 @@ Klik op de pagina [!UICONTROL Web Campaigns] op **[!UICONTROL Preview]** in de w
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Nieuwe Campagne van het Web van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [ creeer een Nieuwe Campagne van het Web van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [&#x200B; creeer een Nieuwe Campagne van het Web van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [&#x200B; creeer een Nieuwe Campagne van het Web van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)

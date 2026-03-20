@@ -23,9 +23,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
->* [ Schrap een Campagne van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [ Lancering/Pauze een Campagne ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
+>* [&#x200B; Schrap een Campagne van het Web &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [&#x200B; Lancering/Pauze een Campagne &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

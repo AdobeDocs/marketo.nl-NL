@@ -21,7 +21,7 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
    >[!NOTE]
    >
-   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [ aan een BasisRapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) intekenen.
+   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [&#x200B; aan een BasisRapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) intekenen.
 
 1. Selecteer **[!UICONTROL Report Source]** bij **[!UICONTROL Revenue Explorer]** .
 
@@ -45,4 +45,4 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
 >[!MORELIKETHIS]
 >
->Leer hoe te [ om al uw rapportabonnementen ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.
+>Leer hoe te [&#x200B; om al uw rapportabonnementen &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.

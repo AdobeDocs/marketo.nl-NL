@@ -57,4 +57,4 @@ Nu hebt u uw bezoekers uit de Verenigde Staten gesegmenteerd, ga door en voeg de
 
 >[!MORELIKETHIS]
 >
->[ Segmenten van het Web ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+>[&#x200B; Segmenten van het Web &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)

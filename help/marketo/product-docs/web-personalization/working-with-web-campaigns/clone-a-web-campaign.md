@@ -23,13 +23,13 @@ Met de kloonfunctie op de pagina [!UICONTROL Web Campaigns] kunt u de campagne-i
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [ filtereigenschap ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik de [&#x200B; filtereigenschap &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Voor de Webcampagne, klik **Kloon**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde Webcampagne is gerechtigd, &quot;[ Exemplaar van de NAAM van 0} CAMPAIGN&quot;.]
+1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde Webcampagne is gerechtigd, &quot;[ Exemplaar van de NAAM van 0&rbrace; CAMPAIGN&quot;.]
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
@@ -39,6 +39,6 @@ Met de kloonfunctie op de pagina [!UICONTROL Web Campaigns] kunt u de campagne-i
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [&#x200B; creeer een Campagne van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [&#x200B; creeer een RTP in de Campagne van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [&#x200B; creeer een Campagne van Widget RTP &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

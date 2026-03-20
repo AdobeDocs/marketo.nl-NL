@@ -74,4 +74,4 @@ De intent van de uitgang zal de Webcampagne tonen wanneer de muiscurseur van bro
 
 >[!TIP]
 >
->Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Controle hen uit via een [ Voorproef van de Campagne van het Web ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Controle hen uit via een [&#x200B; Voorproef van de Campagne van het Web &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

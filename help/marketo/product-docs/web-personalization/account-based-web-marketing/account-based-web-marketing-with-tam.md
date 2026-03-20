@@ -23,7 +23,7 @@ Wanneer u Marketo [!UICONTROL Web Personalization] en [!UICONTROL Target Account
 
    * **Nota**: De synchronisatie kan tot 5 minuten vergen
 
-* In [!UICONTROL Web Personalization], kunt u [ segmenten tot stand brengen richtend rekeningen van de Lijst van de Rekening ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) u in TAM creeerde, en inhoud voor deze rekeningen personaliseren
+* In [!UICONTROL Web Personalization], kunt u [&#x200B; segmenten tot stand brengen richtend rekeningen van de Lijst van de Rekening &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) u in TAM creeerde, en inhoud voor deze rekeningen personaliseren
 
 ## Voor bestaande ABWM-klanten {#for-existing-abwm-customers}
 

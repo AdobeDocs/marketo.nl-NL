@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aangepaste kolommen toevoegen aan een Persrapport {#add-custom-columns-to-a-person-report}
 
-U kunt de metriek in uw persoonrapporten verder filtreren door uw [ slimme lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als douanekolommen te gebruiken.
+U kunt de metriek in uw persoonrapporten verder filtreren door uw [&#x200B; slimme lijsten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als douanekolommen te gebruiken.
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** (of **[!UICONTROL Analytics]** ) gebied.
 
@@ -37,4 +37,4 @@ U kunt de metriek in uw persoonrapporten verder filtreren door uw [ slimme lijst
 
    >[!MORELIKETHIS]
    >
-   >U kunt ook [ de Kolommen van de Opportunity aan een Rapport van het Lood ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md) toevoegen.
+   >U kunt ook [&#x200B; de Kolommen van de Opportunity aan een Rapport van het Lood &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md) toevoegen.

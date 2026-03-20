@@ -23,7 +23,7 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
 
    >[!NOTE]
    >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in de [ Slimme Diep Duik van de Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in de [&#x200B; Slimme Diep Duik van de Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep de trigger naar het canvas.
 
@@ -57,10 +57,10 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
    >
    >Bij meerdere triggers gaat een persoon door naar de flow als een van de triggers wordt geactiveerd.
 
-   Om de campagne op een reeks mensen in werking te stellen allen tezelfdertijd, leer hoe te [ bepalen Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md) .
+   Om de campagne op een reeks mensen in werking te stellen allen tezelfdertijd, leer hoe te [&#x200B; bepalen Slimme Lijst voor Slimme Campagne | Batch &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md) .
 
    >[!MORELIKETHIS]
    >
-   >* [ bepaalt Slimme Lijst voor Slimme Campagne | Batch ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [ voeg een Stap van de Stroom aan een Slimme Campagne toe ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [ bepaal een Slimme Lijst voor de Activiteiten van de Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [&#x200B; bepaalt Slimme Lijst voor Slimme Campagne | Batch &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [&#x200B; voeg een Stap van de Stroom aan een Slimme Campagne toe &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [&#x200B; bepaal een Slimme Lijst voor de Activiteiten van de Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

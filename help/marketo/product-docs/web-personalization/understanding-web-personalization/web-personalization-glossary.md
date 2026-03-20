@@ -23,7 +23,7 @@ Sommige inzichten in de wereld en taal van [!DNL Marketo Web Personalization].
 | **ISP** | Internet Service Provider |
 | **Bekende Bezoeker** | Een webbezoeker die een formulier heeft ingevuld en zijn gegevens (e-mailadres) op uw website heeft achtergelaten of op een koppeling in een Marketo-e-mailbericht heeft geklikt. |
 | **Lijst van de Rekening** | Een lijst met sleutelnamen voor accounts en organisaties. Wordt ook wel een Account-Based Marketing-lijst (ABM) genoemd. |
-| **Segmenten** | Een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina [ Een segment instellen ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) . |
+| **Segmenten** | Een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina [&#x200B; Een segment instellen &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) . |
 | **Splitsen het Testen** | Een testexperiment met twee of meer varianten om het verschil in resultaten te meten. Het doel is om wijzigingen in webpagina&#39;s vast te stellen die het resultaat van interesse verhogen of maximaliseren. |
 | **Jokerteken** | Een vervangingskarakter (&#42; wordt gebruikt) dat vóór of na een koord wordt gebruikt om een ander karakter of karakters in een koord te vervangen. Zie de onderstaande voorbeelden. |
 

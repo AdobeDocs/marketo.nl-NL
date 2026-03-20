@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gedrag Analytics negeren op programmaniveau {#override-analytics-behavior-at-the-program-level}
 
-U kunt het [ analysegedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen maar u kunt het op het programmaniveau ook met voeten treden. Hieronder wordt beschreven hoe:
+U kunt het [&#x200B; analysegedrag op het admin niveau op kanalen &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen maar u kunt het op het programmaniveau ook met voeten treden. Hieronder wordt beschreven hoe:
 
 1. Ga naar het **[!UICONTROL Marketing Activities]** -gebied.
 

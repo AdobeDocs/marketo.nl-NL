@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # De Padanalyse met succes gebruiken {#using-the-success-path-analyzer}
 
-Gebruik Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw [ Model van de Cyclus van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) weerspiegelen.
+Gebruik Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw [&#x200B; Model van de Cyclus van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) weerspiegelen.
 
 >[!PREREQUISITES]
 >
->[ creeer een Analysator van de Weg van het Succes ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[&#x200B; creeer een Analysator van de Weg van het Succes &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Ga naar **[!UICONTROL Analytics]** en selecteer uw **Analysator van de Weg van het Succes**.
 

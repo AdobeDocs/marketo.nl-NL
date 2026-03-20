@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Categoriseer standaard- of aangepaste velden in groepen voor rapportage via de veldOrganizer in Marketo. Voor details, zie [ de Groepen van het Gebied van de Douane via de Organisator van het Gebied ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md) creëren.
+>Categoriseer standaard- of aangepaste velden in groepen voor rapportage via de veldOrganizer in Marketo. Voor details, zie [&#x200B; de Groepen van het Gebied van de Douane via de Organisator van het Gebied &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md) creëren.
 
 <table>
  <tbody>

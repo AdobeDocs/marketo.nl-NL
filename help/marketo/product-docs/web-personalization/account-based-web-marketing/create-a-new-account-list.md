@@ -17,7 +17,7 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 >[!NOTE]
 >
->Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u het Web ABM na September van 2016 verwierf, te volgen gelieve de stappen in [ dit artikel ](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
+>Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u het Web ABM na September van 2016 verwierf, te volgen gelieve de stappen in [&#x200B; dit artikel &#x200B;](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list-1}
 
@@ -86,4 +86,4 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 
 >[!MORELIKETHIS]
 >
->[ creeer een Segment Gebruikend een Lijst van de Rekening ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[&#x200B; creeer een Segment Gebruikend een Lijst van de Rekening &#x200B;](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

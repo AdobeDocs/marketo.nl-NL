@@ -17,7 +17,7 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
 >[!PREREQUISITES]
 >
->[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Selecteer de slimme lijst en klik op de tab **[!UICONTROL Smart List]** .
 

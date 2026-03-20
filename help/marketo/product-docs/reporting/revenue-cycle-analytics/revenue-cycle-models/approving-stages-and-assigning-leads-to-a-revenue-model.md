@@ -39,9 +39,9 @@ Uitstekend! Laten we verder gaan en die leads toewijzen.
 
 ## Bestaande leads toewijzen {#assigning-existing-leads}
 
-[ creeer een Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de lood voor één stadium van uw model in uw Gegevensbestand van de Lood te identificeren.
+[&#x200B; creeer een Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de lood voor één stadium van uw model in uw Gegevensbestand van de Lood te identificeren.
 
-1. Zodra u [ uw Slimme Lijst ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gecreeerd, klik het **[!UICONTROL Leads]** lusje.
+1. Zodra u [&#x200B; uw Slimme Lijst &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gecreeerd, klik het **[!UICONTROL Leads]** lusje.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 

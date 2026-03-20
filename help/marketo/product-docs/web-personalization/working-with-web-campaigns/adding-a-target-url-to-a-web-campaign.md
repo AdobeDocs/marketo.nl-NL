@@ -57,7 +57,7 @@ Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wo
 >[!NOTE]
 >
 >* Dialoog- en widgetwebcampagnes kunnen de opties Pagina en Jokerteken (&#42;) gebruiken.
->* In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [ www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [&#x200B; www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL is hoofdlettergevoelig
 
 ## Een doel-URL toevoegen voor webcampagnes in zone {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -74,12 +74,12 @@ Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wo
 
    >[!NOTE]
    >
-   >Doel-URL met In zones moet een specifieke URL of URL&#39;s definiëren. In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [ www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >Doel-URL met In zones moet een specifieke URL of URL&#39;s definiëren. In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [&#x200B; www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Campagne van de Dialoog ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [ creeer een RTP in de Campagne van de Zone ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [ creeer een Campagne van Widget RTP ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [&#x200B; creeer een Campagne van de Dialoog &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [&#x200B; creeer een RTP in de Campagne van de Zone &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [&#x200B; creeer een Campagne van Widget RTP &#x200B;](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

@@ -21,7 +21,7 @@ Met het [!UICONTROL Revenue Explorer] -rapport kunt u het investeringsrendement 
 
 >[!IMPORTANT]
 >
->De prullenmand in Revenue Cycle Explorer is tijdelijk verborgen vanwege een technisch probleem. We werken momenteel aan een oplossing en uw bestanden zijn veilig. Gelieve te contacteren {de Steun van 0} Adobe [ als er om het even welke dossiers zijn u moet worden hersteld.](https://nation.marketo.com/t5/support/ct-p/Support)
+>De prullenmand in Revenue Cycle Explorer is tijdelijk verborgen vanwege een technisch probleem. We werken momenteel aan een oplossing en uw bestanden zijn veilig. Gelieve te contacteren {de Steun van 0} Adobe [&#x200B; als er om het even welke dossiers zijn u moet worden hersteld.](https://nation.marketo.com/t5/support/ct-p/Support)
 
 1. Ga naar het **[!UICONTROL Revenue Explorer]** -gebied.
 
@@ -41,5 +41,5 @@ Met het [!UICONTROL Revenue Explorer] -rapport kunt u het investeringsrendement 
 
 >[!MORELIKETHIS]
 >
->* [ Toevoegend Gebieden aan a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [ Toevoegend de Maatregelen van de Douane aan a [!UICONTROL Revenue Explorer] Rapport ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [&#x200B; Toevoegend Gebieden aan a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [&#x200B; Toevoegend de Maatregelen van de Douane aan a [!UICONTROL Revenue Explorer] Rapport &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

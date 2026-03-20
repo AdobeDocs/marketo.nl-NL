@@ -39,7 +39,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    >[!NOTE]
    >
-   >U hebt ook de optie om een browser stop-binnen (of [[!DNL Chrome] te installeren ](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [[!DNL Firefox] ](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor de beste ervaring previewing uw campagne. Zie de onderstaande paragraaf.
+   >U hebt ook de optie om een browser stop-binnen (of [[!DNL Chrome] te installeren &#x200B;](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [[!DNL Firefox] &#x200B;](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor de beste ervaring previewing uw campagne. Zie de onderstaande paragraaf.
 
 ## Een webcampagne voorvertonen op de pagina Maken met de plug-in Browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 

@@ -17,7 +17,7 @@ Krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de
 
 >[!PREREQUISITES]
 >
->[ creeer een Nieuw Model van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[&#x200B; creeer een Nieuw Model van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 1. Klik op de tegel **[!UICONTROL Analytics]** .
 
@@ -59,4 +59,4 @@ Nu kunt u de beweging van elk stadium naar het volgende verkennen!
 
 >[!MORELIKETHIS]
 >
->[ Gebruikend de Analysator van de Weg van het Succes ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+>[&#x200B; Gebruikend de Analysator van de Weg van het Succes &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)

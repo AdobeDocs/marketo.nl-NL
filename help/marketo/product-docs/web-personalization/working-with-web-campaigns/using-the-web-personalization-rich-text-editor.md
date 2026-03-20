@@ -51,8 +51,8 @@ De belangrijke pictogrammen in de rijke tekstredacteur omvatten:
 
 >[!NOTE]
 >
->De Tokens van het Web gebruiken [ mensen gegevens ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) van uw [!DNL Marketo Database] die binnen [!DNL Web Personalization] onder [!UICONTROL Account Settings] > [!UICONTROL Database] wordt geleid. Als het webtoken een nieuw databaseveld is dat zich nog niet in [!UICONTROL Account Settings] > [!UICONTROL Database] bevindt, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
+>De Tokens van het Web gebruiken [&#x200B; mensen gegevens &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) van uw [!DNL Marketo Database] die binnen [!DNL Web Personalization] onder [!UICONTROL Account Settings] > [!UICONTROL Database] wordt geleid. Als het webtoken een nieuw databaseveld is dat zich nog niet in [!UICONTROL Account Settings] > [!UICONTROL Database] bevindt, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
 
 >[!MORELIKETHIS]
 >
->[ Gebruikend de Rijke Redacteur van de Tekst ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+>[&#x200B; Gebruikend de Rijke Redacteur van de Tekst &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)

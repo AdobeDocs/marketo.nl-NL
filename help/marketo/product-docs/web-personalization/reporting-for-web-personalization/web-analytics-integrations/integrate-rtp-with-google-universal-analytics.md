@@ -21,7 +21,7 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
 
 **[!DNL Google Universal Analytics]**
 
-[!DNL Google Universal Analytics] met de gegevens van RTP verstrekt u een beter inzicht in hoe de gebruikers van B2B met uw online inhoud in wisselwerking staan en helpen meten en betere resultaten van uw verpersoonlijkingscampagnes krijgen. [ las meer over  [!DNL Google Universal Analytics] ](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
+[!DNL Google Universal Analytics] met de gegevens van RTP verstrekt u een beter inzicht in hoe de gebruikers van B2B met uw online inhoud in wisselwerking staan en helpen meten en betere resultaten van uw verpersoonlijkingscampagnes krijgen. [&#x200B; las meer over  [!DNL Google Universal Analytics] &#x200B;](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1).
 
 >[!NOTE]
 >
@@ -30,10 +30,10 @@ In dit artikel wordt uitgelegd hoe u het [!DNL Marketo Real-Time Personalization
 >Er hoeft geen codering of speciale configuratie te worden uitgevoerd. Controleer of u de volgende checklist invult:
 >
 >* RTP-afmetingen worden gemaakt in [!DNL Google Universal Analytics]
->* [ RTP de markering wordt behoorlijk geïnstalleerd in de Manager van de Markering van Google ](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
+>* [&#x200B; RTP de markering wordt behoorlijk geïnstalleerd in de Manager van de Markering van Google &#x200B;](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
 >* [!DNL Google Universal Analytics] Integratie is ingeschakeld in de accountinstellingen van RTP
->* [[!DNL Google Universal Analytics]  de markering wordt behoorlijk gevormd in de Manager van de Markering van Google ](https://support.google.com/tagmanager/answer/6107124?hl=en)
->* [ de markering van de Manager van de Markering van Google wordt behoorlijk geïnstalleerd uw website ](https://developers.google.com/tag-manager/quickstart)
+>* [[!DNL Google Universal Analytics]  de markering wordt behoorlijk gevormd in de Manager van de Markering van Google &#x200B;](https://support.google.com/tagmanager/answer/6107124?hl=en)
+>* [&#x200B; de markering van de Manager van de Markering van Google wordt behoorlijk geïnstalleerd uw website &#x200B;](https://developers.google.com/tag-manager/quickstart)
 
 ## Aangepaste afmetingen instellen in GUA {#set-up-custom-dimensions-in-gua}
 

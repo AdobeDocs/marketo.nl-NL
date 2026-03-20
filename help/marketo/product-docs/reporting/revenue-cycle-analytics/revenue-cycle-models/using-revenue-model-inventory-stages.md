@@ -25,7 +25,7 @@ Alle bekende leads en accounts bevinden zich aanvankelijk in de voorraadfase. De
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In de **[!UICONTROL Analytics]** sectie, selecteer uw bestaand model, of [ creeer nieuwe ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. In de **[!UICONTROL Analytics]** sectie, selecteer uw bestaand model, of [&#x200B; creeer nieuwe &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 

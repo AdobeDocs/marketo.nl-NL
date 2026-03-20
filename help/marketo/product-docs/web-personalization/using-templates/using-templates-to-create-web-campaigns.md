@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Webcampagnes maken met sjablonen {#using-templates-to-create-web-campaigns}
 
-Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze ingebouwde malplaatjes te gebruiken of door [ uw te bewaren ](save-your-campaign-as-a-template.md).
+Versnel en vereenvoudig uw proces van de de creatie van de Webcampagne door onze ingebouwde malplaatjes te gebruiken of door [&#x200B; uw te bewaren &#x200B;](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -63,4 +63,4 @@ Echt waar! Heb je gezien hoeveel tijd je hebt bespaard door een sjabloon te gebr
 
 >[!MORELIKETHIS]
 >
->[ sparen een Campagne als Malplaatje ](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
+>[&#x200B; sparen een Campagne als Malplaatje &#x200B;](/help/marketo/product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)

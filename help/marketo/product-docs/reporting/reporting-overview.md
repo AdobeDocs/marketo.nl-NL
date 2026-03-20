@@ -16,15 +16,15 @@ Marketo biedt verschillende rapporteringsmodules voor verschillende behoeften.
 
 ## Basisrapportage {#basic-reporting}
 
-U kunt opstelling [ basisrapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} binnen programma&#39;s of in het gebied van Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
+U kunt opstelling [&#x200B; basisrapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} binnen programma&#39;s of in het gebied van Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
 
 ## E-mailinzichten {#email-insights}
 
-Analytics van het gebruik en verzendt om [ krachtige inzichten ](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} op e-mails van historische gegevens te verkrijgen.
+Analytics van het gebruik en verzendt om [&#x200B; krachtige inzichten &#x200B;](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} op e-mails van historische gegevens te verkrijgen.
 
 ## Prestatiegegevens {#performance-insights}
 
-[ de Inzichten van Prestaties ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} behandelen kanaalprestaties en programmaprestaties voor overeenkomst, pijpleiding, en opbrengstgeneratie.
+[&#x200B; de Inzichten van Prestaties &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} behandelen kanaalprestaties en programmaprestaties voor overeenkomst, pijpleiding, en opbrengstgeneratie.
 
 ## Geavanceerde BI-analyserapportage {#advanced-bi-analytics-reporting}
 

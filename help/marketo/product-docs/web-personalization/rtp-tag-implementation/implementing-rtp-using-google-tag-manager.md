@@ -35,7 +35,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren.
 
 1. Klik op **[!UICONTROL Add Rule to Fire Tag]**. Selecteer **[!UICONTROL All Pages]**.
 
-1. Klik **[!UICONTROL Save]** en [ publiceren de nieuwe versie ](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Klik **[!UICONTROL Save]** en [&#x200B; publiceren de nieuwe versie &#x200B;](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Controleer of deze code op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen.
 

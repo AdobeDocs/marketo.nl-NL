@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Assets filteren in een e-mailrapport {#filter-assets-in-an-email-report}
 
-Focus uw [ Prestaties van de E-mail ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [ E-mailPrestaties van de Verbinding ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapport over e-mail in uw programma&#39;s (&quot;lokale activa&quot;), op die in de Studio van het Ontwerp (&quot;globale activa&quot;), of op die die zijn gearchiveerd.
+Focus uw [&#x200B; Prestaties van de E-mail &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [&#x200B; E-mailPrestaties van de Verbinding &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapport over e-mail in uw programma&#39;s (&quot;lokale activa&quot;), op die in de Studio van het Ontwerp (&quot;globale activa&quot;), of op die die zijn gearchiveerd.
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Focus uw [ Prestaties van de E-mail ](/help/marketo/product-docs/email-marketing
 
 >[!MORELIKETHIS]
 >
->[ de Filter Assets in een E-mailrapporten van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>[&#x200B; de Filter Assets in een E-mailrapporten van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)

@@ -76,7 +76,7 @@ Web Personalization voegt momenteel gegevens toe aan de volgende remarketing pla
 
    >[!NOTE]
    >
-   >U moet [[!DNL Facebook]  het Pixel van het Publiek van de Douane hebben ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) uw website voor deze eigenschap geïnstalleerd om te werken.
+   >U moet [[!DNL Facebook]  het Pixel van het Publiek van de Douane hebben &#x200B;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) uw website voor deze eigenschap geïnstalleerd om te werken.
 
    ![](assets/three.png)
 

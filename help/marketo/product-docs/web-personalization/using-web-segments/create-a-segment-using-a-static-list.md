@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een segment maken met een statische lijst {#create-a-segment-using-a-static-list}
 
-Het segment bekende Webbezoekers wanneer zij uw website bezoeken die op wordt gebaseerd als zij binnen of niet in één van uw Marketo [ statische lijsten ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) zijn.
+Het segment bekende Webbezoekers wanneer zij uw website bezoeken die op wordt gebaseerd als zij binnen of niet in één van uw Marketo [&#x200B; statische lijsten &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) zijn.
 
 1. Ga naar **[!UICONTROL Segments]** .
 
@@ -35,11 +35,11 @@ Het segment bekende Webbezoekers wanneer zij uw website bezoeken die op wordt ge
 
    ![](assets/five-2.png)
 
-1. Als u veelvoudige lijsten wilt toevoegen, moet u een nieuwe lijn voor elk tot stand brengen door **+** te klikken. Als u slechts één lijst wilt, overslaan aan [ Stap 8 ](#eight).
+1. Als u veelvoudige lijsten wilt toevoegen, moet u een nieuwe lijn voor elk tot stand brengen door **+** te klikken. Als u slechts één lijst wilt, overslaan aan [&#x200B; Stap 8 &#x200B;](#eight).
 
    ![](assets/six-1.png)
 
-1. Voor veelvoudige lijsten (of de veelvoudige &quot;is niet&quot;lijsten), herhaal de stappen u in [ Stap 5 ](#five) leerde.
+1. Voor veelvoudige lijsten (of de veelvoudige &quot;is niet&quot;lijsten), herhaal de stappen u in [&#x200B; Stap 5 &#x200B;](#five) leerde.
 
    ![](assets/seven-2.png)
 

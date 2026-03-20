@@ -23,7 +23,7 @@ Vorm en schrap rapportabonnementen.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Deze pagina toont de abonnementen aan alle rapporten in uw rekening, die door [ rapporttype ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [ abonnementen aan basisrapporten ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) en aan de rapporten van de Ontdekkingsreiziger van de Cyclus van de Opbrengst.
+   Deze pagina toont de abonnementen aan alle rapporten in uw rekening, die door [&#x200B; rapporttype &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [&#x200B; abonnementen aan basisrapporten &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) en aan de rapporten van de Ontdekkingsreiziger van de Cyclus van de Opbrengst.
 
    >[!TIP]
    >
@@ -60,5 +60,5 @@ Vorm en schrap rapportabonnementen.
 
    >[!MORELIKETHIS]
    >
-   >* [ Abonneren aan een BasisRapport ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [ Abonneren aan een Rapport van de Ontdekkingsreiziger van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >* [&#x200B; Abonneren aan een BasisRapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [&#x200B; Abonneren aan een Rapport van de Ontdekkingsreiziger van de Opbrengst &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

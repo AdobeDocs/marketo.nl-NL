@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een campagneactiviteitenrapport filteren {#filter-a-campaign-activity-report}
 
-Focus uw [ Rapport van de Activiteit van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) op specifieke [ slimme campagnes ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+Focus uw [&#x200B; Rapport van de Activiteit van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) op specifieke [&#x200B; slimme campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ Focus uw [ Rapport van de Activiteit van de Campagne ](/help/marketo/product-doc
 
 >[!MORELIKETHIS]
 >
->[ Rapport van de Prestaties van e-mail van de Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+>[&#x200B; Rapport van de Prestaties van e-mail van de Campagne &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)

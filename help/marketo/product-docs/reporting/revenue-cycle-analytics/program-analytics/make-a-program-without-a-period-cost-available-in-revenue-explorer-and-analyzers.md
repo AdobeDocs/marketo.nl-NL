@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit toont omhoog in de Ontdekkingsreiziger van de Cyclus van de Opbrengst en [ analysatoren ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit toont omhoog in de Ontdekkingsreiziger van de Cyclus van de Opbrengst en [&#x200B; analysatoren &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Mooi werk! Elk programma dat gebruikmaakt van het gewijzigde kanaal zal nu worde
 
 >[!MORELIKETHIS]
 >
->[ het Gedrag van de Analyse van de Opheffing op het Niveau van het Programma ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+>[&#x200B; het Gedrag van de Analyse van de Opheffing op het Niveau van het Programma &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
