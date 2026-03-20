@@ -35,4 +35,4 @@ U kunt inhoud eenvoudig handmatig toevoegen aan de [!UICONTROL All Content] -pag
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Hier is hoe te om het aan [ Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) toe te voegen.
+1. Hier is hoe te om het aan [&#x200B; Voorspelende Inhoud &#x200B;](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) toe te voegen.

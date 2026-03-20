@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Inhoudspatronen maken {#create-content-patterns}
 
-Wanneer u inhoudspatronen instelt, wordt inhoud automatisch gedetecteerd wanneer een webbezoeker op de HTML-webpagina klikt die relevant is voor het inhoudspatroon. Hiermee worden HTML-pagina&#39;s (blogberichten, persberichten, nieuwsartikelen) toegevoegd als inhoudsonderdelen op de pagina Alle inhoud. Wanneer automatische detectie is gebaseerd op inhoudspatronen, worden HTML-pagina&#39;s die verwant zijn aan het gedefinieerde URL-patroon, opgespoord en bijgehouden wanneer een webbezoeker een koppeling naar de pagina weergeeft of klikt. Dit inhoudsonderdeel (de URL, de paginanaam en de metagegevens inclusief de URL en beschrijving van de afbeelding) wordt toegevoegd aan de pagina Alle inhoud om voorspellende inhoud voor te bereiden. Voor auto-ontdekt andere inhoud, zoals PDFs en ingebedde video, moet u [ inhouds ontdekking ](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md) toelaten.
+Wanneer u inhoudspatronen instelt, wordt inhoud automatisch gedetecteerd wanneer een webbezoeker op de HTML-webpagina klikt die relevant is voor het inhoudspatroon. Hiermee worden HTML-pagina&#39;s (blogberichten, persberichten, nieuwsartikelen) toegevoegd als inhoudsonderdelen op de pagina Alle inhoud. Wanneer automatische detectie is gebaseerd op inhoudspatronen, worden HTML-pagina&#39;s die verwant zijn aan het gedefinieerde URL-patroon, opgespoord en bijgehouden wanneer een webbezoeker een koppeling naar de pagina weergeeft of klikt. Dit inhoudsonderdeel (de URL, de paginanaam en de metagegevens inclusief de URL en beschrijving van de afbeelding) wordt toegevoegd aan de pagina Alle inhoud om voorspellende inhoud voor te bereiden. Voor auto-ontdekt andere inhoud, zoals PDFs en ingebedde video, moet u [&#x200B; inhouds ontdekking &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md) toelaten.
 
 1. Ga naar **[!UICONTROL Content Settings]** .
 
@@ -33,7 +33,7 @@ Wanneer u inhoudspatronen instelt, wordt inhoud automatisch gedetecteerd wanneer
 
    >[!NOTE]
    >
-   >De punten in de drop-down lijst op het recht wijzen op de categorieën u opstelling wanneer u [ categorieën ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) creeerde.
+   >De punten in de drop-down lijst op het recht wijzen op de categorieën u opstelling wanneer u [&#x200B; categorieën &#x200B;](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) creeerde.
 
 1. Klik op **+** om een ander pad toe te voegen.
 
