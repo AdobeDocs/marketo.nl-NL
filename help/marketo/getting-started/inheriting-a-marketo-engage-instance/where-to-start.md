@@ -18,11 +18,11 @@ Begint u een nieuwe baan of neemt over een bestaand geval van een andere beheerd
 
 Zorg ervoor dat je op de juiste manier bent ingesteld in de Marketo Engage Community.
 
-* [**opstelling uw profiel** &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} door vereiste gebieden (bedrijf, oplossingsspecialisaties, land, enz.) te vullen
+* [**opstelling uw profiel** &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=nl){target="_blank"} door vereiste gebieden (bedrijf, oplossingsspecialisaties, land, enz.) te vullen
 
-* Lees omhoog op de [**Communautaire richtsnoeren van de Liga van de Ervaring van Adobe** &#x200B;](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
+* Lees omhoog op de [**Communautaire richtsnoeren van de Liga van de Ervaring van Adobe** &#x200B;](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=nl){target="_blank"}.
 
-* Leer hoe te om een steungeval [**voor te leggen** en te bevestigen u opstelling als a &#x200B;](https://experienceleague.adobe.com/en/support#home){target="_blank"} Admin van de Steun [&#x200B; bent.](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}
+* Leer hoe te om een steungeval [**voor te leggen** en te bevestigen u opstelling als a &#x200B;](https://experienceleague.adobe.com/nl/support#home){target="_blank"} Admin van de Steun [&#x200B; bent.](https://experienceleague.adobe.com/nl/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}
 
 ## Marketo Engage Community-profielen samenvoegen {#merge-your-community-profiles}
 
@@ -73,10 +73,10 @@ U kunt ook [&#x200B; de controlelijsten &#x200B;](/help/marketo/getting-started/
 
 Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of Marketo Engage-medegebruikers.
 
-* Voor technische bijstand met iets dat niet behoorlijk werkt, contacteer **[de Steun van de Klant van Marketo Engage &#x200B;](https://experienceleague.adobe.com/en/support){target="_blank"}**.
+* Voor technische bijstand met iets dat niet behoorlijk werkt, contacteer **[de Steun van de Klant van Marketo Engage &#x200B;](https://experienceleague.adobe.com/nl/support){target="_blank"}**.
 
-* Verbind met en leer van medegebruikers van Marketo Engage in de **[Gemeenschap van Adobe Marketo Engage &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
+* Verbind met en leer van medegebruikers van Marketo Engage in de **[Gemeenschap van Adobe Marketo Engage &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=nl){target="_blank"}**.
 
-* Voor hands-on hulp bij het krijgen van het meeste uit uw instantie van Marketo Engage, reik uit aan **[Adobe Professional Services &#x200B;](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Voor hands-on hulp bij het krijgen van het meeste uit uw instantie van Marketo Engage, reik uit aan **[Adobe Professional Services &#x200B;](https://business.adobe.com/nl/products/marketo/services-support.html){target="_blank"}**.
 
-* Bekijk **[gekrulde zelfstudievideo&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** op verschillende aspecten van Marketo Engage.
+* Bekijk **[gekrulde zelfstudievideo&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}** op verschillende aspecten van Marketo Engage.
