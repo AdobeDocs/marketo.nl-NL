@@ -3,9 +3,9 @@ description: Meer informatie over Agent Management in Dynamic Chat. De agenten v
 title: Agent Management
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -77,3 +77,17 @@ Selecteer een standaardbericht (systeembericht) of schrijf een aangepast bericht
 >[!TIP]
 >
 >Wanneer u een aangepast bericht maakt, kunt u het lettertype opmaken, koppelingen gebruiken en zelfs emojis invoegen! `:)`
+
+## Instellingen {#settings}
+
+### Gelijktijdige chatlimiet {#concurrent-live-chat}
+
+Stel het aantal gelijktijdige actieve chats in dat een agent tegelijk kan gebruiken. Kan tussen 1 en 10 instellen.
+
+![](assets/agent-management-10.png)
+
+### Wachttijdlimiet voor bezoekers {#visitor-wait-time}
+
+Bepaal de maximumhoeveelheid tijd een bezoeker (in seconden) zal wachten om met een levende agent te worden verbonden alvorens de bezoeker een reservebericht ontvangt. Kan worden ingesteld tussen 10 en 500 seconden.
+
+![](assets/agent-management-11.png)
