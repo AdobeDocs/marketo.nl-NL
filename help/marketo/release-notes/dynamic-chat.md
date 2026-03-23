@@ -20,7 +20,7 @@ De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [&#x200B;
 
 ### Transcriptie downloaden {#download-transcript}
 
-U kunt nu een .txt-bestand van uw chattranscriptie downloaden nadat een live chat is beëindigd. [&#x200B; Meer info &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+U kunt nu een .txt-bestand van uw chattranscriptie downloaden nadat een live chat is beëindigd. [&#x200B; Meer info &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Release van juni 2025 {#june-2025-release}
 
