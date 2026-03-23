@@ -20,11 +20,11 @@ De standaardpagina van de Nota&#39;s van de Versie voor Marketo Engage [&#x200B;
 
 ### Wachttijdlimiet voor bezoekers {#visitor-wait-time}
 
-Stel een maximale tijdsduur in (tussen 10 en 500 seconden) dat een bezoeker wacht om te worden verbonden met een live agent voordat de bezoeker een fallback-bericht ontvangt. [Meer informatie](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Stel een maximale tijdsduur in (tussen 10 en 500 seconden) dat een bezoeker wacht om te worden verbonden met een live agent voordat de bezoeker een fallback-bericht ontvangt. [Meer informatie](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Transcriptie downloaden {#download-transcript}
 
-U kunt nu een .txt-bestand van uw chattranscriptie downloaden nadat een live chat is beëindigd. [Meer informatie](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+U kunt nu een .txt-bestand van uw chattranscriptie downloaden nadat een live chat is beëindigd. [Meer informatie](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Release van juni 2025 {#june-2025-release}
 
