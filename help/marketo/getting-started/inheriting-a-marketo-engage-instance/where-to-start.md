@@ -18,11 +18,11 @@ Begint u een nieuwe baan of neemt over een bestaand geval van een andere beheerd
 
 Zorg ervoor dat je op de juiste manier bent ingesteld in de Marketo Engage Community.
 
-* [**opstelling uw profiel** ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} door vereiste gebieden (bedrijf, oplossingsspecialisaties, land, enz.) te vullen
+* [**opstelling uw profiel** &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} door vereiste gebieden (bedrijf, oplossingsspecialisaties, land, enz.) te vullen
 
-* Lees omhoog op de [**Communautaire richtsnoeren van de Liga van de Ervaring van Adobe** ](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
+* Lees omhoog op de [**Communautaire richtsnoeren van de Liga van de Ervaring van Adobe** &#x200B;](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Leer hoe te om een steungeval [**voor te leggen** en te bevestigen u opstelling als a ](https://experienceleague.adobe.com/en/support#home){target="_blank"} Admin van de Steun [ bent.](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}
+* Leer hoe te om een steungeval [**voor te leggen** en te bevestigen u opstelling als a &#x200B;](https://experienceleague.adobe.com/en/support#home){target="_blank"} Admin van de Steun [&#x200B; bent.](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}
 
 ## Marketo Engage Community-profielen samenvoegen {#merge-your-community-profiles}
 
@@ -57,26 +57,26 @@ Als u uw betrokkenheidsgeschiedenis niet ziet, probeert u het volgende:
 
 Adobe heeft met input van Marketo Champions verschillende checklists van Marketo Engage Inherited Instance Audit samengesteld om u te helpen de grond te raken die loopt. Leer hoe u door de verschillende gebieden van Marketo Engage kunt navigeren en de verschillende taken kunt uitvoeren die nodig zijn om een audit uit te voeren, met koppelingen naar de aanbevolen Help-documentatie.
 
-U kunt ook [ de controlelijsten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheetvorm downloaden.
+U kunt ook [&#x200B; de controlelijsten &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in spreadsheetvorm downloaden.
 
-* [ Admin sectie ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [&#x200B; Admin sectie &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [ Gegevensbestand ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
+* [&#x200B; Gegevensbestand &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [ Studio van het Ontwerp ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [&#x200B; Studio van het Ontwerp &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [ de Marketing Activiteiten ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
+* [&#x200B; de Marketing Activiteiten &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [ Document uw geërfte instantieopstelling ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [&#x200B; Document uw geërfte instantieopstelling &#x200B;](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Manieren om hulp te krijgen {#ways-to-get-help}
 
 Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of Marketo Engage-medegebruikers.
 
-* Voor technische bijstand met iets dat niet behoorlijk werkt, contacteer **[de Steun van de Klant van Marketo Engage ](https://experienceleague.adobe.com/en/support){target="_blank"}**.
+* Voor technische bijstand met iets dat niet behoorlijk werkt, contacteer **[de Steun van de Klant van Marketo Engage &#x200B;](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
-* Verbind met en leer van medegebruikers van Marketo Engage in de **[Gemeenschap van Adobe Marketo Engage ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
+* Verbind met en leer van medegebruikers van Marketo Engage in de **[Gemeenschap van Adobe Marketo Engage &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
-* Voor hands-on hulp bij het krijgen van het meeste uit uw instantie van Marketo Engage, reik uit aan **[Adobe Professional Services ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
+* Voor hands-on hulp bij het krijgen van het meeste uit uw instantie van Marketo Engage, reik uit aan **[Adobe Professional Services &#x200B;](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Bekijk **[gekrulde zelfstudievideo&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** op verschillende aspecten van Marketo Engage.
+* Bekijk **[gekrulde zelfstudievideo&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** op verschillende aspecten van Marketo Engage.
