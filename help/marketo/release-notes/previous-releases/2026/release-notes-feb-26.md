@@ -1,24 +1,24 @@
 ---
-description: Huidige aanvullende informatie - Documentatie voor Marketo - Productdocumentatie
-title: Opmerkingen bij de huidige release
-exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+description: Opmerkingen bij de release - februari 2026 - Marketo Docs - Productdocumentatie
+title: Opmerkingen bij de release - februari 2026
 feature: Release Information
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
+source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 2%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
-# Opmerkingen bij de release: maart 2026 {#release-notes-mar-26}
+# Opmerkingen bij de release: februari 2026 {#release-notes-feb-26}
 
-Hieronder vindt u alle functies die zijn opgenomen in de release van 26 maart. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 26 februari. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 De Nota&#39;s van de Versie specifiek voor Adobe Dynamic Chat [ kunnen hier ](/help/marketo/release-notes/dynamic-chat.md){target="_blank"} worden gevonden.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **Maart 27, 2026**, met een gefaseerde uitrol van resterende eigenschappen in de verdere weken worden vrijgegeven. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
+De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginnen om op **worden vrijgegeven 20 februari, 2026**, met een gefaseerde implementatie van resterende eigenschappen in de verdere weken. De functies en datums van de release kunnen worden gewijzigd. Controleer de status naast elke functie.
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,17 +28,11 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <th style="width:25%">Documentatie</th>
   </tr>
   <tr>
-   <td><strong> E-mail Designer - beheert Merken (bèta) </strong>: produceer e-mailinhoud die op de specifieke auteursrichtlijnen van uw organisatie/merk wordt gebaseerd.</td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> E-mail Designer - het Merk richt </strong>: Gebruik de controle van de inhoudskwaliteit voor e-mail om algemene leesbaarheid en samenhang van uw overseinen te meten.
+   <td><strong> E-mail Designer - de Acties van de Omslag </strong>: Pariteit met de oude e-mailredacteur.
+   <ul>
+   <li>Maphandelingen delen en archiveren voor e-mailmiddelen van Designer.</li>
+   <li>Mappen delen over werkruimten, met de rechtermuisknop op een map klikken om een nieuw element te maken, elementen verplaatsen via slepen en neerzetten.</li>
+   </ul>
    </td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
@@ -49,8 +43,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
   </tr>
   <tr>
-   <td><strong> E-mail Designer - het Teruggeven van Vooruitzichten bevestigen </strong>: Deze update lost teruggevende kwesties, vooral in de Vooruitzichten van MS op. Met de modus Expert kunt u kleine HTML/CSS-bewerkingen uitvoeren of scripttags toevoegen aan uw e-mail (de beste manier is om geen andere wijzigingen aan te brengen in de HTML van de e-mail, zodat de visuele elementen ongewijzigd blijven).
-   </td>
+   <td><strong> E-mail Designer - API </strong>: U kunt nu API vraag voor E-mail Designer gebruiken.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
@@ -60,8 +53,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
   </tr>
   <tr>
-   <td><strong> E-mail Designer - Snelle Acties </strong>: <i> Pariteit met de oude e-mailredacteur </i>. Snelle acties zijn nu beschikbaar voor alle e-mailmiddelen van Designer (e-mails, e-mailsjablonen, fragmenten). Tot de ondersteunde snelle acties behoren: Dupliceren, Verwijderen, Verplaatsen, Concept maken/bewerken.
-   </td>
+   <td><strong> E-mail Designer - de Controleur van de Kwaliteit van het Merk </strong>: Beoordeel algemene inhoudkwaliteit om potentiële kwesties met leesbaarheid, inhoud cohesie, en doeltreffendheid, onafhankelijk van uw merkrichtlijnen te identificeren.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>
@@ -71,19 +63,7 @@ De volgende eigenschappen vallen onder de standaardversiecyclus en zullen beginn
    <td> </td>
   </tr>
   <tr>
-   <td><strong> Beheer van de Bestellijst </strong>: U kunt de waarden nu specificeren die op gebieden in Marketo Engage kunnen worden gebruikt.
-   </td>
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> Push Meldingen </strong>: Redirect URLs die in de Push- berichtberichten wordt gevormd steunt nu de tekenen van Marketo Engage (van toepassing op <i> Lounch App URLs </i> slechts).
-   </td>
+   <td><strong> E-mail Designer - AI HulpGeneratie van het Beeld </strong>: Nu, naast Firefly, kunt u modellen van de Banaan van de Nano gebruiken om beelden met de Medewerker van AI voor e-mailinhoud te produceren.</td>
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
   </tr>

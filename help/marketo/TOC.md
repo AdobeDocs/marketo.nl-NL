@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 4d8780a55bf5018394905d455a25b20634d4b021
+source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '9334'
-ht-degree: 0%
+source-wordcount: '9338'
+ht-degree: 1%
 
 ---
 
@@ -101,7 +101,7 @@ ht-degree: 0%
          + Rapporten {#reports}
             + [SEO - Gebruik van het rapport KW-trends voor de concurrent](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - het Rapport van de Trends van het Sleutelwoord gebruiken](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-   + Beheer {#administration}
+   + Administratie {#administration}
       + Instellen {#setup}
          + [Controleren welke machtigingen u hebt](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Minimale systeemvereisten](product-docs/administration/setup-administration/minimum-system-requirements.md)
@@ -278,13 +278,13 @@ ht-degree: 0%
             + [Campagnehandelingen: een slimme campagne verwijderen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/campaign-actions-delete-a-smart-campaign.md)
             + [Een geplande batchcampagne annuleren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [Een geplande batchcampagne annuleren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
-            + [Een slimme campagne activeren uitschakelen | Tabblad Planning](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
+            + [Een slimme campagne starten uitschakelen | Tab plannen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
             + [Kwalificatieregels bewerken in een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Een slimme campagne verplaatsen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Persoonlijke beperkingen in een slimme campagne negeren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
             + [Prioriteit overschrijven voor triggercampagnes](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
             + [De naam van een slimme campagne wijzigen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
-            + [Een slimme batchcampagne nu uitvoeren | Tabblad Planning](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
+            + [Een batchslimme campagne nu uitvoeren | Tab plannen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Een slimme batchcampagne plannen om later uit te voeren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Een terugkerende batchcampagne plannen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;de Campagne wordt gevraagd&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
@@ -1973,6 +1973,7 @@ ht-degree: 0%
    + Eerdere releases {#previous-releases}
       + 2026 {#2026}
          + [Opmerkingen bij de release: januari &#39;26](release-notes/previous-releases/2026/release-notes-jan-26.md)
+         + [Opmerkingen bij de release: februari &#39;26](release-notes/previous-releases/2026/release-notes-feb-26.md)
       + 2025 {#2025}
          + [Opmerkingen bij de release: januari &#39;25](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [Opmerkingen bij de release: maart &#39;25](release-notes/previous-releases/2025/release-notes-mar-25.md)
