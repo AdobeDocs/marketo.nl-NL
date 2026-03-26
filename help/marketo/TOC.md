@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
 workflow-type: tm+mt
-source-wordcount: '9338'
+source-wordcount: '9340'
 ht-degree: 1%
 
 ---
@@ -164,6 +164,7 @@ ht-degree: 1%
          + [Een veld verbergen en verbergen opheffen](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [HTML Encode Tokens in e-mails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Een veld markeren als gevoelig](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
+         + [Picklist-beheer](product-docs/administration/field-management/picklist-management.md)
          + [De naam van een veld wijzigen](product-docs/administration/field-management/rename-a-field.md)
          + [Werken met door het systeem beheerde velden](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Veldtoewijzingen weergeven tussen Marketo en Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
