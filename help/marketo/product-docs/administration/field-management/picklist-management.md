@@ -4,9 +4,10 @@ title: Picklist-beheer
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ Elk keuzelijstitem heeft een weergavewaarde en een verzendwaarde. De waarde van 
 
 ## Automatisch voorstellen {#autosuggest}
 
+Wanneer het _Beheerde plaatsen van de Beheerde Bestellijst_ wordt toegelaten, zullen de Filters, de Keuzen van de Stap van de Stroom, en de stappen van de Waarde van Gegevens van de Verandering waarden van uw beheerde picklist autosuggereren. Als deze instelling is uitgeschakeld, worden alleen onbeheerde waarden voorgesteld.
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### Schakelen tussen Beheerde en Onbeheerde Picklists {#switching}
 
 De meeste Marketo Engage-abonnementen bevatten gegevens van vóór de introductie van Beheerde Picklists. Om waarden in slimme lijsten of stroomstappen van deze onbeheerde versiekiezenlijst (b.v., van de volledige reeks waarden te gebruiken die op verslagen in uw gegevensbestand) bestaan, knevel de Beheerde het plaatsen van de Beheerde Beheerde Bestelwagen in uw Slimme Lijst of de mening van de Campagne. Wanneer van een knevel voorzien, slechts worden de beheerde picklist waarden getoond. Wanneer van een knevel voorzien, wordt unmanaged picklist gebruikt en de waarden worden automatisch voorgesteld gebaseerd op bestaande waarden in het gegevensbestand.
 
-### Formulierkiezers (tekstvelden selecteren) {#form-picklists}
+## Formulierkiezers (tekstvelden selecteren) {#form-picklists}
 
 Als Gezaaid en CRM-Beheerde picklists, verspreiden de waarden voor Beheerde Picklists zich in Forms wanneer het gebruiken van het Uitgezochte gebiedstype. Voor een gebied met een beheerde picklist, selecteer dat gebied en plaats het Type van Gebied aan _Uitgezocht_.
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 Dit toont de reeks beheerde picklist waarden die voor dat gebied worden bepaald.
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
