@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1330'
+source-wordcount: '1256'
 ht-degree: 0%
 
 ---
@@ -23,41 +23,37 @@ Voer uw merkgegevens handmatig in en ordent deze of upload documenten met brandr
 
 >[!AVAILABILITY]
 >
->U moet met de [&#x200B; gebruikersovereenkomst &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
+>U moet met de [ gebruikersovereenkomst ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
 
 ## Handelsmerken {#generative-access}
 
-Gebruikers die het menu **[!UICONTROL Brands]** in [!DNL Adobe Marketo Engage] willen openen, moeten de machtigingen **[!UICONTROL Manage brand kit]** of **[!UICONTROL Enable AI assistant]** hebben.
+Gebruikers moeten de relevante machtigingen krijgen om het **[!UICONTROL Brands]** -menu in [!DNL Adobe Marketo Engage] te openen.
 
 +++  Leer hoe u merkgerelateerde machtigingen kunt toewijzen
 
-Voer de volgende stappen uit om machtigingen voor merken toe te wijzen:
+### Gebruikers en rollen {#users-and-roles}
 
-1. In het **product van Toestemmingen**, ga naar het **lusje van Rollen** en selecteer de gewenste **Rol**.
+1. In _Admin_, uitgezochte **Gebruikers &amp; Rollen**.
 
-1. Klik **uitgeven** om de toestemmingen te wijzigen.
+1. Selecteer de gewenste rol.
 
-1. Voeg het **AI Medewerker** middel toe, dan uitgezocht **merkKit** of **[!UICONTROL Enable Ai assistant]** van het drop-down menu beheert.
+1. Klik om het **menu van de Studio van het Ontwerp van de Toegang uit te breiden**.
 
-   **[!UICONTROL Enable Ai assistant]** geeft alleen alleen alleen-lezen toegang tot het menu **[!UICONTROL Brands]** .
+1. Selecteer **Medewerker van de Toegang AI** en klik **sparen**.
 
-   SCREENSHOT
+### Beheerder
 
-1. Klik **sparen** om veranderingen toe te passen.
+1. Klik weer in het beheergebied op Nieuwe ervaring.
 
-   Voor alle gebruikers die al zijn toegewezen aan deze rol, worden hun machtigingen automatisch bijgewerkt.
+1. Naast _beheert uw Merken_, geeft de klik **** uit.
 
-1. Om deze rol aan nieuwe gebruikers toe te wijzen, navigeer aan het **lusje van Gebruikers** binnen het **dashboard van Rollen** en klik **toevoegen Gebruiker**.
-
-1. Ga de naam van de gebruiker, e-mailadres in, of kies van de lijst, dan klik **sparen**.
-
-1. Als de gebruiker niet eerder werd gecreeerd, verwijs naar [&#x200B; deze documentatie &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/users).
+OKÉ WAT?
 
 +++
 
 ## Uw merk maken en beheren {#create-brand-kit}
 
-Als u de richtlijn voor uw merk wilt maken en beheren, kunt u de details zelf invoeren of het document met uw merkenrichtlijnen uploaden om de informatie automatisch te laten ophalen:
+Als u de richtlijn voor uw merk wilt maken en beheren, kunt u de details zelf invoeren of het document met uw eigen merkenrichtlijnen uploaden om de informatie automatisch te laten uitnemen.
 
 1. Klik in het menu **[!UICONTROL Brands]** op **[!UICONTROL Create brand]** .
 
@@ -65,7 +61,7 @@ Als u de richtlijn voor uw merk wilt maken en beheren, kunt u de details zelf in
 
 1. Voer een **[!UICONTROL Name]** in voor uw merk.
 
-1. Sleep of selecteer het bestand om de richtlijnen van uw merk te uploaden en automatisch relevante merkgegevens te extraheren. Klik op **[!UICONTROL Create brand]**.
+1. Sleep of selecteer het bestand om de richtlijnen van uw merk te uploaden en automatisch relevante merkgegevens te extraheren. Klik op **[!UICONTROL Create brand]** .
 
    Het uitpakken van informatie begint nu. Het kan enkele minuten duren voordat de bewerking is voltooid.
 
@@ -158,7 +154,7 @@ Gebruik het tabblad **[!UICONTROL About the brand]** om de belangrijkste identit
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
 
 ### Schrijfstijl {#writing-style}
 
@@ -269,7 +265,7 @@ U past de **[!UICONTROL Writing Style]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
 
 ### Visuele inhoud {#visual-content}
 
@@ -340,4 +336,4 @@ U past de **[!UICONTROL Visual content]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
