@@ -23,7 +23,7 @@ Voer uw merkgegevens handmatig in en ordent deze of upload documenten met brandr
 
 >[!AVAILABILITY]
 >
->U moet met de [ gebruikersovereenkomst ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
+>U moet met de [&#x200B; gebruikersovereenkomst &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-vertegenwoordiger.
 
 ## Handelsmerken {#generative-access}
 
@@ -45,7 +45,7 @@ Gebruikers moeten de relevante machtigingen krijgen om het **[!UICONTROL Brands]
 
 1. Klik weer in het beheergebied op Nieuwe ervaring.
 
-1. Naast _beheert uw Merken_, geeft de klik **** uit.
+1. Naast _beheert uw Merken_, geeft de klik **&#x200B;**&#x200B;uit.
 
 OKÉ WAT?
 
@@ -154,7 +154,7 @@ Gebruik het tabblad **[!UICONTROL About the brand]** om de belangrijkste identit
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
 
 ### Schrijfstijl {#writing-style}
 
@@ -265,7 +265,7 @@ U past de **[!UICONTROL Writing Style]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
 
 ### Visuele inhoud {#visual-content}
 
@@ -336,4 +336,4 @@ U past de **[!UICONTROL Visual content]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [ uw merk ](#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](#create-brand-kit) publiceren.
