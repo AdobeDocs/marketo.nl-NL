@@ -4,7 +4,7 @@ description: Leer meer over attributie voorbeeld 4 in Marketo Engage, met inbegr
 title: Attributievoorbeeld 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Lees het volgende scenario en probeer de aantallen te bepalen die in het net zouden moeten zijn.
 
-* 11 april | Michelle downloadt e-Book (content) - Voltooid
-* 15 april | John attends (Webinar) - Succes
+* 11 april | Michelle downloadt e-Book (content) - Succes
+* 15 april | John attends (Webinar) - Success
 * 22 april | (Opportunity 1) gemaakt voor $3.000
 * 24 april | (Opportunity 2) gemaakt voor $5.000
 * 25 april | John en Michelle worden geassocieerd aan **allebei** Optys
-* 29 april | [ Opty 1 ] is gesloten-Won
+* 29 april | [ Optie 1 ] is gesloten-Won
 
-| Programmanaam | (Inhoud) | (Webinar) |
-|---|---|---|
+| Programmanaam | (Inhoud) | (Webinar) | | |
+|---|---|---|---|---|
 |   | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
 | (MT) Opty Created | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipet gemaakt | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
@@ -52,6 +52,6 @@ Probeer alle voorbeelden en je bent een attribuut pro!
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Voorbeeld van de Attributie 1 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [&#x200B; Voorbeeld van de Attributie 2 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [&#x200B; Voorbeeld van de Attributie 3 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [ Voorbeeld van de Attributie 1 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [ Voorbeeld van de Attributie 2 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [ Voorbeeld van de Attributie 3 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)

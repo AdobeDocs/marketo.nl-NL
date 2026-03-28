@@ -4,7 +4,7 @@ description: Leer hoe u de RTF-editor voor e-mailinhoud gebruikt. Maak tekst op,
 title: De Rich Text Editor gebruiken
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 1%
@@ -23,15 +23,15 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
 >
 >Terwijl u de optie hebt om uw basisblokelement te kiezen, adviseren wij altijd gebruikend standaardmontages voor de beste gebruikerservaring.
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/one.png)
 
-1. Klik op **[!UICONTROL Email]**.
+1. Klik op **[!UICONTROL Email]** .
 
    ![](assets/two.png)
 
-1. Klik op **[!UICONTROL Edit Text Editor Settings]**.
+1. Klik op **[!UICONTROL Edit Text Editor Settings]** .
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
 
    ![](assets/four.png)
 
-   Als u `<div class=“mktEditable”></div>` in een E-mailsjabloon hebt, wordt het volgende HTML Source-gedrag weergegeven wanneer u de sectie opent en &quot;Tekst gaat hier&quot; in de editor typt:
+   Als u `<div class="mktEditable"></div>` in een E-mailsjabloon hebt, wordt het volgende HTML Source-gedrag weergegeven wanneer u de sectie opent en &quot;Tekst gaat hier&quot; in de editor typt:
 
 <table>
  <tbody>
@@ -49,9 +49,9 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
    <th>Geen</th>
   </tr>
   <tr>
-   <td><p>&lt;div class="mktEditable"&gt;<br> &lt;p&gt;Tekst gaat hier&lt;/p&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="mktEditable"&gt;<br> &lt;div&gt;Tekst gaat hier&lt;/div&gt; <br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="mktEditable"&gt; <br> Tekst gaat hier <br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;Tekst gaat hier&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;Tekst gaat hier&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>Hier komt tekst<br>&lt;/div&gt;</p></td>
   </tr>
  </tbody>
 </table>
@@ -79,7 +79,8 @@ Hier zijn de eigenschappen u in RTE zult vinden.
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Bold] | **Donkerder en dikker**. |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italic] | *Angled, voor nadruk of citatie* s. |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Underline] | Hiermee plaatst u een lijn onder de tekst. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Gebruik deze vervolgkeuzelijst om uw tekst en afbeeldingen op te maken. Centreer de randen, kies links of rechts uitlijnen of spreid de rand naar rand met volledige uitvulling. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lijst | Kies opsommingstekens of nummers in het vervolgkeuzemenu. Opsommingstekens zijn geschikt voor lijsten en nummers met stappen. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Gebruik deze vervolgkeuzelijst om uw tekst en afbeeldingen op te maken. Centreer de randen, kies links of rechts uitlijnen of spreid de rand naar rand met volledige uitvulling. |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Lijst | Kies opsommingstekens of nummers in het vervolgkeuzemenu. Opsommingstekens zijn geschikt voor lijsten en nummers met stappen. |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Indent] | Kies meer of minder inspringing. Gebruik deze optie voor alinea&#39;s of tekst die u wilt uitspringen. |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insert/Edit Link] | Plaats een koppeling naar een website of andere inhoud en breng gemakkelijk wijzigingen aan. |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insert/Edit Image] | Een foto is duizend woorden waard. Zet er een neer. Klik op het camerapictogram om door uw Design Studio te bladeren. U kunt afbeeldingen naast elkaar neerzetten. |
@@ -115,15 +116,15 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
 >
 >Terwijl u de optie hebt om uw basisblokelement te kiezen, adviseren wij altijd gebruikend standaardmontages voor de beste gebruikerservaring.
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/one.png)
 
-1. Klik op **[!UICONTROL Email]**.
+1. Klik op **[!UICONTROL Email]** .
 
    ![](assets/two.png)
 
-1. Klik op **[!UICONTROL Edit Text Editor Settings]**.
+1. Klik op **[!UICONTROL Edit Text Editor Settings]** .
 
    ![](assets/three.png)
 

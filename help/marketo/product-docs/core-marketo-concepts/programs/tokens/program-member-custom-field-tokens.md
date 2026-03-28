@@ -4,7 +4,7 @@ description: Meer informatie over aangepaste veldtokens van programmeleden. Gebr
 title: Aangepaste veldtokens voor programmaleden
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Op de rug van de eigenschappen van de Gebieden van de Douane van het Lid van het
 
 De PMCF-tokens worden ondersteund onder het liddomein van de tokens-familie.
 
-Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Lid van het Programma vallen. Vanaf huidige staat, worden de Tokens van het Lid ook gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. `{{member.webinar url}}` -token lost automatisch de unieke bevestiging-URL van de persoon die door het servicebureau is gegenereerd, op. {{member.registration code}} wordt omgezet in de registratiecode die door de serviceprovider is opgegeven.
+Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Lid van het Programma vallen. Vanaf huidige staat, worden de Tokens van het Lid ook gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. `{{member.webinar url}}` -token lost automatisch de unieke bevestiging-URL van de persoon die door het servicebureau is gegenereerd, op. `{{member.registration code}}` wordt omgezet in de registratiecode die door de serviceprovider is opgegeven.
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -79,7 +79,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
@@ -107,7 +107,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klik op **[!UICONTROL Push Notification]**.
+1. Klik op **[!UICONTROL Push Notification]** .
 
    ![](assets/program-member-custom-field-tokens-16.png)
 

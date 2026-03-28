@@ -4,7 +4,7 @@ description: Waarschuwing bij verkoper - Marketo-documenten - productdocumentati
 title: Waarschuwing voor verkoper
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
 >[!PREREQUISITES]
 >
->[&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
+>[ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Stap 1: Een e-mail met een waarschuwing maken {#step-create-an-alert-email}
 
@@ -27,11 +27,11 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. Selecteer **Mijn Programma** dat u in de [&#x200B; het Bestaan Pagina met een Vorm &#x200B;](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint, toen onder **[!UICONTROL New]** klikt **[!UICONTROL New Local Asset]** creeerde.
+1. Selecteer **Mijn Programma** dat u in de [ het Bestaan Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel wint, toen onder **[!UICONTROL New]** klikt **[!UICONTROL New Local Asset]** creeerde.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. Klik op **[!UICONTROL Email]**.
+1. Klik op **[!UICONTROL Email]** .
 
    ![](assets/alert-the-sales-rep-3.png)
 
@@ -61,9 +61,9 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} is een speciale token voor e-mailmeldingen. Zie [&#x200B; Gebruik het Send Token van Info van de Waarschuwing &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"} om meer te leren.
+   >`{{SP_Send_Alert_Info}}` is een speciale token voor e-mailmeldingen. Zie [ Gebruik het Send Token van Info van de Waarschuwing ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} om meer te leren.
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/alert-the-sales-rep-10.png)
 

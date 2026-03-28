@@ -3,9 +3,9 @@ description: Leer hoe u aanpassingen van Salesforce-activiteitsdetails configure
 title: Aanpassing van Salesforce-activiteitsgegevens configureren
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '668'
 ht-degree: 1%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [!DNL Salesforce] en [!DNL Marketo Sales Connect] [&#x200B; moeten worden verbonden &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* Het registreren van e-mailactiviteit via API [&#x200B; moet worden toegelaten &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [!DNL Salesforce] en [!DNL Marketo Sales Connect] [ moeten worden verbonden ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* Het registreren van e-mailactiviteit via API [ moet worden toegelaten ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Met Aanpassing van activiteitendetails kunnen beheerders de informatie configureren die wordt aangemeld bij het veld Salesforce Task - Subject wanneer een [!DNL Sales Connect] activiteit/herinneringstaak wordt gesynchroniseerd met Salesforce.
 
@@ -68,33 +68,33 @@ De dynamische de verwijzingsinformatie van Gebieden van de activiteit over uw ve
   <th>Beschrijving</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>Het taaktype wordt ingevuld als E-mail, Bel, InMail of Aangepast.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>Zal het onderwerp van de taak vullen.</p>
       <p>In het geval van een e-mail wordt de onderwerpregel van de e-mail ingevuld.</p>
       <p>In het geval van vraag, inMail, of douane, zal het een waarde bevolken als er een herinneringstaak was die met een waarde op het de taaknaam/onderwerpgebied werd gecreeerd.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>Als de activiteit van een verkoopcampagne werd geïnitieerd, zal het de naam van de verkoopcampagne bevolken.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>Als de activiteit van een verkoopcampagne werd geïnitieerd, zal het het aantal van de de verkoopcampagne dag van deze activiteit bevolken op.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>Als de activiteit van een verkoopcampagne werd geïnitieerd, zal het het stapaantal binnen de dag van de verkoopcampagne bevolken deze activiteit op voorkwam.</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>Als de activiteit een vraag is en een vraagresultaat wordt geselecteerd, zal dit de waarde van het vraagresultaat bevolken.</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>Als de activiteit een vraag is en een vraagreden wordt geselecteerd, zal dit de waarde van de vraagreden bevolken.</td>
  </tr>
 </table>
@@ -111,11 +111,11 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Klik op **[!UICONTROL Salesforce]**.
+1. Klik op **[!UICONTROL Salesforce]** .
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Klik op **[!UICONTROL Sync Settings]**.
+1. Klik op **[!UICONTROL Sync Settings]** .
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -135,7 +135,7 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]** .
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
@@ -145,6 +145,6 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Montages van de Synchronisatie &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [&#x200B; de Synchronisatie van de Taak van de herinnering met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [[!DNL Sales Connect]  Aanpassing voor CRM &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [ de Montages van de Synchronisatie ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [ de Synchronisatie van de Taak van de herinnering met  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [[!DNL Sales Connect]  Aanpassing voor CRM ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
