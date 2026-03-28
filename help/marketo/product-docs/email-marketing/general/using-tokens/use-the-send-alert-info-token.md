@@ -17,7 +17,7 @@ De token `{{SP_Send_Alert_Info}}` is een speciaal token dat moet worden gebruikt
 
 >[!TIP]
 >
->Dit teken werkt slechts zoals bedoeld wanneer het verzenden van e-mail die het met [ bevat verzendt alarm ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) stroomstap. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
+>Dit teken werkt slechts zoals bedoeld wanneer het verzenden van e-mail die het met [&#x200B; bevat verzendt alarm &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) stroomstap. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
 
 Voorbeeld, waarschuwing:
 
@@ -25,7 +25,7 @@ Voorbeeld, waarschuwing:
 
 >[!NOTE]
 >
->Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. De data van de vervaldatum worden [ gevormd door Admin ](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. De data van de vervaldatum worden [&#x200B; gevormd door Admin &#x200B;](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 De volgende informatie maakt deel uit van de `{{SP_Send_Alert_Info}}` :
 

@@ -14,8 +14,8 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* De Acties van Salesforce en van Insight van de Verkoop [ moeten worden verbonden ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* Het registreren van e-mailactiviteit via API [ moet worden toegelaten ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* De Acties van Salesforce en van Insight van de Verkoop [&#x200B; moeten worden verbonden &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* Het registreren van e-mailactiviteit via API [&#x200B; moet worden toegelaten &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Met Aanpassing van activiteitsdetails kunnen beheerders de informatie configureren die zich aanmeldt bij het veld [!DNL Salesforce] Taak - Onderwerp wanneer een [!DNL Sales Insight Actions] activiteit/herinneringstaak wordt gesynchroniseerd met [!DNL Salesforce] .
 
@@ -145,5 +145,5 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
 >[!MORELIKETHIS]
 >
->* [ de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
->* [ de Synchronisatie van de Taak van de herinnering met Salesforce ](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
+>* [&#x200B; de Activiteiten van de Verkoop van de Synchronisatie aan Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* [&#x200B; de Synchronisatie van de Taak van de herinnering met Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)

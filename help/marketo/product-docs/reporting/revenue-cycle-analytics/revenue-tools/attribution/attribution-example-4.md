@@ -52,6 +52,6 @@ Probeer alle voorbeelden en je bent een attribuut pro!
 
 >[!MORELIKETHIS]
 >
->* [ Voorbeeld van de Attributie 1 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->* [ Voorbeeld van de Attributie 2 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->* [ Voorbeeld van de Attributie 3 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [&#x200B; Voorbeeld van de Attributie 1 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [&#x200B; Voorbeeld van de Attributie 2 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [&#x200B; Voorbeeld van de Attributie 3 &#x200B;](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
