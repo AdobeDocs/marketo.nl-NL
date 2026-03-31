@@ -33,6 +33,6 @@ Leer hoe u de tijdzone wijzigt in uw Marketo Engage-abonnement.
 
    >[!NOTE]
    >
-   >_Taal_ en _scène_ worden grijs uit, aangezien die montages in uw [ de rekeningsprofiel van Adobe ](https://account.adobe.com/profile){target="_blank"} moeten worden betreden.
+   >_Taal_ en _scène_ worden grijs uit, aangezien die montages in uw [&#x200B; de rekeningsprofiel van Adobe &#x200B;](https://account.adobe.com/profile){target="_blank"} moeten worden betreden.
 
 1. Klik op **[!UICONTROL Save]** .
