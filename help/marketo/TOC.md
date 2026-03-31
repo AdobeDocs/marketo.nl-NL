@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9337'
 ht-degree: 1%
 
 ---
@@ -220,7 +220,7 @@ ht-degree: 1%
          + [Landingspaginakoppen](product-docs/administration/settings/landing-page-headers.md)
          + [Productverbruiksdashboards](product-docs/administration/settings/product-usage-dashboards.md)
          + [Marketo-aanmeldingen beperken op basis van IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
-         + [Taal, landinstelling en tijdzone selecteren](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+         + [Uw tijdzone wijzigen](product-docs/administration/settings/change-time-zone.md)
          + [Een terugvalpagina instellen](product-docs/administration/settings/set-a-fallback-page.md)
          + [Standaardinstellingen voor locatie instellen voor een abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Privacy-instellingen begrijpen](product-docs/administration/settings/understanding-privacy-settings.md)
