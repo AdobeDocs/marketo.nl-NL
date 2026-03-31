@@ -4,9 +4,9 @@ description: Hoe beheerders de standaardlocatie-instellingen voor een abonnement
 title: Standaardinstellingen voor locatie instellen voor een abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '233'
 ht-degree: 1%
 
 ---
@@ -21,17 +21,17 @@ In dit artikel wordt beschreven hoe een beheerder de standaardlocatie-instelling
 
 ## Standaardinstellingen voor locatie instellen voor een abonnement {#set-default-location-settings-for-a-subscription-1}
 
-Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe gebruikers deze instellingen over. De gebruikers kunnen [&#x200B; hun taal, scène, en voorkeur van de tijdzone &#x200B;](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) in hun individuele rekeningen altijd veranderen.
+Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe gebruikers deze instellingen over. De gebruikers kunnen [ hun tijdzone ](/help/marketo/product-docs/administration/settings/change-time-zone.md) in hun individuele rekeningen veranderen.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. Klik op **[!UICONTROL Location]**.
+1. Klik op **[!UICONTROL Location]** .
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Klik op **[!UICONTROL Edit]**.
+1. Klik op **[!UICONTROL Edit]** .
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
@@ -47,7 +47,7 @@ Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe geb
 
    >[!NOTE]
    >
-   >De Verkoop Insight van Marketo voor [&#x200B; Salesforce.com &#x200B;](https://salesforce.com/) steunt Frans, Duits, Japans, Portugees, en Spaans.
+   >De Verkoop Insight van Marketo voor [ Salesforce.com ](https://salesforce.com/) steunt Frans, Duits, Japans, Portugees, en Spaans.
 
 ## De standaardinstellingen voor de valuta voor een abonnement instellen {#set-the-default-currency-settings-for-a-subscription}
 
@@ -65,4 +65,4 @@ Als u de standaardlandinstelling voor uw gebruikers wijzigt, kunt u ook de inste
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; selecteer Uw Taal, Plaats en Tijdzone &#x200B;](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [ Verandering Uw Streek van de Tijd ](/help/marketo/product-docs/administration/settings/change-time-zone.md)

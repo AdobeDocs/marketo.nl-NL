@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Opmerkingen bij de release - lente 17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '17
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 0%
@@ -16,15 +16,15 @@ De volgende functies zijn opgenomen in de release van het voorjaar van 17. Raadp
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Nota**: Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## [&#x200B; LinkedIn Lood Gen Forms &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [ LinkedIn Lood Gen Forms ](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[[!UICONTROL LinkedIn Lead Gen] Forms &#x200B;](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) is een directere manier voor een bedrijf om lood generatiecampagnes in werking te stellen [!DNL LinkedIn]. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de gegevens van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
+[[!UICONTROL LinkedIn Lead Gen] Forms ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) is een directere manier voor een bedrijf om lood generatiecampagnes in werking te stellen [!DNL LinkedIn]. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de details van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
 
-De Marketo-integratie met [!UICONTROL LinkedIn Lead Gen] Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. De acties en de berichten van de follow-up kunnen dan worden geautomatiseerd gebruikend de nieuwe **Vult uit [!DNL LinkedIn Lead Gen] 2&rbrace; trekker en filter van de Vorm &lbrace;uit.**
+De Marketo-integratie met [!UICONTROL LinkedIn Lead Gen] Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. De acties en de berichten van de follow-up kunnen dan worden geautomatiseerd gebruikend de nieuwe **Vult uit [!DNL LinkedIn Lead Gen] 2} trekker en filter van de Vorm {uit.**
 
 ![](assets/release-notes-image.png)
 
-## [&#x200B; vervalt Malplaatje MSI &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
+## [ vervalt Malplaatje MSI ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
 Gone zijn de dagen van het opschonen van verouderde sjablonen in [!DNL Sales Insight] . Stel een vervaldatum in wanneer u uw e-mailbericht publiceert en wij zorgen ervoor dat het publiceren van het bericht voor u ongedaan wordt gemaakt wanneer de vervaldatum omslaat.
 
@@ -34,21 +34,21 @@ Gone zijn de dagen van het opschonen van verouderde sjablonen in [!DNL Sales Ins
 
 ![](assets/four-281-29.png)
 
-## [&#x200B; Bulk extraheert APIs voor Mensen en Activiteiten &#x200B;](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [ Bulk extraheert APIs voor Mensen en Activiteiten ](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
 Breng eenvoudig grote hoeveelheden personen- en activiteitsgegevens over van Marketo naar uw externe systemen.
 
 ## Verbeteringen voor ABM {#abm-enhancements}
 
-**[Gebieden van de Douane op ABM Genoemde Rekeningen &#x200B;](https://docs.marketo.com/x/1wnG)**
+**[Gebieden van de Douane op ABM Genoemde Rekeningen ](https://docs.marketo.com/x/1wnG)**
 
 Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde accounts. U kunt deze aangepaste velden toewijzen aan velden in uw CRM-accountobject en Marketo ABM synchroniseert de gegevens, zodat u ABM Named Accounts kunt uitbreiden en uw marketing kunt stimuleren.
 
-**[Percentile het Scoren op ABM Genoemde Rekeningen &#x200B;](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Percentile het Scoren op ABM Genoemde Rekeningen ](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 De score voor benoemde accounts kan sterk variëren. Marketo ABM berekent nu automatisch een percentiel voor elk van uw scores, zodat u in een oogopslag kunt zien waar elke Benoemde Rekening onder uw andere Benoemde Rekeningen rangschikt.
 
-**[ABM Lijst APIs van de Rekening &#x200B;](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[ABM Lijst APIs van de Rekening ](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Profiteer van uitgebreide en robuuste integratie van ABM-partners met verbeterde API-ondersteuning voor benoemde accountlijsten.
 
@@ -86,16 +86,16 @@ Archief is een nieuwe status van de Campagne van het Web die u toestaat om [!UIC
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Localization](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localization](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization wordt nu aangeboden in alle door Marketo ondersteunde talen (Engels, Japans, Duits, Spaans, Frans en Portugees).
 
 ## Voorspelende verbeteringen {#predictive-enhancements}
 
-**[Localization](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localization](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Voorspelende inhoud wordt nu aangeboden in alle door Marketo ondersteunde talen (Engels, Japans, Duits, Spaans, Frans en Portugees).
 
-## [&#x200B; Verouderde Rich de Redacteur van de Tekst en Redacteur 1.0 van de Vorm Verdringing &#x200B;](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [ Verouderde Rich de Redacteur van de Tekst en Redacteur 1.0 van de Vorm Verdringing ](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 Vanaf 1 augustus 2017 zullen klanten die nog steeds de oude Rich Text Editor en de Form Editor 1.0 gebruiken, automatisch overstappen op de nieuwe ervaring.
