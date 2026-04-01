@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '9337'
+source-wordcount: '9340'
 ht-degree: 1%
 
 ---
@@ -1049,7 +1049,7 @@ ht-degree: 1%
          + [GenStudio-integratie voor Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Inhoud vergrendelen](product-docs/email-marketing/email-designer/content-locking.md)
          + [Collaboration e-mailen](product-docs/email-marketing/email-designer/email-collaboration.md)
-         + [AI-assistent](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [AI Assistant voor e-mail Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [E-mailSpam Rapport met SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + E-mailprogramma&#39;s {#email-programs}
          + Een e-mailprogramma maken {#creating-an-email-program}

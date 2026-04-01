@@ -6,9 +6,9 @@ description: Leer hoe u de AI-assistent gebruikt om tekst en afbeeldingen toe te
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '923'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Met AI Assistant in de Marketo Engage Email Designer kunt u hedendaagse, krachti
 
 >[!PREREQUISITES]
 >
->AI Assistant is niet standaard ingeschakeld. U moet eerst met de [&#x200B; termijnen van de Kern Gen-AI en de supplementaire termijnen &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
+>AI Assistant is niet standaard ingeschakeld. U moet eerst met de [ termijnen van de Kern Gen-AI en de supplementaire termijnen ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} voor het gebruiken van de Gen-AI functionaliteit in E-mail Designer akkoord gaan. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 ## Machtigingen instellen {#set-up-permissions}
 
@@ -35,7 +35,7 @@ _na_ na de voorwaarde hierboven, moeten de beheerders van Marketo toegang tot sp
 
    ![](assets/use-the-ai-assistant-0b.png)
 
-1. Onder _Studio van het Ontwerp van de Toegang_, selecteer **Hulp AI van de Toegang &lbrace;** checkbox en klik **sparen**.
+1. Onder _Studio van het Ontwerp van de Toegang_, selecteer **Hulp AI van de Toegang {** checkbox en klik **sparen**.
 
    ![](assets/use-the-ai-assistant-0c.png)
 
@@ -51,19 +51,23 @@ _na_ na de voorwaarde hierboven, moeten de beheerders van Marketo toegang tot sp
 
 ## Gebruiksscenario&#39;s {#use-cases}
 
-Er zijn drie hoofdgebruikscenario&#39;s voor AI Assistant:
+Er zijn een paar primaire gebruiksgevallen voor AI Assistant:
 
-* [&#x200B; creeer een onderwerpregel &#x200B;](#create-a-subject-line) voor uw e-mail
-* [&#x200B; creeer inhoud voor een specifieke sectie &#x200B;](#create-content-for-a-specific-section) van uw e-mail
-* [&#x200B; creeer volledige e-mail &#x200B;](#create-an-entire-email) van een geselecteerd malplaatje
+* [ creeer een onderwerpregel en/of preheader ](#create-a-subject-line-preheader) voor uw e-mail
+* [ creeer inhoud voor een specifieke sectie ](#create-content-for-a-specific-section) van uw e-mail
+* [ creeer volledige e-mail ](#create-an-entire-email) van een geselecteerd malplaatje
 
-## Een onderwerpregel maken {#create-a-subject-line}
+## Een onderwerpregel/voorkop maken {#create-a-subject-line-preheader}
 
-Wanneer een e-mailbericht wordt gemaakt met de nieuwe e-mailtoepassing Designer, voert u een tijdelijke onderwerpregel in.
+Met de AI-assistent kunt u een onderwerpregel, een voorkop of beide maken.
 
 ![](assets/use-the-ai-assistant-1.png)
 
-Nadat e-mail is gecreeerd, is de onderwerpregel in de _kolom van Details_ op het recht. Klik de AI hulpknoop ( ![&#x200B; pictogram van de Filter &#x200B;](assets/icon-ai-assistant.png)) naast het om hulp te krijgen die tot een nieuwe onderwerpregel leidt gebruikend de functionaliteit van Gen AI.
+In het onderstaande voorbeeld ziet u het onderwerp. Voor preheader, kunnen de zelfde stappen worden gevolgd door _te klikken Preheader_ checkbox (die in het beeld hierboven wordt gezien).
+
+Wanneer een e-mailbericht wordt gemaakt met de nieuwe e-mailtoepassing Designer, voert u een tijdelijke onderwerpregel in.
+
+Nadat e-mail is gecreeerd, is de onderwerpregel in de _kolom van Details_ op het recht. Klik de AI hulpknoop ( ![ pictogram van de Filter ](assets/icon-ai-assistant.png)) naast het om hulp te krijgen die tot een nieuwe onderwerpregel leidt gebruikend de functionaliteit van Gen AI.
 
 ![](assets/use-the-ai-assistant-2.png)
 
@@ -141,13 +145,13 @@ Er worden meerdere varianten gemaakt. Kies uw favoriet en klik **toepassen**.
 
 >[!NOTE]
 >
->Als geen van de beelden aan uw behoeften voldoen, **&#x200B;**&#x200B;opnieuw produceren om nieuwe versies tot stand te brengen.
+>Als geen van de beelden aan uw behoeften voldoen, **** opnieuw produceren om nieuwe versies tot stand te brengen.
 
 Tekstdelen van de e-mail kunnen net als afbeeldingen worden gewijzigd.
 
 ## Een volledige e-mail maken op basis van een geselecteerde sjabloon {#create-an-entire-email}
 
-Deze optie is alleen beschikbaar als de e-mail is gemaakt met een bestaande sjabloon. Dit kan een standaardsjabloon zijn die wordt geboden door de e-mail-Designer, een opgeslagen sjabloon die u al hebt gemaakt of een geïmporteerde sjabloon met de optie HTML importeren. Deze optie is niet beschikbaar als u [&#x200B; Ontwerp van Scratch &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) voor uw e-mail kiest.
+Deze optie is alleen beschikbaar als de e-mail is gemaakt met een bestaande sjabloon. Dit kan een standaardsjabloon zijn die wordt geboden door de e-mail-Designer, een opgeslagen sjabloon die u al hebt gemaakt of een geïmporteerde sjabloon met de optie HTML importeren. Deze optie is niet beschikbaar als u [ Ontwerp van Scratch ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) voor uw e-mail kiest.
 
 Selecteer een sjabloon zonder een component in de sjabloon te selecteren en klik op de knop AI-assistent in de e-mailtoepassing Designer.
 
