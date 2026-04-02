@@ -60,7 +60,7 @@ Gebruik het tabblad **[!UICONTROL About the brand]** om de belangrijkste identit
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [ uw merk ](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit) publiceren.
 
 ## Schrijfstijl {#writing-style}
 
@@ -171,7 +171,7 @@ U past de **[!UICONTROL Writing Style]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [ uw merk ](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit) publiceren.
 
 ## Visuele inhoud {#visual-content}
 
@@ -242,4 +242,4 @@ U past de **[!UICONTROL Visual content]** als volgt aan:
 
    SCREENSHOT
 
-U kunt uw merk verder personaliseren of [ uw merk ](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit) publiceren.
+U kunt uw merk verder personaliseren of [&#x200B; uw merk &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit) publiceren.
