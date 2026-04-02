@@ -4,20 +4,20 @@ description: SSO vereist voor alle gebruikers, zodat deze de SSO-beveiliging nie
 title: Alleen gebruikersaanmelding beperken tot SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Alleen gebruikersaanmelding beperken tot SSO {#restrict-user-login-to-sso-only}
 
-Als u [&#x200B; SSO &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) gebruikt en gebruikers wilt verzekeren kan niet de veiligheid omzeilen SSO, deze instructies volgen.
+Als u [ SSO ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) gebruikt en gebruikers wilt verzekeren kan niet de veiligheid omzeilen SSO, deze instructies volgen.
 
 >[!IMPORTANT]
 >
->Dit artikel is niet op [&#x200B; toe:laten 1&rbrace; Marketo abonnementen van Adobe IMS &lbrace;van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+>Dit artikel is niet op [ toe:laten 1} Marketo abonnementen van Adobe IMS {van toepassing.](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Als u [&#x200B; SSO &#x200B;](/help/marketo/product-docs/administration/addition
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Klik op **[!UICONTROL Login Settings]**.
+1. Klik op **[!UICONTROL Login Settings]** .
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. Klik op **[!UICONTROL Edit Security Settings]**.
+1. Klik op **[!UICONTROL Edit Security Settings]** .
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
@@ -45,7 +45,7 @@ Als u [&#x200B; SSO &#x200B;](/help/marketo/product-docs/administration/addition
 
 >[!TIP]
 >
->Als u **[!UICONTROL Require SSO]** selecteert, kunt u a [&#x200B; gebruikersrol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door de **[!UICONTROL Bypass Single Sign-On]** optie te controleren terwijl vestiging de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds via het aanmeldingsscherm moeten aanmelden bij Marketo. Als zowel SSO als Universal ID zijn ingeschakeld, moet u de machtiging Enkelvoudige aanmelding omzeilen hebben ingesteld om te kunnen schakelen tussen abonnementen.
+>Als u **[!UICONTROL Require SSO]** selecteert, kunt u a [ gebruikersrol ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door de **[!UICONTROL Bypass Single Sign-On]** optie te controleren terwijl vestiging de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds via het aanmeldingsscherm moeten aanmelden bij Marketo. Als zowel SSO als Universal ID zijn ingeschakeld, moet u de machtiging Enkelvoudige aanmelding omzeilen hebben ingesteld om te kunnen schakelen tussen abonnementen.
 
 >[!CAUTION]
 >
@@ -55,6 +55,5 @@ Dat is het! Nu zullen alle gebruikers (behalve gebruikers met toestemming om eni
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg Enige Sign-On aan een Portaal &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) toe
->* [&#x200B; Gebruikend een Universele identiteitskaart voor de Login van het Abonnement &#x200B;](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
->* [&#x200B; het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart &#x200B;](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+>* [ voeg Enige Sign-On aan een Portaal ](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) toe
+>* [ het Uitnodigen van de Gebruikers van Marketo aan Twee Instanties met Universele identiteitskaart ](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)

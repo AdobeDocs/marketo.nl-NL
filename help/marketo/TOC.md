@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9333'
 ht-degree: 1%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 1%
          + [Een terugvalpagina instellen](product-docs/administration/settings/set-a-fallback-page.md)
          + [Standaardinstellingen voor locatie instellen voor een abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Privacy-instellingen begrijpen](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [Een universele id gebruiken voor aanmelding bij een abonnement](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + Tags {#tags}
          + [Nieuwe programmatag- en tagwaarden maken](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Een programmakanaal maken](product-docs/administration/tags/create-a-program-channel.md)

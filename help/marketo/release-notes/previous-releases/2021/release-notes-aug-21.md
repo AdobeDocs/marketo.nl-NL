@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - augustus 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -43,19 +43,19 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Sales Insight] {#sales-insight}
 
-![&#x200B; (star) &#x200B;](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
 * **Verbeterde zichtbaarheid in Lood, Contact, Rekening &amp; de Activiteiten van de Kans voor de Gebruikers van Salesforce CRM**: Betrokkenheid met vooruitzichten tijdens lange verkoopcycli wordt meer geïnformeerd toe te schrijven aan een verhoogd aantal betrokkenheidsverslagen in [!DNL Sales Insight]. Interesserende momenten, webactiviteit, e-mail en score worden weergegeven met maximaal 400 activiteiten over objecten Lead, Contact, Account en Opportunity.
 
 ## [!DNL Sales Connect] {#sales-connect}
 
-![&#x200B; (star) &#x200B;](assets/yellow-star.png)
+![ (star) ](assets/yellow-star.png)
 
 * **de Throttling van de Verbinding van de E-mail (Beta)**: Verbeter e-mailleverbaarheid en schaal gepersonaliseerde verkoopmededeling met de vertraging van de e-mailverbinding voor Verkoop verbindt. Deze nieuwe technologie beheert automatisch de tijdinstellingen voor het verzenden van e-mail, zodat [!DNL Exchange] - en Gmail-gebruikers er probleemloos mee kunnen werken. Verlaag of verwijder het gebruik van grote hoeveelheden e-mailberichten van derden en verzend alle e-mails van [!DNL Sales Connect] met vertrouwen.
 
 >[!NOTE]
 >
->E-mailvertraging is nu beschikbaar in Beta. [&#x200B; leer meer &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+>E-mailvertraging is nu beschikbaar in Beta. [Meer info](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 * **Verbeterde Inzichten van de Activiteit van de Verkoop**: Vang en activeer gepersonaliseerde overeenkomst die op de vroegere activiteiten van uw verkoopteam wordt gebaseerd. De nieuwe attributen zoals de Verbinding van de Opname van de Vraag van de Verkoop, de Naam van de Campagne van de Verkoop, en Onderwerp van e-mail van de Verkoop kunnen in slimme lijsten van Marketo Engage worden gebruikt.  Deze activiteiten kunnen worden geëxporteerd en gerapporteerd via de Marketo Engage REST API of Bulk Export en zijn beschikbaar op filters en triggers als extra beperkingen voor slimme lijsten.
 
@@ -63,7 +63,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Forms-integratie van leidende klasse** : marketers kunnen nu inkomstenattributie uitvoeren op conversies die optreden wanneer [!DNL LinkedIn] formuliervullingen vastlegt via hun leidende gen-Forms en -eenheden. Deze inzichten kunnen dan worden gebruikt om formulierprestaties en betaalde media-investeringen te optimaliseren. [!DNL LinkedIn] Leider-gen Forms is een van de snelst groeiende, betaalbare mediaproducties van [!DNL LinkedIn] en deze nieuwe functionaliteit is inbegrepen bij onze bestaande [!DNL LinkedIn] Advertentieverbinding met [!DNL Bizible] .
+* **[!DNL Bizible][!DNL LinkedIn] Forms-integratie van leidende klasse** : marketers kunnen nu inkomstenattributie uitvoeren op conversies die optreden wanneer [!DNL LinkedIn] formuliervullingen vastlegt via hun leidende gen-Forms en -eenheden. Deze inzichten kunnen dan worden gebruikt om formulierprestaties en betaalde media-investeringen te optimaliseren. [!DNL LinkedIn] Leider-gen Forms is een van de snelst groeiende, betaalde mediaproducten van [!DNL LinkedIn] en deze nieuwe functionaliteit is inbegrepen bij onze bestaande [!DNL LinkedIn] Advertenintegratie met [!DNL Bizible] .
 
 * **Verbeterd dashboard van de Snelheid**: Wij hebben een nieuwe metrische snelheidsfilter en dashboardfilter voor diepere inzichten toegevoegd. Dit dashboard wordt door marketers gebruikt om de toonaangevende positie en opportuniteitssnelheid van de verschillende stadia en de efficiëntie van verschillende vormen van marketing en verkoopbetrokkenheid te begrijpen.
 
@@ -71,7 +71,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## [!DNL Bizible] Integratie met Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-Deze sectie bevat nieuwe functies voor Bizible-gebruikers die de migratie naar hun Adobe Identity Management System (IMS) hebben voltooid. Als u bent gemigreerd, wordt de nieuwe Adobe ID weergegeven in [!DNL Bizible] Instellingen onder het tabblad Adobe ID. Alle rekeningen zouden tegen eind 2021 moeten zijn gemigreerd.
+Deze sectie bevat nieuwe functies voor Bizible-gebruikers die de migratie naar hun Adobe Identity Management System (IMS) hebben voltooid. Als u bent gemigreerd, ziet u de nieuwe Adobe ID in [!DNL Bizible] Instellingen onder het tabblad Adobe ID. Alle rekeningen zouden tegen eind 2021 moeten zijn gemigreerd.
 
 * **[!DNL Bizible]Integratie met Adobe Privacy Service** (beschikbaar in september 2021): de integratie van [!DNL Bizible] met Adobe Privacy Service centraliseert naleving van kritieke gegevensprivacyverordeningen (zoals GDPR) over Adobe Experience Cloud-toepassingen. U kunt nu gebruikmaken van deze service en alle privacyverzoeken centraal beheren, zodat wijzigingsverzoeken die binnenkomen in [!DNL Bizible] en andere Adobe-producten in alle toepassingen worden doorgevoerd.
 
@@ -81,8 +81,8 @@ Deze sectie bevat nieuwe functies voor Bizible-gebruikers die de migratie naar h
 
 ## Aankondigingen {#announcements}
 
-* **Update aan de Montages van de Universele identiteitskaart van het Abonnement**: Om de aanstaande integratie van de Identiteit van Marketo Engage en van Adobe voor bestaande gebruikers te steunen, zullen alle abonnementen van Marketo Engage in enablement van Universele identiteitskaart steun worden verenigd. Meer informatie [&#x200B; kan hier &#x200B;](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) worden gevonden.
+* **Update aan de Montages van de Universele identiteitskaart van het Abonnement**: Om de aanstaande integratie van de Identiteit van Marketo Engage en van Adobe voor bestaande gebruikers te steunen, zullen alle abonnementen van Marketo Engage in enablement van Universele identiteitskaart steun worden verenigd.
 
 **_Webinar van de Versie van het Product_**
 
-[&#x200B; Augustus 2021 de Versie van Marketo Engage Webinar &#x200B;](https://engage.marketo.com/August21_Release_Webinar.html)
+[ Augustus 2021 de Versie van Marketo Engage Webinar ](https://engage.marketo.com/August21_Release_Webinar.html)
