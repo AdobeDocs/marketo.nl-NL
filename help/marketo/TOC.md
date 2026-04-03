@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 3ab1d36fd99e72566adc463429fb8084dbf364c9
 workflow-type: tm+mt
-source-wordcount: '9333'
+source-wordcount: '9339'
 ht-degree: 1%
 
 ---
@@ -1035,9 +1035,6 @@ ht-degree: 1%
          + [Afbeeldingen converteren naar HTML-sjablonen](product-docs/email-marketing/email-designer/image-to-html.md)
          + [Toegankelijke inhoud ontwerpen](product-docs/email-marketing/email-designer/accessible-content.md)
          + [Aangepaste CSS](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Merkthema&#39;s](product-docs/email-marketing/email-designer/brand-themes.md)
-         + [Merk toepassen](product-docs/email-marketing/email-designer/apply-brand.md)
-         + [Merk beheren](product-docs/email-marketing/email-designer/manage-brand.md)
          + [Donkere modus](product-docs/email-marketing/email-designer/dark-mode.md)
          + [E-mailrendering testen met Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Personalization Tokens](product-docs/email-marketing/email-designer/personalization-tokens.md)
@@ -1050,6 +1047,12 @@ ht-degree: 1%
          + [Collaboration e-mailen](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI Assistant voor e-mail Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [E-mailSpam Rapport met SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
+         + Merken {#brands}
+            + [Merkthema&#39;s](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Merk toepassen](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Merken beheren](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Je merken aanpassen](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Merk uitlijnen](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + E-mailprogramma&#39;s {#email-programs}
          + Een e-mailprogramma maken {#creating-an-email-program}
             + [Een e-mailprogramma maken](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
