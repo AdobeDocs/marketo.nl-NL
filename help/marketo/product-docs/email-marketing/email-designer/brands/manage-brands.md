@@ -22,7 +22,7 @@ Voer uw merkgegevens handmatig in en ordent deze of upload documenten met brandr
 
 >[!AVAILABILITY]
 >
->U moet met de [ gebruikersovereenkomst ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-accountmanager.
+>U moet met de [&#x200B; gebruikersovereenkomst &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} akkoord gaan alvorens u de Medewerker AI in Adobe Marketo Engage kunt gebruiken. Neem voor meer informatie contact op met uw Adobe-accountmanager.
 
 ## Handelsmerken {#access}
 
@@ -50,7 +50,7 @@ Als u de richtlijn voor uw merk wilt maken en beheren, kunt u de details zelf in
 
    ![](assets/create-and-manage-brands-5.png)
 
-1. Naast _beheert uw Merken_, geeft de klik **** uit.
+1. Naast _beheert uw Merken_, geeft de klik **&#x200B;**&#x200B;uit.
 
    ![](assets/create-and-manage-brands-6.png)
 
