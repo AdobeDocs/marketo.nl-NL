@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -233,7 +233,7 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
   </tr>
   <tr>
     <td>Merkthema's</td>
-    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank"> goedgekeurde thema's </a> over de organisatie toe te passen om consistentie in elementen zoals stijl, kleur, doopvontgrootte, enz. te verzekeren.</td>
+    <td>Mogelijkheid om <a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank"> goedgekeurde thema's </a> over de organisatie toe te passen om consistentie in elementen zoals stijl, kleur, doopvontgrootte, enz. te verzekeren.</td>
     <td>Niet beschikbaar</td>
     <td>Beschikbaar</td>
   </tr>
