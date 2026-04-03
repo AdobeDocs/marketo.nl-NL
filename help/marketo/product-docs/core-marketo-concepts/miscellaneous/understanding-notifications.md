@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: Meer informatie over Marketo Engage-meldingen voor mislukte campagnes en CRM-synchronisatie. Schrijf je in om berichten via e-mail op te halen en up-to-date te blijven.
 title: Kennisgevingen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '242'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,10 @@ Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je
 
    ![](assets/understanding-notifications-2.png){width="800" zoomable="yes"}
 
+   >[!NOTE]
+   >
+   >Meldingen zijn 60 dagen beschikbaar in je Marketo-account.
+
 ## Abonneren op meldingen {#subscribe-to-notifications}
 
 U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
@@ -38,9 +42,9 @@ U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
 >[!NOTE]
 >
->Het vak _[!UICONTROL Send to]_&#x200B;mag alleen door u worden ingevuld als u een e-mailadres opgeeft. Er wordt geen lijst met bestaande abonnees weergegeven.
+>Het vak _[!UICONTROL Send to]_mag alleen door u worden ingevuld als u een e-mailadres opgeeft. Er wordt geen lijst met bestaande abonnees weergegeven.
 
-In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het Microsoft Dynamics Sync Errors-bestand. Marketo Engage bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
+In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het Microsoft Dynamics Sync Errors-bestand. Marketo Engage bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt er een fout weergegeven.
 
 >[!TIP]
 >
