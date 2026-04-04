@@ -3,11 +3,13 @@ unique-page-id: 2949270
 description: Vergelijk de trefwoordwaarderingen van uw concurrenten en van uw concurrenten in de loop der tijd.
 title: SEO - Gebruik van het rapport KW-trends voor de concurrent
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
+hide: true
+hidefromtoc: true
 feature: SEO
-source-git-commit: b42922726bebab913436bb0955557339af96d0f5
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 2%
+source-wordcount: '202'
+ht-degree: 0%
 
 ---
 
@@ -17,12 +19,12 @@ In dit rapport kunt u zien hoe u en uw concurrenten in de loop der tijd op trefw
 
 >[!IMPORTANT]
 >
->Op 31 maart 2026 zal Marketo Engage de functie Optimalisatie zoekmachine vervangen. Exporteer alle relevante gegevens op of vóór 30 maart. [Meer info](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>Op 31 Maart, 2026, verwierp Marketo Engage [ de Optimalisering van de Motor van het Onderzoek ](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"} eigenschap. [ seo.marketo.com ](https://seo.marketo.com/) is nog beschikbaar voor een beperkte tijd. Voer de stappen in de onderstaande artikelen uit om gegevens te exporteren.
 >
->* [&#x200B; Uitvoer Kwesties &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [&#x200B; Resultaten van het Trefwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [&#x200B; Trends van het Sleutelwoord van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [&#x200B; Trends van het Sleutelwoord van de Concurrentie van de Uitvoer &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [ Uitvoer Kwesties ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ Resultaten van het Trefwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ Trends van het Sleutelwoord van de Concurrentie van de Uitvoer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Rapporten zoeken {#find-reports}
 
@@ -30,7 +32,7 @@ In dit rapport kunt u zien hoe u en uw concurrenten in de loop der tijd op trefw
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Klik op **[!UICONTROL Competitor KW Rank Trends]**.
+1. Klik op **[!UICONTROL Competitor KW Rank Trends]** .
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 1%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 1%
 + Productdocumenten {#product-docs}
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}
-         + SEO begrijpen {#understanding-seo}
-            + [Optimalisatie van zoekprogramma&#39;s](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Werken met het SEO-dashboard: SEO-aanbevelingen](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [SEO-dashboard begrijpen: SEO-momentopname](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - Een site toevoegen/een site verwijderen](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - Concurrenten toevoegen](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - Lijsten beheren](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - Kies Regio/Land voor je zoekmachine](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - Voorkeuren voor e-mailwaarschuwingen instellen](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Trefwoorden {#keywords}
-            + [SEO - Trefwoorden toevoegen](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - Kolommen toevoegen/verwijderen uit de trefwoordenweergave](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - Trefwoorden toevoegen/verwijderen uit een lijst](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - Trefwoordresultaten exporteren](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - Trefwoordresultaten filteren](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - voorgestelde trefwoorden ophalen](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - Trefwoorden importeren met een CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - Trefwoordtrends grafiek](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - Specifieke pagina&#39;s optimaliseren met doeltrefwoorden](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - Een trefwoord verwijderen](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - Trefwoorden begrijpen](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - de Resultaten van het Sleutelwoord van de Mening in een Motor van het Onderzoek](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Pagina&#39;s {#pages}
-            + [SEO - Notities toevoegen aan pagina-problemen](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - Pagina&#39;s toevoegen](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - Pagina toevoegen/verwijderen uit lijst](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - Pagina-uitgave toevoegen/verwijderen uit een lijst](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - Problemen exporteren naar CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - Een pagina-probleem verwijderen/verwijderen](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - Een pagina verwijderen/verwijderen](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - Pagina&#39;s begrijpen](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - De boor Page Detail Down gebruiken](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + Binnenkomende koppelingen {#inbound-links}
-            + [SEO - voeg manueel een Binnenkomende Verbinding URL toe](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - krijg de Binnenkomende Suggesties van de Verbinding](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - verwijder/verwijder een Binnenkomende Verbinding URL](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - Inkomende koppelingen begrijpen](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Rapporten {#reports}
             + [SEO - Gebruik van het rapport KW-trends voor de concurrent](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - het Rapport van de Trends van het Sleutelwoord gebruiken](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
