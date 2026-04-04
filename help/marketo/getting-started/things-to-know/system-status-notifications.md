@@ -48,7 +48,7 @@ In stap 7 van [&#x200B; de sectie hieronder &#x200B;](#create-a-subscription), z
 
 Na [&#x200B; identificerend uw gegevenscentrum en pod/server &#x200B;](#identify), volg de stappen hieronder om een abonnement tot stand te brengen.
 
-1. Op [&#x200B; status.adobe.com &#x200B;](https://status.adobe.com), klik **leiden Abonnementen**.
+1. Op [&#x200B; status.adobe.com &#x200B;](https://status.adobe.com/nl-nl), klik **leiden Abonnementen**.
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 

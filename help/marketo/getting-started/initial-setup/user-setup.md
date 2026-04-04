@@ -113,7 +113,7 @@ Om [&#x200B; Dynamic Chat &#x200B;](https://experienceleague.adobe.com/docs/mark
 <tbody>
   <tr>
     <td>Adobe Marketo-statusupdates</td>
-    <td><li><a href="https://status.adobe.com/cloud/experience_cloud"> maak een abonnement op de updates van de Status van Adobe Marketo Engage </a>.</li></td>
+    <td><li><a href="https://status.adobe.com/nl-nl/cloud/experience_cloud"> maak een abonnement op de updates van de Status van Adobe Marketo Engage </a>.</li></td>
   </tr>
   <tr>
     <td>Meldingen</td>
