@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
+source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
 workflow-type: tm+mt
 source-wordcount: '9171'
 ht-degree: 1%
@@ -58,12 +58,12 @@ ht-degree: 1%
       + [Overgenomen instantie: Uw instelling documenteren](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Kernvaardigheden evalueren](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Productdocumenten {#product-docs}
-   + Marketo MCP {#marketo-mcp}
-      + [Overzicht](product-docs/marketo-mcp/overview.md)
-      + [Instellingen en instellingen](product-docs/marketo-mcp/settings-setup.md)
+   + MARKETO AI {#marketo-ai}
+      + [Overzicht](product-docs/marketo-ai/overview.md)
+      + [Instellingen en instellingen](product-docs/marketo-ai/settings-setup.md)
       + Medewerkers {#agents}
-         + [Importleads](product-docs/marketo-mcp/agents/import-leads.md)
-         + [Programma-kwaliteitscontrole](product-docs/marketo-mcp/agents/program-qa.md)
+         + [Importleads](product-docs/marketo-ai/agents/import-leads.md)
+         + [Programma-kwaliteitscontrole](product-docs/marketo-ai/agents/program-qa.md)
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}
          + Trefwoorden {#keywords}
