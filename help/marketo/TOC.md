@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
+source-git-commit: 8a9445f0cce6afc6506d0cb30b67bd071828f0a1
 workflow-type: tm+mt
-source-wordcount: '9160'
+source-wordcount: '9168'
 ht-degree: 1%
 
 ---
@@ -58,6 +58,11 @@ ht-degree: 1%
       + [Overgenomen instantie: Uw instelling documenteren](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Kernvaardigheden evalueren](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Productdocumenten {#product-docs}
+   + Marketo MCP {#marketo-mcp}
+      + [Overzicht](product-docs/marketo-mcp/overview.md)
+      + Medewerkers {#agents}
+         + [Importleads](product-docs/marketo-mcp/agents/import-leads.md)
+         + [Programma-kwaliteitscontrole](product-docs/marketo-mcp/agents/program-qa.md)
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}
          + Trefwoorden {#keywords}
