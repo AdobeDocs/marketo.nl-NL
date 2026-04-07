@@ -4,10 +4,10 @@ title: Instellingen en instellingen
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,23 @@ ht-degree: 0%
 
 Starttekst.
 
+## Instellingen {#settings}
+
+Voer de onderstaande stappen uit om een verbinding tot stand te brengen met uw Marketo Engage-account.
+
+1. In Mijn Marketo, klik de **Bouw met AI** tegel.
+
+SCREENSHOT
+
+1. Klik op het tandwielpictogram
+
+NODIG IS INSTANTIE DIE NOG NIET IS VERBONDEN
+
 ## Verbinding {#connection}
 
 Voer op het tabblad Verbinding de onderstaande stappen uit voor de eerste setup van NAME VAN MARKETO MCP.
 
-+++
++++Aanvankelijke installatiestappen
 
 Tekst
 
