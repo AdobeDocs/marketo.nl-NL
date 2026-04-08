@@ -4,7 +4,7 @@ title: Marketo Engage AI - Overzicht
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 2%
@@ -31,6 +31,14 @@ In de centrumconsole zijn er zeven functies van het Bureau om u met diverse take
 
 ## Medewerkers {#agents}
 
+### Programma-kwaliteitscontrole {#program-qa}
+
+Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [Meer informatie](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Importleads {#import-leads}
+
+U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [Meer informatie](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Lead onderzoeken (binnenkort beschikbaar) {#investigate-lead}
 
 Ontdek waarom iemand geen MQL had, in aanmerking kwam voor een programma, of door de levenscyclus vorderde.
@@ -42,14 +50,6 @@ Maak een document met programmainstellingen waarvan anderen gebruik kunnen maken
 ### Programma maken (binnenkort beschikbaar) {#create-program}
 
 Genereer een volledig Marketo Engage-programma met behulp van een campagnecorrectie, compleet met e-mail, landingspagina en Smart Campaign.
-
-### Programma-kwaliteitscontrole {#program-qa}
-
-Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [Meer informatie](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Importleads {#import-leads}
-
-U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [Meer informatie](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Gegevens normaliseren (binnenkort beschikbaar) {#normalize-data}
 

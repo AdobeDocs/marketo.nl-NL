@@ -4,9 +4,9 @@ title: Instellingen en instellingen
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,51 @@ Leer hoe te om toestemmingen toe te laten en het gebied van Montages te gebruike
 
 ## Machtigingen {#permissions}
 
-Om toegang te krijgen tot Marketo AI, moeten beheerders eerst roltoestemmingen toelaten.
+>[!IMPORTANT]
+>
+>In de fase van Alpha van Marketo AI, _wordt de toegang toegelaten door gebrek_ voor de volgende rollen: Admin, de Marketing Gebruiker van Admin van het Product van Adobe, StandaardGebruiker. Dus in plaats van het in te schakelen voor rollen die je toegang wilt hebben, moet je het uitschakelen voor rollen die je niet hebt.
+
+### Toegang voor iedereen {#access-for-all}
+
+Als u Marketo AI ingeschakeld wilt voor alle rollen hierboven, hoeft u niets te doen.
+
+### Toegang voor sommigen {#access-for-some}
+
+Als u toegang voor om het even welke rollen wilt verwijderen, volg de hieronder stappen.
 
 1. In uw Mijn Marketo, klik **Admin**, toen **Gebruikers &amp; Rollen**.
 
    ![](assets/settings-setup-1.png)
 
-1. In het _lusje van Rollen_, selecteer de gewenste rol en klik **geef Rol** uit.
+1. In het _lusje van Rollen_, selecteer de gewenste rol (of rollen) en klik **geef Rol** uit.
 
    ![](assets/settings-setup-2.png)
 
-1. De rol neer en selecteert **Toegang bouwt met AI** checkbox en klikt **sparen**.
+1. De rol neer en _uncheck_ de **Toegang bouwt met AI** checkbox en klikt **sparen**.
 
    ![](assets/settings-setup-3.png)
+
+### Aangepaste rol {#custom-role}
+
+U hebt ook de optie om een nieuwe rol [ tot stand te brengen en zijn toestemmingen aan te passen, die ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _samen met om het even wat u wilt, en_ toewijzend die rol [ aan specifieke gebruikers.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
+
+<!-- ## Permissions {#permissions}
+
+In order to access Marketo AI, Admins must first enable role permissions. 
+
+1. In your My Marketo, click **Admin**, then **Users & Roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+
+   ![](assets/settings-setup-3.png)
+
+-->
 
 ## Instellingen {#settings}
 
