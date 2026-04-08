@@ -3,9 +3,9 @@ description: Binnenkort beschikbaar.
 title: lood onderzoeken
 hide: true
 hidefromtoc: true
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Ontdek waarom iemand geen MQL had, in aanmerking kwam voor een programma, of door de levenscyclus vorderde.
 
-Klik op de pijl omlaag rechts om de volledige lijst met onderzoeksscenario&#39;s weer te geven.
+Klik op de pijl rechts om de volledige lijst met onderzoeksscenario&#39;s weer te geven.
 
 SCREENSHOT
 
