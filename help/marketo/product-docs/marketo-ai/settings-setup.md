@@ -43,7 +43,7 @@ Als u toegang voor om het even welke rollen wilt verwijderen, volg de hieronder 
 
 ### Aangepaste rol {#custom-role}
 
-U hebt ook de optie om een nieuwe rol [ tot stand te brengen en zijn toestemmingen aan te passen, die ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _samen met om het even wat u wilt, en_ toewijzend die rol [ aan specifieke gebruikers.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
+U hebt ook de optie om een nieuwe rol [&#x200B; tot stand te brengen en zijn toestemmingen aan te passen, die &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _samen met om het even wat u wilt, en_ toewijzend die rol [&#x200B; aan specifieke gebruikers.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
 
 <!-- ## Permissions {#permissions}
 
