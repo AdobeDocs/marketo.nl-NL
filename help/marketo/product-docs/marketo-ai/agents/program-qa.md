@@ -1,12 +1,12 @@
 ---
-description: Binnenkort beschikbaar.
+description: Leer hoe u uw programma's kunt controleren op de beste praktijken voor alle componenten, zoals e-mails, landingspagina's, campagnes en meer.
 title: Programma-kwaliteitscontrole
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Controleer uw programma&#39;s op beste praktijken over alle componenten, zoals e-mail, landende pagina&#39;s, campagnes, en meer.
 
-Er zijn twee manieren om tot deze Agent toegang te hebben.
+## Hoe wordt het gebruikt {#how-to-use}
 
-Klik op de agent vanuit het middelste venster en klik op de vervolgkeuzelijst rechtsboven
+1. In uw Mijn Marketo, klik **bouwen met AI** tegel.
 
-klik op de knop Deze agent gebruiken
+   ![](assets/program-qa-1.png)
 
-en in de linkerruit van de snelle dialoogdoos, zal de standaardtekst verschijnen.
+1. Klik de **agent van QA van het 0} Programma.**
 
-Selecteer vervolgens in het rechterdeelvenster het programma dat u als QA wilt gebruiken
+   ![](assets/program-qa-2.png)
 
-Een samenvatting van het programma zal in het centrumvenster verschijnen die een overzicht van Programma verstrekken en wat voor het werd gecreeerd.
+   U wordt meegenomen naar het conversationele AI-scherm.
 
-Of klik op de Agent in het belangrijkste Conversational AI scherm.
+1. Selecteer het gewenste programma in de juiste ruit.
 
-De AI Medewerker zal de standaardtekst tonen om te tonen welke Agent zal worden uitgevoerd.
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-Selecteer vervolgens rechts het programma dat kwaliteitscontrole vereist.
+In het middelste venster wordt een samenvatting van het programma weergegeven met een overzicht van het programma.
 
-en dezelfde samenvatting wordt weergegeven in de middenconsole
+![](assets/program-qa-4.png){width="450" zoomable="yes"}
