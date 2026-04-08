@@ -21,7 +21,7 @@ Controleer uw programma&#39;s op beste praktijken over alle componenten, zoals e
 
    ![](assets/program-qa-1.png)
 
-1. Klik de **agent van QA van het 0} Programma.**
+1. Klik de **agent van QA van het 0&rbrace; Programma.**
 
    ![](assets/program-qa-2.png)
 
