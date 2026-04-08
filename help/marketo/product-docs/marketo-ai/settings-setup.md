@@ -1,19 +1,19 @@
 ---
-description: Binnenkort beschikbaar.
+description: Leer hoe u Marketo AI-machtigingen kunt inschakelen, organisatorische regels kunt configureren en instellingen zoals integratie en meldingen kunt beheren.
 title: Instellingen en instellingen
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 1%
+source-wordcount: '225'
+ht-degree: 0%
 
 ---
 
 # Instellingen en instellingen {#settings-setup}
 
-Starttekst.
+Leer hoe te om toestemmingen toe te laten en het gebied van Montages te gebruiken om verbindingsdetails te bekijken, organisatorische regels te bepalen, en opstellingsintegratie en berichten.
 
 ## Machtigingen {#permissions}
 

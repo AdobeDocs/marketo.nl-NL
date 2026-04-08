@@ -1,12 +1,12 @@
 ---
-description: Binnenkort beschikbaar.
+description: Leer hoe u de agent Leads importeren gebruikt om een CSV te uploaden, bedrijfsregels toe te passen, velden toe te wijzen en leads rechtstreeks in uw Marketo Engage-database te importeren.
 title: Importleads
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
