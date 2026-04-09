@@ -4,9 +4,9 @@ title: Instellingen en instellingen
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
+source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Als u toegang voor om het even welke rollen wilt verwijderen, volg de hieronder 
 
    ![](assets/settings-setup-1.png)
 
-1. In het _lusje van Rollen_, selecteer de gewenste rol (of rollen) en klik **geef Rol** uit.
+1. In het _lusje van Rollen_, selecteer de gewenste rol en klik **geef Rol** uit.
 
    ![](assets/settings-setup-2.png)
 
@@ -41,9 +41,11 @@ Als u toegang voor om het even welke rollen wilt verwijderen, volg de hieronder 
 
    ![](assets/settings-setup-3.png)
 
+Herhaal deze stappen voor alle andere gewenste rollen.
+
 ### Aangepaste rol {#custom-role}
 
-U hebt ook de optie om een nieuwe rol [&#x200B; tot stand te brengen en zijn toestemmingen aan te passen, die &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [&#x200B; aan specifieke gebruikers.](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
+U hebt ook de optie om een nieuwe rol [ tot stand te brengen en zijn toestemmingen aan te passen, die ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [ aan specifieke gebruikers.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
 
 <!-- ## Permissions {#permissions}
 
