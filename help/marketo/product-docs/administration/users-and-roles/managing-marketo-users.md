@@ -4,7 +4,7 @@ description: Stappen voor het maken en verwijderen van gebruikers, het opnieuw i
 title: Marketo-gebruikers beheren
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Dit artikel is slechts voor degenen die _niet_ gebruiken [&#x200B; Marketo met de Identiteit van Adobe &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Als u doet, te volgen gelieve de stappen in [&#x200B; dit artikel &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Dit artikel is slechts voor degenen die _niet_ gebruiken [ Marketo met de Identiteit van Adobe ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Als u doet, te volgen gelieve de stappen in [ dit artikel ](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}.
 
 ## Gebruikers maken {#create-users}
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Klik op **[!UICONTROL Invite New User]**.
+1. Klik op **[!UICONTROL Invite New User]** .
 
    ![](assets/managing-marketo-users-3.png)
 
@@ -39,7 +39,7 @@ ht-degree: 1%
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Next]** .
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -75,13 +75,13 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 >[!NOTE]
 >
->Als de gebruiker u wilt schrappen ook een gebruiker van Dynamic Chat is, moet u [&#x200B; hen uit Dynamic Chat &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} in Admin Console verwijderen alvorens u hen in Marketo Engage kunt schrappen.
+>Als de gebruiker u wilt schrappen ook een gebruiker van Dynamic Chat is, moet u [ hen uit Dynamic Chat ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} in Admin Console verwijderen alvorens u hen in Marketo Engage kunt schrappen.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-marketo-users-11.png)
 
@@ -99,7 +99,7 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-marketo-users-15.png)
 
@@ -123,7 +123,7 @@ De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van 
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-marketo-users-19.png)
 
@@ -131,7 +131,7 @@ De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van 
 
    ![](assets/managing-marketo-users-20.png)
 
-1. U kunt gebruikersgegevens bewerken en de bijbehorende rol wijzigen. Klik op **[!UICONTROL Save]**.
+1. U kunt gebruikersgegevens bewerken en de bijbehorende rol wijzigen. Klik op **[!UICONTROL Save]** .
 
    ![](assets/managing-marketo-users-21.png)
 
