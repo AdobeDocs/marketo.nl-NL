@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '9176'
 ht-degree: 1%
 
 ---
@@ -1005,6 +1005,7 @@ ht-degree: 1%
          + [E-mailsjabloonontwerp](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [Een sjabloon importeren](product-docs/email-marketing/email-designer/import-template.md)
          + [Afbeeldingen converteren naar HTML-sjablonen](product-docs/email-marketing/email-designer/image-to-html.md)
+         + [E-mailsjabloon geavanceerd HTML Editor](product-docs/email-marketing/email-designer/advanced-html-mode.md)
          + [Toegankelijke inhoud ontwerpen](product-docs/email-marketing/email-designer/accessible-content.md)
          + [Aangepaste CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [Donkere modus](product-docs/email-marketing/email-designer/dark-mode.md)

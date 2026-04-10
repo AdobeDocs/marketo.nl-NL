@@ -4,9 +4,9 @@ description: Leer hoe u een Marketo Email Add-in-licentie voor Outlook kunt uitg
 title: Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -40,12 +40,12 @@ Iedereen die de [!DNL Outlook] Add-in voor Marketo-e-mail wil gebruiken, moet ee
 
    >[!NOTE]
    >
-   >* Om de stop ver te installeren, verlaat _verzendt e-mail van de Registratie_ checkbox ongecontroleerd en verzendt uw team van IT uw [&#x200B; Sleutel van de Onderneming &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Om de stop ver te installeren, verlaat _verzendt e-mail van de Registratie met downloadverbinding_ checkbox ongecontroleerd en verzendt uw team van IT uw [ Sleutel van de Onderneming ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >* Als uw verkoopvertegenwoordigers beheerdertoegang tot hun computers hebben, controleer _verzendt e-mail van de Registratie_ checkbox en u wordt gedaan. De ontvangers hebben **30 dagen** om de verbinding in e-mail te klikken alvorens het verloopt.
+   >* Als uw verkoopvertegenwoordigers beheerdertoegang tot hun computers hebben, controleer _verzendt e-mail van de Registratie met downloadverbinding_ checkbox en u wordt gedaan. De ontvangers hebben **30 dagen** om de verbinding in e-mail te klikken alvorens het verloopt.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; installeer toe:voegen-binnen Marketo voor  [!DNL Outlook]  met een Sleutel van de Onderneming &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
->* [&#x200B; installeer Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]  met een Code van de Registratie &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
->* [&#x200B; bevorder uw toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+>* [ installeer toe:voegen-binnen Marketo voor  [!DNL Outlook]  met een Sleutel van de Onderneming ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
+>* [ installeer Marketo E-mail toe:voegen-binnen voor  [!DNL Outlook]  met een Code van de Registratie ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+>* [ bevorder uw toe:voegen-binnen van Marketo E-mail voor  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
