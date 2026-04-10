@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
 
-# E-mailsjablonen bewerken met de geavanceerde HTML-editor {#email-template-expert-mode}
+# E-mailsjablonen bewerken met de geavanceerde HTML-editor {#advanced-html-mode}
 
 Met de geavanceerde HTML-modus kunt u de onbewerkte broncode van e-mailsjablonen rechtstreeks vanuit de [!DNL Marketo Engage] E-mailinterface van Designer weergeven en bewerken.
 
@@ -38,15 +38,15 @@ Wanneer u de geavanceerde HTML-editor gebruikt, beschermen de volgende instructi
 
 Voer de volgende stappen uit om de geavanceerde HTML-editor te openen en de sjabloonbron te bewerken.
 
-1. Open of [&#x200B; creeer een e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) in E-mail Designer.
+1. Open of [ creeer een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) in E-mail Designer.
 
-1. Klik in het scherm E-mailsjabloon bewerken op de HTML-knop in de rechterbovenhoek.
+1. In _geef e-mailmalplaatje_ scherm uit, klik de knoop van HTML in de hoger-juiste hoek.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. De eerste keer dat u de geavanceerde HTML-editor opent, verschijnt er een waarschuwingsbericht. Controleer het **[!UICONTROL OK]** wanneer gereed is.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ Voer de volgende stappen uit om de geavanceerde HTML-editor te openen en de sjab
 
 1. De geavanceerde HTML-editor wordt weergegeven.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. Voeg de gewenste wijzigingen toe aan uw e-mailinhoud.
 
@@ -64,7 +64,7 @@ Voer de volgende stappen uit om de geavanceerde HTML-editor te openen en de sjab
 
 1. Vanwege compatibiliteitsredenen zijn het simuleren en opslaan van inhoud niet beschikbaar in de geavanceerde HTML-weergave. Schakel terug naar de weergave Computer om een voorvertoning van uw inhoud weer te geven en uw wijzigingen op te slaan.
 
-   SCREENSHOT
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
