@@ -4,9 +4,9 @@ description: Hoe te, gebruikersrollen plaatsen tot stand te brengen en uit te ge
 title: Gebruikersrollen en -machtigingen beheren
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
@@ -24,26 +24,23 @@ Een marketinggebruiker heeft bijvoorbeeld doorgaans brede toegang nodig in de to
 Marketo biedt verschillende ingebouwde rollen met verschillende toegangsniveaus:
 
 * **Admin** - alle delen van de toepassing, met inbegrip van de Admin sectie
+* **Admin van het Product van Adobe** - alle delen van de toepassing, met inbegrip van de Admin sectie
 * **Standaard Gebruiker** - alle delen van de toepassing, behalve de sectie Admin
 * **Gebruiker van de Marketing** - alle delen van de toepassing, behalve de Admin sectie
 * **Designer van het Web** - slechts de Studio van het Ontwerp
 * **Gebruiker van Analytics** - slechts de sectie van Analytics
 
-U kunt de rollen Admin en Standaard van de Gebruiker niet uitgeven, maar u kunt anderen uitgeven. U kunt nieuwe douanerollen ook tot stand brengen om de bepaalde organisatorische structuren in uw bedrijf aan te passen.
-
-## Marketo met Adobe-identiteit {#marketo-with-adobe-identity}
-
-Als u Marketo met de Identiteit van Adobe gebruikt, kan de lijst van profielbeschrijvingen [&#x200B; hier &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels) worden gevonden.
+U kunt de rollen Admin of Adobe Product Admin niet schrappen, maar u kunt andere uitgeven/schrappen. U kunt nieuwe douanerollen ook tot stand brengen om de bepaalde organisatorische structuren in uw bedrijf aan te passen.
 
 ## Rollen toewijzen aan een gebruiker {#assign-roles-to-a-user}
 
-U kunt rollen aan een gebruiker toewijzen wanneer u [&#x200B; gebruikers voor het eerst &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) creeert of door [&#x200B; het uitgeven van een bestaande gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+U kunt rollen aan een gebruiker toewijzen wanneer u [ gebruikers voor het eerst ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) creeert of door [ het uitgeven van een bestaande gebruiker ](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
@@ -57,7 +54,7 @@ U kunt rollen aan een gebruiker toewijzen wanneer u [&#x200B; gebruikers voor he
 
    >[!NOTE]
    >
-   >Om over elke rol te leren, zie [&#x200B; Beschrijvingen van de Toestemmingen van de Rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
+   >Om over elke rol te leren, zie [ Beschrijvingen van de Toestemmingen van de Rol ](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## Een nieuwe rol maken {#create-a-new-role}
 
@@ -67,7 +64,7 @@ Soms, heeft uw organisatie werknemers in zeer specifieke rollen die een douaneco
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
@@ -75,7 +72,7 @@ Soms, heeft uw organisatie werknemers in zeer specifieke rollen die een douaneco
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. Klik op **[!UICONTROL New Role]**.
+1. Klik op **[!UICONTROL New Role]** .
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
@@ -91,7 +88,7 @@ Als u de toestemmingen moet veranderen die met een bestaande rol worden geassoci
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
@@ -119,7 +116,7 @@ Als een rol onnodig wordt, kunt u deze verwijderen.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 

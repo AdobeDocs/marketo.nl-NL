@@ -4,9 +4,9 @@ description: Stappen om gebruikersrollen te creëren, te schrappen en uit te gev
 title: Een gebruikersrol maken, verwijderen, bewerken en wijzigen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '268'
 ht-degree: 1%
 
 ---
@@ -21,13 +21,10 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->De volgende rollen zijn systeemrollen en kunnen niet worden uitgegeven of worden geschrapt:
+>De volgende rollen zijn systeemrollen en kunnen niet worden geschrapt:
 >
 >* Beheerder
 >* Adobe-productbeheerder
->* Standaardgebruiker
->* RTP-editor
->* RTP Launcher
 
 ## Een rol maken {#create-a-role}
 
@@ -35,7 +32,7 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
@@ -53,7 +50,7 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
@@ -79,7 +76,7 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
@@ -101,7 +98,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Wilt u het e-mailadres van uw account bijwerken? [&#x200B; leer hoe hier &#x200B;](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
+   >Wilt u het e-mailadres van uw account bijwerken? [ leer hoe hier ](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Gebruikersrol wijzigen {#change-a-users-role}
 
@@ -109,7 +106,7 @@ ht-degree: 1%
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
