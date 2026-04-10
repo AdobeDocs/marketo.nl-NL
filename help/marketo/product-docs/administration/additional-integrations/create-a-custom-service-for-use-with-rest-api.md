@@ -27,7 +27,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 >[!TIP]
 >
->Controle uit onze ontwikkelaarsdocumentatie voor details op [&#x200B; REST API &#x200B;](https://developer.adobe.com/marketo-apis/). Wij hebben ook [&#x200B; SOAP API &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
+>Controle uit onze ontwikkelaarsdocumentatie voor details op [&#x200B; REST API &#x200B;](https://developer.adobe.com/marketo-apis/). Wij hebben ook [&#x200B; SOAP API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/soap/soap-api) als dat is wat u nodig hebt.
 
 ## Aangepaste service maken {#create-custom-service}
 
