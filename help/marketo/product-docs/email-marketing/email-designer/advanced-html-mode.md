@@ -1,14 +1,14 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Aangepaste CSS toevoegen aan uw e-mailinhoud
-description: Leer hoe u aangepaste CSS toevoegt aan e-mailinhoud in de Designer-mailtoepassing. Maak je e-mails op met aangepaste code in Marketo Engage.
+title: E-mailsjablonen bewerken met de geavanceerde HTML-editor
+description: Leer hoe u onbewerkte HTML-broncode in de Marketo Engage Email Designer kunt weergeven en bewerken, inclusief instructies, toegangsstappen en belangrijke beperkingen.
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Wanneer u de geavanceerde HTML-editor gebruikt, beschermen de volgende instructi
 
 Voer de volgende stappen uit om de geavanceerde HTML-editor te openen en de sjabloonbron te bewerken.
 
-1. Open of [&#x200B; creeer een e-mailmalplaatje &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) in E-mail Designer.
+1. Open of [ creeer een e-mailmalplaatje ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) in E-mail Designer.
 
 1. In _geef e-mailmalplaatje_ scherm uit, klik de knoop van HTML in de hoger-juiste hoek.
 
