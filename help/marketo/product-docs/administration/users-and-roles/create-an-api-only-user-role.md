@@ -4,7 +4,7 @@ description: Hoe te om een slechts API gebruikersrol voor integratie van REST AP
 title: Een gebruikersrol maken die alleen een API is
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een gebruikersrol maken die alleen een API is {#create-an-api-only-user-role}
 
-Als u met Marketo via [&#x200B; REST API &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/rest-api) wilt integreren, moet de beste praktijk [&#x200B; een gebruiker toewijzen de slechts API rol &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md) en dan [&#x200B; tot de douanedienst voor gebruik met REST API &#x200B;](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) leiden. Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
+Als u met Marketo via [ REST API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) wilt integreren, moet de beste praktijk [ een gebruiker toewijzen de slechts API rol ](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md) en dan [ tot de douanedienst voor gebruik met REST API ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) leiden. Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Als u met Marketo via [&#x200B; REST API &#x200B;](https://experienceleague.adob
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. Klik op **[!UICONTROL Users & Roles]**.
+1. Klik op **[!UICONTROL Users & Roles]** .
 
    ![](assets/create-an-api-only-user-role-2.png)
 
@@ -41,4 +41,4 @@ Als u met Marketo via [&#x200B; REST API &#x200B;](https://experienceleague.adob
 
 >[!MORELIKETHIS]
 >
->Goed gedaan! Nu maak [&#x200B; een slechts gebruiker API &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
+>Goed gedaan! Nu maak [ een slechts gebruiker API ](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md).

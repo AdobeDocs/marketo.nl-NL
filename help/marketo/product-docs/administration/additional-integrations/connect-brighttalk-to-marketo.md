@@ -4,10 +4,10 @@ description: Verbind uw  [!DNL BrightTALK]  kanaal met Marketo via LaunchPoint g
 title: Verbind  [!DNL BrightTALK]  met Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Leer hoe u het [!DNL BrightTALK] -kanaal koppelt aan uw Marketo-instantie. Hierv
 
 ## Stappen in [!DNL BrightTALK] {#steps-in-brighttalk}
 
-1. Login aan [&#x200B; business.brighttalk.com/demandcentral &#x200B;](https://business.brighttalk.com/demandcentral/login){target="_blank"} en klik **[!UICONTROL Connect Now]**.
+1. Login aan [ business.brighttalk.com/demandcentral ](https://business.brighttalk.com/demandcentral/login){target="_blank"} en klik **[!UICONTROL Connect Now]**.
 1. Klik onder [!UICONTROL Advanced Marketo Connector] op **[!UICONTROL Connect]** .
 1. U komt naar het aanmeldingsscherm en vraagt om: Client ID, Client Secret, Identity Service URL en Rest Service URL. Meld u aan bij Marketo voor deze informatie.
 
@@ -31,9 +31,9 @@ Leer hoe u het [!DNL BrightTALK] -kanaal koppelt aan uw Marketo-instantie. Hierv
 >
 >U moet nu een [!DNL API Only User Role] en [!DNL API User] instellen om te beperken welke machtigingen [!DNL BrightTALK] in uw Marketo-instantie heeft. Omdat we al artikelen voor die stappen hebben, koppelen we u aan deze stappen.
 
-1. Creeer een [&#x200B; slechtsAPI Rol van de Gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
+1. Creeer een [ slechtsAPI Rol van de Gebruiker ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [&#x200B; creeer een API Gebruiker &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}, gebruikend de [!DNL BrightTALK] API Rol u tijdens Stap 4 creeerde.
+1. [ creeer een API Gebruiker ](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}, gebruikend de [!DNL BrightTALK] API Rol u tijdens Stap 4 creeerde.
 
 1. Ga terug naar het **[!UICONTROL Admin]** -gebied.
 
@@ -55,7 +55,7 @@ Leer hoe u het [!DNL BrightTALK] -kanaal koppelt aan uw Marketo-instantie. Hierv
    >
    >Vergeet niet [!DNL BrightTALK] niet in de vervolgkeuzelijst te selecteren. Dit is een gebied dat we momenteel verwijderen en door dit te selecteren kunnen er belangrijke problemen ontstaan met uw [!DNL Marketo/BrightTALK] -integratie.
 
-1. Voer een [!UICONTROL Description] van uw keuze in. Klik op de vervolgkeuzelijst **[!UICONTROL API Only User]** en selecteer de [!DNL BrightTALK API User] die u tijdens Stap 5 hebt gemaakt. Klik op **[!UICONTROL Create]**.
+1. Voer een [!UICONTROL Description] van uw keuze in. Klik op de vervolgkeuzelijst **[!UICONTROL API Only User]** en selecteer de [!DNL BrightTALK API User] die u tijdens Stap 5 hebt gemaakt. Klik op **[!UICONTROL Create]** .
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
@@ -63,7 +63,7 @@ Leer hoe u het [!DNL BrightTALK] -kanaal koppelt aan uw Marketo-instantie. Hierv
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 
-1. Kopieer (en sla) **[!UICONTROL Client ID]** en **[!UICONTROL Client Secret]** op. Klik op **[!UICONTROL Close]**.
+1. Kopieer (en sla) **[!UICONTROL Client ID]** en **[!UICONTROL Client Secret]** op. Klik op **[!UICONTROL Close]** .
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 
@@ -79,4 +79,4 @@ Leer hoe u het [!DNL BrightTALK] -kanaal koppelt aan uw Marketo-instantie. Hierv
 
 1. Keer terug naar het [!DNL BrightTALK] scherm van de schakelaaropstelling van Stap 3, en ga de geloofsbrieven in u van Stappen 12 en 14 bewaarde.
 
-Nadat de aanmeldingsgegevens zijn geverifieerd, hebt u officieel verbinding gemaakt met Marketo. [!DNL BrightTALK] In de volgende stap moet u bepalen welke gegevensvelden u wilt synchroniseren. Als u hulp met dat nodig hebt, gelieve te contacteren Steun bij [&#x200B; BrightTALK &#x200B;](https://www.brighttalk.com/){target="_blank"}.
+Nadat de aanmeldingsgegevens zijn geverifieerd, hebt u officieel verbinding gemaakt met Marketo. [!DNL BrightTALK] In de volgende stap moet u bepalen welke gegevensvelden u wilt synchroniseren. Als u hulp met dat nodig hebt, gelieve te contacteren Steun bij [ BrightTALK ](https://www.brighttalk.com/){target="_blank"}.

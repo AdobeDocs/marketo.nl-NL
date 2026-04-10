@@ -3,7 +3,7 @@ description: Leer hoe u een Adobe Experience Platform-segment naar een statische
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '606'
 ht-degree: 0%
@@ -16,12 +16,12 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
 >[!PREREQUISITES]
 >
->* [&#x200B; geef de API Rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} uit om ervoor te zorgen het **lees-schrijf Persoon** toestemming heeft (die onder de toegang API drop-down wordt gevonden).
->* [&#x200B; creeer een Gebruiker van API &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"} in Marketo.
+>* [ geef de API Rol ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} uit om ervoor te zorgen het **lees-schrijf Persoon** toestemming heeft (die onder de toegang API drop-down wordt gevonden).
+>* [ creeer een Gebruiker van API ](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} in Marketo.
 >* Ga naar **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]** . Zoek de naam van de rol die u net hebt gemaakt en klik op **[!UICONTROL View Details]** . Kopieer en sla de informatie op in **[!UICONTROL Client ID]** en **[!UICONTROL Client Secret]** , zoals u deze nodig hebt voor stap 7.
 >* Maak in Marketo een statische lijst of zoek en selecteer een lijst die u al hebt gemaakt. Je hebt de id nodig.
 
-1. Login aan [&#x200B; Adobe Experience Platform &#x200B;](https://experience.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Experience Platform ](https://experience.adobe.com/){target="_blank"}.
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 
@@ -33,7 +33,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
    ![](assets/push-an-adobe-experience-platform-segment-3.png)
 
-1. Klik op **[!UICONTROL Catalog]**.
+1. Klik op **[!UICONTROL Catalog]** .
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
@@ -41,7 +41,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
-1. Klik op **[!UICONTROL Configure New Destination]**.
+1. Klik op **[!UICONTROL Configure New Destination]** .
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
 
@@ -85,7 +85,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
    >
    >Nadat een segment aan de bestemming van Marketo voor het eerst is geactiveerd, kan het terugvullen van profielen die reeds in het segment voorafgaand aan de bestemmingsactivering van Marketo bestaan _tot 24 uren_ nemen. Als er tijdprofielen aan het segment worden toegevoegd, worden deze meteen aan Marketo toegevoegd.
 
-1. Klik op **[!UICONTROL Add New Mapping]**.
+1. Klik op **[!UICONTROL Add New Mapping]** .
 
    ![](assets/push-an-adobe-experience-platform-segment-13.png)
 
@@ -99,7 +99,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
    >[!NOTE]
    >
-   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [&#x200B; beschrijf API verzoek &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
+   >U kunt kenmerken van Experience Platform toewijzen aan alle kenmerken waartoe uw organisatie in Marketo Engage toegang heeft. Gebruik [ beschrijf API verzoek ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} om attributengebieden terug te winnen die uw organisatie toegang heeft tot.
 
 1. Wijs Achternaam en Bedrijfsnaam toe door nogmaals op **[!UICONTROL Add New Mapping]** te klikken en Stap 15 tweemaal te herhalen. Kies vervolgens **[!UICONTROL lastName]** en **[!UICONTROL companyName]** .
 
@@ -141,7 +141,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo E
 
    ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Klik op **[!UICONTROL Next]**.
+1. Klik op **[!UICONTROL Next]** .
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
