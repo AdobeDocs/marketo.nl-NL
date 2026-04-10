@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 In de onderstaande tabel kunt u de beschikbaarheid vergelijken van functies in onze vorige e-maileditor (E-maileditor 2.0) en onze nieuwe e-mailversie van Designer.
 
-Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;s &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
+Gelieve te controleren deze pagina (evenals de [ huidige versienota&#39;s ](/help/marketo/release-notes/current.md){target="_blank"}) voor updates.
 
 <table><thead>
   <tr>
@@ -262,22 +262,10 @@ Gelieve te controleren deze pagina (evenals de [&#x200B; huidige versienota&#39;
     <td>Beschikbaar</td>
   </tr>
   <tr>
-    <td>Workflows voor inhoudsgoedkeuring</td>
-    <td>Mogelijkheid om goedkeuringswerkstromen voor e-mails in Marketo Engage in te voeren.</td>
-    <td>Niet beschikbaar</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>E-mails in CRM</td>
-    <td>Mogelijkheid om informatie over e-mails naar uw CRM te verzenden.</td>
+    <td>HTML Editor</td>
+    <td>Mogelijkheid om de inhoud van HTML van <a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md"> e-mailmalplaatjes </a> te wijzigen.</td>
     <td>Beschikbaar</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>Code-editor</td>
-    <td>Mogelijkheid om de HTML-inhoud van e-mails, e-mailsjablonen en fragmenten te wijzigen.</td>
     <td>Beschikbaar</td>
-    <td>TBD</td>
   </tr>
   <tr>
     <td>Ondersteuning voor het verplaatsen, verwijderen en importeren van programma's met e-mailmiddelen</td>
