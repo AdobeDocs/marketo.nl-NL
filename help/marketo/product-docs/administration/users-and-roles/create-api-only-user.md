@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Marketo Engage Marketing Users and Administrators worden beheerd in Adobe Admin Console, maar Gebruikers van de Marketo Engage API moeten in Marketo Engage worden gemaakt en beheerd.
 
-In de onderstaande stappen wordt beschreven hoe u een gebruiker met alleen een API in Marketo Engage kunt toevoegen. Alvorens dit te doen, moet u [ hebben gevestigd een slechts API Rol ](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+In de onderstaande stappen wordt beschreven hoe u een gebruiker met alleen een API in Marketo Engage kunt toevoegen. Alvorens dit te doen, moet u [&#x200B; hebben gevestigd een slechts API Rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 
 1. Klik in Marketo op **[!UICONTROL Admin]** en selecteer **[!UICONTROL Users & Roles]** .
 
