@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 1%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 1%
          + [Adobe Identity Management - Overzicht](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Beheerdersinstellingen](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Productbeheerinstellingen](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Alleen API-gebruiker toevoegen voor door Adobe IMS ingeschakelde abonnementen](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [Een productbeheerder toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [Een gebruiker toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [Veelgestelde vragen](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Aanmelden door gebruiker bij Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + Abonnement en gebruikersmigratie {#subscription-and-user-migration}
-            + [Migreren naar Adobe-identiteit](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Marketo Engage-supportmigratie](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [Handleiding voor probleemoplossing](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Instellingen {#settings}
          + [Bulkexport-API-informatie](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campagne-controle](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 1%
          + [Een programmakanaal verbergen/verbergen](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [Tagwaarden beheren](product-docs/administration/tags/managing-tag-values.md)
       + Gebruikers en rollen {#users-and-roles}
+         + [Een productbeheerder toevoegen of verwijderen](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [Een gebruiker toevoegen of verwijderen](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [E-mailverificatie](product-docs/administration/users-and-roles/email-verification.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
