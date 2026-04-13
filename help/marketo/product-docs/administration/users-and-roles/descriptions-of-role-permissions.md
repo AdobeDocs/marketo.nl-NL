@@ -4,9 +4,9 @@ description: Lijst met verwijzingen naar alle rolinachtigingen in Marketo, waaro
 title: Beschrijvingen van rolmachtigingen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Aanvullende informatie over machtigingen:
 
 ## Beschikbare machtigingen {#available-permissions}
 
-Wanneer u [&#x200B; creeert of een rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) uitgeeft, kunt u selecteren welke van de volgende toestemmingen om voor die rol toe te staan door de aangewezen dozen te controleren.
+Wanneer u [ creeert of een rol ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md) uitgeeft, kunt u selecteren welke van de volgende toestemmingen om voor die rol toe te staan door de aangewezen dozen te controleren.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -32,10 +32,10 @@ Wanneer u [&#x200B; creeert of een rol &#x200B;](/help/marketo/product-docs/admi
 In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen.
 
 * Toegang tot Adobe Connect - geeft gebruikers toegang tot het Adobe Connect-scherm
-* Toegang tot Adobe Experience Manager &#42; - geeft gebruikers toegang tot het scherm van Adobe Experience Manager
-* Toewijzing Adobe-organisatie benaderen &#42; - geeft gebruikers toegang tot het scherm Toewijzing Adobe-organisatie
-* Access Admin Audit Trail &#42; - geeft gebruikers toegang tot het scherm Admin Audit Trail
-* Access Access Audit Trail &#42; - geeft gebruikers toegang tot Access Audit Trail
+* Toegang tot Adobe Experience Manager - geeft gebruikers toegang tot het Adobe Experience Manager-scherm
+* Toewijzing Adobe-organisatie benaderen - geeft gebruikers toegang tot het scherm Toewijzing Adobe-organisatie
+* Access Admin Audit Trail - geeft gebruikers toegang tot het scherm Admin Audit Trail
+* Access Access Audit Trail - geeft gebruikers toegang tot Access Audit Trail
 * Access Audit Trail - geeft gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail
 * Toegang tot CAPTCHA - Toegang tot het scherm CAPTCHA
 * Toegang tot kanalen - Gebruikers hebben alleen toegang om de Kanaaltag te wijzigen, niet andere aangepaste tags
@@ -51,11 +51,11 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegangslocatie - Gebruikers hebben toegang tot de locatie in Admin voor het instellen van de standaardtaal, -landinstelling, -tijdzone en -valuta
 * Toegangsgeschiedenis voor aanmelding - geeft gebruikers toegang tot registratiegeschiedenis van gebruiker in audittrail
 * De Montages van de Login van de toegang - verleent gebruikers toegang tot Login Montages in Admin voor Veiligheid, IP Beperkingen, en de Slimme montages van het Rapport van de Lijst
-* Toegang tot nieuwe ervaring &#42; - Biedt gebruikers toegang tot het scherm Nieuwe ervaring
+* Toegang tot nieuwe ervaring - geeft gebruikers toegang tot het scherm Nieuwe ervaring
 * Toegang tot aangepaste Marketo-activiteiten - geeft gebruikers toegang tot aangepaste Marketo-activiteiten in Admin
 * Toegang tot aangepast Marketo-object - geeft gebruikers toegang tot aangepaste Marketo-objecten in Admin
 * Toegang [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, for setting tracking code, person tracking, and enable API configuration
-* Voorspelend publiek van de toegang &#42; - geeft gebruikers toegang tot het Voorspelende scherm van het publiek
+* Toegang tot voorspellend publiek - geeft gebruikers toegang tot het scherm Voorspelend publiek
 * De Analyse van de Cyclus van de Opbrengst van de toegang - geeft gebruikers toegang tot de Analytics van de Cyclus van de Opbrengst in Admin, voor het plaatsen van Samenvatting en Attributie van de Synchronisatie
 * De Rollen van de toegang - verleent gebruikers toegang om rollen te beheren en uit te geven, maar niet gebruikers
 * Access Sales Insight - geeft gebruikers toegang tot het beheer van Sales Insight in Admin, voor het instellen van Status, API-configuratie, Person Scores en andere instellingen
@@ -67,8 +67,6 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Gebruikers benaderen - Gebruikers hebben toegang tot het bewerken en beheren van gebruikers (maar niet van rollen) in Admin
 * Toegang tot webhaken - Geeft gebruikers in Admin toegang tot webhooks voor het instellen van details en responstoewijzingen
 * Toegang tot werkruimten en partities - biedt gebruikers toegang tot het maken, bewerken en verwijderen van werkruimten en partities in Admin
-
-_&#42;om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. Wij zullen meedelen hoe te om het uit te voeren wanneer het in midden-2024 actief wordt._
 
 ## API voor toegang  {#access-api}
 
@@ -102,11 +100,9 @@ Verleent gebruikers met **slechts API** **de toegang van de Rol** tot individuel
 Biedt gebruikers toegang tot de tabbladen Analytics, Email Insights, Reports en de drie onderstaande items, tenzij deze zijn uitgeschakeld.
 
 * De Ontdekkingsreiziger van de Inkomsten van de toegang - Unchecking verwijdert de toegang van de gebruiker tot Ontdekkingsreiziger van de Inkomsten
-* Rapport maken &#42; - Biedt gebruikers toegang tot het maken, klonen, lezen, bijwerken en verplaatsen van Rapportelementen in Analytics en Marketing Activity, en van de Revenue Cycle Modeler-middelen
+* Rapport maken - Gebruikers toegang geven tot Rapportmiddelen maken, klonen, lezen, bijwerken en verplaatsen in Analytics- en marketingactiviteiten, en tot de Modeler-middelen van Revenue Cycle
 * Rapport verwijderen - Als de controle ongedaan wordt gemaakt, kan de gebruiker rapporten verwijderen
 * Analytische gegevens exporteren - Als de controle ongedaan wordt gemaakt, kan de gebruiker geen analysegegevens exporteren
-
-_&#42;om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. Wij zullen meedelen hoe te om het uit te voeren wanneer het in midden-2024 actief wordt._
 
 ## Kalenderpresentaties openen {#access-calendar-presentations}
 
@@ -120,11 +116,11 @@ Biedt gebruikers toegang tot het lusje van de Studio van het Ontwerp en mening v
 
 * Toegang tot e-mail
    * E-mail bewerken - Hiermee geeft u gebruikers toestemming om e-mailberichten te bewerken, maken en klonen
-      * Operationele e-mails maken en bewerken - geeft gebruikers toestemming om operationele e-mails te maken en/of bewerken. Zie: [&#x200B; maak een Operationele E-mail &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Operationele e-mails maken en bewerken - geeft gebruikers toestemming om operationele e-mails te maken en/of bewerken. Zie: [ maak een Operationele E-mail ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * E-mail goedkeuren - Hiermee kunnen gebruikers e-mailberichten goedkeuren.
       * E-mail verwijderen - Hiermee kunnen gebruikers e-mailberichten verwijderen.
-      * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [&#x200B; voeg een Extra brandend Domein &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) toe
+      * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [ voeg een Extra brandend Domein ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) toe
 
 * Toegang tot e-mailsjabloon
 
@@ -178,7 +174,7 @@ Bekijk de database en bekijk en bewerk slimme/statische lijsten.
    * Segmentering bewerken
 
 * Persoon verwijderen
-* Lijst maken &#42;
+* Lijst maken
    * Toegang tot het maken van een lijstmiddel in database- en marketingactiviteiten
    * Toegang tot het maken van een slim lijstmiddel in database- en marketingactiviteiten
 * Lijst verwijderen
@@ -190,8 +186,6 @@ Bekijk de database en bekijk en bewerk slimme/statische lijsten.
 * Looppas Enige Acties van de Stroom - laat gebruikers toe om **de Stroom van de Waarde van Gegevens van de Verandering** op mensen van het gegevensbestand in werking te stellen
 
 * Opportuniteitsgegevens weergeven - Verbergt de opportuniteitsinformatie op de pagina met persoonlijke details
-
-_&#42;om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. Wij zullen meedelen hoe te om het uit te voeren wanneer het in midden-2024 actief wordt._
 
 ## Toegang tot marketingactiviteiten {#access-marketing-activities}
 
@@ -225,8 +219,6 @@ Toegang tot SEO
 
 * SEO beheren
 * StandaardSEO
-
-_&#42;om verstoring voor bestaande gebruikers te vermijden, wordt deze toestemming geïntroduceerd op passieve wijze en is zichtbaar maar niet op dit ogenblik toegankelijk. Wij zullen meedelen hoe te om het uit te voeren wanneer het in midden-2024 actief wordt._
 
 ## Targeting en Personalization {#targeting-and-personalization}
 
