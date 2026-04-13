@@ -198,7 +198,7 @@ ht-degree: 1%
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [ geef de Werkruimten van de Gebruiker uit ](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [&#x200B; geef de Werkruimten van de Gebruiker uit &#x200B;](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gebruikersrollen en -machtigingen beheren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
