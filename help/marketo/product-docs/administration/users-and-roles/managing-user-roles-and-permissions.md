@@ -4,9 +4,9 @@ description: Hoe te, gebruikersrollen plaatsen tot stand te brengen en uit te ge
 title: Gebruikersrollen en -machtigingen beheren
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '457'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ U kunt de rollen Admin of Adobe Product Admin niet schrappen, maar u kunt andere
 
 ## Rollen toewijzen aan een gebruiker {#assign-roles-to-a-user}
 
-U kunt rollen aan een gebruiker toewijzen wanneer u [&#x200B; gebruikers voor het eerst &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) creeert of door [&#x200B; het uitgeven van een bestaande gebruiker &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+U kunt rollen aan een gebruiker toewijzen wanneer u [ gebruikers voor het eerst ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) creeert.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
@@ -54,7 +54,7 @@ U kunt rollen aan een gebruiker toewijzen wanneer u [&#x200B; gebruikers voor he
 
    >[!NOTE]
    >
-   >Om over elke rol te leren, zie [&#x200B; Beschrijvingen van de Toestemmingen van de Rol &#x200B;](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
+   >Om over elke rol te leren, zie [ Beschrijvingen van de Toestemmingen van de Rol ](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md).
 
 ## Een nieuwe rol maken {#create-a-new-role}
 

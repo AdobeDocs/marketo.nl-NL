@@ -4,7 +4,7 @@ description: Leer hoe u zich bij Marketo Engage aanmeldt en gebruikersbeheer geb
 title: Aanmelding en gebruikersbeheer
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Voer een [!UICONTROL Role Name] in en selecteer [!UICONTROL Permissions] . Klik **[!UICONTROL Create]** (deze rol moet [&#x200B; op alle werkruimten &#x200B;](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) van toepassing zijn).
+1. Voer een [!UICONTROL Role Name] in en selecteer [!UICONTROL Permissions] . Klik **[!UICONTROL Create]** (deze rol moet [ op alle werkruimten ](/help/marketo/product-docs/administration/users-and-roles/edit-user-workspaces.md) van toepassing zijn).
 
    ![](assets/four.png)
 
