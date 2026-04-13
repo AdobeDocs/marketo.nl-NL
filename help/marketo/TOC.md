@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9129'
 ht-degree: 1%
 
 ---
@@ -169,7 +169,6 @@ ht-degree: 1%
          + [Campagne-controle](product-docs/administration/settings/campaign-inspector.md)
          + [Kenmerkinstellingen wijzigen voor Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Een aangepast tabblad maken voor de detailpagina voor personen](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [Accountinstellingen bewerken](product-docs/administration/settings/edit-account-settings.md)
          + [Browserondersteuningsinstellingen &quot;Niet bijhouden&quot; bewerken](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Instellingen openingspagina bewerken](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Vervaldatum koppeling bewerken in rapporten en waarschuwingen](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
@@ -199,7 +198,7 @@ ht-degree: 1%
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; geef de Werkruimten van de Gebruiker uit &#x200B;](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ geef de Werkruimten van de Gebruiker uit ](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gebruikersrollen en -machtigingen beheren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)

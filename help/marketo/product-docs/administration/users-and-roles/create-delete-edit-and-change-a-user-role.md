@@ -4,9 +4,9 @@ description: Stappen om gebruikersrollen te creëren, te schrappen en uit te gev
 title: Een gebruikersrol maken, verwijderen, bewerken en wijzigen
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -95,10 +95,6 @@ ht-degree: 1%
    >[!NOTE]
    >
    >De wijzigingen aan de rol zijn van invloed op elke gebruiker die aan deze rol is gekoppeld.
-
-   >[!TIP]
-   >
-   >Wilt u het e-mailadres van uw account bijwerken? [&#x200B; leer hoe hier &#x200B;](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Gebruikersrol wijzigen {#change-a-users-role}
 
