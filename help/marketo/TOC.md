@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9132'
 ht-degree: 1%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 1%
          + [Bulkexport-API-informatie](product-docs/administration/settings/bulk-export-api-information.md)
          + [Campagne-controle](product-docs/administration/settings/campaign-inspector.md)
          + [Kenmerkinstellingen wijzigen voor Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Je Marketo-wachtwoord wijzigen](product-docs/administration/settings/change-your-marketo-password.md)
-         + [Beveiligingsinstellingen voor wachtwoord wijzigen](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Een aangepast tabblad maken voor de detailpagina voor personen](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Accountinstellingen bewerken](product-docs/administration/settings/edit-account-settings.md)
          + [Browserondersteuningsinstellingen &quot;Niet bijhouden&quot; bewerken](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 1%
          + [Marketo-aanmeldingen beperken op basis van IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Uw tijdzone wijzigen](product-docs/administration/settings/change-time-zone.md)
          + [Een terugvalpagina instellen](product-docs/administration/settings/set-a-fallback-page.md)
-         + [Standaardinstellingen voor locatie instellen voor een abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [De standaardvaluta instellen](product-docs/administration/settings/set-default-currency.md)
          + [Privacy-instellingen begrijpen](product-docs/administration/settings/understanding-privacy-settings.md)
       + Tags {#tags}
          + [Nieuwe programmatag- en tagwaarden maken](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,8 @@ ht-degree: 1%
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [E-mailverificatie](product-docs/administration/users-and-roles/email-verification.md)
+         + [ geef de Werkruimten van de Gebruiker uit ](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Marketo-gebruikers beheren](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gebruikersrollen en -machtigingen beheren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beschrijvingen van rolmachtigingen](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
