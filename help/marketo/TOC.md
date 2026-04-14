@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '9129'
 ht-degree: 1%
@@ -198,7 +198,7 @@ ht-degree: 1%
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; geef de Werkruimten van de Gebruiker uit &#x200B;](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ geef de Werkruimten van de Gebruiker uit ](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gebruikersrollen en -machtigingen beheren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -988,6 +988,12 @@ ht-degree: 1%
             + [Stroominhoud prioriteren](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Stream-inhoud verwijderen](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + Designer e-mailen {#email-designer}
+         + Merken {#brands}
+            + [Merkthema&#39;s](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Merk toepassen](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Uw merken maken en beheren](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Je merken personaliseren](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Merk uitlijnen](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [Overzicht](product-docs/email-marketing/email-designer/overview.md)
          + [Functievergelijking](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [E-mailontwerp](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1010,12 +1016,6 @@ ht-degree: 1%
          + [Collaboration e-mailen](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI Assistant voor e-mail Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [E-mailSpam Rapport met SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-         + Merken {#brands}
-            + [Merkthema&#39;s](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [Merk toepassen](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [Uw merken maken en beheren](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Je merken personaliseren](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [Merk uitlijnen](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + E-mailprogramma&#39;s {#email-programs}
          + Een e-mailprogramma maken {#creating-an-email-program}
             + [Een e-mailprogramma maken](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
