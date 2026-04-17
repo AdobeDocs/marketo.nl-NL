@@ -3,9 +3,9 @@ description: Leer hoe u Marketo AI-machtigingen kunt inschakelen, organisatorisc
 title: Instellingen en instellingen
 hide: true
 hidefromtoc: true
-source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
+source-git-commit: 2e7e068ac53c9f26075d700822fc1f89274dddbe
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '471'
 ht-degree: 1%
 
 ---
@@ -22,38 +22,14 @@ Er is een _Toegang bouwt met AI_ toestemming en a _bouwt met AI gebruiker_ rol, 
 >
 >De _Toegang bouwt met AI_ toestemming wordt niet toegelaten door gebrek voor alle rollen. Zie de onderstaande tabel voor meer informatie.
 
-<table><thead>
-  <tr>
-    <th>Functie</th>
-    <th>Standaardstatus</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Beheerder</td>
-    <td>Ingeschakeld</td>
-  </tr>
-  <tr>
-    <td>Adobe-productbeheerder</td>
-    <td>Ingeschakeld</td>
-  </tr>
-  <tr>
-    <td>Gebruiker van marketing</td>
-    <td>Uitgeschakeld</td>
-  </tr>
-  <tr>
-    <td>Standaardgebruiker</td>
-    <td>Niet beschikbaar</td>
-  </tr>
-  <tr>
-    <td>Samenstellen met AI-gebruiker</td>
-    <td>Ingeschakeld</td>
-  </tr>
-  <tr>
-    <td>Aangepaste rollen</td>
-    <td>Uitgeschakeld</td>
-  </tr>
-</tbody>
-</table>
+| Functie | Standaardstatus |
+| --- | --- |
+| Beheerder | Ingeschakeld |
+| Adobe-productbeheerder | Ingeschakeld |
+| Gebruiker van marketing | Uitgeschakeld |
+| Standaardgebruiker | Niet beschikbaar |
+| Samenstellen met AI-gebruiker | Ingeschakeld |
+| Aangepaste rollen | Uitgeschakeld |
 
 ### Toegang tot build met AI-machtiging {#access-build-with-ai-permission}
 
@@ -81,7 +57,7 @@ Volgt deze stappen om een specifieke gebruiker aan _toe te wijzen bouwen met AI 
 
 >[!NOTE]
 >
->Deze rol **slechts** bevat _Toegang bouwt met AI_ toestemmingen. Als u wilt dat de gebruiker toegang heeft tot meer dan alleen Marketo AI, moet u extra machtigingen toevoegen.
+>Deze rol **slechts** bevat _Toegang bouwt met AI_ toestemmingen.
 
 1. In uw Mijn Marketo, klik **Admin**, toen **Gebruikers &amp; Rollen**.
 
@@ -97,7 +73,7 @@ Volgt deze stappen om een specifieke gebruiker aan _toe te wijzen bouwen met AI 
 
 ### Aangepaste rol {#custom-role}
 
-U hebt ook de optie om een nieuwe rol [&#x200B; tot stand te brengen en zijn toestemmingen aan te passen, die &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [&#x200B; aan specifieke gebruikers.](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
+U hebt ook de optie om een nieuwe rol [ tot stand te brengen en zijn toestemmingen aan te passen, die ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [ aan specifieke gebruikers.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
 
 ## Instellingen {#settings}
 
