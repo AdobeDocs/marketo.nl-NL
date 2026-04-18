@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
 workflow-type: tm+mt
 source-wordcount: '9132'
 ht-degree: 1%
@@ -61,7 +61,7 @@ ht-degree: 1%
    + MARKETO AI {#marketo-ai}
       + [Overzicht](product-docs/marketo-ai/overview.md)
       + [Instellingen en instellingen](product-docs/marketo-ai/settings-setup.md)
-      + [Instellingen en instellingen](product-docs/marketo-ai/settings-setup-new.md)
+      + [Instellingen en instellingen](product-docs/marketo-ai/settings-setup-old.md)
       + Medewerkers {#agents}
          + [Importleads](product-docs/marketo-ai/agents/import-leads.md)
          + [Programma-kwaliteitscontrole](product-docs/marketo-ai/agents/program-qa.md)
@@ -199,7 +199,7 @@ ht-degree: 1%
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; geef de Werkruimten van de Gebruiker uit &#x200B;](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ geef de Werkruimten van de Gebruiker uit ](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Gebruikersrollen en -machtigingen beheren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)

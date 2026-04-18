@@ -3,11 +3,11 @@ description: Leer hoe u Marketo AI-machtigingen kunt inschakelen, organisatorisc
 title: Instellingen en instellingen
 hide: true
 hidefromtoc: true
-exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
+exl-id: faf642a1-25f0-4566-b35d-074b003835ed
+source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 0%
+source-wordcount: '472'
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,26 @@ ht-degree: 0%
 
 Leer hoe te om toestemmingen toe te laten en het gebied van Montages te gebruiken om verbindingsdetails te bekijken, organisatorische regels te bepalen, en opstellingsintegratie en berichten.
 
-## Machtigingen {#permissions}
+## Machtigingen en rollen {#permission-and-role}
+
+Er is een _Toegang bouwt met AI_ toestemming en a _bouwt met AI gebruiker_ rol, die beheerders grotere controle geeft waarover de gebruikers tot **kunnen toegang hebben bouwt met AI** eigenschap. De toestemming wordt toegewezen op het rolniveau. _bouwt met AI gebruiker_ rol komt met de _Toegang bouwt met AI_ toestemming die door gebrek wordt toegelaten.
 
 >[!IMPORTANT]
 >
->In de fase van Alpha van Marketo AI, _wordt de toegang toegelaten door gebrek_ voor de volgende rollen: Admin, Admin van het Product van Adobe, Gebruiker van de Marketing, StandaardGebruiker. Dus in plaats van het in te schakelen voor rollen die je toegang wilt hebben, moet je het uitschakelen voor rollen die je niet hebt.
+>De _Toegang bouwt met AI_ toestemming wordt niet toegelaten door gebrek voor alle rollen. Zie de onderstaande tabel voor meer informatie.
 
-### Toegang voor iedereen {#access-for-all}
+| Functie | Standaardstatus |
+| --- | --- |
+| Beheerder | Ingeschakeld |
+| Adobe-productbeheerder | Ingeschakeld |
+| Gebruiker van marketing | Uitgeschakeld |
+| Standaardgebruiker | Niet beschikbaar |
+| Samenstellen met AI-gebruiker | Ingeschakeld |
+| Aangepaste rollen | Uitgeschakeld |
 
-Als u Marketo AI ingeschakeld wilt voor alle rollen hierboven, hoeft u niets te doen.
+### Toegang tot build met AI-machtiging {#access-build-with-ai-permission}
 
-### Toegang voor sommigen {#access-for-some}
-
-Als u toegang voor om het even welke rollen wilt verwijderen, volg de hieronder stappen.
+Volg hieronder de stappen om _Toegang toe te laten bouwt met AI_ voor kwalificerende rollen die het niet reeds hebben toegelaten.
 
 1. In uw Mijn Marketo, klik **Admin**, toen **Gebruikers &amp; Rollen**.
 
@@ -37,33 +44,37 @@ Als u toegang voor om het even welke rollen wilt verwijderen, volg de hieronder 
 
    ![](assets/settings-setup-2.png)
 
-1. De rol neer en _uncheck_ de **Toegang bouwt met AI** checkbox en klikt **sparen**.
+1. De rol neer en controleert _Toegang bouwt met AI_ checkbox en klikt **sparen**.
 
    ![](assets/settings-setup-3.png)
 
-Herhaal deze stappen voor alle andere gewenste rollen.
+   >[!NOTE]
+   >
+   >U kunt deze zelfde stappen gebruiken om de toestemming te verwijderen door **niet** te controleren de _Toegang bouwt met AI_ checkbox.
 
-### Aangepaste rol {#custom-role}
+### Samenstellen met AI-gebruikersrol {#build-with-ai-user-role}
 
-U hebt ook de optie om een nieuwe rol [&#x200B; tot stand te brengen en zijn toestemmingen aan te passen, die &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [&#x200B; aan specifieke gebruikers.](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
+Volgt deze stappen om een specifieke gebruiker aan _toe te wijzen bouwen met AI gebruiker_ rol.
 
-<!-- ## Permissions {#permissions}
+>[!NOTE]
+>
+>Deze rol **slechts** bevat de _Toegang bouwt met AI_ toestemming.
 
-In order to access Marketo AI, Admins must first enable role permissions. 
-
-1. In your My Marketo, click **Admin**, then **Users & Roles**.
+1. In uw Mijn Marketo, klik **Admin**, toen **Gebruikers &amp; Rollen**.
 
    ![](assets/settings-setup-1.png)
 
-1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+1. Selecteer de gewenste gebruiker en klik **uitgeven Gebruiker**.
 
-   ![](assets/settings-setup-2.png)
+   ![](assets/settings-setup-5b.png)
 
-1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+1. In _Rollen en Werkruimten_, selecteer _bouwen met AI gebruiker_ checkbox. Als u meer dan één werkruimte hebt, kunt u specificeren welke degenen toegang in **krijgen +** onderteken drop-down. Klik **sparen** wanneer gedaan.
 
-   ![](assets/settings-setup-3.png)
+   ![](assets/settings-setup-6b.png)
 
--->
+### Aangepaste rol {#custom-role}
+
+U hebt ook de optie om een nieuwe rol [ tot stand te brengen en zijn toestemmingen aan te passen, die ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [ aan specifieke gebruikers.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
 
 ## Instellingen {#settings}
 
