@@ -4,7 +4,7 @@ title: Instellingen en instellingen
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: c0854d574b4fc995f249783aebcd15ed7d224851
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -45,9 +45,10 @@ Herhaal deze stappen voor alle andere gewenste rollen.
 
 ### Aangepaste rol {#custom-role}
 
-U hebt ook de optie om een nieuwe rol [&#x200B; tot stand te brengen en zijn toestemmingen aan te passen, die &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [&#x200B; aan specifieke gebruikers.](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
+U hebt ook de optie om een nieuwe rol [ tot stand te brengen en zijn toestemmingen aan te passen, die ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} toegang bouwen met AI _, samen met om het even wat u wilt, en_ toewijzend die rol [ aan specifieke gebruikers.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
 
-<!-- ## Permissions {#permissions}
+<!-- 
+## Permissions {#permissions}
 
 In order to access Marketo AI, Admins must first enable role permissions. 
 
