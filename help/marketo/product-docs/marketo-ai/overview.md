@@ -1,11 +1,11 @@
 ---
 description: Ontdek de Marketo Engage AI-suite van agents die zijn ontworpen om marketingtaken zoals programma-QA, 'lead import', normalisatie van gegevens en nog veel meer te automatiseren.
 title: Marketo Engage AI - Overzicht
-beta: true
+badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ In de centrumconsole zijn er zeven functies van het Bureau om u met diverse take
 
 ### Programma-kwaliteitscontrole {#program-qa}
 
-Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [&#x200B; Leer meer &#x200B;](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+Valideer Marketo Engage-programma&#39;s op basis van best practices en vul eventuele problemen in voordat u ze start. [ Leer meer ](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
 
 ### Importleads {#import-leads}
 
-U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [&#x200B; Leer meer &#x200B;](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+U kunt lijsten met leads importeren en dedupliceren in uw Marketo Engage-database met ondersteuning voor veldtoewijzingen. [ Leer meer ](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Lead onderzoeken (binnenkort beschikbaar) {#investigate-lead}
 

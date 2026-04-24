@@ -1,12 +1,12 @@
 ---
 description: Leer hoe u Marketo AI-machtigingen kunt inschakelen, organisatorische regels kunt configureren en instellingen zoals integratie en meldingen kunt beheren.
 title: Instellingen en instellingen
-beta: true
+badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 6a46070308e79bc3799b2da92962b5a3a2f73ce9
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 0%
+source-wordcount: '557'
+ht-degree: 1%
 
 ---
 
@@ -77,7 +77,7 @@ Volgt deze stappen om een specifieke gebruiker aan _toe te wijzen bouwen met AI 
 
 ### Aangepaste rol {#custom-role}
 
-U hebt ook de optie om een nieuwe rol [&#128279;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} tot stand te brengen en zijn toestemmingen aan te passen, die _toegang bouwen met AI_, samen met om het even wat u wilt, en [&#x200B; toewijzend die rol &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} aan specifieke gebruikers.
+U hebt ook de optie om een nieuwe rol ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} tot stand te brengen en zijn toestemmingen aan te passen, die _toegang bouwen met AI_, samen met om het even wat u wilt, en [ toewijzend die rol ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} aan specifieke gebruikers.[
 
 ## Instellingen {#settings}
 
