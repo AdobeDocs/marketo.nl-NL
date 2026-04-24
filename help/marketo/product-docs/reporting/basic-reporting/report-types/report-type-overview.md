@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Overzicht rapporttype {#report-type-overview}
 
-Wanneer u [ een rapport in een programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) creeert, kies welk type van rapport u wilt.
+Wanneer u [&#x200B; een rapport in een programma &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) creeert, kies welk type van rapport u wilt.
 
 ## Meest gebruikte rapporten {#most-used-reports}
 
