@@ -21,7 +21,7 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 
 >[!CAUTION]
 >
->Het toelaten van deze eigenschap verhindert u tot de [ Server MCP van Marketo ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} op dit ogenblik toegang te hebben. Dit wordt in een volgende release opgelost.
+>Het toelaten van deze eigenschap verhindert u tot de [&#x200B; Server MCP van Marketo &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} op dit ogenblik toegang te hebben. Dit wordt in een volgende release opgelost.
 
 1. Ga naar het **[!UICONTROL Admin]** -gebied.
 
