@@ -4,9 +4,9 @@ description: Leer hoe u een sjabloon voor een geleide bestemmingspagina maakt in
 title: Een sjabloon voor een bestemmingspagina met instructies maken
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '1135'
+source-wordcount: '1127'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Elementen worden gedeclareerd door een normaal DOM-element aan de sjabloon toe t
 
 ## Tekst {#text}
 
-Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [&#x200B; kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich &#x200B;](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Als u een gebied als Rijke Tekst bepaalt, zullen de gebruikers zijn inhoud [ kunnen uitgeven gebruikend de Redacteur van de Tekst van de RTF van Marketo Rich ](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Vereiste kenmerken:
 **klasse**: &quot;mktoText&quot;
@@ -79,7 +79,7 @@ Voorbeeld:
 
 >[!NOTE]
 >
->Wanneer u de `<img>` -versie gebruikt, bevat de gerenderde HTML een gegenereerde div-wrapper rond de `<img>` -tag. Deze wordt ingesteld op class.&quot;mktoImg.mktoGen,&quot;en zal vertoning :inline-block zijn.
+>Wanneer u de `<img>` -versie gebruikt, bevat de gerenderde HTML een gegenereerde div-wrapper rond de `<img>` -tag. Het zal aan klasse worden geplaatst.&quot;mktoImg.mktoGen,&quot;en zal vertoning :inline-block zijn.
 
 ## Formulier {#form}
 
@@ -192,11 +192,11 @@ Optioneel:
 
 Basisvoorbeeld:
 
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Voorbeeld met alle kenmerken:
+
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 In dit voorbeeld wordt een veelvoorkomend geval getoond waarin een Booleaanse variabele de zichtbaarheid van een CSS-element regelt door de waarde van de CSS-weergave-eigenschap in te stellen op &quot;block&quot; of &quot;none&quot; om een element met id weer te geven/te verbergen. In de editor van de bestemmingspagina wordt de weergavenaam Tonen/Verbergen gebruikt in plaats van UIT/ON.
 

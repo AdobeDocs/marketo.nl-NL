@@ -4,9 +4,9 @@ description: Leer hoe u kwalificatieregels kunt bewerken in een slimme campagne.
 title: Kwalificatieregels bewerken in een slimme campagne
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -29,14 +29,6 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een Slimme 
 
    >[!NOTE]
    >
-   >Wanneer u een regel instelt voor één keer per dag, zet Marketo dat om in uren. Als je bijvoorbeeld de regel één keer per dag instelt en een persoon op een zondagnacht om 10.00 uur in aanmerking komt, kan hij niet opnieuw in aanmerking komen tot maandag 10.00 uur. Deze logica is ook van toepassing bij het gebruik van weken of maanden. Een maand wordt altijd geteld als 30 dagen.
-
-   >[!NOTE]
+   >* Wanneer u een regel instelt voor één keer per dag, zet Marketo dat om in uren. Als je bijvoorbeeld de regel één keer per dag instelt en een persoon op een zondagnacht om 10.00 uur in aanmerking komt, kan hij niet opnieuw in aanmerking komen tot maandag 10.00 uur. Deze logica is ook van toepassing bij het gebruik van weken of maanden. Een maand wordt altijd geteld als 30 dagen.
    >
-   >Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [&#x200B; communicatielimieten op een Slimme Campagne &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.
-
-   >[!NOTE]
-   >
-   >[&#x200B; pas Communicatie Limieten op Slimme Campagnes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toe
-
-Opdracht voltooid! U weet nu hoe u kwalificatieregels kunt beheren in een slimme campagne.
+   >* Communicatie grenzen worden niet toegepast op Slimme Campagnes door gebrek. Leer hoe te [ communicatielimieten op een Slimme Campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} toepassen.

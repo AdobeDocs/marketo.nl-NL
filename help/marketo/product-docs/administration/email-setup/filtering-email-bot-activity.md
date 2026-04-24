@@ -3,10 +3,10 @@ description: Filter of log de activiteit van de e-mailbot om opgeblazen te verhi
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '467'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 10%
 
 ---
 
@@ -16,7 +16,7 @@ Soms kan e-mailactiviteit je e-mail abusievelijk opblazen en op gegevens klikken
 
 We gebruiken twee verschillende methoden om beide activiteiten te bevestigen:
 
-* De gelijke met [&#x200B; Interactieve de botLijst van het Bureau van Advertising &#x200B;](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
+* De gelijke met [ Interactieve de botLijst van het Bureau van Advertising ](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
 * Overeenkomst met nabijheidspatroon: wanneer twee of meer activiteiten tegelijkertijd plaatsvinden (in minder dan een seconde), worden ze geïdentificeerd als bots. Kenmerken die in aanmerking worden genomen tijdens de vergelijking zijn:
    * ID lead (moet hetzelfde zijn)
    * E-mailmiddel (moet hetzelfde zijn)
@@ -31,11 +31,11 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 
 ## Filtertype selecteren {#select-filter-type}
 
-1. Klik op **[!UICONTROL Admin]**.
+1. Klik op **[!UICONTROL Admin]** .
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Klik op **[!UICONTROL Email]**.
+1. Klik op **[!UICONTROL Email]** .
 
    ![](assets/filtering-email-bot-activity-2.png)
 
@@ -59,7 +59,7 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 >
 >* Als u [!UICONTROL Filter Bot Activity] kiest, wordt mogelijk een druppel in het e-mailbericht weergegeven en wordt op de knop geklikt omdat de bewerking onwaar is.
 
-**OPTIONELE STAP**: Om één van beide eigenschap onbruikbaar te maken, schrap eenvoudig de resectieve schuif. Als u dat wel doet, worden de gegevens niet opnieuw ingesteld.
+**OPTIONELE STAP**: Om één van beide eigenschap onbruikbaar te maken, schrap eenvoudig de respectieve schuif. Als u dat wel doet, worden de gegevens niet opnieuw ingesteld.
 
 >[!TIP]
 >
